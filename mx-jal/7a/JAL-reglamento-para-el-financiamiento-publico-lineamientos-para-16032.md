@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-financiamiento-publico-lineamientos-para-160
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2000-02-29"
+last_updated: "2002-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO, LINEAMIENTOS PARA EL FINANCIAMIENTO PRIVADO Y GASTOS DE CAMPAÑA DE LOS PARTIDOS POLITICOS REGISTRADOS O ACREDITADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -89,11 +89,13 @@ Los ingresos en dinero que perciban los partidos políticos conforme a la legisl
 
 Los estados de cuenta respectivos deberán conciliarse mensualmente y se remitirán a la autoridad electoral cuando ésta lo solicite.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 7.
 
 Los ingresos que perciban los partidos políticos de sus militantes, sean en efectivo, en especie, o en uso deberán respaldarse con copia de los recibos correspondientes.
 
-Los partidos políticos reportarán anexo a la presentación de los formatos “IS”, “IT”, “IC”, “ICI” según corresponda, los ingresos antes mencionados, detallando cada aportación mediante lista que contenga los siguientes datos:
+Los partidos políticos reportarán anexo a la presentación de los formatos “IS”, “IM”, “IT”, “IC”, “ICI” según corresponda, los ingresos antes mencionados, detallando cada aportación mediante lista que contenga los siguientes datos:
 
 a) Lugar y fecha
 
@@ -103,15 +105,17 @@ c) Tipo de aportación (efectivo, especie o uso)
 
 d) Folio que ampara
 
-e) Nombre, domicilio, y teléfono del aportante
+e) Nombre, domicilio, y teléfono del aportante.
 
 Además en caso de aportaciones en especie, se hará mención del bien aportado y del criterio de valuación aplicado.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 8.
 
-Los ingresos que perciban los partidos políticos de sus simpatizantes, sean en efectivo, en especie o en uso, deberán respaldarse con copia de los recibos correspondientes.
+Los ingresos que perciban los partidos políticos de sus simpatizantes, sean en efectivo, en especie o en uso deberán respaldarse con copia de los recibos correspondientes.
 
-Los partidos políticos reportarán anexo a la presentación de los formatos “IS”, “IT”, “IC”, “ICI” según corresponda, los ingresos antes mencionados, detallando cada aportación mediante lista que contenga los siguientes datos:
+Los partidos políticos reportarán anexo a la presentación de los formatos “IS”, “IM”, “IT”, “IC”, “ICI” según corresponda, los ingresos antes mencionados, detallando cada aportación mediante lista que contenga los siguientes datos:
 
 a) Lugar y fecha
 
@@ -124,6 +128,8 @@ d) Folio que ampara
 e) Nombre, domicilio, y teléfono del aportante
 
 Además en caso de aportaciones en especie, se hará mención del bien aportado y del criterio de valuación aplicado.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 9.
 
@@ -145,11 +151,11 @@ g) Nombre y firma de recibido.
 
 h) Condición de militante o simpatizante.
 
-Los partidos políticos deberán llevar el Control de Folios, que para tal efecto apruebe el Pleno, respecto de los recibos que se impriman y se expidan; dichos controles permitirán verificar los recibos cancelados, el número total de los recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar.
+Los partidos políticos deberán llevar el Control de Folios, que para tal efecto apruebe el Pleno, respecto de los recibos que le impriman y se expidan; dichos controles permitirán verificar los recibos cancelados, el número total de los recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar.
 
 Los recibos de ingresos podrán imprimirse en ciento veinticinco series distintas, una para las aportaciones que reciba el Comité Directivo Estatal u órgano equivalente en el Estado del partido que será (PARTIDO) (número), y las otras series, en su caso, si hubiere aportaciones que reciban los comités municipales u órganos equivalentes en la entidad que serán (PARTIDO) (municipio) (número).
 
-El control de folios antes mencionado deberá remitirse en forma conjunta a la presentación de los formatos “IS” o “IT”, según corresponda.
+El control de folios antes mencionado deberá remitirse en forma conjunta a la presentación de los formatos “IS”, “IM” (sic), según corresponda.
 
 De los recibos que se expidan se deberá conservar una copia de los mismos para su comprobación.
 
@@ -279,11 +285,13 @@ Los recursos que sean transferidos de las dirigencias estatales a los candidatos
 
 ### CAPITULO V. DE LOS INFORMES FINANCIEROS
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 23.
 
 Los partidos Políticos deberán presentar ante la Comisión Revisora del Financiamiento de los Partidos Políticos del Consejo Electoral del Estado, los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación a través de los informes semestrales en año no electoral, mensuales y trimestrales durante el año electoral, así como un informe de los gastos que realicen en cada una de las campañas electorales.
 
-El Secretario Ejecutivo del Instituto Electoral del Estado, efectuará el cómputo de los plazos, señalando la fecha de inicio y terminación y lo publicará en el “Periódico Oficial del Estado” con diez días hábiles de anticipación a la fecha de inicio de cada plazo, notificando a los partidos políticos.
+El Secretario Ejecutivo del Consejo Electoral del Estado, efectuará el cómputo de los plazos, señalando la fecha de inicio y terminación y lo publicará en el “Periódico Oficial del Estado” con diez días hábiles de anticipación a la fecha de inicio de cada plazo, notificando a los partidos políticos.
 
 ###### Artículo 24.
 
@@ -337,6 +345,32 @@ f) Detalle de ingresos obtenidos por autofinanciamiento que para tal efecto apru
 
 g) Balanza de comprobación mensual.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+###### Artículo 26 Bis.
+
+Los Informes Mensuales deberán presentarse en año electoral dentro de los diez días hábiles posteriores al periodo que se reporte.
+
+La información correspondiente al periodo que se reporte deberá proporcionarse en los formatos “IM”.
+
+En los informes mensuales serán reportados los ingresos y egresos que los Partidos hayan realizado durante los períodos del ejercicio objeto del informe.
+
+Así mismo los partidos políticos deberán acompañar a la presentación de los formatos y anexos:
+
+a) Lista que contenga las aportaciones de militantes y simpatizantes en los términos de lo dispuesto por los artículos 7 y 8 del presente ordenamiento.
+
+b) Detalle de aportaciones por militantes que para tal efecto apruebe el Pleno;
+
+c) Detalle de aportaciones por simpatizantes que para tal efecto apruebe el Pleno;
+
+d) Control de folios de los recibos impresos a que se refiere el artículo 9 del presente reglamento.
+
+e) Control de eventos por autofinanciamiento;
+
+f) Detalle de ingresos obtenidos por autofinanciamiento que para tal efecto apruebe el Pleno; y
+
+g) Balanza de comprobación mensual.
+
 ###### Artículo 27.
 
 Los partidos políticos deberán informar de los ingresos y egresos que realicen para cada una de las campañas en la elección respectiva.
@@ -368,6 +402,8 @@ Los formatos que presenten los partidos políticos serán definitivos y sólo se
 La modificación que realicen los partidos políticos será presentada mediante el formato correspondiente, anotando en el mismo que se trata de una rectificación.
 
 ### CAPITULO VI. LINEAMIENTOS GENERALES
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 30.
 
@@ -455,7 +491,7 @@ El Secretario Ejecutivo proveerá lo necesario para su publicación en el “Per
 
 ###### Artículo 41.
 
-A efecto de que la Comisión Revisora esté en aptitud de comprobar la veracidad de lo reportado en los informes, los Partido (sic) Políticos de acuerdo con sus necesidades y requerimientos, utilizarán el catálogo de cuentas que se apruebe por el Pleno.
+A efecto de que la Comisión Revisora esté en aptitud de comprobar la veracidad de lo reportado en los informes, los Partido (sic) Políticos de acuerdo con sus necesidades y requerimientos, utilizarán el (sic) de cuentas que se apruebe por el Pleno.
 
 Los Partido (sic) Políticos también tendrán la obligación de llevar un inventario físico actualizado de bienes muebles e inmuebles, asimismo, deberán registrar en cuentas de orden la posesión, el uso goce temporal de bienes muebles e inmuebles, para que sean considerados en sus informes.
 
@@ -469,7 +505,7 @@ Adicionalmente deberá llevarse un sistema de control de inventario que registre
 
 El registro de activos deberá comunicarse por escrito a la Comisión Revisora del Consejo Electoral.
 
-Para efectos de registro contable, la propiedad de los bienes de los partidos políticos se acreditará: con facturas o con títulos de propiedad, los bienes muebles que estén en posesión de algún Partido Político de los que no cuente con factura deberán también ser registrados. Los bienes inmuebles que utilicen los Partidos Políticos de los que no cuenten con titulo de propiedad, deberán registrarse en cuentas de orden, haciendo del conocimiento de la comisión el criterio de valuación.
+Para efectos de registro contable, la propiedad de los bienes de los partidos políticos se acreditará: con facturas o con títulos de propiedad, los bienes muebles que estén en posesión de algún Partido Político de los que no cuente con factura deberán también ser registrados. Los bienes inmuebles que utilicen los Partidos Políticos de los que no cuenten con título de propiedad, deberán registrarse en cuentas de orden, haciendo del conocimiento de la comisión el criterio de valuación.
 
 A petición de los Partido (sic) Políticos, durante la práctica de los inventarios físicos podrán intervenir auditores externos que podrán emitir dictámenes para efectos de evaluación.
 
@@ -498,3 +534,11 @@ T R A N S I T O R I O S
 Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Se abroga el Reglamento para el Financiamiento de Gastos de Campaña de los Partidos Políticos acreditados ante el Consejo Electoral del Estado de Jalisco aprobado con fecha 1º de Octubre de 1997 y publicado en el Periódico Oficial "El Estado de Jalisco", el día 4 de octubre de 1997".
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+SEGUNDO.- La presente reforma y adición, entrará en vigor el día siguiente al de su publicación.
+
+TERCERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco".
