@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-nacional-bancaria-y-de-seguros-en-463
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-24"
-last_updated: "1988-11-24"
+last_updated: "1991-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=463&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1988-11-16"
 
 REGLAMENTO DE LA COMISION NACIONAL BANCARIA Y DE SEGUROS EN MATERIA DE INSPECCION, VIGILANCIA Y CONTABILIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1991.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUDO TRANSITORIO DEL REGLAMENTO DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS EN MATERIA DE INSPECCION, VIGILANCIA Y CONTABILIDAD SE DEROGAN, EN LO RELATIVO A SEGUROS Y FIANZAS, LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, D.O.F. 14 DE ENERO DE 1991.</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el día 24 de noviembre de 1988.
 
@@ -51,7 +53,7 @@ También quedan sujetos a lo dispuesto por este Reglamento, el Instituto del Fon
 
 > <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1988)</small>
 
-Asimismo éste Reglamento será aplicable a las instituciones de crédito, al Banco de México y al Patronato del Ahorro Nacional en lo concerniente a supervisar el cumplimiento de las obligaciones que les impone la Ley Reglamentaria de la Fracción XIII Bis del Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en materia laboral.
+Asimismo este Reglamento será aplicable a las instituciones de crédito, al Banco de México y al Patronato del Ahorro Nacional en lo concerniente a supervisar el cumplimiento de las obligaciones que les impone la Ley Reglamentaria de la Fracción XIII Bis del Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en materia laboral.
 
 ###### ARTICULO 2o.
 
@@ -67,7 +69,7 @@ La información periódica para fines estadísticos o para otros que requiera la
 
 > <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 1988)</small>
 
-El personal de la Comisión que en virtud de sus funciones tenga acceso a la información a que se refiere este artículo, está obligado, a observar la mayor confidencialidad; y su incumplimiento dará lugar a la imposición de las sanciones previstas en las leyes aplicables.
+El personal de la Comisión que en virtud de sus funciones tenga acceso a la información a que se refiere este artículo, está obligado a observar la mayor confidencialidad; y su incumplimiento dará lugar a la imposición de las sanciones previstas en las leyes aplicables.
 
 ###### ARTICULO 4o.
 
@@ -464,3 +466,13 @@ Queda abrogado el Reglamento de Inspección, Vigilancia y Contabilidad de las In
 Quedan en vigor las disposiciones contenidas en Circulares y Oficios - Circulares emitidas por la Comisión Nacional Bancaria y de Seguros al amparo del Reglamento a que se refiere el artículo anterior, en cuanto no se opongan a lo previsto por este Reglamento y hasta en tanto no sean modificadas o suprimidas por las que al efecto deba dictar la Comisión.
 
 Dado en la Residencia del Poder Ejecutivo Federal a los dieciséis días del mes de noviembre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Gustavo Petricioli.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 14 DE ENERO DE 1991.
+
+PRIMERO.- Este Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan, en lo relativo a seguros y fianzas, las disposiciones del Reglamento de la Comisión Nacional Bancaria y de Seguros en Materia de Inspección, Vigilancia y Contabilidad de fecha 16 de noviembre de 1988, publicado en el Diario Oficial de la Federación el 24 del mismo mes y año.
+
+TERCDERO.- Quedan en vigor las disposiciones contenidas en Circulares y Oficios Circulares emitidas por la Comisión Nacional Bancaria y de Seguros al amparo del Reglamento a que se refiere el artículo anterior, en cuanto no se opongan a lo previsto por este Reglamento y hasta en tanto no sean modificadas o suprimidas por las que al efecto deba dictar la Comisión.
