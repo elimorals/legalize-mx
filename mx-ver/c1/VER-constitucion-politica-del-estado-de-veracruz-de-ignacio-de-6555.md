@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1956-11-06"
+last_updated: "1959-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 1959.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -97,7 +97,7 @@ REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 
 La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 
-G.O. 21 Y 23 DE NOVIEMBRE DE 1944.
+G.O. 21 y 23 DE NOVIEMBRE DE 1944.
 
 I.- Esta Ley entrará en vigor a partir de la fecha en que se dé a conocer al público por Bando Solemne.
 
@@ -447,13 +447,15 @@ A la apertura de sesiones de la Legislatura precederán las reuniones de la Junt
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 1959)</small>
 
 ###### Artículo 60.
 
-El Gobernador leerá anualmente ante la Legislatura, el 30 de noviembre un informe en que expondrá, en términos generales, el desarrollo de las labores encomendadas al Poder Ejecutivo. Al referido informe se dará contestación por el Presidente de la Legislatura.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leerán, cada uno de ellos, ante la Legislatura, el 30 de noviembre, un informe anual, en el que expondrán, en términos generales, el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
 
-Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, enviará a la Legislatura su informe, al que se dará lectura por el Secretario de la Cámara.
+A dichos informes dará contestación el Presidente de la Legislatura.
+
+Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su informe el Secretario Gobierno.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -1428,6 +1430,12 @@ Es libre, independiente y soberano en su administración y gobierno interiores.
 ###### Artículo 3o.
 
 El territorio del Estado se dividirá en Municipios, sin perjuicio de las divisiones que por razones de orden establezcan las leyes orgánicas y reglamentarias de los distintos ramos en la administración. La ley orgánica de administración interior del Estado, fijará el mínimum de la población y los demás requisitos necesarios para erigir nuevos Municipios.
+
+###### ARTICULO UNICO.
+
+Las reformas mencionadas al principio, entrarán en vigor desde la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
+
+G.O. 13 DE OCTUBRE DE 1959.
 
 ###### ARTICULO UNICO.
 
