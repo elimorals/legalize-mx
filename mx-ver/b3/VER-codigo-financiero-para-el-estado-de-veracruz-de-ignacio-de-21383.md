@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2002-11-28"
+last_updated: "2003-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -355,7 +355,9 @@ d) A falta de los anteriores, el lugar en el que se hubiere realizado el hecho g
 
 III. Cuando una persona física o moral establecida fuera del estado cuente con dos o más sucursales o agencias dentro del territorio estatal, deberá señalar a una de ellas para que funja como casa matriz; de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría, y
 
-IV. Tratándose de personas físicas o morales, residentes fuera del Estado, que realicen actividades gravadas dentro del territorio del mismo a través de representantes, se considerará como su domicilio el del representante.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+IV. Tratándose de personas físicas o morales, residentes fuera del Estado, que realicen actividades gravadas dentro del territorio del mismo a través de representantes, se considerará como su domicilio el que su representante haya manifestado ante la Autoridad Fiscal Federal.
 
 ###### Artículo 32.
 
@@ -393,6 +395,8 @@ Los responsables solidarios proporcionarán, a solicitud de las autoridades, la 
 
 El crédito fiscal es la obligación fiscal determinada en cantidad líquida proveniente de impuestos, derechos y aprovechamientos que tiene derecho a percibir el Estado o sus organismos descentralizados, así como los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de particulares, incluyendo aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 36.
 
 El pago de los créditos fiscales y cualquier ingreso en favor del Estado deberá hacerse en efectivo con moneda de curso legal y se utilizarán invariablemente los formatos autorizados por la Secretaría. Podrán hacerse pagos en especie, cuando las disposiciones aplicables así lo establezcan.
@@ -401,7 +405,9 @@ Los giros postales, telegráficos o bancarios y los cheques de cuenta personal d
 
 El pago también podrá efectuarse por medio de cheques certificados o cheques de caja; tratándose de cheques no certificados de cuentas personales, de pago con tarjetas de crédito y de transferencias de fondos de cuentas bancarias de los contribuyentes, únicamente se aceptarán cuando lo autorice la Secretaría, a través de reglas de carácter general.
 
-La Secretaría podrá autorizar expresamente la aceptación de otros instrumentos de pago.
+Cuando el Contribuyente opte por realizar el pago de Contribuciones Estatales mediante cheques, estos deberán ser expedidos a nombre de la Secretaría de Finanzas y Planeación, sin necesidad de leyendas adicionales por los conceptos de pago que se realicen.
+
+La Secretaría podrá autorizar expresamente la aceptación de otros instrumentos de pago, conforme a los lineamientos que se expidan y publiquen en la Gaceta Oficial del Estado.
 
 ###### Artículo 37.
 
@@ -693,25 +699,75 @@ Las instancias o peticiones que se formulen a las autoridades fiscales se resolv
 
 En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, y dará lugar a la interposición de los recursos legales a que haya lugar cuando no se dé respuesta en el término que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 59.
 
-Los sujetos pasivos que causan impuestos estatales se inscribirán en el registro estatal de contribuyentes de la Secretaría. Igual obligación tendrán los retenedores aun cuando no causen directamente algún impuesto estatal.
+Los sujetos pasivos que causan contribuciones estatales y federales coordinadas, se inscribirán en el Registro Estatal de Contribuyentes de la Secretaría. Igual obligación tendrán los retenedores aun cuando no causen directamente alguna de estas contribuciones.
 
 Quienes deban inscribirse en el registro estatal de contribuyentes, presentarán su solicitud en las formas aprobadas por la Secretaría, en las que se indicarán los datos que al efecto se exijan y, en su caso, se acompañarán los documentos que se requieran.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 60.
 
-Los sujetos pasivos y los retenedores darán aviso a la Secretaría cuando ocurran los siguientes cambios:
+Los sujetos pasivos y los retenedores darán aviso a la Secretaría cuando ocurran los siguientes supuestos:
 
-I. De domicilio;
+A. En materia de registro y control de obligaciones;
 
-II. De razón o denominación social, a la que acompañarán copia de la escritura correspondiente;
+I. Inscripción en el Registro Estatal de Contribuyentes;
 
-III. De sus actividades, cuando aumenten o disminuyan sus obligaciones fiscales;
+II. Aumento de obligaciones;
 
-IV. De traspaso de la negociación, clausura definitiva o suspensión de operaciones, y
+III. Disminución de obligaciones;
 
-V. En los casos de fusión o escisión.
+IV. Suspensión de actividades;
+
+V. Reanudación de actividades;
+
+VI. Terminación de actividades;
+
+VII. Suspensión de operaciones;
+
+VIII. Reanudación de operaciones;
+
+IX. Cambio de nombre, denominación o razón social;
+
+X. Cambio de domicilio fiscal;
+
+XI. Cambio de representante legal;
+
+XII. Cambio de domicilio del representante legal;
+
+XIII. Apertura de sucursal;
+
+XIV. Cierre de sucursal;
+
+XV. Traspaso de negociación;
+
+XVI. Fusión;
+
+XVII. Escisión;
+
+XVIII. Liquidación;
+
+XIX. Clausura definitiva;
+
+XX. Cancelación del Registro Estatal de Contribuyentes;
+
+XXI. Error u omisión de datos.
+
+B. En materia de registro y control Vehicular, del servicio privado y servicio público adicionalmente presentarán los siguientes avisos:
+
+I. Alta en el Registro Estatal de Contribuyentes, de un vehículo nuevo, usado, nacional o extranjero considerando a este último aquél que acredite la legal estancia en el país; con dotación de placas, tarjeta de circulación y calcomanía numeral;
+
+II. Baja en el Registro Estatal de Contribuyentes de un vehículo; por cambio de propietario, siniestro, robo, inutilidad del vehículo, cambio de servicio, cambio a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral, pérdida de una o de las dos placas y de vehículos registrados en otra entidad federativa.
+
+III. Reposición de tarjeta de circulación por robo, extravío o deterioro de la misma;
+
+IV. Cambios en el Registro Estatal de Contribuyentes que implican la reexpedición de tarjeta de circulación en los casos de cambio de propietario, de domicilio, de motor, de color, de uso de capacidad o de combustible;
+
+V. Canje de placas, tarjeta de circulación y calcomanía numeral, dentro del plazo establecido por el Ejecutivo del Estado, atendiendo a las disposiciones de la Secretaría de Comunicaciones y Transportes relacionadas con el canje masivo de estos conceptos y cumplir con los requisitos que exige la Norma Oficial Mexicana, previa comprobación de estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículo y Derechos vehiculares.
 
 Los sujetos pasivos y los retenedores a que se refiere este artículo, citarán el número de registro que les sea asignado por la Secretaría en las declaraciones, manifestaciones, promociones, solicitudes o gestión que realicen ante la Oficina de Hacienda o autoridad fiscal competente. Cuando la autoridad fiscal ordene su verificación, exhibirán el documento que acredite su inscripción al citado registro.
 
@@ -788,6 +844,14 @@ II. También se considera agravante en la comisión de una infracción fiscal, c
 a) Que la comisión de la infracción sea en forma continuada.
 
 b) Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
+
+> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+
+###### Artículo 67 Bis.
+
+La autoridad fiscal, podrá condonar las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, cuando hubieren quedado firmes, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+
+La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece el Código de Procedimientos Administrativos para el Estado.
 
 ###### Artículo 68.
 
@@ -906,6 +970,12 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 ###### Artículo 78.
 
 La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 10 a 100 días de salario mínimo.
+
+> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+
+###### Artículo 78 Bis.
+
+En el caso de que las multas a que se refiere este capítulo sean pagadas dentro de los quince días siguientes a la fecha en se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1131,19 +1201,17 @@ La base del impuesto es el monto total de las erogaciones realizadas por concept
 
 Este impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base que señala el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
 ###### Artículo 102.
 
-El impuesto se causará en el momento en que efectivamente se efectúen las erogaciones por el trabajo personal subordinado.
+El impuesto se causará en el momento en que se efectúen las erogaciones por el trabajo personal subordinado.
 
 Los contribuyentes pagarán mediante declaración mensual, a través de la forma oficial autorizada para tal efecto, a más tardar el día diecisiete del mes siguiente al de la causación del impuesto, en la Oficina de Hacienda del Estado correspondiente al domicilio fiscal del contribuyente o en las instituciones bancarias autorizadas por la Secretaría.
 
-Los contribuyentes del régimen simplificado y del régimen de pequeños contribuyentes considerados así para efectos del Impuesto sobre la Renta, pagarán el impuesto a que se refiere este capítulo en el mismo plazo y fecha en que realicen el pago de impuestos federales.
-
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
-La obligación de presentar la declaración mensual subsistirá aun cuando no hubiese cantidad a cubrir.
+La obligación de presentar la declaración mensual subsistirá aún cuando no hubiese cantidad a cubrir.
 
 Cuando con posterioridad a la presentación de la declaración mensual de pago, el contribuyente compruebe que cubrió en exceso el monto de este impuesto, podrá optar por:
 
@@ -1223,9 +1291,9 @@ I. Inscribirse en el Registro Estatal de Contribuyentes, ante la Oficina de Haci
 
 Tratándose de empresas de nueva creación, las personas morales y las personas físicas, acreditarán esta condición ante la autoridad fiscal estatal mediante exhibición de la solicitud de inscripción en el Registro Federal de Contribuyentes presentada ante la Secretaría de Hacienda y Crédito Público. Las personas morales también presentarán su acta constitutiva protocolizada ante Notario Público, con los registros que marca la Ley. Los federatarios públicos comunicarán a la autoridad fiscal estatal la constitución de dichas personas morales.
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
-II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, liquidación, cancelación en el Registro Estatal de Contribuyentes, terminación de actividades, aumento o disminución de obligaciones, cambio de representante legal y apertura o cierre de sucursales; dentro del plazo de treinta días siguientes al que ocurra cualquiera de estos supuestos.
+II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
 
 III. Presentar copia del dictamen ante la autoridad fiscal estatal para efectos del impuesto sobre nóminas, cuando conforme a lo establecido en el Código Fiscal de la Federación, los contribuyentes estén obligados o hayan optado por dictaminar sus estados financieros por Contador Público autorizado. La copia del dictamen deberá presentarse dentro de los ocho meses siguientes a la terminación del ejercicio que se dictamine conforme a lo dispuesto en el Código Fiscal de la Federación.
 
@@ -1305,7 +1373,9 @@ a) Solicitar la devolución de las cantidades pagadas indebidamente.
 
 b) Compensar las cantidades que tengan a su favor contra el impuesto retenido y que deba enterarse en el siguiente mes. En este caso el contribuyente estará obligado a presentar, conjuntamente con la declaración mensual de pago, el aviso de compensación ante la Oficina de Hacienda de la jurisdicción en donde se encuentre el inmueble destinado a la prestación de los servicios de hospedaje.
 
-III. Presentar, ante la Oficina de Hacienda del Estado que corresponda, los avisos respectivos de cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, fusión o escisión, y terminación de actividades, dentro del plazo de 15 días siguientes al en que ocurra el hecho.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+III. Presentar, ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
 
 IV. Expedir facturas señalando en las mismas, además de los requisitos exigidos en las disposiciones fiscales federales, el impuesto por la prestación de servicios de hospedaje que se traslada en forma expresa y por separado a quien reciba los servicios que marca este capítulo.
 
@@ -1313,9 +1383,11 @@ V. Llevar y conservar los registros contables o administrativos exigidos por la 
 
 VI. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 116.
 
-La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de hospedaje en los términos que señale el presente Código.
+La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de hospedaje en los términos que señale el Código de Procedimientos Administrativos para el Estado de Veracruz-Llave.
 
 ###### Artículo 117.
 
@@ -2235,25 +2307,51 @@ Se exceptúan del pago de derechos por la expedición de cartografía catastral 
 
 XII. Por la elaboración del padrón factura para el cobro del impuesto predial, incluye recibos impresos o papelería y el sistema para el cobro automatizado del impuesto, por predio registrado. 0.03 salario mínimo
 
-B. Por la certificación de documentos públicos, por hoja: 0.25 salario mínimo
+> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
+
+XIII. Por la expedición de un avalúo comercial. 20 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
+
+XIV. Por la expedición de un dictamen de arrendamiento. 10 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
+
+XV. Por la corrección de datos o la actualización de la vigencia de un avalúo comercial. 1 salario mínimo
+
+> <small>(ADICIONADA, G.O. 6 DE ENERO DE 2003)</small>
+
+XVI. Por la corrección de datos o la actualización de la vigencia de un dictamen de arrendamiento. 1 salario mínimo
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+B. Por la certificación de documentos públicos, o por la expedición de copias de documentos que obren en los expedientes administrativos, por hoja: 1 salario mínimo
 
 C. Por registro y control de vehículos de servicio privado:
 
-I. Alta en el Registro Estatal Vehicular de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación:
 
-a) Para automóvil y camión: 10 salarios mínimos
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+a) Para automóvil, camión y ómnibus: 10 salarios mínimos
 
 > <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
 b) Para remolque y motocicleta: 5 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
-II. Expedición de Calcomanía de comprobación fiscal de pago de Tenencia y Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho impuesto. 5 salarios mínimos
+II. Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho Impuesto. El recibo oficial de pago será el comprobante fiscal:
 
-III. Baja de vehículo en el Registro Estatal Vehicular por siniestro, robo, cambio de servicio, cambio a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral y pérdida de una o las dos placas:
+a) Automóvil, camión y ómnibus: 5 salarios mínimos
+
+b) Remolque y motocicleta: 2.5 salarios mínimos
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+
+III. Baja de vehículo en el Registro Estatal de Contribuyentes por siniestro, robo, inutilidad del vehículo, cambio de propietario, de servicio, o a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral y pérdida de una o las dos placas:
 
 a) Previa devolución de las dos placas y la tarjeta de circulación: 1 salario mínimo
 
@@ -2289,15 +2387,21 @@ VIII. Canje de placas, tarjeta de circulación y calcomanía numeral fuera del p
 
 D. Por Registro y control de vehículos de servicio público:
 
-I. Alta en el Registro Estatal Vehicular de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación expedida por la Dirección General de Tránsito y Transporte del Estado. Para taxi, carga, rural mixto, pasaje y exclusivo turismo: 8 salarios mínimos.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
-II. Expedición de calcomanía de comprobación fiscal de pago de Tenencia y Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho impuesto. 4 salarios mínimos
+I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación expedida por la Dirección General de Tránsito y Transporte del Estado, para taxi, colectivo, escolar, exclusivo turismo, transporte de personal de empresas, urbano, suburbano y foráneo, rural mixto, carga general, carga materialista y carga especializada: 8 salarios mínimos.
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+II. Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho Impuesto. El recibo oficial de pago será el comprobante fiscal: 5 salarios mínimos
 
 > <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
 III. Reposición de tarjeta de circulación por robo, extravío o deterioro de la misma, así como por fusión o escisión de sociedades. 2.5 salarios mínimos
 
-IV. Baja de vehículos en el Registro Estatal Vehicular por: Siniestro, robo, cambio de servicio, reasignación, transferencia, sucesión testamentaria cambio de servicio, cambio a otra entidad federativa, por solicitud de canje de placas destrucción de calcomanía numeral y pérdida de una o las dos placas:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+
+IV. Baja de vehículos en el Registro Estatal de Contribuyentes por: siniestro, robo, inutilidad del vehículo, cambio de propietario, cambio de servicio, reasignación, transferencia por cesión de derechos de una concesión, o por el fallecimiento del titular de una concesión: cambio a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral y pérdida de una o las dos placas:
 
 a) Previa devolución de las dos placas y la tarjeta de circulación: 1 salario mínimo
 
@@ -4291,9 +4395,11 @@ Para efectos de la formulación de la cuenta pública, la información que propo
 
 La Secretaría reclasificará, cuando sea necesario, la información que se le proporcione respecto al ejercicio del gasto para efectos de consolidación y presentación de la cuenta pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 282.
 
-Para la integración de la cuenta pública anual del Gobierno del Estado, las unidades presupuestales proporcionarán a la Secretaría, a más tardar en la última semana del mes de marzo, la siguiente información:
+Para la integración de la cuenta pública anual del Gobierno del Estado, las unidades presupuestales proporcionarán a la Secretaría, a más tardar en la última semana del mes de enero, la siguiente información:
 
 I. Balance General o Estado de situación Financiera.
 
@@ -4934,3 +5040,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Los titulares de las Dependencias y Entidades del Poder Ejecutivo contarán con un plazo no mayor a treinta días naturales, a partir del inicio de la vigencia de este Decreto, para designar o ratificar a los titulares de las unidades administrativas, quienes deberán reunir los requisitos que señale la Ley.
+
+G.O. 6 DE ENERO DE 2003.
+
+PRIMERO. Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Las visitas domiciliarias y las de verificación ya iniciadas al momento de la entrada en vigor del presente Decreto, se continuarán tramitando conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz-Llave, vigentes al momento de su inicio.
+
+CUARTO. Las disposiciones reglamentarias en materia de catastro, deberán ajustar su contenido a lo dispuesto en el presente Decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
