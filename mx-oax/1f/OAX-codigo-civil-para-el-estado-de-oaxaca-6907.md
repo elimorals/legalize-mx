@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1951-12-15"
+last_updated: "1971-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1971.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -143,9 +143,11 @@ La menor edad, el estado de interdicción y las demás incapacidades establecida
 
 El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1971)</small>
+
 ###### Artículo 24.
 
-Las personas de ambos sexos que no han cumplido veintiún años, son menores de edad. La mayor edad comienza a los veintiún años.
+Las personas de ambos sexos que no han cumplido dieciocho años, son menores de edad, la mayor edad comienza a los dieciocho años.
 
 ## TITULO SEGUNDO. De las personas morales
 
@@ -857,9 +859,11 @@ Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mu
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los jueces Mixtos de Primera Instancia en los Distritos y los jueces de lo Civil en la capital, pueden conceder dispensas de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1971)</small>
+
 ###### Artículo 148.
 
-El hijo o la hija que no haya cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre si vivieren ambos o del que sobreviva. En el caso de que alguno de los padres hubiere perdido la patria potestad o estuviere suspenso en el ejercicio de este derecho, el consentimiento lo dará quien la ejerza. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias si el hijo vive con ella.
+El hijo o la hija que no haya cumplido 18 años, no puede contraer matrimonio sin consentimiento de su padre o de su madre si vivieren ambos o del que sobreviva. En el caso de que alguno de los padres hubiere perdido la patria potestad o estuviere en suspenso en el ejercicio de este derecho, el consentimiento lo dará quien lo ejerza. Este derecho lo tiene la madre aunque haya contraído segundas nupcias, si el hijo o hija vive con ella.
 
 ###### Artículo 149.
 
@@ -1391,7 +1395,9 @@ La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará 
 
 I. Cuando haya habido hijos;
 
-II. Cuando aunque no los haya habido el menor hubiere llegado a los 21 años y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 1971)</small>
+
+II. Cuando aunque no los haya habido el menor hubiere llegado a los dieciocho años y él ni el otro cónyuge hubieren intentado la nulidad.
 
 ###### Artículo 250.
 
@@ -3505,9 +3511,11 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 El matrimonio del menor produce de derecho la emancipación del mismo. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 1971)</small>
+
 ###### Artículo 656.
 
-Los mayores de dieciocho años que estén sujetos a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+Los mayores de 16 años que estén sujetos a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
 
 Los que ejerzan la patria potestad o la tutela pueden emancipar a los que están bajo de ella, que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
 
@@ -14636,3 +14644,7 @@ Artículo Primero: Se deroga el artículo 1150 del Código Civil en cuanto estab
 Artículo Segundo: Se derogan asimismo los artículos 795 y 796 del mismo Ordenamiento en los términos de los artículos 21 al 26 de esta Ley, debiendo, el que tenga noticias de la existencia de bienes vacantes y quiera adquirir la parte que le da la Ley, formular su denuncia ante el Departamento de Bienes del Estado. Se derogan también todas las disposiciones de la legislación del Estado que se opongan a la presente Ley.
 
 Artículo Tercero: Esta Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 1971.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
