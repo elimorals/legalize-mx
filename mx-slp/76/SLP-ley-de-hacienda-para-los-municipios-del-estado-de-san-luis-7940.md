@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1992-11-06"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -77,9 +77,11 @@ Son Aprovechamientos los recargos, las multas y en general, los ingresos que no 
 
 Son Contribuciones de mejoras las prestaciones legalmente obligatorias impuestas de manera individual a quienes se beneficien con una obra, servicio público o con el ejercicio de determinada actividad particular, con gasto para el Estado, por consiguiente estarán en relación con el monto del beneficio obtenido y el costo de la obra o servicio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 8.
 
-Participaciones son las transferencias que con tal carácter conceden las Leyes Federales o Estatales, o los Fiscos Municipales, sobre los rendimientos de sus ingresos de acuerdo con las disposiciones especiales que las regulen.
+Participaciones son las transferencias que con tal carácter conceden las Leyes Federales o Estatales, a los Fiscos Municipales, sobre los rendimientos de sus ingresos, de acuerdo con las disposiciones especiales que las regulen.
 
 ###### ARTICULO 9.
 
@@ -107,9 +109,17 @@ V.- La Ley de Coordinación Fiscal del Estado de San Luis Potosí.
 
 VI.- Las que organicen los servicios administrativos necesarios para la recaudación y control de los ingresos y egresos.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII.- Las demás que con este carácter autorice el Congreso del Estado.
+VII.- El Código Fiscal del Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VIII.- La Ley de Catastro
+
+(LA ANTERIOR FRACCION VII PASA A SER LA FRACCION IX, P.O. 31 DE DICIEMBRE DE 1992)
+
+IX.- Las demás que con ese carácter autorice el Congreso del Estado.
 
 ###### ARTICULO 11.
 
@@ -117,9 +127,11 @@ Los Egresos del Ayuntamiento para un Ejercicio Fiscal determinado, se harán con
 
 Al cierre de cada Ejercicio, y en cumplimiento a la Facción IV del Artículo 115 de la Constitución General de la República, y a la Particular del Estado, los Presidentes Municipales informarán al Congreso del Estado, a través de la Contaduría Mayor de Hacienda, sobre las erogaciones realizadas durante el Ejercicio por medio de su Cuenta Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 12.
 
-Sólo por la Ley se podrá dedicarse el rendimiento de un impuesto o participación a un fin especial y:
+Sólo por Ley se podrá:
 
 I.- Crear, modificar y suprimir contribuciones.
 
@@ -133,6 +145,10 @@ V.- Regular los modos de extinción del Crédito Fiscal o de la obligación trib
 
 VI.- Otorgar exenciones o subsidios en los casos que establece esta Ley.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- Dedicar el rendimiento de un impuesto o participación a un fin específico.
+
 ###### ARTICULO 13.
 
 Los Reglamentos, Circulares, Acuerdos, Concesiones, Contratos y demás actos jurídico-administrativos no podrá en ningún caso, modificar o reformar las Leyes Fiscales Municipales.
@@ -143,11 +159,11 @@ La interpretación de las Leyes Fiscales relativas a la Hacienda Municipal, corr
 
 La interpretación que haga la Legislatura o la Diputación Permanente, es obligatoria en el orden administrativo, para todos los Municipios del Estado, a los que deberá hacerla conocer en los términos que establezcan las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 15.
 
-La determinación, liquidación, recaudación y cobro de los ingresos municipales estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas Tesorerías y bajo la vigilancia de los Presidentes Municipales con sujeción a las disposiciones de la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, la Ley de Catastro, las de esta Ley, la respectiva Ley de Ingresos Municipal y la Ley de Coordinación Fiscal del Estado de San Luis Potosí.
+La determinación, liquidación, recaudación y cobro de los ingresos municipales estarán a cargo de los Ayuntamientos, quienes lo efectuarán por conducto de sus respectivas Tesorerías y bajo la vigilancia de los Presidentes Municipales, con sujeción a las disposiciones aplicables.
 
 Los Municipios podrán celebrar convenios con el Ejecutivo Estatal para la administración de alguno o algunos de los ingresos, en los términos de las Fracciones Cuartas de los Artículos 115 de la Constitución General de la Republica y 83 de la Constitución local respectivamente.
 
@@ -197,7 +213,7 @@ III.- Los demás servidores municipales que con tal carácter, y por escrito, de
 
 ###### ARTICULO 25.
 
-Contra las resoluciones dictadas por las Autoridades Fiscales citadas en el artículo precedente, sólo procederán los recursos administrativos que establece el Código Fiscal del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ### CAPITULO SEGUNDO. CRÉDITOS FISCALES
 
@@ -381,11 +397,15 @@ Estarán exentos del pago de este impuesto las Instituciones de Seguridad Social
 
 REALES
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 50.
 
-(DEROGADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1991)
+Están obligados al pago de este impuesto las personas físicas o las morales que adquieran inmuebles consistentes en el suelo o subsuelo y las construcciones adheridas a él, así como los derechos relacionalos (sic) con los mismos inmuebles.
 
 El impuesto se determinará aplicando la tasa y el procedimiento para su cáulculo, (sic) conforme al valor del inmueble, tal y como lo señalen las Leyes de Ingresos Municipales.
+
+(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992) (N. DE E. EL TERCER PARRAFO FUE ELIMINADO TÁCITAMENTE EN EL P.O. DE FECHA 30 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 51.
 
@@ -414,6 +434,22 @@ IX.- La cesión de derechos del heredero o legatario cuando entre los bienes de 
 X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XI.- En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XII.- La adquisición de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIII.- La readquisición de la propiedad de bienes inmuebles a consecuencia de la rescisión voluntaria del contrato que hubiere generado la adquisición original.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIV.- La renuncia o repudiación de la herencia cuando se acrezcan las porcionse (sic) de los coherederos, si se hace después de la declaración de herederos y antes de la adjudicación de bienes.
 
 ###### ARTICULO 52.
 
@@ -463,9 +499,15 @@ Los Fedatarios se harán acreedores a la sanción que establece el Código Fisca
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1991)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 57.
 
-No se pagará este impuesto en las adquisiciones que se realicen al construir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales, excepto en la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+No se pagará este impuesto en las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como el acto en que se cambien las capitulaciones matrimoniales, excepto en la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Tampoco se pagará el impuesto establecido en esta Ley, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 ###### ARTICULO 58.
 
@@ -505,17 +547,23 @@ DISPOSICIONES GENERALES
 
 Por lo que respecta al impuesto sobre Diversiones Públicas, en tanto el Estado se encuentre adherido al Sistema Nacional de Coordinación Fiscal no se hará efectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 65.
 
-Son objeto de este impuesto los espectáculos públicos que habitual o accidentalmente se exploten con fines lucrativos en el territorio del Estado.
+Son objeto de este impuesto los ingresos que se obtengan por la presentación de los espectáculos públicos que habitual o accidentalmente se exploten con fines lucrativos en el territorio del Estado, mediante el pago de cuotas, cooperaciones o cualesquiera otras prestaciones similares; con excepción de los presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 66.
 
-Son sujetos de este impuesto las personas físicas o morales y unidades económicas que habitual o accidentalmente exploten u organicen cualquier espectáculo público, mediante el pago de cuotas, cooperaciones o cualesquiera otras prestaciones similares.
+Son sujetos de este impuesto las personas físicas y las morales y las unidades económicas que habitual o accidentalmente exploten u organicen los espectáculos públicos, a que se refiere el Artículo 65 de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 67.
 
-Para los efectos de este impuesto se entiende por espectáculo público toda función lícita, sea teatral, cinematográfica, corrida de toros, circos, peleas de box y luchas o cualesquiera otras semejantes que se verifiquen en salones, teatros, plazas o en cualquier otro lugar abierto o cerrado, en los que, para admitir a los asistentes se exija el pago de una suma determinada de dinero.
+Para los efectos de este impuesto, se entiende por espectáculo público toda función lícita, sea teatral, cinematográfica, corrida de toros, festivales taurinos, circos, peleas de box o lucha libre o cualesquiera otras semejantes, que se verifiquen en salones, teatros, plazas o cualquier otro lugar abierto o cerrado, en los que, para admitir a los asistentes se exija el pago de una suma determinada de dinero; salvo lo dispuesto en el Artículo 65 de esta Ley.
 
 ###### ARTICULO 68.
 
@@ -559,17 +607,23 @@ Los contribuyentes de este impuesto tienen las siguientes obligaciones:
 
 I.- Si se explota habitualmente un espectáculo público en establecimiento fijo:
 
-a).- Registrarse en la Tesorería Municipal a través de la Oficina Recaudadora correspondiente, en las formas aprobadas al efecto y proporcionar los datos y exhibir los documentos que dichas Oficinas exijan, a más tardar el día anterior al en que vayan a dar principio las actividades gravadas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+a).- Registrarse en la Tesorería Municipal, en las formas aprobadas al efecto y proporcionar los datos y exhibir los documentos que dicha dependencia exija, a más tardar el día anterior a aquel en que vayan a dar principio las actividades gravadas.
 
 b).- Presentar los avisos de cambio de domicilio, suspensión de actividades, traspaso y clausura, ante las mismas Oficinas, previamente a la fecha en que ocurran tales hechos o circunstancias.
 
 II.- Si la explotación se lleva a cabo eventualmente o cuando se realice en forma permanente, sin contar con establecimiento fijo:
 
-a).- Presentar un informe ante la Oficina Recaudadora de su domicilio en el que se manifiesten las fechas de iniciación y suspensión del espectáculo a más tardar el día anterior al de la iniciación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+a).- Presentar ante la Tesorería Municipal un informe en el que se manifiesten las fechas de iniciación y suspensión del espectáculo, a más tardar el día anterior al de la iniciación del mismo.
 
 b).- Otorgar garantía a favor de la Tesorería Municipal, en cualquiera de sus formas establecidas en el Código Fiscal del Estado previa a la fecha de iniciación del espectáculo, garantía que no será inferior al monto del impuesto correspondiente a un día, ni superior al que correspondería a cinco días.
 
-c).- Presentar ante la Oficina Recaudadora correspondiente un aviso en caso de prórroga del período a que se refiera el aviso de iniciación, a más tardar el último día que comprenda éste.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+c).- Presentar ante la Tesorería Municipal un aviso en caso de prórroga del periodo a que se refiera el aviso de iniciación, a más tardar el último día que comprenda éste.
 
 III.- Presentar ante la Tesorería Municipal, para su autorización, los formatos en que se haga constar la cuota de admisión que permitirá el acceso al espectáculo de que se trate, cualquiera que sea su denominación y el programa correspondiente a cada función, con una anticipación no menor de un día a la iniciación del mismo.
 
@@ -581,9 +635,11 @@ Si el contribuyente no ha otorgado la garantía a que lo obliga el inciso b) de 
 
 El impuesto que con este Capítulo se reglamenta, no podrá repercutirse al espectador.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 76.
 
-Los funcionarios facultados para otorgar permisos para espectáculos, deberán dar aviso a la Tesorería Municipal o a sus Oficinas Recaudadoras competentes, de las autorizaciones que expidan, a más tardar el día anterior al de la iniciación del espectáculo.
+Los funcionarios facultados para otorgar permisos para espectáculos, deberán dar aviso a la Tesorería Municipal de las autorizaciones que expidan, a más tardar el día anterior al de la iniciación del espectáculo.
 
 ###### ARTICULO 77.
 
@@ -923,7 +979,7 @@ La venta de bienes mostrencos se hará en subasta pública, observando lo dispue
 
 La venta de lotes en panteones se hará de acuerdo con lo establecido en las Leyes de Ingresos Municipales.
 
-## TITULO SEXTO. APROVECHAMIENTOS
+## TITULO SEXTO. CONTRIBUCIONES DE MEJORAS
 
 ###### ARTICULO 134.
 
@@ -943,7 +999,7 @@ II.- Sobre el importe del adeudo fiscal por las diligencias de embargo.
 
 III.- Por los demás gastos que se eroguen hasta la conclusión del procedimiento.
 
-## TITULO SEPTIMO. CONTRIBUCIONES DE MEJORAS
+## TITULO SEXTO (SIC). CONTRIBUCIONES DE MEJORAS
 
 ###### ARTICULO 137.
 
@@ -1276,3 +1332,17 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 6 DE NOVIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Respecto del impuesto sobre adquisición de inmuebles y otros derechos reales, que se establece en el Artículo Tercero de la Ley de Hacienda para los Municipios del Estado de San Luis Potosí y en atención al acuerdo de coordinación para el fomento de la vivienda, de fecha 19 de octubre de 1992, publicado en el Diario Oficial de la Federación el día 20 del mismo mes y año, durante 1993 se aplicará a la adquisición de inmuebles para efectos de vivienda popular y de interés social, el 50% del impuesto determinado en los términos del segundo párrafo del Artículo 50 de esta Ley. En la inteligencia de que las formas, características y demás requisitos para ello, deberán ajustarse a las Reglas que emita el H. Congreso del Estado, el que podrá revisar en cualquier tiempo la correcta aplicación de tales reglas; entendiéndose que para la clasificación de vivienda popular o de interés social, se estará a las definiciones contenidas en el Acuerdo a que hace referencia en este Artículo.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas entrarán en vigor a partir del 1o. de enero de 1993.
+
+###### ARTICULO TERCERO.
+
+A partir de la fecha en que se encuentren en vigor estas reformas, se abrogan las disposiciones que se opongan a ellas.
