@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2004-04-06"
+last_updated: "2004-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -101,7 +101,7 @@ XIV. Estado. Al Estado Libre y Soberano de México.
 
 XV. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, con la misión de las dependencias y entidades públicas.
 
-XVI. Fideicomisos. A los fideicomisos públicos en los que el fideicomitente sea el Gobierno Estatal o aquellos en los que se aporten recursos de los Municipios.
+XVI. (DEROGADA, G.G. 4 DE JUNIO DE 2004)
 
 XVII. Gasto corriente. A las erogaciones destinadas al pago de servicios personales, así como a la adquisición de bienes y servicios.
 
@@ -8195,6 +8195,8 @@ El proyecto de obra y su ejecución, se dará de manera coordinada, entre la Sec
 
 ### CAPITULO TERCERO. DE LOS FONDOS DE APORTACIONES FEDERALES, CONVENIOS DE DESCENTRALIZACION Y PROGRAMAS DE APOYOS FEDERALES
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 217.
 
 Las disposiciones de este Título tienen por objeto:
@@ -8347,7 +8349,7 @@ El Estado deberá realizar pagos por cuenta del municipio con cargo a sus partic
 
 ###### Artículo 227.
 
-Los Fondos creados a favor del Estado y de sus municipios, con cargo a recursos de la Federación, se integrarán, distribuirán, administrarán, ejercerán y supervisarán de acuerdo con las disposiciones del Capítulo V de la Ley de Coordinación Fiscal, de este Código y de la legislación estatal y municipal aplicable.
+Los fondos de aportaciones federales creados a favor del Estado y de sus municipios, con cargo a recursos de la Federación, se integrarán, distribuirán, administrarán, ejercerán y supervisarán de acuerdo con las disposiciones del Capítulo V de la Ley de Coordinación Fiscal, de este Código y de la legislación estatal y municipal aplicable.
 
 ###### Artículo 228.
 
@@ -8370,6 +8372,10 @@ VI. Fondo de Aportaciones para la Educación Tecnológica y de Adultos.
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 VII. Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal.
+
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+En ningún caso el Estado podrá aplicar el régimen de los anteriores fondos de aportaciones federales a otros recursos provenientes del gobierno federal, cualquiera que sea su naturaleza, salvo que así lo establezcan las disposiciones federales aplicables a dichos recursos.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -8452,6 +8458,8 @@ Las responsabilidades administrativas, civiles y penales en que incurran las aut
 > <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO SEGUNDO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 245.
 
@@ -8679,6 +8687,8 @@ Los recursos necesarios para el funcionamiento del instituto, serán aportados e
 
 ### CAPITULO TERCERO. DE LA INSCRIPCION EN EL REGISTRO DE DEUDA PUBLICA
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 256.
 
 Para los efectos de este Código la deuda pública está constituida por las obligaciones de pasivo directas, indirectas o contingentes, derivadas de financiamientos a cargo de:
@@ -8693,11 +8703,15 @@ IV. Las empresas de participación estatal o municipal mayoritaria.
 
 V. Los fideicomisos en que el fideicomitente sea alguna de las entidades públicas señaladas en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 257.
 
-Se entiende por financiamiento, la contratación de créditos, empréstitos o préstamos derivados de:
+Se entiende por financiamiento, la contratación de créditos, empréstitos, refinanciamientos, reestructuraciones o préstamos derivados de:
 
-I. La suscripción o emisión de títulos de crédito o de cualquier otro documento pagadero a plazos.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+I. La suscripción, emisión, canje o modificación de títulos de crédito o de cualquier otro documento pagadero a plazos.
 
 II. Los pasivos contingentes relacionados con los actos mencionados en la fracción anterior.
 
@@ -8705,13 +8719,15 @@ II. Los pasivos contingentes relacionados con los actos mencionados en la fracci
 
 Para efectos de este título se entenderá por:
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-I. Endeudamiento Bruto: Conjunto de créditos contratados con instituciones financieras o empresas, así como el derivado de la emisión de valores.
+I. Endeudamiento: Conjunto de créditos contratados con instituciones financieras o empresas, así como el derivado de la emisión de valores.
 
 II. Endeudamiento neto: Es el resultado de restar a las contrataciones las amortizaciones pagadas en un ejercicio fiscal. Hay endeudamiento neto cuando en un ejercicio fiscal la contratación es superior a la amortización, en caso contrario habrá desendeudamiento neto.
 
-III. Endeudamiento neto autorizado: Es el porcentaje o monto autorizado sobre los ingresos ordinarios totales de un ejercicio fiscal en la Ley de Ingresos correspondiente.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+III. Endeudamiento autorizado: Es el monto de Endeudamiento autorizado en la Ley de Ingresos o en sus modificaciones para el ejercicio fiscal correspondiente.
 
 IV. Amortización de la deuda: Pago de capital mediante la liquidación de una obligación total o en parcialidades.
 
@@ -8743,11 +8759,11 @@ B). Indirecta, la que contraten los organismos públicos descentralizados munici
 
 C). Contingente, la contraída por los ayuntamientos como avales o deudores solidarios de las entidades públicas señaladas en el inciso anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 260.
 
-Las obligaciones de deuda pública estarán destinadas a obras o acciones, que produzcan beneficios para la población.
+Las obligaciones de deuda pública estarán destinadas al financiamiento de inversiones públicas productivas o servicios públicos que en forma directa o mediata generen recursos públicos en los términos de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, incluyendo sin limitar, la contratación de obligaciones de deuda para el pago de pasivos anteriores o la reestructuración de pasivos a cargo del Estado y/o de los Municipios.
 
 Estas obligaciones podrán incrementar el saldo de la deuda pública, cuando los costos del financiamiento se incrementen por efecto de la inflación o cuando por circunstancias especiales el costo financiero sea mayor a lo presupuestado, debiendo informar de esta circunstancia a la Legislatura.
 
@@ -8761,15 +8777,29 @@ Son autoridades en materia de deuda pública, la Legislatura, el Gobernador y lo
 
 Es competencia de la Legislatura autorizar:
 
-I. Los montos máximos de endeudamiento neto anual en la correspondiente Ley de Ingresos, entendiéndose por endeudamiento neto, la diferencia entre los ingresos derivados de financiamiento y los pagos efectuados por este concepto, durante el ejercicio fiscal.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-II. Los montos de endeudamiento adicionales a los previstos en la Ley de Ingresos para el ejercicio correspondiente, cuando a juicio de la propia Legislatura se presenten circunstancias extraordinarias que así lo exijan, previa solicitud del Gobernador o de los ayuntamientos, debidamente justificada.
+I. Los montos máximos de endeudamiento anual en la correspondiente Ley de Ingresos.
 
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-III. La contratación de financiamiento y la reestructuración de créditos de los ayuntamientos cuando el plazo de amortización exceda el período constitucional para el que fue electo el Ayuntamiento.
+II. Los financiamientos a ser celebrados por el Estado y comprendidos en los montos máximos de endeudamiento de la Ley de Ingresos aplicable que el Gobernador decida someter a consideración de la Legislatura.
 
-La Legislatura verificará que las operaciones de deuda pública, se realicen de acuerdo con las disposiciones de este Código.
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+III. La afectación de los ingresos y/o del derecho a las participaciones que en ingresos federales correspondan al Estado como fuente de pago, garantía, o ambos, de las obligaciones que contraigan, así como la afectación del derecho y/o de los ingresos del Estado, derivados de otros recursos federales susceptibles de afectación. Igualmente corresponderá a la Legislatura, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos, para lo que deberá constatar el previo consentimiento expreso de los acreedores en cuyo favor se hayan afectado.
+
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+IV. Los montos de endeudamiento adicionales a los previstos en la Ley de Ingresos para el ejercicio correspondiente, cuando a juicio de la propia Legislatura se presenten circunstancias extraordinarias que así lo exijan, previa solicitud del Gobernador o de los ayuntamientos, debidamente justificada.
+
+> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+
+V. La contratación de financiamiento y la reestructuración de créditos de los ayuntamientos cuando el plazo de amortización exceda el período constitucional para el que fue electo el Ayuntamiento.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+La Legislatura verificará que las operaciones de deuda pública, se realicen de acuerdo con las disposiciones de este Código a través de los informes que presente el Ejecutivo con base en la fracción XI del artículo 263 del presente Código.
 
 ###### Artículo 263.
 
@@ -8777,21 +8807,25 @@ Corresponde al Gobernador en materia de deuda pública, por conducto de la Secre
 
 I. Asesorar técnicamente y apoyar a los municipios y a las entidades públicas en la gestión, concertación y contratación de sus operaciones.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-II. Celebrar contratos, convenios y demás instrumentos legales relacionados directa o indirectamente con la obtención, manejo, operación, gestión y demás actos vinculados con la deuda pública, cuyo destino sea el objeto pactado, informando y proporcionándole copia de contratos y convenios respectivos a la Legislatura.
+II. Celebrar contratos, convenios y demás instrumentos legales relacionados directa o indirectamente con la obtención, refinanciamiento, reestructuración, manejo, operación, gestión y demás actos vinculados con la deuda pública. Para tal efecto, podrá negociar y estipular en los instrumentos respectivos, las cláusulas usuales de los financiamientos, tales como las aplicables a entregas de información, obligaciones accesorias y jurisdicción, entre otras. El Gobernador informará de los contratos y convenios celebrados en los informes que presente con base en la fracción XI de este artículo.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-III. Constituir las garantías y fuentes de pago directa y/o indirectas de las obligaciones contraídas en términos de la fracción anterior, además de aquellas que se contraigan con el carácter de aval y obligado solidario.
+III. Constituir las garantías y fuentes de pago directas y/o indirectas de las obligaciones contraídas en términos de la fracción anterior, además de aquéllas que se contraigan con el carácter de aval y/u de obligado solidario.
 
 IV. Analizar y otorgar, en su caso, el aval por las obligaciones de pasivo que contraigan los municipios y las entidades públicas y hacer los registros correspondientes, informándole de ello a la Legislatura.
 
 V. Operar el Registro de Deuda Pública estatal y municipal.
 
-VI. Reestructurar los créditos adquiridos como deudor directo o responsable solidario.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-VII. Vigilar que el endeudamiento neto no rebase los montos autorizados por la Legislatura.
+VI. Reestructurar o refinanciar los créditos adquiridos como deudor directo, responsable solidario o aval.
+
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+VII. Vigilar que las operaciones de financiamiento no rebasen los montos de endeudamiento autorizados por la Legislatura.
 
 VIII. Expedir los certificados de afectación a las participaciones derivadas de la Coordinación Fiscal, cuando los ayuntamientos las otorguen como garantía.
 
@@ -8800,6 +8834,18 @@ IX. Solicitar a los municipios y a las entidades públicas información sobre su
 X. Administrar la Deuda Pública del Estado, promover la operación de instrumentos y modalidades de financiamiento incluyendo emisión y colocación de valores, constitución de fondos y otros que autoricen las leyes.
 
 XI. Informar trimestralmente a la Legislatura o cuando esta lo solicite acerca de las operaciones de deuda pública y su aplicación en los meses de abril, julio y octubre, y el correspondiente al cierre del ejercicio, a través de la presentación de la cuenta pública.
+
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+XII. Publicar trimestralmente la información contenida en el Registro de Deuda Pública.
+
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+XIII. Notificar a la Tesorería de la Federación, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad del orden federal que resulte competente, en el supuesto de que el Estado haya afectado a un fideicomiso su derecho a percibir ingresos provenientes de la Federación como garantía y/o fuente de pago de sus obligaciones. La notificación tendrá por efecto que los montos que le correspondan al Estado sean entregados de manera directa al fideicomiso correspondiente. La mencionada notificación no podrá ser revocada sin la autorización de la Legislatura previo el consentimiento por escrito de los acreedores del fideicomiso de que se trate.
+
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+XIV. Acordar que el fiduciario de los fideicomisos materia del inciso anterior aplicará al pago de los financiamientos las cantidades recibidas directamente de la Tesorería de la Federación, o en su caso del Estado, en los términos estipulados en los instrumentos en los que se documente el fideicomiso respectivo y los financiamientos de que se trate. El fiduciario del fideicomiso respectivo efectuará, en todo momento, los pagos de los financiamientos, sin que se requiera instrucción del Estado o notificación al mismo.
 
 ###### Artículo 264.
 
@@ -8831,11 +8877,27 @@ V. En los casos señalados en las fracciones I, II y IV cuyos plazos de amortiza
 
 La emisión de bonos, valores y otros títulos de deuda serán pagaderos en moneda nacional y dentro del territorio de la República; y tanto en el acta de emisión como en los títulos, deberán citarse los datos de su inscripción en el registro de deuda pública. Asimismo, deberá constar la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales; sin estos datos los títulos carecerán de validez.
 
-> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 265-A.
 
-El Estado por conducto del Gobernador a través de la Secretaría, podrá afectar como fuente o garantía de pago, o ambas, de las obligaciones que contraiga, incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el mercado de valores, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios, así como las participaciones derivadas del Sistema Nacional de Coordinación Fiscal.
+El Estado por conducto del Gobernador a través de la Secretaría, y previa autorización de la Legislatura, podrá afectar como fuente o garantía de pago, o ambas, de las obligaciones que contraiga:
+
+I. Los ingresos estatales derivados de contribuciones, productos, aprovechamientos y accesorios.
+
+II. Los ingresos y/o el derecho a las participaciones que en ingresos federales le correspondan al Estado.
+
+III. Otros recursos federales de naturaleza análoga o conexa a los referidos en el párrafo anterior que sean susceptibles de afectación o de aplicación especial para el pago o garantía de financiamientos.
+
+IV. En su caso, cualesquiera otros ingresos o derechos que sustituyan a los previstos en las fracciones anteriores.
+
+Para la afectación de los ingresos y/o derechos referidos en las fracciones anteriores del presente articulo, el Estado, por conducto del Gobernador a través de la Secretaría y previa autorización de la Legislatura, podrá constituir fideicomisos en los que afecte irrevocablemente los ingresos y/o el derecho a la totalidad o a un porcentaje de dichos recursos. Lo anterior en el entendido que el Estado no podrá de forma alguna revocar o revertir dicha afectación sin autorización de la propia Legislatura y de los acreedores correspondientes. La afectación materia de este artículo estará sujeta a lo previsto en el presente Código, el decreto por el que la Legislatura autorice la Constitución del respectivo fideicomiso y a sus modificaciones en la medida que éstas no afecten adversamente derechos adquiridos por los acreedores correspondientes o siempre que sean consentidas por los mismos en los convenios modificatorios pertinentes al efecto.
+
+Los fideicomisos a que se refiere el párrafo anterior deberán ser inscritos en el Registro de Deuda Pública, y serán considerados como acreedores para los efectos de prelación y preferencia en el pago en relación con otros acreditantes que no sean fideicomisarios en dichos fideicomisos, en los términos previstos en los artículos aplicables.
+
+Cuando el derecho a percibir las participaciones en ingresos federales y los demás ingresos o derechos a que se refieren las fracciones anteriores, se hayan afectado a ese tipo de fideicomisos y éstos no tengan el carácter de fideicomisos públicos de acuerdo con la legislación aplicable y tenga por propósito primordial o exclusivo el servir como medio de pago o garantía de deuda pública contratada por el Estado, las erogaciones que se realicen con cargo a su patrimonio sólo estarán sujetas a las disposiciones establecidas en el decreto por el que la Legislatura autorice al Ejecutivo la creación del fideicomiso respectivo y a las reglas, controles y previsiones aplicables al fideicomiso de que se trate de acuerdo con las normas contractuales respectivas. Estos fideicomisos no estarán comprendidos en los previstos en el artículo 256, fracción V de este Código. La Secretaría llevará un registro de estos fideicomisos.
+
+La designación y remoción del fiduciario de los fideicomisos a que se refiere este artículo le corresponderá únicamente a las partes del mismo, conforme a los términos del respectivo fideicomiso.
 
 > <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
 
@@ -8891,7 +8953,9 @@ En todo lo referente al manejo, colocación, emisión y operación de los valore
 
 ###### Artículo 266.
 
-Los financiamientos que contrate el Estado deberán de estar contemplados dentro de la Ley de Ingresos del Estado y formarán parte del programa de obras y acciones el que deberá ser revisado y aprobado previamente por la Legislatura.
+Los financiamientos que contrate el Estado deberán de estar contemplados dentro de los montos máximos de endeudamiento establecidos en la Ley de Ingresos del Estado, en sus modificaciones o en las autorizaciones que en los términos del artículo 262, fracción IV de este Código emita la Legislatura.
+
+De igual manera, la Legislatura deberá autorizar anualmente en la Ley de Ingresos los pasivos que se generen como resultado de erogaciones que se devenguen en el ejercicio fiscal pero que queden pendientes por liquidar al cierre del mismo.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8909,7 +8973,9 @@ Cuando un ayuntamiento se coordine o asocie con otro, o con el Estado para la pr
 
 La contratación de obligaciones directas a corto plazo, no formará parte de la deuda pública, cuando se cumplan los siguientes requisitos:
 
-I. El saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+I. El saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente, y
 
 II. (DEROGADA, G.G. 6 DE DICIEMBRE DE 2002)
 
@@ -8917,13 +8983,15 @@ III. (DEROGADA, G.G. 6 DE DICIEMBRE DE 2002)
 
 IV. No se afecten en garantía los ingresos provenientes de las participaciones derivadas de la Coordinación Fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 269.
 
-El Estado otorgará su aval, cuando se cumplan los siguientes requisitos:
+El Estado podrá otorgar su aval, cuando se cumplan los siguientes requisitos:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-I. Que el importe a contratar se encuentre dentro de los montos de endeudamiento neto anual autorizados por la Legislatura en la Ley de Ingresos del Estado.
+I. Que el importe a contratar se encuentre dentro de los montos de endeudamiento anual autorizados por la Legislatura en la Ley de Ingresos del Estado, en sus modificaciones o en las autorizaciones que en los términos del artículo 262, fracción IV de este Código emita la Legislatura.
 
 II. Que el plazo de amortización no exceda el período constitucional para el que fue electo el ayuntamiento, salvo por autorización de la Legislatura.
 
@@ -8935,9 +9003,11 @@ V. Que las entidades públicas estén al corriente en la información que deben 
 
 > <small>(DEROGADA ULTIMO PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 270.
 
-El Estado y los municipios a efecto de garantizar el cumplimiento de las obligaciones directas y contingentes que contraten, inscribirán los documentos que resulten de estas operaciones en forma invariable en el Registro de Deuda Pública.
+El Estado y los municipios, inscribirán los documentos en que consten sus obligaciones directas y contingentes en el Registro de Deuda Pública.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -8947,9 +9017,11 @@ Los municipios podrán comprometer y otorgar en pago o como garantía de pago pa
 
 Para efectos del presente artículo, en caso de adeudos cuyos plazos de amortización rebasen el término de la gestión municipal, autorizados por la Legislatura o la Diputación Permanente, de conformidad a lo establecido en la fracción III del artículo 33 de la Ley Orgánica Municipal del Estado de México, se considerará en pago o como garantía, de pago únicamente respecto de la suma de amortización de deuda e intereses por servicios de la misma que corresponda a cada ejercicio fiscal.
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 272.
 
-Cuando los municipios, los organismos descentralizados, las empresas de participación mayoritaria y los fideicomisos requieran la garantía del Estado, deberán formular solicitud acompañando la información que la Secretaría determine. En este caso la solicitud se hará por acuerdo del ayuntamiento, proporcionado el acta certificada del acuerdo del órgano de gobierno o consejo directivo, en el que se justifique la necesidad del crédito o empréstito.
+Cuando los municipios, los organismos descentralizados, las empresas de participación mayoritaria y los fideicomisos públicos requieran la garantía del Estado, deberán formular solicitud acompañando la información que la Secretaría determine. En este caso la solicitud se hará por acuerdo del ayuntamiento, proporcionado (sic) el acta certificada del acuerdo del órgano de gobierno o consejo directivo, en el que se justifique la necesidad del crédito o empréstito.
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
 
@@ -8957,7 +9029,7 @@ Cuando los municipios, los organismos descentralizados, las empresas de particip
 
 ###### Artículo 273.
 
-Todas las obligaciones de pasivo directas, indirectas y contingentes que contraigan el Estado, los municipios y las entidades públicas, se inscribirán en el Registro de Deuda Pública.
+Todas las obligaciones de pasivo directas, indirectas y contingentes que contraigan el Estado, los municipios y las entidades públicas, así como los fideicomisos a que se refiere el artículo 265 A del presente Código, se inscribirán en el Registro de Deuda Pública.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8971,11 +9043,17 @@ El Estado, los municipios y las entidades públicas, para la inscripción de sus
 
 I. El documento en el que conste el acto o contrato motivo de la obligación.
 
-II. Copia certificada del acta en la que conste el acuerdo del consejo directivo u órgano de gobierno, mediante el que se autorizó la contratación del financiamiento, cuando se trate de organismos públicos descentralizados estatales o municipales, empresas de participación estatal o municipal mayoritaria y los fideicomisos en los que el fideicomitente sea el estado o los municipios.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+II. En su caso, la autorización de la Legislatura.
 
-III. Copia certificada del acta de cabildo en la que conste el acuerdo del ayuntamiento para contratar el financiamiento y afectar como garantía o fuente de pago, o ambas, los ingresos por participaciones derivadas del Sistema de Coordinación Fiscal, de igual manera deberá contener la justificación de la contratación del financiamiento, su monto, plazo y destino.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+III. Copia certificada del acta en la que conste el acuerdo del consejo directivo u órgano de gobierno, mediante el que se autorizó la contratación del financiamiento, cuando se trate de organismos públicos descentralizados estatales o municipales, empresas de participación estatal o municipal mayoritaria y los fideicomisos en los que el fideicomitente sea el estado o los municipios.
+
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+IV. Copia certificada del acta de cabildo en la que conste el acuerdo del ayuntamiento para contratar el financiamiento y afectar como garantía o fuente de pago, o ambas, los ingresos por participaciones derivadas del Sistema de Coordinación Fiscal, de igual manera deberá contener la justificación de la contratación del financiamiento, su monto, plazo y destino.
 
 ###### Artículo 275.
 
@@ -8987,13 +9065,39 @@ II. Las características del acto identificando las obligaciones contraídas, su
 
 III. La fecha del acta de cabildo o de la sesión del órgano de gobierno donde se autoriza a las entidades públicas contraer obligaciones y en su caso, a otorgar garantías.
 
-IV. Las garantías otorgadas.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
-V. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron.
+IV. Las garantías otorgadas y/o las fuentes de pago constituidas.
+
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
+
+V. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron con el finiquito emitido por los acreedores.
+
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+En el caso de fideicomisos a que se refiere el artículo 265 A del presente Código se deberá inscribir además al fideicomiso, señalando los siguientes datos:
+
+a) Número progresivo y fecha de inscripción.
+
+b) Las características generales del fideicomiso correspondiente, indicando los conceptos mencionados en el artículo 265 A del presente Código, que integren su patrimonio.
+
+c) En su caso, la fecha del decreto de autorización de la Legislatura para la afectación de participaciones.
+
+d) Las obligaciones del Estado que tengan como fuente de pago y/o garantía al fideicomiso, identificando los acreedores originales, montos, plazos y tasas de interés.
+
+e) Las reglas de distribución de recursos previstas en el fideicomiso correspondiente.
+
+f) Las reglas o condiciones para la admisión de nuevos fideicomisarios al fideicomiso correspondiente.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 276.
 
-El número progresivo y fecha de inscripción en el Registro de Deuda Pública, darán preferencia a los acreditados para los efectos de exigibilidad en el pago de las obligaciones.
+El número progresivo y fecha de inscripción en el Registro de Deuda Pública, darán preferencia a los acreedores para los efectos de exigibilidad en el pago de las obligaciones con cargo a la hacienda pública. Para todos los efectos legales, en el supuesto de que un grupo de acreedores soliciten, conjuntamente, su inscripción al Registro de Deuda Pública, se considerarán como inscritos con el mismo número progresivo y fecha de inscripción, por lo que tendrán la misma prelación y preferencia para el pago de sus obligaciones.
+
+No obstante lo anterior, en lo que respecta a la inscripción de las garantías o afectaciones de participaciones en ingresos federales, la aplicación de los recursos correspondientes se realizará con sujeción exclusiva a la prelación y preferencia que resulte del número progresivo y fecha de inscripción de la garantía o afectación aplicable.
+
+Cuando se constituyan garantías o se afecten los ingresos o los derechos a que se refiere el artículo 265-A del presente Código en fideicomisos u otros mecanismos que agrupen a diversos acreedores, la prelación y preferencia entre ellos, en relación con la garantía, los ingresos o los derechos afectados, será la que se estipule en las normas contractuales aplicables a dichos fideicomisos o mecanismos, con independencia de la que les corresponda en función del número progresivo y de la fecha de inscripción de sus respectivos créditos.
 
 ###### Artículo 277.
 
@@ -9009,9 +9113,13 @@ II. Al efectuarse el pago parcial o total de las obligaciones, deberán comproba
 
 III. Informar a la Legislatura de las cancelaciones parciales o totales en el Registro de Deuda Pública.
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 279.
 
-La inscripción en el Registro de Deuda Pública de las obligaciones directas, indirectas o contingentes a cargo de las entidades públicas, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago, se cubran con cargo a las garantías que para este efecto se hayan señalado.
+La inscripción en el Registro de Deuda Pública de las obligaciones directas, indirectas o contingentes a cargo de las entidades públicas a que se refiere el artículo 256 de este Código, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago, se cubran con cargo a las garantías o fuentes de pago que para este efecto se hayan señalado o, en su defecto, con cargo a la hacienda pública.
+
+Únicamente los acreedores que se encuentren inscritos en el Registro de Deuda Pública como beneficiarios de la afectación de ingresos o derechos a que se refiere el artículo 265-A del presente Código como garantía o fuente de pago, podrán hacer valer sus créditos con cargo a las mismas, según les corresponda.
 
 ###### Artículo 280.
 
@@ -9019,23 +9127,25 @@ La Secretaría le correrá traslado al ayuntamiento, por conducto del presidente
 
 En el caso de no haberse acreditado, la Secretaría procederá a programar el pago correspondiente con cargo a la garantía otorgada y de acuerdo a la disponibilidad de recursos.
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 281.
 
-Cuando los organismos descentralizados, empresas de participación mayoritaria o fideicomisos estatales, incurran en mora, los acreditantes podrán presentar su solicitud de pago a la Secretaría, la que procederá al cumplimiento de la obligación, según su orden de prelación.
+Cuando los organismos descentralizados, empresas de participación mayoritaria o fideicomisos estatales, incurran en mora en relación con deudas avaladas por el Estado o garantizadas con su responsabilidad solidaria, los acreditantes podrán presentar su solicitud de pago a la Secretaría, la que procederá al cumplimiento de la obligación, según su orden de prelación.
 
-En caso de no haberse comprobado el pago dentro de las siguientes setenta y dos horas el acreditante podrá solicitar la ejecución de la garantía otorgada.
+En caso de no haberse comprobado el pago dentro de las siguientes setenta y dos horas el acreditante podrá solicitar la ejecución de la garantía otorgada, de existir ésta.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 282.
 
-Cuando el Estado incurra en mora, los acreditantes podrán presentar su solicitud de pago ante la Secretaría, la que procederá al cumplimiento de la obligación en un plazo no mayor a sesenta y dos horas hábiles, según su orden de prelación.
+Cuando el Estado incurra en mora, los acreditantes o la fiduciaria de los fideicomisos constituidos en términos del artículo 265 A del presente Código, según corresponda, podrán presentar su solicitud de pago ante la Secretaría, la que procederá al cumplimiento de la obligación en un plazo no mayor a setenta y dos horas hábiles, según su orden de prelación, con cargo a la hacienda pública estatal.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-En caso de no haber comprobado el pago, el acreditante podrá solicitar la ejecución de la garantía otorgada a la Secretaría de Hacienda y Crédito Público o al mecanismo que se haya implementado para garantizar las obligaciones contraídas.
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 283.
 
-Las operaciones de endeudamiento y su inscripción en el Registro de Deuda Pública, sólo podrán modificarse con los mismos requisitos y formalidades previstas para su inscripción.
+Las operaciones de endeudamiento y su inscripción en el Registro de Deuda Pública, sólo podrán modificarse con los mismos requisitos y formalidades previstas para su inscripción en el artículo 274 del presente Código.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -9099,6 +9209,12 @@ Para determinar las remuneraciones de todo tipo de los servidores públicos muni
 
 La asignación de remuneraciones de todo tipo, se fijará en base a los criterios señalados en este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional.
 
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+###### Artículo 289 Bis.
+
+La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar las asignaciones presupuestales necesarias para cubrir los financiamientos a cargo del Estado y/o sus organismos descentralizados de acuerdo a los contratos y documentos que instrumenten los financiamientos correspondientes. En caso de que por cualquier circunstancia se omita prever las asignaciones presupuestales se entenderán señalados los montos establecidos para el ejercicio inmediato anterior.
+
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO CUARTO. DEL CONTROL, INFORMACION Y EVALUACION DEL GASTO PUBLICO
@@ -9144,6 +9260,12 @@ II. El gasto no programable comprende los siguientes capítulos:
 a). 8000 Deuda Pública.
 
 b). 9000 Participaciones, Aportaciones Federales y Estatales a municipios.
+
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+###### Artículo 292 Bis.
+
+El Presupuesto de Egresos deberá contemplar anualmente en el capítulo de deuda pública las asignaciones destinadas a cubrir totalmente el pago de los pasivos derivados de erogaciones devengadas y pendientes de liquidar al cierre del ejercicio fiscal anterior.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -10178,3 +10300,37 @@ SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicació
 TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
 
 CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
+
+G.G. 4 DE JUNIO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto prevalecerá sobre cualquier disposición que se oponga al mismo. Asimismo, se entienden modificados conforme a los términos del presente Decreto cualesquiera otros decretos o disposiciones mediante los cuales se haya autorizado la contratación de las obligaciones de deuda pública cuya reestructuración se autoriza mediante el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+El Gobernador, por conducto de la Secretaría de Finanzas, Planeación y Administración deberá realizar todas (sic) los actos y gestiones necesarios a efecto de desafectar las participaciones que en ingresos federales correspondan al Estado que a la fecha se encuentren comprometidas, con la finalidad de aportar el derecho a la totalidad de las participaciones que en ingresos federales corresponden al Estado al fideicomiso a que se refiere el presente decreto. Lo previsto en este artículo no podrá entenderse en perjuicio de derechos adquiridos por terceros.
+
+###### ARTICULO SEXTO.
+
+A partir del inicio de la vigencia del presente decreto, el Ejecutivo del Estado dispondrá de sesenta días naturales, para llevar a cabo las modificaciones al Reglamento de la Ley para la Coordinación y Control de los Organismos Auxiliares y Fideicomisos del Estado de México, que se derivan del mismo.
+
+###### ARTICULO SEPTIMO.
+
+Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, se entenderán referidas a la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+###### ARTICULO OCTAVO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
