@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1996-10-09"
+last_updated: "1996-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2591,15 +2591,17 @@ V.- Arresto hasta por treinta y seis horas.
 
 Primero.- Se abroga el Código Municipal para el Estado de Chihuahua, que entró en vigor el 30 de septiembre de 1982.
 
-Segundo.- Este Código, entrará en vigor el día primero de enero de 1996, a excepción del capítulo tercero, del título tercero, del libro segundo, referente al impuesto predial, el cual entrará en vigor el primero de enero de 1997, a efecto de que los Municipios adecuen sus valores, en los términos de la Ley de Catastro, continuando vigente a este respecto durante 1996, las disposiciones contenidas en el Código que se abroga.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-En cuanto a las diferencias del impuesto a cargo de los contribuyentes, que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se pagará en un lapso de dos años, de la siguiente manera:
+Segundo.- Este Código entrará en vigor el día primero de enero de 1996, a excepción del Capítulo Tercero del Título Tercero, del Libro Segundo, referente el impuesto predial, el cual entrará en vigor el día primero de enero de 1998, a efecto de que los Municipios adecúen sus valores, en los términos de la Ley de Catastro, continuando vigente a este respecto durante 1996 y 1997, las disposiciones contenidas en el Código que se abroga.
 
-En 1997, el cincuenta por ciento de la diferencia; y
+En cuanto a las diferencias del impuesto a cargo de los contribuyentes, que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se pagarán en un lapso de dos años, de la manera siguiente:
 
-En 1998, el total de la diferencia.
+I.- En 1998, el cincuenta por ciento de la diferencia; y,
 
-Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que se deriven de nuevas construcciones que aumenten el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
+II.- En 1999, el resto del total de la diferencia.
+
+Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumente (sic) el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
 
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
 
@@ -2646,3 +2648,7 @@ P.O. 9 DE OCTUBRE DE 1996.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de La Mesa, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado, en lo conducente, debiéndose llevar a cabo la elección dentro de los 60 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
