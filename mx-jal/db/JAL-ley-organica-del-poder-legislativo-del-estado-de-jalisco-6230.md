@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-02-13"
+last_updated: "1999-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -225,11 +225,11 @@ Para suplir a los diputados electos por el principio de representación proporci
 
 ### CAPITULO I. De las Obligaciones de los Diputados
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 11.
 
-Es obligación de cada diputado formular y presentar individual o colectivamente, de menos, una iniciativa de Ley, dentro del tiempo que dure su ejercicio; así como asistir a todas las Sesiones que celebre el Congreso. Se entiende que los diputados que falten a 10 Sesiones consecutivas, sin causa justificada o sin previo aviso a la Presidencia, renuncian a concurrir a Sesiones hasta el período inmediato, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las Sesiones, por causas justificadas, en los términos del artículo siguiente.
+Es obligación de cada diputado formular y presentar al menos una iniciativa de ley dentro del tiempo que dure su ejercicio; así como asistir a todas las sesiones que celebre el Congreso. Se entiende que los diputados que falten a 10 sesiones consecutivas, sin causa justificada o sin previo aviso a la presidencia, renuncian a concurrir a sesiones, llamándose desde luego a los suplentes. Los diputados solamente podrán dejar de concurrir a las sesiones por causas justificadas, en los términos del artículo siguiente.
 
 ###### Artículo 12.
 
@@ -675,9 +675,11 @@ I. El manejo de Fondos del Congreso, debiendo en su ejercicio:
 
 a) Hacer pago inmediato de los gastos ordinarios y necesarios sin previo acuerdo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1999)</small>
 
-b) Rendir cuentas al Congreso del Estado en la primera sesión de cada mes, del manejo de fondos del mes inmediato anterior para que resuelvan sobre la aprobación o no aprobación de la cuenta correspondiente, y a fin de cada mes deberá también enviar relación pormenorizada a cada diputado del movimiento de fondos, dejando a disposición de aquel que lo solicite los comprobantes de los egresos correspondientes.
+b) Enviar a los diputados, dentro de los primeros diez días naturales de cada mes, la relación pormenorizada del movimiento de fondos del mes inmediato anterior, debiendo mostrar para su revisión o aclaración a aquél que lo solicite, los comprobantes de los ingresos y egresos correspondientes.
+
+Asimismo, deberá rendir cuentas mensualmente al Congreso del Estado sobre el manejo de fondos en la primera sesión que se celebre después de los quince días naturales del mes siguiente a que se informe para que resuelva sobre la aprobación o no aprobación de la cuenta respectiva.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -787,13 +789,13 @@ Corresponde a la Comisión de Desarrollo Pesquero, conocer de los asuntos que co
 
 ###### Artículo 47-F.
 
-Corresponde a la Comisión de Fomento Turístico, conocer dfe los asuntos relacionados con:
+Corresponde a la Comisión de Fomento Turístico, conocer de los asuntos relacionados con:
 
 I. La normatividad relativa a la planeación y programación de la actividad turística del Estado;
 
 II. Los convenios que celebre el Gobierno del Estado con los de otras Entidades Federativas, para incrementar el turismo y mejorar los servicios correlativos en el Estado; y
 
-III. Las bases normativas para concesionar la explotación de rutas y recorridos tutísticos, de competencia estatal.
+III. Las bases normativas para concesionar la explotación de rutas y recorridos turísticos, de competencia estatal.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -1745,8 +1747,6 @@ QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
-rtículo 190.- (DEROGADO, P.O. 29 DE ABRIL DE 1997)
-
 ###### Artículo 190.
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
@@ -1930,3 +1930,13 @@ UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el
 DECRETO QUE REFORMA ART. 31 Y 47-N, P.O. 13 DE FEBRERO DE 1999
 
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE FEBRERO DE 1999
+
+DECRETO QUE REFORMA ART. 44,
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+DECRETO QUE REFORMA ART. 11, P.O. 25 DE FEBRERO DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
