@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "1998-04-17"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -273,33 +273,47 @@ Para ocupar el cargo de Procurador General de Justicia en el Estado de Baja Cali
 
 I.- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
 
-II.- No tener menos de treinta y cinco años de edad, ni más de sesenta y cinco, el día de la designación;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-III.- Poseer el día de la designación con antigüedad mínima de diez años, título profesional de Licenciado en Derecho; expedido por la autoridad o institución legalmente facultada para ello, y por lo menos cinco años de ejercicio profesional;
+II.- Tener cuando menos treinta y cinco años de edad, y no más de sesenta y cinco, el día de la designación;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+III.- Poseer el día de la designación con antigüedad mínima de diez años, título profesional de Licenciado en Derecho; expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado y por lo menos diez años de ejercicio profesional;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, se le inhabilitará para el cargo cualquiera que haya sido la pena;
 
-V.- Haber residido en el Estado durante los cinco años anteriores al día de la designación, y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-VI.- No haber ocupado el cargo de titular en una secretaría o el de Gobernador del Estado de Baja California, durante el año previo al día de la designación.
+V.- Haber residido en el Estado durante los diez años anteriores al día de la designación;
+
+VI.- No haber ocupado el cargo de titular en una secretaría o el de Gobernador del Estado de Baja California, durante el año previo al día de la designación;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+VII.- Presentar programa integral de trabajo sobre la Procuración de Justicia en Baja California; y,
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+VIII.- Presentar examen de salud y antidoping de una Institución Pública de Salud.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTÍCULO 8.
 
 El Procurador General de Justicia del Estado será nombrado en los términos que señala la Constitución Política del Estado, conforme al siguiente procedimiento:
 
-I.- El Gobernador del Estado, en un plazo no mayor de diez días hábiles contados a partir del día que se produzca la vacante del cargo de Procurador, presentará ante el Congreso del Estado, la propuesta de candidato para ocupar dicho cargo. A la propuesta deberá anexarse la documentación idónea que acredite los requisitos establecidos en el artículo anterior;
+I.- El Gobernador del Estado, en un plazo no mayor de diez días naturales contados a partir del día que se produzca la vacante del cargo de Procurador, presentará ante el Congreso del Estado, una terna con los nombres de los candidatos para ocupar dicho cargo. A la propuesta deberá anexarse la documentación idónea que acredite los requisitos establecidos en el artículo anterior;
 
-II.- Una vez recibida la propuesta, se turnará a la Comisión de Legislación y Puntos Constitucionales, la cual analizará la propuesta y verificará que se cumplan con los requisitos previstos para ser Procurador, emitiendo al efecto el Dictamen correspondiente en un plazo no mayor de siete días;
+II.- Una vez recibida la propuesta del Gobernador del Estado de Baja California, se turnará a la Comisión de Legislación y Puntos Constitucionales, la que revisará los requisitos del artículo séptimo y solicitará al Consejo Ciudadano de Seguridad Pública y a las agrupaciones de profesionistas de derecho del Estado que cuenten con registro ante el Departamento de Profesiones del Estado, su opinión respecto de los candidatos propuestos, la que deberán hacerle llegar dentro de un plazo no mayor de siete días;
 
-III.- El Congreso, mediante el voto de las dos terceras partes de sus integrantes, aprobará el nombramiento de Procurador en un plazo no mayor de siete días hábiles posteriores al dictamen; en caso contrario, se desechará la propuesta, y
+III.- La Comisión de Legislación y Puntos Constitucionales podrá convocar a los candidatos propuestos, a comparecer en sesión pública en un plazo que no excederá de 5 días de la propuesta, para conocer del programa integral de trabajo de los aspirantes;
 
-IV.- El Presidente del Congreso notificará el resultado al Gobernador, a más tardar al tercer día de celebrada la sesión, para la protesta de ley correspondiente; o en su caso, para que presente la siguiente propuesta.
+IV.- Una vez concluida las comparecencias de los candidatos al cargo de Procurador, la Comisión de Legislación y Puntos Constitucionales emitirá el Dictamen respectivo en un plazo no mayor de diez días a partir de recibida la propuesta;
 
-Este procedimiento podrá llevarse a cabo, hasta por tres propuestas.
+V.- El Congreso mediante el voto de las dos terceras partes aprobará el nombramiento del Procurador en un plazo no mayor de cinco días posteriores al dictamen; y,
 
-Concluido el plazo previsto en la fracción III, sin que el Congreso apruebe o desapruebe la propuesta correspondiente, se entenderá por aprobado el candidato propuesto en la misma.
-
-En caso de que el Congreso no designare al Procurador de las tres propuestas enviadas por el Gobernador, se entenderá por aprobada la presentada en primer término.
+VI.- El Presidente del Congreso notificará al Gobernador a más tardar al tercer día de celebrada la sesión para la protesta de ley correspondiente.
 
 El Gobernador podrá remover libremente al Procurador.
 
@@ -1322,3 +1336,9 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE OCTUBRE DE 2001.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
