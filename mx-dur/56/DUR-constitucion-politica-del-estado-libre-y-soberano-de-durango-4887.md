@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1946-10-24"
+last_updated: "1947-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1947.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -44,6 +44,18 @@ DE LOS DURANGUEÑOS.
 ### CAPITULO I (SIC).
 
 DE LAS GARANTIAS INDIVIDUALES.
+
+###### Artículo 1°.
+
+Siendo la Tesorería General del Estado la que viene a susbstituír (sic) a la Dirección General de Rentas del Estado, adquiere los mismos derechos y contrae las mismas obligaciones que correspondían a la segunda.
+
+###### Artículo 2°.
+
+El Tesorero General es el representante del Fisco del Estado, y, por lo mismo, continuará ejerciendo las funciones que, con ese carácter, tenía encomendadas el Director General de Rentas.
+
+###### Artículo 3°.
+
+El presente Decreto surte sus efectos a partir del día primero de enero del presente año.
 
 ###### Artículo 4°.
 
@@ -497,11 +509,13 @@ La Legislatura o en su caso la Diputación Permanente declarará la Convocatoria
 
 Efectuadas las elecciones de los Poderes Ejecutivo y Legislativo del Estado, en cada período Constitucional, la Diputación Permanente convocará con la necesaria oportunidad a la Legislatura a sesiones extraordinarias, con el exclusivo objeto de que, constituyéndose en Colegio Electoral, haga la computación de votos y la declaración del personal de los nuevos Poderes, sujetándose al procedimiento señalado en el artículo 72 en lo referente al Gobernador Constitucional.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1947)</small>
+
 ###### Artículo 63.
 
-El Gobernador y los Diputados tienen derecho de iniciativa, así como también el Tribunal de Justicia, los Ayuntamientos en lo relativo a la Administración interior de las Municipalidades respectivas, y el Director General de Rentas en el Ramo de Hacienda.
+El Gobernador y los Diputados tienen derecho de iniciativa, así como también el Tribunal de Justicia, los Ayuntamientos en lo relativo a la Administración nitnerior (sic) de las Municipalidades respectivas, y el Tesorero General del Estado, en el Ramo de Hacienda.
 
-Las iniciativas del Gobierno y Tribunal pasarán desde luego a comisión y las de los Diputados, Ayuntamientos y Director General de Rentas, se sujetarán a los trámites demarcados en el Reglamento del Congreso. Todo proyecto de ley que fuere deshechado (sic) no podrá volverse a presentar en el mismo período de sesiones.
+Las Iniciativas del Gobierno y Tribunal pasarán desde luego a comisión y las de los Diputados, Ayuntamientos y Tesorero General del Estado, se sujetarán a los trámites demarcados en el Reglamento del Congreso. Todo proyecto de Ley que fuere desechado no podrá volverse a presentar en el mismo período de sesiones.
 
 ###### Artículo 64.
 
@@ -709,9 +723,9 @@ III.- Proveer a la Administración interior del Estado y cuidar de la conservaci
 
 IV.- Nombrar y remover libremente al Secretario del Despacho y a todos los demás empleados de la dependencia del Poder Ejecutivo; concederles licencias con o sin goce de sueldo y admitir sus renuncias. Corregir las faltas que cometan en el desempeño de su empleo con suspensión hasta por un mes y consignarlos cuando incurran en delito.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1947)</small>
 
-V.- Nombrar al Director General de Rentas del Estado, con aprobación de la Legislatura y removerlo libremente, cuando así lo exija el servicio público. Nombrar al Procurador de Justicia, Agentes del Ministerio Público, Jueces del Registro Civil, Director del Archivo General de Notarías, Director y Encargado del Registro Público de la Propiedad, Defensores de Oficio y a los respectivos empleados subalternos. Concederles licencias y aceptarles renuncias, pudiendo removerlos también libremente, con excepción de los Defensores que sólo podrán serlo al concluir su período legal o por causa de responsabilidad.
+V.- Nombrar al Tesorero General del Estado, con aprobación de la Legislatura y removerlo libremente, cuando así lo exija el servicio público. Nombrar al Procurador de Justicia, Agentes del Ministerio Público, Jueces del Registro Civil, Director del Archivo General de Notarías, Director y Encargado del Registro Público de la Propiedad, Defensores de Oficio y a los respectivos empleados subalternos. Concederles licencias aceptarles renuncias, pudiendo removerlos también libremente con excepción de los Defensores que sólo podrán serlo al concluir su período legal o por causa de responsabilidad.
 
 VI.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia.
 
@@ -901,15 +915,17 @@ Habrá en el Estado jurados de hecho para los delitos de prensa contra el orden 
 
 La Hacienda Pública del Estado se formará de las contribuciones que estableciere la Legislatura y demás rentas que le señalaren las Leyes.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1947)</small>
 
 ###### Artículo 103.
 
-Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con aprobación de la Legislatura, nombrará un ciudadano que se denominará Director General de Rentas; tendrá el derecho de iniciar leyes en lo relativo al Ramo de Hacienda, y desempeñará su cargo bajo la inmediata inspección del Ejecutivo del Estado.
+Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con aprobación de la Legisaltura (sic) nombrará un ciudadano que se denominará "TESORERO GENERAL DEL ESTADO"; tendrá el derecho de iniciar leyes en lo relativo al Ramo de Hacienda y desempeñará su cargo bajo la inmediata inspección del Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1947)</small>
 
 ###### Artículo 104.
 
-Todos los empleados de Estado y Municipales que manejen fondos públicos, deberán caucionar el manejo de dichos fondos. Los empleados del Estado prestarán la caución a satisfacción del Ejecutivo, y los del Municipio a satisfacción de los Ayuntamientos respectivos. Se exceptúa de esta obligación al Director de Rentas del Estado.
+Todos los empleados del Estado y Municipales que manejen fondos públicos, deberán caucionar el manejo de dichos fondos. Los empleados del Estado prestarán la caución a satisfacción del Ejecutivo, y los del Municipio a satisfacción de los Ayuntamientos respectivos. Se exceptúa de esta obligación al Tesorero General edl (sic) Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1925)</small>
 
@@ -939,11 +955,13 @@ Los Diputados al Congreso del Estado, y los Magistrados del Supremo Tribunal de 
 
 Tampoco tienen derecho de propiedad en el empleo que desempeñen, ningún funcionario ni empleado público de los no comprendidos en el párrafo anterior, y en tal virtud, el ser removidos o supensos (sic) por sus superiores, no tendrán más derechos que los que les fije la Ley del Servicio Civil que la H. Legislatura deberá expedir.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1947)</small>
 
 ###### Artículo 109.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, Propietarios y Supernumerarios, el Secretario de Gobierno, el Procurador de Justicia y el Director General de Rentas, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia Propietarios y Supernumerarios, el Secretario de Gobierno, el Procurador de Justicia y el Tesorero General del Estado, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 El Gobernador, durante el tiempo de su encargo sólo podrá ser acusado por traición a la Patria, por contravenir las Constituciones General de la República y Particular del Estado y por la comisión de delitos graves del orden común.
 
@@ -961,11 +979,13 @@ En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo
 
 No gozan de fuero Constitucional los altos empleados del Estado por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión públicos, que hayan aceptado, durante el período en que conforme a la Ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1947)</small>
 
 ###### Artículo 112.
 
-De los delitos oficiales del Gobernador del Estado, Diputados, Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, del Secretario de Gobierno, del Procurador de Justicia, y del Director General de Rentas, conocerá el Congreso como Jurado de Acusación y el Tribunal como Jurado de Sentencia. Las resoluciones del Gran Jurado y la declaración en su caso, son inatacables.
+de los delitos oficiales del Gobernador del Estado, Diputados, Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, del Secretario de Gobierno, del Procurador de Justicia, y del Tesorero General del Estado, conocerá el Congreso como Jurado de acusación y el Tribunal como Jurado de Sentencia. Las resoluciones del Gran Jurado y la declaración en su caso, son inatacables.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 El Congreso del Estado expedirá la Ley sobre Responsabilidades de todos los funcionarios y empleados del Estado, determinando como faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aún cuando hasta la fecha no hayan tenido carácter de delictuosos.
 
@@ -1284,3 +1304,5 @@ UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publica
 P.O. 24 DE OCTUBRE DE 1946.
 
 UNICO.- Estse (sic) Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 1947.
