@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1985-12-26"
+last_updated: "1987-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1987.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1353,21 +1353,19 @@ Se introducirá el principio de representación proporcional en los Ayuntamiento
 
 El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos directamente por el pueblo; sus facultades, obligaciones y la manera de suplir sus faltas absolutas o temporales, serán determinados por la Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 1987)</small>
+
 ###### Artículo 116.
 
-(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1983)
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1987)</small>
 
 ###### Artículo 117.
 
-Los Presidentes Municipales, Síndicos y Regidores de los ayuntamientos, serán electos simultáneamente y en su totalidad cada tres años y no podrán ser reelectos para el período inmediato. Por cada regidor propietario se elegirá un suplente.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos serán electos simultáneamente, y en su totalidad, cada tres años. Por cada regidor propietario se elegirá un suplente.
 
-Las personas que por elección o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos de los ayuntamientos, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
-
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 1984)</small>
-
-Los miembros de los Ayuntamientos podrán ser privados de sus puestos en los términos del título IV de esta Constitución.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que las leyes prevengan, siempre y cuando sus miembros hayan tenido la oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan; todo esto sujeto a lo que dispone el título cuarto de esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2090,3 +2088,9 @@ En consecuencia, como lo dispone la fracción V del artículo 164 de la Constitu
 ###### ARTICULO TERCERO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 1987.
+
+PRIMERO. Este decreto entrará en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Conforme a lo que dispone la fracción VII del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, ténganse por aprobadas estas adiciones y reformas, por ser adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la LXIV Legislatura.
