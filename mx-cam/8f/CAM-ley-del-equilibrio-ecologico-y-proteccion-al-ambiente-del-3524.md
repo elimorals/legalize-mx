@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "1996-06-04"
+last_updated: "1997-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1997.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -43,9 +43,11 @@ LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
 
 ### CAPITULO I. Normas Preliminares
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado, y tiene por objeto la preservación, conservación y restauración del equilibrio ecológico, así como la protección y mejoramiento del ambiente, conforme a las facultades que se derivan de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y disposiciones que de la misma emanen.
+La presente ley es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto propiciar el desarrollo sustentable y establecer las bases para la preservación, conservación y restauración del equilibrio ecológico, así como la protección y mejoramiento del ambiente, conforme a las facultades que se derivan de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y disposiciones que de la misma emanen.
 
 ###### ARTICULO 2.
 
@@ -63,15 +65,23 @@ IV.- El establecimiento de Museos, Zonas de Demostración, Zoológicos, Jardines
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- AMBIENTE: El conjunto de elementos naturales o inducidos por el hombre que interactúan en un espacio y tiempo determinados;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
 
-II.- APROVECHAMIENTO RACIONAL: La utilización de los elementos naturales, en forma que resulte eficiente, socialmente útil y procure su preservación y la del ambiente;
+I.- AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+II.- APROVECHAMIENTO SUSTENTABLE: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos de tiempo indefinidos;
 
 III.- AGUAS RESIDUALES: Aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquiera otra actividad humana, y que por el uso recibido se le incorporen contaminantes, en detrimento de su calidad original;
 
 IV.- AREAS NATURALES PROTEGIDAS, DE JURISDICCION LOCAL: Son las sujetas al régimen de protección estatal o municipal, a fin de preservar ambientes naturales; salvaguardar la diversidad genética de las especies silvestres y marinas; lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores;
 
 V.- ACTIVIDADES RIESGOSAS: Las que pueden generar efectos contaminantes en los ecosistemas o dañar la salud y que no sean consideradas por la Federación, como altamente riesgosas;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+V Bis.- BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
 VI.- CONSERVACION: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y en base al ordenamiento ecológico del territorio estatal, con el fin de asegurar a las generaciones presentes y futuras un ambiente propicio para su desarrollo y la de los recursos naturales que les permita satisfacer sus necesidades;
 
@@ -83,7 +93,13 @@ IX.- CONTINGENCIA AMBIENTAL: Situación de riesgo, derivada de actividades human
 
 X.- CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XI.- CRITERIOS ECOLOGICOS: Los lineamientos destinados a preservar y restaurar el equilibrio ecológico, así como a proteger el ambiente;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+XI.- CRITERIOS ECOLOGICOS: Los lineamientos obligatorios contenidos en la presente ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+XI Bis.- DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tienden a mejorar la calidad de vida y la productividad de las personas, que se fundan en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de los recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
 XII.- DESEQUILIBRIO ECOLOGICO: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afectan negativamente la existencia, transformación y desarrollo del hombre, así como demás seres vivos;
 
@@ -105,7 +121,9 @@ XX.- MANEJO DE RESIDUOS SOLIDOS NO PELIGROSOS: Conjunto de operaciones de recole
 
 XXI.- ORDENAMIENTO ECOLOGICO: El proceso de planeación dirigido a evaluar y programar el uso del suelo y el manejo de los recursos naturales en el territorio estatal y las zonas sobre las que el Estado ejerce su jurisdicción, para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
 
-XXII.- PRESERVACION: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+XXII.- PRESERVACION: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en su (sic) entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
 
 XXIII.- PREVENCION: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
@@ -165,11 +183,15 @@ V.- La preservación y restauración del equilibrio ecológico y la protección 
 
 VI.- La prevención y el control de emergencias ecológicas, así como de contingencias ambientales, en forma aislada o participativa con la Federación, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente no rebasen el territorio de la Entidad Federativa, o no sea de acción exclusiva de la Federación;
 
-VII.- La prevención y el control de la contaminación de la atmósfera, generada en zonas o por fuentes emisoras de jurisdicción estatal o municipal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+VII.- La prevención y el control de la contaminación de la atmósfera generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles;
 
 VIII.- El establecimiento de las medidas para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, lumínica u olores perjudiciales al equilibro (sic) ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras en jurisdicción federal;
 
-IX.- La regulación del aprovechamiento racional y la prevención al igual que el control de la contaminación de las aguas de jurisdicción estatal, y las concesionadas por la Federación;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+IX.- La regulación del aprovechamiento sustentable y la prevención y control de la contaminación de la (sic) aguas de jurisdicción estatal, y de las concesionadas por la Federación;
 
 X.- La prevención y control de la contaminación de aguas federales que tengan asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en las redes de alcantarillado de los centros de población sin perjuicio de las facultades de la Federación en materia de tratamiento, descarga, infiltración y reuso de aguas residuales en los términos de la presente Ley;
 
@@ -221,7 +243,13 @@ XXXIII.- Elaborar los informes sobre el estado del medio ambiente en la Entidad,
 
 XXXIV.- Resolver los recursos que se interpongan con motivo de la aplicación de esta Ley, sus Reglamentos y disposiciones que de ella emanen; y
 
-XXXV.- Inspeccionar, vigilar e imponer sanciones en los asuntos de sus competencias, en cumplimiento de las disposiciones establecidas en esta Ley.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+XXXV.- Inspeccionar, vigilar e imponer sanciones en los asuntos de sus competencias, en cumplimiento de las disposiciones establecidas en esta Ley;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+XXXVI.- La atención de los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más Municipios.
 
 Las atribuciones en materia de preservación y restauración del equilibrio ecológico y protección al ambiente serán ejercidas de manera concurrente por el Estado y los Municipios, quienes en todo caso respetarán lo dispuesto en la Ley General y demás ordenamientos que de la misma se deriven, aplicándose las normas oficiales mexicanas que expida al respecto la Secretaría Federal. Con base en las disposiciones que para la distribución de competencia en las materias que regula la presente Ley Estatal expida el Congreso Local, fundado en la Constitución del Estado, los Ayuntamientos expedirán los Reglamentos que correspondan, a efecto de que en sus respectivas circunscripciones se cumplan las disposiciones contenidas en el presente ordenamiento.
 
@@ -345,9 +373,11 @@ II.- Otros Estados o los Municipios de éstos, con la participación que corresp
 
 III.- Los Ayuntamientos de otros Municipios del Estado para la realización de acciones conjuntas.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 14.
 
-En los Acuerdos y Convenios de Coordinación que se celebren, se establecerán condiciones que faciliten la descentralización de facultades y recursos financieros para el mejor cumplimiento de las disposiciones legales aplicables.
+Los Acuerdos y Convenios de Coordinación que se celebren se ajustarán a las bases que para tal efecto fija la Ley General, y en ellos se establecerán condiciones que faciliten la descentralización de facultades y recursos financieros para el mejor cumplimiento de las disposiciones legales aplicables.
 
 ## TITULO SEGUNDO. DE LA POLITICA ECOLOGICA ESTATAL
 
@@ -363,6 +393,10 @@ II.- Los ecosistemas y sus elementos deben ser aprovechados racionalmente de man
 
 III.- Las autoridades del Estado, las de los Municipios y los particulares deben asumir la responsabilidad de la preservación, conservación y restauración del equilibrio ecológico y la protección al ambiente;
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+III Bis.- Quien realice obras o actividades que afecten o puedan afectar al ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique. Asimismo debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
+
 IV.- La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de vida de las futuras generaciones;
 
 V.- La prevención de las causas que generan los desequilibrios ecológicos es el medio más eficaz para evitarlos;
@@ -377,15 +411,21 @@ IX.- Los sujetos principales de la concertación son los individuos en lo partic
 
 X.- En el ejercicio de la (sic) atribuciones que las leyes confieran al Estado y a sus Municipios para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación, conservación y restauración del equilibrio ecológico;
 
-XI.- Toda persona tiene derecho a disfrutar de un ambiente sano. Las autoridades del Estado y de sus Municipios, en los términos de ésta y otras leyes, tomarán las medidas para preservar ese derecho;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
+
+XI.- Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades del Estado y de sus Municipios, en los términos de ésta y otras leyes, tomarán las medidas para garantizar ese derecho;
 
 XII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son factores fundamentales para elevar la calidad de vida de la población; y
 
 XIII.- Las actividades que se lleven a cabo dentro del territorio del Estado no afectarán el equilibro ecológico de otros Estados o zonas de jurisdicción federal.
 
-### CAPITULO II. De los Instrumentos de la Política Ecológica
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
 
-#### Sección I. De la Planeación Ecológica
+### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA AMBIENTAL
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
+
+#### Sección I. De la Planeación Ambiental
 
 ###### ARTICULO 16.
 
@@ -409,7 +449,9 @@ III.- Los desequilibrios existentes en los ecosistemas por efecto de los asentam
 
 IV.- El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-V.- El impacto ambiental de nuevos asentamientos humanos, obras o actividades; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+V.- El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades; y
 
 VI.- Las formas positivas o negativas, de aprovechamiento de los recursos naturales y sus repercusiones en los ecosistemas.
 
@@ -485,9 +527,11 @@ IV.- Los Programas de Ordenamiento Ecológico Municipales y de los Centros de Po
 
 V.- Las Declaratorias de Ordenamiento Ecológico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 22.
 
-La formulación y adecuaciones de los Programas de Ordenamiento Ecológico Estatal, Regionales y Especiales o Prioritarios, estará cargo de la Secretaría Estatal.
+La formulación y adecuaciones de los Programas de Ordenamiento Ecológico Estatal, Regionales y Especiales o Prioritarios, estará (sic) cargo de la Secretaría Estatal, en base a lo que para tal efecto establece la Ley General.
 
 La elaboración y adecuaciones de los Programas de Ordenamiento Ecológico Municipales o de Centros de Población, estarán a cargo de las dependencias de obras públicas de los Ayuntamientos. La autoridad estatal otorgará asesoría y apoyo a los Municipios para este fin.
 
@@ -993,7 +1037,9 @@ IV.- Integrarán y mantendrán actualizado el inventario de fuentes fijas de con
 
 V.- Establecerán y operarán sistemas de verificación de emisiones de automotores en circulación;
 
-VI.- Establecerán y operarán sistemas de monitoreo de la calidad del aire, los que deberán contar con un dictamen técnico previo que emita la Secretaría Federal, por lo que deberán celebrarse con la propia Secretaría acuerdos de coordinación para la incorporación de reportes locales de monitoreo a la información nacional;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+VI.- Establecerán y operarán con el apoyo técnico, en su caso, de la Secretaría Federal, sistemas de monitoreo de la calidad del aire. El Gobierno del Estado remitirá a la Secretaría Federal los reportes locales de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Nacional de Información Ambiental;
 
 VII.- Tomarán las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
@@ -1429,13 +1475,19 @@ Corresponderá a la Secretaría Estatal, proponer al titular del Ejecutivo Estat
 
 En las licencias o permisos que se expidan para la utilización del suelo, se aplicarán los criterios necesarios para prevenir y controlar la contaminación, respetando, según sea el caso, lo ordenado en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la presente Ley, y las disposiciones que de las mismas emanen.
 
-## TITULO QUINTO. DEL APROVECHAMIENTO RACIONAL DE LOS ELEMENTOS NATURALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
 
-### CAPITULO UNICO. Del Aprovechamiento Racional del Suelo y sus Recursos
+## TITULO QUINTO. DEL APROVECHAMIENTO SUSTENTABLE
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
+
+### CAPITULO UNICO. Del Aprovechamiento Sustentable del Suelo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 145.
 
-Para la protección y aprovechamiento del suelo en el Estado se considerarán los siguientes criterios:
+Para la preservación y aprovechamiento sustentable del suelo en el Estado se considerarán los siguientes criterios:
 
 I.- El uso del suelo debe ser compatible con su vocación natural y no debe alterar el equilibrio de los ecosistemas;
 
@@ -1443,19 +1495,31 @@ II.- El uso de los suelos deberá hacerse de manera que éstos mantengan su inte
 
 III.- Los usos productivos del suelo deben evitar prácticas que favorezcan la erosión, degradación o modificación de las características topográficas, con efectos ecológicos adversos;
 
-IV.- En las zonas de pendientes pronunciadas, en las que se presenten fenómenos de erosión o degradación del suelo, se deben introducir cultivos y tecnología que permitan revertir el fenómeno; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
 
-V.- La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deben incluir acciones equivalentes de regeneración.
+IV.- En las acciones de preservación y aprovechamiento sustentable del suelo, deberán considerarse las medidas necesarias para prevenir o reducir su erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida duradera de la vegetación natural;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+V.- En las zonas afectadas por fenómenos de degradación o desertificación, deberán llevarse a cabo las acciones de regeneración, recuperación y rehabilitación necesarias, a fin de restaurarlas; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+VI.- La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deben incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su vocación natural.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 146.
 
-Los criterios ecológicos para la protección y aprovechamiento del suelo se considerarán en:
+Los criterios ecológicos para la preservación y aprovechamiento sustentable del suelo se considerarán en:
 
 I.- Los apoyos a las actividades agrícolas que otorgue el Gobierno del Estado, de manera directa o indirecta sean de naturaleza crediticia, técnica o de inversión, para que promuevan la progresiva incorporación de cultivos compatibles con la preservación del equilibrio ecológico y la restauración de ecosistemas;
 
 II.- La fundación de centros de población y la radicación de asentamientos humanos;
 
-III.- La operación y administración del Sistema Estatal del Suelo y de reservas territoriales para el desarrollo urbano y la vivienda; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+III.- El establecimiento de usos, reservas y destinos, en los planes de desarrollo urbano, así como en las acciones de mejoramiento y conservación de los centros de población; y
 
 IV.- El establecimiento de distritos de conservación del suelo.
 
@@ -1463,15 +1527,29 @@ IV.- El establecimiento de distritos de conservación del suelo.
 
 En las zonas selváticas el Gobierno Estatal atenderá en forma prioritaria de conformidad con las disposiciones aplicables:
 
-I.- El aprovechamiento racional de los ecosistemas selváticos, donde existan actividades agropecuarias establecidas;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
 
-II.- El cambio progresivo de la práctica de roza, tumba y quema a otras que no impliquen deterioro de los ecosistemas;
+I.- La preservación y el aprovechamiento sustentable de los ecosistemas selváticos, donde existan actividades agropecuarias establecidas;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+II.- El cambio progresivo de la práctica de roza, tumba y quema a otras que no impliquen deterioro de los ecosistemas o de aquellas que no permitan su regeneración natural o que alteren los procesos de sucesión ecológica;
 
 III.- La consideración de los criterios ecológicos en las actividades de extracción de recursos no renovables;
 
 IV.- La introducción de cultivos compatibles con los ecosistemas y que favorezcan su restauración cuando hayan sufrido deterioro, y
 
-V.- La regulación ecológica de los asentamientos humanos.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+V.- La regulación ecológica de los asentamientos humanos;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+VI.- La prevención de los fenómenos de erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida duradera de la vegetación natural, y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+VII.- La regeneración, recuperación y rehabilitación de la (sic) zonas afectadas por fenómenos de degradación o desertificación, a fin de restaurarlas.
 
 ###### ARTICULO 148.
 
@@ -1631,15 +1709,19 @@ III.- El alcance de la misma diligencia, la que no podrá abarcar lo relativo a 
 
 La inspección a que se hace referencia en el presente Artículo se realizará cuando así lo determine la autoridad competente, o en respuesta a las denuncias populares que se hubieren presentado oportunamente en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 172.
 
-El personal autorizado al momento de dar inicio a la inspección respectiva deberá identificarse, exhibiendo por igual la orden correspondiente y hará entrega de una copia de la misma, requiriendo al interesado o a sus representantes para que designe dos testigos de asistencia, los cuales deberán de encontrarse presentes en la realización del acto, y en caso de que se negase a hacerlo o que los que hubiese señalado no aceptasen la designación, se hará constar por escrito la misma circunstancia designándose por el personal actuante a quienes deban fungir como testigos del propio acto.
+El personal autorizado al momento de dar inicio a la inspección respectiva deberá identificarse con la persona con quien se entienda la diligencia, exhibiendo la orden correspondiente y le entregará una copia de la misma, con firma autógrafa, requiriéndole para que designe dos testigos de asistencia, los cuales deberán encontrarse presentes en la realización del acto, y en caso de negativa o de que los que hubiese señalado no aceptasen la designación, se hará constar en el acta que al efecto se levante, designando el personal autorizado a quienes deben fungir como testigos, sin que esta circunstancia invalide los efectos del acto.
 
 ###### ARTICULO 173.
 
 En toda visita de inspección se levantará un acta circunstanciada de la diligencia, debiéndose dar oportunidad a la persona con quien se entienda la misma para que haga uso de la voz para que manifieste lo que a sus derechos convenga y relacione las probanzas que considere pertinentes al caso, por lo que deberán firmar todas las personas que en la misma diligencia intervengan y entregarán una copia del acta relativa al interesado o a su representante.
 
-Si alguna persona, de las que hubiesen participado en la diligencia que se menciona en este Artículo se niega a firmar o a recibir su copia se dejará constancia en autos para todos los efectos y fines legales correspondientes.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
+
+Si alguna persona de las que hubiesen participado en la diligencia que se menciona en este artículo se niega a firmar o recibir su copia, se dejará constancia en autos, sin que esto afecte su validez y valor probatorio.
 
 ###### ARTICULO 174.
 
@@ -1647,7 +1729,9 @@ Analizada la documentación derivada de la inspección referida en el presente c
 
 I.- Dé cumplimiento a las medidas correctivas de urgente aplicación, dentro del tiempo perentorio que le sea señalado por la propia autoridad. El requerimiento anterior deberá encontrarse debidamente fundamentado y motivado, así como indicar en forma precisa las medidas respectivas;
 
-II.- Dentro de un término de 10 días hábiles, contados a partir de la fecha de la notificación respectiva, manifieste por escrito lo que a sus derechos convenga y ofrezca las probanzas que considere pertinentes, las cuales deberán guardar relación con los hechos u omisiones asentados en el acta de inspección; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+II.- Dentro de un término de quince días hábiles, contados a partir de la fecha de la notificación respectiva, manifieste por escrito lo que a sus derechos convenga y ofrezca las probanzas que considere pertinentes, las cuales deberán guardar relación con los hechos u omisiones asentados en el acta de inspección; y
 
 III.- Comparezca a la audiencia de desahogo de pruebas, misma que deberá celebrarse dentro de los 10 días hábiles siguientes al vencimiento del término asentado en la fracción anterior, debiéndose precisar la hora en que tendrá lugar la propia audiencia de sustanciación probatoria.
 
@@ -1671,9 +1755,11 @@ a).- Esté pendiente de desahogarse una prueba por causa imputable a la autorida
 
 b).- El interesado se inconforme con el avalúo realizado por instrucciones de la autoridad y ofrezca otro.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 177.
 
-Una vez concluida la audiencia de desahogo de pruebas, se procederá a dictar la resolución administrativa que legalmente corresponda, lo cual deberá tener lugar dentro de los 15 días hábiles inmediatos al referido hecho, debiéndose notificar al interesado, o a su representante legal, de manera personal o por correo certificado, según lo determine la autoridad emisora.
+Una vez concluida la audiencia de desahogo de pruebas, se procederá a dictar la resolución administrativa que legalmente corresponda, lo cual deberá tener lugar dentro de los treinta días hábiles inmediatos al referido hecho, debiéndose notificar al interesado, o a su representante legal, de manera personal o por correo certificado, según lo determine la autoridad emisora.
 
 ###### ARTICULO 178.
 
@@ -1755,13 +1841,35 @@ Las violaciones a la presente Ley, sus reglamentos y disposiciones que de los mi
 
 I.- Multa por el equivalente de 20 a 20,000 días de salario mínimo general diario vigente en el Estado al momento de la comisión de la infracción;
 
-II.- Clausura temporal o definitiva, total o parcial; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
 
-III.- Arresto administrativo, que podrá decretarse hasta por el término de treinta y seis horas, en perjuicio del propietario o representante legal de la fuente contaminante.
+II.- Clausura temporal o definitiva, total o parcial, cuando:
+
+a). El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
+
+b). En caso de reincidencia, si las infracciones generan efectos negativos al ambiente; o
+
+c). Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+III.- Arresto administrativo, que podrá decretarse hasta por el término de treinta y seis horas, en perjuicio del propietario o representante legal de la fuente contaminante;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+IV.- El decomiso de los instrumentos, ejemplares, productos o subproductos directamente relacionados con infracciones relativas a recursos forestales, especies de flora y fauna silvestre; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+V.- La suspensión o revocación de la (sic) concesiones, licencias, permisos o autorizaciones correspondientes.
 
 Si transcurrido el plazo concedido por la autoridad ordenadora para que sea subsanada la o las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aún subsisten, se podrán imponer multas correlativas por cada día que transcurra sin que se obedezca el mandato; en ningún caso podrá exceder del monto máximo permitido por la fracción I del presente Artículo.
 
 En caso de reincidencia, el monto de la multa será hasta por el importe de dos veces de la cantidad originalmente impuesta, sin que exceda del máximo legal permitido, así como la clausura definitiva.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1997)</small>
+
+Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
 ###### ARTICULO 188.
 
@@ -1771,15 +1879,37 @@ Cuando la gravedad de la infracción lo amerite, la autoridad estatal o municipa
 
 Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
 
-I.- La gravedad de la infracción considerando principalmente, el criterio de impacto en la salud pública y la generación de desequilibrios ecológicos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+I.- La gravedad de la infracción, considerando principalmente los criterios de impacto en la salud pública, generación de desequilibrio ecológico, la afectación de recursos naturales o de la biodiversidad y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en el ordenamiento aplicable;
 
 II.- Las condiciones económicas del infractor; y
 
-III.- La reincidencia, si la hubiere.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1997)</small>
+
+III.- La reincidencia, si la hubiere;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+IV.- El carácter intencional o negligente de la acción u omisión constitutiva de la infracción; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
+
+V.- El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1997)</small>
+
+En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiera ocurrido, previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1997)</small>
+
+La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar la contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor y la autoridad justifique plenamente su decisión.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 190.
 
-Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta circunstanciada de la diligencia, siguiendo para ello los lineamientos y procedimientos generales establecidos para la celebración de las inspecciones.
+En lo (sic) casos en que se imponga como sanción la clausura temporal, la Secretaría deberá indicar al infraccionado las medidas correctivas y acciones que deba llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
 ###### ARTICULO 191.
 
@@ -1838,3 +1968,9 @@ P.O. 4 DE JUNIO DE 1996.
 Primero.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 2 DE JULIO DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
