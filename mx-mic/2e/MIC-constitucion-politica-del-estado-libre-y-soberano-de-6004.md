@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1990-12-24"
+last_updated: "1991-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1991.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -167,13 +167,37 @@ Los partidos políticos son entidades de interés público; la ley determinará 
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
 
 Los partidos políticos tendrán derecho a participar en las elecciones estatales y municipales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con los elementos necesarios para la consecución de sus fines.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Los partidos políticos tendrán derecho al uso en forma permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+La organización de las elecciones es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos según lo disponga la Ley. Esta función la realizará un organismo público autónomo con personalidad jurídica. La certeza, legalidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerá un tribunal autónomo, que será órgano jurisdiccional en materia electoral y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+El tribunal electoral tendrá la competencia y organización que determine la Ley; funcionará en pleno o en salas; resolverá en una sola instancia; y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizará su debida integración.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Las resoluciones del tribunal electoral serán obligatorias, contra ellas no procederá juicio ni recurso alguno y sólo podrán ser modificadas o revocadas por los Colegios Electorales, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Los Magistrados del tribunal deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que señale esta Constitución para ser Magistrados del Supremo Tribunal de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Ejecutivo del Estado, que siempre será el doble del número a nombrar. Si dicha mayoría no se logrará en la primera votación, se complementará la propuesta con una mitad más del número de candidatos que formaron la lista original. Si aún así no se obtuviere la mayoría, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados del Tribunal. La Ley señalará las reglas y el procedimiento correspondiente.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -245,7 +269,9 @@ El Congreso del Estado se compondrá de representantes del pueblo, electos en su
 
 Por cada diputado propietario, se elegirá un suplente.
 
-Estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa mediante el sistema de distritos electorales uninominales y hasta seis diputados más que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos, votadas en una circunscripción plurinominal que comprenderá la totalidad de los distritos electorales del Estado.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+El Congreso estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta doce diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votadas en una circunscripción plurinominal.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
@@ -253,7 +279,25 @@ Estará integrado por dieciocho diputados electos según el principio de votaci�
 
 Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales, uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
 
-En relación con los seis Diputados según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal, integrada por la totalidad de los distritos electorales uninominales del Estado, sujetándose a las bases que establezca la Ley Electoral del Estado.
+> <small>(REFORMADO, P.O 12 DE DICIEMBRE DE 1991)</small>
+
+Para la elección de doce diputados según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal en el estado y se sujetará a las bases generales siguientes y a lo que en lo particular disponga la ley:
+
+I. Un partido político, para obtener el registro de su lista de candidatos, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos nueve distritos uninominales.
+
+II. Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para las listas de candidatos de la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional.
+
+III. Al partido político que cumpla con lo dispuesto por las dos bases anteriores, le serán asignados diputados por el principio de representación proporcional. La Ley establecerá la fórmula para la asignación. Además, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV. En todo caso, para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
+
+a) Ningún partido político podrá contar con más de veintiún diputados electos mediante ambos principios.
+
+b) Si ningún partido político obtiene por lo menos el treinta y cinco por ciento de la votación emitida, a todos los partidos políticos que cumplan con lo dispuesto en las dos bases anteriores, le será otorgada constancia de asignación por el número de diputados que se requerirán para que su representación en el Congreso, por ambos principios, corresponda en su caso, al porcentaje de votos obtenidos.
+
+c) Al partido político que obtenga nueve o más constancias de mayoría y el treinta y cinco por ciento de la votación estatal, le será otorgada constancia de asignación de diputados en número suficiente para alcanzar la mayoría absoluta en el Congreso, inferior a su porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional, adicionalmente a la mayoría absoluta, por cada ocho por ciento de votación obtenida por encima del treinta y cinco y hasta menos del sesenta por ciento, en la forma que determine la Ley.
+
+d) El partido político que obtenga entre el sesenta por ciento y el setenta por ciento de la votación estatal, y su número de constancias de mayoría relativa represente un porcentaje del total del Congreso, inferior a su porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -293,17 +337,15 @@ IV.- Los ministros de cualquier culto religioso.
 
 Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 25.
 
-El Congreso del Estado calificará la elección de sus miembros a través de un colegio electoral, que se integrará por los cinco presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral hubieran obtenido mayor número de votos y además, en su caso, hasta por dos presuntos diputados que resultaren electos en la circunscripción plurinominal que obtuviesen la votación más alta.
+El Congreso del Estado calificará a través de un Colegio Electoral la elegibilidad y la conformidad a la Ley de las constancias de mayoría o asignación proporcional a fin de declarar; cuando proceda, la validez de la elección de sus miembros.
 
-Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Estado contra las resoluciones del Colegio Electoral del Congreso.
+El Colegio Electoral del Congreso del Estado integrará con nueve presuntos diputados propietarios, nombrados por los partidos políticos en la proporción que les corresponda, respecto del total de las constancias otorgadas por la autoridad electoral en la elección de que se trate.
 
-Si el Supremo Tribunal de Justicia considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento de dicho Congreso para que emita una nueva resolución, misma que tendrá el carácter de definitiva e inatacable.
-
-La Ley fijará los requisitos de procedencia y el trámite a que se sujetará este recurso.
+La resolución de los colegios electorales serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -348,6 +390,22 @@ El Congreso se renovará totalmente cada tres años, y se instalará el día qui
 El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante ese período de sesiones, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
 Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, y se llamará desde luego, a los suplentes.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Si no hubiese quórum para instalar el Congreso, o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la brevedad a desempeñar su cargo, entre tanto transcurren los ocho días de que antes se habla.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
 (REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
@@ -2170,3 +2228,7 @@ P.O. 24 DE DICIEMBRE DE 1990.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día 1º. de enero de 1991, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 1991.
+
+UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
