@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-deuda-publica-del-estado-de-yucatan-11027"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-10"
-last_updated: "1995-03-10"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,23 @@ state: "YUC"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN
 
-LEY DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DEL ESTADO DE YUCATAN
+LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de marzo de 1995.
 
 GOBIERNO DEL ESTADO
 
-DECRETO NUMERO 121
+PODER EJECUTIVO
 
-LICENCIADO VICTOR MANZANILLA SHAFFER. GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, A SUS HABITANTES HAGO SABER:
+DECRETO NUMERO 90
 
-QUE EL "LI" CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C R E T A:
+CIUDADANO INGENIERO FEDERICO GRANJA RICALDE, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, A SUS HABITANTES HAGO SABER:
 
-LEY DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DEL ESTADO DE YUCATAN
+QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C R E T A:
+
+LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -169,9 +171,11 @@ Tratándose de créditos autorizados a los Ayuntamientos de la Entidad, en ning�
 
 ### CAPITULO IV. DE LA VIGILANCIA DE LAS OPERACIONES DE ENDEUDAMIENTO
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 18.
 
-El Gobernador del Estado deberá informar al Congreso Estatal la situación de la deuda pública, al rendir la cuenta pública anual y al remitir la Iniciativa de Ley de Ingresos. Asimismo, informará de los movimientos de la deuda al 30 de junio del año que corresponda, dentro de los 15 primeros días del mes de julio respectivo.
+El Titular del Ejecutivo Estatal deberá informar al Congreso del Estado la situación de la deuda del Gobierno del Estado, en los primeros quince días del mes de julio, con información al treinta de junio del año que corresponda, al rendir la cuenta pública anual y al remitir la iniciativa de Ley de Ingresos. Adicionalmente, publicará trimestralmente informes sobre la deuda en el Diario Oficial del Gobierno del Estado, dentro de los primeros quince días de los meses de enero, abril, julio y octubre.
 
 ###### ARTICULO 19.
 
@@ -248,3 +252,15 @@ ING. FEDERICO GRANJA RICALDE
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ALVARO LOPEZ SOBERANIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 19 DE DICIEMBRE DE 1996.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los primeros quince días del mes de enero del año 1997 se publicará el estado de la deuda pública en el último trimestre del año anterior.
