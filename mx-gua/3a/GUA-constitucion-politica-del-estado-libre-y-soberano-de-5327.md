@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1994-08-30"
+last_updated: "1994-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -205,17 +205,15 @@ Todo ciudadano guanajuatense tiene derecho a participar en la vida política del
 
 Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 17.
 
-Los Partidos y las Asociaciones Políticas son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulen mediante el sufragio universal, libre, secreto y directo.
+Los Partidos Políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
 
-La Ley determinará las formas específicas de su intervención en los procesos electorales.
+> <small>(F. DE E., P.O. 2 DE DICIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1987)</small>
-
-En el Estado se podrá crear un Tribunal de lo Contencioso Electoral, con la competencia, jurisdicción, organización y número de Magistrados que la Ley de la materia establezca.
+El Estado garantizará que los Partidos Políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, así como los topes y bases a sus gastos de campaña. Los Partidos Políticos deberán rendir informes financieros, mismos que serán públicos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -379,6 +377,74 @@ Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
 La soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los Titulares del Poder Público, del modo y en los términos que establecen la Constitución Federal, esta Constitución y las Leyes.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+La organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El organismo público será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Organismo Público será autoridad en la materia. Profesional en su desempeño y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios de los órganos ejecutivos y técnicos del organismo público autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al párrafo tercero de este artículo es propio de la función electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Organo de Dirección, como jerárquicamente superior, se integrará por Consejeros Ciudadanos, por Representantes de los Poderes Legislativo y Ejecutivo y de los Partidos Políticos. Los órganos Ejecutivos y Técnicos dispondrán del personal calificado, el estrictamente necesario, para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los Partidos Políticos. Las Mesas Directivas de casilla estarán integradas por ciudadanos.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Estado de Guanajuato contará con un registro estatal de electores que tendrá facultades para expedir credenciales para votar, las que serán validas exclusivamente en el ámbito local. En esta materia, el órgano autónomo encargado de la organización de los procesos electorales, podrá celebrar convenios para coordinarse con la Autoridad Federal competente, en los términos que determine la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+Los consejeros ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Legislatura y del Poder Ejecutivo del Estado. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Organismo Autónomo, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la entidad, así como de los Diputados al Congreso del Estado y hará la asignación de regidores y de Diputados, de representación proporcional en los términos de los Artículos 44 y 109 de esta Constitución. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+Para dar definitividad y garantizar la legalidad de las distintas etapas de los Procesos Electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Organismo Autónomo a que se refiere este artículo y el Tribunal Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Tribunal Estatal Electoral es el órgano autónomo y máxima autoridad jurisdiccional electoral, se integrará con cinco magistrados, que conformarán Salas Unitarias que podrán ser regionales, mismos que serán designados por las dos terceras partes de los miembros del Congreso, dos a propuesta del Ejecutivo y tres a propuesta del Pleno del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley. Los Poderes Ejecutivo, Legislativo y Judicial garantizarán su debida integración.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+La designación de Magistrados propuestos por el Pleno del Supremo Tribunal de Justicia, deberá recaer preferentemente entre sus miembros y actuarán exclusivamente durante el proceso electoral, de acuerdo a lo que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Tribunal Estatal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+Para el ejercicio de su competencia, el Tribunal Estatal Electoral contará con Magistrados y Jueces Instructores.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+Los Magistrados del Tribunal Estatal Electoral, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Pleno del Tribunal Electoral del Estado, será competente para resolver en segunda instancia los recursos que se interpongan contra la declaratoria de validez de la (sic) elecciones de Gobernador, de Diputados o de Ayuntamiento y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las Autoridades Electorales competentes en los términos de la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+En materia Electoral los recursos o medios de impugnación no producirán, en ningún caso, efectos suspensivos del acto o resolución impugnados.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+La Ley garantizará que los consejeros ciudadanos que integrarán el organismo autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de militancia partidaria.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO SEGUNDO. DE LA FORMA DE GOBIERNO
@@ -479,35 +545,35 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 42.
 
-El Congreso del Estado estará integrado por dieciocho diputados electos según el Principio de Votación Mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, hasta doce diputados electos según el Principio de Representación Proporcional, mediante el sistema de listas.
+El Congreso del Estado estará integrado por veintidós diputados electos según el principio de representación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta catorce diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción que abarca todo el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 43.
 
-Para la elección de Diputados según el Principio de Representación Proporcional, se constituye una sola circunscripción electoral plurinominal que abarca todo el territorio del Estado.
+El Congreso del Estado, a propuesta del organismo autónomo a que se refiere el artículo 31 de esta Constitución, aprobará la demarcación de los Distritos Electorales Uninominales, la cual se ajustará a los criterios de carácter técnico que la Ley disponga, relativos a continuidad geográfica y número de electores que comprenderán, a fin de garantizar el equilibrio en la representación popular. La resolución que contenga la propuesta de demarcación distrital, podrá recurrirse por los partidos políticos en los términos que señale la Ley, antes de ser turnada al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 44.
 
-La elección de los diputados, según el Principio de Representación Proporcional y el sistema de listas, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley:
+La elección de los Diputados según el principio de representación proporcional mediante el sistema de listas, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+I.- Para obtener el registro de sus listas de candidatos el Partido Político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos las dos terceras partes de los distritos uninominales y que tiene su registro como Partido Político Nacional o Estatal;
 
-I.- Para obtener el registro de sus listas de candidatos el Partido Político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la mitad de la totalidad de los distritos uninominales y que tiene su registro definitivo como Partido Político Nacional o Estatal;
+II.- Se distribuirán en total hasta dos diputaciones de representación proporcional; una para cada partido político que haya cumplido con lo dispuesto en la fracción anterior, no hubiere alcanzado mayoría en ninguno de los Distritos Uninominales y hubiese obtenido una votación superior al uno punto cinco por ciento y menor al tres por ciento de los sufragios validamente emitidos;
 
-II.- Tendrá derecho a que le sean asignados diputados electos según el Principio de Representación Proporcional, todo aquel partido político que alcance por lo menos el 1.5% del total de la votación emitida válidamente para las listas de candidatos de Representación Proporcional;
+III.- En el caso de que fueren más de dos los Partidos Políticos que se encuentren en el supuesto de la fracción anterior, las asignaciones se harán exclusivamente en favor de los dos partidos políticos que, en tal caso, hubieren obtenido mayor número de votos;
 
-III.- Al partido que cumpla con lo dispuesto por las fracciones I y II de este artículo, le serán asignados por el Principio de Representación Proporcional, el número de diputados de su lista de acuerdo al porcentaje de votación obtenida.
+IV.- Hasta doce diputaciones por el principio de representación proporcional, serán asignadas a los partidos políticos cuyo porcentaje de la votación obtenida hubiere sido cuando menos igual o mayor al tres por ciento de la votación total validamente emitida;
 
-El Código Electoral determinará las normas para la aplicación de la fórmula que se observará en la asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes; y
+V.- Los partidos políticos a que se encuentren en el supuesto de la fracción anterior tendrán derecho a que les sean asignadas Diputaciones según el principio de representación proporcional, de modo que la suma de sus diputados, por ambos principios, representen el porcentaje más aproximado posible al que de la votación total validamente emitida, hubiesen obtenido en la elección; y
 
-IV.- Ningún partido político tendrá derecho a que le sean reconocidos más de veintiún diputados, que representan el 70% de la integración total del Congreso del Estado, aún cuando hubiere obtenido un porcentaje de votos superior.
+VI.- Cuando la asignación de diputados no pueda realizarse total o parcialmente, en los términos de la fracción II de este artículo, se procederá, en su caso, a adjudicar una diputación al Partido Político que hubiere obtenido la mayor votación y alcanzado la mayoría de los Distritos Uninominales; aún cuando con ello, rebase la relación de porcentaje entre la votación obtenida y el número de curules por ambos principios; en el supuesto de que el Partido Político no tenga la mayoría relativa de los miembros del Congreso, se le podrán asignar hasta las dos diputaciones, de ser posible, de conformidad con lo previsto en este precepto.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -531,7 +597,9 @@ No podrán ser diputados al Congreso del Estado:
 
 I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Procurador General de Justicia; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los que sean Miembros de los Ayuntamientos o de los Concejos Municipales y quienes funjan como Secretario, Oficial Mayor o Tesorero de los mismos, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
 
-II.- Los que sean Ministros de cualquier culto; y,
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y,
 
 III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
 
@@ -541,11 +609,11 @@ III.- Los integrantes de los Organismos Electorales en los términos que señale
 
 Los Diputados no podrán ser reelectos para el período inmediato. Los Suplentes sólo podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio. Los Diputados Propietarios no podrán ser electos como Suplentes para el período inmediato.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 48.
 
-La Diputación Permanente instalará al Colegio Electoral integrado por los presuntos Diputados que hubiesen obtenido Constancia de Mayoría y por los presuntos Diputados a quienes la Comisión Estatal Electoral les haya entregado Constancia de Representación Proporcional. El Colegio Electoral, calificará las elecciones de diputados y sus fallos serán definitivos e inatacables.
+La Diputación Permanente registrará las declaratorias de validez y las constancias de mayoría o, en su caso, de asignación, de los Diputados que hubieren resultado electos en los comicios y los convocará para que comparezcan a la sesión de instalación, a que se refiere el artículo 53 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -565,11 +633,11 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 51.
 
-El Congreso del Estado tendrá cada año los Periodos Ordinarios de Sesiones que establezca su Ley Orgánica.
+El Congreso del Estado tendrá cada año dos Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, y el segundo comenzará el 15 de mayo y terminará el 10 de agosto.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -687,15 +755,23 @@ V.- Dirimir las controversias que surjan entre los Municipios y entre éstos y l
 
 VI.- Autorizar el cambio de residencia de las Cabeceras Municipales, erigir nuevos municipios y formular la declaratoria de su inexistencia, siempre que fuere aprobado por el voto de las dos terceras partes de los Diputados y de la mayoría de los Ayuntamientos;
 
-VII.- Hacer la división del Estado en Distritos Electorales;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+VII.- Aprobar con el voto de cuando menos el setenta por ciento de sus miembros, a propuesta del organismo a que se refiere el artículo 31 de esta Constitución, la división del Estado en Distritos Electorales, atendiendo a criterios de carácter objetivo y técnico, para garantizar el equilibrio en la representación popular. De no aprobarse la propuesta; regresará al organismo autónomo para que formule una nueva;
 
-VIII.- Calificar las elecciones ordinarias y extraordinarias del Gobernador del Estado, de los Senadores al Congreso de la Unión y de los Ayuntamientos, haciendo las declaratorias correspondientes. En caso de Nulidad de Elecciones de Ayuntamiento, nombrar un Concejo Municipal mientras se celebran nuevas elecciones y expedir la convocatoria para éstas en un término no mayor de dos meses, salvo que, concurran circunstancias que ameriten ampliar dicho plazo y mediante el voto de las dos terceras partes de los diputados;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-IX.- Erigirse en Colegio Electoral para elegir Gobernador Interino o Sustituto, de acuerdo a lo dispuesto por los Artículos 73 y 74 de esta Constitución;
+VIII.- Nombrar entre los vecinos, cuando se declare la nulidad de elección de ayuntamiento, a los miembros del Concejo Municipal, en tanto se celebran nuevos comicios, y expedir la convocatoria para la celebración de éstos en un plazo no mayor de seis meses.
 
-X.- Convocar a elecciones de Gobernador en caso de falta absoluta del que debiera ejercer el cargo, si no se presenta a tomar posesión del mismo o si dicha falta ocurre dentro de los tres primeros años del Período Constitucional, a fin de que el electo concluya el período correspondiente;
+Convocar a elecciones extraordinarias para Diputados, cuando se declare la nulidad de la elección en uno o varios distritos, o en el caso previsto por el segundo párrafo del artículo 53 de esta Constitución. La convocatoria para elecciones extraordinarias de Diputados, deberá expedirse en un plazo igual al señalado en el párrafo anterior;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+IX.- Declarar Gobernador electo, mediante formal decreto, a quien en los términos de la declaratoria del Organismo Autónomo Estatal o, en su caso, de la resolución del Tribunal Estatal Electoral haya obtenido mayoría de votos en la elección correspondiente;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+X.- Convocar a elecciones de Gobernador, en caso de nulidad de los comicios, si el electo no se presenta a tomar posesión del cargo, o en caso de falta absoluta ocurrida dentro de los tres primeros años del período constitucional, dicha convocatoria deberá expedirse en un plazo no mayor de seis meses;
 
 XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y con aprobación de la mayoría de los Ayuntamientos, la división política del Estado;
 
@@ -723,9 +799,9 @@ XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputaci
 
 XXI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia hechos por el Gobernador del Estado, conforme a la fracción XII del Artículo 77 de esta Constitución. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en Período Ordinario de Sesiones;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-Elegir, de entre sus miembros, a sus representantes ante los Organismos Electorales y a las personas que le competa para integrar dichos órganos y el Organismo Jurisdiccional electoral, en los términos que establezca la Ley de la materia. Esta facultad la tendrá la Diputación Permanente, cuando el Congreso no esté en período de sesiones.
+Designar de entre sus miembros, a sus representantes ante el Organismo Autónomo a que se refiere el artículo 31 de esta Constitución, a los Consejeros Ciudadanos en términos de su competencia y a los integrantes del Tribunal Estatal Electoral, de conformidad con la Ley.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
@@ -773,7 +849,7 @@ I.- Recibir las Iniciativas de Leyes y Decretos y turnarlas a las Comisiones que
 
 II.- Acordar por sí sola, o a iniciativa del Ejecutivo, la convocatoria al Congreso a Período Extraordinario de Sesiones;
 
-III.- Recibir los expedientes relativos a las Elecciones Extraordinarias de Gobernador, debiendo convocar al Congreso para los efectos conducentes;
+III.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 1994)
 
 IV.- Instalar y presidir la primera junta preparatoria del nuevo Congreso;
 
@@ -829,9 +905,13 @@ III.- Tener por lo menos treinta y cinco años cumplidos al día de la elección
 
 No son elegibles al cargo de Gobernador del Estado:
 
-I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Procurador General de Justicia de la República, el Jefe del Departamento del Distrito Federal, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divide la Administración Pública Estatal, los Militares en servicio activo y los ciudadanos con mando de fuerza regular o irregular, en el Estado, a no ser que se separen definitivamente de su cargo dentro de los ciento ochenta días anteriores a la fecha de la elección;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-II.- Los que sean Ministros de algún culto religioso; y,
+I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Procurador General de Justicia de la República, el Jefe del Distrito Federal, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, los Militares en servicio activo y los ciudadanos con mando de fuerza regular o irregular en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y
 
 III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
 
@@ -1113,7 +1193,7 @@ Asimismo, fijará las bases para el establecimiento de la carrera judicial.
 
 #### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 93.
 
@@ -1269,7 +1349,9 @@ El Gobierno Municipal y el manejo y administración de los intereses de las pobl
 
 ###### ARTICULO 108.
 
-Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Regidores y Síndicos que determine la Ley Orgánica, sin que el número total de Miembros que los integren sea mayor de quince ni menor de seis.
+Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Síndicos y Regidores que determine la Ley Orgánica, sin que el número total de miembros que los integren sea menor de ocho ni mayor de diecinueve.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 Por cada Regidor y Síndico Propietario, se elegirá un Suplente.
 
@@ -1305,7 +1387,9 @@ No podrán ser Presidentes Municipales, Síndicos o Regidores:
 
 I.- Los militares en servicio activo o ciudadanos con mando de fuerzas en el Municipio donde deba efectuarse la elección, ni el Secretario y Tesorero del Ayuntamiento a no ser que se separen de sus cargos cuando menos con noventa días de anticipación al de la elección;
 
-II.- Los que sean Ministros de algún culto religioso; y,
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
 
 III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
 
@@ -1333,11 +1417,11 @@ Ninguno de los Funcionarios Municipales mencionados en el artículo anterior, cu
 
 Ningún ciudadano puede renunciar ni excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo por causa justificada, a juicio del Congreso del Estado, o de la Diputación Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 116.
 
-Los ciudadanos que hayan sido electos en los comicios, según la calificación que haga el Congreso del Estado, o en su caso, los Miembros del Concejo Municipal que designe el mismo Congreso, se reunirán para iniciar sus actividades, el día primero de enero de año en que empiece su ejercicio.
+Los ciudadanos que hayan sido electos en los comicios o, en su caso, los miembros del Concejo Municipal que designe el Congreso, se reunirán para iniciar actividades el día 10 de octubre siguiente a la fecha de la elección.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1475,13 +1559,13 @@ Las sanciones correspondientes se aplicarán en un período no mayor de un año,
 
 Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales y Magistrados del Supremo Tribunal de Justicia del Estado, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los Artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones, lo que corresponda.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 126.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo y los Miembros de los Ayuntamientos, durante el tiempo de su encargo sólo podrán ser juzgados por delitos intencionales del orden común que merezcan pena corporal, pero para ello es necesario que, previamente, el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos, los Consejeros Ciudadanos integrantes del Organo Estatal de dirección del Organismo Autónomo Electoral a que se refiere el artículo 31 de esta Constitución y los Magistrados del Tribunal Estatal Electoral, durante el tiempo de su encargo sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente, el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
 
-El Gobernador del Estado, a partir de la declaratoria de su elección y hasta la terminación de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+El Gobernador del Estado, a partir de la declaratoria de su elección y hasta la terminación de su encargo, sólo podrá ser acusado por delitos graves de orden común.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1597,11 +1681,11 @@ Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés pú
 
 Esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, serán la Ley Suprema del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 143.
 
-En todo tiempo puede ser reformada o adicionada la presente Constitución. Para que las adiciones o reformas lleguen a ser parte de la misma, es indispensable que el Congreso las apruebe por el voto de las dos terceras partes de los Diputados y, además que sean aprobadas por la mayoría de los Ayuntamientos.
+En todo tiempo puede ser reformada o adicionada la presente Constitución. Para que las adiciones o reformas lleguen a ser parte de la misma, es indispensable que el Congreso las apruebe por el voto de cuando menos el setenta por ciento de sus miembros y, además, sean aprobadas por la mayoría de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1723,7 +1807,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 15 DE ENERO DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+AEL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 7 DE SEPTIEMBRE DE 1933.
 
@@ -1747,7 +1831,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 3 DE JUNIO DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 19 DE AGOSTO DE 1945.
 
@@ -1915,11 +1999,9 @@ P.O. 17 DE FEBRERO DE 1984.
 
 Las reformas y adiciones a la Constitución Política del Estado de Guanajuato, que se contienen en este Decreto, entrarán en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
-
 ###### ARTICULO SEGUNDO.
 
-En tanto se reforma el Reglamento Interior del Congreso del Estado o se expide la Ley Orgánica del Congreso, éste tendrá dos Períodos Ordinarios de Sesiones, el primero se inicia el día 25 de septiembre y, el segundo, que se inicia el 15 de junio, teniendo el primero una duración de tres meses, prorrogable por un mes más y, el segundo con una duración de dos meses.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1994)
 
 ###### ARTICULO TERCERO.
 
@@ -2016,3 +2098,29 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACIO
 ###### ARTICULO SEGUNDO.
 
 LO PREVISTO EN LA FRACCION I DEL ARTICULO QUE REFORMA ESTE DECRETO, ENTRARA EN VIGOR EL DIA 3 DE SEPTIEMBRE DE 1994.
+
+P.O. 15 DE NOVIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+EL GOBERNADOR DEL ESTADO QUE SE ELIJA POPULARMENTE CON POSTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, DURARA EN FUNCIONES HASTA EL 25 DE SEPTIEMBRE DEL AÑO 2000.
+
+###### ARTICULO TERCERO.
+
+LOS AYUNTAMIENTOS QUE SE ELIJAN EN JULIO DE 1997 O, EN SU CASO, LOS MIEMBROS DEL CONCEJO MUNICIPAL QUE DESIGNE EL CONGRESO, DURARAN EN FUNCIONES DEL 1o. DE ENERO DE 1998 AL 9 DE OCTUBRE DEL AÑO 2000.
+
+###### ARTICULO CUARTO.
+
+EN TANTO SE CREA EL REGISTRO ESTATAL DE ELECTORES, QUEDARAN VIGENTES LOS CONVENIOS QUE SE TENGAN CELEBRADOS CON LA FEDERACION PARA EL USO DEL PADRON ELECTORAL, LAS LISTAS NOMINALES DE ELECTORES Y LA CREDENCIAL PARA VOTAR CON FOTOGRAFIA, EXPEDIDAS Y ELABORADAS POR LA AUTORIDAD ELECTORAL FEDERAL COMPETENTE.
+
+###### ARTICULO QUINTO.
+
+LAS REFORMAS CONTENIDAS EN ESTE DECRETO NO SERAN APLICABLES EN NINGUNA DE SUS ETAPAS AL PROCESO ELECTORAL DE RENOVACION DE AYUNTAMIENTOS A CELEBRARSE EL 4 DE DICIEMBRE DE 1994. LA CITADA ELECCION SE REGIRA POR LAS NORMAS CONSTITUCIONALES Y ORDINARIAS VIGENTES CON ANTERIORIDAD A ESTA REFORMA.
+
+###### ARTICULO SEXTO.
+
+SE DEJA SIN EFECTO, LA MINUTA PROYECTO DE DECRETO, NO PROMULGADA NI PUBLICADA, QUE REFORMA LOS ARTICULOS 17, EN SU PRIMER Y SEGUNDO PARRAFO; 42; 44 EN SUS FRACCIONES I Y IV; 46 EN SU FRACCION II; 48; 51; 63 EN SUS FRACCIONES VIII, IX Y X; 65 EN SU FRACCION III; 69 EN SUS FRACCIONES I Y II; 108 EN SU PRIMER PARRAFO; 111 EN SU FRACCION II; 116 Y 126; QUE ADICIONA LOS ARTICULOS 31 CON SUS PARRAFOS SEGUNDO A DECIMO CUARTO Y 63 EN SU FRACCION VIII CON SUS PARRAFOS SEGUNDO Y TERCERO Y EN SU FRACCION XXI, CON UN PARRAFO TERCERO; Y DEROGA EL PARRAFO TERCERO DEL ARTICULO 17 Y EL ARTICULO SEGUNDO TRANSITORIO DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO, APROBADA POR EL CONSTITUYENTE PERMANENTE Y DECLARADA POR LA H. QUINCUAGESIMA QUINTA LEGISLATURA, EN LA SESION DE FECHA 8 DE JULIO DE 1994.
