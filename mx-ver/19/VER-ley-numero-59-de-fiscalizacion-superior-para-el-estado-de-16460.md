@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-59-de-fiscalizacion-superior-para-el-estado-de-16460
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2003-04-22"
+last_updated: "2004-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 26 de mayo de 2000.
 
@@ -403,15 +403,67 @@ IV. (DEROGADA, G.O. 22 DE ABRIL DE 2003)
 
 El Órgano solicitará la información general que permita el análisis de resultados, en la que se incluyan los datos económicos.
 
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
 
-#### Sección Primera. De las Cuentas Públicas
+#### Sección Primera. Del Pliego de Observaciones
 
-> <small>(DEROGADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Artículo 30 BIS. Una vez que reciba del Congreso por conducto de la Comisión, las Cuentas Públicas de los Entes Fiscalizables, el Órgano dará inicio al proceso de fiscalización que a continuación se describe:
+
+I. El Órgano notificará por escrito, la fecha de inicio, la modalidad y el alcance de la fiscalización de los recursos públicos municipales, estatales o federales, según sea el caso, así como la documentación que deberá poner a su disposición para llevar a cabo la misma.
+
+La modalidad de las revisiones podrá ser:
+
+a) De gabinete: aquella en la que el Ente Fiscalizable presenta la documentación comprobatoria en las oficinas del Órgano, donde se lleva a cabo la auditoría; o
+
+b) De Campo: Aquélla que se efectúa a través de personal propio expresamente comisionado o despachos externos habilitados por el Órgano, para llevar a cabo la auditoría en el sitio de la obra o de los archivos del Ente Fiscalizable.
+
+Por alcance de la fiscalización deberá entenderse el tipo de revisión a la que será sometido el Ente Fiscalizable, pudiendo ser legal, financiera, presupuestal, de desempeño o cumplimiento de objetivos, técnica a la obra pública, en su caso, integral. Independientemente del tipo de auditoría que se realice, éstas se harán con base en pruebas selectivas y con apego a las normas de auditoría generalmente aceptadas;
+
+II. Al iniciar la revisión, los auditores del Órgano levantarán acta circunstanciada en la que se hará constar, de manera precisa, la documentación que se recibe, y en su caso, las inconsistencias detectadas. A juicio de los representantes del Órgano o por petición del Ente Fiscalizable, el acta podrá suspenderse y reanudarse, tantas veces como sea necesario.
+
+Durante sus actuaciones, los representantes del Órgano que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas que en lo general contendrán los siguientes requisitos:
+
+a) El nombre de las personas que intervienen en la misma, el documento legal que las identifica, así como el carácter de titulares o comisionados para actuar en representación de los Entes Fiscalizables;
+
+b) Los representantes del Ente Fiscalizable deberán designar a dos testigos, o en su ausencia o negativa, los designará la autoridad que practique la diligencia;
+
+c) Deberán asentarse todos los hechos o circunstancias que se desarrollen durante la práctica de las diligencias; y
+
+d) Deberán estar firmadas al margen y al calce por las personas que intervinieron en la misma;
+
+III. Al cerrar el acta de auditoría, el Órgano dará a conocer al ente fiscalizado, las inconsistencias detectadas como resultado de la revisión, mismas que servirán de base para la elaboración del Pliego de Observaciones;
+
+IV. El Órgano notificará al ente fiscalizado el Pliego de Observaciones, otorgándole un plazo de 20 días hábiles contados a partir del día siguiente al en que surta sus efectos la notificación del citado pliego, para que dentro del término, presente la documentación comprobatoria y/o aclaraciones que solventen, a juicio del Órgano, las observaciones notificadas;
+
+V. El responsable de la solventación deberá presentar la documentación y/o aclaraciones para el efecto de solventar las observaciones, adicionando un dictamen emitido por el titular de quien desempeñe las funciones de control interno del Ente Fiscalizable, en el que conste su evaluación y opinión respecto de la mencionada documentación y aclaraciones;
+
+VI. El Órgano, al recibir la documentación y/o aclaraciones, levantará acta circunstanciada, que deberá contener los requisitos señalados en la fracción II de este artículo. En el acta se harán constar de manera preliminar las observaciones que fueron solventadas y aquellas que a juicio del Órgano no fueron desahogadas satisfactoriamente; y
+
+VII. Con los resultados asentados en el acta a que se refiere la fracción anterior, el Órgano formulará el Informe del Resultado, que presentará al Congreso, por conducto de la Comisión, en los términos de los artículos 31 y 32 de esta ley, e incluirá como parte de su contenido, propuestas sobre las acciones a seguir, que estarán en función de la gravedad de los señalamientos asentados en el Informe del Resultado.
+
+Cuando por causas imputables al Ente Fiscalizable, no pudiere llevarse a cabo el proceso de fiscalización por la falta de presentación de documentación comprobatoria al Órgano, se informará de tal situación al Congreso.
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 21.
 
-Las Cuentas Públicas deberán ser presentadas al Congreso, por el Gobierno del Estado y los Ayuntamientos, durante el mes de mayo del año siguiente al del ejercicio fiscal anual que será objeto de revisión. Tratándose del último año del ejercicio de las administraciones municipales, las Cuentas Públicas y la documentación de éstas, se presentarán durante la primera quincena del mes de diciembre del año en que concluyan. El Congreso, a través de la Comisión, las turnará al Órgano, el cual deberá remitir el Informe del Resultado a dicha Comisión. El Órgano sólo podrá fiscalizar las Cuentas Públicas del ejercicio fiscal anual que será objeto de revisión.
+Las Cuentas Públicas del Gobierno del Estado y de los Ayuntamientos, deberán ser presentadas al Congreso para su revisión, durante el mes de mayo del año siguiente al ejercicio fiscal.
+
+El Congreso, a través de la Comisión turnará formalmente dichas Cuentas al Órgano para que proceda conforme a lo dispuesto en el artículo 6 de esta Ley.
+
+El Órgano solo podrá fiscalizar las Cuentas Públicas del ejercicio anual correspondiente.
+
+El Informe del Resultado de la Revisión de las Cuentas Públicas se remitirá a la Comisión.
+
+Tratándose del último año del ejercicio constitucional de los Ayuntamientos, las Cuentas Públicas consolidadas se presentarán al Congreso el 30 de diciembre del año respectivo, y la documentación comprobatoria de dichas cuentas a más tardar el 30 de enero del año siguiente.
+
+Los Ayuntamientos que fueren auditados por despachos externos habilitados por el Órgano, únicamente deberán presentar, en los términos del párrafo anterior, la cuenta pública consolidada y el dictamen emitido por el auditor externo, debiendo conservar en custodia la documentación comprobatoria durante el lapso y en las condiciones que establece la Ley.
+
+La no presentación en tiempo de las cuentas públicas consolidadas por parte del Ayuntamiento saliente, o de los documentos comprobatorios de dichas cuentas por parte del Ayuntamiento entrante, será sancionada en los términos de la legislación penal correspondiente. Los responsables de la omisión serán considerados responsables de los delitos de incumplimiento de un deber legal o abuso de autoridad.
+
+La Comisión de vigilancia determinará en todos los casos el procedimiento, calendario y lugar de la entrega de la documentación comprobatoria.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -457,7 +509,7 @@ Los servidores públicos del Órgano, así como los prestadores de servicios que
 
 El Órgano será responsable solidariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios que contrate para el ejercicio de sus funciones.
 
-> <small>(DEROGADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ### CAPÍTULO V. Del proceso de fiscalización
 
@@ -465,49 +517,11 @@ El Órgano será responsable solidariamente por los daños y perjuicios que caus
 
 #### Sección Segunda. Del Informe del Resultado
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
 
-#### Sección Primera. Del Pliego de Observaciones
+#### Sección Primera. De la Legitimación
 
 > <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
-
-Artículo 30 BIS. Una vez que reciba del Congreso por conducto de la Comisión, las Cuentas Públicas de los Entes Fiscalizables, el Órgano dará inicio al proceso de fiscalización que a continuación se describe:
-
-I. El Órgano notificará por escrito, la fecha de inicio, la modalidad y el alcance de la fiscalización de los recursos públicos municipales, estatales o federales, según sea el caso, así como la documentación que deberá poner a su disposición para llevar a cabo la misma.
-
-La modalidad de las revisiones podrá ser:
-
-a) De gabinete: aquella en la que el Ente Fiscalizable presenta la documentación comprobatoria en las oficinas del Órgano, donde se lleva a cabo la auditoría; o
-
-b) De Campo: Aquélla que se efectúa a través de personal propio expresamente comisionado o despachos externos habilitados por el Órgano, para llevar a cabo la auditoría en el sitio de la obra o de los archivos del Ente Fiscalizable.
-
-Por alcance de la fiscalización deberá entenderse el tipo de revisión a la que será sometido el Ente Fiscalizable, pudiendo ser legal, financiera, presupuestal, de desempeño o cumplimiento de objetivos, técnica a la obra pública, en su caso, integral. Independientemente del tipo de auditoría que se realice, éstas se harán con base en pruebas selectivas y con apego a las normas de auditoría generalmente aceptadas;
-
-II. Al iniciar la revisión, los auditores del Órgano levantarán acta circunstanciada en la que se hará constar, de manera precisa, la documentación que se recibe, y en su caso, las inconsistencias detectadas. A juicio de los representantes del Órgano o por petición del Ente Fiscalizable, el acta podrá suspenderse y reanudarse, tantas veces como sea necesario.
-
-Durante sus actuaciones, los representantes del Órgano que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas que en lo general contendrán los siguientes requisitos:
-
-a) El nombre de las personas que intervienen en la misma, el documento legal que las identifica, así como el carácter de titulares o comisionados para actuar en representación de los Entes Fiscalizables;
-
-b) Los representantes del Ente Fiscalizable deberán designar a dos testigos, o en su ausencia o negativa, los designará la autoridad que practique la diligencia;
-
-c) Deberán asentarse todos los hechos o circunstancias que se desarrollen durante la práctica de las diligencias; y
-
-d) Deberán estar firmadas al margen y al calce por las personas que intervinieron en la misma;
-
-III. Al cerrar el acta de auditoría, el Órgano dará a conocer al ente fiscalizado, las inconsistencias detectadas como resultado de la revisión, mismas que servirán de base para la elaboración del Pliego de Observaciones;
-
-IV. El Órgano notificará al ente fiscalizado el Pliego de Observaciones, otorgándole un plazo de 20 días hábiles contados a partir del día siguiente al en que surta sus efectos la notificación del citado pliego, para que dentro del término, presente la documentación comprobatoria y/o aclaraciones que solventen, a juicio del Órgano, las observaciones notificadas;
-
-V. El responsable de la solventación deberá presentar la documentación y/o aclaraciones para el efecto de solventar las observaciones, adicionando un dictamen emitido por el titular de quien desempeñe las funciones de control interno del Ente Fiscalizable, en el que conste su evaluación y opinión respecto de la mencionada documentación y aclaraciones;
-
-VI. El Órgano, al recibir la documentación y/o aclaraciones, levantará acta circunstanciada, que deberá contener los requisitos señalados en la fracción II de este artículo. En el acta se harán constar de manera preliminar las observaciones que fueron solventadas y aquellas que a juicio del Órgano no fueron desahogadas satisfactoriamente; y
-
-VII. Con los resultados asentados en el acta a que se refiere la fracción anterior, el Órgano formulará el Informe del Resultado, que presentará al Congreso, por conducto de la Comisión, en los términos de los artículos 31 y 32 de esta ley, e incluirá como parte de su contenido, propuestas sobre las acciones a seguir, que estarán en función de la gravedad de los señalamientos asentados en el Informe del Resultado.
-
-Cuando por causas imputables al Ente Fiscalizable, no pudiere llevarse a cabo el proceso de fiscalización por la falta de presentación de documentación comprobatoria al Órgano, se informará de tal situación al Congreso.
-
-> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 31.
 
@@ -937,9 +951,9 @@ En caso de duda sobre la autenticidad de la firma, el Órgano podrá llamar al i
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
 
-#### Sección Segunda. Del Informe del Resultado
+#### Sección Segunda. De las Actuaciones
 
-> <small>(REFORMADO Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 71.
 
@@ -953,7 +967,7 @@ Los titulares de los Entes Fiscalizables, mediante escrito auténtico, podrán a
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
 
-#### Sección Primera. De la Legitimación
+#### Sección Tercera. De los Términos y Notificaciones
 
 > <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -986,10 +1000,6 @@ El Auditor General del Órgano o las autoridades en quienes delegue sus facultad
 En el procedimiento administrativo de fiscalización no se producirá la caducidad por falta de impulso.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
-
-#### Sección Tercera. De los Términos y Notificaciones
-
-> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 #### Sección Segunda. De las Actuaciones
 
@@ -1210,3 +1220,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones del presente Decreto serán aplicables a la fiscalización del ejercicio fiscal 2002 y subsecuentes.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2004.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
