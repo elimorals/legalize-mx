@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1992-01-17"
+last_updated: "1992-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1215 +21,823 @@ state: "SLP"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY REGISTRAL DEL ESTADO DE QUERÉTARO
+CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1992.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de junio de 2020.
+Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
-FRANCISCO DOMÍNGUEZ SERVIÉN,
+GONZALO N. SANTOS, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
 
-Gobernador del Estado Libre y Soberano de Querétaro, a los habitantes del mismo, sabed que:
+Que el H. XXXVIII Congreso Constitucional del Estado se ha servido enviarme el siguiente
 
-LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+DECRETO NUM. 8
 
-CONSIDERANDO
+El H. XXXVIII Congreso Constitucional del Estado Libre y Soberano de San Luis Potosí, decreta lo siguiente:
 
-1. Que en fecha 21 de octubre de 2009, fue publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el Código Civil del Estado de Querétaro, mismo que en el Título Segundo de la Tercera Parte de su Libro Cuarto, contempla la existencia del Registro Público de la Propiedad y del Comercio.
+CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-2. Que según refiere Marbella Solís De la Sancha, en su libro “La protección y seguridad del Registro Público con relación a los contratos traslativos de propiedad”, publicado por la Escuela de Gobierno y Transformación Pública, Instituto Tecnológico de Estudios Superiores de Monterrey, la función registral es de suma importancia en la actualidad, pues por medio de la publicidad que se dota a los actos jurídicos que inscriben las personas en los Registros Públicos, se busca que los mismos surtan efectos frente a terceros para que de esta forma el Estado pueda cumplir con una de sus obligaciones originarias, es decir, con la de otorgar la garantía de seguridad jurídica a los manejos y transacciones que las personas realizan con su patrimonio.
+DISPOSICIONES PRELIMINARES
 
-3. Que la misma autora señala que el tráfico inmobiliario es de vital importancia para el desarrollo económico de un país, donde el Registro Público de la Propiedad tiene la función principal de brindar seguridad y certeza jurídica respecto de los actos o contratos jurídicos celebrados entre los particulares para que éstos sean oponibles ante terceros, una vez que han quedado inscritos ante esta institución. Es por ello que la formalidad exigida por la ley para la celebración de actos o contratos traslativos de propiedad, actualmente, cobra gran relevancia para efectos de su inscripción en el Registro.
+ART. 1.- La capacidad jurídica es igual para todos, salvo las modificaciones especialmente declaradas.
 
-4. Que la Primera Sala de la Suprema Corte de Justicia de la Nación, al resolver la Contradicción de Tesis 127/2009, en sesión del 17 de febrero de 2010 ha señalado que el Registro Público es una institución que sirve para dar publicidad a los actos jurídicos que deban ser inscritos, como en ciertos casos la compraventa de inmuebles, y tiene como finalidad que los terceros ajenos a la relación contractual puedan tener conocimiento de la celebración de esos actos, y de la titularidad de los bienes enajenados, a fin de evitarles fraudes y perjuicios como consecuencia de la ignorancia de los mismos.
+ART. 2.- Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, regirán desde el día que en las mismas se indique. Si nada se dice a este respecto, serán obligatorias en la capital del Estado, tres días después de su publicación en el Periódico Oficial; y en los demás lugares del Estado, se aumentará un día por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
-5. Que de igual forma manifestó que el Registro Público tiene como propósito permitir a cualquier interesado que se entere de las operaciones traslativas de dominio de algún determinado bien inmueble que conforme a la ley debe inscribirse en el citado Registro para que surta efectos en contra de terceros y no solamente entre las partes contratantes.
+ART. 3.- A ninguna ley o disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna.
 
-6. Que los Proyectos de Modernización Registral han sido para el Registro Público de la Propiedad, un promotor de acciones de cambio e innovación, iniciando una etapa de maduración y consolidación mediante la adopción del Modelo Integral de Registros Públicos.
+ART. 4.- No tiene eficacia alguna la renuncia de las leyes en general, ni la especial de las leyes prohibitivas o de interés público. La renuncia de los derechos privados surtirá sus efectos, cuando se haga sin perjuicio de tercero y expresando con claridad y precisión los derechos renunciados.
 
-7. Que a finales de 2015 y principios de 2016, el Registro Público de la Propiedad en el estado de Querétaro obtuvo una calificación de 80.59% posicionándose en el primer lugar de las 32 entidades federativas de acuerdo a la evaluación del Sistema Integral para la Gestión de Información Registral y Catastral de la SEDATU y en segundo lugar a nivel nacional de acuerdo a la evaluación de “Doing Business 2016” (Facilidad para hacer negocios) en el rubro de “Registro de la Propiedad”.
+ART. 5.- Los actos ejecutados contra el tenor de las leyes prohibitivas, serán nulos si las mismas leyes no disponen otra cosa.
 
-8. Que en 2017 y 2018 la Dirección del Registro Público de la Propiedad del estado de Querétaro, logró alcanzar un avance del 86.59% en el Sistema Integral para la Gestión de Información Registral y Catastral de la SEDATU manteniéndolo en los primeros lugares a nivel nacional.
+ART. 6.- No puede alegarse desuso, costumbre o práctica en contrario para la no observancia de la ley; pues ésta sólo queda abrogada o derogada por otra posterior que así lo declare expresamente o que contenga total o parcialmente disposiciones incompatibles con la ley anterior.
 
-9. Que en 2019 se proporcionó información a un nuevo Sistema Integral para la Gestión de Información Registral y Catastral de la SEDATU, obteniendo una calificación de 72.71% lo que permitió que la Dirección del Registro Público de la Propiedad del Estado de Querétaro se posicionara en el segundo lugar a nivel nacional
+ART. 7.- Las leyes que establecen excepciones a las reglas generales no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
 
-10. Que Jerónimo González y Martínez, en su libro “Estudios de derecho hipotecario”, Madrid, 1948, citado por Víctor Manuel Lechuga Gil, en el libro “Terceros frente al Registro Público de la Propiedad”, Gobierno del Estado de México, el derecho registral es el conjunto de normas que regulan los derechos reales inscribibles, determinan los efectos de las acciones personales contra terceros por la anotación y fijan el especial alcance de las prohibiciones que dispone.
+ART. 8.- Las leyes concernientes al estado y capacidad de las personas, son obligatorias para los mexicanos del Estado, aún cuando residan en el extranjero, respecto de los actos que deban ejecutarse en todo o en parte en esta demarcación.
 
-En la Tesis Jurisprudencial 2a./J. 103/2018 (10a.), emitida por la Segunda Sala de la Suprema Corte de Justicia de la Nación, se establece que el derecho registral concreta su radio de acción a la inscribilidad de todos aquellos actos jurídicos, personales o mercantiles, que requieren servicio de publicidad por parte del Estado, a fin de dar seguridad jurídica a la economía, garantizando por igual los derechos primarios y de terceros.
+ART. 9.- Respecto de los bienes inmuebles sitos en el Estado, regirán las leyes mexicanas, aunque sean poseídos por extranjeros.
 
-11. Que el derecho a la seguridad jurídica está reconocido en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos y tutela la prerrogativa del gobernado a no encontrarse jamás en una situación de incertidumbre jurídica y, en consecuencia, en un estado de indefensión; su esencia versa sobre la premisa consistente en "saber a qué atenerse" respecto del contenido de las leyes y de la propia actuación de la autoridad.
+ART. 10.- Respecto de la forma o solemnidades externas de los contratos, testamentos y de todo instrumento público, regirán las leyes del país en que se hubieren otorgado. Sin embargo, los mexicanos o extranjeros residentes fuera del Estado, quedan en libertad para sujetarse a las formas y solemnidades prescritas por la ley mexicana, en los casos en que el acto haya de tener ejecución en esta demarcación.
 
-12. Que Norberth LÖSING, en su libro Estado de Derecho, Seguridad Jurídica y Desarrollo Económico, Anuario Iberoamericano de Justicia Constitucional, publicado por el Centro de Estudios Políticos y Constitucionales, establece que el Estado de Derecho y la seguridad jurídica como elemento del mismo, son conceptos que han encontrado un lugar fijo en la teoría del Derecho, en especial en la teoría del Derecho constitucional y del Estado. Pero la seguridad jurídica es también un fundamento de extraordinaria importancia para decisiones emprendedoras y, por ello, para el desarrollo económico y social de un país.
+ART. 11.- Las leyes en que se interesan el derecho público y las buenas costumbres, no podrán alterarse o nulificarse en cuanto a sus efectos, por convenio celebrado entre particulares.
 
-13. Que por su parte, Bernardo Pérez Fernández del Castillo, en su libro Derecho Registral, editado por Porrúa, establece que la institución del Registro Público de la Propiedad y del Comercio abona a la parte objetiva de la seguridad jurídica, pues su finalidad es proporcionar seguridad al tráfico de inmuebles mediante la publicación de la constitución, declaración, transmisión, modificación, extinción y gravamen de los derechos reales y posesión de bienes inmuebles, dándole una legitimidad y fe pública a lo que aparece asentado y anotado.
+ART. 12.- Las obligaciones y derechos que nazcan de los contratos o testamentos otorgados en el extranjero, por mexicanos del Estado, se regirán por las disposiciones de este Código, en caso de que dichos actos deban cumplirse en la referida demarcación.
 
-14. Que la Organización para la Cooperación y el Desarrollo Económicos (OCDE), en su publicación “Mejores prácticas registrales y catastrales en México”, establece que la protección de los derechos de propiedad en una economía es una condición para su crecimiento y prosperidad, ya que genera un ambiente propicio para la realización de transacciones y dar certidumbre jurídica sobre la prelación de derechos y obligaciones de bienes inmuebles y empresas. Por tal razón se deben generar condiciones que fortalezcan los derechos de propiedad para dotar de seguridad a las personas de poder trabajar, ahorrar e invertir, provocando esto un desarrollo económico más saludable.
+ART. 13.- Cuando no se pueda decidir una controversia judicial, ni por el texto ni por el sentido natural o espíritu de la ley, deberá decidirse según los principios generales de derecho, tomando en consideración todas las circunstancias del caso.
 
-15. Que a su vez Sergio García Ávila, en la Revista Relaciones. No. 29 “El Archivo General de Notarías de Michoacán” manifiesta que al hablar de un archivo no nos referimos exclusivamente a simples depósitos de información. En la actualidad la dinámica y el orden son dos de los aspectos fundamentales en cualquier institución de esta naturaleza. De ahí que su funcionamiento no se limite solamente a conservar y preservar todos aquellos testimonios del pasado, la clasificación y catalogación de los acervos han adquirido relevancia en los tiempos modernos, pues los documentos históricos no deben aspirar a reposar en anaqueles y cajas, sino deben vivir al lado de los investigadores, ya que son los instrumentos para operar eficazmente.
+ART. 14.- En caso de conflicto de derechos y a falta de ley expresa para el caso especial, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales, o de la misma especie, se decidirá, observándose la mayor igualdad posible entre los interesados.
 
-16. Que G. Flores Padilla, en “Los archivos y la sociedad. Archivo… ¿Qué? Gaceta del archivista, México, 2009, señala que si bien el origen de muchos archivos se ha basado en necesidades de gobierno o administración, es decir un fin práctico, el valor secundario o histórico es primordial para toda sociedad, pues son una herramienta para salvaguardar su memoria.
+ART. 15.- Cuando alguno explotando la suma ignorancia o extrema miseria de otro, obtiene lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
 
-17. Que la historia y por lo tanto los archivos serían estériles si no coadyuvaran al conocimiento y entendimiento de nuestras sociedades y al fortalecimiento de la memoria como un bien y un derecho inalienable de los ciudadanos. En este sentido cabe recordar lo establecido en la Declaración Universal sobre los archivos: “Los archivos custodian decisiones, actuaciones y memoria. Los archivos conservan un patrimonio único e irremplazable que se transmite de generación en generación. Juegan un papel esencial en el desarrollo de la sociedad contribuyendo a la constitución y salvaguarda de la memoria individual y colectiva”.
+ART. 16.- La ignorancia de las leyes debidamente publicadas no sirve de excusa y a nadie aprovecha; pero los jueces tomando en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, con audiencia del Ministerio Público, podrán eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
 
-18. Que los acervos históricos notariales en su conjunto abonan a la comprensión de los complejos procesos económicos, políticos, sociales y culturales tramados al interior de una sociedad determinada. Si bien ésta es una característica compartida con otro tipo de repositorios documentales, La institución del notariado se establece como un objeto de estudio privilegiado, en tanto sus componentes humanos, jurídicos, materiales y simbólicos, dan muestra a través de los documentos, de su evolución y la relación con el espacio público y privado.
+# LIBRO PRIMERO. DE LAS PERSONAS
 
-19. Que las administraciones públicas han de enfrentarse hoy en día ante las profundas transformaciones que tienen lugar en la sociedad, en sus relaciones con los ciudadanos y en la prestación de los servicios, para promover el progreso económico y social y la garantía de la integración y la cohesión de la sociedad.
+## TITULO PRIMERO. De las Personas Físicas
 
-20. Que la nueva dinámica social, con sus nuevas exigencias y necesidades, alcanza a las Administraciones Públicas y requiere de estas una adaptación permanente a esas condiciones ambientales evolutivas. De esta manera, los procesos de reforma administrativa pasan por una acomodación activa de los enfoques y funcionamiento a esa cambiante realidad social. El nuevo papel de la administración requiere de una actitud activa de esta. En ese contexto, todos los países de nuestro entorno económico y social están implicados en procesos de modernización de administraciones públicas.
+ART. 17.- Son personas físicas los individuos, quienes adquieren la capacidad jurídica por el nacimiento y la pierden por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos expresamente declarados en el presente Código.
 
-21. Que el rol de los notarios es crucial para entender el sistema de derecho civil. De hecho, bien sea que se refiera a la creación de ciertas entidades legales, a la modificación de estatutos corporativos, a la escrituración o reforma de testamentos, al manejo de transacciones sobre propiedad inmobiliaria, o a la ejecución de actos relativos al derecho de familia, muy pocos actos legales de importancia que se ejecutan en países de derecho civil tienen lugar sin la intervención de un notario público.
+ART. 18.- Las incapacidades establecidas por la ley, sólo son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
-22. Que en los últimos siglos la sociedad ha experimentado muchos y muy profundos cambios en todos los órdenes y sin embargo, el notariado ha vivido esa larga etapa, conservando y desarrollando sus caracteres iniciales, pero también manteniendo y acrecentando su arraigo y su eficacia en la sociedad, sirviendo en todo tiempo y cada vez más intensamente a las necesidades individuales y colectivas.
+ART. 19.- El mayor de edad puede disponer libremente de su persona y de sus bienes, salvo las limitaciones establecidas por la ley.
 
-23. Que el notario es el funcionario imparcial que asesora en forma independiente a las partes, sin tener favoritismo hacia una de ellas; su compromiso es con la verdad y la legalidad. Además, informa acerca de cuál es el camino legal para conseguir un resultado lícito de la voluntad de los otorgantes, en diversos ámbitos. La función pública notarial ha sabido adaptarse a los cambios derivados de la globalización, los avances de la ciencia y la tecnología, por lo que la actualización constante de la persona del notario es un imperativo categórico para asegurar la vigencia de dicha institución.
+## TITULO SEGUNDO. De las Personas Morales
 
-24. Que la función notarial, actualmente, cuenta con el apoyo informático dentro de la oficina notarial y las conexiones tecnológicas que permiten actualizar las comunicaciones modernas a la distancia.
+ART. 20.- Son personas morales, y con tal carácter tienen entidad jurídica:
 
-25. Que la firma electrónica es el conjunto de datos que se adjuntan a un mensaje electrónico, cuyo propósito es identificar al emisor del mensaje como autor legítimo de éste, como si se tratara de la firma autógrafa.
+I.- La Nación, los Estados y los Municipios;
 
-26. Que la firma electrónica es un concepto jurídico, equivalente electrónico al de la firma manuscrita, donde una persona acepta el contenido de un mensaje digitalizado a través de cualquier medio electrónico válido, es decir, es el medio para crear el vínculo legal entre las partes no presentes que intervienen en la creación de un acto jurídico.
+II.- Las demás corporaciones de carácter público reconocidas por la Ley;
 
-27. Que la fiabilidad en la creación de la firma electrónica en general otorga certeza a la persona que la utiliza de que sólo ella la conoce, por lo que puede constituir fuente válida y cierta de obligaciones. Probado el método de su creación y de su ingreso al sistema de datos genera vínculo jurídico que torna incuestionable la autoría del titular que para desacreditarlo queda sólo la posibilidad de cuestionar la fiabilidad del método de su creación.
+III.- Las sociedades civiles y mercantiles;
 
-28. Que ante la importancia de que Querétaro cuente con un Registro Público de la Propiedad y un Archivo General de Notarías, modernos y eficientes, que constituyan un estandarte de legalidad, pero que de igual forma tengan procedimientos ágiles y seguros, que operen con tecnologías de la información a la vanguardia, resulta necesario para esta administración emprender acciones tendientes a la creación y la actualización del marco normativo bajo el cual se rigen las dichas instituciones como parte de los órganos que conforman la administración pública estatal. Lo anterior con la finalidad de poder brindar certeza jurídica a las personas respecto de su actuación. Por ello es preciso contar con el esquema de disposiciones que habrán de regular el funcionamiento, estructura, atribuciones y administración del Registro Público de la Propiedad y el Archivo General de Notarías, de conformidad con las disposiciones jurídicas aplicables.
+IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
 
-Por lo anteriormente expuesto, la Quincuagésima Novena Legislatura del Estado de Querétaro, expide la siguiente:
+V.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquier otro fin lícito, siempre que no fueren desconocidas por la ley.
 
-LEY QUE EXPIDE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO; Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO.
+VI.- Cualquiera otra asociación o agrupación a la que la ley conceda personalidad jurídica.
 
-# Libro Primero. Del Registro Público
+ART. 21.- Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos; y podrán ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
 
-## Título Primero. Disposiciones preliminares
+ART. 22.- Las personas morales obran y se obligan por medio de los órganos que las representen conforme a la ley, a su escritura constitutiva, o a sus estatutos.
 
-## Título Primero. Función, principios y vinculación
+## TITULO TERCERO. Del Domicilio
 
-## Título Segundo. Organización y atribuciones del Registro Público
+ART. 23.- Las personas físicas tienen su domicilio en el lugar donde residen con el propósito de establecerse en él; a falta de éste, el lugar donde tienen el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se encuentren. Es presunción del propósito de establecerse en un lugar, la residencia en él por más de seis meses; a menos que transcurridos éstos y dentro de los quince días siguientes, se manifieste tanto a la autoridad municipal del domicilio anterior, como a la autoridad municipal de la nueva residencia, que se desea conservar el primero. Esta declaración no producirá efectos en perjuicio de tercero.
 
-## Título Tercero. Sistemas de registro
+ART. 24.- Se llama domicilio legal el que la ley fija para determinadas personas, aún cuando de hecho no resida en él.
 
-### Capítulo Único. Disposiciones generales
+ART. 25.- Es domicilio legal:
 
-###### Artículo 1.
+I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad esté sujeto;
 
-La presente Ley es de orden público e interés social, tiene por objeto regular el sistema, funcionamiento y procesos del Registro Público de la Propiedad, y la administración y funcionamiento del Archivo General de Notarías, en el Estado de Querétaro.
+II.- Del menor que no esté sujeto a la patria potestad y del mayor incapacitado, el de su tutor;
 
-###### Artículo 2.
+III.- De los militares en servicio activo, el lugar en que estén destinados;
 
-Para efectos de la presente Ley se entenderá por:
+IV.- De los empleados públicos, el lugar en que desempeñen sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior;
 
-I. Anotación Preventiva: Es aquella con vigencia temporal ordenada por autoridad judicial o administrativa, para dar publicidad a lo que en el proceso o procedimiento se actúa y sus efectos jurídicos o sobre la inmovilización de las inscripciones de los bienes inmuebles;
+V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; pues por lo que ve a las anteriores, conservarán el último domicilio que hayan tenido.
 
-II. Anotación de referencia: Es aquella que se realiza para dar continuidad a una inscripción realizada en diverso antecedente registral;
+ART. 26.- Las personas morales tienen su domicilio en el lugar donde se encuentra establecida su administración.
 
-III. Archivo: A los documentos físicos, digitales y electrónicos que obran en el Registro Público;
+Las que tengan su administración fuera del Estado, pero que ejecuten actos jurídicos dentro de éste, por lo que ve a estos actos, se estimarán domiciliados en el lugar de la ejecución.
 
-IV. Archivo General: Al Archivo General de Notarías del Estado de Querétaro;
+Las sucursales que operen en distintos lugares de la matriz, tendrán su domicilio en esos lugares, para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
 
-V. Asiento: El registro en la Unidad Básica Registral de los actos jurídicos relacionados con dichas unidades, mediante inscripciones, anotaciones, notas de presentación, cancelaciones o rectificaciones por parte del Registrador;
+ART. 27.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-VI. Catastro: A la Dirección de Catastro de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro y, en su caso, al Catastro Municipal que corresponda.
+## TITULO CUARTO. Del Registro Civil
 
-VII. Calificación Registral: A la verificación que realiza el Registrador sobre el documento que ampara un acto jurídico, para su inscripción, anotación y demás asientos, respecto del cumplimiento de los requisitos de la normatividad aplicable;
+### CAPITULO I. Disposiciones Generales
 
-VIII. Código: Al Código Civil del Estado de Querétaro;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-IX. Datos Registrales: Los atributos para la identificación, ubicación, titularidad, características, situación jurídica, medidas y colindancias de un bien inmueble, así como los atributos de la personalidad asociados a una Unidad Básica Registral;
+ART. 28.- El Registro Civil es la Institución de carácter públiico (sic) y de interés social por el cual el Estado inscribe y da publicidad de los actos constitutivos o mdificativos (sic) del estado civil de las personas físicas en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, emancipación y muerte de los mexicanos y de los extranjeros residentes en el Territorio del Estado; de los actos del estado civil de los mexicanos efectuados en el extranjero; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o pérdida de capacidad para administrar bienes, y los demás que así lo exijan las leyes.
 
-X. Director: Al Director del Registro Público de la Propiedad;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XI. Director del Archivo: Al Director del Archivo General de Notarías;
+ART. 29.- El Registro Civil, mediante la inscripción de los actos constitutivos o modificativos del estado civil de las personas, hará que surtan efectos contra terceros, o que hagan prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones de fe de haber pasado en su presencia, sin perjuicio de las acciones que en contrario concedan las leyes.
 
-XII. Folio: Al expediente electrónico que contiene la información de los datos registrales y los asientos que afectan a cada Unidad Básica Registral, en el que se refieren sus antecedentes, al cual se le asignará una clave o número;
+Las declaraciones de los comparecientes hechas en cumplimiento de lo establecido por este Código hacen fe hasta que se pruebe lo contrario.
 
-XIII. Folios notariales: A las hojas foliadas y autorizadas en las que los Notarios asentarán sus instrumentos en términos de la Ley del Notariado del Estado de Querétaro;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XIV. Formas Precodificadas: Los formatos electrónicos que contienen los datos e información necesaria para llevar a cabo los asientos en el Registro Público;
+ART. 30.- El Registro Civil está constituído por la Dirección General del mismo, su Archivo Estatal y las Oficialías que determine el reglamento respectivo.
 
-XV. Firma Electrónica: El conjunto de datos y caracteres que identifican inequívocamente al firmante de la misma como autor legítimo de ésta, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, produciendo los mismos efectos jurídicos que la firma autógrafa;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XVI. Inscripción: Al asiento de actos jurídicos practicados en una Unidad Básica Registral para otorgarle la protección a un derecho y darle publicidad de manera definitiva a dichos actos;
+ART. 31.- En el Estado de San Luis Potosí, estará a cargo de los Oficiales del Registro Civil, o quienes ejerzan sus funciones, en su caso, autorizar los actos del estado civil y expedir constancias de las actas relativas a los casos a que se refiere el Artículo 28 de este Código.
 
-XVII. Ley del Notariado: A la Ley del Notariado del Estado de Querétaro;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XVIII. Nota de presentación: Es el asiento practicado por el Registrador en los folios que correspondan, ordenado por la autoridad competente para asentar la interposición del recurso de revisión en contra de la negativa de inscripción, anotación y demás asientos, a fin de salvaguardar su prelación hasta en tanto sea resuelto el recurso en cuestión;
+ART. 32.- Las actas a que se refiere el Artículo 28, se asentarán en formas especiales, que se denominarán "Formas de Registro Civil", las que una vez utilizadas se encuadernarán en volúmenes que correspondan al año a que se refieran.
 
-XIX. Reglamento: Al Reglamento del Registro Público de la Propiedad del Estado de Querétaro;
+Las inscripciones se harán mecanográficamente y por cuadruplicado.
 
-XX. Registrador: Al Director y Subdirectores del Registro Público de la Propiedad del Estado de Querétaro;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XXI. Registro Público: Al Registro Público de la Propiedad del Estado de Querétaro;
+ART. 33.- Los Oficiales del Registro Civil o quienes ejerzan sus funciones, tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-XXII. Secretaría de Gobierno: A la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XXIII. Secretario de Gobierno: Al Secretario de Gobierno del Poder Ejecutivo del Estado de Querétaro;
+ART. 34.- En las actas del Registro Civil intervendrán el Oficial del Registro Civil o funcionario que deba autorizarlas, los particulares interesados o sus representantes legales, en su caso, así como los testigos que deban concurrir; las actas deberán ser firmadas en el espacio correspondiente en las que además se imprimirá el sello de la Oficialía que corresponda.
 
-XXIV. Sistema Integral Registral: Al sistema informático mediante el cual se realizan los procesos del Registro Público; y
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-XXV. Unidad Básica Registral: Al bien inmueble, persona jurídica o en su caso acto o hecho jurídico que conforme a la ley sea susceptible de inscripción, al que se le asigna un folio único e independiente de su antecedente y que cuenta con historial jurídico propio.
+ART. 35.- Las formas del Registro Civil serán suministradas por la Dirección del Registro Civil, de acuerdo con las necesidades que en número se requieran.
 
-###### Artículo 3.
+De las actas que se levanten en las formas mencionadas, los Oficiales del Registro Civil, entregarán una copia de ellas al interesado, el original quedará en al (sic) archivo de la Oficialía, y dos se remitirán a la Dirección del Registro Civil para que conserve una y la otra la envíe a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación.
 
-El Director del Registro Público será también Director del Archivo General.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-###### Artículo 4.
+ART. 36.- Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que correspondan y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas, en su caso, de acuerdo con las formas impresas que al efecto se establezcan.
 
-A falta de disposición expresa, se aplicará supletoriamente la Ley de Procedimientos Administrativos del Estado de Querétaro, el Código, la Ley del Notariado y las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-###### Artículo 5.
+ART. 37.- Si se perdiere o destruyere alguna de las formas del Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial y del Director del Registro Civil, para cuyo efecto, el funcionario titular de la Oficialía donde ocurra la pérdida, dará el aviso correspondiente a la Dirección, así como al Ministerio Público.
 
-El Registro Público y el Archivo General podrán reconocer para sus trámites con firma electrónica, certificados digitales expedidos por autoridades certificadoras autorizadas.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-Los servidores públicos del Registro Público y el Archivo general podrán utilizar su firma electrónica en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que deban notificar.
+ART. 38.- En relación con las actas del Registro Civil, se formará un apéndice, constituído por los documentos a que se refieren aquéllas, toda persona puede solicitar certificación de las actas y de los documentos del apéndice.
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-El Director podrá emitir autorizaciones a Notarios del Estado y a autoridades locales que lo soliciten, para realizar trámites electrónicos ante el Registro Público y el Archivo General.
+ART. 39.- El estado civil de las personas sólo se comprueba con las constancias relativas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
 
-###### Artículo 7.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-El procedimiento y requisitos para los trámites electrónicos en el Registro Público y el Archivo General se sujetarán a las disposiciones administrativas que emita el Director, en los cuales se deberá incluir las medidas de seguridad necesarias.
+ART. 40.- Los vicios o defectos que por error u omisión, existan en las actas y de ellos sean atribuibles al Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; pero cuando no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-###### Artículo 8.
+La enmienda o corrección se hará mediante anotación marginal en el acta de que se trate.
 
-El Registro Público y el Archivo General, promoverán la capacitación, actualización y profesionalización de su personal.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-###### Artículo 9.
+ART. 41.- Cuando no hayan existido registros, se hubieren perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, se podrá recibir prueba del acto por instrumentos o testigos; pero si una sola de las actas del Registro se hubiere inutilizado y existan los otros ejemplares, de éstos deberá tomarse la prueba sin admitirla de otra clase.
 
-El pago de derechos por los servicios prestados por el Registro Público y el Archivo General se hará de conformidad con lo establecido en la Ley de Hacienda del Estado de Querétaro y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-### Capítulo Primero. Función del Registro Público
+ART. 42.- Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentren o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijos fuera de matrimonio sólo podrá hacerse personalmente.
 
-###### Artículo 10.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-El Registro Público tiene la función de dar publicidad a los actos debidamente registrados ante el mismo, con la finalidad de producir efectos frente a terceros y otorgar seguridad jurídica.
+ART. 43.- Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles, en cuanto a su legalización, debiendo inscribirse estos actos en la Oficialía correspondiente.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-La operación del Registro Público se llevará a cabo a través del Sistema Integral Registral, mediante el uso de formas precodificadas para la realización de los procesos registrales consistentes en inscripción, certificación, así como el de publicidad y consulta, de conformidad con esta Ley, el Reglamento y demás disposiciones jurídicas aplicables.
+ART. 44.- Los actos y actas del Registro Civil relativos al Oficial del Registro, a su cónyuge y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los mismos formatos, y se autorizarán por el Presidente Municipal del lugar.
 
-### Capítulo Segundo. Principios registrales
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-###### Artículo 12.
+ART. 45.- Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Presidentes Municipales del Lugar.
 
-Las actividades del Registro Público se sujetarán a los siguientes principios registrales:
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-I. Principio de Consentimiento: Consiste en la necesidad de la expresión de la voluntad acreditada fehacientemente, de quien se encuentre facultado para ello, a fin de que se afecte el asiento del derecho del que es titular, sin perjuicio de las facultades conferidas a las autoridades competentes;
+ART. 46.- La Secretaría General de Gobierno, el órgano superior del Registro Civil, quien por medio de la Dirección del Registro Civil y de los Agentes del Ministerio Público, cuidará del funcionamiento del mismo. Cualquier falta administrativa cometida por los Oficiales del Registro Civil y de la Dirección del mismo, y que no estén penados especialmente, se castigará por la propia Secretaría, con multa hasta de 5 días de salario mínimo de la zona de la infracción, y podrá igualmente solicitar al Ejecutivo, el cese del funcionario infractor, en los casos que así proceda.
 
-II. Principio de Especialidad o Determinación: Obligación del Registrador de asentar de manera precisa los bienes, derechos u obligaciones de que se trate, así como los titulares de los mismos, especificando adecuada y suficientemente sus características y contenido, de tal forma que registralmente se identifiquen de manera inequívoca;
+### CAPITULO II. De las Actas de Nacimiento
 
-III. Principio de Fe Pública Registral: Consiste en que el derecho registrado se presume que existe y que pertenece a su titular, en la forma expresada por el asiento respectivo, por lo que las inscripciones o anotaciones en el Registro Público surten plenamente sus efectos frente a terceros. Las certificaciones que se expidan, tienen valor probatorio pleno, en juicio y fuera de él;
+ART. 47.- Las declaraciones de nacimiento se harán presentando al niño ante el oficial del registro civil, en su oficina o en la casa donde aquél se encuentre.
 
-IV. Principio de Inscripción: Atribución del Registrador de asentar, conforme a las normas jurídicas, los actos y hechos jurídicos, a fin de que surtan efectos frente a terceros;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
-V. Principio de Legalidad: Solo son inscribibles los actos, hechos o documentos que cumplan con los requisitos establecidos en las disposiciones jurídicas aplicables;
+ART. 48.- Tienen obligación de declarar el nacimiento, los padres, dentro del término de ciento ochenta días de ocurrido aquél.
 
-VI. Principio de Legitimación: Consiste en que los derechos inscritos en el Registro Público, tienen la presunción de veracidad y exactitud, salvo prueba en contrario y mediante resolución judicial o administrativa; por lo que al titular de los derechos que aparecen inscritos, se le considera legitimado sobre los mismos;
+(REFORMADO, P.O. 26 DE ENERO DE 1990) (F. DE E., P.O. 9 DE FEBRERO DE 1990)
 
-VII. Principio de Prioridad o Prelación: Otorga al título o documento ingresado en el Registro Público, y que haya cubierto el pago de derechos correspondiente, una eficacia excluyente o preferente, sobre el que ingresa con posterioridad; de forma tal que la preferencia en la inscripción o anotación relativa al mismo bien o derecho, se establecerá por el orden de la presentación de los títulos o documentos respectivos ante el Registro Público, cualquiera que sea la fecha de su constitución, tomando para ello en cuenta el día, la hora, minuto y segundo de dicha presentación;
+ART. 49.- Los padres que estando obligados a declarar el nacimiento, lo hacen fuera del término fijado en el artículo anterior, serán sancionados con una multa correspondiente de hasta un día de salario mínimo, que impondrá la autoridad municipal del lugar donde se haga la declaración extemporánea de nacimiento.
 
-VIII. Principio de Publicidad: Consiste en que los actos y hechos jurídicos inscritos o anotados en el Registro Público, sean susceptibles del conocimiento público, y surtan efectos frente a terceros; por lo que cualquier persona podrá consultar y solicitar, se le muestren los asientos registrales;
+ART. 50.- En las poblaciones en que no haya oficial del registro civil, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará las constancias respectivas que los interesados llevarán al oficial del registro que corresponda, para que asiente el acta.
 
-IX. Principio de Rogación: El asiento en folios solo procederá a petición de parte interesada y legitimada, mandato judicial o de autoridad administrativa competente, salvo que exista disposición legal en contrario; y
+ART. 51.- El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
 
-X. Principio de Tracto Sucesivo: Para la inscripción de un derecho en el Registro Público, se requiere que el derecho del transmitente u otorgante, se encuentre previamente inscrito en el mismo, reflejando un historial completo, concatenado y en orden de cada Unidad Básica Registral.
+Sí éste se presenta como hijo de padres desconocidos, el oficial del registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
 
-### Capítulo Tercero. Coordinación del Registro Público y Catastro
+ART. 52.- Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación.
 
-###### Artículo 13.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
 
-El Registro Público y el Catastro deberán coordinarse con el propósito de diseñar y operar mecanismos que sirvan para los siguientes fines:
+ART. 53.- La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación se proporciona el nombre de la madre, se pondrá éste, si no se proporciona se hará constar esta circunstancia; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones de éste Código. Cuando figure el nombre de los padres, se hará constar en el acta de nacimiento, las generales de éstos.
 
-I. Reforzar la seguridad jurídica en materia inmobiliaria;
+Queda absolutamente prohibido asentar en el acta, que el hijo es natural o nacido fuera del matrimonio.
 
-II. Coadyuvar en la integración y actualización de sus bases de datos; y
+ART. 54.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del oficial del registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
-III. Homologar su información.
+ART. 55.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
 
-###### Artículo 14.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1977)</small>
 
-El Registro Público y el Catastro procurarán que cada inmueble cuente con una cédula catastral y registral que contenga los datos registrales y la información catastral.
+No se expresará en el acta que el hijo es adulterino.
 
-### Capítulo Único. Dirección del Registro Público
+ART. 56.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el oficial del registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-###### Artículo 15.
+ART. 57.- Los padres de un hijo incestuoso podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará que es incestuoso.
 
-El Registro Público estará a cargo de un Director que será nombrado por el titular de la Secretaría de Gobierno.
+ART. 58.- Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al oficial del registro civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
-###### Artículo 16.
+ART. 59.- La misma obligación tienen los jefes, directores o administradores de las prisiones o de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
 
-La Dirección del Registro Público tendrá su sede en la capital del Estado y contará con las Subdirecciones y demás unidades administrativas para el cumplimiento de sus atribuciones de conformidad con las disposiciones jurídicas aplicables y la suficiencia presupuestaria.
+ART. 60.- En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 58, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan y el nombre de la persona o casa de expósitos que se encarguen de él.
 
-###### Artículo 17.
+ART. 61.- Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento permitido de aquél, se depositarán en el archivo del registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
-Los requisitos para ser Director del Registro Público son los siguientes:
+ART. 62.- Se prohibe absolutamente al oficial del registro civil y a los testigos que conforme al artículo 51 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+ART. 63.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
-II. Haber residido en el Estado, por lo menos cinco años antes de su designación;
+ART. 64.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
-III. Contar con Título de Licenciado en Derecho, legalmente expedido y registrado;
+ART. 65.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
-IV. Tener al menos cinco años de ejercicio profesional;
+ART. 66.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
-V. Tener experiencia profesional en las materias de Derecho Registral, Notarial y Administrativo;
+ART. 67.- Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al oficial del registro civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 48, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
-VI. No haber sido condenado por delito doloso; y
+ART. 68.- Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
 
-VII. Contar con amplia solvencia moral y reconocido prestigio profesional.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1977)</small>
 
-###### Artículo 18.
+ART. 69.- Cuando en un mismo parto se produzca más de un nacimiento, se asentará por separado el nombre de cada uno de los nacidos, siguiendo un orden progresivo de nacimiento.
 
-Para ser Subdirector del Registro Público se deberá cumplir con los requisitos previstos en el artículo anterior, a excepción de los años de práctica profesional, que serán de tres años.
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 1977)</small>
 
-Los Subdirectores del Registro Público serán designados por el Secretario de Gobierno del Poder Ejecutivo del Estado.
+### CAPITULO III. De las Actas de Reconocimiento de Hijos Nacidos Fuera de Matrimonio
 
-###### Artículo 19.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
 
-El Director tendrá las siguientes atribuciones:
+ART. 70.- Si el padre o la madre de un hijo sin estar unidos en matrimonio civil, o ambos, lo reconocieren al presentarlo dentro del término de Ley para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores, los generales del progenitor o progenitores que lo reconozcan, así como el nombre de los abuelos respecto del padre o la madre que aparezcan en el acta. Esta acta surtirá los efectos del reconocimiento.
 
-I. Ejercer la fe pública registral en el Estado;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
 
-II. Planear, organizar, coordinar, dirigir, controlar y evaluar los servicios en las subdirecciones y oficinas registrales en el Estado;
+ART. 71.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere el artículo que precede, se hará constar la declaración del reconocimiento de quien lo haga, y el consentimiento del reconocido si es mayor de 14 años. Si es menor de esta edad, el consentimiento lo dará quien ejerza la patria potestad y en todo caso el Ministerio Público.
 
-III. Autorizar con su firma y sello, o en su caso firma electrónica, los asientos, constancias, certificaciones y todos los demás actos jurídicos que por sus funciones le correspondan;
+En estas actas queda prohibido expresar que el hijo es natural o nacido fuera de matrimonio.
 
-IV. Designar y remover al personal necesario para el debido cumplimiento de las funciones del Registro Público, a excepción de los subdirectores;
+Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esta presentación se haya hecho fuera del término de Ley.
 
-V. Determinar, gestionar e instrumentar los recursos tecnológicos necesarios para el adecuado funcionamiento del Registro Público;
+Cuando se observe que en una acta, aún las no autorizadas, se hace mención de cualquiera de las expresiones prohibidas por este Código, se testarán éstas por el Oficial del Registro Civil, de oficio o a petición de parte, de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
 
-VI. Informar periódicamente al Secretario de Gobierno, sobre las actividades realizadas en el Registro Público;
+ART. 72.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del registro el original o copia certificada del documento que lo compruebe, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV del título séptimo de este libro.
 
-VII. Dictar las medidas necesarias para eficientar las actividades del Registro Público, promoviendo el desarrollo administrativo y tecnológico de los procesos registrales;
+ART. 73.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
 
-VIII. Administrar y supervisar la actualización permanente del Sistema Integral Registral, propiciando la interoperabilidad de la información registral con otras dependencias, entidades e instituciones, con el objeto de consolidar una base de datos registral y la unificación de criterios en materia de administración territorial, catastral y registral del Estado;
+ART. 74.- En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
 
-IX. Implementar y mantener la operación de los Sistemas de Gestión de Calidad y de Seguridad de la Información en el Registro Público;
+ART. 75.- Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levantó el acta de nacimiento, el oficial del registro civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
 
-X. Expedir los acuerdos, lineamientos, manuales y demás disposiciones administrativas que se requieran para el cumplimiento eficiente de las funciones del Registro Público;
+### CAPITULO IV. De las Actas de Adopción
 
-XI. Emitir las disposiciones administrativas para la inscripción y certificación electrónica;
+ART. 76.- Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al oficial del registro civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
 
-XII. Elaborar y presentar al Secretario de Gobierno, propuestas de programas institucionales para la prestación del servicio registral y favorecer la constante mejora y actualización del Registro Público, de conformidad con las disposiciones jurídicas aplicables;
+ART. 77.- La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 73.
 
-XIII. Representar al Registro Público en los procesos judiciales, civiles, penales, mercantiles, administrativos, juicio de amparo o de cualquier otra naturaleza ante una autoridad, sin perjuicio de las facultades de representación que pudieran corresponder a otras instancias del Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
-XIV. Fomentar la modernización de la prestación de los servicios que ofrece el Registro Público, así como los trámites, requisitos y formatos para acceder a los mismos, en términos de las disposiciones aplicables;
+ART. 78.- El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción. En los casos de adopción plena, se cancelará el acta de nacimiento del adoptado, si es que existe, y en su lugar se levantará acta de nacimiento que contendrá los datos del adoptado, del o los padres adoptivos, y los ascendientes de éstos, así como de los testigos de ese acto.
 
-XV. Comisionar a los servidores públicos que estime conveniente para el desahogo de las cargas de trabajo que se presenten en las subdirecciones y oficinas registrales;
+ART. 79.- Extendida el acta de la adopción, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
 
-XVI. Designar al personal del Registro Público que realizará funciones de notificador;
+ART. 80.- El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al oficial del registro civil, para que cancele el acta de adopción y anote la de nacimiento.
 
-XVII. Autorizar el formato y mecanismos de seguridad de las certificaciones;
+### CAPITULO V. De las Actas de Tutela
 
-XVIII. Autorizar la creación, utilización y modificación del formato electrónico que permitirá la identificación de la Unidad Básica Registral, así como las formas precodificadas con que operará el Registro Público;
+ART. 81.- Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al oficial del registro civil, para que levante al acta respectiva. El curador cuidará del cumplimiento de este artículo.
 
-XIX. Mantener comunicación constante con el Consejo de Notarios del Estado de Querétaro, corredores públicos, asociaciones de abogados, instituciones crediticias, cámaras de comercio y de la industria de la construcción, así como con organismos públicos y privados relacionados con la función registral;
+ART. 82.- La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y al curador en los términos que establece el artículo 73.
 
-XX. Certificar las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos digitales, electrónicos o magnéticos y demás documentos que obren en los archivos y expedientes del Registro Público;
+ART. 83.- El acta de tutela contendrá:
 
-XXI. Expedir constancias y certificaciones registrales, en los términos de las disposiciones aplicables; y
+I.- El nombre, apellido y edad del incapacitado;
 
-XXII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+II.- La clase de incapacidad por la que se haya diferido la tutela;
 
-###### Artículo 20.
+III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
 
-Para el ejercicio de sus funciones el Director se auxiliará de Subdirectores que estarán a cargo de las oficinas registrales.
+IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
 
-Los Subdirectores ejercerán la fe pública registral respecto de los asuntos que correspondan a la oficina de su adscripción y tendrán las atribuciones que se determinen en el Reglamento.
+V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
 
-Las oficinas registrales se establecerán en las poblaciones que determine el Reglamento.
+VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
 
-### Capítulo Primero. Sistema Integral Registral
+ART. 84.- Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del registro, lo prevenido en el artículo 75.
 
-###### Artículo 21.
+> <small>(DEROGADO, P.O. 20 DE JULIO DE 1975)</small>
 
-El Registro Público funcionará con un sistema informático denominado Sistema Integral Registral.
+### CAPITULO VI. De las Actas de Emancipación
 
-###### Artículo 22.
+ART. 85.- En los casos de emancipación por efecto del matrimonio no se formará acta separada; el oficial del registro civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
-El Sistema Integral Registral operará con las bases de datos, equipos y comunicaciones necesarias para realizar los procesos registrales.
+ART. 86.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-###### Artículo 23.
+ART. 87.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-El Sistema Integral Registral se compone de lo siguiente:
+ART. 88.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-I. Un control de gestión;
+### CAPITULO VII. De las Actas de Matrimonio
 
-II. Los módulos necesarios para llevar a cabo los procesos registrales;
+ART. 89.- Las personas que pretendan contraer matrimonio presentarán un escrito al oficial del registro civil del domicilio de cualquiera de ellas, que exprese:
 
-III. La infraestructura tecnológica que permita proporcionar la información correspondiente para la vinculación con las diferentes dependencias; y
+I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, sí éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
-IV. Los demás elementos que sean necesarios para el funcionamiento del Registro Público.
+II.- Que no tiene impedimento legal para casarse, y
 
-### Capítulo Segundo. Sistema de folios
+III.- Que es su voluntad unirse en matrimonio.
 
-###### Artículo 24.
+Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
 
-El sistema registral en folios se integrará por las secciones siguientes:
+ART. 90.- Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I. Inmobiliaria;
+I.- El acta de nacimiento de los pretendientes y en su defecto dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
 
-II. Personas morales;
+II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 133, 134 y 135;
 
-III. Sucesoria;
+III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV. Única de ordenamiento territorial; y
+IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
 
-V. Los demás que establezcan otras disposiciones jurídicas aplicables.
+Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial o en su defecto los médicos que tuvieren cualquier empleo del Estado;
 
-###### Artículo 25.
+V.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
-Al asignarse cada folio, se le dará el número progresivo que le corresponda, el cual servirá para los efectos de su orden consecutivo en los archivos y será también el número de identificación registral del bien inmueble o de la persona moral que corresponda.
+VI.- Copia de la dispensa de impedimentos, si los hubo.
 
-Los datos de identificación del bien o persona moral inscrita, se asentarán en la carátula respectiva.
+ART. 91.- El oficial del registro civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 90 serán ratificadas bajo la protesta de decir verdad, ante el mismo oficial del registro civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
-###### Artículo 26.
+ART. 92.- El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el oficial del registro civil.
 
-En la carátula del folio se describirá la Unidad Básica Registral y sus antecedentes.
+ART. 93.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el oficial del registro civil, los pretendientes o sus apoderados especiales constituídos en la forma prevenida en el artículo 37 y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-El contenido de la carátula del folio se establecerá en el Reglamento.
+Acto contínuo, el oficial del registro civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y la sociedad.
 
-###### Artículo 27.
+ART. 94.- Se levantará luego el acta de matrimonio en la cual se hará constar:
 
-Los actos que se registren en los folios contendrán lo siguiente:
+I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
-I. El número de entrada;
+II.- Si son mayores o menores de edad;
 
-II. La fecha y hora de registro;
+III.- Los nombres, apellidos, ocupación y domicilio de los padres;
 
-III. La naturaleza del acto de que se trate; y
+IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
 
-IV. Los demás elementos que establezcan las disposiciones jurídicas aplicables.
+V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-### Capítulo Primero. Proceso de inscripción
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el oficial del registro en nombre de la ley y de la sociedad;
 
-###### Artículo 28.
+VII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
 
-El proceso de inscripción se llevará a cabo en los folios con las etapas de recepción, calificación y emisión de constancia de registro.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
 
-Los requisitos de las etapas del proceso de inscripción se establecerán en el Reglamento y demás disposiciones jurídicas aplicables.
+VIII.- Cuando los contrayentes o alguno de ellos fuera menor de edad, el Oficial del Registro Civil anotará en las o la acta respectiva de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
 
-###### Artículo 29.
+El acta será firmada por el oficial del registro civil, los contrayentes, los testigos y las demás personas que hubieren intervenido, si supieren y pudieren hacerlo.
 
-El documento presentado para su inscripción deberá expresar los antecedentes registrales de los bienes o derechos objeto de la inscripción.
+Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
-###### Artículo 30.
+ART. 95.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 90, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por los padres o tutores de los pretendientes.
 
-No podrá hacerse ninguna inscripción, anotación y demás asientos en forma abstracta o general, sino siempre en forma concreta y especial, tanto por lo que respecta al inmueble y el derecho de que se trate, como en cuanto a la persona titular o de quienes hayan intervenido en la celebración del acto respectivo.
+ART. 96.- El oficial del registro civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en la acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al juez de primera instancia que corresponda, para que haga la calificación del impedimento.
 
-###### Artículo 31.
+ART. 97.- Las denuncias del impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
-Para inscribir cualquier título, deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar afectada por el registro, a no ser que se trate de una inscripción de inmatriculación.
+ART. 98.- Antes de remitir el acta al juez de primera instancia, el oficial del registro civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
 
-Las escrituras de adjudicación por herencia no se inscribirán, sin antes estar registrados los bienes adjudicados en favor del autor de la sucesión de que se trate.
+ART. 99.- Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el oficial del registro civil dará cuenta a la autoridad judicial de primera instancia que corresponda y suspenderá todo procedimiento hasta que ésta resuelva.
 
-###### Artículo 32.
+ART. 100.- Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
-Cuando se trate de documentos que impliquen adquisiciones o modificaciones de bienes inmuebles, así como de la constitución de servidumbres sobre éstos, deberá presentarse un plano detallado y legible de los mismos, en el que conste la identificación del bien, modificación o afectación correspondiente, con su superficie, medidas y colindancias, debiendo contar con las autorizaciones administrativas respectivas.
+ART. 101.- El oficial del registro civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
 
-En el registro de fracciones de terreno deberán especificarse las medidas y colindancias de cada una de ellas, así como las del predio restante, cada una de las fracciones deberá de contar con su clave catastral.
+ART. 102.- Los oficiales del registro civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
 
-El plano deberá emitirse por perito autorizado, en términos de las disposiciones jurídicas aplicables.
+ART. 103.- El oficial del registro civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez con una multa de cien pesos y en caso de reincidencia, con la destitución de su cargo.
 
-###### Artículo 33.
+ART. 104.- El oficial del registro civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-En el supuesto de discrepancia entre el bien o derecho materia de la inscripción o anotación, con sus antecedentes registrales, podrá acreditarse la identidad del inmueble con documentos oficiales idóneos, como el plano o cédula catastral, siempre y cuando la superficie y medidas no se incrementen o se modifiquen de tal forma que afecten los intereses de terceros.
+También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 90.
 
-###### Artículo 34.
+### CAPITULO VIII. De las Actas de Divorcio
 
-El Registrador no juzgará la legalidad de la orden judicial o administrativa que ordene una inscripción o asiento.
+ART. 105.- La sentencia ejecutoria que decrete un divorcio se remitirá en copia al oficial del registro civil para que levante el acta correspondiente.
 
-El incumplimiento de los requisitos formales para la inscripción, autoriza que el Registrador comunique a la autoridad, la existencia de un impedimento para la realización de inscripción. Si, a pesar de tal circunstancia, la autoridad reitera la orden, se procederá con la realización del asiento.
+ART. 106.- En el acta de divorcio se expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio y la parte resolutiva de la sentencia que haya decretado el divorcio.
 
-###### Artículo 35.
+ART. 107.- Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales o administrativas pronunciadas en otra entidad federativa, sólo se registrarán cuando así lo ordene una autoridad judicial o administrativa competente en el Estado de Querétaro y cumplan los requisitos previstos en las disposiciones jurídicas aplicables.
+### CAPITULO IX. De las Actas de Defunción
 
-Los pronunciados en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
 
-I. Que tengan el carácter de inscribibles conforme a las disposiciones de esta Ley y requieran necesariamente su inscripción en el país de que se trate;
+ART. 108.- El destino de los cadáveres, puede ser por inhumación, cremación, embalsamiento u otro que permita la Ley de Salud; pero en cualquiera de los casos señalados, será el Oficial del Registro Civil quien asiente el Acta de Defunción, el que disponga y dé por escrito la orden, para el tratamiento de los restos, y siempre, respetando los términos y condiciones que ordena la propia Ley de Salud.
 
-II. Que estén debidamente legalizados y, en su caso, traducidos por perito oficial; y
+ART. 109.- En el acta de fallecimiento se asentarán los datos que el oficial del registro civil adquiera, o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquél en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
 
-III. Si fueran resoluciones judiciales, que se ordene su inscripción por la autoridad local que corresponda, quien deberá observar que no están en desacuerdo con las leyes mexicanas.
+ART. 110.- El acta de fallecimiento contendrá:
 
-###### Artículo 36.
+I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
 
-Un inmueble no podrá estar inscrito a la vez en favor de dos o más personas, a menos que éstas sean copropietarias.
+II.- El estado civil de éste y si era casado o viudo, el nombre y apellido de su cónyuge;
 
-#### Sección Primera. Efectos del registro
+III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos y si fueren parientes, el grado en que lo sean;
 
-###### Artículo 37.
+IV.- Los nombres de los padres del difunto si se supiese;
 
-Los documentos que conforme a la ley deben registrarse y no se registren, solo producirán efectos entre quienes los otorguen, pero no podrán producir perjuicios a terceros, el cual sí podrá aprovecharse en cuanto le fueren favorables.
+V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulta el cadáver, y
 
-###### Artículo 38.
+VI.- La hora de la muerte, si se supiere y todos los informes que se tengan en caso de muerte violenta.
 
-Las inscripciones, anotaciones y demás asientos efectuados en el Registro Público sólo tienen efectos declarativos y no constitutivos.
+ART. 111.- Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al oficial del registro civil, dentro de las veinticuatro horas siguientes a la muerte.
 
-###### Artículo 39.
+ART. 112.- Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del registro, la autoridad municipal extenderá la constancia respectiva que remitirá al oficial del registro civil que corresponda, para que asiente el acta.
 
-El derecho registrado se presume que existe y que pertenece a su titular, en la forma expresada por el asiento respectivo.
+ART. 113.- Cuando el oficial del registro civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos lo informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial o el Ministerio Público averigüe un fallecimiento, dará parte al oficial del registro civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al oficial del registro civil para que los anote al margen del acta.
 
-Se presume que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
+ART. 114.- En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
 
-No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+ART. 115.- Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic) y las demás noticias que sobre el suceso puedan adquirirse.
 
-###### Artículo 40.
+ART. 116.- (DEROGADO, P.O. 22 DE MAYO DE 1977)
 
-En caso de procedimiento judicial o administrativo contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registrador, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro Público.
+ART. 117.- Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al oficial del registro civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
 
-###### Artículo 41.
+ART. 118.- El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al oficial del registro civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el oficial del registro civil observará en este caso lo dispuesto en el artículo anterior.
 
-Para que surtan efectos los asientos registrales, deberán contener nombre, sello y firma autógrafa o firma electrónica del Registrador.
+ART. 119.- Los Tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al oficial del registro civil del lugar donde se haya verificado la ejecución. Esa noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
 
-###### Artículo 42.
+ART. 120.- En todos los casos de muerte violenta en las prisiones o en las casas de detención y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 110.
 
-Las inscripciones o anotaciones no convalidan los actos o contratos que sean nulos con arreglo a las leyes.
+ART. 121.- En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que consta ésta.
 
-No obstante lo dispuesto en el párrafo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro Público aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+### CAPITULO X. Inscripciones de las Ejecutorias que declaren Incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
 
-Lo dispuesto en el párrafo anterior no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+ART. 122.- Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al oficial del registro civil que corresponda, copia certificada de la ejecutoria respectiva.
 
-###### Artículo 43.
+ART. 123.- El oficial del registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
 
-Los asientos señalados en el artículo anterior, así como las cesiones de derechos, sólo se llevarán a cabo cuando el predio de que se trate estuviere registrado a favor de la persona que constituya el derecho o en contra de la cual se hubiere decretado la providencia.
+ART. 124.- Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del registro civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-###### Artículo 44.
+### CAPITULO XI. De la rectificación de las Actas del Registro Civil
 
-En los casos en que se modifique la nomenclatura de las calles, la denominación de la colonia, fraccionamiento o condominio, la numeración de las fincas, o cualquier otro dato de identificación exterior de la unidad básica registral, los interesados podrán solicitar la modificación relativa en la carátula del folio correspondiente, mediante constancia expedida por autoridad competente, que acredite lo anterior.
+ART. 125.- La rectificación o modificación de una acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-###### Artículo 45.
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1978)</small>
 
-En los casos en los que se lleve a cabo la subdivisión de un inmueble inscrito en el Registro Público, las fracciones resultantes serán inscritas como nuevos predios y se les asignará un nuevo folio a cada uno de ellos, realizando en el folio anterior una anotación de referencia con el fin de conservar el historial registral.
+No obstante lo anterior, podrá modificarse una acta por enmienda administrativa en los casos a que se refieren los artículos 40 de este Código y 8o. del Reglamento respectivo.
 
-Cuando dos o más predios sean fusionados, se asignará un nuevo folio al predio resultante de ésta, haciéndose la anotación de referencia respectiva en los folios anteriores con el fin de conservar el historial registral.
+ART. 126.- Ha lugar a pedir la rectificación:
 
-###### Artículo 46.
+I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
-Para el registro de la subdivisión de un inmueble, deberá presentarse la documentación siguiente:
+II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
 
-I. La autorización de subdivisión emitida por la autoridad competente;
+ART. 127.- Pueden pedir la rectificación de una acta del estado civil:
 
-II. Dos ejemplares de los planos de lotificación debidamente autorizados y coincidentes con el documento objeto de inscripción acotados, así como dejar constancia de la superficie, medidas y linderos de las manzanas o lotes para que éstas o aquellos sean inscritos como nuevas fincas; y
+I.- La persona de cuyo estado se trata;
 
-III. La demás documentación que establezcan las disposiciones jurídicas aplicables.
+II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
 
-En el supuesto de incumplimiento de los requisitos precisados en las fracciones anteriores, no se registrará la subdivisión de fracción alguna.
+III.- Los herederos de las personas comprendidos en las dos fracciones anteriores;
 
-###### Artículo 47.
+IV.- Los que según los artículos 308, 309 y 310, pueden continuar o intentar la acción de que en ellos se trata.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiera presentado en la Subdirección correspondiente, salvo lo dispuesto en el artículo siguiente.
+ART. 128.- El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
-###### Artículo 48.
+ART. 129.- La sentencia que cause ejecutoria se comunicará al oficial del registro civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se vaya a otorgar el instrumento, podrá solicitar al Registro Público certificado sobre la existencia e inexistencia de gravámenes en relación con los mismos.
+## TITULO QUINTO. Del Matrimonio
 
-La solicitud del certificado sobre la existencia e inexistencia de gravámenes surtirá efectos de aviso preventivo a partir de su presentación.
+### CAPITULO I. De los requisitos para contraer Matrimonio
 
-La presentación de la solicitud precisada en el párrafo anterior, deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El Registrador practicará una anotación en el folio correspondiente, cuya vigencia se extenderá hasta los treinta días naturales contados a partir de la fecha de emisión del certificado.
+ART. 130.- El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el primer párrafo de este artículo, el notario ante quien se otorgó, dentro del plazo de vigencia del aviso preventivo, dará aviso definitivo al Registro Público respecto de la operación de que se trate, el que contendrá, además de los datos mencionados en el párrafo anterior, el número y la fecha de la escritura, así como la de su firma.
+La ley no reconoce esponsales de futuro.
 
-El Registrador, con el aviso definitivo, practicará la anotación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales, a partir de la fecha de presentación del aviso definitivo. Si éste se presenta dentro de la vigencia establecida para el aviso preventivo, sus efectos se retrotraerán a la fecha de presentación de la solicitud del aviso preventivo; en caso contrario sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que le corresponda.
+ART. 131.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-En el supuesto de que el testimonio respectivo se presente al Registro Público dentro de cualquiera de los plazos señalados anteriormente, su inscripción surtirá efectos frente a terceros desde la fecha de presentación del aviso preventivo o en su caso, desde la fecha de presentación del aviso definitivo, con arreglo a sus números de entrada.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 1948)</small>
 
-En el supuesto de que el testimonio se presente cuando se encuentren vencidos los referidos plazos, su inscripción únicamente surtirá efectos desde la fecha y hora de su presentación.
+ART. 132.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas. La misma Autoridad podrá conceder la dispensa del impedimento de que se ocupa la parte final de la Fracción III del artículo 140 de este Código.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el primer párrafo de este artículo fuere privado, deberá dar aviso definitivo el notario o en su caso, con arreglo a la ley, la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo supuesto el aviso en cuestión surtirá los mismos efectos que el dado por los notarios respecto de instrumentos públicos.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Los documentos que se presenten para su registro en los folios en que aparezca un aviso preventivo o definitivo, no serán motivo de asiento registral alguno, mientras no caduque la vigencia de los plazos señalados y solamente se anotarán en el control de entradas para el efecto de preservar su prioridad registral.
+ART. 133.- Los hijos que no hayan cumplido 18 años no pueden contraer matrimonio sin el consentimiento de sus padres, si vivieren ambos, o del que sobreviva. Seguirán teniendo este derecho si el hijo vive a su lado, aunque hayan contraído nuevas nupcias. A falta o por imposibilidad de los padres, se necesita el consentimiento de los que les suceden en el derecho conforme a esta Ley.
 
-No podrá presentarse más de un aviso preventivo por el mismo notario, durante la vigencia de la anotación a que se refiera el párrafo tercero de este artículo.
+ART. 134.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el juez de primera instancia de la residencia del menor suplirá el consentimiento.
 
-#### Sección Segunda. Documentos a inscribirse
+ART. 135.- Los interesados pueden ocurrir al presidente municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
 
-###### Artículo 49.
+ART. 136.- Si el juez, en el caso del artículo 134, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Supremo respectivo, en los términos que disponga el Código de Procedimientos Civiles.
 
-Se inscribirán en la Sección Inmobiliaria:
+ART. 137.- El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el oficial del registro civil, no puede revocarlo después, a menos que haya justa causa para ello.
 
-I. Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión o los demás derechos reales sobre inmuebles;
+ART. 138.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud del matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 92.
 
-II. Las resoluciones judiciales, o las de árbitros o arbitradores, que produzcan los efectos mencionados en la fracción I;
+ART. 139.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por causa superveniente.
 
-III. Las resoluciones judiciales en las cuales se declare un concurso o se admita una cesión de bienes inmuebles, siempre que produzcan los efectos señalados en la fracción I;
+ART. 140.- Son impedimentos para celebrar el contrato de matrimonio:
 
-IV. El testimonio de las informaciones Ad-perpetuam promovidas y protocolizadas de acuerdo a lo dispuesto en el Código de Procedimientos Civiles del Estado de Querétaro y demás normatividad jurídica aplicable;
+I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
-V. Los fideicomisos sobre inmuebles, a que se refiere la Ley General de Títulos y Operaciones de Crédito;
+II.- La falta de consentimiento del que o los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
 
-VI. Las resoluciones administrativas que produzcan la afectación de bienes inmuebles;
+III.- El parentezco (sic) de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-VII. Los títulos por los cuales se grave el dominio de los bienes inmuebles y aquellos por los cuales se adquieran, transmitan modifiquen, graven o extingan los derechos reales sobre bienes inmuebles;
+IV.- El parenteco (sic) de afinidad en línea recta, sin limitación alguna;
 
-VIII. Los créditos refaccionarios o de habilitación y avío, conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito;
+V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
-IX. La constitución del patrimonio de familia;
+VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-X. Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en los cuales haya habido anticipos de rentas por más de tres años;
+VII.- La fuerza o miedo grave. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituída a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-XI. Los planos y deslindes catastrales debidamente protocolizados ante notario, cuando no afecten el derecho de terceros y tengan como finalidad la corrección de los asientos, en los términos que se establezcan el Reglamento; y
+VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
 
-XII. Los demás actos que las disposiciones jurídicas aplicables ordenen expresamente que sean registrados.
+IX.- El idiotismo y la imbecilidad;
 
-###### Artículo 50.
+X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
 
-Serán inscritos en la Sección de Personas Morales:
+De estos impedimentos sólo son dispensables la falta de edad y el parentezco (sic) de consanguinidad en línea colateral desigual.
 
-I. Los testimonios de las escrituras en las cuales se constituyan, modifiquen y disuelvan las sociedades civiles;
+ART. 141.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
 
-II. El testimonio de la escritura constitutiva y los estatutos de las asociaciones civiles, así como las escrituras en las cuales se reformen o disuelvan;
+ART. 142.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
-III. Los estatutos de asociaciones y sociedades extranjeras de carácter civil;
+ART. 143.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el juez de primera instancia respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
 
-IV. Los testimonios de las escrituras en las cuales se constituyan, modifiquen y disuelvan las instituciones de asistencia privada;
+Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 
-V. Los testimonios de las escrituras en las cuales se constituyan, modifiquen y disuelvan las Asociaciones Religiosas;
+ART. 144.- Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
 
-VI. Las asambleas de condóminos protocolizadas ante notario, en términos de las disposiciones jurídicas aplicables; y
+ART. 145.- Tratándose de mexicanos que se casen en el extranjero, dentro de tres meses de su llegada a la República se transcribirá el acta de la celebración del matrimonio en el registro civil del lugar en que se domicilien los consortes.
 
-VII. Los demás actos que las disposiciones jurídicas aplicables ordenen expresamente que sean registrados.
+Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá afectos (sic) desde el día en que se hizo la transcripción.
 
-###### Artículo 51.
+ART. 146.- El matrimonio entre extranjeros, celebrado fuera de la República, válido conforme a las leyes del país en que se celebre, producirá todos sus efectos legales en el Estado, con la restricción de que se ocupa el artículo 11.
 
-Se inscribirán en la Sección Sucesoria:
+### CAPITULO II. De los derechos y obligaciones que nacen del Matrimonio
 
-I. Los testamentos cuya ejecución entrañe la transmisión o la modificación de la propiedad de bienes inmuebles, este registro se hará después del fallecimiento del testador;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-II. El auto declaratorio de herederos legítimos o su reconocimiento ante notario, el nombramiento de albacea y discernimiento del cargo, en los casos de intestado, en el cual se produzca cualquiera de los efectos señalados en la fracción I, presentando copia certificada del acta de defunción del autor de la herencia;
+ART. 147.- Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
-III. Las resoluciones judiciales en las cuales se declare un concurso o se admita una cesión de bienes, cuando sean afectados derechos reales sobre inmuebles, distintos de la propiedad; y
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-IV. Los demás actos sucesorios que las disposiciones jurídicas aplicables ordenen expresamente que sean registrados.
+ART. 148.- Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a País extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
 
-###### Artículo 52.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Tratándose de testamentos ológrafos, el Registro Público capturará el aviso de su depósito, con los datos conducentes en el Sistema Nacional de Avisos de Testamento.
+ART. 149.- La obligación de proporcionar los alimentos recaerá en aquel cónyuge que se encuentre en mejor posición económica y de trabajo, el otro contribuirá si tuviere medios para hacerlo, sólo en proporción a sus posibilidades.
 
-Para los testamentos ológrafos depositados en el Registro Público, se observará lo dispuesto en el Código.
+Solamente estando imposibilitado para trabajar y careciendo de bienes propios, se eximirá de esta obligación al que se encontrara en este caso.
 
-#### Sección Tercera. Anotaciones preventivas
+Quien dolosamente abandone su trabajo, y no teniéndolo, no procure conseguirlo, dilapide sus bienes o simule actos con el objeto de parecer insolvente, independientemente de las obligaciones que le impone esta Ley, se le aplicarán las penas a que refiere el delito de abandono de personas del Código Penal vigente en el Estado.
 
-###### Artículo 53.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-Se anotarán preventivamente en la Sección Inmobiliaria:
+ART. 150.- Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
-I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
+ART. 151.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-II. El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del deudor;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+ART. 152.- Los cónyuges resolverán de común acuerdo todo lo conducente al manejo del hogar, formación y educación de los hijos. En caso de desacuerdo el Juez de Primera Instancia del domicilio del hogar conyugal resolverá sobre la oposición de cualquiera de ellos.
 
-IV. Los actos preventivos a que haga mención el Código;
+ART. 153.- Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
 
-V. Las providencias judiciales o administrativas que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-VI. Por orden de la autoridad competente, los títulos presentados al Registro Público, cuya inscripción haya sido denegada o suspendida por el Registrador;
+ART. 154.- Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de Primera Instancia del domicilio conyugal, resolverá sobre la oposición.
 
-VII. Las fianzas legales o judiciales;
+ART. 155.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-VIII. Las demandas en la vía sumaria hipotecaria o las cédulas hipotecarias;
+ART. 156.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-IX. Las resoluciones judiciales que ordenen la suspensión provisional o definitiva, en relación con los bienes inscritos en el Registro Público; y
+ART. 157.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
-X. Cualquier otro título que deba registrarse, de acuerdo con las leyes aplicables.
+ART. 158.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-En los casos de las fracciones V, VI, VIII y IX, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-###### Artículo 54.
+ART. 159.- Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
 
-Las anotaciones preventivas perjudicarán a cualquier adquirente del inmueble o del derecho real a que se refiere, cuya adquisición sea posterior a la fecha de aquélla y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-###### Artículo 55.
+ART. 160.- También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
 
-Las anotaciones preventivas de embargo, demandas, secuestro, intervención o aseguramiento sobre inmuebles, decretadas por autoridades judiciales o administrativas, deberán ser presentadas al Registrador con copias certificadas por duplicado de las diligencias respectivas.
+La autorización, en los casos a que se refieren los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
 
-No se procederá a hacer el registro mencionado sin la orden judicial o administrativa correspondiente.
+ART. 161.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
-#### Sección Cuarta. Inscripción de planes y programas de desarrollo urbano y ambiental
+ART. 162.- El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-###### Artículo 56.
+### CAPITULO III. Del contrato de Matrimonio con relación a los bienes
 
-La solicitud de inscripción de planes y programas de desarrollo urbano y ambiental se hará mediante petición formal que realicen las autoridades estatales o municipales competentes.
+ART. 163.- El hombre y la mujer, al celebrar el contrato de matrimonio, conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo de la persona a quien aquéllos correspondan.
 
-La autoridad que solicite el registro deberá establecer:
+ART. 164.- Serán también propios de cada uno de los consortes los salarios, sueldos, honorarios y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o ejercicio de una profesión, o en un comercio o industria.
 
-I. El antecedente registral del instrumento a registrar; y
+ART. 165.- El hombre y la mujer, antes o después de contraer matrimonio, pueden convenir en que los productos de todos los bienes que poseen o de alguno o algunos de ellos, especificándolos en todo caso, serán comunes; pero entonces fijarán de una manera clara y precisa la fecha en que se ha de hacer la liquidación y presentar las cuentas correspondientes.
 
-II. Si con la inscripción de dicho programa se deja sin efectos el registro anterior de la misma categoría, o bien, si se modifican o actualizan.
+> <small>(REFORMADO, 20 DE JULIO DE 1975)</small>
 
-###### Artículo 57.
+ART. 166.- El hombre y la mujer antes y después de contraer matrimonio, pueden convenir en que los productos de su trabajo, profesión, industria o comercio, se dividen entre ellos en la proporción y términos que convengan.
 
-Los instrumentos de planeación señalados en el artículo anterior, se inscribirán en la sección única de ordenamiento territorial, la cual contendrá un solo folio electrónico por cada municipio.
+ART. 167.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-Se abrirá un total de 19 folios electrónicos, el número uno para el Estado y el resto para cada uno de los municipios, por lo que todas las inscripciones relativas a planes, planes parciales, programas, declaratorias y demás que emanen de los mismos instrumentos, se concentrarán en su único folio electrónico.
+ART. 168.- Los pactos a que se refiere el artículo anterior, sólo surtirán efectos con relación a tercero, siempre que consten en escritura pública debidamente registrada si se tratare de bienes raíces y que no comprendan más de la mitad de los frutos o productos.
 
-Serán inscribibles en la sección única de ordenamiento territorial:
+ART. 169.- El cónyuge que faltare a lo convenido dará derecho al otro o para pedir el cumplimiento del contrato, o para pedir su rescisión para lo sucesivo y el cumplimiento de él hasta la fecha de la demanda.
 
-I. Programas estatales, municipales, metropolitanos y regionales de desarrollo urbano;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-II. Programas parciales de desarrollo urbano;
+ART. 170.- Cuando se trate de alimentos, el cónyuge acreedor tendrá derecho preferente, sobre los bienes, sueldos, salarios u honorarios del otro cónyuge que tenga a su cargo la obligación de proporcionarlos, para pagarse con ellos las cantidades que correspondan al primero y a sus menores hijos.
 
-III. Programas de Centros de Población;
+También tendrá derecho preferente, para igual objeto sobre los bienes del deudor alimentario, después de que se paguen con el valor de éstos, los créditos hipotecarios o prendarios legalmente establecidos.
 
-IV. Declaratorias de Zonas Metropolitanas;
+ART. 171.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-V. Programas de ordenamiento ecológico regional estatal y local;
+ART. 172.- Los bienes que los cónyuges adquieren en común por donación, herencia, legado, por cualquier otro título gratuito u oneroso o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario del otro.
 
-VI. Áreas Naturales Protegidas; y
+Si los bienes comunes fueren inmuebles o muebles preciosos no podrán ser enajenados sino de común acuerdo.
 
-VII. Los demás que deban inscribirse de acuerdo a las disposiciones jurídicas aplicables.
+ART. 173.- Ni el marido podrá cobrar a la mujer, ni ésta a aquél retribución y honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los consortes por ausencia, enfermedad o impedimento del otro se encargare temporalmente de la administración de sus bienes tendrá derecho a que se le retribuya por ese servicio en proporción a su importancia y al resultado que produjere.
 
-###### Artículo 58.
+ART. 174.- Cuando el marido y la mujer ejercieren la patria potestad, se dividirán entre sí por partes iguales el producto de la mitad del usufructo que la ley les concede.
 
-Las determinaciones fijadas en los instrumentos urbanísticos y ecológicos se harán constar en los folios de los predios que resulten afectados, siempre que en los mencionados instrumentos se determinen con precisión los predios de que se trata y sus datos de inscripción en el Registro Público de la Propiedad.
+ART. 175.- El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause su dolo, culpa o negligencia.
 
-Los Registradores verificaran si en el folio respectivo se encuentra la inscripción relativa a la afectación de declaratorias, planes, programas y demás instrumentos de desarrollo urbano o ecológico.
+ART. 176.- Las sentencias que se pronunciaren en contra del marido no podrán hacerse efectivas en contra de la mujer; y de la misma manera las que se pronunciaren en contra de ésta no podrán afectar al marido.
 
-###### Artículo 59.
+ART. 177.- La casa en que esté establecida la morada conyugal y los bienes que le pertenezcan, sean propios de uno de los cónyuges o de ambos, no podrán ser enajenados si no es con el consentimiento expreso de los dos; y nunca podrán ser hipotecados o de otra manera gravados, ni embargados por los acreedores del marido o de la mujer o de ambos, siempre que dichos objetos no tengan en junto un valor mayor de diez mil pesos.
 
-El Registrador negará las inscripciones de los planes, programas o modificaciones a los mismos, cuando se actualicen los siguientes supuestos:
+Si la residencia conyugal estuviere en el campo, ella y los objetos que le pertenezcan tampoco podrán ser enajenados sino con consentimiento expreso de ambos consortes; y en ningún caso podrán ser hipotecados o de otra manera gravados juntamente con los terrenos que le correspondan, si no valen en conjunto más de diez mil pesos.
 
-I. No contengan la opinión técnica favorable por parte de la autoridad competente;
+Cuando un matrimonio tuviere varias casas o propiedades en que residan en distintos períodos del año, deberá designar ante la autoridad municipal del lugar en que esté ubicada la residencia que quiera señalar, cuál es la que ha de gozar del privilegio que le concede esta disposición.
 
-II. El solicitante no tenga legitimación, de conformidad con las disposiciones jurídicas aplicables;
+En caso que no se hiciere esa manifestación, a todas ellas se aplicará lo prevenido en este artículo para los casos de enajenación, hipoteca y gravamen; y, en caso de embargo, se respetará solamente la que ocupare el matrimonio en el momento de la diligencia.
 
-III. El documento cuya inscripción se solicite, no sea de los que deban registrarse de acuerdo con la normatividad aplicable;
+### CAPITULO IV. De las donaciones antenupciales
 
-IV. El documento presentado para su registro no se encuentre suscrito y autentificado por la autoridad competente; y
+ART. 178.- Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
 
-V. Cuando carezca de los requisitos que exijan las demás disposiciones jurídicas aplicables.
+ART. 179.- Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración al matrimonio.
 
-#### Sección Quinta. Inscripción de desarrollos inmobiliarios
+ART. 180.- Las donaciones antenupciales entre esposos aunque fueren varias, no podrán exceder reunidas de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
 
-###### Artículo 60.
+ART. 181.- Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
 
-Tratándose de fraccionamientos, se inscribirán en el Registro Público las escrituras en las que se protocolice:
+ART. 182.- Para calcular si es inoficiosa una donación antenupcial, tienen el esposo donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
 
-I. Los deslindes catastrales;
+ART. 183.- Si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
 
-II. La autorización del fraccionamiento y su denominación;
+ART. 184.- Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
 
-III. La autorización de lotificación;
+ART. 185.- Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
-IV. La licencia de ejecución de obras de urbanización o renovación;
+ART. 186.- Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
-V. La autorización de nomenclatura de calles, cambio o ampliación;
+ART. 187.- Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal, por parte del donatario, cuando el donante fuere el otro cónyuge.
 
-VI. La autorización de venta de lotes o renovación;
+ART. 188.- Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
 
-VII. La autorización de relotificación;
+ART. 189.- Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efectuarse.
 
-VIII. La ampliación de fraccionamiento;
+ART. 190.- Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
 
-IX. La entrega al municipio correspondiente de las obras de urbanización y autorización definitiva del fraccionamiento; y
+### CAPITULO V. De las Donaciones entre Consortes
 
-X. Las demás que de acuerdo a las disposiciones jurídicas aplicables deban registrarse.
+ART. 191.- Los consortes pueden hacerse donación; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes a recibir alimentos.
 
-Las autorizaciones o licencias que se registren deberán encontrarse vigentes y podrán inscribirse por etapas si así expresamente lo solicita la autoridad competente, siempre y cuando se acrediten los requisitos normativos en materia de desarrollos inmobiliarios.
+ART. 192.- Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
 
-###### Artículo 61.
+ART. 193.- Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes.
 
-Tratándose de condominios, se inscribirán en el Registro Público las escrituras en las que se protocolice:
+### CAPITULO VI. De los Matrimonios Nulos e Ilícitos
 
-I. Los deslindes catastrales;
+ART. 194.- Son causas de nulidad de un matrimonio:
 
-II. La licencia de ejecución de obras de urbanización;
+I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
 
-III. La constitución de régimen de propiedad en condominio o su modificación;
+II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 140;
 
-IV. La autorización de venta de unidades privativas;
+III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 89, 90, 91, 93 y 94.
 
-V. La entrega y recepción de las obras de urbanización al municipio; y
+ART. 195.- La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-VI. Las demás que deban registrarse de acuerdo a las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-###### Artículo 62.
+ART. 196.- La menor de edad de 16 años en el hombre y de 14 en la mujer dejará de ser causa de nulidad:
 
-A la solicitud de inscripción de fraccionamientos y condominios deberá anexarse:
+I.- Cuando haya habido hijos.
 
-I. El plano autorizado;
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los 18 años, y ni él ni el otro cónyuge hubieran intentado la nulidad.
 
-II. La memoria descriptiva; y
+ART. 197.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de 30 días contados desde que tengan conocimiento del matrimonio.
 
-III. Los demás requisitos que establezcan las disposiciones jurídicas aplicables.
+ART. 198.- Cesa esta causa de nulidad:
 
-###### Artículo 63.
+I.- Si han pasado los treinta días sin que se haya pedido;
 
-El Director podrá establecer disposiciones administrativas para la inscripción de desarrollos inmobiliarios con la finalidad de preservar el orden registral y los principios registrales.
+II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al registro civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
 
-#### Sección Sexta. Método de registro
+ART. 199.- La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial confirmando el matrimonio.
 
-###### Artículo 64.
+ART. 200.- El parentezco (sic) de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieran espontáneamente reiterar su consentimiento por medio de una acta ante el oficial del registro civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
-La inscripción de los títulos en el Registro Público puede pedirse por todo el que tenga interés en asegurar el derecho que se va a inscribir o por el notario que haya autorizado la escritura de que se trate.
+ART. 201.- La acción que nace de esta clase de nulidad y la que dimana del parentezco (sic) de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
-###### Artículo 65.
+ART. 202.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 140, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
 
-Solo se registrarán:
+En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
 
-I. Los testimonios de escritura pública y títulos de propiedad originales y demás documentos auténticos;
+ART. 203.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
-II. Las sentencias y providencias judiciales, certificadas legalmente; y
+ART. 204.- El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
-III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya constancia de que el Registrador, el notario o el juez competente, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+I.- Que uno y otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
-###### Artículo 66.
+II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
 
-El interesado presentará el título original que va a ser registrado y un croquis cuando se trate de documentos que impliquen transmisiones o modificaciones de inmuebles.
+III.- Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio.
 
-###### Artículo 67.
+La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
-Los registradores calificarán, bajo su responsabilidad, los documentos que se presenten para la práctica de algún asiento, el cual se suspenderá o denegará en caso de que:
+ART. 205.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 140, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
-I. El título presentado no sea de los que deben inscribirse o anotarse;
+ART. 206.- Tienen derecho a pedir la nulidad a que se refiere la fracción IX del artículo 140, el otro cónyuge o el tutor del incapacitado.
 
-II. El documento no revista las formas extrínsecas que establecen las disposiciones jurídicas aplicables;
+ART. 207.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
 
-III. Los fedatarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
+ART. 208.- La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esta nulidad a instancia del Ministerio Público.
 
-IV. El contenido del documento sea contrario a las leyes prohibitivas o de interés público;
+ART. 209.- No se admitirá demanda de nulidad por falta de solemnidad en el acta de matrimonio celebrado ante el oficial del registro civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
 
-V. Haya incompatibilidad entre el texto del documento y los asientos del registro; salvo los casos en que se demuestre y se corrija la inexactitud registral;
+ART. 210.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
 
-VI. No se individualicen los bienes del deudor sobre los que se constituya un derecho real o cuando no se fije la cantidad máxima que garantice un gravamen, en el caso de obligaciones de monto indeterminado, excepto en los casos en que por la naturaleza de los bienes o del crédito otorgado no sea factible la individualización o la determinación correspondiente, siempre y cuando se fijen las bases para una u otra; y
+ART. 211.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al oficial del registro civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte relativa de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia la cual será depositada en el archivo.
 
-VII. Falte algún otro requisito de forma que deba llenar el documento de acuerdo con esta Ley y otras disposiciones jurídicas aplicables.
+ART. 212.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
-###### Artículo 68.
+ART. 213.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
 
-El Reglamento establecerá los demás requisitos que deben tener los asientos.
+ART. 214.- El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
-#### Sección Séptima. Rectificación y reposición de los asientos
+ART. 215.- Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
 
-###### Artículo 69.
+Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
 
-La rectificación de los asientos procede por causa de error material o de concepto.
+ART. 216.- La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
-###### Artículo 70.
+ART. 217.- Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 243.
 
-Se entenderá que se comete error material, cuando:
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-I. Se escriban unas palabras por otras;
+ART. 218.- Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y custodia de los hijos. En el caso de que no exista este acuerdo, el Juez con la intervención del Ministerio Público tomando en cuenta el beneficio de los menores, resolverá lo conducente.
 
-II. Se omita la expresión de alguna circunstancia;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
-III. Se equivoquen los nombres propios o las cantidades; y
+ART. 219.- El Juez en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 382, 383, y 394 Fracción III de esta Ley.
 
-IV. Se indiquen erróneamente los indivisos, superficies, medidas o linderos de predios o descripciones de cosas objeto de los documentos, siempre que quede clara la identificación de los mismos; todo ello sin cambiar el sentido general de la inscripción o anotación, ni el de alguno de sus conceptos.
+ART. 220.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes, si los hubiere. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirá entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
 
-###### Artículo 71.
+ART. 221.- Declarada la nulidad del matrimonio, se observará respecto de las donaciones antenupciales las reglas siguientes:
 
-Se entenderá que se comete error de concepto cuando se altere o varíe el sentido de la inscripción o anotación, porque el Registrador al revisar el contenido del documento, realice una calificación errónea del contrato o acto en él consignado.
+I.- Las hechas por un tercero a los cónyuges, podrán ser revocadas;
 
-###### Artículo 72.
+II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
 
-Cuando se trate de errores de concepto, los asientos practicados en los folios del Registro Público podrán rectificarse de oficio o a petición de parte interesada.
+III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
 
-###### Artículo 73.
+IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
-Los errores materiales en los asientos registrales serán rectificados de oficio o a petición de parte, cuando de la revisión de los antecedentes se advierta que puedan corregirse con base en la información de los asientos con los cuales se encuentran relacionados, indicando en un nuevo asiento las causas y motivos que generaron dicha rectificación.
+ART. 222.- Si al declararse la nulidad del matrimonio la mujer estuviere en cinta, se tomarán las precauciones a que se refiere el Capítulo I del Título Quinto del Libro Tercero.
 
-Así mismo podrá realizarse con vista en el testimonio original, testimonio ulterior del instrumento que dio origen al asiento a rectificar, o bien con copia certificada de la escritura, en los que consten datos de su inscripción en el Registro Público.
+ART. 223.- Es ilícito pero no nulo el matrimonio:
 
-Los errores materiales y de concepto podrán rectificarse, tomando en consideración la información contenida en el Sistema Integral Registral, incluyendo las imágenes de los documentos digitalizados o legajos con los que los asientos erróneos estén relacionados.
+I.- Cuando se ha contraído pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-Cuando para la rectificación de una anotación o inscripción sea necesaria la consulta de algún instrumento o documento que obre depositado en el Archivo General, tal consulta deberá hacerla el Registrador directamente en el mencionado Archivo, sin necesidad de pago de derecho alguno. Lo mismo se observará tratándose de reposición de folios o asientos.
+II.- Cuando no se ha otorgado la previa dispensa que requiera el artículo 143, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 142 y 250.
 
-###### Artículo 74.
-
-Se equipara al error material, la práctica de un asiento en folio distinto a aquél en que debió practicarse. Su rectificación se hará de oficio y a petición de parte, mediante el traslado del asiento al folio correcto.
-
-###### Artículo 75.
-
-Rectificado un asiento, se rectificarán todos los que estén relacionados y contengan el mismo error, siempre que ello sea susceptible de llevarse a cabo.
-
-###### Artículo 76.
-
-Podrá rectificarse el error, mediante un documento nuevo, si dicho error fue producido por la redacción vaga, ambigua o inexacta del documento primigenio.
-
-###### Artículo 77.
-
-Si el error hubiere sido cometido por el Registrador, no se causarán derechos por el registro correspondiente.
-
-###### Artículo 78.
-
-Procede la reposición de los asientos, cuando por su destrucción, mutilación o extravío, se haga imposible realizar su consulta, a fin de establecer el tracto sucesivo.
-
-La reposición de los asientos registrales se realizará con la información contenida en los archivos informáticos del Sistema Integral Registral de las oficinas registrales o de sus respaldos. Asimismo, se podrá revisar el instrumento que dio origen al asiento respectivo a través de los archivos donde se resguarden los mismos.
-
-Tratándose de documentos privados, en los casos en los que el asiento documental que se pretenda reponer cuente con respaldos en el Sistema Integral Registral, procederá la reposición sin que sea obligatorio para el interesado exhibir la documentación original con sellos de registro.
-
-###### Artículo 79.
-
-En todos los procedimientos de reposición, deberá elaborarse un acta circunstanciada con vista en los informes rendidos por las unidades responsables, haciendo constar la información de mutilación, destrucción o extravío del asiento o folio sujeto a reposición. Lo mismo procederá respecto del procedimiento de rectificación de asientos.
-
-###### Artículo 80.
-
-Todo antecedente registral repuesto hará mención de dicha circunstancia en la inscripción que se genere.
-
-Bajo ninguna circunstancia, la reposición de asientos registrales perjudicará los derechos adquiridos a título oneroso por tercero de buena fe, debidamente registrados.
-
-#### Sección Octava. Extinción de los asientos
-
-###### Artículo 81.
-
-La cancelación de inscripción de un embargo, secuestro, intervención de inmuebles o demandas hipotecarias, sólo se hará por mandamiento escrito de la autoridad que lo hubiere ordenado o de la que legalmente lo sustituya en el conocimiento del negocio, archivándose la orden en el apéndice respectivo.
-
-La cancelación también se hará hacerse por el consentimiento del acreedor, hecho constar en forma autentica.
-
-###### Artículo 82.
-
-Los asientos no se extinguen en cuanto a tercero, sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a otra persona.
-
-###### Artículo 83.
-
-Los asientos pueden cancelarse por consentimiento de las partes, por decisión judicial o administrativa.
-
-###### Artículo 84.
-
-La cancelación de los asientos podrá ser total o parcial.
-
-###### Artículo 85.
-
-La cancelación total de los asientos procederá cuando se actualicen los supuestos siguientes:
-
-I. Se extinga por completo el inmueble objeto del asiento;
-
-II. Se extinga por completo el derecho inscrito;
-
-III. Se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV. Se declare la nulidad del asiento; y
-
-V. Sea enajenado judicialmente el inmueble que reporte el gravamen.
-
-###### Artículo 86.
-
-La cancelación parcial de los asientos procede en el supuesto de la reducción del derecho inscrito a favor del propietario del inmueble gravado.
-
-###### Artículo 87.
-
-Para que el asiento pueda ser cancelado por consentimiento de las partes, se requiere que éstas:
-
-I. Se encuentren legitimadas;
-
-II. Tengan capacidad de contratar; y
-
-III. Hagan constar su voluntad de un modo auténtico.
-
-Si para cancelar el asiento se pusiere alguna condición, se requiere, además, el cumplimiento de ésta.
-
-###### Artículo 88.
-
-El registro de la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, cancelará el registro relativo al que enajene.
-
-###### Artículo 89.
-
-El registro de una sentencia que declare haber cesado los efectos de otra que esté registrada, cancelará ésta.
-
-###### Artículo 90.
-
-Los padres, como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-###### Artículo 91.
-
-La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, procede:
-
-I. Presentándose la escritura otorgada en relación a los créditos cobrados, en la cual conste la inutilización de los títulos endosables;
-
-II. Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos; y
-
-III. Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
-
-###### Artículo 92.
-
-Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar, por acta notarial, estar en poder del deudor toda la emisión de títulos debidamente inutilizados.
-
-###### Artículo 93.
-
-Procederá la cancelación total si se presentaren, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegure el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles del Estado de Querétaro.
-
-###### Artículo 94.
-
-Podrán cancelarse parcialmente las inscripciones hipotecarias, presentando acta notarial de estar en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
-
-###### Artículo 95.
-
-La inscripción en que se refleje una cancelación deberán contener, para su validez, los datos necesarios a fin de que se conozca:
-
-I. Cuál es el asiento que se cancela;
-
-II. La causa por qué se hace la cancelación; y
-
-III. La fecha de la cancelación.
-
-###### Artículo 96.
-
-Las anotaciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, por mandato de las autoridades que los decretaron, podrá prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
-
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; en este supuesto, cualquier interesado podrá solicitar al Registrador, que se registre la cancelación de las anotaciones preventivas.
-
-#### Sección Novena. Guarda y conservación del acervo registral
-
-###### Artículo 97.
-
-El proceso de conservación del acervo es aquel a través del cual se resguarda, asegura, clasifica, ordena y preserva el archivo y documentación soporte de los asientos en el Registro Público.
-
-###### Artículo 98.
-
-Para la preservación, guarda y seguridad de su archivo, el Registro Público desarrollará o adquirirá sistemas informáticos y equipo necesario para asegurar la confidencialidad, integridad y disponibilidad de la información, de conformidad con la suficiencia presupuestal y en apego a las disposiciones aplicables.
-
-Para respaldar el sistema de folios, las oficinas registrales tendrán en su caso, un archivo físico en el que se conservará la información.
-
-Los lineamientos y criterios para la preservación, guarda, custodia y seguridad del archivo del Registro, así como los procedimientos para la digitalización y demás elementos que integran el sistema informático, se determinará en manuales y demás ordenamientos aplicables.
-
-###### Artículo 99.
-
-La información contenida en la base de datos que contiene los archivos del Registro Público deberá ser respaldada en los medios de almacenamiento electrónicos en función de los avances de la tecnología de la información, resguardándose de acuerdo a lo establecido en el Sistema de Gestión de Seguridad de la Información.
-
-En caso de existir una base de datos de los archivos del Registro Público en cada Subdirección, la información generada en el Sistema Integral Registral, deberá ser enviada a una base de datos central del Registro Público, a través del mismo Sistema, por medio de un proceso de replicación.
-
-La integración de la información de la base de datos central, deberá realizarse diariamente en las oficinas registrales integradas a la red estatal del Registro Público.
-
-### Capítulo Segundo. Proceso de certificación
-
-###### Artículo 100.
-
-El proceso de certificación es aquel mediante el cual se obtienen las constancias de las inscripciones y anotaciones existentes, así como de la inexistencia de las mismas en el Registro Público.
-
-###### Artículo 101.
-
-Los procedimientos y requisitos para las certificaciones, la información que contendrán los certificados y los tipos de acuerdo a su naturaleza se establecerán en el Reglamento.
-
-###### Artículo 102.
-
-Los asientos, las certificaciones y constancias que autorice el Registrador a través de su sello y firma autógrafa o en su caso firma electrónica, producirán los mismos efectos que las leyes otorgan a los documentos públicos y tendrán valor probatorio pleno.
-
-###### Artículo 103.
-
-Los asientos que deban certificarse y se refieran a diferentes inmuebles o personas, se harán en certificación por separado.
-
-### Capítulo Tercero. Proceso de publicidad y consulta
-
-###### Artículo 104.
-
-El proceso de publicidad y consulta se realiza mediante el Sistema Integral Registral con la finalidad de acceder a la información que se encuentra en los asientos, mismo que funcionará en días y horas hábiles.
-
-###### Artículo 105.
-
-La consulta de los asientos y archivos del Registro Público se llevará a cabo por medio de sistemas informáticos en las instalaciones del Registro Público o de forma remota a través de medios electrónicos.
-
-###### Artículo 106.
-
-En todos los casos en que de cualquier forma se consulte un asiento, deberá quedar expresamente determinada la identidad del consultante.
-
-###### Artículo 107.
-
-Los requisitos para la consulta y los índices para su búsqueda se establecerán en el Reglamento.
-
-### Capítulo Primero. Información de dominio
-
-###### Artículo 108.
-
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción, por no estar inscrita en el Registro Público la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles del Estado de Querétaro.
-
-A su solicitud acompañará, precisamente, certificado del Registro Público que demuestre que los bienes no están inscritos. Los requisitos para la expedición del certificado se establecerán en el Reglamento.
-
-La información se recibirá con citación de la Fiscalía General del Estado, del respectivo Registrador de la propiedad y de los colindantes. Los testigos deberán ser por lo menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiera. No se recibirá la información sin que previamente se haya dado una amplia publicidad, por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
-
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración debidamente protocolizada ante notario público se tendrá como título de propiedad y será inscrita en el Registro Público.
-
-## Título Cuarto. Procesos registrales
-
-### Capítulo Segundo. Inscripción de posesión
-
-###### Artículo 109.
-
-El que tenga una posesión, apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles del Estado de Querétaro.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la misma inscripción.
-
-###### Artículo 110.
-
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además, las siguientes:
-
-I. Los nombres de los testigos que hayan declarado;
-
-II. El resultado de las declaraciones; y
-
-III. La resolución judicial que ordena la inscripción.
-
-###### Artículo 111.
-
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-###### Artículo 112.
-
-Transcurridos cinco años, sin que en el Registro Público aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordene que se haga en el Registro Público la inscripción de dominio correspondiente, previa protocolización ante notario.
-
-###### Artículo 113.
-
-No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
-
-### Capítulo Tercero. Recurso de revisión
-
-###### Artículo 114.
-
-En caso de que el Registrador rechace, tenga por no presentada la solicitud o devuelva un documento sin registrar, se podrá interponer el Recurso de Revisión en los términos de la Ley de Procedimientos Administrativos del Estado de Querétaro y las demás disposiciones jurídicas aplicables.
-
-###### Artículo 115.
-
-El interesado podrá solicitar a la autoridad competente ordene al Registrador realizar la nota de presentación, lo anterior con la finalidad de que si ésta ordena que se registre el documento, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el documento.
-
-###### Artículo 116.
-
-El Recurso de Revisión se interpondrá ante la Secretaría de Gobierno, dentro del plazo de diez días, contados a partir del día siguiente a aquel en que se tuvo conocimiento del acto, mismo que será substanciado por la Dirección Jurídica y Consultiva de esa Secretaría.
-
-La resolución será emitida por la Secretaría de Gobierno.
-
-###### Artículo 117.
-
-Si la resolución del Secretario de Gobierno fuese favorable al recurrente, se remitirá al Registrador para su inmediato cumplimiento. En caso contrario, si se confirma la determinación, se hará del conocimiento del Registrador para que proceda a cancelar la nota de presentación respectiva.
-
-### Capítulo Único. Naturaleza jurídica
-
-###### Artículo 118.
-
-El Archivo General tendrá a su cargo la custodia y conservación de los protocolos de los notarios que se encuentren en guarda definitiva.
-
-###### Artículo 119.
-
-La Dirección del Archivo General tendrá su sede en la capital del Estado y contará con una Subdirección para el cumplimiento de sus atribuciones.
-
-Para ser Subdirector del Archivo General se deberá cumplir con los requisitos previstos para el Director del Archivo, a excepción de los años de práctica profesional, que serán de tres años.
-
-###### Artículo 120.
-
-El Archivo General no es público y sólo se expedirán reproducciones de la documentación en su resguardo, a las personas que tengan y acrediten interés jurídico, a los notarios y a las autoridades competentes.
-
-###### Artículo 121.
-
-Los empleados del Archivo General no podrán divulgar, por ningún medio, información contenida en el Archivo General, a menos que ésta sea requerida por autoridad competente.
-
-###### Artículo 122.
-
-El Archivo General ejercerá las atribuciones que le confiere la Ley del Notariado y regulará sus procedimientos en su propio Reglamento.
-
-### Capítulo Primero. Organización y atribuciones
-
-###### Artículo 123.
-
-El Archivo General se formará con:
-
-I. Los documentos que los notarios o los que ejerzan estas funciones, deben remitir al Archivo General según las prevenciones de la Ley del Notariado;
-
-II. Los elementos del protocolo que le remitan los notarios de acuerdo a lo establecido por la Ley del Notariado;
-
-III. Los expedientes de los notarios que conforme a la normativa aplicable deba formar el Archivo General;
-
-IV. El libro de Registro de Notarios;
-
-V. Los sellos de los notarios que en el Archivo General deban depositarse, conforme a lo establecido en la Ley del Notariado; y
-
-VI. Los documentos emitidos por el Archivo General; y
-
-VII. Los demás documentos que establezcan otras disposiciones jurídicas aplicables.
-
-###### Artículo 124.
-
-Los notarios deberán autorizar definitivamente instrumentos notariales y expedirán testimonios de los documentos que obren en Guarda definitiva en el Archivo.
-
-Para efectos del párrafo anterior, se estará a lo dispuesto por la Ley del Notariado y demás disposiciones jurídicas aplicables.
-
-###### Artículo 125.
-
-El Director del Archivo tendrá las siguientes atribuciones:
-
-I. Guardar y custodiar definitivamente en su recinto oficial el protocolo que contenga la razón de cierre, y que tenga la antigüedad establecida en la Ley del Notariado;
-
-II. Llevar un registro de los sellos, color de tinta, firma autógrafa y firma electrónica notarial de los notarios del Estado;
-
-III. Recibir para su destrucción los sellos que se hayan deteriorado, alterado, o aparecido después de su extravió, así como los que no cumplan con los requisitos establecidos en la Ley del Notariado, levantando el acta respectiva;
-
-IV. Llevar un Registro de Notarios, en el cual se asiente la fecha de su nombramiento y aquella en que haya dejado de ejercer el cargo, así como las licencias, suspensiones o correcciones disciplinarias;
-
-V. Entregar a los notarios, los nuevos folios notariales, debidamente autorizados, siempre y cuando cumpla (sic) con los requerimientos que establece la Ley del Notariado, el Reglamento del Archivo General y demás disposiciones jurídicas aplicables;
-
-VI. Autorizar los tomos de los protocolos que le sean presentados para su revisión, siempre y cuando cumplan con las disposiciones jurídicas aplicables;
-
-VII. Actuar como representante del Poder Ejecutivo del Estado de Querétaro en las diligencias que deban realizarse en las Notarías, ordenadas por la Secretaría de Gobierno;
-
-VIII. Expedir testimonios que se soliciten respecto de los instrumentos notariales que consten en los protocolos cuyo depósito y conservación le sean encomendados;
-
-IX. Realizar, cuando proceda legalmente, anotaciones en los protocolos que se encuentren en guarda definitiva;
-
-X. Comunicar por escrito a la Secretaría de Gobierno, las irregularidades que se adviertan en los protocolos notariales que se le remitan para revisión o guarda definitiva y todo aquello que tenga relación con la actividad notarial;
-
-XI. Autorizar definitivamente los instrumentos notariales;
-
-XII. Emitir los lineamientos en coordinación con el Consejo de Notarios, por lo que respecta a la encuadernación de los tomos del protocolo y apéndices;
-
-XIII. Llevar un expediente por cada Notario con los documentos y datos que establezca esta Ley y la Ley del Notariado;
-
-XIV. Publicar por una vez en el periódico oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, cuando un Notario cese en su cargo por cualquier causa;
-
-XV. Desarrollar, implementar y operar el sistema informático previsto en la Ley del Notariado;
-
-XVI. Llevar los registros especiales denominados “Registros de Avisos de Testamentos” y “Registro de Avisos de Poderes Notariales”;
-
-XVII. Proporcionar información a las autoridades judiciales y administrativas competentes, y a los notarios con respecto a los avisos de testamentos;
-
-XVIII. Determinar en coordinación con el Consejo de Notarios, las especificaciones y medidas de seguridad que deberán de contener los folios notariales y el papel sobre el que se expidan los testimonios, mismas que deberán de ser observadas por los Notarios;
-
-XIX. Establecer mecanismos de control para la expedición y autorización de los folios notariales;
-
-XX. Autorizar la reposición de los folios notariales vigilando el cumplimiento de los procedimientos establecidos en la Ley del Notariado;
-
-XXI. Recibir de los Notarios el índice anual en el cual se establezcan los datos precisados en la Ley del Notariado, en relación a los instrumentos y folios notariales utilizados en el periodo;
-
-XXII. Representar al Archivo General en asuntos de su competencia y en aquellos en que sea parte ante cualquier otra autoridad, sin perjuicio de las facultades de representación que pudieran corresponder a otras instancias del Poder Ejecutivo del Estado;
-
-XXIII. Rendir los informes que le solicite la Secretaría de Gobierno; y
-
-XXIV. Las demás atribuciones establecidas en otras disposiciones jurídicas aplicables.
-
-###### Artículo 126.
-
-El Subdirector del Archivo General será designado por el Secretario de Gobierno.
-
-El Subdirector del Archivo General tendrá las atribuciones previstas en el Reglamento del Archivo General y demás disposiciones jurídicas aplicables.
-
-### Capítulo Segundo. Libro de Registro de Notarios
-
-###### Artículo 127.
-
-El Archivo General llevará un Libro de Registro de Notarías. Los requisitos para el registro de notarios se establecerán en su Reglamento.
-
-###### Artículo 128.
-
-Una vez cumplidos los requisitos para la inscripción en el Libro de Registro de Notarías, el Director del Archivo autorizará su registro con su sello y firma.
-
-###### Artículo 129.
-
-Cuando el nombramiento de algún notario quedare sin efecto por cualquiera de las causas establecidas en la Ley del Notariado, el Archivo General realizará la anotación correspondiente en el Libro de Registro de Notarios.
-
-El acuerdo o resolución mediante la cual se deja sin efectos el nombramiento de notario, deberá integrarse al expediente de la notaría.
-
-### Capítulo Tercero. Guarda definitiva
-
-###### Artículo 130.
-
-El Archivo General guardará y custodiará en definitiva los protocolos que contenga la razón de cierre, y que tenga la antigüedad establecida en la Ley del Notariado, sin que sea lícito extraerlos.
-
-###### Artículo 131.
-
-Para la guarda definitiva de los protocolos, el notario deberá avisar por escrito la relación de los libros para guarda, en los términos que se establezcan en el Reglamento del Archivo General.
-
-El Archivo General no recibirá libros para guarda definitiva, que no consten en el aviso.
+ART. 224.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO VII. Del Divorcio
 
@@ -1381,7 +989,9 @@ ART. 254.- El parentesco de consanguinidad es el que existe entre personas que d
 
 ART. 255.- El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
-ART. 256.- El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+ART. 256.- El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado. En la adopción plena, el parentesco existirá además con los ascendientes del adoptante y descendientes colaterales.
 
 ART. 257.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
 
@@ -1467,7 +1077,7 @@ ART. 283.- Cuando el deudor alimentario no estuviere presente o estándolo rehus
 
 ART. 284.- El cónyuge que se haya amparado del otro, sigue obligado a cumplir con los gastos a que se refiere el Artículo 149. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de la separación, y que satisfaga los adeudos contraídos en los términos del Artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-## Título Quinto. Inscripción de información de dominio y de posesión
+## TITULO SEXTO. Del Parentesco y de los Alimentos
 
 ### CAPITULO I. De los Hijos de Matrimonio
 
@@ -1581,7 +1191,7 @@ ART. 318.- Pueden gozar también del derecho que les concede el artículo 314, l
 
 ART. 319.- Los hijos no nacidos pueden también gozar del mismo derecho siempre que el padre al casarse declare que reconoce al hijo de quien la mujer está encinta o que le reconoce si aquélla estuviere encinta.
 
-## Título Primero. Disposiciones generales
+## TITULO SEPTIMO. De la Paternidad y Filiación
 
 ### CAPITULO IV. Del Reconocimiento de los Hijos Nacidos Fuera de Matrimonio
 
@@ -1683,9 +1293,9 @@ III.- A percibir la pensión hereditaria y los alimentos que fije la Ley.
 
 ### CAPITULO V. De la Adopción
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
-ART. 350.- Los mayores de edad, en pleno ejercicio de sus derechos que no tengan descendientes, pueden adoptar a un menor, o a un incapacitado, aun cuando éste sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que la adopción sea benéfica a éste. Cuando cricunstancias (sic) especiales lo ameriten, y con intervención del Ministerio Público, el Juez puede autorizar la adopción a los adoptantes, aun cuando estos tengan descendientes.
+ART. 350.- Los mayores de edad en pleno ejercicio de sus derechos, que no tengan descendientes pueden adoptar a un menor o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que la adopción sea benéfica a éste. Cuando circunstancias especiales lo ameriten y con intervención del Ministerio Público, el Juez puede autorizar la adopción a los adoptantes aún cuando éstos tengan descendientes, con los mismos presupuestos anteriores, e instituye la adopción plena con efectos irrevocables, en los términos establecidos por este Código en favor de los menores de 12 años abandonados, expósitos o los que sean entregados a una Institución de Asistencia autorizada para promover su adopción.
 
 ART. 351.- El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
 
@@ -1695,9 +1305,13 @@ ART. 353.- El tutor no puede adoptar al pupilo sino hasta después de que hayan 
 
 ART. 354.- El menor o el incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
 
-ART. 355.- El que adopte tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
-ART. 356.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+ART. 355.- El que adopte tendrá derecho respecto de la persona y bienes del adoptade (sic) los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos. En la adopción plena la obligación se extenderá a todos los ascendientes, descendientes colaterales de los adoptantes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+ART. 356.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo. En la adopción plena se extenderá a los ascendientes, descendientes y colaterales de los adoptantes.
 
 ART. 357.- Para que la adopción pueda tener lugar, deberán consentir en ella:
 
@@ -1717,11 +1331,17 @@ ART. 359.- El procedimiento para hacer la adopción será el fijado en el Códig
 
 ART. 360.- Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando la adopción, quedará ésta consumada.
 
-ART. 361.- El juez que apruebe la adopción remitirá copia de las diligencias respectivas al oficial del registro civil del lugar, para que levante el acta correspondiente.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
-ART. 362.- Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo dispuesto en el artículo 141.
+ART. 361.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente. En la adopción plena la resolución Judicial que la apruebe contendrá la orden al Oficial del Registro Civil, para que cancele en su caso el acta de Nacimiento del adoptado, así como para que levante acta de Nacimiento en la que figuren como padres los adoptantes y como hijo el adoptado y demás datos que se requieren conforme a la Ley, sin hacer mención sobre la adopción.
 
-ART. 363.- Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción, excepto la patria potestad que será transferida al adoptante.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+ART. 362.- Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo dispuesto por el Artículo 141. En la adopción plena el parentesco se extenderá a todos los ascendientes, descendientes y colaterales de los adoptantes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+ART. 363.- Los derechos y obligaciones que resulten del parentesco natural, no se extinguen por la adopción excepto la patria potestad que será transferida al adoptante. En la adopción plena los parientes naturales, ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos, pero conservando en su caso sus derechos sucesorios por naturaleza.
 
 ART. 364.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
@@ -1746,6 +1366,10 @@ ART. 368.- El decreto del juez deja sin efecto la adopción y restituye las cosa
 ART. 369.- En el segundo caso de artículo 365, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aún cuando la resolución judicial que declare revocada la adopción sea posterior.
 
 ART. 370.- Las resoluciones que dicten los jueces aprobando la revocación, se comunicarán al oficial del registro civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+
+ART. 370 BIS.- Las disposiciones de este Capítulo relativas a la adopción serán aplicables para la adopción plena en cuanto a no se opongan a las que regulan este Código.
 
 ### CAPITULO I. De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos
 
@@ -1775,7 +1399,9 @@ ART. 377.- Cuando los padres del hijo nacido fuera de matrimonio que vivían jun
 
 ART. 378.- A falta de padres ejercerán la patria potestad sobre los hijos, los demás ascendientes en el orden a que se refieren las Fracciones II y III del Artículo 374, mismo que puede ser alterado por el Juez de Primera Instancia cuando en su concepto traiga consigo un mayor beneficio para los menores.
 
-ART. 379.- La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+
+ART. 379.- La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten. En la adopción plena la patria potestad se ejercerá en los términos señalados en este Código para los hijos consanguíneos.
 
 ART. 380.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad, los que sigan en el orden establecido en los artículos anteriores.
 
@@ -1995,7 +1621,7 @@ ART. 443.- Si hubiere varios parientes del mismo grado, el juez elegirá entre e
 
 ART. 444.- La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-## Título segundo. Conformación del Archivo General
+## TITULO OCTAVO. De la Patria Potestad
 
 ### CAPITULO IV. De la Tutela Legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que habitualmente abusen de las drogas enervantes
 
@@ -3037,7 +2663,7 @@ VII.- Por expropiación por causa de utilidad pública.
 
 ART. 775.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
-# Libro Segundo. El Archivo General de Notarías
+# LIBRO SEGUNDO. De los Bienes
 
 ## TITULO PRIMERO. Disposiciones Preliminares
 
@@ -5363,6 +4989,36 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Del Consentimiento
+
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+
+ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+
+ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+
+ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+
+ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+
+ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+
+ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+
+ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+
+ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
 Del objeto y del motivo o fin de los Contratos
 
 ART. 1660.- Son objeto de los contratos:
@@ -5389,12 +5045,6 @@ ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público 
 
 ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
-
 Forma
 
 ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
@@ -5404,108 +5054,6 @@ ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que
 ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-Cláusulas que pueden contener los Contratos
-
-ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
-
-ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
-
-ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
-
-Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
-
-Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
-
-ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
-
-ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
-
-ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
-
-ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
-
-ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
-
-ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
-
-ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
-
-ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
-
-ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
-
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Interpretación
-
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
-
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
-
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
-
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
-
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
-
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
-
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
-
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
-
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
-
-División de los Contratos
-
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
-
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
-
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
-
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5643,9 +5191,29 @@ ART. 1749.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos o 
 
 ART. 1750.- Cuando sin empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-ART. 1751.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
 
-ART. 1752.- Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquella muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1764.
+ART. 1751.- La reparación del daño debe consistir a elección del ofendido en el restablecimiento de la situación anterior a él, cuando ello sea posible, o en el pago de daños y perjuicios.
+
+Cuando el daño cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+
+Los créditos por indemnización cuando la víctima fuere un asalariado son instransferibles (sic) y se cubrirán preferentemente en una sola exhibición, salvo pacto en contrario.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
+
+ART. 1752.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico o bien en la consideración que de sí misma tienen los demás.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral el responable del mimo (sic) tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetividad (sic), conforme al Artículo 1749.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez, tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcances de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiera tenido la difusión original.
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información en los términos y con las limitaciones de los Artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien mande la reparación del daño moral por responsabilidad contractual o excontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ART. 1753.- Las personas que han causado en común un daño, son responsables solidariamente hacia al víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -5791,25 +5359,103 @@ De las Obligaciones en General
 
 ## TITULO PRIMERO. Fuentes de las Obligaciones
 
-Del Consentimiento
+Vicios del Consentimiento
 
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
 
-ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
 
-ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
 
-ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
 
-ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
 
-ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
 
-ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
 
-ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
 
-ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+
+Cláusulas que pueden contener los Contratos
+
+ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
+
+ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
+
+ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
+
+Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
+
+Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
+
+ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
+
+ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
+
+ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
+
+ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
+
+ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
+
+ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
+
+ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
+
+ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
+
+ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
+
+Interpretación
+
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -9081,51 +8727,47 @@ ART. 2873.- Las inscripciones preventivas se cancelarán no solamente cuando se 
 
 ## TRANSITORIOS
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+ART. 1°.- Este Código entrará en vigor el día 15 de abril de 1947.
 
-Artículo Segundo. Las disposiciones aplicables a la firma electrónica de los servidores públicos del Registro Público de la Propiedad y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Registro Público, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+ART. 2°.- Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
 
-Artículo Tercero. Las disposiciones aplicables a la la (sic) firma electrónica notarial, así como las relacionadas con el apéndice electrónico, folio electrónico, protocolo electrónico, registro de cotejos electrónico y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Archivo General de Notarías, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+ART. 3°.- La capacidad jurídica de las personas se rige por lo dispuesto en este Código, aun cuando modifique o quite la que antes gozaban; pero los actos consumados por personas capaces quedan firmes, aun cuando se vuelcan incapaces conforme a la presente Ley.
 
-Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+ART. 4°.- Los bienes adquiridos antes de la vigencia de la Ley de Relaciones Familiares, por matrimonios celebrados bajo el régimen de sociedad legal, constituyen una copropiedad de los cónyuges, si la sociedad no se liquidó conforme a lo dispuesto en el artículo 4º transitorio de la citada Ley; cesando la sociedad de producir sus efectos desde que esa Ley entró en vigor.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
+ART. 5°.- Los tutores y los albaceas ya nombrados, garantizarán su manejo de acuerdo con las disposiciones de este Código, dentro del plazo de seis meses contados desde que entre en vigor, so pena de que sean removidos de su cargo, si no lo hacen.
 
-DADO EN EL SALÓN DE SESIONES “CONSTITUYENTES 1916-1917” RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS TREINTA DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTE.
+ART. 6°.- Para computar los términos que están corriendo para prescribir, hacer declaración de ausencia, presunciones de muerte, o para cualquiera otro acto jurídico, se estimará el tiempo transcurrido, como una parte proporcional en relación con el total fijado por las Leyes vigentes en aquella época; y se considerará faltante el resto, en proporción a las exigencias de este Código.
 
-ATENTAMENTE
+ART. 7°.- Las disposiciones del Código Civil anterior sobre Registro Público y su Reglamento, seguirán aplicándose en todo lo que no sean contrarias a las prevenciones del presente Código, mientras no se expida el nuevo Reglamento del Registro Público.
 
-QUINCUAGÉSIMA NOVENA LEGISLATURA DEL ESTADO DE QUERÉTARO
+ART. 8°.- Los contratos de censo y de anticresis celebrados bajo el imperio de la legislación anterior, continuarán regidos por las disposiciones de esa legislación.
 
-MESA DIRECTIVA
+La dote ya constituida será regida por las disposiciones de la Ley bajo la que se constituyó y por las estipulaciones del contrato relativo.
 
-DIP. VERÓNICA HERNÁNDEZ FLORES
+ART. 9°.- Queda derogada la legislación civil anterior; pero seguirán aplicándose las disposiciones que la presente Ley expresamente ordene que continúen en vigor.
 
-PRESIDENTA
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
-Rúbrica
+Dado en el Salón de Sesiones del H. Congreso del Estado, a los veinticuatro días del mes de marzo de mil novecientos cuarenta y seis.- Dip. Presidente, Prof. NICOLAS LOPEZ.- Dip. Secretario, ALBERTO ROMERO RIVERA.- Dip. Secretario, ADAN GONZALEZ.- Rúbricas.
 
-DIP. TANIA PALACIOS KURI
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las Autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-PRIMERA SECRETARIA
+Dado en el Palacio del Poder Ejecutivo del Estado, a los veintisiete días del mes de marzo de mil novecientos cuarenta y seis.-
 
-Rúbrica
+GONZALO N. SANTOS
 
-Francisco Domínguez Servién, Gobernador del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado Libre y Soberano de Querétaro y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro; expido y promulgo la presente LEY QUE EXPIDE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO; Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO.
+El Secretario General de Gobierno.
 
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día veintinueve del mes de mayo del año dos mil veinte; para su debida publicación y observancia.
+Lic. LUIS NOYOLA.
 
-Francisco Domínguez Servién
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-Gobernador del Estado de Querétaro
+P.O. 7 DE NOVIEMBRE DE 1948.
 
-Rúbrica
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
 
-Juan Martín Granados Torres
-
-Secretario de Gobierno
-
-Rúbrica
+P.O. 5 DE AGOSTO DE 1954.
 
 ###### ARTICULO TERCERO.
 
@@ -9143,11 +8785,9 @@ El presente Decreto entrará en vigor el día 1o. de enero de 1966.
 
 P.O. 24 DE DICIEMBRE DE 1967.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Se expide la Ley Registral del Estado de Querétaro en los siguientes términos:
-
-LEY REGISTRAL DEL ESTADO DE QUERÉTARO
+El presente Decreto entrará en vigor el día 1o. de enero de 1968.
 
 ###### ARTICULO SEGUNDO.
 
@@ -9234,3 +8874,19 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE JUNIO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 494.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 496.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
