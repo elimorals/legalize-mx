@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-reglamenta-el-funcionamiento-del-puente-de-la-3570"
 country: "mx"
 rank: "ley"
 publication_date: "1982-11-24"
-last_updated: "1992-12-31"
+last_updated: "1996-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE ISLA AGUADA-PUERTO REAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1996.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el miércoles 24 de noviembre de 1982.
 
@@ -51,11 +51,11 @@ El Puente funcionará en forma continua y sólo será cerrado a la circulación 
 
 Podrá cruzar por el Puente todo tipo de vehículos de combustión interna u otro sistema de autopropulsión, con una capacidad de 20 toneladas por eje. (HS-20).
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1996)</small>
 
 ###### ARTICULO 4.
 
-El cruce peatonal y de ciclistas será reglamentado por el Ejecutivo, pero en todo caso, será gratuito. Los vehículos que transiten por el Puente de la Unidad pagarán las cuotas establecidas en la Ley de Hacienda del Estado.
+El cruce peatonal y de ciclistas será reglamentado por el Ejecutivo pero, en todo caso, será gratuito. Todos los vehículos que transiten por el Puente de la Unidad pagarán las cuotas establecidas en la Ley de Hacienda del Estado, con excepción de aquellos cuyo propietario sea la Federación, el Estado o el Municipio, y estén destinados a la prestación de los servicios públicos de rescate, transporte de limpia, ambulancias, auxilio turístico, bomberos, policía judicial federal y estatal, policía preventiva estatal y municipal, siempre y cuando así lo acrediten con la respectiva tarjeta de circulación que indique que efectivamente están destinados a esos servicios, así como los vehículos al servicio de la Armada y del Ejército Mexicanos.
 
 ###### ARTICULO 5.
 
@@ -102,3 +102,9 @@ Segundo.- Se derogan cualesquiera disposiciones que se opongan al Presente Decre
 Primero.- El presente Decreto iniciará su vigencia el día 1o. de Enero de 1993.
 
 Segundo.- Se derogan cualesquiera disposiciones que se opongan al Presente Decreto.
+
+P.O. 19 DE JUNIO DE 1996
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
