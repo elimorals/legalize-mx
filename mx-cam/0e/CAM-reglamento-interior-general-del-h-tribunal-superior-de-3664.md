@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1994-07-25"
+last_updated: "1995-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CAMPECHE, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 1995.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -67,11 +67,21 @@ Los empleados deben registrar su asistencia al inicio y término de sus labores 
 
 Los empleados que por razón de la naturaleza de sus funciones, requieran desarrollarlas fuera de sus oficinas o ausentarse frecuentemente de la misma, podrán ser exentos de registrar su asistencia a propuesta del Juez o jefe de la unidad de trabajo a la que se encuentren adscritos, con la autorización del Presidente del Tribunal. Estos casos deberán ser objeto de revisión cada tres meses, a fin de ratificar el permiso o revocarlo.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1995)</small>
+
 ###### Artículo 6º.
 
-Los empleados gozan de una tolerancia de 20 minutos para su registro de asistencia al inicio de sus labores.
+El registro o control de asistencia de los servidores públicos, se sujetará a las siguientes reglas:
 
-Las madres y en su caso los padres, que ejerzan custodia legal sobre menores de edad, y que tengan que conducirlos a guarderías, escuelas primarias oficiales o privadas, dispondrán hasta de 30 minutos de tolerancia para dicho registro, siempre y cuando acrediten estas circunstancias mediante las constancias respectivas.
+I.- Si el registro se efectúa entre uno y quince minutos después de la hora de entrada, se considerará como entrada normal al trabajo.
+
+II.- Si el registro se efectúa entre los diez y seis, y los treinta minutos de la hora de entrada, se considerará como retardo.
+
+III.- Si el registro se efectúa después de los treinta minutos de la hora de entrada, se considerará como falta de asistencia del servidor público.
+
+IV.- Tres retardos al mes se considerará como una falta de asistencia del servidor público.
+
+V.- Las madres y en su caso los padres, o quienes ejerzan custodia legal sobre menores o discapacitados, y que tengan que conducirlos a guarderías, escuelas primarias o centros de rehabilitación, dispondrán hasta treinta minutos de tolerancia para dicho registro, siempre y cuando acrediten estas circunstancias mediante las constancias respectivas. Este horario no será acumulable en lo que disponen las fracciones I y II.
 
 ###### Artículo 7º.
 
@@ -1120,3 +1130,9 @@ P.O. 25 DE JULIO DE 1994.
 > <small>(F. DE E., P.O. 30 DE JULIO DE 1994)</small>
 
 Unico: Este Acuerdo entrará en vigor el día 1o. de Agosto del presente año de 1994, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE AGOSTO DE 1995.
+
+Primero.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+Segundo.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado, publíquese este acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, y hágase del conocimiento de los Organos del Poder Judicial del Estado.
