@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1944-10-17"
+last_updated: "1993-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 1993.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -868,6 +868,8 @@ Las correcciones disciplinarias que, en el caso del artículo anterior, pueden i
 
 I.- Amonestación;
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 II.- multa hasta de cien pesos;
 
 III.- arresto hasta por quince días;
@@ -922,7 +924,7 @@ Es de imprudencia el que se comete por imprevisión, negligencia, impericia, fal
 
 ###### ARTICULO 102.
 
-La intensión delictuosa se presume, salvo prueba en contrario.
+La intensión (sic) delictuosa se presume, salvo prueba en contrario.
 
 La presunción de que un delito es intencional no quedará destruida, aunque el acusado pruebe alguna de las siguientes circunstancias:
 
@@ -1430,6 +1432,8 @@ Si la ley fijare los extremos, la autoridad judicial impondrá la que estime jus
 
 ### CAPITULO II. Extinción de la pena
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 173.
 
 La substitución no puede hacerse sino por la autoridad judicial cuando este Código lo permita y al dictarse en el proceso la sentencia definitiva imponiendo una pena diversa de la señalada en la ley.
@@ -1566,7 +1570,7 @@ La prescripción de la acción penal se interrumpirá por las actuaciones judici
 
 ###### ARTICULO 193.
 
-La pena se extingue por muerte del sentenciado, prescripción, amnistía o indulto. Estas causas deben hacerse valer de oficio.
+La pena se extingue por muerte del sentenciado, prescripción, amnistía, indulto o reconocimiento de inocencia. Estas causas deben hacerse valer de oficio.
 
 ###### ARTICULO 194.
 
@@ -1608,11 +1612,31 @@ El indulto no puede concederse sino de pena impuesta por sentencia irrevocable.
 
 Se concederá indulto cualquiera que sea la pena impuesta y se otorgará la rehabilitación cuando aparezca que el condenado es inocente.
 
-Se podrá conceder indulto, sin condición alguna, de cualquiera pena, cuando el condenado haya prestado servicios importantes a la Nación o cuando el Ejecutivo Federal juzgue que así lo exigen la tranquilidad o la seguridad públicas.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad o seguridad públicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, delitos contra el Derecho de Gentes, rebelión, insubordinación causando la muerte al superior, asonada, abandono de puesto a que se refieren las fracciones II y III del artículo 312, abandono de buque o convoy en los casos de las fracciones VI del artículo 318, I del 319 y artículo 321, extralimitación y usurpación de mando o comisión en el caso de la fracción III del artículo 323, infracción de deberes militares correspondientes a cada militar según su comisión o empleo a que se refiere el artículo 385, ni reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+I.- Cuando haya prestado servicios importantes a la Nación, o
+
+> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+II.- Cuando existan circunstancias especiales en su favor.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+No se aplicará lo dispuesto en el párrafo anterior, al indulto a que se refiere la fracción V del artículo 176 de este Código.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño causado.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 202.
 
-Cuando se conceda indulto de la pena de muerte, ésta se conmutará en la de prisión extraordinaria, salvo el caso de indulto necesario en que debe relevarse de toda pena al condenado.
+Cuando se conceda indulto de la pena de muerte, ésta se conmutará por la de prisión extraordinaria. En el caso de reconocimiento de inocencia, se relevará de toda pena al sentenciado.
 
 ## TITULO SEXTO. Delitos contra la seguridad exterior de la Nación
 
@@ -1979,6 +2003,8 @@ Los oficiales en el caso de la fracción II del presente artículo, además de l
 ###### ARTICULO 248.
 
 Al que extravíe la bandera o estandarte de una corporación en un cuartel o en marcha, se le castigará, en tiempo de paz, con ocho meses de prisión, y en campaña, con dos años.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 249.
 
@@ -5432,7 +5458,7 @@ I.- En los casos del párrafo segundo de la fracción X del artículo 20 constit
 
 II.- cuando habiéndose pronunciado sentencia condenatoria en primera instancia, la haya cumplido íntegramente el acusado, y esté pendiente del recurso de apelación.
 
-### CAPITULO III. De la conmutación, reducción, indulto y rehabilitación
+### CAPITULO III. De la conmutación, reducción, indulto, reconocimiento de inocencia y rehabilitación
 
 ###### ARTICULO 799.
 
@@ -5477,6 +5503,8 @@ Cuando por razón de la hora o por ser día feriado no pueda constituirse el dep
 II.- en caución hipotecaria otorgada por el reo o por terceras personas, sobre inmuebles cuyo valor catastral sea, cuando menos, de tres veces el monto de la suma fijada ,y
 
 III.- en fianza personal bastante, a juicio del juez, que podrá constituirse en el mismo expediente de autos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 806.
 
@@ -5858,6 +5886,8 @@ El día de la audiencia el secretario dará cuenta con el expediente y las parte
 
 Cumplido el término de la condena, si el director del establecimiento penal, no tuviere el fallo sobre la retención, deberá poner al reo inmediatamente en libertad.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 869.
 
 El que hubiere sido condenado por sentencia irrevocable y se encontrare en alguno de los casos que mencionan las fracciones I a IV del artículo 176, podrá ocurrir al Ejecutivo por conducto de la Secretaría de Guerra y Marina, solicitando la conmutación de la pena que se le hubiere impuesto.
@@ -5878,13 +5908,17 @@ El tribunal, después de oír al Ministerio Público, elevará la instancia con 
 
 Ni la solicitud de conmutación ni la de reducción de pena, suspenderán la ejecución, excepto cuando se trate de la conmutación de pena capital.
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 873.
 
-El recurso de indulto necesario sólo podrá interponerse respecto de penas impuestas en sentencia irrevocable.
+El reconocimiento de inocencia sólo podrá concederse respecto de penas impuestas en sentencia irrevocable.
+
+> <small>(REFORMADO, PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 874.
 
-El sentenciado que se repute con derecho a obtener el indulto, por considerarse inocente, podrá pedirlo ocurriendo por escrito al Supremo Tribunal Militar, alegando la causa o causas en que lo funde y que no pueden ser más que alguna de las siguientes:
+El reconocimiento de inocencia del sentenciado se podrá basar en alguno de los motivos siguientes:
 
 I.- Que no existió el hecho material que sirvió de base para la condenación;
 
@@ -5892,9 +5926,19 @@ II.- que aun habiendo existido el hecho y éste hubiera sido ejecutado por la pe
 
 III.- cuando dos o más personas hayan sido condenadas por un mismo delito y sea imposible que todas ellas lo hayan cometido.
 
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+IV.- cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 1993)</small>
+
+V.- cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se haya fundado aquélla.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 875.
 
-El sentenciado acompañará a su instancia los justificantes de la causa o causas en que funde su inocencia, o protestará exhibirlos oportunamente.
+El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá por escrito al Supremo Tribunal Militar, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente.
 
 ###### ARTICULO 876.
 
@@ -5904,21 +5948,29 @@ Presentada la solicitud al Supremo Tribunal Militar, éste pedirá el proceso in
 
 El día señalado para la audiencia, el secretario hará relación de autos, y recibida la prueba, informará el (sic) reo o la persona por él designada para ese fin y, en defecto de ella, lo hará el jefe del Cuerpo de Defensores, oyéndose también al Ministerio Público.
 
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 878.
 
-Dentro de los cinco días siguientes al en que se hubiere efectuado la audiencia, el tribunal declarará si en su concepto es o no fundada al (sic) solicitud del reo. En el primer caso, remitirá con informe las diligencias originales, a la Secretaría de Guerra y Marina para que se otorgue el indulto; en el segundo mandará archivar las diligencias.
+Dentro de los cinco días siguientes al en que se hubiere efectuado la audiencia, previa vista a las partes, el Tribunal declarará si en su concepto es o no fundada la solicitud del sentenciado. En el primer caso, remitirá con informe las diligencias originales a la Secretaría de la Defensa Nacional, la que a su vez las hará llegar al Ejecutivo Federal para que sin más trámite reconozca la inocencia del sentenciado; en el segundo, mandará archivar las diligencias.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 879.
 
-Cuando el indulto se solicite por gracia, en los casos en que este Código no exige para ello la comprobación de determinados requisitos, sobre extinción de parte de la pena impuesta y conducta que durante ese tiempo hubiere teniendo el sentenciado, éste podrá ocurrir a la Secretaría de Guerra y Marina, únicamente con su instancia y la justificación, en su caso, de los servicios eminentes que hubiere prestado; pero si la ley exigiere dichos requisitos al presentar esta instancia acompañará a ella, además del testimonio de la sentencia, un certificado del jefe de la prisión en que se encuentre, con el que compruebe el tiempo que haya sufrido de la pena impuesta, así como su buena conducta y enmienda, en la forma exigida por la ley, para que se pueda obtener la libertad preparatoria.
+El sentenciado que pretenda obtener indulto, ocurrirá por escrito a la Secretaría de la Defensa Nacional, acompañando testimonio de la sentencia, un certificado expedido por el jefe de la prisión en que se encuentre, con el que compruebe el tiempo que haya sufrido la pena impuesta, un dictamen en el cual se haga constar que el solicitante refleja un alto grado de readaptación social y que su liberación no representa un peligro para la tranquilidad o seguridad públicas, así como la justificación de la prestación de los servicios importantes a la Nación o de la existencia de las circunstancias especiales que concurran en su favor.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 880.
 
-Si el Presidente de la República considerase suficiente esos datos para formarse juicio del expediente, otorgará o denegará la gracia; no encontrándolos bastantes, remitirá el ocurso con los documentos que lo acompañen, al Supremo Tribunal Militar, para que éste, oyendo al Ministerio Público, informe sobre la petición, teniendo presente al hacerlo si el delito por el que fue condenado el reo, es de frecuente comisión en el ejército; y concluyendo por indicar cuáles sean, en su concepto, los efectos probables de la denegación o concesión de la gracia.
+El Ejecutivo Federal en vista de los comprobantes, o si así conviniera a la tranquilidad o seguridad públicas, concederá el indulto sin condición alguna o con las que estime convenientes.
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 881.
 
-Tramitando de esa manera el expediente se devolverá a la Secretaría de Guerra y Marina para que, por su conducto, se dicte por el Ejecutivo la resolución que corresponda; si ésta fuere favorable se comunicará al reo, al Supremo Tribunal y al Procurador General para que se hagan las anotaciones respectivas; publicándose además por la Orden General de la Plaza.
+Todas las resoluciones en que se conceda indulto o reconocimiento de inocencia, se publicarán en la Orden General de la Plaza de todas y cada una de las Zonas Militares y se comunicarán al Tribunal que hubiere dictado la sentencia para que haga la anotación respectiva en el expediente del caso.
 
 ## TITULO SEPTIMO. De los juicios de responsabilidad de los funcionarios y empleados del orden judicial
 
@@ -6158,7 +6210,7 @@ México, D.F., a 29 de agosto de 1933.- El Secretario de Gobernación.- Eduardo 
 
 Al C....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O.F. 29 DE SEPTIEMBRE DE 1937.
 
@@ -6177,3 +6229,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO 2°.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE JUNIO DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley de Indulto para los Reos de los Fueros Militar, Federal y del Orden Común del Distrito y Territorios Federales, publicada en el Diario Oficial de la Federación el 18 de octubre de 1946.
