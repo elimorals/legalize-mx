@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1998-01-30"
+last_updated: "1998-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -187,9 +187,11 @@ I.- Oficialía Mayor de Gobierno;
 
 II.- Procuraduría General de Justicia;
 
-III.- Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1998)</small>
 
-IV.- Secretaría de Planeación y Presupuesto;
+III.- Secretaría de Planeación y Finanzas;
+
+IV.- (DEROGADA, P.O. 5 DE JUNIO DE 1998)
 
 V.- Secretaría de Asentamientos Humanos y Obras Públicas;
 
@@ -483,157 +485,85 @@ IX.- Imponer al personal de la Procuraduría y Agentes del Ministerio Público y
 
 X.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1998)</small>
+
 ### CAPITULO V
 
-DE LA COMPETENCIA DE LA SECRETARIA DE FINANZAS.
+DE LA COMPETENCIA DE LA SECRETARIA DE PLANEACION Y FINANZAS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 24.
 
-A la Secretaría de Finanzas del Estado corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría de Planeación y Finanzas corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Formular y someter a la consideración del Gobernador del Estado la política hacendaria y crediticia del Gobierno;
+I.- Coordinar la planeación del desarrollo estatal, así como formular y aplicar la política hacendaria, crediticia y del gasto público del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+II.- Proyectar y calcular los ingresos y egresos del Gobierno del Estado, tomando en cuenta las necesidades de recursos para la ejecución del Plan Estatal de Desarrollo y sus programas;
 
-II.- Recaudar y administrar las contribuciones en los términos de las leyes fiscales correspondientes, así como otros ingresos que deba percibir el erario estatal, y que tenga su origen en otras disposiciones legales;
+III.- Formular y presentar cada año a la consideración del Gobernador del Estado, los anteproyectos de Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado;
 
-III.- Cumplir y hacer cumplir las Leyes, Reglamentos, Convenios y demás disposiciones de carácter fiscal;
+IV.- Orientar a las dependencias y entidades del Poder Ejecutivo, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-IV.- Mantener actualizado el Padrón Estatal de Contribuyentes;
+V.- Recaudar y administrar las contribuciones que correspondan al estado, tanto por ingresos propios como los que por ley o convenios de coordinación reciba de la Federación, así como otros ingresos que deba percibir el erario estatal a nombre del fisco o por cuenta ajena, y que tenga su origen en otras disposiciones legales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+VI.- Cumplir y hacer cumplir las Leyes, Reglamentos, Convenios y demás disposiciones de carácter fiscal;
 
-V.- Realizar visitas domiciliarias, revisiones, inspecciones y auditorías a los contribuyentes, a fin de comprobar el exacto cumplimiento de las leyes fiscales;
+VII.- Ordenar y practicar visitas domiciliarias, revisiones, inspecciones y auditorías así como los demás actos cuya competencia se atribuya al fisco estatal en las disposiciones fiscales y los Convenios de Colaboración Administrativa, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos estatales y federales;
 
-VI.- Proporcionar, a solicitud de los Ayuntamientos o de particulares, orientación en materia de interpretación y aplicación de las Leyes tributarias, tanto del Estado como de la federación, realizando de oficio o a petición de parte, una función permanente de orientación fiscal, dictando los acuerdos necesarios, los cuales adquirirán el carácter de obligatorios para todas sus dependencias y unidades administrativas;
+VIII.- Organizar y llevar la contabilidad de la Hacienda Pública Estatal; formular las cuentas públicas y consolidar los estados financieros de la Administración Pública Centralizada, así como coordinar las que corresponda (sic) a las entidades del sector Paraestatal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+IX.- Acordar la cancelación de créditos fiscales, de conformidad a la legislación aplicable;
 
-VII.- Formular e integrar la estadística fiscal y financiera del Gobierno del Estado;
+X.- Representar al Gobierno del Estado en los juicios que se ventilen ante los Tribunales, cuando tenga interés el Fisco Estatal y el de la Federación, de conformidad con lo dispuesto en la Ley de Coordinación Fiscal y Convenios suscritos en la materia, que tengan vigencia en el Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XI.- Emitir las bases para fijar precios, tarifas, tasas y cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado, y cuando correspondan a sus funciones de derecho público que no estén previstos en la Ley de Ingresos del Estado;
 
-VIII.- Organizar y llevar la contabilidad de la hacienda pública estatal, formular la cuenta anual y consolidar los estados financieros tanto de la Administración Pública Centralizada como la Paraestatal;
+XII.- Revisar, y en su caso, aprobar los programas financieros y crediticios de la Administración Pública Centralizada y Paraestatal, así como administrar la deuda pública del estado, informando al Gobernador sobre la situación de la misma y, en general, sobre el estado de las finanzas públicas;
 
-IX.- Informar a la Secretaría de la Contraloría General sobre los sistemas de contabilidad, su control financiero, deuda pública y manejo de fondos y valores;
+XIII.- Administrar los fondos y valores del Gobierno del Estado, incluyendo su aplicación, con base en el Presupuesto Anual de Egresos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XIV.- Atender las observaciones de glosa que finque el Congreso del Estado de las Cuentas Públicas del Poder Ejecutivo del Estado;
 
-X.- Acordar la cancelación de créditos fiscales;
+XV.- Establecer y mantener el sistema de presupuesto por programas en las dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XVI.- Llevar el ejercicio, control, seguimiento y evaluación del gasto público del Ejecutivo Estatal, de conformidad a las disposiciones legales vigentes, así como efectuar los pagos que deba realizar el Gobierno del Estado;
 
-XI.- Formar parte de los órganos de dirección y de gobierno de las entidades de la Administración Pública Paraestatal;
+XVII.- Planear e integrar los programas de inversión de la Administración Pública Centralizada y Paraestatal, y los derivados de convenios o de acciones concertadas de desarrollo integral que con tal fin celebre el Gobierno del Estado con la Federación y los Municipios, así como vigilar la administración y ejercicio de los recursos de los mismos;
 
-XII.- Representar al Gobierno del Estado en los juicios que se ventilen ante los Tribunales, cuando tenga interés el Fisco Estatal y el de la federación, de conformidad con lo dispuesto en la Ley de Coordinación Fiscal y Convenios suscritos en la materia, que tengan vigencia en el Estado;
+XVIII.- Vigilar la integración del sistema estatal de estadística e información para la planeación, que opere el Comité de Planeación para el Desarrollo del Estado;
 
-XIII.- Proyectar y calcular los ingresos del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público para la ejecución del Plan Estatal de Desarrollo y sus programas;
+XIX.- Promover en las dependencias y entidades los programas de modernización administrativa derivados del Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XX.- Dictaminar las modificaciones a la estructura orgánica básica de las dependencias y entidades de la Administración Pública Estatal; así como apoyarlas en la formulación de sus instrumentos normativos de carácter administrativo;
 
-XIV.- Formular y presentar cada año a la consideración del titular del Poder Ejecutivo el anteproyecto de Ley de Ingresos del Estado, para el ejercicio fiscal siguiente;
+XXI.- Proporcionar asesoría en materia de planeación, programación, presupuestación, organización administrativa e interpretación y aplicación de las leyes tributarias estatales y federales, que le sea solicitada por las demás dependencias y entidades de la Administración Pública Estatal, Ayuntamientos o particulares, y realizar una labor permanente de difusión y orientación;
 
-XV.- Efectuar los pagos que deba realizar el Gobierno del Estado, previa revisión de la disponibilidad presupuestal señalada en el Presupuesto de Egresos;
+XXII.- Formar parte de los órganos de dirección y de Gobierno de las entidades de la Administración Pública Paraestatal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XXIII.- Dirigir el servicio de procesamiento electrónico de datos a las dependencias y entidades de la Administración Pública Estatal;
 
-XVI.- Emitir las bases para fijar precios, tarifas, tasas y cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado y cuando correspondan a sus funciones de derecho público que no estén previstos en la Ley de Ingresos del Estado;
+XXIV.- Asesorar a las dependencias y entidades en la adquisición, uso y aprovechamiento de los recursos en materia de informática;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XXV.- Intervenir en el establecimiento de criterios y montos de los subsidios y estímulos fiscales, en coordinación con las dependencias a quien corresponda el fomento de las actividades productivas;
 
-XVII.- Revisar y, en su caso, aprobar los programas financieros y crediticios de la Administración Pública Centralizada y de la Paraestatal, así como administrar la deuda pública del Estado, informando al Gobernador sobre la situación de la misma y, en general, sobre el estado de las finanzas públicas;
+XXVI.- Ejercer las atribuciones derivadas de los Convenios de Colaboración Administrativa en materia Fiscal Federal que celebre el Gobierno del Estado con el Gobierno Federal; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+XXVII.- Las demás que determinen expresamente las leyes y reglamentos.
 
-XVIII.- Coordinar y vigilar la administración, ejecución y aplicación de recursos de los programas de inversión de la Administración Pública Centralizada y Paraestatal, así como los convenios y programas de Desarrollo Regional celebrados con la Federación y Municipios;
-
-XIX.- Administrar los fondos y valores del Gobierno del Estado, incluyendo su aplicación, con base en el Presupuesto Anual de Egresos;
-
-XX.- Atender las observaciones de glosa que finque el Congreso del Estado en materia hacendaria;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
-
-XXI.- Vigilar que sus unidades administrativas den exacto cumplimiento a las leyes, al Reglamento Interior de la Secretaría y a los demás instructivos y manuales que emita o apruebe el Secretario;
-
-XXII.- Dirigir el servicio de procesamiento electrónico de datos a las dependencias y entidades de la Administración Pública Estatal;
-
-XXIII.- Asesorar a las Dependencias y Entidades en la adquisición, sobre el uso y aprovechamiento de los recursos en materia de informática, y
-
-XXIV.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1998)</small>
 
 ### CAPITULO VI
 
-DE LA COMPETENCIA DE LA SECRETARIA DE LA CONTRALORIA GENERAL.
+DE LA COMPETENCIA DE LA DIRECCION DE CONTROL Y EVALUACION GUBERNAMENTAL.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 25.
 
-(DEROGADO, P.O. 10 DE OCTUBRE DE 1992)
+A la Dirección de Control y Evaluación Gubernamental, le corresponde la atención y trámite de los siguientes asuntos:
 
-### CAPITULO VII
-
-DE LA COMPETENCIA DE LA SECRETARIA DE PLANEACION Y PRESUPUESTO.
-
-###### ARTICULO 26.
-
-A la Secretaría de Planeación y Presupuesto corresponde la atención y trámite de los siguientes asuntos:
-
-I.- Orientar a las Dependencias y Entidades del Poder Ejecutivo, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
-
-II.- Establecer y mantener, en coordinación con la Secretaría de Finanzas, el sistema de presupuesto por programas en las Dependencias y Entidades de la Administración Pública Estatal, así como el seguimiento y evaluación presupuestal;
-
-III.- Coordinar el proceso de elaboración del Anteproyecto de Presupuesto Anual de Egresos y presentarlo a la consideración del Gobernador del Estado;
-
-IV.- Planear y coordinar los programas de inversión de la Administración Publica Centralizada y la Paraestatal y los Convenios y Programas de Desarrollo Regional que con tal fin celebre el Gobierno del Estado con la Federación y los Municipios;
-
-V.- Formular los dictámenes técnicos de los proyectos de inversión de la Administración Pública Centralizada y la Paraestatal y, en su caso, aprobarlos para su ejecución;
-
-VI.- Promover en las Dependencias y Entidades los Programas de Modernización Administrativa derivados del Plan Estatal de Desarrollo;
-
-VII.- Apoyar a las Dependencias y Entidades de la Administración Pública Estatal en la formulación de sus instrumentos normativos de carácter administrativo;
-
-VIII.- Vigilar la integración y mantener actualizado el Sistema Estatal de Estadística e Información para la Planeación que opere el Comité de Planeación para el Desarrollo del Estado;
-
-IX.- Orientar, a solicitud de los Ayuntamientos, en materia de planeación, programación, presupuestación, organización administrativa y sistemas de información para la planeación, y
-
-X.- Los demás que determinen expresamente las Leyes y Reglamentos.
-
-XI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XIV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XVI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XVII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XVIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XIX.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XX.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XXI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XXII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XXIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-XXIV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1994)</small>
-
-ARTICULO 26 BIS.- A la Dirección de Control y Evaluación Gubernamental, le corresponde la atención y trámite de los siguientes asuntos:
-
-I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública estatal.
+I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública Estatal.
 
 II.- Expedir las normas que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
 
@@ -643,7 +573,7 @@ IV.- Establecer las bases generales para la realización de auditorías en las d
 
 V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
-VI.- Realizar, por sí o a solicitud de la Secretaría de Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
+VI.- Realizar, por si o a solicitud de la Secretaría de Planeación y Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del Sector correspondiente, auditorías y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
 
 VII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
 
@@ -653,13 +583,23 @@ IX.- Establecer y mantener coordinación e intercambiar información y documenta
 
 X.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos.
 
-XI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebran con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan.
+XI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios, o contratos que celebran con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan.
 
 XII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalan, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida.
 
-XIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Finanzas.
+XIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Planeación y Finanzas.
 
 XIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+### CAPITULO VII
+
+DE LA COMPETENCIA DE LA SECRETARIA DE PLANEACION Y PRESUPUESTO.
+
+###### ARTICULO 26.
+
+(DEROGADO, P.O. 5 DE JUNIO DE 1998)
+
+ARTICULO 26 BIS.- (DEROGADO, P.O. 5 DE JUNIO DE 1998)
 
 ### CAPITULO VIII
 
@@ -1414,6 +1354,34 @@ Para efectos administrativos y presupuestales la Secretaría Jurídica y Prevenc
 ###### ARTICULO CUARTO.
 
 El presente decreto entrará en vigor el día primero de enero de 1998, con el Presupuesto de Egresos del Estado del mismo ejercicio fiscal. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 5 DE JUNIO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal de las dependencias fusionadas, que en observancia de este Decreto pase a las (sic) Secretaría de Planeación y Finanzas, en ninguna forma resultará afectado en los derechos laborales que haya adquirido, en virtud de su relación con la Administración Pública del Estado. La Secretaría de Planeación y Finanzas en coordinación con las autoridades competentes, establecerá mecanismos para que las percepciones de los trabajadores no sufran menoscabo en los términos de la Ley del Servicio Civil de los Trabajadores de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
+
+###### ARTICULO TERCERO.
+
+Las referencias que se hacen o se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales a las Secretarías de Finanzas y de Planeación y Presupuesto, se entenderán hechas a la Secretaría de Planeación y Finanzas, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de las Secretarías de Finanzas y de Planeación y Presupuesto que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor el presente Decreto, serán resueltos por la Secretaría de Planeación y Finanzas.
+
+###### ARTICULO QUINTO.
+
+Los bienes, recursos e información que las Secretarías de Finanzas y de Planeación y Presupuesto hayan utilizado para la atención de los asuntos de sus respectivas competencias, se destinarán a las funciones que se señalan en el presente Decreto a la Secretaría de Planeación y Finanzas.
+
+###### ARTICULO SEXTO.
+
+El Titular del Poder Ejecutivo dentro de los noventa días siguientes a partir de la vigencia del presente Decreto, expedirá el Reglamento Interior de la Secretaría de Planeación y Finanzas.
+
+En tanto no se expida el Reglamento a que se refiere el párrafo anterior, la Secretaría de Planeación y Finanzas seguirá aplicando los reglamentos interiores vigentes de las Secretarías de Finanzas y de Planeación y Presupuesto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
