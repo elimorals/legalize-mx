@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1995-09-30"
+last_updated: "1997-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -4189,7 +4189,11 @@ III. El mobiliario de uso doméstico;
 
 IV. Tratándose de familias campesinas, el equipo agrícola: considerándose como tal, los semovientes, las semillas, los útiles, implementos y aperos de labranza que utilicen personalmente los miembros de la familia;
 
-V. Tratándose de familias obreras, el equipo de trabajo, considerándose como tal la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique y que también personalmente utilicen los miembros de ella.
+V. Tratándose de familias obreras, el equipo de trabajo, considerándose como tal la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique y que también personalmente utilicen los miembros de ella;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 1997)</small>
+
+VI. Los bienes que se consideren instrumentos de trabajo, fuente de ingresos de la que depende la manutención de la familia;
 
 ###### Artículo 737.
 
@@ -4217,15 +4221,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto alguno legal.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
+
 ###### Artículo 743.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será:
-
-I. Hasta de diez mil pesos para la municipalidad de Oaxaca;
-
-II. Hasta de ocho mil pesos, para las demás municipalidades que tengan diez mil habitantes o más y hasta de cinco mil pesos para las demás municipalidades que integran el Estado.
-
-El valor de los bienes que forman el patrimonio de la familia, se calculará por los valores catastrales si se trata de inmuebles y si se trata de muebles por los documentos respectivos y a falta de éstos por avalúo pericial.
+El valor máximo de los bienes afectos al patrimonio familiar, conforme al Artículo 736, tratándose de la casa habitación y mobiliario de uso doméstico, será la cantidad que resulte de multiplicar por 12557 el importe del salario mínimo general diario, vigente en el Estado; la misma cuantía para el caso de que la parcela cultivable constituya el patrimonio familiar y por lo que se refiere a los instrumentos de trabajo que sirven para la manutención de los integrantes de la familia, será la suma obtenida de multiplicar el importe del salario indicado por 3000, de tal manera que el valor máximo de bienes afectos al patrimonio familiar, no podrá exceder del resultado de elevar el importe del salario mínimo general diario vigente en el Estado, a 15557 veces.
 
 ###### Artículo 744.
 
@@ -4239,9 +4239,11 @@ III. Por el pariente que suministre alimentos a sus ascendientes, descendientes 
 
 IV. Por el tutor cuando administre bienes pertenecientes al incapacitado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1997)</small>
+
 ###### Artículo 745.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
+El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, en los términos del Artículo 753 de este Código, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
 
 Además comprobará lo siguiente:
 
@@ -4255,13 +4257,17 @@ IV. Que son propiedad del constituyente los bienes destinados al patrimonio, y q
 
 V. Que el valor de los bienes que van a constituir el patrimonio, no excede del fijado en el artículo 743.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
+
 ###### Artículo 746.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el juez, previo los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el registro público.
+Si se llenan las condiciones exigidas en el Artículo anterior, el Juez, seguido el procedimiento, previsto en el artículo 753 de este Código, aprobará la constitución del patrimonio de la familia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
 
 ###### Artículo 747.
 
-Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 743 podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
+Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el Artículo 743, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fija el Artículo 753 de este Código.
 
 ###### Artículo 748.
 
@@ -4299,11 +4305,13 @@ IV. Cuando se demuestre que hay gran necesidad o notoria utilidad para la famili
 
 V. Cuando por causa de utilidad pública o social se expropien los bienes que lo formen;
 
-VI. Por la muerte del que lo constituyó.
+VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1997)</small>
 
 ###### Artículo 753.
 
-La declaración de que queda extinguido el patrimonio la hará el juez competente, mediante procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+La declaración de constitución, de modificación o extinción del patrimonio familiar, se promoverá ante el Juez competente, por la vía de jurisdicción voluntaria, y en caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Unico, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Registro Público, para que se haga la inscripción, anotación o cancelación que corresponda.
 
 Cuando el patrimonio se extinga por la causa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
 
@@ -14964,3 +14972,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE SEPTIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE MAYO DE 1997.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
