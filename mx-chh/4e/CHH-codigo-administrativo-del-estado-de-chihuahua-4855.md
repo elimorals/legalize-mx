@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2003-03-08"
+last_updated: "2003-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8255,9 +8255,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1489.
 
@@ -8313,7 +8313,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1502.
 
@@ -8323,9 +8323,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1504.
 
@@ -8371,11 +8371,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEXTA. DEL MEJORAMIENTO
 
@@ -8403,9 +8399,13 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1521.
 
@@ -8425,7 +8425,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 ###### ARTICULO 1525.
 
@@ -8445,7 +8445,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1529.
 
@@ -8463,9 +8463,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1533.
 
@@ -8475,11 +8475,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
-
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
-
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1535.
 
@@ -8511,7 +8509,9 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 1542.
 
@@ -8537,7 +8537,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -9365,23 +9365,23 @@ DECIMA TERCERA PARTE
 
 ### CAPITULO I. DE LA COMPETENCIA Y DEL ACTO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1631.
 
-Las disposiciones de este Título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
+Las disposiciones de este título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, comprendiéndose tanto la Administración Pública Centralizada como la Paraestatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1632.
 
-Los organismos, funcionarios y empleados del Poder Ejecutivo del Estado, en los asuntos de sus respectivas competencias, tienen jurisdicción en todo el Estado. Se exceptúan de esta regla general, las autoridades municipales que fungen como auxiliares del Poder Ejecutivo y aquellos funcionarios y empleados que por disposición expresa de la ley o la naturaleza específica de la comisión o función que se les encomiende, deban restringir sus actividades a sólo una parte del territorio del Estado.
+Los funcionarios y empleados de la Administración Pública Centralizada y de la Paraestatal a que se refieren los artículos 2º y 3º de la Ley Orgánica del Poder Ejecutivo del Estado, en los asuntos de sus respectivas competencias, tienen jurisdicción en todo el Estado. Se exceptúan de esta regla general las autoridades municipales que fungen como auxiliares del Poder Ejecutivo y aquellos funcionarios y empleados que por disposición expresa de la ley o a la naturaleza específica de la comisión o función que se le encomiende, deban restringir sus actividades a sólo una parte del territorio del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1633.
 
-Todos los organismos, funcionarios y empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les están conferidas por la ley, los reglamentos o los acuerdos dictados por el Gobernador del Estado, debiendo cumplir en todo momento con los requisitos y elementos que para el acto administrativo establece este título.
+Todos los organismos, así como funcionarios y empleados de la Administración Pública Centralizada y de la Paraestatal, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les están conferidas por la ley, los reglamentos o los acuerdos dictados por el Gobernador del Estado, debiendo cumplir en todo momento con los requisitos y elementos que para el acto administrativo establece este título.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -9449,7 +9449,7 @@ Las dependencias o funcionarios del Ejecutivo no podrán impugnar las resolucion
 
 ### CAPITULO III. DE LA CADUCIDAD, CANCELACION, RESCISION O NULIDAD
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1638.
 
@@ -9533,25 +9533,51 @@ La revocación se decretará de plano, únicamente en los casos en que los perju
 
 ###### ARTICULO 1646.
 
-La caducidad, cancelación, rescisión o nulidad de permisos, autorizaciones, concesiones o contratos que otorgue o celebre el Poder Ejecutivo, podrá ser decretada administrativamente por el Gobernador del Estado. Para tal fin, en dichos permisos, autorizaciones, concesiones o contratos deberán incluirse una o varias cláusulas en que categóricamente se establezca y acepte la facultad del Gobernador para decretar la cancelación, la caducidad o la rescisión, cuando la empresa o el particular interesado falte al cumplimiento de las obligaciones básicas del contrato.
+La caducidad, cancelación, rescisión o nulidad de permisos, autorizaciones, concesiones o contratos, que celebre tanto la Administración Pública Centralizada como la Paraestatal, podrá ser decretada administrativamente por el Gobernador del Estado. Para tal fin, en dichos permisos, autorizaciones, concesiones o contratos deberán incluirse una o varias cláusulas en que categóricamente se establezca y acepte la facultad del Gobernador para decretar la cancelación, la caducidad, la nulidad o la rescisión, cuando la empresa o el particular interesado falte al cumplimiento de las obligaciones básicas del contrato.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+Para los efectos del párrafo anterior y tratándose de los entes de la Administración Pública Paraestatal, los titulares de los mismos harán la solicitud correspondiente, fundada y motivada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1647.
 
-Salvo previsión expresa en la ley o en el permiso, contrato, concesión o autorización, el procedimiento para decretar la caducidad, cancelación o rescisión se sujetará a las siguientes bases:
+Salvo previsión expresa en la ley o en el permiso, contrato, concesión o autorización, que celebre u otorgue tanto la Administración Pública Centralizada como la Paraestatal, el procedimiento para decretar la caducidad, cancelación, rescisión o nulidad se sujetará a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
 I.- El trámite se hará por conducto de la Secretaría General de Gobierno;
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
 II.- Se notificará personalmente al interesado la pretensión, debidamente fundada y motivada del organismo de la Administración Estatal;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
 III.- Los interesados afectados, por sí o por representante legalmente investido, podrán oponerse por escrito en un término de cinco días hábiles a la pretensión de la autoridad estatal, debiendo señalar domicilio para oír y recibir notificaciones, ofrecer pruebas, narrar los hechos y fundamentos de derecho en que se apoye;
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
 IV.- Atendida la naturaleza de las pruebas que deban practicarse, la Secretaría General de Gobierno abrirá un término de hasta quince días hábiles, en el cual se admitirán y desahogarán las pruebas que hayan sido ofrecidas oportunamente, con excepción de la confesional de las autoridades que está prohibida. La autoridad estatal queda facultada para obtener todos los informes pertinentes y en general los elementos que sirvan para apoyar la legalidad y oportunidad de su pretensión;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
 V.- Desahogadas las pruebas o concluido el período probatorio, se concederá un término común de tres días hábiles para alegar; y
 
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
 VI.- Expresados los alegatos o concluido el término correspondiente, el Secretario General de Gobierno elaborará el proyecto correspondiente para que sea sometido a consideración del Gobernador de (sic) Estado para que la resolución sea emitida en un plazo no mayor de 15 días, la que notificará personalmente a los interesados.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2003)</small>
+
+ARTICULO 1647 BIS.- Asimismo la Secretaría General de Gobierno, a petición de los funcionarios de la Administración Pública Centralizada y Paraestatal, podrá, durante el procedimiento referido en el artículo anterior, decretar la suspensión de los contratos, permisos, concesiones o autorizaciones, cuando concurran razones de interés general, existan causas justificadas que impidan la continuación de los mismos o se demuestre que de continuar con las obligaciones ahí pactadas, se ocasionaría un daño o perjuicio grave a los fondos públicos del Estado, o de los entes de la Administración Pública Paraestatal, hasta en tanto se resuelva en definitiva la caducidad, cancelación, rescisión o nulidad. Además, podrá ordenar la ocupación de los bienes de dominio o utilidad públicos, que se están destinando a la prestación del servicio público correspondiente.
+
+La suspensión decretada en términos del párrafo anterior, no podrá exceder de noventa días, en cuyo término se resolverá lo conducente.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2003)</small>
+
+ARTICULO 1647 TER.- Contra las resoluciones dictadas en el procedimiento al que se refiere este capítulo, procederá el juicio de oposición previsto en el Código Fiscal del Estado.
+
+La autoridad judicial ante quien se tramite el juicio de oposición, podrá decretar la suspensión del acto, siempre y cuando concurran los requisitos establecidos por el artículo 1643 de este Código.
 
 (REUBICADA, P.O. 28 DE AGOSTO DE 1982)
 
@@ -10724,3 +10750,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
+
+P.O. 29 DE MARZO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
