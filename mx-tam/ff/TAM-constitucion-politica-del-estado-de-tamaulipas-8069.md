@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1993-12-25"
+last_updated: "1994-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -441,13 +441,25 @@ De no asistir la Diputación Permanente, o la Mesa Directiva en caso de prórrog
 
 El día primero de Enero siguiente, el Congreso procederá al nombramiento de un Presiente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra. El Presidente del Congreso declarará a éste legítimamente constituído e instalado y en aptitud de ejercer sus funciones.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
 
 ###### Art. 44.
 
-El Congreso tendrá dos períodos de Sesiones Ordinarios cada año: El primero improrrogable, comenzará el uno de enero y terminará el treinta de abril; el segundo prorrogable hasta por un mes, dará principio el uno de septiembre y terminará el treinta de noviembre. El Congreso tendrá sesiones en las fechas que señalen la Ley Orgánica del Poder Legislativo y su Reglamento.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
+
+###### ARTICULO 45.
+
+El Congreso en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden conforme a la Constitución y a las Leyes; de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales y Estatal, correspondientes al año anterior y que serán remitidas por conducto del Ejecutivo en la segunda quincena del mes de marzo, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos; si se actuó de conformidad con las leyes de la materia; si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
+
+###### ARTICULO 46.
+
+El Congreso en el segundo período de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año por conducto del Ejecutivo. Sólo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al última (sic) año de la elección constitucional de Gobernador y Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre y procederá en la forma que establece el artículo que antecede.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 45.
 
@@ -621,7 +633,7 @@ XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le fa
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-XXX.- Erigirse en Colegio Electoral para calificar las elecciones de Ayuntamientos, Diputados Locales y Gobernador del Estado.
+XXX. Erigirse en Colegio Electoral para calificar las elecciones de Ayuntamientos, Diputados Locales y Gobernador del Estado.
 
 XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables.
 
@@ -1133,7 +1145,7 @@ X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ENERO DE 1993)</small>
 
-### CAPITULO II. DE LA ADMINISTRACION PUBLICA
+### CAPITULO II. De la Administración Pública
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
@@ -1347,9 +1359,9 @@ XII.- Formular su Reglamento Interior.
 
 XIII.- Conocer de las quejas formuladas contra los Servidores Públicos del Poder Judicial.
 
-> <small>(REFORMADA, P.O.6 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1994)</small>
 
-XIV.- Rendir, por conducto de su Presidente, un Informe Anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso que se verificará durante la segunda quincena del mes de febrero en los primeros cinco años del sexenio judicial. En el sexto año se realizará en los primeros quince días del mes de enero; y
+XIV.- Rendir, por conducto de su Presidente, un informe anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso, que se verificará durante la primera quincena del mes de marzo en los primeros cinco años del sexenio judicial. En el sexto año se realizará en los primeros quince días del mes de enero;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -1557,9 +1569,9 @@ V.- Los presidentes municipales, regidores y síndicos de los Ayuntamientos elec
 
 VI.- Por cada miembro propietario del Ayuntamiento se elegirá un Suplente.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1994)</small>
 
-VII.- Los Ayuntamientos, antes del día de treinta de noviembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de leyes de ingresos, y rendirán sus cuentas anuales en la primera quincena del mes de febrero, con excepción del último año de su gestión, en el que rendirán sus cuentas en los términos que establece la fracción I del Artículo 46 de esta Constitución;
+VII.- Los Ayuntamientos, durante los primeros diez días del mes de noviembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de Leyes de Ingresos, y rendirán sus cuentas anuales durante la segunda quincena del mes de marzo, con excepción del último año de su gestión, en el que rendirán sus cuentas en los términos que establece el Artículo 46 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2484,3 +2496,9 @@ P.O. 25 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción del actual período de sesiones que concluirá el día 30 de abril de 1994.
