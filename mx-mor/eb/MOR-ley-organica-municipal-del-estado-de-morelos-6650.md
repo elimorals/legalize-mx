@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "2000-08-30"
+last_updated: "2000-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -818,6 +818,10 @@ VIII.- Las demás que les otorguen esta Ley, sus reglamentos y otros ordenamient
 Las autoridades auxiliares municipales actuarán en sus respectivas jurisdicciones con las atribuciones que les otorgan esta Ley, los reglamentos y las que expresamente les confieran el Ayuntamiento o el Presidente Municipal, debiendo, en términos de la presente Ley, mantener el orden, la tranquilidad y la seguridad de los vecinos de la circunscripción municipal que les corresponda.
 
 En el presupuesto anual de egresos del municipio se destinará una partida para sufragar los gastos que se deriven de las actividades que en ejercicio de sus funciones desarrollen las autoridades auxiliares municipales.
+
+> <small>(ADICIONADO. P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+Para el caso de los ayudantes municipales, la partida a que se refiere el párrafo anterior, deberá considerar invariablemente que sea suficiente para cubrir los gastos de administración que por motivo de su actividad se generen.
 
 ###### Artículo 65.
 
