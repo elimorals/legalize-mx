@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2002-06-10"
+last_updated: "2002-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -9769,6 +9769,60 @@ IV. En los casos señalados en las fracciones I y II cuyos plazos de amortizaci�
 
 La emisión de bonos, valores y otros títulos de deuda serán pagaderos en moneda nacional y dentro del territorio de la República; y tanto en el acta de emisión como en los títulos, deberán citarse los datos de su inscripción en el registro de deuda pública. Asimismo, deberá constar la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales; sin estos datos los títulos carecerán de validez.
 
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
+
+###### Artículo 265-A.
+
+El Estado por conducto del Gobernador a través de la Secretaría, podrá afectar como fuente o garantía de pago, o ambas, de las obligaciones que contraiga, incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el mercado de valores, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios, así como las participaciones derivadas del Sistema Nacional de Coordinación Fiscal.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
+
+###### Artículo 265-B.
+
+Los valores, tales como los bonos, los certificados bursátiles, así como los certificados de participación ordinaria y otros títulos de deuda que el Estado emita en serie o en masa y que estén destinados a circular en el mercado de valores, son títulos de deuda pública, sujetos a los siguientes requisitos y previsiones:
+
+I. Su emisión corresponderá al Gobernador por conducto de la Secretaría.
+
+II. Podrán ser emitidos por el Estado a través de un fideicomiso.
+
+III. Serán pagaderos en México, en moneda nacional.
+
+IV. Podrán estar denominados en unidades de inversión.
+
+V. Sólo podrán ser adquiridos por personas de nacionalidad mexicana.
+
+VI. Los recursos captados se destinarán a inversiones públicas productivas, en términos del artículo 260 de este Código.
+
+VII. Se inscribirán en la sección de valores del Registro Nacional de Valores y en la Bolsa Mexicana de Valores.
+
+VIII. Deberán contener los datos fundamentales de su autorización de su inscripción en el Registro de Deuda Pública Estatal y la prohibición de su venta a extranjeros.
+
+IX. El Ejecutivo del Estado solo podrá emitir valores con una tasa de interés de hasta el 1% más del rendimiento de cualquier valor bursátil en el mercado nacional.
+
+X. Todo lo no previsto en este artículo, será resuelto por el Gobernador a través de la Secretaría.
+
+El resultado de lo anterior se hará del conocimiento de la Legislatura.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
+
+###### Artículo 265-C.
+
+El Gobernador por conducto de la Secretaría podrá ocurrir al mercado de valores para captar, mediante la emisión de valores, los recursos para financiar inversiones públicas productivas.
+
+Los valores serán colocados en el mercado de valores por un agente colocador, entre inversionistas mexicanos y dentro del territorio nacional, a través de la Bolsa Mexicana de Valores.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
+
+###### Artículo 265-D.
+
+Para efectos de la emisión de valores, podrán constituirse fideicomisos sobre las inversiones productivas creadas, con el propósito de eficientar el manejo de los recursos captados.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2002)</small>
+
+###### Artículo 265-E.
+
+En todo lo referente al manejo, colocación, emisión y operación de los valores, se aplicará la Ley del Mercado de Valores y demás disposiciones legales.
+
 ### CAPITULO SEGUNDO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
 ###### Artículo 266.
@@ -10714,3 +10768,9 @@ G.G. 10 DE JUNIO DE 2002.
 PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 31 DE JULIO DE 2002.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
