@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1944-06-02"
+last_updated: "1954-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 1944.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 1954.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -857,9 +857,11 @@ Las faltas temporales del Secretario se llenarán por el Oficial Mayor de Gobier
 
 El ejercicio de las funciones del Departamento Judicial se encomienda a un Tribunal Superior y a los Tribunales inferiores.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1954)</small>
+
 ###### Artículo 79.
 
-El Tribunal Superior se formará de nueve Magistrados de número y nueve suplentes, nombrados por el Congreso a propuesta en terna del Ejecutivo.
+El Tribunal Superior se formará de diez Magistrados de Número y diez Suplentes, nombrados por el Congreso a propuesta en terna del Ejecutivo.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 1944)</small>
 
@@ -1356,6 +1358,10 @@ Transitorio.- Esta disposición comenzará a surtir sus efectos desde la fecha d
 P.O. 2 DE JUNIO DE 1944.
 
 Este decreto surtirá sus efectos desde la fecha de su publicación en el "Periódico Oficial".
+
+P.O. 24 DE SEPTIEMBRE DE 1954.
+
+Este Decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 5°.
 
