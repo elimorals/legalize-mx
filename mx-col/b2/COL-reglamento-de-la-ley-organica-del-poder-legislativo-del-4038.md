@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-4038"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-27"
-last_updated: "1988-08-27"
+last_updated: "1990-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1990.
 
 Reglamento publicado en el Periódico Oficial "El Estado de Colima" el sábado 27 de agosto de 1988.
 
@@ -315,6 +315,10 @@ Las Comisiones Permanentes serán:
 
 14.- Responsabilidades.
 
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
+XV (sic).- De Derechos Humanos.
+
 ###### Artículo 22.
 
 Corresponde a la Comisión de Poderes:
@@ -480,6 +484,24 @@ II.- Dictaminar sobre los asuntos que, en materia de juicio político, envíe al
 III.- Estudiar y dictaminar sobre incompatibilidades en el servicio público, relativas a los Diputados; y
 
 IV.- Recibir de los servidores públicos a que se refiere el artículo 185 de este Reglamento, su declaración de situación patrimonial, para enviarla a la Secretaría de la Contraloría del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
+###### Artículo 35 Bis.
+
+La Comisión de Derechos Humanos, se integrará de manera pluripartidista y se compondrá de un Diputado Presidente, dos Diputados Secretarios y cuatro Diputados Vocales con sus respectivos Suplentes, correspondiéndole:
+
+I.- La promoción y defensa de los derechos humanos en la Entidad;
+
+II.- Servir de Instancia receptora de quejas y denuncias acerca de presuntas violaciones a estos derechos cometidos por las autoridades gubernamentales, a fin de turnarlas a las Instituciones Administrativas correspondientes;
+
+III.- Recabar de los quejosos o denunciantes la información que estime conveniente y se considere pueda coadyuvar al cese de la presunta violación en sus derechos al individuo o individuos afectados, restituyéndoseles el pleno goce de ellos;
+
+IV.- Dar seguimiento a las acciones que las autoridades directamente involucradas realicen en la investigación, reparación y sanción procedente en los casos de violación a los Derechos Humanos;
+
+V.- Proponer proyectos de Iniciativas, Programas y demás mecanismos que contribuyan a fortalecer el respeto y salvaguarda de los Derechos Humanos en nuestro Estado, de conformidad con las Leyes vigente, tratados y convenios Internacionales sobre la materia, signados por nuestro País; y
+
+VI.- Establecer mecanismos de enlace y coordinación con las Instituciones y Organismos Públicos y Privados, nacionales para promover el respeto a los Derechos Humanos.
 
 ###### Artículo 36.
 
@@ -1235,7 +1257,7 @@ DEL PROCEDIMIENTO DE LA DECLARACION DE PROCEDENCIA
 
 ###### Artículo 164.
 
-Cuando se presente denuncia ante el Congreso del Estado por el Ministerio Público, a fín de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el artículo 121 de la Constitución Política del Estado, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará, en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior en materia de juicio político. Recibida la denuncia, la Comisión de Responsabilidades citará al denunciado, dentro de los cinco días naturales siguientes, y con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen dentro de los noventa días siguientes, donde precise, si los hechos que se atribuyen al denunciado pueden o no ser constitutivos de delito y además, si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
+Cuando se presente denuncia ante el Congreso del Estado por el Ministerio Público, a fin de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el artículo 121 de la Constitución Política del Estado, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará, en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior en materia de juicio político. Recibida la denuncia, la Comisión de Responsabilidades citará al denunciado, dentro de los cinco días naturales siguientes, y con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen dentro de los noventa días siguientes, donde precise, si los hechos que se atribuyen al denunciado pueden o no ser constitutivos de delito y además, si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
 
 ###### Artículo 165.
 
@@ -1520,3 +1542,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Palacio de Gobierno, Colima, Col., 14 de julio de 1988.
 
 El Gobernador Const. del Estado. LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Secretario General de Gobierno, LIC. HECTOR DUEÑAS GONZALES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
