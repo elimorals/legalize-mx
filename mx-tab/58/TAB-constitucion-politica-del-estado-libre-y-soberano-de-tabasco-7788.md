@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1997-03-19"
+last_updated: "1997-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1997.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -779,7 +779,7 @@ El cargo de Gobernador Constitucional del Estado solo es renunciable por causa g
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 51.
 
@@ -891,13 +891,17 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ###### ARTICULO 55.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
+Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en el Consejo de la Judicatura, en Juzgados de Primera Instancia, en Juzgados de Paz y Arbitros, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1997)</small>
 
-El Tribunal Superior de Justicia del Estado, se integra por 10 Magistrados Numerarios y los Supernumerarios que se requieren, y funcionará en Pleno y en Salas.
+El Tribunal Superior de Justicia del Estado, se integrará de 15 Magistrados Numerarios y los Supernumerarios e Interinos que se requieran, y funcionarán en Pleno y en Salas.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 En los términos que la Ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
 Los Magistrados Numerarios serán nombrados en los términos del Artículo 56 de la Constitución Política Local y los Supernumerarios por el Pleno del propio Tribunal.
 
@@ -1840,3 +1844,9 @@ P.O. 19 DE MARZO DE 1997.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrarán en vigor a partir del momento de su aprobación.
+
+P.O. 26 DE ABRIL DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrarán en vigor a partir de su aprobación.
