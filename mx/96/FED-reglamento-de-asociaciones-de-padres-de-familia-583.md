@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-asociaciones-de-padres-de-familia-583"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-04-02"
-last_updated: "1980-04-02"
+last_updated: "1981-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=583&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-03-31"
 
 REGLAMENTO DE ASOCIACIONES DE PADRES DE FAMILIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE OCTUBRE DE 1981.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 2 de abril de 1980.
 
@@ -479,13 +479,53 @@ Para los efectos del presente reglamento, las asociaciones constituidas conforme
 
 La representación legal de las mesas directivas a que se refiere el artículo 34 de este reglamento será acreditada mediante la constancia de registro que al efecto se expida.
 
-### CAPITULO SEXTO. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE OCTUBRE DE 1981)</small>
+
+### CAPITULO SEXTO. Asociaciones Promotoras de Educación Comunitaria
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 53.
 
-Las asociaciones de padres de familia deberán limitarse a realizar sus labores dentro del marco legal que señala su objeto; se abstendrán de intervenir en los aspectos técnicos y administrativos de los establecimientos educativos, no efectuarán actividades lucrativas en beneficio de sus asociados y ajustarán su actividad a las previsiones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Federal de Educación y de este reglamento.
+En las comunidades del país de escasa población o difícil acceso, aún cuando no funcionen en ellas establecimientos docentes, podrán integrarse asociaciones de padres de familia que tendrán por objeto promover la impartición de los diferentes niveles de la educación básica y la difusión cultural, así como colaborar y contribuir, en la medida de sus posibilidades, en el establecimiento y desarrollo de los servicios educativos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 54.
+
+Las asociaciones a que hace referencia el artículo que antecede, tendrán además de las atribuciones consignadas en el artículo 6o. del presente ordenamiento, las siguientes:
+
+I.- Llevar la representación de las comunidades ante las autoridades competentes para la defensa de sus intereses comunes en materia educativa;
+
+II.- Promover la prestación y desarrollo de los servicios de educación básica;
+
+III.- Vigilar la correcta utilización de los libros de texto, materiales didácticos y culturales y demás recursos que para apoyar la educación, se proporcionen a las comunidades;
+
+IV.- Realizar los actos y, en su caso, otorgar los convenios y contratos que se requieran para apoyar y estimular la educación comunitaria.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 1981)</small>
+
+###### ARTICULO 55.
+
+Las asociaciones a que se refiere este capítulo se constituirán por padres de familia, tutores y quienes ejerzan la patria potestad, así como por las personas de la comunidad que pudieran recibir los servicios de la educación para adultos.
+
+En lo que no se opongan a las disposiciones loegales (sic) y al presente reglamento, la organización y funcionamiento de dichas asociaciones se regirán por los acuerdos de sus integrantes, los que deberán inscribirse en el Registro Nacional de Asociaciones de Padres de Familia que lleva la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 1981)</small>
+
+###### ARTICULO 56.
+
+El secretario de Educación Pública dictará los acuerdos y expedirá las instrucciones para promover la integración de las asociaciones y regular su funcionamiento y organización en lo previsto por este reglamento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 53], D.O.F. 16 DE OCTUBRE DE 1981)
+
+###### ARTICULO 57.
+
+Las asociaciones de padres de familia deberán limitarse a realizar sus labores dentro del marco legal que señala su objeto; se abstendrán de intervenir en los aspectos técnicos y administrativos de los establecimientos educativos, no efectuarán actividades lucrativas en beneficio de sus asociados y ajustarán su actividad a las previsiones del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Federal de Educación y de este reglamento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 54], D.O.F. 16 DE OCTUBRE DE 1981)
+
+###### ARTICULO 58.
 
 En caso de duda respecto a la interpretación y aplicación del presente reglamento, el secretario de Educación Pública determinará el criterio que deba prevalecer.
 
@@ -512,3 +552,11 @@ La primera elección de las mesas directivas a que se refiere este reglamento, s
 QUINTO.- Se derogan las demás disposiciones que se opongan al presente reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de marzo de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Educación Pública, Fernando Solana.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE OCTUBRE DE 1981.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a este Ordenamiento.
