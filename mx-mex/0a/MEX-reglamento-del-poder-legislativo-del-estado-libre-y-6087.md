@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2004-04-30"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1035,9 +1035,11 @@ k) Los demás documentos que envíen a la Directiva de la Legislatura, cuando lo
 
 ### CAPITULO XIV. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
 
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 148.
 
-La Contaduría General de Glosa se regirá por lo dispuesto en su ley orgánica y su reglamento.
+El Organo Superior de Fiscalización del Estado de México, se regirá por lo dispuesto en su ley y su reglamento interior.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1321,7 +1323,7 @@ III. Definir y establecer objetivos, políticas y procedimientos en materia de c
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
 
-IV. Administrar en coordinación con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
+IV. Administrar en coordinacion con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1433,7 +1435,7 @@ III. Informar al Secretario de Asuntos Parlamentarios de los acuerdos recaídos 
 
 IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y (sic)
 
-> <small>(REFORMADA, G.G 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
 V. Llevar un control de los asuntos que les sean encomendados con sus respectivos expedientes y mantenerlo actualizado para ser entregado al término de la Legislatura que corresponda al Pleno de la nueva Comisión;
 
@@ -1578,3 +1580,31 @@ CUARTO.- La Gaceta Parlamentaria establecida en el presente Decreto, es de natur
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 SEXTO.- Las disposiciones concernientes a la integración y período de duración de la Directiva, así como a la denominación del órgano Junta de Coordinación Política, serán vigentes hasta en tanto entren en vigor las reformas a la Constitución Política del Estado Libre y Soberano de México, aprobadas por esta Legislatura.
+
+G.G. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente en que la reforma constitucional cause sus efectos legales.
+
+TERCERO.- Se abroga la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México, publicada en el Periódico Oficial Gaceta del Gobierno el 15 de octubre de 1991.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en este decreto.
+
+QUINTO.- Toda referencia a la Contaduría General de Glosa en las disposiciones legales o administrativas, contratos, convenios o actos, expedidas o celebrados con anterioridad a la vigencia del presente decreto, se entenderá hecha al Organo Superior de Fiscalización del Estado de México.
+
+SEXTO.- Los procedimientos iniciados por la Contaduría General de Glosa, que se encuentren en trámite al entrar en vigor este ordenamiento, se resolverán por el Organo Superior de Fiscalización, conforme a las disposiciones de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
+
+SEPTIMO.- Dentro de un plazo, que no exceda de ciento veinte días naturales, contados a partir de la vigencia de la presente Ley, la Legislatura del Estado designará al Auditor Superior del Estado de México. En tanto se nombra al Auditor Superior, dicha función será ejercida de manera provisional por el Contador General de Glosa de la legislatura.
+
+OCTAVO.- El Organo Superior de Fiscalización dentro del plazo que no exceda de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, expedirá su Reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia.
+
+NOVENO.- Las cuentas públicas del Estado y Municipios relativas al ejercicio fiscal de dos mil cuatro, serán revisadas, fiscalizadas y calificadas, de acuerdo con las disposiciones aplicables de la Ley Orgánica para la Contaduría General de Glosa del Poder legislativo del Estado de México y demás leyes en la materia aplicables.
+
+DECIMO.- La H. Legislatura del Estado de México proveerá lo necesario para determinar el presupuesto necesario para la operación del Organo Superior de Fiscalización.
+
+DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la Contaduría General de Glosa pasarán a formar parte de la Comisión de Vigilancia de la Legislatura del Estado.
+
+DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Organo Superior de Fiscalización, quedando a salvo sus derechos laborales.
+
+DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Organo Superior de Fiscalización, quedando destinados al cumplimiento da sus fines.
