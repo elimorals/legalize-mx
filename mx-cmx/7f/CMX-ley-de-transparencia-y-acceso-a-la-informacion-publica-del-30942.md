@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3094
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-08"
-last_updated: "2003-05-08"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-24"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de mayo de 2003.
 
@@ -34,7 +34,7 @@ Que la Honorable Asamblea Legislativa del Distrito Federal II Legislatura, se ha
 
 DECRETO
 
-(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL. - II LEGISLATURA)
+(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- II LEGISLATURA)
 
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL,
 
@@ -98,9 +98,11 @@ Es obligación de todo Ente Público facilitar la participación de las personas
 
 La interpretación de las normas de la presente Ley deberá atender a los principios de transparencia y publicidad de los actos de los Entes Públicos.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 7.
 
-Las solicitudes de información pública se ajustarán al procedimiento que regula la presente Ley. En todas aquellas cuestiones relacionadas con el procedimiento, no previstas en esta Ley, se estará a lo previsto por la Ley de Procedimiento Administrativo del Distrito Federal, y en su defecto, al Código de Procedimientos Civiles del Distrito Federal.
+Las solicitudes de información pública se ajustarán al procedimiento que regula la presente Ley. En todas aquellas cuestiones relacionadas con el procedimiento, no previstas en esta Ley, se aplicará la Ley de Procedimiento Administrativo del Distrito Federal, y en su defecto, el Código de Procedimientos Civiles del Distrito Federal.
 
 ###### Artículo 8.
 
@@ -148,9 +150,13 @@ La información se proporcionará en el estado en que se encuentre en los Entes 
 
 Todo Ente Público del Distrito Federal deberá publicar al inicio de cada año un listado de la información que detentan, por rubros generales, especificando las fechas, medios de difusión y los lugares en donde se pondrá a disposición de los interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 13.
 
-Al inicio de cada año, los Entes Públicos del Distrito Federal deberán publicar y mantener actualizada, de forma impresa o en los respectivos sitios de internet, de acuerdo con sus funciones, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+Al inicio de cada año, los entes públicos deberán publicar y mantener actualizada, de forma impresa o en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Las leyes, reglamentos, acuerdos, circulares y demás disposiciones de observancia general en el Distrito Federal;
 
@@ -158,25 +164,45 @@ II. La que se relacione con sus actividades y su estructura orgánica;
 
 III. Las facultades de cada unidad administrativa;
 
-IV. Una descripción de los cargos y emolumentos que perciben servidores públicos de estructura, mandos medios y superiores;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-V. Una descripción analítica de sus programas y presupuesto, que comprenderá sus estados financieros y erogaciones realizadas, en el ejercicio inmediato anterior, en materia de adquisiciones, obras públicas y servicios;
+IV. Descripción de los cargos, emolumentos, remuneraciones, percepciones ordinarias y extraordinarias o similares de los servidores públicos de estructura, mandos medios y superiores;
 
-VI. Una relación de sus bienes;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-VII. La información relacionada con los servicios que ofrece y la forma de acceder a ellos;
+V. Una descripción analítica de sus programas y presupuestos, que comprenderá sus estados financieros y erogaciones realizadas, en el ejercicio inmediato anterior, en materia de adquisiciones, obras públicas y servicios, de acuerdo a lo establecido en los ordenamientos aplicables;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+VI. La relación de sus bienes y el monto a que ascienden los mismos, siempre que su valor sea superior a trescientos cincuenta veces el salario mínimo vigente en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+VII. Información relacionada con los trámites y servicios que ofrece y la forma de acceder a ellos;
 
 VIII. Las reglas de procedimiento, manuales administrativos y políticas emitidas, aplicables en el ámbito de su competencia;
 
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 IX. El presupuesto asignado y su distribución por programas;
 
-X. Las concesiones, permisos y autorizaciones que haya otorgado en el ejercicio inmediato anterior concluido, especificando al beneficiario;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-XI. La información relacionada con los actos y contratos en materia de obras públicas, adquisiciones o arrendamiento de bienes o servicios celebrados en el ejercicio inmediato anterior;
+X. Las concesiones, permisos y autorizaciones que haya otorgado, especificando al beneficiario;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XI. La información relacionada con los actos y contratos suscritos en materia de obras públicas, adquisiciones o arrendamiento de bienes o servicios;
 
 XII. La ejecución, montos asignados y criterios de acceso a los programas de subsidio; y
 
-XIII. La Información sobre las iniciativas de ley que se presenten ante la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XIII. La información sobre las iniciativas de ley que se presenten ante la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XIV. Las resoluciones o sentencias definitivas que se dicten en procesos jurisdiccionales o procedimientos seguidos en forma de juicio.
 
 La información a que se refiere este artículo estará disponible de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
@@ -210,15 +236,19 @@ V. El nombre del proveedor, contratista o de la persona física o moral con quie
 
 VI. Los mecanismos de vigilancia y supervisión.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 17.
 
-Los Entes Públicos están obligadas (sic) a brindar a cualquiera (sic) persona la información que se les requiera sobre el funcionamiento y actividades que desarrollan, excepto aquella que sea de acceso restringido, de conformidad con lo dispuesto en la presente Ley.
+Los Entes Públicos están obligados a brindar a cualquier persona la información que se les requiera sobre el funcionamiento y actividades que desarrollan, excepto aquella que sea de acceso restringido, de conformidad con lo dispuesto en la presente Ley.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 18.
 
-El órgano de control de la gestión pública y el órgano técnico de fiscalización de la Asamblea, ambos del Distrito Federal, deberán proporcionar, a solicitud de parte, los resultados de las auditorias concluidas al ejercicio presupuestal que de cada sujeto obligado realicen.
+El órgano de control de la gestión pública y el órgano técnico de fiscalización de la Asamblea, ambos del Distrito Federal, deberán proporcionar, a solicitud de parte, los resultados de las auditorias concluidas al ejercicio presupuestal que de cada sujeto obligado realicen. Al proporcionar la información referida deberán claramente señalar la etapa del procedimiento y los alcances legales del mismo.
 
-Asimismo, los entes Públicos deberán proporcionar a los solicitantes, la información relativa a las solventaciones o aclaraciones derivadas de las auditorías concluidas.
+Los Entes Públicos deberán proporcionar a los solicitantes, la información relativa a las solventaciones o aclaraciones derivadas de las auditorías concluidas.
 
 ### CAPÍTULO III. DE LA PROMOCIÓN DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -240,33 +270,39 @@ El Consejo promoverá entre las instituciones públicas y privadas de educación
 
 La información definida por la presente Ley como de acceso restringido, en sus modalidades de reservada y confidencial, no podrá ser divulgada, bajo ninguna circunstancia, salvo las excepciones señaladas en el presente capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 23.
 
-Se considera información reservada la que:
+Se considera información reservada, la que:
 
 I. Comprometa la Seguridad Pública Nacional o del Distrito Federal;
 
 II. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
 
-III. Impida las actividades de verificación sobre el cumplimiento de las leyes, prevención o persecución de los delitos, la impartición de la justicia, la recaudación de las contribuciones y las operaciones de control migratorio;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+III. Impida las actividades de verificación sobre el cumplimiento de las leyes, prevención o persecución de los delitos, la impartición de justicia y la recaudación de las contribuciones;
 
 IV. La ley expresamente considere como reservada;
 
 V. Se relacione con el secreto comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por una disposición legal;
 
-VI. Trate sobre personas y que haya sido recibida por los Entes Públicos bajo promesa de reserva o esté relacionada con la propiedad intelectual, patentes o marcas en poder de los Entes.
+VI. Trate sobre personas y que haya sido recibida por los Entes Públicos bajo promesa de reserva o esté relacionada con la propiedad intelectual, patentes o marcas en poder de los Entes;
 
 VII. Se trate de averiguaciones previas en trámite;
 
 VIII. Se trate de expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, mientras la sentencia o resolución de fondo no haya causado ejecutoria;
 
-IX. Se trate de procedimientos de responsabilidad de los servidores públicos, en tanto no se haya dictado la resolución administrativa o la jurisdiccional definitiva;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IX. Se trate de procedimientos de responsabilidad de los servidores públicos, en tanto no se haya dictado la resolución administrativa definitiva;
 
 X. Contenga las opiniones, solicitudes de información, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos. Asimismo, la contenida en informes, consultas y toda clase de escritos relacionados con la definición de estrategias y medidas a tomar por los Entes Públicos en materia de controversias legales; o
 
-XI. Pueda generar una ventaja personal indebida en perjuicio de un tercero.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones a los derechos fundamentales.
+XI. Pueda generar una ventaja personal indebida o en perjuicio de un tercero o de los Entes Públicos.
 
 ###### Artículo 24.
 
@@ -274,21 +310,31 @@ Se considerará información confidencial, previo acuerdo del titular del Ente P
 
 I. Las memorias, notas, correspondencia y todos los documentos relacionados con negociaciones entre el Distrito Federal y el Gobierno Federal o las Entidades Federativas, en materia de seguridad pública;
 
-II. Los expedientes, archivos y documentos recopilados, producto de las actividades de prevención de delito u otras actividades relacionadas con las labores de los cuerpos de seguridad pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-III. La que por disposición expresa de una Ley sea considerada como confidencial o el Ente Público así lo determine en salvaguarda del interés del Estado o el derecho de terceros;
+II. Los expedientes, archivos y documentos que se obtengan producto de las actividades relativas a la prevención, investigación o persecución del delito, que llevan a cabo las autoridades en materia de seguridad pública en el Distrito Federal;
 
-IV. Los archivos, análisis, transcripciones y cualquier otro documento derivado de las actividades de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-V. La transcripción de las reuniones e información obtenida por las Comisiones de la Asamblea Legislativa del Distrito Federal, cuando se reúnan en el ejercicio de sus funciones fiscalizadoras para recabar información que podría estar incluida en los supuestos del artículo anterior; y
+III. La que por disposición expresa de una ley sea considerada como confidencial o el Ente Público así lo determine en salvaguarda del interés del Estado o el derecho de terceros;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV. Los archivos, análisis, transcripciones y cualquier otro documento relacionados con las actividades y funciones sustantivas en materia de seguridad pública y procuración de justicia; y
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+V. La transcripción de las reuniones e información obtenida por las Comisiones de la Asamblea Legislativa del Distrito Federal, cuando se reúnan en el ejercicio de sus funciones fiscalizadoras para recabar información que podría estar incluida en los supuestos del artículo anterior;
 
 VI. La correspondencia interna y trámites de gestión interna que realicen los Entes Públicos que no correspondan a programas, acciones, trámites administrativos o actividades relacionadas con las finanzas públicas o actos de autoridad.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 25.
 
-En la información de carácter confidencial que sea parte de procesos jurisdiccionales o de procedimientos seguidos en forma de juicio, las autoridades competentes tomarán las previsiones debidas para que dicha información se mantenga reservada y que sólo tengan acceso a la misma las partes involucradas, incluso los quejosos o denunciantes.
+Las autoridades competentes tomarán las previsiones debidas para que la información confidencial que sea parte de procesos jurisdiccionales o de procedimientos seguidos en forma de juicio, se mantenga reservada y sólo sea de acceso para las partes involucradas, quejosos o denunciantes.
 
-No obstante lo anterior, si las partes involucradas lo autorizan expresamente, las constancias procesales podrán ser públicas.
+Las autoridades que emitan las resoluciones o sentencias definitivas a que se refiere la fracción XIV del artículo 13 de esta Ley, requerirán a las partes en el primer acuerdo que dicten, su consentimiento escrito para publicar sus datos personales, en el entendido de que la omisión a desahogar dicho requerimiento, constituirá su negativa.
 
 ###### Artículo 26.
 
@@ -330,9 +376,13 @@ III. El periodo de conservación de los datos personales será el necesario para
 
 Toda persona que demuestre su identidad tiene derecho a saber si se está procesando información que le concierne, a conseguir una comunicación inteligible de ella sin demora, a obtener las rectificaciones o supresiones que correspondan cuando los registros sean ilícitos, injustificados o inexactos, y a conocer los destinatarios cuando esta información sea trasmitida, permitiéndosele conocer las razones que motivaron su pedimento, en los términos de esta Ley.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 32.
 
-Los Entes Públicos no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento por escrito o por un medio de autenticación similar de los individuos a que haga referencia la información o así lo disponga la Ley.
+Los Entes Públicos no podrán comercializar, difundir o distribuir a particulares los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento por escrito o por un medio de autenticación similar de los individuos a que haga referencia la información o así lo disponga la ley.
+
+Esta restricción no es aplicable a los entes o servidores públicos que, para el cumplimiento de sus obligaciones o ejercicio de sus atribuciones, requieran de la información en que se contengan los datos personales. El incumplimiento de los entes públicos a la obligación de permitir el acceso a los sistemas de información pública a otros entes o servidores públicos que la requieran por razón de su empleo, cargo o comisión, será causa de responsabilidad en términos de la presente Ley.
 
 ###### Artículo 33.
 
@@ -434,11 +484,13 @@ El Ente Público que responda favorablemente la solicitud de información, deber
 
 Una vez que el solicitante compruebe haber efectuado el pago correspondiente, el Ente Público deberá entregar la información dentro de un plazo que no deberá exceder de diez días hábiles.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 45.
 
-Satisfechos los trámites, plazos y pago de derechos previstos en los artículos anteriores, si la información no hubiere sido entregada en tiempo y forma por la entidad correspondiente, habiendo cumplido el interesado con los requisitos exigidos por esta Ley, se entenderá que la respuesta es en sentido afirmativo en todo lo que le favorezca, excepto cuando la solicitud verse sobre información de acceso restringido.
+Satisfechos los trámites, plazos, pago de derechos y requisitos exigidos por esta Ley, por el interesado, si la información solicitada no hubiere sido entregada en tiempo por el ente público correspondiente, se entenderá que la respuesta es en sentido afirmativo en todo lo que le favorezca, excepto cuando la solicitud verse sobre información de acceso restringido, en cuyo caso, se entenderá en sentido negativo.
 
-La afirmativa ficta opera de pleno derecho y no requiere declaración de autoridad para que surta sus efectos.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 46.
 
@@ -468,29 +520,39 @@ Los Entes Públicos están obligadas (sic) a asesorar a las personas que solicit
 
 Los Entes Públicos están obligadas (sic) a crear un archivo que p ermita localizar con prontitud y seguridad los datos que genere, procese o reciba con motivo del desempeño de su función.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 52.
 
-El archivo de los Entes Públicos deberá satisfacer las siguientes características:
+La información que detenten los Entes Públicos deberá estar disponible en los archivos correspondientes, mismos que deberán satisfacer las siguientes características:
 
-I. Cuando se trate de información correspondiente al año que esté en curso: impresos en papel, digitalizados o en cualquier medio de soporte electrónico;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-II. Digitalizados, en microfichas, por consulta electrónica o cualquier medio que establezca el Consejo a partir del año inmediato anterior al que se encuentre en curso y hasta por cuarenta años;
+I. Cuando se trate de información correspondiente al año que esté en curso: impresos en papel, digitalizados o en cualquier medio de soporte electrónico; y
 
-III. Clasificados por periodos trimestrales o conforme lo determine el Consejo; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-IV. Clasificados por áreas o rubros conforme a las disposiciones dictadas por el Consejo.
+II. Digitalizados, en microfichas, para consulta electrónica a partir del año inmediato anterior al que se encuentre en curso y hasta por cuarenta años; organizándolos de acuerdo con los principios archivísticos de procedencia y orden original, que establezca el Consejo.
+
+III. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2003)
+
+IV. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 53.
 
 El Consejo de Información deberá emitir las reglas generales para la generación de datos, registros y archivos, así como para la conservación de los mismos, previendo los siguientes aspectos:
 
-I. Que toda medida permita clasificar, identificar, preservar y restaurar archivos, conforme a la naturaleza de los mismos y su forma de respaldo;
+I. Que las disposiciones permitan clasificar, identificar y preservar la información de acuerdo con su naturaleza;
 
-II. Que los mecanismos que se diseñen en materia de conservación y mantenimiento de archivos obedezca a los estándares mínimos en materia de archivonomía;
+II. Que los mecanismos que se empleen para la conservación y mantenimiento de la información obedezca a estándares mínimos en materia de archivonomía;
 
-III. Que se permita la capacitación a funcionarios, en técnicas de archivonomía; y
+III. Que se permita la capacitación a funcionarios en técnicas de archivonomía; y
 
-IV. Que los archivos que contengan información pública, permitan su consulta directa por las personas.
+IV. Que la información se organice de manera tal que facilite la consulta directa de los particulares.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 54.
 
@@ -508,9 +570,11 @@ V. El plazo y el procedimiento del que dispone el ciudadano para solicitar su co
 
 VI. Si se conservará respaldo electrónico del mismo para efectos de su consulta.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 55.
 
-Cuando se trate de archivos considerados como históricos, el Consejo establecerá el procedimiento para resguardarlos y almacenarlos.
+El Consejo determinará el procedimiento para el resguardo y almacenamiento de los archivos que considere como históricos.
 
 ###### Artículo 56.
 
@@ -520,15 +584,39 @@ Cuando alguna unidad administrativa de algún Ente Público llegare a desaparece
 
 ### CAPÍTULO I. DE SU CONFORMACIÓN Y ATRIBUCIONES
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 57.
 
-El Consejo de Información Pública del Distrito Federal es un órgano autónomo del distrito Federal, con personalidad jurídica propia y patrimonio propio, con autonomía presupuestaria, de operación y de decisión en materia de acceso a la información pública, integrado por representantes de la sociedad civil y de los órganos Ejecutivo, Legislativo, Judicial y autónomos del Distrito Federal.
+El Consejo de Información Pública del Distrito Federal es un órgano autónomo del Distrito Federal, con personalidad jurídica propia y patrimonio propio, con autonomía presupuestaria, de operación y de decisión en materia de transparencia y acceso a la información pública, integrado por representantes de la sociedad civil y de los Órganos Ejecutivo, Legislativo, Judicial y autónomos del Distrito Federal.
+
+En el marco de sus atribuciones, el Consejo estará regido por los principios de austeridad, racionalidad y transparencia en el ejercicio de su presupuesto.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 58.
 
-El Consejo se integrará con tres representantes de la Administración Pública del Distrito Federal designados por el Jefe de Gobierno, tres diputados designados por la Asamblea Legislativa del Distrito Federal, tres integrantes del Tribunal Superior de Justicia que podrán ser Magistrados, Jueces y Consejeros de la Judicatura designados por el Pleno del Tribunal Superior de Justicia del Distrito Federal, tres representantes de la sociedad civil y un representante designado por cada uno de los órganos autónomos del Distrito Federal, de entre sus propios integrantes
+El Consejo se integrará por tres representantes de cada uno de los Órganos Ejecutivo y Judicial, cuatro del Órgano Legislativo, uno por cada órgano autónomo del Distrito Federal y tres representantes de la sociedad civil, denominados consejeros ciudadanos, de conformidad con las siguientes bases:
 
-Los representantes de la sociedad civil percibirán un ingreso equivalente al de Magistrado del Tribunal Superior de Justicia del Distrito Federal.
+I. Los representantes del órgano ejecutivo serán designados por el Jefe de Gobierno;
+
+II. Los representantes del órgano legislativo serán propuestos por la Comisión de Gobierno y aprobados por el pleno;
+
+III. Los representantes del órgano judicial serán designados por el Pleno del Consejo de la Judicatura, a propuesta de su Presidente;
+
+IV. El representante de cada uno de los órganos autónomos del Distrito Federal será designado por el titular u órgano superior respectivo; y
+
+V. Los representantes de la sociedad civil serán designados por la Asamblea Legislativa del Distrito Federal.
+
+Para la conformación del Consejo de Información Pública del Distrito Federal, la Asamblea Legislativa del Distrito Federal, a través de la Comisión de Administración Pública Local, emitirá convocatoria pública abierta en la que invite a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación a presentar propuestas de candidatos a ser miembros del Consejo de Información Pública del Distrito Federal y que cumplan con los requisitos señalados por el artículo 59 de esta Ley. La convocatoria deberá ser publicada en la Gaceta Oficial del Distrito Federal y para su mayor difusión en tres diarios de mayor circulación en el Distrito Federal.
+
+La comisión realizará la selección de aspirantes a representantes ciudadanos y remitirá los candidatos al Pleno de la Asamblea Legislativa del Distrito Federal, para que con base en la trayectoria y experiencia se realice la designación correspondiente.
+
+La designación de los representantes ciudadanos que integrarán el Consejo de Información Pública del Distrito Federal, se publicará en la Gaceta Oficial del Distrito Federal y para su mayor difusión en tres diarios de mayor circulación en el Distrito Federal.
+
+Los Consejeros provenientes de la sociedad civil, rendirán protesta ante el Pleno de la Asamblea Legislativa del Distrito Federal, quien inmediatamente procederá a la instalación del Consejo de Información Pública del Distrito Federal.
+
+El Consejo seguirá en funciones hasta en tanto no se designe nuevamente a los consejeros.
 
 ###### Artículo 59.
 
@@ -544,19 +632,37 @@ IV. No ser ni haber sido dirigente de algún partido o asociación política, ni
 
 V. No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 60.
 
-Los consejeros durarán en su encargo un período de cinco años y podrán ser reelectos por una sola vez. Los consejeros no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo por causa grave que calificará la Asamblea Legislativa del Distrito Federal. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
+Los consejeros ciudadanos durarán en su encargo un periodo de seis años sin posibilidad de reelección. El periodo del encargo de los representantes de los entes públicos será de tres, pudiendo estos ser removidos antes de que concluyan el mismo por quienes fueron nombrados. Los emolumentos de los consejeros ciudadanos serán diariamente el equivalente a cuarenta y seis días de salario mínimo general vigente para el Distrito Federal. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica, siempre y cuando no se atiendan de tiempo completo. Los consejeros ciudadanos no podrán ser retirados de sus cargos durante el periodo para el que fueron nombrados, salvo que incurran en cualquiera de los supuestos siguientes:
 
-El Presidente del Consejo será nombrado por sus pares (sic) y por un periodo de dos años, pudiendo ser reelecto por una sola vez.
+I. El ataque a las instituciones democráticas;
 
-Solo podrá ser presidente del mismo quien sea representante de la sociedad civil.
+II. El ataque a la forma de gobierno republicano representativo y local;
+
+III. Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+
+IV. El ataque a la libertad de sufragio;
+
+V. La usurpación de atribuciones;
+
+VI. Cualquier infracción a la Constitución o a las Leyes locales, cuando cause perjuicios graves a la sociedad, o motive algún trastorno en el funcionamiento normal de las instituciones; y
+
+VII. Las omisiones de carácter grave, en los términos de la fracción anterior.
+
+La Asamblea Legislativa del Distrito Federal, previa garantía de audiencia, calificará por mayoría en el pleno la existencia y gravedad de los actos u omisiones a que se refiere este artículo.
+
+El Presidente del Consejo será nombrado por mayoría en el pleno de la Asamblea Legislativa del Distrito Federal, por un periodo de tres años, pudiendo ser reelecto por una sola vez. Sólo podrá ser presidente del mismo quien sea representante de la sociedad civil.
 
 El Pleno del Consejo será la instancia directiva y la Presidencia la ejecutiva.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 61.
 
-El Consejo de información contará con un secretario que lo auxiliará en el despacho de los asuntos de su competencia y que será designado por el Presidente del Consejo, en términos del instrumento que regule la operación de dicho cuerpo colegiado.
+El consejo de información contará con un Secretario Técnico que será designado por el Presidente del Consejo, de acuerdo a las normas relativas a la organización y funcionamiento que estarán previstas en el reglamento que para tal efecto se expida.
 
 ###### Artículo 62.
 
@@ -568,11 +674,17 @@ El Consejo tendrá las siguientes atribuciones:
 
 I. Emitir opiniones y recomendaciones sobre temas relacionados con la presente Ley;
 
-II. Realizar investigaciones en materia de acceso a la información y sus derechos relacionados;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-III. Establecer políticas y lineamientos en materia de acceso a la información y catalogación de todo tipo de datos, registros y archivos;
+II. Investigar, conocer y resolver sobre violaciones a los derechos que tutela la presente Ley;
 
-IV. Crear y mantener el mecanismo para la operación de una biblioteca especializada en materia de acceso a la información;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+III. Establecer políticas y lineamientos en materia de acceso a la información, así como opinar sobre la catalogación, resguardo y almacenamiento de todo tipo de datos, registros y archivos de los entes públicos;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV. Proponer los medios para la creación de un acervo documental en materia de acceso a la información;
 
 V. Organizar seminarios, cursos, talleres y demás actividades que promuevan el conocimiento de la presente Ley y las prerrogativas de las personas, derivadas del Derecho de Acceso a la Información Pública;
 
@@ -580,19 +692,31 @@ VI. Elaborar y publicar estudios e investigaciones para difundir el conocimiento
 
 VII. Emitir su reglamento interno, manuales y demás normas que faciliten su organización y funcionamiento;
 
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 VIII. Diseñar y aplicar indicadores para evaluar el desempeño de los Entes Públicos sobre el cumplimiento de esta Ley;
 
-IX. Opinar sobre los criterios generales que se le presenten para la catalogación, resguardo y almacenamiento de todo tipo de datos, registros y archivos;
+IX. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2003)
 
-X. Establecer los lineamientos para la creación y operación de los archivos que contengan información pública de consulta directa;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-XI. Evaluar el cumplimiento de las normas en materia de transparencia y publicidad de los actos de los Entes Públicos y emitir las recomendaciones a dichos entes cuando violenten los derechos que esta Ley consagra;
+X. Establecer los lineamientos generales para la creación y operación de los archivos que contengan información pública de consulta directa;
 
-XII. Recibir para su evaluación los informes anuales de los Entes Públicos respecto del Ejercicio del Derecho de Acceso a la Información Pública;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-XIII. Establecer los lineamientos para la protección de la información relacionada con los datos personales; y
+XI. Evaluar el acatamiento de las normas en materia de transparencia y publicidad de los actos de los Entes Públicos. Emitir y vigilar el cumplimiento de las recomendaciones públicas a dichos entes cuando violenten los derechos que esta Ley consagra, así como turnar a los órganos de control interno de los entes públicos las denuncias recibidas por incumplimiento a lo dispuesto en la presente Ley, para el desahogo de los procedimientos correspondientes;
 
-XIV. Las demás que le señale esta Ley, su reglamento u otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XII. Solicitar y evaluar informes a los Entes Públicos respecto del Ejercicio del Derecho de Acceso a la Información Pública;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XIII. Recibir para su evaluación los informes anuales de los Entes Públicos respecto del Ejercicio del Derecho de Acceso a la Información Pública; y
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XIV. Las demás que se deriven de la presente Ley.
 
 ###### Artículo 64.
 
@@ -610,9 +734,11 @@ IV. La cantidad de resoluciones emitidas por dicha entidad en las que se negó l
 
 V. El número de quejas presentadas en su contra.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 65.
 
-El Consejo presentará anualmente ante la Asamblea Legislativa del Distrito Federal, a más tardar el quince de marzo de cada año, un informe sobre el acceso a la información pública, tomando en consideración los datos que le rindan los Entes Públicos, en el cual se incluirá:
+El Consejo presentará anualmente ante la Asamblea Legislativa del Distrito Federal, a más tardar el quince de marzo de cada año, un informe sobre actividades y resultados logrados durante el ejercicio inmediato anterior respecto al acceso a la información pública, el cual incluirá por lo menos:
 
 I. El número de solicitudes de acceso a la información presentadas ante cada Ente Público, así como su resultado;
 
@@ -620,9 +746,11 @@ II. El tiempo de respuesta a la solicitud; y
 
 III. El estado que guardan las denuncias presentadas ante los órganos internos de control y las dificultades observadas en el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 66.
 
-El Informe se publicará en la Gaceta Oficial del Distrito Federal, y para su mayor difusión se podrá publicar un extracto en los medios de comunicación. Este informe deberá publicarse a más tardar el treinta y uno de marzo de cada año.
+El informe se publicará en la Gaceta Oficial del Distrito Federal, y para su mayor difusión se podrá publicar un extracto en los medios de comunicación. Este informe deberá publicarse a más tardar el treinta y uno de marzo de cada año.
 
 ### CAPÍTULO II. DEL RECURSO DE INCONFORMIDAD
 
@@ -636,11 +764,21 @@ II. Al Consejo de la Judicatura en la competencia del órgano Judicial del Distr
 
 III. A la Contraloría General de la Asamblea Legislativa del Distrito Federal en el ámbito de su competencia; y
 
-IV. A los órganos de control interno de los Órganos Autónomos por Ley.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV. A los órganos de control interno de los órganos autónomos por ley; y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+V. Al Consejo.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 68.
 
 El solicitante que estime antijurídica, infundada o inmotivada la resolución que niegue o limite el acceso a la información pública o a la protección de datos personales, podrá optar entre interponer el recurso de inconformidad ante los órganos de control mencionados en el artículo 67 o acudir directamente a la autoridad federal a deducir sus derechos.
+
+Lo anterior, sin perjuicio del derecho que le asiste a los particulares de interponer queja ante los órganos de control interno de los entes obligados.
 
 ###### Artículo 69.
 
@@ -682,11 +820,21 @@ II. Confirmar la decisión del Ente Público, o
 
 III. Revocar o modificar las decisiones del Ente Público y ordenarle a ésta que permita al particular el acceso a la información solicitada o a los datos personales, que la proporcione completa, que reclasifique la información o bien, que modifique tales datos.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 Las resoluciones, que deberán ser por escrito, establecerán los plazos para su cumplimiento y los procedimientos para asegurar la ejecución.
 
-Si el órgano de control no resuelve el recurso en el plazo establecido en esta Ley, será motivo de responsabilidad.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-Cuando la autoridad que conozca del recurso advierta que durante la sustanciación del procedimiento, algún servidor público haya incurrido en responsabilidad, deberá efectuar la investigación correspondiente y de ser procedente iniciará el procedimiento de responsabilidad que corresponda, conforme a la Ley Federal de Responsabilidades de los Servidores Públicos.
+Si el órgano que conoce del recurso no lo resuelve en el plazo establecido en esta Ley, será motivo de responsabilidad.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Cuando el órgano que conozca del recurso advierta durante la sustanciación del procedimiento, que algún servidor público ha incurrido en responsabilidad por violación a los derechos que consigna la presente ley, deberá efectuar la investigación correspondiente y de ser procedente iniciará el procedimiento de responsabilidad que corresponda, conforme a la Ley Federal de Responsabilidades de los Servidores Públicos, además de dar vista a la autoridad competente cuando la violación constituya delito.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+Cuando el Consejo sea el que advierta que un servidor público ha incurrido en responsabilidad, lo hará del conocimiento de la autoridad competente, para los efectos del párrafo anterior.
 
 ###### Artículo 72.
 
@@ -694,11 +842,15 @@ El recurso será desechado por improcedente cuando:
 
 I. Sea presentado, una vez transcurrido el plazo señalado por la presente Ley;
 
-II. El órgano de control haya conocido anteriormente del recurso respectivo y el mismo haya sido resuelto en definitiva;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+II. El órgano que conozca del recurso, haya resuelto en definitiva sobre la materia del mismo;
 
 III. Se recurra una resolución que no haya sido emitida por un Ente Público; o
 
-IV. Que ante los tribunales del Poder Judicial Federal se esté tramitando algún medio de defensa interpuesto por el recurrente.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IV. Ante otro órgano se esté tramitando algún medio de defensa promovido por el recurrente.
 
 ###### Artículo 73.
 
@@ -712,9 +864,11 @@ III. Admitido el recurso de inconformidad, aparezca alguna causal de improcedenc
 
 IV. El Ente Público responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin efecto o materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 74.
 
-Las resoluciones de los órganos de control serán definitivas para los Entes Públicos. Los particulares inconformes del resultado de las mismas, podrán impugnarlas ante la autoridad federal y conforme a la ley proceda.
+Las resoluciones de los órganos a que se refiere el artículo 67 de esta Ley, serán definitivas para los entes públicos y para los particulares.
 
 La autoridad jurisdiccional competente tendrá acceso a la Información de Acceso Restringido, cuando resulte indispensable para resolver el asunto y hubiera sido ofrecida en juicio. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente.
 
@@ -775,3 +929,27 @@ DÉCIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de marzo del año dos mil tres.- POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROZO REPIZO, PRESIDENTE.- SECRETARIO, DIP. RAFAEL LUNA ALVISO.- (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veinticuatro días del mes de abril de dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, JENNY SALTIEL COHEN.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA. - FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.- EL SECRETARIO DE FINANZAS.- CARLOS MANUEL URZÚA MACÍAS.- FIRMA.- EL SECRETARIO DE TRASPORTES Y VIALIDAD, FRANCISCO GARDUÑO YAÑES.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBÓN.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.- RL (SIC) SECRETARIO DE CULTURA, ENRIQUE SEMO CALEV.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La designación de los Consejeros Ciudadanos, integrantes del Consejo de Información Pública, deberá tener lugar dentro de los sesenta días naturales posteriores a la entrada en vigor del presente decreto, por lo que los aspirantes deberán, sin excepción alguna, observar los términos de lo dispuesto en el artículo 58 de la Ley.
+
+Las dos Consejeras Ciudadanas nombradas por la Asamblea Legislativa del Distrito Federal, II Legislatura, continuarán en sus funciones por el periodo que marca esta Ley, en tanto no medie renuncia al nombramiento conferido, salvo lo dispuesto en el artículo 60 de la presente Ley.
+
+Los representantes de los entes públicos deberán ser nombrados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto. Los entes públicos que hubieren designado a sus representantes, podrán ratificarlos si así lo prefieren.
+
+Una vez instalado el Consejo en términos de esta Ley, deberá iniciar sus funciones.
+
+TERCERO.- Cada órgano local del gobierno, así como los autónomos del Distrito Federal, en el ámbito de su competencia, deberán establecer las disposiciones jurídicas tendientes a implementar la presente ley.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal, aprobará las adecuaciones tendientes a la asignación de recursos en el ejercicio fiscal 2004, para la instalación y operación del Consejo de Información Pública del Distrito Federal.
+
+QUINTO.- El Consejo de Información Pública del Distrito Federal, a fin de normar su organización, deberá expedir su reglamento interior tomando en cuenta el presupuesto autorizado, dentro de los sesenta días posteriores a su instalación, mismo que deberá publicarse en la Gaceta Oficial del Distrito Federal.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
