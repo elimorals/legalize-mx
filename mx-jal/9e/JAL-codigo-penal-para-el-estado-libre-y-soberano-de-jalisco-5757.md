@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1995-02-02"
+last_updated: "1996-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2047,7 +2047,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2057,7 +2057,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2069,7 +2069,7 @@ I. Al particular que ilegítimamente prive a otro de su libertad personal; y
 
 II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empleando violencia física o moral.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2735,15 +2735,15 @@ XVII. Al que grave dos o más veces la misma cosa en el mismo grado de preferenc
 
 XVIII. Al que afecte en fideicomiso una cosa que no le pertenece.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO P.O. 27 DE AGOSTO DE 1996)</small>
 
 ###### Art. 253.
 
-Se impondrán de cuatro a diez años de prisión y multa por el importe de veinte a cuatrocientos días de salario mínimo general correspondiente a la zona de ubicación del inmueble al propietario que por sí, o por interpósita persona, enajene terrenos pactando precios de contado o a plazos reales o simulados, o mediante contratos señalados como "preparatorios", "preliminares", "promesa", o cualquier otro innominado, cuando se reciba la totalidad o parte del precio o se pacten abonos periódicos a éste y se haga entrega de la posesión del inmueble, si el enajenante o promitente no cuenta previamente con autorización expresa de la autoridad municipal competente para realizar tales enajenaciones.
+Se impondrán de cuatro a diez años de prisión y multa por el importe de veinte a cuatrocientos días de salario mínimo general vigente correspondiente a la zona de ubicación del inmueble del propietario, cuando éste por sí, o por interpósita persona, transmita a título oneroso en forma fraccionada, sin contar con la autorización correspondiente de la o las autoridades competentes, la propiedad o sus derechos sobre la misma, respecto de inmuebles, pactando precios de contado o a plazos reales o simulados, o mediante contratos señalados como "preparatorios", "preliminares", "promesa", o cualquier otro innomunado (sic), cuando se reciba la totalidad o parte del precio, o se pacten abonos periódicos a éste y se haga entrega de la posesión del inmueble, igualmente:
 
-Igualmente:
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1996)</small>
 
-I. En la misma responsabilidad incurrirá el o los representantes del propietario enajenante o sus agentes que intervengan en las operaciones a que se refiere el párrafo anterior, a sabiendas que el propietario carece de la autorización mencionada en el mismo;
+I. En la misma responsabilidad incurrirá el o los representantes del propietario transmisor o sus agentes que intervengan en las operaciones a que se refiere el párrafo anterior, a sabiendas de que se carece de la autorización mencionada en el mismo;
 
 II. Cuando el objeto de la operación sean inmuebles ejidales o comunales se aplicará a los responsables la pena de cinco a trece años de prisión y la multa prevista en el párrafo primero;
 
@@ -2751,7 +2751,9 @@ II. Cuando el objeto de la operación sean inmuebles ejidales o comunales se apl
 
 III. A quien sin tener derecho de propiedad, efectúe los ilícitos previstos en el párrafo primero de este artículo, se le impondrán las mismas sanciones que establece dicho párrafo;
 
-IV. Se impondrán de uno a tres años de prisión al que a sabiendas ordene cualquier tipo de publicidad ofreciendo en venta lotes sobre predios de un fraccionamiento no autorizado; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1996)</small>
+
+IV. Se impondrán de uno a tres años de prisión al que a sabiendas ordene cualquier tipo de publicidad ofreciendo lotes sobre predios de un fraccionamiento no autorizado, y
 
 V. Cuando al ofendido se le prive de la posesión, la reparación del daño consistirá, a su elección, en el pago del doble de las cantidades recibidas por el responsable, o el valor del inmueble con sus accesorios, según el avalúo bancario referido a la fecha en que sufrió la evicción.
 
@@ -2889,7 +2891,7 @@ XII. Impida en forma violenta la instalación o cierre de una casilla; y
 
 XIII. Se presente en la casilla en plan intimidatorio, portando armas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 268.
 
@@ -2935,8 +2937,6 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
-
 ###### Art. 270.
 
 Se impondrá de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
@@ -2946,6 +2946,8 @@ I. Obligue a sus subordinados a emitir su voto en favor de un candidato o partid
 II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 271.
 
@@ -3149,4 +3151,8 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE AGOSTO DE 1996.
+
+UNICO.- EL presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
