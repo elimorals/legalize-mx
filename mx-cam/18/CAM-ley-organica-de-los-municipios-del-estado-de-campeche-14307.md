@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1996-06-29"
+last_updated: "1996-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -589,7 +589,13 @@ ARTICULO 20 BIS.- El Municipio de Escárcega, comprende:
 
 I.- La Ciudad de Escárcega, cabecera del Municipio;
 
-II.- Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia Social; Lechugal; Libertad; Miguel de la Madrid; Rodolfo Fierros; Belen y su anexo El Sauz; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; Asunción; División del Norte; Haro; Francisco I. Madero; Don Samuel; Luna; Kilómetro 36; Nuevo Progreso Nº 2; La Victoria; Pital o Nuevo Pital; Chontalpa; Kilómetro 18 o 18 de Marzo; San Isidro; El Huiro; Guadalajara; Benito Juárez Nº 2; El Quebrache; Ojo de Agua; Zaragoza; Conquista Campesina; Chinal; Belisario Domínguez; Aguacatal; San José; Venustiano Carranza N° 2; El Gallo; Felipe Angeles (Ampliación de Pancho Villa); El Sacrificio; Francisco Villa y La Flor; y
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+I BIS.- El pueblo de Francisco Villa;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+II.- Los Ejidos: Escárcega y sus colonias La Chiquita y La Esperanza; Justicia Social; Lechugal; Libertad; Miguel de la Madrid; Rodolfo Fierros; Belén y su anexo El Saúz; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; Asunción; División del Norte; Haro; Francisco I. Madero; Don Samuel; Luna; Kilómetro 36; Nuevo Progreso No. 2; La Victoria; El Pital o Nuevo Pital; Chontalpa; Kilómetro 18 o 18 de Marzo; San Isidro; El Huiro; Guadalajara; Benito Juárez No. 2; El Quebrache; Ojo de Agua; Zaragoza; Conquista Campesina; Chinal; Belisario Domínguez; Aguacatal; San José; Venustiano Carranza No. 2; El Gallo; Felipe Angeles; El Sacrificio; y La Flor; y
 
 III.- Los ranchos: Las Ruinas; Providencia; Monte Bravo; San Martín; San Joaquín; Oscar Flores; Chaucil 1; Chaucil 2; Chaucil 3; Chaucil 4; Chaucil 5; Caña Fístula 1; Caña Fístula 2; Búfalo; La Estancia; Coliman; Golondrinas; Zeta; San Jorge; Martín; Pedregal; Sacrificio; La Fortuna; Piedras; Elisa; Mil Flores; Félix Romero; Carlos Schnabel; Monte Claro; San Carlos; Gran Poder; San Ignacio; Carlos Heredia; Carmen; Puente de Juárez; Puerto Escondido; Rosa Encerrada; Félix Faller; Hidalgo; Mercedes; El Círculo; Trapiche; Tamarindo; Las Palmas; Encarnación; Selva Negra; San Manuel; Dos Hermanos; Jorge Cural; Jorge Medina; Elidé Hernández; Las Ardillas; Potro; Isis; La Unión; San Jorge 1; La Bomba; El Gallo; Guadalajara; Buenavista; Santa Ana; San Manuel; Otoño; Santa Lucía; Los Altos de Cuyoc; Bonanza; Ponderosa; La Herradura; Láramie; Entre Hermanos; Jabin; Jimbal; San Juan; San Jorge Coyoc; La Flor; San Andrés Mosquetero; Miraflores; Santa Rita; Hermanos Gómez; San Rafael; San Pedro; Esperanza 1: Esperanza 2; Hermanos Navarro; Carmita; El Retiro; San Isidro Cuyoc; Triple R; Leonor; María de la Luz; El Porvenir; El Charro; San Jorge; Pucté 1; Pucté 2; Pucté 3; Pucté 4; Pucté 5; Santa Juliana; Palma Larga; Vista Alegre; Piedral; Guadalupe; Jimba; Taurino; Partenón; San Manuel; Campeador; Borrego; El Limón; Santo Tomás; El Caobo; Neftalín Inurreta; La Esmeralda; El Jazmín; Aventurero; Las Cruces; Progreso; Everardo Espinosa; Daniel Santiago; Santa Fé; Palma Sola; Faisán; Libertad; Carmen; Asunción; San Antonio; Santa María; José Fuentes Ramos; Aída; Saúl Pérez Sosa; Anastacio Damián; Los Reyes; Santo Tomás; Soltero; Juan Mora Guillermo; Norberto Moreno Cano; Eduardo Guillermo Méndez; Adelita; Las Nubes; La Estrella; San Juan; Porfía; Trinidad; Santa Rosalía; El Rey II; Ceferino Moreno Escalante; Jorge Moreno Escalante; Herradura; Nanzal; Vista Alegre; La Libertad; Pedro Moreno Gómez; Esperanza; San Francisco; Laureles; Buenavista; Esperanza; Ilusión; Sacrificio; Trinidad; Vértice; Juanito; Jacinta; Magueyitos; Santa Gertrudis; San Isidro; La Flor; San Pablo; Santa María; San Miguel; San Manuel; Sacrificio; Progreso; Asunción; Fátima; Mameyal; La Gimba; Los Reyes; Los Lirios; El Rincón; El Rosario; Lote 1; Lote 2; Lote 3; Lote 4; Lote 5; Lote 6; Lote 7; Lote 12; Lote 13; Lote 14; Lote 15; Lote 16; Lote 17; Jimbal; Pucteal; Pokar 1; Pokar 2; La Libertad; Salvador; Benitez; Tres Campos; La Unión; Laureles 1; Laureles 2; Bárbara; San Carlos 2; Corozal 1; Corozal 2; San Carlos; Invierno; Las Camelias; Otoño; Loma Linda; Elvira; Tres Hermanos; El Pensamiento; Marcos Verdejo; Lino Melenes; Gustavo Garduño; Catalina; El Vergel; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
 
@@ -2684,3 +2690,7 @@ Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administr
 Tercero.- El Consejo Electoral del Estado deberá proceder a adoptar las medidas que sean necesarias, a efecto de que en las elecciones que tendrán lugar el primer domingo de julio de 1997 se elija a los integrantes de la H. Junta Municipal que, en auxilio del H. Ayuntamiento del Municipio de Campeche, administrará la Sección de Hampolol.
 
 Cuarto.- El H. Ayuntamiento del Municipio de Campeche también deberá proceder a emitir las disposiciones administrativas atinentes a las previsiones que consecuentemente correspondan en su Presupuesto de Egresos para el Ejercicio Fiscal 1997.
+
+P.O. 20 DE NOVIEMBRE DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
