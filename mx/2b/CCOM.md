@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1983-12-27"
+last_updated: "1989-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -3132,7 +3132,7 @@ Las cartas de porte ó billetes en los casos de trasporte de viajeros por ferroc
 
 ###### Art. 587.
 
-En los transportes que se verifiquen por ferrocarriles u otras empresas sujetas á tarifas o plazos reglamentarios, bastará que las cartas de porte o declaraciones de expedición facilitadas por el cargador se refieran en cuanto al precio, plazos y condiciones especiales del transporte, á las tarifas y reglamentos cuya aplicación solicite; y si no determinare tarifas, deberá el porteador aplicar el precio de las que resulten más baratas, con las condiciones que á ellas sean inherentes, consignando siempre su expresión o referencia en la carta de porte que entregue al cargador.
+En los transportes que se verifiquen por ferrocarriles ú otras empresas sujetas á tarifas ó plazos reglamentarios, bastará que las cartas de porte ó declaraciones de expedición facilitadas por el cargador se refieran en cuanto al precio, plazos y condiciones especiales del transporte, á las tarifas y reglamentos cuya aplicación solicite; y si no determinare tarifas, deberá el porteador aplicar el precio de las que resulten más baratas, con las condiciones que á ellas sean inherentes, consignando siempre su expresión ó referencia en la carta de porte que entregue al cargador.
 
 ###### Art. 588.
 
@@ -5270,55 +5270,47 @@ Del procedimiento especial mercantil.
 
 Art. 1,049. Son juicios mercantiles los que tienen por objeto ventilar y decidir las controversias que, conforme á los artículos 4°., 75 y 76, se deriven de los actos comerciales.
 
-Art. 1,050. Cuando conforme á los expresados artículos 4°, 75 y 76, de las dos partes que intervienen en un contrato, la una celebre un acto de comercio y la otra un acto meramente civil, y ese contrato diere lugar á un litigio, la contienda se seguirá conforme á las prescripciones de este Libro, si la parte que celebra el acto de comercio fuere la demandada. En caso contrario, esto es, cuando la parte demandada sea la que celebra un acto civil la contienda se seguirá conforme á las reglas del Derecho común.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,051. El procedimiento mercantil preferente á todos es el convencional. A falta de convenio expreso de las partes interesadas, se observarán las disposiciones de este Libro y en defecto de estas ó de convenio, se aplicará la ley de procedimientos local respectiva.
+Art. 1,050. Cuando conforme a las disposiciones mercantiles, para una de las partes que intervienen en un acto, éste tenga naturaleza comercial y para la otra tenga naturaleza civil la controversia que del mismo se derive se regirá conforme a las leyes mercantiles.
 
-Art. 1,052. Los jueces se sujetarán al procedimiento convencional que las partes hubieren pactado, si en él concurren las condiciones siguientes:
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-I. Que se haya otorgado por medio de instrumento público, ó en póliza ante corredor ó ante el juez, que conozca de la demanda en cualquier estado del juicio;
+Art. 1,051. El procedimiento mercantil preferente a todos es el que libremente convengan las partes con las limitaciones que se señalan en este libro, pudiendo ser un procedimiento convencional ante Tribunales o un procedimiento arbitral.
 
-II. Que se conserven las partes sustanciales de un juicio, que son: la demanda, contestación y prueba, cuando ésta proceda;
+La ilegalidad del pacto o su inobservancia cuando esté ajustado a ley, pueden ser reclamadas en forma incidental y sin suspensión del procedimiento, en cualquier tiempo anterior a que se dicte el laudo o sentencia.
 
-III. Que no se señalen como pruebas admisibles las que no lo sean conforme á las leyes;
+El procedimiento convencional ante tribunales se regirá por lo dispuesto en los artículos 1052 y 1053, y el procedimiento arbitral por las disposiciones del título cuarto de este libro.
 
-IV. Que no se altere la gradación establecida en los tribunales, ni la jurisdicción que cada uno de ellos ejerce;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-V. Que no se disminuyan los términos que las leyes conceden á los jueces y tribunales para pronunciar sus resoluciones;
+Art. 1,052. Los tribunales se sujetarán al procedimiento convencional que las partes hubieren pactado siempre que el mismo se hubiere formalizado en escritura pública, póliza ante corredor o ante el juez que conozca de la demanda en cualquier estado del juicio, y se respeten las formalidades esenciales del procedimiento.
 
-VI. Que no se convenga en que el negocio tenga más recursos ó diferentes de los que las leyes determinan, conforme á su naturaleza y cuantía.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,053. La escritura pública, ó la póliza ó el convenio judicial de que habla la fracción I del artículo anterior, deberá contener para su validez:
+Art. 1,053. Para su validez, la escritura pública, póliza o convenio judicial a que se refiere el artículo anterior, deberá contener las previsiones sobre el desahogo de la demanda, la contestación, las pruebas y los alegatos, así como:
 
-I. Los nombres de los otorgantes;
+I. El negocio o negocios en que se ha de observar el procedimiento convenido;
 
-II. Su capacidad para obligarse;
+II. La sustanciación que debe observarse, pudiendo las partes convenir en excluir algún medio de prueba, siempre que no afecten las formalidades esenciales del procedimiento;
 
-III. El carácter con que contraen;
+III. Los términos que deberán seguirse durante el juicio, cuando se modifiquen los que la ley establece;
 
-IV. Su domicilio;
+IV. Los recursos legales a que renuncien, siempre que no se afecten las formalidades esenciales del procedimiento;
 
-V. El negocio ó negocios en que se ha de observar el procedimiento convenido;
+V. El juez que debe conocer del litigio para el cual se conviene el procedimiento en los casos en que conforme a este Código pueda prorrogarse la competencia;
 
-VI. La sustanciación que debe observarse;
+VI. El convenio también deberá expresar los nombres de los otorgantes, su capacidad para obligarse, el carácter con que contraten, sus domicilios y cualquiera otros datos que definan la especialidad del procedimiento.
 
-VII. Los medios de prueba que renuncien los interesados, cuando convengan en excluir alguno de los que la ley permite;
+En las demás materias, a falta de acuerdo especial u omisión de las partes en la regulación procesal convenida, se observarán las disposiciones de este libro.
 
-VIII. Los recursos legales que renuncien cuando convengan en que no sea admisible alguno de los que concede la ley;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-IX. El juez ó árbitro que debe conocer del litigio para el cual se conviene el procedimiento.
+Art. 1,054. En caso de no existir compromiso arbitral ni convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará la ley de procedimientos local respectiva.
 
-Art. 1,054. La ilegitimidad del pacto ó la inobservancia de él cuando esté ajustado á la ley, pueden ser reclamadas en tiempo y forma por un artículo de previo y especial pronunciamiento, y este procedimiento cabe en cualquier estado y del juicio anterior á la citación que para definitiva haga el juez de primera instancia.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,055. Los juicios mercantiles son:
-
-I. Ordinarios;
-
-II. Ejecutivos;
-
-III. Especiales de quiebra.
-
-Todos se sustanciarán por escrito; y los de menor cuantía, que son aquellos cuyo interés no exceda de $200, no llevarán más timbres que los prevenidos en la ley de la materia para los juicios verbales.
+Art. 1,055. Los juicios mercantiles son ordinarios o ejecutivos.
 
 ### CAPÍTULO II.
 
@@ -5340,7 +5332,9 @@ I. El documento o documentos que acrediten el carácter con que el litigante se 
 
 II. El poder que acredite la personalidad del procurador cuando éste intervenga;
 
-III. Una copia, en papel común, del escrito y de los documentos, cuando estos no pasen de veinticinco fojas. Si excedieren, quedarán en la secretaría para que se instruyan las partes.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
+III. Una copia en papel común del escrito y de los documentos.
 
 Art. 1,062. Los dispuesto en la fracción III de artículo que precede, se observará también respecto de los escritos en que se opongan excepciones de compensación ó reconvención, y del los que se promueva algún incidente.
 
@@ -5350,11 +5344,19 @@ DE LOS JUICIOS ORDINARIOS.
 
 Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
 
-Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
+Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el Artículo 1061, las cuales debidamente confrontadas, se entregarán al demandado para que produzca su contestación dentro del término de nueve días.
 
-Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,379. Las excepciones que tenga el demandado, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,380. En la contestación a la demanda, en los juicios ordinarios, deberá proponerse la reconvención en los casos en que proceda. De la reconvención se dará traslado a la parte contraria para que la conteste dentro del término de nueve días.
+
+El juicio principal y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
 
 Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
 
@@ -5408,6 +5410,10 @@ Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citat
 
 Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+En las cuestiones de incompetencia y en la recusación no se suspenderán las actuaciones relativas al embargo o desembargo de bienes, así como la rendición de cuentas por el depositario, la exhibición de la cosa embargada o su inspección.
+
 Art. 1,395. En el embargo de bienes se seguirá este orden:
 
 I. Las mercancías;
@@ -5422,17 +5428,23 @@ V. Las demás acciones y derechos que tenga el demandado.
 
 Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
 
-Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,396. Hecho el embargo, acto contínuo se notificará al deudor, o a la persona con quien se haya practicado la diligencia para que dentro del término de cinco días comparezca el deudor ante el juzgado a hacer paga llana de la cantidad demandada y las costas, o a oponer las excepciones que tuviere para ello.
 
 Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
 
 Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
-Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,399. Dentro de los cinco días siguientes al embargo podrá el deudor oponer las excepciones que tuviere, acompañando el instrumento en que se funde, o promoviendo la confesión o reconocimiento judicial. De otra manera no será admitida.
 
 Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
 
-Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,401. Si se tratare de títulos de crédito se observará lo dispuesto en el Artículo 8o. de la Ley General de Títulos y Operaciones de Crédito.
 
 Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
 
@@ -5458,7 +5470,9 @@ IX. Novación de contrato.
 
 Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
 
-Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,404. No verificando el deudor el pago dentro de cinco días de hecha la traba, ni oponiendo excepciones contra la ejecución, a pedimento del actor y previa citación de las partes se pronunciará sentencia de remate, mandando proceder a la venta de los bienes embargados y que de su producto se haga pago al acreedor.
 
 Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
 
@@ -5480,79 +5494,99 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 
 Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ### CAPÍTULO III.
 
 De las formalidades judiciales.
 
-Art. 1,063. Las actuaciones judiciales han de practicarse en días y horas hábiles, bajo pena de nulidad.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,064. Son días hábiles todos los del año, menos los que como festivos señala la ley de 14 de Diciembre de 1874, y los domingos. Se entienden horas hábiles las que median desde la salida hasta la puesta del sol.
+Art. 1,063. Los juicios mercantiles se sustanciarán por escrito.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,064. Las actuaciones judiciales han de practicarse en días y horas hábiles, bajo pena de nulidad. Son días hábiles todos los días del año, menos los domingos y aquellos en que no laboren los tribunales competentes en materia mercantil que conozcan el procedimiento. Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas.
 
 Art. 1,065. El juez puede habilitar los días y horas inhábiles para actuar ó para que se practiquen diligencias cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
-Art. 1,066. El secretario, ó quien haga sus veces, hará constar el día y la hora en que se presente un escrito, dando cuenta con él á más tardar dentro de veinticuatro horas, bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme á las leyes.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,067. Sólo se entregarán los autos á las partes para alegar, ó para formar ó glosar cuentas, y cuando de común acuerdo lo pidieren. Los autos y copias, en su caso, se entregarán por el secretario, ó quien haga sus veces, directamente á las partes, por medio de conocimiento que deberán firmar aquéllas. Fuera de los casos señalados, la frase dar o correr traslado, sólo significará: que los autos quedan en la secretaría para que se impongan de ellos los interesados, ó que se entreguen las copias. Las disposiciones de éste artículo comprenden al Ministerio público.
+Art. 1,066. El Secretario, o quien haga sus veces, hará constar el día y la hora en que se presente un escrito, dando cuenta con él a más tardar dentro de veinticuatro horas, bajo sanción de multa hasta por el equivalente a diez veces el salario mínimo general vigente en el lugar en que se ventila el procedimiento, sin perjuicio de las demás que merezca conforme a las leyes.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,067. Los autos podrán ser consultados por las partes o por las personas autorizadas para ello permaneciendo siempre dentro del local del tribunal. La frase "dar o correr traslado" significa que los autos quedan a disposición de los interesados y en su caso se entreguen copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
 ### CAPÍTULO IV.
 
 De las notificaciones.
 
-Art. 1,068. Las notificaciones, citaciones y entrega de expedientes se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez en éstas no dispusiere otra cosa. Se impondrá de plano á los infractores de este artículo una multa que no exceda de veinte pesos.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,069. Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación á la persona o personas contra quienes promueven. Cuando un litigante no cumpla, las notificaciones se entenderán con los estrados del juzgado ó tribunal.
+Art. 1,068. Las notificaciones, citaciones y entrega de expedientes se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez en éstas no dispusiere otra cosa. En el caso de notificaciones personales, dicho término se contará a partir de la fecha en que se entregue el expediente al notificador, lo cual deberá hacerse, dentro de un plazo que no exceda de tres días. Se impondrá de plano a los infractores de este artículo una multa que no exceda del equivalente a diez días de salario mínimo general vigente en el lugar en que se desahogue el procedimiento.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,069. Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar domicilio ubicado en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. Igualmente deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promueven.
+
+Cuando un litigante no cumpla con la primera parte de este artículo las notificaciones se harán conforme a las Reglas para las notificaciones que no deban ser personales. Si no se designare domicilio de la contraparte, se le requerirá para que lo haga, y si lo ignoran se procederá en los términos del artículo siguiente.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 Art. 1,070. Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva por tres veces consecutivas en el periódico oficial del Estado, o del Distrito Federal en que el comerciante deba ser demandado.
 
-Art. 1,071. Cuando haya de notificarse ó citarse á una persona residente fuera del lugar del juicio, se hará la notificación o citación por medio de despacho o exhorto al juez de la población en que aquélla residiere.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+Art. 1,071. Cuando haya de notificarse o citarse a una persona residente fuera del lugar del juicio, se hará la notificación o citación por medio de despacho o exhorto al juez de la población en que aquélla residiere, los que podrán tramitarse por conducto del interesado si éste lo pidiere.
 
-Art. 1,072. Cuando el despacho o exhorto haya de remitirse al juez o tribunal de otro Estado de la Federación, la legalización de las firmas se hará por el Gobernador del Estado o del Distrito Federal, quienes remitirán el exhorto a su igual jerárquico del Estado, o al Jefe del Departamento del Distrito Federal, para que estos funcionarios, directamente y sin intervención de ninguna otra autoridad, lo hagan llegar a poder del juez o tribunal requerido.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+Art. 1,072. En los despachos y exhortos no se requiere la legalización de la firma del tribunal que lo expida.
 
-Art. 1,073. Si la citación o modificación hubiere de hacerse en país extranjero se dirigirá el despacho o exhorto por conducto del Ministerio de Relaciones, el que legalizará las firmas de los gobernadores de algún Estado o del Distrito Federal, quienes, a su vez, habrán legalizado previamente las de los funcionarios judiciales que suscriban la requisitoria.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,074. El Ministro de Relaciones remitirá el despacho ó exhorto, ya legalizado, á la legación o consulado si la nación lo tuviere en el lugar á que se dirige el despacho. En caso contrario, á la legación ó cónsul de la nación que tenga relaciones con la República, salvas siempre las reglas establecidas por los tratados y las del derecho internacional.
+Art. 1,073. La práctica de diligencias en país extranjero para surtir efectos en juicios que se tramiten ante tribunales nacionales, podrán encomendarse a través de los miembros del Servicio Exterior Mexicano por los tribunales que conozcan del asunto, caso en el cual dichas diligencias deberán practicarse conforme a las disposiciones de este libro dentro de los límites que permita el derecho internacional.
+
+Los miembros del Servicio Exterior Mexicano podrán solicitar a las autoridades extranjeras competentes, en los casos en que así proceda, su cooperación en la práctica de las diligencias encomendadas.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,074. Los exhortos que se remitan al extranjero o que se reciban de él, salvo lo dispuesto por los tratados o convenciones de los que México sea parte, se sujetarán a las siguientes disposiciones:
+
+I. Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas que contendrán la petición de realizar las actuaciones necesarias en el juicio en que se expidan; dichas comunicaciones contendrán los datos informativos necesarios y las copias certificadas, cédulas, copias de traslado y demás anexos procedentes según sea el caso;
+
+II. Los exhortos que provengan del extranjero deberán satisfacer los requisitos a que se refiere la fracción anterior, sin que se exijan requisitos de forma adicionales;
+
+III. Los exhortos o cartas rogatorias podrán ser transmitidos al órgano requerido por las propias partes interesadas, por vía judicial, por intermedio de los funcionarios consulares o agentes diplomáticos o por la autoridad competente del Estado requirente o requerido, según sea el caso;
+
+IV. Los exhortos provenientes del extranjero que sean transmitidos por conductos oficiales no requerirán legalización y los que se remitan al extranjero sólo necesitarán de la legalización exigida por las leyes del país en donde se deban diligenciar;
+
+V. Todo exhorto que se reciba del extranjero en idioma distinto del español, deberá acompañarse de su traducción, a la cual se estará, salvo deficiencia evidente u objeción de parte;
+
+VI. Los exhortos que se reciban del extranjero sólo requerirán homologación cuando impliquen ejecución coactiva sobre personas, bienes o derechos; los relativos a notificaciones, recepción de pruebas y otros asuntos de mero trámite, se diligenciarán sin formar incidente;
+
+VII. Los exhortos que se reciban del extranjero serán diligenciados conforme a las leyes nacionales, pero el tribunal exhortado podrá conceder excepcionalmente la simplificación de formalidades o la observancia de formalidades distintas a las nacionales, a solicitud del juez exhortante o de la parte interesada, si esto no resulta lesivo al orden público y especialmente a las garantías individuales; la petición deberá contener la descripción de las formalidades cuya aplicación se solicite para la diligenciación del exhorto;
+
+VIII. Los tribunales que remitan exhortos al extranjero o los reciban de él, los tramitarán por duplicado y conservarán un ejemplar para constancia de lo enviado, recibido y actuado.
 
 ### CAPÍTULO V.
 
 De los términos judiciales.
 
-Art. 1,075. Los términos judiciales empezarán á correr desde el día siguiente al en que se hubiere hecho el emplazamiento, citación ó notificación, y se contará en ellos el día del vencimiento, salvos los casos en que la ley disponga expresamente otra cosa.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,075. Los términos judiciales empezarán a correr desde el día siguiente a aquél en que se hubiere hecho el emplazamiento o notificación, y se contará en ellos el día del vencimiento.
 
 Art. 1,076. En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
 
-Art. 1,077. Serán improrrogables los términos señalados:
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-I. Para comparecer en juicio;
+Art. 1,077. Cuando fueren varias las partes y el término común se contará desde el día siguiente a aquél en que todas hayan quedado notificadas.
 
-II. Para oponer excepciones dilatorias;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-III. Para pedir revocación o reposición de los decretos y de los autos que no fueren apelables conforme á la ley;
-
-IV. Para oponerse á la ejecución;
-
-V. Para pedir aclaración de sentencia;
-
-VI. Para apelar y para presentarse ante los tribunales superiores en virtud de emplazamiento hecho;
-
-VII. Para interponer recurso de casación;
-
-VIII. Para interponer recurso de denegada apelación y casación;
-
-IX. Para presentarse en el tribunal superior á continuar los recursos de apelación, casación y los denegatarios de éstos;
-
-X. Cualesquiera otros expresamente determinados en la ley, y aquellos respecto de los cuales haya prevención terminante de que pasados no se admitan en juicio la acción, excepción, recurso o derecho para que estuvieren concedidos.
-
-Los términos improrrogables que consten de varios días comenzarán á correr desde el día de la notificación, el cual se contará completo, cualquiera que sea la hora en que se haya hecho la notificación.
-
-Art. 1,078. Transcurridos los términos judiciales y las prórrogas legalmente otorgadas, bastará una sola rebeldía para que se saquen con todo apremio las copias, ó los autos en su caso, siguiendo el juicio su curso y perdiéndose el derecho que debió ejercitarse dentro del término.
+Art. 1,078. Una vez concluídos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que debió ejercitarse dentro del término correspondiente.
 
 Art. 1,079. Cuando la ley no señale término para la práctica de algún acto judicial, ó para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
@@ -5560,7 +5594,7 @@ I. Diez días, á juicio del juez, para pruebas;
 
 II. Nueve días para hacer uso del derecho del tanto;
 
-III. Ocho días para interponer el recurso de casación;
+III. (DEROGADA, D.O.F. 4 DE ENERO DE 1989)
 
 IV. Seis días para alegar y probar tachas;
 
@@ -5572,9 +5606,9 @@ VII. Tres días para la celebración de juntas, reconocimiento de firmas, confes
 
 VIII. Tres días para todos los demás casos.
 
-### CAPÍTULO VI.
+> <small>(DEROGADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1989)</small>
 
-De las formalidades judiciales.
+### CAPÍTULO VI.
 
 Art. 1,080. Las vistas de los pleitos serán públicas, y el acuerdo y diligencias de prueba reservados.
 
@@ -5620,15 +5654,19 @@ Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios ju
 
 Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
 
-Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez á quien se someten.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede y para el caso de controversia, señalan como tribunales competentes los del domicilio de cualquiera de las partes del lugar de cumplimiento de algunas de las obligaciones contraídas o de la ubicación de la cosa.
 
 Art. 1,094. Se entienden sometidos tácitamente:
 
 I. El demandante, por el hecho de ocurrir al juez entablando su demanda, no sólo para ejercitar su acción, sino también para contestar á la reconvención que se le oponga;
 
-II. El demandado en juicio ordinario por oponer excepciones dilatorias, por contestar la demanda y por reconvenir á su colitigante, á no ser que al ejecutar esos actos se reserve el derecho de provocar la inhibitoria, ó proteste expresamente no reconocer en el juez más jurisdicción que la que por derecho le competa;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
-III. El demandado en juicio ejecutivo ó hipotecario, si en los tres días siguientes á la práctica de la primera diligencia judicial no alega la reserva del derecho de inhibitoria ó protesta en los términos que establece el artículo anterior;
+II. El demandado, por contestar la demanda o por convenir al actor;
+
+III. (DEROGADA, D.O.F. 4 DE ENERO DE 1989)
 
 IV. El que habiendo promovido una competencia, se desiste de ella;
 
@@ -5641,6 +5679,10 @@ Art. 1,096. Las cuestiones de competencia pueden promoverse por inhibitoria ó p
 El litigante que hubiere optado por uno de estos medios, no podrá abandonarlo y recurrir al otro. Tampoco se podrán emplear sucesivamente, debiendo pasarse por el resultado de aquel á que se haya dado la preferencia. La inhibitoria se sujetará á lo dispuesto en los artículos 1,114 á 1,131; La declinatoria se promoverá y decidirá en los mismos términos que las demás excepciones dilatorias.
 
 Art. 1,097. Todo juez ó tribunal esta obligado á suspender sus procedimientos luego que expida la inhibitoria y luego que en su caso la reciba. Igualmente suspenderá sus procedimientos luego que se le presente el escrito de declinatoria para ocuparse sólo de ésta.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,097 BIS. El juez o tribunal, que de las actuaciones de la incompetencia promovida, deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no exceda del equivalente de cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento.
 
 Art. 1,098. Las cuestiones de tercería son siempre incidentales del juicio que las motiva, ya sea éste civil ó criminal, y por consiguiente deben sustentarse y decidirse por el juez ó tribunal que sea competente para conocer del asunto principal, salvo lo dispuesto para el caso de que ante un juez de paz ó menor se promueva tercería por cantidad mayor de la que la ley sujeta á su jurisdicción.
 
@@ -5686,7 +5728,9 @@ Art. 1,116. La sentencia de segunda instancia causará ejecutoria, y de ella no 
 
 Art. 1,117. El juez inferior, ya sea que él mismo haya declarado su competencia, ya sea que ésta haya sido declarada en la 2a. instancia, dirigirá oficio inhibitorio al juez que conozca del negocio exponiendo las razones en que funde su jurisdicción, e insertando copia de su sentencia ó de la del superior, en su caso.
 
-Art. 1,118. El juez requerido oirá á la parte que ante él litigue, en el término improrrogable de tres días, y en el de otros tres también improrrogables, resolverá si se inhibe de conocer ó sostiene la competencia, pudiendo abrir el punto á prueba por el término de tres días.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,118. El juez requerido oirá a la parte que ante él litigue, en el término de tres días y en el de otros tres resolverá si se inhibe de conocer o sostiene la competencia, pudiendo abrir el punto a prueba por el término de tres días.
 
 Art. 1,119. La primera de estas resoluciones es apelable en ambos efectos, y se decidirá en el plazo y término señalados en el art. 1,115; teniendo también lugar lo dispuesto en el art. 1,116.
 
@@ -5702,7 +5746,9 @@ Art. 1,124. Si el juez insistiere en la competencia, lo avisará en iguales tér
 
 Art. 1,125. Cada juez, al remitir los autos, expondrá al tribunal las razones en que se funde, sin que baste referirse á las constancias del expediente respectivo.
 
-Art. 1,126. El juez que no remita el informe prevenido en el artículo anterior, incurrirá en una multa de cincuenta á doscientos pesos, según la gravedad de la falta, y en caso de desobediencia, en la de suspensión de empleo y sueldo, desde dos meses hasta un año.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,126. El juez que no remita el informe prevenido en el artículo anterior incurrirá en una multa equivalente de diez a treinta días de salario mínimo general vigente en el Distrito Federal, según la gravedad de la falta; y en caso de desobediencia en la suspensión de empleo y sueldo desde dos meses hasta un año.
 
 Art. 1,127. Recibidos los autos de competencia en el tribunal que deba decidirla, se pasarán al Ministerio público por el término de tres días, y devueltos por él, la sala mandará ponerlos en la secretaría á la vista de las partes, por tres días á cada uno.
 
@@ -5794,7 +5840,9 @@ IV. En las diligencias de mera ejecución; mas sí lo serán en las de ejecució
 
 V. En los demás actos que no radiquen jurisdicción ni importen conocimiento de causa.
 
-Art. 1,142. Ninguna recusación es admisible contra los magistrados, cuando formen tribunales de casación ó de nulidad.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,142. En los tribunales colegiados la recusación relativa a magistrados que los integren, sólo importa la de los funcionarios expresamente recusados.
 
 Art. 1,143. En las diligencias precautorias, en los juicios ejecutivos y en los procedimientos de apremio, no se dará curso á ninguna recusación sino practicado el aseguramiento, hecho el embargo ó desembargo en su caso, ó expedida y fijada la cédula.
 
@@ -5940,7 +5988,9 @@ Art. 1,199. El juez recibirá el pleito á prueba en el caso de que los litigant
 
 Art. 1,200. Cualquiera cuestión que se suscite con ocasión de lo dispuesto en los dos artículos anteriores, el juez la resolverá de plano.
 
-Art. 1,201. Las diligencias de prueba sólo podrán practicarse dentro del término probatorio, bajo pena de nulidad y responsabilidad del juez. En los negocios mercantiles es improcedente el término supletorio de prueba.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,201. Las diligencias de prueba deberán practicarse dentro del término probatorio; el juez deberá fundar la resolución que permita su desahogo fuera de dicho término.
 
 Art. 1,202. No obstan á lo dispuesto en el artículo anterior las reglas que se establecen en los artículos 1,320, 1,386 y 1,387.
 
@@ -5966,7 +6016,9 @@ VII. Fama pública;
 
 VIII. Presunciones.
 
-Art. 1,206. El término de prueba es ordinario o extraordinario. Es ordinario el que se concede para producir probanzas dentro del Estado, Distrito ó Territorio federales en que el litigio se sigue. Es extraordinario el que se otorga para que se reciban pruebas fuera de los mismos Territorios, Distritos ó Estados.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,206. El término de prueba es ordinario o extraordinario. Es ordinario el que se concede para producir probanzas dentro de la entidad federativa en que el litigio se sigue. Es extraordinario el que se otorga para que se reciban pruebas fuera de la misma.
 
 Art. 1,207. El término ordinario que procede, conforme al art. 1,199 es susceptible de prórroga el los términos del art. 1,384. El término extraordinario ó ultramarino, no se concederá sino en los casos y bajo las condiciones dispuestas por las leyes, quedando al arbitrio del juez señalar, dentro del legal, el término que crea prudente, atendidas la distancia del lugar y la calidad de la prueba. Del término extraordinario no cabe prórroga.
 
@@ -6062,13 +6114,17 @@ Art. 1,245. Sólo pueden reconocer un documento privado, el que lo firma, el que
 
 Art. 1,246. Los instrumentos auténticos expedidos por las autoridades federales, hacen fe en toda la República, sin necesidad de legalización.
 
-Art. 1,247. Los instrumentos expedidos por autoridades locales, serán legalizadas por los Gobernadores de los Estados ó del Distrito federal, ó por los Jefes políticos de los Territorios.
+Art. 1,247. (DEROGADO, D.O.F. 4 DE ENERO DE 1989)
 
-Art. 1,248. Los instrumentos que vienen del extranjero necesitan, para hacer fe en los Estados, en el Distrito y en los Territorios estar legalizados por el ministro ó cónsul de la República residentes en el territorio de su otorgamiento; y si no los hubiere, por el ministro ó cónsul de la nación que tenga tratado de amistad con la República.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,249. En el primer caso del artículo anterior la legalización de las firmas el ministro ó cónsul se hará por el oficial mayor del Ministerio de Relaciones de la República.
+Art. 1,248. Para que haga fé en la República los documentos públicos extranjeros deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicabales (sic).
 
-Art. 1,250. En el segundo caso de los expresados en el art. 1,248 la legalización de las firmas del ministro ó cónsul de la nación amiga se hará por el ministro ó cónsul respectivo residente en la República, y la de éste por el oficial mayor del Ministerio de Relaciones.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,249. Los documentos que fueren transmitidos internacionalmente, por conducto oficial, para surtir efectos legales, no requerirán de legalización.
+
+Art. 1,250. (DEROGADO, D.O.F. 4 DE ENERO DE 1989)
 
 Art. 1,251. En el caso de que alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales respectivo.
 
@@ -6140,9 +6196,13 @@ Art. 1,265. Los litigantes podrán presentar interrogatorio de repreguntas antes
 
 Art. 1,266. Sobre los hechos probados por confesión judicial, no podrá el que los haya confesado rendir prueba de testigos.
 
-Art. 1,267. A los ancianos de más de sesenta años, á los enfermos y á las mujeres, podrá el juez, según las circunstancias, recibirles la declaración en sus casas.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,268. Al Presidente de la República, á los ministros, senadores, diputados, magistrados, jueces, generales con mando, jefes superiores de las oficinas generales, Gobernadores de los Estados ó del Distrito Federal y Jefes políticos de los Territorios, se pedirá su declaración por oficio, y en esta forma la rendirán.
+Art. 1,267. A las personas mayores de setenta años y a los enfermos, podrá el juez, según las circunstancias, recibirles la declaración en sus casas.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,268. Al Presidente de la República, a los Secretarios de Estado, Senadores, Diputados, Ministros de la Suprema Corte de Justicia, Magistrados, Jueces, Generales con mando, Gobernadores de los Estados, Jefe del Departamento del Distrito Federal, se pedirá su declaración por oficio y en esta forma la rendirán. En casos urgentes podrán rendir la declaración personalmente.
 
 Art. 1,269. Si el testigo no reside en el lugar del juicio, será examinado por el juez del lugar en que se encuentre, á quien previa citación de la parte contraria, se librará exhorto, en que se incluirán en pliego cerrado las preguntas que se hubieren presentado.
 
@@ -6248,9 +6308,11 @@ III. Si uno de los comerciantes no presentare sus libros ó manifestare no tener
 
 IV. Si los libros de los comerciantes tuvieren todos los requisitos legales y fueren contradictorios, el juez ó tribunal juzgará por las demás probanzas, calificándolas según las reglas generales del derecho;
 
-V. Para la justificación de haber puesto un socio la parte que le toque en una compañía, se atenderá á lo dispuesto en el art. 110.
+V. (DEROGADA, D.O.F. 4 DE ENERO DE 1989)
 
-Art. 1,296. Los documentos privados sólo harán prueba plena y contra su autor, cuando fueren reconocidos legalmente conforme á los arts. 1,241 á 1,245, salvo lo dispuesto en art 534 para la firma del aceptante en las letras de cambio.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,296. Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no objetados por la parte contraria se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente. Puede exigirse el reconocimiento expreso si el que los presenta así lo pidiere; con este objeto se manifestarán los originales a quien debe reconocerlos y se les dejará ver todo el documento, no sólo la firma.
 
 Art. 1,297. Los documentos simples comprobados por testigos tendrán el valor que merezcan sus testimonios recibidos conforme á lo dispuesto en el capítulo XVII.
 
@@ -6388,9 +6450,9 @@ II. Respecto de sentencias interlocutorias que resuelvan sobre personalidad, com
 
 En cualquiera otra resolución, que sea apelable, la alzada sólo se admitirá en el efecto devolutivo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,340. La apelación sólo procede en los juicios mercantiles cuando su interés exceda de cinco mil pesos.
+Art. 1,340. La apelación sólo procede en juicios mercantiles cuando su interés exceda de ciento ochenta y dos veces el salario mínimo general vigente, en la fecha de interposición en el lugar en que se ventile el procedimiento.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -6398,19 +6460,15 @@ Art. 1,342. Las apelaciones se admitirán ó denegarán de plano, y se sustancia
 
 Art. 1,343. La sentencia de segunda instancia causará ejecutoria, confirme ó revoque la de primera, y cualquiera que sea el interés que en el litigio se verse.
 
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1989
+
 ### CAPÍTULO XXVI.
 
 De la casación.
 
-Art. 1,344. El recurso de casación sólo procede contra las sentencias definitivas dictadas en la última instancia de cualquier juicio, y que no hayan pasado en autoridad de cosa juzgada.
+Art. 1,344. (DEROGADO, D.O.F. 4 DE ENERO DE 1989)
 
-Art. 1,345. Puede interponerse:
-
-I. En cuanto al fondo del negocio;
-
-II. Por violación de las leyes que establecen el procedimiento.
-
-Bajo cualquiera de estos dos aspectos la casación exige para prosperar el estricto cumplimiento de lo que prescriban las leyes locales respectivas. Como la apelación, se admitirá ó denegará de plano y se sustanciará con sólo el escrito en que se interponga, en el que se mejore y el informe en estrados.
+Art. 1,345. (DEROGADO, D.O.F. 4 DE ENERO DE 1989)
 
 ### CAPÍTULO XXVII.
 
@@ -6419,6 +6477,28 @@ De la ejecución de las sentencias.
 Art. 1,346. Debe ejecutar la sentencia el juez que la dictó en primera instancia, ó el designado en el compromiso en caso de procedimiento convencional.
 
 Art. 1,347. Cuando se pida la ejecución de sentencia ó convenio, si no hay bienes embargados, se procederá al embargo, observándose lo dispuesto en los artículos 1,397, 1,400 y 1,410 á 1,413 de este Libro.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,347-A. Las sentencias, laudos y resoluciones dictadas en el extranjero podrán tener fuerza de ejecución si se cumplen las siguientes condiciones:
+
+I. Que se hayan cumplido las formalidades establecidas en los tratados y convenios en que México sea parte, en materia de exhorto provenientes del extranjero; en el caso de ejecución de laudos no se requerirá exhorto;
+
+II. Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
+
+III. Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código;
+
+IV. Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
+
+V. Que tenga el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
+
+VI. Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el Tribunal Mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
+
+VII. Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
+
+VIII. Que llenen los requisitos para ser considerados como auténticos.
+
+No obstante el cumplimiento de las anteriores condiciones el juez podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias, resoluciones jurisdiccionales o laudos extranjeros en casos análogos.
 
 Art. 1,348. Si la sentencia no contiene cantidad líquida, la parte á cuyo favor se pronunció, al promover la ejecución, presentará su liquidación, de la cual se dará vista por tres días á la parte condenada. Si ésta nada expusiese dentro del termino fijado se decretará la ejecución por la cantidad que importe la liquidación; mas si expresare su inconformidad, se dará vista de las razones que alegue á la parte promovente, la cual contestará dentro de tres días fallando el juez ó tribunal dentro de igual término lo que estime justo. De esta resolución no habrá sino el recurso de responsabilidad.
 
@@ -6490,73 +6570,9 @@ Art. 1,375. Bastará la interposición de una tercería excluyente, para que el 
 
 Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor, y el interés de ella excede del que la ley respectivamente somete á la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda verbal entablada y decidirá la tercería, sujetándose en la sustanciación á lo prevenido en los artículos anteriores.
 
-### CAPÍTULO I.
-
-Disposiciones generales.
-
-Art. 1,415. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,416. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,417. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,418. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,419. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,420. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,421. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,422. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,423. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,424. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,425. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,426. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,427. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,428. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-### CAPÍTULO II.
-
-Del aseguramiento de bienes.
-
-Art. 1,429. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,430. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,431. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,432. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,433. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,434. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,435. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-Art. 1,436. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
-## TÍTULO CUARTO.
-
-DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
-
 ### CAPÍTULO III.
 
 De la rectificación de créditos.
-
-Art. 1,437. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 Art. 1,438. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
@@ -6634,6 +6650,138 @@ Art. 1,471. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
+## TÍTULO CUARTO.. DEL PROCEDIMIENTO ARBITRAL
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,415. Cuando las partes sean comerciantes podrán convenir en someter a decisión arbitral las diferencias que surjan de sus relaciones comerciales. El acuerdo de arbitraje podrá adoptar la fórmula de una cláusula compromisoria incluída en un contrato o la forma de acuerdo independiente.
+
+El acuerdo de arbitraje deberá constar por escrito, pudiendo consistir en un canje de cartas, telex, telegramas o cualquier otro medio semejante.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,416. Solamente las personas capaces pueden comprometer en árbitros sus negocios.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,417. En el acuerdo de arbitraje se designará el negocio o los negocios que serán sometidos a juicio arbitral, así como el nombre del o de los árbitros o el procedimiento para su designación. Si falta la mención del negocio materia del acuerdo, éste será nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,418. Cuando por cualquiera de los medios citados en el Artículo 1415 conste que los interesados sometieron sus diferencias a la decisión arbitral y no estén nombrados el o los árbitros, ni convenida la forma de su designación, debe prepararse el juicio arbitral para que el nombramiento sea hecho por el juez.
+
+Una vez que se haya presentado ante el juez el documento en que conste el acuerdo, por cualquiera de los interesados, se citará a la junta dentro del tercer día para que éstos se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.
+
+En caso de que la cláusula compromisoria forme parte de documento privado, al citar a la otra parte a la junta a que se refiere el párrafo anterior, se le requerirá previamente para que reconozca el documento; si se rehusare a contestar o no compareciere, se tendrá por reconocido.
+
+Durante la junta el juez exhortará a las partes para que elijan árbitro de común acuerdo y en caso de no conseguirlo, será el juez quien lo designe, procurando que dicho nombramiento recaiga en persona idónea atendiendo a sus cualidades personales.
+
+Con el acta de la junta a que se refiere este artículo se iniciarán las labores del árbitro, emplazando a las partes como se determina en este Código.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,419. El acuerdo arbitral será válido aún cuando no se haya establecido el término del juicio arbitral, pero en este caso, dicho término será de sesenta días hábiles, contándose el plazo desde la iniciación del procedimiento arbitral.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,420. Durante el plazo del arbitraje el nombramiento de los árbitros no podrá ser revocado sino por el consentimiento unánime de las partes.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,421. El arbitraje podrá ser nacional o internacional; las disposiciones de este Código se aplicarán en los dos ámbitos, salvo en lo previsto por los convenios y tratados internacionales en que México sea parte. Si el arbitraje se llevare a cabo en México, a falta de acuerdo expreso de las partes y de las reglas del procedimiento acordadas por éstas en los términos de los artículos siguientes, se observarán las disposiciones del presente Código, o en su defecto del Código de Procedimientos Civiles de la entidad federativa donde se realice el arbitraje, salvo que las leyes mercantiles establezcan un procedimiento especial.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,422. En el acuerdo de arbitraje las partes podrán pactar expresamente las reglas procesales que se han de observar, siempre y cuando en ellas se respeten las formalidades esenciales del procedimiento. Asimismo, podrán convenir que el arbitraje se regulará por los reglamentos aprobados o utilizados por instituciones que administren procedimientos arbitrales.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,423. En el acuerdo de arbitraje las partes podrán convenir en:
+
+I. El número de árbitros y el procedimiento para su designación, que podrá encomendarse a un tercero, el cual podrá ser una institución administradora de procedimientos arbitrales;
+
+II. El lugar donde se llevará a cabo el arbitraje;
+
+III. El idioma o idiomas que deberán utilizarse en las actuaciones, pero en juicios que se ventilen en territorio nacional, necesariamente se usará el español, sin perjuicio de otro;
+
+IV. Renunciar al recurso de apelación; y
+
+V. Cualquier otra estipulación que estimen conveniente incluyendo las normas que habrán de aplicarse en cuanto al fondo y al procedimiento sin perjuicio de lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,424. Los árbitros estarán siempre obligados a recibir pruebas y oír alegatos, si cualquiera de las partes lo pidiere. Cualquier pacto en contrario se tendrá por no puesto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,425. Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, el laudo arbitral será definitivo, sin ulterior recurso.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,426. Las partes podrán elegir la ley que deba regir en cuanto al fondo del litigio, a menos que dicha elección no fuere válida por disposición de orden público. En caso de ausencia o invalidez de dicha elección, el árbitro o en su caso, el tribunal arbitral, tomando en cuenta las características y conexiones del caso, determinará el derecho aplicable al fondo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,427. El acuerdo arbitral produce las excepciones de incompetencia y litispendencia, si encontrándose vigente se promueve el negocio ante un tribunal ordinario.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,428. El arbitraje termina:
+
+I. Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria, si no se hubiese designado sustituto o si en un plazo de treinta días naturales no se pusieren de acuerdo las partes en uno nuevo o no se hubiese previsto procedimiento para sustituirlo. En caso de que no hubieren las partes designado el árbitro, si no por intervención judicial, el compromiso no se extinguirá y se proveerá al nombramiento de sustituto en la misma forma que para el primero;
+
+II. Por excusa del árbitro o árbitros designados por las partes, por causa justificada que les impida desempeñar su oficio si las partes en un plazo de treinta días naturales, no se pusieren de acuerdo en la designación de uno nuevo; en caso de que la excusa sea presentada por el árbitro designado con intervención judicial, se proveerá al nombramiento del sustituto en la misma forma que para el primero. Si el árbitro designado en segundo término se excusa del conocimiento del asunto, por causa justificada, el compromiso se entenderá extinguido;
+
+III. Por recusación, con causa declarada procedente cuando el árbitro hubiere sido designado por segunda vez por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+
+IV. Por nombramiento recaído en el árbitro designado por las partes para el desempeño por más de tres meses, de cualquier cargo de la administración de justicia, que impida de hecho o de derecho la función de arbitraje. En caso de árbitro designado por el Juez, se proveerá a una nueva designación; y
+
+V. Por la expiración del plazo a que se refiere el Artículo 1419, salvo que las partes convengan expresamente en prorrogarlo.
+
+Si las partes transigen en cuanto al fondo del litigio el árbitro dará por concluído el procedimiento y, si no es contraria a las normas de orden público aprobará la transacción dándole efectos de laudo definitivo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,429. Siempre que haya de designarse un árbitro sustituto se suspenderán los términos durante el tiempo necesario para hacer el nuevo nombramiento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,430. El laudo arbitral será firmado por todos los árbitros, pero en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y dicho laudo tendrá el mismo efecto que si hubiese sido firmado por todos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,431. Si los árbitros estuviesen autorizados a designar un tercero en discordia, y no lograsen ponerse de acuerdo, sobre en quien ha de recaer dicha designación, acudirán el (sic) juez de primera instancia.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,432. Los árbitros decidirán según las reglas del derecho, a menos que, en el compromiso o en la cláusula se les encomendare la amigable composición o el fallo en conciencia.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,433. Los árbitros sólo son recusables por las mismas causas que lo fueren los jueces; de las recusaciones y excusas de los árbitros conocerá el juez de primera instancia, conforme a las leyes y sin ulterior recurso.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,434. Los árbitros pueden conocer de los incidentes, sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,435. Los árbitros pueden condenar a las partes en costas, daños y perjuicios. Para emplear los medios de apremio se debe acudir ante el juez de primera instancia.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,436. Una vez que haya sido notificado el laudo arbitral, se pasarán los autos al juez de primera instancia para efectos de su ejecución, a no ser que las partes pidieren la aclaración de dicho laudo.
+
+Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
+
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al tribunal superior sujetándose, en todos sus procedimientos a lo dispuesto para los juicios comunes.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+Art. 1,437. La ejecución en el país de laudos arbitrales extranjeros, salvo lo dispuesto en los tratados y convenios de los que México sea parte, se regirán por las disposiciones de este Código o por lo previsto en el acuerdo de arbitraje y en el Código de Procedimientos local respectivo, aplicándose supletoriamente el Código Federal de Procedimientos Civiles.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
 ### CAPÍTULO V.
 
 Del abandono de activo.
@@ -6689,6 +6837,36 @@ Art. 1,489. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 Art. 1,490. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
+### CAPÍTULO VIII.
+
+De la graduación.
+
+Art. 1,491. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,492. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,493. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,494. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,495. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,496. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,497. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,498. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
+### CAPÍTULO IX.
+
+De la segunda instancia.
+
+Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ### CAPÍTULO VIII.
 
@@ -7057,3 +7235,13 @@ El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
 ###### ARTICULO SEGUNDO.
 
 La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho ordenamiento.
+
+D.O.F. 4 DE ENERO DE 1989.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los procedimientos que se encuentren en trámite al momento de entrar en vigor el presente decreto continuarán su curso conforme a estas disposiciones.
+
+TERCERO. Las cláusulas de sumisión expresa o de elección de foro, contenidas en convenios mercantiles celebrados con anterioridad a la fecha en que entre en vigor este Decreto, serán aplicables en los términos en que hubiesen sido pactados.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
