@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1999-01-20"
+last_updated: "1999-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -353,7 +353,9 @@ b). El financiamiento público para las actividades tendientes a la obtención d
 
 c). Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales. La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones;
 
-III.- La organización de las elecciones estatales y municipales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores. El Instituto Electoral del Estado será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Su órgano superior de dirección será el Consejo General y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un secretario. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Reglamento Interior que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos, según lo establezca la ley electoral. Los consejeros electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los grupos parlamentarios de los partidos políticos con registro representados en dicho Congreso. Conforme al mismo procedimiento, se designarán seis consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondientes. Los consejeros electorales, en los términos que la propia ley señale, de entre ellos elegirán a quien funja como su consejero presidente; durarán en su cargo siete años y, durante el tiempo en que se encuentren en funciones, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen, con autorización del propio Consejo, en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. El secretario del Consejo General será nombrado por las dos terceras partes de los integrantes del mismo, a propuesta de su presidente. La ley establecerá los requisitos que deberán reunir para su designación los consejeros electorales y el secretario, los que estarán sujetos al régimen de responsabilidades establecido en el Capítulo XVII de esta Constitución. Los consejeros electorales y el secretario, durante el tiempo en que se encuentren en funciones, percibirán una remuneración adecuada e irrenunciable por sus servicios. Los consejeros del Poder Legislativo serán propuestos por los diputados con afiliación de partido en el Congreso del Estado. Sólo habrá un consejero por cada partido político con registro representado en dicho Congreso. El Instituto Electoral del Estado tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de las agrupaciones y de los partidos políticos, padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, cómputos en los términos que señale la ley, declaración de validez, otorgamiento de constancias en las elecciones de diputados locales y autoridades municipales; cómputo de la elección de gobernador del Estado, en cada uno de los distritos electorales uninominales y remisión del resultado de este cómputo a la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, para los efectos a que se contrae la fracción II del artículo 82-1 de esta Constitución, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+III.- La organización de las elecciones estatales y municipales es una función estatal que se realizará a través de un organismo público autónomo denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores. El Instituto Electoral del Estado será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Su órgano superior de dirección será el Consejo General y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un secretario. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Reglamento Interior que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos, según lo establezca la ley electoral. Los consejeros electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los grupos parlamentarios de los partidos políticos con registro, representados en dicho Congreso. Conforme al mismo procedimiento, se designarán seis consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondientes. El consejero presidente del Consejo General del Instituto Electoral del Estado, será nombrado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los siete consejeros electorales electos. Las designaciones serán realizadas, conforme a la normatividad y procedimiento aplicable en materia de votación en el Congreso; durarán en su cargo siete años y, durante el tiempo en que se encuentren en funciones, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen, con autorización del propio Consejo, en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. El secretario del Consejo General será nombrado por las dos terceras partes de los integrantes del mismo, a propuesta de su presidente. La ley establecerá los requisitos que deberán reunir para su designación los consejeros electorales y el secretario, los que estarán sujetos al régimen de responsabilidades establecido en el Capítulo XVII de esta Constitución. Los consejeros electorales y el secretario, durante el tiempo en que se encuentren en funciones, percibirán una remuneración adecuada e irrenunciable por sus servicios. Los consejeros del Poder Legislativo serán propuestos por los diputados con afiliación de partido en el Congreso del Estado. Sólo habrá un consejero por cada partido político con registro representado en dicho Congreso. El Instituto Electoral del Estado tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de las agrupaciones y de los partidos políticos, padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, cómputos en los términos que señale la ley, declaración de validez, otorgamiento de constancias en las elecciones de diputados locales y autoridades municipales; cómputo de la elección de gobernador del Estado, en cada uno de los distritos electorales uninominales y remisión del resultado de este cómputo a la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, para los efectos a que se contrae la fracción II del artículo 82-1 de esta Constitución, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley; y
 
 IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de los artículos 82-1 y 82-2 de esta Constitución. En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
@@ -425,7 +427,9 @@ La asignación de los diputados, según el principio de representación proporci
 
 a). Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos electorales uninominales;
 
-b). Todo partido político que alcance por lo menos el dos por ciento del total de la votación emitida en la circunscripción plurinominal tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
 
 c). Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
@@ -951,7 +955,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1199,7 +1203,9 @@ Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas
 
 1.- La Sala Administrativa del Tribunal Superior de Justicia del Estado, sin perjuicio de las atribuciones que le señale la Ley Orgánica del Poder Judicial del Estado y demás códigos y leyes aplicables, será la máxima autoridad jurisdiccional y órgano permanente especializado del Poder Judicial del Estado en materia electoral. En el ejercicio de sus atribuciones en esta materia actuará como órgano de única o de segunda instancia, según se determine en esta Constitución y en la ley electoral. Para la validez de su actuación en materia electoral, al avocarse al conocimiento de un asunto de esa naturaleza, deberá declarar que se erige en Sala Electoral. Para que su desempeño como Sala Electoral sea expedito, durante el tiempo que medie entre la fecha en que acontezca la jornada electoral y la de conclusión de la calificación de las elecciones, mediante la expedición del correspondiente acuerdo, podrá diferir el entrar o continuar conociendo de los demás asuntos de su competencia. Sus sesiones de resolución serán públicas o reservadas, en los términos que determinen los códigos o leyes aplicables, y contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-La Sala Administrativa del Tribunal Superior de Justicia del Estado, se integrará con tres magistrados numerarios, electos por las dos terceras partes de los miembros presentes del Congreso del Estado a propuesta del Pleno del Tribunal Superior de Justicia, y durarán en el cargo seis años, a cuyo término podrán ser confirmados en dicho cargo a propuesta que el Pleno haga al indicado Congreso, adquiriendo la calidad de inamovibles. La ley electoral señalará las reglas y el procedimiento respectivos. Fungirá como presidente de esta Sala el magistrado que de entre sus miembros éstos elijan y durará en el cargo tres años improrrogables. Los magistrados de la Sala Administrativa, independientemente de los que además les señalen la Ley Orgánica del Poder Judicial del Estado y la ley electoral, deberán también satisfacer los mismos requisitos que los que se exigen para los demás magistrados del Tribunal Superior de Justicia, en consecuencia también tendrán las mismas prerrogativas de éstos.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+La Sala Administrativa del Tribunal Superior de Justicia del Estado se integrará con tres magistrados numerarios y un suplente, electos por las dos terceras partes de los miembros presentes del Congreso del Estado a propuesta del Pleno del Tribunal Superior de Justicia, y durarán en el cargo seis años, a cuyo término podrán ser confirmados en dicho cargo a propuesta que el Pleno haga al indicado Congreso, adquiriendo la calidad de inamovibles. La ley electoral señalará las reglas y el procedimiento respectivos. Fungirá como presidente de esta Sala el magistrado que de entre sus miembros éstos elijan y durará en el cargo tres años improrrogables. Los magistrados de la Sala Administrativa, independientemente de los que además les señalen la Ley Orgánica del Poder Judicial del Estado y la ley electoral, deberán también satisfacer los mismos requisitos que los que se exigen para los demás magistrados del Tribunal Superior de Justicia, en consecuencia también tendrán las mismas prerrogativas de estos.
 
 A la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, le corresponde resolver en forma exclusiva, definitiva y firme, en los términos de esta Constitución y según lo disponga la ley, sobre:
 
@@ -1259,15 +1265,15 @@ Las personas que hayan ocupado el cargo de magistrado del Tribunal Superior de J
 
 Los Jueces de Primera Instancia, deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+REFORMADA, P.O. 29 DE MAYO DE 1965)
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+REFORMADA, P.O. 29 DE MAYO DE 1965)
 
 II.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+REFORMADA, P.O. 29 DE MAYO DE 1965)
 
 III.- Gozar de buena reputación.
 
@@ -1449,7 +1455,9 @@ Los Municipios que integran el Estado serán Libres y se regirán por la Ley Org
 
 I.- Cada Municipio será administrado por un cuerpo colegiado denominado Ayuntamiento, de elección popular directa;
 
-II.- Salvo el Ayuntamiento del Municipio de Campeche que se integrará con un Presidente, siete Regidores y dos Síndicos electos por el principio de mayoría relativa, y cuatro Regidores y un Síndico asignados por el sistema de representación proporcional, los demás Ayuntamientos se integrarán con un Presidente, cinco Regidores y un Síndico de mayoría relativa y tres Regidores y un Síndico de representación proporcional. Para la asignación de Regidores y Síndicos de representación proporcional se observarán las disposiciones de la ley electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento del total de la votación emitida en el Municipio correspondiente;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+II.- Salvo los Ayuntamientos de los Municipios de Campeche y de Carmen que se integrarán con un Presidente, siete Regidores y dos Síndicos electos por el principio de mayoría relativa, y cuatro Regidores y un Síndico asignados por el principio de representación proporcional; los demás ayuntamientos se integrarán con un Presidente, cinco Regidores y un Síndico de mayoría relativa y tres Regidores y un Síndico de representación proporcional. Para la asignación de Regidores y Síndicos de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el municipio correspondiente;
 
 III.- Los Municipios podrán subdividirse territorialmente en Secciones y Comisarías Municipales. La facultad para crear Secciones y Comisarías corresponderá a la Legislatura del Estado y a los Ayuntamientos, respectivamente;
 
@@ -1459,7 +1467,7 @@ V.- Cada Comisaría Municipal será administrada por una sóla persona, auxiliar
 
 Los presidentes, regidores, síndicos y comisarios durarán en sus cargos tres años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 103.
 
@@ -2084,3 +2092,11 @@ P.O. 20 DE ENERO DE 1999.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 1999.
+
+Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El nombramiento del magistrado suplente de la Sala Administrativa del Poder Judicial del Estado se hará conforme a las reglas y procedimientos establecidos en el artículo 215 del Código Electoral del Estado, para que, una vez nombrado, se integre a dicho órgano judicial y entre en ejercicio de sus funciones ante la ausencia de uno de los magistrados de la citada Sala, erigida ésta en Sala Electoral.
+
+Tercero.- Se derogan todas las disposiciones legales, reglamentarias o administrativas en lo que se opongan al contenido del presente decreto.
