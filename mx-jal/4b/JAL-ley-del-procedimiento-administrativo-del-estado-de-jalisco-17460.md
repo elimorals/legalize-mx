@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2001-07-21"
+last_updated: "2004-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -527,17 +527,21 @@ VII. Si del resultado de la verificación se advierten irregularidades, el respo
 
 La inspección procede cuando la autoridad deba constatar que un particular cumple debidamente con normatividad aplicable, siempre que existan indicios y presunciones legales o humanas respecto de una irregularidad, derivada de un dictamen de verificación o por cualquier otra circunstancia, lo cual se asentará en la orden de inspección.
 
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 71.
 
-Los inspectores antes de practicar la visita de inspección, deben identificarse con documento idóneo, con fotografía que lo acredite como tal y el que debe estar vigente, así como acompañar la orden de inspección de la que dejará copia, la cual debe cuando menos:
+Previo a la ejecución de la vista de verificación o inspección, los servidores públicos que tengan a su cargo el desarrollo de la misma se identificarán con documento oficial, con fotografía que los acredite como tales, y dejarán un tanto en original, de la orden de visita dictada para ese efecto a los titulares de los bienes muebles o lugares a verificar, a sus representantes legales, la cual deberá cumplir con los siguientes requisitos:
 
-I. Constar por escrito y estar expedida por autoridad competente.
+I. Nombre, cargo y firma autógrafa del funcionario que la emite, así como el sello de la dependencia de la que emana;
 
-II. Contener la firma autógrafa de quien la expide.
+II. Nombre o razón social del visitado, así como el domicilio donde tendrá verificativo la visita;
 
-III. Precisar los alcances y objetivos de la visita, así como señalar los documentos o bienes; lugar o establecimiento que ha de inspeccionarse.
+III. Descripción minuciosa del objeto o alcances de la visita;
 
-IV. Estar debidamente fundada y motivada de tal manera que dé seguridad al particular que los artículos señalados sean congruentes al caso concreto.
+IV. Nombre de los funcionarios autorizados para la práctica de la visita; así como los datos de identificación oficial de los mismos;
+
+V. Fundada y motivada y las consideraciones de las que derive la orden de visita.
 
 ###### Artículo 72.
 
@@ -551,9 +555,13 @@ III. Durante el desarrollo de la visita de inspección el visitado tiene en todo
 
 IV. Al final de la inspección debe levantarse acta circunstanciada dejando copia al particular.
 
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 73.
 
-En toda visita de verificación o inspección, se debe levantar acta circunstanciada en presencia de dos testigos propuestos por la persona con quien se hubiera entendido el acto administrativo procedimental o por quien la practique en el caso de que aquélla se niegue a designarlos.
+En toda visita de inspección o verificación se debe levantar acta circunstanciada en presencia del titular de los bienes muebles o lugares a verificar o de su representante legal.
+
+En caso de no encontrarse el titular de los bienes o su representante legal solo se podrá levantar acta circunstanciada cuando exista flagrancia en infracciones a leyes y reglamentos administrativos, así mismo podrán aplicarse medidas de seguridad que garanticen la permanencia del estado que guardan las cosas.
 
 ###### Artículo 74.
 
@@ -563,13 +571,15 @@ I. Nombre, denominación o razón social del visitado.
 
 II. Hora, día, mes y año en que se inicia y concluye la diligencia.
 
-III. Calle, número, población o colonia, delegación y código postal en donde se encuentre ubicado el lugar en que se practica la visita y número telefónico u otra forma de comunicación disponibles.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+III. Calle, número y población o colonia en donde se encuentre ubicado el lugar en que se practique la visita.
 
 IV. En su caso, el número y fecha del oficio de comisión que motivó la diligencia.
 
 V. Datos generales de la persona con quien se entiende la diligencia, así como la mención del documento con el que se identifique; de igual forma el cargo de dicha persona.
 
-VI. Nombre y firma de las personas que fungieron como testigos, así como los datos del documento con el que se identifiquen.
+VI. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2004)
 
 VII. Datos relativos a la actuación, incluyendo el fundamento legal en que se basó la verificación o inspección.
 
@@ -577,11 +587,17 @@ VIII. Declaración del visitado, si así desea hacerlo.
 
 IX. En el caso de inspecciones, asentar en forma clara y precisa que se le dio debido cumplimiento a lo señalado en el artículo 71 de este ordenamiento legal.
 
-X. Nombre y firma de quienes intervinieron en la diligencia, incluyendo las de los verificadores o inspectores, testigos de asistencia y otras autoridades que hayan concurrido.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
 
-XI. Si se niega a firmar el visitado, su representante legal o la persona con quien se entendió la inspección o verificación, tal situación no afecta la validez del acta, debiendo el inspector asentar la razón relativa.
+X. Nombre, firma y datos de los documentos con los que se identifiquen, quienes intervinieron en la diligencia, incluyendo las de los verificadores o inspectores y otras autoridades que hayan concurrido, del visitado; así como las de los testigos de asistencia;
 
-La falta de alguno de los requisitos mínimos, señalados en las fracciones anteriores, serán motivo de nulidad o anulabilidad, según sea el caso, exceptuando el supuesto establecido en la fracción X.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+XI. Las causas por las cuales el visitado, su representante legal con la que se entendió la diligencia, se negó a firmar si es que tuvo lugar dicho supuesto.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+La falta de alguno de los requisitos establecidos en el presente artículo, según sea el caso, será motivo de nulidad o anulabilidad.
 
 ###### Artículo 75.
 
@@ -1228,3 +1244,7 @@ P.O. 6 DE FEBRERO DE 2001.
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
