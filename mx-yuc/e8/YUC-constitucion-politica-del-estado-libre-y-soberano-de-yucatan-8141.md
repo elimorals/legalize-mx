@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1932-03-30"
+last_updated: "1932-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 1932.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE AGOSTO DE 1932.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -613,9 +613,9 @@ V.- mezclarse en las causas pendientes, ni disponer durante el juicio de las per
 
 VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública;
 
-> <small>(REFORMADA, D.O. 24 DE FEBRERO DE 1921)</small>
+> <small>(REFORMADA, D.O. 8 DE AGOSTO DE 1932)</small>
 
-VII.- permitir o tolerar que se establezcan en el Estado casas de juego ilícitos, prostíbulos y espectáculos inmorales.
+VII.- Permitir (sic) o tolerar que se establezcan en el Estado casas de juego ilícitos, o espectáculos inmorales.
 
 ###### Artículo 57.
 
@@ -821,6 +821,8 @@ Todos los hombres nacen iguales, y por tanto, tienen derecho a participar igualm
 
 Corresponde al Estado, por medio de Leyes Agrarias, evitar el acaparamiento de la tierra. Corresponde igualmente al Estado cuidar de que el obrero goce de los derechos y garantías que le otorga el artículo ciento veinte y tres de la Constitución Federal.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 500, PUBLICADO EN EL D.O. EL 8 DE AGOSTO DE 1932, SE ABROGA EL DECRETO No. 238 DE 5 DE ABRIL DE 1921; QUEDANDO VIGENTE EL PRESENTE ARTICULO EN LOS TERMINOS EN QUE APARECE EN EL ARTICULO 1o. DEL DECRETO No. 81 DE 23 DE FEBRERO DE 1921.</small>
+
 > <small>(REFORMADO, D.O. 24 DE FEBRERO DE 1921)</small>
 
 ###### Artículo 88.
@@ -831,9 +833,7 @@ I.- los espectáculos inmorales.
 
 II.- la trata de blancas;
 
-> <small>(REFORMADA, D.O. 6 DE ABRIL DE 1921)</small>
-
-III.- los juegos ilícitos considerando como tales todos aquellos en que el éxito dependa del azar y no de medios conocidos de ambas partes, tales como las Loterías de figuras, barajas, cartones, etc., exceptuándose únicamente las Loterías de billetes.
+III.- los juegos ilícitos considerando como tales todos aquellos en que el éxito dependa del azar y no de medios conocidos de ambas partes con exclusión de las loterías;
 
 Las leyes fijarán las penas de los que infrinjan esta disposición.
 
@@ -1066,6 +1066,10 @@ D.O. 31 DE DICIEMBRE DE 1931.
 Este decreto entrará en vigor el día primero de enero del año de mil novecientos treinta y dos.
 
 D.O. 30 DE MARZO DE 1932.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 8 DE AGOSTO DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
