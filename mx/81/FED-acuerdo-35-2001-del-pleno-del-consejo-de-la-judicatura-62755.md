@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-35-2001-del-pleno-del-consejo-de-la-judicatura-62755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-22"
-last_updated: "2001-06-22"
+last_updated: "2001-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-13"
 
 ACUERDO GENERAL 35/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DEL SEGUNDO TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, CON RESIDENCIA EN TEPIC, NAYARIT, A LA NUEVA DENOMINACION DEL ACTUAL TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE CIRCUITO CON SEDE EN LA MISMA CIUDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE OCTUBRE DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de junio de 2001.
 
@@ -57,6 +57,8 @@ TERCERO.- A partir de la fecha indicada en el punto de Acuerdo anterior, el actu
 
 CUARTO.- Desde la fecha señalada en el punto segundo precedente, los Tribunales Colegiados del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, contarán con una Oficina de Correspondencia Común, la cual iniciará sus funciones en la misma fecha señalada para el inicio de funcionamiento del nuevo Tribunal Colegiado en mención.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/13/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE OCTUBRE DE 2001, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, POR TRES MESES QUINCE DIAS, DEL 1 DE NOVIEMBRE DE 2001 AL 15 DE FEBRERO DE 2002.</small>
+
 QUINTO.- Los nuevos asuntos que se presenten en la Oficina de Correspondencia Común de los Tribunales Colegiados del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, del uno de agosto al treinta y uno de octubre de dos mil uno, serán del conocimiento del Segundo Tribunal Colegiado del Circuito y sede mencionados, con excepción de aquellos asuntos que tengan relación con los que se encuentren en trámite en el Primer Tribunal Colegiado del Circuito señalado, en cuyo caso se turnarán a ese órgano jurisdiccional con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 14/2001, del Pleno del Consejo de la Judicatura Federal. Concluido ese periodo, los nuevos asuntos se distribuirán entre los dos Tribunales Colegiados del Vigésimo Cuarto Circuito, con las salvedades apuntadas, conforme al sistema computarizado que se utiliza para esos efectos.
 
 SEXTO.- Se modifica el Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, de dieciséis de abril de dos mil uno, en el número 1, de su apartado XXIV.- VIGESIMO CUARTO CIRCUITO, del punto SEGUNDO, para quedar como sigue:
@@ -76,3 +78,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 35/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento del Segundo Tribunal Colegiado del Vigésimo Cuarto Circuito, con Residencia en Tepic, Nayarit, a la Nueva Denominación del Actual Tribunal Colegiado del Vigésimo Cuarto Circuito, así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos Entre los Tribunales Colegiados de Circuito con sede en la Misma Ciudad, fue aprobado por el propio Pleno, en sesión de trece de junio de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a trece de junio de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS TRANSITORIOS DEL ACUERDO DE REFORMAS A PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE OCTUBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
