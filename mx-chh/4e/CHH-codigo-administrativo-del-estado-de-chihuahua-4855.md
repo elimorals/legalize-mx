@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2004-10-02"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8261,7 +8261,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
@@ -8321,9 +8321,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1502.
 
@@ -8333,9 +8333,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1504.
 
@@ -8383,7 +8383,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1515.
 
@@ -8411,7 +8411,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1521.
 
@@ -8429,9 +8429,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1525.
 
@@ -8451,7 +8451,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1529.
 
@@ -8471,7 +8471,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1533.
 
@@ -8481,9 +8481,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1535.
 
@@ -8513,9 +8513,13 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1542.
 
@@ -8541,11 +8545,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -9383,7 +9383,7 @@ DECIMA TERCERA PARTE
 
 ###### ARTICULO 1631.
 
-Las disposiciones de este título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, comprendiéndose tanto la Administración Pública Centralizada como la Paraestatatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
+Las disposiciones de este título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, comprendiéndose tanto la Administración Pública Centralizada como la Paraestatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -9661,7 +9661,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 ### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1652.
 
@@ -9811,11 +9811,11 @@ Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los 
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1666.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las ventas y compras de inmuebles corresponde al Gobernador y al Secretario General de Gobierno.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la adquisición hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las adquisiciones y enajenaciones de inmuebles corresponde al Gobernador, al Secretario General de Gobierno y al Secretario de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
@@ -9861,13 +9861,17 @@ En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Fin
 
 ###### ARTICULO 1672.
 
-La posesión, conservación y administración de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+La adquisición, posesión, conservación, administración y enajenación de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, al Titular del Poder Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1673.
 
 Los bienes propios del Estado, no destinados a un servicio público, o que no disfruten de iguales privilegios que aquéllos que sí lo están, pueden enajenarse, siempre que no existan razones que impongan la necesidad o la conveniencia de conservar dicho bien o que se justifique plenamente la necesidad de la enajenación por la importancia del fin que haya de realizarse con el producto de la venta. El Ejecutivo para obtener la autorización del Congreso, está obligado a exponer los propósitos de la venta y a justificar posteriormente la inversión de los fondos que haya obtenido, precisamente en dichos propósitos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+Los instrumentos en los que consten los actos jurídicos que contengan las adquisiciones o las enajenaciones de los bienes del Estado, serán firmados en la forma prevista en la última parte del artículo 1666.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9963,15 +9967,15 @@ La Hacienda Pública estará facultada para retener administrativamente los bien
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Secretaría de Finanzas y Administración.
+La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal son facultades del Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1688.
 
-La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde a la Secretaría de Finanzas y Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezcan las normas legales.
+La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde al Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezcan las normas legales.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -10812,3 +10816,9 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+PRIMERO. Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución local.
+
+SEGUNDO. Realizado que sea el procedimiento del artículo 202 de la Constitución Política Estatal, publíquese el presente Decreto en el Periódico Oficial del Estado, para que entre en vigor al día siguiente de su publicación.
