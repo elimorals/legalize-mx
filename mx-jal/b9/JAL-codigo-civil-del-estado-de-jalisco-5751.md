@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2001-11-13"
+last_updated: "2001-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -4121,6 +4121,8 @@ El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este
 
 ### CAPITULO UNICO. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 734.
 
 El tutor está obligado a rendir al Consejo de Familia, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en tiempo, motivará la remoción del tutor.
@@ -4311,7 +4313,7 @@ En los casos en que conforme a este código tenga que intervenir el curador, cob
 
 ###### Art. 774.
 
-El Consejo de Familia es una institución dotada de plena autonomía, con personalidad jurídica y patrimonio propios, que tiene por objeto dar la atención y seguimiento a los asuntos que le devienen por este código.
+El Consejo de Familia es un órgano de participación ciudadana, desconcentrado del Sistema Estatal del Desarrollo Integral de la Familia, que tiene por objeto dar la atención y seguimiento a los asuntos que le devienen por este código.
 
 ###### Art. 775.
 
@@ -13925,7 +13927,9 @@ La cesión total o parcial de los créditos con garantía hipotecaria se sujetar
 
 I. El acreedor podrá ceder el crédito con garantía hipotecaria, sin necesidad de satisfacer requisito alguno cuando conserve la administración del mismo;
 
-II. Si el cedente deja de llevar la administración de los créditos el cesionario debe notificar la cesión al deudor por escrito, señalando quien será el nuevo acreedor y, en su caso, el domicilio para recibir el pago dentro del lugar donde se estuviere realizando antes de la cesión;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+II. Si el cedente deja de llevar la administración de los créditos, debe notificar la cesión al deudor por escrito, señalando quien será el nuevo acreedor y, en su caso, el domicilio para recibir el pago dentro del lugar donde se estuviere realizando antes de la cesión;
 
 III. Derivado de la cesión no podrán variarse las condiciones para el cumplimiento de las obligaciones del deudor, sin su consentimiento, salvo lo dispuesto en la fracción anterior;
 
@@ -14087,11 +14091,9 @@ VIII. Cuando por confusión, el acreedor adquiera el bien hipotecado; y
 
 IX. Cuando se extinga el derecho del constituyente de la hipoteca sobre el bien gravado.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
-Art. 2581 bis.- El pago anticipado, total o parcial, de los préstamos con garantía hipotecaria para la adquisición de vivienda, obliga al acreedor a recibirlo, sin que sea exigible al deudor el cumplimiento de prestaciones de carácter económico por concepto de prepago, sea cual fuere su denominación.
-
-El pago anticipado de préstamos con intereses se imputará a capital en cuanto no hubiere intereses vencidos y no pagados.
+Art. 2581 bis.- El pago anticipado, total o parcial de los créditos con garantía hipotecaria para la adquisición de vivienda, obliga al acreedor a recibirlo.
 
 ###### Art. 2582.
 
@@ -17066,3 +17068,21 @@ DECRETO 18914
 P.O. 13 DE NOVIEMBRE DE 2001.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+DECRETO 19425
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO: Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
+
+P.O. 29 DE DICIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+
+DECRETO 19432
+
+Primero.- El presente decreto entrará en vigor al día primero de enero del año 2002, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
