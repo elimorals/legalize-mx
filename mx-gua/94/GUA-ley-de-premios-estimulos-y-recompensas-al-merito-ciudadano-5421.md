@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-premios-estimulos-y-recompensas-al-merito-ciudadano-5421
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-30"
-last_updated: "2000-07-07"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS AL MERITO CIUDADANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PREMIOS Y ESTIMULOS AL MERITO CIUDADANO PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 30 de abril de 1993.
 
@@ -372,3 +374,11 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACIO
 ###### ARTICULO SEGUNDO.
 
 DURANTE EL AÑO 2000, SE LLEVARA A CABO LA PRIMERA PREMIACION Y ENTREGA DE LA PRESEA DEL PREMIO ESTATAL AL PERIODISMO. LA COMISION DE REGIMEN INTERNO, POR ESTA UNICA OCASION, EN SU CARACTER DE COMITE DE PREMIACION, EXPEDIRA LA CONVOCATORIA, SIN SUJETARSE AL PROCEDIMIENTO NORMADO POR EL CAPITULO XIV.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Premios, Estímulos y Recompensas al Mérito Ciudadano expedida por la Quincuagésima Quinta Legislatura del Estado mediante Decreto número 153, publicada en el Periódico Oficial del Gobierno del Estado número 35, segunda parte, del 30 de abril de 1993.
+
+Artículo Tercero.- La Quincuagésima Novena Legislatura del Congreso del Estado durante el año 2005, procederá a efectuar la entrega de los Premios Estatales previstos en esta Ley, en la fecha que determine el Comité de Premiación. Dicha entrega se realizará bajo las condiciones que determine la convocatoria que se emita para tal efecto, sin sujetarse al término establecido en el artículo 4 de la presente Ley.
