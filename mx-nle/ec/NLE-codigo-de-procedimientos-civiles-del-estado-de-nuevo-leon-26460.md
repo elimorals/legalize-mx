@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1981-03-02"
+last_updated: "1982-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: LUNES 2 DE MARZO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -677,49 +677,45 @@ Los tribunales declarados competentes harán que las cosas se restituyan al esta
 
 REGLAS PARA LA FIJACION DE LA COMPETENCIA.
 
-###### Artículo 111.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1982)</small>
 
-Es juez competente:
+###### ARTICULO 111.
+
+Es Juez competente:
 
 I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el de la fracción anterior, se surte la competencia no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad, debiéndose observar lo dispuesto en el Artículo 105;
 
-II.- El del lugar señalado en el contrato para el cumplimiento de la obligación.
+> <small>(F. DE E., P.O. 1 DE ENERO DE 1982)</small>
 
-Tanto en este caso como en el de la fracción anterior, se surte la competencia no solo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad, debiéndose observar lo dispuesto en el artículo 105.
+III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a la cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será a prevención;
 
-III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será a prevención;
+Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor;
 
-> <small>(REFORMADA, P.O. 1º. DE FEBRERO DE 1975)</small>
+IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil, siempre que en este último caso no se trate de la rectificación o modificación de una acta del estado civil, porque entonces se estará a lo dispuesto en el artículo 957.
 
-IV.- Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor, sin perjuicio de los que disponga la Ley Orgánica del Poder Judicial del Estado, para el caso de que hubiere varios Jueces competentes.
+Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor;
 
-Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor;
-
-V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia y si estuvieren en varios lugares el juez de cualquiera de ellos a prevención; y a falta de domicilio y de bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
+V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia y si estuvieren en varios lugares el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
 VI.- Aquél en cuyo territorio radica un juicio sucesorio para conocer:
 
-a).- De las acciones de petición de herencia;
+a) De las acciones de petición de herencia;
 
-b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
+b) De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
+c) De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
-VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se tratare de bienes raíces será el del lugar en que estén ubicados;
+VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve pero si se trata de bienes raíces será el del lugar en que estén ubicados;
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
-
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
 
 X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
-
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
 
 XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
 
@@ -2619,11 +2615,11 @@ En cualquier estado de la segunda instancia podrá separarse de la apelación el
 
 Todas las notificaciones de la segunda instancia, se harán en la forma que previenen los artículos 75 y 76, excepción hecha de las sentencias que se notificarán personalmente, si las partes tienen designado domicilio.
 
-> <small>(REFORMADO, P.O. 1º. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
-###### Artículo 452.
+###### ARTICULO 452.
 
-La revisión de las sentencias pronunciadas en los Juicios sobre rectificación de actas del Estado Civil y sobre nulidad del matrimonio por las causas expuestas en los artículos 241, 242 y del 248 al 251 del Código Civil, abre de oficio la segunda instancia, con la intervención del Ministro Público y aunque las partes no expresen agravios, el tribunal examinará la legalidad de la sentencia de Primera Instancia, observándose en lo conducente las formalidades previstas por el artículo 448 de este Código, quedando, entre tanto, sin ejecutarse la sentencia que se revisa.
+La revisión de las sentencias recaídas en los casos y procedimientos señalados en el artículo 956, de este Código y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la Segunda Instancia con intervención del Ministerio Público. Y aunque las partes no expresaren agravios la Sala de lo Familiar examinará la legalidad de la sentencia de Primera Instancia, observándose en lo conducente las formalidades previstas por el Artículo 448 de este Código, quedando entre tanto sin ejecutarse aquélla.
 
 ### CAPITULO II
 
@@ -5679,6 +5675,36 @@ En los asuntos de su competencia, los Jueces de lo Familiar siempre podrán exho
 
 En los negocios de que conozcan los Jueces de lo Familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en Licenciados en Derecho con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará, el término que se hubiese concedido para el ejercicio de algún derecho.
 
+> <small>(ADICIONADO, P.O. 1º. DE ENERO DE 1982)</small>
+
+###### Artículo 956.
+
+En el caso del primer párrafo del Artículo 135 del Código Civil, el procedimiento a seguir será el Ordinario Civil ante los Jueces competentes.
+
+> <small>(ADICIONADO, P.O. 1º. DE ENERO DE 1982)</small>
+
+###### Artículo 957.
+
+Exclusivamente para los efectos de los párrafos segundo y tercero del artículo 135 del Código Civil, se estará a las siguientes reglas:
+
+I.- Por lo que toca al territorio comprensivo de los Distritos Judiciales Primero, Segundo, Tercero y Cuarto, las solicitudes o demandas se promoverán directamente ante la Sala de lo Familiar del Tribunal Superior de Justicia, con las formalidades y requisitos fijados en los artículos 612 y 614 de este Código.
+
+En caso de que los interesados presentaran las solicitudes o demandas en la Oficialía de Partes o cualquiera de los Juzgados de los otros Distritos señalados en el párrafo anterior, las mismas deberán recibirse por los Titulares de dichos organismos y ponerlas de inmediato a disposición de la Sala de lo Familiar, instruyendo a los promoventes para que en lo sucesivo comparezcan ante ésta.
+
+II.- En los demás Distritos Judiciales las solicitudes o demandas, con las mismas formalidades y requisitos ya mencionados, se dirigirán a la Sala Familiar por conducto de los Jueces de la cabecera de dichos Distritos, quienes en auxilio de aquélla recabarán el informe a que se alude en la fracción siguiente, juntamente con el cual las turnarán a la referida Sala el primer día hábil de cada semana.
+
+III.- En los supuestos de la fracción I de este artículo, de inmediato la Sala requerirá al Oficial del Registro Civil que corresponda, para que dentro de cuarenta y ocho horas informe respecto a la solicitud o demanda planteada.
+
+Recibido el informe la Sala dictará la resolución sobre la solicitud o demanda promovida, la que se comunicará sin demora al Oficial del Registro Civil para que se cumpla con lo dispuesto en el artículo 138 del Código Civil.
+
+La Sala siempre podrá requerir al interesado de la presentación de documentos distintos a los exhibidos, para apoyar su resolución.
+
+Cuando los interesados necesiten rendir alguna otra prueba de las señaladas en la Ley, su desahogo se encomendará a cualquiera de los Jueces Familiares del Primer Distrito Judicial o a aquél ante quien se haya presentado la solicitud o demanda, enviándoles, en su caso, los interrogatorios debidamente calificados, debiéndose observar los plazos a que se refiere el párrafo siguiente.
+
+La resolución de la Sala se pronunciará en un plazo que nunca excederá de cinco días hábiles a contar del siguiente al en que se reciba el informe del Oficial del Registro Civil excepto en los casos del párrafo que antecede en que contará con un período no mayor de quince días hábiles, tanto para la recepción de las pruebas como para pronunciar la resolución.
+
+Contra la resolución de la Sala no procederá recurso alguno.
+
 TITULO ESPECIAL
 
 DE LA JUSTICIA DE PAZ.
@@ -6000,3 +6026,17 @@ P.O. 2 DE MARZO DE 1981.
 DECRETO 111, QUE REFORMA EL ARTÍCULO 880.
 
 Único:- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1º. DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO
+
+- Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+###### ARTICULO TERCERO
+
+- Para los efectos del Artículo 957 con que se adiciona el Libro Quinto del Código de Procedimientos Civiles, todos aquellos negocios a que se refiere dicho precepto y que actualmente se encuentran tramitándose en Primera Instancia sin que se haya dictado la sentencia, deberán remitirse a la Sala de lo Familiar una vez que se haya concluído el período probatorio respectivo, a fin de que ésta pronuncie la resolución que corresponda.
