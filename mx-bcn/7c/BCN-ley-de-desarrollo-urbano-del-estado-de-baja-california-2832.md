@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "1994-06-24"
+last_updated: "1996-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1996.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -195,7 +195,11 @@ XIV. La conservación y mejoramiento del ambiente en los asentamientos humanos;
 
 XV. El ordenado aprovechamiento de la propiedad inmobiliaria en los centros de población; y
 
-XVI. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano.
+XVI. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
+
+XVII. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y accesibilidad que requieran las personas con discapacidad.
 
 ###### ARTICULO 4.
 
@@ -1621,6 +1625,10 @@ V. Los componentes del paisaje urbano, como arboledas, jardines, mobiliario urba
 
 VI. La modificación de la naturaleza o topografía de un predio, para su utilización, para la intensificación o modificación de su uso.
 
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
+
+VII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad y accesibilidad requeridas por las personas con discapacidad.
+
 ###### ARTICULO 148.
 
 Toda acción de urbanización se sujetará a las disposiciones de esta Ley y sus Reglamentos, a los Planes y Programas de Desarrollo Urbano y a las declaratorias de usos, destinos y reservas correspondientes, para garantizar su adecuada integración al contexto urbano donde se realice.
@@ -1659,7 +1667,7 @@ II. Acciones de urbanización para la renovación: son las relativas a los eleme
 
 ###### ARTICULO 152.
 
-Las acciones de urbanización que se pretendan realizar en las áreas urbanas o de reserva territorial, sólo podrán autorizarse cuando esté prevista su incorporación o reincorporación municipal.
+Las acciones de urbanización que se pretendan realizar en las áreas urbanas o de reserva territorial, solo podrán autorizarse cuando esté prevista su incorporación o reincorporación municipal.
 
 ###### ARTICULO 153.
 
@@ -2388,3 +2396,15 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor a partir de los tres días siguientes de su publicación en el Periódico Oficial del Estado
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado ordenará que en la elaboración de los programas sectoriales a nivel estatal y regional, se contengan las acciones tendientes a la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos que requiera la población discapacitada para su ejecución en todo el Estado, en los términos que establecen las presentes reformas.
