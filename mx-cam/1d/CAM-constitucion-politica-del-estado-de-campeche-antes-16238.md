@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1943-04-15"
+last_updated: "1948-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 1943.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -651,7 +651,11 @@ Se concede acción popular para denunciar ante el Congreso las faltas o delitos 
 
 Los Municipios Libres que integran el Estado, se regirán por la Ley Orgánica de Administración Interior que oportunamente expedirá el Congreso del Estado y que tendrá como bases, las siguientes:
 
-I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 1948)</small>
+
+I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones con el derecho de votar y ser votadas.
 
 II. Cuando su extensión o densidad de población lo exija, los Municipios podrán subdividirse en Secciones Municipales y Comisarías. La Ley Orgánica establecerá las relaciones y dependencias que deberán existir entre unas y otras;
 
@@ -681,7 +685,9 @@ Prevenciones Generales.
 
 Para ser electo componente de un Ayuntamiento, Junta Municipal o Comisario Municipal, se requiere:
 
-I. Ser ciudadano campechano en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 1948)</small>
+
+I. Ser ciudadano campechano o mujer que, el día de la elección, tenga 18 años cumplidos, si es casada, o 21, si no lo es, en pleno goce de sus derechos.
 
 II. Tener un año de residencia en el Municipio, Sección o Comisaría donde deba ejercer su encargo;
 
@@ -699,7 +705,9 @@ III. Si el empleado del Municipio fuese el Tesorero Municipal o administrador de
 
 IV. Los que tuvieren mando de fuerza pública, si no dejaren el mando cuarenta y cinco días antes de la elección;
 
-V. El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 1948)</small>
+
+V. El padre o la madre, concurriendo ambos o con el hijo o hija, el hermano o hermana en concurrencia con el hermano o hermana, el socio con su socio y el patrón con su dependiente.
 
 ###### Art. 96.
 
@@ -1042,3 +1050,7 @@ UNICO. El presente Decreto entrará en vigor el mismo día de su publicación en
 P.O. 15 DE ABRIL DE 1943.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE AGOSTO DE 1948.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
