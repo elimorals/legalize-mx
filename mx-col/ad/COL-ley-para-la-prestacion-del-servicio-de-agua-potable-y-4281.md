@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prestacion-del-servicio-de-agua-potable-y-4281"
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-09"
-last_updated: "1980-08-09"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA LA PRESTACION DEL SERVICIO DE AGUA POTABLE Y DRENAJE PARA EL MUNICIPIO DE MANZANILLO, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 9 de agosto de 1980.
 
@@ -119,13 +119,19 @@ III.- El Administrador General.
 
 El Consejo Directivo se integrará de la siguiente forma:
 
-I.- Un Presidente, que será el Titular del Poder Ejecutivo del Estado de Colima, quien podrá, delegar sus facultades en un representante.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-II.- Un Vicepresidente, que será el C. Presidente Municipal de Manzanillo, Colima.
+I.- Un Presidente, que será el Presidente Municipal.
 
-III.- Un Secretario General, que será designado de una terna propuesta por el C. Presidente Municipal de Manzanillo.
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1983)
 
-IV.- Un Tesorero, que será designado por el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+III.- Un Secretario General, que será designado por el C. Presidente Municipal.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IV.- Un Tesorero que será designado por el Presidente Municipal.
 
 V.- Dos Vocales, uno el Director de Obras Públicas del Estado de Colima y el otro Director de Servicios Públicos Municipales de Manzanillo; quienes podrán delegar sus funciones.
 
@@ -197,9 +203,11 @@ III.- Las demás que le asigne el Consejo Directivo.
 
 El Consejo Consultivo celebrará sesiones ordinarias cada tres meses y tomará sus decisiones por mayoría de votos de los asistentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 13.
 
-El Administrador General de la Comisión será designado por él o la Titular del Poder Ejecutivo y tendrá los derechos y obligaciones siguientes:
+El Administrador General de la Comisión, será designado por el Presidente Municipal y tendrá los derechos y obligaciones siguientes:
 
 I.- Representar a la Comisión ante los particulares y ante los trabajadores que apruebe el Consejo Directivo. En ningún caso podrá ejercer actos de dominio, ni suscribir Títulos de Crédito.
 
@@ -290,3 +298,9 @@ Dado en el Recinto del Poder Legislativo a los seis días del mes de Agosto de m
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., 8 de agosto de 1980.- La Gobernadora Constitucional del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
