@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1987-08-05"
+last_updated: "1988-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1988.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -43,11 +43,11 @@ LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
 Las disposiciones de esta ley se aplicarán por el Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios, denominado "Dirección de Pensiones Civiles del Estado de Chihuahua", creado mediante Decreto 92 del H. Congreso del Estado, publicado en el Periódico Oficial número 7 de fecha 23 de enero de 1957, Organismo que en lo sucesivo se denominará "Pensiones Civiles del Estado de Chihuahua" y su organización y funcionamiento se regirán por este Ordenamiento.
 
+(REFORMADO, P.O. 6 DE ENERO DE 1988) (F. DE E., P.O. 10 DE AGOSTO DE 1988)
+
 ###### ARTICULO 2.
 
-La presente ley tiene por objeto regular el régimen de seguridad social de los trabajadores al servicio de: El Gobierno del Estado de Chihuahua; de la Sección XLII del Sindicato Nacional de Trabajadores de la Educación; del Sindicato de Burócratas al Servicio del Estado y de la Universidad Autónoma de Chihuahua.
-
-Para la incorporación o desincorporación al régimen de seguridad social establecido en la Ley, de trabajadores pertenecientes a las instituciones afiliadas, organismos descentralizados o sindicatos, deberán convenir previamente con la Junta Directiva de Pensiones Civiles del Estado.
+Esta Ley tiene por objeto regular el régimen de seguridad social de los trabajadores al servicio del Gobierno del Estado de Chihuahua, de la Sección XLII del Sindicato Nacional de Trabajadores de la Educación, del Sindicato de Trabajadores al Servicio del Gobierno del Estado y de la Universidad Autónoma de Chihuahua.
 
 ###### ARTICULO 3.
 
@@ -85,13 +85,17 @@ c).- Director.
 
 La Junta Directiva es el órgano máximo de la Institución y estará integrada por:
 
-I.- El Tesorero General del Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
+
+I.- El Director General de Finanzas, quien fungirá como Presidente;
 
 II.- El Director de Pensiones Civiles del Estado, que será designado por el Gobernador;
 
 III.- Un representante del Sindicato Nacional de los Trabajadores de la Educación, Sección XLII;
 
-IV.- Un representante del Sindicato de Burócratas al servicio del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
+
+IV.- Un representante del Sindicato de Trabajadores al Servicio del Gobierno del Estado;
 
 V.- Un representante de la Universidad Autónoma de Chihuahua.
 
@@ -131,9 +135,11 @@ X.- Convenir con las Instituciones afiliadas, organismos descentralizados o sind
 
 XI.- En general, decidir en última instancia todo lo relacionado con la prestación de los servicios de la Institución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 8.
 
-La Junta Directiva será auxiliada en las funciones de control y vigilancia de los servicios de Pensiones Civiles del Estado, por tres Comisarios que podrán designar y remover libremente; Uno, la Sección XLII del Sindicato Nacional de Trabajadores de la Educación; otro, el Sindicato de Burócratas al servicio del Estado y un tercero la Universidad Autónoma de Chihuahua. Los Comisarios deberán:
+La Junta Directiva será auxiliada en las funciones de control y vigilancia de los servicios de Pensiones Civiles del Estado, por tres Comisarios que podrán designar y remover libremente: uno, la Sección XLII del Sindicato Nacional de Trabajadores de la Educación; otro, el Sindicato de Trabajadores al Servicio del Gobierno del Estado y un tercero, la Universidad Autónoma de Chihuahua. Los Comisarios deberán:
 
 I.- Vigilar que el funcionamiento de la Institución se apegue a las normas legales que la rigen;
 
@@ -181,9 +187,13 @@ Pensiones Civiles del Estado proporcionará a los asegurados las prestaciones si
 
 I.- Préstamos a corto plazo;
 
-II.- Préstamos hipotecarios destinados a la construcción, adquisición, ampliación o reconstrucción de la vivienda familiar y liberación de gravámenes sobre la misma, cuando provenga de préstamo otorgado por particulares y garantizado con hipoteca;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
 
-III.- Intervención ante la banca privada como intermediario en la obtención de préstamos hipotecarios, para la construcción o adquisición de casas habitación de interés social;
+II.- Préstamos hipotecarios destinados a la construcción, adquisición, ampliación, mejoras y liberación de hipoteca de la casa habitación del asegurado;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
+
+III.- Intervención ante la banca nacionalizada como intermediaria en la obtención de préstamos hipotecarios, para la construcción o adquisición de casas de interés social;
 
 IV.- Préstamos a largo plazo para adquirir bienes de consumo duradero;
 
@@ -219,9 +229,15 @@ V.- Las donaciones, herencias y legados que reciba para ese fin;
 
 VI.- Cualquier percepción de carácter civil o mercantil en la que resulte beneficiario.
 
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1988)</small>
+
+VII.- Las reservas financieras constituídas o que se constituyan para garantizar el cumplimiento de las prestaciones socio-económicas.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 14.
 
-Los trabajadores al servicio del Estado y de las Instituciones afiliadas aportarán al Fondo el 5% calculado sobre el total de sus percepciones, aún las de carácter extraordinario. En igual porcentaje y sobre los mismos conceptos, el Estado e Instituciones afiliadas deberán efectuar sus aportaciones.
+Los trabajadores al Servicio del Gobierno del Estado, de la Universidad Autónoma de Chihuahua y de las Instituciones afiliadas, aportarán al fondo el 5% calculado sobre el total de sus percepciones, aún las de carácter extraordinario. En igual porcentaje y sobre los mismos conceptos, el Gobierno del Estado, la Universidad Autónoma de Chihuahua e Instituciones afiliadas deberán efectuar sus aportaciones.
 
 ###### ARTICULO 15.
 
@@ -279,9 +295,11 @@ Pensiones Civiles del Estado, con la cooperación y apoyo de los trabajadores, o
 
 #### SECCION PRIMERA. PRESTAMOS A CORTO PLAZO
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 25.
 
-Los trabajadores con antigüedad mínima de un año de servicios tendrán derecho a préstamo a corto plazo, cuyo importe les deberá ser entregado dentro de los siete días siguientes a la fecha en que la Institución haya recibido la solicitud acompañada de la documentación debidamente requisitada.
+Los préstamos a corto plazo se sujetarán al presupuesto anual aprobado por la Junta Directiva y se otorgarán a los trabajadores que hayan aportado al fondo por un año como mínimo. El importe de los mismos deberá ser entregado dentro de los siete días siguientes a la fecha en que la Institución haya recibido la solicitud.
 
 ###### ARTICULO 26.
 
@@ -293,43 +311,55 @@ Para determinar el préstamo a que se tiene derecho, servirá de base la percepc
 
 ###### ARTICULO 28.
 
-Los préstamos ordinarios a corto plazo se otorgarán hasta por las siguientes cantidades:
+(DEROGADO, P.O. 6 DE ENERO DE 1988)
 
-a).- La equivalente a quince días de sueldo a quienes hayan aportado entre uno y dos años;
-
-b).- La equivalente a treinta días de sueldo a quienes hayan aportado entre dos y tres años;
-
-c).- La equivalente a cuarenta y cinco días de sueldo a quienes hayan aportado entre tres y cinco años; y
-
-d).- La equivalente a noventa días de sueldo a quienes hayan aportado por más de cinco años.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 29.
 
-Los préstamos extraordinarios a corto plazo se otorgarán hasta por las siguientes cantidades:
+El monto de los préstamos a corto plazo lo constituirá el capital y los intereses y se otorgarán hasta por las siguientes cantidades:
 
-a).- La equivalente a treinta días de sueldo a quienes hayan aportado entre uno y dos años;
+I.- La equivalente a treinta días de sueldo a quienes hayan aportado entre uno y dos años;
 
-b).- La equivalente a sesenta días de sueldo a quienes hayan aportado entre dos y tres años;
+II.- La equivalente a sesenta días de sueldo a quienes hayan aportado entre dos y tres años;
 
-c).- La equivalente a noventa días de sueldo a quienes hayan aportado entre tres y cinco años; y
+III.- La equivalente a noventa días de sueldo a quienes hayan aportado entre tres y cinco años; y
 
-d).- La equivalente a ciento cincuenta días de sueldo a quienes hayan aportado por más de cinco años.
+IV.- La equivalente a ciento cincuenta días de sueldo a quienes hayan aportado más de cinco años.
 
 ###### ARTICULO 30.
 
 Los plazos máximos para cubrir los préstamos se determinarán en razón del lapso durante el cuál los trabajadores hayan aportado a la Institución, en los términos siguientes:
 
-a).- Ordinarios: 18 quincenas con menos de cinco años y 30 quincenas con más de cinco años;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
 
-b).- Extraordinarios: 24 quincenas con menos de cinco años y 36 quincenas con más de cinco años.
+I.- Hasta 24 quincenas a quienes hayan aportado por menos de cinco años; y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1988)</small>
+
+II.- Hasta 36 quincenas, a quienes hayan aportado por más de cinco años.
+
+(REFORMADO, P.O. 6 DE ENERO DE 1988) (F. DE E., P.O. 10 DE AGOSTO DE 1988)
 
 ###### ARTICULO 31.
 
-Los préstamos a corto plazo causarán un interés anual del 15% para los ordinarios y del 18% para los extraordinarios.
+Los intereses de los préstamos a corto plazo se determinarán conforme al costo porcentual promedio, del mes inmediato anterior, fijado por el Banco de México de acuerdo con las siguientes bases.
+
+A quienes solicitan:
+
+I.- De cero hasta cinco veces el salario mínimo general mensual, se aplicará el 38% del costo porcentual promedio;
+
+II.- De más de cinco hasta diez veces el salario mínimo general mensual, se aplicará el 43% del costo porcentual promedio;
+
+III.- De más de diez hasta quince veces el salario mínimo general mensual, se aplicará el 49% del costo porcentual promedio; y
+
+IV.- Más de quince veces el salario mínimo general mensual, se aplicará el 54% del costo porcentual promedio.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 32.
 
-Los préstamos se amortizarán mediante descuentos quincenales, siempre por cantidades iguales, que cubran simultáneamente suerte principal e intereses.
+Los préstamos se amortizarán mediante descuentos quincenales que cubran simultáneamente suerte principal e intereses.
 
 ###### ARTICULO 33.
 
@@ -349,9 +379,11 @@ Los adeudos vencidos de cualquier tipo del asegurado para con Pensiones, prescri
 
 #### SECCION SEGUNDA. PRESTAMOS HIPOTECARIOS
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 37.
 
-Los préstamos hipotecarios se destinarán para construir, adquirir, ampliar o reconstruir la casa habitación de los asegurados. Al ser cubierta esta demanda, se podrá utilizar el remanente del presupuesto en la liberación de hipotecas, en los términos de la fracción II del artículo 11 de esta ley.
+Los préstamos hipotecarios se sujetarán al presupuesto anual aprobado por la Junta Directiva y se destinarán para la construcción, adquisición, ampliación o liberación de hipoteca de la casa habitación del asegurado.
 
 ###### ARTICULO 38.
 
@@ -359,11 +391,11 @@ Los asegurados tendrán derecho a créditos destinados a los fines a que se refi
 
 Los funcionarios y empleados de confianza deberán tener una antigüedad en el servicio de cuando menos tres años para tener derecho a la obtención de prestamos hipotecarios.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 39.
 
-El límite máximo para créditos hipotecarios, aún siendo mancomunados, es de $520,000.00 y su otorgamiento se sujetará al presupuesto anual que fije la Junta Directiva, la cual podrá incrementar este monto dentro del límite establecido por el Fondo de Operación y Descuento Bancario a la vivienda de interés social en el momento de la solicitud.
-
-Los créditos para reconstrucción, ampliación o mejoramiento de la vivienda, se limitarán al 50% de la suma anterior.
+El límite máximo para créditos hipotecarios, aún siendo mancomunados, será hasta diez millones de pesos y su otorgamiento se ajustará al presupuesto anual que fije la Junta Directiva, la cual podrá incrementar ese monto dentro del límite establecido por el Fondo de Operación y Descuento Bancario a la Vivienda de Interés Social en el momento de la solicitud.
 
 ###### ARTICULO 40.
 
@@ -375,15 +407,11 @@ El préstamo hipotecario se otorgará hasta por el 85% del valor comercial de la
 
 Si el beneficiario considera que dicho avalúo es inexacto, tendrá derecho a nombrar a otro perito por su cuenta, y en caso de discrepancia se nombrará de común acuerdo un tercero, cuyo dictamen será definitivo y obligatorio para ambas partes y éstas cubrirán sus honorarios.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 42.
 
-Los préstamos hipotecarios causarán un interés del 10% anual sobre saldos insolutos y ajustados a los siguientes factores de amortización quincenal:
-
-5 años .02124704
-
-10 años .0132151
-
-15 años .01074607
+Los préstamos hipotecarios causarán un interés del 35% del costo porcentual promedio fijado por el Banco de México, el mes inmediato anterior a la fecha de su otorgamiento.
 
 ###### ARTICULO 43.
 
@@ -405,11 +433,19 @@ Pensiones Civiles del Estado promoverá adicionalmente la construcción de Unida
 
 #### SECCION TERCERA. PRESTAMOS PARA ADQUIRIR BIENES DE CONSUMO DURADERO
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 47.
 
-La Institución otorgará préstamos para la adquisición de bienes de consumo duradero a un plazo hasta de 60 quincenas y con un interés del 15% anual sobre saldos insolutos.
+Los préstamos para la adquisición de bienes de consumo duradero, se sujetarán al presupuesto anual aprobado por la Junta Directiva y se otorgarán a los trabajadores que hayan aportado al fondo por un año como mínimo.
 
-En la concesión de estos préstamos se aplicarán, en lo conducente, las disposiciones de los préstamos a corto plazo.
+El monto máximo para los préstamos a que se refiere el párrafo anterior será hasta de 25 veces el salario mínimo general mensual.
+
+El plazo para la amortización de estos créditos podrá ser hasta de 80 quincenas.
+
+El interés será del 35% del costo porcentual promedio fijado por el Banco de México el mes inmediato anterior a la fecha del otorgamiento y será calculado sobre saldos insolutos.
+
+Los préstamos a que se refiere esta sección deberán consignarse en un pagaré suscrito por el asegurado y quedarán garantizados mediante prenda que se constituirá sobre el bien que adquiera el asegurado, quien será depositario judicial del mismo mientras no sea cubierta la totalidad del adeudo.
 
 #### SECCION CUARTA. JUBILACIONES Y PENSIONES POR ANTIGÜEDAD E INVALIDEZ
 
@@ -642,3 +678,13 @@ TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente 
 P.O. 5 DE AGOSTO DE 1987.
 
 TRANSITORIO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 1988.
+
+###### ARTICULO PRIMERO
+
+- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+- Los préstamos hipotecarios y para la adquisición de bienes de consumo duradero otorgados antes de la vigencia de este Decreto, se regirán conforme a lo convenido con los interesados, por las tasas de interés establecidas por el mismo; tomando para ello como base el saldo insoluto del crédito calculado a la fecha de iniciación de vigencia.
