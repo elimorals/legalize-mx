@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2001-06-12"
+last_updated: "2002-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1305,11 +1305,11 @@ III.- Tener, al día de su nombramiento, título profesional de licenciado en de
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
 
 ###### ARTÍCULO 104.
 
-En cada Municipio del Estado habrá cuando menos un Juez Menor. La ley determinará el número que deba haber en cada municipalidad, así como sus facultades y obligaciones.
+En el Estado habrá Juzgados Menores. El Supremo Tribunal de Justicia determinará su número y podrá aumentarlos o reducirlos conforme a las necesidades del servicio. Sus facultades, obligaciones y competencia por materia y cuantía serán establecidas por la ley, y la territorial corresponderá fijarla al Pleno del Tribunal.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2150,3 +2150,27 @@ UNICO. El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 12 DE JUNIO DE 2001.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2002.
+
+PRIMERO. El artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El artículo Segundo del presente Decreto, entrará en vigor a los cinco días naturales siguientes a la publicación del mismo en el Periódico Oficial del Estado.
+
+TERCERO. El Pleno del Supremo Tribunal de Justicia del Estado, con posterioridad a la entrada en vigor del artículo Segundo de este Decreto, deberá emitir los acuerdos y determinaciones necesarios para su cumplimiento.
+
+CUARTO. En tanto se reforman las leyes respectivas, los Jueces Menores aplicarán en materia de conciliación a que se refiere el artículo 66 Bis de este Decreto, las siguientes reglas:
+
+El procedimiento se regirá por los principios de oralidad, conciliación, inmediatez, sencillez y pronta resolución. Se iniciará con la comparecencia que se realice la parte interesada o bien, con la llegada de las actuaciones que remitan los Jueces Auxiliares.
+
+En ambos casos, el Juez Menor señalará fecha y hora para la celebración de la audiencia de conciliación a la que, previa citación, deberán comparecer las partes en conflicto, quienes verbalmente expondrán lo que a sus intereses convenga, levantándose un acta en la que se asentarán los pormenores del caso.
+
+El Juez Menor citará a la audiencia al Juez Auxiliar de la comunidad que corresponda a su jurisdicción, para que intervenga como intérprete y emita su opinión sobre el problema planteado; recibirá las pruebas que ofrezcan, procurando avenir a las partes con la finalidad de que concilien sus intereses contrapuestos.
+
+Si las partes llegan a un acuerdo el Juez pronunciará la resolución de manera clara y sencilla, la que tendrá la categoría de cosa juzgada.
+
+En caso de que las partes no acepten conciliar sus intereses, el Juez iniciará el procedimiento correspondiente cuando se trate de asuntos en materia civil y familiar.
+
+Las resoluciones de los Jueces Menores en asuntos de justicia indígena no admiten recurso alguno.
+
+QUINTO. Las relaciones laborales que en su caso se vean afectadas como consecuencia de este Decreto, se resolverán en los términos de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios, vigente.
