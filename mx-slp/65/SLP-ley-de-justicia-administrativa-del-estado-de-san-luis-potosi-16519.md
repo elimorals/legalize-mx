@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "1997-04-30"
+last_updated: "2001-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -51,9 +51,11 @@ Esta ley es de orden público e interés social y tiene por objeto regular la im
 
 La justicia administrativa en el Estado de San Luis Potosí se impartirá por un Tribunal de lo Contencioso Administrativo, con jurisdicción en todo el territorio estatal y con la competencia y organización que establece esta Ley. El tribunal residirá en la Capital del Estado y podrá contar con salas regionales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-El Tribunal de lo Contencioso Administrativo dirimirá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades de la administración pública del Estado, los municipios y los organismos públicos descentralizados, estatales o municipales y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que se dicten en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+El Tribunal de lo Contencioso Administrativo dirimirá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado y de los municipios, así como de los organismos públicos descentralizados, estatales y municipales, cuando dichos organismos actúen como autoridades, y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 4o.
 
@@ -63,21 +65,49 @@ El Tribunal de lo Contencioso Administrativo es un órgano de control de legalid
 
 ### CAPITULO I. De la Integración del Tribunal
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-El Tribunal de lo Contencioso Administrativo se integrará por el Pleno, por la Presidencia y por Salas. Por cada uno de los magistrados propietarios habrá un magistrado supernumerario que supla, en el orden de su nombramiento, las ausencias de los numerarios. En ningún caso serán menos de tres los propietarios ni los supernumerarios. El Presidente del Tribunal lo será de la Primera Sala con sede en la Capital del Estado.
+El Tribunal de lo Contencioso Administrativo se integrará con cuando menos tres magistrados propietarios y tres supernumerarios, y funcionará en Pleno y en salas. Por cada Magistrado propietario habrá un Magistrado supernumerario que supla, en el orden de su nombramiento, las ausencias de los numerarios.
+
+El Presidente del Tribunal lo será también de la Primera Sala con sede en la Capital del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 6o.
 
-El número de salas del tribunal se creará de acuerdo a las necesidades de trabajo, cuando lo considere necesario el Tribunal en Pleno, previa autorización del Ejecutivo del Estado publicada en el Periódico Oficial del Estado, en la que deberá precisarse la competencia territorial de la Sala de nueva creación.
+El número de salas del Tribunal será el que se requiera de acuerdo a las necesidades del servicio, por lo que cuando el Tribunal en Pleno lo estime pertinente, y previa autorización expresa del Titular del Ejecutivo, podrá crear una nueva Sala, la que tendrá la competencia territorial que el propio Tribunal determine, debiendo publicarse su creación y competencia territorial en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 7o.
 
-El tribunal tendrá para el despacho de sus asuntos un Secretario General de Acuerdos, un Coordinador Administrativo, los Secretarios de Acuerdo de Sala, los Secretarios de Estudio y Cuenta que requiera cada Magistrado para la resolución pronta y expedita de los juicios, los actuarios, defensores sociales y oficiales de partes, así como el personal técnico y administrativo necesario, que se encuentre previsto en el presupuesto de egresos del tribunal.
+El Tribunal contará para el despacho de sus asuntos con el siguiente personal:
+
+Un Secretario General de Acuerdos;
+
+Un Coordinador Administrativo;
+
+Secretarios de Acuerdos de Sala;
+
+Secretarios de Estudio y Cuenta en el número que requiera cada Magistrado para la resolución pronta y expedita de los juicios;
+
+Actuarios;
+
+Oficiales de partes, y
+
+El demás personal técnico y administrativo necesario, que se encuentre previsto en el presupuesto de egresos del Tribunal.
 
 ###### ARTICULO 8o.
 
 Los magistrados, funcionarios y personal del Tribunal de lo Contencioso Administrativo percibirán iguales emolumentos y prestaciones que los del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+###### ARTICULO 8o.
+
+BIS.- El Tribunal deberá rendir a través de su Presidente, durante la primera quincena del mes de enero de cada año, un informe en el que hará del conocimiento público las actividades realizadas por el mismo durante el año anterior, debiendo entregarlo por escrito al Titular del Ejecutivo y al Congreso del Estado para su conocimiento.
 
 ### CAPITULO II. De los Magistrados
 
@@ -103,9 +133,11 @@ Las faltas temporales o definitivas de los magistrados propietarios o las excusa
 
 El Presidente del Tribunal durará en su encargo un año. La elección la hará el Tribunal en Pleno en la primera sesión del año correspondiente. Las faltas temporales del Presidente del Tribunal serán cubiertas por el magistrado propietario que él designe, debiéndose llamar en tal caso al magistrado suplente que corresponda para que integre el tribunal. Cuando la falta sea definitiva, el Tribunal en Pleno elegirá nuevo Presidente.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 14.
 
-Las licencias de los magistrados, podrán ser otorgadas por el Tribunal en Pleno.
+Las licencias de los magistrados podrán ser otorgadas por el Tribunal en Pleno en los términos de esta Ley y su Reglamento Interior.
 
 ###### ARTICULO 15.
 
@@ -117,11 +149,17 @@ Durante el ejercicio de su encargo, los magistrados y funcionarios del tribunal 
 
 ### CAPITULO III. De las Salas del Tribunal
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 17.
 
-El Tribunal de lo Contencioso Administrativo funcionará por medio de salas, integradas por tres magistrados cada una. Para que pueda efectuar sesiones una sala, será indispensable la presencia de sus tres magistrados y para las resoluciones, bastará la mayoría de votos. Cada sala designará un Presidente.
+Las Salas del Tribunal de lo Contencioso Administrativo estarán integradas por tres Magistrados cada una.
 
-El trámite de los asuntos corresponderá por turno a un magistrado, en los términos que establezca el Reglamento Interior y las resoluciones se dictarán por la sala.
+Para que pueda efectuar sesiones una Sala, será indispensable la presencia de sus tres Magistrados, y para las resoluciones, bastará la mayoría de votos.
+
+Cada Sala designará un Presidente, con excepción de la Primera, en cuyo caso se estará a lo dispuesto por el artículo 24 fracción I de esta Ley.
+
+El trámite de los asuntos corresponderá por turno a un Magistrado, en los términos que establezca el Reglamento Interior y las resoluciones se dictarán por la Sala.
 
 ###### ARTICULO 18.
 
@@ -137,23 +175,25 @@ IV. Imponer las correcciones disciplinarias, así como hacer uso de los medios d
 
 V. Las demás atribuciones de carácter administrativo que establezca el Reglamento Interior del Tribunal.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 19.
 
-Las salas del tribunal son competentes para conocer de los juicios que se promuevan en contra de:
+Las Salas del Tribunal son competentes para conocer de los juicios que se promuevan en contra de:
 
-I. Los actos y resoluciones emanados de las autoridades del Poder Ejecutivo Estatal, de los municipios y de los organismos descentralizados cuando éstos actúen como autoridades, que dicten, ordenen, ejecuten o traten de ejecutar y que causen agravio a los particulares;
+I. Los actos y resoluciones que las autoridades del Poder Ejecutivo Estatal y de los municipios, así como los organismos descentralizados, cuando éstos actúen como autoridades, dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares;
 
-II. Las resoluciones dictadas por las autoridades fiscales, estatales, municipales y de sus órganos descentralizados, en que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de cantidades que procedan conforme a la ley, o cualquiera otra que cause un agravio de carácter fiscal;
+II. Las resoluciones dictadas por las autoridades del Poder Ejecutivo Estatal, de los municipios y sus organismos descentralizados en que se determine una obligación fiscal, así como cualquier otra que cause un agravio de carácter fiscal;
 
-III. Las resoluciones definitivas en materia de responsabilidad administrativa;
+III. Las resoluciones definitivas que en materia de responsabilidad administrativa dicten las autoridades del Poder Ejecutivo del Estado o de los municipios y de sus correspondientes organismos descentralizados;
 
 IV. Las resoluciones que se dicten sobre interpretación y cumplimiento de contratos celebrados con la administración pública;
 
-V. Los actos fiscales que impliquen una resolución negativa ficta, configurándose ésta cuando las instancias o peticiones que se formulen ante las autoridades no sean resueltas en los plazos que la ley o reglamento fijen o a falta de dicho plazo en noventa días naturales;
+V. La negativa ficta, configurándose ésta cuando las instancias o peticiones que se formulen ante las autoridades, no sean resueltas en los plazos que la ley o reglamento fijen;
 
-VI. Las resoluciones administrativas y fiscales favorables a los particulares que promuevan las autoridades para que sean modificadas o nulificadas;
+VI. Las resoluciones administrativas y fiscales favorables a los particulares que impugnen las autoridades, por considerar que lesionan a la administración pública o al interés público;
 
-VII. Las resoluciones que se dicten negando a los particulares la indemnización a que se contrae el artículo 76 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+VII. Las resoluciones que dicten las autoridades del poder Ejecutivo del Estado o de sus municipios y organismos descentralizados, estatales o municipales, negando a los particulares la indemnización a que se contrae el artículo 76 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
 VIII. El procedimiento administrativo de ejecución, cuando el afectado en dicho procedimiento opte por no interponer el recurso ordinario ante las autoridades competentes y cuando afirme:
 
@@ -161,17 +201,27 @@ a). Que el crédito que se le exige se ha extinguido legalmente;
 
 b). Que el monto del crédito es inferior al exigible;
 
-c). Que es poseedor, a título de propietario de los bienes embargados; y
+c). Que es poseedor a título de propietario de bienes embargados para garantizar una obligación fiscal a la que es ajeno, o
 
-d). Que el procedimiento coactivo no se ajuste a la Ley. En este caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
+d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
 
-IX. De las resoluciones del Procurador General de Justicia del Estado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público;
+IX. De las resoluciones del Procurador General de Justicia del Estado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, y
 
-X. De las resoluciones del Ministerio Público en las que determine el desistimiento de la acción penal;
+X. De los recursos e incidentes previstos por esta Ley.
 
-XI. De los recursos previstos por esta ley; y
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-XII. De los asuntos cuya resolución esté reservada al Tribunal de lo Contencioso Administrativo conforme a lo dispuesto por otras leyes.
+ARTICULO 19 BIS.- Son atribuciones de los Presidentes de cada Sala, las siguientes:
+
+I. Llevar la correspondencia oficial de la Sala;
+
+II. Turnar los asuntos de la competencia de la Sala al Magistrado instructor para su trámite y, en su oportunidad, su estudio y presentación del proyecto de resolución;
+
+III. Presidir las sesiones de la Sala y dirigir los debates;
+
+IV. Rendir los informes previos y justificados en los juicios de amparo interpuestos en contra de la Sala, y
+
+V. Las demás que les confiera la ley.
 
 ### CAPITULO IV. Del Pleno del Tribunal
 
@@ -211,7 +261,9 @@ VII. Hacer uso de los medios de apremio;
 
 VIII. Designar las comisiones de magistrados que sean necesarias para la administración interna y representación del tribunal;
 
-IX. Calificar las excusas e impedimentos de los magistrados propietarios y convocar al Supernumerario que deba sustituirlos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+IX. Calificar las excusas e impedimentos de los Magistrados, en asuntos de la competencia del Pleno, y convocar al supernumerario que deba sustituirlos;
 
 X. Dictar las medidas administrativas que exijan el buen funcionamiento y la disciplina del tribunal e imponer sanciones a los secretarios y demás personal;
 
@@ -247,7 +299,9 @@ VII. Formular anualmente el anteproyecto del presupuesto de egresos del tribunal
 
 VIII. Rendir al Pleno, en la última sesión de cada año, un informe de las actividades realizadas en ese período;
 
-IX. Dentro de los primeros diez días del mes de enero de cada año, enviar al Ejecutivo del Estado y al Congreso del Estado el informe anual de labores del tribunal; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+IX. Rendir dentro de los primeros quince días del mes de enero de cada año, el informe público a que se refiere el artículo 8° bis de la presente Ley y entregarlo al Titular del Ejecutivo y al Congreso del Estado, y
 
 X. Las demás que le confiera la ley.
 
@@ -259,7 +313,9 @@ Corresponde al Secretario General de Acuerdos:
 
 I. Acordar con el Presidente lo relativo a las sesiones del Tribunal en Pleno y auxiliarlo en el cumplimiento de sus atribuciones;
 
-II. Citar a los magistrados para la celebración de las sesiones del Tribunal en Pleno y estar presente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+II. Citar a los Magistrados para la celebración de las sesiones extraordinarias del Tribunal en Pleno y estar presente en las mismas;
 
 III. Dar cuenta de los asuntos en las sesiones del Tribunal en Pleno, tomar las votaciones de los magistrados, formular el acta respectiva, autorizarla con su firma y comunicar a quien corresponda las decisiones que se acuerden;
 
@@ -283,7 +339,9 @@ XII. Practicar las diligencias que deban llevarse a cabo fuera del local del Tri
 
 XIII. Recibir las demandas, formar el expediente respectivo y realizar el registro correspondiente;
 
-XIV. Dar cuenta diariamente al Presidente del Tribunal, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones y escritos que se reciban y turnarlos para su trámite al Magistrado Instructor que corresponda por turno;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+XIV. Dar cuenta diariamente al Presidente del Tribunal, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones y escritos que se reciban y turnarlos para su trámite;
 
 XV. Actuar como jefe de apoyo administrativo, para el mejor funcionamiento del tribunal, en caso de que no se designe; y
 
@@ -297,15 +355,23 @@ I. Dar cuenta diariamente con los asuntos que se turnen a la sala al Presidente 
 
 II. Redactar y autorizar las actas de las audiencias en las que les corresponda dar cuenta;
 
-III. Proyectar los acuerdos de trámite;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+III. Proyectar los acuerdos de trámite, dar cuenta con ellos, dar fe y autorizarlos con su firma;
 
 IV. Expedir certificaciones de las constancias que obren en los expedientes de la sala a la que estén adscritos;
 
-V. Engrosar los fallos de las salas a la que estén adscritos, autorizándolos con su firma en unión de los magistrados;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-VI. Llevar los libros de gobierno de registro de documentos y de personas que puedan ser peritos ante el tribunal;
+V. Engrosar y autorizar los fallos de las salas a la que estén adscritos;
 
-VII. Efectuar las diligencias que les encomiende el magistrado o la sala, cuando éstas deban practicarse fuera del local del tribunal; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+VI. Llevar los libros de la Sala;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+VII. Efectuar las diligencias que resulten en la tramitación de los asuntos, y las que les encomienden sus superiores jerárquicos, cuando éstas deban practicarse fuera del local de la Sala, y
 
 VIII. Las demás que señalen las disposiciones legales aplicables.
 
@@ -363,7 +429,9 @@ Los menores o incapacitados comparecerán a juicio por conducto de sus represent
 
 Cuando el Gobernador del Estado figure como autoridad demandada y el asunto sea de naturaleza fiscal, su representación corresponderá al Secretario de Planeación y Finanzas y, en todos los demás casos, el titular del Ejecutivo será representado por el Secretario General de Gobierno o por quien legalmente tenga atribuciones para ello.
 
-La representación de las demás autoridades, corresponderá a los titulares de las mismas, por sí o a través de las unidades administrativas encargadas de su defensa jurídica, conforme lo establezcan las disposiciones legales aplicables. Podrán también acreditar representantes que concurran a las audiencias con facultades para rendir pruebas y alegar.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+La representación de las demás autoridades corresponderá a los titulares de las mismas, por sí o a través de las unidades administrativas encargadas de su defensa jurídica, conforme lo establezcan las disposiciones legales aplicables. Podrán también, por medio de simple oficio, acreditar delegados que concurran a las audiencias con facultades para rendir pruebas y alegar.
 
 ###### ARTICULO 35.
 
@@ -381,9 +449,13 @@ En los juicios que se tramiten ante las salas del Tribunal de lo Contencioso Adm
 
 Cuando las leyes y reglamentos que rijan al acto impugnado establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o promover desde luego el juicio ante el tribunal; si ya se encuentra en trámite dicho recurso o medio de defensa, previo desistimiento del mismo podrá acudir al tribunal; ejercitada la acción ante éste último quedará extinguido su derecho para ocurrir a otro medio ordinario de defensa.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 39.
 
-Las diligencias que deban practicarse en el Municipio de la Capital del Estado y en el de Soledad de Graciano Sánchez, S.L.P., se encomendarán a los Secretarios o al Actuario del Tribunal.
+Las diligencias que deban practicarse en el Municipio de la Capital del Estado y en el de Soledad de Graciano Sánchez, San Luis Potosí, se encomendarán a los secretarios o a los actuarios del Tribunal.
+
+Las diligencias que deban practicarse fuera de la circunscripción territorial señalada en el párrafo que antecede, se efectuarán por el Secretario o Actuario de la Sala Regional correspondiente, o en su defecto por el Secretario o Actuario del Juzgado de Primera Instancia o Menor de la cabecera municipal que corresponda, los que actuarán en auxilio de las labores del Tribunal de lo Contencioso Administrativo y de acuerdo a lo previsto en el reglamento interior de este Tribunal.
 
 ###### ARTICULO 40.
 
@@ -399,15 +471,23 @@ IV. El auxilio de la fuerza pública.
 
 Tales medidas de apremio podrán ser aplicadas a criterio del tribunal, atendiendo a la gravedad del desacato que haya motivado su aplicación.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 41.
 
-El tribunal está facultado para desechar de plano las promociones notoriamente improcedentes, o que se interpongan con el fin evidente de dilatar el procedimiento, pudiendo en éste último caso aplicar las sanciones previstas en el artículo que antecede.
+El Pleno, las salas y el Magistrado Instructor, están facultados para desechar de plano las promociones notoriamente improcedentes, o que se interpongan con el fin evidente de dilatar el procedimiento, pudiendo en este último caso aplicar cualquiera de las medidas a que se refieren las dos primeras fracciones del artículo que antecede.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 42.
 
-Las actuaciones del tribunal, los escritos de las partes y los dictámenes de los peritos, deberán ser redactados en español; los documentos redactados en otro idioma, deberán acompañarse de su correspondiente traducción por perito oficial.
+Las actuaciones del Tribunal, los escritos de las partes y los dictámenes de los peritos, deberán ser redactados en español; los documentos redactados en otro idioma, lengua o dialecto, deberán acompañarse de su correspondiente traducción por perito debidamente registrado.
 
 No se emplearán abreviaturas, ni se rasparán las partes equivocadas, debiendo, en su caso, poner sobre las mismas una línea delgada que permita la lectura y se añadirán entre líneas las que se cambien, salvándose al final con toda precisión el error cometido.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+El Magistrado Instructor podrá ordenar que se subsane toda omisión que notare en la substanciación del juicio, para el solo efecto de regularizar el procedimiento.
 
 ### CAPITULO II. De los Impedimentos y Excusas
 
@@ -435,6 +515,10 @@ Los magistrados tienen el deber de excusarse del conocimiento de los negocios en
 
 La excusa se presentará ante la sala que conozca del asunto para que la califique su Presidente de inmediato y, de ser procedente, convoque al magistrado suplente para que integre la Sala, lo que deberá hacerse del conocimiento de las partes.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+En caso de que sea el Presidente de la Sala quien se excuse, la calificación respectiva correrá a cargo del Magistrado que corresponda conforme al turno que para tal efecto se lleve. Cuando se califique de legal la excusa, el Magistrado que conoció de la misma será quien presida la sesión por lo que hace al asunto que la motivó. Lo anterior se hará del conocimiento de las partes.
+
 ###### ARTICULO 45.
 
 El Magistrado que teniendo impedimento para conocer de determinado asunto no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad.
@@ -449,7 +533,9 @@ I. Del propio tribunal;
 
 II. Que no afecten los intereses jurídicos o legítimos del actor;
 
-III. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante la autoridad que lo emitió o ante el propio tribunal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+III. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante la autoridad que lo emitió o ante el propio Tribunal, cuando exista identidad de las partes, aunque sean distintas las violaciones alegadas;
 
 IV. Que hayan sido materia de otro juicio contencioso administrativo, en el que exista identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean distintas;
 
@@ -463,9 +549,11 @@ VIII. Contra disposiciones de carácter general, que no hayan sido aplicadas con
 
 IX. Contra actos cuyos efectos legales o materiales hayan cesado o que no puedan surtirse efectos por haber dejado de existir el objeto o materia del mismo;
 
-X. Contra actos de autoridades que no formen parte de la administración pública del Estado o de los municipios;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-XI. Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado o cuando no se probare su existencia; y
+X. Contra actos y resoluciones distintos de los mencionados en el artículo 19 de esta Ley;
+
+XI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2001)
 
 XII. En los demás casos en que la improcedencia resulte de alguna disposición de esta ley o de cualquiera otra de naturaleza fiscal o administrativa.
 
@@ -481,9 +569,15 @@ II. Cuando durante la tramitación del procedimiento sobreviniere alguna de las 
 
 III. En el caso de que el actor muera durante el juicio, si su pretensión es intransmisible;
 
-IV. Cuando la autoridad demandada deje sin efectos el acto impugnado; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-V. En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo.
+IV. Cuando la autoridad demandada haya satisfecho la petición del actor, o revocado el acto que se impugna;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+V. Cuando de las constancias de autos apareciere claramente que no existe el acto impugnado, y
+
+VI. En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo.
 
 El sobreseimiento puede ser total o parcial, y no prejuzga sobre la responsabilidad en que hubiese incurrido la autoridad demandada al ordenar o ejecutar el acto combatido.
 
@@ -499,7 +593,9 @@ II. El demandado, teniendo este carácter:
 
 a) tanto la autoridad ordenadora como la ejecutora de los actos impugnados y, en su caso, aquéllas que las sustituyan, así como los organismos públicos descentralizados de la administración pública estatal o municipal;
 
-b) el particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+b) el particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa, conforme al artículo 19 fracción VI de esta Ley;
 
 III. La Secretaría de Planeación y Finanzas de Gobierno del Estado o las tesorerías municipales en los juicios en que se controvierta el interés fiscal del Estado o de los ayuntamientos; y
 
@@ -509,11 +605,19 @@ IV. El tercero, pudiendo intervenir con ese carácter cualquier persona, física
 
 Sólo podrán demandar o intervenir en el juicio, las personas que tengan un interés jurídico o legítimo que funde su pretensión.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Tienen interés jurídico los titulares de un derecho subjetivo, e interés legítimo quienes invoquen situaciones de hecho protegidas por el orden jurídico, tanto de un sujeto determinado como de los integrantes de un grupo de individuos diferenciados del conjunto general de la sociedad.
+
 ### CAPITULO V. De los Términos
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 50.
 
-El término para interponer la demanda ante el Tribunal de lo Contencioso Administrativo será de treinta días hábiles, contados a partir del día siguiente al en que surta efectos, conforme a la ley del acto, la notificación de la resolución o acto que se combata; al en que haya tenido conocimiento de ellos, o al en que se hubiese ostentado sabedor de los mismos.
+El término para presentar la demanda ante el Tribunal de lo Contencioso Administrativo será de treinta días hábiles, contados a partir del día siguiente al en que surta efectos, conforme a la ley del acto, la notificación de la resolución o acto que se combata; al en que el afectado haya tenido conocimiento de ellos, o al en que se hubiese ostentado sabedor de los mismos, cuando no exista notificación legalmente hecha.
+
+Cuando sean las autoridades las que impugnen una resolución administrativa o fiscal favorable a los particulares, por considerar que lesiona a la administración pública o al interés público, el término para presentar la demanda será de un año, contado a partir de la fecha de la resolución impugnada.
 
 ###### ARTICULO 51.
 
@@ -541,11 +645,13 @@ Para los efectos del artículo anterior, cuando alguna de las partes resida fuer
 
 Las resoluciones o acuerdos deben ser notificados dentro del día siguiente a aquél en que se hubiesen turnado al actuario y se asentará la razón que corresponda inmediatamente después de los mismos.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 56.
 
-Las partes en el procedimiento o sus representantes legales, podrán autorizar a licenciados en derecho, con cédula profesional debidamente registrada ante el tribunal, para que en su nombre y representación reciban notificaciones; presenten promociones de trámite, ofrezcan o rindan pruebas, formulen preguntas o repreguntas a los testigos o peritos, aleguen en la audiencia, tramiten incidentes, presenten alegatos e interpongan recursos.
+Con excepción de las autoridades demandadas, las partes en el procedimiento o sus representantes legales, podrán autorizar a licenciados en derecho, con cédula profesional debidamente registrada ante el Tribunal, para que en su nombre y representación reciban notificaciones, presenten promociones de trámite, ofrezcan o rindan pruebas, formulen preguntas o repreguntas a los testigos o peritos, aleguen en la audiencia, tramiten incidentes, presenten alegatos e interpongan recursos.
 
-Las partes deberán señalar domicilio para oír notificaciones, en el primer escrito que presenten y, en caso de que variare el mismo, deberán comunicar el cambio, para que en él se hagan las notificaciones indicadas en esta ley.
+Las partes, en el primer escrito que presenten ante el Tribunal deberán señalar domicilio para recibir notificaciones en el lugar del juicio, si no lo hicieren, las notificaciones aun las de carácter personal se les harán por lista o por cédula que se fije en los estrados del Tribunal. De igual manera, en caso de cambio de domicilio deberán de manifestarlo para que se les hagan en el nuevo domicilio, y si no lo comunicaran las notificaciones se practicarán en los estrados del Tribunal.
 
 ###### ARTICULO 57.
 
@@ -559,9 +665,13 @@ En la lista a que se refiere el párrafo anterior, se expresará el número del 
 
 III. Personalmente o por correo certificado con acuse de recibo, tratándose de los siguientes casos:
 
-a) La admisión o desechamiento de la demanda y, en su caso, la ampliación de la misma;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-b) La admisión de la contestación y, en su caso, de la ampliación;
+a) La admisión de la demanda o de su ampliación, así como el desechamiento de una o de otra;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+b) La admisión de la contestación de la demanda y, en su caso, la de la contestación de la ampliación de la misma;
 
 c) La resolución que otorgue o niegue la suspensión del acto impugnado;
 
@@ -605,11 +715,13 @@ Las notificaciones surtirán sus efectos el día hábil siguiente al de la notif
 
 ### CAPITULO VII. De la Demanda
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 62.
 
-La demanda se presentará por escrito ante el Tribunal de lo Contencioso Administrativo del Estado de San Luis Potosí, dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación del acto o resolución impugnados, o al día en que el afectado haya tenido conocimiento de él o de su ejecución, al día en que se haya ostentado sabedor del mismo, cuando no exista notificación legalmente hecha.
+La demanda se presentará por escrito ante el Tribunal Contencioso Administrativo, dentro del término señalado en esta Ley.
 
-Los particulares que residan fuera de la Capital del Estado o del Municipio de Soledad de Graciano Sánchez, podrán también presentar su demanda por medio de la Presidencia Municipal del lugar de su residencia, y dicha autoridad deberá remitirla a la sala correspondiente bajo su absoluta responsabilidad, dentro de los tres días hábiles siguientes a su recepción. También podrán enviarla en el término inicialmente señalado, por correo certificado con acuse de recibo.
+Los particulares que residan fuera de la Capital del Estado o del Municipio de Soledad de Graciano Sánchez, o del en que exista otra Sala del Tribunal de lo Contencioso Administrativo, podrán presentar su demanda por correo certificado con acuse de recibo, o en su caso por conducto de la Presidencia Municipal, o del Juez de primera instancia o menor de la Cabecera municipal de su residencia, los que actuarán en auxilio de las labores del Tribunal como meros receptores, y deberán, bajo su absoluta responsabilidad, remitirla a la Sala regional que corresponda dentro de los tres días hábiles siguientes a los de su recepción.
 
 ###### ARTICULO 63.
 
@@ -617,7 +729,9 @@ El escrito de demanda deberá contener:
 
 I. El nombre y domicilio de la parte actora;
 
-II. La autoridad o autoridades demandadas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+II. La autoridad o autoridades demandadas o, en su caso, el nombre y domicilio del particular o los particulares demandados;
 
 III. El nombre y domicilio del tercero, si lo hubiere;
 
@@ -653,11 +767,15 @@ V. Las demás pruebas documentales que se ofrezcan.
 
 Cuando no se satisfaga alguno de los requisitos de la demanda, cuando ésta fuese obscura o imprecisa, o cuando no se anexen los documentos a que se refieren los artículos anteriores, la sala deberá requerir al actor para que en el plazo de tres días hábiles subsane las omisiones y formule las aclaraciones correspondientes; apercibiéndolo que de no hacerlo se desechará la demanda.
 
-Tratándose de pruebas, la omisión a subsanar la irregularidad respectiva o a anexar los documentos omitidos, se sancionará con el desechamiento de la prueba correspondiente.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Tratándose de pruebas, el hecho de que no se subsane la irregularidad respectiva o no se anexen los documentos omitidos, traerá como consecuencia la no admisión de la prueba correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 66.
 
-El actor tendrá derecho a ampliar la demanda dentro de quince días hábiles contados a partir del siguiente a aquél en que surta efectos la notificación del acuerdo recaído a la contestación, cuando se impugne una resolución negativa ficta. También podrá ampliar la demanda cuando en la contestación se sostenga que el juicio es improcedente por consentimiento tácito y el actor considere que la notificación del acto impugnado se practicó ilegalmente. En este último caso, si al dictarse sentencia se decide que la notificación fue correcta, se sobreseerá el juicio y en caso contrario se decidirá sobre el fondo del negocio.
+El actor tendrá derecho a ampliar la demanda dentro de diez días hábiles contados a partir del siguiente a aquél en que surta efectos la notificación del acuerdo recaído a la contestación, cuando se impugne una resolución negativa ficta. También podrá ampliar la demanda, dentro de igual término, cuando en la contestación se sostenga que el juicio es improcedente por consentimiento tácito, y el actor considere que la notificación del acto impugnado se practicó ilegalmente. En este último caso, si al dictarse sentencia se decide que la notificación fue correcta, se sobreseerá el juicio y en caso contrario se decidirá sobre el fondo del negocio.
 
 ###### ARTICULO 67.
 
@@ -675,15 +793,19 @@ Contra el auto que deseche una demanda, procederá el recurso de reclamación en
 
 ### CAPITULO VIII. De la Contestación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 69.
 
-Admitida la demanda, se correrá traslado al demandado con copia de la misma, para que dentro del término de quince días hábiles conteste lo que a su derecho corresponda y ofrezca las pruebas que estime convenientes, expresando los hechos con los que éstas se encuentren relacionadas.
+Admitida la demanda, se correrá traslado al demandado con copia de la misma, para que dentro del plazo de diez días hábiles conteste lo que a su derecho corresponda y ofrezca las pruebas que estime convenientes, expresando los hechos con los que éstas se encuentren relacionadas.
 
 Si la parte demandada no produce su contestación dentro del término legal, el tribunal, de oficio, declarará la preclusión del derecho correspondiente, teniendo por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
 Si al producir en tiempo la contestación de la demanda, la parte demandada no se refiere a todos y cada uno de los hechos de la misma, los omitidos se considerarán presuntivamente ciertos, salvo prueba en contrario.
 
-El plazo para contestar la ampliación de la demanda será de quince días hábiles, contados a partir del siguiente a aquél en que surta efectos la notificación del acuerdo que la admita.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+El plazo para contestar la ampliación de la demanda será de diez días hábiles, contados a partir del siguiente a aquél en que surta efectos la notificación del acuerdo que la admita.
 
 Cuando los demandados fueren varios, el término para contestar la demanda les correrá individualmente.
 
@@ -713,9 +835,13 @@ En la contestación de la demanda no podrá variarse la fundamentación y motiva
 
 En la contestación de la demanda o antes de que se dicte sentencia, la autoridad demandada podrá allanarse a las pretensiones del actor o revocar el acto impugnado, debiendo acreditarlo ante la sala.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 73.
 
-Vencido el plazo para la contestación y ampliación de la demanda, en su caso, se hayan o no producido éstas, el Magistrado Instructor dictará al siguiente día hábil, un auto en el que se fijen el día y hora en que tendrá lugar la audiencia de ley, la cual deberá celebrarse dentro de los veinte días hábiles siguientes a la fecha del auto.
+En el mismo auto en el que se admita la contestación de la demanda o, en su caso, en el que se tenga por precluido el derecho correspondiente en términos del artículo 69 de este ordenamiento legal, se fijará el día y hora en que tendrá lugar la audiencia de ley, la cual deberá celebrarse dentro de los veinte días hábiles siguientes a la fecha del auto.
+
+Cuando se advierta que se está en uno de los supuestos del artículo 66 de la presente Ley, no se fijará día y hora para dicha audiencia, sino hasta en el auto en el que se tenga por contestada la ampliación de la demanda o, en su caso, cuando se declare precluido el derecho de la parte demandada para producir su contestación, o el del actor para presentar tal ampliación.
 
 ### CAPITULO IX. De las Pruebas
 
@@ -723,7 +849,13 @@ Vencido el plazo para la contestación y ampliación de la demanda, en su caso, 
 
 En los juicios ante el Tribunal de lo Contencioso Administrativo serán admisibles toda clase de pruebas, con excepción de la confesional mediante absolución de posiciones o aquéllas que sean contrarias a la moral o al derecho.
 
-El tribunal al proveer sobre la admisión de la demanda o la contestación, resolverá también sobre la admisión de las pruebas ofrecidas por las partes.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+El Tribunal al proveer sobre la admisión de la contestación, ya sea de la demanda o de la ampliación de ésta, según corresponda, resolverá también sobre la admisión de las pruebas ofrecidas por las partes.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Cuando se esté en el caso del párrafo segundo del artículo 69 de esta Ley, el Tribunal resolverá lo conducente a las pruebas al declarar precluido el derecho de la demandada para producir su contestación.
 
 ###### ARTICULO 75.
 
@@ -761,7 +893,9 @@ La prueba pericial tendrá lugar cuando se controviertan cuestiones relativas a 
 
 Al ofrecerse la prueba pericial, las partes deberán nombrar el Perito que les corresponda y presentar, debidamente firmados, los cuestionarios sobre los cuales los peritos deberán rendir y ratificar su dictamen en la audiencia respectiva.
 
-Admitida la prueba, se correrá traslado a las partes restantes con copia del cuestionario respectivo, a fin de que, en el término de diez días hábiles, adicionen el cuestionario y nombren el perito que les corresponda, si así conviniere a sus intereses.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Admitida la prueba, se correrá traslado a las partes restantes con copia del cuestionario respectivo, a fin de que, en el plazo de cinco días hábiles, adicionen el cuestionario y nombren el perito que les corresponda, si así conviniere a sus intereses.
 
 La parte oferente deberá presentar al perito dentro del término de tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, a manifestar la aceptación y protesta de desempeñar el cargo con arreglo a la ley.
 
@@ -773,17 +907,21 @@ II. Tener interés directo o indirecto en el litigio; y
 
 III. Tener amistad estrecha o enemistad manifiesta, o relaciones de índole económico con cualquiera de las partes.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 83.
 
-Los honorarios de cada perito serán pagados por la parte que lo nombró, y los del tercero por ambas partes.
+Los honorarios de cada perito serán pagados por la parte que los nombró, y los del perito tercero por ambas partes.
 
 ###### ARTICULO 84.
 
 A fin de que los peritos estén en aptitud de rendir sus dictámenes, las partes y los terceros ajenos estarán obligados a proporcionar los elementos necesarios para ello.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 85.
 
-El Magistrado Instructor designará los peritos que corresponda nombrar a cada parte, si no se presentare el perito o no aceptará el cargo. En caso de discordia, el perito tercero será designado por el Magistrado Instructor.
+En caso de discordia, el perito tercero será designado por el Magistrado Instructor.
 
 ###### ARTICULO 86.
 
@@ -817,17 +955,21 @@ La audiencia deberá celebrarse el día y hora señalados para tal efecto, será
 
 I. Se dará cuenta con la demanda, la contestación, la ampliación y contestación en su caso, así como con cualquier incidencia que surja;
 
-II. Se procederá a desahogar las pruebas que las partes hayan ofrecido dentro del juicio, hecho lo cual, se recibirán los alegatos del actor, la demandada y el tercero, en ese orden, los cuales deberán ser formulados por escrito, ordenándose se agreguen a los autos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+II. Se procederá a desahogar las pruebas que se les hayan admitido a las partes dentro del juicio; hecho lo cual, se recibirán los alegatos del actor, la demandada y el tercero, en ese orden, los cuales deberán ser formulados por escrito, ordenándose se agreguen a los autos;
 
 III. Concluido el período de alegatos, se dará por terminada la audiencia, citándose a las partes para oír sentencia; y
 
-IV. El tribunal deberá emitir la resolución que corresponda en un término que no exceda de treinta días hábiles, contados a partir de la fecha de la celebración de la audiencia.
+> <small>(REFORMADO [N. DE E. ANTES FRACCION IV], P.O. 1 DE OCTUBRE DE 2001)</small>
+
+El Tribunal deberá emitir la resolución que corresponda en un plazo que no exceda de quince días hábiles, contados a partir de la fecha de la celebración de la audiencia.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 92.
 
-La audiencia se celebrará aun sin la asistencia de las partes.
-
-Sin embargo, podrá ser diferida a solicitud de éstas o cuando exista motivo fundado, a juicio del tribunal.
+La audiencia se celebrará aun sin asistencia de las partes. Sin embargo, podrá ser diferida de oficio o a solicitud de aquéllas cuando exista motivo fundado, a juicio del Tribunal.
 
 ### CAPITULO XI. De la Sentencia
 
@@ -837,7 +979,9 @@ Las sentencias se pronunciarán por unanimidad o por mayoría de votos de los ma
 
 La sala, al pronunciar sentencia suplirá las deficiencias de la queja planteada en la demanda, siempre y cuando de los hechos narrados se deduzca el agravio, pero en todos los casos se contraerá a los puntos de la litis.
 
-Para dictar resolución en los casos de sobreseimiento, por las causas previstas en el artículo 47 fracciones I, III y IV de esta ley, no será necesario que se hubiese celebrado la audiencia final del juicio.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+En los casos de sobreseimiento por las causas previstas en el artículo 47 fracciones I, III y IV de esta Ley, no será necesario que se hubiere celebrado la audiencia final del juicio, y lo decretará el Magistrado Instructor.
 
 ###### ARTICULO 94.
 
@@ -865,6 +1009,10 @@ V. Cuando la resolución administrativa dictada en ejercicio de facultades discr
 
 El tribunal podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada y la ausencia total de fundamentación o motivación en dicha resolución.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Para declarar o no la nulidad o anulabilidad de un acto administrativo, el Tribunal deberá estarse además, a lo previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+
 ###### ARTICULO 96.
 
 Las sentencias definitivas deberán reconocer total o parcialmente la legalidad y validez de la resolución o acto impugnado; declarar total o parcialmente la nulidad de los mismos y de las consecuencias que de éstos se deriven, o decretar la nulidad del acto o resolución modificándolos para determinado efecto, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplir, salvo cuando se trate de facultades discrecionales.
@@ -873,7 +1021,13 @@ Las sentencias definitivas deberán reconocer total o parcialmente la legalidad 
 
 De ser favorable la sentencia al actor, ésta dejará sin efecto el acto impugnado y las autoridades responsables quedarán obligadas a otorgar o restituir al actor en el goce de los derechos que le hubieren sido indebidamente afectados o desconocidos, en los términos que se establezca.
 
-Cuando se decrete la nulidad de una resolución fiscal favorable a un particular, quedará ésta sin efecto, quedando expeditos los derechos de las autoridades.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Cuando se decrete la nulidad de una resolución fiscal o administrativa favorable a un particular quedará ésta sin efecto, quedando expeditos los derechos de las autoridades.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Cuando se trate de una sentencia favorable a la autoridad en los juicios promovidos por ésta en términos de la fracción VI del artículo 19 de esta Ley, el Tribunal comunicará inmediatamente la misma a la actora para los efectos que resulten conforme a lo determinado en la propia sentencia y en las disposiciones legales aplicables.
 
 ###### ARTICULO 98.
 
@@ -883,61 +1037,75 @@ El tribunal resolverá dentro de los tres días siguientes lo que estime procede
 
 ### CAPITULO XII. De la Ejecución de las Sentencias
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 99.
 
-Las sentencias respecto de las cuales no se pida aclaración, o solicitada ésta haya sido resuelta, causarán ejecutoria.
+Las sentencias definitivas dictadas por el Tribunal causan ejecutoria por ministerio de ley, al no admitir recurso alguno.
 
-Cuando haya causado ejecutoria una sentencia favorable al actor, se comunicará por medio de oficio y sin demora alguna a las autoridades u organismos demandados para su cumplimiento, y se les prevendrá para que informen sobre el mismo, dentro de los diez días siguientes al en que reciban el oficio de notificación.
+El Tribunal comunicará por medio de oficio y sin demora alguna a las autoridades u organismos demandados la sentencia favorable al actor para su cumplimiento, y les prevendrá para que informen sobre el mismo, dentro de los diez días siguientes al en que reciban el oficio de notificación.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 100.
 
-Si dentro del plazo señalado en el artículo anterior, las autoridades no cumpliesen con la sentencia, la sala correspondiente, de oficio, las requerirá para que dentro del término de veinticuatro horas, contadas a partir de la hora en que queden legalmente notificadas, cumplimenten el fallo o informen sobre ello.
+Si dentro del plazo señalado en el artículo anterior las demandadas no cumplieren con la sentencia, cuando la naturaleza del acto lo permita, o no se encontrase en vías de ejecución en la hipótesis contraria, el Tribunal las requerirá, de oficio o a petición de parte, para que la cumplan dentro del plazo de cinco días siguientes a aquél en que se les hubiese notificado dicho requerimiento, apercibiéndolas que en caso de incumplimiento, se les impondrá una multa de cincuenta a ciento cincuenta días de salario mínimo general vigente en el Estado.
+
+Transcurrido el plazo de cinco días sin que se hubiere cumplido la ejecutoria, el Tribunal hará efectivo el apercibimiento hecho al respecto, y requerirá, de oficio o a instancia de parte, al superior inmediato de las demandadas para que las obligue a cumplir dentro del plazo de cinco días siguientes al en que lo haga de su conocimiento; y si las demandadas no tuviesen superior, el requerimiento se hará directamente a ellas. Asimismo, el Tribunal apercibirá a las demandadas que en caso de insistir en no cumplir, se les destituirá del cargo.
+
+Si una vez agotado el trámite anterior, persistiere el incumplimiento, el Tribunal decretará, si procediere, la destitución del servidor público renuente. Esta determinación, en su caso, se hará del conocimiento del titular de la entidad u órgano que corresponda, para que la destitución tenga efectos de inmediato.
+
+Si el servidor público que deba ser separado conforme al párrafo anterior, goza de fuero constitucional, se procederá conforme a la ley de la materia.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 101.
 
-Si a pesar del requerimiento, la autoridad o el organismo demandado se niega a cumplir con la sentencia del tribunal, se procederá en la forma siguiente:
+Si la ejecución consiste en la realización de un acto material que no tenga necesariamente que ser ejecutado por la autoridad demandada, el Tribunal podrá realizarlo en rebeldía de aquélla, salvo que se trate de actos discrecionales de la autoridad.
 
-I. Si la ejecución consiste en un acto material que sólo puede ejecutar la demandada y ésta tuviese superior jerárquico, se requerirá a éste para que ordene el cumplimiento de la resolución;
-
-II. Si la demandada insiste en no cumplir, la sala que corresponda lo hará del conocimiento del Ejecutivo del Estado o del Ayuntamiento, según el caso, y si la ejecución consiste en un acto material que no tenga necesariamente que ser ejecutado por la autoridad demandada, la propia sala podrá realizarlo en rebeldía de aquélla; y
-
-III.- La sala podrá imponer multa de cincuenta y uno a ciento cincuenta días de salario mínimo general vigente en el Estado, a los servidores públicos que incumplan una sentencia; sin perjuicio de que se reitere cuantas veces sea necesario la multa impuesta.
+En los casos en que sólo las demandadas puedan dar cumplimiento a la sentencia, el actor podrá solicitar que se dé por cumplida mediante el pago de los daños y perjuicios que haya sufrido. El Tribunal, oyendo a las partes, resolverá lo conducente. En caso de que proceda, determinará la forma y cuantía de la restitución.
 
 ### CAPITULO XIII. De la Suspensión
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 102.
 
-El actor podrá solicitar la suspensión del acto impugnado, en la demanda o en cualquier momento del juicio, hasta antes de citación para sentencia y tal medida cautelar tendrá por efecto mantener las cosas en el estado en que se encuentren, hasta en tanto se pronuncia la sentencia definitiva; el tribunal deberá resolver lo conducente, haciéndolo saber inmediatamente a la autoridad demandada para su cumplimiento.
+El actor podrá solicitar la suspensión del acto impugnado, en la demanda o en cualquier momento del juicio, hasta antes de citación para sentencia, y tal medida cautelar, salvo lo dispuesto por el artículo 106 de la presente Ley, tendrá por efecto mantener las cosas en el estado en que se encuentren hasta en tanto se pronuncia la sentencia definitiva; el Tribunal deberá resolver lo conducente, haciéndolo saber inmediatamente a la autoridad demandada para su cumplimiento.
 
 No se otorgará la suspensión si se sigue perjuicio evidente al interés social, se contravienen disposiciones de orden público o si se deja sin materia el juicio.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 103.
 
-El tribunal podrá modificar o revocar en cualquier momento el acuerdo en que haya concedido la suspensión, si varían las circunstancias bajo las cuales se otorgó.
+El Tribunal podrá modificar o revocar en cualquier momento el acuerdo en que haya concedido o negado la suspensión, si varían las circunstancias bajo las cuales se otorgó o negó, según sea el caso.
 
 ###### ARTICULO 104.
 
 Si los actos impugnados se hubiesen ejecutado y afectan a particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad personal de subsistencia, entre tanto se pronuncie la resolución que corresponda, el Magistrado Instructor podrá dictar discrecionalmente las medidas cautelares que estime pertinentes para preservar el medio de subsistencia del actor, siempre y cuando no se lesionen derechos de terceros.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 105.
 
 Cuando se trate de créditos fiscales, el Magistrado Instructor al conceder la suspensión podrá discrecionalmente eximir al solicitante de la obligación de garantizar su importe.
 
-En aquellos casos en que fuere necesario garantizar los intereses del fisco, la suspensión del acto impugnado se concederá previo aseguramiento de los mismos, ante la autoridad ejecutora, en cualquiera de las formas que establece esta ley. La garantía del interés fiscal, que deberá comprender la de los posibles recargos, actualización y gastos de ejecución, podrá ofrecerse en alguna de las siguientes formas:
+En los casos en que fuere necesario garantizar los intereses del fisco, la suspensión del acto impugnado que se conceda surtirá efectos previo aseguramiento de aquellos ante la autoridad ejecutora. La garantía del interés fiscal, que deberá comprender la de los posibles recargos, actualización y gastos de ejecución, podrá ofrecerse en alguna de las siguientes formas:
 
-I. Depósito en efectivo ante la Secretaría de Planeación y Finanzas de Gobierno del Estado, las tesorerías municipales o la institución de crédito que legalmente corresponda;
+I. Depósito en efectivo ante la Secretaría de Finanzas de Gobierno del Estado, las tesorerías municipales o la institución de crédito que legalmente corresponda;
 
 II. Fianza otorgada por institución autorizada;
 
-III. Prenda o hipoteca; y
+III. Prenda o hipoteca, y
 
 IV. Embargo de bienes en la vía administrativa.
 
-El acuerdo que conceda la suspensión surtirá efectos desde luego, aunque se interponga el recurso de queja, pero dejará de surtirlos si la garantía que en su caso se haya fijado, no se otorga dentro de los cinco días siguientes en el que se notifique el auto que la hubiere concedido.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 106.
 
-La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad administrativa; o bien, cuando a juicio del Presidente sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al particular.
+La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad administrativa; o bien, cuando a juicio del Magistrado Instructor sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al particular.
 
 La suspensión a que se refiere este artículo procede también de oficio y se decretará de plano en el mismo auto en que se admita la demanda, comunicándose sin demora a la autoridad responsable para su inmediato cumplimiento.
 
@@ -979,17 +1147,19 @@ La promoción de cualquier incidente notoriamente improcedente, se desechará de
 
 Procede la acumulación de dos o más juicios pendientes de resolver cuando:
 
-I. Las partes sean las mismas y se invoquen idénticos agravios;
+I. (DEROGADA, P.O. 1 DE OCTUBRE DE 2001)
 
 II. Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugnen varias partes del mismo acto;
 
 III. Sean las partes y los agravios diversos o no, se impugnen actos que sean unos antecedentes o consecuencia de los otros; y
 
-IV. Se trate de juicios promovidos por el mismo actor, respecto del mismo acto reclamado, aunque los agravios sean distintos.
+IV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2001)
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 113.
 
-El incidente a que se refiere el artículo anterior deberá hacerse valer hasta antes de la celebración de la audiencia final. Promovido el mismo, el Magistrado Instructor decretará la interrupción del procedimiento en los juicios cuya acumulación se pida y citará a una audiencia a celebrarse en un plazo que no exceda de diez días hábiles, en la que oirá los alegatos que produjeren las partes, hecho lo cual formulará el proyecto de resolución que someterá a la aprobación de la Sala respectiva y dictará la resolución que corresponda. La acumulación podrá tramitarse de oficio o a petición de parte.
+El incidente a que se refiere el artículo anterior deberá hacerse valer hasta antes de la celebración de la audiencia final. Promovido el mismo, el Magistrado Instructor decretará la interrupción del procedimiento en los juicios cuya acumulación se pida y citará a una audiencia a celebrarse en un plazo que no exceda de diez días hábiles, en la que oirá los alegatos que produjeren las partes, hecho lo cual se dictará la resolución que corresponda. La acumulación podrá tramitarse de oficio o a petición de parte.
 
 ###### ARTICULO 114.
 
@@ -1007,13 +1177,15 @@ Si se declara la nulidad, la sala ordenará reponer el procedimiento desde la no
 
 La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública, se tramitará ante la sala y procederá cuando antes de la celebración de la audiencia final, se dé cualquiera de dichos supuestos.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 117.
 
-La interrupción durará hasta por un año, para que se apersone en el juicio el representante legal de la parte que hubiese fallecido o se provea a la substitución del correspondiente representante procesal y se sujetará a lo siguiente:
+La interrupción durará hasta por un año, para que se apersone en el juicio el albacea de la sucesión o el tutor del incapaz, o bien el representante legal del ausente o de la liquidación, según sea el caso, o se provea a la substitución del correspondiente representante procesal, y se sujetará a lo siguiente:
 
-I. Se decretará por la sala a partir de la fecha en que ésta tenga conocimiento de la existencia de alguno de los supuestos a que se refiere este artículo; y
+I. Se decretará por la Sala a partir de la fecha en que ésta tenga conocimiento de la existencia de alguno de los supuestos a que se refiere el artículo inmediatamente anterior, y
 
-II. Si transcurrido el plazo máximo de interrupción no comparece el albacea, el representante legal o el tutor, el Magistrado Instructor acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión o de la liquidación o de la autoridad demandada, según sea el caso.
+II. Si transcurrido el plazo máximo de interrupción nadie comparece en representación de la parte que dio lugar a la interrupción del procedimiento, el Magistrado Instructor acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de dicha parte, cuando se trate de un particular.
 
 ### CAPITULO XV. De los Recursos
 
@@ -1027,9 +1199,17 @@ El recurso de queja es procedente:
 
 I. Contra los actos de las autoridades demandadas, por exceso o defecto en la ejecución del auto en que se haya concedido a la parte actora la suspensión del acto reclamado; y
 
-II. Contra los actos de las mismas autoridades, por repetición del acto o resolución anulada, o por exceso o defecto en la ejecución de la sentencia dictada por las salas.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-En el escrito se expresarán las razones por las que se considere que existe repetición del acto o resolución anulada, o que existe exceso o defecto en la ejecución de la sentencia dictada por la sala.
+II. Contra los actos de las mismas autoridades, por exceso o defecto en la ejecución de la sentencia dictada por las Salas, y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+III. Contra los actos de las mencionadas autoridades, por repetición del acto o resolución anulada.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+En el escrito se expresarán las razones por las que se considere que existe repetición del acto o resolución anulada, o que existe exceso o defecto en la ejecución de la sentencia o del auto en que se concedió la suspensión del acto reclamado.
 
 ###### ARTICULO 120.
 
@@ -1043,11 +1223,21 @@ Una vez admitido el recurso, la sala pedirá a la autoridad su informe, el que d
 
 En caso de declararse procedente la queja, la resolución fijará los lineamientos a que deba someterse la autoridad para dar debido cumplimiento a la misma.
 
-En caso de que haya repetición del acto o resolución anulados, la sala hará la declaratoria correspondiente dejando sin efecto dicho acto y la notificará al funcionario responsable, ordenándole que se abstenga de incurrir en nuevas repeticiones.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
-La resolución a que se refiere el párrafo que antecede, se notificará también al superior del funcionario responsable, para que proceda jerárquicamente, y la sala impondrá a éste último una multa de veinte salarios mínimos generales vigentes en el Estado.
+En caso de que haya repetición del acto o resolución anulados, la Sala hará la declaratoria correspondiente dejando sin efecto dicho acto, y la notificará al funcionario responsable, a quien apercibirá que en caso de incurrir nuevamente en repetición del acto de que se trate, será destituido del cargo.
 
-Si la sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efectos el acto o resolución que provocó la queja y concederá al funcionario responsable veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la sentencia, conforme a los cuales deberá cumplir.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+La resolución a que se refiere el párrafo que antecede, se notificará también al superior del funcionario responsable, para que proceda jerárquicamente, y la Sala impondrá a este último una multa de cien días de salario mínimo general vigente en el Estado; y en el caso de que dicho funcionario incurra en la misma falta, se procederá conforme a lo previsto en los párrafos tercero y cuarto del artículo 100 de esta Ley, según corresponda.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efecto el acto o resolución que provocó la queja y concederá al funcionario responsable veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos conforme a los cuales deberá cumplir.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
+Si dentro del plazo señalado en el párrafo anterior las autoridades no cumpliesen con la sentencia o auto de cuya ejecución se trata, conforme a los lineamientos fijados al resolverse la queja, el Tribunal procederá conforme a sus atribuciones en términos de los artículos 100, 101 y 109 de esta Ley, según sea el caso.
 
 ###### ARTICULO 123.
 
@@ -1093,17 +1283,23 @@ Las dependencias de los Poderes Ejecutivo, Legislativo y Judicial, así como de 
 
 ### CAPITULO XVIII. De la Jurisprudencia
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 129.
 
-La jurisprudencia establecida en las sentencias que dicte el tribunal será obligatoria para el mismo, siempre que lo resuelto se sustente en cinco ejecutorias no interrumpidas por otra en contrario, y que hayan sido aprobadas por el voto de la mayoría de los magistrados en el mismo sentido.
+El Pleno del Tribunal fijará la jurisprudencia resolviendo las contradicciones existentes entre las Salas, sin que la determinación respectiva afecte las situaciones jurídicas concretas, derivadas de los juicios en los cuales se hubieren dictado las sentencias que sustentaron las tesis contradictorias.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 130.
 
-Para la modificación de la jurisprudencia a que se refiere el artículo anterior, se observarán las mismas reglas establecidas para su formación.
+La jurisprudencia será obligatoria para las Salas, y sólo el Pleno del Tribunal podrá modificarla o dejarla sin efecto, pero en tal caso deberá expresar las razones en que se apoye, las cuales se referirán a las que se tuvieron en cuenta para establecer la jurisprudencia relativa.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 131.
 
-La jurisprudencia que establezca el tribunal, así como los criterios que constituyan precedentes y se considere de importancia su difusión, serán publicados en el Periódico Oficial del Estado.
+La jurisprudencia que se establezca conforme a la presente Ley, deberá publicarse en la Gaceta Oficial del Tribunal de lo Contencioso Administrativo del Estado.
 
 ## TRANSITORIOS
 
@@ -1138,3 +1334,13 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. JESUS EDUARDO NOYOLA BERNAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE OCTUBRE DE 2001.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los procedimientos contenciosos administrativos que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO. Se derogan las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, de la Ley de Adquisiciones del Estado de San Luis Potosí y de la Ley de Obra Pública del Estado de San Luis Potosí, y de los demás ordenamientos que se opongan al presente Decreto.
