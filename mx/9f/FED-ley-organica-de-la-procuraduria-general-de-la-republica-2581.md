@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-2581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-05-10"
-last_updated: "1996-05-10"
+last_updated: "1996-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-05-07"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 10 de mayo de 1996.
 
@@ -809,7 +809,9 @@ TERCERO.- En tanto se expide el nuevo Reglamento de la Ley Orgánica de la Procu
 
 CUARTO.- Las leyes que regulen materias aplicables a las dependencias de la administración pública federal, que en sus disposiciones no enuncien expresamente a la Procuraduría General de la República pero que resulten vigentes a ésta en su carácter de dependencia del Ejecutivo Federal hasta antes de la entrada en vigor del Decreto de reformas y adiciones a la Ley Orgánica de la Administración Pública Federal de fecha 20 de diciembre de 1994, publicado en el Diario Oficial de la Federación de fecha 28 de diciembre de 1994, serán aplicables a la Procuraduría General de la República, considerándose para tales efectos como dependencia de la administración pública centralizada.
 
-QUINTO.- En tanto se expidan las disposiciones legales a que se refiere el artículo 14 de esta Ley, en el Reglamento de la misma se preverá la existencia de un Consejo Técnico para la supervisión y control de la administración de bienes asegurados por el Ministerio Público de la Federación, y, de la aplicación y destino de los fondos que provengan de dichos bienes, presidido por el Procurador General de la República y del que formarán parte, de manera personal e indelegable, un Subsecretario por cada una de las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, designados por sus titulares.
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+QUINTO.- En tanto se expidan las disposiciones legales a que se refiere el artículo 14 de esta ley, en el reglamento de la misma, se preverá la existencia de un Consejo Técnico para la supervisión y control de la administración de bienes asegurados por el Ministerio Público de la Federación y de la aplicación y destino de los fondos que provengan de dichos bienes, presidido por el Procurador General de la República y del que formarán parte, de manera personal e indelegable, un Subsecretario por cada una de las Secretarías de Gobernación, de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, designados por sus titulares.
 
 SEXTO.- Los Agentes del Ministerio Público, de la Policía Judicial Federal y Peritos que presten sus servicios en la Procuraduría General de la República al momento de entrar en vigor las disposiciones reglamentarias en materia del Servicio Civil de Carrera previsto en esta Ley, deberán dar cumplimiento a los requisitos y condiciones que las mismas establezcan para incorporarse a dicho servicio.
 
@@ -818,3 +820,11 @@ En ningún caso podrán aplicarse en forma retroactiva normas que afecten su sit
 México, D.F., a 16 de abril de 1996.- Dip. María Claudia Esqueda Llanes, Presidente.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Florencio Catalán Valdez, Secretario.- Sen. Humberto Mayans Canabal, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de mayo de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE NOVIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
