@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "1992-12-13"
+last_updated: "1995-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -619,25 +619,21 @@ Igualmente deben designar la casa en la que ha de hacerse la primera notificaci�
 
 Entre tanto que un litigante no hiciere nueva designación de la casa donde deban practicarse las diligencias y se le hagan las notificaciones, seguirán haciéndosele en el que para ello hubiese designado y las diligencias en que debiere tener intervención, se practicarán en el local del juzgado, fijándose una copia del acta relativa en los estrados, el mismo día en que se hayan practicado.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 107.
 
 Será notificado personalmente en el domicilio de los litigantes:
 
 I.- El emplazamiento del demandado y siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
 
-II.- El auto que ordena la absolución de posiciones o reconocimiento de libros y documentos;
+II.- El auto que ordena la absolución de posiciones o de un acto que la parte deba cumplir;
 
-III.- La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquie (sic) motivo;
+III.- Cuando se reciban los autos en juzgado o tribunal distinto a aquel que conoce o conocía del asunto;
 
-IV.- El requerimiento de un acto a la parte que deba cumplirlo;
+IV.- La sentencia definitiva que resuelva el fondo del negocio, tanto la que se dicte en primera como en segunda instancia;
 
-V.- Cuando se haga saber el envío de los autos a otro tribunal;
-
-VI.- La sentencia definitiva que resuelva el fondo del negocio;
-
-VII.- Cuando el juez lo estime pertinente y así lo ordene; y
-
-VIII.- En los demás casos que la ley lo disponga.
+V.- En los demás casos que la Ley lo disponga.
 
 ###### ARTICULO 108.
 
@@ -647,13 +643,15 @@ Cuando variare el personal de un tribunal, no se proveerá decreto haciendo sabe
 
 La primera notificación se hará personalmente al interesado o a su representante o procurador en la casa designada; y no encontrándolo el notificador, se dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que se asentará del acto.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 110.
 
-Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija dentro de las veinticuatro horas siguientes; y si no espera se le hará la notificación por cédula.
+Si se tratare de la notificación de la demanda también se hará la notificación por cédula.
 
-La cédula, en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o a cualquier otra persona que viva en la casa después que el notificador se haya cerciorado de que allí vive la persona que debe ser citada; de todo lo cual se asentará razón en las diligencias.
+La cédula, en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o cualquier otra persona que viva en la casa después que el notificador se haya cerciorado de que allí vive la persona que debe ser citada, de todo lo cual se asentará razón en las diligencias.
 
-La cédula contendrá además una relación sucinta de la demanda, cuando no sea forzoso entregar ls (sic) copias del traslado.
+La cédula contendrá además una relación suscinta (sic) de la demanda, cuando no sea forzoso entregar las copias del traslado.
 
 ###### ARTICULO 111.
 
@@ -681,11 +679,15 @@ II.- Cuando se trate de personas cuyo domicilio se ignora;
 
 III.- En todos los demás casos previstos por la ley.
 
-En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y otro periódico de circulación estatal, haciéndose saber al citado que deberá presentarse dentro de un término que no bajará de quince ni excederá de treinta días, si se trata de citaciones.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y otro periódico de circulación estatal, haciéndose saber al citado que deberá presentarse dentro de un término que no será menor de quince días ni excederá de treinta, si se trata de citaciones.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 115.
 
-La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores si concurren al tribunal o juzgado respectivo, hasta antes de las doce horas del tercer día, contando desde el mismo en que se dicten las resoluciones que hayan de notificarse.
+La segunda y ulteriores notificaciones se harán a los interesados mediante la publicación del auto de resolución de que se trate en la lista de acuerdos a que se refiere el Artículo 119, misma lista en la que deberá expresarse además de los datos que señala dicho artículo, en el sentido del acuerdo principal en forma suscinta (sic) o extractada.
 
 ###### ARTICULO 116.
 
@@ -695,9 +697,15 @@ También podrán hacerse notificaciones a los abogados de las partes cuando en a
 
 Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes se hacen. Si éstas no supieren o no quisieren firmar, lo hará el secretario, notificador o quienes hagan sus veces, haciendo constar esta circunstancia.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 118.
 
-Si las partes o sus procuradores no concurren al tribunal o juzgado a notificarse, dentro del término a que se refiere el Artículo 115, la notificación se dará por hecha, y surtirá sus efectos a las doce horas del último día a que se refiere el artículo citado, a condición de que se haya hecho la publicación del acuerdo o resolución en los tableros del juzgado.
+Las notificaciones surtirán sus efectos:
+
+I.- Desde el mismo día en que se hayan practicado tratándose de las que deben hacerse personalmente o tratándose de emplazamientos; y
+
+II.- Las demás desde el día siguiente al de la fijación de la lista de acuerdos correspondiente.
 
 ###### ARTICULO 119.
 
@@ -707,9 +715,11 @@ Por ningún motivo se incluirán en la lista los negocios o resoluciones que ten
 
 ### CAPITULO VI. De los Términos Judiciales
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 120.
 
-Los términos judiciales empezarán a correr desde el día siguiente a aquel en que se hubiere hecho el emplazamiento o notificación.
+Los términos judiciales empezarán a correr desde el día siguiente a aquel en que surtan efecto las notificaciones o emplazamientos.
 
 ###### ARTICULO 121.
 
@@ -2063,9 +2073,11 @@ También harán prueba plena las certificaciones judiciales o notariales de las 
 
 Los documentos privados sólo harán prueba plena, y contra su autor, cuando fueren reconocidos legalmente. En el reconocimiento expreso de documentos privados es aplicable lo dispuesto por las fracciones I y II del artículo 337.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 343.
 
-Los documentos privados provenientes de las partes se tendrán por reconocidos si no son objetados por su autor en el Juicio en términos legales, pero si el Juicio se ha seguido en rebeldía es necesario el reconocimiento, que se practicará según las reglas de la confesión y surtirá sus mismos efectos.
+Los documentos privados provenientes de las partes se tendrán por reconocidos si no son objetados por su autor en el juicio, en términos legales. Teniendo valor probatorio pleno, sólo cuando se relacionen con otros medios de prueba que hagan presumir la veracidad de aquellos documentos privados.
 
 ###### ARTICULO 344.
 
@@ -2119,9 +2131,13 @@ El valor probatorio de las presunciones restantes queda al prudente arbitrio del
 
 ### CAPITULO XI. Audiencia de Juicio
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 353.
 
-En el propio auto en que el juez admita las pruebas que se ofrezcan; se citará a las partes y a las demás personas cuya asistencia sea necesaria, con los apercibimientos legales, para la celebración de la audiencia en la que se recibirán las pruebas, se oirán alegatos y se dictará sentencia.
+En el propio auto en que el Juez admita las pruebas que se ofrezcan, se citará a las partes y a las demás personas cuya asistencia sea necesaria, con los apercibimientos legales, para la celebración de la audiencia en la que se recibirán las pruebas, se oirán alegatos y se dictará sentencia.
+
+Antes de recibir las pruebas que se hayan admitido, se intentará la conciliación de las partes mediante el arbitraje del Juez, en términos de lo establecido por el Artículo 69 de este Código. Si no se llega a un acuerdo se continuará con la audiencia en los términos previstos en el párrafo anterior.
 
 ###### ARTICULO 354.
 
@@ -2215,9 +2231,11 @@ Si en la audiencia no pronunciare el tribunal su sentencia, en ella misma citar�
 
 Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de estas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio, condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el tribunal.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 372.
 
-Contra la sentencia que decide el fondo del negocio, procede el recurso de apelación.
+Contra la sentencia que decide el fondo del negocio, procede el recurso de apelación, hecha a excepción de las sentencias que condenan al pago de alimentos, en contra de las cuales no procederá recurso alguno.
 
 ### CAPITULO XII. Sentencia Ejecutoria
 
@@ -2363,9 +2381,15 @@ Contra del auto que decida sobre la revocación no habrá recurso alguno.
 
 El recurso de apelación tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique la resolución dictada por el inferior. La interposición del recurso suspende la ejecución de la resolución apelada.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 399.
 
-El recurso de apelación sólo procede cuando la ley así lo disponga.
+El recurso de apelación sólo procede:
+
+I.- Cuando la cuantía del negocio en que se dicte la resolución judicial a apelar, exceda de 800 días de salario mínimo general vigente en el Estado; y
+
+II.- Cuando la Ley así lo disponga.
 
 ###### ARTICULO 400.
 
@@ -2899,11 +2923,13 @@ II.- Para recurrir el auto de aprobación del remate, en su caso.
 
 Para el avalúo de los bienes inmuebles el juez pedirá a la oficina catastral que corresponda, informes sobre el valor comercial de dichos bienes, y éste servirá de avalúo para el remate. Este avalúo tendrá vigencia de un año.
 
+(REFORMADO, P.O. 2 DE ABRIL DE 1995) (F. DE E., P.O. 14 DE MAYO DE 1995)
+
 ###### ARTICULO 481.
 
-Obtenido el informe de valor de los bienes, si fueren raíces, se anunciará su venta señalando día y hora para la almoneda por medio de edictos que se publicarán por tres veces, de siete en siete días, en el Periódico Oficial y en un diario de circulación estatal.
+Obtenido el informe del valor de los bienes, si fueren raíces, se anunciará su venta señalando día y hora para la almoneda por medio de edictos que se publicarán por una sola vez en el Periódico Oficial del Estado y en tres diarios de circulación estatal.
 
-A petición de cualquiera de las partes, y a su costa, el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+A petición de cualquiera de las partes, y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### ARTICULO 482.
 
@@ -3311,9 +3337,11 @@ Cuando se trate del pago o prelación de un crédito hipotecario, es requisito i
 
 Cuando se entable pleito entre los que contrataron la hipoteca procederá la acción hipotecaria sin necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 551.
 
-Presentada la demanda con el instrumento respectivo, si el juez encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la cédula hipotecaria y el emplazamiento del deudor, continuando el procedimiento con sujeción a las demás reglas generales del juicio.
+Presentada la demanda con el instrumento respectivo, si el Juez encuentra que se reunen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la cédula hipotecaria y el emplazamiento del deudor, si éste no contesta en el término que señala el Artículo 224 de éste Código, se procederá a dictar sentencia y si lo hiciere se continuará el procedimiento con sujeción a las demás reglas generales del juicio.
 
 ###### ARTICULO 552.
 
@@ -5316,3 +5344,35 @@ Lic. Héctor Valdivia Carreón.
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 2 DE ABRIL DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los Agentes del Ministerio Público del Estado, a excepción del Procurador General de Justicia, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por éste, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten al examen aquí referido, o en su caso quienes no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO TERCERO.
+
+Los Defensores de Oficio dependientes del (sic) Procuraduría de Protección Ciudadana del Estado, que se encuentren laborando como tales en la actualidad, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por el Procurador de Protección Ciudadana, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten a dicho examen o en su caso no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+La Contraloría General del Estado conocerá del recurso de revisión consignado en el Artículo 42 de la Ley Orgánica del Poder Ejecutivo del Estado, de manera temporal, hasta en tanto se constituya el Tribunal de lo Contencioso Administrativo del Estado, que asumirá esta responsabilidad.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que actualmente se están ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Civiles vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Penales vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
