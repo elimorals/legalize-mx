@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2003-09-03"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -413,7 +413,7 @@ Si el producto o servicio se encuentra en el comercio, los comerciantes o presta
 
 Los productores, fabricantes, importadores y sus distribuidores serán responsables de recuperar de inmediato los productos.
 
-Quienes resulten responsables del incumplimiento de la norma tendrán la obligación de reponer los productos o servicios cuya venta o prestación se prohiba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrar o bonificar su valor, así como cubrir los gastos para el tratamiento, reciclaje o disposición final.
+Quienes resulten responsables del incumplimiento de la norma tendrán la obligación de reponer los productos o servicios cuya venta o prestación se prohíba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrar o bonificar su valor, así como cubrir los gastos para el tratamiento, reciclaje o disposición final.
 
 ## TITULO SEPTIMO. De los terceros autorizados
 
@@ -457,19 +457,11 @@ V. Contendrán las demás estipulaciones que las partes consideren necesarias pa
 
 ## TITULO NOVENO. Del derecho a la información
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 1.
 
-41.- Toda persona tiene derecho a que las autoridades, en las materias reguladas en este Código, le proporcionen los datos que contengan sus sistemas de información, salvo cuando:
-
-I. Pueda afectarse la seguridad pública estatal o municipal;
-
-II. Por disposición legal, la información sea confidencial, deba negarse o esté protegida por el secreto industrial y comercial;
-
-III. Pueda afectarse la seguridad personal de un tercero a quien se refiera la información.
-
-En su caso, los gastos que se generen correrán por cuenta del solicitante.
-
-En caso de contar con los datos relativos a la ubicación de la persona a que se refiera la información, la autoridad deberá notificarle la solicitud que haya recibido, dentro de los cinco días hábiles siguientes a dicha recepción, para que, dentro del plazo de cinco días hábiles, manifieste lo que a su derecho convenga.
+41.- Toda persona tiene derecho a que las autoridades, en las materias reguladas en este código le proporcionen información en términos de la ley de la materia.
 
 ## TITULO DECIMO. De la acción popular
 
@@ -6029,7 +6021,7 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -8808,3 +8800,25 @@ CUARTO.- Se derogan las disposiciones legales que se opongan al presente decreto
 QUINTO.- Los procedimientos, contratos, convenios e inconformidades administrativas iniciados al amparo de la ley que se abroga, se substanciarán y resolverán conforme a las disposiciones del mismo ordenamiento.
 
 SEXTO.- El Ejecutivo del Estado, en las materias de su competencia, expedirá el reglamento respectivo para la aplicación del presente Libro.
+
+P.O. 30 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La Ley de Transparencia y Acceso a la Información Pública del Estado de México y las reformas al Código Administrativo del Estado de México y a la Ley de Documentos Administrativos e Históricos del Estado de México tendrán vigencia, hasta en tanto entren en vigor los párrafos segundo y tercero, adicionados al artículo 5 de la Constitución Política del Estado Libre y Soberano de México, aprobados por esta Legislatura.
+
+TERCERO.- Los Consejeros del Instituto deberán ser designados dentro de los tres meses siguientes al inicio de la vigencia de la presente Ley e iniciarán sus funciones un mes después de su designación.
+
+CUARTO.- El Poder Legislativo, el Poder Ejecutivo, el Poder Judicial, los Municipios, los órganos autónomos y los Tribunales Administrativos, emitirán las disposiciones reglamentarias correspondientes a la presente Ley, dentro de los seis meses siguientes al inicio de su vigencia.
+
+QUINTO.- Los Sujetos Obligados deberán nombrar a los responsables de las Unidades de Información, o su equivalente y, a los integrantes de los comités de información, así como designar a los servidores públicos habilitados a más tardar tres meses después de la designación de los Consejeros y del Consejero Presidente.
+
+La conformación de las estructuras a que se refiere esta disposición, deberá hacerse con los recursos humanos, materiales y financieros asignados, por lo que no deberá implicar erogaciones adicionales.
+
+SEXTO.- La información pública de oficio a que se refiere la presente Ley deberá estar disponible a más tardar un año después de la designación de los Consejeros y del Consejero Presidente.
+
+SEPTIMO.- Los Sujetos Obligados deberán elaborar el catálogo de información a que se refiere la presente Ley, a más tardar un año después de la designación de los Consejeros y del Consejero Presidente.
+
+OCTAVO.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en términos de la presente Ley, después de un año de la designación de los Consejeros y del Consejero Presidente.
+
+NOVENO.- El Instituto expedirá su reglamento interior dentro de los tres meses siguientes a su integración.
