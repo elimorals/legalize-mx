@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-agencia-para-la-planeacion-del-desarrollo-urbano-3804
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-26"
-last_updated: "2004-02-26"
+last_updated: "2004-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA AGENCIA PARA LA PLANEACION DEL DESARROLLO URBANO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 26 de febrero de 2004.
 
@@ -157,25 +157,37 @@ El Consejo de Participación Ciudadana para el Desarrollo Urbano estará integra
 
 I. Un Presidente Honorario, que será el Gobernador del Estado;
 
-II. Un Presidente Delegado, que será el Presidente Ejecutivo de la Agencia;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
 
-III. Un Secretario que será nombrado por el Presidente Delegado del Consejo; y
+II. Un Presidente Ciudadano, que será designado por invitación del Titular del Ejecutivo del Estado, tomando en cuenta la opinión de los Consejeros Ciudadanas a que se refiere la fracción IV de este artículo;
 
-IV. Dieciséis Consejeros Ciudadanos, designados por invitación del Titular del Ejecutivo del Estado a propuesta del Presidente Ejecutivo de la Agencia, previa consulta que éste último realice entre los sectores de la comunidad involucrados en el desarrollo urbano y ordenamiento territorial de la entidad.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+III. Un Secretario, que será el Presidente Ejecutivo de la Agencia, y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+IV. Veinte Consejeros Ciudadanos, designados por invitación del Titular del Ejecutivo del Estado, a propuesta del Presidente Ejecutivo de la Agencia, previa consulta que éste último realice entre los sectores de la comunidad involucrados en el desarrollo urbano y ordenamiento territorial de la entidad.
 
 Las funciones de los integrantes del Consejo serán las de miembros de un órgano colegiado, rigiéndose por los principios de buena fe y propósitos de interés general. Los Consejeros Ciudadanos que integran el Consejo contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter de honorífico, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 10.
 
-El Consejo de Participación Ciudadana para el Desarrollo Urbano deberá sesionar cuando menos una vez cada tres meses, teniendo como mínimo cuatro sesiones ordinarias al año y las extraordinarias que sean necesarias, cuando lo soliciten el Presidente Honorario, el Presidente Delegado o la mayoría de sus miembros, previa convocatoria del Secretario.
+El Consejo de Participación Ciudadana para el Desarrollo Urbano deberá sesionar previa convocatoria del Secretario cuando menos una vez cada tres meses, efectuando como mínimo cuatro sesiones ordinarias al año y las extraordinarias que sean necesarias, cuando lo soliciten el Presidente Honorario, el Presidente Ciudadano o la mayoría de sus miembros.
 
-Las sesiones del Consejo de Participación Ciudadana para el Desarrollo Urbano, en primera convocatoria, serán válidas con la asistencia del Presidente Honorario, o el Presidente Delegado, el Secretario y de al menos la mitad de los vocales; y en segunda convocatoria con la asistencia del Presidente Honorario o el Presidente Delegado, el Secretario y con los vocales que asistan.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+Las sesiones del Consejo de Participación Ciudadana para el Desarrollo Urbano, en primera convocatoria, serán válidas con la asistencia del Presidente Honorario o el Presidente Ciudadano, el Secretario y de al menos la mitad de los vocales; y en segunda convocatoria con la asistencia del Presidente Honorario o el Presidente Ciudadano, el Secretario y con los vocales que asistan.
 
 Las resoluciones del Consejo de Participación Ciudadana para el Desarrollo Urbano se tomarán por mayoría simple, y en caso de empate quien presida la sesión tendrá voto de calidad.
 
 De cada sesión del Consejo, el Secretario levantará el acta correspondiente que firmará quien presida la sesión y el propio Secretario, agregándose la lista de asistencia de quienes participaron en la sesión.
 
-El Presidente Honorario o el Presidente Delegado podrán invitar a las sesiones del Consejo de Participación Ciudadana para el Desarrollo Urbano a las personas físicas y morales, de orden público, privado o social cuya presencia sea de interés para los asuntos que se ventilen. Estas personas gozarán del derecho de voz pero no de voto.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+El Presidente Honorario o el Secretario podrán invitar a las sesiones del Consejo de Participación Ciudadana para el Desarrollo Urbano a las personas físicas y morales, de orden público, privado o social cuya presencia sea de interés para los asuntos que se ventilen. Estas personas gozarán del derecho de voz pero no de voto.
 
 Los integrantes del Consejo nombrarán en forma oficial y por escrito a su respectivo suplente.
 
@@ -187,17 +199,23 @@ I. Presidir las sesiones del Consejo y hacer cumplir sus acuerdos; y
 
 II. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior de la Agencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 12.
 
-Serán atribuciones del Presidente Delegado del Consejo:
+Serán atribuciones del Presidente Ciudadano del Consejo:
 
-I. Actuar como delegado del Consejo, ejecutando en su nombre los acuerdos tomados;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
 
-II. Convocar por instrucciones del Presidente Honorario, a través del Secretario, y presidir las sesiones ordinarias y extraordinarias del Consejo en ausencia del Presidente Honorario;
+I. Dar seguimiento en la ejecución de los acuerdos tomados por el Consejo;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+II. Solicitar al Secretario que se convoque a sesiones ordinarias o extraordinarias del Consejo, así como presidir dichas sesiones en ausencia del Presidente Honorario;
 
 III. Proponer al Consejo los planes de acción que considere pertinentes;
 
-IV. Invitar a las sesiones del Consejo, previo acuerdo con el Presidente Honorario, con voz pero sin voto, a representantes de dependencias u organismos de los gobiernos federal, estatal y municipales, así como de los sectores social, privado y académico relacionados con el desarrollo urbano y el ordenamiento territorial;
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2004)
 
 V. Coordinar las comisiones de trabajo, que en su caso determine crear el Consejo, para el cumplimiento de su objeto; y
 
@@ -207,7 +225,9 @@ VI. Las demás que le señalen el Reglamento Interior de la Agencia, las disposi
 
 El Secretario del Consejo de Participación Ciudadana para el Desarrollo Urbano tendrá las facultades siguientes:
 
-I. Convocar, por instrucciones del Presidente Honorario o del Presidente Delegado, a los demás miembros del Consejo a las reuniones ordinarias y extraordinarias que procedan;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+I. Convocar por instrucciones del Presidente Honorario o a solicitud del Presidente Ciudadano, a los demás miembros del Consejo a las reuniones ordinarias y extraordinarias que procedan;
 
 II. Acudir a las sesiones ordinarias y extraordinarias del Consejo con derecho de voz y de voto;
 
@@ -215,9 +235,17 @@ III. Formular y expedir las actas y acuerdos de las sesiones ordinarias y extrao
 
 IV. Proponer en cada caso el orden del día que se deberá desahogar en la sesión correspondiente;
 
-V. Elaborar la lista de asistencia de cada sesión y verificar el quórum de la misma; y
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
 
-VI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior de la Agencia.
+V. Invitar a las sesiones del Consejo, previo acuerdo con el Presidente Honorario, con voz pero sin voto, a representantes de dependencias u organismos de los gobiernos federal, estatal y municipales, así como de los sectores social, privado y académico relacionados con el desarrollo urbano y el ordenamiento territorial;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+VI. Elaborar la lista de asistencia de cada sesión y verificar el quórum de la misma; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+VII. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior de la Agencia.
 
 #### SECCIÓN SEGUNDA. DE LA JUNTA DE GOBIERNO
 
@@ -454,3 +482,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
