@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1996-12-28"
+last_updated: "1998-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1083,9 +1083,11 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1998)</small>
+
 ###### Art. 169.
 
-En todos los casos de disolución matrimonial, la mujer recobra su entera capacidad para contraer nuevo matrimonio, salvas las limitaciones que establece la ley.
+La mujer puede contraer nuevo matrimonio, después de la disolución o nulidad del anterior, siempre y cuando presente ante el Oficial del Registro Civil el certificado médico expedido por una Institución de Salud Pública o por dos facultativos debidamente registrados que acredite que no se encuentra en estado de gravidez, cuya fecha no exceda de quince días y sea con posterioridad a dicha disolución o nulidad.
 
 ###### Art. 170.
 
@@ -1785,13 +1787,7 @@ XX.- La separación de los cónyuges por más de dos años, independientemente d
 
 ###### Art. 288.
 
-El adulterio del marido es causa de divorcio solamente cuando con él concurran alguna de las circunstancias siguientes:
-
-I.- Que el adulterio haya sido cometido en la casa conyugal;
-
-II.- Que haya habido escándalo o insulto público hecho por el marido a la mujer legítima;
-
-III.- Que la adúltera haya maltratado de palabra o de obra, o que por su causa se haya maltratado de alguno de esos modos a la mujer legítima.
+(DEROGADO, P.O. 24 DE JULIO DE 1998)
 
 ###### Art. 289.
 
@@ -1818,6 +1814,10 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en 
 ###### Art. 294.
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+Antes de admitir la demanda de divorcio el juez ordenará la celebración de una junta de avenio en la que se exhortará a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y sus consecuencias sociales para la desintegración de la familia. De no presentarse una de las partes o no darse la reconciliación, se admitirá la demanda.
 
 ###### Art. 295.
 
@@ -3791,7 +3791,7 @@ El curador que no llene los deberes prescritos en el artículo precedente, será
 
 ###### Art. 642.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría.
+Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en el curaduría (sic).
 
 ###### Art. 643.
 
@@ -15622,6 +15622,12 @@ P.O. 28 DE DICIEMBRE DE 1996.
 Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE JULIO DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales en lo que se opongan al contenido del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
