@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1995-08-25"
+last_updated: "1995-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1529,25 +1529,41 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 
 Gozan de fuero el Gobernador, los Diputados y los Magistrados; pero son responsables por los delitos del orden común que cometan durante su encargo y por los delitos y faltas oficiales en que incurran en el ejercicio del mismo.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
 El Congreso del Estado expedirá la Ley de responsabilidades de los servidores públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad de conformidad con las siguientes prevenciones:
 
-I.- Se impondrán mediante juicio político las sanciones indicadas en el artículo 109 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-No procede el juicio político por la mera expresión de ideas.
+I.- Se impondrán las sanciones indicadas en la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos del Estado, cuando en el ejercicio de sus funciones, incurran en actos que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-II.- La comisión de los delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y
+No procede el juicio político, por la mera expresión de ideas.
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban resolver en el desempeño de sus empleos, cargos o comisiones.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán automáticamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+II.- La comisión de delitos intencionales por parte de cualquier servidor público, será perseguida y sancionada en los términos de la Legislación Penal.
 
-Las leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las Leyes Penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras que correspondan.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presencia de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente artículo.
+III.- Se aplicarán sanciones administrativas a los servidores públicos que contravengan las disposiciones normativas relacionadas con el servicio público.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas, se ventilarán ante la propia autoridad competente y conforme a las disposiciones legales establecidas en la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+Las leyes de la materia, determinarán el procedimiento que deba seguirse para sancionar a los servidores públicos que durante el ejercicio de su encargo en el Estado de Tlaxcala, su riqueza sea inexplicable.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1555,9 +1571,13 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presenc
 
 Serán sujetos de juicio político, los servidores públicos a que se refiere el segundo párrafo del artículo 107.
 
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación por desempeñar funciones, cargos, empleos o comisiones de cualquier naturaleza en el servicio público.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
 
-Para la aplicación de sanciones a que se refiere este precepto, el Congreso del Estado procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa declaración de la mayoría absoluta del número de miembros presentes en sesión del Congreso, después de haber sustanciado el procedimiento respectivo conforme a la Ley de la Materia y con audiencia del inculpado.
+Las sanciones que se apliquen al servidor público, consistirán en la destitución del cargo, empleo o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+Para la aplicación de sanciones a que se refiere este precepto, el Congreso del Estado procederá a integrar una Comisión Instructora, quien actuará como órgano de acusación ante el Pleno del propio Congreso y sustanciará el procedimiento respectivo conforme a la Ley de la Materia y con audiencia del inculpado.
 
 El Tribunal Superior de Justicia, erigido en jurado de sentencia aplicará la sanción correspondiente mediante resolución de mayoría absoluta del número de miembros presentes en cada Sesión, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
@@ -1866,6 +1886,12 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones que se opongan a la presente reforma constitucional.
 
 P.O. 25 DE AGOSTO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE OCTUBRE DE 1995.
 
 ###### ARTICULO UNICO.
 
