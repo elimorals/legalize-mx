@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1974-12-23"
+last_updated: "1981-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1981.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -89,6 +89,12 @@ V. Pedir al Juez la práctica de las diligencias necesarias para comprobar la re
 VI. Pedir al juez la aplicación de la sanción que en el caso concreto estime aplicable; y
 
 VII. Pedir la libertad del detenido cuando ésta proceda.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 3º Bis.
+
+En las averiguaciones previas en que se demuestre plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal, previo acuerdo del Procurador General de Justicia del Distrito Federal, el Ministerio Público lo pondrá en libertad y no ejercitará acción penal.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -650,11 +656,21 @@ La policía judicial procederá a recoger en los primeros momentos de su investi
 
 En los casos de los dos artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que esté indicado para apreciar mejor la relación con el delito, de los lugares, armas, instrumentos u objetos a que dichos artículos se refieren.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 100.
 
-Los instrumentos, armas y objetos a que se refiere el artículo 98, se sellarán siempre que lo permita su naturaleza y se acordará su retención y conservación. Si no pudieren conservarse en su forma primitiva, se verificará lo más conveniente para conservarlos del mejor modo posible. Cuando el caso lo amerite, dictaminarán peritos.
+Los instrumentos, armas y objetos a que se refiere el Artículo 98, se sellarán, siempre que lo permita su naturaleza, y se acordará su retención y conservación. Si no pudieren conservarse en su forma primitiva, se verificará lo más conveniente para conservarlos del mejor modo posible cuando el caso lo amerite, dictaminarán peritos.
 
-Todo esto se hará constar en el acta que se levante.
+Todo esto se hará constar en el Acta que se levante.
+
+Tratándose de vehículos, cuando sean necesarios para la práctica de peritaje, los mismos serán entregados de inmediato a sus propietarios, poseedores y representantes legales, en depósito previa inspección ministerial, siempre que se cumplan los siguientes requisitos:
+
+I. Mantenerlos en lugar ubicado en el Distrito Federal, a disposición del Ministerio Público, conservándolos como hubiesen quedado después de los hechos de que se trate, con la obligación de presentarlos a la autoridad cuando se les requiera para la práctica del peritaje correspondiente, que deberá verificarse dentro de los tres días siguientes;
+
+II. Que el acusado no haya pretendido substraerse a la acción de la justicia, abandonando al lesionado en su caso o consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas,
+
+III. Que la averiguación previa se tramite como consecuencia de un hecho imprudencial cuya pena no exceda de cinco años de prisión.
 
 ###### ARTICULO 101.
 
@@ -843,6 +859,18 @@ La orden de detención que el juez dicte, se entregará al Ministerio Público.
 ###### ARTICULO 134.
 
 Siempre que se lleve a cabo una detención en virtud de orden judicial, el agente de la policía que la hubiere verificado está obligado a poner al detenido, sin demora alguna a disposición del juez respectivo, asentando la hora en que comenzó la detención.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 134 Bis.
+
+En los lugares de detención dependientes del Ministerio Público no existirán rejas y con las seguridades debidas funcionarán Salas de Espera.
+
+Las personas que se encuentren en estado de ebriedad, bajo el influjo de estupefacientes o substancias psicotrópicas aquéllas que su situación mental denote peligrosidad y quienes a criterio de la autoridad investigadora, pretendan evadirse, serán ubicadas en áreas de seguridad.
+
+El Ministerio Público evitará que el presunto responsable sea incomunicado. En los lugares de detención del Ministerio Público estará instalado un aparato telefónico para que los detenidos puedan comunicarse con quien lo estimen conveniente.
+
+Los detenidos, desde el momento de su aprehensión, podrán nombrar abogado o persona de su confianza que se encargue de su defensa. A falta de una u otro, el Ministerio Público le nombrará uno de oficio.
 
 ### CAPITULO V. Confesión judicial
 
@@ -1564,6 +1592,12 @@ Para las querellas presentadas por personas físicas, será suficiente un poder 
 
 Al iniciar sus procedimientos el Ministerio Público, o la policía judicial, se trasladarán inmediatamente al lugar de los hechos, para dar fe de las personas y de las cosas a quienes hubiere afectado el acto delictuoso y tomarán los datos de las que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas, en caso contrario, para que dentro del término de veinticuatro horas comparezcan a rendir su declaración.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 265 Bis.
+
+El Ministerio Público podrá intervenir mediante una instancia conciliatoria cuando acusado y ofendido lo soliciten, para cumplir los fines de la procuración de justicia, en los términos que establezca la Ley.
+
 ###### ARTICULO 266.
 
 El Ministerio Público y la policía judicial del Distrito y Territorios Federales, están obligados, sin esperar a tener orden judicial, a proceder a la detención de los responsables de un delito:
@@ -1592,31 +1626,51 @@ También se le recogerán los objetos que se relacionen con el delito y aquellos
 
 Antes de trasladar al presunto reo a la cárcel preventiva, se le tomarán sus generales y se le identificará debidamente, haciéndole saber el derecho que tiene para nombrar defensor. Este podrá, previa la propuesta otorgada ante los funcionarios del Ministerio Público o de la policía que intervengan, entrar al desempeño de su cometido.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 271.
 
-Si el acusado o su defensor solicitare la libertad caucional, los funcionarios mencionados se concretarán a recibir la petición relativa, y agregarla al acta correspondiente para que el juez resuelva sobre el particular.
+Si el acusado o su defensor solicitaren la libertad caucional y se tratare de un delito no comprendido en el párrafo 9o. de este Artículo, los funcionarios mencionados en el Artículo anterior, se concretarán a recibir la petición relativa, y agregarla al acta correspondiente, para que el Juez resuelva sobre el particular.
 
-En todo caso, el funcionario que conozca de un hecho delictuoso, hará que tanto el ofendido como el presunto responsable, sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen con carácter provisional, acerca de su estado psico-fisiológico.
+En todo caso, el funcionario que conozca de un hecho delictuoso, hará que tanto el ofendido como el presunto responsable sean examinados inmediatamente por los médicos legislas, para que éstos dictaminen, con carácter provisional, acerca de su estado psicofisiológico.
 
-> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+En las averiguaciones que se practiquen por delitos de imprudencia ocasionados con motivo del tránsito de vehículos, siempre que no se abandone a quien hubiese resultado lesionado, no procederá la detención del presunto responsable, si éste garantiza suficientemente ante el Ministerio Público el no substraerse a la acción de la Justicia y, en su caso el pago de la reparación del daño.
 
-En las averiguaciones que se practiquen por delitos de imprudencia ocasionados con motivo del tránsito de vehículos, siempre que no se abandone a quien hubiese resultado lesionado, no procederá la detención del presunto responsable, si éste garantiza suficientemente ante el Ministerio Público el no sustraerse a la acción de la justicia y, en su caso, el pago de la reparación del daño.
+El Ministerio Público fijará de inmediato la garantía correspondiente, con los elementos existentes en la averiguación previa, una vez que le sea solicitada la libertad del presunto responsable.
 
-> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+El Procurador determinará mediante disposiciones de carácter general el monto de la caución aplicable en los casos de lesiones y homicidio por imprudencia con motivo del tránsito de vehículos y en aquellos en que con estos delitos concurran otros en que sea procedente la libertad caucional.
 
-Cuando el Ministerio Público deje libre al presunto responsable, lo prevendrá para que comparezca ante él mismo para la práctica de diligencias de averiguación, en su caso, y, concluida ésta, ante el Juez a quien se consigne la causa, quien ordenará su presentación y si no comparece a la primera cita, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
+Cuando el Ministerio Público deja libre al presunto responsable lo prevendrá para que comparezca ante el mismo para la práctica de diligencias de averiguación, en su caso y concluida ésta ante el Juez a quien se consigne la averiguación previa quien ordenará su presentación y si no comparece ordenará su aprehensión, previa solicitud del Ministerio Público mandando hacer efectiva la garantía otorgada.
 
-> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+El Ministerio Publico podrá hacer efectiva la garantía si el presunto responsable desobedeciere, sin causa justificada, las órdenes que dictare.
 
-El Ministerio Público podrá hacer efectiva la garantía si el presunto responsable desobedeciere, sin causa justificada, las órdenes que dictare.
+La garantía se cancelará y en su caso se devolverá cuando se resuelva el no ejercicio de la acción penal o una vez que se haya presentado el presunto responsable ante el Juez de la causa y éste acuerde la devolución.
 
-> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+En las averiguaciones previas por delitos que sean de la competencia de los Juzgados mixtos de paz o siendo de los juzgados penales cuya pena no exceda de cinco años de prisión el presunto responsable no será privado de su libertad corporal en los lugares ordinarios de detención y podrá quedar arraigado en su domicilio, con la facultad de trasladarse al lugar de su trabajo, si concurren las circunstancias siguientes:
 
-La garantía se cancelará y en su caso se devolverá cuando se resuelva el no ejercicio de la acción penal, o una vez que se haya presentado el presunto responsable ante el Juez de la causa.
+I.- Proteste presentarse ante el Ministerio Público que tramite la averiguación, cuando éste lo disponga,
+
+II. No existan datos de que pretenda substraerse a la acción de la justicia,
+
+III. Realice convenio con el ofendido o sus causahabientes, ante el Ministerio Público, de la forma en que reparará el daño causado, en su caso, cuando no se convenga sobre el monto, el Ministerio Público con base en una estimación de los daños causados, en la inspección ministerial que practique, en las versiones de los sujetos relacionados con los hechos y en los demás elementos de prueba de que disponga, determinará dicho monto,
+
+IV.- Que tratándose de delitos por imprudencia ocasionados con motivo del tránsito de vehículos el presunto responsable no hubiese abandonado al lesionado, ni participado en los hechos en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas,
+
+V.- Que alguna persona, a criterio del Agente Investigador del Ministerio Público, fundado en los datos que recabe al respecto, se comprometa, bajo protesta, a presentar al presunto responsable cuando así se resuelva.
+
+VI.- En caso de que el acusado o la persona a que se refiere la fracción anterior, desobedecieren sin justa causa las órdenes que dicte el Ministerio Público, se revocará el arraigo y la averiguación previa será consignada en su caso, solicitando al Juez competente orden de aprehensión en su contra.
+
+VII.- El arraigo no podrá prolongarse por más de tres días, transcurridos éstos el arraigado podrá desplazarse libremente, sin perjuicio de que el Ministerio Público, si así procediese, consigne la averiguación y solicite la orden de aprehensión.
+
+El Ministerio Público hará del conocimiento de los detenidos el alcance de sus derechos así como los términos en que puedan ser disfrutados, lo cual deberá constar en diligencia por separado.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 272.
 
-Cuando el acusado sea aprehendido, el Ministerio Público estará obligado bajo su más estricta responsabilidad, a poner inmediatamente al detenido a disposición de la autoridad judicial, remitiéndole, al efecto, el acta correspondiente.
+Cuando el acusado sea aprehendido el Ministerio Público estará obligado bajo su más estricta responsabilidad, a poner inmediatamente al detenido a disposición de la autoridad judicial, remitiéndole, al efecto, el acta correspondiente.
+
+Tratándose de delitos por imprudencia, cuya pena de prisión no exceda de cinco años, el acusado será puesto a disposición del Juez directamente, sin quedar internado en los lugares de prisión preventiva para que pueda solicitar su libertad provisional.
 
 ###### ARTICULO 273.
 
@@ -4355,3 +4409,13 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1981.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
