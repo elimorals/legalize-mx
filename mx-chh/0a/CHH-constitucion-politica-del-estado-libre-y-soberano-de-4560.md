@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2002-11-23"
+last_updated: "2002-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2002.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1193,9 +1193,9 @@ III.- Llamar a los sustitutos de la misma Diputación en las faltas absolutas o 
 
 IV.- Integrar el número de Diputados que la componen, en caso de muerte, separación o impedimento no transitorio de alguno de los nombrados.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
-V.- Las que señala al Congreso el artículo 64 en sus fracciones IX, inciso d); XIII; XVI; XXVII; XXXII; XXXIII; XXXVI y XLIV.
+V.- Las que señala al Congreso el artículo 64 en sus fracciones novena, inciso d); décimo tercera; décimo sexta; trigésimo segunda; trigésimo tercera; trigésimo sexta y tetragésima cuarta.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3032,3 +3032,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política Estatal, env�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 27 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los Debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado, y hecho que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
