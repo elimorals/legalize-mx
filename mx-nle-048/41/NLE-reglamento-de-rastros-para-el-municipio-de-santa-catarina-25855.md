@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-rastros-para-el-municipio-de-santa-catarina-25855
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-27"
-last_updated: "1991-11-27"
+last_updated: "1992-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE RASTROS PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1992.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de noviembre de 1991.
 
@@ -192,6 +192,14 @@ b) Presentarse convenientemente aseados, uniformados y equipados con sus utensil
 c) Vigilar la conservación del edificio e instalaciones, sujetándose en todo a este Reglamento, a las disposiciones sanitarias, a las de seguridad y a las que dicte la Autoridad Municipal.
 
 d) Guardar el debido orden dentro de las instalaciones y tener un trato respetuoso, cortés y diligente hacia sus superiores, compañeros, usuarios, introductores y visitantes.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
+
+e)Someterse periódicamente a un exámen médico por parte de la Sub-Secretaría Municipal de Salud y
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
+
+f) contar con vacuna contra tetanos, examen coproparasiloscópico cada seis meses, y otras enfermedades transmisibles.
 
 ### CAPITULO TERCERO. DEL RASTRO DE SEMOVIENTES
 
@@ -386,3 +394,15 @@ SRA. MA. TERESA GARCIA DE SEPULVEDA
 EL C. SECRETARIO DEL AYUNTAMIENTO
 
 LIC. JOSE G. ABRAHAM SALINAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO 1o.
+
+Las presentes modificaciones a este reglamento entraran en vigor al día siguiente de su publicación en el Períodico Oficial del Estado y la Gaceta de este Municipio.
+
+###### ARTICULO 2o.
+
+El presente reglamento deja sin efectos los artículos antes reformados.
