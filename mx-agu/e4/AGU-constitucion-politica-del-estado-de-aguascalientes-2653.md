@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1928-06-17"
+last_updated: "1929-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -133,7 +133,7 @@ El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1926)</small>
+> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -141,7 +141,7 @@ DEL PODER LEGISLATIVO.
 
 ###### Artículo 15°
 
-El Congreso del Estado se compondrá por lo menos de 15 diputados electos popularmente cada cuatro años; los individuos de quienes respecto de la Diputación Permanente declare que han obtenido mayoría de votos válidos conforme a la fracción III del artículo 31, se instalarán en Junta Preparatoria del Congreso y harán la calificación de la elección, declarando quiénes son Diputados propietarios y suplentes respectivamente, conforme a la Ley.
+El Congreso del Estado se compondrá por lo menos de quince Diputados electos popularmente cada dos años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido la mayoría de votos, conforme a la fracción tercera del artículo 31, instalados en Junta preparatoria del Congreso harán la calificación de la elección, declarando quiénes son diputados conforme a la ley.
 
 ###### Artículo 16°
 
@@ -167,11 +167,11 @@ VI.- No ser Juez ni Presidente Municipal en el Distrito donde se pretenda su ele
 
 Los diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1926)</small>
+> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
 
 ###### Artículo 19°
 
-El Congreso se instalará cada cuatro años el 16 de septiembre posterior a la elección, renovándose por mitad desde el año de 1930.
+El Congreso se instalará cada dos años el dieciséis de Septiembre posterior a la elección.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1919)</small>
 
@@ -307,23 +307,23 @@ V. Si algún motivo grave exigiera la reunión del Congreso o el Gobierno lo sol
 
 El Poder Ejecutivo se deposita en un individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1926)</small>
+> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
 
 ###### Artículo 33°
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador se requiere:
 
-I.- Ser hijo del Estado por nacimiento en ejercicio de sus derechos.
+I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1927)</small>
 
 II.- Tener 35 años cumplidos el día de la elección.
 
-III.- Tener como requisito indispensable, la vecindad cuando menos de cinco años antes de la elección.
+III.- Ser originario del Estado y con domicilio legal en él cuando menos cuatro años antes de la elección.
 
-IV.- No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del Estado o del Municipio, cuando menos noventa dias antes de la elección.
+IV.- No estar en servicio activo en el Ejército Nacional ni en las fuerzas del Estado, cuando menos sesenta días antes de la elección.
 
-V.- No ser Secretario de Gobierno, salvo que se separe de dicho cargo cuando menos noventa días antes de la elección.
+V.- No ser Secretario de Gobierno, salvo que se separe del cargo, noventa días antes de la elección.
 
 VI.- No haber sufrido condena alguna impuesta por los Tribunales, que hubiere excedido de un mes de arresto.
 
@@ -337,13 +337,7 @@ No podrán ser electos para el período inmediato los Ciudadanos que hayan desem
 
 En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1926)</small>
-
-En las faltas temporales y en las absolutas, mientras se verifica la elección en su caso y se presenta el nuevo electo, entrará en ejercicio del Poder Ejecutivo interinamente, la persona a quien designe el Congreso por mayoría absoluta de votos, en escrutinio secreto y obrando como Colegio Electoral.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1926)</small>
-
-Si la falta absoluta del Gobernador, ocurriera en el último año del período Constitucional, no se convocará a elecciones extraordinarias, sino que, el que desempeñare el Poder Ejecutivo, seguirá encargado de él hasta que concluya dicho período.
+En las faltas temporales y en las absolutas, mientras se verifica la elección y se presenta el nuevamente electo, entrará en ejercicio del Poder Ejecutivo, interinamente, el C. Diputado a quien designe el Congreso por mayoría absoluta de votos, en escrutinio secreto, y obrando como Colegio Electoral. Si la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñare el Poder Ejecutivo, por designación de la Legislatura, seguirá encargado de él hasta que concluya dicho período.
 
 ### CAPITULO PRIMERO.
 
@@ -403,9 +397,9 @@ XII.- Cuidar de la conservación del orden público, disponiendo al efecto de la
 
 XIII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1926)</small>
+> <small>(REFORMADA [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
 
-XIV.- Convocar al Congreso a sesiones extraordinarias cuando lo juzgue conveniente, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidades de Funcionarios y Empleados Públicos que gocen de fuero.
+XIV.- Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de Funcionarios y empleados públicos que gocen de fuero.
 
 XV.- Conceder indultos y reducción de penas en los términos que lo prescriban las leyes respectivas.
 
@@ -641,11 +635,13 @@ El presente decreto comenzará a surtir sus efectos desde la fecha de su expedic
 
 P.O. 2 DE MAYO DE 1926.
 
-I.- (DEROGADO, P.O. 22 DE JULIO DE 1926)
+> <small>N. DE E. POR ANTICONSTITUCIONAL, SE DEROGA EL DECRETO No. 126, EXPEDIDO EL 26 DE ABRIL Y PUBLICADO EL 2 DE MAYO DE 1926, POR LO QUE LOS PRESENTES ARTICULOS QUEDAN SIN EFECTO ALGUNO P.O. 24 DE MARZO DE 1929.</small>
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1926)</small>
+I.- (DEROGADA, P.O. 22 DE JULIO DE 1926)
 
-II.- En el año de 1928 se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley, debiendo comenzar sus funciones los Diputados Electos el 16 de septiembre del propio año y durarán en su cargo, los de número impar cuatro años y los de número par dos años.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1928)</small>
+
+II.- En el año de 1928 se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley debiendo comenzar sus funciones los Diputados electos, el 16 de septiembre del propio año y durarán en su cargo, los de número impar dos años y los de número par cuatro años.
 
 P.O. 22 DE JULIO DE 1926.
 
@@ -664,3 +660,19 @@ P.O. 17 DE JUNIO DE 1928.
 ###### Art. 3°.
 
 El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 24 DE MARZO DE 1929.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 160.</small>
+
+###### Artículo 1°
+
+Por anticonstitucional, se deroga el decreto núm. 126 expedido por la H. Legislatura el 26 de abril del año de 1926.
+
+###### Artículo 2°
+
+El H. Congreso en su oportunidad reformará la Constitución Política del Estado, de conformidad con lo preceptuado por su artículo 72.
+
+###### Artículo 3°
+
+El presente decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
