@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1998-06-28"
+last_updated: "2004-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2004.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -5765,7 +5765,9 @@ Cuando todos los herederos fueren mayores de edad y hubieren sido constituidos e
 
 El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia y un testimonio de testamento, se presentarán ante un notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
-El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez en diez días en un periódico de los de mayor circulación en la República.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2004)</small>
+
+El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez en diez días en un periódico de los de mayor circulación en el Estado.
 
 ###### ARTICULO 863.
 
@@ -6910,3 +6912,9 @@ Las presentes reformas y adiciones, así como las nuevas normas que se incluyen 
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 2 DE MAYO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente.
