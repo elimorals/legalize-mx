@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1986-11-22"
+last_updated: "1987-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -243,7 +243,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 16o.
 
-Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estará a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
+Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estarán a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
 
 N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
@@ -339,7 +339,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 29o.
 
-Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
+Las comunicaciones a que se refiere el artículo anterior, se hará por escrito dentro de los quince días siguientes a la fecha en que la Dirección General de Obras y Servicios Públicos o demás autoridades citadas reciban las manifestaciones de terminación o de ocupación de las construcciones o ampliaciones que deben presentar los constructores.
 
 DE LAS EXENCIONES
 
@@ -2883,7 +2883,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2909,9 +2909,9 @@ Los retenedores enterarán el impuesto mediante una declaración conforme a lo d
 
 Se derogan los efectos de lo preceptuado por los artículos 252 y 254 en lo relativo a las participaciones en el Impuesto Federal sobre Ingresos Mercantiles, por estar subsistente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación y por abrogar la Ley de Coordinación Fiscal al susodicho Impuesto Federal.
 
-## TITULO II
+## TITULO II. TARIFA GENERAL DE DERECHOS POR SERVICIOS
 
-TARIFA GENERAL DE DERECHOS POR SERVICIOS PUBLICOS EN EL ESTADO.
+PUBLICOS EN EL ESTADO.
 
 ### CAPITULO I. SERVICIOS GENERALES
 
@@ -3342,3 +3342,7 @@ Cuando en este Decreto se haga referencia a días de salario mínimo como sistem
 P.O. 22 DE NOVIEMBRE DE 1986
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+P.O. 14 DE ENERO DE 1987
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
