@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1940-02-14"
+last_updated: "1943-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 1940.
+> <small>N. DE E. DE ACUERDO AL ARTICULO 4° DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, QUEDAN DEROGADOS LOS ARTICULOS RELATIVOS A QUIEBRAS DEL PRESENTE ORDENAMIENTO, P.O. 20 DE ABRIL DE 1943.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 1943.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -79,9 +81,9 @@ Queda prohibido el uso de la palabra "nacional" en la denominación de las insti
 
 ###### ARTICULO 3°.
 
-Salvo lo mandado por el artículo 5°. respecto de las sucursales de empresas extranjeras, sólo las instituciones nacionales de seguros debidamente autorizadas y las sociedades mexicanas que obtengan del Gobierno Federal la autorización respectiva y se sujeten a esta Ley podrán practicar alguna o algunas de las operaciones a que se refiere la fracción II del artículo 1°.
+Salvo lo mandado por el artículo 5° respecto de las sucursales de empresas extranjeras, sólo las instituciones nacionales de seguros debidamente autorizadas y las sociedades mexicanas que obtengan del Gobierno Federal la autorización respectiva y se sujeten a esta Ley podrán practicar alguna o algunas de las operaciones a que se refiere la fracción II del artículo 1°.
 
-Para que una institución de seguros pueda practicar varias de la operaciones a que se refiere la misma fracción, deberá tener autorización especial del Gobierno Federal para cada ramo.
+Para que una institución de seguros pueda practicar varias de las operaciones a que se refiere la misma fracción, deberá tener autorización especial del Gobierno Federal para cada ramo.
 
 Cuando una institución de seguros tuviere autorización para efectuar varias de las operaciones antes mencionadas, practicará cada clase de operaciones por conducto de un departamento especial, y la parte del patrimonio de su institución que se afecte a cada uno de esos departamentos, en los términos del artículo 20, deberá expresarse en la contabilidad, con mención de los bienes o valores que la integren.
 
@@ -93,7 +95,7 @@ No se consideran instituciones de seguros sujetas a la presente Ley, las asociac
 
 ###### ARTICULO 5°.
 
-Las compañías extranjeras de seguros podrán tener en la República sucursales para efectuar alguna o algunas de las operaciones de seguros enumeradas en la fracción II del artículo 1°. de esta Ley, siempre que reúnan los siguientes requisitos:
+Las compañías extranjeras de seguros podrán tener en la República sucursales para efectuar alguna o algunas de las operaciones de seguros enumeradas en la fracción II del artículo 1° de esta Ley, siempre que reúnan los siguientes requisitos:
 
 I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley General de Sociedades Mercantiles;
 
@@ -281,7 +283,7 @@ La escritura y los estatutos de las sociedades que se organicen para operar como
 
 ###### ARTICULO 20.
 
-El capital mínimo con que deberán contar las sociedades anónimas que se organicen para operar como instituciones de seguros será de $200,000.00 para cada uno de los ramos a que se refieren los incisos a), b), c), d) y e) de la fracción II del artículo 1°. y de $100,000.00 para cada uno de los ramos a que se refieren los incisos f), g) y h), de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
+El capital mínimo con que deberán contar las sociedades anónimas que se organicen para operar como instituciones de seguros será de $200,000.00 para cada uno de los ramos a que se refieren los incisos a), b), c), d) y e) de la fracción II del artículo 1° y de $100,000.00 para cada uno de los ramos a que se refieren los incisos f), g) y h), de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -291,7 +293,7 @@ Las responsabilidades que contraiga cualquier institución de seguros, sin rease
 
 ###### ARTICULO 21.
 
-El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5°. deberá ser, por lo menos, de $300,000.00 para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Regirá respecto al capital de las sucursales de instituciones extranjeras lo dispuesto en el artículo 32 en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta Ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas, y de previsión y de su fondo legal de reserva.
+El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5° deberá ser, por lo menos, de $300,000.00 para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Regirá respecto al capital de las sucursales de instituciones extranjeras lo dispuesto en el artículo 32 en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta Ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas, y de previsión y de su fondo legal de reserva.
 
 ###### ARTICULO 22.
 
@@ -695,7 +697,7 @@ Si la institución no constituye las reservas a que se refiere este artículo, d
 
 ###### ARTICULO 76.
 
-La reserva de previsión para los ramos de seguro de los incisos a) y b) de la fracción II del artículo 1°. de esta Ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de las utilidades netas que arroje el estado de Pérdidas y Ganancias formulado de acuerdo con esta Ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión precisamente este 10% de las utilidades.
+La reserva de previsión para los ramos de seguro de los incisos a) y b) de la fracción II del artículo 1° de esta Ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de las utilidades netas que arroje el estado de Pérdidas y Ganancias formulado de acuerdo con esta Ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión precisamente este 10% de las utilidades.
 
 Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las instituciones aseguradoras no deberán incluir como deducción en su estado de Pérdidas y Ganancias, el 1% de las primas cobradas.
 
@@ -823,7 +825,7 @@ Cuando las inversiones afectadas a las reservas las hiciere una institución en 
 
 Las mismas escrituras especificarán que no podrá hacerse ninguna operación con los inmuebles o con los créditos hipotecarios sin autorización previa en ambos casos, de la Secretaría de Hacienda y Crédito Público.
 
-Los inmuebles que adquieran la instituciones de seguros de acuerdo con la fracción VII del artículo 85 de esta Ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento, éste no podrá exceder de seis años.
+Los inmuebles que adquieran las instituciones de seguros de acuerdo con la fracción VII del artículo 85 de esta Ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento, éste no podrá exceder de seis años.
 
 ###### ARTICULO 90.
 
@@ -965,7 +967,7 @@ Cuando una institución de seguros no tenga invertido su capital y reservas, en 
 
 Las instituciones de seguros deberán rendir a la Secretaría de Hacienda y Crédito Público la siguiente información, autorizada por los funcionarios o apoderados de las mismas:
 
-I.- Durante el mes de enero de cada año, un informe sobre las operaciones practicadas del 1°. de enero al 31 de diciembre del año inmediato anterior, que contendrá por lo menos:
+I.- Durante el mes de enero de cada año, un informe sobre las operaciones practicadas del 1° de enero al 31 de diciembre del año inmediato anterior, que contendrá por lo menos:
 
 a).- Una hoja de trabajo;
 
@@ -1390,3 +1392,41 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 14 DE FEBRERO DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 20 DE ABRIL DE 1943.
+
+DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+...
+
+###### ARTICULO 4°.
+
+Quedan igualmente derogados los artículos relativos a quiebras comprendidos en la Ley General de Instituciones de Seguros.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO 1°.
+
+La presente ley entrará en vigor a los tres meses de su publicación en el "Diario Oficial".
+
+###### ARTICULO 2°.
+
+Los procedimientos de quiebras, de liquidación judicial y de suspensión de pagos que estén en tramitación en la fecha de la publicación de la presente ley, si no quedasen concluidos en los dos meses siguientes a dicha fecha, suspenderán su tramitación y los jueces competentes tomarán las medidas necesarias en el transcurso del mes siguiente para que a la entrada en vigor de esta ley, continúen su tramitación con arreglo a la misma.
+
+###### ARTICULO 3°.
+
+La Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y los demás organismos que tengan intervención en la preparación de las listas de personas aptas para el desempeño de la sindicatura, darán cumplimiento a lo que esta ley dispone sobre el particular, para que antes de que transcurran dos meses a partir de la publicación de esta ley, queden preparadas las listas de síndicos y comunicadas por conducto regular a los tribunales y juzgados de la Federación.
+
+###### ARTICULO 4°.
+
+A aquellos matrimonios contraídos bajo los regímenes vigentes, con arreglo a la legislación anterior, a la Ley de Relaciones Familiares y al Código Civil del Distrito Federal, se les aplicarán las disposiciones del Código de Comercio vigente, en el caso de quiebra de uno o ambos cónyuges.
+
+###### ARTICULO 5°.
+
+En aquellos Estados de la República en los que no estén en vigor disposiciones equivalentes a las del Código Civil del Distrito Federal sobre regímenes matrimoniales en caso de quiebra de uno de los cónyuges, se aplicarán las disposiciones indicadas en el artículo anterior.
+
+###### ARTICULO 6°.
+
+Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden hechas respecto del Código de Procedimientos Civiles del Distrito y Territorios Federales. Esta supletoriedad es excepcional y sólo se refiere a los preceptos expresamente reglamentados por esta ley. También es temporal, en tanto que no se promulgue el Código de Procedimientos Mercantiles.
