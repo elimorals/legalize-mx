@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2000-10-18"
+last_updated: "2003-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -950,6 +950,12 @@ Las presunciones implican inversión de la carga de la prueba o exclusión de pr
 ###### ARTICULO 107.
 
 Los indicios son hechos conocidos de los que se infiere lógicamente, la existencia de los hechos que se pretende acreditar.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 107 Bis.
+
+Para los efectos del procedimiento penal, se consideran indicios, entre otros, las videograbaciones, incluidos los registros de audio, que por cualquier medio tecnológico a su alcance, obtengan los cuerpos de seguridad pública del Estado en el cumplimiento de sus funciones de vigilancia, y mediante el uso de cámaras de tipo fijo o móvil, instaladas en lugares públicos y unidades móviles oficiales, debidamente identificadas, en términos de lo dispuesto por la legislación que en materia de seguridad pública emita el Estado.
 
 ### CAPITULO XI. VALOR JURIDICO DE LA PRUEBA
 
@@ -2308,3 +2314,9 @@ Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para c
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto tendrá vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2003.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
