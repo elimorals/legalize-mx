@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2003-03-20"
+last_updated: "2003-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,45 +18,27 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS, PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2006, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
-
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de marzo de 2003.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de diciembre de 2003.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Fernando DE JESUS Canales Clariond, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracción I inciso c) y 104 fracción II de la Ley Aduanera; artículo 4 de la Ley Federal de Procedimiento Administrativo; 17 al 22 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 1, 4 y 5 fracción XVI, del Reglamento Interior de la Secretaría de Economía,
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III; 5o. fracción V; 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que la industria azucarera es una actividad de alto impacto social por su producción y por el empleo que crea en el campo mexicano; que el azúcar como producto generado por ella es un bien de consumo necesario y constituye un elemento básico para la alimentación de la población de bajos ingresos por su alto contenido energético; y que las actividades que comprende, como es el caso de la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, son de interés público;
+Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
 
-Que de la industria azucarera dependen más de dos millones de mexicanos ya que genera empleos tanto en el campo como en las factorías dedicadas al procesamiento de la caña de azúcar;
+Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que el 20 de diciembre de 1993, se publicó en el Diario Oficial de la Federación el Tratado de Libre Comercio de América del Norte (TLCAN);
+Que el mecanismo de asignación del cupo de leche en polvo, es un instrumento de la política sectorial para complementar el abasto doméstico;
 
-Que como resultado de la negociación TLCAN se buscó alcanzar un equilibrio en el sector de los edulcorantes con el fin de establecer condiciones para el acceso del azúcar originaria de los Estados Unidos Mexicanos y el jarabe de maíz de alta fructosa proveniente de los Estados Unidos de América hasta llegar al libre comercio en ambos productos en enero de 2008;
+Que el 12 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se suspenden las labores de la Secretaría de Economía durante el periodo que se indica, que refiere que se considerarán como inhábiles para todos los efectos legales, los días comprendidos del 22 de diciembre de 2003 y hasta el 6 de enero de 2004, por lo que en ese periodo no correrán los plazos que establecen las leyes y los trámites inscritos en el Registro Federal de Trámites y Servicios que se llevan a cabo ante la Secretaría de Economía, en el entendido de que las unidades administrativas de ésta proveerán todo lo necesario para que, en caso de que la naturaleza del trabajo lo exija, se mantenga laborando el personal mínimo con el fin de que se atiendan los asuntos urgentes, y
 
-Que los Estados Unidos de América se han negado a dar cumplimiento a las condiciones de acceso para el azúcar mexicano en los términos establecidos e el anexo 703 del TLCAN;
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que ante el incumplimiento de los Estados Unidos de América la situación de la industria azucarera nacional se ve seriamente amenazada por las importaciones de jarabe de maíz de alta fructosa originaria de ese país al amparo del TLCAN, toda vez que al ser el azúcar y la fructosa, sustitutos perfectos para ciertos usos industriales el azúcar de producción nacional se ve desplazada, sin que los excedentes puedan exportarse en las condiciones de equilibrio previstas en el TLCAN;
-
-Que los Estados Unidos de América se han negado a dirimir, a través de los canales apropiados previstos en el TLCAN, la controversia que se ha suscitado;
-
-Que en tales circunstancias, la Convención de Viena sobre el Derecho de los Tratados, publicada en el Diario Oficial de la Federación el 14 de febrero de 1975, permite a las autoridades mexicanas adoptar las medidas necesarias para hacer frente a la situación;
-
-Que la finalidad de tales medidas es restablecer el equilibrio que se negoció en el TLCAN en el sector de los edulcorantes, mediante la suspensión de concesiones otorgadas a las importaciones de jarabe de maíz de alta fructosa;
-
-Que el 31 de diciembre de 2002, se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte;
-
-Que el artículo segundo transitorio del citado Decreto, establece que a partir del 1 de enero de 2003, la importación de mercancías originarias de Estados Unidos de América libres de arancel comprendidas entre otras, en la fracción arancelaria 1702.50.01 estará sujeta a un permiso de importación, que se otorgará en los términos y condiciones que establezca la Secretaría de Economía mediante acuerdo publicado en el Diario Oficial de la Federación, según las disposiciones legales aplicables;
-
-Que dicha disposición afecta a las industrias diferentes a la refresquera, que utilizan fructosa químicamente pura, la cual no se puede sustituir por azúcar, además de que no existe producción nacional de este tipo de fructosa ya que dichas industrias se han visto afectadas al importar fructosa químicamente pura a partir de octubre de 2002 con el pago de dicho arancel, provocando con esto, un incremento considerable a sus costos de producción afectando su competitividad, y
-
-Que la Comisión de Comercio Exterior conforme al procedimiento previsto en la Ley de la Materia, opinó favorable esta medida, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO 1o.
 
@@ -90,7 +72,9 @@ Los permisos previos que se tramiten ante la Secretaría de Economía, para la i
 
 ###### ARTICULO PRIMERO.
 
-Se establecen las reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad y para los efectos señalados en el Artículo 311 y Anexo 311 del Tratado de Libre Comercio de América del Norte.
+Los cupos mínimos que podrán ser importados de 2004 a 2007, dentro del arancel-cuota establecido para leche en polvo originaria de Estados Unidos de América, para efecto de lo dispuesto en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte, son los que se presentan en el siguiente cuadro:
+
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO UNICO.
 
@@ -174,185 +158,143 @@ II.- Tratándose de productos calificados de Canadá, el criterio para trato pre
 
 ###### ARTICULO TERCERO.
 
-Para efectos de este Acuerdo se entiende por:
+Podrán solicitar asignación directa del arancel-cuota de importación a que se refiere el presente Acuerdo:
 
-I.- Bienes, a las mercancías;
+I.- Importadores tradicionales:
 
-II.- Bienes fungibles o materiales fungibles, a los bienes o materiales que son intercambiables para efectos comerciales y cuyas propiedades son esencialmente idénticas;
+A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y en polvo, y
 
-III.- Ensamble simple, al proceso de juntar cinco o menos partes, todas extranjeras (excluyendo sujetadores tales como tornillos, pernos, etc.), por medio del atornillado, pegado, soldado, cosido, o por otros medios sin mas que un procesamiento menor;
+B. Personas físicas o morales del sector privado, que utilizan leche en polvo en sus procesos productivos, que realicen una transformación sustancial de este insumo considerando: i) sus antecedentes de asignación de cupos de leche en polvo y de preparaciones a base de productos lácteos durante el año previo; y ii) sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) de los últimos doce meses reportados, de conformidad con la hoja de requisitos anexa.
 
-IV.- Identificación física directa, a la identificación a través de examen visual u otro examen organoléptico;
+II.- Nuevos importadores:
 
-V.- Incorporado, al incorporado o unido físicamente a un bien como resultado de la producción respecto a ese bien;
+Podrán tener acceso a este cupo mediante el mecanismo de licitación pública.
 
-VI.- Material, al bien que se incorpora a otro como resultado de la producción respecto a ese otro bien, e incluye partes, ingredientes, subensambles y componentes;
+Para efectos del presente Acuerdo, se entenderá por transformación sustancial aquella en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso, tiene características distintas a las de la materia prima de donde proviene, no se puede comercializar al público como tal y se trata de una materia prima importante pero no la única.
 
-VII.- Material nacional, al material cuyo país de origen, determinado de conformidad con estas reglas, es del mismo país que en el cual el bien es producido;
+Para la empresa mencionada en el inciso A) de este artículo, la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), conforme a lo señalado en los artículos segundo y tercero de este Acuerdo; y para las empresas señaladas en el inciso B), la asignación directa se realizará a través de la DGCE, de conforme a las fórmulas establecidas por la Dirección General de Industrias Básicas (DGIB), que se señalan en el artículo cuarto de este Acuerdo, dentro de los siete días hábiles siguientes a la fecha en que la DGCE cuente con las solicitudes debidamente requisitadas para emitir la resolución correspondiente.
 
-VIII.- Material extranjero, al material cuyo país de origen, determinado de conformidad con estas reglas, no es del mismo país que en el que el bien es producido;
+La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
 
-IX.- Material indirecto, al bien utilizado en la producción, verificación o inspección de otro bien, pero que no esté físicamente incorporado en ese otro bien, o el bien utilizado en el mantenimiento de edificios o en la operación de equipo relacionado con la producción de ese otro bien, incluyendo los siguientes:
-
-a) Combustible y energía;
-
-b) Herramientas, troqueles y moldes;
-
-c) Refacciones y materiales utilizados en el mantenimiento de equipo y edificios;
-
-d) Lubricantes, grasas, materiales compuestos y otros materiales utilizados en la producción o para operar equipo y edificios;
-
-e) Guantes, anteojos, calzado, ropa, equipo y aditamentos de seguridad;
-
-f) Equipo, aparatos y aditamentos utilizados para la verificación o inspección de los bienes;
-
-g) Catalizadores y solventes, y
-
-h) Cualesquiera otros bienes que no estén incorporados en el bien pero cuyo uso en la producción del bien pueda demostrarse razonablemente que forma parte de dicha producción;
-
-X.- Mezclado, el combinado o mezclado físicamente;
-
-XI.- País parte del Tratado, a un país miembro del Tratado de Libre Comercio de América del Norte;
-
-XII.- Procesamiento menor, lo siguiente:
-
-a) La simple dilución en agua o en otra sustancia que no altere materialmente las características del bien;
-
-b) La limpieza, inclusive la remoción de óxido, grasa, pintura u otros recubrimientos;
-
-c) La aplicación de revestimientos preservativos o decorativos, incluyendo lubricantes, encapsulación protectora, pintura decorativa o preservativa, o revestimientos metálicos;
-
-d) El rebajado, limado o cortado de pequeñas cantidades de materiales excedentes;
-
-e) La descarga, recarga o cualquier otra operación necesaria para el mantenimiento del bien en buena condición;
-
-f) La dosificación, empaque, reempaque, embalaje y reembalaje;
-
-g) Las operaciones de prueba, marcado, ordenado, o clasificado;
-
-h) Las reparaciones y alteraciones, lavado, lavado de ropa, o esterilizado;
-
-i) Los procesos decorativos sobre bienes textiles tales como orilla cortada en ondas o picos, plisado, doblado y enrollado, hacer flecos o anudarlos, ribeteado con cordoncillo, dobladillado, bordados menores, pespunteado, labrado en relieve, teñido o estampado y otros procesos similares;
-
-j) Las operaciones de adorno o acabado inherentes al ensamble de una prenda, diseñadas para realzar el atractivo comercial o facilitar el cuidado del bien, tales como bordado, pespunteado y trabajo de costura de aplicaciones, lavado con piedra o ácido, estampado y teñido de la pieza, pre-encogido y planchado permanente, pegado de accesorios, ribeteado, así como operaciones similares;
-
-XIII.- Producción, al cultivo, extracción, cosecha, pesca, caza, manufactura, procesamiento o ensamblado de un bien;
-
-XIV.- Reglamentaciones Uniformes del Capítulo IV, a las Reglamentaciones Uniformes para la Interpretación, Aplicación y Administración del Capítulo IV del Tratado de Libre Comercio de América del Norte;
-
-XV.- Reparaciones y alteraciones, a aquellas que no incluyen operaciones o procesos que destruyan las características esenciales del bien o lo conviertan en un bien nuevo o comercialmente diferente, en los términos del Artículo 318 del Tratado de Libre Comercio de América del Norte;
-
-XVI.- Transformación sustancial, a la producción que da como resultado un bien nuevo y diferente, con un nuevo nombre, nueva característica y nuevo uso;
-
-XVII.- Sistema Armonizado, al Sistema Armonizado de Designación y Codificación de Mercancías, incluyendo sus Reglas Generales, Notas de Sección y Notas de Capítulo, tal como ha sido adoptado e instrumentado en la Ley del Impuesto General de Importación;
-
-XVIII.- Un bien obtenido o producido en su totalidad en un país, lo siguiente:
-
-a) Un bien mineral extraído en ese país;
-
-b) Un bien vegetal o una planta cosechado en ese país;
-
-c) Un animal vivo, nacido y criado en ese país;
-
-d) Un bien obtenido de la caza o de la pesca en ese país;
-
-e) Un bien (peces, crustáceos y otras especies marinas) obtenido del mar por barcos registrados o matriculados por ese país y que lleven su bandera;
-
-f) Un bien producido a bordo de barcos-fábrica a partir de los bienes identificados en el inciso e), siempre que tales barcos-fábrica estén registrados o matriculados por ese país y que lleven su bandera;
-
-g) Un bien obtenido por ese país o por persona de ese país del lecho o del subsuelo marino fuera de sus aguas territoriales, siempre que ese país tenga derechos para explotar dicho lecho o subsuelo marino;
-
-h) Un bien obtenido del espacio extraterrestre, siempre que sea obtenido por ese país o por persona de ese país;
-
-i) Los desechos y desperdicios derivados de:
-
-i) La producción en ese país, o
-
-ii) Los bienes usados recolectados en territorio de ese país, siempre que dichos bienes sean utilizados sólo para la recuperación de materias primas;
-
-j) Un bien producido en ese país exclusivamente a partir de los bienes mencionados en los incisos a) a i), o de sus derivados, en cualquier etapa de la producción, y
-
-XIX.- Valor, con respecto al artículo quinto de este Acuerdo, lo siguiente:
-
-a) En el caso de un bien, su valor en aduana o su valor de transacción determinado de acuerdo con el Anexo VIII de las Reglamentaciones Uniformes del Capítulo IV, con la salvedad de que las referencias en ese Anexo a materiales deberán entenderse como referencias a bienes.
-
-b) En el caso de un material, su valor en aduana o su valor de transacción determinado de acuerdo con el Anexo VIII de las Reglamentaciones Uniformes del Capítulo IV.
+La vigencia máxima de los certificados de cupo será al 31 de diciembre de cada año.
 
 ###### ARTICULO CUARTO.
 
-La determinación del país de origen de los bienes se realizará de conformidad con lo siguiente:
+Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso B) del artículo tercero del cupo a que se refiere el presente Acuerdo, considerando lo siguiente:
 
-I.- El país de origen de un bien será aquel país en donde ocurra cualquiera de los siguientes supuestos:
+Para establecer el tipo de empresas beneficiarias, se determinará un nivel de referencia equivalente al 30 por ciento de su consumo auditado de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) durante el periodo reportado, el cual será calculado aplicando la siguiente fórmula:
 
-a) Que el bien sea obtenido o producido en su totalidad;
+(VEASE ARCHIVO ANEXO)
 
-b) Que el bien sea producido exclusivamente a partir de materiales nacionales;
+Los criterios de asignación aplicables a las empresas solicitantes de este cupo, son los que a continuación se indican:
 
-c) Que cada uno de los materiales extranjeros incorporados en ese bien cumpla con el cambio de clasificación arancelaria aplicable establecido en el Anexo de Reglas Específicas a este Acuerdo y satisfaga cualquier otro requisito aplicable en dicho Anexo, y se satisfagan todos los otros requisitos aplicables de estas reglas;
+I. Para las empresas con un consumo de materias primas lácteas importadas durante el periodo previo reportado (últimos doce meses) bajo cupo (obtenido por asignación directa y/o licitación pública), inferior o igual a su nivel de referencia, se asignará la menor de las dos cantidades siguientes:
 
-II.- Cuando el país de origen no pueda ser determinado de conformidad con la fracción I de este artículo, el país de origen del bien será:
+a. Su nivel de referencia, 30 por ciento de su consumo auditado de materias primas lácteas durante el periodo reportado (últimos doce meses), o
 
-a) El país o países de origen del material individual que confiera el carácter esencial al bien;
+b. La cantidad que resulte mayor de: i) el monto total de los cupos de materias primas lácteas autorizados en el año previo por asignación directa y/o licitación pública, más un 10 por ciento o ii) el monto programado en el año previo de leche en polvo y preparaciones a base de productos lácteos*.
 
-b) El país o países de origen, determinado con base en un método de control de inventarios, cuando el material que confiera el carácter esencial al bien sea un material fungible, haya sido mezclado y la identificación física directa del país de origen del material mezclado no sea práctica. Para tales efectos, los métodos de control de inventarios aceptables serán los mismos que los establecidos para efectos de determinar si un bien o un material es originario de conformidad con las reglas de origen establecidas en el Capítulo IV del Tratado de Libre Comercio de América del Norte.
+* Para 2004 se refiere a la cantidad anual estimada para la asignación del tercer cuatrimestre de 2003, para cada uno de los solicitantes, con base en sus consumos de materias primas lácteas; para los años subsecuentes se refiere a la cantidad anual estimada para el año previo para cada uno de los solicitantes.
 
-Lo dispuesto en esta fracción no será aplicable para un bien descrito específicamente como un juego o conjunto conforme a la nomenclatura de la Tarifa de la Ley del Impuesto General de Importación o un bien cuya clasificación arancelaria sea la de un juego o conjunto según lo dispuesto en la Regla General 3 contenida en el artículo 2o. de la Ley citada;
+En ambos casos, el resultado se ajustará por:
 
-III.- Cuando el país de origen no pueda determinarse de conformidad con lo dispuesto en las fracciones I y II de este artículo y el bien cuya descripción conforme a la nomenclatura de la Tarifa de la Ley del Impuesto General de Importación sea específicamente la de un juego o conjunto o una mezcla, o cuya clasificación arancelaria sea la de un juego o conjunto, una mezcla o un bien compuesto según lo dispuesto en la Regla General 3 contenida en el artículo 2o. de la Ley citada, el país de origen del bien será el país o países de origen de todos los materiales que ameriten la misma consideración para determinar el carácter esencial del bien;
+- la proporción de los cupos de importación de leche en polvo asignados a la empresa respecto del total de los cupos de importación de materias primas lácteas (leche en polvo y preparaciones a base de productos lácteos) asignados a la empresa en el año previo;
 
-IV.- Cuando el país de origen del bien no pueda determinarse de conformidad con lo dispuesto en las fracciones I a III de este artículo, el país de origen del bien será:
+- la participación del cupo TLCAN, descrito en el inciso B del cuadro del artículo segundo de este Acuerdo, respecto al monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para el sector privado en cada año, y
 
-a) El último país en el cual el bien sufrió un proceso de producción, distinto de un ensamble simple o de un procesamiento menor;
+- la distribución estacional de la asignación de cupos de importación por cuatrimestre.
 
-b) Cuando el bien sea producido por ensamble simple, el país de origen será el que corresponda de los siguientes:
+La fórmula que se aplicará para este grupo será la siguiente:
 
-1.- El país en el cual el bien sea ensamblado, cuando las partes del bien que ameriten la misma consideración para impartir al mismo su carácter esencial no tengan el mismo país de origen.
+(VEASE ARCHIVO ANEXO)
 
-2.- El país de origen de las partes ensambladas al bien, cuando las partes del bien que ameriten la misma consideración para impartir al mismo su carácter esencial tengan el mismo país de origen.
+Notas:
+
+- Para 2004 la asignación directa de leche en polvo del año previo, sólo incluirá la asignación de cupos mínimos TLCAN y OMC, y cupo adicional OMC.
+
+- De 2005 a 2007 el programa se refiere al monto determinado mediante la aplicación de la fórmula en el año previo.
+
+- En los casos de asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permita al solicitante hacer económicamente viable la importación.
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de materias primas lácteas reportado en el año previo.
+
+II. Para las empresas con un consumo de materias primas lácteas importadas durante el periodo previo reportado (últimos doce meses) bajo cupo (obtenido por asignación directa y/o licitación pública), superior a su nivel de referencia, se asignará la mayor de las dos cantidades siguientes:
+
+a. Su nivel de referencia, 30 por ciento de su consumo auditado de materias primas lácteas durante el periodo reportado (últimos doce meses), o
+
+b. La cantidad que resulte menor de: i) el monto total autorizado en el año previo del cupo de leche en polvo y del cupo unilateral de preparaciones a base de productos lácteos obtenidos por asignación directa, menos un 10 por ciento; o, ii) el monto del programa de asignación directa de leche en polvo y de preparaciones a base de productos lácteos del año previo*.
+
+* Para 2004 se refiere a la cantidad anual estimada para la asignación del tercer cuatrimestre de 2003, para cada uno de los solicitantes, con base en sus consumos de materias primas lácteas; para los años subsecuentes se refiere a la cantidad anual estimada para el año previo para cada uno de los solicitantes.
+
+En ambos casos, el resultado se ajustará por:
+
+- la proporción de los cupos de importación de leche en polvo asignados a la empresa respecto del total de los cupos de importación de materias primas lácteas (leche en polvo y preparaciones a base productos lácteos) asignados a la empresa en el año previo;
+
+- la participación del cupo TLCAN, descrito en el inciso B del cuadro del artículo segundo de este Acuerdo, respecto del monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para el sector privado en cada año, y
+
+- la distribución estacional de la asignación de cupos de importación por cuatrimestre.
+
+La fórmula que se aplicará para este grupo será la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Notas:
+
+- Para 2004 la asignación directa de leche en polvo del año previo, sólo incluirá la asignación de cupos mínimos TLCAN y OMC, y cupo adicional OMC.
+
+- De 2005 a 2007 el programa se refiere al monto determinado mediante la aplicación de la fórmula en el año previo.
+
+- En los casos de asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permita al solicitante hacer económicamente viable la importación.
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de materias primas lácteas reportado en el año previo.
+
+III. Empresas industriales que utilizan leche en polvo en sus procesos productivos, sin antecedentes, que obtuvieron asignación de cupo en el año previo, sólo a través de licitación pública, se asignará un monto anual equivalente al 80 por ciento del volumen total obtenido por licitación pública en el año previo:
+
+La fórmula que se aplicará para este grupo será la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Nota:
+
+- En los casos de asignaciones de cupo menores a 20 toneladas por cuatrimestre, se podrá conceder la consolidación de las asignaciones de cupo de dos cuatrimestres seguidos, que permitan al solicitante hacer económicamente viable la importación.
+
+Para la aplicación de los criterios y fórmulas que se mencionan en este artículo, la Dirección General de Comercio Exterior, podrá solicitar la interpretación de la Dirección General de Industrias Básicas.
 
 ###### ARTICULO QUINTO.
 
-Para efectos de determinar el país de origen de bienes fungibles que tengan diferentes países de origen y se encuentren mezclados, el país de origen será:
-
-I.- Los países de origen de todos aquellos bienes que se encuentren mezclados.
-
-II.- Cuando la identificación física directa del país de origen del bien mezclado no es práctica, el país o países de origen podrá determinarse conforme a los métodos de control de inventarios aceptables a que se refiere el inciso b) de la fracción II del artículo cuarto de este Acuerdo.
+Los beneficiarios señalados en fracción I, inciso B) del artículo tercero de este Acuerdo, estarán obligados a presentar dentro de los treinta días posteriores al vencimiento de sus certificados de cupo, un reporte para tener acceso a la siguiente asignación después de dicho plazo. El reporte deberá contener los siguientes datos: i) el monto del cupo de leche en polvo asignado de manera directa o por licitación pública; ii) los consumos de materias primas lácteas (leche fluida, leche en polvo, preparaciones a base de productos lácteos, suero de leche y crema de leche) de procedencia nacional, y iii) los volúmenes importados de estos insumos y su consumo en los procesos productivos de la empresa.
 
 ###### ARTICULO SEXTO.
 
-No obstante cualquier disposición en contrario de estas reglas y sin perjuicio de lo dispuesto en las fracciones I y II del artículo cuarto o en el artículo octavo de este Acuerdo, tratándose de bienes considerados como originarios conforme a las reglas establecidas en el Capítulo IV del Tratado señalado, cuando no pueda determinarse que el país de origen de ese bien sea un solo país Parte del Tratado de referencia de conformidad con las fracciones I y II del artículo cuarto de este ordenamiento, el país de origen del bien será el último país Parte del Tratado en el cual el bien sufrió un proceso de producción, distinto a un procesamiento menor, siempre que se hubiere llenado y firmado un certificado de origen válido para el bien en cuestión.
+Las solicitudes de asignación directa, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo” en la Representación Federal de esta Secretaría que le corresponda. La hoja de requisitos específicos se establece como anexo al presente Acuerdo.
 
 ###### ARTICULO SEPTIMO.
 
-Tratándose de materiales extranjeros que no cumplan con el cambio de clasificación arancelaria aplicable establecido en el Anexo de Reglas Específicas, o no satisfagan otros requisitos aplicables de dicho Anexo cuando sean incorporados a un bien, para determinar el país de origen del bien, se estará a lo siguiente:
-
-I.- Tales materiales no se tomarán en cuenta si el valor de todos ellos no excede al 7 por ciento del valor del bien, salvo que se trate de materiales que se incorporen en un bien clasificado dentro de los Capítulos 1, 2, 3, 4, 7, 8, 11, 12, 15, 17 o 20 del Sistema Armonizado.
-
-II.- Si los materiales o componentes en cuestión son incorporados a un bien clasificado en los Capítulos 50 a 63 del Sistema Armonizado, no se tomarán en cuenta para determinar el país de origen del bien si el peso total de esos componentes o materiales no es mayor al 7 por ciento del peso total del bien.
+Las licitaciones públicas previstas en el artículo segundo de este Acuerdo, se sujetarán a las bases que establezca la convocatoria correspondiente, la cual deberá ser publicada en el Diario Oficial de la Federación, por la Dirección General de Comercio Exterior, por lo menos 20 días hábiles antes de que inicie el periodo de registro de solicitudes, en la que se establecerá la fecha en que se pondrán a disposición de los interesados las bases correspondientes.
 
 ###### ARTICULO SEGUNDO.
 
-La aplicación de las disposiciones de este Acuerdo se realizará sin perjuicio de las demás disposiciones aplicables a la forma y otros requisitos de marcado o etiquetado de las mercancías.
+Con el objeto de complementar el abasto doméstico de leche en polvo, para el periodo 2004 al 2007 se aplicará el mecanismo de asignación mixto (asignación directa y licitación pública) al cupo mínimo correspondiente a cada año y referidos en el presente Acuerdo, conforme al cuadro siguiente:
+
+(VEASE ARVHIVO ANEXO)
 
 ###### ARTICULO OCTAVO.
 
-Sin perjuicio de lo dispuesto en la Ley Aduanera, cuando conforme a lo dispuesto en los artículos cuarto o décimo primero de este Acuerdo, se determine que un bien procesado fuera de México es un bien de México, esa determinación no será tomada en cuenta y el país de origen del bien será el último país Parte del Tratado donde el bien tuvo un proceso de producción, distinto al procesamiento menor.
+Pueden participar en las licitaciones públicas las personas físicas o morales establecidas en México, que utilizan leche en polvo en sus procesos productivos y que realicen una transformación sustancial de este insumo, de conformidad con lo establecido en el artículo tercero de este Acuerdo.
+
+Los interesados en participar en las licitaciones públicas, deberán presentar su oferta en la forma SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, adjuntando la documentación que corresponda conforme se señale en las bases de cada licitación.
+
+La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
 
 ###### ARTICULO NOVENO.
 
-Cuando un bien que por aplicación de estas reglas de marcado se considere como un bien de un país Parte del Tratado, sea procesado con posterioridad en un país que no sea Parte del Tratado y exportado a territorio de México, el país de origen del bien importado a México será determinado a través de la aplicación de estas reglas, salvo que otras disposiciones legales así lo determinen.
+Una vez obtenido el monto para importar dentro del cupo mínimo por el mecanismo de asignación directa, la Secretaría expedirá los respectivos certificados de cupo, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
+
+Una vez demostrado el pago de adjudicación del monto para importar dentro del cupo mínimo, obtenido a través del mecanismo de licitación pública, conforme lo establezcan las bases de la propia licitación, la Secretaría de Economía expedirá los respectivos certificados de cupo, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, previa solicitud del interesado a través del formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”. El certificado de cupo es nominativo e intransferible y deberá ser retornado a la oficina que lo expidió, dentro de los quince días siguientes al término de su vigencia.
 
 ###### ARTICULO DECIMO.
 
-Para los efectos del presente Acuerdo, los siguientes materiales no se tomarán en cuenta para determinar si un material extranjero cumple con el cambio de clasificación arancelaria establecido en el Anexo de reglas específicas y satisface los otros requisitos aplicables de ese Anexo:
-
-I.- Materiales de empaque y envases en los que un bien es acondicionado para su venta al menudeo siempre que sean clasificados junto con el bien;
-
-II.- Accesorios, refacciones o herramientas entregados con el bien siempre que sean clasificados junto con el bien y embarcados con el mismo;
-
-III.- Materiales de empaque y contenedores en los que el bien es empacado para su embarque, y
-
-IV.- Materiales indirectos.
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica: www.cofemer.gob.mx
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -476,8 +418,34 @@ Lo dispuesto en el presente ordenamiento no libera del pago de Cuotas Compensato
 
 Las disposiciones del presente Decreto no liberan del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-México, D.F., a 11 de marzo de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+SEGUNDO.- Lo dispuesto en el artículo 2o. del Acuerdo por el que se suspenden las labores de la Secretaría de Economía durante el periodo que se indica, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2003, no aplicará respecto al periodo de recepción de solicitudes a que se refiere el inciso A) del artículo segundo del presente instrumento ni sobre la expedición de las resoluciones correspondientes.
+
+México, D.F., a 15 de diciembre de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+
+SECRETARIA DE ECONOMIA
+
+DIRECCION GENERAL DE COMERCIO EXTERIOR
+
+REQUISITOS PARA LA ASIGNACION DEL CUPO MINIMO PARA IMPORTAR EN EL PERIODO 2004-2007
+
+LECHE EN POLVO (0402.10.01 Y 0402.21.01)
+
+ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA
+
+Asignación Directa 1/1
+
+(VEASE ARCHIVO ANEXO)
+
+(1) El auditor externo deberá indicar su número de registro y firmar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de cupo de importación de leche en polvo OMC y/o TLCAN.
+
+(2) Esta información deberá actualizarse cada vez que la empresa modifique sus condiciones de operación reportadas.
+
+(3) Se deberá utilizar el factor de equivalencia acordado por los integrantes de la cadena productiva de leche y derivados lácteos. Esta información deberá presentarse también en archivo electrónico, mediante la entrega de diskette de 3.5” o CD.
+
+* No se menciona a la empresa del Sector Público porque no se sujeta a estos requisitos.
+
+NOTA: La Secretaría de Economía de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo, podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo. En caso de incumplimiento, se aplicarán las sanciones establecidas en la legislación de la materia.
