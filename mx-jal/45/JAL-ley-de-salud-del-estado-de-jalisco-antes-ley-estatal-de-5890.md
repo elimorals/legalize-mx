@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2004-09-28"
+last_updated: "2004-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -425,6 +425,14 @@ IV. Consejo Estatal de Trasplantes, y
 
 V. Comisión de Arbitraje Médico del Estado de Jalisco.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2004)</small>
+
+Art. 18 ter.- Los profesionales, técnicos, auxiliares y prestadores de servicio social que forman parte del Sistema Estatal de Salud, podrán hacer valer la objeción de conciencia y excusarse de participar en todos aquellos programas, actividades, prácticas, tratamientos, métodos o investigaciones que contravengan su libertad de conciencia con base en sus valores, principios éticos o creencias religiosas.
+
+Cuando la negativa del objetor de conciencia implique poner en riesgo la salud o vida del paciente, sin que éste pueda ser derivado a otros integrantes del sistema de salud que lo atiendan debidamente, el objetor no podrá hacer valer su derecho y deberá aplicar las medidas médicas necesarias; en caso de no hacerlo, incurrirá en causal de responsabilidad profesional.
+
+La Secretaría de Salud emitirá las disposiciones y lineamientos para manifestar la objeción a que se refiere este artículo, sin que estas disposiciones puedan limitar el ejercicio de este derecho o generar discriminación en el empleo hacia quien lo haga valer.
+
 ## TITULO TERCERO. Servicios de salud
 
 ### CAPITULO I. Disposiciones comunes
@@ -532,6 +540,22 @@ Las autoridades sanitarias estatales, en coordinación con las autoridades feder
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2004)</small>
+
+###### Art. 27 Bis.
+
+Las instituciones de salud de los sectores público, social y privado acondicionarán en sus instalaciones, centros de recreo para el esparcimiento de enfermos internos en sus clínicas y hospitales.
+
+La ludoteca estará proyectada para fortalecer el estado de ánimo de los enfermos y podrán operarse con prestadores de servicio social.
+
+Con la finalidad de alcanzar los propósitos establecidos en este artículo, la Secretaría de Salud de Jalisco, procurará suscribir convenios de colaboración con el Sistema Nacional de Bibliotecas, videotecas, casas editoriales o librerías; así como con establecimientos especializados en la elaboración y venta de juguetes, especialmente didácticos, para dotar de material a los espacios de recreo que se establezcan en las instituciones de salud públicos o del sector social.
+
+Las ludotecas atenderán preferentemente a niños, discapacitados, adultos mayores y demás enfermos, en ese orden.
+
+Cubiertas las necesidades de recreación de los internos, se podrán establecer ludotecas para la atención de niños y adolescentes que aguarden en salas de espera de clínicas u hospitales.
+
+El cumplimiento de las obligaciones a que se señalan en este artículo estará condicionado a la disponibilidad de espacios adecuados y recursos presupuestales y financieros con que cuenten las instituciones de que se trate.
 
 #### SECCION TERCERA. De la nutrición
 
@@ -1545,7 +1569,9 @@ I. Promoción de hábitos de conducta que contribuyan a proteger y solucionar pr
 
 II. Colaboración en la prevención o tratamiento en problemas ambientales vinculados a la salud;
 
-III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2004)</small>
+
+III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, participación en de operación de los servicios de salud, así como de apoyo en ludotecas y otros servicios análogos, siempre que sean conformes al perfil y conocimientos del sujeto y bajo la dirección y control de las autoridades correspondientes;
 
 IV. Información de la existencia de personas que requieran de servicios de salud, cuando aquellas se encuentren impedidas de solicitar auxilio;
 
@@ -2081,15 +2107,23 @@ La asignación de los premios será determinada por la votación de jurados que 
 
 Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social, en los términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2004)</small>
+
+Para la satisfacción de los requerimientos de las instituciones de salud, los pasantes de áreas diversas a las ciencias de la salud, podrán prestar su servicio social en las áreas afines a su formación profesional, tales como mantenimiento, administración y contabilidad, ludotecas, bibliotecas, informáticas y otras que requieran de su participación.
+
 ###### Art. 111.
 
 Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorguen las disposiciones que fijen su organización y funcionamiento, y lo que determinen las autoridades educativas competentes.
 
 La operación de los programas en los establecimientos de salud del Estado, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2004)</small>
+
 ###### Art. 112.
 
-Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias del estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+Para la eficaz prestación del servicio social de pasantes, se establecerán mecanismos de coordinación entre las autoridades sanitarias y educativas del Estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+
+Los mismos mecanismos se establecerán para la prestación del servicio social de los alumnos de educación media superior, procurando enfocar su participación en áreas de recreación y ecología.
 
 ###### Art. 113.
 
@@ -2098,6 +2132,10 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 > <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la Organización y operación de los Comités de Salud a que se refiere el Art. 102 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2004)</small>
+
+La prestación del servicio social de pasantes de licenciaturas diversas a las ciencias de la salud y alumnos de educación media superior, se encauzará preferentemente a requerimientos cuya atención esté relacionada a su formación académica, incluyendo la administración y servicios tales como ludotecas y bibliotecas.
 
 #### SECCION PRIMERA. Disposiciones generales
 
@@ -3692,5 +3730,19 @@ SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulac
 P.O. 28 DE SEPTIEMBRE DE 2004.
 
 DECRETO 20592 QUE ADICIONA DOS PARRAFOS A LA FRACCION I DEL ARTICULO 60 DE LA LEY ESTATAL DE SALUD
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE OCTUBRE DE 2004.
+
+DECRETO NO. 20605 QUE ADICIONA EL ARTICULO 18 TER A LA LEY ESTATAL DE SALUD.
+
+PRIMERO.- El presente decreto entrará en vigor a los 120 días naturales de haber sido publicado en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- La Secretaría de Salud Jalisco deberá emitir las disposiciones y lineamientos a que se refiere este decreto antes de la entrada en vigor del mismo.
+
+P.O. 7 DE OCTUBRE DE 2004.
+
+DECRETO 20606 QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY ESTATAL DE SALUD
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
