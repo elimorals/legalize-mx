@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-de-maquinaria-naval-12525"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-09"
-last_updated: "1998-11-09"
+last_updated: "1999-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12525&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-02"
 
 REGLAMENTO DE LA ESCUELA DE MAQUINARIA NAVAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1999.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 9 de noviembre de 1998.
 
@@ -241,7 +241,9 @@ El Jefe de Servicios corresponderá a la categoría de Oficial, designado por el
 
 I.- Ser responsable de que se proporcionen en cantidad y calidad los servicios de administración, alimentación, transportes, agua, sanidad, sastrería, lavandería, peluquería, zapatería y otros que se requieran para el buen funcionamiento de la escuela;
 
-II.- Planear, organizar y dirigir el mantenimiento de la infraestructura, así como el mantenimiento y la operación de las instalaciones, maquinaria y equipo de la escuela de acuerdo al calendario de actividades académicas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1999)</small>
+
+II.- Planear, organizar y dirigir la conservación de la infraestructura, la operación de la maquinaria y equipo de la escuela, así como el mantenimiento de las instalaciones de redes eléctricas, hidráulicas y sanitarias, de acuerdo al calendario de actividades de la escuela;
 
 III.- Ser el responsable directo del ejercicio del presupuesto autorizado;
 
@@ -267,9 +269,11 @@ XIII.- Las demás que le confieren las leyes, reglamentos y disposiciones del ma
 
 ### CAPÍTULO V. Del orden y sucesión de mando
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 10.
 
-Las ausencias del Director serán suplidas por el Subdirector, a falta de éste por el Comandante del Cuerpo de Alumnos.
+Las ausencias temporales del Director serán suplidas por el Subdirector, y a falta de éste por el Comandante del Cuerpo de Alumnos.
 
 ## TÍTULO CUARTO. Régimen Interior
 
@@ -319,9 +323,11 @@ El ingreso a la Escuela de Maquinaria Naval se sujetará a las normas contenidas
 
 El personal que haya causado alta en la Armada de México como alumnos firmará un contrato conforme a los artículos 59 y 65 de la Ley Orgánica de la Armada de México en el que se establezcan las condiciones y términos del mismo, y por lo tanto quedan sujetos a las leyes, reglamentos y disposiciones navales y militares vigentes.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 15.
 
-Al ingresar a la Escuela de Maquinaria Naval los alumnos efectuarán un curso de adiestramiento básico naval militar con una duración de tres meses en las instalaciones de la Heroica Escuela Naval Militar, de acuerdo con lo establecido en el Plan General de Educación Naval.
+Al ingresar a la Escuela de Maquinaria Naval los alumnos efectuarán un curso de adiestramiento básico naval militar con una duración de tres meses en las instalaciones de la Heroica Escuela Naval Militar, de acuerdo con lo establecido en el Plan General de Educación Naval, y jurarán bandera en una ceremonia solemne el 24 de febrero.
 
 ###### Artículo 16.
 
@@ -351,7 +357,9 @@ I.- Cumplir las disposiciones que se dicten relacionadas con el régimen interio
 
 II.- Conocer la escala jerárquica de las Fuerzas Armadas Mexicanas y la interior del Cuerpo de Alumnos, debiendo guardar a los rangos superiores, subordinados o iguales el respeto debido, como la base fundamental de la disciplina naval;
 
-III.- Observar buena conducta militar y civil, así como cumplir íntegramente con sus clases, tareas, prácticas clínicas y actividades encomendadas por los profesores e instructores, de conformidad con los programas de estudio;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1999)</small>
+
+III.- Observar buena conducta militar y civil, así como cumplir íntegramente con sus clases, tareas, prácticas y actividades encomendadas por los profesores e instructores, de conformidad con los programas de estudio;
 
 IV.- Mantener en buen estado el armamento, correaje, vestuario, material didáctico y equipo que se les haya ministrado;
 
@@ -391,27 +399,37 @@ III.- Expresarse dolosa y tendenciosamente ya sea de palabra o por escrito, acer
 
 Los alumnos con grado no tendrán familiaridades con los demás alumnos ni abusarán de su jerarquía; serán los responsables de conservar la disciplina y supervisar el cumplimiento de las órdenes y disposiciones superiores.
 
-### CAPÍTULO III. De los alumnos de nacionalidad extranjera
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 25 DE MAYO DE 1999)</small>
+
+### CAPÍTULO III. De los becarios de nacionalidad extranjera
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 25.
 
-Los alumnos extranjeros son todos aquellos militares o civiles que, previo trámite de sus gobiernos, ingresan a la Escuela de Maquinaria Naval para realizar sus estudios en ella.
+Los becarios de nacionalidad extranjera son todos aquellos militares o civiles que, previo trámite de sus gobiernos, ingresan a la Escuela de Maquinaria Naval para realizar sus estudios en ella.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 26.
 
-Durante su estancia en la Escuela de Maquinaria Naval se uniformarán y se comportarán como alumnos nacionales quedando sujetos al presente Reglamento y demás disposiciones disciplinarias vigentes.
+Durante su estancia en la Escuela de Maquinaria Naval se uniformarán y se comportarán como alumnos quedando sujetos a las disposiciones que rigen a éstos y las demás disposiciones disciplinarias vigentes, salvo lo contenido en el artículo 14 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 27.
 
-Los alumnos extranjeros no jurarán Bandera y dentro del régimen interno sólo podrán ser ascendidos hasta la jerarquía de aspirante de segunda; asimismo, no formarán parte de la escolta de la Bandera ni desempeñarán el puesto de centinela en la Sala de Banderas.
+Los becarios de nacionalidad extranjera no jurarán Bandera y dentro del régimen interno sólo podrán ser ascendidos hasta la jerarquía de aspirante de segunda; asimismo, no formarán parte de la escolta de la Bandera ni desempeñarán el puesto de centinela en la Sala de Banderas.
 
 ###### Artículo 28.
 
 Seis meses antes de terminar sus estudios en la Escuela de Maquinaria Naval, sus gobiernos deberán informar por escrito al Estado Mayor General de la Armada, si desean o no realizar sus prácticas profesionales en las unidades de superficie de la Armada de México.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 29.
 
-La Dirección General de Educación Naval rendirá mensualmente un informe al Estado Mayor General de la Armada, acerca del comportamiento y aprovechamiento de los alumnos de nacionalidad extranjera.
+La Dirección General de Educación Naval rendirá mensualmente un informe al Estado Mayor General de la Armada acerca del comportamiento y aprovechamiento de los becarios extranjeros.
 
 ###### Artículo 30.
 
@@ -559,9 +577,11 @@ Los alumnos que pertenezcan al "Grupo de Alumnos Distinguidos" tendrán derecho 
 
 Los alumnos que a criterio de la Dirección y a propuesta del Comandante del Cuerpo de Alumnos reúnan aptitud para el mando, tengan buen aprovechamiento académico y buena conducta civil y militar, serán promovidos al grado inmediato, de acuerdo a la planilla orgánica del Cuerpo de Alumnos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 49.
 
-Los alumnos de la escuela los ostentarán como grados jerárquicos interiores, que constituirá las clases de alumnos siguientes:
+Dentro de la organización interior de la escuela los alumnos podrán ostentar las jerarquías de clases de alumnos siguientes:
 
 I.- Alumno de primera;
 
@@ -570,6 +590,8 @@ II.- Cabo de alumnos;
 III.- Aspirante de segunda, y
 
 IV.- Aspirante de primera, que invariablemente pertenecerán al último año lectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 50.
 
@@ -589,9 +611,11 @@ Los alumnos podrán hacerse acreedores a las recompensas establecidas en la Ley 
 
 El alumno que haya obtenido durante los tres años de carrera el primer premio tendrá derecho a que se le otorgue una Mención Honorífica y aquéllos que hayan obtenido combinados los primeros y segundos premios o solamente segundos premios en los tres años de estudios tendrán derecho a una citación.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 54.
 
-El alumno que haya acumulado la mayor puntuación deportiva durante los tres años de permanencia en la escuela tendrá derecho a la Condecoración al Mérito Deportivo Naval de Segunda Clase y el alumno que en competencias nacionales rompa el récord nacional, forme parte de una selección nacional en competencias interiores representando a la Escuela de Maquinaria Naval y obtenga algún premio se hará acreedor a la Condecoración al Mérito Deportivo Naval de Primera Clase, mismas que se le harán entrega en la ceremonia de graduación.
+El alumno que haya acumulado la mayor puntuación deportiva durante los tres años de permanencia en la escuela tendrá derecho a la Condecoración al Mérito Deportivo Naval de Segunda Clase y el alumno que en competencias nacionales rompa el récord nacional, forme parte de una selección nacional en competencias internacionales representando a la Escuela de Maquinaria Naval y obtenga algún premio se hará acreedor a la Condecoración al Mérito Deportivo Naval de Primera Clase, mismas que se le harán entrega en la ceremonia de graduación.
 
 ## TÍTULO QUINTO. De la enseñanza y evaluación académica
 
@@ -846,3 +870,9 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 25 DE MAYO DE 1999.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
