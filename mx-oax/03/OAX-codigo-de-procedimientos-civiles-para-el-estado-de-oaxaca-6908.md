@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1944-11-30"
+last_updated: "1949-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1949.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -315,7 +315,7 @@ Siempre que dos o más personas ejerciten una misma acción u opongan la misma e
 
 Mientras continúe el procurador o el representante común en su cargo, los emplazamientos, notificaciones y citaciones de todas clases que se le hagan, tendrán la misma fuerza que si se hicieren a los representados, sin que le sea permitido pedir que se entiendan con éstos.
 
-### CAPITULO Il. Del despacho de los negocios
+### CAPITULO II. Del despacho de los negocios
 
 ###### Artículo 53.
 
@@ -1309,9 +1309,11 @@ Si el acreedor estuviere ausente o fuere incapaz, será citado su representante 
 
 Si el acreedor fuere desconocido, se le citará en la forma prevenida por el artículo 115 y por el plazo concedido por el juez que no podrá exceder de sesenta días.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1949)</small>
+
 ###### Artículo 218.
 
-Si el acreedor no comparece en el día, hora y lugar designados, o no envía procurador con autorización bastante que reciba la cosa, el juez extenderá certificación en que consten la no comparecencia del acreedor, la descripción de la cosa ofrecida y que quedo constituido el depósito en la persona o establecimiento designado por el juez o por la ley.
+Si el acreedor no comparece en el día, hora y lugar designados, o no envía procurador con autorización bastante que reciba la cosa, el Juez extenderá certificación en que consten la no comparecencia del acreedor, la descripción de la cosa ofrecida y que fue hecho el depósito en las oficinas del Monte de Piedad del Estado, o en las sucursales del mismo. El Juez mandará agregar a los autos el certificado de depósito, bajo su absoluta y personal responsabilidad.
 
 ###### Artículo 219.
 
@@ -5666,3 +5668,9 @@ Oaxaca de Juárez, a veintinueve de mayo de mil novecientos cuarenta y cuatro.
 El Secretario General del Despacho, Lic. Raymundo Manzano Trovamala.
 
 Al C..
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 31 DE DICIEMBRE DE 1949.
+
+UNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial.
