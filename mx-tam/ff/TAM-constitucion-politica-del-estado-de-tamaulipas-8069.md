@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1951-09-19"
+last_updated: "1953-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1087,7 +1087,7 @@ Los delitos de cohecho, soborno o prevaricación, producen acción popular contr
 
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia del Estado, se compone de tres Magistrados que funcionarán en Acuerdo Pleno o por Salas en la forma que determine la Ley, y además de un Magistrado Supernumerario que, con carácter permanente, funcionará con las facultades que la ley le señala.
+El Supremo Tribunal de Justicia se compone de cuatro Magistrados, que funcionarán en acuardo (sic) pleno o por Salas en la forma que determine la Ley.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1121,9 +1121,11 @@ V. No ser militar ni ministro de algún culto, esté o no en ejercicio.
 
 VI. No haber sido condenado por algún delito grave del orden común.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1953)</small>
+
 ###### Art. 112.
 
-No podrán formar parte del Tribunal dos o más Magistrados que sean parientes entre sí, por consanguinidad hasta el cuarto grado inclusive, y por afinidad hasta el segundo.
+No podrán formar parte del Tribunal tres o más Magistrados que sean parientes entre sí, por consanguinidad hasta el cuarto grado inclusive, y por afinidad hasta el segundo.
 
 ###### Art. 113.
 
@@ -1201,7 +1203,7 @@ Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en fun
 
 ### CAPITULO II. De Los Magistrados
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 117.
 
@@ -1569,7 +1571,7 @@ Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habi
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
 
-Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
+Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Vicepresidente.
 
 Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
 
@@ -1758,3 +1760,9 @@ P.O. 5 DE MAYO DE 1951.
 P.O. 19 DE SEPTIEMBRE DE 1951.
 
 UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 1953.
+
+> <small>(F. DE E. 19 DE DICIEMBRE DE 1953)</small>
+
+UNICO.-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su expedición.
