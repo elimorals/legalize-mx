@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3490
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-17"
-last_updated: "1992-07-17"
+last_updated: "2001-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 17 de julio de 1992.
 
@@ -73,9 +73,21 @@ La Comisión informará al Congreso del Estado, sobre el ejercicio presupuestal 
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION DE LA COMISION
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 8.
 
-La Comisión de Derechos Humanos del Estado de Coahuila, se integrará con un Presidente, hasta dos Visitadores, un Secretario y el personal profesional, técnico y administrativo que sea necesario para el desempeño de sus funciones.
+La Comisión de Derechos Humanos del Estado de Coahuila se integra por:
+
+A.- Un Presidente;
+
+B.- Los Visitadores, que podrán ser generales y adjuntos;
+
+C.- Un Secretario; y
+
+D.- El demás personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+
+La Comisión contará con un Consejo en los términos que establece esta ley.
 
 ###### ARTICULO 9.
 
@@ -116,6 +128,10 @@ El Presidente de la Comisión podrá ser destituido y, en su caso, sujeto a resp
 ###### ARTICULO 14.
 
 Para ser designado Visitador de la Comisión, deben reunirse los mismos requisitos que se exigen al Presidente, con excepción de los correspondientes a la residencia y a la edad mínima, que en este caso deberá ser de treinta años cumplidos al día de su nombramiento. Además, se deberá contar con título de Licenciado en Derecho expedido legalmente y con un mínimo de tres años de ejercicio profesional.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2001)</small>
+
+El Consejo de la Comisión de Derechos Humanos del Estado de Coahuila establecerá el número de Visitadores que resulten necesarios, de acuerdo con el Presupuesto de Egresos correspondiente. Para tal efecto, el Consejo de la Comisión fijará la ordenación numérica del Visitador, su residencia, su competencia y demás elementos necesarios para el cumplimiento de sus funciones.
 
 ###### ARTICULO 15.
 
@@ -205,7 +221,13 @@ D.- Pedir información adicional sobre los asuntos que se encuentren en trámite
 
 E.- Conocer el informe del Presidente de la Comisión, respecto al ejercicio presupuestal anual; y
 
-F.- Las demás que le confiera esta Ley, el Reglamento Interior y otros ordenamientos aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2001)</small>
+
+F.- Establecer mediante acuerdos generales la estructura de los órganos que integran a la Comisión de conformidad con el artículo 8º de esta ley, según lo autorice el Presupuesto de Egresos correspondiente. Estos acuerdos se mandarán publicar en el Periódico Oficial del Gobierno del Estado;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE ENERO DE 2001)</small>
+
+G.- Las demás que le confiera esta ley, el Reglamento Interior y otros ordenamientos aplicables.
 
 ###### ARTICULO 25.
 
@@ -576,3 +598,15 @@ EL SECRETARIO DE GOBIERNO
 LIC. FELIPE A. GONZALEZ RODRIGUEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ENERO DE 2001.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro de los quince días en que entre en vigor este decreto, el Consejo de la Comisión de Derechos Humanos del Estado de Coahuila, deberá definir la estructura de los Visitadores con que cuenta conforme al Presupuesto de Egresos correspondiente. Para tal efecto, el Presidente de la Comisión presentará a la aprobación del Consejo el proyecto de estructura y funcionamiento de los Visitadores. Una vez aprobado, se mandará publicar el acuerdo del Consejo en el Periódico Oficial del Gobierno del Estado.
+
+La Presidencia de la Comisión de Derechos Humanos del Estado de Coahuila deberá informar con oportunidad a la comunidad el establecimiento de los Visitadores.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
