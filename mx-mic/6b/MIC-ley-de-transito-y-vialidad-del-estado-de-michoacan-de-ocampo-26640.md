@@ -1,0 +1,794 @@
+---
+title: "LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO"
+identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26640"
+country: "mx"
+rank: "ley"
+publication_date: "2002-09-24"
+last_updated: "2002-09-24"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mic"
+scjn_id: "26640"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "26 SECCION III"
+reform_count: "13"
+scjn_last_update: "2023-06-02"
+issue_date: "2002-09-09"
+state: "MIC"
+---
+# LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
+
+LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
+
+TEXTO ORIGINAL.
+
+Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
+
+LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+
+El H. Congreso del Estado, se ha servido dirigirme el siguiente
+
+DECRETO
+
+EL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO DECRETA:
+
+NÚMERO 8
+
+LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+## TÍTULO PRIMERO
+
+DISPOSICIONES GENERALES.
+
+### CAPÍTULO ÚNICO. DEL OBJETO DE LA LEY
+
+###### Artículo 1°.
+
+La presente Ley es de orden público e interés social; tiene por objeto establecer las normas para regular y ordenar la circulación de vehículos y peatones en las vías públicas terrestres abiertas a la circulación, de jurisdicción estatal y municipal.
+
+###### Artículo 2°.
+
+La aplicación de la presente Ley corresponde a las autoridades estatales y municipales en los ámbitos de su competencia, de acuerdo a lo previsto en esta Ley y su reglamento.
+
+###### Artículo 3°.
+
+Las autoridades estatales y municipales en materia de tránsito y vialidad, están facultadas en el ámbito de su competencia, para emitir las disposiciones necesarias, a efecto de planear, establecer, regular, administrar, controlar y supervisar el tránsito de vehículos y peatones, su seguridad, sus bienes, el medio ambiente y el orden público, en las vías públicas terrestres abiertas a la circulación, en los términos establecidos en esta Ley y su reglamento.
+
+###### Artículo 4°.
+
+El Gobernador del Estado, podrá celebrar con los municipios, con las autoridades federales y con las entidades federativas, convenios para la prestación coordinada del servicio público de tránsito y vialidad.
+
+###### Artículo 5°.
+
+Se entiende por vía pública terrestre abierta a la circulación, el espacio de dominio público y uso común, que por disposición de la Ley o por razones del servicio, esté destinado al tránsito de peatones, vehículos, semovientes y transporte de personas y carga en general.
+
+###### Artículo 6°.
+
+Ante las autoridades de tránsito y vialidad, no procede la gestión de negocios. En los trámites en los que no se requiera la presencia del interesado, podrá intervenir quien acredite su representación legítima o jurídica.
+
+###### Artículo 7°.
+
+Para efectos de esta Ley, se entenderá por:
+
+I. Ley: La Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo;
+
+II. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+
+III. Gobernador del Estado: El Titular del Poder Ejecutivo;
+
+IV. Secretaría: La Secretaría de Gobierno;
+
+V. Tesorería: La Tesorería General;
+
+VI. Subsecretaría: La Subsecretaría de Seguridad Pública y Protección Civil;
+
+VII. Dirección: La Dirección de Seguridad Pública y Tránsito;
+
+VIII. Municipios: Los municipios del Estado;
+
+IX. Ayuntamientos: Las autoridades municipales; y,
+
+X. Vías Públicas: Las vías públicas terrestres abiertas a la circulación.
+
+## TÍTULO SEGUNDO
+
+DE LAS AUTORIDADES ESTATALES Y MUNICIPALES DE TRÁNSITO Y VIALIDAD.
+
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES ESTATALES Y SUS ATRIBUCIONES
+
+###### Artículo 8°.
+
+Son autoridades estatales en materia de tránsito y vialidad:
+
+I. El Gobernador del Estado;
+
+II. El Secretario de Gobierno;
+
+III. El Tesorero General;
+
+IV. El Subsecretario de Seguridad Pública y Protección Civil; y,
+
+V. El Director de Seguridad Pública y Tránsito.
+
+###### Artículo 9°.
+
+El Gobernador del Estado tendrá las atribuciones siguientes:
+
+I. Expedir las disposiciones relativas a la regulación y vigilancia del tránsito y vialidad en las vías públicas del Estado;
+
+II. Establecer, ordenar, administrar y regular las vías públicas y los transportes en el ámbito de su competencia;
+
+III. Acordar y ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos;
+
+IV. Expedir las normas generales de carácter técnico, relativas a las características de la infraestructura carretera, de la infraestructura y equipamiento vial, circulación, señalamiento y transporte;
+
+V. Celebrar convenios con las autoridades federales y entidades federativas, para coordinar los sistemas de tránsito, control de vehículos y conductores;
+
+VI. Celebrar convenios de coordinación de funciones y prestación del servicio de tránsito y vialidad con los municipios del Estado;
+
+VII. Asesorar a los municipios en materia de tránsito y vialidad conforme a los convenios de coordinación celebrados;
+
+VIII. Establecer, impartir y administrar los programas de educación vial en el Estado;
+
+IX. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y su reglamento;
+
+X. Registrar vehículos, expedir los elementos de identificación conforme a su tipo y características como placas, calcomanías, hologramas y tarjetas de circulación; así como las verificaciones vehiculares conforme a la Ley de la materia;
+
+XI. Aplicar sanciones por infracciones a la presente Ley y su reglamento; y,
+
+XII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 10.
+
+El Secretario de Gobierno tendrá las atribuciones siguientes:
+
+I. Vigilar el estricto cumplimiento de esta Ley y su reglamento;
+
+II. Ordenar y supervisar la realización de trámites administrativos relacionados con las licencias y permisos provisionales, para conducir vehículos automotores;
+
+III. Dictar las medidas idóneas para organizar el tránsito de vehículos en las vías públicas del Estado, con el propósito de mejorar la circulación, preservar el medio ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público;
+
+IV. Cumplir y hacer cumplir en la esfera de su competencia, los ordenamientos federales y estatales en materia de protección del ambiente, del equilibrio ecológico y la prevención y control de la contaminación generada por vehículos automotores;
+
+V. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con el tránsito de peatones y de vehículos en caso de terremoto, explosión, inundación, siniestro, asalto, actos de vandalismo, manifestaciones, marchas, bloqueos de vialidad, accidentes graves o cualquier alteración del orden público;
+
+VI. Coordinar, a través de la Subsecretaría, a la Dirección, a la Dirección de Protección Civil y demás autoridades o corporaciones de seguridad pública, en los programas de auxilio a la población en casos de accidentes y desastres;
+
+VII. Delegar las atribuciones que esta Ley le señala de acuerdo a su reglamento interior; y,
+
+VIII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 11.
+
+El Subsecretario de Seguridad Pública y Protección Civil tendrá las atribuciones siguientes:
+
+I. Vigilar el estricto cumplimiento de esta Ley y su reglamento;
+
+II. Dictar las medidas conducentes para la administración, vigilancia y control de tránsito y vialidad en las vías públicas de jurisdicción estatal;
+
+III. Proporcionar asesoría en materia de tránsito y vialidad a los municipios que lo soliciten;
+
+IV. Ejecutar, supervisar y controlar las actividades de tránsito en el Estado;
+
+V. Coordinar y supervisar las actividades de los elementos de tránsito y vialidad;
+
+VI. Controlar la vigilancia del tránsito vehicular en las vías públicas del Estado, así como las convenidas y coordinadas con los municipios y la Federación;
+
+VII. Opinar respecto de los señalamientos de tránsito y vialidad en las vías públicas estatales;
+
+VIII. Apoyar y supervisar la capacitación de los aspirantes y de los elementos activos que ejerzan la función operativa de tránsito y vialidad;
+
+IX. Coordinarse en materia de tránsito y vialidad, con autoridades y corporaciones federales, estatales y municipales en el ámbito de su competencia;
+
+X. Autorizar y ordenar el retiro de la vía pública de vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
+
+XI. Analizar en coordinación con los municipios la problemática de tránsito y vialidad, a fin de formular el Programa Estatal de Seguridad Pública en materia de tránsito y vialidad;
+
+XII. Establecer programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades municipales y ambientales del Estado;
+
+XIII. Establecer, previo acuerdo con el Secretario de Gobierno, las normas y lineamientos de organización y funcionamiento de los servicios de tránsito y vialidad en el Estado;
+
+XIV. Las que le delegue el Gobernador del Estado o el Secretario de Gobierno; y,
+
+XV. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 12.
+
+El Director de Seguridad Pública y Tránsito, tendrá las atribuciones siguientes:
+
+I. Vigilar el estricto cumplimiento de esta Ley y su reglamento;
+
+II. Ordenar, regular, vigilar y establecer políticas de control de tráfico vehicular, mediante dispositivos de seguridad vial en caminos y tramos carreteros de competencia estatal;
+
+III. Imponer las sanciones por infracciones a la presente Ley y su reglamento;
+
+IV. Proponer y convenir los espacios para el depósito de vehículos que por alguna causa deban ser retirados de la circulación en el ámbito de su jurisdicción;
+
+V. Supervisar y sancionar el servicio de grúas como auxiliares de los elementos de tránsito y vialidad;
+
+VI. Organizar, dirigir, controlar y evaluar el desempeño de la Policía Estatal Preventiva en funciones de tránsito y vialidad;
+
+VII. Auxiliar al Ministerio Público, al Poder Judicial y a cualquier autoridad, cuando se lo requieran en ejercicio de sus funciones;
+
+VIII. Ejecutar los programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades municipales y ambientales correspondientes;
+
+IX. Coordinar con la Dirección de Protección Civil y demás autoridades o corporaciones de seguridad pública, los programas de auxilio a la población en casos de accidentes y desastres;
+
+X. Proponer las medidas para mejorar los servicios de tránsito y vialidad;
+
+XI. Ejecutar las normas y lineamientos de organización y funcionamiento de los servicios de tránsito y vialidad en el Estado; y,
+
+XII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 13.
+
+El Tesorero General tendrá las atribuciones siguientes:
+
+I. Vigilar el estricto cumplimiento de esta Ley y su reglamento en el ámbito de su competencia;
+
+II. Ordenar y supervisar la realización de trámites administrativos relacionados con la matriculación, verificación, inspección mecánica y control de vehículos; y,
+
+III. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+
+### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES MUNICIPALES Y SUS ATRIBUCIONES
+
+###### Artículo 14.
+
+Son autoridades municipales en materia de tránsito y vialidad:
+
+I. Los Ayuntamientos;
+
+II. Los Presidentes Municipales; y,
+
+III. Los Directores de Seguridad Pública y Tránsito o autoridad equivalente.
+
+###### Artículo 15.
+
+Son atribuciones de los Ayuntamientos en materia de tránsito y vialidad las siguientes:
+
+I. Expedir reglamentos para ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en su territorio y en las vías públicas de jurisdicción municipal;
+
+II. Expedir permisos de circulación a los vehículos de tracción humana y animal a que se refiere esta Ley;
+
+III. Hacer los estudios necesarios para conservar y mejorar los servicios de tránsito y vialidad, conforme a las necesidades y propuestas de la sociedad;
+
+IV. Dictar medidas tendientes al mejoramiento de los servicios de tránsito y vialidad en la esfera de su competencia;
+
+V. Realizar las tareas relativas a la ingeniería de tránsito y los señalamientos de vialidad en los centros de población;
+
+VI. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías públicas y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, seguridad, comodidad y fluidez de la vialidad en la esfera de su competencia;
+
+VII. Establecer programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades ambientales competentes;
+
+VIII. Indicar las características específicas y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito, conforme a las normas generales de carácter técnico en el área de su competencia;
+
+IX. Apoyar y participar en los programas de educación vial que establezca el Estado; así como proponer y establecer los del área de su competencia;
+
+X. Coordinarse con el Gobernador del Estado y con los municipios, para el cumplimiento de las disposiciones de esta Ley y su reglamento;
+
+XI. Autorizar la localización y características de los elementos que integran la infraestructura y el equipamiento vial de los centros de población, a través de los planes municipales y programas de desarrollo urbano que les corresponda sancionar y aplicar en la esfera de su competencia;
+
+XII. Determinar previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos, foráneos y de carga; y los itinerarios de estos últimos;
+
+XIII. Autorizar en coordinación con el Gobernador del Estado, la localización de las obras de infraestructura carretera, infraestructura y equipamiento vial, derechos de vía como destinos, zonas de restricción y las normas que regulen su uso;
+
+XIV. Solicitar en su caso, al Gobernador del Estado, asesoría y apoyo para realizar los estudios técnicos y acciones en materia de vialidad y tránsito;
+
+XV. Determinar, aplicar y ejecutar, en el ámbito de su competencia, las sanciones a quienes incurran en infracciones a esta Ley y su reglamento;
+
+XVI. Delegar las atribuciones que esta Ley le señala; y,
+
+XVII. Las que les confieran esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 16.
+
+Son atribuciones del Presidente Municipal en materia de tránsito y vialidad las siguientes:
+
+I. Dictar las medidas necesarias para la observancia y cumplimiento de las disposiciones legales sobre tránsito y vialidad;
+
+II. Celebrar convenios, previo acuerdo del Ayuntamiento, con la Federación, el Gobierno del Estado y con otros ayuntamientos, para la mejor prestación del servicio de tránsito y vialidad;
+
+III. Analizar con amplitud la problemática de tránsito y vialidad en el municipio, estableciendo objetivos y políticas para su solución, fortaleciendo los programas y planes estatales, municipales o regionales de tránsito y vialidad;
+
+IV. Cuidar el correcto desarrollo de la organización y desempeño de las funciones encomendadas a las corporaciones municipales de tránsito y vialidad municipal;
+
+V. Ejecutar el Programa Municipal de Tránsito y Vialidad;
+
+VI. Ejecutar los acuerdos y convenios que celebre el municipio en materia de tránsito y vialidad;
+
+VII. Designar al Director de Tránsito y Vialidad Municipal o autoridad equivalente, previa consulta de sus antecedentes en los Registros Nacional y Estatal de Seguridad Pública;
+
+VIII. Autorizar altas y bajas del personal de las corporaciones municipales de tránsito y vialidad; así como aplicar sanciones administrativas por faltas a esta Ley y su reglamento;
+
+IX. Vigilar que los titulares de las corporaciones municipales de tránsito y vialidad o su equivalente, consulten los antecedentes de los aspirantes a ingresar en éstas, en los Registros Nacional y Estatal de Seguridad Pública;
+
+X. Auxiliar a las autoridades federales y estatales de tránsito y vialidad, en ejercicio de sus funciones;
+
+XI. Atender las recomendaciones de los programas que en materia de tránsito y vialidad, le formule el Secretario de Gobierno o el Subsecretario de Seguridad Pública y Protección Civil;
+
+XII. Auxiliar a la población de su circunscripción territorial en casos de accidentes y siniestros; y,
+
+XIII. Las que les confieran esta Ley y demás disposiciones legales aplicables.
+
+###### Artículo 17.
+
+El Municipio ejercerá sus atribuciones técnicas y administrativas en materia de tránsito y vialidad, interviniendo en la planeación y aplicación de los programas de transporte de pasajeros, a través de la dependencia que se determine en la legislación municipal o en el reglamento correspondiente.
+
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE LAS AUTORIDADES ESTATALES Y MUNICIPALES
+
+###### Artículo 18.
+
+Los municipios en atención a sus condiciones territoriales, socioeconómicas, capacidad financiera y administrativa, podrán celebrar convenios de coordinación para la prestación del servicio público de tránsito y vialidad con el Estado, a efecto de que:
+
+I. Asesore y apoye al municipio para realizar acciones y estudios técnicos; y,
+
+II. Asuma la ejecución de acciones específicas que correspondan al municipio en materia de tránsito y vialidad, a través de la dependencia competente.
+
+El Municipio colaborará con el Estado, ejerciendo funciones de administración y control del servicio público de tránsito y vialidad, en los programas y acciones que le correspondan.
+
+###### Artículo 19.
+
+Los convenios de coordinación, conforme a las atribuciones y procedimientos que establezcan las leyes hacendarias y de ingresos precisarán:
+
+Los medios para recaudar las contribuciones que tienen como objeto las actividades del servicio público de tránsito y vialidad; y,
+
+La participación del Estado y de los municipios en las contribuciones que se recauden.
+
+> <small>(F. DE E., P.O. 14 DE NOVIEMBRE DE 2002)</small>
+
+## TÍTULO TERCERO
+
+DE LA REGULACIÓN GENERAL DE TRÁNSITO Y VIALIDAD EN EL ESTADO.
+
+### CAPÍTULO PRIMERO. DE LOS VEHÍCULOS
+
+###### Artículo 20.
+
+Para los efectos de esta Ley y su reglamento, se entiende por vehículo, el medio impulsado por un motor o forma distinta de tracción o propulsión, en el cual se lleve a cabo la transportación de personas o carga en general, utilizando las vías públicas en el Estado.
+
+###### Artículo 21.
+
+Considerando la finalidad de los vehículos, éstos se clasifican en:
+
+I. De uso privado;
+
+II. De servicio público;
+
+III. De servicio social; y,
+
+IV. De tracción humana o animal.
+
+###### Artículo 22.
+
+Son vehículos de uso privado aquellos destinados a satisfacer las necesidades particulares de sus propietarios, poseedores o conductores; su circulación es libre por todas las vías públicas del Estado, sin más limitación que el cumplimiento de esta Ley, su reglamento y demás disposiciones aplicables.
+
+###### Artículo 23.
+
+Son vehículos de servicio público aquellos destinados a la transportación de pasajeros, de carga en general o mixtos en sus diferentes modalidades, que operan en virtud de concesión o de permiso, otorgados en los términos de la Ley de la materia.
+
+###### Artículo 24.
+
+Son vehículos de servicio social aquellos que cumplen funciones de seguridad pública, asistencia y protección civil, por lo que deberán estar plenamente identificados, conforme a esta Ley, su reglamento y demás disposiciones aplicables.
+
+###### Artículo 25.
+
+Son vehículos de tracción humana o animal aquellos impulsados por el hombre o el animal.
+
+###### Artículo 26.
+
+Se consideran como vehículos de uso o tránsito eventual los que utilizan las vías públicas del Estado de manera temporal, sometidos a jurisdicción distinta de la estatal y los que, en virtud de convenio de enlace, fusión de equipos, intercambio de servicio celebrado entre concesionarios y permisionarios locales del servicio público federal o de entidades federativas, hacen uso de las vías públicas estatales.
+
+### CAPÍTULO SEGUNDO. DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
+
+###### Artículo 27.
+
+Es competencia de las autoridades estatales el otorgamiento de las licencias y permisos para conducir vehículos en las diferentes modalidades de servicio, expidiendo los documentos oficiales.
+
+###### Artículo 28.
+
+Para conducir vehículos automotores y motocicletas en el Estado, se requiere de licencia o permiso expedido por las autoridades de tránsito y vialidad del Estado, de entidad federativa o del extranjero.
+
+### CAPÍTULO TERCERO. DE LA EXPEDICIÓN DE LICENCIAS Y PERMISOS PARA CONDUCIR
+
+###### Artículo 29.
+
+Toda persona que conduzca un vehículo por las vías públicas del Estado, deberá obtener y llevar la licencia o el permiso que corresponda al tipo de vehículo, expedida por la autoridad legalmente facultada para ello.
+
+###### Artículo 30.
+
+La expedición de licencias y permisos para conducir en el Estado, es una facultad que corresponde a la Dirección de Seguridad Pública y Tránsito, conforme a esta Ley y su reglamento.
+
+###### Artículo 31.
+
+La Dirección de Seguridad Pública y Tránsito expedirá licencias en las modalidades siguientes:
+
+I. De automovilista: que autoriza a su titular a conducir los vehículos de uso privado, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas;
+
+II. De Chofer: que autoriza a su titular a conducir, además de los vehículos de uso privado, todas aquellas unidades que tengan más de dos ejes, tractores de semirremolque, camiones con remolque, equipos especiales movibles, vehículos con grúa y en general los de tipo pesado; y,
+
+III. De Motociclista: que autoriza a su titular a conducir motocicletas, motonetas y vehículos similares.
+
+###### Artículo 32.
+
+No se otorgarán licencias para conducir a personas que no hayan cumplido la mayoría de edad, lo que deberá acreditarse conforme al reglamento de esta Ley.
+
+###### Artículo 33.
+
+Los menores de dieciocho años que reúnan las condiciones de madurez y capacidad necesarias para conducir vehículos, con base en los exámenes que se les practiquen, podrán obtener permiso de automovilista o motociclista por el tiempo y en los términos establecidos en el reglamento de esta Ley; para obtenerlos se requerirá un mínimo de dieciséis años de edad, previa autorización de quien ejerza la patria potestad.
+
+###### Artículo 34.
+
+Para obtener licencia de conductor de cualquier tipo, se requiere:
+
+I. Elaborar solicitud, proporcionando a las autoridades los datos y documentos que se precisen para cada caso;
+
+II. Acreditar, a través de los exámenes y prácticas que se fijen para cada tipo de licencia, la capacidad indispensable para manejar los vehículos de que se trate;
+
+III. Tener las condiciones físicas, de agudeza visual y salud mental necesarias para conducir vehículos automotores; y,
+
+IV. Tener los conocimientos generales de las disposiciones de esta Ley y de su reglamento, así como de los señalamientos establecidos para el control del tránsito en las vías públicas del Estado.
+
+###### Artículo 35.
+
+Se reserva a la Comisión Coordinadora de Transporte Público de Michoacán o su equivalente, la facultad de expedir licencias del servicio público de autotransporte en todas sus modalidades, conforme a la Ley de Comunicaciones y Transportes del Estado de Michoacán.
+
+###### Artículo 36.
+
+Las licencias de conducir tendrán vigencia máxima de cinco años, renovables a su vencimiento a solicitud de los titulares, sin más limitación que la derivada de la suspensión o cancelación definitiva de éstas, ordenada por autoridad competente o cuando el titular haya dejado de reunir las condiciones que establece esta Ley y su reglamento.
+
+###### Artículo 37.
+
+Las licencias que se expidan en otra entidad federativa o en el extranjero, tendrán plena validez dentro de la jurisdicción estatal, siempre y cuando correspondan al tipo de vehículos de que se trate y tengan dentro del Estado una actividad transitoria.
+
+###### Artículo 38.
+
+Cuando al obtener una licencia de conducir, el interesado haya proporcionado información carente de veracidad o documentación falsificada, se procederá a cancelar la licencia una vez comprobada esta circunstancia, sin perjuicio de la responsabilidad penal que pudiera resultar. Las licencias canceladas por esta causa no podrán volverse a otorgar dentro de los tres años siguientes.
+
+### CAPÍTULO CUARTO. DE LA SUSPENSIÓN Y CANCELACIÓN DE LICENCIAS Y PERMISOS
+
+###### Artículo 39.
+
+Son causas de suspensión de la licencia o permiso hasta por seis meses:
+
+I. Que el titular cometa en el término de un año, tres infracciones de las que se sancionen con más de seis días de salario mínimo;
+
+II. Que el titular permita que su licencia o permiso sea utilizado por otra persona;
+
+III. Que el titular tenga incapacidad parcial temporal que lo inhabilite para conducir;
+
+IV. Que lo ordene la autoridad administrativa o judicial; y,
+
+V. Las demás que determine esta Ley y su reglamento.
+
+###### Artículo 40.
+
+Son causas de cancelación de la licencia o permiso:
+
+I. Que el titular tenga incapacidad total permanente que lo inhabilite para conducir;
+
+II. Que al titular se le sancione en tres ocasiones con la suspensión de la licencia o permiso, durante su vigencia;
+
+III. Que se compruebe que la información es carente de veracidad o la documentación es falsificada;
+
+IV. Que lo ordene la autoridad administrativa o judicial; y,
+
+V. Las demás que determine esta Ley y su reglamento.
+
+### CAPÍTULO QUINTO. DEL REGISTRO Y CONTROL DE VEHÍCULOS
+
+###### Artículo 41.
+
+El registro de los vehículos se acreditará mediante la tarjeta de circulación que deberá llevar el conductor, las placas y la calcomanía que deberán estar colocadas en los lugares que determine el reglamento de esta Ley.
+
+###### Artículo 42.
+
+Los vehículos registrados en el extranjero podrán circular libremente en el Estado, si lo hacen de manera temporal y el vehículo cuente con placas y tarjeta de circulación o su equivalente de su país de origen.
+
+###### Artículo 43.
+
+No se podrá suspender la circulación a ningún vehículo, salvo en los casos de infracciones flagrantes que se detecten y que determine el reglamento.
+
+###### Artículo 44.
+
+La Tesorería y la Dirección de Seguridad Pública y Tránsito, en los términos de esta Ley, llevarán el control actualizado de los vehículos sometidos a la jurisdicción estatal, debiendo integrar y operar un padrón que contenga sus datos de identificación.
+
+###### Artículo 45.
+
+Para que el propietario de un vehículo pueda efectuar su registro deberá satisfacer los requisitos siguientes:
+
+I. Presentar debidamente requisitada la forma de aviso de registro;
+
+II. Exhibir original de la factura, carta factura o documento que acredite la propiedad o legítima posesión del vehículo;
+
+III. Acreditar el pago de los impuestos y derechos que establecen los ordenamientos legales de la materia;
+
+IV. En caso de existir un registro de propietario anterior, acreditar que éste ha causado baja; y,
+
+V. Tratándose de vehículos de procedencia extranjera, además de los requisitos antes señalados, deberán acreditar su legal importación, con el documento que haya expedido la autoridad competente.
+
+###### Artículo 46.
+
+Cuando con posterioridad al registro, ocurra alguna modificación relativa a los datos o características de los vehículos, el propietario deberá darla a conocer a la autoridad, para que se lleve a cabo la actualización que proceda, dentro de los plazos que establece la ley de la materia.
+
+###### Artículo 47.
+
+El Gobernador del Estado, como resultado de convenios o actos de cooperación que celebre con autoridades de la Federación o de las entidades federativas, podrá fijar más requisitos para el registro de los vehículos.
+
+### CAPÍTULO SEXTO. DE LAS PLACAS DE LOS VEHÍCULOS
+
+### CAPÍTULO PRIMERO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
+
+###### Artículo 48.
+
+Las placas de circulación que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y su reglamento, serán expedidas por la Tesorería.
+
+###### Artículo 49.
+
+Ningún vehículo podrá desplazarse por las vías públicas del Estado sin llevar colocadas las placas correspondientes al tipo de uso o servicio de la unidad o el permiso provisional para circular.
+
+###### Artículo 50.
+
+La Tesorería, expedirá los tipos de placas siguientes:
+
+I. Para vehículos de uso privado;
+
+II. Para vehículos de servicio social;
+
+III. Para demostración o traslado de vehículos;
+
+IV. Para vehículos de tipo remolque; y,
+
+V. Para motocicletas, motonetas y vehículos similares.
+
+###### Artículo 51.
+
+Las placas para vehículos de servicio social se proporcionarán a las unidades autorizadas de las corporaciones de seguridad pública y privada del Estado, de acuerdo a la Ley de la materia.
+
+> <small>(F. DE E., P.O. 14 DE NOVIEMBRE DE 2002)</small>
+
+## TÍTULO CUARTO
+
+DE LA EDUCACIÓN VIAL Y MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE.
+
+### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
+
+###### Artículo 52.
+
+Es obligación de las autoridades de tránsito y vialidad, en coordinación con las competentes, crear y desarrollar programas de educación vial dirigidos a:
+
+I. Estudiantes de todos los niveles educacionales en el Estado;
+
+II. Aspirantes a obtener una licencia o permiso para conducir vehículos;
+
+III. Conductores de vehículos de uso privado;
+
+IV. Conductores de servicio público, de pasajeros, de carga y especializados;
+
+V. Amas de casa, madres de menores estudiantes, profesores y la sociedad en general, para preservar la seguridad de los educandos;
+
+VI. Infractores de las disposiciones de tránsito y vialidad en el momento de cubrir el importe de las multas;
+
+VII. Peatones; y,
+
+VIII. Personal operativo y administrativo de tránsito y vialidad, para que se actualicen en materia de educación vial.
+
+Los programas de educación vial que se impartan en el Estado, deberán referirse cuando menos a los temas siguientes:
+
+a) Uso adecuado de las vialidades;
+
+b) Comportamiento del peatón en la vía pública y zonas destinadas a su circulación;
+
+c) Comportamiento y normatividad para el conductor;
+
+d) Prevención de accidentes y primeros auxilios;
+
+e) Señales humanas, verticales y horizontales, preventivas, restrictivas e informativas; y,
+
+f) Conocimiento y aplicación de esta Ley, su reglamento y demás disposiciones legales aplicables.
+
+###### Artículo 53.
+
+Los prestadores de servicios públicos, están obligados a garantizar que sus operadores eviten el manejo de vehículos en estado de ebriedad, bajo los efectos de sustancias tóxicas, psicotrópicos o estupefacientes, así como en estados emocionales que alteren las funciones del conductor y deberán implementar cursos permanentes para:
+
+I. La prevención de accidentes viales; y,
+
+II. Respetar los límites de velocidad en todas las vialidades.
+
+###### Artículo 54.
+
+El Gobernador del Estado, a través de la Secretaría y los municipios en sus áreas de competencia, podrán celebrar convenios con instituciones públicas o privadas, para dar a conocer en los medios de comunicación masiva, los programas de educación vial, e informar a la población con oportunidad, acerca de la intensidad del tráfico en las vialidades y de los siniestros, con el propósito de evitar congestionamientos viales.
+
+### CAPÍTULO PRIMERO. DE LAS SANCIONES
+
+###### Artículo 55.
+
+Son aplicables en materia de protección al medio ambiente, además de las disposiciones legales de la materia, esta Ley y su reglamento.
+
+###### Artículo 56.
+
+Los vehículos que circulen en las vías públicas del Estado y en las que se tengan convenidas con la Federación, se sujetarán a las disposiciones federales y estatales en materia de equilibrio ecológico, protección al medio ambiente, prevención y control de la contaminación, consistentes en la verificación obligatoria de emisiones de gases, humos y ruidos, que se realizarán en los centros que para el efecto establezca el Gobierno del Estado; lugares en los que se expedirá el certificado de verificación y la calcomanía.
+
+###### Artículo 57.
+
+Está prohibido modificar claxon y silenciadores de fábrica y la instalación de dispositivos como válvulas de escape y similares, que produzcan ruido excesivo, de acuerdo con las normas aplicables.
+
+> <small>(F. DE E., P.O. 14 DE NOVIEMBRE DE 2002)</small>
+
+## TÍTULO QUINTO
+
+DE LAS SANCIONES Y RECURSOS DE TRÁNSITO Y VIALIDAD EN EL ESTADO.
+
+### CAPÍTULO SEGUNDO. DE LOS RECURSOS
+
+###### Artículo 58.
+
+A quienes infrinjan las disposiciones contenidas en esta Ley y su reglamento, se les impondrá en forma separada o conjunta, las sanciones siguientes:
+
+I. Multa;
+
+II. Retiro y aseguramiento del vehículo; y,
+
+III. Suspensión o cancelación de la licencia o permiso provisional.
+
+###### Artículo 59.
+
+Corresponde a la Dirección hacer la calificación de las infracciones que cometan los conductores y propietarios de vehículos, consignando ante las autoridades competentes a todos aquellos que incurran en la comisión de un delito, de acuerdo con lo que establezcan las disposiciones legales de la materia.
+
+###### Artículo 60.
+
+Cuando un conductor incurra en la comisión de la misma falta más de tres veces, será considerado como reincidente, en cuyo caso, y tomando en cuenta la gravedad de la infracción cometida, podrá suspenderse o cancelarse la licencia o permiso provisional para conducir. Las condiciones y los elementos de calificación que se requieren al respecto, se determinarán en el reglamento de esta Ley.
+
+###### Artículo 61.
+
+Los vehículos retirados de la vía pública o asegurados, se depositarán en los lugares que dispongan las autoridades para ese fin, en la inteligencia de que los gastos derivados de estas acciones, serán cubiertos íntegramente por los propietarios, de acuerdo con las tarifas autorizadas.
+
+###### Artículo 62.
+
+Para los efectos y aplicación de la multa, se estará a lo establecido por el reglamento, el cual las fijará dentro de un margen de tres a cincuenta veces el salario mínimo general vigente en el Estado, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
+
+###### Artículo 63.
+
+Las causales de suspensión o cancelación de los derechos otorgados por esta Ley, se determinarán en su reglamento.
+
+###### Artículo 64.
+
+Son causas de remisión de vehículos al depósito, las determinadas en el reglamento de esta Ley.
+
+###### Artículo 65.
+
+Cuando el conductor de un vehículo sea sorprendido prestando cualquier servicio público de transporte de personas o de carga en general, que requiera de concesión o de permiso, el vehículo será retirado de la vía pública y remitido a un depósito. En caso de utilizar en la carrocería colores, números económicos y cualquier otra característica propia de los vehículos autorizados, se procederá a despintarlo, debiendo el infractor cubrir la totalidad de los gastos que se originen por estas acciones, sin perjuicio de las multas que procedan.
+
+###### Artículo 66.
+
+La aplicación de sanciones como multa, retiro o aseguramiento de vehículos, corresponderá a la Dirección; la de suspensión o cancelación de derechos consignados en esta Ley corresponderá al Gobernador del Estado.
+
+###### Artículo 67.
+
+Se sancionará con multa o arresto hasta de treinta y seis horas, a quien cometa cualquier infracción de tránsito conduciendo en estado de ebriedad, bajo los efectos de sustancias tóxicas, psicotrópicos o estupefacientes. La imposición de esta sanción quedará a cargo de las autoridades de tránsito y vialidad, sin perjuicio de la responsabilidad penal que pudiera resultar de la falta cometida.
+
+###### Artículo 68.
+
+Independientemente de las sanciones que establecen los ordenamientos legales en materia ecológica, los conductores o propietarios de vehículos que contravengan las disposiciones de esta Ley y su reglamento, se harán acreedores a la sanción que corresponda a la falta, sin perjuicio del pago de los derechos correspondientes por concepto de depósito y arrastre, en el caso de que el vehículo haya sido remitido a un depósito.
+
+###### Artículo 69.
+
+El pago de las multas, deberá efectuarse en las oficinas recaudadoras correspondientes, aplicándose un descuento del cuarenta por ciento por pronto pago, a quien las cubra dentro de los diez días hábiles siguientes al levantamiento de la infracción. Los infractores morosos deberán pagar los recargos correspondientes a las multas no cubiertas, sin perjuicio de hacerlas efectivas mediante el procedimiento administrativo de ejecución.
+
+###### Artículo 70.
+
+La Tesorería y la Dirección en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas por infracciones en que haya incurrido.
+
+###### Artículo 71.
+
+El conductor a quien se levante una infracción o aquel cuyo vehículo haya sido retirado de la vía pública y depositado en un local destinado por las autoridades para esa finalidad, podrá inconformarse en los términos que señala esta Ley y su reglamento.
+
+###### Artículo 72.
+
+La Dirección retirará de la circulación los vehículos que no reúnan los requisitos legales, o que representen un grave peligro para la seguridad de sus ocupantes y de los demás vehículos y peatones, así como el de aquellos que por sus condiciones particulares, puedan ocasionar algún daño a las vías públicas del Estado.
+
+###### Artículo 73.
+
+Los municipios aplicarán las sanciones de tránsito y vialidad de conformidad al reglamento que expidan en la materia.
+
+###### Artículo 74.
+
+Las resoluciones dictadas con motivo de la aplicación de esta Ley y su reglamento, podrán impugnarse mediante el recurso de inconformidad.
+
+###### Artículo 75.
+
+El recurso de inconformidad se interpondrá por escrito dentro del término de diez días hábiles siguientes a la fecha en que haya surtido efectos la notificación de la resolución que se impugna, ante la autoridad que la emitió.
+
+###### Artículo 76.
+
+La ejecución de la resolución impugnada podrá suspenderse, si por su naturaleza es posible, cuando no se afecte el orden público o interés social y se garanticen mediante fianza determinada por la autoridad, los daños y perjuicios que pudieran causarse al confirmarse la resolución impugnada.
+
+###### Artículo 77.
+
+El escrito en que se interponga el recurso de inconformidad deberá contener los requisitos siguientes:
+
+I. Nombre y domicilio;
+
+II. Resolución que se impugna;
+
+III. Autoridad que dictó la resolución impugnada;
+
+IV. Fecha en que fue notificada la resolución impugnada; y,
+
+V. Las pruebas y los hechos en que se apoye el recurso.
+
+Con el escrito de inconformidad, en su caso, se exhibirán los documentos que acrediten la personalidad o personería del inconforme.
+
+###### Artículo 78.
+
+Recibido el escrito de inconformidad, se abrirá un período de pruebas de diez días hábiles, a efecto de que se desahoguen las que se hayan ofrecido y admitido.
+
+Si por la naturaleza de las pruebas el término resulta insuficiente, la autoridad podrá ampliarlo por un período no mayor a diez días hábiles.
+
+En materia de ofrecimiento, admisión y valoración de las pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Michoacán.
+
+###### Artículo 79.
+
+Concluido el período de pruebas, la autoridad, dentro del término de diez días hábiles dictará resolución que confirme, modifique o revoque la resolución impugnada. La resolución del recurso de inconformidad será definitiva.
+
+###### Artículo 80.
+
+Serán notificaciones personales, las siguientes:
+
+I. El acuerdo de admisión del recurso y pruebas; y
+
+II. La resolución que ponga fin al recurso.
+
+Las notificaciones personales se harán en las oficinas de la autoridad si el recurrente acude a éstas o por correo certificado con acuse de recibo. Las demás resoluciones se notificarán por estrados.
+
+###### Artículo 81.
+
+Los particulares podrán acudir ante la Dirección en queja verbal o por escrito, cuando hayan sido objeto de hechos ilícitos por algún elemento en ejercicio de funciones de tránsito y vialidad, la que se remitirá a la Comisión de Honor y Justicia para su substanciación, sin perjuicio de la responsabilidad penal en que haya incurrido.
+
+###### Artículo 82.
+
+Si con motivo del arrastre de un vehículo por una grúa oficial o por aquellas que presten el servicio público concesionado, sufriese daños en la carrocería o en sus mecanismos, los elementos de tránsito y vialidad o los concesionarios directamente responsables, tendrán la obligación de reparar el daño de conformidad con el peritaje que al efecto se practique.
+
+Se procederá contra los responsables de los sitios o depósitos destinados al encierro y custodia de los vehículos detenidos, si sufren algún daño o robo durante el tiempo en que se encuentren en depósito, para el efecto de que reparen el daño causado sin perjuicio de la responsabilidad penal en que hayan incurrido.
+
+A R T Í C U L O S T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Policía y Tránsito del Estado de Michoacán, aprobada por el Congreso del Estado el día 14 de marzo de 1978, publicada en el Periódico Oficial del Estado el día 30 de Marzo de 1978 y sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un plazo de sesenta días a partir de la publicación de esta Ley, para que los municipios por acuerdo de sus ayuntamientos, informen a los poderes Ejecutivo y Legislativo del Estado, la decisión de ejercer la función de tránsito y vialidad en su Municipio, o en su caso, la celebración del convenio con el Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Para la transferencia de la prestación del servicio de tránsito y vialidad del Gobierno del Estado a los municipios, deberán celebrar convenio, estableciendo los mecanismos operativos y las disposiciones normativas, en tanto se expiden los reglamentos municipales.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el Reglamento de la Ley de Policía y Tránsito del Estado de Michoacán, aprobado por el Congreso del Estado el día 14 de marzo de 1978, publicada en el Periódico Oficial del Estado el día 30 de Marzo de 1978, con excepción de los Capítulos I, II, III y IV del Título Segundo; Capítulos I y II del Título Tercero; Capítulo Único del Título Cuarto; y Capítulos III, VII y VIII del Título Quinto, en tanto se expide el Reglamento de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y partir de su vigencia, quedará abrogado el Reglamento de la Ley de Policía y Tránsito del Estado de Michoacán.
+
+###### ARTÍCULO SEXTO.
+
+El reglamento de esta Ley deberá emitirse por el Gobernador del Estado, dentro de los noventa días posteriores a la publicación de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+El Ejecutivo del Estado dispondrá se publique y observe.
+
+PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán, a 6 de septiembre de 2002.
+
+DIPUTADO PRESIDENTE.- ESTEBAN ARROYO BLANCO.- DIPUTADO SECRETARIO.- RAYMUNDO ARREOLA ORTEGA.- DIPUTADO SECRETARIO.- MARCO ANTONIO LAGUNAS VAZQUEZ. (Firmados)
+
+En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 9 nueve días del mes de septiembre del año 2002 dos mil dos.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
