@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1934-04-28"
+last_updated: "1937-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE ABRIL DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE JULIO DE 1937.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -299,9 +299,9 @@ II. Tener veinticinco años cumplidos al día de la elección.
 
 III. Haber residido en el Estado de Sonora el año anterior al día de la elección para los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección a los no nacidos en él.
 
-> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADA, B.O. 17 DE JULIO DE 1937)</small>
 
-IV. No haber sido Diputado Propietario, o Suplente en ejercicio, por más de seis meses, anteriormente.
+IV. No haber sido Diputado Propietario o Suplente en ejercicio por un año o más, anteriormente.
 
 V. No haber desempeñado alguno de los cargos de Gobernador, Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, dentro del año anterior al día de la elección.
 
@@ -1532,6 +1532,10 @@ B.O. 5 DE OCTUBRE DE 1932.
 UNICO.- Las reformas a los artículos 132, 134 y 134 Bis de la expresada Constitución entrará en vigor al verificarse las elecciones de Ayuntamiento para el próximo período constitucional.
 
 B.O. 28 DE ABRIL DE 1934.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE JULIO DE 1937.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
