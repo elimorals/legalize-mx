@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2003-08-06"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -587,85 +587,65 @@ En el cumplimiento de sus funciones el Congreso del Estado integrará Comisiones
 
 Ninguna Comisión se integrará con Diputados de un sólo Partido.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 67.
 
 Serán Comisiones Permanentes las siguientes:
 
-I.- De Puntos Constitucionales y Gobernación;
+I. De Puntos Constitucionales y Gobernación;
 
-II.- De Hacienda Pública y Tesorería;
+II. De Hacienda Pública y Administración;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+III. De Planeación y Desarrollo;
 
-III.- De Planeación y Desarrollo;
+IV. De Educación Pública y Cultura;
 
-IV.- De Administración;
+V. De Ciencia y Tecnología;
 
-V.- De Educación Pública y Cultura;
+VI. De Ecología;
 
-VI.- De Ecología;
+VII. De Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+VIII. De Comunicaciones y Obras Pública;
 
-VII.- De Desarrollo Económico;
+IX. De Salud y Asistencia Social;
 
-VIII.- De Comunicaciones y Obras Públicas;
+X. De la Juventud y el Deporte;
 
-IX.- De Salud y Asistencia Social;
+XI. De Asuntos Obreros y de Trabajo y Previsión Social;
 
-X.- De la Juventud y el Deporte;
+XII. De Derechos Humanos;
 
-XI.- De Asuntos Obreros y de Trabajo y Previsión Social;
+XIII. De Glosa;
 
-XII.- De Derechos Humanos;
+XIV. De Vigilancia;
 
-XIII.- De Glosa;
+XV. De las Comunidades y Asuntos Indígenas;
 
-XIV.- De Vigilancia;
+XVI. De Turismo;
 
-XV.- De las Comunidades y Asuntos Indígenas;
+XVII. De Pesca;
 
-XVI.- De Turismo;
+XVIII. De Asuntos Agropecuarios;
 
-XVII.- De Pesca;
+XIX. De Protección Civil;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+XX. De Seguridad Pública;
 
-XVIII.- De Asuntos Agropecuarios;
+XXI. De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+XXII. De Equidad, Género y Familia;
 
-XIX.- De Protección Civil;
+XXIII. De Protocolo y Régimen Orgánico Interior;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+XXIV. De Participación Ciudadana;
 
-XX.- De Seguridad Pública;
+XXV. De Honor y Disciplina Parlamentaria;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+XXVI. De Justicia; e
 
-XXI.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-XXII.- De Equidad, Género y Familia;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-XXIII.- De Protocolo y Régimen Orgánico Interior;
-
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
-
-XXIV.- De Honor y Disciplina Parlamentaria;
-
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
-
-XXV.- De Justicia; e
-
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
-
-XXVI.- Instructora.
+XXVII. Instructora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -717,7 +697,9 @@ III.- La Comisión de Vigilancia conjuntamente con la Comisión de Glosa propond
 
 IV.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
 
-V.- La Comisión de Hacienda Pública y Tesorería tendrá a su cargo el despacho de los negocios que le señalen las Leyes en materia fiscal, así como los asuntos donde se ventile la situación de la Hacienda Pública estatal y de los municipios;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+V.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes, en materia fiscal, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios así como los asuntos en materia de administración pública estatal y municipal;
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
@@ -2002,6 +1984,12 @@ P.O. 1 DE AGOSTO DE 2003.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 6 DE AGOSTO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE DICIEMBRE DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
