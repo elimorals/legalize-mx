@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-la-procuraduria-de-los-derechos-humanos-y-13619"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-10"
-last_updated: "1991-03-10"
+last_updated: "1998-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial de Estado de Baja California, el domingo 10 de marzo de 1991.
 
@@ -51,25 +51,37 @@ La presente Ley regirá en todo el Estado de Baja California; sus disposiciones 
 
 En el Estado de Baja California todo individuo gozará de las garantías y derechos consagrados en la Constitución General de la República, en las Leyes del Congreso de la Unión que emanen de ella, en todos los Tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con la aprobación del Senado y que constituyen la Ley Suprema de la Unión; así como los demás derechos que otorga la Constitución del Estado y las Leyes que de ella emanen.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 3o.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana es un organismo de carácter administrativo, de participación ciudadana, dotado de plena autonomía, encargada de velar por la legalidad en todos los actos de la administración pública, promover la justicia y asegurar el respeto de los Derechos Humanos en todo lo que aquélla intervenga; y para ejercer libremente el presupuesto que anualmente le asigne el Congreso del Estado.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana es un organismo de carácter administrativo de participación ciudadana, dotado de autonomía plena, presupuestaria y reglamentaria, con personalidad jurídica y patrimonio propios.
+
+La Procuraduría se encargará de velar por la legalidad en todos los actos de la administración pública, promover la justicia y asegurar el respeto de los derechos humanos en todo lo que aquella intervenga.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley se entiende por Derechos Humanos, las Garantías Individuales y Sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas, así como los contenidos en Tratados, Convenciones y Acuerdos Internacionales que en México haya celebrado, celebre o forme parte.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana estará investida de autonomía reglamentaria entendida como la potestad de darse sus propias normas y disposiciones jurídicas, expedidas por medio de su órgano normativo competente paa (sic) estructurar su organización y funcionamiento técnico.
+
+Para efectos de la autonomía presupuestaria la Procuraduría ejercerá libremente el presupuesto que anualmente le apruebe el Congreso del Estado sujetándose éste, a las fiscalizaciones y revisiones que de acuerdo con la ley se efectúen.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 5o.
 
-Para los efectos de esta Ley se reputarán como servidores públicos los señalados en el Artículo 91 de la Constitución Política del Estado.
+Para los efectos de esta Ley se entiende por Derechos Humanos, las Garantías Individuales y Sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, los contenidos en la Declaración Universal de los Derechos Humanos proclamada por la Asamblea General de las Naciones Unidas, así como los contenidos en Tratados, Convenciones y Acuerdos Internacionales que México haya celebrado, celebre o forme parte.
 
-Para los mismos efectos, se entenderá por superior jerárquico al titular de la dependencia correspondiente; y por superior inmediato, al servidor público del cual depende, reporta o recibe órdenes directas el presunto infractor, conforme a la estructura orgánica de la dependencia de que se trate.
+Para los mismos efectos se reputarán como servidores públicos los señalados en el Artículo 91 de la Constitución Política del Estado y se entenderá por superior jerárquico al titular de la dependencia correspondiente; y por superior inmediato al servidor público del cual depende, reporta o recibe órdenes directas el presunto infractor, conforme a la estructura orgánica de la dependencia de que se trate.
 
 ### CAPITULO SEGUNDO. DE SU INTEGRACION
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 6o.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado de Baja California se integrará con: Un Procurador, hasta dos Sub-Procuradores, que actuarán en nombre y con la representación del Procurador, un Consejo Consultivo y el Personal Técnico y Administrativo necesario para el ejercicio de sus funciones.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana estará integrada por un Procurador y hasta cuatro Subprocuradores, los cuales actuarán en nombre y representación del Procurador; un Consejo Consultivo y el Personal Técnico y Administrativo necesario para el ejercicio de sus funciones.
 
 ###### ARTICULO 7o.
 
@@ -99,43 +111,59 @@ D).- No tener antecedentes penales por delitos dolosos.
 
 E).- Gozar de elevado prestigio profesional y personal.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 9o.
 
-Para el nombramiento de Procurador de los Derechos Humanos y Protección Ciudadana del Estado de Baja California, se observarán las reglas siguientes:
+El Congreso del Estado para la elección del Procurador de los Derechos Humanos y Protección Ciudadana observará las siguientes bases:
 
-A).- El C. Gobernador del Estado, en un plazo no mayor de diez días a partir de la fecha en que se produzca la vacante, propondrá al Congreso una lista de tres candidatos al cargo de Procurador, acompañada de la documentación que acredite lo dispuesto en el Artículo Séptimo de esta Ley.
+A).- Emitirá una convocatoria para concurso de interesados a ocupar el cargo, en un plazo no menor a treinta días antes de que concluya el período para el cual fué electo el Procurador en funciones.
 
-B).- El Congreso revisará que los candidatos reúnan los requisitos que establece el Artículo Séptimo de esta Ley, y procederá a su nombramiento conforme a lo dispuesto por la Ley Orgánica del Congreso del Estado.
+La convocatoria deberá contener:
 
-C).- El Congreso escogerá necesariamente entre los candidatos propuestos por el Gobernador, al Procurador de los Derechos Humanos y Protección Ciudadana del Estado de Baja California.
+1.- Requisitos para los interesados y bases generales del procedimiento de elección.
 
-D).- El Presidente del Congreso del Estado citará al designado Procurador de los Derechos Humanos y Protección Ciudadana, para que comparezca ante el Pleno de dicho Congreso a rendir propuesta de Ley, dentro de los tres días siguientes a su nombramiento.
+2.- Fecha para dar a conocer la lista oficial de los aspirantes al cargo.
 
-E).- El procedimiento descrito en los incisos anteriores deberá realizarse en un período que no deberá exceder de treinta días a partir de que se produzca la vacante, transcurrido el plazo sin que el Congreso o la Comisión Permanente en su caso, haya hecho la designación, se entenderá aprobado el nombramiento a favor del candidato que aparezca en primer lugar de la lista enviada por el Gobernador y la protesta de Ley la rendirá ante el Congreso del Estado dentro de los tres días siguientes.
+3.- Fecha día y hora para efectuarse el concurso por oposición, y
+
+4.- Fecha para conocer los resultados.
+
+B).- Calificará y determinará a las personas idóneas para ocupar el cargo de Procurador. El día fijado en la convocatoria en el cual deberá efectuase el concurso por oposición, se dará el uso de la voz hasta por treinta minutos a cada aspirante que expondrá invariablemente los motivos de su interés y un programa mínimo de trabajo.
+
+C).- Resolverá por mayoría absoluta sobre la elección inmediatamente después de que hayan expuesto los aspirantes o dentro de las veinticuatro horas siguientes, en todo caso se deberá fundar y motivar públicamente los criterios que determinaron la elección.
+
+D).- Una vez electa la persona que ocupará el puesto de Procurador, lo citará para que comparezca en sesión pública para rendir protesta de Ley.
+
+Este procedimiento no deberá exceder de treinta días del plazo en que se produzca la vacante.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 10.
 
-Es facultad del Procurador nombrar a los Subprocuradores y someter su nombramiento a la ratificación del Congreso mediante el siguiente procedimiento.
+Para apoyar y orientar a la Procuraduría en el desempeño de sus responsabilidades y como organismo de participación ciudadana de carácter multisectorial para la vigilancia del respeto a los derechos humanos en el territorio del estado, la Procuraduría contará con un Consejo Consultivo integrado por un mínimo de siete ciudadanos que gocen de reconocido prestigio en la sociedad bajacaliforniana que se haya significado por su interés y capacidad en la defensa, difusión y promoción de los derechos humanos.
 
-A).- El Procurador de los Derechos Humanos y Protección Ciudadana remitirá al Congreso el nombramiento de Subprocurador acompañado de la documentación pertinente.
+Al Procurador de los Derechos Humanos le corresponderá proponer los nombramientos de los integrantes del Consejo Consultivo, los que deberán de ser aprobados por mayoría absoluta del Congreso del Estado.
 
-B).- El Congreso del Estado verificará que se satisfagan los requisitos señalados en el Artículo Octavo de esta Ley, siguiendo para ello el procedimiento establecido en la Ley Orgánica del Congreso.
+El Consejo se reunirá ordinariamente cada dos meses y extraordinariamente a solicitud del Procurador.
 
-C).- La resolución del Congreso o de la Comisión Permanente en su caso, se notificará de inmediato al Procurador de los Derechos Humanos y Protección Ciudadana a efecto de que proceda a tomar la protesta al nuevo Subprocurador o hacer un nuevo nombramiento según proceda.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 11.
 
-Para apoyar y orientar a la Procuraduría en el desempeño de sus responsabilidades y como organismo de participación ciudadana para la vigilancia del respeto a los Derechos Humanos en el territorio del Estado, la Procuraduría de los Derechos Humanos contará con un Consejo Consultivo integrado por un mínimo de siete ciudadanos que gocen de reconocido prestigio en la Sociedad y que se hayan significado por su interés y capacidad en la defensa, difusión y promoción de los Derechos Humanos.
+En la elección y remoción de los Subprocuradores de la Procuraduría de los Derechos Humanos y Protección Ciudadana se deberán observar los siguientes procedimientos.
 
-Es facultad del Procurador nombrar a los integrantes del Consejo y someter los nombramientos a la ratificación del Congreso.
+I.- En la elección:
 
-El Consejo Consultivo es un órgano permanente de consulta de la Procuraduría que realizará una función colegiada de análisis y de opinión de la problemática a la que se enfrentan los Derechos Humanos en el Estado de Baja California.
+a).- Al Procurador de los Derechos Humanos le corresponderá proponer los nombramientos de los Subprocuradores; los que deberán de ser aprobados por mayoría simple de los miembros del Consejo Consultivo;
 
-El cargo de Consejero es de carácter honorario.
+b).- En caso de que alguna propuesta del Subprocurador no sea aprobada por el Consejo Consultivo el Procurador de los Derechos Humanos deberá someter a su consideración un nuevo candidato;
 
-El Consejo se reunirá ordinariamente cada tres meses y extraordinariamente a solicitud del Procurador.
+c).- Aprobados que sean los nombramientos de los Subprocuradores deberán rendir protesta del cargo ante el Procurador.
 
-El Consejo además de las funciones de Asesoría, análisis, opinión y recomendación, ejercerá las funciones que expresamente le asigne el Procurador en el ámbito de su competencia.
+II.- En la remoción:
+
+a).- Corresponderá al Procurador de los Derechos Humanos la remoción de los Subprocuradores previa aprobación por mayoría simple del Consejo Consultivo.
 
 ### CAPITULO TERCERO. DE LAS FUNCIONES DE LA PROCURADURIA
 
@@ -169,7 +197,9 @@ X.- Sugerir al superior jerárquico del servidor público infractor, la aplicaci
 
 XI.- Actuar de oficio o a petición de parte para conocer de violaciones a los Derechos Humanos en el Estado.
 
-XII.- Solicitar la intervención del Ministerio Público, cuando pueda presumirse como resultado de la investigación practicada la Comisión de un delito; y de la Secretaría de la Contraloría del Estado cuando se conozca de irregularidades de su competencia.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XII.- Solicitar la intervención del Ministerio Público, cuando pueda presumirse como resultado de la investigación practicada la comisión de un delito; y de los órganos competentes en materia de responsabilidades cuando se conozca de irregularidades de su competencia.
 
 XIII.- Certificar los hechos en que intervenga en el Ejercicio de sus funciones.
 
@@ -207,17 +237,21 @@ El Procurador de los Derechos Humanos y Protección Ciudadana del Estado de Baja
 
 El Procurador durará en su encargo un período de tres años y no podrá ser removido si no es por causa justificada a juicio del Congreso del Estado en los términos de la Ley de Responsabilidades de los Servidores Públicos, pudiendo ser ratificado para un segundo período.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 19.
 
-Es facultad exclusiva del Procurador de los Derechos Humanos y Protección Ciudadana nombrar y remover libremente a los Subprocuradores, a los miembros del Consejo, al personal técnico y administrativo del organismo. El nombramiento de Subprocurador requiere de ratificación por parte del Congreso del Estado en los términos del artículo décimo de esta Ley.
+Es facultad exclusiva del Procurador de los Derechos Humanos y Protección Ciudadana nombrar y remover libremente al personal Técnico y Administrativo del organismo; así como solicitar al Congreso del Estado la remoción y sustitución de los miembros del Consejo Consultivo.
 
 ###### ARTICULO 20.
 
 El Procurador de los Derechos Humanos y Protección Ciudadana así como los Subprocuradores no podrán desempeñar algún otro cargo o empleo público o privado.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 21.
 
-El Procurador de los Derechos Humanos y Protección Ciudadana propondrá al Gobernador del Estado para su expedición, el Reglamento Interno de la Procuraduría de los Derechos Humanos y Protección Ciudadana en el que se determinarán las áreas y unidades administrativas y técnicas, fijándose en ese ordenamiento las funciones y facultades que deberán ser ejercidas por los titulares y el personal de cada una de ellas.
+El Procurador de los Derechos Humanos y Protección Ciudadana, propondrá al Consejo Consultivo para su aprobación el Reglamento Interior de la Procuraduría, en este se deberán determinar las áreas y unidades administrativas y técnicas, así como las funciones y facultades que corresponderán a los titulares de cada una de ellas.
 
 ###### ARTICULO 22.
 
@@ -295,7 +329,9 @@ III.- Solicitar al superior jerárquico del servidor público infractor, la apli
 
 IV.- Solicitar la intervención del Ministerio Público cuando a su juicio se den elementos constitutivos de delitos del orden común.
 
-V.- Solicitar la intervención enel (sic) ámbito de su respectiva competencia, del Congreso del Estado; del Tribunal Superior de Justicia del Estado; de la Secretaría de la Contraloría General y de más dependencias del Ejecutivo Estatal, de los Ayuntamientos y Consejos Municipales en su caso, y de los demás Organos Jurisdiccionales que determine las leyes como autoridades competentes para aplicar las sanciones administrativas contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado, Reglamentaria del Título 8o. de la Constitución Política del Estado de Baja California.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+V.- Solicitar la intervención en el ámbito de su competencia, del Congreso del Estado; del Tribunal Superior de Justicia del Estado; de los órganos competentes en materia de responsabilidades, de las dependencias del Ejecutivo Estatal, de los Ayuntamientos y Consejos Municipales en su caso y de los demás Organos Jurisdiccionales que determinen las Leyes como autoridades competentes.
 
 ###### ARTICULO 36.
 
@@ -315,11 +351,11 @@ La Procuraduría podrá verificar y cerciorarse de que se ha cumplido efectivame
 
 ### CAPITULO SEPTIMO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 40.
 
-El Procurador de los Derechos Humanos y Protección Ciudadana, con la finalidad de prevenir, reparar actos de los servidores públicos que violen o afecten los derechos y libertades fundamentales de la persona y que sean contrarias a la legalidad, honradez, lealtad, imparcialidad y eficacia que deban observar.
-
-En el desempeño de su empleo, cargo o comisión, podrá solicitar al superior jerárquico del infractor, atendiendo a la gravedad de la falta, la aplicación de las sanciones previstas en los términos del Título III de la Ley de Responsabilidades de los Servidores Públicos.
+El Procurador de los Derechos Humanos y Protección Ciudadana, con la finalidad de prevenir, reparar actos de los servidores públicos que violen o afecten los derechos y libertades fundamentales de la persona y que sean contrarias a la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar, podrá solicitar al órgano competente la aplicación de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos.
 
 T R A N S I T O R I O S :
 
@@ -368,3 +404,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HECTOR TERAN TERAN
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Inmediatamente después de la entrada en vigor del presente decreto, se deberán actuar las disposiciones normativas reglamentarias de la Ley Sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California en los términos de estas modificaciones.
