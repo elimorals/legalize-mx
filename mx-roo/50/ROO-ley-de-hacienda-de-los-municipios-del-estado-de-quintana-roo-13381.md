@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "1997-12-15"
+last_updated: "1998-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,47 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA COORDINACIÓN DE TRANSPORTES AÉREOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014.
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
+Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de febrero de 2010.
 
-DECRETO NUMERO 107.
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Ejecutivo del Estado de Chiapas.
 
-POR EL QUE SE CREA LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 42 y 44 de la Constitución Política del Estado de Chiapas, 5°, 8°, 13 y 23 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, y;
 
-LA HONORABLE VIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+C o n s i d e r a n d o.
 
-DECRETA:
+Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo tiene a bien expedir el siguiente:
 
-## TITULO PRIMERO
+Reglamento Interior de la Coordinación de Transportes Aéreos
 
-### CAPITULO ÚNICO. DISPOSICIONES GENERALES
+## Título Primero. Disposiciones Generales
+
+### Capítulo Único. Del Ámbito de Competencia
+
+###### Artículo 1°.
+
+Las disposiciones del presente Reglamento, son de orden e interés público, y tienen por objeto regular la organización, administración y funcionamiento de la Coordinación de Transportes Aéreos, en términos de las atribuciones y competencias que le son conferidas en el Decreto de Creación y demás normatividad aplicable.
+
+El presente Reglamento, es de observancia obligatoria para los servidores públicos adscritos a la Coordinación de Transportes Aéreos.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 2°.
+
+La Coordinación de Transportes Aéreos, es un Órgano Desconcentrado de la Secretaría de Infraestructura y Comunicaciones, con plena autonomía técnica, administrativa, operativa, presupuestal y de ejecución, que tiene a su cargo el despacho de los asuntos que le confiere su Decreto de Creación, el presente Reglamento Interior y demás disposiciones legales aplicables dentro del ámbito de su competencia.
+
+###### Artículo 3°.
+
+La Coordinación de Transportes Aéreos, tiene como objeto fundamental, coordinar y controlar las operaciones de transporte que realizan las aeronaves propiedad del Gobierno del Estado y las que se encuentren bajo su custodia, así como aplicar y supervisar su debido mantenimiento y conservación.
+
+###### Artículo 4°.
+
+La Coordinación de Transportes Aéreos, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo, Federal, Estatal y Municipal, impulsarán los objetivos contemplados en el Plan de Desarrollo Chiapas Solidario 2007-2012, en congruencia con el Plan Nacional de Desarrollo.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 1º.
 
@@ -57,35 +81,55 @@ La administración y recaudación de los gravámenes fiscales previstos en esta 
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos, es competencia de las Tesorerías Municipales, sus dependencias y órganos auxiliares.
 
-## TITULO SEGUNDO. DE LOS IMPUESTOS
+## Título Segundo. De la Organización de la Coordinación y de las Atribuciones del Coordinador
 
-### CAPITULO I. DEL IMPUESTO PREDIAL
+### Capítulo I. De la Estructura Orgánica de la Coordinación
 
-OBJETO DEL IMPUESTO
+###### Artículo 7°.
 
-###### ARTÍCULO 5°.
+Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, funciones y despacho de los asuntos de su competencia, la Coordinación tendrá los Órganos Administrativos siguientes:
 
-Es objeto del Impuesto Predial:
+I. Coordinación
 
-I.- La propiedad de predios urbanos y suburbanos;
+II. Unidad de Desarrollo Tecnológico y Sistemas
 
-II.- La propiedad de predios rústicos;
+III. Unidad de Apoyo Administrativo
 
-III.- La propiedad ejidal urbana; y
+IV. Dirección de Mantenimiento
 
-IV.- La posesión de predios urbanos y suburbanos en los casos siguientes:
+a) Coordinación Operativa
 
-a).- Cuando no exista o se desconozca al propietario.
+V. Dirección de Operaciones.
 
-b).- Cuando se derive de contrato de promesa de venta, de venta con reserva de dominio y de promesa de venta de certificado de participación inmobiliaria de vivienda, de simple uso de cualquier otro título similar que autorice la ocupación material del inmueble aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+###### Artículo 8°.
 
-c).- Cuando los predios que menciona el Artículo siguiente no sean explotados por la Federación, el estado o los municipios.
+El Coordinador, para el cumplimiento de sus atribuciones, contará con los órganos administrativos y plantilla de plazas necesarias, de conformidad con el Presupuesto de Egresos que le sea autorizado a la Coordinación.
 
-d).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
+###### Artículo 9°.
 
-El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes.
+El desempeño de los servidores públicos de la Coordinación, se regirá por los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
 
-En los predios rústicos comprende solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente para fines agropecuarios y ganaderos.
+###### Artículo 10.
+
+La Coordinación, a través de su estructura orgánica, conducirá y desarrollará sus atribuciones y las actividades de su competencia, en forma planeada y programada, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan de Desarrollo Chiapas Solidario 2007- 2012, y con base en las políticas, prioridades, restricciones y disposiciones que determine el Titular del Ejecutivo.
+
+###### Artículo 5°.
+
+Para los efectos del presente Reglamento se entenderá por:
+
+I. Titular del Ejecutivo: Al Titular del Poder Ejecutivo del Estado.
+
+II. Coordinación: A la Coordinación de Transportes Aéreos.
+
+III. Coordinador: Al Titular de la Coordinación de Transportes Aéreos.
+
+IV. Decreto de Creación: Al Decreto de Creación de la Coordinación de Transportes Aéreos.
+
+V. Órganos Administrativos: A los órganos que forman parte de la estructura orgánica de la Coordinación de Transportes Aéreos.
+
+###### Artículo 6°.
+
+Los Titulares de los Órganos Administrativos que integran la Coordinación, coordinarán y supervisarán la creación y mantenimiento de los archivos a su cargo, así como la clasificación de los documentos en los términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
 
 ###### ARTÍCULO 6º.
 
@@ -123,215 +167,277 @@ Son sujetos por deuda ajena y responsabilidad sustituta del Impuesto Predial, lo
 
 BASE Y TASA DEL IMPUESTO
 
-###### ARTÍCULO 11.
+###### Artículo 11.
 
-La base del impuesto en los predios urbanos y rústicos será elegida entre el valor catastral, el bancario, el declarado por el contribuyente o la renta que produzca o sea susceptible de producir el predio, tomando en consideración el valor más alto.
+La representación, trámite y resolución de los asuntos competencia de la Coordinación, corresponden originalmente al Coordinador, quien para la mejor atención, administración, desarrollo y realización de sus actividades, podrá delegar atribuciones en servidores públicos subalternos, sin perjuicio de su ejercicio directo, salvo aquellas que deban desarrollarse de manera personalísima.
 
-###### ARTÍCULO 12.
+###### Artículo 12.
 
-Cuando se trate de predios urbanos y rústicos que se encuentren sujetos al régimen de propiedad en condominio, la base del impuesto se determinará por el valor de cada una de las unidades privativas resultantes de la constitución del régimen en condominio.
+El Coordinador tendrá las atribuciones delegables siguientes:
 
-En caso que haya sido cubierto el pago del impuesto predial antes de la formalización del régimen de propiedad en condominio, se aplicará la parte proporcional a cada unidad privativa, conforme a los proindivisos que les correspondan, debiendo cubrir cada unidad en lo individual el impuesto predial correspondiente a partir de la fecha de formalización del régimen de propiedad en condominio.
+I. Representar legalmente a la Coordinación en el ámbito, de su competencia, ante todo tipo de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales.
 
-###### ARTÍCULO 13.
+La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima.
 
-El Impuesto Predial se determinará, liquidará y recaudará de acuerdo con la siguiente:
+II. Autorizar las operaciones que realizan las aeronaves en el ámbito de su competencia.
 
-TARIFA
+III. Establecer las operaciones de vuelo de acuerdo a las leyes, normas, procedimientos y manuales emitidos por las autoridades competentes.
 
-I.- En los municipios de Othón P. Blanco, Cozumel, Isla Mujeres y Solidaridad se aplicarán las siguientes tasas por cada año:
+IV. Validar el mantenimiento correctivo y preventivo de las aeronaves, así como la conservación de los hangares y equipos de tierra.
 
-a).- En predios edificados en zonas urbanas, cuando el valor no exceda de $ 5,000.00 2.3 S.M.G.
+V. Instruir proyectos para la formación, capacitación y adiestramiento del personal de la Coordinación.
 
-b).- De $ 5,001.00 en adelante 8.4 al millar
+VI. Establecer programas de selección, contratación y promoción de los recursos humanos de la Coordinación, de conformidad con las disposiciones administrativas aplicables.
 
-c).- Predios rústicos 9.2 al millar
+VII. Proponer los programas, proyecto de reglamento interior y manuales administrativos de la Coordinación.
 
-d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
+VIII. Otorgar permisos y licencias, con y sin goce de sueldos al personal de la Coordinación, designando a quienes los sustituyan provisionalmente; así como comisiones y vacaciones del personal de su adscripción, que en términos de la ley resulte procedente en función de las necesidades del servicio.
 
-1.- Predios que no cuenten con banquetas 20.7 al millar
+IX. Conocer y resolver, en razón al ámbito de su competencia, de todas y cada una de las solicitudes de información pública que solicite la ciudadanía.
 
-2.- Predios que no cuenten con bardas 20.7 al millar
+X. Vigilar que las funciones de los órganos administrativos de la Coordinación y personal adscrito a éste, se realicen con eficacia, eficiencia, oportunidad y de conformidad con la normatividad aplicable.
 
-3.- Predios que no cuenten con construcciones permanentes 28.5 al millar
+XI. Conocer y resolver los asuntos de carácter administrativo y laboral, relacionados con la administración de los recursos humanos, financieros y materiales de la Coordinación.
 
-4.- Predios que no cuenten con bardas y banquetas 21.5 al millar
+XII. Vigilar que se ejecuten con eficiencia, las actividades técnicas, administrativas y financieras de la Coordinación.
 
-5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
+XIII. Vigilar que la normatividad aplicable a las funciones y el cumplimiento a las atribuciones de la Coordinación, se mantengan actualizadas, instruyendo a sus áreas de apoyo la elaboración de los proyectos tendentes a alcanzar dicho fin.
 
-II.- En los municipios de José María Morelos, Felipe Carrillo Puerto y Lázaro Cárdenas, se aplicarán las siguientes tasas por cada año:
+XIV. Participar en las Comisiones, Congresos, Consejos, reuniones, juntas y organizaciones nacionales e internacionales, competencia de la Coordinación.
 
-a).- Cuando el valor no exceda de $5,000.00 2.3 S.M.G.
+XV. Las demás que en el ámbito de su competencia, le asigne el Titular del Ejecutivo, y demás disposiciones legales aplicables que sean necesarias para el cumplimiento del objeto de creación de la Coordinación.
 
-b).- De $ 5,001.00 en adelante 13.8 al millar
+###### Artículo 13.
 
-c).- Predios rústicos 9.2 al millar
+El Coordinador tendrá las atribuciones indelegables siguientes:
 
-d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
+I. Fijar las políticas y organización de la Coordinación, así como evaluar los programas en los términos de la legislación aplicable.
 
-1.- Predios que no cuenten con banquetas 20.7 al millar
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2014)</small>
 
-2.- Predios que no cuenten con bardas 20.7 al millar
+II. Acordar con el Titular del Ejecutivo, y en su caso con el titular de la Secretaría de Infraestructura y Comunicaciones, los asuntos encomendados a la Coordinación que así lo ameriten.
 
-3.- Predios que no cuenten con construcciones permanentes 28.5 al millar
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-4.- Predios que no cuenten con bardas y banquetas 21.5 al millar
+III. Proponer al Titular del Ejecutivo, y en su caso suscribir contratos, convenios y toda clase de actos jurídicos que se relacionen directamente con los asuntos competencia de la Coordinación, que sean necesarios para el cumplimiento de su objeto.
 
-5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-III.- En el municipio de Benito Juárez, se aplicarán las siguientes tasas por cada año:
+IV. Proponer al Titular del Ejecutivo, los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones sobre los asuntos competencia de la Coordinación.
 
-a).- Predios urbanos 6.9 al millar
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-b).- Predios rústicos 8.0 al millar
+V. Proponer al Titular del Ejecutivo, las políticas y acciones que requiera la instrumentación de los programas sectoriales a su cargo.
 
-c).- Cuando alguno de estos predios con excepción de los rústicos no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
+VI. Autorizar la tramitación de transferencias, reducciones y ampliaciones de las partidas presupuestales asignadas a la Coordinación, ante la Dependencia normativa correspondiente.
 
-1.- Predios que no cuenten con banquetas 7 al millar
+VII. Expedir los Manuales Administrativos, lineamientos y demás normatividad administrativa para el mejor funcionamiento de la Coordinación.
 
-2.- Predios que no cuenten con bardas 7 al millar
+VIII. Validar y presentar ante las instancias correspondientes el anteproyecto del Presupuesto Anual de Egresos y la Cuenta de la Hacienda Pública de la Coordinación, para su aprobación, en términos y de conformidad con las disposiciones legales aplicables.
 
-3.- Predios que no cuenten con construcciones permanentes 18 al millar
+IX. Emitir y/o establecer las normas, políticas y procedimientos aplicables en las acciones administrativas y en materia de operaciones de vuelo, competencia de la Coordinación.
 
-4.- Predios que no cuenten con bardas y banquetas 7.5 al millar
+X. Autorizar el ingreso, promoción, remoción y cambio de adscripción del personal de la Coordinación.
 
-5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 19 al millar
+XI. Emitir resoluciones e imponer las sanciones administrativas que correspondan al personal de la Coordinación, de conformidad con la normatividad aplicable.
 
-###### ARTÍCULO 14.
+XII. Solicitar el fortalecimiento de la estructura orgánica y plantilla de plazas ante la instancia correspondiente.
 
-El valor catastral de los predios será determinado por las unidades de valuación catastral municipales o en caso de no existir, por la Dirección General de Catastro del Estado.
+XIII. Designar al personal que requiere para el despacho de los asuntos competencia de la Coordinación.
 
-DEL PAGO DEL IMPUESTO
+XIV. Expedir constancias y certificar documentos que obren en los archivos de la Coordinación.
 
-###### ARTÍCULO 15.
+XV. Las demás que en el ámbito de su competencia, le asigne el Titular del Ejecutivo, y demás disposiciones legales aplicables que sean necesarias para el cumplimiento del objeto de creación de la Coordinación.
 
-El Impuesto Predial se cubrirá por bimestres adelantados en los diez primeros días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+###### Artículo 14.
 
-EXENCIONES
+Los Titulares de los Órganos Administrativos de la Coordinación tendrán las atribuciones generales siguientes:
 
-###### ARTÍCULO 16.
+I. Acordar con el Coordinador, el despacho y resolución de los asuntos de su competencia, así como informar a éste, de manera permanente, el trámite y atención de los mismos.
 
-Están exentos del pago del Impuesto Predial:
+II. Establecer con los demás Órganos Administrativos, coordinación para el mejor despacho de los asuntos de su competencia.
 
-I.- Los predios del dominio público de la Federación, del Estado y de los municipios.
+III. Autorizar comisiones y vacaciones del personal de su adscripción, que en términos de la ley resulte procedente, en función de las necesidades del servicio.
 
-II.- Los bienes destinados a servicios públicos ya sean propiedad del Gobierno federal, estatal o municipal o de otras instituciones en que éstas tengan interés patrimonial previa comprobación y cuando sean motivo de usufructo.
+IV. Elaborar y ejecutar los programas y proyectos propios del Órgano Administrativo a su cargo.
 
-###### ARTÍCULO 17.
+V. Desempeñar las comisiones y representaciones que le encomiende el Coordinador en el ámbito de su competencia, e informar su resultado.
 
-Cuando el impuesto causado sea cubierto en una sola emisión por anticipado, y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, se faculta a los Ayuntamientos a conceder un descuento hasta del 15% del total del importe, siempre y cuando el pago se efectúe antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, un 10% del total del importe.
+VI. Proponer proyectos de elaboración o actualización del Reglamento Interior y Manuales Administrativos de la Coordinación.
 
-DISPOSICIONES DIVERSAS
+VII. Vigilar el cumplimiento de las Leyes, Reglamentos, Decretos, Acuerdos, Circulares y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados al Órgano Administrativo a su cargo.
 
-###### ARTÍCULO 18.
+VIII. Proponer al Coordinador las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas, en la materia de su competencia.
 
-El impuesto afecta directamente a los predios sea quien fuere su propietario o poseedor y serán enterados por éstos o por sus representantes, pero el pago puede hacerlo cualquier otra persona.
+IX. Participar en la formulación e integración de los planes y programas operativos del Órgano Administrativo bajo su responsabilidad, vigilando su cabal cumplimiento.
 
-###### ARTÍCULO 19.
+X. Coordinar la elaboración, integración y ejecución de los programas y proyectos del Órgano Administrativo a su cargo.
 
-La cuota del impuesto sobre la base del valor catastral, cuando se trate de avalúo o reavalúo del predio, entrará en vigor a partir del bimestre siguiente al de la fecha en que se practique el avalúo o reavalúo conforme a esta Ley, siempre que el contribuyente cumpla con lo dispuesto en el Artículo 20.
+XI. Aplicar las políticas, normas y procedimientos que les corresponden, cumpliendo y haciendo cumplir la normatividad vigente, apoyando y asesorando al Coordinador, y a los titulares de los Órganos Administrativos que integran la Coordinación, en los asuntos de su competencia o que les encomiende expresamente el Coordinador.
 
-###### ARTÍCULO 20.
+XII. Proponer el anteproyecto de Presupuesto Anual de Egresos y el Programa Operativo Anual del Órgano Administrativo a su cargo, así como vigilar su aplicación de acuerdo a lo planeado.
 
-Los avalúos realizados por la unidad de valuación catastral municipal o en caso de no existir, por la Dirección General de Catastro del Estado tendrán una vigencia de dos años, por lo que en el bimestre anterior a su vencimiento el dueño o poseedor del predio tiene la obligación de solicitar el avalúo. La simple notificación del reavalúo será suficiente para la aplicación y cobro del impuesto.
+XIII. Programar y organizar el desarrollo de las actividades encomendadas al personal que integra el Órgano Administrativo a su cargo.
 
-###### ARTÍCULO 21.
+XIV. Establecer sistemas de control y seguimiento en los aspectos administrativos, durante el proceso de ejecución de los programas y proyectos del Órgano Administrativo a su cargo.
 
-Los Ayuntamientos del estado, por conducto de sus Tesorerías, determinarán el gravamen y accesorios en cantidad líquida y los harán efectivos respecto de los cinco años anteriores, conforme a las disposiciones en esa época.
+XV. Acordar con el Coordinador la resolución de los asuntos cuya tramitación se encuentre dentro de la competencia a su cargo.
 
-### CAPITULO II. DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
+XVI. Formular los anteproyectos de programas, presupuestos y los demás que les correspondan en el ámbito de su competencia.
 
-###### ARTÍCULO 22.
+XVII. Suscribir acuerdos, documentos y demás actos jurídicos y administrativos relativos al ejercicio de sus funciones, y aquellos que le sean asignados por delegación o le correspondan por suplencia.
 
-El objeto de este impuesto es la percepción de ingresos derivados de la explotación de diversiones y espectáculos públicos.
+XVIII. Proponer al Coordinador él ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal a su cargo.
 
-###### ARTÍCULO 23.
+XIX. Elaborar proyectos para crear, modificar, reorganizar y suprimir los Órganos Administrativos a su cargo para hacerlos más eficientes.
 
-Son sujetos de este gravamen las personas físicas o morales y unidades económicas que obtengan ingresos por la explotación de diversiones y espectáculos públicos.
+XX. Proporcionar información y cooperación técnica que les soliciten las Direcciones o Unidades de la Coordinación, así como otras Dependencias del Ejecutivo del Estado, de acuerdo con las políticas establecidas a este respecto.
 
-###### ARTÍCULO 24.
+XXI. Promover y participar en la organización de cursos de capacitación, seminarios y conferencias que se impartan a su personal.
 
-La base del impuesto serán los ingresos globales que se obtengan con motivo de las actividades materia del gravamen.
+XXII. Desempeñar las comisiones y representaciones que les encomiende el superior jerárquico en e (sic) ámbito de su competencia e informarle su resultado.
 
-###### ARTÍCULO 25.
+XXIII. Establecer normas y lineamientos para el cumplimiento de los programas encomendados al Órgano Administrativo a su cargo.
 
-Este impuesto se causará de acuerdo con la siguiente tarifa:
+XXIV. Atender y dar respuesta, a las solicitudes de información pública que presenten los ciudadanos, en él ámbito de su competencia.
 
-I.- Cinematógrafos 4%
+XXV. Las demás que en el ámbito de su competencia les confieran las disposiciones legales aplicables así como las que les asigne el Coordinador.
 
-II.- Dramas, zarzuelas, comedia y ópera 4%
+###### Artículo 15.
 
-III.- Variedades y similares, aún cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, siempre que no estén gravados por la Ley del I.V.A. del 5% al 30%
+El Titular de la Unidad de Desarrollo Tecnológico y Sistemas, tendrá las atribuciones siguientes:
 
-Cuando no se expidan boletos o comprobantes, la Tesorería Municipal, respectiva fijará cuota diaria de 5 a 30 s.m.g.
+I. Integrar el Plan Anual de Trabajo de la Unidad e informar al Coordinador, del avance de las actividades programadas.
 
-IV.- Circos 4%
+II. Participar en la formulación del Programa Estatal de Informática, manteniendo comunicación permanente con la Dependencia normativa correspondiente, para el cumplimiento de las funciones que le asignen a la Unidad.
 
-O en su caso la Tesorería fijará, una cuota diaria de 5 a 7 s.m.g.
+III. Vigilar y difundir la aplicación de las normas, políticas, procedimientos y sistemas que en materia de informática establezca la Dependencia normativa correspondiente.
 
-V.- Corridas de toros del 15 al 30%
+IV. Analizar y determinar la viabilidad de los proyectos de automatización propuestos por los Órganos Administrativos de la Coordinación, conforme a la normatividad, así como apoyar a los mismos, en la automatización de sus actividades.
 
-O en su caso la cuota que fije la Tesorería municipal de 7 a 25 s.m.g.
+V. Supervisar la correcta administración y operación de equipos y sistemas de los Órganos Administrativos de la Coordinación, proponiendo procedimientos para el mismo.
 
-VI.- Jaripeos del 10 al 20%
+VI. Proponer proyectos de adquisiciones de bienes y servicios informáticos que coadyuven a satisfacer las necesidades de los Órganos Administrativos de la Coordinación, previa detección y análisis de necesidades, así como los que presenten las direcciones y unidades de la Coordinación.
 
-VII.- Box y lucha del 15 al 30%
+VII. Coordinar los sistemas de información de la Coordinación, de acuerdo con las normas, procesamientos e indicadores que la Unidad establezca.
 
-VIII.- Juegos deportivos del 15 al 30%
+VIII. Supervisar los proyectos de mantenimiento preventivo y correctivo, así como el soporte técnico a los equipos de tecnología de información y comunicaciones, asignados a la Coordinación.
 
-IX.- Kermesses, verbenas, del 10 al 20%
+IX. Supervisar los proyectos de sistemas computacionales para los Órganos Administrativos de la Coordinación, y mantener la seguridad de información de dichos sistemas.
 
-O en su caso la cuota que fije la Tesorería Municipal de 3.5 a 10 s.m.g.
+X. Aplicar los programas tendentes a lograr en la Coordinación, un desarrollo informático y de comunicación caracterizado por la actualización tecnológica y óptima utilización de los equipos y programas de cómputo.
 
-X.- Carrusel, sillas voladoras, rueda de la fortuna, camiones, pulpos, chicotes y aparatos similares, del 10 al 20%
+XI. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como las-que le asigne el Coordinador.
 
-Cuando no se expidan boletos o comprobantes, la Tesorería Municipal respectiva fijará cuotas diarias por cada juego de 2 a 15 s.m.g.
+###### Artículo 16.
 
-XI.- Bailes públicos de 4.5 a 30 s.m.g.
+La Unidad de Apoyo Administrativo tendrá los Órganos Administrativos siguientes:
 
-XII.- No especificados, siempre que no sean gravados por el I.V.A. del 15 al 30%
+a) Área de Recursos Humanos.
 
-XIII.- Aparatos automáticos y eléctricos no musicales que trabajan con cualquier tipo de ficha o moneda, y electrónicos, diarios por cada juego de 0.50 a 2.5 s.m.g
+b) Área de Recursos Financieros y Contabilidad.
 
-XIV.- Proyecciones públicas con fines lucrativos del y 10 al 30%
+c) Área de Recursos Materiales y Servicios Generales.
 
-Cuando no se expidan boletos o comprobantes, la Tesorería Municipal
+###### Artículo 17.
 
-respectiva fijará cuotas diarias de 1 a 2 S.M.G.
+El Titular de la Unidad de Apoyo Administrativo tendrá las atribuciones siguientes:
 
-###### ARTÍCULO 26.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-El impuesto deberá pagarse ante la Tesorería Municipal de la siguiente forma:
+I. Vigilar el cumplimiento de las leyes estatales en materia presupuestal y financiera, de recursos humanos y de recursos materiales, las políticas, lineamientos y procedimientos que establezca el Titular del Ejecutivo, en el ámbito de su competencia.
 
-I.- Por adelantado o a más tardar el mismo día en que se inicia o celebre el espectáculo, si puede determinarse previamente su monto;
+II. Proponer al Coordinador el anteproyecto de Presupuesto Anual de Egresos, Programa Operativo Anual, la Cuenta de la Hacienda Pública y el Informe de Gobierno competencia de la Coordinación.
 
-II.- Al terminar el espectáculo en los casos en que no pueda determinarse previamente el monto. A este propósito, la autoridad Municipal nombrará un interventor para que liquide y cobre el monto del impuesto; y
+III. Gestionar las modificaciones presupuestales que se deriven de los ajustes procedentes del programa operativo de la Coordinación, ante la Dependencia Normativa correspondiente.
 
-III.- Dentro de los tres días hábiles siguientes al de la fecha de notificación, cuando se trate de liquidaciones adicionales para rectificar errores de liquidaciones anteriores o por alguna otra causa.
+IV. Contabilizar las operaciones financieras de la Coordinación, y generar la información presupuestal y contable en las formas y tiempos establecidos por la Dependencia Normativa correspondiente.
 
-###### ARTÍCULO 27.
+V. Efectuar las adquisiciones de bienes y servicios que requiera la Coordinación conforme a la ley de la materia y a las medidas de racionalidad y austeridad del Gobierno del Estado.
 
-Son obligaciones de los sujetos del impuesto:
+VI. Detectar las necesidades de capacitación y promover el desarrollo, formación y actualización del personal de la Coordinación.
 
-I.- Obtener ante la autoridad municipal competente el permiso correspondiente antes de anunciar una función o serie de éstas;
+VII. Dar a conocer los manuales administrativos que regulen el funcionamiento de los distintos Órganos Administrativos de la Coordinación.
 
-II.- Anotar en la solicitud del permiso la naturaleza del espectáculo, días, fecha y lugar en que haya de efectuarse, la clasificación de asientos, el máximo de espectadores que podrá contener el local y acompañar tres ejemplares del programa respectivo;
+VIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Coordinador.
 
-III.- Permitir que el personal que designe la Tesorería Municipal vigile el cumplimiento de las disposiciones de esta Ley y demás ordenamientos en vigor;
+###### Artículo 18.
 
-IV.- Presentar a la Tesorería Municipal los boletos o contraseñas para su resello, absteniéndose de venderlos si no está cubierto este requisito, aún cuando no haya impuesto a enterar;
+La Dirección de Mantenimiento tendrá el Órgano Administrativo siguiente:
 
-V.- Dar aviso a la Tesorería Municipal, cuando menos con tres horas de anticipación a aquélla en que deba principiar la función, de cualquier variación a los programas en lo referente a los precios, horario, lugar de celebración o tipo de espectáculo;
+a) Coordinación Operativa.
 
-VI.- No permitir a persona alguna la entrada sin el correspondiente boleto, salvo a los empleados y policías, para el desempeño de su (sic) funciones y a los empleados del establecimiento;
+###### Artículo 19.
 
-VII.- Entregar al interventor al terminar cada función, los boletos inutilizados;
+El Titular de la Dirección de Mantenimiento tendrá las atribuciones siguientes:
 
-VIII.- Empadronarse si son contribuyentes habituales, o dar aviso de iniciación de actividades, si no lo son, a la Tesorería Municipal, previamente al desarrollo de sus operaciones, proporcionando los datos relativos a su nombre o denominación, fecha en que vaya a iniciar la explotación, tipo de espectáculo o diversión, horario y período durante el cual se vaya a explotar la actividad;
+I. Supervisar la aplicación de las políticas, normas y procedimientos que en materia de mantenimiento establezca la Dirección General de Aeronáutica Civil.
 
-IX.- Presentar aviso previo en los casos de cambio de domicilio, denominación o razón social, suspensión, reducción o ampliación de actividades y traspaso; y
+II. Implantar métodos, sistemas y procedimientos administrativos para una mayor rentabilidad de las funciones.
 
-X.- Garantizar el pago del impuesto. El Tesorero Municipal podrá si lo considera necesario, bajo su responsabilidad, dispensar dicha garantía.
+III. Proponer las políticas, normas y procedimientos en materia de mantenimiento, para regir y promover la seguridad de las aeronaves.
+
+IV. Proponer al Coordinador, los programas y proyectos en materia de mantenimiento, competencia de la Coordinación.
+
+V. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Coordinador.
+
+###### Artículo 20.
+
+La Dirección de Operaciones tendrá el Órgano Administrativo siguiente:
+
+a) Departamento de Despacho y Control de Vuelos.
+
+###### Artículo 21.
+
+El Titular de la Dirección de Operaciones tendrá las atribuciones siguientes:
+
+I. Establecer políticas, normas y procedimientos para asegurar la eficiencia de las operaciones aeronáuticas.
+
+II. Supervisar las actividades de los pilotos y disponibilidad de las aeronaves, con objeto de dar cumplimiento a los vuelos programados.
+
+III. Coordinar las acciones de verificación de aeronaves, su tripulación y personal de tierra, para proporcionar el servicio oportuno.
+
+IV. Proponer al Coordinador los programas y proyectos en materia de operaciones de vuelo, competencia de la Coordinación.
+
+V. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Coordinador.
+
+### Capítulo II. De las Atribuciones del Coordinador
+
+###### Artículo 22.
+
+La Coordinación Operativa tendrá los Órganos Administrativos siguientes:
+
+a) Subdirección de Ingeniería.
+
+b) Subdirección de Mantenimiento.
+
+###### Artículo 23.
+
+La Coordinación Operativa tendrá las atribuciones siguientes:
+
+I. Mantener un sistema de control de archivos y de los documentos relativos a la certificación de los trabajos realizados por el taller aeronáutico de la Coordinación.
+
+II. Mantener los programas y procedimientos de trabajo del taller aeronáutico de la Coordinación.
+
+III. Vigilar que se efectúen oportunamente los servicios de mantenimiento programados y correctivo a las aeronaves correspondientes.
+
+IV. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables así como las que le asigne el Director de su adscripción o el Coordinador directamente.
+
+###### Artículo 24.
+
+El Coordinador será suplido en sus ausencias por el servidor público que éste designe, previo acuerdo del Titular del Ejecutivo.
+
+###### Artículo 25.
+
+Los Directores y Jefes de Unidad, serán suplidos en sus ausencias por el servidor público que designe el Coordinador.
+
+###### Artículo 26.
+
+Los Titulares de las Áreas, Coordinación Operativa y Departamento, serán suplidos en sus ausencias por los servidores públicos que designen los Directores y Jefes de Unidad según corresponda.
+
+###### Artículo 27.
+
+Las ausencias del personal restante, serán suplidas por los servidores públicos que designe el titular del órgano administrativo al cual se encuentra adscrito, previo acuerdo con el coordinador.
 
 ###### ARTÍCULO 28.
 
@@ -339,9 +445,7 @@ Las Autoridades Municipales deberán dar aviso a la Tesorería, con la anticipac
 
 El incumplimiento de las disposiciones establecidas con relación al Impuesto sobre Diversiones y Espectáculos Públicos, será sancionado con lo establecido en el Código Fiscal Municipal.
 
-### CAPITULO III. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
-
-OBJETO, SUJETO, BASE Y TASA DEL IMPUESTO
+### Capítulo I. De las Atribuciones Generales de los Titulares de los Órganos Administrativos
 
 ###### ARTÍCULO 29.
 
@@ -407,7 +511,7 @@ I.- Vivienda de interés social, aquélla cuyo valor al término de su edificaci
 
 II.- Vivienda popular, aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado.
 
-### CAPITULO IV. DEL IMPUESTO SOBRE EL USO O TENENCIA DE VEHÍCULOS QUE NO CONSUMAN GASOLINA NI OTRO DERIVADO DEL PETRÓLEO
+### Capítulo II. De la Integración de las Unidades y de las Atribuciones de sus Titulares
 
 ###### ARTÍCULO 35.
 
@@ -433,7 +537,7 @@ Si el período de circulación del vehículo es menor de un semestre, solo causa
 
 Los causantes cubrirán el impuesto en la Tesorería Municipal, dentro de los veinte primeros días del mes de enero de cada año, o del siguiente a aquél en que adquieran la propiedad o posesión de los vehículos.
 
-### CAPITULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS, RIFAS Y LOTERÍAS
+### Capítulo III. De la Integración de las Direcciones y de las Atribuciones de sus Titulares
 
 ###### ARTÍCULO 39.
 
@@ -495,7 +599,7 @@ IV.- Conservar, exhibir y poner a disposición de las autoridades fiscales cuand
 
 V.- Garantizar el interés fiscal a juicio de la Tesorería Municipal, previo a la organización o celebración del evento gravado por este impuesto.
 
-### CAPITULO VI. DEL IMPUESTO A MÚSICOS Y CANCIONEROS PROFESIONALES
+### Capítulo IV. De la Integración de la Coordinación Operativa y de las Atribuciones de su Titular
 
 ###### ARTÍCULO 45.
 
@@ -551,9 +655,11 @@ d).- Permisos y documentos que se les soliciten en relación con el pago de este
 
 Asimismo, tendrán la facultad y obligación de retener y enterar el impuesto respectivo en la Tesorería Municipal al día siguiente de la terminación del contrato respectivo o en su caso, en forma mensual.
 
-## TITULO TERCERO. DE LOS DERECHOS
+## Título Tercero. De los Órganos Administrativos de la Coordinación y de las Atribuciones de sus Titulares
 
-### CAPITULO I. DE LOS DERECHOS DE COOPERACIÓN PARA OBRAS PUBLICAS QUE REALICEN LOS MUNICIPIOS
+### Capítulo Único. De las Ausencias y el Orden de Suplencias
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 51.
 
@@ -1979,7 +2085,7 @@ La postura deberá ascender como mínimo a las dos terceras partes del valor com
 
 ### CAPITULO III. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
-## TITULO CUARTO. PRODUCTOS
+## Título Cuarto. De las Suplencias de los Servidores Públicos
 
 ### CAPITULO IV. OCUPACIÓN DE LA VÍA PUBLICA O DE OTROS BIENES DE USO COMÚN
 
@@ -2183,7 +2289,45 @@ DONATIVOS: Son los ingresos que perciba el municipio a título gratuito, que sea
 
 Se entiende por financiamientos los ingresos que perciba el municipio por créditos que le sean concedidos por instituciones financieras, ya sean públicos, privadas o mixtas, y a corto plazo.
 
-## TRANSITORIOS
+## Transitorios
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Reglamento, y se opongan al mismo.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento, y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Coordinador resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en el presente Reglamento, respecto a las Subdirecciones, Departamento y demás funciones del personal, se estará a lo dispuesto por lo (sic) Manuales de Organización y Procedimientos de la Coordinación.
+
+Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
+
+Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de enero del año dos mil diez.
+
+Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al contenido del mismo.
+
+Artículo Tercero. La Coordinación deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto. En tanto se actualizan los Manuales Administrativos respectivos, el Coordinador resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Quinto. Conforme a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 15 DE OCTUBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo Tercero. La Coordinación deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto. Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
 
 ###### ARTÍCULO PRIMERO.
 
