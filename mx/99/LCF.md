@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1997-12-29"
+last_updated: "1998-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -820,17 +820,37 @@ La Junta de Coordinación Fiscal se integra por los representantes que designe l
 
 ###### ARTICULO 25.
 
-Con independencia de lo establecido en los Capítulos I a IV de esta Ley respecto de la participación de los Estados, Municipios y el Distrito Federal en la recaudación federal participable, se constituirán en beneficio de dichas entidades federativas y, en su caso, de los Municipios con cargo a recursos de la Federación, los Fondos siguientes:
+Con independencia de lo establecido en los capítulos I a IV de esta Ley, respecto de la participación de los Estados, Municipios y el Distrito Federal en la recaudación federal participable, se establecen las aportaciones federales, como recursos que la Federación transfiere a las haciendas públicas de los Estados, Distrito Federal, y en su caso, de los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece esta Ley, para los Fondos siguientes:
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- Fondo de Aportaciones para la Educación Básica y Normal;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 II.- Fondo de Aportaciones para los Servicios de Salud;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Fondo de Aportaciones para la Infraestructura Social;
 
-IV.- Fondo de Aportaciones para el Fortalecimiento de los Municipios y del Distrito Federal; y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Fondo de Aportaciones para el Fortalecimiento de los Municipios;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 V.- Fondo de Aportaciones Múltiples.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y
+
+(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998
+
+VII.- Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Dichos Fondos se integrarán, distribuirán, administrarán, ejercerán y supervisarán, de acuerdo a lo dispuesto en el presente Capítulo.
 
@@ -928,31 +948,39 @@ Gti = Gasto total federal que para población abierta se ejerza en las entidades
 
 La Secretaría de Salud dará a conocer anualmente, en el seno del Consejo Nacional de Salud, las cifras que corresponden a las variables integrantes de la fórmula anterior resultantes de los sistemas oficiales de información.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 32.
 
-El Fondo de Aportaciones para la Infraestructura Social se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, al 2.5% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio Presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Del total de la recaudación federal participable el 0.303% corresponderá al Fondo para la Infraestructura Social Estatal y el 2.197% al Fondo para la Infraestructura Social Municipal.
+El Fondo de Aportaciones para la Infraestructura Social se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales por un monto equivalente, sólo para efectos de referencia, al 2.5% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Del total de la recaudación federal participable el 0.303% corresponderá al Fondo para la Infraestructura Social Estatal y el 2.197% al Fondo para Infraestructura Social Municipal.
 
-Los Fondos se enterarán mensualmente por partes iguales a los Estados por conducto de la Federación y a los Municipios a través de los Estados, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+Este fondo se enterará mensualmente en los primeros diez meses del año por partes iguales a los Estados por conducto de la Federación y a los Municipios a través de los Estados, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 33 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+Para efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 33.
 
-Las aportaciones federales que con cargo al Fondo de Aportaciones para la Infraestructura Social reciban los Estados y los Municipios, se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones, que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y de pobreza extrema, en los siguientes rubros: agua potable; alcantarillado; drenaje y letrinas; urbanización municipal; electrificación rural y de colonias pobres; infraestructura básica de salud; infraestructura básica educativa; mejoramiento de vivienda; caminos rurales; e infraestructura productiva rural.
+Las aportaciones federales que con cargo al Fondo de Aportaciones para la Infraestructura Social reciban los Estados y los Municipios, se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema en los siguientes rubros:
 
-En el caso de los Municipios, éstos podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el gobierno estatal correspondiente y el Municipio de que se trate.
+a) Fondo de Aportaciones para la Infraestructura Social Municipal: agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales, e infraestructura productiva rural, y
 
-Respecto de dichas aportaciones, los Estados y los Municipios deberán:
+b) Fondo de Infraestructura Social Estatal: obras y acciones de alcance o ámbito de beneficio regional o intermunicipal.
 
-I.- Hacer del conocimiento de sus habitantes, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios;
+En caso de los Municipios, éstos podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan para la realización de un programa de desarrollo institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno Estatal correspondiente y el Municipio de que se trate.
+
+Adicionalmente, los Estados y Municipios podrán destinar hasta el 3% de los recursos correspondientes en cada caso, para ser aplicados como gastos indirectos a las obras señaladas en el presente artículo. Respecto de dichas aportaciones, los Estados y los Municipios deberán:
+
+I.- Hacer del conocimiento de sus habitantes, los montos que reciban las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios;
 
 II.- Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
 
-III.- Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados; y
+III.- Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados;
 
-IV.- Proporcionar a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social les sea requerida. En el caso de los Municipios lo harán por conducto de los Estados.
+IV.- Proporcionar a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social le sea requerida. En el caso de los Municipios lo harán por conducto de los Estados, y
+
+V.- Procurar que las obras que realicen con los recursos de los Fondos sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sustentable.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -966,7 +994,9 @@ I. Fórmula:
 
 En donde:
 
-Pjw = Brecha respecto a la norma de pobreza extrema de la necesidad básica w para el hogar j en estudio;
+Pjw = Brecha respecto a la norma de pobreza extrema de la necesidad básica w para el
+
+hogar j en estudio;
 
 b1, …,5 = Ponderador asociado a la necesidad básica w; y
 
@@ -1056,29 +1086,33 @@ Con objeto de apoyar a los Estados en la aplicación de sus fórmulas, la Secret
 
 Los Estados, con base en los lineamientos anteriores y previo convenio con la Secretaría de Desarrollo Social, calcularán las distribuciones del Fondo para la Infraestructura Social Municipal correspondientes a sus Municipios, debiendo publicarlas en sus respectivos órganos oficiales de difusión a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología, justificando cada elemento.
 
-Los Estados deberán enterar a sus respectivos municipios los recursos que les correspondan, conforme al calendario de enteros en que la Federación lo haga en favor de los Estados.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+Los Estados deberán entregar a sus respectivos Municipios los recursos que les corresponden conforme al calendario de enteros en que la Federación lo haga a los Estados, en los términos del penúltimo párrafo del artículo 32 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 36.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios y del Distrito Federal se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, al 2.5% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los Estados, y al Distrito Federal, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, al 2.35% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 37 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+Para efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 37.
 
-Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y del Distrito Federal reciban los Municipios, a través de los Estados y el Distrito Federal se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los municipios y el Distrito Federal tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 33 de esta Ley.
+Las Aportaciones Federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios, reciban los mismos a través de los Estados, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 33 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ### CAPITULO IV. De los Organismos en Materia de Coordinación
 
 ###### ARTICULO 38.
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios y del Distrito Federal en proporción directa al número de habitantes con que cuente cada entidad federativa, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios en proporción directa al número de habitantes con que cuente cada Estado, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
 
-Las entidades a su vez distribuirán los recursos que correspondan a sus Municipios, atendiendo estrictamente a los mismos criterios a que se refiere el párrafo anterior.
+Los Estados a su vez distribuirán los recursos que correspondan a sus Municipios, atendiendo estrictamente a los mismos criterios a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1098,51 +1132,79 @@ Las aportaciones federales que con cargo al Fondo de Aportaciones Múltiples rec
 
 El Fondo de Aportaciones Múltiples se distribuirá entre las entidades federativas de acuerdo a las asignaciones y reglas que se establezcan en el Presupuesto de Egresos de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 42.
 
-Las aportaciones que con cargo a los Fondos a que se refiere este Capítulo, reciban las entidades federativas y en su caso los Municipios, y sus accesorios no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37 y 40 de esta Ley.
+Con cargo a las aportaciones del Fondo de Aportaciones para la Educación Tecnológica y de Adultos que les correspondan, los Estados y el Distrito Federal, recibirán los recursos económicos complementarios para prestar los servicios de educación tecnológica y de educación para adultos, cuya operación asuman de conformidad con los convenios de coordinación suscritos con el Ejecutivo Federal, para la transferencia de recursos humanos, materiales y financieros necesarios para la prestación de dichos servicios.
 
-Dichas aportaciones serán administradas y ejercidas por los gobiernos de las entidades federativas y en su caso de los Municipios que las reciban, de conformidad a la legislación que les sea aplicable. Las autoridades de control y supervisión del ejercicio del gasto de cada entidad federativa, serán responsables exclusivas de ejercer la vigilancia directa que corresponda, para constatar la correcta aplicación de los recursos que reciban de tales Fondos y de fincar, en su caso, las responsabilidades administrativas correspondientes.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-No obstante lo señalado en el párrafo anterior, las responsabilidades administrativas, civiles y penales derivadas de afectaciones a la Hacienda Pública Federal en que, en su caso, incurran las autoridades locales o municipales exclusivamente por motivo de la desviación de los recursos recibidos de los Fondos señalados, para fines distintos a los previstos en este Capítulo, serán sancionadas en términos de la legislación federal.
+###### ARTICULO 43.
 
-###### Artículo 43.
+El monto del Fondo de Aportaciones para la Educación Tecnológica y de Adultos se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, exclusivamente a partir de los siguientes elementos:
 
-Para los efectos de esta Ley, se consideran operaciones catastrales las siguientes:
+I.- Los registros de planteles, de instalaciones educativas y de plantillas de personal utilizados para los cálculos de los recursos presupuestarios transferidos a las Entidades Federativas con motivo de la suscripción de los convenios respectivos, incluyendo las erogaciones que correspondan por conceptos de impuestos federales y aportaciones de seguridad social;
 
-I. Registro catastral de predios;
+II.- Por los recursos presupuestarios que con cargo al Fondo de Aportaciones para la Educación Tecnológica y de Adultos se hayan transferido a las Entidades Federativas de acuerdo con el Presupuesto de Egresos de la Federación durante el ejercicio inmediato anterior a aquél que se presupueste, adicionándole lo siguiente:
 
-II. Levantamiento predial;
+a) Las ampliaciones presupuestarias que en el transcurso de ese mismo ejercicio se hubieren autorizado con cargo a las Previsiones para el Fondo de Aportaciones para la Educación Tecnológica y de Adultos, contenidas en el propio Presupuesto de Egresos de la Federación,
 
-III. Inspección catastral;
+b) El importe que, en su caso, resulte de aplicar en el ejercicio que se presupueste las medidas autorizadas con cargo a las citadas Previsiones derivadas del ejercicio anterior y
 
-IV. Elaboración y actualización de la cartografía catastral;
+c) La actualización que se determine para el ejercicio que se presupueste de los gastos de operación, distintos de los servicios personales, correspondientes a los registros de planteles y de instalaciones educativas, y
 
-V. Valuación catastral;
+III.- Adicionalmente, en el caso de los servicios de educación para adultos, la determinación de los recursos del Fondo de Aportaciones para la Educación Tecnológica y de Adultos y su consiguiente distribución, responderán a fórmulas que consideren las prioridades específicas y estrategias compensatorias para el abatimiento del rezago en materia de alfabetización, educación básica y formación para el trabajo. Las fórmulas a que se refiere esta fracción deberán publicarse por la Secretaría de Educación Pública en el Diario Oficial de la Federación.
 
-VI. Revaluación catastral;
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VII. Determinación de los valores catastrales unitarios provisionales;
+###### ARTICULO 44.
 
-VIII. Zonificación catastral;
+El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal se constituirá con cargo a recursos federales, mismos que serán determinados anualmente en el Presupuesto de Egresos de la Federación. La Secretaría de Gobernación formulará a la Secretaría de Hacienda y Crédito Público una propuesta para la integración de dicho Fondo.
 
-IX. Determinación de tablas de valores unitarios; y
+En el Presupuesto de Egresos de la Federación de cada ejercicio fiscal se hará la distribución de los recursos federales que integran este Fondo entre los distintos rubros de gasto del Sistema Nacional de Seguridad Pública aprobados por el Consejo Nacional de Seguridad Pública.
 
-X. Censo catastral.
+El Consejo Nacional de Seguridad Pública, a propuesta de la Secretaría de Gobernación, establecerá los criterios para la distribución de los recursos antes citados entre los Estados y el Distrito Federal. Dichos criterios considerarán el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura, debiéndose publicar en el Diario Oficial de la Federación la fórmula con la que se distribuya el Fondo y el resultado de su aplicación con los montos que corresponderán para cada Estado y el Distrito Federal, a más tardar el 28 de febrero del ejercicio fiscal de que se trate.
 
-###### Artículo 44.
+Los recursos de este Fondo se enterarán mensualmente a los Estados y al Distrito Federal, sin que para este efecto procedan los anticipos a que se refiere el párrafo segundo del artículo 7o. de esta Ley.
 
-El Registro Catastral es aquél que contiene los datos gráficos, administrativos, estadísticos, legales y técnicos con que se inscribe un predio en el catastro.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-###### Artículo 45.
+###### ARTICULO 45.
 
-Por cada predio se efectuará un solo registro catastral, identificado por la clave catastral única. El registro del predio en el catastro deberá hacerse a nombre de los propietarios o poseedores, en los términos que establece esta Ley y demás disposiciones aplicables.
+Las aportaciones federales que con cargo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal reciban dichas entidades se destinarán exclusivamente al reclutamiento, selección, depuración, evaluación y formación de los recursos humanos vinculados con tareas de seguridad pública; a complementar las dotaciones de los agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal; al equipamiento de las policías preventivas y judiciales o sus equivalentes, de los peritos, de los ministerios públicos y custodios de centros penitenciarios y de menores infractores; al establecimiento y operación de la red nacional de telecomunicaciones e informática para la seguridad pública; a la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación.
 
-###### Artículo 46.
+Los recursos para complementar las dotaciones de los agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal, tendrán el carácter de no regularizables para los presupuestos de egresos de la Federación de ejercicios subsecuentes y las responsabilidades laborales que deriven de tales recursos estarán a cargo de los gobiernos de los Estados y del Distrito Federal.
 
-La inscripción y el registro catastral, así como la actualización de la información catastral, se realizará de conformidad con lo previsto en la presente Ley.
+Dichos recursos deberán aplicarse de conformidad con los acuerdos, resoluciones y convenios que al respecto emita o suscriba el Consejo Nacional de Seguridad Pública, en el marco de la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+
+Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por conducto de la Secretaría de Gobernación, la información financiera, operativa y estadística que les sea requerida.
+
+(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998
+
+###### ARTICULO 46.
+
+Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las Entidades Federativas y, en su caso, los Municipios no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42 y 45 de esta Ley.
+
+Dichas aportaciones serán administradas y ejercidas por los gobiernos de las Entidades Federativas y, en su caso, de los Municipios que las reciban, conforme a sus propias leyes. Por tanto, deberán registrarlas como ingresos propios destinados específicamente a los fines establecidos en los citados artículos.
+
+El control y supervisión del manejo de los recursos a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+
+I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las Entidades Federativas, corresponderá a la Secretaría de Contraloría y Desarrollo Administrativo;
+
+II.- Recibidos los recursos de los fondos de que se trate por las Entidades Federativas y los Municipios, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los gobiernos de las Entidades Federativas y a las autoridades de los Gobiernos Municipales según corresponda.
+
+La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos.
+
+III.- La fiscalización de las Cuentas Públicas de las Entidades Federativas y los municipios, será efectuada por el Congreso local que corresponda, por conducto de su Contaduría Mayor de Hacienda conforme a sus propias leyes, a fin de verificar que las dependencias del Ejecutivo Local y de los Municipios, respectivamente aplicaron los recursos de los fondos para los fines previstos en esta Ley; y,
+
+IV.- La Contaduría Mayor de Hacienda de la Cámara de Diputados al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos del artículo 3o., fracción III, de su Ley Orgánica.
+
+Cuando las autoridades Estatales o Municipales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo en forma inmediata.
+
+Por su parte, cuando la Contaduría Mayor de Hacienda de un Congreso Local detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Contaduría Mayor de Hacienda de la Cámara de Diputados del Congreso de la Unión.
+
+Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal en que, en su caso, incurran las autoridades Locales o Municipales exclusivamente por motivo de la desviación de los recursos recibidos de los Fondos señalados, para fines distintos a los previstos en este Capítulo, serán sancionadas en los términos de la legislación federal, por las autoridades Federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
 
 ###### Artículo 47.
 
@@ -1228,7 +1290,7 @@ Todos los predios de la Entidad, sin excepción, son susceptibles de valuación 
 
 ### CAPITULO V. De los Fondos de Aportaciones Federales
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 59.
 
@@ -1609,6 +1671,16 @@ Una vez concluido el proceso correspondiente, el Gobierno de Baja California rec
 Octavo.- Para el ejercicio fiscal 1998, el porcentaje a que se refiere el artículo 32 de esta Ley, correspondiente al Fondo de Aportaciones para la Infraestructura Social, será del 2.318% de la recaudación federal participable. Del total de ésta, el 0.281% corresponderá al Fondo para la Infraestructura Social Estatal y el 2.037% al Fondo para la Infraestructura Social Municipal.
 
 Noveno.- Para el ejercicio fiscal 1998, el porcentaje a que se refiere el artículo 36 de esta Ley, correspondiente al Fondo de Aportaciones para el Fortalecimiento de los Municipios y del Distrito Federal, será del 1.5% de la Recaudación Federal Participable.
+
+D.O.F. 31 DE DICIEMBRE DE 1998.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+SEGUNDO.- Para el ejercicio fiscal de 1999 el Fondo de Aportaciones para la Educación Tecnológica y de Adultos se determinará y distribuirá de conformidad con lo dispuesto en el Decreto de Presupuesto de Egresos de la Federación para el citado ejercicio y según lo acordado en los convenios de coordinación que suscriban los Estados y el Distrito Federal con el Ejecutivo Federal, por conducto de los organismos descentralizados correspondientes y de las Secretarías de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo y de Educación Pública.
+
+TERCERO.- Para el ejercicio fiscal de 1999, la distribución de los recursos entre los Estados, del Fondo de Infraestructura Social Municipal a que se refiere el primer párrafo del artículo 32 de la Ley, se hará de la siguiente manera: el 84.5% de los recursos se distribuirá de acuerdo a la fórmula a que se refiere el artículo 34 de esta Ley y el 15.5% restante por partes iguales entre los Estados. Sin embargo, para la distribución hacia los Municipios por parte de los Estados, del monto total que resulte del procedimiento descrito, se aplicará estrictamente la fórmula a que se refiere el artículo 34 de esta Ley.
 
 ###### ARTICULO DECIMO.
 
