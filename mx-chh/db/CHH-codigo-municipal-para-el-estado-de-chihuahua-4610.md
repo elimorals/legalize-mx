@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2001-09-08"
+last_updated: "2001-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -177,7 +177,9 @@ XVII.- CUSIHUIRIACHI, con cabecera en el pueblo del mismo nombre, y las Seccione
 
 XVIII.- CHIHUAHUA, con cabecera en la capital del Estado y las Secciones Municipales de Ciénega de Ortiz, Colonia Soto, El Charco, Guadalupe y El Sauz;
 
-XIX.- CHINIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones municipales de Guadalupe Victoria, Gorogachi y Milpillas;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XIX.- CHÍNIPAS, con cabecera en el pueblo de Chínipas de Almada y las secciones municipales de Guadalupe Victoria, Ignacio Valenzuela Lagarda, Norogachi y Milpillas;
 
 XX.- DELICIAS, con cabecera en la ciudad del mismo nombre.
 
@@ -3116,3 +3118,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 8 DE SEPTIEMBRE DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Ignacio Valenzuela Lagarda, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
