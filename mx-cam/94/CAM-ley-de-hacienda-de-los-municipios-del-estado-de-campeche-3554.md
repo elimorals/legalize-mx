@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1998-12-16"
+last_updated: "1999-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -374,6 +374,8 @@ II.- Circos y carpas ambulantes, sobre ingresos brutos
 III.- Corridas de toros, sobre ingresos brutos
 
 8.00%
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO UNICO DEL DECRETO NUMERO 166 QUEDAN EN SUSPENSO LOS COBROS DEL IMPUESTO POR CONCEPTO ESPECTACULOS PUBLICOS EN EL RUBRO EXCLUSIVO DE CINEMATOGRAFOS ESTABLECIDO POR ESTA FRACCION, P.O. 9 DE JUNIO DE 1999.</small>
 
 IV.- Cinematógrafos y teatros permanentes, sobre ingresos brutos
 
@@ -1832,3 +1834,9 @@ DECRETO No. 117
 Primero.- El presente decreto entrará en vigor el día 1 de enero de 1999.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 9 DE JUNIO DE 1999.
+
+Primero.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado, con efectos retroactivos al 1 de enero de 1999.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
