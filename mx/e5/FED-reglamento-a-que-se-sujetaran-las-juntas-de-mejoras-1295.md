@@ -4,7 +4,7 @@ identifier: "FED-reglamento-a-que-se-sujetaran-las-juntas-de-mejoras-1295"
 country: "mx"
 rank: "reglamento"
 publication_date: "1931-05-16"
-last_updated: "1931-05-16"
+last_updated: "1978-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1295&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1931-04-22"
 
 REGLAMENTO A QUE SE SUJETARAN LAS JUNTAS DE MEJORAS MATERIALES, ADMINISTRADORAS DE LOS PRODUCTOS DEL IMPUESTO ADICIONAL SOBRE DERECHOS DE IMPORTACION Y EXPORTACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL DECRETO QUE ORDENA LA LIQUIDACION DE LAS JUNTAS FEDERALES DE MEJORAS MATERIALES, PUBLICADO EN EL D.O.F. DE 29 DE DICIEMBRE DE 1978, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: NO VIGENTE.
 
 Reglamento publicado en el Diario Oficial de la Federación, el sábado 16 de mayo de 1931.
 
@@ -194,3 +196,17 @@ Lo comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D. F., a 8 de mayo de 1931.- El Secretario de Gobernación, Carlos Riva Palacio.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+PRIMERO.- Este decreto entrara en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Los empleados y trabajadores de base de las juntas adscritos a la prestación de los servicios que se transfieran a los ayuntamientos, podrán optar entre establecer relación de trabajo con dichos gobiernos o continuarla con el Gobierno Federal.
+
+TERCERO.- Los trabajadores que opten por la segunda posibilidad señalada en el artículo anterior, serán reubicados en las diversas entidades del Sector Público Federal que se hagan cargo de los demás servicios públicos, o se adscribirán en otras dependencias del Gobierno Federal. Para tal efecto, se considerarán en forma preferente, la posibilidad de que continúen laborando en la misma localidad en que lo hayan venido haciendo, cuando existan dependencias del Gobierno Federal, en las que sean útiles sus servicios. En todo caso de reubicación de personal que en forma directa o derivada venga prestando sus servicios a las Juntas Federales de Mejoras Materiales, subsistirá la naturaleza jurídica de la relación contractual de trabajo.
+
+CUARTO.- La aceptación de los empleados y trabajadores de base, de establecer relación de trabajo con los ayuntamientos, deberá considerarse en atención a la aceptación correlativa que dichos gobiernos manifiesten.
+
+QUINTO.- Después de que se expida la última de las declaratorias a que se refiere el artículo 2 quedara abrogada la Ley para el Funcionamiento de las Juntas Federales de Mejoras Materiales de 30 de diciembre de 1947, publicada en el "Diario Oficial" de la Federación de 13 de enero de 1948.
