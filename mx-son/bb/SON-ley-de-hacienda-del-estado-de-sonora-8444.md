@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1977-02-19"
+last_updated: "1977-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE FEBRERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 1977.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -295,13 +295,15 @@ Mientras se practica la valuación correspondiente a cada porción del predio di
 
 Este valor surtirá sus efectos a partir del trimestre siguiente a la autorización de la división del predio.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+
 ###### Artículo 20.
 
-En caso de fusión de dos o más predios en uno solo, el valor catastral provisional será la suma de los predios catastrales fusionados.
+En caso de fusión de dos o más predios en uno solo, el valor catastral provisional será la suma de los valores catastrales de los predios fusionados.
 
-La nueva cuota del Impuesto entrará en vigor a partir del trimestre siguiente a la fecha de autorización de la fusión.
+La nueva cuota del impuesto entrará en vigor a partir del trimestre siguiente a la fecha de autorización de la fusión.
 
-La Tesorería General del Estado empadronará, como uno solo, los predios fusionados o (sic) ordenará la expedición del recibo de pago correspondiente a ese empadronamiento.
+La Tesorería General del Estado empadronará, como uno solo, los predios fusionados y ordenará la expedición del recibo de pago correspondiente a ese empadronamiento.
 
 ###### Artículo 21.
 
@@ -379,9 +381,11 @@ La fusión de dos o más predios en uno solo, que deberá ser autorizado previam
 
 La terminación de nuevas construcciones permanentes, de reconstrucciones y de ampliaciones de construcciones permanentes ya existentes, deberán ser manifestadas por sus propietarios a la Tesorería General del Estado dentro de los quince días siguientes a la fecha de la terminación de lasobras (sic) o a la fecha en que sean ocupadas por sus propietarios o por terceros, sin estar todavía terminados.
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+
 ###### Artículo 31.
 
-La Tesorería General de Estado ordenará la valuación catastral de la totalidad del predio, como lo ordena el Artículo 23 de esta Ley, en los casos de traslación de dominio, de terminación de nuevas construcciones permanentes o de reconstrucciones. Tratándose de ampliaciones de construcciones permanentes que no excedan del 20% de la superficie total construida, únicamente se valuarán las ampliaciones, sumándose este avalúo catastral de las construcciones ya existentes. En ambos casos se aplicarán los valores aprobados en la fecha de traslación de dominio, de terminación de las obras de su ocupación sin estar terminadas.
+La Tesorería General del Estado ordenará la valuación catastral de la totalidad del predio, como lo ordena el artículo 23 de esta Ley, en los casos de traslación de dominio, de terminación de nuevas construcciones permanentes o de reconstrucciones. Tratándose de ampliación de construcciones permanentes que no excedan del 20% de la superficie total construida, únicamente se valuarán las ampliaciones, sumándose este avalúo catastral al de las construcciones ya existentes. En ambos casos se aplicarán los valores aprobados en la fecha de la traslación de dominio, de terminación de las obras o de su ocupación sin estar terminadas.
 
 ###### Artículo 32.
 
@@ -431,7 +435,9 @@ c).- La nueva cuota del impuesto predial entrará en vigor a partir del primer t
 
 d).- Una vez que la Dirección de Comunicaciones y Obras Públicas del Estado haya autorizado que vuelva a ocuparse el edificio, se volverá a poner en vigor l (sic) base gravable vigente en la fecha en que se ordenó la desocupación, siempre que no se hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente; y
 
-e).- En los casos en que la Dirección de Comunicaciones y Obras Públicas del Estado hubiere ordenado la demolición parcial del edificio y posteriormente se hubiere llevado a cabo la edificación de una nueva construcción permanente, los sujetos de impuesto estarán obligados a presentar la manifestación que señala el artículo 30. La nueva base gravable se obtendrá sumando el valor catastral del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta fracción, el valor que se asigne a la nueva construcción de acuerdo con el artículo 31;
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+
+e).- En los casos en que la Dirección General de Obras Públicas del Estado hubiere ordenado la demolición parcial del edificio y posteriormente si hubiera llevado a cabo la edificación de una nueva construcción permanente, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el artículo 30.- La nueva base gravable se obtendrá sumando el valor catastral del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta fracción, el valor que se asigne a la nueva construcción de acuerdo con el artículo 31;
 
 III.- Si el inmueble es demolido voluntariamente por su propietario, se procederá en los siguientes términos:
 
@@ -731,6 +737,10 @@ k).- Aguas purificadas, destiladas o potables, no gaseosas ni compuestas, así c
 
 l).- Miel de abeja; y
 
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
+
+II).- Gas industrial, excepto el anhídrido carbónico;
+
 m).- Otros artículos alimenticios que no causen el impuesto Federal sobre Ingresos Mercantiles.
 
 IV.- Los ingresos obtenidos en los establecimientos comúnmente denominados tendajones, estanquillos o misceláneas, que reúnan los requisitos siguientes:
@@ -767,11 +777,11 @@ IV.- Los obtenidos por las empresas porteadoras de personas o cosas que operen c
 
 ###### Artículo 72.
 
-Son ingresos gravados en los términos de la fracción III del artículo 69 de este capítulo, los que provengan del alquiler de películas producidas en el país.
+(DEROGADO, B.O. 4 DE JUNIO DE 1977)
 
 ###### Artículo 73.
 
-Son ingresos gravados en los términos de la fracción IV del artículo 69 de este capítulo, los que provengan de la distribución de películas producidas en el país.
+(DEROGADO, B.O. 4 DE JUNIO DE 1977)
 
 Del sujeto y Domicilio
 
@@ -797,9 +807,13 @@ De las Tasas
 
 La tasa del impuesto será:
 
-I.- del 1.4% para los ingresos comprendidos en los artículos 70, excepción de los señalados en el inciso k) y l), de la fracción III, y 71, excepción de los señalados en la fracción IV; y
+(REFORMADA, B.O. 4 DE JUNIO DE 1977) (F. DE E., B.O. 18 DE JUNIO DE 1977)
 
-II.- De 1.8% para los ingresos a que aluden los artículos 70 en su fracción III inciso k), y l), 71 en su fracción IV, 72 y 73.
+I.- De 1.4% para los ingresos comprendidos en los artículos 70, excepción de los señalados en los incisos k), l) y ll), de la Fracción III y 71, excepción de los señalados en la fracción IV;
+
+(REFORMADA, B.O. 4 DE JUNIO DE 1977) (F. DE E., B.O. 18 DE JUNIO DE 1977)
+
+II.- De 1.8% para los ingresos a que aluden los artículos 70, en su fracción III incisos K), l) y ll) y 71 en su fracción IV.
 
 ###### Artículo 78.
 
@@ -939,9 +953,9 @@ Están obligados a retener y enterar el impuesto en los términos del artículo 
 
 I.- El sujeto productor cuando el ingreso se perciba fuera de la entidad;
 
-II.- Los que alquilen películas producidas en el país, cuando el arrendador tenga su domicilio fuera de la entidad; y
+II.- (DEROGADA, B.O. 4 DE JUNIO DE 1977)
 
-III.- Los que hagan pagos comprendidos en el Artículo 72.
+III.- (DEROGADA, B.O. 4 DE JUNIO DE 1977)
 
 ###### Artículo 98.
 
@@ -955,11 +969,13 @@ Los adquirentes o usufructuarios, por cualquier título de establecimientos en l
 
 #### Sección Primera. Impuestos del despepite de Algodón
 
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 1977)</small>
+
 ###### Artículo 100.
 
-Es objeto de este impuesto el despepite de algodón en hueso efectuado por las empresas despepitadoras, la enajenación de primera mano de semillas para el cultivo de algodón efectuada por estas empresas y la que las mismas aprovechen para su industrialización.
+Es objeto de este impuesto el despepite de algodón en hueso efectuado por las empresas despepitadoras; la enajenación de primera mano de semilla de algodón, incluyendo la efectuada por estas empresas y la que las mismas aprovechen para su industrialización.
 
-Tratándose del despepite de algodón, el rendimiento de algodón pluma será el realmente producido por las empresas despepitadoras.
+Tratándose del despepite de algodón, el rendimiento de algodón pluma será realmente producido por las empresas despepitadoras.
 
 ###### Artículo 101.
 
@@ -1671,6 +1687,10 @@ I.- Para los bienes muebles: el valor mas alto entre el que tengan en el mercado
 
 II.- Para los bienes inmuebles: El valor que resulte mayor entre el valor catastral, el valor de la operación y el avalúo hecho por la institución de crédito.
 
+> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
+
+III.- Para los bienes que se permutan, cuando los valores resulten iguales, servirá de base el valor de cualesquiera de ellos.
+
 ###### Artículo 189.
 
 La tasa del impuesto, será:
@@ -1705,7 +1725,9 @@ I.- Los ingresos, operaciones o actividades gravadas con otros impuestos estable
 
 II.- La adjudicación de bienes por sucesión;
 
-III.- La adjudicación de bienes por disolución de la sociedad conyugal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE JUNIO DE 1977)</small>
+
+III.- La adjudicación de bienes por disolución de la sociedad conyugal y legal;
 
 IV.- La trasmisión de partes sociales y de títulos de créditos en general;
 
@@ -1921,9 +1943,9 @@ Están obligados a recaudar el impuesto los sujetos que perciban sueldos o salar
 
 No causan el Impuesto:
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, B.O. 4 DE JUNIO DE 1977)</small>
 
-I.- La Federación, el Gobierno del Estado de Sonora y Municipios, así como los contribuyentes afectos sólo a impuestos Federales;
+I.- La Federación, el Gobierno del Estado de Sonora y Municipios, así como los contribuyentes afectos sólo a impuestos reservados a la potestad exclusiva de la Federación;
 
 II.- Los pagos por cualquier concepto de indemnización; y
 
@@ -3191,7 +3213,7 @@ automóviles o camiones 50.00
 
 5.- Reposición de tarjetas de circulación para
 
-motocicletas 25.0
+motocicletas 25.00
 
 ###### Artículo 318.
 
@@ -3601,6 +3623,10 @@ Se deroga en lo que se oponga a la presente Ley, la Ley de Hacienda del Estado d
 
 Queda autorizado el Poder Ejecutivo para que por conducto de la Tesorería General del Estado proceda a cancelar los créditos o liquidaciones pendientes de pago del Impuesto Predial, correspondientes a predios edificados con valor catastral hasta de $30,000.00.
 
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 1977)</small>
+
+Asimismo, se faculta al Ejecutivo para que, a través de la Tesorería General del Estado, pueda celebrar con la Secretaría de Hacienda y Crédito Público y con los Municipios del Estado, convenios de coordinación para la recaudación y/o administración por lo que respecta a los impuestos y sobretasas adicionales o accesorias, así como recargos y multas, que establecen tanto esta Ley como las Leyes Federales respectivas, conforme a las bases que se fijen en el texto de los referidos convenios que llegaren a celebrarse.
+
 ###### ARTICULO CUARTO.
 
 Los contribuyentes o responsables solidarios que deban registrarse con motivo de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
@@ -3648,3 +3674,7 @@ Dr. Samuel Ocaña García.
 B.O. 19 DE FEBRERO DE 1977.
 
 UNICO.- Esta ley entrará en vigor el día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 4 DE JUNIO DE 1977.
+
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
