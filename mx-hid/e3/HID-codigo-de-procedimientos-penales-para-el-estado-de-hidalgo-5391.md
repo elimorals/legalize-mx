@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "1994-08-29"
+last_updated: "1995-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -317,9 +317,13 @@ VIII.- Decretar la medida cautelar del arraigo, en los casos y circunstancias qu
 
 IX.- Determinar conforme a las disposiciones de este Código el ejercicio o no ejercicio de la acción penal o, en su caso, la reserva de las diligencias de averiguación previa; y
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-X.- Las demás que establezcan las leyes.
+X.- Reanudar la investigación respecto de los autores o participes de un delito, cuando por resolución ejecutoriada dictada en el proceso, se decrete la libertad absoluta del sujeto contra quien previamente se había ejercitado acción penal, en virtud de no haberse demostrado responsabilidad penal; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XI.- Ejercer las demás facultades y obligaciones que establezcan las leyes.
 
 ###### ARTICULO 32.
 
@@ -809,9 +813,11 @@ Las audiencias judiciales serán públicas y para que se lleven a cabo deberá d
 
 Cuando se trate de un delito en contra de la moral o en el proceso se ataque a ésta de cualquier manera, el juzgador o el ministerio público en la averiguación previa, podrán disponer que la audiencia se lleve a cabo a puerta cerrada, en la que sólo intervendrán las personas que oficialmente deban concurrir. Para tal efecto, así deberá acordarse en autos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 106.
 
-No podrá celebrarse ninguna audiencia sin la presencia del ministerio público y del inculpado y su defensor; en cuyo caso se señalará nueva fecha para su celebración, dentro de los cinco días siguientes, haciéndose nuevamente las notificaciones, citaciones y apercibimientos que procedan; salvo que, si faltare el inculpado sin justificación previa y está gozando de la libertad provisional bajo caución, ésta se le revocará de plano y se ordenará su reaprehensión, haciéndose efectiva la garantía. Si estuviere sujeto a proceso se le aplicará la medida de apremio procedente.
+No podrá celebrarse ninguna audiencia sin la presencia del ministerio publico y del inculpado y su defensor; en cuyo caso, se señalara nueva fecha para su celebración dentro de los cinco días siguientes, haciéndose nuevamente las notificaciones, citaciones y los apercibimientos que procedan. Si faltare el inculpado y estuviese gozando de libertad caucional, se certificara su inasistencia y por notificación personal se le apercibirá para que con prueba idónea, la justifique en un plazo de tres días, si no la justifica o transcurre el plazo sin hacerlo, se le revocara su libertad, ordenándose su reaprehensión; si estuviese sujeto a proceso, se aplicara la medida de apremio procedente.
 
 Si el faltista fuere el ministerio público o el defensor de oficio, se comunicará a su superior jerárquico, sin perjuicio de imponerles una corrección disciplinaria, salvo que exista causa justificada. Si fuere el defensor particular, se impondrá la corrección disciplinaria que se estime procedente, sin perjuicio de dar vista al ministerio público, si con su ausencia resulta la posible comisión de hechos delictuosos.
 
@@ -929,31 +935,61 @@ Se califican como delitos graves, en atención a la importancia del bien jurídi
 
 I.- El homicidio, previsto por los artículos 136, 137, 138 y 139;
 
-II.- Las lesiones que pongan en peligro la vida, a que se refiere el artículo 141 fracción III en relación a su párrafo final;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+II.- Las lesiones que pongan en peligro la vida previstas por la fracción III del artículo 141, o cuando a éstas, concurra alguna de las calificativas enunciadas por el numeral 147;
 
 III.- La instigación o ayuda al suicidio, cuando éste se consumare y concurra la agravante prevista por el párrafo segundo del artículo 153;
 
 IV.- El secuestro, previsto por los artículos 166, 167 y el párrafo segundo del numeral 168;
 
-V.- La violación, prevista por los artículos 179 párrafo primero, 180 y 181;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-VI.- El robo calificado, previsto por el artículo 203 fracciones III y IV, en relación al párrafo final del numeral 206;
+V.- El asalto previsto por los artículos 173 y 174;
 
-VII.- El abigeato, previsto por los artículos 208 y 209 fracciones I a III, en relación a los numerales 203 fracciones III y IV y 206 en cuanto éste resulte aplicable;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-VIII.- El daño en la propiedad, previsto por el artículo 223 en relación al numeral 203 fracciones III y IV;
+VI.- La violación, prevista por los artículos 179 párrafo primero, 180 y 181;
 
-IX.- El tráfico de menores, previsto por el artículo 237 en relación al numeral 234;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-X.- El lenocinio, previsto por el artículo 272 en relación al numeral 271;
+VII.- El robo calificado, previsto por el artículo 203 fracciones III y IV, en relación al párrafo final del numeral 206;
 
-XI.- La trata de personas, tipificada por el artículo 273, cuando concurran las agravantes de los artículos 274 y 275;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-XII.- El terrorismo, previsto por el párrafo primero del artículo 293;
+VIII.- El abigeato, previsto por los artículos 208 y 209 fracciones I a III, en relación a los numerales 203 fracciones III y IV;
 
-XIII.- El sabotaje, previsto por el artículo 294, con excepción del párrafo final; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-XIV.- La evasión de presos, prevista por el artículo 329, en relación a los párrafos iniciales de los numerales 322 y 325.
+IX.- El daño en la propiedad, previsto por el artículo 223 en relación al numeral 203 fracciones III y IV.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+X.- El tráfico de menores, previsto por el artículo 237 en relación al numeral 234;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XI.- El lenocinio, previsto por el artículo 272 en relación al numeral 271;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XII.- La trata de personas, tipificada por el artículo 273, cuando concurran las agravantes de los artículos 274 y 275;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XIII.- El terrorismo, previsto por el párrafo primero del artículo 293;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XIV.- El sabotaje, previsto por el artículo 294, con excepción del párrafo final;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XV.- El peculado, previsto por el artículo 308 cuando la punibilidad sea la señalada en la fracción III del mismo numeral; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+XVI.- La evasión de presos, previsto (sic) por el artículo 329, en relación a los párrafos iniciales de los numerales 322 y 325.
 
 Además, se califica como delito grave el homicidio previsto por el primer párrafo del artículo 149 del Código Penal, cuando a consecuencia de la conducta culposa del personal del transporte público de pasajeros o escolar, se prive de la vida a más de un usuario de dicho servicio.
 
@@ -1931,7 +1967,11 @@ VI.- Cuando el Procurador General de Justicia confirme o formule conclusiones in
 
 VII.- Cuando el Procurador General de Justicia se desista del ejercicio de la acción penal o lo confirme; y
 
-VIII.- Cuando opere en favor del inculpado alguna excusa absolutoria.
+VIII.- Cuando opere en favor del inculpado alguna excusa absolutoria;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+IX.- Cuando este Código y las leyes especiales no tipifiquen como delito, la conducta o el hecho imputado.
 
 ###### ARTICULO 280.
 
@@ -2095,9 +2135,11 @@ En el momento en el cual el juzgador ratifique la detención del inculpado o, un
 
 La libertad caucional podrá solicitarse en cualquier tiempo, siempre que no se haya dictado sentencia que haya causado ejecutoria; la solicitud podrá formularse verbalmente o por escrito; se acordará de plano en la misma pieza de autos y se concederá inmediatamente que sean satisfechos los requisitos legales correspondientes.
 
-Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervenientes.
+> <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-Para la concesión de la libertad bajo caución, se atenderá, según el caso, al o a los delitos señalados en la consignación, en el auto de formal prisión, o a la pena impuesta en primera instancia. En el caso de la libertad previa, el ministerio público atenderá al delito o delitos que se desprendan de la averiguación en el momento de la solicitud.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+Para la concesión de la libertad caucional se atenderá, según el caso, al o los delitos señalados en la consignación, en la orden de aprehensión, en el auto de formal prisión o en la sentencia condenatoria de primera instancia. En el caso de la libertad previa, el ministerio publico atenderá al delito o delitos que se desprendan de la averiguación, en el momento de la solicitud.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1994)</small>
 
@@ -2797,7 +2839,13 @@ El ministerio público, en un plazo que no deberá exceder de seis meses si se t
 
 Carecerá de validez cualquier diligencia que practique el ministerio público, una vez que haya ejercitado la acción penal sobre los hechos materia de la misma. Sin embargo, podrá ejercitar la acción penal por lo que hace a uno o varios asuntos responsables y reservarse el derecho por lo que hace a otros; en este caso, la primera consignación se hará con copias certificadas de lo actuado en la averiguación.
 
-En el pliego de consignación, el ministerio público hará expreso señalamiento de los datos reunidos durante la averiguación previa, que puedan ser considerados por el juzgador, para los efectos previstos en el artículo 20, fracción I, de la Constitución Política de los Estados Unidos Mexicanos y en los preceptos de este Código relativos a la libertad caucional, tanto en lo referente a la determinación del tipo penal y su punibilidad, como por lo que respecta a los datos que deban tomarse en cuenta para acreditar el monto de la garantía y caución exigidas, respectivamente, por las fracciones I y III del artículo 297 de este Código.
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+Cuando por resolución ejecutoriada dictada en el proceso, se decrete la libertad absoluta el sujeto contra quien previamente se había ejercitado acción penal, en virtud de no haberse demostrado su responsabilidad penal, el juzgador lo pondrá en conocimiento del ministerio público de su adscripción y este, comunicará tal circunstancia al Procurador General de Justicia, quien ordenará que se reanude la investigación respecto de los autores o participes del delito, actuándose en el duplicado del expediente de averiguación previa hasta el nuevo ejercicio de la acción penal, si procediere.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
+En el pliego de consignación, el ministerio público, hará expreso señalamiento de los datos reunidos durante la averiguación previa que puedan ser considerados por el juzgador, para los efectos previstos, en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos y en los preceptos de este Código relativos a la libertad caucional; tanto en lo referente, a la determinación del tipo penal, a su punibilidad, como por lo que respecta, a los datos que deban tomarse en cuenta para acreditar, el monto de la garantía y caución exigidas, respectivamente, por las fracciones I y III del artículo 297 de este Código.
 
 ###### ARTICULO 389.
 
@@ -2915,9 +2963,9 @@ I.- El nombre del denunciante o querellante y la naturaleza y causa de la imputa
 
 II.- El derecho que tiene a una defensa adecuada, por sí, por su abogado o por persona de su confianza, en los términos de este Código, aun cuando ya esté gozando de este derecho;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
-III.- El derecho a gozar de la libertad caucional y las condiciones en que la puede obtener, fijándole en ese momento el monto de las garantías y la caución exigidas en las fracciones I, II y III del artículo 297 de este Código; o, en su caso, el por qué no tiene derecho a dicho beneficio;
+III.- Si aun no esta gozando de su libertad caucional y tiene derecho a ella, se le señalarán las condiciones para obtenerla, fijando los montos de las garantías a que se refiere el artículo 297 de este Código; o, en su caso, se le explicará por que no tiene derecho a obtenerla;
 
 IV.- El derecho que tienen para declarar con absoluta libertad o para abstenerse de hacerlo; y
 
@@ -2983,9 +3031,11 @@ Cuando reunidos los requisitos del artículo 408 de éste Código, salvo la pena
 
 Tratándose de personas jurídicas colectivas, sólo podrá dictarse en su contra, auto de sujeción a proceso.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 411.
 
-El juez al dictar cualquier auto de procesamiento, podrá cambiar la clasificación legal que de los hechos se hizo al ejercitarse la acción penal o al dictarse la orden de aprehensión o de comparecencia, siempre que funde debidamente tal modificación, atento a las constancias de autos.
+El juez, al dictar la orden de aprehensión o el auto de procesamiento, podrá cambiar la clasificación legal que de los hechos se hizo al ejercitarse la acción penal o, en su caso, al dictarse el mandato de aprehensión o de comparecencia, siempre que funde debidamente tal modificación, atento a las constancias de autos.
 
 ###### ARTICULO 412.
 
@@ -3586,3 +3636,7 @@ Si con motivo de las presentes reformas algún procesado recluido en prisión pr
 ###### ARTICULO TERCERO.
 
 Cuando el Código de Procedimientos Penales se refiera a "cuerpo del delito", deberá interpretarse como "elementos del tipo penal".
+
+P.O. 4 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
