@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "1998-07-10"
+last_updated: "2000-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -61,7 +61,23 @@ V.- Coordinar los espacios culturales adscritos al CONSEJO, tales como el Teatro
 
 VI.- Promover las labores editoriales y proponer directrices en relación con las publicaciones y con programas de carácter educativo y cultural para radio y televisión;
 
-VII.- Integrar el Patronato Estatal Pro-Defensa de los Monumentos, que se regirá por lo establecido al efecto por la Ley del Patrimonio Cultural del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+VII.- Integrar el Patronato Estatal Pro-Defensa de los Monumentos, quien tendrá por objeto primordial, la promoción, vigilancia, construcción y conservación de los Monumentos del Estado de Nuevo León, señalando el lugar donde se instalen, por lo que su actividad y programas serán de utilidad pública, contando con las siguientes funciones, además de las que le atribuyen cualquier otra ley o reglamento:
+
+a) Promover y decidir sobre la construcción de monumentos y su localización, tratando de evitar la repetición constante de los mismos;
+
+b) Elaborar un catálogo de monumentos del Estado, que deberá incluir los datos de creación de los mismos, descripción, datos biográficos, significado estético, interpretación artística y todo aquello que pueda aportar información cultural a ese respecto;
+
+c) Vigilar que se lleve adecuadamente la conservación de los monumentos;
+
+d) Vigilar que todo monumento contenga una placa alusiva a lo que representa, señalando en forma sucinta algunos datos sobre su creación;
+
+e) Editar un folleto cada dos años que contenga la descripción de los monumentos, a fin de promover la cultura, el turismo y el arte en general;
+
+f) Promover ceremonias, festivales o actos cívicos, para enaltecer a nuestros héroes o a quienes se les haya construido algún monumento en el Estado, en debida coordinación con el Gobierno Estatal o con el del Municipio que corresponda;
+
+g) Señalar las características que deban tener los monumentos de nueva creación, atendiendo al interés de la población por el aspecto histórico, político, cívico y artístico, así como los que ofrezcan las tendencias del arte moderno, que contribuyan a la belleza del área metropolitana o de los municipios;
 
 VIII.- Proponer e integrar los comités o comisiones que sean necesarios para el cumplimiento de sus tareas y responsabilidades legales; y
 
@@ -256,3 +272,9 @@ P.O. 10 DE JULIO DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DEL 2000.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las demás disposiciones que se opongan al presente Decreto.
