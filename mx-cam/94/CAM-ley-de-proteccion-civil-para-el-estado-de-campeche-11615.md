@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-civil-para-el-estado-de-campeche-11615"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-16"
-last_updated: "1997-04-23"
+last_updated: "1999-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 16 de julio de 1996.
 
@@ -163,7 +163,7 @@ I. El Gobernador del Estado, como presidente;
 
 II. Un Secretario ejecutivo, quien será designado libremente por el Gobernador;
 
-III. El Director de Protección Civil del Gobierno del Estado, como secretario técnico;
+III. (DEROGADA, P.O. 28 DE ABRIL DE 1999)
 
 IV. El Coordinador General de Seguridad Pública, Vialidad y Transporte;
 
@@ -461,7 +461,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, estatales y municipales, en lo que se opongan al presente decreto.
 
-Tercero.- Queda facultado el Gobernador del Estado para expedir el Reglamento de esta Ley, así como para crear dentro de la estructura de la Administración Pública del Estado una Dirección de Protección Civil.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1999)</small>
+
+Tercero.- Queda facultado el Gobernador del Estado para expedir el Reglamento de esta Ley.
 
 Cuarto.- Los H.H. Ayuntamientos de los Municipios del Estado, en un plazo no mayor de noventa días, deberán expedir la reglamentación necesaria para el establecimiento de sus respectivos Sistemas Municipales de Protección Civil, e instalación de las estructuras que los integren, en términos congruentes a los que para las del Sistema Estatal previene esta ley.
 
@@ -480,3 +482,9 @@ P.O. 23 DE ABRIL DE 1997.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, estatales y municipales, en lo que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 1999.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
+
+Segundo.- Se derogan todas las resoluciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
