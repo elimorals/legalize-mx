@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1919-04-05"
+last_updated: "1921-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1921.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -425,7 +425,9 @@ IX.- Inspeccionar la Contaduría Mayor de Hacienda.
 
 X.- Nombrar y remover libremente al Contador Mayor, a los empleados de la Secretaría del Congreso, y a los de la Contaduría Mayor.
 
-XI.- Nombrar, a propuesta en terna del Ejecutivo, al Tesorero del Estado.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+
+XI.- Nombrar a propuesta en terna del Ejecutivo, al Tesorero General del Estado y removerlo libremente.
 
 XII.- Decretar la manera de cubrir el contingente que para el Ejército de la Nación debe dar el Estado conforme a las leyes federales.
 
@@ -441,9 +443,11 @@ XVII.- Conceder facultades extraordinarias al Ejecutivo en los Ramos de Hacienda
 
 XVIII.- Elegir a los Magistrados del Supremo Tribunal de Justicia.
 
-XIV (SIC).- Elegir a los Jueces de Primera Instancia.
+XIX.- (DEROGADA, P.O. 25 DE MAYO DE 1921)
 
-XX.- Resolver acerca de las renuncias de Gobernador, de los Diputados, del Tesorero General del Estado, de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia, y conceder a los mismos licencias en los términos que dispongan las leyes.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+
+XX.- Resolver acerca de las renuncias de Gobernador; de Diputados, del Tesorero General del Estado y de los Magistrados del Tribunal Superior de Justicia, y conceder a los mismos funcionarios, licencia en los términos que dispongan las leyes.
 
 XXI.- Convocar a elecciones de Diputados cuando ocurra falta absoluta del propietario y suplente, si dicha falta ocurriera antes de los últimos seis meses del período constitucional.
 
@@ -453,7 +457,9 @@ XXIII.- Convocar a elecciones de Gobernador cuando ocurra falta absoluta en los 
 
 XXIV.- Elegir Gobernador interino en los casos de falta absoluta, si ésta ocurriese dentro de los últimos años, y en el caso de la fracción anterior mientras se convoca a elecciones.
 
-XXV.- Elegir Gobernador interino en los casos de falta temporal del Gobernador Constitucional que en ningún caso excederá de seis meses, teniéndose por absoluta cuando pase de ese tiempo.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+
+XXV.- Elegir Gobernador Interino en los casos de falta temporal del Gobernador Constitucional.
 
 XXVI.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, formulando, en su caso, acusación contra ellos ante el Supremo Tribunal de Justicia, y erigirse en Gran Jurado para declarar si hay o no lugar a proceder en contra de los que gozan de fuero Constitucional, cuando sean acusados por delitos del orden común.
 
@@ -619,7 +625,9 @@ I.- Publicar y hacer cumplir las leyes federales.
 
 II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo del Estado y procurar la exacta observancia de ellos.
 
-III.- Nombrar y remover libremente al Secretario General de Gobierno, sin perjuicio de lo dispuesto en el artículo 92, caso en el cual debe nombrar nuevo Secretario.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+
+III.- Nombrar y remover libremente al Secretario General de Gobierno.
 
 IV.- Proponer en terna al Congreso del Estado el nombramiento de Tesorero General.
 
@@ -689,13 +697,15 @@ V.- Mezclarse en los asuntos judiciales ni disponer, durante los juicios, de las
 
 VI.- Mandar personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso de la Legislatura o de la Comisión Permanente.
 
-VII.- Permitir o tolerar que se establezcan en el Estado: loterías (con excepción de las de figuras), rifas, ruletas, juegos de azar, peleas de gallos, corridas de toros, espectáculos de boxeo, prostíbulos, y toda clase de espectáculos que fueren conceptuados como inmorales.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+
+VII.- Permitir o tolerar que se establezcan en el Estado loterías; con excepción de una de Beneficencia Pública, autorizada por el Congreso y las loterías de figuras. Tampoco puede el Gobernador permitir que se establezcan en el Estado ruletas, rifas y demás juegos de azar.
 
 VIII.- Pertenecer o ayudar a partidos políticos de propaganda electoral en el Estado, ni intervenir en las elecciones para que éstas recaigan en determinadas personas, ya lo haga por sí o por medio de otras autoridades o agentes o bien por medio del Secretario y Subsecretario de Gobierno.
 
 IX.- Impedir o retardar las elecciones populares o la instalación de la Legislatura.
 
-X.- Hacer observaciones al voto de censura del Congreso en el caso del artículo 92.
+X.- (DEROGADA, P.O. 25 DE MAYO DE 1921)
 
 ###### Art. 86.
 
@@ -737,7 +747,7 @@ Será responsable por autorizar los actos del Gobernador que sean contrarios a l
 
 ###### Art. 92.
 
-El Secretario General de Gobierno dimitirá inmediatamente cuando el Congreso resuelva por las dos terceras partes de sus miembros dar un "voto de censura" a sus actos.
+(DEROGADO, P.O. 25 DE MAYO DE 1921)
 
 ## Título Quinto.
 
@@ -839,7 +849,9 @@ III.- Nombrar y remover libremente al Secretario del Tribunal y demás empleados
 
 IV.- Nombrar a propuesta de los Jueces respectivos a los Secretarios de los Juzgados, cuidando que reúnan los requisitos de ley.
 
-V.- Nombrar a los Jueces Municipales a propuesta en eterna (sic) de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+
+V.- Nombrar a los Jueces de Primera Instancia y Municipales; éstos últimos a propuesta en terna de los Ayuntamientos.
 
 VI.- Conceder licencia hasta por un mes a los Magistrados, dando aviso al Congreso o a la Comisión Permanente en caso que se necesite nombrar sustituto.
 
@@ -893,9 +905,11 @@ Su funcionamiento se sujetará a las bases establecidas por esta Constitución.
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1921)</small>
+
 ###### Art. 118.
 
-Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales, y se renovarán cada año en los términos que disponga la ley.
+Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales, y se renovarán cada dos años en los términos que disponga la ley.
 
 ## Título Noveno.
 
@@ -1167,6 +1181,10 @@ El Srio. Gral.,
 
 J.D. Ramírez Garrido.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 25 DE MAYO DE 1921.
+
 ###### Art. 1.
 
 Todos los habitantes del Estado de Tabasco gozarán de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos y de las que establece esta Constitución.
@@ -1238,3 +1256,11 @@ La vecindad no se pierde por ausencia en el desempeño de cargos de leección (s
 ###### Art. 16.
 
 Es obligación de los vecinos inscribirse en el Padrón o Catastro del Municipio respectivo, manifestando la propiedad que tienen y la Profesión, industria o trabajo de que subsistan.
+
+###### Art. 1º.
+
+Los Ayuntamientos actualmente en funciones cesarán en ellas el 31 de Diciembre del corriente año, y los futuros el tiempo señalado por el artículo 118 reformado por este Decreto.
+
+###### Art. 2º.
+
+Este Decreto comenzará a regir desde la fecha de su publicación.
