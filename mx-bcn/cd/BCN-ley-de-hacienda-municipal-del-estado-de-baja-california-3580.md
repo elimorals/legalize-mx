@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1955-05-20"
+last_updated: "1956-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1956.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -446,6 +446,12 @@ Son causantes del impuesto sobre las diversiones, espectáculos públicos y jueg
 ###### ARTICULO 67.
 
 La venta de boletos y los ingresos en los casos del artículo anterior, serán supervisados por un interventor que designarán las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1956)</small>
+
+###### ARTICULO 67 Bis.
+
+Se establece el impuesto sobre arrendamiento de inmuebles en la forma y términos que se fijan en la Ley de Ingresos correspondiente.
 
 ###### ARTICULO 68.
 
@@ -1598,3 +1604,7 @@ El presente Ordenamiento entrará en vigor el día de su publicación en el Peri
 P.O. 20 DE MAYO DE 1955.
 
 UNICO.- Las adiciones y reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 1956.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
