@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-alternativa-del-estado-de-quintana-roo-11914"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-14"
-last_updated: "1997-08-14"
+last_updated: "1999-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 14 de agosto de 1997.
 
@@ -43,9 +43,11 @@ LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO
 
 La presente Ley es de orden público e interés social y de observancia en todo el Estado y sus prescripciones son irrenunciables. Se aplicarán a petición de todo ciudadano o visitante del Estado.
 
+> <small>(REFORMADO, P.O.15 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 2º.
 
-Es objeto de esta Ley establecer medios alternativos a la justicia ordinaria a fin de que los particulares resuelvan sus controversias de carácter jurídico mediante procedimientos de conciliación, mediación o arbitraje, en términos de los Artículos 7º y 99 de la Constitución Política del Estado.
+Es objeto de esta ley establecer medios alternativos a la justicia ordinaria a fin de que los particulares resuelvan sus controversias de carácter jurídico mediante audiencia de conciliación, técnicas de mediación o procedimiento de arbitraje, en términos de los Artículos 7 y 108 de la Constitución Política del Estado de Quintana Roo.
 
 ###### ARTICULO 3º.
 
@@ -53,13 +55,15 @@ Los medios no jurisdiccionales para la resolución de controversias jurídicas q
 
 ### CAPITULO II. DEL CENTRO DE ASISTENCIA JURIDICA
 
+> <small>(REFORMADO, P.O.15 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 4º.
 
 También es objeto de la presente Ley, la prestación por parte del Estado de los servicios de defensoría de oficio a los detenidos y procesados que carezcan de abogado particular que los defienda o, que se nieguen a designarlo, así como la asistencia jurídica a personas de escasos recursos que se lo soliciten.
 
 ###### ARTICULO 5º.
 
-Se crea el Centro de Asistencia Jurídica como Organo Desconcentrado del Poder Judicial del Estado, encargado de sustanciar procedimientos de conciliación, mediación o arbitraje que pongan fin a los conflictos de carácter jurídico de naturaleza exclusivamente privada; así como proporcionar ayuda técnico-legal a aquellas personas que carecen de recursos para contratar abogados o defensores particulares.
+Se crea el Centro de Asistencia Jurídica como órgano desconcentrado del Poder Judicial del Estado, encargado de sustanciar procedimientos de conciliación, mediación o arbitraje que pongan fin a los conflictos de carácter jurídico de naturaleza exclusivamente privada; así como proporcionar ayuda técnico-legal a aquellas personas que carecen de recursos para contratar abogados o defensores particulares y proporcionar el servicio de defensoría de oficio en los términos prescritos en el artículo que antecede.
 
 ###### ARTICULO 6º.
 
@@ -115,17 +119,23 @@ IV.- Coordinar, de conformidad con el Reglamento Interior, las unidades de servi
 
 V.- Celebrar toda clase de actos jurídicos que permitan al Centro el cumplimiento de sus objetivos;
 
-VI.- Solicitar ante las autoridades judiciales, de oficio o a petición de parte, la ejecución de los acuerdos y laudos derivados de labores de mediación, conciliación y arbitraje;
+> <small>(REFORMADA, P.O.15 DE FEBRERO DE 1999)</small>
+
+VI.- Solicitar ante el juez competente, a petición de parte, la ejecución de los acuerdos, convenios y laudos derivados de sus funciones.
 
 VII.- Informar al Pleno del Tribunal Superior de Justicia del Estado sobre las actividades del Centro de Asistencia Jurídica;
 
 VIII.- Llevar a cabo los procedimientos de mediación, conciliación y arbitraje, por sí mismo o por delegación en algún subalterno, de conformidad con el Reglamento Interno;
 
-IX.- Emitir los acuerdos y laudos en los asuntos de la competencia del Centro de Asistencia Jurídica, así como vigilar su cumplimiento;
+> <small>(REFORMADA, P.O.15 DE FEBRERO DE 1999)</small>
+
+IX.- Emitir los acuerdos en los asuntos de la competencia del Centro de Asistencia Jurídica, así como vigilar su cumplimiento.
 
 X.- Aprobar, autorizar y dictar las reglas para la designación de árbitro, mediadores y conciliadores del Centro de Asistencia Jurídica;
 
-XI.- Imponer las medidas de apremio que correspondan de acuerdo a lo previsto en el reglamento interno;
+> <small>(REFORMADA, P.O.15 DE FEBRERO DE 1999)</small>
+
+XI.- Imponer las correcciones disciplinarias previstas en el Código de Procedimientos Civiles para el Estado, y las medidas de apremio que señala la presente ley, que en su caso correspondan.
 
 XII.- Celebrar convenios con organismos públicos con características y funciones similares propias para coordinar y concertar acciones que le permitan cumplir con sus funciones;
 
@@ -135,7 +145,7 @@ XIV.- Proponer al Pleno del Tribunal Superior de Justicia el establecimiento de 
 
 XV.- Establecer los mecanismos de difusión que permitan a la sociedad en general conocer de sus derechos y obligaciones; y
 
-XVI.- Representar al Estado en los Organismos establecidos por la Ley de Arbitraje en donde esa representación se requiera;
+XVI.- Representar al Estado en los Organismos establecidos por la Ley de Arbitraje en donde esa representación se requiera.
 
 ### CAPITULO VI. DE LAS MEDIDAS DE APREMIO Y EJECUCION DE RESOLUCIONES
 
@@ -155,9 +165,11 @@ III.- El arresto hasta por 36 horas.
 
 IV.- Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
 
+> <small>(REFORMADO, P.O.15 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 14.
 
-Los acuerdos y los laudos dictados por los árbitros designados por el Centro de Asistencia Jurídica, como consecuencia del desarrollo de procedimiento de mediación, conciliación o arbitraje, serán definitivos y no admitirán recurso alguno. El cumplimiento de éstos se exigirá en la vía de ejecución de sentencia ante los tribunales del fuero común.
+Los convenios celebrados ante el Centro de Asistencia Jurídica y los laudos dictados por los árbitros, serán definitivos, no admitirán recurso alguno por lo que tendrán la categoría de cosa juzgada. Su cumplimiento se solicitará, en caso necesario, al Juez competente en la vía de ejecución de sentencia.
 
 ###### ARTICULO 15.
 
@@ -165,13 +177,17 @@ La intervención el Centro de Asistencia Jurídica suspende la prescripción de 
 
 ### CAPITULO VII. DE LOS PROCEDIMIENTOS ALTERNATIVOS
 
+> <small>(REFORMADO, P.O.15 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 16.
 
-En los procedimientos seguidos ante el Centro, se mandará citar a quien se señale como parte obligada, apercibida que en caso de no asistir, se le impondrá los medios de apremio necesarios.
+En los procedimientos seguidos ante el Centro, se mandará a citar a quien se señala como parte obligada; en caso de no asistir será apercibida con alguno de los medios de apremio a que se refiere el Artículo 13 de esta ley.
+
+> <small>(REFORMADO, P.O.15 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 17.
 
-En caso de inasistencia de la parte citada luego de aplicar los medios de apremio o de negativa a someterse a los procedimientos previstos en la presente ley, se le brindará orientación jurídica a la parte que acudió o que se sometió voluntariamente a los procedimientos del Centro, para ejercer las acciones respectivas ante la autoridad o tribunales competentes.
+En caso de inasistencia de la parte citada luego de aplicar los medios de apremio o de negativa a someterse a los procedimientos previstos en la presente ley, se le brindará orientación jurídica a la parte que acudió o que se sometió voluntariamente a los procedimientos del Centro, para ejercer las acciones respectivas ante la autoridad o tribunales competentes, siempre que se trate de personas que carecen de recursos para contratar abogados o defensores particulares.
 
 ###### ARTICULO 18.
 
@@ -236,3 +252,11 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O.15 DE FEBRERO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
