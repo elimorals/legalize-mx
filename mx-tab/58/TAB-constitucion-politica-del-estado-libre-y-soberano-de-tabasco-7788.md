@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1998-08-05"
+last_updated: "2000-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2000.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -307,6 +307,8 @@ VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996)(F. DE E., P.O. 8 DE MARZO DE 1997
 
 ### CAPITULO IV. INICIATIVA Y FORMACION DE LAS LEYES
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 15.
 
 Para ser Diputado se requiere:
@@ -389,6 +391,8 @@ Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cá
 
 El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año, el primero del dos de enero al treinta y uno de mayo y el segundo del uno de agosto al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45, primer párrafo de esta Constitución.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 Durante el receso funcionará una Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
@@ -419,25 +423,37 @@ La resolución que emita el Congreso al calificar la cuenta pública, es inataca
 
 Durante el segundo período el Congreso se ocupará preferentemente, de estudiar, discutir y votar las leyes de Ingresos de los Municipios; del Estado y del Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 28.
 
 Toda resolución del Congreso tendrá el carácter de LEY o DECRETO. Unas y otros se remitirán al Ejecutivo firmados por el Presidente y el Secretario para su promulgación.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 29.
 
 El Congreso se reunirá en sesiones extraordinarias cada vez que lo convoque para este objeto la Comisión Permanente por sí, o a solicitud del Ejecutivo y sólo se ocupará del asunto o asuntos que la propia Comisión someta a su conocimiento, expresados en la convocatoria respectiva. En la apertura de las sesiones extraordinarias a que fuera convocado el Congreso, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 30.
 
 Si las sesiones extraordinarias se prolongan hasta que deban comenzar las ordinarias, cesarán aquellas y durante éstas se despacharán los asuntos objeto de la convocatoria que hayan quedado pendientes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 31.
 
 La Legislatura del Estado celebrará sus sesiones en la ciudad de Villahermosa y no podrá trasladarse a otro sitio sin el acuerdo de las dos terceras partes de sus miembros.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 32.
 
 Las sesiones serán públicas, excepto cuando el Reglamento o la índole del asunto de que se trate exija el secreto.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VI. COMISION PERMANENTE Y SUS ATRIBUCIONES
 
@@ -455,9 +471,13 @@ III.- Al Tribunal Superior de Justicia, en asuntos de su ramo; y
 
 IV.- A los Ayuntamientos en asuntos del ramo municipal.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 34.
 
 Ningún proyecto de ley o decreto que fuere desechado en el Congreso podrá ser presentado de nuevo en el mismo período de sesiones.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 35.
 
@@ -466,6 +486,8 @@ Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien 
 El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
 
 Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
 
@@ -883,9 +905,9 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en el Consejo de la Judicatura, en Juzgados de Primera Instancia, en Juzgados de Paz y Arbitros, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-El Tribunal Superior de Justicia del Estado, se integrará de 15 Magistrados Numerarios y los Supernumerarios e Interinos que se requieran, y funcionarán en Pleno y en Salas.
+El Tribunal Superior de Justicia del Estado, se integrará cuando menos por 19 Magistrados Numerarios y los Supernumerarios e Interinos que se requieran, y funcionarán en Pleno y en Salas.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
 
@@ -1860,3 +1882,9 @@ SEGUNDO.- Por única vez, las cuentas públicas del Estado y de los Municipios, 
 TERCERO.- Por lo que hace a las cuentas públicas del tercero y cuarto trimestre del año en curso, se estará a lo dispuesto en el presente Decreto.
 
 CUARTO.- El receso en el que actualmente se encuentra el H. Congreso del Estado, concluye el día treinta y uno de agosto del presente año.
+
+P.O. 29 DE NOVIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
