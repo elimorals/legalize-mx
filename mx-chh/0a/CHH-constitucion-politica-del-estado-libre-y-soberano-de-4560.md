@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2004-04-10"
+last_updated: "2004-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2004.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -679,6 +679,10 @@ Siempre que el Congreso abra o cierre un período de sesiones, lo hará por form
 
 A la apertura del primer período ordinario de sesiones concurrirá el Gobernador del Estado, quien presentará un informe por escrito en que manifieste el estado que guarda la administración pública. Si el Gobernador le da lectura, el Presidente del Congreso le contestará en términos generales y un representante de cada grupo parlamentario podrá hacer comentarios generales en torno al mismo una vez rendido aquél y dentro de la misma sesión. El desarrollo de la intervención de dichos representantes se regulará en la ley orgánica del Congreso.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
+
+Tratándose del último año de su gestión, el Gobernador podrá rendir por escrito el informe del estado que guarda la administración pública, el primer viernes del mes de septiembre, cumpliendo las formalidades previstas para tal efecto en el artículo 51 de esta Constitución.
+
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
 ###### Art. 56.
@@ -1239,7 +1243,7 @@ DEL PODER EJECUTIVO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
 
 ###### Art. 84.
 
@@ -1345,7 +1349,7 @@ DEL DESPACHO DEL EJECUTIVO.
 
 ###### Art. 93.
 
-Son facultades y obligaciones del Gobernador:
+Son Facultades y obligaciones del Gobernador:
 
 I.- Publicar y hacer cumplir las leyes federales.
 
@@ -1403,9 +1407,9 @@ XVII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1994)
 
 XVIII.- Presidir todas las reuniones oficiales a que concurra, a excepción de las del Congreso y Tribunales.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2004)</small>
 
-XIX.- Asistir a la apertura del primer período ordinario de sesiones del Congreso y de los extraordinarios cuando el Ejecutivo hubiere promovido la convocatoria por medio de la Diputación Permanente. En el primer caso, deberá presentar un informe sobre el estado que guarde la administración pública, y en el segundo sobre las razones que lo hayan motivado a promover la solicitud respectiva de conformidad con el artículo 51.
+XIX.- Asistir a la apertura del primer periodo ordinario de sesiones del Congreso, salvo lo dispuesto en el artículo 55, párrafo segundo y de los períodos extraordinarios cuando el Ejecutivo hubiere promovido la convocatoria por medio de la Diputación Permanente. En el primer caso, deberá presentar un informe sobre el estado que guarde la administración pública, y en el segundo sobre las razones que lo haya motivado a promover la solicitud respectiva de conformidad con el artículo 51.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2765,7 +2769,7 @@ DECRETO No. 263
 
 PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periódo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
 
 TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
 
@@ -3056,3 +3060,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de la publicación de la declaratoria de aprobación respectiva en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
