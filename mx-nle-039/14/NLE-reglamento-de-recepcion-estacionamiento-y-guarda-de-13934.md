@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-recepcion-estacionamiento-y-guarda-de-13934"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-08-18"
-last_updated: "1983-08-29"
+last_updated: "1990-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE RECEPCION, ESTACIONAMIENTO Y GUARDA DE VEHICULOS EN EDIFICIOS O LOCALES PUBLICOS O PRIVADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1990.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 1976.
 
@@ -72,7 +72,9 @@ IV.- La categoría de servicios que pretenda ofrecer así como la tarifa.
 
 V.- Proyecto arquitectónico con las especificaciones indispensables del edificio o terreno del cual se desprendan la información necesaria para estimar la seguridad, salubridad, comodidad y una adecuada operación.
 
-11. Los permisos para el establecimiento de estacionamientos serán por tiempo indefinido, pudiendo revocarse, cancelarse o suspenderse, por las causas o motivos que legalmente se establecen.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
+
+11. Los permisos para el establecimiento de estacionamientos serán anuales, pudiendo revocarse, cancelarse o suspenderse, por las causas o motivos que legalmente se establecen.
 
 12. Cuando por cualquier causa exista necesidad para el permisionario de suspender el servicio de estacionamiento, deberá hacerlo del conocimiento de la Autoridad Municipal y del público usuario con quince días de anticipación, haciendo notar el tiempo aproximado que requiera la ejecución de las obras de acondicionamiento o demás circunstancias que hayan motivado la suspensión, cuando ésta sea provisional, o que se trata (sic) de suspensión definitiva, en su caso.
 
@@ -110,7 +112,9 @@ IX.- Las demás que exigen los Reglamentos Administrativos aplicables.
 
 DE LAS OBLIGACIONES DEL PERMISIONARIO EN LA PRESTACION DEL SERVICIO.
 
-16. Atendiendo a que los bienes jurídicamente protegidos en el presente Ordenamiento son de interés público, y a que la sociedad se encuentra interesada en la funcionalidad eficaz del servicio público de estacionamientos, el permisionario deberá cumplir especialmente con las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
+
+16. Atendiendo a que los bienes jurídicamente protegidos en el presente ordenamiento son de interés público, y a que la sociedad se encuentra interesada en la funcionalidad eficaz del servicio público de estacionamientos, el permisionario deberá cumplir especialmente con las siguientes obligaciones:
 
 I.- Obtener póliza de seguro expedida por Compañía autorizada que garantice el pago a los usuarios contra todos los riesgos incluyendo choques y daños en sus vehículos, cuando se trate de estacionamientos con choferes propios; y contra incendios, robo total o abuso de confianza, en tratándose de estacionamientos sin choferes, en los que los propios usuarios hacen el movimiento de sus vehículos.
 
@@ -133,6 +137,10 @@ IX.- Comunicar a la Autoridad, en el momento en que de ello tenga conocimiento, 
 X.- Dar las facilidades necesarias al personal comisionado por la Autoridad Municipal, para practicar inspecciones al estacionamiento.
 
 XI.- Asegurarse de que los vehículos dados en guarda no sean utilizados sino para hacer las maniobras absolutamente necesarias del servicio, así como de que el uso de su equipo y herramienta no sea utilizada por el personal a sus órdenes.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
+
+XII.- Tener a su servicio una o varias personas exclusivamente encargadas de la vigilancia de los vehículos durante las horas del servicio.
 
 17. El servicio público de estacionamiento puede realizarse bajo la modalidad de "por horas" o "pensión", o ambas simultáneamente; es por horas cuando el tiempo corre de momento a momento, sin continuidad en el servicio; en tanto que se entiende que es por "pensión" cuando así se contrata expresamente entre el permisionario y los clientes solicitantes del servicio, que en todo caso debe ser de lapsos superiores a una semana, en el que corre la obligación a cargo del permisionario de aceptar los vehículos en el momento que lo desee el usuario, con continuidad del servicio y bajo las condiciones pactadas entre ellos.
 
@@ -162,7 +170,9 @@ DEL ESTACIONAMIENTO EN INMUEBLES PARTICULARES DESTINADOS A CENTROS DE REUNION, C
 
 DE LAS VISITAS DOMICILIARIAS DE INSPECCION DE LOS ESTABLECIMIENTOS.
 
-27. La inspección de los estacionamientos de servicio público o privado, a fin de supervisar las instalaciones y condiciones de funcionamiento estará a cargo de las Direcciones de Tránsito y Obras Públicas del Municipio, con personal comisionado para tal fin. La Autoridad Municipal determinará la periodicidad de estas visitas domiciliarias de inspección.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
+
+27. La inspección de los estacionamientos de servicio público o privado, a fin de supervisar las instalaciones y condiciones de funcionamiento estará a cargo de las Direcciones de Tránsito y Obras Públicas del Municipio, con personal comisionado para tal fin. Estas inspecciones se harán mensualmente.
 
 28. Al practicarse la visita domiciliaria de inspección, el Inspector se identificará previamente y mostrará la orden escrita de la Autoridad Municipal, la que expresará el lugar que ha de inspeccionarse y el objeto y alcance de la diligencia a realizar, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el propietario del estacionamiento o encargado del mismo, y ante la ausencia o negativa de estos últimos para proponerlos, por el Inspector que practique la diligencia.
 
@@ -233,3 +243,9 @@ Se derogan las disposiciones municipales vigentes que se relacionan con la mater
 P.O. 29 DE AGOSTO DE 1983.
 
 UNICO. Estas modificaciones entrarán en vigor a partir del día siguiente de su publicación en el "Periódico Oficial" del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 1990.
+
+PRIMERO:- Las presentes modificaciones entrarán en vigor el día de de (sic) su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO:- Para los efectos del Artículo 11 que se modifica, los actuales permisionarios procederán a la renovación de su permiso en el mes de enero del próximo año.
