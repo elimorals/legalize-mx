@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-de-comercio-del-7965
 country: "mx"
 rank: "ley"
 publication_date: "1982-11-16"
-last_updated: "1982-11-16"
+last_updated: "2004-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de noviembre de 1982.
 
@@ -45,13 +45,39 @@ LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE SAN LUIS PO
 
 La Dirección del Registro Público de la Propiedad es una Dependencia del Ejecutivo del Estado, encargada de la coordinación de las actividades registrales y de promoción de planes, programas y métodos que contribuyan a la unificación estatal del sistema para el eficaz funcionamiento del servicio registral, así como de las demás funciones que le señalen las leyes.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 2o.
 
-Las disposiciones de esta Ley son aplicables a la materia registral y sólo se entienden extensivas a los Registros de Comercio y de crédito agrícola, por cuanto que la titularidad de éstos corresponde por Ministerio de Ley a los Registradores de la Propiedad y sin perjuicio de los ordenamientos de carácter federal que regulen el funcionamiento de ellos.
+El Registro Público de la Propiedad y de Comercio, constituye un servicio público, que consiste en dar publicidad a los actos jurídicos debidamente inscritos al mismo, que precisan de ese requisito para surtir efectos contra terceros; así como regularizar los bienes inmuebles mediante su incorporación al propio sistema de registro.
 
 ###### ARTICULO 3o.
 
 Las atribuciones del Registro Público de la Propiedad se desempeñarán por conducto de Directores del Registro Público de la Propiedad, con residencia en la Capital del Estado y en cada uno de los Distritos Judiciales, en este caso, serán los Jueces de Primera instancia, a falta de éstos, personas designadas por el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 3o.
+
+BIS.- Para los efectos de este ordenamiento se entiende por:
+
+I.- Actos. Los actos o hechos jurídicos, convenios, contratos o negocios que requieran de inscripción en el Registro Público de la Propiedad y del Comercio;
+
+II.- Código. El Código Civil para el Estado de San Luis Potosí;
+
+III.- Director. Director del Registro Público de la Propiedad y del Comercio;
+
+IV.- Firma electrónica. Es el conjunto de datos en forma electrónica, anexos a otros datos electrónicos o asociados funcionalmente con ellos, utilizados como medio para identificar formalmente al autor o a los autores del documento que la recoge;
+
+V.- Forma precodificada. El documento que contiene los datos esenciales sobre un acto registrable, necesario para su calificación, y en su caso, inscripción en el Registro;
+
+VI.- Registro. El Registro Público de la Propiedad y del Comercio;
+
+VII.- SE. La Secretaría de Economía;
+
+VIII.- Secretaría. La Secretaría General de Gobierno, y
+
+IX.- Sistema. El sistema de cómputo utilizado en la función registral.
 
 ###### ARTICULO 4o.
 
@@ -573,7 +599,9 @@ Los libros de inscripción contendrán trescientas fojas útiles y estarán auto
 
 "Queda autorizado este libro con trescientas fojas para inscripciones correspondientes a la Sección.... en el Registro Público de la Propiedad, y de Comercio del Estado de San Luis Potosí. El sello de Gobierno del Estado y firmas".
 
-### CAPITULO III. DE LAS INSCRIPCIONES EN GENERAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JUNIO DE 2004)</small>
+
+### CAPITULO III. DEL PROGRAMA INFORMATICO, DE LA BASE DE DATOS ESTATAL, Y DE LAS INSCRIPCIONES EN GENERAL
 
 ###### ARTICULO 74.
 
@@ -582,6 +610,16 @@ Las inscripciones en los libros del Registro serán definitivas o preventivas. D
 ###### ARTICULO 75.
 
 Las inscripciones se asentarán en los libros respectivos bajo el orden de entrada de los documentos que se vayan a registrar, conforme a la hora y al día en que se presentaron, se asentarán seguidas unas de otras sin dejar espacio entre ellas más que para la firma del Registrador y el margen suficiente para las anotaciones de este orden.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+
+ARTICULO 75 BIS.- El Registro operará con un programa informático y una base de datos estatal; ésta última integrada por la información que incorporen los servidores públicos encargados de dicho Registro en las oficinas correspondientes, respecto de cada inscripción o anotación de los actos registrales, y rectificación de los mismos, según lo dispuesto en el Código Civil y en esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+
+ARTICULO 75 TER.- La base de datos se integrará mediante el uso de un programa informático para la captura, almacenamiento, custodia, seguridad, consulta, reproducción y transmisión de la información registral, debiendo contar con un respaldo electrónico.
+
+En caso de existir discrepancia o presunción de alteración de la información del Registro, contenida en la oficina central registral o en las oficinas registrales correspondientes, o sobre cualquier otro respaldo que hubiere, prevalecerá aquella contenida en la base de datos estatal, salvo prueba en contrario.
 
 ###### ARTICULO 76.
 
@@ -952,3 +990,13 @@ PROFR. Y LIC. JONGUITUD BARRIOS
 El Secretario General de Gobierno,
 
 PROFR. J. REFUGIO ARAUJO DEL ANGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JUNIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. De acuerdo a las reformas aprobadas, se concede al titular del Poder Ejecutivo del Estado, el término de ciento ochenta días para que formule el Reglamento del Registro Público de la Propiedad y de Comercio.
