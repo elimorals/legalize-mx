@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-readaptacion-juvenil-6232"
 country: "mx"
 rank: "ley"
 publication_date: "1958-08-09"
-last_updated: "1981-10-31"
+last_updated: "1998-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE READAPTACION JUVENIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 9 de agosto de 1958.
 
@@ -107,7 +107,13 @@ II.- Sección Pedagógica.
 
 III.- Sección Médico-Psicológica y de Paidología.
 
-IV.- Sección de Estadística.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1998)</small>
+
+IV. Sección de Estadística, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
+
+V. Sección Humanística.
 
 ###### Artículo 11o.
 
@@ -186,6 +192,18 @@ III.- El número de reincidentes.
 IV.- El número de fugas.
 
 V.- El número de menores externados.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+
+Artículo 17 bis.- La Sección Humanística tendrá a parte de las atribuciones que le fijen los reglamentos, las siguientes:
+
+I.- Promover en los menores internados los valores intrínsecos del ser humano.
+
+II.- Promover en el internado, la ética individual y social.
+
+III.- Encauzar en el interno la realización de artes y oficios, y
+
+IV.- Coordinarse con las demás secciones para el debido cumplimiento de las atribuciones encaminadas a la rehabilitación integral del internado.
 
 ###### Artículo 18o.
 
@@ -442,3 +460,7 @@ P.O. 31 DE OCTUBRE DE 1981.
 Primero. Este Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Segundo. Los mayores de 16 años y menores de 18 que se encuentren actualmente procesados por alguno de los delitos previstos en el Código Penal serán remitidos a la Granja Industrial Juvenil de Recuperación para su tratamiento en los términos de la Ley de Readaptación Juvenil. Los Jueces que conozcan de esos procesos deberán sobreseerlos al entrar en vigor este Decreto.
+
+P.O. 5 DE MARZO DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
