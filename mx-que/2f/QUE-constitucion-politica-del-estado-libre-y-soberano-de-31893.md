@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1939-02-23"
+last_updated: "1939-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 1939.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1493,11 +1493,11 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1931)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1939)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se divide en once Municipalidades que son: AMEALCO, CADEREYTA, COLON, CORREGIDORA, JALPAN, MARQUES, QUERETARO, SAN JUAN DEL RIO, SANTA ROSA, TEQUISQUIAPAN Y TOLIMAN.
+El territorio del Estado se divide en once Municipalidades que son: Amealco, Arrollo Seco, Cadereyta, Colón Corregidora, Jalpan, Pinal de Amoles, Querétaro, San Juan del Río, Tequisquiapan y Tolimán.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
 
@@ -1511,7 +1511,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1632,3 +1632,13 @@ II.- La presente Ley entrará en vigor el día primero de noviembre de mil novec
 P.O. 23 DE FEBRERO DE 1939
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 6 DE JULIO DE 1939
+
+###### ARTICULO PRIMERO.
+
+Los nuevos Municipios tendrán los mismo limites que actualmente tienen como Delegaciones Municipales, y la cabecera de cada uno de ellos, será la población en que actualmente residen los Delegados Municipales.
+
+###### ARTICULO SEGUNDO.
+
+Entre tanto se convoca a elecciones se faculta al C. Gobernador del Estado, para que dicte las medidas necesarias para la organización de la Hacienda de dichos Municipios, y nombrará Juntas de Administración Civil, para cada uno de ellos.
