@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-administrativo-del-consejo-estatal-de-promocion-3337
 country: "mx"
 rank: "reglamento"
 publication_date: "1977-03-31"
-last_updated: "1977-03-31"
+last_updated: "1980-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO ADMINISTRATIVO DEL CONSEJO ESTATAL DE PROMOCION Y FOMENTO TURISTICO EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 1980.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de marzo de 1977.
 
@@ -39,23 +39,29 @@ REGLAMENTO ADMINISTRATIVO DEL CONSEJO ESTATAL DE PROMOCION Y FOMENTO TURISTICO E
 
 El Consejo Estatal de Promoción y Fomento Turístico en el Estado de Baja California Sur, al que se nombrará también “EL Consejo” en esta reglamentación, tendrá su domicilio en la ciudad de la Paz y su duración será por tiempo indefinido.
 
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
 ###### ARTICULO 2o.
 
-El Consejo Estatal de Promoción y Fomento Turístico de Baja California sur, tendrá los siguientes objetivos:
+El Consejo Estatal de Promoción y Fomento Turístico de Baja California Sur, tendrá los siguientes objetivos y funciones:
 
-a).- Estudiar y proponer soluciones para la conservación y aprovechamiento de los recursos turísticos del Estado;
+I. Estudiar y proponer las medidas y soluciones sobre la problemática de la Entidad en Materia de Turismo, para la conservación y aprovechamiento de los recursos turísticos del Estado.
 
-b).- Proponer las estrategias y políticas turísticas que incrementen la corriente turística a la Entidad, tanto nacional como extranjera, incluyendo iniciativas de leyes y reglamentos federales y locales;
+II. Proponer las estrategias y políticas turísticas que favorezcan el aprovechamiento de los recursos naturales y culturales y los servicios turísticos y que incrementan la corriente turística a la Entidad, tanto Nacional como Extranjera, así como la generación de Ingresos y creación de empleos.
 
-c).- Coordinar los esfuerzos de los sectores público y privado y propugnar por la celebración de convenios entre la Secretaría de Turismo y el Gobierno del Estado y Municipios con fines de promoción y de funcionamiento de servicios turísticos, con la intervención de la Secretaría de Programación y Presupuesto;
+III. Coordina las acciones de los Sectores Público, Social y Privado, en materia turística, propiciando su integración a fin de incrementar la oferta turística local y propugnar por la celebración de convenios entre el Gobierno Federal y el Gobierno el Estado y Municipios con fines de promoción y de funcionamiento de servicios turísticos.
 
-d).- Solicitar y gestionar de la Secretaría de Turismo, con apoyo en la Ley Orgánica de la Administración Pública, para la más eficaz atención y eficiente despacho de los asuntos de su competencia contenidos en las leyes y reglamentos tanto federales como locales, se deleguen en las autoridades u organismos administrativos descentralizados, establecidos en la Entidad, las facultades específicas, para registrar a los prestadores de servicios turísticos y precios de alimentos y bebidas, conceder, con arreglo a las normas e instrucciones recibidas, autorizaciones de precios y tarifas de servicios turísticos y arrendamiento al público de bienes muebles destinados al turismo ejercer el control y vigilancia para la correcta aplicación de los precios o tarifas autorizadas o registros, así como el reconocimiento y resolución de violaciones y aplicación de sanciones establecidas en las leyes y reglamentos de turismo;
+IV. Fortalecer la imagen turística del Estado, a través de la promoción y difusión de la calidad de los recursos y servicios turísticos.
 
-e).- Servir como organismo consultivo de la Dirección Estatal y de la Delegación Federal de Turismo en la Entidad;
+V. Propiciar la capacitación y adiestramiento del personal vinculado con la prestación de servicios turísticos en el Estado.
 
-f).- La celebración y ejecución de todos aquellos actos jurídicos que sean indispensables, provechosos o conducentes al funcionamiento de los objetos del Consejo, que, en toso caso, perseguirá fines de interés público;
+VI. Servir como organismo consultivo de la Dirección Estatal, de la Delegación Federal de Turismo y de los Ayuntamientos en él Estado.
 
-h).- En fin, todas aquellas actividades que relacionadas con la materia de turismo le sean encomendadas o permitidas por la delegación y las autoridades, en beneficio de la Entidad y sus habitantes; (sic)
+VII. Solicitar y gestionar de la Secretaría de Turismo, con apoyo en la Ley Orgánica de la Administración Pública Federal, para la más eficaz atención y eficiencia de despacho de los asuntos de su competencia contenidos en las Leyes y reglamentos tanto federales como locales, se delegue en las autoridades u organismo administrativos descentralizados, establecidos en la Entidad, las facultades específicas, para registrar a los prestadores de servicios turísticos y precios de alimentos y bebidas, conceder, con arreglo a las normas e instrucciones recibidas, autorización de precios y tarifas de servicios turísticos y arrendamiento al público de bienes muebles destinados el turismo, ejercer control y vigilancia para la correcta aplicación de los precios o tarifas autorizadas o registradas, así como el conocimiento y resolución de violaciones establecidas en las leyes y reglamentos de turismo.
+
+VIII. La celebración y ejecución de todos aquellos actos jurídicos que sean indispensables, provechosos o conducentes para el mejor cumplimiento de los objetivos el Consejo, que, en todo caso, perseguirá fines de interés público.
+
+IX. En fin todas aquellas actividades que relacionadas con la materia de turismo, e sean encomendadas o permitidas por la legislación y las autoridades en beneficio de la Entidad y sus habitantes.
 
 ###### ARTICULO 3o.
 
@@ -91,21 +97,29 @@ EL empleo de fondos se hará a través de una cuenta bancaria especial que manej
 
 DE LOS MIEMBROS.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JULIO DE 1980)</small>
+
 ###### ARTICULO 8o.
 
-Serán miembros integrantes del Consejo Estatal de Promoción y Fomento Turístico en el Estado de Baja California Sur los representantes de los sectores público, privado y social que tengan relación directa con la actividad turística, que a continuación se menciona:
+Serán miembros integrantes del “Consejo Estatal de Promoción y Fomento Turístico en el Estado de Baja California Sur”, los representantes de los Sectores Público, Privado y Social que tengan relación directa con la actividad Turística, que a continuación se mencionan:
 
-PRESIDENTE.- El Gobernador de la Entidad o el representante que él designe.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
+PRESIDENTE: El Gobernador de la Entidad o el Representante que el designe.
 
 VICE-PRESIDENTE.- Que será designado por las Cámaras de Comercio del Estado.
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 1977)</small>
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
 
-UN SECRETARIO EJECUTIVO.- Que será el Delegado Federal y Director Estatal de Turismo en la Entidad.
+UN SECRETARIO EJECUTIVO: Que será el Delegado Federal de Turismo en la Entidad, o la persona que designe el Secretario de Turismo.
 
-VOCALES EJECUTIVOS.- Los CC. Presidentes Municipales de La Paz, Comondú y Mulegé, (sic)
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 1980)</small>
 
-y (sic) el número de Vocales que serán nombrados por los organismos siguientes:
+UN TESORERO: Que será el presidente del Centro Bancario del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JULIO DE 1980)</small>
+
+VOCALES EJECUTIVOS: Los Presidentes Municipales en el Estado. Y el número de vocales que serán nombrados por los organismos siguientes:
 
 1.- Delegación de la Cámara Nacional de la Industria de Transformación.
 
@@ -125,7 +139,9 @@ y (sic) el número de Vocales que serán nombrados por los organismos siguientes
 
 9.- Representantes de los Transportes Terrestres.
 
-10.- Representantes de los Trabajadores de los Servicios Turísticos.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
+10.- Tres representantes de las Organizaciones de los trabajadores relacionados con la actividad turística.
 
 11.- Representantes de Transportes Marítimos.
 
@@ -135,7 +151,35 @@ y (sic) el número de Vocales que serán nombrados por los organismos siguientes
 
 14.- Centros y organismos de capacitación Turística y demás organismo afines que soliciten su ingreso.
 
-Cada uno de los Organismo al nombrar su Representante deberá designar un suplente del mismo.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
+Cada una de las Organizaciones al nombrar su Representante deberá designar un suplente del mismo.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 1980)</small>
+
+También serán miembros integrantes del Consejo los siguientes Funcionarios:
+
+a).- Delegado de Servicios Migratorios.
+
+b).- Capítanes de Puerto en el Estado.
+
+c).- Jefes de la Aduanas Marítimas en el Estado.
+
+d).- Delegado del Registro Federal de Vehículos.
+
+e).- Comandante de Policía Federal de Caminos.
+
+f).- Delegado de Autotransporte Federal.
+
+g).- Jefe del Centro SAHOP 03.
+
+h).- Representante de la Junta Local de Caminos.
+
+i).- Jefe de los Servicios Coordinados de Salud Pública en el Estado.
+
+j).- Procurador de la Defensa del Consumidor.
+
+k).- Los Delegados en el Estado de las Secretarías de Comercio, Educación Pública, Programación y Presupuesto, Trabajo y Previsión Social, Reforma Agraria, de Departamento de Pesca y del Instituto Nacional de Antropología e Historia.
 
 ###### ARTICULO 9o.
 
@@ -147,13 +191,21 @@ b).- Clubes y Asociaciones de Servicio Social, Deportivo y Cultural.
 
 DE LOS ORGANOS DEL CONSEJO.
 
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
 ###### ARTICULO 11.
 
-La dirección y administración del Consejo estará a cargo de:
+Son órganos integrantes del Consejo:
 
-a).- La asamblea general.
+a).- Asambleas Generales
 
-b).- Comité Directivo.
+b).- Comité Directivo
+
+c).- Comité Técnico Consultivo
+
+d).- Comité de Trabajo
+
+Los Comité de Trabajo podrán ser integrados por disposición del Comité Directivo para atender a tareas concretas de investigación, estudio o aplicación de métodos o sistemas su composición, duración y finalidades será, determinadas por el Comité Directivo de acuerdo con la naturaleza de las recomendaciones.
 
 ASAMBLEAS GENERALES.
 
@@ -177,7 +229,7 @@ Las asambleas generales deberán ser convocadas por el Presidente del Comité Di
 
 Las asambleas generales deberán ser convocadas por lo menos con 3 (tres) días de anticipación a la fecha señalada para la reunión, con el objeto de que los miembros del Consejo puedan consultar los libros y documentos relacionados con los asuntos que (sic)
 
-se (sic) hayan de tratar y las asambleas extraordinarias deberán ser convocadas por lo menos con 24 (veinticuatro) horas de anticipación.
+se hayan de tratar y las asambleas extraordinarias deberán ser convocadas por lo menos con 24 (veinticuatro) horas de anticipación.
 
 ###### ARTICULO 17.
 
@@ -255,11 +307,11 @@ e).- Tres Vocales Ejecutivos.
 
 f).- Tres Vocales de los demás Organismo.
 
-> <small>(F. DE E., P.O. 30 DE ABRIL DE 1977)</small>
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
 
 ###### ARTICULO 31.
 
-El Presidente de Comité Directivo del Consejo, será siempre el Gobernador o representante que el designe; el Vicepresidente será siempre el designado por las Cámaras de Comercio del Estado; el Secretario Ejecutivo será siempre el Delegado Federal del Centro Bancario en el Estado; los tres Vocales Ejecutivos serán los Presidentes Municipales de la Paz, Comondú y Mulegé y los tres Vocales representantes de los prestadores de servicios turísticos, serán designados por mayoría de votos de los organismos representados en el Consejo, en reunión previa y especial.
+El Presidente del Comité Directivo del Consejo será para siempre el representante del Gobernador de la Entidad, el Vice-Presidente será siempre el designado por las Cámaras de Comercio del Estado, el Secretario Ejecutivo, será siempre el Delegado, Federal de Turismo de la Entidad, o la persona que designe el Secretario de Turismo, el Tesorero del Consejo, será el Presidente del Centro Bancario en el Estado, los Vocales Ejecutivos serán los Presidentes Municipales en el Estado y los tres Vocales representantes de los prestadores de servicios turísticos, serán designados por mayoría de votos de los órganos representados por el Consejo, en reunión previa y especial.
 
 ###### ARTICULO 32.
 
@@ -315,7 +367,9 @@ En casos urgentes en que no pueda reunirse desde luego el comité Directivo, el 
 
 EL Presidente tendrá las siguientes funciones:
 
-a).- Vigilar se lleven a la práctica las decisiones y recomendaciones del Comité Directivo y de la asamblea;
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
+a).- Vigilar se lleven a la práctica las decisiones y recomendaciones del Consejo Directivo, del Comité Técnico Consultivo y de la Asamblea;
 
 b).- Tomar aquellas decisiones que estime pertinentes para la realización efectiva de los fines del consejo y adoptar las medidas urgentes respecto de las cuales dará cuenta el Comité Directivo en su próxima junta;
 
@@ -323,7 +377,9 @@ c).- Representar al Consejo en sus relaciones externas ante particulares y toda 
 
 d).- Delegar en favor del Vicepresidente o del Secretario Ejecutivo Directivo o de alguno de los miembros del Comité Directivo, las facultades que le corresponden, así como las que no le sea posible desempeñar personalmente;
 
-e).- Presidir las reuniones de la asamblea general de Comité Directivo ya sea en forma personal o por conducto del Vicepresidente, o a falta de éste por el Secretario Ejecutivo.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
+e).- Presidir las reuniones de la asamblea general y del Comité Directivo ya sea en forma personal o por conducto del Vice-Presidente, a falta de este por el Secretario Ejecutivo.
 
 ###### ARTICULO 38.
 
@@ -337,7 +393,11 @@ c).- Formular las convocatorias para las reuniones ordinarias de la asamblea gen
 
 d).- Preparar la segunda de las reuniones y juntas a celebrarse;
 
-e).- Levantar las actas correspondientes de cada reunión, consignando los asuntos tratados y las resoluciones tomadas; (sic)
+e).- Levantar las actas correspondientes de cada reunión, consignando los asuntos tratados y las resoluciones tomadas;
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 1980)</small>
+
+f).- Prescindir el Comité Técnico Consultivo.
 
 ###### ARTICULO 39.
 
@@ -351,15 +411,45 @@ c).- Mantener el control directo de los fondos y hacer la aplicación de los mis
 
 d).- Promover la canalización de los recursos financieros para el sostenimientos y operación del Consejo.
 
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
+
 ###### ARTICULO 40.
 
-Los miembros que constituyen el Comité Directivo del Consejo, conforme al artículo 8o de este Reglamento, participarán con voz y voto en las decisiones de mismo, pero los que deban ser designados por los organismos que representen, solo serán parte integrante del mismo hasta después de haberse recibido su designación por escrito.
+El Comité Técnico Consultivo estará integrado por el SECRETARIO EJECUTIVO DEL CONSEJO que será quien lo presida y por los siguientes representantes del Gobierno Federal:
 
-Los miembros del Comité Directivo tendrán el deber de desempeñar las funciones específicas que les encomiende el Comité o el Secretario Ejecutivo.
+a).- Delegado de Servicios Migratorios.
+
+b).- Capitanes de Puerto en el Estado.
+
+c).- Jefes de las Aduanas Marítimas en el Estado.
+
+d).- Delegado Federal del Registro de Vehículos
+
+e).- Comandante de la Policía Federal de Caminos.
+
+f).- Jefe de los Servicios Coordinados de Salud Pública en el Estado.
+
+g).- Jefe del Centro SAHOP 03.
+
+h).- Representante de la Junta Local de Caminos.
+
+i).- Jefe de los Servicios Coordinados de Salud Pública en el Estado.
+
+j).- Procurador de la defensa del Consumidor.
+
+k).- Los Delegados en el Estado de las Secretarias de Comercio, Educación Pública, Programación y Presupuesto, Trabajo y Previsión Social, Reforma Agraria, del Departamento de Pesca y del Instituto Nacional de la Antropología a Historia.
+
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 1980)</small>
 
 ###### ARTICULO 41.
 
-Los Comités de Trabajo podrán ser integrados por disposiciones del Comité Directivo para atender a tareas concretas de investigación, estudio o aplicación de métodos o sistemas, su composición, duración y finalidades serán determinadas por el Comité Directivo de acuerdo con la naturaleza de las recomendaciones.
+El Comité Técnico Consultivo del Consejo tendrá las funciones siguientes:
+
+a).- Agilizar y estudiar la forma de ejecución en el Estado de las resoluciones adoptadas por la Comisión Intersecretarial Ejecutiva de Turismo.
+
+b).- Agilizar los trámites y resolver los problemas que se planteen por las gestiones que ante las Dependencias Federales deben realizar los turistas.
+
+c).- Elaborar las propuestas que el Consejo deba presentar ante la Secretaria de Turismo para someterlos a la consideración de la Comisión Intersecretarial Ejecutiva de Turismo.
 
 DISOLUCION Y LIQUIDACION
 
@@ -410,3 +500,17 @@ Lic. Angel César Mendoza Arámburo.
 EL SECRETARIO GRAL. DE GOBIERNO.
 
 Lic. Guillermo Mercado Romero.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+B.O. 20 DE JULIO DE 1980.
+
+SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día siguiente al de la fecha de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Remítase un ejemplar del Reglamento, incluyendo las presentes reformas, al Secretario de Turismo para los efectos del Artículo 68 de la Ley Federal de Turismo en Vigor.
