@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-arbitraje-26019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-10"
-last_updated: "2002-10-10"
+last_updated: "2004-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26019&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-02-07"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INTERNO DE LA COMISION NACIONAL DE ARBITRAJE MEDICO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 3 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 10 de octubre de 2002.
 
@@ -550,3 +552,11 @@ PRIMERO.- Se abroga el Reglamento Interno de la Comisión Nacional de Arbitraje 
 SEGUNDO.- El presente Reglamento, emitido por el Consejo en su Vigésima Cuarta Sesión Ordinaria celebrada el 7 de febrero de 2002, entrará en vigor al día siguiente de su publicación.
 
 De conformidad con lo dispuesto por el artículo 8o. fracción II del Decreto por el que se crea la Comisión Nacional de Arbitraje Médico, el Consejo de la Comisión, en su Vigésima Cuarta sesión ordinaria, celebrada en la Ciudad de México, Distrito Federal, el siete de febrero de dos mil dos, expidió el presente Reglamento Interno, instruyendo al Secretario Técnico para que se publique en el Diario Oficial de la Federación.- El Presidente del Consejo de la Comisión Nacional de Arbitraje Médico, Carlos Tena Tamayo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 3 DE FEBRERO DE 2004.
+
+PRIMERO.- Se abroga el Reglamento Interno de la Comisión Nacional de Arbitraje Médico, publicado en el Diario Oficial de la Federación el diez de octubre de dos mil dos.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
