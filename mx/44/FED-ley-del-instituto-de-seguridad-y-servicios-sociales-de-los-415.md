@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1986-12-24"
+last_updated: "1987-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 1987 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 19 DE FEBRERO DE 1987.</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -258,9 +258,9 @@ III. 0.50% para cubrir las prestaciones señaladas en las fracciones XV y XVI de
 
 IV. 0.50% para cubrir los servicios señalados en la fracción XVII del artículo 3o. de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1986) (F. DE E., D.O.F. 19 DE FEBRERO DE 1987)
 
-V. El porcentaje restante se aplicará para cubrir el 50% de la prima que sobre el sueldo básico se establezca anualmente, conforme a las valuaciones actuariales, para el pago de las jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme al artículo 182 de esta Ley y para cubrir los servicios sociales y culturales a que se refieren las fracciones de la XI a la XIII y de la XVIII a la XXX del artículo 3o., de esta Ley, así como los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
+V. El porcentaje restante se aplicará para cubrir el 50% de la prima que sobre el sueldo básico se establezca anualmente, conforme a las valuaciones actuariales, para el pago de las jubilaciones, pensiones e indemnizaciones globales, así como para integrar las reservas correspondientes conforme al artículo 182 de esta Ley y para cubrir los servicios sociales y culturales a que se refieren las fracciones de la XI a la XIII y de la XVIII a la XX del artículo 3o., de esta Ley, así como los gastos generales de administración del Instituto, exceptuando los correspondientes al Fondo de la Vivienda.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
@@ -912,11 +912,11 @@ I. Si el trabajador tuviese algún adeudo con el Instituto; y
 
 II. Previa orden de las autoridades competentes y cuando al trabajador se le impute algún delito con motivo del desempeño de su cargo y que entrañe responsabilidad con la dependencia o entidad correspondiente. En este caso se retendrá el total de la indemnización hasta que los Tribunales dicten fallo absolutorio y, en caso contrario, sólo se entregará el sobrante, si lo hubiere, después de cubrir dicha responsabilidad. Si el trabajador estuviere protegido por algún fondo de garantía, operará éste en primer término. En el caso del último párrafo del artículo anterior, la indemnización global sólo podrá afectarse para cubrir los adeudos que tuviese para con el Instituto hasta la fecha de su muerte.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1986) (F. DE E., D.O.F. 19 DE FEBRERO DE 1987)
 
 ###### Artículo 89.
 
-Si el trabajador separado del servicio reingresare y quisiere que el tiempo durante el que trabajo con anterioridad se le compute para efectos de esta Ley, reintegrará en el plazo prudente que le conceda el Instituto la indemnización global que hubiere recibido más los intereses que fije la Junta Directiva.
+Si el trabajador separado del servicio reingresare y quisiere que el tiempo durante el que trabajó con anterioridad se le compute para efectos de esta Ley, reintegrará en el plazo prudente que le conceda el Instituto la indemnización global que hubiere recibido más los intereses que fije la Junta Directiva.
 
 Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus beneficiarios podrán optar por reintegrar la indemnización que le hubiere correspondido al trabajador en los términos del artículo 87 o bien por cubrir íntegramente el adeudo para disfrutar de la pensión en los casos en que ésta proceda.
 
