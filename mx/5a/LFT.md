@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1988-01-21"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -882,7 +882,7 @@ VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los s
 
 > <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 1974)</small>
 
-VII.- Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
+VII. Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
 
 ###### Artículo 111.
 
@@ -1504,7 +1504,7 @@ I.- Comprobar que quienes capacitarán o adiestrarán a los trabajadores, están
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-ll.- Acreditar satisfactoriamente, a juicio de la Secretaría del Trabajo y Previsión Social, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y
+II.- Acreditar satisfactoriamente, a juicio de la Secretaría del Trabajo y Previsión Social, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y
 
 III.- No estar ligadas con personas o instituciones que propaguen algún credo religioso, en los términos de la prohibición establecida por la fracción IV del Artículo 3o. Constitucional.
 
@@ -1866,9 +1866,11 @@ Las disposiciones de este capítulo se aplican a los trabajadores de los buques,
 
 Están sujetos a las disposiciones de este capítulo, los capitanes y oficiales de cubierta y máquinas, los sobrecargos y contadores, los radiotelegrafistas, contramaestres, dragadores, marineros y personal de cámara y cocina, los que sean considerados como trabajadores por las leyes y disposiciones sobre comunicaciones por agua, y en general, todas las personas que desempeñen a bordo algún trabajo por cuenta del armador, naviero o fletador.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 189.
 
-Los trabajadores de los buques deberán tener la calidad de mexicanos por nacimiento.
+Los trabajadores de los buques deberán tener la calidad de mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
 ###### Artículo 190.
 
@@ -2072,9 +2074,11 @@ El Ejecutivo Federal determinará la forma de sostener y mejorar los servicios d
 
 Las disposiciones de este capítulo se aplican al trabajo de las tripulaciones de las aeronaves civiles que ostenten matrícula mexicana. Tienen como finalidad, además de la prevista en el artículo 2°, garantizar la seguridad de las operaciones aeronáuticas, y son irrenunciables en la medida en que correspondan a este propósito.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 216.
 
-Los tripulantes deben tener la calidad de mexicanos por nacimiento.
+Los tripulantes deben tener la calidad de mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
 ###### Artículo 217.
 
@@ -2354,7 +2358,7 @@ No es violatoria del principio de igualdad de salario la disposición que estipu
 
 ###### Artículo 258.
 
-Para determinar el salario de los días de descanso se aumentará el que perciban por el trabajo realizado en la semana, con un dieciséis sesenta y seis por ciento.
+Para determinar el salario de los días de descanso se aumentará el que perciban por el trabajo realizado en la semana, con un dieciséis sesenta y seis por ciento (sic).
 
 ###### Artículo 259.
 
@@ -5676,7 +5680,9 @@ En el Pleno y en las Juntas Especiales habrá el número de Auxiliares que se ju
 
 El Presidente de la Junta será nombrado por el Presidente de la República, percibirá los mismos emolumentos que correspondan a los Ministros de la Suprema Corte de Justicia de la Nación y deberá satisfacer los requisitos siguientes:
 
-I. Ser mexicano, mayor de veinticinco años y estar en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser mexicano por nacimiento que no adquiera otra nacionalidad, mayor de veinticinco años de edad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener título legalmente expedido de licenciado en derecho;
 
@@ -7918,7 +7924,7 @@ Una vez notificado el laudo, cualquiera de las partes, dentro del término de tr
 
 La interposición de la aclaración, no interrumpe el término para la impugnación del laudo.
 
-(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)a
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 848.
 
@@ -9707,3 +9713,7 @@ D.O.F. 21 DE ENERO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
