@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-17897"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2003-08-06"
+last_updated: "2004-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 7 DE ABRIL DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 30 de agosto de 2000.
 
@@ -688,3 +690,17 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 7 DE ABRIL DE 2004.
+
+PRIMERO.- Se abroga la Ley de Coordinación Hacendaria del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4072, de fecha 30 de agosto del 2000.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para los efectos a que se refieren los artículos 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión del Gobierno del Estado de Morelos.
+
+CUARTO.- Las funciones que desempeñaba el Instituto de Finanzas Públicas y Federalismo Hacendario del Estado de Morelos, pasarán al Instituto de Desarrollo y Fortalecimiento Municipal, conforme a las disposiciones establecidas en la presente Ley, una vez que este vigente. Para el desarrollo de sus nuevas funciones, el Instituto de Desarrollo y Fortalecimiento Municipal, deberá apegarse a las normas aplicables para su ejecución. La Asamblea Estatal de Funcionarios Hacendarios, dispondrá de lo necesario para que de inmediato se cumplan estos ordenamientos.
+
+QUINTO.- Los bienes muebles e inmuebles propiedad del Instituto de Finanzas Públicas y Federalismo Hacendario deberán entregarse en su totalidad, dentro de un plazo de treinta días a partir de la publicación de esta Ley al resguardo del Congreso del Estado de Morelos, el responsable de la entrega es el Titular del Organismo en liquidación.
+
+SEXTO.- El Director General del Instituto de Finanzas Públicas y Federalismo Hacendario, a través de su área administrativa preverá un fondo con la finalidad de cubrir los gastos de liquidación y finiquito del personal a su cargo, el cual deberá estar disponible dentro de los treinta días subsecuentes a la Publicación de esta Ley conforme al Presupuesto de Egresos aprobado del ejercicio fiscal 2004 para el Gobierno del Estado.
