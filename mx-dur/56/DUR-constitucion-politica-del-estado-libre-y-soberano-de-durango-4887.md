@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1948-05-02"
+last_updated: "1951-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1951.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -64,6 +64,38 @@ UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publica
 P.O. 2 DE MAYO DE 1948.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 194.
+
+###### Artículo 1o.
+
+La presente reforma a la Constitución Política del Estado entra en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2o.
+
+Con objeto de armonizar la duración de los cargos de los Diputados, con la fecha en que tome posesión el Gobernador del Estado, de acuerdo con la presente reforma, los Diputados de Distritos Impares que de conformidad con las disposiciones constitucionales vigentes hasta la fecha de la publicación de esta reforma, habrán de ser electos en el año de 1952, durarán en su encargo cuatro años; y los Diputados de Distritos pares que de acuerdo con las mismas disposiciones constitucionales habrán de ser electos en el año de 1954, durarán en su encargo dos años.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 195.
+
+1o.- La presente reforma al Artículo 88 de la Constitución Política del Estado surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+2o.- Con objeto de armonizar la fecha en que deberán tomar posesión de sus cargos los Magistrados del Supremo Tribunal de Justicia, con la fecha en que tome posesión el Gobernador del Estado, los Magistrados, que de acuerdo con las disposiciones vigentes tomen posesión de sus cargos el 1o. de Agosto de 1953 durarán en su cargo hasta el 15 de septiembre de 1956.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 197.
+
+Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 198.
+
+Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 4°.
 
@@ -383,7 +415,7 @@ La falta absoluta del Ayuntamiento de una Municipalidad, será suficiente para q
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
 
 ###### Artículo 50.
 
@@ -421,17 +453,13 @@ El Congreso, por una ley especial, determinará lo conducente a este ramo, y a l
 
 ###### Artículo 54.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina LEGISLATURA DEL ESTADO DE DURANGO, compuesta de Diputados electos directamente por el pueblo. Cada Diputado durará en su enargo (sic) cuatro años, renovándose la Legislatura por mitad cada dos años.
+El Poder Legislativo se deposita en una Asamblea que se denomina Legislatura del Estado de Durango, compuesta de Diputados electos directamente por el pueblo. La Legislatura se renovará totalmente cada tres años.
 
-Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente, en la forma y términos que señale la Ley Electoral respectiva.
+Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente, en la forma y términos que señala la Ley Electoral respectiva.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
+Cada Distrito Electoral quedará formado por cincuenta mil habitantes y si hubiere una fracción mayor de treinta mil habitantes, ésta formará un Distrito Electoral.
 
-Cada Distrito Electoral quedará formado por treinta y cinco mil habitantes y si hubiere una fracción mayor de veinte mil habitantes, ésta formará un Distrito Electoral.
-
-Los Distritos Electorales, se formarán tomando como base el último Censo efectuado, y serán numerados progresivamente.
-
-Para renovarse la Legislatura parcialmente cada dos años, se efectuarán elecciones en los Distritos pares e impares alternativamente y según corresponda.
+Los Distritos Electorales se formarán tomando como base el último censo efectuado y serán numerados progresivamente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1935)</small>
 
@@ -815,15 +843,17 @@ El Supremo Tribunal de Justicia del Estado, se compondrá de seis Magistrados Pr
 
 Los Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, serán de elección popular indirecta y nombrados por el Congreso del Estado, en funciones de Colegio Electoral, siendo indispensable cuando menos las dos terceras partes del número total de Diputados. Dicha elección la hará el Congreso en sesiones ordinarias y en caso de que este Cuerpo se halle en receso, la Comisión Permanente respectiva lo convocará a sesiones extraordinarias para ese fin. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, siendo previamente propuestos y discutidos los candidatos por los Miembros de la misma Cámara. Si no se obtuviere mayoría absoluta en la primera votación, se repetirá ésta entre los dos candidatos que hubieren obtenido más votos.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
+
 ###### Artículo 88.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán seis años en su encargo; los Jueces de Primera Instancia cuatro años y los Defensores de Oficio dos años. No podrán ser removidos unos y otros de su cargo sin previo juicio de responsabilidad o por incapacidad para desempeñarlo en los términos que establezca la ley.
+Los Magistrados del Supremo Tribunal de Justicia durarán seis años en su encargo y tomarán posesión en el mismo acto en que otorgue la protesta de Ley el Gobernador del Estado. Los Jueces de Primera Instancia durarán seis años. No podrán ser removidos unos y otros de su cargo sin previo juicio de responsabilidad o por incapacidad para desempeñarlo en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
 
 ###### Artículo 89.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, a propuesta en terna de la Legislatura del mismo o de la Diputación Permanente.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado.
 
 ###### Artículo 90.
 
@@ -887,13 +917,13 @@ Sin embargo, podrá conferirse el cargo de Juez de Primera Instancia y de Juez M
 
 Son requisitos para el nombramiento de los demás funcionarios de la Administración de justicia los que señale la Ley Orgánica y Reglamentaria de ésta.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
 
 ###### Artículo 98.
 
-Los Magistrados Propietarios y Supernumerarios protestarán ante la Legislatura y ante la Diputación Permanente y ante una u otra se hará la renuncia de estos cargos, la cual no será admitida sino por causa justificada, a juicio de la misma Cámara.
+Los Magistrados Propietarios y Supernumerarios protestarán ante la Legislatura o ante la Diputación Permanente y ante una u otra se hará la renuncia de estos cargos, la cual no será admitida sino por causa justificada a juicio de la misma Cámara.
 
-La protesta referida será otorgada el día señalado por la Legislatura del Estado. Cuando alguno o algunos de los funcionarios referidos no se presenten a otorgarla, la Legislatura los citará para tal objeto por medio de oficio y por el Periódico Oficial del Estado; y si pasado un mes de la fecha de la citación no lo hicieren, se les someterá a juicio de responsabilidad respectivo, y la Legislatura eregida (sic) en Colegio Electoral, procederá a nuevos nombramientos.
+La protesta referida será otorgada el día señalado por los Artículos 70 y 88 reformados de esta Constitución y cuando alguno o algunos de los funcionarios referidos no se presenten a otorgarla, la Legislatura los citará para tal objeto por medio de oficio y por el Periódico Oficial del Estado; y si pasado un mes de la fecha de la citación no lo hicieren, se les someterá a juicio de responsabilidad respectivo, y la Legislatura erigida en Colegio Electoral procederá a nuevos nombramientos.
 
 ###### Artículo 99.
 
