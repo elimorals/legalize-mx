@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1997-12-27"
+last_updated: "1998-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -553,7 +553,7 @@ d).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 e).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-V.- Los demás sujetos que señalen las Leyes Fiscales.
+V.-Los demás sujetos que señalen las Leyes Fiscales.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -626,6 +626,20 @@ III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 IV.- Predios Baldíos …………………………………………………………………… 7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Cuando el sujeto del impuesto tenga el carácter de pensionista o jubilado, o en su caso, viuda o concubina legalmente reconocida de éstos, se les disminuirá el 50% sobre la tarifa que les corresponda, disminución que procederá siempre y cuando se cumplan los siguientes requisitos:
+
+a) Que se compruebe de manera fehaciente la calidad de pensionista o jubilado, o, en su caso, el fallecimiento de éstos y la relación matrimonial o concubinaria legalmente reconocida;
+
+b) Que se encuentre al corriente en sus pagos;
+
+c) Que el pago se realice en forma anual durante los meses de enero y febrero; y
+
+d) Se trate de la casa-habitación del beneficiado.
+
+Por ningún motivo se extenderá este beneficio a más de un inmueble por persona y, en todo caso, corresponderá a los ayuntamientos establecer con claridad los mecanismos o documentos con los que se deban satisfacer los requisitos exigidos.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -3904,3 +3918,7 @@ UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación e
 G.O. 27 DE DICIEMBRE DE 1997.
 
 Artículo Único. La presente Ley entrará en vigor el día 1° de enero de 1998, previa su publicación en la Gaceta Oficial del Estado.
+
+G.O. 8 DE SEPTIEMBRE DE 1998.
+
+ÚNICO.- Esta ley entrará en vigor al siguiente día de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
