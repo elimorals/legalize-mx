@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2003-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -39,7 +39,7 @@ DECRETA:
 
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
@@ -93,15 +93,23 @@ Son sujetos de fiscalización: los Poderes del Estado, los Ayuntamientos, los En
 
 La fiscalización del Órgano, estará a cargo del Congreso por conducto de la Comisión.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+###### Artículo 6o.
+
+A falta de disposición expresa en la ley, se aplicarán en forma supletoria y en lo conducente, la Ley de Presupuesto, Contabilidad y Gasto Público de la Administración del Gobierno del Estado; la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nayarit, así como las disposiciones relativas del derecho común, sustantivo y procesal.
+
+La interpretación y aplicación de esta ley, estará a cargo del Congreso, la Comisión y el Auditor General, en el ámbito de sus respectivas competencias.
+
 ###### Artículo 6.
 
 A falta de disposición expresa en la ley, se aplicarán en forma supletoria y en lo conducente, la Ley de Presupuesto, Contabilidad y Gasto Público de la Administración del Gobierno del Estado; el Código Fiscal del Estado, Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones relativas del Derecho Común, sustantivo y procesal.
 
 La interpretación y aplicación de esta Ley, estará a cargo del Congreso, la Comisión y el Auditor General, en el ámbito de sus respectivas competencias.
 
-### CAPITULO II. DEL ÓRGANO DE FISCALIZACION SUPERIOR
+### CAPÍTULO II. DEL ÓRGANO DE FISCALIZACION SUPERIOR
 
-#### SECCION PRIMERA. De su Competencia
+#### SECCIÓN PRIMERA. De su Competencia
 
 ###### Artículo 7.
 
@@ -133,6 +141,14 @@ El Órgano sólo tendrá acceso a la información que las disposiciones legales 
 
 La información y datos que para el cumplimiento de lo previsto en esta fracción se proporcionen estarán afectos exclusivamente al objeto de esta Ley y demás ordenamientos aplicables;
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+Cuando esta ley no establezca plazo para la remisión de información, el Organo lo determinará en el propio requerimiento, tomando en cuenta la naturaleza de la información, pudiendo solicitar el ente auditado una prórroga por causa justificada, por escrito y previo al vencimiento del plazo señalado.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+La falta de cumplimiento sin que exista una justificación, hará acreedor al responsable de las sanciones que marca la Ley de Responsabilidades de los Servidores Públicos.
+
 XII. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier instrumento legal con los Sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de las Cuentas Públicas, a efecto de realizar las compulsas correspondientes;
 
 XIII. Celebrar Convenios de Coordinación y colaboración con su similar de la Federación, para efectos de la fiscalización de recursos federales que ejerzan los Sujetos de fiscalización;
@@ -147,7 +163,9 @@ XVII. Promover ante las autoridades competentes el fincamiento de responsabilida
 
 XVIII. Presentar las denuncias y querellas penales por actos u omisiones que deriven en perjuicio de las haciendas públicas estatal o municipales, o del patrimonio de los sujetos de fiscalización, coadyuvando con las autoridades que corresponda, en términos de la legislación aplicable;
 
-XIX. Expedir certificaciones de los documentos que obren en sus archivos, conforme a las especificaciones que se determinen en el Reglamento del Órgano;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+XIX. Expedir certificaciones de los documentos que obren en sus archivos o bien aquellos que obren en los archivos de los sujetos de fiscalización, siempre y cuando la entrega sea por funcionario competente, conforme a las especificaciones que se determinen en el Reglamento del Órgano;
 
 XX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de sus actos o resoluciones definitivas, así como condonar total o parcialmente las multas impuestas;
 
@@ -161,7 +179,23 @@ XXIV.Participar en foros nacionales e internacionales, cuyas funciones sean acor
 
 XXV. Las demás que expresamente señalen la Constitución Política del Estado, la Ley, decretos y acuerdos del Congreso.
 
-#### SECCION SEGUNDA. Del Auditor General y Servidores Públicos del Órgano
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+###### Artículo 7º Bis.
+
+El Organo para hacer valer sus requerimientos a los sujetos de fiscalización contará con las siguientes medidas de apremio:
+
+a)Multa
+
+b)Promoción, en su caso, de la destitución del servidor público responsable ante las autoridades competentes, y
+
+c)Promoción de las responsabilidades a que haya lugar.
+
+Las multas que aplique el Organo a los sujetos de fiscalización, por no atender los requerimientos u observaciones que ésta realice, serán de cien a seiscientos días de salario mínimo general vigente en el estado. La reincidencia se castigará con una multa de hasta el doble a la ya impuesta.
+
+Para imponer multas el Organo debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta ley.
+
+#### SECCIÓN SEGUNDA. Del Auditor General y Servidores Públicos del Órgano
 
 ###### Artículo 8.
 
@@ -219,7 +253,9 @@ II. Elaborar el proyecto de presupuesto anual del Órgano y remitirlo al Congres
 
 III. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, dentro de los veinte días posteriores al trimestre que corresponda su ejercicio por conducto de la Comisión;
 
-IV. Administrar los bienes y recursos a cargo del Órgano, debiendo solicitar la autorización de la Comisión para resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios, sujetándose a lo dispuesto en las leyes de la materia, así como gestionar la incorporación, destino, desincorporación o enajenación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+IV. Administrar los bienes y recursos a cargo del Órgano; así como gestionar la incorporación, destino, desincorporación o enajenación de bienes inmuebles del dominio público del Estado, afectos a su servicio. La adquisición y enajenación de bienes muebles y la prestación de servicios, deberá sujetarse a lo dispuesto en las leyes de la materia,
 
 V. Elaborar el Programa Operativo Anual del Órgano para su presentación y en su caso aprobación por la Comisión;
 
@@ -229,7 +265,9 @@ VII. Promover ante el Congreso las reformas y adiciones al Reglamento Interior d
 
 VIII. Expedir los manuales de organización, procedimientos necesarios para el funcionamiento del Órgano, los que deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado;
 
-IX. Proponer a la Comisión el nombramiento y remoción de los titulares de las unidades administrativas del Órgano;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+IX. Nombrar y remover al personal de Órgano de acuerdo con la ley orgánica del Congreso.
 
 X. Expedir los nombramientos correspondientes de todos los servidores públicos de Organo, oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
 
@@ -237,7 +275,9 @@ XI. Establecer las reglas técnicas, procedimientos, métodos y sistemas de cont
 
 XII. Requerir a los titulares de los Sujetos de fiscalización, la remisión de información y documentación específica para el cumplimiento de la función de Fiscalización Superior;
 
-XIII. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+XIII. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado a más tardar el 15 de noviembre del año siguiente al ejercicio fiscalizado; y
 
 XIV. Ordenar, en su caso, la práctica de visitas, auditorías e inspecciones necesarias para la realización de investigaciones;
 
@@ -259,7 +299,13 @@ XXII. Solicitar ante las autoridades competentes el cobro de las multas y sancio
 
 XXIII. Condonar total o parcialmente las multas impuestas en el cumplimiento de sus funciones; debiendo informar a la Comisión de los motivos considerados para su otorgamiento; y
 
-XXIV. Las demás que señalen esta ley y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+XXIV. Expedir los criterios generales de auditoría que deberán seguir los órganos de control interno de los sujetos de fiscalización; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+XXV. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
 ###### Artículo 12.
 
@@ -353,6 +399,10 @@ II. Desempeñar otro empleo o encargo en los sectores público, privado o social
 
 III. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia el Órgano para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+Durante el año siguiente a la conclusión de su ejercicio, el Auditor General estará impedido para ocupar algún cargo de elección popular local; así como para desempeñar empleo, cargo o comisión dentro de alguna de las entidades o dependencias de los sujetos de fiscalización a los que alude esta ley. Durante ese el año, el Auditor General gozará de un haber por retiro similar al monto del salario que percibía a la fecha de conclusión.
+
 ###### Artículo 20.
 
 El Auditor General podrá ser removido de su cargo por las siguientes causas graves de responsabilidad administrativa:
@@ -409,7 +459,7 @@ Son trabajadores de base los que desempeñen labores en puestos no incluidos en 
 
 La relación jurídica de trabajo se entiende establecida entre el Congreso, a través del Auditor General, y los trabajadores al servicio del Órgano para todos los efectos.
 
-### CAPITULO III. DE LA COMISIÓN
+### CAPÍTULO III. DE LA COMISIÓN
 
 #### SECCIÓN PRIMERA. De sus atribuciones
 
@@ -473,7 +523,7 @@ Analizados los elementos aportados por las partes, si la Comisión, por votació
 
 Los Sujetos de fiscalización tendrán la facultad de formular queja ante la Comisión sobre los actos del Auditor General o Auditores Especiales del Órgano que contravengan las disposiciones de esta ley, en cuyo caso, la Comisión substanciará la investigación preliminar a fin de determinar si se actualiza alguna de las hipótesis a que se refiere el artículo 20 de esta ley, así como si ha lugar o no a iniciar el procedimiento previsto en los dos artículos anteriores, o los procedimientos previsto (sic) en la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPITULO IV. DE LAS CUENTAS PÚBLICAS
+### CAPÍTULO IV. DE LAS CUENTAS PÚBLICAS
 
 ###### Artículo 33.
 
@@ -503,25 +553,41 @@ Los archivos guardados conforme al párrafo anterior tendrán el valor que, en s
 
 El Órgano conservará en su poder las Cuentas Públicas, mientras sean exigibles, conforme a los plazos de prescripción que señalen la Constitución y leyes del Estado para las responsabilidades derivadas de las presuntas irregularidades que, en su caso, se detecten en las operaciones objeto de revisión. También se conservarán las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida fiscalización.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
 ###### Artículo 37.
 
-Los Sujetos de fiscalización tendrán la obligación de conservar en su poder durante cinco años, los libros, registros de contabilidad y la información financiera correspondiente, así como los documentos justificativos y comprobatorios de la cuenta de la Hacienda Pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas, computándose el término a partir de que el Congreso del Estado haya aprobado la cuenta de la Hacienda Pública del ejercicio fiscal con la respectiva publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+Los Sujetos de fiscalización tendrán la obligación de conservar en su poder durante cinco años, los libros, registros de contabilidad y la información financiera correspondiente, así como los documentos justificativos y comprobatorios de la cuenta de la Hacienda Pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas, computándose el término a partir de que el Congreso del Estado haya decretado la conclusión de la revisión de la cuenta de la Hacienda Pública del ejercicio fiscal con la respectiva publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-### CAPITULO V. DE LA PRESENTACIÓN DE LAS CUENTAS PÚBLICAS
+### CAPÍTULO V. DE LA PRESENTACIÓN DE LAS CUENTAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 38.
 
-Para los términos de presentación de Cuentas Públicas, se estará a lo siguiente:
+La presentación de las cuentas públicas será trimestral a partir del primer día del año fiscal correspondiente y deberá sujetarse a lo siguiente:
 
-I. Las Cuentas Públicas de la Hacienda Estatal, se deberán entregar, dentro del plazo de 20 días naturales, contados a partir del último día del trimestre;
+I. Las Cuentas Públicas deberán entregarse, dentro del plazo de 30 días siguientes, contados a partir del último día del trimestre del que se informe;
 
-II. Las Cuentas Públicas de las Haciendas Municipales, se entregará (sic)dentro del plazo de 15 días naturales, contados a partir del último día del trimestre que se informe. Cuando ocurra cambio de administración municipal, la Cuenta Pública del mes de transmisión la remitirá la administración municipal entrante;
+II. Las Cuentas Públicas relativas al último trimestre deberán presentarse dentro los de los 45 días siguientes contados a partir del último día del trimestre del ejercicio fiscal correspondiente, en el cual los sujetos de fiscalización deberán presentar un informe consolidado y analítico, relativo a los tres trimestres anteriores del ejercicio del que se informe.
 
-III. Los Cuentas Públicas de los Entes Públicos, se rendirán, de manera trimestral dentro del plazo de 15 días naturales contados a partir del último día del trimestre que se informe.
+III. En el ejercicio fiscal en el que se realice el relevo constitucional de los titulares de los Poderes o de los integrantes de los Ayuntamientos, la Cuenta Pública del trimestre de transmisión la remitirá la administración entrante;
 
-En las Cuentas Públicas relativas al último trimestre del ejercicio fiscal correspondiente, los sujetos de fiscalización deberán presentar un informe consolidado y analítico, relativo a los tres trimestres anteriores de dicho ejercicio.
+IV. En la remisión de la cuenta pública del Poder Ejecutivo y en las de los Ayuntamientos deberá incluirse, de manera consolidada, la información correspondiente a sus organismos públicos descentralizados, fideicomisos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
 
-### CAPITULO VI. DE LA REVISIÓN DE LAS CUENTAS DE LA HACIENDA PÚBLICA ESTATAL Y MUNICIPAL Y DE LOS DEMÁS SUJETOS DE FISCALIZACIÓN
+A fin de dar cumplimiento a lo establecido en el párrafo anterior, los titulares de las entidades de la administración pública estatal y municipal, harán llegar con la debida anticipación al Ejecutivo Estatal o al Ayuntamiento, según corresponda, por conducto de la Secretaría de Finanzas o de la Tesorería Municipal, la información y documentación correspondiente.
+
+Para tal efecto, la Secretaría de Finanzas y la Tesorería Municipal, podrán solicitar en el ámbito de sus competencias, a las entidades estatales o municipales, la información adicional que estimen necesaria para cumplir en tiempo y forma con la remisión de la cuenta pública.
+
+V.- En el caso de los Poderes Legislativo y Judicial así como de los demás entes públicos la remisión de sus cuentas públicas deberá presentarse directamente al Congreso por conducto del Organo, en los términos de esta ley.
+
+VI. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública, cuando medie solicitud del titular del sujeto fiscalizado suficientemente justificada a juicio de la Comisión de Hacienda, debiendo comparecer por escrito en todo caso, el titular de la dependencia correspondiente a informar de las razones que lo motiven. En ningún caso la prórroga excederá de treinta días naturales.
+
+VII. La falta de la presentación de las cuentas públicas en los plazos establecidos en este artículo será causa de responsabilidad en los términos de ley.
+
+Cuando las cuentas públicas cuenten con un retraso en su presentación de dos trimestres sin que medie justificación válida alguna, el Órgano promoverá las acciones de responsabilidad en contra de los titulares de los sujetos de fiscalización en los términos de las leyes de la materia, debiéndose notificar de dicha circunstancia al Congreso por conducto de la Comisión.
+
+### CAPÍTULO VI. DE LA REVISIÓN DE LAS CUENTAS DE LA HACIENDA PÚBLICA ESTATAL Y MUNICIPAL Y DE LOS DEMÁS SUJETOS DE FISCALIZACIÓN
 
 ###### Artículo 39.
 
@@ -555,6 +621,10 @@ Durante sus actuaciones, los representantes del Órgano que hubieren intervenido
 
 Los servidores públicos del Órgano, así como los prestadores de servicios contratados, deberán guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento, excepto en los casos en que sean requeridos expresamente por la Comisión o por autoridad competente en ejercicio de sus funciones, y cuando exista una resolución definitiva debidamente notificada. La violación a esta disposición se sancionará en los términos de ley.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+El Órgano será responsable subsidiariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios contratados para el ejercicio de sus funciones.
+
 ###### Artículo 46.
 
 La revisión y fiscalización superior de la Cuenta Pública, tiene por objeto determinar:
@@ -575,9 +645,17 @@ VII. Si en la gestión financiera se cumple con las leyes, decretos reglamentos 
 
 VIII. Si la recaudación, administración, manejo y aplicación de recursos públicos, y si los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizadas celebren o realicen, se ajustan a la legalidad, y si no han causado daños o perjuicios en contra del Estado en su Hacienda Pública Estatal o Municipal, o al patrimonio de los entes públicos;
 
-IX. Las responsabilidades a que haya lugar, y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
-X. La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley
+IX. Si los activos, propiedades y derechos del estado y los municipios están correctamente registrados y salvaguardados y si los pasivos a su cargo son reales y están registrados en su contabilidad;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+X. Las responsabilidades a que haya lugar; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2003)</small>
+
+XI. La imposición de las sanciones resarcitorias correspondientes en los términos de esta ley.
 
 ###### Artículo 47.
 
@@ -599,15 +677,23 @@ Los sujetos de fiscalización están obligados a proporcionar la información y 
 
 Si se negaren a proporcionar la información o documentación solicitada o no permitieran la revisión o fiscalización de los libros, instrumentos y documentos de fiscalización comprobatorios y justificativos del ingreso y del gasto público, la práctica de visitas, inspecciones y auditorías, ésta lo hará del conocimiento del Congreso del Estado por conducto de la Comisión, para fincar las responsabilidades procedentes conforme a la ley.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
 ###### Artículo 50.
 
-El Órgano será responsable subsidiariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios contratadas(sic) para el ejercicio de sus funciones
+Respecto de la cuenta pública correspondiente a los tres primeros trimestres del ejercicio fiscal del que se trate, el Órgano podrá realizar observaciones, disponiendo los sujetos de fiscalización de veinte días hábiles para presentar las solventaciones que procedan.
 
-### CAPITULO VII. DEL INFORME DEL RESULTADO
+En todo caso, las observaciones a que se refiere el párrafo anterior, inclusive las que se generen para el cuarto trimestre, deberán notificarse a los sujetos de fiscalización a más tardar el 31 de agosto del año siguiente al ejercicio fiscal revisado, con el propósito de que sus comentarios se integren al Informe del Resultado de la revisión de la Cuenta Pública correspondiente.
+
+El Órgano podrá revisar información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al que se fiscalice; cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales o existan elementos supervinientes que a juicio del Órgano presupongan la existencia de daños o perjuicios al erario público estatal o municipal cometidos en ejercicios anteriores al que se fiscalice en tanto no prescriban las facultades de fiscalización del Organo.
+
+### CAPÍTULO VII. DEL INFORME DEL RESULTADO
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 51.
 
-El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado, en un plazo que no exceda de tres meses, a partir de la recepción de la Cuenta Pública que corresponda. La presentación del Informe del resultado se podrá prorrogar, en un plazo que no exceda de tres meses, debiendo informar dicha prórroga al Congreso del Estado por conducto de la Comisión, señalando las causas que la originan.
+El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado, a más tardar el día 15 del mes de noviembre del año siguiente al que se fiscalice, mismo que tendrá carácter público y mientras ello no suceda, el Órgano deberá guardar reserva de sus actuaciones e informaciones.
 
 ###### Artículo 52.
 
@@ -631,43 +717,39 @@ VII. Los comentarios y observaciones de los auditados.
 
 El Órgano, en el informe del resultado, dará cuenta al Congreso de los pliegos de observaciones que se hubieren fincado, de los procedimientos iniciados para el fincamiento de responsabilidades y de la imposición de las sanciones respectivas así como de la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente ilícitos, que realice de conformidad con lo dispuesto en esta Ley.
 
-### CAPITULO VIII. DE LA DETERMINACIÓN DE LOS DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
+### CAPÍTULO VIII. DE LA DETERMINACIÓN DE LOS DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
 
 #### SECCIÓN PRIMERA. De la Determinación de Daños y Perjuicios
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
 ###### Artículo 54.
 
-Si de la Fiscalización de las Cuentas Públicas, inclusive las que apruebe el Congreso, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las Haciendas Públicas estatal o municipales, al patrimonio de las entidades paraestatales, paramunicipales o al de los Entes Públicos, el Órgano procederá de inmediato a iniciar las investigaciones del caso y, al efecto, podrá requerir a los Sujetos de fiscalización un informe de sus actuaciones en relación a los hechos que se investiguen.
+Si de la Fiscalización de las Cuentas Públicas, inclusive las que apruebe el Congreso, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las Haciendas Públicas estatal o municipales, al patrimonio de las entidades paraestatales, paramunicipales o al de los Entes Públicos, el Órgano procederá de inmediato a :
 
-A partir de que inicie la investigación, el Órgano fincará las indemnizaciones y sanciones que legalmente corresponde en un periodo no mayor de un año.
-
-###### Artículo 55.
-
-Los Sujetos de fiscalización deberán rendir al Órgano, en un plazo que no excederá de diez días hábiles contados a partir de la recepción del requerimiento, un informe de sus actuaciones en relación a los hechos que se investiguen.
-
-Este plazo podrá ampliarse hasta veinte días hábiles cuando, a juicio del Órgano, medie causa justificada.
-
-###### Artículo 56.
-
-Si transcurrido el plazo señalado en el artículo anterior, el sujeto de Fiscalización, sin causa justificada, no presenta el informe requerido, el Órgano amonestará a los servidores públicos responsables, apercibiéndolos que de no presentar el informe requerido, se harán acreedores a una multa de cien a seiscientos días de salario mínimo general vigente en la capital del estado.
-
-Una vez cumplido el procedimiento señalado en el párrafo anterior, el Órgano requerirá de nueva cuenta al sujeto de Fiscalización que entregue, en un plazo improrrogable de cinco días hábiles, el informe de sus actuaciones. El incumplimiento a dicho requerimiento se podrá castigar con una multa hasta del doble de la ya impuesta y con la promoción de la destitución de los responsables ante las autoridades competentes.
-
-La imposición de sanciones no relevará al infractor del cumplimiento de sus obligaciones y de la regularización de las situaciones que las motivaron.
-
-###### Artículo 57.
-
-Si como resultado de las investigaciones a que se hace referencia en este Capítulo, aparecieran irregularidades, el Órgano procederá a:
-
-I. Establecer la presunción de responsabilidades, el señalamiento de presuntos responsables y la estimación del monto de los daños y perjuicios, para efectos de iniciar el procedimiento administrativo correspondiente;
+I. Establecer la presunción de responsabilidades a través del acuerdo que se dicte, así como el señalamiento de presuntos responsables y la determinación del monto de los daños y perjuicios correspondientes fincando directamente a los responsables el importe para resarcir el daño, así como las indemnizaciones y sanciones pecuniarias respectivas;
 
 II. Promover las acciones de responsabilidad a que se refiere el Título Octavo de la Constitución Política del Estado y la ley de la materia;
 
 III. Presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención a que haya lugar;
 
-IV. Coadyuvar con el Ministerio Público en las investigaciones y procesos penales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión del Órgano, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal; y
+IV. Coadyuvar con el Ministerio Público en las investigaciones y procesos penales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión del Órgano, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal;
 
-V. Promover ante las autoridades competentes el fincamiento de otras responsabilidades.
+V. Promover ante las autoridades competentes el fincamiento de otras responsabilidades; y
+
+VI. Promover las quejas o denuncias en contra de aquellos servidores públicos que debiendo conocer los hechos denunciados por el órgano omitan resolver sobre los mismos.
+
+###### Artículo 55.
+
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
+
+###### Artículo 56.
+
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
+
+###### Artículo 57.
+
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
 
 #### SECCIÓN SEGUNDA. Del Fincamiento de Responsabilidades Resarcitorias
 
@@ -689,9 +771,11 @@ El Auditor General determinará los daños y perjuicios que afecten a las Hacien
 
 El Auditor General, en términos de esta Ley, formulará a los Sujetos de Fiscalización, los pliegos de observaciones y cargos derivados de la revisión y fiscalización superior de la Cuenta Pública de que se trate y de los relacionados con los particulares que hayan coparticipado en el ingreso o en el gasto de recursos públicos. El pliego de observaciones en su caso, determinará la presunta responsabilidad de los infractores, y se fijará en cantidad líquida el monto de los daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
 ###### Artículo 61.
 
-Los Sujetos de Fiscalización, dentro de un plazo de veinte días hábiles, contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventarlos ante el Órgano y éste emitirá la resolución correspondiente. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes, para desvirtuar las observaciones, se iniciará el procedimiento para el fincamiento de las responsabilidades a que haya lugar.
+Los Sujetos de Fiscalización, dentro de un plazo de diez días hábiles, contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventarlos ante el Órgano y éste emitirá la resolución correspondiente. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes para desvirtuar las observaciones, se iniciará el procedimiento para el fincamiento de las responsabilidades a que haya lugar.
 
 #### SECCIÓN TERCERA. De las indemnizaciones
 
@@ -713,41 +797,65 @@ Serán solidariamente responsables con los servidores públicos, los particulare
 
 El fincamiento de las indemnizaciones y sanciones a que se refiere esta Ley no exime a los servidores públicos ni a los particulares de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
-### CAPITULO IX. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN Y EL FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
+### CAPÍTULO IX. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN Y EL FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 66.
 
 La determinación de responsabilidades resarcitorias se sujetará al procedimiento siguiente:
 
-I. Se citará personalmente al presunto o presuntos responsables a una audiencia en el domicilio del Órgano, en donde se le harán saber los hechos que se le imputan y que sean causa de responsabilidad en los términos de esta ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia; en la audiencia, se le hará saber además de su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, por sí o por medio de un defensor; apercibidos que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas o formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo;
-
-II. A la audiencia podrá asistir un representante de la Unidad de Control Interno del sujeto de fiscalización al que pertenezca el o los presuntos responsables.
+I. Se citará personalmente al presunto o presuntos responsables a una audiencia en el domicilio del Órgano, haciéndoles saber en el acta de notificación los hechos que se les imputan y que sean causa de presunta responsabilidad en los términos de esta ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia; en la audiencia, se le hará saber además de su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, por sí o por medio de un defensor; apercibidos que de no comparecer sin justa causa, se tendrá por precluído su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo;
 
 Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días hábiles;
 
-III. Celebrada la audiencia, el presunto responsable contará con cinco días hábiles para ofrecer pruebas, vencido este plazo, se citará a la audiencia de desahogo de pruebas, en la cual se dictará fecha para recibir alegatos;
+II. Celebrada la audiencia, el presunto responsable contará con cinco días hábiles para ofrecer pruebas; vencido este plazo, se citará a la audiencia de desahogo de pruebas que podrá diferirse por una sola vez, en la cual se dictará fecha para recibir alegatos por escrito;
 
-IV. Se emitirá resolución dentro de los quince días hábiles siguientes a la audiencia de alegatos; en la resolución, se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a él o los sujetos responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría de Finanzas o a la Tesorería Municipal que corresponda, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del sujeto de Fiscalización y al órgano de control interno respectivo;
+III. Se emitirá resolución dentro de los treinta días hábiles siguientes a la audiencia de alegatos; en la resolución, se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a el o los sujetos responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría de Finanzas o a la Tesorería Municipal que corresponda, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del sujeto de Fiscalización y al órgano de control interno respectivo;
 
 La indemnización deberá ser suficiente para cubrir los daños y perjuicios causados y se actualizará para efectos de su pago, en la forma y términos que establecen las disposiciones del Código Fiscal del Estado tratándose de contribuciones y aprovechamientos.
 
 La sanción pecuniaria consistirá en una multa de uno hasta tres tantos del monto de los daños y perjuicios causados; y
 
-V. Si en la audiencia el Órgano encontrara que no cuentan con los elementos suficientes para resolver o advierta elementos que impliquen una nueva responsabilidad a cargo del presunto o presuntos responsables o de otras personas, podrá disponer la práctica de investigaciones y citar para otras audiencias debiendo emitir la resolución correspondiente, en el plazo señalado en la fracción cuarta de este artículo.
+El Órgano podrá solicitar a la Secretaría de Finanzas o las tesorerías municipales, en su caso, proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta.
+
+IV. Si en la audiencia el Órgano encontrara que no cuenta con los elementos suficientes para resolver o advierta elementos que impliquen una nueva responsabilidad a cargo del presunto o presuntos responsables o de otras personas, podrá disponer la práctica de investigaciones y citar para otras audiencias debiendo emitir la resolución correspondiente siguiendo el procedimiento previsto en las fracciones anteriores.
+
+V. Para la imposición de las sanciones resarcitorias se tomarán en cuenta los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, relativos a:
+
+a) La gravedad de la responsabilidad en que se incurra;
+
+b) Las circunstancias socioeconómicas del servidor público;
+
+c) El nivel jerárquico y los antecedentes del infractor, entre ellos la antigüedad en el servicio;
+
+d) Las condiciones exteriores y los medios de ejecución;
+
+e) La reincidencia en el incumplimiento de obligaciones, y
+
+f) El monto del beneficio, lucro o daño o perjuicio derivado del incumplimiento de obligaciones.
+
+VI. Las resoluciones y acuerdos del Organo durante el procedimiento a que se refiere este Capítulo constarán por escrito. Las sanciones impuestas una vez que hayan causado ejecutoria se notificarán tanto a la dependencia o entidad en donde se encontraba adscrito el servidor público o servidores públicos responsables, como a la Secretaría de Finanzas o las tesorerías municipales, según corresponda, así como a los respectivos órganos de control interno; para los efectos correspondientes de registro y ejecución.
+
+El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato, del titular de la dependencia o entidad correspondiente o de los servidores públicos de la Secretaria de Finanzas o de las tesorerías municipales o de los auxiliares de éstas, será causa de responsabilidad administrativa disciplinaria en los términos de la ley.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 67.
 
-En todas las cuestiones relativas al procedimiento no previstas en este capítulo, así como en la apreciación de las pruebas, y desahogo del recurso de reconsideración, se observarán supletoriamente las disposiciones del Código Fiscal del Estado y del Código de Procedimientos Civiles para el Estado de Nayarit.
+En todas las cuestiones relativas al procedimiento no previstas en este Capítulo, así como en la apreciación de las pruebas y desahogo del recurso de reconsideración, se observarán supletoriamente las disposiciones de la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
 ###### Artículo 68.
 
 La Secretaría de Finanzas y las Tesorerías Municipales, deberán informar semestralmente al Órgano y a la Comisión, de los trámites que se vayan realizando para la ejecución de los cobros respectivos a las responsabilidades resarcitorias fincadas por el Órgano así como el monto recuperado
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
 ###### Artículo 69.
 
-Las indemnizaciones y sanciones a que se refiere la presente ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+Las indemnizaciones y sanciones a que se refiere la presente ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
 
-El importe de las indemnizaciones y de las sanciones que se recuperen en los términos de esta Ley, quedarán a disponibilidad de los Poderes del Estado, Ayuntamientos y Entes Públicos que sufrieron el daño o perjuicio, y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto que corresponda.
+El importe de las indemnizaciones y de las sanciones que se recuperen en los términos de esta ley, quedarán a disponibilidad de los sujetos de fiscalización que sufrieron el daño o perjuicio, y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto que corresponda.
 
 ###### Artículo 70.
 
@@ -765,11 +873,13 @@ IV. En su caso, su nivel jerárquico
 
 El Auditor General, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste que no exceda de veinte veces el salario mínimo general mensual vigente en la capital del Estado, en la fecha en que se cometa la infracción.
 
-### CAPITULO X. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO X. DEL RECURSO DE RECONSIDERACIÓN
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 72.
 
-Cualquier persona física o moral, pública o privada afectada por los actos o resoluciones definitivos del Órgano podrá interponer el recurso de reconsideración previsto en esta Ley.
+Cualquier persona física o moral, pública o privada afectada por los actos o resoluciones definitivos del Órgano podrá interponer el recurso de reconsideración previsto en esta ley o mediante el juicio que se promueva ante el Tribunal de Justicia Administrativa del Estado de Nayarit.
 
 Se entenderán como actos o resoluciones definitivos, aquellos que ponen fin al procedimiento a que alude el Capítulo IX de esta ley.
 
@@ -777,121 +887,83 @@ Se entenderán como actos o resoluciones definitivos, aquellos que ponen fin al 
 
 El término para interponer el recurso de reconsideración será de quince días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación del acto o resolución que se recurra.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+
 ###### Artículo 74.
 
-El recurso de reconsideración deberá presentarse por escrito ante la autoridad que emitió el acto o la resolución recurrida. El Auditor General, será competente para conocer y resolver de plano dicho recurso, en un plazo no mayor de veinte días hábiles, contados a partir del que hubieran quedado desahogadas todas las pruebas ofrecidas.
+La tramitación del recurso se sujetará a las disposiciones siguientes:
+
+I. Se iniciará mediante escrito en el que se deberán expresar los agravios que a juicio del servidor público o del particular, persona física o moral, le cause la multa o resolución impugnada, acompañando copia de ésta y constancia de la notificación de la misma, así como el ofrecimiento de pruebas que considere necesario rendir;
+
+II. El Órgano acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución, y
+
+III. Desahogadas las pruebas, si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándola al interesado.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 75.
 
-En el escrito de interposición del recurso de reconsideración, el interesado deberá señalar:
+La interposición del recurso suspenderá la ejecución del pliego o resolución recurrida, si el pago de la sanción correspondiente se garantiza en términos que prevenga la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
-I. La autoridad a quien se dirige;
-
-II. El nombre del recurrente, o el de su representante legal si así lo considera, así como el domicilio que señale para oír y recibir notificaciones;
-
-III. El acto o resolución administrativa que impugna, así como la fecha en que fue notificado;
-
-IV. La autoridad emisora de la resolución que recurre;
-
-V. La descripción de los hechos, antecedentes de la resolución que se recurre;
-
-VI. Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre; y
-
-VII. Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionen.
-
-Se admitirán toda clase de pruebas, incluyendo las supervinientes con excepción de la confesional a cargo de la autoridad y las contrarias a la moral, el derecho y las buenas costumbres
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 76.
 
-Con el recurso de reconsideración se deberán acompañar:
+Los servidores públicos y las personas afectadas por las resoluciones que emita el Organo en todo momento durante el procedimiento a que se refiere el artículo 66 de esta ley, o bien, para la interposición del recurso de reconsideración respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes.
 
-I. Los documentos que acrediten la personalidad del promovente, cuando actúe a nombre de otro o en representación de cualquier persona jurídica;
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
 
-II. El documento en que conste el acto o la resolución recurrida, cuando dicha actuación haya sido por escrito; o tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o el documento sobre el cual no hubiere recaído resolución alguna;
+### CAPÍTULO XI. DE LA PRESCRIPCIÓN DE RESPONSABILIDADES
 
-III. La constancia de notificación del acto o resolución impugnado; y
-
-IV. Las pruebas que se ofrezcan.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 77.
 
-En caso de que el recurrente no cumpliera con alguno de los requisitos o no presente los documentos que se señalan en los dos artículos anteriores, la autoridad deberá prevenirlo por escrito, por única vez, para que en el término de tres días hábiles siguientes a la notificación personal, subsane la irregularidad. Si transcurrido este plazo, el recurrente no desahoga en sus términos la prevención, el recurso se tendrá por no interpuesto.
+Las facultades del Órgano para fincar responsabilidades e imponer las sanciones a que se refiere el Capítulo IX prescribirán en cinco años.
+
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+En todos los casos, la prescripción a que alude este precepto se interrumpirá al notificar al presunto responsable el inicio del procedimiento establecido en el artículo 66 de esta ley.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 78.
 
-El interesado, en cualquier momento podrá solicitar la suspensión del acto o resolución recurridos, hasta antes de que se resuelva el recurso, siempre que cumpla con los siguientes requisitos:
+Las responsabilidades de carácter civil, administrativo y penal que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
-I. Que lo solicite por escrito;
-
-II. Que acredite la interposición del recurso de reconsideración;
-
-III. Que no se cause perjuicio al interés social, ni se contravengan disposiciones de orden público o se deje sin materia el procedimiento; y
-
-IV. Que se garantice debidamente el interés fiscal, en términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 79.
 
-La suspensión sólo tendrá como efecto que las cosas se mantengan en el estado en que se encuentran, en tanto se pronuncia la resolución al recurso, y podrá revocarse si se modifican las condiciones bajo las cuales se otorgó.
+Cualquier gestión de cobro que haga la autoridad competente al responsable, interrumpe la prescripción de la sanción impuesta, prescripción que, en su caso, comenzará a computarse a partir de dicha gestión.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
+
+### CAPÍTULO XII. DEL INSTITUTO DE CAPACITACIÓN Y DESARROLLO PARA LA FISCALIZACIÓN SUPERIOR
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 80.
 
-Se desechará por improcedente el recurso cuando se interponga:
+El Organo contará con un Instituto de Capacitación y Desarrollo en Fiscalización Superior, cuyo propósito será la capacitación del personal del Organo, así como de las personas físicas o morales, públicas o privadas interesadas en la fiscalización superior, cuenta pública, rendición de cuentas, transparencia y ética en la gestión gubernamental, régimen de responsabilidades de los servidores públicos y demás objetivos que se establezcan al Instituto.
 
-I. Contra actos o resoluciones que no sean definitivos, en los términos señalados por esta Ley;
-
-II. Contra actos que sean materia de otro recurso que se encuentre pendiente de resolver y
-
-III. Contra actos que no afecten los intereses legítimos del promovente;
-
-IV. Contra actos consumados de modo irreparable;
-
-V. Contra actos consentidos expresamente;
-
-VI. Cuando el recurso sea interpuesto fuera del término previsto por esta ley; o
-
-VII. Cuando se esté tramitando ante los tribunales cualquier medio de defensa legal interpuesto por el promovente, que pueda tenga(sic) por efecto modificar, revocar o nulificar el acto respectivo.
+Para el cumplimiento de sus fines, el Instituto de Capacitación y Desarrollo en Fiscalización Superior, dispondrá del presupuesto que se le asigne anualmente, así como de los ingresos autogenerados que obtenga por la recuperación de cuotas por los servicios que preste y otras actividades que realice relacionadas con sus objetivos.
 
 ###### Artículo 81.
 
-Será sobreseído el recurso cuando:
-
-I. El promovente se desista expresamente;
-
-II. El interesado fallezca durante el procedimiento, si el acto o resolución impugnados sólo afectan a su persona;
-
-III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-IV. Hayan cesado los efectos del acto impugnado;
-
-V. Falte el objeto o materia del acto; o
-
-VI. No se probare la existencia del acto impugnado.
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
 
 ###### Artículo 82.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad competente la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto o resolución impugnados, bastará con el examen de dicho punto.
-
-No se podrán anular, revocar o modificar los actos o resoluciones con argumentos que no se hayan hecho valer por el recurrente
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
 
 ###### Artículo 83.
 
-La autoridad encargada de resolver el recurso podrá:
-
-I. Sobreseerlo;
-
-II. Confirmar el acto impugnado;
-
-III. Revocarlo
-
-IV. Modificar el acto o resolución impugnados;
-
-V. Ordenar la expedición de uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente; o
-
-VI. Ordenar la reposición del procedimiento.
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
 
 ###### Artículo 84.
 
-Los Servidores Públicos en todo momento durante el procedimiento a que se refiere el artículo 58 de esta Ley, o bien para la interposición del recurso de reconsideración respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes.
+(DEROGADO, P.O. 4 DE JUNIO DE 2003)
 
 T R A N S I T O R I O S
 
@@ -938,3 +1010,27 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Fernando González Díaz
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 2003
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los plazos a que hace referencia el artículo 38 de la Ley del Organo de Fiscalización que con este decreto se reforma serán aplicables en la presentación de las cuentas publicas, a partir del ejercicio fiscal del año 2003.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos resarcitorios que el Órgano hubiese iniciado con anterioridad a la entrada en vigor de esta ley, deberán sustanciarse de conformidad con las disposiciones vigentes al momento de iniciarse.
+
+###### ARTICULO CUARTO.
+
+A efecto de dar cumplimiento al artículo 204 de la Ley Municipal para el Estado de Nayarit que con este decreto se reforma, la Comisión de Hacienda, Cuenta Pública y Presupuesto, deberá presentar al Pleno del Congreso los montos a los cuales deberán sujetarse los Ayuntamientos durante el ejercicio fiscal del año 2003 en las excepciones a los procedimientos de licitación pública para la adquisición de bienes y servicios, mismo decreto que en todo caso deberá estar aprobado y publicado a más tardar el 31 de diciembre del año 2002 .
+
+###### ARTÍCULO QUINTO.
+
+El reglamento al que hace referencia la presente ley, deberá expedirse a más tardar en noventa días a partir de la entrada en vigor del presente decreto.
