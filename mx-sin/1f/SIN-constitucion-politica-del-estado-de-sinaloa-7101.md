@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1953-08-04"
+last_updated: "1953-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1953.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -79,13 +79,19 @@ I. Los ciudadanos mexicanos nacidos en el Estado.
 
 II. Los ciudadanos mexicanos avecindados en el Estado por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado que desean conservar su calidad de origen.
 
-Art. 9º Son obligaciones del ciudadano del Estado, además de las de sinaloense:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
+
+###### Art. 9º.
+
+Son obligaciones del ciudadano del Estado, además de las anteriores.
 
 I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
 
 II. Votar en las elecciones populares en el Distrito Electoral a que corresponda.
 
-III. Desempeñar las funciones electorales, los cargos de elección popular y los de Jurado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE AGOSTO DE 1953)</small>
+
+III. Desempeñar las funciones electorales los cargos de elección popular y los de jurado en los Juicios de Responsabilidades contra funcionarios y empleados del Estado, Municipios y Organismos Descentralizados, en los términos que fijen las leyes respectivas.
 
 ###### Art. 10.
 
@@ -871,9 +877,15 @@ Los particulares podrán impartir la educación a todos sus tipos y grados, con 
 
 ### CAPITULO IV. PODER JUDICIAL
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE AGOSTO DE 1953)</small>
+
 ###### Art. 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo denominado "SUPREMO TRIBUNAL DE JUSTICIA", en Jueces de Primera Instancia y Menores.
+Se deposita el ejercicio del Poder Judicial del Estado en un Cuerpo denominado "Supremo Tribunal de Justicia", en Jueces de Primera Instancia y Menores, y en Jurados de Responsabilidades contra funcionarios y empleados del Estado, Municipios y Organismos Descentralizados, por delitos o faltas oficiales.
+
+#### SECCION III. DEL JURADO DE RESPONSABILIDADES
+
+> <small>(ADICIONADO, [N. DE E. REFORMADO Y REUBICADO] P.O. 6 DE AGOSTO DE 1953)</small>
 
 ###### Art. 94.
 
@@ -943,7 +955,7 @@ I. Conocer de las causas de los altos funcionarios del Estado, a quienes el Cong
 
 II. Conocer como Jurado de Sentencia, en las causas de los mismos por delitos oficiales.
 
-III. Declarar si hay lugar a formación de causa, contra los Jueces de 1ª Instancia y miembros de los Ayuntamientos, por delitos oficiales, después de lo cual seguirá conociendo del proceso con arreglo a las leyes.
+III. (DEROGADA, P.O. 6 DE AGOSTO DE 1953)
 
 IV. Conocer y resolver las controversias de cualquier orden, que se suscitaren entre el Estado y cualquiera otra Entidad; entre los Poderes del Estado; entre uno o más Poderes del Estado y los Ayuntamientos, o entre los Ayuntamientos entre sí, con las limitaciones que establece el artículo anterior.
 
@@ -981,9 +993,11 @@ Para ser Juez de Primera Instancia y Menor, se requiere: ser ciudadano mexicano 
 
 En cada una de las cabeceras de los Distritos Judiciales, a que se refiere la fracción II del artículo 18 de esta Ley, habrá uno o más Jueces de 1ª Instancia que tendrán la jurisdicción que les señale la Ley Orgánica del Poder Judicial.
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1953)</small>
+
 ###### Art. 109.
 
-En cada cabecera de Municipalidad habrá un Juez Menor, así como en las cabeceras de Sindicaturas que a juicio del Supremo Tribunal lo requieran.
+El Jurado tiene la obligación de resolver por medio de un veredicto, las cuestiones de hecho que con arreglo a la ley respectiva le someta el Juez, en los casos de delitos y faltas oficiales cometidos por los funcionarios y empleados del Estado, Municipios y Organismos Descentralizados.
 
 ### CAPITULO I. DISPOSICIONES DIVERSAS
 
@@ -1059,11 +1073,11 @@ IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerz
 
 Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren es necesario tener los siguientes:
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 I. 25 años cumplidos en la fecha de la elección.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 II. Haber obtenido mayoría de sufragios legales.
 
@@ -1712,3 +1726,9 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de 
 P.O. 4 DE AGOSTO DE 1953.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE AGOSTO DE 1953.
+
+###### ARTICULO UNICO.
+
+Este Decreto comenzará a regir a los diez días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
