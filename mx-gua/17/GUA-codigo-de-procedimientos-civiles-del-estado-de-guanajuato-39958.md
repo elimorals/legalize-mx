@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1992-08-07"
+last_updated: "1996-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1996.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -538,6 +538,16 @@ El secretario guardará, con la seguridad debida, bajo su responsabilidad, los d
 ###### Art. 66.
 
 Los secretarios son responsables de los expedientes, libros y documentos que existan en el juzgado y archivo correspondiente. Cuando, por disposición de la ley o del juez, deba entregar alguno de los mencionados objetos a otro funcionario o empleado, recabará recibo para su resguardo. En este caso, la responsabilidad pasará a la persona que lo reciba.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+Art. 66 BIS.- La reposición de alguna resolución judicial, actuación o constancia procesal o la totalidad del expediente que se perdiera, se substanciara en la vía incidental, a costa de quien resulte responsable, quien además deberá responder de los daños y perjuicios que se ocasionen.
+
+Presentada la demanda incidental de reposición, el Juez ordenará a la Secretaría del Juzgado, certifique la existencia anterior de la resolución judicial, actuación, constancia procesal, o expediente y su perdida o extravío posterior. Hecho lo anterior dará trámite al incidente.
+
+Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todo los medios que no sean contrarios a la moral o al derecho, procurando en todo momento asegurar los actos procesales y los derechos que de ellos derivan.
+
+El Juez queda obligado a dar vista al Ministerio Público por el delito o delitos que resulten.
 
 ###### Art. 67.
 
@@ -4948,6 +4958,12 @@ P.O. 23 DE AGOSTO DE 1991.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 7 DE AGOSTO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE JUNIO DE 1996.
 
 ###### ARTICULO UNICO.
 
