@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1995-12-21"
+last_updated: "1998-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -131,6 +131,10 @@ VII.- Las demás armas de características deportivas de acuerdo con las normas 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo 9o. de esta Ley, únicamente como complemento del atuendo charro, debiendo llevarlos descargados.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 10 BIS.- La posesión de cartuchos correspondientes a las armas que pueden poseerse o portarse se limitará a las cantidades que se establecen en el artículo 50 de esta Ley, por cada arma manifestada en el Registro Federal de Armas.
 
 ###### ARTICULO 11.
 
@@ -372,7 +376,7 @@ VII.- Por resolución de autoridad competente;
 
 VIII.- Cuando sus poseedores cambien de domicilio sin manifestarlo a la Secretaría de la Defensa Nacional;
 
-IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamentos o las de la Secretaría de la Defensa Nacional dictadas con base en esos Ordenamientos.
+IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamentos o las de la Secretaría de la Defensa Nacional dictadas con base en esos Ordenamientos;
 
 La suspensión de las licencias de portación de armas, sólo procederá cuando a juicio de la Secretaría de Gobernación sea necesaria para mantener o restituir la tranquilidad de poblaciones o regiones.
 
@@ -704,29 +708,21 @@ Los titulares de permisos generales están obligados a conservar, por el términ
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 77.
 
-Serán sancionados con pena de uno a diez días multa, o por falta de pago con el arresto correspondiente, que en ningún caso excederá de 36 horas.
+Serán sancionados con diez a cien días multa:
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+I. Quienes posean armas sin haber hecho la manifestación de las mismas a la Secretaría de la Defensa Nacional;
 
-I.- Quienes posean armas en lugar no autorizado o que no sea su domicilio, salvo las reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea;
+II. Quienes posean armas, cartuchos o municiones en lugar no autorizado;
 
-II.- Quienes posean armas en su domicilio sin haber hecho la manifestación de las mismas a la Secretaría de la Defensa Nacional, o en su caso, sin tener la autorización correspondiente;
+III. Quienes infrinjan lo dispuesto en el artículo 36 de esta Ley. En este caso, además de la sanción, se asegurará el arma, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+IV. Quienes posean cartuchos en cantidades superiores a las que se refiere el artículo 50 de esta Ley.
 
-III.- Quienes posean armas prohibidas, salvo las excepciones señaladas en esta Ley;
-
-IV.- Quienes infrinjan lo dispuesto en el Artículo 36 de esta Ley. En este caso, además de la sanción, se recogerá el arma.
-
-Para los efectos de la imposición de las sanciones a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-En el caso de posesión de armas reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea, se estará a lo dispuesto en el artículo 83 de la presente ley.
+Para efectos de la imposición de las sanciones administrativas a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
@@ -754,41 +750,37 @@ Se suspenderá la licencia de portación de armas destinadas al deporte de tiro 
 
 Se cancelará la propia licencia cuando su tenedor infrinja alguno de los deberes que le señale esta Ley y su Reglamento, o cuando deje de pertenecer al Club o Asociación del que fuere miembro.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 81.
 
-Se sancionará con pena de seis meses a tres años de prisión y de dos a quince días multa, a quien porte armas sin tener expedida la licencia correspondiente.
+Se sancionará con penas de dos a siete años de prisión y de cincuenta a doscientos días multa, a quien porte un arma de las comprendidas en los artículos 9 y 10 de esta Ley sin tener expedida la licencia correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+En caso de que se porten dos o más armas, la pena correspondiente se aumentará hasta en dos terceras partes.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 82.
 
-Se impondrá de dos meses a dos años de prisión o de cuatro a cuarenta días multa, a quienes transmitan la propiedad de un arma por compraventa, donación o permuta, sin el permiso correspondiente.
+Se impondrá de uno a seis años de prisión y de cien a quinientos días multa, a quienes transmitan la propiedad de un arma sin el permiso correspondiente.
 
-La transmisión de la propiedad de dos o más armas, o por dos o más veces, sin permiso, se sancionará conforme al artículo 85 de esta Ley.
+La transmisión de la propiedad de dos o más armas, sin permiso, o la reincidencia en la conducta señalada en el párrafo anterior, se sancionará conforme al artículo 85 Bis de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 83.
 
-Al que sin el permiso correspondiente porte o posea un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
+Al que sin el permiso correspondiente porte un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
 
-(REFORMADA, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
-I.- Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
+II. Con prisión de cinco a diez años y de cincuenta a doscientos días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
 
-(REFORMADA, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+III. Con prisión de diez a quince años y de cien a quinientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
 
-II.- Con prisión de uno a cinco años y de cinco a veinte días multa cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley; y
+En caso de que se porten dos o más armas, la pena correspondiente se aumentará hasta en dos terceras partes.
 
-(REFORMADA, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
-
-III.- Con prisión de dos a doce años y de diez a cincuenta días de multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
-
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
-
-Si la portación de las armas de fuego a que se refiere la fracción III del presente artículo se realizare por un grupo de tres o más personas, la pena correspondiente se aumentará al doble.
+Cuando tres o más personas, integrantes de un grupo, porten armas de las comprendidas en la fracción III del presente artículo, la pena correspondiente a cada una de ellas se aumentará al doble.
 
 > <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -808,39 +800,69 @@ Por acopio debe entenderse la posesión de más de cinco armas de las de uso exc
 
 Para la aplicación de la sanción por delitos de portación o acopio de armas, el Juez deberá tomar en cuenta la actividad a que se dedica el autor, sus antecedentes y las circunstancias en que fue detenido.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 83 Ter.
+
+Al que sin el permiso correspondiente posea un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
+
+I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
+
+II. Con prisión de dos a siete años y de veinte a cien días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
+
+III. Con prisión de cuatro a doce años y de cincuenta a doscientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 83 Quat (sic).- Al que posea cartuchos en cantidades mayores a las permitidas, se le sancionará:
+
+I. Con prisión de uno a cuatro años y de diez a cincuenta días multa, si son para las armas que están comprendidas en los artículos 9, 10 y 11, incisos a) y b), de esta Ley, y
+
+II. Con prisión de dos a seis años y de veinticinco a cien días multa, si son para las armas que están comprendidas en los restantes incisos del artículo 11 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 84.
 
 Se impondrá de cinco a treinta años de prisión y de veinte a quinientos días multa:
 
-I.- Al que introduzca en la República, en forma clandestina, armas, municiones, explosivos y materiales de uso exclusivo de las fuerzas armadas o sujetos a control, de acuerdo con esta Ley; asimismo al que participe en la introducción;
+I. Al que participe en la introducción al territorio nacional, en forma clandestina, de armas, municiones, cartuchos, explosivos y materiales de uso exclusivo del Ejército, Armada y Fuerza Aérea o sujetos a control, de acuerdo con esta Ley;
 
-II.- Al funcionario o empleado público, que estando obligado por sus funciones a impedir esa introducción, no lo haga. Se le impondrá, además, la destitución del empleo o cargo e inhabilitación de dos a seis años; y
+II. Al servidor público, que estando obligado por sus funciones a impedir esta introducción, no lo haga. Además, se le impondrá la destitución del empleo o cargo e inhabilitación para desempeñar cualquier cargo o comisión públicos, y
 
-III.- A quien adquiera los objetos a que se refiere la fracción I para fines mercantiles.
+III. A quien adquiera los objetos a que se refiere la fracción I para fines mercantiles.
 
-(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
-Al que introduzca a la República en forma clandestina armas de fuego de las que no están reservadas para el uso exclusivo del Ejército, Armada y Fuerza Aérea, se le impondrá de dos a ocho años de prisión.
+###### ARTICULO 84 Bis.
 
-(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+Al que introduzca al territorio nacional en forma clandestina armas de fuego de las que no están reservadas para el uso del Ejército, Armada y Fuerza Aérea, se le impondrá de tres a diez años de prisión.
 
-Cuando el responsable, en el caso de las conductas comprendidas en este artículo y los dos anteriores, sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en una tercera parte de la pena que le corresponda.
+Al residente en el extranjero que por primera ocasión introduzca una sola arma de las referidas en el párrafo anterior, únicamente se le impondrá sanción administrativa de doscientos días multa y se le recogerá el arma previa expedición del recibo correspondiente. Cuando a la persona a quien se le haya recogido el arma salga del país, se le devolverá el arma previa entrega del recibo correspondiente.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 84 Ter.
+
+Las penas a que se refieren los artículos 82, 83, 83 Bis, 83 Ter, 83 Quat, 84 y 84 Bis de esta Ley se aumentarán hasta en una mitad cuando el responsable sea o haya sido servidor público de alguna corporación policial, miembro de algún servicio privado de seguridad o miembro del Ejército, Armada o Fuerza Aérea en situación de retiro, de reserva o en activo.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 85.
 
-Se impondrá de uno a ocho años de prisión y de veinte a quinientos días multa:
+Se impondrá de dos a diez años de prisión y de veinte a quinientos días multa a los comerciantes en armas, municiones y explosivos, que los adquieran sin comprobar la procedencia legal de los mismos.
 
-I.- A los comerciantes en armas, municiones y explosivos, que los adquieran sin comprobar la procedencia legal de los mismos;
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
-II.- A quienes fabriquen o exporten dichos objetos sin el permiso correspondiente;
+###### ARTICULO 85 Bis.
 
-III.- A los comerciantes en armas que sin dicho permiso vendan, donen o permuten los objetos a que se refiere la fracción I, y
+Se impondrá de cinco a quince años de prisión y de cien a quinientos días multa:
 
-IV.- A quienes dispongan indebidamente de las armas con que se haya dotado a los cuerpos de policía federales, estatales o municipales.
+I. A quienes fabriquen o exporten armas, municiones, cartuchos y explosivos sin el permiso correspondiente;
+
+II. A los comerciantes en armas que sin permiso transmitan la propiedad de los objetos a que se refiere la fracción I, y
+
+III. A quienes dispongan indebidamente de las armas con que se haya dotado a los cuerpos de policía federales, estatales o municipales o al Ejército, Armada o Fuerza Aérea.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
@@ -983,3 +1005,11 @@ TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administr
 D.O.F. 21 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1998.
+
+PRIMERO.- Este Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- A las personas que hubieren cometido infracciones o delitos previstos en la Ley Federal de Armas de Fuego y Explosivos con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que hubieren realizado dichas conductas.
