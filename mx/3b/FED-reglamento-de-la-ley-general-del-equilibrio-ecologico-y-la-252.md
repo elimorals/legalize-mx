@@ -1,0 +1,610 @@
+---
+title: "REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA"
+identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-252"
+country: "mx"
+rank: "reglamento"
+publication_date: "1988-11-25"
+last_updated: "1988-11-25"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=252&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "252"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "19"
+reform_count: "2"
+scjn_last_update: "2014-10-31"
+issue_date: "1988-11-23"
+---
+# REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
+
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Diario Oficial de la Federación, el viernes 25 de noviembre de 1988.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89 fracción I de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 1o., 4o. fracción I, 5o. fracciones III, IV, VII y XIV, 8o. fracciones II, III, VII, XII, XIII y XV, 10, 15 fracciones I, II, III, IV, V, VII, X y XII, 22, 36, 37, 110, 111, 113, 114, 115, 116, 171,172, 173, 174 y 175 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, he tenido a bien expedir el siguiente:
+
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 1o.
+
+El presente Reglamento rige en todo el territorio nacional y las zonas donde la nación ejerce su soberanía y jurisdicción, y tiene por objeto reglamentar la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en lo que se refiere a la prevención y control de la contaminación de la atmósfera.
+
+###### ARTICULO 2o.
+
+Las atribuciones que en esta materia tiene el Estado y que son objeto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, serán ejercidas de manera concurrente por la Federación, las Entidades Federativas y los Municipios.
+
+###### ARTICULO 3o.
+
+Son asuntos de competencia Federal, por tener alcance general en la nación o ser de interés de la Federación, en materia de prevención y control de la contaminación de la atmósfera, los que señala el artículo 5o. de la Ley y en especial los siguientes:
+
+I.- La formulación de los criterios ecológicos generales;
+
+II.- Los que por su naturaleza y complejidad requieran de la participación de la Federación;
+
+III.- Las acciones que se realicen en la materia, en bienes y zonas de jurisdicción federal;
+
+IV.- Los originados en otros países, que afecten el equilibrio ecológico dentro del territorio nacional o las zonas sobre las que la nación ejerce derecho de soberanía y jurisdicción;
+
+V.- Los originados dentro del territorio nacional o las zonas sobre las que la nación ejerce derechos de soberanía y jurisdicción, que afecten el equilibrio ecológico de otros países;
+
+VI.- Los que afecten el equilibrio ecológico de dos o más Entidades Federativas; y,
+
+VII.- La protección de la atmósfera en zonas o en casos de fuentes emisoras de jurisdicción federal.
+
+###### ARTICULO 4o.
+
+Compete a las Entidades Federativas y Municipios, en el ámbito de sus circunscripciones territoriales y conforme a la distribución de atribuciones que se establezca en las leyes locales, los asuntos señalados en el artículo 6o. de la Ley y en especial:
+
+I.- La formulación de los criterios ecológicos particulares en cada Entidad Federativa, que guarden congruencia con los que en su caso hubiere formulado la Federación, en las materias a que se refiere el presente artículo;
+
+II.- La preservación y restauración del equilibrio ecológico y la protección al ambiente que se realicen en bienes y zonas de jurisdicción de las Entidades Federativas y de los Municipios, salvo cuando se refieran a asuntos reservados a la Federación por la Ley u otros ordenamientos aplicables;
+
+III.- La prevención y el control de la contaminación de la atmósfera generada en zonas o por fuentes emisoras de Jurisdicción estatal o municipal; y,
+
+IV.- La preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados y centrales de abasto, panteones, rastros, tránsito y transporte locales.
+
+###### ARTICULO 5o.
+
+La aplicación de este Reglamento compete al Ejecutivo Federal por conducto de la Secretaría de Desarrollo Urbano y Ecología, sin perjuicio de las atribuciones que correspondan a otras dependencias del propio Ejecutivo Federal, de conformidad con las disposiciones legales aplicables, y a las autoridades del Distrito Federal, de los Estados y de los Municipios en la esfera de su competencia.
+
+Las autoridades del Distrito Federal, de los Estados y de los Municipios, podrán participar como auxiliares de la Federación, en la aplicación del presente Reglamento, para la atención de asuntos de competencia federal, en los términos de los instrumentos de coordinación correspondientes.
+
+###### ARTICULO 6o.
+
+Para los efectos de este Reglamento se estará a las definiciones que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como a las siguientes:
+
+Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía.
+
+Fuente nueva: Es aquella en la que se instale por primera vez un proceso o se modifiquen los existentes.
+
+Fuente fija: Es toda instalación establecida en un sólo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
+
+Fuente móvil: Aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses integrales, camiones, automóviles, motocicletas, embarcaciones, equipo y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera.
+
+Fuente múltiple: Aquella fuente fija que tiene dos o más ductos o chimeneas por las que se descargan las emisiones a la atmósfera, provenientes de un sólo proceso.
+
+Inmisión: La presencia de contaminantes en la atmósfera, a nivel de piso.
+
+Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+Plataforma y puertos de muestreo: Instalaciones para realizar el muestreo de gases o partículas en ductos o chimeneas.
+
+Reglamento: El Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de prevención y control de la contaminación de la atmósfera.
+
+Secretaría: Secretaría de Desarrollo Urbano y Ecología.
+
+Verificación: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores.
+
+Zona crítica: Aquella en la que por sus condiciones topográficas y meteorológicas se dificulte la dispersión o se registren altas concentraciones de contaminantes a la atmósfera.
+
+###### ARTICULO 7o.
+
+Compete a la Secretaría:
+
+I.- Formular los criterios ecológicos generales que deberán observarse en la prevención y control de la contaminación de la atmósfera, sin perjuicio de los de carácter particular que se formulen en cada Entidad Federativa, por las autoridades locales competentes;
+
+II.- Expedir las normas técnicas ecológicas, en las materias objeto del Reglamento, con las dependencias que correspondan, en los términos de la Ley del propio Reglamento;
+
+III.- Expedir las normas técnicas ecológicas que deberán incorporarse a las normas oficiales mexicanas que en su caso se establezcan para productos utilizados como combustibles o energéticos;
+
+IV.- Expedir las normas técnicas ecológicas para la certificación por la autoridad competente, de los niveles de emisión de contaminantes a la atmósfera provenientes de fuentes determinadas;
+
+V.- Determinar en coordinación con las Secretarías de Energía, Minas e Industria Paraestatal y de Comercio y Fomento Industrial la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera, generados por los vehículos automotores;
+
+VI.- Emitir dictamen técnico sobre los sistemas de monitoreo de la calidad del aire a cargo de los Estados y Municipios;
+
+VII.- Vigilar que en las zonas y en las fuentes de jurisdicción federal, se cumplan las disposiciones del Reglamento y se observen las normas técnicas ecológicas aplicables;
+
+VIII.- Convenir y, en su caso, requerir la instalación de equipos de control de emisiones contaminantes a la atmósfera con quienes realicen actividades contaminantes en zonas conurbadas ubicadas en dos o más entidades federativas, y cuando se trate de bienes o zonas de jurisdicción federal;
+
+IX.- Fomentar y promover ante las autoridades competentes el uso de métodos, procedimientos, partes, componentes y equipos que reduzcan la generación de contaminantes a la atmósfera;
+
+X.- Establecer los procedimientos a los que deberán sujetarse los centros de verificación obligatoria de los vehículos de transporte público federal autorizados por la Secretaría de Comunicaciones y Transportes;
+
+XI.- Promover en coordinación con las autoridades competentes, la instalación de industrias que utilicen tecnologías y combustibles que generen menor contaminación a la atmósfera, en zonas que se hubiesen determinado aptas para uso industrial, próximas a áreas habitacionales;
+
+XII.- Promover ante las autoridades competentes que en la determinación de usos del suelo que definan los programas de desarrollo urbano respectivos, se considere la compatibilidad de la actividad industrial con otras actividades productivas y se tomen en cuenta las condiciones topográficas, y meteorológicas, para asegurar la adecuada dispersión de contaminantes atmosféricos;
+
+XIII.- Promover en coordinación con los Gobiernos de los Estados y Municipios, el establecimiento de sistemas de verificación del parque vehicular;
+
+XIV.- Propiciar el fortalecimiento de la conciencia ecológica, a través de los medios de comunicación masiva y promover la participación social para la prevención y control de la contaminación a la atmósfera;
+
+XV.- Prestar asistencia técnica a los gobiernos del Distrito Federal, de los Estados y de los Municipios, cuando así lo soliciten, para la prevención y control de la contaminación de la atmósfera generada en zonas o por fuentes de jurisdicción local;
+
+XVI.- Dictaminar sobre el otorgamiento de estímulos fiscales en los casos previstos por el artículo 12 del Reglamento;
+
+XVII.- Promover ante las autoridades de educación competentes, la incorporación de contenidos ecológicos en los ciclos educativos, así como el desarrollo de planes y programas para la formación de especialistas en materia de prevención y control de la contaminación atmosférica;
+
+XVIII.- Promover el desarrollo de investigaciones sobre las causas y efectos de los fenómenos ambientales, así como el desarrollo de técnicas y procedimientos tendientes a la prevención y control de la contaminación de la atmósfera;
+
+XIX.- Promover la incorporación de contenidos ecológicos en los programas de las Comisiones Mixtas de Seguridad e Higiene;
+
+XX.- Promover ante las autoridades competentes, el desarrollo de programas de capacitación y adiestramiento en materia de prevención y control de la contaminación atmosférica en los centros de trabajo;
+
+XXI.- Expedir los instructivos, formatos y manuales necesarios para el cumplimiento del Reglamento;
+
+XXII.- Vigilar el cumplimiento de los procedimientos de verificación, así como de las normas técnicas ecológicas previstas en el Reglamento; y
+
+XXIII.- Las demás que le confiere el Reglamento y otras disposiciones legales aplicables.
+
+###### ARTICULO 8o.
+
+Sin perjuicio de lo que establezcan otras disposiciones legales aplicables, compete a la Secretaría de Comunicaciones y Transportes:
+
+I.- Autorizar el establecimiento de centros de verificación obligatoria de los vehículos del transporte público federal;
+
+II.- Establecer el programa para la verificación de los vehículo9s (sic) del transporte público federal;
+
+III.- Llevar el registro de los centros de verificación obligatoria de los vehículos del transporte público federal;
+
+IV.- Determinar las tarifas que regirán en la prestación de los servicios de verificación obligatoria que lleven a cabo los centros autorizados en los términos del Reglamento; y
+
+V.- Expedir las calcomanías de baja emisión previstas en el Reglamento.
+
+###### ARTICULO 9o.
+
+En el Distrito Federal la Secretaria ejercerá las atribuciones a que se refiere el artículo 3o. del Reglamento y el Departamento del Distrito Federal ejercerá las que se prevén para las autoridades locales, sin perjuicio de las que competan a la Asamblea de Representantes del Distrito Federal, ajustándose a las siguientes disposiciones especiales:
+
+A) Corresponde a la Secretaría:
+
+I.- Prevenir y controlar la contaminación de la atmósfera generada en el Distrito Federal por fuentes fijas que no funcionen como establecimientos mercantiles y espectáculos públicos; y
+
+II.- Establecer y operar los sistemas de monitoreo de la contaminación atmosférica en el Distrito Federal
+
+B) Corresponde al Departamento del Distrito Federal:
+
+I.- Prevenir y controlar la contaminación de la atmósfera generada en el Distrito Federal por fuentes fijas que funcionen como establecimientos mercantiles y espectáculos públicos;
+
+II.- Operar la red regional de laboratorios de análisis de la contaminación atmosférica;
+
+III.- Determinar los criterios ecológicos que serán incorporados en los programas de desarrollo urbano y demás instrumentos aplicables en esta materia;
+
+IV.- Participar, en el ámbito de su competencia, en la formulación y ejecución de los programas especiales que establezca la Federación para la restauración del equilibrio ecológico, en aquellas zonas y áreas del Distrito Federal que presenten graves desequilibrios;
+
+V.- Vigilar la observancia de las declaratorias que expida el Ejecutivo Federal para regular las actividades que generen contaminación atmosférica en las zonas y áreas del Distrito Federal que presenten graves desequilibrios ecológicos;
+
+VI.- Observar las normas técnicas ecológicas en la prestación de los servicios públicos de alcantarillado, limpia, mercados y centrales de abasto, panteones, rastros, tránsito y transportes locales; y
+
+VII.- Inspeccionar, vigilar e imponer sanciones en los asuntos de su competencia.
+
+###### ARTICULO 10.
+
+Serán responsables del cumplimiento de las disposiciones del Reglamento y de las normas técnicas ecológicas que de él se deriven, las personas físicas o morales, públicas o privadas, que pretendan realizar o que realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas.
+
+###### ARTICULO 11.
+
+Para los efectos del Reglamento se consideran:
+
+I.- Zonas de Jurisdicción Federal, las señaladas en las disposiciones aplicables y, en especial las siguientes:
+
+a) Los sitios ocupados por todas las instalaciones de las terminales de transporte público federal, terrestre, aéreo y acuático;
+
+b) Los parques industriales localizados en bienes del dominio público de la Federación; en los términos de la Ley General de Bienes Nacionales; y
+
+c) La zona Federal marítimo-terrestre
+
+II.- Fuentes de Jurisdicción Federal;
+
+a) Las instalaciones, obras o actividades industriales, comerciales y de servicios que realicen las dependencias y entidades de la administración Pública Federal, en los términos de la Ley orgánica de la Administración Pública Federal;
+
+b) La industria del asbesto, así como la prevista en la fracción III del artículo 29 de la Ley;
+
+c) La industria que se localice en la zona conurbada del Distrito Federal;
+
+d) Las obras o actividades localizadas en un Estado, cuyas emisiones a la atmósfera contaminen o afecten el equilibrio ecológico de otro u otros Estados, cuando así lo determine la Secretaría o lo solicite a la Federación el Estado afectado por las emisiones contaminantes a la atmósfera;
+
+e) Las obras o actividades localizadas en el territorio nacional que puedan afectar el equilibrio ecológico de otros países;
+
+f) Los vehículos automotores hasta en tanto no salgan de la planta de producción;
+
+g) El transporte público federal; y
+
+h) Aquellas que por su naturaleza y complejidad requieran la intervención federal.
+
+###### ARTICULO 12.
+
+Se consideran prioritarias para el otorgamiento de estímulos fiscales las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+Para el otorgamiento de dichos estímulos, las autoridades competentes considerarán a quienes:
+
+I.- Adquieran, instalen y operen equipos para el control de emisiones de contaminantes a la atmósfera;
+
+II.- Fabriquen, instalen o proporcionen mantenimiento a equipos de filtrado, combustión, control, y en general de tratamiento de emisiones que contaminen la atmósfera;
+
+III.- Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes a la atmósfera; y
+
+IV.- Ubiquen y relocalicen sus instalaciones para evitar emisiones contaminantes a la atmósfera en zonas urbanas.
+
+###### ARTICULO 13.
+
+Para la protección a la atmósfera se considerarán los siguientes criterios:
+
+I.- La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del país; y
+
+II.- Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, fijas o móviles, deben ser reducidas o controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
+
+###### ARTICULO 14.
+
+La Secretaría, previos los estudios correspondientes, promoverá ante las autoridades competentes la reubicación de las fuentes fijas, cuando las condiciones topográficas y meteorológicas del sitio en el que se ubican, dificulten la adecuada dispersión de contaminantes a la atmósfera, cuando la calidad del aire así lo requiera, o cuando las características de los contaminantes constituyan un riesgo inminente de desequilibrio ecológico.
+
+###### ARTICULO 15.
+
+La Secretaría podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico.
+
+### CAPITULO II. DE LA EMISION DE CONTAMINANTES A LA ATMOSFERA, GENERADA POR FUENTES FIJAS
+
+###### ARTICULO 16.
+
+Las emisiones de olores, gases, así como de partículas sólidas y líquidas a la atmósfera que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisión e inmisión, por contaminantes y por fuentes de contaminación que se establezcan en las normas técnicas ecológicas que para tal efecto expida la Secretaría en coordinación con la Secretaría de Salud, con base en la determinación de los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente que esta última determina.
+
+Asimismo, y tomando en cuenta la diversidad de tecnologías que presentan las fuentes, podrán establecerse en la norma técnica ecológica diferentes valores al determinar los niveles máximos permisibles de emisión o inmisión, para un mismo contaminante o para una misma fuente, según se trate de:
+
+I.- Fuentes existentes;
+
+II.- Nuevas fuentes; y
+
+III.- Fuentes localizadas en zonas críticas.
+
+La Secretaría en coordinación con la Secretaría de Salud, y previos los estudios correspondientes, determinará en la norma técnica ecológica respectiva, las zonas que deben considerarse críticas.
+
+###### ARTICULO 17.
+
+Los responsables de las fuentes fijas de jurisdicción federal, por las que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a:
+
+I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas técnicas ecológicas correspondientes;
+
+II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
+
+III.- Instalar plataformas y puertos de muestreo;
+
+IV.- Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine la Secretaría y remitir a ésta los registros, cuando así lo solicite;
+
+V.- Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas, y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro a los ecosistemas, a juicio de la Secretaría;
+
+VI.- Llevar una bitácora de operación y mantenimiento de sus equipos de proceso y de control;
+
+VII.- Dar aviso anticipado a la Secretaría del inicio de operación de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
+
+VIII.- Dar aviso inmediato a la Secretaría en el caso de falla del equipo de control, para que ésta determine lo conducente, si la falla puede provocar contaminación; y
+
+IX.- Las demás que establezcan la Ley y el Reglamento.
+
+###### ARTICULO 18.
+
+Sin perjuicio de las autorizaciones que expidan otras autoridades competentes, las fuentes fijas de jurisdicción federal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán licencia de funcionamiento expedida por la Secretaría, la que tendrá una vigencia indefinida.
+
+###### ARTICULO 19.
+
+Para obtener la licencia de funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes, deberán presentar a la Secretaría, solicitud por escrito acompañada de la siguiente información y documentación:
+
+I.- Datos generales del solicitante;
+
+II.- Ubicación;
+
+III.- Descripción del proceso;
+
+IV.- Distribución de maquinaria y equipo;
+
+V.- Materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
+
+VI.- Transporte de materias primas o combustibles al área de proceso;
+
+VII.- Transformación de materias primas o combustibles;
+
+VIII.- Productos, subproductos y desechos que vayan a generarse;
+
+IX.- Almacenamiento, transporte y distribución de productos y subproductos;
+
+X.- Cantidad y naturaleza de los contaminantes a la atmósfera esperados;
+
+XI.- Equipos para el control de la contaminación a la atmósfera que vayan a utilizarse; y
+
+XII.- Programa de contingencias, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones metereológicas de la región sean desfavorables; o cuando se presenten emisiones de olores, gases, así como de partículas sólidas y líquidas extraordinarias no controladas.
+
+La información a que se refiere este artículo deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento, la veracidad de la misma.
+
+###### ARTICULO 20.
+
+Una vez recibida la información a que se refiere el artículo anterior, la Secretaría otorgará o negará la licencia de funcionamiento correspondiente, dentro de un plazo de 30 días hábiles contados a partir de la fecha en que se cuente con toda la información requerida.
+
+En el caso de otorgarse la licencia, en ésta se precisará;
+
+I.- La periodicidad con que deberá remitirse a la Secretaría el inventario de sus emisiones;
+
+II.- La periodicidad con que deberá llevarse a cabo la medición y el monitoreo a que se refieren las fracciones IV y V del artículo 17;
+
+III.- Las medidas y acciones que deberán llevarse a cabo en el caso de una contingencia; y
+
+IV.- El equipo y aquellas otras condiciones que la Secretaría determine, para prevenir y controlar la contaminación de la atmósfera.
+
+La Secretaría podrá fijar en la licencia de funcionamiento, niveles máximos de emisión específicos para aquellas fuentes fijas que por sus características especiales de construcción o por las peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas técnicas ecológicas que establezcan niveles máximos permisibles de emisión de contaminantes a la atmósfera.
+
+###### ARTICULO 21.
+
+Una vez otorgada la licencia de funcionamiento, el responsable de la fuente fija deberá remitir a la Secretaría, en el mes de febrero de cada año y en el formato que ésta determine una cédula de operación que contenga la información y documentación prevista en el artículo 19 del Reglamento.
+
+###### ARTICULO 22.
+
+La Secretaría podrá modificar con base en la información contenida en la cédula de operación a que se refiere el artículo anterior, los niveles máximos de emisión específicos que hubiere fijado en los términos del artículo 20, cuando:
+
+I.- La zona en la que se ubique la fuente se convierta en una zona crítica;
+
+II.- Existan tecnologías de control de contaminantes a la atmósfera más eficientes; y
+
+III.- Existan modificaciones en los procesos de producción empleados por la fuente.
+
+###### ARTICULO 23.
+
+Las emisiones de contaminantes atmosféricos que se generen por las fuentes fijas de jurisdicción federal, deberán canalizarse a través de ductos o chimeneas de descarga.
+
+Cuando por razones de índole técnica no pueda cumplirse con lo dispuesto por este artículo, el responsable de la fuente deberá presentar a la Secretaría un estudio justificativo para que ésta determine lo conducente.
+
+###### ARTICULO 24.
+
+Los ductos o las chimeneas a que se refiere el artículo anterior, deberán tener la altura efectiva necesaria, de acuerdo con la norma técnica ecológica correspondiente, para dispersar las emisiones contaminantes.
+
+###### ARTICULO 25.
+
+Las mediciones de las emisiones contaminantes a la atmósfera, se llevarán a cabo conforme a los procedimientos de muestreo y cuantificación establecidos en las Normas Oficiales Mexicanas o, en su caso, en las normas técnicas ecológicas correspondientes. Para evaluar la emisión total de contaminantes atmosféricos de una fuente múltiple, se deberán sumar las emisiones individuales de las chimeneas existentes.
+
+###### ARTICULO 26.
+
+Los responsables de las fuentes fijas de jurisdicción federal, deberán conservar en condiciones de seguridad las plataformas y puertos de muestreo y mantener calibrados los equipos de medición, de acuerdo con el procedimiento previsto en la Norma Oficial Mexicana correspondiente.
+
+###### ARTICULO 27.
+
+Sólo se permitirá la combustión a cielo abierto en zonas de jurisdicción federal, cuando se efectúe con permiso de la Secretaría para adiestrar y capacitar al personal encargado del combate de incendios.
+
+Para obtener el permiso a que se refiere el párrafo anterior, el interesado deberá presentar a la Secretaría solicitud por escrito, cuando menos con 10 días hábiles de anterioridad a la fecha en que se tenga programado el evento, con la siguiente información y documentación:
+
+I.- Croquis de localización del predio, indicando el lugar preciso en el que se efectuarán las combustiones, así como las construcciones y colindancias más próximas y las condiciones de seguridad que imperan en el lugar;
+
+II.- Programa calendarizado, en el que se precise la fecha y horarios en los que tendrán lugar las combustiones; y
+
+III.- Tipos y cantidades de combustible que se incinerará.
+
+La Secretaría podrá suspender de manera temporal o definitiva el permiso a que se refiere este artículo, cuando se presente alguna contingencia ambiental en la zona.
+
+### CAPITULO III. DE LA EMISION DE CONTAMINANTES A LA ATMOSFERA GENERADA POR FUENTES MOVILES
+
+###### ARTICULO 28.
+
+Las emisiones de olores, gases, así como de partículas sólidas y liquidas a la atmósfera que se generen por fuentes móviles, no deberán exceder los niveles máximos permisibles de emisión que se establezcan en las normas técnicas ecológicas que expida la Secretaría en coordinación con la Secretaría de Comercio y Fomento Industrial y de Energía, Minas e Industria Paraestatal, tomando en cuenta los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente determinados por la Secretaría de Salud.
+
+###### ARTICULO 29.
+
+Los fabricantes de vehículos automotores deberán aplicar los métodos, procedimientos, partes, componentes y equipos que aseguren que no se rebasarán los niveles máximos permisibles de emisión de contaminantes a la atmósfera que establezcan las normas técnicas ecológicas correspondientes.
+
+La certificación de los niveles máximos permisibles de emisión deberá sujetarse a los procedimientos y llevarse a cabo con los equipos que determinen las normas técnicas ecológicas correspondientes.
+
+###### ARTICULO 30.
+
+La Secretaría de Comercio y Fomento Industrial, de acuerdo con sus facultades, únicamente autorizará la fabricación y ensamble de vehículos automotores que no rebasen los niveles máximos de emisión de contaminantes a la atmósfera previstos en las normas técnicas ecológicas correspondientes.
+
+La Secretaría, en coordinación con la Secretaría de Comercio y Fomento Industrial, deberá verificar que el procedimiento de certificación de emisiones contaminantes a la atmósfera se ajuste a lo dispuesto en las normas técnicas ecológicas aplicables.
+
+###### ARTICULO 31.
+
+Los concesionarios del servicio de transporte público federal deberán tomar las medidas necesarias, para asegurar que las emisiones de sus vehículos no rebasarán los niveles máximos de emisión de contaminantes a la atmósfera, que establezcan las normas técnicas ecológicas correspondientes.
+
+###### ARTICULO 32.
+
+Para efecto de lo dispuesto en el artículo anterior, los propietarios de los vehículos destinados al transporte público federal terrestre, deberán someter a verificación sus vehículos en el período y en el centro de verificación que corresponda, conforme al programa que formule la Secretaría de Comunicaciones y Transportes. Asimismo deberán cubrir los productos que por este concepto establezca la legislación aplicable.
+
+###### ARTICULO 33.
+
+El programa a que se refiere el artículo anterior será publicado en el Diario Oficial de la Federación, en la Gaceta Sedue y en los órganos oficiales locales, en el mes de enero de cada año.
+
+###### ARTICULO 34.
+
+Los centros de verificación expedirán una constancia sobre los resultados de la verificación del vehículo. Dicha constancia deberá contener la siguiente información:
+
+I.- Fecha de verificación;
+
+II.- Identificación del centro de verificación obligatoria y de la persona que efectúo la verificación;
+
+III.- Números de registro y de motor, tipo, marca y año modelo del vehículo y nombre y domicilio del propietario;
+
+IV.- Identificación de las normas técnicas ecológicas aplicadas en la verificación;
+
+V.- Declaración en la que se indique que las emisiones a la atmósfera del vehículo rebasan o no los niveles máximos permisibles previstos en las normas técnicas ecológicas aplicables; y
+
+VI.- Las demás que se determinen en el programa de verificación.
+
+Cuando la constancia a que se refiere este artículo establezca que el vehículo de que se trate, no rebasa los niveles máximos permisibles previstos en las normas técnicas ecológicas aplicables, el original de dicha constancia deberá ser conservado por el propietario del vehículo. Copia de la misma deberá presentarse ante la Secretaría de Comunicaciones y Transportes, junto con los documentos necesarios para efectuar el trámite de revalidación de vigencia de la matrícula vehicular.
+
+###### ARTICULO 35.
+
+Cuando del resultado de la verificación en los centros autorizados, se determine en la constancia correspondiente que los vehículos del transporte público federal terrestre, rebasan los niveles máximos de emisión de contaminantes a la atmósfera, establecidos en las normas técnicas ecológicas correspondientes, los propietarios deberán efectuar las reparaciones que procedan.
+
+Una vez efectuada la reparación de los vehículos, éstos deberán someterse a una nueva verificación en alguno de los centros de verificación autorizados.
+
+La Secretaría de Comunicaciones y Transportes únicamente revalidará la vigencia de la matrícula vehicular, cuando exista constancia expedida por un centro autorizado, en la que se determine que el vehículo de que se trate no rebasa los niveles máximos permisibles previstos en las normas técnicas ecológicas correspondientes.
+
+###### ARTICULO 36.
+
+La Secretaría podrá promover ante la Secretaría de Comunicaciones y Transportes, la suspensión o, en su caso, la cancelación del permiso para circular por las vías generales de comunicación, de aquellos vehículos de transporte público federal terrestre que, de manera reincidente, violen las disposiciones del Reglamento y las normas técnicas ecológicas, independientemente de que se apliquen las sanciones que procedan.
+
+###### ARTICULO 37.
+
+Los interesados en obtener autorización de la Secretaría de Comunicaciones y Transportes para establecer y operar centros de verificación obligatoria de los vehículos de transporte público federal terrestre, deberán presentar a dicha dependencia solicitud por escrito con la siguiente información y documentación:
+
+I.- Nombre, denominación o razón social y domicilio del solicitante;
+
+II.- Los documentos que acrediten su capacidad técnica y económica para realizar la verificación;
+
+III.- Ubicación y superficie de terreno destinada a realiza (sic) el servicio, considerando el espacio mínimo necesario para llevarlo a efecto en forma adecuada, sin que se provoquen problemas de vialidad;
+
+IV.- Infraestructura y equipo que se empleará para llevar a cabo la verificación;
+
+V.- Descripción del procedimiento de verificación; y
+
+VI.- Los demás que sean requeridos por la Secretaría.
+
+###### ARTICULO 38.
+
+Presentada la solicitud, la Secretaría de Comunicaciones y Transportes procederá a su análisis y evaluación. Dentro de un plazo no mayor de 60 días naturales a partir de la fecha en que hubiere recibido dicha solicitud, notificará la resolución en la que otorgue o niegue la autorización correspondiente.
+
+Dentro del plazo a que se refiere el párrafo anterior, la Secretaría de Comunicaciones y Transportes podrá promover ante la Secretaría la formulación de un dictamen técnico al respecto, el cual deberá ser expedido en un plazo no mayor de 30 días naturales a partir de recibida la promoción. Si transcurrido el plazo la Secretaría no hubiese emitido dictamen expreso, se entenderá otorgado en sentido aprobatorio.
+
+El dictamen podrá determinar si el proyecto cumple con los requerimientos técnicos, si es necesaria su modificación para la satisfacción de dichos requerimientos o si el proyecto no puede autorizarse por no satisfacer la normatividad aplicable.
+
+Otorgada la autorización para establecer, equipar y operar un centro de verificación, se notificará al interesado, quien deberá estar en aptitud de iniciar la operación dentro del plazo señalado en la propia autorización, el cual no podrá ser menor de 30 días naturales prorrogables a partir de su notificación.
+
+Si transcurrido el plazo señalado, no se hubiere iniciado la operación del centro de verificación de que se trate, la autorización otorgada quedará sin efectos.
+
+La autorización para operar los centros de verificación a que se refiere este Reglamento establecerá el período de su vigencia, transcurrido el cual podrá ser revalidada previa solicitud de los interesados, debiendo en su caso, satisfacer los requisitos previstos para el otorgamiento de toda autorización.
+
+###### ARTICULO 39.
+
+Los centros de verificación vehicular autorizados, deberán:
+
+I.- Operar conforme a los procedimientos de verificación que establezca la Secretaría; y
+
+II.- Mantener sus instalaciones y equipos en un estado de funcionamiento que garantice la adecuada prestación de sus servicios.
+
+###### ARTICULO 40.
+
+El personal que tenga a su cargo la verificación en los centros autorizados, deberá contar con la capacitación técnica necesaria para el cabal cumplimiento de sus funciones.
+
+### CAPITULO IV. DEL SISTEMA NACIONAL DE INFORMACION DE LA CALIDAD DEL AIRE
+
+###### ARTICULO 41.
+
+La Secretaría establecerá y mantendrá actualizado un Sistema Nacional de Información de la Calidad del Aire. Este sistema se integrará con los datos que resulten de:
+
+I.- El monitoreo atmosférico que lleven a cabo las autoridades competentes en el Distrito Federal, así como en los Estdos (sic) y Municipios; y
+
+II.- Los inventarios de las fuentes de contaminación de jurisdicción, federal y local, así como de sus emisiones.
+
+###### ARTICULO 42.
+
+La Secretaría establecerá y operará el Sistema de Monitoreo de la Calidad del Aire en el Distrito Federal y zona conurbada, y mantendrá un registro permanente de las concentraciones de contaminantes a la atmósfera que este reporte.
+
+Las autoridades competentes en la zona conurbada del Distrito Federal auxiliarán a la Secretaría en la operación del sistema de monitoreo en sus circunscripciones territoriales, en los términos de los instrumentos de coordinación que al efecto se celebren.
+
+Por su parte, la Secretaría prestará el apoyo técnico que requieran los Estados y Municipios para establecer y operar sus Sistemas de Monitoreo de la Calidad del Aire.
+
+###### ARTICULO 43.
+
+El establecimiento y operación de los Sistemas de Monitoreo de la Calidad del Aire, deberán sujetarse a las normas técnicas ecológicas que al efecto expida la Secretaría, en coordinación con la Secretaría de Salud en lo referente a la salud humana.
+
+###### ARTICULO 44.
+
+La Secretaría, mediante acuerdos de coordinación, promoverá ante los Estados y Municipios, la incorporación de sus sistemas de monitoreo, así como de sus inventarios de zonas y fuentes de jurisdicción local, al Sistema Nacional de Información de la Calidad del Aire.
+
+Asimismo, promoverá ante el Departamento del Distrito Federal, la incorporación de sus inventarios de zonas y fuentes, a dicho Sistema Nacional.
+
+###### ARTICULO 45.
+
+La Secretaría elaborará y mantendrá actualizado el Inventario de Fuentes de Jurisdicción Federal, así como de sus emisiones, con el propósito de contar con un banco de datos que le permita formular las estrategias necesarias para el control de la contaminación atmosférica.
+
+Este inventario se integrará con la información que se presente en los términos del artículo 18 del Reglamento.
+
+### CAPITULO V. DE LAS MEDIDAS DE CONTROL Y DE SEGURIDAD Y SANCIONES
+
+###### ARTICULO 46.
+
+Las infracciones de carácter administrativo a los preceptos de la Ley y del Reglamento serán sancionadas por la Secretaría en asuntos de competencia federal, conforme a lo que establece el Reglamento, con una o más de las siguientes sanciones:
+
+I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Distrito Federal, en el momento de imponer la sanción;
+
+II.- Clausura temporal o definitiva, parcial o total; y
+
+III.- Arresto administrativo hasta por treinta y seis horas.
+
+Las sanciones a que se refiere este artículo, se aplicarán sin perjuicio de las sanciones penales que procedan.
+
+###### ARTICULO 47.
+
+Sin perjuicio de otras sanciones que se impongan conforme a lo dispuesto en este Reglamento, procederá la revocación de la autorización para establecer y operar centros de verificación obligatoria de los vehículos del transporte público federal terrestre, en los siguientes casos:
+
+I.- Cuando las verificaciones no se realicen conforme a las normas técnicas ecológicas aplicables, o en los términos de la autorización otorgada;
+
+II.- Cuando en forma dolosa o negligente se alteren los procedimientos de verificación establecidos por la Secretaría;
+
+III.- Cuando se alteren las tarifas autorizadas; y,
+
+IV.- Cuando quien preste los servicios de verificación, deje de tener la capacidad o las condiciones técnicas necesarias para la debida prestación de este servicio.
+
+###### ARTICULO 48.
+
+Si una vez impuestas las sanciones a que se refieren los artículos anteriores y vencido el plazo en su caso concedido para subsanar la o las infracciones cometidas, resultare que dicha infracción o infracciones aun subsistieran, podrán imponerse multas por cada día que transcurra sin obedecer el mandato sin que el total de las multas que en estos casos se impongan, exceda de veinte mil días de salario mínimo general vigente en el Distrito Federal en el momento de imponer la sanción.
+
+En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido.
+
+En los casos en que el infractor solucionare la causa que dio origen al desequilibrio ecológico o deterioro al ambiente, la Secretaría podrá modificar o revocar la sanción impuesta.
+
+###### ARTICULO 49.
+
+La Secretaría podrá realizar los actos de inspección y vigilancia necesarios para verificar la debida observancia del Reglamento. Para los efectos establecidos en este artículo, la Secretaría estará a lo que dispongan los ordenamientos contenidos en el Título Sexto de la Ley.
+
+###### ARTICULO 50.
+
+Las infracciones en asuntos de competencia de las Entidades Federativas y de los Municipios, serán sancionadas administrativamente por las autoridades estatales, municipales o del Distrito Federal dentro de sus respectivas circunscripciones territoriales, conforme a lo dispuesto por los ordenamientos locales aplicables.
+
+###### ARTICULO 51.
+
+Cuando por infracción a las disposiciones de la Ley y el Reglamento en materia de contaminación a la atmósfera se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la Secretaría la formulación de un dictamen técnico al respecto.
+
+###### ARTICULO 52.
+
+Toda persona podrá denunciar ante la Secretaría, o ante las autoridades federales o locales según su competencia, todo hecho, acto u omisión de competencia de la Federación, que produzca desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la Ley y del Reglamento en materia de contaminación atmosférica.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento para la Prevención y Control de la Contaminación Atmosférica Originada por la Emisión de Humos y Polvos, del 8 de septiembre de 1971, publicado en el Diario Oficial de la Federación del 17 de septiembre de 1971, y se derogan las demás disposiciones que se opongan a lo dispuesto por el presente Reglamento.
+
+###### ARTICULO TERCERO.
+
+Las personas físicas o morales públicas o privadas que a la fecha de entrada en vigor del presente ordenamiento, operen o administren bajo cualquier título jurídico alguna de las fuentes de jurisdicción federal o de las fuentes ubicadas en zonas de jurisdicción federal a que se refiere este Reglamento, contarán con un plazo de 90 días naturales para presentar los documentos y cumplir con las obligaciones exigidas en el mismo, salvo cuando las mismas obligaciones hubieren sido ya satisfechas en cumplimiento de las disposiciones que se derogan.
+
+###### ARTICULO CUARTO.
+
+Los procedimientos y recursos administrativos que estuvieren en curso al entrar en vigor el Reglamento, se continuarán conforme a las disposiciones que les dieron origen.
+
+###### ARTICULO QUINTO.
+
+Hasta en tanto la Secretaría expida formatos, instructivos y manuales a los que se refiere el Reglamento, los interesados en llevar a cabo procedimientos conforme al mismo, presentarán por escrito además de la información que en este ordenamiento se señale la que en su oportunidad les requiera la Secretaría.
+
+###### ARTICULO SEXTO.
+
+Hasta en tanto las legislaturas locales dicten las leyes y, en su caso, los Ayuntamientos las ordenanzas, reglamentos y bandos de policía y buen gobierno, para prevenir y controlar la contaminación atmosférica en asuntos que conforme a la Ley son de competencia de Estados y Municipios, corresponderá a la Federación aplicar el Reglamento en el ámbito local, coordinándose para ello con las autoridades estatales y, con su participación, con los Municipios que correspondan, según el caso.
+
+En el caso del Distrito Federal, corresponderá al Departamento del Distrito Federal aplicar el Reglamento en asuntos de competencia local.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Gabino Fraga Mouret.- Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
