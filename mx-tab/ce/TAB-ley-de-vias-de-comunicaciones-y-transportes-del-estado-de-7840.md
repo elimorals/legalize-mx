@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-vias-de-comunicaciones-y-transportes-del-estado-de-7840"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-01"
-last_updated: "1984-08-01"
+last_updated: "1989-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE VIAS DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1984.
 
@@ -137,7 +137,9 @@ IV. Servicio Exclusivo de Turismo, el que tiene como finalidad trasladar a las p
 
 V. Servicio Público de automóviles de alquiler (TAXI) hasta de cinco pasajeros, el destinado a la transportación de personas, sin itinerario fijo y con tarifas por viaje a los que se sujetarán los prestadores de servicio. En los viajes foráneos el cobro se hará por convenio entre ambas partes;
 
-VI. Servicio de arrendadora de automóviles, el que tiene como finalidad la renta de automóviles sin chofer para que sea manejado por el arrendatario o la persona que designe; el cobro por servicio estará contratado por kilometraje recorrido, más tiempo de uso (días, semana o mes). El contrato expidan las empresas que se dediquen a este tipo de servicio, debe ser aprobado previamente por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+VI. Servicio de arrendadora de automóviles, el que tiene como finalidad la renta de automóviles sin chofer para que sea manejado por el arrendatario o la persona que designe; el cobro por servicio estará contratado por kilometraje recorrido, más tiempo de uso (días, semana o mes). El contrato expidan las empresas que se dediquen a este tipo de servicio, debe ser aprobado previamente por la Secretaría de Gobierno;
 
 VII. Servicio Público de Transporte de carga, el destinado a la transportación de cosas, mercancías, productos agrícolas, materiales de construcción y objetos en general, en los términos y condiciones que señale la Ley;
 
@@ -145,25 +147,35 @@ El acarreo de los materiales de construcción a granel, será en vehículos tipo
 
 VIII. Servicio Público Express, la transportación en vehículos cerrados, de pequeños bultos y paquetes que contengan mercancía en general:
 
-IX. Servicio Público de Transporte de Carga Especial, aquel que requiere mayor especialización del conductor y del vehículo para su traslado en virtud de las precauciones que se tengan que tomar, establecidas en cada caso por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS y la Dirección General de Seguridad Pública y Tránsito del Estado. Dentro de estos servicios queda, incluido el transporte de explosivos, materias inflamables, productos químicos, elementos radioactivos, etc.;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+IX. Servicio Público de Transporte de Carga Especial, aquel que requiere mayor especialización del conductor y del vehículo para su traslado en virtud de las precauciones que se tengan que tomar, establecidas en cada caso por la Secretaría de Gobierno y la Dirección General de Tránsito del Estado. Dentro de estos servicios queda, incluido el transporte de explosivos, materias inflamables, productos químicos, elementos radioactivos, etc.;
 
 X. Servicio Mixto, el que se presta para el transporte de personas y cosas en un mismo vehículo que satisfaga las características que determine el reglamento para esta clase de servicio;
 
-XI. Por servicio público de camiones y camionetas de carga, el que se haga dentro del perímetro urbano sin estar sujeto a itinerarios fijos. Operará como oferta al público desde los lugares que previamente les señale la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS en coordinación con la Dirección General de Seguridad Pública y Tránsito del Estado;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
 
-XII. Servicio de Grúas, el acarreo de vehículos dañados que a juicio de las autoridades de la Dirección General de Seguridad Pública y Tránsito del Estado deben ser retirados de la vía Pública.
+XI. Por servicio público de camiones y camionetas de carga, el que se haga dentro del perímetro urbano sin estar sujeto a itinerarios fijos. Operará como oferta al público desde los lugares que previamente les señale la Secretaría de Gobierno en coordinación con la Dirección General de Tránsito del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+XII. Servicio de Grúas, el acarreo de vehículos dañados que a juicio de las autoridades de la Dirección General de Tránsito del Estado deben ser retirados de la vía Pública.
 
 Los servicios de transporte urbano, suburbano y foráneo de pasajeros pueden ser de primera y segunda clase definiéndose por las tarifas que se aplique, la celeridad de los viajes y la comodidad ofrecida a los usuarios. En transporte público de primera clase está prohibido llevar pasajeros de pie, debiéndose vender los asientos numerados. En el de segunda clase podrán viajar pasajeros de pie hasta en un treinta por ciento sobre el número de asientos de la unidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 15.
 
-Para el transporte foráneo de carga y pasaje, los concesionarios podrán celebrar convenios entre si con objeto de intercambiar las rutas o turnarse los servicios sobre las mismas con la finalidad de procurar la mejor prestación del servicio a los usuarios de los medios de autotransporte, proveer la satisfacción de las necesidades presentes y futuras en la materia, y evitar, en los términos de esta Ley, las competencias desleales, desorganización de sistemas y perjuicio para los inversionistas. La celebración de estos convenios serán sancionados por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS.
+Para el transporte foráneo de carga y pasaje, los concesionarios podrán celebrar convenios entre si con objeto de intercambiar las rutas o turnarse los servicios sobre las mismas con la finalidad de procurar la mejor prestación del servicio a los usuarios de los medios de autotransporte, proveer la satisfacción de las necesidades presentes y futuras en la materia, y evitar, en los términos de esta Ley, las competencias desleales, desorganización de sistemas y perjuicio para los inversionistas. La celebración de estos convenios serán sancionados por la Secretaría de Gobierno.
 
 En ningún caso se celebrarán convenios con otras asociaciones, sociedades o uniones que limiten u obstaculicen los celebrados con anterioridad y que se encuentren en vigor.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 16.
 
-Para la modificación o anulación de los convenios se requerirá acuerdo entre las partes con intervención de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS.
+Para la modificación o anulación de los convenios se requerirá acuerdo entre las partes con intervención de la Secretaría de Gobierno.
 
 ###### Artículo 17.
 
@@ -175,13 +187,17 @@ Queda prohibido a los propietarios y conductores de estos vehículos, utilizar l
 
 Los conductores de vehículos de transporte de carga podrán efectuar maniobras de carga y descarga en la vía pública, únicamente durante los horarios y en las zonas y calles que determinen las autoridades en la materia.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 19.
 
-La SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS auxiliada por la Dirección General de Seguridad Pública y Tránsito del Estado, verificarán periódicamente la correcta operación de las concesiones, instrumentando las medidas que juzgue conveniente.
+La Secretaría de Gobierno auxiliada por la Dirección General de Tránsito del Estado, verificarán periódicamente la correcta operación de las concesiones, instrumentando las medidas que juzgue conveniente.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### Artículo 20.
 
-Para los efectos, del artículo anterior, los vehículos deberán ser registrados en la Dirección de General de Seguridad Pública y Tránsito del Estado o dependencia que ésta señale, misma que proporcionará copia de dicho registro a la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS.
+Para los efectos, del artículo anterior, los vehículos deberán ser registrados en la Dirección de General de Tránsito del Estado o dependencia que ésta señale, misma que proporcionará copia de dicho registro a la Secretaría de Gobierno.
 
 ###### Artículo 21.
 
@@ -189,11 +205,13 @@ La matrícula de identificación que se expida, deberá de ser colocada en lugar
 
 ### CAPITULO II. DE LAS CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 22.
 
-Las concesión del servicio de transporte es la autorización que otorga el Ejecutivo Estatal por conducto de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS en los términos de esta Ley, para prestar al público mediante el pago de una remuneración autorizada, la transportación de personas o cosas, en las vías de comunicaciones estatales; en la que deberá especificar la ruta estatal, la clase de servicio y el número de unidades para la operación de la ruta concesionada.
+La concesión del servicio de transporte es la autorización que otorga el Ejecutivo Estatal por conducto de la Secretaría de Gobierno en los términos de esta Ley, para prestar al público mediante el pago de una remuneración autorizada, la transportación de personas o cosas, en las vías de comunicaciones estatales; en la que deberá especificar la ruta estatal, la clase de servicio y el número de unidades para la operación de la ruta concesionada.
 
-Para cada uno de los vehículos autorizados deberá obtenerse en Dirección General de Seguridad Pública y Tránsito del Estado el permiso de ruta correspondiente en el cual se expresará la ruta autorizada, la clase de servicio, el horario, tarifa y las características del vehículo.
+Para cada uno de los vehículos autorizados deberá obtenerse en Dirección General de Tránsito del Estado el permiso de ruta correspondiente en el cual se expresará la ruta autorizada, la clase de servicio, el horario, tarifa y las características del vehículo.
 
 ###### Artículo 23.
 
@@ -207,9 +225,11 @@ III. Permiso de Rutas: Son las autorizaciones individuales que en virtud de una 
 
 IV. Permisos Emergentes: son autorizaciones temporales para atender demandas extraordinarias de transportes, superiores a la capacidad de los servicios concesionados, renovables sí subsisten las condiciones que motivan su expedición y regularizables a través de una concesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 24.
 
-La SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, podrá otorgar permisos emergentes, preferentemente, en igualdad de condiciones, a los concesionarios de las rutas establecidas, a los de las rutas más próximas o en defecto de estos, a otros concesionarios.
+La Secretaría de Gobierno, podrá otorgar permisos emergentes, preferentemente, en igualdad de condiciones, a los concesionarios de las rutas establecidas, a los de las rutas más próximas o en defecto de estos, a otros concesionarios.
 
 Las cuotas que se cobren no serán superiores a las autorizadas para el servicio ordinario.
 
@@ -269,6 +289,8 @@ I. Que el Ejecutivo del Estado declare la existencia de una necesidad pública d
 
 II. Que el interesado en obtenerla, cumpla los siguientes requisitos:
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 a) Si se trata de personas físicas:
 
 - Ser mexicano de nacimiento.
@@ -279,13 +301,15 @@ a) Si se trata de personas físicas:
 
 - Formular la solicitud respectiva.
 
-- Satisfacer las condiciones especialmente señaladas para el caso por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS.
+- Satisfacer las condiciones especialmente señaladas para el caso por la Secretaría de Gobierno.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 b) Si se trata de personas morales:
 
 Comprobar que están organizadas conforme a las leyes del país y constituidas exclusivamente por socios mexicanos de nacimiento; para lo cual deberán acompañar a su solicitud las bases constitutivas que justifiquen su existencia.
 
-Cumplir con las condiciones señaladas específicamente para el caso por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS.
+Cumplir con las condiciones señaladas específicamente para el caso por la Secretaría de Gobierno.
 
 Formular la solicitud respectiva.
 
@@ -311,7 +335,9 @@ b) Que hayan observado con todas regularidades las tarifas, itinerarios, horario
 
 c) Que hayan prestado su cooperación para la construcción, mejoramiento y ampliación de las vías públicas del Estado;
 
-II. Cuando uno de los peticionarios ya esté prestando el servicio en la ruta de que se trate y otro no, se preferirá a quien a juicio de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, garantice un mejor servicio, tomando en consideración el equipo del primero y el que pretende utilizar el segundo, y que reúnan además otros factores que aseguren la eficiencia en el servicio;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+II. Cuando uno de los peticionarios ya esté prestando el servicio en la ruta de que se trate y otro no, se preferirá a quien a juicio de la Secretaría de Gobierno, garantice un mejor servicio, tomando en consideración el equipo del primero y el que pretende utilizar el segundo, y que reúnan además otros factores que aseguren la eficiencia en el servicio;
 
 III. Cuando los peticionarios no estén prestando servicio en la ruta de que se trata, la preferencia se determinará conforme a la fracción anterior;
 
@@ -321,7 +347,9 @@ EL SERVICIO SIN RUTA
 
 V. Cuando uno de los peticionarios ya esté prestando el servicio público de transporte en vehículos de transporte de alquiler, se preferirá a los que reúnan los requisitos establecidos en la fracción I de este artículo, excepto en lo preferente a itinerarios y horarios;
 
-VI. Cuando los peticionarios ya estén prestando el servicio de que se trata, se preferirá a quien a juicio de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, garantice un mejor servicio, tomando en consideración el equipo del primero y el que pretende utilizar el segundo y que reúna además otros factores que aseguren eficiencia en el servicio;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+VI. Cuando los peticionarios ya estén prestando el servicio de que se trata, se preferirá a quien a juicio de la Secretaría de Gobierno, garantice un mejor servicio, tomando en consideración el equipo del primero y el que pretende utilizar el segundo y que reúna además otros factores que aseguren eficiencia en el servicio;
 
 VII. Cuando los peticionarios no estén prestando esa clase de servicios, la preferencia se determina conforme a la fracción anterior.
 
@@ -371,15 +399,21 @@ II. Cumplir con los horarios, rutas, itinerarios, territorios de operación y ta
 
 III. Mantener los vehículos, terminales, bases de operación y servicios conexos en condiciones de seguridad, higiene y aptitud para el servicio;
 
-IV. Emplear personal que cumpla con los requisitos de eficiencia exigidos por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+IV. Emplear personal que cumpla con los requisitos de eficiencia exigidos por la Secretaría de Gobierno;
 
 V. Exigir del personal el trato correcto a los usuarios;
 
 VI. Garantizar a los usuarios de los daños que se les pudiera causar con el motivo del servicio; para lo cual deberán constar con seguro del viajero por cada unidad que ampara la concesión o permiso, igual al que establece la Ley de Vías Generales de Comunicación;
 
-VII. Permitir a las Autoridades de Tránsito del Estado, la inspección de las unidades: a la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, la de las instalaciones y documentos relacionadas con las concesiones;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
 
-VIII. Permitir a las autoridades de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, la inspección de los libros de contabilidad y documentación relacionadas con las concesiones;
+VII. Permitir a las Autoridades de Tránsito del Estado, la inspección de las unidades: a la Secretaría de Gobierno, la de las instalaciones y documentos relacionadas con las concesiones;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+VIII. Permitir a las autoridades de la Secretaría de Gobierno, la inspección de los libros de contabilidad y documentación relacionadas con las concesiones;
 
 IX. Establecer dentro del territorio del Estado su domicilio, preferentemente en sus terminales u oficinas administrativas;
 
@@ -395,7 +429,9 @@ I. Explotar el servicio público concesionado;
 
 II. Cobrar a los usuarios las tarifas aprobadas;
 
-III. Proponer a las autoridades de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, medidas que tiendan a mejorar el servicio y el aprovechamiento correcto de sus equipos e instalaciones;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+III. Proponer a las autoridades de la Secretaría de Gobierno medidas que tiendan a mejorar el servicio y el aprovechamiento correcto de sus equipos e instalaciones;
 
 IV. Obtener de las autoridades el auxilio necesario para el ejercicio de los derechos que se le confieren en las fracciones I y II, y para remover cualquier obstáculo o impedimento en la prestación del servicio o evitar la competencia desleal de otros permisionarios o concesionarios.
 
@@ -419,13 +455,17 @@ I. No cumplir con las condiciones y modalidades en la prestación del servicio s
 
 II. Carecer de personal capacitado para la operación del servicio;
 
-III. Transferir la concesión sin permiso de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+III. Transferir la concesión sin permiso de la Secretaría de Gobierno;
 
 IV. Arrendar, dar en comodato o en usufructo la misma, y en general por no prestar los servicios en los términos del artículo 37;
 
 V. Abandonar el servicio concesionado más de 15 días;
 
-VI. No renovar oportunamente el equipo o instalaciones en los plazos señalados por la concesión o fijados por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, cuando aquellos dejen de ser adecuados para la prestación del servicio;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+VI. No renovar oportunamente el equipo o instalaciones en los plazos señalados por la concesión o fijados por la Secretaría de Gobierno, cuando aquellos dejen de ser adecuados para la prestación del servicio;
 
 VII. Violaciones graves a las disposiciones de tránsito y vialidad.
 
@@ -441,9 +481,11 @@ II. La violación grave a las disposiciones de la presente Ley.
 
 Las causas de pérdidas previstas para las concesiones, en lo conducente generan también la de los permisos.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 43.
 
-La resolución de cancelación de una concesión o permiso, la dictará la Dirección de Comunicaciones y Transportes de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, coordinadamente con la Dirección General de Seguridad Pública y Tránsito, sin perjuicio de que se sancionen las infracciones que se hubieren cometido.
+La resolución de cancelación de una concesión o permiso, la dictará la Dirección de Comunicaciones y Transportes de la Secretaría de Gobierno, coordinadamente con la Dirección General de Tránsito, sin perjuicio de que se sancionen las infracciones que se hubieren cometido.
 
 ###### Artículo 44.
 
@@ -453,23 +495,31 @@ Para decretar la pérdida o cancelación de una concesión o permiso, se notific
 
 La causa de pérdida a que se refiere el artículo 39 en su fracción I, opera de pleno derecho por el simple transcurso del tiempo, no obstante a petición formulada por los concesionarios un mes antes de la expiración del plazo se prorrogará siempre que subsista la necesidad del servicio, las instalaciones y equipos hubiesen sido renovados para satisfacerla durante el tiempo de la prórroga y se haya prestado el servicio por el solicitante de manera eficiente.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 46.
 
-Los comerciantes, industriales, agricultores, ganaderos, y las personas que por el ejercicio de alguna actividad de interés social tengan necesidad de Transportar sus productos a las zonas de distribución y consumo o requieran el uso de sus vehículos para el cumplimiento de sus fines podrán hacerlo usando las vías públicas a que se refiere esta Ley, mediante permiso expedido por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS. Este permiso podrá ser cancelado si se comprueba que el usuario ejecuta servicios ajenos a los que le han autorizado. La misma Secretaría podrá expedir permisos provisionales en aquellos casos que aunque no estén comprendidos dentro de esta Ley, vengan a satisfacer alguna necesidad aleatoria en la transportación de personas y cosas.
+Los comerciantes, industriales, agricultores, ganaderos, y las personas que por el ejercicio de alguna actividad de interés social tengan necesidad de Transportar sus productos a las zonas de distribución y consumo o requieran el uso de sus vehículos para el cumplimiento de sus fines podrán hacerlo usando las vías públicas a que se refiere esta Ley, mediante permiso expedido por la Secretaría de Gobierno. Este permiso podrá ser cancelado si se comprueba que el usuario ejecuta servicios ajenos a los que le han autorizado. La misma Secretaría podrá expedir permisos provisionales en aquellos casos que aunque no estén comprendidos dentro de esta Ley, vengan a satisfacer alguna necesidad aleatoria en la transportación de personas y cosas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### Artículo 47.
 
-Los concesionarios de autotransporte sobre Vías Locales pueden organizarse en uniones, asociaciones o sociedades permitidas por la Ley. Los servicios prestados por automóviles de alquiler serán sin ruta fija, circulando en forma permanente dentro del perímetro de la ciudad o a base de sitios establecidos dentro de los propios perímetros y fijados por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, a donde el público puede ocurrir para la contratación de estos servicios siendo obligación de la Dirección General de Seguridad Pública y Tránsito del Estado, vigilar que se cumpla la localización y operación de estos sitios.
+Los concesionarios de autotransporte sobre Vías Locales pueden organizarse en uniones, asociaciones o sociedades permitidas por la Ley. Los servicios prestados por automóviles de alquiler serán sin ruta fija, circulando en forma permanente dentro del perímetro de la ciudad o a base de sitios establecidos dentro de los propios perímetros y fijados por la Secretaría de Gobierno, a donde el público puede ocurrir para la contratación de estos servicios siendo obligación de la Dirección General de Tránsito del Estado, vigilar que se cumpla la localización y operación de estos sitios.
 
-La SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, podrá cambiar la ubicación de cualquier sitio autorizado o cancelarlo según las necesidades del servicio y los prestadores del mismo están obligados a:
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+La Secretaría de Gobierno, podrá cambiar la ubicación de cualquier sitio autorizado o cancelarlo según las necesidades del servicio y los prestadores del mismo están obligados a:
 
 I. Impedir que en los lugares señalados para el sitio se hagan reparaciones a los vehículos;
 
 II. Vigilar que los vehículos se estacionen precisamente dentro de la zona señalada al efecto;
 
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
 III. Fijar en los lugares visibles del sitio, una señal informativa en la que aparezca inscrito el número que se haya asignado al mismo;
 
-Dicha señal deberá tener las especificaciones que determine la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS.
+Dicha señal deberá tener las especificaciones que determine la Secretaría de Gobierno.
 
 IV. Conservar limpia el área asignada para el sitio y las zonas correspondientes;
 
@@ -479,7 +529,9 @@ VI. Dar aviso cuando se suspenda temporal o definitivamente el servicio;
 
 VII. Fijar en la parte superior de los vehículos a su cargo un letrero luminoso que ostente la leyenda "TAXI" y en las partes anterior, posterior y lateral el número económico del mismo;
 
-VIII. Cuando los sitios cuenten con sistemas de comunicación por radio, deberán tener libro autorizado por la Dirección General de Seguridad Pública y Tránsito para que se registren los servicios que los conductores presten al público.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+VIII. Cuando los sitios cuenten con sistemas de comunicación por radio, deberán tener libro autorizado por la Dirección General de Tránsito para que se registren los servicios que los conductores presten al público.
 
 ### CAPITULO III. DE LAS ESTACIONES TERMINALES
 
@@ -531,17 +583,21 @@ En los itinerarios se fijarán el número de kilómetros por recorrerse, toleran
 
 Se entiende por horario el señalamiento de la hora de salida y llegada de los vehículos de servicio público.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 56.
 
-La SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS en los dos primeros meses de cada año estudiará, y en su caso aprobará los proyectos de horario que le remitan los concesionarios estatales, y procurará evitar que dichos horarios constituyan casos de competencias desleal o que lesionen el interés público.
+La Secretaría de Gobierno en los dos primeros meses de cada año estudiará, y en su caso aprobará los proyectos de horario que le remitan los concesionarios estatales, y procurará evitar que dichos horarios constituyan casos de competencias desleal o que lesionen el interés público.
 
 ###### Artículo 57.
 
 Tarifa.- Es la base escrita para el cobro de los servicios prestados al público por los concesionarios de los diferentes servicios de autotransporte público.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 58.
 
-Las tarifas, horarios e itinerarios, serán fijados por la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, la que procurará que corresponda siempre a un criterio técnico uniforme, tomando en cuenta la zona donde habrán de prestarse los servicios y las necesidades del mismo, debiendo ser fijados en lugar visible en el interior de los vehículos.
+Las tarifas, horarios e itinerarios, serán fijados por la Secretaría de Gobierno, la que procurará que corresponda siempre a un criterio técnico uniforme, tomando en cuenta la zona donde habrán de prestarse los servicios y las necesidades del mismo, debiendo ser fijados en lugar visible en el interior de los vehículos.
 
 ###### Artículo 59.
 
@@ -555,13 +611,17 @@ La unidad técnica que servirá de base para la fijación de tarifas, será el k
 
 Los miembros de los cuerpos de Seguridad Pública y Tránsito del Estado, debidamente acreditados, gozarán de pasajes gratuitos en los vehículos concesionados.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 62.
 
-Los concesionarios del autotransporte público solicitarán de la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS la aprobación de convenios con organizaciones magistrales, estudiantiles, de trabajadores, turísticas, etc, que modifiquen sus tarifas y las reduzcan por caso de cooperación con estos organismos.
+Los concesionarios del autotransporte público solicitarán de la Secretaría de Gobierno la aprobación de convenios con organizaciones magistrales, estudiantiles, de trabajadores, turísticas, etc, que modifiquen sus tarifas y las reduzcan por caso de cooperación con estos organismos.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### Artículo 63.
 
-En las clases o categorías de servicios no previstos por esta Ley, la SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS, podrá fijar las tarifas que estime conveniente, de acuerdo con los servicios que presten.
+En las clases o categorías de servicios no previstos por esta Ley, la Secretaría de Gobierno, podrá fijar las tarifas que estime conveniente, de acuerdo con los servicios que presten.
 
 ###### Artículo 64.
 
@@ -573,9 +633,11 @@ Para el fiel cumplimiento de esta disposición será obligatoria la entrega al u
 
 ### CAPITULO ÚNICO. DE LAS SANCIONES Y RECURSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 65.
 
-La SECRETARÍA DE COMUNICACIONES, ASENTAMIENTOS HUMANOS Y OBRAS PÚBLICAS a través de las dependencias encargadas de la aplicación de esta Ley conforme a sus respectivas competencias, podrá aplicar las siguientes sanciones:
+La Secretaría de Gobierno a través de las dependencias encargadas de la aplicación de esta Ley conforme a sus respectivas competencias, podrá aplicar las siguientes sanciones:
 
 I. Apercibimiento;
 
@@ -593,9 +655,11 @@ Contra las resoluciones que impongan sanciones o que afecten los intereses de al
 
 El recurso de revocación se interpondrá ante la misma autoridad que dictó la resolución, dentro del término de 15 días hábiles, contados a partir del siguiente al de la notificación de la resolución.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### Artículo 68.
 
-El recurso de revisión se interpondrá ante el Secretario de Comunicaciones, Asentamientos Humanos y Obras Públicas en un término de 15 días hábiles, contados a partir del día siguiente al de la notificación de la resolución; este recurso será procedente contra actos dictados en el recurso de revocación a que se refiere el artículo 67 de esta ley.
+El recurso de revisión se interpondrá ante el Secretario de Gobierno en un término de 15 días hábiles, contados a partir del día siguiente al de la notificación de la resolución; este recurso será procedente contra actos dictados en el recurso de revocación a que se refiere el artículo 67 de esta ley.
 
 ###### Artículo 69.
 
@@ -630,3 +694,9 @@ ENRIQUE GONZALEZ PEDRERO
 LIC. JOSÉ EDUARDO BELTRAN HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE ENERO DE 1989.
+
+PRIMERO.- estas reformas y adiciones entraran en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
