@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1995-03-27"
+last_updated: "1995-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -186,9 +186,9 @@ En las operaciones de factoraje financiero, se considerará interés la ganancia
 
 En los contratos de arrendamiento financiero, se considera interés la diferencia entre el total de pagos y el monto original de la inversión.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-Cuando los créditos, deudas, operaciones o el importe de los pagos de los contratos de arrendamiento financiero se ajusten mediante la aplicación de índices, factores o de cualquiera otra forma, se considerará el ajuste como parte del interés devengado.
+Cuando los créditos, deudas, operaciones o el importe de los pagos de los contratos de arrendamiento financiero se ajusten mediante la aplicación de índices, factores o de cualquier otra forma, se considerará el ajuste como parte del interés devengado. Tratándose de créditos, deudas, operaciones o el importe de los pagos de los contratos de arrendamiento financiero que se encuentren denominados en unidades de inversión, no se considerará interés el ajuste que se realice al principal por el hecho de estar denominados en las citadas unidades y no se les calculará el componente inflacionario previsto en esta Ley, siempre que se cumplan con las condiciones que, en su caso, establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -542,9 +542,9 @@ Los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan ex
 
 Tratándose del ejercicio de liquidación, los pagos provisionales se harán conforme a lo dispuesto en el artículo 11 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-Los ingresos nominales a que se refiere este artículo serán los ingresos acumulables, excepto la ganancia inflacionaria y considerando los ingresos por intereses y la ganancia cambiaria, sin restarles el componente inflacionario.
+Los ingresos nominales a que se refiere este artículo serán los ingresos acumulables, excepto la ganancia inflacionaria y considerando los ingresos por intereses y la ganancia cambiaria, sin restarles el componente inflacionario. Tratándose de créditos u operaciones denominados en unidades de inversión, se considerarán ingresos nominales, para efectos de este artículo, los intereses conforme se devenguen, incluyendo el ajuste que corresponda al principal por estar los créditos u operaciones denominados en dichas unidades.
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
@@ -3672,43 +3672,41 @@ Las personas que hagan pagos que sean ingresos para el contribuyente de los menc
 
 Las personas que efectúen las retenciones por los pagos a los contribuyentes a que se refiere el párrafo anterior, acreditarán contra el impuesto que resulte a cargo de los contribuyentes, en los términos del artículo 80, disminuido con el monto del subsidio que, en su caso, resulte aplicable en los términos del artículo 80-A de esta Ley por el mes de calendario de que se trate, el crédito al salario mensual que se obtenga al aplicar la siguiente tabla.
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 TABLA
 
-Monto de ingresos que sirven de base Crédito al Salario Mensual
+MONTO DE INGRESOS CREDITO AL SALARIO
 
-para calcular el impuesto
+QUE SIRVEN DE BASE MENSUAL
 
-Para Ingresos de Hasta Ingresos de
+PARA CALCULAR EL IMPUESTO
 
-$ $ $
+PARA HASTA
 
-0.01 689.14 158.57
+INGRESOS DE INGRESOS DE
 
-689.15 1014.71 158.50
+N$ N$ N$
 
-1014.72 1033.69 158.50
+0.01 464.21 92.38
 
-1033.70 1352.93 158.40
+464.22 683.52 98.46
 
-1352.94 1378.26 153.00
+683.53 696.31 94.05
 
-1378.27 1474.73 149.00
+696.32 911.35 99.84
 
-1474.74 1732.10 149.00
+911.36 928.42 89.33
 
-1732.11 1837.68 138.01
+928.43 1166.77 63.01
 
-1837.69 2078.53 126.57
+1166.78 1400.12 57.88
 
-2078.54 2424.97 114.77
+1400.13 1633.49 53.20
 
-2424.98 2771.37 98.76
+1633.50 1866.83 48.07
 
-2771.38 2875.95 84.77
-
-2875.96 En adelante 69.27
+1866.84 EN ADELANTE 46.66
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4496,9 +4494,9 @@ Cuando el monto del ajuste en el impuesto sea menor que el monto de los pagos pr
 
 Con el propósito de que los pagos provisionales mantengan relación con el impuesto definitivo a pagar, el monto de los mismos se podrá disminuir, en los casos y cumpliendo los requisitos que señale el Reglamento de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-Los ingresos nominales a que se refiere este artículo serán los ingresos acumulables, excepto la ganancia inflacionaria y considerando los ingresos por intereses y la ganancia cambiaria, sin restarles el componente inflacionario.
+Los ingresos nominales a que se refiere este artículo serán los ingresos acumulables, excepto la ganancia inflacionaria y considerando los ingresos por intereses y la ganancia cambiaria, sin restarles el componente inflacionario. Tratándose de créditos u operaciones denominados en unidades de inversión, se considerarán ingresos nominales, para efectos de este artículo, los intereses conforme se devenguen, incluyendo el ajuste que corresponda al principal por estar los créditos u operaciones denominados en dichas unidades.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -5292,19 +5290,39 @@ III.- Los obtenidos por la ganancia en la enajenación de bonos, valores y otros
 
 IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-También se considerará como interés la ganancia cambiaria que resulte por la fluctuación de moneda extranjera incluyendo la correspondiente al principal, en el ejercicio en que se devengue, tratándose de operaciones efectuadas en moneda extranjera pagaderas en moneda nacional, que en los términos de este artículo originen el pago de intereses.
+Se dará el tratamiento que este Capítulo establece para los intereses, a la ganancia cambiaria que resulte por la fluctuación de moneda extranjera incluyendo la correspondiente al principal, en el ejercicio en que se pague, tratándose de operaciones efectuadas en moneda extranjera pagaderas en moneda nacional, que en los términos de este artículo originen el pago de intereses.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 1995)</small>
+
+Cuando los créditos, deudas u operaciones se ajusten mediante la aplicación de índices, factores o de cualquiera otra forma, dicho ajuste se considerará como parte del interés para los efectos de este artículo. Tratándose de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión, no se considerará interés, para efectos de este Capítulo, el ajuste que se realice al principal por el hecho de estar denominados en las citadas unidades, siempre que se cumplan con las condiciones que, en su caso, establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 Cuando los ingresos provenientes de certificados de participación ordinarios no sean intereses, se estará a lo dispuesto en los demás Capítulo de este Título.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 126.
 
-Quienes paguen los ingresos señalados en el artículo anterior están obligados a retener el impuesto a la tasa del 20% sobre los diez primeros puntos porcentuales de los intereses pagados, sin deducción alguna, mismo que tendrá el carácter de pago definitivo. Se libera de la obligación de retener a que se refiere este párrafo a quienes hagan el pago de intereses señalados en la fracción III del artículo 125 de esta Ley.
+Quienes paguen los ingresos señalados en el artículo anterior están obligados a retener el impuesto conforme a lo siguiente:
 
-Tratándose de títulos de Crédito a que se refiere el artículo 125, fracción III, de esta Ley, que se enajenen con intervención de casas de bolsa, el impuesto se retendrá por dichas casas de bolsa y será del 20% sobre los primeros diez puntos porcentuales, sin deducción alguna y tendrá el carácter de definitivo.
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 1995)</small>
+
+I.- A la tasa del 20% sobre los diez primeros puntos porcentuales de los intereses pagados. Se libera de la obligación de retener a que se refiere esta fracción a quienes hagan el pago de intereses señalados en la fracción III del artículo 125 de esta Ley.
+
+Tratándose de los títulos de crédito a que se refiere el artículo 125, fracción III de esta Ley, que se enajenen con intervención de casas de bolsa, el impuesto se retendrá por dichas casas de bolsa y será del 20% sobre los primeros diez puntos porcentuales.
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 1995)</small>
+
+II.- A la tasa del 15% sobre los intereses que se paguen, cuando los créditos, deudas u operaciones de los cuales deriven estén denominados en unidades de inversión. Se libera de la obligación de retener a que se refiere esta fracción a quienes hagan el pago de intereses señalados en la fracción III del artículo 125 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
+
+Tratándose de los títulos de crédito a que se refiere el artículo 125, fracción III de esta Ley denominados en unidades de inversión que se enajenen con intervención de casas de bolsa, el impuesto se retendrá por dichas casas de bolsa y será del 15% sobre los intereses que se paguen.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 1995)</small>
+
+Las retenciones que se hagan en los términos de este artículo serán sobre el total de los intereses a que se refieren sus fracciones, sin deducción alguna, y tendrán el carácter de pago definitivo.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -5450,25 +5468,37 @@ c) Si la adjudicación se hace a un tercero, se consideran intereses vencidos la
 
 Para los efectos de esta fracción las autoridades fiscales podrán tomar como valor de los bienes el del avalúo que ordenen practicar o el valor que haya servido de base para la primera almoneda.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-El monto de los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo se podrá determinar de conformidad con lo previsto en el artículo 7o-B de esta Ley y no será deducible la pérdida inflacionaria que, en su caso, se obtenga.
+El monto de los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo se podrá determinar de conformidad con lo previsto en el artículo 7o-B de esta Ley y no será deducible la pérdida inflacionaria que, en su caso, se obtenga. Tratándose de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión no será acumulable, para efectos de este Capítulo, el ajuste que se realice al principal por el hecho de estar denominados en las citadas unidades, siempre que se cumplan con las condiciones que, en su caso, establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 II.- El perdón total o parcial del capital o de los intereses adeudados, cuando el acreedor (sic) derechos en contra del deudor, da lugar al pago del impuesto por parte del deudor sobre el capital y los intereses perdonados.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 1995)</small>
+
+###### ARTICULO 134-A.
+
+Los contribuyentes que obtengan ingresos de los señalados en el artículo 134 de esta ley, en forma periódica o esporádica, efectuarán pagos provisionales a cuenta del impuesto anual aplicando la tarifa del artículo 80 de esta Ley, a los ingresos obtenidos en el mes, sin deducción alguna. Cuando se trate de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión, o cuando los contribuyentes opten por determinar los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo, de conformidad con lo previsto en el artículo 7o.-B de esta Ley, cubrirán como pago provisional a cuenta del impuesto anual el que resulte de aplicar la tarifa del referido artículo 80, a los intereses y la ganancia cambiaria acumulables obtenidos en el mes, ya sea que el ingreso se haya percibido en forma periódica o esporádica o, podrán optar por cubrir como pago provisional el 35% sobre los intereses y la ganancia cambiaria acumulables siempre que el ingreso se perciba en forma esporádica.
+
+En el supuesto de que los ingresos a que se refiere este artículo los obtengan los contribuyentes en forma periódica, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda, mediante declaración que presentarán ante las oficinas autorizadas, cuando los ingresos a que se refiere este artículo los obtenga el contribuyente en forma esporádica, el pago provisional se hará mediante declaración que presentarán ante las citadas oficinas dentro de los quince días siguientes a la obtención del ingreso.
+
+Cuando los ingresos a que se refiere este artículo se obtengan por pagos que efectúen las personas morales a que se refieren los títulos II, II-A y III de esta Ley, dichas personas deberán retener como pago provisional el 20% sobre el monto de los mismos sin deducción alguna. Cuando se trate de créditos, deudas u operaciones que se encuentren denominados en unidades de inversión, o cuando las personas que obtengan los intereses y la ganancia cambiaria previstos en el artículo 134 de esta Ley les comuniquen a las personas que les efectúen el pago de los mismos que optan por acumularlos de conformidad con lo previsto en el artículo 7o.-B de esta Ley, la retención se efectuará aplicando el 35% sobre el monto de los intereses y la ganancia cambiaria acumulables que se perciban en los términos de este Capítulo. Las personas que hagan la retención en los términos de este párrafo deberán proporcionar a los contribuyentes constancia de la retención. Dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de la propia Ley.
+
+Contra los pagos provisionales que los contribuyentes determinen conforme a lo dispuesto por este artículo, podrán acreditarse las cantidades retenidas en los términos del párrafo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 135.
 
-Los contribuyentes que obtengan en forma esporádica ingresos de los señalados en este Capítulo, cubrirán como pago provisional a cuenta del impuesto anual, el 20% del ingreso percibido, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso.
+Los contribuyentes que obtengan en forma esporádica ingresos de los señalados en este Capítulo, salvo aquellos a que se refiere el artículo 134 de esta Ley, cubrirán como pago provisional a cuenta del impuesto anual, el 20% del ingreso percibido, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-Los contribuyentes que obtengan periódicamente ingresos de los señalados en este Capítulo, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 80 de esta Ley a los ingresos obtenidos en el mes, sin deducción alguna; contra dicho pago podrán acreditarse las cantidades retenidas en los términos del siguiente párrafo.
+Los contribuyentes que obtengan periódicamente ingresos de los señalados en este Capítulo, salvo aquellos a que se refiere el artículo 134 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 80 de esta Ley a los ingresos obtenidos en el mes, sin deducción alguna, contra dicho pago podrán acreditarse las cantidades retenidas en los términos del siguiente párrafo.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-Cuando los ingresos a que se refiere este Capítulo se obtengan por pagos que efectúen las personas morales a que se refieren los Títulos II, II-A y III de esta Ley, dichas personas deberán retener como pago provisional el 20% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de la propia Ley.
+Cuando los ingresos a que se refiere este Capítulo, salvo aquellos a que se refiere el artículo 134 de esta Ley, se obtengan por pagos que efectúen las personas morales a que se refieren los Títulos II, II-A y III de esta Ley, dichas personas deberán retener como pago provisional el 20% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención, dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de la propia Ley.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -5483,6 +5513,8 @@ Con el propósito de que el pago provisional mantenga relación con el impuesto 
 Las personas que efectúen las retenciones a que se refieren los párrafos terceros y cuarto de este artículo, así como las instituciones de crédito ante las cuales se constituyan las cuentas personales para el ahorro a que se refiere el artículo 165 de esta Ley, deberán presentar declaración ante las oficinas autorizadas en el mes de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior, debiendo aclarar en el caso de las instituciones de crédito, el monto que corresponda al retiro que se efectúe de las citadas cuentas.
 
 > <small>(DEROGADO ANTEPENULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Cuando las personas que efectúen los pagos a que se refiere la fracción XI del artículo 133 de esta Ley, paguen al contribuyente, además, ingresos de los señalados en el Capítulo I de este Título, los ingresos a que se refiere la citada fracción XI, se considerarán como salarios para los efectos de este Título.
 
@@ -6330,9 +6362,9 @@ Tratándose de ingresos por intereses se considerará que la fuente de riqueza s
 
 También se considera que la fuente de riqueza se encuentra en territorio nacional tratándose de operaciones financieras derivadas de deuda a que se refiere el artículo 7o-D de esta Ley, cuando dichas operaciones se celebren respecto de créditos o instrumentos por los que se deriven ingresos de los mencionados en el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 1995)</small>
 
-Para los efectos de este artículo se consideran intereses, cualquiera que sea el nombre con que se les designe, los rendimientos de créditos de cualquier clase, con o sin garantía hipotecaria y con derecho o no a participar en los beneficios; los rendimientos de la deuda pública, de los bonos u obligaciones incluyendo primas y premios asimilados a los rendimientos de tales valores, así como descuentos por la colocación de títulos valor, bonos u obligaciones; las comisiones o pagos que se efectúen con motivo de apertura o garantía de créditos; los, pagos que se realicen a un tercero con motivo de la aceptación de un aval, del otorgamiento de una garantía o de la responsabilidad de cualquier clase. También se considerarán intereses la prima o ganancia que se derive de enajenaciones a futuro de monedas extranjeras, salvo que estén vinculadas con la exportación o importación de bienes tangibles, distintos de moneda extranjera así como la ganancia que derive de la enajenación de los documentos señalados en la fracción III del artículo 125 de esta Ley.
+Para los efectos de este artículo se consideran intereses, cualquiera que sea el nombre con que se les designe, los rendimientos de créditos de cualquier clase, con o sin garantía hipotecaria y con derecho o no a participar en los beneficios; los rendimientos de la deuda pública, de los bonos u obligaciones incluyendo primas y premios asimilados a los rendimientos de tales valores, así como descuentos por la colocación de títulos valor, bonos u obligaciones; las comisiones o pagos que se efectúen con motivo de apertura o garantía de créditos; los pagos que se realicen a un tercero con motivo de la aceptación de un aval, del otorgamiento de una garantía o de la responsabilidad de cualquier clase. Asimismo, se considerarán intereses la prima o ganancia que se derive de enajenaciones a futuro de monedas extranjeras, salvo que estén vinculadas con la exportación o importación de bienes tangibles, distintos de moneda extranjera así como la ganancia que derive de la enajenación de los documentos señalados en la fracción III del artículo 125 de esta Ley. También se consideran intereses, los ajustes que se realicen mediante la aplicación de índices, factores o de cualquier otra forma, inclusive los ajustes que se realicen al principal por el hecho de que los créditos u operaciones estén denominados en unidades de inversión.
 
 > <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -10965,3 +10997,9 @@ Los contribuyentes que ejerzan la opción prevista en el ARTICULO SEGUNDO de est
 UNICO.- La presente Ley entrará en vigor el día 1o. de abril de 1995.
 
 (VEASE TABLA ANEXA)
+
+D.O.F. 1 DE ABRIL DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las obligaciones contraídas conforme a las normas previstas en el artículo primero del presente Decreto no les son aplicables las disposiciones que se opongan a dichas normas.
