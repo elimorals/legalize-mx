@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2000-03-10"
+last_updated: "2005-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -257,9 +257,17 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
 
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud, y;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XVI. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XVI.- Conocer de los casos clínicos que presenten muerte cerebral, pudiendo dar seguimiento a aquéllos, cuando se trate de posibles donadores; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
+
+XVII.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 8º.
 
@@ -909,6 +917,10 @@ En cualquier tratamiento de una persona enferma, el médico podrá autorizar nue
 
 Compete a la Secretaría de Salud del Estado, ejercer el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos. Al efecto, la Secretaría de Salud tendrá a su cargo el Registro Estatal de Transplantes y de Transfusiones Sanguíneas, la disposición de cadáveres conocidos se regirán por lo preceptuado en esta Ley.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2005)</small>
+
+La Procuraduría General de Justicia del Estado propiciará lo necesario, en el ámbito de su competencia, para la pronta obtención de órganos, tejidos y células para fines de trasplante.
+
 ###### ARTICULO 91.
 
 Para efectos de éste título, se entiende por:
@@ -951,37 +963,55 @@ II. A falta de los anteriores, la autoridad sanitaria, y
 
 III. Los demás a quienes esta Ley y otras disposiciones generales aplicables les confieran tal carácter, con las condiciones y requisitos que se señalen en las mismas.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 94.
 
-Para la certificación de la pérdida de la vida, deberán comprobarse previamente la existencia de los siguientes signos de muerte:
+Para efectos de este Título, la pérdida de la vida ocurre cuando:
 
-I. La ausencia completa y permanente de conciencia;
+I.- Se presente la muerte cerebral, o
 
-II. La ausencia permanente de respiración espontánea;
+II.- Se presenten los siguientes signos de muerte:
 
-III. La falta de percepción y respuesta a los estímulos externos;
+a).- La ausencia completa y permanente de conciencia;
 
-IV. La ausencia de los reflejos de los pares craneales y de los reflejos medulares;
+b).- La ausencia permanente de respiración espontánea;
 
-V. La atonía de todos los músculos;
+c).- La falta de percepción y respuesta a los estímulos externos;
 
-VI. El término de la regulación fisiológica de la temperatura corporal;
+d).- La ausencia de los reflejos de los pares craneales y de los reflejos medulares;
 
-VII. El paro cardiaco irreversible, y
+e).- La atonía de todos los músculos;
 
-VIII. Las demás que establezca el reglamento correspondiente.
+f).- El término de la regulación fisiológica de la temperatura corporal;
+
+g).- El paro cardiaco irreversible; y
+
+h).- Las demás que establezca el reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2005)</small>
+
+ARTICULO 94 BIS.- La muerte cerebral se presenta cuando existen los siguientes signos:
+
+I.- Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+II.- Ausencia de automatismo respiratorio; y
+
+III.- Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias depresoras del Sistema Nervioso Central.
+
+Los signos de muerte señalados en este artículo deberán corroborarse, ya sea a través de angiografía cerebral bilateral, que demuestre ausencia de circulación cerebral, o bien por electroencefalograma, que demuestre ausencia total de actividad eléctrica cerebral, para lo cual se tendrá que realizar esta última prueba en dos ocasiones diferentes, con espacio de cinco horas como mínimo entre ellas.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2005)</small>
+
+ARTICULO 94 TER.- La certificación de muerte respectiva será expedida por un profesionista distinto de los que integren el cuerpo técnico que intervendrá en el trasplante.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 95.
 
-La disposición de órganos y tejidos con fines terapéuticos, podrá realizarse de cadáveres en los que se haya certificado la pérdida de la vida en los términos del artículo anterior o de aquellos en que se compruebe la persistencia por seis horas de los signos a que se refieren las fracciones I, II, III, y IV del mismo artículo, y además las siguientes circunstancias:
-
-I. Electroencefalograma isoeléctrico que no se modifique con estímulo alguno dentro del tiempo indicado, y
-
-II. Ausencia de antecedentes inmediatos de ingestión de bromuros, barbitúricos, alcohol y otros depresores del sistema nervioso central, o hipotermia.
-
-Si antes de ese término se presentara un paro cardiaco irreversible, se determinará de inmediato la pérdida de la vida y se expedirá el certificado correspondiente.
-
-La certificación de muerte respectiva será expedida por dos profesionales distintos de los que integren el cuerpo técnico que intervendrá en el trasplante.
+La disposición de órganos, tejidos y células con fines terapéuticos podrá realizarse de cadáveres en los que se haya certificado la pérdida de la vida, o de aquellos en que se verifique la presencia de muerte cerebral, en términos de los artículos 94 y 94 Bis.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2828,6 +2858,16 @@ LIC. CARLOS PALAFOX VAZQUEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ENERO DE 2005.
 
 ###### ARTÍCULO PRIMERO.
 
