@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1934-11-10"
+last_updated: "1934-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1934.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -511,7 +511,7 @@ XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de cau
 
 XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
 
-XXI.- Nombrar a los Magistrados del Supremo Tribunal de Justicia.
+XXI. Nombrar a los Magistrados del Supremo Tribunal de Justicia.
 
 XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
@@ -827,9 +827,9 @@ Las facultades y obligaciones del Gobernador son las siguientes:
 
 I. En el orden federal, las que determinen la Constitución y las Leyes Federales.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1934)</small>
+> <small>(DEROGADA POR DECRETO No. 109, P.O. 8 DE DICIEMBRE DE 1934)</small>
 
-II.- Cuidar de la seguridad y tranquilidad del Estado, según la Constitución y las leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes, Oficiales y Sub-oficiales de Policía, Municipales.
+II. Cuidar de la seguridad y traquilidad del Estado según la Constitución y las leyes, para cuyo efecto podrá nombrar y remover libremente los Jefes de Policía Municipales.
 
 III. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere.
 
@@ -1532,3 +1532,7 @@ P.O. 10 DE NOVIEMBRE DE 1934.
 (DEROGADO POR DECRETO No. 109, P.O. 8 DE DICIEMBRE DE 1934) (N. DE E. PERMANECE VIGENTE EL TEXTO DEL DECRETO DE FECHA 5 DE FEBRERO DE 1921)
 
 Este decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA LAS DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
