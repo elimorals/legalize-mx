@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2002-05-21"
+last_updated: "2002-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -211,7 +211,7 @@ a) La formulación y conducción de la política estatal de comunicaciones y tra
 
 b) La expedición de las normas generales de carácter técnico en las materias objeto de esta Ley;
 
-> <small>(REFORMADO P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
 
@@ -863,6 +863,12 @@ II. Las autoridades competentes en materia de vialidad, tránsito y transporte d
 
 III. Por lo que se refiere a las licencias para conducir vehículos expedidas en el extranjero, su reconocimiento y validez quedarán sujetos a las disposiciones federales sobre la materia y a los convenios internacionales de los que México forme parte.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 55 Bis.
+
+El conductor de vehículos del Servicio de Transporte Público colectivo de pasajeros en el Estado de Jalisco, deberá contar con licencia de conductor de servicios de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
+
 ###### Artículo 56.
 
 Para conducir vehículos, los operadores y conductores se clasifican en:
@@ -1225,9 +1231,17 @@ El servicio colectivo de pasajeros, urbano, conurbado o metropolitano, suburbano
 
 El servicio colectivo de pasajeros urbano, conurbado, suburbano y foráneo, se prestará con itinerario fijo y el precio se determinará en las tarifas autorizadas.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 85.
 
-El servicio de autos de alquiler, taxis o radiotaxis, se prestará en vehículos cerrados, aprobados para el tipo de servicio, sin itinerario y sujeto a tarifa con taxímetro, el cual será de uso obligatorio; y podrá tener o no horario.
+El servicio de autos de alquiler, taxis o radiotaxis, se prestará en vehículos cerrados, aprobados para el tipo de servicio, sin itinerario; y podrá tener o no horario, además podrá presentarse en dos modalidades, según sea su forma de operar:
+
+I. Sujeto a tarifa con taxímetro de uso obligatorio; y
+
+II. Con tarifas establecidas previamente de acuerdo a la zonificación autorizada por conducto de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos de los organismos auxiliares y de consulta competentes.
+
+Los prestadores de servicio del transporte público de autos de alquiler o taxis que presten el servicio con la modalidad de sitios y que deseen operar en la modalidad establecida en la fracción II, deberán contar con una base que será su punto de partida.
 
 ###### Artículo 86.
 
@@ -1337,7 +1351,7 @@ Los titulares de concesiones y permisos de autos de alquiler, taxi o radio taxi 
 
 I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su reglamento;
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
 II. En el caso del transporte público, deberán destinar al menos dos asientos debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
 
@@ -2379,9 +2393,17 @@ La aplicación de las sanciones económicas se hará independientemente de la de
 
 Se sancionará con multa equivalente a diez días de salario mínimo general vigente en la zona económica donde se cometan las siguientes infracciones, en la operación de vehículos del servicio público de transporte por:
 
-I. No coincidir la rotulación con el número de placas; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-II. Abastecer combustible con pasaje a bordo o con motor encendido.
+I. No coincidir la rotulación con el número de placas;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+II. Abastecer combustible con pasaje a bordo o con motor encendido; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+III. Al conductor del servicio de transporte público colectivo de pasajeros por no contar con licencia de conductor de servicios de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2762,3 +2784,9 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 21 DE MAYO DE 2002.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+Primero.- Este decreto entrará en vigor a los 20 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se otorga un plazo de 30 días hábiles posteriores a la entrada en vigor del presente decreto, a los conductores del servicio de transporte público colectivo de pasajeros que no cuenten con la licencia de conductor de servicio de transporte público expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte para obtener esta y así evitar el ser sancionados.
