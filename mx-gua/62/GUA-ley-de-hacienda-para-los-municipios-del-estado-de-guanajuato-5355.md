@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1993-12-24"
+last_updated: "1994-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1519,11 +1519,7 @@ Cuando se trate de vivienda de interés social o popular, en los términos de la
 
 ###### ARTICULO 163.
 
-Siempre que la base para la liquidación del Impuesto Sobre Traslación de Dominio resultare mayor que el valor fiscal registrado, se tendrá como base para el pago del impuesto predial, y surtirá efectos a partir del bimestre siguiente al en que se causó Impuesto.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
-
-Tratándose de inmuebles destinados a casa-habitación de interés social, la base para el pago del impuesto predial, se determinará mediante avalúo practicado por Perito Fiscal autorizado por la Tesorería Municipal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 164.
 
@@ -1549,9 +1545,11 @@ B).- Los que perteneciendo a particulares, estén destinados a un servicio públ
 
 C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-D).- Los que pertenezcan a jubilados y pensionados o viudas de éstos, siempre y cuando no perciban ingresos por otro concepto y el inmueble no exceda del valor fiscal equivalente a veinticinco veces el salario mínimo general diario elevado al año, que corresponda al lugar en don de se encuentre el inmueble; y
+D).- Los que pertenezcan a jubilados y pensionados o cónyuges, concubina o concubinario, viudos o viudas de éstos, siempre que se trate del inmueble que habiten o sea única propiedad y el valor fiscal no exceda de cuarenta veces el salario mínimo general diario elevado al año, que corresponda al lugar en donde se encuentre el inmueble.
+
+En caso de que el valor del inmueble exceda el límite señalado en el párrafo anterior, se deberá aplicar la tasa correspondiente sobre el excedente; y
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
 
@@ -1682,6 +1680,10 @@ No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan
 La base de este impuesto será el valor más alto entre el Fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales autorizados por la Tesorería Municipal correspondiente con antigüedad no mayor de seis meses.
 
 Para los efectos de este Impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor de seis meses.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+El valor del inmueble, a elección del contribuyente, podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará lo dispuesto por el artículo 181 de esta Ley.
 
 ###### ARTICULO 181.
 
@@ -2308,3 +2310,13 @@ El presente decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no casarán el impuesto sobre traslación de dominio que establece esta Ley, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
+
+P.O. 27 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre traslación de dominio, que establece esta Ley, por las adquisiciones que realicen hasta el 31 de diciembre de 1995.
