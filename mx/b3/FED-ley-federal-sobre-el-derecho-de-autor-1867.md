@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-1867"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1948-01-14"
-last_updated: "1952-01-09"
+last_updated: "1956-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1867&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1947-12-31"
 ---
 # LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 1956, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 1952.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1956 (ABROGADO).
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de enero de 1948.
 
@@ -852,3 +854,35 @@ D.O. 9 DE ENERO DE 1952.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE MODIFICA LOS ARTÍCULOS 114 Y 124 DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR".]
 
 UNICO.- Este decreto entrará en vigor a los tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O. 31 DE DICIEMBRE DE 1956.
+
+[N. DE. E. TRANSITORIOS DE LA “LEY FEDERAL SOBRE EL DERECHO DE AUTOR”.]
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor a los treinta días de su publicación en el “Diario Oficial” de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Queda abrogada la Ley Federal sobre el Derecho de Autor del treinta y uno de diciembre de mil novecientos cuarenta y siete y todas las disposiciones que se opongan a la presente ley, excepto para rgir (sic) situaciones o violaciones ocurridas antes de la vigencia de ésta.
+
+###### ARTICULO TERCERO.
+
+El plazo de protección de las obras registradas conforme a la legislación anterior, se computará de acuerdo con las disposiciones de la presente ley en beneficio de los autores y de sus herederos.
+
+###### ARTICULO CUARTO.
+
+La Sociedad General Mexicana de Autores deberá quedar constituída de acuerdo con lo establecido en el Capítulo V, en un plazo que no excederá de seis meses a partir de la vigencia de esta ley. Dentro del mismo plazo las Sociedades de Autores ya constituídas deberán ajustar sus estatutos a las disposiciones del Capítulo citado.
+
+###### ARTICULO QUINTO.
+
+La dispuesto por el artículo 69 de esta ley, se hará efectivo a partir del primero de enero de mil novecientos sesenta.
+
+###### ARTICULO SEXTO.
+
+La Secretaría de Educación Pública deberá de expedir las tarifas a que se refiere el artículo 95, dentro del término de seis meses a partir de la techa en que entre en vigor esta ley.
+
+###### ARTICULO SEPTIMO.
+
+En tanto no se publique el Boletín del Derecho de Autor, las publicaciones que ordena esta ley se harán en el "Diario Oficial" de la Federación.
