@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-04-28"
+last_updated: "2004-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1015,7 +1015,7 @@ Son organismos de colaboración:
 
 I.- La Comisión Consultiva de Desarrollo Urbano.
 
-II.- Las Juntas de Mejoramiento Moral, Cívico y Material.
+II.- (DEROGADA, P.O. 12 DE MAYO DE 2004)
 
 III.- Los Consejos de Colaboración Vecinal.
 
@@ -1049,7 +1049,7 @@ Los Ayuntamientos procurarán que en la integración de las Comisiones Consultiv
 
 ###### ARTICULO 85.
 
-En cada una de las cabeceras municipales se integrará una Junta de Mejoramiento Moral, Cívico y Material, cuyo objeto será obtener la cooperación de los particulares para la construcción de obras de beneficio colectivo y promover lo conducente ante las autoridades para la superación moral, cívica y material del Municipio. Su organización y funcionamiento se regirá por lo dispuesto en el Decreto No. 144, de fecha 30 de diciembre de 1952, y sus reformas.
+(DEROGADO, P.O. 12 DE MAYO DE 2004)
 
 ###### ARTICULO 86.
 
@@ -3358,3 +3358,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE ABRIL DE 2004.
 
 Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Juntas de Mejoramiento Moral, Cívico o Material que estuvieren en ejercicio conforme a las disposiciones referidas en la ley que se abroga, deberán continuar en funcionamiento hasta el 31 de diciembre del presente año.
