@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1995-09-30"
+last_updated: "1997-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3819,13 +3819,17 @@ Lesiones.
 
 280.- Cuando concurra una sola de las circunstancias a que se refiere el artículo 299 se aumentará en un tercio la sanción que correspondería, si la lesión fuere simple; cuando concurren dos, se aumentará la sanción en una mitad y si concurren más de dos de las circunstancias dichas se aumentará la pena en dos terceras partes.
 
-281.- Si el ofendido fuere ascendiente del autor de una lesión, se aumentará hasta dos años de prisión a la sanción que corresponda, con arreglo a los artículos que preceden.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1997)</small>
+
+281.- Al que en ejercicio de la patria potestad, la tutela o estando encargado de la guarda de un menor, lo maltrate alterando su salud física o mental, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación temporal o definitiva en el ejercicio de la patria potestad, tutela o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico de la víctima.
+
+Decretado auto de formal prisión en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
+
+En lo aplicable y conducente, se sancionará con las mismas penas al que ejerza la tutela o la guarda de una persona privada de razón o sujeta a estado de interdicción por las lesiones que cause a ésta.
 
 282.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, lo suelte o haga ésto último por descuido.
 
-283.- Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela, en ejercicio del derecho de corregir, no serán punibles si fueren de las comprendidas en la primera parte del artículo 272 y, además, el autor no abusare de su derecho, corrigiendo con crueldad o con innecesaria frecuencia.
-
-En cualquier otro caso, se impondrá al infractor la sanción que corresponda con arreglo a las prevenciones anteriores y quedará, además, privado de la potestad en virtud de la cual tenga el derecho de corrección.
+283.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 
 ### CAPITULO II.
 
@@ -4023,7 +4027,7 @@ IV.- Los Jueces podrán, además, declarar a los infractores, sujetos a la vigil
 
 328.- No se podrá proceder contra el autor de golpes o violencias previstos en este Capítulo, sino por queja del ofendido, salvo cuando el delito se haya cometido en una reunión o lugar público.
 
-329.- Los golpes y violencias simples inferidos o cometidos en ejercicio del derecho de corregir, no son punibles.
+329.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 
 ### CAPITULO II.
 
@@ -4730,6 +4734,10 @@ UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en e
 P.O. 30 DE SEPTIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE ABRIL DE 1997.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
