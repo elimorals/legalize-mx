@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-el-llano-aguascalientes-29024"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-03"
-last_updated: "1994-07-03"
+last_updated: "1995-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
 
 Ley publicada en el Suplemento de la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de julio de 1994.
 
@@ -263,13 +263,47 @@ Son sujetos de este impuesto las personas físicas o morales que adquieran inmue
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 22.
 
-Son responsables solidarios:
+El valor del inmueble será el que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
-I.- Quienes transmitan o adquieran, según el caso, los bienes y derechos a que se refiere este impuesto; y
+Para los efectos de esta Ley se entiende por adquisición la que se derive de:
 
-II.- Los funcionarios y empleados públicos, notarios y corredores que expidan testimonio o den trámite a algún documento en que se consignen actos, convenios, contratos u operaciones objeto de este impuesto, sin que éste se encuentre cubierto, independientemente de las sanciones por las infracciones en que se hubiere incurrido.
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
+
+II.- La compra-venta en la que el vendedor se reserva la propiedad aún cuando la transferencia de ésta opere con posterioridad;
+
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
+
+V.- Fusión y escisión de propiedades;
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+
+VIII.- Prescripción positiva;
+
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
+
+X.- Enajenación a través de fideicomiso; y
+
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al propietario o cónyuge.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este artículo.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 194, SE DEROGA EL PRESENTE ARTICULO; SIN EMBARGO, ES DE OBSERVAR QUE EL PRECEPTO NO EXISTIO EN EL TEXTO ORIGINAL; MOTIVO POR EL CUAL SE DEJA A CONSIDERACIÓN DEL USUARIO.</small>
+
+ARTICULO 22 BIS.- (DEROGADO, P.O. 4 DE JUNIO DE 1995) (sic)
 
 #### SECCION CUARTA. De la Base
 
@@ -323,9 +357,23 @@ El pago de este impuesto se hará dentro del plazo de treinta días, contados a 
 
 El fideicomiso de bienes inmuebles se equipara para los efectos de pago de este impuesto, al de un transmisión patrimonial.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 28.
 
-Los bienes materia del hecho, acto o contrato gravado con este impuesto, quedarán preferentemente afectos al pago del mismo.
+El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en el que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituya o se adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios, o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V.- En los casos no previstos en las fracciones anteriores cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
 
 #### SECCION SEPTIMA. De las Obligaciones de los Contribuyentes
 
@@ -431,9 +479,15 @@ Es objeto de este impuesto el incremento del valor y mejoría de la propiedad in
 
 #### SECCION SEGUNDA. De los Sujetos
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 40.
 
-Son sujetos de este impuesto los propietarios o poseedores de los predios o construcciones beneficiados en la ejecución de las obras de mejoramiento realizadas por el Municipio.
+No se pagará el impuesto establecido en esta Ley:
+
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+
+II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
 #### SECCION TERCERA. De las Exenciones
 
@@ -794,3 +848,15 @@ Otto G ranados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuellar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Asociaciones Religiosa constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
