@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2004-06-02"
+last_updated: "2004-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1718,6 +1718,22 @@ XXXIV. Integrar los expedientes técnicos-administrativos, con la participación
 
 XXXV. Integrar al inventario de los equipamientos urbanos y el mobiliario urbano, así como elaborar los catálogos de monumentos y zonas históricas y artísticas del Distrito Federal y del Patrimonio Cultural Urbano.
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXXVI. Emitir dictámenes previos respecto de las solicitudes para licencias, autorizaciones temporales para construir, fijar, colocar instalar, distribuir, ubicar, ampliar, modificar, desmantelar o retirar anuncios en vía pública y, en su caso, demoler las estructuras que soporten o sustenten el anuncio, con el objeto de corroborar que se cumplen con los lineamientos y criterios establecidos por la Secretaría de Desarrollo Urbano y Vivienda al respecto;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXXVII. Emitir dictámenes previos a la revalidación de licencias y autorizaciones temporales sobre las condiciones técnicas y legales en que fueron otorgadas;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXXVIII. Calificar las actas de visitas de verificación en materia de explotación de minas, canteras y/o yacimientos pétreos, y en su caso, imponer las sanciones correspondientes en los términos de las leyes y reglamentos aplicables; y
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXXIX. Solicitar cuando fuere necesario el apoyo de las demás dependencias, organismos desconcentrados y entidades, así como el auxilio de la fuerza pública cuando fuere necesario, para hacer cumplir sus resoluciones.
+
 (ADICIONADO, G.O. 6 DE JULIO DE 2001) (F. DE E., G.O. 14 DE AGOSTO DE 2001)
 
 ###### Artículo 50-A.
@@ -1726,7 +1742,9 @@ Corresponde a la Dirección Ejecutiva de Servicios Jurídicos, de la Secretaría
 
 I. Solicitar información a los órganos político-administrativos y unidades administrativas de apoyo técnico-operativo adscritos a la Secretaría respecto del mobiliario urbano y los anuncios instalados en la ciudad;
 
-II. Ordenar y realizar visitas de verificación, ordinarias o extraordinarias, en materia de anuncios inmobiliario urbano con publicidad integrada, instalados o visibles desde la vialidad primaria, con el objeto de cerciorarse que estén conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+II. Ordenar y realizar visitas de verificación, en materia de anuncios y mobiliario urbano con publicidad integrada, instalados o visibles desde la vialidad primaria, con el objeto de cerciorarse que estén conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
 
 III. Dictar y aplicar las medidas de seguridad preventivas o correctivas para evitar riesgos y daños que puedan causar el mobiliario urbano con publicidad integrada y los anuncios instalados o visibles desde la vialidad primaria;
 
@@ -5242,17 +5260,17 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2004)</small>
 
-#### SECCION V
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
-
 #### SECCION IV
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
 
 (REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+
+#### SECCION V
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA DESCONCENTRADA
 
@@ -5870,7 +5888,9 @@ IV. Autorizar los números oficiales y alineamientos;
 
 V. Expedir, en coordinación con el Registro de los Planes y Programas de Desarrollo Urbano, las certificaciones del uso del suelo;
 
-VI. Otorgar autorizaciones para la instalación de toda clase de anuncios visibles en la vía pública, en construcciones y edificaciones;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+VI. Otorgar, previo dictamen de la Secretaría de Desarrollo Urbano y Vivienda, las autorizaciones para la instalación de toda clase de anuncios visibles en la vía pública, en construcciones y edificaciones;
 
 VII. Proponer al titular del Órgano Político-Administrativo la adquisición de reservas territoriales para el desarrollo urbano;
 
@@ -6410,7 +6430,9 @@ III. Autorizar los números oficiales y alineamientos;
 
 IV. Expedir, en coordinación con el Registro de los Planes y Programas de Desarrollo Urbano, las certificaciones del uso del suelo;
 
-V. Otorgar autorizaciones para la instalación de toda clase de anuncios visibles en la vía pública, en construcciones y edificaciones;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+V. Otorgar previo dictamen de la Secretaría de Desarrollo Urbano y Vivienda, autorizaciones para la instalación de toda clase de anuncios visibles en la vía pública, en construcciones y edificaciones;
 
 VI. Proponer al titular del Órgano Político- administrativo la adquisición de reservas territoriales para el desarrollo urbano;
 
@@ -8156,7 +8178,7 @@ Cuarto.- Las referencias hechas al Instituto del Taxi del Distrito Federal en ot
 
 Quinto.- En tanto se expidan las Bases, normas políticas y lineamientos y reglas de operación a que se refiere los artículos 103, fracciones XXX y XXXII, 110, fracción I; 112, fracciones XIII y XXI; 113, fracción XV, 113 Bis, fracción II, del presente Decreto, seguirán aplicándose las normas institucionales en materia de información y evaluación, así como los sistemas de seguimiento de observaciones y recomendaciones institucionales, al igual que los criterios de evaluación de personal ya establecidos.
 
-Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en trámite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
+Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en tramite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
 
 Séptimo.- La Dirección General de Auditoria deberá dar seguimiento al Programa General de Auditoría de Legalidad, para el año 2002, sin perjuicio de que este sea modificado conforme a las disposiciones jurídicas y administrativas aplicables.
 
@@ -8219,5 +8241,9 @@ G.O. 19 DE MAYO DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 2 DE JUNIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
