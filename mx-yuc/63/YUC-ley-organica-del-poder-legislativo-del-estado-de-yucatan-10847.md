@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "1991-12-19"
+last_updated: "1993-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -77,9 +77,11 @@ Para ser tomado en consideración cualquier documento dirigido al Congreso deber
 
 Cada Legislatura calificará definitiva e irrevocablemente las elecciones de sus propios miembros a través de un Colegio Electoral que se integrará, cuando menos, con más de la mitad de los presuntos Diputados que hubieren obtenido sus respectivas constancias de mayoría o de asignación.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 9.
 
-Recibidas las constancias de mayoría o de asignación expedidas por las Comisiones Electorales correspondientes, los presuntos Diputados deberán presentárselas al Oficial Mayor del Congreso para su registro antes del primer día hábil de la tercera semana siguiente a la elección. El Oficial Mayor retendrá una copia autorizada de las constancias y devolverá los originales a los interesados. En ningún caso podrá objetar las constancias legalmente expedidas que se le presenten ni negarse a efectuar su registro, bajo pena de destitución del cargo.
+Recibidas las constancias de mayoría o de asignación expedidas por los Consejos Electorales correspondientes, los presuntos diputados deberán presentárselas al Oficial Mayor del Congreso del Estado para su registro antes del primer día hábil de la tercera semana siguiente a la elección. El Oficial Mayor retendrá una copia autorizada de las constancias y devolverá los originales a los interesados. En ningún caso podrá objetar las constancias legalmente expedidas que se le presenten y negarse a efectuar su registro, bajo pena de destitución del cargo.
 
 ###### ARTICULO 10.
 
@@ -89,9 +91,11 @@ El Presidente de la Gran Comisión instalará el Colegio Electoral que calificar
 
 A las diez horas del primer día hábil de la tercera semana siguiente al de la elección, sin necesidad de citatorio previo, se reunirán el Presidente de la Gran Comisión del Congreso del Estado y los presuntos Diputados, quienes procederán a la constitución formal del Colegio Electoral. Para tal efecto se seguirá el procedimiento siguiente:
 
-a) El Presidente de la Gran Comisión dará lectura a la lista de los presuntos Diputados elaborada con base en los registros, informes, paquetes, documentación y copias recibidas de la Comisión Electoral del Estado y las Comisiones Distritales Electorales;
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
 
-b) Acto continuo exhortará a los presuntos Diputados para que elijan por mayoría de votos la Mesa Directiva del Colegio Electoral que se integrará por un Presidente, un Secretario y un Vocal;
+a) El Presidente de la Gran Comisión dará lectura a la lista de los presuntos diputados elaborada con base en los registros, informes, expedientes, documentación y copias recibidas del Consejo Electoral del Estado y los Consejos Distritales Electorales;
+
+b) Acto continuo exhortara a los presuntos Diputados para que elijan por mayoría de votos la Mesa Directiva del Colegio Electoral que se integrará por un Presidente, un Secretario y un Vocal;
 
 c) Hecha la elección de la Mesa Directiva del Colegio Electoral, el Presidente de la Gran Comisión del Congreso del Estado pedirá a los electos ocupen su lugar en el Presidium; les hará entrega mediante inventario, de los informes, constancias, paquetes electorales y demás documentación relativa en su poder y dará por concluida su función instaladora;
 
@@ -137,7 +141,13 @@ En los casos que así lo resuelva, declarará la nulidad de la elección de que 
 
 Para la calificación de la elección de sus miembros, el Colegio Electoral podrá realizar las sesiones que fueren necesarias, las que serán diarias hasta agotar su cometido, a más tardar el treinta y uno de Diciembre del año de la elección.
 
-En caso de empate la votación en el seno del Colegio Electoral, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
+En los casos que así lo resuelva, declarará la nulidad de la elección de que se trate en los términos y en los casos previstos en el Código Electoral del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 24 DE DICIEMBRE DE 1993)</small>
+
+Para la calificación de la elección de sus miembros, el Colegio Electoral podrá realizar las sesiones que fueren necesarias, las que serán diarias hasta agotar su cometido, a más tardar el 30 de junio del año de la elección.
 
 ### CAPITULO II. DEL CONGRESO DEL ESTADO
 
@@ -149,9 +159,11 @@ Las resoluciones del Colegio Electoral serán definitivas inatacables e irrevoca
 
 La declaración que haga el Congreso sobre la elección de Gobernador, tendrá el carácter de definitiva e irrevocable, y será motivo de un Decreto que enviará al Ejecutivo Estatal para su promulgación y publicación en el Diario Oficial, como lo establece la fracción II del Artículo 55 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 20.
 
-El Congreso del Estado en ningún caso dejará de resolver sobre la calificación, cómputo y declaratoria de la elección de Gobernador, cuando menos diez días antes de la primera sesión de Enero del año siguiente a la elección.
+El Congreso del Estado en ningún caso dejará de resolver sobre la calificación, cómputo y declaratoria de la elección de Gobernador, cuando menos diez días antes de la primera sesión de julio del año de la elección.
 
 ###### ARTICULO 21.
 
@@ -167,15 +179,19 @@ En todo caso se calificará la elección de Gobernador antes de calificar las el
 
 ### CAPITULO III. DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS, Y DECLARATORIA DE VALIDEZ O NULIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 24.
 
-Durante la tercera semana siguiente a la de las elecciones y de conformidad con lo dispuesto por el artículo 179 de la Ley Electoral del Estado, el Colegio Electoral del Congreso del Estado, se encargará de revisar por medio de la Comisión que corresponda, los paquetes y expedientes electorales que le hayan sido entregados por las Comisiones Municipales Electorales, y el informe rendido por la Comisión Electoral del Estado. Dicha Comisión rendirá su dictamen en el que incluirá, en su caso, el proyecto de resolución sobre los recursos interpuestos.
+Durante la tercera semana siguiente a la de las elecciones, el Colegio Electoral del Congreso del Estado, se encargará de revisar por medio de la Comisión que corresponda, los expedientes electorales que le hayan sido entregados por los Consejos Municipales Electorales, y el informe rendido por el Consejo Electoral del Estado. Dicha Comisión rendirá su dictamen en el que incluirá, en su caso, el proyecto de resolución sobre los recursos interpuestos.
 
 Con base en el dictamen rendido, el Colegio Electoral someterá el asunto a discusión y calificará las elecciones.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 25.
 
-El Colegio Electoral, en ningún caso dejará de resolver sobre la calificación declaratoria de validez o nulidad de la elección de Ayuntamientos, antes del día treinta de Diciembre del año de la elección.
+El Colegio Electoral, en ningún caso dejará de resolver sobre la calificación, declaratoria de validez o nulidad de la elección de Ayuntamientos, antes del día 30 de junio del año de la elección.
 
 ###### ARTICULO 26.
 
@@ -185,11 +201,11 @@ Una vez que se haya realizado la calificación a que se refiere el artículo pre
 
 ### CAPITULO UNICO. DE LA INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 27.
 
-Para la instalación del Congreso, los Diputados electos se reunirán el día 16 de enero, presididos por la Mesa Directiva del Colegio Electoral; y procederá en la forma siguiente:
+Para la instalación del Congreso, los diputados electos se reunirán el día uno de julio del año de la elección, presididos por la Mesa Directiva del Colegio Electoral y procederán en la forma siguiente:
 
 I.- El Presidente de la Mesa Directiva del Colegio Electoral pedirá al Secretario de la misma, proceda a dar lectura a la lista de los Diputados que hayan resultado electos y comprobará que se tiene la concurrencia que prescribe el artículo 26 de la Constitución Política del Estado;
 
@@ -393,7 +409,9 @@ d) Con los dictámenes formulados por las Comisiones respectivas.
 
 e) Discusión de dictámenes de acuerdo con el orden que se les haya señalado.
 
-f) Asuntos generales, los cuales quedan excluidos en las sesiones ordinarias señalados en el párrafo tercero del artículo 76; y
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
+f) Asuntos generales, los cuales quedan excluidos en las sesiones solemnes señaladas en el párrafo segundo del artículo 76; y
 
 XI.- Las demás que le señale esta ley.
 
@@ -649,17 +667,15 @@ Son además atribuciones de la Diputación Permanente las consignadas en el art�
 
 ### CAPITULO I. DE LA INICIACION Y PERIODOS DE SESIONES
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 76.
 
-El Congreso tendrá cada año tres períodos de sesiones ordinarias. El primero a partir del 16 de enero; el segundo a partir del 16 de mayo y el tercero a partir del 16 de octubre.
+El Congreso tendrá cada año tres períodos de sesiones ordinarias que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del 16 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 15 de septiembre, 15 de enero del año siguiente y 15 de mayo. Este último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso se Constituya en Colegio Electoral.
 
-Cada periodo de sesiones ordinarias durará el tiempo que sea necesario para tratar todos los asuntos que se le presenten, pero el primero no podrá prolongarse más que hasta el 15 de marzo, el segundo hasta el 15 de julio y el tercero hasta el 20 de diciembre del año que corresponda. Este último periodo podrá ampliarse hasta el 31 de diciembre de los años en que el Congreso se constituya en Colegio Electoral.
+El Congreso celebrará el cuarto domingo de julio de cada uno de los cinco primeros años del período del Ejecutivo y el segundo domingo de junio del sexto año del mismo, una Sesión Solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden las diversas ramas de la Administración. En dicho informe podrá dar respuesta además a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la administración pública, relativo al período a que se refiere el informe del Ejecutivo.
 
-El Congreso celebrará el cuarto domingo de enero de cada uno de los cinco primeros años del periodo del Ejecutivo y el segundo domingo de diciembre del sexto año del mismo, una Sesión Solemne, en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, en el que manifieste la situación que guarden los diversos ramos de la administración pública de la Entidad. En dicho informe el Gobernador podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la administración pública, correspondiente al período a que se refiere el informe del Ejecutivo.
-
-El Presidente del Congreso contestará a dicho informe en términos generales.
+El Presidente del Congreso contestará a dicho informe.
 
 El informe será analizado por el Congreso en reuniones subsecuentes.
 
@@ -1236,3 +1252,15 @@ Por esta única vez, la LIII Legislatura del Congreso del Estado se instalará e
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 24 DE DICIEMBRE DE 1993.
+
+PRIMERO.- Por única ocasión, los diputados electos que integrarán la LIII Legislatura durarán en sus encargos del 5 de enero de 1994 al 30 de junio de 1995. En la primera fecha mencionada se instalará el Congreso del Estado.
+
+SEGUNDO.- Para los efectos del Artículo 27 reformado de la Constitución Política del Estado y del Artículo 76 reformado de la Ley Orgánica del Poder Legislativo, la LIII Legislatura tendrá durante su gestión cinco periodos de sesiones ordinarias que comenzarán a partir del 16 de enero, del 16 de mayo y del 16 de octubre del año de 1994 y del 16 de enero y 16 de mayo del año de 1995 y sin que los mismos puedan prolongarse más que hasta el 15 de marzo, el 15 de julio y el 20 de diciembre de 1994, 15 de marzo y 30 de junio de 1995, respectivamente.
+
+TERCERO.- El Gobernador electo que fungirá del uno de febrero de 1994 al 31 de julio de 1995, rendirá durante ese periodo un informe único del estado que guarden las diversas ramas de la administración pública, el segundo domingo del mes de junio de 1995.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado, con excepción de las reformas relativas a los artículos 17 párrafo 5º, 20, 25, 27 primer párrafo, 46 fracción X inciso f) y 76 de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, que entrarán en vigor el día uno de enero de mil novecientos noventa y cuatro.
