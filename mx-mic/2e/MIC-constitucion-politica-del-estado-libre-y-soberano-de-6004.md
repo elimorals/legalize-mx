@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1962-11-01"
+last_updated: "1965-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,47 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE DETERMINA EL NÚMERO ADICIONAL DE BOLETAS PARA LAS ELECCIONES DE PRESIDENCIA DE LOS ESTADOS UNIDOS MEXICANOS Y SENADURÍAS QUE SE IMPRIMIRÁN PARA QUE LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO EMITAN SU VOTO DURANTE EL PROCESO ELECTORAL FEDERAL 2017-2018, ASÍ COMO SU RESGUARDO Y DESTRUCCIÓN EN LOS TÉRMINOS DEL LIBRO SEXTO DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1962.
+TEXTO ORIGINAL.
 
-Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
+Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2018.
 
-PASCUAL ORTIZ RUBIO, Gobernador Constituciodal (sic) del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber que.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG422/2018.
 
-La XXXVI Legislatura del Estado, en su carácter de Constituyente, ha tenido a bien expedir la siguiente Constitución.
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE DETERMINA EL NÚMERO ADICIONAL DE BOLETAS PARA LAS ELECCIONES DE PRESIDENCIA DE LOS ESTADOS UNIDOS MEXICANOS Y SENADURÍAS QUE SE IMPRIMIRÁN PARA QUE LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO EMITAN SU VOTO DURANTE EL PROCESO ELECTORAL FEDERAL 2017-2018, ASÍ COMO SU RESGUARDO Y DESTRUCCIÓN EN LOS TÉRMINOS DEL LIBRO SEXTO DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-El Pueblo Michoacano representado por su XXXVI Legislatura Constitucional, con carácter de Constituyente, ha tenido a bien expedir la siguiente
+GLOSARIO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+[…]
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+ANTECEDENTES
+
+[...]
+
+CONSIDERANDO
+
+[...]
+
+En razón de lo expuesto en las consideraciones de hecho y de derecho anteriormente vertidas, este Consejo General en ejercicio de sus facultades emite los siguientes:
+
+ACUERDOS
+
+PRIMERO. El número adicional de boletas para la elección de Presidencia de los Estados Unidos Mexicanos que se imprimirán para el voto de las y los mexicanos residentes en el extranjero durante el Proceso Electoral Federal 2017-2018, será de 1,015 boletas electorales, de conformidad con las razones expuestas en los numerales 47 y 48, así como el total nacional y el desglose por entidad federativa precisados en el numeral 49.
+
+SEGUNDO. El número adicional de boletas para la elección de Senadurías que se imprimirán para el voto de las y los mexicanos residentes en el extranjero, durante el Proceso Electoral Federal 2017-2018, será de 1,015 boletas electorales, de conformidad con las razones expuestas en los numerales 47 y 48, así como el total nacional y el desglose por entidad federativa precisados en el numeral 49.
+
+TERCERO. Se instruye a la Dirección Ejecutiva de Organización Electoral efectúe las acciones necesarias para la impresión de las boletas electorales adicionales para el voto de las y los mexicanos residentes en el extranjero y su entrega a la Dirección Ejecutiva del Registro Federal de Electores, a fin de que se integren en los Sobres-PEP respectivos previo a su envío a las y los ciudadanos registrados en la LNERE, a partir de la aprobación del presente Acuerdo y hasta el 14 de mayo de 2018.
+
+CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores lleve a cabo el resguardo de las boletas electorales adicionales para el voto de las y los mexicanos residentes en el extranjero, así como la destrucción de aquellas que no se hayan utilizado. La actividad de destrucción de boletas adicionales deberá efectuarse a más tardar el 30 de junio de 2018, con la presencia de las representaciones de los partidos políticos y de las candidaturas independientes, en el que se deberá levantar la constancia oficial correspondiente.
+
+QUINTO. El presente Acuerdo entrará en vigor a partir del día de su aprobación por parte del Consejo General.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto.
+
+El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 25 de abril de 2018, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, no estando presente durante la votación el Consejero Electoral, Maestro Marco Antonio Baños Martínez.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 ## TÍTULO PRIMERO
 
