@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1988-06-14"
+last_updated: "1988-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1988.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -109,7 +109,9 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 15.- Benito Juárez
 
-16.- Coahuayutla de Guerrero
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1988)</small>
+
+16.- Coahuayutla de José María Izazaga
 
 17.- Cocula
 
@@ -1241,9 +1243,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1333,9 +1333,9 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 94.
 
@@ -1409,7 +1409,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1501,7 +1501,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1739,19 +1739,19 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1759,7 +1759,9 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2358,3 +2360,13 @@ UNICO.- El presente Decreto entrará en vigor a los diez días siguientes de su 
 P.O. 14 DE JUNIO DE 1988.
 
 UNICO.- Este Decreto surtirá sus efectos a partir el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+Atento a que en el Artículo que se reforma los Municipios se encuentran enumerados por orden alfabético, al Municipio de Coahuayutla de José María Izazaga se le asignará el número correspondiente en el citado orden.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
