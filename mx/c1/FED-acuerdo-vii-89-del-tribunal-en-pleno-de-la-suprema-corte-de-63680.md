@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-vii-89-del-tribunal-en-pleno-de-la-suprema-corte-de-636
 country: "mx"
 rank: "acuerdo"
 publication_date: "1989-05-23"
-last_updated: "1989-05-23"
+last_updated: "1989-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63680&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-04-27"
 
 ACUERDO No. VII/89, DEL TRIBUNAL EN PLENO DEL DIA VEINTISIETE DE ABRIL DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JULIO DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 23 de mayo de 1989.
 
@@ -47,9 +47,13 @@ PRIMERO.- A partir del mes de junio de mil novecientos ochenta y nueve el tribun
 
 Junio 6, 7, 8; 13, 14, 15; 20, 21 y 22
 
-Agosto 1, 2, 3; 8, 9, 10; 15, 16 y 17
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO NUMERO VIII/89 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE JULIO DE 1989)</small>
 
-Septiembre 5, 6, 7; 13; 19, 20 y 21
+Agosto 8, 9,10; 15, 16, 17; 22, 23 y 24
+
+> <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1989)</small>
+
+Septiembre 5, 6, 7; 12,13; 19, 20 y 21
 
 Octubre 3, 4, 5; 10, 11; 17, 18 y 19
 
@@ -98,3 +102,9 @@ CERTIFICA:
 Que este acuerdo número Vll/89 para mejorar y hacer más ágil el trabajo del Tribunal en Pleno fue aprobado por el mismo en la sesión privada celebrada el jueves veintisiete de abril de mil novecientos ochenta y nueve, por unanimidad de diecisiete votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Salvador Rocha Díaz, Samuel Alba Leyva, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Atanasio González Martínez, José Manuel Villagordoa Lozano, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. Ausentes: Mariano Azuela Güitrón, Fausta Moreno Flores y Angel Suárez Torres. México, Distrito Federal, a dos de mayo de mil novecientos ochenta y nueve.- El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, José Javier Aguilar Domínguez.- Rúbrica.
 
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que esta fotocopia constante de cuatro fojas útiles concuerda fiel y exactamente con su original que obra en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto décimo cuarto del acuerdo correspondiente. México, Distrito Federal, a dos de mayo de mil novecientos ochenta y nueve.- El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, José Javier Aguilar Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE JULIO DE 1989.
+
+UNICO.- Este acuerdo entrará en vigor el día de su aprobación.
