@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2000-09-08"
+last_updated: "2002-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -149,19 +149,19 @@ IV.- Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 V.- Secretaría de Desarrollo Económico;
 
-VI.- Secretaría de Desarrollo Agropecuario, Rural e Indígena;
+VI. Secretaría de Desarrollo Agropecuario, Rural e Indígena;
 
-VII.- Secretaría de Educación y Cultura;
+VII. Secretaría de Educación y Cultura;
 
-VIII.- Secretaría de Salud;
+VIII. Secretaría de Salud;
 
-IX.- Secretaría de Turismo;
+IX. Secretaría de Turismo;
 
-X.- Secretaría de la Contraloría,
+X. Secretaría de la Contraloría,
 
-XI.- Oficialía Mayor; y,
+XI. Oficialía Mayor; y,
 
-XII.- Procuraduría General de Justicia del Estado
+XII. Procuraduría General de Justicia del Estado
 
 ###### ARTICULO 20.
 
@@ -180,6 +180,10 @@ Para ser titular de la Procuraduría General de Justicia, se deberán cumplir lo
 Cada Dependencia encabezará el sector que determinen las políticas y lineamientos del Gobernador del Estado.
 
 Al frente de cada Secretaría habrá un titular a quien se denomina Secretario, designado por el Gobernador del Estado en términos de las leyes respectivas. Se auxiliará de los subsecretarios, directores generales, directores de área, subdirectores, jefes de unidad departamental, jefes de oficina y demás servidores públicos que establezcan los reglamentos interiores respectivos y otras disposiciones legales. Tendrán las atribuciones que se señalen en esos ordenamientos y las que les asigne el Gobernador del Estado y el Secretario del que dependan.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2002)</small>
+
+Para desempeñar los cargos de Subsecretario, Director General, Director de Area, Subdirector, así como niveles intermedios entre éstos, dentro de la administración pública central, y sus equivalentes en la administración pública paraestatal, independientemente del nombre del puesto que se les atribuya, se deberán satisfacer los mismos requisitos previstos en el artículo anterior para el caso de los titulares de las dependencias del Ejecutivo.
 
 ###### ARTICULO 22.
 
@@ -251,7 +255,7 @@ XII. Promover, contribuir y cooperar en coordinación con las dependencias compe
 
 XIII. Administrar los recursos humanos, financieros y materiales asignados a la dependencia, con sujeción a las políticas y normatividad que determine el ejecutivo del Estado;
 
-XIV. A más tardar el día treinta de septiembre de cada año, entregar a la dependencia competente el proyecto de presupuesto de egresos del área de su responsabilidad, para el ejercicio fiscal del siguiente año, a efecto de que se proceda a la elaboración del proyecto de Iniciativa correspondiente;
+XIV. A más tardar el día treinta de septiembre de cada año, entregar a la dependencia competente el proyecto de presupuesto de egresos del área de su responsabilidad, para el ejercicio fiscal del siguiente año, a efecto de que se proceda a la elaboración del proyecto de Iniciativa correspondiente.
 
 XV. Tramitar en coordinación con la Oficialía Mayor lo relacionado con los nombramientos, ratificaciones, remociones, renuncias y licencias del personal a su cargo; y
 
@@ -757,7 +761,7 @@ XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
 
-I. Aplicar y supervisar el cumplimiento de las disposiciones que en materia de salud señaladas en las Constituciones de los Estados Unidos Mexicanos y Política del Estado, actualizar, vigilar y difundir el cumplimiento de las Leyes General de Salud y la de Salud para el Estado de Quintana Roo, así como elaborar las normas de su competencia, que deban orientar los servicios de salud, seguridad y de asistencia social que presten los sectores público, social y privado en la entidad;
+I. Aplicar y supervisar el cumplimiento de las disposiciones que en materia de salud señaladas en las Constituciones de Ios Estados Unidos Mexicanos y Política del Estado, actualizar, vigilar y difundir el cumplimiento de las Leyes General de Salud y la de Salud para el Estado de Quintana Roo, así como elaborar las normas de su competencia, que deban orientar los servicios de salud, seguridad y de asistencia social que presten los sectores público, social y privado en la entidad;
 
 II. Formular, instrumentar, conducir, difundir y evaluar las políticas y programas sectoriales en materia de salud, seguridad social, asistencia social, salubridad y salud pública, con base en la legislación estatal y federal aplicable y las normas y lineamientos que determine el Gobernador del Estado y en vinculación con el Sistema Estatal de Planeación de la Entidad; asimismo conducir las relaciones con la Federación para la descentralización de este tipo de servicios y otras actividades conjuntas;
 
@@ -835,7 +839,7 @@ XV. Colaborar con las autoridades competentes en la instrumentación del registr
 
 XVI. Proporcionar información y orientación a los turistas cubriendo los centros de mayor afluencia, carreteras y terminales de transporte aéreo, terrestre y marítimo, según se requiera, así como instalar, coordinar y dirigir módulos de información. Cuando algunas de estas acciones se descentralicen a las autoridades municipales, establecer los mecanismos de coordinación, apoyo y capacitación requeridos;
 
-XVII. Intervenir en las controversias entre turistas y prestadores de servicios y llevar a cabo la conciliación para resolver los conflictos de intereses, canalizando hacia las autoridades competentes los asuntos que impliquen violaciones a la Ley y sus reglamentos;
+XVII. Intervenir en las controversias entre turistas y prestadores de servicios y Ilevar a cabo la conciliación para resolver los conflictos de intereses, canalizando hacia las autoridades competentes los asuntos que impliquen violaciones a la Ley y sus reglamentos;
 
 XVIII. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre;
 
@@ -1091,7 +1095,7 @@ La Junta Local de Conciliación y Arbitraje es un Tribunal Administrativo con pl
 
 Las Juntas Especiales que la integran gozan asimismo de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que correspondan por ley al Pleno y al Presidente de la Junta Local de Conciliación y Arbitraje. En lo administrativo la Junta dependerá directamente de la Secretaría de Gobierno, quien atenderá las cuestiones relativas a los recursos materiales y humanos que requiera para su funcionamiento.
 
-EI nombramiento y remoción del Presidente de la Junta y de los Presidentes de las Juntas Especiales corresponde libremente al Gobernador del Estado, en los términos de la Ley Federal del Trabajo; las facultades de dichos funcionarios son las determinadas por la ley federal mencionada y por el Artículo 123 de la Constitución Federal.
+El nombramiento y remoción del Presidente de la Junta y de los Presidentes de las Juntas Especiales corresponde libremente al Gobernador del Estado, en los términos de la Ley Federal del Trabajo; las facultades de dichos funcionarios son las determinadas por la ley federal mencionada y por el Artículo 123 de la Constitución Federal.
 
 ## TRANSITORIOS
 
@@ -1132,3 +1136,13 @@ LIC. JOAQUIN ERNESTO HENDRICKS DIAZ.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE N. IRABIEN MEDINA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones del presente Decreto, no serán aplicables respecto a los funcionarios de la administración pública estatal, titulares de las unidades y áreas de carácter administrativo del Poder Judicial, que actualmente se encuentren desempeñando alguno de los cargos a que hacen referencias los artículos 21 de la Ley Orgánica de la Administración Pública y 91 y 93 de la Ley Orgánica del poder Judicial, ambas del Estado de Quintana Roo.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, todas las dependencias y entidades de la administración pública central y paraestatal, así como las unidades administrativas y áreas de la Oficialía Mayor del Poder Judicial del Estado, se sujetarán a las disposiciones del mismo, y paulatinamente deberán hacer las adecuaciones correspondientes en los ordenamientos internos que regulen su propio funcionamiento.
