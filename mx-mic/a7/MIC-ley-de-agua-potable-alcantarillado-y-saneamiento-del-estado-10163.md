@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-101
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-13"
-last_updated: "1994-06-13"
+last_updated: "1997-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Tercera del Periódico Oficial, el lunes 13 de junio de 1994.
 
@@ -55,7 +55,7 @@ El objeto de la presente Ley es el establecimiento de las bases normativas para 
 
 ###### ARTICULO 3º.
 
-El servicio público que regula la presente ley estará a cargo de los ayuntamientos municipales, con el concurso del Estado, cuando se considere necesario, el que se prestará, en los términos de este ordenamiento, y de los Reglamentos que al efecto aprueben los ayuntamientos a través de:
+El servicio público que regula la presente ley estará a cargo de los ayuntamientos municipales, con el concurso del Estado, cuando se considere necesario, el que se prestará, en los términos de este ordenamiento y de los Reglamentos que al efecto aprueben los ayuntamientos, a través de:
 
 I.- Organismos Operadores y Juntas Locales Municipales;
 
@@ -109,37 +109,41 @@ Los sectores social y privado podrán participar en "El Sistema", conforme a lo 
 
 ###### ARTICULO 7º.
 
-Los ayuntamientos municipales del Estado tendrán a su cargo:
+Los Ayuntamientos Municipales del Estado tendrán a su cargo:
 
-I.- Prestar el servicio de agua potable, alcantarillado y saneamiento, en sus ámbitos territoriales a través de los organismos operadores municipales, de los organismos que se constituyan en virtud de la coordinación y asociación de dos o más ayuntamientos municipales, o con el Gobierno del Estado, para que los preste a través de organismos operadores, o por concesionarios;
+I. Prestar el servicio de agua potable, alcantarillado y saneamiento, en sus ámbitos territoriales a través de los organismos operadores municipales, de los organismos que se constituyan en virtud de la coordinación y asociación de dos o más ayuntamientos municipales, o con el Gobierno del Estado, para que los preste a través de organismos operadores, o por concesionarios;
 
-II.- Participar en coordinación con los Gobiernos Federal y Estatal en el establecimiento de las políticas, lineamientos y especificaciones técnicas, conforme a los cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de agua potable, alcantarillado y saneamiento;
+II. Participar en coordinación con los Gobiernos Federal y Estatal en el establecimiento de las políticas, lineamientos y especificaciones técnicas, conforme a los cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de agua potable, alcantarillado y saneamiento;
 
-III.- Planear y programar la prestación del servicio de agua potable, alcantarillado y saneamiento, en los términos de esta Ley;
+III. Planear y programar la prestación del servicio de agua potable, alcantarillado y saneamiento, en los términos de esta Ley;
 
-IV.- Realizar por sí o a través de terceros y de conformidad con la Ley de Obras Públicas y de esta Ley, las obras de infraestructura hidráulica y su operación;
+IV. Realizar por sí o a través de terceros y de conformidad con la Ley de Obras Públicas y de esta Ley, las obras de infraestructura hidráulica y su operación;
 
-V.- Solicitar al Congreso del Estado, mediante iniciativa de decreto, la aprobación de cuotas y tarifas de derechos por la prestación de este servicio, con base en propuestas que les hagan los organismos operadores, en su caso, con la asesoría técnica de "El Comité"; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Las demás que otorguen esta Ley y otras disposiciones legales.
+V. Analizar y aprobar las cuotas y tarifas de derechos por la prestación del servicio que regula esta Ley, con base en las propuestas que les hagan los organismos operadores;
+
+VI. Las demás que otorguen esta Ley y otras disposiciones legales.
 
 ###### ARTICULO 8º.
 
 El Ejecutivo del Estado tendrá a su cargo:
 
-I.- Coordinar "El Sistema", así como realizar una programación y administración integral del agua en el mismo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Establecer las políticas, estrategias, objetivos y programas y aplicar las normas técnicas que conlleven al óptimo aprovechamiento del agua, en el conjunto estatal y en su justa distribución y uso entre las diversas comunidades del Estado;
+I. Coordinar "El Sistema", realizar una programación y administración integral del agua en el mismo, así como establecer y mantener un programa permanente de información de los órganos y organismos o empresas, que presten el servicio de agua potable, alcantarillado y saneamiento en el Estado;
 
-III.- Coordinarse, en su caso, con las autoridades federales y municipales, a efecto de participar en la planeación, programación, diseño, construcción, control y evaluación de obras, para crear los sistemas de abastecimiento de agua potable, alcantarillado y saneamiento y utilización de aguas residuales en las localidades de la Entidad;
+II. Establecer las políticas, estrategias, objetivos y programas y aplicar las normas técnicas que conlleven al óptimo aprovechamiento del agua, en el conjunto estatal y en su justa distribución y uso entre las diversas comunidades del Estado;
 
-IV.- Concertar la forma mas conveniente de administrar los sistemas de agua potable, cuando se abastezcan de una misma fuente y alimenten diferentes municipios y éstos no se pongan de acuerdo en su operación;
+III. Coordinarse, en su caso, con las autoridades federales y municipales, a efecto de participar en la planeación, programación, diseño, construcción, control y evaluación de obras, para crear los sistemas de abastecimiento de agua potable, alcantarillado y saneamiento y utilización de aguas residuales en las localidades de la Entidad;
 
-V.- Brindar asistencia técnica a los ayuntamientos municipales del Estado, cuando lo soliciten, para normar la participación de los particulares en la prestación del servicio a que esta Ley se refiere;
+IV. Concertar la forma mas conveniente de administrar los sistemas de agua potable, cuando se abastezcan de una misma fuente y alimenten diferentes municipios y éstos no se pongan de acuerdo en su operación;
 
-VI.- Vigilar que la prestación y el funcionamiento del servicio se realice eficaz y eficientemente, de acuerdo con la normatividad establecida; y
+V. Brindar asistencia técnica a los Ayuntamientos Municipales del Estado, cuando lo soliciten, para normar la participación de los particulares en la prestación del servicio a que esta Ley se refiere;
 
-VII.- Las demás que ésta y otras leyes le confieran.
+VI. Vigilar que la prestación y el funcionamiento del servicio se realice eficaz y eficientemente, de acuerdo con la normatividad establecida; y
+
+VII. Las demás que ésta y otras leyes le confieran.
 
 Las atribuciones anteriores las ejercerá el Ejecutivo del Estado a través de "El Comité".
 
@@ -221,15 +225,17 @@ Los usuarios del servicio a que esta Ley se refiere, a través de las organizaci
 
 #### SECCION PRIMERA. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 18.
 
 Los organismos operadores municipales a que esta Ley se refiere tendrán el carácter de descentralizados con personalidad jurídica y patrimonio propios.
 
-El ayuntamiento, en sesión plenaria, podrá acordar su constitución.
-
-Los acuerdos de creación de los organismos operadores municipales serán publicados en el Periódico Oficial del Estado, y una vez constituidos gestionarán ante las instancias correspondientes los apoyos técnicos y financieros que requieran para el cumplimiento de sus funciones.
+El ayuntamiento respectivo, en sesión plenaria acordará la constitución del organismo operador municipal, debiendo publicar el acuerdo en el Periódico Oficial del Estado. Una vez constituido el organismo, el ayuntamiento otorgará los apoyos técnicos y financieros que éste requiera para el cumplimiento de sus funciones.
 
 En el acuerdo respectivo, deberá establecerse la pertenencia a "El Sistema", así como las particularidades socioeconómicas, administrativas, técnicas y financieras específicas de los organismos y su competencia territorial.
+
+Al establecerse en el acuerdo respectivo la competencia territorial, deberán precisarse las juntas locales municipales que forman parte del organismo operador.
 
 ###### ARTICULO 19.
 
@@ -249,49 +255,53 @@ Los organismos estarán obligados a capacitar y adiestrar al personal en la admi
 
 ###### ARTICULO 22.
 
-El organismo operador municipal tendrá a su cargo:
+El Organismo operador municipal tendrá a su cargo:
 
-I.- Planear y programar, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, consevar (sic) y mejorar en el municipio, tanto los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, disposición final de las mismas y manejo de lodos, conforme a las leyes y reglamentos de la materia;
+I. Planear y programar, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, consevar (sic) y mejorar en el Municipio, tanto los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, disposición final de las mismas y manejo de lodos, conforme a las leyes y reglamentos de la materia;
 
-II.- Proporcionar el servicio de agua potable y alcantarillado, incluyendo saneamiento, a los centros de población, urbanos, rurales e industriales en el municipio que le corresponda, en los términos de los convenios y contratos que para ese efecto se celebren;
+II. Proporcionar el servicio de agua potable y alcantarillado, incluyendo saneamiento, a los centros de población, urbanos, rurales e industriales en el Municipio que le corresponda, en los términos de los convenios y contratos que para ese efecto se celebren;
 
-III.- Formular y mantener actualizado y valorizado el padrón de usuarios del servicio a su cargo;
+III. Formular y mantener actualizado y valorizado el padrón de usuarios del servicio a su cargo;
 
-IV.- Estudiar y proponer al ayuntamiento, con la asesoría, en su caso, de "El Comité" las cuotas y tarifas por el servicio de agua potable y por descargas en el alcantarillado y saneamiento que se preste a los usuarios, para que éste lo tome en consideración al elaborar la iniciativa de decreto correspondiente, para su aprobación, en su caso, por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-V.- Recaudar los derechos por el servicio, con base en las cuotas y tarifas aprobadas en los términos de ley;
+IV. Estudiar y proponer al ayuntamiento, con la asesoría, de "El Comité" de considerarlo conveniente, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento que se preste a los usuarios, para cada una de las localidades en las que se preste el servicio;
 
-VI.- Ordenar y ejecutar la restricción y suspensión del servicio, en los términos del artículo 77 de esta Ley;
+V. Recaudar los derechos por el servicio, con base en las cuotas y tarifas aprobadas en los términos de ley;
 
-VII.- Realizar las gestiones que sean necesarias a fin de obtener los créditos o financiamientos que se requieran para la prestación del servicio, en los términos de la legislación aplicable;
+VI. Ordenar y ejecutar la restricción y suspensión del servicio, en los términos del artículo 77 de esta Ley;
 
-VIII.- Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y para el servicio de su deuda, en los términos del reglamento interior del organismo;
+VII. Realizar las gestiones que sean necesarias a fin de obtener los créditos o financiamientos que se requieran para la prestación del servicio, en los términos de la legislación aplicable;
 
-IX.- Utilizar los ingresos que recaude, exclusivamente en los gastos inherentes a la prestación del servicio público de agua potable y alcantarillado, incluyendo saneamiento;
+VIII. Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y para el servicio de su deuda, en los términos del Reglamento Interior del Organismo;
 
-X.- Autorizar descargas domiciliarias de aguas residuales a los sistemas de alcantarillado en los términos de la presente Ley y del Reglamento correspondiente;
+IX. Utilizar los ingresos que recaude, exclusivamente en los gastos inherentes a la prestación del servicio público de agua potable y alcantarillado, incluyendo saneamiento;
 
-XI.- Promover programas de uso racional del agua potable, así como de capacitación y adiestramiento de su personal;
+X. Autorizar descargas domiciliarias de aguas residuales a los sistemas de alcantarillado en los términos de la presente Ley y del Reglamento correspondiente;
 
-XII.- Inspeccionar y verificar el cumplimiento de esta Ley y su Reglamento;
+XI. Promover programas de uso racional del agua potable, así como de capacitación y adiestramiento de su personal;
 
-XIII.- Aplicar, en los términos de la presente Ley, las sanciones por las infracciones a la misma;
+XII. Inspeccionar y verificar el cumplimiento de esta
 
-XIV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal total o parcial de bienes, o la limitación de los derechos de dominio, en los términos de Ley;
+Ley y su Reglamento;
 
-XV.- Realizar por sí o a través de terceros, conforme a las leyes correspondientes, las obras de agua potable y alcantarillado de su jurisdicción, incluyendo saneamiento y recibir las que se construyan en la misma, así como dictaminar los proyectos de dotación de agua y supervisar la construcción de obras de agua potable, alcantarillado y saneamiento conforme a la normatividad vigente;
+XIII. Aplicar, en los términos de la presente Ley, las sanciones por las infracciones a la misma;
 
-XVI.- Elaborar los programas y presupuestos anuales de ingresos y egresos del organismo, mismos que deberán ser aprobados por el ayuntamiento;
+XIV. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial de bienes, o la limitación de los derechos de dominio, en los términos de Ley;
 
-XVII.- Elaborar mensualmente los estados financieros del organismo y proporcionar la información y documentación que les solicite la autoridad;
+XV. Realizar por sí o a través de terceros, conforme a las leyes correspondientes, las obras de agua potable y alcantarillado de su jurisdicción, incluyendo saneamiento y recibir las que se construyan en la misma, así como dictaminar los proyectos de dotación de agua y supervisar la construcción de obras de agua potable, alcantarillado y saneamiento conforme a la normatividad vigente;
 
-XVIII.- Rendir anualmente a los ayuntamientos, un informe de las labores realizadas durante el ejercicio anterior, así como del estado general del organismo y sobre los resultados y situación financiera;
+XVI. Elaborar los programas y presupuestos anuales de ingresos y egresos del organismo, mismos que deberán ser aprobados por el Ayuntamiento;
 
-XIX.- Celebrar con personas de los sectores público, social o privado los convenios y contratos necesarios para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
+XVII. Elaborar mensualmente los estados financieros del organismo y proporcionar la información y documentación que les solicite la autoridad;
 
-XX.- Adquirir los bienes muebles e inmuebles necesarios a su objeto, así como realizar todas las acciones que se requieran, para el cumplimiento de su objetivo y atribuciones; y
+XVIII. Rendir anualmente a los Ayuntamientos, un informe de las labores realizadas durante el ejercicio anterior, así como del estado general del organismo y sobre los resultados y situación financiera;
 
-XXI.- Las demás que señala esta Ley, los reglamentos correspondientes, el acuerdo constitutivo correspondiente y demás disposiciones estatales y federales de la materia.
+XIX. Celebrar con personas de los sectores público, social o privado los convenios y contratos necesarios para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
+
+XX. Adquirir los bienes muebles e inmuebles necesarios a su objeto, así como realizar todas las acciones que se requieran para el cumplimiento de su objetivo y atribuciones; y
+
+XXI. Las demás que señala esta Ley, los reglamentos correspondientes, el acuerdo constitutivo correspondiente y demás disposiciones estatales y federales de la materia.
 
 ###### ARTICULO 23.
 
@@ -357,29 +367,33 @@ La junta de gobierno podrá invitar a sus sesiones a representantes de las depen
 
 ###### ARTICULO 29.
 
-La junta de gobierno para el cumplimiento de los objetivos del Organismo tendrá las más amplias facultades de dominio, administración y representación que requieren de poder o cláusula especial conforme a la ley, y las podrá delegar en el director del organismo o, en su caso, en la persona que estime conveniente, así como las siguientes atribuciones:
+La junta de gobierno para el cumplimiento de los objetivos del Organismo tendrá las más amplias facultades de dominio, administración y representación que requieren de poder o cláusula especial conforme a la ley; y las podrá delegar en el director del organismo o, en su caso, en la persona que estime conveniente, así como las siguientes atribuciones:
 
-I.- Establecer en el ámbito de su competencia, los lineamientos de política en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberá prestarse el servicio de agua potable, alcantarillado y tratamiento de aguas residuales y manejo de lodos y realizarse las obras que para ese efecto se requieran;
+I. Establecer en el ámbito de su competencia, los lineamientos de política en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberá prestarse el servicio de agua potable, alcantarillado y tratamiento de aguas residuales y manejo de lodos y realizarse las obras que para ese efecto se requieran;
 
-II.- Resolver sobre los asuntos que en materia de agua potable, alcantarillado, calidad del agua y otras actividades conexas le someta a su consideración el director del organismo;
+II. Resolver sobre los asuntos que en materia de agua potable, alcantarillado, calidad del agua y otras actividades conexas le someta a su consideración el Director del Organismo;
 
-III.- Estudiar y proponer al ayuntamiento, las tarifas que pudieran aplicarse para la venta de los volúmenes de agua conforme a los usos establecidos por esta Ley, así como por los servicios de alcantarillado, incluyendo el saneamiento en las localidades atendidas por el organismo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-IV.- Administrar el patrimonio del organismo;
+lll. Estudiar y proponer al ayuntamiento, con la asesoría, de "El Comité" de considerarlo conveniente, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento que se preste a los usuarios, para cada una de las localidades en las que se preste el servicio;
 
-V.- Conocer y en su caso, autorizar el programa y presupuesto anual de ingresos y egresos del organismo, conforme a la propuesta formulada por el director del organismo;
+IV. Administrar el patrimonio del organismo;
 
-VI.- Autorizar la contratación de los créditos que sean necesarios para la prestación del servicio y realización de las obras y supervisar su aplicación;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VII.- Aprobar los proyectos de inversión del organismo;
+V. Revisar y en su caso modificar los programas y presupuesto anual de ingresos y egresos del organismo, elaborados por el director y someterlos a la aprobación del ayuntamiento;
 
-VIII.- Examinar y aprobar los estados financieros y los informes que deba presentar el director del organismo, previo conocimiento del informe del comisario;
+VI. Autorizar la contratación de los créditos que sean necesarios para la prestación del servicio y realización de las obras y supervisar su aplicación;
 
-IX.- Designar y remover al director del organismo, a propuesta del presidente, así como, a los administradores de las juntas locales municipales, a propuesta del presidente de éstas;
+VII. Aprobar los proyectos de inversión del organismo;
 
-X.- Aprobar y expedir el reglamento interior del organismo; y
+VIII. Examinar y aprobar los estados financieros y los informes que deba presentar el Director del Organismo, previo conocimiento del informe del Comisario;
 
-XI.- Las demás que le asigne la presente Ley, el Reglamento respectivo y su acuerdo constitutivo.
+IX. Designar y remover al Director del Organismo, a propuesta del Presidente, así como, a los administradores de las Juntas Locales Municipales, a propuesta del Presidente de éstas;
+
+X. Aprobar y expedir el Reglamento Interior del Organismo; y
+
+XI. Las demás que le asigne la presente Ley, el Reglamento respectivo y su acuerdo constitutivo.
 
 ###### ARTICULO 30.
 
@@ -405,33 +419,37 @@ El director del organismo rendirá anualmente al ayuntamiento del municipio un i
 
 El director del organismo operador, tendrá las siguientes atribuciones:
 
-I.- Representar al organismo conforme a la Ley;
+I. Representar al organismo conforme a la Ley;
 
-II.- Ejecutar los acuerdos de la junta de gobierno;
+II. Ejecutar los acuerdos de la junta de gobierno;
 
-III.- Concursar y contratar conforme a las leyes y reglamentos de la materia, la ejecución de las obras autorizadas, así como realizar las activdades (sic) que se requieran para lograr que el organismo preste a la comunidad sus servicios;
+III. Concursar y contratar conforme a las leyes y reglamentos de la materia, la ejecución de las obras autorizadas, así como realizar las activdades (sic) que se requieran para lograr que el organismo preste a la comunidad sus servicios;
 
-IV.- Realizar las acciones necesarias para que el organismo se ajuste a "El Sistema", en los términos de la presente Ley a la coordinación y normatividad que efectúe "El Comité";
+IV. Realizar las acciones necesarias para que el organismo se ajuste a "El Sistema", en los términos de la presente Ley a la coordinación y normatividad que efectúe "El Comité";
 
-V.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la administración pública centralizada o descentralizada y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
+V. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la administración pública centralizada o descentralizada y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
-VI.- Proponer a la junta de gobierno las tarifas y cuotas para el cobro de los derechos por la prestación del servicio y recuperación de costos e inversiones, que el ayuntamiento someterá a la consideración y, en su caso, aprobación del Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VII.- Previa autorización de la junta de gobierno, gestionar en términos de la Ley respectiva, el financiamiento para obras de amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
+Vl. Estudiar y proponer a la junta de gobierno del organismo, con la asesoría, de "El Comité" de considerarlo conveniente, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento que se preste a los usuarios, para cada una de las localidades en las que se preste el servicio;
 
-VIII.- Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación de la junta de gobierno las erogaciones extraordinarias;
+VII. Previa autorización de la junta de gobierno, gestionar en términos de la Ley respectiva, el financiamiento para obras de amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
 
-IX.- Rendir al ayuntamiento municipal y a la junta de gobierno, el informe anual de actividades, así como rendir a la junta de gobierno los informes financieros, sobre el cumplimiento de los acuerdos del organismo, de avance de los programas de operación autorizados, sobre el cumplimiento de los programas de obras y erogaciones en las mismas y hacer la presentación anual del programa de labores y proyectos de presupuesto de ingresos y egresos para el siguiente período;
+VIII. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación de la junta de gobierno las erogaciones extraordinarias;
 
-X.- Asistir a las reuniones de la junta de gobierno, con voz pero sin voto;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-XI.- Recaudar los derechos por la prestación del servicio, en los términos de las leyes aplicables;
+IX. Rendir al ayuntamiento municipal y a la junta de gobierno, el informe anual de actividades, así como rendir a la junta de gobierno los informes financieros, sobre el cumplimiento de los acuerdos del organismo, de avance de los programas de operación autorizados, sobre el cumplimiento de programas de obras y erogaciones en las mismas y hacer la presentación anual del programa de labores y proyectos de presupuesto de ingresos y egresos para el siguiente período. Asimismo, presentará al Congreso del Estado, la cuenta pública del organismo, previamente aprobada por la junta de gobierno, de conformidad con las disposiciones legales aplicables;
 
-XII.- Aplicar las sanciones que establece esta ley por las infracciones que se cometan y que sean competencia del organismo operador;
+X. Asistir a las reuniones de la junta de gobierno, con voz pero sin voto;
 
-XIII.- Previo acuerdo de la junta de gobierno, celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento del organismo; y
+XI. Recaudar los derechos por la prestación del servicio, en los términos de las leyes aplicables;
 
-XIV.- Las demás que le señale la junta de gobierno, esta Ley, el instrumento constitutivo del organismo y su reglamento interior.
+XII. Aplicar las sanciones que establece esta Ley por las infracciones que se cometan y que sean competencia del Organismo Operador;
+
+XIII. Previo acuerdo de la Junta de Gobierno, celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento del organismo; y
+
+XIV. Las demás que le señale la Junta de Gobierno, Esta Ley, el instrumento constitutivo del organismo y su Reglamento Interior.
 
 ###### ARTICULO 35.
 
@@ -451,25 +469,33 @@ VI.- Vigilar ilimitadamente en cualquier tiempo las operaciones del organismo.
 
 #### SECCION CUARTA. De las Juntas Locales Municipales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 36.
 
-Se podrán formar juntas locales municipales que dependan del organismo operador de cada uno de los municipios, las cuales estarán integradas por el jefe de tenencia o el encargado del orden de la localidad de que se trate, quien tendrá el carácter de presidente de las mismas, un secretario que será designado por el ayuntamiento, a propuesta del presidente municipal y cuando menos tres vocales que serán elegidos de entre los ciudadanos con más ascendencia en la localidad. En todo caso deberá existir un acuerdo del ayuntamiento para la creación de estas juntas.
+Adicionalmente a la constitución de organismos operadores municipales, se deberán constituir juntas locales municipales a cuyo cargo directo estará la prestación del servicio en la tenencia o encargatura del orden correspondiente, que dependerán del organismo operador de cada uno de los municipios, las cuales estarán integradas por el jefe de tenencia o el encargado del orden de la localidad de que se trate, quien tendrá el carácter de presidente de las mismas, un secretario que será designado por el ayuntamiento, a propuesta del presidente municipal y cuando menos tres vocales que serán elegidos de entre los ciudadanos con más representatividad en la localidad.
 
 Las juntas que se constituyan en los términos de este artículo tendrán entre sus funciones las siguientes:
 
-I.- Elaborar los programas y presupuestos anuales para el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Vigilar el cumplimiento de sus acuerdos y de los del organismo operador municipal;
+I. Elaborar los programas y presupuestos anuales para el cumplimiento de sus objetivos y someterlos a la consideración del director del organismo;
 
-III.- Establecer las medidas de prevención, control de la contaminación y de saneamiento de las aguas que administre la junta, en los términos de las disposiciones aplicables;
+II. Vigilar el cumplimiento de sus acuerdos y de los del organismo operador municipal;
 
-IV.- Estudiar y proponer a la junta de gobierno del organismo operador, los proyectos de inversión que requiera el Sistema de Agua Potable, Alcantarillado y Saneamiento;
+III. Establecer las medidas de prevención, control de la contaminación y de saneamiento de las aguas que administre la junta, en los términos de las disposiciones aplicables;
 
-V.- Proponer al organismo operador, para que a su vez éste proponga al ayuntamiento, las tarifas que considere deban, mediante iniciativa, someterse a la aprobación del Congreso del Estado, para el cobro de los derechos por la prestación del servicio de agua potable, alcantarillado y saneamiento;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Recaudar los derechos por la prestación del servicio, en los términos de las disposiciones aplicables y aplicar las sanciones que establece esta Ley; y
+IV. Estudiar y proponer al director del organismo operador, los proyectos de inversión que requiera el sistema de su localidad;
 
-VII.- Las demás que les señale esta Ley, el reglamento respectivo y la junta de gobierno de los organismos operadores.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+V. Estudiar y proponer al director del organismo operador, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento que se preste en la localidad correspondiente;
+
+VI. Recaudar los derechos por la prestación del servicio, en los términos de las disposiciones aplicables y aplicar las sanciones que establece esta Ley; y
+
+VII. Las demás que les señale esta Ley, el reglamento respectivo y la Junta de Gobierno de los Organismos Operadores.
 
 ### CAPITULO II. Organismos Operadores Intermunicipales
 
@@ -569,17 +595,21 @@ Los bienes de "El Comité" afectos directamente en la prestación del servicio d
 
 "El Comité" contará con:
 
-I.- Un Consejo de Administración;
+I. Un Consejo de Administración;
 
-II.- Un Director General; y
+II. Un Director General; y
 
-III.- Un Comisario Público, designado por la Contraloría General del Estado, en los términos de la Ley de Entidades Paraestatales del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+llI. Un Comisario designado por la Coordinación de Control y Desarrollo Administrativo del Estado, en los términos de la Ley de Entidades Paraestatales del Estado.
 
 ###### ARTICULO 50.
 
 El Presidente del Consejo de Administración será el Gobernador del Estado o la persona que él designe.
 
-El Consejo contará con un Secretario que será Coordinador de Apoyo Municipal del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+El Consejo contará con un Secretario que será el Secretario de Comunicaciones y Obras Públicas del Gobierno del Estado.
 
 Los vocales del Consejo de Administración, cuyo número será establecido por acuerdo del Presidente, prodrán (sic) ser los titulares de las dependencias del Poder Ejecutivo del Estado cuyos ámbitos competenciales tengan incidencia en la prestación, programación, presupuestación y vigilancia del servicio de agua potable, alcantarillado y saneamiento, fundamentalmente los relacionados con la planeación, finanzas, desarrollo urbano y ecología, salud y la Comisión Nacional del Agua. Por cada representante propietario se designará un suplente.
 
@@ -619,35 +649,39 @@ XII.- Las demás necesarias para cumplir su objeto, en los términos de la prese
 
 El director de "El Comité", tendrá las siguientes atribuciones:
 
-I.- Representar legalmente a "El Comité", con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley;
+I. Representar legalmente a "El Comité", con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley;
 
-II.- Dirigir las actividades técnicas, administrativas y financieras de "El Comité";
+II. Dirigir las actividades técnicas, administrativas y financieras de "El Comité";
 
-III.- Ejecutar los acuerdos del Consejo de Administración;
+III. Ejecutar los acuerdos del Consejo de Administración;
 
-IV.- Aprobar los concursos y contratación para la ejecución de las obras autorizadas, conforme a las leyes de la materia, así como realizar las actividades que se requieran para lograr que los organismos operadores presten el servicio de manera regular, continua y uniforme a la comunidad;
+IV. Aprobar los concursos y contratación para la ejecución de las obras autorizadas, conforme a las leyes de la materia, así como realizar las actividades que se requieran para lograr que los Organismos Operadores presten el servicio de manera regular, continua y uniforme a la comunidad;
 
-V.- Realizar las acciones necesarias para que los organismos se ajusten a "El Sistema", en los términos de la presente Ley y a la coordinación y normatividad que efectúe "El Comité";
+V. Realizar las acciones necesarias para que los organismos se ajusten a "El Sistema", en los términos de la presente Ley y a la coordinación y normatividad que efectúe "El Comité";
 
-VI.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la administración pública centralizada o descentralizada y, las personas de los sectores social y privados, para el trámite y atención de asuntos de interés común;
+VI. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la administración pública centralizada o descentralizada y, las personas de los sectores social y privados, para el trámite y atención de asuntos de interés común;
 
-VII.- Dar cumplimiento a los acuerdos tarifarios emitidos por el Consejo de Administración y someter a su consideración las tarifas que considere deban someterse a la aprobación del Congreso del Estado, mediante iniciativa, por la prestación del servicio a que se refiere el presente ordenamiento, tomando en consideración los costos reales y lo previsto en el Capítulo Tercero del Título Cuarto de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-VIII.- Gestionar y obtener en términos de la ley respectiva, y previa autorización del Consejo de Administración, el financiamiento para obras y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
+Vll. Dar cumplimiento a los acuerdos tarifarios emitidos por el Consejo de Administración y someter a su consideración las tarifas que deban sugerirse para la aprobación del ayuntamiento correspondiente, por la prestación del servicio a que se refiere el presente ordenamiento, tomando en consideración los costos reales y lo previsto en el Capítulo Tercero del Título Cuarto de esta Ley;
 
-IX.- Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las erogaciones extraordinarias;
+VIII. Gestionar y obtener en términos de la ley respectiva, y previa autorización del Consejo de Administración, el financiamiento para obras y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
 
-X.- Rendir el informe anual de actividades al Consejo de Administración, así como los informes financieros sobre el cumplimiento de los acuerdos de "El Comité", sobre el avance de los programas de operación, cumplimiento de los programas de obras y erogaciones de las mismas, presentación anual del programa de labores y de proyectos de ingresos y presupuesto de egresos;
+IX. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las erogaciones extraordinarias;
 
-XI.- Convocar a sesiones ordinarias a los integrantes del Consejo de Administración, cada trimestre, y a sesiones extraordinarias, cuando la naturaleza y exigencias de los asuntos lo requieran;
+X. Rendir el informe anual de actividades al Consejo de Administración, así como los informes financieros sobre el cumplimiento de los acuerdos de "El Comité", sobre el avance de los programas de operación, cumplimiento de los programas de obras y erogaciones de las mismas, presentación anual del programa de labores y de proyectos de ingresos y presupuesto de egresos;
 
-XII.- Nombrar y remover libremente al personal administrativo y técnico de El Comité, con fundamento en las leyes del trabajo aplicables, señalando sus adscripciones;
+XI. Convocar a sesiones ordinarias a los integrantes del Consejo de Administración, cada trimestre, y a sesiones
 
-XIII.- Someter a la aprobación del Consejo de Administración, el Reglamento Interior de "El Comité";
+extraordinarias, cuando la naturaleza y exigencias de los asuntos lo requieran;
 
-XIV.- Tener el carácter de presidente de las juntas de gobierno de los organismos operadores que formen parte de la administración pública paraestatal, cuando tengan el carácter de transitorios; y
+XII. Nombrar y remover libremente al personal administrativo y técnico de "El Comité", con fundamento en las leyes del trabajo aplicables, señalando sus adscripciones;
 
-XV.- Las demás que les señale el Consejo de Administración, esta Ley y el Reglamento correspondiente.
+XIII. Someter a la aprobación del Consejo de Administración, el Reglamento Interior de "El Comité";
+
+XIV. Tener el carácter de Presidente de las juntas de gobierno de los Organismos Operadores que formen parte de la Administración Pública Paraestatal, cuando tengan el carácter de transitorios; y
+
+XV. Las demás que les señale el Consejo de Administración, esta Ley y el Reglamento correspondiente.
 
 ###### ARTICULO 54.
 
@@ -725,13 +759,15 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 
 ###### ARTICULO 64.
 
-Están obligados a contratar el servicio de agua potable, alcantarillado y de tratamiento de aguas residuales, en los lugares en que existan dichos servicios:
+Están obligados a contratar el servicio de agua potable, alcantarillado y tratamiento de aguas residuales, en los lugares en que existan dichos servicios:
 
-I.- Los propietarios o poseedores a cualquier tipo de predios edificados;
+I. Los propietarios o poseedores a cualquier tipo de predios edificados;
 
-II.- Los propietarios o poseedores a cualquier título de predios no edificados cuando frente a los mismos existan instalaciones adecuadas, para los servicios que sean utilizados; y
+II. Los propietarios o poseedores a cualquier título, de predios no edificados cuando frente a los mismos existan instalaciones adecuadas, para los servicios que sean utilizados; y
 
-III.- Los propietarios o poseedores de establecimientos mercantiles o industriales o de cualquier otra actividad que por su naturaleza están obligados al uso de agua potable, alcantarillado y saneamiento.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+III. Los propietarios o poseedores de establecimientos mercantiles o industriales o de cualquier otra actividad que por su naturaleza están obligados al uso de agua potable, alcantarillado y saneamiento. También están obligados a contratar el servicio, los gobiernos Federal, Estatal y municipales, en relación con predios propiedad de los mismos.
 
 La contratación del servicio de agua potable y la conexión de los mismos se realizará de conformidad a lo estipulado en los reglamentos correspondientes.
 
@@ -781,29 +817,43 @@ Las autoridades de los municipios del Estado serán las responsables de vigilar 
 
 ###### ARTICULO 73.
 
-En épocas de escasez de agua, comprobadas o previsibles, el organismo operador podrá acordar condiciones de restricción en las zonas durante el lapso que estime necesario.
+En épocas de escasez de agua, comprobadas o previsibles, el organismo operador podrá acordar condiciones de restricción en las zonas y durante el lapso que estime necesario.
 
 ### CAPITULO III. Cuotas y Tarifas
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 74.
 
-El Ayuntamiento, escuchando la propuesta del organismo operador y de considerarlo necesario, con la asesoría técnica de "El Comité", solicitará mediante iniciativa de decreto, al Congreso del Estado, la aprobación de las cuotas y tarifas por el servicio de agua potable, alcantarillado y saneamiento, de acuerdo con los costos reales del servicio, y cumpliendo con los siguientes requisitos:
+El ayuntamiento, a propuesta del organismo operador, aprobará las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, de acuerdo con los costos reales del servicio, y cumpliendo con los siguientes requisitos:
 
-I.- Que se considere el tipo de servicio de abastecimiento, ya sea doméstico, comercial o industrial y la progresividad por el abastecimiento en metros cúbicos, tratándose de servicio medido y al consumo mínimo, tratándose de cuotas.
+I. Que se considere el tipo de servicio de abastecimiento, ya sea doméstico, comercial, industrial o público y la progresividad por el abastecimiento en metros cúbicos, tratándose de servicio medido y al consumo mínimo, tratándose de cuotas fijas.
 
-Para el establecimiento de las cuotas y tarifas tratándose de la prestación del servicio para el uso doméstico, se atenderá en su caso, a la clasificación de las poblaciones en zonas: residencial, media y popular. Los usuarios del servicio en zonas populares, tendrán un tratamiento preferencial, por tratarse generalmente, de personas de escasos recursos.
+Adicionalmente a las tarifas por abastecimiento a que se refiere el párrafo anterior, se establecerán cuotas por conexión de tomas domiciliarias a las redes de distribución de los sistemas y por descarga domiciliaria en las redes de alcantarillado. En estas cuotas deberá quedar incluido el costo de la ruptura y reposición de pisos de calle y banquetas, considerado material y mano de obra conforme a los diámetros y tipos de servicios que se contrate.
 
-Adicionalmente tratándose de usuarios de servicio doméstico para jubilados y pensionados, así como, de personas incapacitadas físicamente para trabajar, que sean propietarios o poseedores de un solo predio, se establecerán cuotas bimestrales que en ningún caso podrán exceder al equivalente de un día de salario mínimo vigente en el estado de Michoacán.
+Tratándose de nuevos fraccionamientos, condominios y conjuntos habitacionales, se establecerán cuotas de conexión a la red de distribución de agua potable, conforme al diámetro de alimentación requerido de éstos y costo de las obras de cabeza. Igualmente se establecerán cuotas por conexión a la red de alcantarillado sanitario.
 
-II.- Que las cuotas y tarifas por el servicio incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del organismo operador y el servicio de su deuda; y
+Para el establecimiento de las cuotas y tarifas tratándose de la prestación del servicio para uso doméstico, se atenderá en su caso, a la clasificación de las poblaciones en zonas: residencial, media y popular. Los usuarios del servicio en zonas populares, tendrán un tratamiento preferencial, por tratarse generalmente, de personas de escasos recursos.
 
-III.- Que se atiendan las otras normas previstas en este capítulo y demás disposiciones aplicables.
+Independientemente a lo establecido en el párrafo anterior, se aprobarán cuotas y tarifas para los desarrollos habitacionales que tengan el carácter de interés social.
 
-El fondo a que se refiere la fracción II de este artículo, se constituirá y operará de conformidad con las reglas técnicas que apruebe la junta de gobierno del organismo operador respectivo.
+Tratándose de usuarios de servicio doméstico para jubilados y pensionados, así como, de personas incapacitadas físicamente para trabajar, que sean propietarios o poseedores de un solo predio, se establecerán cuotas bimestrales que en ningún caso podrán exceder al equivalente de un día de salario mínimo vigente en el estado de Michoacán;
+
+II. Adicionalmente a las cuotas o tarifas por abastecimiento de agua potable a que se refiere la fracción anterior, se considerará un 20% como contraprestación del servicio de alcantarillado;
+
+lll. Que las cuotas y tarifas por el servicio incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del organismo operador y el servicio de su deuda;
+
+IV. Que se atiendan las otras normas previstas en este capítulo y demás disposiciones aplicables.
+
+El fondo a que se refiere la fracción III de este artículo, se constituirá y operará de conformidad con las reglas técnicas que apruebe la junta de gobierno del organismo operador respectivo.
+
+Las cuotas y tarifas que se establezcan conforme a este artículo, además de su publicación en el Periódico Oficial del Estado, deberán ser publicadas en los estrados de las oficinas municipales y de los organismos operadores y podrán en su caso, difundirse en otros medios que permitan darse a conocer a los usuarios.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 75.
 
-La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los organismos operadores municipales, intermunicipales o, en su defecto, por "El Comité", por sí o por terceros, deberán tomarse en cuenta, para incorporarse an la iniciativa que se presente al Congreso del Estado, para el establecimiento de las tarifas o cuotas respectivas, o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
+La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los organismos operadores municipales, intermunicipales o, en su defecto, por "El Comité", por sí o por terceros, deberán tomarse en cuenta, para el establecimiento de las tarifas o cuotas respectivas, o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
 
 ###### ARTICULO 76.
 
@@ -823,11 +873,11 @@ Los organismos descentralizados están facultados para suspender el servicio, cu
 
 Lo anterior será independiente de poner en conocimiento de tal situación a las autoridades sanitarias.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 79.
 
 Los adeudos a cargo de los usuarios y a favor de los organismos operadores municipales, intermunicipales o, en su defecto, de "El Comité", serán cobrados en la forma que se establece en las disposiciones fiscales aplicables.
-
-Independientemente de lo anterior, en esos convenios se establecerán, con cláusulas penales de rescisión y suspensión a que se encuentra sujeto el servicio.
 
 ###### ARTICULO 80.
 
@@ -843,9 +893,11 @@ Los Notarios Públicos y Jueces no autorizarán o certificarán los actos trasla
 
 Los organismos operadores Municipales, intermunicipales o, en su defecto "El Comité", contarán con el número de inspectores que se requiera, en base a su propio presupuesto para la verificación del servicio que prestan.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 83.
 
-Para dar cumplimiento a las disposiciones de esta Ley y la reglamentación respectiva, los organismos operadores municipales, intermunicipales o, en su defecto "El Comité" ordenarán que se realicen visitas de inspección las que se efectuarán por personal debidamente autorizado, estén o no concesionados los servicios de conformidad con el reglamento de esta Ley.
+Para dar cumplimiento a las disposiciones de esta ley y la reglamentación respectiva, los organismos operadores municipales, intermunicipales o, en su caso "El Comité" ordenarán que se realicen visitas de inspección las que se efectuarán por personal debidamente autorizado.
 
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -1002,3 +1054,11 @@ DIPUTADO PRESIDENTE.- LIC. JOSE HERNANDEZ GARNICA.- DIPUTADO SECRETARIO.- MARGAR
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 27 días del mes de enero de 1994, mil novecientos noventa y cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor, el 1° de enero de 1998, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos de lo dispuesto por los artículos 18 y 36 de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, los ayuntamientos que aún no hayan acordado la constitución de los organismos operadores municipales, dispondrán de un plazo de seis meses, contados a partir del inicio de la vigencia de este decreto, para acordar su constitución. Los ayuntamientos que habiendo acordado la constitución de dichos organismos previamente a la vigencia de este decreto y que no hayan precisado las juntas locales municipales que forman parte de los mismos, también dispondrán del plazo de seis meses para establecer en el acuerdo respectivo, dicha precisión.
