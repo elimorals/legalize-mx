@@ -1,0 +1,154 @@
+---
+title: "LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA \"DESARROLLO INDUSTRIAL DE MORELOS\""
+identifier: "MOR-ley-que-crea-un-organismo-publico-descentralizado-que-se-22264"
+country: "mx"
+rank: "ley"
+publication_date: "1965-02-10"
+last_updated: "1965-02-10"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22264&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "22264"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "2165"
+reform_count: "2"
+scjn_last_update: "2008-06-04"
+issue_date: "1965-01-30"
+state: "MOR"
+---
+# LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "DESARROLLO INDUSTRIAL DE MORELOS"
+
+LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "DESARROLLO INDUSTRIAL DE MORELOS"
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Morelos, el 10 de febrero de 1965.
+
+Al margen izquierdo un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
+
+EMILIO RIVA PALACIO MORALES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+
+"LA H. XXXV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCION II DEL ARTICULO 40 DE LA CONSTITUCION POLITICA LOCAL, HA TENIDO A BIEN EXPEDIR LA SIGUIENTE LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "DESARROLLO INDUSTRIAL DE MORELOS".
+
+###### ARTICULO 1o.
+
+Se crea un organismo público descentralizado que se denominará "DESARROLLO INDUSTRIAL DE MORELOS", con personalidad jurídica y patrimonio propios.
+
+###### ARTICULO 2o.
+
+Desarrollo Industrial de Morelos tendrá por objeto la elaboración, realización y financiamiento de planes, a corto y a largo plazo, que tiendan a crear las bases de una infraestructura que haga posible el desarrollo industrial de la Entidad, en plena colaboración con el sector privado de la economía o bien en forma directa, cuando las circunstancias así lo requieran.
+
+###### ARTICULO 3o.
+
+DESARROLLO INDUSTRIAL DE MORELOS, tendrá un Consejo de Administración que se integrará con los siguientes miembros:
+
+I.- Un Presidente, que será el Gobernador del Estado o en su ausencia el Secretario General de Gobierno.
+
+II.- Un Vocal Ejecutivo que será designado por el Gobernador del Estado, y será el Director General del Organismo.
+
+III.- Un Vocal, designado de común acuerdo por la Delegación de la Cámara Nacional de la Industria de Transformación y por las Cámaras Industriales organizadas en el Estado.
+
+IV.- Un Vocal, designado de común acuerdo, por las Cámaras de Comercio organizadas en el Estado.
+
+V.- Un Vocal, designado de común acuerdo, por las Centrales Obreras de los Sindicatos de Trabajadores Industriales del Estado.
+
+VI.- Un Vocal, designado por Fomento Agropecuario de Morelos.
+
+VII.- Un Vocal, designado por la Liga de Comunidades Agrarias y Sindicatos Campesinos del Estado.
+
+###### ARTICULO 4o.
+
+Los acuerdos y las resoluciones del Consejo podrán ser vetadas por el Presidente, cuando estime que las resoluciones tomadas son inconvenientes, inoportunas o perjudiciales para la realización del objeto del organismo.
+
+###### ARTICULO 5o.
+
+El patrimonio de DESARROLLO INDUSTRIAL DE MORELOS, se integrará:
+
+I.- Con los bienes inmuebles que la Federación, el Estado o los Municipios le destinen para el desarrollo de sus funciones.
+
+II.- Con fondos provenientes de créditos internos y externos contratados sobre el patrimonio de este organismo, obtenidos para impulsar el desarrollo industrial de la Entidad.
+
+III.- Con las cantidades que se le asignen en el Presupuesto de Egresos del Estado.
+
+IV.- Con los ingresos que obtenga procedentes de la enajenación de bienes producidos en las fábricas y establecimientos de su propiedad, del pago de servicios de asistencia técnica que preste y del pago por la utilización por terceros de bienes de su propiedad.
+
+V.- Con los demás bienes muebles o inmuebles y derechos que adquiera en el ejercicio de sus actividades.
+
+###### ARTICULO 6o.
+
+Las bases de la planeación industrial del Estado serán las siguientes:
+
+I.- Lograr la máxima utilización de los recursos naturales, para proporcionar ocupaciones remunerativas a la población y la elevación del nivel de vida de las grandes masas por la justa distribución de la riqueza generada.
+
+II.- Programas para fortalecer y complementar la infraestructura económica de la Entidad, por sistemas de vías de comunicación y de transporte estatales y vecinales, de obras de mediana y pequeña irrigación y de electricidad y de construcción de viviendas populares, campesinas y urbanas.
+
+III.- Programas para establecer el equilibrio entre las actividades agropecuarias e industriales y entre los grupos de la población económicamente activa, ocupada en una y otras, mediante:
+
+a).- La industrialización en el Estado de la producción agropecuaria, en coordinación con "Fomento Agropecuario de Morelos";
+
+b).- La industrialización en el Estado de las materias primas obtenidas por las industrias extractivas;
+
+c).- El establecimiento en el Estado de las nuevas industrias cooperando también a la reestructuración y la ampliación de las ya establecidas;
+
+d).- El desarrollo de las artesanías regionales.
+
+###### ARTICULO 7o.
+
+Son facultades de "DESARROLLO INDUSTRIAL DE MORELOS":
+
+I.- Promover y administrar en el Estado las zonas industriales, creando un marco propicio para el surgimiento de industrias a través de la promoción de todos aquellos sectores de la infraestructura que hagan posible economías externas.
+
+II.- Dictaminar las consultas del Ejecutivo del Estado sobre las solicitudes de franquicias fiscales y estímulos que se presenten conforme a la Ley de la materia; si no se presenta el dictamen dentro de los quince días hábiles siguientes a la recepción de la consulta, se entenderá que no se objeta la solicitud respectiva.
+
+III.- Planear sus actividades como empresa de interés público, elaborando para cada industria que tome a su cargo, los planes económicos y financieros respectivos con determinación de las etapas de desarrollo y con cuantificación de las inversiones necesarias, así como con estudios y costos de mercados demostrativos de la viabilidad de cada industria.
+
+IV.- Adquirir bienes muebles e inmuebles para establecer fraccionamientos industriales con todas sus instalaciones y anexos necesarios.
+
+V.- Formar parte de consorcios industriales y empresas que operen en el Estado, así como integrar sociedades cooperativas de participación estatal.
+
+VI.- Establecer relaciones pertinentes con las autoridades y organismos federales y estatales que tengan facultades en materia económica para coordinación de programas, así como con las instituciones de crédito y las Cámaras de Industria y con los sindicatos obreros.
+
+###### ARTICULO 8o.
+
+Las actividades de "DESARROLLO INDUSTRIAL DE MORELOS" se desarrollarán con sujeción al Presupuesto anual que apruebe el Consejo de Administración.
+
+###### ARTICULO 9o.
+
+El Gobernador del Estado designará un interventor que tendrá amplias facultades en la verificación y comprobación del desarrollo de los programas y planes aprobados por el Consejo de Administración y de fiscalización del manejo de fondos, valores y bienes de la Institución, así como todas las demás que corresponden a los Comisarios de las Sociedades Anónimas.
+
+###### ARTICULO 10.
+
+El Reglamento de esta Ley establecerá las normas de organización y funciones interno de DESARROLLO INDUSTRIAL DE MORELOS.
+
+## TRANSITORIOS
+
+PRIMERO.- Se derogan todas las disposiciones que se contrapongan a la presente Ley.
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Remítase la presente Ley al Ejecutivo del Estado, para los efectos del Artículo 71, Fracción I de la Constitución Política Local.
+
+Salón de Sesiones del H. Congreso del Estado, a los treinta días del mes de enero de mil novecientos sesenta y cinco.- DIPUTADO PRESIDENTE.- Romás García Capistrán.- DIPUTADO SECRETARIO.- Alfonso Peralta García.- DIPUTADO SECRETARIO.- Alejandrino Orihuela Melgar.- Rúbricas".
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los treinta días del mes de enero de mil novecientos sesenta y cinco.
+
+SUFRAGIO EFECTIVO. NO REELECCION
+
+EL GOBERNADOR CONSTL. DEL ESTADO.
+
+Lic. Emilio Riva Palacio Morales.
+
+Rúbrica.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+Lic. Fausto Galván Campos.
+
+Rúbrica.
