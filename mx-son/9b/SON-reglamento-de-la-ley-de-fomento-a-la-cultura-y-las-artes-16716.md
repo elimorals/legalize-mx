@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-de-fomento-a-la-cultura-y-las-artes-16716"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-10"
-last_updated: "2000-04-10"
+last_updated: "2000-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY DE FOMENTO A LA CULTURA Y LAS ARTES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE MAYO DE 2000.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 10 de abril de 2000.
 
@@ -73,7 +73,9 @@ Para los efectos del artículo 7o. de la Ley, el Ejecutivo del Estado convocará
 
 En cuanto al representante de las artes plásticas y visuales, teatro, danza, música y literatura, así como el representante de los grupos indígenas, el Ejecutivo del Estado invitará a formar parte del Consejo a un miembro destacado de la comunidad artística residente en la Entidad y a un integrante de los grupos indígenas acreditados ante la autoridad correspondiente.
 
-Por lo que se refiere a los municipios, se invitara a un representante de Nogales, Hermosillo, Cajeme y Sahuaripa, correspondientes respectivamente a las regiones Norte, Centro, Sur y Sierra.
+> <small>(REFORMADO, B.O. 25 DE MAYO DE 2000)</small>
+
+Por lo que se refiere a los municipios, el Ejecutivo del Estado invitará a un representante de cada una de las Regiones Norte, Centro, Sur y Sierra.
 
 ###### ARTICULO 6o.
 
@@ -284,3 +286,11 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Dado en la residencia del Poder Ejecutivo en la ciudad de Hermosillo, Sonora, a los veinticinco días del mes de febrero del año dos mil.
 
 EL GOBERNADOR DEL ESTADO DE SONORA. ARMANDO LOPEZ NOGALES RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 25 DE MAYO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
