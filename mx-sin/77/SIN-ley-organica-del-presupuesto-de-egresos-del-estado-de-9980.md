@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-presupuesto-de-egresos-del-estado-de-9980"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1966-03-19"
-last_updated: "1993-08-04"
+last_updated: "2003-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY ORGANICA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE AGOSTO DE 1993.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 2 DE ABRIL DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", del sábado 19 de marzo de 1966.
 
@@ -336,3 +338,15 @@ Las facultades y obligaciones señaladas a la Secretaría de Planeación y Desar
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ABRIL DE 2003.
+
+Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Sinaloa, salvo las modalidades que se prevén en los artículos transitorios siguientes.
+
+Artículo Segundo. Los responsables de elaborar el Presupuesto de Egresos del Estado y de los Municipios, para el ejercicio fiscal del 2004, lo harán conforme a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Los principios que para la contabilidad gubernamental se establecen en la presente Ley serán de observancia obligatoria a partir del 1o. de Enero del 2004.
+
+Artículo Cuarto. Se abroga el Decreto número 45, publicado en el Periódico Oficial El Estado de Sinaloa No. 34, de fecha 19 de marzo de 1966, que contiene la Ley Orgánica del Presupuesto de Egresos del Estado de Sinaloa, así como sus reformas y adiciones publicadas en el mismo órgano oficial.
+
+Artículo Quinto. Las leyes, reglamentos y demás disposiciones legales y administrativas que se relacionen con el presupuesto, contabilidad y gasto público se seguirán aplicando, en lo que no se opongan a la presente Ley, en tanto se expide el Reglamento y demás disposiciones aplicables en la materia por el Ejecutivo del Estado, en los términos que establece la fracción I del Artículo 65 de la Constitución Política del Estado de Sinaloa.
