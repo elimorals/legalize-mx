@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1970-06-27"
+last_updated: "1976-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1976.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -203,11 +203,11 @@ No podrá el Congreso abrir sus Sesiones sin la concurrencia de cuatro de sus mi
 
 En el periodo en que se inicien las actividades de una nueva Legislatura los Diputados deberán reunirse el día señalado por la Ley y en caso de no haber "quórum", los presentes compelerán a los faltantes para que asistan dentro de los diez días siguientes, con la advertencia de que si no lo hicieren, se entenderá por este solo hecho, que no aceptan su encargo, llamándose luego a los Suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hicieren, se declarará vacante el Puesto y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1962)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1976)</small>
 
 ###### Artículo 31.
 
-El 15 de septiembre de cada año en Sesión Solemne a la que asistirán el Titular del Poder Ejecutivo y el Presidente del Supremo Tribunal de Justicia: el Gobernador del Estado presentará un informe por escrito en el que manifieste las condiciones generales que guarde la administración pública de la Entidad. El Presidente del Congreso contestará en términos generales.
+El 15 de Septiembre de cada año o dentro de los quince días siguientes a esta fecha, según lo determine el Congreso, en Sesión Solemne a la qu (sic) asistirán el Presidente del Supremo Tribunal de Justicia y todos los miembros integrantes de la Legislatura, el Gobernador del Estado rendirá un informe por escrito en el que manifieste las condiciones generales que guarde la administración pública de la Entidad. El Presidente del Congreso contestará en términos generales.
 
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -627,11 +627,13 @@ XXVI.- Ejercitar los derechos a que se refieren los artículos 40 y 44 de esta C
 
 XXVII.- Remitir al Congreso y en sus recesos a la Diputación Permanente, los negocios de la competencia del Poder Legislativo que por cualquier causa le hubieren sido consignados.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1976)</small>
 
-XXVIII.- Asistir a la apertura de Sesiones Ordinarias del Congreso a fin de rendir el Informe a que se refiere el artículo 31 de esta Constitución.
+XXVIII.- Rendir ante el Congreso del Estado el informe a que se refiere el Artículo 31 de esta Constitución.
 
-XXIX.- (DEROGADA, P.O. 23 DE ENERO DE 1954)
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 1976)</small>
+
+XXIX.- Asistir a la apertura del Periodo de Sesiones Ordinarias del Congreso.
 
 XXX.- Suspender a los Ayuntamiento (sic), a las Juntas Municipales, o a los miembros de ambos y a los Comisarios, en el ejercicio de sus funciones, en los casos que determinen las leyes; dando inmediatamente parte justificada al Congreso y en sus recesos a la Diputación Permanente, para que se apruebe o no la suspensión.
 
@@ -1714,3 +1716,7 @@ La presente Reforma entrará en vigor a partir de su publicación en el Periódi
 P.O. 27 DE JUNIO DE 1970.
 
 UNICO.- Este Decreto surte sus efectos a partir de la fecha de su publicación en el periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 1976.
+
+UNICO.- El presente Decreto entrará en vigor, previos los trámites dispuestos en los Artículos 130, Fracciones I, II, III y IV y 131, de la Constitución Local el día de su publicación en el Periódico Oficial del Estado.
