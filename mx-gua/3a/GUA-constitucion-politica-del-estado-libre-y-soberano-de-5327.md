@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1975-12-31"
+last_updated: "1976-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1976.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -31,1117 +31,1435 @@ El C. LIC. AGUSTIN ALCOCER, Gobernador Constitucional del Estado Libre y Soberan
 
 Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente, se ha servido decretar la siguiente
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 274 POR LA LEGISLATURA DEL ESTADO, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA PRESENTE CONSTITUCION, DANDO COMO RESULTADO UN TEXTO DIFERENTE, QUEDANDO DIVERSOS ARTICULOS INTACTOS; MOTIVO POR EL CUAL, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 28 DE MARZO DE 1976.</small>
+
 CONSTITUCION.
 
 ...
 
-## TITULO PRIMERO.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-### CAPITULO UNICO.
+## TITULO PRIMERO. DE LAS GARANTIAS
 
-###### Art. 1º.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-Todos los habitantes del Estado gozarán de las garantías que otorgan la Constitución Federal y la presente.
+### CAPITULO I. DE LAS GARANTIAS INDIVIDUALES
 
-###### Art. 2º.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-La ley es igual para todos. De ella emanan la autoridad de los que mandan y las obligaciones de los que obedecen. El Poder Público únicamente puede lo que la ley le concede y el hombre, todo lo que ésta no le prohibe.
+###### ARTICULO 10.
 
-###### Art. 3º.
+La base de la familia se constituye por el matrimonio, el cual se rige por el principio de igualdad entre los contrayentes.
 
-Ningún profesor necesita título para la enseñanza de cualquier ramo del saber.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+###### ARTICULO 11.
 
-###### Art. 4º.
+Los padres de familia están obligados a alimentar, educar e instruir a sus hijos.
 
-En el Estado sólo podrán ejercer las profesiones de Arquitecto, Bacteriólogo, Biólogo, Cirujano Dentista, Contador, Corredor Público, Enfermero, Enfermera y Partera, Farmacéutico, Licenciado en Derecho, Licenciado en Economía, Médico Veterinario Metalúrgico, Notario Público, Ingeniero, Médico, y Químico en sus diversas ramas profesionales, las personas que tengan título oficial expedido por las autoridades legalmente capacitadas para ello, y previa anotación en registros especiales que llevarán las autoridades o, en su defecto, la Secretaría de Gobierno. Las Presidencias Municipales vigilarán el fiel cumplimiento de esta disposición.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-###### Art. 5º.
+###### ARTICULO 12.
 
-Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudican a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se hubieren dictado, y a sus causa-habientes.
+Todos los habitantes del Estado de Guanajuato tienen derecho a una existencia digna por la salubridad, la instrucción, el trabajo y la cultura.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-###### Art. 6º.
+###### ARTICULO 13.
 
-La aplicación de las penas corresponde a la autoridad judicial. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en la multa que señalen los mismos o en arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta con el arresto correspondiente que no excederá en ningún caso de quince días.
+El Gobierno del Estado de Guanajuato establecerá instituciones de readaptación social, en base a la educación, trabajo y capacitación para el mismo, para los infractores de la ley, cuando deban compurgar penas dictadas por los tribunales respectivos. En todo caso los lugares destinados al efecto serán distintos para varones, mujeres y menores de edad, con tratamiento específico en orden a su sexo y edad.
 
-Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
+Solo por delito que merezca pena corporal habrá lugar a prisión preventiva, pero el sitio de ésta será distinto al destinado para la extinción de las penas y estarán completamente separados.
 
-La persecusión de los delitos incumbe al Ministerio Público y a la Policía Judicial. El Ministerio Público dependerá del Ejecutivo. El Procurador General es el Jefe de la Institución, tendrá el carácter de Representante Jurídico del Estado y será consejero del Ejecutivo.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
+###### ARTICULO 14.
 
-Art. 7º La propiedad particular solamente puede ser objeto de expropiación, por causa de utilidad pública y mediante indemnización, en la forma y términos que determinen las Leyes..
+En caso de calamidad pública, todos los habitantes, vecinos y transeúntes que se encuentren en el Municipio o en los Municipios afectados, están obligados a prestar sus servicios, de acuerdo con sus respectivas aptitudes.
 
-Se considerarán de utilidad publica las propiedades que puedan proporcionar al Estado o a los Municipios, usos o goces de beneficio social. El Gobernador del Estado hará la declaratoria correspondiente en cada caso especial.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-###### Art. 8º.
+### CAPITULO II. DE LAS GARANTIAS FAMILIARES Y SOCIALES
 
-Las elecciones serán enteramente libres, y todas las autoridades deben vigilar y proteger la libre emisión del voto. Basta reunir los requisitos legales, para elegir y ser electo.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-###### Art. 9º.
+###### ARTICULO 15.
 
-Ninguna autoridad, ningún poder público, pueden suspender los efectos de las leyes.
+Se instituye al patrimonio familiar inalienable y no sujeto al embargo ni gravamen alguno.
 
-### CAPITULO UNICO.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-Del Estado.- Su Soberanía y Territorio.
+###### ARTICULO 16.
 
-###### Art. 10.
+La extensión máxima de la propiedad rural de que pueda ser propietario un solo individuo o sociedad legalmente constituida, será fijado por la ley reglamentaria respectiva, de acuerdo con las disposiciones del Artículo 27 fracción XVII de la Constitución General de la República. Su excedente se fraccionará conforme lo previene dicho Ordenamiento. El Gobierno del Estado facilitará, por los medios a su alcance, el fraccionamiento de las superficies excedentes.
 
-El Estado de Guanajuato está constituido por la reunión de sus habitantes y por su territorio, y es libre, soberano e independiente en su administración y gobierno interiores.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-###### Art. 11.
+###### ARTICULO 17.
 
-La soberanía reside esencial y radicalmente en el pueblo, y se ejerce por medio de los poderes del Estado, en los términos que establece esta Constitución.
+La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública y mediante indemnización, en la forma y términos que determinan las leyes.
 
-###### Art. 12.
+Se consideran de utilidad pública las propiedades que puedan proporcionar al Estado o a los Municipios, usos o goces de beneficio social. El Gobernador el Estado hará la declaratoria correspondiente en cada caso especial.
 
-Todo poder público emana del pueblo y se instituye para su beneficio.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+## TITULO SEGUNDO. DE LA POBLACION DEL ESTADO
 
-###### Art. 13.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-El Estado ha delegado parte de su soberanía en los Poderes Federales, en los términos que expresa la Constitución Política de los Estados Unidos Mexicanos, la cual se obliga el mismo Estado a guardar y hacer guardar, así como las leyes que de ella emanen.
+### CAPITULO I. DE LOS HABITANTES
 
-###### Art. 14.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-El Estado se divide en Municipios. La Ley Orgánica respectiva determinará cuáles son éstos y los requisitos necesarios para la erección de otros nuevos.
-
-## TITULO SEGUNDO.
-
-### CAPITULO PRIMERO.
-
-De los Guanajuatenses y vecinos del Estado.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 15.
-
-La calidad de guanajuatense se adquiere por nacimiento o por vecindad.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 16.
-
-Son guanajuatenses por nacimiento:
-
-I. Los hijos de padres guanajuatenses, nacidos dentro o fuera del territorio del Estado.
-
-II. Los hijos de padres mexicanos avecindados en el Estado, que nazcan dentro de su territorio.
-
-III. Los hijos de padres extranjeros naturalizados y avecindados en el Estado, que reúnan los requisitos que para ser reputados por nacimiento establece la Constitución General.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 17.
-
-Son guanajuatenses por vecindad los mexicanos que residan habitualmente en el Estado, durante un periodo no menor de seis meses y los extranjeros que, naturalizados mexicanos, llenen el requisito anterior.
-
-La vecindad no se pierde por ausencia en el desempeño de un cargo público de elección popular, o de comisión que no tenga el carácter de permanente.
-
-###### Art. 18.
-
-Los vecinos de cualquier Municipio y los transeúntes que se encuentren en él, están obligados a prestar sus servicios, de acuerdo con sus respectivas aptitudes, en los casos de calamidad pública.
-
-### CAPITULO SEGUNDO.
-
-De los Ciudadanos guanajuatenses.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 1966)</small>
-
-###### Art. 19.
-
-Son ciudadanos del Estado, los varones y las mujeres que, teniendo la calidad de guanajuatenses, reúnan, además, los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1970)</small>
-
-I. Haber cumplido dieciocho años.
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1966)</small>
-
-II. Tener un modo honesto de vivir.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 20.
-
-Son derechos del Ciudadano guanajuatense:
-
-I. Tomar las armas en la Guardia Nacional, para la defensa del Estado y de sus instituciones.
-
-II. Votar en las elecciones populares para funcionarios del Estado.
-
-III. Poder ser votado o nombrado, respectivamente, para los cargos de elección popular, o para los empleos y comisiones del Estado, teniendo los demás requisitos que astablezca (sic) la ley.
-
-IV. Asociarse para tratar los asuntos políticos del Estado.
-
-V. Ejercer en ellos el derecho de petición.
-
-###### Art. 21.
-
-(DEROGADO, P.O. 16 DE ENERO DE 1966)
-
-###### Art. 22.
-
-Son obligaciones del Ciudadano guanajuatense:
-
-I. Desempeñar todos los cargos de elección popular para los que fuere electo.
-
-II. Alistarse en la Guardia Nacional.
-
-III. Votar en las elecciones populares en el Distrito Electoral que le corresponda, para nombrar funcionarios federales y del Estado, y en su Municipalidad, para la elección de funcionarios Municipales.
-
-IV. Desempeñar los demás cargos gratuitos que se le señalen, relativos a las juntas calificadoras, revisoras y reguladoras de los jornales, así como el de Jurados.
-
-V. Hacer que sus hijos reciban la instrucción laica y la militar que se imparte en las Escuelas.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 23.
-
-La calidad de ciudadano guanajuatense se pierde por sentencia ejecutoria que imponga esa pena.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 24.
-
-Se suspende la calidad de ciudadano del Estado:
-
-I. Durante la formación de un proceso criminal, desde el momento en que se dicte el auto motivado de prisión; y tratándose de los funcionarios y empleados que gocen de fuero, desde que se declare haber lugar a formación de causa.
-
-II. Durante la extinción de una pena judicial o de una pena correccional.
-
-III. Por manifestar oposición a la Constitución Federal o a la Particular del Estado, ya se haga dicha manifestación por medio de actos que las mismas prohiben, o por omisión culpable de los que prescriben.
-
-###### Art. 25.
-
-La calidad de Ciudadano se recobra:
-
-I. Por haber cesado la causa que motivó la suspensión.
-
-II. Por rehabilitación.
-
-### CAPITULO PRIMERO.
-
-Forma de Gobierno y manera de elegir a los Funcionarios Públicos.
-
-###### Art. 26.
-
-El Gobierno del Estado es republicano, representativo y democrático, teniendo como base de su división territorial y de su organización política, el Municipio libre.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-###### Art. 27.
-
-El Poder Supremo, para su ejercicio, se divide en Legislativo, Ejecutivo y Judicial.
-
-###### Art. 28.
-
-El Poder Legislativo se deposita en una Asamblea denominada "Legislatura de Guanajuato."
-
-###### Art. 29.
-
-El Poder Ejecutivo se ejercerá por una sola persona denominada "Gobernador del Estado".
-
-###### Art. 30.
-
-El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia, a los Jueces de Partido, a los Municipales y a los Jurados, con arreglo a la ley orgánica respectiva.
-
-###### Art. 31.
-
-Jamás podrán reunirse dos o más de estos Poderes en una persona o Corporación ni el Legislativo depositar la suma de su poder en una sola persona.
-
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
-
-###### Art. 32.
-
-El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales, los Regidores y Síndicos de los Ayuntamientos serán nombrados popularmente y por elección directa. Los nombramientos de Magistrados serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados nombrados por el Gobernador del Estado. Si no fuere aprobado un nombramiento por la Legislatura, el Gobernador del Estado hará un nuevo nombramiento que surtirá sus efectos, desde luego, como provisional, y el mismo se someterá a la aprobación de la Legislatura en el siguiente período de sesiones. Dentro de los primeros diez días del siguiente período de sesiones, la Legislatura deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado continuará en sus funciones con el carácter de definitivo; en caso contrario, el Gobernador hará un nuevo nombramiento y lo someterá a la aprobación de la Legislatura en los términos señalados, cesando desde luego en sus funciones el Magistrado Provisional. Si la Legislatura no estuviere en período de sesiones, el nombramiento de Magistrados que haga el Gobernador surtirá sus efectos en forma provisional, sometiéndolo a la aprobación de la Legislatura en el período inmediato de sesiones, procediéndose entonces en la forma establecida. Los nombramientos de Jueces de Partido y Municipales se harán por el Supremo Tribunal, funcionando en Colegio Electoral, y los Jurados serán electos por los Ayuntamientos respectivos.
-
-###### Art. 33.
-
-Para las elecciones populares, se dividirá el Estado en Distritos electorales, de acuerdo con la Ley Orgánica respectiva.
-
-###### Art. 34.
-
-La Ciudad de Guanajuato es la residencia habitual de los Poderes y éstos no podrán transladarse a otro lugar, sino por causa grave, y cuando lo acuerden así las dos terceras partes de los miembros de la Legislatura.
-
-## TITULO TERCERO.
-
-### CAPITULO SEGUNDO.
-
-### CAPITULO TERCERO.
-
-Del Poder Ejecutivo.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-###### Art. 54.
-
-Para ser Gobernador del Estado, se requiere:
-
-I. Ser ciudadano mexicano por nacimiento y además nativo del Estado, o con residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección.
-
-II. Estar en ejercicio de sus derechos.
-
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1968)</small>
-
-III. Tener por lo menos 35 años cumplidos al día de la elección.
-
-IV. No ser ni haber sido ministro o delegado de algún culto religioso.
-
-V. No ser militar en servicio activo o ciudadano con mando de fuerzas, regulares o irregulares, en el Estado, dentro de los ciento ochenta días anteriores a la fecha de la elección, ni el día en que ésta se efectúe; y
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1938)</small>
-
-VI. No ser Secretario de Estado, Jefe de Departamento Autónomo Federal, Ministro de la Suprema Corte, ni Procurador General de Justicia de la Nación, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección.
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1938)</small>
-
-VII. No ser Magistrado del Supremo Tribunal de Justicia del Estado, ni Procurador General de Justicia del mismo, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección.
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 1938)</small>
-
-VIII. No estar comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1943)</small>
-
-###### Art. 55.
-
-El Gobernador del Estado durará en su encargo seis años y comenzará a ejercer sus funciones el 26 de septiembre siguiente al mes de su elección.
-
-###### Art. 56.
-
-Son atribuciones del Gobernador del Estado:
-
-I. Publicar, ejecutar y hacer cumplir las leyes de la Federación, las del Estado y los decretos que emanen de ambos, dando las órdenes convenientes para esos fines, e imponiendo las penas que ameriten las infracciones.
-
-II. Formar los reglamentos que demande el mejor Gobierno de los ramos de la administración pública del Estado.
-
-III. Velar por la conservación del orden, de la tranquilidad y de la seguridad del Estado.
-
-IV. Velar igualmente por la eficacia de los servicios y administración públicos, iniciando, al efecto, las leyes y decretos que fueren pertinentes.
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 1950)</small>
-
-V. Presentar, en la primera sesión del primer período ordinario de sesiones de la Legislatura, el informe a que se refiere el artículo 45 y la cuenta de gastos de la Administración, correspondiente al año fiscal anterior.
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADA, P.O. 29 DE DICIEMBRE DE 1929)
-
-VI. Presentar el primer día del primer período ordinario de sesiones el presupuesto de gastos del año fiscal próximo, así como un proyecto de arbitrios para pagar esos gastos.
-
-VII. Cuidar de que los fondos públicos estén bien asegurados y de que la recaudación y distribución de ellos se sujeten en todo a la ley.
-
-VIII. Fomentar la instrucción pública y el mejoramiento social, protegiendo pecuniaria y moralmente, hasta donde sea posible, toda clase de adelantos y muy especialmente los que se refieran a la agricultura; pudiendo en estos casos, disminuir, por período determinado, las contribuciones de las fincas que manifiesten mayor adelanto.
-
-IX. Visitar por sí o por persona designada por él, todas las oficinas públicas dependientes del Estado.
-
-X. Convocar a la Legislatura a sesiones extraordinarias, señalando los asuntos que deberán ser tratados en ellas.
-
-XI. Concurrir a la apertura de los períodos ordinarios de sesiones de la Legislatura.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-XII. Acordar que el Secretario General del Gobierno, el Oficial Mayor o el Tesorero General del Estado, asistan a las sesiones de la Legislatura para que rindan el informe que ésta les pida.
-
-XIII. Nombrar un orador para que sostenga ante el Congreso Legislativo, las iniciativas que hubiere presentado, o defienda las observaciones hechas a los proyectos de ley o decretos.
-
-XIV. Impedir los abusos de la fuerza armada contra los Ciudadanos y exigir las responsabilidades a que hubiere lugar por ellos.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-XV. Nombrar y remover libremente al Secretario General del Gobierno, al Oficial Mayor, al Tesorero General del Estado, al Procurador General de Justicia y a todos los funcionarios y empleados del Poder Ejecutivo, conforme a las leyes que con base en esta disposición se expidan. Conceder licencias con goce de sueldo o sin él. Nombrar en los términos del artículo 32 de esta Constitución a los Magistrados que integran el Supremo Tribunal de Justicia, conocer de sus renuncias y concederles licencias con goce de sueldo o sin él, por más de dos meses. En ningún caso las licencias con goce de sueldo podrán exceder de tres meses.
-
-XVI. Suspender a los miembros de los Ayuntamientos que abusaren de sus facultades, dando inmediatamente parte a la Legislatura o a la Comisión permanente, para los efectos a que hubiere lugar, consignándolos en caso de delito, a la autoridad competente.
-
-XVII. Imponer castigos, en la forma y modo que determina esta Constitución, por infracciones a los reglamentos gubernativos.
-
-XVIII. Expedir los títulos profesionales que previene la ley de la materia.
-
-XIX. Conceder en asuntos matrimoniales las dispensas a que se refiere la ley civil, pudiendo delegar esta facultad en los Presidentes Municipales.
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1924)</small>
-
-XX. Expedir, con aprobación de la Legislatura, las bases generales para la reglamentación en el Ramo de Policía, a las cuales deberán sujetarse los Cuerpos Municipales en la formación de sus respectivos reglamentos; en la inteligencia de que el Gobernador del Estado tendrá el mando de la fuerza pública en los lugares en donde residiere habitual o transitoriamente.
-
-XXI. Mandar que se instruya y discipline la Guardia Nacional, conforme al reglamento que expida el Congreso de la Unión y a las prevenciones que determine el Congreso del Estado.
-
-XXII. Cuidar de que la justicia se administre pronta y cumplidamente y de que se ejecuten las sentencias, prestando para este objeto, a las autoridades correspondientes, los auxilios que necesiten.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1973)</small>
-
-XXIII. Turnar al Pleno del Supremo Tribunal de Justicia las quejas y excitativas de justicia dirigidas en contra de los Magistrados y Jueces en funciones, cuando medie queja de parte.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1973)</small>
-
-XXIV. Consignar a los Magistrados del Supremo Tribunal de Justicia al Congreso del Estado, para los efectos a que se contrae el artículo 104 de esta Constitución, en casos graves a juicio del Ejecutivo, y a los Jueces, en iguales circunstancias, ordenar que se pongan a disposición de la autoridad que corresponda.
-
-XXV. Conceder indultos, conmutaciones y reducciones de las penas impuestas por delitos del privativo conocimiento de los Tribunales del Estado, cuando se llenen los requisitos que exigen las leyes.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-XXVI. Ordenar que en la Oficialía Mayor del Gobierno se lleve expediente de cada uno de los funcionarios y empleados públicos del Estado, en donde consten sus hojas de servicios.
-
-XXVII. Mandar formar causa a los mismos funcionarios y empleados, cuando a su juicio lo merecieren.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1922)</small>
-
-XXVIII. Enajenar, traspasar, hipotecar, gravar y ejercer cualquier otro acto de riguroso dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, previa autorización del Congreso en cada caso especial, ateniéndose a las condiciones que el mismo Congreso determine, al que deberá dar cuenta en todo caso del uso que hiciere de la autorización.
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXIX. Nombrar a los Jueces del Tribunal de Menores en los términos que disponga la Ley relativa.
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXX. Representar al Estado, por sí o por apoderado especial cuando el Congreso lo faculte al efecto.
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXXI. Dar y pedir informes al Congreso sobre cualesquiera de los Ramos de la Administración; y al Tribunal, sobre el de Justicia.
-
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXXII. Las demás que le concedan esta Constitución y las Leyes Locales.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1932)</small>
-
-###### Art. 57.
-
-El Gobernador del Estado podrá mandar personalmente en campaña la Guardia Nacional o las Fuerzas Rurales o de Policía, cuando así lo haya concedido el Congreso.
-
-No podrá ausentarse por más de 15 días del territorio del Estado ni separarse del despacho sin la correspondiente autorización de la Cámara o de la Diputación Permanente en su caso.
-
-Para salir del Estado o separarse del despacho hasta por 15 días, bastará que dé aviso a la Legislatura o a la Diputación Permanente.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 58.
-
-Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado se auxiliará de un Secretario General del Gobierno, un Oficial Mayor, un Tesorero General del Estado, un Procurador General de Justicia y de los demás altos funcionarios que la Ley Orgánica del Poder Ejecutivo del Estado señale. En dicha Ley se fijará el número, denominación y atribuciones, así como los requisitos que deban llenar para ser nombrados. Los empleados de las dependencias del Poder Ejecutivo serán los que determine y autorice el presupuesto de egresos.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 59.
-
-Todas las leyes, decretos y reglamentos, para su cumplimiento, serán firmados por el Gobernador del Estado y el Secretario General del Gobierno y a falta de éste por el Oficial Mayor.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-###### Art. 60.
-
-El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
-
-Nunca podrán ser electos para el período inmediato:
-
-I. El Gobernador Substituto Constitucional.
-
-II. El Gobernador Interino, el Provisional, o el ciudadano que, por Ministerio de la Ley y bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
-
-## TITULO CUARTO.
-
-### CAPITULO CUARTO.
-
-## TITULO QUINTO.
-
-### CAPITULO UNICO.
-
-Municipalidades.
-
-###### Art. 71.
-
-Entretanto que, conforme a lo dispuesto en el artículo 48, fracción XII de esta Constitución, se hace nueva división territorial del Estado, subsistirán con la denominación de Municipios, los Distritos en que está actualmente dividido.
-
-###### Art. 72.
-
-El Gobierno interior de dichos Municipios y el manejo y distribución de los intereses pertenecientes a las poblaciones, corresponde a los Ayuntamientos, los que en los asuntos de su competencia no dependerán de otra autoridad.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-###### Art. 73.
-
-Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Regidores y Síndicos que sea necesario, de acuerdo con la importancia de cada Municipio, sin que el número total de miembros que los integren sea mayor de quince ni menor de siete. Por cada Regidor y Síndico Propietarios, se elegirá un suplente.
-
-###### Art. 74.
-
-La libertad Municipal no tendrá más límites que los señalados en la Constitución Federal y en la presente.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
-
-###### Art. 75.
-
-Los Ayuntamientos administrarán colectivamente los asuntos de los Municipios y el Presidente de la Corporación dirigirá las deliberaciones de ésta y será el ejecutor de los acuerdos de la misma.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1951)</small>
-
-###### Art. 76.
-
-Los Presidentes Municipales, Regidores y Síndicos electos popularmente, durarán en su encargo tres años y no podrán ser reelectos para el período inmediato. Los miembros de las Juntas de Administración Civil o de los Consejos Municipales, no podrán ser electos para el período inmediato. Todos los funcionarios municipales antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
-
-###### Art. 77.
-
-Los ciudadanos que tuvieren credenciales expedidas legalmente, se reunirán en el Salón de acuerdos del respectivo Municipio, para calificar la validez de sus credenciales y declarar el resultado, todo en los términos que ordene la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-###### Art. 78.
-
-Para ser Presidente Municipal, Regidor o Síndico, se requiere:
-
-I. Ser Ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado por delito alguno contra la propiedad.
-
-II. Saber leer y escribir.
-
-III. Tener cuando menos ciento ochenta días de residencia en el lugar en donde deba desempeñarse el cargo, al tiempo de la elección.
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1945)</small>
-
-IV. No ser Militar en servicio activo o ciudadano con mando de fuerzas, regulares o irregulares, en el Municipio en que deba efectuarse la elección, ni Secretario del Ayuntamiento o de la Presidencia Municipal, durante los noventa días anteriores al de la elección o en la fecha en que ésta se celebre.
-
-V. No ser ni haber sido ministro o delegado de algún culto, y
-
-VI. No estar comprendido en alguna de las inhabilidades que señala el artículo 76 de esta Constitución.
-
-###### Art. 79.
-
-Los cargos de los Munícipes serán gratuitos, los de Presidentes Municipales, remunerados.
-
-###### Art. 80.
-
-Las personas que hubieren desempeñado los cargos de miembros del Ayuntamiento, no están obligados a servirlos sino hasta pasados dos años.
-
-###### Art. 81.
-
-Todo Ayuntamiento tendrá un Secretario de fuera de su seno, pagado con fondos Municipales y nombrado por los miembros de aquel, a mayoría absoluta de votos; debiendo tener la persona que desempeñe ese empleo, los mismos requisitos que se exigen para pertenecer al Ayuntamiento, con excepción de la vecindad.
-
-###### Art. 82.
-
-A los Ayuntamientos compete:
-
-I. Crear y sostener los servicios referentes a la seguridad de las personas y de las propiedades.
-
-II. El fomento de los intereses materiales y morales del Municipio.
-
-III. La ejecución de las obras de saneamiento que indique el Consejo Superior de Salubridad.
-
-IV. La ejecución de todas las disposiciones del mismo Consejo Sanitario, relativas a la higiene urbana y a la salubridad pública.
-
-V. La ejecución del censo de las poblaciones y la recolección de datos estadísticos relativos a las producciones agrícola e industrial, etc.
-
-VI. La realización de los trabajos electorales.
-
-VII. La inspección de todas las escuelas, tanto públicas como privadas.
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
-
-VIII. Nombrar por elección los Jurados para la administración de justicia en los términos señalados por esta Constitución y por la Ley Orgánica de Tribunales.
-
-IX. Nombrar y remover libremente a sus empleados y concederles toda clase de licencias.
-
-X. Nombrar a las personas que formen las juntas reguladoras de jornales.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1974)</small>
-
-XI. Formar los Presupuestos de Egresos correspondientes al siguiente año económico y remitirlos, para su aprobación, a la Legislatura, en los primeros diez días del mes de noviembre.
-
-XII. Formar sus cuerpos de policía y cuidar de ésta en sus diversos ramos.
-
-XIII. Fundar y sostener el mayor número posible de escuelas rurales.
-
-XIV. Vigilar la pronta y eficaz administración de justicia en el Municipio.
-
-XV. Lo demás que les encomienden las leyes.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
-
-###### Art. 83.
-
-La administración pública en las poblaciones pequeñas, en que no haya Ayuntamiento, estará a cargo de un Delegado Municipal, nombrado anualmente por el Ayuntamiento de la Cabecera del Municipio, quien también designará un suplente.
-
-Para ser Delegado Municipal, se necesitan los mismos requisitos que para munícipe y, además, el de ser en todo caso vecino del lugar.
-
-###### Art. 84.
-
-Los Ayuntamientos distribuirán las atenciones que tienen encomendadas, en comisiones unitarias permanentes, las cuales no tendrán mando directo sobre los empleados municipales, limitándose a informar al Ayuntamiento y a proponerle las medidas que estime oportunas, cuya ejecución se encomendará en todo caso al Presidente Municipal.
-
-###### Art. 85.
-
-Los Ayuntamientos no tomarán, en los asuntos políticos, otra participación que la determinada por esta Constitución y por las leyes que de ella emanen.
-
-###### Art. 86.
-
-Los Presidentes Municipales tendrán a su cargo el buen orden y la vigilancia de los servicios municipales, ajustándose en todo a los acuerdos de los Ayuntamientos.
-
-###### Art. 87.
-
-Contra los actos del Presidente Municipal, cuando éste usurpe las funciones de otras autoridades Municipales o infrinja aus (sic) disposiciones, procede el recurso de queja ante el Ayunatmiento (sic).
-
-###### Art. 88.
-
-Los Presidentes Municipales tomarán particular empeño en que en sus respectivas circunscripciones, asistan a las escuelas públicas o privadas, todos los niños cuya edad esté comprendida entre los seis y los catorce años.
-
-#### SECCION PRIMERA.
-
-Del Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1968)</small>
-
-###### Art. 35.
-
-La Legislatura Local se compondrá cuando menos, del número de Diputados Propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por Distritos Electorales cada tres años, en la forma que determine el Código Electoral del Estado. Por cada Diputado propietario se elegirá un suplente.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1973)</small>
-
-###### Art. 36.
-
-Para ser Diputado a la Legislatura del Estado, se requiere:
-
-I. Ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado ejecutoriamente por delitos cometidos en ejercicio de funciones públicas o por delitos graves del orden común.
-
-II. Haber terminado la educación primaria y tener un modo honesto de vivir.
-
-III. Tener 21 años cumplidos al tiempo de la elección; y.
-
-IV.- No encontrarse comprendido en alguna de las prohibiciones que señala el artículo siguiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-###### Art. 37.
-
-No pueden ser Diputados a la Legislatura Local:
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1933)</small>
-
-I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-II. El Secretario General del Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Magistrados del Supremo Tribunal de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1933)</small>
-
-III. Los Militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas, regulares o irregulares, en el Distrito Electoral respectivo, dentro de los ciento ochenta días anteriores a la elección o cuando ésta se efectúe.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-IV. Los Presidentes Municipales y los Presidentes de las Juntas de Administración Civil o Consejos Municipales, a no ser que se separen definitivamente de sus cargos cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1933)</small>
-
-V. Los que sean o hayan sido ministros de cualquier culto.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-Los Diputados a la Legislatura del Estado, no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
-
-###### Art. 38.
-
-Los Diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, y jamás podrán ser reconvenidos ni juzgados por ellas.
-
-###### Art. 39.
-
-Los Diputados en ejercicio, no podrán aceptar ningún empleo público por el que se disfrute sueldo, sin previa licencia de la Legislatura o de la Comisión permanente. No quedan comprendidos en esta disposición, los empleos relativos a la instrucción pública.
-
-#### SECCION SEGUNDA.
-
-De los períodos de sesiones.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1968)</small>
-
-###### Art. 40.
-
-La Legislatura del Estado, tendrá cada año dos períodos de sesiones ordinarias, uno que comenzará el 15 de septiembre y el otro el primero de abril. Ambos se inaugurarán en la Capital de la Entidad, y la duración será de tres meses para el primero y de dos para el segundo, pudiendo prorrogarse uno y otro hasta por un mes.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1919)</small>
-
-###### Art. 41.
-
-Durante el primer período de sesiones, se ocupará de los asuntos siguientes:
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-I. Examinar y calificar la cuenta pública del año inmediato anterior, que le será presentada por la Tesorería General del Estado en los primeros cinco días del período de sesiones. El examen no se limitará a revisar si los gastos se hicieron conforme a las partidas del Presupuesto de Egresos, sino a verificar también la exactitud y justificación de tales gastos y, en su caso, a la determinación de las responsabilidades a que hubiere lugar.
-
-II.- Examinar y aprobar el Presupuesto que, con relación a los gastos del año siguiente, le será presentado por el Gobernador, y decretar los impuestos necesarios para cubrirlo.
-
-III.- Estudiar y discutir las leyes de carácter urgente, así como resolver toda clase de negocios de esta índole.
-
-Para los efectos de las fracciones I y II de este artículo, los años fiscales se contarán del 1° de enero al 31 de diciembre de cada año.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1919)</small>
-
-###### Art. 42.
-
-Durante el segundo período se ocupara de estudiar, discutir y votar las iniciativas de leyes ordinarias que se le presenten y de resolver los demás asuntos que se sometan a su consideración.
-
-###### Art. 43.
-
-La Legislatura celebrará sesiones extraordinarias cada vez que para ello fuere convocada por el Ejecutivo o por la Diputación permanente; pero entonces se limitará a tratar los asuntos comprendidos en la convocatoria.
-
-###### Art. 44.
-
-No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de Diputados.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 1950)</small>
-
-###### Art. 45.
-
-El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la primera sesión del primer período ordinario de sesiones, en la que el primero de ellos leerá un informe en el que expondrá, en términos generales, el estado que guarda su administración.
-
-###### Art. 46.
-
-El día en que la Legislatura cierre sus sesiones, nombrará, por escrutinio secreto, una Diputación permanente compuesta de cinco miembros que fungirán como propietarios, y tres que funcionarán como suplentes de los primeros, y durarán el tiempo intermedio entre unas sesiones y las otras. El primero de los nombrados será el Presidente, el segundo el Secretario, y el último el pro-Secretario.
-
-###### Art. 47.
-
-Si las sesiones extraordinarias se prolongaren hasta la fecha en que deban dar principio las ordinarias cesarán aquellas; pero en éstas se tratarán de preferencia los asuntos pendientes.
-
-#### SECCION TERCERA.
-
-De las Facultades de la Legislatura.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
-
-###### Art. 48.
-
-Son facultades de la Legislatura del Estado:
-
-I. Expedir cuantas leyes sean conducentes al Gobierno y administración de todos los ramos que comprenden.
-
-II. Fijar anualmente todos los gastos de la Administración Pública del Estado, previo examen de los Presupuestos que presente el Gobernador, y decretar las contribuciones e impuestos con que cubrir esos gastos.
-
-III. Pedir, examinar y aprobar anualmente y siempre que lo estime oportuno, las cuentas correspondientes a la administración de los caudales públicos.
-
-IV. Autorizar al Ejecutivo a que contraiga deudas a nombre del Estado, designando los recursos con que deban cubrirse.
-
-V. Conceder amnistías en circunstancias extraordinarias, por el voto de las dos terceras partes de la Legislatura y siempre que se trate de delitos de la competencia de los Tribunales del Estado.
-
-VI. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido la mayoría de los comicios.
-
-Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e irrevocable.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-VII. Aprobar o reprobar los nombramientos de Magistrados hechos por el Gobernador del Estado, conforme al artículo 32 de esta Constitución.
-
-Erigirse en Colegio Electoral para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este Funcionario ocurrida dentro de los tres últimos años de dicho período. Entretanto se encargará del Poder Ejecutivo el Secretario General del Gobierno, y a falta del mismo o si se hallare comprendido en alguna de las prohibiciones del artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador el Oficial Mayor. Si la Legislatura no se encontrare en período de sesiones, será convocada desde luego por la Diputación Permanente. El ciudadano electo por la Legislatura como Gobernador substituto deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo señala esta Constitución.
-
-VIII. Hacer la división del Estado en Distritos Electorales.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-IX. Decidir sobre los permisos que formulen los Diputados y Gobernador del Estado, y conceder a dichos funcionarios licencias para separarse de sus respectivos cargos, así como al Gobernador para salir del Estado por más de quince días.
-
-X. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo ocurrida dentro de los tres primeros años del período constitucional, a fin de que concluya dicho período. En este caso, mientras se efectúan las elecciones y toma de posesión del nuevo Gobernador, así como en toda falta temporal del encargo del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos en escrutinio secreto, un Gobernador Interino, debiendo, el electo llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, establece esta Constitución. Entre tanto se hace la elección por la Legislatura y a la que, si no estuviere en período de sesiones se convocará desde luego por la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario General del Gobierno, y a falta de éste, o en el caso de que se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, el Oficial Mayor. Estos mismos funcionarios también suplirán, en ese orden, al Gobernador del Estado en sus faltas temporales que no excedan de treinta días.
-
-XII. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
-
-XIII. Conceder dispensas de Ley por causas justificadas o de utilidad pública.
-
-XIV. Rehabilitar con arreglo a las Leyes.
-
-XV. Premiar a los que hayan prestado eminentes servicios al Estado, a la Patria o a la Humanidad, y recompensar a los buenos servidores del Estado.
-
-XVI. Examinar y aprobar las cuentas municipales.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1974)</small>
-
-XVII. Expedir anualmente la Ley de Ingresos para los Municipios del Estado, y aprobar sus respectivos Presupuestos de Egresos.
-
-XVIII. Crear y suprimir empleos y fijar sus dotaciones.
-
-XIX. Autorizar al Gobernador para que pueda, en campaña, mandar personalmente la Guardia Nacional y las fuerzas de policía.
-
-XX. Declarar, cuando se trate de delitos comunes, si hay lugar a formación de causa de que habla el artículo 100 de esta Constitución.
-
-XXI. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el desempeño de sus funciones.
-
-XXII. Promover lo necesario para obtener el mejoramiento de la educación e instrucción públicas y de todos los elementos de prosperidad en el Estado.
-
-XXIII. Fijar el número máximo de ministros de cualquier culto que pueden ejercer en el Estado o en cualquiera población de él.
-
-XXIV. Conceder al Ejecutivo facultades extraordinarias en determinados ramos, por el tiempo indispensable, y cuando así lo exijan la paz o las necesidades públicas.
-
-XXV. Crear nuevos Municipios y suprimir algunos de los existentes, mediante el voto de las dos terceras partes de la totalidad de los Diputados.
-
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXVI. Organizar la enseñanza que impartan el Gobierno del Estado y los Municipios, uniformando debidamente la primaria y velando porque en la impartida por las escuelas particulares, no se violen las Leyes relativas, ni se comprometa la salud de los educandos.
-
-XXVII. Formar su reglamento interior, así como el de Contaduría Mayor de Hacienda, y modificarlos cuando lo crea conveniente.
-
-XXVIII. Nombrar y remover libremente a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
-
-XXIX. Expedir las leyes que sean necesarias para hacer efectivas las disposiciones de la Constitución Federal y de la presente.
-
-XXX. Interpretar las Leyes y Decretos del Estado cuando la necesidad lo exija.
-
-XXXI. Reformar, de acuerdo con esta Constitución y con la Federal, las Leyes secundarias del Estado, haciendo consecutivamente su codificación.
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXXII. Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno general constituya un ataque a la soberanía, independencia o libertad del Estado o a la Constitución Federal, por el que resulte afectado el mismo.
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
-
-XXXIII. Facultar al Ejecutivo con las limitaciones que crean necesarias para que, por sí o por apoderado especial, represente al Estado en los casos que corresponda.
-
-XXXIV. Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de riguroso dominio sobre los muebles o inmuebles pertenecientes al Estado, fijando, en cada caso especial, las condiciones a que deba sujetarse o dejándolas a juicio del mismo Ejecutivo, quien, en todo caso, dará cuenta a la Legislatura del uso que hiciere de la autorización; y
-
-XXXV. Las demás facultades que de un modo especial se indiquen en cualquiera de los artículos de esta Constitución.
-
-#### SECCION CUARTA.
-
-Iniciativa y Formación de la Leyes.
-
-###### Art. 49.
-
-El derecho de iniciar leyes compete:
-
-I. Al Gobernador del Estado.
-
-II. A los Diputados a la Legislatura.
-
-II. Al Supremo Tribunal de Justicia.
-
-IV. A los Ayuntamientos.
-
-V. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1933)
-
-###### Art. 50.
-
-Las iniciativas se sujetarán al reglamento de los debates; pero, una vez aceptadas, se pasarán el Ejecutivo por un término que no exceda de siete días, para que haga las observaciones que creyere del caso.
-
-###### Art. 51.
-
-No se pasarán al Ejecutivo, para los fines que señala el artículo anterior, los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Gran Jurado o en Colegio electoral, y las que se refieran a la responsabilidad de los funcionarios por delitos oficiales.
-
-###### Art. 52.
-
-Las iniciativas o proyectos de ley que fueren desechados por la Legislatura, no podrán volver a ser presentados en el mismo período de sesiones.
-
-#### SECCION QUINTA.
-
-De la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1941)</small>
-
-###### Art. 53.
-
-Son facultades y obligaciones de la Diputación Permanente:
-
-I. Acordar por sí sola, cuando lo disponga esta Constitución, cuando el caso lo exija, o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias.
-
-II. Recibir los expedientes relativos a las elecciones de Gobernador y Diputados Locales, turnando los primeros a la Legislatura, debiendo convocarla al efecto; y los segundos a la Junta Preparatoria del nuevo Congreso, para que se hagan los cómputos y declaraciones respectivas.
-
-III. Instalar y presidir la primera Junta Preparatoria del nuevo Congreso.
-
-IV. Nombrar con calidad de interinos a los empleados de la Secretaría de la Cámara y de la Oficina de Glosa.
-
-V. Admitir las renuncias de los funcionarios y empleados nombrados conforme a sus facultades, por la Legislatura o por la misma Diputación Permanente.
-
-VI. Expeditar los trabajos pendientes al tiempo del receso, y ejecutar, en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y con otros.
-
-VII. Conceder licencia, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura.
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-VIII. Nombrar Gobernador provisional, en los casos de las fracciones VII y XI del artículo 48 de esta Constitución, cuando el Secretario General del Gobierno y el Oficial Mayor estén comprendidos en alguna de las prohibiciones que establece el artículo 60 de la misma; y
-
-> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-IX. Aprobar o reprobar los nombramientos de Magistrados interinos en el caso a que se refiere la última parte del artículo 64 de esta Constitución.
-
-#### SECCION PRIMERA.
-
-Poder Judicial. Supremo Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
-
-###### Art. 61.
-
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, Jueces de Partido, Jueces Municipales y el Jurado Popular. El Supremo Tribunal de Justicia se compondrá de nueve Magistrados Propietarios y seis Supernumerarios, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos del artículo 32 de esta Constitución.
-
-El funcionamiento del Pleno y de las Salas del Supremo Tribunal, las atribuciones del Presidente y de los Magistrados, así como el número y competencia de los Jueces de Partido, Jueces Municipales y el Jurado Popular, se regirán por lo que dispongan esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes aplicables.
-
-Los Magistrados durarán en su encargo seis años. tomarán posesión el día primero de enero del año siguiente al de la renovación del Poder Ejecutivo y no quedan impedidos para desempeñar el mismo cargo en periodos subsecuentes. Sólo podrán ser privados de su cargo, dentro de ese periodo, por la comisión de delitos graves del orden común o en los términos de la Ley de Responsabilidades de los Funcionarios y Empleados Públicos, mediante sentencia ejecutoria dictada de conformidad con lo dispuesto en el Título Noveno de esta Constitución.
-
-Las audiencias del Pleno y de las Salas serán públicas, excepto en los casos en que la moral o intereses públicos exijan que sean secretas.
-
-La remuneración que perciban por sus servicios los Magistrados, Jueces de Partido y Municipales, no podrán ser disminuidas durante su encargo.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
-
-###### Art. 62.
-
-Para ser Magistrados se requiere:
-
-I. Ser Ciudadano guanajuatense en ejercicio de sus derechos:
-
-II. Tener título de abogado expedido por la autoridad o corporación legalmente facultada para ello, y por lo menos tres años de práctica en el ejercicio de su actividad profesional.
-
-III. Tener veinticinco años cumplidos el día de la designación.
-
-IV. Gozar de buena reputación y no haber sido condenado por delito alguno con motivo de sus funciones o por delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
-
-###### Art. 63.
-
-Son atribuciones del Supremo Tribunal de Justicia:
-
-I. Conocer, en los juicios civiles y penales, de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
-
-II. Decidir las cuestiones de competencia que se susciten entre los funcionarios encargados de la administración de justicia en el Estado, en los casos que determine la Ley.
-
-III. Formar su reglamento interior, enviándolo a la Legislatura para su aprobación.
-
-IV. Dictar las medidas que sean procedentes para que la administración de justicia sea pronto y expedita, y para que se observen la disciplina y puntualidad en los tribunales del Estado.
-
-V. Erigirse en Colegio Electoral para nombrar Jueces de Partido y Municipales, señalar a sus adscripciones, concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten.
-
-VI. Nombrar y remover por causa justificada a los funcionarios y empleados del Supremo Tribunal, concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten.
-
-VII. Aprobar los nombramientos que hagan los Jueces de Partido y Municipales de los funcionarios y empleados de su adscripción.
-
-VIII. Cumplir las demás atribuciones que le señalen la Ley Orgánica del Poder Judicial del Estado, los Códigos de Procedimientos y demás leyes aplicables.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 64.
-
-Los Magistrados propietarios en ejercicio de sus funciones, no podrán ejercer la profesión de abogados sino en negocios propios, o en los de su esposa e hijos, ni ser asesores, árbitros o desempeñar algún otro empleo o comisión, excepción de los docentes. Los magistrados supernumerarios suplirán las faltas temporales de los Magistrados propietarios, siempre que no excedan de dos meses. Cuando la falta excediere de ese tiempo se nombrará Magistrado propietario interino, conforme a lo dispuesto en el artículo 32 de esta Constitución.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 65.
-
-El Presidente del Supremo Tribunal será uno de los Magistrados propietarios en funciones, designado por mayoría de votos de los Magistrados propietarios y supernumerarios que estén en funciones; durará en su encargo un año y podrá ser reelecto.
-
-#### SECCION SEGUNDA.
-
-Jueces de Partido y Municipales.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 66.
-
-Los Jueces de Partido durarán en su encargo cuatro años y podrán ser reelectos, si lo fueren sólo podrán ser privados de sus puestos por sentencia ejecutoria en los términos del Título Noveno de esta Constitución cuando sean condenados por la comisión de delitos del orden común y en los casos en que así lo prevenga la Ley de Responsabilidades de funcionarios públicos. Durante los primeros cuatro años de su encargo los Jueces de Partido sólo podrán ser destituidos por el Tribunal en Pleno, por la comisión de graves faltas o delitos, sin perjuicio de la acción penal que corresponda.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1945)</small>
-
-###### Art. 67.
-
-Para ser Juez de Partido se requiere: ser ciudadano mexicano, de preferencia Guanajuatense, en ejercicio de sus derechos; abogado con dos años de práctica y no haber sido condenado por delito alguno con motivo de sus funciones, o por delito contra la propiedad. El Supremo Tribunal de Justicia podrá dispensar del requisito de práctica.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
-
-###### Art. 68.
-
-Los Jueces de Partido residirán en la Cabecera del Partido Judicial y no podrán cambiar el despacho a otra población, sino autorizados por el Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
-
-###### Art. 69.
-
-Los Jueces Municipales serán nombrados por el Supremo Tribunal de Justicia en los términos de la Ley Orgánica respectiva.
-
-###### Art. 70.
-
-Los Jueces Municipales no podrán ser removidos en el ejercicio de su encargo, sino por causa justificada.
-
-## TITULO SEXTO.
-
-Hacienda pública del Estado.
-
-###### Art. 89.
-
-La Hacienda pública del Estado se compondrá de contribuciones, rentas y bienes, en los términos que expresen las leyes secundarias.
-
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
-
-###### Art. 90.
-
-Los ingresos necesarios para cubrir los gastos de la Administración Pública del Estado serán decretados por la Legislatura.
-
-###### Art. 91.
-
-Ninguna contribución se decretará sino después de que la Legislatura haya aprobado los gastos del Estado, teniendo en cuenta los presupuestos que remita el Ejecutivo.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 92.
-
-Para el cobro y administración de los caudales públicos habrá una Tesorería General del Estado y las Oficinas de Rentas que autorice el presupuesto anual de egresos. El personal de dichas oficinas tendrá las atribuciones que las leyes especiales, que expida la Legislatura, les señale.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 93.
-
-El Tesorero General del Estado será responsable de la aplicación de los caudales públicos conforme al Presupuesto Anual de Egresos o de las leyes especiales correspondientes.
-
-###### Art. 94.
-
-Habrá una Oficina de Glosa de cuentas, que dependerá inmediatamente de la Legislatura del Estado, y tendrá la organización y atribuciones que fije la ley.
-
-###### Art. 95.
-
-Todo empleado de Hacienda que maneje caudales públicos del Estado, caucionará suficientemente su manejo.
-
-## TITULO SEPTIMO.
-
-De la Guardia Nacional.
-
-###### Art. 96.
-
-Para cooperar a la defensa de la República y para conservar el orden interior del Estado, habrá en él una Guardia Nacional, sujeta al reglamento que para el objeto expida el Congreso de la Unión.
-
-###### Art. 97.
-
-El Gobernador del Estado es el jefe superior de la Guardia Nacional del mismo.
-
-## TITULO OCTAVO.
-
-De la Intrucción (sic) Pública.
-
-###### Art. 98.
-
-El Estado continuará sosteniendo y mejorando, en lo posible, las escuelas Profesionales y Preparatorias, pero concederá preferente atención a difundir los conocimientos impartidos en las escuelas primarias, procurando que en todos los poblados de más de doscientos habitantes, exista una escuela elemental.
-
-###### Art. 99.
-
-No se concederá dispensa de ninguna de las asignaturas que forman los planes de estudios de las escuelas preparatorias y profesionales del Estado.
-
-## TITULO NOVENO.
-
-De las Responsabilidades Oficiales.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 100.
-
-El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, el Secretario General del Gobierno, el Oficial Mayor, el Tesorero General del Estado, el Procurador General de Justicia y los demás altos funcionarios que señale la Ley Orgánica del Poder Ejecutivo del Estado, serán responsables por los delitos comunes o por las faltas que comentan durante el desempeño de sus cargos o con motivo de éstos.
-
-###### Art. 101.
-
-Los Jueces del Partido, los Municipales, los Agentes del Ministerio Público, los Presidentes Municipales, los Munícipes, los Visitadores y todos los demás agentes de la autoridad o de policía, también son responsables por los delitos comunes, o faltas que cometan en el desempeño de sus cargos, o con motivo de esos mismos cargos.
-
-###### Art. 102.
-
-Esa responsabilidad solamente podrá exigirse durante el tiempo que el funcionario e empleado desempeñe el encargo y un año después.
-
-###### Art. 103.
-
-El Gobernador del Estado, durante el período de sus funciones, solo podrá ser acusado por los delitos de traición a la Patria, violación de la Constitución y delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 104.
-
-Siempre que se trate de alguno de los funcionarios de primer orden a que se refiere el artículo 100, y el delito fuere del orden común, la Legislatura, erigida en Gran Jurado, declarará si hay (sic) lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior. En caso afirmativo, por esta declaración quedará el acusado separado de su encargo y sujeto al Supremo Tribunal de Justicia. Si dicho Tribunal no fuere competente por la naturaleza del delito, la consignación se hará a la autoridad a que corresponda.
-
-###### Art. 105.
-
-De los delitos oficiales cometidos por los mismos funcionarios de primer orden, a que se refiere el artículo anterior, conocerán también la Legislatura y el Supremo Tribunal de Justicia, con sujeción a lo que prevenga la ley de la materia.
-
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 106.
-
-Los funcionarios a que se refiere el artículo 100, serán juzgados en todas las instancias, por el Supremo Tribunal de Justicia.
-
-> <small>(ADICIONADO, P. O. 8 DE OCTUBRE DE 1967)</small>
-
-###### Art. 107.
-
-Los demás agentes de la autoridad o de la policía, a que se refiere el artículo 101, serán juzgados por los jueces de partido o municipales, según competa.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
-
-###### Art. 108.
-
-La responsabilidad de los funcionarios y empleados públicos por delitos oficiales, cuya prescripción no esté determinada en la ley, solo podrá exigirse durante el período de funciones y un año después.
-
-En las demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario ni empleado público.
-
-## TITULO DECIMO.
-
-Prevenciones Generales.
-
-###### Art. 109.
-
-Especial empeño se tomará en que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos consignados en la Constitución Federal.
-
-###### Art. 110.
-
-Entretanto que se expiden las leyes relativas al problema agrario, el Gobierno del Estado facilitará, por los medios que estén a su alcance, el fraccionamiento de tierras.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1968)</small>
-
-###### Art. 111.
-
-Para las elecciones municipales, las Municipalidades se dividirán en Secciones Electorales, de no menos de 100 electores ni más de 1,200 cada una.
-
-###### Art. 112.
-
-Ningún Ciudadano podrá desempeñar a la vez, en el Estado, dos cargos de elección popular; pero el nombrado podrá elegir, entre ambos, el que más le convenga. No podrán reunirse en un mismo individuo dos cargos o empleos por los que perciba sueldo, exceptuándose los de instrucción pública, sino con permiso especial de la Legislatura.
-
-###### Art. 113.
-
-Todo funcionario o empleado público recibirá por sus servicios, una compensación que será determinada por la ley, y que no será renunciable. Se exceptúan los de Regidores, Jurados, Empadronadores, miembros de las casillas electorales, de las Juntas computadoras y de las reguladoras de los jornales, así como los demás que determinen las leyes.
-
-###### Art. 114.
-
-La ley que aumente o disminuya las dietas de los CC. Diputados, no podrá tener efecto, sino después de concluído su período constitucional.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1932)</small>
-
-La misma disposición es aplicable al Ciudadano Gobernador.
-
-###### Art. 115.
-
-Cuando algún Diputado deje de asistir por más de diez días continuados a las sesiones de la Legislatura, sin permiso de la misma, se entenderá que renuncia a concurrir al período de sesiones de que trate, y se llamará al suplente, para que lo reemplace hasta la terminación de dicho período.
-
-###### Art. 116.
-
-Nunca y por ningún motivo serán dispensables los requisitos consignados en esta Constitución, para el desempeño de las funciones de Gobernador del Estado, Diputados, Magistrados, Jueces de Partido y Munícipes.
-
-###### Art. 117.
-
-La infracción de cualquier precepto constitucional, produce acción popular contra el infractor.
-
-###### Art. 118.
+###### ARTICULO 18.
 
 Los empleos o cargos públicos, no son ni pueden ser, en el Estado, propiedad o patrimonio de quien los ejerza.
 
-###### Art. 119.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-En todo tiempo puede ser reformada o adicionada la presente Constitución; pero para que la adición o la reforma se efectúen, es indispensable que la Legislatura las apruebe por el voto de las dos terceras partes de la totalidad de los Diputados, y además, que oiga la opinión de la mayoría de los Ayuntamientos.
+###### ARTICULO 19.
 
-###### Art. 120.
+Son habitantes del Estado de Guanajuato todas las personas que residan dentro de su circunscripción territorial.
 
-Si por algún trastorno público dejara de regir en la República la Constitución Eederal (sic) y entretanto que el orden se restablezca, el Estado de Guanajuato reasumirá su soberanía y solamente se gobernará por la presente Constitución y por las leyes que de ella emanen.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-###### Art. 121.
+### CAPITULO II. DE LOS GUANAJUATENSES
 
-Cuando por cualquiera causa se interrumpa la observancia de esta Constitución en alguna o en algunas de las poblaciones del Estado, luego que desaparezca el motivo, se reestablecerá con el orden, la observancia de la misma Constitución; y conforme a sus preceptos y a los de las leyes que emanen de ella, serán juzgados y castigalos (sic) culpables.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
-## TITULO UNDECIMO.
+###### ARTICULO 20.
+
+Son obligaciones de los habitantes del Estado:
+
+I.- Cumplir con los preceptos constitucionales y los de las leyes, reglamentos y disposiciones que se dicten;
+
+II.- Inscribirse en el Padrón Municipal que les corresponda, y
+
+III.- Contribuir a los gastos públicos de la Federación, del Estado y del Municipio de su residencia, en la forma como dispongan las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 21.
+
+La calidad de guanajuatenses se adquiere por nacimiento o por vecindad.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO III. DE LOS CIUDADANOS GUANAJUATENSES
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 22.
+
+Son guanajuatenses por nacimiento:
+
+I.- Los hijos de padre o madre guanajuatense, nacidos dentro o fuera del territorio del Estado;
+
+II.- Los hijos de padres mexicanos avecindados en el Estado, nacidos dentro de su territorio;
+
+III.- Los hijos de padres extranjeros naturalizados o avecindados en el Estado, nacidos dentro de su territorio.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 23.
+
+Son guanajuatenses por vecindad los mexicanos por nacimiento o naturalización que residan habitualmente en el Estado, durante un período no menor de seis meses.
+
+La vecindad no se pierde por ausencia en el desempeño de un cargo público de lección popular, o de comisión que no tenga el carácter de permanente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 24.
+
+Son ciudadanos del Estado, los varones y mujeres que, teniendo la calidad de guanajuatenses, reúnan, además los siguientes requisitos:
+
+I.- Haber cumplido dieciocho años, y
+
+II.- Tener un modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 25.
+
+Son prerrogativas del ciudadano guanajuatense:
+
+I.- Tomar las armas en el Ejército o en la Guardia Nacional para defensa del Estado y de sus instituciones;
+
+II.- Votar en las elecciones populares para funcionarios del Estado;
+
+III.- Poder ser votado o nombrado, respectivamente, para los cargos de elección popular o para los empleos o comisiones del Estado, si reúnen, además, los requisitos establecidos en la ley;
+
+IV.- Asociarse para tratar los asuntos políticos del Estado, y
+
+V.- Ejercer el derecho de petición.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 26.
+
+Son obligaciones del ciudadano guajanajuatense:
+
+I.- Desempeñar todos los cargos de elección popular para los que fuere electo;
+
+II.- Alistarse en la Guardia Nacional;
+
+III.- Votar en las elecciones populares en el distrito electoral que le corresponda, para elegir funcionarios federales y del Estado, y en su municipalidad para la elección de funcionarios municipales.
+
+IV.- Desempeñar los demás cargos gratuitos que se les señalen, relativos a funciones electorales, censales, de jurados, y reguladoras de los jornales, y
+
+V.- Hacer que sus hijos o pupilos reciban la educación primaria y la instrucción militar que se imparte en las escuelas o en los lugares destinados para el efecto.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 27.
+
+Las prerrogativas de ciudadano guanajuatense se suspenden:
+
+I.- Por incumplimiento a las obligaciones a que se refiere el artículo anterior;
+
+II.- Por estar sujeto a un proceso criminal que merezca pena corporal, a partir de la fecha del auto de formal prisión;
+
+III.- Durante la extinción de una pena corporal;
+
+IV.- Por vagancia, malvivencia, ebriedad consuetudinaria o drogadicción declarada en términos de ley;
+
+V.- Por estar prófugo de la justicia desde que se dicte orden de aprehensión hasta la prescripción de la acción penal, y
+
+VI.- Por sentencia ejecutoria que decrete la pena de suspensión de derechos, en los términos que disponga el Código Penal.
+
+La suspensión motivada según la fracción I, durará un año, y se impondrá independientemente de las demás sanciones a que se haga acreedor.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO TERCERO. DE LA SOBERANIA Y FORMA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO I. DE LA SOBERANA (SIC) DEL ESTADO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 28.
+
+Las prerrogativas del ciudadano se recobran:
+
+I.- Por haber cesado la causa que motivó la suspensión;
+
+II.- Por rehabilitación, y
+
+III:- Por el transcurso del tiempo de suspensión.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 29.
+
+La calidad de ciudadano guanajuatense se pierde por sentencia ejecutoria que imponga esa pena.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 30.
+
+El Estado de Guanajuato está constituido por la reunión de sus habitantes y por su territorio, y es libre, soberano e independiente de su administración y gobierno interiores.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 31.
+
+La soberanía reside esencial y originariamente en el pueblo, quien la ejerce por medio de los Poderes del Estado, en los términos que establece esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO II. DE LA FORMA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 32.
+
+todo poder público dimana del pueblo y se instituye para su beneficio.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO CUARTO. DEL TERRITORIO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO III. DEL SISTEMA ELECTORAL Y DEL NOMBRAMIENTO DE SUS FUNCIONARIOS
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 33.
+
+El Estado de Guanajuato participa, como Estado Federado, de la soberanía nacional, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 34.
+
+El Gobierno del Estado es republicano, representativo y democrático, teniendo como base de su división territorial y de su organización política, el Municipio Libre.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 35.
+
+El Estado de Guanajuato forma parte integrante de los Estados Unidos Mexicanos, en base al Pacto Federal establecido, al cual está incorporado, de conformidad a lo dispuesto en el Artículo 43 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO QUINTO. DE LA DIVISION DE PODERES
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 36.
+
+El Gobernador, los Diputados a la Legislatura y los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, serán electos popularmente, por votación directa, secreta y mayoritaria relativa, de conformidad con lo dispuesto en la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 37.
+
+Los Magistrados del Supremo Tribunal de Justicia serán nombrados por el Gobernador del Estado, con la probación (sic) de la Legislatura, o de la Diputación Permanente, en su caso.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 38.
+
+Los Jueces de Primera Instancia y los municipales serán nombrados por mayoría de votos de los Magistrados del Supremo Tribunal de Justicia, en los términos de la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 39.
+
+Los Jurados serán electos por los Ayuntamientos, de conformidad a lo establecido en la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 40.
+
+Las elecciones serán enteramente libres, y todas las autoridades deben vigilar y proteger la libre emisión del voto. Basta reunir los requisitos legales, para elegir y ser electo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO I. GENERALIDADES
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION PRIMERA. DE LA ELECCION E INSTALACION DE LA LEGISLATURA
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 41.
+
+Para las elecciones populares, la Legislatura dividirá el Estado en Distritos Electorales y éstos en secciones de no menos de 100 ni más de 3,000 electores cada una, de acuerdo con la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 42.
+
+El territorio del Estado de Guanajuato como parte integrante de la Federación, conserva los límites que ha tenido hasta la fecha.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 43.
+
+El Estado se divide en Municipios, éstos a su vez se subdividen en Cabeceras y Delegaciones de conformidad a lo dispuesto en la Ley Orgánica Municipal. Para la creación de otros nuevos, se estará a lo previsto en la propia ley.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 44
+
+La ciudad de Guanajuato es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar sino por causa grave y cuando lo acuerden así las dos terceras partes de los miembros de la Legislatura.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 45.
+
+El Poder Supremo, para su ejercicio, se divide en Legislativo, Ejecutivo y Judicial.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 46.
+
+El Poder Legislativo se deposita en una asamblea denominada Legislatura de Guanajuato.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 47.
+
+El Poder Ejecutivo se ejercerá por una sola persona, denominada Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 48.
+
+Corresponde el ejercicio del Poder Judicial, al Supremo Tribunal de Justicia del Estado, a los jueces de Primera Instancia, a los Jueces Municipales, y a los Jurados, con arreglo a la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 49.
+
+Jamás podrán reunirse dos o más de estos Poderes en una persona o corporación ni el Legislativo depositar la suma de su poder en una sola persona.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 50.
+
+La Legislatura de Guanajuato se compondrá de representantes populares, denominados Diputados, electos cada tres años mediante votación directa, secreta uninominal, por mayoría relativa, en número igual de distritos en que se divida, el Estado, apegándose a lo dispuesto por la Ley Electoral. Por cada Diputado Propietario se elegirá un Suplente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 51.
+
+Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 52.
+
+Para ser Diputado a la Legislatura del Estado, se requiere:
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado ejecutoriamente, por delitos cometidos en ejercicio de sus funciones públicas o por delitos graves del orden común;
+
+II.- Saber leer y escribir, y tener un modo honesto de vivir;
+
+III.- Tener veintiún años cumplidos al tiempo de la elección;
+
+IV.- Haber residido en el Estado cuando menos durante seis meses inmediatos anteriores a la fecha de la elección, y
+
+V.- No encontrarse comprendido en alguna de las prohibiciones que señala el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 53.
+
+No pueden ser Diputados a la Legislatura del Estado:
+
+I.- El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación;
+
+II.- El Secretario General del Gobierno, el Oficial Mayor, el Tesorero General del Estado, el Procurador General de Justicia, y los Magistrados del Supremo Tribunal de Justicia, a no ser que se separen definitivamente de sus cargos cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones;
+
+III.- Los militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas regulares o irregulares y de policía en el distrito electoral respectivo, dentro de los noventa días anteriores a la elección o cuando ésta se efectúe;
+
+IV.- Los miembros de los Ayuntamientos, los de las Juntas de Administración Civil o Consejos Municipales, y los mismos, siempre que ejerzan sus funciones en un Municipio comprendido dentro del distrito en que habrá de efectuarse su elección, a no ser que se separen de sus cargos cuando menos noventa días antes de la fecha en que deba efectuarse la elección, y
+
+V.- Los que sean o hayan sido ministros de cualquier culto.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 54.
+
+Los Diputados a la Legislatura del Estado, no podrán ser reelectos para el período inmediato. Los suplentes sí podrán ser electos con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 55.
+
+Los diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, y jamás podrán ser reconvenidos ni juzgados por ellas.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION TERCERA. DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 56.
+
+Los diputados en ejercicio, no podrán aceptar ningún empleo público por el que se disfrute sueldo, sin previa licencia de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su función representativa mientras dura su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 57.
+
+La Legislatura del Estado tendrá cada año dos períodos de sesiones ordinarias, uno que comenzará el 15 de septiembre y el otro el 15 de junio. La duración será de tres meses para el primero y de dos para el segundo.
+
+El primer período de sesiones podrá prorrogarse hasta por un mes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 58.
+
+Durante el período de sesiones que se inicie el 15 de septiembre, la Legislatura se ocupará de los asuntos siguientes:
+
+I.- Examinar y aprobar en su caso, el Presupuesto General de Egresos del año siguiente, que presente el Gobernador, y decretar los impuestos necesarios para cubrirlo;
+
+II.- Estudiar, discutir y votar las iniciativas de ley o decreto que le sean presentadas, y
+
+III.- Los demás asuntos que le sean sometidos a su consideración.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 59.
+
+Durante el segundo período se ocupará de:
+
+I.- Examinar y calificar la Cuenta Pública que le será presentada por el Ejecutivo Local en los primeros cinco días del período de sesiones. El examen no se limitará a revisar si los gastos se hicieron conforme a las partidas del Presupuesto de Egresos, sino a verificar también la exactitud y justificación de tales gastos y, en su caso, a la determinación de las responsabilidades a que hubiere lugar;
+
+II.- Estudiar, discutir y votar las iniciativas de ley o decretos que le sean presentadas, y
+
+III.- Resolver los demás asuntos que sean sometidos a su consideración.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 60.
+
+La Legislatura celebrará sesiones extraordinarias cada vez que para ello fuere convocada por el Ejecutivo Local o por la Diputación Permanente, pero entonces se militará a tratar los asuntos comprendidos en la convocatoria.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 61.
+
+No podrá celebrarse ninguna sesión sin la concurrencia de más de la mitad del número total de Diputados.
+
+Cuando algún Diputado deje de asistir por más de cinco días continuados a las sesiones de la Legislatura, se entenderá que renuncia a concurrir a ese período de sesiones. Al efecto se llamará al suplente para que lo reemplace hasta la terminación de dicho período.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 62.
+
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia asistirán a la apertura de los dos períodos ordinarios de sesiones.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION CUARTA. DE LAS FACULTADES DE LA LEGISLATURA
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 63.
+
+La ley que expida la Legislatura en relación a aumento o disminución de las dietas de los ciudadanos Diputados o modifique las percepciones del Gobernador, no surtirá efectos sino hasta la conclusión de sus respectivos períodos de ejercicio.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION QUINTA. DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 64.
+
+El derecho de iniciar leyes compete:
+
+I.- Al Gobernador del Estado;
+
+II.- A los Diputados de la Legislatura, y
+
+III.- A los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 65.
+
+Las iniciativas se sujetarán al Reglamento para el Gobierno Interior de la Legislatura del Estado y una vez aprobadas, se pasarán al Ejecutivo para que en plazo no mayor de diez días haga las observaciones pertinentes, o proceda a su promulgación y publicación.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION PRIMERA
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 66.
+
+No se pasarán el Ejecutivo, para los fines que señala el artículo anterior, los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Gran Jurado o en Colegio Electoral y las que se refieran a la responsabilidad de los funcionarios por delitos cometidos en ejercicio de funciones públicas o del orden común.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO II. DEL PODER LEGISLATIVO
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION SEGUNDA. DE LAS DEPENDENCIAS DEL EJECUTIVO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 67.
+
+Las iniciativas o proyectos de ley que fueren desechados por la Legislatura, no podrán volver a ser presentados en el mismo período de sesiones.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 68.
+
+Son facultades de la Legislatura del Estado:
+
+I.- Expedir cuantas leyes sean conducentes al gobierno y administración en todos los ramos que comprende;
+
+II.- Presentar iniciativas de leyes o decretos al Congreso de la Unión, y ejercer las funciones de Constituyente Permanente, para adicionar o reformar la Constitución Federal, de acuerdo con lo dispuesto en el Artículo 135 de ese Ordenamiento;
+
+III.- expedir las leyes que sean necesarias para hacer efectivas las disposiciones de la Constitución Federal y de la presente;
+
+IV.- Reformar y adicionar, de acuerdo con esta Constitución, las leyes secundarias del Estado, haciendo consecutivamente su codificación;
+
+V.- Solicitar al Gobernador del Estado la parecencia (sic) de funcionarios del Poder Ejecutivo para que, previa autorización, informen a la Cámara cuando se discuta o estudie un negocio relativo a las funciones que aquéllos ejerzan;
+
+VI.- Formular su Reglamento Interior, así como el de la Contaduría Mayor de Hacienda, y modificarlo cuando lo estimen pertinente;
+
+VII.- Fijar anualmente los gastos que requiera la administración pública del Estado, previo examen del Presupuesto de Egresos presentado por el Gobernador, y decretar la Ley de Ingresos respectiva;
+
+VIII.- Solicitar, examinar y aprobar anualmente, y siempre que lo estime oportuno, las cuentas correspondientes a la administración de los caudales públicos;
+
+IX.- Autorizar el Ejecutivo a que contrate adeudos a cargo del Estado para la ejecución de obras de utilidad pública, salvo los que se contraten como consecuencia de una calamidad general, designando los recursos con que deban cubrirse;
+
+X.- Expedir anualmente la Ley de Ingresos para los Municipios del Estado y aprobar sus respectivos Presupuestos de Egresos y Tarifas de Abasto;
+
+XI.- Autorizar el Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes inmuebles pertenecientes al Estado, fijando en cada caso especial, las condiciones a que deban sujetarse o dejándolas a juicio del mismo Ejecutivo, quien en todo caso dará cuenta a la Legislatura del uso que hiciere de la autorización;
+
+XII.- Crear y suprimir empleos y fijar sus dotaciones;
+
+XIII.- Hacer la división del Estado en Distritos Electorales;
+
+XIV.- Convocar a elecciones de Gobernador en caso de falta absoluta del que debiere ejercer el cargo, si no se presenta a tomar posesión del mismo o si dicha falta ocurre dentro de los tres primeros años del período constitucional, a fin de que concluya dicho período, conforme a lo establecido en el Artículo 76 de este Ordenamiento;
+
+XV.- Erigirse en Colegio Electoral para elegir Gobernador sustituto para que concluya el período constitucional, en caso de falta absoluta de este funcionario ocurrida dento (sic) de los tres últimos años de dicho período, de conformidad al Artículo 77 de esta Constitución;
+
+XVI.- En las elecciones de Gobernador declarar electo al que haya obtenido la moyaría (sic) de votos en los comicios, previo el correspondiente escrutinio;
+
+XVII.- Declarar electos a los Senadores, que hubieren obtenido la mayoría de votos emitidos en la Entidad;
+
+XVIII.- Reformar, mediante el voto de las dos terceras partes de la totalidad de los Diputados y con aprobación de la mayoría de los Ayuntamientos, la división política del Estado, a fin de que resulte adecuada a las necesidades del buen gobierno;
+
+XIX.- Crear nuevos Municipios y suprimir algunos de los existentes, mediante el voto de las dos terceras partes de la totalidad de los Diputados, y con la aprobación de la mayoría de los Ayuntamientos;
+
+XX.- Examinar y aprobar, en su caso, las cuentas municipales;
+
+XXI.- Nombrar y remover a sus empleados y los de la Contaduría Mayor de Hacienda;
+
+XXII.- Aprobar, en su caso, los nombramientos de Magistrados hechos por el Gobernador del Estado conforme al Artículo 37 de esta Constitución;
+
+XXIII.- Erigirse en Gran Jurado para conocer en las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones;
+
+XXIV.- Declarar, si ha lugar de formación de causas, de que habla el Artículo 139 de esta Constitución;
+
+XXV.- Conceder amnistía en circunstancias extraordinarias, por el voto de las dos terceras partes de los miembros de la Legislatura y siempre que se trate de delitos de la competencia de los Tribunales del Estado;
+
+XXVI.- Rehabilitar a los ciudadanos con arreglo a las leyes;
+
+XXVII.- Fijar el número máximo de ministros de todo culto religioso, para que puedan ejercer en cualquier población del Estado;
+
+XXVIII.- Premiar a quienes hayan prestado eminentes servicios al Estado, a la Patria o a la humanidad, y recompensar a los buenos servidores del Estado;
+
+XXIX.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna reforma o adición a la Constitución General de la República, el dictado de una ley o cualquier acto del gobierno general, constituyan invasión de la soberanía del Estado;
+
+XXX.- Decidir sobre los permisos que formulen los Diputados y el Gobernador del Estado y conceder a dichos funcionarios licencias para separarse de sus respectivos cargo (sic), y
+
+XXXI.- Las demás que de un modo especial se otorguen en cualquiera de los preceptos de esta Constitución.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 69.
+
+El día de clausura de cada período de sesiones ordinarias, la Legislatura nombrará, por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de cinco miembros propietarios y tres suplentes, que durarán en su encargo el tiempo intermedio entre un período y otro de sesiones ordinarias. El primero de los nombrados será el Presidente, el segundo el Secretario, el Tesorero el pro-Tesorero, y los dos últimos tendrán el carácter de Vocales.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 70.
+
+Son facultades y obligaciones de la Diputación Permanente:
+
+I.- Acordar por sí sola, cuando lo disponga esta Constitución, el caso lo exija o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias;
+
+II.- Recibir los expedientes relativos a las elecciones extraordinarias de Gobernador en caso de no estar reunida la Legislatura, debiendo convocarla para los efectos conducentes;
+
+III.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
+
+IV.- Nombrar, con calidad de interinos, a los empleados de la Legislatura y de las Contaduría Mayor de Hacienda, sometiéndolo a consideración de la Legislatura en el período inmediato;
+
+V.- Admitir las renuncias de los funcionarios y empleados de la Legislatura y de la Contaduría Mayor de Hacienda;
+
+VI.- Expeditar los trabajos pendientes al tiempo del receso, y ejecutar, en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y con otros;
+
+VII.- Conceder licencias al Gobernador del Estado y a los Diputados en términos de la fracción XXX del Artículo 68;
+
+VIII.- Nombrar Gobernador provisional en los casos previstos en los Artículos 76 y 77 de esta Constitución;
+
+IX.- Aprobar, en su caso, los nombramientos de Magistrados a que se refiere el Artículo 37 de esta Constitución, sometiéndolos a ratificación de la Legislatura en el período inmediato de sesiones, y
+
+X.- Las demás consignadas de modo especial en esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 71.
+
+La elección de Gobernador Constitucional del Estado será por votación directa, secreta, uninominal y por mayoría relativa, de todos los ciudadanos guanajuatenses, en los términos de la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 72.
+
+Para ser Gobernador del Estado, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;
+
+II.- Estar en ejercicio de sus derechos;
+
+III.- Tener por lo menos 30 años cumplidos al día de la elección;
+
+IV.- No ser, ni haber sido ministro o delegado de algún culto religioso, ni pertenecer al estado eclesiástico;
+
+V.- No ser militar en servicio activo o ciudadano con mando de fuerzas, regulares o irregulares en el Estado, dentro de los ciento ochenta días anteriores a la fecha de la elección;
+
+VI.- No ser Secretario de Estado, Jefe de Departamento del Distrito Federal, Ministro de la Suprema Corte de Justicia, ni Procurador General de Justicia de la Nación, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección;
+
+VII.- No ser Magistrado del Supremo Tribunal de Justicia del Estado, ni Procurador General de Justicia, Secretario General, Oficial Mayor o Tesorero General del Estado, en funciones dentro de los ciento ochenta días anteriores a la fecha de la elección;
+
+VIII.- No estar comprendido en las prohibiciones establecidas en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 73.
+
+El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+I.- El Gobernador sustituto Constitucional, y
+
+II.- El Gobernador interino, el provisional o el ciudadano que, por ministerio de ley y bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 74.
+
+El Gobernador del Estado durará en su encargo seis años y comenzará a ejercer sus funciones el 26 de septiembre siguiente al mes de su elección.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 75.
+
+en el acto de toma de posesión de su cargo el Gobernador deberá rendir protesta, ante la Legislatura del Estado o la Diputación Permanente, en su caso, en la forma siguiente: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las leyes que de ellas emanen, y desempeñar con lealtad y patriotismo el cargo que me ha conferido el pueblo, para bien de la Nación y del Estado de Guanajuato, y si así no lo hiciere que el pueblo me lo demande".
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 76.
+
+Cuando el Gobernador Electo no se presentare a tomar posesión de su cargo, o en caso de falta absoluta de Gobernador ocurrida en los tres primeros años de ejercicio constitucional, en tanto se realizan las elecciones a que deberá convocar la Legislatura de conformidad a lo dispuesto en la fracción XIV del Artículo 68 de este Ordenamiento, así como en toda falta temporal del encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos en escrutinio secreto, un Gobernador Interino, debiendo el electo llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, establece esta Constitución.
+
+De no estar en período de sesiones la Legislatura, la Diputación Permanente la convocará de inmediato y desde luego se encargará del Poder Ejecutivo el Secretario General del Gobierno.
+
+En caso de impedimento del Secretario General, la Diputación Permanente designará de inmediato un Gobernador Provisional.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 77.
+
+Cuando la falta absoluta de Gobernador ocurra en los tres últimos años del ejercicio constitucional, la Legislatura del Estado, erigida en Colegio Electoral, procederá a elegir al Gobernador sustituto para que determine el período constitucional de acuerdo a la fracción XIV del Artículo 68 de este Ordenamiento.
+
+En tanto se realiza la elección, o de no estar reunida la Legislatura, se procederá de conformidad con lo dispuesto en el artículo anterior, en lo conducente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 78.
+
+El cargo del Gobernador del Estado sólo es renunciable por causa grave calificada por la Legislatura del Estado, ante la cual ha de ser presentada la renuncia.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 79.
+
+En las ausencias o faltas temporales del Gobernador del Estado se observarán las siguientes disposiciones:
+
+I.- Las ausencias hasta por 30 días, serán suplidas por el Secretario General del Gobierno;
+
+II.- Si la ausencia excede de 30 días y no pasa de 90, el Gobernador dará aviso a la Legislatura o a la Diputación Permanente, en su caso, quedando encargado del Despacho el Secretario General del Gobierno, y
+
+III.- S i la falta temporal excede de 90 días, la Legislatura o la Diputación Permanente designarán, según el caso, un Gobernador Interino o Provisional para que lo supla durante el tiempo de su ausencia.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 80.
+
+Las facultades y obligaciones del Gobernador del Estado, son:
+
+I.- Promulgar, publicar, cumplir y hacer cumplir las leyes y decretos de la Federación, del Estado y las disposiciones emanadas de ambos;
+
+II.- Expedir los reglamentos que demande el mejor funcionamiento y organización de la administración pública del Estado;
+
+III.- Vigilar la conservación del orden, la tranquilidad y la seguridad del Estado;
+
+IV.- Rendir ante la Legislatura del Estado, el informe a que se refiere el Artículo 81 de este Ordenamiento;
+
+V.- Presentar a la Legislatura del Estado, con la debida oportunidad, la cuenta de gastos de la administración pública, el Presupuesto de Egresos y la iniciativa de Ley de Ingresos;
+
+VI.- Vigilar que la recaudación y distribución de los fondos públicos se sujeten en todo a la ley;
+
+VII.- Convocar a la Legislatura a sesiones extraordinarias, señalando los asuntos que deberán ser tratados en ellas;
+
+VIII.- Concurrir a la apertura de los períodos ordinarios de sesiones de la Legislatura;
+
+IX.- Acordar que los funcionarios del Poder Ejecutivo comparezcan ante la Legislatura en los casos en que ésta así lo solicite, cuando se discuta o estudie un negocio relativo a sus funciones;
+
+X.- Nombrar y remover al Secretario General del Gobierno, al Oficial Mayor, al Tesorero General del Estado, al Procurador General de Justicia, y a todos los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las leyes;
+
+XI.- Nombrar en los términos del Artículo 86 de esta Constitución a los Magistrados que integran el Supremo Tribunal de Justicia del Estado, conceder las licencias que excedan de dos meses y conocer de sus renuncias;
+
+XII.- Suspender a los miembros de los Ayuntamientos por causas graves informando a la Legislatura o a la Diputación Permanente, para los efectos a que hubiere lugar;
+
+XII.- Expedir los títulos profesionales que previene la ley de la materia;
+
+XIV.- Conceder en asuntos matrimoniales las dispensas a que se refiere la Ley Civil, pudiendo delegar esta facultad en los Presidentes Municipales;
+
+XV.- Expedir los Reglamentos de Policía y buen gobierno, en la esfera de su competencia estatal;
+
+XVI.- El Gobernador del Estado tendrá el mando de la fuerza pública en los municipios donde residiere habitual o transitoriamente;
+
+XVII.- Mandar que se instruya y discipline la Guardia Nacional, conforme al Reglamento que expida el Congreso de la Unión y a las prevenciones que determine la Legislatura del Estado;
+
+XVIII.- Facilitar al Poder Judicial los auxilios necesarios para el ejercicio expedito de sus funciones;
+
+XIX.- Turnar al Pleno del Supremo Tribunal de Justicia las quejas y excitativas dirigidas en contra de los Magistrados y Jueces en funciones, cuando medie instancia de parte;
+
+XX.- Consignar ante la Legislatura del Estado a los Magistrados del Supremo Tribunal de Justicia para los efectos a que se contrae el Artículo 139 de esta Constitución, y en tratándose de los Jueces, en iguales circunstancias, ordenar que se pongan a disposición de la autoridad correspondiente;
+
+XXI.- Conceder, conforme a las leyes, indulto a los reos sentenciados por delitos del orden común;
+
+XXII.- Ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado, previa autorización de la Legislatura rindiéndole informe del uso que en cada caso se hiciere de dicha autorización;
+
+XXIII.- Crear en el Estado Patronatos para que los ciudadanos participen como coadyuvantes de la administración pública en actividades de interés social;
+
+XXIV.- Nombrar y remover a los miembros del Organismo Tutelar de Menores Infractores, en los términos que disponga la ley de la materia;
+
+XXV.- Representar al Estado, por sí o por apoderado especial cuando proceda;
+
+XXVI.- Rendir informes a la Legislatura sobre cualquier ramo de la administración pública y solicitar informes al Supremo Tribunal sobre la administración de justicia, y
+
+XXVII.- Las demás que le concedan esta Constitución y las leyes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION SEGUNDA. DE LOS JUECES DE PRIMARA INSTANCIA Y MUNICIPALES
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO III. DEL PODER EJECUTIVO
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 81.
+
+El Gobernador del Estado asistirá el día 10 de agosto de cada año a la sesión ordinaria de la Legislatura, en la que presentará un informe por escrito exponiendo la situación que guarda la administración pública del Estado. Podrá asistir también, cuando lo solicite, para informar sobre asuntos de su competencia y así lo acuerde la Legislatura.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO IV. DEL PODER JUDICIAL
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 82.
+
+Todas las leyes, decretos y reglamentos, para su cumplimiento, serán formados por el Gobernador del Estado y el Secretario General del Gobierno y a falta de éste por el Oficial Mayor.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 83.
+
+Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo del Estado, la cual establecerá las atribuciones, forma de organización y las facultades de sus titulares.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 84.
+
+El Ministerio Público y la Policía Judicial dependen del Ejecutivo. El Procurador General es el Jefe de la institución y tendrá a su vez el carácter de representante jurídico del Estado y Consejero del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 85.
+
+Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Municipales y Jurado Popular.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 86.
+
+El Supremo Tribunal se compondrá del número de Magistrados Propietarios y Supernumerarios que señale la Ley Orgánica del Poder Judicial, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos de la fracción XXII del Artículo 68 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 87.
+
+Los Magistrados Supernumerarios suplirán las faltas temporales de los Magistrados Propietarios, siempre que no excedan de dos meses. Cuando la falta excediere de ese tiempo se nombrará Magistrado Interino, conforme a lo dispuesto en el Artículo 86 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 88.
+
+Para ser Magistrado se requiere:
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
+
+II.- Tener título de licenciado en Derecho, expedido por autoridad o corporación legalmente facultada para ello, y por lo menos tres años de práctica en el ejercicio de su actividad profesional;
+
+III.- Tener 25 años cumplidos el día de la designación, y
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito alguno con motivo de funciones públicas o por delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 89.
+
+Los Magistrados durarán en su encargo seis años y tomarán posesión el día primero de octubre siguiente a la fecha de toma de posesión del Gobernador Constitucional. Los Magistrados no quedan impedidos para desempeñar el mismo cargo en periodo subsecuentes.
+
+Los Magistrados sólo podrán ser privados de su cargo por la comisión de delitos graves del orden común o en los términos de la Ley de Responsabilidades para Funcionarios y Empleados Públicos, mediante sentencia ejecutoria dictada conforme a lo dispuesto en el Título Noveno de esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 90.
+
+El Presidente del Supremo Tribunal será uno de los Magistrados Propietarios en funciones, designado por mayoría de votos de los Magistrados Propietarios y Supernumerarios que estén en funciones, durará en su encargo un año y podrá ser reelecto.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 91.
+
+Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su encargo, protestarán ante la Legislatura, y si está no estuviere en periodo de sesiones, ante la Diputación Permanente, en la siguiente forma:
+
+Presidente: "¿Protestáis desempeñar fiel y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado, que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las de leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?".
+
+Magistrado: "Sí, protesto".
+
+Presidente: "Si no lo hiciéreis así, la Nación y el Estado os lo demanden".
+
+El Presidente del Tribunal rendirá la protesta ante el Pleno del mismo en la siguiente forma:
+
+"Protesto desempeñar leal y patrióticamente el cargo de Presidente del Supremo de Justicia del Estado que se me ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado, y sí así no lo hiciere, la Nación y el Estado me lo demanden".
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 92.
+
+Las facultades y obligaciones del Supremo Tribunal de Justicia, son:
+
+I.- Conocer, en los juicios civiles y penales, de las instancias y recursos que sean de su competencia conforme a las Leyes secundarias; exceptuando el recurso de casación que queda suprimido;
+
+II.- Decidir las cuestiones de competencia que se susciten entre los funcionarios encargados de la administración de justicia en el Estado en los casos que determine la ley;
+
+III.- Formular su Reglamento Interior, enviándolo al Gobernador del Estado para su publicación;
+
+IV.- Dictar las medidas que sean procedentes para que la administración de justicia sea pronta y expedita, y para que se observen la disciplina y puntualidad en los Tribunales del Estado;
+
+V.- Erigirse en Colegio Electoral para nombrar Jueces de Primera Instancia y Municipales, señalar sus adscripciones, concederles licencia con goce de sueldo o sin él y resolver sobre las renuncias que presenten;
+
+VI.- Nombrar y remover por causa justificada a los funcionarios y empleados del Supremo Tribunal, concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten;
+
+VII.- Aprobar los nombramientos que hagan los Jueces de Primera Instancia y Municipales de los funcionarios y empleados de su respectiva circunscripción, y
+
+VIII.- Cumplir las demás atribuciones que les señalen la Ley Orgánica del Poder Judicial del Estado, los Códigos de Procedimientos y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+#### SECCION SEGUNDA. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 93.
+
+Las audiencias del Pleno y de las Salas serán públicas, excepto en los casos en que la moral o intereses públicos exijan que sean secretas.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 94.
+
+La remuneración que reciban por sus servicios los Magistrados y los Jueces de Primera Instancia y Municipales no podrán ser disminuidos durante su encargo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO I. DEL PATRIMONIO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 95.
+
+Los Magistrados en ejercicio de sus funciones no podrán ejercer la profesión de abogados sino en negocios propios, de su esposa o de sus hijos, ni desempeñar otro empleo, cargo o comisión, a excepción de los docentes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO II. DE LA HACIENDA PUBLICA
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 96.
+
+La Ley Orgánica del Poder Judicial determinará la organización y funcionamiento del Supremo Tribunal de Justicia y de los Juzgados dependientes de éste, las atribuciones del Presidente y de los Magistrados, el número y competencia de los Jueces de Primera Instancia, Jueces Municipales y Jurado Popular.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 97.
+
+Los Jueces de Primera Instancia y los Municipales serán nombrados por el Pleno del Supremo Tribunal de Justicia erigido en Colegio Electoral, y sólo podrán ser removidos de sus cargos por la comisión de delitos o faltas cometidos en el ejercicio de sus funciones, o por delitos graves del orden común, en los términos del Título Noveno de esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 98.
+
+Para ser Juez de Primera Instancia se requiere:
+
+I.- Ser ciudadano mexicano, de preferencia guanajuatense, en ejercicio de sus derechos;
+
+II.- Tener título de Licenciado en Derecho, y
+
+III.- No haber sido sentenciado ejecutoriamente por delito alguno cometido con motivo del ejercicio de funciones públicas o delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 99.
+
+Los Jueces de Primera Instancia y Municipales en funciones no podrán ejercer la profesión de abogados sino en negocios propios, de su esposa y de sus hijos, ni desempeñar otro empleo, cargo o comisión, a excepción de los docentes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 100.
+
+No se podrá proceder en contra de los Jueces de Primera instancia o Municipales en funciones como responsables de algún delito, sin que previamente sean suspendidos en sus funciones por el Pleno del supremo Tribunal.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 101.
+
+Los bienes que integran el patrimonio del Estado son:
+
+I.- De dominio público, y
+
+II.- De dominio privado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 102.
+
+Son bienes del dominio público:
+
+I.- Los de uso común;
+
+II.- Los destinados por el Gobierno del Estado a servicios públicos;
+
+III.- Los inmuebles y muebles de valor histórico y cultural, y
+
+IV.- Los demás que señalen las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO SEPTIMO. DE LA SEGURIDAD PUBLICA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO I. DE LOS MUNICIPIOS DEL ESTADO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 103.
+
+Los bienes de dominio privado del Estado son los que actualmente le pertenecen en propiedad o que en el futuro ingresen a su patrimonio, por cualquier forma de adquisición de la propiedad, no previstos en el artículo procedente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 104.
+
+La Hacienda Pública del Estado está constituida por:
+
+I.- Los ingresos que determine su Ley de Ingresos, y demás normas aplicables, y
+
+II.- Los ingresos que adquiera por subsidio, participaciones, legados, donaciones o cualesquiera otra causa.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 105.
+
+El cobro y administración de los caudales públicos competen a la Tesorería General del Estado. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes sobre la materia.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO OCTAVO. DEL MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO II. DE LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPIO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 106.
+
+Todo empleado de Hacienda que maneje caudales públicos del Estado, caucionará suficientemente su manejo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 107.
+
+Para cooperar a la defensa de la República y para conservar el orden interior del Estado, habrá en él una Guardia Nacional, sujeta al Reglamento que para el objeto expida el Congreso de la Unión.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO III. DEL PATRIMONIO Y HACIENDA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 108.
+
+En el Estado se integrarán los Cuerpos de Seguridad Pública necesarios para la protección de la paz y tranquilidad de los habitantes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 109.
+
+El Gobernador del Estado es el Jefe Superior de la Guardia Nacional.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 110.
+
+El Municipio libre, base de la división territorial del Estado, es una institución de carácter público, con personalidad jurídica y patrimonio, autónomo en su régimen interior y libre en la administración de su Hacienda.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 111.
+
+Los Municipios que conforman el Estado de Guanajuato, son los determinados por la Ley Orgánica Municipal, Ordenamiento Reglamentario de los preceptos constitucionales sobre la materia.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 112.
+
+El Gobierno Interior Municipal y el manejo y administración de los intereses de las poblaciones, corresponden a los Ayuntamientos, los que en los asuntos de su competencia no dependerán de otra autoridad.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 113.
+
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, electo por planilla mediante la emisión del voto libre, secreto, y por mayoría relativa de los ciudadanos guanajuatenses, con residencia en la Cabecera de la circunscripción territorial respectiva, conforme a lo dispuesto por la Ley Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 114.
+
+La libertad municipal no tendrá más límites que los señalados en la Constitución Federal y en la presente.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 115.
+
+Los bienes que conforman el patrimonio municipal, son:
+
+I.- De dominio público, y
+
+II.- De dominio privado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 116.
+
+Son bienes de dominio público:
+
+I.- Los de uso común;
+
+II.- Los inmuebles destinados a un servicio público, y
+
+III.- Los muebles normalmente considerados insustituibles como los expedientes, archivos, libros raros, obras de arte, piezas arqueológicas y demás que no sean del dominio de la Federación o del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 117.
+
+Son bienes del dominio privado los que ingresen a su patrimonio, no comprendidos en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO IV. DEL GOBIERNO MUNICIPAL
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 118.
+
+La hacienda de los Municipios del Estado se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquiera por concepto de subsidios, participaciones, legados, donaciones o por cualquier otra causa.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 119.
+
+El Ayuntamiento es el Organo Municipal a través del cual, los habitantes de la circunscripción territorial respectiva realizan los fines propuestos derivados de su propia naturaleza jurídica.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 120.
+
+Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Regidores y Síndicos que sea necesario, de acuerdo con la importancia de cada Municipio, sin que el número total de miembros que los integren sea mayor de quince ni menor de seis. Por cada Regidor y Síndico Propietario, se elegirá un Suplente.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 121.
+
+Los Ayuntamientos administrarán colectivamente los asuntos de sus respectivos Municipios, correspondiendo al Presidente Municipal la dirección de las deliberaciones y ser el ejecutor de los acuerdos tomados.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO IV (SIC). DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 122.
+
+Los Ayuntamientos podrán nombrar representantes ante los organismos federales o estatales, cuando se realicen obras de mejoramiento en su circunscripción, a fin de coadyuvar a su mejor realización.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 123.
+
+A los Ayuntamientos compete:
+
+I.- Expedir su Reglamento Interior y los Bandos de Policía y buen gobierno, dentro de la esfera de su competencia, para el ejercicio de sus funciones;
+
+II.- Crear y sostener los servicios referentes a la seguridad de las personas y de las propiedades;
+
+III.- El fomento de los intereses materiales y morales del Municipio;
+
+IV.- La ejecución de las obras de saneamiento que indique el Consejo de Salubridad General;
+
+V.- La ejecución de todas las disposiciones relativas a la higiene urbana y a la salubridad pública;
+
+VI.- La realización de las funciones electorales, federales y estatales, de conformidad a las leyes de la materia;
+
+VII.- Elegir a los Jurados para la administración de la justicia en los términos señalados por esta Constitución y la Ley Orgánica del Poder Judicial;
+
+VIII.- Nombrar y remover a sus empleados y concederles licencias para separase de sus cargos;
+
+IX.- Formular el presupuesto de egresos correspondiente al siguiente año fiscal y remitirlo para su aprobación a la Legislatura, en los primeros diez días del mes de noviembre;
+
+X.- Formar sus cuerpos de policía y cuidar de ésta en sus diversos ramos, y
+
+XI.- Lo demás que les encomienden la Ley Orgánica Municipal y las leyes secundarias.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 124.
+
+Para ser Presidente Municipal, Regidor o Síndico, se requiere:
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado ejecutoriamente por delito grave del orden común;
+
+II.- Tener cuando menos ciento ochenta días de residir en el lugar en donde deba desempeñar el cargo, al tiempo de la elección;
+
+III.- No ser militar en servicio activo o ciudadano con mando de fuerzas regulares o irregulares en el Municipio donde deba efectuarse la elección, ni Secretario del Ayuntamiento o de la Presidencia Municipal, durante los noventa días anteriores al de la elección o en la fecha en que ésta se celebre.
+
+IV.- No ser ni haber sido ministro o delegado de algún culto, y
+
+V.- No estar comprendido en alguna de las inhabilidades que señala el Artículo 125 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 125.
+
+Los Presidentes Municipales, Regidores y Síndicos electos popularmente, durarán en su encargo tres años y no podrán ser reelectos para el período inmediato, así como tampoco podrán serlo los miembros de las Juntas de Administración Civil o de los Consejos Municipales, para el período inmediato.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 126.
+
+Ninguno de los funcionarios municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de propietarios, podrán ser electos para el período inmediato como suplentes, pero éstos sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 127.
+
+Ningún ciudadano puede excusarse de servir al cargo de presidente, síndico o regidor, salvo causa justificada.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 128.
+
+Las personas que hubieren desempeñado los cargos de miembres (sic) del Ayuntamiento, no están obligados a servirlos sino hasta pasados tres años.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 129.
+
+Los ciudadanos que hubieren obtenido la mayoría relativa de votos en las elecciones y a quienes se haya expedido la credencial correspondiente se reunirán en el salón de cabildos del Municipio respectivo, para calificar la validez de sus credenciales y declarar el resultado, en los términos establecidos por la Ley Electoral.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 130.
+
+Para el despacho de los asuntos administrativos, los Ayuntamientos contarán con las siguientes unidades internas:
+
+I.- Secretaría;
+
+II.- Tesorería;
+
+III.- Delegaciones Municipales; y
+
+IV.- Las demás que requieran para su organización interna, de conformidad con su presupuesto.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 131.
+
+Todo Ayuntamiento tendrá un secretario administrativo pagado con fondos municipales y nombrado por sus miembros, a mayoría absoluta de votos, debiendo tener la persona que desempeñe ese empleo, los mismos requisitos que se exigen para ser miembros del Ayuntamiento, con excepción del de vecindad.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO VI. DE LAS DEPENDENCIAS ADMINISTRATIVAS DEL AYUNTAMIENTO
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 132.
+
+El Tesorero satisfará los mismos requisitos del Secretario y deberá otorgar la fianza que fije el Ayuntamiento para el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO DECIMO. DE LAS REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 133.
+
+La administración pública en las poblaciones en que no haya Ayuntamiento, estará a cargo de un Delegado Municipal, nombrado por el Ayuntamiento del Municipio respectivo, quien también designará a un suplente.
+
+Para ser Delegado, se necesitan los mismos requisitos que para Munícipe, y ser vecino del lugar.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 134.
+
+En todo lo concerniente a la organización interna de los municipios, atribuciones de los miembros del Ayuntamiento, funcionamiento, y demás, se estará a las prescripciones contenidas en la Ley Orgánica Municipal.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 135.
+
+El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, el Secretario General del Gobierno, el Oficial Mayor, el Tesorero General, el Procurador General de Justicia y los demás altos funcionarios que señale la Ley Orgánica del Poder Ejecutivo, serán responsables por los delitos comunes o por las faltas que cometan durante el desempeño de sus cargos o con motivo de éstos.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 136.
+
+Los Jueces de Primera Instancia, los Municipales, los Agentes Ministe (sic) Público, los Presidentes Municipales, los Síndicos y Regidores y todos los demás agentes de la autoridad, también son responsables de los delitos comunes o faltas que cometan en el desempeño de sus cargos o con motivo de ellos.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 137.
+
+La responsabilidad por falta oficial solamente podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el cargo y hasta un año después.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 138.
+
+El Gobernador del Estado, durante el período de sus funciones, sólo podrá ser acusados (sic) por los delitos de traición a la Patria, violación de la Constitución y delitos graves del orden común.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 139.
+
+Cuando se trate de alguno de los funcionarios a que se refiere el Artículo 135 y el delito fuere del orden común, la Legislatura del Estado, erigida en Gran Jurado, declarará si ha lugar o no a proceder contra el acusado. En caso negativo no habrá lugar a procedimiento ulterior. En caso afirmativo, por esa sola declaración quedará el acusado separado de su cargo y sujeto al Supremo Tribunal de Justicia. Si dicho Tribunal no fuere competente por la naturaleza del delito, la consignación se hará a la autoridad que corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 140.
+
+De los delitos oficiales cometidos por los funcionarios, a que se refiere el artículo anterior, conocer (sic) también la Legislatura y el Supremo Tribunal de Justicia, con sujeción a lo que prevengan las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 141.
+
+Los altos funcionarios a que se refiere el Artículo 135 serán juzgados en todas las instancias por el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 142.
+
+Los demás agentes de la autoridad a que se refiere el Artículo 136 serán juzgados por los Jueces de Primera Instancia o los Municipales, según competa.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 143.
+
+En las demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario ni empleado público.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
+
+## TITULO UNDECIMO. PREVENCIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 148.
+
+Ningún ciudadano podrá desempeñar a la vez, dos cargos de elección popular, pero el nombrado podrá elegir entre ambos. No podrán reunirse en un mismo individuo de (sic) o más cargos o empleos por los que perciba sueldo, sino con permiso especial de la Legislatura, exceptuándose los docentes.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 149.
+
+Todo funcionario o empleado público recibirá por sus servicios la compensación determinada por la Ley, y no podrá ser renunciable. Se exceptúan los de jurados, funcionarios electorales, los censales y los demás que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 150.
+
+Nunca y por ningún motivo serán dispensables los requisitos consignados en esta Constitución, para el desempeño de las funciones de Gobernador del Estado, Diputados, Magistrados, Jueces de Primera Instancia y Municipales.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 151.
+
+La infracción de cualquier precepto constitucional, produce acción popular contra el infractor.
+
+###### ARTICULO 144.
+
+Las disposiciones contenidas en el Artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes emanadas de ella, serán la Ley Suprema del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 145.
+
+En todo tiempo puede ser reformada o adicionada la presente Constitución. Para que las adiciones o reformas lleguen a ser parte de la misma es indispensable que la Legislatura las apruebe por el voto de las dos terceras partes de la totalidad de los Diputados y, además, que sean aprobadas por la mayoría de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 146.
+
+Si por algún trastorno público dejara de regir en la República la Constitución Federal y entre tanto el orden se restablezca, en (sic) Estado de Guanajuato solamente se gobernará por la presente Constitución y por las leyes que de ella emanen.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 147.
+
+Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier causa se interrumpa su observancia en alguna o en algunas de las poblaciones del Estado. Tan luego como desaparezca el motivo se restablecerá su observancia y conforme a sus preceptos y a los de las Leyes que de ella emanen, serán juzgados y castigados los culpables.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
 
 ## Artículos transitorios.
 
-## Artículos transitorios.
-
-Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y será protestada con la mayor solemnidad.
+Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y serán protestada con la mayor solemnidad.
 
 Art. 2º La XXVI Legislatura concluirá su período el 14 de septiembre de 1918.
 
@@ -1153,9 +1471,9 @@ Art. 4º En virtud de haber sido derogado por el artículo 63, fracción I de es
 
 Art. 5º Por una sola vez, circunscrita a los casos que en seguida se enumeran, la periodicidad establecida por los artículos 35 y 76 de la Constitución Política del Estado, para la elección de Diputados a la Legislatura Local y para Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, se regirá por los términos siguientes:
 
-I. Los Diputados que se elijan el primer domingo de julio de 1971 para integrar la XLVIII Legislatura local, durarán 2 años en su cargo;
+I.- Los Diputados que se elijan el primer domingo de julio de 1971 para integrar la XLVIII Legislatura local, durarán 2 años en su cargo;
 
-II. Los Presidentes Municipales, los Síndicos y los Regidores que se elijan el tercer domingo de diciembre de 1972, para integrar los diversos Ayuntamientos del Estado, durarán un año en su cargo.
+II.- Los Presidentes Municipales, los Síndicos y los Regidores que se elijan el tercer domingo de diciembre de 1972, para integrar los diversos Ayuntamientos del Estado, durarán un año en su cargo.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 1970)</small>
 
@@ -1163,13 +1481,13 @@ Art. 6º La Ley Electoral del Estado proveerá lo necesario en cada caso, a fin 
 
 Dada en Guanajuato, a los tres días del mes de septiembre del año de mil novecientos diecisiete.- Presidente, Lic. José M. Ortega, Diputado por el 2º Distrito.- Vice-Presidente, Lic. Catarino Juárez, Diputado por el 9º Distrito.- Primer Secretario, Zabulón Puente, Diputado pon (sic) el 3er Distrito.- Segundo Secretario, J. Cruz Torres jr., Diputado Suplente por el 8º Distrito.- Dr. Luis P. Bustamante, Diputado por el 1er. Distrito.- Dr. Anastasio López Escobedo, Diputado por el 4º Distrito.- J. Trinidad Covarrubias, Diputado por el 5º Distrito.- José J. López. Diputado por el 6º Distrito.- Bartolomé Gutiérrez L., Diputado suplente por el 7º Distrito.- Alfonso Ayala, Diputado por el 10º Distrito.- Juan Barrón, Diputado por el 11º Distrito,- Jesús Delgado, Diputado por el 12º Distrito.- Arnulfo M. Miranda, Diputado por el 13º Distrito.- Ricardo A. Alamán, Diputado por el 14º Distrito.- Manuel Delgado, Diputado por el 15º Distrito."
 
-Por tanto, mando se imprima, publique por bando solemne y circula (sic) para su debido cumplimiento.
+Por tanto, mando se imprima, publique por bando solemne y circule para su debido cumplimiento.
 
-Dada en Guanajuato, a los tres días del mes de septiembre de mil novecientos diez y siete.
+Dada en Guanajuato, a los tres dias del mes de septiembre de mil novecientos diez y siete.
 
 Agustín Alcocer.
 
-El Secretario General del Despacho,
+El Secretario General del Despacho.
 
 Lic. Francisco Espinosa.
 
@@ -1271,6 +1589,64 @@ Unico.- Este Decreto entrará en vigor, a partir del día de su publicación en 
 
 P.O. 28 DE DICIEMBRE DE 1961.
 
+###### ARTICULO 1o.
+
+En el Estado Libre y Soberano de Guanajuato, todos los individuos gozarán de las garantías otorgadas por la Constitución Política de los Estados Unidos Mexicanos, y las consignadas en esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 2o.
+
+La Ley es igual para todos. De ella emanan las atribuciones de las autoridades y los derechos y obligaciones de todas las personas que radiquen en el Estado de Guanajuato y de aquéllas que tengan el carácter de domiciliadas o de transeúntes. Por tanto, a todos corresponde el disfrute de sus beneficios y el acatamiento de sus disposiciones.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 3o.
+
+El Poder Público únicamente puede lo que la ley le concede y el individuo todo lo que ésta no le prohibe.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 4o.
+
+Las medidas de corrección, acordadas por las autoridades administrativas, se impondrán siempre con audiencia de la persona a quien se aplique, salvo rebeldía del infractor, debiendo, en ambos casos, comunicarse por escrito precisando los motivos y fundamento legales de dichas medidas.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 5o.
+
+Ninguna persona requerirá de título para la enseñanza en cualquier ramo del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 6o.
+
+Las leyes orgánicas respectivas, determinarán las profesiones que requieran de título para su ejercicio, las condiciones para obtenerlo, y las autoridades que han de expedirlo y registrarlo.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 7o.
+
+Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudican a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se hubieren dictado, y a sus causa-habientes.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 8o.
+
+La imposición de las penas corresponde exclusivamente a la autoridad judicial competente en orden a su jurisdicción. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual está bajo la autoridad y mando de aquél.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
+###### ARTICULO 9o.
+
+Compete a las autoridades administrativas castigar a los infractores de los reglamentos gubernativos y de policía. La sanción correspondiente consistirá en la multa que señalen dichos ordenamientos o arresto hasta por treinta y seis horas.
+
+Si el infractor no pagare la multa impuesta se le conmutará por el arresto correspondiente, que no podrá exceder de quince días, en ningún caso.
+
+Si el infractor fuera jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+
 ###### Artículo 1o.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1362,3 +1738,9 @@ P.O. 31 DE DICIEMBRE DE 1975.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MARZO DE 1976.
+
+###### ARTICULO UNICO.
+
+Las reformas y adiciones a la Constitución Política del Estado de Guanajuato que se contienen en este Decreto, surtirán efecto el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
