@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "1995-04-02"
+last_updated: "1998-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1998.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -81,7 +81,9 @@ IV.- Trabajadores accidentales.
 
 Son trabajadores de confianza:
 
-A).- En el Poder Legislativo, el Oficial Mayor, el Contador Mayor de Hacienda, los Directores de Area y los Jefes de Departamento;
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1998)</small>
+
+A).- En el Poder Legislativo, el Oficial Mayor, el Contador Mayor de Hacienda, los Directores de Area, los Jefes de Departamento, los Asesores y Auxiliares de cualquier índole y todo el personal de la tesorería y de la Contaduría Mayor de Hacienda, con excepción de las secretarias;
 
 B).- En el Poder Ejecutivo, el Secretario y Subsecretario Generales de Gobierno; el Tesorero y Subtesorero Generales del Estado; el Secretario y Subsecretario de Administración; el Secretario y Subsecretario de Planeación y Desarrollo Estatal; el Secretario y Subsecretario de Obras Públicas; el Procurador General de Justicia; los Subprocuradores de Investigaciones y Procesos de la Procuraduría General de Justicia; el Secretario Ejecutivo de la Comisión Estatal de Seguridad Pública y Vialidad; el Contralor y Subcontralor General del Estado; el Procurador y Secretario de la Procuraduría de Protección Ciudadana; los Directores y Subdirectores Generales; el Presidente de la Junta Local de Conciliación y Arbitraje; los Secretarios de Acuerdos de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje; el Procurador y Subprocurador del Trabajo; los Agentes del Ministerio Público; los Defensores de Oficio; los Inspectores del Trabajo; los Agentes de la Policía Judicial; los integrantes de los Cuerpos de Vigilancia de los Centros de Readaptación de Varones y de Mujeres, así como del Centro Tutelar de Menores; el Representante del Ejecutivo en la Ciudad de México; los Secretarios Privado y Particular del Gobernador; los empleados al servicio personal del Gobernador; y los Asesores Jurídicos y Administrativos del Gobernador y del Secretario General de Gobierno;
 
@@ -1636,3 +1638,7 @@ Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Orga
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
