@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2000-05-19"
+last_updated: "2001-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -135,27 +135,53 @@ XIV. Las demás que expresamente le confieran esta ley y las diversas leyes del 
 
 Para el estudio, planeación, resolución y despacho de los asuntos de los diversos ramos de la Administración Pública Centralizada, el Titular del Poder Ejecutivo contará con las siguientes dependencias:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ENERO DE 2001)</small>
+
 I. Secretaría de Gobierno
 
-II. Secretaría de Finanzas y Planeación
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-III. Secretaría de Educación y Cultura
+II. Secretaría de Seguridad Pública
 
-IV. Secretaría de Desarrollo Económico
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-V. Secretaría de Comunicaciones
+III. Secretaría de Finanzas y Planeación
 
-VI. Secretaría de Desarrollo Regional
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-VII. Secretaría de Desarrollo Agropecuario, Forestal y Pesquero
+IV. Secretaría de Educación y Cultura
 
-VIII. Secretaría de Salud y Asistencia
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-IX. Contraloría General
+V. Secretaría de Desarrollo Económico
 
-X. Procuraduría General de Justicia
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XI. Coordinación General de Comunicación Social
+VI. Secretaría de Comunicaciones
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+VII. Secretaría de Desarrollo Regional
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+VIII. Secretaría de Desarrollo Agropecuario, Forestal y Pesquero
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+IX. Secretaría de Salud y Asistencia
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+X. Contraloría General
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XI. Procuraduría General de Justicia
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE ENERO DE 2001)</small>
+
+XII. Coordinación General de Comunicación Social.
 
 Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
 
@@ -281,6 +307,8 @@ De la Secretaría de Gobierno
 
 La Secretaría de Gobierno es la dependencia responsable de coordinar la política interna de la Entidad y tendrá la competencia que expresamente le confiere la Constitución Política del Estado, esta ley y demás legislación aplicable.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE ENERO DE 2001, PÁGINAS DE LA 12 A LA 13.]</small>
+
 ###### Artículo 18.
 
 Son atribuciones del Secretario de Gobierno, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
@@ -337,33 +365,95 @@ XXV. Proveer lo conducente para la ejecución de las penas y medidas de segurida
 
 XXVI. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
 
-XXVII. Vigilar y controlar, en términos de la legislación aplicable, lo relativo a la demarcación y límites del Estado;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XXVIII. Desempeñar la función de consejero jurídico del Gobierno del Estado;
+XXVII. Administrar y resguardar los centros de observación y adaptación social para menores infractores;
 
-XXIX. Coordinar la formulación de las iniciativas de leyes o decretos, reglamentos, acuerdos, convenios y órdenes sobre los asuntos de competencia del Poder Ejecutivo y, en su caso, tramitar su promulgación y publicación en la Gaceta Oficial del Estado;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XXX. Difundir y mantener actualizada la compilación de las legislaciones estatal y federal vigentes;
+XXVIII. Vigilar y controlar, en términos de la legislación aplicable, lo relativo a la demarcación y límites del Estado;
 
-XXXI. Intervenir en la realización de los actos jurídicos necesarios para reivindicar la propiedad del Estado;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XXXII. Fomentar el desarrollo de la cultura política en la Entidad;
+XXIX. Brindar asesoría jurídica al Gobierno del Estado;
 
-XXXIII. Coordinar las acciones de las dependencias y entidades de la administración pública con las autoridades federales, en materia de protección al consumidor;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XXXIV. Coordinar, dirigir y vigilar la política del Gobierno del Estado en materia de seguridad pública y privada, prevención del delito, readaptación social, tránsito, transporte, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia;
+XXX. Coordinar la formulación de las iniciativas de leyes o decretos, reglamentos, acuerdos, convenios y órdenes sobre los asuntos competencia del Poder Ejecutivo y, en su caso, tramitar su promulgación y publicación en la Gaceta Oficial del estado;
 
-XXXV. Disponer del mando de las fuerzas de seguridad pública de la Entidad y, por acuerdo del Gobernador del Estado, el de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden publico;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XXXVI. Autorizar y revocar el otorgamiento de concesiones y permisos a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga y controlar su adecuado funcionamiento;
+XXXI. Difundir y mantener actualizada la compilación de las legislaciones estatal y federal vigentes;
 
-XXXVII. Autorizar, en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XXXVIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades judiciales;
+XXXII. Intervenir en la realización de los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
-XXXIX. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento; y
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XL. Vigilar, en el ámbito estatal, la exacta aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los reglamentos estatales vigentes en materia laboral, así como las relaciones del Gobierno del Estado con sus trabajadores.
+XXXIII. Fomentar el desarrollo de la cultura política en la Entidad;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXIV. Coordinar las acciones de las dependencias y entidades de la administración pública con las autoridades federales, en materia de protección al consumidor;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXV. Coordinar, dirigir y vigilar la política estatal en materia de prevención del delito y readaptación social, de conformidad con las leyes de la materia;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXVI. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento; y
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXVII. Vigilar, en el ámbito estatal, la exacta aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los reglamentos estatales vigentes en materia laboral, así como las relaciones del Gobierno del Estado con sus trabajadores.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
+
+De la Secretaría de Seguridad Pública
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
+
+###### Artículo 18 Bis.
+
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, tránsito, transporte, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
+
+###### Artículo 18 Ter.
+
+Son atribuciones del secretario de Seguridad Pública, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Establecer, dirigir y controlar, en el ámbito de su competencia, la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente; aprobando al efecto los programas respectivos, de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+
+II. Desarrollar, instrumentar y ejecutar la política de seguridad pública estatal;
+
+III. Proponer al Ejecutivo Estatal las medidas para organizar las actividades de las dependencias y entidades que atiendan el fenómeno delictivo;
+
+IV. Presidir el Consejo Estatal de Seguridad Pública;
+
+V. Nombrar y remover, con acuerdo del Gobernador del Estado, al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública y de su Consejo Estatal;
+
+VI. Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
+
+VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales, tránsito, transporte y protección civil, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+
+VIII. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil, así como implementar las medidas necesarias a fin de proteger y salvaguardar a la población ante la eventualidad de un desastre, en términos de la legislación aplicable;
+
+IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
+
+X. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+
+XI. Otorgar, rescatar, revertir o revocar, en su caso, concesiones, permisos, autorizaciones o licencias, a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento;
+
+XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
+
+XIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades judiciales;
+
+XIV. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en casos de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente;
+
+XV. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado.
 
 De la Secretaría de Finanzas y Planeación
 
@@ -1244,3 +1334,23 @@ Sufragio efectivo. No reelección
 Licenciado Miguel Alemán Velazco
 
 Gobernador del Estado.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE ENERO DE 2001.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 13 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ-LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia el día uno de junio del año dos mil uno.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El personal, con respecto a sus derechos laborales, así como los recursos financieros y materiales de las distintas áreas que en términos de este Decreto pasan a ser responsabilidad de la Secretaría de Seguridad Pública, se integrarán a esta dependencia para el desempeño de sus atribuciones.
+
+Cuarto. El personal, con respeto a sus derechos laborales, así como los recursos financieros y materiales de los centros de observación y adaptación social para menores infractores que en términos de este Decreto pasan a ser responsabilidad de la Secretaría de Gobierno, se integrarán a esta dependencia para el desempeño de sus atribuciones.
+
+Quinto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, a la brevedad posible, ajustarán su organización y normatividad interiores a las disposiciones contenidas en la misma.
+
+Sexto. En tanto se expiden las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a este Decreto, los reglamentos en vigor.
+
+Séptimo. Para efectos de lo previsto en el artículo 71, fracción XI, inciso h) de la Constitución Política del Estado de Veracruz-Llave y 35, fracción XXV, inciso h) de la Ley Orgánica del Municipio Libre, los Ayuntamientos podrán asumir la prestación del servicio público de tránsito, de conformidad con lo dispuesto por el artículo Tercero Transitorio del Decreto por el que se declaró reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintitrés de diciembre de mil novecientos noventa y nueve.
