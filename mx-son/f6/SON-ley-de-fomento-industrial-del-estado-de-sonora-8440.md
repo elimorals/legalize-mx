@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-industrial-del-estado-de-sonora-8440"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-22"
-last_updated: "1969-03-22"
+last_updated: "1971-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE DICIEMBRE DE 1971.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el sábado 22 de marzo de 1969.
 
@@ -217,6 +217,10 @@ e).- Monto de la inversión efectuada.
 
 f).- Localización de la industria.
 
+> <small>(ADICIONADO, B.O. 25 DE DICIEMBRE DE 1971)</small>
+
+ARTICULO 24 BIS.- Las empresas que operan al amparo de la Ley pagarán a la Comisión de Fomento Industrial del Estado, por concepto de servicio y vigilancia, una cuota equivalente al dos por ciento del monto de los impuestos que dejen de cubrir en virtud de las exenciones o reducciones que les hayan sido otorgadas. La recaudación de esta cuota se hará por conducto de la Tesorería General del Estado.
+
 ###### ARTICULO 25.
 
 Si durante el periodo de la exención se cambiare la denominación de los impuestos enunciados en los artículos precedentes, la exención persistirá hasta su término para aquellos impuestos que los substituyan, cualquiera que sea el régimen o denominación que se les imponga.
@@ -334,3 +338,9 @@ EL OFICIAL MAYOR EN FUNCS.
 DE SECERATARIO DE GOBIERNO.
 
 Angel López Gutiérrez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 25 DE DICIEMBRE DE 1971.
+
+UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
