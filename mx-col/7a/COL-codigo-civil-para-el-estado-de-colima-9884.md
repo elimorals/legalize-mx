@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1984-02-04"
+last_updated: "1989-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1989.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -1065,15 +1065,23 @@ ART. 132.- El oficial del Registro levantará el acta correspondiente, en la que
 
 ART. 133.- Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-### CAPITULO XI. De la rectificación de las actas del estado civil
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1989)</small>
 
-ART. 134.- La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+### CAPITULO X (SIC). De la rectificación, nulidad, aclaración y complementación de las actas del estado civil
 
-ART. 135.- Ha lugar a pedir la rectificación:
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
+ART. 134.- La rectificación o modificación de las actas del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervinieron en acta, o algún otro dato esencial y solamente podrá ser ordenada por la autoridad judicial, salvo el reconocimiento que voluntariamente haga un padre respecto de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+La nulidad de las Actas del Registro Civil, sólo podrá ser decretada por la autoridad judicial cuando se compruebe que el acto registrado no pasó o se está en los casos de nulidades de matrimonios decretados conforme a este Código, por la autoridad judicial.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+ART. 135.- La aclaración de Actas del Estado Civil de las personas procede cuando en ellas existan errores mecanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas.
+
+También procede la complementación de las Actas del Estado Civil, respecto de aquéllas que contengan imprecisiones en sus datos o que no se hayan levantado en formatos debidamente preimpresos, siempre que de las mismas se desprenda de manera indubitable datos y circunstancias que se relacionen directamente con la persona registrada.
+
+Se tramitarán ambos casos por la autoridad administrativa que señale la Ley de la materia, resolviéndose de plano y ordenando en su caso, la aclaración o complementación respectiva que se comunicará lo mismo a la Oficialía del Registro Civil correspondiente, al Archivo Estatal del Registro Civil, como a la Dirección General del Registro Nacional de Población, para que se hagan las anotaciones que correspondan.
 
 ART. 136.- Pueden pedir la rectificación de un acta del estado civil:
 
@@ -1087,7 +1095,9 @@ IV.- Los que, según los artículos 348, 349 y 350, pueden continuar o intentar 
 
 ART. 137.- El juicio de rectificaciones de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
-ART. 138.- La sentencia que cause ejecutoria se comunicará al oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+ART. 138.- La sentencia ejecutoria que ordene la rectificación del Acta del Estado Civil, también se comunicará a las mismas autoridades señaladas en el Artículo anterior, para que efectúen dichas rectificaciones o modificaciones en las actas respectivas.
 
 ## TITULO QUINTO. Del matrimonio
 
@@ -9826,3 +9836,7 @@ UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su publica
 P.O. 4 DE FEBRERO DE 1984.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 14 DE ENERO DE 1989.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
