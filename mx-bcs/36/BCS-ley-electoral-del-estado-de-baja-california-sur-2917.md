@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-2917"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-18"
-last_updated: "1998-06-19"
+last_updated: "2000-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2000.
 
-Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, 18 de agosto de 1995.
+Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 18 de agosto de 1995.
 
 GUILLERMO MERCADO ROMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -1035,13 +1035,15 @@ La preparación, desarrollo y vigilancia de los procesos electorales es una func
 
 #### SECCION PRIMERA. DE SU RESIDENCIA E INTEGRACION
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DEL 2000)</small>
 
 ###### ARTICULO 78.
 
-El Instituto Estatal Electoral es el organismo público, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, a cuyo cargo compete la coordinación, preparación, desarrollo y vigilancia de los procesos electorales para renovar los poderes Legislativo y Ejecutivo, así como los Ayuntamientos de la entidad. Tendrá su residencia en la ciudad capital del Estado y a su integración concurrirá el Poder Legislativo del Estado, con la participación de los ciudadanos y partidos políticos en los términos que dispone la Constitución Política del Estado y la presente Ley.
+El Instituto Estatal Electoral, es el organismo público, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, a cuyo cargo compete la coordinación, preparación, desarrollo y vigilancia de los procesos electorales para renovar los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos de la Entidad y de igual manera, preparar, desarrollar y vigilar los procedimientos de plebiscito y referéndum en el Estado y los Municipios. Tendrá su residencia en la Ciudad Capital del Estado y a su integración concurrirán el Poder Legislativo del Estado, con la participación de los ciudadanos y partidos políticos en los términos que dispone la Constitución Política del Estado, la Ley de la Materia y la presente Ley.
 
 El Instituto Estatal Electoral elaborará, administrará y ejercerá en forma autónoma su presupuesto de egresos que enviará por conducto del Ejecutivo al Congreso del Estado para su aprobación, incluyendo en éste el financiamiento público de los partidos políticos, y estará obligado a presentar su cuenta pública en los términos legales.
+
+Los recursos financieros necesarios para la ejecución de los procedimientos de referéndum y plebiscito, serán aportados por el Gobierno del Estado al Instituto Estatal Electoral, mediante el convenio que para tal efecto se signe, previa presentación al Ejecutivo del Estado del presupuesto correspondiente.
 
 > <small>(REFORMADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -4348,3 +4350,9 @@ QUINTO.- Para el proceso electoral ordinario 1998-1999, los Consejeros Electoral
 SEXTO.- El Convenio que se haya celebrado con el organismo electoral federal, con anterioridad a la entrada en vigor del presente Decreto, para la utilización del catálogo general de electores, padrón electoral, listado nominal y credencial con fotografía para votar, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo de los procesos electorales del Estado, tendrá plena validez, hasta en tanto no se otorgue otro convenio con el mismo objeto.
 
 SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE JUNIO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
