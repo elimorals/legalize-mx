@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-consejo-tutelar-para-menores-del-estado-de-8503
 country: "mx"
 rank: "ley"
 publication_date: "1985-06-03"
-last_updated: "1986-05-19"
+last_updated: "1992-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE MAYO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de junio de 1985.
 
@@ -47,6 +47,12 @@ QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA.
 
 Es objeto de la presente Ley, la organización de un Sistema Integral de Protección y Prevención Social, tendente a establecer políticas y acciones concretas por parte del Estado, en favor de los menores de edad.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 1o.
+
+BIS.- En la aplicación de esta Ley se deberá garantizar el irrestricto respeto a los derechos consagrados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Sonora, las leyes que de ellas emanen y los tratados internacionales. Se promoverá y vigilará la observancia de estos derechos por parte de los funcionarios responsables, para prevenir cualquier violación a los mismos y, en su caso, para restituir al menor en su goce y ejercicio, sin perjuicio de que se aplique a quienes los conculquen, las sanciones señaladas por las leyes penales y administrativas.
+
 ###### ARTICULO 2o.
 
 Es atribución del Estado y de los Municipios, evitar que menores de edad, se encuentren en situaciones de abandono, sometidos a malos tratos, recibiendo influencias corruptoras, de quienes ejerzan sobre ellos la patria potestad, la tutela o los tengan bajo su mando o cuidado por alguna situación de hecho, aún cuando dichas conductas no constituyan actos u omisiones sancionadas por las leyes penales.
@@ -58,6 +64,10 @@ Las Autoridades Estatales y Municipales, deben encargarse de prevenir la comisi�
 ###### ARTICULO 4o.
 
 El Estado tiene la facultad de corregir las conductas antisociales cometidas por menores de edad, procurando siempre prescindir de las formalidades propias de los procedimientos para adultos, y acentuando en todas sus actuaciones la ausencia de propósitos represivos.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El menor a quien se le atribuya la comisión de una infracción, recibirá un trato justo y humano, quedando prohibidos, en consecuencia, el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atenté contra su dignidad o su integridad física o mental.
 
 ###### ARTICULO 5o.
 
@@ -177,13 +187,19 @@ El Consejo Tutelar para Menores es un órgano del Poder Ejecutivo, con funciones
 
 El Consejo Tutelar para Menores tiene por objeto:
 
-I.- Promover la corrección de conductas antisociales de menores de 18 años.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+I.- Promover la corrección de conductas antisociales de los menores desde los once hasta los dieciocho años de edad. Los menores de once años, serán objeto de asistencia social por parte de las instituciones de los sectores, público, social y privado, que se ocupan de esta materia, los cuales se constituirán, en este aspecto, como auxiliares del Consejo Tutelar.
 
 II.- Decretar las medidas provisionales que correspondan para evitar que los menores de edad se encuentren sometidos a malos tratamientos por parte de quienes ejerzan sobre ellos la patria potestad, la tutela o los tengan bajo su mando o cuidado por cualquier motivo, siempre que dichos tratos puedan comprometer la salud, la seguridad o la moralidad de los mismos.
 
 III.- Sancionar a quienes realicen actos que atenten contra la integridad física o mental de los menores de edad.
 
 IV.- Ejercitar las demás facultades que le otorguen esta u otras leyes.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El Consejo Tutelar para Menores, conforme a los convenios que al efecto celebren la Federación y el Gobierno del Estado, podrá conocer de las conductas de los menores de dieciocho años que se encuentren tipificadas en las leyes penales federales.
 
 ###### ARTICULO 20.
 
@@ -259,6 +275,10 @@ VIII.- Capacitar al personal de los centros de tratamiento y a los delegados del
 
 IX.- Difundir a las Autoridades coadyuvantes y a la población en general, respecto del alcance y contenido de esta Ley.
 
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+X.- Asumir, en los términos del convenio que al efecto se celebre con la Federación, las atribuciones que señala el artículo 13 de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; dichas atribuciones las asumirá el Pleno solamente en lo que corresponda, conforme a lo establecido en esta ley.
+
 ###### ARTICULO 29.
 
 Corresponde al Presidente del Consejo Tutelar para Menores:
@@ -294,6 +314,10 @@ III.- Visitar periódicamente los Centros de tratamiento, así como solicitar la
 IV.- Solicitar del Pleno del Consejo, que modifique o dé por terminadas las medidas adoptadas respecto de un menor, cuando a su juicio, éste haya modificado favorablemente su conducta y demostrada su enmienda efectiva.
 
 V.- Supervisar y orientar técnicamente a las delegaciones del Consejo.
+
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+VI.- Asumir, en los términos del Convenio que al efecto se celebre con la Federación, las atribuciones que señala el artículo 20 de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; dichas atribuciones las asumirán los Consejeros solamente en lo que les corresponda, conforme a lo establecido en esta Ley.
 
 ###### ARTICULO 31.
 
@@ -335,11 +359,11 @@ Los Delegados podrán ser nombrados y removidos libremente por el Ejecutivo del 
 
 En aquellos Municipios donde no haya Delegados nombrados, ejercerán las funciones respectivas, provisionalmente, el Regidor encargado de la Comisión de Asistencia Social del Ayuntamiento correspondiente, o bien, el funcionario que el Ayuntamiento designe.
 
-> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 34.
 
-Los Ayuntamientos proporcionarán a los Delegados del Consejo Tutelar para Menores, el local y los medios adecuados para el desempeño de las funciones de éstos.
+Los ayuntamientos proporcionarán a los delegados del Consejo Tutelar para Menores, el local, el personal técnico y administrativo necesario y los medios adecuados para el desempeño de las funciones de éstos, con cargo al erario de cada Ayuntamiento.
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO ANTE EL CONSEJO TUTELAR PARA MENORES
 
@@ -391,9 +415,9 @@ La responsabilidad civil por daños y perjuicios, exigible a terceras personas o
 
 Los objetos o instrumentos remitidos al Consejo Tutelar, relacionados con los hechos que entren en su competencia, se entregarán a sus legítimos propietarios, tan luego como éstos prueben su derecho y que no han participado en los hechos antisociales, excepto las armas o los instrumentos de uso prohibido, que serán remitidos al Ejecutivo, aplicándose en lo conducente el Capítulo sobre pérdida de los instrumentos del delito que contiene el Código Penal Sonorense.
 
-> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
-Si los objetos o instrumentos no son reclamados dentro de los dos años siguientes a la fecha de iniciación del procedimiento tutelar, pasarán a formar parte del patrimonio del fondo a que se refiere el Artículo 91.
+Si los objetos o instrumentos no son reclamados, dentro de los tres meses siguientes a la fecha de iniciación del procedimiento tutelar, pasarán a formar parte del Fondo al que se refiere al artículo 91, o bien, por acuerdo del Presidente del Consejo Tutelar, podrán ser utilizados en los programas de tratamiento en los centros respectivos del mismo Consejo.
 
 ###### ARTICULO 45.
 
@@ -415,9 +439,31 @@ Si el menor no está a disposición del Consejo Tutelar, el Instructor que hubie
 
 El Consejero Instructor que vaya a conocer del procedimiento, practicará sin demora, una investigación preliminar para determinar la edad, la realidad y trascendencia de los hechos y la participación que en ellos haya tenido el menor.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 48 BIS.- Durante el procedimiento todo menor será tratado con humanidad y respeto, conforme a las necesidades inherentes a su edad y a sus condiciones personales y gozará de las siguientes garantías mínimas:
+
+I.- Mientras no se compruebe su participación en la comisión de la infracción que se le atribuya, gozará de la presunción de ser ajeno a los hechos constitutivos de la misma;
+
+II.- Se dará aviso inmediato respecto de su situación a sus representantes legales o encargados cuando se conozca el domicilio;
+
+III.- Tendrá derecho a designar a sus expensas, por sí o por sus representantes legales o encargados, a un licenciado en derecho de su confianza, en el legal ejercicio de su profesión, para que lo asista jurídicamente durante su procedimiento, así como en la aplicación de las medidas de orientación, de protección o de tratamiento de externación y en internamiento;
+
+IV.- En caso de que no designe un licenciado en derecho de su confianza en el legal ejercicio de su profesión, de oficio se le asignará un defensor adscrito a la Procuraduría de la Defensa del Menor y la Familia en el Estado, para que lo asista jurídica y gratuitamente desde que quede a disposición del Consejo Tutelar en las diversas etapas del procedimiento ante el mismo, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internamiento;
+
+V.- Una vez que quede a disposición del Consejo Tutelar y dentro de las veinticuatro horas siguientes se le hará saber en forma clara y sencilla, en presencia de su defensor, el nombre de la persona o personas que hayan declarado en su contra y la naturaleza y causa de la infracción que se le atribuya, así como su derecho a no declarar, rindiendo en este acto, en su caso, su declaración inicial;
+
+VI.- Se recibirán los testimonios y demás pruebas que ofrezcan y que tengan relación con el caso, auxiliándosele para obtener la comparecencia de los testigos y para recabar todos aquellos elementos de convicción que se estimen necesarios para el cabal esclarecimiento de los hechos;
+
+VII.- Será careado con la persona o personas que hayan declarado en su contra;
+
+VIII.- Le serán facilitados todos los datos que solicite y que tengan relación con los hechos que se le atribuyan, derivados de las constancias del expediente.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 49.
 
-Con base en esta investigación, el Consejero Instructor resolverá dentro de las 72 horas siguientes al ingreso del menor, si éste queda en libertad incondicional; si se entrega a quienes ejerzan sobre él la patria potestad, la tutela, o lo tengan bajo su mando o cuidado, quedando sujeto al Consejo Tutelar para la continuación del procedimiento; o decidirá, si debe ser internado provisionalmente en el Centro de Tratamiento. En todo caso, se expresarán en la resolución que se emita, los fundamentos técnicos y legales de la misma.
+Con base en esta investigación, el Consejero Instructor resolverá, dentro de las setenta y dos horas siguientes al ingreso del menor, si éste queda en libertad incondicional, si se entrega a quienes ejerzan sobre él la patria potestad, la tutela o lo tengan bajo su mando o cuidado, o si queda sujeto al Consejo Tutelar, para la continuación del procedimiento, o bien, decidirá, si debe de ser internado provisionalmente en el centro de tratamiento. En todo caso, se expresarán en la resolución que se emita, los fundamentos técnicos y legales de la misma. El plazo mencionado al inicio de este artículo, podrá ampliarse veinticuatro horas más, únicamente si así lo solicitare el menor o los encargados de su defensa. En este último caso, la ampliación del plazo se hará del conocimiento inmediato del funcionario que tenga a su disposición al menor, para los efectos de su custodia.
 
 ###### ARTICULO 50.
 
@@ -433,6 +479,22 @@ Cuando el menor haya incurrido en una conducta antisocial, no prevista como deli
 
 Una vez decretada la continuación del procedimiento, el Consejero Instructor, dispondrá de un término de treinta días para integrar el expediente. En este plazo deberá recabar los estudios de personalidad y los informes sobre los antecedentes, el comportamiento del menor y el ambiente familiar y social de éste.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El defensor del menor, o el menor o su representante legal contarán hasta con diez días hábiles a partir de la fecha en que sea notificada la resolución inicial, para ofrecer por escrito las pruebas correspondientes.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Asimismo, dentro del plazo antes señalado, el Consejero Instructor podrá recabar de oficio las pruebas y acordar las prácticas de diligencias que considere pertinentes para el esclarecimiento de los hechos.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El desahogo de pruebas y alegatos tendrá verificativo dentro de los diez días hábiles contados a partir de la fecha en que haya concluido el plazo para el ofrecimiento de pruebas.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los alegatos deberán formularse por escrito dentro de los tres días siguientes en que concluya el desahogo de las pruebas, y la resolución definitiva se dictará conforme a lo previsto en los artículos 53 y 54 de esta ley.
+
 ###### ARTICULO 53.
 
 El Consejero Instructor redactará, con base en estos elementos, un proyecto de resolución definitiva dentro del plazo que le otorga el artículo que antecede, pudiendo pedir su ampliación, por una sola vez, al Presidente del Consejo, prórroga que, de otorgarse, nunca excederá de quince días.
@@ -443,9 +505,23 @@ Dentro de los tres días de recibido el proyecto de resolución, el Presidente d
 
 La resolución se integrará por escrito, dentro de los cinco días siguientes a la audiencia, y será comunicada a la Autoridad Ejecutora, cuando proceda.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 55.
 
-Contra las resoluciones dictadas por el Consejo Tutelar para Menores, no procede recurso alguno. Podrá este organismo, sin embargo, modificarlas, suspenderlas o revocarlas posteriormente, aún en forma oficiosa, tomando en cuenta los resultados del tratamiento.
+Salvo las excepciones señaladas en este artículo, contra las resoluciones inicial y definitiva dictadas por el Consejo Tutelar para Menores sólo procede el recurso de inconformidad del que conocerá el Pleno del Consejo.
+
+No son impugnables las resoluciones que determinen la liberación incondicional del menor y aquéllas con las que concluya el procedimiento de revisión.
+
+El recurso tiene por objeto la modificación o la revocación de la medida tutelar acordada, por no haberse acreditado los hechos atribuidos al menor o la peligrosidad de éste, o por habérsele impuesto una medida inadecuada a su personalidad y a los fines de su readaptación social.
+
+El recurso será interpuesto por el defensor del menor, sus legítimos representantes o, en su caso, por los encargados de éste, ante el Consejero Instructor que conozca del caso, en el acto de la notificación de la resolución impugnada, o dentro de los tres días siguientes.
+
+La inconformidad se resolverá dentro de los cinco días siguientes a la interposición del recurso. En la sesión del Pleno en que se conozca del recurso, se escuchará al defensor del menor, a sus legítimos representantes y, en su caso, a los encargados de éste y se recibirán las pruebas que el Consejo estime conducentes al esclarecimiento de los hechos relativos a la personalidad del menor y de la idoneidad de la medida impuesta y, en su caso, se determinará de plano lo que proceda.
+
+La resolución que se dicte, se procederá de inmediato a notificarla al menor, a sus legítimos representantes o a sus encargados, y al defensor del menor.
+
+El Consejo Tutelar para Menores podrá, de oficio, modificar, suspender o revocar cualquier resolución o medida impuesta, tomando en cuenta los resultados del tratamiento.
 
 ###### ARTICULO 56.
 
@@ -750,3 +826,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
