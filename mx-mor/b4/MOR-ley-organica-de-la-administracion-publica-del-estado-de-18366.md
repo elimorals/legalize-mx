@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2000-09-29"
+last_updated: "2002-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
 
@@ -219,19 +219,37 @@ II. Secretaría de Hacienda;
 
 III. Secretaría de Desarrollo Económico;
 
-IV. Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-V. Secretaría de Desarrollo Urbano y Obras Públicas;
+IV. Secretaría de Turismo;
 
-VI. Secretaría de Salud;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-VII. Secretaría de Educación;
+V. Secretaría de Desarrollo Agropecuario;
 
-VIII. Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-IX. Secretaría de la Contraloría; y
+VI. Secretaría de Desarrollo Urbano y Obras Públicas;
 
-X. Procuraduría General de Justicia.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+VII. Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+VIII. Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+IX. Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+X. Secretaría de la Contraloría; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+XI. Procuraduría General de Justicia.
 
 Para los mismos fines, se auxiliará de las siguientes dependencias:
 
@@ -433,23 +451,31 @@ XLVIII. Las demás que señalen las disposiciones jurídicas o le delegue el Tit
 
 A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer e instrumentar la política de fomento y promoción de las actividades industriales, comerciales, turísticas y de inversiones en el ámbito de competencia del Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-II. Elaborar el Programa de Fomento y Promoción de las Actividades Industriales, Comerciales, Turísticas y de inversiones de la entidad, así como dirigir, coordinar y controlar su instrumentación;
+I. Proponer e instrumentar la política de fomento y promoción de las actividades industriales, comerciales y de inversiones en el ámbito de competencia del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+II. Elaborar el Programa de Fomento y Promoción de las Actividades Industriales, Comerciales y de inversiones de la entidad, así como dirigir, coordinar y controlar su instrumentación;
 
 III. Solicitar, cuando le exija el interés público y de acuerdo con las leyes respectivas, se destinen bienes que deban asignarse al desarrollo de los programas de la Secretaría;
 
 IV. Promover la participación de los sectores social y privado de la entidad en la instrumentación de los programas de su competencia, así como inducir el establecimiento de compromisos en actividades conjuntas o con la participación exclusiva de éstos, por conducto de un Consejo;
 
-V. Ejercer las atribuciones derivadas de los convenios que, en materia industrial, comercial, turística y de inversión, celebre el Gobierno del Estado con la Federación;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-VI. Promover la creación de parques, corredores y ciudades industriales, de centros comerciales y centrales de abasto, y de centros y establecimientos turísticos. Asimismo, promover la instalación de unidades industriales, con atención especial a la micro, pequeña y mediana empresas;
+V. Ejercer las atribuciones derivadas de los convenios que, en materia industrial, comercial y de inversión, celebre el Gobierno del Estado con la Federación;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+VI. Promover la creación de parques, corredores y ciudades industriales, de centros comerciales y centrales de abastos asimismo, promover la instalación de unidades industriales, con atención especial a la micro, pequeña y mediana empresas;
 
 VII. Organizar y promover la producción y comercialización de la actividad artesanal;
 
 VIII. Organizar, coordinar y dirigir el Sistema Estatal de Abasto, así como promover y proteger el comercio de primera mano en el Estado;
 
-IX. Otorgar concesiones y permisos necesarios para la explotación de los recursos turísticos del Estado, controlando y supervisando la prestación de estos servicios, conforme a las disposiciones jurídicas aplicables;
+IX. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2002)
 
 X. Servir de órgano de consulta y asesoría en materia de desarrollo económico, tanto a los organismos públicos y privados, como a las dependencias del Ejecutivo;
 
@@ -457,7 +483,9 @@ XI. Asesorar a los ayuntamientos y a los sectores social y privado en el estable
 
 XII. Promover la realización de ferias, exposiciones y congresos industriales, comerciales y turísticos;
 
-XIII. Elaborar y proponer al Gobernador del Estado, por conducto de la Consejería Jurídica, los proyectos de ley, reglamentos y demás disposiciones jurídicas en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+XII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
 
 XIV. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
 
@@ -468,6 +496,60 @@ XVI. Asesorar al Gobernador del Estado en la elaboración de convenios que celeb
 XVII. Desempeñar las comisiones y funciones especiales que le confiera en Titular del Ejecutivo; y
 
 XVIII. Las demás que señalen las disposiciones jurídicas o le delegue el Titular del Ejecutivo por mandato específico.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+ARTÍCULO 28 BIS.- A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, programar, estudiar y evaluar toda clase de actividades turísticas dentro del Estado;
+
+II. Proveer, en general, el desarrollo eficiente de todas las actividades turísticas del Estado;
+
+III. Realizar actividades para la promoción, desarrollo y fomento de la oferta e infraestructura turística;
+
+IV. Proporcionar capacitación turística con su propia organización, así como orientar y supervisar las actividades públicas o privadas que se realicen con ese fin;
+
+V. Coordinarse con los organismos o entidades, tanto federales como estatales y municipales relacionadas con la materia turística, así como con los particulares, para elaborar programas y realizar las acciones correspondientes;
+
+VI. Promover, en coordinación con las autoridades federales y municipales competentes, la preservación, conservación y, en su caso, administración de zonas arqueológicas, bienes y monumentos artísticos e históricos;
+
+VII. Participar en la protección de lugares turísticos o de belleza natural, procurando la protección ecológica;
+
+VIII. Mantener relaciones con organizaciones turísticas estatales, nacionales e internacionales, con el fin de promover y difundir el turismo en el Estado;
+
+IX. Intervenir en la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y zonas de desarrollo turístico del Estado, por sí o en coordinación con la Federación y los Municipios de la Entidad;
+
+X. Celebrar convenios con las autoridades y particulares relacionados con el turismo, para generar la demanda o realizar estrategias publicitarias, en materia turística;
+
+XI. Elaborar y mantener actualizado el inventario turístico y las estadísticas en la materia;
+
+XII. Atender las quejas y canalizar a las autoridades competentes las denuncias que se formulen respecto de los prestadores de servicio turístico;
+
+XIII. Promover y difundir las publicaciones e información turística del Estado;
+
+XIV. Promover la calidad y excelencia de los servicios turísticos;
+
+XV. Registrar, controlar y supervisar los servicios turísticos, de acuerdo con la legislación aplicable y los convenios que para ese objeto se celebren;
+
+XVI. Proporcionar los servicios de auxilio, protección, orientación e información a los turistas en coordinación con las dependencias federales, estatales y municipales;
+
+XVII. Otorgar, en el ámbito de su competencia, concesiones y permisos necesarios para la explotación de los recursos turísticos del Estado, controlando y supervisando la prestación de estos servicios conforme a las disposiciones jurídicas aplicables.
+
+Cuando derivado de las Concesiones a que se refiere el párrafo anterior se afecten bienes inmuebles, deberá previamente cumplirse con lo establecido en el artículo 40 fracción XIV de la Constitución Política Local;
+
+XVIII. Establecer y dirigir la política interna en materia de atracción y promoción de proyectos de inversión cinematográficos, en los términos de la legislación aplicable y de los lineamientos que el titular del Ejecutivo establezca al efecto;
+
+XIX. Elaborar y proponer al Gobernador del Estado, por conducto de la Consejería Jurídica, los proyectos de ley, reglamentos y demás disposiciones jurídicas en el ámbito de su competencia;
+
+XX. Vigilar el cumplimiento de las disposiciones jurídicas, en el ámbito de su competencia;
+
+XXI. Tramitar y resolver los recursos administrativos en el ámbito de su competencia;
+
+XXII. Asesorar al Gobernador del Estado en la elaboración de convenios que celebre con la Federación y los Ayuntamientos de la Entidad en el ámbito de su competencia;
+
+XXIII. Desempeñar las comisiones y funciones especiales que le confiera el titular del Ejecutivo, y
+
+XXIV. Las demás que señalen las leyes y reglamentos vigentes y las que le delegue el Gobernador del Estado.
 
 ###### ARTÍCULO 29.
 
@@ -984,3 +1066,21 @@ SECRETARIO GENERAL DE GOBIERNO
 VICTOR MANUEL SAUCEDO PERDOMO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+PRIMERA.- El presente Decreto entrará en vigor el día primero del mes de enero del año 2003 previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos previstos en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Los recursos financieros y presupuestales, materiales y humanos, así como los archivos y expedientes que correspondían a la Subsecretaría de Turismo dependiente de la Secretaría de Desarrollo Económico, serán transferidos a la Secretaría de Turismo que se crea en el presente Decreto. Dichos movimientos serán coordinados y supervisados por la Secretaría de Hacienda, la Secretaría de la Contraloría y la Oficialía Mayor del Ejecutivo del Estado.
+
+CUARTA.- Los asuntos que la Secretaría de Desarrollo Económico, a través de la Subsecretaría de Turismo, estuviere tramitando, y deban ahora ser atendidos por la Secretaría de Turismo, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que deban tramitarlos se incorporen a la Secretaría creada, con excepción de los que sean urgentes o estén sujetos a plazo improrrogable, mismos que serán resueltos por quienes los tengan a su cargo, atendiendo a la reglamentación aplicable a la Secretaría de Desarrollo Económico, hasta la expedición del Reglamento Interior de la Secretaría de Turismo.
+
+QUINTA.- Todas las facultades, atribuciones, funciones y obligaciones inherentes a la materia de turismo, que en los diversos ordenamientos legales se confieran a la Secretaría de Desarrollo Económico o a la Subsecretaría de Turismo, se entenderán conferidas a la Secretaría de Turismo.
+
+SEXTA.- Se autoriza al Titular del Poder Ejecutivo, por conducto de la Secretaría de Hacienda, para realizar las transferencias presupuestales necesarias, con el fin de que pueda dar cumplimiento a las disposiciones del presente Decreto.
+
+SÉPTIMA.- El Ejecutivo del Estado contará con un plazo de ciento veinte días hábiles, a partir de la fecha en que entre en vigor el presente Decreto, para expedir el Reglamento Interior de la Secretaría de Turismo.
