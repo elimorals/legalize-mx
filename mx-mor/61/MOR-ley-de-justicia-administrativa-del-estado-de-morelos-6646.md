@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-del-estado-de-morelos-6646"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-14"
-last_updated: "1990-02-14"
+last_updated: "1996-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1996.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Morelos, el miércoles 14 de febrero de 1990.
 
@@ -405,13 +405,21 @@ III.- De los juicios que se promuevan contra la falta de contestación de las au
 
 En materia fiscal, las instancias o peticiones que se formulen deberán ser resueltas en el término que fije la Ley, a falta de éste, en el de noventa días.
 
-En los casos a que se refieren los párrafos anteriores, el silencio de las autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1996)</small>
+
+Salvo disposición expresa en contrario, en los casos a que se refieren los párrafos anteriores, el silencio de las autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 1996)</small>
+
+Una vez que opere la afirmativa o negativa fictas, el interesado deberá interponer su demanda en un plazo no mayor de ciento veinte días naturales contados a partir del día en que se produzcan tales consecuencias jurídicas.
 
 IV.- De las quejas por incumplimiento de las sentencias que dicten;
 
 V.- Del recurso de reclamación, conforme a lo dispuesto por esta Ley;
 
-VI.- De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a un particular y que perjudiquen a la Hacienda Pública del Estado; de los municipios, o a los organismos descentralizados con atribuciones fiscales; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 1996)</small>
+
+VI.- De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a un particular y que perjudiquen a la Hacienda Pública del Estado; de los municipios, o a los organismos descentralizados con atribuciones fiscales; igual acción procederá en contra de la afirmativa ficta; y
 
 VII.- De los asuntos cuya resolución este reservada al tribunal conforme a otras Leyes.
 
@@ -727,7 +735,9 @@ Las demandas que promuevan las autoridades en contra de los particulares, deber�
 
 El actor podrá ampliar la demanda dentro de los diez días siguientes a la fecha de su contestación, solamente en los casos siguientes:
 
-I.- Si se demanda una negativa ficta; o
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 1996)</small>
+
+I.- Si se demanda una negativa o afirmativa ficta, o
 
 II.- Cuando quien demanda desconozca los motivos o fundamentos del acto o resolución impugnados, hasta que la demanda tiene contestación.
 
@@ -1201,7 +1211,7 @@ Cuando se trate de hacer efectiva la responsabilidad proveniente de las garantí
 
 Del escrito del solicitante, se dará vista a las demás partes por un término de cinco días, dictándose la resolución correspondiente dentro de los diez días siguientes.
 
-## TITULO VII. DEL AUXILIO DEL TRIBUNAL
+## TITULO VI. DE LOS INCIDENTES
 
 ###### ARTICULO 146.
 
@@ -1261,7 +1271,7 @@ IV.- Los magistrados podrán en cualquier etapa del procedimiento, aún cuando n
 
 V.- Las nulidades promovidas por parte interesada, se substanciarán mediante escrito que formule la parte agraviada, del cual se dará vista a la contraparte por el término de tres días y la sala resolverá lo que corresponda en un plazo de cinco días. Contra dichas resoluciones no procederá recurso alguno.
 
-## TITULO VI. DE LOS INCIDENTES
+## TITULO VII. DEL AUXILIO DEL TRIBUNAL
 
 ###### ARTICULO 154.
 
@@ -1362,3 +1372,15 @@ Antonio Riva Palacio López
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Alfredo de la Torre y Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JULIO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Liberta" órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este decreto.
+
+TERCERO.- Los trámites administrativos que se hubieren iniciado antes de la entrada en vigor de este decreto se regirán por las disposiciones jurídicas vigentes en la fecha de inicio de los mismos.
+
+CUARTO.- Se establece un plazo de ciento veinte días hábiles, contados a partir de la fecha en que este decreto entre en vigor, para proceder a la reforma de los reglamentos que lo ameriten. Mientras tanto se seguirán aplicando las disposiciones reglamentarias en todo lo que no se oponga a lo dispuesto por el presente decreto.
