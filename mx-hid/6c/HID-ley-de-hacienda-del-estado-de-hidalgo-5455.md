@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1994-12-30"
+last_updated: "1995-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -36,6 +36,8 @@ DECRETO NUM. 20
 QUE CONTIENE LA NUEVA LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 El Honorable Congreso Constitucional del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren las fracciones I y II del artículo 56 de la Constitución Política de la Entidad, DECRETA:
+
+....
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
@@ -323,7 +325,9 @@ DE LA BASE:
 
 Es base de este impuesto, el valor que resulte mayor entre el precio consignado de la operación y el que se encuentre señalado en los tabuladores de valores mínimos de la Secretaría de Finanzas y Administración, cuando sean modelos anteriores del año en curso.
 
-Para modelos del año, será base del impuesto el 90% del importe de la primera facturación.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Para modelos del año, será base del impuesto el 80% del importe de la primera facturación.
 
 DE LA TASA:
 
@@ -865,9 +869,9 @@ DE LA BASE:
 
 Es base de este impuesto, el monto total de los pagos por concepto de impuestos y derechos estatales.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Tratándose de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos, sin tomar en consideración los subsidios, reducciones y otras prerrogativas fiscales estatales de que disfruten.
+Tratándose de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos a excepción de los que obtengan resolución favorable de subsidio o de excepción de pago por parte de la Secretaria de Finanzas y Administración, conforme a los preceptos legales vigentes.
 
 DE LA TASA.
 
@@ -877,9 +881,11 @@ Este impuesto se causará y pagará a la tasa del 30%.
 
 DEL PAGO DEL IMPUESTO:
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 67.
 
-El pago de este impuesto, se efectuará en el momento en que se realicen los pagos de impuestos y derechos a que se refiere el artículo 63.
+El pago de este impuesto, se efectuará en el momento en que se realicen los pagos de impuestos y derechos a que se refiere el artículo 63 de este Capítulo.
 
 DE LAS OBLIGACIONES.
 
@@ -919,6 +925,10 @@ I.- Por la certificación de legalidad de firmas de las autoridades Estatales, M
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
+I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas. N$ 6.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 II.- Por legalización en exhortos, en juicios mercantiles y ejecutivos civiles, si el monto no excede de N$ 1,000.00 N$ 7.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
@@ -933,9 +943,7 @@ IV.- Si el monto es superior a la cantidad señalada en la fracción anterior, p
 
 V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores. N$ 16.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-VI.- Por emisión de opinión favorable del Ejecutivo del estado, para abrir al culto público locales religiosos. N$ 250.00
+VI. (DEROGADA, P.O. 29 DE DIDICEMBRE DE 1995)
 
 VII.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
 
@@ -954,6 +962,10 @@ c). Opinión para macroindustria y Empresas Ejidales. N$ 100.00
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. N$ 50.00
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+VIII. Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento.
 
 ###### ARTICULO 71.
 
@@ -1021,11 +1033,11 @@ XIII.- Cuando el valor inserto en el acto que se trate de inscribir sea, mayor q
 
 XIV. Otros actos inscribibles. N$ 30.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 72.
 
-Los derechos generados ante el Registro Publico de la Propiedad y del Comercio, por concepto de inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías u obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avio celebrados entre particulares. Convenios judiciales, dación de pago, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad; posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que el o los fideicomientes se reserven expresamente la propiedad, fianzas, habitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo, servidumbre, se causaran y pagaran cuando se determine el valor del acto inscribible o anotable: 4.5 al millar.
+Los derechos generados ante el Registro Publico de la Propiedad y del Comercio, por concepto de inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías u obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avío celebrados entre particulares, convenios judiciales, dación de pago, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad; posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que el o los fideicomitentes se reserven expresamente la propiedad, fianzas, habitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 4.5 al millar.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -1033,11 +1045,11 @@ I.- Cuando en el acto inscribible o anotable no se determina el valor N$ 30.00
 
 II. Las cancelaciones de las inscripciones o anotaciones a que se refiere este artículo, pagarán el 50% del valor de la inscripción.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-III. En hipotecas para garantizar el crédito principal y refinanciamiento para vivienda popular o de interés social, se pagará el 9.0 al millar sobre el 10% del monto total del crédito, tanto del crédito principal como el de refinanciamiento.
+III.- En hipotecas para garantizar el crédito principal y de refinanciamiento, los adquirientes de viviendas popular o de interés social, pagarán el 9.0 al millar sobre el 10% del monto total del crédito, tanto del crédito principal como el del refinanciamiento.
 
-Para los efectos de la fracción anterior, se entiende como viviendas de interés social, las financiadas a través de los organismos autorizados para ello de carácter federal, estatal o municipal y como vivienda popular, las financiadas por las instituciones bancarias, hasta por un valor de N$ 100 mil.
+Para los efectos de la fracción anterior, se entiende como viviendas de interés social o popular, las financiadas a través de los organismos autorizados para ello de carácter federal, estatal o municipal o por instituciones bancarias hasta por un valor equivalente a 186 salarios mínimos elevado al mes.
 
 ###### ARTICULO 73.
 
@@ -1305,15 +1317,17 @@ III.- Los títulos exceptuados por autorización del Ejecutivo del Estado, a cau
 
 Por cada inscripción de instrumento otorgado fuera del territorio del Estado, causará y pagará una cuota adicional del 25% sobre los derechos señalados en este capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 84.
 
-Los interesados deberán acompañar a los documentos que presenten, copia simple de los mismos por duplicado.
+Los solicitantes deberán acompañar a los documentos que presenten, copia simple de los mismos por duplicado.
 
 Cuando un documento presentado para su inscripción se refiera a bienes situados en distintos distritos, en cada uno de ellos se causarán los derechos correspondientes a los bienes comprendidos dentro de los mismos, hecho el pago total de los bienes inscribibles en uno de los Distritos surtirá efectos en todos los demás.
 
 ###### ARTICULO 85.
 
-Para el pago de los derechos, el encargado del Registro enviará a la administración de rentas respectiva, el documento presentado con la liquidación del Impuesto, para que marginalmente se anote la razón del pago que deberá contener la fecha, el número de partida y la cantidad pagada; tratándose de certificaciones no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago en el escrito de solicitud respectiva.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 86.
 
@@ -1343,13 +1357,17 @@ VI.- Por aclaraciones o rectificaciones no imputables al registro. N$ 29.00
 
 VII.- Por ratificación de firmas N$ 29.00
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 87.
 
-Por la inscripción de créditos otorgados por Instituciones de Crédito Nacionales o Extranjeras, que tengan como finalidad el apoyo de la industria instalada en el Estado, así como a las Empresas que impulsen la Producción del campo, se cobrará sobre el monto del crédito………................................................................................................................2.0 al millar
+Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada en el estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito 2.0 al millar.
 
-###### ARTICULO 88.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Para el pago de los derechos, el encargado del Registro enviará a la Administración de Rentas respectiva, o a la institución bancaria autorizada, el documento presentado con la liquidación del derecho, para que se realice el pago correspondiente; tratándose de certificaciones, no se procederá a la búsqueda ni a su expedición, sin que antes se acredite el pago en el escrito de solicitud respectivo.
+###### Articulo 88.
+
+Para el pago de los derechos, el encargado del registro enviará a la administración de rentas respectiva, el documento presentado con la liquidación del derecho, para que marginalmente se anote la razón del pago que deberá contener: la fecha, el numero de partida y la cantidad pagada; tratándose de certificaciones no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago en el escrito de solicitud respectivo.
 
 ###### ARTICULO 89.
 
@@ -1481,225 +1499,189 @@ A) Por la expedición de copias fotostáticas, por cada hoja N$ 3.00
 
 B) Por la certificación de copias, por documento N$ 6.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-articulo 90 bis.- Los derechos por la prestación de los servicios del estado, a través de la Dirección General de Comunicaciones y Transportes, se causaran y pagaran de la siguiente forma:
+Articulo 90 bis.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Transporte, se causarán y pagarán de la siguiente forma:
 
-I. Por el otorgamiento de concesiones para el transporte de pasajeros en automóvil de alquiler, se pagaran de acuerdo a la siguiente zonificación de municipios del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-A). Pachuca, Tulancingo, Tula de Allende, Tizayuca, Ixmiquilpan,
+I. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio de colectivos de ruta, urbanos o foráneos, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-Atitalaquia, Tepeji del Río de Ocampo, Mineral del Monte,
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan..................................................................$1, 500.00
 
-Mineral de la Reforma y San Agustín Tlaxiaca. n$ 1,000.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Metzquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.......................$1, 200.00
 
-B). Comunidades dentro de los municipios del inciso
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$1, 000.00
 
-anterior con servicios urbanos. n$ 750.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-C). Otras comunidades dentro de los mismos municipios. n$ 600.00
+II. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio individual de taxi o sitio, se pagarán de acuerdo a la siguiente zonificación de municipios del estado:
 
-D). Actopan, Mixquiahuala, Atotonilco el Grande, Progreso de Obregon,
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 500.00
 
-Tlahuelilpan, Tlaxcoapan, Francisco I. Madero, Atotonilco de Tula,
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán....................... $1, 200.00
 
-Zimapan, San Salvador, Huichapan, Huejutla de Reyes, Santiago Tulantepec,
+C) Eloxochitlan, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....................$ 800.00
 
-Apan, Cuautepec y El Arenal n$ 670.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-E). Para comunidades dentro de los municipios del inciso anterior,
+III. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio especializado, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-con servicios urbanos. n$ 500.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán De Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla, y Apan...................................................................$1, 200.00
 
-f). Otras comunidades dentro de los mismos municipios. n$ 400.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán........................$1, 000.00
 
-G). Tepeapulco, Tlanalapa, Tezontepec de Aldama, Ajacuba,
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 800.00
 
-Alfajayucan, Acaxochitlan, Singuilucan, Huasca de Ocampo,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Zapotlan de Juárez. n$ 470.00
+IV. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de carga en general, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-H). Comunidades dentro de los municipios del inciso anterior
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 200.00
 
-con servicios urbanos. n$350.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.... ......................$1,000.00
 
-i). Otras comunidades dentro de los mismos municipios. n$ 270.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 800.00
 
-J). Molango, Zacualtipan, Metzquititlan, Zempoala, Tasquillo,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Tetepango y Metepec. n$ 450.00
+V. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de materiales para construcción, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-k). Comunidades dentro de los municipios del inciso anterior
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 300.00
 
-con servicios urbanos. n$ 340.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán......................................................................................................$1, 000.00
 
-L). Otras comunidades dentro de los mismos municipios. n$ 270.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 800.00
 
-m). Los demás municipios del Estado de Hidalgo, pagaran
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-por el otorgamiento de concesiones para el transporte de pasajeros
+VI. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de arrastre, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-en automóvil de alquiler. n$ 400.00
+A) Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 200.00
 
-n). Cuando existan servicios urbanos en las comunidades
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.....................................................................................................................$ 900.00
 
-pertenecientes a los municipios del inciso anterior. n$ 300.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$ 700.00
 
-o). En las demás comunidades de los municipios consignados
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-en el inciso M ) n$ 240.00
+VII. Por el otorgamiento de concesiones para el transporte publico de bienes en servicio especializado, se pagaran de acuerdo a la siguiente zonificación de municipios del Estado:
 
-II. Por las transferencias de la concesiones señaladas en la fracción primera de este articulo, se causaran y pagaran derechos de un 40 % de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso;
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan....................... .................. ...........................$1, 300.00
 
-III. Por la renovación de concesiones señaladas en la fracción primera de este articulo, se causaran y pagaran derechos en un 45% de acuerdo a las tarifas establecidas en los incisos de dicha fracción según el caso;
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan........................$1, 000.00
 
-IV. Por las regularizaciones de las concesiones para el transporte de pasajeros en automóvil de alquiler, se causaran y pagaran las tarifas establecidas en los incisos de las fracciones de este articulo, según el caso;
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.......................$ 800.00
 
-V. Por el otorgamiento de concesiones para el transporte de pasajeros en ruta, se pagaran los derechos en la forma siguiente:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-A) La concesión en tramo de uno a diez kilómetros. n$ 450.00
+VIII Por las ampliaciones de ruta, hasta 5 kilómetros.
 
-b) Por cada kilómetro excedente, hasta 20 kilómetros. n$ 30.00
+A) Por cada kilómetro......................................$200.00
 
-c) Concesión con ruta de mas de 20 kilómetros. n$ 850.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VI. Las ampliaciones en las concesiones a que se refieren
+IX. Por las transferencias:
 
-los incisos de la fracción anterior, pagaran por kilómetro autorizado. n$ 35.00
+A) De las concesiones a que se hace referencia las fracciones I, II, III, IV, V, VI y VII de este articulo, se causaran y pagaran derechos en un 80% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso, y;
 
-VII. Por las transferencias de las concesiones señaladas en la fracción V de este articulo, se causaran y pagaran derechos en un 40 % de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso;
+B) Las derivadas de herencia o por incapacidad física del concesionario, y aquellas que por imposibilidad material o cambio de residencia a que hacen referencia las fracciones I, II, III, IV, V, VI y VII, de este articulo, se causarán y pagarán derechos de un 40% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso.
 
-VIII. Por las renovaciones de las concesiones señaladas en la fracción V de este articulo, se causaran y pagaran derechos en un 45 % de acuerdo a las tarifas establecidas en los incisos de dicha fracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-IX. Por las regularizaciones de las concesiones señaladas en la fracción V de este articulo, se causaran y pagaran derechos en un 80 % de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso;
+X. Por las renovaciones:
 
-X. Las autorizaciones por el enrolamiento entre rutas locales
+A) De las concesiones a que hace referencia las fracciones I, II, III, IV, V, VI y VII, de este articulo, se causarán y pagarán derechos en un 20% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones, según sea el caso, y;
 
-o entre estas y rutas federales, causaran y pagaran derechos de. n$ 520.00
+B) De las concesiones a que hacen referencia las fracciones I, II, III, IV, V, VI, VII, que se hagan extemporáneas se aplicará lo establecido en el articulo 3o. de la Ley de Ingresos del Estado.
 
-XI. Por los permisos de pase de limites en concesiones de
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-rutas federales, causaran y pagaran derechos de. n$ 350.00
+XI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán N$ 300.00
 
-XII. Por los permisos de pase de limites en concesiones de
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-ruta locales, se causaran y pagaran derechos de. n$ 300.00
+XII. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan. Podrán ser mixtos y especiales, y se pagaran de acuerdo a la siguiente manera:
 
-XIII. Para el otorgamiento de concesiones de servicios especializados de carga, se pagará de acuerdo a la siguiente zonificación de municipios del Estado.
+A) Colectivos de ruta urbanos o foráneo...............$ 500.00
 
-A) Pachuca, Tulancingo, Tula de Allende, Tizayuca, Atotonilco de Tula,
+B) Individual taxi o sitio...........................................$ 500.00
 
-Atitalaquia, Tepeji del Río, Huichapan , Zimapan, se pagara por el
+C) Especializado.....................................................$ 500.00
 
-transporte de materiales para construcción. n$ 800.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-B) En los municipios citados en el inciso anterior, se pagará
+XIII. Los registros por regularización de transporte publico de pasajeros de los municipios de: Epazoyucan, Mineral Del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-el transporte de carga ligera urbana. n$ 670.00
+A) Colectivos de ruta urbanos o foráneo..................$ 400.00
 
-c) En los mismos municipios citados en el inciso a),
+B) Individual taxi o sitio............................................ $ 400.00
 
-se pagara por el transporte de productos agrícolas e insumos. n$ 500.00
+C) Especializado......................................................$ 400.00
 
-D) Actopan, Ixmiquilpan, Mixquiahuala, Atotonilco el Grande,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Progreso de Obregon, Tlahuelilpan, Tlaxcoapan, Francisco I. Madero
+XIV. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Eloxochitlan, Juárez Hidalgo, Tepehuacan de Guerrero, Xochicoatlan, Huazalingo, Xochiatipan, Yahualica, Chapulhuacan, La Misión, Pacula y Pisa Flores. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-y San Salvador, pagarán por el transporte de materiales
+A) Colectivos de ruta urbanos o foráneos................$ 300.00
 
-para construcción. n$ 670.00
+B) Individual, taxi o sitio............................................$ 300.00
 
-E) En los municipios citados en el inciso anterior, pagaran
+C) Especializado.................................................... $ 300.00
 
-por el transporte de carga ligera urbana. n$ 500.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-f) En los mismos municipios citados en inciso d), se pagará
+XV. Los registros por regularización de transporte publico de bienes, de los municipios de: Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-por el transporte de productos agrícolas e insumos. n$ 400.00
+A) Carga en general.....................................................$ 500.00
 
-g) En Huejutla de Reyes, Apan, Tepeapulco, Mineral del Monte,
+B) Materiales para construcción...................................$ 500.00
 
-Santiago Tulantepec, Tlanalapa, Mineral de la Reforma,
+C) Arrastre...................................................................$ 500.00
 
-Tezontepec de Aldama, Ajacuba, Cuautepec, Alfajayucan
+D) Especializado...........................................................$ 500.00
 
-y Acaxochitlan, pagarán por el transporte de materiales
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-para construcción. n$ 470.00
+XVI Los registros por regularización de transporte publico de bienes, de los municipios de: Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-H) En los municipios citados en el inciso anterior, se pagara
+A) Carga en general.................................................$ 400.00
 
-por el transporte de carga ligera urbana. n$ 350.00
+B) Materiales para construcción............................. $ 400.00
 
-I) En los mismos municipios citados en el inciso g),
+C) Arrastre............................................................... $ 400.00
 
-se pagara por el transporte de productos agrícolas e insumos. n$ 280.00
+D) Especializado.......................................................$ 400.00
 
-J) En Molango, Zacualtipan, Metzquititlan, Singuilucan, Zempoala,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Tasquillo, Huasca de Ocampo, Tetepango, San Agustín Tlaxiaca,
+XVII. Los registros por regularización de transporte publico de bienes, de los municipios de: Eloxochitlan, Juárez Hidalgo, Tepehuacan de Guerrero, Xochicoatlan, Huazalingo, Xochiatipan, Yahualica, Chapulhuacan, La Misión, Pacula y Pisaflores. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-Zapotlan de Juárez, el Arenal y Metepec, se pagará por el transporte
+A) Carga en general..................................................$ 300.00
 
-de materiales para construcción. n$ 450.00
+B) Materiales para construcción..............................$ 300.00
 
-K) En los municipios citados en el inciso anterior, se pagará por el
+C) Arrastre...............................................................$ 300.00
 
-transporte de carga ligera urbana. n$ 320.00
+D) Especializado..................................................... $ 300.00
 
-L) En los mismos municipios citados en el inciso j), se pagará
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-por el transporte de productos agrícolas e insumos. n$ 270.00
+XVIII. Por copia de documentos existentes en esta dirección:
 
-M) Los demás municipios del Estado de Hidalgo, pagarán por la
+A) Por copias certificadas (primer hoja)....................$ 8.00
 
-concesión para el transporte de materiales para construcción. n$ 400.00
+B) Por las siguientes copias certificadas..................$ 4.00
 
-n)En los municipios citados en el inciso anterior, se pagará por
+C) Por copias simples (no certificadas).....................$ 3.00
 
-el transporte de carga ligera urbana n$ 300.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-o)En los municipios a que se hace referencia el inciso m),
+XIX Sustitución de vehículos que presten el servicio establecido en este articulo, y ;.....$300.00
 
-se pagará por el transporte de productos agrícolas e insumos. n$ 240.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-XIV. Por las transferencias de las concesiones a que hace referencia la fracción XIII de este artículo, se causarán y pagarán derechos en un 40 % de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso;
-
-XV. Por las renovaciones de las concesiones a que hace referencia la fracción XIII de este artículo, se causarán y pagarán derechos en un 45 % de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso;
-
-XVI. Las modificaciones que se realicen en cualquier tipo de
-
-concesiones señaladas en este artículo, pagarán. n$ 130.00
-
-XVII. La expedición de los permisos de transporte, se causarán y pagarán de la siguiente manera:
-
-A) Los permisos de grúa para el arrastre de vehículos, pagarán. n$ 360.00
-
-b) Los permisos para el transporte de petróleo y sus derivados, pagarán. n$ 240.00
-
-c) Los permisos de transporte para distribución de agua, pagarán. n$ 240.00
-
-d) Los permisos de transporte de empresas de construcción,
-
-comerciantes e industriales, agricultores y mineros, pagarán. n$ 240.00
-
-XVIII. La renovación de permisos a que se refiere la fracción XVII de este artículo, se causarán y pagarán en un 45 % de acuerdo a las tarifas establecidas en los incisos a, b, c y d;
-
-XIX. En caso de renovación extemporánea de permisos, se pagará
-
-por cada mes de extemporaneidad. n$ 10.00
-
-XX. La transferencia de los permisos señalados en los incisos de la fracción XVII, pagarán el 45 % de la cuota señalada en dicho inciso, según el caso.
-
-XXI. Por copias de documentos existentes en esta dirección:
-
-A) Por la primera hoja. n$ 5.00
-
-B) Por cada hoja excedente. n$ 4.00
-
-XXII. Por la autorización para la sustitución de las unidades que
-
-presten los servicios establecidos en este artículo n$ 140.00
+XX. Por el cambio de modalidad que se realicen a las concesiones a que hacen referencia las fracciones I a VII de este articulo se causaran y pagaran derechos en un 80% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones, según sea el caso.
 
 ###### ARTICULO 91.
 
@@ -2007,9 +1989,35 @@ B) Por cada hoja excedente N$ 4.00
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO V
+### CAPITULO IV BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE
 
-DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
+DESARROLLO REGIONAL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Articulo 96 bis.- Los derechos por la prestación de los servicios del estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;..........................$2, 000.00
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;................... $ 300.00
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+III.-Por cruzamiento de carretera; ....................................................................$ 300.00
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+IV.-Por instalación marginal, y;.................................. ................ .......................$2,000.00
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+V.-Por adosamiento en puentes.................... ................. ................ .................$ 300.00
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 94.
 
@@ -2017,33 +2025,33 @@ Los derechos por la prestación de los servicios del Estado, a través de la Dir
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-I. Por el dictamen de uso del suelo para uso habitacional
+I. por el dictamen de uso del suelo para uso habitacional
 
 comercial y de servicios, por predio N$ 60.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-II. Por el dictamen de uso de suelo industrial, por predio. N$ 150.00
+II. por el dictamen de uso de suelo industrial, por predio. N$ 150.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-III. Por el dictamen de uso de suelo para subdivisiones,
+III. por el dictamen de uso de suelo para subdivisiones,
 
 por predio N$ 150.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-IV. Por el dictamen de uso del suelo para fraccionamientos,
+IV. por el dictamen de uso del suelo para fraccionamientos,
 
 por predio. N$ 200.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-V. El dictamen a que se refieren las fracciones anteriores, tendrá vigencia de un año y su prorroga o revalidación causara el 50% de la cuota correspondiente.
+V. el dictamen a que se refieren las fracciones anteriores, tendrá vigencia de un año y su prorroga o revalidación causara el 50% de la cuota correspondiente.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VI. Por fusión de predios SIN COSTO
+VI. por fusión de predios SIN COSTO
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2111,9 +2119,9 @@ XVIII. Croquis de colocación de puntos topográficos, copia xerox,
 
 por pieza. N$ 35.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-XIX. Copia de plano manzanero. heliografica esc. 1:1000, por pieza. N$ 30.00
+XIX. Copia de plano manzanero, Heliográfica N$ 40.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2121,9 +2129,9 @@ XX. La inscripción de predios y examen de los planos en las
 
 casas de fraccionamientos urbanizados por cada manzana. N$ 150.00
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994) (F. DE E., P.O. 30 DE ENERO DE 1995)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-XXI. En caso de fraccionamiento, para verificar la poligonal del terreno. _______ N$ 185.00
+XXI. En caso de fraccionamiento, para verificar la poligonal del terreno. _______ N$ 85.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2135,9 +2143,7 @@ b) de 5001 hasta 10,000 m2. _________________ N$ 350.00
 
 c) hasta 2 has. ___________________________ N$ 250.00
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 1995)</small>
-
-d) de 2 a 5 has. ___________________________ N$ 150.00
+d) de 2 a 5 has. ___________________________ N$ 50.00
 
 e) de 5 a 10 has. __________________________ N$ 100.00
 
@@ -2189,9 +2195,13 @@ a) Por la primera hoja. ____________________ n$ 5.00
 
 b) Por cada hoja adicional. _________________ n$ 4.00
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-XXX. Todas las personas físicas o morales que construyan viviendas de interés social y popular cuyo costo no rebase los 186 salarios mínimos elevado al año, de la zona económica donde se ubiquen, podrán solicitar subsidio en el pago de los derechos previstos en este articulo, ante la Secretaria de Finanzas y Administración para su análisis y resolución correspondiente.
+XXX. Todas las personas físicas o morales que construyan viviendas de interés social y popular cuyo costo no rebase los 186 salarios mínimos elevados al mes, de la zona económica donde se ubiquen podrán solicitar subsidio en el pago de los derechos previstos en este articulo, ante la Secretaria de Finanzas y Administración para su análisis y resolución correspondiente, y;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XXXI. Restitución fotogrametrica esc. 1: 1,000 con vuelo actualizado "1990" de 54 hectáreas con curvas de nivel a un metro en heliografica formato 90 x 60 cms., por pieza.......... $ 1, 000.00
 
 ###### ARTICULO 95.
 
@@ -2199,9 +2209,9 @@ XXX. Todas las personas físicas o morales que construyan viviendas de interés 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
+DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 ###### ARTICULO 96.
 
@@ -2233,7 +2243,11 @@ A) Por la primera hoja N$ 5.00
 
 B) Por cada hoja excedente N$ 4.00
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO VI
+
+DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
 ### Capitulo VII. De las dependencias de la
 
@@ -2259,7 +2273,7 @@ IV. Por la practica de examen toxicológico. n$ 50.00
 
 V. Por la expedición de certificados de no antecedentes penales. n$ 15.00
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 97.
 
@@ -2271,7 +2285,9 @@ V. Por la expedición de certificados de no antecedentes penales. n$ 15.00
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO UNICO
+### CAPITULO VIII. DE LOS ORGANISMOS DESCENTRALIZADOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 98.
 
@@ -2281,11 +2297,19 @@ V. Por la expedición de certificados de no antecedentes penales. n$ 15.00
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+### CAPITULO UNICO
+
+###### Articulo 98 Bis.
+
+A.- Los organismos descentralizados como personas jurídicas cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la administración publica, mediante la prestación de diversos servicios públicos o sociales, o; la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a los rubros y tarifas que señale su órgano de gobierno respectivo, previa su aprobación por el H. Congreso del Estado y los que deberán ser publicados en el Periódico Oficial del Gobierno del Estado para tener vigencia y aplicabilidad.
+
+Los recursos que recauden deberán ser ingresados a la Secretaria de Finanzas y Administración.
+
+## TITULO IV. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
 
-## TITULO IV. DE LOS PRODUCTOS
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 99.
 
@@ -2358,6 +2382,8 @@ G) El costo de un ejemplar del año inmediato anterior N$ 12.00
 H) Por cada año atrasado, se pagará el costo mas N$ 1.00
 
 ## TITULO V. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 100.
 
@@ -2439,9 +2465,11 @@ III. Sobre Productos de Capitales.
 
 Continúa suspendido el cobro de los Derechos Estatales que señala el Decreto Número 120 de fecha 29 de junio de 1983, publicado en el Periódico Oficial del Estado de fecha 4 de julio de 1983, en virtud de estar en vigor la Coordinación de la materia de Derechos suscrito por el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público, salvo los derechos por uso de estacionamiento de vehículos y de uso de la vía pública por comerciantes ambulantes con puestos fijos o semifijos, de acuerdo a lo establecido en la fracción III del Articulo 10-A de la Ley de Coordinación Fiscal Federal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO QUINTO.
 
-Continúan en vigor los acuerdos y demás disposiciones de carácter general, dictadas con apoyo en la Ley que se deroga, en lo que no se oponga a la presente Ley.
+Continúan suspendido el cobro de los derechos estatales que señala el Decreto numero 120 de fecha 29 de junio de 1983, publicado en el Periódico Oficial del Estado de fecha 4 de julio de 1983, en virtud de estar en vigor la coordinación en materia de derechos suscrito por el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público, salvo los derechos por uso de estacionamiento de vehículos, de uso de la vía pública por comerciantes ambulantes con puestos fijos o semifijos, y por el uso de tenencia de anuncios, de acuerdo a lo establecido en la fracción III del artículo 10-A de la Ley de Coordinación Fiscal Federal.
 
 AL EJECUTIVO DEL ESTADO PARA SU SANCION, PUBLICACION Y CUMPLIMIENTO.- DADO EN LA SALA DE SESIONES DEL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO, PALACIO LEGISLATIVO, PACHUCA DE SOTO HGO., A LOS VEINTICUATRO DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA.
 
@@ -2480,3 +2508,11 @@ P.O. 30 DE DICIEMBRE DE 1994.
 primero.- El presente decreto entrara en vigor el día primero de enero de 1995, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+PRIMERO.- Dentro del presente ordenamiento legal, en todas las cantidades que se denominan en nuevos pesos, se entenderá suprimida la palabra nuevos, del nombre de la Unidad del Sistema Monetario de los Estados Unidos Mexicanos, para volver a la denominación de pesos, de acuerdo a lo establecido por el Banco de México en el aviso publicado en el Diario Oficial de la Federación de fecha 15 de noviembre de 1995.
+
+SEGUNDO.- El presente decreto entrará en vigor el día 1° de Enero de 1996, previa publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
