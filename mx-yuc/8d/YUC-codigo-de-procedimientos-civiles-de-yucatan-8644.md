@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1980-01-02"
+last_updated: "1981-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 1981.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -399,13 +399,11 @@ III.- Los gastos por agencias y diligencias que hubiesen sido indispensables en 
 
 Los honorarios no podrán exceder de lo que fijen los aranceles, si los hubiere, y los gastos deberán estar justificados en concepto del tribunal que conoció del juicio.
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 64.
 
-El que resulte vencido en el juicio será condenado en las costas. En los juicios de arrendamiento de predios urbanos destinados para habitación, escuelas o talleres no habrá condenación en costas.
-
-La condenación no comprenderá los honorarios del Procurador ni del Patrón, sino cuando fueren abogados recibidos con título legalmente registrado.
+El que resulte vencido en juicio será condenado en las costas. Estas no comprenderán los honorarios del procurador ni del patrón, sino cuando fueren abogados recibidos con título legalmente registrado.
 
 ###### ARTICULO 65.
 
@@ -3045,67 +3043,71 @@ Los juicios extraordinarios se tramitarán en la misma forma establecida en este
 
 ### CAPITULO I. Del juicio de arrendamiento
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 563.
 
 El juicio de arrendamiento procede cuando se funda:
 
-I.- En el cumplimiento del término estipulado en el contrato o de la prórroga legal, de acuerdo con los artículos 1579 y 1582 del Código Civil, salvo lo dispuesto en el artículo 1580 del mismo Código.
+I.- En la falta de pago de rentas, en la forma prevista en la fracción I del artículo 1596 del Código Civil.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+II.- En el cumplimiento del plazo estipulado en el contrato o de su prórroga legal de acuerdo con los artículos 1579 y 1582 del Código Civil, salvo lo dispuesto en los artículos 1580 y 1581 del mismo Código.
 
-III.- Por falta de pago de rentas, en la forma prevenida en la fracción I del artículo 1596 del Código Civil.
+III.- En la infracción de cualesquiera de las condiciones del contrato que con arreglo del Código Civil motiven rescisión.
 
-III.- En la infracción de cualquiera de las condiciones del contrato que, con arreglo del Código Civil, motivan rescisión.
-
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 564.
 
-Todos los juicios de arrendamiento se tramitarán con sujeción a las reglas de este capítulo.
+Todos los juicios de arrendamiento se tramitarán ante los Jueces de lo Civil o Mixtos del Departamento al que el predio corresponda, con sujeción a las reglas establecidas en este capítulo.
 
-Cuando la renta anual del predio cuya desocupación se pida, no exceda de mil pesos, conocerá del juicio en primera instancia, el Juez Menor, y a falta de éste el de Paz del Municipio en que está ubicada la finca; si dicha renta excediere de mil pesos, conocerán los Jueces de lo Civil o Mixtos del Departamento a que la finca corresponda.
-
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 565.
 
-En el juicio de arrendamiento, la demanda, cualquiera que sea la causa en que se funde, sólo será aceptada cuando se presente aparejada con el contrato respectivo, el certificado del valor catastral del predio que motiva el juicio y la constancia de que el propietario está al corriente en sus pagos de impuestos al Estado y al Municipio, en cuanto a dicho predio.
+En el juicio de arrendamiento, la demanda, cualquiera que sea la causa en que se funde, sólo será aceptada cuando se presente aparejada con el contrato respectivo o la justificación de su existencia y con la constancia de que el propietario está al corriente en el pago del impuesto predial al Estado, en cuanto al predio motivo del juicio.
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 566.
 
-Si la demanda se funda en la falta de pago de rentas a que se refiere la fracción II del artículo 563, el Juez correrá traslado de ella al demandado para que la conteste dentro de tres días.
+Si la demanda se funda en la falta de pago de rentas a que se refiere la fracción I del artículo 563, presentada ésta con los documentos relacionados en el artículo anterior, el Juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia pague o justifique con los documentos respectivos estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro del plazo de dos meses, si el predio sirve para habitación o dentro del de tres meses en cualquier otro caso, proceda a desocuparlo, apercibido de lanzamiento a su costa si no la efectúa. En el mismo acto se le emplazará para que dentro de tres días ocurra a oponer las excepciones que tuviere.
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 567.
 
-Si en la demanda o en la contestación se ofrecieren pruebas, se concederá para su perfeccionamiento un término que no exceda de quince días.
+Si en el acto de la diligencia justificare el arrendatario con los recibos correspondientes haber hecho el pago de las rentas reclamadas o exhibiese su importe o copias selladas por un juzgado de memoriales de consignación de las rentas a favor del arrendador, se suspenderá la diligencia, asentándose constancia de estas circunstancias en el acta, agregándose los justificantes que se presentaren para dar cuenta al Juez. Si se exhibiere el importe de las rentas, el Juez mandará entregarlo al actor sin más trámites y se dará por terminado el procedimiento. Si se exhibieren copias de los memoriales de consignación de las rentas, se recabará el importe de éstas al Juzgado en el que hubieren sido depositadas y recibidas éstas, se entregarán al arrendador a cambio de los recibos correspondientes, los que quedarán a disposición del arrendatario, dándose por terminado el procedimiento. En caso de que el arrendatario presentare los recibos de pago de las rentas reclamadas, se dará vista de los mismos al arrendador por el término de tres días; si éste no los objetare se dará por concluido el juicio; en caso contrario, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 570 de este Ordenamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 568.
 
-(DEROGADO, D.O. 12 DE JULIO DE 1946)
+Cuando durante el plazo fijado en el artículo 566 para el desahucio exhiba el inquilino el importe de las rentas adeudadas, el juez mandará entregar éstas al arrendador y dará por terminada la providencia de lanzamiento declarando vigente en el contrato de arrendamiento existente.
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 569.
 
-Si durante la tramitación del juicio en cualquiera de sus instancias, el inquilino paga las rentas que legalmente adeudare, se dictará sobreseimiento declarando que continuará vigente el contrato de arrendamiento, siempre que al hacerse el pago no se hubiese consumado el desahucio.
+Los beneficios de los plazos que este capítulo concede a los arrendatarios, no son renunciables.
+
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 570.
 
-Transcurrido el término a que se refiere el artículo 567, y hecha la publicación de pruebas, el Juez citará a las partes para oír sentencia que dictará dentro de los tres días siguientes.
+En caso de que se opongan otras excepciones por el arrendatario, se mandará dar vista de ellas al arrendador citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes. Verificada esta audiencia, el Juez citará para sentencia, que dictará dentro de tres días, teniéndose en cuenta que este procedimiento debe efectuarse antes de que concluya el plazo fijado para el lanzamiento. El Juez debe desechar de plano las excepciones diversas a las que el Código Civil en los artículos del 1554 al 1557 y el 1567 concede al inquilino para no pagar las rentas, siendo aquéllas inadmisibles si no se ofrecen con sus pruebas. Son improcedentes la reconvención y la compensación.
+
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 571.
 
-Si la demanda de arrendamiento se funda en la fracción I del artículo 563, el Juez oirá al demandado previo traslado que le dé por tres días.
+Si la demanda de arrendamiento se funda en la fracción II del artículo 563, el Juez oirá al demandado previo traslado que le dé por tres días.
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 572.
 
-Si en la demanda o en la contestación se hubiesen ofrecido pruebas, se concederá para su perfeccionamiento un término que no exceda de quince días.
+Si en la demanda o en la contestación, en el caso a que se refiere el artículo anterior, se hubiesen ofrecido pruebas, se concederá para su perfeccionamiento un término que no exceda de quince días.
 
 ###### ARTICULO 573.
 
@@ -3119,25 +3121,27 @@ Si el juicio de arrendamiento se funda en la fracción III del artículo 563, se
 
 El desahucio únicamente procede en ejecución de sentencia que lo ordene con arreglo a este Capítulo.
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 576.
 
-En la sentencia de desahucio se concederá al inquilino el término de seis meses para que verifique la desocupación, salvo que el juicio se siguiere por la falta de pago de rentas, en cuyo caso, se concederá el término de dos meses.
+En la sentencia de desahucio se concederá al inquilino el plazo de dos meses para que efectúe la desocupación, salvo que el juicio se siga por falta de pago de rentas, caso en que dicho plazo será el que falte para cumplirse el señalado en el artículo 566.
 
 ###### ARTICULO 577.
 
 Cuando en ejecución de sentencia se trate de desalojar a alguna persona o familia de cualquier predio urbano, podrá el Juez prorrogar por un mes más el plazo fijado para la desocupación, si el interesado acredita que está impedido para salir de la casa, por causa de enfermedad u otra circunstancia grave.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 578.
 
-Vencido el término que se fijó en la sentencia y la prórroga, en su caso, sin que el demandado hubiese efectuado la desocupación, se procederá a su desalojamiento con el auxilio de la fuerza pública. Si el inquilino dejare abandonados los muebles extraídos de la casa objeto de la desocupación, se enviarán en depósito a la primera autoridad municipal, para que ésta se los entregue al interesado, sin necesidad de trámite alguno.
+Vencido el término que se fijó en la sentencia y la prórroga, en su caso, sin que el demandado hubiese efectuado la desocupación a solicitud del actor, se procederá a su desalojamiento, con el auxilio de la fuerza pública, pudiéndose romper las cerraduras de las puertas, entendiéndose la diligencia con el demandado o en su defecto con cualquier persona de la familia, sirvientes, portero o vecino. Si el arrendatario dejare abandonados los muebles extraídos del predio objeto de la desocupación y no hubiere algún familiar o persona autorizada que los recoja, se enviarán en depósito, por inventario, a la primera autoridad municipal al local que ésta designe, para su entrega al interesado sin necesidad de trámite alguno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 1 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 579.
 
-(DEROGADO, D.O. 12 DE JULIO DE 1946)
+Para la ejecución del lanzamiento se tendrá como domicilio legal del demandado el predio o el departamento de cuya desocupación se trate. Al verificarse la diligencia se embargarán y depositarán bienes del arrendatario, bastantes para cubrir las rentas reclamadas, si así se hubiere dispuesto en la sentencia. El arrendatario podrá antes del remate, librarse de su obligación cubriendo el importe de las rentas adeudadas.
 
 ###### ARTICULO 580.
 
@@ -4529,9 +4533,11 @@ Rendida la justificación prevenida en el artículo que antecede el Juez, si cre
 
 La sentencia deberá ejecutarse inmediatamente, y aunque fuere apelada continuará el acreedor alimentista percibiendo los alimentos sin necesidad de dar fianza.
 
+> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 857.
 
-En este expediente no se permitirá ninguna discusión sobre el derecho a percibir alimentos o sobre la cantidad de los alimentos. Cualquiera reclamación que sobre este derecho o sobre la cantidad se hiciere, se substanciará en juicio ordinario, y entre tanto, seguirá abonándose la suma señalada para alimentos.
+En este expediente se tramitará, en caso de ser necesario todo aumento o disminución de la suma señalada para alimentos por el Juez y que más adelante resultare insuficiente para el acreedor o excesiva para el deudor, mediante un escrito del promovente, del cual se dará vista por tres días a la otra parte y un término probatorio de 10 días en caso de que se ofrecieren pruebas que requieran perfeccionamiento especial, dictándose la resolución correspondiente dentro de los tres días siguientes. Durante la tramitación de este procedimiento, seguirán pagándose las pensiones alimenticias decretadas.
 
 ### CAPITULO IV
 
@@ -6212,3 +6218,13 @@ Este Decreto entrará en vigor el día de su publicación en el Diario Oficial d
 D.O. 2 DE ENERO DE 1980.
 
 UNICO.- Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 1 DE JUNIO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios de arrendamiento promovidos con anterioridad a la vigencia de estas reformas, seguirán los lineamientos vigentes en la fecha de su promoción.
