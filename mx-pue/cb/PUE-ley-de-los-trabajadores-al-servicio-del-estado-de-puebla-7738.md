@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "1966-11-18"
+last_updated: "1971-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1971.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -45,9 +45,11 @@ T I T U L O P R I M E R O
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1971)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de observancia general para los Titulares de los Departamentos Legislativo, Ejecutivo y Judicial del Estado, y para todos los trabajadores de base al servicio de los mismos Departamentos.
+La presente Ley es de observancia general para los Titulares de los Departamentos Ejecutivo, Legislativo y Judicial del Estado y para todos los trabajadores de base al servicio de los mismos Departamentos, así como de la Unidad Hospitalaria "Hospital Civil de Puebla".
 
 ###### ARTICULO 2o.
 
@@ -996,3 +998,15 @@ Las pensiones de los trabajadores al Servicio del Estado se continúan rigiendo 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Departamento Legislativo, en la Heroica Puebla de Zaragoza, a los 10 días del mes de agosto de 1966.- Alfredo Gavito Aja, D.P.- Profr. Eloy Salgado Nájera, D.S.- Adolfo García Camacho, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. DADO en el Palacio del Departamento Ejecutivo en la Heroica Puebla de Zaragoza, a los dieciocho días del mes de agosto de mil novecientos sesenta y seis.- El Gobernador Interino del Estado, Ing. Aarón Merino Fernández.- Rúbrica.- El Secretario General de Gobierno, Lic. Enrique Molina Johnson.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1971.
+
+###### ARTICULO 1o.
+
+Las presentes REFORMAS entrarán en vigor a partir del 1o. de Enero de 1972.
+
+###### ARTICULO 2o.
+
+Se faculta al propio Titular del Ejecutivo para la interpretación y aplicación del presente Decreto.
