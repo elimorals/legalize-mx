@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1999-10-01"
+last_updated: "2000-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2000.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2166,11 +2166,11 @@ Para proceder penalmente en contra de los Diputados al Congreso del Estado, el G
 
 La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2000)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral y los miembros de los Ayuntamientos.
+Son responsables y serán sometidos a Juicio Político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados del Congreso del Estado, los Secretarios de despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos y los miembros de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -2725,3 +2725,13 @@ CUARTO.- El Congreso del Estado deberá expedir las modificaciones al Código Es
 > <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
 QUINTO.- El Congreso del Estado tiene 90 días para expedir las modificaciones a la Ley Orgánica Municipal que se deriven de las presentes reformas, adiciones y derogaciones.
+
+P.O. 14 DE JUNIO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
