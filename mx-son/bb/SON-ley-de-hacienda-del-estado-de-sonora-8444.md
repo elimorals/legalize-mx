@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1977-12-31"
+last_updated: "1979-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE FEBRERO DE 1979.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -97,9 +97,9 @@ Tratándose de predios rústicos, sólo deberá incluirse la propiedad o posesi�
 
 El Impuesto se causará aplicando las bases mencionadas en el artículo anterior, la siguiente tarifa:
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE FEBRERO DE 1979)</small>
 
-I.- Sobre el valor catastral de las casas habitadas totalmente por el contribuyente, conforme a las tasas de la siguiente tarifa:
+I.- Sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa-habitación, conforme a las tasas de la siguiente
 
 TARIFA:
 
@@ -113,9 +113,9 @@ VALOR CATASTRAL TASA ANUAL
 
 1,500,000.01 en adelante 9 al millar
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE FEBRERO DE 1979)</small>
 
-II.- Sobre el valor catastral de las casas no habitadas totalmente por el contribuyente conforme a la siguiente
+II.- Sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente, conforme a la siguiente
 
 TARIFA:
 
@@ -143,7 +143,9 @@ B) Terrenos de Superficie indeterminada.
 
 a) 5 al millar anual sobre el valor que fije provisionalmente la Dirección de Catastro.
 
-En ningún caso el impuesto será menor de $20.00 al año.
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+En ningún caso el impuesto será menor de $60.00 al año.
 
 IV.- Sobre los predios no edificados, se aplicarán las tasas de la fracción II correspondientes, con aumento de 25%
 
@@ -229,7 +231,7 @@ VI.- Los adquirentes de productos ejidales o comunales y los intermediarios entr
 
 ###### Artículo 14.
 
-La Tesorería General del Estado podrá reducir de un 15% a un 40% del impuesto que corresponda a un predio, cuando contenga árboles adultos y vivos en su superficie, siempre y cuando el arbolado ocupe cuando menos la tercera parte de la superficie de los predios edificados, o en la totalidad de los no edificados. La reducción se hará exclusivamente sobre el impuesto que corresponda al terreno y surtirá sus efectos a partir de la fecha en que se presente el escrito en que se solicite.
+(DEROGADO, B.O. 3 DE FEBRERO DE 1979)
 
 ###### Artículo 15.
 
@@ -2997,7 +2999,27 @@ C.C. Jueces de Primera Instancia o el Tesorero
 
 General del Estado 100.00
 
+> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+3.- Por cada firma que legalice el C. Gobernador
+
+respecto a documentos relacionados con la materia
+
+educativa, exclusivamente cuando se trate de
+
+estudiantes, sin adicionales $20.00
+
+> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+4.- Por cada firma que legalice el C. Gobernador
+
+del Estado, de actas de nacimiento exclusivamente
+
+cuando se trate de estudiantes, sin adicionales $30.00
+
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
 
 ###### Artículo 310.
 
@@ -3335,181 +3357,329 @@ de tarifas para vehículos concesionados 5,000.00
 
 ###### Artículo 321.
 
-Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
+Los derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio se cobrarán conforme a las siguientes cuotas:
 
-1.- Por examen de todo título o documento, aún cuando
+1.- Por examen de todo título o documento,
 
-no se inscriban $50.00
+sea éste público o privado que se presente
 
-2.- Quedarán sujetos a la siguiente tarifa
+al Registro para su inscripción se efectúe ésta
+
+o no, por las primeras dos hojas se cobrarán $50.00
+
+Por lo que exceda de éstas, por cada una $10.00
+
+Sin que esta cuota sea mayor de $150.00
+
+Se exceptúa del pago a que se refiere este apartado,
+
+a los títulos que expidan los H. Ayuntamientos a
+
+particulares de escasos recursos económicos.
+
+2.- Quedarán sujetos a la siguiente tarifa:
 
 DESCRIPCION
 
-a).- La inscripción o registros de títulos públicos o privados que se refieran a dominio o posesión de los demás derechos reales sobre bienes inmuebles, sobre el valor más alto que resulte del pactado en el contrato, del avalúo fiscal o del bancario a excepción de los títulos expedidos por la nación.
+a) La inscripción de documentos públicos o privados
 
-b).- La inscripción de la cláusula resolutiva en las ventas a que se refieren las fracciones I y II del Artículo 2562 del Código Civil y contratos con reserva de dominio.
+en que se reconozca, adquiera, transmita, modifique,
 
-c).- La inscripción o registro de contratos de fideicomiso.
+limite, grave o extinga la propiedad originaria de bienes
 
-d).- Registros de Contratosde (sic) Permuta, se cobrará a cada contratante por separado sobre el valor fiscal o bancario, con base en el que resulte más elevado.
+inmuebles o cualquier derecho real sobre los mismos,
 
-e).- Registro de Títulos que se refieran al dominio o posesión de bienes muebles.
+se cobrará por el valor más alto que resulte entre el valor
 
-f).- Los contratos de Prenda que menciona el Artículo 3200 del Código Civil del Estado.
+catastral, bancario o el de la operación, a excepción de los
+
+títulos expedidos por la Nación.
+
+b) La inscripción de la cláusula resolutiva en las ventas
+
+a que se refieren las fracciones I y II del Artículo 2562
+
+del Código Civil y contratos con reserva de dominio.
+
+c) La inscripción o registro de contratos de fideicomiso.
+
+d) Registros de contratos de Permuta, se cobrará a cada
+
+contratante por separado sobre el valor fiscal o bancario
+
+con base en el que resulte más elevado.
+
+e) Registro de títulos o documentos que se refieran al
+
+dominio o posesión de bienes muebles.
+
+f) Los contratos de prenda que menciona el Artículo
+
+3200 del Código Civil del Estado.
 
 TARIFA
 
-I.- Hasta $ 500.00 $50.00
+I.- De .01 a $500.00 $50.00
 
-II.- De $500.00 hasta $10,000.00 100.00
+II.- De $500.01 hasta $10,000.00 100.00
 
-III.- De $10,000.00 hasta $50,000.00 150.00
+III.- De $10,000.01 hasta $50,000.00 150.00
 
-IV.- Por lo que exceda de $ 50,000.00
+IV.- De $50,000.01 hasta $100,000.00 4 al millar
 
-hasta $100,000.00 4 al millar
+V.- Por lo que exceda de $100,000.01
 
-V.- Por lo que exceda de $100,000.00
+hasta $1´000,000.00 3 al millar
 
-hasta $1'000,000.00 3 al millar
+VI.- Por lo que exceda de 1´000,000.00 2 al millar
 
-VI.- Por lo que exceda de $1'000,000.00 2 al millar
+3.- Por inscripción o registro de títulos que
 
-3.- Por la inscripción o registro de títulos expedidos
+expida el H. Ayuntamiento a particulares,
 
-por la Nación 200.00
+satisfaciendo necesidades de interés social
 
-4.- La constitución del patrimonio de familia,
+de .01 a $10,000.00 $100.00
 
-pagará 2 al millar
+Cuando exceda de esta cantidad se cobrará con
 
-5.- Los contratos de arrendamiento de bienes
+tarifa de compra-venta.
 
-inmuebles sobre el importe que arroje el período
+4.- Por la inscripción o registro de títulos que
 
-que abarcan 2%
+expida la Nación $500.00
 
-6.- Tratándose de arrendamiento de bienes
+5.- La constitución del patrimonio familiar 2 al millar
 
-inmuebles por tiempo indefinido, secobrará (sic)
+6.- Los contratos de arrendamientos (sic) de bienes
 
-sobre el importe que arroje el período
+muebles e inmuebles 2.5 al millar
 
-que no exceda de 5 años 2%
+7.- Tratándose de arrendamientos de bienes
 
-7.- Por inscripción de escrituras constitutivas de
+inmuebles por tiempo indefinido, se cobrará
 
-sociedades, pagarán de acuerdo con la siguiente
+por el importe del contrato por un período que
 
-tarifa:
+no exceda de cinco años 2.5 al millar
+
+8.- Causarán el pago de derechos a que se
+
+contrae la tarifa de compra-venta, los siguientes
+
+actos, cuya inscripción se solicite:
+
+a) Cesión de derechos gratuita u onerosa.
+
+b) Comodato, uso, usufructo, habitación.
+
+c) Donaciones.
+
+d) Informaciones ad Perpetuam o Posesorias.
+
+e) Usucapión o prescripción adquisitiva.
+
+f) Constitución del régimen de condominio cada uno de los
+
+departamentos, despachos o cualquier otro tipo de locales.
+
+g) Adjudicaciones por herencia de bienes inmuebles inscritos.
+
+h) Adjudicaciones judiciales de bienes inmuebles.
+
+i) Disolución de sociedades conyugales sobre inmuebles,
+
+cuando estén inscritos.
+
+j) Protocolización de convenio de separación de bienes,
+
+cuando haya bienes inmuebles inscritos.
+
+k) Contratos de obra a precio alzado.
+
+l) Por inscripción de embargos judiciales y administrativos.
+
+9.- Capitulaciones matrimoniales $500.00
+
+10.- Por fusión de predios rústicos ó urbanos $300.00
+
+11.- Actos, contratos o convenios por los que se
+
+fraccione, lotifique, relotifique o subdivida un predio $300.00
+
+Independientemente de la tarifa anterior, se cubrirá (sic)
+
+en forma adicional las siguientes cuotas en cada caso:
+
+a) En zona urbana residencial jardinada, por cada
+
+lote $50.00
+
+b) En las zonas populares 25.00
+
+c) Zona industrial 75.00
+
+d) Zona campestre o rústica 100.00
+
+12.- Los créditos hipotecarios, reconocimientos de
+
+adeudo, refaccionarios, habilitación o avíos, fianzas
+
+celebradas entre particulares, sobre el importe de
+
+la operación 5 al millar
+
+13.- Todos los documentos o títulos públicos o privados
+
+no previstos en las anteriores tarifas, se cobrarán 500.00
+
+14.- Por inscripción de escrituras constitutivas de
+
+Sociedades Mercantiles, pagarán de acuerdo con la
+
+siguiente tarifa:
 
 I.- Por capital social y sus aumentos que no
 
-excedan de $50, 000.00 $100.00
+excedan de $50,000.00 100.00
 
-II.- Por lo que no exceda de $50, 000.00 hasta
+II.- Por lo que exceda de $50,000.00
 
-$1´000,000.00 3 al millar
+hasta $1´000,000.00 3 al millar
 
 III.- Por lo que exceda de $1´000,000.00 2 al millar
 
-IV.- Por cualquier modificación de escritura
+15.- Por cualquier modificación de Sociedades
 
-constitutiva exceptuando el aumento de capital
+Mercantiles de escrituras constitutivas, exceptuando
 
-y por la inscripción de poderes y substituciones
+el aumento de capital, por la inscripción de poderes,
 
-de los mismos y cualquiera otra inscripción
+sustitución de los mismos y cualquier otra inscripción
 
-de la Sección de Comercio $200.00
+en la Sección de Comercio 200.00
 
-8.- Las escrituras constitutivas de Asociaciones
+16.- Cuando el documento a inscribir sea constitución
 
-y las que se reformen, pagarán 250.00
+de Sociedad Mercantil, o cualquier modificación al
 
-9.- Las escrituras constitutivas de fundaciones de
+pacto social, otorgado fuera de la entidad, aparte
+
+de la tarifa estipulada pagarán 25% sobre el monto
+
+de derechos que cause el documento.
+
+17.- Las escrituras constitutivas de asociaciones y las
+
+que se reforman, pagarán $250.00
+
+18.- Las escrituras constitutivas de fundaciones, de
 
 beneficencia privada, pagarán 150.00
 
-10.- Los testimonios delas (sic) informaciones
+19.- Por depósito de testamento ológrafo 500.00
 
-Ad-Perpetuam y testimoniales pagarán 300.00
-
-11.- Por depósito de testamento ológrafo 200.00
-
-12.- Los créditos hipotecarios, refaccionarios de
+20.- Los créditos hipotecarios, refaccionarios, de
 
 habilitación o avío, otorgados por instituciones de
 
-crédito y organizaciones auxiliares, causarán
+crédito y organizaciones auxiliares, causarán sobre
 
-sobre el importe de la operación 2.5 al millar
+el importe de la operación 2.5 al millar
 
-13.- Los créditos hipotecarios, refaccionarios o de
+21.- Por inscripción de documentos que contengan
 
-habilitación o avío, causarán sobre el importe
+emisión de obligaciones quiriografarias o garantía
 
-de la operación 5 al millar
+prendaria o hipotecaria sean éstos nominativos o
 
-14.- La inscripción de embargo o cualquier gravamen
+al portador, que el emisor sea una Sociedad Anónima,
 
-sobre bienes inmuebles se pagarán de acuerdo con
+pagará sobre el monto 0.25%
 
-la tarifa 2 de ésta Artículo.
+22.- Certificados de no inscripción para obtención de
 
-15.- Por todas las inscripciones no previstas en
+becas para estudio únicamente 20.00
 
-las anteriores tarifas, se pagarán 250.00
+23.- Expedición de certificados de no inscripción de bienes.
 
-16.- Por la Expedición de certificados
+Inmuebles urbanos 300.00
 
-independientemente de la búsqueda de
+De inmuebles rústicos 500.00
 
-antecedentes, se pagará 50.00
+24.- Expediciones de certificados de no inscripción
 
-17.- Por la expedición de copias certificadas de
+para participación de sorteos de casa-habitación
 
-documentos inscritos en el Registro, se pagarán 50.00
+de interés social 75.00
 
-más de $10.00 por cada hoja.
+25.- Por la búsqueda de antecedentes para
 
-18.- Por la búsqueda de antecedentes para
+expedición de certificados, copias certificadas
 
-la expedición de toda clase de certificados o
+o simples, a excepción de los de becas, por períodos
 
-copias certificadas de documentos inscritos
+de cinco años o fracción 20.00
 
-en el Registro por cada período de cinco
+26.- Por la expedición de copias certificadas de
 
-años o fracción pagarán 10.00
+documentos que obran en el Registro Público
 
-19.- Por cada anotación marginal, se pagará 10.00
+sacadas del libro o legajo, primera hoja 50.00
 
-20.- Por cada anotación marginal que aparezca
+Por las siguientes 25.00
 
-en los certificados que se expidan se pagarán 10.00
+27.- Expedición de copias simples,
 
-21.- Por lo escrito en el libro respectivo, se pagará
+Primera $40.00
 
-por hoja 10.00
+Por las siguientes $20.00
 
-22.- Por anotación de inscripción de segundo
+28.- Expedición de certificados de libertad o de
 
-ejemplar, se pagará 50.00
+gravámenes $100.00
 
-23.- La inscripción de fianzas extendidas por
+29.- La expedición de certificados o copias certificadas,
 
-instituciones especializadas, o por particulares,
+solicitados con el carácter de urgente, causarán el doble
 
-causarán sobre el importe que corresponda 0.25%
+de las cuotas que señala la tarifa del párrafo anterior relativo.
 
-24.- Por cancelaciones de gravámenes recaidos
+30.- En la expedición de certificados o copias certificadas,
 
-sobre bienes muebles e inmuebles se pagará por
+la tarifa no incluye la búsqueda.
 
-cada antecedente de inscripción
+31.- Por cancelaciones de gravámenes recaídos
 
-independientemente del examen de documento 10.00
+sobre bienes muebles o inmuebles se pagarán
+
+por cada antecedente de inscripción independientemente
+
+del examen del documento $20.00
+
+32.- Por cada anotación marginal que se efectúe al
+
+presentar cualquier documento público o privado
+
+para su registro $20.00
+
+33.- Por cada anotación marginal en certificados que
+
+se expidan $20.00
+
+34.- Por lo escrito en el libro respectivo, se pagarán
+
+por hoja $20.00
+
+35.- Por anotación de segundo ejemplar, cuando sea
+
+simultánea a la inscripción del primer ejemplar $100.00
+
+36.- La inscripción de fianzas extendidas por
+
+instituciones especializadas, causarán sobre el
+
+importe que corresponda 0.25%
 
 ###### Artículo 322.
 
@@ -3625,21 +3795,89 @@ Los derechos por estos servicios serán los que determienen (sic) las Leyes rela
 
 Quedan sujetos a las siguientes cuotas, los servicios por:
 
-I.- Derechos por fusión de predios $200.00
+> <small>(REFORMADA, B.O. 3 DE FEBRERO DE 1979)</small>
 
-II.- Derechos por división de predios 200.00
+I.- Derechos por fusión de cada lote que se incorpore
+
+a otro $200.00
+
+> <small>(REFORMADA, B.O. 3 DE FEBRERO DE 1979)</small>
+
+II.- Derechos por división de predios en varios lotes,
+
+por cada uno de éstos 200.00
+
+> <small>(REFORMADA, B.O. 3 DE FEBRERO DE 1979)</small>
 
 III.- Derechos por supervisión de obras de
 
-urbanización, por los primeros 10,000 mts.2
+urbanización, por las primeras dos hectáreas o
 
-de superficie global por urbanizar 200.00
+menos 1,800.00
 
-más $200.00 por cada 10,000 mts.2
+Más $900.00 por cada hectárea excedente o fracción
 
-adicionales o fracción, del área total por urbanizar.
+mayor de media hectárea.
 
-Las modificaciones que se soliciten a fraccionamientos ya autorizados, causarán los mismos derechos del párrafo anterior y la tarifa afectará el área del cambio.
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+Las modificaciones que se soliciten a Fraccionamientos
+
+ya autorizados, causarán los mismos derechos señalados
+
+en las fracciones I y II, afectando toda el área que sea
+
+motivo del cambio.
+
+> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+Los Fraccionamientos que se efectúen por
+
+instituciones descentralizadas, calificados por la
+
+Dirección General de Obras Públicas y Asentamientos
+
+Humanos del Gobierno del Estado, pagarán una
+
+tarifa menor en un 50% a la señalada anteriormente.
+
+> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+Los fraccionamientos que sean requeridos para
+
+regularizar sus fraccionamientos y procedan a
+
+efectuarla dentro del plazo que les sea señalado
+
+por la Dirección General de Obras Públicas y
+
+Asentamientos Humanos, cubrirán a la Tesorería
+
+General del Estado a la fecha de su solicitud de
+
+regularización, una tarifa mayor en un 20% a la
+
+señalada para los casos normales, debiendo cubrir
+
+además lo relativo a áreas de donación al Gobierno
+
+del Estado o su equivalente en efectivo según
+
+determine el acuerdo de regularización respectivo.
+
+> <small>(ADICIONADO, B.O. 3 DE FEBRERO DE 1979)</small>
+
+Cuando los fraccionadores se excedan en el
+
+plazo señalado para su regularización, se les
+
+sancionará por este concepto incrementado la tarifa
+
+hasta en un 50% más de lo señalado para los casos
+
+normales. Sin que ello los exima de la aplicación de
+
+otras sanciones que marca la Ley.
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -3734,3 +3972,7 @@ UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Bo
 B.O. 31 DE DICIEMBRE DE 1977.
 
 UNICO.- Esta Ley entrará en vigor el día primero de Enero de 1978, previa publicación en el Boletín Oficial del Estado.
+
+B.O. 3 DE FEBRERO DE 1979.
+
+UNICO.- Esta Ley entrará en vigor el día 1o. de Enero de 1979, previa publicación en el Boletín Oficial del Estado.
