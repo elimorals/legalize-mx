@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1967-12-27"
+last_updated: "1972-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1972.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -115,13 +115,17 @@ Para determinar el valor de la tierra como el de las mejoras que ésta contenga,
 
 Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las Recaudaciones de Rentas de los Municipios respectivos.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
+
 ###### ARTICULO 19o.
 
-Las Bases Generales de Valores por Unidades Tipo serán objeto de Revisión cada cinco años para la propiedad urbana y suburbana, y cada diez años para la propiedad rústica. Al expirar los períodos a que se refiere el presente artículo, se expedirán nuevas Bases Generales de Valores, siguiendo para su formulación las normas contenidas en esta Ley y su Reglamento. Si al expirar su período no se expidieren nuevas Bases de Valores, continuarán en vigor las existentes.
+Las bases generales de valores serán objeto de revisión cada cinco años para la propiedad urbana, sub-urbana y rústica. Al expirar el período a que se refiere el presente artículo, se expedirán nuevas bases generales de valores, siguiendo para su formulación las normas contenidas en esta Ley y su Reglamento. Si al expirar el período no se expidieren nuevas bases de valores, continuarán en vigor las existentes.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
 
 ###### ARTICULO 20o.
 
-Las Bases Generales de Valores por Unidades Tipo aprobadas para cada período de cinco o diez años, a que se refiere el artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la Tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquiera otra causa.
+Las bases generales por unidades tipo, aprobadas para cada período de cinco años, a que se refiere el Artículo Anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquiera otra causa.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1967)</small>
 
@@ -214,3 +218,7 @@ LIC. JACOBO AYALA VILLARREAL.
 P.O. 27 DE DICIEMBRE DE 1967.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO NUEVO LEON.</small>
+
+P.O. 23 DE DICIEMBRE DE 1972.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
