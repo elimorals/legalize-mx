@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2000-04-12"
+last_updated: "2000-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2000.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 12 DE ABRIL DE 2000.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE SEPTIEMBRE DE 2000.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -386,11 +384,15 @@ Todo proceso se seguirá forzosamente por el delito o delitos señalados en el a
 
 Todo maltratamiento que en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal; toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Art. 20.
 
-En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
+En todo proceso de orden penal, el inculpado, la víctima o el ofendido, tendrán las siguientes garantías:
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
+
+A. Del inculpado:
 
 > <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1996)</small>
 
@@ -406,9 +408,9 @@ II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por l
 
 III.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria.
 
-> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
 
-IV.- Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra.
+IV.- Cuando así lo solicite, será careado, en presencia del juez, con quien deponga en su contra, salvo lo dispuesto en la fracción V del Apartado B de este artículo.
 
 > <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
 
@@ -436,9 +438,27 @@ En toda pena de prisión que imponga una sentencia, se computará el tiempo de l
 
 Las garantías previstas en las fracciones I, V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en la fracción II no estará sujeto a condición alguna.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
 
-En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y, los demás que señalen las leyes.
+B. De la víctima o del ofendido:
+
+I.- Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, y a que se desahoguen las diligencias correspondientes.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+
+III.- Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+
+IV.- Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
+
+V.- Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos, se llevarán a cabo declaraciones en las condiciones que establezca la ley; y
+
+VI.- Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JULIO DE 1996)</small>
 
@@ -1568,9 +1588,9 @@ XXIII.- Para expedir leyes que establezcan las bases de coordinación entre la F
 
 XXIV.- Para expedir la Ley que regule la organización de la entidad de fiscalización superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE ENERO DE 1966)</small>
+> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 2000)</small>
 
-XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.
+XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -8637,6 +8657,24 @@ En la realización de las acciones conducentes al cumplimiento del presente decr
 D.O.F. 7 DE ABRIL DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2000.
+
+DECRETO QUE REFORMA LA FRACCION XXV DEL ARTICULO 73.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2000.
+
+DECRETO QUE DEROGA EL ULTIMO PARRAFO, REFORMA EL PRIMER PARRAFO Y LA FRACCION IV Y AGRUPA EL CONTENIDO DEL ARTICULO 20 EN UN APARTADO A Y SE ADICIONA EL APARTADO B.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones legales vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
