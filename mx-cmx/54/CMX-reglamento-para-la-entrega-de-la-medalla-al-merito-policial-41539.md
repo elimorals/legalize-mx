@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-entrega-de-la-medalla-al-merito-policial-415
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-15"
-last_updated: "2004-11-15"
+last_updated: "2005-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41539&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-10-12"
 
 REGLAMENTO PARA LA ENTREGA DE LA MEDALLA AL MERITO POLICIAL A LOS ELEMENTOS DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS AL REGLAMENTO PARA ELGOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL 30 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de noviembre de 2004.
 
@@ -139,3 +141,21 @@ La Oficialía Mayor de la Asamblea Legislativa del Distrito Federal tendrá a su
 EL PRESENTE REGLAMENTO NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON SU ENTRADA EN VIGOR, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3 Y 4 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los doce días del mes de octubre del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. JAIME AGUILAR ÁLVAREZ Y MAZARRASA, PRESIDENTE.- DIP. ALFREDO CARRASCO BAZA, SECRETARIO.- DIP. MÓNICA SERRANO PEÑA, SECRETARIA. (Firmas).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 30 DE MARZO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se abroga el Reglamento para la Entrega de la Medalla al Mérito Policial de los Elementos de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 15 de noviembre de 2004.
+
+CUARTO.- Se abroga El Reglamento de la Medalla al Mérito Ciudadano de la Asamblea de Representantes del Distrito Federal, publicado en el Diario Oficial de la Federación el 23 de enero de 1991, a partir del 1º de mayo del 2005.
+
+Por lo que hace a la entrega de la Medalla al Mérito Ciudadano 2005, se continuará conforme al procedimiento iniciado con base en el Reglamento de la Medalla al Mérito Ciudadano de la Asamblea de Representantes del Distrito Federal.
+
+QUINTO.- Por única ocasión la convocatoria que refiere el artículo 209 del presente Reglamento, se publicará dentro de los primeros quince días del mes de abril de 2005 y se recibirán las propuestas y sus anexos como lo establece el artículo 210 de este ordenamiento, hasta el 31 de mayo del mismo año.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
