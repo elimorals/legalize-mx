@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1950-06-14"
+last_updated: "1950-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1950.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -254,7 +254,9 @@ I.- El Gobernador del Estado, el Secretario General de Gobierno y el funcionario
 
 II.- Los Magistrados del Tribunal Superior y el Procurador General de Justicia.
 
-III.- El Director General de Rentas.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1950)</small>
+
+III.- Tesorería General del Estado.
 
 IV.- Los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Administradores de Rentas y los Presidentes Municipales, por los Distritos Electorales en que ejerzan sus funciones.
 
@@ -594,7 +596,9 @@ II.- Los miembros del Ejército Nacional y quienes tengan mando de fuerza en el 
 
 III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
 
-IV.- El Secretario General de Gobierno, el Procurador General de Justicia, los Magistrados del Tribunal Superior y el Director General de Rentas, si no se separan de sus respectivas funciones noventa días antes del señalado para la elección.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1950)</small>
+
+IV.- El Secretario General de Gobierno, Procurador General de Justicia, los Magistrados del Tribunal Superior y el Tesorero General del Estado, sí no se separa en sus respectivas comisiones 90 días antes del señalado para la elección.
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
@@ -668,7 +672,9 @@ III.- Pedir a la Diputación Permanente que convoque al Congreso a sesiones extr
 
 IV.- Nombrar y remover libremente a los funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución.
 
-V.- Nombrar al Director General de Rentas con aprobación del Congreso.
+> <small>(REFORMADA, 26 DE JULIO DE 1950)</small>
+
+V.- Nombrar al Tesorero General del Estado con aprobación del Congreso.
 
 VI.- Proponer ternas al Congreso del Estado, para la designación de Magistrados del Tribunal Superior de Justicia.
 
@@ -1307,3 +1313,7 @@ P.O. 14 DE JUNIO DE 1950.
 1o.- El presente Decreto empezará a surtir sus efectos a partir del día 17 de mayo actual.
 
 2o.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se contrae la Fracción I, del Artículo 71 de la Constitución Política Local.
+
+P.O. 26 DE JULIO DE 1950.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
