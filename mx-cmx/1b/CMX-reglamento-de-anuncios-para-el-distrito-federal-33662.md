@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-anuncios-para-el-distrito-federal-33662"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-28"
-last_updated: "2003-12-02"
+last_updated: "2004-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33662&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2003-08-18"
 
 REGLAMENTO DE ANUNCIOS PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de agosto de 2003.
 
-(Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México .- La Ciudad de la Esperanza)
+(Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México.- La Ciudad de la Esperanza)
 
 ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 67 fracción II y 90 del Estatuto de Gobierno del Distrito Federal; 5º, 14, 15 fracciones I, II, IV, V y IX, 17, 23 fracción XX, 24 fracciones I y X, 26 fracciones III y XI, 27 fracciones I y II, 31 fracciones VII, XI, XIII y 39 fracción V de la Ley Orgánica de la Administración Pública del Distrito Federal; 10 fracción X, 11 fracción XIX, 19 fracción VII, 29 y 34 fracción III de la Ley de Desarrollo Urbano del Distrito Federal; 9 fracción XLII de la Ley Ambiental para el Distrito Federal; 7º fracciones XXIV, XXXII y XXXIII, 9º fracciones XI, XII y XV y 145 de la Ley de Transporte y Vialidad del Distrito Federal; 9º fracción XIII, 10 fracciones X y XIII de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal; he tenido a bien expedir el siguiente:
 
@@ -46,59 +46,109 @@ I. Administración Pública: Las Dependencias, Órganos Desconcentrados y Entida
 
 II. Anuncio: Toda expresión gráfica o escrita que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, industriales, mercantiles, técnicas, políticas, cívicas, culturales, artesanales, teatrales o del folklore nacional;
 
-III. Aviso: La manifestación escrita hecha por el interesado donde señala, que los datos manifestados a la autoridad corresponden de manera fehaciente al anuncio de referencia, por lo que de acuerdo a este Reglamento no requiere la licencia o permiso para su fijación, instalación, distribución, ubicación o modificación;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-IV. Anunciante: Persona física o moral que utiliza los servicios de publicidad para difundir o publicitar productos, bienes o servicios;
+III. Autorización temporal: Acto administrativo mediante el cual la Delegación otorga autorización para la fijación, instalación, distribución, ubicación o modificación de anuncios, de conformidad con el artículo 76 del presente Reglamento;
 
-V. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico de los paisajes natural, rural y urbano del Distrito Federal, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico y urbano de la Ciudad de México, que deteriore la calidad de vida de las personas;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-VI. Contaminación Auditiva: Alteración del ruido que daña o perturba la claridad de los sonidos haciendo difícil la percepción auditiva, que ocasiona problemas en la salud;
+IV. Aviso: La manifestación escrita hecha por el interesado donde señala, que los datos manifestados a la autoridad corresponden de manera fehaciente al anuncio de referencia, por lo que de acuerdo a este Reglamento no requiere la licencia o autorización temporal para su fijación, instalación, distribución, ubicación o modificación;
 
-VII. Corresponsable: Persona física con los conocimientos técnicos adecuados para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras en las que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, mismos que son relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones; lo anterior de conformidad con lo establecido en el Reglamento de Construcciones para el Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-VIII. Cartel: Elemento publicitario de carácter gráfico, bidimensional o tridimensional que se fija en la estructura;
+V. Anunciante: Persona física o moral que utiliza los servicios de publicidad para difundir o publicitar productos, bienes o servicios;
 
-IX. Contratista: Persona física o moral que celebra contratos para la fijación, instalación, mantenimiento, modificación o retiro de anuncios;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-X. Delegaciones: Órganos Político-Administrativos en cada demarcación territorial;
+VI. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico de los paisajes natural, rural y urbano del Distrito Federal, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico y urbano de la Ciudad de México, que deteriore la calidad de vida de las personas;
 
-XI. Director Responsable de Obra: Persona física que se hace responsable de la observancia del Reglamento de Construcciones, en el acto en que otorga su responsiva; lo anterior de conformidad con lo establecido por el Reglamento de Construcciones para el Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XII. Elemento Constitutivo: Objeto característico determinante para la integración de un anuncio;
+VII. Contaminación Auditiva: Alteración del ruido que daña o perturba la claridad de los sonidos haciendo difícil la percepción auditiva, que ocasiona problemas en la salud;
 
-XIII. Entorno Urbano: Conjunto de elementos naturales y construidos que conforman el territorio urbano, y que constituyen el marco de referencia y convivencia de los habitantes y visitantes, determinado por las características físicas, costumbres y usos, que se relacionan entre sí;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XIV. Estructura: Elemento de soporte anclado en terreno natural, inmueble o vehículo, independiente o dependiente del anuncio donde se fije, instale, ubique o modifique el mensaje, la publicidad o propaganda;
+VIII. Corresponsable: Persona física con los conocimientos técnicos adecuados para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras en las que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, mismos que son relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones; lo anterior de conformidad con lo establecido en el Reglamento de Construcciones para el Distrito Federal;
 
-XV. Empresa publicitaria: Persona física o moral que tiene como actividad mercantil la comercialización de espacios publicitarios para exhibir, promover, difundir y publicar, productos, bienes o servicios a través de un anuncio;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XVI. Folio publicitario de transporte: Es el instrumento donde se practicarán los asientos que se originan por la inscripción de las actas y documentos, con el que se constituyen la unidad administrativa básica registral, con el propósito de que produzcan efectos administrativos en el ámbito de competencia de la publicidad en el servicio de transporte;
+IX. Cartel: Elemento publicitario de carácter gráfico, bidimensional o tridimensional que se fija en la estructura;
 
-XVII. Gaceta Oficial: La Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XVIII. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+X. Contratista: Persona física o moral que celebra contratos para la fijación, instalación, mantenimiento, modificación o retiro de anuncios;
 
-XIX. Ley de Procedimiento: La Ley de Procedimiento Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XX. Ley de Transporte: Ley de Transporte y Vialidad del Distrito Federal;
+XI. Delegaciones: Órganos Político-Administrativos en cada demarcación territorial;
 
-XXI. Licencia: Acto administrativo mediante el cual la Delegación otorga su autorización para la fijación, instalación, distribución, ubicación o modificación de anuncios, de conformidad con el Artículo 65 del presente Reglamento y que tienen una vigencia de 1 año;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XXII. Mobiliario Urbano con Publicidad Integrada: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, reforzando así la imagen de la Ciudad, los cuales pueden ser fijos, permanentes y móviles o temporales;
+XII. Director Responsable de Obra: Persona física que se hace responsable de la observancia del Reglamento de Construcciones, en el acto en que otorga su responsiva; lo anterior de conformidad con lo establecido por el Reglamento de Construcciones para el Distrito Federal;
 
-XXIII. Orlas o cenefas: La orilla del toldo de materiales flexibles o rígidos y de la cortina de tela;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XXIV. Paisaje Natural: Conjunto de elementos preponderantemente naturales, derivados de las características geomorfológicas del ambiente no urbanizado, que forman parte del patrimonio cultural;
+XIII. Elemento Constitutivo: Objeto característico determinante para la integración de un anuncio;
 
-XXV. Paisaje Urbano: Síntesis visual del territorio, en la que interactúan todos los elementos naturales y construidos del entorno urbano, como resultado de acciones culturales, ambientales, sociales y económicas; y que se constituye como un factor de calidad de vida y de identidad de la Ciudad de México o de alguna parte de ella;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-XXVI. Permiso: Acto administrativo mediante el cual la Delegación otorga autorización para la fijación, instalación, distribución, ubicación o modificación de anuncios, de conformidad con el artículo 76 del presente Reglamento;
+XIV. Entorno Urbano: Conjunto de elementos naturales y construidos que conforman el territorio urbano, y que constituyen el marco de referencia y convivencia de los habitantes y visitantes, determinado por las características físicas, costumbres y usos, que se relacionan entre sí.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XV. Estructura: Elemento de soporte anclado en terreno natural, inmueble o vehículo, independiente o dependiente del anuncio donde se fije, instale, ubique o modifique el mensaje, la publicidad o propaganda;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XVI. Empresa publicitaria: Persona física o moral que tiene como actividad mercantil la comercialización de espacios publicitarios para exhibir, promover, difundir y publicar, productos, bienes o servicios a través de un anuncio;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XVII. Folio publicitario de transporte: Es el instrumento donde se practicarán los asientos que se originan por la inscripción de las actas y documentos, con el que se constituyen la unidad administrativa básica registral, con el propósito de que produzcan efectos administrativos en el ámbito de competencia de la publicidad en el servicio de transporte;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XVIII. Gaceta Oficial: La Gaceta Oficial del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XIX. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XX. Ley de Procedimiento: La Ley de Procedimiento Administrativo del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXI. Ley de Transporte: Ley de Transporte y Vialidad del Distrito Federal
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXII. Licencia: Acto administrativo mediante el cual la autoridad competente otorga su autorización para la fijación, instalación, distribución, ubicación o modificación de anuncios, de conformidad con el artículo 65 del presente Reglamento y que tienen una vigencia de 1 año;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXIII. Mobiliario Urbano con Publicidad Integrada: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, reforzando así la imagen de la Ciudad, los cuales pueden ser fijos, permanentes y móviles o temporales;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXIV. Orlas o cenefas: La orilla del toldo de materiales flexibles o rígidos y de la cortina de tela;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXV. Paisaje Natural: Conjunto de elementos preponderantemente naturales, derivados de las características geomorfológicas del ambiente no urbanizado, que forman parte del patrimonio cultural.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXVI. Paisaje Urbano: Síntesis visual del territorio, en la que interactúan todos los elementos naturales y construidos del entorno urbano, como resultado de acciones culturales, ambientales, sociales y económicas; y que se constituye como un factor de calidad de vida y de identidad de la Ciudad de México o de alguna parte de ella;
 
 XXVII. Permiso publicitario: Acto administrativo mediante el cual la Delegación y la Setravi, otorgan autorización para la fijación, instalación, distribución y ubicación de anuncios en vehículos del servicio de transporte;
 
 XXVIII. Propaganda Electoral: Aquella que señala el Código Electoral del Distrito Federal: conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas;
 
-XXIX. Propietario: Persona física o moral que tiene la propiedad jurídica de un bien inmueble o vehículo en el que se pretenda instalar un anuncio y su estructura;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXIX. Propietario: Persona física o moral que tiene la propiedad jurídica de un predio, inmueble o vehículo en el que se pretenda instalar un anuncio y su estructura.
 
 XXX. Poseedor: Persona física o moral que ejerce sobre una cosa un poder de hecho, salvo lo dispuesto por el artículo 793 del Código Civil para el Distrito Federal, en la que se pretenda instalar un anuncio y su estructura;
 
@@ -118,7 +168,9 @@ XXXVII. Secretaría de Obras y Servicios: La Secretaría de Obras y Servicios de
 
 XXXVIII. Tapiales: Elementos de seguridad que sirven para cubrir y proteger perimetralmente y a nivel de banqueta, una obra en construcción, durante el tiempo que marque la respectiva licencia de construcción; los cuales pueden ser de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad;
 
-XXXIX. Titular: La persona física o moral debidamente acreditada y a cuyo nombre se expide la licencia, permiso o permiso publicitario; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XXXIX. Titular: La persona física o moral debidamente acreditada y a cuyo nombre se expide la licencia, autorización temporal o permiso publicitario; y
 
 XL. Visita de Verificación: La diligencia de carácter administrativo que ordena la Autoridad, con el objeto de comprobar el cumplimiento de las disposiciones legales y reglamentarias por parte de los particulares.
 
@@ -136,19 +188,27 @@ En lo conducente, se observará lo dispuesto por la Ley de Desarrollo Urbano; Le
 
 Son responsables solidarios con la empresa publicitaria:
 
-a) Los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Reglamento y que cuenta con licencia, permiso o permiso publicitario, según lo prevea el presente ordenamiento y los demás que le sean aplicables;
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
 
-b) Los contratistas, quienes al ser requeridos para efectuar procedimientos y/o trabajos en un anuncio, deberán constatar que el mencionado anuncio cuenta con la licencia, permiso o permiso publicitario según lo prevea el presente ordenamiento y demás disposiciones que le sean aplicables;
+a) Los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Reglamento y que cuenta con licencia, autorización temporal o permiso publicitario, según lo prevea el presente ordenamiento y los demás que le sean aplicables.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
+b) Los contratistas, quienes al ser requeridos para efectuar procedimientos y/o trabajos en un anuncio, deberán constatar que el mencionado anuncio cuenta con la licencia, autorización temporal o permiso publicitario según lo prevea el presente ordenamiento y demás disposiciones que le sean aplicables.
 
 c) Los Directores Responsables de Obra y Corresponsables, serán responsables por los daños y perjuicios que se causen a terceros en sus personas y bienes, por haber otorgado una responsiva para la instalación de anuncios;
 
 d) Las personas físicas o morales propietarias de los anuncios;
 
-e) Las personas físicas o morales propietarias de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la licencia, permiso o permiso publicitario correspondiente;
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
+e) Las personas físicas o morales propietarias de los inmuebles, predios y vehículos en los que se instale el anuncio, sin contar éste con la licencia, autorización temporal o permiso publicitario correspondiente.
 
 f) Toda persona que tenga ingerencia para la instalación de un anuncio que no cuente con licencia expedida por la autoridad competente y que se encuentre en los supuestos antes señalados;
 
-La responsabilidad solidaria comprende el pago de los gastos y multas que determine la autoridad competente, por las infracciones cometidas al presente Reglamento.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
+La responsabilidad solidaria comprende entre otros el pago de los gastos y multas que determine la autoridad competente, por las infracciones cometidas el presente Reglamento.
 
 ###### Artículo 6°.
 
@@ -168,9 +228,11 @@ V. Los elementos de iluminación.
 
 En la construcción, instalación, colocación, fijación, modificación, ampliación, conservación, mantenimiento, reparación, retiro y/o demolición de las estructuras de anuncios, así como en la distribución de éstas, deberá observarse lo dispuesto en el presente reglamento, sin perjuicio del cumplimiento de la normatividad aplicable.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 8º.
 
-Para comprobar el cumplimiento de las disposiciones reglamentarias de este Ordenamiento, la Administración Pública podrá llevar a cabo visitas de verificación ordinarias y/o extraordinarias. Las visitas de verificación se realizarán en términos de lo dispuesto por el Reglamento de Verificación Administrativa para el Distrito Federal.
+Para comprobar el cumplimiento de las disposiciones reglamentarias de este Ordenamiento, la Administración Pública podrá llevar a cabo visitas de verificación.
 
 ### CAPÍTULO II. DE LA CLASIFICACIÓN DE LOS ANUNCIOS
 
@@ -208,9 +270,11 @@ III. Anuncios en azotea:
 
 Los que se ubican sobre el plano horizontal de la misma;
 
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
 IV. Anuncios en saliente, volados o colgantes:
 
-Aquellos cuyas carátulas se proyecten fuera del paramento de una fachada y estén fijos en ella por medio de ménsulas o voladizos;
+Aquellos cuyas carátulas se proyecten fuera del paramento de una fachada y estén fijos en ellas por medio de ménsulas o voladizos y sólo serán denominativos.
 
 V. Anuncios integrados:
 
@@ -380,7 +444,9 @@ VIII. No se permitirá instalar este tipo de anuncios en zonas históricas, arqu
 
 Para la ubicación o modificación de los anuncios en muros de colindancia se deberá cumplir con lo siguiente:
 
-I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o permiso correspondiente, la Delegación valorará el carácter estético o decorativo del anuncio;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o autorización temporal correspondiente, la Delegación valorará el carácter estético o decorativo del anuncio;
 
 II. No se permitirá la instalación o fijación de lonas, y
 
@@ -818,9 +884,11 @@ IX. Los señalamientos de identificación de los vehículos deberán incorporars
 
 Queda prohibida la instalación de anuncios que no se encuentren contemplados en el presente Reglamento, sin la previa valoración y autorización de la Secretaría y Setravi.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 56.
 
-En ningún caso se otorgará Licencia, Permiso o Permiso Publicitario, para la fijación o instalación de anuncios que se encuentren en los siguientes supuestos:
+En ningún caso se otorgará Licencia, Autorización Temporal o Permiso Publicitario, para la fijación o instalación de anuncios que se encuentren en los siguientes supuestos:
 
 I. Aquellos que por su ubicación, dimensiones o materiales empleados en su construcción o instalación, puedan poner en peligro la vida o la integridad física de las personas o la seguridad de sus bienes; ocasionen molestias a los vecinos del lugar en que se pretendan instalar, produzcan cambios violentos en la intensidad de la luz y efectos hacia el interior de las habitaciones y limiten la ventilación e iluminación a las mismas, afecten o puedan alterar la adecuada prestación de los servicios públicos o la limpieza e higiene, de conformidad con las disposiciones en la materia o, bien, que no cumplan cabalmente con lo establecido en este Reglamento;
 
@@ -860,17 +928,21 @@ k) Fuera del área de la cartelera autorizada y en la estructura que soporta la 
 
 l) Los lugares o partes que prohiba expresamente este Reglamento y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 57.
 
-Los propietarios y/o poseedores de inmuebles o predios deberán abstenerse de permitir la construcción, instalación, colocación, fijación, modificación o ampliación de anuncios, incluyendo sus estructuras, que no cuenten con la licencia o permiso correspondiente, en términos de lo dispuesto en el presente Reglamento. Es obligación de los propietarios o poseedores de inmuebles en los que se encuentren instalados anuncios, resguardar en el domicilio, el original de la licencia o, en su caso, copia certificada, para el efecto de que se exhiba cuando le sea requerida oficialmente. Asimismo, es obligación de los propietarios o poseedores de inmuebles en los que se encuentren instalados anuncios, cumplir con las disposiciones establecidas en el presente Reglamento.
+Los propietarios y/o poseedores de inmuebles o predios deberán abstenerse de permitir la construcción, instalación, colocación, fijación, modificación o ampliación de anuncios, incluyendo sus estructuras, que no cuenten con la licencia o autorización temporal correspondiente, en términos de lo dispuesto en el presente Reglamento.
 
 ###### Artículo 58.
 
 Los anuncios y sus elementos no podrán invadir ni proyectarse sobre las propiedades colindantes, ni a la vía pública, ni interferir con la visibilidad o funcionamiento de cualquier señalización oficial. Asimismo, deberán ajustarse a las dimensiones, aspectos y ubicación señaladas en el presente Reglamento. En caso de situarse en cualquiera de los supuestos señalados en el párrafo que antecede, la autoridad correspondiente podrá efectuar el retiro del anuncio mediante el procedimiento de ejecución directa a que se refiere la Ley de Procedimiento Administrativo del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 59.
 
-No se requiere licencia, permiso, ni aviso en los casos siguientes:
+No se requiere licencia, autorización temporal, ni aviso en los casos siguientes:
 
 I. Cuando los anuncios se encuentren en el interior de un edificio o local comercial, aún cuando se observen desde la vía pública, siempre que no excedan de una longitud de 60 centímetros, una altura de 60 centímetros y no se trate de anuncios de proyección óptica o electrónicos;
 
@@ -942,7 +1014,7 @@ VII. Banderolas de 3.60 y hasta 5.60 metros de altura por 90 centímetros y hast
 
 VIII. Todos aquellos que vayan a instalarse en inmuebles considerados como monumentos o colindantes a monumentos o en zona de monumentos con valor arqueológico, artístico o histórico;
 
-IX. Pintados sobre la superficie de los muros de colindancia de las edificaciones a que se refiere el artículo 15 fracción I, de este ordenamiento; e
+IX. Pintados sobre la superficie de los muros de colindancia de las edificaciones a que se refiere el artículo15 fracción I, de este ordenamiento; e
 
 X. Instalados en tapiales.
 
@@ -1012,6 +1084,14 @@ XX. El dictamen estructural favorable por parte del Órgano Político-Administra
 
 Las licencias tendrán una vigencia de 1 año y podrán ser revalidadas en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal. La revalidación deberá solicitarse dentro de los quince días hábiles previos a la conclusión de la vigencia de la licencia.
 
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2004)</small>
+
+Sólo procede la revalidación de las licencias cuando se reúnan los requisitos previstos en el artículo 68 del presente Reglamento y no hayan variado las especificaciones técnicas, disposiciones normativas y los Planos de Zonificación en materia de Anuncios bajo las cuales se otorgó la licencia, respecto de las existentes a la fecha en que solicite su revalidación.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2004)</small>
+
+El solicitante de la revalidación debe anexar al formato de revalidación el dictamen, de la Secretaría de que las condiciones en que fue otorgada la licencia no han variado. No surtirá efecto alguno el escrito de revalidación que no cumpla con este requisito.
+
 ###### Artículo 70.
 
 Cuando la solicitud no reúna los requisitos previstos por este Reglamento, la autoridad prevendrá al interesado, en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
@@ -1056,11 +1136,15 @@ X. Cumplir con las disposiciones contenidas en este Reglamento.
 
 En los casos en que se requiera de la responsiva de un Director Responsable de Obra y/o Corresponsable, estos deberán elaborar un programa de mantenimiento de cada anuncio a detalle y lo harán constar en una bitácora, misma que podrá ser verificada por la autoridad cuando así lo solicite. La bitácora se encontrará en el domicilio del anuncio y deberán indicar por escrito a la Delegación correspondiente en poder de quién se encuentra. Después de un sismo de magnitud mayor a 6° en la escala de Richter, y cuando la administración lo determine, el Director Responsable de Obra y/o Corresponsable que haya dado su responsiva a un anuncio, hará constar por escrito ante la administración, que reúne las condiciones adecuadas de seguridad del anuncio, indicando tal situación en la bitácora correspondiente. Asimismo, remitirá el reporte a la Delegación en un plazo que no excederá de tres días hábiles contados a partir de la fecha del sismo.
 
-### CAPÍTULO IX. DE LOS PERMISOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JULIO DE 2004)</small>
+
+### CAPÍTULO IX. DE LAS AUTORIZACIONES TEMPORALES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
 
 ###### Artículo 76.
 
-Se requiere obtener de las Delegaciones el permiso correspondiente para fijar, instalar, distribuir, ubicar o modificar los siguientes anuncios:
+Se requiere obtener de la Delegación la autorización temporal correspondiente para fijar, instalar, distribuir, ubicar o modificar los siguientes anuncios:
 
 I. Anuncios adosados con una dimensión de 1.80 hasta 3.60 metros de longitud por 90 centímetros de altura y cuyo peso sea hasta 50 kilogramos;
 
@@ -1078,15 +1162,23 @@ VII. Autosoportados, con una altura de hasta 2.50 metros del nivel de banqueta a
 
 VIII. En marquesinas, con dimensiones de hasta 3.60 metros de longitud por 90 centímetros de altura y un espesor de 20 centímetros y cuyo peso sea de hasta 50 Kg. Dichos permisos deberán cumplir con lo dispuesto en el presente Reglamento.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 77.
 
-La solicitud de permiso a que se refiere este Capítulo, deberá ser suscrita por el propietario o poseedor del inmueble y el publicista o persona física o moral que se va a publicitar o sus representantes legales, en su caso, y se presentará debidamente requisitada en la Delegación dentro del polígono cuyo perímetro vaya a quedar colocado el anuncio. Cuando sean varios los copropietarios, quien lo deberá suscribir será el representante legal de estos.
+La solicitud de autorización temporal a que se refiere este Capítulo, deberá ser suscrita por el propietario o poseedor del inmueble y el publicista o persona física o moral que se va a publicitar o sus representantes legales, en su caso, y se presentará debidamente requisitada en la Delegación dentro del polígono cuyo perímetro vaya a quedar colocado el anuncio.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
 
 ###### Artículo 78.
 
-La solicitud del permiso del anuncio deberá contener la siguiente información:
+La solicitud de la autorización temporal del anuncio deberá contener la siguiente información:
 
-I. Nombre, denominación o razón social del propietario o poseedor del predio donde se instalará el anuncio; del publicista; de la persona física o moral que se va a publicitar y en su caso, de los representantes legales de las personas mencionadas. Cuando sean varios los copropietarios, quien deberá suscribir el permiso será el representante legal de estos;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+I. Nombre, denominación o razón social del propietario o poseedor del predio o inmueble donde se instalará el anuncio; del publicista; de la persona física o moral que se va a publicitar y en su caso, de los representantes legales de las personas mencionadas.
+
+Cuando sean varios los copropietarios, quien deberá suscribir la autorización temporal será el representante legal de éstos.
 
 II. Domicilio para oír y recibir notificaciones; de las personas citadas en la fracción anterior;
 
@@ -1102,7 +1194,9 @@ a) Cuando se actúe a través de un representante legal, el documento que acredi
 
 b) Información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncios en colgantes, volados o en salientes, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará ubicado el anuncio;
 
-c) Para la entrega del permiso se debe presentar el comprobante de pago de derechos, de conformidad a lo establecido en el Código Financiero del Distrito Federal;
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
+c) Para la entrega de la autorización temporal se debe presentar el comprobante de pago de derechos, de conformidad a lo establecido en el Código Financiero del Distrito Federal;
 
 d) Seguro de responsabilidad civil por daños a terceros expedida por compañía autorizada por la Secretaría de Hacienda y Crédito Público, cuando se trate de anuncios contemplados en las fracciones I a VIII del artículo 65 de este Reglamento.
 
@@ -1110,25 +1204,31 @@ d) Seguro de responsabilidad civil por daños a terceros expedida por compañía
 
 Cuando la solicitud no reúna los requisitos previstos por este Reglamento, la autoridad prevendrá al interesado en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 80.
 
-Recibida la solicitud con la información y documentación completa, la Delegación correspondiente, en un plazo de diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el permiso correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución. Transcurrido el término señalado sin que se dé contestación al trámite operará la negativa ficta.
+Recibida la solicitud con la información y documentación completa, la Delegación correspondiente, en un plazo de diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir la autorización temporal correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución. Transcurrido el término señalado sin que se dé contestación al trámite operará la negativa ficta.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
 
 ###### Artículo 81.
 
-Los titulares de los permisos tendrán las obligaciones siguientes:
+Los titulares de las autorizaciones temporales tendrán las obligaciones siguientes:
 
 I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento, llevando a cabo las obras o reparaciones que la autoridad indique;
 
 II. Pagar los gastos que haya cubierto la Administración Pública, que se hubieren generado con motivo del retiro de anuncios.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 82.
 
-Los permisos para la instalación de anuncios, se sujetarán a lo que establezca el presente Reglamento, los Planos de Zonificación en materia de Anuncios para el Distrito Federal, el Reglamento de Mobiliario Urbano para el Distrito Federal y el Reglamento de Construcciones.
+Las autorizaciones temporales para la instalación de anuncios, se sujetarán a lo que establezca el presente Reglamento, los Planos de Zonificación en materia de Anuncios para el Distrito Federal, el Reglamento de Mobiliario Urbano para el Distrito Federal y el Reglamento de Construcciones.
 
-Los permisos tendrán una vigencia de hasta 120 días y podrán ser revalidados en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 76, que tendrán una vigencia de 90 días máximo.
+Las autorizaciones temporales tendrán una vigencia de hasta 120 días y podrán ser revalidados en términos de lo dispuesto por el artículo 69 de este Reglamento, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 76, que tendrán una vigencia de 90 días máximo.
 
-La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia del permiso.
+La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia de las autorizaciones temporales y de acuerdo con lo previsto en los artículos 69 y 78 del presente Reglamento.
 
 ### CAPÍTULO X. DE LOS AVISOS
 
@@ -1404,11 +1504,15 @@ X. Instalar o dar mantenimiento a anuncios en vehículos del Servicio de Transpo
 
 XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
-### CAPÍTULO XII. DE LA NULIDAD Y REVOCACIÓN DE LA LICENCIA Y EL PERMISO
+> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JULIO DE 2004)</small>
+
+### CAPÍTULO XII. DE LA NULIDAD Y REVOCACIÓN DE LA LICENCIA Y LA AUTORIZACIÓN TEMPORAL
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
 
 ###### Artículo 103.
 
-Son nulos y no surtirán efectos las licencias, permisos o permisos publicitarios otorgados bajo los siguientes supuestos:
+Son nulos y no surtirán efectos las licencias, autorizaciones temporales o permisos publicitarios otorgados bajo los siguientes supuestos:
 
 I. Cuando los datos proporcionados por el solicitante resultaren falsos y con base en ellos se hubiera expedido la licencia, permiso o permiso publicitario;
 
@@ -1418,13 +1522,17 @@ III. Cuando se hubiera otorgado con violación manifiesta de un precepto a las d
 
 IV. Las demás contenidas en el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 104.
 
-Las licencias, permisos o permisos publicitarios se revocarán en los siguientes casos:
+Las licencias, autorizaciones temporales o permisos publicitarios se revocarán en los siguientes casos:
 
 I. Cuando se incurra en algunos de los supuestos del artículo anterior;
 
-II. Cuando se le requiera al propietario o responsable efectuar trabajos de conservación del anuncio, y estos no se efectúen dentro del plazo que se le haya señalado;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+II. Cuando se le requiera al titular o responsable solidario efectuar trabajos de conservación del anuncio, y éstos no se efectúen dentro del plazo que se le haya señalado;
 
 III. Si el anuncio se fija o se coloca en sitio distinto al autorizado en la licencia;
 
@@ -1432,7 +1540,9 @@ IV. Cuando con motivo de proyectos aprobados de obra pública, remodelación urb
 
 V. Cuando se hubiera modificado oficialmente el uso de suelo del inmueble en el que se encuentra instalado el anuncio, haciéndolo incompatible;
 
-VI. El incumplimiento por parte del permisionario de cualquiera de las obligaciones que se establezcan en el presente Reglamento;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+VI. El incumplimiento por parte del titular o responsable solidario de cualquiera de las obligaciones que se establezcan en el presente Reglamento
 
 VII. Enajenar en cualquier forma los derechos en ellos conferidos;
 
@@ -1442,9 +1552,11 @@ IX. No cubrir las indemnizaciones por daños causados a los peatones, conductore
 
 X. Las contenidas en el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 105.
 
-La revocación será dictada por la autoridad competente para la expedición de la licencia, permiso, siguiendo el procedimiento que señala la Ley de Procedimiento Administrativo del Distrito Federal.
+La revocación será dictada por la autoridad competente para la expedición de la licencia o autorización temporal, siguiendo el procedimiento que establece este ordenamiento.
 
 Y en el caso de permisos publicitarios será dictada por la Dirección Jurídica de la SETRAVI.
 
@@ -1482,9 +1594,13 @@ III. Evaluar y actualizar los Planos de Zonificación en materia de Anuncios, de
 
 IV. Asesorar y apoyar técnicamente a las Delegaciones en materia de anuncios, emitiendo los dictámenes, revocaciones y opiniones correspondientes;
 
-V. Sin perjuicio de las atribuciones que corresponden a las Delegaciones, ordenar y realizar visitas de verificación ordinarias o extraordinarias, en materia de anuncios, instalados o visibles desde las vialidades primarias, con el objeto de cerciorarse que se encuentran conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-VI. Sin perjuicio de las atribuciones que corresponden a las Delegaciones, ordenar y realizar visitas de verificación ordinarias o extraordinarias en materia de mobiliario urbano, con publicidad integrada, con el objeto de verificar que se encuentran conforme a lo establecido en las disposiciones legales y reglamentarias aplicables;
+V. Sin perjuicio de las atribuciones que corresponden a las Delegaciones, ordenar y realizar visitas de verificación en materia de anuncios, instalados o visibles desde las vialidades primarias, con el objeto de cerciorarse que se encuentran conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+VI. Sin perjuicio de las atribuciones que corresponden a las Delegaciones, ordenar y realizar visitas de verificación en materia de mobiliario urbano, con publicidad integrada, con el objeto de verificar que se encuentran conforme a lo establecido en las disposiciones legales y reglamentarias aplicables;
 
 VII. Ordenar al titular de la licencia o permiso, la ejecución de los trabajos de conservación, mantenimiento y reparación que sean necesarios para garantizar su estabilidad y seguridad;
 
@@ -1496,7 +1612,17 @@ X. Emitir opinión técnica y visto bueno respecto de anuncios y mobiliario urba
 
 XI. Solicitar el auxilio de la fuerza pública de las Secretaría de Seguridad Pública del Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, así como el apoyo de otras Dependencias, u Órganos desconcentrados o descentralizados, para llevar a cabo el procedimiento administrativo de verificación hasta el cumplimiento de las resoluciones; y
 
-XII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XII. Emitir dictámenes previos respecto de las solicitudes para licencias, autorizaciones temporales para construir, fijar, colocar instalar, distribuir, ubicar, ampliar, modificar, desmantelar o retirar anuncios en vía pública y, en su caso, demoler las estructuras que soporten o sustenten el anuncio, con el objeto de corroborar que se cumplen con los lineamientos y criterios que para tal efecto establezca;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XIII. Emitir dictámenes previos a la revalidación de licencias y autorizaciones temporales sobre las condiciones técnicas y legales en que fueron otorgadas;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
+
+XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 ###### Artículo 109.
 
@@ -1528,7 +1654,9 @@ IX. Las demás que le otorgue este reglamento y otras disposiciones jurídicas a
 
 Las Delegaciones tienen las atribuciones y obligaciones siguientes:
 
-I. Expedir licencias y permisos para la fijación, instalación, distribución, ubicación y modificación de anuncios y en su caso, negar, modificar o revocar las licencias o permisos correspondientes, en términos de lo dispuesto por el presente Reglamento;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+I. Expedir licencias y autorizaciones temporales para la fijación, instalación, distribución, ubicación y modificación de anuncios y en su caso, negar, modificar o revocar las licencias o autorizaciones temporales correspondientes, en términos de lo dispuesto por el presente Reglamento;
 
 II. Expedir licencias para la fijación, instalación, distribución, ubicación y modificación de anuncios instalados en mobiliario urbano y, en su caso, negar, modificar o revocar las mismas, en términos de lo dispuesto por el presente Reglamento;
 
@@ -1536,7 +1664,9 @@ III. Expedir permisos publicitarios para instalación de anuncios en bicicletas 
 
 IV. Recibir los avisos debidamente sellados para la instalación, colocación o fijación de anuncios de acuerdo con el presente Reglamento;
 
-V. Verificar que se cumplan los ordenamientos legales y normativos, a través de las visitas de verificación ordinarias o extraordinarias, reguladas por la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa del Distrito Federal, apoyándose en los dictámenes y opiniones de las Dependencias u Órganos competentes;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+V. Verificar que se cumplan los ordenamientos legales y normativos, a través de las visitas de verificación, reguladas por la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa del Distrito Federal, apoyándose en los dictámenes y opiniones de las Dependencias u Órganos competentes;
 
 VI. Verificar el estado y las condiciones de las estructuras de los anuncios;
 
@@ -1546,7 +1676,9 @@ VIII. Verificar las obras de fijación, instalación, ubicación y modificación
 
 IX. Ordenar, a costa del titular de la licencia o permiso y del propietario o poseedor del predio o inmueble donde se encuentre el anuncio, el retiro, reparación o modificación de las estructuras y carteleras de los anuncios que constituyan un peligro para la estabilidad de la construcción en que se encuentren instalados, o para la vida y seguridad de las personas y de sus bienes, en términos de lo dispuesto en el presente Reglamento y de otros ordenamientos jurídicos aplicables;
 
-X. Llevar un registro de las licencias, permisos y avisos e informar trimestralmente a la Secretaría sobre la situación de los mismos;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+X. Llevar un registro de las licencias, autorizaciones temporales y avisos e informar trimestralmente a la Secretaría sobre la situación de los mismos;
 
 XI. Dictar y aplicar las medidas de seguridad y, en su caso, imponer las sanciones correspondientes por infracciones al presente Reglamento;
 
@@ -1566,9 +1698,11 @@ III. Las demás que le otorgue este Reglamento y otras disposiciones jurídicas 
 
 ### CAPÍTULO XIV. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 113.
 
-Las medidas de seguridad son acciones preventivas de ejecución inmediata, de carácter temporal, cuyo objetivo es evitar el daño a personas o bienes. En los casos en que así lo determine la autoridad, se aplicarán las sanciones previstas con cargo a los titulares de las licencias y/o permisos, y/o a los responsables solidarios. Su monto será considerado como crédito fiscal.
+Las medidas de seguridad son acciones preventivas de ejecución inmediata, de carácter temporal, cuyo objetivo es evitar el daño a personas o bienes. En los casos en que así lo determine la autoridad, se aplicarán las sanciones previstas con cargo a los titulares de las licencias y/o autorizaciones temporales, y/o a los responsables solidarios. Su monto será considerado como crédito fiscal.
 
 ###### Artículo 114.
 
@@ -1602,9 +1736,11 @@ II. Para su cumplimiento, las autoridades correspondientes podrán hacer uso de 
 
 III. Se aplicarán sin perjuicio de la responsabilidad civil o penal que pudiera derivarse de los mismos actos o hechos que las originaron.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 116.
 
-El incumplimiento de las medidas de seguridad establecidas en el presente Reglamento y demás disposiciones legales aplicables dará lugar a la revocación de la licencia, permiso o permiso publicitario.
+El incumplimiento de las medidas de seguridad establecidas en el presente Reglamento y demás disposiciones legales aplicables dará lugar a la revocación de la licencia, autorización temporal o permiso publicitario.
 
 ### CAPÍTULO XV. DE LAS SANCIONES Y DE LOS MEDIOS DE DEFENSA
 
@@ -1618,7 +1754,9 @@ II. Multa, que podrá ser de 10 a 1000 días de salario mínimo vigente en el Di
 
 III. Retiro del anuncio;
 
-IV. Revocación de la licencia, permiso o permiso publicitario, según sea el caso; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+IV. Revocación de la licencia, autorización temporal o permiso publicitario, según sea el caso;
 
 V. Remisión de unidades de servicio de transporte a los depósitos vehiculares del Gobierno del Distrito Federal, donde se procederá al retiro de los anuncios con cargo al particular;
 
@@ -1636,11 +1774,13 @@ b) Efectuar el pago de la(s) multa(s) impuesta(s), exhibiendo el recibo correspo
 
 c) Realizar el pago por servicio de almacenaje, en los términos establecidos en el Código Financiero del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 118.
 
-Para la imposición de las sanciones se tomará en cuenta la gravedad de la infracción cometida, la reincidencia del infractor, los costos de inversión del anuncio, los daños o perjuicios causados a terceros, el grado de afectación al interés público, el incumplimiento de las condiciones fijadas en la licencia, permiso o permiso publicitario, según sea el caso, el ocultamiento deliberado de la infracción y las circunstancias en que ésta se haya llevado a cabo.
+Para la imposición de las sanciones se tomará en cuenta la gravedad de la infracción cometida, la reincidencia del infractor, los costos de inversión del anuncio, los daños o perjuicios causados a terceros, el grado de afectación al interés público, el incumplimiento de las condiciones fijadas en la licencia, autorización temporal o permiso publicitario, según sea el caso, el ocultamiento deliberado de la infracción y las circunstancias en que ésta se haya llevado a cabo.
 
-En el supuesto de que se determine aplicar como sanción el retiro de anuncios, con independencia de otras sanciones, ello deberá efectuarse por el titular de la licencia, permiso o permiso publicitario, así como por el propietario o poseedor del predio, en un término que no exceda las 24 horas siguientes a partir de la notificación que al efecto se realice. En caso de no cumplir con esta circunstancia, dicho retiro será efectuado por la autoridad con cargo al particular, pudiendo incluso seguirse el procedimiento administrativo de ejecución a que se refieren las disposiciones contenidas en el Código Financiero, y lo que señale el Reglamento de Construcciones, para lo cual será necesario hacerlo del conocimiento de la Secretaría de Finanzas.
+En el supuesto de que se determine aplicar como sanción el retiro de anuncios, con independencia de otras sanciones, ello deberá efectuarse por el titular de la licencia, autorización temporal o permiso publicitario, así como por el propietario o poseedor del predio, en un término que no exceda las 24 horas siguientes a partir de la notificación que al efecto se realice. En caso de no cumplir con esta circunstancia, dicho retiro será efectuado por la autoridad con cargo al particular, pudiendo incluso seguirse el procedimiento administrativo de ejecución a que se refieren las disposiciones contenidas en el Código Financiero, y lo que señale el Reglamento de Construcciones, para lo cual será necesario hacerlo del conocimiento de la Secretaría de Finanzas.
 
 ###### Artículo 119.
 
@@ -1662,9 +1802,13 @@ V. Multa de 250 a 750 días de salario mínimo general vigente en el Distrito Fe
 
 VI. Multa de 500 a 1000 días de salario mínimo general vigente en el Distrito Federal, por contravención a los artículos 13,14, fracciones III, IV, VI y VIII, 19, 65 fracciones I, VIII y X;
 
-VII. Retiro del anuncio; cuando no cuente con licencia o permiso, expedido por la Autoridad respectiva;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
 
-VIII. Clausura del anuncio; cuando no cuente con licencia o permiso, expedido por la Autoridad respectiva;
+VII. Retiro del anuncio; cuando no cuente con licencia o autorización temporal, expedida por la Autoridad respectiva;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2004)</small>
+
+VIII. Clausura del anuncio; cuando no cuente con licencia o autorización temporal, expedida por la Autoridad respectiva.
 
 Independientemente de las sanciones previstas en las fracciones que anteceden, las unidades de transporte que cuenten con anuncios sin permiso publicitario, y contravengan lo señalado en el artículo 158 fracción VII de la Ley de Transporte y Vialidad del D. F., serán impedidas de circular y remitidas a los depósitos de guarda y custodia de vehículos infraccionados.
 
@@ -1686,13 +1830,17 @@ Cualquier otra violación a las disposiciones del presente Reglamento, cuya sanc
 
 a) Con su instalación se cause perjuicio al interés social o se contravengan disposiciones de orden público;
 
-b) Carezca de licencia, permiso, aviso o permiso publicitario;
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2004)</small>
+
+b) Carezca de licencia, autorización temporal, aviso o permiso publicitario.
 
 c) Se determine que por su estado físico constituye un riesgo para la integridad física o los bienes de las personas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 2004)</small>
+
 ###### Artículo 122.
 
-Se revocarán de oficio las licencias, permisos o permisos publicitarios otorgados en los casos siguientes:
+Se revocarán de oficio las licencias, autorizaciones temporales o permisos publicitarios otorgados en los casos siguientes:
 
 I. Si el anuncio se fija o instala en sitio distinto del autorizado;
 
@@ -1767,3 +1915,9 @@ Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la C
 G.O. 2 DE DICIEMBRE DE 2003.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las solicitudes de permisos que se encuentren en trámite a la entrada en vigor del presente decreto, continuarán con el procedimiento con el que iniciaron hasta su conclusión.
