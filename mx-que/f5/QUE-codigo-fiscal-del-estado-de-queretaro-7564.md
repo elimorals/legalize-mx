@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "1995-12-28"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -445,6 +445,10 @@ III.- Los recargos e indemnizaciones
 
 IV.- Los impuestos, derechos, contribuciones especiales, productos, aprovechamientos y diversos conceptos, distintos de los señalados en la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+El Secretario de Planeación y Finanzas, haciendo constar los motivos de su determinación, podrá reducir hasta en un cincuenta por ciento el importe de los recargos que se hubieren generado a cargo de los contribuyentes por la falta del pago oportuno de créditos fiscales que les hayan sido determinados.
+
 ###### ARTICULO 43.
 
 Cuando se trate de gravámenes que se causen periódicamente, y se adeuden los correspondientes a diversos períodos, si los pagos relativos a esos gravámenes no cubren la totalidad del adeudo se aplicarán a cuenta de los adeudos que correspondan a los períodos más antiguos.
@@ -615,7 +619,7 @@ Los recargos deberán considerarse, en todo caso, como indemnizaciones a la Haci
 
 ###### ARTICULO 65.
 
-Las multas que la Secretaría de Finanzas o sus dependencias impongan por infracciones a las disposiciones de carácter fiscal, podrán ser condenadas totalmente si, por prueba diversa de las presentadas ante las autoridades administrativas o juridiccionales (sic) en su caso, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
+Las multas que la Secretaría de Finanzas o sus dependencias impongan por infracciones a las disposiciones de carácter fiscal, podrán ser condenadas totalmente si, por prueba diversa de las presentadas ante las autoridades administrativas o juridiccionales en su caso, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
 Cuando a juicio del Secretario de Finanzas las infracciones cometidas sean leves y no hayan tenido como consecuencia la evasión del impuesto podrán condenarse parcialmente las multas determinando éste, el porciento a condonar que estima justificado, apreciando las circunstancias del caso.
 
@@ -1585,13 +1589,21 @@ Cuando no se acompañe alguno de los documentos a que se refiere éste precepto,
 
 Es improcedente el recurso cuando se haga valer contra actos administrativos.
 
-I.- Que no afecten el interés jurídico del recurrente.
+I.-Que no afecten el interés jurídico del recurrente.
 
 II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento a éstos o de sentencias dictadas por el Tribunal de lo Contencioso Administrativo.
 
 III.- Que se hayan consentido, entendiéndose por consentimiento aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
 
 IV.- Que sean conexos a otro que haya sido impugnado por medio del algún recurso o medio de defensa diferente.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+V.- Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADA. P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+VI.- Contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -1603,17 +1615,25 @@ IV.- Que sean conexos a otro que haya sido impugnado por medio del algún recurs
 
 Será optativo para el interesado la interposición del Recurso de Revocación o acudir directamente sin agotar éste al Tribunal de lo Contencioso Administrativo del Estado.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-#### SECCION TERCERA. DEL RECURSO DE OPOSICION AL
+#### SECCION TERCERA. DEL SOBRESEIMIENTO
 
-PROCEDIMIENTO
-
-ADMINISTRATIVO DE EJECUCION
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 132.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1995)
+Procede el sobreseimiento del recurso de revocación en los siguientes casos:
+
+I.- Cuando el promovente se desista expresamente de su recurso.
+
+II.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 130 de este Código.
+
+III.- Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada.
+
+IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
+
+V.- En el caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción 11 del artículo 135 de este Código.
 
 ###### ARTICULO 133.
 
@@ -1743,7 +1763,9 @@ Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extra
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
-Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales estatales, para los fines que ellas dispongan de acuerdo a los programas establecidos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Los ingresos generados por concepto de gastos de ejecución no podrán, en ningún caso, ser destinados como estímulo o compensación de las actividades recaudatorias
 
 #### SECCIÓN SEGUNDA. DEL EMBARGO
 
@@ -2192,3 +2214,13 @@ Se derogan todas las disposiciones legales y reglamentarias que se opongan a la 
 ###### ARTICULO TERCERO.
 
 Esta Ley entrará en vigor el 1º. de enero de 1996.
+
+P.O. 29 DE DICIEMBRE DE 2000
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de enero de 2001.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
