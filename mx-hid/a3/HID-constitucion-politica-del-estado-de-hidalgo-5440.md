@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1982-03-24"
+last_updated: "1982-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -809,7 +809,11 @@ XVIII. Decidir sobre la desaparición de poderes municipales en casos graves con
 
 XIX. Instalar y presidir la Junta Preparatoria del nuevo Congreso del Estado;
 
-XX. Las demás que les sean concedidas por esta Constitución.
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 1982)</small>
+
+XX. Declarar Senadores electos a los ciudadanos que hayan obtenido la mayoría de votos emitidos en las Elecciones Constitucionales correspondientes;
+
+XXI. Las demás que les sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2106,6 +2110,10 @@ UNICO.- Estas reformas entrarán en vigor a partir del día siguiente de su publ
 P.O. 24 DE MARZO DE 1982.
 
 UNICO: El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 1982.
+
+UNICO.- Estas reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del 158 de la propia Constitución Política del Estado.
 
 ###### Artículo 3o.
 
