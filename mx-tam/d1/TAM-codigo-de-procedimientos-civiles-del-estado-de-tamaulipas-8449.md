@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2002-03-21"
+last_updated: "2002-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -4207,21 +4207,29 @@ Compete el interdicto al que teniendo la posesión de las cosas o derechos a que
 
 Procede el interdicto contra el que esté ejecutando, ha ejecutado o mandado ejecutar los actos que constituyen la perturbación o el despojo, en contra del que se aprovecha o pretende aprovecharse de ella y será procedente aun entre comuneros siempre que se compruebe de parte del quejoso que ha tenido la posesión de hecho con exclusión de sus demás copartícipes en la propiedad de la cosa común. Procede asimismo, en los demás casos previstos por la ley.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 600.
 
-El que pretenda entablar el interdicto, presentará un escrito solicitando se le ampare o restituya en la posesión de la cosa o derecho, o se dicten las medidas tendientes a la suspensión o prevención de los actos que entrañan riesgo o daño grave respecto de obra nueva o peligrosa, así como la restitución de las cosas al estado que antes tenían, todo a costa del responsable. Acompañará el actor los documentos que justifiquen la posesión u ofrecerá probarla por otros medios, precisando con exactitud los actos anteriores en que consistan la perturbación o el despojo y señalando la persona contra quien se dirija la acción.
+El que pretenda entablar el interdicto, presentará un escrito solicitando se le ampare o restituya en la posesión de la cosa o derecho, o se dicten las medidas tendientes a la suspensión o prevención de los actos que entrañan riesgo o daño grave respecto de obra nueva o peligrosa, así como la restitución de las cosas al estado que antes tenían, todo a costa del responsable. Acompañará el actor los documentos que justifiquen la posesión u ofrecerá probarla por otros medios, precisándose con exactitud los actos anteriores en que consistan la perturbación o el despojo, señalándose la persona contra quien se dirija la acción y entregándose copias de traslado para su llamamiento a juicio.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 601.
 
-Recibida la demanda, el juez, si lo estima necesario, puede requerir las informaciones previas para acreditar los hechos denunciados y declarará si hay lugar a interdicto, dictando, en su caso, las medidas de urgencia que juzgue adecuadas, las que confirmará o revocará al pronunciar la resolución correspondiente. Si se trata de obra nueva o peligrosa, ordenará la suspensión provisional de aquélla. Si de posesión, dictará las medidas necesarias para evitar que el despojo se consume, y en su caso, para restituirla en tanto se resuelve lo principal.
+Recibida la demanda, si el juez lo estima necesario puede requerir informaciones previas para acreditar los hechos denunciados y previa aduciencia (sic) del demandado, declarará si hay lugar a interdicto, dictando, en su caso, las medidas de urgencia que juzgue adecuadas. Dichas medidas se confirmarán o revocarán al pronunciarse la resolución definitiva correspondiente. Si se trata de obra nueva o peligrosa, ordenará la suspensión provisional de aquélla; si se trata de posesión, podrán dictarse las medidas necesarias para evitar que el despojo se consume y, en su caso, para restituirla en tanto se resuelve lo principal. Al dictar las medidas de urgencia, el juez dispondrá el otorgamiento de caución por parte de la actora para garantizar el pago de eventuales daños y perjuicios que pudieran causarle a la demandada, y caución en sentido contrario en caso de que el demandado desee que las cosas se mantengan en el estado que guardaban antes de la promoción del interdicto.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 602.
 
-El juez tendrá el poder de practicar inspecciones personales o interrogar testigos aunque no hayan sido ofrecidos por las partes, y pueden asistirse de peritos o encomendar a éstos o al secretario o actuario que lleven a cabo comprobaciones especiales.
+El juez podrá asistirse de peritos o encomendar a éstos o al secretario o actuario que lleven a cabo comprobaciones especiales, y deberá de inmediato recibir las pruebas que legalmente le ofrezcan las partes para demostrar su dicho.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 603.
 
-En su caso, cumplido lo dispuesto en el artículo 601, se correrá traslado de la demanda por el término de tres días. El de prueba será de diez.
+El derecho de audiencia del demandado en un interdicto consistirá en correrle traslado de la demanda y sus anexos para que le conteste en un término de tres días y otorgarle un plazo improrrogable de diez días para rendir las pruebas necesarias a su defensa y alegar lo que a su derecho convenga.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -4229,9 +4237,35 @@ En su caso, cumplido lo dispuesto en el artículo 601, se correrá traslado de l
 
 Si de autos aparecen probados los hechos de la posesión por una parte y de la perturbación o despojo por la otra, o bien el daño o peligro grave, el juez declarará procedente el interdicto y mandará amparar o restituir la posesión, si es que el demandante, por alguna razón no la recibió antes o, en su caso, resolverá lo que sea prudentemente necesario para evitar definitivamente la consumación del daño o materialización del peligro. Si por la negligencia del juez para cumplir con lo dispuesto en los últimos aspectos mencionados se causasen daños, será sancionado con la corrección disciplinaria correspondiente, según la importancia del caso.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 605.
 
-La sentencia se ejecutará, si así se solicita, sin necesidad de fianza. Los autos no se remitirán al tribunal sino hasta que se haya verificado la ejecución salvo que las partes de conformidad lo acuerden. En caso de no probarse las circunstancias expresadas en la demanda se condenará al actor en las costas.
+Cuando la sentencia interdictal sea ejecutable, si la parte a quien beneficie solicita su ejecución, la misma podrá llevarse a cabo previa caución otorgada por el interesado, siempre y cuando se cumpla con los siguientes requisitos:
+
+I.- Que la ejecución la solicite el interesado.
+
+II.- Que no se cause perjuicio al interés social, ni se contravengan disposiciones de orden público.
+
+III.- Que los daños y perjuicios que se causen de no ejecutarse la medida sean de difícil reparación.
+
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2002)</small>
+
+El juez al dictar la medida provisional procurará fijar la situación en que habrán de quedar las cosas y tomará las medidas pertinentes para conservar la materia de interdicto hasta la terminación del juicio.
+
+La caución a que se refiere el artículo 601 deberá ser suficiente para restituir las cosas al estado que guardaban antes de la interposición de la demanda y cubrir los daños y perjuicios que sobrevengan al demandante en la hipótesis de que le favorezca la sentencia de interdicto, y en todo caso será suficiente para cubrir:
+
+1.- Los gastos o primas pagados conforme a la ley a la empresa afianzadora que, en su caso, haya otorgado la garantía ofrecida por el demandante.
+
+2.- El importe de lo erogado por concepto de certificado de libertad de gravámenes y de valor fiscal de la propiedad cuando hayan sido expresamente tramitados para el caso, con los que un fiador particular haya justificado su solvencia, más la retribución dada al mismo, que o (sic) deberá exceder al 50% de importe que cobre una compañía de fianzas legalmente constituida.
+
+3.- Los gastos legales de la escritura respectiva y su registro, así como la cancelación y su registro, cuando se hubiere otorgado garantía hipotecaria, y
+
+4.- Los gastos legales que el demandante acredite haber hecho para constituir el depósito.
+
+No se admitirá la caución tratándose de interdicto para retener o recuperar la posesión de hijos, ni cuando de ejecutarse el acto motivo de la suspensión quede sin materia el juicio de interdicto.
+
+En caso de no probarse las circunstancias expresadas en la demanda se condenará al actor en las costas.
 
 ###### ARTICULO 606.
 
@@ -7308,3 +7342,9 @@ El Presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE MARZO DE 2002
 
 Artículo Unico.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2002
+
+Artículo Primero.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los juicios de interdicto que se hubieren interpuesto con anterioridad a la entrada en vigor de este Decreto, se tramitarán conforme a las disposiciones vigentes al momento de su inicio.
