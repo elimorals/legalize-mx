@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1945-03-11"
+last_updated: "1946-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1946.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -333,11 +333,11 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos 
 
 Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1946)</small>
 
 ###### Artículo 43.
 
-Los Ayuntamientos se renovarán totalmente cada dos años, en los términos que disponga la ley.
+Los Ayuntamientos se renovarán totalmente cada tres años, en los términos que disponga la Ley.
 
 ###### Artículo 44.
 
@@ -1278,3 +1278,7 @@ P.O. 11 DE MARZO DE 1945.
 DECRETO No. 109.
 
 UNICO:- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 1946.
+
+UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el "Periódico Oficial" del Estado, y en virtud de haber sido aprobada esta reforma por los Poderes Ejecutivo y Judicial y por más de la mitad de los Ayuntamientos del Estado, la misma formará parte de la Constitución Política Local.
