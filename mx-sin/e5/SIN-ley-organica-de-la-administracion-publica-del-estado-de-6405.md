@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-administracion-publica-del-estado-de-6405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-01-05"
-last_updated: "1981-01-05"
+last_updated: "2000-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 5 de enero de 1981.
 
@@ -54,6 +54,10 @@ El Gobernador Constitucional del Estado, depositario del ejercicio del Poder Eje
 ###### ARTICULO 3.
 
 La Administración Pública estatal se integrará con las Secretarías y Entidades Administrativas cuyas denominaciones, estructuras y atribuciones se establecerán en los Reglamentos y demás disposiciones que expida el Gobernador Constitucional del Estado en ejercicio de sus facultades constitucionales y dentro de los límites de las que la presente Ley le otorga.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2000)</small>
+
+En atención a lo que prescribe el artículo 110 de la Constitución Política del Estado de Sinaloa, en la integración de la Administración Pública Estatal, deberá atenderse el principio de que no habrá ninguna autoridad intermedia entre los ayuntamientos y los Poderes del Estado.
 
 ###### ARTICULO 4.
 
@@ -131,7 +135,7 @@ El titular de cada dependencia expedirá los manuales necesarios para su organiz
 
 ###### ARTICULO 20.
 
-Las Secretarías tendrán igual rango y entre ellas no habrá relación de jerarquía.
+Las Secretarías tendrán igual rango y entre ellas no habrá relación de jerarquía
 
 ###### ARTICULO 21.
 
@@ -177,7 +181,7 @@ Dentro de la Administración Pública Paraestatal, se consideran empresas de par
 
 a).- Que el Gobierno del Estado, los Ayuntamientos, uno o más organismos descentralizados, otras u otras empresas de participación estatal, uno o más fideicomisos del Estado, considerados conjunta o separadamente aporten o sean propietarios del 51% o más del capital social.
 
-b).- Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el gobierno del Estado; o,
+b).- Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno del Estado; o
 
 c).- Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, Junta Directiva u Organo de Gobierno, designar al Presidente, al Director, al Gerente o cuando tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u Organo de Gobierno equivalente.
 
@@ -280,3 +284,11 @@ LIC. JOSE RAMON FUENTEVILLA PELAEZ
 El Secretario de Desarrollo Económico
 
 ING. ERNESTO ORTEGON C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE ABRIL DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
