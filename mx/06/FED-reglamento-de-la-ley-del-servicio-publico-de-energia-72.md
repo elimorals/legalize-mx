@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-publico-de-energia-72"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-31"
-last_updated: "1993-05-31"
+last_updated: "1994-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-05-26"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1994.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 31 de mayo de 1993.
 
@@ -1135,7 +1135,9 @@ La energía eléctrica que se importe conforme a lo previsto en los artículos 3
 
 Para los efectos de la presente sección, los solicitantes, salvo que se interconecten a la red nacional de energía eléctrica, deberán obligarse a operar sus respectivas instalaciones en el país con medios propios y personal contratado a su servicio y cumplir con las disposiciones legales y reglamentarias aplicables, así como las normas oficiales mexicanas.
 
-#### Sección duodécima.- De las convocatorias para la adición o sustitución de la capacidad de generación
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 1994)</small>
+
+#### Sección duodécima.- De los procedimientos para la adición o sustitución de la capacidad de generación
 
 ###### Artículo 124.
 
@@ -1153,11 +1155,23 @@ III. La Secretaría, con base en las soluciones que recomiende la Comisión, pod
 
 a) El proyecto respectivo contemple una planta nuclear; o
 
-b) Con base en la comparación de costos totales de largo plazo de la energía eléctrica, sea evidente la conveniencia de que la Comisión se haga cargo de la ejecución y operación del proyecto de que se trate. Al efecto, la Secretaría dará a conocer a los particulares interesados el proyecto propuesto por la Comisión para que formulen sus sugerencias en un plazo de sesenta días. Transcurrido este plazo, la Secretaría podrá proceder a autorizar a la Comisión para que se haga cargo del proyecto bajo la modalidad de ejecución de obras. Si la Comisión no acredita el cumplimiento de las previsiones originales relativas al costo total de largo plazo de la energía eléctrica correspondiente, el proyecto será sometido a licitación en los términos de las siguientes fracciones, excepto cuando se compruebe que el aplazamiento de la ejecución de las obras implicará un mayor costo;
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
 
-IV. Excepto por los casos previstos en la fracción anterior, la Secretaría instruirá a la Comisión para que elabore la convocatoria y las bases de la misma, conforme a lo previsto en este Reglamento, para solicitar la capacidad de generación que permita cubrir la adición o sustitución de que se trate. La convocatoria y las bases serán sometidas a la aprobación de la Secretaría y podrán contemplar una precalificación de postores y exigir garantía de seriedad de oferta, y
+b) Con base en la comparación de costos totales de largo plazo de la energía eléctrica, sea evidente la conveniencia de que la Comisión se haga cargo de la ejecución y operación del proyecto de que se trate. Al efecto, la Secretaría dará a conocer a los particulares interesados el proyecto propuesto por la Comisión para que formulen sus sugerencias en un plazo de sesenta días. Transcurrido este plazo, la Secretaría podrá proceder a autorizar a la Comisión para que se haga cargo del proyecto bajo la modalidad de ejecución de obras. Si la Comisión no acredita el cumplimiento de las previsiones originales relativas al costo total de largo plazo de la energía eléctrica correspondiente, el proyecto será sometido a licitación en los términos de la siguiente fracción, excepto cuando se compruebe que el aplazamiento de la ejecución de las obras implicará un mayor costo, y
 
-V.- Recibida la aprobación, la Comisión procederá a convocar postores que ofrezcan poner a disposición de dicha entidad la capacidad solicitada, o parte de ésta.
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1994)</small>
+
+IV. En los casos de licitación del proyecto, la Secretaría instruirá a la Comisión para que elabore la convocatoria y las bases de licitación, a fin de solicitar la capacidad de generación que permita cubrir la adición o sustitución de que se trate, en los siguientes términos:
+
+a) La convocatoria y las bases de licitación serán verificadas por la Secretaría y podrán exigir garantía de seriedad de oferta;
+
+b) La Comisión convocará públicamente postores que ofrezcan poner a disposición de dicha entidad la capacidad solicitada o parte de ésta. El procedimiento de licitación establecido tendrá como finalidad asegurar el menor costo total de largo plazo y, además, óptima estabilidad, calidad y seguridad en el servicio público;
+
+c) Las convocatorias serán publicadas en el Diario Oficial de la Federación y en algún periódico de los de mayor circulación en la entidad federativa en donde se requiera la capacidad de generación, sin perjuicio de su difusión en el extranjero por los medios que se estimen apropiados, y
+
+d) Las convocatorias y las bases de licitación deberán plantearse en tal forma que permitan a los interesados expresar con flexibilidad el contenido técnico de sus propuestas en lo relativo a tecnología, combustible, diseño, ingeniería, construcción y ubicación de las instalaciones, sin perjuicio de que, en aquellos casos en que así lo considere necesario, la Secretaría, fundando y motivando sus razones, podrá instruir por escrito a la Comisión para que en la convocatoria y en las bases de licitación se señalen las especificaciones precisas en cuanto al tipo de combustible a utilizarse para la generación.
+
+V. (DEROGADA, D.O.F. 19 DE MAYO DE 1994)
 
 ###### Artículo 126.
 
@@ -1165,45 +1179,115 @@ A la convocatoria podrán responder los particulares en las modalidades de peque
 
 Los permisionarios que tengan excedentes de capacidad de 20 MW o menos, podrán poner a disposición de la Comisión dicha capacidad fuera de las convocatorias, en los términos de la fracción II del artículo 135.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
+
 ###### Artículo 127.
 
-La convocatoria y las bases de la misma deberán plantearse en forma tal que permitan a todos y cada uno de los interesados expresar con flexibilidad el contenido de sus propuestas en lo relativo a la tecnología, combustible, diseño, ingeniería, construcción y ubicación de las instalaciones.
+Las convocatorias deberán contener, como mínimo:
 
-Lo anterior se entenderá sin perjuicio de que, en aquellos casos en que así lo considere necesario, la Secretaría, fundando y motivando sus razones, podrá instruir por escrito a la Comisión para que en la convocatoria y en las bases de la misma se señalen las especificaciones precisas en cuanto al tipo de combustible a utilizarse para la generación.
+I. Los datos de la convocante;
 
-La Comisión podrá indicar el punto de interconexión preferente y, en su caso, los puntos de interconexión alternativos y asignará a cada uno de ellos el costo para la Comisión por concepto de transmisión y la capacidad máxima que se podría aceptar.
+II. La capacidad de generación eléctrica que se requiera, así como la cantidad, la unidad de medida y las fechas en que se necesite;
+
+III. El lugar, periodo y horario en que los interesados podrán obtener las bases de la licitación, así como su costo; el lugar, las fechas y las horas para la celebración del acto de presentación y apertura de las ofertas técnicas y económicas, así como la fecha en que la convocante dictará su fallo;
+
+IV. Los requisitos que deberán cumplir los interesados los que en todo caso incluirán los siguientes:
+
+a) Experiencia y capacidad técnica, operativa y financiera acreditadas documentalmente;
+
+b) Otros aspectos que se consideren relevantes para el objeto de la licitación, y
+
+V. En su caso, el lugar, periodo y horario en que los interesados podrán obtener los instructivos con los que deberán acreditar los requisitos a que se refiere la fracción anterior, así como el lugar y fecha límite para presentar la información correspondiente a la convocante.
 
 ###### Artículo 128.
 
 Las propuestas deberán ajustarse, en su caso, a las normas oficiales mexicanas y a las especificaciones técnicas que elabore la Comisión y que sean aprobadas por la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
+
 ###### Artículo 129.
 
-Las bases de la convocatoria deberán contener la metodología a la que se sujetará la presentación de las propuestas y la evaluación de las mismas, así como los criterios que se utilizarán en dicha evaluación.
+Las bases de licitación deberán contener la metodología a la que se sujetará la presentación de las propuestas y la evaluación de las mismas, así como los criterios que se utilizarán en dicha evaluación. Su contenido mínimo, en todo caso, será el siguiente:
+
+I. Datos de la convocante;
+
+II. Capacidad de generación de energía eléctrica requerida, indicando cantidad y unidad de medida;
+
+III. Fecha o fechas a partir de las cuales se requiera disponer de la capacidad de generación de energía eléctrica;
+
+IV. En su caso, tipo de combustible a utilizarse;
+
+V. Punto de interconexión preferente y, en su caso, puntos de interconexión alternativos, para lo cual la Comisión asignará el costo por concepto de transmisión correspondiente a cada uno de éstos, y la indicación de la capacidad máxima que se podría aceptar;
+
+VI. Información relativa al lugar, las fechas y las horas de presentación y apertura de propuestas; lugar, fecha y hora de la junta de aclaraciones a las bases de la licitación; documentación legal necesaria; el lugar, fecha y hora del fallo y la forma en que éste se comunicará a los licitantes, y fecha de la firma del convenio;
+
+VII. Forma y monto de las garantías de seriedad de las propuestas y del cumplimiento del convenio, mismas que podrán consistir en fianza, carta de crédito, depósito en efectivo o alguna otra forma de garantía;
+
+VIII. Criterios claros y detallados para la evaluación de las propuestas y para la adjudicación del convenio;
+
+IX. Causas para el desechamiento de ofertas y para declarar desierta la licitación, de conformidad con lo señalado en este Reglamento;
+
+X. Mención de que cualquier prórroga o diferimiento a los plazos o fechas deberá publicarse por los mismos medios empleados en la convocatoria, cuando menos con quince días de anticipación, y
+
+XI. Marco básico de estipulaciones contractuales, mismo que deberá ser rubricado con la presentación de la propuesta.
+
+Dicho marco podrá ser objeto de modificaciones a propuesta de los licitantes o de la convocante, siempre que en el primer caso sean aceptadas por ésta y en ambos casos se den a conocer a todos los participantes con la antelación al acto de recepción y apertura de ofertas que se establezca en las bases. Dichas modificaciones no podrán implicar una alteración sustancial del objeto de la licitación. Después del plazo señalado en las bases, no se aceptarán modificaciones al citado marco básico, el cual adquirirá el carácter de convenio modelo.
 
 ###### Artículo 130.
 
 Los particulares que participen en las convocatorias que no cuenten con los permisos de generación respectivos, deberán acompañar a sus propuestas los documentos que acrediten la satisfacción de los requisitos para ser permisionarios.
 
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
+
 ###### Artículo 131.
 
-La Comisión evaluará las propuestas recibidas, bajo la supervisión estricta de la Secretaría, para determinar cuál de las soluciones es la más idónea en términos de viabilidad técnica, costos totales de largo plazo de la energía eléctrica, estabilidad, calidad y seguridad, fundando y motivando su resolución. La adjudicación se otorgará, en su caso, a los particulares que cumplan con las condiciones establecidas en la convocatoria e individualmente o en conjunto ofrezcan la capacidad requerida bajo una o más de las modalidades a que se refiere el artículo 126, de manera tal que se obtenga el menor costo para la Comisión, considerando el costo total de largo plazo de la energía eléctrica manifestado en las propuestas y, en su caso, el costo para la Comisión por concepto de transmisión a que se refiere el último párrafo del artículo 127.
+Entre la fecha de publicación de la convocatoria y el acto de recepción de propuestas y apertura de ofertas técnicas deberá mediar un plazo suficiente, que en ningún caso podrá ser menor a cuarenta días, para que los interesados integren sus propuestas.
+
+El acto de apertura de ofertas será público y constará de dos etapas sucesivas que se verificarán en fechas distintas, una para las ofertas técnicas y otra para las ofertas económicas. Ambas propuestas deberán presentarse en sobres cerrados y por separado. Dicho acto será presidido por un servidor público designado por la convocante, y se verificará conforme a lo siguiente:
+
+I. En la primera etapa, se recibirán las propuestas de los licitantes en sobres cerrados en forma inviolable; se procederá a la apertura de la propuesta técnica exclusivamente; se verificará que estén completos los documentos exigidos y se desecharán las ofertas que hubieren omitido alguno de ellos;
+
+II. Las propuestas deberán presentarse previamente foliadas y firmadas, y en el acto de apertura los participantes rubricarán la última hoja foliada de cada propuesta, así como la relación de los documentos que se establezca en las bases. Los sobres que contengan las propuestas económicas serán firmados por los licitantes y por el servidor público que presida el acto y quedarán en custodia de la convocante. Durante el periodo comprendido entre una y otra etapa, la convocante procederá al análisis detallado de las propuestas técnicas presentadas;
+
+III. En la segunda etapa se procederá a la apertura de las ofertas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas. Las ofertas económicas que no sean abiertas, permanecerán en poder de la convocante y serán devueltas a los participantes a los quince días hábiles posteriores a la fecha del fallo final, y
+
+IV. La convocante deberá levantar acta de las dos etapas del acto de apertura de propuestas, misma en la que se harán constar los nombres de los asistentes y la representación que en su caso ostenten señalando el medio con el que la acrediten, las ofertas recibidas y las desechadas, así como las causas que motivaron tal desechamiento. El acta deberá ser suscrita por el servidor público que presida el acto, así como por todos los participantes, sin que la omisión de la firma de cualquiera de éstos afecte la validez del acta.
+
+Los actos a que se refiere este artículo se realizarán bajo la supervisión estricta de la Secretaría.
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1994)</small>
 
 ###### Artículo 132.
 
-La Comisión dictará su fallo dentro del plazo señalado en la convocatoria, conforme a la normatividad en la materia, y con la aprobación de la Secretaría adjudicará el contrato en el que se pacten compromisos de capacidad y compras de energía y exigirá la constitución de las garantías respectivas.
+La evaluación de las ofertas se ceñirá a los criterios que se establezcan en las respectivas bases de la licitación.
 
-La Comisión integrará el expediente relativo, mismo que turnará a la Secretaría, la que, en su caso, otorgará los permisos a los adjudicatarios.
+Previo conocimiento de la Secretaría, la Comisión dictará su fallo en la fecha señalada en la convocatoria y en las bases de licitación, el cual no podrá exceder de ciento ochenta días, contados a partir de la fecha de apertura de las ofertas técnicas.
+
+Una vez dictado el fallo y dado a conocer en la forma establecida en las bases de licitación, la Comisión adjudicará el convenio en favor de quien presente la propuesta solvente que cumpla con las condiciones establecidas en las bases de licitación y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o más propuestas satisfacen la totalidad de los requerimientos de la convocante, el convenio se adjudicará a quien ofrezca la energía eléctrica requerida al menor costo de largo plazo para la Comisión. En dicho convenio se pactarán compromisos de capacidad y compras de energía y se exigirá la constitución de las garantías respectivas.
+
+Si el adjudicatario no firmare el convenio respectivo de acuerdo con lo dispuesto en el artículo 135, la Comisión podrá, sin necesidad de una nueva licitación, adjudicar el convenio al participante que haya presentado la siguiente proposición solvente más baja y así sucesivamente. Lo anterior, siempre que la diferencia en precio con respecto a la postura originalmente ganadora no sea superior al diez por ciento del monto total de ésta.
+
+Si la Comisión no firmare el convenio, deberá cubrir al adjudicatario los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, cuando éste así lo solicite y los gastos respectivos sean razonables, estén debidamente comprobados y se relacionen directa y necesariamente con la licitación.
+
+La Comisión integrará el expediente relativo y lo turnará a la Secretaría, la que, en su caso, otorgará a los adjudicatarios los permisos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
 
 ###### Artículo 133.
 
-La Comisión declarará desierta la convocatoria para los proyectos respecto de los cuales no se haya recibido ninguna propuesta, o todas las presentadas hayan sido desechadas, conforme a lo previsto en este Reglamento y en las demás disposiciones legales aplicables.
+Será causa suficiente para desechar las propuestas, no satisfacer alguno de los requisitos señalados en la convocatoria o en las bases de licitación, así como la comprobación de que algún participante ha acordado con otro u otros, elevar los precios ofrecidos o desvirtuar de otra forma los propósitos del concurso, en cuyo caso, además, deberá hacerse del conocimiento de la autoridad competente.
 
-La Secretaría podrá instruir a la Comisión para que vuelva a convocar a los particulares o realice directamente los proyectos relativos.
+La Comisión declarará desierta la licitación cuando ningún particular adquiera las bases, no se reciba propuesta alguna o las presentadas hayan sido desechadas.
+
+La Secretaría podrá instruir a la Comisión para que vuelva a convocar a los particulares o bien realice directamente los proyectos relativos.
+
+La Comisión deberá dar a la Secretaría, en todos los casos, un informe razonado y por escrito de sus decisiones.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
 
 ###### Artículo 134.
 
-La Comisión deberá dar a la Secretaría, en todos los casos, un informe razonado y por escrito de sus decisiones.
+Las personas interesadas podrán presentar queja, por escrito, ante la Secretaría de la Contraloría General de la Federación con motivo de los diversos actos de la convocante relacionados con el procedimiento de licitación, dentro de los diez días hábiles siguientes a aquél en que éstos ocurran o el interesado tenga conocimiento de los mismos, o debiera haberlo tenido por habérsele convocado por escrito. En un plazo no mayor a cuarenta y cinco días se emitirán las observaciones respectivas.
 
 Sección decimotercera.- De los convenios para la adquisición de energía eléctrica
 
@@ -1216,6 +1300,10 @@ I. Con los adjudicatarios de las convocatorias a que se refiere la sección ante
 II. Con los permisionarios con excedentes de energía de 20 MW o menos, en los casos en que resulte conveniente, la Comisión podrá celebrar convenios en que se pacten compromisos de capacidad y adquisición de energía sujetos a las reglas de despacho, y
 
 III. Con los demás permisionarios podrán celebrarse convenios en los que se acuerden las compras de energía según las reglas de despacho.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 1995)</small>
+
+Los convenios a que se refiere la fracción I se formalizarán dentro de un plazo de ciento ochenta días contados a partir de la fecha de comunicación del fallo. Este plazo podrá ampliarse hasta ciento veinte días adicionales a solicitud de la convocante por causas justificadas y previa opinión de la Secretaría.
 
 En el cumplimiento de dichos convenios la Comisión no gozará de privilegios o trato preferencial alguno fuera de los que la Ley y este Reglamento establecen.
 
@@ -1606,3 +1694,9 @@ SEXTO. La tolerancia en la frecuencia prevista en la fracción I del artículo 1
 SEPTIMO. En las convocatorias que se publiquen para adiciones de capacidad dentro de los doce meses siguientes a la fecha de entrada en vigor del presente Reglamento, además de las especificaciones sobre tipo de combustible a que se refiere el segundo párrafo del artículo 127, podrá detallarse la ubicación de la capacidad requerida.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de mayo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe Armella.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Emilio Lozoya Thalmann.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 19 DE MAYO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
