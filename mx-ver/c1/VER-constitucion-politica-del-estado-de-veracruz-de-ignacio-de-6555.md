@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1994-09-22"
+last_updated: "1994-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 1994.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -537,13 +537,11 @@ V. Los Presidentes Municipales por los Distritos en que ejerzan autoridad; y
 
 VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 1994)</small>
 
 ###### Artículo 50.
 
-La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará por todos los presuntos Diputados Electos por el principio de mayoría relativa que hubieren obtenido constancia de mayoría debidamente registrada y por todos los presuntos Diputados Electos por el principio de representación proporcional que hubieren obtenido constancia de asignación.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+La Legislatura se eregirá en Colegio Electoral para calificar la elección de Gobernador.
 
 ###### Artículo 51.
 
@@ -593,11 +591,11 @@ DEL TRABAJO Y DE LA PREVISIÓN SOCIAL.
 
 El lugar de sesiones de la H. Legislatura, será la ciudad de Jalapa, en donde residirán los Poderes del Estado, los que sólo podrán transladarse a otro lugar, provisionalmente, por decreto de la Legislatura o de la Diputación Permanente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 1994)</small>
 
 ###### Artículo 58.
 
-Las reuniones del Colegio Electoral que sean necesarias para calificar las elecciones de Diputados para excitar a los ausentes a que concurran y para nombrar Presidente, Vice-presidente, Secretario y dos Vocales de la Legislatura, se iniciarán diez días antes del fijado para la apertura de sesiones. Las credenciales que no fuesen calificadas por el Colegio Electoral, lo serán por la Legislatura al presentarse los Diputados.
+Los trabajos para la instalación de la Legislatura, en su primer período de sesiones ordinarias, se iniciarán diez días antes del fijado para la apertura de las mismas.
 
 ###### Artículo 59.
 
@@ -2270,3 +2268,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En el órgano superior de dirección establecido en el segundo párrafo del artículo 44 reformado, participarán con voz y voto, hasta el 1 de enero de 1995, un representante del Poder Ejecutivo, que lo presidirá, y dos representantes del Poder Legislativo, correspondiendo estos últimos respectivamente, a la mayoría y a la primera minoría de la Legislatura del Estado.
 
 TERCERO.- El trámite de los asuntos que actualmente conoce el Tribunal de lo Contencioso Electoral, así como el personal, los documentos, expedientes y recursos materiales de éste, pasarán al Tribunal Estatal de Elecciones, manteniendo su integración con los Magistrados ya designados por la Legislatura del Estado en el mes de abril próximo pasado.
+
+G.O. 22 DE OCTUBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
