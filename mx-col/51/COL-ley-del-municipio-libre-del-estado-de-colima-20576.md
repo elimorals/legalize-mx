@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2003-11-15"
+last_updated: "2004-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2004.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -877,7 +877,13 @@ II. Las juntas municipales, que se integran por un presidente, un secretario y u
 
 III. Las delegaciones, que estarán a cargo de un delegado, en los términos del artículo 11 de la presente Ley.
 
-Las autoridades auxiliares serán designadas por los cabildos de conformidad con el procedimiento establecido en los reglamentos que para tal efecto expidan. En su integración se deberá asegurar la participación ciudadana y vecinal.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2004)</small>
+
+Los integrantes de las autoridades auxiliares municipales serán electas mediante voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad donde se establezcan, de conformidad con el procedimiento de participación ciudadana y vecinal que fijen los ayuntamientos en los reglamentos respectivos. Las autoridades auxiliares durarán en su encargo tres años y su elección será en los primeros sesenta días después de la toma de posesión del H. Ayuntamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2004)</small>
+
+En los casos de haber elecciones extraordinarias de gobernador, de diputado local o de ayuntamiento, la elección de las autoridades auxiliares municipales deberá verificarse sesenta días después de haberse realizado las dos primeras o sesenta días después de que tome posesión el Cabildo que haya resultado electo de tal suerte que no exista concurrencia en las elecciones de cualquiera de estos cargos con la de autoridades auxiliares municipales.
 
 ## TÍTULO TERCERO. DEL RÉGIMEN ADMINISTRATIVO
 
@@ -1728,3 +1734,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. E
 P.O. 15 DE NOVIEMBRE DE 2003.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 13 DE ENERO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+Artículo Segundo.- A partir de la entrada en vigor del presente Decreto, los Cabildos Municipales tendrán hasta el 23 de enero del 2004 para hacer las modificaciones y adecuaciones a la reglamentación correspondiente y publicar el reglamento respectivo.
+
+Artículo Tercero.- Las autoridades auxiliares por esta única ocasión deberán ser electos y asumir el encargo antes de que concluya el mes de febrero del 2004 y terminar el mismo el 15 de diciembre del 2006.
