@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2003-10-22"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA
 
 > <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -1055,11 +1055,23 @@ Recibida la obra, la unidad o área administrativa bajo cuya responsabilidad que
 
 ### Capítulo IV. De las excepciones a la licitación pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 101.
 
-Los entes públicos, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos, servicios y obra pública, a través de un procedimiento de licitación restringida o adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos previstos, respectivamente, en los Presupuestos de Egresos del Estado y de los Municipios, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la Licitación Pública.
+Los Municipios, sus Organismos Públicos Descentralizados, las Empresas de Participación Municipal mayoritarias y los Fideicomisos en los que los Municipios tengan el carácter de Fideicomitentes según correspondan, de conformidad con lo dispuesto por las Leyes de la materia, bajo su responsabilidad podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos y contratación de servicios, a través del procedimiento de licitación restringida, en las modalidades siguientes:
+
+1.- Adjudicación Directa, esta se realizará cuando el importe de cada operación no exceda de veinticinco veces el salario mínimo general vigente elevado al año y el proveedor cuente con capacidad de respuesta inmediata y ofrezca las mejores condiciones en cuanto a precio, pago, calidad, garantías, financiamiento y oportunidad en el cumplimiento.
+
+2.- Invitación a cuando menos tres Proveedores, cuando el importe de cada operación se ubique en mas de veinticinco y hasta sesenta veces el salario mínimo general vigente elevado al año, siempre y cuando las propuestas se consideren técnicamente válidas y el proveedor cuente con capacidad de respuesta inmediata y ofrezca las mejores condiciones en cuanto a precio, pago, calidad, garantías, financiamiento y oportunidad en el cumplimiento.
+
+Los montos que resulten de la fórmula anterior, no se considera incluido el Impuesto al Valor Agregado.
+
+Por lo que corresponde al Gobierno del Estado, sus Organismos Públicos Descentralizados, las Empresas de Participación Estatal mayoritarias y a los Fideicomisos en los que el Gobierno del Estado tengan el carácter de Fideicomitentes, los montos de excepción para la Licitación Pública que se aplicarán serán los que se establezcan en su presupuesto de egresos en los cuales no incluye el Impuesto al Valor Agregado.
+
+Las modalidades anteriores se realizarán, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+
+El salario mínimo general vigente (SMGV) será el que corresponda a la zona económica de ubicación de los diferentes municipios, así como de la sede de los Poderes del Gobierno del Estado, de conformidad con la resolución de la Comisión Nacional de Salarios Mínimos.
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Ayuntamiento, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la adquisición, arrendamiento, servicio u obra pública.
 
@@ -1376,3 +1388,9 @@ Para efecto del presente Decreto, se considerará especialista a todo profesioni
 P.O. 22 DE OCTUBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado y se aplicará a partir del ejercicio fiscal de 2004.
