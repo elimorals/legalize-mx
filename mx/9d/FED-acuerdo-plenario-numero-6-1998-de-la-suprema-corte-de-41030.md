@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-plenario-numero-6-1998-de-la-suprema-corte-de-41030"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-11-17"
-last_updated: "1998-11-17"
+last_updated: "2000-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41030&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1998-11-10"
 
 ACUERDO GENERAL 6/1998, DEL TRIBUNAL PLENO DEL DIA NUEVE DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y OCHO RELATIVO AL TRAMITE DE LOS INCIDENTES DE INEJECUCION, LAS INCONFORMIDADES Y LAS DENUNCIAS DE REPETICION DEL ACTO RECLAMADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2000.
 
-Acuerdo publicado en el Diario Oficial de la Federacion, el martes 17 de noviembre de 1998.
+Acuerdo publicado en el Diario Oficial de la Federacion, el martes 17 de noviembre de 1998 y en el Semanario Judicial de la Federación y su Gaceta, Tomo VIII, Noviembre de 1998, página 623.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
 
@@ -63,11 +63,23 @@ CUARTO.-En caso de que mediante resolución de Sala se encomienden las diligenci
 
 QUINTO.-Si durante el trámite de un incidente de inejecución sobreviniere una inconformidad o denuncia de repetición del acto reclamado en el mismo juicio de amparo y dicho incidente no se encuentra aún resuelto, se turnarán los asuntos relacionados al mismo Ministro designado como ponente, para que las resoluciones correspondientes se dicten conjuntamente.
 
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO 2/2000 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. DE 28 DE ENERO DE 2000)</small>
+
+La misma regla se observará si en esos asuntos la Suprema Corte de Justicia de la Nación, ya dictó alguna resolución en relación con el cumplimiento del fallo protector, de manera que el Ministro que fue ponente con anterioridad, se ocupe también del estudio de los demás problemas vinculados con dicho cumplimiento hasta su resolución definitiva.
+
 SEXTO.-Mensualmente, la Subsecretaría General de Acuerdos y los secretarios de Acuerdos de cada Sala darán cuenta del estado que guardan los expedientes que se encuentren a su cargo en archivo provisional. Los Jueces de Distrito, Tribunales Colegiados de Circuito y Tribunales Unitarios de Circuito, con la misma periodicidad, informarán del resultado de las providencias que se les hubiesen encomendado.
 
 SÉPTIMO.-Los oficios de las autoridades responsables que informen a este Alto Tribunal sobre el cumplimiento de las sentencias de amparo, deberán remitirse de inmediato al Ministro ponente, por conducto del secretario de estudio y cuenta que tenga a su cargo el asunto.
 
 OCTAVO.-El secretario general de Acuerdos, cuando reciba un proyecto de resolución en el que se proponga aplicar la sanción prevista en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, notificará por medio de oficio a las autoridades responsables contra las que se hubiese concedido el amparo, la fecha señalada para la vista del asunto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 28 DE ENERO DE 2000.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TRANSITORIOS:
 
@@ -79,4 +91,4 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 
 CERTIFICA:
 
-Que este Acuerdo Plenario 6/1998 relativo al trámite de los incidentes de inejecución, las inconformidades y las denuncias de repetición del acto reclamado, fue emitido por el Tribunal Pleno en sesión privada de nueve de noviembre de mil novecientos noventa y ocho, por unanimidad de nueve votos de los señores Ministros: presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.-México, Distrito Federal, a diez de noviembre de mil novecientos noventa y ocho.
+Que este Acuerdo Plenario 6/1998 relativo al trámite de los incidentes de inejecución, las inconformidades y las denuncias de repetición del acto reclamado, fue emitido por el Tribunal Pleno en sesión privada de nueve de noviembre de mil novecientos noventa y ocho, por unanimidad de nueve votos de los señores Ministros: presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.-México, Distrito Federal, a diez de noviembre de mil novecientos noventa y ocho (D.O.F. DE 17 DE NOVIEMBRE DE 1998).
