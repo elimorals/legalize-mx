@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1987-03-27"
+last_updated: "1987-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1987.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -781,17 +781,27 @@ IX.- Las demás que les señale esta Constitución.
 
 ### CAPITULO VII. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 50.
 
-El derecho de iniciar Leyes corresponde:
+El derecho a iniciar Leyes corresponde:
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
 I.- Al Gobernador del Estado.
 
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
 II.- A los Diputados al Congreso del Estado.
 
-III.- A los Ayuntamientos.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 1987)</small>
+
+III.- Al Tribunal Superior de Justicia, entratándose de la Ley Orgánica del Poder Judicial, y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
+
+IV.- A los Ayuntamientos en el ámbito de su competencia.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -985,9 +995,9 @@ Cuando la falta absoluta del Gobernador ocurra en los cuatro últimos años del 
 
 Llegado el caso de la desaparición de los poderes del Estado se observará el procedimiento establecido en la fracción V del artículo 76 de la Constitución Federal de la República.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1053,11 +1063,15 @@ XXIV.- Dirigir, controlar y concentrar el Registro Civil.
 
 XXV.- Crear, dirigir y controlar el Registro Público de la Propiedad conforme a las bases que establece para el efecto el Código Civil del Estado.
 
-XXVI.- Nombrar a los Magistrados del Tribunal Superior de Justicia, en los términos que esta Constitución establece.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
+
+XXVI.- Nombrar a los Magistrados del Tribunal Superior de Justicia, así como del Tribunal de lo Contencioso Administrativo, en los términos que esta Constitución establece.
 
 XXVII.- Con arreglo a las Leyes reducir las penas privativas de libertad impuestas por los tribunales y ejecutar las medidas que se propongan para la readaptación social de los sentenciados.
 
-XXVIII.- Proporcionar al Poder Judicial y en general a los órganos que administran justicia, los auxilios que le soliciten para el cumplimiento cabal de sus funciones.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
+
+XXVIII.- Proporcionar al Poder Judicial y en general a los órganos que administran justicia, los auxilios que le soliciten para el cumplimiento cabal de sus funciones. El Ejecutivo del Estado cuidará que el presupuesto asignado anualmente a la administración de justicia, procuración de justicia, seguridad pública, y tránsito, justicia administrativa y readaptación social, en ningún caso sea menor al 10% del total del presupuesto de egresos autorizado para el ejercicio correspondiente a las Dependencias del Gobierno del Estado.
 
 XXIX.- Solicitar del Congreso o de la Comisión Permanente en su caso, la destitución por mala conducta de los Magistrados del Tribunal Superior de Justicia, teniendo en cuenta lo que establece el artículo 112 de esta Constitución.
 
@@ -1083,7 +1097,7 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1099,19 +1113,19 @@ Las Leyes, decretos, reglamentos y demás disposiciones de carácter general que
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 77.
 
-Corresponde al Ministerio Público la persecución de todos los delitos del orden común y oficiales y por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Judicial.
+Corresponde al Ministerio Público la persecución de todos los delitos de orden común y, por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Judicial.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 78.
 
-El Ministerio Público estará a cargo de un Procurador de Justicia, dos Sub'Procuradores (sic) y los Agentes que determine su Ley Orgánica. El Procurador será el jefe de la Institución, el consejero jurídico del Poder Ejecutivo y representante del Estado en juicio, cuando la Ley lo disponga, salvo en los casos a que se refiere el artículo 105 de la Constitución Federal.
+El Ministerio Público estará a cargo de un Procurador General de Justicia y los Subprocuradores y Agentes que determine su Ley Orgánica, y el Presupuesto de Egresos. El Procurador será el Jefe de la Institución, el Consejero Jurídico del Poder Ejecutivo y Representante del Estado en juicio, cuando la Ley lo disponga, salvo en los casos a que se refiere el artículo 102 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1119,11 +1133,19 @@ El Ministerio Público estará a cargo de un Procurador de Justicia, dos Sub'Pro
 
 Para ser Procurador de Justicia se deberán satisfacer los mismos requisitos que esta Constitución señala a los Magistrados del Tribunal Superior. La Ley Orgánica determinará los requisitos para ser Sub'Procurador (sic) y Agente del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 80.
 
-El Procurador y los Sub'Procuradores (sic) serán libremente nombrados y removidos por el Gobernador del Estado. Los Agentes del Ministerio Público y demás funcionarios de la Procuraduría de Justicia serán nombrados y removidos libremente por el Gobernador a propuesta del Procurador.
+El Procurador y los Subprocuradores serán nombrados y removidos por el Gobernador del Estado. Los Agentes y demás servidores públicos de confianza de la Procuraduría y del Ministerio Público serán nombrados y removidos por el Gobernador a propuesta del Procurador.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 80 Bis.
+
+Habrá un Visitador General, Licenciado en Derecho, mayor de 25 años y de reconocida honorabilidad, designado y removido libremente por el Titular del Poder Ejecutivo, quien, sin intermediación de ninguna especie, dependerá directamente del Procurador General de Justicia y tendrá a su cargo, en los términos de las disposiciones aplicables, la vigilancia y evaluación de los establecimientos destinados a la detención y custodia de indiciados, procesados, sentenciados, sujetos a arresto administrativo y menores infractores, gozando al efecto de todas las facilidades que requiera para el cumplimiento de sus cometidos. El Visitar General deberá dar cuenta al propio Procurador de cualquier violación a los derechos humanos y, particularmente, a los derechos individuales que otorga el régimen Constitucional.
+
+Ese funcionario velará, en particular por la protección de los indígenas y campesinos que se encuentren en los referidos establecimientos.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1131,17 +1153,19 @@ El Procurador y los Sub'Procuradores (sic) serán libremente nombrados y removid
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en los demás Tribunales inferiores que establece la Constitución para administrar justicia en nombre del Estado en todos los negocios de su competencia y con arreglo a las Leyes.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 82.
 
-El Tribunal Superior de Justicia se integrará con los Magistrados numerarios y los supernumerarios que determine la Ley Orgánica del Poder Judicial y durarán en su cargo seis años.
+El Tribunal Superior de Justicia se integrará con 10 Magistrados Numerarios y 3 Supernumerarios, quienes durarán en su cargo seis años, pudiendo ser reelectos; pero si lo fueren, sólo podrán ser privados de sus cargos, en los términos del Título Décimo Tercero de esta Constitución.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+Los Magistrados percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el desempeño del cargo, y estarán impedidos para desempeñar un empleo o cargo de los Municipios, del Estado, de la Federación o de particulares, salvo los cargos honoríficos en asociaciones literarias, científicas y de beneficiencia (sic), actividades docentes y el ejercicio de su profesión en causa propia.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 83.
 
-El Tribunal Superior de Justicia funcionará en pleno y en salas o solamente en pleno conforme a lo que disponga la Ley Orgánica respectiva. Será presidido por el Magistrado que elija la corporación y el Presidente durará en su encargo un año pudiendo ser reelecto.
+El Tribunal Superior de Justicia funcionará en Pleno o en Salas Civil, Penal y Familiar. Los Tres Magistrados Supernumerarios podrán integrar una Sala Auxiliar, y formarán parte del Pleno solamente cuando suplan a los Numerarios, conforme a lo que disponga la Ley Orgánica respectiva. El Tribunal será presidido por el Magistrado que elija la corporación. El Presidente durará en su cargo un año y podrá ser reelecto.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1157,7 +1181,9 @@ Los Tribunales inferiores son:
 
 I.- Los Juzgados de Primera Instancia;
 
-II.- Los Juzgados Menores; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
+
+II.- Los Juzgados de Paz, y
 
 III.- Los que con cualquier denominación se crearen en lo sucesivo.
 
@@ -1177,6 +1203,10 @@ La Ley Orgánica respectiva determinará los requisitos que deban reunir los jue
 
 Los Magistrados y Jueces de Primera Instancia están impedidos para el ejercicio de su profesión excepto en causa propia, y no podrán desempeñar otro cargo, empleo o comisión oficiales que sean remunerados, salvo los de la docencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 1987)</small>
+
+La Ley Orgánica respectiva determinará los requisitos que deban reunir los Jueces de Paz y la forma de entrar en el desempeño de sus funciones.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 88.
@@ -1193,9 +1223,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1203,7 +1233,9 @@ Son atribuciones del Tribunal Superior de Justicia:
 
 I.- Nombrar a los Jueces de Primera Instancia, removerlos o adscribirlos a otro Distrito en los términos de la Ley Orgánica del Poder Judicial.
 
-II.- Designar y remover a los Jueces Menores, conforme a la Ley de la Materia.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
+
+II.- Jueces de Paz. (sic)
 
 III.- Nombrar y remover a los Secretarios y demás funcionarios del Tribunal.
 
@@ -1279,7 +1311,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1347,7 +1379,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1547,6 +1579,10 @@ El Ejecutivo del Estado ejercerá el control de las entidades paraestataes (sic)
 
 Las resoluciones que dicte la Administración Pública serán conforme a las normas que regulen el procedimiento administrativo y en contra de ellas podrán enderezarse, una vez agotada la vía administrativa, las acciones y recursos que señale la Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+En los términos del Artículo 115 de la Constitución General de la República, habrá un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía para dictar sus fallos, el cual resolverá las controversias de naturaleza administrativa y fiscal que se susciten entre los particulares y las autoridades administrativas del Estado y los Municipios, incluyendo los Organismos Públicos Descentralizados con funciones de autoridad. La Ley respectiva definirá su organización y competencia.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 119.
@@ -1641,7 +1677,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1665,9 +1701,9 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
 
@@ -1675,9 +1711,9 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2212,3 +2248,17 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 27 DE MARZO DE 1987.
 
 UNICO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+El Pleno del Tribunal Superior de Justicia instalará la Sala Familiar, en un Plazo no mayor de 9 meses, y el Poder Ejecutivo contará con un plazo de hasta 30 días para efectuar los respectivos nombramientos de Magistrados, a partir de que dicha Sala haya sido instalada.
+
+###### ARTICULO TERCERO.
+
+El primer párrafo del Artículo 82 entrará en vigor a partir del Período Constitucional del Ejecutivo del Estado que se inicia el 1o. de abril de 1993.
