@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2000-10-14"
+last_updated: "2001-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1781,18 +1781,6 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
 D) ADOPCION INTERNACIONAL
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
@@ -1804,6 +1792,18 @@ D) ADOPCION INTERNACIONAL
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
 
@@ -6223,11 +6223,19 @@ Si no fuere posible dar ese aviso, el gestor debe continuar su gestión hasta qu
 
 1800.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios, de acuerdo con las siguientes reglas:
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o la incapacidad total o parcial, temporal o definitiva, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2001)</small>
 
-II.- Si la víctima estuviere en edad y en condiciones de trabajar pero no percibiere utilidad o salario, o no pudieren determinarse éstos, el pago se hará tomando como base el salario mínimo del lugar; si no estuviere en edad o condiciones de trabajar se tomará como base la cantidad que no exceda del 75% del salario mínimo;
+I.- Cuando el daño se cause a las personas y produzca la muerte o la incapacidad total o parcial, temporal o definitiva, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando por base la utilidad o salario que perciba, siempre que ésta sea superior al doble a que se refiere la fracción siguiente, de lo contrario se estará a lo dispuesto por ella.
 
-III.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2001)</small>
+
+II.- Si la víctima estuviere en edad y en condiciones de trabajar pero no percibiere utilidad o salario o no pudieran determinarse éstos, el pago se hará tomando como base el doble del salario mínimo diario mas alto que esté en vigor en nuestra entidad, y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo; si no estuviere en edad o condiciones de trabajar, se tomará como base el 75% de dicho duplo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2001)</small>
+
+III.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2001)</small>
 
 IV.- Las anteriores disposiciones se observarán en el caso del artículo 2545 de este Código.
 
@@ -10104,3 +10112,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos que hayan sido celebrados con anterioridad a la entrada en vigor del mismo.
+
+P.O. 9 DE JUNIO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
