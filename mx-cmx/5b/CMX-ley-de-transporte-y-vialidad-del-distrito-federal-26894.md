@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2002-12-26"
+last_updated: "2004-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -618,13 +618,91 @@ Las unidades destinadas al servicio público de transporte de pasajeros y de car
 
 Quedan excluidos de esta disposición los vehículos eléctricos y de nueva tecnológica ecológica, los cuales se regirán por su manual de referencia.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+### CAPÍTULO II BIS. DE LA CONCESIÓN CON MEDIDAS ESPECÍFICAS PARA LA SEGURIDAD EN EL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS INDIVIDUAL
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 33 Bis.
+
+La concesión con medidas especificas para la seguridad en el servicio de transporte público de pasajeros individual, es el acto administrativo por virtud del cual, la Secretaría realiza la adecuación conferida a las concesiones otorgadas a la fecha, a una persona física o moral que así lo solicite para la prestación del servicio público local de pasajeros individual, utilizando bienes del dominio público o privado del Distrito Federal.
+
+Dicha concesión además de dar cumplimiento a los requisitos que se establecen en el capítulo anterior, condicionando su otorgamiento al cumplimiento de medidas adicionales que permitan y garanticen la protección y seguridad de los usuarios, el conductor y el vehículo.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
 ### CAPÍTULO III. DE LA VIGENCIA DE LAS CONCESIONES
 
 ### CAPÍTULO IV. DE LA CESIÓN O TRANSMISIÓN DE LAS CONCESIONES
 
-### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS
+###### Artículo 33 Ter.
 
-### CAPÍTULO VI. DE LA SUSPENSIÓN DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
+Previo al otorgamiento de la adecuación de la concesión con medidas específicas para la seguridad en el servicio de transporte público de pasajeros individual, el concesionario, deberá además de cumplir con el contenido del artículo 29 de esta Ley, con los siguientes requisitos ya sea por las personas físicas o titulares, según corresponda:
+
+I.- Presentar ante la oficina de la Secretaría un registro de los vehículos que prestan el servicio, Debiéndose crear un registro único y remitirlo a la Secretaría de Seguridad Pública del Distrito Federal. Asimismo los concesionarios deberán tenerlo a su disposición en el centro de información que al efecto deberán establecer;
+
+II.- Presentar un registro con los datos de los conductores de los vehículos que prestan el servicio. Estos datos deberán contener como mínimo el nombre, teléfono, licencia vigente, examen médico y documento que señale su acreditación en los cursos de capacitación. La información deberá hacerse llegar de la misma forma que en la fracción anterior a la Secretaría de Seguridad Pública del Distrito Federal; y
+
+III.- Las demás que determine esta Ley y su reglamento.
+
+La información que contendrán lo registros a que se refieren las fracciones I y II, deberán ser actualizadas mensualmente.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 33 Quáter.
+
+Son obligaciones del concesionario, además de las establecidas en el artículo 42 de la presente Ley:
+
+I.- Instalar un sistema de localización vía satelital monitoreado por la Secretaría de Seguridad Pública del Distrito Federal para cada uno de los vehículos sujetos a la adecuación de la concesión que determine la Secretaría y se ajusten a las necesidades del concesionario;
+
+II.- Disponer de un centro de información que funcione las 24 horas del día para la recepción de quejas y denuncias que presenten los usuarios, así como para el registro de llamadas que los pasajeros hagan para reportar la unidad que abordan y que corresponden a la concesión. Dicho centro de información podrá prestar servicio a varias concesiones o concesionarios;
+
+III.- Realizar anualmente cursos de capacitación y de actualización sobre vialidades, manejo, autodefensa, civismo y respeto al peatón entre otros;
+
+IV.- Utilizar para este tipo de concesión vehículos que tengan un máximo de 5 años de antigüedad, y garantizar que todos los documentos se encuentren en regla;
+
+V.- Colocar en cada una de las unidades:
+
+a) El tarjetón con los datos de identificación del conductor y del vehículo, ampliado en su tamaño normal. Tal documento deberá contener las medidas y mecanismos que imposibiliten su falsificación y deberá estar certificado;
+
+b) La copia ampliada y certificada de la licencia del conductor;
+
+c) La fotografía ampliada de la persona que conduce el vehículo concesionado, de forma tal que resulte visible para los usuarios;
+
+d) El número telefónico del centro de información a su cargo, de la Secretaría, de la Secretaría de Seguridad Pública del Distrito Federal, así como del registro de vehículos visible para los usuarios y de respuesta inmediata que permita constatar en ese momento que el vehículo que se aborda cuenta con los requisitos legales exigibles;
+
+e) Un radio comunicador que permita informar a su centro de información la ubicación, ruta y destino del vehículo concesionado; y
+
+f) Un color de vehículo diferente a los demás prestadores del servicio y que no se ubican en esta concesión.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 33 Quintus.- El usuario del servicio de transporte público individual tiene los siguientes derechos:
+
+I.- Conocer el número de licencia, tarjetón, fotografía y número de respuesta, dichos documentos deberán colocarse en un lugar visible del vehículo y serán del tamaño tal que permitan su lectura a distancia;
+
+II.- Obtener un recibo o factura que cumpla con los requisitos fiscales en el que conste el precio del viaje, desde su origen hasta el destino del servicio y los datos de la licencia y el tarjetón correspondiente, y
+
+III.- Escoger la ruta o recorrido que considere más adecuado para su destino. Si el usuario no opta por decidir el recorrido concreto, el servicio siempre será aquel que siga la ruta previsiblemente mas corta, señalando al usuario la distancia y el tiempo estimados de duración el servicio.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 33 Sextus.- Las autoridades competentes en la materia, sin perjuicio de lo que establezcan otros ordenamientos, deberán fomentar las medidas e instrumentos necesarios para garantizar la capacitación de los profesionales del sector de transporte público para pasajeros individual, especialmente en los rubros de seguridad, atención a los usuarios y de las principales calles y avenidas de la ciudad, de las normas de tránsito que al efecto se expidan, así como de todos aquellos aspectos que contribuyan a mejorar este servicio.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 33 Septimus.- Las autoridades competentes en la materia, promoverán con la colaboración del sector privado y de las instituciones públicas, la implantación progresiva de las nuevas tecnologías que permitan mejorar la prestación y seguridad del servicio de transporte público de pasajeros individual y dar cumplimiento a las obligaciones específicas que se establecen en este capítulo.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 33 Octavus.- La Secretaría, la Secretaría de Seguridad Pública del Distrito Federal, así como el centro de información de los concesionarios deberán proporcionar información sobre la debida acreditación del conductor y del vehículo como concesionarios para la prestación del servicio del transporte público con medidas específicas para la seguridad de los usuarios con base en el registro de vehículos y conductores.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 33 Novenus.- Para la aplicación del presente capítulo se estará en lo conducente, a lo establecido en el Título Segundo de la presente Ley.
+
+### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS
 
 ###### Artículo 34.
 
@@ -648,7 +726,7 @@ La falta de notificación no afectará el ejercicio de las facultades de la Secr
 
 Si la solicitud es presentada en tiempo y forma, la Secretaría tendrá como máximo un plazo de cuatro meses a partir de la fecha de presentación de la solicitud para resolver sobre su procedencia; si transcurrido dicho plazo la Secretaría no da respuesta, se entenderá que la prórroga es favorable sin necesidad de certificación y el concesionario, deberá presentar dentro de los cinco días siguientes, los comprobantes de pago de derechos y los documentos e información necesaria, para que dentro de los quince días posteriores, le sea otorgado el documento correspondiente.
 
-### CAPÍTULO VII. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES
+### CAPÍTULO VI. DE LA SUSPENSIÓN DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
 ###### Artículo 36.
 
@@ -698,7 +776,7 @@ Si agotado el plazo mencionado no se ha resuelto la petición respectiva, se ent
 
 Los derechos derivados de una concesión, el equipamiento auxiliar de transporte, los bienes muebles e inmuebles, las unidades y sus accesorios que estén afectos a la prestación del servicio público de transporte de pasajeros, sólo podrán ser gravados por el concesionario, mediante la conformidad expresa y por escrito de la Secretaría, sin cuyo requisito la operación que se realice, no surtirá efecto legal alguno.
 
-### CAPÍTULO VIII. DE LOS PERMISOS DE TRANSPORTE
+### CAPÍTULO VII. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES
 
 ###### Artículo 42.
 
@@ -750,7 +828,7 @@ XXI.- En general, cumplir con los preceptos de esta Ley y las disposiciones jur�
 
 Los servicios auxiliares y demás accesorios que se construyan en virtud de concesión, estarán bajo el cuidado del concesionario, durante el término señalado en la misma concesión; vencida ésta, la Secretaría supervisará el buen estado de las mismas.
 
-### CAPÍTULO IX. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS
+### CAPÍTULO VIII. DE LOS PERMISOS DE TRANSPORTE
 
 ###### Artículo 44.
 
@@ -760,7 +838,7 @@ Si las circunstancias que producen la suspensión se prolongan por más de cuare
 
 Una vez que cesen las causas de suspensión del servicio público de transporte, el concesionario deberá de inmediato reanudar su prestación.
 
-### CAPÍTULO X. DEL COMITÉ DE PROMOCIÓN PARA EL FINANCIAMIENTO DEL TRANSPORTE PÚBLICO
+### CAPÍTULO IX. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS
 
 ###### Artículo 45.
 
@@ -820,9 +898,15 @@ X.- No acatar en tiempo y forma, las disposiciones de la Secretaría relacionada
 
 XI.- Alterar o modificar en cualquier forma sin aprobación expresa y por escrito de la Secretaría, el diseño, estructura o construcción original de las unidades afectas al servicio;
 
-XlI.- Cuando se exhiba documentación apócrifa, o se proporcionen informes o datos falsos a la Secretaría; y
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
-XIII.- Las demás causas reguladas en el cuerpo de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
+XII.- Cuando se exhiba documentación apócrifa, o se proporcionen informes o datos falsos a la Secretaría;
+
+> <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+XIII.- Cuando se compruebe por la autoridad competente y en última instancia que el vehículo sujeto a concesión ha sido instrumento para la comisión de algún delito, por algún miembro operador o partícipe de la concesión; y
+
+XIV.- Las demás causas reguladas en el cuerpo de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 48.
 
@@ -854,7 +938,7 @@ El rescate que se declare conforme a esta disposición, otorgará el derecho al 
 
 En la declaratoria de rescate se establecerán las bases y lineamientos para la determinación de la indemnización, la cual no tomará en cuenta el valor intrínseco de la concesión, equipamiento auxiliar de transporte y bienes afectos a la prestación del servicio.
 
-### CAPÍTULO XI. DEL REGISTRO PÚBLICO DEL TRANSPORTE
+### CAPÍTULO X. DEL COMITÉ DE PROMOCIÓN PARA EL FINANCIAMIENTO DEL TRANSPORTE PÚBLICO
 
 ###### Artículo 51.
 
@@ -968,7 +1052,7 @@ Los reglamentos de la presente Ley establecerán el procedimiento, términos, co
 
 Con respecto al peso, dimensiones y capacidad a que se deben sujetar los vehículos de transporte de pasajeros, turismo y carga que transiten en el Distrito Federal, éstos se atendrán a lo estipulado en el Reglamento de Capacidades.
 
-### CAPÍTULO XII. DE LAS TARIFAS
+### CAPÍTULO XI. DEL REGISTRO PÚBLICO DEL TRANSPORTE
 
 ###### Artículo 62.
 
@@ -1034,7 +1118,7 @@ Los permisos para conducir un vehículo sólo serán validos en horario comprend
 
 A ninguna persona que porte una licencia o permiso para manejar expedido en el extranjero, se le permitirá conducir los vehículos de transporte de personas o de carga regulados en esta Ley.
 
-### CAPÍTULO I. DE LA CAPACITACIÓN Y EDUCACIÓN VIAL
+### CAPÍTULO XII. DE LAS TARIFAS
 
 ###### Artículo 69.
 
@@ -1070,7 +1154,7 @@ El funcionamiento del fondo se regirá por los criterios de equidad social y pro
 
 Con el propósito de renovar y mejorar el parque vehicular y la infraestructura del transporte público, la Secretaría deberá prever en su anteproyecto de presupuesto, los recursos que aportará al fondo, que no excederán del monto recaudado por concepto del pago de derechos de revista vehicular.
 
-### CAPÍTULO II. DE LAS ESCUELAS DE MANEJO
+### CAPÍTULO I. DE LA CAPACITACIÓN Y EDUCACIÓN VIAL
 
 ###### Artículo 71.
 
@@ -1120,7 +1204,7 @@ II.- A solicitud formal y por escrito de autoridad competente, que funde y motiv
 
 De toda información, registro, folio certificación que realice el Registro Público de Transporte, deberá expedirse constancia por escrito debidamente firmada por el servidor público competente, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga el Código Financiero.
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO II. DE LAS ESCUELAS DE MANEJO
 
 ###### Artículo 78.
 
@@ -1150,7 +1234,7 @@ Tomando en cuenta las circunstancias particulares de los usuarios, las situacion
 
 ## TÍTULO TERCERO. DE LA CAPACITACIÓN VIAL
 
-### CAPÍTULO II. DE LOS DERECHOS DE USUARIOS Y PEATONES
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 83.
 
@@ -1176,7 +1260,7 @@ La Secretaría establecerá en coordinación con las autoridades competentes, lo
 
 Con el fin de hacer efectivas la capacitación y educación vial en el Distrito Federal, la Secretaría creará un Comité de Seguridad Vial y contará con un cuerpo especializado en auxilio y seguridad vial que proporcione estos servicios a la población en general.
 
-### CAPÍTULO III. DE LAS MANIFESTACIONES PÚBLICAS EN LA VIALIDAD
+### CAPÍTULO II. DE LOS DERECHOS DE USUARIOS Y PEATONES
 
 ###### Artículo 85.
 
@@ -1200,7 +1284,7 @@ Es obligación de las personas físicas o morales que se dediquen a impartir cur
 
 ## TÍTULO CUARTO. DE LAS VIALIDADES Y EL TRÁNSITO
 
-### CAPÍTULO IV. DE LA INFRAESTRUCTURA Y ELEMENTOS INCORPORADOS A LA VIALIDAD
+### CAPÍTULO III. DE LAS MANIFESTACIONES PÚBLICAS EN LA VIALIDAD
 
 ###### Artículo 89.
 
@@ -1324,7 +1408,7 @@ I.- Que se procure el confinamiento en aquellos sistemas de transporte público 
 
 II.- Que en el Programa Integral de Transporte y Vialidad del Distrito Federal considere vialidades o carriles exclusivos para el tránsito de bicicletas y el fomento de la infraestructura del transporte masivo, corredores viales metropolitanos, red emergente y derechos de vía.
 
-### CAPÍTULO V. DE LA RED VIAL ESTRATÉGICA Y DE LOS CORREDORES METROPOLITANOS
+### CAPÍTULO IV. DE LA INFRAESTRUCTURA Y ELEMENTOS INCORPORADOS A LA VIALIDAD
 
 ###### Artículo 94.
 
@@ -1404,7 +1488,7 @@ En el transporte público de pasajeros colectivo, los niños menores de cinco a�
 
 Los sistemas de transporte masivo de pasajeros exentarán del pago de cualquier tarifa a los niños menores de cinco años y a los adultos mayores de sesenta años.
 
-### CAPÍTULO VI. DE LA NOMENCLATURA Y SEÑALIZACIÓN VIAL
+### CAPÍTULO V. DE LA RED VIAL ESTRATÉGICA Y DE LOS CORREDORES METROPOLITANOS
 
 ###### Artículo 105.
 
@@ -1426,7 +1510,7 @@ Seguridad Pública tomará las medidas necesarias para evitar el bloqueo en vía
 
 Los lineamientos referentes a este capítulo, se establecerán en el Reglamento correspondiente.
 
-### CAPÍTULO VII. DE LOS ESTACIONAMIENTOS
+### CAPÍTULO VI. DE LA NOMENCLATURA Y SEÑALIZACIÓN VIAL
 
 ###### Artículo 109.
 
@@ -1452,7 +1536,7 @@ IV.- Los relacionados con la publicidad y la preservación del entorno; y
 
 V.- Los demás elementos susceptibles legal y materialmente de incorporación.
 
-### CAPÍTULO VIII. DE LAS AUTORIZACIONES Y AVISOS DE INSCRIPCIÓN PARA EL USO DE LA VIALIDAD
+### CAPÍTULO VII. DE LOS ESTACIONAMIENTOS
 
 ###### Artículo 112.
 
@@ -1478,7 +1562,7 @@ Solo podrán circular por los carriles exclusivos de emergencia los vehículos d
 
 Las autoridades de la Administración Pública y las delegaciones pondrán especial atención en el control, ubicación, mantenimiento y preservación de los corredores metropolitanos, para implementar los proyectos de vialidad necesarios.
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VERIFICACIÓN
+### CAPÍTULO VIII. DE LAS AUTORIZACIONES Y AVISOS DE INSCRIPCIÓN PARA EL USO DE LA VIALIDAD
 
 ###### Artículo 118.
 
@@ -1508,7 +1592,7 @@ Los particulares están obligados a respetar la nomenclatura y señalización vi
 
 A efecto de no saturar las aceras, banquetas y guarniciones, ni deteriorar el entorno urbano o rural, deberá promoverse en donde sea posible y este permitido por la normatividad, la incorporación de señalización vial sobre la superficie de rodamiento, cuyo diseño, medidas y tipografía deberá contemplarse en el Manual respectivo.
 
-### CAPÍTULO II. DE LAS INFRACCIONES Y LAS SANCIONES
+### CAPÍTULO I. DE LA INSPECCIÓN Y VERIFICACIÓN
 
 ###### Artículo 125.
 
@@ -1526,7 +1610,7 @@ Las autoridades delegacionales podrán examinar en todo tiempo que las instalaci
 
 De acuerdo con el Programa Integral de Transporte y Vialidad del Distrito Federal, la Secretaría determinará los mecanismos para fomentar el desarrollo de los estacionamientos para todo tipo de vehículos, privilegiando su ubicación en zonas cercanas a los centros de transferencia modal, terminales y bases de servicio público de transporte, para buscar un uso racional de los automóviles particulares.
 
-### CAPÍTULO III. DE LAS CAUSAS DE REMISIÓN DE UNIDADES A LOS DEPÓSITOS VEHICULARES
+### CAPÍTULO II. DE LAS INFRACCIONES Y LAS SANCIONES
 
 ###### Artículo 128.
 
@@ -1650,7 +1734,7 @@ Las Delegaciones notificarán a las dependencias, instituciones o entidades de l
 
 ## TÍTULO QUINTO. DE LA VERIFICACIÓN, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO PARA EL RETIRO DE ELEMENTOS U OBJETOS DE LA VIALIDAD
+### CAPÍTULO III. DE LAS CAUSAS DE REMISIÓN DE UNIDADES A LOS DEPÓSITOS VEHICULARES
 
 ###### Artículo 145.
 
@@ -1756,7 +1840,7 @@ A fin de llevar a cabo las visitas de inspección y verificación, las autoridad
 
 La inspección y verificación en las vías federales ubicadas dentro del territorio del Distrito Federal, se sujetarán a lo establecido en los convenios respectivos y acordes con las disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO V. DE LOS DELITOS
+### CAPÍTULO IV. DEL PROCEDIMIENTO PARA EL RETIRO DE ELEMENTOS U OBJETOS DE LA VIALIDAD
 
 ###### Artículo 156.
 
@@ -1815,6 +1899,8 @@ Las sanciones que se señalan en este capítulo, se aplicarán sin perjuicio de 
 ###### Artículo 157.
 
 En caso de reincidencia, la Administración Pública podrá imponer una multa que oscilará entre el cincuenta por ciento y el cien por ciento adicional de las cuantías señaladas, de acuerdo con la gravedad de la infracción, las circunstancias de ejecución y las condiciones del infractor.
+
+### CAPÍTULO V. DE LOS DELITOS
 
 ###### Artículo 158.
 
@@ -1921,3 +2007,23 @@ Recinto Legislativo, a 10 de diciembre de 2002.
 POR LA MESA DIRECTIVA.- DIP. MARCO ANTONIO MICHEL DÍAZ, PRESIDENTE.- SECRETARIA, DIP. ALICIA VIRGINIA TELLEZ SÁNCHEZ.- SECRETARIO, DIP. MARCOS MORALES TORRES.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de diciembre del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTE Y VIALIDAD, FRANCISCO GARDUÑO YAÑEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, H. MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El siguiente decreto entrará en vigor a los 120 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO. Se derogan todas aquellas disposiciones que sean contrarias a lo dispuesto en el presente decreto.
+
+CUARTO. El Gobierno del Distrito Federal, deberá atender las provisiones necesarias en el Presupuesto de Egresos del Distrito Federal otorgado a las autoridades encargadas de su aplicación, para su implementación.
+
+QUINTO. Las personas físicas y morales que en el momento de la entrada en vigor del Capitulo II BIS, sean titulares de una o más concesiones que no correspondan a los que determina el artículo de referencia, podrán mantener la concesión en las mismas condiciones en que son explotadas actualmente o bien, someterse al conjunto de disposiciones que se establecen para la concesión con medidas específicas para la seguridad en el servicio de transporte público de pasajeros individual, no obstante, al primero de enero del año 2009, estarán obligados a someterse a las disposiciones establecidas para la concesión con medidas específicas para la seguridad en el servicio de transporte público de pasajeros individual.
+
+SEXTO. Las personas que a la entrada en vigor del Capítulo sobre la concesión para las medidas específicas de seguridad del transporte público de pasajeros individual, deseen ser conductores de estos vehículos, podrán obtener el título que les habilite para la prestación del servicio una vez que se sometan a la formación y capacitación que al efecto determine la Secretaría y cuenten con la licencia de manejo correspondiente.
+
+SÉPTIMO. La autoridad correspondiente deberá realizar las modificaciones reglamentarias necesarias.
+
+OCTAVO. La Secretaría y la Secretaría de Seguridad Pública, tendrán un término de 120 días para contar con el registro a que se refiere el artículo 33 ter, así como para dar cumplimiento al artículo 33 octavus de esta Ley.
