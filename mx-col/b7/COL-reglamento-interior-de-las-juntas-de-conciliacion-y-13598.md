@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-las-juntas-de-conciliacion-y-13598"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-21"
-last_updated: "1998-03-21"
+last_updated: "2001-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LAS JUNTAS DE CONCILIACION Y ARBITRAJE DEL ESTADO DE COLIMA Y ESPECIALES DE TECOMAN Y MANZANILLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 21 de marzo de 1998.
 
@@ -123,6 +123,10 @@ XXV.- Verificar antes de iniciar el trámite de cualquier emplazamiento a huelga
 
 XXVI.- Las demás que le confiere la Ley Federal del Trabajo y el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2001)</small>
+
+El Presidente de la Junta será sustituido en sus faltas temporales por la persona que determine el Gobernador del Estado.
+
 ### CAPÍTULO TERCERO. De los Presidentes de las Juntas Especiales
 
 ###### ARTÍCULO 7.
@@ -175,6 +179,10 @@ XXII.- Dar cuenta al Director del Trabajo de las faltas de los representantes de
 
 XXIII.- Las demás que le confiera la Ley y el presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2001)</small>
+
+Los presidentes de las Juntas Especiales serán sustituidos en sus faltas temporales por la persona que determine el Gobernador del Estado.
+
 ### CAPÍTULO CUARTO. De los Representantes de los Trabajadores y Patrones
 
 ###### ARTÍCULO 8.
@@ -203,7 +211,7 @@ VIII.- Las demás que les sean conferidas por la Ley en la esfera de sus atribuc
 
 Los Secretarios Generales tienen las facultades y obligaciones siguientes:
 
-I.- Substituir al Presidente Titular de la Junta en sus faltas temporales y en las definitivas en tanto no se haga nuevo nombramiento.
+I.- (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2001)
 
 II.- Autorizar todos los acuerdos de la Junta en Pleno y los del Presidente dictados en aquellos negocios que conozca.
 
@@ -810,3 +818,9 @@ Para el debido conocimiento del presente Reglamento, deberá entregarse un ejemp
 Dado en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Colima, Colima, a los 2 días del mes de marzo de mil novecientos noventa y ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
