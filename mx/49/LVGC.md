@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1941-08-20"
+last_updated: "1942-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1942.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -3862,9 +3862,11 @@ El capitán o armador de alguna embarcación que ostente en ella banderas o dist
 
 La circulación de aeronaves no inscritas en el registro de la Secretaría de Comunicaciones, se castigará con una multa de doscientos a mil pesos. En la misma pena incurrirán los propietarios de aeronaves extranjeras que sin autorización previa del Gobierno Mexicano, vuelen, aterricen o acuaticen dentro de las fronteras del país, o en aguas territoriales mexicanas, salvo casos fortuitos o de fuerza mayor.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1942)</small>
+
 ###### ARTICULO 556.
 
-La contradicción a lo dispuesto en el artículo 320, se sancionará con multa de veinte a cien pesos.
+La infracción del artículo 320, se sancionará con multa de un mil a cinco mil pesos, la que será impuesta discrecionalmente por la autoridad.
 
 ###### ARTICULO 557.
 
@@ -4115,6 +4117,10 @@ D.O.F. 20 DE AGOSTO DE 1941.
 PRIMERO.- Entretanto se expide el Reglamento de la Comisión Consultativa de Tarifas, continuarán en vigor las disposiciones del Reglamento de fecha 7 de septiembre de 1940, en lo que no se oponga a las reformas de este decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 9 DE ENERO DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 3.
 
