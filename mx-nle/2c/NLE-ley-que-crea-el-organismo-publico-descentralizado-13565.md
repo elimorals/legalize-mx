@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13565"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-09"
-last_updated: "1991-05-20"
+last_updated: "1997-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 9 de noviembre de 1987.
 
 EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el H: Congreso del Estado ha tenido a bien decretar lo que sigue:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
 D E C R E T O N U M. 1 1 8
 
@@ -49,7 +49,9 @@ El organismo tendrá por objeto:
 
 Llevar a cabo las acciones necesarias para la construcción del Metro en la Ciudad de Monterrey y su área metropolitana.
 
-En su caso, administrar y operar este servicio público, una vez que entre en funcionamiento.
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1997)</small>
+
+En su caso, administrar y operar este servicio público, así como atender, por sí o por terceras personas físicas o morales, la administración, operación y mantenimiento de otros medios de transporte que sirvan de alimentadores del Metro.
 
 ###### ARTICULO 3o.
 
@@ -65,7 +67,15 @@ IV.- Adquirir y enajenar bienes muebles e inmuebles; realizar y celebrar actos y
 
 V.- Promover el apoyo y la cooperación económica de la comunidad en la construcción del Metro.
 
-VI.- En general, realizar todos los actos y operaciones que sean necesarios para cumplir con su objeto en los términos de la presente ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1997)</small>
+
+VI.- Planear, presupuestar, administrar, prestar y ejecutar, por sí o a través de terceros, el servicio público urbano y en su caso suburbano de transporte de personas en camiones o cualquier otro medio, tratándose de las rutas que se establezcan como enlace con el Metro para ampliar la cobertura de este servicio, en los términos de la legislación aplicable y de conformidad con la normatividad que emitan las Dependencias competentes.
+
+La autorización para la administración de las Rutas de Enlace en favor de terceros se sujetará a los requisitos y normatividad que para tal efecto establecerán las autoridades competentes en coordinación con METRORREY.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1997)</small>
+
+VII.- En general, realizar todos los actos y operaciones que sean necesarios para cumplir con su objeto en los términos de la presente Ley y demás ordenamientos jurídicos aplicables.
 
 ### CAPITULO II
 
@@ -153,9 +163,11 @@ IV.- Proponer en cada caso el orden del día que se deberá desahogar en la sesi
 
 V.- Las demás facultades que le sean expresamente señaladas por el Presidente del Consejo de Administración y por el Reglamento Interior del Organismo.
 
-###### Artículo 9o.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1997)</small>
 
-El Consejo de Administración se reunirá por lo menos una vez al mes y cuantas veces fuere convocado por el Presidente. El Consejo de Administración funcionará legalmente con la asistencia de la mitad más de uno de sus miembros y sus resoluciones serán validas cuando fueren adoptadas por el voto de la mayoría de los presentes.
+###### ARTICULO 9o.
+
+Las sesiones del Consejo de Administración podrán ser ordinarias y extraordinarias; las ordinarias deberán celebrarse, cuando menos, una vez cada tres meses; las sesiones extraordinarias se efectuarán cuantas veces sea necesario, a moción del Presidente. El Consejo de Administración funcionará legalmente con la asistencia de la mitad más uno de sus miembros y sus resoluciones serán validas cuando fueren adoptadas por el voto de la mayoría de los presentes.
 
 ###### ARTICULO 10o.
 
@@ -189,9 +201,11 @@ VI.- Velar por la buena marcha del organismo y tomar las medidas administrativas
 
 VII.- Las demás que establezcan las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 13o.
 
-Para llevar a cabo las labores de vigilancia de la operación del Organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Secretaría de la Contraloría General del Estado en los términos de la Fracción IX del Artículo 28 de la Ley Orgánica de la Administración Pública y de las demás disposiciones jurídicas aplicables.
+Para llevar a cabo las labores de vigilancia de la operación del Organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Secretaria de la Contraloría General del Estado, en los términos de la Ley Orgánica de la Administración Pública y para el Estado y demás disposiciones jurídicas aplicables.
 
 ### CAPITULO III
 
@@ -219,9 +233,11 @@ Los bienes y derechos que integren el patrimonio del organismo estarán afectos 
 
 Las relaciones laborales entre el organismo y su personal se regirán por las disposiciones de la Ley del Servicio Civil y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 17o.
 
-Las relaciones del organismo con la administración centralizada se regirán por lo dispuesto en el Artículo 87 de la Constitución del Estado, y 33, 34 y demás relativos de la Ley Orgánica de la Administración Pública.
+Las relaciones del Organismo con la administración centralizada se regularán por lo dispuesto en el Artículo 87 de la Constitución Política del Estado y relativos de la Ley Orgánica de la Administración Pública.
 
 T R A N S I T O R I O :
 
@@ -246,3 +262,9 @@ LIC. LUCAS DE LA GARZA GONZALEZ
 P.O. 20 DE MAYO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 31 DE ENERO DE 1997.
+
+Artículo Primero:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo segundo:- Por conducto de METRORREY, en coordinación con las Dependencias competentes y considerando las recomendaciones técnicas del Consejo Estatal de Transporte, de manera previa a la entrada en operación del servicio público urbano y en su caso suburbano de transporte de personas en camiones u otro medio de transporte que sirva de enlace con el Metro, se establecerán y difundirán los itinerarios, frecuencias de paso, horarios, tarifas y demás aspectos inherentes al servicio.
