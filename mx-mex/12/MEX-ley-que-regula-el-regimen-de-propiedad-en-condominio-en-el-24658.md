@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2002-12-10"
+last_updated: "2003-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 4 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -71,9 +71,11 @@ IX. Residente: persona que en calidad de poseedor por cualquier título legal, a
 
 X. Reglamento Interior del Condominio: conjunto de acuerdos de observancia obligatoria por los condóminos y residentes, en los que se establecen las normas internas de convivencia de un condominio. Es aprobado por la asamblea y se hará constar en testimonio notarial.
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 3.
 
-Son autoridades competentes para la aplicación de la presente Ley, la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado, los ayuntamientos y las demás que señale el presente ordenamiento.
+Son autoridades competentes para la aplicación de la presente Ley, la Secretaría de Desarrollo Urbano y Vivienda del Gobierno del Estado, los ayuntamientos, el Poder Judicial del Estado de México y las demás que señale el presente ordenamiento.
 
 ### CAPITULO SEGUNDO. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -107,9 +109,17 @@ Los condominios podrán ser de tipo habitacional social progresivo, de interés 
 
 Según la naturaleza de quien los constituya, los condominios serán: de orden privado, los que constituyan los particulares; y de orden público, los constituidos por instituciones u organismos públicos de la Federación, el Estado o los municipios.
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 8.
 
-Los condominios por su estructura podrán ser: verticales, horizontales y mixtos.
+Los condominios por su estructura podrán ser:
+
+I. Condominio vertical: la modalidad en la cual cada condómino es propietario exclusivo de un piso, departamento, vivienda o local de un edificio y además copropietario de sus elementos o partes comunes, así como del terreno e instalaciones de uso general;
+
+II. Condominio horizontal: la modalidad en la cual cada condómino es propietario exclusivo de un área privativa del terreno y en su caso, de la edificación que se construya en ella, a la vez que copropietario de las áreas, edificios e instalaciones de uso común;
+
+III.- Condominio mixto: La combinación en un mismo predio de las modalidades señaladas en las fracciones precedentes.
 
 ###### Artículo 9.
 
@@ -127,17 +137,23 @@ V. El uso general del condominio y el particular de cada unidad de propiedad exc
 
 VI. Los bienes de propiedad común, sus medidas y colindancias, usos y datos que permitan su plena identificación;
 
-VII. Los datos de identificación de la póliza de fianza o de la hipoteca que se hubiere rendido, para responder de la ejecución de la construcción y de los vicios ocultos de ésta;
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-VIII. Las cuotas iniciales para la construcción de los fondos de mantenimiento y administración y de reserva, respectivamente;
+VII. Los datos de identificación de la póliza de garantía, para responder de la ejecución de la construcción y de los vicios ocultos de ésta;
+
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+VIII. La obligación de los condóminos de aportar las cuotas que determine la Asamblea para el mantenimiento y administración del condominio, así como para la constitución del fondo de reserva correspondiente;
 
 IX. Los casos y condiciones en que puede ser modificada la escritura constitutiva.
 
 Al apéndice de la escritura, se agregarán debidamente certificados por fedatario público, el plano general, los planos de cada una de las unidades de propiedad exclusiva, así como el Reglamento Interior del Condominio.
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 10.
 
-La escritura constitutiva del régimen de propiedad en condominio y aquellas en la que consten actos de dominio que afecten el condominio, deberán inscribirse en el Registro Público de Propiedad.
+La escritura constitutiva del régimen de propiedad en condominio de inmuebles, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Registro Público de la Propiedad y ante el organismo correspondiente, según el caso.
 
 ###### Artículo 11.
 
@@ -151,9 +167,13 @@ Para la modificación se observará el mismo procedimiento que para su constituc
 
 ### CAPITULO TERCERO. DE LOS BIENES DE PROPIEDAD EXCLUSIVA Y DE LOS BIENES DE PROPIEDAD COMÚN
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 13.
 
-En el régimen de propiedad de condominio, los titulares de una unidad de propiedad exclusiva gozarán de los derechos de que como propietario les otorga la legislación civil.
+En el régimen de propiedad en condominio, cada titular disfrutará de sus derechos en calidad de copropietario, en los términos previstos en la Legislación Civil del Estado de México.
+
+El derecho de copropiedad sobre los elementos comunes del inmueble es accesorio e indivisible del derecho de propiedad privativo sobre la unidad de propiedad exclusiva, por lo que no podrá ser enajenable, gravable o embargable separadamente de la misma Unidad.
 
 ###### Artículo 14.
 
@@ -164,6 +184,10 @@ Los condóminos y residentes del condominio usarán sus unidades exclusivas de p
 ###### Artículo 15.
 
 Cuando el condómino arrende, subarriende u otorgue en comodato su unidad de propiedad exclusiva, será solidariamente responsable junto con su arrendatario, subarrendatarios o comodatario de sus obligaciones respecto del condominio. El condómino y el residente convendrán entre sí el cumplimiento de las obligaciones ante los demás condóminos y los casos en que el residente podrá tener la representación del condómino en las asambleas que se celebren.
+
+> <small>(ADICIONADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+En la venta de una unidad de propiedad exclusiva que se encuentre en arrendamiento, el arrendatario tendrá el derecho de preferencia para su adquisición, quedando en segundo término el derecho de los copropietarios.
 
 ###### Artículo 16.
 
@@ -255,7 +279,9 @@ I. Las obras necesarias para mantener la seguridad, estabilidad y conservación 
 
 II. Para realizar obras que se traduzcan en mejor aspecto o mayor comodidad, que no aumenten el valor del condominio u obras que sin ser necesarias si lo aumenten, se requerirá el voto aprobatorio de las dos terceras partes de los condóminos;
 
-III. El enajenante es responsable de los vicios de construcción del condominio. El resto de los condóminos podrán proceder a la reparación de los mismos en la proporción que cada uno represente sobre el valor total del condominio, dejando a salvo sus derechos para repetir contra aquél o hacer efectiva la fianza que prevé el artículo 9 de esta Ley.
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+III. El enajenante es responsable de los vicios de construcción del condominio. El resto de los condóminos podrá proceder a la reparación de los mismos en la proporción que cada uno represente sobre el valor total del condominio, dejando a salvo sus derechos para repetir contra aquél o hacer efectiva la póliza de garantía que prevé el artículo 9 de esta Ley.
 
 Se prohíben todos los actos y obras que pongan en peligro la seguridad, estabilidad y conservación de la construcción o afecten la comodidad del condómino; los que impidan permanentemente el uso de una parte o servicio común, aunque sea a uno sólo de los condóminos; y los que dañen o demeriten cualquiera de las unidades de propiedad exclusiva. En los dos últimos casos las obras podrán llevarse a cabo, si existe acuerdo unánime entre los condóminos y en el último, además, si se indemniza al afectado a su plena satisfacción.
 
@@ -283,7 +309,9 @@ Las asambleas serán de dos tipos: generales y extraordinarias; para su celebrac
 
 I. Las generales se celebrarán por lo menos cada seis meses y tanto éstas como las extraordinarias, cuantas veces sean convocadas conforme a esta Ley y al reglamento interior del condominio;
 
-II. Cada condómino gozará de un voto, independientemente del porcentaje del valor que su unidad de propiedad exclusiva represente en el total del condominio;
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+II. Cada condómino gozará de un voto por unidad de propiedad exclusiva del total del bien condominal, tratándose de condominios comerciales e industriales. En los otros casos, de un solo voto no importando cuantas unidades de propiedad exclusivas posea;
 
 III. La votación será personal, nominal y directa, sin perjuicio de que el reglamento interior del condominio determine otros procedimientos;
 
@@ -323,9 +351,11 @@ X. Modificar la escritura constitutiva del condominio, en los casos y condicione
 
 Tratándose de unidades habitacionales de más de sesenta viviendas o locales, las facultades establecidas en las fracciones I, V Y VI, corresponderán a las asambleas por manzana o por lote.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 30.
 
-Los condominios serán administrados por un comité de administración o por un administrador, que designará la asamblea, mismo que durará en su cargo un año, teniendo la posibilidad de reelegirse únicamente hasta por otro período igual.
+Los condominios serán administrados por un Comité de Administración o por un administrador que designará la Asamblea General, por el tiempo que ésta determine, salvo cuando la designación recaiga en un condómino, en cuyo caso durará en el cargo de uno a tres años, según lo disponga la asamblea.
 
 En el caso de que se opte por un administrador, éste podrá ser o no alguno de los condóminos. Si lo es, quedará exceptuado por acuerdo de la asamblea de otorgar la garantía a que se refiere la fracción III del artículo anterior. Si la administración recae en un comité, éste tomará sus resoluciones por acuerdo de por lo menos las dos terceras partes de sus miembros, en caso de desacuerdo, someterá el asunto a la asamblea. El comité designara a la persona a cuyo cargo estará la ejecución material de los actos de administración.
 
@@ -392,6 +422,14 @@ Cuando un condominio conste de diferentes partes y comprenda diversas áreas de 
 ###### Artículo 36.
 
 Las cuotas para gastos comunes que los condóminos no cubran puntualmente, causarán intereses moratorios al tipo legal o al que fije el Reglamento Interior del Condominio, pudiendo hacerse efectivo a través del administrador o comité de administración por acuerdo de la asamblea o en su caso, por la mesa de arbitraje, siempre que la promoción sea suscrita por el administrador o por el presidente de la mesa directiva, acompañada de los recibos pendientes de pago, así como copia del acta de asamblea en que se hayan determinado las cuotas.
+
+> <small>(ADICIONADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+Las cuotas o aportaciones fijadas por la asamblea, constituyen obligaciones de carácter civil por lo tanto, podrán ser exigibles por la vía judicial correspondiente.
+
+> <small>(ADICIONADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+Se podrá solicitar el embargo precautorio de bienes para asegurar el pago de las obligaciones respectivas, en términos de la legislación civil aplicable.
 
 ###### Artículo 37.
 
@@ -467,33 +505,45 @@ Es obligación de las autoridades municipales proporcionar a los condominios los
 
 De manera semestral, los ayuntamientos por conducto de las dependencias competentes, realizarán campañas tendientes a la promoción de la cultura condominal, en las que deberán realizar charlas, conferencias y entrega de material que contenga los derechos y obligaciones de condóminos y residentes, así como las vías y procedimientos a seguir en caso de controversias.
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 46.
 
-Los Ayuntamientos a través de las Oficialías Conciliadoras y Calificadoras, serán la autoridad competente para desahogar los procedimientos arbitrales para resolver controversias en materia de propiedad en condominio.
+El Síndico Municipal, será competente para desahogar los procedimientos arbitrales para resolver controversias en materia de propiedad en condominio.
 
 ### CAPITULO OCTAVO. DE LA RESOLUCION DE CONTROVERSIAS
 
 ## TITULO PRIMERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 47.
 
-Los condóminos que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento General de Condominio o el acta constitutiva del condominio, podrán ser sancionados con:
+Los condóminos que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento General del Condominio o el acta constitutiva del condominio, podrán ser sancionados con:
 
-I. El pago de intereses moratorios en los términos que establezca el Reglamento Interior del Condominio y la restricción del derecho de voto en las asambleas, por no cumplir en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva;
+I. Multa de hasta 100 días de salario mínimo general vigente en el área geográfica que corresponda y cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común que se hubiesen dañado por un mal uso o negligencia;
 
-II. Cubrir el costo que se genere por la reparación o reestablecimiento de los bienes, servicios o áreas de uso común que se hubiesen dañado por un mal uso o negligencia;
+II. Multa de 10 a 150 días de salario mínimo general vigente en el área geográfica que corresponda, el pago de intereses moratorios en los términos que establezca el Reglamento Interior del Condominio y la restricción del derecho de voto en las asambleas, por no cumplir en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva;
 
-III. Multa equivalente a dos aportaciones del fondo de mantenimiento y administración, independientemente de la demolición de las obras realizadas en contravención de lo dispuesto en los artículos 20 fracción IV y 24 de la presente Ley;
+III. Multa de 15 a 100 días de salario mínimo general vigente en el área geográfica que corresponda a los condóminos o residentes que incumplan con las obligaciones señaladas en las fracciones II y III del artículo 20;
 
-IV. Multa equivalente a una aportación del fondo de mantenimiento y administración a los condóminos o residentes que incumplan con las obligaciones señaladas en las fracciones II y III del artículo 20.
+IV. Las multas aplicables por la inobservancia de lo establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley, serán de 20 a 40 días de salario mínimo general vigente en el área geográfica que corresponda;
+
+V. Multa de 20 a 100 días de salario mínimo general vigente en el área geográfica que corresponda, independientemente de la demolición de las obras realizadas en contravención de lo dispuesto en los artículos 20 fracción IV y 24 de la presente Ley;
+
+VI. Multa de 50 a 200 días de salario mínimo general vigente en el área geográfica que corresponda al condómino que transgreda lo estipulado en las fracciones I, VI y VII del artículo 20.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 48.
 
-Las sanciones aplicables por la inobservancia de lo establecido en las fracciones I, V, VI, VII, VIII, IX Y X del artículo 20 de esta Ley, serán determinadas por la asamblea que al efecto convoque el administrador o el comité de administración. La resolución que se adopte, será notificada dentro de los cinco días siguientes.
+Las sanciones señaladas en el artículo que antecede, serán impuestas y valoradas por el Síndico Municipal, las cuales por la vía administrativa correspondiente las harán valer a favor de la hacienda pública municipal.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 49.
 
-Si transcurridos diez días posteriores a aquel en que fue notificado el condómino del acuerdo de la asamblea en que se determinó la sanción o se firmó el convenio ante la Oficialía Conciliadora y Calificadora, éste no cumpliera con la misma, el administrador o comité de administración procederá a hacerlo del conocimiento de la autoridad municipal para que ésta la haga efectiva.
+Para hacer efectivas las multas impuestas por el Síndico Municipal, se seguirá el trámite administrativo de ejecución correspondiente.
 
 ###### Artículo 50.
 
@@ -501,13 +551,11 @@ Las controversias que se susciten con motivo del incumplimiento de las obligacio
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO DE ARBITRAJE
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 51.
 
-El procedimiento de arbitraje se substanciará ante las mesas de arbitraje de las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento correspondiente, las cuales contarán con plena libertad y autonomía para emitir sus laudos e imponer las sanciones previstas en la presente ley.
-
-Sus laudos tendrán imperio legal y las autoridades podrán contar con el auxilio de la fuerza pública para ser acatados.
-
-Las mesas de arbitraje estarán a cargo preferentemente de profesionales en derecho, quienes deberán cuando lo amerite el caso, auxiliarse de peritos y áreas técnicas de la administración municipal.
+El procedimiento de arbitraje se substanciará ante el Síndico Municipal, el cual contará con plena libertad y autonomía para emitir sus laudos e imponer las sanciones previstas en la presente Ley.
 
 ###### Artículo 52.
 
@@ -555,17 +603,17 @@ Terminada la instrucción del procedimiento, la mesa de arbitraje dictará el la
 
 ## TITULO TERCERO. DE LA MEDIACION Y CONCILIACION
 
-> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 59.
 
-Las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento hasta antes de emitir sus laudos, podrán remitir a las partes al Centro de Mediación y Conciliación del Poder Judicial, con el intento de que se avengan, previo el consentimiento de estas que conste de manera fehaciente.
+El Síndico Municipal hasta antes de emitir sus laudos, podrá remitir a las partes al centro de mediación y conciliación del poder judicial del estado, previo el consentimiento de éstas que conste de manera fehaciente.
 
-> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 60.
 
-La Mediación y conciliación tiene el carácter de voluntarias y suspenden el procedimiento de arbitraje previsto en el título segundo de la presente ley hasta por sesenta días hábiles.
+La mediación o conciliación tiene el carácter de voluntaria y suspende el procedimiento de arbitraje previsto en el título segundo de la presente ley hasta por sesenta días hábiles.
 
 > <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -608,3 +656,11 @@ G.G. 10 DE DICIEMBRE DE 2002.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 4 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los Ayuntamientos de los municipios del Estado, proveerán de acuerdo a sus atribuciones, lo conducente para la tramitación del procedimiento arbitral y la expedición del reglamento correspondiente en un plazo no mayor de un mes, a partir de la vigencia del presente decreto.
