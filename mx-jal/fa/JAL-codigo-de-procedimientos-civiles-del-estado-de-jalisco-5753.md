@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1955-03-03"
+last_updated: "1957-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1957.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -382,13 +382,17 @@ IV.- La suspensión que no exceda de un mes.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir que se le oiga en justicia, lo que se hará en una audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 1957)</small>
 
 ###### ARTICULO 60.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren inhábiles.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año menos los domingos y días 1o. de enero, 5 de febrero, 21 de marzo, 1o. y 5 de mayo, 16 de septiembre, 12 de octubre, 20 de noviembre, y 6 y 25 de diciembre. Los demás días hasta hoy declarados festivos o luctuosos, lo serán para la conmemoración respectiva, pero no impedirán las actuaciones judiciales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 Se entienden horas hábiles las que median desde las siete a las dieciocho horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes no hay días ni horas inhábiles. En los demás casos el Juez o Tribunal podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
 Comenzada una diligencia podrá concluirse aún cuando se hayan acabado las horas señaladas como hábiles.
 
@@ -2606,7 +2610,7 @@ Las demás presunciones legales hacen prueba plena, mientras no se pruebe lo con
 
 ###### ARTICULO 416.
 
-Para que la presunción de cosa juzgada surta efecto en otro juicio, es necesario que entre el caso resuelto por la sentencia y aquél en que ésta sea invocada, concurra identidad en la cosas, las causas, las personas de los litigantes y la calidad con que lo fueren.
+Para que la presunción de cosa juzgada surta efecto en otro juicio, es necesario que entre el caso resuelto por la sentencia y aquél en que ésta sea invocada, concurra identidad en las cosas, las causas, las personas de los litigantes y la calidad con que lo fueren.
 
 En las cuestiones relativas al estado civil de las personas y a las de validez o nulidad de las disposiciones testamentarias, la presunción de cosa juzgada es eficaz contra terceros, aunque no hubiesen litigado.
 
@@ -6673,3 +6677,7 @@ UNICO.- Estas reformas empezarán a surtir sus efectos, treinta días después d
 P.O. 3 DE MARZO DE 1955.
 
 UNICO.- Las reformas anteriores comenzarán a surtir sus efectos treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 1957.
+
+UNICO.- Esta Ley comenzará a surtir sus efectos quince días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
