@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2003-05-15"
+last_updated: "2004-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -130,29 +130,49 @@ En el segundo caso del artículo 6° el Agente del Ministerio Público presentar
 
 ### CAPITULO I BIS. De las víctimas o los ofendidos por algún delito
 
-(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 9º.
+###### ARTICULO 9°.
 
-Las víctimas o los ofendidos por la comisión de un delito tendrán derecho, en la averiguación previa o en el proceso, según corresponda:
+Los denunciantes, querellantes y las víctimas u ofendidos por la comisión de un delito tendrán derecho, en la averiguación previa o en el proceso, según corresponda:
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 I.- A que el Ministerio Público y sus Auxiliares les presten los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y eficacia y con la máxima diligencia;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 II.- A que los servidores públicos los traten con la atención y respeto debido a su dignidad humana absteniéndose de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio, abuso o ejercicio indebido de la autoridad;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 III.- A que ningún servidor público por sí o por interpósita persona les soliciten, acepten o reciban, beneficios adicionales a las contraprestaciones comprobables que el Estado les otorga por el desempeño de su función;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 IV.- A presentar cualquier denuncia o querella por hechos probablemente constitutivos de delito y a que el Ministerio Público las reciba;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 V.- A que se les procure justicia de manera pronta, gratuita e imparcial respecto de sus denuncias o querellas, practicando todas las diligencias necesarias para poder determinar la averiguación previa;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 VI.- A recibir asesoría jurídica por parte de la Procuraduría General de Justicia del Distrito Federal respecto de sus denuncias o querellas y, en su caso, a recibir servicio de intérpretes traductores cuando pertenezcan a un grupo étnico o pueblo indígenas(sic), no conozcan o no comprendan bien el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 VII.- A ratificar en el acto la denuncia o querella siempre y cuando exhiban identificación oficial u ofrezcan los testigos de identidad idóneos;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 VIII.- A contar con todas las facilidades para identificar al probable responsable;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 IX.- A recibir en forma gratuita copia simple de su denuncia o querella ratificada debidamente o copia certificada cuando la solicite, de conformidad con lo previsto por el presente Código y por el Código Financiero del Distrito Federal;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 X.- A coadyuvar con el Ministerio Público en la integración de la averiguación y en el desarrollo del proceso;
 
@@ -160,7 +180,11 @@ X.- A coadyuvar con el Ministerio Público en la integración de la averiguació
 
 XI.- A comparecer ante el Ministerio Público para poner a su disposición todos los datos conducentes a acreditar el cuerpo del delito, la responsabilidad del indiciado y el monto del daño y de su reparación y a que el Ministerio Público integre dichos datos a la averiguación;
 
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
 XII.- A tener acceso al expediente para informarse sobre el estado y avance de la averiguación previa;
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 XIII.- A que se les preste la atención médica de urgencia cuando la requieran;
 
@@ -184,17 +208,23 @@ XVII.- A ser restituidos en sus derechos cuando éstos estén acreditados;
 
 XVIII.- A quejarse ante la Contraloría Interna de la Procuraduría General de Justicia del Distrito Federal y a denunciar ante la Fiscalía para Servidores Públicos o ante cualquier agente del Ministerio Público, por violaciones de los derechos que se señalan, para su investigación y responsabilización debidas;
 
-XIX.- A impugnar las determinaciones de no ejercicio de la acción penal; y
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-XX.- En caso de que deseen otorgar el perdón, a ser informada claramente del significado y la trascendencia jurídica de ese acto.
+XIX.- A impugnar las determinaciones de no ejercicio de la acción penal; y (sic)
+
+(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+
+XX.- En caso de que deseen otorgar el perdón, a ser informada claramente del significado y la trascendencia jurídica de ese acto;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico así como el de los testigos de cargo, en caso de delitos graves e igualmente en caso de delitos no graves, cuando así lo solicite.
+
+(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 El sistema de auxilio a la víctima del delito dependerá de la Procuraduría General de Justicia del Distrito Federal.
 
 (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
-
-###### ARTICULO 9°.
-
-El Ejecutivo, a medida que lo permitan las condiciones económicas de las Delegaciones del Distrito Federal y de los Territorios, substituirá los Jueces Menores y Mixtos de Primera Instancia por Cortes Penales y Juzgados Penales de Paz.
 
 ###### ARTICULO 9º Bis.
 
@@ -1146,23 +1176,17 @@ I. Que el Ministerio Público la haya solicitado; y
 
 II. Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 133.
 
-En los casos a que se refiere el tercer párrafo del artículo 271 de este Código, y en todos aquellos en que el delito no dé lugar a aprehensión, a pedimento del Ministerio Público se librará la orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que esté acreditado el cuerpo del delito y la probable responsabilidad del inculpado.
+En todos aquellos casos en que el delito no dé lugar a aprehensión, a pedimento del Ministerio Público, se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que estén acreditados el cuerpo del delito y la probable responsabilidad del inculpado.
 
-(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+La orden de comparecencia, se notificará al indiciado, a través del Ministerio Público, señalando hora y fecha para que se presente ante el Órgano Jurisdiccional a rendir su declaración preparatoria, conteniendo el respectivo apercibimiento para que en caso de no comparecer, le sean aplicados los medios de apremio a que se refiere este Código.
 
-Las órdenes de arresto se entregarán a los agentes adscritos a la Secretaría de Seguridad Pública.
+Las órdenes de comparecencia y las de aprehensión se librarán por el delito que aparezca comprobado, tomando en cuenta sólo los hechos materia de la consignación, considerando el cuerpo del delito y la probable responsabilidad, aún cuando con ello se modifique la clasificación. Se entregarán al Ministerio Público, quien las ejecutará por conducto de la policía bajo su autoridad y mando inmediato.
 
-(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
-
-Las órdenes de comparecencia se entregarán al Ministerio Público, quien las notificará por conducto de los servidores públicos que al efecto disponga la Procuraduría General de Justicia del Distrito Federal.
-
-(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
-
-Las órdenes de aprehensión se entregarán al Ministerio Público, quien las ejecutará por conducto de la policía judicial.
+Las órdenes de arresto se entregarán a la Secretaría de Seguridad Pública del Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1178,7 +1202,7 @@ IV.- Que el inculpado no haya sido condenado por delito intencional.
 
 La presente disposición no será aplicable cuando se trate de los delitos graves señalados en este Código.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O. F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 134.
 
@@ -2066,6 +2090,10 @@ Las querellas presentadas por las personas morales, podrán ser formulados (sic)
 
 Para las querellas presentadas por personas físicas, será suficiente un poder semejante, salvo en los casos de rapto, estupro o adulterio en los que sólo se tendrá por formulada directamente por alguna de las personas a que se refiere la parte final del párrafo primero de este artículo.
 
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+La Administración Pública del Distrito Federal podrá actuar por conducto de personas autorizadas mediante acuerdo delegatorio emitido por la autoridad competente.
+
 ###### ARTICULO 265.
 
 Al iniciar sus procedimientos el Ministerio Público, o la policía judicial, se trasladarán inmediatamente al lugar de los hechos, para dar fe de las personas y de las cosas a quienes hubiere afectado el acto delictuoso y tomarán los datos de las que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas, en caso contrario, para que dentro del término de veinticuatro horas comparezcan a rendir su declaración.
@@ -2138,7 +2166,7 @@ Cuando se señalen penas en proporción a las previstas para el delito doloso co
 
 ###### ARTICULO 268 Bis.
 
-En los casos de delito flagrante y en los urgentes, ningún indicado (sic) podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada a que se refiere el artículo 254 del Nuevo Código Penal para el Distrito Federal.
+En los casos de delito flagrante y en los urgentes, ningún indicado (sic)podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada a que se refiere el artículo 254 del Nuevo Código Penal para el Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2245,6 +2273,22 @@ La policía judicial estará bajo la autoridad y mando inmediato del Ministerio 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 Tanto el Ministerio Público como la policía se sujetarán a los reglamentos y Leyes Orgánicas respectivos, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 273 Bis.
+
+Cuando se presuma que el inculpado es miembro de una asociación delictuosa o delincuencia organizada en los términos de los artículos 254 y 255 del Nuevo Código Penal para el Distrito Federal, el Ministerio Público practicará el aseguramiento de los bienes y valores de dicha persona, así como de aquellos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus tenedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse el levantamiento correspondiente.
+
+Se acreditará el origen legítimo de los bienes y valores referidos en el párrafo anterior, cuando el tenedor compruebe la capacidad económica suficiente para detentarlos.
+
+El aseguramiento se sujetará a las siguientes disposiciones:
+
+I. Podrá realizarse en cualquier momento de la averiguación previa o del proceso;
+
+II. La revelación o divulgación del contenido del acuerdo de aseguramiento se equipara al delito de ejercicio ilegal de servicio público, previsto en la fracción III del artículo 259 del Nuevo Código Penal para el Distrito Federal, y
+
+III. El destino de los bienes y valores se sujetará, en su caso, a las reglas previstas para el decomiso en los artículos 54 y 55 del Nuevo Código Penal para el Distrito Federal.
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de Policía Judicial
 
@@ -2354,13 +2398,13 @@ Si la consignación es con detenido deberá inmediatamente ratificar la detenci�
 
 Si durante el plazo de tres días, contados a partir del en que se haya hecho la consignación sin detenido, el juez no dicta auto de radicación en el asunto, el Ministerio Público podrá recurrir en queja ante la Sala Penal del Tribunal Superior que corresponda.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-El juez ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público dentro de los cinco días contados a partir de la fecha en que se haya acordado la radicación.
+El juez ordenará o negará la aprehensión o comparecencia solicitada por el Ministerio Público por el delito que aparezca comprobado, dentro de los diez días contados a partir de la fecha en que se haya acordado la radicación. Si el juez no resuelve oportunamente sobre estos puntos, el Ministerio Público procederá en los términos previstos en el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-Tratándose de consignación sin detenido por delito grave o delincuencia organizada, inmediatamente debe radicarse el asunto, y dentro de las veinticuatro horas siguientes la autoridad resolverá sobre el pedimento de la orden de aprehensión. Si el juez no resuelve oportunamente sobre estos puntos, el Ministerio Público procederá en los términos previstos en el párrafo anterior.
+Tratándose de consignación sin detenido por delito grave o delincuencia organizada, inmediatamente debe radicarse el asunto, y dentro de los seis días siguientes la autoridad resolverá sobre el pedimento de la orden de aprehensión. Si el juez no resuelve oportunamente sobre estos puntos el Ministerio Público procederá en los términos previstos en el cuarto párrafo de este artículo.
 
 ###### ARTICULO 286 Bis.
 
@@ -2634,17 +2678,15 @@ Transcurrido el plazo a que se refiere el párrafo anterior sin que el Ministeri
 
 Si transcurren los plazos a que alude el párrafo anterior, sin que se formulen las conclusiones, el juez tendrá por formuladas conclusiones de no acusación y el procesado será puesto en inmediata libertad y se sobreseerá el proceso.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 316.
 
-El Ministerio Público, al formular sus conclusiones, hará una exposición sucinta y metódica de los hechos conducentes, propondrá las cuestiones de derecho que de ellos surjan, citará las leyes, ejecutorias o doctrinas aplicables y terminará su pedimento en proposiciones concretas.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+El Ministerio Público al formular sus conclusiones hará una breve exposición sucinta y metódica de los hechos conducentes, evitando transcripciones innecesarias, realizando proposiciones concretas de los hechos punibles que se atribuyan al acusado, citando los elementos de prueba relativos a la comprobación del delito y los conducentes a establecer la responsabilidad penal, solicitando la aplicación de las sanciones correspondientes, incluyendo la reparación del daño con cita de las leyes, ejecutorias o doctrinas aplicables.
 
 ###### ARTICULO 317.
 
-En las conclusiones, que deberán presentarse por escrito, se fijarán en proposiciones concretas los hechos punibles que se atribuyan al acusado, solicitando la aplicación de las sanciones correspondientes, incluyendo la reparación del daño y perjuicio, con cita de las leyes y de la jurisprudencia aplicables al caso. Estas proposiciones deberán contener los elementos de prueba relativos a la comprobación del delito y los conducentes a establecer la responsabilidad penal.
+(DEROGADO, G.O. 4 DE JUNIO DE 2004)
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -3328,11 +3370,13 @@ El día señalado para la vista del negocio, comenzará la audiencia por la rela
 
 Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo Magistrado, pudiendo hablar al último el acusado o su defensor. Si las partes, debidamente notificadas, no concurrieren, se llevará adelante la audiencia, la cual podrá celebrarse en todo caso con la presencia de dos Magistrados; pero la sentencia respectiva deberá pronunciarse por los tres que integran la Sala.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 425.
+###### ARTÍCULO 425.
 
-Declarado visto el proceso, quedará cerrado el debate, y el tribunal pronunciará su fallo dentro de diez días a más tardar, excepto en el caso del artículo siguiente.
+Declarado visto el proceso, quedará cerrado el debate y el magistrado ponente presentará su proyecto dentro de un plazo de diez días hábiles. Si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día al plazo señalado, que nunca será mayor de treinta días hábiles, excepto en el caso del artículo siguiente. Los vocales tendrán sucesivamente diez días para su revisión.
+
+Si cerrado el debate fuese necesario retornar el asunto para la formulación de nuevo proyecto por parte de otro Magistrado, se concederán al nuevo Ponente, al vocal y al disidente términos iguales a los establecidos en el artículo anterior para la formulación del proyecto, su revisión y formulación del voto particular respectivamente.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -5236,6 +5280,10 @@ Las listas de jurados del Fuero Común formadas para el presente año continuar�
 
 Con excepción del Partido Judicial de México, en los demás del Distrito y Territorios Federales, mientras se crean las Cortes Penales y Tribunales de Menores, seguirán funcionando como autoridades penales, los Jueces Mixtos.
 
+###### ARTICULO 9°.
+
+El Ejecutivo, a medida que lo permitan las condiciones económicas de las Delegaciones del Distrito Federal y de los Territorios, substituirá los Jueces Menores y Mixtos de Primera Instancia por Cortes Penales y Juzgados Penales de Paz.
+
 ###### ARTICULO 10.
 
 El Ejecutivo queda facultado para aumentar el número de Tribunales que este Código fija, para cada uno de los diversos Partidos Judiciales, y la planta de Secretarios y empleados según las necesidades de la Administración de Justicia.
@@ -5475,3 +5523,9 @@ QUINTO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor di
 G.O. 15 DE MAYO DE 2003.
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 4 DE JUNIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
