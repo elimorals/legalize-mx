@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1986-09-06"
+last_updated: "1989-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -85,11 +85,15 @@ III.-El pago del impuesto deberá hacerse mediante declaración que se presentar
 
 El contribuyente podrá optar por pagar el impuesto en los términos del artículo anterior o bajo las siguientes condiciones:
 
-a).-Una cuota mensual por unidad que determinará la Tesorería General, estimando sus ingresos probables que no podrá ser menor a la cantidad equivalente a dos días de salario mínimo de la zona económica del lugar donde se encuentre prestando el servicio la unidad.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+a).-Una cuota mensual por unidad que determinará la Secretaría de Finanzas y Planeación, estimando sus ingresos probables que no podrá ser menor a la cantidad equivalente a dos días de salario mínimo de la zona económica del lugar donde se encuentra prestando el servicio la unidad.
 
 Esta cuota mensual deberá ser pagada en los términos de la fracción III del artículo anterior excepto la obligación de presentar declaración de ingresos.
 
-b).-Una cuota anual por unidad que la Tesorería General del Estado podrá determinar estimando sus ingresos probables.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+b).-Una cuota anual por unidad que la Secretaría de Finanzas y PLaneación (sic) podrá determinar estimando sus ingresos probables.
 
 Cuando los ingresos totales percibidos en un ejercicio fiscal excedan en más de un 20% de los que se hubieren determinado para el señalamiento de la cuota fija a pagar, ésta quedará sin efecto y el contribuyente estará obligado a pagar las diferencias que resulten de la comprobación de los ingresos reales.
 
@@ -139,9 +143,11 @@ Este impuesto se causará, liquidará y pagará a razón de 2.5% sobre el monto 
 
 Si la cantidad que resulte de la aplicación de la tasa, es menor a la equivalente a dos días de salario mínimo general de la zona económica del domicilio del contribuyente, será ésta la cantidad que se pague como impuesto mínimo mensual.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 12.
 
-El pago de este impuesto se hará mensualmente ante la Oficina de Hacienda del domicilio del causante donde ejerza sus actividades, dentro de los primeros 20 días del mes siguiente a aquel al que corresponda el pago, haciendo uso de las formas autorizadas por la Tesorería General del Estado.
+El pago de este impuesto, se hará mensualmente ante la Oficina de Hacienda del domicilio del causante donde ejerza sus actividades, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago, haciendo uso de las formas autorizadas por la Secretaría de Finanzas y Planeación.
 
 El contribuyente del impuesto mensual causado, acreditará el importe de las retenciones que le hayan hecho los obligados a ello en términos del artículo 13, debiendo presentar declaración aun cuando no haya impuesto que pagar.
 
@@ -149,9 +155,13 @@ El contribuyente del impuesto mensual causado, acreditará el importe de las ret
 
 Son responsables solidarios:
 
-I.-Las personas morales o las personas físicas que realicen las actividades empresariales que reglamente la Ley del Impuesto Sobre la Renta que hagan pagos a los sujetos de este impuesto deberán retenerlo y enterarlo en la Oficina de Hacienda de su domicilio, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago, haciendo uso de la forma oficial autorizada por la Tesorería General del Estado;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-II.-La persona física que dirija, administre y/o represente a las personas físicas o morales, distintas de las mencionadas en la fracción I, que tengan fines no lucrativos, cuando hagan pagos a contribuyentes de este impuesto, deberá retenerlo y enterarlo dentro de los cinco días siguientes a la fecha del pago del honorario en la Oficina de Hacienda de su domicilio, en la forma oficial autorizada por la Tesorería General del Estado.
+I.- Las personas morales o las personas físicas que realicen las actividades empresariales que reglamente la Ley del Impuesto Sobre la Renta que hagan pagos a los sujetos de este impuesto deberán retenerlo y enterarlo en la Oficina de Hacienda de su domicilio, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago, haciendo uso de la forma oficial autorizada por la Secretaría de Finanzas y Planeación.
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+II.- La persona física que dirija, administre y/o represente a las personas físicas o morales, distintas de las mencionadas en la fracción I, que tengan fines no lucrativos, cuando hagan pagos a contribuyentes de este impuesto, deberá retenerlo y enterarlo dentro de los cinco días siguientes a la fecha del pago del honorario en la Oficina de Hacienda de su domicilio, en la forma oficial autorizada por la Secretaría de Finanzas y Planeación.
 
 ###### ARTICULO 14.
 
@@ -159,7 +169,9 @@ Los sujetos pasivos de este impuesto, están obligados a:
 
 I.-Empadronarse en la Oficina de Hacienda de su jurisdicción, dentro de los diez días siguientes, a aquel en que inicien sus actividades, utilizando las formas oficiales autorizadas;
 
-II.-Dar aviso a la Tesorería General, por conducto de la Oficina de Hacienda correspondiente, en los casos de cambio de su domicilio así como en los de suspensión o cambio de la actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contado a partir del día en que ocurra el cambio;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+II.- Dar aviso a la Secretaría de Finanzas y Planeación, por conducto de la Oficina de Hacienda correspondiente, en los casos de cambio de su domicilio así como en los de suspensión o cambio de la actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contando a partir del día en que ocurra el cambio.
 
 III.-Llevar un libro de ingresos y de egresos donde consten sus actividades;
 
@@ -185,9 +197,11 @@ II.-Proporcionar los datos y documentos que les sean solicitados por autoridades
 
 (DEROGADO, G.O. 31 DE DICIEMBRE DE 1985)
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 17.
 
-La Tesorería General del Estado, podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+La Secretaría de Finanzas y Planeación, podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
 I.-Cuando no presenten sus declaraciones y no lleven los libros o registros, o no expidan la documentación comprobatoria a que están obligados; y
 
@@ -243,21 +257,27 @@ Cuando por cualquier título se tenga derecho a asistir y presenciar diversiones
 
 Las personas que organicen, exploten o patrocinen diversiones o espectáculos públicos, deberán retener el impuesto a que se refiere el artículo 18 de esta Ley y se consideran además como responsables solidarios por tales conceptos.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 25.
 
-Cuando las empresas de espectáculos u organizadores expidan pases, sobre éstos, pagarán el impuesto correspondiente, como si se hubiese cubierto el importe del boleto o cuotas respectivas, a menos que dichos pases estén autorizados con el sello de la Tesorería General, los pases que se autoricen, no podrán exceder del 2% del número total de las localidades
+Cuando las empresas de espectáculos u organizadores expidan pases, sobre éstos, pagarán el impuesto correspondiente, como si se hubiese cubierto el importe del boleto o cuotas respectivas, a menos que dichos pases estén autorizados con el sello de la Secretaría de Finanzas y Planeación, los pases que se autoricen, no podrán exceder del 2% del número total de las localidades.
 
 ###### ARTICULO 26.
 
 El impuesto a que se refiere este capítulo, deberá ser pagado en las Oficinas de Hacienda del Estado en cuya jurisdicción se hayan celebrado la diversión o los espectáculos públicos, como sigue:
 
-I.-Tratándose de retenedores habituales, debidamente organizados en empresas, que cuenten con local e instalaciones permanentes para la realización de los eventos, el pago será satisfecho en la exactora que corresponda al domicilio del propio retenedor. En estos casos, la retención total del mes se deberá enterar dentro de los 20 primeros días del mes siguiente, utilizando la forma autorizada por la Tesorería General del Estado;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+I.- Tratandose de retenedores habituales, debidamente organizados en empresas, que cuenten con local e instalaciones permanentes para la realización de los eventos, el pago será satisfecho en la exactora que corresponda al domicilio del propio retenedor. En estos casos, la retención total del mes se deberá enterar dentro de los veinte primeros días del mes siguiente, utilizando la forma utilizada por la Secretaría de Finanzas y Planeación;
 
 II.-Tratándose de retenedores habituales cuyas actividades se lleven a cabo en forma ambulante, el pago del impuesto se satisfará de la siguiente manera:
 
 a).-El impuesto retenido se enterará diariamente en la Oficina de Hacienda en cuya jurisdicción se realicen las actividades gravadas. Las exactoras cobrarán el impuesto en base al boletaje exhibido por el retenedor o cuota cobrada, sin perjuicio de allegarse otros medios de prueba;
 
-b).-Mensualmente formularán una liquidación del impuesto retenido y la presentarán ante la Oficina de Hacienda en donde se encuentren adscritos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+En dicha liquidación quedará consignado el impuesto total retenido durante un mes de calendario y se deducirán los pagos hechos en otras recaudadoras de la Entidad, enterándose desde luego la diferencia que resultare. Esta obligación será cumplida dentro de los primeros veinte días del mes inmediato posterior y con utilización de las formas oficiales autorizadas por la Secretaría de Finanzas y Planeación;
 
 En dicha liquidación quedará consignado el impuesto total retenido durante un mes de calendario y se deducirán los pagos hechos en otras recaudadoras de la Entidad, enterándose desde luego la diferencia que resultare. Esta obligación será cumplida dentro de los primeros 20 días del mes inmediato posterior y con utilización de las formas oficiales autorizadas por la Tesorería General del Estado;
 
@@ -273,7 +293,9 @@ II.-A manifestar a la Oficina de Hacienda de su domicilio cada vez que ocurra al
 
 III.-A manifestar por escrito a la Oficina de Hacienda respectiva, la baja del espectáculo o diversión, cuando menos con tres días de anticipación;
 
-IV.-A permitir y facilitar el desempeño de las comisiones que se encomienden al personal que designe la Tesorería General el Estado o la Oficina de Hacienda de su domicilio;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IV.-A permitir y facilitar el desempeño de las comisiones que se encomienden al personal que designe la Secretaría de Finanzas y Planeación o la Oficina de Hacienda de su domicilio;
 
 V.-A expedir boletos individuales de entrada y comprobante de pago de cuotas, foliados consecutivamente y autorizados o sellados por la Oficina de Hacienda del Estado en los que consten los siguientes datos:
 
@@ -287,7 +309,9 @@ Al término del espectáculo, los organizadores tendrán la obligación de entre
 
 VI.-Llevar libro de ingresos y egresos, donde se hagan constar sus actividades; y
 
-VII.-Retener y enterar el impuesto a la Tesorería General del Estado.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+VII.-Retener y enterar el impuesto a la Secretaría de Finanzas y Planeación.
 
 ###### ARTICULO 28.
 
@@ -297,7 +321,9 @@ I.-Dar aviso a la Oficina de Hacienda o a su representante, cuando menos con tre
 
 II.-Manifestar ante la misma autoridad, cuando menos con un día de anticipación, de la suspensión temporal o definitiva del espectáculo o diversión;
 
-III.-Garantizar, a satisfacción de la Tesorería General del Estado, el pago del impuesto a que se refiere este capítulo; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+III.-Garantizar, a satisfacción de la Secretaría de Finanzas y Planeación, el pago del impuesto a que se refiere este capítulo; y
 
 IV.-Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo, el impuesto que este capítulo regula.
 
@@ -305,57 +331,75 @@ IV.-Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día e
 
 En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas a un espectáculo o diversión, no se causará el impuesto sobre las cantidades devueltas.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 30.
 
-Para el cumplimiento de las disposiciones de este capítulo, los Inspectores o Interventores Fiscales y las empresas, se ajustarán a las disposiciones administrativas que expida la Tesorería General del Estado en las que se regulará la forma en que deberán practicarse las inspecciones, intervenciones y liquidaciones respectivas.
+Para el cumplimiento de las disposiciones de este Capítulo, los Inspectores o Interventores Fiscales y las empresas, se ajustarán a las disposiciones administrativas que expida la Secretaría de Finanzas y Planeación en las que se regulará la forma en que deberán practicarse las inspecciones, intervenciones y liquidaciones respectivas.
 
 ###### ARTICULO 31.
 
 Las autoridades municipales deberán dar aviso con la anticipación necesaria a la Oficina de Hacienda del Estado de su jurisdicción, de los permisos que otorguen para la celebración de diversiones y espectáculos públicos.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 32.
 
-La Tesorería General del Estado tendrá la facultad de fijar cuotas mínimas para el pago de este impuesto, pero en los siguientes casos, la cantidad a pagar que resulte de la aplicación de la tasa establecida en el artículo 21 párrafo primero, no podrá ser inferior a las consignadas en la siguiente
+La Secretaría de Finanzas y Planeación del Estado, tendrá la facultad de fijar cuotas mínimas para el pago de este impuesto, pero en los siguientes casos, la cantidad a pagar que resulte de la aplicación de las tasa establecida en el artículo 21 párrafo primero, no podrá ser inferior a las consignadas en la siguiente:
 
-T A R I F A
+T A R I F A :
 
-1.-Futbolitos por mesa, mensualmente……………………………………..…………….$ 400.00
+1.-Futbolitos por mesa, mensualmente 1 salario mínimo
 
-2.-Tiro Sport, tiro de arco, tiro de aros, frontón, carpas de promoción y similares, por cada uno y día de explotación…………………………………………………….............................." 300.00
+2.-Tiro sport, tiro de arco, tiro de aros, frontón, carpas de promoción y similares, por cada uno y día de explotación.
 
-3.-Billares y boliches, por cada mesa mensualmente…………………………………." 400.00
+1 salario mínimo
 
-4.-Romerías, por cada vez.………………….......……………………………………….." 2,000.00
+3.-Billares y boliches, por cada mesa mensualmente.
 
-5.-Tómbolas, por cada vez.........…………………….…………………………………...." 4,000.00
+1 salario mínimo
 
-6.-Aparatos mecánicos y electromecánicos de música, instalados en lugares públicos, por cada aparato mensualmente....………………….………………… …...........................…..…" 400.00
+4.-Romerías, por cada vez.
 
-..
+4 salarios mínimos
 
-7.-Aparatos electromecánicos infantiles, instalados en casas y centros comerciales, por cada aparato mensualmente.......…………………………………… …….........................…" 200.00
+5.-Tómbolas, por cada vez.
 
-8.-Aparatos electromecánicos de diversión de otras clases, por aparato mensualmente….……………………………………………………………………...…." 800.00
+8 salarios mínimos
 
-9.-Aparatos de televisión, instalados en establecimientos comerciales o centros de diversión, por cada aparato mensualmente…….………………………………....................................." 400.00
+6.-Aparatos mecánicos, y electromecánicos de música, instalados en lugares públicos por cada aparato mensualmente.
 
-10.-Otros análogos ..……………………………………………… ………………....…." 1,000.00
+1 salario mínimo
+
+7.-Aparatos electromecánicos infantiles, instalados en casas y centros comerciales, por cada aparato mensualmente.
+
+1 salario mínimo
+
+8.-Aparatos electromecánicos de diversión de otras clases, por aparato mensualmente.
+
+2 salarios mínimos
+
+9.-Aparatos de televisión, instalados en establecimientos comerciales o centro de diversión, por cada aparato mensualmente.
+
+1 salario mínimo
+
+10.-Otros análogos.
+
+2 salarios mínimos
 
 ###### ARTICULO 33.
 
 o se pagará este impuesto, cuando por el mismo concepto, se cause el Impuesto al Valor Agregado.
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE GOBIERNO
+### CAPITULO SEGUNDO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO TERCERO. DE LOS DERECHOS POR SERVICIOS PRESTADOS
+### CAPITULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA
 
-POR LA TESORERIA GENERAL DEL ESTADO
+SECRETARÍA DE FINANZAS Y PLANEACIÓN
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 19899)</small>
 
 ###### ARTICULO 34.
 
@@ -399,9 +443,9 @@ III.-Las contribuciones por mejoras.
 
 ### CAPITULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION
 
-GENERAL DE TRANSITO
+GENERAL DE TRÁNSITO Y TRANSPORTE
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 40.
 
@@ -425,7 +469,7 @@ En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado 
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, serán responsables de su pago.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR
 
@@ -435,443 +479,411 @@ LA DIRECCION GENERAL DE GOBERNACION
 
 ###### ARTICULO 45.
 
-Por los servicios prestados por la Secretaría de Gobierno se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría General de Gobierno, se causarán y pagaran los derechos siguientes:
 
-I.-Legalización de firmas …………………………………………………..………………...$ 500.00
+I.-Legalización de firmas. 1 salario mínimo
 
-II.-Por registro y diligenciación de exhortos ….……………………….………….…........." 1,000.00
+II.-Por registro y diligenciación de exhortos. 2 salarios mínimos
 
-III.-Legalización de firmas de certificados y expedición de copias de actas de registro civil……………………………………………………………………………...…….……...…" 500.00
+III.-Legalización de firmas de certificados y expedición de copias de actas del Registro Civil. 0.50 salario mínimo
 
-IV.-Por la expedición de testimonios de protocolos depositados en el archivo general de notarias .…………………………………………………………................……………………………...1,000.00
+IV.-Por la expedición de testimonios de protocolos depositados en el Archivo General de Notarias. 5 salarios mínimos
 
-Además, por cada hoja se causará.........……………………………….…………………....250.00
+No causarán los derechos a que se refiere este Artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 46.
 
-No causan los derechos a que se refiere este capítulo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
+Por los servicios prestados por el Departamento del Registro Público de la Propiedad, de la Secretaría General de Gobierno; se causarán y pagaran los derechos siguientes:
 
-### CAPITULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR
+I.-Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, por cada uno de ellos, sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso, con el consignado en la operación, por cada $100.00 o fracción. $ 0.70
 
-LA DIRECCION GENERAL DE COMUNICACIONES
+Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+a).-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores. 4 salarios mínimos
 
-###### ARTICULO 47.
+b).-Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos, capitulaciones matrimoniales, fusión de predios, constitución de régimen de propiedad en condominio y disolución de sociedad conyugal. $ 3 salarios mínimos
 
-Por los servicios prestados por la Tesorería General del Estado, se causarán y pagarán los derechos siguientes:
+II.-Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple, garantizados con prenda o hipoteca, en el Registro Público de la Propiedad o en el de Comercio en su caso, por cada $ 100.00 o fracción. $ 0.20
 
-I.-Del Departamento de Impuesto Predial y Catastro;
+III.-Por el registro de actas y demás diligencias relativas a embargos o cedulas hipotecarias decretadas por la autoridad judicial o administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $100.00 o fracción. $ 1.00
 
-a).-Por la expedición de constancias de no adeudo …………………………………… $ 500.00
+IV.-Por la inscripción de arrendamientos hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada $ 100.00 o fracción. $ 1.00
 
-b).-Por la expedición de certificados de valor catastral vigente……… ……..………." 500.00
+a).-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes, por cada $ 100.00 o fracción. $ 0.50
 
-c).-Por la expedición de constancias no especificas …………………………..……..…" 500.00
+b).-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años, por cada $ 100.00 o fracción. $ 2.00
 
-d).-Por la certificación de planos expedidos por el Departamento, independientemente del precio que se señale por la venta del mismo ……………………………….…..........................." 600.00
+V.-Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles. 2 salarios mínimos
 
-II.-Del Registro Público de la Propiedad
+VI.-Por la inscripción de cualquier tipo de testamentos, contratos de deposito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera y renta vitalicia. 2 salarios mínimos
 
-a).-Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en lo siguientes incisos, por cada uno de ellos, sobre el mayor valor que resulte de comprar el valor catastral o provisional en su caso con el consignado en la operación, por cada $ 100.00 o fracción ……………… ………." 0.70
+VII.-Por la inscripción de escritura constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento. 2 salarios mínimos
 
-Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los Derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
+a).-Hasta $ 100,000.00 2 salarios mínimos
 
-I.-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores................................…………………………...........................$ 1,500.00
+b).-Por lo que exceda de __________ $ 100.00 o fracción. $ 0.20
 
-2.-Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos, capitulaciones matrimoniales, fusión de predios, constitución de régimen de propiedad en condominio y disolución de sociedad conyugal ……………..……" 1,000.00
+c).-Por la inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste la Ley Federal relativa sobre el capital social, por cada __________ $ 100.00 o fracción. $ 0. 15
 
-b).-Por la inscripción de documentos relativos a fianzas, hipotecas; reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple, garantizados con prenda o hipoteca, en el Registro Público de la Propiedad o en el de Comercio en su caso, por cada $100.00 o fracción ………………………… ……………" 0.40
+d).-Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable que se deseen inscribir a petición del interesado. 2 salarios mínimos
 
-c).-Por el registro de actas y demás diligencias relativas a embargos o cédulas hipotecarias decretadas por la autoridad judicial o administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 100,00 o fracción ………………............................................................................................... .............1.00
+Además sobre el monto de capital variable, por cada $100.00 o fracción. $ 0.05
 
-d).-Por la inscripción de arrendamiento hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato por cada $ 100.00 o fracción .........................................................................................................................… ………..1.00
+e).-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital. 2 salarios mínimos
 
-1.-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes por cada $ 100.00 o fracción ……...................................................................................................................... …….0.50
+f).-Por la inscripción de actas constitutivas y modificación de asociaciones civiles, constituídas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles. 1 salario mínimo
 
-1.-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años por cada $ 100.00 o fracción ….................................. ..….. 2.00
+g).-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles. 2 salarios mínimos
 
-e) Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles ………… ..$ 1,000.00
+h).-Por la inscripción de poderes y su cancelación. 1 salario mínimo
 
-f).-Por la inscripción de cualquier tipo de testamentos contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera y renta vitalicia ………………………………………………… ………………" 1,000.00
+i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $ 100.00 o fracción. $ 0.45
 
-g).-Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento.
+VIII.- Por la inscripción de la constitución del fideicomiso traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $ 100.00 o fracción. $ 0.75
 
-1.-Hasta $ 100,000.00 ………………………………….…………………………..…2,000.00
+Por la inscripción de la constitución del fideicomiso no traslativo de dominio cuando se determine su valor por cada $ 100.00 o fracción. $ 0.35
 
-2.-Por lo que exceda de $ 100,000.00 por cada $ 100.00 o fracción …………….." 0.20
+Cuando en el acto inscribible no se determine su valor. 4 salarios mínimos
 
-3.-Por la inscripción de actas y estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada $ 100.00 o fracción ……………....…………$ 0.15
+Por la inscripción de documentos donde se haga constar la sustitución fiduciaria.
 
-4.-Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable que se deseen inscribir a petición del interesado …...……………2,000.00
-
-Además sobre el monto de capital variable por cada $ 100.00 o fracción ………………0.05
-
-5.-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital …………………………………………." 2,000.00
-
-6.-Por la inscripción de actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles ……………………………………………………….….." 1,000.00
-
-7.-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles...………." 1,000.00
-
-8.-Por la inscripción de poderes y su cancelación ....………………………………" 1,000.00
-
-9.-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $100.00 o fracción ….........………………………………………………..…………….." 0.45
-
-Si no tienen valor señalado y éste no puede determinarse se causará …………" 1,000.00
-
-h).-Por la inscripción de la constitución del fideicomiso translativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $ 100.00 o fracción......………………………………………………………………." 0.75
-
-Por la inscripción de la constitución del fideicomiso no translativo de dominio cuando se determine su valor por cada $ 100.00 o fracción ……………….....………………………" 0.35
-
-Cuando en el acto inscribible no se determine su valor ……………………………." 2,000.00
-
-Por la inscripción de documentos donde se haga constar la substanciación fiduciaria…..…………………………………………………………………………………." .2,000.00
+4 salarios mínimos
 
 La cancelación de cualquiera de los actos anteriores causará el 25% de la cantidad pagada por su inscripción.
 
-i).-Si cuando en una providencia judicial se comprenden bienes de cualquier clase correspondientes a dos o más entidades federativas y no fuere posible por lo tanto, establecer el valor proporcional de la cantidad asegurada, por los que se hayan ubicados en el territorio veracruzano, se tomará como base el 75% del valor actual real de los inmuebles y el que estimativamente sea imputable a los inmuebles que correspondan siempre que la cuota respectiva no resulte mayor que la que se calcule también sobre el 75% de la cantidad materia del embargo.
+IX.-Si cuando en una providencia judicial se comprenden bienes de cualquier clase correspondientes a dos o mas entidades federativas y no fuere posible por lo tanto, establecer el valor proporcional de la cantidad asegurada, por los que se hayan ubicados en el territorio veracruzano, se tomará como base el 75% del valor actual real de los inmuebles y el que estimativamente sea imputable a los inmuebles que correspondan siempre que la cuota respectiva no resulte mayor que la que se calcule también sobre el 75% de la cantidad materia del embargo.
 
-j).-Por la modificación o rectificación de documentos ya registrados, en que no se aumentó el importe de las obligaciones pecuniarias, el 25% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso hubieren modificado aquéllos en cualquier sentido, aplicándose las cuentas vigentes.
+X.-Por la modificación o rectificación de documentos ya registrados, en que no se aumentó el importe de las obligaciones pecuniarias, el 25% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso hubieren modificado aquellos en cualquier sentido, aplicándose las cuotas vigentes.
 
-Cuando las rectificaciones sean de aumento a las obligaciones contraídas con anterioridad, los derechos se cobrarán sobre la diferencia en demasía que resulte de tales rectificaciones, aplicando el inciso que corresponda en la presente fracción.
+Cuando las rectificaciones sean de aumento a las obligaciones contraídas con anterioridad, los derechos se cobrarán sobre la diferencia en demasía que resulte de tales rectificaciones aplicando la fracción que corresponda en el presente título.
 
-k).-Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción….....…………………………………….$ 500.00
+XI.-Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción. 1 salario mínimo
 
-l).-Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles, de limitación de dominio……………………………………………………………………………………...." 1,000.00.
+XII.-Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio.
 
-1).-Por el de no poseer bienes ……………………………………………………………..." 200.00
+2 salarios mínimos
 
-2).-Por cualquier otro que se expida y que no esté comprendido anteriormente " 1,000.00
+a).-Por el de no poseer bienes. 0.50 salario mínimo
 
-3).-Por la expedición de copias certificadas, por cada hoja ..…..……………….….." 300.00
+b).-Por cualquier otro que se expida y que no este comprendido anteriormente.
 
-m) Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre las cuotas señaladas en esta fracción;
+2 salarios mínimos
 
-n).-Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basarán en éste y cuando el valor de las operaciones no pueda determinarse en esta forma según la importancia del documento de $ 2,000.00 a $ 8,000.00;
+c).-Por la expedición de copias certificadas, por cada hoja. 0.25 salario mínimo
 
-ñ) Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere esta fracción:
+XIII.-Los documentos otorgados fuera del Estado pagaran un 25 % adicional sobre las cuotas señaladas en este artículo.
 
-1.-Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que obren en causa criminal o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados para obtener su libertad, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
+XIV.-Por cada inscripción de documentos cuyo valor sea determinado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en este y cuando el valor de las operaciones no pueda determinarse en esta forma según la importancia del documento de a 2 salarios mínimos
 
-2.-La expedición de certificados o copias certificadas sobre bienes o derechos de la federación, de los estados, de los municipios o de sus dependencias, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas entidades o de sus dependencias, siempre que ellas sean las directamente interesadas en asegurar para sí estos mismos bienes o derechos, excepto cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, en cuyo caso los gastos deberán ser a cargo de los causantes remisos, si no ocurriere la adjudicación al fisco de los bienes embargados.
+4 salarios mínimos
 
-3.-Los certificados o copias certificadas que se expidan con relación a la anotación o restitución de ejidos, conforme a la Constitución General de la República y demás disposiciones concordantes.
+XV.-Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
-4.-La inscripción de documentos relativos a las instituciones de beneficencia pública o privada, reconocidas por la Ley, siempre que éstas sean las directamente interesadas.
+a).-Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que se obren en causas penales o para acreditar la solvencia de fiadores que propongan los pocesados o sentenciados para obtener su libertad, pero en el segundo caso solo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
 
-5.-Los certificados que se expidan a los inquilinos para los efectos de la Ley del Inquilinato en vigor.
+b).-La expedición de certificados o copias certificadas sobre bienes o derechos de la Federación, de los Estados, de los Municipios, o de sus dependencias, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas entidades o de sus dependencias, siempre que ellas sean las directamente interesadas en asegurar para sí estos mismos bienes o derechos, excepto cuando tal servicio derive de la aplicación de la facultad económica-coactiva en el cobro de adeudos fiscales, en cuyo caso los gastos deberán ser a cargo de los contribuyentes remisos, si no ocurriese la adjudicación al fisco de los bienes embargados.
 
-6.-Los certificados a copias certificadas que se expidan a los estudiantes o a los padres, tutores, representantes o fiadores de los mismos, para que hagan fe ante cualquier autoridad escolar.
+c).-Los certificados o copias certificadas que se expidan con relación a la anotación o restitución de ejidos, conforme a la Constitución General de la Republica y demás disposiciones concordantes.
 
-7.-La inscripción de las Resoluciones Presidenciales sobre dotación o restitución de ejidos, dictadas de acuerdo con la Constitución General de la República.
+d).-La inscripción de documentos relativos a las instituciones de beneficencia pública o privada, reconocidas por la Ley, siempre que éstas sean las directamente interesadas.
 
-8.-La inscripción de los contratos de arrendamiento de fincas urbanas que fijen una renta anual inferior a $ 2,400.00 en la inteligencia de que no será obligatoria la inscripción.
+e).-Los certificados que se expidan a los inquilinos para los efectos de la Ley.
 
-9.-La inscripción de los títulos a que se refiere el artículo 7 del Decreto Presidencial del 9 de agosto de 1923, sobre ocupación y adquisición de terrenos nacionales y baldíos con fines agrícolas.
+f).-Los certificados o copias certificadas que se expidan a los estudiantes o a los padres, tutores, representantes o fiadores de los mismos para que hagan fe ante cualquier autoridad escolar.
 
-10.-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
+g).-La inscripción de las Resoluciones Presidenciales sobre dotación o restitución de ejidos, dictadas de acuerdo con la Constitución General de la Republica.
 
-III.-Por la certificación de documentos públicos que hayan sido expedidos por la Tesorería General del Estado, por hoja ……………...…………………………………. $ 300.00
+h).-La inscripción de los contratos de arrendamiento de fincas urbanas que fijen una renta anual inferior a cinco salarios mínimos, en la inteligencia de que no será obligatoria la inscripción.
+
+i).-Las inscripciones de los títulos a que se refiere el artículo siete del Decreto Presidencial del 9 de agosto de 1923, sobre ocupación y adquisición de terrenos nacionales y baldíos con fines agrícolas.
+
+j).-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+### CAPITULO SEXTO. De los Derechos por servicios prestados por la Secretaría de Comunicaciones y Obras Públicas
+
+Dirección General de Comunicaciones Departamento de Telecomunicaciones
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 47.
+
+Por los servicios prestados por la Secretaría de Finanzas y Planeación del Estado, se causarán y pagarán los derechos siguientes:
+
+I.-Del Departamento de Catastro.
+
+a).-Por la expedición de certificados de valor catastral vigente. 3 salarios mínimos
+
+b).-Por la expedición de constancias no especificadas 3 salarios mínimos
+
+c).-Por la certificación de planos expedidos por el Departamento independientemente del precio que se señale por la venta del mismo. 3 salarios mínimos
+
+II.-Por la certificación de documentos públicos que se hayan sido expedidos por la Secretaría de Finanzas y Planeación, por hoja. 0.25 salarios mínimos
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO SEPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL
 
 PODER JUDICIAL DEL ESTADO
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 48.
 
-Por los servicios prestados por la Dirección General de Tránsito, se causarán y cobrarán los derechos siguientes:
+Por los servicios prestados por la Dirección General de Transito y Transporte, se causarán y cobrarán los derechos siguientes:
 
-I.-Expedición de licencias de automovilistas considerados de segunda, con duración de dos años, incluyendo examen de capacidad y médico ……………………..........……….$ 3,300.00
+I.- Expedición de licencias de automovilistas, para conducir vehículos de motor de servicio particular, de acuerdo con el Reglamento de Tránsito incluyendo examen de capacidad y médico. 6 salarios mínimos
 
-II.-Expedición de licencias de primera para choferes o conductores de vehículos, con duración de dos años, incluyendo examen de capacidad y médico ………….........................…" 4,300.00
+Resello bianual. 2 salarios mínimos
 
-III.-Expedición de licencias para motociclistas con duración de dos años, incluyendo examen de capacidad y médico ………………………………………………………................" 3,300.00
+II.-Expedición de licencias de chofer, para manejar todo tipo de vehículos de motor, dedicados al servicio público o particular, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen de capacidad y médico. 6 salarios mínimos
 
-IV.-Expedición o revalidación de permisos para ocupar zonas de estacionamiento del servicio urbano incluyendo carros de alquiler, que se fijen por las oficinas correspondientes, de acuerdo con el Reglamento de Tránsito, por vehículo, anualmente
+2 salarios mínimos
 
-" 1,200.00
+III.- Expedición de licencias de motociclistas para conducir vehículos de motor de acuerdo con el Reglamento de Tránsito, incluyendo examen de capacidad y médico. 4 salarios mínimos
 
-V.-Permisos de estacionamiento para vehículos de servicios particulares que se fijen por la oficina correspondiente, de acuerdo con las disposiciones relativas del Reglamento de Tránsito, por cada año y por cajón ………………………..………………………..............….$..2,000.00
+Resello bianual 2 salarios mínimos
 
-VI.-a).-Permisos especiales para manejar sin licencias hasta por el término de quince días ……..……………………………………………………………………………………..." 500.00
+IV.-Por la expedición de licencias de motoristas para conducir tranvías, tractores agrícolas y maquinaria pesada para construcción, de acuerdo al Reglamento de Transito, incluyendo examen de capacidad y medico. 5 salarios mínimos
 
-b).-Permisos especiales para manejar durante tres meses que se otorguen a personas mayores de 16 y menores de 18 años, ………………………………………………." 1,000.00
+Resello bianual. 3 salarios mínimos
 
-c).-Permisos especiales, hasta por treinta días, a personas para aprender a manejar " ...........................................................................................................................................500.00
+V.-Expedición de permisos para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuando estas resulten necesarias para la prestación de un servicio público, de acuerdo con el Reglamento de Tránsito.
 
-VII.-Por servicios de Control Vehicular.
+3 salarios mínimos
 
-a).-Automóviles.-Vehículos con capacidad hasta de nueve pasajeros y aun de demostración, anualmente…....……………………………………………………………3,000.00
+Por revalidación anual. 2 salarios mínimos
 
-b) Autobuses.-Vehículos con capacidad de más de nueve pasajeros, anualmente ......................................................................................................................................…3,000.00
+VI.-Expedición de permisos para establecer el servicio al público de estacionamiento de vehículos, de acuerdo con el Reglamento de Tránsito. 30 salarios mínimos
 
-c).-Camiones de carga y tractores, anualmente ……..…………………………………3,000.00
+Por revalidación anual. 15 salarios mínimos
 
-d) Remolques y semirremolques, anualmente…………….………………………….…2,000.00
+VII.-Permisos especiales para conducir hasta por 180 días renovables a personas mayores de 16 años. 2 salarios mínimos
 
-e).-Para motocicletas, aun las de demostración y prueba, anualmente …………….,600.00
+VIII.-Por servicios de control vehicular.
 
-f).-Para carros de manos, carretas y demás vehículos que no usen motor de combustión interna, anualmente ………………………………………………………………………... 400.00
+Dotación de placas:
 
-g).-Por el permiso provisional para la circulación sin placas, por períodos de cinco días sin exceder de 30 días, por día ..…………………………………………………………… 40.00
+a).-Automóviles.-Vehículos con capacidad hasta nueve pasajeros y aun de demostración.
 
-Los servicios de control vehicular se proporcionarán por bienios, cobrándose el derecho correspondiente a dos anualidades.
+4 salarios mínimos
 
-Si el registro, del vehículo se efectúa durante el 2o. año del bienio, únicamente se pagará lo correspondiente a una anualidad
+b).-Autobuses.-Vehículos con capacidad de más de nueve pasajeros. 4 salarios mínimos
 
-VIII.-Por la prestación de otros servicios.
+c).-Camiones de carga y tractores. 4 salarios mínimos
 
-a).-Por la expedición de constancias de no infracción ………………………………$ 500.00
+d).-Remolques y semirremolques. 2 salarios mínimos
 
-b).-Baja automóviles ……………………………………………………………………......" 500.00
+e).-Para motocicletas aun las demostración y prueba. 2 salarios mínimos
 
-c).-Por modificaciones a la tarjeta de circulación ………………………….………….." 800.00
+Independientemente de los derechos que se causan por la dotación de placas a que se refieren los incisos anteriores de esta fracción, por el refrendo anual, se cubrirá el importe de
 
-d).-Por modificaciones de los datos en la licencia para manejar vehículos de motor " ….......................................................................................................................................1,000.00
+2 salarios mínimos
 
-e).-Duplicado de licencias para conducir vehículos de motor ……………………..." 1,500.00
+f).-Por el permiso provisional para la circulación por un término no mayor de quince días, para circular sin placas ni tarjeta de circulación, cuando el vehículo vaya a ser registrado.
 
-f).-Duplicado de tarjetas de circulación …………………………………….…………." 1,000.00
+0.25 salarios mínimos
+
+IX.-Por la prestación de otros servicios.
+
+a).-Por modificaciones a la tarjeta de circulación. 1 salario mínimo
+
+b).-Por modificaciones a los datos en la licencia para manejar vehículos de motor.
+
+1 salario mínimo
+
+c).-Duplicado de tarjetas de circulación. 1 salario mínimo
+
+d).-Por baja de vehículos. 1 salario mínimo
 
 ### CAPITULO OCTAVO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL
 
 DE ENSEÑANZA MEDIA
 
-> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 1986)</small>
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989
 
 ###### ARTICULO 49.
 
 Por servicios prestados por la Dirección General de Gobernación, se causarán y pagarán los derechos siguientes:
 
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 I.-Por legalización de firmas que comprenden:
 
-a).-Certificados de Registro Civil ……………………………………..………………..…$ 400.00
+a).-Certificados de Registro Civil. 0.50 salario mínimo
 
-b).-Testimonios notariales y escrituras públicas………………………..……………..." 650.00
+b).-Testimonios notariales y escrituras públicas. 1 salario mínimo
 
-c).-Firmas de funcionarios de Gobierno del Estado ……….…………………………." 400.00
+c).-Firmas de funcionarios de Gobierno del Estado. 1 salario mínimo
 
-II.-Por registro de exhortos de trámite ..………………………………………………..." 650.00
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-III.-Por diligenciación de exhortos de trámite .……………………………………….…" 650.00
+II.-Por registro de exhortos de trámite. 1 salario mínimo
 
-IV.-Por la expedición de constancias sobre antecedentes penales en el casillero judicial. ..............................................................................................................................................." 400.00
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+III.-Por diligenciación de exhortos de trámite. 1 salario mínimo
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero Judicial.
+
+0.50 salario mínimo
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
 DIRECCION GENERAL DE EDUCACION POPULAR
 
-(ADICONADO, G.O. 12 DE SEPTIEMBRE DE 1985)
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-ARTICULO 53 BIS.-Por los servicios prestados por la Dirección General de Educación Popular se causarán y cobrarán los siguientes derechos
+ARTICULO 53 BIS.-Por los servicios prestados por la Dirección General de Educación Popular se causarán y cobrarán los siguientes derechos:
 
-TARIFAS:
+T A R I F A S :
 
-1 2 3
+1.-Inscripción anual Licenciatura e Educación Básica. 1.50 salarios mínimos
 
-1.- Inscripción licenciatura en educación básica $ 6,700.00 4,000.00
+2.-Inscripción semestral Licenciatura en Educación Básica o Preescolar en la Universidad Pedagógica. 1 salario mínimo
 
-2.- Inscripción de educación normal básica 3,000.00 2,000.00
+3.-Inscripción anual Postgrado en la Universidad Pedagógica. 6 salarios mínimos
 
-3.- Expedición de certificado de estudios
+4.-Inscripción semestral en el Instituto de Regularización Pedagógica 3 salarios mínimos
 
-completos e incompletos 1,000.00 1,000.00 1,000.00
+5.-Expedición de certificado de estudios. 0.50 salario mínimo
 
-4.- Expedición de carta de pasante 2,000.00
+6.-Expedición de Carta de Pasante. 0.50 salario mínimo
 
-5.- Expedición de título profesional 7,000.00 7,000.00
+7.-Expedición de Título Profesional. 2 salarios mínimos
 
-6.- Duplicado del acta de examen profesional 1,000.00 1,000.00
+8.-Duplicado de Acta de Examen Profesional. 0.25 salario mínimo
 
-7.- Examen extraordinario 400.00 400.00
+9.-Examen Extraordinario. 0.25 salario mínimo
 
-8.- Examen a título de suficiencia 800.00 800.00
+10.-Examen a Título de Suficiencia. 0.50 salario mínimo
 
-9.- Examen de regularización 1,000.00 1,000.00
+11.-Examen de Regularización 0.75 salario mínimo
 
-10.- Examen de última oportunidad 1,500.00 1,500.00
+12.-Expedición de Constancia de calificaciones. 0.25 salario mínimo
 
-11.- Expedición de constancia servicio social 200.00
+13.-Expedición de Constancia de Servicio Social 0.25 salario mínimo
 
-12.- Expedición de constancia de no examen
+14.-Duplicado de credencial. 0.50 salario mínimo
 
-profesional 200.00
+15.-Duplicado de boleta de calificaciones. 0.50 salario mínimo
 
-13.- Expedición de constancia de calificación 500.00 500.00
+16.-Certificación de copia fotostática del título profesional. 0.25 salario mínimo
 
-14.- Duplicado de credencial 200.00 200.00
+17.-Certificación de copia fotostática de acta de nacimiento. 0.25 salario mínimo
 
-15.- Duplicado de boleta de calificación 200.00 200.00
+18.-Certificación de copia fotostática de certificado de secundaria. 0.25 salario mínimo
 
-16.- Certificación de copia fotostática de titulo
+19.-Expedición a punto y raya de Carta de Pasante. 1 salario mínimo
 
-profesional 200.00 200.00 200.00
+20.-Expedición a punto y raya de Título Profesional. 1 salario mínimo
 
-17.- Certificación de copia fotostática de acta
+21.-Expedición de constancia de equivalencia y revisión de estudios. 1 salario mínimo
 
-de nacimiento 200.00 200.00 200.00
+22.-Expedición de certificado de equivalencia de estudios. 1 salario mínimo
 
-18.- Certificación de título de profesor de
+23.-Certificación de firmas a boletas, acta de examen, constancia de escolaridad y carta de buena conducta. 0.25 salario mínimo
 
-educación primaria (lugar y fecha de examen
+24.-Certificación de Título de Profesor de Educación Primaria (Lugar y fecha de examen profesional). 0.25 salario mínimo
 
-profesional) 1,000.00
+25.-Certificación de boletas de educación primaria. 0.25 salario mínimo
 
-19.- Certificación de copia fotostática de
+26.-Reexpedición de certificado de educación primaria. 0.25 salario mínimo
 
-certificado de secundaria 200.00 200.00 200.00
+27.-Expedición de constancia de educación primaria. 0.25 salario mínimo
 
-20.- Expedición a punto y raya de carta de
+28.-Expedición de constancia de educación preescolar. 0.25 salario mínimo
 
-pasante 2,000.00 2,000.00 2,000.00
+29.-Examen a título de suficiencia de educación primaria. 0.50 salario mínimo
 
-21.- Expedición a punto y raya de título
+30.-Incorporación de escuelas primarias o jardines de niños. 180 salarios mínimos
 
-profesional 2,000.00 2,000.00 2,000.00
-
-22.- Expedición de constancias de
-
-equivalencia y revisión de estudios 1,000.00
-
-23.- Expedición de certificado de equivalencia
-
-de estudios 2,000.00
-
-24.- Certificación de firmas a boletas, acta de
-
-examen, constancia de escolaridad y carta de
-
-buena conducta 200.00
-
-25.- Certificación de boletas de educación
-
-primaria 200.00
-
-26.- Reexpedición de certificado de educación
-
-primaria 200.00
-
-27.- Expedición de constancia de educación
-
-primaria 300.00
-
-28.- Expedición de constancias de educación
-
-preescolar 100.00
-
-29.- Incorporación de escuelas primarias
-
-particulares 100,000.00
-
-30.- Incorporación de jardines de niños
-
-particulares 100,000.00
-
-31.- Cuota anual de escuelas primarias
-
-y jardines de niños particulares 5% del pago
-
-total de
-
-inscripción y
-
-colegiaturas
-
-32.- Examen a título de suficiencia de
-
-educación primaria $ 1,000,000.00
-
-Serán sujetos de la tarifa número (1) quienes soliciten los servicios anteriormente descritos a las escuelas normales: Enrique C. Rébsamen, Carlos A. Carrillo, Juan Enríquez y Manuel R. Gutiérrez; a la Universidad Pedagógica Veracruzana y al Instituto de Regularización Pedagógica.
-
-A la tarifa No. (2) quienes soliciten los servicios a los Centros de Estudios Superiores de Educación Rural: Luis H. Monroy y Rafael Ramiréz.
-
-A la tarifa No. (3) quedarán sujetos quienes soliciten los servicios descritos, a las oficinas de Educación Popular.
+31.-Cuota de incorporación anual de escuelas primarias y jardines de niños particulares, por alumno. 0.50 salario mínimo
 
 > <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
 
-###### ARTICULO 50.
+###### Artículo 50.
 
-Por los servicios prestados por la Dirección General de Comunicaciones se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Comunicaciones y Obras Públicas, Dirección General de Comunicaciones, Departamento de Telecomunicaciones se causarán y pagarán los derechos siguientes:
 
-I.-Por los servicios telegráficos, telefónicos y radioteléfonicos que presta la Dirección a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a la siguiente:
+I.- Por los servicios telefónicos que presta la Secretaría a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a la siguiente:
 
-T A R I F A
+T A R I F A :
 
-Conferencia telefónica
+Conferencias telefónicas:
 
-Cobro mínimo tres minutos $ 30.00
+a).-Casetas telefónicas en un hilo.
 
-Cada minuto excedente 7.00
+3 minutos $ 300.00
 
-Cargo por localización de personas 30.00
+minutos excedentes $ 100.00
 
-Conferencia radiotelefónica:
+b).-Casetas telefónicas en dos hilos
 
-Cobro mínimo tres minutos $ 39.00
+3 minutos $ 500.00
 
-Cada minuto excedente 9.00
+minuto excedente $ 150.00
 
-Cargo por localización de personas 30.00
+c).-Caseta radiotelefónicas de Gobierno.
 
-Telegramas y radiogramas ordinarios y urbanos
+3 minutos $ 750.00
 
-Cobro mínimo 10 palabras $ 65.00
+minuto excedente $ 250.00
 
-Cada palabra excedente 7.00
+d).-Casetas radiotelefónicas de SOS.
 
-Cargo por localización de personas 35.00
+3 minutos $ 600.00
 
-Telegramas y radiogramas urgentes o colacionados:
+minuto excedente $ 200.00
 
-Cobro mínimo 10 palabras............................................................................................$ 104.00
+Telegramas:
 
-Cada palabra excedente.....................................................................................................14.00
+Ordinarios y urbanos
 
-Cargo por localización de personas....………………………………………………………..35.00
+10 palabras $ 1,500.00
 
-Telegramas y radiogramas con acuse de recibo y contestación pagada:
+palabra excedente $ 150.00
 
-Pagarán la cuota correspondiente a dos telegramas ordinarios o urgentes según el caso.
+Urgentes
 
-Telegramas y radiogramas múltiples o circulares:
+10 palabras $ 3,000.00
 
-Causarán la cuota que les corresponda, concediéndoseles un descuento de 10% en 50 mensajes y 15 % de 51 en adelante, causando un cargo por servicio de localización de persona por cada uno de ……………………………………………………………………$ 35.00
+palabra excedente $ 300.00
 
-Telegramas y radiogramas de prensa:
+Abonados:
 
-Cobro mínimo 10 palabras $ 70.00
+1) Telefónicos en un hilo comunal
 
-Cada palabra excedente 7.00
+Mensualmente:
 
-Cargo por localización de personas …………………………………....…………………..35.00
+a) Oficina $ 2,000.00
 
-Expedición de copias de telegramas y radiogramas:
+b) particular $ 3,000.00
 
-Solamente se atenderán peticiones del depositante o destinatario, por cada una $..60.00
+2) Telefónicos en dos hilos comunal
 
-Abonados foráneos comunales con servicio de oficina:
+Mensualmente:
 
-Por derecho de enlace telefónico, mensualmente:……………………………………….350.00
+a) Oficina $ 4,000.00
 
-Teniendo derecho a 20 llamadas locales de teléfonos de México sin costo, las excedentes pagarán cada una …….....………………………………………………………..26.00
+b) Particular $ 6,000.00
 
-Abandonados foráneos y semiurbanos comunales sin servicio de oficina:
+3).-Telefónicos en dos hilos directos
 
-Pagarán por derecho de enlace mensualmente ……………………………………….$ 652.00
-
-Abandonados semiurbanos con línea directa sin servicio de oficina:
-
-Pagarán por derecho de enlace mensualmente …………………………………….$ 1,087.00
+Mensualmente:
 
 Suscriptores urbanos:
 
-Anualmente ……………………………………………………………………………….. 1.304.00
+Anualmente $ 24,000.00
 
-Abonados y oficinas:
-
-Reinstalación …………………………………………………………………………………..870.00
+Depósito $ 10,000.00
 
 ### CAPITULO DECIMO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
 
@@ -879,43 +891,99 @@ Reinstalación ………………………………………………………�
 
 ###### ARTICULO 51.
 
-Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción ……...............................…………………..$ 50.00
+Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados Menores y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción 0.25 salario mínimo
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 52.
 
-Por los servicios prestados por la Dirección General de Enseñanza Media, se causarán y pagarán los Derechos siguientes:
+Por los servicios prestados por la Dirección General de Enseñanza Media, se causarán y pagarán los derechos siguientes:
 
-CONCEPTO Bachilleres Secundaria Otras
+I.-Inscripción 0.25 salario mínimo
 
-I.-Inscripción . $ 900.00 $ 800.00 $ 800.00
+Bachilleres (semestre) 0.50 salario mínimo
 
-II.-Cuota de incorporación . 1,500.00 1,300.00 1,400.00
+Secundaria 0.50 salario mínimo
 
-III.-Revisión, convalidación y equivalencias
+Otras
 
-de estudios 1,500.00 1,500.00 1,500.00
+II.-Cuota de incorporación
 
-IV.-Examen extraordinario de regularización 500.00 500.00 500.00
+Bachilleres (semestre) 0.25 salario mínimo
 
-V.-Examen a título de suficiencia 1,000.00 1,000.00 1,000.00
+Secundaria 0.50 salario mínimo
 
-VI.-Expedición de certificados 800.00 800.00 800.00
+Otras 0.50 salario mínimo
 
-VII.-Copias de documentos 190.00 190.00 190.00
+III.-Revisión, convalidación y equivalencia de estudios
 
-VIII.-Diploma 650.00
+Bachilleres 1 salario mínimo
 
-IX.-Legalización de copias fotostáticas 190.00 190.00 190.00
+Secundaria 1 salario mínimo
 
-X.-Examen final de aptitudes 800.00
+Otras 1 salario mínimo
 
-XI.-Certificado o diploma de aptitud 650.00
+IV.-Examen de recuperación
 
-XII.-Examen de Admisión 750.00 750.00 750.00
+Primera oportunidad
 
-XIII.-Cuota de servicios administrativos 800.00 800.00 800.00
+Bachilleres 0.25 salario mínimo
+
+Secundaria 0.25 salario mínimo
+
+Otras 0.25 salario mínimo
+
+Segunda y Tercera Oportunidad
+
+Bachilleres 0.50 salario mínimo
+
+Secundaria 0.50 salario mínimo
+
+Otras 0.50 salario mínimo
+
+V.-Examen a título de suficiencia
+
+Bachilleres 1 salario mínimo
+
+Secundaria 1 salario mínimo
+
+Otras 1 salario mínimo
+
+VI.-Expedición de certificados o copias
+
+de certificados.
+
+Bachilleres 1 salario mínimo
+
+Secundaria 1 salario mínimo
+
+Otras 1 salario mínimo
+
+VII.-Examen final de aptitudes. 1 salario mínimo
+
+VIII.-Certificado o diploma de aptitud. 1 salario mínimo
+
+IX.-Examen de Admisión.
+
+Bachilleres 0.50 salario mínimo
+
+Secundaria 0.25 salario mínimo
+
+Otras 0.25 salario mínimo
+
+X.-Cuota de servicios administrativos.
+
+Bachilleres 0.25 salario mínimo
+
+Secundaria 0.25 salario mínimo
+
+Otras 0.25 salario mínimo
+
+XI.-Incorporación de Escuelas
+
+Particulares al Sistema de Enseñanza
+
+Media. 180 salarios mínimos
 
 ###### ARTICULO 53.
 
@@ -931,9 +999,15 @@ Las escuelas oficiales y las particulares incorporadas al Sistema de Enseñanza 
 
 Por servicios diversos prestados por dependencias de los Poderes Legislativo y Ejecutivo, se causarán y pagarán los derechos siguientes:
 
-I.-Por copias certificadas de escrituras de protocolo por cada hoja o fracción… $ 300.00
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-II.-Por los certificados y copias certificadas distintas a las señaladas en los capítulos anteriores a este título, por cada hoja o fracción. ……………………………………..$ 300.00
+I.- Por copias certificadas de escrituras de protocolo por cada hoja o fracción.
+
+0.25 salario mínimo
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+II.- Por los certificados y copias certificadas distintas a las señaladas en los capítulos anteriores a este Título, por cada hoja o fracción. 0.25 salario mínimo
 
 ###### ARTICULO 55.
 
@@ -942,6 +1016,8 @@ Las cuotas señaladas en este Título para certificados o copias certificadas se
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 56.
 
@@ -1153,7 +1229,7 @@ XI.-Aprovechamientos diversos.
 
 ###### ARTICULO 71.
 
-Las resoluciones que en relación con esta Ley dicte la Tesorería General del Estado, sólo podrán ser recurridas en la forma y términos que señala el Código Fiscal del Estado.
+Las resoluciones que en relación con esta Ley dicte la Secretaría de Finanzas y Planeación, sólo podrán ser impugnadas en la forma y términos que señala el Código Fiscal del Estado.
 
 ###### ARTICULO 72.
 
@@ -1166,6 +1242,12 @@ Se faculta al Ejecutivo del Estado para:
 I.-Suprimir, modificar o adicionar las disposiciones relativas a la administración y control, sin variar las relativas al objeto, sujeto, base, cuota, tasa o tarifa del gravamen, infracciones o sanciones; y
 
 II.-Crear, suprimir, o modificar las tasas o tarifas de los productos.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 74.
+
+Para los efectos de esta Ley, se entiende por salario mínimo, el salario mínimo diario general que esté vigente en la zona económica de que se trate.
 
 ## TRANSITORIOS
 
@@ -1220,3 +1302,13 @@ G.O. 6 DE SEPTIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
