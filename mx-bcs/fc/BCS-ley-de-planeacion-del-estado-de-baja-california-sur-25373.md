@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-25373"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1984-02-20"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR.
+LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1984.
 
@@ -165,15 +165,21 @@ III.- Verificar periódicamente la relación que guarden sus actividades, así c
 
 ###### ARTICULO 17.
 
-La Contraloría del Estado deberá aportar elementos de juicio para el control y seguimientos (sic) de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas respectivos.
+La Contraloría del Estado deberá aportar elementos de juicio para el control y seguimientos de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas respectivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 18.
 
-A las administraciones de los Municipios del Estado les corresponde:
+A los Gobiernos Municipales del Estado les corresponde:
 
 I.- Coordinar las actividades de la Planeación Municipal de Desarrollo.
 
-II.- Elaborar y aprobar el Plan Municipal de Desarrollo, en coordinación con el respectivo comité de Planeación para el Desarrollo Municipal, tomando en cuenta las propuestas de las Entidades y Dependencias Municipales, Estatales y Federales, así como los planteamientos que se formulen por los grupos interesados.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+II.- Elaborar y aprobar el Plan Municipal de Desarrollo, en coordinación con el respectivo Comité de Planeación para el Desarrollo Municipal, pudiendo tomar en cuenta las propuestas de las Entidades Estatales y Federales, así como los planteamientos que se formulen por los grupos interesados.
+
+Asimismo, participarán en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Para este fin, el Gobierno del Estado deberá asegurar dicha participación.
 
 III.- Elaborar los programas operativos anuales y los programas especiales, y sectoriales en los términos señalados en la Fracción anterior.
 
@@ -448,3 +454,15 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO BENJAMIN MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92 y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
