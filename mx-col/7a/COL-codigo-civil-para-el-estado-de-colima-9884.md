@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1994-07-09"
+last_updated: "1996-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1996.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -1113,9 +1113,17 @@ La nulidad de las Actas del Registro Civil, sólo podrá ser decretada por la au
 
 ART. 135.- La aclaración de Actas del Estado Civil de las personas procede cuando en ellas existan errores mecanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas.
 
-También procede la complementación de las Actas del Estado Civil, respecto de aquéllas que contengan imprecisiones en sus datos o que no se hayan levantado en formatos debidamente preimpresos, siempre que de las mismas se desprenda de manera indubitable datos y circunstancias que se relacionen directamente con la persona registrada.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1996)</small>
 
-Se tramitarán ambos casos por la autoridad administrativa que señale la Ley de la materia, resolviéndose de plano y ordenando en su caso, la aclaración o complementación respectiva que se comunicará lo mismo a la Oficialía del Registro Civil correspondiente, al Archivo Estatal del Registro Civil, como a la Dirección General del Registro Nacional de Población, para que se hagan las anotaciones que correspondan.
+Se tramitará este recurso por la autoridad administrativa que señale el Reglamento de la materia, resolviéndose de plano y ordenando la aclaración respectiva, que se comunicará lo mismo a la Oficialía del Registro Civil correspondiente, al Archivo Estatal del Registro Civil como a la Dirección General del Registro Nacional de Población, para que se hagan las anotaciones que correspondan.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1996)</small>
+
+También procede la complementación de las actas del estado civil, respecto de aquellas que contengan imprecisiones o que no se hayan levantado en formatos debidamente preimpresos, siempre que de las mismas se desprenda de manera indubitable datos y circunstancias que se relacionen directamente con la persona registrada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 1996)</small>
+
+El Congreso del Estado expedirá las bases conforme a las cuales el Director o los Oficiales del Registro Civil podrán efectuar dicha complementación y expedir las copias certificadas correspondientes.
 
 ART. 136.- Pueden pedir la rectificación de un acta del estado civil:
 
@@ -9930,3 +9938,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE JULIO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 1 DE JUNIO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado.
