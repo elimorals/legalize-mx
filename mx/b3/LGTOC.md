@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1945-05-08"
+last_updated: "1946-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1946.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -370,7 +370,7 @@ La oposición del tenedor del título debe substanciarse con citación del que p
 
 Para que se dé entrada a la oposición, es necesario que el oponente deposite el documento a disposición del Juzgado, y además asegure con garantía real o personal satisfactoria, el resarcimiento de los daños y perjuicios que la oposición ocasione al que obtuvo el decreto de cancelación, para el caso de que aquélla no sea admitida.
 
-> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+> <small>(F. DE E., D.O.F.9 DE SEPTIEMBRE DE 1933)</small>
 
 Oído dentro de tres días en traslado el reclamante, la oposición será recibida a prueba por un término que el Juez fijará atendiendo a las circunstancias del negocio, y que en ningún caso excederá de treinta días. El término para alegar será de cinco días para cada parte, y la resolución deberá dictarse dentro de diez días. Ninguno de esos términos puede suspenderse o prorrogarse.
 
@@ -1662,11 +1662,193 @@ Las acciones para el cobro de las obligaciones prescribirán en cinco años a pa
 
 Son aplicables a las obligaciones y a sus cupones, en lo conducente, los artículos 77, párrafo final, 81, 90, 127, 130, 132, 139, 140, 142, 148, 149, 151 al 162, 164, 166 al 169, y 174, párrafo final.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+### CAPITULO V Bis. De los Certificados de Participación
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 a.- Los certificados de participación son títulos de crédito que representan:
+
+a).- El derecho a una parte alícuota de los frutos o rendimientos de los valores, derechos o bienes de cualquier clase que tenga en fideicomiso irrevocable para ese propósito la sociedad fiduciaria que los emita;
+
+b).- El derecho a una parte alícuota del derecho de propiedad o de la titularidad de esos bienes, derechos o valores;
+
+c).- O bien el derecho a una parte alícuota del producto neto que resulte de la venta de dichos bienes, derechos o valores.
+
+En el caso de los incisos b) y c), el derecho total de los tenedores de certificados de cada emisión será igual al porcentaje que represente en el momento de hacerse la emisión el valor total nominal de ella en relación con el valor comercial de los bienes, derechos o valores correspondientes fijado por el peritaje practicado en los términos del artículo 228 h. En caso de que al hacerse la adjudicación o venta de dichos bienes, derechos o valores, el valor comercial de éstos hubiere disminuído, sin ser inferior al importe nominal total de la emisión, la adjudicación o liquidación en efectivo se hará a los tenedores hasta por un valor igual al nominal de sus certificados; y si el valor comercial de la masa fiduciaria fuere inferior al nominal total de la emisión, tendrán derecho a la aplicación íntegra de los bienes o producto neto de la venta de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 b.- Los certificados serán bienes muebles aun cuando los bienes fideicometidos (sic), materia de la emisión, sean inmuebles.
+
+Sólo las instituciones de crédito autorizadas en los términos de la ley respectiva para practicar operaciones fiduciarias podrán emitir estos tíulos (sic) de crédito.
+
+Los certificados que las sociedades fiduciarias expidan haciendo constar la participación de los distintos copropietarios en bienes, títulos o valores que se encuentren en su poder, no producirán efectos como títulos de crédito y serán considerados solamente como documentos probatorios.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 c.- Para los efectos de la emisión de certificados de participación podrán constituirse fideicomisos sobre toda clase de empresas industriales y mercantiles, consideradas como unidades económicas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 d.- Los certificados de participación serán designados como ordinarios o inmobiliarios, según que los bienes fideicometidos (sic) materia de la emisión sean muebles o inmuebles.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 e.- Tratándose de certificados de participación inmobiliarios, la sociedad emisora podrá establecer en beneficio de los tenedores, derechos de aprovechamiento directo del inmueble fideicometido (sic), cuya extensión, alcance y modalidades se determinarán en el acta de la emisión correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 f.- La sociedad emisora, previo el consentimiento y aprobación del representante común de los tenedores, en su caso, podrá concertar y obtener préstamos para el mejoramiento e incremento de los bienes inmuebles materia de la emisión, emitiendo por este concepto "certificados fiduciarios de adeudo."
+
+Los certificados fiduciarios de adeudo serán títulos de crédito contra el fideicomiso correspondiente. Serán preferentes en su pago a los certificados de participación de dicho fideicomiso.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 g.- Cuando la sociedad emisora esté autorizada para practicar también operaciones financieras en los términos de la ley respectiva podrán garantizar a los tenedores de los certificados que emita un mínimo de rendimiento; esta garantía será otorgada sin obligar al departamento fiduciario de la institución.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 h.- El monto total nominal de una emisión de certificados de participación será fijado mediante dictamen que formulen, previo peritaje que practiquen de los bienes fideicometidos (sic) materia de esa emisión, la Nacional Financiera, S. A., o el Banco Nacional Hipotecario Urbano y de Obras Públicas, S. A., respectivamente, según que se trate de bienes muebles o inmuebles.
+
+La Nacional Financiera o el Banco Nacional Hipotecario Urbano y de Obras Públicas, al formular su dictamen y fijar el monto total nominal de una emisión, tomarán como base el valor comercial de los bienes y si se tratare de certificados amortizables estimarán sobre éste un margen prudente de seguridad para la inversión de los tenedores correspondientes. El dictamen que se formule por dichas instituciones será definitivo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 i.- Los certificados podrán ser amortizables o no serlo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 j.- Los certificados amortizables darán a sus tenedores, además del derecho a una parte alícuota de los frutos o rendimientos correspondientes, el del reembolso del valor nominal de los tíulos (sic). En caso de que la sociedad fiduciaria emisora no hiciere el pago del valor nominal de los certificados a su vencimiento, sus tenedores tendrán los derechos a que se refieren los incisos b) y c) y el párrafo final del artículo 228 a.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 k.- Tratándose de certificados de participación no amortizables, la sociedad emisora no está obligada a hacer pago del valor nominal de ellos a sus tenedores en ningún tiempo. Al extinguirse el fideicomiso base de la emisión y de acuerdo con las resoluciones de la asamblea general de tenedores de certificados, la sociedad emisora procederá a hacer la adjudicación y venta de los bienes fideicometidos (sic) y la distribución del producto neto de la misma, en los términos del artículo 228 a.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 l.- Los certificados pueden ser nominativos o al portador o nominativos con cupones al portador, y serán emitidos por series, en denominaciones de cien pesos o de sus múltiplos.
+
+Los certificados darán a sus tenedores, dentro de cada serie, iguales derechos.
+
+Cualquier tenedor podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 m.- La emisión se hará previa declaración unilateral de voluntad de la sociedad emisora expresada en escritura pública, en la que se harán constar:
+
+I.- La denominación, el objeto y el domicilio de la sociedad emisora;
+
+II.- Una relación del acto constitutivo del fideicomiso, bases de la emisión;
+
+III.- Una descripción suficiente de los derechos o cosas materia de la emisión;
+
+IV.- El dictamen pericial a que se refiere el artículo 228 h;
+
+V.- El importe de la emisión, con especificación del número y valor de los certificados que se emitirán, y de las series y subseries, si las hubiere;
+
+VI.- La naturaleza de los títulos y los derechos que ellos conferirán;
+
+VII.- La denominación de los títulos;
+
+VIII.- En su caso, el mínimo de rendimiento garantizado;
+
+IX.- El término señalado por el pago de productos o rendimientos, y si los certificados fueren amortizables, los plazos, condiciones y forma de la amortización;
+
+X.- Los datos de registro que sean procedentes para la identificación de los bienes materia de la emisión y de los antecedentes de la misma;
+
+XI.- La designación de representante común de los tenedores de certificados y la aceptación de éste, con su declaración:
+
+a).- De haber verificado la constitución del fideicomiso, base de la emisión;
+
+b).- De haber comprobado la existencia de los bienes fideicometidos (sic) y la autenticidad del peritaje practicado sobre los mismos de acuerdo con el artículo 228 h.
+
+En caso de que los certificados se ofrezcan en venta al público, los avisos o la propaganda, contendrán los datos anteriores. Por violación de lo dispuesto en este párrafo quedarán solidariamente sujetos a daños y perjuicios aquellos a quienes la violación sea imputable.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 n.- El certificado de participación deberá contener:
+
+I.- La mención de ser “certificados de participación” y la expresión de si es ordinario o inmobiliario;
+
+II.- La designación de la sociedad emisora y la firma autógrafa del funcionario de la misma, autorizado para suscribir la emisión correspondiente;
+
+III.- La fecha de expedición del título;
+
+IV.- El importe de la emisión, con especificación de número y del valor nominal de los certificados que se emitan;
+
+V.- En su caso, el mínimo de rendimiento garantizado;
+
+VI.- El término señalado para el pago de productos o rendimientos y del capital y los plazos, condiciones y forma en que los certificados han de ser amortizados;
+
+VII.- El lugar y modo de pago;
+
+VIII.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
+
+IX.- El lugar y la fecha del acta de emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio;
+
+X.- La firma autógrafa del representante común de los tenedores de certificados.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+###### ARTICULO 228 o.
+
+Los términos y condiciones de las emisiones de certificados de participación deberán ser aprobados por la Comisión Nacional Bancaria, así como los textos de las actas de emisión y de los certificados y cualquiera modificación de ellos. Además, en el otorgamiento de un acta de emisión o de modificación deberá concurrir un representante de la Comisión Nacional Bancaria.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 p.- Cuando en el acta de emisión se haya estipulado que los certificados serán reembolsados por sorteos, se seguirá el procedimiento que establece el artículo 222 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 q.- Para representar al conjunto de los tenedores de certificados se designará un representante común que podrá no ser tenedor de certificados. El cargo de representante común es personal y será desempeñado por el individuo designado al efecto o por los representantes ordinarios de la institución de crédito o de la sociedad financiera o fiduciaria que sean nombrados para el cargo. El representante común podrá otorgar poderes judiciales.
+
+Son aplicables al representante común de los tenedores de certificados, en lo conducente, las disposiciones de los artículos 216 y 226 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 r.- El representante común de los tenedores de certificados obrará como mandatario de éstos, con las siguientes obligaciones y facultades, además de las que expresamente se consignen en el acta de emisión:
+
+1°.- Verificar los términos del acto constitutivo del fideicomiso base de la emisión;
+
+2°.- Comprobar la existencia de los derechos o bienes dados en fideicomiso, y en su caso, que las construcciones y los bienes inmovilizados incluídos en el fideicomiso estén asegurados, mientras la emisión no se amortice totalmente por su valor o por el importe de los certificados en circulación, cuando éste sea menor que aquél;
+
+3°.- Recibir y conservar los fondos relativos como depositario y aplicarlos al pago de los bienes adquiridos o de su construcción en los términos que señale el acta de emisión, cuando el importe de la misma o una parte de él, deban ser destinados a la adquisición o construcción de bienes;
+
+4°.- Autorizar con su firma los certificados que se emitan;
+
+5°.- Ejercitar todas las acciones o derechos que al conjunto de tenedores de certificados correspondan por el pago de intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios de esos derechos y acciones;
+
+6°.- Asistir a los sorteos en su caso;
+
+7°.- Convocar y presidir la asamblea general de tenedores de certificados y ejecutar sus decisiones;
+
+8°.- Recabar de los funcionarios de la institución fiduciaria emisora, todos los informes y datos que necesite para el ejercicio de sus atribuciones, inclusive los relativos a la situación financiera del fideicomiso base de la emisión.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 s.- La asamblea general de tenedores de certificados de participación representará el conjunto de éstos y sus decisiones, tomadas en los términos de esta Ley y de acuerdo con las estipulaciones relativas del acta de emisión, serán válidas respecto de todos los tenedores, aun de los ausentes o disidentes.
+
+Son aplicables a la asamblea general de tenedores de certificados de participación las disposiciones de los artículos 218, 219, 220 y 221 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 t.- El fideicomiso base de la emisión, no se extinguirá mientras haya saldos insolutos por concepto de créditos a cargo de la masa fiduciaria, de certificados o de participación en los frutos o rendimientos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 u.- Son aplicables a los derechos de los tenedores de certificados en lo conducente, los artículos 223 y 224.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
+
+ARTICULO 228 v.- Las acciones para el cobro de los cupones de los certificados prescribirán en tres años a partir del vencimiento. Las acciones para el cobro de los certificados amortizables prescribirán en cinco años a partir de la fecha en que venzan los plazos estipulados para hacer la amortización, o, en caso de sorteo, a partir de la fecha en que se publique la lista a que se refiere el artículo 222.
+
+La prescripción de las acciones para el cobro en efectivo o adjudicación, tratándose de certificados no amortizables, se regirá por las reglas del derecho común y principiará a correr el término correspondiente en la fecha que señale la asamblea general de tenedores que conozca de la terminación del fideicomiso correspondiente.
+
+La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salubridad y Asistencia.
+
 ### CAPITULO VI. Del certificado de depósito y del bono de prenda
-
-### CAPITULO VII. De la aplicación de leyes extranjeras
-
-> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
 
 ###### ARTICULO 229.
 
@@ -1860,7 +2042,9 @@ Para los efectos del artículo 152, por importe del bono de prenda se entenderá
 
 El tenedor que por primera vez negocie el bono de prenda separadamente del certificado de depósito se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de los artículos 168 y 169, en que se equiparará al girador.
 
-### CAPITULO I. Del reporto
+### CAPITULO VII. De la aplicación de leyes extranjeras
+
+> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
 
 ###### ARTICULO 252.
 
@@ -1896,11 +2080,7 @@ Se aplicarán las leyes mexicanas sobre prescripción y caducidad de las accione
 
 ## TITULO II. De las operaciones de crédito
 
-### CAPITULO II. Del depósito
-
-SECCION 1a.
-
-Del depósito bancario de dinero
+### CAPITULO I. Del reporto
 
 ###### ARTICULO 259.
 
@@ -1936,7 +2116,11 @@ En ningún caso el plazo del reporto se extenderá a más de cuarenta y cinco d�
 
 Si el primer día hábil siguiente a la expiración del plazo en que el reporto debe liquidarse, el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
 
-### CAPITULO III. Del descuento de créditos en libros
+### CAPITULO II. Del depósito
+
+SECCION 1a.
+
+Del depósito bancario de dinero
 
 ###### ARTICULO 267.
 
@@ -2038,13 +2222,7 @@ Sólo podrán ser retenidos los bienes o mercancías depositados en los Almacene
 
 Podrán ser retenidos por orden judicial, conforme a las disposiciones legales relativas, los bienes o mercancías depositados, el producto de su venta, el valor de la indemnización en caso de siniestro, o el importe de los fondos que tenga el Almacén a disposición del tenedor del bono o del certificado, en caso de sucesión o quiebra del tenedor del certificado o del bono, respectivamente, que tengan derecho conforme a esta ley, a la entrega de las mercancías o de los fondos. Igualmente podrá hacerse esta retención en los casos de extravío, robo, destrucción total, mutilación o grave deterioro del certificado o del bono conforme a los artículos 45, fracción II, y 65.
 
-### CAPITULO IV. De los créditos
-
-SECCION 1a.
-
-De la apertura de crédito
-
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+### CAPITULO III. Del descuento de créditos en libros
 
 ###### ARTICULO 288.
 
@@ -2066,7 +2244,13 @@ El descontatario será considerado, para todos los efectos de ley, como mandatar
 
 Sólo las instituciones de crédito podrán celebrar las operaciones a que se refiere este Capítulo.
 
-### CAPITULO V. Del fideicomiso
+### CAPITULO IV. De los créditos
+
+SECCION 1a.
+
+De la apertura de crédito
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 291.
 
@@ -2570,6 +2754,8 @@ II.- Aquellos en los cuales el beneficio se conceda a diversas personas sucesiva
 
 III.- Aquellos cuya duración sea mayor de 30 años, cuando se designe como beneficiario a una persona jurídica que no sea de orden público o institución de beneficencia. Sin embargo, pueden constituirse con duración mayor de 30 años cuando el fin del fideicomiso sea el mantenimiento de museos de carácter científico o artístico que no tengan fines de lucro.
 
+### CAPITULO V. Del fideicomiso
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1°.
@@ -2637,3 +2823,7 @@ D.O.F. 8 DE MAYO DE 1945.
 ## TRANSITORIO
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1946.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
