@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1984-02-02"
+last_updated: "1984-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 1984.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -385,11 +385,11 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 > <small>(REFORMADA, D.O.23 DE DICIEMBRE DE 1974)</small>
 
-VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo periodo de sesiones ordinarias o durante un periodo de sesiones extraordinarias a que se convoque; y aprobar la Ley de Ingresos y Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo,
+VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo periodo de sesiones ordinarias o durante un periodo de sesiones extraordinarias a que se convoque; y aprobar la Ley de Ingresos y Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo;
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios,
+VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -481,7 +481,7 @@ XXVI.- recibir la protesta de Ley al Gobernador del Estado, a los Magistrados de
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
-XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias,
+XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -689,7 +689,7 @@ Gobernador del Estado
 
 ### CAPITULO III. Restricciones a las facultades del Gobernador
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 44.
 
@@ -759,15 +759,15 @@ Si éste no estuviere reunido, se encargará del despacho provisionalmente el Se
 
 Si la ausencia del Gobernador Electo se debiere a fuerza, coacción o cualquier otra causa que impidan materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 51.
 
-En las faltas absolutas y en las temporales del Gobernador, el Congreso por mayoría absoluta del número total de Diputados elegirá al ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con ese carácter desempeñe el Poder Ejecutivo.
+En las faltas absolutas y en las temporales del Gobernador, el Congreso, por mayoría absoluta del número total de Diputados, eligirá (sic) al ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con ese carácter desempeñe el Poder Ejecutivo.
 
-Si al concurrir dichas faltas del Gobernador, estuviere en funciones la Comisión Permanente, ésta, procederá en los términos de la fracción VIII del artículo 43.
+Si al concurrir dichas faltas del Gobernador estuviere en funciones la Comisión Permanente, ésta procederá en los términos de la Fracción VIII del Artículo 43.
 
-Cuando la falta sea temporal y no exceda de sesenta días, el Secretario General de Gobierno atenderá el Despacho del Poder Ejecutivo.
+Cuando la falta sea temporal y no exceda de sesenta días se encargarán del despacho del Poder Ejecutivo los titulares de las dependencias que establezca la Ley Orgánica del Poder Ejecutivo, en la que se señala el orden en que asumirán el encargo.
 
 > <small>(REFORMADO, D.O. 22 DE ENERO DE 1955)</small>
 
@@ -781,17 +781,17 @@ Si la falta del Gobernador fuere absoluta y faltaren tres años o más para term
 
 Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, si ha desempeñado el cargo en los últimos seis meses del periodo.
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 54.
 
-Siempre que ocurra una falta absoluta del Gobernador y mientras se reúne el Congreso y designa Gobernador Interino, se hará cargo del despacho del Poder Ejecutivo el Secretario General de Gobierno; en los casos de falta absoluta o temporal de este funcionario, en que conforme a la Ley deba asumir el Ejecutivo del Estado, se encargará de éste el Oficial Mayor y a falta de éste el Secretario de Gobernación y Asuntos Jurídicos. En cualquiera de estos casos, el Encargado del Poder Ejecutivo hará entrega al Gobernador nombrado por el Congreso inmediatamente que se presente a recibirlo.
+Siempre que ocurra una falta absoluta o temporal del Gobernador y mientras se reúne el Congreso del Estado y designa interino, se harán cargo del Despacho del Poder Ejecutivo los titulares de las dependencias que establezca la Ley Orgánica del Poder Ejecutivo, en la que se señalará el orden en que asumirán el encargo en cualquiera de estos casos, el encargado del Poder Ejecutivo hará entrega del cargo al Gobernador nombrado por el Congreso, inmediatamente que se presente a recibirlo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 55.
 
@@ -831,9 +831,9 @@ XIII.- expedir la convocatoria para las elecciones públicas;
 
 XIV.- presentar ante el Congreso del Estado, a más tardar el día quince del mes de diciembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado, al Presupuesto de Egresos del Gobierno Estatal y a la Ley General de Hacienda del propio Estado, que hubieren de regir durante el año inmediato siguiente;
 
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
 
-XV.- resolver definitivamente por sí o por conducto del Secretario General de Gobierno o del funcionario que al efecto señale, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los Reglamentos Gubernativos, de Policía y de los demás recursos que conforme a las Leyes le competan;
+XV.- Resolver definitivamente por sí o por conducto del funcionario que al efecto señale la Ley Orgánica del Poder Ejecutivo del Estado, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
 
 XVI.- suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la Constitución Federal o a la del Estado o a cualquier otra Ley, o lesionen los intereses municipales, sometiéndolos al Congreso del Estado para que éste resuelva definitivamente;
 
@@ -859,21 +859,33 @@ XXII.- las demás que le confieren esta Constitución y otras leyes.
 
 ###### Artículo 56.
 
-No puede el Gobernador:
+El Gobernador no puede:
 
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
 
-I.- renunciar su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días, sin causa grave calificada por el Congreso. El Secretario de General Gobierno atenderá el despacho del Ejecutivo en las separaciones o ausencias del Gobernador que no excedan de sesenta días;
+I.- renunciar su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días sin causa grave calificada por el Congreso. En las separaciones o ausencias del Gobernador que no excedan de sesenta días atenderá el Despacho el funcionario que señale la Ley Orgánica del Poder Ejecutivo.
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 II.- imponer contribuciones;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 III.- impedir ni retardar la instalación del Congreso;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 IV.- impedir ni retardar las elecciones populares, ni intervenir en ellas para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo esto motivo de responsabilidad y nulidad de la elección;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 V.- mezclarse en las causas pendientes, ni disponer durante el juicio de las personas de los reos;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública; y
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícitos o espectáculos inmorales.
 
@@ -881,7 +893,7 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 ###### Artículo 57.
 
-Para el despacho de los asuntos encomendados al Poder Ejecutivo, el Titular de éste se auxiliará de los funcionarios y empleados que menciona la Ley Orgánica del Poder Ejecutivo del Estado.
+Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, el titular de este se auxiliará de los servidores públicos que establece la Ley Orgánica del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
@@ -893,11 +905,11 @@ Para ser titular de las dependencias del Poder Ejecutivo se requiere ser ciudada
 
 (DEROGADO, D.O. 29 DE ENERO 1982)
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 60.
 
-Todas las Iniciativas de Leyes, de Decretos y de Reglamentos, así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que puedan ser obligatorios, deberán estar firmados también por el Secretario General de Gobierno o por quienes hagan su vez conforme a la ley, las demás disposiciones del Gobernador del Estado, deberán ir también firmadas por el titular de la dependencia a la que el asunto corresponda, sin éste requisito no serán válidas.
+Todas las iniciativas de Leyes y Decretos así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que sean obligatorios deberán estar firmados por éste y por los titulares de las dependencias que establezca la Ley Orgánica del Poder Ejecutivo, sin este requisito no serán válidos.
 
 > <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
@@ -905,11 +917,11 @@ Todas las Iniciativas de Leyes, de Decretos y de Reglamentos, así como los regl
 
 Los titulares de las dependencias del Poder Ejecutivo, Directores, Jefes de Oficina y Organismos descentralizados, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 62.
 
-Las faltas del Secretario General de Gobierno, serán suplidas por el Oficial Mayor de Gobierno, con las mismas responsabilidades del substituido y, en igual forma, las faltas de éste serán suplidas por el Secretario de Gobernación y Asuntos Jurídicos.
+Las falta (sic) de los funcionarios del Gobierno serán suplidas en los términos de la Ley Orgánica del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1676,3 +1688,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O. 2 DE FEBRERO 1984.
 
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 11 DE MAYO DE 1984.
+
+UNICO.- Este decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
