@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2005-01-10"
+last_updated: "2005-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
 
@@ -473,9 +473,7 @@ En caso de empate por cualquiera de los medios de votación el asunto se resolve
 
 ###### ARTICULO 60.
 
-La votación económica será para la aprobación de: el Orden del Día y la del Acta de la Sesión anterior, la votación nominal será para la aprobación de: Dictámenes y Reglamentos, y la votación secreta, cuando el
-
-caso lo amerite.
+La votación económica será para la aprobación de: el Orden del Día y la del Acta de la Sesión anterior, la votación nominal será para la aprobación de: Dictámenes y Reglamentos, y la votación secreta, cuando el caso lo amerite.
 
 ###### ARTICULO 61.
 
@@ -663,9 +661,7 @@ Al entrar al recinto el Presidente de la República, el Gobernador del Estado o 
 
 ###### ARTICULO 92.
 
-En la sesión de instalación del H. Ayuntamiento y en las
-
-solemnes, El Presidente Municipal, los Regidores y Síndicos deberán asistir vestidos de manera formal, de preferencia de color oscuro.
+En la sesión de instalación del H. Ayuntamiento y en las solemnes, el Presidente Municipal, los Regidores y Síndicos deberán asistir vestidos de manera formal, de preferencia de color oscuro.
 
 ## TITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SUS FUNCIONES Y ATRIBUCIONES
 
@@ -1875,9 +1871,7 @@ Para que tengan validez las decisiones del Comité, será necesario el voto favo
 
 ###### ARTICULO 116.
 
-Las sesiones del comité se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar un acta por el Secretario del mismo, a la que se agregarán los documentos relacionados con las decisiones
-
-tomadas.
+Las sesiones del comité se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar un acta por el Secretario del mismo, a la que se agregarán los documentos relacionados con las decisiones tomadas.
 
 ###### ARTICULO 117.
 
@@ -7907,9 +7901,7 @@ XVI. La realización, dentro del territorio Municipal, de visitas de inspección
 
 XVII. La participación con el Estado, en la evaluación del impacto ambiental de las obras, proyectos o actividades de competencia estatal, que se realicen en el territorio municipal;
 
-XVIII. La atención y gestión de la denuncia popular que en el ámbito de su
-
-competencia presenten los grupos sociales y los particulares interesados o afectados por los problemas ambientales;
+XVIII. La atención y gestión de la denuncia popular que en el ámbito de su competencia presenten los grupos sociales y los particulares interesados o afectados por los problemas ambientales;
 
 XIX. Promover la organización permanente y ejecución de programas divulgando los procesos, tecnologías y sistemas informativos compatibles con el uso eficiente de la energía;
 
@@ -19115,49 +19107,45 @@ Los grupos de forcados, deberán actuar como tales respetando la usanza portugue
 
 Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos con fundas, lo cual decidirá "El Cabo" del acto al Municipio, en los programas se anunciará esta característica.
 
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2005)
+
 ## TITULO SEGUNDO. DE LA COMISION DE BOX Y LUCHA LIBRE PROFESIONALES
 
 ###### ARTICULO 1642.
 
-El presente capítulo regirá todos los espectáculos públicos, en que tengan lugar encuentros de Box y Lucha Libre Profesionales, dentro del Municipio de Aguascalientes y sus disposiciones se aplicarán por la Presidencia Municipal, por medio de la Comisión de Box y Lucha Municipal, las cuales estarán revestidas de la autoridad necesaria para hacerlas cumplir.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1643.
 
-La Comisión de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes, orientador y de servicios a los mismos. Dependerá de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en el Reglamento que ella misma elabore.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1644.
 
-El presidente de la Comisión de Box y Lucha Libre será nombrado por el Presidente Municipal. Los demás miembros serán designados por el C. Presidente Municipal en coordinación con el Presidente de la Comisión. Serán personas de reconocida honorabilidad, con amplios conocimientos en la materia; no tendrán ligas de ninguna clase con empresarios de box y lucha, promotores, representantes, auxiliares, boxeadores o cualquier otra persona conectada directamente con el boxeo o lucha libre profesional.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1645.
 
-La Comisión de Box y Lucha Libre, estará constituida por un Presidente, un Secretario, un Tesorero, tres Vocales mínimo o cinco máximo, Jefe de los servicios médicos y un Asesor General.
-
-La Comisión de Box y Lucha, será auxiliada en sus labores por un secretario adjunto o administrativo, y por el personal administrativo que sea necesario para el mejor desarrollo de sus funciones. Tanto el Secretario como el personal administrativo a que se hace referencia dependerán presupuestalmente de la Presidencia Municipal. El Secretario adjunto se encargará del despacho administrativo de todos los asuntos relacionados con la Comisión de Box y Lucha y en las juntas, asambleas, deliberaciones, acuerdos y decisiones que tome la misma, tendrá voz informativa, pero no voto.
-
-Las ausencias definitivas de los miembros de la Comisión de Box y Lucha, serán cubiertas por designaciones que para el efecto haga el Presidente Municipal, en coordinación con el Presidente de la Comisión de Box y Lucha.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1646.
 
-La Presidencia Municipal, auxiliará al comisionado en turno proporcionando los servicios de inspección y Policía Preventiva, en aquellas funciones en que éste requiera, para conservar el orden.
-
-El inspector autoridad que haya sido nombrado por la Presidencia Municipal, para vigilar el orden en funciones de box y lucha libre, estará a las órdenes directas del comisionado en turno, debiendo cumplir las decisiones y acuerdos que éste dicte.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1647.
 
-La Presidencia Municipal por conducto de la Dirección General de Gobierno, autorizará los programas de box y lucha profesionales que se presenten, previa opinión de la Comisión de box y Lucha Municipal.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1648.
 
-Para ser empresario del espectáculo de box y lucha libre profesional permanente o eventualmente, se requiere además de los requisitos que la propia Comisión establezca, tener en propiedad o en legal posesión un local debidamente acondicionado para esta clase de espectáculos que cuente con la licencia expedida por la Presidencia Municipal y el visto bueno de la Comisión de Box y Lucha por lo que se refiere a las instalaciones relacionadas con el box y lucha libre.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1649.
 
-Para que una empresa permanente o eventual pueda obtener de la Comisión de Box y Lucha autorización para celebrar funciones, deberá previamente obtener permiso de la Dirección General de Gobierno, exhibir fianza o depósito en efectivo que la Dirección General de Finanzas fije y que garantice plenamente el pago de los impuestos, derechos y multas que se generen.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ###### ARTICULO 1650.
 
-De los ingresos obtenidos de los impuestos recaudados por función, el H. Ayuntamiento podrá canalizar parte de los mismos para el cumplimiento de las obligaciones que tiene con la H. Comisión de Box y Lucha Libre.
+(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA ESPECTACULOS DE BOX, LUCHA LIBRE Y KICKBOXING PROFESIONALES EN EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE FEBRERO DE 2005)
 
 ## TITULO TERCERO. DE LOS ESPECTACULOS DEPORTIVOS
 
@@ -20346,3 +20334,11 @@ Lic. Tania Lorena Valdez Parga.
 P.O. 10 DE ENERO DE 2005.
 
 UNICO: Las (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2005.
+
+PRIMERO: El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Título Segundo de l Libro Octavo del Código Municipal de Aguascalientes, denominado De la Comisión de Box y Lucha Libre Profesionales.
+
+TERCERO: Se abrogan todas las disposiciones administrativas de carácter municipal que se contrapongan al presente Reglamento.
