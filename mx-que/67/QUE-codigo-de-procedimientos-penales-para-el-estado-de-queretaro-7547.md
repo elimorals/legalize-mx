@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2000-08-25"
+last_updated: "2002-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -643,11 +643,11 @@ La garantía se cancelará y en su caso se devolverá cuando se resuelva el no e
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2002)</small>
 
 ARTICULO 121 (Derecho a la libertad provisional bajo caución).- Todo imputado tendrá derecho a ser puesto en libertad bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de los delitos que por su gravedad se prohiba expresamente conceder ese beneficio.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
 Para los efectos de los artículos 16 y 20 de la Constitución Política de los Estados Unidos Mexicanos, se consideran delitos graves los previstos en la ley sustantiva penal, en los siguientes casos:
 
@@ -726,6 +726,14 @@ XVIII.- El fraude previsto por los artículos 193 y 194, cuando se cometan en la
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 XIX.- El abigeato previsto en la fracción III del artículo 189 Del Código Penal para el Estado de Querétaro.
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2002)</small>
+
+XX.- La evasión de personas aseguradas, en los supuestos de las fracciones III, V y VI del artículo 293 del Código Penal para el Estado de Querétaro.
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2002)</small>
+
+XXII.-(sic) Delitos contra la seguridad y el orden en el desarrollo urbano, en los casos previstos por el artículo 246-F y párrafo primero del artículo 246-G
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -1365,7 +1373,7 @@ Si la denuncia o querella se presentan ante un agente del Ministerio Público di
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 253 (No ejercicio de la acción penal, y derecho del ofendido a impugnarla)- Cuando en vista de las diligencias de preparación del ejercicio de la acción penal, el Agente del Ministerio Público estime que no es de ejercitarse la acción penal por los hechos que se le hubieren dado a conocer en la denuncia o querella, solicitará al Procurador General de Justicia autorización de archivo y no ejercicio de la acción penal, notificando desde luego en forma personal al ofendido, quien tendrá el derecho de ocurrir ante el Procurador General de Justicia del Estado dentro del término de quince días contados a partir del día siguiente al en que se le hizo la notificación para que este funcionario, oyendo el parecer de sus agentes auxiliares, si así lo estima conveniente, decida en definitiva si debe o no ejercitarse la acción penal. Esta determinación será notificada personalmente al ofendido.
+ARTICULO 253 (No ejercicio de la acción penal, y derecho del ofendido a impugnarla).- Cuando en vista de las diligencias de preparación del ejercicio de la acción penal, el Agente del Ministerio Público estime que no es de ejercitarse la acción penal por los hechos que se le hubieren dado a conocer en la denuncia o querella, solicitará al Procurador General de Justicia autorización de archivo y no ejercicio de la acción penal, notificando desde luego en forma personal al ofendido, quien tendrá el derecho de ocurrir ante el Procurador General de Justicia del Estado dentro del término de quince días contados a partir del día siguiente al en que se le hizo la notificación para que este funcionario, oyendo el parecer de sus agentes auxiliares, si así lo estima conveniente, decida en definitiva si debe o no ejercitarse la acción penal. Esta determinación será notificada personalmente al ofendido.
 
 Haya o no acudido el ofendido ante el Procurador General de Justicia del Estado a ejercer el derecho a que se refiere el párrafo anterior, si la determinación fuere de no ejercicio de la acción penal, podrá impugnarla en los términos establecidos por este Código.
 
@@ -1807,7 +1815,7 @@ Transcurrido este plazo, con informe o sin él, se dictará la resolución que p
 
 ###### ARTICULO 316.
 
-.- El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
+El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
 
 I.- Las sentencias definitivas;
 
@@ -2111,7 +2119,7 @@ ARTICULO 380 (Causas).- Habrá lugar a la nulidad y en su caso, la reposición d
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
-I.- Por no haberse hecho saber al procesado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, y el nombre de las personas que le imputen la comisión del delito;
+I.- Por no haberse hecho saber al procesado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, y el nombre de las personas que le imputen la comisión del delito:
 
 II.- Por no habérsele permitido nombrar defensor o no nombrársele el de oficio, en los términos que señala la ley; por no habérsele facilitado la manera de hacer saber al defensor su nombramiento, y por habérsele impedido comunicarse con él, o que dicho defensor lo asistiere en alguna de las diligencias del proceso;
 
@@ -2250,3 +2258,27 @@ La presente ley entrará en vigor al día siguiente al de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a los establecido en la presente ley.
+
+P.O. 23 DE AGOSTO DE 2002
+
+LEY QUE ADICIONA LA FRACCION XX AL ARTICULO 121 DEL CODIGO
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
+
+P.O. 23 DE AGOSTO DE 2002.
+
+LEY QUE ADICIONA LA FRACCION XXII AL ARTICULO 121 DEL CODIGO
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
