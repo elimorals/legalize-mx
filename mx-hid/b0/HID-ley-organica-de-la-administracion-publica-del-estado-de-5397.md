@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "1994-06-13"
+last_updated: "1995-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -127,7 +127,7 @@ VI.- Secretaría de Agricultura;
 
 VII.- Unidad de Contraloría Gubernamental; y
 
-VIII.- Procuraduría General de Justicia.
+VIII.- (DEROGADA, P.O. 14 DE AGOSTO DE 1995)
 
 ###### ARTICULO 14.
 
@@ -247,7 +247,13 @@ XXXI.- Coadyuvar con las autoridades federales en la aplicación y vigilancia de
 
 XXXII.- Intervenir a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos; y
 
-XXXIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+XXXIII.- Ejercer la función de Consejero Jurídico del Estado y representar los intereses del mismo ante cualquier autoridad.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+XXXIV.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### ARTICULO 25.
 
@@ -543,7 +549,7 @@ XIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 31.
 
-El Procurador General de Justicia y demás servidores del Ministerio Público y de la Policía Judicial, tendrán las atribuciones que les señalen la Constitución Política del Estado y la Ley Orgánica correspondiente. El Procurador será consejero jurídico del Gobernador.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1995)
 
 ## TITULO TERCERO. DEL SECTOR PARAESTATAL
 
@@ -612,3 +618,9 @@ LIC. JESUS MURILLO KARAM
 EL SECRETARIO DE GOBERNACION
 
 LIC. JUAN MANUEL SEPULVEDA FAYAD
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 1995.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
