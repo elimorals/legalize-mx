@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-y-atencion-para-la-prevencion-de-la-16492"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-07"
-last_updated: "1997-01-07"
+last_updated: "2002-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COA"
 
 LEY DE ASISTENCIA Y ATENCION PARA LA PREVENCION DE LA VIOLENCIA INTRAFAMILIAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-Ley publicada en el Periódico Oficial el martes 7 de enero de 1997.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA ATENCION PARA LA PREVENCION DE LA VIOLENCIA INTRAFAMILIAR, PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA EL 25 DE OCTUBRE DE 2002.</small>
+
+Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 7 de enero de 1997.
 
 LEY DE ASISTENCIA Y ATENCION PARA LA PREVENCION DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -372,3 +374,21 @@ EL SECRETARIO DE GOBIERNO
 LIC. CARLOS JUARISTI SEPTIEN
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE OCTUBRE DE 2002.
+
+Artículo Primero. La presente ley entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. A partir de esa fecha, queda abrogada la Ley de Asistencia y Atención para la Prevención de la Violencia Intrafamiliar, publicada en el Periódico Oficial del Estado del 7 de enero de 1997 y derogadas todas las disposiciones que sean contrarias a la misma.
+
+Artículo Tercero. El Consejo Estatal, la Junta Directiva y los Consejos Regionales a los que alude esta ley, deberán quedar instalados dentro de los treinta días siguientes a la fecha en que entre en vigor.
+
+Artículo Cuarto. Un mes después de su instalación, la Junta Directiva, formulará el Reglamento de las Unidades de Atención, para someterlo a la aprobación del Consejo Estatal para la Prevención, Asistencia y Atención de la Violencia Familiar.
+
+Artículo Quinto. La Secretaría de Gobierno, por conducto de la Dirección del Registro Civil, dispondrá la instrumentación necesaria para el asiento registral de los hechos generadores de violencia familiar, con las características que dispone esta ley.
+
+Artículo Sexto. La Procuraduría General de Justicia tendrá la obligación de instalar las Agencias Especializadas del Ministerio Público para la Atención de Víctimas de Violencia Familiar y Delitos Sexuales, en un plazo que no será mayor a los 30 días anteriores a la fecha en que entre en vigor esta Ley.
+
+Artículo Séptimo. La Junta Directiva, a través de la Procuraduría de la Familia, en base al Reglamento a que se refiere el artículo cuarto transitorio, deberá instalar las Unidades de Atención para la Prevención, Asistencia y Atención de la Violencia Familiar, quince días antes de la fecha en que entre en vigor esta Ley.
