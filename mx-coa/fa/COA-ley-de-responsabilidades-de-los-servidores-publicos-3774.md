@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "1993-06-22"
+last_updated: "2001-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 24 de abril de 1984.
 
@@ -43,9 +43,11 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL 
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley tiene por objeto reglamentar el Capítulo Unico del Título Sexto de la Constitución Política del Estado, en materia de:
+Esta ley tiene por objeto reglamentar el Capítulo Único del Título Séptimo de la Constitución Política del Estado, en materia de:
 
 I.- Los sujetos de responsabilidad en el servicio público;
 
@@ -63,7 +65,9 @@ VI.- El registro patrimonial de los servidores públicos.
 
 Son sujetos de esta Ley:
 
-I.- Los representantes de elección popular, los miembros del Poder Judicial, los servidores públicos del Estado y de los Municipios cualquiera que sea su jerarquía, rango, u origen de su nombramiento o lugar en que preste sus servicios y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, y en las entidades paraestatales o paramunicipales.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+I. Los representantes de elección popular, los miembros del Poder Judicial, los servidores públicos del estado y de los municipios cualquiera que sea su jerarquía, rango u origen de su nombramiento o lugar en que presten sus servicios, los consejeros electorales del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, y en las entidades paraestatales o paramunicipales.
 
 II.- Todos aquellos servidores públicos o personas que manejen o apliquen recursos económicos, estatales y municipales.
 
@@ -91,7 +95,9 @@ VIII.- Los Ayuntamientos Municipales y sus Dependencias;
 
 IX.- Los Organos Municipales de Control;
 
-X.- Los Consejos (sic) Directivos u Organos de Gobierno equivalentes, y las dependencias respectivas de las Entidades Paraestatales y Paramunicipales; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+X. Los organismos públicos autónomos, así como los Consejos (sic) Directivos u órganos de gobierno equivalentes, y las dependencias respectivas de las entidades paraestatales y paramunicipales; y
 
 XI.- Los demás Organos que determinen los Ordenamientos Legales aplicables.
 
@@ -119,9 +125,11 @@ VI.- Por Superior Jerárquico: El jefe inmediato del servidor público, en los t
 
 ### CAPITULO PRIMERO. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 6o.
 
-Son sujetos de juicio político: Los Diputados al Congreso Local; el Gobernador del Estado; el Secretario del Ejecutivo; el Procurador General de Justicia; el Tesorero General; Los (sic) Subsecretarios de Gobierno; los Subprocuradores de Justicia; el Oficial Mayor de Gobierno; Los (sic) Directores Generales y Directores de las Dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia del Estado; el Presidente del Tribunal Tutelar para menores; los Jueces de Primera Instancia; los Presidentes, Regidores y Síndicos de los Ayuntamientos del Estado; los integrantes de Consejos (sic) Municipales; y los Directores Generales y sus equivalentes de las entidades paraestatales y paramunicipales.
+Son sujetos de juicio político: los Diputados del Congreso del Estado; el Gobernador del Estado; los secretarios del ramo; el Procurador General de Justicia; los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados de los Tribunales Unitarios de Distrito; los Jueces de Primera Instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los Concejos Municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales y los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila.
 
 ###### ARTICULO 7o.
 
@@ -287,9 +295,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y presentando los ele
 
 El Ministerio Público, en su caso, podrá formular requerimientos ante el propio Congreso del Estado, para los mismos efectos.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 31.
 
-Para proceder penalmente contra el Gobernador del Estado; los Diputados al Congreso Local; los Magistrados del Tribunal Superior de Justicia; el Secretario del Ejecutivo; el Procurador General de Justicia; los Presidentes, Regidores y Síndicos de los Ayuntamientos, y los integrantes de Concejos Municipales, por la comisión de delitos durante el tiempo de su encargo, el Congreso deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador del Estado; los Diputados del Congreso Local; los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los secretarios del ramo; el Procurador General de Justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los Concejos Municipales; los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 ###### ARTICULO 32.
 
@@ -311,9 +321,11 @@ Si el Congreso resolviere que no procede acusar al servidor público denunciado,
 
 Las declaraciones que en estos casos emita el Congreso del Estado, serán inatacables.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 35.
 
-Cuando se trate del Gobernador del Estado, de los Diputados al Congreso Local, o de los Magistrados del Tribunal Superior de Justicia, éstos quedarán sujetos a la competencia del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva con la audiencia del inculpado del Ministerio Público y del acusador si lo hubiere.
+Cuando se trate del Gobernador del Estado, de los Diputados del Congreso Local, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Electoral, o de los consejeros electorales propietarios del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 ###### ARTICULO 36.
 
@@ -449,21 +461,23 @@ XX.- Informar al superior jerárquico de todo acto u omisión de los servidores 
 
 XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1993)</small>
 
 XXII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 1993)</small>
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1993)</small>
 
 XXIII.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 53.
 
-Corresponderá a los titulares de las dependencias estatales o municipales, o a los directores o sus equivalentes en las entidades del sector paraestatal y paramunicipal, vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos, y a la contraloría estatal y a los órganos municipales de control, y a los que hagan sus veces en los Poderes Legislativo y Judicial, vigilar el cumplimiento de las obligaciones a cargo de los titulares de las dependencias.
+Corresponderá a los titulares de las dependencias estatales o municipales, o a los directores o sus equivalentes en las entidades del sector paraestatal y paramunicipal, vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos y, a la contraloría estatal y a los órganos municipales de control, y a los que hagan sus veces en los Poderes Legislativo y Judicial y a los organismos públicos autónomos, vigilar el cumplimiento de las obligaciones a cargo de los titulares de las dependencias.
 
-El director de la contraloría estatal y los titulares de los órganos municipales de control, responderán, respectivamente, ante el Gobernador y los Ayuntamientos. Los responsables de los órganos equivalentes de los Poderes Judicial y Legislativo, responderán ante los plenos del Tribunal Superior de Justicia o del Congreso del Estado, según sea el caso.
+El titular de la Secretaría de la Contraloría y Modernización Administrativa y los titulares de los órganos municipales de control, responderán, respectivamente, ante el Gobernador y los Ayuntamientos. Los responsables de los órganos equivalentes de los Poderes Judicial, Legislativo y de los organismos públicos autónomos, responderán ante los plenos del Tribunal Superior de Justicia, del Congreso del Estado o del órgano público autónomo, según sea el caso.
 
 ### CAPITULO SEGUNDO. SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS
 
@@ -529,9 +543,11 @@ II.- El cociente se multiplicará por el salario mínimo mensual vigente en la c
 
 Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en la zona correspondiente a la capital del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 59.
 
-El Poder Judicial y los Ayuntamientos de la Entidad en sus respectivas leyes orgánicas y el Poder Legislativo en su Reglamento Interior, establecerán los órganos y procedimientos para determinar las responsabilidades administrativas derivadas del incumplimiento de las obligaciones de los servidores públicos bajo su dependencia, a que se refiere el artículo 52 de la presente Ley, así como para aplicar las sanciones correspondientes. En dichos ordenamientos legales se observarán, en lo aplicable, las normas contenidas en el capítulo segundo de este título.
+El Poder Judicial y los Ayuntamientos de la entidad en sus respectivas leyes o códigos, el Poder Legislativo en su Reglamento Interior y los organismos públicos autónomos en sus leyes y reglamentos interiores, establecerán los órganos y procedimientos para determinar las responsabilidades administrativas derivadas del incumplimiento de las obligaciones de los servidores públicos bajo su dependencia, a que se refiere el artículo 52 de la presente ley, así como para aplicar las sanciones correspondientes. En dichos ordenamientos legales se observarán, en lo aplicable, las normas contenidas en esta ley.
 
 ###### ARTICULO 60.
 
@@ -816,3 +832,17 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ (Rúbrica)
 P.O. 22 DE JUNIO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Estas reformas y adiciones a diversas disposiciones del Código Municipal para el Estado de Coahuila de Zaragoza y a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, entrarán en vigor el día de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El período constitucional de gobierno de los Ayuntamientos del estado de cuatro años, será aplicable sólo a partir de la renovación de los Ayuntamientos del año 2005 y, por tanto, los presidentes municipales, regidores y síndicos de los Ayuntamientos elegidos en el año 2005 durarán en su encargo cuatro años. Esta norma no podrá aplicarse en forma retroactiva.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
