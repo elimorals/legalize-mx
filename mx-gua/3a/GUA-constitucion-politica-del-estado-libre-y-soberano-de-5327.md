@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1974-12-29"
+last_updated: "1975-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -609,11 +609,13 @@ III. Tener 21 años cumplidos al tiempo de la elección; y.
 
 IV.- No encontrarse comprendido en alguna de las prohibiciones que señala el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 ###### Art. 37.
 
-No pueden ser Diputados a la Legislatura local:
+No pueden ser Diputados a la Legislatura Local:
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1933)</small>
 
 I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación.
 
@@ -621,11 +623,19 @@ I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la
 
 II. El Secretario General del Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Magistrados del Supremo Tribunal de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1933)</small>
+
 III. Los Militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas, regulares o irregulares, en el Distrito Electoral respectivo, dentro de los ciento ochenta días anteriores a la elección o cuando ésta se efectúe.
 
-IV. Los Presidentes Municipales y los Presidentes de las Juntas de Administración Civil o Concejos Municipales, durante el período para el cual fueren electos o designados, siempre que ejerzan sus funciones en un Municipio comprendido dentro del Distrito en que habrá de efectuarse su elección.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+IV. Los Presidentes Municipales y los Presidentes de las Juntas de Administración Civil o Consejos Municipales, a no ser que se separen definitivamente de sus cargos cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1933)</small>
 
 V. Los que sean o hayan sido ministros de cualquier culto.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
 Los Diputados a la Legislatura del Estado, no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
@@ -1239,7 +1249,7 @@ P.O. 11 DE MAYO DE 1944.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
-P. O. 3 DE JUNIO DE 1945.
+P.O. 3 DE JUNIO DE 1945.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
@@ -1259,7 +1269,7 @@ P.O. 23 DE JULIO DE 1959.
 
 Unico.- Este Decreto entrará en vigor, a partir del día de su publicación en el Periódico Oficial del Estado.
 
-P. O. 28 DE DICIEMBRE DE 1961.
+P.O. 28 DE DICIEMBRE DE 1961.
 
 ###### Artículo 1o.
 
@@ -1346,3 +1356,9 @@ Este decreto entrará en vigor el día de su publicación en el Periódico Ofici
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones de las leyes secundarias que se opongan a las contenidas en este decreto.
+
+P.O. 31 DE DICIEMBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
