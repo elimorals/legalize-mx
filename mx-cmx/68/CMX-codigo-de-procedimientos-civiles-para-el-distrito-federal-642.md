@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2002-01-17"
+last_updated: "2003-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ENERO DE 2003.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1016,9 +1016,9 @@ IV.- Cuando se estime que se trata de un caso urgente y así ordene;
 
 V.- El requerimiento de un acto a la parte que deba cumplirlo;
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, G.O. 16 DE ENERO DE 2003)</small>
 
-VI.- La sentencia que condene al arrendatario de casa habitación a desocuparla; y
+VI.- La sentencia dictada por el juez o la Sala del Tribunal que condene al arrendatario de casa habitación a desocuparla, así como el auto de su ejecución;
 
 VII.- En los demás casos que la ley disponga.
 
@@ -1482,7 +1482,7 @@ a).- De las acciones de petición de herencia;
 
 b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
+c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
@@ -4086,9 +4086,9 @@ II.- Si el hecho pudiere prestarse por otro, el juez nombrará persona que lo ej
 
 III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el juez lo ejecutará por el obligado, expresándose en el documento que se otorgó en rebeldía.
 
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, G.O. 16 DE ENERO DE 2003)</small>
 
-En el caso en que el arrendatario, en la contestación a la demanda, confiese o se allane a la misma, el juez concederá un plazo de cuatro meses para la desocupación del inmueble.
+En el caso que el arrendatario, en la contestación de la demanda, confiese o se allane a la misma, siempre y cuando esté y se mantenga al corriente en el pago de las rentas, el juez concederá un plazo de nueve meses para la desocupación del inmueble. Cuando la demanda se funde exclusivamente en el pago de rentas este beneficio será de seis meses, siempre y cuando exhiba las rentas adeudadas y se mantenga al corriente en el pago de las mismas.
 
 ARTICULO 518
 
@@ -6970,7 +6970,7 @@ IV.- Dictadas las providencias que establecen las fracciones anteriores se proce
 
 > <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2002)</small>
 
-V. Hecho lo anterior el juez citará a una audiencia, en la cual si estuvieren conformes el Tutor y el Ministerio Público con el solicitante de la interdicción, dictará la resolución que la declare. En caso de que en la resolución se haya declarado la interdicción, ésta deberá establecer el alcance de la capacidad y determinar la extensión y límites de la Tutela, en los términos enunciados en el segundo párrafo del Artículo 462 del Código civil para el Distrito Federal.
+V.- Hecho lo anterior el juez citará a una audiencia, en la cual si estuvieren conformes el Tutor y e! Ministerio Público con el solicitante de la interdicción, dictará la resolución que la declare. En caso de que en la resolución se haya declarado la interdicción, ésta deberá establecer el alcance de la capacidad y determinar la extensión y límites de la Tutela, en los términos enunciados en el segundo párrafo del Artículo 462 del Código civil para el Distrito Federal.
 
 Si en dicha audiencia hubiera oposición de parte, se substanciará un Juicio Ordinario con intervención del Ministerio Público.
 
@@ -7440,7 +7440,9 @@ ARTICULO 957
 
 A las controversias que versen sobre el arrendamiento inmobiliario les serán aplicables las disposiciones de este título. El juez tendrá las más amplias facultades para decidir en forma pronta y expedita lo que en derecho convenga.
 
-A las acciones que se intenten contra el fiador que haya otorgado fianza de carácter civil o terceros por controversias derivadas del arrendamiento, se aplicarán las reglas de este título, en lo conducente. Igualmente, la acción que intente el arrendatario para exigir al arrendador el pago de daños y perjuicios a que se refieren los artículos 2447 y 2448-J del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se sujetará a lo dispuesto en este título.
+(REFORMADO, G.O. 16 DE ENERO DE 2003) (F. DE E., G.O. 6 DE FEBRERO DE 2003)
+
+A las acciones que se intenten contra el fiador que haya otorgado fianza de carácter civil o terceros por controversias derivados del arrendamiento, se aplicarán las reglas de este título, en lo conducente. Igualmente, la acción que intente el arrendatario para exigir al arrendador, el Derecho de Preferencia y el pago de los daños y perjuicios a que se refieren los artículos 2447 y 2448-J del Código Civil para el Distrito Federal, se sujetará a lo dispuesto en este título.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -7450,15 +7452,15 @@ Para el ejercicio de cualesquiera de las acciones previstas en este título, el 
 
 En la demanda, contestación, reconvención y contestación a la reconvención, las partes deberán ofrecer las pruebas que pretendan rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieran en su poder en los términos de los artículos 96 y 97 de este Código.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, G.O. 16 DE ENERO DE 2003)</small>
 
 ARTICULO 959
 
-Una vez admitida la demanda con los documentos y copias requeridas, se correrá traslado de ella a la parte demandada, señalando el juez en el auto de admisión, fecha para la celebración de la audiencia de Ley, que deberá fijarse entre los 25 y 35 días posteriores a la fecha del auto de admisión de la demanda.
+Una vez admitida la demanda con los documentos y copias requeridas, se correrá traslado de ella a la parte demandada, señalando el juez en el auto de admisión, fecha para la celebración de la audiencia de ley, que deberá fijarse entre los 40 y 50 días posteriores a la fecha del auto de admisión de la demanda.
 
-El demandado deberá dar contestación y formular en su caso reconvención dentro de los 5 días siguientes a la fecha del emplazamiento. Si hubiera reconvención se correrá traslado de ésta a la parte actora para que la conteste dentro de los 5 días siguientes a la fecha de notificación del auto que la admita.
+El demandado deberá dar contestación y formular en su caso reconvención dentro de los 5 días hábiles siguientes a la fecha del emplazamiento; si hubiere reconvención se correrá traslado de ésta a la parte actora para que la conteste dentro de los 5 días hábiles siguientes a la fecha de notificación del auto que la admita.
 
-Una vez contestada la demanda y, en su caso, la reconvención, o transcurridos los plazos para ello, el juez admitirá las pruebas ofrecidas conforme a derecho y rechazará las que no lo sean, fijando la forma de preparación de las mismas, a efecto de que se desahoguen a más tardar en la audiencia de Ley.
+Una vez contestada la demanda y, en su caso, la reconvención, o transcurridos los plazos para ello, el juez en el mismo auto admitirá las pruebas ofrecidas conforme a derecho y desechará las que no cumplan con las condiciones apuntadas en el Capitulo III, del Título Sexto de este Código, fijando la forma de preparación de las mismas, a efecto de que se desahoguen a más tardar en la audiencia de ley, sin que esta pueda diferirse por ninguna circunstancia, salvo caso fortuito o de fuerza mayor.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -7487,6 +7489,10 @@ III.- Desahogadas las pruebas, las partes alegarán lo que a su derecho convenga
 ARTICULO 962
 
 En caso de que dentro del juicio a que se refiere este título, se demande el pago de rentas atrasadas por 2 ó más meses, la parte actora podrá solicitar al juez que la demandada acredite con los recibos de renta correspondientes o escritos de consignación debidamente sellados, que se encuentra al corriente en el pago de las rentas pactadas y no haciéndolo se embargarán bienes de su propiedad suficientes para cubrir las rentas adeudadas.
+
+> <small>(ADICIONADO, G.O. 16 DE ENERO DE 2003)</small>
+
+En el caso de que la (sic) contestar la demanda, se acredite que se encuentra al corriente en dichos pagos, el Juez concluirá el juicio.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -8281,3 +8287,11 @@ G.O. 17 DE ENERO DE 2002.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 16 DE ENERO DE 2003.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor de este decreto, continuarán tramitándose hasta su conclusión, en los términos de la legislación vigente en el momento de su inicio.
