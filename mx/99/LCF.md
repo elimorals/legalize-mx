@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1993-12-29"
+last_updated: "1995-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -452,11 +452,7 @@ Las entidades federativas podrán ocurrir ante la Suprema Corte de Justicia de l
 
 El Estado inconforme con la declaratoria por la que se considera que deja de estar adherido al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado conforme al artículo anterior de esta Ley.
 
-El juicio deberá promoverse dentro de los 30 días siguientes a la fecha en que se hubiera publicado en el "Diario Oficial" de la Federación la citada declaratoria. Con la demanda se ofrecerán pruebas y se acompañarán las documentales de que disponga el Estado.
-
-Se correrá traslado de la demanda al Ejecutivo Federal y a la Secretaría de Hacienda y Crédito Público, para que la contesten en el plazo de 30 días y ofrezcan pruebas, acompañando las documentales de que dispongan.
-
-Al admitirse la demanda se señalará la fecha para la celebración de una audiencia, que habrá de verificarse antes de los 90 días siguientes y, dentro de este término, tanto el Estado que haya promovido el juicio, como el Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público podrán aportar las pruebas ofrecidas y que no hubieran presentado con la demanda o contestación. En la audiencia formularán alegatos y la Suprema Corte de Justicia de la Nación pronunciará su fallo.
+> <small>(DEROGADOS LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DE LA FRACCION I Y II DEL ART. 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, D.O.F. 11 DE MAYO DE 1995)</small>
 
 Desde la admisión de la demanda se suspenderán los efectos de la declaratoria impugnada, por 150 días. El fallo de la Suprema Corte de Justicia de la Nación producirá efectos 30 días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -991,3 +987,11 @@ DISPOSICION TRANSITORIA
 ## TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 11 DE MAYO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.
