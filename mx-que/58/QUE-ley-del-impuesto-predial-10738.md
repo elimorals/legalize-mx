@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1986-12-31"
+last_updated: "1987-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1987.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -405,6 +405,14 @@ Para los efectos de este artículo, se entiende por salario mínimo diario, el v
 
 En ningún caso el impuesto a pagar será menor a la cantidad de un día de salario mínimo diario vigente en el Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1987)</small>
+
+Quienes acrediten que son pensionados o jubilados y bajo protesta de decir verdad manifiesten que no reciben otro ingreso en dinero, pagarán al año la cantidad referida en al párrafo anterior siempre que demuestren que el inmueble objeto del impuesto en su única propiedad, que lo están habitando y no lo destinada parcialmente a arrendamiento
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1987)</small>
+
+En el mismo supuesto estarán los propietarios que, aunque no sean pensionados o jubilados, dependan económicamente de uno de éstos, debiendo cumplir con los requisitos del párrafo anterior.
+
 ###### ARTÍCULO 40.
 
 Para todos los efectos de este Impuesto, se tendrá como domicilio el último manifestado por el sujeto del Impuesto, o el propio predio si no se manifestó domicilio o si el manifestado se encuentra fuera del Municipio.
@@ -468,3 +476,11 @@ LIC. MARIANO PALACIOS ALCOCER
 El Secretario de Gobierno
 
 LIC. JOSÉ MARÍA FERNÁNDEZ SOLIS.
+
+N. DE. E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 23 DE ABRIL DE 1987
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
