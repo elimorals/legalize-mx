@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2003-12-30"
+last_updated: "2004-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -51,7 +51,7 @@ El Municipio libre es un nivel de gobierno, así como la base de la organizació
 
 Cada Municipio es gobernado por un Ayuntamiento de elección popular directa. Las competencias municipales deben ser ejercidas de manera exclusiva por el Ayuntamiento y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2004)</small>
 
 ###### Artículo 4.
 
@@ -93,219 +93,221 @@ El Estado de Jalisco se divide en los municipios libres siguientes:
 
 18. Cañadas de Obregón,
 
-19. Casimiro Castillo,
+19. Capilla de Guadalupe,
 
-20. Cihuatlán,
+20. Casimiro Castillo,
 
-21. Cocula,
+21. Cihuatlán,
 
-22. Colotlán,
+22. Cocula,
 
-23. Concepción de Buenos Aires,
+23. Colotlán,
 
-24. Cuautitlán de García Barragán,
+24. Concepción de Buenos Aires,
 
-25. Cuautla,
+25. Cuautitlán de García Barragán,
 
-26. Cuquio,
+26. Cuautla,
 
-27. Chapala,
+27. Cuquio,
 
-28. Chimaltitán,
+28. Chapala,
 
-29. Chiquilistlán,
+29. Chimaltitán,
 
-30. Degollado,
+30. Chiquilistlán,
 
-31. Ejutla,
+31. Degollado,
 
-32. El Arenal,
+32. Ejutla,
 
-33. El Grullo,
+33. El Arenal,
 
-34. El Limón,
+34. El Grullo,
 
-35. El Salto,
+35. El Limón,
 
-36. Encarnación de Díaz,
+36. El Salto,
 
-37. Etzatlán,
+37. Encarnación de Díaz,
 
-38. Gómez Farías,
+38. Etzatlán,
 
-39. Guachinango,
+39. Gómez Farías,
 
-40. Guadalajara,
+40. Guachinango,
 
-41. Hostotipaquillo,
+41. Guadalajara,
 
-42. Huejúcar,
+42. Hostotipaquillo,
 
-43. Huejuquilla el Alto,
+43. Huejúcar,
 
-44. Ixtlahuacán de los Membrillos,
+44. Huejuquilla el Alto,
 
-45. Ixtlahuacán del Río,
+45. Ixtlahuacán de los Membrillos,
 
-46. Jalostotitlán,
+46. Ixtlahuacán del Río,
 
-47. Jamay,
+47. Jalostotitlán,
 
-48. Jesús María,
+48. Jamay,
 
-49. Jilotlán de los Dolores,
+49. Jesús María,
 
-50. Jocotepec,
+50. Jilotlán de los Dolores,
 
-51. Juanacatlán,
+51. Jocotepec,
 
-52. Juchitlán,
+52. Juanacatlán,
 
-53. La Barca,
+53. Juchitlán,
 
-54. La Huerta,
+54. La Barca,
 
-55. La Manzanilla de la Paz,
+55. La Huerta,
 
-56. Lagos de Moreno,
+56. La Manzanilla de la Paz,
 
-57. Magdalena,
+57. Lagos de Moreno,
 
-58. Mascota,
+58. Magdalena,
 
-59. Mazamitla,
+59. Mascota,
 
-60. Mexticacán,
+60. Mazamitla,
 
-61. Mezquitic,
+61. Mexticacán,
 
-62. Mixtlán,
+62. Mezquitic,
 
-63. Ocotlán,
+63. Mixtlán,
 
-64. Ojuelos de Jalisco,
+64. Ocotlán,
 
-65. Pihuamo,
+65. Ojuelos de Jalisco,
 
-66. Poncitlán,
+66. Pihuamo,
 
-67. Puerto Vallarta,
+67. Poncitlán,
 
-68. Quitupan,
+68. Puerto Vallarta,
 
-69. San Cristóbal de la Barranca,
+69. Quitupan,
 
-70. San Diego de Alejandría,
+70. San Cristóbal de la Barranca,
 
-71. San Gabriel,
+71. San Diego de Alejandría,
 
-72. San Ignacio Cerro Gordo,
+72. San Gabriel,
 
-73. San Juan de los Lagos,
+73. San Ignacio Cerro Gordo,
 
-74. San Juanito de Escobedo,
+74. San Juan de los Lagos,
 
-75. San Julián,
+75. San Juanito de Escobedo,
 
-76. San Marcos,
+76. San Julián,
 
-77. San Martín de Bolaños,
+77. San Marcos,
 
-78. San Martín Hidalgo,
+78. San Martín de Bolaños,
 
-79. San Miguel el Alto,
+79. San Martín Hidalgo,
 
-80. San Sebastián del Oeste,
+80. San Miguel el Alto,
 
-81. Santa María de los Angeles,
+81. San Sebastián del Oeste,
 
-82. Santa María del Oro,
+82. Santa María de los Angeles,
 
-83. Sayula,
+83. Santa María del Oro,
 
-84. Tala,
+84. Sayula,
 
-85. Talpa de Allende,
+85. Tala,
 
-86. Tamazula de Gordiano,
+86. Talpa de Allende,
 
-87. Tapalpa,
+87. Tamazula de Gordiano,
 
-88. Tecalitlán,
+88. Tapalpa,
 
-89. Tecolotlán,
+89. Tecalitlán,
 
-90. Techaluta de Montenegro,
+90. Tecolotlán,
 
-91. Tenamaxtlán,
+91. Techaluta de Montenegro,
 
-92. Teocaltiche,
+92. Tenamaxtlán,
 
-93. Teocuitatlán de Corona,
+93. Teocaltiche,
 
-94. Tepatitlán de Morelos,
+94. Teocuitatlán de Corona,
 
-95. Tequila,
+95. Tepatitlán de Morelos,
 
-96. Teuchitlán,
+96. Tequila,
 
-97. Tizapán el Alto,
+97. Teuchitlán,
 
-98. Tlajomulco de Zuñiga,
+98. Tizapán el Alto,
 
-99. Tlaquepaque,
+99. Tlajomulco de Zuñiga,
 
-100. Tolimán,
+100. Tlaquepaque,
 
-101. Tomatlán,
+101. Tolimán,
 
-102. Tonalá,
+102. Tomatlán,
 
-103. Tonaya,
+103. Tonalá,
 
-104. Tonila,
+104. Tonaya,
 
-105. Totatiche,
+105. Tonila,
 
-106. Tototlán,
+106. Totatiche,
 
-107. Tuxcacuesco,
+107. Tototlán,
 
-108. Tuxcueca,
+108. Tuxcacuesco,
 
-109. Tuxpan,
+109. Tuxcueca,
 
-110. Unión de San Antonio,
+110. Tuxpan,
 
-111. Unión de Tula,
+111. Unión de San Antonio,
 
-112. Valle de Guadalupe,
+112. Unión de Tula,
 
-113. Valle de Juárez,
+113. Valle de Guadalupe,
 
-114. Villa Corona,
+114. Valle de Juárez,
 
-115. Villa Guerrero,
+115. Villa Corona,
 
-116. Villa Hidalgo,
+116. Villa Guerrero,
 
-117. Villa Purificación,
+117. Villa Hidalgo,
 
-118. Yahualica de González Gallo,
+118. Villa Purificación,
 
-119. Zacoalco de Torres,
+119. Yahualica de González Gallo,
 
-120. Zapotiltic,
+120. Zacoalco de Torres,
 
-121. Zapopan,
+121. Zapotiltic,
 
-122. Zapotitlán de Vadillo,
+122. Zapopan,
 
-123. Zapotlán del Rey,
+123. Zapotitlán de Vadillo,
 
-124. Zapotlán el Grande, y
+124. Zapotlán del Rey,
 
-125. Zapotlanejo.
+125. Zapotlán el Grande, y
+
+126. Zapotlanejo.
 
 ###### Artículo 5.
 
@@ -1976,3 +1978,41 @@ Artículo Décimo Tercero. Las obligaciones laborales del Municipio de Arandas c
 Artículo Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de San Ignacio Cerro Gordo se observarán en lo conducente las correspondientes al municipio de Arandas.
 
 Artículo Décimo Quinto. El Congreso del Estado tendrá facultades para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
+
+P.O. 6 DE MARZO DE 2004.
+
+Primero. Publíquese íntegramente el presente decreto incluyendo sus consideraciones en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. El Presente decreto entrará en vigor el día 1º de septiembre del año 2005, salvo lo establecido en los siguientes transitorios.
+
+Tercero. El primer Ayuntamiento del Municipio de Capilla de Guadalupe será electo en las elecciones ordinarias a celebrarse el primer domingo del mes de julio del año 2006 y entrará en funciones el 1º de enero del año 2007.
+
+Cuarto. Mientras entra en funciones el primer Ayuntamiento, el gobierno y administración del Municipio de Capilla de Guadalupe se depositará en un Concejo Municipal designado por el Congreso del Estado e integrado por diez concejales y un síndico propietarios y sus respectivos suplentes que deberán reunir los mismos requisitos constitucionales y legales que se exigen para el cargo.
+
+La designación del Consejo Municipal deberá hacerse en Sesión Ordinaria del Congreso del Estado que se celebre previa convocatoria para que presenten propuestas a consejeros a los habitantes del nuevo municipio, a más tardar el 30 de noviembre del año 2005. El Congreso del Estado por dos terceras partes de los diputados que concurran a la Sesión nombrará a los concejales y a quien habrá de fungir como Presidente del Concejo Municipal.
+
+Quinto.- Los miembros del Concejo Municipal de Capilla de Guadalupe rendirán protesta el día 1º de enero de 2006, en sesión solemne de Ayuntamiento que se realizará en la cabecera municipal denominada Capilla de Guadalupe, ante la representación del Congreso, con la presencia del ciudadano Gobernador Constitucional del Estado y del Presidente del Supremo Tribunal de Justicia.
+
+El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Concejo.
+
+Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadalupe deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
+
+Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de Capilla de Guadalupe.
+
+Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
+
+Noveno. Una vez que entre en funciones el Concejo Municipal de Capilla de Guadalupe, el Ayuntamiento de Tepatitlán de Morelos, procederá a transferir los bienes muebles e inmuebles a los que se refiere el artículo 84 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, que estén dentro de su patrimonio, los cuales deberán estar dentro de la extensión territorial a que se refiere este decreto, y transferirlos con el destino al que estaban afectos a favor del nuevo municipio.
+
+Décimo. A partir del día 1º de enero del año 2006, los residentes del territorio correspondiente al nuevo municipio se considerarán vecinos y habitantes del mismo, quedando sujetos a la jurisdicción de las autoridades de Capilla de Guadalupe. Sólo para efectos de computar antigüedad de residencia se tomará en cuenta la que tuvieren en el lugar desde antes de la constitución del nuevo municipio.
+
+Décimo Primero. Las obligaciones de contenido económico suscritas por el Ayuntamiento de Tepatitlán de Morelos, por obras de beneficio colectivo realizadas en el territorio del Municipio de Capilla de Guadalupe, pasarán a cargo del nuevo municipio a partir del día 1º de enero del año 2006.
+
+Décimo Segundo. El Ayuntamiento de Capilla de Guadalupe tendrá presupuesto propio. Para tal efecto su hacienda pública percibirá los ingresos derivados de los impuestos, contribuciones especiales, derechos, productos, aprovechamientos y participaciones establecidos en la Ley de Ingresos del Municipio de Capilla de Guadalupe, la cual deberá ser expedida por el Congreso del Estado a más tardar el día 30 de noviembre del año 2005, para que entre en vigor el 1º del (sic) enero del año 2006.
+
+Serán aplicables en el Municipio de Capilla de Guadalupe, en el ejercicio fiscal del año 2006, las Tablas de Valores vigentes en el Municipio de Tepatitlán de Morelos para el ejercicio fiscal del año 2005.
+
+Décimo Tercero. Las obligaciones laborales del Municipio de Tepatitlán de Morelos con los trabajadores a su servicio en las Delegaciones Municipales de Capilla de Guadalupe y San José de Gracia, serán asumidas por el nuevo municipio a partir del día 1º de enero del año 2006, el cual deberá respetar los derechos individuales y colectivos de dichos trabajadores, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al municipio de Tepatitlán de Morelos.
+
+Décimo Quinto. En Congreso del Estado tendrá facultad para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
