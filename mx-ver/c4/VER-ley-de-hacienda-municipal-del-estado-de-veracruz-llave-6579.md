@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1992-12-31"
+last_updated: "1995-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 1995.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -377,7 +377,7 @@ Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos 
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-IV.- Predios Baldíos …………………………………………………………………..….7.5
+IV.- Predios Baldíos ……………………………………………………………………….7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
 
@@ -453,7 +453,9 @@ Es objeto de este impuesto:
 
 I.- La transmisión contractual de la propiedad de bienes inmuebles o derechos de copropiedad sobre éstos;
 
-II.- La transmisión de la propiedad de bienes inmuebles en los casos de constitución o fusión de sociedades, aumento o reducción de capital social, pago en especie de remanentes, utilidades o dividendos y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1995)</small>
+
+II.- La transmisión de la propiedad de bienes inmuebles, en los casos de constitución, fusión, escisión de sociedades, aumento o reducción de capital social, pago en especie de utilidades o dividendos, y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles.
 
 III.- La adquisición de la propiedad de bienes inmuebles en virtud de la prescripción o de la información ad perpétuam respectiva.
 
@@ -526,6 +528,10 @@ Para los efectos de este impuesto se considera, salvo prueba en contrario, que s
 ###### ARTICULO 55.
 
 La base de este impuesto será el valor del inmueble, catastral o provisional o el de operación si éste es mayor y el impuesto se causará, liquidará y pagará aplicando la tasa de 2% sobre la base indicada en este artículo.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1995)</small>
+
+En los inmuebles adquiridos en un período de tres años anteriores a la fecha de operación actual, el impuesto se podrá calcular sobre el valor resultante de la disminución del valor que se tomó como base en el cálculo del impuesto en la última adquisición, al valor mayor que se refiere el párrafo anterior.
 
 Tratándose del usufructo o de la nuda propiedad, la base del impuesto será el 50% en cada caso.
 
@@ -3184,3 +3190,7 @@ El presente ordenamiento entrará en vigor el día 1 de Enero de 1993, previa pu
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 9 DE FEBRERO DE 1995.
+
+UNICO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Organo del Gobierno del Estado.
