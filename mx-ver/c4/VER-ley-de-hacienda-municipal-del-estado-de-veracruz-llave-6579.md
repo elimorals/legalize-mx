@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1983-12-31"
+last_updated: "1989-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -547,17 +547,15 @@ En el caso de que las constancias contengan adeudo, el Notario podrá autorizar 
 
 Si apareciere algún crédito por concepto de contribuciones por mejoras al Estado o al Municipio, con fecha de vencimiento para el pago posterior a la fecha de la escritura los Notarios podrán autorizarla siempre y cuando el adquirente acepte dicho crédito y se haga constar en el texto de la misma.
 
-###### ARTICULO 59.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
 
-Los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, ante quienes se hagan constar en escritura pública los actos objeto de este impuesto, calcularán el mismo bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante la forma oficial autorizada, en la Tesorería Municipal dentro de cuya jurisdicción se encuentren los bienes inmuebles objeto de la operación. En los demás casos los contribuyentes pagarán el impuesto mediante la forma oficial ante la Tesorería Municipal señalada. Se presentará declaración por todas las operaciones aun cuando no haya impuesto a pagar.
+ARTlCULO 59.- Los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, ante quienes se hagan constar en escritura pública los actos objeto de este impuesto, calcularán el mismo bajo su responsabilidad y lo enterarán mediante la forma oficial autorizada, en la Tesorería Municipal dentro de cuya jurisdicción se encuentren los bienes inmuebles objeto de la operación. En los demás casos los contribuyentes pagarán el impuesto mediante la forma oficial ante la Tesorería Municipal señalada. Se presentará declaración por todas las operaciones aun cuando no haya impuesto a pagar.
 
 Con la forma oficial de declaración deberán acompañarse:
 
-a).- Copia del certificado en que conste el valor catastral o provisional en su caso.
+a) Copia del certificado en que conste el valor catastral o provisional en su caso.
 
-b).- Copia de las constancias con las que se haya rendido el informe de no adeudo.
-
-Las copias de dichos documentos deberán agregarse al apéndice de la escritura correspondiente.
+b) Copia de las constancias con las que se haya rendido el informe de no adeudo.
 
 Cuando la Tesorería Municipal lo estime necesario, podrá solicitar de los fedatarios o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiere hecho constar el acto o contrato de que se trata.
 
@@ -571,7 +569,9 @@ Si en la declaración se oculta superficie de terreno o de las construcciones co
 
 Los notarios, jueces y demás funcionarios del Estado, no certificarán las firmas de los contratos privados a que se refiere este capítulo, sin que se les compruebe el pago del impuesto.
 
-Los encargados del Registro Público de la Propiedad no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no sean exhibidos los comprobantes de pago del impuesto.
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
+Los encargados del Registro Público de la Propiedad, no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no haya constancia de haber sido pagado el impuesto correspondiente. Los Notarios Públicos harán constar los datos relativos al pago del impuesto en los testimonios que de las escrituras expidan.
 
 ###### ARTICULO 62.
 
@@ -1782,3 +1782,15 @@ DADA en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciud
 Por tanto, mando se imprima, promulgue, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 30 de diciembre de 1983.-Lic. AGUSTIN ACOSTA LAGUNES.-Rúbrica.-El Secretario de Gobierno, Lic. IGNACIO MORALES LECHUGA.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE ABRIL DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor quince días después de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
