@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1993-12-27"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -257,7 +257,7 @@ E) Predios con restricciones de uso de suelo, por disposición oficial.
 
 Las tasas del Impuesto Predial se modificarán cuando:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADOA, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 I. Se realice alguna de las causas que establece la Ley de Catastro para practicar nuevo avalúo.
 
@@ -393,9 +393,11 @@ También se considerarán comprendidas en este capítulo las manifestaciones de 
 
 Los notarios públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería Municipal correspondiente al lugar donde se ubique el predio, dentro del mismo término que establece el primer párrafo de este artículo, pudiendo emplear para este efecto, la manifestación que formulen en relación con el impuesto sobre adquisición de inmuebles y otras operaciones con bienes inmuebles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 31.
 
-Los sujetos de este impuesto estarán obligados a manifestar a la Tesorería Municipal correspondiente los cambios de domicilio, dentro de los quince días siguientes a aquel en que se efectúen.
+Los sujetos de este impuesto estarán obligados a manifestar a la tesorería municipal correspondiente, el domicilio de notificación, cuando éste sea en lugar distinto a la ubicación del predio y asimismo, el cambio de éste, dentro de los quince días siguientes a aquél en que se efectúe.
 
 Si no lo hicieren, se tendrá como domicilio, para los efectos de este Capítulo, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
 
@@ -479,9 +481,11 @@ IX. La cesión de derechos del heredero, legatario o copropietario, en la parte 
 
 Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
-X. Enajenación a través de fideicomiso;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-XI. La división de la copropiedad y Ia disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge;
+X. La enajenación a través de fideicomiso, en los términos del articulo 14 del Código Fiscal de la Federación.
+
+XI. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge;
 
 XII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
@@ -503,6 +507,10 @@ XIV. Adjudicación de la propiedad de inmuebles en virtud de remate judicial o a
 
 Están obligados al pago del Impuesto Sobre Adquisición del Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles a que se refiere este impuesto.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este Capítulo, en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 41.
@@ -523,9 +531,9 @@ III. Los demás funcionarios y empleados que inscriban o registren esta clase de
 
 IV. Los peritos valuadores autorizados que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, por las cantidades dejadas de recaudar.
 
-> <small>(REFORMADO SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-#### Sección Tercera. De la Base y Tasa
+#### Sección Tercera. De la Base
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -541,9 +549,9 @@ Para los efectos de este Impuesto, se considera que el usufructo y la nuda propi
 
 El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-Tratándose de adquisiciones de vivienda en general, la reducción a que se refiere el párrafo anterior será de tres veces. Si la vivienda es de tipo popular la reducción será de doce veces el referido salario. Tratándose de vivienda de interés social dicha reducción será de quince veces el mencionado salario. También se efectuará dicha reducción de quince veces, en el caso de adquisición de bienes hereditarios siempre y cuando en éste último caso, el caudal hereditario se encuentre conformado por un solo predio destinado a vivienda.
+Tratándose de adquisiciones de vivienda en general, la reducción a que se refiere el párrafo anterior será de tres veces. Si la vivienda es de interés social o tipo popular, dicha reducción será de quince veces el mencionado salario. También se efectuará dicha reducción de quince veces, en el caso de adquisición de bienes hereditarios siempre y cuando en este último caso, el caudal hereditario se encuentre conformado por un solo predio destinado a vivienda.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
@@ -551,7 +559,9 @@ Para los efectos del párrafo anterior se consideran los términos del primer p�
 
 a) Vivienda de interés social, aquella cuyo valor no exceda de quince veces el salario mínimo general vigente para el Estado, elevado al año.
 
-b) Vivienda popular, aquella cuyo valor no exceda de veinte veces el salario mínimo general vigente para el Estado, elevado al año.
+> <small>(REFORMADA, P.O 29 DE DICIEMBRE DE 1994)</small>
+
+b) Vivienda popular, aquella cuyo valor no exceda de veinticinco veces el salario mínimo general vigente para el Estado, elevado al año.
 
 c) Vivienda en general, aquella cuyo valor exceda del límite a que se refiere el inciso b) anterior.
 
@@ -705,11 +715,11 @@ Los fedatarios públicos no podrán autorizar definitivamente, ninguna escritura
 
 En los testimonios que los fedatarios expidan, de escrituras públicas o privadas, relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del Impuesto sobre Adquisición de Inmuebles, así como el importe del mismo y la fecha de su expedición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 51.
 
-En el Registro Público de la Propiedad Raíz, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea acreditado el registro de catastro correspondiente y le sea exhibido el comprobante de pago del impuesto que establece este capítulo, si se hubiere causado.
+En el Registro Público de la Propiedad y del Comercio, no se inscribirá ningún acto, contrato o documento trasmitivo de dominio de bienes inmuebles, mientras no sea autorizado para su registro por la Dirección de Catastro.
 
 (REFORMA, P.O. 20 DE DICIEMBRE DE 1990)
 
@@ -1201,11 +1211,13 @@ La falta de pago dentro de los plazos a que se refiere el primer párrafo de est
 
 Las instalaciones o reparaciones de las tomas domiciliarias que se hagan fuera de los predios para conectarse con la red de distribución, serán por cuenta del propietario o poseedor.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 113.
 
 Los propietarios o poseedores de predios no tendrán derecho a disminución o cancelación del monto de los derechos por abastecimiento de agua potable y servicios de alcantarillado y saneamiento, cuando no se les proporcione el servicio por escasez o falta accidental del líquido, salvo que la suspensión del servicio sea completa y dure más de treinta días consecutivos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 Cuando los propietarios o poseedores de predios, que disponiendo del servicio no lo utilicen por más de treinta días consecutivos, deberán demostrar esta circunstancia a satisfacción del organismo operador, a efecto de que se suspenda el cobro correspondiente. Cuando se reanude la utilización del servicio, se deberá manifestar este hecho al organismo operador, a efecto de que reanude el cobro correspondiente.
 
@@ -1918,3 +1930,15 @@ P.O. 27 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día 1 de enero de 1995, previa su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., 29 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en los artículos 111 de la Ley de Hacienda Municipal del Estado de Michoacán y 13 de la Ley de Ingresos para los Municipios del Estado de Michoacán para 1995, entre tanto no se aprueben las tarifas para el cobro de los servicios de agua potable, alcantarillado y saneamiento, se aplicarán para dicho año, las aprobadas para 1993, con un incremento del 15 %.
