@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1951-07-07"
+last_updated: "1952-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1952.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -911,7 +911,7 @@ La administración interior de los Municipios se hará por los Ayuntamientos, po
 
 Los ayuntamientos serán asambleas formadas por elección popular directa, se compondrán de un número variable de concejales en razón del censo del Municipio; pero en ningún caso será menor de cinco y siempre en número impar. En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas. En la primera sesión que celebren los Ayuntamientos, la cual será presidida por el concejal de mayor edad, se elegirá a mayoría absoluta de votos un Presidente Municipal y uno o dos Síndicos Procuradores que deberán fungir durante el período de su elección. Los concejales restantes se denominarán Regidores.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1938)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1952)</small>
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
@@ -923,7 +923,7 @@ Los ayuntamientos serán asambleas formadas por elección popular directa, se co
 
 ###### ARTICULO 99.
 
-Todos los Concejales durarán en su encargo dos años, se renovarán totalmente cada dos años, y no podrán ser reelectos para el período inmediato.
+Todos los Concejales durarán en su encargo tres años se renovarán totalmente cada tres años, y no podrán ser reelectos para el período inmediato.
 
 #### SECCION CUARTA. Del Ministerio Público
 
@@ -1526,3 +1526,7 @@ Artículo Segundo.- Para los efectos de lo dispuesto en los artículos 59, fracc
 P.O. 7 DE JULIO DE 1951.
 
 UNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 1952.
+
+Unico.- Los Concejales que resulten electos en las elecciones municipales que se efectúen en el mes de diciembre de 1952, por esta única vez, durarán en su encargo cuatro años.
