@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1994-12-28"
+last_updated: "1995-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1995.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -153,9 +153,11 @@ En caso de desafuero se acordará la separación del cargo y se llamará al Supl
 
 ### CAPITULO I. DE LA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1995)</small>
+
 ###### Artículo 20.
 
-La Directiva del Congreso se integrará, renovará y tendrá las atribuciones señaladas en los Artículos 52 al 58 de la Ley Orgánica del Poder Legislativo, sin que los nombrados puedan ser electos para formar parte de la Directiva del mes siguiente del período de sesiones de que se trate.
+La Directiva del Congreso se integrará, renovará y tendrá las atribuciones señaladas en los Artículos 52 al 58 de la Ley Orgánica del Poder Legislativo.
 
 ### CAPITULO II. DE LA PRESIDENCIA
 
@@ -275,7 +277,7 @@ X.- Además de los expedientes a que se refiere la fracción anterior, la Secret
 
 XI.- Vigilar el trabajo que lleve a cabo el Oficial Mayor del Congreso y previo acuerdo con el Presidente, ordenar lo que proceda.
 
-> <small>(REFORMADA SE DENOMINACION, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO IV. DE LA GRAN COMISION
 
@@ -1037,9 +1039,13 @@ El dictamen será leído por uno o varios miembros de la comisión que lo presen
 
 La Asamblea podrá acordar aplazar su discusión y aprobación fijando una fecha posterior para ello.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1995)</small>
+
 ###### Artículo 112.
 
-En la primera de las sesiones para discusión, el dictamen de la iniciativa se conocerá y estudiará en lo general, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. En la segunda, la iniciativa se discutirá en lo particular los artículos que contenga.
+En la primera de las sesiones para discusión, el Dictamen de la Iniciativa de Ley se conocerá y estudiará en lo general, por capítulos o secciones, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. En la segunda de las sesiones, se discutirá la Iniciativa de Ley en lo particular con los artículos que contenga.
+
+La discusión y aprobación en un Dictamen que no sea de Iniciativa de Ley, se hará en la misma sesión en que este se presente.
 
 ###### Artículo 113.
 
@@ -1402,3 +1408,7 @@ P.O. 28 DE DICIEMBRE DE 1994.
 PRIMERO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
 
 SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el termino "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
+
+P.O. 30 DE ENERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
