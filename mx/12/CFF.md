@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1993-12-03"
+last_updated: "1993-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 1993.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE NOVIEMBRE DE 1993.
 
@@ -44,9 +44,11 @@ CODIGO FISCAL DE LA FEDERACION
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 1o.
 
-Las personas físicas y las morales están obligadas a contribuir para los gastos públicos conforme a las leyes fiscales respectivas; las disposiciones de este Código se aplicarán en su defecto. Sólo mediante ley podrá destinarse una contribución a un gasto público específico.
+Las personas físicas y las morales están obligadas a contribuir para los gastos públicos conforme a las leyes fiscales respectivas; las disposiciones de este Código se aplicarán en su defecto y sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. Sólo mediante Ley podrá destinarse una contribución a un gasto público específico.
 
 La Federación queda obligada a pagar contribuciones únicamente cuando las leyes lo señalen expresamente.
 
@@ -1284,7 +1286,15 @@ Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que pue
 
 Los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de las disposiciones fiscales así como en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, se presumirán ciertos, salvo prueba en contrario, siempre que se reúnan los siguientes requisitos:
 
-I. Que el contador público que dictamine esté registrado ante las autoridades fiscales para estos efectos. Este registro lo podrán obtener únicamente las personas de nacionalidad mexicana que tengan título de contador público registrado en la Secretaría de Educación Pública y que sean miembros de un colegio de contadores reconocido por la misma Secretaría.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+I. Que el contador público que dictamine esté registrado ante las autoridades fiscales para estos efectos. Este registro lo podrán obtener únicamente:
+
+a). Las personas de nacionalidad mexicana que tengan título de contador público registrado ante la Secretaría de Educación Pública y que sean miembros de un colegio de contadores reconocido por la misma Secretaría; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO REMITIRSE AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS EN CITA.</small>
+
+b). Las personas extranjeras con derecho a dictaminar conforme a los tratados internacionales de que México sea parte.
 
 II. Que el dictamen se formule de acuerdo con las disposiciones del reglamento de este Código y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesionales del contador público, el trabajo que desempeña y la información que rinda como resultado del mismo.
 
@@ -1302,7 +1312,7 @@ En el caso de que con motivo de sus facultades de comprobación, las autoridades
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-(SIC) Se tendrán los siguientes plazos para su presentación:
+(SIC)Se tendrán los siguientes plazos para su presentación:
 
 a). Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
@@ -1952,7 +1962,7 @@ VIII. No presentar los dados e informes en los términos del artículo 13 de la 
 
 ###### Artículo 82.
 
-A quien cometa las infracciones relacionadas con la obligación de presentar Artículo 82.- A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 14 DE LA QUINTA RESOLUCIÓN QUE REFORMA, ADICIONA Y DEROGA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 3 DE NOVIEMBRE DE 1993.</small>
 
@@ -3738,9 +3748,19 @@ X. Cuando no se haga valer agravio alguno.
 
 XI. Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado.
 
-XII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+XII. Que puedan impugnarse en los términos del Artículo 97 de la Ley de Comercio Exterior, cuando no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido ejercida.
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+XIII. Dictados por la autoridad administrativa para dar cumplimiento a la decisión que emane de los mecanismos alternativos de solución de controversias a que se refiere el Artículo 97 de la Ley de Comercio Exterior.
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+XIV. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes fiscales especiales.
+
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 La procedencia del juicio será examinada aun de oficio.
 
@@ -3830,7 +3850,9 @@ Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se 
 
 La demanda deberá indicar:
 
-I. El nombre y domicilio del demandante.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+I. El nombre, domicilio fiscal y en su caso, clave en el registro federal de contribuyentes y domicilio para recibir notificaciones del demandante
 
 II. La resolución que se impugna.
 
@@ -4586,7 +4608,7 @@ La presente Ley entrará en vigor en toda la República el día 1o. de enero de 
 
 ARTICULO DECIMOCUARTO.- En tanto se expide el Reglamento del Código Fiscal de la Federación para determinar los gastos de ejecución a que se refiere el artículo 150 de dicho Código, se estará a lo establecido en el Reglamento para el Cobro y Aplicación de Gastos de Ejecución y Pago de Honorarios por Notificación de Créditos.
 
-...
+..
 
 ARTICULO CUADRAGESIMO.- A partir del año de 1983 la Secretaría de Hacienda y Crédito Público iniciará un programa de comprobación permanente del cumplimiento de las obligaciones fiscales de los contribuyentes más importantes del país, incluyendo tanto a las empresas públicas como a las privadas. Para este efecto la Secretaría de Hacienda realizará visitas domiciliarias continuas o periódicas, según amerite la situación fiscal del contribuyente y su importancia en relación con la recaudación.
 
@@ -5043,3 +5065,11 @@ D.O.F. 3 DE DICIEMBRE DE 1993.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.
