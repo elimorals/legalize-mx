@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1997-06-12"
+last_updated: "1997-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 1997.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -2337,7 +2337,7 @@ ARTICULO 339
 
 Para que las sentencias a que se refiere el artículo anterior produzca los efectos de la cosa juzgada, no se requiere promoción de las partes ni declaración judicial, bastando con una certificación de la secretaría en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos por el juez.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ### CAPITULO UNICO. De la suspensión del procedimiento
 
@@ -2428,8 +2428,6 @@ Cuando la ejecución se ejercite sobre cosa cierta y determinada o en especie, s
 Si la cosa ya no existe, se embargarán bienes que cubran su valor fijado por el ejecutante y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados, y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
 
 ## TITULO SEXTO BIS
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ### CAPITULO II. De la vía de apremio
 
@@ -2626,6 +2624,8 @@ El tiempo de la suspensión no se computa en ningún término.
 D
 
 En caso de la primera hipótesis de la fracción II del artículo 339-A, la suspensión durará el tiempo indispensable para que se apersone en el juicio el representante de la sucesión, mismo que no pasará de sesenta días naturales, pasado el cual se seguirá el negocio con el Ministerio Público.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
 
@@ -3131,6 +3131,8 @@ ARTICULO 451
 
 Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye; limitándose a examinar su autenticidad y si debe o no ejecutarse conforme a las leyes del Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE JULIO DE 1997)</small>
+
 ### CAPITULO UNICO. Reglas generales
 
 ARTICULO 452
@@ -3371,9 +3373,219 @@ ARTICULO 497
 
 Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
 
-## TITULO OCTAVO. DEL JUICIO ARBITRAL
+## TITULO SEPTIMO BIS. DEL JUICIO HIPOTECARIO
 
-## TITULO NOVENO. DE LAS TERCERIAS
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+ARTICULO 451-A
+
+Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
+
+Para que el juicio susodicho se siga según las reglas del presente Título, es requisito indispensable que el crédito conste en escritura pública o en escrito privado, según corresponde en los términos de la legislación común e inscrita, una u otro, en el Registro Público de la Propiedad y que sea de plazo cumplido o que éste sea exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+B
+
+Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
+
+I.- El documento base de la acción tenga carácter de título ejecutivo.
+
+II.- El bien se encuentre inscrito en favor del demandado; y
+
+III.- No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la presentación de la demanda.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+CULO 451-C
+
+Presentado el escrito de demanda, acompañado del instrumento respectivo, el Juez si encuentra que se reúnen los requisitos establecidos en los artículos anteriores, la admitirá y mandará inscribirla en el Registro Público de la Propiedad, fijarla en lugar visible de la finca y que se corra traslado al deudor con copia de la misma, emplazándole, para que dentro del término de cinco días ocurra a contestarla y en su caso a oponer las excepciones, que no podrán ser otras que:
+
+I.- Las procesales previstas en este Código;
+
+II.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
+III.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+IV.- Nulidad del contrato;
+
+V.- Pago o compensación;
+
+VI.- Remisión o quita;
+
+VII.- Pacto de espera o de no cobrar;
+
+VIII.- Novación de contrato; y
+
+IX.- Las demás que autoricen las leyes.
+
+Las excepciones comprendidas en las fracciones de la V a la VIII sólo se admitirán cuando se funden en prueba documental; respecto de las excepciones de litispendencia y conexidad, sólo se admitirán si se exhibe con la contestación de ésta, o de las cédulas del emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite que se encuentra tramitando un procedimiento arbitral.
+
+El Juez bajo su más estricta responsabilidad, revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquellas en que sea necesario exhibir documento y el mismo no se acompañe, salvo los casos a que se refieren los artículos 62 y 65 de este Código.
+
+Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento y se resolverán de plano en la audiencia del juicio.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+D
+
+Si en el título con base en el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho convenga.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+E
+
+Inscrita la demanda en el Registro Público de la Propiedad y fijada en lugar visible de la finca hipotecada, no podrá verificarse en la misma ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el Juez por acreedor con mejor derecho, en fecha anterior a la inscripción de la demanda.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+F
+
+Si la finca hipotecada se ubica fuera del lugar del juicio, se librará exhorto al Juez competente para que en auxilio del tribunal ordene la inscripción y fijación de la demanda como se previene en el artículo 451-C.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+G
+
+Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los bienes muebles que con arreglo al contrato o conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+
+Si la finca hipotecada no está destinada a casa-habitación del deudor y éste no acepta las responsabilidades de depositario, lo que deberá manifestar por escrito dentro del término de tres días siguientes al emplazamiento, el actor podrá pedir que se le entregue la tenencia material de la finca o nombrar depositario bajo su responsabilidad.
+
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación, y en caso de desobediencia, el Juez lo compelerá por los medios de apremio que le autoriza la Ley.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+H
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga. Hecho lo anterior resolverá lo que procediere.
+
+En ningún caso podrá exceder de tres meses el término de gracia.
+
+Si el deudor no se opone a la demanda, no hace valer defensas y/o excepciones, ni realiza el pago de la cantidad reclamada dentro del término previsto en el párrafo primero del artículo 451-C, o se allana totalmente a la demanda, el Juez citará a las partes para oír sentencia definitiva, la que se pronunciará dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+ICULO 451-I
+
+La reconvención sólo será procedente cuando se funde en prueba documental o se refiera a la nulidad del título base de la acción. En cualquier otro caso se desechará de plano.
+
+Si es procedente la reconvención se emplazará al actor principal y se le correrá traslado con la copia de la misma para que la conteste dentro de los cinco días siguientes.
+
+Contestada la reconvención o transcurrido el plazo para ello, se señalará día y hora para la celebración de la audiencia del juicio que deberá fijarse dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+J
+
+Tanto en la demanda como en la contestación a la misma, en la vista que se dé con ésta a la actora, y en su caso en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisos, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas relacionándolas con los hechos que se pretendan probar. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles o no se hayan relacionado con los mismos, el Juez las desechará de plano. Las pruebas que se admitan se desahogarán en la audiencia.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+K
+
+Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia, en la audiencia deberán presentar a sus testigos, que no podrán exceder de dos para cada hecho. En cuanto a la pericial, deberá estarse a lo ordenado en el juicio ordinario respecto a dicha prueba.
+
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el Juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en la capital del Estado, o arresto hasta de treinta y seis horas, y dejará de recibir tales testimoniales.
+
+De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria, en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año que corresponda, que se hará efectiva por orden del propio Juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, en la inteligencia de que estos terceros podrán manifestar al Juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se le requieren.
+
+El Juez iniciará la audiencia con una junta de conciliación en la que únicamente intervendrán las partes y en el caso de que no se lograra un convenio, procederá a resolver todas las excepciones procesales que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas. Si no se llegaren a desahogar por falta de preparación, se diferirá la audiencia y bajo su más estricta responsabilidad, atenderá que se preparen para desahogarse en la fecha que se señale, que no excederá en su fijación de los diez días posteriores.
+
+Desahogadas las pruebas, las partes dispondrán de quince minutos para alegar lo que a su derecho convenga y el Juez procurará dictar en la misma audiencia la sentencia que corresponda, a menos que existan pruebas documentales voluminosas, pues entonces contará con un término de ocho días para dictarla y mandarla a notificar a las partes dentro de dicho término.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+LO 451-L
+
+Cuando en la sentencia se declare procedente la vía hipotecaria, se procederá al remate de los bienes hipotecados, abriéndose la sección de ejecución e iniciándose el procedimiento de remate.
+
+La sentencia será apelable en efecto devolutivo.
+
+Si llegada la fecha de la audiencia de remate no se ha resuelto la apelación, se suspenderá la misma hasta en tanto se resuelva el recurso.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+M
+
+Para el remate se procederá de la siguiente forma:
+
+I.- El Juez solicitará al Registro Público de la Propiedad, extienda certificado de libertad de gravamen y de existir acreedores hipotecarios anteriores, el Juez mandará a notificarles la existencia de la sección de ejecución para que manifiesten lo que a su derecho corresponda;
+
+II.- Se hará el avalúo de la finca conforme a lo previsto en el Título Sexto, Capítulos II y V de este Código;
+
+III.- Cada parte tendrá derecho a exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada practicado por corredor público, institución de crédito o perito valuador autorizado, quienes deberán ratificar su dictamen ante presencia judicial al tiempo de su presentación;
+
+IV.- En el caso de que alguna de las partes deje de exhibir el avalúo referido en la fracción anterior, se entenderá su conformidad con el que haya exhibido su contraria;
+
+V.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del término señalado en la fracción III de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+VI.- Si las dos partes exhibieren los avalúos en el término a que se refiere la fracción III de este artículo y los valores determinados de cada uno de ellos no coincidieren, el Juez citará a una junta de peritos valuadores para que concilien sus posiciones.
+
+Si no fuere posible la conciliación o no se hubiere presentado peritaje por las partes, el Juez designará un Perito cuyo avalúo servirá de base para el remate;
+
+VII.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor, se deberán actualizar los valores en la forma prevista en las dos fracciones que anteceden;
+
+VIII.- Valuado el inmueble hipotecado se procederá a remate en los términos del Título Séptimo, Capítulo IV de este Código, salvo convenio entre las partes;
+
+IX.- El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o por adjudicación, en los casos en que no se presente otro postor;
+
+X.- En el caso de existir convenio entre las partes para la venta de la finca hipotecada, ésta se hará de la manera en que hubiera convenido y a falta de convenio, por medio de corredores.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+N
+
+En caso de la adjudicación se deberán aportar los avalúos previstos en el artículo anterior. El deudor puede oponerse a la adjudicación haciendo valer las opciones que tuviere y esta oposición se substanciará incidentalmente.
+
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+Ñ
+
+Si en la sentencia se resolviera que no ha procedido la vía hipotecaria se reservará el actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+Si el Tribunal Superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará a cancelar el registro y a quitar la copia fijada de la demanda hipotecaria y, en su caso, se devolverá la finca al demandado ordenando al depositario que rinda cuentas con pago al plazo que fije el Juez, que no podrá exceder de diez días.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 1997)</small>
+
+###### ARTICULO 451
+
+O 451-O
+
+Los gastos y costas del juicio se regirán por las disposiciones contenidas en el Título Segundo, Capítulo VII de este Código.
+
+## TITULO OCTAVO. DEL JUICIO ARBITRAL
 
 ### CAPITULO UNICO. ARTICULO 498
 
@@ -3401,7 +3613,7 @@ TITULO DECIMOPRIMERO
 
 DEL CAMBIO DE NOMBRE
 
-## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
+## TITULO NOVENO. DE LAS TERCERIAS
 
 ### CAPITULO UNICO. ARTICULO 503
 
@@ -3423,7 +3635,7 @@ DE LOS RECURSOS Y DE LA REVISION DE OFICIO
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
 
-## TÍTULO SEXTO. DE LAS DISPOSICIONES COMUNES PARA LAS AUTORIDADES ELECTORALES
+## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
 
 ### CAPITULO I. De la revocación, reposición, apelación y la revisión de oficio
 
@@ -5582,6 +5794,16 @@ G.O. 12 DE JUNIO DE 1997.
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
 
 SEGUNDO. Las adopciones que se hallen en trámite a la fecha de la publicación de las presentes reformas, adiciones y modificaciones, se seguirán tramitando de acuerdo a las disposiciones vigentes, hasta antes de la publicación de estas reformas; pero si en aquellas adopciones, hubiere la voluntad del adoptante de darle a la adopción el carácter de plena deberá seguirse con este procedimiento de acuerdo con las disposiciones legales contenidas en esta ley.
+
+G.O. 31 DE JULIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones de esta Ley, no se aplicarán a los créditos hipotecarios contratados antes de la entrada en vigor de la misma.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
