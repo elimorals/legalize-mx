@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1986-12-10"
+last_updated: "1988-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1988.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -905,7 +905,7 @@ El Gobernador del Estado durante el tiempo de sus funciones, será responsable p
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
-### CAPITULO II (sic). Del Director General de Gobernación
+### CAPITULO II (SIC). Del Director General de Gobernación
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -1259,6 +1259,8 @@ Todo empleado de la Secretaría de Finanzas que tuviere manejo de caudales públ
 
 ### CAPITULO UNICO. Prevenciones Generales
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+
 ###### Art. 121.
 
 El año Fiscal queda comprendido del primero de Enero al treinta y uno de Diciembre inclusive.
@@ -1269,7 +1271,7 @@ El año Fiscal queda comprendido del primero de Enero al treinta y uno de Diciem
 
 > <small>(REFORMADA SU NUMERACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-## TITULO OCTAVO
+## TITULO NOVENO
 
 ###### Art. 122.
 
@@ -1365,7 +1367,9 @@ La Ley señalará los casos de prescripción de la responsabilidad administrativ
 
 En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor público.
 
-## TITULO NOVENO
+> <small>(REFORMADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
+
+## TITULO DECIMO
 
 ###### Art. 130.
 
@@ -1381,9 +1385,19 @@ Esta Constitución puede ser adicionada o reformada. Las proposiciones que tenga
 
 Las proposiciones de reforma o adición, que no fueren admitidas por la Legislatura, no podrán repetirse en el mismo período de sesiones.
 
+> <small>(ADICIONADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
+
 ###### Art. 133.
 
-(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1941)
+Los recursos económicos de que dispongan el Gobierno del Estado y sus Municipios, así como sus respectivas administraciones pública (sic) paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos propios de su finalidad.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado y sus Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y sus Municipios.
+
+El manejo de recursos federales convenidos se sujetará a las disposiciones de éste Artículo.
+
+Los servidores públicos del Estado y sus Municipios serán responsables del cumplimiento a las mencionadas disposiciones en los términos del Título Octavo de esta Constitución.
 
 ###### Art. 134.
 
@@ -1788,3 +1802,9 @@ UNICO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la Entid
 P.O. 10 DE DICIEMBRE DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 9 DE ABRIL DE 1988.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma y adición a la Constitución Política del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
