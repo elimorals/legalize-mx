@@ -4,7 +4,7 @@ identifier: "VER-ley-del-notariado-6779"
 country: "mx"
 rank: "ley"
 publication_date: "1965-06-01"
-last_updated: "1974-08-31"
+last_updated: "1988-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 1974.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ABRIL DE 1988.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 1 de junio de 1965.
 
@@ -97,7 +97,13 @@ XIII.- Recibir y verificar las quejas que presenten los particulares con motivo 
 
 XIV.- Convocar y celebrar reuniones periódicas con los Notarios Públicos, con objeto de coordinar la función notarial.
 
-XV.- Ejercer las demás atribuciones que señalan las Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE ABRIL DE 1988)</small>
+
+XV.- Proponer al Ejecutivo del Estado el arancel correspondiente.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 5 DE ABRIL DE 1988)</small>
+
+XVI.- Ejercer las demás atribuciones que señalan las leyes.
 
 ###### ARTICULO 7°.
 
@@ -239,9 +245,11 @@ El Notario es el funcionario investido de fe pública autorizado para autenticar
 
 El Notario residirá en la cabecera del Distrito Judicial al que corresponda su demarcación notarial o en el lugar que designe el Ejecutivo del Estado, dentro de dicha demarcación.
 
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1988)</small>
+
 ###### ARTICULO 36.
 
-Los Notarios no serán remunerados por el Erario. En cada caso, cobrarán a los interesados los honorarios que devenguen conforme al arancel correspondiente.
+Los Notarios no serán remunerados por el Erario. En cada caso, cobrarán a los interesados los honorarios que devenguen conforme al arancel que expida el Ejecutivo del Estado.
 
 ###### ARTICULO 37.
 
@@ -680,6 +688,10 @@ IV.- Si el acto o el hecho son contrarios a la ley.
 V.- Cuando el acto o el hecho de que se trate tenga relación con los negocios contenciosos que patrocine o haya patrocinado como abogado.
 
 VI.- Cuando hubiere alguna circunstancia que le impida actuar con la imparcialidad debida o en forma satisfactoria el asunto que se le encomiende.
+
+> <small>(ADICIONADA, G.O. 5 DE ABRIL DE 1988)</small>
+
+VII.- Cuando el acto por autorizar, contravenga las disposiciones contra el desarrollo urbano y el derecho a la vivienda, a que se refiere el Código Penal. La violación de esta disposición, lo hará acreedor a la aplicación de la fracción IV del artículo 167 de esta Ley.
 
 El Notario puede autorizar su testamento, sus poderes, las modificaciones o revocaciones de ambos y sus declaraciones unilaterales, siempre que en éstas no intervenga alguna otra persona.
 
@@ -1224,3 +1236,17 @@ G.O. 31 DE AGOSTO DE 1974.
 ###### ARTICULO PRIMERO.
 
 Esta Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 5 DE ABRIL DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días después de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en que el Ejecutivo del Estado expida el arancel para el cobro de honorarios por los Notarios Públicos, quedará abrogada la Ley número 40, promulgada el 5 de diciembre de 1967 y publicada en la 'Gaceta Oficial' del Estado número 150 del día 16 del mismo mes y año.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
