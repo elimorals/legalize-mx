@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1973-01-04"
+last_updated: "1973-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1973.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -125,7 +125,11 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ### CAPITULO II. De las actas de nacimiento
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ## TITULO TERCERO. Del domicilio
 
@@ -205,25 +209,31 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito y Territorios Federales estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en las demarcaciones mencionadas; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Distrito y Territorios Federales estará a cargo de los Jueces del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de los hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en las demarcaciones mencionadas; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 36.
 
-Los Oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Los Jueces del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 37.
 
 Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo anterior.
 
-La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
+La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Juez del Registro Civil.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 38.
 
 Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la autoridad judicial a quien se hubieren remitido los duplicados.
 
-Los Procuradores de Justicia del Distrito y de los Territorios Federales cuidarán de que se cumpla esta disposición, y, a ese efecto, el Oficial del Registro o el encargado del Archivo Judicial, les darán aviso de la pérdida.
+El Procurador de Justicia del Distrito y Territorios Federales cuidará de que se cumpla esta disposición, y, a ese efecto, el Juez del Registro o el encargado del Archivo Judicial, le darán aviso de la pérdida.
 
 ###### ARTICULO 39.
 
@@ -233,13 +243,17 @@ El estado civil de las personas sólo se comprueba por las constancias relativas
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros sea inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 41.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Presidente Municipal respectivo y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, al archivo del Tribunal Superior respectivo.
+Todos los libros del Registro Civil serán visados en su primera y última hoja por el Jefe del Departamento del Distrito Federal o por quien él designe, o por el Delegado o Presidente Municipal en su caso y autorizados con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, al archivo del Tribunal Superior respectivo.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 42.
 
-El Oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será destituido de su cargo.
+El Juez del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será destituido de su cargo.
 
 ###### ARTICULO 43.
 
@@ -255,57 +269,73 @@ Cuando los interesados no puedan concurrir personalmente, podrán hacerse repres
 
 Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose los que designen los interesados, aun cuando sean sus parientes.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 46.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Juez del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 47.
 
-Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+Los vicios o defectos que haya en las actas, sujetan al Juez del Registro Civil a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 48.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales registradores estarán obligados a darlo.
+Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Jueces Registradores estarán obligados a darlo.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 49.
 
-Los actos y actas del estado civil relativas al Oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los propios libros y se autorizarán por el Presidente Municipal del lugar.
+Los actos y actas del estado civil relativas al Juez del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Juez; pero se asentarán en los propios libros y se autorizarán por el Delegado o Presidente Municipal del lugar.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 50.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüída de falsa.
+Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Juez del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
 ###### ARTICULO 51.
 
 Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registre en la oficina respectiva del Distrito o de los Territorios Federales.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 52.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Jueces de lo Familiar, por turno que llevará la autoridad administrativa.
+Los Jueces del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los jueces de primera instancia, por turno que llevará la autoridad delegacional o municipal en su caso.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 53.
 
-El Ministerio Público cuidará de que los Libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros del año anterior remitidos a los archivos de los respectivos Tribunales Superiores, para el efecto de hacer la consignación correspondiente de los Oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
+El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros del año anterior remitidos a los archivos de los respectivos Tribunales Superiores, para el efecto de hacer la consignación correspondiente de los jueces registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
 
-La infracción de este artículo produce responsabilidad para los Agentes del Ministerio Público y será castigada conforme a lo prevenido en la fracción III del artículo 4o. Transitorio de la Ley Orgánica del Ministerio Público del Distrito y de los Territorios Federales.
+La infracción de este artículo produce responsabilidad para los agentes del Ministerio Público y será castigada conforme a lo prevenido en la Ley Orgánica de la Procuraduría General de Justicia del Distrito y Territorios Federales.
 
 ### CAPITULO IV. De las actas de adopción
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
+Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 55.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días de ocurrido aquél, y, en su defecto, la madre dentro de los cuarenta días.
+Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días, de ocurrido aquel y, en su defecto, la madre dentro de los cuarenta días.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Los médicos, cirujanos o matronas que hubieren asistido al parto tienen obligación de dar aviso del nacimiento al Juez del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+Recibido el aviso, el Juez del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
 ###### ARTICULO 56.
 
@@ -313,15 +343,19 @@ Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del 
 
 En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 57.
 
-En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
+En las poblaciones en que no haya Juez del Registro Civil, el niño será presentado a la persona que ejerza la autoridad delegacional o municipal en su caso, y éste dará la constancia respectiva que los interesados llevarán al Juez del Registro que corresponda, para que asiente el acta.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 58.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo a (sic) muerto. Se tomará al margen del acta la impresión digital del presentado.
 
-Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+Si éste se presenta como hijo de padres desconocidos, el Juez del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
 
 ###### ARTICULO 59.
 
@@ -335,25 +369,31 @@ La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de 
 
 Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 61.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
+Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Juez del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
 ###### ARTICULO 62.
 
 Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 63.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Juez del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
 ###### ARTICULO 64.
 
 Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 65.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Juez del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
 ###### ARTICULO 66.
 
@@ -367,39 +407,51 @@ En las actas que se levanten en estos casos, se expresarán con especificación 
 
 Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 69.
 
-Se prohibe absolutamente al Oficial del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+Se prohibe absolutamente al Juez del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
 
 ###### ARTICULO 70.
 
 Si el nacimiento ocurriere a bordo de un buque nacional, los interesados harán extender una constancia del acto, en que aparezcan las circunstancias a que se refieren los artículos del 58 al 65, en su caso, y solicitarán que la autorice el capitán o patrono de la embarcación y dos testigos de los que se encuentren a bordo, expresándose, si no los hay, esta circunstancia.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 71.
 
-En el primer puerto nacional a que arribe la embarcación, los interesados entregarán el documento de que habla el artículo anterior, al Oficial del Registro Civil, para que a su tenor asiente el acta.
+En el primer puerto nacional a que arribe la embarcación, los interesados entregarán el documento de que habla el artículo anterior, al Juez del Registro Civil, para que a su tenor asiente el acta.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 72.
 
-Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que la remitirá inmediatamente al Oficial del Registro Civil del domicilio de los padres.
+Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que la remitirá inmediatamente al Juez del Registro Civil del domicilio de los padres.
 
 ###### ARTICULO 73.
 
 Si el nacimiento ocurriere en un buque extranjero se observará por lo que toca a las solemnidades del Registro, lo prescrito en el artículo 15.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 74.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Juez del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
 ###### ARTICULO 75.
 
 Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 76.
 
-En el acta de nacimiento de gemelos el Oficial del Registro Civil hará constar las particularidades que los destingan (sic) y quién nació primero, según las noticias que le comuniquen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+En el acta de nacimiento de gemelos, el Juez del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comuniquen, el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
 
 ### CAPITULO V. De las actas de tutela
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 77.
 
@@ -429,15 +481,19 @@ La omisión del registro, en el caso del artículo que precede, no quita los efe
 
 En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 83.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Juez del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
 
 ### CAPITULO VI. De las actas de emancipación
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+Dictada la resolución judicial definitiva que autorice la adopción; el adoptante, dentro del término de ocho días, presentará al Juez del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
 
 ###### ARTICULO 85.
 
@@ -451,15 +507,19 @@ El acta de adopción contendrá los nombres, apellidos, edad y domicilio del ado
 
 Extendida el acta de la adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 88.
 
-El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Juez del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
 ### CAPITULO VII. De las actas de matrimonio
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Juez del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
 
 ###### ARTICULO 90.
 
@@ -487,9 +547,11 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 ### CAPITULO VIII. De las actas de divorcio
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 93.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Juez del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
 ###### ARTICULO 94.
 
@@ -505,9 +567,11 @@ En los casos de emancipación por efecto del matrimonio no se formará acta sepa
 
 ### CAPITULO IX. De las actas de defunción
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 97.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+Las personas que pretendan contraer matrimonio presentarán un escrito al Juez del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
 I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
@@ -539,23 +603,33 @@ VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contr
 
 VII.- Copia de la dispensa de impedimentos, si los hubo.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 99.
 
-En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
+En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Juez del Registro Civil, con los datos que los mismos pretendientes le suministren.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 100.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Juez del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 101.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Juez del Registro Civil.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 102.
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituído en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos, que acrediten su identidad.
+En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+Acto continuo, el Juez del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 103.
 
@@ -567,9 +641,7 @@ II.- Si son mayores o menores de edad;
 
 III.- Los nombres, apellidos, ocupación y domicilio de los padres;
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
+IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlo;
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -577,13 +649,11 @@ VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimoni
 
 VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
 VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+El acta será firmada por el Juez del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 
 Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
@@ -591,55 +661,65 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 105.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al Juez de lo Familiar que corresponda, para que haga la calificación del impedimento.
+El Juez del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al juez de primera instancia que corresponda, para que haga la calificación del impedimento.
 
 ###### ARTICULO 106.
 
 Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 107.
 
-Antes de remitir el acta al Juez de lo Familiar, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+Antes de remitir el acta al juez de primera instancia, el Juez del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 108.
 
-Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta al Juez de lo Familiar que corresponda, y suspenderá todo procedimiento hasta que éste resuelva.
+Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Juez del Registro Civil dará cuenta a la autoridad judicial de primera instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
 
 ###### ARTICULO 109.
 
 Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 110.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+El Juez del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 111.
 
-Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+Los Jueces del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 112.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+El Juez del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 113.
 
-El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+El Juez del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 98.
+También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que subscriban el certificado exigido por la fracción IV del artículo 98.
 
 ### CAPITULO X. Inscripciones de las ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 114.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Oficial del Registro Civil para que levante el acta correspondiente.
+La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Juez del Registro Civil para que levante el acta correspondiente.
 
 ###### ARTICULO 115.
 
@@ -655,11 +735,13 @@ De la rectificación de las actas del estado civil.
 
 ###### ARTICULO 117.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Ninguna inhumación se hará sin autorización escrita dada por el Juez del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 118.
 
-En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso, los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
+En el acta de fallecimiento se asentarán los datos que el Juez del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
 
 ###### ARTICULO 119.
 
@@ -677,17 +759,23 @@ V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar
 
 VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 120.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Juez del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 121.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad delegacional o municipal en su caso, extenderá la constancia respectiva que remitirá al Juez del Registro Civil que corresponda, para que asiente el acta.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 122.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte a la autoridad judicial, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigue (sic) un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote al margen del acta.
+Cuando el Juez del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote al margen del acta.
 
 ###### ARTICULO 123.
 
@@ -701,17 +789,23 @@ Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumb
 
 En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 126.
 
-Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Juez del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 127.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Juez del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Juez del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 128.
 
-Los Tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+Los tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Juez del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
 
 ###### ARTICULO 129.
 
@@ -725,15 +819,19 @@ En los registros de nacimiento y matrimonio se hará referencia al acta de defun
 
 ###### ARTICULO 131.
 
-Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la ejecutoria respectiva.
+Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Juez del Registro Civil que corresponda, copia certificada de la ejecutoria respectiva.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 132.
 
-El Oficial del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
+El Juez del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 133.
 
-Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
@@ -767,9 +865,11 @@ IV.- Los que según los artículos 348, 349 y 350, pueden continuar o intentar l
 
 El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 138.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+La sentencia que cause ejecutoria se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
 ## TITULO SEXTO. Del parentesco y de los alimentos
 
@@ -825,9 +925,11 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 148.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas.
+Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe del Departamento del Distrito Federal, los Gobernadores, los Presidente Municipales y los Delegados, según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
@@ -841,17 +943,21 @@ El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matr
 
 Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, suplirá el consentimiento, en su caso, el Juez de lo Familiar de la residencia del menor.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 151.
 
-Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+Los interesados pueden ocurrir al Jefe del Departamento del Distrito Federal, a los Gobernadores, a los Presidentes Municipales y a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
 
 ###### ARTICULO 152.
 
 Si el juez, en el caso del artículo 150, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 153.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Juez del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
 
 ###### ARTICULO 154.
 
@@ -1301,9 +1407,11 @@ II.- Si dentro de este término, el ascendiente ha consentido expresamente en el
 
 La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 241.
 
-El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Juez del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
 ###### ARTICULO 242.
 
@@ -1347,17 +1455,21 @@ El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segu
 
 La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 250.
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Juez del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
 
 ###### ARTICULO 251.
 
 El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es trasmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 252.
 
-Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Juez del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
 
 ###### ARTICULO 253.
 
@@ -1487,13 +1599,15 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 272.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
-El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
+El Juez del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Juez del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -1605,11 +1719,11 @@ Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 291.
 
-Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
 ### CAPITULO II. De las pruebas de la filiación de los hijos nacidos de matrimonio
 
@@ -2019,13 +2133,15 @@ El tercero afectado por obligaciones derivadas del reconocimiento ilegalmente ef
 
 En ningún caso procede impugnar el reconocimiento por causa de herencia para privar de ella al menor reconocido.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 369.
 
-El reconocimiento de un hijo nacido fuera de matrimonio, deberá hacerse de alguno de los modos siguientes:
+El reconocimiento de un hijo nacido fuera del matrimonio, deberá hacerse de alguno de los modos siguientes:
 
-I.- En la partida de nacimiento, ante el Oficial del Registro Civil;
+I.- En la partida de nacimiento, ante el Juez del Registro Civil;
 
-II.- Por acta especial ante el mismo Oficial;
+II.- Por acta especial ante el mismo juez;
 
 III.- Por escritura pública;
 
@@ -2037,11 +2153,11 @@ V.- Por confesión judicial directa y expresa.
 
 Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 371.
 
-El Oficial del Registro Civil, el Juez de lo Familiar, en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+El Juez del Registro Civil, el juez de primera instancia en su caso, y el notario que consientan en la violación del artículo que precede, será (sic) castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
 
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
@@ -2215,9 +2331,11 @@ El procedimiento para hacer la adopción será fijado en el Código de Procedimi
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 401.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Registro Civil del lugar para que levante el acta correspondiente.
 
 ###### ARTICULO 402.
 
@@ -2269,9 +2387,11 @@ El decreto del juez deja sin efecto la adopción y restituye las cosas al estado
 
 En el segundo caso del artículo 405, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 ###### ARTICULO 410.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Juez del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
 
 ## TITULO DECIMO. De la emancipación y de la mayor edad
 
@@ -2563,13 +2683,13 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mi
 
 No pueden ser nombrados tutores o curadores las personas que desempeñen el Juzgado de lo Familiar y las que integren los Consejos Locales de Tutelas; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 460.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de lo Familiar, dentro de ocho días, a fin de que se prevea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al juez pupilar, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
-Los Oficiales del Registro Civil, de las autoridades administrativas y de las judiciales tienen obligación de dar aviso a los Jueces de lo Familiar de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+Los jueces del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces pupilares de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
 ###### ARTICULO 461.
 
@@ -2868,6 +2988,8 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 
 ### CAPITULO XV. De los Consejos Locales de Tutela y de los Jueces Pupilares
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 511.
 
@@ -3471,7 +3593,9 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 ###### ARTICULO 631.
 
-En cada Municipalidad habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo. Serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebre, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+En cada Delegación o Municipalidad habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe del Departamento del Distrito Federal o por quien él autorice al efecto o por los Delegados o Presidentes Municipales, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+
+Los miembros del Consejo no cesarán en sus funciones aun cuando haya transcurrido el término para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente período.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MARZO DE 1971)</small>
 
@@ -11850,3 +11974,9 @@ D.O.F. 4 DE ENERO DE 1973.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 14 DE MARZO DE 1973.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
