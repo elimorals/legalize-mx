@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "1998-05-22"
+last_updated: "1998-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -104,9 +104,11 @@ El cargo de miembro del Consejo tendrá carácter honorario, con excepción del 
 
 Cada año deberá ser sustituido el miembro de mayor antigüedad de dicho Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 12.
 
-Los miembros del Consejo de la Comisión de Derechos Humanos del Distrito Federal serán nombrados por el titular del Poder Ejecutivo Federal y aprobados en su caso, por la Asamblea de Representantes del Distrito Federal.
+Los miembros del Consejo de la Comisión de Derechos Humanos del Distrito Federal serán nombrados por la Asamblea Legislativa del Distrito Federal.
 
 El Consejo contará con un Secretario Técnico, quien será nombrado por el propio Consejo a propuesta del Presidente de la Comisión y dará trámite a las resoluciones de dicho Consejo en los términos que disponga el reglamento interno.
 
@@ -585,3 +587,9 @@ G.O. 22 DE MAYO DE 1998.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 24 DE DICIEMBRE DE 1998
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. Por única vez, se exceptúa al Presidente de la Comisión de Derechos Humanos del Distrito Federal de la obligación de realizar la notificación a la Asamblea Legislativa del Distrito Federal a que le constriñe el artículo 105 de la Ley Orgánica de la Asamblea de Representantes del Distrito Federal del presente decreto, para dar inicio al procedimiento para el nombramiento del Consejero de la Comisión de Derechos Humanos del Distrito Federal.
