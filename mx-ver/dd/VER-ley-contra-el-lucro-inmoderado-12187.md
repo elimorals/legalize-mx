@@ -4,7 +4,7 @@ identifier: "VER-ley-contra-el-lucro-inmoderado-12187"
 country: "mx"
 rank: "ley"
 publication_date: "1946-11-14"
-last_updated: "1946-11-21"
+last_updated: "1947-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY CONTRA EL LUCRO INMODERADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 1947.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de noviembre de 1946.
 
@@ -35,8 +35,6 @@ LEY:
 
 "Número 30.- La H. Legislatura del Estado Libre y Soberano de Veracruz-Llave, en nombre del pueblo, expide la siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO DEL DECRETO NUMERO 35 PUBLICADO EN LA G.O. DEL 21 DE NOVIEMBRE DE 1946.</small>
-
 LEY CONTRA EL LUCRO INMODERADO:
 
 ###### Artículo 1º.
@@ -47,9 +45,11 @@ I.- Que a pesar de haberla ofrecido en venta al público a los precios oficiales
 
 II.- Que los artículos que almacene son para usos propios y en cantidad que no exceda a sus necesidades normales durante un mes.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 1947)</small>
+
 ###### Artículo 2º.
 
-Los productores, almacenistas y comerciantes en general, tienen la obligación (sic) informar el día primero de cada mes, al Departamento de Economía y Estadística del Gobierno del Estado, por conducto de las autoridades municipales del lugar de su residencia, las cantidades de artículos de consumo necesario, a que se refiere al artículo anterior que tengan en su poder para su venta al público. La falta de este informe será sancionada con multa de cincuenta a quinientos pesos.
+El Departamento de Economía y Estadística del Gobierno del Estado queda facultado para solicitar, cuando lo juzgue conveniente y directamente o por conducto de las Autoridades Municipales respectivas, de los productores, almacenistas y comerciantes en general, informes sobre las cantidades de artículos de consumo necesario a que se refiere el artículo anterior, que tengan en su poder para su venta al público, quedando aquéllos obligados a proporcionar tales informes dentro del término de diez días. La falta del informe solicitado será sancionada con multa de cincuenta a quinientos pesos.
 
 ###### Artículo 3º.
 
@@ -89,14 +89,10 @@ G.O. 21 DE NOVIEMBRE DE 1946.
 
 Se suspende por el término de quince días, la vigencia de la Ley número 30, de fecha 7 del presente mes.
 
-###### Artículo 1°.
-
-Se aplicará sanción de uno a cinco años de prisión y multa de cincuenta a cinco mil pesos, a toda persona que almacene artículos de consumo necesario, incluyéndose toda clase de medicinas, combustibles, llantas o refacciones destinadas a usos domésticos, de turismo o de empresas de transporte por un período mayor de tres meses sin efectuar operaciones de venta de dichas mercancías, de acuerdo con los precios oficiales, a no ser que pruebe que existe alguna de las siguientes circunstancias:
-
-I.- Que a pesar de haberla ofrecido en venta al público a los precios oficiales, no tuvo compradores.
-
-II.- Que los artículos que almacene son para usos propios y en cantidad que no exceda a sus necesidades normales durante un mes.
-
 ###### ARTICULO 2°.
 
 Este decreto surtirá sus efectos, a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 4 DE FEBRERO DE 1947.
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la "Gaceta Oficial" del Estado.
