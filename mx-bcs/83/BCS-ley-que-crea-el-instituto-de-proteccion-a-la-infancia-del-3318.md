@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-crea-el-instituto-de-proteccion-a-la-infancia-del-3318"
 country: "mx"
 rank: "ley"
 publication_date: "1975-04-03"
-last_updated: "1975-04-03"
+last_updated: "1976-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE CREA EL INSTITUTO DE PROTECCION A LA INFANCIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 1976.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 3 de abril de 1975.
 
@@ -39,9 +39,11 @@ DECRETA:
 
 LEY QUE CREA EL INSTITUTO DE PROTECCION A LA INFANCIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se crea el Instituto de Protección a la Infancia del Estado de Baja California Sur, como un organismo público descentralizado con personalidad jurídica, patrimonio propio y con domicilio en la ciudad de La Paz, Capital del Estado de Baja California Sur.
+Se crea el Instituto Mexicano para la Infancia y la Familia del Estado de Baja California Sur, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de La Paz, capital del Estado de Baja California Sur.
 
 ###### ARTICULO SEGUNDO.
 
@@ -61,43 +63,53 @@ VI.- Promover el desarrollo de la comunidad como uno de los medios para el alcan
 
 El objeto del Instituto es de interés público por lo que en el desarrollo de sus actividades y funciones podrá solicitar la asesoría y el auxilio de las autoridades federales, estatales y municipales.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
+
 ###### ARTICULO TERCERO.
 
-Para el el (sic) eficaz cumplimiento de los fines antes señalados, el Instituto tendrá las siguientes funciones:
+Para el eficaz cumplimiento de los fines antes señalados, el Instituto tendrá las siguientes funciones:
 
-I.- Programar sus actividades para la selección de los medios y realización del objeto del Instituto, en Consonancia con los planes de desarrollo estatal;
+I.- Programar sus actividades para la selección de los medios y realización del objeto del Instituto, en consonancia con los planes de desarrollo estatal;
 
 II.- Fungir como organismo técnico de consulta del poder público y de los particulares cuando así lo soliciten en materia de familia y de la infancia;
 
 III.- Promover la difusión educativa, cultural, cívica y técnica, para beneficio de la infancia y de la familia, por los medios que el Instituto considere más eficaces y convenientes;
 
-IV.- Planear, apoyar y fomentar la nutrición de los lactantes, madres gestantes y en general de la infancia entre otros medios, a través del suministro idóneo de desayunos infantiles, alimentos complementarios y raciones alimenticias;
+IV.- Planear, apoyar y fomentar la nutrición de los lactantes, madres gestantes y en general de la infancia, entre otros medios, a través del suministro idóneo de desayunos infantiles, alimentos complementarios y raciones alimenticias;
 
-V.- Prestar de manera complementaria servicios asistenciales, médicos y de higiene familiar y comunal;
+V.- Fomentar y desarrollar actividades de tipo productivo para elevar el nivel de vida familiar y comunal;
 
-VI.- Prestar los servicios complementarios en materia de rehabilitación físico integral de la niñez, incluyendo la orientación psicológica de sus diversas modalidades;
+VI.- Prestar de manera complementaria servicios asistenciales, médicos y de higiene familiar comunal;
 
-VII.- Desarrollar complementariamente el fomento del deporte para el desarrollo físico atlético de la niñez;
+VII.- Prestar los servicios complementarios en materia de rehabilitación físico integral de la niñez, incluyendo la orientación psicológica en sus diversas modalidades;
 
-VIII.- Planear y organizar sistemas recreativos para la niñez, que se articulen con la cultura, las necesidades objetivas nacionales y la comunicación en sus diversas modalidades.
+VIII.- Desarrollar complementariamente el fomento del deporte para el desarrollo físico atlético de la niñez;
 
-IX.- Formular y desarrollar programas de orientación de la conciencia cívica de la niñez, partiendo de la evolución histórica de México;
+IX.- Planear y organizar sistemas recreativos para la niñez, que se articulen con la cultura, las necesidades objetivas nacionales y la comunicación en sus diversas modalidades;
 
-X.- Realizar en coordinación con las autoridades competentes, la formulación y ejecución de los programas de desarrollo de la comunidad que el Instituto considere idóneos para transformar el ámbito social en que participan el niño y la familia, a efecto de contribuir plenamente a su mejor formación y a su incorporación integral al desarrollo estatal;
+X.- Formular y desarrollar programas de orientación de la conciencia cívica de la niñez, partiendo de la evolución histórica de México;
 
-XI.- Prestar complementaria, organizada y permanentemente, los servicios de asistencia jurídica a los menores, para la atención de los asuntos que el Instituto juzgue necesaria y compatible con sus fines;
+XI.- Realizar en coordinación con las autoridades competentes la formulación y ejecución de los programas de desarrollo de la comunidad que el Instituto considere idóneos para transformar el ámbito social en que participan el niño y la fimilia (sic), a efecto de contribuir plenamente a su mejor formación y a su incorporación integral al desarrollo estatal;
 
-XII.- Organizar cursos de especialización o postgrado a profesionales y técnicos dedicados a la materia que atiende la Institución;
+XII.- Prestar complementaria, organizada y permanentemente los servicios de asistencia jurídica a los menores, para la atención de los asuntos que el Instituto juzgue necesaria y compatible con sus fines;
 
-XIII.- Promover y realizar la investigación científica y técnica en las diversas áreas que componen el objeto del Instituto, con el propósito de mantener actualizada su actividad programática y la metodología aplicable;
+XIII.- Promover la realización, regularización y la inscripción, en su caso, de los actos y hechos inherentes al Registro Civil, de conformidad con las disposiciones jurídicas aplicables, especialmente cuando se trate de nacimientos y matrimonios;
 
-XIV.- Impartir educación extraescolar y preescolar descentralizadas;
+XIV.- Organizar cursos de especialización o postgraduado a profesionales y técnicos dedicados a la materia que atiende la Institución;
 
-XV.- Formular, ejecutar y controlar su presupuesto con apego a las disposiciones legales aplicables a los organismos descentralizados;
+XV.- Fomentar la formación y capacitación de grupos de Promotoras Sociales Voluntarias, para su participación organizada tanto en los programas del Instituto como en otros afines, debiendo mantener también en este último caso, la coordinación de sus acciones y la información necesaria para los mismos;
 
-XVI.- Adquirir, construir y operar los bienes muebles e inmuebles necesarios y adecuados para el cumplimiento de su objeto; y
+XVI.- Promover y realizar la investigación científica y técnica en las diversas áreas que componen el objeto del Instituto, con el propósito de mantener actualizada su actividad programática y la metodología aplicable;
 
-XVII.- Las demás necesarias para el desarrollo de sus programas y el eficaz cumplimiento de su objeto.
+XVII.- Desarrollar en forma íntegra, organizada, sistemática y permanente, con la participación popular, los programas y actividades relacionadas con el bienestar y orientación familiar, especialmente en las comunidades rurales del Estado;
+
+XVIII.- Impartir educación extraescolar y preescolar descentralizada;
+
+XIX.- Formular, ejecutar y controlar su presupuesto con apego a las disposiciones legales aplicables a los organismos descentralizados;
+
+XX.- Adquirir, contribuir y operar los bienes muebles e inmuebles necesarios y adecuados para el cumplimiento de su objeto; y
+
+XXI.- Las demás necesarias para el desarrollo de sus programas y el eficaz cumplimiento de sus fines.
 
 ###### ARTICULO CUARTO.
 
@@ -127,17 +139,21 @@ IV.- Los Comités Municipales.
 
 Contará además con las unidades técnicas y de administración que determinen las mismas autoridades del Instituto indistintamente.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
+
 ###### ARTICULO SEXTO.
 
-El Patronato es la máxima autoridad del Instituto y se integra con un Presidente un Tesorero, un Secretario y cinco Vocales que serán designadas (sic) por el señor Gobernador del Estado.
+El Patronato es la máxima autoridad del Instituto y se integra con un Presidente, un Tesorero, un Secretario y siete Vocales, que serán designados por el Gobernador del Estado.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
 
 ###### ARTICULO SEPTIMO.
 
-El Patronato celebrará sesiones ordinarias cada 6 meses y extraordinarias cuando lo estime necesario su Presidente. Funcionará con la asistencia por lo menos, de tres de sus miembros y sus resoluciones se tomarán por mayoría de votos de los asistentes y teniendo la Presidencia del Patronato voto de calidad en caso de empate.
+El Patronato celebrará sesiones ordinarias cada 6 meses, y extraordinarias cuando lo estime necesario su Presidente; funcionará con la asistencia por lo menos de 5 miembros y sus resoluciones se tomarán por mayoría de votos de los asistentes, teniendo la Presidencia del Patronato voto de calidad en caso de empate.
 
-La Dirección del Instituto tendrá a la vez la Secretaría de Actas del Patronato y concurrirá a las sesiones con voz informativa sin voto.
+La Dirección del Instituto tendrá a su vez la Secretaría de Actas del Patronato y concurrirá a las sesiones con voz informativa sin voto.
 
-Las sesiones ordinarias a que alude el párrafo primero de este artículo, se llevarán a cabo en lo (sic) meses de marzo y septiembre de cada año, con las formalidades y fecha que al efecto señale la Presidencia del Patronato.
+Las sesiones ordinarias a que alude el párrafo primero de ese artículo se llevarán a cabo en los meses de marzo y septiembre de cada año, con las formalidades y la fecha que al efecto señale la Presidencia del Patronato.
 
 ###### ARTICULO OCTAVO.
 
@@ -211,27 +227,37 @@ II.- Tener la experiencia profesional, administrativa y técnica comprobadas; y
 
 III.- Gozar de buena reputación y no haber sido condenado en sentencia ejecutoria por delito intencional.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
+
 ###### ARTICULO DECIMO SEGUNDO.
 
-Los Comités Municipales harán extensivos los servicios asistenciales a que se refiere este Decreto y sus actividades serán coordinadas por el Patronato y la Presidencia del Patronato.
+El Instituto Mexicano para la Infancia y la Familia del Estado procurará en todo momento mediante recomendaciones técnicamente formuladas ante las autoridades municipales competentes establecer instituciones que presten en forma descentralizada servicios análogos y compatibles en relación a los que proporciona el Instituto.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
 
 ###### ARTICULO DECIMO TERCERO.
 
-El Instituto de Protección a la Infancia de Baja California Sur, procurará en todo momento mediante recomendaciones técnicas formuladas ante las autoridades municipales competentes, establecer instituciones que presten en forma descentralizada servicios análogos similares y compatibles en relación a los que proporciona el Instituto.
+Los Comités Municipales harán extensivos los servicios asistenciales a que se refiere este decreto y sus actividades serán coordinadas por el Patronato y la Presidencia del Patronato.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
 
 ###### ARTICULO DECIMO CUARTO.
 
-El Instituto de Protección a la Infancia del Estado de Baja California Sur, para el eficaz cumplimiento de su objeto, procurará que haya coordinación idónea con el Instituto Nacional de Protección a la Infancia mediante la celebración de los Convenios respectivos en armonía con los programas generales coordinados.
+El Instituto Mexicano para la Infancia y la Familia del Estado de Baja California Sur, para el eficaz cumplimiento de su objeto procurará que haya coordinación idónea con el Instituto Mexicano para la Infancia y la Familia, mediante la celebración de los convenios respectivos en armonía con los programas generales coordinados.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
 
 ###### ARTICULO DECIMO QUINTO.
 
-Cuando el Instituto haga aportaciones u otorgue subsidios o subvenciones a las Instituciones a que alude el artículo décimo tercero del presente decreto, como consecuencia de los convenios respectivos celebrados con apego a las disposiciones jurídicas aplicables, vigilará el destino de los recursos a las finalidades convenidas, mediante los procedimientos que al efecto se establezcan en los propios convenios.
+Cuando el Instituto haga aportaciones u otorgue subsidios o subvenciones a las instituciones a que alude el artículo 12 del presente decreto, vigilará el destino de los recursos a las finalidades establecidas en el mismo decreto, mediante los procedimientos que al efecto decida el Patronato del Instituto.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 1976)</small>
 
 ###### ARTICULO DECIMO SEXTO.
 
-El Instituto, independientemente de la comunicación permanente que sostenga con las instituciones a que se refiere el artículo décimo segundo, convocará a las reuniones regionales que sean necesarias para el desarrollo coordinado de sus actividades.
+El Instituto, independientemente de la comunicación permanente que sostenga con las instituciones a que se refiere el artículo 12, convocará a las reuniones regionales que sean necesarias para el desarrollo coordinado de sus actividades.
 
-Así mismo convocará una vez al año a los Comités Municipales a la Reunión Estatal sobre Protección a la Infancia a la que concurrirán las Delegaciones Municipales;
+Asimismo, convocará una vez al año a los Comités Municipales a la Reunión Estatal para la Infancia y la Familia a la que concurrirán las Delegaciones Municipales.
 
 ## TRANSITORIOS
 
@@ -250,3 +276,19 @@ Dip. Profr. Manuel Salgado Calderón
 EL SECRETARIO
 
 Dip. Ing. Octavio Clemente Pérez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE MAYO DE 1976.
+
+###### Artículo 1o.
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 2o.
+
+Se derogan todas las modificaciones que se opongan al mismo.
+
+###### Artículo 3o.
+
+La modificación en el nombre del Instituto no implica alteración alguna en su existencia jurídica ni en sus derechos y obligaciones, por lo que su personalidad sigue siendo la misma para todos los efectos jurídicos inherentes.
