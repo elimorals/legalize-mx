@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-14-2001-del-pleno-del-consejo-de-la-55455"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-03-14"
-last_updated: "2001-03-14"
+last_updated: "2001-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55455&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-03-05"
 
 ACUERDO GENERAL 14/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de marzo de 2001.
 
@@ -201,7 +201,9 @@ Instancia Competente para Resolver Problemas Derivados de la Aplicación de este
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor treinta días después de su aprobación.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 22/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE ABRIL DE 2001)</small>
+
+PRIMERO.- El presente Acuerdo entrará en vigor el siete de mayo de dos mil uno.
 
 SEGUNDO.- Se abroga el Acuerdo General 29/2000, del Pleno del Consejo de la Judicatura Federal.
 
@@ -210,3 +212,11 @@ TERCERO.- Queda subsistente el Acuerdo General 74/2000, del Pleno del Consejo de
 CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 14/2001, del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, fue aprobado por el propio Pleno, en sesión extraordinaria de cinco de marzo de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a cinco de marzo de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE ABRIL DE 2001.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
