@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1992-08-07"
+last_updated: "1995-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -4165,9 +4165,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### Art. 778.
 
-El valor máximo de los bienes afectos al patrimonio de la familia, será la cantidad que resulte de multiplicar por 3,650 por el importe del salario mínimo diario más alto vigente en la Entidad en la época en que se constituya el patrimonio.
+El valor comercial máximo de los bienes afectos al patrimonio de familia, será la cantidad que resulte de multiplicar por cuarenta el salario mínimo general, más alto, vigente en la entidad, elevado al año, en la fecha en que se constituye el patrimonio.
 
 Los bienes que hayan quedado afectos al patrimonio de familia gozarán de los privilegios que establece este capítulo, aun cuando aumenten de valor por el solo transcurso del tiempo o por mejoras útiles o necesarias.
 
@@ -10425,7 +10427,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -12771,7 +12773,7 @@ Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los cr
 
 ###### Art. 2488.
 
-Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
+Pagados los créditos enumerados en los capítulos que preceden (sic), se pagarán los créditos que consten en documento privado.
 
 ###### Art. 2489.
 
@@ -13063,7 +13065,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1820;
 
-VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción.
+VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción;
 
 ###### Art. 2525.
 
@@ -15696,3 +15698,9 @@ P.O. 7 DE AGOSTO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE AGOSTO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
