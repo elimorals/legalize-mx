@@ -1,0 +1,757 @@
+---
+title: "LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS"
+identifier: "LFAFE"
+country: "mx"
+rank: "ley_federal"
+publication_date: "1972-01-11"
+last_updated: "1972-01-11"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "427"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "8"
+reform_count: "19"
+scjn_last_update: "2025-05-29"
+issue_date: "1971-12-30"
+abbreviation: "LFAFE"
+---
+# LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
+
+LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+LUIS ECHEVERRIA ALVAREZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+
+DECRETO
+
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
+
+## TITULO PRIMERO
+
+### CAPITULO UNICO. Bases Generales
+
+###### ARTICULO 1.
+
+Las disposiciones de esta Ley son de interés público.
+
+###### ARTICULO 2.
+
+La aplicación de esta Ley corresponde a:
+
+I.- El Presidente de la República;
+
+II.- La Secretaría de Gobernación;
+
+III.- La Secretaría de la Defensa Nacional, y
+
+IV.- A las demás autoridades federales en los casos de su competencia.
+
+###### ARTICULO 3.
+
+Las autoridades de los Estados, del Distrito y Territorios Federales y Municipios, en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y sus Reglamentos les señalan.
+
+###### ARTICULO 4.
+
+Corresponde al Ejecutivo de la Unión por conducto de las Secretarías de Gobernación y de la Defensa Nacional, dentro de las respectivas atribuciones que esta Ley y su Reglamento les señalen, el control de todas las armas en el país, para cuyo efecto se llevará un Registro Federal de Armas.
+
+###### ARTICULO 5.
+
+El Ejecutivo Federal, los Gobiernos de los Estados, del Distrito y Territorios Federales y los Ayuntamientos, realizarán campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo.
+
+Por razones de interés público, sólo se autorizará la publicidad de las armas deportivas para fines cinegéticos y de tiro, en los términos del Reglamento de esta Ley.
+
+###### ARTICULO 6.
+
+Son supletorias de esta Ley las leyes o reglamentos federales que traten materias conexas.
+
+## TITULO SEGUNDO. Posesión y portación
+
+### CAPITULO PRIMERO. Disposiciones preliminares
+
+###### ARTICULO 7.
+
+La posesión de toda arma de fuego deberá manifestarse a la Secretaría de la Defensa Nacional, para el efecto de su inscripción en el Registro Federal de Armas.
+
+###### ARTICULO 8.
+
+No se permitirá la posesión ni portación de las armas prohibidas por la Ley ni de las reservadas para el uso exclusivo del Ejército, Armada y Fuerza Aérea, salvo los casos de excepción señalados en esta Ley.
+
+###### ARTICULO 9.
+
+Pueden poseerse o portarse, en los términos y con las limitaciones establecidas por esta Ley, armas de las características siguientes:
+
+I.- Pistolas de funcionamiento semi-automático de calibre no superior al .380" (9 mm.), quedando exceptuadas las pistolas calibres .38" Super y .38" Comando, y también en calibres 9 mm. las Mausser, Luger, Parabellum y Comando, así como los modelos similares del mismo calibre de las exceptuadas, de otras marcas.
+
+II.- Revólveres en calibres no superiores al .38" Especial, quedando exceptuado el calibre .357" Magnum.
+
+Los ejidatarios, comuneros y jornaleros del campo, fuera de las zonas urbanas, podrán poseer y portar con la sola manifestación, un arma de las ya mencionadas, o un rifle de calibre .22", o una escopeta de cualquier calibre, excepto de las de cañón de longitud inferior a 635 mm. (25"), y las de calibre superior al 12 (.729" ó 18.5 mm.).
+
+III.- Las que menciona el artículo 10 de esta Ley.
+
+IV.- Las que integren colecciones de armas, en los términos de los artículos 21 y 22.
+
+###### ARTICULO 10.
+
+Las armas que podrán autorizarse a los deportistas de tiro o cacería, para poseer en su domicilio y portar con licencia, son las siguientes:
+
+I.- Pistolas, revólveres y rifles calibre .22", de fuego circular.
+
+II.- Pistolas de calibre .38" con fines de tiro olímpico o de competencia.
+
+III.- Escopetas en todos sus calibres y modelos, excepto las de cañón de longitud inferior a 635 mm. (25"), y las de calibre superior al 12 (.729" ó 18.5 mm.).
+
+IV.- Escopetas de 3 cañones en los calibres autorizados en la fracción anterior, con un cañón para cartuchos metálicos de distinto calibre.
+
+V.- Rifles de alto poder, de repetición o de funcionamiento semi-automático, no convertibles en automáticos, con la excepción de carabinas calibre .30" M-1 y M-2; fusiles, mosquetones y carabinas calibres 7 y 7.62 mm. y fusiles Garand calibre .30".
+
+VI.- Rifles de alto poder de calibres superiores a los señalados en el inciso anterior, con permiso especial para su empleo en el extranjero, en cacería de piezas mayores no existentes en la fauna nacional.
+
+VII.- Las demás armas de características deportivas de acuerdo con las normas legales de cacería, aplicables por la Secretaría de Agricultura y Ganadería, así como los reglamentos nacionales e internacionales para tiro de competencia.
+
+A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo 9o. de esta Ley, únicamente como complemento del atuendo charro, cuando concurran a actos sociales u oficiales y eventos de ese deporte.
+
+###### ARTICULO 11.
+
+Las armas, municiones y material para el uso exclusivo del Ejército, Armada y Fuerza Aérea, son las siguientes:
+
+a).- Revólveres calibre .357" Magnum y los superiores a .38" Especial.
+
+b).- Pistolas calibre 9 mm. Parabellum, Luger y similares, las .38" Super y Comando, y las de calibres superiores.
+
+c).- Fusiles, mosquetones, carabinas y tercerolas en calibre 7 mm., 7.62 mm., 30" M-1 y M-2.
+
+d).- Pistolas, carabinas y fusiles con sistema de ráfaga, sub-ametralladoras, metralletas y ametralladoras en todos sus calibres.
+
+e).- Escopetas con cañón de longitud inferior a 635 mm. (25"), las de calibre superior al 12 (.729" ó 18.5 mm) y las lanzagases, con excepción de las de uso industrial.
+
+f).- Municiones para las armas anteriores y cartuchos con artificios especiales como trazadores, incendiarios, perforantes, fumígenos, expansivos, de gases y los cargados con postas superiores al "00" (.84 cms. de diámetro) para escopeta.
+
+g).- Cañones, piezas de artillería, morteros y carros de combate con sus aditamentos, accesorios, proyectiles y municiones.
+
+h).- Proyectiles-cohete, torpedos, granadas, bombas, minas, cargas de profundidad, lanzallamas y similares, así como los aparatos, artificios y máquinas para su lanzamiento.
+
+i).- Bayonetas, sables y lanzas.
+
+j).- Navíos, submarinos, embarcaciones e hidroaviones para la guerra naval y su armamento.
+
+k).- Aeronaves de guerra y su armamento.
+
+l).- Artificios de guerra, gases y substancias químicas de aplicación exclusivamente militar, y los ingenios diversos para su uso por las fuerzas armadas.
+
+En general, todas las armas, municiones y materiales destinados exclusivamente para la guerra.
+
+Las de este destino, previa la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito y Territorios Federales, de los Estados o de los Municipios.
+
+###### ARTICULO 12.
+
+Son armas prohibidas, para los efectos de esta Ley, las ya señaladas en el Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en materia de Fuero Federal.
+
+###### ARTICULO 13.
+
+No se considerarán como armas prohibidas los utensilios, herramientas o instrumentos para labores de campo o de cualquier oficio, arte, profesión o deporte que tengan aplicación conocida como tales, pero su uso se limitará al local o sitio en que se trabaje o practique el deporte.
+
+Cuando esos instrumentos sean portados por necesidades de trabajo o para el ejercicio de un deporte, se deberá demostrar, en su caso, esas circunstancias.
+
+###### ARTICULO 14.
+
+El extravío, robo, destrucción o decomiso de un arma que se posea o porte, debe hacerse del conocimiento de la Secretaría de la Defensa Nacional, en los términos y por los conductos que establezcan los Reglamentos de esta Ley.
+
+### CAPITULO SEGUNDO. Posesión de armas en el domicilio
+
+###### ARTICULO 15.
+
+En el domicilio se podrán poseer armas para la seguridad y defensa legítima de sus moradores. Su posesión impone el deber de manifestarlas a la Secretaría de la Defensa Nacional, para su registro.
+
+Por cada arma se extenderá constancia de su registro.
+
+###### ARTICULO 16.
+
+Para los efectos del control de la posesión de armas, las personas físicas deben manifestar, un único domicilio de residencia permanente para sí y sus familiares.
+
+###### ARTICULO 17.
+
+Toda persona que adquiera una o más armas, está obligada a manifestarlo a la Secretaría de la Defensa Nacional en un plazo de treinta días. La manifestación se hará por escrito, indicando calibre, modelo y matrícula si la tuviere.
+
+###### ARTICULO 18.
+
+Los funcionarios, empleados públicos y jefes de los cuerpos de policía federales, del Distrito y Territorios Federales, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
+
+###### ARTICULO 19.
+
+La Secretaría de la Defensa Nacional tendrá la facultad de determinar en cada caso, qué armas para tiro y cacería de las señaladas en el artículo 10, por sus características balísticas, pueden poseerse y en qué lugar o lugares, así como las dotaciones de municiones correspondientes. Respecto a las armas de cacería, se requerirá previamente la opinión de la Secretaría de Agricultura y Ganadería.
+
+Las solicitudes de autorización se harán directamente o por conducto del Club o Asociación.
+
+###### ARTICULO 20.
+
+Los Clubes o Asociaciones de deportistas de tiro y cacería, deberán estar registrados en las Secretarías de Gobernación y de la Defensa Nacional, a cuyo efecto cumplirán los requisitos que señala el Reglamento.
+
+###### ARTICULO 21.
+
+Las personas físicas o morales, públicas o privadas, podrán poseer colecciones o museos de armas antiguas o modernas, o de ambas, previo el permiso correspondiente de la Secretaría de la Defensa Nacional.
+
+También podrán poseer, con los mismos requisitos, armas de las prohibidas por esta Ley, cuando tengan valor o significado cultural, científico, artístico o histórico.
+
+Cuando en una colección o museo no adscrito a un instituto armado de la Nación, existan armas de las reservadas para el uso exclusivo del Ejército, Armada y Fuerza Aérea, se requerirá, además, autorización por escrito, de la dependencia respectiva.
+
+###### ARTICULO 22.
+
+Los particulares que tengan colecciones de armas, deberán solicitar autorización para la adquisición y posesión de nuevas armas destinadas al enriquecimiento de la colección o del museo, e inscribirlas.
+
+###### ARTICULO 23.
+
+Las armas que formen parte de una colección podrán enajenarse como tal, o por unidades, en los términos de las disposiciones de esta Ley y previo el permiso escrito de la Secretaría de la Defensa Nacional y demás autoridades competentes.
+
+### CAPITULO TERCERO
+
+Casos, condiciones, requisitos y lugares para la portación de armas.
+
+###### ARTICULO 24.
+
+Para portar armas se requiere la licencia respectiva.
+
+Los miembros del Ejército, Armada y Fuerza Aérea, así como de los Cuerpos de Policía, Estatales o Municipales, quedan exceptuados de esta disposición, por estar sujetos a leyes y reglamentos específicos.
+
+###### ARTICULO 25.
+
+Las licencias para la portación de armas serán de dos clases:
+
+I.- Particulares; que deberán revalidarse cada dos años, y
+
+II.- Oficiales, que tendrán validez mientras se desempeñe el cargo o empleo que las motivó.
+
+###### ARTICULO 26.
+
+Las licencias particulares se expedirán a las personas que reúnan los siguientes requisitos:
+
+I. Que tengan un modo honesto de vivir;
+
+II. Que hayan cumplido, los obligados, con el Servicio Militar Nacional;
+
+III. Que no tengan impedimento físico o mental para el manejo de las armas;
+
+IV. Que no hayan sido condenados por delito cometido con el empleo de armas, y
+
+V. Que por la naturaleza de sus empleos u ocupaciones, por las circunstancias especiales del lugar en que vivan, o por otros motivos justificados acrediten, a juicio de la Secretaría de la Defensa Nacional, la necesidad de portar armas.
+
+> <small>(F. DE E., D.O.F. 25 DE ENERO DE 1972)</small>
+
+Para actividades deportivas, de tiro o cacería, también podrán expedirse licencias particulares, por una o varias armas, sólo si los interesados son miembros de algún club o asociación registrados y cumplen los requisitos señalados en las cuatro primeras fracciones de este artículo.
+
+###### ARTICULO 27.
+
+A los extranjeros sólo se les podrá autorizar la portación de armas cuando, además de satisfacer los requisitos señalados en el artículo anterior, acrediten su calidad de inmigrados, salvo el caso del permiso de licencia temporal para turistas con fines deportivos.
+
+###### ARTICULO 28.
+
+Las licencias particulares se expedirán previo el pago de los derechos de portación correspondientes, los cuales se establecerán en proporción a las características de las armas.
+
+Los ejidatarios, comuneros y jornaleros del campo están exentos de este pago.
+
+###### ARTICULO 29.
+
+Las licencias oficiales se expedirán a quienes desempeñen cargos o empleos de la Federación, del Distrito y Territorios Federales y que para el cumplimiento de sus obligaciones requieran la portación de armas. Estas licencias podrán ser colectivas o individuales.
+
+Las licencias colectivas se expedirán a los Cuerpos de Policía, estrictamente por el número de personas que figuren en las nóminas de pago respectivas. En este caso, las credenciales equivalen a las licencias individuales y serán expedidas por las autoridades de quienes dependan. Los jefes de estos cuerpos remitirán a la Secretaría de la Defensa Nacional en la forma que señale el Reglamento, una relación de las armas que se encuentren en su poder o de sus subalternos en cumplimiento de su misión.
+
+La Secretaría de la Defensa Nacional inspeccionará periódicamente el armamento de estos cuerpos, sólo para efectos de control, sin tener autoridad alguna sobre el personal.
+
+La propia Secretaría coordinará con los Gobiernos de los Estados las medidas tendientes a obtener con oportunidad y exactitud las informaciones necesarias a mejor control de las armas con que se haya dotado a las policías Estatales y Municipales.
+
+###### ARTICULO 30.
+
+Corresponde a la Secretaría de la Defensa Nacional, con la salvedad señalada en el artículo 32 de esta Ley, la expedición, suspensión y cancelación de las licencias de portación de armas, así como su registro, control y vigilancia.
+
+La propia Secretaría comunicará oportunamente a la de Gobernación, las licencias que autorice, suspenda o cancele.
+
+###### ARTICULO 31.
+
+Las licencias de portación de armas podrán cancelarse, sin perjuicio de aplicar las sanciones que procedan, en los siguientes casos:
+
+I.- Cuando sus poseedores hagan mal uso de las armas o de las licencias;
+
+II.- Cuando sus poseedores alteren las licencias;
+
+III.- Cuando se usen las armas fuera de los lugares autorizados;
+
+IV.- Cuando se porte un arma distinta a la que ampara la licencia;
+
+V.- Cuando el arma amparada por la licencia se modifique en sus características originales;
+
+VI.- Cuando la expedición de la licencia se haya basado en engaño, o cuando a juicio de la Secretaría de la Defensa Nacional hayan desaparecido los motivos que se tuvieron en cuenta para otorgarla o que por causa superveniente se dejare de satisfacer algún otro requisito necesario para su expedición;
+
+VII.- Por resolución de autoridad competente;
+
+VIII.- Cuando sus poseedores cambien de domicilio sin manifestarlo a la Secretaría de la Defensa Nacional;
+
+IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamentos o las de la Secretaría de la Defensa Nacional dictadas con base en esos Ordenamientos.
+
+La suspensión de las licencias de portación de armas, sólo procederá cuando a juicio de la Secretaría de Gobernación sea necesaria para mantener o restituir la tranquilidad de poblaciones o regiones.
+
+###### ARTICULO 32.
+
+Corresponde a la Secretaría de Gobernación la expedición, suspensión y cancelación de licencias oficiales individuales de portación de armas, a los empleados federales, de las que dará aviso a la Secretaría de la Defensa Nacional para los efectos de la inscripción de las armas en el Registro Federal de Armas.
+
+###### ARTICULO 33.
+
+Las credenciales de agentes o policías honorarios y confidenciales u otras similares, no facultan a los interesados para portar armas, sin la licencia correspondiente.
+
+###### ARTICULO 34.
+
+En las licencias de portación de armas se harán constar los límites territoriales en que tengan validez. En el caso de que éstas sean para vigilantes de recintos o determinadas zonas, se precisarán en ellas las áreas en que sean válidas.
+
+###### ARTICULO 35.
+
+Las licencias autorizan exclusivamente la portación del arma señalada por la persona a cuyo nombre sea expedida.
+
+###### ARTICULO 36.
+
+Queda prohibido a los particulares asistir armados a manifestaciones y celebraciones públicas, a asambleas deliberativas, a juntas en que se controviertan intereses, a cualquier reunión que, por sus fines, haga previsible la aparición de tendencias opuestas y, en general, a cualquier acto cuyos resultados puedan ser obtenidos por la amenaza o el uso de las armas; se exceptúan los desfiles y las reuniones con fines deportivos de charrería, tiro o cacería.
+
+## TITULO TERCERO
+
+Fabricación, comercio, importación, exportación y actividades conexas.
+
+### CAPITULO PRIMERO. Disposiciones preliminares
+
+###### ARTICULO 37.
+
+Es facultad exclusiva del Presidente de la República autorizar el establecimiento de fábricas y comercios de armas.
+
+El control y vigilancia de las actividades y operaciones industriales y comerciales que se realicen con armas, municiones, explosivos, artificios y substancias químicas, será hecho por la Secretaría de la Defensa Nacional.
+
+Los permisos específicos que se requieran en estas actividades serán otorgados por la Secretaría de la Defensa Nacional con conocimiento de la Secretaría de Gobernación y sin perjuicio de las atribuciones que competan a otras autoridades.
+
+Las dependencias oficiales y los organismos públicos federales que realicen estas actividades, se sujetarán a las disposiciones legales que las regulen.
+
+###### ARTICULO 38.
+
+Los permisos a que se refiere el artículo anterior, no eximen a los interesados de cubrir los requisitos que señalen otras disposiciones legales, según la naturaleza de sus actividades.
+
+###### ARTICULO 39.
+
+En los casos a que se refieren los artículos 37 y 38 de esta Ley, se requerirá la conformidad de las autoridades locales y municipales del lugar respecto a la seguridad y ubicación de los establecimientos correspondientes.
+
+###### ARTICULO 40.
+
+Las actividades industriales y comerciales relacionadas con armas, municiones, explosivos y demás objetos de uso exclusivo del Ejército y Fuerza Aérea, se sujetarán a las disposiciones que dicte la Secretaría de la Defensa Nacional. Cuando el material sea de uso exclusivo de la Armada de México, esas actividades se sujetarán a las disposiciones de la Secretaría de Marina.
+
+El departamento de la Industria Militar se regula por sus propias normas legales.
+
+###### ARTICULO 41.
+
+Las disposiciones de este título son aplicables a todas las actividades relacionadas con las armas, objetos y materiales que a continuación se mencionan:
+
+I.- ARMAS:
+
+a).- Todas las armas de fuego permitidas, que figuran en los artículos 9 y 10 de esta Ley;
+
+b).- Armas de gas;
+
+c).- Cañones industriales; y
+
+d).- Las partes constitutivas de las armas anteriores.
+
+II.- MUNICIONES:
+
+a).- Municiones y sus partes constitutivas destinadas a las armas señaladas en la fracción anterior;
+
+b).- Los cartuchos empleados en las herramientas de fijación de anclas en la industria de la construcción y que para su funcionamiento usan pólvora.
+
+III.- POLVORAS Y EXPLOSIVOS:
+
+a).- Pólvoras en todas sus composiciones;
+
+b).- Acido pícrico;
+
+c).- Dinitrotolueno;
+
+d).- Nitroalmidones;
+
+e).- Nitroglicerina;
+
+f).- Nitrocelulosa: Tipo fibrosa, humectada en alcohol, con una concentración de 12.2% de nitrógeno como máximo y con 30% de solvente como mínimo. Tipo cúbica (densa-pastosa), con una concentración del 12.2% de nitrógeno como máximo y hasta el 25% de solvente como mínimo;
+
+g).- Nitroguanidina;
+
+h).- Tetril;
+
+i).- Pentrita (P.E.T.N.) o Penta Eritrita Tetranitrada;
+
+j).- Trinitrotolueno;
+
+k).- Fulminato de mercurio;
+
+l).- Nitruros de plomo, plata y cobre;
+
+m).- Dinamitas y amatoles;
+
+n).- Estifanato de plomo;
+
+o).- Nitrocarbonitratos (explosivos al nitrato de amonio);
+
+p).- Ciclonita (R.D.X.).
+
+IV.- ARTIFICIOS:
+
+a).- Iniciadores;
+
+b).- Detonadores;
+
+c).- Mechas de seguridad;
+
+d).- Cordones detonantes;
+
+e).- Pirotécnicos.
+
+V.- SUBSTANCIAS QUIMICAS RELACIONADAS CON EXPLOSIVOS:
+
+a).- Cloratos;
+
+b).- Percloratos;
+
+c).- Sodio metálico;
+
+d).- Magnesio en polvo;
+
+e).- Fósforo.
+
+###### ARTICULO 42.
+
+Los permisos específicos a que se refiere el artículo 37 de esta Ley, pueden ser:
+
+I.- Generales, que se concederán a negociaciones o personas que se dediquen a estas actividades de manera permanente;
+
+II.- Ordinarios, que se expedirán en cada caso para realizar operaciones mercantiles entre sí o con comerciantes de otros países, a las negociaciones con permiso general vigente, y
+
+III.- Extraordinarios, que se otorgarán a quienes de manera eventual tengan necesidad de efectuar alguna de las operaciones a que este Título se refiere.
+
+###### ARTICULO 43.
+
+La Secretaría de la Defensa Nacional podrá negar, suspender o cancelar discrecionalmente los permisos a que se refiere el artículo anterior, cuando las actividades amparadas con los permisos entrañen peligro para la seguridad de las personas o puedan alterar la tranquilidad o el orden público.
+
+###### ARTICULO 44.
+
+Los permisos son intransferibles.
+
+Los generales tendrán vigencia durante el año en que se expidan, y podrán ser revalidados a juicio de la Secretaría de la Defensa Nacional.
+
+Los ordinarios y extraordinarios tendrán la vigencia que se señale en cada caso concreto.
+
+###### ARTICULO 45.
+
+Las fábricas, plantas industriales, talleres, comercios y demás establecimientos que se dediquen a las actividades reguladas en este Título, deberán reunir las condiciones de seguridad, funcionamiento técnico, ubicación y producción que se determinen en el Reglamento.
+
+###### ARTICULO 46.
+
+La Secretaría de Relaciones Exteriores, para conceder licencias o autorizaciones relativas a la constitución o modificación del acta constitutiva o estatutos de sociedades, cuyo objeto sea el de establecer o desarrollar industrias o comercios de armas, municiones y explosivos, y para otorgar permisos a dichas sociedades con el objeto de que adquieran negociaciones o instalaciones relativas a las expresadas industrias o comercios, deberá exigir que se cumplan los requisitos que a continuación se indican:
+
+a).- Que en el capital social exista una proporción mínima del 51% con derecho a voto, suscrita por mexicanos o sociedades mexicanas que tengan cláusula de exclusión de extranjeros, o el porcentaje mayor que conforme a la escritura social se requiera para cualquier resolución relacionada con la operación de la sociedad.
+
+b).- Para tales efectos, cuando se trate de sociedades anónimas, el capital social deberá estar constituido por dos series de acciones: una, de nominativas exclusiva para accionistas mexicanos, debiendo constar en los títulos respectivos, que no pueden ser transmitidos a extranjeros o sociedades mexicanas que no reúnan los requisitos indicados en este artículo; y otra, de libre circulación.
+
+c).- La escritura social establecerá que los administradores serán designados por los socios o accionistas mexicanos de la sociedad y que dichos nombramientos deberán recaer en personas de nacionalidad mexicana.
+
+Las instituciones de crédito y organizaciones auxiliares sólo podrán operar con las sociedades cuyos objetos sociales quedan específicados, si les consta que han satisfecho las prevenciones del presente artículo.
+
+###### ARTICULO 47.
+
+Cuando se trate de operaciones de adquisición de acciones o de participación en sociedades, por extranjeros, sociedades extranjeras o sociedades mexicanas con cláusula de admisión de extranjeros, los permisos a que se refiere el artículo 46, podrán otorgarse por la Secretaría de Relaciones Exteriores cuando no se infrinjan las disposiciones contenidas en el citado precepto.
+
+### CAPITULO SEGUNDO. De las Actividades y Operaciones Industriales y Comerciales
+
+###### ARTICULO 48.
+
+Los permisos generales para la fabricación, organización, reparación y actividades conexas respecto de las armas, objetos y materiales que señala este Título, incluyen la autorización para la compra de las partes o elementos que se requieran.
+
+###### ARTICULO 49.
+
+Para vender a particulares más de un arma, los comerciantes gestionarán previamente el permiso extraordinario respectivo.
+
+###### ARTICULO 50.
+
+Los comerciantes únicamente podrán vender a particulares:
+
+a).- Hasta 500 cartuchos calibre 22.
+
+b).- Hasta 1,000 cartuchos para escopeta o de otros que se carguen con munición, nuevos o recargados, aunque sean de diferentes calibres.
+
+c).- Hasta 5 kilogramos de pólvora deportiva para recargar, enlatada o en cuñetes, y 1,000 piezas de cada uno de los elementos constitutivos de cartuchos para escopeta, o 100 balas o elementos constitutivos para cartuchos de las otras armas permitidas.
+
+d).- Hasta 200 cartuchos como máximo, para las otras armas permitidas.
+
+El Reglamento de esta Ley, señalará los plazos para efectuar nuevas ventas a una misma persona.
+
+###### ARTICULO 51.
+
+La compra-venta de armas y cartuchos de uso exclusivo del Ejército, Armada y Fuerza Aérea, se hará por conducto de la institución oficial que señale el Presidente de la República.
+
+###### ARTICULO 52.
+
+La compra-venta de armas y cartuchos a que se refiere el artículo anterior, se realizará en los términos y condiciones que señalen los ordenamientos que expida la Secretaría de la Defensa Nacional o de la Secretaría de Marina en su caso.
+
+###### ARTICULO 53.
+
+La compra-venta, donación o permuta de armas, municiones y explosivos entre particulares, requerirá permiso extraordinario.
+
+###### ARTICULO 54.
+
+Quienes carezcan de los permisos que señale el artículo 42 de esta Ley y que necesiten adquirir cantidades superiores a: cinco kilogramos de pólvora enlatada o en cuñetes, mil fulminantes, o cualquier cantidad de explosivos y artificios, deberán obtener autorización en los términos de esta Ley.
+
+### CAPITULO TERCERO. De la Importación y Exportación
+
+###### ARTICULO 55.
+
+Las armas, objetos y materiales a que se refiere esta Ley que se importen al amparo de permisos ordinarios o extraordinarios, deberán destinarse precisamente al uso señalado en dichos permisos. Cualquier modificación, cambio o transformación que pretenda introducirse al destino señalado, requiere de nuevo permiso.
+
+###### ARTICULO 56.
+
+Para la expedición de los permisos de exportación de las armas, objetos o materiales mencionados, los interesados deberán acreditar ante la Secretaría de la Defensa Nacional, que ya tienen el permiso de importación del gobierno del país a donde se destinen.
+
+###### ARTICULO 57.
+
+Cuando las armas, objetos y materiales de importación o exportación comercial se encuentren en poder de la aduana respectiva, los interesados lo comunicarán a la Secretaría de la Defensa Nacional para que ésta designe representante que intervenga en el despacho aduanal correspondiente, sin cuyo requisito no podrá permitirse el retiro del dominio fiscal o la salida del país.
+
+###### ARTICULO 58.
+
+Los particulares que adquieran armas o municiones en el extranjero, deberán solicitar el permiso extraordinario para retirarlas del dominio fiscal.
+
+###### ARTICULO 59.
+
+Las importaciones temporales de armas y municiones de turistas cinegéticos y deportistas de tiro, deberán estar amparadas por el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deban cumplir de acuerdo con el Reglamento de esta Ley.
+
+### CAPITULO CUARTO. Del Transporte
+
+###### ARTICULO 60.
+
+Los permisos generales para cualesquiera de las actividades reguladas en este título, incluyen la autorización para el transporte dentro del territorio nacional, de las armas, objetos y materiales que amparen, pero sus tenedores deberán sujetarse a las leyes, reglamentos y disposiciones relativos.
+
+###### ARTICULO 61.
+
+La transportación que se derive de permisos concedidos por la Secretaría de la Defensa Nacional a personas o negociaciones, para realizar alguna o algunas de las actividades señaladas en este título, deberá ajustarse a las medidas de seguridad que se precisen en los permisos.
+
+###### ARTICULO 62.
+
+Las personas o negociaciones que cuenten con permiso general para el transporte especializado de las armas, objetos y materiales comprendidos en este título, deberán exigir de los remitentes, copia autorizada del permiso que se les haya concedido.
+
+###### ARTICULO 63.
+
+Las personas que se internen al país en tránsito, no podrán llevar consigo ni adquirir las armas, objetos y materiales mencionados en este título, sin la licencia o permiso correspondiente.
+
+###### ARTICULO 64.
+
+Cuando el Servicio Postal Mexicano acepte envíos de armas, objetos y materiales citados en este título, deberá exigir el permiso correspondiente.
+
+### CAPITULO QUINTO. Del Almacenamiento
+
+###### ARTICULO 65.
+
+El almacenamiento de las armas, objetos y materiales aludidos en este título, podrá autorizarse como actividad complementaria del permiso general concedido, o como específico de personas o negociaciones.
+
+###### ARTICULO 66.
+
+Las armas, objetos y materiales que amparen los permisos, sólo podrán almacenarse hasta por las cantidades y en los locales autorizados.
+
+###### ARTICULO 67.
+
+El almacenamiento de las armas, objetos y materiales a que se refiere este Título, deberá sujetarse a los requisitos, tablas de compatibilidad y distancia-cantidad que señale la Secretaría de la Defensa Nacional.
+
+### CAPITULO SEXTO. Del Control y Vigilancia
+
+###### ARTICULO 68.
+
+Quienes tengan permiso general, deberán rendir a la Secretaría de la Defensa Nacional, dentro de los cinco primeros días de cada mes, un informe detallado de sus actividades, en el que se especifique el movimiento ocurrido en el mes anterior.
+
+###### ARTICULO 69.
+
+Las negociaciones que se dediquen a las actividades reguladas en esta Ley, tienen obligación de dar las facilidades necesarias a la Secretaría de la Defensa Nacional para practicar visitas de inspección.
+
+###### ARTICULO 70.
+
+En caso de alteración de la tranquilidad pública, las autoridades a quienes corresponde la aplicación de esta Ley, dictarán dentro de los ámbitos de su competencia, las medidas necesarias para asegurar el estricto cumplimiento de las disposiciones de suspensión o cancelación de los permisos.
+
+###### ARTICULO 71.
+
+En caso de guerra o alteración del orden público, las fábricas, plantas industriales, talleres, almacenes y establecimientos comerciales que fabriquen, produzcan, organicen, reparen, almacenen o vendan cualesquiera de las armas, objetos y materiales aludidos en esta Ley, previo acuerdo del Presidente de la República, quedarán bajo la dirección y control de la Secretaría de la Defensa Nacional, de conformidad con los ordenamientos legales que se expidan.
+
+###### ARTICULO 72.
+
+La Secretaría de la Defensa Nacional, cuando lo estime necesario, inspeccionará las condiciones de seguridad de las instalaciones en fábricas, plantas industriales, talleres, almacenes, polvorines y vehículos destinados a las actividades a que se refiere este título.
+
+###### ARTICULO 73.
+
+Los permisionarios a que se refiere este Título están obligados a cumplir con las medidas de información, control y seguridad que establezca la Secretaría de la Defensa Nacional, con sujeción a esta Ley.
+
+###### ARTICULO 74.
+
+Se prohiben los remates de las armas, objetos y materiales mencionados en esta Ley. Se exceptúan los administrativos y judiciales, en cuyo caso, las respectivas autoridades deberán comunicarlo a la Secretaría de la Defensa Nacional, la que podrá designar un representante que asista al acto. Sólo podrán ser postores las personas o negociaciones que tengan permiso de la Secretaría de la Defensa Nacional.
+
+###### ARTICULO 75.
+
+En los casos de adjudicación judicial o administrativa de armas, objetos y materiales a que se refiere esta Ley, el adjudicatario, dentro de los quince días siguientes, deberá solicitar el permiso correspondiente para disponer de los mismos, indicando el destino que pretenda darles.
+
+###### ARTICULO 76.
+
+Los titulares de permisos generales están obligados a conservar, por el término de cinco años, toda la documentación relacionada con dichos permisos.
+
+## TITULO CUARTO. Sanciones
+
+### CAPITULO UNICO
+
+###### ARTICULO 77.
+
+Serán sancionados con multa de $ 50.00 a $ 500.00 o, por su falta de pago, con el arresto correspondiente, que en ningún caso excederá de 15 días:
+
+I.- Quienes posean armas en lugar no autorizado o que no sea su domicilio;
+
+II.- Quienes posean armas en su domicilio sin haber hecho la manifestación de las mismas a la Secretaría de la Defensa Nacional, o en su caso, sin tener la autorización correspondiente;
+
+III.- Quienes posean armas prohibidas, o de las reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea, salvo las excepciones señaladas en esta Ley.
+
+IV.- Quienes infrinjan lo dispuesto en el Artículo 36 de esta Ley. En este caso, además de la sanción, se recogerá el arma.
+
+Para los efectos de la imposición de las sanciones a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
+
+###### ARTICULO 78.
+
+La Secretaría de la Defensa Nacional y demás autoridades facultadas para ello, recogerán las armas a todas aquellas personas que las porten sin licencia, o sin llevarla consigo y a quienes teniéndola, hayan hecho mal uso de ellas.
+
+Las armas recogidas quedarán depositadas donde designe la propia Secretaría a disposición de la autoridad competente.
+
+El arma recogida por no llevar el interesado la licencia, será devuelta previo pago de una multa de $ 200.00 y la exhibición de la licencia.
+
+###### ARTICULO 79.
+
+Las autoridades federales, estatales o municipales que desempeñen funciones de seguridad, tendrán la misma facultad y obligación a que se refiere el artículo anterior, debiendo proceder en los mismos términos.
+
+Para los efectos del pago de la multa, turnarán la infracción a la autoridad fiscal federal correspondiente.
+
+###### ARTICULO 80.
+
+Se cancelará el registro del Club o Asociación de tiro o cacería, que deje de cumplir cualesquiera de las obligaciones que les impone esta Ley y su Reglamento.
+
+Se suspenderá la licencia de portación de armas destinadas al deporte de tiro o cacería, cuando se haya cancelado el registro del club o asociación a que pertenezca el interesado, hasta que éste se afilie a otro registrado en las Secretarías de Gobernación y de la Defensa Nacional, de acuerdo con lo dispuesto por los artículos 20 y último párrafo del artículo 26 de esta Ley.
+
+Se cancelará la propia licencia cuando su tenedor infrinja alguno de los deberes que le señale esta Ley y su Reglamento, o cuando deje de pertenecer al Club o Asociación del que fuere miembro.
+
+###### ARTICULO 81.
+
+Se impondrá de dos meses a dos años de prisión o multa de $ 100.00 a $ 2,000.00 a quienes porten armas sin tener expedida la licencia correspondiente.
+
+###### ARTICULO 82.
+
+Se impondrá de dos meses a dos años de prisión o multa de $ 200.00 a $ 2,000.00 a quienes por una sola vez transmitan la propiedad de un arma por compraventa, donación o permuta, sin el permiso correspondiente.
+
+La transmisión de la propiedad de dos o más armas, o por dos o más veces, sin permiso, se sancionará conforme al artículo 85 de esta Ley.
+
+###### ARTICULO 83.
+
+Se impondrá de seis meses a tres años de prisión y multa de $ 100.00 a $ 3,000.00 a:
+
+I.- Quienes porten armas prohibidas o de las de uso exclusivo del Ejército, Armada o Fuerza Aérea; y
+
+II.- Quienes sin el permiso correspondiente hicieren acopio de armas.
+
+###### ARTICULO 84.
+
+Se impondrá de uno a quince años de prisión y multa de $ 100.00 a $ 100,000.00:
+
+I.- Al que introduzca en la República, en forma clandestina, armas, municiones, explosivos y materiales de uso exclusivo de las fuerzas armadas o sujetos a control, de acuerdo con esta Ley; asimismo al que participe en la introducción;
+
+II.- Al funcionario o empleado público, que estando obligado por sus funciones a impedir esa introducción, no lo haga. Se le impondrá, además, la destitución del empleo o cargo e inhabilitación de dos a seis años; y
+
+III.- A quien adquiera los objetos a que se refiere la fracción I para fines mercantiles.
+
+###### ARTICULO 85.
+
+Se impondrá de seis meses a seis años de prisión y multa de $ 100.00 a $ 20,000.00:
+
+I.- A los comerciantes en armas, municiones y explosivos, que los adquieran sin comprobar la procedencia legal de los mismos;
+
+II.- A quienes fabriquen o exporten dichos objetos sin el permiso correspondiente;
+
+III.- A los comerciantes en armas que sin dicho permiso vendan, donen o permuten los objetos a que se refiere la fracción I, y
+
+IV.- A quienes dispongan indebidamente de las armas con que se haya dotado a los cuerpos de policía federales, estatales o municipales.
+
+###### ARTICULO 86.
+
+Se impondrá de tres meses a tres años de prisión y multa de $ 100.00 a $ 10,000.00 a quienes, sin el permiso respectivo:
+
+I.- Compren explosivos, y
+
+II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta Ley.
+
+###### ARTICULO 87.
+
+Se impondrá de un mes a dos años de prisión y multa de $ 100.00 a $ 5,000.00 a quienes:
+
+I.- Manejen fábricas, plantas industriales, talleres, almacenes y demás establecimientos que se dediquen a las actividades reguladas por esta Ley, sin ajustarse a las condiciones de seguridad a que estén obligados;
+
+II.- Remitan los objetos materia de esta Ley, si el transporte se efectúa por conducto de empresas no autorizadas;
+
+III.- Realicen el transporte a que se refiere la fracción anterior, y
+
+IV.- Enajenen explosivos, artificios y substancias químicas relacionadas con explosivos, a negociaciones o personas que no tengan el permiso correspondiente de la Secretaría de la Defensa Nacional.
+
+###### ARTICULO 88.
+
+Las armas materia de los delitos señalados en este capítulo, serán decomisadas para ser destruídas. Se exceptúan las de uso exclusivo del Ejército, Armada y Fuerza Aérea que se destinarán a dichas instituciones, y las de valor histórico, cultural, científico o artístico, que se destinarán al Museo de Armas de la Secretaría de la Defensa Nacional. Los objetos, explosivos y demás materiales decomisados se aplicarán a obras de beneficio social.
+
+###### ARTICULO 89.
+
+Por la infracción de cualquiera de las normas de la presente Ley, independientemente de las sanciones establecidas en este Capítulo, la Secretaría de la Defensa Nacional podrá, en los términos que señale el Reglamento, suspender o cancelar los permisos que haya otorgado.
+
+###### ARTICULO 90.
+
+Las demás infracciones a la presente Ley o sus Reglamentos, no expresamente previstas, podrán sancionarse con multa de $ 50.00 a $ 10,000.00.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+En tanto se expida la reglamentación de esta Ley, se aplicarán las disposiciones relativas de los reglamentos en vigor que no se opongan a lo dispuesto en la misma.
+
+###### ARTICULO TERCERO.
+
+A los 90 días de vigencia de la presente Ley, quedarán sin efecto todas las licencias de portación de armas expedidas con anterioridad. Pero si dentro de ese plazo, los interesados se ajustan a lo dispuesto por esta Ley, sus licencias serán revalidadas.
+
+###### ARTICULO CUARTO.
+
+Las sociedades existentes y en operación a la fecha de la presente Ley, no serán afectadas en su constitución por las disposiciones de la misma; pero si desean adquirir otras negociaciones o instalar nuevas unidades industriales de las mencionadas en el artículo 46, se requerirá el permiso de la Secretaría de Relaciones Exteriores que, en caso de que ésta resuelva concederlo, sólo podrá otorgarse mediante el cumplimiento de los requisitos previstos para las nuevas sociedades.
+
+###### ARTICULO QUINTO.
+
+Dentro de los 90 días siguientes a la fecha en que entre en vigor esta Ley, los comercios e industrias deberán ajustarse a lo preceptuado en la misma.
+
+###### ARTICULO SEXTO.
+
+Toda persona que posea una o más armas en su domicilio, está obligada a manifestarlo a la Secretaría de la Defensa Nacional, en un plazo de noventa días a partir de la fecha de la vigencia de esta Ley.
+
+###### ARTICULO SEPTIMO.
+
+El Reglamento correspondiente señalará la forma y términos en que los particulares deberán deshacerse de las armas que, habiendo estado permitidas y ya registradas a la fecha de la publicación de esta Ley, quedan reservadas para uso exclusivo del Ejército, Armada y Fuerza Aérea.
+
+###### ARTICULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+México, D. F., a 29 de diciembre de 1971.- Víctor Manzanilla Schaffer, S. P.- Juan Moisés Calleja, D. P.- Juan Sabines Gutiérrez, S. S.- Marco Antonio Espinosa P, D. S.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y uno.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Olachea Borbón.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
