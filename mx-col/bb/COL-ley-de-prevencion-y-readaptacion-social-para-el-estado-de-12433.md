@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2002-01-19"
+last_updated: "2003-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -141,7 +141,7 @@ XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas d
 
 XXI.- Crear el Consejo Técnico Interdisciplinario de la DIRECCION; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2002)</small>
 
 XXII.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
 
@@ -197,11 +197,27 @@ Si el reclusorio carece de los elementos indispensables para la integración del
 
 Para los efectos de la presente Ley, el término Consejo Técnico se entenderá referido al Consejo Técnico Interdisciplinario.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
 
 ARTICULO 16 BIS.- El Consejo Técnico Interdisciplinario de la DIRECCION, tendrá las funciones consultivas necesarias con respecto a la supervisión del trabajo de los centros penitenciarios, en cuanto a la aplicación del sistema progresivo para la concesión de beneficios y la ejecución de medidas preliberacionales; la distribución, custodia y traslado de las personas privadas de su libertad, así como las medidas de alcance general para la buena marcha del sistema penitenciario en el Estado.
 
-El Consejo Técnico estará presidido por el titular de la DIRECCION o por el funcionario que le sustituya en sus faltas. Se integrará por los miembros directivos de la DIRECCION, por el Presidente del Consejo Tutelar para Menores, por el Director del Centro Estatal de Menores y por cada uno de los Directores de los centros penitenciarios del Estado. El Subdirector Jurídico de la DIRECCION será el Secretario del Consejo Técnico. Todos los integrantes tienen derecho a voz.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
+
+El Consejo Técnico estará integrado de la siguiente forma:
+
+I.- Un Presidente, que será el representante del Secretario General de Gobierno;
+
+II.- Un Secretario Técnico, que será el titular de la Dirección, con derecho sólo a voz;
+
+III.- Siete vocales, que serán un profesional en cada una de las siguientes ramas: Trabajo Social, Medicina, Psiquiatría, Psicología, Pedagogía o Educación y Derecho, así como un representante de la Junta de Asistencia Privada del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2003)</small>
+
+El titular del Poder Ejecutivo, por conducto del Secretario General de Gobierno, solicitará oportunamente a las instituciones educativas y académicas, así como a las asociaciones y colegios de profesionistas, propuestas para integrar las vocalías correspondientes. Una vez integradas las listas respectivas, en la primera quincena del mes de enero de cada año, se hará la insaculación para seleccionar a cada vocal, quien ocupará el cargo a partir del mes de febrero siguiente, con duración de un año calendario, pudiendo ser nuevamente propuesto e insaculado. El cargo de vocal será honorífico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2003)</small>
+
+Los Directores de los centros penitenciarios tendrán derecho a voz y asistirán a las sesiones del Consejo en que se traten asuntos relativos a los internos de sus respectivos establecimientos.
 
 ###### ARTICULO 17.
 
@@ -704,3 +720,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE ENERO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación e (sic) el Periódico Oficial "EL ESTADO DE COLIMA"
+
+P.O. 15 DE FEBRERO DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El titular del Poder Ejecutivo, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, dará cumplimiento a lo dispuesto por el segundo párrafo del artículo 16 BIS del presente ordenamiento. Los vocales seleccionados por primera vez durarán en el cargo hasta el mes de febrero del año 2004.
