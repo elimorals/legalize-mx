@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1998-12-31"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -97,9 +97,9 @@ III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL
 
 IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, la tarifa será del 3%;
+V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, silvícola o acuícola, la tarifa será del 3%;
 
 VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -369,11 +369,11 @@ b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 #### Sección Octava. Pago Del Impuesto
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 52.
 
-Tratándose de predios ejidales aprovechados para la producción agropecuaria, el pago se hará al efectuarse la venta de los productos y en su defecto dentro de los treinta días siguientes a la fecha en que éstos se hubieren cosechado.
+Tratándose de predios ejidales aprovechados para la producción agropecuaria, el pago se hará al efectuarse la venta de los productos y en su defecto dentro de los veinte días siguientes a la fecha en que éstos se hubieren cosechado.
 
 ###### Artículo 53.
 
@@ -827,7 +827,7 @@ IV.- Exhibir, cuando lo requiera la Tesorería General del Estado, la documentac
 
 V.- Dar aviso de clausura, traspaso y cambio de nombre, razón social o domicilio, dentro de los diez días siguientes a la realización de estos actos; y
 
-VI.- Los demás que impongan otras disposiciones fiscales.
+VI.- Las demás que impongan otras disposiciones fiscales.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1603,9 +1603,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado o pensionado, en los términos del Artículo 298 del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de 3.2 veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
+Cuando el sujeto del impuesto acredite su calidad de jubilado o pensionado, en los términos del Artículo 298 del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de cuatro veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
 
 ###### Artículo 189 Bis.
 
@@ -1631,9 +1631,11 @@ III.- Los funcionarios públicos o empleados de la Federación, del Estado o de 
 
 El impuesto deberá pagarse en la Oficina Recaudadora del domicilio de cualquiera de los sujetos o del lugar en que se celebró la operación.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 193.
 
-El pago del impuesto se hará dentro de los quince días siguientes a la operación si consta en documento privado. Si consta en un documento público, el pago se hará antes de que el documento sea autorizado por el Notario o Funcionario correspondiente.
+El pago del impuesto se hará dentro de los veinte días siguientes a la operación si consta en documento privado. Si consta en documento público, el pago se hará antes de que el documento sea autorizado por el notario o funcionario correspondiente.
 
 ###### Artículo 194.
 
@@ -1711,7 +1713,7 @@ No causan el impuesto las percepciones derivadas:
 
 I.- Del arrendamiento de inmuebles;
 
-II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de crédito (sic);
+II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de créditos;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1943,9 +1945,11 @@ Artículo 212 K.- Sobre la base gravable se aplicará la tasa del 6% sin deducci
 
 Artículo 212 L.- Este impuesto se causa en el momento en que los ingresos por premios sean pagados o entregados.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-Artículo 212 M.- Los sujetos obligados al pago del impuesto realizarán el pago a más tardar el día 15 del mes siguiente a aquel que corresponda el pago, presentándose la declaración aprobada en la oficina recaudadora que corresponda al domicilio en donde se hayan sido pagados o entregados los premios en el territorio del Estado. Dicho pago se entenderá definitivo.
+###### Artículo 212.-M.
+
+Los sujetos obligados al pago del impuesto realizarán el pago a más tardar el día 20 del mes siguiente a aquél que corresponda el pago, presentándose la declaración aprobada en la oficina recaudadora que corresponda al domicilio en donde se hayan sido pagados o entregados los premios en el territorio del Estado. Dicho pago se entenderá definitivo.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1955,7 +1959,9 @@ I.- Solicitar su inscripción en el registro estatal de contribuyentes, utilizan
 
 II.- Presentar ante las autoridades fiscales, las declaraciones y pagos correspondientes, los avisos e informes dentro de los plazos y en los lugares señalados para tales efectos.
 
-III.- Retener y entregar, en su caso, el impuesto que se cause conforme a las disposiciones contenidas en esta Sección, y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+III.- Retener el impuesto que se cause conforme a las disposiciones contenidas en esta Sección y expedir al contribuyente constancia de la retención de impuestos, autorizado por la Secretaría de Finanzas, así como enterar el impuesto en la oficina recaudadora de su jurisdicción, y
 
 IV.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda por retenciones.
 
@@ -2025,15 +2031,19 @@ V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados hasta
 
 Los contribuyentes a que se refiere el párrafo anterior, deberán inscribirse en el Registro Estatal de Contribuyentes y presentar anualmente, durante el mes de enero, la declaración correspondiente sin impuesto a cargo.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+VI.- Contraprestaciones pagadas a personas con discapacidad.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 219.
 
-Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros quince días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quien perciba los pagos cuando quien los efectúa resida fuera del Estado.
+Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
-Tratándose de contribuyentes que tengan hasta 20 trabajadores, podrán efectuar el pago mediante declaración trimestral dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
+Tratándose de contribuyentes que tengan hasta veinte trabajadores, deberán efectuar el pago mediante declaración trimestral dentro de los primeros veinte días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
 
-Los contribuyentes dedicados a actividades agrícolas o de pesca previa autorización de la Secretaría de Finanzas, podrán efectuar el pago del impuesto dentro del mes inmediato posterior al término de sus respectivos ciclos productivos, siempre que los productos no hayan sido objeto de transformación industrial.
+Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, previa autorización de la Secretaría de Finanzas, podrán efectuar el pago del impuesto dentro de los veinte días inmediatos posteriores al término de sus respectivos ciclos productivos, siempre que los productos no hayan sido objeto de transformación industrial.
 
 ###### Artículo 220.
 
@@ -2049,9 +2059,17 @@ II.- Presentar las declaraciones correspondientes para el pago del impuesto;
 
 III.- Tratándose de personas físicas o morales cuya casa matriz y sucursales se encuentren en el territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio de la matriz. En dicha declaración deberán incluirse las erogaciones en forma desglosada tanto de la matriz como de las sucursales o dependencias;
 
-> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas; y
+Se considerará como matriz o principal asiento del negocio, a la sucursal ubicada dentro del territorio del Estado cuya matriz (sic) se localiza fuera de él, debiendo dicha sucursal cumplir con todas las obligaciones previstas por esta Ley y demás disposiciones fiscales.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+Tratándose del establecimiento de varias sucursales de una misma empresa, en el territorio del Estado, la primera en establecerse se inscribirá en el Registro Estatal de Contribuyentes, debiendo las restantes presentar únicamente el aviso de apertura de establecimientos ante la oficina recaudadora correspondiente;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, dejando en blanco el apartado correspondiente. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas; y
 
 > <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2063,9 +2081,9 @@ Son obligaciones a cargo de los sujetos que perciban los pagos gravados por este
 
 I.- Empadronarse en la oficina recaudadora de su jurisdicción, cuando la percepción de su remuneración provenga del exterior del Estado;
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-II.- Presentar las declaraciones correspondientes para el pago del impuesto dentro de los 15 días siguientes al mes de aquel en que se haya obtenido la remuneración; y
+II.- Retener el impuesto que se cause conforme a las disposiciones contenidas en esta Sección y expedir al contribuyente constancia de la retención mediante el formato de retención de impuestos, autorizado por la Secretaría de Finanzas, así como enterar el impuesto mediante declaración dentro de los veinte días siguientes al mes de aquel en que se haya obtenido la remuneración en la oficina recaudadora de su jurisdicción; y
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
@@ -2179,7 +2197,7 @@ inferior
 
 ###### Artículo 236.
 
-El objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una actividad profesional, cuando su prestación requiera título conforme a las Leyes; así como los percibidos por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas; y los obtenidos por corredores y agentes de bolsa y seguros.
+Es objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una actividad profesional, cuando su prestación requiera título conforme a las Leyes; así como los percibidos por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas; y los obtenidos por corredores y agentes de bolsa y seguros.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -3909,6 +3927,10 @@ Por los servicios registrales que presta el Instituto Catastral y Registral del 
 
 1.- Por las inscripciones relativas a los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre el precio pactado en la operación, el consignado en el avalúo efectuado por una Institución de Crédito, corredor público autorizado o perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora, mismo que deberá tener una vigencia no mayor de doce meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar este último y el avalúo correspondiente al documento respectivo.
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+En el Reglamento que al efecto se expida por el Poder Ejecutivo, se establecerán las normas que regulen el Registro de Peritos Valuadores en el Estado de Sonora, y en todo caso los requisitos para la obtención del registro, así como las obligaciones, infracciones y sanciones, que sean aplicables a los peritos valuadores.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 a) La inscripción de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos.
@@ -4983,7 +5005,7 @@ Se deroga en lo que se oponga a la presente Ley, la Ley de Hacienda del Estado d
 
 ###### ARTICULO TERCERO.
 
-Queda autorizado el Poder Ejecutivo para que por conducto de la Tesorería General del Estado proceda a cancelar los créditos o liquidaciones pendientes de pago del Impuesto Predial, correspondientes a predios edificaciones con valor catastral hasta $30,000.00.
+Queda autorizado el Poder Ejecutivo para que por conducto de la Tesorería General del Estado proceda a cancelar los créditos o liquidaciones pendientes de pago del Impuesto Predial, correspondientes a predios edificados con valor catastral hasta de $30,000.00.
 
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 1977)</small>
 
@@ -4991,11 +5013,11 @@ Asimismo, se faculta al Ejecutivo para que, a través de la Tesorería General d
 
 ###### ARTICULO CUARTO.
 
-Los contribuyentes o responsables solidarios que deban registrarse con motivos de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
+Los contribuyentes o responsables solidarios que deban registrarse con motivo de las nuevas obligaciones fiscales que les impone esta Ley en sus diversos capítulos, lo harán durante el mes de Enero de 1977.
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
-Las solicitudes de registro se presentarán por cuadruplicado ante la Oficina Receptora de la jurisdicción del interesado, quien conservará una copia; remitirá el original y la copia a la Tesorería General del Estado y, la copia restante, la entregará al interesado
+Las solicitudes de registro se presentarán por cuadruplicado ante la Oficina Receptora de la jurisdicción del interesado, quien conservará una copia; remitirá el original y una copia a la Tesorería General del Estado y, la copia restante, la entregará al interesado
 
 ###### ARTICULO QUINTO.
 
@@ -5264,3 +5286,13 @@ B.O. 31 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero del 2000, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias o administrativas que en lo conducente se opongan al contenido, efectos, alcances y aplicación del presente Decreto.
