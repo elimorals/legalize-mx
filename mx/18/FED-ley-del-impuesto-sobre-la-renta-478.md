@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1998-02-16"
+last_updated: "1998-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -2434,7 +2434,7 @@ III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 Lo previsto en el segundo párrafo de la fracción XVIII del artículo 25 de esta Ley no será aplicable tratándose de pérdidas por la venta de acciones de empresas controladas en los términos del artículo 57-C de esta Ley, siempre que dichas acciones no hayan sido de las consideradas como colocadas entre el gran público inversionista para efectos fiscales conforme a las reglas generales expedidas por la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57-I.
 
@@ -2502,7 +2502,7 @@ En los casos en que la sociedad controladora ejerza la opción de consolidar, de
 
 En el caso de acciones que se enajenen en bolsa de valores, que sean de las que se colocan entre el público inversionista conforme a las reglas generales que a efecto expida la Secretaría de Hacienda y Crédito Público, el método de valuación podrá ajustarse por períodos inferiores a un ejercicio, siempre que se calcule en los términos del Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 57-M.
 
@@ -2532,7 +2532,7 @@ También se sumarán, en su caso, las partidas contenidas en las declaraciones d
 
 IV.- De la suma de partidas a que se refiere la fracción II de este artículo se disminuirá la suma de partidas a que se refiere la fracción anterior. Si la diferencia proviene de que las partidas de la fracción II hayan sido superiores, se sumaran para determinar la utilidad fiscal consolidada y en caso contrario se restará esa diferencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 57
 
@@ -5348,13 +5348,43 @@ Los contribuyentes que se dediquen a actividades agrícolas, ganaderas, pesquera
 
 Los copropietarios que realicen actividades empresariales podrán tributar conforme a esta Sección, siempre que no lleven a cabo otras actividades empresariales y siempre que los ingresos que les correspondan en forma individual por las actividades empresariales que realizan en copropiedad y los intereses obtenidos por las mismas, en el año de calendario anterior, no hubieran excedido de los límites a que se refiere este artículo.
 
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+No podrán pagar el impuesto en los términos de esta Sección quienes en el año de calendario anterior obtuvieron más de 25% de los ingresos a que se refiere este Capítulo por concepto de comisión, mediación, agencia, representación, correduría, consignación, distribución o espectáculos públicos.
+
 Cuando el autor de una sucesión haya sido contribuyente de esta Sección y en tanto no se liquide la misma, el representante legal de ésta continuará cumpliendo con lo dispuesto en esta Sección.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 119-N.
 
-Las personas físicas que paguen el impuesto en los términos de esta Sección, calcularán el impuesto que les corresponda en los términos de la misma, aplicando el 2.5% al total de los ingresos que se cobren en efectivo, bienes o servicios, por su actividad empresarial, disminuidos con un monto equivalente a tres veces el salario mínimo general del área geográfica del contribuyente elevado al año. Los ingresos por operaciones en crédito se considerarán para el pago del impuesto hasta que se cobren en efectivo, bienes o servicios.
+Las personas físicas que paguen el impuesto en los términos de esta Sección, calcularán el impuesto aplicando la tasa que corresponda al total de los ingresos que cobren en el ejercicio, en efectivo, bienes o servicios, por su actividad empresarial, conforme a la siguiente tabla. La tasa que corresponda se aplicará a la diferencia que resulte de disminuir al total de los ingresos que se cobren en el ejercicio, un monto equivalente a tres veces el salario mínimo general del área geográfica del contribuyente elevado al año.
+
+> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 1998)</small>
+
+TABLA
+
+Límite de Ingresos Inferior Límite de Ingresos Superior Tasa
+
+$ $ %
+
+0.01 132,276.00 0.00
+
+132,276.01 250,000.00 0.25
+
+250,000.01 350,000.00 0.50
+
+350,000.01 500,000.00 1.00
+
+500,000.01 750,000.00 1.50
+
+750,000.01 1'000,000.00 2.00
+
+1'000,000.01 En adelante 2.50
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
+
+Los ingresos por operaciones en crédito se considerarán para el pago del impuesto hasta que se cobren en efectivo, bienes o servicios.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5386,7 +5416,15 @@ V. Entregar a sus clientes copias de las notas de venta cuando se trate de opera
 
 En los casos en que los contribuyentes utilicen máquinas registradoras, podrán expedir como comprobantes simplificados, la copia de la parte de los registros de auditoría de dichas máquinas en la que aparezca el importe de la operación de que se trate.
 
-VI.- Presentar en los meses de julio del ejercicio al que corresponda el pago y enero del ejercicio siguiente, declaraciones semestrales en las que se determinará y pagará el impuesto conforme a lo dispuesto por el artículo 119-N de esta Ley, mismo que tendrá el carácter de definitivo. Tratándose de contribuyentes que expidan uno o más de los comprobantes a que se refiere el último párrafo de la fracción IV de este artículo, a partir de que se expidió el comprobante efectuarán pagos trimestrales a más tardar el día 17 de los meses de abril, julio, octubre y enero del siguiente año, mismos que tendrán el carácter de definitivos.
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 1998)</small>
+
+VI.- Presentar en los meses de julio del ejercicio al que corresponda el pago y enero del ejercicio siguiente, declaraciones semestrales en las que se determinará y pagará el impuesto conforme a lo dispuesto por el artículo 119-N de esta Ley. Tratándose de contribuyentes que expidan uno o más de los comprobantes a que se refiere el último párrafo de la fracción IV de este artículo, a partir de que se expidió el comprobante efectuarán pagos trimestrales a más tardar el día 17 de los meses de abril, julio, octubre y enero del siguiente año. Los pagos semestrales y trimestrales a que se refiere esta fracción, tendrán el carácter de definitivos, salvo en los casos en que los contribuyentes ejerzan la opción a que se refiere el último párrafo de esta fracción.
+
+Para efectos de los pagos semestrales y trimestrales, la disminución señalada en el primer párrafo del artículo 119-N de esta Ley, será de un monto equivalente a tres veces el salario mínimo general del área geográfica del contribuyente elevado al número de meses que comprenda el pago.
+
+La Secretaría de Hacienda y Crédito Público publicará las tablas que correspondan a los pagos trimestrales y semestrales previstos en esta fracción.
+
+Los contribuyentes de esta Sección que hayan efectuado pagos en forma semestral o trimestral, podrán calcular el impuesto en forma anual, pudiendo acreditarse contra el impuesto a pagar en el ejercicio, en los términos del primer párrafo del artículo 119-N de esta Ley, los pagos semestrales o trimestrales, según sea el caso, del mismo ejercicio efectuados con anterioridad. El impuesto del ejercicio se pagará mediante declaración que presentarán ante las oficinas autorizadas durante el periodo comprendido entre los meses de febrero y abril siguientes a la fecha en que termine el ejercicio fiscal de que se trate. Una vez ejercida la opción, no podrán variarla por un periodo no menor de cinco ejercicios contados a partir de aquél en el que se empezó a ejercer la opción citada.
 
 VII.- Tratándose de las erogaciones por concepto de salarios, los contribuyentes deberán efectuar la retención y el entero por concepto del impuesto sobre la renta de sus trabajadores, conforme a las disposiciones previstas en esta Ley y su Reglamento. Esta obligación podrá no ser aplicada hasta por tres trabajadores cuyo salario no exceda del salario mínimo general del área geográfica del contribuyente elevado al año.
 
@@ -6270,10 +6308,6 @@ V.- Las cantidades que aporten voluntariamente en dicho año por conducto de su 
 
 Tratándose de trabajadores cuyo patrón efectúe aportaciones a un fondo de ahorro, de los señalados en la fracción XII del artículo 24 de esta Ley, la deducción a que se refiere el párrafo anterior sólo podrá llevarse a cabo cuando la misma, sumada a las aportaciones voluntarias que aporte el patrón conforme a los artículos 22, fracción XII o 108, fracción X, según corresponda, de la misma Ley y las que realice el propio patrón a los citados fondos de ahorro, no excedan del límite establecido para la deducción de las aportaciones a dichos fondos.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
-
-Tratándose de trabajadores cuyo patrón efectúe aportaciones a un fondo de ahorro, de los señalados en la fracción XII del artículo 24 de esta Ley, la deducción a que se refiere el párrafo anterior sólo podrá llevarse a cabo cuando la misma, sumada a la que realice el propio patrón a los citados fondos de ahorro, no exceda del límite establecido para la deducción de las aportaciones a dichos fondos.
-
 > <small>(REFORMADO POR LA FRACCION II DEL ARTICULO DECIMO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 Para determinar el área geográfica del contribuyente se atenderá al lugar donde se encuentre su casa habitación al 31 de diciembre del año de que se trate. Los funcionarios o empleados del gobierno federal que presten servicios fuera del territorio nacional, atenderán a el área geográfica correspondiente al Distrito Federal.
@@ -6924,8 +6958,6 @@ Cuando los intereses a que se refiere esta fracción sean pagados por institucio
 
 Los intereses a que se refiere esta fracción, podrán estar sujetos a una tasa de 10%, siempre que los beneficiarios efectivos sean residentes de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 III.- 35%, a los intereses distintos de los señalados en las fracciones anteriores.
@@ -7164,7 +7196,7 @@ Lo dispuesto en las fracciones II, III y V también es aplicable para las person
 
 Los contribuyentes a que se refiere el Título IV, de esta Ley, que efectúen depósitos en las cuentas personales especiales para el ahorro, realicen pagos de primas de contratos de seguro que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro que al efecto autorice la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, o bien adquieran acciones de las sociedades de inversión que sean identificables en los términos que también señale la propia Secretaría mediante disposiciones de carácter general, podrán restar el importe de dichos depósitos, pagos o adquisiciones, de la cantidad a la que se le aplicaría la tarifa del articulo 141 de esta Ley de no haber efectuado las operaciones mencionadas, correspondiente al ejercicio en que éstos se efectuaron o al ejercicio inmediato anterior, cuando se efectúan antes de que se presente la declaración respectiva, de conformidad con las reglas que a continuación se señalan:
 
-> <small>(REFORMADO PRIMER PARRFO, D.O.F. 16 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE FEBRERO DE 1998)</small>
 
 I. El importe de los depósitos, pagos o adquisiciones a que se refiere este artículo no podrán exceder en el año de calendario de que se trate, del equivalente a $104,173.00, considerando todos los conceptos.
 
@@ -12221,3 +12253,17 @@ c) A partir del año 2000, se considerarán los gastos e inversiones realizados 
 D.O.F. 16 DE FEBRERO DE 1998.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 29 DE MAYO DE 1998.
+
+Disposiciones Transitorias de la Ley del Impuesto sobre la Renta
+
+Artículo Segundo.- En relación con las modificaciones a que se refiere el Artículo Primero que antecede, se estará a lo siguiente:
+
+I.- Los contribuyentes podrán aplicar las disposiciones de la presente Ley a partir del 1o. de enero de 1998.
+
+II.- Las cantidades establecidas en la tabla del artículo 119-N de la Ley del Impuesto sobre la Renta, deberán actualizarse en el mes de julio de 1998, por el periodo comprendido desde el mes inmediato anterior a aquél en que entre en vigor la presente Ley, hasta el último mes inmediato anterior a aquél por el que se efectúa la actualización, en los términos del artículo 17-A del Código Fiscal de la Federación.
+
+## Transitorio
+
+UNICO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
