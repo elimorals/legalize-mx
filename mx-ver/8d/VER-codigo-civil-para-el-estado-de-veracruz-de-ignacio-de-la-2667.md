@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1969-12-18"
+last_updated: "1971-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 1971.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -14661,17 +14661,17 @@ ARTICULO 2943
 
 La inscripción de los documentos puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el Notario que haya autorizado la escritura correspondiente, y deberá hacerse únicamente cuando los bienes a que se refieran los títulos, derechos o actos de que se trate, estén ubicados en jurisdicción de la Oficina donde se pretenda hacer el registro.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 1971)</small>
+
 ARTICULO 2944
 
 Sólo se registrarán:
 
-I.- Los testimonios de escritura pública u otros documentos auténticos;
+I.- Los documentos públicos;
 
-II.- Las sentencias y providencias judiciales certificadas legalmente;
+II.- Los documentos privados, que con esta formalidad sean válidos con arreglo a la ley, que contengan certificación de reconocimiento en el texto y firmas, expedida por el Registrador, un Notario, o un Juez Municipal, la cual deberá estar firmada por los signantes del documento, la autoridad que intervenga y tener impreso el sello de autorizar respectivo.
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 1939)</small>
-
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el Registrador, la Autoridad Municipal, un Notario o el Juez Municipal, se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+Los funcionarios a que se refiere el párrafo anterior, estarán provistos de un libro denominado "Registro de Certificaciones", autorizado por el Secretario de Gobierno, en el cual harán relación de cada certificación que expidan, asentando el número progresivo que le corresponda, la fecha de expedición, acto jurídico que se certifica, datos generales de los signantes del documento y certificación de que aquéllos son de su personal conocimiento, o de los medios de prueba que sobre su identificación hayan presentado. La constancia que con este motivo se levante, deberá estar firmada por los signantes del documento que se haya certificado, por el funcionario que interviene, y tendrá impresión de su sello de autorizar.
 
 ARTICULO 2945
 
@@ -15078,3 +15078,7 @@ UNICO.- Esta Ley entrará en vigor tres días después de su publicación en la 
 G.O. 18 DE DICIEMBRE DE 1969.
 
 UNICO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 29 DE MAYO DE 1971.
+
+La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
