@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1994-12-29"
+last_updated: "1998-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1998.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -433,9 +433,11 @@ En las actuaciones judiciales no se emplearán abreviaturas, ni se rasparán las
 
 Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el funcionario público a quien corresponda dar fe o certificar el acto.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 59.
 
-Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que, a juicio del tribunal, convenga que sean secretas.
+Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio, adopción y las demás en que, a juicio del Tribunal, convenga que sean secretas. El acuerdo será reservado.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
@@ -1179,7 +1181,9 @@ c).- De las acciones de nulidad, recisión (sic) y evicción de la partición he
 
 VII.- En los concursos de acreedores al Juez del domicilio del deudor;
 
-VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar en que estén ubicados:
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1998)</small>
+
+VIII.- Salvo lo previsto en la fracción XIV, en los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar donde estén ubicados;
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
@@ -1192,6 +1196,14 @@ III (SIC).- En los juicios de divorcio, el tribunal del domicilio conyugal y en 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1982)</small>
 
 XIII.- En los juicios de alimentos el del domicilio del acreedor alimentario.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1998)</small>
+
+XIV.- Para la constitución de la adopción, el Juez del domicilio de la persona que se pretenda adoptar, sin que sea prorrogable. Para la anulación e impugnación de la adopción, el del lugar en que el adoptado tenía su domicilio al momento de llevarse a cabo la adopción; para la conversión de la adopción lo serán, a elección del promovente, el del domicilio del adoptado al momento de llevarse a cabo la adopción o, el del domicilio del adoptante o adoptantes al solicitarse la conversión.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1998)</small>
+
+XV.- Para decidir las cuestiones relativas a las relaciones entre adoptado y adoptante o adoptantes y la familia de éste o éstos, el Juez del domicilio del adoptante o adoptantes, mientras el adoptado no constituya domicilio propio. A partir de que el adoptado tenga domicilio propio, serán competentes, a elección del actor, el Juez del domicilio del adoptado y el del domicilio del adoptante o adoptantes.
 
 ###### ARTICULO 157.
 
@@ -1208,6 +1220,12 @@ En las contiendas sobre propiedad o posesión de un inmueble, la competencia se 
 ###### ARTICULO 159.
 
 De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces de lo familiar.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1998)</small>
+
+ARTICULO 159 BIS.- En el caso de las sustracciones o retenciones ilícitas internacionales de menores, se estará, cuando sea aplicable, a lo dispuesto por los Tratados Internacionales que se hayan celebrado entre México y otros países.
+
+Será competente para ordenar la restitución inmediata de un menor de edad cuya residencia habitual se encontrare establecida en el extranjero, y que haya sido objeto de un traslado o retención ilícita en México, en los términos previstos para tal efecto por los Tratados Internacionales celebrados por México, el Juez de lo Familiar del lugar en que éste se encuentre, sin que para ello resuelva sobre la cuestión de fondo del derecho de custodia.
 
 ###### ARTICULO 160.
 
@@ -1593,11 +1611,11 @@ Sólo los jueces de lo familiar pueden decretar la separación de que habla el a
 
 La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se fundan, el domicilio para su habitación, la existencia de hijos menores, y las demás circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 208.
 
-El juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+El Juez podrá practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En el caso de violencia intrafamiliar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1982)</small>
 
@@ -6103,19 +6121,23 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 Adopción.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 912.
 
-El que pretende adoptar a alguna persona, deberá acreditar:
+El que pretenda adoptar, deberá acreditar los requisitos señalados por el Artículo 385 del Código Civil, debiéndose observar, además, lo siguiente:
 
-I.- Que es mayor de treinta años y que tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar.
+I.- En la promoción inicial deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si hubiere, domicilio del menor o personas con capacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido. Los estudios socioeconómicos, psicológicos, médicos y los que el Juez estime pertinente para efectuar el trámite de adopción, deberán realizarse por el Sistema Estatal para el Desarrollo Integral de la Familia, instituciones de salud pública, o peritos designados por el Juez;
 
-II.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptarse.
+II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada; el adoptante o la institución según sea el caso, recabarán constancias del tiempo del abandono para los efectos del Artículo 439, fracción IV del Código Civil;
 
-III.- Que la adopción es benéfica para la persona que trata de adoptarse.
+III. Si hubieren transcurrido menos de seis meses del abandono, se decretará el depósito de quien se pretenda adoptar con el presunto adoptante, entretanto se consuma dicho plazo;
 
-IV.- Que es el adoptante persona de buenas costumbres.
+IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, siempre y cuando ello fuere aconsejable a criterio del Juez;
 
-En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o institución de beneficencia que la hayan acogido.
+V.- En los supuestos en que el menor haya sido entregado a las instituciones a que se refiere la fracción anterior, por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses; y
+
+VI.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país, autorización de la Secretaría de Gobernación para integrarse y permanecer en el país con la finalidad de realizar una adopción, para la cual deberán cumplir con lo que dispone el Código Civil en materia de Adopción Internacional. La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial, y además, deberá estar apostillada o legalizada por el cónsul mexicano.
 
 ###### ARTICULO 913.
 
@@ -6128,6 +6150,12 @@ Cuando el adoptante y adoptado pidan que la adopción sea revocada, el juez los 
 Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes los prestaron para la adopción y sin oír al representante del Ministerio Público.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 914-A.
+
+Cuando el adoptante o adoptantes soliciten la conversión de adopción simple a plena y se reúnan los requisitos previstos en el Artículo 399 del Código Civil, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente, en el término ocho días.
 
 ###### ARTICULO 915.
 
@@ -6523,15 +6551,21 @@ De las Controversias de Orden Familiar.
 
 Todos los problemas inherentes a la familia son de orden público, por constituír aquélla la base de la integración de la sociedad; en consecuencia, en todos los asuntos de que trata este Título tendrá intervención el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 973.
 
-El Juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
 En todos los asuntos de orden familiar los jueces están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
 El juez dispondrá de las más amplias facultades para la determinación de la verdad material. A este fin, regirán los siguientes principios:
 
@@ -6547,11 +6581,13 @@ IV.- (DEROGADA, P.O. 17 DE JULIO DE 1994)
 
 V.- (DEROGADA, P.O. 17 DE JULIO DE 1994)
 
-(REFORMADO, P.O. 3 DE MARZO DE 1988) (F. DE E., P.O. 2 DE JUNIO DE 1988)
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 974.
 
-No se requieren formalidades especiales para acudir ante el juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, divorcio contencioso, nulidad de matrimonio, calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general, todas las cuestiones familiares similares que reclamen la intervención judicial.
+No se requieren formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, divorcio contenciosos, nulidad de matrimonio, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores, de sustracción ilegal o retención indebida de menores, y en general, todas las cuestiones familiares similares que reclamen la intervención judicial.
+
+Tratándose de violencia intrafamiliar prevista en los Artículos 318-1 y 318-2 del Código Civil para el Estado de Durango, el Juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hicieran, en la misma audiencia, el Juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
 
@@ -6567,11 +6603,11 @@ Será optativo para las partes acudir asesoradas, y en este supuesto, los asesor
 
 En la audiencia las partes aportarán las pruebas que así procedan y que haya ofrecido sin más limitación que no sean contrarias a la moral o esten prohibidas por la Ley, sin perjuicio de que el Juez de oficio decretare la práctica de las que estime conducentes.
 
-(REFORMADO, P.O. 3 DE MARZO DE 1988) (F. DE E., P.O. 2 DE JUNIO DE 1988)
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 977.
 
-La audiencia se practicará con o sin asistencia de las partes.- El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales de la veracidad de los hechos. Aquéllos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración de (sic) hará conforme a lo dispuesto por el Artículo 402 de este Código.- En el fallo se expresarán en todo caso los medios de prueba en que se haya fundado el Juez para dictarlo.
+La audiencia se practicará con o sin asistencia de las partes. Para resolver el problema que se plantee, el Juez se cerciorará de la veracidad de los hechos y los evaluará personalmente o con auxilio de especialistas o de instituciones especializadas en la materia. Estos presentarán el informe correspondiente en la audiencia y podrán ser interrogados tanto por el Juez como por las partes. La valoración se hará conforme a lo dispuesto por el Artículo 402 de este Código y en el fallo se expresarán los medios de prueba en que se haya fundado el Juez para dictarlo.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
 
@@ -6864,3 +6900,13 @@ Todos los procedimientos y recursos relacionados con la materia de que se trata,
 P.O. 29 DE DICIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones, así como las nuevas normas que se incluyen al Código de Procedimientos Civiles para el Estado de Durango, entrarán en vigor tres días después del de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
