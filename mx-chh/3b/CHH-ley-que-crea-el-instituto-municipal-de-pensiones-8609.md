@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-instituto-municipal-de-pensiones-8609"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-27"
-last_updated: "1995-12-30"
+last_updated: "2000-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO MUNICIPAL DE PENSIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de agosto de 1983.
 
@@ -621,9 +621,11 @@ Deberán contratar en favor del Instituto un seguro de vida y otro por los sinie
 
 Los funcionarios y empleados de confianza deberán tener una antigüedad en el servicio de cuando menos tres años para tener derecho a la obtención de préstamos hipotecarios.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 66.
 
-El límite máximo para los créditos hipotecarios y los intereses que causen se sujetarán a las normas que fije el Consejo Directivo del Instituto tomando en cuenta las directrices que establezca el Banco de México. Su otorgamiento quedará sujeto al presupuesto anual que fije el Consejo Directivo de acuerdo con las posibilidades económicas del Instituto.
+El límite máximo para los créditos hipotecarios y los intereses que causan se sujetarán a las normas que fije el Consejo Directivo del Instituto tomando en cuenta las directrices que con motivo de dichos créditos establezca la autoridad correspondiente. Su otorgamiento quedará sujeto al presupuesto anual que fije el Consejo Directivo de acuerdo con las posibilidades económicas del Instituto.
 
 Los créditos para reconstrucción, ampliación o mejoramiento de la vivienda se limitarán al cincuenta por ciento de la cantidad que se conceda para la adquisición o construcción de aquélla.
 
@@ -742,3 +744,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 30 DE DICIEMBRE DE 1995.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 11 DE NOVIEMBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
