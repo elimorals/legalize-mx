@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2001-02-28"
+last_updated: "2001-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8175,7 +8175,7 @@ ASENTAMIENTOS HUMANOS
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -8243,11 +8243,11 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 ###### ARTICULO 1489.
 
@@ -8301,13 +8301,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1502.
 
@@ -8319,7 +8315,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1504.
 
@@ -8365,7 +8361,11 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 #### SECCION SEXTA. DEL MEJORAMIENTO
 
@@ -8393,7 +8393,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
@@ -8413,9 +8413,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1525.
 
@@ -8435,7 +8435,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1529.
 
@@ -8453,9 +8453,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1533.
 
@@ -8465,9 +8465,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1535.
 
@@ -8497,7 +8497,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -9313,9 +9313,9 @@ DECIMA SEGUNDA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
-### CAPITULO I. DE LAS COMPETENCIAS
+### CAPITULO I. DE LA COMPETENCIA Y DEL ACTO ADMINISTRATIVO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1625.
 
@@ -9347,121 +9347,179 @@ DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-# LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+# LIBRO UNICO
 
-## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+## TITULO PRIMERO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1631.
 
-Los organismos, funcionarios y empleados del Poder Ejecutivo del Estado, en los asuntos de sus respectivas competencias, tienen jurisdicción en todo el Estado. Se exceptúan de esta regla general, las autoridades municipales que fungen como auxiliares del Poder Ejecutivo y aquellos funcionarios y empleados que por disposición expresa de la ley o la naturaleza específica de la comisión o función que les encomiende, deban restringir sus actividades a sólo una parte del territorio del Estado.
+Las disposiciones de este Título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1632.
 
-Todos los organismos, funcionarios o empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les estén conferidas por la ley, los reglamentos o los acuerdos dictados por el Jefe del Ejecutivo.
+Los organismos, funcionarios y empleados del Poder Ejecutivo del Estado, en los asuntos de sus respectivas competencias, tienen jurisdicción en todo el Estado. Se exceptúan de esta regla general, las autoridades municipales que fungen como auxiliares del Poder Ejecutivo y aquellos funcionarios y empleados que por disposición expresa de la ley o la naturaleza específica de la comisión o función que se les encomiende, deban restringir sus actividades a sólo una parte del territorio del Estado.
 
-En consecuencia, dichos organismos, funcionarios, empleados, auxiliares y comisionados deberán expresar en sus determinaciones las razones o motivos que hubieren tenido para dictarlos en el sentido que lo hagan, citando el o los preceptos legales en que se apoyan y dando a conocer a los interesados dichas razones y motivos a efecto de que estén en aptitud de hacer valer sus derechos.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1633.
 
-Salvo disposición expresa en contrario, los conflictos de competencia entre diversos órganos o dependencias del Ejecutivo serán resueltos por el Gobernador del Estado a través de la Secretaría General de Gobierno.
+Todos los organismos, funcionarios o empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les están conferidas por la ley, los reglamentos o los acuerdos dictados por el Gobernador del Estado, debiendo cumplir en todo momento con los requisitos y elementos que para el acto administrativo establece este título.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1634.
 
-El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de las dependencias o funcionarios en conflicto o el particular que tenga interés justificado en que se defina la competencia por ser condición indispensable para que se resuelva de modo firme alguna solicitud o promoción que haya realizado.
+Son elementos y requisitos del Acto Administrativo:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- Ser expedido por órgano competente, a través de un servidor público;
+
+II.- Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso, en cuanto a las circunstancias de tiempo y lugar, y previsto por la ley;
+
+III.- Cumplir con la finalidad de interés público regulado por las normas en que se concreta; sin que puedan perseguirse fines distintos;
+
+IV.- Constar por escrito y con la firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición;
+
+V.- Estar fundado y motivado;
+
+VI.- Ser expedido sujetándose a las disposiciones relativas al procedimiento administrativo previstas en esta Ley;
+
+VII.- Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
+
+VIII.- Ser expedido sin que medie dolo o violencia en su emisión;
+
+IX.- Mencionar el órgano del cual emana;
+
+X.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documentos o nombre completo de las personas;
+
+XI.- Ser expedido señalando lugar y fecha de emisión;
+
+XII.- Tratándose de actos administrativos que deban notificarse hacerse mención de la oficina en que se encuentran;
+
+XIII.- Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por ley.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1635.
 
-La cuestión de competencia se tramitará por la Secretaría General de Gobierno, dando un plazo de cinco días a las partes en conflicto para que expongan sus puntos de vista. Presentados éstos o transcurrido el término indicado, el Secretario General de Gobierno acordará con el Gobernador los términos de la resolución del conflicto dándola a conocer a las partes interesadas para su inmediato cumplimiento.
+El acto administrativo tiene a su favor la presunción de haberse emitido o realizado conforme a la ley, hasta en tanto su invalidez no haya sido declarada por autoridad administrativa o jurisdiccional, según sea el caso.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1636.
 
-Todos los asuntos de la competencia del Ejecutivo se tramitarán conforme a los procedimientos expresamente establecidos en este Código y sus reglamentos. En caso de que no haya previsión expresa para el trámite de un negocio determinado, se seguirán las reglas siguientes:
+Salvo disposición expresa en contrario, los conflictos de competencia entre diversos órganos o dependencias del Ejecutivo serán resueltos por el Gobernador del Estado a través de la Secretaría General de Gobierno.
 
-I.- Si el asunto es de orden simplemente interior y no lesiona los derechos de particulares ajenos a la administración ni plantea responsabilidades o perjuicios para los funcionarios o empleados que en él intervengan, el procedimiento se determinará por el Secretario General de Gobierno o por el Oficial Mayor, si el asunto es de la competencia de éste último;
+El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de las dependencias o funcionarios en conflicto o el particular que tenga interés justificado en que se defina la competencia por ser condición indispensable para que se resuelva de modo firme alguna solicitud o promoción que haya realizado.
 
-II.- Si existe la posibilidad de afectar derechos adquiridos o causar los perjuicios y responsabilidades antes aludidos, el procedimiento se determinará por los mismos funcionarios indicados, cuidando simplemente de respetar la garantía de audiencia, dando oportunidad a los posibles afectados para que presenten pruebas y aleguen lo que a sus intereses convenga.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1637.
 
-En los casos en que este Código no haya establecido recurso alguno para impugnar las resoluciones administrativas, éstas podrán combatirse, en su caso, con los recursos de revisión y revocación, cuyos límites y modalidades se especifican en los artículos siguientes.
+La (sic) cuestiones de competencia se tramitarán por la Secretaría General de Gobierno. Si la promueve la dependencia o funcionario en conflicto, se dará vista a la otra dependencia o funcionario, y en su caso al particular que tenga interés jurídico. Si es éste quien la promueve, se dará vista a las dependencias o funcionarios en conflicto.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+En cualquier caso se otorgarán cinco días para que manifiesten lo que consideren pertinente. De la contestación se dará al promovente vista por cinco días para que a su vez haga valer lo conducente.
+
+Una vez desahogados los traslados o transcurridos los plazos otorgados para ello, el Secretario General de Gobierno acordará con el Gobernador del Estado los términos de la resolución del conflicto dándola a conocer a las partes interesadas para su inmediato cumplimiento.
+
+Las dependencias o funcionarios del Ejecutivo no podrán impugnar las resoluciones que decidan sobre las cuestiones de competencia.
+
+(REUBICADO, P.O. 12 DE MAYO DE 2001)
+
+### CAPITULO III. DE LA CADUCIDAD, CANCELACION, RESCISION O NULIDAD
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PUBLICO
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ###### ARTICULO 1638.
 
-El Gobernador del Estado estará facultado para revocar sus propias resoluciones o las dictadas por anteriores titulares del Ejecutivo, cuando aparezca que dichas resoluciones fueron dictadas con notoria violación de las disposiciones legales que debieron regular el acto violado, y siempre que con las mismas resoluciones se haya afectado gravemente el orden y la seguridad públicos o los intereses generales del Estado.
+En los casos en que este Código no haya establecido recurso alguno para impugnar las resoluciones administrativas, éstas podrán combatirse, en su caso, a través de los recursos de revisión y revocación, cuyos límites y modalidades se especifican en los artículos siguientes.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1639.
 
-Las revocaciones se tramitarán en la forma que determine el Gobernador, cuidando simplemente de que se conceda oportunidad de defensa a los interesados en la revocación o que puedan resultar perjudicados con ella. La revocación se decretará sin previa garantía de audiencia únicamente cuando los perjudicados sean delincuentes sentenciados que se encuentren libres con grave violación de la ley.
+El Gobernador del Estado estará facultado para revocar sus propias resoluciones o las dictadas por anteriores titulares del Ejecutivo, cuando aparezca que dichas resoluciones fueron dictadas con notoria violación de las disposiciones legales que debieron regular su actuación, y siempre que con las mismas resoluciones se haya afectado gravemente el orden y la seguridad públicos o los intereses generales del Estado.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+La revocación deberá ser promovida por la parte interesada.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1640.
 
-Salvo disposición expresa en contrario, otorgando el carácter de definitivas o inmodificables a ciertas resoluciones, el Gobernador del Estado podrá revisar todos los actos administrativos de sus subordinados, confirmándolos, modificándolos o revocándolos.
+Salvo disposición expresa en contrario, que otorgue el carácter de definitivas o inmodificables a ciertas resoluciones, el Gobernador del Estado podrá revisar todos los actos administrativos de sus subordinados, confirmándolos, modificándolos o revocándolos.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1641.
 
 La revisión ante el Gobernador puede solicitarla cualquier interesado o particular que tenga el legítimo derecho para hacerlo. El Gobernador podrá también revisar de oficio dichos actos cuando estime que contrarían el principio de legalidad o las normas o criterios de acción gubernamental que orientan el desarrollo de su programa de gobierno.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+Tratándose de revisiones de oficio, el Secretario General de Gobierno, respetando la garantía de audiencia de los posibles perjudicados, recabará, también oficiosamente, todos los informes y pruebas que juzgue necesarios para el mejor conocimiento del negocio y su más justo planteamiento ante el Gobernador.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1642.
 
-Las revocaciones y revisiones antes mencionadas se tramitarán por conducto del Secretario General de Gobierno.
+Los procedimientos de revocación y revisión antes mencionados se tramitarán por conducto del Secretario General de Gobierno.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1643.
 
-El trámite de las revisiones se hará simplemente fijando un plazo prudente y previo para que los interesados o posibles perjudicados aleguen lo que a sus intereses convenga. Recibidas las pruebas y alegatos de los mismos o vencido el plazo que para tal objeto se les haya fijado, el Secretario General de Gobierno estudiará el asunto y lo someterá al acuerdo del Gobernador para su resolución definitiva.
+La interposición de los recursos antes aludidos no suspende la ejecución del acto; sin embargo, la suspensión se decretará cuando concurran los siguientes requisitos:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- Que lo solicite el agraviado.
+
+II.- Que no se siga perjuicio al interés social.
+
+III.- Que sean de difícil reparación los daños y perjuicios que se le causen al agraviado con la ejecución del acto.
+
+La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, hasta en tanto no se pronuncie resolución; podrá ser solicitada en cualquier tiempo ante la autoridad ejecutora, siempre que la resolución no haya sido cumplimentada. Se acompañará copia del escrito con el que se hubiere iniciado el recurso administrativo. Dicha autoridad ejecutora suspenderá provisionalmente la ejecución del acto impugnado, pero para que tal medida suspensional surta efectos, se concederá al recurrente un plazo de diez días, para el otorgamiento de la caución que garantice los daños y perjuicios que pudieran ocasionarse. Constituida ésta se suspenderá de plano el acto impugnado, hasta que se le comunique la resolución definitiva.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1644.
 
-Tratándose de revisiones de oficio, el Secretario General de Gobierno, respetando la garantía de audiencia de los posibles perjudicados, recabará, también oficiosamente, todos los informes y pruebas que juzgue necesarios para el mejor conocimiento del negocio y su más justo planteamiento ante el Gobernador.
+Para la tramitación de los recursos administrativos, en contra de actos de las autoridades del Estado, se estará al procedimiento siguiente:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario General de Gobierno, por escrito, expresando: El nombre del recurrente; domicilio para ser notificado, señalamiento del acto impugnado; los agravios que le causa y el ofrecimiento de las pruebas que pretenda rendir.
+
+Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad de rendir pruebas, sólo serán admisibles las que no se hubieren desahogado por causas no imputables a él y las supervinientes;
+
+II.- El escrito debe presentarse dentro de los quince días siguientes, al que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos que sean presentados ante autoridad distinta de la competente para sustanciarlos;
+
+III.- Interpuesto el recurso, la autoridad recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso. Al admitirlo, mandará entregar copia del escrito y anexos y requerirá a la autoridad que emitió el acto impugnado para que dentro de un plazo de diez días exprese lo que estime conveniente en relación con el escrito de impugnación, y ofrezca las pruebas conducentes.
+
+IV.- Una vez desahogado el traslado de oficio o a petición de parte, el Secretario General de Gobierno proveerá a la recepción de las pruebas ofrecidas, señalando para ellos un término de quince días común a las partes. Serán admisibles todos los medios de prueba admitidos por el derecho común, con excepción de la confesional de las autoridades;
+
+V.- Recibidas las pruebas y los informes o transcurrido el período probatorio, se abrirá un período de alegatos por tres días, primero al recurrente y luego a la contraparte;
+
+VI.- Formulados los alegatos o transcurrido el término que para el efecto se concedió, el Secretario General de Gobierno emitirá el proyecto de Resolución dentro de un plazo de 15 días, el cual será sometido a consideración del Gobernador del Estado para su aprobación;
+
+VII.- La resolución emitida será notificada personalmente en el domicilio que las partes hayan señalado para dicho efecto. En caso de que no se hubiere designado tal domicilio, la notificación se hará por lista en los estrados de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1645.
 
-La resolución del Gobernador deberá ir firmada también por el Secretario General de Gobierno y contendrá las razones legales que la funden o motiven. Deberá comunicarse a los interesados y al órgano o funcionario que realizó el acto objeto de la revisión para que proceda a su inmediato cumplimiento.
+La revocación se decretará de plano, únicamente en los casos en que los perjudicados sean sentenciados que se encuentren libres con grave violación de la ley.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2001)</small>
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO II. DEL DOMINIO PUBLICO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9469,23 +9527,23 @@ La resolución del Gobernador deberá ir firmada también por el Secretario Gene
 
 La caducidad, cancelación, rescisión o nulidad de permisos, autorizaciones, concesiones o contratos que otorgue o celebre el Poder Ejecutivo, podrá ser decretada administrativamente por el Gobernador del Estado. Para tal fin, en dichos permisos, autorizaciones, concesiones o contratos deberán incluirse una o varias cláusulas en que categóricamente se establezca y acepte la facultad del Gobernador para decretar la cancelación, la caducidad o la rescisión, cuando la empresa o el particular interesado falte al cumplimiento de las obligaciones básicas del contrato.
 
-Se procurará la mayor claridad en la exposición de las causas que den lugar a la caducidad o rescisión.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1647.
 
-Salvo previsión expresa en la ley o en el permiso, contrato, concesión o autorización, el procedimiento para decretar la caducidad, cancelación o rescisión será fijado discrecionalmente por el Gobernador del Estado dentro de las siguientes bases:
+Salvo previsión expresa en la ley o en el permiso, contrato, concesión o autorización, el procedimiento para decretar la caducidad, cancelación o rescisión se sujetará a las siguientes bases:
 
 I.- El trámite se hará por conducto de la Secretaría General de Gobierno;
 
-II.- Se iniciará notificando al interesado las causas que en concepto del Ejecutivo existen y dan base para decretar la rescisión, cancelación o caducidad y señalándole un plazo prudente, no menor de cinco ni mayor de quince días, para que comparezca y exponga lo que estime prudente en defensa de sus intereses;
+II.- Se notificará personalmente al interesado la pretensión, debidamente fundada y motivada del organismo de la Administración Estatal;
 
-III.- Recibidas las pruebas y alegatos del interesado o transcurrido el término sin que éste ejercite su derecho de defensa, la Secretaría General estudiará el asunto y formulará el proyecto de resolución que debe someterse al Gobernador del Estado, pudiendo oficiosamente recabar los datos e informes necesarios para el mayor conocimiento del negocio;
+III.- Los interesados afectados, por sí o por representante legalmente investido, podrán oponerse por escrito en un término de cinco días hábiles a la pretensión de la autoridad estatal, debiendo señalar domicilio para oír y recibir notificaciones, ofrecer pruebas, narrar los hechos y fundamentos de derecho en que se apoye;
 
-IV.- La resolución deberá contener las consideraciones legales que la funden o motiven y deberá ser firmada por el Gobernador y Secretario General;
+IV.- Atendida la naturaleza de las pruebas que deban practicarse, la Secretaría General de Gobierno abrirá un término de hasta quince días hábiles, en el cual se admitirán y desahogarán las pruebas que hayan sido ofrecidas oportunamente, con excepción de la confesional de las autoridades que está prohibida. La autoridad estatal queda facultada para obtener todos los informes pertinentes y en general los elementos que sirvan para apoyar la legalidad y oportunidad de su pretensión;
 
-V.- Dicha resolución deberá notificarse por escrito al interesado, enviándose una copia de la misma a las dependencias competentes para que procedan inmediatamente a darle el debido cumplimiento.
+V.- Desahogadas las pruebas o concluido el período probatorio, se concederá un término común de tres días hábiles para alegar; y
+
+VI.- Expresados los alegatos o concluido el término correspondiente, el Secretario General de Gobierno elaborará el proyecto correspondiente para que sea sometido a consideración del Gobernador de (sic) Estado para que la resolución sea emitida en un plazo no mayor de 15 días, la que notificará personalmente a los interesados.
 
 (REUBICADA, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9501,7 +9559,7 @@ DECIMA CUARTA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9553,7 +9611,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9747,7 +9805,7 @@ En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, 
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9840,6 +9898,10 @@ Los actos o contratos que tengan relación con los inmuebles de la Hacienda Púb
 ###### ARTICULO 1686.
 
 La Hacienda Pública estará facultada para retener administrativamente los bienes que posea; pero cuando trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá deducir ante los tribunales las acciones que correspondan, las que se tramitarán, salvo la reivindicatoria y la plenaria de posesión, sumariamente. Presentada la demanda, el juez, a solicitud del Ministerio Público y siempre que encuentre razón bastante que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causa superviniente.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO UNICO. DE LAS EXPROPIACIONES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -10588,3 +10650,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas al Código Administrativo del Estado entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos que se encuentren en etapa de tramitación por parte de alguna autoridad administrativa, continuarán sujetándose a las disposiciones legales que regían en la materia, al momento de interponer el recurso o tramitar el procedimiento correspondiente.
