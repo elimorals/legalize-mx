@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-contaduria-general-del-congreso-del-4564"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-02-27"
+last_updated: "1999-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DEL CONGRESO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1999.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -121,11 +121,13 @@ XV.- Rendir al Congreso del Estado por conducto de la Comisión de Vigilancia, u
 
 XVI.- Las demás que otros ordenamientos le asignen.
 
-> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Si de la revisión legal, numérica, financiera, física y contable relacionada con la cuenta pública, así como con las acciones en que intervengan empresas públicas, privadas o particulares que hayan coparticipado en el ingreso o en el gasto público, aparecen elementos suficientes que presuman la existencia de deficiencias o irregularidades, la Contaduría General hará entrega del pliego de observaciones en el que se detallen y precisen las mismas, a fin de que se le rindan las aclaraciones del caso en un término que no excederá de diez días hábiles contados a partir de aquel en que se reciba el pliego correspondiente por el titular de la entidad o por quien él designe. Si no se da contestación o bien las aclaraciones rendidas, a juicio de la Contaduría General no son suficientes para solventar las observaciones efectuadas, se rendirá informe al Congreso a través de la Comisión de Vigilancia, con copia a la Junta de Coordinación Parlamentaria.
+Si de la revisión legal, numérica, financiera, física y contable relacionada con la cuenta pública, así como con las acciones en que intervengan empresas públicas, privadas o particulares que hayan coparticipado en el ingreso o en el gasto público, aparecen elementos suficientes que presuman la existencia de deficiencias o irregularidades, la Contaduría General hará entrega del pliego de observaciones en el que se detallen y precisen las mismas, a fin de que se rindan las aclaraciones del caso en un término que no excederá de quince días hábiles contados a partir de aquél en que se reciba el pliego correspondiente por el titular de la entidad o por quien él designe. Si no se da contestación o bien las aclaraciones rendidas, a juicio de la Contaduría General, no son suficientes para solventar las observaciones efectuadas, se rendirá informe al Congreso a través de la Comisión de Vigilancia, con copia a la Junta de Coordinación Parlamentaria.
+
+> <small>(F. DE E., P.O. 9 DE AGOSTO DE 1995)</small>
 
 La resolución del Pleno que recaiga a lo anterior podrá ser: se inicie en su caso por el presidente el procedimiento administrativo que corresponda; se turne lo actuado al Ministerio Público para que acuerde lo que proceda, o de archivo por no existir responsabilidad.
 
@@ -324,3 +326,7 @@ LIC. EDUARDO ROMERO RAMOS.
 P.O. 27 DE FEBRERO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
