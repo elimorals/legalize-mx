@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-crea-el-consejo-estatal-de-archivos-historicos-25620"
 country: "mx"
 rank: "ley"
 publication_date: "1955-04-17"
-last_updated: "1978-09-21"
+last_updated: "1979-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ARCHIVOS HISTORICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1978.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 49 QUE CREA EL ARCHIVO HISTORICO DEL ESTADO "LIC. ANTONIO ROCHA", PUBLICADO EN EL P.O. DE 8 DE FEBRERO DE 1979, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el 17 de abril de 1955.
 
@@ -128,3 +130,9 @@ Lic. PEDRO PABLO GONZALEZ
 P.O. 21 DE SEPTIEMBRE DE 1978.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 1979.
+
+ART. PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+ART. SEGUNDO.- Quedan derogados el Decreto No. 22 del H. XLI Congreso Constitucional del Estado de San Luis Potosí, de fecha primero de abril de 1955, publicado en el Diario Oficial del día 17 del mismo mes y año que creó el Consejo Estatal de Archivos Históricos y sus reformas según Decreto No. 3 y Decreto No. 4 del H. XLIX Congreso Constitucional del Estado, fechados ambos el 16 de septiembre de 1978 y publicados en el Periódico Oficial del Estado el 21 de septiembre del mismo año.
