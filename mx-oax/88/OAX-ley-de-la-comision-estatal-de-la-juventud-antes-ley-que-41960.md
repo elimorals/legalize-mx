@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-comision-estatal-de-la-juventud-antes-ley-que-41960"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2004-12-04"
+last_updated: "2005-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE LA COMISION ESTATAL DE LA JUVENTUD- ANTES LEY QUE CREA LA COMISION ESTATAL DE LA JUVENTUD-
 
-LEY QUE CREA LA COMISION ESTATAL DE LA JUVENTUD
+LEY DE LA COMISIÓN ESTATAL DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2004
 
@@ -37,7 +37,9 @@ LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 D E C R E T A:
 
-LEY QUE CREA LA COMISION ESTATAL DE LA JUVENTUD
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2005)</small>
+
+LEY DE LA COMISION ESTATAL DE LA JUVENTUD
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -171,7 +173,7 @@ d).- Las cuotas, tasas y tarifas que correspondan por el uso de las instalacione
 
 e).- Los demás bienes, derechos y aprovechamientos que le fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones de instituciones deportivas o particulares;
 
-f).- Los bienes y derechos que constituyan el patrimonio de la COMISION, se equiparan a los del dominio público por lo que serán inalienables, imprescriptibles, inembargables y sólo podrán gravarse previa autorización de la Junta Directiva y bajo el más estricto cumplimiento de las disposiciones legales aplicables.
+f).- Los bienes y derechos que constituyan el patrimonio de la COMISION, se equiparán a los del dominio público por lo que serán inalienables, imprescriptibles, inembargables y solo podrán gravarse previa autorización de la Junta Directiva y bajo el más estricto cumplimiento de las disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DE LOS ÓRGANOS DE GOBIERNO
 
@@ -337,9 +339,11 @@ VIII.- Formular y presentar a la Junta Directiva, y demás autoridades que seña
 
 IX.- Las demás que emanen de este ordenamiento, le señale el Reglamento Interior o le encomiende la Junta Directiva o el Presidente.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 20.
 
-Las relaciones laborales entre "LA COMISION" y su personal, se regirán por lo que establece el apartado "A" del artículo 123 de la Constitución Federal.
+Las relaciones laborales entre la Comisión y sus empleados, se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado de Oaxaca y demás leyes aplicables.
 
 T R A N S I T O R I O S:
 
@@ -398,3 +402,9 @@ LIC. CELESTINO MANUEL ALONSO ALVAREZ.
 AL C.
 
 NOTA: Las presentes firmas corresponden al DECRETO NUM. 6, aprobado por la Quincuagésima Novena Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba la Ley que crea LA COMISION ESTATAL DE LA JUVENTUD.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ENERO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
