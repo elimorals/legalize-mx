@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "1989-06-19"
+last_updated: "1989-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE NOVIEMBRE DE 1989.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -143,29 +143,21 @@ IX.- Secretaría de la Contraloría General;
 
 X.- Procuraduría General de Justicia del Estado;
 
-> <small>(REFORMADA, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XI.-- Departamento de Desarrollo Agropecuario;
+XI.-- Secretaría de Desarrollo Rural;
 
-> <small>(REFORMADA, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XII.- Departamento de Desarrollo Pesquero;
+XII.- Secretaría de Desarrollo Industrial y Comercial; y
 
-> <small>(REFORMADA, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XIII.- Departamento de Desarrollo Industrial y Comercial;
+XIII.- Departamento de Desarrollo Turístico.
 
-> <small>(REFORMADA, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XIV.- Departamento de Desarrollo Turístico y
-
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 1989)</small>
-
-XV.- Centro Estatal de Informática.
-
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
-
-Con excepción de las dependencias señaladas en las fracciones de la XI a la XV, las demás tendrán igual rango entre ellas.
+Con excepción de la dependencia señalada en la fracción XIII, las demás tendrán igual rango entre ellas.
 
 ###### ARTICULO 12.
 
@@ -333,7 +325,9 @@ II.- Coordinar las actividades de Planeación Estatal, así como procurar la con
 
 III.- Conducir la coordinación de los planes y programas de desarrollo del Ejecutivo del Estado con los de la Administración Pública Federal y los de los Municipios del Estado;
 
-IV.- Nombrar a los auditores externos de la Administración Publica centralizada y Paraestatal;
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+IV.- Coordinar la integración del sistema de informática del Gobierno del Estado;
 
 V.- Inducir la participación de los sectores social y privado del Estado en la formulación y ejecución de los planes y programas del Gobierno del Estado;
 
@@ -375,9 +369,13 @@ XXIII.- Llevar el Registro de los organismos descentralizados;
 
 XXIV.- Proponer al Gobernador del Estado la publicación anual mediante decreto, de la relación de las entidades paraestatales, que formen parte de la administración pública estatal;
 
-XXV.- Autorizar la participación estatal en las empresas, sociedades y asociaciones civiles y mercantiles;
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XXVI.- Autorizar la constitución o modificación de fideicomisos en las que el fideicomitente sea el Gobierno del Estado o Entidades Paraestatales;
+XXV.- Proponer al Gobernador del Estado la participación estatal en las empresas, sociedades y asociaciones civiles y mercantiles;
+
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XXVI.- Proponer la constitución o modificación de fideicomisos en los que el fideicomitente sea el Gobierno del Estado o entidades paraestatales;
 
 XXVII.- En materia de fideicomisos, ser la fideicomitente única del Gobierno del Estado;
 
@@ -393,15 +391,39 @@ XXXII.- Proveer oportunamente a las dependencias del Ejecutivo del Estado de los
 
 XXXIII.- Administrar, controlar y vigilar almacenes generales del Estado;
 
-XXXIV.- Coordinar con el Instituto de Servicios Sociales para los Trabajadores del Estado de Yucatán, todo lo relativo al otorgamiento de servicios y prestaciones a que tienen derecho los servidores públicos del Gobierno del Estado;
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XXXV.- Administrar los recursos financieros que la Federación transfiera al Gobierno del Estado, mediante el Convenio Unico de Desarrollo;
+XXXIV.- Apoyar en el procesamiento de la información que las dependencias y entidades de la administración pública proporcionan al titular del Poder Ejecutivo del Estado, a fin de evaluar los programas operativos;
+
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XXXV.- Apoyar a las dependencias y entidades de la administración pública del Estado, en los servicios que en materia de informática demanden;
 
 XXXVI.- Aprobar la concertación de créditos para el financiamiento de la administración pública y sus programas;
 
-XXXVII.- Autorizar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado, y
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XXXVIII.- Las demás actividades que las leyes y reglamentos le señalen.
+XXXVII.- Conocer de los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado;
+
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XXXVIII.- Establecer políticas encaminadas a lograr la compatibilidad en el uso de recursos de la informática del Gobierno del Estado, a fin de racionalizar su uso;
+
+> <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XXXIX.- Determinar, en su caso, la conveniencia de establecer, modificar o extinguir, centros de procesamiento electrónico de información de las dependencias y entidades del Gobierno del Estado;
+
+> <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XL.- Promover y coordinar la ejecución de cursos y programas de adiestramiento, capacitación y actualización en informática, dentro de las dependencias de la administración pública estatal;
+
+> <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XLI.- Administrar los recursos que la Federación transfiera a través del Convenio Unico de Desarrollo; y
+
+> <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XLII.- Las demás actividades que las leyes y reglamentos le señalen.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
 
@@ -431,7 +453,13 @@ X.- Intervenir en las ventas y remates de los bienes muebles inservibles, propie
 
 XI.- Programar, planear, coordinar y supervisar las giras que realice el Gobernador del Estado, en coordinación con la Secretaría de Gobierno;
 
-XII.- Las demás que le atribuyan otras leyes y reglamentos.
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XII.- Coordinar con el Instituto de Servicios Sociales para los Trabajadores del Estado de Yucatán, todo lo relativo al otorgamiento de servicios y prestaciones a que tienen derecho los servidores públicos del Gobierno del Estado;
+
+> <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XIII.- Las demás que le atribuyan otras leyes y reglamentos.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
 
@@ -473,7 +501,9 @@ III.- En materia de Egresos:
 
 A) Coadyuvar con la Secretaría de Planeación y Presupuesto en la elaboración de los anteproyectos de presupuesto anual de egresos del Poder Ejecutivo del Estado y de la Ley correspondiente, con la participación de las dependencias de la Administración Pública Estatal;
 
-B) Efectuar los pagos conforme la autorización y previa aprobación de la Secretaría de Planeación y Presupuesto y formular trimestralmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado;
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+B) Efectuar los pagos previstos en el Presupuesto de Egresos y formular trimestralmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado;
 
 C) Elaborar y pagar las nóminas de cada una de las Dependencias del Poder Ejecutivo del Gobierno del Estado;
 
@@ -717,19 +747,27 @@ XIII.- Conocer e investigar los actos, omisiones o conductas de los servidores p
 
 XIV.- Organizar y conducir el servicio de recepción y atención de quejas y denuncias en contra de los servidores públicos del Estado; y
 
-XV.- Las demás que le asignen las disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XV.- Nombrar a los auditores externos de la administración pública centralizada y paraestatal; y
+
+> <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
+XVI.- Las demás que le asignen las disposiciones legales aplicables.
 
 ###### ARTICULO 40.
 
 La Procuraduría General de Justicia tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y las demás disposiciones legales relativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 41.
 
-Al Departamento de Desarrollo Agropecuario le corresponde el despacho de los siguientes asuntos:
+A la Secretaría De Desarrollo Rural le corresponde el despacho de los siguientes asuntos:
 
 I.- Coordinar las relaciones entre el Ejecutivo del Estado y las Instituciones que manejen el cultivo de henequén, el crédito de la actividad henequenera y la industrialización del agave;
 
-II.- Colaborar con las entidades que tengan a su cargo diversos aspectos de la producción y elaboración de henequén para mayor eficacia en los resultados de sus operaciones;
+II.- Colaborar con las entidades que tengan a su cargo diversos aspectos de la producción y elaboración de henequén para mayor eficacia en los resultados de las operaciones;
 
 III.- Planear, fomentar, organizar y asesorar técnicamente las actividades agrícola, ganadera, apícola, avícola y forestal, en todos sus aspectos, coordinándose para este objeto con las dependencias federales que operen en la entidad con los mismos fines;
 
@@ -759,79 +797,47 @@ XV.- Proponer y apoyar la realización de obras de infraestructura rural, que pr
 
 XVI.- Las demás que le atribuyen expresamente las leyes y reglamentos respectivos.
 
+> <small>(REFORMADO, D.O. 27 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 42.
 
-Al Departamento de Desarrollo Pesquero le corresponde el despacho de los siguientes asuntos:
+Corresponde a la Secretaría de Desarrollo Industrial y Comercial, el despacho de los siguientes asuntos:
 
-I.- Planear, fomentar, organizar y asesorar técnicamente las actividades pesqueras, en todos sus aspectos, coordinándose para este objeto con las dependencias federales que operen en la entidad con los mismos fines;
+I.- Proponer las políticas y programas relativos al fomento y desarrollo de las actividades que realizan los sectores industrial, pesquero, de comercio y abasto y artesanal en la Entidad;
 
-II.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción para el desarrollo pesquero;
+II.- Promover todas y cada una de las áreas mencionadas en la fracción anterior, para crear nuevas unidades productivas y fomentar el crecimiento de las ya existentes;
 
-III.- Ejercer, por delegación del Gobernador del Estado, las atribuciones y funciones derivadas de los convenios celebrados con la Administración Pública Federal y los Ayuntamientos para el desarrollo pesquero;
+III.- Promover y apoyar la ejecución de los proyectos de los inversionistas, con información sobre tecnología, comercialización interna y externa, así como de la disponibilidad de infraestructura industrial, comercial y pesquera, además, respecto de las ventajas que el Estado ofrece al capital;
 
-IV.- Procurar el desarrollo pesquero y servir de órgano de consulta y asesoría en la actividad;
+IV.- Celebrar por delegación del Gobernador del Estado, convenios con los Ayuntamientos del Estado, para el fomento de las actividades relacionadas con las dependencias de la Secretaría;
 
-V.- Fomentar y apoyar la enseñanza y los programas de investigación pesquera así como divulgar las técnicas que mejoren la producción;
+V.- Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que provienen de los convenios firmados entre el mismo y la Administración Pública Federal respecto de las actividades de la Secretaría;
 
-VI.- Planear y Coordinar las acciones del Gobierno del Estado en materia de pesca;
+VI.- Planear, dirigir, controlar y asesorar técnicamente la actividad industrial, pesquera, de comercio y abasto, coordinándose para este objeto con las dependencias federales que operen en la entidad con los mismos fines;
 
-VII.- Facilitar el acceso al crédito pesquero;
+VII.- Servir de órgano de consulta y asesoría en las áreas relacionadas con las dependencias de la Secretaría;
 
-VIII.- Organizar al sector pesquero del Estado en torno a programas de nivel nacional y regional en coordinación con los organismos federales competentes;
+VIII.- Promover y apoyar a las organizaciones industriales, comerciales y pesqueras en sus procesos de modernización tecnológica y administrativa;
 
-IX.- Promover la organización de las sociedades cooperativas de producción pesquera y las sociedades, asociaciones y uniones de pescadores, proporcionando el apoyo técnico necesario;
+IX.- Proponer y apoyar la realización de programas y obras de infraestructura, en las áreas que competen a la propia Secretaría;
 
-X.- Dentro de la esfera de sus atribuciones, vigilar la preservación de los recursos pesqueros y desarrollar su potencial productivo;
+X.- Fomentar y apoyar la creación de fuentes de empleo, impulsando el establecimiento de empresas en el Estado;
 
-XI.- Las demás que le confieran las disposiciones legales en la materia.
+XI.- Recomendar la constitución o modificación de los fideicomisos o empresas en las áreas de competencia de la misma, para su promoción e impulso, en los términos de la legislación correspondiente;
+
+XII.- Proponer la industrialización de los productos pesqueros, mineros, artesanales y manufactureros, promoviendo el establecimiento de medidas para su comercialización;
+
+XIII.- Desarrollar el potencial productivo de los recursos naturales no renovables, así como los pesqueros, en un marco de racionalidad y cuidando su preservación;
+
+XIV.- Promover la organización de las sociedades de producción, en las áreas de competencia de la Secretaría, proporcionando el apoyo técnico necesario para tal objeto;
+
+XV.- Promover la adecuada vigilancia, control y demás acciones en coordinación con las dependencias concurrentes, en las áreas de industria, comercio y pesca; y
+
+XVI.- Las demás que le atribuyan expresamente las leyes y reglamentos respectivos.
 
 ###### ARTICULO 43.
 
-Al Departamento de Desarrollo Industrial y Comercial corresponderá el despacho de los siguientes asuntos;
-
-I.- Planear, dirigir, coordinar y controlar la ejecución de las políticas y de los programas de fomento y promoción de la industria y del comercio en la Entidad;
-
-II.- Celebrar, por delegación del Ejecutivo, convenios con los Ayuntamientos para el fomento de la industria, el comercio y el abasto;
-
-III.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, artesanal y comercial contengan los convenios firmados entre el mismo y la Administración Pública federal;
-
-IV.- Orientar a los inversionistas con información sobre la disponibilidad de mano de obra, infraestructura, insumos y ventajas que el Estado ofrece al capital, así como apoyarlos en sus gestiones para conseguir financiamientos y en los trámites a realizar ante las autoridades correspondientes;
-
-V.- Promover la creación de nuevas industrias y establecimientos comerciales en el Estado e impulsar el desarrollo de las existentes;
-
-VI.- Servir de órgano de consulta y asesoría en materia de industria, comercio y abasto;
-
-VII.- Promover y apoyar a las organizaciones de industriales y comerciantes para que tengan acceso a créditos, seguros, innovaciones tecnológicas, canales de comercialización adecuados y mejores sistemas de administración;
-
-VIII.- Fomentar el adiestramiento y la capacitación para la industria y el comercio, en coordinación con las instituciones públicas, sociales y privadas dedicadas a la prestación de estos servicios;
-
-IX.- Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural;
-
-X.- Fomentar la creación de fuentes de empleos, impulsando el establecimiento de la micro, pequeña y mediana industria en el Estado, así como la creación de parques industriales, centrales de abasto y centros comerciales;
-
-XI.- Asesorar técnicamente a los Ayuntamientos, y a los sectores social y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
-
-XII.- Organizar y promover la producción artesanal, la industria familiar y la microindustria, proponiendo los estímulos necesarios para su desarrollo;
-
-XIII.- Apoyar los programas de investigación tecnológica e industrial y fomentar su divulgación;
-
-XIV.- Proponer la industrialización y comercialización de los productos pesqueros;
-
-XV.- Organizar al sector Industrial y Comercial del Estado en torno a los programas nacionales y regionales en coordinación con los órganos federales competentes.
-
-XVI.- Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
-
-XVII.- Proponer y apoyar la realización de obras de infraestructura industrial y comercial;
-
-> <small>(F. DE E., D.O. 16 DE MARZO DE 1988)</small>
-
-XVIII.- Fomentar el establecimiento de centrales de insumo para apoyo de las actividades productivas; y
-
-> <small>(F. DE E., D.O. 16 DE MARZO DE 1988)</small>
-
-XIX.- El Titular de este departamento recibirá el nombre de Secretario; y
-
-XX.- Las demás que le atribuyen expresamente las Leyes y Reglamentos respectivos.
+(DEROGADO, D.O. 27 DE NOVIEMBRE DE 1989)
 
 ###### ARTICULO 44.
 
@@ -887,25 +893,7 @@ XXII.- Las demás que le atribuyen las Leyes y Reglamentos vigentes en el Estado
 
 ###### ARTICULO 45.
 
-Al Centro Estatal de Informática le corresponde la atención de los asuntos siguientes:
-
-I.- Asesorar al Gobernador del Estado en la integración del Sistema de Informática del Gobierno del Estado;
-
-II.- Procesar la información que las dependencias y entidades de la Administración Pública, tanto Federal como Estatal y los Ayuntamientos, proporcionen al Titular del Ejecutivo del Estado, para evaluar los programas operativos;
-
-III.- Prestar servicios en el procesamiento electrónico de información que requieran las dependencias y entidades de la Administración Pública del Estado;
-
-IV.- Ser conducto del Gobernador del Estado para dictar normas para hacer compatibles en lo posible, equipos y programas de cómputo, a fin de racionalizar su uso;
-
-V.- Dictaminar sobre la conveniencia y factibilidad de crear nuevos centros de procesamiento electrónico de información para las dependencias y entidades de la Administración Pública y las características de los equipos requeridos;
-
-VI.- Dictaminar, a solicitud del Gobernador del Estado, respecto a la conveniencia de que un centro de procesamiento electrónico de información existente deje de operar y la alternativa idónea para prestar el servicio, en su caso;
-
-VII.- Asesorar a las dependencias y entidades de la Administración Pública en materia de Procesamiento de información computarizada;
-
-VIII.- Formular y realizar los programas de adiestramiento, capacitación y actualización en cuanto a la operación de sistemas de informática; y
-
-IX.- Las demás que señalen las disposiciones legales aplicables.
+(DEROGADO, D.O. 27 DE NOVIEMBRE DE 1989)
 
 ###### ARTICULO 46.
 
@@ -1044,3 +1032,19 @@ NOVENO.- En un plazo no mayor de sesenta días deberá expedirse el Reglamento d
 DECIMO.- Se derogan todas las disposiciones legales que contravengan al presente Decreto.
 
 DECIMO PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 27 DE NOVIEMBRE DE 1989.
+
+PRIMERO.- Se derogan las disposiciones legales que contravengan al presente Decreto.
+
+SEGUNDO.- En un plazo de noventa días deberán realizarse las adecuaciones reglamentarias que correspondan.
+
+TERCERO.- El personal de las dependencias que, en aplicación de este Decreto pase a otra área, en ninguna forma resultará afectado en los derechos laborales que hubiere adquirido.
+
+CUARTO.- Los asuntos que, con motivo de este Decreto, deban pasar de una dependencia a otra, permanecerán en el último trámite que se hubiere efectuado, hasta que las unidades administrativas que los tramiten, se incorporen a la dependencia correspondiente, con excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+QUINTO.- Las disposiciones de las leyes vigentes que, sin oponerse a este Decreto, se refieren a las dependencias de la administración pública estatal, cuya denominación o atribuciones han sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse en las nuevas dependencias establecidas en el presente, cuyas atribuciones sean iguales o análogas.
+
+Se faculta al Gobernador del Estado, para resolver las cuestiones que puedan suscitarse con motivo de la aplicación de lo previsto en el párrafo anterior.
+
+SEXTO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
