@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1982-07-29"
+last_updated: "1983-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -299,7 +299,9 @@ XI. Conocer de las renuncias de los Diputados y del Gobernador y de los Magistra
 
 XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos y además a éste último para permanecer fuera del territorio del Estado. Conocer de las licencias que por más de dos meses conceda el Ejecutivo a los Magistrados.
 
-XIII. Erigirse en Jurado de Acusación, o de acusación y de sentencia, en los casos que señalan los artículos 49, 50 y 51.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1983)</small>
+
+XIII. Erigirse en Jurado de Acusación y de Sentencia en los casos señalados en el Título Séptimo de esta Constitución.
 
 XIV. Aprobar o reprobar los convenios que el Gobernador celebre con los Estados vecinos respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión.
 
@@ -309,7 +311,9 @@ XVI. Resolver las competencias y derimir (sic) las controversias que se susciten
 
 XVII. Conceder amnistía.
 
-XVIII. Nombrar y remover libremente a los empleados dependientes de su Secretaría y de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1983)</small>
+
+XVIII. Nombrar y remover libremente a los Servidores Públicos dependientes de su Secretaría y de la Contaduría Mayor de Hacienda.
 
 XIX. Investir al Gobernador de facultades extraordinarias, cuando por circunstancias determinadas, se hiciera necesario y aprobar o reprobar los actos emanados de aquellas.
 
@@ -409,9 +413,11 @@ Si al comenzar un periodo constitucional, no se presentare el Gobernador o la el
 
 El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta por treinta días. Durante los primeros diez de este término, no se le considerará separado de sus funciones, pero a partir del onceavo, dará aviso de su separación o ausencia al Congreso o a la Diputación Permanente, y el Secretario General de Gobierno se hará cargo del despacho, con las atribuciones que establezca la Ley Orgánica del Poder Ejecutivo. Sólo con permiso del Congreso o de la Diputación Permanente, podrá ausentarse del Territorio del Estado o separarse de sus funciones por más de quince días.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+
 ###### Art. 32.
 
-Para el despacho de los negocios del Poder Ejecutivo, habrá un funcionario que se denomine Secretario de Gobierno, o varios que se denominarán Secretarios del Despacho del Ramo que se les encomiende. También podrá haber Departamentos y Direcciones Administrativas encargadas de un solo Ramo, cuyos Jefes acuerden directamente con el Gobernador y comuniquen y autoricen sus acuerdos.
+Para el despacho de los negocios del Poder Ejecutivo, habrá un Servidor Público que se denomine Secretario de Gobierno, o varios que se denominarán Secretarios del Despacho del Ramo que se les encomiende. También podrá haber Departamentos y Direcciones Administrativas encargadas de un solo ramo, cuyos Jefes acuerden directamente con el Gobernador y comuniquen y autoricen sus acuerdos.
 
 ###### Art. 33.
 
@@ -459,9 +465,9 @@ VII. Celebrar convenio sobre límites con los Estados vecinos, con el requisito 
 
 VIII. Formar los reglamentos para el buen despacho de la Administración Pública.
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1983)</small>
 
-IX. Nombrar y remover al Secretario de Gobierno, al Procurador General de Justicia y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme a la Ley a otra Autoridad.
+IX. Nombrar y remover a los Servidores Públicos cuyos nombramientos o remoción no corresponda, conforme a la Ley, a otra autoridad.
 
 X. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 1922)
 
@@ -485,9 +491,9 @@ XIV. Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de su
 
 XV. Conceder, conforme a la Ley, indulto, reducción o conmutación de pena.
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1983)</small>
 
-XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de los Funcionarios y empleados públicos que gocen de fuero.
+XVI. Convocar al Congreso a Periodos Extraordinarios y a Sesiones Extraordinarias, debiendo hacerlo de inmediato para estas últimas, en los casos graves de responsabilidad de los Servidores Públicos.
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1966)</small>
 
@@ -591,29 +597,65 @@ VIII. Nombrar de entre los Magistrados suplentes, periódicamente, uno o más Vi
 
 ###### Art. 47.
 
-Todo funcionario y empleado público, es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurren en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+Para los efectos de las responsabilidades a que alude este Capítulo, se reputará como Servidores Públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado, y, en general a toda persona que desempeñe un cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o de los Municipios, así como a quienes presten servicios en los Organismos Públicos Descentralizados y Empresas de Participación Estatal o Municipal Mayoritaria, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por delitos dolosos graves del orden común.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 48.
 
-Se concede acción popular para pedir que se exija la responsabilidad en que incurran los funcionarios y empleados públicos a excepción de la que provenga de delitos en que se requiere la querella necesaria.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
+
+I. Se impondrán, mediante juicio político, las sanciones establecidas en el Art. 49 de este Capítulo a los Servidores Públicos señalados en este precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II. La Comisión de delitos por parte de cualquier Servidor Público será perseguida y sancionada en los términos de la Legislación Penal; y
+
+III. Se aplicarán sanciones administrativas a los Servidores Públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión.
+
+Los procedimientos para la imposición de las sanciones mencionadas son autónomos. No podrán imponerse por la misma conducta sanciones de igual naturaleza en diversos procedimientos.
+
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente, por causa de enriquecimiento ilícito, a los Servidores Públicos que, durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, adquieran bienes que acrecienten su patrimonio en forma desproporcionada a sus ingresos lícitos. La Ley Penal sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
+
+A culaquier (sic) ciudadano, bajo su más estricta responsabilidad, y aportando elementos de prueba, se les concede acción popular para denunciar, ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 49.
 
-Siempre que se trate de un delito del orden común cometido por los diputados, el Gobernador, los Magistrados, el Secretario de Gobierno, el Jefe del Ministerio Público o los Munícipes, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos, si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo, el acusado queda por el mismo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
+Serán sujetos del juicio político los Diputados al Congreso del Estado, los Magistrados y Jueces de Primera Instancia, los Secretarios y Subsecretarios dependientes del Ejecutivo del Estado, el Tesorero, los Jefes o Directores de Departamentos Gubernamentales, el Procurador General de Justicia, los Munícipes, el Tesorero y el Secretario y Síndico de los Ayuntamientos, así como los Directores o sus equivalentes de Organismos Públicos Descentralizados y Empresas de Participación Estatal o Municipal Mayoritaria.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+Las sanciones podrán ser la destitución o inhabilitación del Servidor Público para desempeñar funciones, empleos, cargos o comisiones, de culaquier (sic) naturaleza, en el Servicio Público.
 
-### CAPITULO PRIMERO. De las Responsabilidades de los Funcionarios y Empleados Públicos
+Para la aplicación de las sanciones a que se refiere este precepto, la Comisión de Responsabilidades del Congreso presentará su dictamen sobre la procedencia de la acusación y el Congreso, erigido en Jurado de Acusación, procederá a discutir y votar las conclusiones propuestas.
+
+El Congreso, erigido en Jurado de Sentencia, después de haber substanciado el procedimiento respectivo, con audiencia del inculpado, aplicará la sanción correspondiente, previa declaración de las dos terceras partes de los integrantes de la Legislatura, con la exclusión de los miembros de la Comisión de Responsabilidades.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+
+### CAPITULO PRIMERO. De las Responsabilidades de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 50.
 
-De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo anterior, exceptuando a los Magistrados, conocerá el Congreso como Jurado de Acusación y el Supremo Tribunal de Justicia, en Acuerdo Pleno, como Jurado de Sentencia, si se exigiere la responsabilidad estando el funcionario en ejercicio o fuera de él, pero no definitivamente.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretario (sic) de Gobierno, el Procurador General de Justicia y los Munícipes, el Congreso declarará, por mayoría absoluta de los Diputados integrantes de la Legislatura, excepción hecha de los miembros de la Comisión de Responsabilidades, si ha o no lugar a proceder contra el inculpado.
 
-El Jurado de Acusación declarará por mayoría absoluta de votos, si el acusado es o no culpable, oyéndolo previamente en defensa.
+Si la resolución del Congreso fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-El Jurado de Sentencia, oyendo al acusador, si lo hubiere, al Procurador de Justicia y al reo, por sí o por medio de su defensor, aplicará también por mayoría absoluta de votos, la pena que la ley designe.
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades, competentes para que actúen con arreglo a la Ley.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina con sentencia absolutoria, el Servidor Público podrá reasumir su función, si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su cargo, no se concederá al reo la gracia del indulto.
+
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la Legislación Penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o en el daño causado.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+Por lo que corresponde al Gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso, en los términos del Art. 47. En este supuesto, el Congreso resolverá con base en la Legislación Penal aplicable.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ## Título Sexto
 
@@ -621,25 +663,37 @@ El Jurado de Sentencia, oyendo al acusador, si lo hubiere, al Procurador de Just
 
 ###### Art. 51.
 
-Si hubiere de formarse causa por delitos y faltas oficiales a los Magistrados del Supremo Tribunal de Justicia, se iniciará y concluirá ante el Congreso, resolviendo éste, como Jurado de Acusación y de Sentencia, observándose lo dispuesto en el artículo anterior.
+No se requerirá declaración de procedencia del Congreso, cuando alguno de los Servidores Públicos a que se hace referencia en el párrafo primero del Art. 50, cometa un delito durante del tiempo en que se encuentre separado de su encargo.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 52.
 
-Contra los Funcionarios Públicos de que habla el artículo 46, Fracción III, sólo podrá procederse por responsabilidades comunes u oficiales, previo el permiso correspondiente; quedando, una vez concedido éste, separados del ejercicio de sus funciones y sometidos a los Jueces Ordinarios.
+La Ley de Responsabilidades de los Servidores Públicos determinará: las obligaciones de éstos; las sanciones aplicables por los actos u omisiones indebidos que señala la frac. III del Art. 48 de esta Ley; los procedimientos y las autoridades encargadas de su aplicación. Las sanciones consistirán en destitución o inhabilitación, además de las de carácter pecuniario, que se impondrán de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios causados por los actos u omisiones en que incurra, que no podrán exceder de tres tantos de la cuantificación de éstos.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 53.
 
-La declaración de haber lugar a formación de causa o el permiso para proceder a que se refiere el artículo 46, Fracción III, de esta Constitución, se requiere en cuanto a los Funcionarios de Elección Popular, desde la fecha en que sean electos, y en los demás casos, desde que entren en ejercicio de su encargo aun por delitos cometidos con anterioridad.
+El juicio político sólo podrá iniciarse durante el periodo en que el Servidor Público desempeñe su cargo y hasta un año después. Las sanciones correspondientes se aplicarán en un periodo no mayor de un año, a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo, por cualquier Servidor Público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal. El desempeño de alguno de los cargos a que hace referencia el Art. 50 interrumpirá el término para la prescripción.
+
+La Ley señalará los términos de prescripción para exigir la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencias de los actos u omisiones a que hace referencia la frac. III del Art. 48, de esta Constitución. Cuando dichos actos u omisiones fuesen graves, los términos de prescripción no serán inferiores a tres años tres meses.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 54.
 
-A excepción de los Funcionarios de elección popular y de los Magistrados, todo empleado público que esté separado con licencia del ejercicio de su encargo, no goza del fuero constitucional que por razón del empleo le pertenecía.
+Contra los Jueces, sólo podrá procederse penalmente, previo el permiso correspondiente del Supremo Tribunal de Justicia, en pleno, quedando, una vez concedido éste, separados del ejercicio y sometidos a los Tribunales competentes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1979)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 55.
 
-La responsabilidad por delitos o faltas oficiales de funcionarios y empleados públicos que gocen del fuero constitucional, sólo podrán exigirse durante el ejercicio del cargo y 4 años después.
+La Ley Orgánica Municipal precisará, en los términos del primer párrafo del Art. 47, y para los efectos de sus responsabilidades, el carácter de Servidores Públicos de quienes desempeñen empleo, cargo o comisión en los municipios.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ### CAPITULO TERCERO. De las Reformas a la Constitución
 
@@ -647,11 +701,13 @@ La responsabilidad por delitos o faltas oficiales de funcionarios y empleados p�
 
 ###### Art. 56.
 
-En juicios del orden civil no hay fuero ni inmunidad.
+En Juicios del orden Civil no hay fuero ni inmunidad.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 ###### Art. 57.
 
-Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas oficiales, no puede concederse al reo la gracia del indulto.
+Las declaraciones y resoluciones a que se refieren los Arts. 49 y 50, son inatacables.
 
 ###### Art. 58.
 
@@ -708,6 +764,8 @@ Esta Constitución conservará su vigor aunque un trastorno público interrumpa 
 Si se estableciere un Gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad, volverá a ser acatada y con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieren infringido.
 
 ## Título Séptimo
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 1983)</small>
 
 ## TRANSITORIOS
 
@@ -858,3 +916,11 @@ Primero. Envíese el presente Decreto a los Ayuntamientos del Estado, en los té
 Segundo.- Este Decreto entrará en vigor, el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la declaratoria a que se refiere el art. 66 de la Constitución Política del Estado.
 
 Tercero.- En tanto se expida la Ley Reglamentaria de la Frac. V del Art. 4º de la Constitución Política del estado de Jalisco, se estará a lo que dispongan los actuales Reglamentos Gubernativos y de Policía.
+
+P.O. 5 DE JULIO DE 1983.
+
+Primero. Envíese el presente Decreto a los Ayuntamientos de la Entidad, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
+
+Segundo. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la Declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
