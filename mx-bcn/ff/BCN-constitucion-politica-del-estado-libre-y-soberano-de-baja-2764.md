@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1997-12-31"
+last_updated: "1998-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 1998.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el domigno 16 de agosto de 1953.
 
 Alfonso García González,
 
@@ -527,9 +527,13 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
 
-XXXII.- Formar su Reglamento Interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
+XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las dos terceras partes de sus integrantes, en los términos de esta Constitución;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
+
+XXXIII.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
 
 ### CAPITULO IV.. DE LA COMISION PERMANENTE
 
@@ -765,7 +769,9 @@ VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyend
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-X.- Nombrar y remover libremente al Secretario de Gobierno, al Procurador General de Justicia y a los funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
+
+X.- Nombrar y remover libremente al Secretario de Gobierno y a los Funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad
 
 XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
@@ -781,9 +787,9 @@ XVI.- Formular y expedir los reglamentos para el buen despacho de la administrac
 
 XVII.- Decretar expropiación de bienes por causas de utilidad pública, en la forma que determinen las leyes;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
-XVIII.- Tener el mando directo de la fuerza pública en el Municipio donde residiere habitual o transitoriamente y tomar en caso de invasión o de trastornos interiores, las medidas extraordinarias que fueren precisas para hacer respetar la Soberanía del Estado y el orden sujetándolas a la mayor brevedad, a la aprobación del Congreso;
+XVIII.- Tener el mando directo de la fuerza pública de los municipios cuando el Congreso del Estado suspenda o declare desaparecidos a los Ayuntamientos, y tomar en caso de invasión o de trastornos interiores, medidas extraordinarias para hacer respetar la soberanía del Estado y reestablecer el orden con la aprobación del Congreso del Estado.
 
 XIX.- Conceder licencias con goce de sueldo o sin él y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
 
@@ -793,7 +799,15 @@ XXI.- Fomentar el turismo y el desarrollo industrial, agrícola y ganadero del E
 
 XXII.- Celebrar convenios con la Federación sobre participación de impuestos y coordinar sus esfuerzos en el Estado, a efecto de atender lo relativo a educación, salubridad y asistencia pública y para la construcción de caminos vecinales, así como en aquellas obras cuya ejecución pueda llevarse a cabo en cooperación con el Gobierno Federal y sujetándose el Ejecutivo Local a lo dispuesto por las Leyes respectivas;
 
-XXIII.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
+
+XXIII.- Presentar para su elección, al Congreso del Estado las propuestas de nombramiento para el cargo de Procurador General de Justicia del Estado, de conformidad con lo que establezca la Ley de la materia.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
+
+XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de la Ley de la materia.
+
+XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
 ### CAPITULO II.. DEL PODER JUDICIAL
 
@@ -1031,13 +1045,13 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. También le corresponde el velar por la exacta observancia de las leyes en los casos en que tenga intervención conforme a su Ley Orgánica respectiva. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales. Asimismo compete a esta institución proteger los intereses de los menores e incapaces, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 70.
 
-Ejercen y representan esta Institución en el Estado el Procurador General de Justicia y los Agentes del Ministerio Público que determine la Ley. Estos funcionarios serán nombrados y removidos libremente por el Gobernador.
+Ejercen y representan esta Institución en el Estado el Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-Para ser Procurador General de Justicia, deberán cumplirse los requisitos que establece la Ley de la materia.
+Los Subprocuradores y Agentes del Ministerio Público, serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1968,3 +1982,13 @@ Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspo
 ###### ARTÍCULO SEGUNDO.
 
 En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 20 DE FEBRERO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntamientos del Estado la copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las disposiciones de esta reforma, no afectarán la situación jurídica de los servidores públicos nombrados con anterioridad a su vigencia.
