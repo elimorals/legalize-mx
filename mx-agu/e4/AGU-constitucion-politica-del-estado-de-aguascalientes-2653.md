@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1947-07-27"
+last_updated: "1948-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 1947.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -443,6 +443,10 @@ La Administración Municipal se ejerce por los Ayuntamientos que residirán en l
 
 Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos se renovarán totalmente cada tres años. Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser reelectos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 1948)</small>
+
+En las Elecciones Municipales participarán las mujeres en igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
+
 ###### Artículo 44°
 
 Las atribuciones y las facultades de los Ayuntamientos, así como el número de individuos de que los forman, se determinarán en las leyes.
@@ -765,6 +769,8 @@ P.O. 22 DE SEPTIEMBRE DE 1944.
 
 DECRETO NÚMERO 76, QUE REFORMA EL ARTÍCULO 41, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
+Este Decreto empezará a surtir sus efectos con relación a los proyectos de presupuestos que deben presentarse para el ejercicio fiscal del año entrante.
+
 P.O. 20 DE AGOSTO DE 1945.
 
 ARTICULO TRANSITORIO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
@@ -772,3 +778,7 @@ ARTICULO TRANSITORIO.- Esta reforma entrará en vigor tres días después de su 
 P.O. 27 DE JULIO DE 1947.
 
 UNICO.- Este Decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JUNIO DE 1948.
+
+UNICO.- Este Decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Gobierno de Estado.
