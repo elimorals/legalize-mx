@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-dispone-que-el-archivo-general-de-la-2589
 country: "mx"
 rank: "acuerdo"
 publication_date: "1980-07-14"
-last_updated: "1980-07-14"
+last_updated: "1998-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25899&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1980-04-24"
 
 ACUERDO POR EL QUE SE DISPONE QUE EL ARCHIVO GENERAL DE LA NACION, SERA LA ENTIDAD CENTRAL Y DE CONSULTA DEL EJECUTIVO FEDERAL EN EL MANEJO DE LOS ARCHIVOS ADMINISTRATIVOS E HISTORICOS DE LA ADMINISTRACION PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO, FRACCION V DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACIÓN, PUBLICADO EN EL D.O.F. DE 31 DE AGOSTO DE 1980, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 14 de julio de 1980.
 
@@ -84,3 +86,33 @@ Los Coordinadores de Sector instruirán a las entidades de la Administración P�
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal en la ciudad de México, Distrito Federal, el día 24 de abril de 1980.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.Rúbrica.- El Secretario de la Defensa Nacional, Félix Galván López.- Rúbrica.- El Secretario de Marina, Ricardo Cházaro Lara.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Programación y Presupuesto, Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, José Andrés Oteyza.- Rúbrica.- El Secretario de Comercio, Jorge de la Vega Domínguez.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Francisco Merino Rábago.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Mújica Montoya.- Rúbrica.- El Secretario de Asentamientos Humanos y Obras Públicas, Pedro Ramírez Vázquez.- Rúbrica.- El Secretario de Educación Pública, Fernando Solana Morales.- Rúbrica.- El Secretario de Salubridad y Asistencia, Emilio Martínez Manautou.- Rúbrica.- El Secretario de Trabajo y Previsión Social, Pedro Ojeda Paullada.- Rúbrica.- El Secretario de la Reforma Agraria, Antonio Toledo Corro.- Rúbrica.- El Secretario de Turismo, Guillermo Rossell de la Lama.- Rúbrica.- El Jefe del Departamento de Pesca, Fernando Rafful Miguel.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Carlos Hank González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 31 DE AGOSTO DE 1980.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan:
+
+I. El Reglamento Interior publicado en el Diario Oficial de la Federación el 13 de febrero de 1989 y sus reformas y adiciones.
+
+II. El decreto por el que se crea el Instituto Nacional de Migración como órgano técnico desconcentrado dependiente de la Secretaría de Gobernación, publicado en el Diario Oficial de la Federación el 19 de octubre de 1993.
+
+III. El decreto por el que se crea el órgano administrativo desconcentrado Talleres Gráficos de México, publicado en el Diario Oficial de la Federación el 10 de febrero de 1994.
+
+IV. El decreto por el que se crea el Centro Nacional de Prevención de Desastres con el carácter de órgano administrativo desconcentrado jerárquicamente subordinado a la Secretaría de Gobernación, publicado en el Diario Oficial de la Federación el 20 de septiembre de 1988.
+
+V. El acuerdo por el que se dispone que el Archivo General de la Nación será la entidad central y de consulta del Ejecutivo Federal en el manejo de los archivos administrativos e históricos de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 14 de julio de 1980.
+
+TERCERO. Se derogan:
+
+I. Los artículos 5o. y 7o. del decreto por el que el Instituto Nacional de Estudios Históricos de la Revolución Mexicana amplía sus atribuciones y objetivos, publicado en el Diario Oficial de la Federación el 26 de marzo de 1987.
+
+II. Los artículos 35 y 36 del Reglamento de la Ley General de Población, publicado en el Diario Oficial de la Federación el 31 de agosto de 1992.
+
+CUARTO. Al entrar en vigor este Reglamento, los asuntos pendientes de los órganos administrativos desconcentrados referidos en el artículo segundo transitorio, continuarán en trámite y serán resueltos por aquella o aquellas unidades de los mismos a las que les atribuya la competencia este Reglamento.
+
+QUINTO. Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella unidad a la que se la haya atribuido la competencia correspondiente en este Reglamento.
+
+SEXTO. Los derechos laborales de los trabajadores de la Secretaría serán respetados conforme a la ley.
