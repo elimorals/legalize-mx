@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-tesoreria-de-la-federacion-1761"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1985-12-31"
+last_updated: "1995-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1761&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-12-19"
 
 LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 1985.
 
@@ -41,13 +41,17 @@ LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley regula los servicios de tesorería de la Federación, conforme a la Ley de Ingresos y al Presupuesto de Egresos de la Federación.
+Esta Ley regula los servicios de tesorería de la Federación, conforme a la Ley de Ingresos y al Presupuesto de Egresos de la Federación y a las demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 2o.
 
-Los servicios de tesorería de la Federación que se regulan en esta Ley, estarán a cargo de la Secretaría de Hacienda y Crédito Público, a través de la Tesorería de la Federación. Sus disposiciones se observarán por la propia Secretaría y por las unidades administrativas de las dependencias y entidades de la administración pública federal y los órganos de gobierno estatales y municipales que presten alguno de los referidos servicios, en forma permanente o transitoria, así como por los servidores públicos y por los particulares que realicen las situaciones jurídicas o de hecho que se regulan en los casos en que les sean aplicables.
+Los servicios de tesorería de la Federación y la vigilancia de fondos y valores, que se regulan en el esta Ley, estarán a cargo de la Secretaría de Hacienda y Crédito Público, a través de la Tesorería de la Federación. Sus disposiciones se observarán por la propia Secretaría y por las unidades administrativas de las dependencias y entidades de la administración pública federal y los órganos de gobierno estatales y municipales que presten alguno de los referidos servicios, en forma permanente o transitoria, así como por los servidores públicos y por los particulares que realicen las situaciones jurídicas o de hecho que se regulan en los casos en que les sean aplicables.
 
 ###### ARTICULO 3o.
 
@@ -69,7 +73,9 @@ I.- Las oficinas recaudadoras de la Secretaría, excepto las que dependan direct
 
 II.- Las unidades administrativas de las dependencias de la administración pública federal centralizada;
 
-III.- El Banco de México, las sociedades nacionales de crédito, y las demás entidades de la administración pública paraestatal;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+III.- El Banco de México, las instituciones de crédito autorizadas y las entidades de la administración pública paraestatal;
 
 IV.- Las Tesorerías de los Poderes Legislativo y Judicial;
 
@@ -95,13 +101,17 @@ En los casos en que sea procedente la remoción, suspensión temporal o separaci
 
 Cuando en los términos de la legislación penal, se deba privar de la libertad a servidores públicos que tengan a su cargo el manejo de los fondos, valores o bienes de la propiedad o al cuidado del Gobierno Federal, se dictarán las providencias necesarias para que se haga la entrega correspondiente a la Tesorería o a los auxiliares.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 10.
 
-Siempre que durante la prestación de sus servicios, se encuentren en poder de los servidores públicos que manejen fondos o valores del Gobierno Federal o al cuidado del mismo, fondos o valores y su tenencia no se justifique, serán registrados en la oficina cuentadante y no podrá disponerse de ellos hasta que resuelva la Contraloría Interna de la Secretaría, conforme a sus atribuciones, con la intervención que corresponda a la Secretaría de la Contraloría General de la Federación.
+Siempre que durante la prestación de sus servicios, se encuentren fondos y valores en poder de los servidores públicos que manejen fondos o valores del Gobierno Federal o al cuidado del mismo, y su tenencia no se justifique, serán registrados en la oficina cuentadante y no podrá disponerse de ellos hasta que resuelva la Contraloría Interna de la Secretaría, conforme a sus atribuciones, con la intervención que corresponda a la Secretaría de la Contraloría y Desarrollo Administrativo.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 11.
 
-La Tesorería tendrá a su cargo la emisión y distribución de las formas numeradas y valoradas que señale el Reglamento de esta Ley e intervendrá en su destrucción, cuando así proceda, junto con los materiales empleados en su producción.
+La Tesorería tendrá a su cargo la emisión, guarda, custodia, control y distribución de las formas numeradas y valoradas que señale el Reglamento de esta Ley, e intervendrá en su destrucción, cuando así proceda, junto con los materiales empleados en su producción.
 
 ###### ARTICULO 12.
 
@@ -153,6 +163,12 @@ El pago diferido o en parcialidades de créditos a favor del Gobierno Federal, d
 
 Tratándose de créditos fiscales a cargo del sector paraestatal, cuyo pago diferido o en parcialidades competa resolver a la Tesorería, la autorización se sujetará a lo previsto en las disposiciones fiscales aplicables.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 20
+
+Bis.- La Tesorería podrá realizar los actos necesarios para la recuperación de todo tipo de créditos distintos de los fiscales que tengan radicados. Para estos efectos, podrá reestructurar o bien ceder a título oneroso los créditos respectivos, así como contratar los servicios de cobranza de personas físicas o morales.
+
 ###### ARTICULO 21.
 
 Los fondos y, en su caso, los valores resultantes de la recaudación se justificarán de acuerdo con las disposiciones legales o resoluciones de autoridad competente, convenios o contratos; se comprobarán con los documentos que establezcan las disposiciones respectivas en los que conste la certificación oficial o bancaria de la percepción, y deberán reflejarse en los registros de la oficina receptora como dispone el artículo 83 de esta Ley.
@@ -169,9 +185,11 @@ La recaudación se efectuará en moneda nacional dentro del territorio de la Rep
 
 La recaudación en el extranjero podrá hacerse en moneda del país de que se trate, conforme a lo que disponga el Código Fiscal de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 24.
 
-Los bienes que se embarguen por autoridades distintas de las fiscales conforme a las leyes administrativas federales, los decomisados por autoridades judiciales federales, los que sin estar decomisados no sean recogidos por quien tenga derecho en el lapso que señala el Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal y los abandonados expresa o tácitamente en beneficio del Gobierno Federal, se pondrán a disposición de la Tesorería por conducto de las Oficinas Federales de Hacienda junto con la documentación que justifique los actos, para su guarda, administración, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda conforme al Reglamento de esta Ley.
+Los bienes que se embarguen por autoridades distintas de las fiscales conforme a la (sic) leyes administrativas federales, los decomisados por autoridades judiciales federales, los que sin estar decomisados no sean recogidos por quien tenga derecho en el lapso que señala el Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal y los abandonados expresa o tácitamente en beneficio del Gobierno Federal, se pondrán a disposición de la Tesorería por conducto de las Administraciones Locales de Recaudación junto con la documentación que justifique los actos, para su guarda, administración, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda conforme al Reglamento de esta Ley.
 
 Se exceptúa de lo anterior a las mercancías de importación o exportación, que causen abandono expreso o tácito o pasen a propiedad del Fisco Federal en términos de la Ley Aduanera y su Reglamento.
 
@@ -181,35 +199,65 @@ Transcurrido el plazo de calendario sin que se hayan retirado por su legítimo p
 
 ### CAPITULO II. De la Dación en Pago y de la Adjudicación de Bienes
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 25.
 
-A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno Federal, excepcionalmente la Secretaría, por conducto de la Tesorería o de los auxiliares legalmente facultados para ello, podrá aceptar la dación en pago del producto de la venta de bienes, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y éstos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos federales, a juicio de la propia Tesorería o de los auxiliares de referencia.
+A fin de asegurar la recaudación de toda clase de créditos a favor del Gobierno Federal, la Secretaría, por conducto de la Tesorería o de los auxiliares legalmente facultados para ello, podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sea la única forma que tenga el deudor para cumplir con la obligación a su cargo y éstos sean de fácil realización o venta, o resulten aprovechables en los servicios públicos federales, a juicio de la propia Tesorería o de los auxiliares de referencia.
+
+La aceptación o negativa de la solicitud de dación en pago, será facultad discrecional de la Tesorería o de sus auxiliares y no podrá ser impugnada en recurso administrativo, ni en juicio de nulidad ante el Tribunal Fiscal de la Federación.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 26.
 
-Las daciones en pago a que se refiere el artículo anterior, se recibirán al valor del avalúo pericial de los bienes emitido por institución autorizada. Los convenios de dación en pago y, en su caso, las actas, administrativas que los consignen, se formalizarán con la participación del deudor y de la Tesorería o los auxiliares facultados legalmente, anotándose en el Registro Público de la Propiedad, cuando se trate de inmuebles, para que surtan efectos contra terceros. Las escrituras públicas o privadas en que se transfiera el dominio del bien al adquirente, se otorgarán por la Tesorería o los auxiliares mencionados, en representación del deudor, sin necesidad de ulterior mandato. Los gastos y las contribuciones que origine la operación a cargo del enajenante, serán por cuenta del deudor que haya propuesto la dación en pago.
+Las daciones en pago de bienes muebles o inmuebles a que se refiere el artículo anterior, se recibirán al valor del avalúo emitido, según corresponda, por institución de crédito, por la Comisión de Avalúos de Bienes Nacionales, por corredor público o por perito autorizado.
+
+Tratándose de servicios, en la notificación de la aceptación de la dación en pago, la Tesorería determinará el valor y los demás términos y condiciones en que éstos se reciban. Dicho valor no podrá ser superior al de mercado en el momento de la aceptación.
+
+Aceptada la dación en pago se suspenderán provisionalmente todos los actos tendientes al cobro del crédito respectivo.
+
+De no formalizarse la dación en pago, en los términos del artículo siguiente, quedará sin efectos la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, conforme a las disposiciones fiscales.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 27.
 
-Aceptada la dación en pago, se suspenderá provisionalmente el cobro del crédito respectivo. Una vez formalizada, conforme a lo previsto en el artículo anterior, se tendrá por pagado el crédito, efectuándose su baja en los registros contables y administrativos correspondientes.
+La dación en pago quedará formalizada y el crédito extinguido de la siguiente manera:
+
+I.- Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno Federal a través de la Tesorería, misma que se otorgará dentro de los 45 días hábiles siguientes a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago;
+
+II.- Tratándose de bienes muebles, a la fecha de firma del acta de entrega de los mismos que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación.
+
+Cualquier gasto que resulte de la entrega del bien que corresponda, correrá por cuenta del deudor, y
+
+III.- Tratándose de servicios, en la fecha de su aceptación por la Tesorería o sus auxiliares, sujeta a la condición de que se cumplan todos los términos y condiciones establecidos. En caso de cumplimiento parcial, se extinguirá proporcionalmente el crédito siempre y cuando hayan sido aprovechados o resulten aprovechables para el Gobierno Federal.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 28.
 
-Los bienes recibidos para el pago, quedarán en custodia o administración de la Tesorería o de los auxiliares, en tanto se logra su venta, y bajo el control previsto en el artículo 85 de esta Ley.
+Los bienes y servicios recibidos en dación en pago, quedarán en custodia y administración de la Tesorería o de sus auxiliares correspondientes, a partir de que ésta se formalice. La propia Tesorería tendrá plenas facultades para proceder a su venta, o bien, tratándose de bienes muebles o de servicios, para determinar su destino de conformidad con lo establecido en el Reglamento de esta Ley, debiendo tramitar la afectación correspondiente en el Presupuesto de Egresos de la Federación.
 
-La propia Tesorería directamente o por conducto de los auxiliares facultados legalmente, podrán enajenar fuera de remate los bienes recibidos para el pago de créditos a favor del Fisco Federal, siempre que el precio no sean en cantidad menor a la del valor en que fueron recibidos, con adición de los gastos de administración y venta generados
+Para los efectos del párrafo anterior, la Tesorería, directamente o por conducto de sus auxiliares, podrá enajenar por medio de licitación pública o subasta, los bienes recibidos para el pago de créditos a favor del Fisco Federal, siempre que el precio no sea en cantidad menor al del valor en que fueron recibidos, con adición de los gastos de administración y venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso éste será el precio mínimo de venta.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 29.
 
-Cuando los bienes no se hayan enajenado en el lapso de dos años a partir de efectuada la dación en pago, la Tesorería o los auxiliares los pondrán a disposición de la dependencia competente para que sean incorporados al inventario de bienes muebles o al patrimonio inmobiliario del Gobierno Federal, según corresponda; hecho lo cual, tramitará la afectación respectiva en el Presupuesto de Egresos de la Federación. Igual procedimiento se seguirá en el caso de adjudicaciones de bienes por créditos a favor del Fisco Federal.
+Cuando en un plazo de 18 meses a partir de formalizada la dación en pago, los bienes no se hubieren enajenado o no se les hubiere determinado destino cuando procediere, la Tesorería o sus auxiliares los pondrán a disposición de la dependencia que corresponda conforme a las atribuciones señaladas en la Ley Orgánica de la Administración Pública Federal, para que éstos sean incorporados al inventario de bienes o al patrimonio inmobiliario del Gobierno Federal, debiendo dicha dependencia tramitar la afectación en el Presupuesto de Egresos de la Federación. Igual procedimiento se seguirá en el caso de adjudicaciones de bienes por créditos a favor del Fisco Federal.
 
-### CAPITULO III. De la Concentración de los Fondos Federales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO III. De la Concentración y Operación de los Fondos Federales
 
 ###### ARTICULO 30.
 
 Todos los fondos que dentro del Territorio Nacional se recauden por cualquiera de los auxiliares, por los diversos conceptos fiscales y otros que perciba el Gobierno Federal, por cuenta propia o ajena, deberán concentrarse invariablemente en la Tesorería, en la forma y términos que establezca el Reglamento de esta Ley.
 
-Las sociedades nacionales de crédito deberán pagar intereses, por concepto de indemnización, en caso de concentración extemporánea, de conformidad con la tasa que al respecto fije el Reglamento.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+Las instituciones de crédito y los auxiliares autorizados a que se refiere la fracción VI del artículo 5o. de esta Ley, deberán pagar intereses, en caso de concentración extemporánea, de conformidad con la tasa que al respecto fije el Reglamento.
 
 El Banco de México prestará el servicio de concentración, con sujeción a dicho Reglamento.
 
@@ -219,9 +267,11 @@ Cuando las leyes destinen los fondos a un fin determinado y para ser aprovechado
 
 Los fondos correspondientes a las aportaciones de seguridad social y otros a favor de terceros, quedarán exceptuados de lo previsto en el párrafo primero del artículo anterior, cuando así lo disponga la Ley o lo determine la Tesorería; en este supuesto las oficinas receptoras cumplirán en materia contable con lo preceptuado en el artículo 86 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 32.
 
-El servicio de concentración de fondos, excepcionalmente podrá efectuarse por conducto de las sociedades nacionales de crédito que autorice la Tesorería, en los casos que determine el Reglamento de esta Ley.
+El servicio de concentración de fondos podrá efectuarse por conducto de las instituciones de crédito que autorice la Tesorería, en los casos que determine el Reglamento de esta Ley.
 
 ###### ARTICULO 33.
 
@@ -231,11 +281,19 @@ Las oficinas de las dependencias y entidades de la administración pública fede
 
 La recolección de los fondos federales en las oficinas recaudadoras, es parte integrante del servicio de concentración de fondos.
 
-La recolección de fondos, excepcionalmente se llevará a cabo por los manejadores de fondos o por las sociedades nacionales de crédito que autorice la Tesorería, en los casos que señale el Reglamento de esta Ley.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+La recolección de fondos se llevará a cabo por los manejadores de fondos, por empresas especializadas en estos servicios y por instituciones de crédito que autorice la Tesorería, en los casos que señale el Reglamento de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 35.
 
-Los fondos recaudados directamente por la Tesorería, los que reciba de los auxiliares y de las oficinas señaladas en el artículo 33, así como los que se concentren en la misma por conducto del Banco de México, serán depositados diariamente en este último para que se abonen en la cuenta general que lleva a la Tesorería, con excepción de aquellos fondos que por acuerdo de autoridad competente deban mantener en disponibilidad la Tesorería o los auxiliares.
+Los fondos recaudados directamente por la Tesorería, los que reciba de los auxiliares y de las oficinas señaladas en el artículo 33, así como los que se concentren en la misma por conducto del Banco de México, serán depositados diariamente en este último para que se abonen en la cuenta corriente que lleva a la Tesorería o en cualquier institución de crédito autorizada, con excepción de aquellos fondos que por acuerdo de autoridad competente o por disposición de la Tesorería, deban mantener en disponibilidad la Tesorería o los auxiliares.
+
+A fin de constituir los depósitos en el Banco de México, a que se refiere el párrafo anterior, las instituciones de crédito que los efectúen deberán remitir al citado banco, un aviso con un mínimo de un día hábil bancario de anticipación.
+
+Los fondos disponibles de la Tesorería, en moneda nacional o extranjera, podrán ser invertidos en el Banco de México o en las instituciones de crédito autorizadas. La Tesorería podrá realizar las operaciones que señale el Reglamento de esta Ley de conformidad con las políticas y directrices que emita el Comité Técnico que para tal efecto se constituya por acuerdo de la Secretaría.
 
 ### CAPITULO IV. De la Prescripción de los Depósitos al Cuidado o a Disposición del Gobierno Federal
 
@@ -263,17 +321,21 @@ Cuando no sea posible determinar la fecha a que se refiere el propio artículo 3
 
 La Tesorería hará los pagos que le correspondan con cargo al Presupuesto de Egresos de la Federación y los que por otros conceptos deba hacer el Gobierno Federal, así como la ministración de fondos autorizada, en función de sus disponibilidades y de acuerdo con la Ley de Presupuesto, Contabilidad y Gasto Público Federal, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 40.
 
-Los pagos y ministración de fondos a que se refiere el artículo anterior podrán efectuarse por conducto del Banco de México, para cuyo efecto la Tesorería convendrá con este organismo la prestación de los servicios correspondientes, excepción hecha de los conceptos que la propia Tesorería resuelva pagar directamente o a través de los auxiliares que autorice.
+Los pagos y ministración de fondos a que se refiere el artículo anterior podrán efectuarse por conducto del Banco de México y de las instituciones de crédito que autorice la Tesorería, para cuyo efecto convendrá la prestación de los servicios correspondientes, excepción hecha de los conceptos que la propia Tesorería resuelva pagar directamente o a través de los auxiliares que autorice.
 
 ###### ARTICULO 41.
 
 El pago por remuneraciones al personal de la administración pública federal centralizada, se llevará a cabo por conducto de las dependencias que la integran respecto de los trabajadores de su adscripción, con observancia de lo dispuesto en el Reglamento de esta Ley y disposiciones administrativas aplicables.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 42.
 
-Los pagos que deba efectuar directamente la Tesorería y los correspondientes a remuneraciones al personal federal, se harán mediante cheques que se expidan a cargo del Banco de México, en efectivo o por otros medios de pago cuando así lo determine el Reglamento de esta Ley o en su defecto autorice la propia Tesorería.
+Los pagos que deba efectuar directamente la Tesorería y los correspondientes a remuneraciones al personal federal, se harán por los medios de pago que determine el Reglamento de esta Ley o en su defecto autorice la propia Tesorería.
 
 ###### ARTICULO 43.
 
@@ -409,9 +471,11 @@ El servidor público que haya estado sujeto a descuentos improcedentes o mayores
 
 La acción para reclamar prescribirá en dos años, contados a partir de la fecha en que se efectuó el descuento indebido.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 64.
 
-La Tesorería depositará el importe del Fondo en la cuenta general que le lleva el Banco de México, subcuenta "Fondo de Garantía para Reintegros al Erario Federal" y podrá acordar su inversión parcial o total en valores gubernamentales de alto rendimiento e inmediata realización. Los ingresos que se obtengan por este concepto se destinarán a incrementar el propio Fondo.
+La Tesorería depositará el importe del Fondo en la cuenta corriente que le lleva el Banco de México, subcuenta “Fondo de Garantía para Reintegros al Erario Federal”, y podrá acordar su inversión parcial o total en valores gubernamentales de alto rendimiento e inmediata realización. Los ingresos que se obtengan por este concepto se destinarán a incrementar el propio Fondo.
 
 ###### ARTICULO 65.
 
@@ -421,7 +485,9 @@ La reclamación se integrará con los siguientes documentos: pliego de responsab
 
 Cumplidos los requisitos anteriores, la Tesorería, dentro de los treinta días siguientes, cubrirá supletoriamente el Erario Federal, con cargo al Fondo, el importe insoluto del crédito por responsabilidades, de acuerdo a las disponibilidades financieras del Fondo.
 
-Cuando no se satisfaga alguno de los requisitos, la Tesorería en forma motivada y fundada devolverá la documentación para que se subsanen las omisiones, sin perjuicio de que la dependencia respectiva dé cuenta a la Secretaría de la Contraloría General de la Federación.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+Cuando no se satisfaga alguno de los requisitos, la Tesorería en forma motivada y fundada devolverá la documentación para que se subsanen las omisiones, sin perjuicio de que la dependencia respectiva dé cuenta a la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 66.
 
@@ -531,7 +597,9 @@ I.- Captar diariamente la información del ingreso y del egreso efectuados y con
 
 II.- Enlazar el subsistema de contabilidad de fondos federales con los demás subsistemas contables del Gobierno Federal, a fin de mejorar los mecanismos para el registro de las operaciones.
 
-III.- Vincular la contabilidad con la información que registre el Banco de México del movimiento de fondos en la cuenta general de la Tesorería.
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+III.- Vincular la contabilidad con la información que registre el Banco de México del movimiento de fondos en la cuenta corriente de la Tesorería.
 
 IV.- Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones.
 
@@ -539,9 +607,11 @@ V.- Aportar los elementos que permitan determinar la responsabilidad de los serv
 
 ### CAPITULO II. De los Registros Contables
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
 ###### ARTICULO 84.
 
-Los ingresos resultantes de la recaudación deberán reflejarse de inmediato en los registros de la oficina receptora, salvo que se trate de sociedades nacionales de crédito autorizadas, las que efectuarán el registro en los plazos establecidos en las autorizaciones relativas.
+Los ingresos resultantes de la recaudación deberán reflejarse de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones de crédito autorizadas, las que efectuarán el registro en los plazos establecidos en las autorizaciones relativas.
 
 Los citados auxiliares llevarán los registros contables de la recaudación que establezca la Tesorería.
 
@@ -577,6 +647,220 @@ Los resultados de las operaciones de compensación de adeudos, efectuadas por la
 
 Los créditos no fiscales a cargo de la Federación se registrarán en la contabilidad de las dependencias de la administración pública federal.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+## TITULO OCTAVO. De la Vigilancia de Fondos y Valores
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 93.
+
+La Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal, y el cumplimiento de las obligaciones que a este respecto incumben a los auxiliares de dicha Tesorería y a los servidores públicos, a efecto de que se ajusten a las disposiciones legales relativas.
+
+Las atribuciones de vigilancia de fondos y valores que confiere esta Ley a la Tesorería, se ejercerán sin perjuicio de las que en materia de control corresponden a la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 94.
+
+La Tesorería deberá vigilar que los actos realizados por los sujetos mencionados en el artículo anterior, relacionados con la recaudación, manejo, custodia y administración de fondos y valores propiedad o al cuidado del Gobierno Federal, en el territorio nacional o en el extranjero, se ajusten a las disposiciones legales respectivas, evitando que se cause perjuicio al Erario Federal. Para ello, tendrá las facultades siguientes:
+
+I.- Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de ingreso y egreso, examinando los aspectos contables y legales correspondientes;
+
+II.- Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en la Ley de Ingresos de la Federación, el Presupuesto de Egresos de la Federación y demás disposiciones que para el efecto expida la Secretaría y la Tesorería en el ámbito de su competencia;
+
+III.- Comprobar las existencias de los fondos y valores que obren en poder de las oficinas de la Federación;
+
+IV.- Participar con carácter obligatorio en los actos relacionados con la instalación, entrega y clausura de oficinas de la Federación que administren fondos y valores, en la destrucción de valores que deban consumar las autoridades administrativas de la Federación y en las demás que fije la Secretaría;
+
+V.- Informar a las autoridades competentes acerca de las anomalías o deficiencias que se observen y recomendar las medidas preventivas y correctivas necesarias;
+
+VI.- Formular pliegos de observaciones y responsabilidades.
+
+Los pliegos de observaciones tendrán por objeto consignar y subsanar las irregularidades encontradas al realizar algún acto de vigilancia, que no impliquen daños y perjuicios al Erario Federal.
+
+Los pliegos preventivos de responsabilidades tendrán por objeto consignar las violaciones a las disposiciones aplicables en que pudieren incurrir los servidores públicos y los auxiliares que tienen a su cargo la recaudación, manejo, custodia o administración de fondos o valores, en donde dichas irregularidades se traduzcan en daños y perjuicios al Erario Federal;
+
+VII.- Proceder al embargo precautorio de bienes de los responsables de irregularidades, para asegurar los intereses del Erario Federal;
+
+VIII.- Suspender o separar provisionalmente de sus funciones cuando proceda con arreglo a la Ley, a los servidores públicos y los auxiliares que recauden, manejen, custodien o administren fondos o valores, cuidando que sean sustituidos y hagan entrega formal;
+
+IX.- Imponer sanciones administrativas a los servidores públicos y los particulares que resulten infractores en los términos de esta Ley;
+
+X.- Coadyuvar con las Dependencias del Ejecutivo Federal, cuando soliciten el auxilio de la Tesorería en materia de vigilancia de fondos o valores de la propiedad o al cuidado del Gobierno Federal, y
+
+XI.- Las demás que de manera expresa determinen ésta u otras leyes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO II. Procedimientos de Vigilancia de Fondos y Valores
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 95.
+
+Cuando en el curso de una investigación se descubra la existencia de alguna responsabilidad que origine daño o perjuicio al Erario Federal y no se solvente en el acto, se procederá de inmediato al embargo precautorio de bienes del responsable en cantidad suficiente para garantizar los intereses del propio Erario, si de momento puede precisarse el monto de la responsabilidad, sin perjuicio de que dicho embargo se amplíe o reduzca en la medida que sea necesario, una vez que se determine en forma definitiva el monto de la responsabilidad.
+
+Practicado el embargo, se turnará la documentación correspondiente y se pondrán a disposición de la oficina recaudadora federal más cercana los bienes embargados para los efectos que procedan conforme a la Ley.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 96.
+
+Si las irregularidades que se descubran revisten gravedad que lo justifique, podrá el personal de la Tesorería que practique la diligencia suspender provisionalmente en su cargo al servidor público o auxiliar responsable, previo acuerdo superior.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 97.
+
+Las consignaciones a las autoridades que deban fincar las responsabilidades descubiertas por el personal de la Tesorería se harán con sujeción a las reglas siguientes:
+
+I.- Si se trata de responsabilidades administrativas derivadas de la recaudación, manejo, custodia o administración de fondos y valores, una vez formado el expediente se turnará a la Secretaría de Contraloría y Desarrollo Administrativo.
+
+II.- Cuando se trate de responsabilidades que por su naturaleza requieran la intervención de las autoridades judiciales del orden penal, el personal de la Tesorería formará el expediente de la investigación administrativa con todas las actuaciones que se relacionen con los hechos descubiertos y que tiendan a comprobar los elementos que acrediten el tipo penal y la probable responsabilidad del indiciado, turnándolo a la Procuraduría Fiscal de la Federación para que previo estudio presente denuncia o querella ante el Ministerio Público Federal si procediere.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 98.
+
+Siempre que en una diligencia se encuentren fondos o valores sobrantes o faltantes, la Tesorería procederá como sigue:
+
+I.- Si es sobrante, ordenará su registro en la contabilidad haciendo del conocimiento de la Tesorería para que lo concentre de inmediato, y de conformidad a lo dispuesto por la Ley de Ingresos de la Federación.
+
+II.- Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si lo hace y justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, practicará las investigaciones necesarias, hará del conocimiento de la Procuraduría Fiscal de la Federación o de la autoridad competente los ilícitos encontrados, de acuerdo con lo que disponga la Ley, y formulará los pliegos preventivos de responsabilidades y en su caso, procederá a realizar el embargo precautorio correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO III. Infracciones y Sanciones
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 99.
+
+Son infracciones administrativas de los servidores públicos y los auxiliares que recauden, manejen, custodien o administren fondos o valores de la propiedad o al cuidado del Gobierno Federal que establece esta Ley, las siguientes:
+
+I.- No dar o presentar los avisos, datos, informes, libros, registros, padrones y demás documentos que se les exijan durante las diligencias de vigilancia;
+
+II.- Asentar hechos falsos o alterar los libros y documentos a que se refiere la fracción anterior; o coludirse con otras personas, aun cuando no estén sujetas a la vigilancia, con la mira de obtener algún beneficio para sí o para tercero;
+
+III.- Dar en forma dolosa o irregular los avisos, datos e informes a que se refiere la fracción I;
+
+IV.- No acatar las observaciones que legalmente les notifique el personal de la Tesorería;
+
+V.- Resistirse a la práctica de las visitas y demás actos de vigilancia;
+
+VI.- No prestar la colaboración que solicite el personal de la Tesorería, ni proporcionarle las facilidades necesarias para el ejercicio de sus funciones, cuando sean requeridos para ello, y
+
+VII.- Faltar en cualquier otra forma a las obligaciones que les impongan esta Ley y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 100.
+
+Serán consideradas también como infracciones de los particulares, personas físicas o morales, las siguientes:
+
+I.- Negarse a aportar los datos, informes o declaraciones que estén obligados a ministrar al personal de la Tesorería, o se opongan a mostrar los libros o documentación, cuya exhibición se les exija legalmente y que estén a su disposición;
+
+II.- Proporcionar en forma dolosa o irregular los datos, informes o declaraciones de que trata la fracción anterior;
+
+III.- No comparecer ante el personal de la Tesorería en los casos en que sean citados para diligencia del propio servicio, y
+
+IV.- Resistirse a la práctica de visitas y demás actos de vigilancia que deban entenderse con ellos, de acuerdo con lo establecido en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 101.
+
+El personal de vigilancia incurrirá en infracción grave:
+
+I.- Por no cumplir oportunamente las órdenes de movilización;
+
+II.- Por salir del lugar que tenga señalado para su radicación o regresar a él sin orden expresa;
+
+III.- Por no rendir los datos, informes y demás avisos en la forma y términos que señalen las disposiciones reglamentarias;
+
+IV.- Por no integrar, en la forma señalada por las disposiciones reglamentarias, los expedientes que deba formar con motivo de su actuación;
+
+V.- Por no remitir o distribuir en la forma y términos que fijen las disposiciones reglamentarias, los expedientes a que se refiere la fracción anterior;
+
+VI.- Por obrar con negligencia o descuido en el desempeño de sus funciones;
+
+VII.- Por no llevar a cabo los actos de vigilancia que deba efectuar;
+
+VIII.- Por proceder dolosamente en el desempeño de su cargo, ejecutando actos indebidos u omitiendo los que legalmente procedan;
+
+IX.- Por asentar hechos falsos en la documentación, informes o avisos que deba producir con motivo de su actuación;
+
+X.- Por alterar los libros y documentos que examine en el ejercicio de su cargo;
+
+XI.- Por coludirse con otras personas, aun cuando no estén sujetas a la vigilancia, con la mira de obtener algún beneficio para sí o para tercero;
+
+XII.- Por no guardar la reserva debida respecto de las órdenes que reciba o de los actos de vigilancia en que intervenga, y
+
+XIII.- Por faltar al cumplimiento de las demás obligaciones que le imponga ésta u otras leyes o sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 102.
+
+Los sujetos a los actos de vigilancia establecidos por esta Ley, deberán comunicar a la Tesorería a más tardar a los treinta días siguientes de haber concluido la visita, todos los casos en que el personal de la Tesorería se exceda de sus facultades legales a fin de que se impongan las sanciones correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 103.
+
+Quienes cometan las infracciones previstas en los artículos 99 a 101, podrán ser sancionados por la Tesorería con multa de cien a doscientos días de salario mínimo diario general vigente en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 104.
+
+Los servidores públicos que infrinjan las disposiciones de esta Ley y su Reglamento, serán sancionados en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, siempre y cuando no hubieren sido sancionados conforme a lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 105.
+
+Tratándose de la aplicación de multas se tendrá en consideración la gravedad del hecho que constituya la infracción, los beneficios económicos obtenidos por el responsable y los daños y perjuicios patrimoniales causados al Erario Federal, de acuerdo con lo que establece la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 106.
+
+Las sanciones administrativas a que se refieren los artículos anteriores, se aplicarán sin perjuicio de exigir las responsabilidades que lleguen a contraerse por los daños o perjuicios que se ocasionen al Erario Federal así como las de carácter penal en que se incurra.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO IV. Disposiciones Complementarias
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 107.
+
+Las autoridades federales prestarán al personal de la Tesorería, la colaboración que requiera para el desempeño de sus funciones.
+
+Igual colaboración deberán prestar las autoridades de los Estados, Distrito Federal y Municipios como auxiliares de la Federación, cuando sean requeridas al efecto.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 108.
+
+Los servidores públicos y los auxiliares de las oficinas en que deba practicarse alguna diligencia, así como los particulares, personas físicas o morales con los que directamente haya de entenderse, deberán dar toda clase de facilidades para su desahogo, proporcionar los datos e informes que se les solicite por escrito o en los interrogatorios que se les practiquen y mostrar los libros, registros, padrones y documentación que legalmente se requiera, sin que puedan oponerse a la práctica de las diligencias que previene este Título.
+
+En la práctica de estos actos de vigilancia, las personas físicas y morales a que refiere este artículo, deberán exhibir en su domicilio los libros de contabilidad y documentación que se les pida.
+
+Asimismo, cuando el acto de vigilancia lo amerite, el Tesorero queda facultado para solicitar de las instituciones bancarias por conducto de la Comisión Nacional Bancaria y de Valores, los estados de cuenta y cualquiera otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 109.
+
+Los servidores públicos de la Tesorería y los auxiliares a quienes se encomienden las diligencias relacionadas con la vigilancia y el personal administrativo que conozca de las mismas, deberá guardar reserva acerca de los informes y datos que reciban, recaben, rindan o lleguen a su conocimiento con tal motivo. Esta obligación subsistirá aun cuando el funcionario o empleado se separe del servicio.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -608,3 +892,17 @@ Para efectos del artículo 64 de esta Ley, mientras se tramita y consuma la revo
 México, D. f., a 19 de diciembre de 1985.- Fernando Ortiz Arana, Presidente.- Rúbrica.- Socorro Díaz Palacios, Sen. Presidenta.- Rúbrica.- Jua (sic) Moisés Calleja, Dip. Secretario.- Rúbrica.- Guillermo Mercado Romero, Sen. Secretario.- Rúbrica.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento.
+
+OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.
+
+NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto.
