@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1989-12-28"
+last_updated: "1990-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -64,15 +64,13 @@ Al valor de los actos o actividades que a continuación se señalan, se aplicar�
 
 I.- En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
-A).- Aguas envasadas y refrescos, en envases cerrados .......... 15.7%
+A).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-B).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos .......... 40%
+B).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+C).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-C).- Concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos .......... 20%
-
-D).- Cerveza .......... 21.5%
+D).- Cerveza ......... 21.5%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -92,7 +90,7 @@ H).- Tabacos labrados:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
+2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ........... 20.9%
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -100,7 +98,7 @@ I).- Petrolíferos .......... 25%
 
 II.- En la prestación de los siguientes servicios:
 
-A).-Seguros individuales en operaciones de vida ......... 3%
+A).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 B).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -112,17 +110,21 @@ b).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 C).- Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenaión (sic) de los bienes señalados en la fracción I de este artículo; en estos casos la tasa aplicable será la que corresponda al bien de que se trate. No se pagará el impuesto cuando se trate de las enajenaciones a que se refiere el artículo 8o. de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, incluso cuando se exporten para enajenarlos en el extranjero ......... 0%.
+III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo que realicen los productores o envasadores de los mismos, las empresas de comercio exterior a que se refiere el párrafo siguiente, así como aquéllos que celebren convenio con las empresas productoras o envasadoras y cumplan con los requisitos que al efecto dé a conocer mediante reglas de carácter general la Secretaría de Hacienda y Crédito Público, inclusive cuando dichos bienes se exporten para enajenarlos en el extranjero ......... 0%
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Para los efectos de esta Ley, se asimila a la exportación la enajenación de los bienes a que se refiere la fracción I de este artículo realizada por los productores o envasadores a empresas de comercio exterior, siempre que dichas enajenaciones cumplan con las reglas que al efecto dicte la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general. Se consideran empresas de comercio exterior, únicamente aquéllas cuyos bienes terminados que enajenen en México sean en su totalidad importados, y los que adquieran en el país se destinen totalmente a la exportación.
 
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Aguas envasadas, las que contienen sustancias minerales, así como las potables gasificadas y envasadas.
+I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-II.- Refrescos, las bebidas no fermentadas, elaboradas con agua, jugo, pulpa, extractos o esencias de frutas o con cualquiera otra materia prima, gasificados o sin gas.
+II.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 III.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -162,17 +164,15 @@ XII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 XIII.- Gas avión, el combustible para avión que no contenga dicloruro de etileno y su punto de congelación sea inferior a menos de 60° centígrados.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XIV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-XIV.- Seguros individuales en operaciones de vida, los que así defina la Ley General de Instituciones de Seguros.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+XV.- Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, obtenida por destilación de mostos fermentados provenientes de carbohidratos, con graduación mayor de 55º G.L., a una temperatura de 15º C.
 
-XV.- Alcohol, el que así define la Ley del Impuesto sobre Adquisición de Azúcar, Cacao y Otros Bienes.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-XVI.- Petrolíferos, los combustibles líquidos o gaseosos, aceites, grasas y lubricantes, derivados del petróleo.
+XVI.- Petrolíferos, los combustibles líquidos o gaseosos derivados del petróleo, excepto aceites, grasas y lubricantes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -186,7 +186,9 @@ Para que sea acreditable el impuesto especial sobre producción y servicios debe
 
 I.- Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, con motivo de la enajenación o exportación de bienes.
 
-II.- Que los bienes se enajenen o exporten sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados, así como de envasadores en el caso de los bienes a que se refieren los incisos B ) y C) de la fracción I del artículo 2o.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+II.- Que los bienes se enajenen o exporten sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -208,9 +210,9 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 El impuesto se calculará por ejercicios fiscales, excepto en el caso de importaciones ocasionales de bienes en el que se estará a lo dispuesto en el artículo 16 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de seguros y las sociedades mercantiles efectuarán pagos provisionales a más tardar el día 7 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Tratándose de los demás contribuyentes efectuarán dichos pagos a más tardar el día 15 de cada uno de los meses del ejercicio. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
+Los organismos descentralizados que realicen preponderantemente actividades empresariales y las sociedades mercantiles efectuarán pagos provisionales a más tardar el día 7 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Tratándose de los demás contribuyentes efectuarán dichos pagos a más tardar el día 15 de cada uno de los meses del ejercicio. El pago provisional será la diferencia entre el impuesto que corresponda al total de actividades realizadas en el mes de calendario anterior, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
 
 Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlos contra el impuesto a su cargo que le corresponda en los pagos provisionales siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración de pago provisional de su ejercicio no se podrán acreditar en declaraciones posteriores.
 
@@ -258,17 +260,15 @@ La donación no se considera transmisión gravada, salvo que la realicen empresa
 
 No se pagará el impuesto establecido en esta Ley, en las enajenaciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-I.- Jugo de fruta en estado natural.
+I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 II.- Aguamiel y productos derivados de su fermentación.
 
 III.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEPTIMO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES D.O.F. 26 DE DICIEMBRE DE 1990.</small>
 
-IV.- Las que se efectúen al público en general salvo que el enajenante sea productor, envasador o importador de los bienes que enajene o primer adquirente en el caso de cigarros así como las de comerciante en que la mayor parte del importe de sus enajenaciones provienen de las que realizan a personas que no forman parte de dicho público. No se considera enajenación al público en general aquélla en que se traslade en forma expresa y por separado este impuesto y el de valor agregado. Lo dispuesto en esta fracción no es aplicable a la enajenación de petrolíferos.
+IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 V.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -281,6 +281,16 @@ VI.- Gas avión, a excepción de las que realice Petróleos Mexicanos.
 VII.- Las de alcohol desnaturalizado.
 
 VIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO QUINTO TRANSITORIO DE LA LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES D.O.F. 26 DE DICIEMBRE DE 1990.</small>
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 8o.
+
+B (SIC).- No estarán obligadas al pago del impuesto especial sobre producción y servicios por la enajenación de bienes que efectúen al público en general las personas físicas que en el año de calendario anterior hayan obtenido ingresos y tenido o utilizado activos que no excedan, respectivamente, de trescientos millones de pesos y de una cantidad equivalente a 15 veces el salario mínimo general del área geográfica del contribuyente elevado al año. El límite en moneda nacional antes citado se actualizará en los términos del artículo 7º-C de la Ley del Impuesto sobre la Renta y el valor de los activos se determinará de conformidad con la Ley del Impuesto al Activo.
+
+Los contribuyentes a que se refiere este artículo, están obligados a recabar y conservar la documentación comprobatoria de las adquisiciones que efectúen.
 
 ###### ARTICULO 9o.
 
@@ -326,13 +336,11 @@ I.- Las que en los términos de la legislación aduanera no lleguen a consumarse
 
 II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante disposiciones de carácter general, en su caso, establezca la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III.- La de los bienes señalados en las fracciones I y II del artículo 8o. de esta Ley.
+III.- La de los bienes señalados en las fracciones II y VII del artículo 8o. de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-IV.- La de alcohol desnaturalizado.
+IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
@@ -342,7 +350,9 @@ VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último impuesto y de los demás que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-En el caso de bienes por los que no se esté obligado al pago del impuesto general de importación, se considerará como valor el que aparezca en la factura comercial, adicionado en su caso con los impuestos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Tratándose de bienes por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere esta Ley será el que se determine conforme a lo previsto en el primer párrafo de este artículo, considerando el impuesto general de importación que se hubiera tenido que pagar de haberse aplicado la tasa general referida.
 
 ###### ARTICULO 15.
 
@@ -352,23 +362,21 @@ Cuando se trate de bienes por los que no se esté obligado al pago del impuesto 
 
 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponda conforme a esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+En la adquisición de los marbetes a que se refiere la fracción IV del artículo 19 de esta Ley, se pagarán 500.00 por cada uno. De dicho pago, 450.00 pesos podrán ser acreditados al efectuar el pago a que se refiere el primer párrafo de este artículo y la cantidad restante, tendrá el carácter de derecho por la adquisición de marbetes que se destinará a la Secretaría de Hacienda y Crédito Público para sufragar el costo de los mismos.
+
 ###### ARTICULO 16.
 
 Cuando se importe un bien en forma ocasional por el que deba pagarse el impuesto establecido en esta Ley, el pago se hará en los términos del artículo anterior y tendrá el carácter de definitivo.
 
 ### CAPITULO IV. De la Prestación de Servicios
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 17.
 
-En la prestación de servicios se tendrá obligación de pagar el impuesto conforme a lo siguiente:
-
-I.- Tratándose de seguros, las primas correspondientes darán lugar al pago del impuesto en el mes en que se paguen.
-
-II.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-III.- En los demás casos, en el momento en que sean exigibles las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
+En la prestación de servicios se tendrá la obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
 
 ###### ARTICULO 18.
 
@@ -398,9 +406,9 @@ Cuando se trate de enajenación de petrolíferos, a excepción de las que realic
 
 III.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley, excepto en los pagos provisionales tratándose de importación de bienes. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, semanal, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IV.- Los importadores de bebidas alcohólicas con excepción de cerveza deberán adherir marbetes a los envases que las contengan.
+IV.- Los importadores de bebidas alcohólicas, con excepción de cerveza, deberán adherir marbetes a los envases que las contengan, a más tardar dentro de los quince días siguientes a su importación.
 
 V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -462,13 +470,15 @@ Si de la aplicación de cualquiera de los métodos antes mencionados, se determi
 
 Las autoridades fiscales podrán determinar presuntivamente que se enajenaron los bienes que el contribuyente declara como mermas en los procesos de producción, envasamiento o comercialización, cuando éstas excedan de los siguientes porcientos:
 
-I.- 3%, en aguas envasadas y refrescos.
+I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 II.- 12.3%, en cerveza.
 
 III.- 5%, en las bebidas alcohólicas, distintas de la cerveza, que se añejen en barricas que se encuentren en lugares cubiertos, 10% cuando dichas barricas se encuentren en lugares descubiertos y 1.5% cuando el añejamiento se realice por otros sistemas; y 1% por su envasamiento.
 
-IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV.- 0.74% en gasolina, sobre volúmenes adquiridos.
 
 Para determinar el valor en que se enajenaron los bienes, se considerará que éstos se enajenaron al precio más alto en que el contribuyente venda dichos productos.
 
@@ -971,5 +981,37 @@ La presente Ley entrará en vigor del día 1o. de enero de 1990.
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Para efectos de lo indicado por el artículo anterior, se estará a lo dispuesto por las siguientes disposiciones transitorias:
+
+I.- Se deroga a partir del 1o. de enero de 1992, la fracción IV del artículo 8o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+II.- La reforma a la fracción IV del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor a partir del 1o. de marzo de 1991.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO OCTAVO.
+
+Durante al año de 1991, se aplicarán en materia del impuesto especial sobre producción y servicios, las siguientes disposiciones:
+
+I.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1991 tengan un precio máximo al público que no exceda de $30.00 por cigarro.
+
+II.- Tratándose de la importación de petrolíferos, el valor que se tomará como base para determinar el pago del impuesto especial sobre producción y servicios será el precio que Petróleos Mexicanos utilice como base de los petrolíferos producidos en México.
+
+III.- Lo dispuesto en el ARTICULO DECIMO SEXTO, fracción IV de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1988, se seguirá aplicando en materia del impuesto especial sobre producción y servicios, durante el año de 1991, salvo lo establecido por los incisos 4) y 5) de la citada fracción.
+
+IV.- Cuando en un lugar o región del país se establezca un sobreprecio al precio de la gasolina, no se estará obligado al pago del impuesto especial sobre producción y servicios por dicho sobreprecio en la enajenación.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+QUINTO.- Lo dispuesto en los artículos 2o.-D de la Ley del Impuesto al Valor Agregado y 8o.-B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
 
 ## TRANSITORIO
