@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-las-defensorias-de-oficio-del-estado-de-2660"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-17"
-last_updated: "1992-05-17"
+last_updated: "2003-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DE LAS DEFENSORIAS DE OFICIO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE ASESORIA Y DEFENSORIA PUBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 17 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 17 de mayo de 1992.
 
@@ -118,3 +120,39 @@ Aguascalientes, Ags., 13 de mayo de 1992.
 Miguel Angel Barberena Vega.
 
 EL SECRETARIO GENERAL DE GOBIERNO, Ing. José de Jesús Infante de Alba.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+La Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica de las Defensorías de Oficio del Estado de Aguascalientes, expedida el 30 de abril de 1992 y publicada en el Periódico Oficial del Estado, de fecha 17 de mayo de 1992.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos y materiales adscritos a la Comisión Estatal de Derechos Humanos que correspondan a la defensoría de oficio pasarán al Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes. Los derechos laborales del personal de base que preste sus servicios en la citada Comisión, serán respetados en todos sus términos. Los asuntos penales que estén a cargo de la Comisión pasarán al Instituto.
+
+###### ARTICULO CUARTO.
+
+El Consejo de la Judicatura del Estado, conforme a sus facultades deberá nombrar a los miembros de la Junta de Gobierno en un plazo que no exceda de treinta días contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTICULO QUINTO.
+
+Dentro de los cuarenta días siguientes a la entrada en vigor de la presente Ley, todos los miembros del Instituto deberán estar ejerciendo sus funciones y brindando los servicios previstos en esta Ley.
+
+###### ARTICULO SEXTO.
+
+Dentro de los tres meses siguientes a la instalación de la Junta de Gobierno del Instituto se deberá aprobar el Reglamento Interior del propio Instituto y emitir las disposiciones generales de su competencia.
+
+###### ARTICULO SEPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO OCTAVO.
+
+El Ejecutivo del Estado preverá una partida especial para solventar las erogaciones necesarias para el funcionamiento adecuado del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes.
