@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2002-12-31"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -185,7 +185,7 @@ Las autoridades fiscales podrán habilitar los días inhábiles, lo que deberá 
 
 La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 07:30 y las 18:00 horas. Toda diligencia iniciada en horas hábiles, podrá concluirse en hora inhábil sin afectar su validez.
 
-Las autoridades fiscales, para la práctica de visitas domiciliarias, intervenciones, actuaciones relativas al procedimiento administrativo de ejecución o de notificaciones, podrán habilitar los días u horas inhábiles cuando el sujeto obligado o responsable con quien se vaya a practicar la diligencia realice las actividades por las que se deben pagar contribuciones; en días u horas inhábiles. De igual forma procederá la indicada habilitación cuando el sujeto obligado o responsable no atienda al citatorio que al efecto se le hubiere dejado, con la finalidad de llevar a cabo la diligencia de que se trate, en días y horas hábiles.
+Las autoridades fiscales, para la práctica de visitas domiciliarias, intervenciones, actuaciones relativas al procedimiento administrativo de ejecución o de notificaciones, podrán habilitar los días u horas inhábiles cuando el sujeto obligado o responsable con quien se vaya a practicar la diligencia realice las actividades por las que se deben pagar contribuciones, en días u horas inhábiles. De igual forma procederá la indicada habilitación cuando el sujeto obligado o responsable no atienda al citatorio que al efecto se le hubiere dejado, con la finalidad de llevar a cabo la diligencia de que se trate, en días y horas hábiles.
 
 También se podrán efectuar las habilitaciones a que se refiere el párrafo anterior, para la continuación de una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad o de los bienes del sujeto obligado o responsable, siempre que exista la sospecha de su alteración u ocultamiento, en caso de suspenderse la diligencia sin haberlos asegurado.
 
@@ -241,7 +241,7 @@ Para la determinación de los créditos fiscales, se considerarán incluso, las 
 
 ###### ARTICULO 16.
 
-Los créditos fiscales provenientes de los ingresos tributarios comprendidos en las fracciones I a III del artículo 3 de este Código, excepto los recargos, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades correspondientes. Dicho factor será el que resulte de dividir el índice nacional de precios al consumidor publicado por el Banco de México en el Diario Oficial de la Federación, correspondiente al mes anterior al más reciente del período; entre el citado índice, determinado en el mes anterior al más antiguo de dicho período.
+Los créditos fiscales provenientes de los ingresos tributarios comprendidos en las fracciones I a III del artículo 3 de este Código, excepto los recargos, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades correspondientes. Dicho factor será el que resulte de dividir el índice nacional de precios al consumidor publicado por el Banco de México en el Diario Oficial de la Federación, correspondiente al mes anterior al más reciente del período, entre el citado índice, determinado en el mes anterior al más antiguo de dicho período.
 
 En los casos en que el índice nacional de precios al consumidor del mes anterior al más reciente del período no haya sido publicado, se tomará el último índice mensual publicado.
 
@@ -372,6 +372,14 @@ Para efectos de pago de los créditos a cargo de los sujetos pasivos u obligados
 Se aceptarán como medios de pago, el efectivo y los cheques certificados o de caja, así como los cheques de la cuenta personal del obligado, librado a favor de la Secretaría de Finanzas del Gobierno del Estado y a cargo de institución de crédito del domicilio correspondiente a la oficina en que deba efectuarse dicho pago. La Secretaría de Finanzas podrá, en su caso, autorizar algún otro medio o forma de pago.
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Cuando en este Código se haga referencia a salario mínimo, se entenderá el último salario mínimo general vigente en el Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los contribuyentes podrán efectuar el pago de sus contribuciones mediante transferencia electrónica de fondos, a favor de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, de conformidad con las reglas de carácter general que al efecto se expidan.
 
 ###### ARTICULO 26.
 
@@ -633,7 +641,7 @@ VIII Llevar y mantener un sistema de contabilidad adecuado en el domicilio que p
 
 Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de los sujetos pasivos por un plazo mayor de un mes, éstos deberán continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
 
-Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que llevan los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
+Quedan incluídos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que llevan los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción VIII de este artículo, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con disposiciones fiscales.
 
@@ -745,7 +753,9 @@ Si el obligado presenta la declaración omitida antes de que se le haga efectiva
 
 II Embargar precautoriamente los bienes o la negociación, cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad, en los términos de la fracción III de este artículo, por una misma omisión, salvo tratándose de declaraciones, en que bastará con no atender un requerimiento. El embargo quedará sin efecto cuando el obligado cumpla con el requerimiento o tres meses después de practicado, si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación; y
 
-III Requerir la presentación del documento omitido, en un plazo de quince días para el primero y de seis días para los subsecuentes. Si no se atiende el requerimiento, se impondrá la multa que corresponda en términos del presente Código.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido, en un plazo de quince días para el primero y seis días para los subsecuentes requerimientos. Si no se atiende el requerimiento, se impondrá la multa que corresponda en términos de lo dispuesto en la fracción I del artículo 81 del presente Código.
 
 Tratándose de declaraciones, será una multa por cada obligación omitida. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
 
@@ -965,7 +975,7 @@ VII Dentro del plazo para desvirtuar los hechos u omisiones asentados en el ofic
 
 ###### ARTICULO 68.
 
-Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación; plazo que podrá ampliarse por un periodo igual hasta por una sola ocasión por el superior jerárquico del servidor público que haya expedido el oficio mediante el cual se notifique la orden respectiva. En su caso, el plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción III del artículo 66 de este Código.
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación, plazo que podrá ampliarse por un periodo igual hasta por una sola ocasión por el superior jerárquico del servidor público que haya expedido el oficio mediante el cual se notifique la orden respectiva. En su caso, el plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción III del artículo 66 de este Código.
 
 Los plazos para concluir las visitas domiciliarias o las revisiones que se efectúen en las oficinas de las propias autoridades fiscales a que se refiere el primer párrafo, y los plazos de las prorrogas que proceden conforme a este artículo, se suspenderán en los casos de:
 
@@ -1029,7 +1039,7 @@ VI No se impondrán sanciones cuando se haya incurrido en infracción a causa de
 
 VII La aplicación de las sanciones por infringir las disposiciones fiscales, se hará independientemente de que se exija el cumplimiento respectivo y en su caso, el entero de las contribuciones adeudadas y sus accesorios; así como de las penas o sanciones que llegaren a imponer las autoridades judiciales; y
 
-VIII Para los efectos de este capítulo, se entiende por salario, el mínimo general diario de la zona económica correspondiente al domicilio del infractor, vigente en el momento en que se determina la infracción.
+VIII (DEROGADA, P.O. 30 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1121,15 +1131,25 @@ En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro 
 
 Son infracciones relacionadas con el registro local de contribuyentes las que a continuación se señalan, por las que se impondrá la sanción que se indica:
 
-I No solicitar la inscripción, cuando se esté obligado a ello o hacerlo extemporáneamente, dará lugar a una multa por el equivalente de 100 a 150 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II No presentar los avisos a que se refiere la fracción III del artículo 47 de este Código o hacerlo extemporáneamente, dará lugar a una multa por el equivalente de 50 a 100 veces el salario;
+I No solicitar la inscripción, cuando se esté obligado a ello o hacerlo extemporáneamente, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
 
-III No citar la clave del registro estatal o utilizar alguna no asignada por la autoridad fiscal, en las manifestaciones y demás documentos presentados, dará lugar a una multa por el equivalente de 25 a 50 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda en términos del artículo 18 de este Código, dará lugar a una multa por el equivalente de 50 a 100 veces el salario; y
+II No presentar los avisos a que se refiere la fracción III del artículo 47 de este Código o hacerlo extemporáneamente, dará lugar a una multa por el equivalente de 50 a 100 veces el salario mínimo;
 
-V Proporcionar a las autoridades correspondientes, datos falsos, dará lugar a una multa por el equivalente de 100 a 150 veces el salario, sin perjuicio de las demás sanciones a que se haga acreedor.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III No citar la clave del registro estatal o utilizar alguna no asignada por la autoridad fiscal, en las manifestaciones y demás documentos presentados, dará lugar a una multa por el equivalente de 25 a 50 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IV Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda en términos del artículo 18 de este Código, dará lugar a una multa por el equivalente de 50 a 100 veces el salario mínimo; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+V Proporcionar a las autoridades correspondientes, datos falsos, dará lugar a una multa por el equivalente de 100 a 150 veces al salario mínimo, sin perjuicio de las demás sanciones a que se haga acreedor.
 
 ###### ARTICULO 81.
 
@@ -1137,91 +1157,155 @@ Son infracciones relacionadas con la obligación de pago de contribuciones, con 
 
 I No presentar o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, dará lugar a la imposición de las siguientes multas:
 
-a) De 25 a 50 veces el salario, para el primer requerimiento;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-b) De 51 a 100 veces el salario, para el segundo requerimiento; y
+a) De 25 a 50 veces el salario mínimo, para el primer requerimiento;
 
-c) De 101 a 150 veces el salario, para el tercer requerimiento;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II Tratándose de declaraciones o manifestaciones, dará lugar a una multa por el equivalente de 100 a 150 veces el salario; y
+b) De 51 a 100 veces el salario mínimo, para el segundo requerimiento; y
 
-III Por no expedir la documentación a que están obligados, con los requisitos previstos por las disposiciones fiscales, o expedirla con errores o incompleta, dará lugar a una multa por el equivalente de 100 a 150 veces el salario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+c) De 101 a 150 veces el salario mínimo, para el tercer requerimiento;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+II Tratándose de declaraciones o manifestaciones, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III Por no expedir la documentación a que están obligados, con los requisitos previstos por las disposiciones fiscales, o expedirla con errores o incompleta, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
 
 ###### ARTICULO 82.
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las que a continuación se indican, por las cuales se impondrá la sanción que igualmente se señala:
 
-I No llevar contabilidad, dará lugar a una multa por el equivalente de 150 a 200 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II No llevar algún libro o registro especial a que obliguen las leyes fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario;
+I No llevar contabilidad, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
 
-III Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalen, dará lugar a una multa por el equivalente de 80 a 100 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos, dará lugar a una multa equivalente de 80 a 100 veces el salario; y
+II No llevar algún libro o registro especial a que obliguen las leyes fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
 
-V No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales, dará lugar a una multa por el equivalente de 80 a 100 veces el salario.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalen, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IV No hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+V No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo.
 
 ###### ARTICULO 83.
 
 Son infracciones relacionadas con el ejercicio de las facultades de comprobación, las que a continuación se indican, por las que se impondrá la sanción que se señala:
 
-I Oponerse por cualquier medio a que se practiquen las visitas de inspección, de auditoría o intervenciones en el domicilio fiscal; no suministrar los datos o informes que legalmente exijan las autoridades fiscales; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores, y en general, los elementos que se requieran para verificar el cumplimiento de obligaciones fiscales propias o de terceros, dará lugar a una multa por el equivalente de 100 a 150 veces el salario; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II No conservar la contabilidad o parte de ella, así como los documentos y correspondencia que les sean dejados en calidad de depósito por los visitadores, al estarse practicando visitas de inspección, intervención o auditoría, dará lugar a una multa por el equivalente de 100 a 150 veces el salario.
+I Oponerse por cualquier medio a que se practiquen las visitas de inspección, de auditoría o intervenciones en el domicilio fiscal; no suministrar los datos o informes que legalmente exijan las autoridades fiscales; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores, y en general, los elementos que se requieran para verificar el cumplimiento de obligaciones fiscales propias o de terceros, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+II No conservar la contabilidad o parte de ella, así como los documentos y correspondencia que les sean dejados en calidad de depósito por los visitadores, al estarse practicando visitas de inspección, intervención o auditoría, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
 
 ###### ARTICULO 84.
 
-Son infracciones cuya responsabilidad corresponde a los Jueces, directores del Registro Público de la Propiedad y del Comercio, notarios, corredores y en general a toda aquella persona que lleve la fe pública, las que a continuación se indican, señalándose las sanciones correspondientes:
+Son infracciones cuya responsabilidad corresponde a los Jueces, directores del Registro Público de la Propiedad y del Comercio, notarios, corredores y en general a toda aquella persona que lleve la fé pública, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I Expedir o autorizar sin que estén pagadas las contribuciones correspondientes, los testimonios de escrituras, documentos, minutas o cualquier contrato otorgado ante su fe, u omitir la manifestación de tales actos, o efectuarla, pero sin sujetarse a lo previsto por las disposiciones fiscales, dará lugar a una multa por el equivalente de 100 a 150 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II No proporcionar informes o datos, o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales aplicables o cuando lo pidan las autoridades competentes o presentarlos incompletos, inexactos, alterados o falsificados, dará lugar a una sanción por el equivalente de 50 a 100 veces el salario;
+I Expedir o autorizar sin que estén pagadas las contribuciones correspondientes, los testimonios de escrituras, documentos, minutas o cualquier contrato otorgado ante su fé, u omitir la manifestación de tales actos, o efectuarla, pero sin sujetarse a lo previsto por las disposiciones fiscales, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
 
-III Extender constancias de haberse cumplido con las obligaciones fiscales en los casos en que intervengan, cuando no proceda su otorgamiento, dará lugar a una multa por el equivalente de 100 a 150 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV Traficar ilegalmente con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, por cada uno, dará lugar a una multa por el equivalente de 300 a 500 veces el salario;
+II No proporcionar informes o datos, o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales aplicables o cuando lo pidan las autoridades competentes o presentarlos incompletos, inexactos, alterados o falsificados, dará lugar a una sanción por el equivalente de 50 a 100 veces el salario mínimo;
 
-V Cooperar con los infractores o facilitarles en cualquier forma, la omisión total o parcial en el pago de contribuciones, mediante alteraciones, ocultamientos y otros hechos y omisiones, dará lugar a una multa por el equivalente de 300 a 500 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III Extender constancias de haberse cumplido con las obligaciones fiscales en los casos en que intervengan, cuando no proceda su otorgamiento, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IV Traficar ilegalmente con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, por cada uno, dará lugar a una multa por el equivalente de 300 a 500 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+V Cooperar con los infractores o facilitarles en cualquier forma, la omisión total o parcial en el pago de contribuciones, mediante alteraciones, ocultamientos y otros hechos y omisiones, dará lugar a una multa por el equivalente de 300 a 500 veces el salario mínimo;
 
 VI No enterar dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, dará lugar a una multa de un 50 a un 100% del importe del crédito fiscal y los accesorios legales respectivos; e
 
-VII Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VII Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario mínimo.
 
 ###### ARTICULO 85.
 
 Son infracciones cuya responsabilidad recae en los servidores públicos del estado, las que a continuación se indican, por las que se impondrán las sanciones que igualmente se señalan:
 
-I Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos establecidos en las disposiciones fiscales y en general, no vigilar el cumplimiento de éstas, dará lugar a una multa por el equivalente de 50 a 100 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II Extender actas, legalizar firmas, expedir certificados o certificaciones, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, dará lugar a una multa por el equivalente de 80 a 100 veces el salario;
+I Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos establecidos en las disposiciones fiscales y en general, no vigilar el cumplimiento de éstas, dará lugar a una multa por el equivalente de 50 a 100 veces el salario mínimo;
 
-III Recibir el pago de un crédito fiscal y no contabilizar o enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, dará lugar a una multa por el equivalente de 50 a 100 veces el salario, más los accesorios legales que se hubieren causado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, o presentar cualesquiera de los elementos a que se contrae esta fracción, alterados o falsificados, dará lugar a una multa por el equivalente de 50 a 80 veces el salario;
+II Extender actas, legalizar firmas, expedir certificados o certificaciones, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
 
-V Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se han practicado visitas de inspección, intervenciones o auditorías, o incluir en las actas relativas datos falsos, dará lugar a una multa por el equivalente de 150 a 200 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VI Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos manifestados por los sujetos obligados o responsables, o aprovecharse de ellos, dará lugar a una multa por el equivalente de 80 a 100 veces el salario;
+III Recibir el pago de un crédito fiscal y no contabilizar o enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, dará lugar a una multa por el equivalente de 50 a 100 veces el salario mínimo, más los accesorios legales que se hubieren causado;
 
-VII Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VIII Exigir bajo el título de cooperación, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias del cargo, dará lugar a una multa por el equivalente de 150 a 200 veces el salario;
+IV No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, o presentar cualesquiera de los elementos a que se contrae esta fracción, alterados o falsificados, dará lugar a una multa por el equivalente de 50 a 80 veces el salario mínimo;
 
-IX Adquirir los bienes objeto de un remate efectuado por el fisco local, por sí o por medio de interpósita persona, dará lugar a una multa por el equivalente de 80 a 100 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-X Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, dará lugar a una multa por el equivalente de 100 a 150 veces el salario;
+V Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se han practicado visitas de inspección, intervenciones o auditorías, o incluir en las actas relativas datos falsos, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
 
-XI Omitir la comprobación de la exactitud en los cálculos de contribuciones, sometidas por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquéllos, si ello entraña omisión en el entero de una obligación, dará lugar a una multa por el equivalente de 80 a 100 veces el salario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-XII Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, dará lugar a una multa por el equivalente de 100 a 150 veces el salario;
+VI Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos manifestados por los sujetos obligados o responsables, o aprovecharse de ellos, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
 
-XIII No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, dará lugar a una multa por el equivalente de 300 a 500 veces el salario; e
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-XIV Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario.
+VII Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-XV Por la pérdida o extravío de formas valoradas de 10 a 20 salarios mínimos generales diarios vigentes de la zona económica que corresponda por cada formato.
+VIII Exigir bajo el título de cooperación, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias del cargo, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IX Adquirir los bienes objeto de un remate efectuado por el fisco local, por sí o por medio de interpósita persona, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+X Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XI Omitir la comprobación de la exactitud en los cálculos de contribuciones, sometidas por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquéllos, si ello entraña omisión en el entero de una obligación, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XII Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XIII No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, dará lugar a una multa por el equivalente de 300 a 500 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XIV Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario mínimo; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XV Por la pérdida o extravío de formas valoradas de 10 a 20 salarios mínimos, por cada formato.
 
 ###### ARTICULO 86.
 
@@ -1263,7 +1347,9 @@ Los procesos por los delitos fiscales a que se refiere este capítulo, se sobres
 
 Respecto de los delitos fiscales en que sea necesaria querella o declaración de perjuicio o daño, será la propia Secretaría de Finanzas la que la formule y en su caso, cuantifique. Esta determinación se presentará durante la tramitación del proceso, pero en todo caso, antes de que el Ministerio Público formule sus conclusiones. Esta cuantificación sólo procederá para efectos penales.
 
-Para los efectos de este capítulo, se entiende por salario, el mínimo general diario de la zona económica correspondiente al domicilio fiscal del infractor, vigente en el momento de la comisión del delito. Se considerarán mercancías, los productos, artículos y cualesquiera otros bienes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Se considerarán mercancías, los productos, artículos y cualesquiera otros bienes.
 
 ###### ARTICULO 92.
 
@@ -1363,7 +1449,9 @@ VII Confeccionar o utilizar facturas, notas, comprobantes u otros documentos ap�
 
 VIII Beneficiarse sin tener derecho a ello, de un subsidio o incentivo fiscal, o aplicarlos a fines distintos a aquellos para los que fueron otorgados.
 
-El delito de defraudación fiscal se penalizará con prisión de tres meses a seis años, si el monto de lo defraudado no excede del importe de doscientas veces el salario; cuando exceda, la pena será de tres a nueve años de prisión.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El delito de defraudación fiscal se penalizará con prisión de tres meses a seis años, si el monto de lo defraudado no excede del importe de doscientas veces el salario mínimo; cuando exceda, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -1377,13 +1465,17 @@ Comete el delito de quebrantamiento de sellos en materia fiscal, quien sin autor
 
 Por la comisión del presente delito, se impondrá la pena de un mes a cinco años de prisión.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 105.
 
-Se impondrá pena de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede del importe de doscientas veces el salario; cuando exceda, la pena será de tres a nueve años de prisión.
+Se impondrá pena de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede el importe de doscientas veces el salario mínimo; cuando exceda, la pena será de tres a nueve años de prisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 106.
 
-Se impondrá pena de tres meses a seis años de prisión, a quien se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de doscientas veces el salario; cuando exceda, la pena será de tres a nueve años de prisión.
+Se impondrá pena de tres meses a seis años de prisión, a quien se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de doscientas veces el salario mínimo; cuando exceda, la pena será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -1449,9 +1541,11 @@ Las notificaciones por edictos, se tendrán por hechas en la fecha que correspon
 
 Las notificaciones por estrados, se harán fijando durante tres días el documento que se pretenda notificar, en un sitio abierto al público en las oficinas de la autoridad que la efectúe; debiéndose dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del cuarto día siguiente a aquel en que se hubiera fijado el documento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 115.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios por notificación, que serán a cargo de quien o quienes incurrieron en el incumplimiento, equivalentes a la cantidad que resulte mayor entre el 5% del importe total del crédito, incluidos los recargos, y la equivalente a 5 salarios mínimos generales diarios vigentes de la zona económica que corresponda. Si la obligación de que se trata no fuere cuantificable o no diere lugar a pago, el monto de los indicados gastos será por el equivalente a los 5 salarios mínimos diarios mencionados. En ningún caso el monto de los referidos honorarios podrá exceder del máximo previsto en el artículo 122 del presente Código.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios por notificación, que serán a cargo de quien o quienes incurrieron en el incumplimiento, equivalentes a la cantidad que resulte mayor entre el 5% del importe total del crédito, incluidos los recargos, y la equivalente a 5 salarios mínimos. Si la obligación de que se trata no fuere cuantificable o no diere lugar a pago, el monto de los indicados gastos será por el equivalente a los 5 salarios mínimos. En ningún caso el monto de los referidos honorarios podrá exceder del máximo previsto en el artículo 122 del presente Código.
 
 ## TITULO SEPTIMO. DE LA GARANTIA DEL INTERES FISCAL
 
@@ -1557,7 +1651,9 @@ Cuando sea necesario emplear el procedimiento administrativo de ejecución para 
 
 Por concepto de gastos de ejecución, se cubrirá un 10% del crédito fiscal, incluida su actualización, cuando así proceda; exceptuándose los recargos.
 
-En ningún caso los gastos de ejecución, incluyendo las erogaciones extraordinarias por concepto de transporte y guarda de los bienes embargados, avalúos, publicación de convocatorias, edictos, inscripción de gravámenes en el Registro Público de la Propiedad o el que corresponda, según la naturaleza de los bienes, así como por la expedición de certificados; honorarios de depositarios, peritos, interventores y del personal que éstos contraten, podrá exceder de la cantidad equivalente a dos salarios mínimos generales de la zona económica correspondiente, elevado al año.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+En ningún caso los gastos de ejecución, incluyendo las erogaciones extraordinarias por concepto de transporte y guarda de los bienes embargados, avalúos, publicación de convocatorias, edictos, inscripción de gravámenes en el Registro Público de la Propiedad o el que corresponda, según la naturaleza de los bienes, así como por la expedición de certificados; honorarios de depositarios, peritos, interventores y del personal que éstos contraten, podrá exceder de la cantidad equivalente a dos salarios mínimos, elevado al año.
 
 Los gastos de ejecución, se determinarán por la autoridad ejecutora y deberán pagarse conjuntamente con el crédito fiscal.
 
@@ -1625,9 +1721,15 @@ La responsabilidad de los depositarios cesará con la entrega de los bienes emba
 
 El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, previo requerimiento que se haga al contribuyente para que amplíe la garantía del interés fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 131.
 
-El deudor, o en su defecto la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos y a designar los bienes que deban embargarse:
+La persona con quien se entienda la diligencia de embargo podrá designar dos testigos que asistan a la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Asimismo, tendrá derecho a señalar los bienes que deban embargarse:
 
 I En los casos de embargo en la vía administrativa, los bienes inmuebles o las negociaciones; y
 
@@ -1648,6 +1750,10 @@ f) Bienes raíces;
 g) Negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras o silvícolas; y
 
 h) Créditos o derechos no comprendidos en el inciso b) de esta fracción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Si la persona con quien se entiende la diligencia no designa los testigos o al término de la diligencia éstos se negaren a firmar, el ejecutor los designará para el primer caso, y para el segundo así lo hará constar en el acta respectiva sin que tales circunstancias afecten la legalidad del embargo.
 
 ###### ARTICULO 132.
 
@@ -1787,7 +1893,7 @@ I Rendir cuentas mensuales comprobadas, a la oficina ejecutora; y
 
 II Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la caja de la oficina ejecutora conforme se realice la recaudación.
 
-El Secretario de Finanzas, el Director de Ingresos o los Recaudadores de Rentas podrán proceder al remate de la negociación intervenida cuando lo recaudado en el trimestre no cubra por lo menos el 24% del crédito fiscal. En el caso de negociaciones cuyos ingresos se obtengan en un período determinado del año, se tomará como porciento (sic) el correspondiente al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento (sic) del crédito que resulte.
+El Secretario de Finanzas, el Director de Ingresos o los Recaudadores de Rentas podrán proceder al remate de la negociación intervenida cuando lo recaudado en el trimestre no cubra por lo menos el 24% del crédito fiscal. En el caso de negociaciones cuyos ingresos se obtengan en un período determinado del año, se tomará como porciento (sic)el correspondiente al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento (sic) del crédito que resulte.
 
 ###### ARTICULO 144.
 
@@ -1801,9 +1907,11 @@ En caso de que la negociación que se pretenda intervenir ya lo estuviera por ma
 
 La intervención se levantará cuando el crédito fiscal se hubiere satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos, la oficina ejecutora comunicará el hecho al registro público que corresponda, para que se cancele la inscripción respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 147.
 
-El personal designado por la Secretaría de Finanzas del Gobierno del Estado para la intervención en la celebración de diversiones y espectáculos públicos, tendrá las facultades y obligaciones que al efecto se consignan en la Ley de Hacienda del Estado y en este caso, se causarán a cargo del sujeto pasivo o responsable, los honorarios correspondientes, que serán equivalentes a la cantidad que resulte mayor entre el 1.5% del ingreso total obtenido y 15 veces el salario mínimo diario de la zona económica que corresponda al domicilio o lugar en que se realice el evento de que se trate y su liquidación deberá efectuarse conjuntamente con el impuesto que por el mismo se hubiere causado. Para estos efectos, los honorarios se causarán por cada día en que deba llevarse a cabo la indicada intervención.
+El personal designado por la Secretaría de Finanzas del Gobierno del Estado para la intervención en la celebración de diversiones y espectáculos públicos, tendrá las facultades y obligaciones que al efecto se consignan en la Ley de Hacienda del Estado y en este caso, se causarán a cargo del sujeto pasivo o responsable, los honorarios correspondientes, que serán equivalentes a la cantidad que resulte mayor entre el 1.5% del ingreso total obtenido y 15 veces el salario mínimo y su liquidación deberá efectuarse conjuntamente con el impuesto que por el mismo se hubiere causado. Para estos efectos, los honorarios se causarán por cada día en que deba llevarse a cabo la indicada intervención.
 
 #### SECCION CUARTA. DEL REMATE
 
@@ -1847,7 +1955,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzguen convenientes.
 
-En el caso de que el valor de los bienes exceda de una cantidad del equivalente a cuatro veces el salario mínimo general de la zona económica que corresponda, elevado al año, la convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los diarios locales de mayor circulación en el domicilio del deudor.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad del equivalente a cuatro veces el salario mínimo, elevado al año, la convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los diarios locales de mayor circulación en el domicilio del deudor.
 
 ###### ARTICULO 152.
 
@@ -2101,9 +2211,11 @@ IV Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurre
 
 Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 178.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa por el equivalente de 10 a 20 veces el salario mínimo general diario vigente en la entidad.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa por el equivalente de 10 a 20 veces el salario mínimo.
 
 ###### ARTICULO 179.
 
@@ -2210,3 +2322,7 @@ AL C.
 P.O. 31 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
