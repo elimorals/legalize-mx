@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-comision-estatal-del-deporte-y-atencion-a-2189
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2002-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1947 +21,671 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA COMISION ESTATAL DEL DEPORTE Y ATENCION A LA JUVENTUD
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DE LA COMISION ESTATAL DEL DEPORTE Y ATENCION A LA JUVENTUD
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2002.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
+Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
+AL MARGEN UN SELLO CON EL ESCUDO DE LA NACIÓN.- PODER EJECUTIVO.- GUANAJUATO.
 
-(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
+JUAN CARLOS ROMERO HICKS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 77 FRACCIONES II Y III Y 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE GUANAJUATO; Y EN OBSERVANCIA DE LO DISPUESTO POR LOS ARTÍCULOS 2o, 9o Y 38 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO, Y
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL.
+C O N S I D E R A N D O.
 
-MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+POR LO ANTERIORMENTE EXPUESTO Y CON FUNDAMENTO EN LAS DISPOSICIONES LEGALES Y CONSIDERACIONES PREVIAMENTE SEÑALADAS, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-Que la H. Asamblea Legislativa del Distrito Federal, IV Legislatura se ha servido dirigirme el siguiente:
+DECRETO GUBERNATIVO NÚMERO 58
 
-DECRETO
+###### ARTÍCULO ÚNICO.
 
-(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- IV LEGISLATURA)
+SE EXPIDE EL REGLAMENTO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, PARA QUEDAR EN LOS SIGUIENTES TÉRMINOS:
 
-ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+REGLAMENTO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD
 
-IV LEGISLATURA.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-D E C R E T A
+###### ARTÍCULO 1o.
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL.
+EL PRESENTE REGLAMENTO TIENE POR OBJETO REGULAR LA ORGANIZACIÓN, FUNCIONAMIENTO Y FACULTADES DE LAS UNIDADES ADMINISTRATIVAS QUE INTEGRAN LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD TIENE A SU CARGO EL DESPACHO DE LOS ASUNTOS QUE LE ENCOMIENDAN LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD DEL ESTADO DE GUANAJUATO, EL REGLAMENTO DE LA MISMA Y EL PRESENTE REGLAMENTO.
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+###### ARTÍCULO 2o.
 
-###### Artículo 1.
+LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, ESTARÁ SECTORIZADA A LA SECRETARÍA DE EDUCACIÓN.
 
-Las disposiciones de la presente Ley son de orden público, interés social y observancia general en la Ciudad de México.
+###### ARTÍCULO 3o.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD TENDRÁ SU SEDE EN LA CIUDAD DE GUANAJUATO, GUANAJUATO Y PODRÁ ESTABLECER OFICINAS EN OTRAS CIUDADES DEL ESTADO DE ACUERDO A LAS NECESIDADES PROPIAS DE SU OPERACIÓN Y SEGÚN LO PERMITA SU PRESUPUESTO.
 
-###### Artículo 2.
+###### ARTÍCULO 4o.
 
-El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el marco de los ordenamientos jurídicos aplicables de la Ciudad de México y lo previsto en el primero, segundo y tercer párrafos del artículo 1ro de la Constitución Política de los Estados Unidos Mexicanos, respetándose y garantizando los derechos humanos de las mujeres de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pro persona y progresividad establecidos en los Tratados Internacionales en materia de Derechos Humanos de las Mujeres.
+PARA EL ESTUDIO, PLANEACIÓN, EJECUCIÓN Y DESPACHO DE SUS ASUNTOS, LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD CONTARÁ CON LA SIGUIENTE ESTRUCTURA ADMINISTRATIVA:
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+I.- DIRECTOR GENERAL;
 
-###### Artículo 3.
+II.- DIRECCIÓN DE DESARROLLO DEL DEPORTE;
 
-Para efectos de la presente ley se entenderá:
+III.- DEPARTAMENTOS DE DESARROLLO DEL DEPORTE, QUE SERÁN:
 
-I. Acciones afirmativas: Las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
+a).- DEPARTAMENTO DE DEPORTE ESTUDIANTIL;
 
-II. Debida diligencia: La obligación de las personas que tienen la calidad de servidores públicos, las dependencias y entidades de la Ciudad de México, de dar respuesta eficiente, eficaz, oportuna y responsable para garantizar los derechos de las mujeres;
+b).- DEPARTAMENTO DE DEPORTE FEDERADO;
 
-III. Declaratoria de Alerta de Violencia contra las mujeres: conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+c).- DEPARTAMENTO DE DEPORTE PARA TODOS Y VINCULACIÓN;
 
-IV. Discriminación contra las mujeres: Toda distinción, exclusión o restricción que sufren las mujeres por razón de género, edad, salud, características físicas, posición social, económica, condición étnica, nacional, religiosa, opinión, identidad u orientación sexual, estado civil, o cualquier otra que atente contra su dignidad humana, que tiene por objeto menoscabar o anular el goce o ejercicio de sus derechos;
+d).- DEPARTAMENTO DE OLIMPIADAS JUVENILES;
 
-V. Empoderamiento de las mujeres: El proceso que permite el tránsito de las mujeres de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión hacia un estadio de conciencia, autodeterminación y autonomía, que se manifiesta en el ejercicio pleno de sus derechos y garantías;
+e).- DEPARTAMENTO DE OLIMPIADAS RURALES; Y
 
-VI. Fiscalía: La Fiscalía General de la Ciudad de México;
+f).- DEPARTAMENTO DE TALENTOS DEPORTIVOS Y DE ALTO RENDIMIENTO.
 
-VII. SEMUJERES: Secretaría de las Mujeres de la Ciudad de México;
+IV.- DIRECCIÓN DE VOZ JOVEN;
 
-VIII. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México;
+V.- DEPARTAMENTO DE VOZ JOVEN;
 
-IX. LUNAS: Unidades de Atención a mujeres víctimas de violencia que brindan asesoría psicológica y legal, formación para el liderazgo y servicios comunitarios, para promover la autonomía y la exigibilidad de derechos de las mujeres y niñas;
+VI.- DIRECCIÓN DE COMUNICACIÓN SOCIAL;
 
-X. Misoginia: Las conductas de odio contra las mujeres por el hecho de serlo;
+VII.- DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN;
 
-XI. Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo de ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
+VIII.- DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA;
 
-XII. Modalidades de violencia: Los ámbitos donde ocurre, públicos o privados, y se ejerce la violencia contra las mujeres;
+IX.- DEPARTAMENTOS DE INFRAESTRUCTURA DEPORTIVA, QUE SERÁN:
 
-XIII. Parto Humanizado: Modelo de atención a las mujeres durante el parto y el puerperio, basado en el respeto a sus derechos humanos, su dignidad, Integridad, libertad y toma de decisiones relativas a cómo, dónde y con quién parir. La atención Médica otorgada debe estar basada en fundamentos científicos y en las recomendaciones de la Organización Mundial de la Salud, proporcionando condiciones de comodidad y privacidad durante el parto, con lo mejor de la atención desmedicalizada, y garantizando en su caso, la coordinación y los acuerdos interinstitucionales para identificar, atender y resolver de manera oportuna y segura las complicaciones y emergencias obstétricas.
+a).- DEPARTAMENTO DE SUPERVISIÓN Y CONTROL DE OBRAS; Y
 
-El modelo incluye de manera explícita y directa, las opiniones, necesidades y valoraciones emocionales de las mujeres y sus familias en los procesos de atención del parto y puerperio, incorporando medidas para erradicar las barreras culturales y de género que dificultan el acceso de las mujeres a los servicios de salud, reconociendo la diversidad cultural existente, y los aportes de la partería tradicional y otros aportes clínico terapéuticos de salud no convencionales;
+b).- DEPARTAMENTO DE SUPERVISIÓN Y CONTROL DE INVERSIONES.
 
-XIV. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades;
+X.- COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS;
 
-XV. Perspectiva de género: Visión crítica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
+XI.- COORDINACIONES REGIONALES; Y (SIC)
 
-> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2002)</small>
 
-XV Bis. Perspectiva Intercultural: enfoque que toma como punto de partida la realidad social y la pluralidad cultural de determinados grupos sociales que pertenecen a una cultura históricamente marginada;
+XII.- UNIDAD ADMINISTRATIVA DEL CENTRO DE CAPACITACIÓN Y FORMACIÓN PARA EL DEPORTE; Y
 
-XVI. Red de información de violencia contra las mujeres: El sistema de recolección, procesamiento y clasificación de la información producida por las dependencias y entidades señaladas en esta Ley;
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2002)</small>
 
-XVII. Refugios Especializados. Las estancias del Gobierno de la Ciudad de México, específicamente creadas para la atención de víctimas de trata de personas;
+XIII.- SECRETARÍA PARTICULAR.
 
-XVIII. Registro: El Registro Público de Personas Agresores Sexuales;
+###### ARTÍCULO 5o.
 
-XIX. Relación afectiva o de hecho: Aquella en la que se comparte una relación íntima sin convivencia ni vínculo matrimonial o concubinato;
+LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS A QUE SE REFIERE EL ARTÍCULO ANTERIOR, EJERCERÁN SUS FACULTADES DE ACUERDO CON LAS DIRECTRICES Y PROGRAMAS ESTATALES Y NACIONALES, ADEMÁS DE LAS QUE ESTABLEZCA EL CONSEJO DIRECTIVO Y EL PRESENTE REGLAMENTO.
 
-XX. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
+### CAPÍTULO II. DEL CONSEJO DIRECTIVO
 
-XXI. Tribunal: El Tribunal Superior de Justicia de la Ciudad de México;
+###### ARTÍCULO 6o.
 
-XXII. Víctima: La mujer de cualquier edad que sufra algún tipo de violencia;
+EL CONSEJO DIRECTIVO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, SERÁ SU MÁXIMO ÓRGANO DE GOBIERNO.
 
-XXIII. Víctima indirecta: familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres;
+###### ARTÍCULO 7o.
 
-XXIV. Violencia contra las mujeres: Toda acción u omisión que, basada en su género y derivada del uso y/o abuso del poder, tenga por objeto o resultado un daño o sufrimiento físico, psicológico, patrimonial, económico, sexual o la muerte a las mujeres, tanto en el ámbito público como privado, que limite su acceso a una vida libre de violencia.
+EL CONSEJO DIRECTIVO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, ESTARÁ INTEGRADO POR:
 
-###### Artículo 4.
+I.- EL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, QUIEN FUNGIRÁ COMO PRESIDENTE;
 
-Los principios rectores de esta Ley son:
+II.- EL TITULAR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO;
 
-I. El respeto a la dignidad humana de las mujeres;
+III.- EL TITULAR DE LA SECRETARÍA DE SALUD;
 
-II. La libertad y autonomía de las mujeres;
+IV.- EL TITULAR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN;
 
-III. La no discriminación;
+V.- EL TITULAR DE LA UNIVERSIDAD DE GUANAJUATO;
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+VI.- TRES REPRESENTANTES DE LOS MUNICIPIOS DEL ESTADO; Y
 
-IV. La igualdad de género;
+VII.- DOS REPRESENTANTES DE LOS ORGANISMOS SOCIALES Y PRIVADOS, UNO EN MATERIA DEPORTIVA Y OTRO EN MATERIA DE ATENCIÓN A LA JUVENTUD.
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+LOS REPRESENTANTES A QUE SE REFIEREN LAS FRACCIONES VI Y VII SERÁN DESIGNADOS DE CONFORMIDAD CON LO ESTABLECIDO EN LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD DEL ESTADO DE GUANAJUATO.
 
-V. La transversalidad de la perspectiva de género, y la coordinación institucional en términos del artículo 11 de esta ley;
+CADA INTEGRANTE DEL CONSEJO DIRECTIVO NOMBRARÁ UN SUPLENTE, QUE LO CUBRIRÁ EN SUS AUSENCIAS. ASIMISMO, EL CONSEJO DIRECTIVO DESIGNARÁ A UN SECRETARIO QUE SE ENCARGARÁ DEL DESARROLLO DE LAS SESIONES.
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 8o.
 
-VI. Seguridad Jurídica, en términos del artículo 54 de la propia ley;
+EL PRESIDENTE DEL CONSEJO DIRECTIVO PODRÁ INVITAR A PARTICIPAR A LAS SESIONES DEL CONSEJO A OTROS MIEMBROS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL, ATENDIENDO AL TEMA QUE SE TRATE EN LA SESIÓN.
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 9o.
 
-VII. La protección y seguridad; y
+EN LAS SESIONES DEL CONSEJO DIRECTIVO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, PARTICIPARÁ EL TITULAR DE LA SECRETARÍA DE LA CONTRALORÍA, QUIEN PODRÁ DESIGNAR UN SUPLENTE PARA EL CASO DE AUSENCIA.
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 10.
 
-VIII. El apoyo y desarrollo integral de la víctima.
+CUANDO EL GOBERNADOR DEL ESTADO ASISTA A LAS SESIONES DEL CONSEJO DIRECTIVO, FUNGIRÁ COMO PRESIDENTE DEL MISMO Y EL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD SERÁ UN INTEGRANTE MÁS DEL CONSEJO. ASIMISMO, EL GOBERNADOR DEL ESTADO Y EL DIRECTOR GENERAL DE LA COMISIÓN CONSERVARÁN SU DERECHO A VOZ Y VOTO.
 
-###### Artículo 5.
+###### ARTÍCULO 11.
 
-Las mujeres víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
+EL TITULAR DE LA SECRETARÍA DE LA CONTRALORÍA O SU SUPLENTE, EN EL CONSEJO DIRECTIVO, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-I. Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos;
+I.- ASISTIR A LAS REUNIONES DEL CONSEJO DIRECTIVO, CON DERECHO A VOZ, PERO SIN VOTO;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 20 DE MARZO DE 2020)</small>
+II.- VIGILAR EL CUMPLIMIENTO DE LAS POLÍTICAS Y LOS PROGRAMAS ESTABLECIDOS PARA LA CONSECUCIÓN DE LOS FINES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD; Y
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas.
+III.- SOLICITAR LA INFORMACIÓN NECESARIA PARA EL CUMPLIMIENTO DE SUS FUNCIONES.
 
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+###### ARTÍCULO 12.
 
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+EL CONSEJO DIRECTIVO CELEBRARÁ SESIONES ORDINARIAS POR LO MENOS UNA VEZ CADA DOS MESES, Y LAS EXTRAORDINARIAS QUE SE REQUIERAN A CITACIÓN EXPRESA DEL DIRECTOR GENERAL O A PETICIÓN DE LA MAYORÍA DE SUS INTEGRANTES, MISMAS QUE SE LLEVARÁN A CABO EN EL LUGAR QUE SE SEÑALE PARA TAL EFECTO EN LA CONVOCATORIA.
 
-Incluyendo para efectos de prevención de riesgo de sufrir algún acto de violencia sexual, el que exista un Registro PÚBLICO de Personas Agresoras Sexuales, en los términos y bajo las características que señale la normatividad aplicable;
+###### ARTÍCULO 13.
 
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+EL CONSEJO DIRECTIVO SESIONARÁ VÁLIDAMENTE CON LA ASISTENCIA DE MÁS DE LA MITAD DE SUS INTEGRANTES.
 
-IV. Contar con asesoría y representación jurídica gratuita y expedita;
+LOS ACUERDOS DEL CONSEJO DIRECTIVO SE TOMARÁN POR MAYORÍA DE VOTOS DE LOS INTEGRANTES PRESENTES, EL PRESIDENTE TENDRÁ VOTO DE CALIDAD EN CASO DE EMPATE.
 
-V. Recibir información, atención y acompañamiento médico y psicológico;
+###### ARTÍCULO 14.
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+EL SECRETARIO DEL CONSEJO DIRECTIVO, TENDRÁ LAS FACULTADES QUE LE SEÑALE EL REGLAMENTO DE LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD DEL ESTADO DE GUANAJUATO Y LAS QUE LE CONFIERA EL CONSEJO DIRECTIVO.
 
-VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, delitos sexuales, contra la libertad personal, tentativa de feminicidio y lesiones, en las Casas de Emergencia y los Centros de Refugio destinados para tal fin. Cuando se trate de víctimas de trata de personas, las mujeres recibirán atención integral con sus hijas e hijos en Refugios Especializados;
+###### ARTÍCULO 15.
 
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+EL CONSEJO DIRECTIVO, ADEMÁS DE LAS FACULTADES QUE LE CONFIERE LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD DEL ESTADO DE GUANAJUATO, TENDRÁ LAS SIGUIENTES:
 
-VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia.
+I.- ESTABLECER LAS POLÍTICAS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2011)</small>
+II.- AUTORIZAR LA PRÁCTICA DE AUDITORÍAS EXTERNAS, PARA VIGILAR LA CORRECTA APLICACIÓN DE LOS RECURSOS;
 
-IX. Recibir información en su idioma o lengua materna sobre sus derechos y el progreso de los trámites judiciales y administrativos;
+III.- APROBAR LA SUSCRIPCIÓN DE CONVENIOS;
 
-> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2011)</small>
+IV.- AUTORIZAR ACTOS Y CONTRATOS EN LOS TÉRMINOS DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUANAJUATO; Y
 
-X. A la protección de su identidad y la de su familia.
+V.- AUTORIZAR ACTOS DE DOMINIO SOBRE SU PATRIMONIO INMOBILIARIO, SUJETÁNDOSE A LAS DISPOSICIONES CONSTITUCIONALES.
 
-## TITULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO III. DE LA CONTRALORÍA INTERNA
 
-### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
+###### ARTÍCULO 16.
 
-###### Artículo 6.
+EL ÓRGANO DE VIGILANCIA DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, TENDRÁ EL CARÁCTER DE CONTRALORÍA INTERNA, LA CUAL DEPENDERÁ ORGÁNICA Y FUNCIONALMENTE DE LA SECRETARÍA DE LA CONTRALORÍA Y PRESUPUESTALMENTE DE LA PROPIA COMISIÓN.
 
-Los tipos de violencia contra las mujeres son:
+LA CONTRALORÍA INTERNA ESTARÁ INTEGRADA POR UN TITULAR DESIGNADO POR LA SECRETARÍA DE LA CONTRALORÍA Y EL PERSONAL NECESARIO QUE EL PRESUPUESTO PERMITA.
 
-I. Violencia Psicoemocional: Toda acción u omisión dirigida a desvalorar, intimidar o controlar sus acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica;
+###### ARTÍCULO 17.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+LA CONTRALORÍA INTERNA, ES LA RESPONSABLE DE CONTROLAR, VIGILAR, FISCALIZAR Y EVALUAR EL USO CORRECTO DE LOS RECURSOS MATERIALES Y FINANCIEROS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, CON EL FIN DE DETERMINAR EL CORRECTO DESEMPEÑO DE LA MISMA.
 
-La violencia psicoemocional se sanciona de acuerdo con lo establecido en los artículos 138 y 200 del Código Penal para el Distrito Federal.
+###### ARTÍCULO 18.
 
-II. Violencia Física: Toda acción u omisión intencional que causa un daño en su integridad física;
+LA CONTRALORÍA INTERNA, TENDRÁ ADEMÁS DE LAS FACULTADES CONFERIDAS EN EL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LAS SIGUIENTES:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+I.- ELABORAR EL PROGRAMA ANUAL DE AUDITORÍA Y REMITIRLO AL TITULAR DE LA SECRETARÍA DE LA CONTRALORÍA PARA SU APROBACIÓN; ASÍ COMO, COORDINAR LA EJECUCIÓN DE SUS OPERACIONES CON LAS UNIDADES ADMINISTRATIVAS QUE DE ACUERDO A SU COMPETENCIA LE SEÑALE LA SECRETARÍA DE LA CONTRALORÍA;
 
-La violencia física se sanciona de acuerdo con lo establecido en los artículos 130, 131 y 132 del Código Penal para el Distrito Federal.
+II.- VIGILAR QUE EN EL DESARROLLO DE SUS FUNCIONES, LAS UNIDADES ADMINISTRATIVAS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD SE APEGUEN A LAS DISPOSICIONES LEGALES APLICABLES;
 
-III. Violencia Patrimonial: Toda acción u omisión que ocasiona daño o menoscabo en los bienes muebles o inmuebles de la mujer y su patrimonio; también puede consistir en la sustracción, destrucción, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores o recursos económicos;
+III.- PRACTICAR AUDITORÍAS A LAS UNIDADES ADMINISTRATIVAS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, CON EL FIN DE VERIFICAR LA EFICACIA Y TRANSPARENCIA EN SUS OPERACIONES, ASÍ COMO EL CUMPLIMIENTO DE LOS PROGRAMAS, OBJETIVOS Y METAS;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+IV.- EVALUAR EL EJERCICIO DEL PRESUPUESTO ASIGNADO A LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, PARA ESTABLECER INDICADORES DE EFICIENCIA, EFECTIVIDAD Y ECONOMÍA EN RELACIÓN A SUS PROGRAMAS, METAS Y OBJETIVOS;
 
-La violencia patrimonial se sanciona de acuerdo con lo establecido en los artículos 200 y 236 del Código Penal para el Distrito Federal.
+V.- EFECTUAR EL ANÁLISIS E INTERPRETACIÓN DE LOS ESTADOS FINANCIEROS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, PARA DETERMINAR EL CORRECTO EJERCICIO DE SU PRESUPUESTO;
 
-IV. Violencia Económica: Toda acción u omisión que afecta la economía de la mujer, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos, percepción de un salario menor por igual trabajo, explotación laboral, exigencia de exámenes de no gravidez, así como la discriminación para la promoción laboral;
+VI.- PROMOVER, DIFUNDIR E INSTRUMENTAR LA APLICACIÓN DE PROGRAMAS DE SIMPLIFICACIÓN ADMINISTRATIVA Y DE MEJORAMIENTO DE LA CALIDAD, EN LOS SERVICIOS QUE OFRECE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+VII.- ATENDER Y TRAMITAR LAS QUEJAS Y DENUNCIAS QUE SE INTERPONGAN ANTE ÉSTA EN CONTRA DE LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, CONFORME A LO ESTABLECIDO POR LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO, ASÍ COMO SOMETER A CONSIDERACIÓN DEL TITULAR DE LA SECRETARÍA DE LA CONTRALORÍA EL PROYECTO DE RESOLUCIÓN DE LAS MISMAS;
 
-La violencia económica se sanciona de acuerdo con lo establecido en el artículo 193 del Código Penal para el Distrito Federal.
+VIII.- INTERVENIR EN LOS PROCESOS DE ADJUDICACIÓN EN MATERIA DE ADQUISICIONES EN LOS TÉRMINOS QUE ESTABLECE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUANAJUATO;
 
-V. Violencia Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación, explotación sexual comercial, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer;
+IX.- FISCALIZAR LOS RECURSOS FEDERALES EJERCIDOS POR LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, DERIVADOS DE LOS ACUERDOS O CONVENIOS RESPECTIVOS, EN SU CASO;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+X.- INFORMAR PERIÓDICAMENTE AL CONSEJO DIRECTIVO Y A LA SECRETARÍA DE LA CONTRALORÍA DEL DESARROLLO DE SUS FUNCIONES; Y
 
-La violencia sexual se sanciona de acuerdo con lo establecido en los artículos 152, 174, 175, 176, 177, 178, 179, 180, 181, 181 Bis, 181 Ter, 181 Quáter, 186, 187, 188, 188 Bis, 189 y 189 Bis del Código Penal para el Distrito Federal.
+XI.- LAS DEMÁS QUE LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS LE ATRIBUYAN, ASÍ COMO AQUÉLLAS QUE LE CONFIERA EL TITULAR DE LA SECRETARÍA DE LA CONTRALORÍA.
 
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2017)</small>
+### CAPÍTULO IV. DE LOS ÓRGANOS DE VINCULACIÓN Y CONSULTA
 
-VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
+###### ARTÍCULO 19.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, CONTARÁ CON LOS SIGUIENTES ÓRGANOS DE VINCULACIÓN Y CONSULTA:
 
-La violencia contra los derechos reproductivos se concreta al no cumplir con lo establecido en el artículo 144 del Código Penal para el Distrito Federal.
+I.- EL CONSEJO DEL SISTEMA ESTATAL DEL DEPORTE; Y
 
-> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
+II.- EL CONSEJO DEL SISTEMA ESTATAL DE LA JUVENTUD.
 
-VII. Violencia Obstétrica: Es toda acción u omisión que provenga de una o varias personas, que proporcionen atención médica o administrativa, en un establecimiento privado o institución de salud pública del gobierno de la Ciudad de México que dañe, lastime, o denigre a las mujeres de cualquier edad durante el embarazo, parto o puerperio, así como la negligencia, juzgamiento, maltrato, discriminación y vejación en su atención médica; se expresa por el trato deshumanizado, abuso de medicación y patologización de los procesos naturales, vulnerando la libertad e información completa, así como la capacidad de las mujeres para decidir libremente sobre su cuerpo, salud, sexualidad o sobre el número y espaciamiento de sus hijos.
+###### ARTÍCULO 20.
 
-Se caracteriza por:
+LOS CONSEJOS REFERIDOS EN EL ARTÍCULO ANTERIOR, ESTARÁN INTEGRADOS POR LOS TITULARES DE LAS INSTITUCIONES Y ORGANISMOS DE LOS SECTORES PÚBLICO, SOCIAL Y PRIVADO, DE CONFORMIDAD CON LO ESTABLECIDO EN EL REGLAMENTO DE LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD DEL ESTADO DE GUANAJUATO.
 
-a) Omitir o retardar la atención oportuna y eficaz de las emergencias y servicios obstétricos;
+###### ARTÍCULO 21.
 
-b) Obligar a la mujer a parir en condiciones ajenas a su voluntad o contra sus prácticas culturales, cuando existan los medios necesarios para la realización del parto humanizado y parto natural;
+EL CONSEJO DEL SISTEMA ESTATAL DEL DEPORTE, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-c) Obstaculizar el apego precoz de la niña o niño con su madre sin causa médica justificada, negándole la posibilidad de cargarle y amamantarle inmediatamente después de nacer;
+I.- PROMOVER Y ESTABLECER UNA INTERRELACIÓN OPERATIVA Y ADMINISTRATIVA ENTRE LOS INTEGRANTES DE LA COMUNIDAD DEPORTIVA DEL ESTADO Y CON EL EJECUTIVO ESTATAL, A TRAVÉS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, A FIN DE EFICIENTAR LOS SERVICIOS QUE ÉSTA PRESTE;
 
-d) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de medicamentos o técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+II.- INCORPORAR AL SISTEMA ESTATAL DEL DEPORTE, A LOS MUNICIPIOS Y DELEGACIONES, ASÍ COMO A LOS SECTORES SOCIAL Y PRIVADO; Y
 
-e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, o; Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; y
+III.- CONCRETAR LAS ACCIONES, RECURSOS Y PROCEDIMIENTOS DE PARTICIPACIÓN DE LOS INTEGRANTES DEL CONSEJO DEL SISTEMA ESTATAL DEL DEPORTE, EN EL PROGRAMA ESTATAL DEL DEPORTE.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 22.
 
-La violencia obstétrica se sanciona de acuerdo con lo establecido en los artículos 149, 150, 151, 151 Bis, 151 Ter, 152 y 153 del Código Penal para el Distrito Federal.
+EL CONSEJO DEL SISTEMA ESTATAL DE LA JUVENTUD, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-VIII. Violencia Feminicida: Toda acción u omisión que constituye la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujeres.
+I.- ASESORAR AL GOBERNADOR DEL ESTADO A TRAVÉS DEL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, EN LA PLANEACIÓN Y PROGRAMACIÓN DE LAS POLÍTICAS Y ACCIONES RELACIONADAS CON EL DESARROLLO DE LA JUVENTUD, DE ACUERDO A LOS PLANES ESTATAL Y NACIONAL DE DESARROLLO;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+II.- ACTUAR COMO ÓRGANO DE CONSULTA Y ASESORÍA DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, ASÍ COMO DE LAS AUTORIDADES FEDERALES, ESTATALES, MUNICIPALES Y DE LOS SECTORES SOCIAL Y PRIVADO CUANDO ASÍ LO REQUIERAN; Y
 
-La violencia feminicida se sanciona de acuerdo con lo establecido en el artículo 148 Bis del Código Penal para el Distrito Federal.
+III.- PROMOVER, EN COORDINACIÓN CON LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS, LAS ACCIONES DESTINADAS A MEJORAR EL NIVEL DE VIDA DE LA JUVENTUD, ASÍ COMO SUS EXPECTATIVAS SOCIALES, CULTURALES Y DERECHOS.
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+###### ARTÍCULO 23.
 
-IX. Simbólica: La que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.
+EL CONSEJO DEL SISTEMA ESTATAL DEL DEPORTE Y EL CONSEJO DEL SISTEMA ESTATAL DE LA JUVENTUD, PARTICIPARÁN EN EL PROCESO DE PLANEACIÓN A TRAVÉS DE LOS CONSEJOS SECTORIALES DE PLANEACIÓN, PARA TAL EFECTO DEBERÁN DESIGNAR A UNO DE SUS INTEGRANTES, EL CUAL DEBERÁ SER REPRESENTANTE DE LA SOCIEDAD ORGANIZADA.
 
-> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
+### CAPÍTULO V. DE LAS FACULTADES Y ORGANIZACIÓN DE LAS UNIDADES ADMINISTRATIVAS
 
-X. Violencia Vicaria: es la acción u omisión cometida por quien tenga o haya tenido una relación de matrimonio, concubinato o haya mantenido una relación de hecho o de cualquier otro tipo, por sí o por interpósita persona, que provoque la separación de la madre con sus hijas e hijos o persona vinculada significativamente a la mujer, a través de la retención, sustracción, ocultamiento, maltrato, amenaza, puesta en peligro o promoviendo mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia, para manipular, controlar a la mujer o dañar el vínculo afectivo, que ocasionen o puedan ocasionar un daño psicoemocional, físico, patrimonial o de cualquier otro tipo a ella y a sus hijas e hijos o persona vinculada significativamente a la mujer, e incluso el suicidio a las madres y a sus hijas e hijos o persona vinculada significativamente a la mujer, así como desencadenar en el feminicidio u homicidio de las hijas e hijos perpetrados por su progenitor.
+#### SECCIÓN PRIMERA. DEL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 12 DE DICIEMBRE DE 2022]</small>
+###### ARTÍCULO 24.
 
-Este tipo de violencia puede cometerse también a través de familiares o personas con relación afectiva de quien comete este tipo de violencia.
+EL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, SERÁ DESIGNADO POR EL GOBERNADOR DEL ESTADO.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 12 DE DICIEMBRE DE 2022]</small>
+###### ARTÍCULO 25.
 
-Es particularmente grave cuando las instituciones destinadas a la atención y acceso a la justicia, al no reconocerla, emiten determinaciones, resoluciones y sentencias sin perspectiva de género vulnerando derechos humanos de las mujeres y el interés superior de la niñez.
+EL DIRECTOR GENERAL, TENDRÁ ADEMÁS DE LAS FACULTADES SEÑALADAS EN LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD DEL ESTADO DE GUANAJUATO, LAS SIGUIENTES:
 
-###### Artículo 10.
+I.- APROBAR LOS PROYECTOS DE INVERSIÓN, CONSTRUCCIÓN, AMPLIACIÓN, MEJORAMIENTO Y CONSERVACIÓN DE ESPACIOS DEPORTIVOS Y DE CENTROS DE ATENCIÓN A LA JUVENTUD; ASÍ COMO TRAMITAR LA ADQUISICIÓN DE BIENES MUEBLES E INMUEBLES PARA EL DESEMPEÑO DE LAS FUNCIONES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-Ante la Declaratoria de Alerta de Violencia de Género contra las Mujeres, el Gobierno de la Ciudad de México deberá tomar las siguientes medidas:
+II.- INFORMAR AL GOBERNADOR DEL ESTADO, DE LOS ACUERDOS TOMADOS POR EL CONSEJO DIRECTIVO;
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+III.- FORMULAR Y SOMETER A LA APROBACIÓN DEL CONSEJO DIRECTIVO, LOS PROGRAMAS DERIVADOS DEL PLAN ESTATAL DE DESARROLLO Y DEL PLAN DE GOBIERNO DEL ESTADO;
 
-I. Apoyar de forma inmediata a las mujeres víctimas de violencia y sus hijas e hijos a través de servicios especializados y con perspectiva de género tanto médicos, como psicológicos, y legales. Estos servicios serán gratuitos;
+IV.- AUTORIZAR LICENCIAS, SUPLENCIAS Y DESTITUCIONES CONCERNIENTES AL PERSONAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+V.- CELEBRAR TODA CLASE DE ACTOS, CONTRATOS Y CONVENIOS INHERENTES AL OBJETO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD; Y
 
-II. Reparación integral del daño a las mujeres víctimas de violencia, sus hijas e hijos o víctimas indirectas, garantizar su seguridad a través de medidas de protección y el seguimiento del cumplimiento de estas; y, la investigación y sanción de los actos de autoridades omisas o negligentes, que pudieron haber propiciado casos de impunidad o violaciones a los derechos humanos de las mujeres víctimas de violencia;
+VI.- LAS DEMÁS QUE LE SEÑALEN LA LEY DE LA MATERIA, EL PRESENTE REGLAMENTO Y LAS QUE LE CONFIERA EL CONSEJO DIRECTIVO.
 
-> <small>(ADICIONADA, G.O. 10 DE JUNIO DE 2022)</small>
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO DEL DEPORTE
 
-II Bis. Diseñar e instrumentar políticas públicas específicas e integrales para prevenir la comisión de nuevos delitos contra las mujeres, así como para la verificación de los hechos y la publicidad de la verdad; y
+###### ARTÍCULO 26.
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+LA DIRECCIÓN DE DESARROLLO DEL DEPORTE, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-III. Todas aquellas que se consideren necesarias para atender, erradicar y sancionar la violencia contra las mujeres, atendiendo las observaciones y recomendaciones del grupo interinstitucional multidisciplinario que se conforme para atender la declaratoria de la Alerta de Violencia de Género contra Mujeres.
+I.- ESTABLECER LAS ESTRATEGIAS Y DIRECTRICES GENERALES DE LA DIRECCIÓN DE DESARROLLO DEL DEPORTE;
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
+II.- ESTABLECER VINCULACIÓN Y ACUERDOS EN MATERIA DEPORTIVA CON LOS DIVERSOS ORGANISMOS PÚBLICOS, SOCIALES Y PRIVADOS, RELACIONADOS CON LA MISMA;
 
-## TÍTULO CUARTO. DEL GABINETE DE IGUALDAD SUSTANTIVA Y VIOLENCIA CONTRA LAS MUJERES Y LAS MEDIDAS DE PREVENCIÓN Y ATENCIÓN
+III.- DISEÑAR Y CONSENSAR CON EL DIRECTOR GENERAL, LA OPERACIÓN DEL PROGRAMA ESTATAL DEL DEPORTE;
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
+IV.- APLICAR EL PRESUPUESTO DESTINADO A ESTA DIRECCIÓN, DE ACUERDO A LA NORMATIVIDAD Y LEYES VIGENTES PARA EL EJERCICIO DEL MISMO;
 
-###### Artículo 11.
+V.- IMPULSAR LA INVESTIGACIÓN DEL DEPORTE, EN COORDINACIÓN CON LAS INSTITUCIONES PÚBLICAS O PRIVADAS DE EDUCACIÓN SUPERIOR EN EL ESTADO;
 
-Para la efectiva aplicación de la presente Ley, las dependencias, órganos y entidades de la Ciudad de México establecerán el Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México, entre las Secretarías de Gobierno, Inclusión y Bienestar Social, Seguridad Ciudadana, Trabajo y Fomento al Empleo, Salud, Educación, Ciencia, Tecnología e Innovación, Cultura, Desarrollo Urbano y Vivienda, Fiscalía General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y las dieciséis Alcaldías. El Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México establecido en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+VI.- COORDINAR, FOMENTAR Y DIRIGIR LOS EVENTOS Y PROGRAMAS DEPORTIVOS EN EL ESTADO, EN COLABORACIÓN CON LOS ORGANISMOS RESPECTIVOS;
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+VII.- PROMOVER LA PARTICIPACIÓN DE DEPORTISTAS DEL ESTADO EN EVENTOS MUNICIPALES, ESTATALES, REGIONALES, NACIONALES E INTERNACIONALES;
 
-###### Artículo 12.
+VIII.- EVALUAR LAS NECESIDADES Y REQUERIMIENTOS DEL DEPORTE ESTATAL, A EFECTO DE IMPLEMENTAR LAS ACCIONES NECESARIAS PARA SU ATENCIÓN EN EL PROGRAMA ESTATAL DEL DEPORTE;
 
-El Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México implementará las acciones de prevención, atención y de acceso a la justicia, así como las acciones afirmativas que considere necesarias, desde la debida diligencia para erradicar la violencia contra las mujeres.
+IX.- SUPERVISAR EL FUNCIONAMIENTO DE ACADEMIAS Y ESCUELAS PRIVADAS EN EL ESTADO, EN LAS QUE SE IMPARTAN CURSOS DEPORTIVOS O DE CAPACITACIÓN FÍSICA;
 
-Asimismo, diseñará un Plan Anual de Trabajo que contenga las acciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+X.- PROMOVER LA CREACIÓN DE INSTALACIONES Y ÁREAS PARA LA PRÁCTICA DEL DEPORTE, DE CONFORMIDAD CON LA REGLAMENTACIÓN CORRESPONDIENTE;
 
-###### Artículo 13.
+XI.- OTORGAR RECONOCIMIENTOS Y ESTÍMULOS A LAS PERSONAS, ENTIDADES U ORGANISMOS QUE SE HAYAN DISTINGUIDO EN EL DEPORTE;
 
-La prevención es el conjunto de acciones que deberán llevar a cabo las dependencias, entidades de la Ciudad de México y las Alcaldías, conjuntamente con la población, la iniciativa privada, la sociedad civil organizada y los medios de comunicación, para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
+XII.- DEFINIR LAS ADECUACIONES NECESARIAS PARA EL EJERCICIO DEL PRESUPUESTO;
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+XIII.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES Y RESULTADOS DE ESTA DIRECCIÓN;
 
-La prevención también comprenderá medidas en materia de educación para toda la población, encaminadas a eliminar la cultura y prácticas machistas, roles de género, cualquier tipo de violencia y prejuicios de toda índole.
+XIV.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+XV.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-Las dependencias, entidades de la Ciudad de México y las Alcaldías difundirán, promoverán y fomentarán la participación de la población, la iniciativa privada, la sociedad civil organizada y los medios de comunicación, en el conjunto de acciones que se lleve a cabo en materia de prevención.
+#### SECCIÓN TERCERA. DE LOS DEPARTAMENTOS DE DESARROLLO DEL DEPORTE
 
-La prevención comprende medidas generales y especiales, entre las que deberán privilegiarse las de carácter no penal.
+###### ARTÍCULO 27.
 
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+LOS DEPARTAMENTOS DE DESARROLLO DEL DEPORTE, ESTARÁN ADSCRITOS A LA DIRECCIÓN DE DESARROLLO DEL DEPORTE.
 
-Así como las medidas de seguridad que determine el órgano jurisdiccional en materia de registro de personas sentenciadas por delitos relacionados con violencia sexual.
+###### ARTÍCULO 28.
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+LOS DEPARTAMENTOS DE DESARROLLO DEL DEPORTE, TENDRÁN LAS SIGUIENTES FACULTADES:
 
-###### Artículo 14.
+I.- OPERAR LAS ESTRATEGIAS, PROGRAMAS Y PROYECTOS DE LOS DEPARTAMENTOS DE DESARROLLO DEL DEPORTE;
 
-Las medidas de prevención general, son aquellas que desde los distintos ámbitos de acción de las dependencias, entidades de la Ciudad de México y las Alcaldías, están destinadas a toda la colectividad y tienen como propósito evitar la comisión de conductas delictivas y otros actos de violencia contra las mujeres, así como propiciar su empoderamiento.
+II.- DELEGAR LA OPERACIÓN DE LOS PROGRAMAS Y PROYECTOS, ASÍ COMO EXIGIR SUS RESULTADOS AL COORDINADOR CORRESPONDIENTE, QUE PARA EL EVENTO SEA COMISIONADO;
 
-> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+III.- ACORDAR Y COORDINAR CON LA DIRECCIÓN DE DESARROLLO DEL DEPORTE, LAS ACCIONES TENDIENTES A LA CONSECUCIÓN DE LAS METAS Y OBJETIVOS;
 
-###### Artículo 14 Bis.
+IV.- SUPERVISAR EL EJERCICIO Y EL BUEN USO DE LOS RECURSOS ECONÓMICOS ASIGNADOS A CADA DEPARTAMENTO; Y
 
-Serán consideradas como medidas especiales de prevención aquellas que permitan a las mujeres embarazadas, con discapacidad, de la tercera edad o afectadas por cualquiera otra condición de vulnerabilidad, el establecimiento de acciones concretas y obligatorias para que gocen de las siguientes facilidades:
+V.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR DE DESARROLLO DEL DEPORTE.
 
-I. Contar con una atención preferente, ágil, pronta y expedita cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier Autoridad Local;
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE VOZ JOVEN
 
-II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
+###### ARTÍCULO 29.
 
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+LA DIRECCIÓN DE VOZ JOVEN, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+I.- ESTABLECER LAS ESTRATEGIAS Y DIRECTRICES GENERALES DE LA DIRECCIÓN DE VOZ JOVEN;
 
-###### Artículo 14 Ter.
+II.- ESTABLECER VINCULACIÓN Y ACUERDOS EN MATERIA DE JUVENTUD CON LOS DIVERSOS ORGANISMOS PÚBLICOS, SOCIALES Y PRIVADOS, RELACIONADOS CON LA MISMA;
 
-Se crea el Registro PÚBLICO de Personas Agresoras Sexuales de la Ciudad de México, como mecanismo efectivo de prevención y protección para los efectos de atender al factor de riesgo de reincidencia y repetición de conductas de violencia sexual, a favor de víctimas o potenciales víctimas de esta violencia.
+III.- DISEÑAR Y CONSENSAR CON EL DIRECTOR GENERAL, LA OPERACIÓN DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+IV.- APLICAR EL PRESUPUESTO DESTINADO A LA DIRECCIÓN DE ACUERDO A LA NORMATIVIDAD Y LEYES VIGENTES PARA EL EJERCICIO DEL MISMO;
 
-###### Artículo 15.
+V.- IMPULSAR LA INVESTIGACIÓN DE ASUNTOS DE LA JUVENTUD, EN COORDINACIÓN CON LAS INSTITUCIONES PÚBLICAS O PRIVADAS DE EDUCACIÓN SUPERIOR EN EL ESTADO;
 
-Corresponde a las dependencias, órganos, entidades de la Ciudad de México y a las Alcaldías:
+VI.- COORDINAR, FOMENTAR Y DIRIGIR EVENTOS Y PROGRAMAS DE JUVENTUD EN EL ESTADO, EN COLABORACIÓN CON LOS ORGANISMOS RESPECTIVOS;
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+VII.- PROMOVER LA PARTICIPACIÓN DE JÓVENES DEL ESTADO EN EVENTOS MUNICIPALES, ESTATALES, REGIONALES, NACIONALES E INTERNACIONALES;
 
-I. Capacitar y especializar a su personal en materia de derechos humanos de las mujeres con apego a los lineamientos establecidos por la Secretaría de las Mujeres;
+VIII.- EVALUAR LAS NECESIDADES Y REQUERIMIENTOS DE LA JUVENTUD DEL ESTADO, A EFECTO DE IMPLEMENTAR LAS ACCIONES NECESARIAS PARA SU ATENCIÓN EN EL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD;
 
-II. Difundir las campañas informativas sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
+IX.- OTORGAR RECONOCIMIENTOS Y ESTÍMULOS A LAS PERSONAS, ENTIDADES U ORGANISMOS QUE SE HAYAN DISTINGUIDO EN LA ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+X.- DEFINIR LAS ADECUACIONES NECESARIAS PARA EL EJERCICIO DEL PRESUPUESTO;
 
-Toda campaña publicitaria deberá ser incluyente, estar libre de estereotipos y de lenguaje sexista o misógino.
+XI.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES Y RESULTADOS DE ESTA DIRECCIÓN;
 
-III. Promover y ejecutar acciones para que las condiciones laborales se desarrollen con igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
+XII.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-IV. Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
+XIII.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+#### SECCIÓN QUINTA. DEL DEPARTAMENTO DE VOZ JOVEN
 
-V. Remitir la información y estadísticas a la red de información de violencia contra las mujeres conforme a la periodicidad y especificidad que solicite la Secretaría de las Mujeres; y
+###### ARTÍCULO 30.
 
-VI. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
+EL DEPARTAMENTO DE VOZ JOVEN, ESTARÁ ADSCRITO A LA DIRECCIÓN DE VOZ JOVEN.
 
-VII. Las demás que señalen la (sic) disposiciones legales.
+###### ARTÍCULO 31.
 
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+EL DEPARTAMENTO DE VOZ JOVEN, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-###### Artículo 15 Bis.
+I.- OPERAR LAS ESTRATEGIAS, PROGRAMAS Y PROYECTOS DE LA DIRECCIÓN DE VOZ JOVEN;
 
-Son obligaciones de la Secretaría de Gobierno las siguientes:
+II.- DELEGAR LA OPERACIÓN DE LOS PROGRAMAS Y PROYECTOS, ASÍ COMO EXIGIR SUS RESULTADOS AL COORDINADOR CORRESPONDIENTE;
 
-I. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
+III.- ACORDAR Y COORDINAR CON LA DIRECCIÓN DE VOZ JOVEN, LAS ACCIONES TENDIENTES A LA CONSECUCIÓN DE LAS METAS Y OBJETIVOS;
 
-II. Participar en la Coordinación Interinstitucional y en las acciones de prevención y erradicación de la violencia que prevé esta Ley;
+IV.- SUPERVISAR EL EJERCICIO Y EL BUEN USO DE LOS RECURSOS ASIGNADOS A ESTE DEPARTAMENTO PARA LA IMPLEMENTACIÓN DE LOS PROGRAMAS A SU CARGO; Y
 
-III. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
+V.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR DE VOZ JOVEN.
 
-IV. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
-V. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto.
+###### ARTÍCULO 32.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+LA DIRECCIÓN DE COMUNICACIÓN SOCIAL, TENDRA LAS SIGUIENTES FACULTADES:
 
-### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
+I.- ESTABLECER LAS ESTRATEGIAS Y DIRECTRICES GENERALES DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+II.- APLICAR EL PRESUPUESTO DESTINADO A ESTA DIRECCIÓN, DE ACUERDO A LA NORMATIVIDAD Y LEYES VIGENTES PARA EL EJERCICIO DEL MISMO;
 
-###### Artículo 7.
+III.- ELABORAR MEMORIAS GRÁFICAS DE LAS ACTIVIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-Las modalidades de violencia contra las mujeres son:
+IV.- PROMOVER LA DIFUSIÓN DEL DEPORTE Y ACCIONES DE LA JUVENTUD A TRAVÉS DE LOS MEDIOS DE COMUNICACIÓN;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+V.- GENERAR Y EJECUTAR CAMPAÑAS MASIVAS DE COMUNICACIÓN DE LAS ACTIVIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-I. Violencia Familiar: Es aquella que puede ocurrir dentro o fuera del domicilio de la víctima, cometido por parte de la persona agresora con la que tenga o haya tenido parentesco por consanguinidad o por afinidad, derivada de concubinato, matrimonio, sociedad de convivencia o relaciones de hecho;
+VI.- APOYAR EN COBERTURA INFORMATIVA A LOS DIRECTORES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD EN EVENTOS ESPECIALES;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+VII.- ELABORAR, DISEÑAR Y ESTRUCTURAR EL FORMATO DEL INFORME ANUAL DE ACTIVIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-La violencia familiar se sanciona de acuerdo con lo establecido en los artículos 181 Ter, fracción II, 193 y 200, del Código Penal para el Distrito Federal;
+VIII.- APOYAR AL DIRECTOR GENERAL, EN LAS GIRAS DE TRABAJO;
 
-> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
+IX.- ATENDER A LOS MEDIOS MASIVOS DE COMUNICACIÓN, PROPORCIONANDO MATERIAL INFORMATIVO Y GRÁFICO DE LAS ACTIVIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-II. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la relación de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual.
+X.- INFORMAR A LA POBLACIÓN GUANAJUATENSE SOBRE LAS ACCIONES Y PROGRAMAS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, A TRAVÉS DE LOS MEDIOS ALTERNATIVOS DE COMUNICACIÓN;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+XI.- GARANTIZAR LA PRESENCIA DE LA IMAGEN INSTITUCIONAL DE GOBIERNO Y DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, EN LOS EVENTOS QUE ORGANICE O APOYE LA MISMA;
 
-La violencia en el noviazgo se sanciona de acuerdo con lo establecido en los artículos 131 y 148 Bis del Código Penal para el Distrito Federal;
+XII.- ELABORAR UNA SÍNTESIS INFORMATIVA DIARIA DE LAS ACCIONES QUE REALIZA LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-III. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
+XIII.- DEFINIR LAS ADECUACIONES NECESARIAS PARA EL EJERCICIO DEL PRESUPUESTO;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+XIV.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES Y RESULTADOS DE ESTA DIRECCIÓN;
 
-La violencia laboral se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal. Así como, lo establecido en el artículo 994 de la Ley Federal del Trabajo;
+XV.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
+XVI.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-IV. Violencia Escolar: Son todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que daña la dignidad, salud, integridad, libertad y seguridad de las víctimas. La violencia escolar se manifiesta en todas aquellas conductas cometidas individual o colectivamente, en un proceso de interacción que se realiza y prolonga tanto al interior como al exterior de los planteles educativos o del horario escolar, y se expresa mediante la realización de uno o varios tipos de violencia contra las mujeres en cualquier etapa de su vida.
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 33.
 
-La violencia escolar se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis y 178 del Código Penal para el Distrito Federal;
+LA DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-V. Violencia Docente: Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les inflingen (sic) maestras o maestros;
+I.- ATENDER DE MANERA OPORTUNA Y EXPEDITA LAS NECESIDADES ADMINISTRATIVAS DE LAS UNIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, DE ACUERDO CON LOS LINEAMIENTOS GENERALES Y POLÍTICAS FIJADAS POR LA SECRETARÍA DE FINANZAS Y ADMINISTRACION Y POR EL CONSEJO DIRECTIVO;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+II.- ESTABLECER, EN COORDINACIÓN CON LAS DEMÁS DIRECCIONES DE ÁREA Y PREVIA APROBACIÓN DE LA DIRECCIÓN GENERAL, LAS POLÍTICAS, NORMAS, CRITERIOS, SISTEMAS Y PROCEDIMIENTOS PARA LA ADMINISTRACIÓN DEL PERSONAL, RECURSOS MATERIALES, FINANCIEROS Y DE SERVICIOS;
 
-La violencia docente se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal;
+III.- APLICAR EL PRESUPUESTO DESTINADO A ESTA DIRECCIÓN, DE ACUERDO A LA NORMATIVIDAD Y LEYES VIGENTES PARA EL EJERCICIO DEL MISMO;
 
-VI. Violencia en la Comunidad: Es aquella cometida de forma individual o colectiva, que atenta contra su seguridad e integridad personal y que puede ocurrir en el barrio, en los espacios públicos o de uso común, de libre tránsito o en inmuebles públicos propiciando su discriminación, marginación o exclusión social;
+IV.- DIFUNDIR Y VIGILAR EL CUMPLIMIENTO DE LAS NORMAS APLICABLES AL PROCESO INTERNO DE FORMULACIÓN, EJECUCIÓN, EVALUACIÓN Y CONTROL DEL PRESUPUESTO AUTORIZADO A LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+V.- FORMULAR, EN COORDINACIÓN CON LOS DEMÁS DIRECTORES DE ÁREA, EL PRESUPUESTO DE EGRESOS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, PARA SU CORRECTA APLICACIÓN;
 
-La violencia en la comunidad se sanciona de acuerdo con lo establecido en los artículos 174 y 179 del Código Penal para el Distrito Federal. Así como, lo establecido en el artículo 161, fracción XVIII del reglamento de la Ley de Movilidad del Distrito Federal;
+VI.- AUTORIZAR LA DOCUMENTACIÓN NECESARIA PARA EL EJERCICIO DEL PRESUPUESTO;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+VII.- REALIZAR LAS LABORES NECESARIAS PARA LA CONSERVACIÓN Y MANTENIMIENTO DEL PATRIMONIO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-VII. Violencia Institucional: Son los actos u omisiones de las personas con calidad de servidor público que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. El Gobierno de la Ciudad de México, se encuentra obligado a actuar con la debida diligencia para evitar que se inflija violencia contra las mujeres.
+VIII.- CONTROLAR Y VIGILAR LOS FONDOS Y PATRIMONIO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+IX.- LLEVAR LA CONTABILIDAD, ELABORAR Y PRESENTAR PARA SU AUTORIZACIÓN, LOS ESTADOS FINANCIEROS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, ANTE EL CONSEJO DIRECTIVO;
 
-La violencia institucional se sanciona de acuerdo con lo establecido en los artículos 153, 178 fracción II, 179, 181 Quintus fracción IV, 206 fracción II y 206 Bis del Código Penal para el Distrito Federal;
+X.- EFECTUAR EL PAGO DE LAS PERCEPCIONES Y REMUNERACIONES ESTABLECIDAS PREVIAMENTE DENTRO DEL CONTRATO A LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+XI.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES Y LOS RESULTADOS DE ESTA DIRECCIÓN;
 
-VIII. Violencia mediática contra las mujeres: Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación público o privado, que de manera directa o indirecta promueva la explotación de niñas y mujeres adolescentes o adultas, o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, fomente o exhiba mujeres violentadas, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres;
+XII.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2017)</small>
+XIII.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-IX. Violencia Política en Razón de Género: Es toda acción u omisión ejercida en contra de una mujer, en el ámbito político o público, que tenga por objeto o resultado sesgar, condicionar, impedir, restringir, suspender, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, acceso, goce o ejercicio de los derechos político electorales de una mujer, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función en el poder público.
+#### SECCIÓN OCTAVA. DE LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 34.
 
-La violencia política en razón de género se sanciona de acuerdo con lo establecido en el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y lo que se establece en el artículo 264 Bis del mismo en el Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género;
+LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA, TENDRÁ LAS SIGUIENTE FACULTADES:
 
-Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+I.- ESTABLECER LAS ESTRATEGIAS DE LAS DIRECTRICES DE LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA;
 
-Se consideran actos de violencia política en contra de las mujeres, entre otros, los siguientes:
+II.- ESTABLECER VINCULACIÓN Y ACUERDOS CON LAS DIVERSAS DEPENDENCIAS QUE SE RELACIONEN CON LAS FUNCIONES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, CON EL FIN DE GESTIONAR RECURSOS, PARA LA CONSTRUCCIÓN Y EQUIPAMIENTO DE ESPACIOS DEPORTIVOS Y DE ATENCIÓN A LA JUVENTUD;
 
-a) Obligar, instruir o coaccionar a realizar u omitir actos diferentes a las funciones y obligaciones de su cargo, establecidas en los ordenamientos jurídicos, incluyendo aquellos motivados por los roles o estereotipos de género;
+III.- DISEÑAR Y COORDINAR CON EL DIRECTOR GENERAL, EL PROGRAMA DE LOS RECURSOS DESTINADOS A PROYECTOS Y OBRAS;
 
-b) Ejercer cualquier tipo de violencia señalada en la presente Ley, en contra de las mujeres, de sus familiares o personas cercanas, con el fin de sesgar, condicionar, impedir, acotar o restringir la participación y representación política y pública, así como la toma de decisiones en contra de su voluntad o contrarias al interés público;
+IV.- PROMOVER LOS ESPACIOS DEPORTIVOS Y DE ATENCIÓN A LA JUVENTUD DE LOS MUNICIPIOS;
 
-c) Coartar o impedir el ejercicio de la participación, representación y facultades inherentes a los cargos públicos y políticos de las mujeres, o bien coartar e impedir aquellas medidas establecidas en la Constitución y los ordenamientos jurídicos dirigidas a proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su participación y representación política y pública, incluyendo la violencia institucional;
+V.- COORDINAR Y SUPERVISAR LOS AVANCES CONSTRUCTIVOS Y DE MEJORAMIENTO DE ESPACIOS DEPORTIVOS Y ATENCIÓN A LA JUVENTUD;
 
-d) Proporcionar información falsa, errónea o imprecisa que induzca al inadecuado ejercicio de sus funciones político-públicas;
+VI.- ELABORAR EL REPORTE DE AVANCES DE OBRA;
 
-e) Impedir o excluir de la toma de decisiones o del derecho a voz y voto, a través del engaño o la omisión de notificación de actividades inherentes a sus facultades o a la participación y representación política y pública;
+VII.- ELABORAR CONVENIOS DE APORTACIÓN Y PARTICIPACIÓN, PARA LA CREACIÓN DE ESPACIOS DEPORTIVOS Y ATENCIÓN A LA JUVENTUD;
 
-f) Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+VIII.- DEFINIR LAS ADECUACIONES NECESARIAS PARA EL EJERCICIO DEL PRESUPUESTO;
 
-g) Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+IX.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES DE ESTA DIRECCIÓN;
 
-h) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+X.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-i) Obstaculizar o impedir el ejercicio de licencias o permisos justificados a los cargos públicos a los cuales fueron nombradas o electas, así como la reincorporación posterior;
+XI.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-j) Restringir total o parcialmente, por cualquier medio o mecanismo, el ejercicio de los derechos de voz y voto de las mujeres, que limiten o impidan las condiciones de igualdad respecto de los hombres para el ejercicio de la función y representación política y pública;
+#### SECCIÓN NOVENA. DE LOS DEPARTAMENTOS DE INFRAESTRUCTURA DEPORTIVA
 
-k) Acosar u hostigar mediante la acusación o la aplicación de sanciones sin motivación o fundamentación, que contravengan las formalidades, el debido proceso y la presunción de inocencia, con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
+###### ARTÍCULO 35.
 
-l) Realizar cualquier acto de discriminación que tenga como resultado impedir, negar, anular o menoscabar el ejercicio de sus derechos político-electorales;
+LOS DEPARTAMENTOS DE INFRAESTRUCTURA DEPORTIVA, ESTARÁN ADSCRITOS A LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA.
 
-m) Publicar o revelar información personal, privada o falsa, o bien difundir imágenes, información u opiniones con sesgos basados en los roles y estereotipos de género a través de cualquier medio, con o sin su consentimiento, que impliquen difamar, desprestigiar o menoscabar la credibilidad, capacidad y dignidad humana de las mujeres, con el objetivo o resultado de obtener su remoción, renuncia o licencia al cargo electo o en ejercicio;
+###### ARTÍCULO 36.
 
-n) Espiar o desprestigiar a las mujeres a través de los medios de comunicación con el objetivo o resultado de impedir o restringir el ejercicio de los derechos político-electorales;
+LOS DEPARTAMENTOS DE INFRAESTRUCTURA DEPORTIVA, TENDRÁN LAS SIGUIENTES FACULTADES:
 
-o) Obligar, intimidar, o amenazar a las mujeres para que suscriban documentos, colaboren en proyectos o adopten decisiones en contra de su voluntad o del interés público, en función de su representación política;
+I.- OPERAR LAS ESTRATEGIAS, PROGRAMAS Y PROYECTOS DE LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA;
 
-p) Proporcionar información incompleta, falsa o errónea de los datos personales de las mujeres candidatas a cargos de elección popular, ante el Instituto Nacional Electoral o los Organismos Públicos Locales Electorales, con la finalidad de impedir, obstaculizar o anular sus registros a las candidaturas;
+II.- EFECTUAR Y REPORTAR LAS SUPERVISIONES DE LA INFRAESTRUCTURA TANTO EN PROCESO COMO TERMINADA;
 
-q) Impedir o restringir su incorporación, de toma de protesta o acceso al cargo o función para el cual ha sido nombrada, electa o designada.
+III.- DELEGAR LA OPERACIÓN DE LOS PROGRAMAS Y PROYECTOS, AL COORDINADOR CORRESPONDIENTE, ASÍ COMO VIGILAR SUS RESULTADOS;
 
-r) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género; y
+IV.- ACORDAR Y COORDINAR CON LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA LAS ACCIONES PARA EL CUMPLIMIENTO DE LAS METAS Y OBJETIVOS;
 
-s) Cualquier otro que tenga por objeto o resultado coartar los derechos político-electorales, incluyendo los motivados en razón de sexo o género.
+V.- SUPERVISAR EL EJERCICIO Y BUEN USO DE LOS RECURSOS ASIGNADOS A CADA DEPARTAMENTO, QUE HAYA SIDO COMISIONADO PARA UN PROGRAMA ESPECÍFICO; Y
 
-> <small>(ADICIONADA, G.O. 22 DE ENERO DE 2020)</small>
+VI.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR DE INFRAESTRUCTURA DEPORTIVA.
 
-X. Violencia digital.- Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
+#### SECCIÓN DÉCIMA. DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 37.
 
-La violencia digital se sanciona de acuerdo con lo establecido en el artículo 181 Quintus del Código Penal para el Distrito Federal.
+LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+I.- ESTABLECER LAS ESTRATEGIAS Y DIRECTRICES GENERALES DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS;
 
-Los conceptos, y sanciones anteriores se deben entender en términos del Código Penal, el Código de Instituciones y Procedimientos Electorales, la Ley de Movilidad, el Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género y demás Leyes aplicables y vigentes en la Ciudad de México.
+II.- ESTABLECER LOS ESTATUTOS, CLÁUSULAS Y VIGENCIAS DE LOS CONVENIOS Y ACUERDOS QUE REALICE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, EN COORDINACIÓN CON LOS DIRECTORES DE ÁREA QUE SE RELACIONEN CON EL CONVENIO, PREVIA APROBACIÓN DEL DIRECTOR GENERAL;
 
-## TITULO TERCERO. DE LA DECLARATORIA DE ALERTA Y MEDIDAS POR VIOLENCIA CONTRA LAS MUJERES
+III.- SUPERVISAR EL CUMPLIMIENTO DE LOS CONVENIOS, EN COORDINACIÓN CON LOS DIRECTORES DE ÁREA;
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
+IV.- AUXILIAR Y ASESORAR A LAS AGRUPACIONES DEPORTIVAS EN RELACIÓN A SU CONSTITUCIÓN LEGAL;
 
-###### Artículo 16.
+V.- AUXILIAR Y ASESORAR AL PERSONAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, EN EL DESEMPEÑO DE SUS FUNCIONES, ATENDIENDO A LA NORMATIVIDAD Y LEYES APLICABLES;
 
-La Secretaría de las Mujeres, deberá:
+VI.- REPRESENTAR A LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD POR ACUERDO DEL CONSEJO DIRECTIVO, EN LOS ASUNTOS LEGALES EN QUE LA COMISIÓN SEA PARTE;
 
-I. Diseñar lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de los objetivos de la presente Ley; así como para la capacitación y especialización de las y los servidores públicos del gobierno de la Ciudad de México en perspectiva de género y derechos humanos de las mujeres;
+VII.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES Y RESULTADOS DE LA COORDINACIÓN GENERAL;
 
-II. Coordinar y operar la Red de Información de Violencia contra las Mujeres;
+VIII.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-III. Realizar diagnósticos, investigaciones, estudios e informes sobre el cumplimiento de los objetivos de esta Ley;
+IX.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO O LE CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-IV. Realizar acciones de prevención territorial y comunitaria para la promoción de los derechos de las mujeres y prevención de la violencia de género, a partir de las Unidades Territoriales de Atención, LUNAS;
+#### SECCIÓN DÉCIMA PRIMERA. DE LAS COORDINACIONES REGIONALES
 
-V. Realizar acciones y proyectos destinados a prevenir el embarazo en adolescentes y por violencia de género;
+###### ARTÍCULO 38.
 
-VI. Brindar información y orientación requerida para cada caso sobre los programas con los que cuenta la SEMUJERES para víctimas de violencia de género, en alto riesgo y/o riesgo feminicida;
+LAS COORDINACIONES REGIONALES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, SE DETERMINARÁN DE CONFORMIDAD CON EL PROGRAMA DE REGIONALIZACIÓN QUE ELABORE EL DIRECTOR GENERAL DE LA MISMA.
 
-VII. Promover una imagen de las mujeres libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
+ASIMISMO, LAS COORDINACIONES REGIONALES CONTARÁN CON EL PERSONAL QUE REQUIERAN LAS NECESIDADES DEL SERVICIO Y PERMITA SU PRESUPUESTO.
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado;
+###### ARTÍCULO 39.
 
-IX. Promover y vigilar la integración de la perspectiva de género y enfoque de derechos humanos, en los programas, servicios y acciones que ejecuten las instituciones del Gobierno de la Ciudad de México;
+LAS COORDINACIONES REGIONALES, TENDRÁN LAS SIGUIENTES FACULTADES:
 
-X. Fomentar la coordinación local y nacional con los Centros de Refugio y Casas de Emergencia para mujeres víctimas de violencia de género;
+I.- LLEVAR A CABO LOS PROGRAMAS Y PROYECTOS DE TRABAJO DEL ÁREA QUE LES CORRESPONDE;
 
-XI. Garantizar que la atención telefónica de primer contacto gratuita y especializada las 24 horas del día, los 365 días del año a través de Línea Mujeres, en donde se brindará orientación, intervención y respuesta inmediata para la prevención y atención de todo tipo de violencias para las mujeres de la Ciudad de México;
+II.- PRESENTAR UN INFORME MENSUAL POR ESCRITO AL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, SOBRE EL DESARROLLO DE SUS ACTIVIDADES;
 
-XII. Brindar orientación y asesoría jurídica a mujeres víctimas de violencia de género a través de las Abogadas de las Mujeres, para el trámite de medidas de protección en términos de la presente Ley, con el objetivo de prevenir la comisión de un delito así como la violencia feminicida;
+III.- TRAMITAR ANTE QUIEN CORRESPONDA, LOS APOYOS NECESARIOS PARA LLEVAR A CABO SUS FUNCIONES;
 
-XIII. Establecer mecanismos de coordinación interinstitucional con las Alcaldías para implementar acciones de prevención de la violencia contra las mujeres y niñas;
+IV.- APLICAR EL PRESUPUESTO QUE SE LES ASIGNE, DE ACUERDO A LA NORMATIVIDAD Y LEYES VIGENTES PARA EL EJERCICIO DEL MISMO;
 
-XIV. Las demás que señalen las disposiciones legales.
+V.- CONFORMAR Y COORDINAR LOS EVENTOS DE SU ÁREA TENDIENTES A LOGRAR UNA COBERTURA ESTATAL;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+VI.- SER RESPONSABLES DEL MANEJO DE LOS RECURSOS HUMANOS, MATERIALES Y FINANCIEROS ASIGNADOS A SU PROYECTO;
 
-###### Artículo 17.
+VII.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA, TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-La Secretaría de Inclusión y Bienestar Social de la Ciudad de México deberá:
+VIII.- LAS DEMÁS QUE LES SEÑALEN EL PRESENTE REGLAMENTO O LES CONFIERAN EL CONSEJO DIRECTIVO Y EL DIRECTOR GENERAL.
 
-I. Definir sus programas de prevención de la violencia familiar de conformidad con los principios de esta Ley;
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 2 DE JULIO DE 2002)</small>
 
-II. Realizar programas dirigidos a las mujeres en mayores condiciones de vulnerabilidad, que tiendan a fortalecer el ejercicio de su ciudadanía, su desarrollo integral y su empoderamiento;
+#### SECCIÓN DÉCIMA PRIMERA BIS. DE LA UNIDAD ADMINISTRATIVA DEL CENTRO DE CAPACITACIÓN Y FORMACIÓN PARA EL DEPORTE
 
-III. Asegurar que el servicio de localización telefónica LOCATEL oriente a las mujeres en aspectos relacionados con la presente Ley, con la finalidad de que puedan acceder a la atención integral que brinda;
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2002)</small>
 
-IV. A través de la Dirección de Igualdad:
+ARTÍCULO 39 BIS.- LA UNIDAD ADMINISTRATIVA DEL CENTRO DE CAPACITACIÓN Y FORMACIÓN PARA EL DEPORTE, ADEMÁS DE LAS FACULTADES SEÑALADAS EN LA LEY DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, TENDRÁ LAS SIGUIENTES:
 
-a) Diseñar y promover campañas de información de prevención de la violencia contra las mujeres;
+I.- PROPONER LOS PROGRAMAS Y PROYECTOS DE CAPACITACIÓN PARA LOS PROFESORES DE EDUCACIÓN FÍSICA, ENTRENADORES Y DEPORTISTAS, QUE SEAN CONSIDERADOS COMO TALENTOS DEPORTIVOS;
 
-b) Desarrollar campañas de difusión sobre los servicios que brindan las Unidades de Atención;
+II.- ELABORAR Y ACTUALIZAR LOS CURSOS DE CAPACITACIÓN Y ESPECIALIZACIÓN PARA PROFESORES DE EDUCACIÓN FÍSICA Y ENTRENADORES DE LA ENTIDAD;
 
-c) Fomentar la coordinación local y nacional con los Centros de Refugio y Casas de Emergencia para mujeres víctimas de violencia;
+III.- ESTABLECER, OPERAR Y SUPERVISAR LOS PROGRAMAS DE ACONDICIONAMIENTO FÍSICO, CAPACITACIÓN Y VALORACIÓN CLÍNICA PARA LOS DEPORTISTAS DE ALTO RENDIMIENTO DE LA ENTIDAD;
 
-d) Supervisar y verificar las condiciones en las que operan las instituciones públicas y privadas que presten el servicio de Centro de Refugio o Casas de Emergencia;
+IV.- ASESORAR EN MATERIA TÉCNICA, OPERATIVA Y CIENTÍFICA SOBRE CULTURA FÍSICA Y DEPORTIVA A LAS DEPENDENCIAS, ORGANISMOS Y PARTICULARES QUE LO SOLICITEN;
 
-e) Elaborar e instrumentar mecanismos, programas y acciones para identificar la violencia contra las mujeres;
+V.- ORGANIZAR Y ADMINISTRAR LA BIBLIOTECA ESPECIALIZADA EN LA MATERIA; Y
 
-f) Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres;
+VI.- PROMOVER EL INTERCAMBIO DE EXPERIENCIAS CON OTRAS INSTITUCIONES SEMEJANTES EN OTRAS ENTIDADES DEL PAÍS.
 
-V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA SECRETARÍA PARTICULAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+###### ARTÍCULO 40.
 
-###### Artículo 18.
+LA SECRETARÍA PARTICULAR, TENDRÁ LAS SIGUIENTES FACULTADES:
 
-La Secretaría de Salud de la Ciudad de México deberá:
+I.- ASISTIR AL DIRECTOR GENERAL EN EL DESPACHO DE LOS ASUNTOS DE SU COMPETENCIA;
 
-I. Realizar estudios estadísticos e investigaciones en materia de salud pública cuyos resultados contribuyan en la elaboración de políticas públicas para la prevención;
+II.- ESTABLECER LAS ESTRATEGIAS Y DIRECTRICES GENERALES DE LA SECRETARÍA PARTICULAR;
 
-II. Elaborar e instrumentar mecanismos, programas y acciones tendientes a identificar y disminuir los factores de riesgo que afectan la salud de las mujeres;
+III.- APLICAR EL PRESUPUESTO DESTINADO A ESTA SECRETARÍA PARTICULAR, DE ACUERDO A LA NORMATIVIDAD Y LEYES VIGENTES PARA EL EJERCICIO DEL MISMO;
 
-III. Generar y difundir información sobre los derechos sexuales y reproductivos; prevención de las enfermedades de transmisión sexual, adicciones, accidentes; interrupción legal del embarazo, salud mental, así como todos aquellos tendientes a prevenir la violencia contra las mujeres;
+IV.- COMPILAR Y REVISAR, EN COORDINACIÓN CON LAS DIRECCIONES DE ÁREA, EL INFORME TÉCNICO Y EL PLAN ANUAL DE LAS ACTIVIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-IV. Ejecutar programas especializados para prevenir las afectaciones en la salud mental de las mujeres;
+V.- GENERAR CAMPAÑAS FINANCIERAS CUANDO LAS NECESIDADES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD ASÍ LO REQUIERAN;
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+VI.- PROPORCIONAR LA INFORMACIÓN Y DOCUMENTACIÓN QUE SEAN REQUERIDAS POR OTRAS DEPENDENCIAS GUBERNAMENTALES RELATIVAS A LA ACTIVIDAD DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD;
 
-V. Elaborar informes semestrales de las acciones realizadas en el cumplimiento de la NOM-046-SSA2-2005 “Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención” y las demás Normas Oficiales Mexicanas en materia de salud para las mujeres, y
+VII.- COORDINAR LAS ACCIONES DE VINCULACIÓN INTERNA CON LAS DIRECCIONES DE ÁREA;
 
-VI. Las demás que le señalen las disposiciones legales.
+VIII.- APOYAR EN LA ORGANIZACIÓN DE EVENTOS ESPECIALES DETERMINADOS POR EL DIRECTOR GENERAL;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+IX.- DEFINIR LAS ADECUACIONES NECESARIAS PARA EL EJERCICIO DEL PRESUPUESTO;
 
-### CAPÍTULO I. DE LA DECLARATORIA DE ALERTA DE VIOLENCIA CONTRA LAS MUJERES
+X.- ELABORAR EL INFORME ANUAL DE ACTIVIDADES Y RESULTADOS DEL ÁREA;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
+XI.- FACILITAR A LA SECRETARÍA DE LA CONTRALORÍA O A LA INSTANCIA OFICIAL QUE ASÍ LO REQUIERA TODA LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE LAS FUNCIONES DE FISCALIZACIÓN, CONTROL Y VIGILANCIA; Y
 
-###### Artículo 8.
+XII.- LAS DEMÁS QUE LE SEÑALE EL PRESENTE REGLAMENTO Y LE CONFIERA EL DIRECTOR GENERAL.
 
-La Secretaría de Gobierno, a petición la Secretaría de las Mujeres y/o de las personas titulares de las Alcaldías, así como de organismos públicos autónomos de derechos humanos u organismos internacionales de protección de derechos humanos, o de las organizaciones de la sociedad civil legalmente constituidas, emitirá en un periodo máximo de diez días naturales la Declaratoria de Alerta de Violencia de Género contra las Mujeres para enfrentar la violencia feminicida que se ejerce en su contra cuando:
+#### SECCIÓN DÉCIMA TERCERA. DEL PERSONAL DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 41.
 
-I. Existan hechos documentados que presuman la comisión de delitos graves y sistemáticos contra las mujeres;
+EL CONSEJO DIRECTIVO, LA DIRECCIÓN GENERAL Y LAS DEMÁS UNIDADES ADMINISTRATIVAS DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, CONTARÁN CON EL PERSONAL NECESARIO PARA LA PROGRAMACIÓN DE SUS ACTIVIDADES, LA ATENCIÓN A LA AUDIENCIA AL PÚBLICO, EL ESTUDIO Y ANÁLISIS DE LOS ASUNTOS DE SU COMPETENCIA Y EL MANEJO DE LA CORRESPONDENCIA OFICIAL.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+ASIMISMO, DICHO PERSONAL DEBERÁ ESTAR AUTORIZADO EN EL PRESUPUESTO DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD.
 
-II. Existan elementos que presuman una inadecuada investigación y sanción de esos delitos; o
+###### ARTÍCULO 42.
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+LAS DEMÁS FUNCIONES DEL PERSONAL DIRECTIVO, ASÍ COMO LA DESCRIPCIÓN DE LOS PUESTOS DEL MISMO SERÁN ESTABLECIDAS Y REGULADAS EN EL MANUAL DE ORGANIZACIÓN DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD.
 
-III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres.
+### CAPÍTULO VI. DE LA CONTRATACIÓN DE ASESORÍA EXTERNA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 43.
 
-###### Artículo 9.
+LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, ESTARÁ FACULTADA PARA CONTRATAR LOS SERVICIOS DE ASESORÍA EXTERNA, QUE SEAN NECESARIOS PARA EL BUEN FUNCIONAMIENTO DE LA MISMA.
 
-La Declaratoria de Alerta de Violencia de Género contra las Mujeres tendrá como objetivo garantizar el cese de la violencia contra las mujeres, así como su seguridad e integridad física, emocional y patrimonial. Para ello, la Alerta de Violencia contra las Mujeres deberá:
+### CAPÍTULO VII. DE LAS RELACIONES LABORALES
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+###### ARTÍCULO 44.
 
-I. Conformar un grupo interinstitucional, multidisciplinario y con perspectiva de género que dé seguimiento a las acciones de la Declaratoria de Alerta de Violencia de Género contra las Mujeres;
+LAS RELACIONES LABORALES DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD, SE REGIRÁN POR LO DISPUESTO EN LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS Y POR LAS CONDICIONES GENERALES DE TRABAJO EN LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO.
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
-
-II. Acordar e implementar las acciones preventivas, de seguridad y justicia, necesarias para garantizar el cese de violencia contra las mujeres;
-
-III. Asignar recursos presupuestales necesarios para hacer frente a la alerta de violencia contra las mujeres, y
-
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
-
-IV. Hacer del conocimiento público el motivo de la Declaratoria de Alerta de Violencia de Género contra las Mujeres y la zona territorial que abarcan las medidas a implementar.
-
-###### Artículo 19.
-
-La Secretaría de Educación, Ciencia, Tecnología e Innovación, deberá:
-
-I. Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres;
-
-II. Generar acciones y mecanismos que favorezcan el desarrollo de las potencialidades de las mujeres en todas las etapas del proceso educativo;
-
-III. Identificar las causas de deserción que afectan la vida escolar de las mujeres a efecto de crear programas que fomenten la igualdad de oportunidades en su acceso y permanencia;
-
-IV. Elaborar mecanismos de detección, denuncia y canalización de la violencia contra las mujeres fuera o dentro de los Centros educativos, así como prácticas discriminatorias y violentas en la comunidad escolar,; (sic)
-
-V. Elaborar y difundir materiales educativos para la prevención y atención de la violencia contra las mujeres;
-
-VI. Establecer mecanismos de denuncia y de protección para las alumnas que sean discriminadas y violentadas en sus derechos;
-
-VII. Diseñar y difundir materiales educativos con información sobre los derechos sexuales y reproductivos y para prevenir el abuso sexual infantil;
-
-VIII. Promover talleres de prevención de la violencia contra las mujeres dirigidos a sus familiares;
-
-IX. Diseñar e instrumentar programas no formales de educación comunitaria para prevenir la violencia contra las mujeres;
-
-X. Realizar estudios estadísticos e investigaciones para conocer y analizar el impacto de la violencia contra las mujeres en la deserción escolar, su desempeño, así como en el desarrollo integral de todas sus potencialidades;
-
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
-
-XI. Coordinar acciones con las asociaciones de madres y padres de familia y vecinales con el objeto de fomentar su participación en los programas de prevención que establece esta ley;
-
-> <small>(ADICIONADA, G.O. 10 DE JUNIO DE 2022)</small>
-
-XI Bis. Coordinar acciones con personas titulares de direcciones y rectorías de escuelas públicas y privadas de nivel básico, medio superior y superior, para establecer mecanismos de aplicación y seguimiento de las disposiciones anteriores para garantizar su cumplimiento; y
-
-XII. Las demás que le señalen las disposiciones legales.
-
-###### Artículo 20.
-
-La Secretaría de Trabajo y Fomento al Empleo deberá:
-
-I. Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres y el desarrollo integral de sus capacidades y habilidades en su desempeño laboral;
-
-II. Incorporar en la supervisión de las condiciones laborales de los centros de trabajo la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
-
-III. Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
-
-IV. Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
-
-V. Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
-
-VI. Realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales;
-
-VII. Gestionar beneficios fiscales para las empresas que otorguen empleo a las mujeres en prisión y a las liberadas, preliberadas o externadas;
-
-VIII. Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez y de no antecedentes penales para su contratación o permanencia en el empleo, salvo las excepciones expresamente previstas en otras disposiciones legales; y
-
-IX. Las demás que le señalen las disposiciones legales.
-
-###### Artículo 21.
-
-La Secretaría de Desarrollo Urbano y Vivienda deberá:
-
-I. Elaborar programas y acciones de desarrollo urbano y vivienda, que beneficien con créditos accesibles, otorgamiento y mejoramiento de vivienda, entre otros, a las mujeres víctimas de violencia, en forma prioritaria a aquellas que se encuentren en mayor condición de vulnerabilidad; y
-
-II. Las demás que le señalen las disposiciones legales.
-
-###### Artículo 22.
-
-La Secretaría de Cultura deberá:
-
-I. Promover a través de los programas y actividades culturales, los derechos humanos de las mujeres;
-
-II. Promover que las mujeres dispongan de espacios para el esparcimiento, juegos y actividades recreativas, y participen en la vida cultural y artística;
-
-III. Desarrollar con otras dependencias y entidades, encargadas de promover la cultura, campañas para prevenir la violencia contra las mujeres;
-
-IV. Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
-
-V. Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
-
-VI. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas;
-
-VII. Diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres así como de las dependencias y entidades que las atienden, en coordinación con las organizaciones beneficiarias del financiamiento de los proyectos de vivienda; y
-
-VIII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 23.
-
-El Sistema de Transporte Público de la Ciudad de México deberá:
-
-I. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
-
-II. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en el transporte público;
-
-III. Realizar con otras dependencias campañas de prevención de la violencia contra las mujeres en el transporte público; y
-
-IV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
-
-### CAPÍTULO II. DE LAS MEDIDAS EN LOS CASOS DE VIOLENCIA FEMINICIDA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 24.
-
-El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México deberá:
-
-I. Diseñar y promover campañas de información de prevención de la violencia contra las mujeres;
-
-II. Desarrollar campañas de difusión sobre los servicios que brinda;
-
-III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora de violencia sexual; siempre y cuando exista un modelo de abordaje psicoterapéutico debidamente probado en sus beneficios y alcances y supervisado por la Secretaria de las Mujeres; y
-
-> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-V. Sensibilizar y concientizar a las personas usuarias de sus servicios sobre las consecuencias y efectos de la violencia contra las mujeres y las niñas dentro del entorno familiar;
-
-> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-VI. Desarrollar programas de intervención temprana para prevenir casos de violencia contra las mujeres en el ámbito familiar en coordinación con la Secretaría de las Mujeres y demás dependencias e instituciones competentes; y
-
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-VII. Las demás que le confieran esta y otras leyes o disposiciones legales aplicables y el Reglamento de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 25.
-
-La Secretaría de Seguridad Ciudadana deberá:
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-I. Elaborar e implementar en coordinación con la Fiscalía, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva, así como a aquellas donde residan un mayor número de personas inscritas en el Registro;
-
-II. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado. Debiendo en todo momento estar actualizadas las consultas al Registro;
-
-IV. Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
-
-> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-IV Bis. Publicar en su portal web oficial, el Registro Público de Personas Agresoras Sexuales, registrando a la persona sentenciada una vez que cause ejecutoria la sentencia;
-
-> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-IV Ter. Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro Público de Agresores Sexuales;
-
-> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-IV Quáter. Expedir los mecanismos que permitan inscribir, acceder, rectificar, cancelar y oponerse cuando resulte procedente, la información contenida en el Registro;
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-V. Realizar, en coordinación con la Secretaría de las Mujeres campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres, incluyendo los de carácter sexual, y las consultas al Registro;
-
-> <small>(REFORMADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-VI. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
-
-> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-VI Bis. Participar en la Coordinación Interinstitucional y en las acciones de prevención y erradicación de la violencia que prevé esta Ley;
-
-> <small>(ADICIONADA, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
-
-VI Ter. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto; y
-
-VII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 26.
-
-La Fiscalía deberá:
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-I. Elaborar e instrumentar en coordinación con la Secretaria de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número (sic) personas inscritas en el Registro;
-
-II. Realizar investigaciones para detectar y desarticular redes de prostitución, corrupción, trata de personas y otros delitos de los que son víctimas las mujeres;
-
-III. Fomentar la coordinación interinstitucional local y nacional para detectar las redes señaladas en fracciones anteriores e informar a la sociedad sobre las acciones en materia de detección y consignación de estas redes;
-
-IV. Desarrollar campañas de difusión de los servicios que prestan los centros que integran el Sistema de Auxilio a Víctimas del Delito;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-V. Desarrollar campañas de difusión sobre los derechos que tienen las víctimas de delitos que atentan contra la libertad, la salud, la seguridad sexuales y el normal desarrollo psicosexual, así como de violencia familiar, y las agencias especializadas o Fiscalías que las atienden.
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-VI. Crear bases de datos que contengan información de carácter público a efecto que pueda registrarse el seguimiento de los casos donde la mujer es víctima de algún delito que atente contra su integridad personal, desde la etapa de averiguación previa o investigación hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño.
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-VII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de los procedimientos penales y sentencias que se dictan en contra de las mujeres responsables de delitos;
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-VIII. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima, pero nunca datos personales que permita su localización o identificación y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, las personas sentenciadas y que la autoridad jurisdiccional ordena se inscriban en el Registro, los vinculados a proceso, aquellos en que se haya dictado el auto de apertura a juicio oral, los sancionados y aquellos en los que procedió la reparación del daño;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-IX. Elaborar una página de Internet en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. Dicha página deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas; atendiendo en los términos de (sic) que establece la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-X. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, instaurados por el Instituto de Formación Profesional, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de averiguaciones previas, la investigación de hechos que la ley señale como delitos y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
-
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
-
-XI. Elaborar, aplicar y actualizar Protocolos especializados con perspectiva de género en: la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-XII. Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niñas desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-La información integrada en esta base deberá ser resguardada y podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas y en los términos de la legislación de procedimientos penales aplicable a la Ciudad de México; y
-
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
-
-XIII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
-
-###### Artículo 27.
-
-El Tribunal deberá:
-
-I. Capacitar y especializar a su personal en materia de derechos humanos de las mujeres;
-
-II. Promover a través de la capacitación del personal, la construcción de una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-III. Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
-
-IV. Diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres;
-
-V. Generar mecanismos y promover su implementación para la detección de violencia contra las mujeres;
-
-VI. Las demás que le atribuyan otros ordenamientos legales.
-
-### CAPÍTULO III. DE LA ATENCIÓN
-
-###### Artículo 28.
-
-Las medidas de atención en materia de violencia contra las mujeres consisten en brindar servicios médicos, psicológicos, jurídicos y sociales con calidad y calidez para su empoderamiento y desarrollo integral de sus potencialidades.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 29.
-
-Las dependencias, órganos y entidades de la Ciudad de México, las Alcaldías, así como las instituciones privadas que presten servicio de atención en materia de violencia contra las mujeres, deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de derechos humanos de las mujeres.
-
-###### Artículo 30.
-
-La intervención especializada, desde la perspectiva de género, para las mujeres víctimas de violencia se regirá por los siguientes lineamientos:
-
-I. Atención integral: Se realizará considerando el conjunto de necesidades derivadas de la situación de violencia, tales como la sanitaria, psicosocial, laboral, orientación y representación jurídica, albergue y seguridad, patrimonial y económica;
-
-II. Efectividad: se adoptarán las medidas necesarias para que las víctimas, sobre todo aquellas que se encuentran en mayor condición de vulnerabilidad, accedan a los servicios integrales que les garantice el ejercicio efectivo de sus derechos;
-
-III. Legalidad: Apego al orden jurídico y respeto a los derechos humanos de las mujeres víctimas de violencia;
-
-IV. Auxilio oportuno: Brindar apoyo inmediato y eficaz a las mujeres en situación de riesgo o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos; y
-
-V. Respeto a los Derechos Humanos de las Mujeres: Abstenerse en todo momento y bajo cualquier circunstancia de hacer uso indebido de la fuerza, de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes en contra de las mujeres.
-
-###### Artículo 31.
-
-Con el fin de proporcionar una efectiva atención a la violencia contra las mujeres, se actuará a partir de un Modelo Único de Atención, para garantizar que las intervenciones en cada ámbito de la violencia correspondan a una base conceptual y un conjunto de lineamientos de coordinación que impidan la fragmentación de la acción de las dependencias y entidades.
-
-###### Artículo 32.
-
-El Modelo Único de Atención establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen para operar a través de la red de información de violencia contra las mujeres, mediante una cédula de registro único, de tal manera que con independencia de la institución a la que acudan por primera vez las mujeres víctimas de violencia, se garantice el seguimiento del caso hasta su conclusión.
-
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
-
-Las dependencias, entidades de la Ciudad de México y las Alcaldías deberán registrar el ingreso de las mujeres víctimas de violencia en la Red de Información de violencia contra las mujeres mediante la cédula de registro único. Esta cédula deberá transmitirse a las dependencias y entidades de la Ciudad de México a donde se canalicen las víctimas o se preste el servicio subsecuente, a efecto de que se tenga un registro de la atención que se brinda desde el inicio hasta la conclusión de cada caso. El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la Cédula de Registro Único.
-
-###### Artículo 33.
-
-El Modelo Único de Atención tendrá las siguientes etapas:
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-l. Identificación de la problemática. Consiste en determinar las características del problema, el tipo, modalidad de violencia o hecho delictivo, los efectos y posibles riesgos para las víctimas directas e indirectas, en su esfera social, económica, laboral, educativa y cultural;
-
-II. Determinación de prioridades. Consiste en identificar las necesidades inmediatas y mediatas, así como las medidas de protección que en su caso requiera la víctima;
-
-III. Orientación y canalización. La autoridad o entidad a la que acuda la víctima por primera vez brindará de manera precisa, con lenguaje sencillo y accesible, la orientación social y jurídica necesaria y suficiente con respecto al caso de violencia que presente, realizando la canalización ante la instancia correspondiente;
-
-IV. Brindar acompañamiento. Cuando la condición física y/o psicológica de la víctima lo requiera deberá realizar el traslado con personal especializado a la institución que corresponda;
-
-V. Seguimiento. Son las acciones para vigilar el cumplimiento de los procedimientos de canalización contenidos en esta Ley para atender los casos de violencia contra las mujeres.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
-
-###### Artículo 34.
-
-Las dependencias, entidades de la Ciudad de México y las Alcaldías que atienden a mujeres víctimas de violencia en la Ciudad de México deberán:
-
-I. Canalizar de manera inmediata a las mujeres víctimas de violencia a las Unidades de Atención; cuando se trate de violencia sexual, serán trasladadas a la agencia del Ministerio Público que corresponda;
-
-II. Realizar en coordinación con las otras dependencias, para asegurar la uniformidad y la calidad de la atención de las mujeres víctimas de violencia, protocolos de atención médica, psicológica y jurídica;
-
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
-
-III. Las dependencias, entidades de la Ciudad de México y las Alcaldías que atiendan a mujeres víctimas de violencia deberán expedir documentos que hagan constar la atención de las mujeres víctimas de violencia, con la finalidad de que los hagan valer en sus centros de trabajo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 35.
-
-La Secretaría de las Mujeres de la Ciudad de México deberá:
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-I. Realizar acciones de atención multidisciplinaria y especializada, detección de riesgo de violencia feminicida y, en su caso, acompañamiento a mujeres y niñas en situación de violencia de género, que acudan (sic) las Unidades Territoriales de Atención, LUNAS, ubicadas en cada alcaldía. La atención se brindará con enfoque de género y derechos humanos;
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-II. Garantizar la aplicación de los instrumentos para la atención inicial, orientación jurídica y psicológica, y asistencia social en las Unidades Territoriales de Atención, LUNAS, quienes realizarán:
-
-a) Entrevista inicial a la víctima, elaboración de la Cédula de Registro único, detección de riesgo y en el caso de delitos sexuales, se deberá canalizar y acompañarla sin dilación alguna a la Procuraduría;
-
-b) La orientación y asesoría jurídica a las víctimas de violencia de género;
-
-c) La atención psicológica urgente y terapéutica, según se requiera y que puede ser:
-
-i) De intervención en crisis;
-
-ii) Individual; o
-
-iii) Grupal.
-
-d) Canalizar a la víctima para seguimiento y atención a la instancia correspondiente;
-
-e) La gestión de su ingreso a los Centros de Refugio, en caso de resultar necesario.
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-III. Coordinar y administrar el Programa de Reinserción Social para las mujeres egresadas de los Centros de Refugio, con la finalidad de generar las condiciones necesarias que les permitan superar su situación de exclusión social;
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-IV. Generar programas específicos en conjunto con la Secretaría de Salud de la Ciudad de México para atención de las mujeres en reclusión, internas en hospitales psiquiátricos y mujeres con capacidades especiales o diferentes;
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-V. Gestionar:
-
-a) Ante la Secretaría de Desarrollo Económico, impulsar y facilitar el acceso de las víctimas a sus programas de crédito, así como, generar una bolsa de trabajo;
-
-b) Ante la Secretaría del Trabajo y Fomento al Empleo, incentivar en las empresas la capacitación y generación de empleo con horarios favorables y remuneración justa y vigilar que las contratadas gocen de todos sus derechos laborales;
-
-c) Ante el Sistema de Transporte Público, la obtención de credenciales que permitan la gratuidad del transporte para las mujeres que se encuentren en un albergue, por el espacio en que dure su estancia en el mismo;
-
-d) Ante la Secretaría de Desarrollo Urbano y Vivienda, facilitar los trámites para que las mujeres víctimas de violencia de género obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda;
-
-e) Ante el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, el acceso preferencial y gratuito o a bajo costo, a estancias o guarderías para las y los hijos de las mujeres víctimas de violencia y, en conjunción con la Secretaría de Educación, Ciencia, Tecnología e Innovación, gestionar un programa de becas exclusivo para este tipo de población en riesgo y privilegiar su ingreso a escuelas cercanas al albergue o domicilio de las víctimas; y
-
-f) Con la Secretaría de Administración y Finanzas, la exención del pago en la emisión de documentos que requieran las víctimas de violencia de género para la substanciación de procedimientos en materia penal y civil instaurados con motivo de la violencia que viven.
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-VI. Dar seguimiento a los casos integrando el expediente con la cédula de registro único, documentos de referencia y soporte; y
-
-> <small>(REFORMADO EN SU NÚMERO Y REPUBLICADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-VII. A través de las Abogadas de las Mujeres:
-
-a) Atender a las mujeres víctimas de violencia de género
-
-b) Realizar entrevista inicial para la identificación de la problemática y detección de riesgo de violencia;
-
-c) Brindar orientación y asesoría jurídica a las mujeres víctimas de violencia de género, en las Agencias Desconcentradas y algunas Fiscalías Especializadas del Ministerio Público;
-
-d) Coadyuvar en el proceso de denuncia de las mujeres víctimas de violencia de género en las Agencias del Ministerio Público;
-
-> <small>(REFORMADA EN SU NÚMERO Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-VIII. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
-
-###### Artículo 36.
-
-La Secretaría de Salud deberá:
-
-I. Brindar a las mujeres víctimas de violencia el acceso gratuito a los servicios de atención médica y psicológica para su tratamiento correspondiente;
-
-II. Canalizar a las Unidades de Atención, previa notificación, a las mujeres que presenten lesiones u otros signos que sean presumiblemente consecuencia de la violencia sufrida, excepto los casos de violencia sexual;
-
-III. Llevar a cabo registros de información desagregada por sexo, considerando todas las variables necesarias que permitan analizar el impacto de la violencia en la salud de las mujeres; Crear programas especializados para atender a mujeres víctimas de violencia con necesidades de atención psicológica y/o psiquiátrica;
-
-IV. Proporcionar atención en salud reproductiva de las mujeres, en especial de aquellas que se encuentran en mayores condiciones de vulnerabilidad y/o privadas de su libertad;
-
-V. Diseñar y ejecutar programas especializados para atender a mujeres víctimas de violencia con necesidades de salud mental, en los (sic) Casas de Emergencia y Centros de Refugio; y
-
-VI. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
-
-###### Artículo 37.
-
-La Secretaría de Trabajo y Fomento al Empleo deberá:
-
-I. Promover en coordinación con la Dirección de Igualdad, la creación o generación de bolsas de trabajo específicas para mujeres víctimas de violencia y apoyar la capacitación para el auto empleo;
-
-II. Brindar acompañamiento jurídico a las mujeres víctimas de violencia en el ámbito laboral; y
-
-III. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
-
-###### Artículo 38.
-
-La Consejería Jurídica y de Servicios Legales gestionará las facilidades y exenciones para el pago de derechos y expedición de copias certificadas de las actas del estado civil de las Personas, para mujeres víctimas de violencia.
-
-###### Artículo 39.
-
-El Sistema de Transporte Público deberá:
-
-I. Gestionar para que a las mujeres víctimas de violencia se les brinden facilidades y exenciones de pago por el uso del servicio de transporte público, en tanto que permanezcan en los mismos; y
-
-II. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 40.
-
-La Secretaría de Desarrollo Urbano y Vivienda, en coordinación con la Secretaría de las Mujeres de la Ciudad de México y la Fiscalía, deberá facilitar los trámites para que las mujeres víctimas de violencia obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda. Este programa deberá considerar las condiciones de vulnerabilidad en las que se encuentren las mujeres víctimas.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 41.
-
-La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, en colaboración con el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y la Secretaria de Inclusión y Bienestar Social;, (sic) deberá formular programas de otorgamiento de becas dirigido a mujeres víctimas de violencia y en situación de riesgo, así como a sus dependientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 42.
-
-El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México deberá:
-
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-I. Dar acceso preferencial y gratuito o a bajo costo, a estancias o guarderías, a las hijas y los hijos de las mujeres víctimas de violencia;
-
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-II. Brindar asesoría, orientación y asistencia social a las personas víctimas de violencia familiar y violencia de género, en todos los centros que se encuentren a su cargo, así como servicios reeducativos integrales a las personas agresoras, con la finalidad de erradicar la violencia de su vida;
-
-> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-III. Capacitar y sensibilizar al personal a su cargo a fin de que otorguen atención con perspectiva de género a las personas víctimas de violencia familiar;
-
-> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
-
-IV. Canalizar oportunamente a las instancias competentes los casos de violencia contra las mujeres y las niñas, así como, brindar a las víctimas la orientación necesaria sobre el proceso y tramites respectivos; y
-
-V. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
-
-### CAPÍTULO IV. DEL SEGUIMIENTO Y EVALUACIÓN
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO I. DEL GABINETE DE IGUALDAD SUSTANTIVA Y VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 43.
-
-Las personas titulares de las dependencias, órganos, entidades de la Ciudad de México y las Alcaldías que integran el Gabinete de Igualdad Sustantiva y Violencia Contra las Mujeres, se reunirán de manera periódica con la finalidad de evaluar el cumplimiento de los objetivos (sic) esta Ley.
-
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
-
-### CAPÍTULO II. DE LA PREVENCIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 44.
-
-Las reuniones de la Coordinación Interinstitucional serán presididas por la persona Titular de la Jefatura de Gobierno y funcionará como Secretaría Ejecutiva, la persona Titular de la Secretaría de las Mujeres.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 45.
-
-Serán invitadas permanentes las personas titulares de las dependencias del Gobierno de la Ciudad de México, que no sean parte de la Comisión Interinstitucional; la persona titular de la Comisión de Derechos Humanos de la Ciudad de México, tres representantes del Congreso de la Ciudad de México, tres representantes de la sociedad civil y tres investigadoras especialistas, así como representantes de organismos internacionales especializados en la materia.
-
-###### Artículo 46.
-
-Quienes participen en las reuniones de la Comisión Interinstitucional tendrán derecho a voz y a voto, y podrán designar a una persona suplente previa acreditación, la cual deberá tener capacidad decisoria.
-
-###### Artículo 47.
-
-Con la finalidad de avanzar en el desarrollo de políticas públicas coordinadas, las dependencias de la Comisión Interinstitucional podrán conformarse en Comités de trabajo, por materia, que serán los siguientes:
-
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
-
-I. De prevención, que será coordinado por la Secretaría de las Mujeres;
-
-II. De atención, que será coordinado por la Dirección de Igualdad; y
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-III. De acceso a la justicia, el cual será coordinado por la Fiscalía.
-
-> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
-
-IV. De Protección y Registro de Agresores
-
-###### Artículo 48.
-
-El Reglamento de la presente Ley establecerá el funcionamiento de la Comisión Interinstitucional en cuanto al seguimiento y evaluación de la presente Ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE ENERO DE 2011)</small>
-
-### CAPÍTULO V. DE LAS CASAS DE EMERGENCIA, CENTROS DE REFUGIO Y REFUGIOS ESPECIALIZADOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
-
-###### Artículo 49.
-
-Las Casas de Emergencia son estancias especialmente acondicionadas para recibir a las mujeres víctimas de violencia y a las víctimas indirectas, que operan las 24 horas del día y los 365 días del año.
-
-> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
-
-Cada una de las 16 Alcaldías de la Ciudad de México deberá contar, por lo menos, con una Casa de Emergencia, que opere bajo los protocolos y modelos de atención aprobados por la Secretaría de las Mujeres.
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-Podrá ingresar a las Casas de Emergencia, cualquier mujer, sin importar su condición, origen étnico o pertenencia a la diversidad sexual; así como sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella. El periodo de estancia no será mayor de tres días, previa canalización a un albergue, de ser necesario.
-
-> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2021)</small>
-
-En caso de que la mujer víctima de violencia, sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella, sean de origen indígena, extranjeras, de la tercera edad, con alguna discapacidad o alguna condición económica, cultural o social que les afecte de manera directa y cause un daño grave en su dignidad humana, las Casas de Emergencia podrán solicitar a través de la Secretaría de las Mujeres, la colaboración de otras dependencias e Instituciones, así como a la Fiscalía General de Justicia de la Ciudad de México y a las 16 Alcaldías, que en el ámbito de su competencia, se tomen medidas integrales y de urgencia para reparar el ejercicio de derechos y libertades, primordialmente para asegurar su integridad personal.
-
-###### Artículo 50.
-
-Los Centros de Refugio son lugares temporales de seguridad para la víctima y víctimas indirectas que funcionarán las 24 horas del día, los 365 días del año.
-
-La permanencia en los Centros de Refugio se dará en tanto subsista la inestabilidad física y/o psicológica, o bien subsista el riesgo para la víctima directa y las víctimas indirectas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 50 Bis.
-
-Los Refugios Especializados son estancias del Gobierno de la Ciudad de México específicamente creadas para víctimas de trata de personas, en las que se brindarán las condiciones para garantizar el respeto a los derechos humanos de las víctimas, su alojamiento por el tiempo necesario, asistencia médica especializada, jurídica, psiquiátrica y psicológica, capacitación para su integración social y laboral, alimentación y los cuidados mínimos que cubran las necesidades particulares de las víctimas y las víctimas indirectas, los cuales funcionarán de forma permanente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
-
-La internación en Refugios Especializados se hará como medida de protección temporal cuando la restitución o reinserción de la víctima a su núcleo familiar no sea posible, o se considere desfavorable.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 50 Ter.
-
-Los Refugios Especializados estarán a cargo de la Fiscalía General de Justicia de la Ciudad de México, la cual deberá incluir en su anteproyecto de presupuesto de egresos de la Ciudad de México de cada ejercicio fiscal los recursos necesarios para su operación.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 50 Quater.
-
-Para brindar los servicios y atención a las víctimas de trata de personas, los Refugios Especializados estarán a lo dispuesto en los artículos 51 y 52 de esta Ley, así como a las medidas de protección de las víctimas y al Programa que refiere la Ley para Prevenir y Erradicar la Trata de Personas, el abuso sexual y la explotación sexual comercial infantil vigente en la Ciudad de México.
-
-###### Artículo 51.
-
-Las Casas de Emergencia y los Centros de Refugio brindarán los siguientes servicios:
-
-I. Atención psicológica, médica, jurídica y social;
-
-II. Acceso a servicios de atención especializada para contención de personas en estado de crisis o enlaces permanentes para canalización a dependencias especializadas de servicios médicos y de psicología que pueden ser otorgados por instituciones públicas o privadas;
-
-III. Capacitación para que las mujeres desarrollen habilidades para el empleo, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada; y
-
-IV. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
-
-###### Artículo 52.
-
-Las Casas de Emergencia y Centros de Refugio, para estar en condiciones óptimas y así garantizar la atención con calidad y calidez, tendrán:
-
-I. Instalaciones higiénicas;
-
-II. Áreas suficientes, iluminadas y ventiladas;
-
-III. Áreas especiales para la atención de las niñas y los niños que acompañen a las víctimas;
-
-IV. Áreas especiales para la atención de las personas mayores que acompañen a las víctimas;
-
-V. Agua potable, luz eléctrica, lavabos y regaderas suficientes, red de agua caliente para baños;
-
-VI. Personal femenino en las áreas de trabajo social, psicología y medicina;
-
-VII. Dormitorios con camas individuales o espacios para una familia integrada por una mujer y sus dependientes;
-
-VIII. Seguridad en el acceso a las instalaciones; y
-
-IX. Personal capacitado que apliquen las Normas Oficiales Mexicanas relativas y vigentes a este tipo de centros de atención.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
-
-###### Artículo 52 Bis.
-
-En todos los casos se garantizará que la estancia en las Casas de Emergencia, Centros de Refugio o Refugios Especializados sea voluntaria y se procurará que en la canalización a estos espacios la familia no sea separada.
-
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2021)</small>
-
-###### Artículo 53.
-
-La Secretaría de las Mujeres y las 16 Alcaldías, deberán actuar de forma coordinada, con el fin de establecer estándares de gestión y atención que garanticen a todas las mujeres de la Ciudad de México que requieran acceder a una Casa de Emergencia o Centros de Refugio los servicios con calidad, oportunidad y pertinencia con apoyo de agentes clave de gobierno y sociedad civil.
-
-Con este propósito podrán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil especializadas en los temas de competencia, para el diseño, concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-Las Alcaldías deberán contemplar en su Plan de Egresos de cada año lo establecido en la presente ley para la instalación progresiva, operatividad y/o el mantenimiento de la o las respectivas Casas de Emergencia. Los Centros de Refugio se sujetarán a las disposiciones de financiamiento y concertación de acciones establecidas en la presente ley y demás normativa aplicable.
-
-El Congreso de la Ciudad de México deberá considerar lo establecido por la presente ley para la asignación de recursos a las Alcaldías en cada ejercicio fiscal.
-
-### CAPÍTULO VI. DEL ACCESO A LA JUSTICIA
-
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
-
-###### Artículo 54.
-
-El acceso a la justicia de las mujeres, es el conjunto de acciones jurídicas que deben realizar las dependencias, entidades de la Ciudad de México y las Alcaldías para hacer efectiva la exigibilidad de sus derechos en los ámbitos civil, familiar, penal, entre otros. Implica la instrumentación de medidas de protección, así como el acompañamiento, la representación jurídica y, en su caso, la reparación del daño.
-
-###### Artículo 55.
-
-Las acciones de acceso a la justicia consisten en:
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-I. Implementar de manera pronta y eficaz medidas de protección para las mujeres víctimas de violencia o en riesgo de serlo, para salvaguardar su integridad física y psíquica, así como su patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren. Considerando para los casos de riesgo de violencia sexual el Registro puntual de los agresores;
-
-II. Actuar con la debida diligencia para orientar, acompañar y representar a las mujeres víctimas de violencia en los procedimientos en que participen, con el fin de que sean sancionados los actos de violencia cometidos en su contra, así como para hacer efectiva la reparación del daño; y
-
-III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la violencia contra las mujeres y evitar la violencia institucional.
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 56.
-
-En la esfera de la procuración y administración de justicia, se contará con abogadas victimales y asesoras o asesores jurídicos que coadyuven con las mujeres víctimas de violencia, quienes podrán tener la representación legal de aquellas mujeres que no cuenten con los medios económicos suficientes para contratar una o un defensor particular.
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-###### Artículo 57.
-
-La representación legal que se proporcione a las víctimas, consistirá en el patrocinio y asesoría legal especializada, en asuntos del fuero común, en materia penal, civil, familiar, arrendamiento y laboral de la siguiente manera:
-
-I. En materia penal a cargo de la Fiscalía a través de una asesora o un asesor jurídico;
-
-II. En materia civil y arrendamiento, a cargo de la Consejería Jurídica y de Servicios Legales a través de una defensora o un defensor público;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-III. En materia familiar a cargo del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, a través de sus abogadas y abogados adscritos;
-
-IV. En materia laboral a cargo de la Procuraduría de la Defensa del Trabajo, a través de personal jurídico adscrito a la Subprocuraduría de Atención a Mujeres.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 58.
-
-La Fiscalía, desde la perspectiva de género, deberá:
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-I. Verificar que exista la representación legal en materia penal a las mujeres víctimas de violencia, a través de asesoras o asesores jurídicos;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-II. Elaborar los dictámenes psicológicos victimales en los términos de la legislación de procedimientos penales aplicable a la Ciudad de México.
-
-La exploración y atención médica psiquiátrica, ginecológica o cualquiera otra que se practique a la mujer víctima de un delito que atente contra su libertad y el normal desarrollo psicosexual, estará a cargo de persona facultativa de su mismo sexo, salvo cuando la víctima del delito sexual o su representante legal solicite lo contrario. Cuando la mujer víctima sea menor de edad, dicha atención será proporcionada por personal especializado en el tratamiento de menores.
-
-III. Fortalecer el Fondo de Apoyo a Víctimas del Delito para apoyar económicamente a todas las mujeres víctimas de violencia que se encuentren en mayores condiciones de vulnerabilidad y propiciar su autonomía;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-IV. Gestionar convenios con la Secretaría de Administración y Finanzas para exención del pago de derechos a las mujeres víctimas de violencia en la emisión de copias certificadas, videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier otra tecnología o copia de las versiones escritas que correspondan a los procedimientos en materia penal;
-
-V. Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva; y
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-VI. Realizar las investigaciones relacionadas con feminicidios, a través de la Fiscalía que para tal efecto prevea su Ley Orgánica, y además:
-
-a).- Dos peritos practicarán la necropsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originaron la muerte. Solo podrá dejarse de hacer la necropsia, cuando el Juez lo acuerde previo informe o dictamen de los peritos médicos;
-
-b).- La investigación pericial, ministerial y policial deberá realizarse de conformidad con los parámetros establecidos en los protocolos especializados con perspectiva de género. La aplicación de dicho protocolo será obligatoria y su inobservancia será motivo de responsabilidad;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-c).- La Fiscalía deberá conservar un registro fotográfico de la víctima, de la descripción de sus lesiones, objetos y vestimenta con que haya sido encontrada que servirán para resolver cada caso, así como para investigaciones de la misma naturaleza.
-
-Cuando se trate de cadáveres no identificados o que no puedan ser reconocidos, deberá realizarse un estudio para determinar su ADN que se integrará al Banco de Datos de Información Genética, a cargo de la Fiscalía, al que se incorporará la información genética de familiares de mujeres desaparecidas o presuntas víctimas de feminicidio, cuando así lo soliciten o en cumplimiento a una orden de la autoridad judicial.
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-VII.- Implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, aplicar con prontitud y eficacia las medidas u órdenes de protección señaladas en esta Ley y en la legislación de procedimientos penales aplicable a la Ciudad de México; y
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-VIII.- Las demás que le atribuyen otros ordenamientos legales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 59.
-
-La Secretaría de Seguridad Ciudadana, desde la perspectiva de género, deberá:
-
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-I. Conformar un cuerpo policíaco especializado en atender y proteger a las víctimas de violencia, y brindar las medidas de protección y de monitoreo del Registro que establece esta Ley;
-
-II. Crear mecanismos de coordinación y colaboración con las dependencias encargadas de la seguridad pública en las distintas entidades federativas que coadyuven en la ejecución de las medidas que garanticen la seguridad de las víctimas; y
-
-III. Las demás que le atribuyan otros ordenamientos legales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 60.
-
-La Consejería Jurídica y de Servicios Legales de la Ciudad de México a través de la Defensoría Pública, desde la perspectiva de género, deberá:
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-I. Representar y asesorar a las mujeres víctimas de violencia canalizadas por las dependencias que integran el Gabinete de Igualdad Sustantiva y Violencia Contra las Mujeres, en materias penal, civil y familiar;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-II. Promover ante el Tribunal las medidas u órdenes de protección establecidas en la presente Ley, de conformidad con las normas sustantivas y adjetivas aplicables a la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-III. Canalizar a la Secretaría de las Mujeres a las víctimas que tengan necesidad de ingresar a las Casas de Emergencia o Centros de Refugio a fin de que reciban los beneficios de los programas sociales establecidos;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-IV. Promover las denuncias correspondientes por hechos que la ley señale como delitos cometidos en agravio de sus defendidas, que se encuentren internas en los centros de reinserción social y penitenciarias; y
-
-V. Las demás que le atribuyan otros ordenamientos legales.
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 60 Bis.
-
-Son funciones de la Subsecretaría del Sistema Penitenciario:
-
-I. Organizar, administrar, actualizar y resguardar la información contenida en el Registro en términos de las leyes aplicables, lineamientos y protocolos para la recepción, procesamiento, consulta y resguardo de la información que se expidan para tal efecto;
-
-II. Realizar y elaborar estudios, investigaciones y estadísticas con los datos contenidos en el Registro, respetando la información de datos personales conforme a la normatividad aplicable para la elaboración de políticas públicas;
-
-III. Recibir de los órganos jurisdiccionales, la entrega de los datos de las personas sentenciadas con ejecutoria para registro de los mismos.
-
-IV. Adoptar las medidas necesarias para asegurar la veracidad, integridad y accesibilidad de la información, así como la protección de los datos personales contenidos, en el Registro de conformidad con la normativa aplicable, aplicando los lineamientos y protocolos respectivos;
-
-V. Proporcionar información sobre los agresores sexuales a las autoridades locales competentes de conformidad con la normatividad aplicable;
-
-VI. Vigilar el uso correcto de la información contenida en el Registro y, en su caso, sancionar o dar vista a la autoridad competente respecto del uso indebido de la información,
-
-VII. Las demás que prevean otras disposiciones legales.
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 61.
-
-El Tribunal, desde la perspectiva de género, deberá:
-
-l. Contar con jueces de lo civil, familiar y penal las veinticuatro horas del día, y los trescientos sesenta y cinco días del año, que puedan ordenar en cualquier momento las medidas u órdenes de protección que requieran las mujeres víctimas de violencia, así como las víctimas indirectas;
-
-II. Dictar las medidas u órdenes de protección necesarias para salvaguardar la integridad física y psíquica, la libertad, la seguridad y el patrimonio de las mujeres víctimas de violencia o en riesgo de serlo, así como de sus dependientes; y
-
-III. Las demás que le atribuyan otros ordenamientos legales.
-
-(REPUBLICADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)
-
-Artículo 61 bis. La Secretaría de Salud, desde la perspectiva de género, deberá:
-
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-I.- A petición de la mujer interesada, practicar el examen que compruebe la existencia de su embarazo, así como su interrupción, en los casos relacionados con una solicitud de interrupción del mismo;
-
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-II. Proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
-
-> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-De igual manera, en el período posterior a la interrupción del embarazo, ofrecerá la orientación y apoyos necesarios para propiciar la rehabilitación personal y familiar de la mujer.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-La Secretaría de Salud coordinará acciones con la Fiscalía con el fin de implementar los mecanismos necesarios para el debido cumplimiento a lo establecido en esta fracción; y
-
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-III. Las demás que le atribuyan otros ordenamientos legales.
-
-> <small>(ADICIONADO, G.O. 8 DE MARZO DE 2019)</small>
-
-###### Artículo 61 Ter.
-
-Las Alcaldías, desde la perspectiva de género, deberán:
-
-I. Proporcionar asesoría legal a las mujeres víctimas de violencia;
-
-II. Establecer un mecanismo de vinculación interinstitucional, para atender las denuncias de violencia contra las mujeres, recibidas a través de línea mujeres de LOCATEL, por parte de la propia víctima o cualquier otra persona;
-
-III. Disponer elementos de la policía de proximidad para atender y proteger a las víctimas de violencia;
-
-IV. Crear mecanismos de coordinación y colaboración con las dependencias encargadas de la seguridad pública que coadyuven en la ejecución de las medidas que garanticen la seguridad de las víctimas;
-
-> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2021)</small>
-
-V. Contar, por lo menos, con una Casa de Emergencia con el objetivo de establecerse como el primer vínculo de proximidad con las mujeres víctimas de violencia o con las víctimas indirectas, así como canalizar ante la unidad administrativa correspondiente a las víctimas que tengan necesidad de ingresar a las Casas de Emergencia o Centros de Refugio;
-
-VI. Generar en el ámbito de su competencia, las acciones para el registro, procesamiento, clasificación y seguimiento de las atenciones brindadas a las mujeres y niñas víctimas de violencia, de acuerdo a lo establecido en los Lineamientos para la operación y funcionamiento de la Red de Información de Violencia contra las Mujeres y el Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para las dependencias, entidades y órganos político-administrativos de la Ciudad de México
-
-VII. Las demás que le atribuyan otros ordenamientos legales.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-### CAPÍTULO VII. MEDIDAS U ÓRDENES DE PROTECCIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2022)</small>
-
-###### Artículo 62.
-
-Las medidas u órdenes de protección son un derecho de todas las mujeres y niñas, son urgentes y de carácter temporal implementadas por autoridad competente en favor de las mujeres o niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-Las medidas u órdenes de protección vinculadas a casos de violencia contra la mujer se aplicarán en los términos y condiciones que se establecen en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, esta Ley, y las legislaciones sustantivas y adjetivas aplicables a la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la comisión de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-Las medidas u órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público y los órganos jurisdiccionales penales, o los jueces civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-Las medidas de protección deberán otorgarse de oficio por la autoridad competente desde el momento en que tenga conocimiento del hecho de violencia.
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-En el caso en que el Ministerio Público o el Órgano Jurisdiccional competente considere la existencia de extrema violencia y urgencia, podrán implementar de manera directa e inmediata las medidas de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la iniciación de una denuncia.
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las medidas de protección en coordinación con las instancias responsables de atender a las mujeres y niñas en situación de violencia.
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-###### Artículo 62 Bis.
-
-Las autoridades emisoras y ejecutoras de las medidas de protección deberán observar los siguientes principios:
-
-I. Principio de protección: considerar de manera primordial la obligación de salvaguardar la vida, integridad, libertad y seguridad de las personas;
-
-> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2022)</small>
-
-I Bis. Principio de Buena fe: las autoridades, en todo momento, presumirán la buena fe de las víctimas en situación de riesgo o violencia y deberán creer en su narración de los hechos. Las personas servidoras públicas que intervengan con motivo del ejercicio de los derechos de las víctimas, no deberán revictimizarlas o hacerlas responsables de su situación. En todo momento deberán permitir el ejercicio efectivo de sus derechos.
-
-II. Principio de necesidad y proporcionalidad: las medidas de protección deben responder a las necesidades inmediatas y específicas de las víctimas, atendiendo a la situación de riesgo, peligro existente o a las consecuencias de los actos de violencia.
-
-III. Principio de confidencialidad: toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo.
-
-IV. Principio de oportunidad y eficacia: Las medidas deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE MARZO DE 2022)</small>
-
-V. Principio de accesibilidad: se deberá articular un procedimiento sencillo para garantizar la materialización de la protección inmediata a las víctimas de acuerdo con sus condiciones específicas, tomando en consideración el contexto de la violencia.
-
-> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2022)</small>
-
-Tratándose de mujeres y niñas indígenas, la información proporcionada deberá ser en su lengua, mediante un formato pertinente y culturalmente adecuado. En el caso de mujeres o niñas con discapacidad, este principio debe incluir la accesibilidad al entorno físico y también a las comunicaciones, considerando los diferentes tipos de necesidades para los diversos tipos de discapacidades reconocidas.
-
-VI. Principio de integralidad: El otorgamiento de la medida a favor de la victima deberá garantizar la salvaguarda de todos los derechos de las víctimas, considerando los distintos aspectos que se presentan en cada caso.
-
-VII. Principio de concentración: No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
-
-VIII. Principio pro persona: Para interpretar lo referente al otorgamiento de las medidas de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima.
-
-IX. Principio de interés superior de la niñez: Cuando las decisiones que se adopten relacionadas con el trámite de medidas de protección, afecte de manera directa o indirecta a una niña, niño o adolescente se deberán evaluar y ponderar las posibles repercusiones para evitar efectos negativos en su esfera de derechos
-
-> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2022)</small>
-
-###### Artículo 62 Ter.
-
-Además de los principios establecidos en el artículo anterior, las autoridades administrativas, ministeriales o el órgano jurisdiccional competente, al emitir órdenes de protección, deberán incorporar la perspectiva intercultural tomando en cuenta, cuando menos, los siguientes elementos:
-
-I. El criterio de autoadscripción que es la base sobre la cual se define la pertenencia a un pueblo o comunidad indígena, por lo que no se deberán solicitar pruebas para acreditar dicha pertenencia;
-
-II. El nivel de castellanización o la lengua indígena de la mujer o niña, y
-
-III. Deberán identificarse condiciones de exclusión que obstaculicen el acceso a la justicia y pudieran requerir adecuaciones procesales para garantizar el acceso a una orden de protección.
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 63.
-
-Las medidas u órdenes de protección en materia penal, se consideran personalísimas e intransferibles y podrán ser:
-
-l.- Prohibición de acercarse o comunicarse con la víctima u ofendido;
-
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-II. Prohibición para asistir o acercarse al domicilio de la víctima directa o indirecta, así como acercarse al lugar de trabajo, estudio o cualquiera lugar que frecuente.
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-III. La desocupación inmediata por parte del agresor, del domicilio de la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, del matrimonio en sociedad conyugal o de separación de bienes, y en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad. Se debe garantizar el cumplimiento de las obligaciones contractuales del agresor con respecto a la propiedad o posesión que previamente existían o los apoyos que brindaba para ello.
-
-IV.- La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos.
-
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-V. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en posesión el agresor, y en su caso, los de sus hijas e hijos. En este caso deberá contar con el acompañamiento, del Ministerio Público y del personal de la policía de investigación.
-
-VI.- Vigilancia en el domicilio de la víctima u ofendido;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-VII. Custodia personal y/o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiales adscritos a la Fiscalía y de la Secretaría de Seguridad Ciudadana, ambas de la Ciudad de México, según corresponda, con base a la disponibilidad de personal con el que estas instancias cuenten;
-
-VIII.- Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-IX. Canalizar a las víctimas directas e indirectas para alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley.
-
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-X. Reingreso de la mujer y en su caso víctimas indirectas al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
-
-Para el cumplimiento de esta medida se garantizará el acompañamiento, del Ministerio Público y del personal de la policía de investigación, a la víctima de violencia para acceder al domicilio, lugar de trabajo u otro, en cualquier caso, podrá ser acompañada de una persona de su confianza. En caso de que no haya personal de policía de investigación disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de las víctimas.
-
-> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
-
-XI. Ordenar al agresor que entregue el pasaporte si existiere de sus hijas e hijos menores de 18 años, para el resguardo del mismo, hasta en tanto el juez de lo familiar no determine la custodia o el régimen de visitas según sea el caso;
-
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-XII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho.
-
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-XIII. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que la persona agresora o su familia puedan ubicar a la víctima.
-
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-XIV. Implementar medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación.
-
-> <small>(ADICIONADA, G.O. 22 DE ENERO DE 2020)</small>
-
-XV. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios, videos de contenido sexual íntimo de una persona, sin su consentimiento; de medios impresos, redes sociales, plataforma digital o cualquier dispositivo o medio tecnológico.
-
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-XVI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
-
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 64.
-
-La autoridad competente que reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, de manera inmediata y a más tardar en un plazo que no exceda de 4 horas, a partir del conocimiento de los hechos, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior de la niñez.
-
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 65.
-
-Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III del artículo 63 de esta Ley, deberá celebrarse una audiencia en la que el órgano jurisdiccional correspondiente podrá ratificarlas, ampliarlas o cancelarlas, en este último caso siempre y cuando se encuentre documentado que el riesgo ha cesado.
-
-En caso de que la persona agresora incumpla cualquier medida de protección, con independencia de la responsabilidad penal del sujeto activo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las víctimas directas o indirectas.
-
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 66.
-
-Las medidas de protección serán permanentes en tanto el riesgo persista, se mantendrán vigentes con una revisión trimestral que justifique su permanencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
-
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-###### Artículo 67.
-
-La Jueza o el Juez de Control podrá emitir como orden de protección preventiva la retención y guarda de armas en posesión de la persona agresora, y dar aviso a la autoridad federal competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 68.
-
-En materia penal, el órgano jurisdiccional o el Ministerio Público, para el cumplimiento de las medidas u órdenes de protección, autorizará a la autoridad ejecutora, lo siguiente:
-
-I. Ingresar al domicilio o al lugar en dónde ocurra o haya ocurrido el acto de violencia;
-
-II. Proporcionar protección policíaca en tanto persista la situación de emergencia y se conduzca a la víctima y, en su caso, a las víctimas indirectas a un lugar donde se encuentren fuera de peligro;
-
-III. Acompañar a la víctima a su domicilio para recoger sus pertenencias personales y, en su caso, de las víctimas indirectas;
-
-IV. Trasladar a la víctima y víctimas indirectas, si así lo requieren, a las Casas de Emergencia o Centros de Refugio;
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-En todos los casos, al finalizar la diligencia de ejecución de las medidas u órdenes de protección, la autoridad ejecutora deberá proporcionar toda la información necesaria para que la víctima acceda a protección policíaca inmediata, en cualquier momento que esté en riesgo su seguridad e integridad.
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 69.
-
-Las medidas u órdenes de protección podrán ser solicitadas por la víctima o cualquier persona, que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima y víctimas indirectas.
-
-> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 69 Bis.
-
-Las medidas u órdenes de protección, cuando se trate de casos urgentes, se atenderán de acuerdo con lo previsto en los artículos 23 y 24 del Código Nacional de Procedimientos Penales.
-
-Las autoridades competentes podrán realizar los actos administrativos y jurídicos necesarios para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios establecidos en el artículo 62 Bis de esta Ley.
-
-Durante los primeros tres días posteriores a la implementación de las medidas u órdenes, la autoridad que la emitió mantendrá contacto directo con la víctima cada 24 horas. A partir del sexto día, se establecerá el plan de seguimiento personalizado; de acuerdo con las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
-
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 70.
-
-Las órdenes de protección de naturaleza civil tienen como propósito salvaguardar el patrimonio de la víctima o víctimas indirectas y podrán ser dictadas por la jueza o el juez de lo familiar o de lo civil, según corresponda dentro del término previsto en el artículo 64 de esta ley y serán permanentes en tanto el riesgo persista, con efecto inmediato y sin vincularse a la notificación correspondiente a la persona agresora, debiendo implementar todas las medidas que garanticen la integridad y seguridad de las mujeres y sus hijas e hijos.
-
-###### Artículo 71.
-
-Son órdenes de protección de naturaleza civil las siguientes:
-
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-II. Elaboración del inventario de los bienes propiedad del agresor o que formen parte de su patrimonio, incluyendo los implementos de trabajo de la víctima;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-III. Prohibición al agresor de enajenar o gravar de cualquier forma bienes de la sociedad conyugal o las que se encuentren en el domicilio común en caso de concubinato o sociedad de convivencia, siendo nulas de pleno derecho aquellas que se realicen por el agresor en contravención;
-
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-IV.- Obligación alimentaría provisional e inmediata, y
-
-> <small>(ADICIONADA, G.O. 19 DE OCTUBRE DE 2020)</small>
-
-V. Recuperación y entrega inmediata de las niñas, niños y adolescentes menores de 18 años de la víctima y/o personas incapaces que requieran cuidados especiales.
-
-###### Artículo 72.
-
-La orden de protección surtirá sus efectos al momento de ser notificada y en la misma se citará a la persona agresora para comparecer ante el juez que emite la orden al día siguiente en que la reciba para que (sic) celebrar audiencia de pruebas y alegatos.
-
-En la audiencia se recibirán, admitirán y desahogarán las pruebas que procedan y se recibirán los alegatos. Serán supletorios a la audiencia que se celebre los códigos procesales de la materia en que se dicten las medidas.
-
-El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque.
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-###### Artículo 72 Bis.
-
-Las medidas de protección deberán ser registradas en el banco nacional de datos e información sobre casos y delitos de violencia cometida en contra de mujeres
-
-> <small>(ADICIONADO, G.O. 22 DE ENERO DE 2020)</small>
-
-Art 72 TER.- Tratándose de violencia digital, la o el Ministerio Público, la Jueza o Juez, procederá de acuerdo al siguiente procedimiento:
-
-I. La querella podrá presentarse vía electrónica o mediante escrito de manera personal; y
-
-II.- El Ministerio Público ordenará de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios, o videos relacionados con la querella.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO VIII. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA EN LA CIUDAD DE MÉXICO
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 73.
-
-Las mujeres víctimas de violencia, tendrán derecho a obtener la reparación del daño de conformidad con el artículo 20, apartado C, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos. Con el objetivo de garantizar el goce de este derecho, el Gobierno la Ciudad de México, brindará servicios jurídicos especializados.
-
-###### Artículo 74.
-
-Para procurar la reparación del daño a las mujeres víctimas de violencia, el Ministerio Público deberá:
-
-I. Informar a la ofendida o víctima del delito así como a sus derechohabientes, sobre el derecho que tiene a que se le repare el daño material y moral derivado de la comisión de ilícito, así como el procedimiento y alcance de la reparación del daño;
-
-II. Solicitar al juez el embargo precautorio de los bienes del probable responsable, cuando se tenga el temor fundado de que el obligado a la reparación del daño oculte o enajene los bienes para hacer efectiva dicha reparación;
-
-III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión de Derechos Humanos del Distrito Federal cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos y orientarla para que considere la opción de presentar su denuncia o queja ante la Fiscalía de Servidores Públicos u órgano de control interno de la dependencia que corresponda.
-
-## TÍTULO QUINTO. DEL PRESUPUESTO PARA LA INSTRUMENTACIÓN DE ESTA LEY
-
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
-
-###### Artículo 75.
-
-Las dependencias, entidades de la Ciudad de México y las Alcaldías, encargadas del cumplimiento del objeto de la presente Ley, deberán requerir como prioritarios, en su Presupuesto Operativo Anual, las partidas y recursos necesarios para su cumplimiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
-
-###### Artículo 76.
-
-El Proyecto de Presupuesto de Egresos Anual deberá incluir como prioritarios, con base en los presupuestos operativos anuales enviados por las dependencias, entidades de la Ciudad de México y las Alcaldías, las partidas y recursos necesarios para la aplicación y cumplimiento de la presente Ley.
-
-Asimismo, el Tribunal deberá integrar en su presupuesto los recursos necesarios para el cumplimiento de las atribuciones que le otorga esta Ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-## TÍTULO SEXTO. DE LA RESPONSABILIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS
-
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 77.
-
-Las personas servidoras públicas de la Ciudad de México serán responsables por todo acto u omisión que viole, infrinja, incumpla o contraríe las disposiciones de esta Ley.
-
-###### Artículo 78.
-
-La responsabilidad de los servidores públicos será sancionada por los órganos de control competentes de conformidad con la legislación aplicable, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE MARZO DE 2020)</small>
-
-## TÍTULO SEPTIMO
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE MARZO DE 2020)</small>
-
-### CAPITULO UNICO. REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES
-
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 79.
-
-El Registro PÚBLICO de Personas Agresoras Sexuales de la Ciudad de México constituye un sistema de información DE CARÁCTER PÚBLICO que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal, EN TÉRMINOS DE LOS ESTABLECIDOS (SIC) EN LOS ARTÍCULOS 69 TER Y 69 QUARTER DEL CÓDIGO PENAL DEL DISTRITO FEDERAL VIGENTE.
-
-En ningún caso y bajo ninguna circunstancia, se incluirán datos personales de las víctimas o datos que hagan posible su localización e identificación y ocasionen una revictimización.
-
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 80.
-
-El registro sólo se verificará cuando exista LA INSTRUCCIÓN DE LA AUTORIDAD JURISDICCIONAL, Y la sentencia ejecutoriada respectiva, CONSIDERANDO SU INSCRIPCIÓN Y A PARTIR DE QUÉ MOMENTO ES EFECTIVO EL TÉRMINO DE DIEZ AÑOS COMO MÍNIMO Y MÁXIMO DE 30 QUE SEÑALA LA LEGISLACIÓN PENAL APLICABLE.
-
-La inscripción contenida en el Registro Público de Personas Agresoras Sexuales se cancelará, cuando concluya el término respectivo o cuando sea ordenado por la autoridad jurisdiccional que corresponda, señalando el motivo.
-
-La autoridad responsable del Registro, bajo su más estricta responsabilidad, deberá garantizar los derechos humanos de la persona registrada.
-
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 81.
-
-El Registro PÚBLICO de Personas Agresoras Sexuales tendrá las siguientes características y mecanismos de protección y auditoría de la información con la finalidad de garantizar que los datos resguardados en el mismo, gocen de la calidad de la información que impida cualquier daño, pérdida, alteración, destrucción o para impedir el uso, acceso o tratamiento no autorizado de la información:
-
-I. Confiabilidad;
-
-II. Encriptación;
-
-III. Gratuidad en su uso y acceso, y
-
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IV. PÚBLICO A TRAVÉS DE LOS PORTALES DE INTERNET RESPECTIVOS.
-
-Las autoridades y personas servidoras públicas que intervengan en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro, deberán adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados, los datos personales en su posesión.
-
-La Agencia Digital de Innovación Pública, brindará el apoyo técnico y asesoría en materia de infraestructura tecnológica, seguridad informática e interoperabilidad para la operación y funcionamiento del Registro.
-
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 82.
-
-El Registro contendrá información general de personas sentenciadas con ejecutoria en materia penal DE ACCESO PÚBLICO, PERO SU CONSULTA SERÁ POR PETICIÓN ESCRITA, organizada por delito, y los datos que se indican a continuación:
-
-a) Fotografía actual;
-
-b) Nombre;
-
-c) Edad;
-
-d) Alias;
-
-e) Nacionalidad.
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
-
-###### Artículo 83.
-
-El Registro contendrá también la información clasificada a la cual sólo tendrán acceso las personas titulares del Ministerio Público, debidamente motivada y fundada y en su caso con la autorización del juez de control respectivo así como aquellas personas autorizadas exclusivamente por las autoridades judiciales.
-
-a) Señas particulares;
-
-b) zona criminológica de los delitos;
-
-c) Modus operandi;
-
-d) Ficha signaléctica;
-
-e) Perfil Genético.
-
-## TRANSITORIOS
+T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
 
-Se expide la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Distrito Federal, para quedar como sigue:
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE MARZO DE 2019)</small>
-
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
-
-## TITULO PRIMERO
+EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente decreto entrará en vigor el ocho de marzo del año dos mil ocho.
+SE ABROGA EL DECRETO GUBERNATIVO NÚMERO 169, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 61, SEGUNDA PARTE, DE FECHA 1° DE AGOSTO DEL 2000, MEDIANTE EL CUAL SE EXPIDIÓ EL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL DEPORTE Y ATENCIÓN A LA JUVENTUD.
 
 ###### ARTÍCULO TERCERO.
 
-El Jefe de Gobierno del Distrito Federal deberá emitir, en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Reglamento de la Ley que se crea.
+LA CONTRALORÍA INTERNA ENTRARÁ EN FUNCIONES UNA VEZ QUE HAYA SIDO DETERMINADO Y ASIGNADO EL PRESUPUESTO PARA ELLO.
 
 ###### ARTÍCULO CUARTO.
 
-La Comisión Interinstitucional a que se refiere la Ley que se crea, comenzará sus trabajos dentro de los sesenta días naturales siguientes a la entrada en vigor del presente.
+LA DIRECCIÓN DE INFRAESTRUCTURA DEPORTIVA Y LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS, ENTRARÁN EN FUNCIONES UNA VEZ QUE SE LES ASIGNE EL PRESUPUESTO CORRESPONDIENTE PARA EL EJERCICIO FISCAL DEL AÑO 2002 DOS MIL DOS.
 
-###### ARTÍCULO QUINTO.
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE GUANAJUATO, GTO., A LOS 25 VEINTICINCO DÍAS DEL MES DE JUNIO DEL AÑO 2001 DOS MIL UNO.
 
-En un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Decreto, se armonizará la legislación del Distrito Federal, entre otros el Código Penal y de Procedimientos Penales, Código Civil y de Procedimientos Civiles, así como todas las demás disposiciones que sean necesarias para la debida aplicación de la Ley.
+JUAN CARLOS ROMERO HICKS.
 
-Recinto de la Asamblea Legislativa del Distrito Federal, a los trece días del mes de diciembre del año dos mil siete.- POR LA MESA DIRECTIVA.- DIP. KENIA LÓPEZ RABADÁN, PRESIDENTA.- DIP. MARÍA ELBA GÁRFIAS MALDONADO, SECRETARIA.- DIP. ALFREDO VINALAY MORA, SECRETARIO.- (Firmas)
+EL SECRETARIO DE GOBIERNO
 
-En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de diciembre del año dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, A. JOEL ORTEGA CUEVAS.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+EL SECRETARIO DE EDUCACIÓN
 
-G.O. 29 DE JULIO DE 2010.
+VÍCTOR MANUEL RAMÍREZ VALENZUELA.
 
-ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-G.O. 14 DE ENERO DE 2011.
-
-PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-TERCERO.- El Jefe de Gobierno del Distrito Federal incluirá en el proyecto de presupuesto de egresos que envíe a este órgano legislativo en cada ejercicio fiscal, las previsiones necesarias que permitan contar con un Centro de Refugio para la atención de violencia familiar en las zonas de mayor incidencia del Distrito Federal, en un plazo que no excederá de ocho años, a partir de la aprobación de la presente reforma.
-
-CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
-
-G.O. 25 DE JULIO DE 2012.
+P.O. 2 DE JULIO DE 2002.
 
 ###### ARTÍCULO PRIMERO.
 
-Publíquese en la Gaceta Oficial del Distrito Federal.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente decreto entrará en vigor al siguiente día de su publicación.
-
-###### ARTÍCULO TERCERO.
-
-Las autoridades del presente Decreto, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas para dar cumplimiento a la misma.
-
-G.O. 9 DE AGOSTO DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
-
-G.O. 18 DE DICIEMBRE DE 2014.
-
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
-
-SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
-
-TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
-
-CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
-
-G.O. 26 DE NOVIEMBRE DE 2015.
-
-PRIMERO (sic).- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
-
-G.O. 10 DE NOVIEMBRE DE 2016.
+SE DEROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE DECRETO GUBERNATIVO.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
 
@@ -1970,187 +694,3 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 G.O. 11 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
-
-G.O. 13 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL."]
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
-
-G.O. 17 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
-
-G.O. 19 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL".]
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
-
-G.O. 8 DE MARZO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL".]
-
-PRIMERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para armonizar el contenido del Reglamento de la presente Ley.
-
-SEGUNDO.- Con motivo de la entrada en vigor de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las referencias hechas al Instituto de las Mujeres en el Distrito Federal, deberán entenderse hechas a la Secretaría de las Mujeres.
-
-TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 22 DE ENERO DE 2020.
-
-[N. DE. E TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México para los efectos legales a que haya lugar.
-
-G.O. 20 DE MARZO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL DISTRITO FEDERAL, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para armonizar el contenido del Reglamento de la Ley de Acceso de las Mujeres una Vida libre de Violencia de la Ciudad de México con el presente decreto.
-
-CUARTO.- La Secretaria de Gobierno de la Ciudad de México, contará con un término máximo de 90 días naturales para crear el Registro Público de Personas Agresoras Sexuales de la Ciudad de México, mismo que entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-QUINTO.- A partir de la entrada en vigor del presente decreto, la Secretaria de Gobierno, deberá incluir en la base de datos del Registro, todas aquellas personas sentenciadas que hayan adquirido ese carácter con fecha posterior a la entrada del presente decreto.
-
-SEXTO.- Envíese el presente decreto a la Jefa de Gobierno de la Ciudad de México para sus efectos legales.
-
-G.O. 14 DE OCTUBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES V Y VI, RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE, DEL ARTÍCULO 24; Y SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONAN LAS FRACCIONES III Y IV DEL ARTÍCULO 42, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE; AMBOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
-
-PRIMERO.- Turnese al Ejecutivo Local para su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO.- La Jefatura de Gobierno contará con un plazo que no excederá de 30 días hábiles para realizar las adecuaciones reglamentarias que sean necesarias.
-
-G.O. 19 DE OCTUBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL DISTRITO FEDERAL. Y SE MODIFICAN LOS ARTÍCULOS 2, 3, 8 FRACCIÓN III, 11, 12, 16, 35, 57, FRACCIONES I Y III, 64, 65 PRIMER PÁRRAFO, 67 Y 70, LA DENOMINACIÓN DEL TÍTULO CUARTO, ASÍ COMO EL NOMBRE DEL CAPÍTULO I DEL MISMO TÍTULO; Y SE AGREGA UNA FRACCIÓN V AL ARTÍCULO 71; TODOS ELLOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO.- Remítase a la Jefatura de Gobierno para su conocimiento y efectos legales conducentes.
-
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 23 DE NOVIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, EL ARTÍCULO 3; LA FRACCIÓN VII DEL ARTÍCULO 7; LA FRACCIÓN III DEL ARTÍCULO 8; EL ARTÍCULO 11; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; EL PRIMER PÁRRAFO DEL ARTÍCULO 17; EL PRIMER PÁRRAFO DEL ARTÍCULO 18; EL PRIMER PÁRRAFO DEL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTÍCULO 23; LA FRACCIÓN IV DEL ARTÍCULO 24; LA FRACCIÓN IX Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XII DEL ARTÍCULO 26; LOS ARTÍCULOS 29, 35, 40, 41; EL PRIMER PÁRRAFO DEL ARTÍCULO 42; LOS ARTÍCULOS 43, 45; PRIMER PÁRRAFO DEL ARTÍCULO 50 BIS; EL ARTÍCULO 50 TER; EL ARTÍCULO 50 QUATER, LA FRACCIÓN III DEL ARTÍCULO 57; LOS ARTÍCULOS 58, 60, 61 BIS; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 62; LAS FRACCIONES III Y VII DEL ARTÍCULO 63; LAS FRACCIONES II Y III DEL ARTÍCULO 71; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII CORRESPONDIENTE AL TÍTULO CUARTO; SE REFORMA EL ARTÍCULO 73; SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEXTO; Y SE REFORMA EL ARTÍCULO 77; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO.- La Jefatura de Gobierno contará con un plazo máximo de 120 días hábiles para realizar las reformas reglamentarias necesarias para la aplicación del presente decreto.
-
-G.O. 26 DE FEBRERO DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, SE REFORMA EL ARTÍCULO 53 Y LA FRACCIÓN V DEL ARTÍCULO 61 TER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación.
-
-TERCERO.- El Congreso de la Ciudad de México deberá otorgar en el Presupuesto de Egresos de la Ciudad, correspondiente al ejercicio fiscal del año 2022, la suficiencia presupuestal para dar cumplimiento a lo establecido en el tercer párrafo del artículo 53 del presente decreto.
-
-CUARTO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, las personas Titulares de las 16 Alcaldías de la Ciudad de México, contarán con un plazo que no excederá de 90 días hábiles posteriores a la aprobación del Presupuesto de Egresos de la Ciudad correspondiente al ejercicio fiscal del año 2022, para la instalación progresiva y el debido funcionamiento de sus respectivas casas de emergencia.
-
-G.O. 2 DE SEPTIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV DE DICHO NUMERAL DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN XXVII DEL ARTÍCULO 3° Y SE ADICIONAN LAS FRACCIONES XXVII BIS, XXVII TER, XXVII QUÁTER Y XXVII QUINQUIES A DICHO NUMERAL, DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN XIV DEL ARTÍCULO 18 Y SE ADICIONAN LAS FRACCIONES XIV BIS Y XIV TER A DICHO NUMERAL; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 55, SE DEROGAN LOS ARTÍCULOS 20 Y 54, Y SE MODIFICA EL ARTÍCULO 119, DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE DEROGAN LAS FRACCIONES I, III Y IV DEL ARTÍCULO 15 BIS Y SE ADICIONAN AL ARTÍCULO 25 LAS FRACCIONES IV BIS, IV TER, IV QUÁTER, VI BIS Y VI TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO. SE ABROGA LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. Se abroga la Ley de Centros de Reclusión para el Distrito Federal, publicado (sic) en la Gaceta Oficial de la Ciudad de México el 04 de abril de 2014 y demás disposiciones que contravengan el presente decreto.
-
-CUARTO. A partir de la entrada en vigor del presente Decreto, las referencias hechas a la Subsecretaría del Sistema Penitenciario de la Secretaría de Gobierno o a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo de su adscripción en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del presente Decreto, se entenderán realizadas a la Secretaría de Seguridad Ciudadana de la Ciudad de México. Misma situación ocurrirá para los órganos colegiados a los que asista la persona titular de la Secretaría de Gobierno de la Ciudad de México en materia de sistema penitenciario, la Secretaría de Seguridad Ciudadana de Ciudad de México designará a su representante.
-
-QUINTO. El Gobierno de la Ciudad de México contará con 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos y emitir las disposiciones correspondientes; hasta en tanto, las disposiciones actuales continúan vigentes y podrán ser aplicadas por la Secretaría de Seguridad Ciudadana de la Ciudad de México.
-
-SEXTO. Los recursos humanos, materiales, técnicos y tecnológicos, así como los bienes muebles e inmuebles asignados a la Secretaría de Gobierno de la Ciudad de México para la Subsecretaría del Sistema Penitenciario pasarán a formar parte del patrimonio de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
-
-En lo relativo a bienes en posesión o servicios contratados por la Secretaría de Gobierno de la Ciudad de México para la Subsecretaría del Sistema Penitenciario o por esta última, obtenidos por arrendamiento, comodato o cualquier otro contrato mediante el cual se haya transmitido la posesión o propalado dichos servicios, su utilización corresponderá a la Subsecretaría, en tanto no se determine lo contrario.
-
-La Secretaría de Administración y Finanzas de la Ciudad de México coadyuvará con la Secretaría de Gobierno y la Subsecretaría de Sistema Penitenciario, a efecto de realizar las gestiones y trámites correspondientes para dar cumplimiento cabal al presente artículo, conforme a las disposiciones legales aplicables.
-
-SÉPTIMO. El personal que en ejecución del presente Decreto deba ser transferido a la Secretaría de Seguridad Ciudadana de la Ciudad de México podrá participar en las evaluaciones de control de confianza para su permanencia, sujetándose al régimen administrativo que esta Ley y demás normativa aplicable establecen. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Ciudadana, ambas de la Ciudad de México, determinarán los procedimientos para la reubicación del personal de base que sea necesario, respetando los derechos laborales adquiridos.
-
-OCTAVO. La Secretaría de Seguridad Ciudadana de la Ciudad de México deberá adecuar su estructura orgánica y actualizar sus Manuales Administrativos en los plazos y condiciones que establezca la Dirección Ejecutiva de Dictaminación y Procedimientos Organizacionales de la Secretaría de Administración y Finanzas de la Ciudad de México.
-
-NOVENO. Los asuntos o procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite y deban ser atendidos por las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto, a excepción de los trámites urgentes o sujetos a plazo improrrogable.
-
-DÉCIMO. En tanto se formaliza material, financiera y administrativamente la transferencia a la Secretaría de Seguridad Ciudadana de la Ciudad de México, de los recursos humanos, materiales, técnicos, tecnológicos, financieros y presupuestales de la Subsecretaría de Sistema Penitenciario, la Secretaría de Gobierno continuará ejerciendo los recursos presupuestales correspondientes a esta área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2021.
-
-DÉCIMO PRIMERO. La Subsecretaría de (sic) Sistema Penitenciario deberá actualizar las reglas de operación para potenciar el funcionamiento del patronato al que se refiere el artículo 70 de la Ley de Centros Penitenciarios de la Ciudad de México, en un lapso de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO SEGUNDO. La Secretaría de Seguridad Ciudadana deberá establecer las bases para la organización y operación del Servicio Profesional de Carrera de las y los integrantes del Sistema Penitenciario, a que se refiere la Ley de Centros Penitenciarios de la Ciudad de México.
-
-Los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario se alinearán al Programa de Profesionalización y al Programa Rector de Profesionalización de la Universidad de la Policía de la Ciudad de México.
-
-El Instituto de Capacitación Penitenciaria continuará en funciones hasta en tanto se implemente el Servicio Profesional de Carrera de las personas integrantes del Sistema Penitenciario.
-
-G.O. 23 DE MARZO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 62, PÁRRAFO PRIMERO, Y 62 BIS, FRACCIÓN V, Y SE ADICIONA UNA FRACCIÓN XV BIS AL ARTÍCULO 3; UNA FRACCIÓN I BIS Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN V AL ARTÍCULO 62 BIS, ASÍ COMO UN ARTÍCULO 62 TER; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 10 DE JUNIO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN FRACCIONES I, II, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 6, LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X DEL ARTÍCULO 7, EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y III DEL ARTÍCULO 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y IV DEL ARTÍCULO 9, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 13, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 15, LA FRACCIÓN XII DEL ARTÍCULO 19, EL PRIMER PÁRRAFO DEL ARTÍCULO 64, EL ARTÍCULO 65, 66 Y 70; Y SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 7; UNA FRACCIÓN II BIS AL ARTÍCULO 10, UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 RECORRIÉNDOSE LOS SUBSECUENTES, UNA FRACCIÓN XI BIS AL ARTÍCULO 19, UN SEGUNDO PÁRRAFO AL ARTÍCULO 49 RECORRIÉNDOSE LOS SUBSECUENTES Y SE ADICIONA UN ARTÍCULO 69 BIS, TODOS DE LA DE LA (SIC) LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona titular de la Jefatura de Gobierno contará con un plazo de 60 días hábiles a partir de su entrada en vigor, para armonizar el contenido del Reglamento de la presente Ley.
-
-G.O. 30 DE NOVIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 49, Y EL TERCER PÁRRAFO DEL ARTÍCULO 53, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 30 DE NOVIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 7, SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 13 TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. A partir de la entrada en vigor del presente decreto las autoridades competentes tendrán 120 días naturales para realizar las adecuaciones reglamentarias correspondientes
-
-G.O. 12 DE DICIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
