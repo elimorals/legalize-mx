@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1984-02-08"
+last_updated: "1985-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1985.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -869,7 +869,7 @@ El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo com
 
 El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 65.
 
@@ -1513,6 +1513,26 @@ Es obligación del poder público garantizar el desarrollo integral estatal, med
 
 En el desarrollo económico estatal, concurrirán los sectores público, social y privado, correspondiendo al Gobierno del Estado procurar la armonía entre ellos para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Los recursos económicos de que dispongan los Gobiernos Estatal y Municipales así como sus respectivas administraciones públicas paraestatales y paramunicipales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatorias, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y Municipios
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+El manejo de recursos económicos del Estado y Municipios, se sujetarán a las bases de este artículo.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
+
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 130.
@@ -2044,3 +2064,7 @@ UNICO. Este decreto entrará en vigor a los cinco días de su publicación en el
 P.O. 8 DE FEBRERO DE 1984.
 
 UNICO.- Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 1985.
+
+UNICO. Este Decreto entrará en vigor a los 5 cinco días después de su publicación en el Periódico Oficial del Estado.
