@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1985-04-30"
+last_updated: "1985-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1985.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -12729,13 +12729,19 @@ V.- Que el inquilino no tenga celebrado como arrendador uno o más contratos de 
 
 Lo dispuesto en el artículo anterior se aplicará también al arrendamiento por tiempo indeterminado.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1985)</small>
+
 ###### Artículo 2323.
 
-Durante la prórroga prevista en los artículos anteriores, la renta estipulada en el contrato prorrogado podrá aumentarse hasta en un veinte por ciento anual.
+Durante la prórroga prevista en los Artículos anteriores, la renta estipulada en el contrato prorrogado sólo podrá aumentarse anualmente, pero el aumento no podrá exceder del setenta por ciento del incremento porcentual fijado al salario mínimo general en el Estado.
+
+En tratándose de viviendas construidas dentro de los Programas Gubernamentales de Fomento Habitacional, tales como FOVI, FONHAPO, FOVISSTE Y FIDEICOMISO SEDUE, la renta se incrementará durante el plazo de amortización correspondiente, en la forma que señalen dichos Programas.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1985)</small>
 
 ###### Artículo 2324.
 
-Para que se produzca la prórroga a que se refieren los artículos 2321 y 2322 bastará que el arrendatario, dentro de los sesenta días anteriores al vencimiento del contrato, manifieste al arrendador, en jurisdicción voluntaria, o ante Notario, que desea se prorrogue el contrato.
+Para que se produzca la prórroga a que se refieren los artículos 2321 y 2322, bastará que el arrendatario satisfaga los requisitos señalados en el propio numeral 2321.
 
 ###### Artículo 2325.
 
@@ -19270,3 +19276,9 @@ DIP. PROFR. JORGE OTHON CHAVEZ PALMA.
 RUBRICAS.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de abril de mil novecientos ochenta y cinco.- El Gobernador Constitucional del Estado.- LIC. GUILLERMO JIMENEZ MORALES.- Rúbrica.- El Secretario de Gobernación.- LIC. FERNANDO GARCIA ROSAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 9 DE AGOSTO DE 1985.
+
+TRANSITORIO UNICO.- El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
