@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2002-07-01"
+last_updated: "2002-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -2523,15 +2523,15 @@ Todo interesado podrá desistirse de su solicitud o renunciar a sus derechos, cu
 
 ###### Artículo 167.
 
-La falta de actuación del recurrente por causas imputables a él por el término de 30-treinta días naturales, producirá la caducidad del procedimiento. La Autoridad competente acordará el archivo de las actuaciones notificándoselo al interesado. Contra la Resolución que declaré la caducidad procederá el juicio Contencioso Administrativo.
+La falta de actuación del recurrente por causas imputables a él por el termino de 30-treinta días naturales, producirá la caducidad del procedimiento. La Autoridad competente acordará el archivo de las actuaciones notificándoselo al interesado. Contra la Resolución que declaré la caducidad procederá el juicio Contencioso Administrativo.
 
 ###### Artículo 168.
 
-Concluida la tramitación del Recurso y antes de dictar Resolución se pondrán las actuaciones a disposición de los interesados, por el término de 5-cinco días hábiles para que en su caso, formulen alegatos, los que serán tomados en cuenta por la Autoridad competente al dictar la Resolución.
+Concluida la tramitación del Recurso y antes de dictar Resolución se pondrán las actuaciones a disposición de los interesados, por el termino de 5-cinco días hábiles para que en su caso, formulen alegatos, los que serán tomados en cuenta por la Autoridad competente al dictar la Resolución.
 
 ###### Artículo 169.
 
-La Autoridad deberá resolver el Recurso de Reconsideración en un plazo no mayor de 5-cinco días naturales, posteriores al término señalado en el Artículo anterior, en cualquiera de los siguientes sentidos:
+La Autoridad deberá resolver el Recurso de Reconsideración en un plazo no mayor de 5-cinco días naturales, posteriores al termino señalado en el Artículo anterior, en cualquiera de los siguientes sentidos:
 
 I. Confirmar el acto impugnado;
 
@@ -2689,6 +2689,10 @@ b) A quien ocupe las zonas de estacionamiento reservadas para su uso por las per
 
 IX. A quien después de notificado por la Secretaría persista en la conducta violatoria se le aplicarán de 1,000 veces a 1,500 veces de salario mínimo prevaleciente en la zona económica, retirándosele la licencia que tenga de esta Secretaría.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2002)</small>
+
+X. Una cuota de salario mínimo prevaleciente en la zona económica, por cada metro cuadrado de construcción (sic) de lo autorizado, solo para construcción de casas habitación.
+
 En caso de reincidencia el monto de la multa puede ser incrementado, sin exceder de 40,000 días de salario mínimo prevaleciente en la zona económica, así como en su caso la clausura definitiva.
 
 ###### Artículo 184.
@@ -2738,3 +2742,11 @@ C. SECRETARIO DEL AYUNTAMIENTO
 C. TRINIDAD ESCOBEDO AGUILAR
 
 Rúbrica.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2002.
+
+PRIMERO: La presente adición entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan las disposiciones Municipales que se opongan al (sic) adición (sic) al Reglamento mencionado con antelación.
