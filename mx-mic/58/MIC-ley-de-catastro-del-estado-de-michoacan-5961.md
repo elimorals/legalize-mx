@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -87,6 +87,14 @@ g) Nacionalidad del propietario o poseedor.
 
 h) Uso y destino de cada predio.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+i) Código Postal; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+j) Población y Municipio de ubicación del predio.
+
 III. El padrón numérico es el constituido por:
 
 a) Clave catastral, número de cuenta y número de predio.
@@ -141,13 +149,17 @@ a) Provisionales: las que por su tipo tienen un aprovechamiento transitorio; en 
 
 b) Permantes: las que estén en un predio en forma fija, incluyendo los equipos e instalaciones que forman parte integrante de las mismas.
 
-c). Ruinosas: las que por su deterioro físico no permitan su uso en forma normal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+c) Ruinosas: las que por su estado de conservación no permitan su uso en forma normal;
 
 XII. Fraccionamiento: la división de terrenos en lotes, cuando para ello se formen una o más calles, andadores o servidumbres de paso;
 
 XIII. Condominio: el inmueble construido en forma vertical, horizontal o mixta susceptible de aprovechamiento independiente, perteneciente a distintos propietarios y con elementos o partes comunes de carácter indivisible;
 
-XIV. División: la partición de un predio en dos o más lotes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+XIV. División: la partición de un predio en dos o mas;
 
 XV: Fusión: la unión de dos o más predios colindantes en uno solo;
 
@@ -159,9 +171,17 @@ XVIII. Valor catastral: el que determine la autoridad catastral para un predio, 
 
 XIX. Reevaluación: la revisión de los valores catastrales para determinar si éstos deben permanecer iguales, aumentarse o disminuirse, por alguna de las causas que establezca esta Ley y su reglamento;
 
-XX. Padrón catastral: conjunto de datos contenidos en planos y documentos que forman los registros cartográfico, alfabético y numérico.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-XXI. Clave catastral: el número que para efectos de catastro, identifica al predio.
+XX. Padrón catastral: conjunto de datos contenidos en planos y documentos que forman los registros cartográficos, alfabético y numérico;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+XXI. Clave catastral: el número que para efectos de catastro, identifica al predio; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+XXII. Predio en breña: el que está localizado dentro de la zona urbana, que carezca de servicios de urbanización excepto lotes.
 
 ### CAPITULO SEGUNDO. DE LA AUTORIDAD CATASTRAL
 
@@ -171,9 +191,11 @@ Es autoridad catastral el Ejecutivo del Estado quien a través de la Tesorería 
 
 ### CAPITULO TERCERO. DE LAS ACCIONES CATASTRALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 7o.
 
-La autoridad catastral está facultada para ejecutar trabajos de:
+La autoridad catastral está facultada para:
 
 I. Localización y levantamiento topográfico y aerofoto gramétrico de los predios, que comprenden las operaciones y trabajos necesarios para determinar sus características;
 
@@ -187,9 +209,23 @@ V. Notificación de valores catastrales;
 
 VI. Medición y deslinde catastral;
 
-VII. Certificación de documentos relativos a los predios, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VII. Certificación de documentos relativos a los predios;
 
 VIII. Auxilio en el deslinde y descripción de los perímetros divisorios entre el Estado y las Entidades limítrofes, así como los limites de los Municipios que lo integran.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+IX. Requerir a los propietarios o poseedores los informes, datos y documentos que se estimen necesarios para el mejor desarrollo de las acciones catastrales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+X. Ratificar, y en su caso, rectificar los registros catastrales cuando así proceda, con base en la documentación a que se refiere la fracción anterior; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+XI. Elaborar los proyectos de valores unitarios de terreno y construcción de predios urbanos y rústicos.
 
 ###### ARTICULO 8o.
 
@@ -205,11 +241,11 @@ El Congreso del Estado aprobará los valores unitarios de terreno y construcció
 
 Los valores unitarios de terrenos y construcción que sirven de base para la determinación de los valores catastrales, serán actualizados cada año teniendo como referencia los valores reales al momento de elaborarse el estudio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 11.
 
-En el supuesto de que al término del período a que se refiere el artículo anterior, no sean aprobados los nuevos valores, los anteriores se incrementarán aplicando los factores que en caso fije el Congreso del Estado, para el año de que se trate.
+En el supuesto de que al término del período a que se refiere el artículo anterior, no sean aprobados los nuevos valores, los anteriores se actualizarán, en su caso aplicando los factores que fije el Congreso del Estado, para el año de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -229,11 +265,15 @@ V. Los predios se dividan, fusionen o sean motivo de fraccionamiento;
 
 VI. Por ejecución de obras públicas, resulten afectados o beneficiados con las mismas;
 
-VII. Parte del predio sea objeto de transmisión de dominio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VII. El predio sea objeto de trasmisión de dominio;
 
 VIII. Se cambie el régimen de propiedad individual por el de condominio, y
 
-IX. Se cambie se régimen rústico a urbano o viceversa.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+IX. Se cambie el régimen rústico a urbano.
 
 ###### ARTICULO 13.
 
@@ -276,6 +316,10 @@ La valuación catastral de los predios deberá considerar invariablemente el val
 ###### ARTICULO 20.
 
 Para efectuar el proceso de valuación de los predios urbanos, deberá partirse del valor unitario de terreno aplicable a la calle o zona de su ubicación conforme a los procedimientos que se establezcan en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+Para la valuación de los predios en breña a que se refiere la fracción XXII del artículo 5o. de esta Ley, se aplicarán los valores unitarios de terreno en un 50%.
 
 ###### ARTICULO 21.
 
@@ -384,6 +428,10 @@ De celebrarse dichos contratos y se transmita la posesión de algún predio o co
 ###### ARTICULO 38.
 
 La Tesorería General del Estado, efectuará las acciones catastrales correspondientes, cuando se realicen total o parcialmente, fraccionamientos o condominios sin la autorización de las autoridades competentes y comunicará de inmediato esta situación a las mismas, para que impongan las sancione que procedan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+En estos casos, se suspenderá el trámite de documentos transmitivos de dominio relativos a operaciones de los predios que se encuentren en dichos supuestos, hasta en tanto sean autorizados los fraccionamientos o establecidos los condominios.
 
 ### CAPITULO SEPTIMO. DE LAS OBLIGACIONES CATASTRALES
 
@@ -551,4 +599,10 @@ P.O. 31 DE DICIEMBRE DE 1987.
 
 ###### ARTICULO UNICO.
 
-El presente decreto entrara en vigor el 1o. de enero de 1988, previa publicación en el Periódico Oficial del Estado.
+El presente decreto entrara en vigor en día 1o. de enero de 1988, previa publicación en el Periódico Oficial Del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día 1o. de enero de 1989, previa publicación en el Periódico Oficial del Estado.
