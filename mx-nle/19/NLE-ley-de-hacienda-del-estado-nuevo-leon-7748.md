@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1990-12-31"
+last_updated: "1991-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -839,11 +839,11 @@ Las infracciones que se cometan al presente capítulo, si no se encuentran expre
 
 ### CAPITULO TERCERO. Del Impuesto sobre Enajenación de Automóviles, Camiones y demás vehículos de motor
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 104.
 
-Es objeto de este impuesto la enajenación de automóviles, camiones y demás vehículos de motor, que de manera eventual se realice dentro del territorio del Estado, siempre que dicha enajenación no sea objeto del Impuesto Federal al Valor Agregado.
+Es objeto de este impuesto la enajenación de automóviles, camiones y demás vehículos de motor usados, que se realice dentro del territorio del Estado, excepto cuando la enajenación sea efectuada por personas físicas o morales que realicen actividades empresariales.
 
 ###### ARTICULO 105.
 
@@ -855,9 +855,11 @@ Es base de este Impuesto, el valor que resulte mayor entre el precio consignado 
 
 Para modelos del año, será base del impuesto el 90% del importe de la primera facturación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 107.
 
-Para los efectos de este impuesto se considerará efectuada la operación, dentro del Estado, por el solo hecho de dar de alta un vehículo en territorio del mismo.
+Para los efectos de este impuesto se considerará, salvo prueba en contrario, que la operación se efectuó dentro del Estado, por el solo hecho de dar de alta un vehículo en territorio del mismo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -1765,17 +1767,23 @@ ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, e
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
 ### CAPITULO DECIMO CUARTO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
 
 ###### ARTICULO 266.
 
-Por los servicios prestados en la Secretaría de Servicios a los Trabajadores y Productividad, se causarán y pagarán los derechos que se señalan en los siguientes artículos, de este capítulo.
+Por los servicios prestados por la Secretaría del Trabajo se causarán y pagarán los derechos que se señalan en los siguientes artículos de este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+Estos servicios podrán ser prestados por profesionistas independientes con título de ingeniero del ramo, debidamente registrado ante las autoridades educativas e inscrito ante la Secretaría del Trabajo. En este caso, no se estará obligado a cubrir los derechos respectivos.
+
+El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 267.
 
-Por inspección de calderas, inicial y semestral, realizada con base en el "Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetos a Presión", de fecha 13 de Agosto de 1936, se pagarán $120.00 por metro cuadrado de superficie de calefacción, sin que en ningún caso la cantidad a pagar sea menor de $5,000.00.
+Por inspección de calderas, inicial y semestral, realizada con base en el "Reglamento para la Inspección de Generadores de vapor y Recipientes Sujetos a Presión", de fecha 13 de agosto de 1936, se pagarán $1,000.00 por metro cuadrado de superficie de calefacción, sin que en ningún caso la cantidad a pagar sea menor de $50,000.00, ni mayor de $500,000.00 pesos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1785,15 +1793,15 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros quince días de los meses de enero y julio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de $5,000.00.
+Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de $ 50,000.00.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 268.
 
-Por inspección de motores, inicial y semestral, realizada con base en el "Reglamento de Medidas Preventivas y Accidentes de Trabajo", de fecha 23 de Noviembre de 1934, se pagarán $120.00 por caballo de fuerza, sin que en ningún caso la cantidad a pagar sea menor de $5,000.00.
+Por inspección de motores, inicial y semestral, realizada con base en el "Reglamento de Medidas Preventivas y Accidentes de Trabajo", de fecha 23 de noviembre de 1934, se pagarán $1,000.00 por caballo de fuerza, sin que en ningún caso la cantidad a pagar sea menor de $ 50,000.00.
 
 Para la aplicación de esta Tarifa se tomará en cuenta la capacidad total en caballos de fuerza, de potencia generada por todos los motores que se tengan instalados en cada establecimiento, sin importar el número de ellos.
 
@@ -1811,15 +1819,13 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-I.- Por autorización a las sociedades comerciales para la adquisición de terrenos
+I.- Por autorización a las sociedades comerciales para la adquisición de terrenos necesarios para su objeto, en los términos de la fracción IV del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos $100,000.00
 
-necesarios para su objeto, en los términos de la fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos $24,000.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
-
-II.- Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno $5,000.00
+II.- Por expedición de constancias y certificados que extiendan las dependencias de la Secretaría General de Gobierno $10,000.00
 
 III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1986)
 
@@ -1833,29 +1839,29 @@ T A R I F A
 
 Concepto:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción $3,000.00
+I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción $5,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-II.- Inscripción de actas de matrimonio $15,000.00
+II.- Inscripción de actas de matrimonio $30,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Inscripción de sentencias de divorcio $25,000.00
+III.- Inscripción de sentencias de divorcio $50,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una $3,000.00
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una $5,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en un lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos de traslado, la cantidad de $50,000.00
+V.- Cuando los servicios del Oficial se presten a solicitud del interesado en horas o días inhábiles, o en un lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos de traslado, la cantidad de $100,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-VI.- Las anotaciones marginales $2,500.00
+VI.- Las anotaciones marginales $20,000.00
 
 Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
 
@@ -1881,17 +1887,17 @@ I.- Por inscripción o registro de Título ya se trate de documentos públicos o
 
 a) Hasta $1'000,000.00 ….. $4,000.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Mayor de $1´000,000.00 y hasta $50'000,000.00, por cada millar o fracción ….. $4.00
+b) Mayor de $1´000,000.00 y hasta $50´000,000.00, por cada millón o fracción ….. $4,000.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-c) Por el excedente de $50'000.00, por cada millar o fracción ….. $5.00
+c) Por el excedente de $50'000,000.00, por cada millón o fracción ….. $5,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-d) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ..... $2,500.00
+d) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ..... $5,000.00
 
 Cuando una parte del valor sea determinada y la otra no, se cubrirá por la determinada conforme a los incisos del a) al c) y por la indeterminada la cuota que señala este inciso. En los casos de donación sin valor se procederá a practicar avalúo por la Secretaría de Finanzas y Tesorería General del Estado y según el valor resultante se aplicará la tarifa correspondiente.
 
@@ -1909,59 +1915,59 @@ Tratándose de documentos o contratos que consignen prestaciones periódicas, si
 
 Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley $200.00
+II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley $300.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de $ 5,000.00 ni mayor de $160,000.00
+III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de $10,000.00 ni mayor de $200,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-IV.- Por cualquier rectificación de inscripciones $5,000.00
+IV.- Por cualquier rectificación de inscripciones $50,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-V.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad $5,000.00
+V.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad $50,000.00
 
 VI.- Por el Registro de Planos de Fraccionamientos, por cada lote vendible:
 
 A.- Fraccionamientos habitacionales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadra dos $600.00
+a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados $1,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados $300.00
+b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados $500.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-B.- Fraccionamientos comerciales, industriales y campestres $1,800.00
+B.- Fraccionamientos comerciales, industriales y campestres $3,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-C.- Cementerios $400.00
+C.- Cementerios $1,000.00
 
 D.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-VII.- Por certificado de no inscripción de inmuebles $12,000.00
+VII.- Por certificado de no inscripción de inmuebles $25,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-VIII.- Por certificado de gravámenes o de libertad de gravámenes $5,000.00
+VIII.- Por certificado de gravámenes o de libertad de gravámenes $25,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-IX.- Por acreditación o rectificación de medidas $18,000.00
+IX.- Por acreditación o rectificación de medidas $50,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-X.- Por inscripción de aviso preventivo $5,000.00
+X.- Por inscripción de aviso preventivo $25,000.00
 
 XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
 
@@ -1973,27 +1979,27 @@ Por autorización de apertura de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Apodaca, por cada libro autorizado $120,000.00
+a) Para Notarías Públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $240,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $40,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $80,000.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Apodaca, por cada libro autorizado $60,000.00
+a) Para Notarías Públicas ubicadas en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $240,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $30,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $80,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos $60,000.00
+III.- Por cada Libro de Registro de Corredores Públicos $240,000.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2003,33 +2009,33 @@ Por autorización de cierre de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Apodaca, por cada libro autorizado $60,000.00
+a) Para Notarías Públicas ubicadas en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $120,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $25,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $50,000.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Apodaca, por cada libro autorizado $25,000.00
+a) Para Notarías Públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $120,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $12,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $50,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos $40,000.00
+III.- Por cada Libro de Registro de Corredores Públicos $120,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 273.
 
-Por legalización de firmas $5,000.00
+Por legalización de firmas $10,000.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -2037,19 +2043,19 @@ Por legalización de firmas $5,000.00
 
 Por los siguientes servicios prestados por las Corporaciones Policiacas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-I.- Por registro y refrendo anual de vigilantes privados que presten sus servicios en forma independiente $6,000.00
+I.- Por registro y refrendo anual de vigilantes privados que presten sus servicios en forma independiente $12,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-II.- Por registro y refrendo anual de vigilantes privados que presten sus servicios bajo una relación de subordinación a un patrón, aún cuando el servicio sea prestado a terceras personas, por cada uno de ellos $12,000.00
+II.- Por registro y refrendo anual de vigilantes privados que presten sus servicios bajo una relación de subordinación a un patrón, aún cuando el servicio sea prestado a terceras personas, por cada uno de ellos $25,000.00
 
 Estos derechos deberán ser cubiertos por el patrón.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Por registro y atención de alarmas, por cada establecimiento o local que reciba el servicio, semestralmente $300,000.00
+III.- Por registro y atención de alarmas, por cada establecimiento o local que reciba el servicio, semestralmente $400,000.00
 
 Estos derechos deberán ser cubiertos dentro del primer mes del período correspondiente. En caso de incumplimiento, la Dirección de Seguridad Pública del Estado impondrá una multa equivalente a dos tantos de los derechos omitidos.
 
@@ -2059,17 +2065,17 @@ Estos derechos deberán ser cubiertos dentro del primer mes del período corresp
 
 Por los siguientes servicios prestados por la Dirección de Archivo General de Notarías:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-I.- Por certificación de constancia $10,000.00
+I.- Por certificación de constancias $20,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-II.- Por expedición de Segundos Testimonios, por hoja $3,500.00
+II.- Por expedición de Segundos Testimonios, por hoja $5,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Por presentación de aviso testamentario $10,000.00
+III.- Por presentación de avisto (sic) testamentario $20,000.00
 
 ### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
 
@@ -2083,89 +2089,89 @@ III.- Por presentación de aviso testamentario $10,000.00
 
 Por los servicios prestados por la Secretaría de Finanzas y Tesorería General del Estado o sus dependencias, se causarán los siguientes derechos:
 
-I.- Por empadronamiento y refrendo anual:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+I.- Por empadronamiento y refrendo anual de los establecimientos ubicados en los municipios de Apodaca, Escobedo, García, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina:
 
-a) Expendio de bebidas alcohólicas $25,000.00
+a) Expendio de bebidas alcohólicas $150,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+b) Expendios de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $1'000,000.00
 
-b) Expendio de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $300,000.00
+Si en dichos establecimientos se presenta al público habitualmente la actuación personal de filarmónicos $500,000.00
 
-Si en dichos establecimientos se presenta al público habitualmente la actuación personal de filarmónicos $140,000.00
+c) Discotecas y salones de baile en donde se expendan bebidas alcohólicas $2'000,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+d) Hoteles de paso, cabarets, prostíbulos, casas de asignación o lugares semejantes $5'000,000.00
 
-c) Hoteles de paso, cabarets, prostíbulos, casas de asignación o lugares semejantes $600,000.00
+Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-II.- Por registro de contratos de arrendamiento de inmuebles, cada uno $5,000.00
+II.- Por registro de contratos de arrendamiento de bienes inmuebles, cada uno:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+a).- Si el importe de la renta calculado al mes no excede de $500,000.00 $10,000.00
 
-III.- Por expedición de certificado de valor actual real, según el valor determinado en avalúo, se pagarán por cada millón o fracción $1,000.00
+b).- Si el importe de la renta calculado al mes excede de $500,000.00 $20,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-IV.- Por expedición de certificado de no inscripción catastral $15,000.00
+III.- Por expedición de certificado de valor actual real, según el valor determinado en avalúo, se pagarán por cada millón o fracción $1,500.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-V.- Por expedición de constancias catastrales certificadas $15,000.00
+IV.- Por expedición de certificado de no inscripción catastral $25,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-VI.- Por registro y revalidación de fierros y señales de ganado, por cada uno $7,000.00
+V.- Por expedición de constancias catastrales certificadas $25,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-VII.- Por servicios de control vehicular para vehículos de motor, excepto motocicletas, anualmente $27,000.00
+VI.- Por registro y revalidación de fierros y señales de ganado, por cada uno $10,000.00
 
-Si se proporcionan placas de circulación $30,000.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+VII.- Por servicios de control vehicular:
 
-VIII.- Por servicios de control vehícular para motocicletas con motor mayor de 75 centímetros cúbicos, anualmente $10,000.00
+a) Para vehículos de motor, excepto motocicletas, anualmente $50,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+b) En el caso del inciso anterior, si se proporcionan placas de circulación, adicionalmente $50,000.00
 
-IX.- Por servicios de control vehícular para remolques, anualmente $13,000.00
+c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo la placa de circulación anualmente $30,000.00
 
-Si se proporcionan placas de circulación $15,000.00
+d) En el caso de remolques, se cobrará el 50% de la cuota.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-X.- Por servicios de control vehicular para vehículos de demostración o de prueba, anualmente $27,000.00
+VIII.- Por reposición de tarjetas de circulación $20,000.00
 
-Si se proporcionan placas de circulación $30,000.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+IX.- Por expedición de licencia de manejar o su reposición por bienio $15,000.00
 
-XI.- Por reposición de tarjeta de circulación $10,000.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+X.- Por baja de vehículos del padrón vehicular $20,000.00
 
-XII.- Por expedición de licencia de manejar o su reposición, por bienio $8,000.00
+XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+XII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
 
-XIII.- Por baja de vehículos del padrón vehicular $10,000.00
+XIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
 
-Los servicios de control vehicular incluirán entre otros, la expedición de calcomanía, de tarjeta de circulación y el alta, por lo que hace a los vehículos a que se refiere la fracción VII; y, la expedición de tarjeta de circulación y el alta, por lo que hace a los vehículos a que se refieren las fracciones VIII, IX y X. Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violación al Reglamento de Tránsito en vigor.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violación al Reglamento de Tránsito en vigor.
 
 Quienes se encuentren obligados legalmente a solicitar los servicios a que se refiere este artículo, deberán hacerlo dentro del término que se señale al efecto.
 
-El canje de placas, de calcomanía y de tarjeta de circulación para los vehículos a que se refieren las fracciones VII a X, deberá hacerse ante la autoridad administrativa en los plazos que señalen las disposiciones correspondientes. Las licencias de manejar se expedirán por bienios y su vigencia expirará en los años pares, el último día del mes de nacimiento del conductor. Si la vigencia de la licencia es menor de un año, únicamente se pagará el importe de una anualidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO SEGUNDO
+Las licencias de manejar se expedirán por bienios y su vigencia expirará en los años pares, el último día del mes de nacimiento del conductor. Si la vigencia de la licencia es menor de un año, únicamente se pagará el importe de una anualidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1979)</small>
+### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría del Trabajo
 
-De los derechos por Servicios Prestados por la Secretaría de Servicios a los Trabajadores y Productividad.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
@@ -2185,77 +2191,81 @@ Concepto: Tasa:
 
 I.- Registro de Títulos Profeisonales (sic):
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) De maestros $5,000.00
+a) De maestros ….. $10,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) De Corredor Público o de las Patentes de Notario Público $400,000.00
+b) De Corredor Público o de las Patentes de Notario Público ….. $500,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-c) De los demás profesionistas $7,500.00
+c) De los demás profesionistas ….. $20,000.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 II.- En materia de salud local, por examen médico, análisis sanguíneo, catastro torácico y expedición de certificado de salud, si los servicios son prestados a personas dedicadas a una actividad independiente o a trabajadores que laboren en empresas de no más de 5 empleados, los servicios serán gratuitos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-En caso de que estos servicios sean prestados a trabajadores de patrones con más de 5 empleados, se cobrarán $12,000.00 por estos cuatro servicios, con vigencia semestral. Por refrendo semestral, se cobrarán $6,000.00. Estos derechos deberán ser cubiertos por el propio patrón.
+En caso de que estos servicios sean prestados a trabajadores de patrones con más de 5 empleados, se cobrarán $25,000.00 por estos cuatro servicios, con vigencia semestral. Por refrendo semestral, se cobrarán $20,000.00. Estos derechos deberán ser cubiertos por el propio patrón.
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-III.- Por registro y refrendo anual de contratistas del Gobierno del Estado, anualmente $270,000.00
+III.- Por registro y refrendo anual del padrón del Gobierno del Estado, anualmente:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] Y REUBICADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+a) Contratistas ..... $400,000.00
 
-IV.- Por la revisión de planos que practique ingeniería sanitaria, sobre el valor de las edificaciones que se pretenda construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes, al milar (sic) $5.00.
+b) Proveedores ..... $200,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-V.- Por la expedición de constancias o certificados que expidan las Dependencias del Gobierno del Estado, no mencionados en las disposiciones de este Título $5,000.00
+IV.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes, se pagará por cada millón o fracción $5,000.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-(SIC) Por incorporación a las redes de agua y drenaje, por metro cuadrado del área vendible:
+V.- Por la expedición de constancias y certificados que expidan las Dependencias del Gobierno del Estado, no mencionados en las disposiciones de este Título $10,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $360.00
+VI.- Por incorporación a las redes de agua y drenaje, por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados $300.00
+a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $450.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $150.00
+b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados $400.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-d) Fraccionamientos industriales $150.00
+c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $200.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-e) Fraccionamientos campestres $360.00
+d) Fraccionamientos Industriales $500.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-f) Fraccionamientos funerarios $300.00
+e) Fraccionamientos Campestres $450.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+f) Fraccionamientos Funerarios $450.00
 
 g) Predios que no formen parte de un fraccionamiento autorizado por las autoridades competentes, por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-1.- Por incorporación a las redes de agua $150.00
+1.- Por incorporación a las redes de agua $200.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-2.- Por incorporación a las redes de drenaje $150.00
+2.- Por incorporación a las redes de drenaje $200.00
 
 VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
@@ -2564,3 +2574,7 @@ UNICO.- La presente Ley entrará en vigor el día 1o. de Enero de 1990.
 P.O. 31 DE DICIEMBRE DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1991.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1992.
