@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-banco-del-bienestar-antes-ley-organica-del-213
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-06-01"
-last_updated: "2002-06-24"
+last_updated: "2005-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21311&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-30"
 
 LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 1 de junio de 2001.
 
@@ -53,7 +53,9 @@ II. Secretaría: A la Secretaría de Hacienda y Crédito Público;
 
 III. Institución: Al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
 
-IV. Sector: Al conformado por los Organismos de Integración y las Entidades de Ahorro y Crédito Popular regulados por la Ley de Ahorro y Crédito Popular y a las personas físicas y morales que reciban de (sic) u otorguen servicios a éstas.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IV. Sector: Al conformado por los Organismos de Integración, las Entidades de Ahorro y Crédito Popular y a las personas morales y grupos de personas físicas, a que se refiere la Ley de Ahorro y Crédito Popular, así como a las personas físicas y morales que reciban u otorguen servicios a éstas.
 
 ###### Artículo 3.
 
@@ -61,17 +63,21 @@ El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Créd
 
 La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 4.
 
-El domicilio de la Institución será la ciudad de México, Distrito Federal. Podrá establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría en el primer caso y con autorización de la misma en el segundo.
+El domicilio de la Institución será la ciudad de México, Distrito Federal. Podrá establecer, clausurar o reubicar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría. Tratándose del establecimiento de sucursales, agencias y oficinas en el extranjero, deberá contar con autorización de la misma.
 
 ###### Artículo 5.
 
 La duración de la Institución será indefinida.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 6.
 
-Las operaciones y servicios de la Institución, se regirán por lo dispuesto en la presente Ley, la Ley de Instituciones de Crédito, la Ley del Banco de México y por las demás disposiciones legales aplicables.
+Las operaciones, servicios e inversiones de la Institución, se regirán por lo dispuesto en la presente Ley, la Ley de Instituciones de Crédito, la Ley del Banco de México y por las demás disposiciones legales aplicables.
 
 La Secretaría interpretará a efectos administrativos la presente Ley.
 
@@ -81,11 +87,15 @@ La Secretaría interpretará a efectos administrativos la presente Ley.
 
 La Institución, con el fin de fomentar el desarrollo integral del Sector y promover su eficiencia y competitividad, en el ejercicio de su objeto estará facultada para:
 
-I. Promover, gestionar y financiar proyectos que atiendan las necesidades de los Organismos de Integración y que permitan cumplir con su objeto, en las distintas zonas del país y que propicien el mejor aprovechamiento de los recursos de cada región;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+I. Promover, gestionar y financiar proyectos que atiendan las necesidades de los Organismos de Integración, de las Entidades de Ahorro y Crédito Popular, así como de las personas morales y grupos de personas físicas a que se refiere la Ley de Ahorro y Crédito Popular, y que le permitan cumplir con su objeto, en las distintas zonas del país y que propicien el mejor aprovechamiento de los recursos de cada región;
 
 II. Promover, encauzar y coordinar la inversión de capitales en el Sector;
 
-III. Promover el desarrollo tecnológico, la capacitación, la asistencia técnica y el incremento de la productividad de los Organismos de Integración y de las Entidades de Ahorro y Crédito Popular;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+III. Promover el desarrollo tecnológico, la capacitación, la asistencia técnica y el incremento de la productividad de los Organismos de Integración, de las Entidades de Ahorro y Crédito Popular, así como de las personas morales y grupos de personas físicas a que se refiere la Ley de Ahorro y Crédito Popular;
 
 IV. Ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, cuyo objetivo sea fomentar el desarrollo del Sector, que se otorguen por instituciones extranjeras privadas, gubernamentales o intergubernamentales, así como por cualquier otro organismo de cooperación financiera internacional.
 
@@ -97,9 +107,17 @@ VI. Realizar los estudios económicos, sociales y financieros necesarios para el
 
 VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores social y privado y con los Organismos de Integración y las Entidades de Ahorro y Crédito Popular;
 
-VIII. Ser administradora y fiduciaria de fideicomisos, mandatos y comisiones que se constituyan para el adecuado desempeño de su objeto, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-IX. Promover, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros de los Organismos de Integración y de las Entidades de Ahorro y Crédito Popular.
+VIII. Ser administradora y fiduciaria de fideicomisos, mandatos y comisiones que se constituyan para el adecuado desempeño de su objeto;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IX. Promover, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, entre otros, de los Organismos de Integración y de las Entidades de Ahorro y Crédito Popular, así como de las personas morales y grupos de personas físicas a que se refiere la Ley de Ahorro y Crédito Popular, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+X. Participar en las actividades inherentes a la promoción y conformación del Sector.
 
 La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
 
@@ -117,15 +135,37 @@ III. Emitir o garantizar valores, así como garantizar obligaciones de terceros,
 
 IV. Contratar créditos para la realización de sus funciones de fomento, conforme a las disposiciones legales aplicables;
 
-V. Adquirir tecnología, promover su desarrollo y transferirla conforme a lo dispuesto por las leyes aplicables;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+V. Adquirir tecnología, promover su desarrollo y transferirla conforme a lo dispuesto por las leyes aplicables. Asimismo, prestar servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, entre otros, al Sector, así como a aquellos terceros interesados en adquirir dichos servicios, contribuyendo al desarrollo de la Institución y del sector de ahorro y crédito popular, mediante la reducción de costos y/o la generación de ingresos;
 
 VI. Emitir certificados de participación con base en fideicomisos constituidos al efecto;
 
 VII. Otorgar financiamiento a fondos y fideicomisos públicos de fomento;
 
-VIII. Realizar sorteos conforme a las reglas generales de operación que autorice la Secretaría, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-IX. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría.
+VIII. Realizar sorteos conforme a las reglas generales de operación que autorice la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IX. Participar en el capital social de administradoras de fondos para el retiro y en el de sociedades de inversión especializadas de fondos para el retiro, así como prestarles servicios a las mismas, a efecto de eficientar su operación y reducir sus costos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+X. Invertir en el capital social de sociedades o personas morales, que le presten servicios a la Institución, al Sector, así como a terceros que se encuentren interesados en adquirir los mismos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XI. Actuar como cámara de compensación y liquidador de las operaciones que realicen las Entidades de Ahorro y Crédito Popular y como representante de dichas Entidades en cualquier otra cámara de compensación, o entidad que lleve a cabo las funciones de compensación y/o liquidación referidas, sujetándose en la realización de ambas operaciones a las disposiciones que, en su caso, emita el Banco de México;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XII. Participar en el capital social de sociedades de inversión, así como de sociedades operadoras de éstas, y en el de sociedades distribuidoras de acciones, además de prestar el servicio de distribución de acciones a sociedades de inversión propias o de terceros, y
+
+(REUBICADA, D.O.F. 23 DE FEBRERO DE 2005)
+
+XIII. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
@@ -193,7 +233,9 @@ b) El Gobernador del Banco de México, los titulares de las Secretarías de Econ
 
 Por cada consejero propietario de esta serie, se deberá nombrar preferentemente a un suplente del nivel jerárquico inferior inmediato siguiente al de los propietarios.
 
-En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo;
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo; y en caso de ausencia de este último, tendrá el carácter de presidente del Consejo Directivo, el consejero que sea designado por el Secretario de Hacienda y Crédito Público, para fungir con tal carácter en dicha sesión.
 
 II. Dos consejeros propietarios de la serie "B" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie "B" no tendrán suplentes, y
 
@@ -281,15 +323,101 @@ III. Autorizar la adquisición y uso de tecnología a que se refiere la fracció
 
 IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General;
 
-V. (DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-VI. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría;
+V. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, a los delegados fiduciarios y a los demás que señale el reglamento orgánico, así como concederles licencias;
 
-> <small>(REFORMADA, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-VII. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la institución, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional, y
+VI. Nombrar y remover al secretario y al prosecretario del Consejo;
 
-VIII. Las demás que prevea el Reglamento Orgánico de la Institución, así como aquellas que señalen otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VII. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VIII. Aprobar, a propuesta del director general, la estructura orgánica, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Institución, previa opinión y recomendación que en su caso emita el comité de recursos humanos y desarrollo institucional;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IX. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como aquellos que considere necesarios para el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+X. Determinar las facultades de los distintos órganos y de los servidores públicos de la Institución, para el otorgamiento de créditos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XI. Aprobar, en su caso, previo dictamen de los comisarios, el balance general anual de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XII. Aprobar, en su caso, la constitución de reservas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIII. Aprobar, en su caso, la aplicación de utilidades, así como la forma y términos en que deberá realizarse;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIV. Aprobar los estados financieros que le presente el Director General, así como autorizar, conforme a las disposiciones aplicables, la publicación de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XV. Aprobar los presupuestos generales de gasto e inversión, de conformidad con lo dispuesto en el artículo 42, fracción VIII bis de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVI. Aprobar las propuestas de los límites de endeudamiento neto externo e interno, financiamiento neto, así como los límites de intermediación financiera;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVII. Aprobar las estimaciones de ingresos anuales, su programa financiero, y sus programas operativos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVIII. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Institución requiera, así como las políticas y bases generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Institución con terceros, en estas materias, de conformidad con las normas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIX. Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al Reglamento Orgánico y aprobar la cesión de activos y pasivos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XX. Aprobar la emisión de certificados de aportación patrimonial, provisionales o definitivos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXI. Proponer a la Secretaría de Hacienda y Crédito Público, el aumento o reducción del capital social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXII. Acordar los aumentos de capital pagado de la Institución, así como fijar las primas, que en su caso deban pagar los suscriptores de certificados de aportación patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXIII. Acordar la emisión de obligaciones subordinadas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXIV. Aprobar las inversiones en el capital de las sociedades a que se refieren los artículos 88 y 89 de la Ley de Instituciones de Crédito, en términos del artículo 8, fracciones IX, X y XII de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXV. Aprobar los programas anuales de publicidad y propaganda de la Institución, sin que se requiera autorización de la Secretaría de Gobernación;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXVI. Opinar sobre las Condiciones Generales de Trabajo de la Institución, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXVII. Conocer y en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+En los supuestos establecidos en las fracciones XII, XVI, XXIII y XXIV se requerirá de la autorización expresa de la Secretaría.
 
 > <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
@@ -301,7 +429,9 @@ Dos representantes de la Secretaría de Hacienda y Crédito Público: el Subsecr
 
 Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
 
-Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa;
 
 Un miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -337,11 +467,109 @@ V. Decidir la designación y contratación de los servidores públicos de la Ins
 
 VI. Autorizar la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
 
-VII. Participar en las sesiones del Consejo Directivo;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-VIII. Las que le confiera el Reglamento Orgánico, y
+VII. Participar en las sesiones del Consejo Directivo con voz, pero sin voto;
 
-IX. Las que le delegue el Consejo Directivo.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VIII. Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requiera la marcha ordinaria de la Institución;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IX. Proponer al Consejo Directivo, la designación de Delegados Fiduciarios y de los servidores públicos de la Institución que ocupen cargos con las dos jerarquías inmediatas inferiores a las de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+X. Proponer al Consejo Directivo la creación de comités regionales consultivos y de crédito, así como los de su seno y proveer lo necesario para su adecuada integración y funcionamiento;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XI. Acordar la creación de comités internos de crédito, técnicos y administrativos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XII. Presentar al Consejo Directivo para su aprobación el balance general anual de la Institución, junto con el informe y dictamen del auditor externo y de los comisarios;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIII. Presentar al Consejo Directivo los estados financieros de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIV. Proponer al Consejo Directivo el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XV. Someter al Consejo Directivo los programas operativos y financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos anuales de la Institución, así como sus modificaciones;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVI. Presentar al Consejo Directivo las propuestas para modificar el Reglamento Orgánico;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVII. Proponer al Consejo Directivo la aprobación de cesión de partes del activo o pasivo de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVIII. Presentar al Consejo Directivo las propuestas de programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Institución requiera, así como las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Institución deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza de conformidad con las normas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIX. Rendir al Consejo Directivo un informe anual de actividades;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XX. Proponer al Consejo Directivo la emisión de obligaciones subordinadas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXI. Presentar al Consejo Directivo para su aprobación, la propuesta de inversión en títulos representativos del capital social de las sociedades a que se refiere el artículo 8, fracciones IX, X y XII de la presente Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXII. Presentar al Consejo Directivo las propuestas de aplicación de utilidades y la forma y términos en que sugiera se deban realizar;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXIII. Proponer al Consejo Directivo la constitución de reservas y fondos necesarios, así como la forma y términos en que considere se deban realizar;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXIV. Proponer al Consejo Directivo los procedimientos para la destrucción de los Bonos del Ahorro Nacional que se encuentren amortizados, y que en su momento autorizó la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXV. Determinar los criterios para dispensar, respecto de los títulos a que se refiere la fracción anterior, el llevar a cabo el procedimiento de cancelación y reposición de títulos de crédito que establece la ley respectiva;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXVI. Someter al Consejo Directivo, los programas anuales de publicidad y propaganda de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXVII. Proponer al Consejo Directivo, las normas y bases para la cancelación de adeudos a cargo de terceros y a favor de la Institución, para su posterior informe a la Comisión Nacional Bancaria y de Valores y a la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXVIII. Someter al Consejo Directivo, la estructura orgánica básica y los reglamentos internos de la Institución, así como las modificaciones que procedan a los mismos, y los demás programas específicos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXIX. Previa opinión del Consejo Directivo y conforme a las disposiciones legales aplicables, negociar las Condiciones Generales de Trabajo que rijan las relaciones laborales entre la Institución y sus trabajadores;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXX. Representar a la Institución ante las agrupaciones, asociaciones y organismos nacionales e internacionales de fomento al Sector, o de cualquier otra índole relacionados con el objeto y objetivos de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXXI. Las que le confiera el Reglamento Orgánico, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXXII. Las demás que le delegue el Consejo Directivo o que sea necesario desarrollar para el cumplimiento de lo dispuesto en las fracciones anteriores; o aquellas que le confieran otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
 
 ###### Artículo 26.
 
@@ -349,9 +577,11 @@ Los Consejeros, el Director General y los Delegados Fiduciarios de la Instituci�
 
 ### CAPÍTULO V. Vigilancia
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 27.
 
-La vigilancia de la Institución estará encomendada a dos comisarios designados, uno por la Secretaría de Contraloría y Desarrollo Administrativo y el otro por los consejeros de la serie "B". Por cada comisario se nombrará el respectivo suplente.
+La vigilancia de la Institución estará encomendada a dos comisarios designados, uno por la Secretaría de la Función Pública y el otro por los tenedores de la serie "B". Por cada comisario se nombrará el respectivo suplente.
 
 Los comisarios tendrán en los términos de la Ley de Instituciones de Crédito, y del Reglamento Orgánico de la Institución, las facultades y obligaciones que requieran para el adecuado cumplimiento de sus funciones, las que podrán ejercer conjunta o separadamente.
 
@@ -361,13 +591,17 @@ Los comisarios tendrán en los términos de la Ley de Instituciones de Crédito,
 
 Conforme a las reglas generales de operación que autorice la Secretaría, los planes de ahorro; así como los demás instrumentos de captación que determine el Consejo Directivo, participarán en sorteos con derecho a premio durante todo el tiempo de su vigencia y hasta que sean pagados al depositante.
 
-Los sorteos serán públicos y se harán ante Notario Público o Corredor Público con la intervención de la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases que al efecto establezca la Institución.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Los sorteos serán públicos y se harán ante Notario Público o Corredor Público o interventor de la Secretaría de Gobernación, con la intervención de la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases que al efecto establezca la Institución.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 29.
 
-Los premios son una ganancia adicional y, en consecuencia, por ningún motivo se considerarán como un pago anticipado del valor de vencimiento de los planes de ahorro o de los demás instrumentos de captación que determine el Consejo Directivo.
+Los premios son una ganancia adicional, los cuales podrán pagarse en efectivo o en especie y, en consecuencia, por ningún motivo se considerarán como un pago anticipado del valor de vencimiento de los planes de ahorro o de los demás instrumentos de captación que determine el Consejo Directivo.
 
-El derecho a recibir el pago del premio prescribe en un año, contado a partir de la fecha en que se haga la publicación de los resultados del sorteo respectivo, en un periódico de circulación nacional, o de su colocación en lugares abiertos al público en las sucursales de la propia Institución.
+El plazo para reclamar el pago del premio se fijará en las bases de cada sorteo, transcurrido el cual sin que el premio sea reclamado, el derecho a recibir el premio prescribirá. Dicho plazo se computará a partir de la fecha en que se haga la publicación de los resultados del sorteo respectivo, en un periódico de circulación nacional, o de su colocación en lugares abiertos al público en las sucursales de la propia Institución.
 
 ###### Artículo 30.
 
@@ -538,3 +772,21 @@ Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de
 ###### ARTICULO NOVENO.
 
 Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
+
+D.O.F. 23 DE FEBRERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las Federaciones a que se refiere la Ley de Ahorro y Crédito Popular podrán afiliar y prestar servicios de asesoría técnica, legal, financiera y de capacitación a sociedades o asociaciones que, sin haber obtenido autorización para constituirse y organizarse como Entidades, puedan captar recursos de sus socios o clientes para su colocación entre éstos en los términos de esa Ley.
+
+Las sociedades o asociaciones que se afilien a una Federación en términos de lo dispuesto por este artículo, no podrán participar en las sesiones de los órganos sociales de la Federación cuando se traten asuntos que estén relacionados, directa o indirectamente, con la organización, integración, funcionamiento y desempeño del Comité de Supervisión correspondiente, o con cualquier otro aspecto relacionado con la supervisión auxiliar que ejerza la Federación. No podrán formar parte del Comité de Supervisión de la Federación, personas que tengan vínculos laborales o económicos con las sociedades o asociaciones que la propia Federación tenga afiliadas en términos de este artículo.
+
+Las restricciones previstas en el párrafo anterior, deberán hacerse constar expresamente en los estatutos sociales o bases constitutivas de las Federaciones, así como en su reglamento interior.
