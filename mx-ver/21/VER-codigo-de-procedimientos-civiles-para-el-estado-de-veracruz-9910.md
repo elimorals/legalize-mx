@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1997-07-31"
+last_updated: "1998-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -119,9 +119,9 @@ ARTICULO 12
 
 A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
 
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Cuando alguno se jacte públicamente de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquél de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiendo que señale un término al jactancioso para que deduzca la acción que afirma tener, apercibido que de no hacerlo en el plazo designado, se le tendrá por perdido su derecho a la acción que ha sido objeto de la jactancia. Las cuestiones sobre jactancia se ventilarán en la forma que para los incidentes establece este Código. No se reputa jactancioso al que en un acto judicial o administrativo se reserva los derechos que pueda tener sobre alguna cosa o contra alguna persona. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvo conocimiento el perjudicado, de los hechos o dichos que la originan;
+I.- Cuando algunos se jacten públicamente de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquél de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiendo que señale término al jactancioso para que deduzca la acción que afirma tener, apercibido de que de no hacerlo en el plazo designado, se le tendrá por desistido de la acción que ha sido objeto de la jactancia. No se reputa jactancioso al que en un acto judicial o administrativo se reserva los derechos que pueda tener sobre alguna cosa o contra alguna persona. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvo conocimiento el perjudicado, de los hechos o dichos que la originan;
 
 II.- En los casos en que habiéndose interpuesto tercería, no ocurra el tercer opositor a continuarla;
 
@@ -317,13 +317,13 @@ ARTICULO 43
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez o tribunal que la oiga en justicia, sin substanciación especial, y se citará para la audiencia dentro del tercer día, en la que se resolverá sin ulterior recurso.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ARTICULO 44
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son hábiles todos los días del año, menos el domingo y aquéllos que las leyes declaren inhábiles.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son hábiles todos los días del año, menos los sábados y domingos y aquellos que las leyes declaren inhábiles.
 
-Se entienden horas hábiles, las que median desde las siete a las diecinueve horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles, para actuar, o para que se practiquen diligencias, cuando hubiere causa, urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+Se entienden horas hábiles, las que median desde las siete a las diecinueve horas. En los negocios sobre cuestiones familiares y aquellos que se establezcan como urgentes en la Ley Orgánica del Poder Judicial del Estado, no hay días ni horas inhábiles. En los demás casos, el Juez o Tribunal pueden habilitar los días y las horas, para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que así lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
 ARTICULO 45
 
@@ -421,13 +421,19 @@ No son necesarias las antiguas fórmulas de las sentencias y basta con que el ju
 
 Los jueces o tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
 ARTICULO 58
 
-Los tribunales no podrán variar ni modificar sus sentencias después de firmadas; pero sí aclarar algún concepto, o suplir cualquiera omisión que contengan sobre puntos discutidos en el litigio.
+Los tribunales no podrán variar ni modificar sus sentencias después de firmadas, salvo en los siguientes casos:
 
-Estas declaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, presentada dentro del día siguiente al de la notificación.
+I.- Cuando sea necesario aclarar un concepto o suplir cualquiera omisión que contengan sobre puntos discutidos en el litigio.
 
-En este último caso, el juez o tribunal, resolverá lo que estime procedente, dentro del día siguiente al de la presentación del escrito en que se solicita la aclaración.
+Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a promoción por escrito de parte, presentada dentro del día siguiente al de la notificación.
+
+En este último caso, el juez o tribunal resolverá lo que estime procedente, dentro del día siguiente al de la presentación del escrito en que se solicita la aclaración.
+
+II.- Las resoluciones dictadas con el carácter de provisionales y las resoluciones dictadas en los juicios de alimentos; en los que versen sobre el ejercicio, pérdida o suspensión de la patria potestad, interdicción, jurisdicción voluntaria y las demás que prevengan las leyes, pueden alterarse y modificarse cuando cambien las circunstancias que afecten el ejercicio de la acción que se dedujo en el juicio correspondiente.
 
 ARTICULO 59
 
@@ -843,15 +849,19 @@ XIII.- En los casos de reclamación de alimentos, el del domicilio del acreedor 
 
 XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente;
 
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
-XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente a treinta días de salario mínimo general vigente en la capital del Estado, durante el mes de enero del año en que se presente la demanda o reconvención, es competente un Juez Municipal; de este monto en adelante y hasta el equivalente a quinientos días del salario mínimo general antes mencionado, es competente un Juez Menor, sin que la diferencia anual de salarios sea motivo de incompetencia; de ese equivalente en adelante, un Juez de Primera Instancia.
+XV.- El que deba conoce por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año; a no ser que se trate de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no exceda del equivalente a cien días de salario mínimo general vigente en la capital del Estado durante el mes de enero en que se presente la demanda o reconvención es competente un Juez de Paz; de este monto en adelante y hasta el equivalente a mil días del salario mínimo general antes mencionado es competente un Juez Menor, sin que la diferencia anual de salarios sea motivo de incompetencia; de este equivalente en adelante, un Juez de Primera Instancia.
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 117
 
 De las cuestiones inherentes a la familia, conocerán los jueces de Primera Instancia de lo Familiar.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Del procedimiento de conciliación previsto en la Ley de Asistencia y Prevención de la Violencia Familiar, conocerán los jueces de paz o, en su caso, los jueces menores.
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
@@ -1166,6 +1176,10 @@ Sólo los jueces de primera instancia pueden decretar el depósito de que habla 
 ARTICULO 160
 
 La solicitud de depósito puede ser escrita o verbal, y el juez debe proceder con toda rapidez, trasladándose al lugar de los hechos, para cerciorarse de la necesidad de la medida, designando desde luego, en tal caso, la persona o institución que habrá de encargarse del depósito, y vigilará el cumplimiento del mismo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Si la solicitud de depósito se origina por causa de violencia familiar, el juez podrá practicar las diligencias que a su juicio sean necesarias para declarar la práctica de la medida.
 
 ARTICULO 161
 
@@ -1662,6 +1676,10 @@ Las pruebas deben ser ofrecidas, relacionándolas con cada uno de los hechos de 
 > <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
 
 Las pruebas que no se relacionen en la forma prescrita serán desechadas por el juez, quedando además, abolida la práctica de relacionar todas las pruebas con todos los hechos de la demanda o contestación.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+Lo establecido en los párrafos anteriores, no será aplicable en tratándose de cuestiones que versen sobre el derecho familiar.
 
 ARTICULO 237
 
@@ -2337,7 +2355,7 @@ ARTICULO 339
 
 Para que las sentencias a que se refiere el artículo anterior produzca los efectos de la cosa juzgada, no se requiere promoción de las partes ni declaración judicial, bastando con una certificación de la secretaría en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos por el juez.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ### CAPITULO UNICO. De la suspensión del procedimiento
 
@@ -2428,6 +2446,8 @@ Cuando la ejecución se ejercite sobre cosa cierta y determinada o en especie, s
 Si la cosa ya no existe, se embargarán bienes que cubran su valor fijado por el ejecutante y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados, y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
 
 ## TITULO SEXTO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ### CAPITULO II. De la vía de apremio
 
@@ -2624,8 +2644,6 @@ El tiempo de la suspensión no se computa en ningún término.
 D
 
 En caso de la primera hipótesis de la fracción II del artículo 339-A, la suspensión durará el tiempo indispensable para que se apersone en el juicio el representante de la sucesión, mismo que no pasará de sesenta días naturales, pasado el cual se seguirá el negocio con el Ministerio Público.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
 
@@ -2933,9 +2951,11 @@ ARTICULO 421
 
 El juez decidirá de plano cualquiera cuestión que se suscite durante la subasta, y de sus resoluciones no se dará más recurso que el de responsabilidad; a menos que la ley disponga otra cosa.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
 ARTICULO 422
 
-El día del remate, a la hora señalada, pasará el juez personalmente lista de los postores presentados y concederá media hora para admitir a los que de nuevo se presenten. Concluída la media hora, el juez declarará que va a procederse al remate y ya no admitirá nuevos postores. En seguida revisarán las propuestas presentadas, desechando desde luego las que no tengan postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 418.
+El día del remate a la hora señalada, pasará el Juez personalmente lista de los postores presentados y concederá media hora para admitir a los que de nuevo se presenten. El ejecutante podrá participar directamente en la subasta como postor. Concluida la media hora, el Juez declarará que va a procederse al remate y ya no admitirá nuevos postores. En seguida revisará las propuestas presentadas, desechando desde luego las que no tengan la postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 418.
 
 ARTICULO 423
 
@@ -2947,9 +2967,11 @@ ARTICULO 424
 
 Al declarar fincado el remate, mandará el juez que dentro de los tres días siguientes se otorgue a favor del comprador la escritura de adjudicación correspondiente en los términos de su postura y que se le entreguen los bienes rematados.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
 ARTICULO 425
 
-No habiendo postor, quedará al arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes por el precio que sirvió de base para el remate, o que se saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación.
+No habiendo postor, quedará al arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes en las tres cuartas partes del valor pericial, o que se saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación.
 
 Esta segunda subasta se anunciará y celebrará en igual forma que la anterior.
 
@@ -3047,19 +3069,7 @@ Si en el contrato se ha fijado precio a la finca hipotecada sin convenio expreso
 
 ARTICULO 441
 
-Cuando los bienes cuyo remate se haya decretado, fueran muebles, se observará lo siguiente:
-
-I.- Se efectuará su venta siempre de contado, por medio de corredor o casa de comercio que expenda objetos o mercancías similares, haciéndose saber, para la busca de compradores, el precio fijado por peritos o por convenio de las partes;
-
-II.- Si pasados diez días de puestos a la venta no se hubiere logrado ésta, el tribunal ordenará una rebaja del diez por ciento del valor fijado primitivamente y, conforme a ella, comunicará al corredor o casa de comercio el nuevo precio de venta, procediéndose en igual forma cada diez días, hasta obtener la realización;
-
-III.- Efectuada la venta, el corredor o casa de comercio entregará los bienes al comprador, otorgándosele la factura correspondiente que firmará el ejecutado o el tribunal en su rebeldía;
-
-IV.- Después de ordenada la venta puede el ejecutante pedir la adjudicación de los bienes, por el precio que tuvieren señalado al tiempo de su petición, eligiendo los que basten para cubrir su crédito, según lo sentenciado;
-
-V.- Los gastos de corretaje o comisión serán por cuenta del deudor y se deducirán preferentemente del precio de venta que se obtenga;
-
-VI.- En todo lo demás se estará a las disposiciones de este Capítulo.
+> <small>(DEROGADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO V. De la ejecución de las sentencias y demás resoluciones dictadas por los tribunales de los Estados, del Distrito Federal y Territorios y del extranjero
 
@@ -3749,9 +3759,7 @@ Se prohibe en la segunda instancia la práctica de diligencias y trámites inút
 
 ARTICULO 524
 
-La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, sobre nulidad de matrimonio por las causas expresadas en los artículos 115, 116 y 122 a 125 del Código Civil y sobre divorcio, para sólo el efecto que determina dicho Código, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
-
-Las sentencias adversas a la Hacienda Pública no apeladas, serán revisables en los términos de este artículo.
+> <small>(DEROGADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO II. De la queja
 
@@ -5804,6 +5812,12 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la 'Ga
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones de esta Ley, no se aplicarán a los créditos hipotecarios contratados antes de la entrada en vigor de la misma.
+
+G.O. 8 DE SEPTIEMBRE DE 1998.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
