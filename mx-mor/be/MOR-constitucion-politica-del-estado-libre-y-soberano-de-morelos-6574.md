@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1946-04-28"
+last_updated: "1950-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1950.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -740,6 +740,8 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 1950)</small>
+
 ###### Artículo 74.
 
 Para el despacho de los negocios encomendados al Ejecutivo, habrá un "Secretario General de Gobierno" y un "Oficial Mayor".
@@ -830,7 +832,7 @@ Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instanc
 
 ###### Artículo 89.
 
-El Tribunal superior de Justicia del Estado se compondrá de tres Magistrados Propietarios y tres Suplentes. Cada uno de ellos será electo por el Congreso, a propuesta en terna del Ejecutivo, por mayoría de votos, en escrutinio secreto, y durará cuatro años en el ejercicio de su encargo; pero el que se elija por falta absoluta de algún Magistrado, sólo durará en su encargo hasta terminar el período constitucional del faltante.
+El H. Tribunal Superior de Justicia en el Estado, se compondrá de tres Magistrados Propietarios y tres suplentes. Cada uno de ellos será electo por el Congreso a propuesta en terna por el Ejecutivo del Estado, por mayoría de votos por escrutinio secreto y durarán 6 años en el ejercicio de su encargo.
 
 El período constitucional del Tribunal Superior, coincidirá con el que esta Constitución designa al Gobernador.
 
@@ -1299,3 +1301,9 @@ P.O. 28 DE ABRIL DE 1946.
 PRIMERO.- Esta reforma surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de la fracción I del artículo 71 de la Constitución Política Local.
+
+P.O. 14 DE JUNIO DE 1950.
+
+1o.- El presente Decreto empezará a surtir sus efectos a partir del día 17 de mayo actual.
+
+2o.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se contrae la Fracción I, del Artículo 71 de la Constitución Política Local.
