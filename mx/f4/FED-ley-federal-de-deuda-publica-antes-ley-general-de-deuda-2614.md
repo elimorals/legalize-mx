@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "1983-12-28"
+last_updated: "1988-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY GENERAL DE DEUDA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -73,6 +73,10 @@ IV.- La celebración de actos jurídicos análogos a los anteriores.
 
 La Secretaría de Hacienda y Crédito Público, de conformidad con lo dispuesto por el Artículo 31 de la Ley Orgánica de la Administración Pública Federal, es la Dependencia del Ejecutivo Federal encargada de la aplicación de la presente ley, así como de interpretarla administrativamente y expedir las disposiciones necesarias para su debido cumplimiento.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+Los titulares de las entidades públicas serán responsables del estricto cumplimiento de las disposiciones de esta Ley, de su reglamento y de las directrices de contratación señaladas por la Secretaría de Hacienda y Crédito Público. Las infracciones a la presente Ley y a los ordenamientos citados se sancionarán en los términos que legalmente correspondan y de conformidad al régimen de responsabilidades de los servidores públicos federales.
+
 ### CAPITULO II. De las Facultades de la Secretaría de Hacienda y Crédito Público
 
 ###### ARTICULO 4o.
@@ -85,7 +89,9 @@ Las monedas, el plazo de las amortizaciones la tasa de los intereses de la emisi
 
 II.- Elaborar el programa financiero del sector público con base en el cual se manejará la deuda pública, incluyendo la previsión de divisas requeridas para el manejo de la deuda externa.
 
-III.- Autorizar a las entidades para gestionar y contratar financiamientos fijando los requisitos que deberán observarse en cada caso.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
+
+III.- Autorizar a las entidades paraestatales para gestionar y contratar financiamientos externos, fijando los requisitos que deberán observar en cada eventualidad;
 
 IV.- Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a la realización de proyectos, actividades y empresas que apoyen los planes de desarrollo económico y social, que generen ingresos para su pago o que se utilicen para el mejoramiento de la estructura del endeudamiento público.
 
@@ -107,7 +113,9 @@ Los títulos que documenten las emisiones que se coloquen en el extranjero, adqu
 
 III.- Tomar las medidas de carácter administrativo relativas al pago del principal, liquidación de intereses, comisiones, gastos financieros, requisitos y formalidades de las actas de emisión de los valores y documentos contractuales respectivos que se deriven de los empréstitos concertados, así como la reposición de los valores que documenten obligaciones en moneda nacional y extranjera y para su cotización en las bolsas de valores extranjeras y nacionales. Podrá también convenir con los acreditantes en la constitución de fondos de amortización para el pago de los valores que se rediman.
 
-IV.- Autorizar a las entidades mencionadas en las fracciones II a VI del Artículo 1o. para la contratación de financiamientos.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
+
+IV.- Autorizar a las entidades paraestatales para la contratación de financiamientos externos;
 
 V.- Llevar el registro de la deuda del sector público federal.
 
@@ -116,6 +124,10 @@ V.- Llevar el registro de la deuda del sector público federal.
 Las entidades del sector público federal requerirán la autorización previa de la Secretaría de Hacienda y Crédito Público para efectuar negociaciones oficiales, gestiones informales o exploratorias sobre la posibilidad de acudir al mercado externo de dinero y capitales.
 
 Para obtener esta autorización deberán proporcionar a dicha Secretaría sus programas financieros anuales y de mediano y largo plazo, así como la demás información que se les solicite, a fin de determinar sus necesidades de crédito.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+Para la contratación de financiamientos internos, en cuanto a las entidades a que se refieren las fracciones III a VI del artículo 1o. de esta Ley, bastará la autorización de sus respectivos órganos de gobierno. En estos casos, el Director General de la entidad de que se trate o equivalente informará sobre el particular a la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 7o.
 
@@ -143,9 +155,11 @@ El Ejecutivo Federal hará las proposiciones que correspondan en las iniciativas
 
 Para determinar las necesidades financieras a que se refiere el artículo anterior, la Secretaría de Hacienda y Crédito Público deberá conocer por conducto de las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación del sector que corresponda, los proyectos y programas de actividades debidamente aprobados por la Secretaría de Programación y Presupuesto, que requieran de financiamientos para su realización.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 12.
 
-Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base para la contratación de los créditos necesarios para el financiamiento del Presupuesto Federal.
+Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base para la contratación de los créditos necesarios para el financiamiento de los Presupuestos Federal y del Distrito Federal. El endeudamiento neto de las entidades incluidas en dichos Presupuestos invariablemente estará correspondido con la calendarización y demás previsiones acordadas periódicamente con las dependencias competentes en materia de gasto y financiamiento.
 
 ###### ARTICULO 13.
 
@@ -171,7 +185,9 @@ El monto de las partidas que las entidades deban destinar anualmente para satisf
 
 El Ejecutivo Federal y sus dependencias sólo podrán contratar financiamientos a través de la Secretaría de Hacienda y Crédito Público.
 
-Las entidades mencionadas en las fracciones II a VI del artículo 1o. de esta Ley, sólo podrán contratar financiamientos con la autorización previa de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+Las Entidades mencionadas en las fracciones III a VI del artículo 1o. de esta Ley, sólo podrán contratar financiamientos externos con la autorización previa de la Secretaría de Hacienda y Crédito Público. En cuanto a los financiamientos internos bastará con la aprobación de sus órganos de gobierno, procediéndose en los términos del artículo 6o. de este ordenamiento.
 
 ###### ARTICULO 18.
 
@@ -181,9 +197,11 @@ La capacidad de pago de las dependencias del Gobierno Federal se establecerá en
 
 ### CAPITULO V. De la Contratación de Financiamientos Para Entidades Distintas del Gobierno Federal
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 19.
 
-Las entidades mencionadas en las fracciones II a VI del artículo 1o. de esta Ley, que no estén comprendidas dentro del Presupuesto de Egresos de la Federación, requieren autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la contratación de toda clase de financiamientos.
+Las entidades mencionadas en las fracciones III a VI del artículo 1o. de esta Ley, que no estén comprendidas dentro de los presupuestos de Egresos de la Federación y del Distrito Federal, sólo requerirán autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la contratación de financiamientos externos.
 
 La autorización sólo podrá comprender aquellos financiamientos incluidos dentro del programa de deuda, salvo el caso de los que se obtengan para fines de regulación monetaria.
 
@@ -199,11 +217,13 @@ III.- Emisiones de títulos en serie o en masa, colocados y pagaderos entre el p
 
 IV.- Operaciones que originen pasivos contingentes y aceptaciones bancarias, de conformidad con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 20.
 
-Independientemente de lo dispuesto en el último párrafo del artículo anterior, las entidades mencionadas en el artículo 1o. de esta ley deberán formular en cada caso la solicitud correspondiente de la Secretaría de Hacienda y Crédito Público, acompañando la información que ésta determine.
+Para los efectos del artículo anterior, las entidades deberán formular para la autorización de los créditos externos, la solicitud correspondiente a la Secretaría de Hacienda y Crédito Público, acompañando la información que ésta determine.
 
-Deberán asimismo presentar ante dicha Secretaría, periódicamente y en la forma en que ésta lo requiera, sus estados financieros, datos sobre sus pasivos y la demás información adicional que les sea solicitada para determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretenda financiar con los recursos del crédito. La Secretaría de Hacienda y Crédito Público podrá complementar la información a que se refiere este artículo mediante el examen de registros y documentos de las mismas entidades.
+Asimismo, deberán presentar ante dicha Secretaría, mensualmente y en la forma que ésta lo requiera, sus estados financieros, datos sobre sus pasivos y la información adicional que les sea solicitada para determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretenda financiar con los recursos del crédito; el uso de las disponibilidades de cada línea de crédito y sus amortizaciones. La Secretaría de Hacienda y Crédito Público podrá complementar la citada información, mediante el examen de registros y documentos de las mismas entidades.
 
 ###### ARTICULO 21.
 
@@ -215,9 +235,13 @@ Los financiamientos deberán ser acordes con la capacidad de pago de las entidad
 
 La Secretaría de Hacienda y Crédito Público comunicará por escrito su resolución a las entidades solicitantes, precisando, en su caso, las características y condiciones en que los créditos puedan ser concertados.
 
-Si el crédito obtenido se formaliza con una emisión de bonos o con un contrato, tanto en el acta de emisión, como en el contrato, así como en los bonos y documentos que de ellos se deriven, deberán citarse los datos fundamentales de la mencionada autorización. Igual disposición será observada en los demás títulos de crédito que suscriban, avalen o acepten las entidades del sector público federal. Los documentos de referencia no tendrán validez si en ellos no están consignados los datos de la autorización otorgada por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+Si el crédito obtenido se formalizare con una emisión de bonos o con un contrato, tanto en el acta de emisión, como en el contrato, así como en los bonos y documentos que de ellos se deriven, deberán citarse los datos fundamentales de la mencionada autorización. Igual disposición será observada en los demás títulos de crédito que sobre el particular suscriban, avalen o acepten las entidades. Los documentos de referencia no tendrán validez si en ellos no estuvieren consignados los datos de la autorización otorgada por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+
+En los títulos u otros documentos donde se hicieren constar obligaciones de crédito interno a cargo de las entidades públicas, deberá expresarse que los mismos sólo serán negociables con sociedades nacionales de crédito.
 
 ### CAPITULO VI. De la Vigilancia de las Operaciones de Endeudamiento
 
@@ -308,3 +332,25 @@ D.O.F. 28 DE DICIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día 1o. de enero de 1984.
+
+D.O.F. 7 DE ENERO DE 1988.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan:
+
+I.- ...
+
+II.- ...
+
+III.- Las demás disposiciones que se opongan a lo establecido por este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Al entrar en vigor este Decreto, el Ejecutivo Federal procederá a revisar las normas reglamentarias y administrativas que se hubieren expedido con anterioridad sobre las materias a que se refiere este ordenamiento, y realizará respecto de dichas normas, las adecuaciones y derogaciones que resulten pertinentes, las cuales surtirán efectos, en lo que hace a las entidades paraestatales, una vez que los órganos de gobierno de éstas hayan expedido las políticas, bases y lineamientos a que se refiere este Decreto, para lo cual el Ejecutivo Federal establecerá el plazo necesario.
