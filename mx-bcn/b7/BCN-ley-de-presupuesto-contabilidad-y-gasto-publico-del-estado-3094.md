@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "1992-09-20"
+last_updated: "1996-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -78,6 +78,10 @@ b) Los Organismos Descentralizados;
 c) Las Empresas de Participación Municipal Mayoritaria;
 
 d) Los Fideicomisos en los que el fideicomitente mayoritario sea el Municipio,
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+
+Las erogaciones del Presupuesto de Egresos que realicen las Entidades o Dependencias que regula esta Ley, para el pago del Gasto Público, debe efectuarse siempre con cheque nominativo.
 
 ###### ARTICULO 3o.
 
@@ -568,3 +572,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE NOVIEMBRE DE 1996.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1° de enero de 1997.
