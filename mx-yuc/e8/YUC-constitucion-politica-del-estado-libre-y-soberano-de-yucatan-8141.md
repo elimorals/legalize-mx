@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-03-31"
+last_updated: "1988-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MARZO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE AGOSTO DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -543,7 +543,7 @@ XXXIX.- Conocer y resolver de las controversias que surjan entre el Ejecutivo y 
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han desaparecido o suspender o revocar el mandato de alguno de sus miembros por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva, procediendo como disponga para estos casos la Ley Orgánica del Poder Legislativo del Estado de Yucatán y la Ley Orgánica de los Municipios del Estado,
+XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han desaparecido o suspender o revocar el mandato de alguno de sus miembros por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva, procediendo como disponga para estos casos la Ley Orgánica del Poder Legislativo del Estado de Yucatán y la Ley Orgánica de los Municipios del Estado;
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -1429,6 +1429,10 @@ La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios 
 
 Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de la ejecución de obras públicas, serán dados a conocer, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública, en la cual los contratos se adjudicarán en subasta.
 
+> <small>(ADICIONADO, D.O. 10 DE AGOSTO DE 1988)</small>
+
+El Estado y los Municipios podrán convenir y asumir la responsabilidad, en el ejercicio de sus funciones, de la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario, en los términos de la Ley de la materia.
+
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 108.
@@ -1804,3 +1808,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O. 31 DE MARZO DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Gobierno del Estado.
+
+D.O. 10 DE AGOSTO DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
