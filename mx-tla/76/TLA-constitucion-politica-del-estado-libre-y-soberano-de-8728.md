@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1963-09-25"
+last_updated: "1970-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -133,13 +133,13 @@ Los mexicanos por nacimiento o por naturalización que, siendo vecinos, manifies
 
 ### CAPITULO VI.. De los ciudadanos tlaxcaltecas
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1954)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1970)</small>
 
 ###### Art. 12.
 
-Son ciudadanos del Estado todos los varones y las mujeres que teniendo la calidad de tlaxcalteca, reúnan además los siguientes requisitos:
+Son ciudadanos del Estado todos los varones y mujeres que teniendo la calidad de tlaxcaltecas, reúnan, además, los siguientes requisitos:
 
-I. Haber cumplido dieciocho años, siendo casados, o veintiuno si no lo son, y
+I. Haber cumplido 18 años, y
 
 II. Tener un modo honesto de vivir.
 
@@ -1142,3 +1142,7 @@ El presente Decreto surtirá sus efectos a partir de esta fecha.
 P.O. 25 DE SEPTIEMBRE DE 1963.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 1970.
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
