@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2002-12-19"
+last_updated: "2004-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -95,7 +95,7 @@ Existe preterintencionalidad, cuando se causa daño mayor que el que se quiso ca
 
 ###### ARTICULO 7o.
 
-La comprobación de las modalidades de la responsabilidad penal y los grados de la culpabilidad se determinarán mediante la valoración que conforme a derecho se haga de las pruebas dentro del procedimiento. En caso que se determine la existencia de dolo, es decir, de intención, no se considerará extinguida tal forma de culpabilidad, aunque se pruebe lo siguiente:
+La comprobación de las modalidades de la responsabilidad penal y los grados de la culpabilidad se determinarán mediante la valoración que conforme a derecho se haga de las pruebas dentro del procedimiento. En caso que se determine la existencia de dolo, es decir, de intención, no se considerará extinguida tal forma de culpabilidad, aunque se pruebe lo siguiente :
 
 I.- Que creía que era legítimo el fin que se propuso;
 
@@ -1612,6 +1612,12 @@ XII.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue emp
 XIII.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio publico, siempre que lo haga con conocimiento de tal situación; y
 
 XIV.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe un empleo, cargo o comisión a que se haga referencia en dicha identificación.
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2004)</small>
+
+XV.- Entregue o acuerde entregar numerario o bienes en especie a servidores públicos de confianza estatales o municipales de primer nivel, a que se refieren los artículos 7, párrafo cuarto de la Ley Orgánica del Poder Ejecutivo, 11 Bis de la Ley Orgánica del Poder Judicial, 117, párrafo cuarto de la Ley Orgánica del Poder Legislativo y 28, párrafo cuarto de la Ley de Gobierno y Administración Municipal.
+
+La sanción correspondiente a este caso será independiente de la inhabilitación que en su caso proceda.
 
 ###### ARTICULO 181.
 
@@ -3438,3 +3444,7 @@ UNICO.- El presente Decreto entrará al día siguiente de su publicación en el 
 B.O. 19 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
