@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1945-06-27"
+last_updated: "1947-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1947.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -175,11 +175,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 ###### Artículo 16.
 
-El Territorio del Estado comprende el que le señala la Ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
+El Territorio del Estado comprende el que le señaló la Ley de su creación, con la modificación contenida en el Decreto Número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Pilcaya, Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan, Pedro Ascencio Alquisiras, Apaxtla, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyú, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco de los Figueroa, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Zapotitlán Tablas, Tlalixtaquilla, Tlacuapa, Malinaltepec, Xalpatlahuac, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá.
-
-Las Municipalidades expresadas conservarán la integridad territorial que se señala en la Ley Orgánica de División Territorial del Estado.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Tlacoapa, Taxco de Alarcón, Tetipac, Pilcaya, Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan, Pedro Ascencio Alquisiras, Apaxtla, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyú, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco, Cocula, Huitzuco, Buena Vista de Cuéllar Atenango del Río, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla de Guerrero, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Zapotitlán Tablas, Malinaltepec, Xalpatlahuac, Alpoyeca, Cochoapa, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Xochihuehuetlán, Cualac, Tlalixtaquilla y Olinalá.
 
 ###### Artículo 17.
 
@@ -1023,7 +1021,7 @@ De los derechos y obligaciones de los Ciudadanos del Estado, y casos en que se s
 
 Del Municipio como base de la división territorial del Estado, y su organización política y administrativa de los Distritos.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1944)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1947)</small>
 
 ### CAPITULO II.
 
@@ -1332,3 +1330,9 @@ P.O. 27 DE JUNIO DE 1945.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 1947.
+
+Art. 1º Se derogan las disposiciones legales que se opongan al cumplimiento del presente Decreto.
+
+Art. 2º Este Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
