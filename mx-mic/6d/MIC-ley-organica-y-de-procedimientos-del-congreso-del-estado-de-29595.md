@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2003-12-31"
+last_updated: "2005-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -59,9 +59,11 @@ El ejercicio de las funciones de los Diputados al Congreso del Estado durante tr
 
 ### CAPÍTULO SEGUNDO. DE LA OBLIGATORIEDAD DE LA LEY
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 4.
 
-La presente Ley, los Reglamentos y Manuales de Procedimientos que deriven de la misma, son de observancia general y obligatoria.
+La presente Ley, los reglamentos y manuales que de ella deriven, son de observancia general y obligatoria.
 
 ###### Artículo 5.
 
@@ -93,9 +95,11 @@ Ningún Diputado podrá ser procesado por delitos del orden común o federal, si
 
 Cuando la denuncia, querella, requerimiento del Ministerio Público o acusación, sea contra un Diputado, éste se ausentará del Pleno durante el tiempo que se verifique la sesión en que se debatirá la declaración de procedencia.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 7.
 
-Los Diputados en funciones, durante el periodo de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción, investigación científica y beneficencia, sin licencia previa del Congreso.
+Los diputados en funciones durante el periodo de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso.
 
 ###### Artículo 8.
 
@@ -107,7 +111,9 @@ Son obligaciones de los Diputados:
 
 I. Rendir protesta para asumir el cargo;
 
-II. Asistir a las juntas y a las sesiones de la Legislatura para los que se les convoque;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+II. Asistir puntualmente a las sesiones de Pleno, de comisiones y de comités de los que formen parte;
 
 III. Participar en los trabajos de las comisiones y comités de que formen parte;
 
@@ -127,11 +133,15 @@ IX. Las demás que les señale la Constitución, la presente Ley y los ordenamie
 
 Son derechos de los Diputados:
 
-I. Presentar iniciativas de Ley o Decreto, y proposiciones de acuerdo Parlamentario;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+I. Presentar iniciativas de Ley o Decreto, y propuesta de acuerdo;
 
 II. Participar en las sesiones de la Legislatura;
 
-III. Realizar gestiones en nombre de sus representados ante las diversas instancias de autoridad;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+III. Gestionar en nombre de sus representados ante las diversas instancias de autoridad;
 
 IV. Solicitar licencia para separarse de su cargo;
 
@@ -153,19 +163,17 @@ XII. Tener acceso a información actualizada, asesoría y capacitación; y,
 
 XIII. Los demás que les señale la Constitución, esta Ley y los ordenamientos que de ella deriven.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 11.
 
-Para los efectos de la presente Ley, los Diputados se podrán hacer acreedores a las siguientes sanciones:
+Para los efectos de la presente Ley, los diputados se harán acreedores a las sanciones siguientes:
 
-I. Con separación de su cargo, cuando incurran en los supuestos que señala la Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado;
+I. Las previstas en la Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-II. Cuando falte a más de cuatro sesiones consecutivas, de Pleno o de comisiones, sin causa justificada o sin previa licencia del Presidente del Congreso o del Coordinador de la Comisión, se sancionará con el equivalente a un mes de su dieta, y de reincidir se le separará en forma definitiva de su cargo y se llamará a su suplente;
+II. El equivalente a un mes de dieta, cuando falte a más de cuatro sesiones consecutivas de Pleno, de comisiones o de comités, sin causa justificada o sin previa licencia del Presidente del Congreso, de la Comisión o del Comité; y,
 
-III. Cuando falten a una sesión del Pleno, comisiones o comités, sin causa justificada, serán privados de las dietas correspondientes a los días que no asistan;
-
-IV. Cuando abandonen el Recinto y no regresen durante la sesión, se les privará de su dieta; y
-
-V. Cuando habiendo pasado lista de presentes, se ausentaren durante las votaciones, se les sancionará con amonestación pública, asentándose en el acta, y se les privará de la dieta correspondiente.
+III. Privación del equivalente a un día de dieta, cuando abandone el Recinto y no regrese durante la sesión.
 
 ### CAPÍTULO CUARTO. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -173,13 +181,17 @@ V. Cuando habiendo pasado lista de presentes, se ausentaren durante las votacion
 
 Cuando en el Congreso se encuentren dos o más Diputados con igual afiliación de partido, se pueden constituir en Grupo Parlamentario para realizar tareas específicas en el Congreso, de conformidad con las corrientes ideológicas que representen.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 13.
 
-El funcionamiento de los Grupos Parlamentarios se regula por los Estatutos y lineamientos de los respectivos Partidos Políticos, y en el marco de la presente Ley.
+El funcionamiento de los grupos parlamentarios se regula por la presente Ley, los reglamentos y manuales.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
 
 ###### Artículo 14.
 
-Los coordinadores de los Grupos Parlamentarios son los conductos para realizar las tareas de coordinación con la Mesa Directiva, la Junta de Coordinación Política, las comisiones y comités del Congreso. Los Vicecoordinadores de los Grupos Parlamentarios o quien sea designado por ellos, suplen las ausencias de los Coordinadores.
+Los coordinadores de los grupos parlamentarios son los conductos de coordinación con la Mesa Directiva, la Junta de Coordinación Política, las comisiones y comités del Congreso. Los vicecoordinadores de los Grupos Parlamentarios o quien sea designado por ellos, suplen las ausencias de los Coordinadores.
 
 ### CAPÍTULO QUINTO. DE LA SEDE DEL CONGRESO
 
@@ -191,9 +203,11 @@ La sede del Congreso está en la Ciudad de Morelia, Capital del Estado de Michoa
 
 El edificio que alberga al Congreso, se denomina Palacio del Poder Legislativo, cuenta con un Salón de Pleno o Recinto, donde celebrará sesiones.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 17.
 
-En casos especiales, de actos solemnes o por causas graves, previo acuerdo de las dos terceras partes de los miembros del Congreso, podrá constituirse transitoriamente en lugar distinto al habitual, el que será Recinto.
+En casos especiales, actos solemnes o causas graves, por acuerdo de las dos terceras partes de los diputados, el Congreso podrá sesionar transitoriamente en lugar distinto al habitual, el que será Recinto.
 
 ###### Artículo 18.
 
@@ -235,9 +249,11 @@ La Mesa Directiva del Congreso, se integra con un Presidente, quien es el Presid
 
 Quienes integren la Mesa Directiva desempeñarán su encargo por el término de cuatro meses y sus miembros pueden ser reelectos.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 23.
 
-La Mesa Directiva dispone de un local adecuado en las instalaciones del Congreso donde atienda lo relativo a su encargo.
+La Mesa Directiva dispondrá de un local adecuado en las instalaciones del Congreso, donde atenderá lo relativo a su encargo.
 
 ###### Artículo 24.
 
@@ -255,7 +271,9 @@ Corresponde a la Mesa Directiva a través de su Presidente, preservar la liberta
 
 Son atribuciones de la Presidencia de la Mesa Directiva las siguientes:
 
-I. Hacer respetar el fuero Constitucional de los Diputados y velar por la inviolabilidad del Recinto Parlamentario;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+I. Hacer respetar el fuero constitucional de los diputados y velar por la inviolabilidad del Recinto del Congreso;
 
 II. Representar al Congreso ante los otros dos Poderes del Estado, los Ayuntamientos, los Poderes de la Unión y demás entidades federativas;
 
@@ -265,19 +283,29 @@ IV. Dar curso reglamentario y determinar los trámites que deban recaer en los a
 
 V. Determinar los asuntos que deban someterse a discusión de conformidad con la presente Ley y los ordenamientos que de ella deriven;
 
-VI. Conducir los Debates y deliberaciones del Congreso con arreglo a la presente Ley y los ordenamientos que de ella emanen;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+VI. Conducir los debates y deliberaciones del Congreso con arreglo a la presente Ley y los ordenamientos que de ella emanen;
 
 VII. Llamar al orden a los Diputados, y exigirlo al público asistente a las sesiones y disponer que desaloje el Recinto Oficial cuando hubiere motivo para ello, requiriendo, si es preciso para hacer cumplir su determinación, el auxilio de la fuerza pública;
 
-VIII. Firmar con los Secretarios, las minutas de leyes y decretos que expida el Congreso, así como el Acta de cada sesión, tan luego como éstas sean aprobadas;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+VIII. Firmar con los secretarios las minutas de ley o decreto, los acuerdos que expida el Congreso, y el acta de cada sesión;
 
 IX. Turnar y distribuir el trabajo a las Comisiones de acuerdo a la materia;
 
-X. Cuidar que las Comisiones cumplan oportunamente con sus respectivos encargos, dando cuenta al Congreso de las omisiones e irregularidades que se cometieran, aplicando lo dispuesto en el artículo 12 de la presente Ley, sin perjuicio de las demás sanciones reglamentarias y que acuerde la Asamblea;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
 
-XI. Realizar la excitativa correspondiente a cualquiera de las Comisiones de Dictamen, a nombre del Congreso, para que presenten el mismo si han transcurrido hasta treinta días de que el asunto les fue turnado;
+X. Cuidar que las comisiones cumplan oportunamente con sus encargos, dando cuenta al Congreso de las omisiones e irregularidades que cometan;
 
-XII. Proponer al Congreso, los nombres de los Diputados que representarán al Poder Legislativo ante cualquier organismo público y designar a quienes deban asistir a eventos cívicos y sociales, así como nombrar las comisiones cuyo objeto sea protocolario;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+XI. Formular excitativa a las comisiones que no hayan presentado su dictamen, una vez transcurridos noventa días hábiles, contados a partir de la fecha en que el asunto les fue turnado;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+XII. Designar a los diputados que representarán al Poder Legislativo ante cualquier organismo público, así como delegar la representación protocolaria a quienes deban asistir a eventos cívicos y sociales;
 
 XIII. Convocar a sesión del Pleno a iniciativa propia, por acuerdo con la Junta de Coordinación Política o a solicitud de la tercera parte del Congreso;
 
@@ -327,11 +355,15 @@ I. Auxiliar al Presidente en el desempeño de sus funciones;
 
 II. Suplir las ausencias temporales del Presidente;
 
-III. Informarse debidamente previo a la celebración de la sesión, revisar el acta anterior y tomar conocimiento de los asuntos con los que se deberá dar cuenta al Congreso;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+III. Revisar el acta anterior e informarse debidamente con antelación a la celebración de la sesión, de los asuntos con los que se dará cuenta al Pleno;
 
 IV. Cuidar que las iniciativas y los dictámenes que vayan a ser objeto de debate se distribuyan oportunamente entre la asamblea, por lo menos dos días antes de la sesión, salvo casos de fuerza mayor;
 
-V. Dar cuenta a la Asamblea, previo acuerdo con la Presidencia, de los asuntos que han de someterse a su consideración, en términos del artículo 110 de la presente Ley; así como dar lectura a los documentos listados en el orden del día;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+V. Dar cuenta al Pleno, previo acuerdo con la Presidencia, de los asuntos que han de someterse a su consideración, en términos del artículo 109 de la presente Ley; así como dar lectura a los documentos listados en el orden del día;
 
 VI. Rubricar conjuntamente con la Presidencia las leyes, decretos, acuerdos y demás disposiciones que expida el Congreso;
 
@@ -351,7 +383,9 @@ III. Recoger las votaciones y dar a conocer sus resultados a la Presidencia, par
 
 IV. Recoger las observaciones y modificaciones a los dictámenes que apruebe la asamblea, para integrarlas a la minuta respectiva;
 
-V. Rendir informes periódicamente al Congreso, sobre los asuntos que fueron despachados, y de los que aún estén en trámite;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+V. Rendir periódicamente informes al Congreso sobre los asuntos que fueron despachados y de los que aún estén en trámite;
 
 VI. Apoyarse, para realizar sus funciones, en la Secretaría de Servicios Parlamentarios;
 
@@ -377,9 +411,17 @@ VII. Apoyarse, para realizar sus funciones, en la Secretaría de Servicios Parla
 
 VIII. Ordenar y supervisar la edición del órgano oficial del Congreso, denominado "DIARIO DE LOS DEBATES", que contendrá la transcripción de lo expresado en las Sesiones Públicas;
 
-IX. Llevar un libro en el que se asienten, textualmente y por orden cronológico, las leyes y decretos que expida el Congreso; y,
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
 
-X. Las demás que le confiera la presente Ley, los ordenamientos que de ella se deriven y demás disposiciones emanadas del Congreso.
+IX. Integrar un libro en el que se asienten textualmente y por orden cronológico, las minutas de ley o decreto aprobadas por el Congreso;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+X. Integrar un libro en el que se asienten textualmente y por orden cronológico, los acuerdo (sic) aprobados por el Congreso; y,
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2005)</small>
+
+XI. Las demás que le confiera la presente Ley, los ordenamientos que de ella se deriven y demás disposiciones emanadas del Congreso.
 
 ###### Artículo 32.
 
@@ -391,9 +433,11 @@ De incurrir el Secretario en la falta reiterada al cumplimiento de sus obligacio
 
 ### CAPÍTULO TERCERO. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 34.
 
-La Junta de Coordinación Política es un órgano colegiado integrado por los coordinadores de los Grupos Parlamentarios y por el o los Diputados únicos de partido, quienes ejercerán un voto ponderado; forma también parte de la Junta el Presidente de la Mesa Directiva, quien sólo tiene derecho a voz. En caso de empate emitirá voto de calidad el Presidente de la Junta.
+La Junta de Coordinación Política es un órgano colegiado integrado por los coordinadores de los Grupos Parlamentarios, quienes ejercerán un voto ponderado; y por el Presidente de la Mesa Directiva, quien sólo tiene derecho a voz. En caso de empate emitirá voto de calidad el Presidente de la Junta.
 
 ###### Artículo 35.
 
@@ -433,9 +477,9 @@ VI. Proponer al Pleno, a los Diputados que habrán de integrar la Mesa Directiva
 
 VII. Coadyuvar con la Mesa Directiva en el desahogo de los asuntos;
 
-VIII. Proponer al Congreso, la designación del Presidente y los Consejeros Ciudadanos que integrarán al Consejo General del Instituto Electoral de Michoacán, en los términos previstos por el Código Electoral del Estado, previo análisis en las Comisiones de los integrantes de las ternas enviadas por el Ejecutivo;
+VIII. (DEROGADA, P.O. 13 DE ENERO DE 2005)
 
-IX. Proponer al Congreso la designación de los Magistrados que integrarán el Tribunal Electoral del Estado, en los términos establecidos por el Código de la materia;
+IX. (DEROGADA, P.O. 13 DE ENERO DE 2005)
 
 X. Recibir de los Diputados y presentar al Pleno del Congreso, las propuestas de los nombres de los dos que representen al Poder Legislativo ante el Consejo General del Instituto Electoral de Michoacán; y,
 
@@ -599,7 +643,9 @@ XX. Fortalecimiento Municipal;
 
 XXI. Asuntos Migratorios;
 
-XXII. Equidad y Género;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+XXII. Grupos Vulnerables, Equidad y Género;
 
 XXIII. Cultura Indígena; y,
 
@@ -612,6 +658,10 @@ A cada Comisión de Dictamen se le turnarán los asuntos relacionados con la mat
 ###### Artículo 58.
 
 Las Comisiones de Dictamen, tienen como funciones las de estudiar, analizar y dictaminar las iniciativas de leyes y decretos, así como de proposiciones de acuerdo parlamentario, para su presentación al Pleno y participar en la discusión en su caso, de acuerdo con las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Toda iniciativa de Ley o Decreto presentada por las Comisiones tendrá el carácter de dictamen, cuando esté relacionada con la materia de su competencia.
 
 ###### Artículo 59.
 
@@ -683,21 +733,97 @@ III. Desahogar las consultas respecto de la aplicación e interpretación de la 
 
 IV. Coordinar y vigilar el trabajo de la Secretaría de Servicios Parlamentarios, así como del Centro de Investigaciones y Estudios Legislativos.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 64.
 
-La Comisión de Programación, Presupuesto y Cuenta Pública, actúa de acuerdo con lo dispuesto en la presente Ley y demás ordenamientos que regulen el funcionamiento del Congreso y sus Órganos. De manera enunciativa y no limitativa, le corresponde:
+Corresponde a la Comisión de Programación, Presupuesto y Cuenta Pública, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre los asuntos siguientes:
 
-I. Analizar y dictaminar anualmente la Ley de Ingresos y el Presupuesto de Egresos;
+I. Dictaminar anualmente las leyes de ingresos y el Presupuesto de Egresos del Estado;
 
-II. Revisar y dictaminar las Cuentas Públicas de la Hacienda Estatal y Municipales;
+II. Dictaminar los informes de resultados de la revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía; y,
 
-III. Revisar y dictaminar la aplicación de los recursos de las entidades paraestatales y otros que dispongan de autonomía;
+III. Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-IV. Dictaminar el informe recibido de la Comisión Inspectora de la Auditoría Superior de Michoacán y presentarlo al Pleno del Congreso;
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
 
-V. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán; y,
+Artículo 64 A. Corresponde a la Comisión de Hacienda y Deuda Pública, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre los asuntos de carácter hacendario, de empréstitos u obligaciones que se contraten por el Gobierno del Estado, las entidades paraestatales, gobiernos municipales y entidades paramunicipales, para la realización de inversiones públicas productivas.
 
-VI. Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 B. Corresponde a la Comisión de Educación, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre los asuntos que se relacionen con la educación pública.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 C. Corresponde a la Comisión de Cultura, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre los asuntos relacionados con la conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 D. Corresponde a la Comisión de Ciencia y Tecnología, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre asuntos relacionados con la ciencia y tecnología.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 E. Corresponde a la Comisión de Salud, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre los asuntos de salud, servicios sanitarios y de higiene.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 F. Corresponde a la Comisión de Desarrollo Social, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la política de desarrollo económico integral y de beneficio social.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 G. Corresponde a la Comisión de Justicia, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relacionados con la procuración e impartición de justicia.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 H. Corresponde a la Comisión Derechos Humanos, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la protección, defensa y conservación de los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 I. Corresponde a la Comisión de Seguridad Pública, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la prevención y readaptación social.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 J. Corresponde a la Comisión de Desarrollo Urbano, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos al desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 K. Corresponde a la Comisión de Recursos Naturales y Medio Ambiente, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la prevención y control de la contaminación, a la conservación y restauración del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 L. Corresponde a la Comisión Desarrollo Rural, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos al desarrollo del campo.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 M. Corresponde a la Comisión Desarrollo Económico, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos al desarrollo económico.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 N. Corresponde a la Comisión de Turismo, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la actividad turística.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 Ñ. Corresponde a la Comisión de Transporte, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la prestación directa o concesionada del transporte de personas y cosas.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 O. Corresponde a la Comisión de Fortalecimiento Municipal, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos al desarrollo de los municipios.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 P. Corresponde a la Comisión de Asuntos Migratorios, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a los migrantes.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 Q. Corresponde a la Comisión de Grupos Vulnerables, Equidad y Género, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relacionados con la garantía de igualdad de las personas.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 R. Corresponde a la Comisión de Cultura Indígena, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos, a los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Artículo 64 S. Corresponde a la Comisión de Juventud y Deporte, participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relacionados con el desarrollo de la juventud y el deporte.
 
 ###### Artículo 65.
 
@@ -717,7 +843,9 @@ II. Ordenar y supervisar a la Auditoría Superior de Michoacán, para los efecto
 
 III. Recibir trimestralmente un informe de las operaciones que haya practicado la Auditoría Superior de Michoacán;
 
-IV. Presentar al Congreso, en los términos del artículo 134 de la Constitución, la glosa y revisión realizada por la Auditoría Superior de Michoacán y los resultados de las auditorias;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+IV. Recibir de la Auditoría Superior de Michoacán, en los términos del artículo 134 de la Constitución, los informes del resultado de la revisión de la Cuenta Pública del Estado y de los ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía;
 
 V. Presentar al Pleno, a través de la Comisión de Programación, Presupuesto y Cuenta Pública, los informes de la Auditoría Superior de Michoacán sobre el resultado de la revisión de la Cuenta Pública del año anterior y sus avances trimestrales;
 
@@ -835,7 +963,9 @@ I. De Asistencia Técnica a la Mesa Directiva, que comprende los de: corresponde
 
 II. De Asistencia en la Sesión para apoyo a la Mesa Directiva en la preparación y desarrollo de los trabajos del Pleno; registro y seguimiento de las iniciativas o minutas de Ley o Decreto; distribución de los documentos sujetos a su conocimiento; información y estadística de las actividades del Congreso; elaboración, registro y publicación de las actas de las Sesiones; y registro de leyes y resoluciones que adopte el Pleno;
 
-III. De Asistencia a las Comisiones: a través de integrantes del Servicio de Carrera, quienes con carácter de Secretario Técnico, darán seguimiento a los asuntos que se les turnen, así como en el registro y la elaboración del acta de sus reuniones;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+III. De Asistencia a las Comisiones: a través de integrantes del Servicio de Carrera, quienes con carácter de Secretario Técnico, darán seguimiento a los asuntos que se les turnen; en el registro y elaboración del acta de sus reuniones; de apoyo técnico de ingeniería y asuntos territoriales;
 
 IV. Jurídicos, que comprende los de asesoría a los Diputados y atención de los asuntos legales del Congreso;
 
@@ -845,7 +975,7 @@ VI. Del Archivo, para la formación, clasificación y custodia de expedientes de
 
 VII. De la Biblioteca para crear y salvaguardar el acervo de libros, hemeroteca, videoteca, multimedia, museografía, e informática parlamentaria.
 
-VIII. Protocolo, ceremonial y relaciones públicas;
+VIII. Protocolo, ceremonial y relaciones públicas.
 
 ###### Artículo 76.
 
@@ -889,9 +1019,19 @@ VI. Servicio Médico y de atención a Diputados.
 
 Cada uno de los servicios establecidos en las fracciones anteriores constituyen áreas cuya organización se regula con apego a lo que disponga el manual de procedimientos respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 79.
 
-Para la revisión y fiscalización de los actos realizados, dependiente de la Comisión de Administración y Control, hay una Contraloría Interna, cuya integración y métodos de designación serán con apego a lo dispuesto por el reglamento respectivo.
+Para la revisión y fiscalización de los actos realizados, dependiente de la Junta de Coordinación Política, hay una Contraloría Interna, cuya integración y métodos de designación serán con apego a lo dispuesto por el reglamento respectivo.
+
+La Contraloría Interna tendrá las atribuciones siguientes:
+
+I. Recibir la declaración de situación patrimonial de los servidores públicos del Poder Legislativo;
+
+II. Conocer y resolver las controversias que se susciten con motivo de la declaración de situación patrimonial; y,
+
+III. Practicar auditorías sobre los recursos del Congreso.
 
 ###### Artículo 80.
 
@@ -949,9 +1089,11 @@ El programa debe apegarse a lo dispuesto por el reglamento respectivo.
 
 El Congreso es renovado totalmente cada tres años, y se instala el quince de enero del año siguiente en que hubiere elecciones ordinarias. A este acto concurrirá el Gobernador, el Presidente del Supremo Tribunal de Justicia y los miembros que formen ese cuerpo.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 86.
 
-El Congreso no podrá instalar la Legislatura ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los Diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante la primera mitad del año legislativo, y si los suplentes no se presentaren en el mismo plazo de ocho días, se declarará vacante el cargo y se convocará a nuevas elecciones. En el caso de los Diputados electos por el principio de representación proporcional cuando no se presentare el suplente en el mencionado plazo, la Comisión de Transición llamará al candidato del mismo partido que siga en el orden de la lista registrada ante el Instituto Electoral del Estado.
+El Congreso no podrá instalar la Legislatura ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante sesenta días, y si los suplentes no se presentaren en el plazo de ocho días, se declarará vacante el puesto y se convocará a nuevas elecciones. Se entiende también que los diputados que falten a cuatro sesiones consecutivas, sean del Pleno o en Comisiones Legislativas, sin causa justificada o sin previa licencia del Presidente del Congreso, se sancionarán conforme a la presente Ley. Si no hubiere quórum para instalar el Congreso, o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la brevedad a desempeñar su cargo, entre tanto transcurren los ocho días que les confiere la Ley. Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo de ocho días. Las vacantes de los electos por el principio de representación proporcional, deberán se (sic) cubiertas por aquellos candidatos del mismo partido que siga en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE TRANSICIÓN
 
@@ -1065,15 +1207,19 @@ No puede celebrarse ninguna sesión sin la concurrencia de la mitad más uno, de
 
 Las Sesiones ordinarias serán públicas y se iniciarán por lo general a las once horas; durarán el tiempo necesario para el desahogo todos los asuntos del orden del día. El Presidente del Congreso podrá, por sí mismo o a petición de cualquier Diputado, decretar recesos.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 103.
 
-Podrá haber sesiones públicas o privadas, cuando lo juzgue conveniente la Mesa Directiva del Congreso a petición del Gobernador. El Presidente del Congreso convocará con al menos doce horas de anticipación y en ellas sólo se atenderán los asuntos para los que fueron convocadas.
+Podrá haber sesiones públicas o privadas a solicitud del Gobernador y lo juzgue conveniente la Mesa Directiva del Congreso. En este caso, el Presidente del Congreso convocará con al menos doce horas de anticipación y en ellas sólo se atenderán los asuntos para los que fueron convocadas.
 
 ###### Artículo 104.
 
 Cuando se trate de renuncia, licencia o falta absoluta del Gobernador, el Congreso deberá reunirse en el Recinto Oficial a las nueve de la mañana del día siguiente a aquél en que se reciba la solicitud de renuncia o haya ocurrido la falta, aún cuando ese día sea inhábil, para los efectos de los Artículos 54 a 58 de la Constitución Política del Estado.
 
-Si por falta de quórum no pudiera verificarse la sesión urgente, el Presidente del Congreso tendrá facultades para obligar a los ausentes, por los medios a su alcance, para concurrir a la sesión; pudiendo en su defecto convocar a los suplentes.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Si por falta de quórum no pudiera verificarse la sesión urgente, el Presidente del Congreso tendrá facultades para obligar a los ausentes, por los medios establecidos en la Ley, para que se presenten a la sesión.
 
 ###### Artículo 105.
 
@@ -1083,11 +1229,15 @@ Son sesiones públicas aquellas que se celebren permitiéndose el acceso al púb
 
 El Público asistente deberá guardar respeto y abstenerse de intervenir de cualquier manera en los debates.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 107.
 
-Son sesiones privadas aquellas en que por tratarse de los casos a que se refiere este Estatuto, queda prohibido el acceso al público en el Recinto Oficial, en virtud de lo cual los asuntos tratados y los acuerdos tomados, tienen el carácter de reservados. Son materia de sesión privada:
+Son sesiones privadas aquellas en que por tratarse de los casos a que se refiere esta Ley, queda prohibido el acceso al público en el Recinto Oficial, en virtud de lo cual los asuntos tratados y los acuerdos tomados, tienen el carácter de reservados. Son materia de sesión privada:
 
-I. Las deliberaciones relativas a las acusaciones que se hagan en contra de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+I. Las deliberaciones relativas a los procedimientos de responsabilidades que se hagan en contra de los servidores públicos;
 
 II. Los oficios que dirija el Gobernador, las Legislaturas de los Estados, los Poderes de la Unión o los Ayuntamientos, que previamente se consideren con carácter de reservados;
 
@@ -1111,7 +1261,9 @@ I. Acta de la sesión anterior para su aprobación, pudiendo los Diputados solic
 
 II. Comunicaciones oficiales;
 
-III. Denuncias de particulares, fundamentadas y respaldadas con suficientes elementos de prueba;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+III. Denuncias respecto de las conductas a que se refiere el artículo 107 de la Constitución, presentadas con elementos de prueba;
 
 IV. Iniciativas de Ley o de Decreto;
 
@@ -1151,21 +1303,29 @@ Cuando algún Diputado se reportara enfermo, el Presidente designará una comisi
 
 Es iniciativa de Ley o Decreto el acto mediante el cual se propone crear, derogar, abrogar o adicionar un ordenamiento jurídico.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 117.
 
-Las exposiciones de motivos de las iniciativas podrán ser presentadas ante el Pleno por un Diputado ponente. En el caso de las que no provengan de un miembro de la Legislatura, serán leídas por los Secretarios de la Mesa Directiva.
+Las iniciativas de Ley o Decreto deben ser dirigidas al Presidente del Congreso, fundarse en Ley, contener una exposición de motivos y la propuesta del articulado respectivo.
 
-En ambos casos el texto legal o propuesta de ordenamientos de las iniciativas se remitirá sin lectura para su estudio a las Comisiones.
+Las exposiciones de motivos de las iniciativas podrán ser presentadas ante el Pleno por un Diputado ponente. Las que no provengan de un miembro de la Legislatura, serán leídas por un Secretario de la Mesa Directiva.
+
+En ambos casos el proyecto de Ley o Decreto, se remitirá sin lectura para su estudio, análisis y dictamen a las comisiones.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
 
 ###### Artículo 118.
 
-Las proposiciones de Acuerdo parlamentario, son aquellas que por su naturaleza no tienen el carácter de Ley o Decreto, y se sujetan a los trámites siguientes:
+La propuesta de acuerdo es aquella que por su naturaleza no tiene el carácter de Ley o Decreto y se sujeta a los trámites siguientes:
 
-I. Se presentarán al Presidente del Congreso por escrito firmadas por sus autores, y serán leídas una sola vez en la sesión en que sean presentadas;
+I. Se presentará al Presidente del Congreso, por escrito, firmada por sus autores; y será leída una sola vez en la sesión en que sea presentada;
 
-II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta; y,
+II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta;
 
-III. El debate será alternadamente en pro y en contra, hasta que se considere suficientemente discutido procediéndose a su votación.
+III. El Presidente del Congreso decidirá si el acuerdo es turnado a Comisiones o sometido a discusión; y,
+
+IV. Sometido a discusión, el Presidente abrirá el debate inscribiendo hasta tres oradores en pro y tres en contra. Debe procurar que la discusión sea alternada en el uso de la palabra, llamándolos por orden y comenzando por el primer orador en contra, pudiendo todos los oradores por una ocasión hacer uso del derecho de réplica, hasta que se considere suficientemente discutido, procediéndose a su votación.
 
 ###### Artículo 119.
 
@@ -1175,43 +1335,55 @@ La Mesa Directiva del Congreso, debe informar al Pleno de toda propuesta de part
 
 Desechado un dictamen de Ley o Decreto en lo general, no puede presentarse nuevamente durante el mismo año legislativo.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 121.
 
-En la derogación, abrogación o modificación de las Leyes, se deben observar los mismos trámites establecidos para su formación.
+En reforma, derogación y abrogación de leyes o decretos, se deben observar los mismos trámites establecidos para su formación.
 
 ### CAPÍTULO CUARTO. DE LOS DICTÁMENES
 
+> <small>(REFORMADO PRIMER PARAFO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 122.
 
-Las Comisiones a las que se turnen iniciativas y demás asuntos a consideración del Pleno, deben rendir su dictamen al Congreso por escrito, dentro de los treinta días hábiles siguientes a la recepción en las mismas.
+Las comisiones a las que se turnen iniciativas y demás asuntos a consideración del Pleno, deben rendir su dictamen al Congreso por escrito, dentro de los noventa días hábiles siguientes a su recepción.
 
 Tratándose de iniciativas que a juicio de la Comisión requieran de mayor estudio, podrán presentar solicitud fundada de prórroga ante el Pleno.
 
 Concluido el plazo y a falta de justificación, la Mesa Directiva, por sí o a petición de alguno de los Diputados, deberá hacer una excitativa a las Comisiones y fijarles como límite hasta la siguiente sesión para la presentación del dictamen. Si a pesar de ello no cumplieren, la Mesa Directiva propondrá al Pleno la substitución de los Diputados de la Comisión de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 123.
 
-Los dictámenes deben contener una exposición clara y precisa del asunto que los motive y resolver sometiendo a la consideración del Pleno el texto de los artículos de la Ley, Decreto o Acuerdo parlamentario, según corresponda.
+Los dictámenes deben contener proemio, antecedentes, exposición de motivos, las consideraciones de las comisiones, fundamento jurídico, proyecto de Ley, Decreto o Acuerdo, fecha y firma de los diputados de las comisiones que dictaminan.
 
 Antes de presentar los dictámenes al Pleno, las Comisiones deben cuidar la presentación de la redacción y estilo del cuerpo normativo.
 
 Las Comisiones podrán ampliar su dictamen a materias relacionadas, aún cuando no sea objeto expreso de la iniciativa.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 124.
 
-El dictamen de Comisión, debe estar aprobado por la mayoría de los Diputados que la componen. Si alguno de los miembros disintiera, firmará presentando su dictamen de minoría por escrito, anexándolo al dictamen de la Comisión.
+El dictamen de Comisión, debe estar aprobado por la mayoría de los diputados que la integran. Los presidentes de las comisiones tienen voto de calidad en caso de empate.
 
-Los Presidentes de las Comisiones tienen voto de calidad en caso de empate.
+Si alguno de los integrantes disintiera, firmará presentando su dictamen de minoría por escrito para su lectura conjunta, anexándolo al dictamen de la Comisión. Cuando el dictamen de Comisión fuere desechado, el de minoría, se pondrá a discusión.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
 
 ###### Artículo 125.
 
-Los dictámenes relativos a reformas constitucionales e iniciativas de Ley, deben recibir siempre dos lecturas en sesiones distintas. La segunda de ellas, se hará en la sesión en que se vaya a debatir y votar.
+Los dictámenes relativos a reformas constitucionales e iniciativas de Ley, deben recibir siempre dos lecturas en sesiones distintas. La segunda de ellas, se hará en la sesión en que se vaya a debatir y votar. Sólo puede dispensarse este requisito en los asuntos que por acuerdo expreso del Congreso se califiquen de urgente o de obvia resolución y se hayan distribuido o publicado en la Gaceta Parlamentaria.
 
-Sólo puede dispensarse este requisito en los asuntos que por acuerdo expreso del Congreso se califiquen de urgente o de obvia resolución.
+Una vez que se ha verificado la primera lectura, el dictamen regresa a la Comisión respectiva, la cual puede profundizar en el estudio de la iniciativa en cuestión, modificando el dictamen.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
 
 ###### Artículo 126.
 
-No podrá discutirse ningún dictamen de Ley o Decreto, sin que previamente se haya distribuido el texto a los Diputados, por lo menos con dos días de anticipación.
+No podrá discutirse ningún dictamen de Ley o Decreto, sin que previamente se haya distribuido el texto a los diputados, por lo menos con dos días de anticipación o publicado en la Gaceta Parlamentaria.
 
 ### CAPÍTULO QUINTO. DE LOS DEBATES Y DISCUSIONES
 
@@ -1233,9 +1405,15 @@ En el momento de la votación en lo general, que es nominal, los Diputados puede
 
 Si el Dictamen de Ley o Decreto no hubiere sido aprobado en lo general, se tiene por desechado.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+Si en la votación particular resultaran aprobados los artículos reservados, se elaborará el documento que los contenga para su inclusión en la minuta correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 129.
 
-El Presidente abre el debate inscribiendo hasta tres oradores en pro y tres en contra. Debe procurar que la discusión sea alternada en el uso de la palabra, llamándolos por orden y comenzando por el primer orador en pro, pudiendo todos los oradores por una ocasión hacer uso del derecho de réplica.
+El Presidente abre el debate inscribiendo hasta tres oradores en pro y tres en contra. Debe procurar que la discusión sea alternada en el uso de la palabra, llamándolos por orden y comenzando por el primer orador en contra, pudiendo todos los oradores por una ocasión hacer uso del derecho de réplica.
 
 Concluida la lista de oradores se preguntará al Pleno si se considera suficientemente discutido el asunto para proceder a su votación.
 
@@ -1295,7 +1473,9 @@ Estas mociones se toman en consideración y se discuten, pudiendo hablar, por un
 
 En las comparecencias de los servidores públicos requeridos en términos de la Constitución del Estado y de la presente Ley, su intervención ante el Pleno o Comisiones se sujetará a las siguientes reglas:
 
-I. El Presidente de la Mesa Directiva o coordinador de la Comisión hará la presentación formal del compareciente, informando los antecedentes y motivos de su presencia;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
+
+I. El Presidente de la Mesa Directiva o Presidente de la Comisión hará la presentación formal del compareciente, informando los antecedentes y motivos de su presencia;
 
 II. El funcionario compareciente hará una exposición relacionada con el asunto motivo de la comparecencia; y,
 
@@ -1331,9 +1511,11 @@ La votación por cédula, consiste en que por escrito se exprese el nombre de la
 
 Obtenida la votación, el Secretario cuenta y lee el contenido de las cédulas en voz alta, una por una, y anota el resultado de la votación. Enseguida, da cuenta al Presidente para que se haga la declaratoria que corresponda.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 141.
 
-Cuando se elija la Mesa Directiva, la Junta de Coordinación Política presentará al Pleno una propuesta que considere la mayor pluralidad del Congreso, misma que se votará en cédula y en un sólo acto.
+Cuando se elija la Mesa Directiva, la Junta de Coordinación Política presentará al Pleno una propuesta que considere la mayor pluralidad del Congreso, la que se someterá a votación económica y en un solo acto.
 
 ###### Artículo 142.
 
@@ -1367,17 +1549,23 @@ Todas las resoluciones son tomadas por mayoría de los presentes, salvo aquellos
 
 Una vez aprobado un dictamen de Ley o Decreto se remitirá al Ejecutivo del Estado para los efectos que señala la Fracción I del Artículo 60 de la Constitución.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+La publicación de leyes y decretos deberá hacerse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
 ###### Artículo 148.
 
 Se considera aprobado por el Ejecutivo del Estado, toda Ley o Decreto que no sea devuelto con observaciones al Congreso, dentro de los diez días hábiles siguientes a la fecha en que lo reciba.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 149.
 
-Devuelta la Ley o Decreto por el Ejecutivo con observaciones, en todo o en parte, volverá el expediente a la Comisión o Comisiones dictaminadoras para que examine y emita un nuevo Dictamen en un plazo no mayor de quince días.
+Devuelta la Ley o Decreto por el Ejecutivo con observaciones, en todo o en parte, volverá el expediente a la Comisión o comisiones dictaminadoras para que examine y emita un nuevo dictamen en un plazo no mayor de noventa días.
 
-El nuevo dictamen de la Comisión será leído y discutido con las mismas formalidades que el primero, pero concretándose la discusión solamente a las observaciones hechas.
+El nuevo dictamen de la Comisión será leído y discutido con las mismas formalidades que el primero, concretándose únicamente a las observaciones hechas por el Ejecutivo, a no ser que del estudio y análisis de ellas, resulte necesaria la modificación del dictamen.
 
-Para confirmar una iniciativa de Ley o Decreto devuelto por el Ejecutivo, en los mismos términos en que fue enviada por vez primera, se requerirá el voto de las dos terceras partes de los Diputados presentes y se enviará al Ejecutivo para su promulgación.
+Para confirmar una iniciativa de Ley o Decreto devuelto por el Ejecutivo, en los mismos términos en que fue enviada por vez primera, se requerirá el voto de las dos terceras partes de los diputados presentes y se enviará al Ejecutivo para su promulgación.
 
 ### CAPÍTULO OCTAVO. DE LA EXPEDICIÓN DE LEYES O DECRETOS
 
@@ -1439,9 +1627,11 @@ En el momento de rendir la protesta Constitucional el Gobernador del Estado, los
 
 Cuando se autorice a alguna persona que no sea legislador para intervenir en una sesión, se habilitara en el recinto un lugar especial desde el cual hará uso de la palabra.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+
 ###### Artículo 160.
 
-En las Sesiones Solemnes se destina un lugar especial en el Recinto a los Magistrados del Supremo Tribunal de Justicia, a los Secretarios de gabinete del Ejecutivo, los representantes de los Ayuntamientos, los representantes de los Poderes Federales y los integrantes de los Cuerpos Diplomáticos y Consulares, respetando en todo momento el espacio asignado a cada Diputado.
+En las sesiones solemnes se destinará un lugar especial en el Recinto del Congreso, a los magistrados del Supremo Tribunal de Justicia, a los titulares de las dependencias básicas del Poder Ejecutivo, a los representantes de los ayuntamientos, de los poderes federales y a los integrantes de los cuerpos diplomáticos y consulares, respetando en todo momento el espacio asignado a cada Diputado.
 
 ###### Artículo 161.
 
@@ -1455,7 +1645,9 @@ En la Sesión Solemne, en que el Gobernador rinda Protesta Constitucional, para 
 
 El Diputado que se presente a rendir la Protesta de Ley en momento distinto a aquel en que se instaló el Congreso, será introducido al Salón por tres Diputados que nombre el Presidente.
 
-## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS PARLAMENTARIOS ESPECIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE ENERO DE 2005)</small>
+
+## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS LEGISLATIVOS ESPECIALES
 
 ### CAPÍTULO PRIMERO. REMOCION DE MIEMBROS DE LA MESA DIRECTIVA
 
@@ -1517,6 +1709,52 @@ La Comisión, puede realizar las investigaciones y diligencias que conforme a la
 
 Las declaraciones del Congreso erigido en Gran Jurado, deben hacerse del conocimiento a la autoridad competente, remitiéndole en su caso el expediente relativo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 2005)</small>
+
+### CAPITULO TERCERO. DEL PROCEDIMIENTO PARA LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y SUSPENSION O REVOCACION DE ALGUNO DE SUS MIEMBROS
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 174.
+
+Es facultad del Congreso por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos o consejos municipales en su caso, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, de conformidad con la Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 175.
+
+Los miembros de los ayuntamientos y, en su caso, de los consejos municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, mediante el procedimiento establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 176.
+
+Recibida la denuncia por el Congreso del Estado, de ser procedente, el Pleno nombrará una Comisión Especial de Investigación, para que presente a la brevedad el informe correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 177.
+
+Recibido por el Pleno el informe de la Comisión Especial de Investigación, lo turnará a la Comisión de Gobernación, la que acordará notificar personalmente a los funcionarios municipales implicados, para que dentro del término de tres días hábiles siguientes a la notificación, contesten por escrito los hechos del informe y ofrezcan pruebas, acompañando las documentales.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 178.
+
+Contestado el informe o transcurrido el término para hacerlo, se abrirá el procedimiento a prueba señalando día y hora para que tenga verificativo la audiencia de desahogo de pruebas y alegatos, resolverá sobre la admisión de pruebas y el acuerdo se notificará personalmente a las partes.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 179.
+
+En la audiencia de desahogo de pruebas y alegatos, se recibirán las admitidas y concluido su desahogo, se concederá el uso de la palabra a los funcionarios municipales implicados, para que formulen alegatos, quedando el expediente para estudio, análisis y dictamen.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
+
+###### Artículo 180.
+
+El dictamen elaborado por la Comisión será presentado al Pleno del Congreso, para su discusión y aprobación, en su caso.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
@@ -1552,3 +1790,9 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZ
 P.O. 31 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE ENERO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
