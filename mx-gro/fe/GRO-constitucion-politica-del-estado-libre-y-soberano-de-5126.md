@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1996-02-23"
+last_updated: "1996-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1996.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -355,9 +355,9 @@ Son prerrogativas de los ciudadanos guerrerenses:
 
 I.- Votar y ser votados para los cargos de representación popular.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
 
-II.- Asociarse para tratar asuntos políticos del Estado o del Municipio.
+II.- Asociarse libre, voluntaria y pacíficamente para tratar asuntos políticos del Estado o del Municipio, y
 
 III.- Ser preferidos, en igualdad de condiciones para todos los empleos, cargos o comisiones otorgados por el Gobierno del Estado, los Ayuntamientos, Empresas Descentralizadas y de Participación Estatal.
 
@@ -371,7 +371,9 @@ I.- Alistarse en la Guardia Nacional y servir en ella de la manera que disponga 
 
 II.- Inscribirse en los padrones electorales en los términos que establezcan las leyes correspondientes.
 
-III.- Votar dentro de la sección respectiva de conformidad a los procesos correspondientes.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
+
+III.- Votar en las elecciones ordinarias o extraordinarias para elegir Gobernador, Diputados y Ayuntamientos.
 
 IV.- Desempeñar las funciones electorales y censales para las que fuere nombrado.
 
@@ -459,7 +461,7 @@ El Estado tiene facultades para concertar con sus Municipios, la Federación, y 
 
 El Estado de Guerrero es Libre y Soberano en su régimen interior y podrá darse las Leyes necesarias para su organización y desarrollo, sin contravenir lo estipulado por la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 25.
 
@@ -469,49 +471,41 @@ Los Partidos Políticos, son entidades de interés público; la Ley determinará
 
 Los Partidos Políticos, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-Podrán constituirse Partidos Políticos estatales, cuando reúnan los requisitos y desenvuelvan los procedimientos que la Ley establezca.
+Podrán constituirse partidos políticos estatales, cuando reúnan los requisitos y conforme a los procedimientos que establezca la Ley.
 
 Los Partidos Políticos Nacionales, tendrán derecho a participar en las elecciones locales, debiendo sujetarse a lo dispuesto por la Ley.
 
-El registro de los Partidos Políticos, se ajustará a lo que las Leyes dispongan, pudiendo conservar el mismo por el plazo que determine; aquellos Partidos Políticos que lo hayan perdido ante las Autoridades Federales.
+El registro de los partidos políticos se ajustará a lo que las leyes dispongan. Aquellos partidos políticos que lo hayan perdido ante las autoridades federales, lo conservarán por el plazo que determine el Código Electoral del Estado de Guerrero.
 
-Los Partidos Políticos gozarán de derechos y prerrogativas de acuerdo con las formas y procedimientos que establezca la Ley y entre los cuales figurarán el acceso a la radio y televisión propiedad del Gobierno del Estado, gozarán del régimen fiscal, contarán con subsidio público y tendrán la facultad exclusiva de nominar candidatos a cargos de elección popular, cuando no hayan estado afiliados a otros partidos durante los 2 años antes del registro de candidato.
+Los Partidos Políticos gozarán de derechos y prerrogativas de acuerdo con las formas y procedimientos que establezca la Ley y entre los cuales figurarán el acceso equitativo y proporcional a la radio y televisión propiedad del Gobierno del Estado; gozarán del régimen fiscal especial; contarán con financiamiento público y tendrán la facultad exclusiva de nominar candidatos a cargos de elección popular conforme a sus documentos estatutarios.
 
-La organización de las elecciones locales, es una función estatal que se ejerce por el Poder Legislativo del Estado, con la participación de los Partidos Políticos y de los ciudadanos, según lo disponga la Ley. Esta función se realizará a través de un Consejo Estatal Electoral de carácter técnico, adscrito orgánicamente al Poder Legislativo. La certeza, legalidad, imparcialidad y objetividad, serán principios rectores en el ejercicio de esta función estatal.
+La organización de las elecciones locales es una función estatal, que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, denominado Consejo Estatal Electoral y en cuya integración concurren los partidos políticos y los ciudadanos según lo disponga la Ley. La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores en el ejercicio de esta función estatal.
 
-El Consejo Estatal Electoral, se integrará de la manera siguiente: Un Presidente, que será el Coordinador del Congreso; Consejeros Ciudadanos, Representantes de los Partidos Políticos y por una Secretaría Técnica.
+El Consejo Estatal Electoral se integrará de la manera siguiente: nueve Consejeros Electorales, con voz y voto; un Representante por cada Partido Político y un Secretario Técnico; todos ellos con voz. El Presidente será electo por mayoría simple de entre los Consejeros Electorales.
 
-Para mantener las condiciones que aseguren la imparcialidad y objetividad de la función electoral, el número de Consejeros Ciudadanos equivaldrá a la diferencia entre los Representantes del Partido Mayoritario con los Partidos Minoritarios más uno.
+Para mantener las condiciones que aseguren la imparcialidad y objetividad de la función electoral, los Consejeros Electorales serán electos por las dos terceras partes de los miembros presentes del Congreso, en los términos previstos en el Código Electoral.
 
-Los Representantes de los Partidos Políticos, se determinarán de acuerdo a las siguientes reglas:
+El Consejo Estatal Electoral será autoridad en la materia y autónomo en sus decisiones; contará en su estructura con Consejos Distritales y Municipales; de igual manera, contará con órganos de vigilancia. Los ciudadanos formarán las Mesas Directivas de Casilla. Estos órganos se integrarán de la manera que establezca la Ley.
 
-a). Los Partidos tendrán Representantes en proporción a las curules con que cuenten en la Cámara de Diputados;
+Los órganos electorales, agruparán para su desempeño en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral e impresión de materiales electorales. Los Consejos Distritales participarán en las elecciones de Diputados y Gobernador y los Consejos Municipales en las de Ayuntamientos y Diputados. Las sesiones de los Organos Colegiados Electorales serán públicas, en los términos que disponga la ley.
 
-b). Los Partidos con registro definitivo que no tengan representación en la Cámara, nombrarán discrecionalmente un Representante;
+La calificación de las elecciones de Ayuntamientos, Diputados de Mayoría Relativa y Representación Proporcional, así como de Gobernador la hará el Consejo Electoral respectivo, en el ámbito de su competencia y jurisdicción, de conformidad con los términos, requisitos y reglas establecidos en el Código Electoral del Estado de Guerrero.
 
-c). Los Partidos Políticos que participen en el Proceso Electoral con registro condicionado, nombrarán un Representante, únicamente con derecho a voz;
+La Ley establecerá un sistema de medios de impugnación, de los que conocerán los órganos electorales y las Salas del Tribunal Electoral, éste será Organo Autónomo y máxima autoridad Jurisdiccional en la materia. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente, al principio de legalidad.
 
-d). Por cada Representante Propietario habrá un suplente; y
+La declaración de validez y el otorgamiento de las constancias de la elección de Gobernador, Diputados de Mayoría Relativa y Ayuntamientos, así como la asignación de Diputados y Regidores de Representación Proporcional podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la Ley.
 
-e). Los Partidos Políticos que tengan más de cinco representados podrán designar un representante común por cada cinco, para que actúen ante el Consejo, el que tendrá los votos de sus representados.
+Las resoluciones de las impugnaciones a que se refiere el párrafo anterior, sólo podrán ser revisadas por la Sala de Segunda Instancia del Tribunal Electoral del Estado, mediante el recurso que los partidos podrán interponer cuando hagan valer agravios por los que se pueda modificar el resultado de la elección de que se trate. Los fallos de esta Sala serán definitivos e inatacables. La Ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
-El Consejo Estatal Electoral, será autoridad en la materia y autónomo en sus decisiones; contará en su estructura con Consejeros Distritales y Municipales; de igual manera, contará con órganos de vigilancia. Los ciudadanos formarán las Mesas Directivas de Casilla. Estos órganos se integrarán de la manera que lo establezca la Ley.
+En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados.
 
-Los Organos Electorales, agruparán para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral e impresión de materiales electorales. Los Consejos Distritales participarán en las elecciones de Diputados y Gobernador y los Consejos Municipales en las de Ayuntamientos y Diputados. Las sesiones de los Organos Colegiados Electorales, serán públicas en los términos que disponga la Ley.
+El Tribunal Electoral del Estado tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral local, expedirá su reglamento interior y realizará las demás atribuciones que le confiera la ley.
 
-La Ley, establecerá un sistema de medios de impugnación, de los que conocerán los Organos Electorales y el Tribunal Electoral, que será Organo Jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los Procesos Electorales y garantizará que los actos y resoluciones, se sujeten invariablemente al principio de legalidad.
+El Tribunal Electoral tendrá la competencia y organización que determine la ley; funcionará en Pleno o en Salas y sus sesiones de resolución serán públicas en los términos que establezca la ley.
 
-El Tribunal, se integrará por un Magistrado del Tribunal Superior de Justicia quién lo presidirá, un Magistrado del Tribunal de lo Contencioso Administrativo y el Presidente de la Comisión de Defensa de los Derechos Humanos, siempre y cuando no hayan desempeñado cargo alguno de elección popular durante diez años anteriores a la fecha de la elección. Los Magistrados del Tribunal Superior de Justicia y del Contencioso Administrativo, serán nombrados por el Pleno de sus respectivos Tribunales, debiendo designarse un suplente para cada uno de ellos.
+Para cada proceso electoral habrá una Sala de Segunda Instancia. Esta Sala será competente para resolver los Recursos de Reconsideración que se interpongan en términos de ley. La Sala de Segunda Instancia se integrará por los Magistrados de las Salas Central y Regionales, excepción hecha del Magistrado titular de la Sala cuya resolución se impugne.
 
-El Tribunal Electoral, tendrá la competencia y organización que determine la Ley; funcionará en Pleno, resolverá en una sola instancia y sus Sesiones serán públicas, nombrará a los Jueces Instructores y al resto del personal. Para el ejercicio de sus funciones, contará con un cuerpo de Magistrados y Jueces Instructores, los cuales serán independientes y responderán sólo al mandato de la Ley. Sus resoluciones se sujetarán a las siguientes reglas:
-
-a). Cuando sean aprobadas por unanimidad, no procederá juicio ni recurso alguno ni podrán ser modificadas o revocadas por el Colegio Electoral; y
-
-b). Cuando sean aprobadas por mayoría de votos, el Colegio Electoral, contando con el voto de las dos terceras partes de sus miembros, podrá modificarlas o revocarlas.
-
-Los Consejeros Ciudadanos del Consejo Estatal Electoral y los Magistrados del Tribunal, deberán satisfacer los requisitos que señale la Ley.
-
-Los Consejeros Ciudadanos, serán designados por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Coordinador del Congreso. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Consejeros. La Ley señalará las reglas y el procedimiento correspondiente.
+El Tribunal Electoral del Estado se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y de jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley. Los magistrados del Tribunal deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores de los que señala esta Constitución para ser magistrado del Tribunal Superior de Justicia. Serán electos por las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de su Coordinador.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -539,21 +533,25 @@ El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CON
 
 La elección de los miembros del Congreso Local será directa y en los términos que disponga la Ley Electoral respectiva.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 29.
 
-El Congreso del Estado, se compondrá por 28 Diputados Uninominales, electos conforme al número de Distritos Electorales y hasta por 14 Diputados Plurinominales, y los demás que en su caso la Ley señale, que serán asignados en los términos y condiciones que establezca la Ley.
+El Congreso del Estado se compondrá por 28 Diputados de Mayoría Relativa, electos conforme al número de Distritos Electorales y hasta por 18 Diputados de Representación Proporcional, que serán asignados en los términos y condiciones que establezca la Ley. En ningún caso un partido político podrá contar con más de treinta diputados por ambos principios.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
 Por cada Diputado Propietario se elegirá un suplente.
 
-Los Diputados Uninominales y Plurinominales, tendrán la misma categoría legal e iguales derechos y obligaciones, concurriendo a la integración y a las resoluciones del H. Congreso, las cuales se tomarán invariablemente conforme al principio de mayoría de los asistentes a Sesión.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+Los Diputados de mayoría relativa y de representación proporcional, tendrán la misma categoría legal e iguales derechos y obligaciones, concurriendo a la integración y a las resoluciones del H. Congreso, las cuales se tomarán invariablemente conforme al principio de mayoría de los asistentes a sesión.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 30.
 
-Se tendrá como Diputado electo al ciudadano que hubiere obtenido la mayoría de votos en el Distrito por el que fué registrado como candidato y al que se le hubiere asignado una diputación de minoría, una vez que sean aprobados sus casos y declarado así por el Colegio Electoral en los términos del ordenamiento legal correspondiente.
+Se tendrá como Diputado electo al ciudadano que hubiere obtenido la mayoría de votos, en el Distrito por el que fue registrado como candidato, una vez que se realice la declaración de validez por el Consejo Distrital respectivo, así como al que se le hubiera asignado una Diputación por el principio de representación proporcional, una vez que se haya extendido la constancia de mayoría y de validez correspondientes por el órgano electoral, en los términos del ordenamiento legal aplicable.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -625,11 +623,9 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ### CAPITULO III. DE LA CALIFICACION DE LAS ELECCIONES DE DIPUTADOS DE MAYORIA Y ASIGNACION DE LOS DE REPRESENTACION PROPORCIONAL
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1996)</small>
-
 ###### ARTICULO 38.
 
-Constituidos en Colegio Electoral, los presuntos Diputados que hubieren obtenido Constancias de mayoría otorgadas por el Consejo Distrital Electoral correspondiente, debidamente registradas por el Consejo Estatal Electoral, o de éste las Constancias de asignación en el caso de Diputados Plurinominales, se reunirán en la Capital del Estado el 1o. de noviembre del año de la elección, para calificar elecciones de Diputados de mayoría y la asignación de las Diputaciones Plurinominales, conforme al procedimiento que al efecto se establezca en el Código Electoral del Estado de Guerrero y la Ley Orgánica del Poder Legislativo.
+(DEROGADO, P.O. 17 DE MAYO DE 1996)
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -771,9 +767,9 @@ b).- Que la elección hubiere sido declarada nula.
 
 c).- Cuando, sin causa justificada, no concurrieren los miembros necesarios para su instalación.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
 
-XXII.- Erigirse en Colegio Electoral, con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios;
+XXII.- Elegir, por el voto de las dos terceras partes de sus miembros presentes, a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Consejo Estatal Electoral, de conformidad con lo previsto por la ley de la materia.
 
 XXIII.- Discutir y aprobar en su caso, en el improrrogable término de diez días a partir de que son recibidos los nombramientos de Magistrados del Tribunal Superior de Justicia hechos por el Gobernador.
 
@@ -781,7 +777,9 @@ Si el Congreso no resuelve dentro del término antes citado, se tendrán por apr
 
 XXIV.- Recibir de los Diputados, del Gobernador electo y de los Magistrados del Tribunal Superior de Justicia, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las Leyes que de una y otra emanen.
 
-XXV.- Calificar las elecciones de los integrantes de los Ayuntamientos y la asignación de Regidores de representación proporcional efectuada por los Comités Municipales Electorales.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
+
+XXV.- Recibir de los Magistrados, de los Tribunales Electoral del Estado y de lo Contencioso Administrativo, la protesta de guardar la Constitución Federal, la del Estado y las leyes que de una u otra emanen.
 
 XXVI.- Suspender Ayuntamientos o declarar que éstos han desaparecido, y suspender o revocar el mandato a alguno de sus miembros, conforme a las hipótesis previstas y al procedimiento de la Ley correspondiente.
 
@@ -1093,7 +1091,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1199,7 +1197,7 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1227,15 +1225,13 @@ El Presidente de la Comisión será nombrado por el Poder Ejecutivo, pero ese no
 
 El Presidente presentará anualmente al Congreso un informe sobre las actividades de la Comisión, y al efecto, podrá comparecer ante el mismo.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
-
-Cuando conforme al régimen de excusas y recusaciones propio de la actividad jurisdiccional y al artículo 102 de la Constitución General de la República, el Presidente de la Comisión considere que entratándose de un proceso electoral, no procede integrar el Tribunal Electoral que instituye el artículo 25 de esta Constitución, el Congreso del Estado, por mayoría de las dos terceras partes de sus asistentes, o por insaculación, en su caso, nombrará al tercer magistrado de entre los Notarios Públicos en activo para que lo sustituya. Cada grupo parlamentario podrá hacer una propuesta, siempre y cuando el Notario propuesto no haya desempeñado un cargo de elección popular en los últimos 10 años.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 77.
 
@@ -1353,9 +1349,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
-
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1445,7 +1439,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1477,27 +1471,27 @@ Los Ayuntamientos se instalarán el 2 de diciembre del año en que deban renovar
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo por más de quince días, sin causa justificada, será sustituido por su suplente, o se procederá según lo disponga la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 97.
 
-Los Ayuntamientos se integrarán a partir de las siguientes bases:
+Los Ayuntamientos se integrarán a partir de las bases siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1996)</small>
 
-I.- En los Municipios con más de 150 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores; cuando posean entre 150 mil y 300 mil habitantes, los formarán también catorce Regidores y hasta veinte si exceden esa cantidad.
+I.- En los municipios con más de 115 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores; cuando posean entre 115 mil y 300 mil habitantes, los formarán también 14 Regidores y hasta 28 si exceden esa cantidad.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1988)</small>
 
 El primer Síndico conocerá de los asuntos de orden administrativo, financiero, contable y patrimonial, en tanto que el segundo será competente en materia de justicia, seguridad pública y policía y buen gobierno;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
 
-II.- En los Municipios con población de 75 mil a 149,999 habitantes, los Ayuntamientos estarán formados por un Presidente, un Síndico y hasta once Regidores;
+II.- En los municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta 12 Regidores;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
 
-III.- En los Municipios que reúnan entre 25 mil y 74,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta siete Regidores;
+III.- En los municipios que reúnan entre 25 mil y 74,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta 8 Regidores; y
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
 
@@ -1559,9 +1553,9 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 100.
 
@@ -1643,7 +1637,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1655,7 +1649,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1873,11 +1867,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1897,31 +1891,33 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
 ## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2644,3 +2640,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 23 DE FEBRERO DE 1996.
 
 UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 17 DE MAYO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
