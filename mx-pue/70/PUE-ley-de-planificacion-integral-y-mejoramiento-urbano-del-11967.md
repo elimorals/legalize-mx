@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planificacion-integral-y-mejoramiento-urbano-del-11967"
 country: "mx"
 rank: "ley"
 publication_date: "1956-12-14"
-last_updated: "1956-12-14"
+last_updated: "2003-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PLANIFICACION INTEGRAL Y MEJORAMIENTO URBANO DEL ESTADO DE PUEBLA
 
-LEY DE PLANIFICACIÓN INTEGRAL Y MEJORAMIENTO URBANO DEL ESTADO DE PUEBLA
+LEY DE PLANIFICACION INTEGRAL Y MEJORAMIENTO URBANO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE PUEBLA PUBLICADA EN EL PERIODICO OFICIAL SECCION QUINTA DEL 26 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el viernes 14 de diciembre de 1956.
 
@@ -520,3 +522,53 @@ Se abroga la Ley de Planificación y Zonificación en el Estado, de fecha 9 de m
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Departamento Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los 10 días del mes de diciembre de 1956.- Dr. Jorge Vergara Jiménez, D. P.- Ing. Perfecto de los Santos, D. S.- Corl. Rodolfo M. Benavides, D. S.- Rúbricas.
 
 Por tanto, mando se imprima, publique y circule para sus efectos. DADO en el Palacio del Departamento Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de diciembre de mil novecientos cincuenta y seis.- El Gobernador Constitucional del Estado, Gral. Rafael Avila Camacho.- El Secretario General de Gobierno, Lic. Roberto T. Bonilla.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MARZO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrara en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano del Estado de Puebla, publicada en el Periódico Oficial del Estado con fecha dieciséis de agosto de mil novecientos ochenta y cinco.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Planificación Integral y Mejoramiento Urbano del Estado de Puebla, publicada en el Periódico Oficial del Estado, con fecha catorce de diciembre de mil novecientos cincuenta y seis.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no se expidan los reglamentos, acuerdos y demás disposiciones administrativas correspondientes, continuarán aplicándose, en lo que no se oponga a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Para otorgar los beneficios contenidos en esta Ley, la Comisión y los Ayuntamientos, dispondrán de noventa días hábiles contados a partir de su publicación, para realizar o actualizar el padrón de los núcleos de población ubicados en áreas o predios fraccionados sin la autorización correspondiente, que reúnan las condiciones para su incorporación al Desarrollo Urbano Sustentable y su posterior regularización.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las autoridades municipales en el ámbito de su competencia, tendrán la obligación de vigilar, denunciar y detener la creación de nuevos Asentamientos Humanos e imponerles las sanciones correspondientes, independientemente del tipo de propiedad en que pretendan establecerse.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos relacionados con autorizaciones, procedimientos y constancias de compatibilidad, que se encuentren en trámite en la Secretaría, seguirán tramitándose hasta su conclusión.
+
+Se reconoce plena validez a las autorizaciones y constancias de compatibilidad legalmente expedidas con base en la legislación que se deroga, durante la vigencia que le corresponda.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, deberán quedar formalmente constituidos los organismos auxiliares, a que se refiere esta Ley, debiéndose expedir en el mismo plazo los reglamentos de operación correspondientes y demás disposiciones reglamentarias.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos y recursos administrativos relacionados con la Ley que se abroga, instaurados con anterioridad a la entrada en vigor del presente ordenamiento, se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las estructuras orgánicas que pudieren derivar a la entrada en vigor de la presente Ley, quedarán sujetas a la disponibilidad presupuestal que se establezca en el Presupuesto de Egresos para ejercicios fiscales subsecuentes.
