@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2003-07-14"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -330,21 +330,21 @@ El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Públ
 
 En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 9o.-A.
+###### Artículo 9-A.
 
-La Federación, a través de la Secretaría de Hacienda y Crédito Público, y los estados y municipios en donde existan puentes internacionales de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos municipios donde se ubiquen dichos puentes o, en su caso, a la realización de obras de infraestructura o gasto de inversión, de impacto regional directamente en la zona donde se encuentre el cobro del peaje, sin que en ningún caso tales recursos se destinen al gasto corriente.
+La Federación, a través de la Secretaría de Hacienda y Crédito Público, y los estados y municipios en donde existan puentes de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos municipios donde se ubiquen dichos puentes o, en su caso, a la realización de obras de infraestructura o gasto de inversión, de impacto regional directamente en la zona donde se encuentre el cobro del peaje, sin que en ningún caso tales recursos se destinen al gasto corriente.
 
-La aportación a los fondos mencionados se hará por el Estado, por el Municipio o, cuando así lo acordaren, por ambos, en un 20% del monto que aporte la Federación, sin que la aportación de ésta exceda de un 50% del monto total de los ingresos que obtenga por la operación del puente de peaje de que se trate. La aportación Federal se distribuirá como sigue: Municipios 50% y Estados 50%.
+La aportación a los fondos mencionados se hará por el estado, por el municipio o, cuando así lo acordaren, por ambos, en un 20% del monto que aporte la Federación, sin que la aportación de ésta exceda de un 25% del monto total de los ingresos brutos que obtenga por la operación del puente de peaje de que se trate. La aportación federal se distribuirá como sigue: municipios 50% y estados 50%.
 
-Para que un Municipio en donde exista un puente internacional, o varios, pueda ser sujeto de participación de estos fondos, deberá acreditar un nivel recaudatorio de al menos un 50% más uno de la base gravable total de su impuesto predial en el año inmediato anterior a la firma del convenio; en su defecto, podrá convenir un Acuerdo de Mejora Recaudatoria de la Hacienda Pública Local con la Federación, para poder aplicar a la creación de estos fondos en el ejercicio fiscal siguiente, siempre y cuando cumpla con el requisito de recaudación señalado con anterioridad.
+Para que un municipio donde exista un puente o varios pueda ser sujeto de participación de estos fondos, deberá acreditar un nivel recaudatorio de al menos un 50% más uno de la recaudación potencial de su impuesto predial en el año inmediato anterior a la firma del convenio; en su defecto, podrá convenir un acuerdo de mejora recaudatoria de la Hacienda Pública local con la Federación, para poder aplicar a la creación de estos fondos en el ejercicio fiscal siguiente, siempre y cuando cumpla con el requisito de recaudación señalado con anterioridad.
 
-En el caso de que el nivel recaudatorio una vez firmado el convenio, se encuentre por debajo del 50%, la cantidad de recursos se verá reducida de manera proporcional a la disminución porcentual del nivel recaudatorio. Si en el momento de firmar nuevamente el convenio, el Municipio se encuentra en este supuesto, no será sujeto de refrendo el convenio citado hasta no cumplir nuevamente con el nivel recaudatorio exigido y hasta el próximo ejercicio fiscal.
+En el caso de que el nivel recaudatorio, una vez firmado el convenio, se encuentre por debajo del 50%, la cantidad de recursos se verá reducida de manera proporcional a la disminución porcentual del nivel recaudatorio. Si en el momento de firmar nuevamente el convenio, el municipio se encuentra en este supuesto, no será sujeto de refrendo el convenio citado hasta no cumplir nuevamente con el nivel recaudatorio exigido y hasta el próximo ejercicio fiscal.
 
-El aforo vehicular de los puentes internacionales, estará sujeto a las disposiciones aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+El aforo vehicular de los puentes estará sujeto a las disposiciones aplicables de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-Lo señalado en el presente artículo no será aplicable tratándose de los puentes administrados por el Fideicomiso número 1936 del Fondo de Apoyo al Rescate Carretero.
+Lo señalado en el presente artículo no será aplicable tratándose de los puentes administrados por el fideicomiso número 1936 del Fondo de Apoyo al Rescate Carretero.
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
@@ -656,7 +656,7 @@ III.- Fungir como consejo directivo del Instituto para el Desarrollo Técnico de
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-IV.- Vigilar la creación e incremento de los fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley deben efectuar la Secretaría de Hacienda y Crédito Público y las Entidades;
+IV.- Vigilar la creación e incremento de los fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley deben efectuar la Secretaría de Hacienda y Crédito Público y las Entidades.
 
 V.- Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
 
@@ -732,7 +732,7 @@ IV.- Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las De
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-V.- Fondo de Aportaciones Múltiples.
+V.- Fondo de Aportaciones Múltiples;
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1188,7 +1188,7 @@ El incremento en el Fondo Financiero Complementario de Participaciones de 0.37% 
 
 ###### ARTICULO DECIMO.
 
-Los porcentajes de participación sobre el impuesto adicional de 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, a que se refiere el articulo 2o.- A de la Ley de Coordinación Fiscal, se sustituirán, durante los años de 1981 y 1982, por los siguientes:
+Los porcentajes de participación sobre el impuesto adicional de 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, a que se refiere el artículo 2o.- A de la Ley de Coordinación Fiscal, se sustituirán, durante los años de 1981 y 1982, por los siguientes:
 
 I.- Durante 1981 el porcentaje a que se refiere la fracción I del artículo citado, será el 50% y el mencionado en la fracción II del mismo precepto será de 50%.
 
@@ -1617,3 +1617,11 @@ DECRETO POR EL QUE SE REFORMA EL ARTICULO 9-A DE LA LEY DE COORDINACION FISCAL.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Para los convenios que se firmen a partir de la fecha de publicación de este Decreto en el Diario Oficial de la Federación, se tomará como base de medición del nivel recaudatorio, el mostrado en el año inmediato anterior a la firma del mismo.
+
+D.O.F. 30 DE DICIEMBRE DE 2003.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Por el ejercicio de 2003, la Federación, por conducto de la Secretaría de Hacienda y Crédito Público, continuará efectuando las aportaciones que le correspondan de conformidad con los convenios que se hubieren celebrado con los estados y municipios, con fundamento en lo dispuesto en el artículo 9-A de la Ley de Coordinación Fiscal vigente hasta el 14 de julio de 2003, relativos a puentes de peaje operados por la Federación.
+
+Tercero.- Los convenios a que se refiere el artículo 9-A, que se reforma por medio de este Decreto, podrán ser celebrados a partir del 1 de enero de 2004 y para su suscripción se tomará como base de recaudación del impuesto predial la correspondiente al año inmediato anterior a la firma del mismo.
