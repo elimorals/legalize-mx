@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-proteccion-civil-para-el-estado-de-1799
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-19"
-last_updated: "2000-09-19"
+last_updated: "2001-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1710 +21,1774 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
 
-LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
-Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
+Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2000.
 
-(Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México, la Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL).
+AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
-DECRETO DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+RAMON MARTIN HUERTA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 56 FRACCION I, 77 FRACCIONES III Y XXIII DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO; 2, 5 Y 10 DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO; Y
 
-Que la Honorable Asamblea Legislativa del Distrito Federal III Legislatura, se ha servido dirigirme el siguiente:
+CONSIDERANDO.
 
-DECRETO
+ATENDIENDO A LAS DISPOSICIONES LEGALES Y CONSIDERACIONES ANTERIORMENTE EXPUESTAS, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL III LEGISLATURA).
+DECRETO GUBERNATIVO NUMERO 173
 
-LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL III LEGISLATURA D E C R E T A :
+###### ARTICULO UNICO.
 
-LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL.
+SE EXPIDE EL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO.
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+## TITULO PRIMERO. GENERALIDADES
 
-###### Artículo 1.
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-La presente Ley es de orden público e interés social, regirá en el Distrito Federal y tiene por objeto:
+###### Artículo 1°.
 
-a) Establecer reglas mínimas de comportamiento cívico;
+El presente Reglamento es de orden público y de observancia general para el Estado de Guanajuato y tiene como finalidad esencial la reglamentación de los dispositivos legales enmarcado en la Ley de Protección Civil para el Estado de Guanajuato.
 
-b) Garantizar el respeto a las personas, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Distrito Federal en su preservación, y
+###### Artículo 2°.
 
-c) Determinar las acciones para su cumplimento.
+La aplicación de este Reglamento, es competencia del Ejecutivo del Estado sin perjuicio de las atribuciones que corresponden a las autoridades municipales, de conformidad con las disposiciones legales vigentes.
 
-> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2014)</small>
+###### Artículo 3°.
 
-d) La promoción de una cultura de la legalidad que fortalezca la convivencia armónica, la difusión del orden normativo de la ciudad además del conocimiento de los derechos y obligaciones de ciudadanos y servidores públicos.
+Para los efectos de la aplicación del presente Reglamento, se entenderá por:
 
-###### Artículo 2.
+l.- ACCIONES DE PROTECCION CIVIL.- Conjunto de principios, normas, procedimientos, acciones y conductas solidarias participativas y corresponsables que se llevan a cabo coordinada y concentradamente por la sociedad y autoridades y que se efectúan para la prevención, mitigación, preparación, auxilio, rehabilitación, restablecimiento y reconstrucción tendientes a salvaguardar la integridad física de la persona sus bienes y entorno frente a la eventualidad de un riesgo, emergencia, siniestro o desastre;
 
-Son valores fundamentales para la cultura cívica en el Distrito Federal, que favorecen la convivencia armónica de sus habitantes, los siguientes:
+II.- ALARMA.- Se establece cuando se han producido daños en la población, sus bienes y su entorno, lo que implica le (sic) necesaria ejecución del subprograma de auxilio. Consiste en el instrumento acústico, óptico o mecánico que al ser accionado previo acuerdo, avisa de la presencia inminente de una calamidad, por lo que las personas involucradas deberán tomar las medidas preventivas necesarias de acuerdo a una preparación para establecer el estado de alarma en el organismo correspondiente en cuyo caso se dice “dar la alarma”;
 
-I. La corresponsabilidad entre los habitantes y las autoridades en la conservación del medio ambiente, el entorno urbano, las vías, espacios y servicios públicos y la seguridad ciudadana;
+III.- ALERTA.- Se establece al recibir la información sobre la inminente ocurrencia de una calamidad cuyos daños pueden llevar al grado de desastre debido a la forma en que se ha extendido el peligro o en virtud de la evolución que presenta con la posible aplicación del subprograma de auxilio;
 
-II. La autorregulación, sustentada en la capacidad de los habitantes de la Ciudad de México para asumir una actitud de respeto a la normatividad y exigir a los demás y a las autoridades su observancia y cumplimiento;
+IV.- ATLAS DE RIESGO.- Sistema de información geográfica actualizado que permita identificar el tipo de riesgo a que están expuestos los servicios vitales, sistemas estratégicos, las personas, sus bienes y su entorno;
 
-III. La prevalencia del diálogo y la conciliación como medios de solución de conflictos;
+V.- AUXILIO.- Ayuda en medios materiales, necesidades personales y servicios proporcionados a personas o comunidades sin la cual podrían perecer;
 
-IV. El respeto por la diferencia y la diversidad de la población de la Ciudad de México;
+VI.- BRIGADAS VECINALES.- Organizaciones de vecinos coordinadas por las autoridades, que se integran a las acciones de protección civil y que colaboran en los programas y acciones respectivas en función a su ámbito territorial;
 
-V. El sentido de pertenencia a la comunidad y a la Ciudad de México, y
+VII.- CALAMIDAD.- Acontecimiento o fenómeno destructivo que ocasiona daños a la comunidad, sus bienes y entorno, transformando su estado normal en un estado de desastre;
 
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2014)</small>
+VIII.- CARTA DE CORRESPONSABILIDAD.- Documento expedido por las empresas capacitadoras de consultorio y estado de riesgo/vulnerabilidad, e instructores profesionales independientes registrados ante la dirección que aprueba los programas internos especiales de protección civil elaborados por dichas empresas;
 
-VI. La colaboración como una vertiente del mejoramiento del entorno y de la calidad de vida, y
+IX.- CENTRO DE MANDO.- Área física que deberá ser implementada en la cercanía de un desastre siniestro o emergencia y que será área de coordinación de actividades de protección civil entre todos los responsables de las corporaciones que concurran a la atención del problema todos ellos coordinados por protección civil municipal y/o protección civil estatal;
 
-> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+X.- COORDINACION.- La Coordinación Estatal de Protección civil;
 
-VII. La legalidad como un sistema normativo y una cultura de acciones orientadas al ejercicio, respeto y cumplimiento a la ley por parte de ciudadanos y servidores públicos.
+XI.- CUERPOS DE AUXILIO.- Los organismos oficiales y las organizaciones civiles voluntarias o no, que estén debidamente registrados ante protección civil estatal y que todos sus miembros estén capacitados, serán coadyuvantes en la prestación de servicios de auxilio a la ciudadanía del estado de Guanajuato, en caso de desastre, siniestro o emergencia;
 
-###### Artículo 3.
+XII.- DESASTRE.- Una interrupción seria en el funcionamiento de una sociedad causando grandes perdidas humanas, materiales o ambientales, suficientes para que la sociedad afectada no pueda salir adelante por sus propios medios;
 
-Para los efectos de esta Ley, se entenderá por:
+XIII.- EMERGENCIA.- Evento repentino e impresión que hace tomar medidas de prevención, protección y control inmediatas para minimizar sus consecuencias;
 
-I. Consejería; a la Consejería Jurídica y de Servicios Legales del Distrito Federal;
+XIV.- ESTADOS DE MANDO.- Los tres posibles momentos que se producen en la fase de emergencia y que consisten en prealerta, alerta y alarma;
 
-II. Consejo; al Consejo de Justicia Cívica del Distrito Federal;
+XV.- EVACUACION.- Medida de seguridad por alejamiento de la población de la zona de peligro, en la cual debe preverse la colaboración de la población civil de manera individual o en grupos;
 
-III. Delegación; Órgano Político Administrativo Desconcentrado en cada Demarcación Territorial;
+XVI.- INSTRUMENTO DE LA PROTECCION CIVIL.- Se refiere a toda aquella información contenida en materiales empleados para la planeación y operación de la Protección Civil en el Estado;
 
-IV. Dirección; a la Dirección de Justicia Cívica;
+XVII.- LEY.- A la ley de Protección Civil para el estado de Guanajuato;
 
-V. Elemento de Policía; al elemento de la Policía del Distrito Federal;
+XVIII.- MITIGACION.- Son las medidas tomadas con anticipación al desastre y durante la emergencia para reducir su impacto en la población, bienes y entorno;
 
-VI. Infracción; al acto u omisión que sanciona la presente Ley;
+XIX.- NORMA TECNICA.- Conjunto de reglas científicas o tecnológicas de carácter obligatorio para el estado de Guanajuato, en las que se establecen los requisitos, especificaciones, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o en el uso y destino de bienes que incrementen o puedan incrementar los niveles de riesgo y son complemento de los reglamentos;
 
-VII. Jefe de Gobierno; al Jefe de Gobierno del Distrito Federal;
+XX.- ORGANIZACIONES CIVILES.- Asociaciones de personas legalmente constituidas y registradas, cuyo objeto social se vincula a la protección civil en sus diferentes fases;
 
-VIII. Jefes Delegacionales; a los Titulares de los Órganos Político Administrativos del Distrito Federal;
+XXI.- PREALERTA.- Estado permanente de prevención de los organismos de respuesta de la protección civil, , (sic) con base en la información sobre la probable presencia de un fenómeno destructivo;
 
-IX. Juez; al Juez Cívico;
+XXII.- PREVENCION.- Conjunto de disposiciones y medidas anticipadas cuya finalidad estriba en impedir o disminuir los efectos que se producen con motivo de la ocurrencia de una emergencia siniestro o desastre;
 
-X. Juzgado; al Juzgado Cívico;
+XXIII.- PROCEDIMIENTO DE EVACUACION.- Considera entre otros aspectos, el desarrollo de las misiones, salvamento, socorro y asistencia social, los medios, los itinerarios y las zonas de concentración y destino, la documentación para el transporte de los niños, las instrucciones sobre el equipo familiar, además del esquema de regreso a sus hogares una vez superada la situación de emergencia;
 
-XI. Ley; a la presente Ley;
+XXIV.- PROGRAMA ESPECIAL DE PROTECCION CIVIL.- Aquel cuyo contenido se concreta a la prevención de problemas específicos derivados de un evento o actividad especial en un área determinada, que conlleva un nivel elevado de riesgo y que es implementado por los particulares y el poder ejecutivo del Estado de Guanajuato;
 
-XII. Probable infractor; a la persona a quien se le imputa la comisión de una infracción;
+XXV.- PROGRAMA INTERNO DE PROTECCION CIVIL.- Aquel que se circunscribe al ámbito de una dependencia, entidad institución y organismo, pertenecientes al sector público, privado y social. Se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos así como proteger las instalaciones bienes o información vital ante la ocurrencia de un riesgo, siniestro o desastre;
 
-XIII. Registro de Infractores; al Registro de Infractores del Distrito Federal;
+XXVI.- PROGRAMA MUNICIPAL DE PROTECCION CIVIL.- Es el instrumento de planeación para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de fenómenos destructivos en la población, sus bienes y entorno en su ámbito municipal y deberá ser acorde con el programa estatal;
 
-XIV. Salario mínimo; al salario mínimo general vigente en el Distrito Federal;
+XXVII.- PROTECCION CIVIL.- Conjunto de normas y principios de conducta y actuación que deberán ser objeto por las autoridades y la sociedad en general relacionando con la prevención, protección y auxilio a la población ante situaciones de riesgo grave, colectivo provocado por agentes naturales o Antropogénicos;
 
-XV. Secretaría; a la Secretaría de Seguridad Pública del Distrito Federal;
+XXVIII.- QUEJA CIVIL.- Se denomina al derecho de toda persona para hacer del conocimiento de la autoridad competente, hechos o actos que puedan producir riesgo o perjuicio en su persona o la de terceros, sus bienes o entorno;
 
-XVI. Secretaría de Salud; a la Secretaría de Salud del Distrito Federal;
+XXIX.- REGLAMENTO.- El presente ordenamiento;
 
-XVII. Secretario; al Secretario del Juzgado, y
+XXX.- RESTABLECIMIENTO.- Conjunto de acciones encaminadas a la recuperación de la normalidad, una vez que a (sic) ocurrido un siniestro o desastre;
 
-XVIII. Médico, al médico o médico legista;
+XXXI.- RIESGO.- Es el producto de la amenaza y la vulnerabilidad. Indica el grado de probabilidad de pérdidas de vidas, personas heridas, propiedad dañada y actividad económica detenida durante un período de referencia de una región dada por un peligro en particular;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXXII.- SECRETARIA.- Secretaría de Gobierno del Estado de Guanajuato;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
+XXXIII.- SERVICIOS VITALES.- Los que en su conjunto proporcionan las condiciones mínimas de vida y bienestar social, a través de los servicios públicos de la ciudad, tales como energía eléctrica, agua potable, salud, abasto, alcantarillado, limpia, transporte, comunicaciones, energéticos y el sistema administrativo;
 
-XIX. Adolescente: las personas cuya edad se encuentra comprendida entre los doce años cumplidos y menos de dieciocho años.
+XXXIV.- SIMULACRO.- Ejercicio para la toma de decisiones y adiestramiento en protección civil, en una comunidad o área preestablecida mediante la simulación de una emergencia o desastre para promover una coordinación efectiva de respuesta por parte de las autoridades;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXXV.- SINIESTRO.- Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes causados por la presencia de un riesgo, emergencia o desastre;
 
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
+XXXVI.- SISTEMA DE PROTECCION CIVIL.- Conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, procedimientos y programas que establece y concentra el ejecutivo del estado con las organizaciones de los diversos grupos sociales y privados a fin de efectuar acciones corresponsables en cuanto a la prevención, mitigación, preparación, auxilio, restablecimiento, rehabilitación y construcción en caso de riesgo emergencia, siniestro o desastre;
 
-## TÍTULO SEGUNDO. DE LA CULTURA CÍVICA Y DE LA PARTICIPACIÓN VECINAL
+XXXVII.- SISTEMAS ESTRATEGICOS.- Se refiere a los sistemas cuya afectación es factor generador de siniestros o desastres;
 
-### CAPÍTULO II. ATRIBUCIONES DE LAS AUTORIDADES
+XXXVIII.- TERMINOS DE REFERENCIA.- Guía técnica para la elaboración de los programas internos y especiales de protección civil;
+
+XXXIX.- VULNERABILIDAD.- Susceptibilidad de sufrir un daño con un grado de perdida (de 0 al 100%) como resultado de un fenómeno destructivo sobre personas, bienes inmuebles, servicios y su entorno; y
+
+XL.- ZONA DE DESASTRE.- Area del sistema afectable con población, entorno y área geográfica que por el impacto de una calamidad de origen natural o antropogénico, sufre daños, fallas y deterioro en su estructura y funcionamiento normal. La extensión de la zona de desastre, puede ser diversa como por ejemplo, un barrio, una colonia, un pueblo, una comunidad, una ciudad o una región; la cual varía de acuerdo con diferentes factores, entre ellos: el tipo de calamidad, la fuerza de esta y su duración, la vulnerabilidad del sistema afectable, etc.
+
+## TITULO SEGUNDO. DE LAS AUTORIDADES Y LA CIUDADANIA
+
+### CAPITULO PRIMERO. DE LAS AUTORIDADES
 
 ###### Artículo 4.
 
-Para los efectos de esta Ley, son considerados como responsables los adolescentes, los mayores de dieciocho años de edad, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
+Son autoridades encargadas de la aplicación del presente Reglamento, en el ámbito de sus respectivas competencias:
 
-###### Artículo 5.
+I.- El Ejecutivo del Estado;
 
-Se comete infracción cuando la conducta tenga lugar en:
+II.- La Secretaria de Gobierno;
 
-I. Lugares o espacios públicos de uso común o libre tránsito, como plazas, calles, avenidas, viaductos, calzadas, vías terrestres de comunicación, paseos, jardines, parques o áreas verdes y deportivas;
+III.- El Consejo Estatal de Protección Civil;
 
-II. Inmuebles públicos o privados de acceso público, como mercados, templos, cementerios, centros de recreo, de reunión, deportivos, de espectáculos o cualquier otro análogo;
+IV.- La Unidad Estatal de Protección Civil;
 
-III. Inmuebles públicos destinados (sic) la prestación de servicios públicos;
+V.- Los Ayuntamientos;
 
-IV. Inmuebles, espacios y vehículos destinados al servicio público de transporte;
+VI.- Los Presidentes Municipales;
 
-V. Inmuebles y muebles de propiedad particular, siempre que tengan efectos en la vía o espacios públicos o se ocasionen molestias a los vecinos, y
+VII.- Los Consejeros Municipales de Protección Civil; y
 
-VI. Lugares de uso común tales como plazas, áreas verdes, jardines, senderos, calles, avenidas interiores y áreas deportivas, de recreo o esparcimiento, que formen parte de los inmuebles sujetos al régimen de propiedad en condominio, conforme a lo dispuesto por la ley de la materia.
+VIII.- Las Unidades Municipales de Protección Civil.
 
-###### Artículo 6.
+###### Artículo 5°.
 
-La responsabilidad determinada conforme a esta Ley es autónoma de las consecuencias jurídicas que las conductas pudieran generar en otro ámbito.
+Para los efectos de la ley y del reglamento, son auxiliares de las autoridades de Protección Civil además de las nombradas en la ley, los cuerpos estatales y municipales de seguridad pública, protección y vialidad; los grupos voluntarios debidamente registrados y reconocidos ante la Unidad Estatal de Protección Civil; las Dependencias Estatales y Municipales, así como de los organismos auxiliares que en el ámbito de sus atribuciones guarden una estrecha relación con los fines y objetivos de la ley, al igual que los responsables de los servicios vitales de los sistemas estratégicos asentados en la entidad.
 
-El Juez hará la remisión al Ministerio Público cuando, de los hechos de que tenga conocimiento con motivo de sus funciones, pueda constituirse delito que se persiga de oficio.
+### CAPITULO SEGUNDO. DE LA CIUDADANIA
 
-### CAPÍTULO I
+###### Artículo 6º
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JUNIO DE 2014)</small>
+Los derechos y obligaciones de los habitantes del Estado de Guanajuato en materia de Protección Civil son:
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN VECINAL
+I.- Informar a las autoridades de Protección Civil, cualquier riesgo grave provocado por agentes naturales o humanos, a falta de autoridades de Protección Civil, notificar a las autoridades de Seguridad Pública;
+
+II- Participar en las acciones coordinadas por las autoridades de Protección Civil en casos de riesgo, contingencia o desastre;
+
+III.- Cooperar con las autoridades de Protección Civil en la ejecución de los programas de Protección Civil;
+
+IV.- Respetar la Normatividad correspondiente en lo que a señalización preventiva y de auxilio corresponda;
+
+V.- Participar y promover la capacitación en materia de Protección Civil, informándose de las acciones y actitudes que deben asumirse; antes, durante y después de un siniestro;
+
+VI.- Participar en los Simulacros que las autoridades determinen;
+
+VII.- Proporcionar la información que las autoridades le soliciten relativo a la prevención de riesgos, sea en su domicilio, colonia, Municipio o asentamiento;
+
+VIII.- Abstenerse de realizar cualquier actividad o conducta que impacte negativamente en los derechos de tercero; y
+
+IX.- Los demás que las autoridades de Protección Civil señalen.
+
+### CAPITULO TERCERO. DE LA POLITICA DE PROTECCION CIVIL
 
 ###### Artículo 7.
 
-La aplicación de esta Ley corresponde a:
+Para efectos de la formulación, conducción y aplicación de la política de Protección Civil, así como para la emisión de las Normas Técnicas complementarias, se deberán tomar en cuenta los términos de referencia que prevé la Ley y el presente Reglamento, las autoridades Estatales y Municipales, se sujetarán a los principios rectores contemplados en el Artículo 7° de la Ley, así como a los siguientes lineamientos:
 
-I. El Jefe de Gobierno;
+I.- Difundir los criterios de la Protección Civil entre todos los grupos de la Sociedad;
 
-II. La Consejería;
+II.- Solicitar a los responsables de las Actividades contempladas como de alto riesgo a la seguridad de la ciudadanía la implementación de acciones encaminadas a reducir el potencial de riesgo de dicha actividad, así como la información hacia los grupos de asentamiento cercanos al lugar donde se ejecute dicha actividad, de las medidas que deben seguirse en casos de contingencia;
 
-III. La Secretaría;
+III.- Aplicar en lo conducente la presente normatividad, o aquella que sea de índole Federal, Estatal o Municipal y que tenga relación con el riesgo de que se trate; y
 
-IV. La Secretaría de Salud;
+IV.- Promover la participación responsable de la sociedad en la formulación de la política de Protección Civil y todas las acciones que la autoridad correspondiente emprenda para la correcta aplicación de esta Política.
 
-V. Los Jefes Delegacionales;
+## TITULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-VI. La Dirección, y
+### CAPITULO PRIMERO. DE LA CONFORMACION DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-VII. Los Juzgados.
+###### Artículo 8°.
 
-## TÍTULO TERCERO. INFRACCIONES Y SANCIONES
+El Sistema Estatal de Protección Civil, estará constituido por los siguientes órganos:
 
-### CAPÍTULO I. INFRACCIONES Y SANCIONES
+I.- El Consejo Estatal de Protección Civil;
 
-###### Artículo 8.
+II.- La Unidad Estatal de Protección Civil; y
 
-Corresponde al Jefe de Gobierno:
+III.- Los Grupos de apoyo debidamente registrados ante la Unidad, conforme a lo marcado en la Ley y el presente Reglamento de Protección Civil, para el Estado de Guanajuato, debiendo contar con un centro de operaciones que será el asentamiento oficial del Sistema.
 
-I. Aprobar el número, distribución y competencia territorial de los Juzgados Cívicos;
+El Consejo, la Unidad Estatal y los demás órganos que conforman el Sistema Estatal, operan con el objetivo básico de proteger a las personas y a la comunidad, ante la eventualidad de la presencia de agentes perturbadores, a través de acciones que reduzcan o eliminan la pérdida de vidas humanas, la destrucción de bienes materiales y el daño al entorno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO SEGUNDO. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+###### Artículo 9°.
 
-II. Nombrar y remover previo proceso de acreditación de la comisión de delito o falta administrativa a los Jueces y Secretarios de los Juzgados Cívicos. Esta facultad podrá ser delegada en la persona titular de la Dirección Ejecutiva de Justicia Cívica, mediante acuerdo que se publique en la Gaceta Oficial del Distrito Federal.
-
-### CAPÍTULO II. DE LAS ACTIVIDADES DE APOYO A LA COMUNIDAD
-
-###### Artículo 9.
-
-Corresponde a la Consejería:
-
-I. Proponer al Jefe de Gobierno el número, distribución y competencia territorial de los Juzgados que deban funcionar en cada Delegación;
-
-II. Proponer al Jefe de Gobierno los nombramientos, adscripción y remoción de los Jueces y Secretarios;
-
-III. Diseñar los procedimientos para la supervisión, control y evaluación periódicos del personal de los Juzgados;
-
-IV. Emitir los lineamientos para la condonación de las sanciones impuestas por los Jueces;
-
-V. Supervisar el funcionamiento de los Juzgados, de manera periódica y constante, a fin de que realicen sus funciones conforme a esta Ley y a las disposiciones legales aplicables;
-
-VI. Establecer los criterios de selección para los cargos de Juez y Secretario, en casos excepcionales podrá dispensar el examen de ingreso;
-
-VII. Diseñar y desarrollar los contenidos del curso propedéutico correspondiente al nombramiento de Jueces y Secretarios e instrumentar mecanismos de actualización mediante convenios con instituciones académicas;
-
-VIII. Dotar a los Juzgados de personal eficaz y suficiente para el desempeño de sus labores, de acuerdo a la carga de trabajo;
-
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2014)</small>
-
-IX. Promover la difusión de la Cultura Cívica a través de campañas de información sobre sus objetivos y procedimientos, profundizando en el conocimiento y observancia de los derechos y obligaciones de ciudadanos y servidores públicos en la materia.
-
-X. Proponer al Jefe de Gobierno normas y criterios para mejorar los recursos y funcionamiento de la Justicia Cívica;
-
-XI. Proponer convenios que contribuyan al mejoramiento de los servicios de los Juzgados, tanto en materia de profesionalización, como de coordinación con otras instancias públicas o privadas, de orden federal o local, en beneficio de toda persona que sea presentada ante el Juzgado;
-
-XII. Establecer acuerdos de colaboración para el mejor ejercicio de las atribuciones establecidas en el presente artículo;
-
-XIII. Conocer del recurso de inconformidad a que se refiere el artículo 67 de esta Ley;
-
-XIV. Autorizar los registros e instrumentos necesarios que llevarán los Juzgados, facultad que podrá delegar a la Dirección;
-
-XV. Integrar el Registro de Infractores;
-
-XVI. Establecer las equivalencias entre los arrestos y el tiempo de realización de las actividades de apoyo a la comunidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
-
-XVII. Establecer, con la Secretaría, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
-
-XVIII. Contar con los peritos necesarios, en materia de tránsito terrestre y demás que se requieran, para atender el procedimiento establecido en el Capítulo IV, del Título Cuarto de esta Ley, quienes tendrán como principios rectores: la especialización, el profesionalismo y la imparcialidad; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
-
-XIX. Las demás facultades que le confiera la Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+El Consejo Estatal de Protección Civil, es un órgano de planeación, coordinación y apoyo, cuyo objetivo primordial es el de realizar acciones de protección civil y de participación social para la protección en el Estado así como ser el conducto formal para convocar a los sectores de la sociedad para su integración al Sistema Estatal de Protección Civil.
 
 ###### Artículo 10.
 
-A la Secretaría le corresponde la prevención de la comisión de infracciones, preservación de la seguridad ciudadana, del orden público y de la tranquilidad de las personas, para ello respetará los derechos humanos de las personas establecidos en la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables, y contará con las siguientes atribuciones:
+Serán atribuciones del Consejo Estatal de Protección Civil, además de las mencionadas en el Artículo 15 de la Ley, las siguientes:
 
-I. Detener y presentar ante el Juez a los probables infractores, en los términos del artículo 55 de esta Ley;
+I.- La promoción de actividades que puedan proveer medios económicos de apoyo para el estudio, difusión y promoción de la cultura de protección civil;
 
-II. Ejecutar las órdenes de presentación que se dicten con motivo del procedimiento que establece esta Ley;
+II.- Concertar con las dependencias de la Administración Pública Federal, Estatal y Municipal así como con los sectores social y privado, los recursos humanos, financieros y materiales;
 
-III. Trasladar y custodiar a los infractores a los lugares destinados al cumplimiento de arrestos;
+III.- Coordinar las acciones que se requieran para la ejecución del Programa Estatal de Protección Civil;
 
-IV. Supervisar y evaluar el desempeño de sus elementos en la aplicación de la presente ley, considerando el intercambio de información con las autoridades correspondientes;
+IV.- Convocar a los órganos de consulta y coordinación de la participación sectorial que se integren con representantes de organizaciones e instituciones privadas, sociales, académicas y profesionales a las que se les formule invitación para participar en las acciones de Protección Civil; y
 
-V. Incluir en los programas de formación policial, la materia de Justicia Cívica;
-
-VI. Proveer a sus elementos de los recursos materiales necesarios para la aplicación de esta Ley;
-
-VII. Registrar las detenciones y remisiones de probables infractores realizadas por los policías;
-
-VIII. Auxiliar a los Jueces en el ejercicio de sus funciones;
-
-IX. Auxiliar a las áreas de desarrollo social en el traslado de las personas que pernocten en la vía y espacios públicos, a las instituciones públicas y privadas de asistencia social;
-
-X. Comisionar en cada uno de los turnos de los Juzgados, por lo menos a un policía.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+V.- Las demás que determine la Ley y el presente Reglamento.
 
 ###### Artículo 11.
 
-Corresponde a la Secretaría de Salud planear, dirigir, controlar y evaluar los servicios de medicina legal, de salud, de prevención y atención de las adicciones en apoyo a los Juzgados, en los términos establecidos en la Ley de Salud del Distrito Federal.
+El Consejo Estatal de Protección Civil estará integrado por:
+
+I.- Un Presidente, quien será el Titular del Ejecutivo del Estado;
+
+II.- Un Secretario Ejecutivo, quien será El Secretario de Gobierno;
+
+III.- Un Secretario Técnico, quien será el Coordinador Estatal de Protección Civil;
+
+IV.- Un vocal, que será el diputado presidente de la comisión de seguridad pública y comunicaciones del Congreso del Estado; y
+
+V.- Los titulares o representantes de las dependencias y entidades de la administración pública estatal en su calidad de consejeros, cuya área de competencia corresponda a los objetivos del sistema estatal de protección civil.
 
 ###### Artículo 12.
 
-A los Jefes Delegacionales corresponde:
+El Presidente del Consejo tendrá las siguientes facultades:
 
-I. Dotar de espacios físicos, de recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte la Consejería, y
+I.- Convocar a través del Secretario Ejecutivo las sesiones y presidirlas, dirigiendo sus debates, teniendo voto de calidad en caso de empate;
 
-II. Conservar los Juzgados en óptimas condiciones de uso.
+II.- Coordinar las acciones que se desarrollen en el seno del Consejo y las del Sistema Estatal en general;
 
-> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+III.- Mandar ejecutar y vigilar el cumplimiento de los acuerdos del Consejo;
 
-III. Promover la difusión de la Ley y la participación de los ciudadanos en el conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones.
+IV.- Proponer la integración de Comisiones que se estimen necesarias tomando como base lo marcado en el Artículo 24 del presente reglamento, conforme a los programas del Consejo;
 
-> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+V.- Promover la celebración de convenios de coordinación y apoyo con los gobiernos Federal, Estatales y Municipales circunvecinos, para instrumentar los programas de Protección Civil;
 
-IV. Impulsar y fomentar políticas públicas tendientes a la difusión de los valores y principios en materia de cultura cívica y de la legalidad.
+VI.- Rendir al Consejo Estatal un informe sobre los trabajos realizados;
+
+VII.- Representar, por si o por conducto del secretario Ejecutivo al Consejo Estatal, delegándole para tal efecto, las facultades necesarias que le permitan la realización de estos fines; y
+
+VIII.- Las demás que le otorgue la Ley, el presente reglamento o el Consejo Estatal.
 
 ###### Artículo 13.
 
-A la Dirección le corresponde:
+Corresponde al Secretario Ejecutivo:
 
-I. La ejecución de las normas internas de funcionamiento;
+I.- En ausencia del Titular del Poder Ejecutivo del Estado, presidir las sesiones ordinarias y extraordinarias del pleno del Consejo o de las Comisiones que se crean en caso de emergencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- Presentar a la consideración del Consejo Estatal, el proyecto del programa de Protección Civil;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+III.- Hacer pública cuando proceda, la declaración formal de emergencia formulada por el Titular del Poder Ejecutivo del Estado, convocando al Consejo a sesión permanente, instalando de inmediato el centro estatal de operaciones y coordinar el desarrollo de los trabajos correspondientes;
 
-II. En ejercicio de la facultad que le delegue el Jefe de Gobierno, nombrar, remover y adscribir a los jueces cívicos y secretarios de juzgado cívico;
+IV.- Elaborar y presentar al Consejo el proyecto de su Reglamento Interior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V.- Elaborar los trabajos que le sean encomendados por el Presidente del Consejo;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+VI.- Coordinar la ejecución del programa Estatal de Protección Civil, en los distintos ámbitos de los tres Poderes del Estado, así como con las autoridades Municipales, Federales y con las organizaciones voluntarias, privadas y sociales; y
 
-III. La supervisión, control y evaluación de los Juzgados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
-
-IV. Conocer de la queja a que se refiere el artículo 103 de esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
-
-V. Condonar las sanciones impuestas por el Juez;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
-
-VI. Rotar periódicamente a los jueces cívicos y secretarios de juzgado cívico, según las necesidades del servicio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
-
-VII. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan los Juzgados, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
-
-VIII. Las demás funciones que le confiera la Ley y otras disposiciones legales.
+VII.- Las demás que le confieran la Ley, el Reglamento o el Consejo.
 
 ###### Artículo 14.
 
-Para la preservación del orden público, la Administración Pública del Distrito Federal promoverá el desarrollo de una Cultura Cívica, sustentada en los principios de corresponsabilidad, legalidad, solidaridad, honestidad, equidad, tolerancia e identidad, con objeto de:
-
-I. Fomentar la participación activa de los habitantes en la preservación del orden público, por medio del conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones, y
-
-II. Promover el derecho que todo habitante tiene a ser un sujeto activo en el mejoramiento de su entorno social, procurando:
-
-a) El respeto y preservación de su integridad física y psicológica, cualquiera que sea su condición socioeconómica, edad o sexo;
-
-b) El respeto al ejercicio de los derechos y libertades de todas las personas;
-
-c) El buen funcionamiento de los servicios públicos y aquellos privados de acceso publico;
-
-d) La conservación del medio ambiente y de la salubridad general, y
-
-e) El respeto, en beneficio colectivo, del uso y destino de los bienes del dominio público.
+Corresponde al Secretario Técnico del Consejo, además de lo previsto en el Artículo 21 de la Ley, la coordinación de la Unidad Estatal de Protección Civil, en lodo lo que a la misma le confieran la Ley y el presente Reglamento.
 
 ###### Artículo 15.
 
-La Cultura Cívica en el Distrito Federal, que garantiza la convivencia armónica de sus habitantes, se sustenta en el cumplimiento de los siguientes deberes ciudadanos:
-
-I. Cumplir la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno, las leyes, reglamentos y demás disposiciones que rigen en el Distrito Federal;
-
-II. Ejercer los derechos y libertades protegidos en esta Ley y respetar los de los demás;
-
-III. Brindar trato digno a las personas, respetando la diversidad que caracteriza a la comunidad;
-
-IV. Prestar apoyo a los demás habitantes, especialmente a las personas victimizadas o en situación vulnerable;
-
-V. Prevenir riesgos contra la integridad física de las personas;
-
-VI. Permitir la libertad de acción de las personas en las vías y espacios públicos;
-
-VII. Solicitar servicios de urgencias médicas, rescate o policiales, en situaciones de emergencia;
-
-VIII. Requerir la presencia policíaca en caso de percatarse de la realización de conductas o de hechos violentos que puedan causar daño a personas o bienes de terceros o que afecten la convivencia armónica;
-
-IX. Conservar limpias las vías y espacios públicos;
-
-X. Hacer uso adecuado de los bienes, espacios y servicios públicos conforme a su naturaleza y destino;
-
-XI. Cuidar el equipamiento y mobiliario urbano, así como los bienes de interés cultural, urbanístico y arquitectónico de la ciudad;
-
-XII. Contribuir a un ambiente adecuado para su desarrollo, salud y bienestar;
-
-XIII. Proteger y preservar la flora y fauna en áreas verdes, áreas de valor ambiental, áreas naturales protegidas y suelo de conservación del Distrito Federal;
-
-XIV. Utilizar adecuadamente la estructura vial así como respetar la señalización vial;
-
-XV. Mantener en buen estado las construcciones propias, así como reparar las averías o daños de la vivienda o lugar de trabajo que pongan en peligro, perjudiquen o molesten a los vecinos;
-
-XVI. Prevenir que los animales domésticos causen daño o molestia a los vecinos;
-
-XVII. Cumplir las normas de seguridad y prevención contra incendios y demás en materia de protección civil relativas a la seguridad en los espacios públicos, establecimientos comerciales, y lugares de acceso público;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
-
-XVIII. Contribuir a generar un ambiente libre de contaminación auditiva que altere la tranquilidad o represente un posible riesgo a la salud de terceros, trátese de vivienda de interés social, popular o residencial;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
-
-XIX. Ejercer sus derechos sin perturbar el orden y la tranquilidad públicos, ni afectar la continuidad del desarrollo normal de las actividades de los demás habitantes;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
-
-XX. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
-
-XXI. Colaborar con las autoridades cuando éstas lo soliciten y en situaciones de emergencia;
-
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
-
-XXII. Permitir a las autoridades el ejercicio de las funciones previstas en esta Ley y, en su caso, colaborar con las mismas o requerir su actuación, y
-
-> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2012)</small>
-
-XXIII. Participar en los asuntos de interés de su colonia, barrio y Delegación, principalmente en aquellos dirigidos a procurar la seguridad ciudadana así como en la solución de los problemas comunitarios.
-
-> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2014)</small>
+Corresponde al Vocal del Consejo, brindar asesoría y emitir opinión sobre los asuntos tratados en sesión. El Vocal tendrá derecho a voz, pero sin voto.
 
 ###### Artículo 16.
 
-En materia de Cultura Cívica, a la Administración Pública del Distrito Federal le corresponde:
+Corresponde a los Consejeros, las siguientes atribuciones:
 
-I. Diseñar y promover los programas necesarios para la plena promoción, difusión, conocimiento y desarrollo de la Cultura Cívica democrática, así como para el fomento de la educación cívica en la comunidad,
+I.- Representar a las dependencias de la Administración Pública estatal a las que pertenecen;
 
-II. Promover programas permanentes para el fortalecimiento de la conciencia cívica a través de los medios de comunicación masiva así como la plena difusión de los principios y valores de la legalidad.
+II.- Emitir recomendaciones para la elaboración y ejecución del Programa Estatal de Protección Civil;
 
-III. Promover la incorporación de contenidos cívicos y de la cultura de la legalidad en los diversos ciclos educativos, especialmente en el nivel básico, dando mayor atención a las conductas y a la prevención de las infracciones previstas en esta Ley, apoyándose con programas publicitarios dirigidos especialmente a los niños.
+III.- Ejecutar las tareas especiales que le encomiende el Presidente del Consejo; y
 
-IV. Implementar e impulsar a través de todas las áreas de la Administración Pública local las políticas públicas, programas y líneas de acción sobre los valores y principios de la cultura cívica y el pleno conocimiento de los derechos y obligaciones de los ciudadanos y servidores públicos.
-
-V. Promover los valores de la cultura cívica a través de campañas de información en los medios de comunicación masiva puntualizando sus objetivos y alcances.
+IV.- Las demás que le encomiende la Ley, el presente Reglamento o el Consejo.
 
 ###### Artículo 17.
 
-A la Administración Pública del Distrito Federal le corresponde diseñar y promover programas vecinales que impliquen la participación de los habitantes en colaboración con las autoridades competentes para la preservación y conservación del orden público, los cuales atenderán a:
-
-I. Procurar el acercamiento entre los Jueces y la comunidad de la circunscripción territorial que les corresponda, a fin de propiciar una mayor comprensión y participación en las funciones que desarrollan;
-
-II. Establecer vínculos permanentes con los grupos organizados y los habitantes en general, para la identificación de los problemas y fenómenos sociales que los aquejan, relacionados con esta Ley, y
-
-III. Organizar la participación vecinal para la prevención de infracciones.
-
-> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
-
-IV. Promover, en el ámbito de su competencia, la difusión de los valores y alcances de la cultura cívica y de la legalidad así como de campañas de información y cursos formativos entre los órganos de representación ciudadana.
+Los cargos de los miembros del Consejo serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna.
 
 ###### Artículo 18.
 
-Los Jueces participarán activamente en los Comités Delegacionales de Seguridad Pública, así como en los programas de Seguridad Pública que promueva la Administración Pública del Distrito Federal, en los términos que determine la Consejería.
+Los órganos de consulta y coordinación a que se refiere el artículo 8, serán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+l.- Consejos Municipales de Protección Civil; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
+II.- Toda aquella dependencia Federal, Estatal o Municipal que por sus características tenga actividades específicas relacionadas con la prevención, control o manejo de cualesquiera de los cinco fenómenos contemplados dentro del Sistema, que pueden ser:
+
+De origen Geológico:
+
+a) Sismicidad;
+
+b) Vulcanismo;
+
+c) Deslizamiento y colapso de suelos;
+
+d) Deslaves;
+
+e) Hundimiento regional;
+
+f) Fallas, agrietamiento; y
+
+g) Flujos de lodo.
+
+De origen Hidrometeorológico:
+
+a) Lluvias torrenciales;
+
+b) Tormentas extremas (Trombas);
+
+c) Granizadas;
+
+d) Nevadas;
+
+e) Heladas;
+
+f) Inundaciones fluviales o lacustres;
+
+g) Inundaciones Pluviales;
+
+h) Depresión tropical o su impacto;
+
+i) Huracán o sus efectos;
+
+j) Tormentas eléctricas;
+
+k) Sequías;
+
+l) Descertificación;
+
+m) Vientos fuertes; y
+
+n) Temperaturas extremas.
+
+De origen químico:
+
+a) Incendios industriales;
+
+b) Incendios forestales;
+
+c) Explosiones;
+
+d) Fugas o derrames;
+
+e) Radiaciones; y
+
+f) Accidentes con materiales y/o residuos peligrosos.
+
+De origen sanitario:
+
+a) Contaminaciones;
+
+b) Epidemias;
+
+c) Plagas; y
+
+d) Lluvia ácida.
+
+De origen Socio - Organizativo:
+
+a) Problemas derivados de concentraciones masivas de población; Mítines, Peregrinaciones, Eventos deportivos, Espectáculos masivos, etc.
+
+b) Interrupción o fallas en suministro u operación de servicios públicos y sistemas vitales;
+
+c) Accidentes aéreos, ferroviarios o carreteros y Fluviales; así como
+
+d) Actos o amenazas de sabotaje o terrorismo.
 
 ###### Artículo 19.
 
-Los Jueces celebrarán reuniones periódicas con los miembros de los comités vecinales y otros órganos de representación vecinal de la circunscripción territorial que les corresponda, con el propósito de informar lo relacionado con el desempeño de sus funciones, así como para conocer y atender la problemática que específicamente aqueja a los habitantes de esa comunidad, brindando alternativas de solución en los términos de esta Ley.
-
-Las reuniones se realizarán en lugares de acceso público. A las reuniones se podrá invitar a Diputados de la Asamblea Legislativa del Distrito Federal. De cada reunión, se elaborará una memoria que será remitida a la Consejería.
+El Consejo Estatal de Protección Civil, por conducto de la Unidad Estatal de Protección Civil, podrá celebrar acuerdos y convenios con los ayuntamientos para que la organización y estructura administrativa, capacitación, uso y manejo de equipo y reglamentos internos de los cuerpos oficiales de emergencia; Bomberos, Rescate y Atención Prehospitalaria, para los casos de riesgo, siniestros o desastre, sean de acuerdo a las particularidades a que este expuesta la población y su entorno, a fin de regular los servicios y actividades de dichos grupos voluntarios, acorde a la Ley y al presente Reglamento.
 
 ###### Artículo 20.
 
-La Dirección integrará el cuerpo de Colaboradores Comunitarios que voluntaria y gratuitamente brinden apoyo en las funciones de supervisión de los juzgados.
-
-Los colaboradores comunitarios serán acreditados por la Consejería ante las instancias correspondientes; siempre que hayan cubierto los requisitos que dicte la misma.
+El Consejo Estatal de Protección Civil, a través de la Unidad Estatal emitirá los lineamientos básicos relativos al uso y portación del uniforme e identificación para el caso de riesgo, emergencia, siniestro o desastre de los diversos grupos integrantes del Sistema Estatal, debiendo sujetarse las Unidades Municipales de Protección Civil a los mismos.
 
 ###### Artículo 21.
 
-Corresponde a los Colaboradores Comunitarios realizar visitas a las diversas áreas de los Juzgados, sin entorpecer o intervenir en las funciones del personal, con el objeto de detectar necesidades e irregularidades para hacerlo del conocimiento de la Consejería y de los órganos e instancias que ésta determine.
+El Consejo Estatal de Protección Civil, funcionará en pleno o en Comisiones para asuntos específicos.
 
 ###### Artículo 22.
 
-Los Jueces y Secretarios otorgarán las facilidades necesarias para que los Cola-boradores (sic) Comunitarios debidamente acreditados realicen sus visitas, proporcionándoles acceso a las diversas áreas así como la información que requieran, siempre que sea procedente de acuerdo a la Ley de Transparencia y Acceso (sic) la información Pública del Distrito Federal.
+El Consejo se reunirá en sesión ordinaria y deberá observar lo dispuesto en el Artículo 17 de la Ley de Protección Civil para el Estado de Guanajuato cuando menos cada seis meses y en sesión extraordinaria cuantas veces sea necesario; cuando se presenten circunstancias de grave riesgo para la población, el Consejo se constituirá en sesión permanente hasta que la situación de emergencia desaparezca. El Consejo podrá sesionar válidamente, con el número de miembros que asistan, siempre que estén (sic) presente el Gobernador o el Secretario de Gobierno; sus decisiones serán tomadas por mayoría de votos de los presentes. En caso de empate el Presidente del Consejo tendrá voto de calidad.
+
+De todas las sesiones se levantará el acta respectiva, la que se asentará en un libro bajo la responsabilidad del Secretario Técnico del Consejo.
 
 ###### Artículo 23.
 
-Son infracciones contra la dignidad de las personas;
-
-I. Vejar o maltratar física o verbalmente a cualquier persona;
-
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
-
-II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido;
-
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
-
-III. Propinar a una persona, en forma intencional y fuera de riña, golpes que no le causen lesión; y
-
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
-
-IV. Lesionar a una persona siempre y cuando las lesiones que se causen de acuerdo al dictamen médico tarden en sanar menos de quince días.
-
-En caso de que las lesiones tarden en sanar más de quince días el juez dejará a salvo los derechos del afectado para que éste los ejercite por la vía que estime procedente.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-La infracción establecida en la fracción I se sancionará con multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 6 a 12 horas.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones II y III se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
-
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
-
-La infracción establecida en la fracción IV, se sancionará con arresto de veinticinco a treinta y seis horas. Sólo procederá la conciliación cuando el probable infractor repare el daño. Las partes de común acuerdo fijarán el monto del daño.
+Las sesiones ordinarias del Consejo se celebrarán a convocatoria del secretario Ejecutivo, con cinco días de anticipación. Para las sesiones extraordinarias, no se requerirá dicha anticipación.
 
 ###### Artículo 24.
 
-Son infracciones contra la tranquilidad de las personas:
+El Consejo Estatal y en su ámbito de competencia los Consejos Municipales, contarán con Comisiones permanentes para el cumplimiento de sus atribuciones de consulta, opinión y coordinación, las cuales podrán ser permanentes o temporales debiendo conformar entre otras las siguientes:
 
-I. Prestar algún servicio sin que le sea solicitado y coaccionar de cualquier manera a quien lo reciba para obtener un pago por el mismo. La presentación del infractor sólo procederá por queja previa;
+I.- Comisión Operativa;
 
-II. Poseer animales sin adoptar las medidas de higiene necesarias que impidan hedores o la presencia de plagas que ocasionen cualquier molestia a los vecinos;
+II.- Comisión de Comunicación Social;
 
-> <small>(REFORMADA, G.O. 31 DE MAYO DE 2012)</small>
+III.- Comisión de Apoyo financiero a las organizaciones y acciones de Protección Civil;
 
-III. Producir o causar ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o represente un posible riesgo a la salud de los vecinos;
+IV.- Comisión de Ciencia y Tecnología;
 
-IV. Impedir el uso de los bienes del dominio público de uso común;
+V.- Comisión de Participación ciudadana; y
 
-V. Obstruir con cualquier objeto entradas o salidas de inmuebles sin autorización del propietario o poseedor del mismo;
-
-VI. Incitar o provocar a reñir a una o más personas;
-
-VII. Invitar a la prostitución o ejercerla, así como solicitar dicho servicio. En todo caso sólo procederá la presentación del probable infractor cuando exista queja vecinal, y
-
-VIII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la realización de trámites que en la misma se proporcionen, sin tener autorización para ello.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones I y II se sancionarán con multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 6 a 12 horas.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones III a VII se sancionarán con multa por el equivalente de 10 a 40 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
-
-La infracción establecida en la fracción VIII se sancionará con arresto de 20 a 36 horas.
+VI.- Comisión de Evaluación y Control.
 
 ###### Artículo 25.
 
-Son infracciones contra la seguridad ciudadana:
-
-I. Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo;
-
-II. Impedir o estorbar de cualquier forma el uso de la vía pública, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello. Para estos efectos, se entenderá que existe causa justificada siempre que la obstrucción del uso de la vía pública, de la libertad de tránsito o de acción de las personas sea inevitable y necesaria y no constituya en sí misma un fin, sino un medio razonable de manifestación de las ideas, de asociación o de reunión pacífica;
-
-III. Usar las áreas y vías públicas sin contar con la autorización que se requiera para ello;
-
-IV. Apagar, sin autorización, el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
-
-V. Ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra por la posesión de los estupefacientes, psicotrópicos, enervantes o sustancias tóxicas;
-
-VI. Portar, transportar o usar, sin precaución, objetos o sustancias que por su naturaleza sean peligrosos y sin observar, en su caso, las disposiciones aplicables;
-
-VII. Detonar o encender cohetes, juegos pirotécnicos, fogatas o elevar aeróstatos, sin permiso de la autoridad competente;
-
-VIII. Reñir con una o más personas;
-
-IX. Solicitar los servicios de emergencia, policía, bomberos o de establecimientos médicos o asistenciales, públicos o privados, cuando no se requieran. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
-
-X. Alterar el orden, arrojar líquidos u objetos, prender fuego o provocar altercados en los eventos o espectáculos públicos o en sus entradas o salidas;
-
-XI. Ofrecer o propiciar la venta de boletos de espectáculos públicos, con precios superiores a los autorizados;
-
-XII. Trepar bardas, enrejados o cualquier elemento constructivo semejante, para observar al interior de un inmueble ajeno;
-
-XIII. Abstenerse, el propietario, de bardar un inmueble sin construcción o no darle el cuidado necesario para mantenerlo libre de plagas o maleza, que puedan ser dañinas para los colindantes;
-
-XIV. Percutir armas de postas, diábolos, dardos o municiones contra personas o animales;
-
-XV. Participar de cualquier manera, organizar o inducir a otros a realizar competencias vehiculares de velocidad en vías públicas;
-
-XVI. (DEROGADA, G.O. 10 DE MARZO DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
-
-XVII. Organizar o participar en peleas de animales, de cualquier forma; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
-
-XVIII. Causar daño a un bien mueble o inmueble ajeno, en forma culposa y con motivo del tránsito de vehículos;
-
-Obra culposamente el que produce el daño, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación de un deber de cuidado que objetivamente era necesario observar.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones I, II, III y IV se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones V, VI, VII, VIII, IX, X, XII, XIII y XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
-
-(ADICIONADO, G.O. 30 DE JULIO DE 2010.
-
-La infracción establecida en la fracción XI se sancionará con arresto de 25 a 36 horas.
-
-Las infracciones establecidas en las fracciones XV, XVI y XVII se sancionarán con arresto de 20 a 36 horas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Sin perjuicio de la obligación de reparar el daño causado que determine la autoridad civil competente, quien resulte responsable de la conducta prevista en la fracción XVIII será sancionado con arresto de hasta 36 horas o:
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-I. Multa por el equivalente de 50 a 180 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado no exceda de diez mil pesos;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-II. Multa por el equivalente de 181 a 365 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de diez mil pesos pero no de veinte mil pesos;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-III. Multa por el equivalente de 366 a 725 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de veinte mil pesos pero no de cuarenta mil pesos;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-IV. Multa por el equivalente de 726 a 1275 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de cuarenta mil pesos pero no de setenta mil pesos;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-V. Multa por el equivalente de 1276 a 2185 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de setenta mil pesos pero no de ciento veinte mil pesos;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-VI. Multa por el equivalente de 2186 a 3275 veces la Unidad de Cuenta de la Ciudad de México vigente, cuando el monto del daño causado exceda de ciento veinte mil pesos pero no de ciento ochenta mil pesos; o
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-VII. Multa por el equivalente de 3276 veces la Unidad de Cuenta de la Ciudad de México vigente, y hasta por el monto total del valor comercial del vehículo, cuando el monto del daño causado exceda de ciento ochenta mil pesos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Sólo se conmutará el arresto si, además de los requisitos que señala esta ley, el conductor responsable acredita su domicilio, señala domicilio en el Distrito Federal para oír y recibir notificaciones, y menciona, en su caso, el domicilio del propietario del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-En el supuesto de la fracción XVIII de este artículo, si con los elementos de prueba ofrecidos por las partes o allegados al Juez no es posible determinar quién es el responsable del daño causado, no se aplicará multa alguna y se devolverán los vehículos, quedando a salvo los derechos de las partes para hacerlos valer por la vía procedente.
+Las Comisiones deberán informar al Consejo el estado que guarden los asuntos a su cargo, en las fechas y sesiones que el propio Consejo lo determine.
 
 ###### Artículo 26.
 
-Son infracciones contra el entorno urbano de la Ciudad de México:
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2012)</small>
-
-I. Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad o bajo su custodia, así como tirar o abandonar dichos desechos fuera de los contenedores.
-
-II. Orinar o defecar en los lugares a que se refiere el artículo 5° de la presente Ley;
-
-III. Arrojar, tirar o abandonar en la vía pública animales muertos, desechos, objetos o sustancias;
-
-IV. Tirar basura en lugares no autorizados;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-V. Dañar, pintar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o de los particulares, sin autorización expresa de éstos, estatuas, monumentos, postes, arbotantes, semáforos, parquímetros, buzones, tomas de agua, señalizaciones viales o de obras, puentes, pasos peatonales, plazas, parques, jardines, elementos de ornato u otros bienes semejantes. El daño a que se refiere esta fracción será competencia del juez hasta el valor de veinte veces la Unidad de Cuenta de la Ciudad de México vigente;
-
-VI. Cambiar, de cualquier forma, el uso o destino de áreas o vía pública, sin la autorización correspondiente;
-
-VII. Abandonar muebles en áreas o vías públicas;
-
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
-
-VIII. Desperdiciar el agua o impedir su uso a quienes deban tener acceso a ella en tuberías, tanques o tinacos almacenadores, así como utilizar indebidamente los hidrantes públicos, obstruirlos o impedir su uso;
-
-IX. Colocar en la acera o en el arroyo vehicular, enseres o cualquier elemento propio de un establecimiento mercantil, sin la autorización correspondiente;
-
-X. Arrojar en la vía pública desechos, sustancias peligrosas para la salud de las personas o que despidan olores desagradables;
-
-XI. Ingresar a zonas señaladas como de acceso restringido en los lugares o inmuebles destinados a servicios públicos, sin la autorización correspondiente o fuera de los horarios establecidos;
-
-XII. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, números o letras que identifiquen vías, inmuebles y lugares públicos;
-
-XIII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello;
-
-XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios, y
-
-XV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
-
-> <small>N. DE E. DEL ANÁLISIS DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LOS ANTERIORES PÁRRAFOS SEGUNDO Y TERCERO DEL PRESENTE ARTÍCULO QUEDARON INTEGRADOS EN EL ACTUAL SEGUNDO PÁRRAFO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones I a VII se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-La fracción VIII, se sancionará con multa por el equivalente de 21 a 40 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigenteo (sic) con arresto de 25 a 36 horas.
-
-La infracción establecida en la fracción XV se sancionará con arresto de 20 a 36 horas.
+Las Comisiones carecerán de facultades ejecutivas, excepto cuando en asuntos de su competencia les sean otorgadas por acuerdo expreso del Presidente del Consejo o del Secretario Ejecutivo.
 
 ###### Artículo 27.
 
-En el supuesto de que el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, el cual no podrá exceder de treinta y seis horas.
+Los Consejos Municipales de Protección Civil, se constituirán en cada uno de los Municipios del estado, en la forma que previene el Artículo 12 de la Ley de Protección Civil para el Estado de Guanajuato.
 
 ###### Artículo 28.
 
-Cuando una infracción se ejecute con la participación de dos o más personas, a cada una se le aplicará la sanción máxima que para esa infracción señala esta Ley.
-
-Cuando la persona molestada u ofendida sea menor de edad, anciano, persona con discapacidad o indigente, se aumentará la sanción hasta en una mitad, sin exceder el máximo constitucional y legal establecido para el caso de la multa.
+El funcionamiento de los Consejos Municipales se regirá, en lo conducente, por las normas de este Reglamento relativas al Consejo Estatal.
 
 ###### Artículo 29.
 
-Cuando con una sola conducta se comentan (sic) varias infracciones, el Juez impondrá la sanción máxima aplicable, pudiendo aumentarse hasta en una mitad más sin que pueda exceder de 36 horas.
+Los convenios a que se refiere el Artículo 19 del presente reglamento, deberán contener:
 
-Cuando con diversas conductas se cometan varias infracciones, el Juez impondrá la sanción de la que merezca la mayor, pudiendo aumentarse con las sanciones que esta Ley señala para cada una de las infracciones restantes, siempre que tal acumulación no exceda el máximo establecido para el arresto.
+I.- La personalidad con que se comparece;
+
+II.- Los fundamentos legales y técnicos;
+
+III.- Las materias o acciones objeto de la coordinación;
+
+IV.- La participación que corresponda a cada una de las partes;
+
+V.- El órgano u órganos administrativos encargados de las actividades materia de la coordinación;
+
+VI.- La asignación de recursos humanos, financieros y materiales que en el caso se aporten;
+
+VII.- La vigencia, prórroga y, en su caso, los motivos de terminación;
+
+VIII.- Los sistemas de información y el mecanismo de evaluación para determinar su eficacia y utilidad social; y
+
+IX.- Los anexos técnicos.
 
 ###### Artículo 30.
 
-Cuando las conductas sancionadas por esta Ley sean cometidas en cumplimiento de órdenes emitidas por aquellos de quienes se tenga dependencia laboral o económica, el Juez impondrá la sanción correspondiente y girará el citatorio respectivo a quien hubiese emitido la orden. Tratándose de personas morales, se requerirá la presencia del representante legal y en este caso sólo podrá imponerse como sanción la multa.
+En los convenios celebrados con las autoridades Federales, Estatales o Municipales, podrá establecerse la realización de acciones en forma directa por las autoridades de Protección Civil Estatal o Municipal cuando:
+
+I.- De la verificación se identifique a una persona jurídicamente física o moral, como un factor de riesgo, y por la hora, lugar o circunstancias la autoridad competente no pueda actuar;
+
+II.- En ausencia de la autoridad competente, se requiera llevar a cabo acciones de evacuación, desalojo, clausura, acordonamiento y cierre de vialidades; y
+
+III.- Se requiera su apoyo por la magnitud o peligro del riesgo, siniestro o desastre
 
 ###### Artículo 31.
 
-En todos los casos y para efectos de la individualización de la sanción, el Juez considerará como agravante el estado de ebriedad del infractor o su intoxicación por el consumo de estupefacientes, psicotrópicos o sustancias tóxicas al momento de la comisión de la infracción; pudiéndose aumentar la sanción hasta en una mitad sin exceder el máximo establecido para el caso del arresto.
+Los convenios a que haga referencia la Ley y el presente Reglamento, deberán ser publicados por una sola vez en el Periódico Oficial del Gobierno del Estado, y por lo menos en un periódico de circulación estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
-
-### CAPÍTULO I. DISPOSICIONES COMUNES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
+### CAPITULO TERCERO. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
 ###### Artículo 32.
 
-Se entiende por reincidencia la comisión de infracciones contenidas en la presente ley por dos o más veces, en un periodo que no exceda de seis meses. En este caso, el infractor no podrá gozar del beneficio de conmutar el arresto por multa.
-
-Para la determinación de la reincidencia, el Juez deberá consultar el Registro de Infractores.
+La Unidad Estatal de Protección Civil, dependiente de la Secretaria de Gobierno, tiene a su cargo elaborar, instrumentar dirigir y en el ámbito de su competencia, aplicar el Programa Estatal de protección civil, en el Estado, coordinando sus acciones con las dependencias y entidades del sector público, instituciones y organismos del sector social, privado y académico, así como con los grupos voluntarios y la ciudadanía en general.
 
 ###### Artículo 33.
 
-Cuando el infractor acredite de manera fehaciente su identidad y domicilio, podrá solicitar al Juez le sea permitido realizar actividades de apoyo a la comunidad a efecto de no cubrir la multa o el arresto que se le hubiese impuesto, excepto en los casos de reincidencia.
+Es competencia de la Unidad Estatal de Protección Civil además de lo contemplado en el Artículo 23 y 24 de la Ley, lo siguiente:
 
-Las actividades de apoyo a la comunidad se desarrollarán por un lapso equivalente a las horas de arresto que correspondan a la infracción que se hubiera cometido. En ningún caso podrán realizarse dentro de la jornada laboral del infractor.
+l.- Desarrollar acciones de investigación y acopio de datos a efecto de mantener actualizado el Atlas de Riesgos Estatal;
+
+II.- Formular directorios e inventarios de las empresas dedicadas a la verificación, capacitación o prestación de servicios de condiciones de seguridad de bienes inmuebles, instalaciones y equipos, así como la elaboración de programas de Protección Civil, que operen en el territorio del Estado;
+
+III.- La Unidad Estatal previa solicitud escrita a cargo de las Unidades Municipales de Protección Civil, se encuentra obligada a proporcionar Asesoría y auxilio para la conformación adecuada de los Atlas municipales de riesgos correspondientes;
+
+IV.- Promover la integración y formación de Unidades Internas de Protección Civil en las instancias de los tres niveles de Gobierno Federales, Estatales y Municipales dentro del territorio del Estado, así como elaborar un directorio de los titulares de dichas Unidades internas;
+
+V.- Promover la instalación en territorio del Estado, de sistemas y acciones de monitoreo para la detección de agentes perturbadores, sea a través de instancias Federales, Estatales o de Instituciones académicas;
+
+VI.- Aplicar estudios para la determinación del grado de vulnerabilidad de los sistemas de subsistencia y servicios públicos;
+
+VII.- Plantear y promover la aplicación de acciones encaminadas a disminuir la vulnerabilidad de los sistemas y servicios mencionados en la fracción precedente, dirigidos a prevenir los posibles encadenamientos de riesgos, siniestros o desastres;
+
+VIII.- Promover la actualización y aplicación de políticas y normas encaminadas al uso de suelo adecuado en las zonas propensas a riesgos, siniestros y desastres;
+
+IX.- Elaborar, publicar y divulgar guías técnicas para el diseño de Programas de formación de Inspectores y/o Asesores en materia de protección Civil;
+
+X.- Supervisar conjuntamente con las autoridades federales responsables de la capacitación, las acciones que en la materia de Protección Civil, realicen organizaciones civiles, empresas capacitadoras e instructores independientes a la ciudadanía en general, organismos privados o Municipios;
+
+XI.- Emitir la guía para la obtención de las cartas de corresponsabilidad que las empresas capacitadoras, de consultaría, de asesoría y estudio de riesgos de vulnerabilidad, así como instructores profesionales independientes registrados ante la Secretaria de Protección Civil solicitan;
+
+XII.- Llevar a cabo el control de riesgos que surjan en el Estado; y
+
+XIII.- Todas las demás que le sean asignadas por la Ley, su Reglamento o designadas por el Consejo Estatal de Protección Civil.
 
 ###### Artículo 34.
 
-El Juez, valorando las circunstancias personales del infractor, podrá acordar la suspensión de la sanción impuesta y señalar los días, horas y lugares en que se llevarán a cabo las actividades de apoyo a la comunidad y, sólo hasta la ejecución de las mismas cancelará la sanción de que se trate.
+Corresponde al titular de la Unidad Estatal de Protección Civil, además de lo contemplado en el Artículo 25 de la Ley:
 
-La Administración Pública del Distrito Federal y las Delegaciones enviarán a la Consejería propuestas de actividades de apoyo a la comunidad para que sean cumplidas por los infractores, siguiendo los lineamientos y equivalencias de tiempo que ella misma determine.
+I.- Promover la difusión implementación y desarrollo de la cultura de Protección Civil en todo el territorio del Estado;
 
-En todos los casos, el Juez hará del conocimiento del infractor la prorrogativa a que se refiere este artículo.
+II.- Coordinar las acciones de atención, mitigación y vuelta a la normalidad en todas aquellas situaciones que se contemplen o afecten a un alto número de la Población, por la ocurrencia de un agente perturbador;
 
-### CAPÍTULO II. PROCEDIMIENTO POR PRESENTACION DEL PROBABLE INFRACTOR
+III.- En los términos de la fracción XI del Artículo 21 de la Ley, el Secretario Técnico del Consejo y Director de la Unidad Estatal, deberá realizar estudios financieros que sean necesarios en función de los gastos de los servicios de reducción de riesgos, atención a emergencias y en general todos aquellos gastos que por motivo u origen del desarrollo de las estructuras de Protección Civil requiriera; y
+
+IV.- Todas las demás que se le asigne a través de la Ley o el presente Reglamento.
+
+### CAPITULO CUARTO. DE LOS SISTEMAS MUNICIPALES
 
 ###### Artículo 35.
 
-Para los efectos de esta ley, se entiende por actividades de apoyo a la comunidad la prestación de servicios voluntarios y honoríficos de orientación, limpieza, conservación, restauración u ornato, en lugares localizados en la circunscripción territorial en que se hubiere cometido la infracción.
+Los Sistemas Municipales de Protección Civil, por ser la base del Sistema Nacional de Protección Civil, están obligados a estar conformados de la siguiente manera:
+
+I.- El Consejo municipal de protección civil;
+
+II.- La Unidad municipal de protección civil;
+
+III.- Los grupos voluntarios, representantes de los sectores social, privado y las instituciones educativas; y
+
+IV.- El centro municipal de operaciones.
+
+Debiendo existir en lo referente a su consejo y unidad, una aprobación por parte del ayuntamiento, a través de una acta de cabildo debidamente avalada.
 
 ###### Artículo 36.
 
-Son actividades de apoyo a la comunidad:
-
-I. Limpieza, pintura o restauración de centros públicos educativo, de salud o de servicios;
-
-II. Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
-
-III. Realización de obras de ornato en lugares de uso común;
-
-IV. Realización de obras de balizamiento, limpia o reforestación en lugares de uso común;
-
-V. Impartición de pláticas a vecinos o educandos de la comunidad en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor.
+Todos y cada uno de los Sistemas Municipales del Estado, están obligados a enviar copia de su conformación a la Unidad Estatal, así como notificación de cualquier suceso o presencia de agente perturbador en su momento.
 
 ###### Artículo 37.
 
-Las actividades de apoyo a la comunidad se llevarán a cabo bajo la supervisión de personal de la Consejería para el caso de las actividades que se desarrollen en las áreas centrales, y de la Delegación en caso de que las actividades se realicen en la misma, atendiendo a los lineamientos que determine la Consejería.
+Para los Sistemas y sus Consejos Municipales Serán atribuciones y obligaciones además de las mencionadas por la Ley de Protección Civil para el Estado, las siguientes:
 
-Los titulares de las áreas de la Administración Pública del Distrito Federal y los Jefes Delegacionales proporcionarán los elementos necesarios para la ejecución de las actividades de apoyo a la comunidad y mensualmente harán del conocimiento de la Consejería los lugares, horarios y actividades que podrán realizarse en términos de este capítulo.
+I.- La operación de cada Sistema Municipal, será determinada por cada Ayuntamiento, conforme a la Ley Orgánica Municipal en vigor;
 
-### CAPÍTULO III. PROCEDIMIENTO POR QUEJA
+II.- Cada Sistema Municipal desarrollará un reglamento de Protección Civil, basándose en la normatividad Estatal, así como la propuesta de Bando de buen Gobierno enviada por el Sistema Nacional;
 
-> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+III.- Todos los Sistemas Municipales tendrán la obligación de desarrollar sus programas, en coordinación con el Sistema Estatal, y de acuerdo con la normatividad que éste expida;
+
+IV.- Participar en los programas de capacitación en materia de Protección Civil, para los niveles de preescolar, educación básica y media superior;
+
+V.- Organizar y llevar a efecto campañas permanentes para publicación y difusión de estudios, investigaciones y cualquier acción que contribuyan al cumplimiento de las políticas de Protección Civil y a inducir la participación solidaria y responsable de la ciudadanía conjuntamente con sus autoridades;
+
+VI.- Elaborar publicar y difundir: manuales, circulares e información de prevención y autoprotección en el hogar, en la vía pública, en el trabajo, así como en lugares que por su naturaleza o destino, produzcan afluencia masiva de personas;
+
+VII.- Desarrollar su Atlas Municipal de Riesgos;
+
+VIII.- Compilar y analizar la información que deberá incorporarse al Atlas Municipal de Riesgos;
+
+IX.- Presentar un informe mensual por escrito a la Unidad Estatal, donde se reporte todas y cada una de las acciones desarrolladas durante el periodo de tiempo reportado; y
+
+X.- Todos aquellos que le marque la Ley y el presente Reglamento.
+
+### CAPITULO QUINTO. DE LA PARTICIPACION SOCIAL (SIC) GRUPOS VOLUNTARIOS
 
 ###### Artículo 38.
 
-En el supuesto de que el infractor no realice las actividades de apoyo a la comunidad, el Juez emitirá la orden de presentación a efecto de que la sanción impuesta sea ejecutada de inmediato.
+El Consejo Estatal y los Consejos Municipales de Protección Civil, según corresponda, deberán realizar además de las acciones de promoción a la participación social establecidas en la Ley de Protección Civil para el Estado de Guanajuato, las siguientes:
+
+l.- Promover, impartir y verificar que se imparta la capacitación específica en Materia de Protección Civil, con prioridad a los Sistemas Municipales y a los miembros de los diversos Grupos Voluntarios que estén conformados dentro del territorio del Estado y que estén debidamente inscritos en el Padrón Estatal de grupos de apoyo en Protección Civil;
+
+II.- Organizar y poner en funcionamiento el Padrón Estatal de grupos voluntarios de apoyo de Protección Civil, elaborando inventarios a nivel Estado de recursos humanos, materiales e institucionales disponibles para casos de emergencia; y
+
+III.- Divulgar por cualquier medio los lineamientos del Programa General y los subprogramas de prevención, para inducir en el voluntariado y en la ciudadanía una conciencia de Protección Civil y de Solidaridad.
 
 ###### Artículo 39.
 
-Los procedimientos que se realicen ante los Juzgados, se iniciarán con la presentación del probable infractor por el elemento de policía, con la queja de particulares por la probable comisión de infracciones, o por remisión de otras autoridades que pongan en conocimiento al Juez Cívico hechos presuntamente considerados infracciones a esta Ley y demás ordenamientos aplicables, en caso de ser competente, así lo acordará y continuará con el procedimiento.
+Todos los habitantes del Estado de Guanajuato, estarán en la libertad de agruparse libre y voluntariamente en grupos para participar y apoyar solidariamente y coordinadamente para apoyar a aquellos grupos de población que hayan sufrido el impacto de algún agente perturbador, contemplado en la Ley o el presente Reglamento, pudiendo integrarse en cualesquiera de las siguientes modalidades:
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+l.- De organizaciones obreras, industriales y/o empresariales;
+
+II.- De organizaciones campesinas y comunidades rurales;
+
+III.- De agricultores y Ganaderos;
+
+IV.- De organizaciones comerciales, turísticas y de servicios;
+
+V.- De instituciones educativas, académicas, y de investigación;
+
+VI.- De profesionistas especializados en Protección Civil o áreas afines;
+
+VII.- De organizaciones civiles, instituciones lucrativas y no lucrativas;
+
+VIII.- De representaciones sociales y particulares interesadas en la Protección Civil;
+
+IX.- De las dependencias del sector público; y
+
+X.- De los cuerpos voluntarios de Bomberos y las organizaciones de atención Prehospitalaria.
 
 ###### Artículo 40.
 
-Será de aplicación supletoria a las disposiciones de este título, la legislación de procedimientos penales aplicable al Distrito Federal.
+Para efecto de dar cumpliendo al registro al padrón estatal de Grupos Voluntarios, estos deberán presentar ante la Unidad Estatal de Protección Civil además de lo contemplado en la Ley, los siguientes requisitos:
 
-Cuando en los procedimientos que establece esta Ley, obren datos, medios o elementos de prueba obtenidos por Seguridad Pública con equipos y sistemas tecnológicos, las mismas tendrán el alcance probatorio que se señale en la legislación aplicable.
+l.- Presentar solicitud debidamente suscrita por el representante que cuente con facultades para ello;
+
+II.- Copia certificada del acta constitutiva, debidamente autorizada por la Secretaria de Relaciones Exteriores y debidamente registrada ante el Registro Público de la Propiedad y del Comercio;
+
+III.- Copia certificada del acta que acredite la personalidad del promovente;
+
+IV.- Comprobante del domicilio social y teléfono;
+
+V.- Directorio actualizado de los dirigentes de la asociación;
+
+VI.- Contar con un mínimo de 15 elementos, los cuales deben acreditar la capacitación especifica, según vaya a ser la actividad del grupo;
+
+VII.- Copia de su registro ante la autoridad correspondiente (Secretaría de Hacienda y Crédito Público) en la modalidad que les corresponda;
+
+VIII.- Inventario del parque vehicular, definiendo cada tipo de unidad según la siguiente clasificación:
+
+a).- Ambulancias;
+
+b).- Vehículo de rescate;
+
+c).- Transporte de personal;
+
+d).- Grúas;
+
+e).- Remolques;
+
+f).-De apoyo logístico; y
+
+g).- Otros, especificando el tipo de que se trate.
+
+IX.- Copia del documento que acredite la propiedad o legitima posesión de cada unidad integrante del parque vehicular;
+
+X.- Relación del equipo con que disponga en cada uno de los vehículos;
+
+XI.- Relación del equipo complementario con que se cuente y que no este incluido en la fracción anterior;
+
+XII.- Fotografía de los vehículos debidamente rotulados;
+
+XIII.- En el caso de ambulancias, copia del aviso de apertura y autorización otorgado por la autoridad competente en la materia;
+
+XIV.- Copia de la póliza de seguro vigente que ampare la responsabilidad civil ante terceros de las unidades del parque vehicular;
+
+XV.- Fotografía a color de los uniformes que utilicen;
+
+XVI.- Fotografía a color del escudo o emblema correspondiente;
+
+XVII.- Listado de las frecuencias de radio que utilicen para las transmisiones y copia de la autorización de uso correspondiente de la misma, expedida por la autoridad correspondiente ante la Secretaría de Comunicaciones y Transportes;
+
+XVIII.- Visto Bueno del Sistema Municipal correspondiente, y si no lo hubiese en su Municipio, del C. Presidente Municipal en turno; y
+
+XIX.- Copia del formato o carnet de identificación que utilice el personal.
 
 ###### Artículo 41.
 
-El procedimiento será oral y publico y se sustanciará en una sola audiencia.
-
-Las actuaciones deberán constar por escrito y permanecerán en el local del Juzgado hasta que la Consejería determine su envío al archivo general para su resguardo.
+Además de los requisitos a que se refiere el artículo anterior, para las organizaciones civiles de sanidad, salud y atención Prehospitalaria, deberán presentar carta responsiva del médico responsable de los servicios que preste la organización, anexando copia de su cédula profesional
 
 ###### Artículo 42.
 
-Cuando el probable infractor no hable español, o se trate de un sordomudo, y no cuente con traductor o intérprete, se le proporcionará uno, sin cuya presencia el procedimiento administrativo no podrá dar inicio.
+Una vez presentada la documentación ante la Unidad Estatal, ésta deberá revisarla y notificar al promovente en un máximo de tres días, si existiera alguna carencia de datos o solicitud de comprobación de cualesquiera de los documentos, una vez cubiertos los requisitos anteriormente previstos, la Unidad Estatal entregará al promovente la constancia de registro definitivo en un plazo no mayor de siete días hábiles contados a partir del día siguiente en que la documentación hubiese sido entregada completamente, y sin que la Unidad Estatal hubiere solicitado aclaración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
+En caso de que la autoridad no conteste en el plazo arriba indicado, se entenderá que no existe ningún inconveniente y el promovente solicitará la entrega del registro definitivo.
 
 ###### Artículo 43.
 
-En caso de que el probable infractor sea adolescente, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
+El Registro definitivo que extienda la Unidad Estatal deberá contener:
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+I.- El número de Registro;
 
-En tanto acude quien custodia o tutela al adolescente, éste deberá permanecer en la oficina del Juzgado, en la sección de adolescentes. Si por cualquier causa no asistiera el responsable del adolescente en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante de la Administración Pública del Distrito Federal para que lo asista y defienda, que podrá ser un Defensor Público, después de lo cual determinará su responsabilidad.
+II.- Nombre del grupo voluntario;
 
-En caso de que el adolescente resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
+III.- Domicilio del mismo; y
 
-Cuando se determine la responsabilidad de un adolescente en la comisión de alguna de las infracciones previstas en este ordenamiento, en ningún caso se le impondrá como sanción el arresto.
+IV.- Actividad a la que se dedican.
 
-Si a consideración del Juez el adolescente se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente
+La Unidad Estatal está obligada a llevar un registro de Grupos inscritos en el Padrón estatal, dicho Registro deberá revalidarse anualmente.
 
 ###### Artículo 44.
 
-Si después de iniciada la audiencia, el probable infractor acepta la responsabilidad en la comisión de la infracción imputada tal y como se le atribuye, el Juez dictará de inmediato su resolución e impondrá la menor de las sanciones para la infracción de que se trate, excepto en los casos previstos en los artículos 28, 29, 31 y 32. Si el probable infractor no acepta los cargos, se continuará el procedimiento.
+El número de registro correspondiente a cada organización civil será único y tendrá una vigencia indefinida. La Unidad Estatal podrá revocar administrativamente el registro otorgado cuando se incurra en violaciones a la Ley, este Reglamento o cualquier otra disposición relacionada con la Protección Civil, o se verifique la inexactitud de la información proporcionada al tramitar el Registro.
 
 ###### Artículo 45.
 
-Cuando el infractor opte por cumplir la sanción mediante un arresto, el Juez dará intervención al médico para que determine su estado físico y mental antes de que ingrese al área de seguridad.
+Las organizaciones civiles deberán presentar ante la Unidad Estatal un aviso bajo protesta de decir verdad, dentro del término de siete días hábiles, cuando se presenten cualesquiera de los supuestos siguientes:
+
+I.- Cambio de domicilio;
+
+II.- Modificación de la integración de sus órganos de gobierno o bien de sus representantes legales;
+
+III.- Altas o Bajas en su parque vehicular;
+
+IV.- Cuando su número de integrantes sea menor a 15 personas; y
+
+V.- Cualesquier situación en la cual la Unidad deba tener injerencia.
 
 ###### Artículo 46.
 
-El Juez determinará la sanción aplicable en cada caso concreto, tomando en cuenta la naturaleza y las consecuencias individuales y sociales de la infracción, las condiciones en que ésta se hubiere cometido y las circunstancias personales del infractor, pudiendo solicitar a la Dirección la condonación de la sanción, en los casos en que las especiales circunstancias físicas, psicológicas, económicas y, en general, personales del infractor lo ameriten, de acuerdo a su consideración y a petición expresa del mismo o de persona de su confianza, observando los lineamientos que para tales efectos dicte la Consejería.
+Durante la realización de actividades de protección Civil, el personal de las organizaciones civiles, deberá portar en forma visible la identificación personal con fotografía en el formato que le haya sido autorizado por la Unidad Estatal.
 
 ###### Artículo 47.
 
-Si el infractor fuese jornalero, obrero, o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariado (sic), la multa no excederá del equivalente a un día de su ingreso. Tratándose de personas desempleadas o sin ingresos, la multa máxima será el equivalente a un día de salario mínimo. Los medios para la acreditación de estas condiciones deberán ser indubitables.
+En casos de alto riesgo, emergencia, siniestro o desastre, las organizaciones civiles, deberán coordinarse con la Unidad Estatal o Unidades Municipales de Protección Civil, para la atención de dicho problema.
 
 ###### Artículo 48.
 
-Al resolver la imposición de una sanción, el Juez apercibirá al infractor para que no reincida, haciéndole saber las consecuencias sociales y jurídicas de su conducta.
+Para efecto de implementar las acciones preventivas y en su caso las acciones inmediatas de atención ante la presencia de algún agente perturbador, se crea la figura de Unidades y brigadas vecinales o comunales, las cuales deberán ser, coordinadas por la Unidad municipal de Protección Civil correspondiente, en los términos de los lineamientos que al efecto expida la Unidad Estatal.
 
 ###### Artículo 49.
 
-El Juez notificará, de manera personal e inmediata, la resolución al presunto infractor y al quejoso, si estuviera presente.
+Corresponde a los grupos voluntarios, además de lo marcado por el artículo 37 de la Ley, llevar a cabo las siguientes atribuciones:
 
-### CAPÍTULO IV.. PROCEDIMIENTO EN CASOS DE DAÑO CULPOSO CAUSADO CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
+l.- Coordinarse con la autoridad municipal correspondiente y el responsable de Protección Civil Municipal, para todos aquellos operativos que se realicen para la obtención de fondos económicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- Cumplir todas las disposiciones que establezca el padrón de registro; y
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+III.- Todas las demás establecidas en el presente reglamento.
 
-###### Artículo 77 Bis.
-
-Cuando se actualicen las conductas previstas en la fracción XVIII del artículo 25 de esta Ley, y las personas involucradas se encuentren ante la presencia del Juez, éste hará de su conocimiento, dejando constancia escrita de ello, los beneficios de conciliar sus intereses; la sanción que puede ser impuesta al responsable de los daños en caso de no llegar a un arreglo; la situación de los vehículos implicados; las actuaciones, alcances y efectos del procedimiento de conciliación; así como los derechos y acciones que, en su caso, pueden ejercer ante la autoridad judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 1.
-
-El Juez Cívico tomará la declaración de los conductores involucrados y, en su caso, de los testigos de los hechos, en los formatos que para el efecto se expidan, e inmediatamente después dará intervención, dejando constancia escrita de ello, a los peritos en tránsito terrestre de la Consejería Jurídica y de Servicios Legales. Así como admitirá y desahogará como pruebas las demás que, a su juicio, sean idóneas en atención a las conductas imputadas por el quejoso.
-
-Cuando alguno de los conductores se niegue a rendir su declaración, se dará preponderancia, para la emisión del dictamen de tránsito terrestre, valoración de las probanzas y emisión de la resolución correspondiente, a las declaraciones rendidas por los demás conductores y testigos de los hechos. Los peritos en tránsito terrestre, en todos los casos, deberán rendir el dictamen correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 2.
-
-Los peritos rendirán su dictamen ante el Juez, en un plazo que no excederá de cuatro horas contadas a partir de que se solicite su intervención.
-
-Cuando el número de vehículos implicados sea superior a cuatro, el juez podrá ampliar el plazo para la entrega del dictamen hasta por dos horas.
-
-Si el perito rinde su dictamen fuera de los plazos previstos en este artículo, el Juez notificará de esta irregularidad a las autoridades competentes, para los efectos sancionatorios administrativos conducentes, sin afectar la validez del dictamen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 3.
-
-El Juez Cívico, con la presencia de los involucrados y con base en el dictamen pericial y demás elementos de prueba que tenga a su alcance, celebrará audiencia en la que hará del conocimiento de los conductores el resultado del dictamen, así como el monto de los daños causados, y procurará su avenimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 4.
-
-Cuando los conductores involucrados lleguen a un acuerdo, se hará constar por escrito el convenio respectivo y se eximirá de la imposición de las sanciones a que se refiere el artículo 25 de este ordenamiento a quien acepte la responsabilidad o resulte responsable de los daños causados.
-
-Al conductor o conductores que no resulten responsables de los daños, les serán devueltos sus vehículos sin mayor trámite.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 5.
-
-El convenio que, en su caso, suscriban los interesados, ante la presencia del Juez, será válido y traerá aparejada ejecución en vía de apremio ante los juzgados civiles del Distrito Federal, quienes sólo podrán negarse a ordenar su ejecución cuando dicho instrumento tenga un objeto distinto a la reparación del daño.
-
-Para su validez, en todo convenio se hará constar la forma en que se garantice su cumplimiento, a través de alguna de las formas previstas en la ley correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 6.
-
-Cuando alguno de los conductores manifieste su voluntad de no conciliar sus intereses, el Juez actuará de conformidad con lo siguiente:
-
-I. Impondrá al responsable o responsables de los daños, mediante resolución, la sanción que corresponda en términos de lo dispuesto en este ordenamiento, tomando en cuenta el dictamen pericial y los demás elementos probatorios que se hayan desahogado; dejando a salvo los derechos de las partes por cuanto hace a la reparación del daño;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-II. Proporcionará al agraviado, en su caso, el formato de demanda respectivo para su llenado con auxilio de un defensor que le asigne la Defensoría Pública del Distrito Federal;
-
-III. Cuando el conductor responsable garantice el pago de los daños le devolverá el vehículo que conducía; en caso contrario, si se presentó la demanda, lo pondrá a disposición del Juez de Paz Civil en cumplimiento a la determinación del auto inicial;
-
-IV. Una vez firmada la demanda la enviará, inclusive por vía electrónica, dentro del plazo de doce horas al Juez de Paz Civil en turno;
-
-V. Inmediatamente que reciba el auto inicial del Juez de Paz Civil en turno, le dará el cumplimiento que corresponda en sus términos, con relación a los vehículos involucrados o lo que se determine; y
-
-VI. Remitirá a la autoridad judicial, dentro de las 24 horas siguientes a la determinación de responsabilidad administrativa y cuando la remisión de la demanda sea por vía electrónica, los originales del expediente formado.
-
-Cuando se prevenga la demanda por causas provocadas por el agraviado y no se desahogue, se procederá en los términos del artículo siguiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-###### Artículo 77 Bis 7.
-
-Si el agraviado manifestara su voluntad de no presentar su demanda en ese momento o solicitara como reparación del daño una cantidad que exceda del veinte por ciento del monto establecido en el dictamen emitido por los peritos adscritos a la Consejería Jurídica y de Servicios Legales, el Juez hará constar tal circunstancia dejando a salvo sus derechos para que los haga valer por la vía que estime procedente, en un plazo no mayor de dos años a partir de esa fecha, ordenando la liberación del vehículo conducido por el responsable.
-
-En cualquier caso, el Juez, expedirá a la parte que lo solicite, copia certificada de las actuaciones realizadas ante él.
+### CAPITULO SEXTO. DE LAS UNIDADES INTERNAS DE PROTECCION CIVIL
 
 ###### Artículo 50.
 
-Si el probable infractor resulta no ser responsable de la infracción imputada, el Juez resolverá en ese sentido y le autorizará que se retire.
+En todos los centros en donde por sus características, exista la posibilidad de concentración de personas bien sean clientes, espectadores, participantes de actividades deportivas, sociales o públicas deberán contar un (sic) una Unidad interna de Protección Civil, la cual además, de lo marcado en la Ley de Protección Civil, deberán llevar a cabo las siguientes acciones:
 
-Si resulta responsable, al notificarle la resolución, el Juez le informará que podrá elegir entre cubrir la multa o cumplir el arresto que le corresponda; si sólo estuviere en posibilidad de pagar parte de la multa, se le recibirá el pago parcial y el Juez le permutará la diferencia por un arresto, en la proporción o porcentaje que corresponda a la parte no cubierta, subsistiendo esta posibilidad durante el tiempo de arresto del infractor.
+l.- Para guía de establecimientos contemplados en el párrafo anterior y de los cuales estarán obligados sus propietarios, responsables, gerentes o administradores de los inmuebles, cuyas actividades queden contemplados en la siguiente lista:
+
+a) Teatros;
+
+b) Cines;
+
+c) Bares;
+
+d) Restaurantes;
+
+e) Discotecas;
+
+f) Centros Comerciales;
+
+g) Bibliotecas;
+
+h) Centros deportivos;
+
+i) Estadios y plazas de toros;
+
+j) Escuelas públicas y privadas;
+
+k) Clínicas, hospitales y sanatorios;
+
+l) Aeropuertos;
+
+m) Templos;
+
+n) Hoteles y centros de hospedaje;
+
+o) Ferias, incluyendo juegos mecánicos y eléctricos;
+
+p) Centros de espectáculos y masivos;
+
+q) Panaderías;
+
+r) Estaciones de servicio (gasolineras), (plantas almacenadoras y distribuidoras de gas, L.P.), (Estaciones de carburación de gas, L.P.);
+
+s) Laboratorios con procesos industriales;
+
+t) Industria con procesos contemplados de mediano y alto riesgo;
+
+u) Todos aquellos lugares no contemplados en la lista precedente, y que usualmente tengan una concentración superior a 50 personas incluyendo sus empleados.
+
+II.- Contar con un programa de contingencias, que incluya: recursos humanos, recursos materiales, acciones en el ámbito interno para la atención a contingencias, según se trate el riesgo, descripción de las acciones en caso de que la vecindad a las instalaciones pudiera verse afectada por o como consecuencia de la emergencia;
+
+III.- Contar con brigadas capacitadas y con equipo apropiado para la atención de acciones de control de incendios, evacuación, salvamento, rescate y primeros auxilios, en número adecuado con el total de sus empleados y número de afluencia de personas;
+
+IV.- Contar con señalización de rutas de evacuación y salidas de emergencias conforme a las normas vigentes;
+
+V.- Contar con equipos de control de incendios de acuerdo a los riesgos que manejan y para los cuales deberán aplicar las medidas mencionadas en las normas vigentes para tal efecto;
+
+VI.- Las puertas de salida deberán abrir para afuera, no estar obstruidas, estar iluminadas conforme a lo marcado en las normas vigentes para tal efecto;
+
+VII.- Aquellas negociaciones que sus materias y productos finales, estén catalogados como material de alto riesgo, conforme a las normas vigentes en la materia, y cuyo transporte se efectúe por vía terrestre, deberán presentar ante la Unidad Estatal de Protección Civil, una relación de vehículos utilizados para el transporte y/o distribución del o los productos, a través del territorio del Estado, llenando el formulario emitido por la Unidad Estatal. En aquéllos casos en que el modo de transporte sea contratado vía FF.CC. o autotransporte, se deberá informar qué compañía es la responsable de dichos traslados; y
+
+VIII.- Todas aquéllas que durante una inspección sean mencionadas por la Unidad Estatal y que estén sustentadas en normas vigentes relacionadas con la materia.
 
 ###### Artículo 51.
 
-En los casos en que el infractor opte por cumplir el arresto correspondiente, tendrá derecho a cumplirlo en las condiciones necesarias de subsistencia.
+Los establecimientos mercantiles o industriales, no listados en el artículo anterior y que sean considerados de bajo riesgo deberán:
 
-Durante el tiempo de cumplimiento del arresto, el infractor podrá ser visitado por sus familiares o por persona de su confianza; así como de representantes de asociaciones u organismos públicos o privados, cuyos objetivos sean de trabajo social y cívico, acreditados ante la Consejería para estos efectos.
+I.- Contar con un extinguidor con agente extintor apto para fuegos tipo ABC con capacidad de 9 kgs. Y uno basándose en CO2, si manejan equipos eléctricos o de cómputo especifico para fuegos tipo C, respetando la vigencia del mismo, para lo cual aplicaran lo marcado en las normas vigentes correspondientes;
+
+II.- Contar dentro del inmueble y a la vista de todos con instructivos oficiales de conductas, a seguir, en caso de emergencias, sismos, incendios, etc.; ubicados en lugares de alto transito, tales como pasillos, accesos, salas de espera, etc.
+
+III.- Contar con señalamientos conforme a norma sobre rutas de evacuación y salidas de emergencia;
+
+IV.- Si se cuenta con servicios de gas sea natural o L.P., contar con un dictamen expedido por una Unidad de Verificación debidamente autorizada por la autoridad correspondiente; y
+
+V.- Dar mantenimiento apropiado a sus sistemas eléctrico e hidráulicos por lo menos una vez al año.
 
 ###### Artículo 52.
 
-Para conservar el orden en el Juzgado, el Juez podrá imponer las siguientes correcciones disciplinarias:
+Todos los programas internos de Protección Civil, deberán:
 
-I. Amonestación;
+l.- Satisfacer los requisitos que señalen los términos de referencia emitidos por la autoridad correspondiente;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+II.- Estar actualizados cuando sufran modificaciones tecnológicas, estructurales o de organización;
 
-II. Multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente; tratándose de jornaleros, obreros, trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 47 de esta Ley, y
+III.- Contar una carta de corresponsabilidad, expedida por una Unidad debidamente registrada ante la Unidad Estatal de Protección Civil, conjuntamente con el programa interno de Protección Civil especifico para el inmueble en cuestión; y
 
-III. Arresto hasta por 12 horas.
+IV.- Contar con un programa de capacitación en materia de Protección Civil, el cual incluya su aplicación a todo el personal inclusive el de nuevo ingreso. Debidamente registrado ante la autoridad correspondiente.
 
 ###### Artículo 53.
 
-Los Jueces a fin de hacer cumplir sus órdenes y resoluciones, podrán hacer uso de los siguientes medios de apremio:
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-I. Multa por el equivalente de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente; tratándose de jornaleros, obreros, trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 47 de esta Ley, y
-
-II. Arresto hasta por 12 horas, y
-
-III. Auxilio de la fuerza pública.
+El programa interno de Protección Civil deberá presentarse ante la Unidad municipal de Protección Civil en donde se ubique el establecimiento o si esta no estuviera conformada ante la Unidad Estatal.
 
 ###### Artículo 54.
 
-La acción para el inicio del procedimiento es pública y su ejercicio corresponde a la Administración Pública del Distrito Federal por conducto de los policías, los cuales serán parte en el mismo.
+El programa interno deberá ser presentado junto con un plano de distribución de las instalaciones en las cuales se indicará rutas de evacuación, localización de equipos contra incendio, todo ello evaluado conforme a las normas vigentes correspondientes. Así como copia de la póliza de seguro de responsabilidad civil correspondiente.
+
+Cuando el programa interno de Protección Civil sea presentado, deberá ser acompañado por la carta de responsabilidad de un tercer acreditado previsto en el Artículo 2º fracción XXI de la ley de Protección Civil, con aviso bajo protesta de decir verdad, en caso de que el programa se presente sin la carta de corresponsabilidad.
 
 ###### Artículo 55.
 
-El policía en servicio detendrá y presentará al probable infractor inmediatamente ante el Juez, en los siguientes casos.
-
-I. Cuando presencien la comisión de la infracción, y
-
-II. Cuando sean informados de la comisión de una infracción inmediatamente después de que hubiese sido realizada o se encuentre en su poder el objeto o instrumento, huellas o indicios que hagan presumir fundadamente su participación en la infracción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
-
-En el caso de la fracción XVIII del artículo 25 de la Ley, si las partes involucradas no se ponen de acuerdo en la forma de la reparación del daño, el policía remitirá el o los vehículos involucrados al depósito y notificará de los hechos al Juez. Cuando las partes lleguen a un acuerdo sobre la reparación de los daños antes del inicio del procedimiento, el Juez liberará los vehículos dejando constancia de la voluntad de las partes.
-
-El policía que se abstenga de cumplir con lo dispuesto en este artículo, será sancionado por los órganos competentes de la Secretaría, en términos de las disposiciones aplicables.
+Para las empresas de nueva creación que requieran un programa interno de Protección Civil, deberán presentarlo en un plazo no mayor de 120 días después del inicio de actividades.
 
 ###### Artículo 56.
 
-La detención y presentación del probable infractor ante el Juez, constará en una boleta de remisión, la cual contendrá por lo menos los siguientes datos:
-
-I. Nombre, edad y domicilio del probable infractor, así como los datos de los documentos con que los acredite;
-
-II. Una relación de los hechos que motivaron la detención, describiendo las circunstancias de tiempo, modo, lugar así como cualquier dato que pudiera contribuir para los fines del procedimiento;
-
-III. Nombre, domicilio del ofendido o de la persona que hubiere informado de la comisión de la infracción, si fuere el caso, y datos del documento con que los acredite. Si la detención es por queja, deberán constar las circunstancias de comisión de la infracción y en tal caso no será necesario que el quejoso acuda al Juzgado;
-
-IV. En su caso, la lista de objetos recogidos, que tuvieren relación con la probable infracción;
-
-V. Nombre, número de placa o jerarquía, unidad de adscripción y firma del policía que hace la presentación, así como en su caso número de vehículo; y
-
-VI. Número del juzgado al que se hará la presentación del probable infractor, domicilio y número telefónico.
-
-El policía proporcionará al quejoso, cuando lo hubiere, una copia de la boleta de remisión e informará inmediatamente a su superior jerárquico de la detención del probable infractor.
+En referencia a los programas internos de Protección Civil, relacionados con aquellos lugares que estén declarados monumentos históricos, artísticos o bien considerados como patrimonio cultural de la humanidad, la Dirección Estatal promoverá ante las autoridades competentes y relacionadas con los mismos la prestación de asesoría gratuita y especifica a sus propietarios, administradores o responsable, para la integración de sus programas internos y acciones especificas relacionadas con la preservación y cuidados de los mismos.
 
 ###### Artículo 57.
 
-El Juez llevará a cabo las siguientes actuaciones:
+La autoridad aprobará o formulará observaciones por escrito a los programas internos presentados ante la misma en un plazo máximo de 30 días naturales contados a partir del siguiente día de su presentación, brindando la asesoría que requiere el interesado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Transcurrido el plazo mencionado en el párrafo precedente, sin que la autoridad omita respuesta, se entenderá que el programa ha sido aceptado y la respuesta deberá ser afirmativa.
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
-
-I. Dará lectura a la boleta de remisión o en su caso a la queja y si lo considera necesario, solicitará la declaración del policía. Tratándose de la conducta prevista en la fracción XVIII del artículo 25 de la Ley, la declaración del policía será obligatoria. El Juez omitirá mencionar el domicilio del quejoso;
-
-II. Otorgará el uso de la palabra al probable infractor, para que formule las manifestaciones que estime convenientes y ofrezca en su descargo, las pruebas de que disponga;
-
-Se admitirán como pruebas las testimoniales y las demás que a juicio del Juez sean idóneas en atención a las conductas imputadas;
-
-III. Acordará la admisión de las pruebas y las desahogará de inmediato. En el caso de que el probable infractor no presente las pruebas ofrecidas, las mismas serán desechadas en el mismo acto;
-
-IV. Resolverá sobre la responsabilidad del presunto infractor.
-
-Los procedimientos serán desahogados y resueltos de inmediato por el Juez que los hubiere iniciado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Cuando se actualice la conducta prevista en la fracción XVIII del artículo 25 de la Ley y después de concluido el procedimiento establecido en este cuerpo normativo, el Juez ordenará la devolución del vehículo conducido por quien resulte responsable de los daños causados, únicamente cuando se firme el convenio respectivo o quede suficientemente garantizada su reparación; y en caso contrario, pondrá a disposición del Juez de Paz Civil el vehículo conjuntamente con la demanda que al efecto firme el agraviado.
+Cuando la autoridad formule observaciones al programa los particulares lo presentarán nuevamente dentro de un plazo de 7 días hábiles contados a partir del siguiente día de ser notificados. A partir de esa nueva fecha de recepción la autoridad contará con un plazo igual al de presentación para emitir la respuesta correspondiente. Si transcurrido el plazo no se obtuviese respuesta esta se entenderá en sentido afirmativo.
 
 ###### Artículo 58.
 
-El Juez hará del conocimiento del Servicio Público de Localización Telefónica del Distrito Federal lo siguiente:
+Cada dependencia, órgano desconcentrado o entidad de la administración pública, Federal, Estatal o Municipal ubicada dentro del Estado deberá elaborar su correspondiente programa interno de Protección Civil, el cual formará parte integral del programa general de Protección Civil para el Estado de Guanajuato en el cual señalarán:
 
-I. Datos del presentado que consten en la boleta de remisión;
+I.- El responsable del programa;
 
-II. Lugar en que hubiere sido detenido;
+II.- Los procedimientos que apliquen para el caso de alto riesgo, emergencia siniestro o desastre, tanto en el ámbito interno como tratándose de situaciones que afecten a la población;
 
-III. Nombre y número de placa del policía que haya realizado la presentación;
+III.- Sus procedimientos de coordinación;
 
-IV. Sanción que se hubiera impuesto, y
+IV.- Los procedimiento (sic) de comunicación;
 
-V. En su caso, el lugar de ejecución del arresto inmediatamente después de su determinación.
+V.- Los procedimientos de información de la situación prevaleciente cuando aplique;
 
-Respecto de aquellos para los que se hubiera determinado tiempo de recuperación para el inicio del procedimiento o que por otras circunstancias no se hubiera iniciado el mismo, se proporcionará la información a que se refieren las fracciones I a III de este artículo.
+VI.- El directorio de los responsables del programa interno;
+
+VII.- La capacidad de respuesta en función de los bienes y servicios de que disponga; y
+
+VIII.- Los lineamientos para la formulación y actualización del inventario de recursos útiles en Protección Civil.
 
 ###### Artículo 59.
 
-En tanto se inicia la audiencia, el Juez ordenará que el probable infractor sea ubicado en la sección correspondiente, excepción hecha de las personas mayores de 65 años, las que deberán permanecer en la sala de audiencias.
+Los programas a que se refiere el Artículo Anterior deberán ser presentados ante la Unidad Estatal de Protección Civil, con la oportunidad tal que permita la actualización del programa general de Protección Civil para el Estado de Guanajuato, en los términos que marque el presente reglamento.
 
-### CAPÍTULO ÚNICO. CONSEJO DE JUSTICIA CÍVICA
+### CAPITULO SEPTIMO. DE LOS PROGRAMAS ESPECIALES
 
 ###### Artículo 60.
 
-Cuando el probable infractor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas o tóxicas, el Juez ordenará al médico que, previó examen que practique, dictamine su estado y señale el plazo probable de recuperación, que será la base para fijar el inicio del procedimiento. En tanto se recupera será ubicado en la sección que corresponda.
+Los promotores organizadores o responsables de la realización de eventos o espectáculos públicos de afluencia masiva a realizarse en áreas o en inmuebles diferentes a su uso habitual deberán previa a su realización, presentar un programa especial de Protección Civil, acorde a las características de tales eventos o espectáculos.
 
 ###### Artículo 61.
 
-Tratándose de probables infractores que por su estado físico o mental denoten peligrosidad o intención de evadirse del Juzgado, se les retendrá en el área de seguridad hasta que se inicie la audiencia.
+Sin perjuicio de las demás disposiciones aplicables, todos los eventos o espectáculos públicos o masivos de que trata el artículo anterior estarán sujetos a lo siguiente:
+
+I.- El organizador quedará obligado a implementar las medidas de Protección Civil que se le indiquen, así como las que la Dirección de Seguridad Pública correspondiente y demás autoridades que se consideren pertinentes;
+
+II.- Los dispositivos de Protección Civil comprenderán el sitio y el perímetro donde se desarrolle incluyendo rutas de acceso y estacionamientos, para salvaguardar a los asistentes y vecinos del lugar, así como sus bienes y entorno;
+
+III.- La utilización de tribunas, templetes u otras estructuras temporales en el área del evento o espectáculo, obligará al organizador a presentar carta responsiva del profesional a cargo de la obra, con el visto bueno de la autoridad de Obras Públicas correspondientes en los términos del reglamento de construcciones correspondiente y las demás disposiciones aplicables;
+
+IV.- Las modificaciones y adecuaciones físicas que se realicen en el lugar del evento o espectáculo serán supervisadas por las dependencias órganos desconcentrados y/o entidades de la administración pública correspondiente en el ámbito de su competencia;
+
+V.- Los cuerpos de seguridad privada y los servicios médicos y pre-hospitalaria que atiendan el evento o espectáculo, deberán ser contratados por el organizador, estar legalmente constituidos y registrados por la autoridad correspondiente;
+
+VI.- Previo al evento y durante el mismo, la Unidad Estatal o Municipal de Protección Civil, o en coordinación entre ellos, supervisará, evaluará, y sancionará los cumplimientos de las medidas de Protección Civil propias del evento o espectáculo;
+
+VII.- La Unidad Estatal o Municipal, o en coordinación entre ellos, junto con el organizador, establecerán un puesto de coordinación en el lugar del evento, siendo obligación del propio organizador brindar todos los recursos que pudieran ser necesarios para tal caso;
+
+VIII.- El organizador del evento o espectáculo, pagará a la tesorería correspondiente los derechos, cuotas o cualquier cantidad que resulte de la intervención de la administración pública Estatal o Municipal en la realización del mismo;
+
+IX.- Contar con áreas especificas para situar las zonas a donde vayan a concentrarse las personas evacuadas;
+
+X.- Los servicios médicos, señalamientos y servicios sanitarios deberán ser provistos por el organizador en la cantidad suficiente, conforme al aforo previsto; y
+
+XI.- Los organizadores serán responsables de ejecutar las acciones que le sean mencionadas por las autoridades de Protección Civil y las demás que procedieran.
 
 ###### Artículo 62.
 
-Cuando el probable infractor padezca alguna enfermedad o discapacidad mental, a consideración del médico, el Juez suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo o persona con discapacidad mental y, a falta de éstos, lo remitirá a las autoridades de salud o instituciones de asistencia social competentes del Distrito Federal que deban intervenir, a fin de que se le proporcione la ayuda o asistencia que requiera.
+Los trámites de las autorizaciones de los eventos masivos o espectáculos públicos, se sujetarán a las reglas siguientes:
+
+l.- Tratándose de aquellos con asistencia de 500 a 2500 personas, la Unidad municipal del lugar de realización del evento o espectáculo expedirá la autorización del programa especial de Protección Civil a que haya lugar y será responsable de la adopción de las medidas de Protección Civil que sean pertinentes, según la naturaleza y magnitud del evento.
+
+El organizador del evento deberá presentar el programa especial de Protección Civil con una anticipación de 7 (siete) días hábiles al evento, el cual deberá ser aprobado, o rechazado a mas tardar 3 (tres) días hábiles anteriores al evento. En caso de que la autoridad no de contestación en dicho plazo se entenderá que el programa correspondiente ha sido aprobado.
+
+II.- Tratándose de eventos o espectáculos con asistencia de 2500 a 10000 personas:
+
+a) El organizador presentará ante la Unidad Municipal un desglose por tiempos y actividades del evento en el programa especial de Protección Civil. El plazo para la presentación de ésta, será de 14 (catorce) días hábiles anteriores al evento;
+
+b) Dentro de los 5(cinco) días naturales siguientes a la entrega de la documentación de que trata el inciso anterior, la Unidad Municipal enviará a la Unidad Estatal copia de dicha documentación a efecto de que la misma realice la correspondiente visita de supervisión; y
+
+c) Si los resultados de la visita de supervisión son satisfactorios la Unidad Estatal procederá a expedir la autorización correspondiente.
+
+El programa especial de Protección Civil correspondiente deberá ser aprobado o rechazado máximo 5(cinco) días hábiles anteriores a la celebración del evento
+
+III.- Tratándose de eventos o espectáculos con asistencia mayor a 10,000 personas:
+
+a) Con anticipación mínima de 30 días hábiles al día en que vaya a desarrollarse el evento o espectáculo, deberá presentarse por parte del organizador ante la Unidad de Protección Civil del municipio donde vaya a desarrollarse el mismo, la documentación procesada en el inicio de la fracción anterior;
+
+b) La Unidad receptora iniciará los estudios correspondientes y remitirá a la Unidad Estatal copia de la documentación presentada;
+
+c) Dentro el lapso de 10 días naturales posteriores a la recepción de la documentación la Unidad receptora convocará a una reunión interinstitucional de coordinación con todas las dependencias que pudieran tener injerencia en el desarrollo del evento o espectáculo, en la cual se presentará el proyecto de programa especial así como de las medidas de seguridad correspondiente para su estudio y dictamen preliminar;
+
+d) En el término de 5 días naturales la Unidad receptora formulará un dictamen preliminar derivado de la reunión interinstitucional, mismo que remitirá ante la Unidad Estatal de Protección Civil, a fin de que ésta realice una visita de supervisión; y
+
+e) Si de la visita los resultados son satisfactorios la Unidad Estatal de Protección Civil, procederá a expedir la autorización correspondiente.
+
+El programa especial de Protección Civil correspondiente, deberá ser aprobado o rechazado a mas tardar 7 días hábiles antes de la celebración del evento.
+
+En caso que la autoridad correspondiente no de una respuesta dentro de los plazos señalados en las fracciones II y III del presente artículo se dará por aprobado el programa presentado.
+
+Cuando el organizador presente el programa especial de Protección Civil junto con una carta de corresponsabilidad de un tercero acreditado ante la Unidad Estatal prevista en el Artículo 70 del presente reglamento, solo deberá entregarse el programa junto con un aviso, bajo protesta de decir la verdad.
 
 ###### Artículo 63.
 
-Cuando comparezca el probable infractor ante el Juez, éste le informará del derecho que tiene a comunicarse con persona de su confianza para que le asista y defienda.
+Los organizadores, promotores de espectáculos tradicionales, folklóricos o populares que pretendan presentar o utilizar juegos pirotécnicos en los cuales sean utilizados mas de 20 Kgrs. de material explosivo deberán solicitar autorización de la Unidad Municipal correspondiente por lo menos 14 días naturales antes de la fecha de utilización, mediante los formatos que para tal efecto se expidan, acompañados de los siguientes datos y documentos:
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+l.- Nombre y dirección de los solicitantes;
+
+II.- Teléfono donde pueda ser solicitado;
+
+III.- Lugar, fecha y hora de la quema de los juegos pirotécnicos;
+
+IV.- En su caso, copia del contrato de servicio en el cual sean especificados:
+
+a) Potencia;
+
+b) Tipo; y
+
+c) Cantidad de artificios;
+
+V.- Procedimiento para la atención de emergencias, y
+
+VI.- Croquis del lugar donde se realizará la quema en un radio de 500 mts.
+
+La Unidad receptora tendrá un término de 7 días hábiles para emitir la autorización correspondiente.
+
+En aquellos casos en que se pretenda utilizar juegos pirotécnicos en cualquier otro espectáculo diferente a los marcados en las fracciones precedentes a la información a que se refiere, el presente Artículo en las fracciones I a VI, deberá anexarse el programa especial de Protección Civil.
 
 ###### Artículo 64.
 
-Si el probable infractor solicita comunicarse con persona que le asista y defienda, el Juez suspenderá el procedimiento, dándole dentro del juzgado las facilidades necesarias, y le concederá un plazo que no excederá de dos horas para que se presente el defensor o persona que le asista, si éste no se presenta el Juez le nombrará un Defensor Público; o, a solicitud del probable infractor, éste podrá defenderse por sí mismo, salvo que se trate de menores o incapaces.
+Todas aquéllas personas que se dediquen a fabricar, almacenar, comerciar y utilizar artificios pirotécnicos y explosivos en general, deberán contar con la licencia respectiva expedida por la autoridad federal competente.
+
+Para el otorgamiento de la opinión favorable del Gobernador del Estado, en materia de permisos de explosivos que dicte la Secretaría de la Defensa Nacional, se deberá presentar ante la Dirección General de Gobierno y Servicios Jurídicos, la solicitud y los documentos marcados en el artículo 136 del presente Reglamento.
+
+Se deberán practicar visitas de verificación por parte de verificadores de la Unidad Estatal, para comprobar si el lugar en donde se pretender (sic) realizar las actividades que ampara la solicitud reúne las condiciones de seguridad y mitigación de riesgos, para prever la presentación de cualquier desastre.
 
 ###### Artículo 65.
 
-Los particulares podrán presentar quejas orales o por escrito ante el Juez, por hechos constitutivos de probables infracciones. El Juez considerará los elementos contenidos en la queja y, si lo estima procedente, girará citatorio al quejoso y al presunto infractor.
+Tratándose de situaciones no programadas que puedan implicar algún riesgo socio-organizativo y ante la falta de un programa especial de Protección Civil las autoridades adoptarán todas aquellas medidas de preparación, mitigación y en su caso auxilio que resulten aconsejables, basándose en la naturaleza del mismo siendo responsabilidad del o de los organizadores del evento, cualesquier gasto que con motivo o por el desarrollo del mismo se originen.
 
-En todos los casos la queja deberá contener nombre y domicilio de las partes, relación de los hechos motivo de la queja y firma del quejoso; asimismo cuando el quejoso lo considere relevante podrá presentar fotografías o videograbaciones relacionadas a la probable infracción, las cuales calificará el Juez y tendrán valor probatorio.
-
-### CAPÍTULO I. JUZGADOS CÍVICOS
+### CAPITULO OCTAVO. DE LAS UNIDADES O BRIGADAS VECINALES Y/O COMUNALES
 
 ###### Artículo 66.
 
-El derecho a formular la queja prescribe en quince días naturales, contados a partir de la comisión de la probable infracción. La prescripción se interrumpirá por la formulación de la queja.
+Con la finalidad de ampliar como es debido la promoción y divulgación de la cultura de la Protección Civil, y como un refuerzo a la actuación de las Unidades Municipales de Protección Civil, se promueve a través del presente reglamento, la creación de organizaciones vecinales o comunales que participen activamente en todas y cada una de las acciones preventivas, de auxilio o restablecimiento de la normalidad en sus lugares de residencia.
 
 ###### Artículo 67.
 
-En caso de que el Juez considere que la queja no contiene elementos suficientes que denoten la posible comisión de una infracción, acordará de inmediato, fundando y motivando la improcedencia; debiendo notificar al quejoso en ese mismo acto. Si no fuere posible en ese momento, dejará constancia del motivo y tendrá un término de tres días para hacerlo.
-
-La resolución a la que se refiere el párrafo anterior, podrá ser revisada a petición del quejoso, para efectos de su confirmación o revocación por la Consejería, a través del recurso de inconformidad que se hará valer dentro de los diez días hábiles siguientes a su notificación. La Consejería resolverá de plano en un término igual notificando su resolución al quejoso y al Juez para su cumplimiento.
+Para efecto de un mejor control de las Unidades Municipales y registro de la Unidad Estatal, las brigadas vecinales o comunales estarán en la capacidad de solicitar su registro ante la Unidad Municipal correspondiente, cubriendo los requisitos, datos, y documentación que para tal efecto emita la Unidad Estatal.
 
 ###### Artículo 68.
 
-El citatorio será notificado por quien determine el Juez, acompañado por un policía y deberá contener, cuando menos, los siguientes elementos:
+La Unidad Municipal correspondiente llevará el registro de todas y cada una de las organizaciones que bajo la figura de brigadas vecinales o comunales se inscriban ante ella, enviando a la Unidad Estatal, una relación de las mismas.
 
-I. Escudo de la ciudad y folio;
-
-II. La Delegación y el número del Juzgado que corresponda, el domicilio y el teléfono del mismo;
-
-III. Nombre, edad y domicilio del probable infractor;
-
-IV. Una relación de los hechos de comisión de la probable infracción, que comprenda todas y cada una de las circunstancias de tiempo, modo, lugar, así como cualquier dato que pudiera contribuir para los fines del procedimiento;
-
-V. Nombre y domicilio del quejoso;
-
-VI. Fecha y hora de la celebración de la audiencia;
-
-VII. Nombre, cargo y firma de quien notifique, y
-
-VIII. El contenido del artículo 69 y el último párrafo del artículo 75 de esta Ley.
-
-El notificador recabará el nombre y firma de la persona que reciba el citatorio o la razón correspondiente.
-
-Si el probable infractor fuese menor de edad, la citación se hará a él mismo, por medio de quien ejerza la patria potestad, la custodia o la tutoría de derecho o de hecho.
-
-### CAPÍTULO II. PROFESIONALIZACIÓN DE LOS JUECES Y SECRETARIOS DE LOS JUZGADOS CÍVICOS
+### CAPITULO NOVENO. DE LOS ENTES CAPACITADORES Y CONSULTORES EN MATERIA DE PROTECCION CIVIL
 
 ###### Artículo 69.
 
-En caso de que el quejoso no se presentare, se desechará su queja, y si el que no se presentare fuera el probable infractor, el Juez librará orden de presentación en su contra, turnándola de inmediato al jefe de la unidad sectorial de la Secretaría que corresponda al domicilio del probable infractor, misma que será ejecutada bajo su más estricta responsabilidad, sin exceder de un plazo de 48 horas.
+Las dependencias, órganos desconcentrados y entidades de la administración pública del Estado de Guanajuato, organizaciones civiles, empresas capacitadoras, instructores independientes, consultores en materia de Protección Civil, brigadas vecinales o comunales que deseen promover actividades de asesoría capacitación, adiestramiento y consultoría en materia de Protección Civil, deberán presentar ante la Unidad Estatal de protección civil para su aprobación y adecuación la siguiente documentación en el área de capacitación:
+
+I.- Solicitud de registro a través de los formatos emitidos por la Unidad Estatal;
+
+II.- Programas de capacitación y adiestramiento con sus contenidos temáticos y cartas descriptivas;
+
+III.- Documento donde se relacione:
+
+a) Nombre del curso;
+
+b) Objetivos generales y específicos;
+
+c) Contenido temático;
+
+d) Duración total expresada en horas, y sesiones;
+
+e) Material de apoyo utilizados (sic);
+
+f) Técnicas de enseñanzas;
+
+g) Universo que atenderá; y
+
+h) Perfil mínimo de los aspirantes.
+
+IV.- Curriculum vitae actualizado;
+
+V.- Copia fotostática del diploma o constancia que vaya a expedir;
+
+VI.- Inventario del material y equipo didáctico;
+
+VII.- Constancia de los recursos de capacitación que acrediten sus conocimientos en el o los temas a impartir; y
+
+VIII.- Definición de los servicios que prestan.
+
+Cubiertos los requisitos anteriores, la Unidad Estatal de Protección Civil, evaluará los conocimientos del promovente en los temas que el promovente pretende impartir capacitación y adiestramiento.
+
+Para los servicios de consultoría en planes de contingencia y estudio de riesgo de vulnerabilidad presentarán:
+
+Las empresas capacitadoras, consultores independientes y empresas de consultoría de estudios de riesgo de vulnerabilidad, deberán presentar para la solicitud de expedición de registro en materia de Protección Civil, escrito dirigido a la Unidad Estatal de Protección Civil, al que se anexe la información y documentación siguiente:
+
+l.- Copia certificada de acta constitutiva, debidamente inscrita en el registro público de la propiedad y cuyo objeto social deberá estar vinculado a la Protección Civil;
+
+II.- Copia certificada del instrumento notarial que acredite la personalidad del promovente para el caso de que la misma no conste en el documento a que se refiere la fracción anterior;
+
+III.- Para los consultores independientes, copias de su registro ante Secretaría de Hacienda y Crédito Público y copia de su cédula de registro federal de contribuyentes;
+
+IV.- Relación del personal responsable de la impartición de los servicios de asesoría de esta materia o responsable de los estudios de riesgo de vulnerabilidad, anexando respecto a cada uno de ellos:
+
+a).- Copia de una identificación oficial;
+
+b).- Copia del diploma o certificado del o de los cursos de formación de instructor y de actualización en la materia; y
+
+c).- Curriculum vitae actualizado.
+
+V.- Inventarios del equipo, material didáctico y procedimientos utilizados para los estudios;
+
+VI.- Copia fotostática del formato del diploma, constancia o certificado que vayan a expedir; y
+
+VII.- Cualesquier otro requisito que marque la ley o el presente reglamento.
+
+Una vez cubiertos los requisitos anteriores, la Unidad Estatal, evaluará la capacidad de la empresa o consultor promovente en los temas que pretende asesorar o aplicar estudios.
 
 ###### Artículo 70.
 
-Los policías que ejecutan las órdenes de presentación, deberán hacerlo sin demora alguna, haciendo comparecer ante el Juez a los probables infractores a la brevedad posible, observando los principios de actuación a que están obligados.
+Las empresas capacitadoras, instructores independientes, consultores y empresas de consultoría en estudios de riesgo de vulnerabilidad que hayan obtenido un registro ante la Unidad Estatal, deberán llevar una bitácora de todos los programas internos, especiales o cualquier otro servicio que desarrollen.
+
+Esta bitácora podrá ser verificada en las visitas que para tal efecto apliquen autoridades correspondientes.
 
 ###### Artículo 71.
 
-Al iniciar el procedimiento, el Juez verificará que las personas citadas se encuentren presentes; si lo considera necesario dará intervención al médico, quien determinará el estado físico y, en su caso, mental de aquéllas.
+Para la expedición de cartas de corresponsabilidad, las empresas de consultoría o consultores independientes en materia de Protección Civil y estudios de riesgo de vulnerabilidad, deberán contar con el registro correspondiente contemplado en el Artículo 69 del presente reglamento, y la siguiente documentación:
 
-Asimismo, el Juez verificará que las personas ausentes hayan sido citadas legalmente.
+I.- Relación de todos y cada uno de los estudios realizados; y
 
-En caso de que haya más de un quejoso, deberán nombrar un representante común para efectos de la intervención en el procedimiento.
+II.- Notificación a la autoridad correspondiente de cualquier alteración que observe en las medidas dictadas.
+
+Los registros obtenidos, tendrán vigencia por tres (3) años, posteriormente deberán ser revalidados, conforme a los lineamientos emitidos por la Unidad Estatal de Protección Civil.
 
 ###### Artículo 72.
 
-El Juez celebrará en presencia del denunciante y del probable infractor la audiencia de conciliación en la que procurará su avenimiento; de llegarse a éste, se hará constar por escrito el convenio entre las partes.
+Para efecto de la promoción de la Protección Civil dentro de las industrias, comercio y otras actividades similares, la Unidad Estatal establecerá la coordinación que resulte necesaria con las autoridades federales y locales de trabajo, para la consideración de la Protección Civil dentro de los programas de seguridad y capacitación en el trabajo.
 
-En todo momento, a solicitud de las partes o a consideración del juez, la audiencia se suspenderá por única ocasión; señalándose día y hora para su continuación, que no excederá de los quince días naturales siguientes, debiendo continuarla el juez que determinó la suspensión.
+## TITULO CUARTO. DE LA CAPACITACION A LA POBLACION Y LA QUEJA CIUDADANA
 
-## TÍTULO CUARTO. PROCEDIMIENTOS
-
-### CAPÍTULO III. DE LA SUPERVISIÓN A LOS JUZGADOS
+### CAPITULO PRIMERO. DE LA CAPACITACION A LA POBLACION
 
 ###### Artículo 73.
 
-El convenio de conciliación puede tener por objeto:
+Los Consejos, Estatales y Municipales de Protección Civil, serán responsables de la promoción de la capacitación hacia la ciudadanía, conforme a lo marcado en la Ley de Protección Civil para el Estado, así como de las siguientes acciones:
 
-I. La reparación del daño, y
+I.- Promover la firma de convenios en materia de Protección Civil, con las instancias de educación pública y privada para la difusión de acciones especificas de Protección Civil a través de la autoridades educativas; del servicio social la participación de académicos y el sector magisterial, con lo cual la materia de Protección Civil sea de impartición obligatoria e (sic) todas las escuelas del Estado;
 
-II. No reincidir en conductas que den motivo a un nuevo procedimiento.
+II.- Buscar e implementar los recursos necesarios para la aplicación adecuada de lo contemplado en la fracción precedente;
 
-En el convenio se establecerá el término para el cumplimiento de lo señalado en la fracción l, así como para los demás acuerdos que asuman las partes.
+III.- Promover la firma de convenios con los diversos medios de comunicación; sean escritos o electrónicos para la difusión de mensajes sean de promoción y alertamiento o información de acciones de Protección Civil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Promover entre las carreras de ciencias de la comunicación, la participación del estudiantado de las mismas para el desarrollo de campañas, carteles, etc. Que permitan difundir la cultura de la Protección Civil; y
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Cuando el daño se cause con motivo de lo previsto en la fracción XVIII del artículo 25 de la Ley, el convenio se elaborará con base en el valor del daño que se establezca en el dictamen en materia de tránsito terrestre emitido por los peritos adscritos a la Consejería Jurídica y de Servicios Legales, respetando el principio de autonomía de voluntad de las partes, pero sin que el monto a negociar pueda exceder o sea inferior a un veinte por ciento del valor del daño dictaminado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+V.- En los edificios públicos, escuelas, fabricas, industrias, comercios, oficinas, Unidades habitacionales, centros de espectáculos o diversiones y en todos los establecimientos abiertos al público o vehículos de transporte escolar o de personal, deberán practicarse simulacros, así como colocarse en lugares visibles de los mismos, material y señalización adecuada conforme a la norma vigente para tal efecto, además de instructivos para casos de emergencia, en los cuales se establezcan que acciones se deben seguir; antes, durante y después de un siniestro, señalando además rutas de evacuación y salidas de emergencia, casos ya mencionados en el Artículo 50 fracción IV.
 
 ###### Artículo 74.
 
-A quien incumpla el convenio de conciliación, se le impondrá un arresto de 6 a 24 horas o una multa de 1 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente.
+Los lineamientos generales sobre el contenido temático de los manuales y material didáctico para la capacitación sobre Protección Civil, serán fijados por la Unidad Estatal, a través de normas técnicas que contendrán los lineamientos concernientes a la Protección Civil.
 
-A partir del incumplimiento del convenio, el afectado tendrá 15 días para solicitar que se haga efectivo el apercibimiento.
-
-Transcurridos seis meses a partir de la firma del convenio, solo se procederá por nueva queja que se presentare.
-
-### CAPÍTULO ÚNICO
+### CAPITULO SEGUNDO. DE LA QUEJA CIUDADANA
 
 ###### Artículo 75.
 
-En el caso de que las partes manifestaran su voluntad de no conciliar, se dará por concluida la audiencia de conciliación y se iniciará la audiencia sobre la responsabilidad del citado, en la cual el Juez, en presencia del quejoso y del probable infractor, llevará a cabo las siguientes actuaciones:
+En lo relacionado a la queja ciudadana, será responsabilidad de las Unidades Estatal y Municipales de Protección Civil, lo siguiente:
 
-I. Dará lectura a la queja, el cual podrá ser ampliado por el denunciante;
+I.- Llevar un registro de todas las quejas reportadas; y
 
-II. Otorgará el uso de la palabra al quejoso para que ofrezca las pruebas respectivas;
+II.- Para efecto de dar curso a la investigación la ciudadanía deberá proporcionar los siguientes datos para tal fin:
 
-III. Otorgará el uso de la palabra el probable infractor, para que formule las manifestaciones que estime convenientes y ofrezca pruebas en su descargo;
+a) Nombre del reportante;
 
-IV. Acordará la admisión de las pruebas y las desahogará de inmediato, y
+b) Dirección y teléfono donde pueda recibir comunicados y ser localizado;
 
-V. Resolverá sobre la conducta imputada, considerando todos los elementos que consten en el expediente y resolverá sobre la responsabilidad del probable infractor.
+c) Definición clara de la queja; ubicación, definición, tipo, y alcance; y
 
-> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+d) Cualquier otro dato requerido por la autoridad receptora de la queja.
 
-Se admitirán como pruebas las testimoniales, las fotografías, las videograbaciones, y las demás que, a juicio del Juez, sean idóneas en atención a las conductas imputadas por el quejoso. Tratándose de daños causados con motivo del tránsito de vehículos, el Juez deberá ordenar en todos los casos la intervención de los peritos en materia de tránsito terrestre, autorizados por la Consejería Jurídica y de Servicios Legales.
+###### Articulo 76.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE OCTUBRE DE 2014)</small>
-
-Para el caso de las fotografías y videograbaciones, quienes las presenten deberán proporcionar al Juez los medios para su reproducción al momento del desahogo de la prueba, en caso contrario estas serán desechadas.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 8 DE OCTUBRE DE 2014)</small>
-
-En el caso de que el quejoso o el probable infractor no presentaren en la audiencia las pruebas ofrecidas, serán desechadas en el mismo acto. Cuando la presentación de las pruebas ofrecidas dependiera del acto de alguna autoridad, el Juez suspenderá la audiencia y señalará día y hora para la presentación y desahogo de las mismas.
-
-###### Artículo 76.
-
-En el supuesto de que se libre orden de presentación al presunto infractor y el día de la presentación no estuviere presente el quejoso, se llevará a cabo el procedimiento previsto en el artículo 57 de esta Ley, y si se encuentra el quejoso, se llevará cabo el procedimiento por queja.
+Cuando los representantes de la autoridad receptora ejecuten inspecciones para confirmación de los hechos que dan origen a la queja se identificarán claramente ante quien se presenten informándole que existe una queja y anotando claramente los datos que le sean proporcionados, así mismo se abstendrán de proporcionar el nombre del denunciante, debiendo levantar acta de los hechos encontrados recabando la firma de quien atiende la diligencia, si tal firma fuera negada será anotado en el acta.
 
 ###### Artículo 77.
 
-Cuando a consecuencia de un conflicto familiar o conyugal se cometa alguna o algunas infracciones cívicas, y el ofendido las haga del conocimiento del Juez, éste iniciará el procedimiento correspondiente, dejando a salvo los derechos que a cada uno correspondan.
+Cuando la queja sea recibida por la autoridad Estatal, está notificará a la autoridad municipal correspondiente de la misma, solicitándole su apoyo en la investigación.
 
-El Juez canalizará, mediante oficio, a los involucrados a las instituciones públicas especializadas.
+## TITULO QUINTO. DEL CONTENIDO DEL PROGRAMA ESTATAL DE PROTECCION CIVIL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE MARZO DE 2008)</small>
-
-## TÍTULO QUINTO. DEL CONSEJO
+### CAPITULO PRIMERO. DEL PROGRAMA ESTATAL DE PROTECCION CIVIL
 
 ###### Artículo 78.
 
-El Consejo es el órgano consultivo del Gobierno del Distrito Federal, el cual emitirá opiniones a las instancias competentes sobre el diseño de las normas internas de funcionamiento, la supervisión, el control y la evaluación de los Juzgados, así como las pertinentes al mejoramiento de la actuación policial en la materia de esta Ley.
+El programa Estatal de Protección Civil para el Estado de Guanajuato, es el conjunto de políticas estrategias y lineamientos que regulan las acciones de los sectores público, privado y social en materia de Protección Civil, el cual además de lo marcado en la Ley, deberá contemplar los siguientes conceptos:
+
+I.- Ser congruente con el programa nacional de Protección Civil y los lineamientos del sistema nacional de Protección Civil;
+
+II.- Integrar los 3 subprogramas básicos para la cobertura de cualquier siniestro que se presente dentro de los límites del territorio del Estado; y
+
+III.- Todas y cada una de las acciones que deban ser llevadas a cabo para la atención preventiva, de control y restablecimiento de cualquier agente perturbador.
 
 ###### Artículo 79.
 
-El Consejo está integrado por:
+Los subprogramas establecidos en la fracción II del artículo anterior, son los siguientes:
 
-I. El titular de la Consejería, quien lo presidirá;
+I.- De prevención; referido a las acciones y medidas orientadas al evitamiento y reducción de riesgos;
 
-II. El titular de la Secretaría;
+II.- De auxilio; conformado por las acciones destinadas a rescatar y salvaguardar, en caso de siniestro y desastre, la integridad física de las personas, sus bienes y del medio ambiente, y a coordinar las acciones para la atención de las emergencias;
 
-III. El titular de la Secretaría de Gobierno;
-
-IV. El titular de la Dirección, quien fungirá como Secretario Técnico;
-
-V. Un juez de reconocida experiencia y probidad, designado por el titular de la Consejería;
-
-VI. Un representante del área de capacitación y desarrollo de recursos humanos de la Oficialía Mayor del Distrito Federal, designado por el titular de ésta, y
-
-VII. Tres representantes de la sociedad, cuyas labores sean afines a los objetivos de la Justicia Cívica, quienes serán nombrados y removidos por el Jefe de Gobierno. Se designarán preferentemente a aquellos que se hayan distinguido en la realización de actividades de colaboradores comunitarios;
-
-VIII. Dos Diputados a la Asamblea Legislativa Legislativa (sic) del Distrito Federal, designados por su pleno.
-
-Los miembros del Consejo anotados en las fracciones I a IV contarán con un suplente designado por ellos mismos.
-
-La organización y funcionamiento del Consejo se establecerán en el reglamento.
+III.- De restablecimiento; integrado por las estrategias y acciones indispensables para volver a la normalidad las situaciones que prevalezcan una vez acaecido un siniestro o desastre.
 
 ###### Artículo 80.
 
-Los Consejeros señalados en las fracciones V y VII del artículo anterior durarán tres años en su cargo, serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo
+El subprograma de prevención, deberá contener:
+
+I.- Los lineamientos generales para prevenir y enfrentar riesgos;
+
+II.- El catálogo de los riesgos potenciales que puedan ser prevenidos;
+
+III.- Los lineamientos para el funcionamiento y prestación de los servicios públicos, y los del sector social de atención voluntaria en emergencias; y
+
+IV.- Los criterios para organizar y coordinar la participación de las dependencias públicas Estatales y Municipales para la elaboración y aplicación de normas, medidas y recomendaciones que eviten o reduzcan la ocurrencia de riesgos.
+
+Tratándose de Dependencias Federales, se estará en lo dispuesto dentro del Programa Nacional de Protección Civil;
+
+V.- El derecho de la población para conocer y ser informada de los riesgos a que se encuentra expuesta, así como su obligación de atacar las recomendaciones orientadas a evitar y reducir dichos riesgos;
+
+VI.- Los lineamientos para la elaboración de manuales de capacitación;
+
+VII.- Las políticas de comunicación social para prevenir riesgos; y
+
+VIII.- Los criterios y bases para la realización de simulacros.
 
 ###### Artículo 81.
 
-En cada Juzgado actuarán Jueces en turnos sucesivos con diverso personal, que cubrirán las veinticuatro horas de todos los días del año.
+El subprograma de Auxilio, deberá contener:
+
+l.- Las acciones de alertamiento, evaluación de daños, seguridad, búsqueda, salvamento y asistencia, servicios estratégicos, equipamiento y bienes; salud, aprovisionamiento, comunicación social de emergencias, reconstrucción inicial y vuelta a la normalidad;
+
+II.- Los mecanismos de concertación y coordinación con los sectores público, privado y social, los grupos voluntarios y la comunidad en situación de siniestro o desastre;
+
+III.- Las acciones y apoyo con los que participarán las dependencias públicas Estatales, Municipales y las instituciones del sector privado y social;
+
+IV.- Las políticas de comunicación social de emergencia y sistemas de telecomunicaciones;
+
+V.- Las actividades de los participantes en tarea de rescate, atención Prehospitalaria, administración de refugios temporales y salvaguarda de bienes en casos de siniestro o desastre; y
+
+VI.- El auxilio que las autoridades en materia de Protección Civil podrán solicitar a las Autoridades Federales para salvaguardar la seguridad de las personas y sus bienes en casos de desastre, así como aquel que quede contemplado dentro de los apoyos federales en casos de desastre.
 
 ###### Artículo 82.
 
-En cada Juzgado habrá por cada turno, cuando menos, el personal siguiente:
+El subprograma de restablecimiento, contendrá enunciativa, pero no limitativamente, las siguientes previsiones:
 
-I. Un Juez;
+I.- Los requerimientos humanos, técnicos, materiales y financieros necesarios para restaurar la normatividad de la vida cotidiana;
 
-II. Un Secretario;
+II.- Las estrategias para el funcionamiento de los servicios de agua potable, electricidad, abasto y comunicaciones;
 
-III. Un Médico;
+III.- Los recursos humanos, técnicos, materiales y económicos necesarios para su ejecución; y
 
-IV. Los policías comisionados por la Secretaría, y
-
-V. El personal auxiliar que determine la Dirección.
+IV.- Los mecanismos y acuerdos necesarios para solicitar, administrar y distribuir apoyos.
 
 ###### Artículo 83.
 
-En los Juzgados se llevarán los registros que determine la Consejería.
+El Programa Estatal de Protección Civil, debe ser revisado y actualizado cada dos (2) años, a efecto de ser enriquecido con las propuestas, programas y métodos emanados de la sociedad e instituciones, tanto públicas como privadas, directamente relacionadas en materia de Protección Civil, de acuerdo a los estudios técnicos realizados al efecto.
 
-###### Artículo 84.
+Sin embargo, podrá ser revisado con anterioridad al lapso temporal mencionado, cuando exista alguna contingencia que lo impacte directamente.
 
-Los Juzgados contarán con los espacios físicos siguientes:
+### CAPITULO SEGUNDO. DE LA DECLARATORIA DE EMERGENCIA
 
-I. Sala de audiencias;
+###### Articulo 84.
 
-II. Sección de recuperación de personas en estado de ebriedad o intoxicadas;
+El Titular del Poder Ejecutivo Estatal, tiene el derecho exclusivo de dictar la declaratoria de emergencia en los casos que sean aplicables conforme a lo establecido en la Ley y en el presente Reglamento, la cual será comunicada al Consejo Estatal y ordenará se publique en el Periódico Oficial del Gobierno del Estado y se difunda a través de los medios de comunicación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
-
-III. Sección de Adolescentes;
-
-IV. Sección médica, y
-
-V. Área de seguridad.
-
-Las secciones a que se refieren las fracciones II, III, y V contarán con departamentos separados para hombres y mujeres.
+En lo que concierne al nivel municipal, el responsable de dictar la declaratoria de emergencia es el Presidente Municipal en sesión de cabildo.
 
 ###### Artículo 85.
 
-A los Jueces les corresponde:
-
-I. Conocer de las infracciones establecidas en esta Ley;
-
-II. Resolver sobre la responsabilidad de los probables infractores;
-
-III. Ejercer las funciones conciliatorias a que se refiere el Capítulo III del Título Cuarto de esta Ley;
-
-IV. Aplicar las sanciones establecidas en esta Ley y otras (sic) ordenamientos que así lo determinen;
-
-V. Intervenir en los términos de la presente Ley, en conflictos vecinales, familiares o conyugales, con el fin de avenir a las partes o conocer de las infracciones cívicas que se deriven de tales conductas;
-
-VI. Llevar el control de los expedientes relativos a los asuntos que se ventilen en el Juzgado;
-
-VII. Expedir constancias relativas a hechos y documentos contenidos en los expedientes integrados con motivo de los procedimientos de que tenga conocimiento;
-
-VIII. Expedir constancias de hechos a solicitud de particulares, quienes harán las manifestaciones bajo protesta de decir verdad;
-
-IX. Solicitar por escrito a las autoridades competentes, el retiro de objetos que estorben la vía pública y la limpia de lugares que deterioren el ambiente y dañen la salud publica;
-
-X. El mando del personal que integra el Juzgado, para los efectos inherentes a su función, e informará a la Dirección, de manera inmediata, las ausencias del personal;
-
-XI. Reportar inmediatamente al servicio de Localización Telefónica de la Administración Pública del Distrito Federal, la información sobre las personas presentadas, sancionadas, así como las que se encuentren en tiempo de recuperación;
-
-XII. Informar diariamente a la Consejería y a la Dirección sobre los asuntos tratados y las resoluciones que haya dictado;
-
-XIII. Ejecutar la condonación de la sanción, que en su caso determine la Dirección;
-
-XIV. Habilitar al personal del Juzgado para suplir las ausencias temporales del Secretario;
-
-XV. Asistir a las reuniones a que sea convocado, así como aquéllas que se tengan con instituciones con las cuales haya celebrado convenio la Consejería; y
-
-XVI. Retener y devolver los objetos y valores de los presuntos infractores, o que sean motivo de la controversia, previo recibo que expida. No podrá devolver los objetos que por su naturaleza sean peligrosos, o los que estén relacionados con las infracciones contenidas en el artículo 25 fracción V de esta Ley, en cuyo caso deberá remitirlos al lugar que determine la Dirección, pudiendo ser reclamados ante ésta cuando proceda;
-
-XVII. Comisionar al personal del Juzgado para realizar notificaciones y diligencias;
-
-XVIII. Autorizar y designar la realización de las actividades de apoyo a la comunidad a solicitud del responsable, y
-
-XIX. Las demás atribuciones que le confieran esta Ley y otros ordenamientos.
+Para la coordinación apropiada de atención a situaciones de alto riesgo o emergencia, la Coordinación Estatal a través de su sistema de radiocomunicaciones, mantendrá el enlace con las demás áreas de la Administración Pública Estatal y aquellas que operen los sistemas estratégicos y servicios vitales.
 
 ###### Artículo 86.
 
-Para la aplicación de esta Ley es competente el Juez del lugar donde se haya cometido la infracción; si ésta se hubiese realizado en los limites de una circunscripción territorial y otra, será competente el Juez que prevenga, excepto en los casos que expresamente instruya la Dirección.
+En situaciones de riesgo, siniestro, desastre o emergencia, la Unidad Estatal establecerá los puestos de coordinación que se requieran, preferentemente en Unidades móviles equipadas con medios tecnológicos que posibiliten la ágil coordinación y toma de decisiones.
 
 ###### Artículo 87.
 
-El Juez tomará las medidas necesarias para que los asuntos sometidos a su consideración durante su turno, se terminen dentro del mismo y solamente dejará pendientes de resolución aquellos que por causas ajenas al Juzgado no pueda concluir, lo cual se hará constar en el registro respectivo que firmarán el Juez entrante y el saliente.
+En casos de riesgo, alto riesgo, siniestro, desastre o emergencia, el personal de la Unidad Estatal y de las Unidades Municipales de Protección Civil, deberán portar uniforme e identificación que los acredite como tales.
 
 ###### Artículo 88.
 
-El Juez que termina el turno, bajo su estricta responsabilidad, hará entrega física de los asuntos en trámite y de las personas que se encuentren en las áreas del Juzgado, al Juez entrante, lo que se hará constar en el registro respectivo.
+Queda prohibido portar en uniformes de Protección Civil, insignias, barras, galones o cualquier insignia que estén reservadas para el uso de cuerpos militares o de seguridad pública.
 
 ###### Artículo 89.
 
-El Juez, al iniciar su turno, continuará la tramitación de los asuntos que hayan quedado sin terminar en el turno anterior. Los casos serán atendidos sucesivamente según el orden en que se hayan presentado en el Juzgado.
+El símbolo internacional de Protección Civil además del designado por el Sistema Nacional de Protección Civil, se utilizarán por las dependencias, órganos desconcentrados y entidades de la Administración Pública, sin alteraciones, respetando el color, diseño y formas, de conformidad con lo establecido por los tratados, convenciones internacionales y demás disposiciones aplicables.
+
+### CAPITULO TERCERO. DE LA DECLARATORIA DE ZONA DE DESASTRE
 
 ###### Artículo 90.
 
-Los Jueces podrán solicitar a los servidores públicos los datos, informes o documentos sobre asuntos de su competencia, para mejor proveer.
+Para efectos de la declaratoria de zona de desastre, situación de responsabilidad exclusiva del Titular del Ejecutivo, se requerirá la ayuda de los Gobiernos Estatal y Federal, llevando a cabo las acciones necesarias por conducto de la Secretaría.
 
 ###### Artículo 91.
 
-El Juez, dentro del ámbito de su competencia y bajo su estricta responsabilidad, cuidará que se respeten la dignidad y los derechos humanos, por tanto, impedirá todo maltrato, abuso físico o verbal, cualquier tipo de incomunicación, exacción o coacción moral en agravio de las personas presentadas o que comparezcan al Juzgado.
+La Unidad Estatal emitirá boletines de información, donde se indicará claramente el alcance de la zona de desastre, y estos se publicarán en los medios de información masiva.
 
 ###### Artículo 92.
 
-La remuneración de los Jueces será equivalente al menos a la categoría básica que corresponda a Agentes del Ministerio Público de la Procuraduría General de Justicia del Distrito Federal adscritos a Juzgados del Fuero Común, atendiendo a los criterios del Servicio Público de Carrera, las cargas de trabajo y las responsabilidades asignadas, de conformidad con la disponibilidad presupuestal.
+La Unidad será responsable de aplicar cualquier medida de mitigación y ayuda que dictamine el Consejo, conjuntamente con los responsables de la o las Unidades Municipales involucradas.
+
+### CAPITULO CUARTO. DE LOS RIESGOS Y DEL ATLAS ESTATAL
 
 ###### Artículo 93.
 
-Al Secretario corresponde:
-
-I. Autorizar con su firma y el sello del Juzgado las actuaciones en que intervenga el Juez en ejercicio de sus funciones;
-
-II. Certificar y dar fe de las actuaciones que la Ley o el Juez ordenen;
-
-III. Expedir copias certificadas relacionadas con las actuaciones del Juzgado;
-
-IV. Custodiar los objetos y valores de los probables infractores, previo recibo que expida;
-
-V. Llevar el control de la correspondencia e integrar y resguardar los expedientes relativos a los procedimientos del Juzgado;
-
-VI. Recibir el importe de las multas que se impongan, expedir el recibo correspondiente y enterar semanalmente a la Tesorería del Distrito Federal las cantidades que reciba por este concepto, en los casos en que esta última no tenga establecida oficina recaudadora en la sede donde se ubique el Juzgado, y
-
-VII. Suplir las ausencias del Juez.
+Para la determinación y aplicación de medidas preventivas en materia de Protección Civil, se deberá estar en lo dispuesto en la Ley y en este Reglamento, así como los convenios celebrados conforme a lo marcado en le (sic) Articulo 19 del presente ordenamiento, debiéndose detectar, clasificar y evaluar cada riesgo o agente perturbador como los clasificados en el Artículo 18 fracción II de este Reglamento o cualquier otro que surja y que sea de competencia de Protección Civil.
 
 ###### Artículo 94.
 
-La remuneración de los Secretarios será equivalente al menos a la categoría básica que corresponda al Oficial Secretario de Agentes del Ministerio Público de la Procuraduría General de Justicia del Distrito Federal, adscritos a Juzgados del Fuero Común, atendiendo a los criterios del Servicio Público de Carrera, las cargas de trabajo y las responsabilidades asignadas, de conformidad con la disponibilidad presupuestal.
+Para los efectos de atención a cada uno de los riesgos, la Unidad Estatal emitirá Normas Técnicas correspondientes, en la cual se especificarán todos los aspectos técnicos, características, particularidades efectos previsibles y áreas de vulnerabilidad de cada uno de los riesgos citados.
 
-###### Artículo 95.
+###### Articulo 95.
 
-El médico emitirá los dictámenes de su competencia, prestará la atención médica de emergencia, llevará un Registro de Certificaciones Médicas y en general, realizará las tareas que, acordes con su profesión, requiera el Juez en ejercicio de sus funciones.
+La Unidad Estatal promoverá y conformará comités multidisciplinarios e interinstitucionales que coadyuven a la atención de situaciones de alto riesgo, desastre, o emergencia. Para tal efecto, la Unidad elaborará los Procedimientos operativos y las reglas que rijan cada comité.
 
 ###### Artículo 96.
 
-Cuando una o más plazas de Juez o Secretario estuvieran vacantes o se determine crear una o más, la Consejería publicará la convocatoria para que los aspirantes presenten los exámenes correspondientes, en los términos que disponga el Reglamento. Dicha convocatoria señalará los requisitos a cubrir, según el caso, el día, hora y lugar de celebración del examen y será publicada por una sola vez en la Gaceta Oficial del Distrito Federal y un extracto de la misma por dos veces consecutivas, con intervalo de tres días, en dos de los periódicos de mayor circulación en el Distrito Federal, así como en los Juzgados.
+Las Unidades Municipales sobre la base de estudios que realicen delimitarán las zonas de alto riesgo, según sus diferentes tipos, a fin de aplicar las acciones que correspondan.
 
 ###### Artículo 97.
 
-La Consejería y la Dirección tienen, en materia de profesionalización de los Jueces y Secretarios, las siguientes atribuciones:
+Para la determinación y aplicación de medidas preventivas que se requieren en las instalaciones de cualquier índole, que se encuentren en operación o que sean de nueva creación, así como aquellas zonas donde históricamente los impactos de los fenómenos naturales hayan afectado a la ciudadanía, se deberán aplicar entre otras las siguientes medidas:
 
-I. Practicar los exámenes a los aspirantes a Jueces y Secretarios;
+l.- Instalaciones en operación:
 
-II. Organizar y evaluar los cursos propedéuticos destinados a los aspirantes a ingresar a los Juzgados que hagan los exámenes correspondientes; así como los de actualización y profesionalización de Jueces, Secretarios, y personal de los Juzgados, los cuales deberán contemplar materias jurídicas, administrativas y de contenido cívico;
+a) Para instalaciones industriales comerciales, y de servicios, la Unidad Estatal de Protección Civil, establecerá un padrón general que incorpore todas las industrias y establecimientos que estén, considerados de alto riesgo, para lo cual aplicara la normatividad Federal, Estatal o Municipal en la materia; y
 
-III. Evaluar el desempeño de las funciones de los Jueces, Secretarios y demás personal de los Juzgados, así como el aprovechamiento en los cursos de actualización y profesionalización que les sean impartidos; y
+b) La Unidad Estatal de Protección Civil determinará y notificará a los responsables de las instalaciones, las obras, acciones y servicios que deberá realizar, para efecto de estar en condiciones de hacer frente a cualquier contingencia que por o con motivo de las actividades realizadas, pudieran afectar a terceros, sus bienes o el entorno ambiental.
 
-IV. Determinar el procedimiento para el ingreso de guardias y personal auxiliar; y
+II.- Para nuevas instalaciones:
 
-V. Las demás que le señale la Ley.
+a) La Unidad Estatal con el apoyo de la autoridades Estatales y municipales establecerá él catalogo de las actividades industriales, comerciales y de servicios, según sea el grado de riesgo que presenten, con base a la normatividad Estatal y Federal; y
+
+b) La Unidad Estatal enviara a las autoridades Estatales en materia de desarrollo urbano, ecología, salud y seguridad pública, el catálogo a que se refiere el inciso anterior, para los efectos legales conducentes.
 
 ###### Artículo 98.
 
-Para ser Juez, se deben reunir los siguientes requisitos:
+Los propietarios, directores, gerentes o responsables de las instalaciones mencionadas en el artículo anterior deberán proporcionar a la Unidad Estatal de Protección Civil, la descripción de las siguientes materias:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y tener por lo menos 25 años de edad;
+I.- La zona de salvaguarda con el radio vector mínimo y máximo que comprenda las áreas de riesgo en sus instalaciones;
 
-II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente y tener por lo menos un año de ejercicio profesional;
+II.- El destino de cada área que comprenda la zona de salvaguarda;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+III.- Los niveles de utilización y ocupación del suelo por área; y
 
-III. No haber sido sentenciado en sentencia ejecutoriada por delito doloso;
-
-IV. No haber sido suspendido o inhabilitado para el desempeño de un cargo público, y
-
-V. Acreditar los exámenes correspondientes y el curso.
+IV.- Los dictámenes previos de competencia de otras autoridades, conforme a la normatividad aplicable, sean Estatales, Municipales o federales.
 
 ###### Artículo 99.
 
-Para ser Secretario se deben reunir los siguientes requisitos:
+La determinación de las características y dimensiones de las zonas de salvaguarda, que se sujetará a lo siguiente:
 
-I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos; tener por lo menos 20 años de edad;
+I.- En caso de las instalaciones industriales o comerciales que en materia ecológica sean consideradas de alto riesgo, la Unidad Estatal de Protección Civil solicitara el apoyo e intervención de las autoridades correspondientes;
 
-II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente o pasante de esta carrera en los términos de la ley respectiva;
+II.- Fuera de los casos mencionados en la fracción I de este artículo, la determinación de las zonas de salvaguarda la hará las autoridades locales;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+III.- En aquellos casos, en que el estudio previo concluya que no es necesario, no se exigirá la zona de salvaguarda; y
 
-III. No haber sido sentenciado en sentencia ejecutoriada por delito doloso;
+IV.- La dimensión de la zona de salvaguarda será determinada dependiendo del riesgo de que se trate y de acuerdo con los siguientes factores:
 
-IV. No haber sido suspendido o inhabilitado para el desempeño de un cargo público, y
+a) El giro de las instalaciones;
 
-V. Acreditar los exámenes correspondientes y el curso.
+b) Su ubicación y características arquitectónicas;
+
+c) Las características topográficas y ecológicas que concurran;
+
+d) La distancia que guarden en relación con los asentamiento (sic) humanos y centros de reunión próximos; y
+
+e) Los requisitos aplicables que se deriven de los ordenamientos en la materia.
 
 ###### Artículo 100.
 
-En la supervisión deberá verificarse, independientemente de lo que dicte la Consejería, cuando menos lo siguiente:
+De todos los datos compilados por la Unidad Estatal o proporcionados por las Unidades Municipales, Unidades Internas, grupos de apoyo, industrias, comercios, servicios así como la propia ciudadanía, la Unidad Estatal de Protección Civil desarrollará el Atlas Estatal de Riesgos para el Estado de Guanajuato.
 
-I. Que exista un estricto control de las boletas con que remitan los policías a los probables infractores;
+###### Articulo 101.
 
-II. Que existe total congruencia entre las boletas de remisión enteradas al Juzgado y las utilizadas por los policías;
-
-III. Que los expedientes de cada uno de los procedimientos iniciados estén integrados conforme a la Ley y a los lineamientos que para tal efecto determine la Consejería;
-
-IV. Que las constancias expedidas por el Juez se refieran a hechos asentados en los registros a su cargo;
-
-V. Que el entero de las multas impuestas se realice en los términos de esta Ley y conforme al procedimiento respectivo;
-
-VI. Que se exhiba en lugar visible el contenido de los artículos 23, 24, 25, 26 de esta Ley, así como los datos relativos a los lugares de recepción de quejas relacionadas con el despacho de los asuntos que son competencia del Juez;
-
-VII. Que el Juzgado cuenta con los elementos humanos y materiales suficientes para prestar el servicio;
-
-VIII. Que los informes a que se refiere esta Ley sean presentados en los términos de la misma, y
-
-IX. Que en todos los procedimientos se respeten los derechos humanos y las garantías constitucionales de los involucrados.
-
-###### Artículo 101.
-
-A la Dirección, en materia de supervisión y vigilancia, le corresponde:
-
-I. Dictar medidas emergentes para subsanar las irregulares detectadas en las supervisiones;
-
-II. Tomar conocimiento de las quejas por parte del personal del Juzgado o del público, y en general de los hechos que redunden en demoras, excesos o deficiencias en el despacho de los asuntos que son competencia de los Juzgados;
-
-III. Hacer del conocimiento de las autoridades competentes de los hechos que puedan dar lugar a responsabilidad penal o administrativa del personal de los Juzgados, y
-
-IV. Habilitar al personal que considere pertinente para realizar supervisiones extraordinarias a los juzgados.
-
-Las quejas a que se refiere la fracción II serán del conocimiento de la Dirección, la que efectuará una investigación y procederá conforme a lo establecido en el artículo 104 de la presente Ley.
-
-Para cumplir con la función de supervisión, control y evaluación de los Juzgados, la Dirección contará con personal de apoyo.
+La información contenida en el Atlas de Riesgos deberá cubrir: Origen, causas, mecanismos de formación, localización, alcances estadísticos de riesgos, siniestros, desastres y emergencias, a fin de poder evaluar el peligro que representan a la población sus bienes y entorno todo ello, con el fin de diseñar y establecer las medidas para evitar y minimizar o eliminar sus efectos.
 
 ###### Artículo 102.
 
-La Dirección determinará el alcance y contenido de las supervisiones extraordinarias.
+Las dependencias públicas, Estatales y Municipales facilitaran a la Unidad Estatal la información que les sea solicitada y en su caso los apoyos técnicos y materiales que de acuerdo a los recursos humanos, materiales y presupuestarios de que se dispongan y sean necesarios para la elaboración del Atlas Estatal de Riesgo.
 
 ###### Artículo 103.
 
-Las personas a quienes el Juez hubiere impuesto una corrección disciplinaria o medida de apremio que consideren infundada, se les haya retenido injustificadamente o no se les haya permitidos (sic) la asistencia de persona de su confianza, defensor o traductor, podrán presentar su queja ante el área correspondiente de la Dirección, dentro de los quince días hábiles siguientes a que hayan sucedido estos.
+Sobre la base de la información contenida en el Atlas Estatal de Riesgos, la Unidad Estatal podrá:
+
+l.- Instalar y operar sistemas de detección, monitoreo y pronostico para realizar acciones de prevención y avisos de alerta y de alarma;
+
+II.- Determinar el grado de vulnerabilidad de los sistemas de subsistencia y servicios públicos con la finalidad de identificar riesgos específicos, así como de evaluar los probables daños;
+
+III.- Establecer acciones para disminuir la vulnerabilidad y prevenir los posibles encadenamientos de riesgos, siniestros, emergencias o desastres;
+
+IV.- Proponer la actualización de políticas y normas para el uso de suelo en aquellas zonas propensas a riesgos, siniestros, emergencias o desastres;
+
+V.- Formular o proponer planes específicos de prevención para cada uno de los agentes perturbadores detectados; y
+
+VI.- Servir de consulta a la ciudadanía a grupos de estudio, así como valorar las zonas susceptibles de desarrollo industrial, comercial o de servicios.
 
 ###### Artículo 104.
 
-La queja podrá formularse en forma oral o mediante un escrito, no estará sujeta a forma especial alguna, y deberá precisarse el acto que se reclama y los motivos de la queja. Si el quejoso contare con pruebas documentales, deberá acompañarlas a su escrito, y podrá ofrecer las demás que estime pertinentes, con excepción de la confesional de la autoridad, observando las reglas establecidas en esta Ley para las pruebas.
+Los sistemas Municipales de Protección Civil con el apoyo de los Ayuntamientos identificarán en un Atlas Municipal de Riesgos, los sitios en que con sus características puedan presentarse situaciones de riesgo, siniestro, emergencia o desastre, datos que se integrarán en el Atlas Estatal de Riesgos para el Estado de Guanajuato.
 
 ###### Artículo 105.
 
-La Dirección se allegará de las pruebas conducentes y ordenará la práctica de las diligencias tendientes al esclarecimiento de los hechos motivo de la queja, así como los derivados de las supervisiones.
+Para la elaboración del atlas municipal de riesgo los Ayuntamientos podrán solicitar de la asesoría de la Unidad Estatal y una vez aprobado deberá ser publicado el periódico oficial del Estado.
 
 ###### Artículo 106.
 
-En caso de presumirse que el personal del Juzgado actuó con injusticia manifiesta o arbitraria, o violación a las disposiciones de esta Ley y demás disposiciones legales aplicables, la Dirección lo hará del conocimiento a la Contraloría General del Distrito Federal y dará vista, en su caso, al Ministerio Público.
+El atlas Estatal y Municipales deberán ser actualizados cuando menos en un lapso de 3 (tres) años, o menos si existieran razones de peso para aplicar dicha aplicación.
+
+### CAPITULO QUINTO. DE LAS MEDIDAS PREVENTIVAS
 
 ###### Artículo 107.
 
-El Registro de Infractores contendrá la información de las personas que hubieran sido sancionadas por la comisión de las infracciones a que se refiere esta Ley y se integrará con los siguientes datos:
+Para la determinación y aplicación de las medidas preventivas en materia de Protección Civil, concurrirán las autoridades Estatales y Municipales que por ley, reglamento o disposición legal tengan competencia en el caso, correspondiendo al secretario técnico del consejo Estatal la coordinación.
 
-I. Nombre, domicilio, sexo y huellas dactilares del infractor;
-
-II. Infracciones cometidas;
-
-III. Lugares de comisión de la infracción;
-
-IV. Sanciones impuestas y, en su caso, lugares de cumplimiento del arresto;
-
-V. Realización de actividades de apoyo a la comunidad, y
-
-VI. Fotografía del infractor.
-
-Los datos para la integración del registro serán incorporados al mismo por los Jueces; al efecto, en cada Juzgado se instalará el equipo informático necesario.
+La aplicación de una medida conforme a una disposición legal, no impide que con fundamento en distinta norma Federal, Estatal o Municipal, se aplique otra medida.
 
 ###### Artículo 108.
 
-El Registro de Infractores será de consulta obligatoria para los Jueces a efecto de obtener los elementos necesarios para motivar la aplicación de sanciones.
+Se entiende por control de riesgos el conjunto de acciones de prevención vigilancia supervisión, control y evacuación necesarias para evitar riesgos o desastres.
 
 ###### Artículo 109.
 
-El Registro de Infractores estará a cargo de la Consejería y sólo se proporcionará información de los requisitos que consten en el mismo, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento.
+El Consejo Estatal por conducto de la Unidad Estatal ejercerá el control de riesgos en el Estado en materia de Protección Civil, y su coordinación con autoridades Federales, Estatales y Municipales.
 
 ###### Artículo 110.
 
-La información contenida en el Registro de Infractores tendrá como objeto el diseño de las estrategias y acciones tendientes a la preservación del orden y la tranquilidad publica en el Distrito Federal, así como la instrumentación de programas de desarrollo social y de prevención de adicciones.
+Las autoridades a que se refiere el artículo anterior, previo acuerdo de coordinación, podrán:
+
+I.- Realizar inspecciones y verificaciones mediante la formación de grupos integrados por los representantes de las diversas autoridades que se requieran en función de los generadores de riesgos a inspeccionar;
+
+II.- Formular en un solo reglamento los resultados de las inspecciones o verificaciones conforme a las disposiciones legales que a cada autoridad le corresponda aplicar; e
+
+III.- Intercambiar información respecto a los generadores de riesgo en el Estado.
 
 ###### Artículo 111.
 
-Con el fin de asegurar las condiciones de seguridad sobre manejo y acceso a la información del Registro de Infractores, los responsables de inscribir y los de proporcionar la información deberán tener claves confidenciales a fin de que quede debida constancia de cualquier movimiento de asientos, consultas y otorgamiento de información.
+Los administradores, gerentes, poseedores, arrendatarios, propietarios o responsables de inmuebles que por su propia naturaleza o por el uso al que sean destinados reciban afluencia masiva y permanente de persona, están obligados a preparar un programa específico de Protección Civil, conforme a los lineamientos establecidos por la Unidad Estatal.
 
-## TÍTULO SEXTO. DE LA ORGANIZACIÓN ADMINISTRATIVA
+###### Artículo 112.
 
-## TÍTULO SÉPTIMO. REGISTRO DE INFRACTORES
+Las personas a las que se refiere el artículo anterior podrán elaborar los programas específicos de Protección Civil por sí mismos o mediante empresas o consultores especializados.
 
-## TRANSITORIOS
+###### Artículo 113.
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+La Unidad Estatal coordinará el Monitoreo y recibirá reportes sobre la situación que guardan los servicios vitales. Los sistemas estratégicos y en general del Estado, durante todas las horas y días del año.
 
-SEGUNDO.- La presente Ley entrará en vigor a los sesenta días siguientes de su publicación.
+###### Articulo 114.
 
-TERCERO.- Se abroga la Ley de Justicia Cívica para el Distrito Federal, a la entrada en vigor de la presente Ley.
+Los responsables de los servicios vitales y de los sistemas estratégicos asentados en el Estado de Guanajuato, así, como las dependencias, Órganos desconcentrados y entidades de la administración pública Federal o Estatal, deberán proporcionar a la Unidad Estatal la información que ésta requiera.
 
-CUARTO.- En tanto se disponga de los medios informáticos necesarios, la Consejería establecerá el procedimiento para el Registro de Infractores.
+###### Artículo 115.
 
-QUINTO.- El Consejo de Justicia Cívica se instalará dentro de los treinta días siguientes a la entrada en vigor de esta Ley, para cuyo efecto el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal designarán a los integrantes previstos en las fracciones VII y VIII del artículo 79, según corresponda, antes de dicha instalación.
+Las acciones inmediatas de operación y protección, por parte de Protección Civil en caso de altos riesgos, siniestro, emergencia o desastre en la población serán:
 
-Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de abril del año dos mil cuatro.-
+I.- La identificación del tipo de riesgo;
 
-POR LA MESA DIRECTIVA, DIP. FRANCISCO CHIGUIL FIGUEROA.- PRESIDENTE.- DIP. MA. ELENA TORRES BALTAZAR.- SECRETARIA.- DIP. JOSÉ DE JESÚS LÓPEZ SANDOVAL.- SECRETARIO.- (FIRMAS).
+II.- La implementación y Coordinación de un Centro de mando, con los responsables de las demás instancias participantes;
 
-En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de mayo del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, LIC. MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
+III.- La delimitación de la zona afectada;
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+IV.- El acordonamiento de los perímetros de alto, mediano y bajo riesgo;
 
-G.O. 9 DE JUNIO DE 2006.
+V.- El control de las rutas de acceso y evacuación;
 
-PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+VI.- El aviso y orientación a la población;
 
-SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguientes al de su publicación en la Gaceta Oficial del Distrito Federal.
+VII.- La evacuación, concentración o dispersión de la población;
 
-TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+VIII.- La apertura y cierre de refugios temporales;
 
-CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
+IX.- La coordinación de los servicios asistenciales y vuelta a la normalidad; y
 
-G.O. 13 DE MARZO DE 2008.
+X.- La determinación de las acciones que deberán ejecutar las diferentes áreas del (sic) administración pública Estatal y las instituciones de los sectores privado, social y académico.
 
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+###### Artículo 116.
 
-PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
+Cuando la carencia de unos o varios de los servicios vitales o de los sistemas estratégicos, constituya por sí misma una situación de alto riesgo, siniestro, emergencia o desastre, la Unidad Estatal podrá convocar a los responsables de la operación de estos, para coordinar las acciones necesarias para su rehabilitación o restablecimiento.
 
-SEGUNDO.- La Asamblea Legislativa del Distrito Federal, autorizará a la Administración Pública del Distrito Federal, los recursos materiales y financieros necesarios para que la Consejería Jurídica y de Servicios Legales, dé cumplimiento al contenido de este Decreto.
+###### Artículo 117.
 
-TERCERO.- Las personas que hayan sufrido únicamente daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán, en caso de que así lo deseen, demandar su pago ante el Juez de Paz Civil competente, de acuerdo al nuevo procedimiento previsto en el presente Decreto y dentro del plazo de un año contado a partir que ocurrieron los hechos.
+Ante un alto riesgo, siniestro, emergencia o desastre que afecte a la población, sus bienes y entorno, la Unidad Estatal dentro de los mecanismos de implementación de acciones de mitigación, auxilio y restablecimiento, podrá solicitar al Titular del Ejecutivo del Estado, la tramitación de la declaratoria del ejecutivo federal que permita expropiar, ocupar temporalmente o limitar el dominio de aquellos bienes inmuebles objeto de la situación de riesgo o calamidad pública y, en su caso la de aquellos que sean adyacentes o vecinos de aquel y cuya disposición sea necesaria para salvaguardar a la población y su entorno.
 
-...
+En igualdad de condiciones la Unidad Estatal podrá solicitar la expedición de idéntica medida, con respecto de la maquinaria, herramientas, equipos o insumos que sean requeridos para atacar, controlar o superar la situación de riesgo o calamidad pública
 
-SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
+###### Artículo 118.
 
-...
+Los particulares estarán obligados a informar de manera inmediata y veraz a la Unidad Estatal o a las Unidades Municipales respecto de la existencia de situaciones de alto riesgo, emergencia o desastre.
 
-G.O. 24 DE FEBRERO DE 2009.
+### CAPITULO SEXTO. DE LA OPERACION DE LAS UNIDADES MUNICIPALES
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+###### Artículo 119.
 
-SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
+Es responsabilidad de las Unidades Municipales coordinar las acciones para atención de emergencias en su demarcación geográfica, siempre y cuando no se afecten servicios vitales y estratégicos de Estado o se prevea un encadenamiento de calamidades que pueda afectar otro Municipio o Entidad Federativa, en cuyo caso, la coordinación será establecida por la Unidad Estatal o el Ayuntamiento del Municipio afectado, si deciden solicitar la intervención de la Unidad Estatal, ésta quedará en la obligación de apoyar logísticamente y en aspectos de coordinación para la reducción del impacto de la emergencia.
 
-G.O. 29 DE JULIO DE 2010.
+###### Artículo 120.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+En los casos de alto riesgo, siniestro, emergencia o desastre, todas las Unidades Municipales de Protección Civil, deberán instalar un centro de mando y coordinación, el cual dispondrá de una copia del Atlas Municipal de Riesgo, planos del Municipio y/o del área donde hubiere ocurrido el desastre, ello para facilitar la planeación y ejecución de las acciones aplicables para el control de la emergencia.
 
-SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
+###### Artículo 121.
 
-G.O. 30 DE JULIO DE 2010.
+Las Unidades Municipales de Protección Civil, deberán informar a la Unidad Estatal de todas las emergencias que se hubiesen suscitado en sus áreas geográficas, así como las acciones adoptadas para el auxilio de los habitantes afectados y la mitigación de daños, acciones de restablecimiento y reconstrucción de la zona.
 
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+###### Artículo 122.
 
-Segundo.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+Toda solicitud de apoyo ante un área central de la Administración Pública Estatal, para la atención de situaciones de alto riesgo, siniestro, emergencia o desastre, se realizará a través de la Unidad Estatal.
 
-G.O. 16 DE NOVIEMBRE DE 2010.
+Las dependencias, órganos desconcentrados y entidades estarán obligados a coadyuvar en las acciones que comprendan las diversas fases de la Protección Civil, atendiendo los lineamientos de la Unidad Estatal.
 
-PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+## TITULO SEXTO. DE LA APLICACION Y ADMINISTRACION DE RECURSOS MONETARIOS DEL CONSEJO ESTATAL
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+### CAPITULO PRIMERO. DE LA APLICACION
 
-TERCERO.- La Secretaría de Salud del Distrito Federal presentará al Consejo Contra las Adicciones del Distrito Federal, en la sesión inmediata que convoque a la entrada en vigor del presente Decreto, las propuestas de Convenios a los que se refiere la fracción X del artículo 83 de la Ley de Salud del Distrito Federal, con la finalidad de que sean aprobados y disponga las acciones que considere necesarias para el debido cumplimiento y seguimiento en la ejecución de los mismos.
+###### Artículo 123.
 
-CUARTO.- La Secretaría de Salud del Distrito Federal, en tanto no se apliquen los convenios señalados en el presente Decreto, tomando en cuenta la disposición del personal requerido para dicha actividad, brindará las pláticas informativas relativas a la prevención y atención de las adicciones a las personas que comentan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano.
+Los recursos del consejo Estatal estarán orientados a:
 
-G.O. 16 DE FEBRERO DE 2011.
+I.- Atender las contingencias provocadas por fenómenos perturbadores en el Estado;
 
-Primero.- Publíquese en la Gaceta Oficial del Distrito Federal; y su para (sic) mayor difusión en el Diario Oficial de la Federación.
+II.- Apoyar los Subprogramas de Prevención, Auxilio y Restablecimiento;
 
-Segundo.- El presente Decreto entrará en vigor a los treinta días naturales posteriores a su publicación.
+III.- Adquirir y reponer los equipos que requieran para la adecuada aplicación de Programa Estatal de Protección Civil.
 
-Tercero.- El Jefe de Gobierno del Distrito Federal, contará con noventa días naturales, a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Cultura Cívica del Distrito Federal.
+### CAPITULO SEGUNDO. DE LA ADMINISTRACION DE LOS RECURSOS FINANCIEROS
 
-G.O. 30 DE MARZO DE 2012.
+###### Artículo 124.
 
-PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+La Unidad Estatal realizará los estudios financieros que sean necesarios en función de los costos de los servicios de reducción de riesgos, atención a emergencias y, en general del mantenimiento y desarrollo de las estructuras de Protección Civil, a fin de proponer al Consejo, las alternativas de obtención de recursos monetarios.
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+###### Artículo 125.
 
-TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
+El Consejo Estatal por conducto de la Unidad Estatal de Protección Civil, administrará y aplicará los recursos monetarios destinados al Sistema Estatal de Protección Civil, de acuerdo con las disposiciones legales aplicables a los recursos monetarios públicos.
 
-G.O. 31 DE MAYO DE 2012.
+### CAPITULO TERCERO. DE LA COMUNICACION SOCIAL Y DE LOS MEDIOS MASIVOS DE COMUNICACION
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+###### Artículo 126.
 
-SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+La Unidad Estatal establecerá los procedimientos y acciones necesarias a fin de que los medios de comunicación obtengan información oportuna en el lugar de alto riesgo, siniestro, emergencia o desastre, siempre y cuando estos observen las medidas de seguridad que permitan salvaguardar su propia integridad y la de aquellos que atiendan la emergencia.
 
-G.O. 10 DE MARZO DE 2014.
+Para efecto de lo anterior, en el lugar de los hechos, se delimitará un área específica para que los medios de comunicación desarrollen su labor.
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+###### Artículo 127.
 
-SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+En caso de alto riesgo, siniestro, emergencia o desastre, que involucre a dos o más Municipios o que altere el funcionamiento de los servicios vitales y sistemas estratégicos, o se afecte a un gran número de habitantes, la información oficial sobre la misma será proporcionada indistintamente por:
 
-G.O. 6 DE JUNIO DE 2014.
+l.- El Titular del Ejecutivo;
 
-ÚNICO-. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+II.- El Secretario de Gobierno;
 
-G.O. 8 DE SEPTIEMBRE DE 2014.
+III.- El Coordinador Estatal de Protección Civil; o
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, para su debida observancia y aplicación.
+IV.- El Coordinador General de Comunicación Social del Estado.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+###### Artículo 128.
 
-TERCERO.- La Secretaría del Medio Ambiente del Distrito Federal contará con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente Decreto para llevar a cabo la implementación del Registro de establecimientos mercantiles y de servicios que se refiere la fracción XVIII del artículo 6º del presente Decreto.
+En caso del alto riesgo, siniestro, emergencia o desastre, en el área geográfica de un Municipio la información será proporcionada por el Presidente Municipal, Secretario del Ayuntamiento o el Secretario Técnico de Protección Civil Municipal.
 
-CUARTO.- Una vez transcurridos los 60 días hábiles señalados en el artículo TERCERO transitorio del presente Decreto; los titulares de establecimientos mercantiles y de servicios contarán con un plazo de 90 días para efectuar ante la Secretaría del Medio Ambiente del Distrito Federal su registro.
+###### Artículo 129.
 
-QUINTO.- En consecuencia, la Secretaría del Medio Ambiente, la Secretaría de Obras y Servicios y las Delegaciones iniciarán en el ámbito de su respectiva competencia y de manera coordinada la implementación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para el cumplimiento a estas disposiciones e iniciarán una campaña para difundirlas entre la población.
+En caso de alto riesgo, siniestro, emergencia o desastre, los medios de comunicación participarán, pudiendo auxiliar a la autoridad en la difusión de las medidas de salvaguarda para la población, sus bienes y entorno, así como la identificación de riesgos y en su caso los daños derivados del impacto de la contingencia.
 
-SEXTO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar los cambios necesarios a la normatividad en la materia y adecuarlos al contenido del presente Decreto.
+###### Artículo 130.
 
-SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+Los medios masivos de comunicación deberán colaborar en forma respetuosa, ética, pronta, objetiva e imparcial en la difusión de la información necesaria para la prevención de riesgos y orientación a la población, acorde con la meta de la Ley de Protección Civil.
 
-G.O. 8 DE OCTUBRE DE 2014.
+###### Artículo 131.
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal a los 3 días posteriores a la notificación de la presente.
+Los medios masivos de comunicación contribuirán al fomento de la cultura de Protección Civil, difundiendo temas y materiales generados por el Sistema Estatal y Municipal de Protección Civil.
 
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+## TITULO SEPTIMO. DE LAS INSPECCIONES, VIGILANCIA, INFRACCIONES Y SANCIONES
 
-G.O. 28 DE NOVIEMBRE DE 2014.
+### CAPITULO PRIMERO. DE LAS INSPECCIONES Y VIGILANCIA
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+###### Artículo 132.
 
-SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
+Corresponde al Ejecutivo del Estado por conducto de la Unidad Estatal de Protección Civil, o en coordinación con autoridades federales y municipales competentes en la materia de revisión, la función de inspección, vigilancia y sanción para el debido cumplimiento de la Ley de Protección Civil y el presente reglamento, en el Estado de Guanajuato.
 
-TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
+###### Artículo 133.
 
-CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+En lo que corresponde al ámbito Municipal, las funciones de inspección, vigilancia y sanción corresponderán al Presidente Municipal por conducto de la Unidad Municipal de Protección Civil.
 
-G.O. 18 DE DICIEMBRE DE 2014.
+###### Articulo 134.
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+Las inspecciones aplicables conforme a lo marcado en el presente capitulo, se sujetarán a las bases mencionadas en la Ley de Protección Civil para el Estado de Guanajuato.
 
-SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en la Declaratoria de la Incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Distrito Federal, publicada en la Gaceta Oficial el día 20 de agosto del presente año, así como su Fe de Erratas y Aclaratoria de Fe de Erratas, publicadas en la Gaceta Oficial, los días 21 y 22 de agosto del 2014.
+###### Articulo 135.
 
-TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+La Unidad Estatal de Protección Civil de conformidad con los resultados de la inspección y de la verificación a que alude el Artículo 130 del presente reglamento, solicitará y promoverá ante las autoridades competentes la ejecución de las medidas y acciones que se requieran para la atención de situaciones de alto riesgo, siniestro, emergencia o desastre.
 
-CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+###### Artículo 136.
+
+Para la expedición de las conformidades a que hace referencia los artículos 64 del presente Reglamento, 35 y 38 del Reglamento de la Ley Federal de Armas de Fuego y Explosivos y demás conducentes, el solicitante deberá reunir los requisitos siguientes:
+
+I.- Solicitud por escrito dirigida al Gobernador del Estado, en la cual se acredite la personalidad con la cual comparece el promovente: acta de nacimiento en los casos de persona física y acta constitutiva para personas Morales;
+
+II.- Constancia de no antecedentes penales si se trata de una persona física, sí la residencia del solicitante es otro Estado, deberá presentar además de la otorgada por el Estado de Guanajuato, la del Estado de residencia;
+
+III.- Constancia de residencia y certificado de seguridad expedidos por la autoridad municipal, de acuerdo a los artículos 35 inciso g) y 38 inciso e) del Reglamento de la Ley Federal de Armas de Fuego y Explosivos;
+
+IV.- Plano de ubicación del predio donde se pretende instalar la fábrica, taller, comercio o almacén, con un alcance de mil metros alrededor del sitio elegido, a una escala de 1: 4000, certificado por el perito en la materia;
+
+V.- Copia del permiso de uso de suelo otorgado por el Municipio;
+
+VI.- En caso de revalidación, copia del permiso anterior otorgado por la Secretaria de la Defensa Nacional;
+
+VII.- Mencionar el tipo y cantidad de las sustancias o explosivos que se pretenden fabricar, almacenar o comercializar; y
+
+VIII.- Las copias presentadas, deberán ser legibles.
+
+###### Artículo 137.
+
+El responsable de la Unidad Estatal de Protección civil, contará con un término de 60 días naturales para manifestar su opinión al Gobernador del Estado sobre la procedencia o negativa de la conformidad para la expedición de permisos en materia de explosivos que dicta la autoridad federal, contados a partir de la fecha de recepción de la solicitud.
+
+###### Artículo 138.
+
+Para los efectos del artículo anterior, el responsable de la Unidad ordenará la realización de una visita de verificación del lugar en donde se pretende establecer la fábrica, taller, almacén o comercio de explosivos o artículos pirotécnicos, para verificar las condiciones de seguridad adecuadas a la cantidad, tipo de explosivos y actividades que se pretendan realizar, sobre la base de las medidas de seguridad aplicables a substancias consideradas de alto riego en la legislación vigente.
+
+La inspección se llevará a cabo a través de un verificador designado por la Unidad Estatal, y se harán constar por escrito las condiciones de seguridad que presente el inmueble, mediante una acta circunstanciada, con la asistencia de dos testigos designados por el solicitante, o en su defecto, nombrados por los verificadores.
+
+Si el dictamen técnico que emita el verificador determina que el local sujeto a revisión carece de las características mínimas de seguridad y prevención de riesgos y contingencias, el Gobernador del Estado con base en la opinión fundada del representante de la Unidad Estatal, podrá negar la conformidad para el otorgamiento de las diversas modalidades de licencias federales, en materia de explosivos, atendiendo siempre a la Seguridad Pública y al impacto y protección a la comunidad.
+
+###### Artículo 139.
+
+Si el particular que solicita la conformidad del Gobernador se niega a permitir la visita de inspección, el C. Gobernador del Estado podrá negarla, en virtud de que no sería posible garantizar la seguridad de los habitantes de la zona, ni preveer posibles contingencias, al no haber sido constatadas las condiciones mínimas de seguridad.
+
+###### Artículo 140.
+
+La resolución mediante la cual se otorgue o niegue la conformidad del Ejecutivo, se notificará al interesado en las oficinas de la Secretaría de Gobierno, remitiéndose copia de ésta al comandante de la Zona Militar correspondiente.
+
+###### Artículo 141.
+
+La Unidad Estatal de Protección Civil, podrá dictar las medidas necesarias y obligatorias en todo el territorio del Estado, para la vigilancia de la normatividad aplicable a las instalaciones de aprovechamiento de Gas LP y a los vehículos automotores o motores estacionarios de combustión interna, atendiendo a las especificaciones técnicas de seguridad contenidas en las Normas Oficiales Mexicanas vigentes aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Artículo 141-A.
+
+La Unidad Estatal de Protección Civil en coordinación con las unidades municipales, efectuarán visitas semestrales a los Centros de Carburación que utilicen gas L.P. o natural, para verificar el estricto cumplimiento de las medidas de seguridad y protección civil que hayan sido dictadas tanto por las autoridades federales como por las estatales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Articulo 141-B.
+
+La unidad estatal de protección civil de manera conjunta con la Dirección General de Tránsito y Transporte llevará a cabo una campaña permanente de vigilancia y verificación de las unidades del transporte público de pasajeros que estén autorizados para utilizar gas L.P. o natural así como para detectar a aquellas unidades que utilizan dicho combustible sin la autorización respectiva.
+
+### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 142.
+
+La contravención a las disposiciones de la Ley y del presente reglamento, dará lugar a la imposición de las siguientes sanciones:
+
+I.- Apercibimiento;
+
+II.- Multa de treinta a quinientas veces el salario mínimo general diario vigente en la entidad;
+
+III.- Clausura temporal o definitiva, parcial o total; y
+
+IV.- Arresto administrativo, en los casos de infracciones que determinen los reglamentos municipales, conforme al artículo 21 de la Constitución Política de los Estado Unidos Mexicanos, las disposiciones de este ordenamiento y de la Ley Orgánica Municipal.
+
+###### Artículo 143.
+
+Las personas físicas o morales que infrinjan las disposiciones de la ley y el reglamento, serán sancionadas por la autoridad competente en términos del presente Reglamento. Para la imposición de sanciones por infracciones, se aplicará lo marcado en el Capitulo Segundo de las Infracciones y Sanciones de la Ley de Protección Civil para el Estado de Guanajuato.
+
+###### Artículo 144.
+
+Serán solidariamente responsables:
+
+I.- Los propietarios, poseedores, administradores, representantes, organizadores y demás responsables involucrados en las violaciones a la Ley y el presente reglamento;
+
+II.- Quienes ejecuten, ordenen o favorezcan las acciones u omisiones constitutivas de infracción; y
+
+III.- Todo aquel servidor público que facilite la comisión de la infracción.
+
+###### Artículo 145.
+
+El arresto administrativo a que hace referencia el artículo 141, fracción IV de este reglamento, solo podrá ser impuesto por los jueces civiles, previa observancia de los procedimientos reglamentarios correspondientes
+
+###### Artículo 146.
+
+La imposición de las sanciones de la Ley, será independiente de la aplicación de las penas que correspondan cuando la conducta sea constitutiva de delito.
+
+La Unidad Estatal y las Unidades Municipales harán del conocimiento de las autoridades competentes, la contravención a cualquier otra disposición legal de la cual tengan conocimiento.
+
+###### Artículo 147.
+
+Además de las establecidas en la Ley y el presente reglamento, son conductas constitutivas de infracción:
+
+I.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de prevención, auxilio o apoyo a la población;
+
+II.- Impedir u obstaculizar a las autoridades en materia de Protección Civil la realización de inspecciones y verificaciones;
+
+III.- No atender los requerimientos de las autoridades relativos a proporcionar la información y documentación necesarias para cumplir con el ejercicio de las facultades que le reservan la Ley y el reglamento, así como proporcionar falsa información;
+
+IV.- No dar cumplimiento a las resoluciones de la autoridad, en los términos de la Ley y el reglamento; y
+
+V.- En general, realizar acciones u omisiones que contravengan las disposiciones de la Ley o el reglamento de Protección Civil para el Estado de Guanajuato.
+
+###### Artículo 148.
+
+Una vez impuesta la sanción y vencidos los plazos para subsanar las infracciones cometidas, si resultare que dicha infracción o infracciones persisten, podrán imponerse multas por cada día que transcurran sin que el mandato sea obedecido.
+
+Las multas que en este caso se impongan, no podrán exceder del máximo autorizado en el presente Reglamento.
+
+###### Artículo 149.
+
+En los casos de la clausura total o parcial de una obra, instalación o establecimiento la Unidad Estatal cuando lo estime necesario, podrá solicitar a las autoridades competentes la suspensión o cancelación de los permisos o licencias que se hayan otorgado al infractor.
+
+###### Artículo 150.
+
+Cuando se ordene la suspención (sic) de una obra, instalación o servicio como medida de seguridad, se ordenará al infractor que realice los actos o subsane las omisiones que la motivaron fijándole un plazo para ello.
+
+###### Artículo 151.
+
+En el caso que la autoridad considere necesaria la demolición de obras o construcciones como medida de protección y seguridad para las personas, sus bienes o el medio ambiente, solicitarán a las autoridades competentes la aplicación de las disposiciones legales respectivas.
+
+###### Artículo 152.
+
+Las sanciones de carácter pecuniario se harán efectivas en la Secretaria de Planeación y Finanzas o en la Tesorería Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda, y en todo caso su importe se considerará crédito a favor del Estado, y su cobro se hará conforme a las disposiciones del código fiscal para el Estado de Guanajuato.
+
+###### Artículo 153.
+
+Además de las sanciones que se impongan al infractor, la autoridad, en su caso, hará del conocimiento del Ministerio Público aquellos hechos que pudieran constituir delito.
+
+###### Artículo 154.
+
+La imposición de sanciones por el incumplimiento del presente reglamento corresponderá a las autoridades en materia de Protección Civil, señaladas en el Artículo 3º de la Ley de Protección Civil para el Estado de Guanajuato.
+
+## TITULO OCTAVO. DEL RECURSO
+
+### CAPITULO UNICO. DEL RECURSO DE INCONFORMIDAD
+
+###### Artículo 155.
+
+Contra las resoluciones que se dicten con motivo de la aplicación de este reglamento procederá el recurso de inconformidad de acuerdo a lo previsto en las leyes de procedimientos administrativos vigentes.
+
+###### Artículo 156.
+
+Las resoluciones dictadas con motivo de la aplicación de la Ley o del presente reglamento, podrán ser recurridas por los interesados en término de 7 días hábiles siguientes a la fecha de su notificación.
+
+###### Artículo 157.
+
+El recurso de inconformidad deberá ser interpuesto por escrito ante el Director de la Unidad Estatal de Protección Civil, o el Presidente Municipal en su caso.
+
+###### Artículo 158.
+
+En el escrito que se interponga el recurso se señalará:
+
+I.- Nombre y domicilio del recurrente y, en su caso de la persona que promueva en su nombre y representación acreditando debidamente la personalidad con que comparece, si esta no se tenía justificada ante la autoridad que conozca del asunto;
+
+II.- La fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida;
+
+III.- El acto o resolución que se impugna;
+
+IV.- Los agravios que, a juicio del recurrente, le cause la resolución o acto impugnado;
+
+V.- La mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto;
+
+VI.- Los documentos que el recurrente ofrezca como prueba, que tengan relación inmediata o directa con la resolución o acto impugnado, dichos documentos deben acompañarse al escrito a que se refiere el presente artículo;
+
+VII.- No podrá ofrecerse como prueba la confesión de la autoridad; y
+
+VIII.- La solicitud de suspensión del acto o resolución impugnada, previa la comprobación de haber garantizado, en su caso, en interés que represente la sanción.
+
+###### Artículo 159.
+
+Si el escrito por el cual se interpone el recurso fuera oscuro o irregular, la autoridad prevendrá al recurrente por una sola vez, para que lo aclare, corrija o complete, apercibiéndole de que si no cumple dentro del plazo de cinco días, se tendrá por interpuesto.
+
+###### Artículo 160.
+
+Recibido el recurso la autoridad del conocimiento, verificará si este fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo.
+
+En caso de admisión la autoridad del conocimiento señalará día y hora para que tenga lugar la audiencia de pruebas y alegatos en la cual se oirá al interesado, se admitirán y desahogarán las pruebas y se citará para dictar resolución.
+
+###### Artículo 161.
+
+La ejecución de la resolución impugnada se podrá suspender cuando se cumplan los siguientes requisitos:
+
+l.- Lo solicite así el interesado;
+
+II.- No se siga perjuicio al interés social no se contravengan disposiciones de orden público;
+
+III.- Que no se trate de acciones reincidentes;
+
+IV.- Que al ejecutarse la resolución pudiera causar daños de difícil reparación para el recurrente; y
+
+V.- Se garantice el interés derivado de la sanción.
+
+###### Artículo 162.
+
+Celebrada la audiencia y desahogadas las pruebas se dictará el acuerdo correspondiente, se declarará cerrado el procedimiento y se turnaran los autos para resolución, que la autoridad competente dictará en un plazo de 10 días hábiles, confirmando, modificando y revocando la resolución recurrida o el acto combatido. Dicha resolución se notificará personalmente al interesado y no será recurrible.
+
+###### Artículo 163.
+
+En lo no previsto en la Ley y el presente reglamento para las materias de inspecciones, notificaciones, sanciones y recurso de inconformidad, se aplicarán supletoriamente las disposiciones del Código Procesal Civil para el Estado de Guanajuato.
+
+## TITULO NOVENO. DE LAS RESPONSABILIDADES
+
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLlCOS
+
+###### Artículo 164.
+
+Los servidores públicos estatales y municipales, que en cumplimiento de la Ley y del presente reglamento falten a sus deberes o se excedan en sus funciones, serán sancionados en los términos que previene la Ley de Responsabilidades de los Servidores Públicos del Estado, a través de los procedimientos que la propia Ley establece.
+
+###### Artículo 165.
+
+Todo interesado tiene derecho a formular denuncias o quejas ante las autoridades competentes en materia de Protección Civil, así como ante la Secretaría de la Contraloría del Estado, por el incumplimiento de las obligaciones de los servidores públicos del Poder Ejecutivo, de los Municipios y de cualquier otro órgano dependiente del Gobierno del Estado, de las cuales pueda derivarse responsabilidad administrativa
+
+## TRANSITORIO
+
+Artículo Único.- El Presente Reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE GUANAJUATO CAPITAL, A LOS 4 DIAS DEL MES DE SEPTIEMBRE DE 2000 DOS MIL
+
+LIC. RAMON MARTIN HUERTA
+
+EL SECRETARIO DE GOBIERNO
+
+LIC. ANTONIO OBREGON PADILLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JUNIO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTÍCULO SEGUNDO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE DECRETO GUBERNATIVO.
