@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1996-12-24"
+last_updated: "1997-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1996
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -85,9 +85,9 @@ Este impuesto se causará, liquidará y pagará a razón de 1.0% sobre el monto 
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-I.- Empadronarse en la oficina de Hacienda del Estado del lugar donde realicen sus actividades durante los 30 días siguientes a la fecha en que le fue otorgado el acuerdo de concesión.
+I. Inscribirse dentro de los 30 días siguientes a la fecha en que fue otorgado el acuerdo de concesión, al Registro Estatal de Contribuyentes ante la oficina de Hacienda del Estado del lugar donde se realicen sus actividades de conformidad con el artículo 85 del Código Fiscal para el Estado.
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -109,9 +109,9 @@ a).-Una cuota mensual por unidad que determinará la Secretaría de Finanzas y P
 
 Esta cuota mensual deberá ser pagada en los términos de la fracción III del artículo anterior excepto la obligación de presentar declaración de ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-b).-Una cuota anual por unidad que la Secretaría de Finanzas y Planeación podrá determinar estimando sus ingresos probables.
+b) Una cuota anual por unidad que la Secretaría de Finanzas y Planeación determinará considerando el registro de los ingresos gravables. Dicha cuota deberá cubrirse a más tardar el 30 de mayo del año de que se trate.
 
 Cuando los ingresos totales percibidos en un ejercicio fiscal excedan en más de un 20% de los que se hubieren determinado para el señalamiento de la cuota fija a pagar, ésta quedará sin efecto y el contribuyente estará obligado a pagar las diferencias que resulten de la comprobación de los ingresos reales.
 
@@ -273,7 +273,9 @@ III.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1991)
 
 Las personas que habitualmente organicen, exploten o patrocinen diversiones o espectáculos públicos, estarán obligadas:
 
-I.-A registrarse en la Oficina de Hacienda correspondiente, dentro de los diez días siguientes al de la iniciación de sus operaciones haciendo uso de las formas oficialmente autorizadas;
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
+
+I. Inscribirse dentro de los 30 días siguientes al de iniciación de sus operaciones en el Registro Estatal de Contribuyentes ante la oficina de Hacienda del Estado del lugar donde realicen sus actividades de conformidad con el artículo 85 del Código Fiscal para el Estado;
 
 II.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1991)
 
@@ -285,7 +287,7 @@ III.-A manifestar por escrito a la Oficina de Hacienda respectiva, la baja del e
 
 IV.- Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo y al termino del evento, el importe de la retención conforme al boletaje exhibido o cuota cobrada y demás elementos de prueba de que disponga la Oficina Recaudadora.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 V.- A entregar boletos individuales de entrada y comprobantes de pago de cuotas, foliados consecutivamente y autorizados sellados por la Oficina de Hacienda del Estado correspondiente, en los que consten los siguientes datos:
 
@@ -305,11 +307,11 @@ VI.-Llevar libro de ingresos y egresos, donde se hagan constar sus actividades; 
 
 VII.-Retener y enterar el impuesto a la Secretaría de Finanzas y Planeación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-###### ARTICULO 28.
+###### Artículo 28.
 
-Quienes organicen o exploten diversiones o espectáculos públicos de manera accidental, tendrán las mismas obligaciones que establece el artículo anterior, excepto la comprendida en la fracción I.
+Quienes organicen o exploten diversiones o espectáculos públicos de manera accidental tendrán las mismas obligaciones que establece el artículo anterior, además deberán cumplir lo siguiente:
 
 I.-Dar aviso a la Oficina de Hacienda o a su representante, cuando menos con tres días de anticipación, de la iniciación de la diversión o espectáculo público de que se trate;
 
@@ -761,7 +763,7 @@ Tienen obligación los adjudicantes de vehículos de motor, de endosar la factur
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 34.
 
@@ -837,259 +839,293 @@ GENERAL DE TRÁNSITO Y TRANSPORTE
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-###### ARTICULO 45.
+###### Artículo 45.
 
-Por los servicios prestados por la Secretaría General de Gobierno, se causarán y pagaran los derechos siguientes:
+Para los efectos de esta Ley, la Secretaría General de Gobierno cobrará derechos por los servicios que presten las siguientes dependencias de su adscripción:
 
-I.-Legalización de firmas. 1 salario mínimo
+I. Dirección General de Gobernación;
 
-II.-Por registro y diligenciación de exhortos. 2 salarios mínimos
+II. Dirección General de Tránsito y Transporte;
 
-III.-Legalización de firmas de certificados y expedición de copias de actas del Registro Civil. 0.50 salario mínimo
+III. Registro Público de la Propiedad;
 
-IV.-Por la expedición de testimonios de protocolos depositados en el Archivo General de Notarias. 5 salarios mínimos
+IV. Inspección y Archivo General de Notarías; y
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+V. Editora de Gobierno del Estado.
 
-V.- Por la autorización para la prestación de servicios de custodia y traslado de valores y de vigilancia de inmuebles pertenecientes a particulares realizada en el interior de los mismos.
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-a) Por la autorización inicial
+###### Artículo 46.
 
-500 salarios mínimos
+Por servicios prestados por la Secretaría General de Gobierno, a través de las dependencias que se mencionan a continuación, se causarán y pagarán los derechos siguientes:
 
-b) Por revalidación anual
+A. Por servicios del Registro Público de la Propiedad:
 
-100 salarios mínimos
-
-No causarán los derechos a que se refiere este Artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO 46.
-
-Por los servicios prestados por la Secretaría General de Gobierno, a través del Registro Público de la Propiedad, se causarán y pagarán los derechos siguientes:
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-I.-Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base al mayor valor que resulte de comparar el valor catastral asignado por la Oficina correspondiente con el consignado en la operación. Por cada $ 10.00 o fracción:
+I. Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada $ 10.00 o fracción:
 
 $ 0.04
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
 
-En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 250 salarios mínimos.
+En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-a) Por la inscripción de documentos donde de consten lotificaciones, subdivisiones, fraccionamientos y servidumbres.
+a) Por la inscripción de documentos donde consten lotificaciones subdivisiones, fraccionamientos y servidumbres.
 
 4 salarios mínimos
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 b) Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos.
 
 4 salarios mínimos
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-c) Por inscripción de capitulaciones matrimoniales, fusión de predios y disolución de sociedad conyugal.
+c) Por la inscripción de capitulaciones matrimoniales, fusión de predios y disolución de sociedad conyugal.
 
 10 salarios mínimos
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+d) Por la inscripción de constitución de régimen de propiedad en condominio.
 
-d) Por la inscripción de constitución de régimen de propiedad de condominio.
+Por cada vivienda local:
 
-Por cada vivienda o local: 2 salarios mínimos
+2 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-II.-Por la inscripción de documentos relativos a fianza, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad y del Comercio, por cada $ 10.00 o fracción.
+II. Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad, por cada $ 10.00 o fracción.
 
 $ 0.02
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 100 salarios mínimos.
 
-En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 500 salarios mínimos.
+III. Por el registro de actas y demás diligencias relativas a embargos o cédulas hipotecarias decretadas por la autoridad judicial o administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $10.00 o fracción.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+$ 0.05
 
-III.-Por el registro de actas y demás diligencias relativas a embargos definitivos o cédulas hipotecarias decretadas por la Autoridad Judicial o Administrativo sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 10.00 o fracción.
+En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
 
-$ 0.06
+IV. Por la inscripción del contrato de arrendamiento, sobre fincas urbanas o rústicas.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+5 salarios mínimos
 
-IV.-Por la Inscripción de arrendamiento hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada $ 10.00 o fracción.
-
-$ 0.10
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-a).-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes, por cada $ 10.00 o fracción.
-
-$ 0.06
-
-> <small>(REFORMADO, G.O 28 DE DICIEMBRE DE 1995)</small>
-
-b).-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años, por cada $10.00 o fracción.
-
-$ 0.20
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-V.- Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles.
+V. Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles.
 
 6 salarios mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-VI.- Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera y renta vitalicia.
+VI. Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera, renta vitalicia y cualquier otro documento que, conforme a la ley, pueda ser inscrito.
 
 4 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+VII. Por la inscripción de:
 
-VII.- Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento.
+a) Escrituras constitutivas de sociedades civiles o mercantiles.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+10 salarios mínimos
 
-a).-Hasta $ 1,000.00
+b) Documentos en que se modifique el capital de dichas sociedades.
 
-6 salarios mínimos.
+10 salarios mínimos
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+c) Actas y estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa.
 
-b).-Por lo que excede de $ 1,000.00 por cada $ 100.00 o fracción.
+10 salarios mínimos
+
+d) Documentos en que se modifique el acta constitutiva de la sociedad.
+
+10 salarios mínimos
+
+e) Actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles.
+
+6 salarios mínimos
+
+f) Cualesquiera actas de asamblea de las sociedades y asociaciones antes indicadas.
+
+6 salarios mínimos
+
+g) La disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles.
+
+6 salarios mínimos
+
+h) Poderes y su cancelación.
+
+6 salarios mínimos
+
+i) Documentos relativos a la enajenación de bienes muebles.
+
+6 salarios mínimos
+
+VIII. Por inscripción de documentos constitutivos de Fideicomisos traslativos de dominio, se pagará por cada $10.00 o fracción.
+
+$ 0.04
+
+Por la inscripción de documentos en que se constituyan Fideicomisos de garantía, se pagará por cada $10.00 o fracción.
 
 $ 0.02
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+Por la inscripción del documento en que se constituya cualquier otro tipo de Fideicomiso diferente a los señalados en los párrafos que anteceden.
 
-c).-Por la inscripción de actas y estatutos, de sociedades cooperativas, cualesquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada $10.00 o fracción.
+5 salarios mínimos
 
-$ 0.16
+En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+IX. Si cuando en una providencia judicial se comprenden bienes de cualquier clase correspondientes a dos o más entidades federativas y no fuere posible por lo tanto, establecer el valor proporcional de la cantidad asegurada, por los que se hayan ubicados en el territorio veracruzano, se tomará como base el 75% del valor actual real de los inmuebles y el que estimativamente sea imputable a los inmuebles que correspondan siempre que la cuota respectiva no resulte mayor que la que se calcule también sobre el 75% de la cantidad materia del embargo.
 
-d).- Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable
+X. Por la modificación o rectificación de documentos ya registrados, en que no se aumentó el importe de las obligaciones pecuniarias, el 15% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso, hubieren modificado aquéllos en cualquier sentido aplicándose las cuotas vigentes.
 
-6 salarios mínimos.
+Cuando las rectificaciones sean de aumento o las obligaciones contraídas con anterioridad, los derechos se cobrarán sobre las diferencias en demasía que resulte de tales rectificaciones aplicando la fracción que corresponda en el presente artículo.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+XI. Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción.
 
-Además sobre el monto de capital variable, por cada $10.00 o fracción.
+1 salario mínimo
 
-$ 0.006
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-e).-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital.
-
-6 salarios mínimos
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-f).-Por la inscripción de actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles.
+XII. Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio.
 
 4 salarios mínimos
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+a) Por el de no poseer bienes.
 
-g).-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles.
-
-6 salarios mínimos
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-h).-Por la inscripción de poderes y su cancelación.
-
-4 salarios mínimos
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $10.00 o fracción.
-
-$ 0.045
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-Si no tienen valor señalado y éste no puede determinarse se causará. 4 salarios mínimos
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O 28 DE DICIEMBRE DE 1995)</small>
-
-VIII.-Por la inscripción de la constitución de un fideicomiso, traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $10.00 o fracción.
-
-$ 0.075
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Por la inscripción de la constitución del fideicomiso no traslativo de dominio cuando se determine su valor por cada $10.00 o fracción.
-
-$ 0.035
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-Cuando en el acto inscribible no se determine su valor. 4 salarios mínimos
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-Por la inscripción de documentos donde se haga constar la sustitución fiduciaria.
-
-4 salarios mínimos
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-La cancelación de cualquiera de los actos anteriores causará el 25% de la cantidad pagada por su inscripción.
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-IX.-Si cuando en una providencia judicial se comprenden bienes de cualquier clase correspondientes a dos o mas entidades federativas y no fuere posible por lo tanto, establecer el valor proporcional de la cantidad asegurada, por los que se hayan ubicados en el territorio veracruzano, se tomará como base el 75% del valor actual real de los inmuebles y el que estimativamente sea imputable a los inmuebles que correspondan siempre que la cuota respectiva no resulte mayor que la que se calcule también sobre el 75% de la cantidad materia del embargo.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-X.- Por la modificación o rectificación de documentos ya registrados en que no se aumentó el importe de las obligaciones pecuniarias, el 15% del total de los derechos que corresponderían al Estado por la inscripción de las escrituras primordiales y de las que, en su caso, hubieren modificado aquéllos en cualquier sentido aplicándose las cuotas vigentes.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-Cuando las rectificaciones sean de aumento a las obligaciones contraídas con anterioridad, los derechos se cobrarán sobre la diferencia en demasía que resulte de tales rectificaciones aplicando la fracción que corresponda en el presente título.
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-XI.-Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción. 1 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-XII.- Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria, de no inscripción de inmuebles y de limitación de dominio.
-
-4 salarios mínimos
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-a).-Por el de no poseer bienes. 0.50 salario mínimo
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+0.50 salario mínimo
 
 b) Por cualquier otro que se expida y que no esté comprendido anteriormente.
 
 4 salarios mínimos
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+c) Por la expedición de copias certificadas, por cada hoja.
 
-c).-Por la expedición de copias certificadas, por cada hoja. 0.25 salario mínimo
+0.25 salario mínimo
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+XIII. Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre las cuotas señaladas en este artículo.
 
-XIII.-Los documentos otorgados fuera del Estado pagaran un 25 % adicional sobre las cuotas señaladas en este artículo.
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-XIV.- Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma.
+XIV. Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma.
 
 4 salarios mínimos
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+a) Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados para obtener su libertad, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
+
+b) La expedición de certificados o copias certificadas sobre los bienes o derechos de la Federación, de los Estados, de los Municipios, o de sus dependencias, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas entidades o de sus dependencias, siempre que ellas sean las directamente interesadas en asegurar para sí estos mismos bienes o derechos, excepto cuando tal servicio derive de la aplicación de la facultad económica-coactiva en el cobro de adeudos fiscales, en cuyo caso los gastos deberán ser a cargo de los contribuyentes remisos, si no ocurriese la adjudicación al fisco de los bienes embargados.
+
+c) Los certificados o copias certificadas que se expidan con relación a la anotación o restitución de ejidos, conforme a la Constitución General de la República y demás disposiciones concordantes.
+
+d) La inscripción de documentos relativos a las instituciones de beneficencia pública o privada, reconocidas por la ley, siempre que éstas sean las directamente interesadas.
+
+e) Los certificados que se expidan a los inquilinos para los efectos que la Ley del Inquilinato en vigor.
+
+f) Los certificados o copias certificadas que se expidan a los estudiantes o a los padres, tutores, representantes o fiadores de los mismos, para que hagan fe ante cualquier autoridad escolar.
+
+g) La inscripción de las Resoluciones Presidenciales sobre dotación o restitución de ejidos, dictadas de acuerdo con la Constitución General de la República.
+
+h) La inscripción de los contratos de arrendamiento de fincas urbanas que fijen una renta anual inferior a cinco salarios mínimos, en la inteligencia de que no será obligatoria la inscripción.
+
+i) Las inscripciones de los títulos a que se refiere el artículo siete del Decreto Presidencial del 9 de agosto de 1923, sobre ocupación y adquisición de terrenos nacionales y baldíos con fines agrícolas, y
+
+j) Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
+
+k) La inscripción de los contratos traslativos de dominio que en atención a los fines que persiguen, se otorguen por: La Comisión para la Regularización de la Tenencia de la Tierra (Corett), el Fondo de Vivienda para los Trabajadores al Servicio del Estado (Fovissste), el Instituto de Pensiones del Estado (IPE); el Instituto Veracruzano de la Vivienda (Invervi); y la Dirección General del Patrimonio del Estado.
+
+l) Los casos que señalen de manera específica las demás leyes.
+
+B. Por servicios de la Inspección y Archivo General de Notarías:
+
+I. Por la autorización de cada libro de Protocolo Notarial, incluyendo el de certificaciones.
+
+2 salarios mínimos
+
+II. Por cada inscripción de testamento en el Libro de Registro de Disposiciones Testamentarias.
+
+2 salarios mínimos
+
+III. Por la expedición de Patente de Aspirante al Ejercicio del Notariado.
+
+20 salarios mínimos
+
+IV. Por la expedición de autorización para ejercer como Notario Adscrito.
+
+10 salarios mínimos
+
+V. Por la expedición de Nombramiento de Notario Titular.
+
+50 salarios mínimos
+
+VI. Por la expedición de testimonios de los protocolos depositados.
+
+5 salarios mínimos
+
+VII. Por la expedición de copias certificadas de documentos de los protocolos depositados.
+
+3 salarios mínimos.
+
+C. Por servicios de la Editora de Gobierno del Estado:
+
+I. Por publicaciones de:
+
+a) Edicto de interés pecuniario, como: las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos.
+
+Palabra por inserción:
+
+0.033 salarios mínimos
+
+b) Edicto de interés social, como cambio de nombre, póliza de defunción.
+
+Palabra por inserción:
+
+0.022 salarios mínimos
+
+c) Cortes de caja, balances o cualquier documento de formación especial.
+
+Por plana:
+
+6.67 salarios mínimos
+
+II. Por ventas de:
+
+a) Gaceta extraordinaria de 1 a 24 planas.
+
+1 salario mínimo
+
+b) Número extraordinario.
+
+3 salarios mínimos
+
+c) Alcances de 1 a 24 planas.
+
+2 salarios mínimos
+
+d) Alcances de 24 a 72 planas.
+
+5 salarios mínimos
+
+e) Alcances de 72 a 216 planas.
+
+6 salarios mínimos
+
+f) Por copia de Gaceta.
+
+4 salarios mínimos
+
+g) Por un año de suscripción.
+
+13 salarios mínimos
+
+h) Por un año de suscripción foránea.
+
+16 salarios mínimos
+
+i) Por semestre de suscripción.
+
+7 salarios mínimos
+
+j) Por un semestre de suscripción foránea.
+
+9 salarios mínimos
+
+k) Por un ejemplar.
+
+0.133 salarios mínimos
+
+l) Por un ejemplar atrasado.
+
+0.70 salarios mínimos
+
+m) Sentencias, resoluciones, deslindes de carácter agrario y acuerdo de licitación de obra pública.
+
+Por plana:
+
+2 salarios mínimos
 
 XV.-Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
@@ -1113,131 +1149,13 @@ i).-Las inscripciones de los títulos a que se refiere el artículo siete del De
 
 j).-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
 
-> <small>(ADICIONADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+###### Artículo 46-A.
 
-k).-La inscripción de los contratos traslativos de dominio que en atención a los fines que persiguen, se otorguen por: La Comisión para la Regularización de la Tenencia de la Tierra (CORETT), el Fondo de Vivienda para los Trabajadores al Servicio del Estado (FOVISSSTE), el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT); El Instituto de Pensiones del Estado (IPE); el Instituto Veracruzano de la Vivienda (INVERVI); y la Dirección General de Patrimonio del Estado.
+(DEROGADO, G.O. 11 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+###### Artículo 46-B.
 
-###### ARTICULO 46-A.
-
-Por los servicios prestados por la Secretaría General de Gobierno, a través de la Inspección y Archivo General de Notarías, se causarán y pagarán los derechos siguientes:
-
-I.- Por la autorización de cada Libro de Protocolo Notarial
-
-1 salario mínimo
-
-II.-Por cada inscripción de testamento en el Libro de Registro de Disposiciones Testamentarias.
-
-2 salarios mínimos
-
-III.-Por la expedición de Patente de Aspirante al Ejercicio del Notariado.
-
-20 salarios mínimos
-
-IV.-Por la expedición de autorización para ejercer como Notario Adscrito.
-
-10 salarios mínimos
-
-V.-Por la expedición de Nombramiento de Notario Titular.
-
-50 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO 46-B.
-
-Por los servicios que presta la Editora de Gobierno del Estado, se causarán y pagarán los derechos siguientes:
-
-I.- Publicaciones:
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-a).-Edicto de interés pecuniario, como las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Palabra por inserción:
-
-$ 0.75
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-b).- Palabra por inserción N$ 1.00
-
-Edicto de interés social, como cambio de nombre, póliza de defunción.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Palabra por inserción:
-
-........$ 0.50
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-c) Cortes de caja, balances o cualquier documento de formación especial. Por plana.
-
-6 salarios mínimos
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Por plana.
-
-$ 150.00
-
-II.-Ventas:
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-a).-Gaceta extraordinaria de0 1 a 24 planas. $26.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-b).-Número extraordinario. $60.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-c).-Alcances de 1 a 24 planas. $56.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-d).-Alcances de 24 a 72 planas. $120.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-e).-Alcances de 72 a 216 planas. $ 160.00
-
-> <small>(REFORMADO, G.O 28 DE DICIEMBRE DE 1995)</small>
-
-f).-Por copia de Gaceta. $100.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-g) Por un año de suscripción. $300.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-h).-Por un año de suscripción foránea. $350.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-i).-Por un semestre de suscripción. $150.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-j).-Por un semestre de suscripción foránea. $200.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-k).-Por ejemplar. $3.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-l).-Por un ejemplar atrasado. $16.00
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-m).-Sentencias, resoluciones, deslindes de carácter agrario y acuerdo de licitación de obra pública, una plana. $60.00
+(DEROGADO, G.O. 11 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADA SU DENOMINACION. G.O. 24 DE DICIEMBRED E 1991)</small>
 
@@ -1253,9 +1171,11 @@ Por servicios prestados por la Dirección General de Gobernación, se causarán 
 
 I.-Por legalización de firmas que comprenden:
 
-a).-Certificados de Registro Civil.
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-0.50 salario mínimo
+a) Certificados de Registro Civil.
+
+1 salario mínimo
 
 b).-Testimonios notariales y escrituras públicas.
 
@@ -1265,9 +1185,11 @@ c).-Firmas de funcionarios de Gobierno del Estado.
 
 1 salario mínimo
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-II.-Por registro y diligenciación de exhortos de trámite.
+II. Por registro o diligenciación de exhortos.
+
+2 salarios mínimos
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -1281,21 +1203,33 @@ b) Diligenciación 2 salarios mínimos
 
 III.-Por actos realizadas por el Departamento Central del Registro Civil del Estado, como son:
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-a).-Expedición de copia certificada del estado civil de las personas.
+a) Expedición de copia certificada de acta del estado civil de las personas.
 
-0.50 salario mínimo
+1 salario mínimo
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-b).-Expedición de constancias o certificaciones.
+b) Expedición de constancias o certificaciones.
 
-0.50 salario mínimo
+1 salario mínimo
 
-IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero Judicial.
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-0.50 salario mínimo
+IV. Por la autorización para la prestación de servicios de custodia y traslado de valores y de vigilancia de inmuebles pertenecientes a particulares realizada en el interior de los mismos.
+
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+
+a) Por la autorización inicial
+
+500 salarios mínimos
+
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+
+b) Por la revalidación anual.
+
+100 salarios mínimos
 
 V.-Por la conformidad para:
 
@@ -1316,6 +1250,10 @@ C).-El uso y almacenamiento de explosivos.
 VI.-Por Adhesión de "Apostilla" en un documento que deba surtir efectos en un País afiliado a la Convención de la Haya de 1981.
 
 6 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+
+No causarán los derechos a que se refiere este artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -1341,15 +1279,15 @@ Canje Trianual
 
 4.5 Salarios Mínimos.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-II.-Expedición de Licencia de Chofer, tipo "B" para conducir toda clase de vehículos de motor de Servicio Público de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
+II.- Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial.
 
-10.5 Salarios Mínimos.
+11 salarios mínimos
 
 Canje Trianual
 
-4.5 Salarios Mínimos.
+4 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1513,23 +1451,23 @@ B).- Baja administrativa o definitiva de unidad.
 
 1 salario mínimo.
 
-C).-Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-3 salarios mínimos
+C) Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
 
-D).-Reposición de la Tarjeta Anual de identificación de Operador de Transporte Público de Pasajeros.
+4 salarios mínimos
 
-1 salario mínimo
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+
+D) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
+
+2 salarios mínimos
 
 E).-Expedición de Tarifa oficial para el Cobro de Servicio Público de Pasajeros.
 
 1 salario mínimo
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-F).-Expedición de permisos para circular por trámites pendientes.
-
-Por día 0.50 salario mínimo
+F).- (DEROGADA, G.O. 11 DE DICIEMBRE DE 1997)
 
 > <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1581,23 +1519,23 @@ E).-Por la utilización de servicio oficial de depósito y custodia de vehículo
 
 Por día 0.20 salario mínimo
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-X.-Por el otorgamiento de una concesión para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
+X. Por el otorgamiento de una concesión para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
 
-De 150 a 1000 Salarios Mínimos
+De 150 a 300 salarios mínimos
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-XI.-Por la transmisión por sucesión de los derechos de una concesión para prestar el Servicio Público en cualquiera de sus modalidades.
+XI. Por la transmisión por sucesión de los derechos de una concesión para prestar el Servicio Público en cualquiera de sus modalidades.
 
-De 100 a 1000 Salarios Mínimos
+De 50 a 100 salarios mínimos
 
-XII.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
+XII.- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-XIII.-Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte: 150 salarios mínimos
+XIII.- Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte: 150 salarios mínimos
 
 150 salarios mínimos
 
@@ -1605,11 +1543,11 @@ Revalidación anual: salarios mínimos
 
 100 salarios mínimos
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-XIV.-Por la transmisión por cesión de los derechos de una concesión para prestar el Servicio Público de Transporte de carga y de pasajeros en las modalidades de urbano, suburbano y foráneo, con ruta o itinenario fijo, con ruta fija, servicio "A" y "B", taxi, colectivo en automóvil, turismo, escolar, de personal de empresas y rural mixto carga pasaje.
+XIV. Por la transmisión por cesión de los derechos para prestar el Servicio Público de Transporte de carga y pasajeros en las modalidades de urbano, suburbano y foráneo, con ruta e itinerario fijo, con ruta fija, servicio A y B, taxi, colectivo en automóvil, turismo, escolar, de personal de empresa y rural mixto de carga de pasaje.
 
-De 100 a 1,000 días de salarios mínimos
+De 100 a 300 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1647,9 +1585,9 @@ c).-Por la expedición de constancias diversas de datos catastrales.
 
 d).-Por la certificación de planos expedidos por el Departamento de Catastro. 3 salarios mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-II.-Por la certificación de documentos públicos que hayan sido expedidos por el Departamento de Catastro, por hoja.
+II. Por la certificación de documentos públicos, por hoja.
 
 0.25 salario mínimo
 
@@ -1685,27 +1623,29 @@ Por los servicios telegráficos telefónicos y radiotelefónicos que preste la S
 
 I.-Conferencias en casetas telefónicas con líneas comunales de magneto:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-a).-3 minutos $ 0.35
+a) 3 minutos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+0.14 salarios mínimos
 
-b).-Minuto Excedente
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-$ 0 15
+b) Minuto excedente.
+
+0.05 salarios mínimos
 
 c).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 d).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-II.-Abonados telefónicos en línea comunal de magneto.
+II. Abonados.
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+Telefónicos en línea comunal de magneto, mensualmente.
 
-Mensualmente: $23.00
+1 salario mínimo
 
 a).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1761,7 +1701,11 @@ a).-A título de suficiencia para alumnos no promovidos de sexto grado de educac
 
 b).-A título de suficiencia para alumnos que no cursaron alguna materia del Plan de Estudios del nivel medio superior vigente: 0.50 salario mínimo
 
-c).-De regularización para alumnos de los planteles de secundaria, bachillerato y educación superior:
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+
+c) Reposición de Kardex en secundarias.
+
+0.25 salario mínimo
 
 1.-Primera oportunidad 0.25 salario mínimo
 
@@ -1815,11 +1759,107 @@ VII.-Cuota por otros servicios administrativos en los niveles medio superior y s
 
 VIII.-Autorización de traslado de alumnos de educación superior de Estado a Estado: 1 salario mínimo
 
-IX.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
-X.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+IX. Por los trámites relativos al ejercicio profesional.
 
-XI.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+a) Registro de instituciones que imparten Educación Media Superior y Superior.
+
+45 salarios mínimos
+
+b) Registro de carreras.
+
+23 salarios mínimos
+
+c) Registro de firmas autorizadas para la expedición de documentos y/o sellos para cancelarlos.
+
+6 salarios mínimos
+
+d) Enmienda de los registros sobre instituciones que impartan educación profesional.
+
+18 salarios mínimos.
+
+e) Registro de Título Profesional, de diploma, de especialidad y de grado académico.
+
+45 salarios mínimos
+
+f) Registro y autorización para colegios de profesionistas.
+
+45 salarios mínimos
+
+g) Enmienda en relación a colegios de profesionistas.
+
+10 salarios mínimos
+
+h) Inscripción de un asociado a un colegio de profesionistas que no figure en el registro original.
+
+2 salario mínimos
+
+i) Expedición a pasantes de credencial de autorización para ejercer la profesión.
+
+9 salarios mínimos
+
+j) Expedición a pasantes de segunda credencial de autorización para ejercer la profesión.
+
+11 salarios mínimos
+
+k) Expedición a pasantes de tercera credencial de autorización para ejercer la profesión.
+
+13 salarios mínimos
+
+l) Reposición de credencial de autorización a pasantes para ejercer la profesión.
+
+9 salarios mínimos
+
+m) Registro de instituciones que imparten Educación Profesional Técnica.
+
+23 salarios mínimos
+
+n) Enmiendas a los registros de instituciones que imparten Educación Profesional Técnica.
+
+18 salarios mínimos
+
+o) Enmienda en relación al título profesional, de diploma de especialidad y de grado académico.
+
+3 salarios mínimos
+
+p) Duplicado de cédula profesional.
+
+13 salarios mínimos
+
+q) Reposición de cédula profesional
+
+5 salarios mínimos
+
+r) Registro de títulos profesionales de otras universidades del país.
+
+15 salarios mínimos
+
+s) Gestoría de tramitación de registros de títulos profesionales y expedición de cédula profesional ante la SEP México.
+
+7 salarios mínimos
+
+t) Pago por cotejo de documentos.
+
+4 salarios mínimos
+
+u) Expedición de constancias de registro.
+
+4 salarios mínimos
+
+v) Expedición de autorización provisional para ejercer, por encontrarse el título profesional en trámite.
+
+6 salarios mínimos
+
+w) Expedición de constancias de archivo.
+
+4 salarios mínimos
+
+No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualquiera de los siguientes supuestos.
+
+1. Por los registros correspondientes a las instituciones que imparten educación profesional en el estado de Veracruz, que dependan de la Secretaría de Educación y Cultura.
+
+2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional, a los maestros con título específico para enseñanza en cualquiera de sus grados.
 
 ###### ARTICULO 53.
 
@@ -3408,3 +3448,7 @@ G.O. 24 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día primero de enero de 1997, previa su publicación en la 'Gaceta Oficial' Organo del Gobierno del Estado de Veracruz-Llave.
+
+G.O. 11 DE DICIEMBRE DE 1997.
+
+Artículo único. La presente Ley entrará en vigor el día 1° de enero de 1998, previa su publicación en la Gaceta Oficial, órgano del gobierno del estado de Veracruz-Llave.
