@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-8-1995-del-tribunal-pleno-de-la-suprema-41051"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-06-26"
-last_updated: "1995-07-04"
+last_updated: "1997-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41051&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-06-19"
 
 ACUERDO NUMERO 8/1995 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL DIA DIECINUEVE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO, RELATIVO A LA DETERMINACION DEL ENVIO DE ASUNTOS COMPETENCIA DEL TRIBUNAL PLENO Y DE LAS SALAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JULIO 1995.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO 2/1997 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 11 DE JUNIO DE 1997, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 26 de junio de 1995.
 
@@ -90,3 +92,11 @@ Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la
 D.O.F. 4 DE JULIO DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 11 DE JUNIO DE 1997.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su emisión y deberá publicarse en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo Número 8/1995, emitido por el Tribunal Pleno el día diecinueve de junio de mil novecientos noventa y cinco.
+
+TERCERO.- Comuníquese este acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
