@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2003-12-15"
+last_updated: "2004-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2004.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -267,7 +267,11 @@ XLV. Organizar la defensa y prevención social contra la delincuencia, elaborand
 
 XLVI. Establecer un Consejo Tutelar para Menores Infractores, administrando el Centro de Reeducación Social para Menores Infractores en donde se aplicarán las normas correspondientes, así como elaborar y ejecutar los programas de readaptación social en esta materia; y
 
-XLVII. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general.
+XLVII. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2004)</small>
+
+XLVIII.- Supervisar los trabajos del Centro de Control y Evaluación de la Actividad Policial, cuyos dictámenes se turnarán a las dependencias competentes para el análisis y sanción que corresponda en su caso.
 
 ###### ARTICULO 25.
 
@@ -741,7 +745,13 @@ j) Dirección General de Reeducación Social;
 
 k) Dirección General Administrativa; y
 
-l) Secretariado Técnico del Consejo Estatal de Población;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2004)</small>
+
+l) Secretariado Técnico del Consejo Estatal de Población; y
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2004)</small>
+
+m) Centro de Control y Evaluación de la Actividad Policial.
 
 II. SECRETARIA DE FINANZAS Y ADMINISTRACION:
 
@@ -936,3 +946,9 @@ P.O. 15 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado dentro del término de sesenta días contados a partir de la publicación en el Periódico Oficial del presente decreto, deberá realizar las reformas y adiciones necesarias a la Ley de Seguridad Pública del Estado de Aguascalientes a efecto de establecer las facultades y esfera de competencias del Centro de Control y Evaluación de la Actividad Policía.
