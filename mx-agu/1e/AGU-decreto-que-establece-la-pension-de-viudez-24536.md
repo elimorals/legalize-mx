@@ -4,7 +4,7 @@ identifier: "AGU-decreto-que-establece-la-pension-de-viudez-24536"
 country: "mx"
 rank: "decreto"
 publication_date: "1987-12-06"
-last_updated: "1987-12-06"
+last_updated: "2005-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 DECRETO QUE ESTABLECE LA PENSION DE VIUDEZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE DECRETO HA SIDO ABROGADO POR EL ARTICULO UNICO DEL DECRETO NO. 32, PUBLICADO EN EL PERIODICO OFICIAL EL 7 DE FEBRERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Aguascalientes, el 6 de diciembre de 1987.
 
@@ -96,3 +98,15 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO:</small>
+
+P.O. 7 DE FEBRERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto, seguirán aplicándose a los beneficiarios con derechos adquiridos conforme al Decreto que se abroga.
