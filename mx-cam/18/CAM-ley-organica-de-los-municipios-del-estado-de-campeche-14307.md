@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1994-03-16"
+last_updated: "1994-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1984 +21,2692 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1994.
+LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
-INGENIERO EUGENIO ECHEVERRIA CASTELLOT, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
+Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
-Que el H. L Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente
+EL CIUDADANO LICENCIADO CÉSAR HORACIO DUARTE JÁQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
-D E C R E T O
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE:
 
-El H. L Congreso Constitucional del Estado Libre y Soberano de Campeche decreta:
+D E C R E T O:
 
-Número 91
+DECRETO N°.
 
-LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
+904/2015 II P.O.
 
-## TITULO I. DEL REGIMEN MUNICIPAL
+LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU SEGUNDO PERIODO ORDINARIO DE SESIONES, DENTRO DEL SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
 
-### CAPITULO I. Conceptos y Fines
+D E C R E T A
 
-###### ARTICULO 1.
+## TÍTULO PRIMERO
 
-La base de la Organización Política y Administrativa y de la División Territorial del Estado de Campeche, es el Municipio Libre.
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 2.
+###### Artículo 1.
 
-Cada Municipio será gobernado y administrado por un Ayuntamiento de elección popular directa, contará con personalidad jurídica y administrará libremente su hacienda.
+Esta Ley es de orden público e interés social, tiene por objeto garantizar a niñas, niños y adolescentes el pleno respeto, promoción, disfrute y ejercicio de los derechos humanos y garantías previstas en la Constitución Política de los Estados Unidos Mexicanos, la particular de la Entidad Federativa e Instrumentos Internacionales aplicables en la materia, mediante la protección integral.
 
-###### ARTICULO 3.
+###### Artículo 2.
 
-Cuando la extensión o densidad de población lo exijan, el Municipio podrá sub-dividirse en secciones municipales y comisarías.
+Es materia de regulación de esta Ley:
 
-###### ARTICULO 4.
+I. Los derechos de niñas, niños y adolescentes de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, en los términos que establece el Artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los Municipios del Estado tendrán plena capacidad para adquirir y poseer los bienes raíces necesarios para la prestación de los servicios públicos, en los términos del Artículo 27 de la Constitución de la República, pero para enajenar dichos bienes o gravarlos deberán cumplir con lo dispuesto en la Fracción XXXII del Artículo 54 de la Constitución del Estado.
+II. Las obligaciones de las dependencias y entidades de la Administración Pública Estatal y Municipal, a fin de garantizar la protección y restitución integral de los derechos que hayan sido vulnerados.
 
-###### ARTICULO 5.
+Los principios rectores y criterios que orientarán la actuación de los Poderes Ejecutivo, Legislativo, Judicial y organismos constitucionales autónomos, para la consolidación de la política estatal en la materia objeto del presente ordenamiento.
 
-Los Municipios del Estado velarán por el estricto cumplimiento del Artículo 3 de la Constitución Federal y pondrán especial empeño en motivar a los padres de familia para que sus hijos menores asistan a la escuela, para lo cual formarán cada año los padrones de los niños en edad escolar.
+III. Las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar el cumplimiento de los derechos previstos en la Ley.
 
-###### ARTICULO 6.
+###### Artículo 3.
 
-Los Ayuntamientos otorgarán su colaboración al funcionamiento de la Bolsa de Trabajo del Gobierno del Estado, a fin de dar empleo al mayor número de sus vecinos y legalizarán los contratos de trabajo celebrados por los trabajadores residentes en su jurisdicción cuando deban prestar sus servicios en el extranjero.
+Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de su respectiva competencia en apego a los principios, normas y disposiciones contenidas en la presente Ley, expedirán las normas reglamentarias y tomarán las medidas administrativas a efecto de dar cumplimiento al presente ordenamiento.
 
-###### ARTICULO 7.
+Para tal efecto, deberán:
 
-La Autoridad Municipal actuará como auxiliar de la Autoridad Federal en materia de cultos, llevará un registro de los encargados de los templos y otro en el que relacionará la existencia de estos últimos y avisará a la Secretaría de Gobernación por conducto del Gobierno del Estado, de la apertura de nuevos locales al culto.
+I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño e instrumentación de políticas, programas y acciones.
 
-###### ARTICULO 8.
+II. Promover su participación, tomar en cuenta su opinión, considerando los aspectos culturales, éticos, afectivos, educativos y de salud, en todos aquellos aspectos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-Los Municipios del Estado deben atender prioritariamente a los siguientes fines:
+III. Establecer mecanismos transparentes de diagnóstico para la toma de decisiones, seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
 
-a) Seguridad.
+###### Artículo 4.
 
-b) Paz pública.
+El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre toda cuestión debatida que involucre niñas, niños y adolescentes.
 
-c) Moralización.
+Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 
-d) Prestación de los servicios municipales y conservación de los mismos, de acuerdo con la siguiente enumeración:
+También implica que en cualquier decisión que se tome se deberán evaluar y ponderar las posibles repercusiones tomando en consideración el catálogo íntegro de sus derechos, tanto en el momento como proyectado a futuro.
 
-1.- Limpieza.
+###### Artículo 5.
 
-2.- Mantenimiento de los inmuebles de su propiedad.
+Conforme a las disposiciones previstas en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua, la asignación de recursos presupuestales para asegurar el cumplimiento de los derechos que permitan a niñas, niños y adolescentes su desarrollo pleno y armónico, será prioritaria y de interés público.
 
-3.- Conservación de lugares públicos.
+Conforme a lo anterior, los recursos asignados en el Presupuesto de Egresos no podrán ser inferiores, en términos reales, al del ejercicio fiscal inmediato anterior y deberán incrementarse por lo menos en la misma proporción en que se prevea el aumento del presupuesto estatal, a fin de ampliar la cobertura y mejorar la calidad de los programas.
 
-4.- Alumbrado público.
+Lo previsto en este artículo será aplicable, en lo conducente, a los ayuntamientos.
 
-5.- Nomenclatura.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-6.- Reforestación.
+###### Artículo 6.
 
-7.- Parques y jardines.
+El Estado y los municipios, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas y acciones, en materia de goce, ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible, privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales. Para tal efecto, se podrá convocar a las organizaciones de la sociedad civil, instituciones académicas y organismos de defensa de los derechos humanos para evaluar los resultados de los programas implementados.
 
-8.- Mercados.
+Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
-9.- Rastros.
+###### Artículo 7.
 
-10.- Panteones.
+Para los efectos de esta Ley, se entenderá por:
 
-11.- Calles y paseos.
+I. Acciones Afirmativas. Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes.
 
-12.- Servicios de agua.
+II. Acogimiento Residencial. Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
 
-13.- Ornato.
+III. Adopción Internacional. Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia.
 
-### CAPITULO II. Jurisdicción
+IV. Ajustes Razonables. Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
 
-###### ARTICULO 9.
+V. Centro de Asistencia Social. El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones.
 
-Las autoridades municipales tienen competencia plena sobre su territorio, población, así como su organización política y administrativa, dentro de los marcos legales.
+VI. Certificado de Idoneidad. El documento expedido por la Procuraduría de Protección, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1990)</small>
+VII. DIF Estatal. El Organismo Público Descentralizado denominado Desarrollo Integral de la Familia del Estado de Chihuahua.
 
-###### ARTICULO 10.
+VIII. Discriminación Múltiple. La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos.
 
-Los municipios libres en que se divide el Estado son: Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo y Escárcega.
+IX. Familia de Origen. Aquélla compuesta por las personas titulares de la patria potestad, tutela, guarda o custodia, que tienen parentesco ascendente hasta el segundo grado respecto de niñas, niños y adolescentes.
 
-###### ARTICULO 11.
+X. Familia Extensa o Ampliada. Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado y los colaterales hasta el cuarto grado.
 
-Los ayuntamientos serán auxiliados en sus funciones por Juntas Municipales en las secciones que se dividan, Comisarios y Agentes Municipales en los centros de población que se determinen en los Reglamentos de la presente Ley.
+XI. Familia de Acogida. Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
-###### ARTICULO 12.
+XII. Familia de Acogimiento pre-adoptivo. Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
 
-Las poblaciones del Estado se clasifican en 4 categorías: Ciudades, Villas, Pueblos y Congregaciones. Ciudades serán las poblaciones mayores de 5,000 habitantes; Villas las de más de 3,000; Pueblos las de más de 1,000 y Congregaciones las de menos de 1,000 habitantes. Las zonas urbanas ejidales y los centros de población que se formen en los ejidos, independientemente de la categoría que les corresponda por el número de los habitantes y con objeto de evitar conflictos de autoridad con los Comisarios Ejidales en las comunidades así formadas, serán gobernadas directamente por los ayuntamientos del Municipio a que correspondan, que podrán auxiliarse de Agentes Municipales, para tal fin.
+XIII. Igualdad Sustantiva. El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
-###### ARTICULO 13.
+XIV. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional DIF y el DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes.
 
-El Municipio de Calkiní, comprende:
+XV. Procuraduría de Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-I.- La ciudad de Calkiní, Cabecera del Municipio;
+XVI. Programa Estatal. El Programa Estatal de Protección de Niñas, Niños y Adolescentes.
 
-II.- La Sección Municipal de Bécal;
+XVII. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes.
 
-III.- La Sección Municipal de Dzitbalché;
+XVIII. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
 
-IV.- La Sección Municipal de Nunkiní;
+XIX. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
-V.- Isla Arena e Isla Piedras;
+XX. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-VI.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales, en la forma siguiente:
+XXI. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
-A la ciudad de Calkiní, Cabecera del Municipio, corresponden:
+XXII. Sistemas Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
-a) Los pueblos de Concepción, San A. Sahcabchén, Santa Cruz Pueblo, Tepakán.
+XXIII. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia.
 
-b) El Ejido de San Agustín Chunhuás.
+XXIV. Sistema Estatal de Protección Integral. El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
 
-c) Los ranchos de Altamira, Chichmuc, Chun-Chaká, Dolores, Nazarero, Pepenché, Refugio, San Antonio, San Diego, San Francisco, San José, San José Xcanchaltún, San Juan, San Rafael, San Román, Santa Bárbara, Santa Rita, Santa Rosa, Sihó, Huayamá, X-Nohlán, Quinta Sihó, Chuipul, Santa María, Chunhuás.
+XXV. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
 
-A la Sección Municipal de Bécal corresponden:
+XXVI. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
-a) El pueblo de Bécal, Cabecera de la Sección.
+XXVII. Violencia. Uso intencional de poder, de hecho o como amenaza, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones.
 
-b) Los pueblos de Isla Arena y Real de Salinas.
+###### Artículo 8.
 
-c) Los ranchos de Asunción, Dolores, San Antonio Florida, San Felipe, San Francisco, Tanchí.
+Son niñas y niños las personas menores de doce años y adolescentes las que tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
-A la Sección Municipal de Dzitbalché, corresponden:
+La primera infancia comprende a niñas y niños de hasta 7 años de edad no cumplidos.
 
-a) La Villa de Dzitbalché, Cabecera de la Sección.
+Cuando exista duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
-b) El pueblo de Bacabchén.
+### CAPÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES
 
-c) Los ranchos de Almuchil, Chacnichén, Chun-Ox, Miraflores, San Cristóbal, San Diego X-Mac, San Francisco, San Isidro Kakalmozón, San José, San Mateo, San Miguel, San Pedro, San Vicente Dzucsay, Telchac y Anexas, X-Pankuts, Maykekén, Macachí.
+###### Artículo 9.
 
-A la Sección Municipal de Nunkiní, corresponden:
+El apoyo que el Poder Ejecutivo del Estado y los gobiernos municipales otorguen para la satisfacción de los derechos de niñas, niños y adolescentes en situación de vulnerabilidad, será subsidiario respecto de las personas que tengan tal obligación conforme a la Ley.
 
-a) El pueblo de Nunkiní, Cabecera de la Sección.
+###### Artículo 10.
 
-b) El pueblo de Pucnachén.
+Son principios rectores en la interpretación y aplicación de esta Ley, los siguientes:
 
-c) Los ejidos de San Nicolás, Santa Cruz Ex-Hacienda, Hacienda Tankuché, Santa María.
+I. El Interés Superior.
 
-d) Los ranchos de Ahuat-Bach, Kacab, Ceh-Aké, olores Esperanza, Isla de Piedra (también se le llama X-Kanchaltún), Jesús María, Kankuch, Konchán (también se le llama Yaax-Chan), Net-Yuc, San Antonio, San Diego, San Felipe, San Isidro, San Joaquín, San Joaquín de la Boca del Caño, San José, San Juan, San Lorenzo, San Pedro, San Román, San Roque, Santa Ana, Santa María, Santo Domingo, Xoloc, Yaltón (lugar que sirve de embarcadero a pescadores).
+II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos, conforme a lo dispuesto en los Artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales.
 
-###### ARTICULO 14.
+III. La Igualdad sustantiva.
 
-El Municipio de Campeche, comprende:
+IV. La no discriminación.
 
-I.- La ciudad de Campeche, Cabecera del Municipio;
+V. La inclusión.
 
-II.- La Sección Municipal de Pich;
+VI. El derecho a la vida, a la supervivencia y al desarrollo.
 
-III.- La Sección Municipal de Tixmucuy;
+VII. La participación.
 
-IV.- Cayo Arcas;
+VIII. La interculturalidad.
 
-V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales en la forma siguiente:
+IX. La Corresponsabilidad de los miembros de la familia, la sociedad y las autoridades.
 
-A la ciudad de Campeche, Cabecera del Municipio corresponden:
+X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales.
 
-a) Los pueblos de Castamay, Chiná, Hampolol, Lerma y Samulá.
+XI. La Autonomía Progresiva.
 
-b) Los Ejidos de Bethania, Cayal, Chemblás, Hobomó, Kobén, Mucuychakán, Nilchí, San Camilo y Tiquimul.
+XII. El principio pro persona.
 
-c) Las Haciendas de Chivic, Ebulá, Jesús María, Multunchac, Olá, San Lorenzo, Xcampeu, Yalsí y Yaxá.
+XIII. El acceso a una vida libre de violencia.
 
-d) Los ranchos de Aguada, Buenavista, Canisté, El Carmelo, Cuatro Hermanos, Chencollí, El Chi, Chulbac, Cumpich, Las Delicias, Escalera, Fénix, Las Flores, Holtabla, Imí, Kalá, Miramar, Moa, Orotova, Oxá, Paraíso, Playa Alegre, El Potrero, El Prado, Río Verde, San Bartolo, San Fernando, San Francisco, San Isidro, San José, San José (sic), San Miguel, San Nicolás, San Pedro, San Pedro (sic), San Pedro Corralché, San Rafael, San Sebastián, Santa Cristina, Santa María, Santa María (sic), Santa Rita, Santa Rosalía, Tacubaya, Tachic, Tec, Topcemó, Umul, Victoria, Xanabchakán, Xbechel, Xtún, Scuch, Yaxcab y Yucumbalán.
+XIV. La accesibilidad.
 
-A la Sección Municipal de Pich, corresponden:
+###### Artículo 11.
 
-a) El pueblo de Pich, Cabecera de la Sección.
+La Autonomía Progresiva, entendida como el reconocimiento del ejercicio gradual de los derechos, de acuerdo al proceso de evolución de facultades cognitivas, madurez y desarrollo de niñas, niños y adolescentes, constituirá un elemento primordial a considerar en toda acción que se realice en los ámbitos jurídico, social y familiar, a fin de garantizar un crecimiento y desarrollo integral.
 
-b) Los pueblos de Bolonchencahuich y San Juan Cantemó.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-c) Los Ejidos de Alfredo V. Bonfil, Kicab y el N.C.P. Melchor Ocampo.
+###### Artículo 12.
 
-d) Los Ranchos de Cantemó, Lubná, Solbul, Sumil, Yacachí, Chenllano y Xchún.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley, incluyendo el uso de las tecnologías de la información para lograr mayor alcance en la difusión de estos derechos.
 
-A la Sección Municipal de Tixmucuy, corresponden:
+###### Artículo 13.
 
-a) El Pueblo de Tixmucuy, Cabecera de la Sección.
+La aplicación e interpretación de las disposiciones contenidas en la presente Ley deberá realizarse conforme a la Constitución Política de los Estados Unidos Mexicanos y en forma armónica, con las previsiones contenidas en las Leyes de Desarrollo Social y Humano; de Asistencia Social Pública y Privada; de Juventud; de Justicia Especial para Adolescentes Infractores, la que Regula el Funcionamiento de las Instituciones Prestadoras de Servicios para el Cuidado Infantil y de Menores; el Código Civil y demás ordenamientos aplicables del Estado de Chihuahua.
 
-b) El pueblo de Pocyaxum.
+A falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales, en esta Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
 
-c) Los Ejidos Adolfo Ruiz Cortines, Bobolá, Nohakal, Pueblo Nuevo de Cayal, Uayamón y López Mateos.
+###### Artículo 14.
 
-d) Las Haciendas de Chehechuc, Dzuyukak, Hontún, San Antonio Xkix, Uayamón y Yaxcabacal.
+En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el goce y ejercicio igualitario de todos sus derechos.
 
-e) Los Ranchos de Chanyaxché, Chapín, Santo Domingo Xkix, Kilómetro 40, Pital, Xulubché, Dzicilá, Cholul, Santa Gertrudis, San José, Nohyaxché, Santa Rita y la Zona Arqueológica de Etzná.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
-###### ARTICULO 15.
+###### Artículo 15.
 
-El Municipio del Carmen, comprende:
+Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
 
-I.- La Ciudad del Carmen, Cabecera del Municipio;
+###### Artículo 16.
 
-II.- (DEROGADA, P.O. 16 DE NOVIEMBRE DE 1990)
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de la Procuraduría de Protección, de la Comisión Estatal de los Derechos Humanos, del Ministerio Público o cualquier otra autoridad competente, según corresponda, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
 
-III.- La Sección Municipal de Candelaria;
+###### Artículo 17.
 
-IV.- La Sección Municipal de Sabancuy;
+En el Estado de Chihuahua, niñas, niños y adolescentes son sujetos de derecho y por ende gozan de los atributos de la personalidad jurídica.
 
-V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales en la forma siguiente:
+La legislación civil establecerá los casos en que existirá para ellos limitación a la capacidad de ejercicio, en cuyo caso sus intereses serán siempre representados por quienes tengan tal obligación conforme a la ley, a fin de proteger plenamente sus derechos fundamentales y garantías constitucionales.
 
-A la Ciudad del Carmen, Cabecera del Municipio corresponden:
+###### Artículo 18.
 
-a) Los pueblos de Atasta, Isla Aguada y Mamantel.
+Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa mas no limitativa, los siguientes:
 
-b) Los Ejidos de El Carmen, Puerto Rico, Atasta, San Antonio Cárdenas, Nuevo Progreso, Col. Emiliano Zapata (Amp. de San Antonio Cárdenas), Isla Aguada.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
-Zona del Río Las Piñas:
+I. Derecho a la vida, la paz, la supervivencia y al desarrollo.
 
-El Zapote, Arriba y Adelante, La Esperanza.
+II. Derecho de prioridad.
 
-c) Las haciendas de Arcila, Buenavista, Desengaño y Polvoxal y Anexas.
+III. Derecho a la identidad.
 
-d) Los ranchos de Xicalango, Rancho Nuevo, San Antonio Xicalango, Santa Elena, El Pon, San José del Carmen, Ñaco, Julián Alvarez, San Miguel, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, El Porvenir, La Montaña, El Toro, Santa Anita, La Libertad, Santa Elena, Gustavo Fernández, Santa Serafina, Santa María, La Veleta, San Fernando, Loma de Román, El Recuerdo, Lote No. 3, San Pedro.
+IV. Derecho a vivir en familia.
 
-Zona del Río San Pedro:
+V. Derecho a la igualdad sustantiva.
 
-La Cruz, El Tábano, San Francisco, Las Porfías, San Román, San Miguelito, Buenos Aires, El Porvenir, Vista del Carmen, Buena Vista II, Paraíso, Pastal, Baraja, Juncal, Quemado, Aguacatal, El Limonal.
+VI. Derecho a no ser discriminado.
 
-Zona de la Laguna de Términos:
+VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral.
 
-San Luis, San Luto, Chacajito, Ese Mayo, Palchacá.
+VIII. Derecho a una vida libre de violencia y a la integridad personal.
 
-Zona del Río Chepe o del Este; Laguna San Francisco, Laguna de los Vientos y Laguna de las Cruces:
+IX. Derecho a la protección de la salud y a la seguridad social.
 
-Esperanza, San Francisco, Rinconcito, Punta de la Cochina, Tío Blanco, la Veleta, Santa Gertrudis, Lerma, Santa Cruz, La Ilusión, San Román, M. Ayala, El Jaral, Los Leones, Los Gómez, Mameyal, Achotal, San Miguel, San José, La Guadalupe, Tumbo de Montero, Juncal, La Jagua, San Joaquín.
+X. Derecho a la inclusión cuando tengan alguna discapacidad.
 
-Zona del Río Vapor para tomar Río Marentes:
+XI. Derecho a la educación.
 
-Canales, El Vapor, Botijuela, Isaac Sosa, Santa Dolores, El Refugio, El Carmen, Por Poquito, El Ensueño, Guanacastre, El Conuco, Gustavo Aguilar, San José Marentes, Gustavo Ferrer.
+XII. Derecho al descanso, a la recreación, el juego y al esparcimiento.
 
-Zona del Río de las Piñas:
+XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
 
-Naranjal, El Diamante, Cibalitos, La Lucha, Herradura, Santa Valentina, San Francisco, El Copo, El Eslabón, La Lucha, El Tintal II, Popistal, La Paila, San José Victoria, Zapote Mamey, El Salvaje, El Gerente, La Naranja, Nueva Esperanza, San Antonio, El Retiro, Rancho Caribe, San Ángel, Villa Rosa, Vista Alegre, Campamento Villa Rosa Primera Sección, La Mica, Anexo Ramonal, El Cubano, San Leonardo, Villa Rosa, Las Mariposas, Juncal, Brasilia, Pajaral, Soledad, Los Ángeles, Anexo Junes, La Gloria, La Copa, Anexo Soledad, San Hipólito, El Líbano, Jicotea.
+XIV. Derecho a la libertad de expresión y acceso a la información.
 
-> <small>(DEROGADO OCTAVO PARRAFO, P.O. 16 DE NOVIEMBRE DE 1990)</small>
+XV. Derecho de participación y opinión.
 
-A la Sección Municipal de Candelaria, corresponden:
+XVI. Derecho de asociación y reunión.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1993)</small>
+XVII. Derecho a la intimidad.
 
-a) La Ciudad de Candelaria, Cabecera de la Sección.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-b) Los Ejidos de El Naranjo, El Zapote, El Luinal, Pedregal, Pablo Torres Burgos, Nueva Rosita, El Chilar, El Tigre, Las Delicias, Peje Lagarto, Miguel Alemán, Benito Juárez, Guadalupe Victoria, Vicente Guerrero, Tenancingo, Justo Sierra Méndez, Nuevo Coahuila, Lázaro Cárdenas, Las Golondrinas, Miguel Hidalgo, Pedro Baranda, El Mamey, Estado de México, Monclova, Pablo García, Paraíso Nuevo, Corte Pajaral, Venustiano Carranza, Candelaria, Las Delicias, Santa Lucía, Campo Las Ollas, La Esmeralda, Cuauhtémoc, Machetazo, Héctor P. Morales, La Zanja, Primer Presidente de México, Vicente Guerrero, El Cuervo.
+XVIII. Derecho al acceso a la justicia, a la seguridad jurídica y al debido proceso.
 
-c) Los Ranchos: Los Lagartos, Paraíso Núm. 1, La Mestiza, La Comienta del Sabalito, La Carmelita, El Cerrito, Las Palmas, San Enrique, El Roble, La Mascada, El Diamante, San José, Las Cruces, San Romanito, San Domingo, El Galeón, El Astillero, El Pozo, La Esperanza, Punta Montaña, El Porvenir, La Espuela, La Corriente, El Pocito, Las Palmitas, El Corralito, La Nueva Esperanza, El Recreo, San Javier, Santa Anita, San Juanito, El Cascabel, Santa María, Pedregal, San Salvador, San Juanito, El Recuerdo, Los Flamboyanes, Las Delicias, Nos Veremos, San Luis, El Eco, San Fernando, 3 Clavos, El Senderito, La 3a. Carcomá, Rancho Nuevo, Las Sanacuas, La Candelaria, La 1a. Carcomá, La 2a. Carcomá, Los Laureles, El Nopalito, La Guadalupana, Pedregal, San Manuel de las Planadas, El Farolito, Las Delicias, El Solitario, La Unión, Las Mercedes, 3 Clavos, Rancho Nuevo, Santo Domingo, La Chiapaneca, San Javier, San Miguel, San Antonio, El Arpón, San Miguel, La Tucha, Monterrey, Pedregal, 2 Hermanos, California, Las Nubes, Las Delicias, San Mariano, El Candado, La Esperanza, La Esperanza (sic), Piedra Negra, El Porvenir, La Frontera, San Joaquín, Buena Vista, El Pardo, La Tablita, La Esperanza, La Lucha, 2 Arbolitos, El Ancla, El Carmen, San Hipólito, San Carlos, Santa Rosa, El Suspiro, San Martín, San Antonio, El Avanzadero, Las Gaviotas, La Nueva Linda, La Guadalupe, El Trampolín, La Esperanza, El Campesino, El Naranjo, El Cinco, 3 Hermanos, San Iván, La Franelita, Peor es Nada, La Esperanza, La Primavera, Las Cruces, San Juanito, El Triunfo, San Antonio, Las Palmas, El Cantor, La Esperanza, 3 de Mayo, La Escondida, San Fernando, La Primavera, El Rodes, San Román, Paso Real, El Retiro, Salto Grande, Ojo de Agua, El Zivalito, La Carmelita, Achotal, San Remo, Oaxtepacan, La Amapola, La Gloria, El Paragua, El Tambor, La Esperanza, Sto. Domingo, La Palma, Sta. Elena, San Lorenzo, Los Cedros, Punta de Montaña, Vuelta de Pital, San Bartolo, El Imposible, San Francisco, El Sábado, El Vergel, Agua Azul, Santa Catalina, San Marcos, Jotuto, Jalisco, San Antonio, El Tintal, Santa Rosa, Santa Margarita, El Carmen, La Herradura, El Porvenir, El Monarca, La Trinidad, El Recuerdo, San Antonio, La Nueva Historia, La Esperanza, El Limón, El Toro, El Calasal, Las Campanas, La Vuelta del Tigre, El Surdidero, Las Mariposas, La Preciosa, Canutillo, Santa Clara, Porvenir, Cerro Pelón, Sacrificio, Bebedero, San Rafael, Porvenir, El Palmar, El Carmen, Las Pasas, Santa Amelia, El Corazal, El Almendro, El Chilar, Caño Fístolo, Rancho Nuevo, San Juan, San José del Río, Rancho Alegre, La Florecita, Buenos Aires, El Campesino, San Miguel, El Porvenir, La Espuela, El Triángulo, Buena Vista, Jesús García, San Vicente, San José, La Plata, El Cuyo, Pakaytum, Rancho Nuevo, Los Reyes de Guadalupe, El Arroyón, Los Arroyotes, El Delirio, 4 Hermanos, Miguelito, La Granada, La Ilusión, Peje Lagarto, Pacaitum, Blanca Flor, Piedras Negras, Pozas de Ventura, El Chueco, Agua Prieta, El Mango de la Guadalupe, El Manguito, 3 Hermanos, La Granada, La Lucha, La Flecha, Santa Gertrudis, Alejandría, San Bernardo, San Felipe, El Zarzal, Nueva Vida, Las Gaviotas, La Cafetera, El Perico, La Unión, San Antonio, El Ramonal, Lagunas Largas, Cerro de las Aguilas.
+XIX. Derecho de acceso a las tecnológicas de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha de internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-A la Sección Municipal de Sabancuy, corresponden:
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos sin discriminación de ningún tipo o condición.
 
-a) El Pueblo de Sabancuy, Cabecera de la Sección.
+###### Artículo 19.
 
-b) Los Ejidos de Sabancuy, Oxcabal, Ignacio M. Altamirano, Chekubul, Chicbul, Plan de Ayala, Abelardo L. Rodríguez, La Cristalina, Nicolás Bravo, Pino Suárez, Independencia, Ignacio Gutiérrez, Rodríguez Cano.
+Quienes ejercen la patria potestad, tutela, guarda o custodia, tienen la especial obligación de preservar y exigir el cumplimiento de estos derechos.
 
-c) Los ranchos de San Felipe González, Molón, Sabancuy, El Sitio, Chan Rosado, Yabaxique, San Nicolás, Tichel, Pocito, Calax, Punta de Piedra, San José, San Pedro, Quita Calzones, Hermanos Maldonado, La Pita, Flamboyán, El Sequel, Tres Hermanos, Chamizal, Alfredo Góngora, Cuyoc, Polkay, El Gallo, Hoaxin, Yacaxal, El Pavito, José Gallo, Don Mauro, El Esfuerzo, Mecina, Hermanos May, Santa Isabel, Buenavista, Martirio, Herradura, Las Piedras, Ensenada Honda, Zacazonapan, California, Desiderio Campos, Conchecuenché, El Toro, Supultepec, San Enrique, Bolostoc, Cuyo de la Mula, Santa Lilia, Pirí, Cobal, San Gabriel, La Esperanza, Mina de Oro, Santa Isabel, Sal Sol, Augusto Gómez Villanueva, Tres Marías, Los Pasos, Geny, San Luis, Rancho Alegre, Chevojá, Infierno, Catalina, San Fernando, Santa Josefa, Santa Anita, Cien Fuegos, Camagüey.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
 
-###### ARTICULO 16.
+###### Artículo 20.
 
-El Municipio de Champotón, comprende:
+Niñas, niños y adolescentes tienen el derecho a que se les preserve la vida, la paz, la supervivencia y al desarrollo.
 
-I.- La ciudad de Champotón, Cabecera del Municipio;
+Las autoridades estatales y municipales, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
-II.- La Sección Municipal de Hool;
+###### Artículo 21.
 
-III.- La Sección Municipal de Seybaplaya;
+Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
-IV.- La Sección Municipal de Sihochac;
+### CAPÍTULO PRIMERO. DERECHO A LA VIDA, LA PAZ, LA SUPERVIVENCIA Y AL DESARROLLO
 
-V.- La Sección Municipal de Carrillo Puerto;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1994)</small>
+###### Artículo 22.
 
-VI.- La Sección Municipal de Constitución.
+Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 1994)</small>
+###### Artículo 23.
 
-Las poblaciones, Ejidos, Rancherías y Heredades que constituyen la circunscripción jurisdiccional de la cabecera y Secciones Municipales en la forma siguiente:
+A fin de garantizar la vida de niñas y niños desde el momento de su concepción, así como su supervivencia y desarrollo pleno, se privilegiará la atención médica y nutricional, tanto prenatal como postnatal a las madres mediante la prevención, detección y tratamiento oportuno.
 
-I.- A la ciudad de Champotón, Cabecera del Municipio, corresponden:
+###### Artículo 24.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1994)</small>
+Niñas, niños y adolescentes tienen derecho a que se les asegure la prioridad en el ejercicio de sus derechos, especialmente a que:
 
-a) El pueblo de: Pustunich.
+I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1994)</small>
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones.
 
-b) Ejidos de: Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel, Ulumal, Moguel, San Juan Carpizo, Canasayab y López Portillo No. 2, El Cañaveral, General Ortiz Avila, Ignacio López Rayón, San Miguel, Punta de Valle de Quetzalcoatl, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Prudencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Ignacio Allende, N.C.P.E. Melchor Ocampo, Kukulcán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché Castellot, Chilam Balam, Ah-kim-pech y Coronel Ortiz Avila.
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
 
-c) Las Secciones Ejidales de: El Zapote y Vicente Guerrero.
+IV. Se instrumenten políticas públicas transversales para la protección integral de sus derechos.
 
-d) Las haciendas de: Chenkán, Desempeño, San Dimas, Ulumal y San Luis Carpizo.
+V. Se asignen mayores recursos a las instituciones públicas encargadas de la protección de sus derechos.
 
-e) Los ranchos de: Apazote, Continente, Champox, Desempeño, Gesté, Holatún, Holail, Mancalá, Monte Bravo, Nilún, Nuevo León, Paixán, Placeres, Potrerito, Potrero Grande, Retiro, Zakakal, San Enrique, San Gerónimo, San Juan Paychacché, San Miguel, Santa Cruz, Santa Lucía, Santa Rita, Teop, Santa Cecilia, San Jorge, San Eduardo, Villa Minerva, San Manuel, San Samuel, Las Flores, San Juan, Sulvec, Los Corcitos, San Pablito, San Esteban, Playa Azul, San Arturo, El Milagro, Santa María, San José, El Oasis, Santa Rosa, La Guaira, El Madroño, La Cañada, El Charrito, Las Palmas, Monte Cristo, Hermanos Sarmiento, El Zapote, Jaimes, Ulumal, Laramie, Los Tres Hermanos, El Rosario, Santa Laura, Las Recias, La Verónica, Porfirio Díaz, Belén, Soledad, San Pedro, La Guadalupe, Las Cruces, San Martín, El Vesubio, El Tapatío, El Retorno, La Unión, La Aurora, El Sacrificio, El Nopal, Santa Lucía, El Jobo, San Moguel, Santa Elena, Margarito, Obregón, Las Bugambilias, San Javier, Miraflor, Nueva Esperanza, El Divisadero, San Enrique, Santa Susana, Las Delicias, San Francisco, El Mante, La Ponderosa, Emiliano, El Valenciano, El Valencianito, San Marcos, San Fernando, Santa Enriqueta, El Puente, Peña Blanca, El Calvario, La Vigilia, San Eduardo, San Diego, La Peña, Las Gardenias, Tres Hermanos, Santa Cruz, Santa Rosalía, La Esperanza, Jobón, Flamboyán, Santa Fe y El Danubio;
+### CAPÍTULO SEGUNDO. DERECHO DE PRIORIDAD
 
-II.- A la Sección Municipal de Hool, corresponden:
+###### Artículo 25.
 
-a) El Pueblo de Hool, Cabecera de la Sección.
+En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
 
-b) El Ejido de Santa Cruz de Rovira.
+###### Artículo 26.
 
-c) Las Haciendas de San Antonio Teop, San Miguel y San Nicolás.
+Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a:
 
-d) Los ranchos de Kesté, Esperanza, Erika, San José, Arellano y San Miguel;
+I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primera copia certificada del acta correspondiente, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1993)</small>
+II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-III.- A la Sección Municipal de Seybaplaya, corresponde:
+III. Conocer su filiación y su origen, en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1993)</small>
+IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
 
-a) La Ciudad de Seybaplaya, Cabecera de la Sección.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-b) El pueblo de Xkeulil.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente Artículo.
 
-c) El ejido de Villa Madero (antes de Pueblo Nuevo).
+Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-d) Las haciendas de Haltunchén, Kisil, Niop, San Pedro, Santa Isabel, Sihoplaya y Yaxcucul.
+La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
 
-e) El Ingenio "La Joya".
+###### Artículo 27.
 
-f) Las congregaciones de Ciudad Sol, Acapulquito y Costa Blanca.
+Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en territorio nacional, tienen derecho a comprobar su identidad con los documentos emitidos por la autoridad competente u otros medios previstos en la Ley Nacional de Migración y demás disposiciones aplicables.
 
-g) Los ranchos de: Boxol, Chunhuás, Destino, Hunaban, Monte Frío, El Morro, Nenelá y Xculpac;
+En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, se les brindarán todas las facilidades a efecto de darles un trato prioritario.
 
-IV.- A la Sección Municipal de Sihochac, corresponden:
+###### Artículo 28.
 
-a) El pueblo de Sihochac, Cabecera de la Sección.
+Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
 
-b) Los ejidos de: San José Carpizo Uno, San José Carpizo Dos y Arellano.
+###### Artículo 29.
 
-c) La Hacienda de San Pedro.
+Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos económicos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
-d) Los ranchos de: San Francisco, El Amigo, San Cristóbal, Santa Lilia, San Manuel, Júpiter y El Delta;
+No podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-V.- A la Sección Municipal de Carrillo Puerto, corresponden:
+Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean para su subsistencia.
 
-a) El pueblo de Carrillo Puerto, Cabecera de la Sección.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
-b) Los ejidos de Pixoyal, Cinco de Febrero, Miguel Colorado, Chac Chaito y Yohaltún.
+Niñas, niños o adolescentes podrán ser integrados a una familia de acogimiento, preferentemente con la que tenga vínculos de parentesco o afectivos y como última opción se realizará en una institución de asistencia social.
 
-c) Las Secciones Ejidales de: Nuevo Paraíso y la Provincia.
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1994)</small>
+Las autoridades estatales deberán desarrollar campañas permanentes de socialización y promoción de la certificación de familias de acogida para que estas brinden el cuidado, protección y bienestar social por tiempo limitado a aquellas niñas, niños y adolescentes por la temporalidad necesaria previa al aseguramiento de su vida en familia permanente.
 
-VI.- A la Sección Municipal de Constitución corresponden:
+## TÍTULO SEGUNDO. DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-a) El pueblo de Constitución, Cabecera de la Sección.
+### CAPÍTULO TERCERO. DERECHO A LA IDENTIDAD
 
-b) Los pueblos de: Silvituc, Xbonil, Chan Laguna, Conhuás y Concepción.
+###### Artículo 30.
 
-c) Los ejidos de: Centenario, N.C.P.E. Altamira de Zináparo, N.C.P.E. López Mateos, N.C.P.E. Benito Juárez, N.C.P.E. El Porvenir, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Las Maravillas, Santa Lucía, Pablo García, Km. 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez No. 3 y Plan de San Luis.
+Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
 
-###### ARTICULO 17.
+Asimismo, tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
-El Municipio de Hecelchakán, comprende:
+### CAPÍTULO CUARTO. DERECHO A VIVIR EN FAMILIA
 
-I.- La Ciudad de Hecelchakán, Cabecera del Municipio;
+###### Artículo 31.
 
-II.- La Sección Municipal de Pomuch;
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
 
-III.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales en la forma siguiente:
+Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 
-A la Ciudad de Hecelchakán, Cabecera del Municipio corresponden:
+Para efectos del párrafo anterior, el DIF Estatal deberá otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, de esta Ley y demás disposiciones aplicables.
 
-a) Los pueblos de Cumpich, Dzitnup, Pocboc y Santa Cruz.
+###### Artículo 32.
 
-b) El ejido de Chunkanán.
+Las leyes estatales contendrán disposiciones para prevenir y sancionar el traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y preverán procedimientos expeditos para garantizar el ejercicio de esos derechos.
 
-c) Las haciendas de Blanca Flor, San José, San Juan Actún y Tikín.
+En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio nacional, la persona interesada podrá presentar la solicitud de restitución respectiva ante la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
 
-d) Los ranchos de Carmelo, Chaví Chencouoh, Chunkanán, Humpedzquín Kankiriche, Moctezuma, Montecristo Nohalal, Dzohchén, San Joaquín, San Miguel, San Rafael, San Simón, Santa María, Tacubaya, Tanchí, Lec, Chichil, X-Benaox, X-Kombec, Xuelén, Yalnón y las Zonas Arqueológicas de Isla de Jaina y X-Calumkín.
+Cuando las autoridades tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
 
-A la Sección Municipal de Pomuch, corresponden:
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
 
-a) El pueblo de Pomuch, Cabecera de la Sección.
+### CAPÍTULO QUINTO. DERECHO A LA IGUALDAD SUSTANTIVA
 
-b) El ejido de Zodzil.
+###### Artículo 33.
 
-c) Los ranchos de Chenxulá, Cholul, San Antonio del Pom, San Jacinto, San Manuel, San Isidro, San Pedro, San Román, Santa Cristina.
+El DIF Estatal, deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
-###### ARTICULO 18.
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el DIF Estatal, según sea el caso, se asegurará de que niñas, niños y adolescentes:
 
-El Municipio de Hopelchén, comprende:
+I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior.
 
-I.- La ciudad de Hopelchén, Cabecera del Municipio;
+II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo.
 
-II.- La Sección Municipal de Bolonchén de Rejón;
+III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva.
 
-III.- La Sección Municipal de Dzibalchén;
+IV. El DIF Estatal, en el ámbito de sus respectivas competencias, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo.
 
-IV.- La Sección Municipal de Xpujil;
+V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
-V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y secciones municipales en la forma siguiente:
+Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
 
-A la ciudad de Hopelchén, Cabecera del Municipio corresponden:
+La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
 
-a) El pueblo de San Juan Bautista Sahcabchén.
+El DIF Estatal en todo momento será el responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
 
-b) Las congregaciones de Suc-Tuc, Crucero San Luis, Ich-Ek, Xcupil, Becanchén, Konchén, El Poste, Katab, Rancho Sosa, Yaxché-Akal, Xcalot-Akal.
+###### Artículo 34.
 
-A la Sección Municipal de Bolonchén de Rejón, corresponden:
+Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela del Estado de Chihuahua ejercida a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, podrán presentar ante dicha instancia la solicitud correspondiente.
 
-a) La Villa de Bolonchén de Rejón, cabecera de la Sección.
+La Procuraduría de Protección, realizará las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por (sic) legislación aplicable. La Procuraduría de Protección emitirá el certificado de idoneidad respectivo.
 
-b) Las Congregaciones de Xcanahaltún, Xtampak, Chunyaxnic, San Antonio Yaxché, Chun-Cedro, Xculoc, Chunhuaymil.
+La asignación de niñas, niños y adolescentes sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
 
-A la Sección Municipal de Dzibalchén, corresponden:
+I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente.
 
-a) La Villa de Dzibalchén, Cabecera de la Sección.
+II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez.
 
-b) Los pueblos de Chunchintok, Ukúm, Xmaben.
+III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes.
 
-c) La Villa de Vicente Guerrero.
+IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
-d) Las Congregaciones de Pakchén, Chencoh, Ramón Corona, Chanchén, Chun-Ek, Xmejía, Pach-Uitz, Xcanjá.
+### CAPÍTULO SEXTO. DEL DERECHO A NO SER DISCRIMINADO
 
-A la Sección Municipal de Xpujil, corresponde:
+###### Artículo 35.
 
-a) La congregación de Xpujil, Cabecera de la Sección.
+Cuando la Procuraduría de Protección haya autorizado la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, deberán dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
-b) El pueblo de Zoh-Laguna.
+En los casos que la Procuraduría de Protección constate que no se consolidaron las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, procederán a iniciar el procedimiento a fin de reincorporarlos a la Procuraduría de Protección y se realizará, en su caso, una nueva asignación.
 
-c) Las congregaciones de Gustavo Díaz Ordaz, 20 de Noviembre, Tomás Aznar, Nuevo Becal, Central Juanita, Carolina, Dos Aguadas, Josefa Ortiz de Domínguez, Zibal, Cibalito, Arroyo Negro, Los Alacranes, Santa Rosa, Yaka, Juan, Frontera Sur, Manuel Castilla Brito, Ricardo Payro, Cristóbal Colón, El Carmen, La Misteriosa, Los Chinos, Las Pailas, Manuel Crescencio Rejón, José María Morelos y P., Becán, Felipe Angeles, Flores Magón y Emiliano Zapata, Halatún, Alacranes.
+Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, la Procuraduría de Protección revocará la asignación y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
 
-###### ARTICULO 19.
+Los procedimientos de adopción se desahogarán de conformidad con la legislación aplicable.
 
-El Municipio de Tenabo comprende:
+###### Artículo 36.
 
-I.- La ciudad de Tenabo, Cabecera del Municipio;
+Corresponde al DIF Estatal, por conducto de la Procuraduría de Protección, en el ámbito de su competencia:
 
-II.- La Sección Municipal de Tinún;
+I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación.
 
-III.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Sección Municipal en la forma siguiente:
+II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional.
 
-A la ciudad de Tenabo, Cabecera del Municipio corresponden:
+III. Contar con un sistema de información que permita registrar a niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
 
-a) El pueblo de Kankí.
+### CAPÍTULO SÉPTIMO. DERECHO A VIVIR EN CONDICIONES DE BIENESTAR Y A UN SANO DESARROLLO INTEGRAL
 
-b) Los ranchos de Antunchén, Balantauché, Canakalá, Cotilá, Dzidzibalché, Hom, Max, Orizaba, Sahcamucuy, San Francisco Javier, San Pedro, San Román, Santa Rita, Santa Rosa, Vista Alegre, Xcuch.
+###### Artículo 37.
 
-A la Sección Municipal de Tinún, corresponden:
+En materia de adopciones se estará a lo que dispongan las leyes estatales; las cuales han de garantizar la protección de los derechos tutelados en esta Ley y demás legislación aplicable. Asimismo, la legislación estatal deberá prever disposiciones mínimas relativas a:
 
-a) El pueblo de Tinún, Cabecera de la Sección.
+I. Prever que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez.
 
-b) El pueblo de Boholá.
+II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley.
 
-c) El ejido de Nachehá.
+III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma.
 
-d) Los ranchos de Chilib y Xkuncheil.
+IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
 
-###### ARTICULO 20.
+V. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
 
-El Municipio de Palizada, comprende:
+###### Artículo 38.
 
-I.- La ciudad de Palizada, Cabecera del Municipio;
+Tratándose de adopción internacional, la legislación deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
 
-II.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera Municipal en la forma siguiente:
+En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o del DIF Estatal y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los tratados internacionales.
 
-A la ciudad de Palizada, Cabecera del Municipio corresponden:
+El Estado dará seguimiento a la convivencia y proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
-a) La ciudad de Palizada, Cabecera del Municipio.
+Las personas que ejerzan profesiones en el trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema Nacional DIF y del DIF Estatal.
 
-b) Los Ejidos de La Corriente, Santa Isabel, Palizada, Lagón Dulce.
+La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
 
-c) Las Comunidades de Alamilla, Santa Cruz, Santa Isabel, San Juan, El Cuyo, Isla de San Isidro, El Carmen, El Mangal, Tila, Ribera de la Corriente, Las Bodegas, Ribera Gómez, San Eduardo, Lagón Dulce, Puerto Arturo, El Porvenir, Adolfo López Mateos, Tasistal, Tumbo de la Montaña, El Juncal, Santa Lucía, San Román, La Toza, Mariche, El Borbotón, El Paraíso, San Agustín.
+###### Artículo 39.
 
-d) Las Rancherías de Arroyo de Felícito, Canales, Rivera de la Viuda, Ribera del Pital, Ribera del Playón, Ribera de San Joaquín, Ribera de Santa Rosa, Río de la Viuda, Río Viejo.
+Las personas que ejerzan profesiones en el trabajo social y psicología o carreras afines de las instituciones públicas y privadas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, deberán cumplir con los requisitos siguientes:
 
-e) Las Haciendas de Las Islas, Puebla, San Román y Anexas, Santa Elena, El Limonal, Mariche, Monterrey, Morelia, El Pial, El Pialito, Platanar, Salvaje y Anexas, San Eduardo, San José, Santa Lucía, La Toza, El Vapor.
+I. Contar con título y cédula profesional de licenciatura en trabajo social, psicología o carreras afines.
 
-f) Los Ranchos de Aguacate, Alianza, La Alianza, La Almendra, El Almendral, El Almendro, La Armonía, La Asunción, Belem, La Bellota, Boca Chica, Las Bodegas, El Borbotón, Buenavista, Buenos Aires, La Cajera, Candelaria, La Caridad, Carmen, Carmen de Alvarez, Carmen de Padilla, El Carmen, El Cocoyol, El Cometa, Concepción, La Confianza, El Corcho, Corinto y Anexas, Las Cruces, Cupules, Cuyo de los Patos, El Cuyo, Chifón, Las Delicias, El Destino, Dolores, Dos de Abril, Las Dos Palomas, El Ejido, Encanto, Encarnación, Esperanza, Esquipulas, La Estaca, La Estrella, La Estrella Polar, La Flavia, Flores de Corinto, Flores del Carmen, Las Flores de Uc, La Fortuna, La Gloria, Gloria de Los Delgado, La Gorra, El Guanal, El Guásimo, El Guayal, La Herradura, Ilusión, Innominado, Innominado (sic), Isla de Corcho, El Jabín, El Jesús, La Jimbilla, Juárez, Kukulkán, Libertad, Lucha de Benítez, La Lucha de Co, La Lucha, La Lucha y Anexas, Malvenido, El Manatinero, Manglar, La Mano Poderosa, La Margarita, Margarita de Benítez, Las Mercedes, Naranjal, No te Metas, Nueva Esperanza, Nuevas Margaritas, Nuevo México, Orizaba, Las Palmas, Las Palmas (sic), Las Palomas, El Paraíso, Paraíso, Pascualillo, Paso de los Caballos, El Pato, Peor es Nada, Las Piñas, Las Piedras, Porfiria, El Porvenir de Morales, El Porvenir, La Primavera, Providencia, Puerto Arturo, Puerto México, Punta del Salto, Punta de México, Río Blanco, El Recreo, Recuerdo, Reforma y Anexas, La Rebeza, El Rosario, Salsipuedes, El Salto, Sauzal, San Agustín, San Andrés, San Ángel, San Ángel de Fernández, San Antonio, San Antonio (sic), San Antonio de Guzmán, San Bartolo, San Esteban, San Felipe, San Felipe Tauchel, San Felipe de Tila, San Francisco, San Francisco de Cruz, San Francisco de Morales, San Guillermo, San Jacinto de Barroso, San Gerónimo, San Geronimito, San Joaquín, San Joaquín de las Flores, San Joaquín de Benítez, San José de Benítez, San José de la Montaña, San José de Quintana, San Juan, San Juan (sic), San Juan Bautista, San Juan de Dios, San Juanito, San Julio, San Luis, San Luis, San Luis (sic), San Miguel Segundo, San Miguel Arcángel, San Miguel de Tila, San Miguel y Anexas, San Nicolás, San Pablo de López, San Pablo de Zavala, San Pedro, San Rafael, San Román, San Román de Co, San Román de Zavala, San Salvador, Santa Cruz, Santa Cruz (sic), Santa Cruz de Tila, Santa Irene, Santa Margarita, Santa María, Santa Rita, Santa Rosa, Santa Rosa de Gómez, Santa Rosalía, Santa Teresa, Santo Domingo, Santo Domingo (sic), Santo Domingo del Limonal, Santo Domingo del Palmar, Santuario de Tila, El Sauzal, Sinaí, Fracción Limonal, Sinaloa, Sitio Nuevo, Sitio Nuevo, Sitio Nuevo (sic), Sitio Nuevo y Anexas, Soledad y Anexas, Sombra del Palo Alto, Tamarindo, Tasistal, Termópilas, Transvaal, Tres de Mayo, Las Tres Palmas, Triunfo de Hernández, El Triunfo, El Triunfo (sic), Tulipán, Tulipán (sic), La Unión, Venecia, Vista Alegre, Vuelta del Diablo, El Cabresto, El Joval, La Azteca, Santa Adelaida, El Líbano, San Ángel, La Victoria, Los Coculas, San Juliancito, Hoja de Mata, Salsipuedes, Don Rico, San Vicente, San Salvador, Santo Domingo, San Joaquinito, Constitución, Bacardí Rach, Villa Rosa, Las Flores, Reforma Dos, Triunfo, El Tractor, El Bambú, San Simón, San José, San Agustín, Los Coquitos, El Pajaral, El Caño, Campo Nuevo, El Chacá, El Jovito, el Bebedero, El Cacao, El Pich, El Dorado, San Manuel, San José del Carmen, San Vicente, El Chiflón de Velueta, San Felipe de Cabrera, Traslomita, San Juanito, La Soledad, San Hipólito, Mata Larga, La Candelaria, San Francisco, Isleño, Pantoja, Cuatro de Mayo, La Aurora, El Eslabón, El Copó, San José Victoria, Balam.
+II. Acreditar experiencia en temas de desarrollo de la niñez y de la adolescencia, familia, pareja o adopción.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 1990)</small>
+III. Acreditar experiencia laboral mínima de dos años, en trabajo social o psicología, o en la atención de niñas, niños o adolescentes sujetos de asistencia social o solicitantes de adopción.
 
-ARTICULO 20 BIS.- El Municipio de Escárcega, comprende:
+IV. Presentar carta compromiso por parte de la institución de asistencia privada que proponga al profesional de que se trate ante el DIF Estatal a través de la Procuraduría de Protección, en los casos de profesionales que busquen ingresar a instituciones privadas.
 
-I.- La Ciudad de Escárcega, cabecera del Municipio;
+V. No haber sido condenado por delitos dolosos.
 
-II.- Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia Social; Lechugal; Libertad; Miguel de la Madrid; Rodolfo Fierros; Belen y su anexo El Sauz; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; Asunción; División del Norte; Haro; Francisco I. Madero; Don Samuel; Luna; Kilómetro 36; Nuevo Progreso Nº 2; La Victoria; Pital o Nuevo Pital; Chontalpa; Kilómetro 18 o 18 de Marzo; San Isidro; El Huiro; Guadalajara; Benito Juárez Nº 2; El Quebrache; Ojo de Agua; Zaragoza; Conquista Campesina; Chinal; Belisario Domínguez; Aguacatal; San José; Venustiano Carranza N° 2; El Gallo; Felipe Angeles (Ampliación de Pancho Villa); El Sacrificio; Francisco Villa y La Flor; y
+VI. Presentar constancia de la institución de asistencia privada en la que indique que las personas profesionales en trabajo social o psicología o carreras afines, son personas empleadas asalariadas con remuneración mensual fija.
 
-III.- Los ranchos: Las Ruinas; Providencia; Monte Bravo; San Martín; San Joaquín; Oscar Flores; Chaucil 1; Chaucil 2; Chaucil 3; Chaucil 4; Chaucil 5; Caña Fístula 1; Caña Fístula 2; Búfalo; La Estancia; Coliman; Golondrinas; Zeta; San Jorge; Martín; Pedregal; Sacrificio; La Fortuna; Piedras; Elisa; Mil Flores; Félix Romero; Carlos Schnabel; Monte Claro; San Carlos; Gran Poder; San Ignacio; Carlos Heredia; Carmen; Puente de Juárez; Puerto Escondido; Rosa Encerrada; Félix Faller; Hidalgo; Mercedes; El Círculo; Trapiche; Tamarindo; Las Palmas; Encarnación; Selva Negra; San Manuel; Dos Hermanos; Jorge Cural; Jorge Medina; Elidé Hernández; Las Ardillas; Potro; Isis; La Unión; San Jorge 1; La Bomba; El Gallo; Guadalajara; Buenavista; Santa Ana; San Manuel; Otoño; Santa Lucía; Los Altos de Cuyoc; Bonanza; Ponderosa; La Herradura; Láramie; Entre Hermanos; Jabin; Jimbal; San Juan; San Jorge Coyoc; La Flor; San Andrés Mosquetero; Miraflores; Santa Rita; Hermanos Gómez; San Rafael; San Pedro; Esperanza 1: Esperanza 2; Hermanos Navarro; Carmita; El Retiro; San Isidro Cuyoc; Triple R; Leonor; María de la Luz; El Porvenir; El Charro; San Jorge; Pucté 1; Pucté 2; Pucté 3; Pucté 4; Pucté 5; Santa Juliana; Palma Larga; Vista Alegre; Piedral; Guadalupe; Jimba; Taurino; Partenón; San Manuel; Campeador; Borrego; El Limón; Santo Tomás; El Caobo; Neftalín Inurreta; La Esmeralda; El Jazmín; Aventurero; Las Cruces; Progreso; Everardo Espinosa; Daniel Santiago; Santa Fé; Palma Sola; Faisán; Libertad; Carmen; Asunción; San Antonio; Santa María; José Fuentes Ramos; Aída; Saúl Pérez Sosa; Anastacio Damián; Los Reyes; Santo Tomás; Soltero; Juan Mora Guillermo; Norberto Moreno Cano; Eduardo Guillermo Méndez; Adelita; Las Nubes; La Estrella; San Juan; Porfía; Trinidad; Santa Rosalía; El Rey II; Ceferino Moreno Escalante; Jorge Moreno Escalante; Herradura; Nanzal; Vista Alegre; La Libertad; Pedro Moreno Gómez; Esperanza; San Francisco; Laureles; Buenavista; Esperanza; Ilusión; Sacrificio; Trinidad; Vértice; Juanito; Jacinta; Magueyitos; Santa Gertrudis; San Isidro; La Flor; San Pablo; Santa María; San Miguel; San Manuel; Sacrificio; Progreso; Asunción; Fátima; Mameyal; La Gimba; Los Reyes; Los Lirios; El Rincón; El Rosario; Lote 1; Lote 2; Lote 3; Lote 4; Lote 5; Lote 6; Lote 7; Lote 12; Lote 13; Lote 14; Lote 15; Lote 16; Lote 17; Jimbal; Pucteal; Pokar 1; Pokar 2; La Libertad; Salvador; Benitez; Tres Campos; La Unión; Laureles 1; Laureles 2; Bárbara; San Carlos 2; Corozal 1; Corozal 2; San Carlos; Invierno; Las Camelias; Otoño; Loma Linda; Elvira; Tres Hermanos; El Pensamiento; Marcos Verdejo; Lino Melenes; Gustavo Garduño; Catalina; El Vergel; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
+VII. DIF Estatal por conducto de la Procuraduría de Protección expedirán las autorizaciones correspondientes y llevarán un registro de las mismas.
 
-###### ARTICULO 21.
+###### Artículo 40.
 
-La creación y supresión de municipios, secciones municipales, modificación de su territorio, cambios de residencia de las cabeceras municipales y las cuestiones que se susciten sobre límites entre los municipios, serán resueltos por la Legislatura del Estado.
+Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, el DIF Estatal revocará la autorización y registrará la cancelación a que se refiere el Artículo anterior.
 
-### CAPITULO III. De la Organización Territorial
+Las personas profesionales a quienes sea revocada la autorización serán inhabilitadas y boletinadas por el DIF Estatal y notificará de manera inmediata al Sistema Nacional DIF y demás Sistemas de las Entidades Federativas, a fin de evitar adopciones contrarias al interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
 
-###### ARTICULO 22.
+Para la revocación de las autorizaciones e inhabilitación a que se refiere este artículo, se seguirán las disposiciones en materia de procedimiento administrativo aplicables en el estado, según corresponda.
 
-El territorio de los municipios es el que con todo detalle, coordenadas, superficie y señalamiento de límites, les corresponde en el mapa oficial del Estado de Campeche, que una vez aprobado por la totalidad de los integrantes de la Legislatura Estatal y la totalidad de los Honorables Ayuntamientos, formará parte de la presente Ley.
+Cualquier persona podrá presentar una queja ante el DIF Estatal, si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
 
-###### ARTICULO 23.
+###### Artículo 41.
 
-Los Municipios del Estado, como lo establece el Artículo 3 del presente ordenamiento, se dividen en la siguiente forma:
+Las autoridades competentes habrán de garantizar en todo momento el cumplimiento de las obligaciones señaladas en el presente Capítulo.
 
-I.- En Secciones Municipales a cargo de Juntas Municipales, electas popularmente de acuerdo con lo descrito por el Capítulo II, Título Primero de este ordenamiento;
+###### Artículo 42.
 
-II.- En Comisarías Municipales a cargo de un Comisario de elección popular, las que serán determinadas en los reglamentos de esta Ley de acuerdo a lo ya establecido por el Artículo 12 precedente;
+La Procuraduría de Protección ofrecerá orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
 
-III.- En los centros de población descritos en el Artículo 12 que deberán determinarse en el reglamento de esta Ley de cada uno de los Municipios, en los cuales los Ayuntamientos podrán nombrar y remover libremente a los Agentes Municipales que estimen conveniente;
+###### Artículo 43.
 
-IV.- Cada Ayuntamiento, de acuerdo con las peculiares características del Municipio a su cargo, podrá crear sectores, manzanas o cuarteles al efecto de poder mantener una mejor comunicación con los habitantes de su Municipio.
+Niñas, niños y adolescentes tienen derecho al mismo trato y acceso de oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, a fin de lograr su desarrollo pleno e integral.
 
-###### ARTICULO 24.
+###### Artículo 44.
 
-Cuando alguna Congregación quiera erigirse en Pueblo, algún Pueblo en Villa, o Villa en Ciudad, el Comisario o la Junta Municipal respectiva elevará la solicitud al Ayuntamiento del que dependa, el cual, luego de emitir el dictamen relativo, turnará la solicitud al Gobierno del Estado, el que a su vez la trasladará, con el informe que proceda, al Congreso del Estado, para que resuelva lo conducente.
+Las autoridades estatales y municipales para garantizar la igualdad sustantiva de niñas, niños y adolescentes, deberán:
 
-### CAPITULO IV. De los Habitantes de los Municipios
+I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales.
 
-###### ARTICULO 25.
+II. Diseñar, implementar y evaluar programas, políticas públicas a través de acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica.
 
-Son habitantes de los Municipios todas las personas que radiquen en su territorio.
+III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad.
 
-###### ARTICULO 26.
+IV. Establecer medidas dirigidas de manera preferente a niñas y adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley.
 
-Los habitantes del Municipio tendrán los derechos que les otorga la Constitución de la República, la particular del Estado y los demás ordenamientos legales y deberán cumplir con las siguientes obligaciones:
+V. Establecer los mecanismos institucionales que orienten hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado.
 
-I.- Inscribirse en el Padrón Municipal manifestando la propiedad que tengan y la industria, profesión o trabajo de que subsistan;
+VI. Desarrollar campañas permanentes de sensibilización de los derechos de de (sic) estos grupos etarios.
 
-II.- Contribuir para los gastos municipales de la manera que dispongan las leyes;
+###### Artículo 45.
 
-III.- Las demás que les impongan las leyes de acuerdo a su estatuto personal.
+Las acciones, programas y políticas públicas dirigidas a niñas, niños y adolescentes deberán estar encaminadas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva entre niñas, niños y adolescentes y, en general, con toda la sociedad.
 
-###### ARTICULO 27.
+###### Artículo 46.
 
-Son vecinos de los Municipios los habitantes que radiquen dentro de su territorio durante un período de seis meses.
+Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de su origen étnico, nacional o social, idioma o lengua, edad, género, preferencia sexual, estado civil, religión, opinión, condición económica, circunstancias de nacimiento, discapacidad o estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros integrantes de su familia.
 
-###### ARTICULO 28.
+Asimismo, las autoridades estatales y municipales están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto por encontrarse en situación de exclusión social, en situación de calle, por desempeñar alguna de las peores formas de trabajo infantil o cualquiera otra condición de marginalidad.
 
-La calidad de vecino de un Municipio se pierde por dejar de residir 6 meses en su territorio o por no dar aviso a la autoridad municipal de su cambio de domicilio.
+###### Artículo 47.
 
-###### ARTICULO 29.
+Las autoridades estatales y municipales, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizarles la igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
 
-Los vecinos de los Municipios que tengan la calidad de ciudadanos, deberán desempeñar los cargos concejales, las funciones electorales y las de jurado para los que sean nombrados. Los demás vecinos, incluidos los ciudadanos, deberán participar con interés en la solución de los problemas del Municipio.
+La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 
-## TITULO II. DEL REGIMEN DE GOBIERNO MUNICIPAL
+Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de niñas, niños y adolescentes.
 
-### CAPITULO I. Del Gobierno Municipal
+###### Artículo 48.
 
-###### ARTICULO 30.
+Las instancias públicas estatales y municipales, así como los organismos constitucionales autónomos, deberán reportar semestralmente a la Comisión Estatal para el Desarrollo Social y Humano, a través de la Subcomisión para Prevenir y Eliminar la Discriminación, las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten, para su registro y monitoreo, en términos de la Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua.
 
-El Gobierno Municipal estará a cargo de:
+Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, escolaridad, municipio y tipo de discriminación.
 
-I.- Ayuntamientos;
+###### Artículo 49.
 
-II.- Juntas Municipales;
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
 
-III.- Comisarías Municipales.
+###### Artículo 50.
 
-### CAPITULO II. De los Ayuntamientos
+Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-###### ARTICULO 31.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-Los Ayuntamientos serán cuerpos colegiados deliberantes y autónomos; constituirán el órgano de decisión y representarán la autoridad superior en los Municipios.
+###### Artículo 51.
 
-###### ARTICULO 32.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo y garantizarles una vida libre de condiciones de mendicidad, entendiéndose por esto, toda situación que implique solicitar limosnas para sí o para terceras personas. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a la consecución de dicho fin mediante la adopción de las medidas necesarias.
 
-Los Ayuntamientos estarán integrados por:
+### CAPÍTULO OCTAVO. DERECHO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
-I.- Presidente;
+###### Artículo 52.
 
-II.- Regidores;
+Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el armónico desarrollo de su personalidad.
 
-III.- Síndicos.
+###### Artículo 53.
 
-El Ayuntamiento del Municipio de la Capital se compondrá de 1 Presidente, 7 Regidores y 2 Síndicos, por elección popular directa, pudiendo haber hasta 2 Regidores más, electos por el sistema de representación proporcional.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-Los demás Ayuntamientos se compondrán de 1 Presidente, 5 Regidores y 1 Síndico por elección popular directa y para los efectos de representación proporcional estarán sujetos a lo dispuesto por los Ordenamientos Electorales.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-### CAPITULO III. De las Juntas Municipales
+I. El maltrato físico o psicológico, desatención, negligencia, abandono, abuso sexual, así como cualquier otro tipo de violencia generada que les cause o pueda causar un daño a su salud, desarrollo o dignidad, o poner en peligro su supervivencia.
 
-###### ARTICULO 33.
+II. Conductas que atenten contra su correcta formación.
 
-Las Juntas Municipales estarán a cargo de cada una de las secciones en que se divida el territorio municipal y dependerán del Ayuntamiento respectivo.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-###### ARTICULO 34.
+III. Trata de personas en cualquiera de sus formas de explotación y demás conductas punibles establecidas en las disposiciones aplicables, incluidos los actos de mendicidad forzada.
 
-Las Juntas Municipales estarán integradas por 1 Presidente, 3 Regidores y 1 Síndico, que se elegirán en planilla junto con los integrantes del Ayuntamiento correspondiente.
+IV. El trabajo antes de la edad mínima de quince años.
 
-### CAPITULO IV. De los Comisarios y Agentes Municipales
+V. El trabajo en adolescentes mayores de quince años que sean peligrosas (sic) y puedan (sic) perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso.
 
-###### ARTICULO 35.
+VI. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
 
-De acuerdo con lo que establezca el Reglamento de esta Ley, para cada uno de los municipios, habrán Comisarios Municipales que se elegirán en planilla con los integrantes de los Ayuntamientos y de las Juntas Municipales, con objeto de auxiliar a dichas autoridades en el cumplimiento de sus funciones.
+Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
-###### ARTICULO 36.
+Las leyes estatales y municipales deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
-En los poblados ejidales y en aquellos donde no hubiere Comisaría Municipal, el Ayuntamiento, por sí, o a propuesta de la Junta correspondiente, podrá designar Agentes Municipales.
+Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este Artículo para niñas, niños y adolescentes con discapacidad.
 
-### CAPITULO V. De la Renovación de Ayuntamientos, Juntas y Comisarías
+###### Artículo 54.
 
-###### ARTICULO 37.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno goce y ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
 
-Los Ayuntamientos y las Juntas Municipales se compondrán de munícipes electos cada tres años, al igual que los Comisarios Municipales; el Congreso del Estado calificará sus elecciones de acuerdo con el proceso electoral definido en la ley de la materia. Tomarán posesión el día 1o. de Enero del año siguiente a la elección y no podrán ser reelectos para el período inmediato, ni aún con el carácter de suplentes los que hubieren estado en ejercicio; pero los suplentes sí podrán ser electos con el cargo de propietarios.
+La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
 
-###### ARTICULO 38.
+###### Artículo 55.
 
-Por cada munícipe propietario se elegirá un suplente.
+En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas y de la Ley de Atención y Protección a Víctimas u Ofendidos del Delito del Estado de Chihuahua. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
-###### ARTICULO 39.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-Para ser electo componente de un Ayuntamiento, Junta Municipal o Comisaría Municipal, se requiere:
+Para asegurar una efectiva reparación integral del daño, se elaborará un Programa Especial de Reparación Integral en el ámbito Estatal, coordinado por la Comisión Ejecutiva de Atención a Víctimas de conformidad con los procedimientos y alcances de la reparación integral del daño, establecidos en la Ley de Víctimas para el Estado de Chihuahua.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1994)</small>
+###### Artículo 56.
 
-I.- Ser ciudadano campechano que, el día de la elección, tenga 21 años cumplidos, en pleno goce de sus derechos;
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, recibir la prestación de servicios de atención médica gratuita así como de los servicios médicos necesarios para la prevención, tratamiento, atención y rehabilitación de enfermedades y discapacidades físicas o mentales, prevenir, proteger y restaurar su salud. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
 
-II.- Tener un año de residencia en el Municipio, Sección o Comisaría donde deba ejercer su encargo;
+I. Reducir la morbilidad y mortalidad.
 
-III.- Saber leer y escribir;
+II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias, haciendo hincapié en la atención primaria.
 
-IV.- Tener profesión, oficio o modo honesto de vivir;
+III. Promover en todos los grupos de la sociedad, en particular, en quienes ejerzan la patria potestad, tutela, guarda o custodia, los principios básicos de la salud y nutrición, las ventajas de la lactancia materna, la higiene, el saneamiento ambiental y las medidas de prevención de accidentes.
 
-V.- No haber sido condenado por delito que merezca pena corporal.
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
 
-###### ARTICULO 40.
+Asimismo, facilitar espacios apropiados en los centros de salud, con el propósito que las madres trabajadoras tengan la posibilidad de amamantar a sus hijos e hijas o, en su caso, extraerse la leche materna.
 
-Tienen impedimento para ser componentes de Ayuntamiento o de Junta Municipal y para Comisario Municipal, aún cuando reúnan los requisitos que señala el Artículo anterior:
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
 
-I.- Los empleados de la Federación, del Estado o del Municipio, si no se separan de su cargo cuarenta y cinco días antes del fijado para la elección; si el empleado del Municipio fuese Tesorero Municipal o administrador de fondos municipales, no podrá ser electo, aún separándose de su empleo en el término que fija la Ley, si no han sido aprobadas sus cuentas;
+Tratándose de mujeres que se encuentran recluidas en los centros de reinserción social, se asegurará que dicha lactancia se realice en condiciones apropiadas.
 
-II.- Los que tuvieren mando de fuerza pública si no lo dejaren cuarenta y cinco días antes de la elección;
+IV. Adoptar medidas tendentes a la eliminación (sic) las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes.
 
-III.- El padre o la madre, concurriendo ambos o con el hijo o hija, el hermano o hermana en concurrencia con el hermano o hermana, el socio con su socio y el patrón con su dependiente;
+V. Desarrollar la atención sanitaria preventiva, la orientación y asesoría a quienes ejerzan la patria potestad, tutela, guarda o custodia, así como la educación y cuidados en materia de salud sexual y reproductiva, de conformidad con la Ley Estatal de Salud.
 
-IV.- Los que por sentencia firme hubieren sido condenados a la pérdida de sus derechos políticos, pero sólo por el tiempo señalado en la sentencia; y
+VI. Establecer las medidas tendentes a prevenir embarazos tempranos o no deseados.
 
-V.- Los que sean o hayan sido ministros de algún culto.
+VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años.
 
-###### ARTICULO 41.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
 
-Si el impedimento sobreviniere estando ya fungiendo el individuo, deberá cesar en sus funciones temporalmente, si el impedimento es temporal, o definitivamente si no lo fuere. Si se tratara del impedimento contenido en el Inciso III del Artículo anterior, el Ayuntamiento o Junta Municipal a que correspondan los impedidos, dicidirá (sic) quién de ellos es el que debe cesar en sus funciones.
+VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, así como de medidas preventivas que inhiban o disminuyan el consumo de alimentos o bebidas con bajo contenido nutricional y excesivo contenido graso, sal o azúcares, así como aditivos alimentarios; el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas.
 
-###### ARTICULO 42.
+IX. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica.
 
-Los cargos municipales de elección no son renunciables, sino por causa grave debidamente justificada; pero podrán excusarse de desempeñarlos:
+X. Desarrollar la atención sanitaria preventiva, proporcionar asesoría y orientación sobre salud sexual y reproductiva, así como garantizar el acceso a la información y medios para prevenir embarazos no deseados.
 
-I.- Los mayores de sesenta años;
+XI. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita el goce y ejercicio igualitario de sus derechos.
 
-II.- Los directores y profesores de escuelas en ejercicio.
+XII. Prohibir, sancionar y erradicar la esterilización forzada y cualquier forma de violencia obstétrica.
 
-###### ARTICULO 43.
+XIII. Establecer las medidas para que en los servicios de salud se detecten y atiendan de manera especial los casos de víctimas de delitos o violaciones a sus derechos, o sujetos de violencia de cualquier tipo, de conformidad con las disposiciones aplicables en la materia.
 
-En las Elecciones Municipales participarán las mujeres en igualdad de condiciones que los varones con el derecho de voto activo y pasivo.
+XIV. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones.
 
-###### ARTICULO 44.
+XV. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de problemas de salud mental.
 
-Durante la última semana del mes de diciembre del año de la elección, con objeto de dar oportunidad a los representantes de los Poderes del Estado para asistir a todos los actos de protesta, cada uno de los Ayuntamientos se constituirá en sesión solemne a efecto de que el Presidente Municipal saliente informe acerca de los trabajos realizados por el Ayuntamiento.
+XVI. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación.
 
-A continuación el Presidente saliente o el Ejecutivo del Estado si estuviera presente, tomará la protesta al nuevo Ayuntamiento y a continuación el Presidente entrante dará lectura a su Plan y Programa de Trabajo.
+XVII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
 
-###### ARTICULO 45.
+XVIII. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental.
 
-A las nueve horas del primer día del año siguiente en el que se hayan efectuado las elecciones municipales, el Ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del entrante, que hubieren rendido la protesta de Ley como lo establece el Artículo anterior. Inmediatamente después el nuevo Presidente hará la siguiente declaratoria:
+XIX. Proporcionar estimulación para mejorar el desarrollo cognitivo, social y emocional en la primera infancia.
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de ... que deberá funcionar durante los años de ...".
+XX. Asegurar que en el seno de la familia, centros de enseñanza y demás lugares, no sean víctimas de maltrato.
 
-A continuación el Ayuntamiento saliente entregará al entrante los fondos municipales mediante el corte de caja respectivo, así como inventarios cuya verificación podrá hacerse desde luego por los miembros de ambos Ayuntamientos, o dentro de los tres días siguientes, si lo acepta el segundo.
+XXI. Protegerlos del consumo de sustancias adictivas, así como de la exposición a cualquier conducta que les genere un riesgo o daño psicológico o emocional.
 
-###### ARTICULO 46.
+XXII. Brindar atención médica prenatal y postnatal a las mujeres en gestación.
 
-Cuando uno o más miembros del Ayuntamiento entrante, no se presentaren al acto de protesta, sin acreditar justa causa para ello, el Presidente saliente, o en ausencia de éste, el miembro de mayor categoría del Ayuntamiento entrante y que esté presente, exhortará con carácter urgente a los miembros propietarios electos para que se presenten en un término de tres días como máximo, pero si éstos no lo hicieren así, se llamará a los suplentes, los que definitivamente substituirán a los propietarios.
+XXIII. Recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal.
 
-###### ARTICULO 47.
+Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
-Si tomadas todas las medidas que se mencionan en el Artículo anterior, no se integrase el día de la toma de protesta el Ayuntamiento entrante con la mayoría de sus miembros, cualquiera de las personas señaladas en dicho Artículo, por los medios posibles dará cuenta inmediata al Ejecutivo del Estado para que éste, en un plazo perentorio de cinco días, instale el Ayuntamiento y de no ser posible, la Legislatura Local, o la Diputación Permanente, a propuesta del Ejecutivo del Estado, designará los miembros faltantes necesarios para integrar el nuevo Ayuntamiento. Entre tanto, el Gobernador del Estado dictará las medidas conducentes para guardar la tranquilidad y el orden público en el Municipio, y de estimarlo necesario, podrá designar un Consejo Municipal, para que se encargue provisionalmente de la administración del Municipio.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2017)</small>
 
-###### ARTICULO 48.
+El Sistema Estatal de Salud deberá cumplir y garantizar el derecho a la protección de la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes, sin la necesidad de que estén registrados en algún sistema de salud o que no cuenten con documentación oficial, por lo que las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán cumplir y garantizar este derecho, y adecuar su reglamentación para estos efectos.
 
-Aunque no se presentare la mayoría de los miembros del Ayuntamiento saliente, a los actos de protesta y toma de posesión, el Presidente entrante realizará tales actos ante el Presidente o cualquiera otro miembro del Ayuntamiento saliente.
+En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, así como el derecho a la información de quienes ejercen la patria potestad, tutela, guarda o custodia.
 
-###### ARTICULO 49.
+###### Artículo 57.
 
-Cuando por cualquier circunstancia especial, no se verificare la elección de algún Ayuntamiento o se hubieren declarado nulas las elecciones, el Gobernador del Estado, propondrá desde luego a la Legislatura Local o a la Diputación Permanente, la designación de un Ayuntamiento Provisional.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social de niñas, niños y adolescentes, así como desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
 
-###### ARTICULO 50.
+###### Artículo 58.
 
-Cuando después de instalado un Ayuntamiento no hubiere número suficiente de miembros para formar mayoría legal, ya sea por imposibilidad física, licencia o inhabilitación de los propietarios y suplentes, el Presidente Municipal en funciones, lo hará del conocimiento del Ejecutivo del Estado, para que la Legislatura o la Diputación Permanente haga la designación de los miembros substitutos a propuesta del propio Ejecutivo.
+Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás leyes aplicables.
 
-Si por imposibilidad física, licencia o inhabilitación de la totalidad de los miembros propietarios y suplentes de un Ayuntamiento, éste quedare privado de sus funciones y consiguientemente el Municipio carente de autoridad, el Ejecutivo del Estado propondrá a la Legislatura Local, o a la Diputación Permanente en su caso, la designación del Ayuntamiento substituto que concluirá el período respectivo.
+Cuando exista duda o percepción en cuanto a que si es persona con discapacidad, se presumirá que así es. En los casos de discapacidad mental o intelectual, se estará al resultado del dictamen pericial correspondiente.
 
-###### ARTICULO 51.
+Son niñas, niños o adolescentes con discapacidad los que por razón congénita o adquirida presentan una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
 
-Los Ayuntamientos substitutos y provisionales, tendrán las mismas facultades y obligaciones que la Ley impone a los Ayuntamientos designados en elección popular.
+Asimismo, tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás personas.
 
-### CAPITULO VI
+### CAPÍTULO NOVENO. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
-Del Funcionamiento del Ayuntamiento.
+###### Artículo 59.
 
-###### ARTICULO 52.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y acciones afirmativas en términos de las disposiciones aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
 
-La población donde resida el Ayuntamiento se denominará Cabecera del Municipio, y Cabecera de Sección donde la Junta Municipal. Se denominará Comisaría Municipal el lugar donde resida el Comisario.
+La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
 
-###### ARTICULO 53.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a fomentar la inclusión social y establecer el diseño universal de accesibilidad, en términos de la legislación aplicable.
 
-Las decisiones de los Ayuntamientos y de las Juntas Municipales se tomarán por mayoría de votos, en caso de empate, el Presidente Municipal tendrá voto de calidad. Para que haya quórum se requerirá la presencia de la mitad más uno de los componentes de los Ayuntamientos o de las Juntas Municipales, según el caso.
+Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios, de señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
 
-###### ARTICULO 54.
+No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
 
-Los Ayuntamientos y Juntas Municipales celebrarán sesiones ordinarias y extraordinarias. Las primeras, en los días y horas señalados en su Reglamento Interior en los acuerdos que sobre el particular tomen en la segunda sesión que celebren en los meses de enero y junio de cada año y cuyos acuerdos regirán cada período semestral. Las sesiones extraordinarias se celebrarán cuando lo soliciten cuando menos dos de los integrantes de la Corporación.
+No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de niñas, niños y adolescentes con discapacidad.
 
-###### ARTICULO 55.
+###### Artículo 60.
 
-Las sesiones se celebrarán en el local destinado al efecto y a ellas concurrirán únicamente los miembros del Ayuntamiento o la Junta Municipal, aunque en casos especiales, y cuando se juzgue conveniente, podrán asistir personas ajenas a las Corporaciones de que se trate, pudiendo las sesiones, por decisión mayoritaria de sus integrantes, ser públicas.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a realizar acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
 
-###### ARTICULO 56.
+Estas acciones deberán observar como mínimo, los siguientes lineamientos:
 
-Los regidores en ejercicio están obligados a desempeñar sus comisiones con responsabilidad y asistir a las sesiones a las que sean convocados, salvo causa justificada que comunicarán oportunamente al Presidente Municipal.
+I. Reconocer y aceptar la existencia de la discapacidad, a efecto de prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad.
 
-###### ARTICULO 57.
+II. Ofrecer apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela, guarda o custodia, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna.
 
-Cuando algún regidor, sin causa justificada, dejare de cumplir sus obligaciones o comisiones que le hayan sido encomendadas será exhortado por el Presidente del Ayuntamiento a desistir de su actitud. Si, luego de la exhortación, continuare desatendiendo sus funciones, se le suspenderá en el ejercicio de ellas y se pedirá al suplente hacerse cargo de las mismas.
+III. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares.
 
-La suspensión de un regidor por las causas mencionadas, podrá ser temporal o definitiva y será impuesta, en el primer caso, por el Presidente Municipal, y en el segundo por el Ayuntamiento reunido en pleno.
+IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo.
 
-###### ARTICULO 58.
+V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
 
-Para lo no previsto por esta Ley, sobre el funcionamiento de los Ayuntamientos se estará a lo que determine su Reglamento y demás disposiciones que dicten.
+Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, entidad federativa y tipo de discapacidad.
 
-### CAPITULO VII. De las Facultades y Obligaciones de los Ayuntamientos
+### CAPÍTULO DÉCIMO. DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
-###### ARTICULO 59.
+###### Artículo 61.
 
-Son facultades y obligaciones de los Ayuntamientos:
+Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
 
-I.- Formular el Bando Municipal y normas de carácter general y reglamentos municipales necesarios para el cumplimiento de sus fines, para la organización y prestación de los servicios públicos municipales y aquellas que demanden la tranquilidad y seguridad de las personas y sus bienes, y la moralidad, seguridad y salubridad pública, con arreglo a las bases generales que se fijen en esta Ley;
+###### Artículo 62.
 
-II.- Dividir el territorio municipal en Comisarías, Sectores, Manzanas y Cuarteles;
+El DIF Estatal promoverá y operará, por sí mismo, de acuerdo a las posibilidades presupuestales del Poder Ejecutivo del Estado, establecimientos de rehabilitación, y realizará estudios de investigación en materia de discapacidades y participará en programas de rehabilitación y educación especial a favor de niñas, niños y adolescentes.
 
-III.- Otorgar, con la aprobación de la Legislatura y a través del Ejecutivo, a los centros de población, la categoría y denominación política que les corresponda conforme a esta Ley;
+###### Artículo 63.
 
-IV.- Contratar o concesionar mediante concurso, obras y servicios públicos municipales, en términos de esta Ley y sus Reglamentos, solicitando en su caso, la autorización correspondiente de la Legislatura del Estado;
+Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana.
 
-V.- Autorizar a las Juntas Municipales para celebrar toda clase de contratos con excepción de aquellos a que se contrae la fracción anterior, en cuyos casos remitirán las solicitudes debidamente informadas, al Ejecutivo del Estado para su resolución;
+En forma complementaria a los principios y valores previstos en la Constitución Política de los Estados Unidos Mexicanos, el derecho a recibir educación integral se orientará al desarrollo de la personalidad, aptitudes, habilidades, capacidades físicas y mentales hasta el máximo de sus potencialidades, además del pensamiento autónomo, crítico y creativo que posibilite una mejor calidad de vida.
 
-VI.- Crear los Departamentos necesarios para el despacho de los negocios del orden administrativo y para la eficaz prestación de los servicios públicos municipales;
+Cuando posean cualidades intelectuales especiales, la educación deberá ser acorde a sus capacidades y aptitudes.
 
-VII.- Formular, y ejecutar los planes y programas de su competencia;
+Con el propósito de formar a niñas, niños y adolescentes para asumir una vida responsable en una sociedad libre, con espíritu de comprensión, paz, tolerancia, equidad de género, solidaridad y respeto a la diversidad cultural, la educación que se proporcione tenderá a:
 
-VIII.- Enviar al Ejecutivo, planes y programas municipales para su aprobación y coordinación con los de carácter estatal;
+I. Respetar su dignidad e integridad como persona.
 
-IX.- Designar a los miembros de las comisiones de planificación y desarrollo;
+II. Inculcar el respeto de los derechos humanos y los valores democráticos.
 
-X.- Convocar a elecciones de los miembros de los Consejos de Colaboración Municipal;
+III. Fomentar el respeto por su familia, personas con discapacidad, adultos mayores, y sus pares.
 
-XI.- Crear y reglamentar el funcionamiento de las juntas de vecinos dentro del Municipio;
+IV. Fomentar los valores nacionales y la cultura.
 
-XII.- Solicitar al Ejecutivo del Estado la expropiación de bienes por causas de utilidad pública;
+V. Transmitir el espíritu de solidaridad social.
 
-XIII.- Municipalizar en su caso, mediante el procedimiento respectivo, los servicios públicos municipales cuando estén a cargo de particulares;
+VI. Privilegiar los valores éticos.
 
-XIV.- Nombrar al Secretario, Tesorero y Jefes de Departamento, a propuesta del Presidente Municipal y removerlos por justa causa;
+VII. Inculcar el respeto y protección del medio ambiente.
 
-XV.- Formular la iniciativa de la Ley de Ingresos y Presupuesto de Egresos, remitiéndolas al Congreso dentro de los primeros 15 días del mes de noviembre de cada año;
+VIII. Conocer, cuidar y respetar su sexualidad, de acuerdo a su madurez.
 
-XVI.- Celebrar convenios de colaboración con otros municipios de la Entidad; con el Estado o particulares y remitirlos en su caso a la Legislatura Local para su aprobación, a través del Ejecutivo;
+IX. Procurar el desarrollo equitativo de quienes pertenezcan a comunidades indígenas, por tanto, será bilingüe e intercultural.
 
-XVII.- Administrar su hacienda en términos de Ley, y controlar a través del Presidente y Síndico la aplicación del Presupuesto de Egresos del Municipio;
+X. Fomentar la participación activa en las escuelas y en su comunidad.
 
-XVIII.- Enviar a la Legislatura Local, a través del Ejecutivo del Estado, para su autorización, los proyectos para contratación de empréstitos que afectan los ingresos de las posteriores administraciones municipales;
+XI. Promover la equidad de género, previniendo la discriminación.
 
-XIX.- Resolver los recursos interpuestos en contra de los acuerdos dictados por el propio Ayuntamiento o Presidente Municipal;
+###### Artículo 64.
 
-XX.- Sujetar a sus trabajadores al régimen de seguridad social establecido en el Estado;
+Quienes ejerzan la patria potestad, tutela, guarda o custodia, tendrán derecho a decidir el tipo de educación que habrán de recibir sus hijos o pupilos, conforme a los modelos del sistema educativo nacional, así como a participar activamente en el proceso de enseñanza.
 
-XXI.- Dotar de panteón a los centros de población que excedan de quinientos habitantes;
+### CAPÍTULO UNDÉCIMO. DEL DERECHO A LA EDUCACIÓN
 
-XXII.- Crear y sostener, cuando sus fondos lo permitan, agentes de policía municipal que estarán a las órdenes de los Presidentes Municipales y de Sección, y de los Comisarios Municipales, los que auxiliarán al Cuerpo de Seguridad Pública del Estado en el ejercicio de sus funciones;
+###### Artículo 65.
 
-XXIII.- Comparecer en juicio para la gestión o defensa de los intereses municipales, debiendo ser representado por el Síndico o por apoderado especial constituido al efecto. Cuando los Síndicos fueren dos, uno tendrá a su cargo los asuntos judiciales y el otro los de hacienda;
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
 
-XXIV.- Formar su reglamento interior, cuidando de establecer las reglas que han de observarse en las sesiones y en la discusión y votación de los asuntos;
+I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, en donde los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales.
 
-XXV.- En general, promover en la esfera administrativa lo necesario para el mejor desempeño de las funciones que le señalen esta u otras leyes y reglamentos.
+II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación.
 
-###### ARTICULO 60.
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación.
 
-No pueden los Ayuntamientos:
+IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras.
 
-I.- Enajenar, gravar, arrendar o dar posesión de los bienes del Municipio, sin sujetarse a las disposiciones de esta Ley y sus Reglamentos;
+V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad.
 
-II.- Imponer contribuciones que no estén establecidas en la Ley de Ingresos Municipales o decretadas por la Legislatura;
+VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo.
 
-III.- Cobrar los impuestos municipales mediante iguala;
+VII. Establecer acciones afirmativas para garantizar el derecho a la educación de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales.
 
-IV.- Retener o invertir para fines distintos, la cooperación que en numerario o en especie presten los particulares para la realización de obras de utilidad pública;
+VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos.
 
-V.- Tratar directamente fuera del territorio del Estado, asuntos relacionados con su municipio;
+IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes.
 
-VI.- Donar bienes patrimonio del Municipio; salvo las excepciones establecidas en la presente Ley;
+X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos.
 
-VII.- Fijar sueldos a los empleados y funcionarios municipales en base al porcentaje sobre los ingresos; y
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos.
 
-VIII.- Ejecutar planes y programas distintos a los aprobados, sin que previamente se concluyan éstos.
+XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
-### CAPITULO VIII. De las Facultades y Obligaciones de los Presidentes Municipales
+XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado.
 
-###### ARTICULO 61.
+XIV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales.
 
-El Presidente Municipal, es el órgano ejecutor de las determinaciones del Ayuntamiento y tiene las siguientes facultades y obligaciones:
+XV. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa.
 
-I.- Promulgar y publicar el Bando Municipal;
+XVI. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes y para abatir el ausentismo, abandono y deserción escolares.
 
-II.- Dar publicidad a las normas de carácter general y reglamentos aprobados por el Ayuntamiento;
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes.
 
-III.- Presidir y dirigir las sesiones de los Ayuntamientos;
+XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes.
 
-IV.- Dentro de su competencia cumplir y hacer cumplir las disposiciones contenidas en las Leyes y Reglamentos Federales, Estatales y Municipales, así como aplicar en su caso, a los infractores de estos últimos, las sanciones correspondientes;
+XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente.
 
-V.- Convocar a sesiones extraordinarias a los integrantes del Ayuntamiento;
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación.
 
-VI.- Proponer al Ayuntamiento, los nombramientos de Secretario, Tesorero y Jefes de Departamentos Municipales;
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
 
-VII.- Vigilar que los Departamentos Administrativos Municipales, se integren y funcionen en forma legal;
+XXII. Establecer programas de educación de la afectividad y sexualidad integral basados en los ejes, biológicos, pedagógicos, antropológicos, psicológicos de acuerdo al grado de madurez y desarrollo.
 
-VIII.- Vigilar que se integren y funcionen los Consejos de Colaboración y Comisiones Municipales;
+###### Artículo 66.
 
-IX.- Vigilar la recaudación en todas las ramas de la Hacienda Municipal;
+Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
-X.- Vigilar que la inversión de los fondos municipales se aplique con estricto apego al presupuesto;
+### CAPÍTULO DUODÉCIMO. DERECHO AL DESCANSO, LA RECREACIÓN, EL JUEGO Y AL ESPARCIMIENTO
 
-XI.- Celebrar a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el desempeño de los negocios administrativos y eficaz prestación de los servicios públicos municipales;
+###### Artículo 67.
 
-XII.- Vigilar e inspeccionar las dependencias municipales, para cerciorarse de su funcionamiento, tomando aquellas medidas que estime pertinentes para la mejor administración municipal;
+La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
 
-XIII.- Visitar los poblados del Municipio, en compañía de las personas que presidan las comisiones y consejos municipales, para conocer sus problemas e informar de ellos al Ayuntamiento, para que sean tomadas las medidas tendientes a su resolución;
+I. Fomentar los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas.
 
-XIV.- Autorizar las órdenes de pago a la Tesorería Municipal, que sean conforme al presupuesto, firmando en unión de los regidores del ramo respectivo y del Secretario;
+II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes.
 
-XV.- Informar al Ayuntamiento de la forma en que ha cumplido los acuerdos de éste;
+III. Inculcar sentimientos de identidad y pertenencia a su familia, escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1993)</small>
+IV. Orientar respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera.
 
-XVI.- Informar en la primera quincena de Diciembre de cada año, en Sesión Solemne de Cabildo del Ayuntamiento, del estado que guarda la Administración Municipal y de las labores realizadas durante el año;
+V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo.
 
-XVII.- Nombrar al personal administrativo cuando así se requiera; y
+VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas.
 
-XVIII.- Todas las demás que le concedan o fijen las Leyes, Reglamentos o el propio Ayuntamiento.
+VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes.
 
-###### ARTICULO 62.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
 
-No pueden los Presidentes Municipales:
+VIII. Impartir educación sexual integral conforme a la edad, el desarrollo evolutivo, cognoscitivo y madurez, abordando conocimientos sobre la reproducción humana, planificación familiar, higiene y gestión menstrual, y prevención de enfermedades de transmisión sexual, entre otros.
 
-I.- Distraer los fondos y bienes municipales de los fines a que estén destinados;
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos.
 
-II.- Imponer contribución o sanción alguna que no esté señalada en la Ley de Ingresos u otras disposiciones legales;
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
 
-III.- Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles o inmuebles o en cualquier otro asunto de carácter civil, ni decretar sanciones o penas en los de carácter penal;
+### CAPÍTULO VIGÉSIMO. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
 
-IV.- Utilizar su autoridad o influencia oficial para hacer que los votos en las elecciones recaigan en determinada persona o personas;
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-V.- Ausentarse del Municipio sin licencia del Ayuntamiento, excepto en aquellos casos de urgencia justificada;
+###### Artículo 106 Bis.
 
-VI.- Cobrar personalmente o por interpósita persona, multa o arbitrio alguno, o consentir o autorizar que oficina distinta de la Tesorería Municipal, conserve o tenga fondos municipales;
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-VII.- Utilizar a los empleados o policías municipales para asuntos particulares; y
+Se garantizará el acceso y uso seguro del Internet, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
-VIII.- Residir durante su gestión fuera del territorio municipal.
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 63.
+###### Artículo 106 Ter.
 
-Para el cumplimiento de sus actividades el Presidente Municipal, podrá en cualquier tiempo auxiliarse de los demás integrantes del Ayuntamiento, formando comisiones permanentes o transitorias.
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-###### ARTICULO 64.
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-El Presidente asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuera parte, en los siguientes casos:
+###### Artículo 106 Quáter.
 
-a) Cuando el Síndico esté impedido legalmente para ello; y
+Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
 
-b) Cuando se niegue a asumirlo; en este caso se obtendrá la autorización del Ayuntamiento.
+###### Artículo 68.
 
-### CAPITULO IX. De los Síndicos
+Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejerzan la patria potestad o tutela.
 
-###### ARTICULO 65.
+Para efectos del párrafo anterior, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
 
-Los Síndicos de los Ayuntamientos, tendrán las siguientes facultades y obligaciones:
+I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia.
 
-I.- La procuración, defensa y promoción de los intereses municipales;
+II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente.
 
-II.- La representación jurídica de los Ayuntamientos en los litigios en que éstos fueren parte y en la gestión de los negocios de la Hacienda Municipal;
+III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar.
 
-III.- Asistir a los remates públicos en los que tenga interés el Municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones prevenidos por las leyes respectivas;
+IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-IV.- Presidir aquellas comisiones para las cuales sea previamente designado;
+###### Artículo 69.
 
-V.- Revisar frecuentemente las relaciones de rezagos para que sean liquidados;
+Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego, y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales que contribuyan al pleno desarrollo y sano crecimiento.
 
-VI.- Revisar y firmar los cortes de caja de la Tesorería Municipal;
+Quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
 
-VII.- Cuidar que la aplicación de los gastos se haga llenando todos los requisitos legales y conforme al presupuesto respectivo;
+###### Artículo 70.
 
-VIII.- Vigilar que las multas que impongan las autoridades municipales y Jueces Populares ingresen a la Tesorería, previo comprobante respectivo;
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
-IX.- Cerciorarse de que el Tesorero Municipal haya otorgado la fianza respectiva, comprobando la existencia y la idoneidad del fiador;
+CAPÍTULO DECIMOTERCERO
 
-X.- Asistir a las visitas de inspección que se hagan a la propia Tesorería;
+DERECHO A LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
-XI.- Practicar, a falta de los Agentes del Ministerio Público, las primeras diligencias penales remitiéndolas al Agente del Ministerio Público del Distrito Judicial correspondiente, dentro de las veinticuatro horas;
+###### Artículo 71.
 
-XII.- Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del Municipio, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación, así como el destino de los mismos;
+Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
 
-XIII.- Hacer que el inventario que se menciona en la fracción anterior, esté siempre al corriente, vigilando que se anoten las altas y bajas tan luego como ocurran, y cuidando que dicho inventario se verifique cada vez que lo juzgue conveniente el propio Síndico o el Ayuntamiento;
+La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
 
-XIV.- Regularizar la propiedad de los bienes municipales;
+No podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
 
-XV.- Asociarse a las comisiones, cuando se trate de dictámenes o resoluciones que afecten a todo el Municipio;
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-XVI.- Verificar que los funcionarios y empleados del Municipio, cumplan con hacer la manifestación de bienes que prevé la Ley de Responsabilidades;
+###### Artículo 72.
 
-XVII.- Las demás que le conceda o le imponga la Ley, Reglamentos, o el Ayuntamiento.
+Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 
-###### ARTICULO 66.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales.
 
-Los síndicos no pueden desistirse, transigir, comprometerse en árbitros y hacer cesión de bienes, salvo autorización expresa que en cada caso le otorgue el Ayuntamiento.
+Lo dispuesto en este artículo no será limitativo al derecho a la educación, según lo dispuesto en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de la presente Ley.
 
-### CAPITULO X. De los Regidores
+CAPÍTULO DECIMOCUARTO
 
-###### ARTICULO 67.
+DE LOS DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
-Son facultades y obligaciones de los regidores, las siguientes:
+###### Artículo 73.
 
-I.- Asistir puntualmente a las sesiones que celebre el Ayuntamiento;
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-II.- Suplir en sus faltas temporales al Presidente Municipal, en la forma en que lo previene esta Ley;
+La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
 
-III.- Vigilar y atender el ramo de la Administración Municipal que le sea encomendado por el Ayuntamiento;
+En poblaciones predominantemente indígenas, las autoridades a que se refiere este artículo, tienen la obligación de difundir la información institucional y la promoción de los derechos en la lengua indígena local.
 
-IV.- Formar parte de las comisiones para las que fueren designados por el Presidente Municipal;
+Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
 
-V.- Proponer las medidas convenientes para la debida atención de los diferentes ramos de la Administración Municipal;
+###### Artículo 74.
 
-VI.- Concurrir a las ceremonias cívicas y a los demás actos a que fueren citados por el Presidente Municipal; y
+Niñas, niños y adolescentes tienen derecho a acceder, recibir, generar y difundir información e ideas de todo tipo y por todos los medios lícitos a su alcance, siempre que sea acorde con su edad, madurez y desarrollo; además, que no perjudique su integridad o seguridad, los derechos de tercero, la salud pública, así como la seguridad pública o nacional.
 
-VII.- Las demás que le otorga esta Ley y sus Reglamentos.
+###### Artículo 75.
 
-### CAPITULO XI. De las Comisiones
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
 
-###### ARTICULO 68.
+### CAPÍTULO ÚNICO
 
-Para estudiar, examinar y resolver los problemas municipales y vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, se designarán comisiones entre sus miembros.
+###### Artículo 76.
 
-###### ARTICULO 69.
+La Procuraduría de Protección y cualquier persona interesada, por conducto de ésta, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables.
 
-Las Comisiones propondrán al Ayuntamiento los proyectos de solución a los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Municipal.
+Asimismo, la Procuraduría de Protección estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con el objeto de que éste ordene a los medios de comunicación que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre la materia tengan las autoridades competentes.
 
-###### ARTICULO 70.
+Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
-Las comisiones serán:
+CAPÍTULO DECIMOQUINTO
 
-I.- De Gobernación y Seguridad Pública, que presidirá el Presidente Municipal;
+DEL DERECHO A LA PARTICIPACIÓN
 
-II.- De Hacienda, que presidirá el Síndico; y
+###### Artículo 77.
 
-III.- Aquellas que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-###### ARTICULO 71.
+###### Artículo 78.
 
-Las Comisiones carecerán de facultades ejecutivas, y los asuntos, disposiciones y acuerdos que no estén señalados expresamente para una Comisión quedarán al cuidado de la Comisión de Gobernación y Seguridad Pública.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, implementarán los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en los ámbitos escolar, social y comunitario.
 
-### CAPITULO XII. De las Juntas Municipales y Comisarías
+###### Artículo 79.
 
-###### ARTICULO 72.
+Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
 
-Son atribuciones de las Juntas Municipales:
+###### Artículo 80.
 
-I.- Formar el Presupuesto de Ingresos y Egresos de la Sección, remitiéndolo al Ayuntamiento que corresponda, dentro de los primeros ocho días del mes de noviembre de cada año, para que, observado o aprobado, se eleve al Congreso para su aprobación definitiva;
+Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, de los órdenes de gobierno estatal y municipal, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
 
-II.- Nombrar Secretario y Tesorero;
+CAPÍTULO DECIMOSEXTO
 
-III.- Formar cada año los padrones de los niños en edad escolar;
+DERECHO DE ASOCIACIÓN Y REUNIÓN
 
-IV.- Rendir los informes que soliciten los Ayuntamientos de que dependan, sobre todos los ramos de la Administración Municipal;
+###### Artículo 81.
 
-V.- Representar a los Ayuntamientos en las Secciones Municipales y ejercer, por delegación de éstos, las funciones que les correspondan.
+Niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más limitaciones que las establecidas en esta Ley.
 
-###### ARTICULO 73.
+Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación.
 
-Los Presidentes de Sección Municipal ejercerán el gobierno y administración interior de ésta; y serán el órgano de comunicación entre la Junta Municipal y los respectivos Ayuntamientos, no pudiendo salvar ese conducto, sino en caso de suma urgencia o por tratarse de quejas contra dicho presidente.
+CAPÍTULO DECIMOSÉPTIMO
 
-###### ARTICULO 74.
+DERECHO A LA INTIMIDAD
 
-Son atribuciones del Presidente de Sección:
+###### Artículo 82.
 
-I.- Presidir las sesiones de la Junta Municipal con voz y voto en las discusiones. En caso de empate, tendrá voto de calidad;
+Niñas, niños y adolescentes tienen derecho a la intimidad personal y familiar, y a la protección de sus datos personales.
 
-II.- Velar por la conservación del orden público en todo el territorio de la Sección, consignando a los que lleguen a alterarlo, a la autoridad competente;
+Como consecuencia de lo anterior, no podrán ser objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia; tampoco de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos y que atenten contra su honra, imagen o reputación.
 
-III.- Dar cumplimiento a los acuerdos de la Junta Municipal, informando a ésta sobre el resultado;
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
 
-IV.- Dar cuenta al Presidente Municipal de quien dependa, de cualquiera novedad que ocurra dentro de su jurisdicción, tomando las medidas que el caso requiera;
+No se considerará injerencia ilegal o arbitraria la que emane de quienes ejercen la patria potestad, tutela, guarda o custodia en cumplimiento de la obligación prevista en el párrafo que antecede.
 
-V.- Cumplir y hacer cumplir el Bando de Policía y demás reglamentos del Ayuntamiento;
+## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-VI.- Publicar y circular, sin demora, las leyes, decretos y órdenes de carácter general que se le comuniquen, cumpliéndolas y haciéndolas cumplir;
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
-VII.- Convocar a sesiones extraordinarias cada vez que lo juzgue necesario o cuando lo soliciten, cuando menos dos Regidores.
+###### Artículo 83.
 
-###### ARTICULO 75.
+Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
 
-Son atribuciones de los Comisarios Municipales, las siguientes:
+###### Artículo 84.
 
-I.- Velar por el orden y la seguridad pública de la Comisaría, dando cuenta a la Autoridad Municipal de quien dependan, de cualquier novedad que ocurra;
+Cualquier medio de comunicación local que difunda entrevistas a niñas, niños y adolescentes, procederá como sigue:
 
-II.- Cumplir las órdenes que se les comuniquen y publicar sin demora las leyes, decretos o bandos que, para este objeto, se les remitan;
+I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente.
 
-III.- Cuidar de que asistan a las Escuelas Primarias todos los niños en edad escolar.
+II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes.
 
-### CAPITULO XIII. De otros Auxiliares de la Administración Municipal
+En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la patria potestad o tutela de un adolescente, éste podrá otorgarlo previa autorización de la Procuraduría de Protección, siempre que ello no implique una afectación a su derecho a la privacidad por el menoscabo a su honra o reputación.
 
-###### ARTICULO 76.
+No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutela de niñas, niños o adolescentes, cuando la entrevista tenga por objeto que éstos expresen libremente, en el ejercicio de su derecho a la libertad de expresión, su opinión respecto de los asuntos que les afecten directamente, siempre que ello no implique una afectación a sus derechos, en especial a su honra y reputación.
 
-Las Autoridades Auxiliares Municipales, actuarán en sus respectivas jurisdicciones como Delegados de los Ayuntamientos y por consiguiente tendrán las atribuciones que sean necesarias para mantener, en los términos de esta Ley, el orden y la tranquilidad o seguridad de los vecinos del lugar donde actúen, conforme lo determinen los Bandos Municipales respectivos.
+###### Artículo 85.
 
-###### ARTICULO 77.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán garantizar la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública.
 
-Para los efectos de esta Ley, además de las Juntas y Comisarios, son Autoridades Auxiliares Municipales:
+La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
-I.- Agentes Municipales;
+Para los efectos de este artículo se estará a las disposiciones de la Ley de Atención y Protección a Víctimas u Ofendidos del Delito del Estado de Chihuahua.
 
-II.- Inspectores de Cuartel;
+###### Artículo 86.
 
-III.- Jefes de Manzana.
+Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
 
-###### ARTICULO 78.
+En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección competente, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
 
-Las Autoridades Auxiliares serán nombradas y removidas libremente por los Ayuntamientos.
+Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, solicitarán la intervención de la Procuraduría de Protección.
 
-###### ARTICULO 79.
+En los procedimientos civiles o administrativos que sean iniciados o promovidos por quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la Procuraduría de Protección competente ejercerá su representación coadyuvante.
 
-Para ser Agente Municipal, Inspector de Cuartel o Jefe de Manzana, bastará ser ciudadano campechano y tener buena conducta.
+### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN
 
-###### ARTICULO 80.
+###### Artículo 87.
 
-Los Inspectores de Cuartel estarán bajo la dependencia inmediata de la primera autoridad Municipal de la población. Los Jefes de Manzana dependerán de los respectivos Inspectores de Cuartel; y los Agentes Municipales serán subalternos de la Autoridad Municipal a cuya circunscripción corresponda la población.
+En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
 
-###### ARTICULO 81.
+CAPÍTULO DECIMOCTAVO
 
-Los Agentes Municipales quedan obligados a cuidar de que los habitantes de la población no alteren el orden y den cumplimiento a las disposiciones de las autoridades; a aprehender y remitir a los delincuentes requeridos por las autoridades, así como a los que cometan algún delito; a corregir y evitar la embriaguez y el juego y la venta de licores espirituosos, sin el permiso y patente respectivos; a reprimir los desórdenes que ocurran, a dar cumplimiento a las leyes sobre educación primaria y del Registro Civil; a dar cuenta a la Autoridad Municipal, a cuya jurisdicción corresponda la población, de cualquier novedad que ocurra y a cumplir todas las órdenes y disposiciones que se les comuniquen, así como las demás que las leyes les atribuyan.
+DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
-###### ARTICULO 82.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-En las fincas rústicas también serán nombrados Agentes Municipales con las facultades que expresa el artículo anterior.
+###### Artículo 88.
 
-## TITULO III. DE LOS ORGANISMOS AUXILIARES
+Niñas, niños y adolescentes gozan de los derechos y garantías de acceso a la justicia, seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, en esta Ley y demás disposiciones aplicables.
 
-### CAPITULO I. De las Comisiones de Planificación y Desarrollo
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-###### ARTICULO 83.
+###### Artículo 88 Bis.
 
-Los Ayuntamientos, para la solución a los problemas municipales, podrán integrar Comisiones de Planificación y Desarrollo.
+Para dar cumplimiento al derecho de acceso a la justicia se debe garantizar que niñas, niños y adolescentes, así como sus madres, padres, defensores, tutores o representantes legales, en su caso, puedan utilizar el sistema legal para proteger sus derechos humanos.
 
-###### ARTICULO 84.
+El sistema legal debe proporcionar a niñas, niños y adolescentes, los medios para obtener una respuesta rápida, eficaz y justa para proteger sus derechos, así como los mecanismos para prevenir y resolver los conflictos, garantizando, en todo momento, su derecho al debido proceso y a la reparación integral del daño.
 
-Las Comisiones de Planificación y Desarrollo tendrán las siguientes facultades y obligaciones:
+###### Artículo 89.
 
-I.- Presentar proposiciones al Ayuntamiento para la elaboración de planes y programas municipales;
+Las autoridades estatales y municipales que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas, como mínimo a:
 
-II.- Formular recomendaciones al Ayuntamiento para mejorar la Administración Municipal o la prestación de los servicios públicos;
+I. Garantizar la protección y prevalencia del interés superior de la niñez.
 
-III.- Realizar estudios y captar la información necesaria para cumplir con los extremos contenidos en las fracciones anteriores;
+II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables.
 
-IV.- Comparecer ante el Cabildo cuando éste lo requiera o cuando las comisiones lo estimen conveniente; y
+III. Proporcionar información clara, sencilla y comprensible para niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad.
 
-V.- Proponer, previo estudio, a las autoridades municipales la creación de nuevos servicios o mejoramiento de los existentes, mediante el sistema de cooperación.
+IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial.
 
-###### ARTICULO 85.
+V. Garantizar el derecho de niñas, niños y adolescentes a ser representados en términos de lo dispuesto en el Título Quinto, Capítulo Segundo, de la presente Ley, así como a información sobre las medidas de protección disponibles.
 
-Los Ayuntamientos procurarán que en la integración de las Comisiones de Planificación y Desarrollo, queden incluidas personas pertenecientes a los sectores más representativos de la colectividad o que tengan la mayor calificación técnica en cada especialidad, cuidando en todo caso, que esté formado por profesionales, técnicos y representantes de las agrupaciones civiles existentes en el Municipio.
+VI. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera.
 
-###### ARTICULO 86.
+VII. Proporcionar la asistencia de un traductor o intérprete.
 
-Las Comisiones de Planificación y Desarrollo se integrarán con un mínimo de tres miembros y podrán tener tantos como se juzgue conveniente para el eficaz desempeño de sus funciones.
+VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica.
 
-Los integrantes de las Comisiones de Planificación y Desarrollo, podrán ser removidos cada tres años.
+IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario.
 
-### CAPITULO II. De los Consejos de Colaboración Municipal
+X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva.
 
-###### ARTICULO 87.
+XI. Destinar espacios lúdicos de descanso en los recintos en que se lleven a cabo procedimientos en que deban intervenir.
 
-En cada Municipio funcionará uno o varios Consejos de Colaboración Municipal según lo acuerde el Ayuntamiento. Estarán integrados por tres o más miembros, fungiendo uno como presidente. Donde existan organizaciones y agrupaciones representativas podrán estar integradas en el Consejo.
+XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal.
 
-En la organización, funcionamiento y supervisión de los Consejos de Colaboración Municipal sólo podrá intervenir la Autoridad Municipal.
+XIII. Implementar medidas para protegerles de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
 
-###### ARTICULO 88.
+###### Artículo 90.
 
-Los Consejos serán órganos de promoción y gestión social y tendrán las siguientes facultades y obligaciones:
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
 
-I.- Coadyuvar para el cumplimiento eficaz de los planes y programas municipales aprobados;
+Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
 
-II.- Promover la participación y colaboración de los habitantes y vecinos en todos los aspectos de beneficio social; y
+###### Artículo 91.
 
-III.- Presentar proposiciones al Ayuntamiento para fijar las bases de los planes y programas municipales o modificarlos en su caso.
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña, niño o adolescentes en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección.
 
-###### ARTICULO 89.
+Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
 
-Los Consejos de Colaboración se integrarán con vecinos del Municipio y serán electos democráticamente en la forma y términos que determine el Ayuntamiento. Durarán en su encargo tres años.
+La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
 
-###### ARTICULO 90.
+Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
-Los Consejos de Colaboración Municipal tendrán la obligación de informar mensualmente al pueblo y al Ayuntamiento, sobre:
+###### Artículo 92.
 
-I.- Los proyectos que pretendan realizar;
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
 
-II.- El estado de las obras en proceso;
+I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo.
 
-III.- Las obras realizadas; y
+II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del Artículo 89 de esta Ley.
 
-IV.- El estado de cuenta que guarda la recolección de aportaciones económicas de la comunidad.
+III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez.
 
-###### ARTICULO 91.
+IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables.
 
-El Ayuntamiento podrá encomendar a los Consejos de Colaboración la recolección de aportaciones económicas de la comunidad, cuando se trate de obras realizadas de acuerdo con la Ley de Cooperación para Obras Públicas del Estado.
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables.
 
-###### ARTICULO 92.
+VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
 
-Cuando uno o más de los miembros del Consejo no cumpla con sus obligaciones, el Ayuntamiento podrá convocar a nuevas elecciones para su substitución.
+## TÍTULO CUARTO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
-## TITULO IV. REGIMEN ADMINISTRATIVO
+### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
-### CAPITULO I. De los Secretarios y demás Empleados
+###### Artículo 93.
 
-###### ARTICULO 93.
+Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección competente.
 
-Habrá en cada Ayuntamiento y Junta Municipal un Secretario y los empleados subalternos de oficina que fueren necesarios.
+###### Artículo 94.
 
-###### ARTICULO 94.
+La legislación en materia de justicia integral para adolescentes en conflicto con la ley penal determinará los procedimientos y las medidas que correspondan a quienes se les atribuya la comisión o participación en un hecho que la ley señale como delito mientras era adolescente.
 
-Los Secretarios de los Ayuntamientos y Juntas Municipales, así como los empleados subalternos, serán nombrados y removidos libremente por los Ayuntamientos o Juntas Municipales, a mayoría de votos y gozarán de los sueldos o emolumentos que señalen los presupuestos municipales.
+La legislación a que se refiere el párrafo anterior, deberá garantizar los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
-###### ARTICULO 95.
+CAPÍTULO DECIMONOVENO
 
-Para ser Secretario de Ayuntamiento o Junta Municipal, se requiere: ser ciudadano mexicano, mayor de veintiún años, tener instrucción suficiente a juicio del Cuerpo y observar buena conducta; y para ser empleado subalterno, bastará tener buena conducta y la aptitud necesaria.
+NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
-###### ARTICULO 96.
+###### Artículo 95.
 
-Son obligaciones de los Secretarios de Ayuntamientos y Juntas Municipales:
+El presente Capítulo se refiere a las medidas especiales de protección que las autoridades deberán adoptar para garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana.
 
-I.- Asistir con toda puntualidad a la Secretaría y permanecer en ella durante las horas ordinarias del despacho y las extraordinarias en que fuere necesaria su presencia, por razón de urgencia;
+Las autoridades de los órdenes de gobierno estatal y municipal deberán proporcionar, de conformidad con sus competencias, los servicios correspondientes a niñas, niños y adolescentes en situación de migración, independientemente de su nacionalidad o su situación migratoria.
 
-II.- Fungir como Secretario del Presidente Municipal o del de Sección, respectivamente, despachando los asuntos de la Presidencia que se presentan diariamente;
+En tanto el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente, el DIF Estatal en coordinación con el Sistema Nacional DIF, deberá brindar la protección que prevé esta Ley y demás disposiciones aplicables.
 
-III.- Vigilar a los demás empleados de la Secretaría, a efecto de que asistan puntualmente al despacho y cumplan sus obligaciones;
+El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes migrantes, en el que se estimarán las posibles repercusiones de la decisión que se tome en cada caso.
 
-IV.- Asistir a las sesiones del Ayuntamiento o Junta Municipal, dando cuenta en ellas con los asuntos y redactar las minutas de las actas de las sesiones, cuidando de que, una vez aprobadas, se asienten en el libro respectivo;
+###### Artículo 96.
 
-V.- Hacer constar en los expedientes los acuerdos que recaigan, firmándolos con el Presidente;
+Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
 
-VI.- Formar expediente con todos los asuntos que se presenten, cuidando de foliar y de rubricar cada una de sus hojas;
+###### Artículo 97.
 
-VII.- Firmar con el Presidente las actas de las sesiones y la correspondencia oficial, cuidando de que ésta sea despachada y expedida sin demora;
+Las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior o voluntad.
 
-VIII.- Tener ordenado y bien conservado el archivo con arreglo al reglamento interior y a los acuerdos del Cuerpo y cuidar de que todos los libros se lleven en debida forma;
+### CAPÍTULO CUARTO. DEL SISTEMA MUNICIPAL DE PROTECCIÓN
 
-IX.- Ejercer las demás atribuciones que les señalen los reglamentos y acuerdos de la Corporación.
+###### Artículo 98.
 
-###### ARTICULO 97.
+Las garantías de debido proceso que se deberán aplicar en los procesos migratorios que involucran a niñas, niños y adolescentes son las siguientes:
 
-Los demás empleados subalternos están obligados a asistir puntualmente al despacho y a desempeñar todos los trabajos de la oficina que el Secretario les encomiende.
+I. El derecho a ser notificado de la existencia de un procedimiento y de la decisión que se adopte en el marco del proceso migratorio.
 
-### CAPITULO II. De la Hacienda Municipal
+II. El derecho a ser informado de sus derechos.
 
-###### ARTICULO 98.
+III. El derecho a que los procesos migratorios sean llevados por un funcionario especializado.
 
-La Hacienda Municipal se compone:
+IV. El derecho de la niña, niño y adolescente a ser escuchado y a participar en las diferentes etapas procesales.
 
-I.- De los bienes muebles e inmuebles de la propiedad del Municipio;
+V. El derecho a ser asistido gratuitamente por un traductor y/o intérprete.
 
-II.- De los bienes muebles e inmuebles, destinados a los servicios públicos municipales;
+VI. El acceso efectivo a la comunicación y asistencia consular.
 
-III.- De los bienes de uso común municipal;
+VII. El derecho a ser asistido por un abogado y a comunicarse libremente con él.
 
-IV.- De los bienes propios de cualquier otra clase, cuyos productos se destinen al sostenimiento de los servicios públicos;
+VIII. El derecho, en su caso, a la representación en suplencia.
 
-V.- De los capitales y créditos a favor del municipio, así como las donaciones, herencias y legados que recibiere;
+IX. El derecho a que la decisión que se adopte evalúe el interés superior de la niña, niño y adolescente y esté debidamente fundamentada.
 
-VI.- De las rentas y productos de todos los bienes municipales;
+X. El derecho a recurrir la decisión ante la autoridad jurisdiccional competente.
 
-VII.- De las contribuciones que perciban por la aplicación de la Ley de Hacienda Municipal, las que decrete la Legislatura y las que señalen otras disposiciones;
+XI. El derecho a conocer la duración del procedimiento que se llevará a cabo, mismo que deberá seguir el principio de celeridad.
 
-VIII.- De los réditos producidos por créditos a su favor;
+###### Artículo 99.
 
-IX.- De las participaciones que perciban de acuerdo con las Leyes Federales y del Estado.
+Durante el proceso administrativo migratorio podrá prevalecer la unidad familiar o en su caso la reunificación familiar en términos de la presente Ley y demás disposiciones aplicables, siempre y cuando ésta no sea contraria al interés superior de la niñez.
 
-###### ARTICULO 99.
+Para resolver sobre la reunificación familiar se deberá tomar en cuenta la opinión de niñas, niños y adolescentes migrantes, así como todos los elementos que resulten necesarios para tal efecto.
 
-La Tesorería Municipal, es el único órgano de recaudación de los ingresos municipales, con las excepciones señaladas por la Ley.
+###### Artículo 100.
 
-La oficina estará a cargo de un Tesorero Municipal, que será designado por el Ayuntamiento.
+Para garantizar la protección integral de los derechos, el DIF Estatal en coordinación con el Sistema Nacional DIF, y Municipales DIF, habilitarán espacios de alojamiento o albergues para recibir a niñas, niños y adolescentes migrantes.
 
-###### ARTICULO 100.
+Asimismo, acordarán los estándares mínimos para que los espacios de alojamiento o albergues brinden la atención adecuada a niñas, niños y adolescentes migrantes.
 
-Para ser Tesorero Municipal, se requiere:
+###### Artículo 101.
 
-I.- Ser ciudadano campechano en ejercicio de sus derechos civiles y políticos;
+Los espacios de alojamiento de niñas, niños y adolescentes migrantes, respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas. Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
 
-II.- Tener los conocimientos suficientes para poder desempeñar el cargo;
+###### Artículo 102.
 
-III.- No haber sido procesado por delitos de carácter intencional;
+Está prohibido devolver, expulsar, deportar, retornar, rechazar en frontera o no admitir, o de cualquier manera transferir o remover a una niña, niño o adolescente cuando su vida, seguridad y/o libertad estén en peligro a causa de persecución o amenaza de la misma, violencia generalizada o violaciones masivas a los derechos humanos, entre otros, así como donde pueda ser sometido a tortura u otros tratos crueles, inhumanos o degradantes.
 
-IV.- Caucionar el manejo de los fondos; y
+###### Artículo 103.
 
-V.- Cumplir con los requisitos que señalen otras Leyes.
+Cualquier decisión sobre la devolución de una niña, niño o adolescente al país de origen o a un tercer país seguro, sólo podrá basarse en los requerimientos de su interés superior.
 
-###### ARTICULO 101.
+###### Artículo 104.
 
-Los Tesoreros Municipales, tomarán posesión de su cargo, previo el corte de caja que practiquen, el cual será visado por el Presidente y Síndico del Ayuntamiento y firmado por quien reciba la Tesorería Municipal. En el mismo acto, recibirá por inventario el archivo, los muebles, los útiles de la dependencia, los libros de registro anotados al día y la relación de deudores en todos los ramos de ingresos.
+En caso del DIF Estatal, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
 
-###### ARTICULO 102.
+El DIF Estatal y los Municipales, en coordinación con las instituciones competentes, deberán identificar a niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
 
-El Tesorero Municipal, tendrá como facultades y obligaciones, las siguientes:
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2022)</small>
 
-I.- Verificar, por sí mismo o por medio de sus subalternos la recaudación de las contribuciones municipales, de acuerdo con las disposiciones generales;
+###### Artículo 104 Bis.
 
-II.- Cuidar de la puntualidad de los cobros, de la exactitud de las liquidaciones, de la prontitud en el despacho de los asuntos de su competencia, y del buen orden y debida comprobación de las cuentas de ingresos y egresos;
+El DIF Estatal, a través de la Procuraduría de Protección, coadyuvará con las personas defensoras de derechos humanos, la Comisión Nacional de los Derechos Humanos y la Comisión Estatal de los Derechos Humanos, para garantizar la protección integral de los derechos de niñas, niños y adolescentes migrantes.
 
-III.- Tener al día los libros de caja, diario, cuentas corrientes y los auxiliares y de registro que sean necesarios para la debida comprobación de los ingresos y egresos;
+###### Artículo 105.
 
-IV.- Llevar por sí mismo la Caja de la Tesorería cuyos valores estarán siempre bajo su inmediato cuidado y exclusiva responsabilidad;
+El DIF Estatal a través de la Procuraduría de Protección deberá diseñar y administrar la base de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, incluyendo, entre otros aspectos, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, entre otros, y compartirlo con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, atendiendo a lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables en materia de transparencia.
 
-V.- Activar el cobro de las contribuciones con la debida eficacia, cuidando que los rezagos no aumenten;
+El DIF Estatal enviará al Sistema Nacional DIF la información en el momento en que se genere a fin de que se incorpore en la base de datos a que se refiere el párrafo anterior.
 
-VI.- Proporcionar oportunamente al Ayuntamiento todos los datos e informes que sean necesarios para la formulación del Presupuesto de Egresos y del Proyecto de Ley de Ingresos Municipales, vigilando que dichos ordenamientos se ajusten a las disposiciones de esta Ley;
+### CAPÍTULO CUARTO BIS. DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES
 
-VII.- Cuidar que las multas impuestas por las Autoridades Municipales, ingresen a la Tesorería Municipal;
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-VIII.- Pedir se hagan a la Tesorería Municipal visitas de inspección o de residencia;
+###### Artículo 145 Bis.
 
-IX.- Glosar oportunamente las cuentas del Ayuntamiento;
+El Sistema Estatal de Protección Integral contará con un Consejo Consultivo Estatal como órgano de colaboración y apoyo para la consecución de sus objetivos.
 
-X.- Proponer al Ayuntamiento las medidas o disposiciones que tiendan a mejorar la Hacienda Pública del Municipio;
+Con el mismo propósito, los sistemas municipales promoverán, en la medida de sus posibilidades, la integración de consejos consultivos municipales.
 
-XI.- Dar pronto y exacto cumplimiento a los acuerdos, órdenes y disposiciones del Ayuntamiento, que le sean comunicados en los términos de esta Ley;
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XII.- Hacer junto con el Síndico las gestiones oportunas en los asuntos en que tenga interés el Erario Municipal;
+###### Artículo 145 Ter.
 
-XIII.- Presentar mensualmente al Ayuntamiento el corte de caja de la Tesorería Municipal con el visto bueno del Síndico;
+El Consejo Consultivo Estatal estará integrado por diez personas que se elegirán de entre los sectores público, privado, social y académico, nombradas por el Sistema Estatal de Protección Integral, a propuesta de la Secretaría Ejecutiva, quien podrá considerar criterios de paridad de género, pluralidad y de representatividad, que permitan un equilibrio entre los sectores, así como una adecuada representación de las distintas regiones del Estado.
 
-XIV.- Cuidar que el despacho de la oficina, se haga en los días y horas fijados por el Reglamento Interior o señalado por el Ayuntamiento;
+Quienes integren el Consejo Consultivo Estatal durarán en su cargo tres años y podrán reelegirse para un periodo igual. Manifestarán por escrito a la Secretaría Ejecutiva la aceptación del cargo, el cual ejercerán en forma honorífica, y no recibirán emolumento o contraprestación económica alguna por el mismo.
 
-XV.- Comunicar al Presidente Municipal las faltas oficiales en que incurran los empleados de su Dependencia;
+Deberán contar con tres años de experiencia en temas relacionados con niñas, niños y adolescentes.
 
-XVI.- Cuidar bajo su responsabilidad, del arreglo y conservación del archivo, mobiliario y equipo de la oficina;
+(ADICIONADO, P.O. 1 DE FEBRERO DE 2020) (F. DE E., P.O. 8 DE FEBRERO DE 2020)
 
-XVII.- Expedir copias certificadas de los documentos a su cuidado sólo por acuerdo expreso del Ayuntamiento;
+###### Artículo 145 Quáter.
 
-XVIII.- Informar oportunamente al Ayuntamiento sobre las partidas que estén próximas a agotarse, para los efectos que procedan;
+En la integración de los consejos consultivos municipales, en su caso, deberá privilegiarse a personas de los sectores público, privado, social y académico, que cuenten con experiencia en temas relacionados con niñas, niños y adolescentes.
 
-XIX.- Realizar el padrón de contribuyentes municipales; y
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
-XX.- Las demás que le impongan las Leyes.
+###### Artículo 145 Quinquies.
 
-###### ARTICULO 103.
+El Consejo Consultivo Estatal y los municipales tendrán, en el ámbito de su competencia, las funciones siguientes:
 
-La inspección de la Hacienda Pública Municipal compete al Ayuntamiento por conducto del Presidente o Síndico, en los términos de esta Ley. Cuando el Ejecutivo del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos, acreedor de estos últimos o en los casos en que se les otorgue participación estatal de impuestos, podrá nombrar un representante para realizar visitas de inspección.
+I. Emitir recomendaciones al Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, respecto de las políticas, programas, lineamientos, instrumentos, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes que implementa dicho Sistema.
 
-###### ARTICULO 104.
+II. Recomendar al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, la celebración de convenios y acuerdos para realizar actividades académicas con instituciones públicas o privadas, nacionales o internacionales relacionadas con los derechos de niñas, niños y adolescentes.
 
-La inspección de la Hacienda Pública Municipal, se contraerá a lo siguiente:
+III. Recomendar a la Secretaría Ejecutiva la celebración de conferencias, seminarios, coloquios y, en general, cualquier evento de debate y difusión sobre los derechos de niñas, niños y adolescentes.
 
-I.- Examinar si la contabilidad se lleva en forma legal y al corriente;
+IV. Proponer al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, estudios, investigaciones y otros documentos que contribuyan a la toma de decisiones y elaboración e implementación de políticas públicas relacionadas con los derechos de niñas, niños y adolescentes.
 
-II.- Averiguar si se defraudan los intereses del Erario Municipal y por qué causa no se recauda lo que corresponde; confrontando en la Tesorería al efecto, las partidas de entrada con los recibos que se hayan expedido a los causantes y cotejándolos con los comprobantes formulados al efecto por la Presidencia Municipal;
+V. Proponer al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, el proyecto de lineamientos para su integración, organización y funcionamiento.
 
-III.- Conocer el monto de los rezagos y los motivos por los cuales no se hicieron oportunamente los cobros; exigiendo que se hagan desde luego por los medios de apremio que marca la Ley;
+VI. Integrar grupos de trabajo especializados para el estudio de temas que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, así como incorporarse a las comisiones temporales o permanentes.
 
-IV.- Investigar si tanto el Tesorero como sus empleados cumplen con sus obligaciones y atienden al público con la debida diligencia;
+VII. Atender las consultas y formular las opiniones que le sean solicitadas por el Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, así como por la Secretaría Ejecutiva.
 
-V.- Examinar si se han cometido irregularidades en perjuicio del Fisco Municipal o contribuyentes, por el Tesorero o empleados de la oficina;
+VIII. Presentar al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, un informe anual de sus actividades.
 
-VI.- Revisar el archivo de la Tesorería, cerciorándose de que los expedientes se encuentren en orden y la correspondencia al corriente;
+IX. Las demás que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, así como otras disposiciones jurídicas aplicables.
 
-VII.- Observar el estado que guardan los muebles, útiles y enseres de la oficina;
+###### Artículo 106.
 
-VIII.- Tomar las debidas precauciones para el aseguramiento de los presuntos responsables en los casos de fraude al erario municipal, entre tanto se hace la consignación correspondiente; y
+En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-IX.- Examinar y hacer constar:
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-a) Si hay raspaduras, enmiendas o notas entre renglones en los asientos.
+###### Artículo 107.
 
-b) Si los libros están autorizados y rubricados por quien corresponda.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asesoría jurídica y orientación a quienes ejerzan la patria potestad, tutela, guarda o custodia en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
 
-c) Si en las operaciones aritméticas hay errores.
+###### Artículo 108.
 
-d) Si los asientos de los diversos libros de la Tesorería concuerdan entre sí.
+Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, las siguientes:
 
-e) Si los comprobantes del débito justifican las respectivas partidas, si se cobran impuestos que las Leyes no autorizan y si hacen gastos que no están debidamente comprobados.
+I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-f) Si los pagos se hacen con puntualidad y hay algún adelanto o atraso en ellos; y
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación.
 
-g) Si los asientos se llevan al corriente.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 105.
+II. Registrarlos dentro de los primeros cinco días de vida.
 
-Se concede acción popular para denunciar ante el Ayuntamiento o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho que se estime en contra de la Hacienda Municipal.
+III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo.
 
-### CAPITULO III. De los Servicios Públicos
+IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos.
 
-###### ARTICULO 106.
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad.
 
-Los Municipios organizarán y reglamentarán la administración, funcionamiento, conservación y explotación de sus servicios públicos.
+VI. Fomentar el respeto hacia todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
 
-###### ARTICULO 107.
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación.
 
-La prestación de los servicios públicos deberá realizarse por los Ayuntamientos, pero podrán concesionarse los que no afecten la estructura y organización municipal a personas físicas o morales; prefiriendo en igualdad de circunstancias a vecinos del Municipio concesionario. No serán objeto de concesión los servicios de seguridad pública y de alumbrado.
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela, guarda o custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
 
-###### ARTICULO 108.
+IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela, guarda o custodia, así como con los demás miembros de su familia.
 
-Cuando los servicios públicos sean prestados directamente por el Ayuntamiento, serán administrados con la vigilancia del Presidente o por los órganos municipales respectivos, en la forma que determine esta Ley, sus reglamentos o el propio Ayuntamiento.
+X. Considerar la opinión y preferencia de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-Cuando los Ayuntamientos decidan aplicar un sistema mixto de prestación de un servicio público, tendrán a su cargo la organización y dirección correspondiente, conforme a las disposiciones de los propios Ayuntamientos. A la declaratoria respectiva deberá adherirse el concurrente.
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
-###### ARTICULO 109.
+###### Artículo 109.
 
-Cuando los servicios públicos municipales sean concesionados a particulares, se sujetarán a las disposiciones de esta Ley, a las contenidas en la concesión y a las que determine el Ayuntamiento.
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
 
-###### ARTICULO 110.
+Las autorizaciones a que se refiere esta Ley deberán ser otorgadas por quienes ejerzan la patria potestad o tutela, en los mismos términos y con las mismas formalidades
 
-Los Municipios requieren la autorización previa de la Legislatura del Estado para concesionar sus servicios públicos, en los siguientes casos:
+###### Artículo 110.
 
-I.- Si el término de la concesión excede a la gestión del Ayuntamiento; y
+Las autoridades estatales dispondrán lo necesario para que, en términos de lo dispuesto en la presente Ley y en el ámbito de sus respectivas competencias, se dé cumplimiento a las obligaciones siguientes:
 
-II.- Si con la concesión del servicio público se afectan bienes inmuebles municipales.
+I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas.
 
-###### ARTICULO 111.
+II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables.
 
-No pueden darse concesiones para la explotación de servicios públicos municipales a:
+III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas.
 
-I.- Miembros del Ayuntamiento o parientes de éstos;
+IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
 
-II.- Funcionarios y empleados públicos o sus parientes;
+###### Artículo 111.
 
-III.- A empresas en las cuales sean representantes o tengan intereses económicos las personas a que se refieren las fracciones anteriores.
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección competente.
 
-###### ARTICULO 112.
+Las autoridades estatales, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección competente para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
 
-Las concesiones otorgadas en contravención a lo dispuesto en el artículo anterior, son nulas de pleno derecho.
+Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
 
-### CAPITULO IV. De los Cuerpos de Seguridad Municipal
+El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables. No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
+No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
-###### ARTICULO 113.
+###### Artículo 112.
 
-En cada Municipio se integrarán Cuerpos de Seguridad Pública y Tránsito.
+Las autoridades estatales y municipales, en términos de lo dispuesto por esta Ley y de los Lineamientos para la Operación y Vigilancia de los Establecimientos que Prestan Servicios de Asistencia Social en el Estado de Chihuahua, establecerán, en el ámbito de sus respectivas competencias, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
+### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-###### ARTICULO 114.
+###### Artículo 113.
 
-Los Presidentes Municipales serán los jefes inmediatos de los Cuerpos de Seguridad Pública y Tránsito, en sus respectivas jurisdicciones.
+Las instalaciones de los centros de asistencia social deberán de cumplir como mínimo con los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
+I. Ser administradas por una institución pública o privada, o por una asociación que brinde el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar.
 
-###### ARTICULO 115.
+II. Su infraestructura inmobiliaria deberá cumplir con las dimensiones físicas acordes a los servicios que proporcionan y con las medidas de seguridad y protección civil en términos de la legislación aplicable.
 
-En los Municipios donde resida transitoria o habitualmente, el Gobernador del Estado, tendrá el mando inmediato de los Cuerpos de Seguridad Pública y Tránsito.
+III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable.
 
-Los Ayuntamientos harán los nombramientos y las remociones de los integrantes de los Cuerpos de Seguridad Pública y Tránsito.
+IV. Contar con medidas de seguridad, protección y vigilancia necesarias para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables.
 
-###### ARTICULO 116.
+V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto.
 
-Los Comandantes de Policía y Bomberos acatarán siempre las órdenes que reciban del Presidente Municipal como su jefe inmediato, pero cuando las consideren ilegales pedirán que les sean dadas por escrito para cubrir su responsabilidad.
+VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1983)</small>
+VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social.
 
-###### ARTICULO 117.
+VIII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad. Niñas, niños y adolescentes con discapacidad temporal o permanente; sin distinción entre motivo o grado de discapacidad, no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
 
-Con fundamento en lo que dispone el último párrafo de la fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, los Ayuntamientos podrán coordinarse para la mejor prestación de los servicios de seguridad pública y tránsito.
+###### Artículo 114.
 
-### CAPITULO V. De los Actos Administrativos Municipales
+Todo centro de asistencia social, es responsable de garantizar la integridad física y psicológica de niñas, niños y adolescentes que tengan bajo su custodia.
 
-###### ARTICULO 118.
+Los servicios que presten los centros de asistencia social estarán orientados a brindar, en cumplimiento a sus derechos:
 
-Los Ayuntamientos necesitan autorización de la Legislatura para:
+I. Un entorno seguro, afectivo y libre de violencia.
 
-I.- Obtener empréstitos;
+II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
 
-II.- Enajenar sus bienes inmuebles;
+III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria.
 
-III.- Dar en arrendamiento sus bienes propios, por un término que exceda a la gestión del Ayuntamiento;
+IV. Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros.
 
-IV.- Celebrar contratos de administración de obras, así como de prestación de servicios públicos que produzcan obligaciones, cuyo término exceda de la gestión del Ayuntamiento contratante;
+V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos.
 
-V.- Cambiar de destino los bienes inmuebles dedicados a un servicio público o de uso común;
+VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral.
 
-VI.- Desafectar del servicio público los bienes municipales;
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez.
 
-VII.- Cambiar las categorías políticas de los Centros de Población; y
+VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos.
 
-VIII.- Los demás casos establecidos por las leyes.
+IX. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta.
 
-###### ARTICULO 119.
+X. Brindarles la posibilidad de realizar actividades externas que les permita tener contacto con su comunidad.
 
-A la solicitud de autorización para contratar de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrar el contrato y los documentos necesarios, remitiéndolos a la Legislatura por conducto del Ejecutivo del Estado.
+XI. Fomentar la inclusión de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
 
-###### ARTICULO 120.
+Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
 
-La solicitud de enajenación de un inmueble del Ayuntamiento, deberá contener los siguientes datos:
+La niña, niño o adolescente deberá contar con expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
 
-I.- Superficie, medidas, linderos y ubicación exacta del inmueble;
+Asimismo, se le deberá garantizar la protección de sus datos personales conforme a la legislación aplicable y hacer de su conocimiento, en todo momento, su situación legal.
 
-II.- Valor catastral o fiscal y comercial del inmueble;
+###### Artículo 115.
 
-III.- Términos de la operación y motivos que se tengan para realizarla;
+Los centros de asistencia social deben contar, con por lo menos, el siguiente personal:
 
-IV.- La documentación, en su caso, para acreditar la propiedad del inmueble;
+I. Responsable de la coordinación o dirección.
 
-V.- Comprobación de que el inmueble no está destinado a un servicio público municipal y que no tiene un valor arqueológico, histórico o artístico, certificando esto último un perito en la materia; y
+II. Especializado en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica y actividades de orientación social y de promoción de la cultura de protección civil, conforme a las disposiciones aplicables.
 
-VI.- El destino que se dará a los fondos que se obtengan de la venta.
+III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar con, por lo menos, una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad.
 
-###### ARTICULO 121.
+IV. Además del personal señalado en el presente artículo, el centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de niñas, niños y adolescentes.
 
-Las enajenaciones de bienes muebles e inmuebles propiedad de los Ayuntamientos se efectuarán en subasta pública, siguiendo un procedimiento semejante al marcado para los remates judiciales en el Código de Procedimientos Civiles del Estado, salvo que se les autorice en otra forma, y en su caso, respetando el derecho del tanto.
+V. Brindar, de manera permanente, capacitación y formación especializada a su personal.
 
-###### ARTICULO 122.
+VI. Supervisar y evaluar de manera periódica a su personal.
 
-La celebración de los contratos de obras y servicios públicos se sujetarán a concurso de acuerdo con las bases aprobadas por la Legislatura, a menos que ésta autorice a hacerlo en otra forma.
+###### Artículo 116.
 
-###### ARTICULO 123.
+Son obligaciones de los titulares o responsables legales de los centros de asistencia social:
 
-En las solicitudes para cambiar de destino o desafectar los bienes de uso común o dedicados a un servicio público, se expresarán los motivos que tenga el Ayuntamiento solicitante para ello, acompañándose el dictamen técnico al respecto.
+I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del Sistema Nacional DIF.
 
-###### ARTICULO 124.
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección.
 
-Por ningún motivo los Ayuntamientos harán donación bajo ningún título, de los bienes muebles o inmuebles propiedad del Municipio, excepto cuando se trate de realización de obras de beneficio colectivo; en este caso se requiere la autorización de la Legislatura Local.
+III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social.
 
-###### ARTICULO 125.
+IV. Garantizar que el centro de asistencia social cuente con un Reglamento Interno, aprobado por el DIF Estatal.
 
-Los Ayuntamientos estarán obligados preferentemente a adquirir los inmuebles que circunden a los centros de población de su municipio, a efecto de integrar una área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de éstos. Lo anterior es sin perjuicio de solicitar la expropiación de estos inmuebles, para cuyo efecto las anteriores circunstancias serán consideradas como de utilidad pública.
+V. Contar con un programa interno de protección civil en términos de las disposiciones aplicables.
 
-###### ARTICULO 126.
+VI. Otorgar las facilidades a efecto de que la Procuraduría de Protección realice la verificación periódica que corresponda en términos de las disposiciones aplicables; y, en su caso, atender sus recomendaciones.
 
-Los contratos y actos realizados en contravención a lo dispuesto por esta Ley, son nulos de pleno derecho.
+VII. Esta verificación deberá observar el seguimiento de la situación jurídica y social, así como la atención médica y psicológica de la niña, niño o adolescente y el proceso de reincorporación familiar o social.
 
-###### ARTICULO 127.
+VIII. Informar oportunamente a la autoridad competente, cuando el ingreso de una niña, niño o adolescente corresponda a una situación distinta de la derivación por parte de una autoridad o tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna, identificar la mejor solución para el niño, niña o adolescente y, en su caso, evitar su permanencia en el centro de asistencia social, dado su carácter de último recurso y excepcional.
 
-Los acuerdos, concesiones, permisos o autorizaciones otorgados por autoridades, funcionarios o empleados municipales que carezcan de la competencia necesaria para ello o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Municipio sobre sus bienes de dominio público, serán anulados administrativamente por los Ayuntamientos, previa audiencia de los interesados.
+IX. Proporcionar a niñas, niños y adolescentes bajo su custodia, a través del personal capacitado, atención médica.
 
-### CAPITULO VI. De los Recursos Administrativos
+X. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades competentes.
 
-###### ARTICULO 128.
+XI. Realizar acciones específicas para fortalecer la profesionalización del personal de los centros de asistencia social.
 
-Los acuerdos o actos de las Autoridades Municipales podrán ser impugnados por parte interesada, mediante la interposición de los recursos que establece esta Ley.
+XII. Las demás obligaciones establecidas en la presente Ley, Lineamientos para la Operación y Vigilancia de los Establecimientos que Prestan Servicios de Asistencia Social en el Estado de Chihuahua y demás disposiciones aplicables.
 
-###### ARTICULO 129.
+###### Artículo 117.
 
-Los recursos serán de revocación y revisión, éste último por lo que hace a los actos o acuerdos del Presidente Municipal cuando se impugne la resolución dictada en el recurso de revocación.
+La Procuraduría de Protección en coordinación con la Procuraduría de Protección Federal, serán las autoridades competentes para autorizar, registrar, certificar y supervisar los centros de asistencia social destinados a brindar los servicios descritos en el presente Capítulo, para lo cual conformarán el Registro Nacional de Centros de Asistencia Social.
 
-###### ARTICULO 130.
+Para integrar el Registro Nacional de Centros de Asistencia Social, la Procuraduría de Protección deberá contar por lo menos con los siguientes datos:
 
-El recurso de revocación deberá promoverse en forma escrita, dentro del término de quince días siguientes al de la notificación o ejecución del acto o acuerdo impugnado ante el Presidente Municipal, excepto si se recurre un acto o acuerdo del Ayuntamiento, caso en el cual el recurso de revocación deberá dirigirse a este último.
+I. Nombre o razón social del Centro de asistencia social.
 
-La autoridad que realizó el acto que se impugna deberá resolver en un término máximo de quince días.
+II. Domicilio del Centro de asistencia social.
 
-El recurso de revisión se interpondrá ante el Ayuntamiento en los mismos términos que el de revocación.
+III. Censo de la población albergada, que contenga sexo, edad, y situación jurídica, y el seguimiento al proceso de reincorporación familiar o social.
 
-La sola interposición de cualquiera de estos recursos bastará para que se suspenda la ejecución del acuerdo o acto impugnado, excepto cuando se trate de arresto.
+IV. Relación del personal que labora en el Centro de asistencia social incluyendo al director general y representante legal, así como la figura jurídica bajo la cual opera.
 
-Si se tratare de clausura, cancelación de un permiso, licencia o concesión, la suspensión no tendrá efectos restitutorios respecto de los actos ya ejecutados.
+Al efecto, la Procuraduría de Protección deberá reportar semestralmente a la Procuraduría Federal de Protección, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
 
-###### ARTICULO 131.
+El Registro a que hace referencia este artículo deberá ser público y consultable en la página de internet del DIF Estatal.
 
-El escrito en que se promueva el recurso, deberá contener:
+### CAPÍTULO SEXTO. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-I.- El documento o documentos en que se funde su derecho y que acrediten, en su caso, el interés jurídico del promovente;
+###### Artículo 118.
 
-II.- Los hechos en que funde su petición; y
+Sin perjuicio de las atribuciones que las disposiciones aplicables establezcan a otras autoridades, corresponderá a la Procuraduría de Protección, la supervisión de los centros de asistencia social y, en su caso, ejercitarán las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables.
 
-III.- Asimismo, las pruebas que crean necesarias para demostrar los extremos de su petición.
+La Procuraduría de Protección será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley y en los Lineamientos para la Operación y Vigilancia de los Establecimientos que Prestan Servicios de Asistencia Social en el Estado de Chihuahua.
 
-###### ARTICULO 132.
+###### Artículo 119.
 
-El Ayuntamiento deberá tomar en cuenta, para su resolución, las pruebas que acompañe el promovente al interponer el recurso, así como los argumentos que a este respecto exponga.
+Son deberes de la sociedad para con las niñas, niños y adolescentes:
 
-## TITULO V. DE LA ADMINISTRACION DE LOS RECURSOS MUNICIPALES
+I. Auxiliarles y apoyarles en casos de emergencia, independientemente de que se tenga o no parentesco con ellos.
 
-### CAPITULO I. De la Administración de las Finanzas Municipales
+II. Dar aviso a la Procuraduría de Protección o a su correlativa en el ámbito municipal, sobre las conductas que impliquen desamparo, abandono, descuido, exclusión, maltrato, trata entendida como cualquier forma de explotación.
 
-###### ARTICULO 133.
+III. Apoyar, en la medida de su interés, a las instituciones de los sectores público y social que trabajen en el mejoramiento de sus condiciones de vida.
 
-La Administración de las Finanzas Municipales se regirá por la Ley de Ingresos de cada Municipio, su Presupuesto de Egresos, la Ley de Hacienda Municipal y las demás disposiciones legales aplicables.
+###### Artículo 120.
 
-###### ARTICULO 134.
+Todo individuo como integrante de la sociedad es corresponsable de proteger a niñas, niños y adolescentes para procurar su desarrollo integral, la defensa de su vida y seguridad.
 
-Son ingresos ordinarios de los Municipios:
+###### Artículo 121.
 
-I.- Impuestos;
+Las autoridades estatales, municipales y de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política estatal en materia de derechos de niñas, niños y adolescentes.
 
-II.- Derechos;
+Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-III.- Productos;
+#### SECCIÓN PRIMERA. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-IV.- Aprovechamientos;
+###### Artículo 122.
 
-V.- Participaciones.
+Todas las autoridades del Estado de Chihuahua coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás disposiciones legales aplicables.
 
-###### ARTICULO 135.
+###### Artículo 123.
 
-Son ingresos extraordinarios de los Municipios:
+Corresponden a las autoridades estatales y municipales de manera concurrente, las atribuciones siguientes:
 
-I.- Empréstitos;
+I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
 
-II.- Cooperaciones para obras públicas;
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley.
 
-III.- Donaciones;
+III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables.
 
-IV.- Legados;
+IV. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos.
 
-V.- Participaciones extraordinarias.
+V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley.
 
-###### ARTICULO 136.
+VI. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y garantizar la reparación del daño que corresponda.
 
-Todos los pagos que se efectúen a cargo de las finanzas municipales deberán estar autorizados en el Presupuesto de Egresos y afectar la partida correspondiente.
+VII. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-###### ARTICULO 137.
+VIII. Establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
-El Ayuntamiento aprobará las cuentas mensuales de la Tesorería Municipal y la cuenta anual será remitida al Congreso del Estado, para su aprobación definitiva. Tanto el Ayuntamiento como el Congreso podrán ordenar auditorías en cualquier tiempo.
+IX. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior.
 
-###### ARTICULO 138.
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
 
-Los sistemas contables y de control serán establecidos por cada Ayuntamiento de acuerdo con sus posibilidades; al efecto, contarán con la asesoría de la Secretaría de Finanzas y se ajustarán al Manual de Organización y Procedimientos que esta última Dependencia mantendrá actualizado.
+X. Implementar, en coordinación con las autoridades federales, en el ámbito de sus respectivas competencias, los programas, mecanismos y protocolos de seguridad, como el denominado Alerta AMBER, entre otros que tengan por objeto la localización inmediata de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente.
 
-### CAPITULO II. De la Administración y Desarrollo de Personal
+XI. Implementar medidas de inclusión plena y realizar las Acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados.
 
-###### ARTICULO 139.
+XII. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación.
 
-Los Ayuntamientos designarán libremente a los funcionarios y empleados que requiera el buen servicio del Municipio. Para los efectos de este artículo se consideran funcionarios el Secretario, Tesorero, Directores, Jefes de Departamento, Oficina o Sección y Asesores, los cuales podrán ser removidos libremente por los Ayuntamientos.
+XIII. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia.
 
-###### ARTICULO 140.
+XIV. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
-Los empleados de los Ayuntamientos gozarán de todos los derechos que les otorga el Apartado "B" del Artículo 123 de la Constitución de la República.
+XV. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas.
 
-###### ARTICULO 141.
+XVI. Establecer el diseño universal, la accesibilidad y políticas para la prevención, atención y rehabilitación de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
 
-Para el mejor aprovechamiento de los recursos humanos, los Ayuntamientos podrán apoyarse en los sistemas, cursos, criterios de selección y Bolsa de Trabajo del Gobierno del Estado.
+XVII. Realizar acciones a fin de sensibilizar a la sociedad, para que tome mayor conciencia respecto de niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
 
-### CAPITULO III. De la Administración de los Recursos Materiales
+XVIII. Disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
 
-###### ARTICULO 142.
+XIX. Garantizar la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma.
 
-Todos los bienes de propiedad del Ayuntamiento forman parte de sus recursos materiales, su uso y aprovechamiento corresponde a la propia corporación municipal, sin más limitaciones que las que establece la Ley en materia de inmuebles, contratos y adquisiciones.
+XX. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno.
 
-###### ARTICULO 143.
+XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia.
 
-Todos los bienes de los Ayuntamientos deberán relacionarse e integrarse a un inventario general, copia del cual deberá enviarse al Congreso del Estado. Anualmente, junto con la cuenta pública los Ayuntamientos someterán al Congreso las modificaciones que deban efectuarse en los correspondientes inventarios.
+XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de niñas, niños y adolescentes.
 
-###### ARTICULO 144.
+XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias.
 
-Los materiales, enseres, útiles de escritorio, vehículos y demás bienes que se requieran para el cumplimiento de los fines del Municipio, serán adquiridos buscando obtener el mejor precio. En ningún caso podrá pagarse una cantidad mayor que la establecida por el precio oficial, precio de lista o precio de plaza.
+XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley.
 
-###### ARTICULO 145.
+XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
 
-Los bienes que sean adquiridos y no se vayan a utilizar de inmediato, deberán conservarse en estado óptimo mediante un adecuado sistema de almacenamiento.
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2020)</small>
+
+XXVI. Implementar dentro del ámbito de sus competencias, de así estimarlo conveniente, la creación, diseño y operatividad de un Fondo Municipal de Apoyo para la Niñez, el cual podrá ser incluido en los proyectos de Presupuesto de Egresos de cada ejercicio fiscal, cuyos recursos habrán de destinarse para otorgar mayores apoyos educativos, médicos y asistenciales a sus beneficiarios, a fin de contribuir a que mejoren la calidad de vida en su entorno familiar y social.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+XXVI (SIC). Realizar campañas permanentes de concientización, con el fin de prevenir el uso de juguetes y videojuegos que induzcan a la violencia.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+
+XXVII. Promover la implementación de programas de prevención social de violencia y delincuencia orientados a niñas, niños y adolescentes, que contengan temas de nutrición, rendimiento académico, capacitación para el trabajo, actividades físicas y lúdico-formativas; con el propósito de fomentarles un desarrollo integral.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2022)</small>
+
+XXVIII. Promover, en conjunto con organismos especializados, programas que contengan estrategias de intervención para atender educativamente a la población infanto-adolescente desescolarizada y de alta vulnerabilidad socioeducativa, así como poner en marcha procesos pedagógicos que permitan a esta población nivelar y certificar estudios.
+
+###### Artículo 124.
+
+Las autoridades estatales y municipales celebrarán acuerdos de colaboración con las instancias del orden federal, que permitan garantizar que el ingreso, permanencia y salida de niñas, niños y adolescentes del territorio nacional, sea conforme a las disposiciones legales cuando tales situaciones tengan impacto en el territorio de la Entidad.
+
+###### Artículo 125.
+
+Corresponde a las autoridades municipales, en sus respectivas competencias, las atribuciones siguientes:
+
+I. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la Adecuada Garantía y Protección de los Derechos de Niñas, Niños y Adolescentes.
+
+II. Elaborar el Programa municipal y opinar en el diseño del Programa Estatal.
+
+III. Fortalecer las existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes.
+
+IV. Promover, en coordinación con el Estado, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes.
+
+V. Impulsar programas municipales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad.
+
+VI. Difundir por todos los medios de comunicación el contenido de esta Ley.
+
+VII. Elaborar y aplicar los programas municipales a que se refiere esta Ley, así como rendir ante el Sistema Estatal de Protección Integral un informe anual sobre los avances.
+
+VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas municipales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen.
+
+IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales.
+
+X. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia.
+
+XI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el Sistema Estatal de Información, la información necesaria para la elaboración de éstas.
+
+XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
+
+XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley.
+
+XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
+
+###### Artículo 126.
+
+Corresponde a los municipios, de conformidad con esta Ley y las leyes estatales en la materia, las atribuciones siguientes:
+
+I. Elaborar su programa municipal y participar en el diseño del Programa Estatal.
+
+II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos.
+
+III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio.
+
+IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes.
+
+V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección que corresponda, sin perjuicio que ésta pueda recibirla directamente.
+
+VI. Auxiliar a la Procuraduría de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones.
+
+VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes.
+
+VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la federación y de las entidades federativas.
+
+IX. Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
+
+X. Coadyuvar en la integración del sistema de información a nivel estatal de niñas, niños y adolescentes.
+
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales.
+
+XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el DIF Estatal.
+
+#### SECCIÓN SEGUNDA. DEL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIHUAHUA
+
+###### Artículo 127.
+
+Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables corresponde al DIF Estatal:
+
+I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
+
+II. Apoyar el desarrollo de la familia y la comunidad, resaltando una cultura de respeto de los derechos de niñas, niños y adolescentes que fomente la integración social de todos los ciudadanos.
+
+III. Impulsar la cooperación y coordinación de las autoridades de los diferentes niveles de gobierno en el ámbito de sus respectivas competencias en materia de protección y restitución en el ejercicio de los derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello.
+
+IV. Prestar servicios de asistencia social y, en su caso, celebrar los convenios de colaboración son (sic) los Sistemas Municipales DIF o su equivalente, así como con organizaciones e instituciones de los sectores público, privado y social, en (sic) medida de que favorezca la salvaguarda del interés superior del menor.
+
+V. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes especialmente con aquellos que sufren algún tipo de discapacidad.
+
+VI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigación en (sic) materia, en la medida en que favorezca la salvaguarda del interés superior del menor.
+
+VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+
+### CAPÍTULO SÉPTIMO. DE LA PROTECCIÓN DE LOS DERECHOS
+
+###### ARTÍCULO 128.
+
+Ante la falta de familia y de recursos económicos para el sostenimiento, el organismo estatal para la asistencia social pública, deberá proveer lo necesario para la protección, asistencia y atención integral de niñas, niños y adolescentes.
+
+###### Artículo 129.
+
+El DIF Estatal contará con una Procuraduría de Protección, que dependerá de la Dirección General, y tendrá como objeto proporcionar los servicios de asesoría, orientación y representación jurídica, de niñas, niños y adolescentes.
+
+###### Artículo 130.
+
+La Procuraduría de Protección, para el cumplimiento de su objeto, contará con, una subprocuraduría de protección auxiliar por cada distrito judicial, de acuerdo a lo establecido por la Ley Orgánica del Poder Judicial del Estado de Chihuahua.
+
+###### Artículo 131.
+
+La Procuraduría de Protección tendrá las atribuciones siguientes:
+
+I. Procurar la protección integral de niñas, niños y adolescentes de acuerdo a lo previsto por la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables. Dicha protección integral deberá abarcar, por lo menos:
+
+a) Atención médica y psicológica, de manera preventiva y oportuna.
+
+b) Seguimiento a las actividades académicas y entorno social y cultural.
+
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
+
+d) Un hogar seguro para todas (sic) niñas, niños y adolescentes, especialmente para aquellos en situación de vulnerabilidad.
+
+e) Respeto y promoción a las relaciones familiares, con sus padres, tutores, cuidadores o responsables legales.
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
+
+IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia.
+
+V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes.
+
+VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+
+a) El ingreso de una niña, niño o adolescente a un centro de asistencia social.
+
+b) La atención médica inmediata por parte de alguna Institución del Sistema Nacional de Salud.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al ministerio público y a la autoridad jurisdiccional competente.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
+
+En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente.
+
+VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes.
+
+IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables.
+
+X. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes.
+
+XI. Coadyuvar con el Sistema Nacional DIF y el DIF Estatal en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad.
+
+XII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social.
+
+XIII. Supervisar el debido funcionamiento de los centros de asistencia social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables.
+
+XIV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+
+XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVI. Asumir la representación de niñas, niños y adolescentes que hayan perdido la vida como consecuencia de algún delito, asegurando la defensa y representación de sus derechos e intereses en el sistema de procuración e impartición de justicia.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVII. Participar en la búsqueda y localización de niñas, niños y adolescentes desaparecidos, aun en los casos en que solo se encuentren reportados como ausentes o extraviados donde así lo requieran las autoridades competentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE AGOSTO DE 2021)</small>
+
+XVIII. Las demás que les confieran otras disposiciones aplicables.
+
+###### Artículo 132.
+
+Las subprocuradurías de protección auxiliares ejercerán las funciones conferidas a la Procuraduría de Protección, en el ámbito de su respectiva competencia.
+
+## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO DE PROTECCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
+
+###### Artículo 133.
+
+Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes la Procuraduría de Protección deberá seguir el siguiente procedimiento:
+
+I. Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes.
+
+II. Acercarse a la familia o lugares en donde se encuentren niñas, niños y adolescentes para diagnosticar la situación de sus derechos cuando exista información sobre posible restricción o vulneración de los mismos.
+
+III. Determinar en cada uno de los casos identificados los derechos que se encuentran restringidos o vulnerados.
+
+IV. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección.
+
+V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del plan de restitución de derechos.
+
+VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
+
+###### Artículo 134.
+
+En aquellos casos donde la niña, niño o adolescente cuente con familia para proveer a su subsistencia y cuidado, pero se negaren a cumplir con las obligaciones alimentarias, la Procuraduría de Protección procederá a proveer lo necesario para la protección, asistencia y atención integral; además, en los términos de la legislación civil podrá promover ante el juez competente las acciones correspondientes, a efecto de obtener el cumplimiento forzoso y el pago de los gastos o erogaciones que se hayan originado con motivo de los servicios proporcionados a la persona de que se trate.
+
+Sin perjuicio de lo anterior, podrá acudir ante el Ministerio Público a efecto de que conforme a la legislación penal se sancione a los responsables.
+
+###### Artículo 135.
+
+Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes, el Sistema Estatal de Protección Integral, será la instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
+
+Conformado por las Dependencias de la Administración Pública Estatal vinculadas con la protección de estos derechos en los términos que determine la presente Ley, y será presidida por el Gobernador Constitucional del Estado de Chihuahua y contará con una Secretaría Ejecutiva dependiente de la Secretaría General de Gobierno.
+
+###### Artículo 136.
+
+El Sistema Estatal de Protección Integral deberá estar conformado por:
+
+I. Un Presidente, que será el Gobernador Constitucional del Estado de Chihuahua.
+
+II. Una Secretaría Técnica.
+
+III. Los Titulares de las siguientes dependencias de la Administración Pública Centralizada:
+
+a) Secretaría General de Gobierno.
+
+b) Secretaría de Hacienda.
+
+c) Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+
+d) Secretaría de Educación y Deporte.
+
+e) Secretaría de Salud.
+
+f) Secretaría del Trabajo y Previsión Social.
+
+g) Fiscalía General del Estado.
+
+h) Dirección General del Desarrollo Integral de la Familia del Estado de Chihuahua.
+
+IV. Dos presidentes municipales, elegidos de conformidad al reglamento que se expida de la presente Ley.
+
+V. La persona titular de la Comisión Estatal de los Derechos Humanos.
+
+VI. Diez representantes electos de entre las Organizaciones de la Sociedad Civil.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+
+VII. Dos representantes de instituciones educativas públicas o privadas.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2017)</small>
+
+VIII. Quien presida la Comisión de Derechos Humanos del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+
+Para efectos de lo previsto en las fracciones IV, VI y VII, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas, límites y plazos.
+
+Serán invitados permanentemente a las sesiones del Sistema Estatal de Protección Integral, el Presidente del Congreso del Estado y un representante del Poder Judicial quien deberá ser Juez o Magistrado, quienes intervendrán con voz pero no voto.
+
+El Gobernador del Estado podrá ser suplido, en casos excepcionales, por el Secretario General de Gobierno.
+
+El Presidente del Sistema Estatal de Protección Integral podrá invitar a los representantes de las dependencias federales o estatales, sector empresarial, organizaciones sociales, así como cualquier persona física o moral, pública o privada de reconocida trayectoria que se haya destacado por su trabajo, estudio o compromiso en materia de niñas, niños y adolescentes, quienes tendrán derecho a voz, pero no a voto.
+
+En las sesiones del Sistema Estatal de Protección Integral, participarán de forma permanente, solo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema Estatal de Protección Integral. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales especializadas en la materia.
+
+###### Artículo 137.
+
+El Sistema Estatal de Protección Integral deberá reunirse por lo menos cuatro veces al año. Para sesionar válidamente se requerirá de un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomaran por mayoría de votos y, en caso de empate, el Presidente tendrá el voto de calidad.
+
+###### Artículo 138.
+
+Para el mejor cumplimiento de sus funciones el Sistema Estatal de Protección Integral podrá constituir Comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial del Estado.
+
+### CAPÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+###### Artículo 139.
+
+El Sistema Estatal de Protección Integral tendrá, cuando menos, las siguientes atribuciones:
+
+I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional.
+
+II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección.
+
+III. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública local.
+
+IV. Difundir el marco jurídico local, nacional e internacional de protección a los derechos de niñas, niños y adolescentes.
+
+V. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes.
+
+VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos.
+
+VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva.
+
+VIII. Garantizar la transversalidad de la perspectiva de derechos de la infancia y la adolescencia en la elaboración de programas, así como en las políticas y acciones para la protección de los derechos de niñas, niños y adolescentes.
+
+IX. Participar en la elaboración del Programa Nacional.
+
+X. Elaborar y ejecutar el Programa Estatal con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes.
+
+XI. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Programa Estatal.
+
+XII. Emitir un informe anual sobre los avances del Programa Estatal y remitirlo al Sistema Nacional de Protección.
+
+XIII. Participar en la formulación, ejecución e instrumentación de programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes.
+
+XIV. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran.
+
+XV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes.
+
+XVI. Administrar el sistema estatal de información y coadyuvar en la integración del sistema de información a nivel nacional.
+
+XVII. Realizar acciones de formación y capacitación de manera sistémica y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, principalmente con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos.
+
+XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley.
+
+XIX. Celebrar convenios de coordinación en la materia.
+
+XX. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones.
+
+XXI. Las demás que les otorguen otras disposiciones aplicables.
+
+###### Artículo 140.
+
+La coordinación operativa del Sistema Estatal de Protección Integral recaerá en una unidad dependiente de la Secretaría General de Gobierno del Poder Ejecutivo quien ejercerá las funciones de Secretaría Ejecutiva.
+
+###### Artículo 141.
+
+La Secretaría Ejecutiva tendrá las siguientes atribuciones:
+
+I. Coordinar las acciones entre las Dependencias y las entidades competentes de la Administración Pública Estatal que deriven de la presente Ley.
+
+II. Elaborar el anteproyecto del Programa Estatal para someterlo a consideración de los miembros del Sistema Estatal de Protección Integral.
+
+III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal.
+
+IV. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Estatal.
+
+V. Compilar los acuerdos que se tomen en el Sistema Estatal, llevar el archivo de estos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos.
+
+VI. Apoyar el Sistema Estatal en la ejecución y seguimiento de los acuerdos y resoluciones emitidos.
+
+VII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales.
+
+VIII. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa, y protección de niñas, niños y adolescentes, con el fin de difundirlos a las autoridades competentes y a los sectores de interés social y privado para su incorporación en los programas respectivos.
+
+IX. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos en razón de edad, sexo, entidad federativa, escolaridad y discapacidad.
+
+X. Asesorar y apoyar al Gobierno del Estado y a los Ayuntamientos que lo requieran para el ejercicio de sus atribuciones.
+
+XI. Informar cada cuatro meses al Sistema Estatal de Protección Integral y al Presidente sobre sus actividades.
+
+XII. Proporcionar la información necesaria al Órgano para la Evaluación de la Política de Desarrollo Social y Humano en la Entidad, vinculada con la protección de niñas, niños y adolescentes.
+
+XIII. Fungir como instancia de interlocución con Organizaciones de la Sociedad Civil, academias y demás instituciones de los sectores social y privado.
+
+XIV. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+
+### CAPÍTULO DÉCIMO. MEDIOS DE DEFENSA
+
+###### Artículo 142.
+
+El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema Estatal y deberá cumplir con los siguientes requisitos:
+
+I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos.
+
+II. Tener más de 30 años de edad.
+
+III. Contar con título profesional de nivel licenciatura debidamente registrado.
+
+IV. Contar con al menos cinco años de experiencia en las áreas correspondientes a su función.
+
+V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+La Secretaría Ejecutiva contará con un área administrativa para el adecuado cumplimiento de sus atribuciones, las cuales estarán determinadas en el reglamento de la presente Ley.
+
+###### Artículo 143.
+
+Los Sistemas Municipales serán presididos por los Presidentes Municipales y estarán integrados por las dependencias e instituciones vinculadas con la protección de los derechos de niñas, niños y adolescentes.
+
+Contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores sociales y privado, así como de niñas, niños y adolescentes.
+
+###### Artículo 144.
+
+Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será nombrado y removido libremente por el Presidente Municipal, quien deberá tener experiencia en materia de asistencia social.
+
+###### Artículo 145.
+
+Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineamientos establecidos por el Sistema Estatal; se reunirán cuando menos cuatro veces al año, para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+Los Sistemas Municipales expedirán su reglamento a efecto de determinar quiénes integrarán el Sistema Municipal de Protección, y establecerán sus atribuciones y funcionamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ## TITULO VI. LEGISLACION MUNICIPAL
 
 ### CAPITULO I. Del Bando y Reglamentos
 
-###### ARTICULO 146.
+###### Artículo 146.
 
-Los Ayuntamientos expedirán el Bando Municipal y el Presidente lo promulgará.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, a través del Sistema Estatal de Protección, así como los sectores privado y social, participarán en la elaboración y ejecución del Estatal, el cual deberá estar ser acorde con el Plan Estatal de Desarrollo y con la presente Ley.
 
-###### ARTICULO 147.
+###### Artículo 147.
 
-El Bando Municipal deberá contener las normas de observancia general que requiera el régimen, el gobierno y la administración municipal.
+El Programa Estatal contendrá las políticas, objetivos y estrategias prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes.
 
-###### ARTICULO 148.
+###### Artículo 148.
 
-El Bando Municipal podrá modificarse en cualquier momento, siempre y cuando se cumplan los requisitos de su aprobación, expedición y promulgación.
+El Programa Estatal deberá prever acciones de mediano y largo alcance, indicará los objetivos, estrategias y líneas de acción prioritarias, que deberán de ser acordes al Programa Nacional.
 
-###### ARTICULO 149.
+El Programa Estatal deberá incluir mecanismos trasparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Periódico Oficial del Estado.
 
-Los Ayuntamientos podrán expedir los reglamentos que regulen el régimen de las diversas esferas de competencia municipal.
+###### Artículo 149.
 
-###### ARTICULO 150.
+El Sistema de Información en Materia de Niñas, Niños y Adolescentes formará parte del Sistema de Información para el Desarrollo Social y Humano y tendrá como objetivo fundamental sistematizar la información para el diagnóstico, formulación, seguimiento y evaluación de la política pública en la materia.
 
-Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán darse a la publicidad para que tengan plena vigencia y establecer la fecha en que se inicia su obligatoriedad, precisamente al promulgarse.
+###### Artículo 150.
+
+El Sistema de Información deberá contener, como mínimo, lo siguiente:
+
+I. Un directorio permanentemente actualizado de dependencias y entidades de los tres órdenes de gobierno, así como de organizaciones de los sectores social y privado que realicen en el Estado actividades de desarrollo social y humano a favor de este grupo etario.
+
+II. La población objetivo, metas, productos, efectos e impacto de los programas y proyectos ejecutados por las dependencias y entidades de la administración pública estatal, así como de los de las organizaciones del sector social apoyados con recursos gubernamentales.
+
+III. Las evaluaciones de resultado e impacto que se realicen a los programas, proyectos y acciones.
+
+IV. La información relativa a la presupuestación y ejercicio de los recursos públicos de los programas y proyectos.
+
+V. Los padrones de niñas, niños y adolescentes atendidos en los programas y proyectos públicos o de organizaciones del sector social, apoyados con recursos públicos.
+
+VI. Los estudios e investigaciones realizadas y la información estadística generada en la materia, por las entidades públicas y organizaciones de los sectores social y privado.
+
+VII. Los informes, quejas y denuncias que se formulen respecto de los programas, proyectos y servicios públicos en la materia, en los términos de las disposiciones legales aplicables.
 
 ### CAPITULO II. De las Sanciones
 
-###### ARTICULO 151.
+###### Artículo 151.
 
-Las infracciones a las normas contenidas en el Bando o Reglamentos Municipales, se sancionarán con:
+Los gobiernos municipales, en el ámbito de sus atribuciones, coadyuvarán a la integración y actualización del Sistema de Información referido en el artículo anterior.
 
-I.- Amonestación;
-
-II.- Multa hasta de cincuenta mil pesos, pero si el infractor es jornalero, ejidatario u obrero, la multa no excederá del salario de una semana;
-
-III.- Suspensión temporal o cancelación del permiso o licencia;
-
-IV.- Clausura;
-
-V.- Arresto hasta de quince días, si el infractor se negare a pagar la multa, siempre y cuando ésta no exceda de quinientos pesos y no se haya impuesto por motivo fiscal;
-
-VI.- A los concesionarios de los servicios públicos municipales:
-
-a) Multa hasta de cien mil pesos;
-
-b) Cancelación de la concesión; y
-
-VII.- Pago al erario municipal del daño causado sin perjuicio de las demás sanciones que procedan.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ## TITULO VII. SUPLENCIA Y RESPONSABILIDAD DE FUNCIONARIOS Y EMPLEADOS MUNICIPALES
 
 ### CAPITULO I. De las Faltas y Licencias de los Funcionarios Municipales
 
-###### ARTICULO 152.
+###### Artículo 152.
 
-Los funcionarios municipales necesitan licencia del Ayuntamiento para separarse del ejercicio de sus funciones.
+Los datos contenidos en el Sistema de Información en Materia de Niñas, Niños y Adolescentes, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública, así como en la Ley de Protección de Datos Personales, ambos ordenamientos del Estado de Chihuahua y demás legislación aplicable.
 
-Las faltas de los funcionarios municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de quince días.
+###### Artículo 153.
 
-###### ARTICULO 153.
+La defensa y protección de niñas, niños y adolescentes, estará a cargo del organismo para la asistencia social pública estatal y sus homólogos a nivel municipal, por conducto de sus respectivas Procuradurías de Protección, de conformidad con las atribuciones que les competen por virtud de la Ley de Asistencia Social Pública y Privada del Estado de Chihuahua.
 
-Las faltas temporales del Presidente Municipal o Presidente de la Junta Municipal serán suplidas por el Regidor Primero y en defecto de éste por el que le siga en número.
+###### Artículo 154.
 
-Las de los Regidores no se suplirán cuando no excedan de ocho días y mientras haya el número suficiente de miembros que marca la Ley, para que los actos del Ayuntamiento o Junta Municipal tengan validez, pero cuando no haya ese número o excedieren del plazo indicado, se llamará al suplente respectivo.
+La Comisión Estatal de los Derechos Humanos, dentro de los límites de su competencia, atenderá de manera especializada y prioritaria a la protección de los derechos humanos de niñas, niños y adolescentes.
 
-Para cubrir las faltas absolutas de los miembros de los Ayuntamientos o Juntas Municipales serán llamados los suplentes respectivos. Si faltase también el suplente para cubrir la vacante que corresponda, la Legislatura a proposición del Ejecutivo designará los sustitutos.
+Además, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes en el Estado.
 
-###### ARTICULO 154.
+###### Artículo 155.
 
-Las faltas temporales de los Comisarios Municipales serán cubiertas por el suplente respectivo.
+La tutela del Estado será ejercida por la Procuraduría de Protección y, por tanto, tendrá facultades para determinar y aplicar de manera inmediata y transitoria las medidas de protección de carácter administrativo previstas en esta Ley, que de ningún modo afecta las medidas de carácter judicial existentes que pudieran decretarse.
 
-###### ARTICULO 155.
-
-Las faltas temporales de las autoridades auxiliares municipales serán suplidas por la persona que designe el Ayuntamiento.
+Para cumplir con lo anterior, se podrán celebrar los convenios necesarios entre autoridades federales, estatales, municipales y organizaciones de la sociedad civil.
 
 ### CAPITULO II. De la Remoción e Inhabilitación de los Miembros del Ayuntamiento
 
-###### ARTICULO 156.
+###### Artículo 156.
 
-Los Miembros de los Ayuntamientos y Juntas Municipales podrán ser declarados inhábiles de los puestos para los cuales fueron electos, en los siguientes casos:
+La Procuraduría de Protección será la instancia garante de la observancia y restitución de los derechos de niñas, niños y adolescentes, por ello ejercerá asimismo la tutela del Estado y por tanto le corresponde la aplicación del procedimiento administrativo para la protección de niñas, niños y adolescentes en situación de riesgo o desamparo, tendrá facultades exclusivas para determinar y aplicar imponer una o más las medidas de protección y restitución en un solo caso, siempre que se encuentre justificado y sirva para proteger o garantizar los derechos previstos en esta Ley.
 
-I.- Por abandono de sus funciones en un lapso de quince días consecutivos, sin causa justificada;
+La Representación en Suplencia será ejercida por la Procuraduría de Protección por conducto de sus unidades administrativas, mediante la representación de niñas, niños y adolescentes bajo su tutela en los procedimientos administrativos y judiciales en que estos se vean involucrados, sin perjuicio de la representación social que corresponda al Ministerio Público.
 
-II.- Por inasistencia consecutiva a tres sesiones de cabildo, sin causa justificada;
+###### Artículo 157.
 
-III.- Cuando existan entre sus miembros conflictos que hagan imposible el cumplimiento de los fines del Ayuntamiento o Junta Municipal y ejercicio de sus competencias;
+Las medidas de protección son disposiciones provisionales emanadas de la autoridad competente con la finalidad de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes que se encuentren en condiciones de amenaza, vulneración y/o violación flagrante de los mismos y que sean causadas por la acción u omisión de cualquier persona física o moral de derecho público o privado.
 
-IV.- Cuando se dicte en su contra auto de formal prisión por delito doloso; y
+Para la aplicación de dichas medidas, se debe tener en cuenta el principio de interés superior de la infancia, así como el fortalecimiento de los vínculos familiares y comunitarios.
 
-V.- Por incapacidad física o legal.
+Independientemente de la aplicación de las medidas de protección que correspondan, se deberá hacer del conocimiento de la autoridad competente, los hechos que pudiesen llegar a constituir delito.
 
-###### ARTICULO 157.
+Las medidas de protección deben de tener un efecto útil inmediato. La efectividad inmediata de las mismas debe tener prioridad sobre cualquier impedimento formal y será obligación del juzgador garantizar que no exista obstrucción práctica para la inmediata aplicabilidad de las medidas dictadas.
 
-En los casos previstos por las fracciones I, II, IV y V del artículo que antecede, la inhabilitación operará de pleno derecho, debiendo la autoridad de mayor jerarquía del Ayuntamiento o Junta Municipal en funciones, llamar a los suplentes para que de inmediato se presenten a fungir, y si éstos no concurren al llamado, dará aviso de esta circunstancia al Ejecutivo del Estado para que solicite de la Legislatura o Diputación Permanente la inhabilitación y remoción de los mismos, y proponga a los sustitutos.
+De la misma forma las medidas deben ser accesibles y buscar el respeto a la integralidad de los derechos así como ser, en la mayor medida de lo posible armónica con el ejercicio ininterrumpido del elenco íntegro de sus derechos.
 
-###### ARTICULO 158.
+###### Artículo 158.
 
-Cuando el Ejecutivo del Estado tenga conocimiento de la existencia de la situación prevista por la fracción III del artículo 156 de esta Ley, previa investigación y análisis de los hechos, podrá pedir la inhabilitación y remoción de los miembros del Ayuntamiento o Junta Municipal a la Legislatura Local o Diputación Permanente y proponer sustitutos.
+Las medidas de protección que se podrán imponer y que deberán acatarse, tanto por niñas, niños y adolescentes como por quienes ejerzan sobre ellos la patria potestad, tutela, custodia o los tenga bajo su cuidado, son las siguientes:
 
-###### ARTICULO 159.
+I. Orientación, apoyo y seguimiento temporal.
 
-Si por imposibilidad física o legal, licencia o por cualquier otra causa, de la totalidad de los miembros propietarios y suplentes de un Ayuntamiento o Junta Municipal éste quedare privado de sus funciones y consiguientemente el Municipio carente de autoridad, el Ejecutivo del Estado solicitará la inhabilitación correspondiente a la Legislatura del Estado o Diputación Permanente en su caso, enviando las constancias relativas y proponiendo al mismo tiempo la designación del Ayuntamiento o Junta Municipal sustituto que concluirá el periodo respectivo.
+II. Inclusión en programas oficiales de asistencia social, conforme a la Ley de la materia.
+
+III. Canalización a instituciones públicas o privadas para atención médica, psicológica o psiquiátrica.
+
+IV. Inclusión en programas que impliquen orientación y tratamiento de adicciones.
+
+V. Incorporación al procedimiento de conciliación o mediación.
+
+VI. Rescate urgente o provisional cuando se encuentren en situación (sic) desamparo, que podrá incluir la separación preventiva de su lugar de residencia.
+
+VII. Resguardarlos en instituciones públicas.
+
+VIII. Colocación en acogimiento residencial.
+
+IX. Las demás que contribuyan al desarrollo integral de niñas, niños y adolescentes y estén dentro de su ámbito de competencia.
+
+El Sistema Estatal de Protección coadyuvará con la Procuraduría de Protección en la ejecución de las medidas que ésta determine, prestando las facilidades administrativas y de gestión que les correspondan a los integrantes del Sistema en su desarrollo.
+
+###### Artículo 159.
+
+Los servicios que implican las medidas de protección, asistencia y atención integral, podrán ser prestados en forma directa por los organismos para la asistencia social pública en el ámbito estatal o municipal, según corresponda, o mediante la subrogación de los servicios respectivos.
 
 ### CAPITULO III. Responsabilidad de Funcionarios y Empleados Municipales
 
-###### ARTICULO 160.
+###### Artículo 160.
 
-Los funcionarios y empleados de los Ayuntamientos, Juntas Municipales y Comisarias, son responsables de los delitos y faltas oficiales que cometan durante su encargo.
+La separación preventiva del seno familiar solo se aplicará cuando la conducta que la originó sea atribuible por acción u omisión a quien vive con niñas, niños y adolescentes y no exista otra alternativa.
 
-###### ARTICULO 161.
+La separación definitiva del seno familiar, únicamente se podrá realizar por las causas establecidas en las leyes aplicables y mediante resolución de autoridad judicial.
 
-En delitos del orden común, los funcionarios y empleados municipales no gozarán de fuero alguno, pudiendo en consecuencia proceder en su contra la autoridad judicial respectiva.
+###### Artículo 161.
 
-###### ARTICULO 162.
+La Procuraduría de Protección podrá apoyarse igualmente en los procedimientos de resolución pacífica de conflictos, que tendrán como objetivo buscar alternativas de solución a problemáticas que afectan la armoniosa dinámica de la familia tendiente al mejoramiento de sus relaciones y siempre y cuando los ordenamientos legales aplicables no dispongan que la controversia deba plantearse ante autoridad jurisdiccional para definitiva resolución y no podrán versar sobre acciones o derechos que no sean materia de transacción o sean irrenunciables, ni en relación a situaciones que por su propia naturaleza puedan ser constitutivas de delito que se persiga de oficio.
 
-Por las infracciones cometidas a esta Ley y Reglamentos Municipales, los funcionarios y empleados serán juzgados conforme a la Ley.
+No habrá lugar al trámite de los procedimientos de resolución pacífica de conflictos, en aquellos casos en que niñas, niños y adolescentes deban quedar bajo la Tutela Pública del Estado de conformidad con las disposiciones aplicables; cuando se controviertan acciones o derechos que no sean materia de transacción o sean irrenunciables; ni en relación a situaciones que por su propia naturaleza puedan ser constitutivas de delito que se persiga de oficio.
 
-###### ARTICULO 163.
+En su caso, podrá optarse por canalizar a los interesados al Instituto de Justicia Alternativa o a los Centros de Mediación del Estado.
 
-En los juicios del orden civil no hay fuero ni inmunidad para ningún funcionario o empleado público municipal.
+###### Artículo 162.
+
+El resultado deberá constar por escrito, en forma de convenio que será firmado por las partes, plasmándose de manera clara y concisa los compromisos adquiridos y los términos relativos a su cumplimiento ordenando y exhortando a los interesados lo ratifiquen ante autoridad judicial correspondiente para que se eleve a categoría de cosa juzgada.
+
+Todo convenio habrá de ratificarse ante el Juzgado correspondiente para que se eleve a categoría de cosa juzgada.
+
+###### Artículo 163.
+
+Tratándose del procedimiento de conciliación, se harán constar en el convenio respectivo las condiciones o medidas de protección que resulten aplicables de las previstas en las fracciones I, II, III y IV del artículo 158 de esta Ley, a fin de salvaguardar el interés superior de niñas, niños y adolescentes.
 
 ## TITULO VIII. DE LA PRESTACION DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
 ### CAPITULO I. Del Otorgamiento, Cancelación y Caducidad de las Concesiones
 
-###### ARTICULO 164.
+###### Artículo 164.
 
-Los Municipios organizarán y reglamentarán la administración, funcionamiento, conservación y explotación de sus servicios públicos.
+Toda persona, institución o autoridad que tenga conocimiento o presuma fundadamente la existencia de alguna conducta o hecho que vulnere derechos que pudieran afectar el desarrollo integral de alguna niña, niño o adolescente, sin perjuicio de prestarle el auxilio inmediato que requiera, tiene el deber de denunciarlo por cualquier medio y sin necesidad de formalidad alguna, en especial cuando se detecten hechos relacionados con violencia sexual.
 
-###### ARTICULO 165.
+Solo cuando la denuncia provenga de un particular, tendrá derecho a realizarla de manera anónima, o bien, a que se garantice la reserva y confidencialidad de sus datos personales.
 
-El otorgamiento de las concesiones municipales se sujetará a las siguientes bases:
+La Procuraduría de Protección o instancia análoga en el ámbito municipal, así como al Ministerio Público de la adscripción donde se encontrare, bajo su responsabilidad realizarán las actuaciones que estimen necesarias para asegurarse de la existencia o no de la vulneración o restricción a sus derechos.
 
-I.- La determinación del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio, la que deberá hacerse del conocimiento público;
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
-II.- Que el interesado en obtenerla formule la solicitud respectiva cubriendo los gastos que demanden los estudios correspondientes;
+Las autoridades, en el ámbito de sus respectivas competencias, deberán realizar campañas permanentes de difusión, en redes sociales, radiodifusoras, televisoras o cualquier medio de comunicación o campaña de socialización que estimen pertinente, sobre la importancia, funcionalidad y acceso a denunciar el abuso infantil, maltrato infantil, intrafamiliar o cualquier conducta o hecho que vulnere derechos que pudieran afectar el desarrollo integral de alguna niña, niño o adolescente. Lo anterior con la finalidad de prevenir y atender la violencia que se pudiera generar hacia estos grupos vulnerables.
 
-III.- Determinación del régimen a que deberán estar sometidas las concesiones, limitando el término de las mismas, el que no excederá de quince años; las causas de caducidad y cancelación, así como la forma de vigilancia en la prestación del servicio;
+###### Artículo 165.
 
-IV.- Fijar las condiciones bajo las cuales se garantice la generalidad, suficiencia y regularidad del servicio;
+Niñas, niños y adolescentes, para la defensa de sus derechos, podrán personalmente o a través de un tercero, solicitar la asistencia y protección de la Procuraduría de Protección con el fin de que se promuevan las acciones legales y de protección oportunas; también lo podrán hacer por su propio derecho o incluso por conducto de una persona que no tenga ningún tipo de representación formal.
 
-V.- Determinación de las condiciones y formas en que deberán otorgarse las garantías, para responder de la prestación del servicio en los términos de la concesión y de esta Ley; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2021)</small>
 
-VI.- Establecer el procedimiento, para los asuntos que importen reclamación o afectación de los derechos y obligaciones que genere la concesión o el servicio público.
+Así mismo, la Procuraduría de Protección asumirá la representación de niñas, niños y adolescentes que hayan perdido la vida como consecuencia de algún delito, asegurando la defensa de sus derechos e intereses, en el sistema de procuración e impartición de justicia.
 
-###### ARTICULO 166.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE AGOSTO DE 2021)</small>
 
-La cancelación de concesiones de servicios públicos municipales procederá:
+La Procuraduría de Protección deberá tomar las previsiones necesarias para que las distintas etapas del procedimiento o en la imposición de medidas especiales de protección, toma de declaración, y desahogo de pruebas periciales se desarrollen de acuerdo con las características y necesidades de niñas, niños y adolescentes.
 
-I.- Cuando se constate que el servicio, se presta en forma distinta a los términos de la concesión;
+###### Artículo 166.
 
-II.- Cuando no se cumpla con las obligaciones que deriven de la concesión;
+La Procuraduría de Protección deberá en todo momento hacer el mayor esfuerzo por resguardar la identidad de la niña, niño o adolescente de toda persona que no sea parte del asunto; asimismo cuando los padres actúen en su representación se deberá velar por que su identidad tampoco se haga pública y así se devele la identidad de su representado.
 
-III.- Cuando no se preste el servicio concesionado regularmente;
+En particular debe velar que la identidad del niño, niña o adolescente no sea hecha pública ante los medios de comunicación.
 
-IV.- Cuando no se acaten las normas fijadas por el Ayuntamiento para la prestación del servicio;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-V.- Cuando se deje de prestar el servicio, a menos que se trate de caso fortuito o fuerza mayor;
+###### Artículo 167.
 
-VI.- Cuando el concesionario no esté capacitado o carezca de los elementos materiales o técnicos para la prestación del servicio;
+Las personas en el servicio público, así como los responsables y el personal de los centros educativos, de salud, sociales o privados, y en general cuantas entidades o instituciones que tengan conocimiento de hechos o conductas que atenten contra los derechos y/o el desarrollo de niñas, niños y adolescentes, tendrán igualmente la obligación señalada en el artículo anterior, así como a colaborar con la autoridad competente para prevenir, evitar y resolver tales situaciones.
 
-VII.- Cuando se constate que el concesionario no conserva los bienes e instalaciones en buen estado o cuando éstos sufran deterioro por su negligencia, con perjuicio para la prestación normal de servicio; y
+###### Artículo 168.
 
-VIII.- Por cualquiera otra causa similar a las anteriores.
+Recibida la denuncia se procederá a indagar de manera inmediata sobre la veracidad de los hechos denunciados y determinar si existen elementos o razones para iniciar un procedimiento administrativo de protección.
 
-###### ARTICULO 167.
+###### Artículo 169.
 
-El Ayuntamiento podrá decretar administrativamente y en cualquier tiempo la cancelación de la concesión, en las (sic) casos señalados por el artículo anterior.
+Cuando de la investigación correspondiente se determine que los hechos obedecen a conflictos que afectan la funcionalidad de las dinámicas familiares y que son susceptibles de ser resueltos mediante los procedimientos de conciliación o mediación, se procederá a su trámite a petición de parte, o de oficio si se advierte que la consecución de acuerdos garantizará la protección de los derechos de niñas, niños y adolescentes.
 
-###### ARTICULO 168.
+Los procedimientos de conciliación y mediación serán aplicables de oficio o a petición de parte, salvo en aquellos casos en que niñas, niños y adolescentes deban quedar bajo la Tutela Pública del Estado, de conformidad con las disposiciones aplicables.
 
-El procedimiento se hará con las formalidades que determinan los artículos de esta Ley.
+###### Artículo 170.
 
-###### ARTICULO 169.
+Se entiende como situación de riesgo, cuando la persona sin estar privada en su ámbito familiar de la necesaria asistencia material, emocional o afectiva, se vea afectada por cualquier circunstancia que perjudique su adecuado desarrollo personal, familiar o social y que permita razonablemente temer que en el futuro pueda estar incurso en una situación de desamparo.
 
-Las concesiones caducan:
+###### Artículo 171.
 
-I.- Cuando no se inicie la prestación del servicio dentro del plazo señalado en la concesión;
+La situación de desamparo, se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes a favor de niñas, niños y adolescentes, cuando estos quedan privados de la necesaria asistencia material, emocional o afectiva.
 
-II.- Por la conclusión del término de su vigencia; y
+###### Artículo 172.
 
-III.- Porque el concesionario no otorgue las garantías que se le fijen.
+La situación de desamparo opera cuando una niña, niño o adolescente se encuentre en una o más de las siguientes hipótesis:
 
-###### ARTICULO 170.
+I. La existencia de violencia, maltrato físico, psicológico, emocional o sexual hacia su persona.
 
-Para decretar la caducidad se oirá previamente al interesado, con la salvedad que establece el artículo siguiente.
+II. En abandono por parte de su familia, o por quienes ejerzan la guarda o custodia.
 
-###### ARTICULO 171.
+III. En cualquier situación que ponga en riesgo su vida o sano desarrollo, por conductas atribuibles a sus padres, tutores o a quienes ejerzan la guarda y custodia, si se presume que existe dolo, culpa o negligencia.
 
-La causa de caducidad a que se refiere la fracción II del artículo 169 de esta Ley opera de pleno derecho por el simple transcurso del tiempo.
+IV. Ausencia de escolaridad habitual sin que exista justa causa.
 
-###### ARTICULO 172.
+V. La práctica de la mendicidad, o se encuentren siendo utilizados para la prostitución o trata, entendida como cualquier otra forma de explotación.
 
-No obstante lo determinado por el artículo precedente, a petición formulada por los concesionarios antes de la expiración del plazo de la concesión, podrá prorrogarse ésta previa la autorización de la Legislatura, hasta por un término igual para el que fue otorgada, siempre que subsista la necesidad del servicio; que las instalaciones y equipo hubieren sido renovados para satisfacerla durante el tiempo de la prórroga; se haya prestado el servicio por el concesionario en forma eficiente y que el Ayuntamiento esté imposibilitado para prestarlo o lo considere conveniente.
+VI. Cuando se hallare en calidad de expósito o en orfandad.
 
-###### ARTICULO 173.
+VII. La falta de registro de nacimiento sin que exista justa causa.
 
-En los casos en que se decrete la cancelación o caducidad de la concesión, los bienes con los que se preste el servicio revertirán a favor del Municipio, con excepción de aquéllos propiedad del concesionario que por su naturaleza no estén incorporados de manera directa al propio servicio, en cuyo caso si se estima que son necesarios para ese fin, se expropiarán en términos de Ley.
+VIII. Los padres, tutores o personas encargadas de su cuidado pretendan registrar el nacimiento de manera irregular o con datos falsos.
+
+IX. En los casos de sustracción o retención ilegal, siempre que se acredite que la separación preventiva no le cause mayor perjuicio.
+
+X. La falta de debida asistencia médica oportuna en caso de enfermedad.
+
+XI. La drogadicción o el alcoholismo de niñas, niños o adolescentes.
+
+XII. El trastorno mental de los padres o de quienes ejercen la guarda o custodia, que impida el adecuado cumplimiento de sus obligaciones, cuando no existiere otro integrante de la unidad familiar que pudiera asistirlos.
+
+XIII. La drogadicción o alcoholismo en las personas que integran la unidad familiar y, en especial, de los padres o de quienes ejerzan la guarda o custodia, siempre que incida en el desarrollo y bienestar de niñas, niños y adolescentes.
+
+XIV. La exposición a situaciones habituales de violencia familiar.
+
+XV. Se encuentren siendo inducidos a la pornografía, alcoholismo, drogadicción, tabaquismo, situaciones de carácter sexual, o aquellas que resultaren inapropiadas de acuerdo a la edad y desarrollo cognoscitivo.
+
+XVI. La ausencia de personas a quienes conforme a la ley corresponda ejercer la patria potestad.
+
+XVII. Se encuentren en peligro su seguridad o integridad personal por el inadecuado cumplimiento de los deberes que implica el ejercicio de la patria potestad, tutela, guarda o custodia.
+
+XVIII. Cometan una falta administrativa o conducta tipificada como delito y sean menores de 12 años de edad.
+
+La falta de recursos económicos no podrá ser considerada como motivo suficiente para la separación de los familiares con los que viva.
+
+###### Artículo 173.
+
+Si de las primeras investigaciones realizadas se aprecia la existencia de motivos o elementos para dar trámite al procedimiento administrativo de protección, se podrán determinar preventivamente las medidas de protección urgentes que se estimen pertinentes de acuerdo a la gravedad del caso, fundando y motivando tal circunstancia.
 
 ### CAPITULO II. De la Municipalización
 
-###### ARTICULO 174.
+###### Artículo 174.
 
-El Municipio como titular de los servicios públicos que sean de su competencia podrá municipalizarlos cuando estén en poder de particulares, ya sea prestándolos directamente o participando conjuntamente con éstos.
+Sin perjuicio de lo establecido en el artículo 160, la separación preventiva del hogar podrá establecerse cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a la salud, integridad o seguridad, aun cuando no haya concluido la investigación.
 
-###### ARTICULO 175.
+###### Artículo 175.
 
-Se municipalizarán los servicios públicos en los siguientes casos:
+Al llevar a cabo la medida a que se refiere el artículo anterior, la Procuraduría de Protección deberá notificarla a la autoridad judicial correspondiente, señalando el lugar donde preventivamente habrá de quedar la niña, niño o adolescente, acompañando copia de las constancias respectivas a efecto de que dicha medida sea analizada por la mencionada autoridad.
 
-I.- Cuando sea irregular o deficiente su prestación; y
+El órgano jurisdiccional competente deberá pronunciarse sobre la ratificación, modificación o revocación, dentro de las veinticuatro horas siguientes a la imposición de la separación preventiva como medida urgente de protección.
 
-II.- Cuando su prestación por los particulares cause perjuicios graves a la colectividad.
+###### Artículo 176.
 
-###### ARTICULO 176.
+Para determinar la situación de riesgo o desamparo, la Procuraduría de Protección se allegará de cualquier elemento de convicción derivado de investigaciones, entrevistas, documentos, dictámenes periciales u otros elementos que sea posible obtener a través de los avances tecnológicos y podrá ordenar la práctica de exámenes médicos, toxicológicos, psicológicos, psiquiátricos y en general todos aquellos que se consideren necesarios para constatar la veracidad de los hechos y, en su caso, la gravedad de las conductas, siempre que estos no sean contrarios a la ley.
 
-El procedimiento de municipalización se llevará a cabo a iniciativa del propio Ayuntamiento, o a solicitud de la mayoría de los usuarios o de las organizaciones del Municipio.
+La Procuraduría para dar cumplimiento a lo anterior, podrá girar citatorios e implementar las acciones necesarias para constatar los hechos denunciados, detectados o recibidos, para lo cual se apoyará del cuerpo especializado de seguridad pública o de las autoridades competentes.
 
-###### ARTICULO 177.
+###### Artículo 177.
 
-Previamente a la declaratoria de municipalización se practicarán los estudios respectivos, formulándose dictamen correspondiente, el que versará sobre la procedencia o improcedencia de la medida y en su caso la forma en que deba realizarse. En este procedimiento deberá oírse a los posibles afectados.
+Toda persona o institución que tenga a su cargo a una niña, niño o adolescente que se presuma se encuentre en situación de riesgo o desamparo, deberá permitir al personal de la Procuraduría de Protección desarrollar las diligencias o actuaciones necesarias para la investigación correspondiente.
 
-###### ARTICULO 178.
+Cuando se les requiera para ello, deberán presentarlos ante la autoridad y proporcionar las facilidades para la práctica de exámenes, entrevistas y demás actuaciones.
 
-Seguido el trámite que señala el artículo precedente, el Ayuntamiento dictará el acuerdo correspondiente.
+El incumplimiento de esta disposición será sancionada conforme a la legislación penal, sin perjuicio de las responsabilidades administrativas que procedan.
 
-###### ARTICULO 179.
+###### Artículo 178.
 
-En caso de que se decrete la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente concesionarlo en términos de esta Ley.
+En todo procedimiento donde vaya a tomar participación una niña, niño o adolescente se le informará de acuerdo a su edad y etapa de desarrollo, mediante una plática previa a la diligencia a desahogarse, las etapas del procedimiento, lo que implica cada una de ellas, la importancia de su participación y lo que se espera de ella, en particular conocer su punto de vista sobre lo ocurrido y si requiere de medidas especiales de asistencia con el fin de prestar declaración o participar en el procedimiento, deberá canalizarse con los profesionistas especializados que se requiera.
+
+Podrán estar presentes en el mismo espacio uno de los padres o representantes legales de la niña, niño o adolescente, salvo cuando:
+
+a) Sean probables responsables de una agresión en contra de aquellos.
+
+b) Se encuentren en calidad de partes contrarias actuando en representación del mismo.
+
+c) La niña o niño exprese el deseo de que no estén presentes.
+
+d) El juzgador considere que su presencia podrá resultar inhibitoria de la actuación de la niña, niño o adolescente en cuyo caso deberá fundar dicha decisión y someterla con antelación a objeción de parte.
+
+###### Artículo 179.
+
+Toda actuación infantil deberá ser grabada en audio e imagen en su totalidad y de esta forma buscar se haga el menor daño a la persona y se evite la revictimización en el procedimiento administrativo o en el judicial si se llegaré a él. La grabación deberá integrarse, ser transcrita y permanecer en el expediente de manera inmediata, así como extenderse copia al representante legal de la niña, niño o adolescente cuando así lo solicite alguna de las partes.
+
+La grabación de la participación del niño o niña formará parte integral de la actuación y su registro.
+
+Las reglas para el manejo de la información grabada serán las mismas que aplican para el registro escrito de una actuación infantil.
+
+La presencia y uso de instrumentos de grabación no deben ser ocultados al niño o niña, sino por el contrario, deben mostrarse y explicitar el motivo de su utilización.
 
 ## TITULO IX. DISPOSICIONES GENERALES
 
 ### CAPITULO I. Colaboración entre el Municipio y el Estado
 
-###### ARTICULO 180.
+###### Artículo 180.
 
-Los Ayuntamientos podrán auxiliarse por órganos y dependencias técnicas del Gobierno del Estado, al efecto, el Ejecutivo determinará la creación de un Departamento de Asesoría Municipal que se encargará de coordinar la asesoría a los Ayuntamientos.
+En caso de negativa de las personas obligadas o de oposición de particulares para que se realice la investigación o se apliquen las medidas de protección, la Procuraduría de Protección podrá solicitar el apoyo del Ministerio Público o el uso de la fuerza pública, a fin de llevar a cabo tales acciones.
 
-###### ARTICULO 181.
+Sin detrimento de lo anterior, podrá aplicar la sanción que corresponda conforme a las disposiciones previstas en el Capítulo Noveno del Título Quinto de esta Ley.
 
-El Ejecutivo del Estado y los Ayuntamientos podrán celebrar convenios de coordinación, con objeto de aprovechar plenamente los recursos de ambos niveles de gobierno.
+###### Artículo 181.
 
-###### ARTICULO 182.
+Durante el procedimiento administrativo de protección se garantizará el derecho de audiencia a quienes ejerzan la patria potestad, tutela, custodia o que tengan bajo su cuidado a niñas, niños y adolescentes, quienes podrán aportar los elementos de prueba que consideren pertinentes.
 
-Los Municipios podrán coordinarse con el Ejecutivo para el establecimiento de los servicios de policía, tendiendo a la implantación de un solo cuerpo de seguridad pública, frente al que ambos niveles de gobierno podrán ejercer las facultades que les son inherentes.
+La negativa a comparecer en el procedimiento por quienes tengan obligación de ello, no será impedimento para continuar con el mismo.
 
-###### ARTICULO 183.
+###### Artículo 182.
 
-Los Ayuntamientos, Juntas Municipales y Comisarías Municipales deberán informar al Ejecutivo del Estado, todas las cuestiones trascendentes que se susciten dentro de su jurisdicción.
+La Procuraduría de Protección contará con un término de hasta treinta días hábiles contados a partir del aviso o denuncia que les haya sido formulado, para determinar si resulta procedente declarar la situación de riesgo o desamparo y las correspondientes medidas de protección que habrán de aplicarse.
+
+###### Artículo 183.
+
+El término señalado en el artículo anterior podrá prorrogarse hasta por igual plazo por alguna de las siguientes causas:
+
+I. Para concluir con el desahogo de diligencias de la investigación.
+
+II. Para continuar con las medidas de protección que se hayan impuesto.
+
+III. Por no haber satisfecho los padres la medida de protección impuesta.
 
 ### CAPITULO II. De los Asentamientos Humanos
 
-###### ARTICULO 184.
+###### Artículo 184.
 
-Se declara de utilidad pública e interés social la planeación, ordenación, desarrollo y organización de todo tipo de asentamientos humanos, ya sea urbanos o rurales.
+La persona titular de la Procuraduría de Protección Estatal dispondrá la conformación de un Consejo de Niñas, Niños y Adolescentes Tutelados, integrado por un equipo multidisciplinario especializado bajo su autoridad, que revisará y se asegurará que se resuelva sobre la situación jurídica de niñas, niños y adolescentes, en el término establecido en el artículo que antecede y bajo la observancia de los principios de la Convención de los Derechos del Niño, la Constitución Federal, la Ley General y las disposiciones de la presente Ley.
 
-###### ARTICULO 185.
+###### Artículo 185.
 
-La prestación de servicios públicos a los núcleos de población legalmente constituidos, es prioridad que deberá atender la Autoridad Municipal.
+El ejercicio de la tutela pública del Estado derivada de alguna de las medidas previstas en las fracciones VI y VII del artículo 158 de este ordenamiento, atenderá al siguiente orden de prelación respecto del lugar en que haya de quedar resguardada la persona:
 
-###### ARTICULO 186.
+I. Hogar de la familia de acogimiento.
 
-Los asentamientos humanos deberán regirse por la Ley General de Asentamientos Humanos, la Ley de Asentamientos Humanos del Estado de Campeche, la Ley de Fraccionamientos, Unidades Habitacionales, Condominios y Uso de Inmuebles en Tiempo Compartido del Estado de Campeche, por los Planes de Desarrollo Municipal y por las demás disposiciones legales aplicables.
+II. Institución de Asistencia Social Pública.
+
+III. Establecimiento que preste servicios de Asistencia Social Privada.
+
+IV. Acogimiento Residencial en Centros de Asistencia Social.
+
+En toda medida de acogimiento con una familia, siempre se privilegiará a las personas que tengan una relación de parentesco consanguíneo, por afinidad o aquellos con quien la niña, niño o adolescente tenga una relación de afecto, identidad o confianza.
+
+El personal de la Procuraduría de Protección realizará visitas periódicas al lugar en que se haya resguardado a la persona, a efecto de vigilar que se le brinde la debida atención y cuidados.
+
+###### Artículo 186.
+
+Una vez concluido el procedimiento administrativo de protección, podrá decretarse:
+
+I. Resolución de archivo.
+
+II. La reintegración de la persona a su núcleo familiar, con imposición o no de medidas de protección.
+
+III. Situación de riesgo o desamparo, con la imposición de las medidas de protección necesarias en atención al interés superior de la niña, niño o adolescente.
+
+IV. Situación de desamparo, con instrucción de iniciar el juicio de pérdida de patria potestad de acuerdo a la gravedad del caso.
+
+En la resolución respectiva la opinión del niño deberá formar parte explicita del razonamiento de lo resuelto.
+
+En las hipótesis previstas en las fracciones II y III del artículo anterior, se deberá supervisar el adecuado cumplimiento de la medida impuesta.
 
 ### CAPITULO III. Del Desarrollo Municipal
 
-###### ARTICULO 187.
+###### Artículo 187.
 
-Los Municipios para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán planes y programas.
+Las medidas especiales de protección que impongan restricciones y obligaciones para los adultos que rodean al niño en aras de proteger a éste, no deben dictarse sin sensibilidad a las necesidades de los adultos implicados en su cumplimiento.
 
-En todo caso, los Municipios deben de contar con planes y programas, siempre que se trate de:
+Se deberá velar por que las medidas de protección que se consideren necesarias para el niño, resguarden en la mayor medida de lo posible la accesibilidad y dignidad de aquellos adultos involucrados.
 
-a) Creación, expansión, desarrollo, reestructuración, rehabilitación y regeneración de zonas urbanas.
+###### Artículo 188.
 
-b) Establecimiento, ampliación y modificación de servicios públicos.
+Ante el incumplimiento de quienes legalmente tengan obligación de acatar la medida de protección impuesta y atendiendo a la situación particular de la niña, niño o adolescente, se podrá decretar su acogimiento temporal o internamiento, hasta definir su situación jurídica.
 
-###### ARTICULO 188.
+En toda medida de acogimiento con una familia, siempre se privilegiará a las personas que tengan una relación de parentesco consanguíneo, por afinidad o aquellos con quien la niña, niño o adolescente tenga una relación de afecto, identidad o confianza.
 
-Los planes y programas deberán contener en forma mínima:
+###### Artículo 189.
 
-I.- Señalamiento de objetivos generales y particulares a corto, mediano y largo plazo, según el caso;
+De no ser posible en definitiva la reintegración de la niña, niño o adolescente al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, la Procuraduría de Protección o el DIF Municipal podrán proponer a la persona o personas que reúnan las condiciones para adoptar y, de ser procedente, iniciará el procedimiento de adopción, dando la intervención que legalmente competa al Consejo Estatal Técnico de Adopciones.
 
-II.- Procedimientos que se utilizarán para el logro de los objetivos;
+###### Artículo 190.
 
-III.- Recursos financieros municipales ordinarios y extraordinarios que se aplicarán para la realización de los planes y programas; y
+Constituyen infracciones a esta Ley:
 
-IV.- Los diversos estudios y elementos técnicos que se hayan considerado para formular los planes y programas, principalmente aquéllos que se refieren al aprovechamiento de los recursos humanos y naturales.
+I. Realizar cualquier conducta que implique desamparo.
 
-###### ARTICULO 189.
+II. Negar injustificadamente el derecho a permanecer en el núcleo familiar.
 
-Los planes territoriales deberán contener en su caso:
+III. Incumplir con la obligación de ministrar alimentos en los casos y términos que señala el Código Civil del Estado de Chihuahua.
 
-a) División de territorio en zonas y destino de cada una de ellas según las necesidades de los planes y programas.
+IV. Contravenir las medidas de protección ordenadas por la Procuraduría de Protección.
 
-b) Inventario de los recursos naturales existentes en el territorio.
+V. Cuando los servidores públicos estatales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal, en el ejercicio de sus funciones o actividades o con motivo de ellas, conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto en esta Ley y demás ordenamientos aplicables.
 
-c) Localización y estado que guardan los centros urbanos y edificios e instalaciones de servicio público municipal.
+VI. Cuando los servidores públicos estatales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes.
 
-d) Características de los servicios públicos y de las comunicaciones; así como las indicaciones de los servicios que se hayan de conservar, modificar o crear.
+VII. Las demás contravenciones a lo dispuesto en esta Ley.
 
-e) Delimitación del perímetro urbano y normas a seguir sobre construcciones en el suelo rústico.
+###### Artículo 191.
 
-f) Memoria que contenga las circunstancias generales y particulares de la localidad, así como el esquema general de los servicios públicos existentes en las diferentes zonas del Municipio, expresando cuáles hay necesidad de crear.
+Los Servidores Públicos Estatales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquellas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados a prestar a favor de una niña, niño o adolescente, serán sujetos a las sanciones administrativas y demás que resulten aplicables en los términos de las disposiciones correspondientes.
 
-g) Datos del funcionamiento de los servicios públicos municipales; y
+No se considerarán como negación al ejercicio de un derecho las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
 
-h) Recursos económicos con que se cuenta para la prestación del servicio público.
+###### Artículo 192.
 
-###### ARTICULO 190.
+Tratándose de infracciones cometidas por concesionarios de radio, televisión, medios impresos o digitales se estará a las disposiciones de la Ley General.
 
-Los planes se compondrán de:
+###### Artículo 193.
 
-a) Planos, fotografías, informes y dictámenes que muestren el estado del territorio y las condiciones en que se encuentran todos los elementos urbanos.
+Cuando las infracciones a esta Ley sean cometidas por particulares, se sancionarán por la Procuraduría de Protección, según corresponda, con:
 
-b) Memoria descriptiva de los trabajos a realizar y programa en que se prevea su ejecución.
+I. Amonestación con apercibimiento.
 
-c) Normas urbanísticas aplicables tanto a la edificación en las zonas urbanas como a las condiciones que han de regir en las rurales.
+II. Multa.
 
-d) Estudio económico-financiero de los recursos municipales para la ejecución de los planes.
+III. Suspensión temporal del servicio.
 
-###### ARTICULO 191.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Los planes y programas, se harán del conocimiento del Ejecutivo del Estado, para los efectos de coordinación con los de carácter estatal y aprobación, en su caso, en los términos del artículo 21 de la Ley de Asentamientos Humanos del Estado de Campeche.
+La multa podrá ser hasta por el equivalente a trescientas sesenta veces el valor diario de la Unidad de Medida y Actualización vigente, y para su fijación se tomará en cuenta la gravedad de la infracción, la conducta reiterativa y las demás circunstancias que sirvan para individualizar la sanción.
 
-###### ARTICULO 192.
+###### Artículo 194.
 
-Los actos de preparación, aprobación y ejecución de los planes y programas estarán a cargo de los órganos o funcionarios que determinen los Ayuntamientos, en lo que no contravengan las disposiciones de esta Ley.
+Las instituciones del sector social o privado donde se prestan servicios de atención a niñas, niños y adolescentes, serán responsables solidarios de las multas que se apliquen con motivo de las infracciones cometidas en sus instalaciones.
 
-###### ARTICULO 193.
+###### Artículo 195.
 
-Los Ayuntamientos deberán recabar autorización previa de la Legislatura Local, cuando en la ejecución de los planes y programas se afecten bienes inmuebles de propiedad municipal o se comprometa su erario, por un término mayor al de su gestión.
+Los servidores públicos que en ejercicio de sus funciones o con motivo de ellas contravengan las disposiciones del presente ordenamiento, serán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y demás ordenamientos aplicables.
 
-###### ARTICULO 194.
+###### Artículo 196.
 
-Los Municipios podrán aprobar y ejecutar planes tendientes a:
+Para los efectos de esta Ley, las multas se considerarán créditos fiscales y les serán aplicables las reglas que se establecen en el Código Fiscal del Estado; el procedimiento de ejecución se hará a través de la Secretaría de Hacienda del Gobierno del Estado.
 
-I.- La conservación, valoración, protección y fomento de su patrimonio histórico y artístico;
+###### Artículo 197.
 
-II.- La conservación, valoración, protección y fomento de bellezas naturales y zonas típicas que se encuentren en su territorio;
+El importe de las multas que se impongan como sanción, se entregarán al organismo estatal para la asistencia social pública, a fin de que lo destine a la ejecución de programas y proyectos en beneficio de niñas, niños y adolescentes.
 
-III.- El mejoramiento del medio ambiental urbano y rural; y
+###### Artículo 198.
 
-IV.- Conservación del suelo, flora, fauna y reforestación, en coordinación con las dependencias estatales y federales correspondientes; así como las demás que determinen las necesidades municipales y el interés público.
+Los procedimientos para la aplicación de sanciones de carácter pecuniario o administrativo y los de responsabilidad civil o penal, se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, conforme a las disposiciones jurídicas aplicables.
 
-###### ARTICULO 195.
+###### Artículo 199.
 
-Los planes y programas podrán ser modificados o suspendidos en todo tiempo, siguiendo en este caso la misma forma que se utilizó en su elaboración, cuando lo demande el interés social o lo requieran circunstancias de tipo técnico o económico.
+Para la determinación de la sanción se deberá considerar:
 
-###### ARTICULO 196.
+I. La gravedad de la infracción.
 
-Los Ayuntamientos podrán elaborar y ejecutar planes y programas que excedan su período constitucional, pero su ejecución requerirá aprobación de la Legislatura.
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción.
+
+III. Los daños que hubieren producido o puedan producirse.
+
+IV. La condición económica del infractor.
+
+V. La reincidencia del infractor.
+
+###### Artículo 200.
+
+Las resoluciones de carácter administrativo dictadas por la Procuraduría de Protección, en cumplimiento de sus atribuciones, podrán ser impugnadas en los términos previstos en el Código Administrativo del Estado.
+
+###### Artículo 201.
+
+Tratándose de resoluciones administrativas dictadas por las dependencias o entidades de los gobiernos municipales, podrán ser impugnadas mediante los recursos previstos por el Código Municipal para el Estado de Chihuahua.
 
 T R A N S I T O R I O S
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Se abroga la Ley Orgánica de los Municipios del Estado, vigente desde el 7 de agosto de 1957.
+El presente Decreto entrará en vigor el día primero de enero del año 2016.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Se expide la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua, para quedar redactada de la siguiente manera:
 
-###### ARTICULO TERCERO.
+LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-Los Ayuntamientos expedirán sus Bandos de Policía, Administración y Gobierno y los Reglamentos, en el término de seis meses.
+###### ARTÍCULO SEGUNDO.
 
-###### ARTICULO CUARTO.
+Los Sistemas Estatal y Municipal de Protección deberán integrase a más tardar dentro de los 90 días siguientes a la entrada en vigor de la presente Ley.
 
-Los Consejos de Colaboración Municipal, y las Comisiones de Planeación y Desarrollo se integrarán en los 60 días siguientes a la vigencia de esta Ley.
+###### ARTÍCULO TERCERO.
 
-###### ARTICULO QUINTO.
+Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a los 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
-Las poblaciones del Estado continuarán con la categoría que tienen actualmente, hasta en tanto se cumplan los requisitos establecidos por esta Ley.
+###### ARTÍCULO CUARTO.
 
-Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los cuatro días del mes de diciembre del año de mil novecientos ochenta y uno.- JOSE DE LA ROSA ACOSTA CALDERON, D. P.- DR. JOSE E. LASTRA GARCIA, D. S.- PROFR. ALVARO MUÑOZ QUERO, D. S.- Rúbricas.
+Los Centros de Asistencia Social que se encuentren operando en el Estado de Chihuahua con anterioridad a la entrada en vigor de la presente Ley, contarán con un plazo de 180 días naturales para realizar las adecuaciones conducentes en los términos de lo previsto en el presente Decreto.
 
-Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
+###### ARTÍCULO QUINTO.
 
-Dado en el Edificio de los Poderes del Estado, en Campeche, a los cuatro días del mes de diciembre del año de mil novecientos ochenta y uno.- El Gobernador Constitucional del Estado, INGENIERO EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Ley de Ingresos, deberán asignar los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente Ley.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+###### ARTÍCULO SEXTO.
 
-P.O. 19 DE DICIEMBRE DE 1983.
+En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría de Asistencia Jurídica y Social, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-UNICO.- El presente Decreto entrará en vigor el día primero de Enero del año de mil novecientos ochenta y cuatro, previa publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTÍCULO SÉPTIMO.
 
-P.O. 16 DE NOVIEMBRE DE 1990.
+El Comité Estatal de Seguimiento y Vigilancia de la Aplicación de los Derechos de Niñas, Niños y Adolescentes deberá sesionar dentro de los 45 días posteriores a la entrada en vigor de la presente Ley a efecto (sic) sustituir la denominación actual por la de Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes en los términos del presente ordenamiento y analizará la convocatoria de la elección de sus integrantes.
 
-Primero.- Este decreto entrará en vigor el día uno de enero de mil novecientos noventa y uno.
+D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los dos días del mes de junio del año dos mil quince.
 
-Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente decreto.
+PRESIDENTE. DIP. CÉSAR AUGUSTO PACHECO HERNÁNDEZ. Rúbrica. SECRETARIO. DIP. FERNANDO REYES RAMÍREZ. SECRETARIO. DIP. HÉCTOR HUGO AVITIA CORRAL.
 
-P.O. 7 DE ABRIL DE 1993.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-El presente Decreto entrará en vigor el día veinticinco de abril de mil novecientos noventa y tres.
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dos días del mes de junio del año dos mil quince.
 
-P.O. 7 DE OCTUBRE DE 1993.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
 
-Unico.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 20 DE DICIEMBRE DE 1993.
+P.O. 16 DE JULIO DE 2016.
 
-UNICO.- El presente Decreto entrará en vigor el día veinticinco de diciembre de mil novecientos noventa y tres.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1375/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO ADMINISTRATIVO PARA EL ESTADO Y LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO”.]
 
-P.O. 15 DE ENERO DE 1994.
+###### ARTÍCULO ÚNICO.
 
-Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE MARZO DE 1994.
+P.O. 22 DE FEBRERO DE 2017.
 
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV /RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 193, SEGUNDO PÁRRAFO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 13 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0305/2017 II P.O., POR EL QUE SE REFORMAN EL INCISO D) DE LA FRACCIÓN III Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL MISMO ARTÍCULO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0213/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0734/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 22 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0442/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 123 LA FRACCIÓN XXVI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0588/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN I; 20, PÁRRAFO PRIMERO; 152; Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; SE ADICIONA EL CAPÍTULO CUARTO BIS DENOMINADO DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES, Y LOS ARTÍCULOS 145 BIS AL 145 QUINQUIES; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo contará con un plazo de 90 días posteriores a la entrada en vigor del presente Decreto, para la integración y operación del Consejo Consultivo.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0759/2020 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, a través de la Dirección del Registro Civil, y la Secretaría de Salud, ambas del Gobierno del Estado de Chihuahua, en el ámbito de sus respectivas competencias, deberán realizar las previsiones necesarias en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2021 y demás acciones necesarias, a fin de generar la coordinación para la implementación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0768/2020 I P.O., POR EL QUE SE REFORMA EL ARTÍCULO 53, FRACCIÓN I, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0784/2020 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 56, FRACCIÓN VIII, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0783/2020 I P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 123, LA FRACCIÓN XXVI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1034/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 51 Y 53, FRACCIÓN III, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/1051/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de enero del año 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los recursos necesarios a las diversas Secretarías que conforman el Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, para la creación, manejo e implementación del Sistema Informático de Registro de Casos de Riesgo Feminicida. En lo subsecuente, se harán las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1050/2021 XIII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1052/2021 XIII P.E., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 164, UN CUARTO PÁRRAFO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El . presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0097/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA; Y SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0210/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0214/2022 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 29, EL PÁRRAFO SEXTO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Siguiendo los procedimientos que resulten aplicables, en su caso, háganse las previsiones presupuestales a que hubiere lugar, necesarias o pertinentes para el cumplimiento del presente Decreto.
+
+P.O. 11 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0213/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0333/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
