@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1986-12-23"
+last_updated: "1990-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1990.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -329,9 +329,11 @@ La amonestación se hará en público o en privado, a juicio del funcionario que
 
 ### CAPITULO DECIMO.- PRISION
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 41.
 
-La sanción consistente en la privación de la libertad corporal, será de tres días a treinta años, y se extinguirá de preferencia, en el Centro de Readaptación Social de la zona a la que corresponde el Distrito Judicial donde se dictó sentencia; sin embargo, el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los centros de reclusión del Estado.
+La sanción consistente en la privación de la libertad corporal será de tres días a cincuenta años y se compurgará de preferencia, en el Centro de Readaptación Social de la Zona a la que corresponda el Distrito Judicial donde se dictó sentencia. Sin embargo el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los centros de reclusión del Estado.
 
 ###### Artículo 42.
 
@@ -667,9 +669,11 @@ b) Con ambas sanciones si el delito que se pretendía cometer se sanciona con mu
 
 #### SECCION QUINTA.- APLICACION DE SANCIONES EN CASO DE ACUMULACION, REINCIDENCIA Y HABITUALIDAD
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 95.
 
-En los casos de acumulación real, se aplicará la sanción del delito más grave, que podrá aumentarse hasta la suma de las sanciones correspondientes a los demás delitos, sin que en caso alguno pueda exceder de treinta años de prisión.
+En los casos de acumulación real, se aplicará la sanción del delito más grave, que podrá aumentarse hasta la suma de las sanciones correspondientes a los demás delitos, sin que en caso alguno pueda exceder de cincuenta años de prisión.
 
 ###### Artículo 96.
 
@@ -689,11 +693,15 @@ II.- Si la reincidencia fuere por delitos de la misma especie, el aumento será 
 
 III.- Tratándose de delitos de imprudencia se aplicará lo dispuesto en el artículo 84;
 
-IV.- En los casos anteriores, la sanción no excederá de treinta años de prisión.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
+
+IV.- En los casos de las fracciones I y II anteriores, la sanción no excederá de cincuenta años de prisión.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
 ###### Artículo 99.
 
-La sanción a los delincuentes habituales, será la que corresponda imponerles por el último o por los últimos delitos cometidos, aumentada con dos tantos más de su duración, siempre que no exceda de treinta años de prisión.
+La sanción a los delincuentes habituales, será la que corresponda imponerles por el último o por los últimos delitos cometidos, aumentada con dos tantos más de su duración, siempre que no exceda de cincuenta años de prisión.
 
 CAPITULO DECIMONOVENO.- CONMUTACION DE SANCIONES
 
@@ -713,7 +721,9 @@ I.- Si el sentenciado no percibía salario alguno al cometer el delito, la multa
 
 II.- Cuando el sentenciado al cometer el delito percibía un salario, la multa será el equivalente por cada día de prisión conmutado, al cincuenta por ciento de aquel salario, si éste no excede de nueve tantos el importe del mínimo vigente en la región;
 
-III.- Si el salario percibido por el sentenciado fuere mayor de nueve tantos del mínimo vigente, no se tomará el excedente para fijar el importe de la conmutación.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
+
+III.- Si el salario percibido por el sentenciado fuere mayor de quince tantos del mínimo vigente, no se tomará el excedente para fijar el importe de la conmutación.
 
 ###### Artículo 103.
 
@@ -765,7 +775,9 @@ Las sanciones privativas de libertad, que excedan de cinco años, se entienden i
 
 I.- En la sentencia se expresará que la sanción privativa de libertad se entiende impuesta en calidad de retención, y
 
-II.- La sanción y la retención juntas no podrán exceder de treinta años.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
+
+II.- La sanción y la retención juntas no podrán exceder de cincuenta años.
 
 ###### Artículo 111.
 
@@ -1083,9 +1095,13 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 Comete el delito de terrorismo quien, para perturbar la paz pública y utilizando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio violento, realice actos en contra de las personas, cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 161.
 
-Se impondrá prisión de cinco a treinta años y multa hasta de trescientos días de salario, a quien cometa el delito de terrorismo. Estas sanciones se impondrán además de las que correspondan al terrorista por los delitos que resulten cometidos.
+Se impondrá prisión de cinco a cincuenta años y multa hasta de seiscientos días de salario, a quien cometa el delito de terrorismo.
+
+Estas sanciones se impondrán además de las que correspondan al terrorista por los delitos que resulten cometidos.
 
 ###### Artículo 162.
 
@@ -1245,13 +1261,17 @@ III.- A quien, después de poner en movimiento un autobús, camión o vehículo 
 
 Son medios de transporte los vehículos destinados a prestar un servicio público según las Leyes de la materia.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 191.
 
-Se aplicarán prisión de veinte a treinta años al que empleando explosivos o materias incendiarias, o por cualquier otro medio, destruya total o parcialmente cualquier vehículo, que se encontrare ocupado por una o más personas y que preste o no servicio público en las vías de tránsito de jurisdicción estatal.
+Se aplicará prisión de veinte a cincuenta años al que empleando explosivos o materias incendiarias, o por cualquier otro medio, destruya total o parcialmente cualquier vehículo, que se encontrara ocupado por una o más personas y que preste o no servicio público en las vías de tránsito de jurisdicción estatal.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
 ###### Artículo 192.
 
-Si en el vehículo a que se refiere el artículo anterior no se hallare persona alguna, se aplicará prisión de seis a veinte años.
+Si en el vehículo a que se refiere el Artículo anterior no se hallara persona alguna, se aplicará prisión de ocho a treinta años.
 
 ###### Artículo 193.
 
@@ -1617,6 +1637,8 @@ En los casos previstos en los anteriores artículos de esta sección, además de
 
 #### SECCION TERCERA.- VIOLACION
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 244.
 
 A los ingenieros, arquitectos, agrónomos, veterinarios, maestros de obras y, en general, todos los que se dediquen al ejercicio de una profesión, arte o actividad técnica, que con motivo de ese ejercicio causen daños indebidos, además de la sanción por éstos, según sean intencionales o imprudenciales, se les aplicará la establecida en el artículo 243.
@@ -1807,13 +1829,21 @@ a) de seis meses a cuatro años de prisión y multa de diez a cien días de sala
 
 b) de uno a cinco años de prisión y multa de veinte a doscientos días de salario, cuando el sujeto pasivo sea menor de edad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 1990)</small>
+
+En los supuestos de esta fracción, se presume la violencia moral, si el sujeto pasivo es impúber.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 262.
 
-En el supuesto previsto por la última fracción del artículo anterior, se presume la violencia moral, si el sujeto pasivo es impúber.
+Se impondrán de uno a cinco años de prisión y multa de veinte a doscientos días de salario, al que sin el propósito de llegar a la cópula y usando de la violencia física o moral, introduzca en una persona, sea cual fuere su sexo, por vía anal o vaginal, cualquier objeto distinto al miembro viril.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
 ###### Artículo 263.
 
-El delito de ataques al pudor a que se refieren los dos artículos anteriores, se considerará y sancionará siempre como delito consumado.
+Los delitos a que se refieren los dos Artículos anteriores, se considerarán y sancionarán siempre como delitos consumados.
 
 #### SECCION QUINTA.- PLAGIO Y SECUESTRO
 
@@ -1833,11 +1863,13 @@ No se procederá contra el estuprador sino por queja de la mujer ofendida o de s
 
 ###### Artículo 267.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a nueve años de prisión y multa de veinte a doscientos días de salario. Si la persona ofendida fuere impúber, la sanción será la establecida por el artículo 272.
+Al que por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a dieciocho años de prisión y multa de veinte a doscientos días de salario. Si la persona ofendida fuera impúber la sanción será la establecida por el Artículo 272.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
 ###### Artículo 268.
 
-Cuando la violación fuere cometida con intervención de dos o más personas, a todas ellas se impondrá prisión de ocho a veinte años y multa de ciento veinte a mil doscientos días de salario.
+Cuando la violación fuere cometida con intervención de dos o más personas, a todas ellas se impondrán de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario.
 
 ###### Artículo 269.
 
@@ -1853,7 +1885,13 @@ IV.- Por el padrastro contra su hijastra o hijastro;
 
 V.- Por el hijastro contra su madrastra o contra su padrastro;
 
-VI.- Por un hermano contra su hermana.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
+
+VI.- Por un hermano contra su hermana o hermano;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 1990)</small>
+
+VII.- Por una hermana contra su hermano.
 
 Para los efectos de las fracciones IV y V anteriores, se entiende por "hijastro" o "hijastra" a los hijos de uno de los cónyuges o de quien viva en la situación prevista en el artículo 297 del Código Civil, respecto del otro cónyuge o persona con la que se guarda aquella situación.
 
@@ -1865,9 +1903,11 @@ Al culpable de violación que se encuentre en ejercicio de la patria potestad o 
 
 Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, además de la sanción que le corresponda por aquel delito, será destituido definitivamente del cargo o empleo o suspendido por cinco años en el ejercicio de dicha profesión.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 272.
 
-Se equipara a la violación, la cópula con persona privada de razón o de sentido, o que por enfermedad o cualquier otra causa, no pudiera resistir, así como la cópula con persona menor de doce años de edad. En los casos previstos en este artículo, se impondrán al autor del delito, de ocho a veinte años de prisión y multa de ciento veinte a mil doscientos días de salario.
+Se equipara a la violación, la cópula con persona privada de razón o de sentido, o que por enfermedad o cualquier otra causa, no pudiera resistir, así como la cópula con persona menor de doce años de edad. En los casos previstos en este Artículo, se impondrán al autor del delito, de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario.
 
 #### SECCION SEGUNDA.- HOMICIDIO
 
@@ -2035,9 +2075,11 @@ Por la comisión del delito de asalto o del delito de atraco, se impondrá prisi
 
 Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noche o si el asaltante o atracador estuviere armado, o si aquellos delitos se cometieren por varias personas conjuntamente, la prisión será de doce a veinticinco años y multa de cien a mil días de salario.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 298.
 
-Cuando dos o más salteadores atacaren una población, se impondrán de quince a treinta años de prisión a los cabecillas o jefes, y de doce a veinticinco años a los demás, sin perjuicio de aplicar las reglas de acumulación por cualesquiera otros delitos que resultaren cometidos.
+Cuando dos o más salteadores atacaren una población, se impondrán de quince a cincuenta años de prisión a los cabecillas o jefes, y de doce a cuarenta años a los demás, sin perjuicio de aplicar las reglas de acumulación por cualesquiera otros delitos que resultaren cometidos.
 
 #### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
 
@@ -2179,9 +2221,11 @@ III.- Que a la muerte contribuyeron la constitución física de la víctima, o l
 
 No se tendrá como mortal una lesión, aunque muera el que la recibió, cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influido, o cuando la lesión se hubiere agravado por causas posteriores, como la aplicación de medicamentos nocivos, operaciones quirúrgicas desgraciadas, excesos o imprudencias del paciente o de los que lo asistieron.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 316.
 
-Al responsable de cualquier homicidio simple intencional y que no tenga señalada una sanción especial en este Código, se le impondrán de trece a dieciocho años de prisión.
+Al responsable de cualquier homicidio simple intencional y que no tenga señalada una sanción especial en este Código, se le impondrán de trece a veinte años de prisión.
 
 ###### Artículo 317.
 
@@ -2263,9 +2307,11 @@ La alevosía consiste en sorprender intencionalmente a alguien de improviso, o e
 
 Se dice que obra a traición, quien además de la alevosía emplea la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 331.
 
-Al responsable de un homicidio calificado se le impondrán de dieciocho a treinta años de prisión.
+Al responsable de un homicidio calificado, se le impondrá de veinte a cincuenta años de prisión.
 
 ###### Artículo 332.
 
@@ -2291,9 +2337,11 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 Se da el nombre de parricidio al homicidio del padre, de la madre o de cualquier otro ascendiente consanguíneo del homicida, si el delincuente conoce ese parentesco.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+
 ###### Artículo 337.
 
-Al que cometa el delito de parricidio se le impondrá de dieciocho a treinta años de prisión.
+Al que cometa el delito de parricidio, se le impondrán de veinte a cincuenta años de prisión.
 
 #### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
 
@@ -2787,6 +2835,22 @@ XVIII.- Al que, para ser admitido como fiador, acredite su solvencia con el mism
 
 XIX.- Al que dolosamente y con el propósito de procurarse un lucro ilícito, para sí o para un tercero, dañe o perjudique el patrimonio de otro, mediante el uso indebido de mecanismos cibernéticos, que provoque o mantenga un error, sea presentando como ciertos hechos que no lo son, o deformando o disimulando hechos verdaderos.
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 1990)</small>
+
+XX.- A la persona o personas que para procurarse un lucro, aprovechándose del estado de consternación que causa la muerte de un ser humano, sin autorización escrita de los familiares de éste o de quien deba darla por disposición de la Ley, realice en forma onerosa:
+
+a).- El levantamiento o traslado de un cadáver dentro o fuera de la localidad donde se encuentre.
+
+b).- Los trámites de expedición de certificados de defunción, dictámenes médicos, realización o dispensa de autopsia, levantamiento de acta de defunción, de autorización de traslado de cadáver o cualquier otra gestión similar.
+
+c).- La entrega de ataúdes, urnas o cualquier bien utilizado para velar, sepultar o conservar cadáveres; los servicios de capillas, carrozas y unidades de transporte conexos a la actividad funeraria.
+
+d).- La inhumación o cremación de un cadáver.
+
+Los bienes y servicios proporcionados en contravención a esta disposición no podrán cobrarse.
+
+En caso de homicidio, el Agente del Ministerio Público actuante avisará al Fondo para la Reparación del Daño y Protección de las Víctimas de los Delitos, en un término no mayor de cuatro horas, quien en uso de las facultades que le concede la ley, le manifestará si se encarga o no del servicio funerario.
+
 ###### Artículo 405.
 
 Se aplicarán las sanciones del delito de fraude establecidas en el artículo 403 de este ordenamiento legal, al que por sí o por interpósita persona:
@@ -3072,3 +3136,11 @@ Se derogan el Código de Defensa Social publicado en el Periódico Oficial del E
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Pueba (sic) de Zaragoza, a los 18 días del mes de Diciembre de 1986.- Diputado Presidente.- Profr. Neftalí Dante Nolasco Hernández.- Rúbrica.- Diputado Secretario.- Profr. Javier Steffanoni Dossetti.- Rúbrica.- Diputado Secretario.- Profr. Teodoro Ortega García.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermno (sic) Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Humberto Gutiérrez Manzano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 24 DE ABRIL DE 1990
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
