@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1991-07-23"
+last_updated: "1992-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1253,6 +1253,8 @@ Los Jueces de Primera Instancia tendrán las atribuciones que les señalen las L
 
 El nombramiento de Secretario de los Juzgados de Primera Instancia y de los Juzgados Menores, se hará con la aprobación del Presidente del Tribunal, quien podrá destituirlo cuando existiere causa grave para ello.
 
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### Artículo 74.
 
 Cuando haya dictamen en un todo conforme a iniciativa correspondiente del Ejecutivo, no se le pasará el expediente, como previene la fracción II del artículo 71.
@@ -1269,7 +1271,9 @@ Aprobado el proyecto en los términos que disponen los artículos anteriores, es
 
 ###### Artículo 107.
 
-(DEROGADO, G.O. 5 DE ABRIL DE 1984)
+La protección de los Derechos Humanos que otorga el orden jurídico mexicano, estará a cargo de un organismo que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, que violen estos derechos; así mismo, formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+Este Organismo no será competente, tratándose de asuntos electorales, laborales o jurisdiccionales.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -2150,3 +2154,17 @@ La presente reforma entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+G.O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+En tanto se expide la Ley que regule las atribuciones del Organismo a que se refiere la presente adición, esta función estará encomendada a la Comisión de Derechos Humanos del estado de Veracruz, creada mediante Decreto del Ejecutivo del Estado, de fecha 14 de diciembre de 1990, con la organización y funciones que en el mismo se consignan.
