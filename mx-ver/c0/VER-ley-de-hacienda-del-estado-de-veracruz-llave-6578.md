@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1998-12-31"
+last_updated: "1999-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL:10 DE AGOSTO DE 1999.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -1389,13 +1389,17 @@ VII.-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
 VIII.-Por servicios de Transporte Público:
 
-A).-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
+A).-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
-B).-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
+B).-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
-C).-(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 1999)</small>
 
-> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 1997)</small>
+C). Expedición de tarjeta anual de identificación de operador de transporte público de pasajeros.
+
+4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 1997)</small>
 
 D) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
 
@@ -1465,11 +1469,11 @@ C).-Carga, escolar, exclusivo de turismo y transporte de personal.
 
 125 salarios mínimos
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 1999)</small>
 
-XI.- Por la transferencia por fallecimiento del titular de una concesión para prestar el servicio público en la modalidad de taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo y transporte de personal.
+XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el servicio público en la modalidad de taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo o transporte de personal.
 
-50 salarios mínimos
+100 salarios mínimos
 
 XII.- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
@@ -1533,9 +1537,9 @@ II. Por la certificación de documentos públicos, por hoja.
 
 0.25 salario mínimo
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O.10 DE AGOSTO DE 1999)</small>
 
-Se exceptúa del pago de derechos por la expedición de la cedula catastral:
+Se exceptúan del pago de derechos por la expedición de la cédula catastral y el certificado de Valor Catastral Provisional.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1549,17 +1553,31 @@ b).-Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o
 
 c).-Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal.
 
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 1999)</small>
+
+d). A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales y en proceso de regularización por parte de la Secretaría de Desarrollo Regional, con intervención de la Dirección General de Patrimonio del Estado, y el Instituto Veracruzano de Fomento al Desarrollo Regional.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 1999)</small>
+
+e). A los adquirientes de vivienda de interés social y popular construidas en el estado, cuyos proyectos habitacionales estén autorizados por la Secretaría de Desarrollo Regional y coordinados por el Instituto Veracruzano de Fomento al Desarrollo Regional, así como por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), y el Instituto de Pensiones del Estado (IPE):
+
 > <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 III.-Por servicios de Registro y Control vehicular:
 
-a).-Dotación de placas para los siguientes tipos de vehículos:
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 1999)</small>
 
-1.-Para automóvil:
+a). Dotación de placas para todo tipo de vehículos:
+
+> <small>(REFORMADO, G.O.10 DE AGOSTO DE1999)</small>
+
+1.- Para automóvil, camión, ómnibus, taxi, carga y pasaje:
 
 8 salarios mínimos
 
-2.-Para camión , taxi, carga, pasaje y remolque:
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 1999)</small>
+
+2. Para remolque:
 
 4 salarios mínimos
 
@@ -1571,9 +1589,7 @@ b).-Expedición anual del comprobante fiscal de control vehicular, el cual deber
 
 4 salarios mínimos
 
-c).-Reposición del engomado numeral y comprobante fiscal de control vehicular:
-
-4 salarios mínimos
+c) (DEROGADO, G.O.10 DE AGOSTO DE 1999)
 
 d).-Canje anual de tarjeta de circulación para motocicleta y remolque:
 
@@ -1583,7 +1599,9 @@ e).-Reposición de tarjeta de circulación por extravío:
 
 2 salarios mínimos
 
-f).-Baja de vehículos registrados y emplacados en el Estado de Veracruz:
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 1999)</small>
+
+f). Baja de vehículos registrados y emplacados en el estado de Veracruz, servicio público y privado:
 
 1 salario mínimo
 
@@ -1601,9 +1619,7 @@ i).-No entregar la tarjeta de circulación en el trámite de baja definitiva o c
 
 2 salarios mínimos
 
-j) Baja de unidad vehicular destinada al servicio público de transporte:
-
-1 salario mínimo
+j) (DEROGADO, G.O. 10 DE AGOSTO DE 1999)
 
 k).-Alta o baja extemporánea del vehículo, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad:
 
@@ -3021,6 +3037,10 @@ Servicios 70
 
 PARA LAS FRACCIONES INTERMEDIAS ENTRE CADA 1,000 M2 CONST. SE SUMARA EL COBRO A LO INDICADO POR EL RANGO ANTERIOR EN DONDE LE CORRESPONDA.
 
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 1999)</small>
+
+VIII. Se exceptúan del pago de los derechos a que se refiere este artículo, la recepción, elaboración y expedición de las autorizaciones de dictámenes técnicos de uso de suelo, proyectos ejecutivos, dictámenes técnico legal de fraccionamientos de terrenos y licencias de fraccionamientos de predios, a los promotores de vivienda en las actividades que tengan como fin la promoción y edificación de vivienda de interés social y popular, así como la regularización de predios destinados al mismo fin en el estado.
+
 > <small>(ADICIONADO. G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 CAPITULO DECIMOPRIMERO
@@ -3466,3 +3486,7 @@ Artículo único. La presente Ley entrará en vigor el día 1° de enero de 1998
 G.O. 31 DE DICIEMBRE DE 1998.
 
 Artículo Unico. La presente ley entrará en vigor el día 1° de enero de 1999, previa su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz-Llave.
+
+G.O. 10 DE AGOSTO DE 1999.
+
+Artículo primero. Se derogan todas las disposiciones que se opongan a la presente Ley.
