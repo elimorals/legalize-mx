@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1974-12-31"
+last_updated: "1976-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1500,11 +1500,11 @@ Los trabajadores incorporados al sistema de porcentaje a que se refiere al artí
 
 El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
 ###### ARTICULO 168.
 
-La pensión de invalidez, de vejez o de cesantía en edad avanzada no podrá ser inferior a ochocientos cincuenta pesos mensuales.
+La pensión de invalidez, de vejez o de cesantía en edad avanzada, no podrá ser inferior a mil pesos mensuales.
 
 ###### ARTICULO 169.
 
@@ -2547,3 +2547,41 @@ EI Instituto Mexicano del Seguro Social deberá efectuar el pago de las mejoría
 ###### ARTICULO DECIMO PRIMERO.
 
 EI presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor en toda la Republica al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las pensiones en curso de pago al día inmediato anterior a la fecha de entrada en vigor de este Decreto, por incapacidad permanente total, invalidez, vejez y cesantía en edad avanzada, se beneficiarán a partir del primero de septiembre de 1976, con los siguientes incrementos:
+
+a) Las pensiones con cuantía hasta de $5,000.00 mensuales, se incrementarán en un 15%, sin que ninguna pueda ser inferior a $1,000.00.
+
+b) Las pensiones con cuantía mensual superior a $5,000.00, recibirán un incremento de $750.00 mensuales.
+
+Las pensiones de viudez, orfandad y de ascendientes, se incrementarán en la proporción correspondiente.
+
+###### ARTICULO TERCERO.
+
+Los incrementos a las pensiones de invalidez, vejez y cesantía en edad avanzada, a que se refiere el Artículo Transitorio anterior se otorgarán sobre la cuantía de la pensión correspondiente al 31 de agosto de 1976, independientemente de las limitaciones que respecto de la suma con las asignaciones familiares y ayudas asistenciales se hubieren aplicado con base en el Artículo 169 de la Ley, las citadas asignaciones y ayudas continuarán pagándose, en su caso y en tanto procedan, con las cuantías que tenían antes de incrementarse la pensión de la cual derivan. Por lo que hace a las pensiones que junto con las asignaciones y ayudas asistenciales derivadas no llegaban a los límites establecidos por el artículo citado, pero que con el aumento consignado en el Artículo Segundo Transitorio de este Decreto rebasaran esos límites, se continuaran pagando dichas prestaciones accesorias con la cuantía calculada sobre el importe anterior de la pensión
+
+El incremento para las pensiones de incapacidad permanente total, incluido en el Artículo Transitorio anterior, también será independiente de las limitaciones que por aplicación del artículo 169 de la Ley se hubiesen efectuado en el importe de las diferencias que les corresponda, en su caso, derivadas del Artículo 66 del mismo ordenamiento, por lo que las citadas diferencias continuarán pagándose en tanto procedan con la cuantía anterior.
+
+###### ARTICULO CUARTO.
+
+Las pensiones por incapacidad permanente parcial en curso de pago al día inmediato anterior a la fecha en que entre en vigor el presente Decreto, con un mínimo del 50% de valuación, se incrementarán a partir del 1o. de septiembre de 1976, en la misma proporción en que aumentaría, en los términos del Artículo Segundo Transitorio, la pensión por incapacidad permanente total que sirvió de base para su cálculo.
+
+###### ARTICULO QUINTO.
+
+Las pensiones de incapacidad permanente total otorgadas con anterioridad al 1o. abril de 1973 y que se encuentren vigentes al 31 de diciembre de 1976, serán revisadas en los términos del Artículo 66 de la Ley para (sic) beneficios que pudieran corresponderles, a partir 1o. de enero de 1977.
+
+###### ARTICULO SEXTO.
+
+Las pensiones por incapacidad permanente, total o parcial, que se encontraren recibiendo el abono de diferencias respecto de pensiones provenientes del Seguro de Invalidez, vejez, cesantía y muerte por aplicación del Artículo 86 de la Ley que estuvo vigente hasta el 31 de marzo de 1973, serán beneficiadas con las disposiciones del Artículo 125 de la Ley, a partir del 1o. de enero de 1977.
+
+###### ARTICULO SEPTIMO.
+
+El Instituto Mexicano del Seguro Social deberá efectuar el pago de las mejorías económicas consignadas en los artículos Segundo y Cuarto Transitorios de este Decreto, en un plazo no mayor de sesenta días a partir de la entrada en vigor del mismo.
