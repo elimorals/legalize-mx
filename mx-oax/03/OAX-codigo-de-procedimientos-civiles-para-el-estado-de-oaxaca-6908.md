@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2001-04-20"
+last_updated: "2001-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -5849,7 +5849,9 @@ Luego que el tribunal reciba, por conducto del Secretario de la Defensa Nacional
 
 En lo demás se observará lo dispuesto en el capítulo que antecede.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIII. De las Sucesiones ante Notario Público
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
 
 ###### Artículo 881.
 
@@ -5859,6 +5861,46 @@ Luego que se tenga noticia fehaciente de la muerte del autor de la herencia en e
 
 Ante el tribunal competente se procederá, en sus respectivos casos, según está mandado en capítulos anteriores respecto al testamento público abierto, al cerrado o al privado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN , P.O. 20 DE JULIO DE 2001)</small>
+
+### CAPITULO I. Disposiciones generales
+
+###### Artículo 882
+
+bis.- Cuando todos los herederos fueren mayores de edad, en pleno uso de su capacidad de ejercicio y no hubiere controversia, la testamentaría podrá ser extrajudicial, con intervención de un Notario, en los términos siguientes:
+
+I.- El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia y testimonio del testamento, se presentarán ante Notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea acepta y protesta el cargo y va a proceder a formar el inventario y avalúo de los bienes que forman la masa hereditaria;
+
+II.- El Notario dará a conocer las declaraciones señaladas en la fracción que antecede, por medio de dos publicaciones que se harán de siete en siete días en el Periódico Oficial del Estado y en un diario de mayor circulación en la Entidad;
+
+III.- El Notario recabará a la Dirección General de Notarías y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia del testamento;
+
+IV.- El inventario y avalúo se efectuará en un plazo que no excederá de diez días, contados a partir de la última publicación en el Periódico Oficial del Estado, a la que se refiere la fracción segunda de este mismo artículo;
+
+V.- Practicado el inventario y avalúo por el albacea y estando conforme con ellos todos los herederos, lo presentarán al Notario para que lo protocolice; y
+
+VI.- Dentro de los siguientes diez días de aprobado el inventario, el albacea formará con la aprobación de los herederos, el proyecto de partición de la herencia y lo exhibirán al notario quien efectuará la protocolización.
+
+Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el Notario suspenderá su intervención.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+###### Artículo 882
+
+ter.- Cuando todos los herederos fueren mayores de edad, en pleno uso de su capacidad de ejercicio y hubieren sido reconocidos judicialmente con tal carácter en un intestado o en una testamentaría, ésta o aquél podrán seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en el artículo anterior. El juez hará saber lo anterior a los herederos, para que en su caso designen al Notario ante el que se seguirá la tramitación sucesoria remitiéndole copia certificada de la documentación que acredite la defunción del autor de la herencia el reconocimiento judicial de herederos y el nombramiento de albacea definitivo y demás documentación relativa.
+
+Para la adjudicación de bienes hereditarios a los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
+
+I.- Los legatarios o sus representantes, exhibirán al Notario la copia certificada del acta de defunción del testador y testimonio del testamento simplificado;
+
+II.- El Notario dará a conocer por medio de una publicación en un diario de los de mayor circulación en la Entidad, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador, los legatarios y, en su caso, su parentesco;
+
+III.- El Notario recabará de la Dirección General de Notarías y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia del testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el Notario podrá continuar con los trámites relativos siempre que no existiere oposición;
+
+IV.- De ser procedente, el Notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad del lugar en donde se ubique el inmueble. En su caso, se podrá hacer constar la repudiación expresa; y
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1448-bis del Código Civil.
+
 TITULO DECIMOQUINTO
 
 De la jurisdicción voluntaria
@@ -5866,8 +5908,6 @@ De la jurisdicción voluntaria
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO III. De la enajenación de bienes de menores o de incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 883.
 
@@ -5905,9 +5945,7 @@ El juez podrá variar o modificar las providencias que dictare sin sujeción est
 
 Las providencias de jurisdicción voluntaria serán apelables en ambos efectos, salvo los casos en que la ley disponga otra cosa, y la apelación se substanciará conforme a lo establecido en este Código para los juicios ordinarios.
 
-### CAPITULO IV. Adopción
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+### CAPITULO III. De la enajenación de bienes de menores o de incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 890.
 
@@ -6045,7 +6083,9 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos ni excusarse por actos de jurisdicción voluntaria.
 
-### CAPITULO V. De las informaciones ad-perpetuam
+### CAPITULO IV. Adopción
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 906.
 
@@ -6103,7 +6143,7 @@ Para recibir dinero prestado en nombre del menor o incapacitado necesita el tuto
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores e incapacitados.
 
-### CAPITULO VI. Apeo y deslinde
+### CAPITULO V. De las informaciones ad-perpetuam
 
 ###### Artículo 914.
 
@@ -6137,7 +6177,7 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción o su revocación, en los casos de los artículos 408 y 419 fracciones II, y III del Código Civil, se tramitarán en la vía de controversias del Orden Familiar.
 
-### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
+### CAPITULO VI. Apeo y deslinde
 
 ###### Artículo 918.
 
@@ -6169,9 +6209,7 @@ Las informaciones se protocolizarán en el oficio del notario que designe el pro
 
 En ningún caso se admitirán en jurisdicción voluntaria informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO UNICO. De las controversias de orden familiar
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
 ###### Artículo 923.
 
@@ -6228,6 +6266,10 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 ###### Artículo 928.
 
 Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
+
+### CAPITULO UNICO. De las controversias de orden familiar
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 ###### Artículo 929.
 
@@ -6718,11 +6760,3 @@ P.O. 11 DE DICIEMBRE DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentren en trámite ante los Tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
-
-P.O. 20 DE ABRIL DE 2001.
-
-PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Todos los juicios que se encuentran en trámite, se continuarán de acuerdo con las disposiciones anteriores al presente Decreto.
-
-TERCERO.- Se derogan todas las disposiciones que se opongan a este decreto.
