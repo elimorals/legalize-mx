@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "2001-09-19"
+last_updated: "2003-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -57,7 +57,7 @@ c).- Las Participaciones a que tenga derecho a percibir el Estado de Sinaloa, de
 
 d).- Los que provengan de indemnizaciones.
 
-e).- Los empréstitos que se utilicen para sufragar los gastos ordinarios del Estado.
+e).- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE SINALOA, P.O. 20 DE AGOSTO DE 2003)
 
 II.- Son ingresos extraordinarios, aquellos que se perciben sólo cuando circunstancias anormales colocan al Estado frente a necesidades imprevistas que lo obligan a erogaciones extraordinarias como:
 
@@ -2297,7 +2297,7 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 19 DE SEPTIEMBRE DE 2001.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia será a partir del 1º de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases:
 
@@ -2310,3 +2310,15 @@ Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglame
 Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
 
 Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
+
+P.O. 20 DE AGOSTO DE 2003.
+
+LEY DE DEUDA PUBLICA PARA EL ESTADO DE SINALOA.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se abroga la Ley que Establece las Bases de Endeudamiento Público del Estado de Sinaloa de fecha 31 de marzo de 2000, publicada en el Periódico Oficial "El Estado de Sinaloa", número 40 de fecha 3 de abril del mismo año.
+
+Artículo Tercero. Se deroga el inciso e) de la fracción I, del artículo 2 del Código Fiscal del Estado de Sinaloa, y todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto. Las entidades a que se refiere el Artículo 2 de esta Ley contratarán los créditos ya aprobados a la entrada en vigor de la misma en los términos del Decreto respectivo y deberán inscribir todos sus empréstitos o créditos vigentes en el Registro Estatal de Deuda Pública dentro de un plazo de noventa días a partir de la fecha de su publicación.
