@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2002-07-17"
+last_updated: "2002-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -813,9 +813,11 @@ II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
-IV.- Expedir su propia Ley Orgánica y su Reglamento Interior, así como la Ley Orgánica del Organo Superior de Fiscalización del Estado y su Reglamento Interior.
+IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley del Organo Superior de Fiscalización del Estado y su Reglamento Interior;
+
+La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Organo Superior de Fiscalización del Estado, en los términos que disponga la ley.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -889,11 +891,15 @@ XXVI.- Legislar acerca de la administración, conservación y enajenación de lo
 
 XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
-XXVIII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, a los titulares de las dependencias del Poder Legislativo, así como al Titular del Organo Superior de Fiscalización del Estado;
 
-XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada dentro de los primeros 10 días de la apertura del primer periodo ordinario de sesiones.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada a más tardar en los 10 días siguientes a la apertura del primer período ordinario de sesiones.
+
+Para la revisión de la cuenta pública, la Legislatura se apoyará en el Organo Superior de Fiscalización del Estado.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -953,67 +959,75 @@ XLVII.- Expedir todas las leyes y decretos que sean necesarios para hacer efecti
 
 #### SECCION QUINTA. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 76.
 
 El día de clausura del período de sesiones ordinarias, la Legislatura elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de siete miembros que durarán en su encargo el período de receso para el que fueron designados. El primero de los nombrados será el Presidente y el segundo y tercero, Secretarios, de su Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
+Son facultades y obligaciones de la Diputación Permanente:
+
+I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extraordinarias;
+
+II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
+
+III.- Nombrar interinamente a los titulares de las dependencias del Poder Legislativo, así como al titular del Organo Superior de Fiscalización del Estado;
+
+IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
+
+V.- Conceder licencias temporales a los Diputados y Magistrados del Tribunal Superior de Justicia;
+
+VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución;
+
+VII.- Designar por el voto de las dos terceras partes de sus integrantes a los miembros de los Consejos Municipales en los casos previstos por esta Constitución y por la Ley de los Municipios;
+
+VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de ésta Constitución;
+
+IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
+
+X.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado;
+
+XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de Ley;
+
+XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, al Consejero Presidente, a los consejeros Electorales del Consejo general del Instituto Electoral de Quintana Roo, así como a los Magistrados del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley:
+
+XIII.- Las demás que le confiera expresamente esta Constitución.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
+#### SECCION SEXTA. De la Fiscalización del Estado
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
+###### ARTICULO 77.
+
+El Organo Superior de Fiscalización de la Legislatura del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio.
+
+El titular del Organo Superior de Fiscalización del Estado será designado por el voto de las dos terceras partes de los integrantes de la Legislatura. La ley correspondiente determinará el procedimiento para su designación. Dicho titular durará en su encargo cinco años y podrá ser nombrado nuevamente por una sola vez pero no podrá, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Para ser titular del Organo Superior de Fiscalización del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta constitución, los que señale la Ley del Organo Superior de Fiscalización del Estado.
+
+El Organo Superior de Fiscalización del Estado tendrá a su cargo:
+
+I.- Revisar y fiscalizar en forma posterior la cuenta pública que los Gobiernos, Estatal y Municipales le presenten sobre su gestión financiera, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
+
+II.- Entregar a la Legislatura Estatal el informe del resultado de la revisión y fiscalización de la Cuenta Pública, a más tardar en los diez días siguientes a la apertura del segundo período ordinario de sesiones del mismo año de su presentación. El informe del resultado tendrá el carácter público e incluirá los dictámenes de la revisión y el apartado correspondiente a la fiscalización del cumplimiento de los objetivos de los planes y programas aprobados. El Organo Superior de Fiscalización del Estado tendrá obligación de guardar reserva respecto a sus actuaciones e informaciones hasta la fecha en que entregue a la Legislatura estatal el propio informe.
+
+III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros y documentos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos;
+
+IV.– Determinar los daños y perjuicios que afecten la Hacienda Pública o al Patrimonio de los Poderes del Estado o de los Municipios, o al patrimonio de los entes públicos estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades, incluyendo las referidas en el título Octavo de esta Constitución y presentar las denuncias o querellas penales, en los términos y con las formalidades que señale la ley.
+
+Los Poderes del Estado, los Municipios y demás entes públicos que deban ser fiscalizados facilitarán los auxilios que requiera el Organo Superior de Fiscalización del Estado para el ejercicio de sus funciones.
+
+V.- Las demás facultades y atribuciones que le otorguen las leyes respectivas.
+
+La fiscalización que realice el Organo Superior de Fiscalización del Estado se ejercerá de manera posterior a la gestión financiera y tiene carácter externo por lo que se llevará a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los sujetos que sean fiscalizables conforme a la ley de la materia.
 
 #### SECCION PRIMERA. Del Gobernador
 
-###### Artículo 77.
-
-Son facultades y obligaciones de la Diputación Permanente:
-
-I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extraordinarias.
-
-II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura.
-
-III.- Nombrar: interinamente a los empleados de la Contaduría Mayor de Hacienda.
-
-IV.- Resolver los asuntos de su competencia y recibir durante el receso de la Legislatura las iniciativas de la ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones.
-
-V.- Conceder licencias temporales a los diputados y magistrados del Tribunal Superior de Justicia.
-
-VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución.
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
-
-VII.- Designar por el voto de las dos terceras partes de sus integrantes a los miembros de los Concejos Municipales, en los casos previstos por esta Constitución y por la Ley de los Municipios.
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1998)</small>
-
-VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
-
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-IX.- Recibir la protesta de Ley al Gobernador Interino, provisional, sustituto o quien haga sus veces.
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
-
-X.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
-
-XI.- Designar mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
-
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, al Consejero Presidente, a los Consejeros Electorales del Consejo General del Instituto Electoral de Quintana Roo, así como a los Magistrados del Tribunal Electoral de Quintana Roo y tomarles la protesta de ley;
-
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
-
-XIII. Las demás que le confiere expresamente esta Constitución.
-
-#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
-
 ### CAPITULO III. Del Poder Ejecutivo
 
-#### SECCION TERCERA. De la Administración del Ejecutivo
-
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
 
 ###### ARTICULO 78.
 
@@ -1105,7 +1119,9 @@ I.- El Gobernador sustituto constitucional, o el designado para concluir el per�
 
 II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-#### SECCION PRIMERA. Del Presidente Municipal
+#### SECCION TERCERA. De la Administración del Ejecutivo
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 90.
 
@@ -1191,7 +1207,7 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 1981)</small>
 
-#### SECCION SEGUNDA. Del Síndico
+#### SECCION PRIMERA. Del Presidente Municipal
 
 ###### ARTICULO 92.
 
@@ -1447,9 +1463,11 @@ Si al iniciarse el año fiscal no se hubiere aprobado el Presupuesto de Egresos 
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 122.
 
-Las cuentas de los caudales públicos deberán glosarse sin excepción por una Contaduría Mayor de Hacienda, que dependerá exclusivamente de la Legislatura del Estado.
+Las cuentas de los caudales públicos deberán glosarse sin excepción por el Organo Superior de Fiscalización del Estado.
 
 ###### ARTICULO 123.
 
@@ -2055,7 +2073,7 @@ XI.- Vigilar que los integrantes de las Alcaldías, Delegados y Subdelegados de 
 
 XII.- Las demás que le confieran las disposiciones legales aplicables.
 
-#### SECCION TERCERA. De los Regidores
+#### SECCION SEGUNDA. Del Síndico
 
 ## TITULO OCTAVO
 
@@ -2118,6 +2136,8 @@ II.- Tramitar ante las autoridades correspondientes los asuntos relacionados con
 III.- Presidir la comisión de hacienda municipal y revisar las cuentas de la tesorería, y
 
 IV.- Las demás conferidas por las leyes, reglamentos y acuerdos del Ayuntamiento.
+
+#### SECCION TERCERA. De los Regidores
 
 ###### ARTICULO 166.
 
@@ -2534,3 +2554,25 @@ El Tribunal Electoral de Quintana Roo como organismo público autónomo, con per
 ###### ARTICULO SEXTO.
 
 Se incorporará al patrimonio del Tribunal Electoral de Quintana Roo, la totalidad de bienes, archivos y personal del Tribunal Estatal Electoral del Poder Judicial del Estado.
+
+P.O. 30 DE AGOSTO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+###### ARTICULO SEGUNDO.
+
+El Organo Superior de Fiscalización del Estado iniciará sus funciones el 1º de enero del año 2003. La revisión de la Cuenta Pública y las funciones de fiscalización a que se refieren las fracciones I a V del artículo 77 reformado por este Decreto, se llevarán a cabo, en los términos del mismo, a partir de la revisión de la Cuenta Pública correspondiente al año 2004.
+
+El Organo Superior de Fiscalización del Estado revisará la Cuenta Pública de los años anteriores al 2004, conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+
+Las referencias que se hacen en dichas disposiciones a la Contaduría Mayor de Hacienda del Poder Legislativo, se entenderán hechas al Organo Superior de Fiscalización del Estado.
+
+###### ARTICULO TERCERO.
+
+En tanto el Organo Superior de Fiscalización del Estado no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme a su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+Los empleados y trabajadores de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+Una vez creado el Organo Superior de Fiscalización del Estado, todos los recursos humanos y materiales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Organo.
