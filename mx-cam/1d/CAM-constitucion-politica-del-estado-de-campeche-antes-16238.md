@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1940-01-27"
+last_updated: "1940-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 1940.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 1940.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -103,7 +103,7 @@ El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecu
 
 Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1940)</small>
 
 ### CAPITULO III.
 
@@ -113,7 +113,7 @@ De su elección e instalación.
 
 ###### Art. 18.
 
-El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
+El Congreso del Estado, se compondrá de representantes electos directamente en su totalidad cada dos años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1940)</small>
 
@@ -1020,3 +1020,9 @@ P.O. 30 DE DICIEMBRE DE 1937.
 P.O. 27 DE ENERO DE 1940.
 
 UNICO. La presente reforma entrará en vigor tres días después de publicada en el Periódico Oficial del Gobierno del Estado, a efecto de que las elecciones de Diputados al H. Congreso del mismo, que deberán efectuarse el domingo 2 de junio del año en curso, se lleven a cabo con sujeción a la misma reforma.
+
+P.O. 9 DE MARZO DE 1940.
+
+Artículo primero. La reforma anterior surtirá sus efectos legales a partir de las próximas elecciones que para Diputados al H. Congreso del Estado deberán efectuarse el dos de junio del año en curso.
+
+Artículo segundo. Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
