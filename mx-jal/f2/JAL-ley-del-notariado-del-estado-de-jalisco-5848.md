@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "2003-12-30"
+last_updated: "2004-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003 .
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -1691,13 +1691,13 @@ En los casos a que se refiere el presente Capítulo, se procederá por el Ejecut
 
 #### SECCION PRIMERA. De las Sanciones
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
 
 ###### Artículo 154.
 
-Las sanciones de carácter administrativo que esta Ley señala, serán impuestas por el Titular del Poder Ejecutivo y consistirán, según el caso, en amonestación, suspensión y revocación del nombramiento del notario.
+Las sanciones de carácter administrativo que esta Ley señala, serán impuestas por el Titular del Poder Ejecutivo y consistirán, según el caso, en amonestación, suspensión y revocación del nombramiento del Notario.
 
-La posibilidad de sancionar al infractor, prescribe a los tres años de que la autoridad correspondiente tenga conocimiento de la irregularidad; esto, sin perjuicio de las responsabilidades civiles, penales o fiscales, que prescribirán en los términos de la ley de la materia.
+La posibilidad de sancionar al infractor, prescribe a los tres años, esto sin perjuicio de las responsabilidades civiles, penales o fiscales, que prescribirán en los términos de la ley de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1995)</small>
 
@@ -2598,5 +2598,9 @@ P.O. 30 DE OCTUBRE DE 2003.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 30 DE DICIEMBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE MAYO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
