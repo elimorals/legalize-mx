@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2000-03-25"
+last_updated: "2004-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -1997,7 +1997,9 @@ ART. 429.- Se tramitarán sumariamente:
 
 I.- (DEROGADA, P.O. 10 DE AGOSTO DE 1985)
 
-II.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2004)</small>
+
+II.- Los juicios sobre rectificación de actas del estado civil;
 
 III.- Los juicios que versen sobre cualquiera cuestión relativa a los contratos de arrendamiento o alquiler, depósito y comodato, aparcería, transportes y hospedajes;
 
@@ -3333,7 +3335,9 @@ ART. 713.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 ART. 714.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-ART. 715.- La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2004)</small>
+
+ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 
 ## TITULO DECIMO. De las tercerías
 
@@ -4850,3 +4854,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 8 DE MAYO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los juicios sobre rectificación de actas del estado civil que se encuentren en trámite ante los tribunales del Estado al momento de entrar en vigor el Presente Decreto, continuarán substanciándose conforme a las disposiciones vigentes al momento de iniciarse el juicio.
