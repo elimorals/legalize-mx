@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-del-servicio-de-transmisiones-976"
 country: "mx"
 rank: "reglamento"
 publication_date: "1961-07-28"
-last_updated: "1963-12-14"
+last_updated: "1963-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=976&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1961-07-17"
 
 REGLAMENTO GENERAL DEL SERVICIO DE TRANSMISIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1963.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de julio de 1961.
 
@@ -1207,7 +1207,9 @@ En la Escuela Militar de Transmisiones se impartirán los siguientes cursos:
 
 I.- De formación de oficiales;
 
-II.- De técnicos de transmisiones;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1963)</small>
+
+II.- De Mantenimiento de Transmisiones;
 
 III.- De capacitación; y
 
@@ -1215,15 +1217,19 @@ IV.- De información.
 
 El Secretario de la Defensa Nacional está facultado para crear nuevos cursos o para suspender temporalmente alguno o algunos de los cursos que se imparten, cuando lo requieran las necesidades del Ejército y Fuerza Aérea.
 
-El propio Secretario de la Defensa Nacional expedirá a los egresados, el título, diploma o constancia correspondiente.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1963)</small>
+
+El propio Secretario de la Defensa Nacional expedirá a los egresados el diploma o constancia correspondiente.
 
 ###### ARTICULO 106.
 
 Al curso de formación de oficiales podrán ingresar los sargentos primeros que habiendo terminado satisfactoriamente el curso respectivo en la Escuela Militar de Clases de Transmisiones, reúnan los requisitos establecidos en la convocatoria.
 
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 107.
 
-Al curso de técnicos de transmisiones podrán ingresar los jefes y oficiales del Servicio que habiendo efectuado el curso de formación de oficiales en la propia Escuela, reúnan los requisitos establecidos en la convocatoria.
+Al Curso de Mantenimiento de Transmisiones podrán ingresar los Oficiales del Servicio que hayan terminado el curso de Formación de Oficiales en la propia escuela y reúnan, además, los requisitos establecidos en la convocatoria.
 
 > <small>(F. DE E., D.O.F. 2 DE SEPTIEMBRE DE 1961)</small>
 
@@ -1522,3 +1528,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su publi
 SEGUNDO.- La Secretaría de la Defensa Nacional, con la intervención que proceda por parte de la Secretaría del Patrimonio Nacional, enajenará los animales existentes en los Centros a que se refiere el artículo segundo, así como el equipo, material y herramientas que no tengan utilidad alguna en lo sucesivo, aprovechando el producto, a través de la Partida que corresponda, en la adquisición de material electrónico.
 
 TERCERO.- La Secretaría de Hacienda y Crédito Público autorizará las transferencias de las cantidades asignadas en el Presupuesto de Egresos a los Centros mencionados, con objeto de que la Secretaría de la Defensa Nacional destine dichas sumas, así como las que obtenga en los términos del punto anterior, a la compra de material electrónico para dotar al Servicio de Transmisiones del Ejército Mexicano y relevar el equipo obsoleto existente.
+
+D.O.F. 20 DE DICIEMBRE DE 1963.
+
+I.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+II.- Se derogan todas las disposiciones que se opongan al presente Decreto.
