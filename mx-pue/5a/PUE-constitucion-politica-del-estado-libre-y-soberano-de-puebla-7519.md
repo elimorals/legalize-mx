@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1930-09-16"
+last_updated: "1933-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1930.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 1933.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -49,7 +49,7 @@ El territorio del Estado es el que de hecho y de derecho le pertenece dentro de 
 
 Son habitantes del Estado: todas las personas que estén en su territorio.
 
-###### Artículo 4°.
+###### Artículo 4.
 
 El Estado garantiza a sus habitantes, sea cual fuere su condición:
 
@@ -215,7 +215,7 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado las autoridades 
 
 El ejercicio de las funciones propias del Departamento Legislativo se encomienda a una corporación que se denominará "CONGRESO DEL ESTADO DE PUEBLA".
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1930)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
 ### CAPITULO QUINTO.
 
@@ -223,11 +223,13 @@ De los ciudadanos poblanos.
 
 ###### Artículo 26.
 
-El Congreso se compondrá cuando menos de dieciséis representantes del pueblo, electos respectivamente por los Distritos electorales que establezca la ley, conforme a lo dispuesto en el artículo 27. Por cada Diputado propietario se elegirá un suplente.
+El Congreso se compondrá cuando menos de once Representantes del Pueblo, electos respectivamente por los Distritos Electorales determinados por la Ley Electoral. Por cada diputado propietario se elegirá un suplente. La elección de diputados será directa en los términos que señale la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
 ###### Artículo 27.
 
-La elección de Diputados será directa en los términos que disponga la Ley Electoral.
+Los diputados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 ## TITULO SEGUNDO.
 
@@ -247,23 +249,33 @@ II. Ser mayor de veinticinco años de edad.
 
 III. Saber leer y escribir.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 29.
 
-No pueden ser electos Diputados:
+No pueden ser electos diputados propietarios o suplentes:
 
-I. El Gobernador, el Secretario General, los Magistrados del Tribunal Superior de Justicia, el Procurador de Justicia y el Tesorero General del Estado.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-II. Los Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio; y los Magistrados, Jueces y empleados superiores de la Federación en el Estado.
+I. El Gobernador, el Secretario General, los Magistrados en ejercicio del Tribunal Superior de Justicia, el Procurador de Justicia del Estado y el Jefe de la Hacienda Pública.
 
-III. Los Militares cuando no se hayan separado de todo servicio por lo menos dos años antes de la elección. Para los efectos de la presente disposición no se conceptúan como militares los ciudadanos alistados en la Guardia Nacional en obediencia a lo prescripto (sic) por la fracción I del artículo 14 de esta Constitución.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+II. Los Magistrados, Jueces y empleados Superiores de la Federación en el Estado.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+III. El Oficial Mayor del Gobierno, el Secretario Particular del Gobernador, los Jefes de Departamentos de la Secretaría General, el Director General de Educación, el Presidente de la Junta Central de Conciliación y Arbitraje, el Presidente de la Comisión Local Agraria, los Militares en servicio activo y los Jefes de la Policía del Estado, si no se separan definitivamente de sus encargos tres meses antes de la elección.
 
 IV. Los Ministros y Tesoreros de los cultos, cuando no hayan renunciado públicamente a su ministerio o cargo, cinco años, por lo menos, antes de la elección.
 
 V. Los Presidentes Municipales, los Jueces y Recaudadores de Rentas por la circunscripción en que ejerzan sus funciones.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 30.
 
-El cargo de Diputado propietario y el de suplente desde que éste entra en ejercicio, es incompatible con cualquier otro cargo de la Federación o del Estado.
+El cargo de diputado propietario o el de suplente en funciones, desde el momento en que se empiece a ejercer, será incompatible con cualquiera otro cargo o comisión de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo sin licencia previa del Congreso; y obtenida ésta, cesará el interesado en sus funciones representativas mientras desempeña la nueva ocupación que se le confiera. La infracción a esta disposición ocasionará la pérdida del carácter de diputado.
 
 ###### Artículo 31.
 
@@ -285,13 +297,15 @@ Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio 
 
 El Congreso se renovará en su totalidad cada dos años y comenzará a funcionar cada bienio el día quince de enero posterior a las elecciones.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 34.
 
-La Junta Preparatoria para la instalación y para la apertura del Congreso, y éste mismo, no pueden ejercer sus funciones sin la asistencia de más de la mitad del número total de Diputados; pero los que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que, si no lo hacen, se entenderá por ese solo hecho, que renuncian al cargo sin causa justificada, llamándose luego a los Suplentes, los que deberán presentarse en un plazo de veinte días, y si no lo hicieren se declarará vacante el cargo y se convocará a nueva elección.
+La Junta Preparatoria para la instalación y para la apertura del Congreso, y éste mismo, no pueden ejercer sus funciones sin la asistencia de más de la mitad del número total de diputados; pero los que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que, si no lo hacen, se entenderá por ese solo hecho, que renuncian al cargo sin causa justificada, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si no lo hicieren se declarará vacante el cargo y se convocará a nueva elección.
 
-El Diputado que falte treinta días consecutivos sin causa justificada, no tendrá derecho a asistir al período de sesiones respectivo.
+El Diputado que falte quince días consecutivos sin causa justificada, o sin licencia previa, se entenderá que renuncia a concurrir hasta el período inmediato, llamándose desde luego al suplente.
 
-Si no hubiere la mayoría requerida para la instalación del Congreso, o para que ejerza sus funciones una vez instalado, se llamará inmediatamente a los Suplentes, para que desempeñen su cargo, entre tanto transcurren los diez días señalados a los propietarios.
+Si no hubiere la mayoría requerida para la instalación del Congreso, o para que ejerza sus funciones una vez instalado se llamará inmediatamente a los suplentes para que desempeñen su cargo, entre tanto transcurren los diez días señalados a los propietarios.
 
 ###### Artículo 35.
 
@@ -349,9 +363,11 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 El Gobernador asistirá a la apertura del primer período de las sesiones ordinarias, de cada año, e informará por escrito en términos generales, sobre el estado de los ramos respectivos de la Administración Pública, informe que contestará también por escrito el Presidente del Congreso, dándole lectura. Cuando el Gobernador no pudiere concurrir, su informe será leído por el Secretario General de Gobierno.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 45.
 
-Cada dos años al renovarse el departamento Legislativo, el Gobernador enviará a la Cámara, una memoria acompañada de los documentos adecuados para su completa inteligencia, y en la cual expondrá la situación del Estado en todos los ramos administrativos; dicha memoria comprenderá los actos de la Administración de Justicia, para lo cual el Presidente del Tribunal Superior deberá enviar por escrito al Ejecutivo, los datos necesarios.
+Cada cuatro años, al renovarse el Departamento Legislativo, el Gobernador saliente enviará a la Cámara, una memoria acompañada de los documentos adecuados para su completa inteligencia, y en la cual expondrá la situación del Estado en todos los Ramos Administrativos; dicha memoria comprenderá los actos de la Administración de Justicia, para lo cual el Presidente del Tribunal Superior deberá enviar por escrito al Ejecutivo, los datos necesarios.
 
 ###### Artículo 46.
 
@@ -389,83 +405,149 @@ II. Legislar especialmente sobre las materias siguientes:
 
 8°. Expropiación por causa de utilidad pública.
 
-9°. Reglamentación de la facultad que dá a las Legislaturas de los Estados el artículo 96 de la Constitución Federal.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-10°. Reglamentación que requiere la facultad concedida a las Legislaturas de los Estados por el artículo 130 de la Constitución General.
+9°. Reglamentación que requiere la facultad concedida a las Legislaturas de los Estados por el artículo 130 de la Constitución General.
 
-11°. Elecciones, tomando como base que el sufragio será directo, sin más requisitos para votar que los de ser ciudadano del Estado, en ejercicio de sus derechos, y ser vecino del respectivo Distrito Electoral.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-12°. Salubridad e Higiene.
+10°. Elecciones, tomando como base que el sufragio será directo, sin más requisitos para votar que los de ser ciudadano del Estado, en ejercicio de sus derechos, y ser vecino del respectivo Distrito Electoral.
 
-13°. Beneficencia, con la mira de facilitar la formación de asociaciones y la fundación de instituciones de beneficencia privada, motivadas por fines altruistas, sobre las bases de que serán laicas y que estarán bajo la vigilancia del Estado.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-14°. Educación e Instrucción, procurando sean intensamente difundidas, con especialidad la educación primaria rudimentaria y estableciendo para el más amplio desarrollo de la cultura técnica superior, la "Universidad de Puebla."
+11°. Salubridad e higiene.
 
-15°. Seguridad pública.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-16°. Hacienda.
+12°. Beneficencia, con la mira de facilitar la formación de asociaciones y la fundación de instituciones de Beneficencia Privada, motivadas por fines altruistas, sobre las bases de que serán laicas y que estarán bajo la vigilancia del Estado.
 
-17°. Administración de Justicia, simplificando toda clase de procedimientos, suprimiendo, hasta donde lo permita la seguridad de la prueba, las formalidades del contrato y facilitando el arbitraje como medio preferente para decidir las controversias entre particulares.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-18°. Trabajo y previsión social, conforme a la Constitución Federal, estableciéndose al efecto una Sección en la Secretaría del Ejecutivo, que vigile por el cumplimiento de las disposiciones que se dicten, y cuyo Jefe represente al Gobierno en la Junta Central de conciliación y Arbitraje.
+13°. Educación e Instrucción, procurando sean intensamente difundidas, con especialidad la educación Primaria rudimentaria y estableciendo para el más amplio desarrollo de la cultura técnica superior, la "Universidad de Puebla."
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+14°. Seguridad pública.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+15°. Hacienda.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+16°. Administración de Justicia, simplificando toda clase de procedimientos; suprimiendo, hasta donde lo permita la seguridad de la prueba, las formalidades del contrato y facilitando el arbitraje como medio preferente para decidir las controversias entre particulares.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+17°. Trabajo y previsión social, conforme a la Constitución Federal, estableciéndose al efecto una Sección en la Secretaría del Ejecutivo, que vigile por el cumplimiento de las disposiciones que se dicten, y cuyo jefe represente al Gobierno en la Junta Central de Conciliación y Arbitraje.
 
 III. Iniciar ante el Congreso General las Leyes y Decretos que sean de la competencia del mismo, así como la derogación de unas u otros; y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados.
 
 IV. Hacer el escrutinio de los votos emitidos para Gobernador del Estado, calificar la elección y hacer la declaración en favor del Ciudadano que haya obtenido la mayoría, conforme a la Ley Electoral.
 
-V. Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame contra ellas.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-VI. Adicionar y reformar esta Constitución en los términos que ella prescribe.
+V. Adicionar y reformar esta Constitución en los términos que ella prescribe.
 
-VII. Autorizar al Ejecutivo para que celebre contratos con los demás Estados o con la Federación, sobre asuntos relacionados con la Administración Pública, y aprobar, o no, estos contratos. Autorizar al Ejecutivo para que celebre empréstitos y aprobar éstos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-VIII. Revisar la cuenta general del Estado y de los Municipios, y decretar anualmente los presupuestos de ingresos y egresos previa iniciativa del Ejecutivo.
+VI. Autorizar al Ejecutivo para que celebre contratos con los demás Estados o con la Federación, sobre asuntos relacionados con la Administración Pública, y aprobar, o no, estos contratos. Autorizar al Ejecutivo para que celebre empréstitos y aprobar éstos.
 
-IX. Decretar los presupuestos de ingresos y egresos de cada municipalidad.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-X. Inspeccionar la Contaduría de Glosa.
+VII. Revisar la cuenta general del Estado y de los Municipios, y decretar anualmente los presupuestos de ingresos y egresos del Estado, previa iniciativa del Ejecutivo.
 
-XI. Decretar la manera de cubrir el contingente que para el ejército de la Nación debe dar el Estado, conforme a las Leyes Federales.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XII. Conceder premios por servicios eminentes prestados a la humanidad, a la Patria o al Estado.
+VIII. Decretar los presupuestos de ingresos de cada municipalidad.
 
-XIII. Rehabilitar en los derechos de Ciudadano del Estado.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XIV. Conceder amnistía por delitos políticos de la competencia del Estado.
+IX. Inspeccionar la Contaduría General de Glosa.
 
-XV. Autorizar al Ejecutivo para que celebre arreglos sobre límites del Estado, y, en su caso aprobarlos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XVI. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública, cuando las circunstancias lo exijan y así lo acuerden los dos tercios de los Diputados presentes.
+X. Decretar la manera de cubrir el contingente que para el ejército de la Nación debe dar el Estado, conforme a las Leyes Federales.
 
-XVII. Elegir a los Magistrados del Tribunal Superior a propuesta en terna del Ejecutivo.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XVIII. Elegir a los Jueces de Primaria (sic) Instancia, a propuesta en terna del Ejecutivo.
+XI. Conceder premios por servicios eminentes prestados a la humanidad, a la Patria o al Estado.
 
-XIX. Aceptar las renuncias del Gobernador, de los Diputados y de los Magistrados del Tribunal Superior y de los Jueces de Primera Instancia, y conceder a los primeros licencia en los términos que disponga la ley.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XX. Convocar a elecciones de Diputados cuando ocurra falta absoluta de Propietario y Suplente, si dicha falta ocurriere antes de los seis meses últimos del período.
+XII. Rehabilitar en los derechos de Ciudadano del Estado.
 
-XXI. Convocar a elecciones de Ayuntamientos, cuando ello fuere necesario.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XXII. Convocar a elecciones de Gobernador, cuando ocurra falta absoluta si ésta acaeciera más de dos años antes de la terminación del período.
+XIII. Conceder amnistía por delitos políticos de la competencia del Estado.
 
-XXIII. Elegir Gobernador interino en los casos de falta absoluta, si ésta ocurriere dentro de los dos últimos años del período y mientras se convoca a elecciones en el caso del inciso anterior.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XXIV. Erigirse en gran jurado en los casos que determine la presente Constitución.
+XIV. Autorizar al Ejecutivo para que celebre arreglos sobre límites del Estado, y en su caso aprobarlos.
 
-XXV. Declarar cuando se trate de delitos del orden común, si hay lugar a formación de causa contra funcionarios públicos que tengan fuero constitucional, consignándolos a la autoridad competente y exigir se haga efectiva su responsabilidad.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XXVI. Crear y suprimir empleos públicos en el Estado, según lo exijan las necesidades del servicio público, y señalar, aumentar o disminuir las respectivas dotaciones, teniendo en cuenta las circunstancias del Erario.
+XV. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública, cuando las circunstancias lo exijan y así lo acuerden los dos tercios de los Diputados presentes.
 
-XXVII. Nombrar y remover a los empleados de su Secretaría y de la Contaduría General de Glosa y concederles licencia.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XXVIII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados del Tribunal Superior, a los Suplentes de éstos y a todos los demás empleados de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
+XVI. Elegir a los Magistrados del Tribunal Superior, a propuesta en terna del Ejecutivo.
 
-XXIX. Formar y modificar su reglamento interior.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
-XXX. Organizar en el territorio del Estado el sistema penal por colonias o presidios, sobre la base del trabajo, como medio de regeneración.
+XVII. Elegir a los Jueces de lo Civil y de lo Criminal a propuesta en terna del Ejecutivo.
 
-XXXI. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y todas las concedidas a los otros Departamentos por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XVIII. Aceptar las renuncias del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior y de los Jueces de lo Civil y de lo Criminal y conceder a los primeros licencia, en los términos que disponga la ley.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XIX. Convocar a elecciones de Diputados cuando ocurra falta absoluta de Propietario y Suplente, si dicha falta ocurriere antes de los seis meses últimos del período.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XX. Convocar a elecciones de Ayuntamientos, cuando ello fuere necesario.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXI. Convocar a elecciones de Gobernador, cuando ocurra falta absoluta, si ésta acaeciere más de dos años antes de la terminación del período.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXII. Elegir Gobernador Interino en los casos de falta temporal o en los de absoluta, si ésta ocurriere dentro de los dos últimos años del período y mientras se convoca a elecciones en el caso del inciso anterior.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXIII. Erigirse en gran jurado en los casos que determine la presente Constitución.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXIV. Declarar cuando se trate de delitos del orden común, si ha o no lugar a formación de causa contra funcionarios públicos que tengan fuero constitucional, consignándolos a la autoridad competente y exigir se haga efectiva su responsabilidad.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXV. Crear y suprimir empleos públicos en el Estado, según lo exijan las necesidades del servicio público, y señalar, aumentar o disminuir las respectivas dotaciones, teniendo en cuenta las circunstancias del Erario.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXVI. Nombrar y remover a los empleados de su Secretaría y de la Contaduría General de Glosa, y concederles licencia.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados del Tribunal Superior, a los Suplentes de éstos y a todos los demás empleados de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXVIII. Formar y modificar su reglamento interior.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXIX. Organizar en el territorio del Estado el sistema penal por colonias o presidios, sobre la base del trabajo, como medio de regeneración.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XXX. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y todas las concedidas a los otros Departamentos por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado.
 
 ###### Artículo 50.
 
@@ -491,11 +573,15 @@ II. Discusión, el día que designe el Presidente, conforme al Reglamento.
 
 III. Aprobación, en votación nominal, de la mayoría absoluta de los Diputados presentes.
 
-IV. Pase al Ejecutivo de copia del expediente para que en el término de veinte días haga observaciones o manifieste que no las hace. En este último caso, se procederá inmediatamente a la votación; en el primero volverá el asunto a la Comisión para que en vista de las observaciones del Ejecutivo, formule un mes después nuevo dictamen, el cual será discutido y puesto a votación; pero sólo se considerará aprobado en los puntos objetados, por el voto de los dos tercios de los Diputados presentes. El Ejecutivo tendrá el derecho de enviar al Secretario de Gobierno o a otra persona a quien comisione para que defienda ante la Cámara, las iniciativas que proponga o las observaciones que haga a un proyecto. A ese efecto, el Presidente del Congreso le comunicará el día en que deba tener lugar la discusión.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+IV. Pase al Ejecutivo de copia del expediente para que en el término de quince días haga observaciones o manifieste que no las hace. En este último caso, se procederá inmediatamente a la votación; en el primero, volverá el asunto a la Comisión para que en vista de las observaciones del Ejecutivo, formule un mes después nuevo dictamen, el cual será discutido y puesto a votación; pero sólo se considerará aprobado en los puntos objetados, por el voto de los dos tercios de los Diputados presentes. El Ejecutivo tendrá el derecho de enviar al Secretario de Gobierno o a otra persona a quien comisione para que defienda ante la Cámara, las iniciativas que proponga o las observaciones que haga a un proyecto. A ese efecto, el Presidente del Congreso le comunicará el día en que deba tener lugar la discusión.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
 
 ###### Artículo 53.
 
-Se reputará que el Ejecutivo está conforme con el proyecto, cuando no lo devuelva con observaciones en el término de veinte días, excepto en el caso de que durante ese término den fin o se suspendan las sesiones, pues entonces el Ejecutivo podrá devolver el proyecto en la primera sesión inmediata.
+S (sic) reputará que el Ejecutivo está conforme con el proyecto, cuando no lo devuelva con observaciones en el término de quince días, excepto en el caso de que durante ese término den fin o se suspendan las sesiones, pues entonces el Ejecutivo podrá devolver el proyecto en la primera sesión inmediata.
 
 ###### Artículo 54.
 
@@ -515,7 +601,7 @@ Las votaciones de Ley o Decretos serán nominales.
 
 Aprobada la Ley, se remitirá al Ejecutivo para su publicación inmediata.
 
-### CAPITULO TERCERO
+### CAPITULO TERCERO.
 
 De las facultades del Congreso.
 
@@ -579,21 +665,33 @@ El Jefe del Departamento Ejecutivo se denominará:
 
 El Gobernador será nombrado por elección popular directa, en los términos que disponga la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 66.
 
-El Gobernador durará en su encargo cuatro años, tomará posesión el primero de febrero y no podrá ser reeleecto (sic).
+El Gobernador durará en su encargo cuatro años, tomará posesión el primero de febrero y cuando su origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo volverá a ocupar este cargo ni aún con el carácter de interino, provisional, substituto, o encagado (sic) del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a).- El Gobernador substituto constitucional o el designado para concluir el periodo en caso de falta absoluta del constitucional, aún cuando tenga distinta denominación.
+
+b).- El Gobernador Interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 67.
 
 Para ser Gobernador se requiere:
 
-I. Ser Ciudadano del Estado en ejercicio de sus derechos con cinco años de residencia por lo menos en su territorio, o uno si fuere nacido en él.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+I. Ser ciudadano del Estado en pleno ejercicio de sus derechos; y con residencia efectiva dentro de su territorio no menor de cinco años inmediatamente anteriores al día de la elección si no fuere nacido en el Estado; o un año si fuere nacido en él.
 
 II. Saber leer y escribir.
 
 III. Tener treinta años cumplidos.
 
-IV. Haberse separado del servicio activo en caso de ser militar, por lo menos tres años antes de la elección. Para los efectos de la presente disposición, no se conceptúan como militares los ciudadanos alistados en la Guardia Nacional en obediencia a lo prescrito por la fracción I del artículo 14 de esta Constitución.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+IV. En caso de pertenecer al Ejército, no estar en servicio activo dentro del territorio del Estado un año antes del día de la elección. El militar que se encuentre en servicio fuera del territorio del Estado, deberá separarse del Ejército noventa días antes de la elección.
 
 V. Haber renunciado públicamente a su ministerio o cargo en caso de ser Ministro o Tesorero de algún culto, cuando menos cinco años antes de la elección.
 
@@ -635,7 +733,9 @@ IV. Hacer observaciones en los términos que dispone el artículo 52 a los proye
 
 V. Tomar parte en la discusión de las Leyes y Decretos, comisionando para ello ante el Congreso al Secretario General o a cualquiera otra persona.
 
-VI. Imponer gubernativamente hasta quinientos pesos de multa y hasta un mes de arresto, conforme a lo que dispongan las Leyes.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+VI. Imponer gubernativamente hasta UN MIL PESOS de multa, y hasta quince días de arresto, conforme a lo que dispongan las leyes.
 
 VII. Iniciar ante el Departamento Legislativo las Leyes, Decretos y acuerdos convenientes y pedirle que inicie ante el Congreso de la Unión lo que sea de la competencia federal.
 
@@ -649,11 +749,15 @@ XI. Impartir a los Tribunales el auxilio que demanden para el desempeño de sus 
 
 XII. Convocar al Congreso a sesiones extraordinarias cuando lo juzgue necesario.
 
-XIII. Informar por escrito al Congreso el día de la apertura de sesiones ordinarias, del estado que guarden los diversos ramos de la Administración. El Congreso acordará los términos en que deba ser contestado ese informe.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XIII. Fijar la interpretación de las leyes de ingresos y de egresos del Estado y de los reglamentos expedidos por el Ejecutivo.
 
 XIV. Presentar al Congreso en los primeros diez días de las sesiones, los Presupuestos de los Ingresos y Egresos del Estado y de los Municipios y las cuentas de recaudación y aplicación de los fondos públicos en el año próximo anterior.
 
-XV. Enviar a la Cámara cada dos años la memoria a que se refiere el artículo 45.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XV. Decidir sobre las elecciones de los Ayuntamientos cuando se reclame sobre ellas y resolver los conflictos suscitados en los Ayuntamientos y los relativos a los Municipios conforme lo determine esta Constitución y las leyes orgánicas relativas.
 
 XVI. Nombrar al Secretario General, Procurador de Justicia, Suplente de éste, Tesorero General, Agentes del Ministerio Público y demás empleados que conforme a las Leyes no deban ser nombrados por otra autoridad.
 
@@ -725,9 +829,11 @@ El ejercicio de las funciones del Departamento Judicial se encomienda a un Tribu
 
 El Tribunal Superior se formará de nueve Magistrados de número y nueve suplentes, nombrados por el Congreso a propuesta en terna del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 80.
 
-Los Magistrados de número y Suplentes del Tribunal Superior durarán en sn (sic) cargo seis años y tomarán posesión el quince de febrero.
+Los Magistrados de número y suplentes del Tribunal Superior durarán en su encargo cuatro años y tomarán posesión el quince de febrero debiendo coincidir su periodo en el del Gobernador Constitucional.
 
 ### CAPITULO SEGUNDO.
 
@@ -857,13 +963,17 @@ Los Ayuntamientos, sin infringir las Leyes de la Federación o del Estado, tiene
 
 Los Ayuntamientos se renovarán cada año en los términos que disponga la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 104.
 
-La Ley reglamentaria Municipal se sujetará a las bases siguientes:
+La Ley Reglamentaria Municipal, se sujetará a las bases siguientes:
 
 I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señale la Legislatura, del Estado, y en todo caso serán las suficientes para atender a sus necesidades.
 
-II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Ejecutivo, quien informará, sus presupuestos de ingresos y de egresos y sus cuentas anuales y no podrán contratar empréstitos, ni celebrar contratos que tengan una duración que exceda de un año, sin autorización del Ejecutivo.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+II. Los Ayuntamientos someterán a la aprobación de la Legislatura por conducto del Ejecutivo, quien informará, sus presupuestos de ingresos y sus cuentas anuales y no podrán contratar empréstitos, ni celebrar contratos que tengan una duración que exceda de un año, sin autorización del Ejecutivo.
 
 III. El Ejecutivo Federal y el Gobernador del Estado tendrán el mando de la policía y fuerza pública de los Municipios donde residieren habitual o transitoriamente. Las mismas, policía y fuerza pública del Municipio auxiliarán a las fuerzas del Estado, y recíprocamente.
 
@@ -892,6 +1002,10 @@ XIII. El Ejecutivo podrá nombrar visitadores que observen la marcha de la admin
 XIV. Cuando a juicio del Congreso resulte, según los presupuestos o un informe del Ejecutivo, o que aparezca por otros medios de información, que un Municipio no tiene los elementos necesarios para atender debidamente a su administración, lo suprimirá el mismo Congreso anexándolo a otro u otros.
 
 XV. El Ejecutivo nombrará Visitadores especiales para las Tesorerías Municipales, los cuales revisarán los libros e informarán después al Ejecutivo para que éste excite a los Ayuntamientos a recaudar los fondos públicos o bien corrija las deficiencias que se encuentren o se consignaren, si hubiere algún delito en el manejo de los fondos.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+XVI.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento del Gobernador desempeñen las funciones propias de sus cargos cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 ###### Artículo 105.
 
@@ -1117,7 +1231,9 @@ V. Dictamen de una Comisión especial sobre que se acepte, modifique o deseche l
 
 VI. Publicación del dictamen por la Prensa, después de la primera lectura.
 
-VII. Segunda lectura y discusión del expresado dictamen en el siguiente período de sesiones ordinarias.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+
+VII. Segunda lectura y discusión del expresado dictamen en el siguiente período de sesiones.
 
 El Congreso podrá aceptar, modificar o desechar el proyecto que presente la Comisión, pero para aceptarlo en todo o en parte, es indispensable el voto de los dos tercios de los Diputados presentes.
 
@@ -1192,6 +1308,10 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+P.O. 17 DE NOVIEMBRE DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
