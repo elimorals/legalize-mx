@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1983-07-13"
+last_updated: "1998-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 LEY DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -304,13 +304,17 @@ Si la entidad paraestatal no estuviera agrupada en un sector específico, la apr
 
 Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del comité de planeación para el desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, por la dependencia coordinadora del sector correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 37.
 
-El plan estatal de desarrollo y todos los programas que de él se deriven, una vez aprobados por el Gobernador del Estado se publicarán en el "Periódico Oficial" del Estado.
+El Plan Estatal de Desarrollo, el Programa Operativo Anual del Poder Ejecutivo y demás programas que de ellos se deriven, una vez aprobados se publicarán en el Periódico Oficial del Estado y se difundirán, a través de los medios idóneos, por las Dependencias, Organos y Entidades de la Administración Pública Estatal Centralizada, Desconcentrada y Paraestatal, en los ramos de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 38.
 
-Los planes municipales y los programas que de ellos se desprendan serán publicados en el "Periódico Oficial" del Estado.
+Los Planes Municipales, los Programas Operativos Anuales y demás programas que de ellos se deriven, una vez aprobados por los ayuntamientos, serán publicados en el Periódico Oficial del Estado y difundidos en sus respectivas demarcaciones territoriales, por los medios idóneos, para hacerlos del conocimiento general de la población.
 
 ###### ARTICULO 39.
 
@@ -473,3 +477,11 @@ ENRIQUE GONZALEZ PEDRERO.
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
