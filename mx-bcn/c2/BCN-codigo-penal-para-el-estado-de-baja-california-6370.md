@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1998-08-28"
+last_updated: "1998-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1998.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1597,9 +1597,9 @@ Solo se procederá contra el hostigador, a petición de la parte ofendida.
 
 ## TITULO QUINTO. DELITOS CONTRA EL HONOR
 
-### CAPITULO IX. ENCUBRIMIENTO POR RECEPTACION
+### CAPITULO IX. ADQUISICION RECEPCION U OCULTACION DE BIENES PRODUCTO DE UN DELITO
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 185.
 
@@ -2029,15 +2029,21 @@ Acumulación.- Si además de los daños directos resulta consumado algún otro d
 
 Daño culposo.- También es punible el daño culposo, pero solo se perseguirá a querella de parte, a no ser que se trate de daños producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier substancia de efectos similares.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+
 ### CAPITULO II. ASOCIACION DELICTUOSA
 
 ###### Artículo 232.
 
-Tipo y punibilidad.- Al que para obtener un lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél, a sabiendas de su ilegítima procedencia, o al que ayude a otros para los mismos fines, se aplicará prisión de seis meses a cinco años y hasta cien días multa.
+Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a cinco años y hasta cien días multas si el valor de los bienes adquiridos, receptados u ocultados no excede de doscientos días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de tres a ocho años de prisión y de cien hasta trescientos días multa.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 233.
 
-Atenuación de la punibilidad en virtud de receptación culposa.- Si el que recibió la cosa en venta o en prenda actuó sin ánimo de lucro, porque no tuvo conocimiento de que aquella era robada, por no poner cuidado necesario, para asegurarse que la persona de quien la recibió tenía derechos para disponer de ella la pena se disminuirá en una mitad.
+Atenuación de la punibilidad en virtud de la recepción o adquisición culposa.- Al que sin conocimiento de la Comisión de un delito, y de acuerdo a las circunstancias en que adquirió, recibió en prenda o guardó objetos producto de éste, sin cerciorarse de la procedencia legítima de la cosa, se le aplicará, disminuyéndose hasta la mitad, la pena fijada en el Artículo anterior.
+
+Para los efectos del párrafo anterior, se presume que no se cercioró de la procedencia legítima del objeto, cuando por la edad o condición económica del que ofrece la cosa o por no exigir un documento que contenga los datos de identificación personal del que le ofrece la cosa ni constate la veracidad de los mismos, o por el precio en que se ofrece, se infiera que no es propiedad del mismo o cuando por la naturaleza de la cosa contenga datos propios de identificación y requiera de documento idóneo para constatar la legítima propiedad o su valor.
 
 ### CAPITULO III. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
@@ -3380,3 +3386,9 @@ P.O. 28 DE AGOSTO DE 1998.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas a los Códigos Penal y Civil, ambos para el Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
