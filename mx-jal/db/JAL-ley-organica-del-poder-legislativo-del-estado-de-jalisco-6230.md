@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2001-03-15"
+last_updated: "2003-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -381,7 +381,9 @@ h) Minutas de Decreto.
 
 i) Minutas de Ley;
 
-VI. Pasar lista de asistencia de los Diputados y certificar el quórum, de haberlo;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2003)</small>
+
+VI. El registro de asistencia de los Diputados a las sesiones que se verifiquen en el Recinto del Palacio Legislativo, el cual se realizará a través del Sistema Electrónico de Votación; y certificar el quórum de haberlo. Terminada la sesión, los Secretarios, una vez impreso el registro lo validarán con su firma. Cuando no funcione el sistema electrónico, uno de los Secretarios pasará lista de asistencia de los Diputados y en su caso declarará el quórum.
 
 VII. Anotar al margen de las actas y de los comunicados, los acuerdos que apruebe el Congreso, debiendo firmarlos y fecharlos;
 
@@ -1383,13 +1385,23 @@ Las votaciones se harán en forma: económica, nominal o por cédula.
 
 La votación será nominal, siempre que se trate de Proyectos de Ley, de Decreto y de Acuerdo Económico.
 
+> <small>(REFORMADO, P.O.4 DE MARZO DE 2003)</small>
+
 ###### Artículo 122.
 
-La votación nominal empezará, por el Secretario situado a la derecha del Presidente y seguirá en el sentido inverso al de las manecillas del reloj. El Oficial Mayor mencionará los nombres y apellidos de los ciudadanos Diputados, los que, a la mención que de ellos haga el funcionario citado, expresarán si su voto es en pro o en contra. Los secretarios anotarán los votos en pro y en contra dando a conocer al Presidente el resultado de la votación, para que éste haga la declaratoria correspondiente.
+Las votaciones en forma económica y nominal, se realizarán a través del Sistema Electrónico de Votación. La votación en su modalidad de Cédula se realizará de conformidad al artículo 127 de esta Ley.
+
+En cada votación, el Presidente determinará el tiempo de que disponen los Diputados para emitir su voto por el Sistema Electrónico de Votación, transcurrido el tiempo, el Presidente dará a conocer el resultado de la votación a fin de que se haga la declaratoria correspondiente. Una vez impreso el resultado, será validado con la firma de uno de los Secretarios de la mesa directiva, y en su caso se asentarán los incidentes que se hayan expresado con respecto a la votación.
+
+Cuando no se encuentre funcionando el Sistema Electrónico de Votación, las votaciones se realizarán de la siguiente forma:
+
+La votación nominal empezará, por el Secretario situado a la derecha del Presidente y seguirá en el sentido inverso al de las manecillas del reloj. El Oficial Mayor mencionará las nombres y apellidos de los ciudadanos diputados, los que, a la mención que de ellos haga el funcionario citado, expresarán si su voto es en pro o en contra. Los Secretarios anotarán los votos en pro y en contra dando a conocer al Presidente el resultado de la votación, para que éste haga la declaratoria correspondiente.
+
+La votación económica se expresará por la simple acción de los diputados, de levantar un brazo.
 
 ###### Artículo 123.
 
-La votación económica se expresará por la simple acción de los Diputados, de levantar un brazo.
+(DEROGADO, P.O.4 DE MARZO DE 2003)
 
 ###### Artículo 124.
 
@@ -2182,3 +2194,9 @@ P.O. 15 DE MARZO DE 2001
 Primero.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 Segundo.- El presente decreto que contiene la reforma de los artículos 30 de la Constitución Política del Estado y 91 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2003
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, por el pleno de éste Congreso de Jalisco.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial "El Estado de Jalisco", de conformidad a lo que dispone el último párrafo del artículo 33 de la Constitución Política del Estado.
