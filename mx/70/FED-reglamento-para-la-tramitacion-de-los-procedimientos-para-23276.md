@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-tramitacion-de-los-procedimientos-para-23276
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-12"
-last_updated: "2002-02-12"
+last_updated: "2002-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23276&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-12"
 
 REGLAMENTO PARA LA TRAMITACION DE LOS PROCEDIMIENTOS PARA EL CONOCIMIENTO DE LAS FALTAS Y APLICACION DE SANCIONES ADMINISTRATIVAS ESTABLECIDAS EN EL TITULO QUINTO DEL LIBRO QUINTO DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de febrero de 2002.
 
@@ -283,7 +283,9 @@ a) Exista una de las causales de improcedencia en términos del artículo anteri
 
 b) El denunciado sea un partido o agrupación política que, con posterioridad a la admisión de la queja o denuncia, hubiese perdido su registro;
 
-c) El denunciante presente escrito de desistimiento, siempre y cuando dicho escrito se presente antes de la aprobación del dictamen por parte de la Junta.
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2002)</small>
+
+c) El denunciante presente escrito de desistimiento, siempre y cuando dicho escrito se presente antes de la aprobación del dictamen por parte de la Junta y que a juicio de ésta, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
 
 2. En los casos señalados en los incisos b) y c) del párrafo anterior, la autoridad competente valorará si, independientemente del correspondiente sobreseimiento, el Instituto ha de iniciar oficiosamente un nuevo procedimiento disciplinario.
 
@@ -784,3 +786,11 @@ QUINTO (SIC) .- El Secretario Ejecutivo ordenará la edición conjunta del Regla
 SEXTO (SIC) .- Publíquese en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral una vez que la Junta General Ejecutiva haya aprobado los Lineamientos respectivos.
 
 El presente acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 12 de diciembre de 2001.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA RELACIONADOS CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE AGOSTO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+SEGUNDO.- LA MODIFICACION SEÑALADA EN EL PUNTO ANTERIOR ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION.
