@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1998-09-08"
+last_updated: "1999-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 08 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 1999.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -1207,11 +1207,17 @@ Si dentro del término legal no se reunen los requisitos necesarios para dictar 
 
 ### CAPITULO I. Comprobación del cuerpo del delito
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 164.
 
-El funcionario de policía judicial y el tribunal, en su caso, deberán procurar, ante todo, que se compruebe el cuerpo del delito como base del procedimiento penal.
+El Ministerio Público acreditará la existencia del cuerpo del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción penal; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-El cuerpo del delito se tendrá por comprobado cuando esté justificada la existencia de los elementos materiales que constituyen el hecho delictuoso, según lo determine la ley penal, salvo los casos en que tenga señalada una comprobación especial.
+Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyan la materialidad del hecho previsto como delito por la ley.
+
+La probable responsabilidad del inculpado se tendrá por comprobada cuando, de los medios probatorios existentes, se deduzca su participación en el delito que se le imputa y no exista acreditada a favor de aquél alguna causa de licitud o alguna excluyente de incriminación.
+
+El cuerpo del delito de que se trate y la probable responsabilidad se acreditarán por cualquier medio probatorio que señale la ley.
 
 ###### ARTICULO 165.
 
@@ -1263,9 +1269,11 @@ ARTICULO 172 BIS.- Para integrar los elementos constitutivos del delito de viole
 
 Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con la violencia familiar, podrán rendir por escrito los informes que le sean solicitados por el Ministerio Público o el Tribunal Instructor, y colaborar como peritos sujetándose a lo dispuesto en este Código.
 
+> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 173.
 
-Para la comprobación del cuerpo del delito, los funcionarios de policía judicial y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no estén reprobados por ella.
+Para la comprobación del cuerpo del delito, el Ministerio Público y la autoridad judicial gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes, siempre que éstos no se encuentren reprobados por la ley.
 
 ### CAPITULO II. Huellas del delito. Aseguramiento de los instrumentos y objetos del mismo
 
@@ -2986,3 +2994,9 @@ G.O. 24 DE ENERO DE 1998.
 G.O. 8 DE SEPTIEMBRE DE 1998.
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 12 DE AGOSTO DE 1999.
+
+Primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
