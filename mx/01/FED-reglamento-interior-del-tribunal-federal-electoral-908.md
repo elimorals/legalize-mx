@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-electoral-908"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-22"
-last_updated: "1993-12-22"
+last_updated: "1994-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=908&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-12-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1994.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 22 de diciembre de 1993.
 
@@ -147,7 +147,11 @@ a) Designar al Magistrado que deberá cubrir las ausencias temporales y definiti
 
 b) Calificar y resolver las excusas de los Magistrados, de acuerdo con lo previsto en el presente ordenamiento; y
 
-c) Las demás que le confieran las disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1994)</small>
+
+c) Desahogar las consultas a que se refiere el párrafo 3 del artículo 77 del Código. Para tal efecto, su Presidente designará a un magistrado de la propia Sala para que elabore el proyecto de dictamen sobre la consulta formulada, y lo someta desde luego a conocimiento y, en su caso, aprobación de la misma; y
+
+d) Las demás que le confieran las disposiciones aplicables.
 
 ARTICULO 10
 
@@ -1211,9 +1215,15 @@ ARTICULO 107
 
 Las Salas del Tribunal, cuando lo juzguen necesario, podrán de oficio aclarar un concepto o precisar los efectos de una resolución aprobada, siempre y cuando esto no implique una alteración sustancial en los puntos resolutivos o en el sentido del fallo.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1994)</small>
+
 ARTICULO 108
 
-Las Salas del Tribunal acordarán la forma y términos como serán expedidas las constancias de mayoría y de asignación en los casos en que así proceda, de conformidad con lo dispuesto por los artículos 335 y 335-A del Código.
+En los casos especiales que se indican a continuación, las Salas del Tribunal, al resolver procederán como sigue:
+
+a) En los recursos de apelación interpuestos por ciudadanos, proveerán lo necesario a efecto de que los recurrentes cuya impugnación resulte fundada puedan ejercer su derecho constitucional a sufragar el día de la elección, aun y cuando por razón de los plazos legales o por imposibilidad técnica o material, la autoridad responsable no los hubiere incluido en la lista nominal correspondiente o no les hubiere expedido su Credencial para Votar con fotografía; y
+
+b) En los recursos de inconformidad, acordarán la forma y términos como serán expedidas las constancias de mayoría y de asignación en los casos en que así proceda, de conformidad con lo dispuesto por los artículos 335 y 335-A del Código.
 
 ### CAPITULO VIII. DE LAS NOTIFICACIONES
 
@@ -1642,3 +1652,9 @@ EL C. LIC. FCO. JAVIER BARREIRO PERERA, SECRETARIO GENERAL DEL TRIBUNAL FEDERAL 
 CERTIFICA
 
 QUE LA PRESENTE FOTOCOPIA ES FIEL Y EXACTA REPRODUCIDA DEL ORIGINAL, Y CONSTA DE 97 FOJAS UTILES, LA CUAL OBRA EN ESTA SECRETARIA GENERAL Y SE EXPIDE A LOS VEINTE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y TRES, EN LA CIUDAD DE MEXICO, DISTRITO FEDERAL.- EL SECRETARIO GENERAL DEL TRIBUNAL FEDERAL ELECTORAL, FCO. JAVIER BARREIRO PERERA.- RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE JUNIO DE 1994.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
