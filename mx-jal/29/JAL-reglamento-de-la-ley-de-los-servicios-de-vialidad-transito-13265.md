@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "1998-12-03"
+last_updated: "2003-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2003
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -924,11 +924,15 @@ El Ayuntamiento tendrá la facultad de autorizar la ubicación y derivación de 
 
 Para los efectos del párrafo anterior, la Secretaría deberá considerar las opiniones técnicas del Organismo Coordinador en coordinación con el CEIT.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2003)</small>
+
 ###### Artículo 92.
 
-Los choferes, conductores y operadores del servicio público de transporte y los concesionarios que tengan ese carácter, deberán estar acreditados con el documento denominado “gafete”, mismo que expedirá la Secretaría al permisionario o al concesionario quien realizará el trámite personalmente aportando los siguientes documentos:
+Los chóferes, conductores y operadores del servicio público de transporte deberán estar acreditados con el documento denominado gafete el cual será expedido por la Secretaria a los interesados que realicen el trámite en forma personal, previo el cumplimiento de los siguientes requisitos:
 
-I.- Solicitud del permisionario o concesionario;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2003)</small>
+
+I.- Solicitud elaborada por el interesado;
 
 II.- Licencia vigente de chofer, conductor u operador expedida en el Estado de Jalisco;
 
@@ -936,9 +940,21 @@ III.- Comprobante de domicilio con antigüedad no mayor de noventa días despué
 
 IV.- Identificación oficial vigente con fotografía;
 
-V.- Tarjetón acreditante de la concesión o permiso; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2003)</small>
 
-VI.- Pago de los derechos correspondientes.
+V.- Demostrar la capacidad física y mental para la conducción de una unidad del servicio público de transporte, especialmente que no tiene hábito de consumo de bebidas alcohólicas o drogas. Este requisito se justificará con la aprobación de los exámenes que al efecto se determinen por la Secretaría;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2003)</small>
+
+VI.- Pago de los derechos correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2003)</small>
+
+VII.- Tratándose de choferes que conducen vehículos que prestan el servicio en autos de alquiler, taxis y radiotaxis, deberán presentar el tarjetón que acredite la concesión o permiso, así como la solicitud del permisionario o concesionario; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2003)</small>
+
+VIII.- Tratándose de refrendo del gafete, deberá justificarse que se ha cumplido con el curso de capacitación anual impartido por los centros de capacitación autorizados para tal efecto.
 
 ###### Artículo 93.
 
@@ -1677,3 +1693,11 @@ LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 EL C. SECRETARIO DE VIALIDAD Y TRANSPORTE
 
 ING. LEOPOLDO S. MONTELONGO CASTELLANOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ENERO DE 2003.
+
+PRIMERO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo previsto en el presente acuerdo.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
