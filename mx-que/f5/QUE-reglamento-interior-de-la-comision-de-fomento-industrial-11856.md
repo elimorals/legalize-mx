@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-fomento-industrial-11856"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-20"
-last_updated: "1998-02-20"
+last_updated: "2001-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO INDUSTRIAL, COMERCIAL, ARTESANAL Y TURISTICO, QUERETARO
 
-REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO INDUSTRIAL, ARTESANAL Y TURISMO
+REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO INDUSTRIAL, COMERCIAL, ARTESANAL Y TURISTICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el sábado 20 de febrero de 1998
 
@@ -35,7 +35,9 @@ PRIMERO.- Que una de las pretensiones de la actual Legislatura del Estado, lo ha
 
 Por lo anteriormente fundado y motivado esta H. Comisión ha tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO INDUSTRIAL, ARTESANAL Y TURISMO
+> <small>(REFORMADA SU DENOMINACION, P.O.12 DE OCTUBRE DE 2001)</small>
+
+REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO INDUSTRIAL, COMERCIAL, ARTESANAL Y TURÍSTICO
 
 ## TITULO PRIMERO
 
@@ -49,9 +51,11 @@ Este reglamento tiene por objeto organizar y regular las funciones y facultades 
 
 La Comisión de Fomento Industrial, Comercial, Industrial, Artesanal y Turismo, se depositará en una Comisión de Diputados, que serán elegidos desde la primera sesión que verifique la H. Legislatura después de la apertura de su primer período ordinario de Sesiones del año de inicio de ejercicio.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 3.
 
-La Comisión de Fomento Industrial, Comercial, Industrial, Artesanal y Turismo, tendrá su residencia en la capital del Estado de Querétaro y sesionará en la Sala de Sesiones Lic. Ezequiel Montes, la cual se ubica en el propio recinto Legislativo.
+La Comisión de Fomento Industrial, Comercial, Artesanal y Turismo, tendrá su residencia en la capital del Estado de Querétaro y sesionará en el Recinto Oficial del Poder Legislativo en sus anexos o en un lugar que se determine previamente por los integrantes de la Comisión.
 
 ## TITULO SEGUNDO
 
@@ -286,3 +290,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. GUILLERMO DEL HOYO GARCIA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma y adición entrará en vigor al día siguiente de su aprobación por el Pleno de la Legislatura.
