@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2000-10-11"
+last_updated: "2000-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -819,7 +819,9 @@ Además, deberán presentar al Pleno un informe durante los meses de diciembre y
 
 Son atribuciones del Comité de Administración:
 
-I.- Elaborar el anteproyecto del presupuesto de egresos del Congreso, que oportunamente turnará para su conocimiento y trámite a la Junta de Coordinación Parlamentaria;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+I.- Elaborar y analizar el anteproyecto de Presupuesto de Egresos del Congreso del Estado, que oportunamente turnará para su conocimiento y trámite a la Junta de Coordinación Parlamentaria a más tardar el quinto día del mes de octubre;
 
 II.- Proponer a la Junta de Coordinación Parlamentaria los criterios para otorgar los apoyos que requieran las comisiones, los comités y los grupos parlamentarios;
 
@@ -883,7 +885,9 @@ III.- Apoyar la elaboración de las actas correspondientes a las sesiones del pl
 
 IV.- Proporcionar los servicios de apoyo, incluidos los de naturaleza jurídica que se requieran para el eficaz desarrollo de las actividades del pleno y los órganos del Congreso, así como los aspectos relativos a comunicación social;
 
-V.- Formular y presentar oportunamente al Comité de Administración el anteproyecto anual de presupuesto de egresos del Congreso;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+V.- Formular y presentar el anteproyecto de presupuesto de egresos del Congreso del Estado, que turnará a más tardar el primer día del mes de octubre al Comité de Administración;
 
 VI.- Llevar la administración de los recursos financieros correspondientes al presupuesto de egresos del Congreso, así como el registro y control de los bienes patrimoniales de éste;
 
@@ -1632,3 +1636,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 11 DE OCTUBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
