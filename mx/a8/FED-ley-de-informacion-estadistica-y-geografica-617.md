@@ -4,7 +4,7 @@ identifier: "FED-ley-de-informacion-estadistica-y-geografica-617"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1980-12-30"
+last_updated: "1983-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=617&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-23"
 
 LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1983.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -39,9 +39,11 @@ LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA
 
 ### CAPITULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social y sus disposiciones rigen a la estadística general del país y a la información geográfica nacional.
+La presente Ley es de orden público e interés social y sus disposiciones rigen a la información estadística y geográfica del país que son elementos consustanciales de la soberanía nacional, y a la utilización que de la informática se requiera para los fines de aquéllas en las dependencias y entidades de la Administración Pública Federal.
 
 ###### ARTICULO 2o.
 
@@ -54,6 +56,10 @@ II.- Establecer los principios y las normas conforme a los cuales las dependenci
 III.- Fijar las bases para coordinar la participación y colaboración que corresponda a los gobiernos de las entidades federativas y a las autoridades municipales, así como para promover, cuando se requiera, la colaboración de los particulares y de los grupos sociales interesados, a efecto de mejorar el funcionamiento de los servicios mencionados en la fracción anterior, y
 
 IV.- Promover la integración y el desarrollo de los Sistemas Nacionales Estadístico y de Información Geográfica para que se suministre a quienes requieran, en los términos de esta Ley, el servicio público de información estadística y geográfica.
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+V.- Regular el desarrollo y la utilización permanente de la informática en los servicios nacionales a que se refiere este artículo.
 
 ###### ARTICULO 3o.
 
@@ -69,7 +75,11 @@ IV.- Servicios Nacionales de Estadística y de Información Geográfica: el conj
 
 V.- Servicios Estatales de Estadística y de Información Geográfica: el conjunto de actividades que realicen las entidades federativas en las materias de estadística y de información geográfica, y
 
-VI.- Sistemas Nacionales Estadístico y de Información Geográfica: el conjunto de datos producidos por las instituciones públicas a que se refieren las Fracciones IV y V anteriores, organizados bajo una estructura conceptual predeterminada, que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial.
+VI.- Sistemas Nacionales Estadístico y de Información Geográfica: el conjunto de datos producidos por las instituciones públicas a que se refieren las Fracciones IV y V anteriores, organizados bajo una estructura conceptual predeterminada, que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+VII.- Informática: Tecnología para el tratamiento sistemático y racional de la información mediante al (sic) procesamiento electrónico de datos.
 
 En lo sucesivo y salvo mención expresa, al hacer referencia a la Secretaría de Programación y Presupuesto, a los Servicios Nacionales de Estadística y de Información Geográfica, a los Poderes Legislativo y Judicial de la Federación y Judicial del Distrito Federal, a los Servicios Estatales de Estadística y de Información Geográfica, a los Sistemas Nacionales Estadístico y de Información Geográfica, a las dependencias y entidades de la Administración Pública Federal se les denominará, respectivamente, Secretaría, servicios nacionales, poderes, servicios estatales, sistemas nacionales y dependencias y entidades.
 
@@ -91,11 +101,13 @@ En los términos del párrafo anterior, los gobiernos de los Estados y los munic
 
 El Servicio Nacional de Estadística comprende:
 
-I.- La formación de estadísticas que observen hechos económicos, demográficos y sociales de interés nacional.
+I.- La formación de estadísticas que observen hechos económicos, demográficos y sociales de interés nacional;
 
-II.- La organización y levantamiento de los censos nacionales, encuestas económicas y sociodemográficas, la publicación de sus resultados y la integración de las cuentas nacionales, estadísticas derivadas e indicadores de la actividad económica y social;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
-III.- Las estadísticas permanentes, básicas o derivadas, cuentas nacionales e indicadores que elaboren las dependencias, entidades, instituciones públicas, sociales y privadas, los poderes y los servicios estatales, cuando la información que generen resultare de interés nacional y sea requerida por la Secretaría para integrar los sistemas nacionales y para prestar el servicio público de información estadística y demográfica.
+II.- La organización y levantamiento de los censos nacionales, encuestas económicas y sociodemográficas, y la integración de las cuentas nacionales, estadísticas derivadas o indicadores de la actividad económica y social;
+
+III.- Las estadísticas permanentes, básicas o derivadas, cuentas nacionales e indicadores que elaboren las dependencias, entidades, instituciones públicas, sociales y privadas, los poderes y los servicios estatales, cuando la información que generen resultare de interés nacional y sea requerida por la Secretaría para integrar los sistemas nacionales y para prestar el servicio público de información estadística y demográfica;
 
 IV.- El levantamiento y actualización del inventario nacional de estadística;
 
@@ -103,7 +115,11 @@ V.- La realización de estudios e investigaciones en materia estadística;
 
 VI.- El establecimiento de registros sobre informantes y unidades elaboradoras de estadística, y
 
-VII.- La elaboración de normas técnicas a que debe sujetarse la captación, procesamiento y publicación de la información estadística.
+VII.- La elaboración de normas técnicas a que debe sujetarse la captación, procesamiento y publicación de la información estadística;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+VIII.- La publicación de los resultados de las actividades que corresponden al Servicio Nacional de Estadística.
 
 ###### ARTICULO 8o.
 
@@ -135,7 +151,9 @@ c) Investigaciones o labores cuyo objeto sea conocer la distribución geográfic
 
 II.- El levantamiento de inventarios nacionales de recursos naturales y de la infraestructura del país;
 
-III.- La información geográfica que produzcan las dependencias y entidades, los gobiernos de las entidades federativas y las autoridades de los municipios, así como, en su caso, los datos del mismo carácter que se obtengan de particulares.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+III.- La información geográfica que produzcan las dependencias y entidades, los poderes y los servicios estatales y las autoridades municipales cuando ésta resulte de interés nacional y sea requerida por la Secretaría para integrar los sistemas nacionales y para prestar el servicio público de información geográfica, así como en su caso, los datos del mismo carácter que se obtengan de particulares;
 
 IV.- La realización de trabajos sociográficos y semiológicos, y
 
@@ -155,11 +173,19 @@ La Secretaría establecerá las políticas, normas y técnicas para uniformar la
 
 El Ejecutivo Federal podrá asesorar a los municipios en la organización de sus catastros y, en su caso, promoverá la aplicación de normas técnicas que sobre su integración y desarrollo establezcan en forma conjunta.
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 12.
 
-Sólo con la opinión favorable de las dependencias competentes, la Secretaría podrá autorizar la toma de fotografías aéreas con cámaras métricas o de reconocimiento y de otras imágenes por percepción remota, así como la realización de estudios y exploraciones geográficas, por parte de personas físicas o morales extranjeras.
+Sólo con la autorización de la Secretaría, previa opinión favorable de las dependencias competentes, se podrán efectuar:
 
-Las personas que hayan sido autorizadas, en los términos de esta Ley, para realizar las acciones a que se refiere el párrafo anterior, deberán entregar a la Secretaría y a las dependencias competentes que hayan intervenido, una copia de los trabajos que hubieren realizado en los términos que establezca la Secretaría. Esta autorización quedará condicionada a que se garantice a satisfacción de la propia Secretaría y de la dependencia competente, la entrega de dicha copia.
+I.- La toma de fotografías aéreas con cámaras métricas o de reconocimiento y de otras imágenes por percepción remota por parte de personas físicas o morales nacionales o extranjeras, y
+
+II.- La realización de actividades de información estadística y geográfica por parte de personas físicas o morales extranjeras.
+
+Los nacionales que hubieren obtenido la autorización a que se refiere este artículo, deberán entregar a la Secretaría un informe detallado de los trabajos mencionados y cuando ésta lo requiera, una copia de los mismos. Las personas físicas o morales extranjeras deberán proporcionar una copia de los trabajos a que se refieren las fracciones anteriores.
+
+Estas autorizaciones quedarán condicionadas a que se garantice a satisfacción de la propia Secretaría, la entrega de dicho informe o de la copia correspondiente.
 
 ### CAPITULO II. De los Sistemas Nacionales Estadístico y de Información Geográfica
 
@@ -167,27 +193,41 @@ Las personas que hayan sido autorizadas, en los términos de esta Ley, para real
 
 Se declara de interés público la integración de los Sistemas Nacionales Estadístico y de Información Geográfica, cuya organización, funcionamiento, coordinación, planeación de actividades y evaluación de resultados, estarán sujetos a los procedimientos y normas que al efecto establezca el Ejecutivo Federal por conducto de la Secretaría, los que deberán observarse por las dependencias y entidades de la administración pública federal. Los poderes, en el ámbito de su competencia, colaborarán en la integración de dichos sistemas.
 
-El Ejecutivo Federal propondrá a los gobiernos de las entidades federativas y a las autoridades de los municipios, su integración a los sistemas nacionales para cuyo efecto pactará lo conducente con los gobiernos respectivos. La adhesión a los sistemas nacionales por la que se pronuncien los gobiernos de los estados y las autoridades municipales, deberán efectuarse en forma integral, a efecto de que en la ejecución de las actividades de producción de información estadística y geográfica de su competencia, coadyuven al desarrollo de los sistemas nacionales.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+La ejecución de las actividades entre la Federación y los Estados, deberá ser objeto de los convenios y acuerdos que se celebren para el desarrollo integral del país y la coordinación de las acciones relativas, respectivamente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+El Ejecutivo Federal en el marco de los mencionados convenios y acuerdos, propondrá a los gobiernos locales que los órganos de participación a nivel regional, cuya integración prevé esta Ley en los artículos 24 y 27, se incorporen a las instancias y procedimientos participativos que respecto de la planeación estatal del desarrollo, funcionen en las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 14.
 
-La ordenación y regulación de las actividades necesarias para la debida integración de los sistemas nacionales se llevará a cabo a través de los planes nacional, sectoriales y regionales de desarrollo de estadística y de información geográfica. La elaboración y revisión de éstos, a través de los procedimientos participativos establecidos por esta Ley, serán responsabilidad, respectivamente de la Secretaría, de las dependencias que funjan como coordinadoras de sector en los términos de la Ley Orgánica de la Administración Pública Federal, y de los gobiernos de las entidades federativas y de los municipios. Dichos gobiernos, conjuntamente con el Ejecutivo Federal, convendrán los procedimientos para aprobar los planes regionales así como los demás que se requieran para su adecuada ejecución y para la observancia de las normas y disposiciones de carácter general que dicte el Ejecutivo Federal por conducto de la Secretaría, en los términos de esta Ley.
+La ordenación y regulación de las actividades necesarias para la debida integración de los sistemas nacionales se llevará a cabo a través de los programas nacional, sectoriales y regionales de desarrollo de estadística y de información geográfica. La elaboración y revisión de éstos, a través de los procedimientos participativos establecidos por esta Ley, serán responsabilidad, respectivamente, de la Secretaría, de las dependencias que funjan como coordinadoras de sector en los términos de la Ley Orgánica de la Administración Pública Federal, y de los gobiernos de las entidades federativas y de los municipios. El Ejecutivo Federal, conjuntamente con dichos gobiernos, convendrán los procedimientos para elaborar los programas regionales, así como los demás que se requieran para su adecuada ejecución y para la observancia de las normas y disposiciones de carácter general que dicte el Ejecutivo Federal por conducto de la Secretaría, en los términos de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 15.
 
-El Plan Nacional de Desarrollo de Estadística y de Información Geográfica estará sujeto a un proceso permanente de análisis y evaluación, y deberá formularse conforme a los siguientes principios:
+El Programa Nacional de Desarrollo de Estadística y de Información Geográfica estará sujeto a un proceso permanente de análisis y evaluación y deberá formularse conforme a los siguientes principios:
 
 I.- Constituirá el instrumento rector de la ordenación y regulación de las actividades a realizar por las unidades que integren los sistemas nacionales;
 
 II.- Establecerá las actividades prioritarias en las materias de estadística y de información geográfica;
 
-III.- Jerarquizará los objetivos y metas a alcanzar para el desarrollo de los sistemas nacionales y se apoyará en las acciones y medidas que deban ejecutarse a corto, mediano y largo plazo, en congruencia con la planeación económica y social;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+III.- Jerarquizará los objetivos y metas a alcanzar para el desarrollo de los sistemas nacionales y se apoyará en las acciones y medidas que deban ejecutarse a corto, mediano y largo plazo, en congruencia con la planeación nacional del desarrollo;
 
 IV.- Definirá la política a que deberán ceñirse las dependencias y entidades de la administración pública federal y los poderes en la realización de actividades relacionadas con la estadística y la información geográfica;
 
 V.- Fijará las bases generales conforme a las cuales se centralizarán las acciones de coordinación y de carácter normativo en la Secretaría y se descentralizarán las funciones y responsabilidades en la captación, producción, procesamiento, presentación y difusión de la información estadística y geográfica;
 
-VI.- Tomará en consideración la participación de las dependencias y entidades, y de los poderes e instituciones sociales y privadas en la elaboración del plan, y
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+VI.- Tomará en consideración la participación de las dependencias y entidades, y de los poderes e instituciones sociales y privadas en la elaboración del programa, y
 
 VII.- Garantizará el servicio público de información estadística y geográfica, atendiendo a las necesidades de información que se detecten a través de las consultas que se formulen a los sistemas nacionales por el público usuario, y en lo relativo al mejor conocimiento de la realidad económica y social del país.
 
@@ -229,6 +269,10 @@ Para los efectos del artículo anterior, la Secretaría, en coordinación con la
 
 Para los efectos de la debida integración de los sistemas nacionales, la Secretaría emitirá criterios de carácter general, a fin de dar unidad a los procesos de producción de información de estadísticas básicas y derivadas, así como también a las características y modalidades de presentación de la información. Para este efecto normará y uniformará las clasificaciones y procedimientos operativos que se utilicen para captar, organizar, procesar y divulgar datos estadísticos y geográficos.
 
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+La Secretaría vigilará el cumplimiento de estas normas y estará facultada para autorizar la procedencia de los instrumentos de captación, procesamiento y publicación de información estadística y geográfica que utilicen los servicios nacionales, de conformidad con las disposiciones de esta Ley y de su Reglamento.
+
 Con el objeto de garantizar la homogeneidad y comparabilidad de la información, la Secretaría deberá proveer y generalizar, desde la captación y procesamiento de la información, hasta la etapa de su presentación, el uso de definiciones, términos, clases, grupos, nomenclaturas, signos, abreviaturas, indicadores, identificadores, directorios, símbolos, delimitaciones geográficas y demás elementos que a estos fines sean indispensables.
 
 ###### ARTICULO 20.
@@ -245,7 +289,9 @@ La Secretaría; las unidades de estadística y de información geográfica de la
 
 Para la integración y desarrollo de los sistemas nacionales, las unidades a que se refiere el artículo anterior participarán, conforme a está Ley, en:
 
-I.- Elaborar y ejecutar los planes nacionales, sectoriales y regionales de desarrollo de estadística y de información geográfica;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+I.- Elaborar y ejecutar los programas nacional, sectoriales y regionales de desarrollo de estadística y de información geográfica;
 
 II.- La coordinación con la Secretaría y la observancia de las bases, normas y principios que ésta fije para prestar el servicio público de información estadística y geográfica, así como para captar, procesar y difundir la información que provenga de los niveles sectoriales y regionales;
 
@@ -255,13 +301,17 @@ IV.- Impulsar el estudio y las investigaciones en el campo del conocimiento de l
 
 V.- Realizar las demás actividades complementarias para el cumplimiento de las previsiones anteriores.
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 23.
 
-Las unidades de las entidades de la administración pública federal responsables de la captación, generación y presentación de los datos de carácter sectorial para los sistemas nacionales, serán coordinadas en la ejecución de sus funciones por la dependencia coordinadora del sector correspondiente, debiendo además apegarse a los lineamientos establecidos por el plan sectorial de desarrollo de estadística y de información geográfica respectivo y a las normas y disposiciones técnicas aplicables.
+Las unidades de las entidades de la Administración Pública Federal responsables de la captación, generación y presentación de los datos de carácter sectorial para los sistemas nacionales, serán coordinadas en la ejecución de sus funciones por la dependencia coordinadora del sector correspondiente, debiendo además apegarse a los lineamientos establecidos por el programa sectorial de desarrollo de estadística y de información geográfica respectivo y a las normas y disposiciones técnicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 24.
 
-Para la elaboración y ejecución de los planes nacional, sectoriales y regionales de desarrollo de estadística y de información geográfica, se instituyen las siguientes instancias de participación:
+Para la elaboración y ejecución de los programas nacional, sectoriales y regionales de desarrollo de estadística y de información geográfica, se instituyen las siguientes instancias de participación:
 
 I.- Los Comités Técnicos Consultivos de Estadística y de Información Geográfica;
 
@@ -281,7 +331,9 @@ La Secretaría fungirá como secretariado técnico de normas en los diferentes c
 
 Compete a los Comités Técnicos Consultivos de Estadística y de Información Geográfica, opinar respecto de:
 
-I.- Las prioridades a señalar por el Plan Nacional de Desarrollo de Estadística y de Información Geográfica;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+I.- Las prioridades a señalar por el Programa Nacional de Desarrollo de Estadística y de Información Geográfica;
 
 II.- Los cuestionarios, procedimientos de recolección y normas de coordinación;
 
@@ -293,13 +345,17 @@ IV.- La colaboración de las dependencias y entidades de la administración púb
 
 Compete a los Comités Técnicos Sectoriales y Estadística y de Información Geográfica:
 
-I.- Elaborar y vigilar la ejecución de los planes sectoriales de desarrollo de estadística y de información geográfica, y
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+I.- Elaborar y vigilar la ejecución de los programas sectoriales de desarrollo de estadística y de información geográfica, y
 
 II.- Ser el conducto para transmitir y vigilar el cumplimiento de las normas y disposiciones de carácter general que se expidan para captar, procesar y presentar la información estadística y geográfica que se produzca en el sector.
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 27.
 
-Compete a los Comités Técnicos Regionales de Estadística y de Información Geográfica, establecer los procedimientos de coordinación y participación de los gobiernos de las entidades federativas, en la elaboración de los Planes Nacional y Regionales de Desarrollo de Estadística y de Información Geográfica y para la ejecución y cumplimiento de los principios, bases y normas que hubieren sido establecidos entre los diferentes niveles de gobierno para el desarrollo de los servicios estatales y municipales y su integración a los sistemas nacionales.
+Compete a los Comités Técnicos Regionales de Estadística y de Información Geográfica, establecer los procedimientos de coordinación y participación de los gobiernos de las entidades federativas, en la elaboración de los Programas Nacional y Regionales de Desarrollo de Estadística y de Información Geográfica y para la ejecución y cumplimiento de los principios, bases y normas que hubieren sido establecidos entre los diferentes niveles de gobierno para el desarrollo de los servicios estatales y municipales y su integración a los sistemas nacionales.
 
 ###### ARTICULO 28.
 
@@ -307,7 +363,9 @@ Compete a los Comités Técnicos Especiales de Estadística y de Información Ge
 
 I.- Opinar respecto de los cuestionarios, procedimientos de recolección y normas de coordinación específicas para los poderes;
 
-II.- Elaborar y vigilar la ejecución de los Planes Especiales de Desarrollo de Estadística y de Información Geográfica que se requieran, y
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+II.- Elaborar y vigilar la ejecución de los Programas Especiales de Desarrollo de Estadística y de Información Geográfica que se requieran en el ámbito de competencia de los poderes, y
 
 III.- Ser el conducto para transmitir y vigilar el cumplimiento de las normas y disposiciones de carácter general que se expidan para captar, procesar y presentar la información estadística y geográfica que se produzca en los poderes.
 
@@ -331,13 +389,31 @@ IV.- Planear, promover y operar la organización y desarrollo de un sistema inte
 
 V.- Evaluar la información estadística y geográfica de carácter sectorial y estatal captada, procesada y presentada conforme a lo dispuesto en esta Ley por las unidades que integran los sistemas nacionales en el ámbito de sus respectivas competencias, así como dictar normas de control y verificación de la calidad de la información;
 
-VI.- Asesorar a la Secretaría de Relaciones Exteriores en materia de tratados, convenios o acuerdos internacionales en que participe el Gobierno de México, cuando se establezcan derechos y obligaciones en materia de información estadística y geográfica, así como aquéllos que versen sobre límites del territorio nacional, y efectuar, con la intervención de las dependencias de la administración pública federal que resulten competentes, los trabajos cartográficos en cumplimiento de tratados o convenios internacionales, y con la participación de los gobiernos de la entidades federativas que corresponda, en la definición y demarcación de límites internacionales, incluyendo la zona económica exclusiva,
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
-VII.- Las demás que conforme a esta Ley le correspondan y las que fueren necesarias para ejercer las mencionadas anteriormente.
+VI.- Asesorar a la Secretaría de Relaciones Exteriores en materia de tratados, convenios o acuerdos internacionales en que participe el Gobierno de México, cuando se establezcan derechos y obligaciones en materia de información estadística y geográfica e informática, así como aquéllos que versen sobre límites del territorio nacional, y efectuar, con la intervención de las dependencias de la Administración Pública Federal que resulten competentes, los trabajos cartográficos en cumplimiento de tratados o convenios internacionales y con la participación de los Gobiernos de la Entidades Federativas que corresponda, en la definición y demarcación de límites internacionales, incluyendo la zona económica exclusiva;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+VII.- Normar y coordinar los servicios de informática para los fines a que esta Ley se refiere, así como formular las políticas a las que se sujetarán dichos servicios y promover e integrar las instancias de participación y consulta que coadyuven al desarrollo de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+VIII.- Desarrollar programas de investigación y capacitación en materia de estadística, geografía e informática e integrar las áreas de especialización que estos programas requieran para la impartición de cursos y desarrollo de la investigación;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+IX.- Publicar, reproducir y proporcionar otros servicios directamente o en colaboración con otras unidades de los sistemas a que esta Ley se refiere, y
+
+X.- Las demás que conforme a esta Ley le correspondan y las que fueren necesarias para ejercer las mencionadas anteriormente.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 31.
 
-Al formular el proyecto de Presupuesto de Egresos de la Federación, la Secretaría verificará que los programas relativos a estadística e información geográfica, observen las normas establecidas por la misma, en los términos de esta Ley.
+Al formular el proyecto de Presupuesto de Egresos de la Federación y en el ejercicio de las partidas presupuestales autorizadas, la Secretaría verificará que los programas relativos a estadística, información geográfica e informática, observen las normas establecidas por la misma en los términos de esta Ley.
+
+Las dependencias vigilarán que las entidades del sector que coordinen, observen lo previsto en este artículo.
 
 ###### ARTICULO 32.
 
@@ -353,29 +429,21 @@ IV.- Las instituciones sociales y privadas, y
 
 V.- Los particulares.
 
-### CAPITULO IV. Del Instituto Nacional de Investigación y Capacitación en Estadística y Geografía
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO IV. Del Instituto Nacional de Estadística, Geografía e Informática
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría organizará el Instituto Nacional de Investigación y Capacitación en Estadística y Geografía con el objeto de realizar investigaciones para mejorar los procedimientos, métodos y técnicas en el campo de la estadística y de la geografía, así como para capacitar y formar a los funcionarios y técnicos que requiera la adecuada integración y desarrollo de los sistemas nacionales.
+El Instituto Nacional de Estadística, Geografía e Informática es un órgano desconcentrado de la Secretaría, por conducto del cual, ésta ejercerá la facultades que le otorga la presente Ley, salvo aquéllas que le sean atribuidas expresamente, en las materias que la misma regula, a su titular, por otras disposiciones legales y reglamentarias.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 34.
 
-El Instituto tendrá las siguientes funciones:
-
-I.- Realizar las investigaciones necesarias para el desarrollo y mejoramiento de los sistemas nacionales;
-
-II.- Desarrollar los programas de capacitación de funcionarios y técnicos de la administración pública federal y de los poderes, en la materia;
-
-III.- Capacitar, cuando se le solicite, a los funcionarios y empleados de las entidades federativas y de los municipios, y cuando los programas lo permitan a personas de las instituciones sociales y privadas para la producción de información a la que se refiere esta Ley;
-
-IV.- Establecer un centro de documentación de información estadística y geográfica;
-
-V.- Publicar y difundir los resultados de sus investigaciones y trabajos;
-
-VI.- Coordinarse con las entidades y demás instituciones dedicadas a la enseñanza e investigación, nacionales y extranjeras, a fin de impulsar la especialización, actualización de profesionales a intercambio de conocimientos en materia de estadística y de geografía, y
-
-VII.- Proporcionar a las unidades responsables de los sistemas nacionales material adecuado para la capacitación de su personal, de informantes y de usuarios, así como los documentos técnicos y científicos que sean necesarios para el buen desarrollo de dichos sistemas.
+El Instituto Nacional de Estadística, Geografía e Informática afectará al mismo concepto los ingresos derivados de las cuotas por los servicios de investigación y capacitación que preste, así como los que provengan de la venta de publicaciones, reproducciones y otros servicios en materia de estadística, información geográfica e informática que produzca directamente o en colaboración con otras unidades de los servicios y sistemas a que esta Ley se refiere, a efecto de recuperar su costo de producción y continuar proporcionando dichos servicios.
 
 ### CAPITULO V. De los Derechos y Obligaciones de los Usuarios e Informantes
 
@@ -383,13 +451,17 @@ VII.- Proporcionar a las unidades responsables de los sistemas nacionales materi
 
 Para los fines de la presente Ley, son usuarios de los sistemas nacionales, las dependencias y entidades de la administración pública federal, los gobiernos de las entidades federativas, las autoridades municipales, los poderes e instituciones sociales y privadas, así como los particulares que utilicen el servicio público de información estadística y geográfica.
 
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+Los usuarios de los sistemas nacionales podrán consultar gratuitamente la información estadística y geográfica en los centros de servicio al público de la Secretaría.
+
 ###### ARTICULO 36.
 
 Serán considerados informantes de los sistemas nacionales:
 
 I.- Las personas físicas y morales, cuando les sean solicitados datos estadísticos y geográficos por las autoridades competentes;
 
-II.- Las unidades económicas, empresas y establecimientos industriales, comerciales, agropecuarios, forestales y pesqueros, así como los dedicados a la producción o venta de bienes o servicios de cualquier clase; las sociedades, asociaciones civiles y las instituciones sociales o privadas con fines no lucrativos, las docentes y culturales que estén obligadas a inscribirse o a proporcionar datos en los registros administrativos, a que se refiere el artículo 8o. de este ordenamiento
+II.- Las unidades económicas, empresas y establecimientos industriales, comerciales, agropecuarios, forestales y pesqueros, así como los dedicados a la producción o venta de bienes o servicios de cualquier clase; las sociedades, asociaciones civiles y las instituciones sociales o privadas con fines no lucrativos, las docentes y culturales que estén obligadas a inscribirse o a proporcionar datos en los registros administrativos, a que se refiere el artículo 8o. de este ordenamiento;
 
 III.- Los funcionarios y empleados de la Federación, así como los de los gobiernos de los Estados y de los Municipios, en los términos en que se convengan con el Ejecutivo Federal; los directores, gerentes y demás empleados de las entidades paraestatales o de otras instituciones sociales y privadas, y
 
@@ -421,7 +493,11 @@ III.- La posibilidad del ejercicio del derecho de rectificación;
 
 IV.- La confidencialidad en la administración de la información estadística que proporcionen, y
 
-V.- La forma en que será divulgada o suministrada la información.
+V.- La forma en que será divulgada o suministrada la información;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
+VI.- El plazo para proporcionar la información, que deberá fijarse conforme a la naturaleza y características de la información a rendir.
 
 Las anteriores previsiones deberán aparecer en los cuestionarios y documentos que se utilicen para recopilar datos estadísticos, o se harán del conocimiento de los informantes, al captar la información estadística o geográfica.
 
@@ -535,9 +611,11 @@ III.- Cometan actos o incurran en omisiones que impidan el desarrollo normal de 
 
 Para los efectos de este artículo, serán considerados como recolectores o censores, las personas a las que la Secretaría encomiende labores propias de recolección y recopilación de información estadística y geográfica en forma periódica o durante el levantamiento censal, y como auxiliares, quienes desempeñen cualquier otra actividad relacionada con el proceso de elaboración de la estadística y la obtención de datos de carácter geográfico.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 51.
 
-La comisión de cualquiera de las infracciones a que se refieren los artículos 48, 49 y 50 dará lugar a que la Secretaría aplique sanciones administrativas que consistirán en multa de $500.00 a $150,000.00.
+La Comisión de cualesquiera de las infracciones a que se refieren los artículos 48, 49 y 50 dará lugar a que la Secretaría aplique sanciones administrativas, que consistirán en multa desde una hasta setecientas cincuenta veces el salario mínimo diario vigente en el Distrito Federal en el momento de la comisión de la infracción.
 
 En la imposición de estas sanciones, la Secretaría tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
 
@@ -578,3 +656,11 @@ TERCERO.- En tanto el Ejecutivo Federal expide el Reglamento de esta Ley, contin
 México, D. F., 23 de diciembre de 1980.- José Murat, D. P.- Graciliano Alpuche Pinzón, S. P.- David Jiménez González, D. S.- Reyes Rodolfo Flores Zaragoza, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Programación y Presupuesto, Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE DICIEMBRE DE 1983.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
