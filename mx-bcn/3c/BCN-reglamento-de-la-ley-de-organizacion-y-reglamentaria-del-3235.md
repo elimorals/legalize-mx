@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-organizacion-y-reglamentaria-del-3235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-13"
-last_updated: "1993-08-13"
+last_updated: "1993-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de agosto de 1993.
 
@@ -55,6 +55,10 @@ El Registrador no podrá rectificar algún error, si no se acredita con los docu
 
 Procede la reposición de los asientos registrales cuando por su destrucción o mutilación se haga imposible establecer el tracto sucesivo entre los efectuados y los posteriores.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+El Registrador procederá a cancelar la imagen que obre integrada en los dispositivos de almacenamiento óptico que se seleccionen, cuando se incurren en los casos señalados en el párrafo anterior y en el artículo 3o. del presente reglamento.
+
 ### CAPITULO III. DE LA PUBLICIDAD DE INSCRIPCION
 
 ###### ARTICULO 6.
@@ -73,17 +77,25 @@ Cuando se utilice el sistema electrónico las inscripciones automatizadas conten
 
 ### CAPITULO IV. DEL REGISTRO INMOBILIARIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 9.
 
-Tratándose de documentos públicos o privados referentes a actos traslativos de dominio, deberá acompañarse de la documentación siguiente:
+Tratándose de documentos públicos o privados por virtud de los cuales se establezca, declare, reconozca, trasmita, modifique o extinga la propiedad de bienes inmuebles, deberá acompañarse siguiente documentación:
 
-I.- Deslinde catastral, debidamente autorizado por la Dirección de Catastro.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-II.- Avalúo expedido por la Comisión Estatal de Avalúos, Instituciones Bancarias o Perito Valuador autorizado.
+I.- Deslinde Catastral, debidamente autorizado por la Dirección de Catastro, con excepción de los terrenos destinados a favor del Gobierno del Estado o de los Municipios en los términos del artículo 70 del Reglamento de fraccionamientos del Estado de Baja California, en estos casos bastará la exhibición del plano autorizado por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, o Dirección de Catastro Municipal correspondiente.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+II.- Avalúo expedido por la Comisión Estatal de Avalúos, Instituciones Bancarias o perito valuador autorizado, con excepción de los terrenos destinados al Gobierno del Estado o Municipios en los términos del artículo 70 del Reglamento de Fraccionamientos del Estado de Baja California.
 
 III.- Declaración del impuesto sobre adquisición de bienes inmuebles y trasmisión de dominio.
 
-IV.- Declaración del impuesto sobre adquisición de inmuebles y pago provisional del impuesto sobre la renta por su enajenación.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+IV.- Declaración del impuesto sobre adquisición de inmuebles y pago provisional del impuesto sobre la renta.
 
 V.- Certificado de libertad de gravámenes fiscales expedido por la autoridad correspondiente y que contendrá a su vez: sello y firma correspondiente a la Dirección de Catastro Municipal, Recaudación de Rentas Estatal y Municipal respectivamente, Consejo de Urbanización Municipal, Junta de Urbanización y Comisión Estatal de Servicios Públicos correspondiente.
 
@@ -91,15 +103,11 @@ La documentación enunciada en las fracciones I, II y V tendrá vigencia de un a
 
 ###### ARTICULO 10.
 
-Tratándose de predios rústicos, además de los requisitos señalados en la disposición anterior, deberá presentarse autorización expedida por la Secretaría de la Reforma Agraria.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
-###### ARTICULO 11.
+###### ARTÍCULO 11.
 
-En cualquier contrato en que se otorgue como garantía la unidad industrial, trátese de personas físicas o morales, deberá acompañar a la solicitud de inscripción:
-
-I.- Inventario y valance (sic) de bienes.
-
-II.- Antecedentes de registro.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 12.
 
@@ -117,29 +125,43 @@ II.- Superficie, medidas y colindancias que deberán concordar con su antecedent
 
 Los documentos que sean materia de inscripción consignarán en forma literal los nombres propios contenidos en los antecedentes de registro, a falta de estos datos será admisible la presentación de fé notarial o jurisdicción voluntaria.
 
-### CAPITULO V. DE LAS ANOTACIONES PREVENTIVAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO V. DE LAS INSCRIPCIONES PREVENTIVAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 15.
 
-Las anotaciones preventivas contendrán:
+Para la procedencia de las inscripciones preventivas se requerirá:
 
-I.- Autoridad remitente.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+I.- El señalamiento de la autoridad remitente, en su caso.
 
 II.- Número de expediente.
 
 III.- Naturaleza del procedimiento.
 
-IV.- Acción deducida.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-V.- Resolución a cumplimentar.
+IV.- Acción deducida, en su caso
 
-VI.- Suerte principal.
+V.- (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE DICIEMBRE DE 1993)
 
-VII.- Copia certificada por duplicado.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
-VIII.- Antecedente registral.
+VI.- Suerte principal o en su caso monto de la operación a registrar.
 
-IX.- Indicación de los efectos de la anotación.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+VII.- Descripción específica, tratándose de bienes muebles en los términos del artículo 16 de este reglamento. En el caso de inmuebles descripción que contenga superficie, medidas y colindancias y datos del registro del bien sobre el que recae la inscripción.
+
+VIII.- (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE DICIEMBRE DE 1993)
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+IX.- Indicación de los efectos de la inscripción.
 
 ### CAPITULO VI. DEL REGISTRO INMOBILIARIO
 
@@ -159,11 +181,15 @@ IV.- Ubicación del bien mueble en la jurisdicción correspondiente.
 
 En caso de que la operación que ampara la factura no comprenda la totalidad de los bienes y se acompañará copia certificada de la misma.
 
-### CAPITULO VII. DE LA INSCRIPCION DE RESOLUCIONES ADMINISTRATIVAS Y JUDICIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO VII. DE LA INSCRIPCION DE GRAVAMENES
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 18.
 
-Los registros de cédula hipotecaria procederán cuando el predio de que se trate se encuentre inscrito a nombre de quien se decretó la providencia.
+Las inscripciones de toda clase de gravámenes o contratos de garantía que limiten la propiedad o la posesión de inmuebles, o los actos jurídicos en virtud de los cuales se adquieran, transmitan o modifiquen derechos reales, como embargo, cédula hipotecaria, o secuestro, procederán cuando el predio de que se trate se encuentre inscrito a nombre de quien se decretó la providencia.
 
 ###### ARTICULO 19.
 
@@ -177,9 +203,11 @@ III.- La identidad entre los datos que proporcione el documento y las inscripcio
 
 IV.- Señalamiento expreso de las cantidades es (sic) materia de embargo, cédula, secuestro.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 20.
 
-Cuando los bienes del deudor se encuentren en copropiedad, deberá asentarse tal circunstancia.
+Cuando los bienes del deudor se encuentren en copropiedad, tal circunstancia deberá constar en el documento materia de inscripción.
 
 ###### ARTICULO 21.
 
@@ -188,6 +216,22 @@ Los embargos u otros gravámenes con indicación de cuantías en moneda extranje
 ###### ARTICULO 22.
 
 Si el bien materia de embargo se encuentra inscrito a nombre de uno de los cónyuges, se proporcionará por la autoridad judicial o administrativa los derechos afectables derivados de la sociedad conyugal así como el antecedente de inscripción de las capitulaciones matrimoniales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO VIII. DE LA CANCELACION DE GRAVAMENES
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 23.
+
+Los documentos públicos o privados en los cuales se solicite la liberación de gravámenes, deberán señalar los antecedentes de registro del gravámen que se pretenda cancelar.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 24.
+
+Los documentos referentes a la cancelación de gravamenes, señalarán monto del gravámen o porcentaje del mismo con el propósito de proceder a realizar la tildación. Asimismo nombre de las Partes, descripción del bien mueble o inmueble y personalidad de quienes intervienen en dicho acto.
 
 TRANSITORIOS (SIC).
 
@@ -212,3 +256,11 @@ C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 EL DIRECTOR DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO.
 
 LIC. JOSE ANTONIO BRETON MENA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
