@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2003-01-11"
+last_updated: "2004-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -153,6 +153,8 @@ El Gobernador del Estado podrá salir del territorio del mismo sin permiso de la
 
 ### CAPÍTULO PRIMERO. De las Dependencias del Poder Ejecutivo y sus Titulares
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 10.
 
 Las dependencias del Poder Ejecutivo que integran la administración pública centralizada, son las siguientes:
@@ -171,13 +173,15 @@ VI. Secretaría de Desarrollo Agropecuario;
 
 VII. Secretaría de Desarrollo Económico;
 
-VIII. Oficialía Mayor;
+VIII. Secretaría de Turismo
 
-IX. Procuraduría General de Justicia del Estado;
+IX. Oficialía Mayor;
 
-X. Contraloría Interna; y
+X. Procuraduría General de Justicia del Estado;
 
-XI. Coordinación General Jurídica.
+XI. Contraloría Interna; y
+
+XII. Coordinación General Jurídica.
 
 ###### Artículo 11.
 
@@ -671,11 +675,71 @@ XXV. Desarrollar un modelo exportador a través del apoyo y asesoría a las empr
 
 XXVI. Organizar y promover, con la participación de los sectores productivos, ferias, exposiciones y congresos industriales, comerciales, mineros, artesanales y de servicios, así como campañas de promoción del Estado en el país y el extranjero;
 
-XXVII. Actuar como coordinadora de sector, participar en el órgano de gobierno, así como supervisar y evaluar el cumplimiento de los planes y programas del Consejo Estatal de Turismo y el Instituto de Desarrollo Artesanal del Estado;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2004)</small>
+
+XXVII. Actuar como coordinadora de sector, participar en el órgano de gobierno, así como supervisar y evaluar el cumplimiento de los planes y programas del Instituto de Desarrollo Artesanal del Estado;
 
 XXVIII. Intervenir con la Secretaría de Finanzas y, en su caso, con la Secretaría de Desarrollo Agropecuario, en la determinación de estímulos fiscales para el fomento de la producción y establecimiento de empresas y artesanías;
 
 XXIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
+
+###### Artículo 30 Bis.
+
+A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
+
+I. Programar, organizar, promover, fomentar y coordinar planes, programas y proyectos para desarrollar el turismo en el Estado, de conformidad con los objetivos y metas del Plan Estatal de Desarrollo;
+
+II. Elaborar el Programa Estatal de Turismo con apoyo de los sectores público, social y privado;
+
+III. Someter a la consideración del Titular del Ejecutivo la celebración de convenios y acuerdos en materia turística con la federación, otras entidades federativas, municipios, personas físicas o morales nacionales de los sectores social y privado, así como con organismo e instituciones internacionales;
+
+IV. En coordinación con la Secretaría de Desarrollo Económico, promover inversiones en el Estado para proyectos de desarrollo turístico, o en su caso, para la ampliación de los servicios existentes;
+
+V. Proponer al Titular del Ejecutivo la declaratoria de zonas de desarrollo turístico en el Estado y promover ante las dependencias federales competentes, la formulación de declaratorias de zonas de desarrollo turístico prioritario nacionales;
+
+VI. Promover e implementar programa de capacitación y adiestramiento en coordinación con dependencias y entidades de los tres niveles de gobierno, así como con los sectores social y privado, para elevar la calidad y excelencia de los servicios turísticos de la Entidad;
+
+VII. Verificar y vigilar de conformidad con leyes, reglamentos, convenios, acuerdos, normas oficiales mexicanas y demás ordenamientos aplicables, los servicios turísticos de transporte, hospedaje, alimentación, agencias y subagencias de viaje, guías de turistas y otras actividades que se presten en el Estado;
+
+VIII. Vigilar en la esfera de su competencia, el cumplimiento de la Ley Federal de Turismo, su Reglamento y demás disposiciones aplicables en la materia;
+
+IX. Promover en coordinación con las dependencias y entidades de los tres niveles de gobierno competentes, la preservación, conservación y, en su caso, administración de zonas arqueológicas, bienes y monumentos artísticos e históricos, parques recreativos, balnearios, bosques y demás atractivos típicos o naturales de interés turístico, aplicando criterios de sustentabilidad ambiental, social y económico;
+
+X. Fomentar la realización de congresos, convenciones, ferias, festivales, exposiciones, excursiones o cualquier otra actividad similar para promover el turismo en el Estado;
+
+XI. Promover con la participación de los sectores social y privado, los atractivos turísticos del Estado a nivel local, nacional e internacional, así como fomentar y mantener relaciones con organismos en la materia, con el objeto de incrementar el flujo de turistas a la Entidad;
+
+XII. Fomentar el desarrollo del turismo alternativo, social, cultural, deportivo, de aventura y otros similares, procurando la integración de personas con capacidades diferentes y adultos mayores;
+
+XIII. Otorgar y revocar en el ámbito de su competencia, concesiones y permisos para el establecimiento y explotación de recursos turísticos del Estado, promoviendo los estímulos fiscales necesarios para el desarrollo del sector;
+
+XIV. Promover y gestionar la constitución de fondos y fideicomisos que tengan como finalidad el desarrollo turístico de la Entidad, así como intervenir de acuerdo a la normatividad aplicable en el fideicomiso sobre el impuesto al hospedaje;
+
+XV. Estimular la creación de asociaciones, sociedades, comités, patronatos o cualquier otro organismo que tenga como objetivo fomentar el turismo en el Estado;
+
+XVI. Realizar visitas de verificación a los prestadores de servicios turísticos y en su caso, aplicar las sanciones en los términos de la legislación aplicable;
+
+XVII. Impulsar la creación del Consejo Consultivo Turístico del Estado, integrando en su seno a los sectores social y privado relacionados con la actividad turística;
+
+XVIII. Promover en los Municipios la vocación turística de la Entidad, la constitución de órganos municipales de turismo, así como de consejos consultivos de turismo municipales y en su caso, coordinarse con los mismos;
+
+XIX. Diseñar, instrumentar y mantener actualizado el Registro Estatal de Turismo;
+
+XX. Proponer a la Secretaría de Desarrollo Económico en los términos de la Ley de Mejora Regulatoria del Estado de Zacatecas y sus Municipios, la desregulación de trámites que obstaculicen el desarrollo de la actividad turística de la Entidad;
+
+XXI. Elaborar y proponer al Titular del Ejecutivo, por conducto de la Coordinación General Turística, los proyectos de iniciativas, reglamentos, convenios, acuerdos y demás disposiciones legales en materia turística;
+
+XXII. Atender las quejas y canalizar a las autoridades competentes, las denuncias que se formulen respecto de los prestadores de servicios turísticos;
+
+XXIII. Establecer, organizar y promover el Sistema Estatal de Protección al Turista, proporcionando los servicios de información, orientación, protección y auxilio a los turistas, en coordinación con dependencias y entidades de los tres niveles de gobierno y en su caso, con organismos de los sectores social y privado, así como instalar y administrar los módulos de información en terminales aéreas, terrestres, ferroviarias y en general de los centros de mayor afluencia turística en el Estado;
+
+XXIV. Proponer a la Secretaría de Educación y Cultura y demás dependencias y entidades competentes, la implementación de planes y programas educativos y de capacitación en materia de turismo;
+
+XXV. Fomentar la cultura turística entre la población, y
+
+XXVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 31.
 
@@ -996,3 +1060,19 @@ P.O. 11 DE ENERO DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las disposiciones de ley o de reglamento, que se opongan a aquél.
+
+P.O. 25 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de Enero del año 2005.
+
+SEGUNDO.- Se abrogan los siguientes ordenamientos:
+
+Decreto que crea el Consejo Estatal de Turismo, publicado en Suplemento 2 al número 24 del Periódico Oficial, Organo del Gobierno del Estado, correspondiente al día 24 de marzo de 2001.
+
+Estatuto Orgánico del Consejo Estatal de Turismo, publicado en Suplemento al número 22 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 16 de Marzo de 2002.
+
+Asimismo se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO.- Los recursos humanos, materiales y financieros con los que actualmente cuenta el Consejo Estatal de Turismo, pasarán a formar parte de la Secretaría de Turismo, debiéndose respetar los derechos laborales que los servidores públicos hubieren adquirido.
+
+CUARTO.- La Secretaría de Finanzas deberá incluir e4n Presupuesto de Egresos del Estado para el Ejercicio Fiscal de dos mil cinco, a la Secretaría de Turismo.
