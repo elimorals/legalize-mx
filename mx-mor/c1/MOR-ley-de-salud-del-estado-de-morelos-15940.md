@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-15940"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-19"
-last_updated: "2000-01-19"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el 19 de enero de 2000.
 
@@ -2539,31 +2539,29 @@ XI.- En los demás casos en que conforme a esta Ley y demás disposiciones aplic
 
 Cuando la revocación de una autorización se funde en riesgos o daños que pueda causar un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y Entidades públicas que tengan atribuciones de orientación al consumidor.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 319.
 
-En los casos que se refiere el artículo 317, con excepción del previsto en la fracción VIII, la autoridad sanitaria citará al interesado a una audiencia, para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
+En los casos a que se refiere el artículo 317, con excepción del previsto en la fracción XVII, la autoridad sanitaria notificará personalmente al interesado la determinación fundada y motivada de revocar la autorización sanitaria que tenga éste a su favor, corriéndole traslado con las copias simples de las constancias del expediente que al respecto se haya formado; debiendo hacer además del conocimiento del interesado, que cuenta con un plazo de 30 días hábiles para recurrir a través de la impugnación prevista en la Ley de Procedimiento Administrativo para el Estado de Morelos, la determinación que contenga la revocación de la autorización sanitaria.
 
-En el citatorio que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, el día y hora en que deberá tener lugar la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su derecho convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta solo las constancias del expediente.
-
-La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente de la notificación.
-
-En los casos en que las autoridades sanitarias del Estado, fundadamente, no puedan realizar la notificación en forma personal, ésta se practicará por medio de una publicación en el Periódico Oficial " Tierra y Libertad", órgano del Gobierno del Estado y en uno de los diarios de mayor circulación en el Estado.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002.)</small>
 
 ###### Artículo 320.
 
-En la substanciación del procedimiento de revocación de autorizaciones, se observará lo dispuesto en los artículos 383 y 390 de esta Ley.
+En la substanciación del procedimiento de revocación de autorizaciones, se admitirá toda clase de medios probatorios, excepto la confesional; al efecto, será de aplicación supletoria lo dispuesto por el Código Civil para el Estado Libre y Soberano de Morelos.
 
 ###### Artículo 321.
 
-La audiencia se celebrará el día y horas señalados, con o sin asistencia del interesado. En este último caso se deberá dar cuenta con la copia del citatorio que se hubiere girado al interesado y con la constancia que acredite que fue debidamente entregado, o con el ejemplar, en su caso, del Periódico Oficial "Tierra y Libertad" y del diario de mayor circulación en el Estado en que se hubiere publicado el citatorio.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 322.
 
-La celebración de la audiencia podrá diferirse por una sola vez, cuando el interesado lo solicite por causa debidamente justificada.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 323.
 
-La autoridad sanitaria competente emitirá la resolución que corresponda al concluir la audiencia, o dentro de los cinco días hábiles siguientes. La resolución se notificará de manera personal al interesado.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 324.
 
@@ -2981,63 +2979,55 @@ Cuando del contenido de un acta de verificación se desprende la posible comisi�
 
 RECURSO DE INCONFORMIDAD.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 379.
 
-Contra los actos y resoluciones que dicten las autoridades sanitarias del Estado, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad.
+Contra los actos y resoluciones que dicten las autoridades sanitarias del estado, que con motivo de la aplicación de esta ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de impugnación.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 380.
 
-El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquel en que se hubiere notificado la resolución o el acto que se recurra.
+Para la interposición y substanciación del procedimiento administrativo a que se refiere el articulo anterior, se observarán los requisitos y las formalidades previstas en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ###### Artículo 381.
 
-El recurso se interpondrá ante la unidad administrativa que hubiere dictado la resolución o el acto combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 382.
 
-En el escrito se precisará el nombre y domicilio de quien promueva; los hechos objeto del recurso; la fecha en que manifieste el recurrente, bajo protesta de decir verdad, que tuvo conocimiento de la resolución o del acto impugnado; los agravios, que a juicio del recurrente, le cause la resolución o el acto impugnado; la mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto o el ofrecimiento de las pruebas que el inconforme se proponga rendir.
-
-Al escrito deberán acompañarse los siguientes:
-
-I.- Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocida con anterioridad por la autoridad sanitaria competente en la instancia o expediente que concluyo con la resolución impugnada;
-
-II.- Los documentos que el recurrente ofrezca como prueba y que tenga relación inmediata y directa con la resolución o acto impugnado; y
-
-III.- Original de la resolución impugnada, en su caso.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 383.
 
-En la tramitación del recurso se admitirán toda clase de medios probatorios, excepto la confesional.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 384.
 
-Al recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de cinco días hábiles.
-
-En el caso que la unidad citada considere, previo estudio de los antecedentes respectivos, que procede su desechamiento, emitirá opinión técnica en tal sentido.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 385.
 
-En la substancia del recurso sólo procederán las pruebas que se hayan ofrecido en la instancia o expediente que concluyó con la resolución o acto impugnado y las supervinientes.
-
-Las pruebas ofrecidas que procedan, se admitirán por el área competente que deba continuar el trámite del recurso y para su desahogo, en su caso, se dispondrá de un término de treinta días hábiles contados a partir de la fecha en que hayan sido admitidas.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 386.
 
-En caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles, contados a partir del auto admisorio y, de inmediato, remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que deba continuar el trámite del recurso.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 387.
 
-El Titular del Poder Ejecutivo del Estado y los titulares de los H. Ayuntamientos, en el ámbito de su competencia, resolverán los recursos que se interpongan, de conformidad con esta Ley, y al efecto, podrán confirmar, modificar o revocar el acto o resolución que se haya combatido.
-
-Dichas autoridades en uso de las facultades que les confiere la legislación aplicable, podrán delegar dicha atribución, debiéndose publicar el acuerdo respectivo en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### Artículo 388.
 
-A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las autoridades sanitarias éstas las orientarán sobre el derecho que tienen de recurrir la resolución o el acto de que se trate y sobre la tramitación del recurso.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 389.
 
-La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
+La interposición del procedimiento administrativo suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal, tratándose de otro tipo de actos o resoluciones, la interposición del procedimiento administrativo suspenderá su ejecución, siempre y cuando se satisfagan los siguientes requisitos.
 
 Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución, siempre y cuando se satisfagan los siguientes requisitos:
 
@@ -3049,7 +3039,7 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 ###### Artículo 390.
 
-En la tramitación del recurso de inconformidad se aplicará supletoriamente el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ### CAPÍTULO V. PRESCRIPCIÓN
 
@@ -3130,3 +3120,11 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 2002.
+
+Primero.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
