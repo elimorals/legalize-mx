@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1995-10-08"
+last_updated: "1997-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 1997.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -10339,9 +10339,13 @@ El que tuviere contra sí varias deudas en favor de un sólo acreedor, podrá de
 
 Si el deudor no hiciere la referida declaración se entenderá hecho el pago por cuenta de la deuda que le fuere más onerosa entre las vencidas. En igualdad de circunstancias, se aplicará a la más antigua; y siendo todas de la misma fecha, se distribuirá entre todas ellas a prorrata.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1997)</small>
+
 ###### Artículo 1965.
 
-Las cantidades pagadas a cuenta de deudas con interés, no se imputarán al capital mientras hubiere intereses vencidos y no pagados, salvo convenio en contrario.
+Las cantidades pagadas a cuenta de deudas con interés, se aplicarán cincuenta por ciento a capital y cincuenta por ciento a intereses vencidos si los hubiere, salvo convenio en contrario.
+
+Los intereses que se estipulen en cualquier operación o contrato de carácter civil que se celebre, deberán ajustarse a lo establecido en el Artículo 2266 de este Código.
 
 ###### Artículo 1966.
 
@@ -11801,9 +11805,11 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1997)</small>
+
 ###### Artículo 2266.
 
-El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal es del nueve por ciento anual. El interés convencional es el que fijen los contratantes y puede ser menor que el interés legal, pero no podrá exceder en más de un treinta por ciento a la tasa de interés de instrumentos de captación bancaria, a sesenta días para personas físicas, que publique el Banco de México en el último ejemplar del Diario Oficial de la Federación, del mes inmediato anterior al día en que se pacte o genere la obligación a pagar dicho interés. Lo anterior, de ninguna manera será aplicable a las operaciones que celebren los integrantes del sistema financiero mexicano, ni para aquéllas operaciones que la ley estime como mercantiles.
 
 ###### Artículo 2267.
 
@@ -15426,3 +15432,7 @@ Las patrimonios constituidos conforme a las reglas de este Código, con anterior
 ###### ARTICULO TERCERO.
 
 Los procedimientos iniciados para constituir el patrimonio familiar, con anterioridad al presente Decreto, se continuarán conforme a las reglas anteriores del Código Civil.
+
+P.O. 23 DE MARZO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
