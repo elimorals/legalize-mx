@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1993-12-29"
+last_updated: "1994-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -104,11 +104,21 @@ c).- Hielo y agua no gaseosa ni compuesta, excepto cuando en este último caso, 
 
 d).- Ixtle, palma y lechuguilla.
 
-e).- Tractores para accionar implementos agrícolas, a excepción de los de oruga; motocultores para superficies reducidas; arados; rastras para desterronar la tierra arada; cultivadoras para esparcir y desyerbar; cosechadoras; aspersoras y espolvoreadoras para rociar o esparcir fertilizantes, plaguicidas, herbicidas y fungicidas; equipo mecánico, eléctrico o hidráulico para riego agrícola; sembradoras, ensiladoras, cortadoras y empacadoras de forraje; desgranadoras; abonadoras y fertilizadoras de terrenos de cultivo; aviones fumigadores; motosierras manuales de cadena, así como embarcaciones para pesca comercial, siempre que se reúnan los requisitos y condiciones que señale el Reglamento.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+e).- Tractores para accionar implementos agrícolas, a excepción de los de oruga, así como llantas para dichos tractores; motocultores para superficies reducidas; arados; rastras para desterronar la tierra arada; cultivadoras para esparcir y desyerbar; cosechadoras; aspersoras y espolvoreadoras para rociar o esparcir fertilizantes, plaguicidas, herbicidas y fungicidas; equipo mecánico, eléctrico o hidráulico para riego agrícola; sembradoras; ensiladoras, cortadoras y empacadoras de forraje; desgranadoras; abonadoras y fertilizadoras de terrenos de cultivo; aviones fumigadores; motosierras manuales de cadena, así como embarcaciones para pesca comercial, siempre que se reúnan los requisitos y condiciones que señale el Reglamento.
 
 A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se les aplicará la tasa señalada en este artículo, sólo que se enajenen completos.
 
 f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+g).- Invernaderos hidropónicos y equipos integrados a ellos para producir temperatura y humedad controladas o para proteger los cultivos de elementos naturales, así como equipos de irrigación.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+h).- Oro, joyería, orfebrería, piezas artísticas u ornamentales y lingotes, cuyo contenido mínimo de dicho material sea del 80%, siempre que su enajenación no se efectúe en ventas al menudeo con el público en general.
 
 > <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -116,13 +126,33 @@ Se aplicará la tasa que establece el artículo 1o. a la enajenación de los ali
 
 II.- La prestación de los siguientes servicios independientes:
 
-a).- Los prestados directamente a los agricultores y ganaderos, siempre que sean destinados para actividades agropecuarias, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua; suministro de energía eléctrica para usos agrícolas aplicados al bombeo de aguas para riego; desmontes y caminos en el interior de las fincas agropecuarias; preparación de terrenos; riego y fumigación agrícolas; cosecha y recolección; vacunación, desinfección e inseminación de ganado, así como los de captura y extracción de especies marinas y de agua dulce.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+a).- Los prestados directamente a los agricultores y ganaderos, siempre que sean destinados para actividades agropecuarias, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua; suministro de energía eléctrica para usos agrícolas aplicados al bombeo de agua para riego; desmontes y caminos en el interior de las fincas agropecuarias; preparación de terrenos; riego y fumigación agrícolas; erradicación de plagas; cosecha y recolección; vacunación, desinfección e inseminación de ganado, así como los de captura y extracción de especies marinas y de agua dulce.
 
 b).- Los de molienda o trituración de maíz o de trigo.
 
 c).- Los de pasteurización de leche.
 
-III.- El uso o goce temporal de la maquinaria y equipo a que se refiere el inciso e) de la fracción I de este artículo.
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+d).- Los prestados en invernaderos hidropónicos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+e).- Los de despepite de algodón en rama.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+f).- Los de sacrificio de ganado y aves de corral.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+g).- Los de reaseguro.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+III.- El uso o goce temporal de la maquinaria y equipo a que se refieren los incisos e) y g) de la fracción I de este artículo.
 
 IV.- La exportación de bienes o servicios, en los términos del artículo 29 de esta Ley.
 
@@ -174,9 +204,9 @@ Los contribuyentes a que se refiere este artículo estarán obligados a recabar 
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos, salvo en el caso de los derechos por el servicio, uso, suministro o aprovechamiento de agua.
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos federales.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -214,9 +244,9 @@ II.- Que haya sido trasladado expresamente al contribuyente y que conste por sep
 
 III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos al régimen establecido en el Título II-A o en la Sección II, del Capítulo VI, del Título IV, de la citada Ley.
 
-El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión y escisión de sociedades. En el caso de escisión de sociedades el acreditamiento se efectuará en la proporción en que se divida el capital de la escindente.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -224,23 +254,27 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, determinarán el impuesto al valor agregado a su cargo considerando como impuesto trasladado y acreditable, el que corresponda a los actos o actividades que hayan considerado como entradas o salidas en la citada Ley. Dichos contribuyentes deberán expedir la documentación comprobatoria de sus actividades en la fecha en que efectivamente se cobren los bienes enajenados o los servicios prestados.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+Los contribuyentes que en los términos de los artículos 67-G y 119-J de la Ley del Impuesto sobre la Renta, dejen de tributar conforme al régimen simplificado o al régimen simplificado a las actividades empresariales, para hacerlo de conformidad con el Título II o Título IV, Capítulo VI, Sección I de la citada Ley, acreditarán o, en su caso, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en los citados regímenes, que no se hayan considerado como entradas o salidas en los mismos, en la fecha en que efectivamente se efectúe su pago o cobro, según corresponda.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 5o.
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
+Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el periodo por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
+El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Las sociedades que tengan el carácter de controladoras en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, presentarán la declaración anual dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
@@ -300,9 +334,9 @@ VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata
 
 VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto. En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII.- El oro, así como la joyería, orfebrería, piezas artísticas u ornamentales, cuyo contenido mínimo de dicho material sea del 80%, salvo cuando su enajenación se realice por comerciantes en ventas al menudeo y siempre que se trate de operaciones con el público en general.
+VIII.- Lingotes de oro con un contenido mínimo de 99% de dicho material, siempre que su enajenación se efectúe en ventas al menudeo con el público en general.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -366,7 +400,9 @@ I.- La prestación de obligaciones de hacer que realice una persona a favor de o
 
 II.- El transporte de personas o bienes.
 
-III.- El seguro, el reaseguro, el afianzamiento y el reafianzamiento.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+III.- El seguro, el afianzamiento y el reafianzamiento.
 
 IV.- El mandato, la comisión, la mediación, la agencia, la representación, la correduría, la consignación y la distribución.
 
@@ -384,7 +420,9 @@ Se entenderá que la prestación de servicios independientes tiene la caracterí
 
 No se pagará el impuesto por la prestación de los siguientes servicios:
 
-I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+I.- Las comisiones y otras contraprestaciones que cubra el acreditado a su acreedor con motivo del otorgamiento de créditos hipotecarios para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación, salvo aquéllas que se originen con posterioridad a la autorización del citado crédito o que se deban pagar a terceros por el acreditado.
 
 II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
@@ -392,21 +430,25 @@ II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
 
-IV.- Los de enseñanza, que presten los organismos descentralizados y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley Federal de Educación.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+IV.- Los de enseñanza que preste la Federación, el Distrito Federal, los Estados, los Municipios y sus organismos descentralizados, y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley General de Educación, así como los servicios educativos de nivel preescolar.
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 V.- El transporte público terrestre de personas, excepto por ferrocarril.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VI.- El transporte marítimo de bienes efectuado por personas no residentes en el país.
+VI.- El transporte marítimo internacional de bienes prestado por personas residentes en el extranjero sin establecimiento permanente en el país. En ningún caso será aplicable lo dispuesto en esta fracción tratándose de los servicios de cabotaje en territorio nacional.
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
-IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida, ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes y los reaseguros, que correspondan a los seguros citados.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes que correspondan a los seguros citados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -416,13 +458,13 @@ X.- Por los que deriven intereses que:
 
 a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-b).- Reciban o paguen las instituciones de crédito, las uniones de crédito y las empresas de factoraje financiero, en operaciones de financiamiento para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+b).- Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
 
-> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles. Tratándose de créditos otorgados a personas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades.
+No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles. Tratándose de créditos otorgados a personas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades o se trate de créditos refaccionarios, de habilitación o avío.
 
 > <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -432,9 +474,9 @@ Tampoco será aplicable la exención prevista en el primer párrafo de este inci
 
 c).- Reciban las instituciones de fianzas, las de seguros y las sociedades mutualistas de seguros, en operaciones de financiamiento, excepto tratándose de créditos otorgados a personas físicas que no gozarían de la exención prevista en el inciso anterior.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-d).- Provengan de créditos hipotecarios.
+d).- Provengan de créditos hipotecarios para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -516,9 +558,9 @@ Tratándose de obras de construcción de inmuebles provenientes de contratos cel
 
 Las cantidades entregadas a quien proporcione el servicio incluyendo los depósitos, se entenderán pagos anticipados.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-En el caso de servicios personales independientes, así como en el caso de derechos por el servicio, uso, suministro o aprovechamiento de agua, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
+En el caso de servicios personales independientes, así como en el caso del servicio de suministro de agua proporcionado por el Distrito Federal, Estados, municipios, organismos descentralizados, así como por concesionarios, permisionarios y autorizados para proporcionar dicho servicio, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -625,6 +667,10 @@ V.- Las de obras de arte que por su calidad y valor cultural sean reconocidas co
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 VI.- Las de obras de arte creadas en el extranjero por mexicanos o residentes en territorio nacional, que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que la importación sea realizada por su autor.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VII.- Oro, con un contenido mínimo de dicho material del 80%.
 
 ###### ARTICULO 26.
 
@@ -1357,6 +1403,18 @@ PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 D.O.F. 29 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 28 DE DICIEMBRE DE 1994.
+
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+###### ARTICULO OCTAVO.
+
+Durante el año de 1995 se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de medicinas de patente y de productos destinados a la alimentación, con excepción de los mencionados en los artículos 2o.-A, fracción I, último párrafo y 2o.-B, fracción I incisos a), b), d) y último párrafo, de la Ley del Impuesto al Valor Agregado.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
