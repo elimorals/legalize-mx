@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1982-03-12"
+last_updated: "1983-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -438,6 +438,38 @@ XLI.- Formular las leyes que reglamenten los Artículos de esta Constitución, i
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1967)</small>
 
 XLII.- Elevar las villas a la categoría de ciudades por iniciativa de aquellas y por conducto del Ejecutivo, tomando en cuenta el número de sus habitantes, sus condiciones económicas, los servicios públicos con que cuente, etc.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1983)</small>
+
+XLIII.- Expedir leyes relativas al trabajo digno y socialmente útil, que rijan la relación de trabajo entre los Poderes, Organismos Públicos y los Ayuntamientos del Estado y sus trabajadores y la seguridad social de dichos trabajadores.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+La jornada diaria máxima de trabajo diurna y nocturna, será de ocho y siete horas, respectivamente.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes, prefiriendo a los más aptos para el acceso a la función pública. El Estado y los Municipios establecerán academias en las que se impartan cursos para sus trabajadores; mediante tal capacitación adquirirán los conocimientos que acrediten su derecho de ascenso conforme al escalafón, profesionalizándose la función pública e implantándose en esta forma los sistemas de servicio público de carrera.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+El personal de los diversos cuerpos de Seguridad Pública, Tránsito, Reclusorio del Estado y Municipios es de confianza y se regirá conforme a sus propias leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+La seguridad social de los servidores públicos se organizará conforme a las leyes que para tal materia se expidan.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 1983)</small>
+
+Las controversias de los servidores públicos del Estado, los Municipios y demás Entidades Públicas, así como los conflictos intersindicales, serán sometidos al Tribunal de Arbitraje del Estado.
 
 ###### Art. 64.
 
@@ -1698,3 +1730,7 @@ P.O. 12 DE FEBRERO DE 1982.
 P.O. 12 DE MARZO DE 1982.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 1983.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
