@@ -4,7 +4,7 @@ identifier: "COA-ley-del-impuesto-sobre-envase-distribucion-venta-y-3967"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-22"
-last_updated: "1971-09-25"
+last_updated: "1972-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL IMPUESTO SOBRE ENVASE, DISTRIBUCION, VENTA Y TRANSPORTE DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1972.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 22 de febrero de 1969.
 
@@ -89,7 +89,9 @@ c).- Si están contenidos en envases con capacidad de 501 centímetros cúbicos 
 
 d).- Si están contenidos en envases con capacidad mayor de un litro, pagarán un impuesto de $1.00 (UN PESO) por cada litro o fracción, según la capacidad del envase.
 
-III.- Envase y distribución de coñacs, whiskies, vodkas, ginebras, cualesquiera que sean las materias primas y los procesos seguidos para su elaboración:
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1972)</small>
+
+III.- Envase y distribución de whiskies, vodkas, ginebras, cualesquiera que sean las materias primas y los procesos seguidos para su elaboración:
 
 a).- Si están contenidos en envases de los comúnmente llamados miniaturas $0.50 (CINCUENTA CENTAVOS).
 
@@ -528,3 +530,9 @@ LIC. JOSE RAMIREZ MIJARES.- Rúbrica.
 P.O. 25 DE SEPTIEMBRE DE 1971.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE AGOSTO DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
