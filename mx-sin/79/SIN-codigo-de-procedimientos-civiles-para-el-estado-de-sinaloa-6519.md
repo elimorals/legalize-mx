@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1996-07-03"
+last_updated: "2000-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -209,17 +209,31 @@ III. Cuando alguno tenga acción, o excepción que dependa del ejercicio de acci
 
 Las acciones duran lo que la obligación que representan, menos en los casos que la ley señala distintos plazos.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1983)</small>
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 ###### Artículo 34.
 
-Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aún en consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte salvo convenio en contrario.
+Admitida la demanda y formulada la contestación, no podrán modificarse ni alterarse los puntos sobre los que verse la litis, salvo los casos en que la ley lo permita por hechos supervenientes.
 
-Se tendrá por abandonado un juicio y por perdido el derecho de las partes si éstas no promueven durante trescientos sesenta días naturales, incluyendo los inhábiles, en la primera instancia y ciento ochenta en la segunda, salvo los casos de fuerza mayor o cuando se trate de la ejecución de una sentencia firme. Si el último día del término fuere inhábil, se entenderá prorrogado hasta el primer día hábil siguiente. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos.
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
-Por promoción deberá entenderse todo lo que tienda a la secuela legal de un procedimiento.
+El actor podrá desistirse de su demanda, mientras no haya sido emplazado a juicio el demandado, sin que por ello se le pueda fincar condena alguna. Una vez emplazado a juicio el demandado, el actor podrá desistirse de la instancia, pero requerirá para ello el consentimiento de aquél. Tanto el desistimiento de la demanda como el de la instancia, producirán el efecto de que las cosas vuelvan al estado que tenían hasta antes de la presentación de la demanda.
 
-La caducidad será declarada de oficio por el Tribunal.
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+
+El desistimiento de la pretensión extingue ésta, sin que para ello se requiera el consentimiento del demandado. El actor que se desista de la instancia o de la pretensión, será condenado a restituir al demandado los gastos y costas que hubiere legítimamente erogado, así como al pago de los daños y perjuicios que en su caso se le hubieren causado, salvo convenio en contrario.
+
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+
+Se tendrá por abandonado un proceso y por perdido el derecho de las partes, si éstas no promueven durante ciento ochenta días, incluyendo los inhábiles, en cualquier instancia, salvo los casos de fuerza mayor o cuando se trate de la ejecución de una sentencia firme. Si el último día del plazo fuere inhábil, se entenderá prorrogado hasta el primer día hábil siguiente. La caducidad en la segunda instancia, dejará sin efecto los actos procesales verificados en este grado del conocimiento, quedando firme la resolución impugnada.
+
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+
+La caducidad en cualquier grado o instancia, será declarada de oficio por el tribunal, debiendo contarse el plazo para la consumación de la misma, a partir de la fecha en que se haya realizado el último acto procesal o en que se ha hecho la última promoción, lo que ocurra en último término. La caducidad en ningún caso operará una vez que el litigio se encuentre en estado de citación para sentencia, sea en primera o en segunda instancia.
+
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
+
+Por promoción deberá entenderse todo lo que tienda al impulso de la secuela procesal.
 
 ### CAPITULO II.
 
@@ -850,6 +864,18 @@ Si la casa, despacho o domicilio señalado para recibir notificaciones por las p
 Cuando se ignore el lugar y la habitación donde resida la persona que deba ser emplazada o notificada, pero tenga representante o apoderado jurídicos, a éstos debe hacerse la notificación, si careciera de ellos, la primera notificación se hará por medio de edictos publicados por dos veces en el Periódico "El Estado de Sinaloa" y en algún otro periódico de mayor circulación a juicio del Juez, sin perjuicio de entregar una copia de la notificación en la Secretaría del H. Ayuntamiento del lugar en que el destinatario ha tenido su última residencia, o si ésta se ignora, donde haya nacido, si también éste se desconoce, la copia se entregará a la Procuraduría de Justicia del Estado.
 
 En los casos a que se refiere el presente artículo la notificación surtirá sus efectos a partir del décimo día de hecha su última publicación y la entrega. Si el destinatario no compareciera, se le harán las demás notificaciones en los términos del artículo 115 de este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 119 Bis.
+
+La forma de la publicación de los edictos, se regirá por las reglas siguientes:
+
+I. Cuando la ley ordene la publicación de varios edictos dentro de un período determinado, sólo se requerirá que entre la primera y la última publicación no haya transcurrido más tiempo del plazo legalmente señalado, sin necesidad de que los intervalos de su publicación se dividan en espacios regulares.
+
+II. Cuando la finalidad de la notificación sea conceder un plazo para el ejercicio de un derecho procesal, éste empezará a correr al día siguiente de la última publicación de los edictos.
+
+III. Si la notificación es con el propósito de dar a conocer la celebración de una audiencia o la práctica de una diligencia judicial, sólo será necesario que la publicación del último edicto se haya realizado con anticipación de tres días hábiles a la fecha señalada para tal efecto.
 
 ###### Artículo 120.
 
@@ -3819,13 +3845,13 @@ III. Cuando el estado de los autos lo permita, para nombrar a su costa un perito
 
 El avalúo se practicará observando las reglas establecidas para la prueba pericial y si fueren más de dos los peritos valuadores no habrá necesidad de nombrar terceros en discordia.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 565.
 
-Justipreciados los bienes, si fueren raíces, se anunciará su venta señalando día para la almoneda por medio de edictos que se publicarán por tres veces dentro de un plazo de nueve días, en el periódico oficial y otro de los de mayor circulación a juicio del juez. A petición de cualquiera de las partes y a su costa, el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Justipreciados los bienes, si fueren raíces, se anunciará su venta, señalando día y hora para la almoneda por medio de edictos que se publicarán por una sola vez en el Periódico Oficial "El Estado de Sinaloa" y por dos veces, dentro de nueve días, en dos de los periódicos comerciales de mayor circulación, a juicio del juez. A petición de cualquiera de las partes y a su costa, el juez puede ordenar algún otro medio de publicidad para convocar postores.
 
-El edicto de remate ha de contener: la designación del tribunal que ejecuta; nombre o denominación de las partes contendientes en juicio; el número del expediente en que se promueve; una descripción somera del inmueble que se remata y su ubicación; el importe de la postura legal; y el día, hora y lugar de la almoneda.
+El edicto de remate debe contener: la designación y el domicilio del tribunal que ejecuta; el nombre o denominación de las partes contendientes en juicio; el número del expediente en que se promueve; una descripción somera del inmueble objeto del remate y su ubicación; el importe de la postura legal, y el día, hora y lugar de la almoneda.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
@@ -4561,11 +4587,11 @@ Al interponerse la apelación se precisará la parte de la resolución que motiv
 
 Por expresión de agravios se entienden los razonamientos relacionados con las circunstancias del caso, que tiendan a demostrar una violación a la ley por falta o por indebida aplicación de la misma, o por una interpretación inexacta de ella.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 690.
 
-El apelante deberá exhibir una copia del escrito de apelación para el expediente, y otra para el traslado a cada una de las partes apeladas. En caso de que en el escrito apelatorio no se formulen agravios, o no se acompañen las copias relativas, el juez tendrá por no interpuesto el recurso.
+El apelante deberá exhibir una copia del escrito de apelación para el expediente, y otra para el traslado a cada una de las partes apeladas. En caso de que en el escrito apelatorio no se formulen agravios, el juez tendrá por no interpuesto el recurso.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
@@ -7009,11 +7035,15 @@ El presente Decreto entrará en vigor a partir de su publicación en el Periódi
 
 P.O. 3 DE MAYO DE 1989.
 
-###### ARTICULO UNICO.
-
-Las presentes reformas iniciarán su vigencia a los cuarenta y cinco días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Artículo Unico.- Las presentes reformas iniciarán su vigencia a los cuarenta y cinco días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 21 DE JULIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE DICIEMBRE DE 2000.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -7025,6 +7055,6 @@ Los recursos de revocación y apelación que procedan en contra de las resolucio
 
 P.O. 3 DE JULIO DE 1996.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
