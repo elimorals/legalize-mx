@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2004-06-05"
+last_updated: "2004-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -1079,7 +1079,11 @@ V. Toda modificación a la estructura o diseño de vehículos automotores deber�
 
 VI. Los vehículos automotores registrados en el Estado, deberán someterse a las verificaciones mecánicas con la periodicidad que establezcan los ordenamientos aplicables, para comprobar que conservan las condiciones adecuadas para circular, conforme a las disposiciones de esta Ley; y
 
-VII. El reglamento de esta Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2004)</small>
+
+VII. Los conductores otorgarán la prelación de paso a los vehículos de emergencia y policía que lleve (sic) encendidos códigos y sirenas, debiendo permitirles el paso si cruza (sic) en una intersección y cuando circulen sobre la misma vía en el mismo sentido, deberá colocarse en el extremo derechos (sic) de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos.
+
+El reglamento de esta Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
 
 ###### Artículo 70.
 
@@ -2363,9 +2367,9 @@ III. Circular sin placas o placas vencidas;
 
 IV. Hacer mal uso de las placas demostración;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2004)</small>
 
-V. Impedir el paso a vehículos de emergencia;
+V. Impedir o no ceder el paso a vehículos de emergencia o policía cuando lleven encendidos códigos y sirenas; o circular inmediatamente detrás de los mismos aprovechándose de esta circunstancia;
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
@@ -2836,3 +2840,7 @@ P.O. 5 DE JUNIO DE 2004.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
 
 SEGUNDO.- El Titular del Poder Ejecutivo contará con un plazo de 90 días para realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
+
+P.O. 1 DE JULIO DE 2004.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
