@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1999-11-10"
+last_updated: "2000-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DEL 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -79,7 +79,7 @@ Las fianzas y los contratos, que en relación con ellas otorguen o celebren las 
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 2º. Bis.
+###### ARTICULO 2o. Bis.
 
 Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de ocho meses para que las autoridades administrativas resuelvan lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
 
@@ -111,7 +111,7 @@ Salvo cuando exista impedimento jurídico para hacerlo, la resolución administr
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-###### Artículo 2º. Bis 2.
+###### ARTICULO 2º. Bis 2.
 
 En los trámites a que se refieren los artículos 4o., tercer párrafo, 9o., segundo párrafo, 10o., segundo párrafo, 15, con excepción de los trámites de constitución de instituciones de fianzas y ampliación de ramos y subramos, 34, 38, 43, 55, fracción II, 60, fracciones VIII, IX y XV, 78 y 84, no podrá exceder de cuatro meses el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el artículo 2 Bis de esta Ley.
 
@@ -2033,51 +2033,9 @@ III.- Cuando el beneficiario no esté conforme con la resolución que le hubiere
 
 IV.- La sola presentación de la reclamación a la institución de fianzas en los términos de la fracción I de este artículo, interrumpirá la prescripción establecida en el artículo 120 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
-
 ###### ARTICULO 93 Bis.
 
-En caso de que el beneficiario presente reclamación ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en contra de una institución de fianzas, en los términos del artículo anterior, se deberá agotar el procedimiento conciliatorio conforme a las siguientes reglas:
-
-I.- El reclamante presentará un escrito ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, del que se correrá traslado a la institución de que se trate, dentro de un plazo de diez días naturales, contado a partir de la fecha en que fue presentada la reclamación.
-
-La presentación de la reclamación ante la Comisión interrumpirá el plazo legalmente establecido para la prescripción de la acción correspondiente;
-
-II.- La institución dentro del término de diez días naturales, contado a partir de aquel en que reciba el traslado, rendirá un informe por escrito a la Comisión en el que responderá en forma detallada respecto a todos y cada uno de los hechos a que se refiere la reclamación, y podrá solicitar a la Comisión que cite al fiado a la junta de avenencia a que se refiere la fracción siguiente, para lo cual proporcionará el domicilio que tuviere del fiado, o el de su representante legal, en su caso.
-
-En caso de no presentar el informe, la institución de fianzas se hará acreedora a una sanción de cien a doscientos días de salario mínimo general vigente en el Distrito Federal;
-
-III.- La Comisión citará a las partes y en su caso al fiado, a una junta de avenencia, que se realizará dentro de los veinte días naturales contados a partir de la fecha de presentación de la reclamación; si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días naturales.
-
-En la junta a que se refiere el párrafo anterior, la institución efectuará el pago de la reclamación, si es que procede, o en su defecto, presentará el informe a que se alude en la fracción II de este artículo, el cual hará por conducto de un representante legítimo.
-
-Si no comparece el reclamante, se entenderá que no desea la conciliación. Si la que no comparece es la institución, se sancionará con multa administrativa que impondrá la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, por un monto de 200 a 300 veces el salario mínimo general diario vigente en el Distrito Federal y bajo este supuesto se volverá a citar a las partes hasta que acuda la institución. Si a partir de la segunda citación ésta no asiste, su reincidencia se podrá castigar con una multa hasta del doble de la ya impuesta. Sin embargo, en la audiencia relativa, la institución de fianzas podrá argumentar la imposibilidad de conciliar y expresar su voluntad de no someter sus diferencias al arbitraje.
-
-En el supuesto de que sea el fiado el que no comparezca se desahogará la junta de avenencia.
-
-En la junta de avenencia se invitará a las partes a conciliar sus intereses y si esto no fuera posible, la Comisión las invitará a que voluntariamente y de común acuerdo la designen árbitro. El convenio correspondiente se hará constar en acta que al efecto se levante ante la citada Comisión.
-
-En el convenio que fundamente el juicio arbitral, las partes facultarán a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a resolver en conciencia, a verdad sabida y buena fe guardada, la controversia planteada y se fijarán de manera específica, de común acuerdo y previa opinión de la Comisión, las situaciones y puntos motivo de controversia, estableciéndose las etapas, formalidades o términos a que se sujetará el arbitraje.
-
-Las Delegaciones Regionales o, en su caso, estatales o locales de la Comisión tramitarán el procedimiento conciliatorio y, en su caso, el procedimiento arbitral en amigable composición;
-
-IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje, y las autoridades administrativas, así como los tribunales deberán auxiliarle, en la esfera de su competencia. Para tales efectos, podrá valerse de cualquier persona, sea parte o tercero, y de cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral;
-
-V.- El laudo que se dicte sólo admitirá como medio de defensa, el juicio de amparo.
-
-Lo anterior sin perjuicio de que las partes soliciten aclaración del laudo, dentro de las setenta y dos horas siguientes a su notificación, cuando a su juicio exista error de cálculo, de copia, tipográfico o de naturaleza similar, sin que la misma sea considerada como un recurso de carácter procesal o administrativo.
-
-Todas las demás resoluciones que conforme al Código de Comercio admitan apelación o revocación, podrán impugnarse en el juicio arbitral mediante el recurso de revocación;
-
-VI.- En caso de que no exista promoción de parte por un lapso de más de 90 días, contado a partir de la notificación de la última actuación, operará la caducidad de la instancia;
-
-VII.- El laudo que condene a una institución de fianzas le otorgará un plazo de quince días hábiles a partir de la notificación para su cumplimiento;
-
-VIII.- Corresponde a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros la ejecución del laudo que se pronuncie, para lo cual mandará en su caso, que se pague a la persona en cuyo favor se hubiere dictado el laudo. En caso de negativa u omisión, la citada Comisión, en un plazo máximo de cinco días hábiles, contado a partir del vencimiento del plazo a que se refiere la fracción anterior, ordenará el remate de los valores invertidos conforme a esta Ley y si ellos estuvieren considerados en las reservas de la institución de fianzas, ésta deberá reponerlos de acuerdo a lo que legalmente se establece para la reconstitución de las reservas;
-
-IX.- Los convenios celebrados ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrán el carácter de una sentencia ejecutoria y podrán ser ejecutados por la misma, en los términos de esta fracción; y
-
-X.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, el reclamante podrá ocurrir desde luego ante los tribunales competentes.
+(DEROGADO, D.O.F. 5 DE ENERO DEL 2000)
 
 ###### ARTICULO 94.
 
@@ -2637,7 +2595,11 @@ I.- Se impondrá pena de prisión de tres a quince años y multa de doscientos c
 
 II.- Se impondrá pena de prisión de dos a diez años y multa de ciento cincuenta a mil quinientos días de salario cuando se trate del primer párrafo del artículo 4o. de esta ley.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 Se considerarán comprendidos dentro de los supuestos señalados en las dos fracciones anteriores y, consecuentemente, sujetos a las mismas sanciones los directores, gerentes, administradores o miembros del consejo de administración y los representantes y agentes en general de personas morales que practiquen habitualmente las operaciones ilícitas, a que aluden los artículos 3o. y 4o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 Cuando todos los actos que concurran a la celebración del contrato, incluyendo los de intermediación, se hubieren efectuado fuera del territorio nacional, se considerará que el delito se comete por el solo hecho de registrar el pago de las primas en la contabilidad que dentro del territorio mexicano se lleve por el fiado, beneficario (sic) o por cualquier otro interesado en la misma, o bien, porque cualquiera de esas personas realice en México algún acto que signifique cumplimiento de obligaciones o deberes o ejercicio de derechos, derivados del contrato celebrado en el extranjero.
 
@@ -3638,3 +3600,15 @@ QUINTO.- Los procedimientos que la Comisión Nacional de Seguros y Fianzas lleve
 SEXTO.- La reforma al artículo 95 Bis se aplicará a los casos de mora que inicie a partir de la entrada en vigor del presente Decreto.
 
 SÉPTIMO.- Las reglas, reglamentos y demás disposiciones administrativas emanadas de la Ley Federal de Instituciones de Fianzas y que se encuentren vigentes a la fecha en que entre en vigor este Decreto, seguirán siendo aplicables en tanto no se opongan al mismo.
+
+D.O.F. 5 DE ENERO DEL 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto se expide el Estatuto Orgánico a que se refiere esta Ley, continuará vigente en todos sus términos el Reglamento Interior.
+
+TERCERO.- Todos aquellos procedimientos en que intervenga la Comisión Nacional o alguna de sus unidades administrativas y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento.
+
+CUARTO.- Las Instituciones Financieras deberán constituir las Unidades Especializadas a que se refiere el artículo 50 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO.- La Comisión Nacional contará con un plazo de 120 días hábiles para la expedición y publicación en el Diario Oficial de la Federación, a que hace referencia el primer párrafo del artículo 72 Bis.
