@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1946-12-31"
+last_updated: "1951-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1951.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -282,9 +282,11 @@ El tenedor de un título nominativo en que hubiere endosos, se considerará prop
 
 La constancia que ponga el Juez en el título conforme al artículo 28, se tendrá como endoso para los efectos del párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1951)</small>
+
 ###### ARTICULO 39.
 
-El que paga no está obligado a cerciorarse de la autenticidad de los endosos, ni tiene la facultad de exigir que ésta se le compruebe; pero sí debe verificar la identidad de la persona que presente el título como último tenedor, y la continuidad de los endosos.
+El que paga no está obligado a cerciorarse de la autenticidad de los endosos, ni tiene la facultad de exigir que ésta se le compruebe, pero sí debe verificar la identidad de la persona que presente el título como último tenedor, y la continuidad de los endosos. Las instituciones de crédito pueden cobrar los títulos aun cuando no estén endosados en su favor, siempre que les sean entregados por los beneficiarios para abono en su cuenta, mediante relación suscrita por el beneficiario o su representante, en la que se indique la característica que identifique el título; se considerará legítimo el pago con la sola declaración que la institución de crédito respectiva, haga en el título, por escrito, de actuar en los términos de este precepto.
 
 ###### ARTICULO 40.
 
@@ -370,7 +372,7 @@ La oposición del tenedor del título debe substanciarse con citación del que p
 
 Para que se dé entrada a la oposición, es necesario que el oponente deposite el documento a disposición del Juzgado, y además asegure con garantía real o personal satisfactoria, el resarcimiento de los daños y perjuicios que la oposición ocasione al que obtuvo el decreto de cancelación, para el caso de que aquélla no sea admitida.
 
-> <small>(F. DE E., D.O.F.9 DE SEPTIEMBRE DE 1933)</small>
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
 
 Oído dentro de tres días en traslado el reclamante, la oposición será recibida a prueba por un término que el Juez fijará atendiendo a las circunstancias del negocio, y que en ningún caso excederá de treinta días. El término para alegar será de cinco días para cada parte, y la resolución deberá dictarse dentro de diez días. Ninguno de esos términos puede suspenderse o prorrogarse.
 
@@ -1250,9 +1252,11 @@ Si se indican varios lugares, se entenderá designado el escrito en primer térm
 
 Si no hubiere indicación de lugar, el cheque se reputará expedido en el domicilio del librador y pagadero en el del librado, y si éstos tuvieren establecimientos en diversos lugares, el cheque se reputará expedido o pagadero en el del principal establecimiento del librador o del librado, respectivamente.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1951)</small>
+
 ###### ARTICULO 178.
 
-El cheque será siempre pagadero a la vista. Cualquiera inserción en contrario se tendrá por no puesta.
+El cheque será siempre pagadero a la vista. Cualquiera inserción en contrario se tendrá por no puesta. El cheque presentado al pago antes del día indicado como fecha de expedición, es pagadero el día de la presentación.
 
 ###### ARTICULO 179.
 
@@ -2820,6 +2824,10 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 8 DE MAYO DE 1945.
 
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+
 ## TRANSITORIO
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
@@ -2827,3 +2835,5 @@ El presente Decreto entrará en vigor el día de su publicación en el "Diario O
 D.O.F. 31 DE DICIEMBRE DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1951.
