@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2000-05-30"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -615,7 +615,11 @@ XXII. Recibir, al entrar en posesión del cargo, los recursos y documentos a que
 
 XXIII. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público o bien con las sociedades de las que dichas personas formen parte sin la autorización previa y específica de quien de acuerdo a la ley deba hacerlo;
 
-XXIV. Respetar el derecho de petición de los particulares en los términos del artículo 8º de la Constitución Política de los Estados Unidos Mexicanos;
+XXIV. Respetar el derecho de petición de los particulares en los términos del artículo 8º de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+Recibir las promociones de carácter administrativo, que les sean presentadas a los servidores públicos de la administración pública estatal y municipal, en forma escrita por los administrados;
 
 XXV. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes o reglamentos;
 
@@ -857,7 +861,9 @@ i) Los demás servidores públicos que determine el titular del Ejecutivo.
 
 III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el pleno del Consejo General del Poder Judicial;
 
-IV. En los gobiernos municipales, ante el Congreso del Estado por conducto del Cabildo: los presidentes municipales o presidentes (sic) concejos municipales, vicepresidentes, regidores o concejales, secretarios generales, síndicos, tesoreros, subtesoreros, directores, jefes, subjefes de departamento, oficiales mayores, auditores, inspectores; y en las descentralizadas, empresas o asociaciones de participación municipal mayoritaria, los presidentes, gerentes o directores; y los demás servidores públicos municipales que determine el Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+IV. En los gobiernos municipales, ante el Congreso del Estado por conducto del Cabildo: los presidentes municipales o presidentes de los concejos municipales, vicepresidentes, regidores o concejales, secretarios generales, síndicos, tesoreros, subtesoreros, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales de Registro Civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos municipales que determine el Congreso del Estado.
 
 V. En el Tribunal de Arbitraje y Escalafón, por conducto de su presidente: los magistrados, secretarios y oficiales notificadores o sus equivalentes, ante el órgano que determinen su Ley Orgánica y sus reglamentos;
 
@@ -1028,3 +1034,15 @@ P.O. 30 DE MAYO DE 2000.
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+DECRETO 18438
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+DECRETO 18444
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
