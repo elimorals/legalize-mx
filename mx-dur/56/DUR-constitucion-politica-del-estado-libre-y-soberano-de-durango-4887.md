@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1988-04-24"
+last_updated: "1988-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1988.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -95,17 +95,23 @@ El Congreso expedirá la ley que determine cuales son las profesiones que necesi
 
 A toda petición deberá recaer un acuerdo de la autoridad a quien se haya formulado, en el que ésta expresará, motivada y fundamente (sic), si concede, o niega lo solicitado. La autoridad tiene obligación de notificar su resolución al peticionario dentro del término que señalen las leyes aplicables y que en ningún caso excederá de noventa días naturales, contados a partir de la fecha en que se presentó la solicitud.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 6.
 
-No deben expedirse ni aplicarse leyes privativas. Nadie será juzgado por tribunales o autoridades especiales.
+No deben expedirse ni aplicarse leyes privativas; nadie será juzgado por Tribunales o Autoridades Especiales.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar sus derechos.
+
+Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; sus servicios serán gratuitos, quedando en consecuencia prohibidas las costas judiciales.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 7.
 
-Toda resolución de autoridad administrativa será de acuerdo a la letra de la ley y, en su caso, conforme a la interpretación jurídica de la misma.
+Toda resolución de autoridad administrativa será de acuerdo a la letra de la Ley y en su caso conforme a la interpretación jurídica de la misma. Para tal objeto se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los Particulares; debiéndose promulgar el decreto que establezca las normas para su organización, funcionamiento, procedimiento y recursos contra sus resoluciones.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -435,6 +441,10 @@ Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de l
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -525,10 +535,6 @@ El Gobernador, dentro de los últimos quince días de su mandato, enviará al Co
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
-
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -583,17 +589,17 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION E.- DE LA COMISION PERMANENTE
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 55.
 
 El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
-I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites;
+I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites; para que surtan efectos tales convenios se requiere la aprobación del Congreso de la Unión;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -747,7 +753,11 @@ XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución
 
 XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION E.- DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -777,11 +787,7 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -817,9 +823,9 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCON A.- DE SU ORGANIZACION
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 60.
 
@@ -899,7 +905,7 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 #### SECCION C.- DE LOS JUECES
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 66.
 
@@ -971,9 +977,9 @@ XIV.- Presentar al Congreso, dentro del primer período ordinario de sesiones pe
 
 XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
-XVI.- Designar a los Magistrados del Supremo Tribunal de Justicia, sometiendo tal designación a la aprobación del Congreso;
+XVI.- Designar a los Magistrados del Supremo Tribunal de Justicia debiendo hacerlo preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia; o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, sometiendo tal designación a la aprobación del Congreso;
 
 XVII.- Concertar créditos, cuando así lo demanden las condiciones del erario estatal, para la satisfacción de las necesidades administrativas;
 
@@ -1007,9 +1013,9 @@ XXVIII.- Crear por derecho, organismos descentralizados, empresas de participaci
 
 XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
-XXX.- Celebrar convenios con la federación o municipios con respecto a la administración y recaudación de las contribuciones o los servicios públicos;
+XXX.- Celebrar convenios con la Federación o Municipios con respecto a la Administración y recaudación de las contribuciones; así como también podrá celebrar convenios con la Federación y sus Municipios relativos a que se asuman por unos u otros la ejecución y operación de obras; y la prestación de servicios públicos cuando el desarrollo económico y social lo haga necesario;
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1243,9 +1249,9 @@ Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfac
 
 ###### ARTICULO 90.
 
-El Poder Judicial del Estado, se deposita para su ejercicio en:
+El Poder Judicial del Estado en el ejercicio de sus funciones actuará con absoluta independencia y sólo estará sujeto a las normas Constitucionales y Leyes que de ellas emanen. Se deposita para su ejercicio, en:
 
-1o.- El Sumpremo (sic) Tribunal de Justicia del Estado;
+1o.- El Supremo Tribunal de Justicia del Estado;
 
 2o.- Los Juzgados Civiles;
 
@@ -1253,13 +1259,15 @@ El Poder Judicial del Estado, se deposita para su ejercicio en:
 
 4o.- Los Juzgados Penales;
 
-5o.- Los Juzgados de Primera Instancia con Jurisdicción Mixta;
+5o.- Los Juzgados de Primera Instancia con jurisdicción mixta;
 
 6o.- Los Juzgados Auxiliares;
 
 7o.- Los Juzgados Municipales; y
 
 8o.- Los Funcionarios y Auxiliares de la Administración de Justicia en los términos que establezca la Ley.
+
+Los Magistrados y Jueces percibirán una remuneración adecuada que les proporcione una total entrega a sus funciones.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1295,7 +1303,9 @@ Para ser Magistrado se requiere:
 
 I.- Ser Ciudadano Duranguense por nacimiento, en pleno ejercicio de sus derechos; o ciudadano duranguense, en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la ratificación de su nombramiento por el Congreso del Estado;
 
-II.- Ser mayor de 30 años de edad;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+
+II.- No tener más de 65 años de edad ni menos de 35 el día de la elección;
 
 III.- Tener cuando menos dos años de residencia en el Estado inmediatamente anteriores al día de la elección;
 
@@ -1303,15 +1313,11 @@ IV.- Poseer el día de la elección, con antigüedad mínima de cinco años, tí
 
 V.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 95.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán seis años en sus cargos y rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente.
-
-Cuando alguno o algunos de los Magistrados no se presenten a rendir la protesta de Ley, el Congreso los citará por oficio y si pasado un mes no comparecieren se procederá a efectuar nueva elección en los términos de esta Constitución.
-
-Los Magistrados solo podrán ser removidos de sus cargos por el Congreso, cuando se les declare culpables en previo juicio de responsabilidad o cuando sobrevenga una incapacidad física o mental que los imposibilite para desempeñarlos.
+Los Magistrados del Supremo Tribunal de Justicia durarán 6 años en sus cargos y rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente. Podrán ser nombrados nuevamente y si lo fueren para el periodo inmediato, sólo podrán ser privados de sus puestos en los términos que determina la Constitución Política del Estado y la Ley de Responsabilidades de los Funcionarios y Empleados del Estado y de los Municipios.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1353,11 +1359,17 @@ XI.- Las demás que le confieren esta Constitución y las leyes;
 
 XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCON A.- DE SU ORGANIZACION
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 98.
 
-Los jueces civiles, familiares, penales de primera instancia con jurisdicción mixta y auxiliares, serán nombrados por el Supremo Tribunal de Justicia. Los Jueces Municipales también serán designados por el Supremo Tribunal de Justicia a propuesta en terna del juez de primera instancia del Distrito Judicial respectivo.
+Los Jueces Civiles, Familiares, Penales, de Primera Instancia con jurisdicción Mixta y Auxiliares serán nombrados por el Supremo Tribunal de Justicia, dichos nombramientos se harán preferentemente a favor de aquellas personas que hayan prestado sus servicios con eficiencia y probidad, en la Administración de Justicia; o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En los casos que el Pleno del Supremo Tribunal lo estime pertinente podrá hacer la designación por exámen de oposición, siendo el Pleno quien deberá calificar esos exámenes.
+
+Los Jueces Municipales serán designados por el Supremo Tribunal de Justicia a propuesta en terna del C. Juez de Primera Instancia del Distrito Judicial respectivo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1399,11 +1411,7 @@ Los jueces civiles, familiares, penales, de primera instancia con jurisdicción 
 
 Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 103.
 
@@ -2036,5 +2044,11 @@ UNICO.- El presente Decreto entrará en vigor tres días después de su publicac
 P.O. 24 DE ABRIL DE 1988.
 
 PRIMERO.- El presente Decreto entrará en vigor (3) tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 1 DE MAYO DE 1988.
+
+PRIMERO.- El presente Decreto entrará en vigor (3) días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
