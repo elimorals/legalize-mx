@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-estatal-de-proteccion-civil-5180"
 country: "mx"
 rank: "ley"
 publication_date: "1992-08-18"
-last_updated: "1992-08-18"
+last_updated: "2002-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO, NÚMERO 488, PUBLICADA EN EL P.O. DE 25 DE JUNIO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2002 (ABROGADA).
 
 Ley publicada en el Periódico Oficial, el martes 18 de agosto de 1992.
 
@@ -296,3 +298,19 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2002.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO, NUMERO 488”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Sistema Estatal de Protección Civil, de fecha 12 de agosto de 1992, publicada en el Periódico Oficial del Estado de fecha 18 del mismo mes y año.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- En un plazo máximo de treinta días hábiles a partir de la vigencia de esta Ley, deberá integrarse el Consejo Estatal de Protección Civil.
+
+QUINTO.- El Reglamento Interior del Consejo Estatal de Protección Civil, deberá expedirse en un término de sesenta días hábiles, posteriores a su instalación.
