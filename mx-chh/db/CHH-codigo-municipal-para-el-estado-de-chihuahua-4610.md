@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2000-06-28"
+last_updated: "2000-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -521,9 +521,17 @@ XXXIV.- Expedir reglamentos para administrar la zonificación y planes de desarr
 
 XXXV.- En general, promover en la esfera administrativa, todo aquello que fuere necesario, para el mejor desempeño de las funciones que este Código y otras disposiciones legales les señalen;
 
-XXXVI.- Los Ayuntamientos podrán solicitar, la comparencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de la competencia del compareciente; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XXXVII.- Las demás que le confieran las leyes y sus reglamentos.
+XXXVI.- Los Ayuntamientos podrán solicitar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de la competencia del compareciente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2000)</small>
+
+XXXVII.- Establecer un sistema permanente de capacitación a los servidores de las diversas dependencias municipales a las que se refiere el artículo 60 de este Código; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE OCTUBRE DE 2000)</small>
+
+XXXVIII.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -1063,6 +1071,10 @@ Las funciones para el despacho de los asuntos de competencia municipal, se regir
 
 Los Ayuntamientos expedirán oportunamente las cartas y manuales de organización, de procedimientos y de servicio al público, relativos al funcionamiento de cada dependencia.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+Los empleados y servidores públicos municipales en general, están obligados a participar en los cursos y procesos de capacitación a que sean convocados por la Administración Municipal. La administración municipal a través de la Oficialía Mayor elaborará los programas, esquemas, manuales y demás instrumentos necesarios para impartir la capacitación y los esfuerzos de profesionalización.
+
 ###### ARTICULO 61.
 
 Para ser funcionario municipal se requiere:
@@ -1113,15 +1125,21 @@ XIV.- Reunir los datos necesarios, para la elaboración de los informes que el P
 
 XV.- Las demás que le encomienden las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 ###### ARTICULO 64.
 
-Son atribuciones del Tesorero:
+Son atribuciones del tesorero:
 
 I.- Proyectar y calcular los ingresos anuales del erario municipal, así como formular y someter a la consideración del Presidente Municipal el Anteproyecto de la Ley de Ingresos;
 
 II.- Cobrar, recaudar y concentrar con las excepciones previstas en las leyes y en el artículo 40, fracción VI, de este Código, los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos distintos tenga derecho a percibir el Municipio por cuenta propia o ajena;
 
 III.- Practicar el día último de cada mes, el corte de caja para determinar el movimiento de ingresos y egresos, que deberá recibir la aprobación del Presidente Municipal y del Presidente de la Comisión de Hacienda;
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+Del estado de movimientos de ingresos y egresos del mes correspondiente a publicarse, deberá entregarse copia a los integrantes del ayuntamiento.
 
 IV.- Ejercitar la facultad económico-coactiva para hacer efectivos:
 
@@ -2946,3 +2964,15 @@ P.O. 28 DE JUNIO DE 2000.
 DECRETO No. 521-00 II P.O.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2000.
+
+DECRETO No. 569-00-IV-P.E.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2000.
+
+DECRETO No. 573-00 IV P.E.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
