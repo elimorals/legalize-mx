@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1994-05-18"
+last_updated: "1994-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 1994.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -1477,11 +1477,13 @@ ARTICULO 74
 
 a) Cada grupo parlamentario tendrá derecho a presentar hasta cuatro candidatos. La comisión correspondiente de la Cámara de Diputados integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas de los grupos parlamentarios;
 
-b) De la lista presentada por la comisión correspondiente, la Cámara de Diputados elegirá a los consejeros ciudadanos por el voto de las dos terceras partes de sus miembros presentes. Las propuestas de consejeros serán votadas de manera individual y sucesiva;
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1994)</small>
+
+b) De esta lista, la comisión correspondiente elaborará dictamen individual en la que se contenga la fórmula de los consejeros ciudadanos propietario y suplente. La Cámara de Diputados eligirá (sic) a los consejeros ciudadanos por el voto de las dos terceras partes de sus miembros presentes. Las propuestas de los consejeros serán votadas conforme al procedimiento que se marque en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos en su Capítulo de Votaciones.
 
 c) Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. En este último caso se seguirá el procedimiento señalado en los incisos anteriores;
 
-d) Para cubrir las ausencias temporales o definitivas de los consejeros ciudadanos, serán electos seis consejeros de la lista adicional que para ese efecto integren los grupos parlamentarios. En este caso se aplicará lo dispuesto en los incisos a) al c) anteriores. Las ausencias serán cubiertas por los suplentes en el orden que determine la Cámara al elegirlos;
+d) (DEROGADO, D.O.F. 3 DE JUNIO DE 1994)
 
 e) Los consejeros ciudadanos propietarios y suplentes durarán en su cargo ocho años; y
 
@@ -1495,7 +1497,7 @@ f) Las reglas y procedimientos para verificar el cumplimiento de los requisitos 
 
 7. Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo General.
 
-8. (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
+8. (DEROGADO, D.O.F. 18 DE MAYO DE 1994) (REPUBLICADO, D.O.F. 3 DE JUNIO DE 1994)
 
 ARTICULO 75 (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
@@ -1533,11 +1535,19 @@ i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal e
 
 2. La retribución que reciban los consejeros ciudadanos será la prevista en el Presupuesto de Egresos de la Federación.
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
-
 ARTICULO 77
 
-1. Durante el tiempo de su ejercicio los consejeros ciudadanos no podrán en ningún caso aceptar o desempeñar empleo o encargo de la Federación, de los Estados o municipios, de los partidos políticos o de particulares, salvo los cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1994)</small>
+
+1. Los consejeros Ciudadanos miembros del Consejo General, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, los Estados, los Municipios o los Partidos Políticos. Tampoco podrán aceptar cargo o empleo remunerado de particulares que implique dependencia o subordinación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 1994)</small>
+
+2. Los consejeros ciudadanos podrán recibir percepciones derivadas de la práctica libre de su profesión, de regalías, derechos de autor o publicaciones, siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 1994)</small>
+
+3. Para cualquier precisión sobre la interpretación de este artículo, se recurrirá el Tribunal Federal Electoral.
 
 ARTICULO 78
 
@@ -6858,3 +6868,7 @@ En razón de las reformas y adecuaciones que por este Decreto se realizan, las r
 ###### ARTICULO SEPTIMO.
 
 A los partidos políticos nacionales les será entregada la lista nominal de electores definitiva en los términos señalados por este Código, en medios magnéticos, en cintas de ocho milímetros el 30 de junio de 1994 e impresa en papel a más tardar el 21 de julio de 1994.
+
+D.O.F. 3 DE JUNIO DE 1994.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
