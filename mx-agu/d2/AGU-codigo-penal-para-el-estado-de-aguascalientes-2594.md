@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "1994-11-06"
+last_updated: "1995-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1995.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -2153,7 +2153,7 @@ VIII.- Obtener de un subalterno, parte de los sueldos de éste, dádivas u otro 
 
 Al responsable de Abuso de Autoridad se le aplicarán de 1 a 6 años de prisión, de 20 a 100 días multa y destitución e inhabilitación de 1 a 6 años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO I. Atentados al Sistema de Elección Popular
+### CAPITULO I
 
 ###### ARTICULO 213.
 
@@ -2163,7 +2163,7 @@ A los responsables de Coalición de Servidores Públicos se les aplicarán de 2 
 
 No se configura el tipo de Coalición de Servidores Públicos cuando los trabajadores al servicio del Estado se unifiquen en ejercicio de sus derechos constitucionales o que hagan uso legítimo del derecho de huelga.
 
-### CAPITULO II. Atentados al Sistema de Votación
+### CAPITULO II
 
 ###### ARTICULO 214.
 
@@ -2203,81 +2203,21 @@ Al responsable de Peculado se le aplicarán de 1 a 8 años de prisión, de 25 a 
 
 Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta lícita y las circunstancias especiales de los hechos constitutivos del Tipo.
 
-## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL SISTEMA ELECTORAL
+> <small>(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
+
+## TITULO DECIMO SEPTIMO
+
+> <small>(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 218.
 
-Los Atentados al Sistema de Elección Popular consisten en:
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)
 
-I.- Votar o intentar votar quien esté impedido para ello por la ley;
-
-II.- Negarse a desempeñar las funciones electorales que se le encomienden;
-
-III.- Hacer propaganda política dentro de los tres días anteriores o el día de la elección en favor de algún partido o candidato;
-
-IV.- Presentarse a votar portando armas;
-
-V.- Interponer un recurso de los que conceda la Ley Electoral del Estado, con manifiesta temeridad o mala fe;
-
-VI.- Negarse, los Notarios Públicos o quienes desempeñen funciones por ministerio de ley, sin causa justificada, a dar fe de los actos en que deben intervenir en los términos de la Ley Electoral del Estado;
-
-VII.- Votar dos veces en la misma o en distintas casillas, o suplantar a otro en tal actividad electoral;
-
-VIII.- Obligar o pretender obligar a votar por determinado candidato, a las personas que se encuentren bajo su autoridad o dependencia económica;
-
-IX.- Falsificar, alterar, sustraer o destruir credenciales para votar;
-
-X.- Ejecutar o pretender ejecutar en una elección, actos que tengan por objeto la compra o venta de un voto, el robo de una boleta, la presentación de una falsa o la sustracción de documentos electorales;
-
-XI.- Pretender obligar a otro a votar por determinado candidato, mediante cohecho, soborno o presión;
-
-XII.- Impedir que una casilla electoral se instale o clausure en los momentos que respectivamente corresponda, u obstruir su funcionamiento conforme a la Ley Electoral del Estado; o
-
-XIII.- Ostentarse una agrupación como partido político, sin reunir los requisitos que al efecto señale la Legislación Electoral.
-
-A los responsables de Atentados al Sistema de Elección Popular se le aplicarán de 3 meses a 1 año de prisión, de 5 a 50 días multa y suspensión de derechos políticos de 2 a 6 Años.
-
-Si el sujeto activo desempeña el cargo de Notario, procederá también la cancelación del Fíat, en términos de lo dispuesto por la Ley del Notariado del Estado.
+> <small>(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 219.
 
-Los Atentados al Sistema de Votación consisten en:
-
-I.- La no prestación con la debida oportunidad, de la ayuda solicitada por las autoridades electorales, por parte de servidores públicos, estatales o municipales, dentro de la esfera de sus respectivas competencias;
-
-II.- La no preparación oportuna de boletas electorales o su no entrega a los presidentes de casillas en los términos establecidos, por parte de los funcionarios electorales encargados de ello;
-
-III.- Instalar una casilla electoral en contravención a las disposiciones de la Ley Electoral del Estado, a causa de actos u omisiones de los funcionarios electorales;
-
-IV.- Abstenerse los funcionarios de casillas, de concurrir al lugar y hora señalados para la instalación de aquéllas, o se retiren de ellas sin causa justificada:
-
-V.- Negarse, sin causa justificada, los miembros de las mesas directivas de las casillas electorales, a firmar la documentación relativa a sus funciones; aceptar, con conocimiento de ello, una votación ilegal, o que rehusa la admisión del voto de los electores que tengan derecho a sufragar;
-
-VI.- Negarse a reconocer, los funcionarios electorales, la personalidad de los representantes de los partidos políticos o de los candidatos, o les impidan el ejercicio de las atribuciones que les conceda la Ley;
-
-VII.- Extraviar los funcionarios electorales, por negligencia, paquetes que contengan votos;
-
-VIII.- Presentar el servidor público, estatal o municipal, o hacer valer un documento electoral alterado, alterar o inutilizar alguno, o certificar hechos falsos relativos a la función electoral;
-
-IX.- Impedir el funcionario electoral, por actos u omisiones, el cumplimiento de las operaciones de preparación y desarrollo de las elecciones; causar la nulidad de una elección, o cambiar el resultado de ella;
-
-X.- Intentar obtener sufragios de los electores a favor de una candidatura determinada o provocar la abstención los servidores públicos del Estado o Municipios, abusando de sus funciones, en forma directa, o por instrucciones dadas a personas bajo su dependencia;
-
-XI.- Privar de la libertad personal a propagandistas, candidatos o representantes de un partido, los servidores públicos para favorecer intereses políticos, pretextando hechos delictivos o faltas que no se han cometido;
-
-XII.- Impedir indebidamente los servidores públicos estatales o municipales, la reunión de una asamblea, una manifestación pública o cualquier otro acto legal de propaganda electoral;
-
-XIII.- Posesionarse sin derecho de una casilla o instalarla ilegalmente;
-
-XIV.- Usurpar el carácter de presidente de mesa directiva de casilla;
-
-XV.- Sustituir ilegalmente siendo suplente, al propietario de cualquiera de los miembros de casilla; o
-
-XVI.- Ostentarse como funcionario de casilla quien no tenga tal carácter.
-
-Al responsable de Atentados al Sistema de Votación se le aplicarán de 1 a 3 años de prisión, de 20 a 70 días multa y destitución e inhabilitación de 6 meses a 2 años para desempeñar cargos públicos.
-
-Si los hechos descritos en el presente artículo se ejecutan por medio de la violencia, se duplicará la punibilidad señalada.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA EL FISCO ESTATAL
 
@@ -2438,3 +2378,25 @@ P.O. 6 DE NOVIEMBRE DE 1994.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga el Artículo 165 del Código de Procedimientos Penales vigente en el Estado, publicado en el Periódico Oficial del 12 de abril de 1992.
+
+P.O. 5 DE FEBRERO DE 1995.
+
+###### ARTICULO PRIMERO
+
+Se deroga el Título Décimo Séptimo, de los delitos contra el sistema electoral, así como sus Capítulos I y II denominados atentados al sistema de elección popular y atentados al sistema de votación, del Código Penal del Estado de Aguascalientes, aprobado por el H. Congreso del Estado mediante el Decreto número 119, de fecha 29 de julio de 1994.
+
+###### ARTICULO SEGUNDO
+
+Para efectos de difundir ampliamente el contenido de la presente reforma, publíquese el texto íntegro de la Ley Electoral del Estado de Aguascalientes.
+
+###### ARTICULO TERCERO
+
+Para efectos del Artículo 28, el porcentaje que determinará el financiamiento de los partidos políticos para el año electoral de 1995, será el 1.5%.
+
+###### ARTICULO CUARTO
+
+Para los efectos del Artículo 21 de la Ley Electoral del Estado de Aguascalientes y exclusivamente para las elecciones de 1995, las organizaciones que hayan obtenido su registro como partido político nacional deberán acreditar tal calidad durante el mes de marzo, una vez que se encuentre en funciones el Consejo Estatal Electoral.
+
+###### ARTICULO QUINTO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
