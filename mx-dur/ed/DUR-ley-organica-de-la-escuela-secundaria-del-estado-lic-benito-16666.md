@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-escuela-secundaria-del-estado-lic-benito-166
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-07-08"
-last_updated: "1965-07-08"
+last_updated: "1968-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 LEY ORGANICA DE LA ESCUELA SECUNDARIA DEL ESTADO "LIC. BENITO JUAREZ"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1o. DE AGOSTO DE 1968.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 8 de julio de 1965.
+
+DECRETO Número 310 con teniendo Ley Orgánica de la Escuela Secundaria Lic. Benito Juárez
 
 EL CIUDADANO INGENIERO ENRIQUE DUPRE CENICEROS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, a sus habitantes, sabed:
 
@@ -83,7 +85,7 @@ ARTICULO 6º (sic).- El cargo de Director de la Escuela deberá recaer en un ciu
 
 Son atribuciones del Director:
 
-I.- Cumplir y hacer cumplir este Reglamento, así como todas las disposiciones vigentes en materia de Educación de la Federación como del Estado.
+I.- Cumplir y hacer cumplir este Reglamento (sic), así como todas las disposiciones vigentes en materia de Educación de la Federación como del Estado.
 
 II.- Observar las labores de los Maestros y enterarse de sus métodos, para velar que se cumplan los planes y programas de estudio.
 
@@ -309,57 +311,41 @@ Las solicitudes, trámites y dictámenes sobre revalidaciones deberán tramitars
 
 Calendario
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 1968)</small>
+
 ###### ARTICULO 39o.
 
-Las inscripciones de los alumnos se harán del 15 al 25 de enero.
+El Calendario que regirá las labores de la Institución será el del tipo "B" y por tanto, las inscripciones, vacaciones y exámenes tendrán lugar dentro de los períiodos fijados por la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 1968)</small>
 
 ###### ARTICULO 40o.
 
-Las clases de (sic) iniciarán el día 1o. de febrero y terminarán el 20 de octubre.
+Los días y horas de inscripciones y de exámenes serán fijados cada año por la Dirección del Plantel dentro de los períodos a que se refiere el Artículo anterior.
 
 ###### ARTICULO 41o.
 
-Los exámenes ordinarios se verificarán dentro del período comprendido del 10 al 30 de noviembre en los días y horas que fije la Dirección.
+(DEROGADO, P.O. 1 DE AGOSTO DE 1968)
 
 ###### ARTICULO 42o.
 
-Los exámenes extraordinarios tendrán lugar del 10 al 25 de enero.
+(DEROGADO, P.O. 1 DE AGOSTO DE 1968)
 
 ###### ARTICULO 43o.
 
-Las inscripciones para exámenes ordinarios se harán del 15 al 31 de octubre.
+(DEROGADO, P.O. 1 DE AGOSTO DE 1968)
 
 ###### ARTICULO 44o.
 
-Las inscripciones para exámenes extraordinarios se llevarán a cabo del 2 al 7 de enero.
+(DEROGADO, P.O. 1 DE AGOSTO DE 1968)
 
 ###### ARTICULO 45o.
 
-Habrá 3 períodos de vacaciones.
-
-I.- Una semana de primavera que será fijada casa año por la Dirección.
-
-II.- Dos semanas en el verano, que serán las primeras del mes de julio.
-
-III.- Dos meses de invierno que serán los meses de diciembre y enero.
+(DEROGADO, P.O. 1 DE AGOSTO DE 1968)
 
 ###### ARTICULO 46o.
 
-Las labores se suspenderán en las siguientes fechas.
-
-Febrero: cinco y veinticinco.
-
-Marzo: 21.
-
-Mayo: primero, cinco, diez, quince y veintitrés.
-
-Julio: dieciocho.
-
-Septiembre: primero, trece, quince y dieciseis.
-
-Octubre: doce.
-
-Fuera de las fechas anteriores, las labores de la Escuela solamente se suspenderán por órden expresa del Ejecutivo.
+(DEROGADO, P.O. 1 DE AGOSTO DE 1968)
 
 Responsabilidades y Sanciones.
 
@@ -413,7 +399,7 @@ Las faltas del Director serán sancionadas por el Ejecutivo.
 
 ###### ARTICULO 53o.
 
-Las faltas del secretario y personal administrativo serán castigadas por el Director.
+Las faltas del Secretario y personal administrativo serán castigadas por el Director.
 
 ###### ARTICULO 54o.
 
@@ -446,3 +432,15 @@ Por tanto mando se imprima, publique, circule y comunique a quiénes corresponda
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los dos días del mes de julio de mil novecientos sesenta y cinco.
 
 El Gobernador Constitucional del Estado, ING. ENRIQUE DUPRE CENICEROS.- El Secretario General de Gobierno, LIC. ENRIQUE FERNANDEZ DE CASTRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE AGOSTO DE 1968.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día 1o. de septiembre de 1969.
+
+###### ARTICULO SEGUNDO.
+
+Se faculta al C. Director de la Escuela Secundaria del Estado "Lic. Benito Juárez" para que, mientras tanto, en forma gradual y siguiendo el calendario de la Universidad Juárez del Estado de Durango, fije los períodos de inscripciones, vacaciones y exámenes en forma tal que sin perderse el tiempo destinado a las labores docentes, la Escuela inicie sus actividades el primero de septiembre del próximo año, de acuerdo con el calendario "B".
