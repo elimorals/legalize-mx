@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1987-12-19"
+last_updated: "1990-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -109,19 +109,19 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refie
 
 ## TITULO SEGUNDO. De la División Jurisdiccional
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 7o.
 
-Para los efectos de esta Ley el territorio del Estado queda dividido en los siguientes distritos judiciales:
+Para los efectos de esta ley, el territorio del Estado queda dividido en los siguientes distritos judiciales:
 
 I.- Primer distrito, cuya cabecera será la ciudad de Campeche, que comprende los Municipios de Campeche, Champotón y Hopelchén, exceptuándose de estos dos últimos las poblaciones que se jurisdiccionan al tercer distrito;
 
 II.- Segundo distrito, cuya cabecera será Ciudad del Carmen, que comprende las poblaciones de: Independencia, Nicolás Bravo, José María Pino Suárez, Chibojá, Cristalina, Chicbul, A. Rodríguez, Francisco J. Mújica, Calax, Checubul, Abelardo Rodríguez, Calixto, La Esperanza, Sabancuy, Isla Aguada, Emiliano Zapata, Zacatal, Puerto Rico, Atasta, La Costa, Nuevo Progreso, San Antonio Cárdenas, Campechito, San Pedro, Rivera Baja, Rivera Media y Rivera Alta, así como las que se ubican dentro de la Isla del Carmen;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-III.- Tercer distrito, cuya cabecera será la Villa de Escárcega, que comprende las poblaciones de Santa Lucía, López Mateos, Justicia Social, Cantemó, Centenario, Silvituc, Nuevo Zináparo, San Miguel Allende, Chan Laguna, Chacté, Xbonil, Constitución, Conhuás, Tonchacacal, Xochén, San Antonio, Desempeño, Cedros, La Libertad, Yaxché, Concepción, La Esperanza, Chumpinch, San Felipe, La Tronera, Ruinas Altas, Villahermosa, Ecuculché, Sayab, Porvenir y Becam, todas ellas de los Municipios de Champotón, Carmen y Hopelchén; también las poblaciones de Flores Magón, Nuevo Bekal, Zoh-laguna, Xpujil, Altamira, 20 de Noviembre, San Antonio Soda, Tomás Aznar, Chunhuas, Chianchá, Icaiché, Ejido Díaz Ordaz, Chucalás y Nueva Ciudad, todas ellas de los municipios de Hopelchén, y Champotón; así como las poblaciones del Municipio del Carmen que no han quedado comprendidas en el segundo distrito;
+III.- Tercer distrito, cuya cabecera será la ciudad de Escárcoga (sic), que comprende las poblaciones de Santa Lucía, López Mateos, Justicia Social, Cantemd, Centenario, Silvituc, Nuevo Zináparo, San Miguel Allende, Chan Laguna, Chacté, Xbonil, Constitución, Conhuás, Tonchacacal, Xochén, San Antonio, Desempeño, Cedros, La Libertad, Yaxché, Concepción, La Esperanza, Chumpich, San Felipe, La Tronera, Ruinas Altas, Villahermosa, Ecuculché, Sayab, Porvenir y Becán, todas ellas de los municipios de Champotón, Carmen y Hopelchén; también las poblaciones de Flores Magón, Nueva Becal, Zoh-Laguna, Xpujil, Altamira, 20 de Noviembre, San Antonio Soda, Tomás Aznar, Chunhuás, Chihanchá, Icaiché, Ejido Díaz Ordaz, Chucalás y Nueva Ciudad, todas ellas de los municipios de Hopelchén y Champotón; así como las poblaciones de los municipios de Escárcega y Carmen que no quedaron comprendidas en en (sic) el segundo distrito.
 
 IV.- Cuarto distrito, cuya cabecera será la ciudad de Hecelchakán, que comprende los municipios de Calkiní, Hecelchakán y Tenabo;
 
@@ -141,17 +141,19 @@ Los juzgados de primera instancia de lo civil, familiares, penales y mixtos ejer
 
 En el Estado habrán juzgados menores en Calkiní, Hecelchakán, Tenabo, Campeche, Palizada, Carmen, Escárcega, Candelaria, Champotón y Hopelchén.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+
 ###### Artículo 11.
 
-Independientemente de lo señalado en el artículo 9o. de esta Ley, los juzgados menores tendrán las siguientes jurisdicciones:
+Independientemente de lo señalado en el artículo 9° de esta ley, los juzgados menores tendrán las siguientes jurisdicciones:
 
 I.- Los juzgados menores de Campeche, Calkiní, Hecelchakán, Tenabo y Palizada tendrán su sede en las cabeceras municipales respectivas y ejercerán jurisdicción sobre todas las poblaciones de los Municipios en donde se ubiquen;
 
 II.- El juzgado menor del Carmen, con sede en la ciudad del mismo nombre, solo tendrá jurisdicción sobre las poblaciones comprendidas en el segundo distrito judicial;
 
-> <small>(REFORMADA P.O. 4 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-III.- El juzgado menor de Escárcega, con sede en la villa de ese nombre, tendrá jurisdicción sobre las poblaciones que se encuentren comprendidas en la circunscripción de la Sección Municipal de Escárcega, así como sobre las poblaciones de los Municipios de Hopelchén y Champotón incorporadas al tercer distrito judicial;
+III.- El juzgado menor de Escárcega, con sede en la ciudad del mismo nombre, tendrá jurisdicción sobre todas las poblaciones del propio municipio de Escárcega, así como sobre las poblaciones de los municipios de Carmen, Hopelchén y Champotón, incorporadas al tercer distrito judicial;
 
 > <small>(REFORMADA P.O. 4 DE OCTUBRE DE 1986)</small>
 
@@ -659,7 +661,7 @@ El personal de cada uno de los juzgados de primera instancia se compondrá de un
 
 Para ser secretario o actuario de un juzgado de primera instancia se requieren los mismos requisitos que para ser juez. El Tribunal en Pleno, podrá dispensar el requisito del título a los secretarios y actuarios en los juzgados de primera instancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 ###### Artículo 53.
 
@@ -667,9 +669,9 @@ Los jueces del ramo civil conocerán:
 
 I.- De los negocios de jurisdicción voluntaria, cuyo conocimiento no corresponda específicamente a los jueces de lo familiar;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-II.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de éstos rebase sesenta veces el monto del salario mínimo diario aplicable en la región; excepto si se contravienen cuestiones relacionadas con el patrimonio de la familia;
+II.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de éstos rebase cien veces el monto del salario mínimo diario general aplicable en el Estado en la fecha de la presentación de la demanda; excepto si se contravienen cuestiones relacionadas con el patrimonio de la familia.
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -1595,11 +1597,11 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiocho días del mes de noviembre del año de mil novecientos ochenta.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE DICIEMBRE DE 1980.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
 
 P.O. 22 DE MAYO DE 1985.
 
@@ -1626,3 +1628,7 @@ Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias 
 P.O. 19 DE DICIEMBRE DE 1987.
 
 UNICO.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1990.
+
+Unico.- El presente decreto iniciará su vigencia el día uno e (sic) Enero de mil novecientos noventa y uno.
