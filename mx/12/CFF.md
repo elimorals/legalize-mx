@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1998-02-16"
+last_updated: "1998-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 1998.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 16 DE FEBRERO DE 1998.
 
@@ -2262,9 +2262,7 @@ XVIII. No proporcionar la información a que se refiere el artículo 19, fraccio
 
 XIX. No proporcionar la información en materia de control físico de volumen a que se refiere el artículo 19, fracciones IV, penúltimo párrafo y X de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-XX. No incluir en cada comprobante de enajenación correspondiente a los bienes a que se refiere el artículo 2o.-D de la Ley del Impuesto Especial sobre Producción y Servicios, la leyenda de “envase de vidrio reutilizado” que establece el artículo 19, fracción XIV de la citada Ley.
+XX. (DEROGADA, D.O.F. 29 DE MAYO DE 1998)
 
 ###### Artículo 82.
 
@@ -2406,7 +2404,7 @@ a). De $6,000.00 a $9,600.00, por no proporcionar la información a que se refie
 
 b). De $3,600.00 a $5,400.00, por no proporcionar la información a que se refiere el último párrafo del artículo 31 de la Ley del Impuesto al Valor Agregado, o presentarla incompleta o con errores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
 CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 16 DE FEBRERO DE 1998.
 
@@ -2414,7 +2412,7 @@ CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACI
 
 XVII. De $2,225.00 a $5,562.00, para la establecida en la fracción XVII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
 CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 16 DE FEBRERO DE 1998.
 
@@ -2422,7 +2420,7 @@ CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACI
 
 XVIII. De $3,337.00 a $5,562.00, para la establecida en la fracción XVIII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
 CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 16 DE FEBRERO DE 1998.
 
@@ -2430,11 +2428,7 @@ CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACI
 
 XIX. De $5,562.00 a $11,125.00, para la establecida en la fracción XIX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA ONCEAVA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1997, D.O.F. DEL 16 DE FEBRERO DE 1998.</small>
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-XX. De $50.00 a $150.00 a la comprendida a la fracción XX.
+XX. (DEROGADA, D.O.F. 29 DE MAYO DE 1998)
 
 ###### Artículo 83.
 
@@ -2910,7 +2904,7 @@ También comete delito de contrabando quien interne mercancías extranjeras proc
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $10,000.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se daba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $10,000.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
 ###### Artículo 103.
 
@@ -3672,7 +3666,7 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 ### CAPITULO II. De la Improcedencia y del Sobreseimiento
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 #### Sección Segunda. Del embargo
 
@@ -4298,7 +4292,7 @@ Ante el Tribunal Fiscal de la Federación no procederá la gestión de negocios.
 
 La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Fiscal de la Federación, sin perjuicio de lo que disponga la legislación de profesiones.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo Federal en el reglamento o decreto respectivo; o conforme lo establezcan las disposiciones locales, tratándose de las autoridades de las entidades federativas coordinadas.
 
@@ -4360,11 +4354,11 @@ XIV. En los demás casos en que la improcedencia resulte de alguna disposición 
 
 XV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Fiscal de la Federación.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 La procedencia del juicio será examinada aun de oficio.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 ### CAPITULO IV. De la Demanda
 
@@ -4398,7 +4392,7 @@ Los magistrados del Tribunal Fiscal de la Federación estarán impedidos para co
 
 I. Tienen interés personal en el negocio.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 II. Sean parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y segundo por afinidad.
 
@@ -4414,7 +4408,7 @@ VI. Figuran como parte en un juicio similar, pendiente de resolución.
 
 VII. Están en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
 
@@ -6039,3 +6033,7 @@ XII.- Para los efectos de lo dispuesto en el artículo 29 del Código Fiscal de 
 D.O.F. 16 DE FEBRERO DE 1998.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 29 DE MAYO DE 1998.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
