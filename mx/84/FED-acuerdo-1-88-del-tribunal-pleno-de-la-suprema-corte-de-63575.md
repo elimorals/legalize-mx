@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1989-05-15"
+last_updated: "1989-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -75,13 +75,17 @@ II.- SEGUNDO CIRCUITO:
 
 3.- Juzgados Tercero y Cuarto de Distrito en el estado de México, con residencia en el municipio de Naucalpan de Juárez;
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE MAYO DE 1989)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 9/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE DICIEMBRE DE 1989)</small>
 
-4.- Juzgado Quinto de Distrito en el estado de México, con residencia en Tlalnepantla;
+4.- Juzgado Quinto de Distrito en el estado de México, con residencia en el municipio de Tlalnepantla;
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE MAYO DE 1989)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 9/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE DICIEMBRE DE 1989)</small>
 
-5.- Juzgado Sexto de Distrito en el estado de México, con residencia en el municipio de Ciudad Nezahualcóyotl.
+5.- Juzgados Sexto y Séptimo de Distrito en el estado de México, con residencia en el municipio de Nezahualcóyotl;
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 9/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE DICIEMBRE DE 1989)</small>
+
+6.- Juzgado de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
 
 III.- TERCER CIRCUITO:
 
@@ -303,9 +307,13 @@ III.- El Juzgado de Distrito en el estado de Nayarit, con residencia en la ciuda
 
 IV.- Los Juzgados Primero y Segundo de Distrito en el estado de México, con residencia en Toluca, ejercerán jurisdicción en los municipios de: Acambay, Temascalcingo, El Oro, Atlacomulco, Jocotitlán, San Felipe del Progreso, Ixtlahuaca, Jiquipilco, Morelos, Otzolotepec, Xonacatlán, Lerma de Villada, San Mateo Atenco, Ocoyoacac, Amatepec, Tlataya, Sultepec, Zacualpan, Almoloya de Alquisiras, Texcaltitlán, Tejupilco, San Simón de Guerrero, Temascaltepec, Tonatico, Zumpahuacán, Malinalco, Ocuilán, Tenancingo, Villa Guerrero, Coatepec Harinas, Ixtapan de la Sal, Calimaya, Mexicalcingo, Chapultepec, San Antonio de la Isla, Atizapán, Almoloya del Río, Rayón, Jalatlaco, Capulhuac, Tianguistenco, Tenango del Valle, Joquicingo, Texcalyacac, Villa Victoria, Almoloya de Juárez, Metepec, Zinacatepec, Temoaya, Toluca, Villa de Allende, Donato Guerra, Ixtapan de Oro, Santo Tomás de los Plátanos, Otzoloapan, Zacazonapan, Valle de Bravo y Almanalco;
 
-V.- Los Juzgados Tercero y Cuarto de Distrito en el estado de México, con residencia en Naucalpan, ejercerán jurisdicción en los municipios de: Huehuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlán, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyamiquilpan, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla, Coacalco, Ecatepec, Naucalpan, Huixquilucan, Jilotzingo, Isidro Fabela, Apasco, Hueypotla, Tequixquiac, Zumpango, Jaltenco y Nextlalpan;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO NUMERO 9/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE DICIEMBRE DE 1989)</small>
 
-VI.- El Juzgado Quinto de Distrito en el estado de México, con residencia en Netzahualcóyotl, ejercerá jurisdicción en los municipios de: Ixtapaluca, Tlalmanalco, Amecameca, Atlautla, Ecatzingo, Ozumba, Tepetlixpa, Juchitepec, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Otumba, Axapusco, Nopaltepec, Temascalapa, Tecámac, San Martín de las Pirámides, Teotihuacán, Tepetlaoxtoc, Papalotla, Texcoco, Chicoloapan, La Paz, Chimalhuacán, Netzahualcóyotl, Atenco, Chiconcuac, Chautla, Tezoyuca y Acolman;
+V.- Los Juzgados Tercero y Cuarto de Distrito, con residencia en Naucalpan y el Quinto con sede en Tlalnepantla, todos en el estado de México, ejercerán jurisdicción en los municipios de: Huehuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlán, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyamiquilpan, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla, Coacalco, Ecatepec, Naucalpan, Huixquilucan, Jilotzingo, Isidro Fabela, Apasco, Hueypotla, Tequixquiac, Zumpango, Xaltenco y Nextlalpan;
+
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO NUMERO 9/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE DICIEMBRE DE 1989)</small>
+
+VI.- Los Juzgados Sexto y Séptimo de Distrito en el estado de México, con residencia en el municipio de Nezahualcóyotl, ejercerán jurisdicción en los municipios de: Ixtapaluca, Tlalmanalco, Amecameca, Atlautla, Ecatzingo, Ozumba, Tepetlixpa, Juchitepec, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Otumba, Azapusco, Nopaltepec, Temascalapa, Tecamac, San Martín de las Pirámides, Teotihuacán, Tepetlaxtoc, Papalotla, Texcoco, Chicoloapan, La Paz, Chimalhuacán, Nezahualcóyotl, Atenco, Chiconcuac, Chautla, Tizoyuca y Acolman;
 
 VII.- Los Juzgados Primero y Segundo de Distrito en el estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción en el territorio que sigue:
 
@@ -512,3 +520,7 @@ UNICO.- Este acuerdo entrará en vigor el día siguiente de su publicación en e
 D.O.F. 15 DE MAYO DE 1989.
 
 UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 1989.
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su aprobación.
