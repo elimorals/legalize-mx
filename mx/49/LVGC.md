@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1993-12-22"
+last_updated: "1994-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL PUBLICADA EN EL D.O.F. 22 DE DICIEMBRE DE 1993, A PARTIR DE LA ENTRADA EN VIGOR DE DICHA LEY, SE DEJAN SIN EFECTO UNICAMENTE POR LO QUE SE REFIERE A LAS MATERIAS REGULADAS EN LA MISMA, LOS ARTICULOS 3o. A 5o.; 10; 12 A 20; 29 A 38; 40 A 84; 86; 89; 92 A 96; 99; 110; 116 A 124; 126; 127; 523 A 532; 535 Y 541 DE LA LEY DE VIAS GENERALES DE COMUNICACION.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1994.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -48,31 +46,13 @@ LEY DE VIAS GENERALES DE COMUNICACION
 
 Son vías generales de comunicación:
 
-I.- Los mares territoriales, en la extensión y términos que establezcan las leyes y el Derecho Internacional;
+I.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-II.- Las corrientes flotables y navegables y sus afluentes que también lo sean, siempre que se encuentren en cualquiera de los casos siguientes:
+II.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-a).- Cuando desemboquen en el mar o en los lagos, lagunas y esteros mencionados en la siguiente fracción.
+III.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
-b).- Cuando su cause sirva de límite, en todo o en parte de su extensión, al territorio nacional o a dos o más Entidades Federativas.
-
-c).- Cuando pasen de una Entidad a otra.
-
-d).- Cuando crucen la línea divisoria con otro país.
-
-III.- Los lagos, lagunas y esteros, flotables o navegables, siempre que reúnan cualquiera de los requisitos siguientes:
-
-a).- Cuando se comuniquen permanente o intermitentemente con el mar.
-
-b).- Cuando estén ligados a corrientes constantes.
-
-c).- Cuando su vaso sirva de límite, en todo o en parte de su extensión, al territorio nacional o a dos o más Entidades Federativas.
-
-d).- Cuando pasen de una Entidad a otra.
-
-e).- Cuando crucen la línea divisoria con otro país.
-
-IV.- Los canales destinados o que se destinen a la navegación, cuando se encuentren comprendidos en cualquiera de los casos previstos en las fracciones II y III;
+IV.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 V.- Los ferrocarriles:
 
@@ -1320,597 +1300,367 @@ Son aplicables a los tranvías las disposiciones relativas a ferrocarriles, en c
 
 ###### ARTICULO 169.
 
-La Secretaría de Comunicaciones ejerce su autoridad en materia de comunicaciones por agua:
-
-I.- En el mar territorial, playas, zonas federales marítimas y puertos, por conducto de:
-
-a).- Los inspectores navales y de máquinas.
-
-b).- Los capitanes de puerto y sus delegados.
-
-c).- Por los empleados federales que designe en defecto de los anteriores.
-
-II.- En los ríos, lagos y lagunas, y en la zona federal de éstos:
-
-a).- Por los inspectores navales y de máquinas.
-
-b).- Por los inspectores de navegación fluvial y sus delegados.
-
-c).- Por los administradores de correos y telégrafos de la jurisdicción respectiva.
-
-d).- Por los empleados federales que designe en defecto de los anteriores, y
-
-III.- A bordo de las embarcaciones que no sean de guerra, en los términos del Derecho y Tratados Internacionales, la presente Ley, sus reglamentos y demás disposiciones relativas:
-
-a).- Por cualesquiera de los funcionarios y empleados mencionados en las fracciones anteriores.
-
-b).- Por el piloto de puerto que pilotee la embarcación, en defecto de los anteriores.
-
-c).- Por el capitán de la embarcación respectiva, a falta de cualesquiera de las personas enumeradas anteriormente, tratándose de buques nacionales.
-
-d).- Por los Cónsules de México en el extranjero en los casos previstos por esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 170.
 
-Los comandantes de las embarcaciones de guerra nacionales, ejercerán, en defecto de las personas designadas en el artículo anterior, la autoridad que compete a la Secretaría de Comunicaciones en materia de comunicaciones por agua, debiendo consignar a la autoridad marítima del primer puerto nacional que toquen, las infracciones de esta Ley de que tengan conocimiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 171.
 
-Aunque el territorio de los Estados no se extiende hasta la zona federal, los reglamentos de policía expedidos por las autoridades locales serán aplicables en las zonas expresadas, en cuanto no se opongan a las disposiciones de esta Ley y sus reglamentos.
-
-Sin embargo, si alguna disposición de policía de carácter local ocasionare algún transtorno o perjuicio a la navegación, servicios de puertos o al comercio marítimo o zona federal, la Secretaría de Comunicaciones queda facultada para declarar que tal disposición no rige en la zona federal correspondiente.
-
-Las Secretarías de Comunicaciones y Hacienda, de común acuerdo determinarán aquellos casos en que las autoridades locales puedan cobrar impuestos en la zona federal por los servicios públicos que en ella proporcionen.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO II. Obras en aguas de jurisdicción federal, en los puertos y en zona federal
 
 ###### ARTICULO 172.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 173.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)(REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 174.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 175.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 176.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 177.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 178.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 179.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 180.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994
 
 ###### ARTICULO 181.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 182.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 183.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 184.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 185.
 
-Los propietarios de predios colindantes con la zona federal están obligados a dar aviso a la Secretaría de Comunicaciones o a la autoridad marítima correspondiente, cuando dicha zona sea modificada por las aguas. La zona federal subsiste aun cuando la saguas (sic) invadan predios de propiedad particular, pero los propietarios de los predios invadidos, aun cuando pierdan su carácter de tales, por lo que respecta a las fracciones que pasen a ser zona federal, pueden ocuparlas gratuitamente si comprueban ante la Secretaría de Comunicaciones:
-
-I.- Que sus terrenos fueron invadidos por las aguas en la extensión y forma que aduzcan, y
-
-II.- Que hicieron cuanto estuvo de su parte por evitar la invasión, a menos que ésta haya sido repentina.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 186.
 
-Si dentro de los terrenos invadidos se encontrare alguna construcción, se seguirá la regla establecida en el artículo anterior, pero si esta construcción constituyera un obstáculo para la navegación y los usos a que está destinada la zona federal, en cualquier época, la Secretaría de Comunicaciones podrá demolerla o destruirla al servicio público, previa expropiación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 187.
 
-Los propietarios de las construcciones de que trata el artículo anterior, podrán efectuar por sí las demoliciones a que el mismo artículo se refiere, dejando libre la zona federal respectiva, dentro del plazo y condiciones que fije la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 188.
 
-Los terrenos de propiedad nacional y particular, colindante con la zona federal, están sujetos a las servidumbres siguientes:
-
-I.- De salvamento de personas y bienes y su depósito; en cuyo caso se podrá ocupar transitoriamente el terreno necesario para ejecutar estas operaciones;
-
-II.- De amarre;
-
-III.- De paso;
-
-IV.- De vigilancia, y
-
-V.- Las demás que se establezcan por el reglamento de la materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO III. De la navegación
 
 ###### ARTICULO 189.
 
-La navegación en los mares territoriales de la República es libre para las embarcaciones de todos los países, en los términos del Derecho y Tratados Internacionales.
-
-Las embarcaciones extranjeras que naveguen en aguas mexicanas, quedan sujetas por este sólo hecho al cumplimiento de las leyes de la República y de sus respectivos reglamentos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 190.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 191.
 
-Las embarcaciones procedentes de algún puerto extranjero, que arriben a uno de la República, deben venir provistas del despacho consular correspondiente, conforme a las disposiciones reglamentarias.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 192.
 
-Las embarcaciones mercantes extranjeras, podrán:
-
-I.- Conducir pasajeros y carga del extranjero para todos los puertos de la República y viceversa;
-
-II.- Llegar a un puerto de la República y proseguir para otro u otros, con todo o parte del cargamento que transporten, con objeto de tomar o dejar pasajeros o carga de tráfico de altura;
-
-Estas facultades podrán ser negadas por la Secretaría de Comunicaciones cuando no haya reciprocidad internacional con la Nación de la matrícula de la embarcación, o cuando el interés público lo exija;
-
-III.- Traer a remolque embarcaciones del extranjero y remolcar nuevamente a las mismas después de haber hecho las operaciones de carga y descarga;
-
-IV.- Remolcar embarcaciones para puertos extranjeros cuando no se disponga de remolcadores nacionales que puedan hacer este servicio, y
-
-V.- Hacer el servicio de salvamento en aguas nacionales:
-
-a). De náufragos.
-
-b). De embarcaciones, sólo en casos de emergencia o cuando no se disponga de elementos para hacerlo en el lugar del siniestro.
-
-Es obligatorio para las embarcaciones de matrícula extranjera, que hagan servicio regular de pasajeros de puertos mexicanos al exterior, utilizar servidumbre mexicana, en la forma y términos que fija el reglamento respectivo. Se exceptúan las embarcaciones que traigan servidumbre de habla española.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 193.
 
-Aun cuando las franquicias que se enumeran en este artículo constituyen una prerrogativa exclusiva a las embarcaciones mercantes mexicanas, las extranjeras, previo permiso de la Secretaría de Comunicaciones y mientras ésta lo estime convenientes, podrán:
-
-I.- Operar dentro de aguas mexicanas como barcos, fábricas, dragas cabrías, etc.;
-
-II.- Transportar pasajeros dentro de los límites de las costas de la República, en los siguientes casos:
-
-a).- Cuando dentro de las setenta y dos horas anteriores o posteriores a la fecha fijada para la salida de un buque extranjero, no hubiere buque nacional legalmente autorizado para hacer este servicio.
-
-b).- Cuando debiendo salir dentro de un período de setenta y dos horas un buque nacional autorizado y uno o varios buques extranjeros, a un mismo puerto, el nacional no tenga cupo para admitir más pasajeros en la clase de servicios requeridos por éstos;
-
-III.- Transportar carga entre puertos de la costa mexicana, previo permiso directo de la Secretaría de Comunicaciones y siempre que no haya embarcaciones mexicanas que puedan desempeñar ese servicio, y
-
-IV.- Hacer servicio de pesca en aguas nacionales, conforme a las disposiciones legales de la materia.
-
-La Secretaría de Comunicaciones podrá autorizar a las embarcaciones extranjeras, por un tiempo determinado, para que establezcan servicios regulares de transporte de pasajeros y carga en tráfico de cabotaje, cuando a su juicio así lo requiera el interés público.
-
-Dichas embarcaciones quedarán sujetas a las disposiciones de esta Ley y sus Reglamentos en lo que concierne a la explotación de los mismos servicios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 194.
 
-Se entienden reservados exclusivamente a las embarcaciones mexicanas, todos los servicios y operaciones que esta Ley no autorice para las extranjeras; pero para que éstas puedan desempeñar cualesquiera de las operaciones para las que tienen preferencia las nacionales, será necesario que reúnan iguales o mejores condiciones que éstas. Tratándose de los servicios a que se refiere el artículo 192, se les exigirán esos mismo requisitos, si a su salida pretenden hacer las operaciones expresadas en dicho artículo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 195.
 
-La navegación puede ser marítima o interior, subdividiéndose la primera en navegación de altura y navegación de cabotaje y se regirán por las normas que fije el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 196.
 
-Las navegaciones a que se refiere el artículo anterior comprende los siguientes tráficos:
-
-I.- Transporte de pasajeros;
-
-II.- Transporte de carga;
-
-III.- Pesca;
-
-IV.- Remolque, y
-
-V.- Dragado, salvamento y demás trabajos relacionados con las comunicaciones con aguas o con las obras de los puertos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 197.
 
-Queda prohibida la navegación marítima llevando embarcaciones a remolque que conduzcan pasajeros. Solamente se permitirá esa clase de remolques cuando se trate de salvamento, o en la comunicación entre embarcaciones y los puertos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 198.
 
-Las embarcaciones nacionales autorizadas para efectuar exclusivamente las navegaciones de cabotaje o interior, no estarán obligadas a proveerse de patente de sanidad, ni a ser objeto de visita sanitaria como requisito previo a su comunicación por tierra, excepto en los siguientes casos:
-
-I.- Cuando la embarcación proceda de un puerto que haya sido declarado infectado o sospechoso, por el Departamento de Salubridad Pública;
-
-II.- Cuando en el trayecto de la navegación se registre algún caso de enfermedad infecciosa. En este caco (sic), el capitán de la embarcación quedará obligado, bajo su responsabilidad, a solicitar la intervención inmediata del Delegado Sanitario, sin que pueda quedar la embarcación a libre plática, en tanto no lo resuelva la autoridad marítima, y
-
-III.- Cuando se conduzcan cadáveres.
-
-Las embarcaciones están exceptuadas de los requisitos de migración; pero les está prohibido comunicarse fuera de puerto con embarcaciones de tráfico de altura, ya sean acoderándoseles o por medio de botes, salvo cuando sea necesario prestar o recibir auxilios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 199.
 
-Las embarcaciones nacionales que hagan navegación de altura con escalas, deberán cumplir con los requisitos de sanidad y migración, en el primer puerto mexicano a su arribada y en el último a su salida, así como en los casos a que se refiere el artículo anterior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 200.
 
-La Secretaría de Comunicaciones, en casos excepcionales que el interés público exija, queda facultada para fijar la ruta y limitar el número y tonelaje de las embarcaciones que deban hacer determinado tráfico, teniendo en cuenta, la eficiencia y seguridad de las embarcaciones, así como las garantías que presten al pasaje y carga que transporten, cuando a su juicio se consideren cubiertas las necesidades del servicio. Los reglamentos fijarán las condiciones que deban reunir las embarcaciones para que puedan dedicarse a la navegación y tráfico a que se refieren los artículos 200 y 201 de la presente Ley. Los yates, buques escuelas y demás embarcaciones especiales que no sean de comercio, por lo que respecta a la navegación, se regirán por las disposiciones reglamentarias. Las embarcaciones que se dediquen a la navegación interior en todo lo que se refiere a ésta, se regirán por el reglamento respectivo.
-
-Las empresas que tengan embarcaciones dedicadas a su servicio particular de navegación interior, conexa o no con la marítima, están obligadas a transportar los productos similares a los suyos, utilizando, al efecto, hasta el 20% del cupo total de dichas embarcaciones. Este servicio lo prestarán conforme a las reglas y tarifas que les fije la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO IV. De las arribadas y recaladas
 
 ###### ARTICULO 201.
 
-Se llama arribada al hecho de que una embarcación llegue a un lugar cualquiera de la costa procedente de un puerto o punto distinto, independientemente de que embarque o desembarque personas o efectos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 202.
 
-Las arribadas pueden ser:
-
-I.- Previstas, o sean las consignadas en los despachos de salidas del buque;
-
-II.- Imprevistas, o sean las que se hagan en puntos distintos de los anotados en los documentos a que se refiere la fracción anterior, por convenir así a los intereses de la embarcación, y
-
-III.- Forzosas, o sean los que se efectúen por mandato de la ley, o por causa fortuita o de fuerza mayor.
-
-Las arribadas a que se refiere este artículo, se justificarán en la forma y términos que prevenga el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 203.
 
-Los capitanes de las embarcaciones que arriben a cualquier punto de la jurisdicción nacional, están obligados:
-
-I.- A presentarse personalmente, salvo impedimento justificado, ante el capitán de puerto, proporcionando por escrito los datos o informes que fije el reglamento respectivo;
-
-II.- A entregar el despacho que en el puerto de procedencia hubiere otorgado a la embarcación de su mando al Cónsul de México o la autoridad marítima, así como los demás documentos que fijen las leyes y reglamentos respectivos, y
-
-III.- A mostrar sus diarios de navegación y permitir que se tomen de él las constancias que estime convenientes la Capitanía de Puerto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 204.
 
-Los consignatarios o representantes de armadores de barcos extranjeros en México, estarán obligados, para garantizar la responsabilidad de éstos en casos de accidentes u obligaciones de trabajo con motivo de las maniobras a bordo de los mismos, a tomar un seguro con una empresa establecida en el país, en favor de los trabajadores mexicanos que pudieran resultar acreedores de aquéllos, por efecto de dichas maniobras ordenadas por la autoridad del buque, de acuerdo con las disposiciones del Código de Comercio.
-
-Los consignatarios de las mercancías por cuya cuenta se efectúen tales maniobras, en barcos extranjeros, tendrán la obligación que se establece en el párrafo anterior, respecto de las que se ejecuten fuera del barco.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 205.
 
-Una vez satisfechos los requisitos a que se refiere el artículo 203, la Capitanía de Puerto declarará que la embarcación queda en turno para las operaciones que procedan, expidiendo la autorización correspondiente para que la embarcación haga las enmiendas y atraques posteriores, que se necesiten, en el concepto de que una vez realizados éstos, se requerirá otra vez autorización de dicha Capitanía, para realizar nuevos atraques o enmiendas salvo casos fortuitos o de fuerza mayor.
-
-La Capitanía de Puerto deberá hacer la declaración a que se refiere el párrafo anterior, a pedimento de los interesados, aun cuando no se hayan cumplido los expresados requisitos, previa fianza que otorguen por la cantidad que fije la propia autoridad; pero si la embarcación transporta materiales explosivos o inflamables y no se expresa esa circunstancia en la solicitud respectiva, la autorización para hacer operaciones quedará sin efecto entre tanto se dictan las medidas de precaución que se estimen necesarias.
-
-La fianza a que se refiere este artículo responderá por el importe de las sanciones pecuniarias que se impongan a los capitanes o consignatarios de las embarcaciones por la falta de cumplimiento de cualquier requisito legal.
-
-Tratándose de buques nacionales, la Capitanía hará la declaración en los términos del párrafo segundo sin necesidad de que se otorgue dicha fianza.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 206.
 
-Se entiende por recalada el hecho de que una embarcación se aproxime a la costa para reconocerla o para rectificar su situación prosiguiendo el viaje.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 207.
 
-Las embarcaciones que arriben a un puerto nacional, inmediatamente después de su arribada, previos los requisitos de sanidad y migración, cuando proceda, podrán:
-
-I.- Desembarcar pasajeros y carga;
-
-II.- Embarcar combustibles y víveres, y
-
-III.- No podrán efectuar ninguna otra operación, sino después de haber cumplido con lo previsto en el artículo 203 y previos los requisitos respectivos.
-
-Las embarcaciones que arriben a algún otro punto no considerado como puerto, no podrán hacer ninguna otra operación sin cumplir antes con lo dispuesto en dicho artículo y esto siempre que tengan el permiso correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO V. De la permanencia en puerto
 
 ###### ARTICULO 208.
 
-Los capitanes de los puertos y las demás autoridades de los mismos, están obligados a procurar que no se prolongue la permanencia de las embarcaciones en ellos sin causa justificada.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 209.
 
-Los capitanes de las embarcaciones durante su permanencia en un puerto nacional, están obligados:
-
-I.- A hacer que se enciendan las luces reglamentarias de las embarcaciones y que se pongan las señales que por circunstancias especiales fije la Capitanía del Puerto;
-
-II.- A amarrar o arrejerar sus embarcaciones en la forma que lo disponga la propia autoridad;
-
-III.- A permitir que a sus embarcaciones se les acoderen otras, cuando desempeñen servicios de utilidad pública;
-
-IV.- A prestar auxilios de salvamento, conforme a las disposiciones del capítulo I, y
-
-V.- A utilizar el servicio de pilotaje cuando lo exija esta Ley o sus Reglamentos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 210.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 211.
 
-Las embarcaciones cargadas con substancia explosivas o inflamables, ejecutarán sus operaciones de carga y alijo precisamente en el lugar que determine el Reglamento respectivo y obedeciendo estrictamente todas las indicaciones que para mayor seguridad les haga la Capitanía de Puerto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO VI. Del amarre y abandono de embarcaciones
 
 ###### ARTICULO 212.
 
-Por amarre se entiende la permanencia de una embarcación en puerto sin realizar operaciones y sin su tripulación de servicio a bordo. Sólo se considerará amarrada una embarcación cuando así lo autorice la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 213.
 
-El permiso de amarre se otorgará a solicitud del armador, siempre que con ello no se perjudique el tránsito, los servicios del puerto o el servicio público de transportes, a juicio de la Secretaría de Comunicaciones.
-
-En todo caso el armador acompañará a su solicitud la autorización de los Tribunales de Trabajo, para suspender o dar por terminado el contrato de trabajo celebrado con la tripulación.
-
-La Secretaría de Comunicaciones fijará el término de duración del amarre.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 214.
 
-El amarre será permitido, previa fianza que otorgue el armador a satisfacción de las autoridades del trabajo, por el importe de las indemnizaciones y demás prestaciones de la dotación.
-
-Igualmente deberá otorgar el armador una fianza a satisfacción de la Secretaría de Comunicaciones, por el importe de los gastos que pudieran originarse en los casos de salvamento o destrucción de la embarcación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 215.
 
-Cuando transcurrido el plazo de amarre y las prórrogas, en su caso, no se pusiere en servicio la embarcación, o cuando antes del vencimiento de estos términos estuviere en peligro de irse a pique o constituya un estorbo para la navegación o el tránsito marítimo, a juicio de la Capitanía de Puerto, ésta ordenará su remolque al lugar que considere conveniente. Si no se cumpliere la orden, la misma Capitanía de Puerto ordenará la maniobra por cuenta de los propietarios de la embarcación, haciendo efectiva la fianza, y procediendo al remate de la misma, cuando el importe de aquélla no fuere bastante para pagar el de las maniobras, quedando el resto a disposición de los propietarios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 216.
 
-Si una embarcación en estado de amarre se varare o se fuere a pique dentro del puerto, en condiciones tales que constituya un obstáculo para la navegación, será removida por los propietarios en el plazo que fije la Secretaría de Comunicaciones; si no lo hicieren se procederá en los términos del artículo anterior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 217.
 
-Se considerará abandonada una embarcación:
-
-I.- Cuando así lo declare el propietario ante las autoridades marítimas respectivas;
-
-II.- Cuando permanezca en puerto sin hacer operaciones y sin tripulación, durante un plazo de cinco días, sin que se solicite la autorización o amarre o de abandono respectivo;
-
-III.- Cuando, fuera de puerto, permanezca sin hacer operaciones y sin tripulación durante un plazo de treinta días, sin que se solicite la autorización respectiva de amarre o abandono;
-
-IV.- Cuando hubieren transcurrido los plazos y prórrogas a que se refiere el artículo 215 sin que la embarcación sea puesta en servicio, y
-
-V.- Cuando dentro de los limites de un puerto quedare varada o se fuere a pique sin que se lleven a cabo las maniobras necesarias para su salvamento, dentro del plazo y en las condiciones que determine la Capitanía de Puerto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 218.
 
-Cuando una embarcación hubiere sido abandonada con autorización de la Capitanía de Puerto que corresponda, el propietario de la misma tendrá derecho a desmantelarla; pero si el abandono se hubiere hecho sin contar con esa autorización, la embarcación quedará, desde luego, a beneficio del Gobierno Federal y se dispondrá de ella en la forma que determine la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO VII. Del despacho de las embarcaciones
 
 ###### ARTICULO 219.
 
-La salida de puerto se consuma desde el momento en que las embarcaciones pasan de los límites del mismo. La salida de radas abiertas se consuma por el hecho de que las embarcaciones larguen sus amarras y leven anclas, para ponerse en movimiento y hacerse a la mar.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 220.
 
-Los capitanes de las embarcaciones que deseen salir de puerto, deberán presentar ante la Capitanía del mismo, el pedimento de despacho correspondiente, el que sólo se otorgará cuando se haya cumplido con los requisitos reglamentarios del caso.
-
-Los capitanes de puerto no deben otorgar despacho a las embarcaciones que no hayan justificado su arribada en la forma y términos previstos por esta Ley y sus Reglamentos, cuando no llenen los requisitos señalados por los mismos ordenamientos y en los casos que no acrediten haber cubierto la aportación a que se refiere el artículo 158 de la Ley Federal del Trabajo.
-
-Los capitanes de puerto no deben otorgar despacho a las embarcaciones cuyos armadores o representantes no comprueben que los salarios de la dotación del buque han sido totalmente liquidados y están al corriente de conformidad con los contratos de trabajo correspondientes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 221.
 
-Los capitanes de puerto no deben otorgar despacho a las embarcaciones cuyos armadores o representantes no comprueben que las dotaciones de sus buques están gozando del seguro de accidentes, trabajo y previsión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 222.
 
-La salida de las embarcaciones de puerto sin los requisitos de que trata el artículo anterior, sólo puede ser tolerada por caso fortuito o fuerza mayor, en que se expedirán, desde luego, a fin de evitar demoras en su salida a las embarcaciones.
-
-Los capitanes de las embarcaciones que salgan de lugares que no tengan el carácter de puertos, quedan exceptuados de la obligación a que se refiere el artículo 220, si en ellos no hubiere autoridad marítima o empleados que hagan sus veces; pero en este caso, observarán estrictamente los requisitos que se fijen al expedirles el permiso de arribo a tales lugares.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 223.
 
-Fuera de los casos previstos en los artículos 220 y 221, sólo podrá negarse el otorgamiento de despacho en los siguientes casos:
-
-I.- Por orden de la autoridad judicial;
-
-II.- Por orden de las autoridades administrativas federales, cuando no hayan violado disposiciones de orden público, y
-
-III.- Cuando por el informe oficial meteorológico, se estime que hay peligro para la embarcación, si se hace al mar.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 224.
 
-La revocación de los despachos de las embarcaciones es procedente, aun cuando hayan salido de puerto, si se ha declarado la interdicción del comercio con el punto para el cual fueron despachadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 225.
 
-Las embarcaciones despachadas no podrán ser objeto de arraigo, embargo o alguna otra providencia que evite su salida para el puerto de su destino; pero podrán suspenderse los efectos del despacho únicamente por el tiempo indispensable para aprehender algún delincuente, rescatar efectos robados o embarcados indebidamente, a solicitud de la autoridad competente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 226.
 
-Las embarcaciones despachadas no pueden ejecutar operaciones que alteren las condiciones en que los fueron, y si lo hicieren quedarán por ese solo hecho, nulificados sus despachos.
-
-De la misma manera quedarán sin efecto los despachos si no se hiciera uso de ellos, dentro de las veinticuatro horas siguientes a su expedición.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 227.
 
-La Capitanía de Puerto prohibirá la salida de las embarcaciones cuando así lo juzgue conveniente, por mal tiempo o previsión de él.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 228.
 
-Las embarcaciones de empresas, de agrupaciones de trabajadores o de cooperativas dedicadas a la industria pesquera, así como las de aquellas personas que no teniendo asalariados a su servicio se dediquen a la misma industria, sólo podrán ser despachada cuando, además de haber cumplido con los requisitos de esta Ley y sus Reglamentos, acrediten estar autorizadas por la dependencia federal que corresponda para la explotación a que se dedican.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 229.
 
-Para los efectos del artículo 158 de la Ley Federal del Trabajo, los armadores y consignatarios, en su caso, estarán obligados a enterar en la aduana del puerto de arribo de sus embarcaciones una cuota que se señalará en el Reglamento de este capítulo, por cada tonelada o fracción de arqueo bruto.
-
-El monto de estas aplicaciones se depositará en el Banco de México, a disposición de la Secretaría de Comunicaciones, para las obras de construcción a que se refiere el artículo 158 referido.
-
-Las aduanas no otorgarán solvencia a las embarcaciones cuyos armadores o consignatarios, en su caso, no hayan cubierto la aportación a que este artículo se refiere.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 230.
 
-Las embarcaciones registradas para el tráfico interior, si sus condiciones técnicas se lo permiten pueden navegar dentro de la jurisdicción del puerto de su matrícula, previo permiso de la Capitanía.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO VIII. Del servicio de inspección naval
 
 ###### ARTICULO 231.
 
-Quedan sujetos al requisito de inspección:
-
-I.- Las embarcaciones de nacionalidad mexicana, y
-
-II.- Las embarcaciones extranjeras que se encuentren comprendidas en alguno de los siguientes casos:
-
-a).- Las fletadas por persona de nacionalidad mexicana y que se utilicen para navegar entre puertos nacionales y extranjeros.
-
-b).- Las que embarquen pasajeros o carga en algún puerto nacional.
-
-c).- Las que pretendan obtener permiso de la Secretaría de Comunicaciones, para hacer el tráfico reservado a las embarcaciones nacionales.
-
-III.- Los astilleros, diques y varaderos al servicio de la marina mercante, y
-
-IV.- Los muelles, almacenes, grúas, boyas y, en general, todos los establecimientos y accesorios del servicio de la marina mercante.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 232.
 
-La inspección será practicada:
-
-I.- Cuando las embarcaciones y demás obras se encuentren en construcción;
-
-II.- Cuando la embarcación trate de abanderarse;
-
-III.- Al expirar el período de navegación de las embarcaciones sujetas a inspección;
-
-IV.- Cuando la embarcación entre a dique a carenarse;
-
-V.- Cuando la embarcación sufra modificaciones o reparaciones en su caso, cubierta, máquinas y demás partes esenciales;
-
-VI.- Cuando por causa de accidente, la embarcación hubiere sufrido averías serias;
-
-VII.- Cuando lo soliciten, fundamentalmente, a juicio de quien deba practicarla, los pasajeros, tripulantes, cargadores o el Cónsul de la nación cuya bandera arbole la embarcación;
-
-VIII.- Cuando lo soliciten, fundamentalmente, a juicio del Cónsul de México, quien se atendrá a la opinión de los peritos que nombre para el caso, los pasajeros, tripulantes o cargadores de la embarcación, si se encuentra en el extranjero;
-
-IX.- Al tomar el mando de una embarcación o cuando la solicite el capitán de la misma, y
-
-X.- Cuando lo ordene alguna autoridad judicial.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 233.
 
-Las embarcaciones estarán sujetas, además, a una inspección periódica que comprenderá la revisión total y parcial de todo aquello que pueda influir, directa o indirectamente en la navegación y tráfico de las embarcaciones. También comprenderá la fijación, ratificación o rectificación de la línea de franco goro o máxima carga, así como el arqueo, de acuerdo con el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 234.
 
-Quedan exceptuadas del requisito de inspección periódica las embarcaciones de vela, hasta de veinte toneladas de arqueo bruto, las movidas por remos y las matriculas par ala navegación interior, hasta de diez toneladas de arqueo bruto, siempre que no se dediquen al tráfico de pasajeros.
-
-No quedan comprendidas en la excepción a que este artículo se refiere las embarcaciones que utilicen para prestar sus servicios los pilotos de puertos y los amarradores de cabos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 235.
 
-El período de navegación que se fije a las embarcaciones no podrá ser mayor de tres años para las de vela y de un año para las demás.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 236.
 
-Si al practicarse la inspección a una embarcación resultare con deficiencias, que a juicio de la autoridad marítima no sea de urgente e indispensable necesidad subsanar, desde luego, para garantizar la seguridad de la embarcación, podrá expedirse el certificado de seguridad correspondiente, por el período absolutamente necesario para corregirlas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 237.
 
-Si en el puerto no existieren los elementos necesarios para subsanar las deficiencias que tenga una embarcación para continuar navegando, podrá la autoridad marítima concederle permiso para que salga al puerto donde los haya, anotado en el mismo las operaciones que podrá hacer al amparo de tal documento, hasta su llegada a dicho puerto, en donde, por ningún motivo, se le expedirá nuevo permiso para zarpar, sino hasta que haya subsanado las deficiencias mencionadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 238.
 
-Si el propietario, naviero o capitán de una embarcación inspeccionada no estuviere conforme con alguna de las observaciones que se le hubieren hecho, con motivo de la inspección, lo manifestará así a la Secretaría de Comunicaciones dentro de los cinco días siguientes al de la fecha de recibo del pliego de observaciones, la que resolverá sobre la justificación de éstas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 239.
 
-Los propietarios, navieros, capitanes y demás tripulantes de las embarcaciones, están obligados a facilitar las inspecciones por todos lo medios a su alcance, proporcionando toda clase de datos e informes que se les pidan y ordenando las maniobras que les indiquen.
-
-Los armadores estarán obligados a cubrir todos los gastos que originan las inspecciones y de manera especial, tratándose de pruebas de resistencia, determinación de espesores, experimentos de estabilidad y las que la autoridad marítima estime necesarias, incluyendo en dicho importe el de los gastos que implique la reparación del material averiado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO IX. Del servicio de pilotaje y maniobras complementarias
 
 ###### ARTICULO 240.
 
-Todas las embarcaciones que arriben, salgan, o enmienden su lugar de atraque o fondeo en los lugares de la República en la que la Secretaría de Comunicaciones haya declarado obligatorio el pilotaje para todas o algunas de las maniobras antes citadas, deberán hacerlas con pilotos de puerto a bordo. Los capitanes o quienes hicieren sus veces, que infrinjan esta prevención, sufrirán las penas que para el caso señalen esta Ley y sus reglamentos.
-
-No obstante lo dispuesto en el párrafo anterior, los capitanes podrán bajo su responsabilidad, enmendar el fondeadero de sus barcos sin piloto de puerto a bordo, en casos de fuerza mayor y siempre que no hubiere piloto disponible en puerto, en el momento requerido. Es obligatorio el uso de remolcadores para las embarcaciones nacionales o extranjeras, de quinientas toneladas en adelante, en los puertos que determine la Secretaría de Comunicaciones, de acuerdo con el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 241.
 
-Quedan exceptuadas de la obligación de tomar piloto de puerto:
-
-I.- Las embarcaciones mercantes nacionales hasta de quinientas toneladas brutas de arqueo, en sus maniobras de entrada y salida del puerto, siempre que las hagan conducir a remolque por otra embarcación y que estén mandadas por capitanes o patrones que reúnan las condiciones que previene el Reglamento de Pilotaje.
-
-II.- Las embarcaciones mercantes nacionales hasta de quinientas toneladas brutas de arqueo, en sus maniobras de atraque y enmienda en el interior del puerto, siempre que lo hagan remolcando alguna embarcación que requiera legalmente servicio de pilotaje, y que estén mandadas por capitanes o patrones que reúnan las condiciones que previene el Reglamento de Pilotaje;
-
-III.- Las embarcaciones nacionales de cualquier tonelaje a su salida del puerto, siempre que no lo hagan remolcando alguna embarcación que no esté exceptuada de este servicio;
-
-IV.- Las embarcaciones de cualquier tonelaje, autorizadas para la navegación interior, en toda la jurisdicción en que lo estén;
-
-V.- Las embarcaciones nacionales de guerra, y
-
-VI.- Las demás embarcaciones que fijen los reglamentos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 242.
 
-Las excepciones a que se refiere la fracción VI del artículo anterior, no regirán en el caso en que las embarcaciones en él mencionadas, efectúen maniobras de entrada, salida o enmienda, remolcando alguna embarcación que no esté comprendida dentro de dichas excepciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 243.
 
-Las embarcaciones que no estén obligadas a utilizar el servicio de pilotaje, podrán solicitarlo cuando lo estimen conveniente, y les será prestado en todo caso.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 244.
 
-El servicio de pilotaje será prestado por turno riguroso, salvo cuando se trate de embarcaciones que tengan derecho de preferencia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 245.
 
-La facultad de no utilizar piloto de puerto en los casos permitidos por esta Ley, corresponde exclusivamente a los capitanes de las embarcaciones respectivas; en ningún caso y por ningún motivo, los capitanes atenderán indicaciones que modifiquen dicha facultad, siendo los únicos responsables de los daños que sufriere su barco o lo que conduzca, en las maniobras que efectúen dentro de puerto, sin práctico a bordo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 246.
 
-Los capitanes de los buques deben instruir al piloto de puerto en el momento en que éste llegue a bordo, acerca del gobierno de su embarcación, su calado, velocidad y demás datos que pida para el ejercicio de su cometido; en la inteligencia de que el capitán que diera informes falsos e imprecisos a este respecto, será responsable de las consecuencias en caso de accidente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 247.
 
-Cuando los pilotos de puerto juzguen peligrosa una maniobra, se rehusarán a hacerla poniendo en conocimiento del capitán del buque, de sus armadores o consignatarios, dando cuenta igualmente a la Capitanía de Puerto, ante quien justificarán su actitud. Está negará la autorización para todo movimiento cuando considere que existe peligro inminente que pueda traer como consecuencia la obstrucción del puerto, sus canales o cualquier accidente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 248.
 
-La presencia de un piloto de puerto a bordo de una embarcación, no exime al capitán de responsabilidad, pues éste conserva toda la autoridad de mando. El capitán tendrá la obligación de atender las indicaciones del piloto de puerto si en su concepto no expone la seguridad de la embarcación; en caso contrario, deberá relevar de su cometido al piloto de puerto, quien en este caso, queda autorizado para dejar el puente de mando o el buque, dando ambos cuenta de ellos a la autoridad marítima correspondiente, para los efectos que proceda.
-
-Los pilotos de puerto serán responsables por los daños y perjuicios que causen a las embarcaciones debido a impericia, descuido, temeridad o mala fe en sus indicaciones, cuando se encuentren dirigiendo la maniobra a bordo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 249.
 
-El servicio de pilotaje será desempleado en la forma y términos que prevenga el reglamento respectivo, en el que igualmente se indicarán los requisitos necesarios para ocupar las distintas categorías de piloto de puerto que en él se señalen.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 250.
 
-Cuando un buque carezca de agente o representante que garantice el pago del servicio de pilotaje, la autoridad marítima no permitirá su salida hasta que cubra su importe.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 251.
 
-Las cantidades que deben cobrarse por el servicio de pilotaje, serán fijadas por medio de tarifas que la Unión o Sociedad de Pilotos de Puerto de cada lugar, someterá a la aprobación de la Secretaría de Comunicaciones, y servirá de base para fijarlas, el tonelaje bruto, el calado de las embarcaciones y la categoría de los puertos, conforme lo que determine, sobre este particular, el Reglamento. En la navegación interior o fluvial, se hará un cargo adicional al cobro anterior por cada veinticinco kilómetros o menos, cuyo monto fijarán las tarifas respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 252.
 
-Los buques nacionales de guerra y los dedicados a servicios públicos de la Federación, tendrán derecho a que el servicio de pilotaje sea proporcionado gratuitamente, así como el de amarradores de cabos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 253.
 
-Ninguna autoridad ni tampoco los pilotos de puerto, podrán otorgar concesión alguna que afecte los honorarios fijados en las tarifas de pilotaje, ni aun a título de protección al tráfico marítimo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 254.
 
-Los pilotos de puerto tendrán las embarcaciones que la capitanía de puerto juzgue necesarias para el ejercicio de sus servicios, las que utilizarán exclusivamente para el desempeño de los mismos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 255.
 
-Los pilotos mayores están obligados a entrar en turno con los demás pilotos para todo servicio, sin perjuicio de las obligaciones inherentes a su cargo, pero además de los emolumentos que a prorrata con los otros pilotos les correspondan, percibirán sueldo del Erario Federal, cuando la Secretaría de Comunicaciones lo estime necesario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 256.
 
@@ -1918,345 +1668,217 @@ La categoría y el número de los pilotos de puerto que deben ejercer en cada pu
 
 ###### ARTICULO 257.
 
-La Secretaría de Comunicaciones designará, para cubrir las vacantes de pilotos de puerto, a personas pertenecientes a la Marina Mercante Nacional, cuyos conocimientos teóricos y prácticos hayan sido plenamente comprobados ante la misma Secretaría, en los términos que fija el reglamento respectivo con excepción del piloto mayor que, en todo caso, será designado por el conjunto de pilotos de puerto que funcionen en el lugar.
-
-Los pilotos mayores, pilotos de puerto en sus distintas categorías y los aspirantes a pilotos, se considerarán como empleado (sic) federales, en lo que se refiere a sus funciones de auxiliares de la policía del puerto. Las relaciones entre armadores o consignatarios y los pilotos de puerto, y entre éstos y sus empleados, se regirán por las disposiciones de la Ley Federal del Trabajo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 258.
 
-Los capitanes de embarcaciones deberán mandar parar o moderar las máquinas de los mismos y maniobrar convenientemente, a fin de facilitar al piloto de puerto el tomar o dejar el buque de su mando, y en caso de mal tiempo, o de que haya mar gruesa, deberán ejecutar lo que la pericia marinera indique para proteger la embarcación del piloto de puerto en el atraque o desatraque, procurando a la vez evitar, por cuantos medios sean posibles, el peligro que pudiera sobrevenir, siendo responsables de las averías y accidentes que por no acatar lo previsto en este artículo, se causaren a la embarcación y al piloto de puerto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 259.
 
-Los pilotos de puerto gozarán anualmente de vacaciones y podrá concedérseles licencia en caso de enfermedad en la forma y términos que establezca el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 260.
 
-El amarre de cabos de las embarcaciones es independiente del servicio de pilotaje. Por tanto, será por cuenta de los armadores o consignatarios. Las relaciones entre éstos y los amarradores de cabos se regirán conforme a las disposiciones de la Ley Federal del Trabajo.
-
-Podrán ser amarradores de cabos, el patrón, motoristas y marineros que tripulen las embarcaciones destinadas a ese servicio, así como los obreros que en tierra habitualmente colaboren con ellos en las maniobras de amarre.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 261.
 
-Los amarradores de cabos, para el ejercicio de sus labores, deberán ser propietarios de embarcaciones adecuadas para el servicio que prestan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO X. De los accidentes marítimos
 
 ###### ARTICULO 262.
 
-En casos de naufragio, incendio, abordaje, varada o cualquier otro accidente que sufra una embarcación, su cargamento, tripulantes u otras personas a bordo de ella, el capitán procederá a practicar una investigación y hará constar los hechos en el Diario de Navegación o Cuaderno de Bitácora, que lo substituya, si el accidente ocurre fuera del puerto, dando cuenta de los hechos a la autoridad marítima en cuanto arribe a puerto. Si el accidente ocurre en puerto dará cuenta desde luego a la autoridad marítima, la que procederá a practicar la investigación que corresponda, informando por la vía más rápida a la Secretaría de Comunicaciones, la cual, si el caso lo amerita, designará dos peritos que deberán emitir opinión respecto a las causas del accidente y de los presuntos responsables del mismo; una vez agotada la averiguación se turnará dentro de los cinco días siguientes al Agente del Ministerio Público Federal que corresponda.
-
-Si el accidente ocurriere en puerto extranjero, el capitán de la embarcación lo pondrá desde luego en conocimiento del Cónsul de México.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 263.
 
-En caso de naufragio de una embarcación dentro del puerto, o en sus cercanías cuando lo afecte, el propietario o compañía interesada procederá a su extracción o remoción, dentro del plazo que fije la capitanía, sin perjuicio de aplicarle lo dispuesto en el artículo 47, en caso de que se rehuse a hacer los trabajos respectivos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 264.
 
-La organización del servicio de salvamento de náufragos corresponde a la Secretaría de Comunicaciones, la que determinará el número de estaciones y subestaciones que deban establecerse en los litorales de la República, pudiendo autorizar a los particulares para establecerlas, siempre que cumplan con los requisitos que fija el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 265.
 
-El salvamento y auxilio de embarcaciones con personas a bordo, en caso de peligro, será dirigido por la autoridad marítima a costa del armador de la nave que reciba el salvamento o auxilio. El armador que no cubra los gastos originados con motivo del salvamento, no podrá obtener autorización, permiso o concesión, para explotar a cualquier otra embarcación nacional, o para arribar a puerto si se trata de un armador extranjera, (sic) hasta en tanto, no se paguen los mencionados gastos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+
+###### ARTICULO 265.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 266.
 
-Los capitanes de las embarcaciones están obligados a prestar auxilio a cualquiera persona aun siendo enemiga, que se encuentre en el mar en peligro de perderse, siempre que lo pueda hacer sin peligro serio para su embarcación, su tripulación o sus pasajeros. Los armadores no serán responsables de las contravenciones a esta disposición.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 267.
 
-De los efectos salvados se formará un inventario valorado, quedando provisionalmente bajo la guarda de la persona que designe el capitán de la embarcación auxiliada, entretanto el juez que conozca del caso no disponga otra cosa.
-
-Los equipajes de los pasajeros y tripulantes del barco auxiliado, serán entregados a sus legítimos propietarios, representantes o herederos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 268.
 
-La remuneración que corresponda por salvamento y auxilios, será fijada en la forma que previene el derecho común y la Convención Internacional, promulgada por decreto de 16 de febrero de 1920 y las que le sucedan.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XI. De la policía de los puertos
 
 ###### ARTICULO 269.
 
-Los capitanes de puerto y los Inspectores de Navegación Fluvial, son los Jefes de la Policía Marítima y Territorial.
-
-El personal del resguardo marítimo y los jefes de las Oficinas postales y telegráficas, serán auxiliares de esas autoridades, y las substituirán en las poblaciones de la costa y ribereñas en donde aquéllas no existan.
-
-El personal de la policía marítima y territorial estará obligado a acatar las órdenes que reciba de los capitanes de puerto y de los inspectores de navegación fluvial; pero cuando se trate del personal de resguardo marítimo, será necesario, antes de dictar las órdenes respectivas, presentar una solicitud por escrito ante el Jefe de la Aduana respectiva. Este requisito no será indispensable en casos urgentes, en los que las órdenes se dictarán directamente por la autoridad marítima, bajo su responsabilidad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 270.
 
-Los capitanes de los buques nacionales ejercen funciones de policía en los términos que previenen los (sic) leyes respectivas, a bordo de sus embarcaciones durante la navegación, pero a su llegada a puerto deben dar cuenta a la Capitanía correspondiente o al Cónsul de México, en puerto extranjero, de todo lo que hayan actuado con ese carácter durante su viaje, consignando a los individuos de a bordo que hayan cometido alguna infracción o delito.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 271.
 
-Cualquier aprehensión o medida de policía que haya de tomarse a bordo de una embarcación, se hará invariablemente por conducto de la autoridad marítima.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 272.
 
-En los desórdenes o delitos que se cometan a bordo de buque extranjero, sólo intervendrá la Capitanía cuando se altere la tranquilidad del puerto, intervenga un mexicano en ellos o a petición del capitán de la embarcación; pero en todo caso, pondrá el hecho en conocimiento del Cónsul de la Nación a que pertenezca el buque.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XII. Contratos y subvenciones
 
 ###### ARTICULO 273.
 
-La Secretaría de Comunicaciones, cuando el interés público lo exija y a falta de empresa mexicana, podrá celebrar contratos con empresas de navegación extranjeras, para el establecimiento de servicios públicos de transporte, de pasajeros y carga entre puertos mexicanos y extranjeros.
-
-En los contratos a que se refiere el párrafo anterior, podrán concederse subvenciones, además de las franquicias especiales que acuerde la Secretaría en favor de las empresas, en compensación de los servicios que presten al Gobierno Federal y al público, pero sin que en ningún caso pueda exceder su importe total del veinticinco por ciento de las otorgadas a empresas mexicanas.
-
-El Gobierno Federal podrá conceder, asimismo, subvenciones a las empresas mexicanas de navegación, cuando a juicio del propio Gobierno presten un servicio de interés especial para el mismo o para el público.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 274.
 
-Además de las franquicias especiales que la Secretaría acuerde en favor de las empresas cuyos remolcadores presten servicios como buques contra incendio o de salvamento, las subvencionará por lo que hace a estos servicios, en la forma que estime necesaria.
-
-Las empresas de navegación marítima, cuando se trate de transporte reducido en su precio en los términos del artículo 102 de esta Ley, estarán obligadas a admitir hasta un diez por ciento de la capacidad total de la embarcación que haga el transporte, si son subvencionadas por el Gobierno Federal y hasta un cinco por ciento cuando no se encuentren en ese caso.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XIII. De la matrícula y abanderamiento
 
 ###### ARTICULO 275.
 
-Son embarcaciones de nacionalidad mexicana:
-
-I.- Las abanderadas en la República; conforme a la presente Ley;
-
-II.- Las abandonadas en aguas territoriales;
-
-III.- Las que deban quedar a beneficio de la Nación, por contravenir las leyes de la República;
-
-IV.- Las capturadas al enemigo y consideradas como buena presa; y
-
-V.- Las construidas en la República para sus servicios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 276.
 
-Las embarcaciones mexicanas tienen derecho a enarbolar el pabellón mexicano, debiendo matricularse previamente en alguna capitanía de puerto de litoral en que naveguen y a solicitud del naviero, quien deberá tener un representante en puerto de matrícula.
-
-Las embarcaciones a que se refieren las fracciones IV, V y VI del artículo anterior se matricularán de oficio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 277.
 
-Los extranjeros que desarrollen actividades de carácter industrial en la República, podrán adquirir embarcaciones para sus propios servicios, pero deberán abanderarlas como mexicanas y otorgarán fianza en escritura pública, equivalente al veinticinco por ciento del valor de la embarcación, para garantizar el buen uso de la bandera nacional. El avalúo respectivo se hará por peritos designados por la Secretaría de Comunicaciones a costa del interesado.
-
-El monto de la mencionada fianza será disminuido anualmente en un cinco por ciento, siempre que no se hubiere hecho uso indebido de la bandera nacional, a juicio de la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 278.
 
-Las embarcaciones que se encuentren en el extranjero y vayan a abanderarse como mexicanas, deberán inscribirse ante el Cónsul Mexicano de la jurisdicción respectiva. La autoridad consular otorgará pasavante hasta el puerto señalado para que se matricule la embarcación de que se trate, dando aviso de ello a la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 279.
 
-Las embarcaciones dedicadas a la navegación marítima, en cualquiera de los tráficos que establece esta Ley, deberán estar provistas de la Suprema Patente de Navegación respectiva, expedida por la Secretaría de Comunicaciones.
-
-Las autoridades marítimas pueden otorgar a dichas embarcaciones, pasavantes que las autorice para navegar, mientras se expide la Patente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 280.
 
-Sólo podrán hacerse modificaciones en el tonelaje y demás características esenciales de una embarcación, previo permiso de la Secretaría de Comunicaciones. Los certificados de matrícula y de seguridad se canjearán por los que expresen las nuevas especificaciones de la embarcación, previas las anotaciones en el libro de matrícula. En el reverso de la Suprema Patente de Navegación se anotarán las modificaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 281.
 
-Son causas para cancelar el registro de una embarcación en los libros de matrícula, las siguientes:
-
-I.- La pérdida de la nacionalidad mexicana de la embarcación o la de su propietario, salvo lo previsto en el artículo 277 de esta Ley;
-
-II.- El naufragio, incendio o cualquier otro accidente que imposibilite a la embarcación por más de un año, y
-
-III.- El no arribar la embarcación por más de dos años al puerto de su matrícula, excepto el caso en que se compruebe que navega entre otros puertos del país o del extranjero.
-
-La cancelación de registro de una embarcación en los libros de matrícula, por cualquiera de las causas mencionadas, se acordará por la Secretaría de Comunicaciones, tan pronto como se tenga noticia de la existencia de alguna de ellas, y tendrá como consecuencia, además, la caducidad de la concesión, la revocación del permiso o la rescisión administrativa del contrato mediante el cual estuviere explotando el servicio público de transporte.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 282.
 
-La nacionalidad mexicana de una embarcación se pierde:
-
-I.- Por venta o adjudicación en juicio a personas extranjeras, salvo lo previsto en el artículo 281;
-
-II.- Por captura hecha por el enemigo en caso de guerra, si fuere declarada buena presa;
-
-III.- Por confiscación en país extranjero;
-
-IV.- Por ignorarse su paradero, por más de dos años, en el puerto de matrícula, y
-
-V.- Por dimisión de la bandera.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 283.
 
-La dimisión de la bandera de una embarcación tiene lugar en los casos siguientes:
-
-I.- A solicitud del propietario, y
-
-II.- Por enajenación de la embarcación a extranjeros, previo permiso de la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 284.
 
-La dimisión de la bandera sólo se acordará por la Secretaría de Comunicaciones, cuando esté garantizado el interés del fisco y el pago de los salarios y sueldos de la tripulación, así como los gastos de repatriación de ésta hasta el puerto nacional en que fué contratada.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XIV. Del personal de la Marina Mercante
 
 ###### ARTICULO 285.
 
-El personal de la Marina Mercante Nacional, los miembros de la policía de los puertos y los pilotos de puertos se considerarán reservas de la armada nacional, y quedan sujetos a las disposiciones de las leyes militares, conforme a las siguientes bases:
-
-I.- Los miembros de la policía de los puertos y los pilotos de puerto, cuando lo disponga el Ejecutivo de la Unión, y
-
-II.- El personal de la marina mercante, sólo en caso de guerra internacional.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 286.
 
-El personal de la Marina Mercante Nacional comprende ingenieros navales, capitanes de altura, capitanes de marina, pilotos, pilotines, patrones de costa contramaestres, timoneles, marineros, dragadores técnicos, dragadores prácticos, jefes de máquinas, primer maquinista, segundos y terceros maquinistas, aspirantes de maquinistas, maquinistas prácticos, motoristas, ayudantes de motoristas, engrasadores, fogoneros, patrones de pesca, pescadores, patrones de río, patrones marineros, patrones motoristas, amarradores, cocineros, camareros, mayordomos, radiotelegrafistas, contadores, sobrecargos y, en general, todo el que tenga cargo de planta en una embarcación. El personal indicado para prestar sus servicios a bordo de las embarcaciones, no deberán padecer enfermedades contagiosas o defectos físicos que lo incapaciten.
-
-Los títulos de capitanes y pilotos de la marina mercante nacional, así como de los jefes u oficiales facultativos de la armada nacional, desde la clase de tenientes de corbeta, facultan a quienes los posean para desempeñar el cargo de peritos dictaminadores en los casos de accidentes marítimos, y en los juicios de esa índole; así como para desempeñar todos aquellos trabajos que fije el reglamento de este capítulo.
-
-Los planos levantados por los profesionistas a que se refiere el párrafo anterior, tendrán valor en juicio; lo tendrán también las medidas topográficas y tasaciones que efectúen los mismos en propiedades de la Federación o de los particulares.
-
-Los títulos del primero, segundo y tercer maquinista facultan a quienes los poseen para desempeñar el cargo de peritos dictaminadores en juicio de mecánica y electricidad.
-
-En el reglamento se fijarán mandos y cargos que podrá desempeñar el personal de la marina mercante nacional, tonelaje y potencia de máquinas así como los requisitos que deben satisfacerse para obtener los distintos títulos, certificados o nombramientos a que se refiere este artículo.
-
-Todo el personal de la marina mercante nacional debe ser mexicano por nacimiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 287.
 
-Los tripulantes y oficialidad de las embarcaciones nacionales deben ser contratados en los términos de la Ley Federal del Trabajo.
-
-Por lo que toca a las embarcaciones nacionales que hagan tráfico con puertos extranjeros, los tripulantes y oficialidad deben ser contratados también en los términos de la Ley Federal del Trabajo, pero por separado del contrato colectivo general. Se tendrán por no tripuladas las embarcaciones que no hayan satisfecho este requisito.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1982)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 288.
 
-Las personas que posean Título de Capitán de Altura, podrán ejercer legalmente la profesión de Ingeniero Geógrafo e Hidrógrafo.
-
-Las personas que posean Título de Jefe de Máquinas, podrán ejercer legalmente la profesión de Ingeniero Mecánico Electricista.
-
-Para el ejercicio de las profesiones a que se refiere este artículo, los interesados deberán comprobar haber cursado el Plan de Estudios Profesionales y ostentar el registro otorgado por las autoridades respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 289.
 
-El mínimo de dotación con que deben estar tripuladas las embarcaciones nacionales, excepto cuando éstas sean menores de cien toneladas y hagan navegación que no exceda de dieciséis horas, corresponderá a tres turnos y será fijada en los certificados de cubierta y máquinas, así como el título certificado o autorización que cada individuo debe tener para desempeñar su cargo, de acuerdo con la navegación y tráfico de las embarcaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 290.
 
-El número de tripulantes con que debe estar dotada una embarcación, será fijado en los certificados de cubierta y máquinas, así como el título certificado o autorización que cada individuo debe tener para desempeñar su cargo, de acuerdo con la navegación y tráfico de la embarcación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 291.
 
-Los capitanes tienen a bordo de las embarcaciones de su mando la representación de la Secretaría de Comunicaciones y demás autoridades administrativas de la Nación, y por tanto, están obligados:
-
-I.- A cumplir y hacer cumplir todas las disposiciones de orden público que prevengan las leyes y que especialmente se les comuniquen;
-
-II.- A poner en conocimiento de la Capitanía del Puerto, cualquier circunstancia que no esté de acuerdo con lo que expresen los certificados de seguridad de la nave;
-
-III.- A guardar y hacer guardar el orden y la disciplina a bordo de la embarcación de su mando, solicitando, en caso necesario, el auxilio de la autoridad marítima del puerto mexicano en que se encuentre o del Cónsul de México en puerto extranjero;
-
-IV.- A dar aviso a la Secretaría de Comunicaciones cuando la embarcación de su mando sea amarrada o apresada fuera de las aguas nacionales en los términos de la fracción, y
-
-V.- A dar aviso a la Secretaría de Comunicaciones cuando la embarcación de su mando vaya a entrar a dique o cuando concluya la vigencia de los certificados de seguridad de la nave.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 292.
 
-Los capitanes de las embarcaciones nacionales están facultados:
-
-I.- Para admitir a bordo de la embarcación a su mando, la dotación de la misma, de conformidad con lo que prevengan los contratos colectivos de trabajo, respetando el escalafón y turno de las uniones o sindicatos de trabajadores, titulares de dichos contratos, y
-
-II.- Para negar el embarque de las personas que no sean de los que vayan a dotar la embarcación.
-
-En el caso de esta fracción, los capitanes deberán justificar posteriormente su actitud ante las autoridades marítimas que corresponda.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 293.
 
-Los capitanes están facultados:
-
-I.- Para seleccionar la tripulación de la embarcación de su mando, de acuerdo con las leyes de la materia;
-
-II.- Para negar el embarque de personas.
-
-En el caso de esta fracción, deberán justificar posteriormente su actitud ante las autoridades marítimas que corresponda;
-
-III.- Para exigir que, cuando un tripulante no cumpla, por ineptitud o inhabilitación voluntaria, con las funciones que le estén encomendadas, las realicen en sustitución suya los otros tripulantes de su categoría.
-
-Los casos a que se refiere el párrafo anterior, se considerarán comprendidos dentro de los estipulados por el artículo 75 de la Ley Federal del Trabajo;
-
-IV.- Para aprehender a los que hubieren cometido algún delito a bordo y para tomar cualquier determinación que exija la seguridad o la conservación de la disciplina, pudiendo para ello hacer desembarcar, bajo su responsabilidad, al tripulante o tripulantes que estime necesario;
-
-V.- Para exigir de los pasajeros y de todas las personas que se encuentren a bordo de la embarcación, que presten los servicios que estime necesarios en caso de peligro, cuando la tripulación no fuere suficiente par ejecutar las maniobras, y
-
-VI.- Para exigir de todas las personas que se encuentren a bordo de la embarcación el respeto a los reglamentos de ella, así como a todas las disposiciones que dicte en interés del orden, seguridad y disciplina.
-
-Son nulos los convenios celebrados en contravención de este artículo.
-
-Los capitanes de las embarcaciones nacionales serán nombrados en los términos del Código de Comercio, siempre que en los contratos colectivos el cargo de capitán no esté considerado como de base, pues entonces deberá respetarse el escalafón y turno que corresponda conforme a dichos contratos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 294.
 
-El capitán de la embarcación debe ser nombrado por el naviero, en los términos del Código de Comercio, pero si la embarcación se encontrare en el extranjero, no podrá separarlo de su cargo sin consentimiento del Cónsul de México, y siempre que haya persona capacitada, de acuerdo con la ley, para substituirlo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 295.
 
-Los capitanes no deberán abandonar su cargo en caso de peligro, antes de que se haya agotado toda probabilidad de salvar la embarcación a su mando y todos los medios para poner a salvo a las personas que se encuentren a bordo; tampoco podrán hacerlo durante la navegación o estando en puerto extranjero, salvo caso fortuito o de fuerza mayor.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 296.
 
-En caso de que durante la navegación falleciere el capitán, o de que, por caso fortuito o de fuerza mayor hubiese dejado el mando, tomará éste el que ocupare el cargo de Oficial de Cubierta de mayor categoría, y a falta de éste el que le siga y así sucesivamente hasta el contramaestre o timonel, salvo que viajara a bordo alguna persona mejor capacitada.
-
-La persona que asuma el mando en las condiciones expresadas, sólo ejercerá su cargo hasta el arribo al primer puerto en que fuere posible substituirlo legalmente.
-
-En caso de que por fuerza mayor faltare algún oficial de máquinas o de cubierta, el capitán designará, para ocupar su puesto, al que le siga en categoría, y así sucesivamente hasta el último puesto en que se hará cargo, temporalmente, cualquier persona que se encuentre capacitada.
-
-Las personas a que se refieren los dos párrafos anteriores, sólo ejercerán su cargo hasta el arribo al primer puerto en que fuere posible substituirlas legalmente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 297.
 
-La dotación de las embarcaciones nacionales está obligada a obedecer a los capitanes y a sus superiores jerárquicos, a desempeñar su cargo con eficiencia y a cumplir con lo que dispone el reglamento interior del trabajo expedido de acuerdo con las leyes del trabajo.
-
-La Secretaría de Comunicaciones, con la intervención de las organizaciones de trabajadores, de los navieros y demás sectores interesados de la marina mercante, expedirá oportunamente un reglamento general administrativo que regirá a bordo de las embarcaciones nacionales.
-
-Todos los tripulantes, sin excepción, deben comprobar ante la autoridad marítima, tener la capacidad marinera necesaria para el desempeño de su cometido, en la forma que determine el reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XV. De los astilleros, diques y varaderos
 
 ###### ARTICULO 298.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 299.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993) (REPUBLICADA SU DEROGACION POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 300.
 
-La construcción de embarcaciones por personas que no gocen de concesión para establecer astilleros, diques o varaderos, sólo podrá hacerse previo permiso de la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 301.
 
-Las reformas o reparaciones que se ejecuten en el extranjero a las embarcaciones nacionales, causarán un impuesto que fijará la ley respectiva, tomando como base el importe de las obras que se realicen.
-
-Se exceptúan de lo anterior las reformas o reparaciones que por su naturaleza no puedan efectuarse en el país, o las que indispensablemente deba sufrir una embarcación que se encuentre en el extranjero para su segura navegación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 302.
 
-Las personas que pretendan construir embarcaciones u obtener concesiones para el establecimiento y explotación de astilleros, diques y varaderos, deberán solicitar autorización de la Secretaría de Comunicaciones, acompañando los planos y memorias descriptivas correspondientes, los cuales deberán estar firmados por un técnico debidamente capacitado, a juicio de la misma Secretaría, la que los aprobará o rechazará, haciendo las observaciones que procedan en este último caso.
-
-La construcción de embarcaciones, astilleros, diques y varaderos, se hará siempre bajo la dirección de un técnico autorizado por la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ### CAPITULO XVI. De las señales marítimas
 
 ###### ARTICULO 303.
 
-Los concesionarios de muelles, oleoductos submarinos, balnearios y otras explotaciones que ocupen zona federal, tendrán la obligación de instalar, por su cuenta, las señales que para la seguridad de la navegación estime necesarias la Secretaría de Comunicaciones dentro de un radio de diez millas como máximo.
-
-La conservación de estas señales será por cuenta de aquéllos durante la vigencia de la concesión, pasando el material, al término de ésta o en caso de caducidad o rescisión, a ser propiedad de la Nación.
-
-Los mismos concesionarios podrán emplear, para su exclusivo servicio, semáforos y telégrafos luminosos, pero en todo caso estarán obligados a solicitar la autorización respectiva, acompañando a su solicitud el plano de localización, los dibujos descriptivos del sistema que vayan a instalar y una memoria del funcionamiento, para que se registren e incluyan en el estado de iluminación y en los avisos a los marinos. Todas las señales quedan sujetas a la inspección de la Secretaría de Comunicaciones y Obras Públicas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 304.
 
-Todos los marinos que frecuenten los puertos y aguas jurisdiccionales de la República, tienen obligación de informar a las Capitanías de Puerto y a las casas consignatarias de que dependan, acerca de las interrupciones, deficiencias de funcionamientos y desperfectos que adviertan en las señales marítimas. Los consignatarios quedan obligados, a su vez, a trasmitir inmediatamente a la Capitanía de Puerto respectiva, todos los informes que reciban de los capitanes de los buques que manejen en consignación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 305.
 
-Los concesionarios a que se refiere el artículo 303, serán responsables de los accidentes que sufran las embarcaciones, originados por el mal funcionamiento de las señales marítimas a su cargo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 > <small>(REFORMADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4000,8 +3622,6 @@ Ojetos (sic) prohibidos
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 523.
 
 El que sin concesión o permiso de la Secretaría de Comunicaciones y Obras Públicas construya o explote vías federales de comunicación, perderá en beneficio de la Nación, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de cincuenta a cinco mil pesos, a juicio de la misma Secretaría. Igual sanción tendrá el que ocupe la zona federal y la playa de las vías flotables o navegables sin la autorización de la Secretaría de Comunicaciones.
@@ -4012,25 +3632,17 @@ Para la aplicación de las sanciones a que se refiere el artículo anterior, se 
 
 Tan luego como la Secretaría de Comunicaciones tenga conocimiento de la infracción, procederá al aseguramiento de las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación de la vía de comunicación, ocupación de la zona federal o playas, de las vías flotables o navegables, poniéndolos bajo la guarda de un interventor especial, previo inventario que se formule. Posteriormente al aseguramiento se concederá un plazo de diez días al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; y pasado dicho término la Secretaría de Comunicaciones dictará la resolución que corresponda.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 525.
 
 El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de comunicación, pagará una multa de cincuenta a dos mil pesos a juicio de la Secretaría de Comunicaciones, más los daños y perjuicios que se hubieren ocasionado.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 526.
 
 La infracción del artículo 48 de esta ley se sancionará con multa de doscientos a mil pesos, sin perjuicio de que la Secretaría acuerde la suspensión de los servicios en los casos en que lo estime conveniente.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 527.
 
 La expedición o aplicación de horarios, tarifas y demás documentos relacionados con el público que no hayan sido previamente aprobados por la Secretaría de Comunicaciones, se castigará con multa de cien a mil pesos, por cada infracción.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 528.
 
@@ -4122,15 +3734,15 @@ Se impondrá multa de veinte a quinientos pesos al propietario de una embarcaci�
 
 ###### ARTICULO 543.
 
-El capitán que conduzca embarcación no inscrita en los libros de matrícula o con patente de navegación o certificado de matrícula que no le corresponda, o con documentos falsos o sin permiso o concesión de la Secretaría de Comunicaciones, serán castigado con pena de un mes a dos años de prisión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 544.
 
-La infracción del artículo 280 de la presente ley se castigará con la misma pena que señala el artículo anterior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 545.
 
-En las mismas penas que establece el artículo 543 incurrirá el capitán o patrón de una embarcación que continuare la navegación, cuando aquélla hubiese sido declarada inútil.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 546.
 
@@ -4138,35 +3750,35 @@ El capitán de una embarcación o piloto de una aeronave que se salga de un puer
 
 ###### ARTICULO 547.
 
-Los capitanes de embarcaciones que debiendo utilizar servicios de pilotaje se abstengan de ellos, incurrirán en multa de cincuenta a mil pesos, a juicio de la Secretaría de Comunicaciones, sin perjuicio de las penas que corresponda, si por tal omisión se consumare algún delito.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 548.
 
-Se castigará con multa hasta de cinco mil pesos la infracción de lo dispuesto en los artículos 191, 224 y 291.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 549.
 
-Cuando el capitán de alguna embarcación no compruebe debidamente el motivo de su arribada, será condenado a pagar una multa de cincuenta a mil pesos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 550.
 
-El capitán que infrinja lo dispuesto en el artículo 266, será juzgado por el delito de homicidio por imprudencia, en caso de que hubiere pérdida de vidas por falta del auxilio solicitado. En todo caso se le impondrá una multa de cincuenta a cinco mil pesos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 551.
 
-El propietario, consignatario o capitán de alguna embarcación mercante mexicana que sin haber obtenido antes la dimisión de la bandera nacional, la abandere o matricule en otra nación, será condenado a pagar multa de cien a cinco mil pesos, lo mismo que cuando enajene la embarcación a algún extranjero sin cumplir con ese requisito.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 552.
 
-El que maliciosamente altere el rumbo ordenado por el capitán de una embarcación, será responsable de los perjuicios que se ocasionen y sufrirá, además, prisión hasta de noventa días; pero si ese acto ocasionare algún accidente marítimo, se aplicarán las reglas de acumulación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 553.
 
-Los agentes auxiliares de la Policía Marítima y Territorial y los celadores del Resguardo Marítimo, en su caso, que no cumplan con la debida oportunidad las órdenes legítimas de la autoridad marítima, sufrirán una multa hasta por el importe de siete días del sueldo que devenguen; pero si la falta de cumplimiento de la orden da lugar a la comisión de un hecho delictuoso, el empleado responsable será destituido, sin perjuicio de la responsabilidad penal en que pueda haber incurrido.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 ###### ARTICULO 554.
 
-El capitán o armador de alguna embarcación que ostente en ella banderas o distintivos que no le correspondan o que no estén aprobados por la Secretaría de Comunicaciones, sufrirá una multa hasta por la cantidad de mil pesos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
 (REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
@@ -4831,3 +4443,21 @@ A partir de la entrada en vigor de la presente Ley, se dejan sin efecto únicame
 SEXTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
 
 Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la Ley de Vías Generales de Comunicación.
+
+D.O.F. 4 DE ENERO DE 1994.
+
+LEY DE NAVEGACION.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan:
+
+I. La Ley de Navegación y Comercio Marítimos, excepto los artículos 222 al 232 y 234 al 250;
+
+II. Los artículos 1o., fracciones I a IV, 169 a 305, 543 a 545 y 547 a 554 de la Ley de Vías Generales de Comunicación;
+
+III. Los artículos 19, en lo que se oponga a la presente ley, 21, fracciones XIII y XVI a XVIII, 641 a 944, 1043, fracciones III, V, VII y VIII, y 1044 del Código de Comercio; y
+
+IV. Todas las disposiciones que se opongan a lo previsto en esta ley.
