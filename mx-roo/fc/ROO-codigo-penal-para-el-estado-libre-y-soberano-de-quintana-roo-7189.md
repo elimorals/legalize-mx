@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2000-12-29"
+last_updated: "2001-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1051,6 +1051,8 @@ Si el agente espontáneamente pone en libertad al secuestrado dentro de los tres
 
 ### CAPITULO I. VIOLACION
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 120.
 
 Al que sustraiga o retenga a una persona por medio de la violencia física o moral o del engaño, para satisfacer algún deseo erótico sexual o para casarse con ella, se le impondrá prisión de uno a seis años.
@@ -1107,21 +1109,27 @@ Cuando el secreto se revele o se use en beneficio propio o ajeno por persona que
 
 ###### ARTICULO 127.
 
-Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de cuatro a dieciséis años y multa de diez a cuarenta días multa.
+Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de seis a dieciséis años y de diez a cuarenta días multa.
 
-Si la persona ofendida fuera impúber la prisión será de seis a veinte años y de veinte a sesenta días multa.
+Si la víctima fuere impúber la prisión será de seis a veinte años y de veinte a sesenta días multa.
 
-Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa se le impondrá de seis a treinta años de prisión y de cuarenta a cien días multa.
+Al que realice cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá de seis a treinta años de prisión y de cuarenta a cien días multa.
+
+Se equipara a la violación y se sancionará con la misma pena prevista en el primer párrafo de este artículo, al que introduzca por la vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima. Cuando se cometa, aún sin el uso de la violencia, en persona que por su edad o por su estado mental no esté en posibilidades de comprender el significado del hecho o de resistir la conducta delictuosa se aplicará la sanción prevista en el tercer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 128.
 
 La pena prevista en el primer párrafo del artículo anterior se aumentará una mitad más:
 
-I.- Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, caso en el cual el agente será privado, además, del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto al ofendido;
+I.- Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, o la confianza generada por una relación de parentesco sea cual fuere la naturaleza y el grado de ésta; en estos supuestos y cuando así proceda, el agente será privado, además, del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto a la víctima;
 
-II.- Cuando la violencia sea cometida aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce, en cuyo caso éste será privado o suspendido además, del ejercicio del empleo, cargo o comisión hasta por el término de cinco años, o
+II.- Cuando la violación sea cometida aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce, en cuyo caso éste será privado o suspendido además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga,
 
 III.- Cuando la violación sea cometida por dos o más personas.
+
+IV.- Cuando la violación sea cometida aprovechando la confianza depositada en el agente, sin que éste tenga relación de parentesco con la víctima.
 
 ### CAPITULO II. DELITOS EN MATERIA DE APICULTURA
 
@@ -1160,6 +1168,10 @@ En el delito de estupro, el matrimonio del agente con la ofendida, extingue la a
 ###### ARTICULO 131.
 
 Cuando a consecuencia de la comisión de alguno de los delitos previstos en los Capítulos I y III de este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija el Código Civil.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+Para los efectos de los capítulos I, II y III de este Título, se entiende por cópula la introducción total o parcial del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
 ## TITULO QUINTO. DELITO CONTRA EL HONOR
 
@@ -1387,7 +1399,7 @@ XIV.- El que venda a dos o más personas una misma cosa, sea mueble o inmueble y
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-XV.- Al que por medio de tarjetas, títulos o documentos falsos relacionados con instituciones bancarias o comerciales, o bien auténticos, pero adquiridos indebidamente y sin autorización de quien está facultado para ello, haga el pago de cualquier bien o servicio u obtenga dinero en efectivo para sí o para otro. Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad más.
+XVI. Al que por medio de tarjetas, títulos o documentos falsos relacionados con instituciones bancarias o comerciales, o bien auténticos, pero adquiridos indebidamente y sin autorización de quien está facultado para ello, haga el pago de cualquier bien o servicio u obtenga dinero en efectivo para sí o para otro. Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad más.
 
 ###### ARTICULO 154.
 
@@ -1935,7 +1947,7 @@ Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o hag
 
 Al que rehusare prestar un servicio de interés público al que la Ley lo obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad de tres a seis meses.
 
-La misma pena se impondrá al que debiendo declarar ante la autoridad y sin que le aprovechen las excepciones establecidas para hacerlo, se niegue a otorgar la protesta de Ley a declarar.
+La misma pena se impondrá al que debiendo declarar ante la autoridad y sin que le aprovechen las excepciones establecidas para hacerlo, se niegue a otorgar la protesta de Ley a declarar. (sic)
 
 ###### ARTICULO 214.
 
@@ -2395,4 +2407,10 @@ ING. JUAN MANUEL MERCADER RODRIGUEZ.
 
 P.O. 29 DE DICIEMBRE DE 2000.
 
-UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE JUNIO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
