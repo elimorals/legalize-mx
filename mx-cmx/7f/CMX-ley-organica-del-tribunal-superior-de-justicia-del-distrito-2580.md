@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2000-11-30"
+last_updated: "2001-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2001.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -1770,9 +1770,9 @@ XXI. Elaborar y difundir la información estadística relevante desglosada por r
 
 Acatar las medidas que se implanten para el control administrativo y seguimiento de los expedientes que se tramiten ante ellos, tomando las medidas necesarias para su cumplimiento;
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 18 DE ENERO DE 2001)</small>
 
-XXII. Dictar todas las medidas necesarias para la organización y funcionamiento de la Oficialía de Partes a que se refiere el artículo 173 de esta ley, y expedir las reglas de turno ordinario y extraordinario de los juzgados penales, las cuales deberá hacer del conocimiento de Oficina Central de Consignaciones de la Procuraduría General de Justicia del Distrito Federal cuando menos con treinta días de anticipación.
+XXII Dictar las Medidas necesarias para la organización y buen funcionamiento de la Oficialía de Partes y de la Dirección de Turno de Consignaciones Penales a las que se refieren los artículos 173 y 174 respectivamente de este mismo ordenamiento legal, así como expedir las reglas de turno ordinario y extraordinario de los juzgados penales.
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 1997)</small>
 
@@ -1885,3 +1885,7 @@ UNICO.- El presente Decreto entrará en vigor el 1° de octubre de 1999. Publíq
 G.O. 30 DE NOVIEMBRE DE 2000.
 
 ARTÍCULO TRANSITORIO.- La presente reforma entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE ENERO DE 2001.
+
+ARTICULO TRANSITORIO.- La presente reforma entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
