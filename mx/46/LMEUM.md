@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1943-08-10"
+last_updated: "1944-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MARZO DE 1944.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -66,9 +66,9 @@ c). La moneda fraccionaria de bronce con denominación de veinte centavos y el t
 
 d). La moneda fraccionaria de cupro-níquel con denominación de diez centavos y el tamaño, peso, cuño, composición y demás características que se establecen en el artículo 1°. del Decreto de 26 de marzo de 1936.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 1944)</small>
 
-e). Las monedas fraccionarias de bronce con denominaciones de cinco centavos y de un centavo, y los tamaños, pesos, cuños, composiciones y demás características que se establecen, respectivamente, en el Decreto de veintiocho de diciembre de 1942 y en la Ley de 25 de marzo de 1905.
+e). La moneda fraccionaria de bronce con denominación de cinco centavos y el tamaño, peso, cuño, composición y demás características que establece el decreto de 28 de diciembre de 1942, así como la moneda fraccionaria de bronce con denominación de un centavo y el tamaño, peso, cuño y demás características indicadas en la ley de 25 de marzo de 1905, pero la liga de esta última moneda será de 95 partes de cobre, 4 partes de zinc y una de estaño.
 
 ###### ARTICULO 2o.
 
@@ -445,6 +445,10 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 10 DE AGOSTO DE 1943.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE MARZO DE 1944.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 3°.
 
