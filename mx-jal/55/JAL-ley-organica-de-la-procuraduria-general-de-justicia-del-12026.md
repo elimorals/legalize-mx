@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2004-02-10"
+last_updated: "2004-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -77,7 +77,7 @@ II. Investigar los delitos del orden común;
 
 (REFORMADA, P.O. 10 DE FEBRERO DE 2004) (F. DE E., P.O. 27 DE MARZO DE 2004)
 
-III . Practicar diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad que corresponda, así como para la reparación de los daños y perjuicios causados.
+III. Practicar diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad que corresponda, así como para la reparación de los daños y perjuicios causados.
 
 IV. Ordenar la detención y, en su caso, la retención de los probables responsables de la comisión de delitos en los términos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -168,6 +168,10 @@ II. Atender las visitas, quejas, propuestas de conciliación y recomendaciones d
 III. Coordinarse, en el ámbito de su competencia, con la Comisión Nacional de Derechos Humanos y la Comisión de Derechos Humanos del Estado, para procurar el respeto a los derechos humanos, y;
 
 IV. Recibir las quejas que formulen directamente los particulares en materia de derechos humanos y darles la debida atención.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2004)</small>
+
+V. Implementar, por medio del Instituto de Formación Profesional, auxiliado invariablemente por personal de la Comisión Estatal de los Derechos Humanos, por lo menos un curso anual para el personal que labora en la Procuraduría de Justicia, incluido el procurador y los subprocuradores, sobre la importancia de la vigencia y el respeto a los derechos humanos tanto de las víctimas de los delitos como de los probables responsables de éstos.
 
 ###### Artículo 7º.
 
@@ -642,3 +646,7 @@ PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El artículo tercero del presente decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Las disposiciones relativas a la Unidad Especializada, en el combate a la delincuencia organizada, entrarán en vigor un año después de su publicación.
+
+P.O. 30 DE SEPTIEMBRE DE 2004.
+
+ÚNICO. El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
