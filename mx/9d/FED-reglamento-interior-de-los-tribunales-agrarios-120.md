@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "1997-07-07"
+last_updated: "1998-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE SEPTIEMBRE DE 1998.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -67,13 +67,13 @@ V.- Centros y Unidades de informática, de Publicaciones, de Justicia Agraria y 
 
 Cada magistratura del Tribunal Superior contará con los secretarios de estudio y cuenta que fije el propio Tribunal, atendiendo a las previsiones presupuestales.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 4º.
 
-Para suplir las faltas temporales de los magistrados de los tribunales unitarios habrá cuando menos cinco magistrados supernumerarios, que realizarán las funciones que les asigne el Tribunal Superior. Cada magistrado supernumerario contará con los secretarios de estudio y cuenta, que permitan las previsiones presupuestales.
+Para suplir las faltas temporales de los Magistrados de los Tribunales Unitarios habrá cuando menos cinco Magistrados Supernumerarios, que realizarán las funciones que les asigne el Tribunal Superior. Cada Magistrado Supernumerario contará con los Secretarios de Estudio y Cuenta, que permitan las previsiones presupuestales.
 
-Los magistrados supernumerarios practicarán visitas a los tribunales unitarios, por acuerdo del Presidente y en coordinación con los magistrados numerarios, cuando éstos lleven a cabo las funciones de inspección a que se refiere el capítulo IX de este Reglamento.
+Los Magistrados Supernumerarios practicarán visitas a los Tribunales Unitarios conforme al programa que apruebe el Tribunal Superior Agrario para cumplir con las funciones de inspección a que se refiere el capítulo IX de este reglamento.
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -341,7 +341,9 @@ VIII.- Coordinar y controlar el servicio de pasantes;
 
 IX.- Efectuar el control y seguimiento de cada uno de los expedientes del Tribunal Superior y compilar la estadística de los juicios y procedimientos de los tribunales agrarios;
 
-X.- Llevar nota de las inspecciones que practiquen los magistrado numerarios y supernumerarios a los tribunales unitarios, así como de los informes que rindan al Tribunal Superior;
+> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
+
+X.- Llevar nota de las inspecciones que practiquen los Magistrado de los Tribunales Unitarios, así como de los informes que rindan al Tribunal Superior;
 
 XI.- Llevar nota de los programas de itinerancia que autorice el Tribunal Superior a los tribunales unitarios;
 
@@ -499,13 +501,17 @@ El Director General de Asuntos Jurídicos podrá intervenir, en su caso, en los 
 
 ### CAPITULO IX. DE LA INSPECCION DE LOS TRIBUNALES UNITARIOS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 38.
 
-Los magistrados del Tribunal Superior realizarán inspecciones de los tribunales unitarios, para verificar que las labores de éstos se realicen conforme a la ley. Para tal efecto, los tribunales unitarios quedarán agrupados en cinco regiones, cada una de las cuales estará a cargo de un magistrado del Tribunal Superior.
+Los Magistrados Supernumerarios realizarán inspecciones de los Tribunales Unitarios, para verificar que las labores de éstos se realicen conforme a la ley. Para tal efecto los Tribunales Unitarios quedarán agrupados en cinco regiones.
 
-Los magistrados supernumerarios realizarán las visitas a los tribunales unitarios que ordene el Presidente, en coordinación con los magistrados numerarios del Tribunal Superior. Estas visitas tendrán como finalidad la preparación de las inspecciones o la atención de asuntos especiales.
+Dichas visitas de inspección se practicarán cuando menos una cada seis meses.
+
+Los Magistrados Numerarios del Tribunal Superior podrán hacer visitas especiales a los Tribunales Unitarios, cuando así lo determine el propio Tribunal.
+
+De los resultados de las visitas a que se refiere este artículo, deberán informar al Tribunal Superior.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -563,11 +569,11 @@ En caso de que, como resultado de la inspección, resultare alguna responsabilid
 
 Los magistrados inspectores llevarán un registro documentado de las inspecciones que realicen de los tribunales unitarios; evaluarán su desempeño, propondrán al Tribunal Superior las medidas que consideren convenientes para mejorar el servicio de la justicia agraria en las regiones que les corresponda.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 44.
 
-Los magistrados inspectores serán auxiliados en sus inspecciones por los magistrados supernumerarios, de acuerdo con las instrucciones que reciban del Tribunal Superior.
+Los Magistrados serán auxiliados en sus visitas de inspecciones por el personal que se requiera.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -745,11 +751,11 @@ Para tal efecto, las disposiciones contenidas en los artículos anteriores se ap
 
 El Presidente será suplido en sus ausencias por el magistrado que designe el Tribunal Superior. En las licencias que no excedan de un año, se designará un Presidente interino y en las faltas definitivas se nombrará un nuevo Presidente.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 60.
 
-Las ausencias de los magistrados del Tribunal Superior serán cubiertas por el magistrado supernumerario. No se podrá conceder autorización de ausencia a más de dos magistrados al mismo tiempo.
+Las ausencias de los Magistrados del Tribunal Superior serán cubiertas por el Magistrado Supernumerario. No se podrá conceder autorización de ausencia a más de dos Magistrados del Tribunal Superior al mismo tiempo, salvo causas de fuerza mayor, con aprobación del propio tribunal.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -757,19 +763,15 @@ Las ausencias de los magistrados del Tribunal Superior serán cubiertas por el m
 
 Las ausencias de los magistrados de los tribunales unitarios serán cubiertas por los magistrados supernumerarios, conforme a la adscripción de las regiones que señale el Tribunal Superior y según las necesidades del servicio.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 62.
 
-Las faltas temporales hasta de tres días de los magistrados de los tribunales agrarios, serán autorizados por el Presidente; las que rebasen este plazo y las licencias para separarse del cargo hasta por un año, serán autorizadas por el Tribunal Superior.
+Las faltas temporales hasta de tres días de los Magistrados de los Tribunales Agrarios, serán autorizados por el Presidente; las que rebasen este plazo y las licencias para separarse del cargo hasta por un año, serán autorizadas por el Tribunal Superior. En casos excepcionales, el Tribunal Superior podrá otorgar licencias sin goce de sueldo por plazos mayores.
 
 Las ausencias de los servidores de confianza, hasta por tres días, serán autorizadas por el superior responsable de la unidad administrativa; las de tres a treinta días, por el Presidente del Tribunal Superior; y las que rebasen este plazo, por el Tribunal Superior.
 
-Las autorizaciones de ausencia podrán ser con goce o sin goce de sueldo, según la causa que lo origine, a juicio del órgano o servidor encargado de emitirla.
-
-> <small>(F. DE E., D.O.F. 12 DE AGOSTO DE 1993)</small>
-
-Sólo se podrá autorizar un periodo de ausencia en un año.
+Las autorizaciones de ausencias podrán ser con goce o sin goce de sueldo, según la causa que le (sic) origine, a juicio del órgano o servidor encargado de emitirla.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -1004,3 +1006,11 @@ D.O.F. 7 DE JULIO DE 1997.
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE SEPTIEMBRE DE 1998.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+
+SEGUNDO.- Estas reformas entrarán en vigor el día primero de octubre de este año de mil novecientos noventa y ocho.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación.
