@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "1992-06-09"
+last_updated: "2000-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -117,7 +117,15 @@ V.- Un plazo mayor de 15 días para el pago de salarios;
 
 VI.- Un salario inferior al mínimo general obligatorio en la zona económica donde se preste el servicio, y
 
-VII.- Las que establezcan que las madres en estado de lactancia y con hijos menores de un año o que mujeres en estado de embarazo laboren horas extraordinarias o jornadas que hagan imposible atender a los lactantes para su alimentación, salvo consentimiento expreso de la servidora pública.
+VII.- Las que establezcan que las madres en estado de lactancia y con hijos menores de un año o que mujeres en estado de embarazo laboren horas extraordinarias o jornadas que hagan imposible atender a los lactantes para su alimentación, salvo consentimiento expreso de la servidora pública;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+VIII.- Un salario menor que el que se pague a otro trabajador por trabajo de igual valor, eficiencia, de la misma clase o igual jornada, por consideración de sexo, estado de gestación, maternidad, responsabilidades familiares, discapacidad o nacionalidad; y,
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+IX.- Renuncia al empleo por parte de la mujer en los casos de que contraiga matrimonio, se embarace o tenga a su cuidado hijos menores.
 
 ###### ARTICULO 13.
 
@@ -143,9 +151,13 @@ VI.- El salario y demás prestaciones que habrá de percibir el trabajador.
 
 Los trabajadores de los Poderes del Estado, se clasificarán conforme a lo señalado en el catálogo general de puestos del Gobierno del Estado, los trabajadores de las Entidades paraestatales sometidos al régimen de esta Ley, se clasifican conforme a sus propios catálogos que establezcan dentro de su régimen interno siguiendo los lineamientos que al respecto emita el Ejecutivo Estatal. En la formación, aplicación y actualización de los catálogos de puestos, se escuchará la opinión de la representación sindical respectiva.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 16.
 
-Para el otorgamiento de las licencias y permisos que deban concederse a los trabajadores para el desempeño de comisiones de carácter accidental o permanente o para ocuparse de asuntos personales, deberá estarse en todo tiempo a lo previsto por el Artículo 41 de la presente Ley.
+Para el otorgamiento de las licencias y permisos que deban concederse a los trabajadores para el desempeño de comisiones de carácter accidental o permanente o para ocuparse de asuntos personales o por responsabilidades familiares deberá estarse en todo tiempo a lo previsto por el artículo 41 de la presente Ley.
+
+Se entenderá por responsabilidades familiares, las acciones que los trabajadores madres o padres, realizan con el fin de asistir y amparar a sus hijos menores de edad, asumiendo las responsabilidades comunes del hogar.
 
 ### CAPITULO SEGUNDO. DE LA JORNADA DE TRABAJO Y DIAS DE DESCANSO
 
@@ -219,13 +231,51 @@ Las madres trabajadoras tendrán los siguientes derechos:
 
 I.- Durante el período de embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación;
 
-II.- Disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto, y de otros dos meses después del mismo. El segundo período de descanso, se prorrogará por el tiempo necesario si se encuentran imposibilitadas para trabajar, este caso de prorrogabilidad deberá justificarse médicamente para acreditar que la incapacidad es consecuencia directa e inmediata del parto;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
 
-III.- Durante el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;
+II.- Gozarán de una semana de descanso en los casos de aborto legal o clínico;
 
-IV.- Durante los períodos de descanso a que se refiere la fracción II de este artículo, percibirá el salario íntegro, en los casos de prórroga previstos en la misma fracción, tendrán derecho al cien por ciento de su salario; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
 
-V.- Tendrán derecho a regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso y la prórroga si la hubo.
+III.- Disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto y de otros dos meses después del mismo. El segundo período de descanso se prorrogará por el tiempo necesario si se encuentran imposibilitadas para trabajar, este caso de prorrogabilidad deberá justificarse médicamente para acreditar que la incapacidad es consecuencia directa e inmediata del parto;
+
+A solicitud expresa de la trabajadora y según convenga a sus intereses familiares, podrá permitir que sea el esposo o concubino quien disponga de hasta dos de las semanas posteriores al parto a las que ella tuviere derecho para abocarse a la crianza del niño.
+
+Esta opción deberá ser notificada por la madre trabajadora, tanto en su centro de trabajo, como en el del esposo o concubino, cuando menos dos semanas antes de poder hacerse efectiva.
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+IV.- Durante el período de lactancia hasta por un año, tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, o bien, a opción de la trabajadora reducir su jornada de trabajo una hora diaria;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+V.- Disfrutar en los mismos términos de los descansos referidos en las fracciones anteriores, cuando reciban en adopción por resolución judicial un bebé menor de seis semanas de edad;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+VI.- Durante los períodos de descanso a que se refieren las fracciones anteriores de este artículo, percibirá el salario integro, en los casos de prórroga previstos en la fracción III, tendrán derecho al cien por ciento de su salario; y,
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+VII.- Tendrán derecho a regresar al puesto que desempañaban computándose en su antigüedad los períodos de descanso y la prórroga si la hubo.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+Para la opción a que hace referencia la fracción III del presente artículo, es requisito indispensable que la relación laboral de su esposo o concubino con su centro de trabajo, esté regulada por la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+ARTICULO 24 BIS.- Los padres trabajadores tendrán los siguientes derechos:
+
+I.- Gozarán de tres días de descanso en los casos de que su esposa o concubina tenga un aborto legal o clínico;
+
+II.- Disfrutarán de cinco días de descanso cuando su esposa o concubina tenga un parto;
+
+III.- Disfrutarán de hasta dos de las semanas de descanso a las que su esposa o concubina tuviera derecho cuando ella expresamente se lo concediera, conforme a lo previsto en la fracción III del artículo 24 de la presente Ley;
+
+Del mismo derecho y en los mismos términos gozarán tratándose de paternidad por adopción; y,
+
+IV.- Los descansos aludidos en este artículo se considerarán como parte de su antigüedad y durante los mismos, gozarán del salario íntegro sin que pueda verse afectado en su perjuicio, ningún otro derecho o condición laboral.
 
 ###### ARTICULO 25.
 
@@ -325,7 +375,11 @@ III.- Disfrutar de licencias o permisos para desempeñar una comisión accidenta
 
 Estas licencias o permisos podrán ser con goce o sin goce de sueldo, sin menoscabo de sus derechos y antigüedad y, se otorgarán en los términos previstos en las Condiciones Generales de Trabajo que se expidan conforme a la presente Ley, y
 
-IV.- Asociarse para la defensa de sus intereses, y los demás derivados de esta Ley.
+IV.- Asociarse para la defensa de sus intereses, y los demás derivados de esta Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+V.- Disfrutar de licencias y permisos por maternidad o paternidad a fin de fomentar la igualdad en las responsabilidades familiares, en los términos establecidos en los artículos 24 y 24 BIS de la presente Ley.
 
 ###### ARTICULO 42.
 
@@ -343,7 +397,11 @@ V.- Establecer sistemas de adiestramiento, capacitación y estímulos a la produ
 
 VI.- Cubrir las aportaciones que fijen las leyes relativas, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales, y
 
-VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de seguridad social aplicable, las prestaciones de seguridad y servicios sociales a que tengan derecho de acuerdo con la Ley y demás disposiciones en vigor.
+VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de seguridad social aplicable, las prestaciones de seguridad y servicios sociales a que tengan derecho de acuerdo con la Ley y demás disposiciones en vigor;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
+VIII.- Vigilar para garantizar que los servidores públicos se abstengan de realizar cualquier acto de abuso, hostigamiento o aprovechamiento sexual en contra de él o la trabajadora, o contra los familiares de éste o ésta.
 
 ###### ARTICULO 43.
 
@@ -465,9 +523,11 @@ La entidad pública quedará eximida de la obligación de reinstalar al trabajad
 
 ### CAPITULO PRIMERO. DERECHOS DE PREFERENCIA, ANTIGUEDAD (SIC) Y ASCENSO
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 48.
 
-Para la ocupación de puestos en igualdad de circunstancias deberá preferirse a ciudadanos guerrerenses sobre quienes no lo sean; a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia, y a los que hubieran prestado con anterioridad sus servicios, respecto de los que pretendan ingresar por primera vez.
+En la ocupación de puestos no habrá distinciones de género, edad, sexo, credo religioso, raza, etnia, doctrina política o condición social, y en el caso de las mujeres, bajo ninguna circunstancia se le solicitará como requisito de ingreso o permanencia en el trabajo, el certificado médico de no gravidez.
 
 ###### ARTICULO 49.
 
@@ -1146,3 +1206,7 @@ UNICO.- El presente Decreto de reformas y adiciones a la Ley Orgánica de la Adm
 P.O. 9 DE JUNIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 7 DE NOVIEMBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
