@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-de-oficio-del-distrito-federal-10901"
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-17"
-last_updated: "1997-06-17"
+last_updated: "1998-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10901&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1997-06-10"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de junio de 1997 y republicada en el Diario Oficial de la Federación, el jueves 18 de junio de 1997.
 
@@ -180,6 +180,10 @@ Por defensor de oficio se entiende el servidor público que con tal nombramiento
 
 Los defensores de oficio se auxiliarán en el desempeño de sus funciones con trabajadores sociales, peritos y demás personal necesario.
 
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 1998)</small>
+
+La remuneración de los Defensores de Oficio será equivalente, al menos de la categoría básica que corresponda a Agentes del Ministerio Público de la Procuraduría General de Justicia del Distrito Federal adscritos a Juzgados del Fuero Común, sin perjuicio de que la Defensoría de Oficio se estructure con los niveles necesarios que, atendiendo a las materias de la propia defensoría, responsabilidades asignadas y otros elementos, ubiquen las percepciones de los defensores acorde con ellos.
+
 ###### Artículo 16.
 
 Para ocupar el cargo de defensor de oficio se celebrará un concurso de oposición, mismo que se hará del conocimiento público mediante convocatoria que la Secretaría publique en la Gaceta Oficial del Distrito Federal y en dos de los periódicos de mayor circulación en el Distrito Federal.
@@ -275,6 +279,12 @@ Para efectos del presente Artículo, la Procuraduría General de Justicia del Di
 ###### Artículo 26.
 
 La Defensoría contará, entre su personal, con funcionarios que tengan a su cargo la supervisión de su funcionamiento. El Director General podrá ordenar supervisiones en cualquier momento a efecto de controlar el desempeño del personal integrante de la Defensoría.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 1998)</small>
+
+###### Artículo 26 Bis.
+
+La Dirección General procurará que cada Defensor de Oficio tenga a su cargo el número de asuntos que le permite la atención personalizada del solicitante del servicio en las diferentes etapas de los procesos. En materia penal, se procurará que el número de asuntos encomendado a cada Defensor de Oficio sea aquel que pueda razonablemente atender de manera personal.
 
 ### Capítulo VII. Excusas y Suspensión del Servicio
 
@@ -669,3 +679,15 @@ Quinto.- Por ser de interés general, publíquese en el Diario Oficial de la Fed
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, I LEGISLATURA, a treinta de abril de mil novecientos noventa y siete.- Rep. Víctor Orduña Muñoz, Presidente.- Rep. Ricardo Bueyes Olivia, Secretario.- Rep. Silvia Pinal Hidalgo, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 16 DE NOVIEMBRE DE 1998.
+
+Primero.- Este Decreto entrará en vigor el día 1º., de enero de 1999.
+
+Segundo.- La autoridad competente deberá hacer las transferencias presupuestales necesarias de conformidad con las disposiciones aplicables, para otorgar el incremento salarial previsto en este Decreto así como, en su caso, para la contratación del personal que sea necesario.
+
+Tercero.- En su caso, la convocatoria y el examen de oposición para la contratación de defensores de oficio, deberán publicarse y aplicarse dentro de los noventa días siguientes a la publicación de este Decreto.
+
+Cuarto.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la federación.
