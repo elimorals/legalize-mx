@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-operadora-135
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-07"
-last_updated: "1980-12-31"
+last_updated: "1993-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO "OPERADORA DE SERVICIOS TURISTICOS DE NUEVO LEON"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de diciembre de 1977.
 
@@ -47,7 +47,11 @@ I.- Proyectar, construir y administrar centros para el descanso, recreo o la div
 
 II.- Asociarse con organismos públicos o privados con el propósito de conservar, mejorar, proteger o aprovechar los recursos turísticos del Estado.
 
-III.- Adquirir y enajenar bienes muebles e inmuebles, realizar todos los actos y contratos, suscribir documentos públicos, privados y títulos de crédito, que sean necesarios para la realización de sus actividades y los demás requeridos para el mejor cumplimiento de su objeto.
+III.- Adquirir y enajenar bienes muebles e inmuebles, realizar todos los actos y contratos, suscribir documentos públicos, privados y títulos de crédito, que sean necesarios para la realización de sus actividades y los demás requeridos para el mejor cumplimiento de su objeto;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 1993)</small>
+
+IV.- Proporcionar servicios de transportación en toda clase de vehículos para el turismo y similares para la promoción de la actividad correspondiente.
 
 ###### ARTICULO TERCERO
 
@@ -65,23 +69,21 @@ V.- Cualquiera otra percepción de la cual el organismo resulte beneficiario.
 
 Los bienes y derechos que integran el Patrimonio de la institución estarán afectos a sus fines, pudiendo afectarlos como garantía y fuente de pago en la obtención de créditos para la realización de su objeto.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+
 ###### ARTICULO CUARTO
 
-- El Gobierno de la institución estará a cargo de un consejo de administración compuesto de cinco miembros, el cual se integrará en la forma siguiente:
+- El gobierno de la institución estará a cargo de un Consejo de Administración compuesto de seis miembros el cual se integrará de la siguiente forma:
 
-I.- Por un Presidente, que será el Gobernador del Estado o la persona que él designe.
+I.- Por un Presidente que será el Gobernador del Estado, quien tendrá voto de calidad en caso de empate.
 
-II.- Por un Secretario, que será el Director Estatal de Turismo.
+II.- Por un Secretario que será el Sub-Secretario de Comercio Exterior, Inversión y Turismo, quien a la vez fungirá como Representante del Presidente en su ausencia.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-III.- Por tres consejeros, que serán respectivamente el Secretario de Finanzas y Tesorero General del Estado, el Secretario de Fomento Económico y el Secretario de Educación y Cultura.
-
-Los miembros del Consejo de Administración durarán en funciones el tiempo que subsista su designación.
+III.- Por cuatro consejeros quienes serán respectivamente: El Secretario de finanzas y Tesorero General del Estado, el Secretario de Desarrollo Económico, el Secretario de Desarrollo Social y el Director de Turismo.
 
 ###### ARTICULO QUINTO
 
-- Si el nombramiento de Presidente por designación gubernamental recayera en alguno de los funcionarios señalados en el artículo anterior como consejeros o secretario, el titular del Ejecutivo determinará la persona que deba sustituirlo como miembro del Consejo.
+- (DEROGADO, P.O. 13 DE OCTUBRE DE 1993)
 
 ###### ARTICULO SEXTO
 
@@ -91,11 +93,11 @@ I.- Transmitir el dominio de los bienes inmuebles que integran el patrimonio de 
 
 II.- Dar en arrendamiento los bienes inmuebles de la institución por un período que exceda de cinco años.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+
 ###### ARTICULO SEPTIMO
 
-- En Consejo de Administración celebrará, cuando menos, cuatro sesiones ordinarias al año y las extraordinarias que sean necesarias para la debida marcha del organismo. Para que el consejo de Administración funcione válidamente deberán encontrarse presente la mayoría de sus miembros; sus resoluciones serán válidas cuando sean tomadas por la mayoría de los presentes.
-
-El titular del Ejecutivo podrá pedir, previamente a la celebración de las sesiones del Consejo de Administración, la participación del Comité Directivo del Consejo Consultivo de Fomento Turístico de Nuevo León (COCOFOT), turnándole al efecto copia de la orden del día, para que, con carácter de participación ciudadana aporten su consejo a "Operadora de Servicios Turísticos de Nuevo León"; en la sesión que al efecto celebre el Comité Directivo del Consejo Consultivo de Fomento Turístico de Nuevo León, deberá participar un representante del Congreso del Estado y los Presidentes Municipales que tengan relación con la celebración de las obras o actividades que se someten a la consideración del Consejo de Administración.
+- El Consejo de Administración celebrará, cuando menos una sesión ordinaria al año y las extraordinarias que sean necesarias para la debida marcha del organismo. Para que el Consejo de Administración funcione válidamente deberán encontrarse presentes la mayoría de sus miembros; sus resoluciones serán válidas cuando sean tomadas por la mayoría de los presentes.
 
 ###### ARTICULO OCTAVO
 
@@ -107,7 +109,9 @@ El balance de la institución, debidamente certificado por Contador Público Tit
 
 - El Presidente del Consejo tendrá las siguientes facultades:
 
-I.- Convocar a sesiones ordinarias y extraordinarias a los integrantes del consejo y al Gerente cuando proceda, o cuando a su juicio existan razones suficientes.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1993)</small>
+
+I.- Convocar a sesiones ordinarias y extraordinarias a los integrantes del consejo.
 
 II.- Autorizar en unión del Secretario las actas que se asienten en el libro correspondiente, de las sesiones que celebre el consejo.
 
@@ -123,17 +127,19 @@ II.- Formular, de acuerdo con el Presidente del Consejo, la orden del día de la
 
 III.- Controlar el archivo de actuaciones del Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
 ###### ARTICULO DECIMO PRIMERO
 
-- Para el mejor funcionamiento de "Operadora de Servicios Turísticos de Nuevo León", el Ejecutivo del Estado designará al Director de la Institución, quien será el encargado de ejecutar las resoluciones del Consejo, con las siguientes facultades:
+- Para el mejor funcionamiento de "Operadora de Servicios Turísticos de Nuevo León" el Secretario del Consejo delegara en el Director de Turismo la administración de la misma, quien será el encargado de ejercer resoluciones del Consejo con las siguientes facultades:
 
 I.- Representar legalmente al organismo, con todas las facultades de un mandatario general, para actos de administración, pleitos y cobranzas y demás, necesarias para el mejor desempeño de su encargo.
 
 II.- Administrar los negocios y bienes de la institución, celebrando los convenios y ejecutando los actos que se requieran para la marcha ordinaria del organismo.
 
-III.- Proponer al Consejo los nombramientos y remociones de funcionarios y empleados de la institución.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1993)</small>
+
+III.- Proponer al Secretario del Consejo los nombramientos y remociones de funcionarios y empleados de la Institución.
 
 IV.- Preparar y someter al consejo los presupuestos de ingresos y egresos de la institución, así como sus modificaciones.
 
@@ -190,3 +196,7 @@ ALEJANDRO BELDEN AZCARRAGA
 P.O. 31 DE DICIEMBRE DE 1980.
 
 UNICO:- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 13 DE OCTUBRE DE 1993.
+
+UNICO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
