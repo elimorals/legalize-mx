@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1979-09-29"
+last_updated: "1979-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1227,13 +1227,15 @@ V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles
 
 a).- Se concederá por una sola vez a cada beneficiario. Cada casa será objeto de la exención por una sola vez;
 
-b).- La exención queda sin efecto aún cuando no haya transcurrido el lapso de la misma si se da alguna de las circunstancias que la Ley de Pensiones Civiles establece para el vencimiento anticipado del acto jurídico que le dió origen, sin que por situación posterior tenga derecho nuevamente a la exención. No se considera vencimiento anticipado el hecho de que el beneficiario cubra el total de su adeudo antes del plazo que le haya sido concedido para tal efecto;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+b).- La exención queda sin efecto aún cuando no haya transcurrido el lapso de la misma si se dá alguna de las circunstancias que la Ley de Pensiones Civiles establece para el vencimiento anticipado del acto jurídico que le dió origen, sin que por situación posterior tenga derecho nuevamente a la exención. Se considera vencimiento anticipado el hecho de que el beneficiario cubra el total de su adeudo antes del plazo que le haya concedido para tal efecto;
 
 c).- El acuerdo de exención queda sin efecto de pleno derecho en el momento en que el derechohabiente realice cualquiera de los actos de vencimiento anticipado, haciéndose exigible el crédito fiscal y sus accesorios por concepto de este impuesto desde la fecha en que se haya dado la circunstancia que motivó la cancelación de la exención;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-d).- La exención solo opera cuando los inmuebles adquiridos o construídos tengan un valor igual al del préstamo otorgado por la Dirección de Pensiones Civiles del Estado, o por su conducto.
+d).- La exención sólo opera cuando los inmuebles adquiridos o construídos tengan un valor igual al del préstamo otorgado por la Dirección de Pensiones Civiles del Estado o por su conducto; la exención será por un término igual al del préstamo concedido.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -1701,7 +1703,9 @@ En los fideicomisos en garantía sólo se causará el impuesto al transmitirse l
 
 I.- Por la transmisión de la propiedad de bienes inmuebles o derechos de copropiedad sobre éstos, cualquiera que sea el título o causa incluyendo los casos de constitución o fusión de sociedades, aumento de capital social, adjudicación por disolución y liquidación de sociedades sean civiles o mercantiles. Tratándose de división de la copropiedad o de la disolución de la sociedad conyugal, se causará el impuesto si el valor de la parte adjudicada a alguno de los copropietarios o cónyuges en su caso, excede del valor de su respectiva porción. En estos casos el impuesto se causará sobre la diferencia que exista entre el valor de la porción que le corresponde al copropietario o al cónyuge, y el valor de la porción que adquiera.
 
-Para calcular esta diferencia se tomará en cuenta exclusivamente el valor de cada bien inmueble considerado aisladamente, de tal manera que si a uno de los copropietarios o cónyuge le es transmitido algo más de la porción que le corresponde en cada bien inmueble, se pagará el impuesto por ese excedente. En nada influirá para este cálculo la manera como se divida la totalidad del patrimonio de la sociedad conyugal;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+Para calcular esta diferencia se tomará en cuenta exclusivamente el valor de los bienes inmuebles, de tal manera que si uno de los copropietarios o cónyuges le es trasmitido algo más de la porción que le corresponde en dichos bienes inmuebles, se pagará el impuesto por ese excedente. En nada influirá para este cálculo la manera como se divida la totalidad del patrimonio común.
 
 II.- Por la adquisición de bienes inmuebles o de derechos de copropiedad sobre éstos, en virtud de prescripción, remate judicial o administrativo.
 
@@ -1821,11 +1825,9 @@ N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCE
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-175.- Son objeto de este impuesto los ingresos en efectivo o en especie que se perciban: en el libre ejercicio de una profesión, arte, oficio, actividad técnica, deportiva o cultural; como agente de Instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
-
-Si los causantes de este impuesto son además sujetos del impuesto sobre sueldos y emolumentos en los términos de los artículos 166 y 167 de este Código, deberán acumularse los ingresos obtenidos y a la suma se le aplicará la tarifa del artículo 177.- Del producto obtenido se deducirán las retenciones que se hayan hecho en la forma prescrita por el artículo 169.
+175.- Son objeto de este impuesto, los ingresos en efectivo o en especie que se perciban: en el libre ejercicio de una profesión, arte, oficio, actividad técnica, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
 
 176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
 
@@ -1919,9 +1921,9 @@ Sobre los ingresos brutos estimados, se reconocerá como deducción única, el i
 
 181.- Los causantes de este impuesto están obligados:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-I.- A efectuar el pago del Impuesto dentro de los días 1o. al 20 de cada mes mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. Los causantes que tengan celebrados convenios en los términos del Artículo 184 de este Código, deberán pagar el impuesto bimestralmente en la primera quincena del bimestre correspondiente.
+I.- A efectuar el pago del Impuesto dentro de los días 1o. al 20 de cada mes mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. Los causantes que enteren el gravamen a base de cuota fija en los términos del artículo 184 de este Código, deberán pagar el impuesto bimestralmente, dentro de la última quincena del bimestre correspondiente.
 
 II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
 
@@ -2193,7 +2195,7 @@ V.- 1.8% en las ventas de segunda mano o posteriores de toda clase de automóvil
 
 Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta Autoridad, sobre el valor resultante del avalúo que al efecto practique.
 
-QUINTO GRUPO.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
 
 SEXTO GRUPO.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1975)
 
@@ -2217,13 +2219,15 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 
 216.- No causan el impuesto:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-I.- Las enajenaciones de maíz, frijol, tortillas, masa de maíz, harian (sic) de maíz, pan, verduras, pescados y mariscos, leña y carbón vegetal, leche, así como la carne sin procesar vendida al menudeo en carnicerías. La exención no comprende la leche evaporada, condensada, en polvo o sujeta a procesamientos posteriores.
+I.- Las enajenaciones de maquinaria y equipo para fines agropecuarios, fertilizantes, maíz, frijol, tortillas y masa de maíz, harina de maíz, huevo, pan, verduras, pescados y mariscos, leña y carbón vegetal, leche, así como la carne son procesar vendida al menudeo en carnicerías.
 
 II.- Las enajenaciones de primera mano que se verifiquen con algodón y su semilla o avena, cuyas operaciones son motivo de los impuestos especiales que establecen los capítulos respectivos del presente libro.
 
-III.- Las enajenaciones que realicen los almacenes populares que se establezcan o estén funcionando de acuerdo con las normas previstas en el Título Cuarto, Libro Unico, Novena Parte del Código Administrativo del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+III.- Alimentos balanceados para animales y las materias primas necesarias para producirlos, productos de medicina veterinaria, así como insecticidas, herbicidas y fungicidas.
 
 IV.- Previa declaración de la autoridad fiscal, los ingresos que obtengan los causantes empadronados cuyos ingresos gravables, en conjunto, no excedan de la cantidad de $1,000.00 mensuales.
 
@@ -2239,7 +2243,17 @@ IX.- Los ingresos procedentes de la enajenación de títulos de crédito.
 
 X.- Los ingresos que provengan de operaciones efectuadas por Instituciones de crédito y organizaciones auxiliares, de seguros y de fianzas, siempre que sean propias de su objeto directo.
 
-XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+
+XI.- La prestación de los servicios siguientes:
+
+a).- Los prestados directamente a los agricultores y ganaderos por concepto de perforación de pozos; alumbramiento y formación de retenes de agua; desmontes y caminos en el interior de las fincas; preparación de terrenos; riego y fumigación agrícola; cosecha y recolección; así como vacunación e inseminación artificial de ganado, siempre que sean indispensables para la realización de actividades agrícolas o ganaderas.
+
+b).- Transporte de personas o cosas, para el que se requiera concesión estatal.
+
+c).- Maquila de nixtamal.
+
+d).- Pasteurización de leche.
 
 XII.- Los ingresos percibidos por los constructores de inmuebles para obras publicas, derivados de contratos celebrados con la Federación, Estados, Municipios y Organismos descentralizados.
 
@@ -2263,7 +2277,9 @@ XVIII.- Las operaciones celebradas por las agencias automotrices establecidas en
 
 XIX.- Los ingresos que perciban los ejidatarios por los productos obtenidos en sus parcelas.
 
-XX.- Los ingresos que se perciban por la venta del hielo. En los casos en que los causantes se amparen en las exenciones de este artículo y obtengan ingresos gravables sin presentar sus declaraciones ni pagar el impuesto que a ellos corresponde, se presumirá que han obtenido dichos ingresos gravables desde que iniciaron sus operaciones o desde la fecha de vigencia de este precepto, y deberán pagar el impuesto sobre la totalidad de sus ingresos incluyendo los que pudieran haber estado exceptuados.
+XX.- Los ingresos que se perciban por la venta del hielo.
+
+En los casos en que los causantes se amparen en las exenciones de este artículo y obtengan ingresos gravables sin presentar sus declaraciones ni pagar el impuesto que a ellos corresponde, se presumirá que han obtenido dichos ingresos gravables desde que iniciaron sus operaciones o desde la fecha de vigencia de este precepto, y deberán pagar el impuesto sobre la totalidad de sus ingresos incluyendo los que pudieran haber estado exceptuados.
 
 #### SECCION QUINTA. DEDUCCIONES Y RECTIFICACIONES
 
@@ -3155,189 +3171,173 @@ Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y 
 
 ### CAPITULO XVII. PARTICIPACIONES
 
-314.- Quedan comprendidos en este capítulo los ingresos provenientes de las participaciones en impuestos federales que al Estado concedan las leyes relativas y las que las leyes le concedan sobre arbitrios municipales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-315.- Para la percepción de los participantes, se estará a lo dispuesto por las leyes que las concedan.
+314.- Quedan comprendidos en este capítulo las participaciones a Municipios derivadas de los ingresos provenientes de la participación federal al Estado, correspondiente a los Fondos General y Financiero completario de participaciones, así como las derivadas de los impuestos estatales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+315.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1979)
 
-316.- Se concede a los municipios del Estado las siguientes participaciones:
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-I.- 25% sobre el Impuesto del Comercio y la Industria;
+316.- Se concede a los Municipios del Estado las siguientes participaciones:
 
-II.- 13% sobre el Impuesto Predial, y
+I.- 20% sobre la participación federal al Estado por concepto del fondo general y financiero complementario de participaciones.
 
-III.- 12% sobre el Impuesto a la Ganadería.
+II.- 20% sobre el ingreso por concepto de Impuesto Predial.
 
-Las participaciones a que se refieren las tres fracciones anteriores se otorgarán en proporción al rendimiento de los impuestos respectivos en cada Municipio.
+III.- 20% sobre los ingresos de los restantes impuestos estatales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+La participación total a que se refieren las fracciones anteriores, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados, atendiendo a los siguientes elementos:
 
-IV.- 20% sobre las participaciones que al Estado correspondan en el Impuesto Federal sobre Ingresos Mercantiles.
+Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación total serán:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(F. DE E., P.O. 26 DE ENERO DE 1980)</small>
 
-V.- 33.3% sobre las participaciones que al Estado correspondan en el Impuesto Federal sobre Tenencia o Uso de Automóviles y Camiones.
+Municipio Porcentaje de Porcentaje de
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+Participación Participación
 
-VI.- 20% sobre las participaciones que al Estado correspondan en los impuestos a que se refiere la Ley Federal de Impuestos a las industrias de azúcar, alcohol, aguardiente y envasamiento de bebidas alcohólicas.
+según fracciones según fracción
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 1973)</small>
+I y II. III.
 
-VII.- 20% sobre las participaciones que al Estado correspondan en el Impuesto al Ingreso Global de las Empresas, Causantes Menores.
+Ahumada Villa 0.51 0.8
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+Aldama 0.42 1.0
 
-VIII.- 40% sobre las participaciones que al Estado corresponden en los Impuestos Federales sobre Reventa de Aceites y Grasas Lubricantes y Automóviles y Camiones Ensamblados.
+Allende Valle de 0.34 1.4
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+Aquiles Serdán 0.40 0.9
 
-IX.- 20% sobre los ingresos de los restantes impuestos estatales.
+Ascensión 0.31 1.0
 
-La participación total a que se refieren las fracciones V, VI, VII, VIII y IX, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación del producto total serán los siguientes:
+Bachíniva 0.32 1.2
 
-Ahumada 0.7%
+Balleza 0.47 1.4
 
-Aldama 0.9%
+Batopilas 0.31 1.4
 
-Allende Valle de 1.4%
+Belizario Domínguez 0.24 1.4
 
-Aquiles Serdán 0.6%
+Bocoyna 0.58 1.5
 
-Ascensión 0.6%
+Buenaventura 0.61 1.4
 
-Bachíniva 1.0%
+Camargo 2.11 1.5
 
-Balleza 1.6%
+Carichic 0.30 1.4
 
-Batopilas 1.2%
+Casa Grandes 0.34 1.0
 
-Belisario Domínguez 1.0%
+Coronado Villa 0.18 1.5
 
-Bocoyna 2.0%
+Coyame 0.19 1.4
 
-Buenaventura 1.8%
+Cuauhtémoc 5.32 2.0
 
-Camargo 2.3%
+Cusihuiriáchic 0.30 1.4
 
-Carichic 1.2%
+Chihuahua 25.98 3.0
 
-Casa Grandes 0.7%
+Chínipas 0.25 1.4
 
-Coronado 0.7%
+Delicias 3.49 2.0
 
-Coyame 0.6%
+El Tule 0.16 1.7
 
-Cuauhtémoc 3.3%
+Praxedis G. Guerrero 0.24 1.4
 
-Cusihuiriáchic 1.2%
+Galeana 0.14 1.8
 
-Chihuahua 5.0%
+General Trías 0.24 1.4
 
-Chínipas 1.0%
+Gómez Farías 0.35 1.3
 
-Delicias 3.3%
+Gran Morelos 0.23 1.4
 
-Praxedis G. Guerrero 1.0%
+Guachóchic 0.59 1.5
 
-Galeana 0.6%
+Guadalupe, D. B. 0.39 1.2
 
-General Trías 1.0%
+Guadalupe y Calvo 1.03 2.4
 
-Gómez Farías 1.2%
+Guazapares 0.26 1.4
 
-Gran Morelos 0.9%
+Guerrero 1.27 2.5
 
-Guachochi 2.0%
+H. del Parral 4.95 2.0
 
-Guadalupe, D. B. 1.2%
+Huejotitán 0.16 1.7
 
-Guadalupe y Calvo 3.6%
+Ignacio Zaragoza 0.34 1.4
 
-Guerrero 4.0%
+Janos 0.27 1.0
 
-H. del Parral 3.3%
+Jiménez 1.14 1.3
 
-Ignacio Zaragoza 1.4%
+Juárez 31.05 3.0
 
-Janos 0.6%
+Julimes 0.24 1.2
 
-Jiménez 1.8%
+La Cruz 0.17 1.6
 
-Juárez 5.0%
+López Villa 0.28 1.2
 
-Julimes 0.9%
+Madera 1.48 2.4
 
-La Cruz 0.7%
+Maguarichic 0.17 1.6
 
-López Villa 0.9%
+Manuel Benavides 0.23 1.4
 
-Madera 3.8%
+Matachic 0.24 1.3
 
-Maguarichic 0.7%
+Matamoros Villa 0.25 1.3
 
-Manuel Benavides 1.0%
+Meoqui 0.73 1.3
 
-Matachic 0.9%
+Morelos 0.23 1.5
 
-Matamoros Villa 0.9%
+Moris 0.18 1.5
 
-Meoqui 1.7%
+Maniquipa 0.95 2.4
 
-Morelos 1.0%
+Nonoava 0.17 1.5
 
-Moris 0.6%
+Nuevo Casas Grandes 2.03 1.2
 
-Maniquipa 3.6%
+Ocampo 0.37 1.1
 
-Nonoava 0.6%
+Ojinaga 0.86 1.2
 
-Nuevo Casas Grandes 1.9%
+Riva Palacio 0.45 1.4
 
-Ocampo 0.9%
+Rosales 0.34 1.4
 
-Ojinaga 1.6%
+Rosario Valle de 0.21 1.5
 
-Riva Palacio 1.6%
+San Francisco de Borja 0.24 1.4
 
-Rosales 1.4%
+San Francisco del Oro 0.70 0.9
 
-Rosario Valle del 0.9%
+San Francisco de Conchos 0.17 1.6
 
-San Francisco de Borja 1.0%
+Santa Bárbara 0.88 1.0
 
-San Francisco del Oro 0.9%
+Satevó 0.24 1.2
 
-Santa Bárbara 1.3%
+Saucillo 1.11 2.3
 
-Satevó 0.7%
+Temósachic 0.34 1.0
 
-Saucillo 3.6%
+Urique 0.46 1.4
 
-Temósachic 0.6%
+Uruachi 0.26 1.4
 
-Urique 1.6%
+Zaragoza Valle de 0.24 1.4
 
-Uruachi 1.0%
+El importe de la participación a que se contrae la fracción III, se destinará en un 100% a obras públicas. El Municipio que no lo hiciere, perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el cumplimiento de esta disposición.
 
-Zaragoza Valle de 0.9%
-
-Huejotitán 0.7%
-
-Guazapares 1.0%
-
-El Tule 0.7%
-
-San Francisco de Conchos 0.7%
-
-Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquéllos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-X.- También participarán los Municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga a (sic) Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los Municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
-
-317.- Con el objeto de evitar la duplicidad de los impuestos, los municipios no podrán gravar ninguna fuente de riqueza ni actividad comercial o industrial de las contenidas en este Código con la única excepción del impuesto llamado de Licencia Anual al Comercio y la Industria.
+317.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1979)
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -4273,15 +4273,15 @@ III.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Viv
 
 IV.- Los derechohabientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores con financiamiento de dicha Institución.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
-484.- Para los efectos de este Capítulo las viviendas populares se clasificarán como sigue:
+484.- Para los efectos de este capítulo, las viviendas populares se clasifican como sigue:
 
-I.- De precio mínimo, aquéllas cuyo valor no exceda de $80,000.00;
+I.- De precio mínimo, aquellas cuyo valor no exceda de $100,000.00.
 
-II.- De precio bajo, aquéllas cuyo valor no exceda de $130,000.00;
+II.- De precio bajo, aquellas cuyo valor no exceda de $200,000.00.
 
-III.- De precio medio, aquéllas cuyo valor no exceda de $160,000.00.
+III.- De precio medio, aquellas cuyo valor no exceda de $260,000.00
 
 Los valores anteriormente citados, incluyen el costo del terreno donde se edifique la habitación.
 
@@ -4516,3 +4516,7 @@ ARTICULO TRANSITORIO.- La presente Ley entrará en vigor en todo el Estado a par
 P.O. 29 DE SEPTIEMBRE DE 1979.
 
 ARTICULO TRANSITORIO. El presente Decreto entrará en vigor a partir del primero de octubre de mil novecientos setenta y nueve.
+
+P.O. 29 DE DICIEMBRE DE 1979.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día primero de enero de mil novecientos ochenta.
