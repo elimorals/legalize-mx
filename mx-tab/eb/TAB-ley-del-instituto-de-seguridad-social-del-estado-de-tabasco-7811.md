@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-de-seguridad-social-del-estado-de-tabasco-781
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-01"
-last_updated: "1991-01-02"
+last_updated: "1999-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1984.
 
@@ -45,9 +45,11 @@ LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
 DISPOSICIONES GENERALES (SIC)
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 1o.
 
-El Instituto de Seguridad Social del Estado de Tabasco es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tienen por objeto proporcionar seguridad social a los servidores públicos de los Poderes del Estado, Municipios, organismos descentralizados, empresas de participación estatal y en general cualquier clase de organismo público, que lo convengan con el Instituto.
+El Instituto de Seguridad Social del Estado de Tabasco es un Organo Desconcentrado, adscrito a la Secretaría de Planeación y Finanzas que tiene por objeto proporcionar seguridad social a los servidores públicos de los poderes del Estado, municipios, organismos descentralizados, empresas de participación estatal y en general con quienes convengan con el Instituto.
 
 ###### ARTICULO 2o.
 
@@ -165,145 +167,111 @@ VII.- Las demás que señalen esta y otras leyes.
 
 ### CAPITULO II. ORGANIZACION DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 9o.
 
-La Administración y Control de los servicios del Instituto estará a cargo de:
-
-a).- Una Junta Directiva, que será el órgano supremo del Instituto;
-
-b).- Una Comisión de Vigilancia; y
-
-c).- Una Dirección General.
+La administración y control de los servicios del Instituto estará a cargo de un Director General, que será nombrado y removido por el Titular del Poder Ejecutivo del Estado, a propuesta del Titular de la Dependencia de su adscripción.
 
 ###### ARTICULO 10.
 
-Los órganos colegiados del Instituto se integrarán en la forma siguiente:
-
-I.- La Junta Directiva por:
-
-a).- El Secretario de Finanzas del Gobierno del Estado, que tendrá el carácter de Presidente de la misma y podrá delegar sus funciones en la persona que al efecto designe;
-
-b).- El Director General; nombrado por el C. Gobernador del Estado;
-
-c).- Un representante de Oficialía Mayor, nombrado por el titular de la misma;
-
-d).- Un representante de la Sección Sindical de los Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado;
-
-e).- Un representante de la Sección en el Estado del Sindicato Nacional de Trabajadores de la Educación; y
-
-f).- Un Secretario nombrado por la Junta a propuesta del Director que fungirá como relator con voz pero sin voto.
-
-II.- La Comisión de Vigilancia lo (sic) formarán:
-
-a).- El Contralor General del Estado que tendrá el carácter de presidente y que podrá nombrar representante, y
-
-b).- Un Secretario nombrado por el Presidente.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 11.
 
-Por cada representante de la Junta Directiva se nombrará un suplente que entrará en funciones en ausencia de los titulares, con excepción del Presidente y el Director General.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 12.
 
-Los miembros de la Junta Directiva nombrados por los trabajadores durarán tres años en su cargo, podrán ser reelectos o removidos libremente por quienes los designaron.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 13.
 
-Los representantes del Gobierno durarán en sus funciones por todo el tiempo que subsista su designación.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 14.
 
-Los miembros de la Junta Directiva y el Presidente de la Comisión de Vigilancia no percibirán honorario alguno.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 15.
 
-Para la buena marcha del Instituto, este celebrará sesiones ordinarias cada sesenta días y las extraordinarias cuantas veces sean necesarias, mismas que serán convocadas por el Presidente de la Junta Directiva. Sus acuerdos se tomarán por mayoría de votos de sus miembros. En caso de empate, el Presidente tendrá Voto de Calidad.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 16.
 
-Para que pueda realizarse una sesión será necesaria la presencia cuando menos de 3 de sus miembros, dos de los cuales deberán ser siempre el Presidente de la Junta y el Director General del Instituto.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 17.
 
-Todas las resoluciones de la Junta Directiva que afecten los intereses de los derechohabientes, podrán recurrirse ante ella dentro de los 15 días siguientes, para que ésta resuelva en definitiva.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 18.
 
-Corresponde a la Junta Directiva:
-
-a).- Aplicar, cumplir y hacer cumplir las disposiciones de esta Ley;
-
-b).- Administrar el Patrimonio del Instituto;
-
-c).- Autorizar las operaciones relativas a inversiones de fondos del Instituto así como todas las necesarias, conforme a esta Ley, para la mejor Administración del mismo; así como revisar y aprobar en su caso los estados financieros con base en el dictamen de la Comisión de Vigilancia;
-
-d).- Conceder las jubilaciones y otorgar pensiones en los términos de esta Ley o revocarlas en su caso;
-
-e).- Formular y aprobar el Reglamento del Instituto;
-
-f).- Conferir poderes generales o especiales a nombre del Instituto, oyendo la opinión del Director;
-
-g).- Discutir y aprobar el Programa Operativo Anual y la captación de ingresos probables;
-
-h).- Promover las iniciativas de reformas a esta Ley;
-
-i).- Solicitar a la Secretaría de Finanzas la práctica de Auditorías sobre las oficinas pagadoras del Estado o Instituciones afiliadas al Instituto, para efecto de verificar cualquier situación de tipo contable relacionada con aquélla;
-
-j).- Conceder licencia al Director y nombrar a la persona que lo supla, por el tiempo que sea necesario; en caso de renuncia o separación del Director, el Gobernador del Estado nombrará a la persona que lo sustituya;
-
-k).- Llevar un libro de actas en que se anoten íntegramente los acuerdos y resoluciones tomados en las sesiones;
-
-l).- Autorizar el funcionamiento de unidades creadas en esta Ley;
-
-m).- Autorizar al Presidente de la Junta para que con el Director firmen las operaciones de crédito concertadas por el Instituto;
-
-n).- Autorizar los créditos hipotecarios una vez integrados los expedientes respectivos; y
-
-ñ).- Resolver cualquier situación no prevista en esta Ley.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 19.
 
-La Comisión de Vigilancia revisará los estados contables y financieros del Instituto, turnando a la Junta Directiva y el Dictamen correspondiente y para ello tendrá las facultades necesarias para efectuar en las dependencias del organismo, revisiones, inspecciones, auditorías y todo lo que se requiere, para el cumplimiento de sus funciones.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
-###### ARTICULO 20.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1999)</small>
 
-El Director tendrá las obligaciones y facultades siguientes:
+###### Artículo 20.
 
-a).- Representar al Instituto en toda gestión judicial, extrajudicial y administrativa conforme a los poderes otorgados por la Junta Directiva; pudiendo sustituirlos en todo o en parte a favor de terceros;
+El Director General tendrá las facultades y obligaciones siguientes:
 
-b).- Planear, organizar, dirigir y controlar las operaciones financieras y administrativas del Instituto, informando de las mismas a la Junta Directiva y a la Comisión de Vigilancia;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
-c).- Ejecutar los acuerdos de la Junta Directiva;
+a).- Representar al Instituto en toda gestión judicial, extrajudicial y administrativa conforme a los poderes que le fueren otorgados, pudiendo sustituirlos en todo o en parte a favor de terceros;
 
-d).- Someter a la decisión de la Junta Directiva todas aquellas cuestiones que sean de la competencia de aquélla;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
-e).- Formular proyectos de inversión para su revisión y aprobación en su caso, por la Junta Directiva;
+b).- Planear, organizar, dirigir y controlar las operaciones financieras del Instituto;
+
+c).- (DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+d).- (DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
+e).- Formular proyectos de inversión para su realización y aprobación en su caso;
 
 f).- Formular el programa operativo anual del Instituto y las estimaciones de ingresos probables;
 
-g).- Nombrar y remover de conformidad con las leyes aplicables en este caso al personal necesario para el funcionamiento del Instituto, haciéndolo del conocimiento de la Junta;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
-h).- Resolver bajo su directa responsabilidad los asuntos urgentes que sean de la competencia de la Junta Directiva, a reserva de dar cuenta a la misma en la sesión inmediata siguiente;
+g).- Nombrar y remover de conformidad con la Ley de los Trabajadores al Servicio del Estado, al personal necesario para el funcionamiento del Instituto;
 
-i).- Estudiar y proponer ante la Junta Directiva el otorgamiento de jubilaciones, pensiones y demás prestaciones reguladas por esta Ley, excepto las prestaciones de salud, de maternidad, préstamos a corto plazo y seguro para pago de funerales, que puede resolver de inmediato la Dirección, observando lo previsto en el inciso anterior;
+h).- (DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
+i).- Estudiar y proponer el otorgamiento de jubilaciones, pensiones y demás prestaciones reguladas por esta Ley, excepto las prestaciones de salud, maternidad, préstamos a corto plazo y seguro para pago de funerales, que puede resolver de inmediato;
 
 j).- Conceder licencia al personal de confianza en los términos que señala el Reglamento Interior del Instituto y al de base de acuerdo a la Ley aplicable;
 
-k).- Firmar conjuntamente con el Presidente de la Junta Directiva toda clase de documentación relativa a los actos de traslación de dominio o contratos en general que celebre el Instituto;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
-l).- Realizar todos los actos y operaciones autorizados por esta Ley o por la Junta Directiva para la mejor administración del Instituto;
+k).- Firmar toda clase de documentación relativa a los actos de traslación de dominio o contratos en general que celebre el Instituto en forma mancomunada con la persona que al efecto se designe;
 
-m).- Realizar todo lo necesario para que las unidades del Instituto creadas por esta Ley y autorizadas por la Junta estén en funcionamiento;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
-n).- Formular el calendario oficial del Instituto y autorizar, en casos extraordinarios, la suspensión de labores;
+l).- Realizar todos los actos y operaciones autorizados por esta Ley, para la mejor administración del Instituto;
 
-ñ).- Vigilar las labores del personal administrativo, pudiendo imponer las correcciones disciplinarias que sean de su competencia previstas en la Ley de Responsabilidades o en el Reglamento Interior cuando no contradiga a aquélla;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
-o).- Convocar a sesión a los miembros de la Junta Directiva cuando lo estime necesario para resolver los asuntos del Instituto conforme a la Ley, o por petición de alguno de sus miembros; y
+m).- Realizar todo lo necesario para que las unidades del Instituto creadas por esta Ley, estén en funcionamiento;
 
-p).- Las demás facultades que sean necesarias para el debido funcionamiento del Instituto, que esta Ley, su Reglamento o la Junta Directiva le impongan.
+n).- (DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
+ñ).- Supervisar las labores del personal administrativo, pudiendo imponer las sanciones previstas en las leyes de la materia y que sean de su competencia;
+
+o).- (DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
+p).- Las demás facultades que sean necesarias para el debido funcionamiento del Instituto, que esta Ley o su reglamento le imponga, así como las que le señale el Titular de la Dependencia de su adscripción.
 
 ### CAPITULO III. PATRIMONIO
 
@@ -1310,3 +1278,15 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan las disposiciones 
 P.O. 2 DE ENERO DE 1991.
 
 UNICO.- Este Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
+
+CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo conducente, a los reglamentos interiores de las entidades que cambian su naturaleza jurídica.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
