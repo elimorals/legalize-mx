@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-sistema-intermunicipal-de-los-servicios-de-agua-597
 country: "mx"
 rank: "ley"
 publication_date: "1978-04-20"
-last_updated: "1983-12-17"
+last_updated: "1989-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 20 de abril de 1978.
 
@@ -39,7 +39,9 @@ LEY PARA EL SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARIL
 
 ### CAPITULO PRIMERO. DEL SISTEMA
 
-Artículo 1° Se declara de utilidad pública la implantación, operación, administración, conservación y mejoramiento del Servicio de Agua Potable y Alcantarillado para la Zona Metropolitana, integrada por los Municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, y áreas pertenecientes a otros Municipios, cuyas extensiones sean delimitadas, desde el punto de vista técnico, para tal finalidad y destino, por el Departamento de Planeación y Urbanización del Estado de Jalisco, o en el futuro, por el Organismo ó Institución que estuviere facultado para ello.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
+
+Artículo 1° Se declara de utilidad pública la implantación, operación, administración, conservación y mejoramiento del Servicio de Agua Potable y Alcantarillado para la Zona Metropolitana, integrada por los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, y áreas pertenecientes a otros municipios, cuyas extensiones sean delimitadas, desde el punto de vista técnico, para tal finalidad y destino, por la Secretaría de Desarrollo Urbano y Rural, o en el futuro, por el Organismo o Instituciones que estuviere facultado para ello.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
@@ -57,37 +59,49 @@ Artículo 3° "El Sistema" podrá celebrar convenios con otros Ayuntamientos de 
 
 Artículo 4° Para la explotación de pozos de agua, tanto en predios urbanos como suburbanos, se requerirá la autorización correspondiente para la perforación y uso de los mismos, así como su inscripción en el padrón del "Sistema", debiendo cumplirse los demás requisitos que señalan las leyes federales.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
 
-Artículo 5° "El Sistema" será administrado por un Consejo de Administración, un Director General, y las Dependencias que se estimen convenientes para cumplir sus objetivos. El Consejo de Administración se integrará por:
+Artículo 5° El "Sistema" será administrado por un Consejo de Administración, un Director General, que será designado por el Gobernador, y las Dependencias que se estimen convenientes para cumplir sus objetivos. El Consejo de Administración se integrará por:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 1989)</small>
 
-Un Representante del Gobernador del Estado que presidirá el Consejo, y será el Director General, y un representante de cada una de las Instituciones Oficiales y organismos Privados siguientes:
+I. El Gobernador del Estado, quien presidirá el Consejo;
 
-(REFORMADO, P.O. 6 DE ENERO DE 1981).
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 1989)</small>
 
-a).- Los Ayuntamientos de la zona metropolitana, integrada por los Municipios a que se refiere el artículo 1°. de esta Ley;
+II. El Director General, que será designado por el Gobernador;
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(ADICIONADA, P.O., 6 DE JULIO DE 1989)</small>
 
-b).- Del Jefe del Departamento de Planeación y Urbanización del Estado;
+III. Un representante de cada una de las instituciones oficiales y organismos privados siguientes:
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
 
-c).- El Tesorero General del Estado quien será el Tesorero del Consejo;
+a).- Los Ayuntamientos de la Zona Metropolitana, integrada por los municipios a que se refiere el artículo 1°. de esta ley;
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
+
+b).- El Secretario de Desarrollo Urbano y Rural;
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
+
+c).- El Secretario de Finanzas, que será el Tesorero del Consejo;
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
 
 d).- La Cámara de la Propiedad Urbana de Jalisco;
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
 
-e).- Dos Representantes, uno por cada una de las Centrales Obreras Mayoritarias; y
+e).- Dos Representantes, uno por cada una de las Centrales obreras Mayoritarias; y
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
 
-f).- Cada uno de los Ayuntamientos que en el futuro lleguen a integrarse al "Sistema"
+f).- Cada uno de los Ayuntamientos que en el futuro lleguen a integrarse al "Sistema".
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1989)</small>
+
+Las ausencias del Presidente del Consejo serán suplidas por el Secretario de Desarrollo Urbano y Rural; las decisiones del Consejo se tomarán por mayoría de votos y, en caso de empate, quien presida la sesión tendrá voto de calidad.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
 
@@ -99,7 +113,7 @@ A fin de integrar el Consejo de Administración del Sistema Intermunicipal de lo
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
 
-Si transcurrido dicho término no se hubieren hecho tales designaciones, las hará el Gobernador del Estado.
+Si transcurrido dicho término no se hubiere (sic) hecho tales designaciones, las hará el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
 
@@ -109,7 +123,7 @@ El Consejo de Administración, para su mejor funcionamiento podrá crear de acue
 
 El Secretario del Consejo será electo por el mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1989)</small>
 
 Artículo 6° El Consejo de Administración tendrá las siguientes atribuciones:
 
@@ -119,35 +133,29 @@ II. Proponer a los Ayuntamientos de la Zona Metropolitana a la que se refiere el
 
 III. Con fundamento en las disposiciones de las Leyes de Ingreso de cada Ayuntamiento, determinar los casos en que los servicios deban de cobrarse a cuota fija o a base de medidor;
 
-(REROGADA, P.O. 6 DE ENERO DE 1981)
-
-IV. (Derogada);
+IV. (REROGADA, P.O. 6 DE ENERO DE 1981);
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
 V. La creación, integración, asignación y redistribución de facultades administrativas internas, de las gerencias, los departamentos o dependencias, que sean convenientes para la realización de los objetivos del Organismos, de conformidad con los principios de la administración moderna;
 
-VI. Formular, aprobar y modificar en su caso, el Reglamento Interior de Trabajo y sus Dependencias y los que fueren necesarios para el funcionamiento de (sic) organismo;
+VI. Formular, aprobar y modificar en su caso, el Reglamento Interior de Trabajo y sus Dependencias y los que fueren necesarios para el funcionamiento de Organismo;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
 VII. Formular, aprobar y modificar, en su caso, los sistemas de recaudación y manejo de los fondos derivados del "Sistema", de acuerdo con las tarifas y presupuestos relativos, llevando la contabilidad correspondiente, a través de las dependencias que al efecto se autoricen;
 
-VIII. Celebrar mensualmente como mínimo, una Sesión Ordinaria y las Extraordinarias que solicite cualquier
+VIII. Celebrar mensualmente como mínimo, una Sesión Ordinaria y las Extraordinarias que solicite cualquier miembro del Consejo de Administración del Sistema y tomar los acuerdos que corresponda. Los miembros del Consejo, tendrán derecho a incluir en la Orden del Día los asuntos que estimen convenientes;
 
-miembro del Consejo de Administración del Sistema y tomar los acuerdos que corresponda. Los miembros
-
-del Consejo, tendrán derecho a incluir en la Orden del Día los asuntos que estimen convenientes;
-
-IX. Vigilar que los bienes propiedad del "Sistema" se encuentren debidamente inventariados a través de la
-
-Gerencia administrativa;
+IX. Vigilar que los bienes propiedad del "Sistema" se encuentren debidamente inventariados a través de la Gerencia administrativa;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
 X. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias, a través de su Director General, para su conservación y reparación, resolviendo lo relativo a sus mejoras y ampliaciones;
 
-XI. Turnar a los respectivos Ayuntamientos que integran "El Sistema", para el ejercicio de la facultad económica coactiva, el cobro de los adeudos de los usuarios o morosos, como créditos fiscales objetivos, en los términos de la Ley de Hacienda Municipal y, en su caso promover la Celebración de Convenios de Coordinación entre los Ayuntamientos y el Gobierno del Estado, para que la Tesorería General de la Entidad, se haga cargo de la recaudación a través de las Delegaciones de Hacienda competentes u oficinas, que se determinen;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
+
+XI. Subscribir convenios con los respectivos Ayuntamientos que integran el "Sistema", cuando ejerciten la facultad económica-coactiva, en el cobro de los adeudos de los usuarios morosos, como créditos fiscales objetivos, en los términos de la Ley de Hacienda Municipal y, en su caso, promover la celebración de Convenios de Coordinación entre los Ayuntamientos y el Gobierno del Estado, para que la Secretaría de Finanzas de la Entidad se haga cargo de la recaudación, a través de sus Recaudadoras competentes, u oficinas que se determinen;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
@@ -175,9 +183,9 @@ Artículo 8° Los ingresos que perciba el "Sistema" se destinarán, en primer lu
 
 ### CAPITULO TERCERO. DE LA ADMINISTRACION DEL "SISTEMA"
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1989)</small>
 
-Artículo 9° El Director General del "Sistema" será el ejecutor de los acuerdos del Consejo y el superior jerárquico de todas las dependencias. Será atribución del Director General nombrar a los Gerentes, Superintendentes, Jefes y Subjefes de Departamento, Oficinas y Secciones, Auditores, Contadores y Ayudantes, y demás personal; y tendrá las siguientes obligaciones y atribuciones:
+Artículo 9° El Director General del Sistema tendrá las siguientes obligaciones y atribuciones:
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
@@ -199,17 +207,17 @@ IV. Informar al Consejo el estado de la contabilidad y el movimiento financiero;
 
 V. Someter a la decisión del Consejo todos aquellos asuntos que sean de la exclusiva competencia de éste;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
-VI. Nombrar y remover al personal de base, en los términos de Ley, exigiendo, cuando lo estime conveniente, que el mismo caucione su manejo;
+VI. Nombrar y remover al personal de base, en los términos de Ley, exigiendo, cuando lo estime conveniente, que el mismo caucione su manejo.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
-Las relaciones de trabajo entre el "Sistema" y sus trabajadores de confianza se regirán por el Reglamento del Artículo 69 de la Ley Orgánica del Poder Ejecutivo y, para tales efectos, se tendrá como Servidores Públicos de confianza de los siguientes: El Director General, los Titulares o Encargados de la Gerencia, los Superintendentes, Jefes y Sub-jefes de Departamento, los Jefes y Subjefes de Oficinas y Secciones, los Auditores, Contadores y Ayudantes, Secretarias y Choferes al Servicio inmediato del Director General, Gerentes y Jefes de Departamento; así como aquellos que tengan a su cargo labores de inspección, vigilancia, manejo de dinero, que intervengan en el proceso de recaudación, contabilidad, recursos humanos, y aquellos que representen a este Organismo ante los trabajadores;
+Las relaciones de trabajo entre el "Sistema" y sus trabajadores de confianza se regirán por el Reglamento del Artículo 69 de la Ley Orgánica del Poder Ejecutivo y, para tales efectos, se tendrá como Servidores Públicos de confianza de los siguientes: El Director General, los Titulares o Encargados de la Gerencia, los Superintendentes, Jefes y Sub-jefes de Departamento, los Jefes y Subjefes de Oficinas y Secciones, los Auditores, Contadores y Ayudantes, Secretarias y Choferes al Servicio inmediato del Director General, Gerentes y Jefes de Departamento; así como aquellos que tengan a su cargo labores de inspección, vigilancia, manejo de dinero, que intervengan en el proceso de recaudación, contabilidad, recursos humanos, y aquellos que representen a este Organismo ante los trabajadores
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-VII. Realizar todos los actos encaminados, directa o indirectamente al mejor funcionamiento de los servicios públicos, cuya administración y manejo corresponda al "Sistema", de conformidad con esta Ley y las disposiciones que establezcan los Reglamentos respectivos. Sólo podrá tramitar las adquisiciones a través de la dependencia autorizada por el Gobierno del Estado, salvo en los casos de compras de emergencia o aquellas en que el monto no exceda de tres meses de salario mínimo mensual, vigente en el municipio de Guadalajara. Los contratos de obras se celebrarán con los contratistas registrados en el Departamento de Obras Públicas del Estado, debiendo obtener cotizaciones previas. No podrán ser proveedores ni contratistas del "Sistema" las empresas administradas por, o en las que tengan cualquier clase de interés, los integrantes del Consejo, el Director General, los Gerentes o Servicores (sic) Públicos del "Sistema", sus cónyuges, ascendientes y descendientes, sin limitación de grado, los colaterales y afines, hasta el cuarto grado, siendo causa de responsabilidad la violación de esta norma;
+VII. Realizar todos los actos encaminados, directa o indirectamente al mejor funcionamiento de los servicios públicos, cuya administración y manejo corresponda al "Sistema", de conformidad con esta Ley y las disposiciones que establezcan los Reglamentos respectivos. Ordenar las adquisiciones y contratación de servicios, de acuerdo a los lineamientos y políticos, que en la materia señale el Comité de Adquisiciones del Organismo, que será integrado por las personas que designe el Consejo de Administración. Los contratos de obra se celebrarán con las personas físicas o morales, inscritas en el Padrón de Contratistas del Estado, debiendo obtener cotizaciones previas. No podrán ser proveedores ni contratistas del "Sistema", las empresas administrativas por, o en las que tengan cualquiera clase de interés, los integrantes del Consejo, el Director General, los miembros del Comité de Adquisiciones, los gerentes o servidores públicos del "Sistema", sus cónyuges, ascendientes o descendientes, sin limitación de grado, y los colaterales y afines hasta el cuarto grado, siendo causa de responsabilidad la violación de esta norma;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
@@ -227,57 +235,89 @@ X. Dentro de sus facultades, realizar los actos de administración que le encomi
 
 XI. Las demás que le correspondan de acuerdo con esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1989)</small>
 
 ###### Artículo 10.
 
 Para la mejor administración del Organismo, funcionarán las gerencias que se estimen convenientes, con facultades específicas de tramitar y resolver lo que les corresponda, contando, en su caso, con el apoyo y colaboración de las demás que, como mínimo, serán:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-a). Gerencia Técnica;
+I. Gerencia Técnica;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-b). Gerencia de Calificación y Control;
+II. Gerencia de Calificación y Control;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-c). Gerencia Administrativa;
+III. Gerencia Administrativa;
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-d). Gerencia de Tesorería; y
+IV. Gerencia de Tesorería;
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-e). Y las que se determine crear en los términos de esta Ley.
+V. Gerencia de Operación y Mantenimiento; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 1989)</small>
+
+VI. Las que se determine crear, en los términos de esta Ley.
 
 La designación de cada uno de estos Gerentes se hará por el Consejo de Administración del Sistema y propuesta de su Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1989)</small>
 
 ###### Artículo 11.
 
 Son funciones de la Gerencia Técnica:
 
-I. Planear, ejecutar, supervisar, controlar, operar y mantener todas las actividades, instalaciones y equipos contendientes al abastecimiento y distribución de agua potable, así como el funcionamiento del alcantarillado del "Sistema";
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
+I. Operar y mantener en condiciones eficientes las instalaciones, equipos, presas y canales, y en coordinación con las instancias competentes, determinar los niveles adecuados en cada una de las plantas;
 
-II. Ejecutar y Supervisar las obras concernientes al mantenimiento, suministro y distribución de agua potable, así como aquellas relativas al desalojo de aguas negras y pluviales;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-III. Controlar la calidad, medición, buen uso y correcta distribución de agua potable que proporcione "El Sistema";
+II. Procurar que los volúmenes de agua que ingresan a las plantas potabilizadoras sean debidamente tratados, según las normas de las Autoridades de Salud, llevando registros de costos en el tratamiento del agua y el control de almacenamiento de existencias necesarias de substancias químicas;
 
-IV. Instalar tomas domiciliarias y medidores para el servicio de agua potable y ejecutar las conexiones a la red de alcantarillado, determinando el costo a cargo de los beneficiados con base en las normas aplicables;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
+III. Contar con la información perteneciente a los Sistemas de Producción Superficial y Subterránea, para incrementar el abastecimiento y distribución de agua a la Zona Metropolitana;
 
-V. Tramitar y resolver lo que le corresponda y las que específicamente se les atribuyan en el reglamento o reglamentos, que al efecto se expidan.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
+IV. Planificar y programar coordinadamente con las instancias competentes, la satisfacción de la demanda, conforme al crecimiento de la población de la Zona Metropolitana;
 
-VI. Además todas aquellas que, desde el punto de vista técnica le correspondan y las que le sean delegadas por el Consejo de Administración del "Sistema" o por su Director General;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
+
+V. Planear, ejecutar, supervisar y controlar obras, instalaciones y equipos necesarios para el abastecimiento del agua potable, considerando las fuentes de abastecimiento;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
+
+VI. Tramitar y resolver lo que le corresponda y las que, específicamente, se le atribuyan en el Reglamento o Reglamentos, que al efecto se expidan; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 1989)</small>
+
+VII. Las demás que desde un punto de vista técnico le correspondan, y las que le sean delegadas por el Consejo de Administración del "Sistema" o por su Director General.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1989)</small>
+
+###### Artículo 11 Bis.
+
+Son funciones de la Gerencia de Operación y Mantenimiento:
+
+I. Distribuir en forma adecuada y conforme a la infraestructura instalada en la Zona Metropolitana, los volúmenes de agua existentes; así como dictaminar sobre las condiciones de disponibilidad y especificaciones técnicas, para prestar los servicios a las nuevas áreas por urbanizar o a aquellas que demanden un gasto mayor;
+
+II. Operar y mantener en buen estado las redes y estructuras de agua potable;
+
+III. Operar y mantener en buen estado de funcionamiento las redes y estructuras de alcantarillado y resolver su problemática general;
+
+IV. Operar y mantener en buen estado de funcionamiento, los equipos de bombeo, para que trabajen a su capacidad teórica instalada; y conservar en óptimas condiciones la totalidad de las plantas que componen los sistemas de almacenamiento de la Zona Metropolitana y de más instalaciones relativas a la adecuada prestación de los servicios;
+
+V. Instalar tomas domiciliarias y medidores para el servicio de agua potable y ejecutar las conexiones a la red de alcantarillado, determinan el costo a cargo de los beneficiarios, con base a las normas aplicadables (sic); y
+
+VI. Las demás relacionadas con operación y mantenimiento de los servicios que le correspondan, y las que le sean delegadas por el Consejo de Administración del "Sistema", o por su Director General.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
@@ -317,7 +357,7 @@ III. Tramitar y resolver lo que le corresponda y las que, específicamente, se l
 
 IV. Además, todas aquellas que, desde el punto de vista administrativo le correspondan, y las que le sean delegadas por el Consejo de Administración del "Sistema" o por su Director General, a quien deberá suplir en ausencias temporales, firmando los acuerdos conjuntamente con la o las gerencias facultadas en el asunto de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1989)</small>
 
 ###### Artículo 13 Bis.
 
@@ -325,7 +365,7 @@ La Gerencia de Tesorería tendrá las siguientes obligaciones y atribuciones.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
-I. Coordinar las funciones de carácter contable del Organismo, así como las de Tesorería y Auditoría tramitando y resolviendo lo correspondiente;
+I.-Coordinar las funciones de carácter contable del Organismo, así como las de Tesorería y Auditoría tramitando y resolviendo lo correspondiente;
 
 ADICIONADA, P.O. 17 DE DICIEMBRE DE 1981)
 
@@ -339,9 +379,9 @@ III. Por acuerdo del Director General, librar cheques mancomunadamente con él y
 
 IV. Intervenir, conjuntamente con las demás dependencias, en la elaboración del anteproyecto de presupuesto de egresos y entregarlo al Director General, para los efectos del artículo 6°., fracción I, de esta Ley;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-V. Formular e interpretar conjuntamente con el Departamento de Contabilidad los estados financieros e informes estadísticos del Organismo, analizarlos y presentarlos a la consideración del H. Consejo de Administración por conducto de su Presidente;
+V. Formular e interpretar conjuntamente con el Departamento de Contabilidad los estados financieros e informes estadísticos del organismo, analizarlos y presentarlos a la consideración del Consejo de Administración, por conducto del Director General;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
@@ -478,3 +518,7 @@ P.O. 17 DE DICIEMBRE DE 1983
 Primero.- Las presentes reformas y adiciones dejan sin efecto las disposiciones que se opongan a las mismas.
 
 Segundo.- Este Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 6 DE JULIO DE 1989
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
