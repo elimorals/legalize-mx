@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1979-12-29"
+last_updated: "1989-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 1989.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -205,7 +205,9 @@ VI.- Desempeñar las demás funciones que le sean encomendadas.
 
 La Institución del Registro Público de la Propiedad en el estado de Veracruz se divide en zonas registrales de acuerdo a la siguiente distribución:
 
-PRIMERA ZONA REGISTRAL.- Que comprende los Municipios de: Pánuco (Cabecera), Pueblo Viejo y Tampico Alto.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+PRIMERA ZONA REGISTRAL.- Que comprende los municipios de: Pánuco (cabecera) Pueblo Viejo, Tampico Alto y El Higo.
 
 SEGUNDA ZONA REGISTRAL.- Que comprende el Municipio de: Ozuluama (Cabecera).
 
@@ -215,41 +217,75 @@ CUARTA ZONA REGISTRAL.- Que comprende los Municipios de: Huayacocotla (Cabecera)
 
 QUINTA ZONA REGISTRAL.- Que comprende los Municipios de: Chicontepec (Cabecera), Ixhuatlán de Madero, Benito Juárez, Tlachichilco y Zontecomatlán.
 
-SEXTA ZONA REGISTRAL.- Que comprende los Municipios de: Tuxpan de Rodríguez Cano (Cabecera), Tamiahua y Alamo Temapache.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-SEPTIMA ZONA REGISTRAL.- Que comprende los Municipios de: Poza Rica de Hidalgo (Cabecera), Cazones, Castillo de Teayo, Tihuatlán y Coatzintla.
+SEXTA ZONA REGISTRAL.- Que comprende los municipios de: Tuxpan (cabecera), Tamiahua y Temapache.
 
-OCTAVA ZONA REGISTRAL.- Que comprende los Municipios de: Papantla de Olarte (Cabecera), Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Tecolutla y Zozocolco de Hidalgo.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+SEPTIMA ZONA REGISTRAL.- Que comprende los municipios de: Poza Rica de Hidalgo (cabecera), Cazones de Herrera, Castillo de Teayo, Coatzintla y Tihuatlán.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+OCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Papantla (cabecera), Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Tecolutla y Zozocolco de Hidalgo.
 
 NOVENA ZONA REGISTRAL.- Que comprende los Municipios de: Misantla (Cabecera), Colipa, Juchique de Ferrer, Nautla, Tenochtitlán, Vega de Alatorre y Yecuatla.
 
-DECIMA ZONA REGISTRAL.- Que comprende los Municipios de: Jalacingo (Cabecera), Atzalan, Altotonga, Las Minas, Perote, Tlapacoyan, Aldama y Martínez de la Torre.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-DECIMAPRIMERA ZONA REGISTRAL.- Que comprende los Municipios de: Xalapa (Cabecera), Acajete, Acatlán, Actopan, Alto Lucero, Banderilla, Coacoatzintla, Chiconquiaco, Emiliano Zapata (Cabecera Dos Ríos), Jilotepec, Landero y Coss, Las Vigas, Naolinco, Miahuatlán, Rafael Lucio, Tatatila, Tepetlán, Tlacolulan, Tlalnelhuayocan y Tonayán.
+DECIMA ZONA REGISTRAL.- Que comprende los municipios de: Jalacingo (cabecera), Altotonga, Atzalan, Martínez de la Torre, Las Minas, Perote, Tlapacoyan y Villa Aldama.
 
-DECIMASEGUNDA ZONA REGISTRAL.- Que comprende los Municipios de: Coatepec (Cabecera), Apazapan, Ayahualulco, Cosautlán de Carvajal, Ixhuacán, Jalcomulco, Teocelo y Xico.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-DECIMATERCERA ZONA REGISTRAL.- Que comprende los Municipios de: Huatusco (Cabecera), Alpatlahua, Axocuapan, Calcahualco, Comapa, Coscomatepec, Sochiapa, Tenampa, Tlacotepec de Mejía, Totutla y Zentla.
+DECIMAPRIMERA ZONA REGISTRAL.- Que comprende los municipios de: Xalapa (cabecera), Acajete, Acatlán, Actopan, Alto Lucero, Banderilla, Coacoatzintla, Chiconquiaco, Emiliano Zapata, Jilotepec, Landero y Coss, Miahuatlán, Naolinco, Rafael Lucio, Tatatila, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tonayán y Las Vigas de Ramírez.
 
-DECIMACUARTA ZONA REGISTRAL.- Que comprende los Municipios de: Córdoba (Cabecera), Amatlán de los Reyes, Atoyac, Carrillo Puerto, Coetzala, Cuitláhuac, Cuichapa, Chocamán (Cabacera Omealca), Naranjal, Fortín, Ixhuatlán, Tenejapa de Mata, Tepatlaxco, Tezonapa, Tomatlán, Paso de Macho, Adalberto Tejeda, Yanga y las congregaciones del Municipio de Zongolica que siguen: Ayojapa, Raya Caracol, Coxapa, Atlipozania, Ixtacapa El Grande, La Reforma, Vázquez Vela, Vista Hermosa.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-DECIMAQUINTA ZONA REGISTRAL.- Que comprende los Municipios de: Orizaba (Cabecera), Acultzingo, Aquila, Atzacan, Camerino Z. Mendoza, San Andrés Tenejapa, Huiloapan, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Maltrata, Mariano Escobedo, Nogales, Rafael Delgado, Río Blanco, Soledad Atzompa, Tlilapan.
+DECIMASEGUNDA ZONA REGISTRAL.- Que comprende los municipios de: Coatepec (cabecera), Apazapan, Ayahualulco, Cosautlán de Carvajal, Ixhuacán de los Reyes, Jalcomulco, Teocelo y Xico.
 
-DECIMASEXTA ZONA REGISTRAL.- Que comprende los Municipios de: Zongolica (Cabecera), Atlahuilco, Astacinga, Reyes, Magdalena, Mixtla de Altamirano, Tehuipango, Tequila, Texhuacán, Tlaquilpa y Xoxocotla. Se exceptúan las congregaciones del municipio de Zongolica, que quedan comprendidas dentro de la jurisdicción de la Decimocuarta Zona Registral.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-DECIMASEPTIMA ZONA REGISTRAL.- Que comprende los Municipios de: Veracruz (Cabecera), Alvarado, Boca del Río, Cotaxtla, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Ignacio de la Llave, Tierra Blanca, Tlalixcoyan, Ursulo Galván, Jamapa, Manlio Fabio Altamirano, La Antigua (Cabecera Villa Cardel).
+DECIMATERCERA ZONA REGISTRAL.- Que comprende los municipios de: Huatusco (cabecera), Alpatláhuac, Calcahualco, Comapa, Coscomatepec, Sochiapa, Tenampa, Tlacotepec de Mejía, Tlaltetela, Totutla y Zentla.
 
-DECIMAOCTAVA ZONA REGISTRAL.- Que comprende los Municipios de: Cosamaloapan (Cabecera), Acula, Chacaltianguis, Isla, Ixmatlahuacan, Otatitlán, Tesechoacán, Tlacojalpan, Tuxtilla y Playa Vicente.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-DECIMANOVENA ZONA REGISTRAL.- Que comprende los Municipios de: San Andrés Tuxtla (Cabecera), Catemaco, Hueyapan de Ocampo, Juan Rodríguez Clara, Santiago Tuxtla.
+DECIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Córdoba (cabecera), Amatlán de los Reyes, Atoyac, Camarón de Tejeda, Carrillo Puerto, Coetzala, Cuichapa, Cuitláhuac, Chocamán, Fortín, Ixhuatlán del Café, Naranjal, Omealca Paso del Macho, Tepatlaxco, Tezonapa, Tomatlán, Yanga y congregación Ayojapa, del municipio de Zongolica.
 
-VIGESIMA ZONA REGISTRAL.- Que comprende los Municipios de: Acayucan (Cabecera), Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Texistepec.
+> <small>(REFORMADO, G.O. 4 DE MAYO 1989)</small>
 
-VIGESIMAPRIMERA ZONA REGISTRAL.- Que comprende los Municipios de: Coatzacoalcos (Cabecera), Minatitlán, Jáltipan, Oteapan, Zaragoza, Jesús Carranza, Chinameca, Moloacán, Hidalgotitlán, Cosoleacaque, Pajapan, Ixhuatlán del Sureste y Las Choapas.
+DECIMAQUINTA ZONA REGISTRAL.- Que comprende los municipios de: Orizaba (cabecera), Acultzingo, Aquila, Atzacan, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, Maltrata, Mariano Escobedo, Nogales, La Perla, Rafael Delgado, Río Blanco, San Andrés Tenejapa, Soledad Atzompa y Tlilapan.
 
-VIGESIMASEGUNDA ZONA REGISTRAL.- Que comprende los Municipios de: Naranjos (Cabecera), Cerro Azul, Chinampa de Gorostiza, Chontla, Ixcatepec, Amatlán, Tamalín, Tancoco, Tantima, Tepetzintla, Citlaltépetl.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
-VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los Municipios de: Tlacotalpan (Cabecera), Amatitlán, Angel R. Cabada, Lerdo de Tejada, Saltabarranca.
+DECIMASEXTA ZONA REGISTRAL.- Que comprende los municipios de: Zongolica (cabecera), Atlahuilco, Astacinga, Magdalena, Mixtla de Altamirano, Los Reyes, Tehuipango, Tequila, Texhuacán, Tlaquilpa y Xoxocotla. Se exceptúa la congregación del Ayojapa, del municipio de Zongolica, que queda comprendida dentro de la jurisdicción de la decimocuarta zona registral.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+DECIMASEPTIMA ZONA REGISTRAL.- Que comprende los municipios de: Veracruz (cabecera), Alvarado, La Antigua, Boca del Río, Cotaxtla, Ignacio de la Llave, Jamapa, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tierra Blanca, Tlalixcoyan, y Ursulo Galván.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+DECIMAOCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Cosamaloapan (cabecera), Acula, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Otatitlán, Playa Vicente, Tlacojalpan, Tres Valles y Tuxtilla.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+DECIMANOVENA ZONA REGISTRAL.- Que comprende los municipios de San Andrés Tuxtla (cabecera), Catemaco, Hueyapan de Ocampo, Juan Rodríguez Clara y Santiago Tuxtla.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+VIGESIMA ZONA REGISTRAL.- Que comprende los municipios de: Acayucan (cabecera), Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan y Texistepec.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+VIGESIMAPRIMERA ZONA REGISTRAL.- Que comprende los municipios de: Coatzacoalcos (cabecera), Agua Dulce, Cosoleacaque, Chinameca, Las Choapas, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oteapan, Pajapan y Zaragoza.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+VIGESIMASEGUNDA ZONA REGISTRAL.- Que comprende los municipios de: Amatlán Tuxpan (cabecera), Cerro Azul, Citlaltépetl, Chinampa de Gorostiza, Chontla, Ixcatepec, Tamalín, Tancoco, Tantima y Tepetzintla.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+
+VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los municipios de: Tlacotalpan (cabecera), Amatitlán, Angel R. Cabada, Lerdo de Tejada y Saltabarranca.
 
 ###### ARTICULO 20.
 
@@ -610,3 +646,33 @@ DADA en el Salón de Sesiones de la Honorable Quincuagésima Primera Legislatura
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., 29 de diciembre de 1979.- Lic. RAFAEL HERNANDEZ OCHOA.- Rúbrica.- El Secretario de Gobierno, LIC. EMILIO GOMEZ VIVES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 4 DE MAYO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Las inscripciones en la sección del Registro Público de la Propiedad que deban de realizarse en la oficina registral distinta a la que establecía la Ley del Registro Público de la Propiedad que se reforma, se sujetarán al siguiente procedimiento;
+
+I.- El interesado deberá dirigirse a la oficina registradora que corresponda antes de la iniciación de vigencia de la presente reforma.
+
+II.- El encargado del Registro Público de dicha oficina, recibirá la documentación y comunicará al interesado por escrito, que por virtud de la presente reforma, los documentos como los antecedentes inmediatos se remitirán a la oficina de la nueva circunscripción territorial.
+
+Dentro de los tres días hábiles siguientes a la fecha que haya recibido la documentación, entregará personalmente o enviará por correo certificado con acuse de recibo, a la oficina competente, los documentos señalados en el párrafo anterior, con las observaciones que resulten procedentes; dejando constancia de la entrega en él o los lugares del archivo que les haya correspondido a los documentos remitidos y dará aviso inmediatamente al Jefe del Departamento del Registro Público de la Propiedad.
+
+III.- La oficina que reciba la documentación, procederá a la calificación y en su caso a la inscripción de los documentos, comunicando al interesado el resultado del trámite en los términos de la Ley.
+
+IV.- Para el traspaso, se agregarán copias certificadas de las inscripciones de las demás secciones que los graven, limiten o afecten, dejando debida nota de la remisión de las mismas y comunicándolo por oficio a los interesados dentro de las 24 horas siguientes.
+
+V.- No operará el traspaso de los casos de las inscripciones de las demás secciones del Registro Público de la Propiedad, excepto en los casos a que se refiere la fracción anterior y únicamente de los originales cuando así lo pida expresamente él o los interesados.
+
+VI.- La inscripción de documentos que no tengan antecedentes registrados, se hará en la oficina que corresponda conforme a la presente reforma.
+
+VII.- Se aplicarán en lo conducente las reglas anteriores al Registro Público de Comercio y al Registro de Crédito Agrícola.
+
+Cualquier problema que surja con motivo de la aplicación de este precepto, lo resolverá inmediatamente el Jefe del Departamento del Registro Público de la Propiedad.
+
+###### ARTICULO SEGUNDO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
