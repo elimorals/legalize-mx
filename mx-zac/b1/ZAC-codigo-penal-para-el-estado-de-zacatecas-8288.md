@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1997-02-15"
+last_updated: "1997-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1217,7 +1217,7 @@ En el caso de la fracción II, las sanciones expresadas se impondrán sin perjui
 
 211.- Además de las sanciones mencionadas en el artículo anterior, se impondrá a los abogados y litigantes prisión de tres meses a tres años:
 
-I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
+I.-Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
 
 II.- Por abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño;
 
@@ -1577,6 +1577,8 @@ El abandono en perjuicio de menores de edad que no tuvieren otro u otros familia
 
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones del delito preterintencional.
 
+TITULO DECIMOCUARTO
+
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
 255.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas:
@@ -1633,7 +1635,7 @@ IV.- Realizar en forma directa o encubierta una campaña de difamación.
 
 262.- Se impondrá de seis meses a dos años de prisión y multa de una a tres cuotas al que, sin motivo justificado, se introduzca o permanezca furtivamente o con engaños, o violencia, o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de una casa habitada.
 
-## TITULO DECIMO CUARTO
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO III. ASALTO
 
@@ -1827,7 +1829,7 @@ III.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore quie
 
 299.- Al responsable de homicidio calificado se le impondrán de dieciséis a treinta años de prisión y multa de veinte a sesenta cuotas.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO III. REGLAS COMUNES PARA LOS DELITOS DE LESIONES Y HOMICIDIO
 
@@ -1869,7 +1871,7 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o residir en él.
 
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
@@ -2007,7 +2009,7 @@ Si además de las personas a que se refiere el párrafo anterior tuviere interve
 
 329.- Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
 
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO II. ABIGEATO
 
@@ -2335,7 +2337,7 @@ Se entenderá que el inculpado queda a disposición del juzgador, para los efect
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+## TITULO VIGESIMO
 
 ### CAPITULO III. DETENCION Y PRISION PREVENTIVA ILEGITIMA
 
@@ -2411,15 +2413,23 @@ III.- No evitar que se torture a un detenido.
 
 I.- FUNCIONARIOS ELECTORALES.- Quienes en los términos de la legislación electoral integren los órganos que cumplan funciones electorales;
 
-II.- DIRIGENTE PARTIDISTA.- Los dirigentes de los partidos políticos nacionales y estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales, los propios partidos otorguen representación para actuar en la jornada electoral ante los Organos Electorales en los términos de la Legislación estatal electoral;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+II.- DIRIGENTE PARTIDISTA.- Los ciudadanos que en términos estatutarios, ejerzan funciones permanentes de organización, administración, toma de decisiones o representación legal dentro de los partidos políticos nacionales o estatales, acreditados como tales ante los órganos electorales;
 
 III.- OBSERVADOR ELECTORAL.- La persona que siendo acreditada como tal por la autoridad correspondiente participe en la jornada electoral de que se trate, en los términos que la ley de la materia establece;
 
 IV.- ENCUESTADOR.- Es la persona física o moral que realice encuestas o sondeos de opinión para conocer la tendencia de la preferencia electoral y los resultados de la misma.
 
-V.- DOCUMENTOS PUBLICOS ELECTORALES.- Las actas oficiales de instalación de casillas, las de escrutinio y cómputo municipales, distritales o estatales, listados, boletas electorales, credencial para votar con fotografía, credencial de identidad para funcionarios y observadores electorales, y en general, cualquier documento expedido en el ejercicio de sus funciones por los órganos de la Comisión Electoral del Estado o del Tribunal Estatal electoral; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+V.- DOCUMENTOS PUBLICOS ELECTORALES.- Las actas oficiales de instalación de casillas, las de escrutinio y cómputo municipales, distritales o estatales, listados, boletas electorales, credencial para votar con fotografía, credencial de identidad para funcionarios y observadores electorales, y en general, cualquier documento expedido en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado de Zacatecas o del Tribunal Estatal Electoral;
+
+VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O.6 DE MAYO DE 1995)</small>
 
@@ -2443,7 +2453,45 @@ VI.- Impida la instalación, apertura o cierre de una casilla, en contravención
 
 VII.- Se presente a votar armado, en estado de ebriedad o bajo los efectos de un enervante o tóxico y altere el orden de la casilla; y
 
-VIII.- Por medio de dádivas, o paga obligue directamente a otro a votar en favor de cualquier candidato o partido.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VIII.- Por medio de dádivas, paga o recompensa alguna, motive directamente a otro a votar en favor de cualquier candidato o partido;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+IX.- Destruya propaganda electoral, o la propaganda destinada a la difusión de programas y principios de los partidos políticos, o candidatos;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+X.- Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XI.- El día de la elección lleve a cabo o participe de cualquier manera en el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XII.- Teniendo uno o más electores bajo su dependencia económica, los obligue de manera expresa y haciendo uso de su autoridad o jerarquía, a que voten o no en favor de un partido político, o candidato;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XIII.- Viole el derecho ciudadano de afiliación libre, voluntaria e individual obligando a pertenecer o no a un partido político;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XIV.- Durante los ocho días previos a la jornada electoral hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias electorales de los ciudadanos sobre los candidatos o partidos políticos contendientes en las elecciones locales. Celebre mítines, reuniones públicas o cualquier otro acto público de campaña; o realice proselitismo o distribuya, difunda o instale propaganda electoral, el día de la elección y los tres que le precedan;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XV.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a un candidato o partido;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XVI.- Mediante violencia o amenazas obstaculice o impida el libre acceso a oficinas o lugares donde se encuentren instalados los organismos electorales o jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XVII.- Se ostente en una o más casillas como funcionario electoral o representante de partido político o candidato, sin tener esa calidad.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
 
@@ -2455,15 +2503,25 @@ II.- Realice funciones electorales que legalmente no le hayan sido encomendadas.
 
 III.- Anote datos falsos en algún documento electoral o lo altere.
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio y del cómputo de la jornada electoral;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-V.- Al que intente votar dos o más veces en una elección;
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio y cómputo de la jornada electoral; así como el traslado y entrega de los paquetes y documentación electorales, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-VI.- Utilice para emitir su sufragio alguna credencial para votar que no le corresponda;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-VII.- Al que deposite más de una boleta en una urna para la elección de que se trate;
+V.- Al que vote o intente votar dos o más veces en una misma elección;
 
-VIII.- Sustraiga de una oficina pública, de una casilla o de cualquier sitio en que estos documentos se encuentren en resguardo legal, boletas sufragadas o en blanco.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VI.- Utilice o pretenda utilizar para emitir sufragio, alguna credencial para votar que no le corresponda;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VII.- Al que deposite más de una boleta electoral en una urna para la elección de que se trate, o vote a sabiendas que no cumple con los requisitos de ley.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VIII.- Sustraiga de una oficina pública, de una casilla, urna o de cualquier sitio en que estos documentos se encuentren en resguardo legal, boletas electorales sufragadas o en blanco.
 
 IX.- Mediante la violencia física o moral impida a otro votar libremente, viole el secreto del voto u obligue a votar por un partido o candidato determinado; y
 
@@ -2473,9 +2531,9 @@ X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento
 
 ### CAPITULO TERCERO. DE LOS MINISTROS DE CULTOS RELIGIOSOS
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-377.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años a los Ministros de cultos religiosos que, por cualquier medio, en el desarrollo de los actos propios de su ministerio, induzcan al electorado a votar en favor o en contra de un candidato, partido político o induzca a la abstención.
+377.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por dos años a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de los actos propios de su ministerio, induzcan pública o privadamente al electorado a votar en favor o en contra de un candidato, partido político o a la abstención del ejercicio del derecho de votar.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
@@ -2485,23 +2543,35 @@ X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento
 
 378.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años, al funcionario electoral que dolosamente:
 
-I.- Altere o destruya una credencial para votar;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-II.- Realice funciones electorales que legalmente no le hayan sido encomendadas;
+I.- Altere en cualquier forma, mantenga, destruya o haga un uso indebido de documentos relativos a cualquier órgano electoral;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
 
 III.- Disponga, haga uso indebido de recursos o fondos públicos, en favor de algún partido político o candidato;
 
 IV.- Designe algún funcionario electoral o autorice la instalación de alguna casilla, a sabiendas de que no reúne los requisitos legales;
 
-V.- Estando obligado no rinda oportunamente los informes o no expida las constancias que la Ley determine;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-VI.- Prive de la libertad a los candidatos o a los representantes de partidos políticos pretextando delitos o faltas inexistentes;
+V.- Estando obligado, no rinda oportunamente los informes o no expida las constancias que la Ley determine;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VI.- Ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinados en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
 VII.- Coarte los derechos electorales que la ley de la materia establece para los representantes de los partidos políticos en las casillas u organismos electorales.
 
-VIII.- Inutilice propaganda electoral o impida que ésta se realice conforme a la ley de la materia;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-IX.- Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos, candidatos o sus representantes;
+VIII.- Inutilice materiales electorales sin justificación legal;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+IX.- Niegue o retarde la tramitación de los recursos interpuestos por los representantes de los partidos políticos, o candidatos;
 
 X.- Siendo funcionario de casilla no levante oportunamente las actas correspondientes o no haga entrega de las copias de ellas a los representantes de los partidos políticos;
 
@@ -2529,19 +2599,23 @@ II.- Sin causa legalmente justificada impida la instalación, apertura o cierre 
 
 III.- Permita o tolere que algún ciudadano emita su voto cuando no cumpla con los requisitos de Ley o que introduzca en las urnas ilícitamente una o más boletas electorales;
 
-IV.- Sustraiga boletas en blanco o sufragadas, o realice el escrutinio y cómputo en lugar distinto al señalado por la Ley o altere los resultados electorales; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+IV.- Sustraiga boletas electorales en blanco o sufragadas, o realice el escrutinio y cómputo en lugar distinto al señalado por la Ley o altere los resultados electorales; y
 
 V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u otro tipo de documentos contenidos en éstos;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 1997)</small>
 
-## TITULO VIGESIMO
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
 
-### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
+### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS Y CANDIDATOS
 
-380.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años, al dirigente partidista que dolosamente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+380.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por dos años, al dirigente partidista o candidato que dolosamente:
 
 I.- Impida a otro cumplir con las funciones electorales que le han sido encomendadas;
 
@@ -2553,23 +2627,53 @@ IV.- Inutilice propaganda electoral o impida que ésta se realice; y
 
 V.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto a sus resultados;
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-381.- Se impondrá de uno a tres años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la entidad, así como la suspensión de sus derechos políticos hasta por tres años, al dirigente partidista que dolosamente:
+381.- Se impondrá de uno a tres años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la entidad, así como la suspensión de sus derechos políticos hasta por tres años, al dirigente partidista o candidato que dolosamente:
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
 I.- Impida la realización de una asamblea o manifestación pública o cualquier otro acto legal de propaganda política;
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
+
 II.- Coarte el derecho de los representantes de los partidos políticos en las casillas u organismos electorales;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
 III.- El día de la elección organice reuniones y traslado de votantes con el objeto de influir en el sentido de su voto;
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
+
 IV.- Impida la instalación, apertura o cierre de una casilla en contravención a la hora prevista por la Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
 V.- Impida a otro votar libremente, viole el secreto del voto u obligue a sufragar por un partido o candidato determinado;
 
-VI.- Por medio de dádivas o paga obligue directamente a otro a votar en favor de algún candidato; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VI.- Por medio de dádivas o paga motive directamente a otro a votar en favor de algún candidato;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
 
 VII.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u otro tipo de documentos contenidos en éstos.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+VIII.- Ejerza presión sobre los electores o los induzca a la abstención o a votar por un candidato o partido determinados en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+IX.- Obtenga y utilice a sabiendas fondos provenientes de actividades ilícitas para la campaña electoral;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+X.- Incite a la violencia que altere el orden público y afecte cualquiera de las etapas del proceso electoral; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+XI.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a un candidato o partido distinto al que el activo pertenece.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
@@ -2587,23 +2691,15 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-383.- Se impondrá de uno a tres años de prisión y multa hasta de quinientas cuotas de salario mínimo general vigente en el Estado, a la persona física que realice y/o publique encuestas o sondeos de opinión, si es persona moral además se le retirará la autorización correspondiente cuando con ese carácter:
-
-I.- Realice y/o publique sondeos de opinión sin cumplir los requisitos establecidos en la Ley de la materia;
-
-II.- Obstaculice el desarrollo de la jornada electoral;
-
-III.- Realice funciones electorales que la ley de la materia no le otorgue; y
-
-IV.- Emita noticias falsas en torno al desarrollo del proceso electoral o respecto de los resultados, que no sean producto de la metodología aprobada por la Comisión Electoral del Estado sobre encuestas o sondeos de opinión que sólo mostrarán tendencias.
+383.- Se impondrá de uno a tres años de prisión y multa hasta de quinientas cuotas de salario mínimo general vigente en el Estado, a la persona física que publique encuestas o sondeos de opinión y den a conocer las preferencias de los ciudadanos durante los ocho días previos a la jornada electoral y hasta la hora oficial de cierre de las casillas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
@@ -2627,15 +2723,23 @@ II.- Prive de la libertad a candidatos o a los representantes de partidos polít
 
 III.- Impida la realización de una asamblea, manifestación pública o cualquier acto legal de propaganda política.
 
-IV.- Obligue a sus subordinados a emitir los votos en favor de un partido político o candidato;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
+
+IV.- Obligue a sus subordinados a emitir sus votos o participar en la campaña en favor de un partido político o candidato;
 
 V.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; y
 
-VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como: vehículos, inmuebles y equipos, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
-## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
+VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como: vehículos, inmuebles y equipos, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo de sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de esta modalidad no se concederá el beneficio de la libertad provisional.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+Si para la comisión de cualquiera de los delitos previstos en este capítulo se utiliza violencia física contra personas, a las penas que correspondan se aumentarán de 1 a 2 años de prisión.
+
+## TITULO VIGESIMO TERCERO
+
+> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O.6 DE MAYO DE 1995)</small>
 
 ## TITULO VIGESIMO TERCERO
 
@@ -2718,3 +2822,9 @@ SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado c
 P.O. 15 DE FEBRERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la Federación, Organo del Gobierno del Estado.
+
+P.O. 22 DE FEBRERO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
