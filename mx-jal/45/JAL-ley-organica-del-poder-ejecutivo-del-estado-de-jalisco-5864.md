@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1994-01-11"
+last_updated: "1995-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -999,6 +999,8 @@ IV. Comité Estatal de Crédito;
 
 V. Comité para la Planeación del Desarrollo del Estado;
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO PRIMERO DEL ACUERDO PUBLICADO EN EL P.O. DE 11 DE JULIO DE 1995, SE EXTINGUE EL “CONSEJO CONSULTIVO DE LA VIALIDAD Y EL TRANSITO PARA LA ZONA METROPOLITANA”.</small>
+
 VI. Consejo Consultivo de la Vialidad y el Transporte de la Zona Metropolitana;
 
 VII. Consejo Consultivo Estatal de Seguridad Pública;
@@ -1360,3 +1362,7 @@ Unico.- Este decreto entrará en vigor el día siguiente de su publicación en e
 P.O. 11 DE ENERO DE 1994
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 1995.
+
+UNICO.- La Secretaría de Vialidad y Transporte dispondrá lo necesario para que las funciones del Consejo se sigan coordinando dentro de esta estructura administrativa.
