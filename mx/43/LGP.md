@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1974-12-31"
+last_updated: "1975-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -108,9 +108,11 @@ Para los efectos del artículo anterior, corresponde a las dependencias del Pode
 
 Se crea el Consejo Nacional de Población que tendrá a su cargo la planeación demográfica del país, con objeto de incluir a la población en los programas de desarrollo económico y social que se formulen dentro del sector gubernamental y vincular los objetivos de éstos con las necesidades que plantean los fenómenos demográficos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 6o.
 
-El Consejo Nacional de Población estará integrado por un representante de la Secretaría de Gobernación que será el titular del ramo y que fungirá como presidente del mismo, y un representante de cada una de las Secretarías de Educación Pública, Salubridad y Asistencia, Hacienda y Crédito Público, Relaciones Exteriores, Trabajo y Previsión Social y de la Presidencia, y uno del Departamento de Asuntos Agrarios y Colonización, que serán los titulares de los mismos o los Subsecretarios y Secretario General que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior.
+El Consejo Nacional de Población estará integrado por un representante de la Secretaría de Gobernación que será el titular del ramo y que fungirá como presidente del mismo, y un representante de cada una de las Secretarías de Educación Pública, Salubridad y Asistencia, Hacienda y Crédito Público, Relaciones Exteriores, Trabajo y Previsión Social, de la Presidencia y de la Reforma Agraria, que serán los titulares de los mismos o los Subsecretarios que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior.
 
 Cuando se trate de asuntos de la competencia de otras dependencias u organismos del sector público, el Presidente del Consejo podrá solicitar de sus titulares que acudan a la sesión o sesiones correspondientes o nombren un representante para desahogar aquéllos.
 
@@ -536,9 +538,11 @@ La Secretaría de Gobernación estimulará la repatriación de los mexicanos, y 
 
 La misma categoría podrá ser otorgada por la Secretaría de Gobernación a los nacionales que por virtud de situaciones excepcionales, requieran el auxilio de las autoridades de dicha Dependencia, para ser reinternados al país.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 83.
 
-La Secretaría de Gobernación cooperará con el Departamento de Asuntos Agrarios y Colonización y con los demás organismos federales, locales y municipales que correspondan, para distribuir en los centros de población existentes y en los que se creen, a los contingentes de repatriados que en forma colectiva se internen al país.
+La Secretaría de Gobernación cooperará con la Secretaría de la Reforma Agraria y con los demás organismos federales, locales y municipales que correspondan, para distribuir en los centros de población existentes y en los que se creen, a los contingentes de repatriados que en forma colectiva se internen al país.
 
 ###### ARTICULO 84.
 
@@ -759,3 +763,9 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 3 DE ENERO DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
