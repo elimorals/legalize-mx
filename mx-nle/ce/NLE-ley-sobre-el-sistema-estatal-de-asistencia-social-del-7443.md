@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "1996-01-26"
+last_updated: "1997-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -47,7 +47,7 @@ Para los efectos de esta Ley, se entiende por asistencia social el conjunto de a
 
 ###### ARTICULO 3o.
 
-El Gobierno del Estado, en forma prioritaria proporcionará servicios de Asistencia Social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, en especial a aquellos individuos con carencias familiares esenciales, no superables en forma autónoma por ellos.
+El Gobierno del Estado, en forma prioritaria proporcionará servicios de Asistencia Social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que proveé a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, en especial a aquellos individuos con carencias familiares esenciales, no superables en forma autónoma por ellos.
 
 ###### ARTICULO 4o.
 
@@ -111,7 +111,7 @@ Para los efectos de esta Ley, se consideran como servicios básicos de salud en 
 
 I.- Promoción al desarrollo integral de la familia, procurando que sus miembros se desenvuelvan en un ambiente de plena salud física, mental y social;
 
-II.- La atención en establecimientos especiales a indigentes, ancianos desvalidos y menores en estado de abandono, marginación o sujetos a maltrato;
+II.- La atención en establecimientos especiales a indigentes, ancianos desválidos y menores en estado de abandono, marginación o sujetos a maltrato;
 
 III.- La promoción del bienestar de los ancianos y el desarrollo de acciones de preparación para la senectud;
 
@@ -143,7 +143,11 @@ XVI.- Prestación de servicios funerarios a quienes carezcan de recursos para su
 
 XVII.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás vicios sociales; y
 
-XVIII.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XVIII.- La prestación de servicios para la prevención y la atención de las causas y los efectos de la violencia en el ámbito de la familia;
+
+XIX.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
 
@@ -219,7 +223,11 @@ XXIII.- Coordinar, evaluar y dar seguimiento a los servicios de asistencia socia
 
 XXIV.- Participar en coordinación con la Secretaría Estatal de Salud en el establecimiento y operación del Sistema Estatal de información en materia de asistencia social, y
 
-XXV.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XXV.- Establecer los programas tendientes a prevenir y atender las causas y efectos de la violencia en el ámbito de la familia;
+
+XXVI.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 14o.
 
@@ -484,3 +492,13 @@ P.O. 26 DE ENERO DE 1996.
 ###### ARTICULO SEGUNDO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ENERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
