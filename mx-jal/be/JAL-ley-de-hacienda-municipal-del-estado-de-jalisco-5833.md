@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1991-01-01"
+last_updated: "1991-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -245,7 +245,7 @@ e) Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces,
 
 f) Se embarguen precautoriamente los bienes, el establecimiento o la negociación, cuando el contribuyente no atienda tres requerimientos de la autoridad, por una misma omisión. El embargo quedará sin efectos, cuando el contribuyente cumpla con la obligación de que se trate, o dos meses después de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
-g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales.
+g) Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la Ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales;
 
 h) Comprobar los ingresos de los contribuyentes. A este efecto, se presumirá, salvo prueba en contrario, que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezca sin su nombre o a nombre de otra persona;
 
@@ -1047,7 +1047,7 @@ XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o
 
 XIII. La disolución o liquidación de la copropiedad, por lo que hace a los excedentes del valor que les correspondería a la porción de cada copropietario; y
 
-XIV. La celebración de contratos de arrendamiento, financiero, y la cesión de derechos del arrendatario; y
+XIV. (DEROGADA, P.O. 29 DE JUNIO DE 1991)
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 1991)</small>
 
@@ -1061,53 +1061,61 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 Son sujetos de este impuesto las personas físicas o morales que realicen cualquiera de los supuestos señalados en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1991)</small>
+
 ###### Art. 114.
 
-Será base de este impuesto, el valor que resulte más alto entre los siguientes:
+Para efectos del cálculo del Impuesto, se deberán considerar los valores siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1991)</small>
+(REFORMADA, P.O. 29 DE JUNIO DE 1991) (F. DE E., P.O. 29 DE JUNIO DE 1991)
 
-I. El consignado en avalúo bancario o avalúo practicado por la Dirección de Catastro, que no podrán tener antigüedad mayor de un año, respecto de la fecha en que se practiquen;
+I. El consignado en avalúo, ya sea bancario o el practicado por la Dirección de Catastro que, en ningún caso, podrá ser menor a seis veces el valor catastral, y que no podrá tener antigüedad mayor de un año a partir de la fecha en que se practique;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1991)</small>
 
-II. El de operación, excepto cuando la transmisión de dominio se realice sobre un bien inmueble destinado a vivienda y cuya superficie de construcción no exeda (sic) de 65 metros cuadrados; siempre que se acredite ante la autoridad a quien competa la aplicación de esta Ley, que el adquiriente no es propietario de otro bien inmueble;
+II. El de Operación; y
 
 III. El catastral o con el que fiscalmente se encuentre empadronado el predio;
 
-En la constitución, adquisición, o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el de avalúo a que se refiere la frac. I. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+(ADICIONADO, P.O. 29 DE JUNIO DE 1991) (F. DE E., P.O. 29 DE JUNIO DE 1991)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1991)</small>
+Será base del impuesto el 40% cuarenta por ciento del valor que resulte más alto de entre los referidos anteriormente.
 
-Tratándose de permutas, será base de este impuesto, el valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en el primer párrafo de este artículo. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en la Frac. I de este artículo. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la tesorería municipal está facultada a exigir se acredite su existencia para valorarlos.
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 1991)</small>
+
+Tratándose de inmuebles destinados a vivienda cuya superficie de construcción no exceda de 65 sesenta y cinco metros cuadrados, será base de este impuesto el 40% cuarenta por ciento del avalúo que practique la Dirección de Catastro en los términos de la frac. I de este artículo y siempre que se acredite, ante la autoridad a quien competa la aplicación de esta Ley, que el adquirente no es propietario de otro inmueble.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el valor que corresponda, en los términos de las fracs. I a III de este artículo. Para los fines de este Impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% cincuenta por ciento del valor de la propiedad.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+
+Tratándose de permutas, será base de este impuesto el 40% cuarenta por ciento del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I a III de este artículo. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el 40% cuarenta por ciento del valor de la parte proporcional del bien o bienes que corresponda a los derechos que se transmitan, o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en la fracciones I a III de este artículo. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la Tesorería Municipal está facultada a exigir que se acredite su existencia para valorarlos.
 
 Cuando con motivo de la adquisición, el adquirente asume la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-Si las autoridades fiscales advierten que los avalúos bancarios son notoriamente inferiores a los que rijan en el mercado, practicarán avalúo en los términos de la Ley de Catastro del Estado, mismos que servirán de base para el pago del impuesto.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+
+Si las autoridades fiscales advierten que los avalúos bancarios consignan valores inferiores a los que rigen en el mercado, practicarán avalúo en los términos de la Ley de Catastro del Estado, el cual no podrá ser menor a seis veces el valor catastral, mismo que servirá de base para el pago del impuesto.
 
 ###### Art. 115.
 
-A la base determinada de conformidad con lo dispuesto en el artículo anterior, se le aplicará la reducción de la cantidad de cinco veces el salario mínimo general, elevado al año, de la zona económica correspondiente a la ubicación del inmueble.
+(DEROGADO, P.O. 29 DE JUNIO DE 1991)
 
-La reducción a que se refiere este artículo se realizará conforme a lo siguiente:
-
-I. Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un periodo de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiese adquirido con anterioridad, para que se ajuste al monto de la reducción y pagará, en su caso, las diferencias del impuesto que corresponda. Lo dispuesto en esta fracción no se aplica a las adquisiciones por causa de muerte.
-
-II. Cuando se adquiera parte de una propiedad, o de los derechos sobre un inmueble, la reducción se hará en la proporción que, respecto del valor total del inmueble, corresponda a dicha parte.
-
-III. Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50 % de la reducción, por cada uno de ellos; y
-
-IV. No se considerarán Departamentos Habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines. Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1991)</small>
 
 ###### Art. 116.
 
-Este impuesto se causará y pagará aplicando la tasa que establezcan las Leyes de Ingresos Municipales, a la base determinada en los términos del artículo anterior. El entero respectivo se efectuará dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato correspondiente, ante la Tesorería Municipal de que se trate y, en su caso, ante sus Oficinas Recaudadoras.
+Este impuesto se causará y liquidará aplicando la tasa que establezca la Ley de Ingresos de cada Municipio a la base determinada en los términos del artículo 114 de esta Ley. El pago deberá efectuarse dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato correspondiente, ante la Tesorería Municipal respectiva y, en su caso, ante las Oficinas Recaudadoras.
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1991)</small>
+
 ###### Art. 117.
 
-Quedan exentos del pago de este impuesto, la Federación, el Estado y sus municipios respecto de la transmisión o adquisición de bienes afectos al pago de este impuesto.
+Quedan exentos del pago de este impuesto la Federación, el Estado y sus Municipios respecto de la transmisión o adquisición de bienes afectos al pago de este impuesto; así como los partidos políticos nacionales por la adquisición de inmuebles para su uso propio; igualmente, los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad. Los arrendatarios financieros estarán exentos del pago de este impuesto por la adquisición de inmuebles, al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### Art. 118.
 
@@ -2760,3 +2768,9 @@ Unico. El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 1 DE ENERO DE 1991.
 
 Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 29 DE JUNIO DE 1991.
+
+Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1.º de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
+
+Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
