@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1990-12-14"
+last_updated: "1991-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1991.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -164,11 +164,13 @@ III.- Ser de reconocida honorabilidad y competencia.
 
 Los miembros de la Junta no podrán ser al mismo tiempo servidores públicos de confianza del Instituto, salvo el Director General.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 7o.
 
-Los miembros de la Junta durarán en sus cargos por todo el tiempo que subsista su designación.
+Los miembros de la Junta durarán en sus cargos el tiempo que subsista su designación.
 
-Sus nombramientos podrán ser revocados libremente por quienes los hayan designado. El cargo de miembro será honorífico y sin retribución para los representantes del Estado.
+Sus nombramientos podrán ser revocados libremente por quienes los hayan designado. La remuneración de los miembros de la Junta Directiva por el ejercicio de su función se sujetará a las disposiciones aplicables.
 
 ###### ARTICULO 8o.
 
@@ -1083,3 +1085,9 @@ D.O.F. 14 DE DICIEMBRE DE 1990.
 PRIMERO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En su oportunidad, inscríbanse las presentes reformas en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 10 DE ENERO DE 1991.
+
+PRIMERO.- Esta reforma entrará en vigor el día 17 de diciembre de 1990.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación y, en su oportunidad, inscríbase la presente reforma en el Registro Público de Organismos Descentralizados.
