@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1996-12-16"
+last_updated: "2001-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE MARZO DE 2001.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -330,6 +330,10 @@ El Estado considera la planeación del desarrollo como actividad de interés pú
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 Artículo 25 D. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y en igual forma existirá un Plan de Desarrollo por cada Municipio de la Entidad, al que se sujetarán los programas de los Gobiernos Municipales.
+
+> <small>(ADICIONADO, B.O. 29 DE MARZO DE 2001)</small>
+
+Los Municipios participarán en la formulación, instrumentación, control y evaluación de los Programas de Desarrollo Regional cuando éstos afecten su ámbito territorial. Siempre que el Gobierno del Estado formule Programas de Desarrollo Regional, deberá asegurar la participación de los Municipios.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -661,9 +665,21 @@ VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
 IX. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-X. Para reglamentar el funcionamiento del Municipio libre como base de la división territorial y de la organización política y administrativa del Estado, así como para fortalecerlo como corresponsable en la conducción del desarrollo de la entidad.
+X. Para expedir las leyes en materia municipal conforme a las cuales los Ayuntamientos aprobarán sus bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, en sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, asegurando la participación ciudadana y vecinal.
+
+El objeto de las leyes a que se refiere el párrafo anterior será establecer:
+
+a). Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+b). Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+
+c). Las normas de aplicación general para celebrar los convenios a que se refieren los artículos 79, fracción XVI, 138 y 139 de esta Constitución;
+
+d). El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+
+e). Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -685,9 +701,9 @@ XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes par
 
 Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
 
-> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la suspensión o desaparición de Ayuntamientos, o de suspensión de sus miembros o revocación de su mandato; así como para convocar a elecciones municipales extraordinarias e integrar y designar Consejos Municipales, en su caso.
+XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la suspensión o desaparición de Ayuntamientos, o de suspensión de sus miembros o revocación de su mandato por alguna de las causales de gravedad que se contemplen en la Ley de la materia; así como para convocar a elecciones municipales extraordinarias e integrar y designar Concejos Municipales, cuando así proceda conforme a la normatividad correspondiente.
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
@@ -735,9 +751,9 @@ XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingre
 
 XXIV Bis. Para revisar los estados financieros a que se refiere el Artículo 136 Fracción XXIII de esta Constitución, pudiendo ordenar visitas e inspecciones, practicar auditorias, solicitar informes y, en general, recabar los elementos de información necesarios para cumplir con sus funciones.
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-XXV. Para revisar anualmente las cuentas públicas del Estado del año anterior que deberá presentar el Ejecutivo y las de los Municipios que deberán presentar los Ayuntamientos. La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados y analizar el cumplimiento de los objetivos y metas contenidos en los programas, a cuya ejecución se haya asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
+XXV. Para revisar anualmente las cuentas públicas del Estado del año anterior que deberá presentar el Ejecutivo y revisar y fiscalizar las de los Municipios que deberán presentar los Ayuntamientos. La revisión de las Cuentas Públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados en los programas, a cuya ejecución se hayan asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de gastos hechos, se determinarán las responsabilidades de acuerdo con la ley.
 
 XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones.
 
@@ -749,7 +765,7 @@ XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda priva
 
 XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
-XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
+XXX. (DEROGADA, B.O. 29 DE MARZO DE 2001)
 
 > <small>(REFORMADA, B.O. 12 DE AGOSTO DE 1978)</small>
 
@@ -771,15 +787,29 @@ XXXIV. Para expedir reglamentos sobre la instrucción de la Guardia Nacional, co
 
 XXXV. Para velar por la conservación de los derechos de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
 
-XXXVI. Para establecer la nomenclatura política de los poblados del Estado y legislar en todo lo concerniente a su fundo legal, planificación y urbanización, observándose, en su caso, lo que en la misma materia prescriban las leyes federales.
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+XXXV Bis. Para legislar y fomentar la participación ciudadana en el Estado y sus Municipios, regulando las figuras que se estimen convenientes, entre las cuales deberá considerar el referéndum, plebiscito, iniciativa popular y consulta vecinal, como instituciones básicas de participación.
 
-XXXVII. Para determinar, según las condiciones territoriales y socioeconómicas de los Municipios, y según su capacidad administrativa, técnica y financiera, los servicios públicos que éstos tendrán a su cargo directamente o en concurso con el Estado, así como para fijar anualmente sus contraprestaciones.
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+XXXVI. Para autorizar la fundación de centros de población, conforme a la ley en la materia.
 
-XXXVIII. Para fijar las bases conforme a la (sic) cuales los Ayuntamientos expedirán sus disposiciones de observancia general en sus respectivas jurisdicciones, así como para la coordinación y asociación de Municipios en la prestación de los servicios públicos a que se refiere el Artículo 137 de esta Constitución.
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVII. Para aprobar las solicitudes de los Ayuntamientos que tengan como propósito que el Gobierno del Estado asuma una función o servicio municipal, de conformidad a lo establecido en el inciso d) de la fracción X de este artículo.
+
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVIII. Para emitir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) de la fracción X de este artículo.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVIII Bis. Para aprobar los convenios de asociación que los Municipios del Estado celebren con Municipios de otro u otros Estados de la Federación, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones públicas que les correspondan.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVIII Bis A. Para aprobar la propuesta de planos y tablas de valores unitarios de terreno y de construcción formulada por los Ayuntamientos, en el ámbito de su respectiva competencia.
 
 XXXIX. Para dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal; y sobre el ejercicio, explotación y aprovechamiento de la caza.
 
@@ -1061,7 +1091,9 @@ XV Bis. Proponer al Congreso del Estado, con base a los estudios técnicos e his
 
 XVI. Celebrar convenios con el Ejecutivo Federal, en los términos de ley, de los que se deriven la asunción por parte del Estado de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal, cuando el desarrollo económico y social lo hagan necesario.
 
-Asimismo, podrá celebrar convenios con los Ayuntamientos de la entidad, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior, o bien, la asunción de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Estatal cuando el desarrollo económico y social lo hagan necesario.
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
+
+Asimismo, podrá celebrar convenios con los Ayuntamientos de la Entidad, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior, o bien la asunción de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Estatal cuando el desarrollo económico y social lo hagan necesario, así como para que el Estado se haga cargo, temporalmente, en los términos de las leyes aplicables, de algunos de los servicios públicos de competencia municipal.
 
 XVII. Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes.
 
@@ -1069,9 +1101,9 @@ XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus d
 
 XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como disponer de la Policía del Municipio donde resida habitual o transitoriamente. El nombramiento y remoción de los Jefes y Oficiales Superiores de la Policía urbana de los Municipios del Estado, se hará en los términos de la Ley Reglamentaria.
+XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como transmitir a la policía preventiva municipal las órdenes necesarias en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público. El mando de la Policía Preventiva Municipal estará a cargo del Presidente Municipal.
 
 XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
@@ -1419,7 +1451,7 @@ Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agen
 
 Integración y Organización de los Municipios.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 112.
 
@@ -1585,7 +1617,7 @@ Ambito de Competencia de los Municipios.
 
 ###### Artículo 128.
 
-La base de la división territorial, política y administrativa del Estado de Sonora, será el Municipio Libre, que estará administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+La base de la división territorial, política y administrativa del Estado de Sonora, será el Municipio libre, que estará gobernado por un Ayuntamiento de elección popular directa. La competencia que la Constitución Federal y esta Constitución otorgan al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1645,19 +1677,21 @@ Los cargos del Presidente Municipal, Síndico y Regidor serán obligatorios y re
 
 Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo disponga esta Constitución y la Ley.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 134.
 
-Para el auxilio de los Ayuntamientos en el despacho de los asuntos de su competencia, contarán con una administración pública que será directa y paramunicipal, conforme a la Ley Orgánica que expida el Congreso del Estado. Esta Ley definirá las facultades que serán competencia de la administración directa, y definirá las bases generales de creación, operación, vigilancia y supresión del sector paramunicipal.
+Para el auxilio de los Ayuntamientos en el despacho de los asuntos de su competencia, contarán con una administración pública que será directa y paramunicipal, de acuerdo a la Ley Municipal que según el artículo 64 fracción X de esta Constitución deberá expedir el Congreso del Estado, y definirá las bases generales de creación, operación, vigilancia y supresión del sector paramunicipal.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 135.
 
-Las administraciones públicas directas asentadas en las Cabeceras de las Municipalidades estarán integradas como mínimo por una Secretaría y una Tesorería. Las personas designadas para estos cargos deberán llenar los mismos requisitos exigidos para ser miembro del Ayuntamiento.
+Las administraciones públicas directas asentadas en las cabeceras de las municipalidades estarán integradas como mínimo por una Secretaría, una Tesorería y el Jefe de la Policía Preventiva Municipal. Las personas designadas para estos cargos, con excepción del Jefe de la Policía Preventiva Municipal, cuyo nombramiento se rige por la Ley y Reglamento en la materia, deberán llenar los mismos requisitos exigidos para ser miembro del Ayuntamiento, excepto los contenidos en la fracción III del artículo 132 de esta Constitución.
 
-Los Ayuntamientos deberán al inicio de su gestión, nombras (sic) Comisarios y Delegados Municipales. Estos serán representantes directos del Ayuntamiento y ejercerán las atribuciones y deberes señalados en la Ley, dentro de los ámbitos territoriales que determinen los propios ayuntamientos. Para ocupar estos cargos se requiere ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener la vecindad en el lugar en que haya de ser nombrado.
+Los Ayuntamientos deberán tener un sistema administrativo interno de control y evaluación gubernamental, el cual deberá ser regulado por la Legislación correspondiente.
+
+Los Ayuntamientos deberán al inicio de su gestión, nombrar Comisarios y Delegados Municipales. Estos serán representantes directos del Ayuntamiento y ejercerán las atribuciones y deberes señalados en la Ley correspondiente, dentro de sus ámbitos territoriales que determinen los propios Ayuntamientos. Para ocupar estos cargos se requiere ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener la vecindad en el lugar en que haya de ser nombrado.
 
 > <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1675,15 +1709,21 @@ I. En el ámbito de su competencia, promover e inducir el desarrollo económico,
 
 II. En el marco del sistema estatal de planeación, conducir la formulación, instrumentación, control y evaluación del Plan Municipal de Desarrollo, al que estarán sujetas las funciones y actividades del Ayuntamiento y la Administración Pública Municipal e inducir y concertar con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
 
-III. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
 
-IV. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que serán publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
+III. Planear, organizar y coordinar el sistema municipal administrativo interno de control y evaluación gubernamental, en los términos de la Ley Municipal de la materia.
+
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+IV. Aprobar, de acuerdo con las leyes en materia municipal que expida el Congreso, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal y regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal, conforme a las leyes que se expidan en observancia del artículo 64, fracción X de esta Constitución y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 V. Iniciar leyes y decretos ante el Congreso del Estado, en lo concerniente a sus Municipios.
 
 VI. Formular su Reglamento Interior en el que se defina la organización y funcionamiento del propio Ayuntamiento, así como los de la Administración pública Municipal directa, de acuerdo a las bases que establezca la Ley.
 
-VII. En los términos señalados por las Leyes, y previa autorización del Congreso, crear organismos descentralizados, fideicomisos y empresas públicas de participación Municipal, para la atención de los servicios públicos y para el desarrollo económico.
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+VII. En los términos señalados por las leyes en materia municipal, crear organismos descentralizados y autorizar la constitución de empresas de participación municipal mayoritarias y fideicomisos públicos para la prestación de los servicios públicos, la obtención o aplicación de recursos para fines de asistencia social, la realización de actividades prioritarias o el desarrollo económico.
 
 VIII. Ejercer las atribuciones que las disposiciones jurídicas federales y estatales otorgan a los Municipios en materia turística; reforma agraria; fomento agropecuario; desarrollo urbano; coordinación fiscal; servicios educativos y de salud; vivienda; recursos naturales; protección del medio ambiente; sistemas ecológicos; comercio, abasto y distribución de productos.
 
@@ -1693,11 +1733,17 @@ X. Proteger y conservar la cultura de los grupos étnicos asentados en sus terri
 
 XI. Vigilar que los habitantes del Municipio realicen sus actividades con respeto a derechos de terceros, al orden e interés público y en general en pro del bienestar colectivo, de acuerdo a las Leyes y reglamentos.
 
-XII. Prestar los servicios de seguridad pública y tránsito, sin perjuicio de lo establecido por la fracción XX del Artículo 79 de esta Constitución.
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-XIII. Emitir los actos, acuerdos y resoluciones que de conformidad con la Ley y demás disposiciones, sean del ámbito de su competencia.
+XII. Prestar los servicios de seguridad pública, policía preventiva municipal y tránsito, sin perjuicio de lo establecido por la fracción XX del artículo 79 de esta Constitución.
 
-XIV. Aplicar las sanciones de multa o arresto cuya imposición les atribuya los Bandos de Policía y Buen Gobierno y los demás reglamentos Municipales, en los términos de esta Constitución.
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XIII. Emitir los actos, acuerdos y resoluciones que de conformidad con la Ley Municipal de la materia y demás disposiciones, sean del ámbito de su competencia, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XIV. Aplicar las sanciones cuya imposición les atribuyan las leyes, en los términos de esta Constitución.
 
 XV. Resolver, de acuerdo con las atribuciones que les confieran las Leyes, los recursos administrativos interpuestos en contra de los actos, acuerdos y resoluciones dictados por el propio Ayuntamiento y demás autoridades Municipales.
 
@@ -1711,9 +1757,9 @@ XIX. Administrar su patrimonio y prestar los servicios públicos en los término
 
 XX. Vigilar los establecimientos de asistencia y beneficencia pública y privada en la forma que determine la Ley.
 
-> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-XXI. Someter al examen y aprobación del Congreso, durante la segunda quincena del mes de noviembre de cada año, la Ley de Ingresos y el correspondiente Presupuesto de Ingresos (sic) que deberán regir en el año fiscal siguiente. Todo ingreso adicional y excedente que reciba el Ayuntamiento para su ejercicio, deberá ser autorizado previamente por el Congreso del Estado.
+XXI. Someter al examen y aprobación del Congreso, durante la segunda quincena del mes de noviembre de cada año, la Ley de Ingresos y el correspondiente Presupuesto de Ingresos que deberán regir en el año fiscal siguiente. En su caso, el ejercicio de todo ingreso adicional o excedente que reciba el Ayuntamiento, deberá ser informado al Congreso del Estado.
 
 XXII. Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, sus Presupuestos de Egresos y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -1725,13 +1771,19 @@ XXV. Glosar las cuentas del Ayuntamiento saliente, en un término de noventa dí
 
 XXVI. Formular los Estados Financieros correspondientes al último año de su gestión que comprenderán la balanza de comprobación, el balance general, y el estado de resultados que contenga el Ejercicio presupuestario de Ingresos y Egresos y entregarlos, al concluir sus funciones, al Ayuntamiento entrante y al Congreso.
 
-> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
-XXVII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guardan los asuntos municipales, el 16 de septiembre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
+XXVII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales, el 16 de septiembre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador. El último año de su ejercicio constitucional, el informe se rendirá el 15 de septiembre.
 
 XXVIII. Proporcionar a los Poderes del Estado los informes y documentos que les soliciten.
 
-XXIX. Organizar y estructurar la administración de la Comisaría y Delegaciones.
+> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXIX. Crear o suprimir Comisarías y Delegaciones dentro de su territorio, así como organizar y estructurar su administración, de acuerdo a lo establecido en la Ley correspondiente.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXIX Bis. Proponer la fundación y la nomenclatura de los centros de población.
 
 XXX. Conceder licencias al Presidente Municipal y Concejales, en los términos de la Ley Orgánica respectiva.
 
@@ -1747,41 +1799,85 @@ XXXIII. Coadyuvar con el Poder Judicial en el auxilio que demande para hacer efe
 
 XXXIV. Dar cuenta al Supremo Tribunal de Justicia de las irregularidades que observen en la administración de justicia local.
 
-XXXV. Las demás que las Leyes Federales o del Estado les otorguen o impongan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+XXXV. Formular, aprobar y administrar la zonificación y programas de desarrollo urbano municipal.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVI. Participar en la creación y administración de sus reservas territoriales.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVII. Participar en la formulación, instrumentación, control y evaluación de los Programas de Desarrollo Regional, derivados del Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXVIII. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XXXIX. Intervenir en la regularización de la tenencia de la tierra urbana.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XL. Otorgar licencias y permisos para construcciones.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XLI. Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XLII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XLIII. Celebrar convenios para la administración y custodia de las zonas federales.
+
+> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+
+XLIV. Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad con lo establecido en el párrafo tercero del artículo 27 de la Constitución General de la República.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 29 DE MARZO DE 2001)</small>
+
+XLV. Las demás que las Leyes Federales o del Estado les otorguen.
+
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 137.
 
-En los términos fijados en las leyes respectivas, corresponde a los Municipios la eficaz prestación, en sus respectivas jurisdicciones, de los siguientes servicios públicos:
+Los Municipios, dentro de sus respectivas jurisdicciones, tendrán a su cargo las funciones y servicios públicos siguientes:
 
-a). Agua Potable y Alcantarillado.
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-b). Alumbrado Público.
+b) Alumbrado público.
 
-c). Limpia.
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
-d). Mercados.
+d) Mercados y centrales de abasto.
 
-e). Panteones.
+e) Panteones.
 
-f). Rastros.
+f) Rastros.
 
-g). Calles, parques y jardines.
+g) Calles, parques y jardines y su equipamiento.
 
-h). Seguridad pública y tránsito.
+h) Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito.
 
-i). Los demás que les señale el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa, técnica y financiera.
+i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de cada Municipio, así como su capacidad administrativa, técnica y financiera.
 
-En el caso de que alguno o algunos de estos servicios no se presten eficazmente, el Congreso del Estado intervendrá para resolver lo conducente, a excepción del servicio público de las fuerzas de Seguridad Pública y Tránsito, cuyo manejo y mando se ajustará a las disposiciones que sobre esta materia especifican esta Constitución y las Leyes Reglamentarias.
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las Leyes Federales y Estatales.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 138.
 
-Los Servicios Públicos Municipales podrán prestarse con el concurso del Estado, cuando así fuere necesario y lo determinen las Leyes, así como en coordinación y asociación con otros Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley. También podrán ser prestados mediante concertaciones con particulares o a través del otorgamiento de concesiones.
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de Municipios del Estado con Municipios de otro u otros Estados, deberán contar con la aprobación del Congreso del Estado. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
-En los casos en que los servicios públicos de competencia municipal se encuentren a cargo de particulares, podrán municipalizarse por razones de orden e interés público y en los términos que establezca la Ley.
+Los servicios públicos municipales también podrán ser prestados mediante concertaciones con particulares o a través del otorgamiento de concesiones, en los términos de las leyes aplicables.
+
+En los casos en que los servicios públicos de competencia municipal se encuentren a cargo de particulares, podrán revocarse para que los Municipios los presten de manera directa, por razones de orden e interés público y en los términos que establezca la Ley.
 
 > <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1789,7 +1885,7 @@ En los casos en que los servicios públicos de competencia municipal se encuentr
 
 Declaración de Desaparición de Ayuntamientos y Suspensión o Revocación del Mandato de sus Miembros.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 139.
 
@@ -1801,13 +1897,21 @@ Los Municipios podrán celebrar convenios con el Estado para que este se haga ca
 
 B) Los ingresos derivados de la prestación de los servicios públicos a su cargo.
 
-No se establecerán exenciones ni se concederán subsidios respecto de las contribuciones señaladas en los incisos anteriores, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes de Dominio Público de la Federación, del Estado o de los Municipios, estarán exentos de dichas contribuciones.
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
+
+No se establecerán exenciones ni se concederán subsidios respecto de las contribuciones señaladas en los incisos anteriores, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes de dominio público de la Federación, del Estado o de los Municipios, estarán exentos de dichas contribuciones, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 C) Las participaciones federales que serán cubiertas por la Federación, a través del Estado, a los Municipios, con arreglo a las bases montos y plazos que anualmente se determinen por la legislatura Local.
 
 D) Subsidios, legados y donaciones que se establezcan a su favor.
 
-Los recursos Municipales se manejarán con honradez y eficacia, según las bases establecidas en el Artículo 150 de esta Constitución y en las Leyes.
+> <small>(ADICIONADO, B.O. 29 DE MARZO DE 2001)</small>
+
+Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
+
+Los recursos que integran la Hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley, bajo los principios de honradez y eficacia, según las bases establecidas en el artículo 150 de esta Constitución y en las leyes.
 
 > <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1817,19 +1921,19 @@ Los recursos Municipales se manejarán con honradez y eficacia, según las bases
 
 ###### Artículo 140.
 
-La Ley Orgánica establecerá las bases y señalará las causas para que el Congreso del Estado, por el voto de las dos terceras partes de sus miembros, pueda suspender Ayuntamientos, declarar que éstos han desaparecido, así como suspender o revocar al mandato de alguno de sus miembros en lo individual. En el procedimiento que se substancie, los miembros del Ayuntamiento involucrados tendrán oportunidad suficiente para aportar pruebas y formular los alegatos que consideren convenientes. El Gobernador del Estado tendrá la participación que le asigne la Ley.
+La Ley Municipal de la materia establecerá las bases y señalará las causas para que el Congreso del Estado, por el voto de las dos terceras partes de sus miembros, pueda suspender Ayuntamientos, declarar que éstos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros en lo individual, por alguna causa grave prevista por la Ley. En el procedimiento que se substancie, los miembros del Ayuntamiento involucrados tendrán oportunidad suficiente para rendir pruebas y formular los alegatos que consideren convenientes. El Gobernador del Estado tendrá la participación que le asigne la Ley.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 141.
 
-Cuando se suspenda o declare desaparecido un Ayuntamiento y no procediere que entraren en funciones los suplentes, en los casos señalados por la Ley, se podrán nombrar Concejos Municipales y, en su caso, convocar a elecciones extraordinarias.
+Cuando se suspenda o declare desaparecido un Ayuntamiento por renuncia o falta absoluta de sus miembros, si conforme a la Ley Municipal de la materia no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará de entre los vecinos a los Concejos Municipales que concluirán los períodos respectivos.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
 ###### Artículo 142.
 
-De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos.
+De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos. Sus integrantes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -1935,9 +2039,11 @@ Artículo 148 B. Los servidores públicos a que se refiere este Título, serán 
 
 Prevenciones Generales.
 
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
+
 ###### Artículo 149.
 
-Por ningún motivo podrán subastarse las contribuciones del Estado o del Municipio.
+Por ningún motivo podrán embargarse o subastarse las contribuciones del Estado o del Municipio.
 
 > <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -2634,6 +2740,40 @@ B.O. 16 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE MARZO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice del voto total que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar en los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Diputación Permanente del Congreso del Estado a efecto de que realice el cómputo respectivo y en caso de resultar aprobada la presente Ley por cuando menos, la mitad más uno de los Ayuntamientos de la Entidad, se remita al titular del Poder Ejecutivo Estatal, para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose de funciones y servicios que conforme a la presente Ley sean competencia de los Municipios y que a la entrada en vigor de la Ley a que se refiere el artículo anterior, sean prestados por el Gobierno del Estado, o de manera coordinada con los Municipios, éstos podrán asumirlos, previo acuerdo de las dos terceras partes de los integrantes del Ayuntamiento respectivo.
+
+El Gobernador del Estado dispondrá lo necesario para que la función o servicio público de que se trate, se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del inciso a) del artículo 137 dentro del plazo señalado en el párrafo anterior, el Gobernador del Estado podrá solicitar al Congreso, conservar bajo su cargo los servicios a que se refiere el citado inciso, cuando la transferencia de Estado a Municipio afecte, en perjuicio de la población, su prestación.
+
+En tanto se realiza la transferencia de funciones y servicios públicos, éstos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+###### ARTICULO TERCERO.
+
+Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado en coordinación con los Municipios respectivos, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+###### ARTICULO CUARTO.
+
+Los convenios celebrados entre el Estado y los Municipios con anterioridad a la presente Ley, se ajustarán a lo establecido en la misma.
+
+###### ARTICULO QUINTO.
+
+En la realización de las acciones conducentes al cumplimiento de la presente Ley, se respetarán en todo momento los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+###### ARTICULO SEXTO.
+
+En un plazo no mayor a un año, contado a partir de que entre en vigor la presente Ley, el Congreso del Estado deberá emitir el ordenamiento legal correspondiente que regula la participación ciudadana en el Estado de Sonora.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
