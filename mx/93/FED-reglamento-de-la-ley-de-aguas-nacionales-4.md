@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aguas-nacionales-4"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-12"
-last_updated: "1994-01-12"
+last_updated: "1997-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-11"
 
 REGLAMENTO DE LA LEY DE AGUAS NACIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 12 de enero de 1994.
 
@@ -239,7 +239,7 @@ IX. Celebrar los actos jurídicos y contratos que se requieran para el ejercicio
 
 X. Observar lo dispuesto en las normas de racionalidad, austeridad y disciplina presupuestal y otorgar las autorizaciones expresas que conforme a las mismas corresponde al titular de "La Comisión";
 
-XI. Presidir el comité consultivo nacional de normalización del sector agua, así como el comité de evaluación para la acreditación y certificación del mismo sector, en los términos de la Ley Federal sobre Metrología y Normalización, y expedir las normas oficiales mexicanas aprobadas que sean competencia de "La Comisión" y cuya expedición por ley no corresponda a otra dependencia;
+XI. Presidir el comité consultivo nacional de normalización del sector agua, así como el comité de evaluación para la acreditación y certificación del mismo sector, en los términos de la Ley Federal sobre Metrología y Normalización, y expedir las normas oficiales mexicanas aprobadas que sean competencia de "La Comisión" y cuya expedición por ley no corresponda a otra dependencia.
 
 XII. Presidir el Instituto Mexicano de Tecnología del Agua;
 
@@ -251,25 +251,27 @@ XV. Las demás que le confiera la "Ley", otras disposiciones legales o reglament
 
 ### Capítulo III. Consejos de Cuenca
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 15.
 
-Los Consejos de Cuenca cuya instalación acuerde el Consejo Técnico de "La Comisión", tendrán la delimitación territorial que comprenda el área geográfica de la propia cuenca o cuencas hidrológicas que los integren. Los Consejos de Cuenca se integrarán conforme a lo siguiente:
+Los Consejos de Cuenca cuyo establecimiento acuerde el Consejo Técnico de "La Comisión", tendrán la delimitación territorial que comprenda el área geográfica de la cuenca o cuencas hidrológicas en que se constituyan. Los Consejos de Cuenca se integrarán conforme a lo siguiente:
 
-I. El Consejo de Cuenca estará presidido por el titular de la Secretaría de Agricultura y Recursos Hidráulicos, quien tendrá voto de calidad en caso de empate;
+I. Formarán parte de los Consejos de Cuenca:
 
-II. El Director General de "La Comisión", directamente o a través del servidor público que designe para tal efecto, asumirá las funciones de secretariado técnico del Consejo de Cuenca y suplirá las ausencias del Presidente;
+a) El Director General de "La Comisión", quien lo presidirá y tendrá voto de calidad en caso de empate;
 
-III. Los titulares de las Secretarías de Hacienda y Crédito Público, de Desarrollo Social, de Energía, Minas e Industria Paraestatal, de Salud y de Pesca designarán sendos representantes;
+b) Un secretario técnico, nombrado por el Director General de “La Comisión”, quien sólo contará con voz, y
 
-IV. "La Comisión" invitará a los titulares de los Poderes Ejecutivos de las entidades federativas comprendidas dentro del ámbito del Consejo de Cuenca de que se trate;
+c) Un representante de los usuarios de la cuenca por cada tipo de uso que se haga del recurso, quienes fungirán como vocales. En todo caso, el número de representantes de los usuarios deberá ser, cuando menos, paritario con el resto de los integrantes del Consejo de Cuenca.
 
-V. Existirán hasta seis vocales representantes de los usuarios, que correspondan por lo menos a uno por cada uso, dentro del ámbito territorial del Consejo de Cuenca respectivo, los cuales serán designados por elección a través de las organizaciones de usuarios que representen y que deberán estar debidamente acreditadas por "La Comisión", en los términos del artículo 21 de este "Reglamento", y
+Los vocales durarán en su cargo el tiempo que el propio Consejo disponga en sus reglas de organización y funcionamiento. Para su elección, “La Comisión” promoverá la integración de la asamblea de usuarios de la Cuenca de que se trate, que se constituirá con la participación de las organizaciones que los representen, las que deberán estar debidamente acreditadas ante el propio Consejo de Cuenca;
 
-VI. Los miembros del Consejo de Cuenca a que se refieren las fracciones III a V de este artículo nombrarán un suplente, quien participará con voz y voto en los casos de ausencia del titular respectivo.
+II. “La Comisión” invitará con voz y voto a los titulares de los Poderes Ejecutivos de las entidades federativas comprendidas dentro del ámbito del Consejo de Cuenca de que se trate, y
 
-Para los efectos de la fracción V, del presente artículo, "La Comisión" promoverá la integración de la asamblea de usuarios de la Cuenca, dentro de la cual se otorgue plena participación a sus organizaciones acreditadas. Los vocales representantes de los usuarios a que se refiere la misma fracción V, de este artículo, así como sus suplentes, se elegirán cada dos años por las mencionadas asambleas de usuarios, y en cada uso deberán rotarse de tal manera que permita la participación de los usuarios de todas las entidades federativas comprendidas en el ámbito territorial del Consejo de Cuenca.
+III. Los Consejos de Cuenca podrán invitar a sus sesiones a las dependencias y entidades del Gobierno Federal o de los gobiernos estatales y de los ayuntamientos, así como a las instituciones, organizaciones y representantes de las diversas agrupaciones de la sociedad interesadas, cuya participación se considere conveniente para el mejor funcionamiento del mismo, las cuales contarán sólo con voz.
 
-El Consejo de Cuenca podrá invitar a sus sesiones a las dependencias y entidades del Gobierno Federal o de los gobiernos estatales y de los ayuntamientos, así como a las instituciones, organizaciones y representantes de las diversas agrupaciones de la sociedad interesadas, cuya participación se considere conveniente para el mejor funcionamiento del mismo.
+Los miembros de los Consejos de Cuenca a que se refieren el inciso a) de la fracción I y la fracción II podrán nombrar representantes para casos de ausencia.
 
 ###### ARTICULO 16.
 
@@ -277,7 +279,9 @@ Los Consejos de Cuenca se organizarán y funcionarán conforme a las reglas que 
 
 I. Conocer y difundir los lineamientos generales de política hidráulica nacional y regional, y proponer aquéllos que reflejen la realidad del desarrollo hidráulico a corto, mediano y largo plazos, en el ámbito territorial del Consejo de Cuenca;
 
-II. Organizar los foros conducentes para garantizar la mayor participación de las autoridades estatales y municipales, así como de los usuarios y grupos interesados de la sociedad, en la formulación, sanción, seguimiento, actualización y evaluación de la programación hidráulica en la cuenca o cuencas comprendidas dentro del ámbito territorial correspondiente, en los términos de ley;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 1997)</small>
+
+II. Promover la participación de las autoridades estatales y municipales, así como de los usuarios y grupos interesados de la sociedad, en la formulación, aprobación, seguimiento, actualización y evaluación de la programación hidráulica de la cuenca o cuencas de que se trate en los términos de ley;
 
 III. Promover la integración de comisiones de trabajo de diversa índole, que permitan analizar y en su caso, plantear soluciones y recomendaciones para la atención de asuntos específicos relacionados con la administración de las aguas, el desarrollo de la infraestructura hidráulica y de los servicios respectivos, el fomento del uso racional del agua y la preservación de su calidad;
 
@@ -553,11 +557,29 @@ V. Las demás que, a juicio de "La Comisión" se deban incluir.
 
 Cuando se hubiera revocado una concesión por causas imputables al concesionario en los términos del artículo 27, fracción II, de la "Ley", "La Comisión" no tramitará al mismo concesionario otra en sustitución, si no ha transcurrido, por lo menos, un año a partir de que haya quedado firme la resolución de revocación.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 47.
 
-Para efectos de la fracción III, del artículo 27 de la "Ley", cuando durante tres años consecutivos se utilice solamente una parte del volumen de agua, caducará la concesión o asignación sobre el que no hubiere sido aprovechado. Antes de los tres años los titulares podrán disponer o transmitir en los términos de la "Ley" y el presente "Reglamento" los excedentes de agua que tengan.
+Para efectos de la fracción III del artículo 27 de la "Ley", cuando durante tres años consecutivos se utilice solamente una parte del volumen de agua, caducará la concesión o asignación respecto al volumen que no hubiere sido aprovechado.
 
-La causal de caducidad se interrumpirá durante el tiempo en que "La Comisión" suspenda la concesión o asignación para la explotación, uso o aprovechamiento de aguas nacionales, de acuerdo con lo dispuesto en el artículo 26 de la "Ley", o durante la suspensión del aprovechamiento, cuando ésta sea consecuencia de una resolución o sentencia de autoridad judicial.
+Antes del vencimiento del plazo de tres años, los titulares podrán disponer o transmitir en los términos de la “Ley” y del presente “Reglamento”, en forma temporal o definitiva, parcial o total, los volúmenes de agua no utilizados que resulten.
+
+La caducidad no operará en los supuestos siguientes:
+
+I. Por mandamiento judicial o por resolución administrativa, siempre y cuando no hayan sido emitidos por causa imputable al propio usuario en los términos de la “Ley” y del presente “Reglamento”, que impidan al concesionario o asignatario disponer temporalmente de los volúmenes de agua concesionados o asignados;
+
+II. Por caso fortuito o fuerza mayor que impida al concesionario o asignatario el uso total o parcial del volumen de agua concesionado o asignado;
+
+III. Cuando el concesionario o asignatario haya realizado obras de infraestructura tendientes a usar de manera más eficiente el agua, que le permitan utilizar en sus procesos sólo una parte del volumen de agua concesionado o asignado;
+
+IV. Cuando el concesionario o asignatario cuente con una capacidad instalada suficiente para disponer de la totalidad del volumen autorizado y no lo esté aprovechando porque lo reserve para sus programas de crecimiento o expansión, y
+
+V. Cuando el concesionario o asignatario requiera más de tres años para contar con la infraestructura e instalaciones para llevar a cabo el aprovechamiento de los volúmenes de agua, siempre y cuando esté programada su utilización.
+
+El concesionario o asignatario que tenga reservados volúmenes de agua para efecto de su aprovechamiento a futuro, deberá presentar a “La Comisión” el programa de crecimiento o expansión que tenga planeado.
+
+El concesionario o asignatario que se encuentre en alguno de los supuestos previstos en este artículo, deberá dar aviso a “La Comisión” dentro de los treinta días hábiles siguientes a que se surta el supuesto respectivo, a fin de que ésta proceda a comprobar la existencia del supuesto y emita la constancia respectiva. En caso de que “La Comisión” no emita respuesta dentro de los sesenta días hábiles siguientes a la fecha en que se presentó el aviso, se tendrán por acreditados los supuestos.
 
 ###### ARTICULO 48.
 
@@ -749,13 +771,23 @@ Cumplidos los requisitos anteriores, "La Comisión" autorizará, en su caso, la 
 
 De no resolver "La Comisión" en dicho plazo, se entenderá autorizada la transmisión.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 72.
 
-Para efectos del segundo párrafo del artículo 35 de la "Ley", la transmisión de los derechos para explotar, usar o aprovechar aguas del subsuelo en zonas de veda o reglamentadas, sólo podrá efectuarse en forma separada del derecho de propiedad de la tierra, cuando así lo señale el decreto o reglamento de dichas zonas que al efecto expida el Ejecutivo Federal.
+Para efectos del segundo párrafo del artículo 35 de la "Ley", la transmisión temporal o definitiva, total o parcial de los derechos para explotar, usar o aprovechar aguas del subsuelo en zonas de veda o reglamentadas, se podrá efectuar en forma separada del derecho de propiedad de la tierra en las zonas en que “La Comisión” determine y publique en el Diario Oficial de la Federación.
 
-Si el derecho se pretende transmitir, se podrá proceder a la enajenación correspondiente observando lo señalado en la fracción II, del artículo 33 de la "Ley". Dentro de los diez días hábiles siguientes a la autorización de la transmisión se deberá clausurar el pozo respectivo. En el escrito de transmisión de derechos, el otorgante y el adquirente deberán asumir la responsabilidad solidaria por los daños o perjuicios que se pudieran ocasionar a terceros.
+Tratándose de transmisión total y definitiva de derechos, una vez autorizada por “La Comisión”, se clausurará la obra de alumbramiento respectiva dentro de los diez días hábiles siguientes a la autorización.
 
-Los derechos así transmitidos, previa autorización de "La Comisión", podrán utilizarse para amparar un nuevo aprovechamiento, siempre y cuando no se afecten los derechos de terceros. Cuando "La Comisión" otorgue la autorización, ella misma efectuará la inscripción correspondiente en el "Registro".
+Tratándose de transmisión total de manera temporal, o parcial de derechos, “La Comisión” dispondrá las medidas necesarias para que los volúmenes que se extraigan del pozo original, así como del nuevo aprovechamiento, sean acordes con la transmisión realizada.
+
+Efectuada la transmisión de derechos a que se refiere este precepto, el adquirente podrá optar entre iniciar de inmediato la construcción de la obra de alumbramiento o, en su defecto, previo acreditamiento ante “La Comisión”, de conformidad con los lineamientos de carácter general que al efecto se emitan, reservar los volúmenes adquiridos para su uso a futuro, indicando, dentro de un plazo de 60 días hábiles, el sitio del aprovechamiento y la fecha de inicio de la explotación.
+
+Cuando el adquirente del derecho desee hacer uso de los volúmenes que se hubiere reservado, deberán notificar a “La Comisión” sobre la ubicación del aprovechamiento a fin de que ésta verifique, dentro de un plazo de 60 días hábiles, que no se afectan derechos a terceros.
+
+Una vez efectuada la transmisión de derechos, “La Comisión” expedirá, a favor del adquirente, el título de concesión o asignación que proceda o, en su caso, las modificaciones o ajustes a los títulos originales.
+
+En todos los casos de transmisión de derechos, el otorgante y el adquirente serán responsables solidarios por los daños y prejuicios que se pudieran ocasionar a terceros.
 
 ## TITULO QUINTO. ZONAS REGLAMENTADAS, DE VEDA O DE RESERVA
 
@@ -1414,6 +1446,14 @@ VI. Croquis de localización de la descarga o descargas, así como en su caso de
 VII. Descripción, en su caso, de los sistemas y procesos para el tratamiento de aguas residuales para satisfacer las condiciones particulares de descarga que establezca "La Comisión", conforme a lo dispuesto en la "Ley" y el "Reglamento".
 
 La solicitud deberá acompañarse de la memoria técnica que fundamente la información a que se refiere el presente artículo y, en especial, a la forma en que el solicitante cumplirá con las normas, condiciones y especificaciones técnicas establecidas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1997)</small>
+
+Quedan exceptuados de cumplir con el requisito de la caracterización físico-química y bacteriológica mencionada en la fracción IV y de la memoria técnica que se menciona en el párrafo anterior, los usuarios siguientes:
+
+a) Las poblaciones con menos de 2,500 habitantes, y
+
+b) Las empresas que en su proceso o actividad productiva no utilicen como materia prima substancias que generen en sus descargas de aguas residuales metales pesados, cianuros u organotóxicos y su volumen de descarga no exceda de 300 metros cúbicos al día.
 
 ###### ARTICULO 139.
 
@@ -2176,3 +2216,11 @@ Los resultados de los estudios de disponibilidad media anual de las aguas nacion
 DECIMOCUARTO.- Los recursos de revisión y oposición que se encuentren pendientes de resolución, al entrar en vigor el presente "Reglamento", se tramitarán y resolverán con apego a las disposiciones vigentes en la fecha en que se interpusieron y en lo que favorezca a los recurrentes, se aplicarán las de este "Reglamento".
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de enero de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Marina, Luis Carlos Ruano Angulo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe Armella.- Rúbrica.- El Secretario de Desarrollo Social, Carlos Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Emilio Lozoya Thalmann.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Carlos Hank González.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Gamboa Patrón.- Rúbrica.- El Secretario de Salud, Jesús Kumate Rodríguez.- Rúbrica.- El Secretario de la Reforma Agraria, Víctor Cervera Pacheco.- Rúbrica.- El Secretario de Pesca, Guillermo Jiménez Morales.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Manuel Aguilera Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos del artículo 72 del Reglamento, "La Comisión" efectuará los estudios técnicos para determinar la factibilidad de las transmisiones de derechos en zonas de veda establecidas por los Decretos o Reglamentos existentes, en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, a fin de poder expedir los acuerdos respectivos.
