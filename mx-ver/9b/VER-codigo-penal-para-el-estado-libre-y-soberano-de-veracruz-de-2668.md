@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1994-09-01"
+last_updated: "1994-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 1994.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -2551,7 +2551,7 @@ V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha apr
 
 ### CAPITULO I. DE LOS DELITOS ELECTORALES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ## TITULO XVI. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
@@ -2593,67 +2593,159 @@ Estos delitos se perseguirán a querella del particular afectado o de la autorid
 
 ###### ARTICULO 288.
 
-Se impondrá de seis meses a dos años de prisión o multa hasta de cien veces el salario mínimo o ambas sanciones, al que:
+Se impondrán de seis meses a tres años de prisión y multa de diez a cien días de salario mínimo vigente en la zona en que se cometa el delito, al que:
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
 
 I.-Vote a sabiendas de que no cumple con los requisitos de la Ley;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
 II.-Vote más de una vez en una misma elección; u
 
-III.-Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+III.-Obstaculice o interfiera la realización de las votaciones o del escrutinio;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+IV.-Haga proselitismo o presione a los electores, el día de la jornada electoral, en el interior de la casilla o en el lugar en que se encuentren formados los votantes;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+V.-Recoja sin causa prevista por la Ley, credenciales de elector de los ciudadanos;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+VI.-Solicite votos por paga, dávida o promesa de dinero u otra recompensa;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+VII.-Viole de cualquier manera el secreto del voto;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+VIII.-Vote o pretenda votar con una credencial de la que no sea titular,
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+IX.-El día de la elección, organice la reunión y traslado de votantes, con el objeto de influir en el sentido de su voto;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+X.-Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, destruya o altere boletas o documentos electorales;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+XI.-Modifique o destruya las publicaciones sobre los resultados de la votación, fijadas en el exterior de las casillas o de los locales que ocupen las Comisiones Electorales Distritales y Municipales;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+XII.-Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+XIII.-Impida en forma violenta la instalación de una casilla.
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+ARTICULO 288 BIS.-Se impondrá multa de hasta quinientos días de salario mínimo vigente en la zona en que se cometa la falta, a los ministros de culto religioso que por cualquier medio, en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 289.
 
-Se impondrán de tres meses a cinco años de prisión o multa hasta de cien veces el salario mínimo, o ambas sanciones, al funcionario electoral que:
+Se impondrá prisión de dos a seis años y multa de cincuenta a doscientos días de salario mínimo vigente en la zona en que se cometa el delito, al funcionario electoral que:
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
 
 I.-Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
 II.-Se abstenga de cumplir sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
 
-III.-Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
-IV.-Altere los resultados electorales sustraiga o destruya boletas electorales;
+III.-Obstruya la realización de la votación o del escrutinio, sin mediar causa justificada;
+
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+IV.-Altere los resultados electorales, sustraiga o destruya boletas electorales o documentos electorales;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
 
 V.-No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
 VI.-En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-VII.-Instale abra o cierre dolosamente una casilla, fuera de los tiempos y formas previstos por la Ley de la materia; o
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
-VIII.-Expulse de la casilla electoral, sin causa justificada, a representante de un partido político.
+VII.-Instale, abra o cierre dolosamente una casilla, fuera de los tiempos y formas previstos por la Ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+VIII.-Expulse de la casilla electoral sin causa justificada al representante de un o partido político o coarte los derechos que la Ley le concede;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+IX.-Conociendo la existencia de condiciones o actividades que atenten contra la libertad o secreto del voto, no tome las medidas conducentes para que cesen;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+X.-Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; y
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+XI.-Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 290.
 
-Se impondrán de tres meses a cinco años de prisióón (sic) o multa hasta de cien veces el salario mínimo, o ambas sanciones, al funcionario partidista que:
+Se impondrá prisión de uno a seis años y multa de cien a doscientos días de salario mínimo vigente en la zona donde se cometa el delito, al funcionario partidista que:
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
 
 I.-Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-II.-Realice propaganda electoral mientras cumple sus funcionarios (sic) durante la jornada electoral;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+II.-Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
 
 III.-sustraiga, destruya, altere o haga uso indebido de documentos oficiales de índole electoral;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
 IV.-Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
 
 V.-Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
 VI.-Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley en la materia.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 291.
 
-Se impondrán de tres meses a seis años de prisión o multa hasta de doscientas veces el salario mínimo o ambas sanciones, al servidor público que:
+Se impondrá prisión de dos a nueve años y multa de doscientos a cuatrocientos días de salario mínimo vigente en la zona en que se cometa el delito, al servidor publico que:
 
-I.-Abusando de sus funciones obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato;
+I.-Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
 
-II.-Condicione la prestación de un servicio público a la emisión del sufragio a favor de un partido político o candidato; o
+II.-Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de un partido político o candidato; o
 
-> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
+III.-Destine fondos, bienes o servicios que tenga a su disposición, en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo, correspondiente a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad condicional.
 
-III.-Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado; o bien proporcione ese apoyo a través de sus subordinados, dentro del tiempo correspondiente a sus labores. En la comisión de este delito, no tendrá derecho el inculpado a obtener el beneficio de la libertad caucional.
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
+
+ARTICULO 291 BIS.-Se impondrá prisión de dos a nueve años, al funcionario partidista o al organizador de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios, en los términos de la fracción III del artículo 291 de este Código.
 
 > <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -2673,11 +2765,11 @@ II.-Funcionarios partidistas, los dirigentes de los partidos políticos, sus can
 
 III.-Documentos públicos electorales las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla las de los cómputos distritales o municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los organismos electorales.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 294.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Título se podrán imponer además de la pena señalada la suspensión de derechos políticos hasta por cinco años.
+Por la comisión de cualquiera de los delitos comprendidos en el presente Título, se podrán imponer además de la pena señalada, la inhabilitación de uno a cinco años y en su caso, la destitución del cargo.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2774,3 +2866,9 @@ G.O. 1 DE SEPTIEMBRE DE 1994.
 PRIMERO.-El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz - Llave.
 
 SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente.
+
+G.O. 8 DE NOVIEMBRE DE 1994.
+
+PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.-Se derogan las disposiciones que se opongan al presente.
