@@ -4,7 +4,7 @@ identifier: "CHH-codigo-para-la-proteccion-y-defensa-del-menor-21825"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-02-02"
-last_updated: "2004-05-15"
+last_updated: "2004-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 2 de febrero de 1994.
 
@@ -459,7 +459,9 @@ I.- SER MAYOR DE VEINTICINCO AÑOS;
 
 II.- TENER TITULO DE LICENCIADO EN DERECHO, DEBIDAMENTE REGISTRADO;
 
-III.- NO HABER SIDO CONDENADO POR DELITOS DOLOSOS O PRETERINTENCIONALES; Y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+III.- NO HABER SIDO CONDENADO POR DELITOS DOLOSOS; Y,
 
 IV.- SER DE RECONOCIDAS BUENAS COSTUMBRES.
 
@@ -469,7 +471,9 @@ PARA SER VOCAL SE REQUIERE:
 
 I.- TENER TITULO DEBIDAMENTE REGISTRADO EN LA ESPECIALIDAD QUE CORRESPONDA;
 
-II.- NO HABER SIDO CONDENADO POR DELITOS DOLOSOS O PRETERINTENCIONALES; Y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+II.- NO HABER SIDO CONDENADO POR DELITOS DOLOSOS; Y,
 
 III.- SER DE RECONOCIDAS BUENAS COSTUMBRES.
 
@@ -958,3 +962,7 @@ P.O. 15 DE MAYO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
