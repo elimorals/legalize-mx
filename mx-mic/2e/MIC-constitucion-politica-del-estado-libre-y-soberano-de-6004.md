@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1971-11-25"
+last_updated: "1977-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -217,11 +217,19 @@ Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominar�
 
 #### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1977)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado se compondrá de representantes del pueblo, electos directamente, en su totalidad, cada tres años, en los términos de la Ley Electoral.
+El Congreso del Estado se compondrá de representantes del pueblo electos directamente cada tres años y se complementará, además, con diputados del partido, apegándose, en ambos casos, a lo que disponga la Ley Electoral, y, en el segundo, además, a las reglas siguientes:
+
+1. Todo partido político nacional que hubiere obtenido su registro conforme a la Ley Federal Electoral y la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección, al obtener el nueve por ciento de la votación total en el Estado, en la elección de diputados respectiva, tendrá derecho a que se le acredite de sus candidatos a un diputado y hasta tres como máximo, si su porcentaje asciende al quince y al veinte por ciento más de los votos obtenidos, respectivamente.
+
+2. El partido político que obtenga un diputado de mayoría o más, no tendrá derecho a que se le acredite ninguno de partido;
+
+3. Los diputados de partido serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación con los demás candidatos del mismo partido en todo el Estado; y
+
+4. Los diputados de mayoría y los de partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -245,7 +253,9 @@ Para ser Diputado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos, y
 
-II.- Tener veinticinco años cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -595,7 +605,9 @@ Para ser Gobernador se requiere:
 
 I.- Ser ciudadano michoacano en pleno goce de sus derechos;
 
-II.- Haber cumplido treinta y cinco años el día de la elección, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+
+II.- Haber cumplido treinta años el día de la elección;
 
 III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección.
 
@@ -1822,3 +1834,7 @@ P.O. 25 DE NOVIEMBRE DE 1971.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor, a los quince días de su publicación en el Periódico Oficial de la Entidad.
+
+P.O. 10 DE MARZO DE 1977.
+
+UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
