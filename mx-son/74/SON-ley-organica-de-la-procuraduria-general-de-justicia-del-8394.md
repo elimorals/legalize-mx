@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-procuraduria-general-de-justicia-del-8394"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-30"
-last_updated: "1991-12-30"
+last_updated: "2004-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Octava del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1991.
 
@@ -153,13 +153,19 @@ I.- La Policía Judicial; y
 
 II.- Los Servicios Periciales.
 
-Asimismo, son auxiliares del Ministerio Público, las Policías Preventivas de los Municipios del Estado, debiendo éstas obedecer y ejecutar las órdenes que reciban del Ministerio Público, en el ejercicio de sus funciones.
+> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
-Cuando la Policía Preventiva tenga conocimiento de que se ha cometido algún delito, deberá proceder inmediatamente a comunicarlo al Ministerio Público, para que los representantes de esta Institución tomen desde luego la intervención que les corresponda, de acuerdo con sus facultades. La Policía Preventiva se abstendrá de llevar a cabo acciones de investigación y persecución de los delitos, salvo en aquéllos casos en que reciba órdenes expresas del Ministerio Público o en los casos de flagrante delito.
+Asimismo, son auxiliares del Ministerio Público, la Policía Estatal de Seguridad Pública y las Policías Preventivas de los municipios del Estado, debiendo éstas obedecer y ejecutar las órdenes que reciban del Ministerio Público, en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+Cuando la Policía Estatal de Seguridad Pública o las policías preventivas tengan conocimiento de que se ha cometido algún delito, deberán proceder inmediatamente a comunicarlo al Ministerio Público, para que los representantes de esta Institución tomen desde luego la intervención que les corresponda, de acuerdo con sus facultades. Salvo la hipótesis de delito flagrante, en la que deberán proceder como lo prevengan las leyes, estas instituciones policiales se abstendrán de llevar a cabo acciones de investigación y persecución de los delitos, con excepción de aquellos casos en que reciban órdenes escritas expresas del Ministerio Público que invariablemente deberán limitarse a acciones específicas y períodos definidos para casos concretos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 11.
 
-El Procurador General de Justicia del Estado será nombrado y removido libremente por el Gobernador del Estado, de quien dependerá en forma directa, en los términos del artículo 97 de la Constitución Política Local.
+El Procurador General de Justicia del Estado será nombrado y removido, en los términos previstos por la Constitución Política del Estado.
 
 Para ser Procurador General de Justicia del Estado se deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia.
 
@@ -169,15 +175,51 @@ Los subprocuradores serán nombrados y removidos libremente por el Gobernador de
 
 Para ser Subprocurador se deben reunir los mismos requisitos exigidos para ser Procurador General de Justicia del Estado.
 
+> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 13.
 
 Para ser Agente del Ministerio Público se requiere:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I.- Para ingresar al servicio:
 
-II.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales; y
+a).- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-III.- Ser licenciado en derecho, con título legalmente expedido.
+b).- Poseer por lo menos el grado académico de Licenciatura en Derecho y una antigüedad mínima de dos años en el ejercicio de dicha profesión, preferentemente en el ramo del Derecho Penal;
+
+c).- No hacer uso ilícito de estupefacientes o psicotrópicos, ni padecer algún grado de alcoholismo que pudiera entorpecer el desempeño de la función;
+
+d).- Gozar de buena salud y aprobar una evaluación que será practicada con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
+
+e).- Ser de reconocida buena conducta y no haber sido condenado por delito doloso o culposo grave, ni estar sujeto a proceso penal por delito de la misma naturaleza;
+
+f).- Tener por lo menos veinticinco años de edad el día de la solicitud;
+
+g).- Haber cumplido con el servicio militar nacional, en su caso;
+
+h).- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales;
+
+i).- No haber sido removido de algún cargo público por uso indebido de estupefacientes o psicotrópicos o por ingestión inmoderada de bebidas alcohólicas; y
+
+j).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+Adicionalmente, para ingresar al servicio de la Procuraduría General de Justicia como agente del Ministerio Público, los interesados deberán presentar y aprobar los exámenes que se determinen en el Reglamento y, a juicio del Procurador, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
+
+Será decisión del Procurador la propuesta que proceda para el ingreso al servicio.
+
+II.- Para permanecer en el servicio:
+
+a).- Aprobar los diagnósticos y las evaluaciones que deberán practicarse periódicamente por la Procuraduría General de Justicia tanto para conocer la evolución patrimonial como para mejorar el desarrollo profesional y técnico de los agentes del Ministerio Público, incluidos exámenes toxicológicos, clínicos, psicométricos, psicológicos y de actualización profesional;
+
+b).- Participar en los programas de capacitación y aprobar los cursos especiales que sean definidos por la Procuraduría General de Justicia;
+
+c).- No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días.
+
+d).- Mantener el cumplimiento de los requisitos de ingreso durante el servicio, con excepción del relacionado con buena salud que será considerado en los términos de la legislación relativa a seguridad social; y
+
+e).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+Los agentes del Ministerio Público serán nombrados por el Gobernador del Estado a propuesta del Procurador General de Justicia, y removidos o sancionados, en su caso, en los términos de esta Ley y su Reglamento.
 
 ###### ARTICULO 14.
 
@@ -191,17 +233,79 @@ III.- Las de los Agentes del Ministerio Público, por la persona que designe el 
 
 IV.- En los demás casos, en la forma que determine el reglamento de la presente ley.
 
+> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 15.
 
-Para ser Agente de la Policía Judicial se deben reunir los requisitos previstos en las fracciones I y II del Artículo 13 de esta Ley y haber concluido, cuando menos, la enseñanza media básica, debiéndose dar preferencia para ingresar a la Policía Judicial, a los egresados del Centro de Ciencias Penales del Estado de Sonora o de instituciones similares o equivalentes.
+Para ser agente o jefe de grupo de la Policía Judicial se requiere:
+
+I. - Para ingresar al servicio:
+
+a).- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+b).- Ser de reconocida buena conducta y no haber sido condenado por delito doloso o culposo grave, ni esta sujeto a proceso penal por delito de la misma naturaleza;
+
+c).- Poseer grado de escolaridad media superior o su equivalente, cuando menos, y ser egresado del Instituto Superior de Seguridad Pública del Estado, o de alguna otra institución que la Junta de Honor, Selección y Promoción reconozca para tales efectos;
+
+d).- Contar con el perfil físico, médico, ético y de personalidad necesario para realizar las actividades policiales, según los lineamientos correspondientes que sean establecidos y, en su caso, modificados o actualizados, por la Junta de Honor, Selección y Promoción mediante acuerdos generales publicados en el Boletín Oficial del Gobierno del Estado;
+
+e).- Haber cumplido con el servicio militar nacional, en su caso;
+
+f).- No hacer uso ilícito de estupefacientes o psicotrópicos, ni padecer algún grado de alcoholismo que pudiera entorpecer el desempeño de la función;
+
+g).- Gozar de buena salud y aprobar una evaluación que será practicada con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
+
+h).- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales; y
+
+i).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+Adicionalmente, para ingresar al servicio de la Policía Judicial como agente de dicha corporación, o para obtener la promoción de jefe de grupo de la misma, los interesados deberán presentar y aprobar los exámenes que se determinen en el Reglamento y, a juicio de la Junta de Honor, Selección y Promoción, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
+
+Será decisión de la Junta de Honor, Selección y Promoción la designación final que proceda para el ingreso al servicio.
+
+II.- Para permanecer en el servicio:
+
+a).- Aprobar los diagnósticos y las evaluaciones periódicas que deberán definirse por la Junta de Honor, Selección y Promoción y practicarse por la Procuraduría General de Justicia para el desarrollo profesional y técnico de la Policía Judicial, incluidos exámenes toxicológicos, clínicos, psicométricos, psicológicos y de actualización en técnicas policiales, así como con referencia a la situación y evaluación patrimonial de dichos servidores públicos;
+
+b).- Participar en los programas de capacitación y aprobar los cursos especiales que sean definidos por la Junta de Honor, Selección y Promoción;
+
+c).- No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días;
+
+d).- Mantener el cumplimiento de los requisitos de ingreso durante el servicio, con excepción del relacionado con buena salud que será considerado en los términos de la legislación relativa a seguridad social; y
+
+e).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+Los agentes y jefes de grupo de la Policía Judicial serán nombrados por la Junta de Honor, Selección y Promoción, y removidos o sancionados, en su caso, en los términos de esta Ley y su Reglamento.
 
 ###### ARTICULO 16.
 
 La Procuraduría General de Justicia del Estado, en los términos que precise el reglamento de la presente ley, integrará y mantendrá permanentemente actualizado el Registro de Antecedentes de Elementos Activos y Ex-elementos de la Policía Judicial, en el que se identificarán los antecedentes de servicios de éstos y coadyuvará, en los términos de los convenios respectivos, a la integración del Registro Nacional de Servicios Policiales.
 
+> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 17.
 
-Para ser perito oficial de la Procuraduría General de Justicia del Estado, se deben reunir los requisitos previstos en las fracciones I y II del artículo 13 de esta ley y tener título legalmente expedido o acreditar plenamente ante la Comisión que designe el Procurador, los conocimientos técnicos, científicos o artísticos correspondientes a la disciplina sobre la que deba dictaminar.
+Para ser perito oficial de la Procuraduría General de Justicia, se requiere:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Ser de reconocida buena conducta y no haber sido condenado por delito doloso o culposo grave, ni estar sujeto a proceso penal por delito de la misma naturaleza;
+
+III.- Poseer título profesional en la disciplina en la que se pretenda desempeñar como perito o, en caso de que ésta no exista en los planes de estudio de las instituciones educativas, contar con experiencia activa mínima de diez años en el arte u oficio de que se trate o tener expedido certificado de estudios técnicos en la materia;
+
+IV.- No hacer uso ilícito de estupefacientes o psicotrópicos, ni padecer algún grado de alcoholismo que pudiera entorpecer el desempeño de la función;
+
+V.- Gozar de buena salud y aprobar una evaluación que será practicada con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
+
+VI.- Haber cumplido con el servicio militar nacional, en su caso;
+
+VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales; y
+
+VIII.- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+Adicionalmente para ingresar al servicio de la Procuraduría General de Justicia como perito de dicha institución, los interesados deberán presentar y aprobar los exámenes que se determinen en el Reglamento y, a juicio del Procurador General de Justicia, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
+
+Los peritos oficiales serán nombrados y removidos por el Procurador General de Justicia y desempeñarán su servicio como trabajadores de confianza.
 
 ###### ARTICULO 18.
 
@@ -217,11 +321,37 @@ El Procurador General de Justicia del Estado expedirá los manuales administrati
 
 Los manuales de organización deberán publicarse en el Boletín Oficial del Gobierno del Estado y contendrán la información sobre la estructura orgánica de la Procuraduría y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 20.
 
-El Procurador General de Justicia del Estado resolverá, por si o por conducto del funcionario que determine, sobre el ingreso, la promoción, las renuncias, las sanciones y los estímulos del personal de la Procuraduría, sin perjuicio de las disposiciones legales relativas.
+En los términos de esta Ley y su Reglamento, compete al Procurador General de Justicia remover a los agentes del Ministerio Público, así como a los agentes y jefes de grupo de la Policía Judicial y los peritos oficiales y, en su caso, sancionar a dichos servidores públicos por las faltas a las normas de actuación y disciplina en que incurran.
 
 El Procurador General de Justicia podrá cambiar discrecionalmente de adscripción al personal de la Institución, cuando lo estime conveniente, no siendo necesario el trámite de un nuevo nombramiento.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 20 Bis.
+
+La remoción del servicio de los agentes del Ministerio Público, de los agentes y jefes de grupo de la Policía Judicial y de los peritos oficiales de la Procuraduría será procedente en los siguientes casos:
+
+I.- Por renuncia;
+
+II.- Por abandono de empleo entendido como incumplimiento de la obligación estipulada en el inciso c) de la fracción II del artículo 13 y el inciso c) de la fracción II del artículo 15 de esta Ley;
+
+III.- Por incapacidad permanente para el desempeño de las funciones del cargo;
+
+IV.- Por jubilación;
+
+V.- Por supresión de la plaza en el Presupuesto de Egresos o en la Ley respectiva;
+
+VI. - Por no mantener el cumplimiento de los requisitos de ingreso al cargo;
+
+VII.- Por no cumplir los requisitos de permanencia en el cargo;
+
+VIII.- Por inhabilitación; o
+
+IX.- Por destitución.
 
 ###### ARTICULO 21.
 
@@ -273,13 +403,177 @@ I.- Hasta por un mes con goce de sueldo; y
 
 II.- Hasta por dos meses, sin goce de sueldo.
 
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+Independientemente de lo anterior y en los mismos términos señalados en el primer párrafo de este artículo, el Procurador General de Justicia podrá conceder licencias hasta por tres años, sin goce de sueldo, a los agentes de la Policía Judicial, para desempeñar cargos en instituciones de seguridad pública en la Entidad.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+El Procurador General de Justicia será representado ante las autoridades judiciales, administrativas y del trabajo por el Subprocurador, el Director General o el agente del Ministerio Público que se designe para cada caso concreto.
+
 ###### ARTICULO 30.
 
 La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, dará lugar al empleo de medidas de apremio o a la imposición de correcciones disciplinarias, según el caso, en los términos que previenen las disposiciones legales relativas. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa, conforme a derecho.
 
+> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 31.
 
-Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el servicio, las sanciones administrativas previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, mediante el procedimiento que dicha ley previene. En el caso de la Policía Judicial, se aplicarán las mismas sanciones administrativas. El Director General de la corporación o el servidor público a cargo del mando de dicha policía, podrá imponer las sanciones administrativas de arresto hasta por treinta y seis horas, retención en el servicio o privación de permisos de salida hasta por quince días, de acuerdo con la gravedad de la falta.
+A los agentes del Ministerio Público, los agentes y jefes de grupo de la Policía Judicial y los peritos oficiales de la Procuraduría les serán aplicables las normas, procedimientos, sanciones y correctivos disciplinarios previstos en esta Ley y su Reglamento, para los casos de incumplimiento de las normas de actuación y disciplina que deben observarse por dichos servidores públicos en el desempeño de sus cargos.
+
+Las sanciones y correctivos disciplinarios que podrán imponerse en los términos del párrafo anterior según la gravedad de la falta de que se trate, consistirán en:
+
+I.- Amonestación;
+
+II.- Amonestación con apercibimiento;
+
+III.- Suspensión temporal de funciones hasta por treinta días; y
+
+IV.- Remoción por destitución en los casos previstos por las fracciones II, VI, VII y IX del artículo 20 bis de esta Ley.
+
+Además de las anteriores, en el caso de la Policía Judicial podrá imponerse también, como correctivos disciplinarios, el arresto hasta por treinta y seis horas, la retención en el servicio y la privación de permisos de salida hasta por quince días.
+
+Con excepción de la remoción por destitución que será atribución exclusiva e indelegable del Procurador General de Justicia la aplicación de las demás sanciones y correctivos disciplinarios podrá delegarse mediante acuerdos generales del Procurador que serán publicados en el Boletín Oficial del Gobierno del Estado, en el caso de los agentes del Ministerio Público y los peritos oficiales, al o los Subprocuradores que se determine y, en el caso de los agentes de la Policía Judicial, al Director General o los jefes de grupo de dicha Corporación.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 32.
+
+Los agentes del Ministerio Público, los agentes y jefes de grupo de la Policía Judicial y los peritos de la Procuraduría se sujetarán a las normas de actuación aplicables en general a los servidores públicos y, especialmente, a las siguientes:
+
+I.- Ajustar invariablemente su conducta a los principios de legalidad, lealtad, imparcialidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+
+II.- Evitar realizaciones presiones, consignas, encargos, comisiones o cualquier acción que genere o implique subordinación indebida de cualquier persona;
+
+III.- Abstenerse en todo momento y circunstancia de infligir o permitir actos de tortura y cualquier otro trato cruel, inhumano o degradante, aún cuando se trate de una orden superior o se argumenten circunstancias especiales;
+
+IV.- Abstenerse de solicitar o recibir favores, dádivas o regalos de cualquier persona, incluidos parientes y amigos íntimos, en relación o con motivo del ejercicio de las funciones propias del cargo;
+
+V.- Rechazar cualquier instrucción u orden relacionada con el ejercicio del cargo cuando no provenga de sus superiores, así como cualquier recomendación, orden o presión, sea quien fuere de quien provenga, para realizar un acto ilegal, omitir un deber legal o proteger intereses u otorgar protección indebidos en el ejercicio de las atribuciones correspondientes;
+
+VI. - Respetar la dignidad de las personas involucradas en los procedimientos de averiguación de delitos procurando, para tal efecto, no ofenderlas ni degradarlas al practicar interrogatorios; desahogar las diligencias a la hora establecida en los citatorios correspondientes; abstenerse de amenazar o ejercer cualquier clase de violencia moral en contra de indiciados, acusados, testigos, peritos y demás intervinientes en procedimientos administrativos o judiciales, evitar que los recintos oficiales en los que se practiquen diligencias de averiguación previa sean utilizados para anunciar o vender efectos mercantiles, realizar sorteos, promover festejos de particulares o actividades semejantes y, en general, guardar y hacer guardar los mínimos del respeto inherente a la función del Ministerio Público cuando se practiquen actuaciones relacionadas con sus atribuciones;
+
+VII.- Evitar utilizar en su vestimenta o presentación personal, durante las horas de servicio, ropa o accesorios que de cualquier modo demeriten el ejercicio de la función u ofendan o causen escándalo al común de las personas o signifiquen un lucimiento de poder derivado de su encargo;
+
+VIII.- Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos para dicho efecto en los ordenamientos constitucionales y legales aplicables;
+
+IX.- Tomar las providencias conducentes a la inmediata ubicación y localización de las personas destinatarias de las órdenes cuya ejecución les sean encomendadas;
+
+X.- Salvo disposición en contrario de las leyes aplicables, guardar confidencialidad, reserva y discreción con respeto a los datos, informes o actividades de que tengan conocimiento con motivo del desempeño de sus funciones;
+
+XI.- Abstenerse de ingerir bebidas alcohólicas durante el cumplimiento de su servicio, o realizar éste bajo los efectos de substancias psicotrópicas o estupefacientes, u otras que produzcan efectos similares;
+
+XII. - Abstenerse de consumir substancias psicotrópicas, drogas o estupefacientes, u otras que produzcan efectos similares, aún fuera de servicio, salvo en el caso de prescripción médica comprobada previo el conocimiento por escrito que se haga de esta situación al superior jerárquico;
+
+XIII.- Participar en los operativos de coordinación con otras corporaciones policiales que sean determinados mediante mandamiento legal, ajustando su actuación conforme a derecho proceda;
+
+XIV.- No usar, poseer, enajenar o adquirir vehículos de procedencia ilegal, ni los de origen extranjero que no tengan legal estancia en el país, o aquellos relacionados con una averiguación previa en proceso;
+
+XV.- Abstenerse de portar en el servicio a su cargo armas distintas a las que sean propias de la corporación de su adscripción; y
+
+XVI.- Las demás que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 33.
+
+Además de las normas de actuación genéricamente aplicables a los servidores públicos, los agentes y jefes de grupo de la Policía Judicial deberán cumplir con las siguientes normas de disciplina:
+
+I.- Actuar con decisión en el cumplimiento de sus funciones, cuidando que no se exceda el legítimo derecho de autodefensa y limitando el uso de la fuerza a los casos que lo requieran para el cumplimiento de su función. En todo caso tendrán la obligación de denunciar a sus superiores jerárquicos la inobservancia de esta disposición;
+
+II.- Llevar a cabo su actuación con disciplina, observando el orden jerárquico establecido y dando riguroso y exacto cumplimiento a las instrucciones que reciban de sus superiores;
+
+III.- Portar el uniforme reglamentario salvo instrucción expresa en contrario y no usar u ostentar durante el servicio o fuera de él cargos, insignias o símbolos distintivos ajenos a la Institución;
+
+IV.- Salvo caso de flagrancia delictiva, efectuar únicamente las investigaciones y actividades ordenadas por el Ministerio Público o por sus superiores jerárquicos y cumplirlas oportuna y diligentemente;
+
+V.- Desempeñar sus funciones en forma personal y directa, sin hacerse sustituir por otras personas, sean servidores públicos o particulares, sin perjuicio de solicitar el auxilio de quienes conforme a la ley deban o puedan prestarlo cuando el caso lo requiera;
+
+VI. - Abstenerse de provocar de palabra o de hecho al personal de otras corporaciones policiales; así como mantener serenidad, control y prudencia ante cualquier acto de provocación, procurando siempre no exponer la integridad física y los bienes patrimoniales de terceros; y
+
+VII.- Cumplir con las demás disposiciones aplicables y con aquellas que expidan el Procurador General de Justicia y la Junta de Honor, Selección y Promoción.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 34.
+
+Para la remoción por destitución prevista por la fracción IV del tercer párrafo del artículo 31 de esta Ley, se iniciará procedimiento de oficio o por denuncia, en ambos casos con apoyo en elementos probatorios suficientes para presumir la violación o el incumplimiento de que se trate. El procedimiento de referencia será conducido por la unidad administrativa que se determine en el reglamento de esta Ley, pero invariablemente la resolución definitiva será emitida por el Procurador General de Justicia.
+
+Radicada que fuese una denuncia, o abierto el procedimiento de oficio, se le dará conocimiento al encausado sobre los hechos que se le imputan para que, si le conviene, presente su defensa y ofrezca pruebas dentro de un término de cinco días contado a partir de la notificación respectiva y, desahogadas que fueren dichas pruebas y las que de oficio se manden practicar en relación con el caso, se pondrá el expediente para alegatos durante un plazo de tres días, de tal modo que, transcurrido este último término, con o sin alegatos, se cerrará el expediente para el efecto de que se dicte la resolución que proceda.
+
+En ningún caso procederá la admisión de pruebas que no puedan desahogarse en el domicilio de la autoridad que conduzca el procedimiento. La responsabilidad de la presentación de testigos y peritos será siempre de quien los ofrezca.
+
+El procedimiento de referencia no podrá extenderse, por motivo alguno, por un plazo mayor de treinta días naturales a partir de la fecha de presentación de la denuncia respectiva o su apertura de oficio, y para concluirlo podrán habilitarse días y horas inhábiles a juicio de quien lo conduzca.
+
+En los términos de las leyes de la materia, será causa de responsabilidad administrativa del funcionario que tenga a su cargo la conducción de este procedimiento el hecho de no concluirlo dentro del plazo de treinta días que se especifica en el párrafo precedente. Cuando el Procurador advierta esta circunstancia la denunciará de inmediato ante el Secretario de la Contraloría General, so pena de responsabilidad propia en caso de no hacerlo.
+
+En cualquier momento y según las circunstancias de cada caso, la autoridad que conduzca el procedimiento podrá suspender provisionalmente al encauzado hasta en tanto se resuelva en definitiva el asunto. Se exceptúan los casos que a juicio del Procurador sean considerados graves o de trascendencia social especial, en los que la suspensión deberá ser decretada invariablemente.
+
+Con las particularidades que se especifican en este artículo, se aplicarán las reglas del Código de Procedimientos Penales para el Estado en lo relativo a notificaciones y ofrecimiento, admisión, desahogo y valoración de pruebas.
+
+Contra la resolución que ponga fin a este procedimiento no procederá medio de impugnación o juicio ordinario algunos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+### CAPITULO IV. DE LA JUNTA DE HONOR, SELECCIÓN Y PROMOCIÓN
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 35.
+
+La Policía Judicial del Estado contará con una Junta de Honor, Selección y Promoción, que se integrará por:
+
+I.- El Procurador General de Justicia;
+
+II.- El Secretario de la Contraloría General;
+
+III.- El Director General de Recursos Humanos del Gobierno del Estado, dependiente de la Secretaría de Hacienda;
+
+IV.- El Director General de Organización, Programación y Presupuesto de la Procuraduría General de Justicia; y
+
+V.- Un representante del Consejo Estatal de Participación Ciudadana en Materia de Procuración de Justicia.
+
+Si por acto administrativo desaparecieran cualquiera de las oficinas referidas por las fracciones III, IV y V, el Gobernador del Estado designará provisionalmente, de inmediato, a quienes deban realizar supletoriamente las funciones respectivas, procediendo seguidamente, dentro de un plazo de treinta días naturales, a presentar ante el Congreso del Estado, vía iniciativa legislativa, la o las propuestas que correspondan para cubrir los cargos acéfalos.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 36.
+
+La Junta de Honor, Selección y Promoción tomará sus acuerdos por mayoría de votos. Se considerará legalmente reunida cuando asistan por lo menos tres de sus miembros, encontrándose presente el Procurador General de Justicia.
+
+Fungirá como presidente de la Junta el Procurador General de Justicia y como secretario el Director General de Organización, Programación y Presupuesto de la Procuraduría. Los demás integrantes actuarán como vocales.
+
+Se reunirá cuantas veces sea convocada y ejercerá las siguientes atribuciones:
+
+I.- Substanciar y resolver los procedimientos relativos a la selección e ingreso de los agentes y jefes de grupo de la Policía Judicial;
+
+II.- Substanciar y resolver los procedimientos relativos al otorgamiento de ascensos por promoción de los agentes y jefes de grupo de la Policía Judicial;
+
+III.- Decidir sobre el otorgamiento de reconocimientos, premios y condecoraciones a los agentes y jefes de grupo de la Policía Judicial; y
+
+IV.- Velar por la honorabilidad de la Policía Judicial y definir las reglas para prevenir y combatir las conductas lesivas a dicha honorabilidad.
+
+> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 37.
+
+Adicionalmente a los requisitos constitucionales y legales que deban cumplirse para emitir las resoluciones de la Junta de Honor, Selección y Promoción, en éstas deberán sopesarse también los siguientes factores o circunstancias en relación con los interesados:
+
+A).- Antecedentes de conducta;
+
+B). - Antigüedad en el grado;
+
+C). - Eficiencia en el servicio;
+
+D). - Puntualidad;
+
+E). - Créditos acumulados;
+
+F). - Acciones especiales; y
+
+G). - Exámenes de promoción o selección.
+
+Las resoluciones de la Junta no admitirán recurso alguno ante instancias administrativas.
 
 ## TRANSITORIOS
 
@@ -322,3 +616,19 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO,
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 9 DE SEPTIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Dentro de un plazo no mayor de noventa días, contados a partir de la entrada en vigor de este Decreto, el Ejecutivo del Estado deberá realizar y publicar las adecuaciones pertinentes al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado.
