@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "1999-05-12"
+last_updated: "1999-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -399,9 +399,11 @@ Es aplicable la ley penal vigente en el tiempo de realización del delito.
 
 Cuando entre la comisión del delito y la extinción de la sanción correspondiente entre en vigor otra ley aplicable al caso, se estará a lo dispuesto por el artículo 86.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El lugar y el tiempo de comisión del delito son aquéllos en los que se concretan los elementos de la descripción legal.
+Las circunstancias de lugar, tiempo y modo de la comisión del delito están constituidas por los datos con que se acredita el cuerpo del delito y la probable responsabilidad del indiciado.
 
 ### CAPITULO IV. APLICACION EN RELACION CON LAS PERSONAS
 
@@ -423,9 +425,17 @@ En los delitos de resultado material también será atribuible el resultado típ
 
 Las acciones y las omisiones delictivas sólo pueden causarse dolosa o culposamente.
 
-Obra dolosamente el que conoce y quiere o acepta los elementos objetivos del hecho descrito en el tipo penal.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
 
-Obra culposamente el que no despliega el cuidado debido, posible y adecuado para no producir, o en su caso evitar, la previsible y evitable lesión típica del bien jurídico.
+Obra dolosamente quien quiere o acepta la existencia del cuerpo del delito.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+
+Obra culposamente quien por falta de cuidado o reflexión da lugar a que se actualicen los datos que constituyen el cuerpo del delito.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
+
+El dolo se presume salvo prueba en contrario.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
@@ -435,7 +445,9 @@ Solamente se sancionarán como delitos culposos los previstos en los artículos 
 
 El delito puede ser:
 
-I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos constitutivos de la descripción legal;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+
+I. Instantáneo, cuando la consumación se agota en el mismo momento en que se ha realizado el cuerpo del delito;
 
 II. Permanente, cuando la consumación se prolonga en el tiempo; o
 
@@ -443,9 +455,11 @@ III. Continuado, cuando con unidad de propósito delictivo, pluralidad de conduc
 
 ### CAPITULO II. TENTATIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 17.
 
-Existe tentativa punible cuando la intención de realizar el hecho descrito en el tipo penal se exterioriza mediante la ejecución de la actividad que debe producir ese hecho o la omisión de la que debería evitarlo, poniendo en peligro el bien jurídico correspondiente, si el delito no se consuma por causas ajenas a la voluntad del agente.
+Existe tentativa punible cuando la intención de realizar el hecho constitutivo del cuerpo del delito se exterioriza mediante la ejecución de la actividad que debe producir ese hecho o la omisión de la que debería evitarlo, poniendo en peligro el bien jurídico correspondiente, si el delito no se consuma por causas ajenas a la voluntad del agente.
 
 Si el agente desiste de la ejecución o impide la consumación del delito, en forma espontánea, no se le impondrá sanción alguna, a no ser que la acción o la omisión realizadas constituyan por sí mismas un delito.
 
@@ -507,7 +521,9 @@ Se excluye la incriminación penal cuando:
 
 I. Se realice el hecho sin intervención de la voluntad del agente;
 
-II. Falte alguno de los elementos descritos en el tipo penal;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+
+II. Falte alguno de los datos constitutivos del cuerpo del delito;
 
 III. Se actúe con el consentimiento del titular del bien jurídico afectado o de quien se halla legitimado por la ley para otorgarlo, siempre que:
 
@@ -531,7 +547,9 @@ VI. Se obre legalmente en cumplimiento de un deber jurídico o en ejercicio de u
 
 VII. Se obre bajo la amenaza irresistible de un mal real, actual o inminente, en bienes jurídicos propios o ajenos, siempre que no exista al alcance del agente otro medio practicable y menos perjudicial;
 
-VIII. Se omita por impedimento insuperable la acción ordenada en un tipo penal;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+
+VIII. Se omita por impedimento insuperable la acción prevista en el cuerpo del delito;
 
 IX. Al realizar la conducta el agente padezca un trastorno mental transitorio que le impida comprender el carácter ilícito del hecho o conducirse de acuerdo con esa comprensión, a no ser que el agente hubiese provocado dolosamente o por culpa grave su propio trastorno. En este caso responderá por el hecho cometido.
 
@@ -705,6 +723,10 @@ El decomiso consiste en la pérdida de la propiedad o posesión de bienes determ
 
 Las autoridades que conozcan de la averiguación previa o el proceso ordenarán el inmediato aseguramiento de los bienes que pudieran ser decomisados, y procederán en la forma dispuesta en este Capítulo.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
+
+Los bienes asegurados podrán aplicarse a favor del Estado cuando hayan sido objeto de abandono por parte de quien, con derecho acreditado, hubiere podido reclamar su entrega desde su aseguramiento hasta la sentencia definitiva de Primera Instancia, siempre y cuando ésta sea condenatoria.
+
 ###### ARTICULO 44.
 
 Las cosas decomisadas que puedan entrar al comercio serán subastadas y su valor se aplicará a la reparación de los daños y perjuicios causados por el delito, pero si esta obligación se halla satisfecha o garantizada, se destinará al mejoramiento de la procuración y la administración de justicia, a no ser que puedan ser aplicadas directamente a este fin.
@@ -714,6 +736,10 @@ Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, se de
 Los productos, rendimientos o beneficios obtenidos por los delincuentes o por otras personas como resultado de la conducta ilícita de aquéllos, serán decomisados para los efectos mencionados en la última parte del primer párrafo de este artículo.
 
 Cuando sea pertinente destruir las cosas aseguradas, en los términos de este precepto, el Ministerio Público solicitará al juez la autorización respectiva. Para ello bastará con acreditar las características de los objetos y la necesidad de destruirlos.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
+
+Las autoridades locales auxiliarán a la autoridad judicial competente respecto de los bienes que hayan sido asegurados con motivo de una investigación o proceso que se instruya por delitos de delincuencia organizada, en los términos y condiciones que dispone el artículo 22 de la Constitución General de la República.
 
 ###### ARTICULO 45.
 
@@ -3198,3 +3224,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 CUARTO.- En los procedimientos penales que se estén desarrollando ante las autoridades competentes del Estado en contra de abigeos, se atenderá a lo dispuesto por el artículo 86 del Código Penal en vigor.
+
+P.O. 14 DE JULIO DE 1999.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por el artículo 44 y 70 fracción XVII de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
