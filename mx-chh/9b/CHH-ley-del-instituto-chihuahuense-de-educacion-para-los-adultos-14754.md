@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-educacion-para-los-adultos-14
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "1999-05-26"
+last_updated: "2000-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACION PARA LOS ADULTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -51,11 +51,15 @@ DISPOSICIONES PRELIMINARES.
 
 Se crea el Instituto Chihuahuense de Educación para los Adultos, como organismo público descentralizado, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Chihuahua, Chih.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 2.
 
-El Instituto Chihuahuense de Educación para los Adultos tendrá por objeto prestar los servicios de educación básica para adultos en el Estado de Chihuahua, los cuáles comprenden la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con los contenidos particulares para atender las necesidades educativas específicas de ese sector de la población, apoyándose en la solidaridad social.
+El Instituto Chihuahuense de Educación para los Adultos como Organismo Descentralizado quedará sectorizado a la Secretaría de Educación y Cultura y tendrá por objeto prestar los servicios de educación básica en el Estado de Chihuahua, los cuales comprenden la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con los contenidos particulares para atender las necesidades educativas específicas de ese sector de la población, apoyándose en la solidaridad social.
 
 La educación para adultos, como parte del sistema educativo nacional, deberá cumplir con los planes y programas de estudio que rigen a esta modalidad educativa no escolarizada y, consiguientemente, observar la normatividad establecida por el Instituto Nacional para la Educación de los Adultos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 3.
 
@@ -63,13 +67,17 @@ Para los efectos de esta Ley, se entenderá:
 
 I.- Por Instituto, al Instituto Chihuahuense de Educación para los Adultos;
 
-II.- Por INEA, al Instituto Nacional para la Educación de los Adultos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+II.- Organismo, al organismo nacional que coordina la educación básica para adultos;
 
 III.- Por Junta, a la Junta de Gobierno del Instituto;
 
 IV.- Por el Director General, al Director General del Instituto, y
 
-V.- Por Patronato, al Patronato Chihuahuense de Fomento Educativo, A.C..
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+V.- Por Patronato, al Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C.
 
 ### CAPITULO SEGUNDO
 
@@ -109,9 +117,15 @@ XIV.- Patrocinar y organizar la realización de reuniones, seminarios y otros ev
 
 XV.- Otorgar estímulos y recompensas a los agentes operativos solidarios que se distingan por los eficientes servicios de apoyo a la educación para adultos;
 
-XVI.- Fungir como cuerpo consultivo de las instituciones oficiales y privadas en la materia educativa de su competencia; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
-XVII.- Las demás que se requieran para cumplir con los objetivos anteriores y las que se deriven de la normatividad aplicable.
+XVI.- Fungir como cuerpo consultivo de las instituciones oficiales y privadas en la materia educativa de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+XVII.- Contar con un cuerpo colegiado académico, de carácter consultivo, que sea de apoyo para proporcionar con mayor calidad la impartición de la Educación para Adultos; y,
+
+XVIII.- Las demás que se requieran para cumplir con los objetivos anteriores y las que se deriven de la normatividad aplicable.
 
 ###### Artículo 5.
 
@@ -143,9 +157,11 @@ DE LOS ÓRGANOS DE ADMINISTRACIÓN Y CONTROL DEL INSTITUTO.
 
 La administración del Instituto estará a cargo de la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 9.
 
-La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Gobernador del Estado, quien la presidirá; el Secretario de Educación y Cultura del Estado, quien sustituirá en sus ausencias temporales al Presidente; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, o quienes estos designen; el Director General del Instituto Chihuahuense de Educación para los Adultos; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Chihuahuense de Fomento Educativo, A.C.; y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Unico de Trabajadores del Instituto Nacional para la Educación de los Adultos.
+La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Secretario de Educación y Cultura, quien la presidirá; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, o quienes estos designen para suplirlos; un representante del sector educativo estatal; un representante del organismo; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C. y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Unico de Trabajadores del Instituto Nacional para la Educación de los Adultos.
 
 ###### Artículo 10.
 
@@ -177,7 +193,9 @@ III.- Aprobar, previo informe de los Comisarios Públicos y dictamen de los Audi
 
 IV.- Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General, con la intervención que corresponda a los Comisarios Públicos;
 
-V.- Aprobar la estructura básica y el Estatuto Orgánico del Instituto Chihuahuense de Educación para los Adultos, así como las modificaciones que procedan;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+V.- Aprobar la estructura básica y el Reglamento Interno del Instituto Chihuahuense de Educación para los Adultos, así como las modificaciones que procedan;
 
 VI.- Autorizar previamente al Director General cuando se trate de la adquisición y enajenación de inmuebles que el Instituto requiera para la prestación de sus servicios, así como para que pueda disponer de los activos fijos que no correspondan a las operaciones propias de su objeto;
 
@@ -191,9 +209,11 @@ X.- Autorizar el establecimiento de Delegaciones y Coordinaciones del Instituto 
 
 XI.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél; así como aprobar la fijación de sus sueldos y prestaciones y el otorgamiento de licencias;
 
-XII.- Nombrar y remover, a propuesta de su Presidente, a un Secretario, así como designar y remover, a propuesta del Director General, a un Prosecretario, quienes tendrán las facultades que les confiera el Estatuto Orgánico del Instituto Chihuahuense de Educación para los Adultos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
-XIII.- Expedir el Manual General de Organización, los Manuales de Procedimientos, de Servicios y demás instrumentos de apoyo administrativo necesarios para el funcionamiento del Instituto, los cuáles deberán mantenerse permanentemente actualizados, e informar a la Junta de Gobierno sobre el ejercicio de esta facultad;
+XII.- Nombrar y remover, a propuesta de su Presidente, a un Secreatrio (sic), así como designar y remover, a propuesta del Director General, a un Prosecretario, quienes tendrán las facultades que les confiera el Reglamento Interno del Instituto Chihuahuense de Educación para Adultos; y
+
+XIII.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2000)
 
 XIV.- Establecer las condiciones generales de trabajo del Instituto, escuchando la opinión del Sindicato que agrupe a los trabajadores de base de su adscripción; y
 
@@ -221,15 +241,21 @@ Son facultades y obligaciones del Director General:
 
 I.- Dirigir técnica y administrativamente al Instituto;
 
-II.- Ejercer la representación legal del Instituto como apoderado general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y especiales que de acuerdo con la ley requieran autorización o cláusula especial. Para el ejercicio de las facultades para actos de dominio se procederá conforme a lo previsto en las leyes aplicables del Estado, en la Fracción VI del Artículo 13 de este ordenamiento y en el Estatuto Orgánico del Instituto;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
-III.- Otorgar poderes generales y especiales con las facultades que le competan, sin perder el ejercicio directo de éstas, incluyendo las que requieran autorización o cláusula especial, así como sustituir y revocar dichos poderes. Para el ejercicio de las facultades, para actos de dominio se procederá conforme a lo previsto en las leyes aplicables del Estado, en la Fracción VI del Artículo 13 de este ordenamiento y en el Estatuto Orgánico del Instituto;
+II.- Ejercer la representación legal del Instituto como apoderado general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y las especiales que de acuerdo con la ley requieran autorización o cláusula especial. Para el ejercicio de las facultades para actos de dominio se procederá conforme a lo previsto en las leyes aplicables del Estado, de este ordenamiento y en el Reglamento Interno del Instituto;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+III.- Otorgar los poderes generales y especiales con las facultades que le competen, sin perder el ejercicio directo de éstas, incluyendo las que requieran autorización o cláusula especial, así como sustituir y revocar dichos poderes, conforme a lo previsto en las leyes aplicables del Estado, de este ordenamiento y en el Reglamento Interno del Instituto;
 
 IV.- Delegar en funcionarios subalternos, para la más ágil toma de decisiones y simplificación administrativa, las facultades que expresamente determine, sin menoscabo de conservar su ejercicio directo;
 
 V.- Someter a la aprobación de la Junta de Gobierno el Programa Operativo Anual y el proyecto de presupuesto anual de ingresos y egresos del Instituto;
 
-VI.- Presentar en cada una de las sesiones ordinarias de la Junta de Gobierno de los informes sobre las actividades del Instituto, el ejercicio del presupuesto y los estados financieros;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+VI.- Asistir a las sesiones que celebre la Junta de Gobierno y presentar en cada una de las sesiones ordinarias de la Junta los informes sobre las actividades del Instituto, el ejercicio del presupuesto y los estados financieros;
 
 VII.- Proponer al órgano de Gobierno el establecimiento de Delegaciones Municipales y Coordinaciones Regionales, así como las unidades técnicas y administrativas centrales que las necesidades del servicio requieran;
 
@@ -245,15 +271,25 @@ XII.- Celebrar y suscribir toda clase de actos, convenios y contratos, de acuerd
 
 XIII.- Supervisar y vigilar la debida observancia del presente ordenamiento y demás disposiciones que rijan al Instituto; y
 
-XIV.- Las demás que le confieran este Decreto, su Estatuto Orgánico y los ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+XIV.- Expedir el manual General de Organización, los manuales de procedimientos, de servicios y demás instrumentos de apoyo administrativo necesarios para el funcionamiento del Instituto, los cuales deberán mantenerse permanentemente actualizados e informar a la Junta de Gobierno sobre el ejercicio de esta facultad; y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+XV.- Las demás que le confieran este Decreto, su Reglamento Interno y los ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 18.
 
-El Instituto contará con unidades técnicas y administrativas centrales que tendrán a su cargo la aplicación de la normatividad, evaluación y control de sus actividades mediante autorización de la Junta de Gobierno y cuyas funciones se establecerán en el Estatuto Orgánico.
+El Instituto contará con unidades técnicas y administrativas centrales que tendrán a su cargo la aplicación de la normatividad, evaluación y control de sus actividades mediante autorización de la Junta de Gobierno y cuyas funciones se establecerán en el Reglamento Interno.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 19.
 
-La organización, atribuciones y funciones de las Delegaciones y Coordinaciones, cuyo establecimiento haya sido autorizado por la Junta de Gobierno se determinarán en el Estatuto Orgánico del Instituto y al frente de cada una de ellas habrá un Delegado o Coordinador, según el caso, que será designado por la propia Junta a propuesta del Director General.
+La organización, atribuciones y funciones de las Delegaciones y Coordinaciones, cuyo establecimiento haya sido autorizado por la Junta de Gobierno se determinará en el Reglamento Interno del Instituto y al frente de cada una de ellas habrá un Delegado o Coordinador, según el caso, que será designado por la Junta a propuesta del Director General.
 
 ###### Artículo 20.
 
@@ -263,15 +299,11 @@ El Instituto contará con un órgano de vigilancia integrado por un Comisario P�
 
 El Comisario evaluará el desempeño general del Instituto y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Contraloría asigne específicamente conforme a la ley.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 22.
 
-El comisario público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría y de acuerdo a las siguientes bases:
-
-I.- Dependerá del Director del Instituto;
-
-II.- Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
-
-III.- Examinará y evaluará los sistemas, mecanismos y procedimientos de control, efectuará revisiones y auditorías, vigilará que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, presentará al Director General y a la Junta de Gobierno los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+El comisario público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría.
 
 ### CAPITULO CUARTO
 
@@ -354,3 +386,11 @@ C.P. PATRICIO MARTINEZ GARCIA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
