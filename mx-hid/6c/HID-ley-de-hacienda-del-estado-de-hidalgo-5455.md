@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1997-12-30"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -837,7 +837,9 @@ Los contribuyentes de este impuesto están obligadas a :
 
 I. Registrarse en la Oficina Rentística de su jurisdicción dentro del mes siguiente a la fecha de iniciación de sus operaciones, en las formas aprobadas por la Secretaria de Finanzas y Administración;
 
-II. Presentar las declaraciones y efectuar el pago del impuesto en la Oficina Rentística de la Jurisdicción en que se estén empadronados, eximiendo de esta obligación a los contribuyentes que están sujetos a la tasa 0%; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+II. Presentar las declaraciones y efectuar el pago del impuesto en al oficina rentistica de la jurisdicción en que estén empadronados, inclusive los contribuyentes sujetos a la tasa del 0%, los que deberán presentar declaraciones cuatrimestrales y, en su caso complementarias.
 
 III. Tratándose de personas físicas o morales cuya casa matriz y sucursales se encuentren ubicadas en el territorio del Estado, deberán presentar una sola declaración en la Oficina Rentística correspondiente a la jurisdicción del domicilio de la matriz, acumulando el número de trabajadores que tengan en dichas sucursales.
 
@@ -848,6 +850,10 @@ En el caso que el domicilio de la matriz, se encuentre fuera del Estado, y solo 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 IV. Tratándose de personas físicas y morales cuya casa matriz se encuentre ubicada fuera del territorio del estado, las sucursales que realicen sus operaciones dentro de esta entidad federativa, deberán presentar una sola declaración en la oficina rentistica correspondiente, en razón al domicilio fiscal que manifiesten, acumulando el numero de trabajadores que tengan en todas las sucursales citadas.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- Presentar en la oficina rentistica de su jurisdicción, cualquier aviso de movimiento que realice y modifique su inscripción inicial, en las formas aprobadas por la Secretaría de Finanzas y Administración.
 
 ### CAPITULO SEPTIMO.
 
@@ -1983,7 +1989,7 @@ b) Reposición del registro anual de control vehicular. $ 50.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-c) bajas. $ 30.00
+c) Bajas. $ 30.00
 
 d) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
@@ -2610,3 +2616,9 @@ P.O. 30 DE DICIEMBRE DE 1997.
 PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 1998, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1. de enero de 1999, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
