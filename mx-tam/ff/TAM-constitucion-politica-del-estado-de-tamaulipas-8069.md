@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1984-12-22"
+last_updated: "1985-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1985. (DECRETO NUMERO 147)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -419,9 +419,9 @@ II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y res
 
 En el segundo período de sesiones se ocupará el Congreso:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1985)</small>
 
-I.- De preferencia, en discutir y decretar las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado. Las Iniciativas de Leyes de Ingresos y el proyecto de Presupuesto de Egresos le serán presentados antes del día treinta y uno de octubre de cada año por el Ejecutivo.
+I.- De preferencia, en discutir y decretar las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado del año siguiente, las Iniciativas de Leyes de Ingresos y el Proyecto de Presupuesto de Egresos le serán presentados antes del día treinta de noviembre de cada año por el Ejecutivo. Sólo se podrá ampliar este plazo cuando medie solicitud del Ejecutivo suficientemente justificada a juicio del Congreso.
 
 II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
 
@@ -619,9 +619,9 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LI.- Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -1185,7 +1185,7 @@ II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Es
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-III.- Erigirse en Jurado de Sentencia para conocer las causas que se instruyan contra servidores públicos conforme a lo dispuesto en el Título XI de esta Constitución.
+III.- Erigirse en Jurado de sentencia para conocer las causas que se instruyan contra servidores públicos conforme a lo dispuesto en el Título XI de esta Constitución.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1371,9 +1371,9 @@ V.- Los presidentes municipales, regidores y síndicos de los Ayuntamientos elec
 
 VI.- Por cada miembro propietario del Ayuntamiento se elegirá un Suplente.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1985)</small>
 
-VII.- Los Ayuntamientos, en la segunda quincena del mes de septiembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de Leyes de Ingresos, y rendirán sus cuentas anuales en la primera quincena del mes de febrero. Los Presupuestos de Egresos serán aprobados por los propios ayuntamientos con base en sus ingresos disponibles. La Ley establecerá la constitución y funcionamiento de un órgano de la Administración Pública que se encargará del control, inspección y evaluación de las actividades de los Ayuntamientos en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y gasto público.
+VII.- Los Ayuntamientos antes del día 30 de noviembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de Leyes de Ingresos, y rendirán sus cuentas anuales en la primera quincena del mes de febrero. Los Presupuestos de Egresos serán aprobados por los propios Ayuntamientos con base en sus ingresos disponibles. La Ley establecerá la constitución y funcionamiento de un Organo de la Administración Pública que se encargará del control, inspección y evaluación de las actividades de los Ayuntamientos en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y gasto público.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2168,3 +2168,15 @@ Este Decreto entrará en vigor al día siguiente al de su publicación en el Per
 P.O. 22 DE DICIEMBRE DE 1984.
 
 UNICO.- El presente Decreto inicia su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 1985.
+
+DECRETO No. 146.
+
+UNICO.- Este Decreto inicia su vigencia un día después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 1985.
+
+DECRETO No. 147.
+
+UNICO.- El presente Decreto inicia su vigencia un día después al de su publicación en el Periódico Oficial del Estado.
