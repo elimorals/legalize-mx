@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-del-estado-de-campeche-3642"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "1994-12-22"
+last_updated: "1998-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 31 de diciembre de 1987.
 
@@ -291,7 +291,7 @@ IV.- Vigilar la sanidad en los límites con otras Entidades.
 
 ###### Artículo 13.
 
-Para los efectos de esta ley, se entiende por norma técnica el conjunto de reglas científicas, tecnológicas de carácter obligatorio emitidas por la entidad administrativa correspondiente, que establezca los requisitos que deben satisfacerse en el desarrollo de actividades en materia de Salubridad Local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+(DEROGADO, P.O. 3 DE ABRIL DE 1998)
 
 ###### Artículo 14.
 
@@ -522,6 +522,10 @@ III.- Incorporación, como auxiliares voluntarios, en la realización de tareas 
 IV.- Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
 
 V.- Formulación de sugerencias para mejorar los servicios de salud;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+V bis.- Información a la autoridad sanitaria acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
 
 VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
 
@@ -829,9 +833,11 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
+
 ###### Artículo 91.
 
-Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de la salud del Estado, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos a que se refiere el Título Décimo Segundo de la Ley General de Salud, llevarán las estadísticas que les señale la Secretaría de Salud de la Federación, y proporcionarán al Estado y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de su (sic) suministrar la información que les señalen otras disposiciones legales.
+Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos o que realicen las actividades a que se refieren los títulos décimo segundo y décimo cuarto de la Ley General de Salud, llevarán las estadísticas que les señale la Secretaría de Salud de la Federación y proporcionarán a ésta y a la Secretaría de Salud del Estado, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
 
 ## Título Séptimo. Promoción de la Salud
 
@@ -902,6 +908,10 @@ II.- Vigilar y certificar la calidad del agua para uso y consumo humano; y
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+IV.- Disponer y verificar que se cuente con información toxicológica actualizada, en la que establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
@@ -1407,19 +1417,43 @@ Se entiende por control sanitario, el conjunto de acciones de orientación, educ
 
 ###### Artículo 164.
 
-La Secretaría de Salud del Estado emitirá las normas técnicas a que quedará sujeto el control sanitario de las materias de salubridad local.
+(DEROGADO, P.O. 3 DE ABRIL DE 1998)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1998)</small>
 
 ###### Artículo 165.
 
-Los establecimientos y vehículos a que se refiere el artículo 3o. apartado "B", de esta ley, requieren para su funcionamiento:
+La Secretaría de Salud determinará con base en los riesgos que representen para la salud, los establecimientos a que se refiere el artículo 198 de la Ley General de Salud, que requieren para su funcionamiento:
 
 I.- Licencia sanitaria, expedida por la Secretaría de Salud del Estado; y
 
 II.- Contar, en su caso, con permiso sanitario los responsables y auxiliares.
 
+> <small>(ADICIONADO P.O. 3 DE ABRIL DE 1998)</small>
+
+###### Artículo 165
+
+1.- Deberán dar aviso de funcionamiento los establecimientos que no requieran de autorización sanitaria y que mediante acuerdo determine la Secretaría de Salud de la Federación.
+
+El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud del Estado, dentro de los 10 días posteriores al inicio de operaciones y contendrá los siguientes datos:
+
+I.- Nombre y domicilio de la persona física o moral, propietaria del establecimiento;
+
+II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones;
+
+III.- Procesos utilizados y línea o líneas de productos;
+
+IV.- Declaración bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+V.- Clave de la actividad del establecimiento;
+
+VI.- Número de cédula profesional, en su caso, del responsable sanitario.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
+
 ###### Artículo 166.
 
-Todo cambio de propietario, de razón o denominación social, de un establecimiento autorizado por la Secretaría de Salud del Estado, deberá ser comunicado a éste en un plazo no mayor de treinta días a partir de la fecha en que se hubiere realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente, en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubieren realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
 ###### Artículo 167.
 
@@ -3641,9 +3675,11 @@ Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señ
 
 En el caso de las licencias sanitarias, la solicitud de revalidación deberá presentarse dentro de los treinta días anteriores a su vencimiento.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
+
 ###### Artículo 595.
 
-Requieren de licencia sanitaria los establecimientos y vehículos a los que se contrae el artículo 373 de la Ley General de Salud.
+Requieren de licencia sanitaria los establecimientos a que se refieren los artículos 198, 319, 329 y 330 de la Ley General de Salud; cuando cambien de ubicación requerirán de nueva licencia sanitaria.
 
 ###### Artículo 596.
 
@@ -3685,7 +3721,9 @@ IV.- Por incumplimiento grave a las disposiciones de esta ley, sus reglamentos y
 
 V.- Por reiterada renuencia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta ley y demás disposiciones generales aplicables;
 
-VI.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la autoridad sanitaria, para otorgar la autorización;
+> <small>(REFORMADA P.O. 3 DE ABRIL DE 1998)</small>
+
+VI.- Cuando resulten falsos los dictámenes proporcionados por terceros autorizados;
 
 VII.- Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la autorización o haga uso indebido de ésta;
 
@@ -3744,6 +3782,10 @@ I.- Prenupciales;
 II.- De defunción;
 
 III.- De muerte fetal; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+III bis.- De exportación a que se refieren los artículos 287 y 288 de la Ley General de Salud; y
 
 IV.- Los demás que determine esta ley y sus reglamentos.
 
@@ -3855,19 +3897,27 @@ II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proce
 
 III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra podrá quedar en poder de la misma persona a disposición de la Secretaría de Salud estatal y tendrá el carácter de muestra testigo; la última muestra será enviada por la propia Secretaría al laboratorio autorizado y habilitado por ella para su análisis oficial;
 
-IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado, con acuse de recibo, al interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+> <small>(REFORMADA P.O. 3 DE ABRIL DE 1998)</small>
+
+IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los 30 días hábiles siguientes a la fecha de la toma de muestras;
 
 V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
 
 VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
-VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la Secretaría analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1998)</small>
 
-VIII.- El resultado de los análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
+VII.- La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, por su cuenta y cargo solicite a la autoridad sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale, en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite con valor probatorio pleno si el producto en cuestión reúne o no los requisitos y especificaciones sanitarias exigidos, y
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+VIII.- El resultado de los análisis de la muestra testigo, se le notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda;
 
 Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que dicho titular tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes. En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificador está obligado a enviar en condiciones adecuadas de conservación dentro del término de 3 días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial dentro de los 15 días hábiles siguientes a la notificación de resultados.
 
 El depositario de la muestra testigo será responsable solidario con el titular, si no conserva la muestra citada.
 
@@ -4017,21 +4067,29 @@ III.- Las condiciones socioeconómicas del infractor; y
 
 IV.- La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
+
 ###### Artículo 638.
 
-Se sancionará con multa equivalente hasta de cincuenta veces el salario mínimo diario vigente en el Estado, en el momento de la infracción, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 91, 109, 111, 125, 594, 597, 611, 612 y 613 de esta ley.
+Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 91, 109, 111, 125, 594, 597, 611, 612 y 613 de esta ley.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
 
 ###### Artículo 639.
 
-Se sancionará con multa equivalente de veinte hasta trescientas veces el salario mínimo diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 120, 595, 598, 620 y 631 de esta ley.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 120, 595, 598, 620 y 631 de esta ley.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
 
 ###### Artículo 640.
 
-Se sancionará con multa equivalente de cien a quinientas veces el salario mínimo diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 87, 88, 102, 262 y 282 de esta ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 87, 88, 102, 262 y 282 de esta ley.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1998)</small>
 
 ###### Artículo 641.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente de cien a ochocientas veces el salario mínimo diario vigente en el Estado, en el momento de la infracción, atendiendo a las reglas de calificación que se establecen en el artículo 637 de esta ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, atendiendo a las reglas de calificación que se establecen en el artículo 637 de esta ley.
 
 ###### Artículo 642.
 
@@ -4055,7 +4113,11 @@ IV.- Cuando se compruebe que las actividades que se realicen en un establecimien
 
 V.- Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud; y
 
-VI.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+VI.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+VII.- Por reincidencia en tercera ocasión.
 
 ###### Artículo 645.
 
@@ -4274,3 +4336,9 @@ P.O. 22 DE DICIEMBRE DE 1994.
 Primero.- El presente Decreto entrará en vigor quince días después de la fecha en que aparezca publicado en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en este Decreto.
+
+P.O. 3 DE ABRIL DE 1998.
+
+Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
