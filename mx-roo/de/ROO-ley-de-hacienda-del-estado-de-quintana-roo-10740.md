@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2003-04-15"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -587,23 +587,35 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 39.
 
-Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y dependencia de un patrón o terceros.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista o terceros.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo honorarios asimilables a salarios, comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
-También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles, así como los rendimientos y anticipos que obtengan los miembros de sociedades cooperativas de productores de bienes y/o servicios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Son también objeto de este impuesto las erogaciones hechas de manera ocasional en contratos por eventos o servicios determinados.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
 
 ###### ARTICULO 40.
 
 Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
+Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
@@ -638,6 +650,18 @@ El pago provisional será la cantidad que resulte de aplicar a los conceptos a q
 ###### ARTICULO 43-B.
 
 El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración, que se presentará ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que se les solicite en la forma que al efecto apruebe la Secretaría de Hacienda del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+La declaración del ejercicio se sujetará a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+I.- Cuando los contribuyentes inicien actividades a partir del 1° de enero, presentarán declaración del ejercicio del 1° de enero al 31 de diciembre de ese ejercicio, aún que no hubiese finalizado el ejercicio fiscal con actividades, y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+II.- Cuando los contribuyentes inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -707,7 +731,9 @@ III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse solo para efectos de control.
 
-V.- Las personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, además deberán hacer sus pagos en la oficina recaudadora que corresponda a su jurisdicción.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+V.- Las personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además deberán hacer sus pagos en la Oficina Recaudadora de Rentas que corresponda a su Jurisdicción.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -720,6 +746,10 @@ VII.- Las personas físicas o morales que para efectos de impuestos federales te
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VIII.- Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias. Asimismo, cuando por motivo del ejercicio de las facultades de comprobación fiscal deberán presentarse declaraciones de corrección por los períodos omitidos.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+IX.- Para los efectos previstos en el artículo 40 segundo párrafo de esta Ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE 1995)</small>
 
@@ -747,9 +777,9 @@ Las personas a que se refiere el artículo anterior, están obligadas a presenta
 
 BIS.- Las dependencias y organismos auxiliares de la Administración Pública Estatal y los Municipios que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Para determinar la cantidad a retener tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el Artículo 42, de la misma Ley, por cada anticipo o pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta del pago final y hasta la terminación de la obra.
+Para determinar la cantidad a retener se tomará como base del Impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma Ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
 
 EI pago del impuesto retenido, deberá efectuarse dentro del (sic) los 10 días siguientes del mes en que se efectuó la retención, mediante declaración provisional en las formas aprobadas por la propia Secretaría.
 
@@ -810,6 +840,10 @@ XI.- Cuotas obrero patronales efectuadas por el patrón al INFONAVIT, SAR, IMSS,
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 XII.- La alimentación, la habitación y las despensas cuando se cobren al trabajador.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XIII.- Las remuneraciones cubiertas a trabajadores con capacidades diferentes, siempre que acrediten esta calidad mediante certificado expedido por un Organismo de Salud Pública competente y credencial del DIF correspondiente. Los certificados emitidos por particulares se considerarán improcedentes.
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1791,31 +1825,37 @@ Será base de este impuesto, el total de los ingresos que perciba el sujeto de e
 
 #### SECCION CUARTA. DEL (SIC) LA TASA, DEL PAGO Y OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 147.
 
-Este impuesto se pagará anualmente dentro de los dos primeros meses del año siguiente a aquél en que se obtuvieron los ingresos, en las oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando la tasa del 0.5% sobre sus percepciones.
+Este impuesto se pagará anualmente durante el mes de mayo del año siguiente a aquel en que se obtuvieron los ingresos, en las oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando la tasa del 1% sobre el total de sus ingresos. Cuando sea el primer año de operación del contribuyente, el impuesto se pagará dentro de los dos meses siguientes a aquel en que inicie sus actividades, tomando en consideración para el cálculo del impuesto, la fecha del inicio de sus operaciones dentro del cuatrimestre del ejercicio que corresponda, aplicando la cuota fija de la siguiente distribución:
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+Zona 1.- Municipios de José María Morelos y Lázaro Cárdenas:
 
-Cuando el .5% sobre las percepciones sea inferior a 22 salarios mínimos vigentes en el estado, se pagará éste.
+Primer cuatrimestre 22 S.M.G.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Segundo cuatrimestre 16 S.M.G.
 
-Cuando sea el primer año de operación del contribuyente, el impuesto se pagará dentro de los dos meses siguientes a aquél en que inicie sus actividades, tomando en consideración para el cálculo del impuesto la fecha del inicio de sus operaciones dentro del cuatrimestre del ejercicio que le corresponda, aplicando la cuota fija de la siguiente:
+Tercer cuatrimestre 11 S.M.G.
 
-> <small>(REFORMADA TARIFA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Zona 2.- Municipios de Othón P. Blanco, Felipe Carrillo Puerto e Isla Mujeres:
 
-TARIFA
+Primer cuatrimestre 30 S.M.G.
 
-INICIO DENTRO DEL: CUOTA FIJA A PAGAR:
+Segundo cuatrimestre 24 S.M.G.
 
-PRIMER CUATRIMESTRE 22 S.M.G.
+Tercer cuatrimestre 19 S.M.G.
 
-SEGUNDO CUATRIMESTRE 16 S.M.G.
+Zona 3.- Municipios de Benito Juárez, Cozumel y Solidaridad:
 
-TERCER CUATRIMESTRE 11 S.M.G.
+Primer cuatrimestre 38 S.M.G.
+
+Segundo cuatrimestre 32 S.M.G.
+
+Tercer cuatrimestre 27 S.M.G.
+
+Cuando el 1% sobre las percepciones en cada jurisdicción sea inferior a los salarios determinados para el primer cuatrimestre, de acuerdo a la zona que corresponda, se pagará éste.
 
 ###### ARTICULO 148.
 
@@ -2009,9 +2049,9 @@ Están obligadas al pago del impuesto, las personas físicas y morales que en el
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
-#### SECCION CUARTA. DE LAS OBLIGACIONES
+#### SECCION TERCERA. DE LA TASA
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 168-F.
 
@@ -2057,9 +2097,23 @@ Para determinar el impuesto del ejercicio, se aplicará la tasa del impuesto al 
 
 Los contribuyentes presentarán declaración anual, dentro de los cuatro meses siguientes al cierre del ejercicio, ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, utilizando las formas oficiales aprobadas.
 
-#### SECCION TERCERA. DE LA TASA
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+La declaración del ejercicio se sujetará a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+I.- Cuando los contribuyentes inicien actividades a partir del 1° de enero, presentarán declaración del ejercicio del 1° de enero al 31 de diciembre de ese ejercicio, aún que no hubiese finalizado el ejercicio fiscal con actividades; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+II.- Cuando los contribuyentes inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+
+#### SECCION CUARTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 168-K.
 
@@ -2103,8 +2157,6 @@ En las declaraciones que se presenten en los términos del párrafo anterior, de
 
 Los contribuyentes que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
-
 ### CAPITULO I. DEL CONCEPTO
 
 #### SECCION PRIMERA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
@@ -2133,7 +2185,7 @@ Los contribuyentes que tengan varios establecimientos en el Estado, deberán con
 
 ### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
@@ -3781,51 +3833,21 @@ SEMESTRAL HASTA 81 S.M.G. HASTA 36 S.M.G.
 
 ANUAL HASTA 122 S.M.G. HASTA 72 S.M.G.
 
-II.- Las personas físicas y morales que lleven a cabo eventos de carácter ocasional, en los que además se realice la venta y consumo de bebidas alcohólicas, deberán contar con un permiso especial expedido por la Secretaría, de conformidad con el Artículo 5° fracción III de la Ley para el Control de Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, pagando un derecho por día para la Zona 1 de 8 hasta 40 S.M.G. y para la Zona 2 de 4 hasta 13 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Para los efectos de este artículo se consideran dentro de la Zona 1 los municipios de Benito Juárez, Solidaridad, Cozumel e Isla Mujeres; y dentro de la Zona 2 los municipios de Othón P. Blanco, Lázaro Cárdenas, José María Morelos y Felipe Carrillo Puerto.
+II.- Las personas físicas y morales que lleven a cabo eventos de carácter ocasional, en los que además se realice la venta y consumo de bebidas alcohólicas, deberán contar con un permiso especial expedido por la Secretaría, de conformidad con el artículo 5 fracción III de la Ley para el Control de Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, pagando un derecho diario de acuerdo a la siguiente tarifa:
 
-TARIFA
+Zona 1.-
 
-Zona 1 Zona 2
+A) Por cada caja de 24 cervezas. $ 19.00.
 
-S.M.G. S.M.G.
+B) Por cada botella de licor $ 20.00.
 
-Permiso para eventos,
+Zona 2.-
 
-sociales y Culturales
+A) Por cada caja de 24 cervezas. $ 14.00.
 
-que realicen los comités
-
-de vecinos, por día hasta 8 4
-
-Permiso para eventos
-
-deportivos, Sociales y
-
-culturales que realicen
-
-los ejidos, por día hasta 10 5
-
-Permiso para eventos
-
-deportivos, Sociales y
-
-culturales en general.
-
-Por día. Hasta 13 7
-
-Bailes públicos, kermeses,
-
-ferias y Eventos especiales,
-
-por día hasta 20 13
-
-Otros permisos, por día
-
-hasta 40 10
-
-Para los efectos de esta tarifa se consideran dentro de la Zona 1 los municipios de: Benito Juárez, Solidaridad, Cozumel e Isla Mujeres, y dentro de la Zona 2, los municipios de: Othón P. Blanco, Lázaro Cárdenas, José Ma. Morelos y Felipe Carrillo Puerto.
+B) Por cada botella de licor $ 15.00.
 
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
@@ -3833,15 +3855,11 @@ Para los efectos de esta tarifa se consideran dentro de la Zona 1 los municipios
 
 ###### ARTICULO 171.
 
-Las personas físicas y morales que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario, deberán solicitar su inscripción al Registro Estatal de Contribuyentes dentro de los treinta días siguientes en que se efectúe las situaciones que a continuación se señalan:
+Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes dentro de los treinta días siguientes a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Estado de Quintana Roo.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
-I.- Las personas morales residentes en México, a partir de que se firme su acta constitutiva.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II.- Las personas físicas, así como las morales residentes en el extranjero, desde que se realicen las situaciones jurídicas o de hecho. U obtengan ingresos derivados de sus actividades.
+II.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3853,17 +3871,13 @@ I.- Copia de su inscripción en el Registro Federal de Contribuyentes.
 
 II.- Croquis de la ubicación.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-III.- La inscripción al S.I.E.M.
+III.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 IV.- Patente original y copia, si expenden bebidas alcohólicas.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-V.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado se juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
 VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
@@ -4331,13 +4345,15 @@ CX.- Rentadoras de películas de videos, hasta 16 S.M.G.
 
 CXI.- Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará: hasta 53 S.M.G.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 173-A.
 
-Los contribuyentes que hayan adquirido patentes tendrán la obligación de solicitar dentro de los dos primeros meses de cada año la licencia de funcionamiento y el resello de las mismas presentando los documentos señalados en el artículo 175 de esta ley, para lo cual cubrirán un derecho en base a la siguiente:
+Los contribuyentes que hayan adquirido patentes para la venta o expendio de bebidas alcohólicas tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año, la licencia de funcionamiento y el resello de las mismas, presentando los documentos señalados en el artículo 175 de esta Ley, para lo cual cubrirán un derecho en base a lo siguiente:
 
 TARIFA
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 I.- Para los establecimientos ubicados en los municipios de Othón P. Blanco y Felipe Carrillo Puerto, por la:
 
@@ -4365,6 +4381,8 @@ e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros 
 
 f).- Venta de cervezas en envase abierto en cervecerías, hasta 48 S.M.G.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 II.- Para los establecimientos domiciliados en los municipios de José María Morelos y Lázaro Cárdenas.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
@@ -4391,6 +4409,8 @@ e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros 
 
 f).- Venta de cervezas en envase abierto en cervecerías, hasta 42 S.M.G.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 III.- Para los establecimientos domiciliados en el municipio de Isla Mujeres, por la:
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
@@ -4416,6 +4436,8 @@ e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 f).- Venta de cervezas en envase abierto en cervecerías, hasta 79 S.M.G.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV.- Para los establecimientos domiciliados en los municipios de Benito Juárez, Cozumel y Solidaridad, por la:
 
@@ -4687,6 +4709,10 @@ d) Licencia de motociclista 2.30 veces el S.M.G. vigente en el estado.
 
 e) Permiso provisional para manejar sin licencia por 30 días 1.15 veces el S.M.G. vigente en el estado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en el pago de los incisos anteriores a que se refiere esta fracción.
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por arrastre de grúa 9.57 veces el S.M.G. vigente en el estado.
@@ -4955,9 +4981,9 @@ La Secretaría de Hacienda del Estado, solicitará el apoyo de la Dirección de 
 
 Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Quintana Roo.
 
-### CAPITULO VIII. DE LA VERIFICACION Y CONTROL DE OBRA PUBLICA
+### CAPITULO VIII. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 179.
 
@@ -5097,21 +5123,21 @@ XI.- Constancias de Registro 5.75 S.M.G.
 
 XII.- Trámite de titulación 2.00 S.M.G.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ### CAPITULO XI. SERVICIOS SANITARIOS
 
 ###### ARTICULO 181.
 
-Por la verificación y control que las leyes en la materia encomiendan a la Secretaría de la Contraloría, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Contraloría y al Órgano Superior de Fiscalización del Estado, los contratistas con quienes se celebren los contratos de obra pública estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-Las dependencias y organismos auxiliares de la Administración Publica Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior.
-
-Se enterarán a la oficina recaudadora autorizada por la Secretaría de Hacienda del Estado, quien a su vez registrará todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+Las dependencias y organismos auxiliares de la administración pública estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina recaudadora autorizada por la Secretaría de Hacienda del Estado, quien a su vez registrará el 50% de todo lo recaudado por ese concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la obra pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría de Hacienda al Órgano Superior de Fiscalización del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 182.
 
@@ -5227,39 +5253,35 @@ XI.- En cualquier otro servicio no especificado. 0.35 S.M.G.
 
 ###### ARTICULO 185.
 
-Los notarios públicos del Estado o quienes ejerzan sus funciones, pagarán un derecho conforme a la siguiente:
+Los Notarios Públicos del Estado de Quintana Roo o quienes ejerzan sus funciones, pagarán un derecho conforme a la siguiente:
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 I.- Por expedición de testimonios de instrumentos y escrituras públicas, a razón de 8.05 S.M.G.
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
 II.- Por poderes, mandatos y testamentos. 8.08 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 III.- Por certificación de firmas 1.15 S.M.G.
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
 IV.- Por certificación de documentos 1.15 S.M.G.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 V.- Por certificación de otros actos 1.15 S.M.G.
 
 ###### ARTICULO 186.
 
-Por la búsqueda en el Archivo Notarial:
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-I.- Por la búsqueda 5.77 S.M.G.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II.- Por la copia simple (por foja) 0.35 S.M.G.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Por certificados por foja) (sic) 0.35 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 187.
 
-Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho de autorización del protocolo por: 17.25 S.M.G.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
 ### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
 
@@ -5501,9 +5523,7 @@ Toda persona que ejerza una profesión en el Estado está obligada a registrar s
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Notarios públicos por el registro de su nombramiento. 70.15 S.M.G.
+I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5605,6 +5625,10 @@ d).- Los derechos para obras de alumbrado público serán pagados por los propie
 
 Los derechos de cooperación serán causados al determinar las obras en cada tramo que se ponga en servicio y serán pagados en un plazo de dos años, que podrán ampliarse hasta cuatro, cuando los contribuyentes comprueben que su situación económica no les permite hacer el pago en el plazo fijado y siempre que la ampliación no exceda al termino estipulado para la autorización del financiamiento, si lo hubo.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Cuando no sea posible determinar el valor de las obras, se pagarán los derechos respectivos a razón de 30 pesos por metro lineal de frente a la obra que beneficia a dicho predio.
+
 ###### ARTICULO 199.
 
 Están exentos del pago de derechos de cooperación:
@@ -5653,9 +5677,9 @@ b) Si el valor es más de 907 S.M.G. se aplicará el 1% resultante.
 
 Lo anterior sin perjuicio de que si al aplicarse a la cantidad que excede de lo señalado en el inciso B, el 1.0%, resultará inferior a 9.2 veces el S.M.G. vigente en el Estado, se aplicará este último.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Por la inscripción de documentos donde conste la enajenación de terrenos otorgados por Corett; y la enajenación de vivienda de interés social y popular, siempre y cuando la superficie total de construcción no exceda de 55 metros cuadrados y la superficie del terreno no exceda de 200 metros cuadrados, 4.0 S.M.G.
+Por la inscripción de documentos donde conste la enajenación de terrenos otorgados por CORETT, INFOVIR; y la inscripción de títulos de propiedad a través de los cuales se haga constar la conversión a dominio pleno de parcelas ejidales y/o la enajenación de vivienda de interés social y popular, 4 S.M.G.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -5689,6 +5713,24 @@ Por la inscripción de instrumentos que traten donación, copropiedad entre fami
 
 III.- Por inscripción de la escritura constitutiva del régimen de la propiedad en condominio se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total del inmueble, en términos del Artículo 202 fracción I inciso b), de la ley de Hacienda Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Por modificación a la escritura del régimen de propiedad en condominio relativa a la ampliación en el número de unidades privativas se pagará de acuerdo a lo siguiente:
+
+a).- Por incorporación de lotes de terreno cuya superficie provocara el aumento de una sola unidad privativa, 12 S.M.G.
+
+b).- Cuando de la incorporación descrita en el inciso anterior se provoque el aumento en más de una unidad privativa, se pagará 6 S.M.G. a partir de la segunda y por cada una de ellas.
+
+c).- Por construcción de nuevas unidades privativas en la superficie del condominio o por la conversión de áreas comunes en unidades privativas, se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total de las nuevas unidades privativas, en términos del artículo 202 fracción I inciso b) de la Ley de Hacienda del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Por la disolución del Régimen de Propiedad en Condominio, así como por las (sic) inscripción de las Actas de Asambleas Generales de Condóminos o sesiones de los Comités de Vigilancia, 12 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Por la inscripción de las Actas de Asambleas Generales de Condóminos en la cuales se otorguen poderes a excepción de los que se otorgue a los miembros de los comités de vigilancia, independientemente del derecho fijado en el párrafo anterior, 5.75 S.M.G. si se designa un solo apoderado y 2.88 S.M.G. por cada apoderado más que se designe.
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV.- La inscripción de la escritura constitutiva y de los aumentos de capital de sociedades, por el importe del capital o de los aumentos del mismo.......................... 11.50 S.M.G.
@@ -5700,6 +5742,22 @@ La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, a
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 V.- La inscripción de cualquier modificación a la escritura constitutiva de sociedades civiles, excepto la disminución de capital social, 5.75 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+La inscripción de poderes y sustitución de los mismos
+
+a) Si se designa un solo apoderado, 5.75 S.M.G.
+
+b) Por cada apoderado más que se designe en el mismo poder, 2.88 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+El otorgamiento de poderes a los socios administradores de sociedades civiles en las escrituras constitutivas o modificaciones no causarán los derechos a que se refiere esta fracción.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+La inscripción de revocación de poderes por cada apoderado, 2.88 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5731,13 +5789,13 @@ VII.- La inscripción de créditos hipotecarios, refaccionarios y de habilitaci�
 
 Por la inscripción de contratos modificatorios de reestructuración, reconocimiento de adeudo o rectificaciones a inscripciones principales, cuando se refiera a modificaciones del monto del adeudo, crédito u operación que se realiza o cualesquiera otra que constituya renovación del contrato, se pagará por concepto de derechos la cantidad que resulte de aplicar la tasa del 0.2875% a la diferencia entre la inscripción original y el nuevo contrato. Lo anterior sin perjuicio de que si al aplicarse esta tasa a la cantidad que exceda del crédito original, los derechos resultaren inferioriores (sic) a 9.2 veces el S.M.G. vigente en el Estado se cubrirá este último monto. Cuando no exista diferencia se cubrirá el equivalente a 5.75 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-La inscripción de créditos con garantía hipotecaria destinadas para la vivienda de interés social o popular, cuando la superficie total de construcción no exceda de 55 metros cuadrados, la superficie del terreno no exceda de 110 metros cuadrados, 4 S.M.G.
+La inscripción de créditos con garantía hipotecaria y contratos de mutuo con garantía hipotecaria, otorgados por el ISSSTE, IMSS, INFOVIR, FOVI, FONHAPO, CORETT, BANOBRAS, ISFAN INFONAVIT y FOVISSSTE siempre y cuando sean destinados para la adquisición de vivienda de interés social o popular, 8.05 S.M.G.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-Por la inscripción de la dación en pago derivada de un crédito hipotecario para la construcción o adquisición de una vivienda, 11.70 S.M.G.
+Por la inscripción de la dación en pago derivada de un crédito hipotecario para la construcción o adquisición de una vivienda de interés social o popular, 11.70 S.M.G.
 
 Por la cancelación de alguno de los conceptos a que se refiere esta fracción, causarán derechos de:
 
@@ -5763,19 +5821,29 @@ VIII.- La inscripción de las demandas, el 50% de las cuotas que correspondan co
 
 La anotación marginal de las demandas relativas a los juicios que se tramiten en las distintas instancias....... 5.75 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+La anotación marginal de demanda a que se refieren los artículos 644-C, 644-F y 644-H del Código de Procedimientos Civiles del Estado de Quintana Roo, causará derechos sobre una tarifa del 1% sobre el valor total de las prestaciones líquidas descritas en la demanda inicial.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 Por la cancelación de estos conceptos --- 5.75. S.M.G.
 
 IX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-X.- La inscripción de la constitución del patrimonio de familia y de las informaciones ad perpetuam causarán los siguientes derechos:
+X.- La inscripción de la constitución del patrimonio de familia y de las informaciones ad perpetuam, que no se refieran a la posesión de inmuebles, causarán los siguientes derechos: (REF. 99)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 a).- En los Municipios de Benito Juárez, Isla Mujeres, Cozumel y Solidaridad 10 S.M.G.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
 b).- En los Municipios de Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos y Lázaro Cárdenas 5 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 Por la cancelación de estos conceptos 5.75 S.M.G.
 
@@ -5789,7 +5857,9 @@ XII.- Tratándose de bienes muebles, la inscripción de la condición resolutori
 
 Por la cancelación de estos conceptos.............. 5.75 S.M.G.
 
-XIII.- La inscripción de fraccionamiento de terrenos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XIII.- La inscripción de fraccionamiento de terrenos o subdivisión de inmuebles:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5863,6 +5933,10 @@ XVIII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 XIX.- La búsqueda en los índices para la expedición de constancia de no propiedad y propiedad, por cada nombre buscado 5.75 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+La expedición de certificados de libertad o existencia de gravamen 5.75 S.M.G. (REF. 96), por cada inmueble a que se refiera.
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XX.- La expedición de copias certificadas relativas a las inscripciones que obran en los libros, causarán los derechos conforme a lo siguiente:
@@ -5875,7 +5949,9 @@ XXI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 XXII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-XXIII.- Por la inscripción de los contratos de arrendamiento en general, por cada uno:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XXIII.- Por la inscripción de los contratos de arrendamiento, contratos de comodato o cualquier otro que tenga por objeto el préstamo de uso de inmuebles, por cada uno:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5907,6 +5983,10 @@ XXVI.- La inscripción de fideicomisos de administración causará derechos conf
 
 XXVII.- Por la anotación marginal que se realiza respecto a la compraventa con gravamen 5.75 S.M.G.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XXVIII.- Por los demás servicios no previstos en este artículo, 9.2 S.M.G.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 202.
@@ -5915,9 +5995,7 @@ Para el cobro de los derechos que establece el artículo anterior, se observará
 
 I.- Se tendrá como valor para los efectos de la aplicación de las tasas, en los casos a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX, XII, XV, XVI, XVII, XVIII, del artículo anterior en sus respectivos casos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-a).- Tratándose de patrimonio familiar, el de la zona en que se encuentren los bienes que lo constituyan.
+a).- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -5937,9 +6015,13 @@ Tratándose de vivienda de interés social, será base para la determinación de
 
 Para los efectos de esta ley se considera:
 
-La Vivienda de Interés Social es aquella cuyo, valor al término de su edificación no exceda de la suma que resulte de multiplicar por 15 al salario mínimo general elevado al año, vigente en el Estado.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-La Vivienda Popular es aquella cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año vigente en el Estado.
+La Vivienda de Interés Social es aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 al salario mínimo general elevado al año, vigente en el Estado y además no exceda de 55 metros cuadrados de construcción y la superficie del terreno no exceda de 200 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+La Vivienda Popular es aquella cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el Estado y además no exceda de 55 metros cuadrados de construcción y la superficie del terreno no exceda de 200 metros cuadrados.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5965,7 +6047,9 @@ VI.- Cuando se trate de contratos o resoluciones que se refieran a prestaciones 
 
 VII.- El personal adscrito al Registro Público de la Propiedad y del Comercio, verificará en base a lo dispuesto por esta Ley, que el monto a pagar por los servicios que preste esa dependencia, sea el correcto.
 
-Los notarios públicos anexarán al formato de pago copia del instrumento y del avalúo que fue la base para la determinación del derecho.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Los Notarios Públicos anexarán al formato de declaración de pago de derechos, copia del instrumento del avalúo que fue la base para la determinación del derecho y cédula catastral actualizada o avalúo catastral.
 
 VIII.- Los certificados, inscripciones y demás servicios que se soliciten por las autoridades fiscales del Estado, causarán los derechos que correspondan conforme a las disposiciones de este artículo y el anterior, pero éstos se harán efectivos dentro del procedimiento administrativo de ejecución, como parte del crédito fiscal.
 
@@ -5973,7 +6057,9 @@ VIII.- Los certificados, inscripciones y demás servicios que se soliciten por l
 
 No se causarán los derechos a que se refiere el artículo anterior:
 
-I.- Cuando se trate de inscripciones relativas a bienes inmuebles o derechos reales pertenecientes a la Nación, al Gobierno del Estado, a los otros Estado (sic) en caso de reciprocidad y los Municipios, si dichas entidades la solicitan.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+I.- Cuando se trate de inscripciones relativas a la traslación del dominio de bienes inmuebles, o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los otros Estados en caso de reciprocidad y los Municipios, si dichas entidades lo solicitan ante la Secretaría de Hacienda del Estado.
 
 II.- Los informes o certificaciones que soliciten las entidades a que se refiere la fracción anterior, para fines que no sean fiscales.
 
@@ -5991,9 +6077,7 @@ II.- La inscripción de matrícula
 
 a) Por cada comerciante individual.......... 5.75 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b) Por cada sociedad mercantil.............. 6.90 S.M.G.
+b) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -6067,11 +6151,7 @@ a) Por inscripción........................... 5.75 S.M.G.
 
 b) Por cancelación......................... 3.45 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-XVII.- Inscripción de créditos hipotecarios, refaccionarios y de habilitación y avío y contratos de mutuo con intereses y garantía hipotecaria, otorgados por el ISSSTE, IMSS, INVIQROO, FOVI, FONHAPO, CORETT, BANOBRAS, ISSFAN, INFONAVIT Y FOVISSSTE.................... 8.05 S.M.G
-
-Por cancelación de alguno de los conceptos a que se refiere esta fracción........................... 5.75 S.M.G.
+XVII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6112,6 +6192,10 @@ a) Por primera hoja............................ 4.03 S.M.G.
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 b) Por cada hoja excedente.......................... 1.73 S.M.G.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XXIV.- Por los demás servicios no previstos en este artículo, 9.2 S.M.G.
 
 ###### ARTICULO 205.
 
@@ -6205,7 +6289,9 @@ d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 207-A.
 
@@ -6259,7 +6345,7 @@ Las personas físicas o morales que requieran del servicio especial, lo solicita
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO UNICO
 
 ###### ARTICULO 207-H.
 
@@ -6385,15 +6471,57 @@ XXVII (SIC).- Reconocimiento de validez oficial de estudios a particulares para 
 
 XXVIII (SIC).- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno. 1.20 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Los derechos de inspección y vigilancia por cada ciclo escolar o semestre, deberán ser enterados a la Secretaría de Hacienda a través de sus oficinas autorizadas en un plazo no mayor a los diez días en que se generaron.
+
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
-### CAPITULO III. MULTAS
+### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
 ###### ARTICULO 207-I.
 
 Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO III. MULTAS
+
+###### Artículo 207-J.
+
+Quienes soliciten los servicios de la Dirección General de Notarías, pagarán un derecho conforme a lo siguiente:
+
+I. Por la expedición del segundo o ulterior testimonio de Escrituras Públicas o Actas Notariales. 30 S.M.G.
+
+II. Por la expedición de constancias. 5.75 S.M.G.
+
+III. La expedición de copias certificadas, causará los derechos conforme a lo siguiente:
+
+a) Por la primera hoja 4.03 S.M.G.
+
+b) Por cada hoja excedente 1.73 S.M.G.
+
+IV. La búsqueda en el Archivo de la Dirección General de Notarías, por cada nombre. 5.75 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 207-K.
+
+Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho:
+
+I. Por la autorización de cada libro del protocolo 18 S.M.G.
+
+II. Por la autorización de 200 fojas foliadas del protocolo abierto especial 18 S.M.G.
+
+III. Por la reposición de sello de las Notarías Públicas 6 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 207-L.
+
+Por registro de patente de notario público pagará 75 S.M.G.
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
@@ -6558,6 +6686,12 @@ Los aprovechamientos no especificados en este título se recaudarán de conformi
 ###### ARTICULO 227.
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será como mínimo un 20% del valor de este, y se exigirá independientemente del monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 227-A.
+
+Los notarios públicos deberán otorgar y mantener vigente una garantía a favor del Gobierno del Estado de Quintana Roo por la cantidad de 1000 S.M.G. vigente en la entidad. Dicha garantía deberá depositarse en efectivo ante la Recaudadora de Rentas de su jurisdicción y actualizarse en el mismo porcentaje en que se modifique el citado Salario Mínimo, dentro de los treinta días siguientes a la fecha en que se publique la modificación del Salario en el Diario Oficial de la Federación.
 
 ## TITULO VI. INGRESOS EXTRAORDINARIOS
 
@@ -6890,3 +7024,79 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se dejan sin efectos todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2003.
+
+PRIMERO.- En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes impuestos y derechos:
+
+I.- IMPUESTOS
+
+1. Al comercio y la industria.
+
+2. Sobre productos y rendimientos de capital (parcialmente).
+
+3. Sobre la enajenación de vehículos de motor y bienes muebles entre particulares.
+
+4. Sobre la compraventa de primera mano de productos agrícolas.
+
+5. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre compraventa de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+7. Sobre la cría de ganado.
+
+8. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas (parcialmente).
+
+10. Sobre la explotación y venta de primera mano de diversos materiales para la construcción.
+
+II.- DERECHOS
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales e industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios o carteles para la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro público de la propiedad y del comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estado (sic) y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las característica (sic) de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Tratándose de empresas dedicadas a la construcción que deseen efectuar la contribución del impuesto sobre nóminas en una sola exhibición en forma anticipada, siempre y cuando se tratare de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación del costo de mano de obra por metro cuadrado para obra privada, mismo que se publica de forma anual a petición de la Dirección de Afiliación y Cobranza del Instituto Mexicano del Seguro Social.
+
+TERCERO.- Los contribuyentes del Impuesto al Hospedaje, cuando presten servicios bajo el sistema denominado "TODO INCLUIDO", por el cual el pago de la contra prestación contemple servicios adicionales al de hospedaje, tales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue y deberán cumplir con las obligaciones que se establecen en el Capítulo XII-A del Titulo II de la Ley de Hacienda del Estado, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio del hospedaje y desglosarlo en el comprobante que ampare los servicios prestados. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema "Todo Incluido", sin que en ningún caso pueda ser inferior al 50% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+
+CUARTO.- Debido a la reforma realizada al artículo 172 de esta Ley, todas las personas físicas y morales que renoven(sic) su licencia de funcionamiento en los años 2003 y 2004, tendrán una vigencia a partir de la renovación de la misma y finalizará cuando el contribuyente presente el aviso de baja ante la Secretaría de Hacienda.
+
+QUINTO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+SEXTO.- El presente decreto entrará en vigor a partir del 1º de enero de 2004, previa publicación en el Periódico Oficial del Estado.
