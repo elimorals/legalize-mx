@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-municipal-del-estado-de-colima-28572"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-01-11"
-last_updated: "2003-01-11"
+last_updated: "2004-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -175,11 +175,17 @@ Las demás disposiciones fiscales se aplicarán utilizando cualquier método de 
 
 Las contribuciones se causarán conforme se realizan las situaciones jurídicas o de hecho previstas en las leyes fiscales vigentes durante el lapso en que ocurran. Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad a su causación.
 
-La recaudación proveniente de todos los ingresos del municipio se hará por la Tesorería o por las oficinas que la misma autorice.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+La recaudación proveniente de todos los ingresos del municipio se hará por la Tesorería o por las oficinas que la misma autorice. La Tesorería podrá establecer oficinas o módulos de atención automatizados, permanentes o temporales, fuera de sus instalaciones, previo acuerdo del Cabildo respectivo.
 
 ###### ARTICULO 12.
 
 Las contribuciones se pagan en las fechas o dentro de los plazos señalados en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse dentro de los quince días hábiles siguientes a la realización del hecho o acto que motivó la obligación de pago y ante las oficinas autorizadas.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas o módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
 Quien haga pago de contribuciones o créditos fiscales deberá obtener de la oficina autorizada el recibo oficial o la forma aprobada por la Tesorería.
 
@@ -194,6 +200,10 @@ Ningún ingreso podrá recaudarse si no está previsto en las leyes, decretos o 
 ###### ARTICULO 15.
 
 La circunstancia de que por error de determinación y liquidación se deje de cobrar alguna cantidad por concepto de créditos fiscales, no exime a los contribuyentes de pagar la diferencia que resulte a cargo de éstos al descubrirse la equivocación, juntamente con sus accesorios.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el artículo 12 del presente ordenamiento.
 
 ###### ARTICULO 16.
 
@@ -1378,3 +1388,9 @@ Por lo tanto mando se imprima publique, circule y observe.
 Dado en Palacio de Gobierno a los 10 días del mes de enero de 2003.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO:</small>
+
+P.O. 16 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
