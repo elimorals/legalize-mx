@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-7845"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-12"
-last_updated: "1994-12-29"
+last_updated: "2001-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 12 de noviembre de 1992.
 
@@ -187,7 +187,9 @@ A fin de cumplir con los objetivos del artículo 18 de este ordenamiento, la Sec
 
 I.- Fomentar el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos y lugares de interés para el turismo;
 
-II.- Promover y gestionar ante autoridades federales, estatales y municipales la dotación de infraestructura y servicios urbanos en los centros de interés turístico;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+II.- Promover y gestionar ante autoridades federales, estatales y municipales la dotación de infraestructura y servicios urbanos con las adecuaciones necesarias para ser utilizados por personas discapacitadas, en los centros de interés turístico;
 
 III.- Impulsar la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que, por sus características físicas o culturales, representen un potencial turístico;
 
@@ -195,7 +197,13 @@ IV.- Promover, en coordinación, con la dependencia del ramo, el rescate y prese
 
 V.- Gestionar e impulsar los servicios de transportación exclusiva para el turismo que requieran los destinos en operación y las zonas en desarrollo; y
 
-VI.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios colaterales que requieran los turistas.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+VI.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios colaterales que requieran los turistas, en especial los turistas que padezcan algún tipo de discapacidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Promover la actividad turística en general y particularmente en el turismo social al sector de los discapacitados, estableciéndose los planes y programas que beneficien y otorguen un servicio humano y de calidad para ellos.
 
 ###### ARTICULO 21.
 
@@ -217,9 +225,11 @@ La Secretaría promoverá la formación de patronatos y asociaciones para la org
 
 Los patronatos, asociaciones, comités y demás organizaciones que se formen con el fin de promover y fomentar el turismo, recibirán apoyo y asesoría de la Secretaría y de las dependencias, entidades estatales y municipales.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 26.
 
-La Secretaría celebrará convenios con los prestadores de servicios turísticos con el objeto de promover el turismo social, mediante la determinación de paquetes y tarifas reducidos.
+La Secretaría celebrará convenios con los prestadores de servicios turísticos con el objeto de promover el turismo social, mediante la determinación de paquetes y tarifas reducidos; entendiendo por turismo social, además de la clasificación de la clase trabajadora y en general al de bajos recursos, a aquél sector de personas que requieran atenciones especiales por sufrir alguna discapacidad.
 
 ###### ARTICULO 27.
 
@@ -253,7 +263,13 @@ IV.- Relación pormenorizada de los diferentes sitios de interés Turístico en 
 
 V.- Cuadros informativos, mapas, guías y demás documentos y datos necesarios para la identificación de los centros y lugares turísticos del Estado; y
 
-VI.- Los demás aspectos que sean necesarios para contar con un sistema completo y actualizado de información turística.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+VI.- Relación de los sitios de interés turístico del Estado, que cuentan con la infraestructura necesaria para recibir turistas discapacitados; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Los demás aspectos que sean necesarios para contar con un sistema completo y actualizado de información turística.
 
 ###### ARTICULO 31.
 
@@ -339,17 +355,17 @@ VI.- Obtener de la Secretaría los apoyos y gestiones necesarios ante dependenci
 
 VII.- Participar en los programas de capacitación turística que organice la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 41.
 
-Los prestadores de servicios turísticos en el Estado, deberán:
+Los Prestadores de Servicios Turísticos en el Estado, deberán:
 
 I.- Proporcionar los bienes y servicios que ofrezcan en los términos convenidos y de conformidad con lo dispuesto por la Ley Federal de Turismo, esta Ley y demás ordenamientos que de ambas se deriven;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-II.- Anunciar ostensiblemente en los lugares de acceso al establecimiento, sus precios y tarifas y los servicios que estos incluyen;
+II.- Anunciar ostensiblemente en los lugares de acceso al establecimiento sus precios y tarifas y los servicios que estos incluyen, así como los señalamientos que indiquen que dicho establecimiento cuenta con la infraestructura necesaria para prestar servicio a personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -365,9 +381,9 @@ VI.- Garantizar ante la Secretaría el cumplimiento de las condiciones en que of
 
 VII.- Proporcionar a la Secretaría los datos e informes que les requiera, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-VIII.- Acatar las disposiciones legales existentes en materia de turismo, salud, prevención de delitos, protección al consumidor, y protección al medio ambiente;
+VIII.- Acatar las disposiciones legales existentes en materia de turismo, salud, prevención de delitos, protección al consumidor, protección al medio ambiente, apoyo y protección a personas con discapacidad;
 
 IX.- Capacitar a sus trabajadores con base en los programas autorizados;
 
@@ -375,9 +391,9 @@ X.- Emplear en todo caso y de manera destacada el idioma español en los anuncio
 
 XI.- Realizar su publicidad y ofrecer los servicios sin demérito de la dignidad nacional, sin alteración o falseamiento de los hechos históricos o de las manifestaciones de la cultura nacional y local;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
-XII.- Proporcionar los servicios turísticos, precios, tarifas y promociones, precisamente en los términos en los que fueron anunciados, ofrecidos por la publicidad o pactados, sin inducir el error a los turistas;
+XII.- Proporcionar los servicios turísticos, precios, tarifas y promociones, precisamente en los términos en los que fueron anunciados, ofrecidos por la publicidad o pactados, sin inducir el error a los turistas; y
 
 XIII.- Mantener sus instalaciones en condiciones óptimas de servicio e higiene.
 
@@ -385,9 +401,13 @@ XIII.- Mantener sus instalaciones en condiciones óptimas de servicio e higiene.
 
 Compete a la Secretaría la protección integral al turista, a efecto de lo cual deberá:
 
-I.- Organizar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección a quiénes visitan la Entidad, en coordinación con las dependencias que concurran en tales objetivos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+
+I.- Organizar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección a quiénes visitan la Entidad, así como a los propios residentes de ésta y que con motivo de la prestación de un servicio clasificado como turístico adquieran la calidad de Turistas, en coordinación con las dependencias que concurran en tales objetivos;
 
 II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 III.- Participar en todas aquellas acciones de auxilio a los turistas en casos de emergencias o desastres; y
 
@@ -737,9 +757,9 @@ C. LIC. JUAN VARGAS OCAMPO
 
 DIPUTADO SECRETARIO
 
-C. PROF. JOSE MORENO ESCOBEDO
+C- PROFR. JOSE MORENO ESCOBEDO
 
-JESUS RODRIGUEZ HERNANDEZ
+JESUS RODRÍGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
 
@@ -757,7 +777,7 @@ JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE DICIEMBRE DE 1994
 
@@ -768,3 +788,9 @@ Se derogan las disposiciones que se opongan a la presente Ley.
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 16 DE NOVIEMBRE DE 2001
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
