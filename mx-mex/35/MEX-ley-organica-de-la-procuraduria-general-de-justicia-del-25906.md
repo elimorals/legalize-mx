@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-25906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-23"
-last_updated: "2002-08-23"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de agosto del 2002.
 
@@ -199,7 +199,9 @@ d) Información, Estadística e Identificación Criminal;
 
 e) Jurídica y Consultiva;
 
-f) Servicios Periciales;
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2004)</small>
+
+f) El órgano administrativo desconcentrado denominado Instituto de Servicios Periciales del Estado de México;
 
 g) Policía Ministerial;
 
@@ -677,45 +679,21 @@ IX. Llevar a cabo el desarrollo de sus funciones exclusivamente en vehículos of
 
 X. Las demás que establezca el Reglamento de esta Ley.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 10 DE AGOSTO DE 2004)</small>
+
 #### SECCION SEGUNDA. De los peritos
 
 ###### Artículo 29.
 
-Los peritos actuarán bajo la autoridad y mando inmediato del Ministerio Público, sin perjuicio de la autonomía técnica e independencia de criterio que les corresponde en el estudio de los asuntos que se sometan a su dictamen, en términos del reglamento respectivo.
+(DEROGADO, G.G. 10 DE AGOSTO DE 2004)
 
 ###### Artículo 30.
 
-Para ingresar y permanecer como perito de la Procuraduría, se requiere:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II. Tener título legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables, no requiera título o cédula profesional para su ejercicio;
-
-III. No haber sido condenado por sentencia que haya causado ejecutoria, como responsable de un delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
-
-IV. Acreditar que se han cumplido los requisitos de ingreso relativos a la selección, formación y capacitación de los peritos del Ministerio Público, siendo requisito indispensable para acceder al cargo, la aprobación del concurso de ingreso en los términos de las disposiciones jurídicas aplicables;
-
-V. Ser de honradez y probidad notorias;
-
-VI. No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme en el desempeño de igual o similar cargo, como servidor público, en ésta o en cualquier otra entidad federativa o en la Administración Pública Federal;
-
-VII. En su caso, tener acreditado el servicio militar nacional;
-
-VIII. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
-
-IX. Los demás requisitos que establezcan las disposiciones legales y reglamentarias.
+(DEROGADO, G.G. 10 DE AGOSTO DE 2004)
 
 ###### Artículo 31.
 
-Son obligaciones de los Peritos, las siguientes:
-
-I. Auxiliar al Ministerio Público en aspectos técnicos en relación a su materia, en la búsqueda, preservación y obtención de indicios y pruebas tendientes a la acreditación de los elementos que integran el cuerpo del delito y la probable responsabilidad;
-
-II. Emitir, en la brevedad posible, los peritajes que correspondan, a requerimiento de la autoridad competente, apegándose a los criterios de objetividad e imparcialidad dentro del marco de la autonomía técnica propia de la función pericial;
-
-III. Ratificar en la mayor brevedad posible, ante la autoridad administrativa o judicial que corresponda, los dictámenes que rindan, en los términos de las disposiciones procesales aplicables; y
-
-IV. Las demás que establezca el Reglamento de esta Ley.
+(DEROGADO, G.G. 10 DE AGOSTO DE 2004)
 
 ### CAPITULO SEPTIMO. De los Directores Generales y sus Atribuciones
 
@@ -1596,3 +1574,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 10 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial. "Gaceta del Gobierno".
+
+SEGUNDO.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativos del Estado de México.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasarán a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
