@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-articulo-17-del-acuerdo-general-3-2002-del-24676
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-15"
-last_updated: "2002-05-15"
+last_updated: "2004-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24676&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-05-08"
 
 REGLAMENTO DEL ARTICULO 17 DEL ACUERDO GENERAL 3/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PARA LA IMPUGNACION DE LOS RESULTADOS Y CALIFICACION DE LOS EXAMENES DE APTITUD A QUE SE REFIERE EL ARTICULO 115 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 26/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LOS CURSOS DEL INSTITUTO DE LA JUDICATURA FEDERAL; FIJA LAS BASES PARA CELEBRAR Y ORGANIZAR LOS EXAMENES DE APTITUD A QUE SE REFIERE EL ARTICULO 115 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; ESTABLECE EL PROCEDIMIENTO PARA LA EXPEDICION DE NOMBRAMIENTOS DE SECRETARIOS DE TRIBUNAL DE CIRCUITO, DE JUZGADOS DE DISTRITO Y ACTUARIOS DEL PODER JUDICIAL DE LA FEDERACION; Y ABROGA EL ACUERDO GENERAL 3/2002 DEL PROPIO ORGANO COLEGIADO, PUBLICADO EN EL D.O.F. DE 17 DE MAYO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 15 de mayo de 2002.
 
@@ -86,3 +88,23 @@ PRIMERO.- El presente reglamento entrará en vigor el día siguiente de su publi
 SEGUNDO.- Publíquese este reglamento en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Reglamento del Artículo 17 del Acuerdo General 3/2002, del Pleno del Consejo de la Judicatura Federal, para la Impugnación de los Resultados y Calificación de los Exámenes de Aptitud a que se Refiere el Artículo 115 de la Ley Orgánica del Poder Judicial de la Federación, fue aprobado por el propio Pleno, en sesión de ocho de mayo de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a ocho de mayo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE MAYO DE 2004.
+
+PRIMERO.- El presente acuerdo entrará en vigor el primero de enero de dos mil cinco.
+
+SEGUNDO.- Se abrogan el Acuerdo General 3/2002 del Pleno del Consejo de la Judicatura Federal y el Reglamento del artículo 17 del citado acuerdo general 3/2002.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente acuerdo.
+
+CUARTO.- El Comité Académico del Instituto elaborará el Plan de Estudios de la Especialidad, con base en los lineamientos básicos que expida la Comisión. Dicho Plan de Estudios de la Especialidad, deberá estar elaborado a más tardar el dieciséis de agosto de dos mil cuatro.
+
+QUINTO.- En el mes de septiembre de dos mil cuatro, se remitirá el Plan de Estudios de la Especialidad a los Coordinadores de las extensiones del Instituto, a efecto de que, en coordinación con el claustro de profesores de cada una de ellas, elaboren los planes de Estudios del Curso para Secretarios. Los planes de Estudios del Curso para Secretarios de las extensiones, deberán remitirse al Instituto a más tardar el veintinueve de octubre de dos mil cuatro, para su aprobación y registro.
+
+El quince de noviembre de dos mil cuatro, deberán encontrarse aprobados la totalidad de los planes de Estudios del Curso para Secretarios que se impartirá en la sede central y las extensiones.
+
+SEXTO.- Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente acuerdo, subsisten en sus términos.
+
+SEPTIMO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
