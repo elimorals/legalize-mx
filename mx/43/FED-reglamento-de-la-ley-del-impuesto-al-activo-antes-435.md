@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-activo-antes-435"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-03-30"
-last_updated: "1990-05-15"
+last_updated: "1992-03-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=435&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-03-29"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de marzo de 1989.
 
@@ -69,23 +69,19 @@ REGLAMENTO DE LA LEY DEL IMPUESTO AL ACTIVO
 
 Cuando en este Reglamento se haga referencia a la Ley, se entenderá que se trata de la Ley del Impuesto al Activo. Si se refiere al impuesto, será el que dicha Ley establece y en el caso en que se aluda a la Secretaría, será a la de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
 ###### ARTICULO 2o.
 
-Para los efectos del artículo 1o. de la Ley, no están obligados al pago del impuesto quienes otorguen el uso o goce temporal de bienes cuyos contratos de arrendamiento fueron prorrogados en forma indefinida por disposición legal (rentas congeladas), por dichos bienes.
-
-Las personas físicas residentes en México que no realicen actividades empresariales y otorguen el uso o goce temporal de bienes a las personas a que se refiere el primer párrafo del artículo 6o. de la Ley, no estarán obligadas al pago del impuesto en relación con dichos bienes.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 3o.
 
 Para los efectos del impuesto son actividades empresariales de las personas físicas, las previstas en el Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 4o.
 
-Los contribuyentes que celebren contratos de obra inmueble con dependencias o entidades de la Administración Pública Federal, podrán considerar para los efectos del artículo 2o. fracción I de la Ley, las cuentas y documentos por cobrar, a partir de la fecha en que sean acumulables en los términos de la Ley del Impuesto sobre la Renta.
+Los contribuyentes que celebren contratos de obra inmueble, podrán considerar para los efectos del artículo 2o. fracción I de la Ley, las cuentas y documentos por cobrar, a partir de la fecha en que sean acumulables en los términos de la Ley del Impuesto sobre la Renta.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -109,17 +105,25 @@ d).- Tratándose de bienes adquiridos por prescripción, se determinará su mont
 
 Cuando para determinar el monto original de la inversión de un bien base de este impuesto, se deba realizar un avalúo en los términos de esta fracción, y éste se lleve a cabo con posterioridad a la entrada en vigor de este Reglamento, el contribuyente podrá acreditar el costo del avalúo contra los pagos provisionales del impuesto y el correspondiente al del ejercicio en que se efectuó dicho avalúo.
 
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 5o-A.
+
+Se considera que forman parte del valor del activo del arrendatario en el ejercicio de que se trate, los bienes que sean objeto de contratos de arrendamiento financiero, en los términos del Código Fiscal de la Federación.
+
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 6o.
 
 Para los efectos del artículo 2o. fracción II de la Ley, las personas físicas que otorguen el uso o goce temporal de inmuebles por los que deban pagar el impuesto podrán determinar el saldo por deducir de las construcciones, considerando que las mismas pierden valor a razón del 5% del monto original de la inversión, por cada año de calendario transcurrido desde la fecha de adquisición del inmueble o de la terminación de las construcciones, ampliaciones o mejoras, según sea el caso.
 
-> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Tratándose de inmuebles declarados o catalogados como monumentos artísticos, históricos o patrimoniales por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes, que cuenten con el certificado de restauración expedido por la autoridad competente, la pérdida de valor a que se refiere el párrafo anterior será del 10% del monto original de la inversión, por cada año transcurrido.
 
 ###### ARTICULO 6o-A.
 
-Para los efectos de lo dispuesto en el artículo 2o. de la Ley, los contribuyentes podrán no incluir en el valor de su activo el que corresponda a los bienes que se utilicen exclusivamente en actividades deportivas, cuando dicha utilización sea hecha sin finalidades de lucro o únicamente por sus socios o miembros, así como los que se empleen en la enseñanza, cuando quien la imparta cuente con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 7o.
 
@@ -137,11 +141,11 @@ La opción prevista en este artículo no se podrá ejercer respecto de los biene
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 10.
 
-Para determinar el impuesto a su cargo, las personas físicas que no realicen actividades empresariales, podrán aplicar en lugar del factor de actualización previsto en la fracción II del artículo 7o. de la Ley del Impuesto sobre la Renta, el factor correspondiente al número de años comprendidos en el período a que se refiere la actualización, de acuerdo con la tabla de ajuste establecida cada año por el Congreso de la Unión para ajustar el costo comprobado de adquisición y en su caso el importe de las inversiones hechas en construcciones, mejoras y ampliaciones de inmuebles en los términos de los artículos 99 de la Ley del Impuesto sobre la Renta.
+Las personas físicas que no realicen actividades empresariales, para determinar el impuesto a su cargo podrán aplicar en lugar del factor de actualización previsto en la fracción II del artículo 7o. de la Ley del Impuesto sobre la Renta, el factor correspondiente al número de años comprendidos en el periodo a que se refiere la actualización, de conformidad con la tabla de factores de activos fijos, gastos y cargos diferidos y de terrenos que dé a conocer la Secretaría mediante reglas de carácter general, en los términos de lo dispuesto por la fracción II y el penúltimo párrafo del artículo 12 de la Ley.
 
 ###### ARTICULO 11.
 
@@ -173,25 +177,45 @@ Para los efectos del artículo 5o. de la Ley, los contribuyentes podrán deducir
 
 Para los efectos del artículo 5o. de la Ley, cuando la asamblea de accionistas de una unión de crédito acuerde que la misma determine y pague el impuesto en los términos de la Ley y de este Reglamento, y cumpla las reglas que al efecto establezca la Secretaría mediante disposiciones de carácter general, los accionistas de dicha unión de crédito podrán deducir las deudas que tengan con la misma.
 
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 15-A.
+
+Para los efectos de lo dispuesto por el primer párrafo del artículo 5o-A de la Ley, los contribuyentes actualizarán el impuesto que les hubiera correspondido de no haber ejercido la opción a que se refiere el citado artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 16.
 
-Para los efectos del artículo 6o., segundo párrafo de la Ley, se considera ejercicio de inicio de actividades, aquél que el contribuyente comience a presentar, o deba comenzar a presentar, las declaraciones de pago provisional del impuesto sobre la renta, incluso cuando se presenten sin el pago de dicho impuesto.
+Para los efectos del penúltimo párrafo del artículo 6o. de la Ley, se considera ejercicio de inicio de actividades, aquél en que el contribuyente comience a presentar, o deba comenzar a presentar, las declaraciones de pago provisional del impuesto sobre la renta, incluso cuando se presenten sin el pago de dicho impuesto.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
 No se considerará ejercicio de inicio de actividades, cuando la obligación de comenzar a presentar las declaraciones de que se trata, sea consecuencia del cambio de régimen fiscal dispuesto imperativamente por La Ley.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 17.
 
-Los contribuyentes personas físicas que otorguen el uso o goce temporal de inmuebles, efectuarán los pagos provisionales del impuesto en forma cuatrimestral a más tardar el día 17 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas, en lugar de hacer dichos pagos provisionales en los plazos previstos en el artículo 7o. de la Ley.
+Los contribuyentes que en los términos del artículo 6o-A de la Ley opten por pagar por cuenta y orden de una empresa de comercio exterior el impuesto que a esta última le corresponda por los créditos que les otorguen, podrán deducir de dichos créditos, la parte de los promedios mensuales de los pasivos deducibles por la empresa en los términos de la Ley y este Reglamento, en la proporción en que el monto de los créditos concedidos al contribuyente representen respecto del total de créditos concedidos por la empresa a cualquier persona, en el periodo por el cual el contribuyente que pague el impuesto tenga el pasivo.
+
+Cuando se ejerza la opción, el contribuyente que pagó el impuesto podrá acreditar, en los términos del artículo 9o. de la Ley, contra el impuesto pagado por cuenta y orden de la empresa, una cantidad equivalente al impuesto sobre la renta a su cargo. En este caso, dicha empresa podrá acreditar contra el impuesto del ejercicio a su cargo el impuesto pagado por su cuenta y orden a que se refiere el párrafo anterior, ya sea que este último impuesto haya sido cubierto en efectivo o mediante el acreditamiento previsto en la Ley. En ningún caso la empresa de comercio exterior podrá solicitar la devolución del impuesto al activo que se hubiera pagado por su cuenta y orden.
+
+La opción a que se refiere este artículo se ejercerá mediante aviso que suscriban tanto la empresa de comercio exterior como el contribuyente que pague por su cuenta y orden el impuesto, mismo que se presentará ante la autoridad administradora que corresponda al domicilio de la empresa, en la forma oficial que al efecto apruebe la Secretaría.
 
 ###### ARTICULO 18.
 
 Cuando los contribuyentes estimen justificadamente que el impuesto del ejercicio será inferior en más de un 10% del impuesto actualizado determinado correspondiente al ejercicio regular inmediato anterior, previa autorización, podrán disminuir el monto de los pagos provisionales que les correspondan.
 
 La autorización respectiva se solicitará a la autoridad administradora del impuesto, correspondiente al domicilio del contribuyente, a más tardar el día 15 del primer mes del período por el que se solicite la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Los contribuyentes que hayan hecho dictaminar sus estados financieros correspondientes al ejercicio inmediato anterior, podrán disminuir sus pagos provisionales en los términos del presente artículo, siempre que dictaminen sus estados financieros relativos al ejercicio por el que se disminuyan los pagos provisionales y presenten aviso ante la autoridad competente en el que se haga constar dicha circunstancia. Lo establecido en este párrafo no es aplicable tratándose de contribuyentes que paguen el impuesto sobre la renta en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+También se podrán disminuir los pagos provisionales de las operaciones de asociación en participación y de fideicomisos con actividades empresariales, siempre que el asociante o fideicomitente, según sea el caso, dictaminen sus estados financieros, en los términos del párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -203,35 +227,35 @@ II.- La cantidad que resulte de disminuir al impuesto del ejercicio los pagos pr
 
 III.- EL importe que se obtenga conforme a la fracción anterior se comparará contra cada uno de los pagos provisionales disminuidos y cuando resulte que éstos se cubrieron en una cantidad menor a ese importe, por la diferencia se cubrirán recargos en los términos del Código Fiscal de la Federación. No se pagarán recargos cuando dicha diferencia sin actualizar no exceda del 5% del pago efectuado.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 19.
 
-En los casos en que las asociaciones civiles posean exclusivamente un bien inmueble y siempre que se destine para casa habitación de alguno de sus integrantes, estarán relevadas de efectuar el pago del impuesto al activo, en relación con dicho inmueble.
+En los casos en que las asociaciones o sociedades civiles posean exclusivamente un bien inmueble, el cual se destine para casa habitación de alguno de sus integrantes, estarán relevadas de efectuar el pago del impuesto al activo, en relación con dicho inmueble.
 
-> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 19-A.
 
-Quedan relevados de efectuar los pagos provisionales a que se refiere el artículo 7o. de la Ley, los contribuyentes personas físicas que otorguen el uso o goce temporal de inmuebles a personas morales que les retengan el 10% sobre el monto del pago correspondiente, siempre que éstas no hubieran ejercido la opción prevista en el artículo 25 de este Reglamento, así como aquéllos que no están obligados a efectuar pagos provisionales en el impuesto sobre la renta de conformidad con lo dispuesto por el artículo 92 de la Ley del Impuesto sobre la Renta.
+Los contribuyentes personas físicas que otorguen el uso o goce temporal de inmuebles a personas morales quedan relevadas de efectuar los pagos provisionales a que se refiere al artículo 7o. de la Ley, por lo que respecta a dichos inmuebles, siempre que éstas no hubieran ejercido la opción prevista en el artículo 25 de este Reglamento, así como aquéllos que no estén relevados a presentar declaraciones provisionales del impuesto sobre la renta en los términos del artículo 92 de la Ley del Impuesto sobre la Renta.
 
-En el primero de los supuestos a que se refiere el párrafo anterior, los contribuyentes estarán obligados a pagar el total del impuesto del ejercicio en la declaración anual y podrán acreditar contra el mismo, el impuesto sobre la renta efectivamente pagado que corresponda a los ingresos provenientes por otorgar el uso o goce temporal de inmuebles, determinado este último en los términos del artículo 22, primer párrafo, de este Reglamento.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+En los supuestos a que se refiere el párrafo anterior, los contribuyentes estarán obligados a pagar el total del impuesto del ejercicio en la declaración anual y podrán acreditar contra el mismo, el impuesto sobre la renta efectivamente pagado que corresponda a los ingresos provenientes por otorgar el uso o goce temporal de inmuebles.
 
 ###### ARTICULO 19-B.
 
-Se tendrá por pagado el impuesto al activo a cargo de las personas físicas a que se refiere el artículo 137-C del Reglamento de la Ley del Impuesto sobre la Renta, cuando éstas paguen el citado impuesto sobre la renta en los términos de dicho precepto.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 20.
 
-Las sociedades mercantiles que en los términos del artículo 57-K, fracción IV de la Ley del Impuesto sobre la Renta, presenten la declaración específica de consolidación del ejercicio, podrán optar por determinar en forma consolidada el impuesto del ejercicio por todas aquellas empresas cuyo resultado fiscal hubiese sido incluido en la referida declaración, de acuerdo con las reglas de carácter general que al respecto dicte la Secretaría.
+Para los efectos de lo dispuesto por el artículo 8o-A de la Ley, tratándose de una asociación en participación o de un fideicomiso a través del cual se realicen actividades empresariales, los asociados, así como los fideicomisarios, podrán acreditar el impuesto sobre la renta a su cargo contra el impuesto al activo del ejercicio que por su cuenta haya sido efectivamente pagado por el asociante o el fiduciario, según sea el caso, en los términos de la Ley y este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+REFORMADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 21.
 
-Para los efectos del artículo 9o. de la Ley, los contribuyentes cuya actividad preponderante sea la construcción de obras públicas o la enajenación de lotes en fraccionamientos o parques industriales, podrán acreditar, en los cinco ejercicios siguientes, una cantidad equivalente al impuesto sobre la renta del ejercicio efectivamente pagado que no hubieran podido acreditar contra el impuesto a su cargo en el mismo ejercicio. Lo dispuesto en este artículo será aplicable también a los concesionarios de la operación de carreteras.
+Para los efectos del artículo 9o. de la Ley, los residentes en el extranjero que sean contribuyentes del impuesto podrán acreditar contra el mismo, el impuesto sobre la renta que les haya sido retenido en los términos de los artículos 14 y 149 de la Ley del Impuesto sobre la Renta.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -247,41 +271,31 @@ l .- En el caso de que en el ejercicio deduzcan la inversión de bienes en los t
 
 Cuando el importe de la reducción del impuesto que proceda en los términos de esta fracción, sea superior al impuesto que sin efectuar la reducción hubiera correspondido en el ejercicio, por la diferencia se podrán reducir los pagos provisionales del impuesto, así como el del ejercicio, correspondientes a los cinco ejercicios siguientes, para lo cual se actualizará multiplicándola por el factor de actualización correspondiente al período comprendido desde el último mes del ejercicio en que se determinó la reducción hasta el mes inmediato anterior a aquél en que se aplique contra los pagos provisionales del impuesto.
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
 
-II.- En el caso de que en el ejercicio tengan una reducción del impuesto sobre la renta en los términos de los artículos 13 y 143 de la Ley que establece dicho impuesto y opten por pagarlo conforme al régimen simplificado contenido en la Sección II del Capítulo VI del Título IV de la Ley de la materia, en lugar de efectuar la reducción en la forma señalada por el artículo 2o-A de la Ley, podrán efectuarla aplicando el porciento que corresponda conforme a los artículos de la Ley del Impuesto sobre la Renta antes citados.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+II.- Cuando en el ejercicio tengan una reducción del impuesto sobre la renta en los términos de los artículos 13 y 143 de la Ley que establece dicho impuesto y lo paguen conforme al régimen simplificado contenido en el Título II-A o en la Sección II del Capítulo VI del Título IV de la Ley de la materia, en lugar de efectuar la reducción en la forma señalada por el artículo 2o-A de la Ley, podrán efectuarla aplicando el porciento que corresponda conforme a los artículos de la Ley del Impuesto sobre la Renta antes citados.
 
 ###### ARTICULO 23-A.
 
-Los contribuyentes personas físicas que opten en el impuesto sobre la renta por el régimen simplificado, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de 200 millones de pesos, podrán determinar el impuesto al activo aplicando la tasa del 2% considerando el valor de los bienes que hubieran asentado en la relación de bienes y deudas formulada para los efectos del impuesto sobre la renta al 31 de diciembre del ejercicio por el que se calcule el impuesto, sin deducción alguna.
-
-Los contribuyentes a que se refiere este artículo, deberán efectuar pagos provisionales bimestrales a cuenta del impuesto del ejercicio a más tardar el día 17 del mes inmediato posterior al bimestre que corresponda, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará dividiendo entre 6 el impuesto actualizado que correspondió al ejercicio regular inmediato anterior. El impuesto de dicho ejercicio se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el último mes del penúltimo ejercicio inmediato anterior hasta el último mes del ejercicio inmediato anterior a aquél por el cual se calcule el impuesto.
-
-Cuando se trate del primer ejercicio en el que los contribuyentes deban efectuar pagos provisionales, los calcularán considerando el impuesto que les correspondería si hubieran estado obligados al pago.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 24.
 
-Los contribuyentes del impuesto que reciban créditos de una empresa de comercio exterior residente en México y registrada ante la Secretaría de Comercio y Fomento Industrial, cualquiera que sea la naturaleza de los créditos, podrán optar por pagar por cuenta y orden de la empresa, el impuesto que a ésta última le corresponda por tales créditos. Para lo cual podrán deducir de los créditos, la parte de los promedios mensuales de los pasivos deducibles por la empresa en los términos de la Ley y este Reglamento, en la proporción en que el monto de los créditos concedidos al contribuyente represente respecto del total de créditos concedidos por la empresa a cualquier persona, en el período por el cual el contribuyente que pague el impuesto tenga el pasivo.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
-Cuando se ejerza la opción, el contribuyente que pagó el impuesto podrá acreditar, en los términos del artículo 9o. de la Ley, contra el impuesto pagado por cuenta y orden de la empresa, una cantidad equivalente al impuesto sobre la renta a su cargo. En este caso, dicha empresa no podrá acreditar contra el impuesto que le corresponda, el impuesto sobre la renta pagado por su cuenta y orden en los términos de los párrafos anteriores.
-
-La opción prevista en este artículo se ejercerá mediante aviso que suscriban tanto la empresa de comercio exterior como el contribuyente que pague por su cuenta y orden el impuesto, mismo que se presentará ante la autoridad administradora que corresponda al domicilio de la empresa, en la forma oficial que al efecto apruebe la Secretaría.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 25.
 
-Los contribuyentes del impuesto que usen o gocen temporalmente bienes propiedad de personas físicas, o de residentes en el extranjero sin establecimiento permanente en México, podrán optar por considerar dichos bienes como activo propio para efectos (sic) de determinar el impuesto a su cargo. En este caso, el propietario de los bienes quedará liberado respecto de los mismos de cumplir las obligaciones que establece la Ley.
+Los contribuyentes del impuesto que usen o gocen temporalmente bienes propiedad de personas físicas, o de residentes en el extranjero sin establecimiento permanente en México, o que transformen o hubieran transformado bienes de inventario que se mantenga en territorio nacional y sean propiedad de residentes en el extranjero, podrán optar por considerar dichos bienes como activo propio para efectos de determinar el impuesto a su cargo. En este caso, el propietario de los bienes quedará liberado respecto de los mismos de cumplir las obligaciones que establece la Ley.
 
 Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, acreditarán contra los pagos provisionales del impuesto, así como contra el impuesto del ejercicio, una cantidad equivalente a la que por concepto de impuesto sobre la renta retengan por las contraprestaciones que paguen por el uso o goce temporal de los referidos bienes.
 
 El acreditamiento a que se refiere el párrafo anterior no podrá exceder del impuesto que por dichos bienes considerados en forma individual se causaría en el ejercicio. La cantidad equivalente al impuesto sobre la renta retenido que se acreditó en los términos de este párrafo, no se considerará como impuesto efectivamente pagado para los efectos del primer párrafo del artículo 9o. de la Ley.
 
-La opción prevista en este artículo se deberá ejercer a partir de la presentación del aviso correspondiente por la persona que use o goce temporalmente los bienes. En el caso de terminación del uso o goce temporal de bienes, la persona que hubiera ejercido la opción, deberá presentar aviso de terminación a más tardar el día último del mes, siguiente a aquél en que éste se realice. Los avisos previstos en este párrafo se deberán presentar ante la autoridad recaudadora del impuesto que corresponda al domicilio de la persona que ejerce la opción, utilizando para ello la forma oficial que para esos efectos apruebe la Secretaría.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+La opción prevista en este artículo se deberá ejercer a partir de la presentación del aviso correspondiente por los contribuyentes que opten por pagar el impuesto en los términos de este artículo. En el caso de terminación del uso o goce temporal de bienes, la persona que hubiera ejercido la opción, deberá presentar aviso de terminación a más tardar el día último del mes siguiente a aquél en que éste se realice. Los avisos previstos en este párrafo se deberán presentar ante la autoridad recaudadora del impuesto que corresponda al domicilio de la persona que ejerce la opción, utilizando para ello la forma oficial que para esos efectos apruebe la Secretaría.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -350,3 +364,7 @@ Las personas físicas que durante 1989 hubieran tributado conforme al régimen d
 ###### ARTICULO TERCERO.
 
 Para los efectos del artículo 2o. fracción II de la Ley, las sociedades y asociaciones civiles que otorguen el uso o goce temporal de inmuebles, podrán determinar el saldo por deducir de las construcciones que hubieran efectuado antes del 1o. de enero de 1989 y por las cuales hubieran optado por deducir el 50 % de los ingresos en los términos del artículo 90 de la Ley del Impuesto sobre la renta, considerando que las mismas perdieron valor a razón del 5% de su monto original de la inversión, por cada año de calendario transcurrido por el cual hubieran tomado la deducción mencionada.
+
+D. O. 31 DE MARZO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación el Diario Oficial de la Federación.
