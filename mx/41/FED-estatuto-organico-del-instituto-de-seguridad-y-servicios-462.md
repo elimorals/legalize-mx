@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1988-06-06"
+last_updated: "1989-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 1989.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -106,6 +106,8 @@ A).- Organos de Gobierno:
 
 - Comisión de Vigilancia.
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
 B).- Unidades Administrativas:
 
 - Subdirección General Médica.
@@ -122,11 +124,15 @@ B).- Unidades Administrativas:
 
 - Subdirección General de Obras y Mantenimiento.
 
+- Subdirección General de Finanzas.
+
+- Subdirección General de Abastecimientos.
+
+- Subdirección General de Delegaciones.
+
 - Contraloría General.
 
-- Coordinación General de Planeación.
-
-- Coordinación General de Delegaciones.
+- Coordinación General de Comunicación Social.
 
 - Fondo de la Vivienda.
 
@@ -616,13 +622,15 @@ IV.- Acordar con el Director General los asuntos cuya importancia así lo requie
 
 V.- Desempeñar las comisiones que les encomiende el Director General;
 
-VI.- Realizar estudios y proponer proyectos de modernización administrativa, incluyendo la desconcentración que requiera el desarrollo de los servicios que presta el Instituto en sus respectivas áreas;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 1989)</small>
+
+VI.- Realizar estudios y proponer proyectos de modernización administrativa que requiera el desarrollo de los servicios que presta el Instituto en sus respectivas áreas;
 
 VII.- Proporcionar los informes y datos que les sean solicitados por otras unidades administrativas;
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 1989)</small>
 
-VIII.- Normar y supervisar las actividades de las Subdelegaciones que correspondan al ámbito de su competencia;
+VIII.- Intervenir en la formulación del programa de desconcentración administrativa y normar y supervisar las actividades de las Subdelegaciones en el ámbito de su competencia;
 
 IX.- Administrar los recursos asignados al área de su responsabilidad.
 
@@ -660,6 +668,8 @@ VII.- Conceder licencias e incapacidades médicas en los términos y condiciones
 
 VIII.- Las demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 46.
 
 La Subdirección General de Prestaciones Económicas tendrá las funciones siguientes:
@@ -670,33 +680,33 @@ II.- Dictaminar las solicitudes y, en su caso, autorizar el pago de indemnizacio
 
 III.- Dictaminar los asuntos relativos a accidentes y enfermedades del trabajo, así como otorgar en su caso, pensiones o indemnizaciones derivadas de los mismos y otorgar los subsidios por enfermedades no profesionales;
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
 IV.- Coordinar el Programa de Servicios Integrales de Retiro a Jubilados y Pensionistas;
 
 V.- Promover la integración y funcionamiento de las comisiones de seguridad e higiene de las Dependencias y Entidades sujetas al régimen de la Ley y de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal;
 
 VI.- Realizar estudios, investigaciones y estadísticas, sobre accidentes y enfermedades del trabajo, así como sugerir en su ámbito de competencia las medidas preventivas por cuanto a los mismos accidentes y enfermedades se refiere, conforme a las disposiciones aplicables;
 
-VII.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a mediano plazo para la adquisición, por parte de los trabajadores o pensionistas sujetos al régimen de la Ley, de bienes de uso duradero, preferentemente los que tengan en venta los centros comerciales y las tiendas del Instituto;
+VII.- Planear, organizar, normar, coordinar y controlar la operación del sistema de seguridad y vigilancia del Instituto;
 
-VIII.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a corto plazo;
+VIII.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a mediano plazo para la adquisición, por parte de los trabajadores o pensionistas sujetos al régimen de la Ley, de bienes de uso duradero, preferentemente los que tengan en venta los centros comerciales y las tiendas del Instituto;
 
-IX.- Calcular el monto y plazo de los créditos a corto y mediano plazo, con base en las disposiciones que dicte la Junta;
+IX.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a corto plazo;
 
-X.- Organizar, diseñar, operar y controlar el sistema de registro y recuperación de adeudos por los créditos otorgados, en coordinación con la Subdirección General de Administración y la Coordinación General de Planeación;
+X.- Calcular el monto y plazo de los créditos a corto y mediano plazo, con base en las disposiciones que dicte la Junta;
 
-XI.- Efectuar las gestiones administrativas necesarias para la aplicación oportuna de descuentos y recuperaciones de adeudos por concepto de créditos concedidos por el Instituto, así como la devolución de descuentos improcedentes;
+XI.- Organizar, diseñar, operar y controlar el sistema de registro y recuperación de adeudos por los créditos otorgados, en coordinación con la Subdirección General de Finanzas;
 
-XII.- Organizar, implantar, operar y controlar el sistema de cuenta individual que facilite el otorgamiento y recuperación de los créditos;
+XII.- Efectuar las gestiones administrativas necesarias para la aplicación oportuna de descuentos y recuperaciones de adeudos por concepto de créditos concedidos por el Instituto, así como la devolución de descuentos improcedentes;
 
-XIII.- Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y localizando a los deudores;
+XIII.- Organizar, implantar, operar y controlar el sistema de cuenta individual que facilite el otorgamiento y recuperación de los créditos;
 
-XIV.- Establecer las bases para la constitución, manejo y aplicación de fondos de garantía para los créditos otorgados por el Instituto;
+XIV.- Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y localizando a los deudores;
 
-XV.- Cancelar los adeudos de aquellos trabajadores que por alguno de los motivos que señala la Ley, estén imposibilitados de saldar sus créditos, utilizando el fondo de garantía para hacer las cancelaciones contables correspondientes; y
+XV.- Establecer las bases para la constitución, manejo y aplicación de fondos de garantía para los créditos otorgados por el Instituto;
 
-XVI.- Las demás que señalen otras disposiciones aplicables.
+XVI.- Cancelar los adeudos de aquellos trabajadores que por alguno de los motivos que señala la Ley, estén imposibilitados de saldar sus créditos, utilizando el fondo de garantía para hacer las cancelaciones contables correspondientes; y
+
+XVII.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 47.
 
@@ -722,6 +732,8 @@ IX.- Elaborar y adecuar el programa general para el desarrollo del sistema de ti
 
 X.- Las demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 48.
 
 La Subdirección General de Servicios Sociales y Culturales tendrá las funciones siguientes:
@@ -732,13 +744,9 @@ II.- Estudiar, proponer y aplicar las normas que se aprueben para el funcionamie
 
 III.- Contribuir al apoyo asistencial de los derechohabientes sujetos al régimen de la Ley;
 
-IV.- Elaborar programas culturales, educativos y de preparación técnica para los derechohabientes;
+IV.- Elaborar programas culturales para los derechohabientes; y
 
-V.- Proporcionar y difundir programas de capacitación para los trabajadores de las dependencias y entidades de la Administración Pública Federal incorporadas al régimen de la Ley;
-
-VI.- Diseñar y operar el sistema de capacitación interna para los trabajadores del Instituto; y
-
-VII.- Las demás que señalen otras disposiciones aplicables.
+V.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 49.
 
@@ -774,41 +782,35 @@ XIV.- Promover el desarrollo de las relaciones Institucionales en el ámbito nac
 
 XV.- Las demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 50.
 
 La Subdirección General de Administración tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar la administración de los recursos humanos y materiales del Instituto así como los sistemas de informática, y vigilar la observancia de las normas técnicas aplicables;
+I.- Planear, organizar, normar, coordinar y controlar las funciones de administración de recursos humanos, informática, capacitación, servicios generales, sistemas y organización, y vigilar la observancia de las normas técnicas aplicables en cada caso;
 
 II.- Promover, coordinar y vigilar las acciones de mejoramiento, modernización y simplificación administrativa;
 
-III.- Proponer políticas en materia de personal en coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación, así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
+III.- Proponer políticas en materia de personal en coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
 
-IV.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en la preparación de concursos relacionados con la adquisición de bienes y en la celebración de los contratos o convenios de suministro respectivo;
+IV.- Diseñar y operar el sistema de capacitación interna para los trabajadores del Instituto;
 
 V.- Formular y operar el programa de mantenimiento de los vehículos propiedad del Instituto y proponer la baja o reemplazo de los mismos;
 
-VI.- Almacenar, custodiar y proporcionar a las diversas áreas del Instituto, los bienes y servicios que requieran paras su funcionamiento, así como establecer normas y control de inventarios de bienes muebles;
+VI.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
 
-VII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, así como a mantenimiento, intendencia, vigilancia y seguridad;
+VII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes;
 
-VIII.- Diseñar y operar los sistemas de recuperación de adeudos, previa aprobación de la Junta;
+VIII.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
 
-IX.- Proponer y operar los sistemas para el control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
+IX.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática;
 
-X.- Captar los ingresos provenientes de aportaciones y cuotas, los derivados de la prestación de los servicios médicos, asistenciales y sociales, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto;
+X.- Representar al Instituto ante la Secretaría de Programación y Presupuesto en asuntos de informática;
 
-XI.- Diseñar y operar las estrategias de inversión de las disponibilidades del Instituto, buscando la racionalización y eficiencia en el uso de los recursos disponibles;
+XI.- Proporcionar y difundir programas de capacitación para los derechohabientes del Instituto; y
 
-XII.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
-
-XIII.- Representar al Instituto ante la Secretaría de Programación y Presupuesto en asuntos de informática;
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-XIV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática; y
-
-XV.- Las demás que señalen otras disposiciones aplicables.
+XII.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 51.
 
@@ -829,6 +831,82 @@ VI.- Realizar y mantener actualizado el registro general de los bienes inmuebles
 VII.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas; y
 
 VIII.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
+ARTICULO 51 A.- La Subdirección General de Finanzas tendrá las funciones siguientes:
+
+I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería y evaluación programática;
+
+II.- Participar en la formulación, implantación y evaluación del Programa Institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
+
+III.- Representar al Instituto ante la Secretaría de Programación y Presupuesto en asuntos de planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
+
+IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
+
+V.- Realizar de manera sistemática y permanente los estudios actuariales y financieros sobre el manejo de las reservas del Instituto, con objeto de definir las bases cuantitativas de la suficiencia de recursos y facilitar la programación institucional;
+
+VI.- Diseñar y operar los sistemas de control presupuestario con el objeto de racionalizar y optimizar su ejercicio;
+
+VII.- Diseñar y operar el sistema de registro contable por fondos, que produzca información financiera a través de mecanismos que permitan su vinculación con la programación y presupuestación del Instituto;
+
+VIII.- Coordinar la formulación y adecuación del presupuesto de egresos del Instituto, así como operar el control contable de los ingresos, egresos, flujo de recursos financieros y normar la guarda y custodia de valores;
+
+IX.- Determinar la cuantificación de los adeudos al Instituto y promover su oportuna recuperación, así como vigilar su aplicación de acuerdo a los programas y prioridades autorizados;
+
+X.- Diseñar y operar los sistemas de recuperación de adeudos, previa aprobación de la Junta;
+
+XI.- Proponer y operar los sistemas para el control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
+
+XII.- Captar los ingresos provenientes de aportaciones y cuotas, los derivados de la prestación de los servicios médicos, asistenciales y sociales, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto;
+
+XIII.- Diseñar y operar las estrategias de inversión de las disponibilidades y reservas del Instituto, buscando la racionalización y eficiencia en el uso de los recursos disponibles, previa aprobación de la Junta;
+
+XIV.- Promover el establecimiento de sistemas para captar, procesar, analizar y publicar las estadísticas que se generen en el Instituto; y
+
+XV.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
+ARTICULO 51 B.- La Subdirección General de Abastecimientos tendrá las funciones siguientes:
+
+I.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
+
+II.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y en los contratos o convenios de suministros respectivos;
+
+III.- Almacenar, custodiar y proporcionar a las diversas áreas del Instituto, los bienes y servicios que requieran para su funcionamiento, así como establecer normas y control de inventarios de almacenamiento, conforme a las disposiciones relativas; y
+
+IV.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
+ARTICULO 51 C.- La Subdirección General de Delegaciones tendrá las funciones siguientes:
+
+I.- Promover y coordinar, previa aprobación del Director General, la formulación del programa de desconcentración administrativa del Instituto, así como supervisar y evaluar, en coordinación con las unidades administrativas centrales, el cumplimiento del mismo;
+
+II.- Constituirse en el conducto formal de comunicación entre las Delegaciones, los Organos de Gobierno y las unidades administrativas centrales;
+
+III.- Auxiliar a las Delegaciones en la elaboración de los anteproyectos del Programa-Presupuesto y opinar ante las unidades administrativas centrales correspondientes, respecto a su viabilidad y congruencia con los planes y programas de desconcentración;
+
+IV.- Evaluar, conjuntamente con las unidades administrativas centrales, la operación administrativa, técnica y financiera de las Delegaciones, de acuerdo con las disposiciones relativas;
+
+V.- Coadyuvar en el otorgamiento de la asistencia técnica de capacitación para poner en práctica los lineamientos generales que establezca el Director General para la operación de las Delegaciones;
+
+VI.- Instrumentar, proponer y promover los criterios y lineamientos para una adecuada coordinación entre las Delegaciones con las representaciones federales, estatales y municipales de los sectores público, social y privado;
+
+VII.- Coadyuvar a la solución de aquellos asuntos que se generen en las Delegaciones, informando oportunamente al Director General y a las áreas administrativas competentes;
+
+VIII.- Captar, analizar, sistematizar y difundir oportunamente la información que se genere en las Delegaciones;
+
+IX.- Llevar el registro de las supervisiones y evaluaciones que efectúen las áreas administrativas a las Delegaciones, conforme a las instrucciones del Director General, en el ámbito de competencia de las mismas áreas;
+
+X.- Auxiliar al Director General con motivo de las giras de trabajo que tenga que realizar a las Delegaciones, así como informarle oportunamente de la situación que guarde la Delegación correspondiente;
+
+XI.- Captar y analizar las cargas de trabajo de las Delegaciones y proponer las medidas respectivas para incrementar la eficiencia administrativa de las mismas;
+
+XII.- Proponer al Director General las modificaciones a la estructura orgánica y al funcionamiento y operación de las Delegaciones; y
+
+XIII.- Las demás que señalen otras disposiciones aplicables.
 
 #### SECCION TERCERA. DE LA CONTRALORIA GENERAL
 
@@ -852,69 +930,29 @@ VII.- Las demás que señalen otras disposiciones aplicables.
 
 #### SECCION CUARTA. DE LAS COORDINACIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 53.
 
-La Coordinación General de Planeación tendrá las funciones siguientes:
+La Coordinación General de Comunicación Social tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad y evaluación programática;
+I.- Planear, programar, organizar, normar, coordinar, controlar y evaluar las actividades de información, difusión y relaciones públicas del Instituto, a través de los medios de comunicación;
 
-II.- Participar en la formulación, implantación y evaluación del programa institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
+II.- Formular e integrar los programas de comunicación social, información, difusión y relaciones públicas del Instituto y de sus unidades administrativas, y dirigir los servicios de apoyo en estas materias, de conformidad con las disposiciones aplicables;
 
-III.- Representar al Instituto ante la Secretaría de Programación y Presupuesto en asuntos de planeación, programación, presupuestación, contabilidad y evaluación programática;
+III.- Aprobar el diseño de las campañas de difusión de interés para el Instituto, así como intervenir en la contratación y supervisión de los medios de comunicación que se requieran para su realización;
 
-IV.- Formar parte de los cuerpos colegiados institucionales e intervenir en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación y evaluación programática;
+IV.- Organizar entrevistas y conferencias con la prensa sobre los seguros, prestaciones y servicios que otorga el Instituto y emitir los boletines relativos;
 
-V.- Realizar de manera sistemática y permanente los estudios actuariales y financieros sobre el manejo de las reservas del Instituto, con objeto de definir las bases cuantitativas de la suficiencia de recursos y facilitar la programación institucional;
+V.- Coordinar y apoyar la celebración de conferencias, congresos y seminarios relacionados con las actividades del Instituto;
 
-VI.- Diseñar y operar los sistemas de control presupuestario, con objeto de racionalizar y optimizar el ejercicio presupuestal;
+VI.- Editar y distribuir libros, revistas y demás publicaciones del Instituto; y
 
-VII.- Diseñar y operar el sistema de registro contable por fondos, que produzca información financiera a través de mecanismos que permitan su vinculación con la programación y presupuestación del Instituto;
-
-VIII.- Coordinar la formulación y adecuación del presupuesto de egresos del Instituto; así como operar el control contable de los ingresos, egresos, flujo de recursos financieros y normar la guarda y custodia de valores;
-
-IX.- Establecer las estrategias de inversión de las disponibilidades y reservas del Instituto, previa aprobación de la Junta;
-
-X.- Intervenir en la cuantificación de los adeudos al Instituto y promover su oportuna recuperación, así como vigilar su aplicación de acuerdo a los programas y prioridades autorizados;
-
-XI.- Promover el establecimiento de sistemas para captar, procesar, analizar y publicar las estadísticas que se generen en el Instituto;
-
-XII.- Formular, en los dos meses previos al informe anual del Director General ante la Junta, la evaluación del estado general que guarde la administración del Instituto; y
-
-XIII.- Las demás que señalen otras disposiciones aplicables.
+VII.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 54.
 
-La Coordinación General de Delegaciones tendrá las funciones siguientes:
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-I.- Promover y coordinar previa aprobación del Director General, el programa de desconcentración administrativa del Instituto, así como supervisar y evaluar el cumplimiento del mismo;
-
-II.- Colaborar en la evaluación de la operación administrativa, técnica y financiera y constituirse en el conducto formal de comunicación entre las Delegaciones, los Organos de Gobierno del Instituto y las unidades administrativas centrales;
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-III.- Auxiliar a las Delegaciones en la elaboración de los anteproyectos del programa-presupuesto y opinar ante las unidades administrativas centrales correspondientes, respecto a su viabilidad y congruencia con los planes y programas de desconcentración;
-
-IV.- Coadyuvar en el otorgamiento de la asistencia técnica y de capacitación para poner en práctica los lineamientos generales que establezca el Director General para la operación de las Delegaciones;
-
-V.- Auxiliar a las Delegaciones en sus trámites ante las unidades administrativas centrales, así como en las gestiones de apoyo técnico y administrativo que requieran;
-
-VI.- Instrumentar, proponer y promover los criterios y lineamientos para una adecuada coordinación entre las delegaciones con las representaciones federales, estatales y municipales de los sectores público, social y privado;
-
-VII.- Coadyuvar a la solución de aquellos asuntos que se generen en las Delegaciones, informando oportunamente al Director General y a las áreas administrativas competentes;
-
-VIII.- Captar, analizar, sistematizar y difundir oportunamente la información que se genere en las Delegaciones;
-
-IX.- Llevar el registro de las supervisiones y evaluaciones que efectúen las áreas administrativas a las Delegaciones, conforme a las instrucciones del Director General, en el ámbito de competencia de las mismas áreas;
-
-X.- Auxiliar al Director General con motivo de las giras trabajo que tenga que realizar a las Delegaciones, así como informarle oportunamente de la situación que guarden las mismas;
-
-XI.- Captar y analizar las cargas de trabajo de las Delegaciones y proponer las medidas que correspondan para incrementar la eficiencia administrativa de las mismas;
-
-XII.- Proponer al Director General las modificaciones a la estructura orgánica y al funcionamiento y operación de las Delegaciones; y
-
-XIII.- Las demás que señalen otras disposiciones aplicables o le encomiende el Director General.
+(DEROGADO, D.O.F. 4 DE MAYO DE 1989)
 
 ### CAPITULO SEPTIMO. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -1009,3 +1047,13 @@ Quedan abrogados los Reglamentos Interior de Organos de Gobierno e Interior del 
 ###### ARTICULO TERCERO.
 
 El presente Estatuto así como las reformas y adiciones al mismo deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 4 DE MAYO DE 1989.
+
+PRIMERO.- Estas reformas y adiciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Cuando en este Estatuto se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine este Estatuto.
+
+TERCERO.- En su oportunidad, inscríbanse las presentes reformas y adiciones en el Registro Público de Organismos Descentralizados.
