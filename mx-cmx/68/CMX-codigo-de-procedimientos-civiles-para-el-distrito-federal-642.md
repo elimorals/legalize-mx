@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1983-12-27"
+last_updated: "1984-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE OCTUBRE DE 1984.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -4018,7 +4018,7 @@ ARTICULO 651
 
 Se admitirá la apelación extraordinaria que contra la sentencia interpusiere el litigante rebelde conforme al capítulo segundo título décimotercero.
 
-## TÍTULO OCTAVO. Del juicio arbitral
+## TITULO OCTAVO. Del juicio arbitral
 
 Reglas generales
 
@@ -6144,11 +6144,11 @@ ARTICULO 1
 
 En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica de los Tribunales de Justicia del Fuero Común.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 1984)</small>
 
 ARTICULO 2
 
-Conocerán los Jueces de Paz, en materia civil, de los juicios cuya cuantía no exceda de 182 veces el salario mínimo diario general vigente en el Distrito Federal. Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones de un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a su monto total.
+Conocerán los jueces de paz, en materia civil, de los juicios cuya cuantía no exceda de 182 veces el salario mínimo diario general vigente en el Distrito Federal, a excepción de todo lo relativo a la materia de arrendamiento de inmuebles que será competencia de los jueces de primera instancia. Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tomados en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella. Cuando se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las prestaciones de un año, a no ser que se trate de prestaciones vencidas en cuyo caso se estará a su monto total.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -6675,3 +6675,13 @@ El presente Ordenamiento entrará en vigor 90 días después de su publicación 
 ###### ARTICULO SEGUNDO.
 
 La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho Ordenamiento.
+
+D.O.F. 2 DE OCTUBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se sustanciarán y decidirán conforme a las normas en vigor al momento de la presentación de la demanda.
