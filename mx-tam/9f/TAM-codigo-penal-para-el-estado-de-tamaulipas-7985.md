@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2001-12-25"
+last_updated: "2003-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -445,7 +445,9 @@ En toda pena de prisión que se imponga por sentencia, se computará el tiempo d
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
+###### ARTICULO 46
+
+BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
 
 I.- La prisión intermitente, que consiste en la alternación de períodos de libertad y privación de la misma, según los casos, en las formas siguientes:
 
@@ -1819,13 +1821,13 @@ QUATER.- Al que sin autorización conozca o copié información contenida en sis
 
 ###### ARTICULO 207
 
-Quinquies .- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
+QUINQUIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 207
 
-Sexies.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientos días salario.
+SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientos días salario.
 
 Los delitos previstos en este titulo serán sancionados por querella de la parte ofendida.
 
@@ -3561,9 +3563,11 @@ I.- Cuando ésta se haga a una persona distinta de la robada, que se encuentre e
 
 II.- Cuando el agente la ejercita después de consumado el robo, para proporcionarse la fuga o retener lo robado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 407.
 
-La sanción que corresponda al responsable de robo simple se aumentará con tres meses a diez años de prisión:
+La sanción que corresponda al responsable de robo simple se aumentará con tres años a doce años de prisión:
 
 I.- Cuando el robo se cometa en un edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación, no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos;
 
@@ -3583,11 +3587,37 @@ VII.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en 
 
 VIII.- Cuando se robe a las víctimas de catástrofes o de accidentes aéreos o con motivo de tránsito de vehículos;
 
-IX.- Cuando el objeto del apoderamiento sea un vehículo estacionado en la vía pública o lugar destinado a su guarda o reparación;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2003)</small>
+
+IX.- Cuando el objeto del apoderamiento sea un vehículo en circulación o estacionado en la vía pública o lugar destinado a su guarda o reparación;
 
 X.- Cuando el robo se cometa en una oficina recaudadora u otra en la que se conserven caudales, o cuando éstos sean transportados;
 
 XI.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XII.- Cuando se desmantelen uno o más vehículos robados o comercialicen conjunta o separadamente sus partes;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XIII.- Cuando se enajenen o trafiquen de cualquier manera un vehículo o vehículos robados;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XIV.- Cuando se altere o modifique de cualquier manera la documentación que acredite la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XV.- Cuando se traslade el o los vehículos robados a otra entidad federativa a al extranjero;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XVI.- Cuando se utilice el o los vehículos robados en la comisión de otro u otros delitos; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XVII.- Cuando se posea o utilice algún vehículo de fuerza motriz robado, conociendo tal circunstancia.
 
 ###### ARTICULO 408.
 
@@ -4204,3 +4234,9 @@ Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas antes 
 ###### ARTICULO TERCERO.
 
 Los procesos que se estén instruyendo por hechos que este Decreto deja de considerar como delitos, se sobreseerán, ordenándose inmediatamente la libertad del acusado y de aquellos que hubieran sido sentenciados, bajo las condiciones anteriores.
+
+P.O. 9 DE JULIO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
