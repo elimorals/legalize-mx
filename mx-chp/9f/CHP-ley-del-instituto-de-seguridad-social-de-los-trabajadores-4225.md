@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-instituto-de-seguridad-social-de-los-trabajadores-4225"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-26"
-last_updated: "1981-08-26"
+last_updated: "1989-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1989
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 26 de agosto de 1981.
 
@@ -1151,13 +1151,17 @@ I.- La Junta Directiva.
 
 II.- El Director General.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 140.
 
-La Junta Directiva se compondrá de cinco consejeros, el primero designado directamente por el C. Gobernador del Estado con el cargo expreso de Director General del Instituto; uno nombrado por la Secretaría de Finanzas; uno nombrado por la Oficialía Mayor; uno designado por el Sindicato de Burócratas y otro nombrado por la Sección 40 del S.N.T.E. El Director General fungirá como Presidente de la Junta.
+La Junta Directiva se compondrá de siete miembros. Será presidida por el Gobernador del Estado o el representante que él designe; un representante de la Tesorería General del Estado; un representante de la Oficialía Mayor; un representante del Sindicato de Burócratas y otro de la sección 40 del S.N.T.E. el Director General del Instituto será miembro de la junta con el carácter de Secretario Técnico. El Subdirector General tendrá voz y voto y asistirá en todo al Director.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 141.
 
-Los consejeros de la Junta Directiva no podrán prestar al mismo tiempo sus servicios como empleados o funcionarios del Instituto, salvo lo previsto en el artículo anterior, por lo que se refiere al Director General.
+Los miembros de la Junta Directiva no podrán prestar al mismo tiempo sus servicios como empleados o funcionarios del Instituto; salvo las excepciones señaladas por la presente Ley o por acuerdo expreso de la Junta Directiva.
 
 ###### ARTICULO 142.
 
@@ -1173,7 +1177,9 @@ Para ser consejero de la Junta Directiva se requiere:
 
 I.- Ser ciudadano chiapaneco en pleno ejercicio de sus derechos.
 
-II.- No estar desempeñando cargo alguno de elección popular o sindical.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1989)</small>
+
+II.- No estar desempeñando cargo alguno de elección popular o sindical, con excepción del Presidente.
 
 III.- Ser de reconocida competencia y honorabilidad.
 
@@ -1209,9 +1215,11 @@ XI.- Proponer al Ejecutivo del Estado los proyectos de reformas a esta Ley por c
 
 XII.- En general, realizar todos aquellos actos y operaciones autorizadas por esta Ley, para la mejor administración o gobierno del Instituto.
 
+> <small>(REFORMADO, P.O.31 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 147.
 
-La Junta Directiva celebrará las sesiones que sean necesarias para la debida marcha del Instituto, debiendo ser presididas por el Director del mismo. Las sesiones serán válidas con la asistencia por lo menos de cuatro consejeros.
+La Junta Directiva celebrará las sesiones que sean necesarias para la debida marcha del Instituto. Serán validas con la asistencia por lo menos de cinco consejeros. Siempre y cuando este el Presidente o quien lo represente con arreglo a esta Ley.
 
 ###### ARTICULO 148.
 
@@ -1219,15 +1227,17 @@ Las votaciones de la Junta Directiva se tomarán por mayoría de votos de los co
 
 ###### ARTICULO 149.
 
-A falta del Presidente de la Junta, las sesiones serán presididas por uno de los representantes del Estado que se elija por los presentes.
+(DEROGADO, P.O. 31 DE MAYO DE 1989)
 
 ###### ARTICULO 150.
 
 Los acuerdos de la Junta Directiva por los cuales se concedan y modifiquen las pensiones a que esta Ley se refiere, serán sancionados por el C. Gobernador del Estado. Las demás resoluciones de la Junta Directiva que nieguen, suspendan, revoquen o anulen las pensiones, que afecten intereses particulares, se recurrirán ante la misma, dentro de los 15 días siguientes de que se haya tenido conocimiento de la resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 151.
 
-El Director General del Instituto tendrá las obligaciones y facultades siguientes:
+El Director General del Instituto será nombrado por el Gobernador del Estado y tendrá las obligaciones y facultades siguientes:
 
 I.- Representar al Instituto y a la Junta Directiva, y ejecutar los acuerdos de la Junta.
 
@@ -1245,13 +1255,17 @@ VII.- Formular y presentar para discusión y aprobación de la Junta, los Estado
 
 VIII.- Llevar la firma del Instituto, sin perjuicio de la delegación de facultades que para tal efecto fueren necesarias.
 
-IX.- Conferir poderes generales o especiales.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1989)</small>
+
+IX.- Conferir Poderes Generales o Especiales previa autorización de la Junta Directiva.
 
 X.- Formular el Calendario Oficial del Instituto y autorizar en casos extraordinarios la suspensión de labores.
 
 XI.- Nombrar y remover el personal de base y de confianza del Instituto.
 
-XII.- Otorgar gratificaciones y recompensas a los funcionarios y empleados del Instituto.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1989)</small>
+
+XII.- Otorgar gratificaciones y recompensas a los funcionarios del Instituto previa autorización de la Junta Directiva;
 
 XIII.- Conceder licencia al personal en los términos de las leyes correspondientes.
 
@@ -1263,13 +1277,19 @@ XVI.- Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junt
 
 XVII.- Todas las demás que le fijen los reglamentos o le otorgue la Junta Directiva.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 1989)</small>
+
+ARTICULO 151 BIS.- En cualquier momento, el Ejecutivo del Estado podrá nombrar un Sub-Director General que será miembro de la Junta Directiva con voz y voto; sustituirá al Director General en todas sus ausencias en todas las funciones.
+
+Auxiliará a la Dirección General en sus funciones establecidas por esta Ley y las que le fije directamente la Junta Directiva.
+
 ###### ARTICULO 152.
 
 Para el mejor funcionamiento del Instituto, la Junta Directiva a propuesta del Director General, designará los funcionarios que sean necesarios de acuerdo con los requerimientos del propio Instituto.
 
 ###### ARTICULO 153.
 
-A propuesta del Director General, la Junta Directiva determinará que funcionario suplirá al Director General en sus ausencias temporales.
+(DEROGADO, P.O. 31 DE MAYO DE 1989)
 
 ###### ARTICULO 154.
 
@@ -1385,9 +1405,13 @@ IV.- Los de los fondos especiales.
 
 La suficiencia y el monto de las reservas y de las cuotas y aportaciones para las diferentes prestaciones que indica el artículo 7 serán examinadas cada año a través del análisis actuarial de resultados y mediante la valuación actuarial que se llevará a cabo cada tres años. Al elaborar dicho informe, el Instituto analizará la información estadística y contable sobre el desarrollo de los fenómenos colectivos de mayor importancia para la vida del organismo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 168.
 
-Las cuentas del Instituto, quedarán sujetas a revisión, glosa y aprobación de la Secretaría de Finanzas del Gobierno del Estado y a tal efecto podrá establecer el servicio de auditoria externa. El Instituto remitirá a dicha Secretaría dentro de los tres primeros meses de cada año de sus estados financieros, contables y actuariales de fin de ejercicio, así como los anexos correspondientes, a fin de poder precisar con mayor exactitud la situación contable y financiera del Instituto.
+Las cuentas del Instituto, quedarán sujetas a revisión, glosa y aprobación de la Secretaría de Programación y Presupuesto del Gobierno del Estado y a tal efecto podrá establecer el servicio de auditoria externa. El Instituto remitirá a dicha Secretaría dentro de los tres primeros meses de cada año de sus estados financieros, contables y actuariales de fin de ejercicio, así como los anexos correspondientes, a fin de poder precisar con mayor exactitud la situación contable y financiera del Instituto.
+
+Corresponderá a la Secretaría de Programación y Presupuesto conforme al contenido del artículo 33 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, coordinar las acciones presupuestales y programáticas del Instituto. Las disposiciones de este artículo no afectarán las facultades que en la materia tiene la Contraloría General del Estado.
 
 ### CAPITULO DECIMO CUARTO
 
@@ -1566,3 +1590,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones del Palacio del H. Poder Legislativo del Estado, en Tuxtla Gutiérrez, Chiapas, a los 24 días del mes de agosto de 1981.- D. P. LUIS ANTONIO GORDILLO DOMINGUEZ.- D.S.- PROFR. ROBERTO PRADO GOMEZ.- D.S.- LIC. MIGUEL ARCADIO CRUZ RUIZ.- RUBRICAS.
 
 De conformidad con la Fracción I del Artículo 47 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veinticinco días del mes de agosto de mil novecientos ochenta y uno. El Gobernador del Estado.- Juan Sabines Gutiérrez.- (Rúbrica).- El Secretario General de Gobierno.- Dr. Enoch Cancino Casahonda.- (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todas las funciones que como Presidente de la Junta Directiva otorga esta Ley al Director General, se cancelan por virtud de la reforma del artículo 140, quedando como facultades del Presidente de la Junta.
