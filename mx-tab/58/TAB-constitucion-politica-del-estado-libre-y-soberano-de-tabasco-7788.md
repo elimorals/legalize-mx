@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2003-11-15"
+last_updated: "2004-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -118,6 +118,14 @@ Los habitantes del Estado tienen iguales derechos y obligaciones, en los términ
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
 En consecuencia, queda prohibida toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, sexo, religión, costumbres, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
+
+En el Estado de Tabasco toda persona tiene derecho a un ambiente saludable y equilibrado. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, la flora y la fauna existentes en su territorio, así como para prevenir, evitar y castigar toda forma de contaminación ambiental.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
+
+Los ciudadanos tienen la obligación de contribuir, participar y exigir la preservación, restauración y el equilibrio ecológico, disponiendo libremente de la acción popular para denunciar cualquier daño o deterioro ambiental ante el Estado o los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -419,6 +427,8 @@ Para ser diputado se requiere:
 
 I.- Ser ciudadano mexicano, nativo de la entidad o con residencia efectiva en ella no menor de dos años;
 
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
+
 II.- Tener veintiún años cumplidos el día de la elección;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
@@ -428,6 +438,8 @@ III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerp
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 IV.- No ser Gobernador del Estado, ni Secretario de Ramo alguno de la Administración Pública, Procurador General de Justicia; Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, o del Tribunal Electoral de Tabasco; Oficial Mayor o Titular de algunas de las Dependencias o Entidades de la Administración Pública Estatal; Presidente Municipal, funcionario electoral o funcionario federal, a menos que permanezca legalmente separado de su cargo desde noventa días naturales antes de la elección; y
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
 
 V.- No ser ministro de culto religioso alguno.
 
@@ -1033,7 +1045,7 @@ VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito 
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir al Órgano Superior de Fiscalización del Estado dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar anualmente a dicho Órgano, a más tardar el 31 de marzo del año siguiente, la cuenta pública debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual. El Órgano Superior de Fiscalización del Estado, podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de glosa, una vez calificada la cuenta y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia;
+VII. Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir al Órgano Superior de Fiscalización del Estado dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar anualmente a dicho Órgano, a más tardar el 31 de marzo del año siguiente, la cuenta pública debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual. El Órgano Superior de Fiscalización del Estado, podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de glosa, una vez calificada la cuenta y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia;
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -2430,3 +2442,9 @@ b) El pago de la indemnización estará sujeto a la disponibilidad presupuestari
 c) Hasta en tanto se expidan las reformas a las leyes secundarias, será exigible por los particulares la responsabilidad patrimonial del Estado, en los términos establecidos en las disposiciones jurídicas anteriores.
 
 Artículo Quinto. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
