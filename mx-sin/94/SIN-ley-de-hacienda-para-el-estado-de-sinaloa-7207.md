@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1987-11-02"
+last_updated: "1988-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1988.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2305,213 +2305,381 @@ ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras 
 
 ### CAPITULO II. Copias de Planos, Avalúos y Trabajos Catastrales
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 ART. 295.- El cobro por concepto de copias de planos, certificados catastrales y otros trabajos que se ejecuten en la Dirección General de Catastro y en Delegaciones correspondientes, se regirá por la siguiente:
 
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
 T A R I F A:
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN SINALOA
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
 I.- Por la certificación:
 
-a).- Del nombre del propietario o poseedor de un predio $ 800.00
+a) Del nombre del propietario o
 
-b).- Del valor fiscal de un predio $ 800.00
+poseedor de un predio 0.25
 
-c).- De un predio en que señalen colindancias y medidas $ 1,500.00
+b) Del valor fiscal de un predio 0.25
 
-d).- En la que se señale la superficie catastral de un predio $ 1,000.00
+c) De un predio en que se señalen
 
-e).- En que se indiquen antecedentes de propiedad $ 2,000.00
+colindancias y medidas 0.50
 
-f).- De un predio en el que se señalen nombre del propietario o poseedor, ubicación, valor fiscal, medidas, colindancias y superficie $ 2,000.00
+d) En la que se señale la superficie
 
-g).- De un predio en el que se señalen nombre del propietario o poseedor, ubicación, valor fiscal, medidas y colindancias, superficie y antecedentes de propiedad $ 2,500.00
+catastral de un predio 0.30
 
-h).- De predios cancelados $ 800.00
+e) En que se indiquen antecedentes
 
-i).- De "No propiedad" $ 800.00
+de propiedad 0.65
 
-j).- De documentos catastrales, por hoja $ 500.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-k).- Del valor fiscal o catastral proporcional de una fracción de predio.
+f) De un predio en el que se
 
-I).- De ubicación del predio $ 800.00
+señalen nombre del propietario o
 
-II).- De planos catastrales $ 800.00
+poseedor, ubicación, valor fiscal,
 
-III.- Por la expedición: $ 1,500.00
+medidas, colindancias y superficie 0.65
+
+g) De un predio en que se señalen
+
+nombre del propietario o
+
+poseedor, ubicación, valor fiscal,
+
+medidas y colindancias, superficie y
+
+antecedentes de propiedad 0.80
+
+h) De predios cancelados 0.25
+
+i) De "No Propiedad" 0.25
+
+j) De documentos catastrales
+
+por hoja 0.25
+
+k).- Del valor fiscal o catastral
+
+proporcional de una fracción
+
+de predio 0.25
+
+l).- De ubicación de predio 0.25
+
+ll).- De planos catastrales 0.50
 
 II.- Por la expedición:
 
-a).- De copias fotostáticas de documentos catastrales por hoja hasta tamaño oficio $ 500.00
+a).- De copias fotostáticas de
 
-b).- De copias mecanografiadas de documentos catastrales, por hoja hasta tamaño oficio $ 600.00
+documentos catastrales, por hoja 0.15
 
-c).- De copias heliográficas o fotográficas de planos del Estado, de los Municipios o de poblaciones:
+b).- De copias mecanografiadas de
 
-1.- Tamaño oficio $ 800.00
+documentos catastrales, por hoja 0.20
 
-2.- Por cada decímetro cuadrado que exceda al tamaño anterior $ 20.00
+c).- De copias heliográficas o
 
-d).- De copias heliográficas de planos de manzanas:
+fotográficas de planos del Estado,
 
-1.- Tamaño 54 X 35 Cms. $ 500.00
+de los Municipios o poblaciones 0.25
 
-2.- Tamaño 45 X 68 Cms. $ 800.00
+1.- Tamaño oficio 0.25
 
-3.- Tamaño 103 X 35 Cms. $ 1,000.00
+2.- Por cada decímetro cuadrado que
 
-4.- Tamaño 103 X 68 Cms. $ 1,850.00
+exceda el tamaño anterior 0.01
 
-e).- De copias heliográficas de planos de zonas catastrales, por cada decímetro cuadrado o
+d).- De copias heliográficas de
 
-fracción $ 20.00
+planos de manzanas:
 
-f).- De calcas de planos a tinta con señalamientos de linderos, medidas y superficies:
+1.- Tamaño 54 X 35 cms. 0.20
 
-1.- Por cada decímetro cuadrado o fracción $ 400.00
+2.- Tamaño 45 X 68 cms. 0.25
 
-2.- El mismo trabajo a lápiz, por cada decímetro cuadrado o fracción $ 200.00
+3.- Tamaño 103 X 35 cms. 0.30
+
+4.- Tamaño 103 X 68 cms. 0.60
+
+e).- De copias heliográficas de
+
+planos de zonas catastrales, por
+
+cada decímetro cuadrado o fracción 0.01
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+f).- De calcas de planos a tinta con
+
+señalamiento de linderos, medidas y
+
+superficies:
+
+1.- Por cada decímetro cuadrado
+
+o fracción 0.15
+
+2.- El mismo a lápiz, por cada
+
+decímetro cuadrado o fracción 0.07
 
 III.- Por el señalamiento de linderos, levantamiento, cálculo y dibujo que se soliciten de predios urbanos en poblaciones del Estado así como de predios en zonas rústicas, se cobrarán los derechos en cada caso, de acuerdo con lo siguiente:
 
 a).- Por los predios urbanos:
 
-1.- Por levantamiento y cálculos:
+1.- Por levantamiento y cálculo:
 
-Por Terreno:
+- Por terreno hasta 500 metros
 
-Hasta 500 M2 $ 2,000.00
+cuadrados 0.65
 
-De 501 M2 en adelante además de la cuota anterior $ 5.00 por M2
+- Por terreno de 501 metros cuadrados en adelante, además de la cuota anterior se pagará 0.01 veces el salario mínimo general, por metro cuadrado
 
-Por Construcción:
+- Por Construcción hasta 500 metros
 
-Hasta 500 M2 $ 2,000.00
+cuadrados 0.65
 
-De 501 M2 en adelante, además de la cuota anterior $ 5.00 por M2
+Por construcción, de 501 metros
 
-En el caso de predios localizados en poblaciones fuera del área de asiento de la Delegación de Catastro, se cobrará además de la tarifa anterior, una cuota de $ 2,000.00.
+cuadrados en adelante, además
+
+de la cuota anterior se pagará,
+
+por metro cuadrado 0.01
+
+En el caso de predio localizado
+
+en poblaciones fuera del área de
+
+asiento de la Delegación de
+
+Catastro, se cobrará, además de la
+
+tarifa anterior, una cuota de 0.65
 
 2.- Por dibujo:
 
-En planos hasta de tamaño carta, $ 2,000.00 y por decímetro cuadrado o fracción excedente. $ 200.00
+- En planos hasta tamaño carta, 0.65
+
+- Por decímetro cuadrado o
+
+fracción excedente, 0.07
 
 b).- Por predios rústicos:
 
-1.- Por levantamiento y cálculo;
+1.- Por levantamiento y cálculo:
 
-Hasta 10 Has. $ 5,000.00
+Hasta de 10 hectáreas. 1.65
 
-De 11 Has. en adelante, además de la cuota anterior $ 500.00 Por Ha.
+De 11 hectáreas. en adelante,
+
+además de la cuota anterior,
+
+por hectárea 0.15
 
 2.- Por dibujo:
 
-En planos hasta tamaño carta $ 2.000.00 y por cada decímetro cuadrado o fracción excedente $ 200.00.
+- En planos hasta tamaño carta 0.65
 
-Para efectuar los trabajos a que se refiere esta fracción, se requiere que el terreno esté limpio y despejado para la medición.
+- Por cada decímetro cuadrado o
+
+fracción excedente 0.07
+
+Para efectuar los trabajos a que se refiere esta fracción, se requiere que el terreno esté liumpio (sic) y despejado para la medición.
 
 En los casos a que se refiere esta fracción, el levantamiento y cálculo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
 
-IV.- Por la práctica de avalúo comercial para los efectos del impuesto sobre Traslación de Dominio, se cobrarán los derechos en cada caso de acuerdo con lo siguiente:
+IV.- Por la práctica de avalúo comercial para los efectos del Impuesto Municipal sobre Adquisición de Inmuebles, se cobrarán los derechos en cada caso de acuerdo con lo siguiente:
 
-a).- Por predios urbanos:
+a).- Por predio urbanos:
 
 1.- Por terreno:
 
-Zonas comerciales $ 20.00 M2
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-Zonas residenciales (1o- 2o y 3o orden) $ 10.00 M2
+- Zonas comerciales,
 
-Zonas populares y proletarias $ 4.00 M2
+por metro cuadrado 0.02
 
-Zonas semi-industriales e industriales $ 2.00 M2
+- Zonas residenciales
+
+(1o. 2o. Y 3o. Orden),
+
+por metro cuadrado 0.02
+
+- Zonas populares y proletarias
+
+por metro cuadrado 0.01
+
+- Zonas semi-industriales e
+
+industriales, por metro cuadrado 0.01
 
 2.- Por construcciones:
 
-De uso comercial $ 20.00 M2
+- De uso comercial,
 
-De uso habitacional (1o. 2o. y 3o. orden) $ 20.00 M2
+por metro cuadrado 0.03
 
-De uso habitacional (proletario y popular) $ 20.00 M2
+- De uso habitacional
 
-De uso industrial y semi-industrial $ 7.00 M2
+(1o. 2o. y 3o. orden),
 
-En el caso de predios localizados en poblaciones fuera del área de asiento de la Delegación de Catastro se cobrará además de la tarifa anterior una cuota de: $ 1,500.00
+por metro cuadrado 0.03
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+- De uso habitacional
+
+(proletario y popular),
+
+por metro cuadrado 0.03
+
+De uso industrial y semi-industrial,
+
+por metro cuadrado 0.02
+
+En el caso de predios localizados
+
+en poblaciones fuera del área de
+
+asiento de la Delegación de Catastro,
+
+se cobrará además de la tarifa anterior,
+
+una cuota de: 0.50
 
 b) Por predios rústicos:
 
-> <small>(F. DE E. P.O. 29 DE MAYO DE 1987)</small>
+Hasta de 20 hectáreas 1.65
 
-Hasta 10 Has. $ 5,000.00
+De 21 hectáreas en adelante, el excedente se cobrará, además de la cuota anterior, por hectárea como sigue:
 
-De 21 Has. En adelante el excedente se cobrará además de la cuota anterior como sigue:
+TIPO DE TERRENO
 
-TIPO DE TERRENO CUOTA POR
+Riego de gravedad, por hectárea 0.07
 
-HECTAREA
+Riego de bombeo, por hectárea 0.03
 
-Riego de gravedad $ 200.00
+Riego de avenida o humedad,
 
-Riego de bombeo $ 100.00
+por hectárea 0.02
 
-Riego de avenida o
+Temporal topografía plana,
 
-humedad $ 70.00
+por hectárea 0.01
 
-Temporal topografía
+Temporal topografía accidentada,
 
-plana $ 50.00
+por hectárea 0.01
 
-Temporal topografía
+Agostadero, por hectárea 0.01
 
-accidentada $ 40.00
+Cerriles y forestales, por hectárea 0.01
 
-Agostadero $ 30.00
+Estériles, salitrosas y playas,
 
-Cerriles y forestales $ 20.00
-
-Estériles, salitrosas y playas $ 10.00
+por hectárea 0.01
 
 ART. 296.- Los casos no previstos en esta tarifa, serán resueltos por la Dirección General de Catastro, asimilándoles con alguno de los señalados en ella.
 
 ### CAPITULO III. Actos del Registro Civil
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 ART. 297.- Los derechos por actos del Registro Civil serán los que establece la siguiente:
 
 T A R I F A:
 
-I.- Por la expedición de copias certificadas de actas de Registro Civil, por cada hoja de papel autorizada $ 400.00
+CONCEPTO VECES EL SALARIO
+
+MINIMO VIGENTE
+
+EN SINALOA
+
+I.- Por la expedición de copias
+
+certificadas de actas de
+
+Registro Civil, por cada hoja
+
+de papel autorizada 0.15
 
 II.- Por el Registro:
 
-a).- De nacimiento fuera de la Oficina del Registro Civil $ 3,000.00
+a).- De nacimiento fuera de la
 
-b).- De matrimonio en la Oficina del Registro Civil $ 1,000.00
+Oficina del Registro Civil 1.00
 
-c).- De matrimonios fuera de la Oficina del Registro Civil $ 6,000.00
+b).- De matrimonio en la Oficina del
 
-d).- De reconocimiento de hijos nacidos fuera de matrimonio $ 600.00
+Registro Civil 0.35
 
-e).- De reconocimiento de hijos fuera de matrimonio en otro lugar que no sea la Oficina del Registro Civil $ 2,500.00
+c).- De matrimonio fuera de la
 
-f).- De adopción $ 1,000.00
+Oficina del Registro Civil 2.00
 
-g).- De tutela $ 1,000.00
+d).- De reconocimiento de hijos
 
-III.- Por la anotación de emancipación $ 1,000.00
+nacidos fuera de matrimonio 0.20
+
+e).- De reconocimiento de hijos
+
+fuera de matrimonio en otro lugar
+
+que no sea la Oficina del
+
+Registro Civil 0.80
+
+f).- De adopción 0.35
+
+g).- De tutela 0.35
+
+III.- Por la anotación de
+
+Emancipación 0.35
 
 IV.- Por la inscripción:
 
-a).- De ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia, o la presunción de muerte $ 1,500.00
+a).- De ejecutorias que declaren
 
-b).- De Rectificaciones de las actas del Estado Civil $ 1,500.00
+la incapacidad legal para administrar
 
-c).- De resoluciones judiciales que decreten el divorcio $ 2,500.00
+bienes, la ausencia,
 
-V.- Por la certificación de la falta o de la ilegibilidad de actas o libros de Registro Civil $ 500.00
+o la presunción de muerte 0.50
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+b).- De rectificaciones de las actas
+
+del Estado Civil 0.50
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+c).- De resoluciones judiciales que
+
+decreten el divorcio 0.80
+
+V.- Por la certificación de la falta o
+
+de la ilegibilidad de actas o libros
+
+del Registro Civil 0.15
 
 ART. 298.- No causan los derechos a que se refiere este Capítulo:
 
@@ -2533,45 +2701,91 @@ ART. 300.- Las formas oficiales numeradas valoradas utilizables para copias cert
 
 ART. 301.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Finanzas, de la Sub-Secretaría de Ingresos y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos del procedimiento de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-ART. 302.- Las publicaciones, ventas y suscripciones a que se refiere el artículo anterior, quedarán sujetas a la siguiente:
+ART. 302.- Los derechos a que se refiere el artículo anterior, estarán sujetos a la siguiente:
 
 T A R I F A:
 
+CONCEPTO VECES EL SALARIO
+
+MINIMOGENERAL
+
+VIGENTE EN SINALOA
+
 I.- Por la publicación:
 
-a).- De edictos, avisos, solicitud de ruta, modificación o ampliación de ésta, aumentos de unidades y cualesquiera otra similar de interés particular, por palabra y por cada
+a).- De edictos, avisos,
 
-publicación $ 100.00
+solicitud de ruta, modificación o
 
-b).- De convocatorias, balances, liquidaciones y similares, por plana $ 15,000.00
+ampliación de ésta,
 
-c).- De edictos de remate proveniente de la Sub-Secretaría de Ingresos y de las Oficinas Recaudadoras, por plana. $ 7,200.00
+aumentos de unidades y
+
+cualquiera otra similar de interés
+
+particular, por palabra y por cada
+
+publicación 0.05
+
+b).- De convocatorias, balances,
+
+liquidaciones y similares, por plana 5.00
+
+c).- De edictos de remate proveniente
+
+de la Sub-secretaría de Ingresos de las
+
+Oficinas Recaudadoras, por plana. 2.35
 
 II.- Por la suscripción:
 
-a).- De un año, en el País. $ 5,000.00
+a).- De un año, en el país 1.65
 
-b).- De un año, en el Extranjero $ 10,000.00
+b).- De un año, en el extranjero 3.30
 
 III.- Por la venta de cada número del periódico Oficial.
 
-a).- Del día. $ 150.00
+a).- Del día 0.05
 
-b).- Atrasado, del año corriente $ 350.00
+b).- Atrasado, del año corriente- 0.10
 
-c).- Atrasado, de años anteriores $ 800.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-d).- De dos o más secciones, independientemente de la cuota que procede conforme a los tres incisos anteriores $ 1,600.00
+c).- Atrasado, de años anteriores 0.25
 
-e).- En fotocopias de ediciones agotadas, por página $ 300.00
+d).- De dos o más secciones,
 
-f).- De edición especial que contenga leyes encuadernadas, como suplemento $ 1,500.00
+independientemente de la cuota que
 
-g).- Que contenga la Ley de Ingresos de los municipios $ 750.00
+proceda conforme a los tres
 
-IV.- Por la venta de cada ejemplar de la Ley de Ingresos y presupuesto de Egresos $ 1,500.00.
+incisos anteriores 0.55
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+e).- En fotocopias de ediciones agotadas,
+
+por páginas 0.10
+
+f).- De edición especial que
+
+contenga leyes encuadernadas,
+
+como suplemento 0.50
+
+g).- Que contenga la Ley de Ingresos
+
+de los municipios 0.25
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+IV.- Por la venta de cada ejemplar de
+
+la Ley de Ingresos y presupuesto
+
+de Egresos 0.50
 
 ART. 303.- Las cuotas a que se refiere el Artículo 302 son aplicadas únicamente a las palabras que forman el cuerpo del documento incluyendo las contenidas en el sello, timbres y su cancelación, fechas, firmas y denominaciones que la encabecen. Cuando se trate de documentos que contengan operaciones de contabilidad, tales como balances, facturas, o cuentas, se cobrará por plana, de acuerdo con la tarifa señalada en el Artículo anterior.
 
@@ -2587,17 +2801,17 @@ La Secretaría de Finanzas señalará la documentación que debe acompañarse a 
 
 ### CAPITULO VI. Legalización de Títulos Profesionales
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-ART. 306.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota de $ 800.00.
+ART. 306.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 0.25 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del Derecho correspondiente.
 
-El causante podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
+El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
 
 ART. 307.- No causan los derechos a que se refiere este Capítulo la legalización de títulos profesionales de profesores de Educación Primaria Elemental, Superior y Normal.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
-ART. 308.- Los profesionistas que ejerzan su profesión en el Estado, deberán registrar sus títulos profesionales en la Dirección General del Ramo, previo pago de una cuota de $ 1,000.00.
+ART. 308.- Los profesionistas que ejerzan su profesión en el Estado, deberán registrar sus títulos profesionales en la Dirección General del Ramo, previo pago de una cuota equivalente a 0.35 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del Derecho correspondiente.
 
 El pago se hará en la Secretaría de Hacienda Pública y Tesorería del Estado, la que expedirá el recibo oficial de pago correspondiente.
 
@@ -2605,159 +2819,343 @@ El recibo oficial de pago se exhibirá en la Dirección General de Educación al
 
 ### CAPITULO VII. Registro de Fierros, Marcas, Tatuajes, Aretes y Señales de los Ganaderos
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 ART. 309.- Los derechos por el registro y revalidación de fierros, marcas, y señales de los ganaderos, se cobrarán conforme a la siguiente:
 
 T A R I F A:
 
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN SINALOA
+
 I.- Por el registro de fierros, marcas y señales y la expedición de títulos:
 
-a).- De 1 a 10 cabezas de ganado $ 3,000.00
+a).- De 1 a 10 cabezas de ganado 1.00
 
-b).- De 11 a 20 cabezas de ganado $ 4,500.00
+b).- De 11 a 20 cabezas de ganado 1.50
 
-c).- De 21 a 50 cabezas de ganado $ 6,500.00
+c).- De 21 a 50 cabezas de ganado 2.15
 
-d).- De 51 a 100 cabezas de ganado $ 12,000.00
+d).- De 51 a 100 cabezas de ganado 4.00
 
-e).- De 101 cabezas de ganado en adelante $ 20,000.00
+e).- De 101 cabezas de ganado
 
-II.- Por la reposición de títulos $ 3,000.00
+en adelante 6.60
+
+II.- Por la reposición de títulos 1.00
 
 ### CAPITULO VIII. Registro de Vehículos de Motor
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-ART. 310.- Los propietarios y conductores de vehículos de motor que circulen en cualquier lugar del territorio del Estado de Sinaloa, causarán los derechos fiscales correspondientes, de conformidad con la siguiente:
+ART. 310.- Los propietarios o conductores de vehículos de motor que circulen en cualquier lugar del territorio del Estado de Sinaloa, causarán los derechos fiscales correspondientes, de conformidad con la siguiente:
 
 T A R I F A:
 
-I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcamonía, por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
+CONCEPTO VECES EL SALARIO
 
-a).- Juego de placas de servicio particular por seis años $ 10,000.00
+MINIMO GENERAL
 
-b).- Juego de placas de servicio público local, por seis años $ 12,000.00
+VIGENTE EN SINALOA
 
-c).- Juego de placas de servicio de demostración, por seis años $ 10,000.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-d).- Juego de placas para motocicletas, por un año $ 2,000.00
+I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanía, por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
 
-e).- Permiso provisional para la circulación de maquinaria agrícola y equipo móvil diversos a los previstos en los incisos anteriores, según sea el tamaño de $ 60.00 a $ 1,200.00 diarios.
+a).- Juego de placas de
 
-f).- Permiso provisional para la circulación de vehículos con peso y dimensiones mayores a las autorizadas, según lo previsto por el artículo 63 de la Ley de Tránsito y Transportes del Estado $ 200.00 diarios.
+Servicio Particular por seis años 3.30
 
-g).- Permiso provisional para transporte de carga sobresaliente no autorizada, por viaje $ 350.00 diarios.
+b).- Juego de placas de
 
-h).- Permiso para el transporte nocturno de carga sobresaliente, por viaje $ 300.00 diarios.
+Servicio Público Local, por seis años 4.00
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1987)</small>
+c).- Juego de placas de servicio de
 
-i).- Por la revalidación anual de los juegos de placas a que se refieren los incisos a), b) y c) de esta fracción $ 4,000.00.
+demostración, por seis años 3.30
+
+d).- Por cada placa para motocicleta,
+
+por un año 0.65
+
+e).- Permiso provisional para la
+
+circulación de maquinaria agrícola
+
+y equipo móvil diversos a los previstos
+
+en los inciso (sic) anteriores por día 0.40
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+f).- Permiso provisional para la
+
+circulación de vehículos con peso y
+
+dimensiones mayores a las
+
+autorizadas, según lo previsto por el
+
+Artículo 63 de la Ley de Tránsito y
+
+Transportes del Estado, por día 0.07
+
+g).- Permiso provisional para
+
+transporte de carga sobresaliente
+
+no autorizada, por viaje 0.10
+
+h).- Permiso para el transporte
+
+nocturno de carga sobresaliente,
+
+por viaje 0.10
+
+i).- Por la revalidación anual de
+
+los juegos de placas a que se refieren
+
+los inciso (sic) a), b) y c) de esta
+
+fracción 1.30
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
 II.- Por cada licencia para manejar, por dos años:
 
-a).- Camiones y otros $ 4,000.00
+a).- Camiones y otros 1.50
 
-b).- Automóvil $ 4,000.00
+b).- Automóvil 1.30
 
-c).- Motocicleta $ 2,000.00
+c).- Motocicleta 0.65
 
-III.- Por expedición de nueva tarjeta de circulación por extravío, cambio de domicilio cambio de características del vehículo o cualquier otra causa $ 1.000.00
+III.- Por expedición de nueva tarjeta
 
-IV.- Por reposición de cada licencia para manejar: $ 3,000.00
+de circulación por extravío, cambio
 
-V.- Por cada examen y certificado médico para la expedición o refrendo de licencia para justificar el estado del conductor cuando sea necesario $ 800.00
+de domicilio, cambio de
 
-VI.- Por cada concesión o permiso de ruta o zona para camiones o automóviles destinados al servicio público de pasaje y/o carga. De $ 20,000.00 a $ 150,000.00
+características del vehículo y
 
-VII.- Por cada concesión o permiso de ruta o zona para explotar el servicio exclusivo de turismo, De $ 20,000.00 a $ 150,000.00.
+cualquier otra causa 0.35
 
-VIII.- Por cada concesión o permiso de ruta o zona para el servicio exclusivo de express. De $ 20,000.00 a $ 150,000.00.
+IV.- Por reposición de cada licencia
 
-VI (SIC).- Por cada concesión o permiso de ruta o zona para el transporte especial de carga peligrosa, tales como explosivos y otros similares en los denominados "Pipas" o "Tanques". De $ 50,000.00 a $ 250,000.00
+para manejar 1.00
 
-X.- Por cada traspaso o transmisión de concesión o permiso de ruta a zona, cualquiera que sea la causa que la origine. De $ 50,000.00 a $ 250,000.00.
+V.- Por cada examen o certificado
 
-En los casos a que se refiere las fracciones VI a X inclusive, la Sub-Secretaría de Ingresos determinará el monto del derecho correspondiente atendiendo la importancia económica de la concesión.
+médico para la expedición o refrendo
+
+de licencia para justificar el estado
+
+del conductor cuando sea necesario 0.25
+
+VI.- Por cada concesión o permiso
+
+de ruta o zona para camiones o
+
+automóviles destinados al servicio
+
+público de pasaje y/o carga, de 7 a 50
+
+VII.- Por cada concesión o permiso
+
+de ruta o zona para explotar el servicio
+
+exclusivo de turismo, de 7 a 50
+
+VIII.- Por cada concesión o
+
+permiso de ruta o zona para
+
+el servicio de express, de 7 a 50
+
+IX.- Por cada concesión o permiso
+
+de ruta o zona para el transporte
+
+especial de carga peligrosa,
+
+tales como explosivos u otros
+
+similares en los denominados
+
+"Pipas" o "Tanques", de 16 a 82
+
+X.- Por cada traspaso o transmisión
+
+de concesión o permiso de ruta
+
+a zona, cualquiera que sea la causa
+
+que la origine, de 16 a 82
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+En los casos a que se refieren las fracciones VI a X inclusive, la Sub-Secretaría de Ingresos determinará el monto del derecho correspondiente atendiendo a la importancia económica de la concesión.
 
 XI.- La revalidación anual de cada permiso de ruta o zona se pagará conforme a las siguientes cuotas:
 
-a).- Por cada unidad de transporte urbano, de transporte de pasaje y carga, de transporte de educandos, y de automóviles de sitio:
+a).- Por cada unidad de transporte urbano, de transporte de pasaje y carga de transporte de educandos, y de automóviles de sitio:
 
-1.- Si el pago se hace en el mes de diciembre del año inmediato anterior de aquél a que corresponda la revalidación $ 4,500.00
+1.- Si el pago se hace en el mes de
 
-2.- Si el pago se hace en el mes de enero $ 6,000.00
+Diciembre del año inmediato anterior
 
-3.- Si el pago se hace en el mes de febrero $ 7,500.00
+de aquél a que corresponda la
 
-4.- Si el pago se hace a partir del mes de marzo se cubrirá la cuota de $ 7,500.00, más una multa de $ 1,000.00 por cada mes o fracción del mes de retraso.
+revalidación 1.50
+
+2.- Si el pago se hace en el
+
+mes de enero 2.00
+
+3.- Si el pago se hace en el mes
+
+de Febrero 2.50
+
+4.- Si el pago se hace a partir del mez (sic) de Marzo se cubrirá la cuota de 2.50 a que se refiere el punto anterior, más una multa equivalente a 0.35 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa, en la fecha de causación del Derecho correspondiente, por cada mes o fracción de mes de retraso.
 
 b).- Por cada unidad de servicio público de carga:
 
-1.- Si el pago se hace en el mes de diciembre del año inmediato anterior de aquél a que corresponda la revalidación $ 4,000.00
+1.- Si el pago se hace en el mes de
 
-2.- Si el pago se hace en el mes de enero $ 5,500.00
+diciembre del año inmediato anterior
 
-3.- Si el pago se hace en el mes de febrero $ 7,000.00
+de aquél a que corresponda la
 
-4.- Si el pago se hace a partir del mes de marzo se cubrirá la cuota de: $ 7,500.00, más una multa de $ 1,000.00 por cada mes o fracción de mes de retraso.
+revalidación 1.30
 
-La revalidación anual será obligatoria a partir del 1o. de enero del año siguiente de aquél en que haya sido otorgada la concesión o permiso.
+2.- Si el pago se hace en el
 
-XII.- Por el permiso anual para el transporte previsto en el Artículo 184 de la Ley de Transito y Transporte:
+mes de Enero 1.80
 
-a).- Para educandos $ 4,000.00
+3.- Si el pago se hace en el
 
-b).- En vehículos denominados pipas y tanques $ 5,000.00
+mes de Febrero 2.30
 
-c).- En vehículos de empresas funerarias $ 5,000.00
+4.- Si el pago se hace a partir del mes de Marzo se cubrirá la cuota de 2.30 a que se refiere el punto anterior, más una multa equivalente a 0.35 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa, en la fecha de causación del Derecho correspondiente, por cada mes o fracción de mes de retraso.
 
-d).- En vehículos dotados de grúas $ 5,000.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+La revalidación anual será obligatoria a partir del 1 de Enero del año siguiente de aquél en que haya sido otorgada la concesión o permiso.
+
+XII.- Por el permiso anual para el transporte previsto en el Artículo 184 de la Ley de Tránsito y Transporte:
+
+a).- Para educandos 1.30
+
+b).- En vehículos denominados
+
+pipas y tanques 1.65
+
+c).- En vehículos de empresas
+
+funerarias 1.65
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+d).- En vehículos dotadas de grúa 1.65
 
 e).- Transporte de carga particular en vehículos diversos a los previstos en los incisos anteriores, por año:
 
-1.- Vehículos con capacidad hasta de 2 toneladas: $ 2,500.00
+1.- Vehículos con capacidad hasta de
 
-2.- Vehículos con capacidad de más de 2 toneladas $ 5,000.00
+2 toneladas 0.80
 
-3.- Vehículos cualquiera que sea su capacidad que movilice material
+2.- Vehículos con capacidad de más de
 
-mente (sic) de construcción $ 7,500.00
+2 toneladas 1.65
 
-XIII.- Por permisos eventuales de servicio público:
+3.- Vehículos cualquiera que sea su
 
-a).- Para vehículos de transporte de pasajeros $ 300.00 diarios
+capacidad que movilicen materiales
 
-b).- Para vehículos de carga. $ 150.00 diarios
+de construcción 2.50
 
-c).- Para vehículos de transporte mixto, entendiéndose por éstos a los de carga y
+XIII.- Por permisos eventuales de servicio público, por día:
 
-pasaje. $ 400.00 diarios.
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-d).- Para vehículos de servicio exclusivo de turismo. $ 500.00 diarios.
+a).- Para vehículos de transporte de
 
-XIV.- Por cada permiso para circular sin placas correspondiente a vehículos de servicio particular o público, $ 500.00 diarios
+pasajeros 0.10
 
-XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público. $ 500.00 diarios
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-XVI.- Por cada constancia que no esté comprendida en las fracciones anteriores, que expidan las autoridades de Tránsito del Estado, por hoja $ 300.00
+b).- Para vehículos de carga, 0.05
 
-XVII.- Por expedición de baja de placas $ 1,500.00
+c).- Para vehículos de transporte
 
-XVIII.- Por cada placa de remolque, por seis años $ 8,000.00
+mixto, entendiéndose por éstos a los
 
-XIX.- Por cada estudio socio-económico que se efectúe de acuerdo con la ley de Tránsito y Transportes del Estado, se cobrará una cuota de $ 2,000.00 a $ 10,000.00 considerando el costo del estudio, y
+de carga y pasaje 0.15
 
-XX.- Por cada vehículo que se deposite en la pensión de Tránsito se cobrarán las siguientes cuotas:
+d).- Para vehículos de servicio
 
-a).- Camiones y Ómnibus $ 150.00 diarios
+exclusivo de turismo 0.20
 
-b).- Automóviles y Pick-Ups $ 100.00 diarios
+XIV.- Para cada permiso para circular
 
-c).- Motocicletas $ 50.00 diarios
+sin placas correspondiente a
 
-El trámite de cada uno de las conceptos a que se refiere este Artículo deberá efectuarse en las fechas y dentro de los plazos establecidos por la ley de Tránsito y Transporte del Estado, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El cumplimiento (sic) a los plazos establecidos ocasionará una multa que será fijada por la Secretaría de Hacienda Pública y Tesorería.
+vehículos de servicio particular o
+
+público, por día 0.15
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+XV.- Por cada permiso para
+
+manejar sin licencia de conductor
+
+correspondiente a vehículos de
+
+servicio particular o público, por día 0.15
+
+XVI.- Por cada constancia que
+
+no esté comprendida en las
+
+fracciones anteriores, que expidan las
+
+autoridades de Tránsito del Estado,
+
+por hoja 0.10
+
+XVII.- Por expedición de baja
+
+de placas 0.50
+
+XVIII.- Por cada placa de remolque,
+
+por seis años 2.65
+
+XIX.- Por cada estudio
+
+socio-económico que se efectúe
+
+de acuerdo con la Ley de Tránsito y
+
+Transportes del Estado, se cobrará
+
+una cuota de 0.65 a 3.30
+
+XX.- Por cada vehículo que se deposite en la pensión de Tránsito se cobrarán las siguientes cuotas, por día:
+
+a).- Camiones y Ómnibuses 0.05
+
+b).- Automóviles y Pick-Ups 0.03
+
+c).- Motocicletas 0.02
+
+El trámite de cada uno de los conceptos a que se refiere este Artículo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes del estado, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El iincumplimiento (sic) a los plzos (sic) establecidos ocasionará una multa que será fijada por la Secretaría de Hacienda Pública y Tesorería.
 
 ART. 311.- Para la aplicación de las multas por violaciones a la Ley General de Tránsito y Transportes del Estado, se atendrá a lo dispuesto por dicha Ley.
 
@@ -2771,13 +3169,31 @@ II.- Por la expedición de pasaportes para dos o más personas 400.00.
 
 ### CAPITULO X. Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
-ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad causarán derechos fiscales conforme a la siguiente tarifa:
+ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad causarán derechos fiscales conforme a la siguiente:
 
-I.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible, cuando se devuelva sin inscribir a petición de interesados o por resolución judicial, se cobrará por las primeras diez hojas $ 150.00 y $ 50.00 por cada hoja adicional;
+T A R I F A:
 
-II.- En la inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuotas se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el cobro se hará sobre la base del valor que resulte mayor entre el declarado en la operación, el de avalúo comercial, o el de valor catastral, aplicándose un porcentaje de 0.75% sobre dicho valor;
+(REFORMAD0, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN SINALOA
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+I.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible, cuando se devuelva sin inscribir a petición de interesados o por resolución judicial, se cobrará:
+
+a).- Por las primeras diez hojas 0.05
+
+b).- Por cada hoja adicional 0.01
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+II.- En la inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el cobro se hará sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial, o el valor catastral, aplicándose un porcentaje de 0.75% sobre dicho valor;
 
 III.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará al hacerse la primera inscripción, con arreglo a la fracción II, y al practicarse la inscripción complementaria, se pagará el 25% de lo que corresponda con arreglo a dicha fracción II;
 
@@ -2789,51 +3205,141 @@ VI.- Las cédulas hipotecarias pagarán el 50% de las cuotas de la fracción II,
 
 VII.- La inscripción de las demandas a que se refiere el Artículo 67 del Reglamento del Registro Público de la Propiedad se pagará el 35% de las cuotas de la fracción II;
 
-VIII.- (DEROGADA, P.O. 2 DE NOVIEMBRE DE 1987)
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 1988)</small>
+
+VIII.- Las cancelaciones en los casos a que se refieren las fracciones IV y VI, pagarán el 35% de la cuota que señala la fracción II;
 
 IX.- Los créditos hipotecarios y refaccionarios, así como los créditos de habilitación o avío, causarán sobre el importe de la operación el 0.25%;
 
 X.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación de dominio del vendedor, de la prenda en general, de la prenda de frutos pendientes de bienes y raíces y de la prenda de título de créditos, causarán el 50% de las cuotas que señala la fracción II;
 
-XI.- El registro de testamento, de autos de declaración de herederos y nombramientos del albacea definitivo, independientemente de los derechos por depósitos y por la inscripción de las transmisiones a que haya lugar, causarán la cuota de $ 3,000.00;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
-XII.- La inscripción de las asociaciones de carácter civil causarán una cuota fija: de $ 3,000.00
+XI.- El registro de testamento,
+
+de autos de declaración de herederos
+
+y nombramientos de la albacea definitivo,
+
+independientemente de los derechos
+
+por depósitos o por la inscripción de las
+
+transmisiones a que haya lugar,
+
+causarán la cuota de 1.00
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XII.- La inscripción de las asociaciones
+
+de carácter civil causarán una
+
+cuota fija de 1.00
 
 XIII.- Tratándose de sociedades civiles se pagará:
 
 a).- La inscripción de la escritura constitutiva y de los aumentos de capital, causarán las cuotas de la fracción II sobre el importe del capital social o de los aumentos, según el caso;
 
-b).- Cualquier modificación de la escritura constitutiva, exceptuando el aumento de capital social, causará una cuota fija de $ 3,000.00; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
+b).- Cualquier modificación de la
+
+escritura constitutiva, exceptuando
+
+el aumento de capital social,
+
+causará una cuota fija de 1.00
 
 c).- La cancelación del registro por extinción de la sociedad, causará el 35% de las cuotas de la fracción II;
 
 XIV.- Tratándose de fundaciones de beneficiencia (sic) privada, se pagarán el 50% de las cuotas que procedan, en los términos de la fracción anterior;
 
-XV.- Por las constancias y ratificaciones a que se refiere el Artículo 145 del Reglamento del Registro Público del Estado, se pagará una cuota de $ 2,000.00
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XV.- Por las constancias y
+
+ratificaciones a que se refiere el
+
+Artículo 145 del Reglamento del
+
+Registro Público del Estado,
+
+se pagará una cuota de 0.65
 
 XVI.- Por el depósito de un testamento ológrafo:
 
-a).- Si el depósito se hace en la oficina del Registro Público $ 3,000.00
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-b).- Si el depósito se hace fuera de la Oficina del Registro Público $ 5,000.00
+a).- Si el depósito se hace en la
 
-XVII.- Por informes relativos al otorgamiento de testamentos ológrafos incluyendo la búsqueda $ 1,000.00
+Oficina del Registro Público 1.00
 
-XVIII.- Por la expedición de copia certificada de cualquier documento que se encuentre inscrito se pagará independientemente de la búsqueda, por cada hoja. $ 500.00
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-XIX.- Por la búsqueda para la expedición de certificados o copias certificadas, por cada hoja 200.00
+b).- Si el depósito se hace fuera de la
 
-XX.- Por la expedición de certificados de libertad de gravámenes de inmuebles o de derechos reales y cualquier otro certificado independientemente de la búsqueda, por cada hoja $ 1,500.00
+Oficina del Registro Público 1.65
 
-XXI.- Las informaciones ad-perpetuam causarán los derechos de la fracción II de acuerdo con el valor comercial o el catastral y tomando en cuenta lo dispuesto en el inciso e) de la fracción I del Artículo siguiente;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
-XXII.- En caso de rescisión de contrato, cualquiera que sea su naturaleza, se pagará el 25% de las cuotas a que se refiere la fracción II;
+XVII.- Por informes relativos al
 
-XXIII.- Por el registro de la constitución del patrimonio familiar, se cobrará conforme a (sic) fracción II de este mismo Artículo.
+otorgamiento de testamentos ológrafos
 
-XXIV.- En cuanto al registro del régimen de condominio, se cobrará una cuota fija de $ 5,000.00 por la inscripción de los títulos públicos o privados, de resoluciones judiciales, administrativas o de cualquiera otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de los lotes o departamentos al régimen de condominio se cobrarán conforme a la fracción II de este Artículo.
+incluyendo la búsqueda 0.35
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XVIII.- Por la expedición de copia
+
+certificada de cualquier documento
+
+que se encuentre inscrito se pagará
+
+independientemente de la búsqueda,
+
+por cada hoja 0.15
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XIX.- Por la búsqueda para la
+
+expedición de certificados o copias
+
+certificadas, por cada hoja 0.07
+
+(REFORMADA, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+
+XX.- Por la expedición de certificados
+
+de libertad de gravámenes de
+
+inmuebles de derechos reales y
+
+cualquier otro certificado,
+
+independientemente de la búsqueda,
+
+por cada hoja 0.50
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XXI.- Las informaciones ad-perpetuam causarán los derechos de la Fracción II de acuerdo con el valor comercial o el catastral y tomando en cuenta lo dispuesto en el inciso e) de la fracción I del Artículo siguiente.
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XXII.- En caso de rescisión de contrato, cualquiera que sea su naturaleza, se pagará el 25% de las cuotas a que se refiere la fracción II.
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XXIII.- Por el registro de la constitución del patrimonio familiar, se cobrará conforme a la fracción II de este mismo Artículo.
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XXIV.- Por la inscripción de títulos públicos o privados, de resoluciones judiciales, administrativas o de cualquiera otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de lotes o departamentos sujetos al régimen de condominio, se cobrará conforme a la fracción II de este Artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ART. 314.- Para el cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
 
@@ -2859,7 +3365,9 @@ IV.- Para la aplicación de las tasas de la fracción II del artículo anterior,
 
 V.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en las tarifas del artículo anterior, los derechos que a ellos correspondan se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza;
 
-VI.- Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte haciendo el cómputo por un año, más una cuota fija de $ 1,000.00;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+VI.- Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte haciendo el cómputo por un año;
 
 VII.- No causan los derechos a que se refiere este Capítulo:
 
@@ -2877,63 +3385,155 @@ e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos 
 
 f).- La cancelación del registro de gravámenes sobre créditos hipotecarios, refaccionarios o de habilitación o avío.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
 
 ART. 315.- Los servicios que se presten en el Registro Público de Comercio causarán derechos fiscales de acuerdo con la siguiente:
 
 T A R I F A:
 
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN SINALOA
+
 I.- La inscripción de contratos mercantil de cualquier clase no especificados en otras fracciones de esta tarifa, causará los respectivos derechos de acuerdo con lo dispuesto en la fracción II del Artículo 313, sobre la base de valor de las operaciones;
 
 II.- Por la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del Artículo 313, sobre la base del capital declarado;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
 
 III.- Tratándose de sociedades mercantiles la cotización de los servicios se hará en los términos siguientes:
 
 a).- La inscripción de la escritura constitutiva o de los aumentos de capital social causará las mismas cuotas que establece la fracción II del Artículo 313, sobre el importe del capital social o de los aumentos según sea el caso. Las sociedades de capital variable pagarán sobre el capital inicial. En caso de establecimientos de sucursales de sociedades mercantiles se tomará como base el capital afectado a ellas;
 
-b).- Cualquier modificación a la escritura constitutiva, exceptuando el aumento de capital social, causará una cuota fija de $ 3,000.00;
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-c).- La inscripción de la disolución de las sociedades causará, si no hay bienes que se adjudiquen a los socios o terceros, una cuota fija de $ 1,500.00. Si hay bienes que se adjudiquen a los socios o terceros, se causarán los derechos que correspondan con arreglo a la fracción II del Artículo 313, sobre la base del valor de los bienes adjudicados;
+b).- Cualquier modificación
 
-d).- La cancelación de la inscripción del contrato social causará la cuota fija de: $ 3,000.00;
+a la escritura constitutiva,
 
-e).- La inscripción de actas de asambleas, de accionistas pagará la cuota fija de: $ 3,000.00; y,
+exceptuando el aumento de
 
-f).- El depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles, causará la cuota de $ 3,000.00;
+capital social, causará
+
+una cuota de 1.00
+
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+
+c).- La inscripción de la disolución de las sociedades causará, si no hay bienes que se adjudiquen a los socios o terceros, una cuota equivalente a 0.50 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa, en la fecha de causación del Derecho correspondiente. Si hay bienes que se adjudiquen a los socios o terceros, se causarán los derechos que correspondan con arreglo a la fracción II del Artículo 313, sobre la base del valor de los bienes adjudicados;
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
+d).- La cancelación de la
+
+inscripción del contrato social,
+
+causará la cuota de 1.00
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
+e).- La inscripción de actas
+
+de asambleas de accionistas,
+
+pagará la cuota de 1.00
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
+f).- El depósito del programa a
+
+que se refiere el Artículo 92
+
+de la Ley General de Sociedades
+
+Mercantiles, causará la cuota de 1.00
 
 IV.- La inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas causará los respectivos derechos de acuerdo con lo dispuesto en la fracción II del Artículo 313;
 
 V.- Los créditos hipotecarios, refaccionarios y habilitación o avío causarán los respectivos derechos de acuerdo con lo dispuesto en la fracción IX del Artículo 313;
 
-VI.- La inscripción de poderes y de las substituciones de los mismos pagarán una cuota de $ 3,000.00
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
-En el caso de revocación de poder pagarán una cuota de $ 2,000.00
+VI.- La inscripción de poderes
+
+y de las substituciones de los
+
+mismos pagarán una cuota
+
+de 1.00
+
+En el caso de revocación de
+
+poder se pagarán una cuota de 0.65
 
 El otorgamiento de poderes a los administradores o gerentes de sociedades mercantiles, hecho en las escrituras constitutivas o en sus modificaciones, no causarán cuotas de inscripción;
 
-VII.- La habilitación de edad, licencia y emancipación para ejercer el comercio, las revocaciones de unos y otros, y las escrituras, a que se refieren las fracción (sic) X y XI del Artículo 21 del Código de Comercio $ 1,000.00
+(REFORMADA, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
-VIII.- La inscripción de las resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial $ 3,000.00
+VII.- La habilitación de edad,
 
-IX.- Las anotaciones referentes a inscripciones principales $ 1,600.00
+licencia y emancipación para ejercer
+
+el comercio, las revocaciones de
+
+unos y otros, y las escrituras a que
+
+se refieren las Facciones X y XI del
+
+Artículo 21 del Código de Comercio 0.35
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+VIII.- La inscripción de las
+
+resoluciones judiciales en
+
+que se declare una quiebra o
+
+se admita una liquidación judicial 1.00
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+IX.- Las anotaciones referentes
+
+a inscripciones principales 0.55
 
 X.- Las certificaciones y certificados pagarán con arreglo a la fracción XVIII de la tarifa del Artículo 313;
 
 XI.- Por la búsqueda se pagará con arreglo a la fracción XIX de la tarifa del Artículo 313;
 
-XII.- Por los depósitos y guardas de documentos $ 1.000.00
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
 
-XIII.- Ratificaciones de documentos y firmas ante el Registrador $ 1.000.00
+XII.- Por el depósito y guarda
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+de documentos 0.35
 
-ART. 316.- Para el cobro de los derechos que establece la tarifa del artículo anterior, se observarán las siguientes reglas:
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XIII.- Ratificaciones de documentos
+
+y firmas ante el Registrador 0.35
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
+
+ART. 316.- Para el cobro de los derechos que establece la tarifa del Artículo anterior, se observarán las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
 
 I.- Cuando un mismo documento origine dos o más inscripciones, lo (sic) derechos se causarán por cada inscripción;
 
-II.- Cuando deban hacerse inscripciones de distintas operaciones que se deriven de la constitución o disolución de una sociedad mercantil, los derechos se cobrarán exclusivamente por la inscripción que se haga en la sección de Comercio.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
 
-III.- Los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía; en caso contrario por lo que resultare haciendo el cómputo por un año más una cuota fija de $ 1,000.00.
+II.- Cuando deban hacerse inscripciones de distintas operaciones que se deriven de la constitución o disolución de una sociedad mercantil, los derechos se cobrarán exclusivamente por la inscripción que se haga en la sección de Comercio;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
+
+III.- Los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por un año;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
 
 IV.- En los casos no previstos expresamente en el Artículo anterior, los derechos por servicios que se presten en el Registro Público de la Propiedad y del Comercio, se causarán por asimilación en los términos de las fraccisones (sic) relativas a casos con los que tengan semejanza. Tendrán aplicación, en su caso, las reglas establecidas en el Artículo 314.
 
@@ -2961,51 +3561,169 @@ ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refie
 
 De los Permisos para Transportar Alcohol, Vinos y Licores y de los Permisos y Registros para el funcionamiento de Fábricas y Expendios de Bebidas Alcohólicas y de otras Bebidas
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
-ART. 324.- Los derechos por el otorgamiento de permisos o su revalidación, para la elaboración y venta de bebidas embriagantes; por los permisos y registros para el funcionamiento de almacenes, depósitos o expendios de cerveza y de otras bebidas, incluyendo los servicios de Inspección para constatar que se han cumplido o subsisten las condiciones exigidas por las disposiciones legales respectivas, se cobrarán los siguientes derechos:
+ART. 324.- Los derechos por el otorgamiento de permisos o su revalidación, para transportar alcoholes, vinos y licores, para la elaboración y venta de bebidas embriagantes; por los permisos y registros para el funcionamiento de almacenes, depósitos y expendios de cerveza y de otras bebidas, incluyendo los servicios de inspección para constatar que se han cumplido o subsisten las condiciones exigidas por las disposiciones legales respectivas, se cobrarán conforme a la siguiente:
 
-I.- Por la licencia o permiso para el transporte de alcohol, bebidas alcohólicas y su registro de $ 6,000.00 a $ 50,000.00
+T A R I F A:
 
-II.- Por la revalidación de las licencias o permisos para el transporte de alcohol, bebidas alcohólicas o su registro de $ 5,000.00 a $ 20.000.00
+CONCEPTO VECES EL SALARIO
 
-III.- Por el permiso o licencia para la elaboración de alcohol y bebidas embriagantes de $ 150,000.00 a $ 350,000.00
+MINIMO GENERAL
 
-IV.- Por la revalidación anual de permisos o licencia para la elaboración de alcohol y bebidas embriagantes de $ 120,000.00 a $ 700,000.00
+VIGENTE EN SINALOA
 
-V.- Por el permiso o licencia para el funcionamiento de almacenes, depósitos y expendios de alcohol y de bebidas embriagantes en botella cerrada de $ 150,000.00 a $ 700,000.00
+I.- Por la licencia o permiso
 
-VI.- Por la revalidación anual de permisos o licencias para el funcionamiento de almacenes, depósitos y expendios de alcohol y de bebidas embriagantes de $ 120,000.00 a $ 700,000.00
+para el transporte de alcohol,
 
-VII.- Por el permiso o licencia para el funcionamiento de expendios de bebidas embriagantes al copeo o en botella cerrada de $ 150,000.00 a $ 750,000.00
+bebidas alcohólicas y su
 
-VIII.- Por la revalidación anual de permisos o licencias para el funcionamiento de expendios de bebidas embriagantes al cope o en botella cerrada, de $ 120,000.00 a $ 700,000.00
+registro, de 2 a 16
 
-IX.- Por el permiso o licencia para el funcionamiento de supermercado con venta de licores de $ 150,000.00 a $ 700,000.00
+II.- Por la revalidación de
 
-X.- Por la revalidación anual de permisos o licencias para el funcionamiento de super-mercados con venta de licores de $ 150,000.00 a $ 700,000.00
+las licencias o permisos
 
-XI.- Por el permiso o licencia para el funcionamiento de restaurantes con venta de cerveza. $ 150,000.00 a $ 300,000.00
+para el transporte de alcohol,
 
-XII.- Por la revalidación anual de permisos o licencias para el funcionamiento de restaurantes con venta de cerveza de $ 160,000.00 a $ 500,000.00
+bebidas alcohólicas o su
 
-XIII.- Por el permiso o licencia para el funcionamiento de restaurantes con venta de vinos y licores de $ 150,000.00 a 700,000.00
+registro de 2 a 7
 
-XIV.- Por la revalidación anual de permisos o licencias para el funcionamiento de restaurantes con vena de vinos y licores de $ 150,000.00 a $ 700,000.00
+III.- Por el permiso o licencia
 
-XV.- Por el registro de almacenes o depósitos de cerveza de $ 130,000.00 a $ 500,000.00
+para la elaboración de alcohol
 
-XVI.- Por la revalidación anual de registro de almacenes o depósitos de cerveza de $ 130,000.00a $ 500,000.00
+y bebidas embriagantes, de 50 a 115
 
-XVII.- Por el permiso o licencia para el establecimiento de cervecerías de $ 50,000.00 a $ 500,000.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-XVIII.- Por la revalidación anual de licencia o permiso para el funcionamiento de cervecerías de $ 50,000.00 a $ 500,000.00
+IV.- Por la revalidación anual de
 
-XIX.- Por el otorgamiento de permisos eventuales para la celebración de eventos con venta de bebidas alcohólicas y embriagantes, por cada fecha de $ 6,000.00 a $ 50,000.00
+permisos o licencia para la
 
-Cuando la apertura de algunos de los establecimientos especificados en este artículo se produzca dentro de los tres últimos meses del año, el permiso o licencia y registro requeridos para la apertura causará una cuota en proporción del 50% de lo que corresponda conforme a los incisos precedentes, sin perjuicio de la obligación de revalidación dentro de los primeros tres meses del siguiente año y de cubrir la cuota de revalidación respectiva.
+elaboración de alcohol y bebidas
 
-La asignación de la cuota aplicable entre la mínima y la máxima de la tarifa anterior, será hecha por la Secretaría de Hacienda Pública y Tesorería del Estado por conducto de la Sub-Secretaría de Ingresos.
+embriagantes, de 40 a 230
+
+V.- Por el permiso o licencia para
+
+el funcionamento (sic) de almacenes,
+
+depósitos y expendios de alcohol
+
+y de bebidas embriagantes en botella
+
+cerrada, de 50 a 230
+
+VI.- Por la revalidación anual de
+
+permiso o licencia para el
+
+funcionamiento de almacenes,
+
+depósitos y expendios de alcohol y
+
+de bebidas embriagantes, de 40 a 230
+
+VII.- Por el permiso o licencia
+
+para el funcionamiento de expendios
+
+de bebidas embriagantes al copeo o
+
+en botella cerrada, de 50 a 246
+
+VIII.- Por la revalidación anual de
+
+permiso o licencia para el
+
+funcionamiento de expendios de
+
+bebidas embriagantes al copeo en
+
+botella cerrada, de 40 a 230
+
+IX.- Por el permiso o licencia para el
+
+funcionamiento de supermercados
+
+con venta de licores de 50 a 230
+
+X.- Por la revalidación anual de
+
+permiso o licencia para el
+
+funcionamiento de super mercados
+
+con venta de licores, de 50 a 230
+
+XI.- Por el permiso o licencia para
+
+el funcionamiento de restaurantes
+
+con venta de cerveza de 50 a 100
+
+XII.- Por la revalidación anual
+
+de permiso o licncia (sic) para el
+
+funcionamiento de restaurantes con
+
+venta de cerveza 53 a 164
+
+XIII.- Por el permiso o licencia para
+
+el funcionamiento de restaurantes
+
+con venta de vinos y licores, de 50 a 230
+
+XIV.- Por la revalidación anual de
+
+permiso o licencia para el
+
+funcionamiento de restaurantes con
+
+ventas de vinos y licores, de 50 a 230
+
+XV.- Por el registro de almacenes o
+
+depósitos de cerveza, de 43 a 164
+
+XVI.- Por la revalidación anual de
+
+registro de almacenes o depósitos
+
+de cerveza de 43 a 164
+
+XVII.- Por el permiso o licencia para
+
+el establecimiento de cerverías (sic)
+
+de 16 a 164
+
+XVIII.- Por la revalidación de
+
+licencia o permiso para el
+
+funcionamiento de cervecerías de 16 a 164
+
+XIX.- Por el otorgamiento de
+
+permisos eventuales para la
+
+celebración de eventos con venta
+
+de bebidas alcohólicas y
+
+embriagantes, por cada fecha, de 2 a 16
+
+Cuando la apertura de algunos de los establecimientos especificados en este artículo se produzca dentro de los tres últimos meses del año, el permiso o licencia y registro requeridos para la apertura causará una cuota en proporción del 50% de lo que corresponda conforme a las fracciones precedentes, sin perjuicio de la obligación de revalidación dentro de los primeros tres meses del siguiente año y de cubrir la cuota de revalidación respectiva.
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+La asignación de la cuota aplicable entre la mínima y la máxima, de la tarifa anterior, será hecha por la Secretaría de Hacienda Pública y Tesorería del Estado por conducto de la Sub-Secretaría de Ingresos.
 
 ART. 325.- La revalidación anual de los permisos, licencias y registros a que se refiere el artículo anterior, deberá efectuarse durante los meses de enero a marzo de cada año, en caso contrario, se pagará, además de los derechos correspondientes, una multa de un tanto del principal.
 
@@ -3583,53 +4301,61 @@ Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, v
 
 ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes exenciones, relativas al uso o aprovechamiento de la carretera costera Plan Mar de Cortés, se sujetarán a lo dispuesto en este capítulo.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-ART. 334 Bis A.- El uso de la carretera costera Plan Mar de Cortés, mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la carretera a El dorado o viceversa, estará sujeto a las siguientes cuotas:
+ART. 334 Bis A.- El uso de la Carretera Costera Plan Mar de Cortés, mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la Carretera a Eldorado o viceversa, estará sujeto a la siguiente:
 
-Clase de Vehículo Tramo Completo Medio Tramo
+T A R I F A:
 
-I.- Motocicletas $ 1,000.00 $ 500.00
+CLASE DE VECES EL SALARIO
 
-II.- Automóviles y camionetas tipo pick-up y panel, de hasta10 pasajeros:
+VEHICULO MINIMO GENERAL
 
-a).- Sin remolque 2,000.00 1,000.00
+VIGENTE EN SINALOA
 
-b.-) Con remolque 3,000.00 1,500.00
+Tramo Completo Tramo Intermedio
+
+I.- Motocicletas 0.20 0.10
+
+II.- Automóviles y Camionetas
+
+tipo Pick-Up y panel, de hasta
+
+10 pasajeros:
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+a) Sin remolque 0.40 0.20
+
+b) Con remolque 0.60 0.30
 
 III.- Autobuses de
 
-pasajeros 3,000.00 1,500.00
+Pasajeros 0.60 0.30
 
-IV.- Camiones de
+IV.- Camiones de carga
 
-carga de 2-Ejes 4,000.00 2,000.00
+de 2 ejes 0.80 0.40
 
-V.- Camiones de
+V.- Camiones de carga o
 
-carga o tractores
+tractores con semiremolque
 
-con semiremolque
+de 3 ejes 1.00 0.50
 
-de 3 ejes 4,500.00 2,200.00
+VI.- Camiones de carga o
 
-VI.- Camiones de
+tractores con remolque de
 
-carga o tractores
+4 ejes 1.20 0.60
 
-con remolque de
+VII.- Camiones de carga
 
-4 ejes 5,400.00 2,700.00
+o tractores con remolque de
 
-VII.- Camiones de
+5 ejes 1.40 0.70
 
-carga o tractores
-
-con remolque de
-
-5 ejes $ 6,300.00 3,000.00
-
-En tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, la cuota a que se refiere la fracción VII se incrementará en un 20% por cada eje excedente.
+En tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementará en un 10% por cada eje excedente.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
@@ -3637,37 +4363,41 @@ ART. 334 Bis B.- Estarán excentos (sic) del pago de cuotas los vehículos milit
 
 Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados Locales y Presidentes Municipales del Estado de Sinaloa.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
-ART. 334 Bis C.- Por el otorgamiento de autorización para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de la carretera costera Plan Mar de Cortés, o su refrendo anual, se pagarán los siguientes derechos:
+ART. 334 Bis C.- Por el otorgamiento de autorización para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de la Carretera Costera Plan Mar de Cortés, o su refrendo anual, se pagarán conforme a la siguiente:
 
-Por la autorización Por el
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-Inicial Refrendo
+T A R I F A:
 
-Anual
+VECES EL SALARIO MINIMO GENERAL
 
-I.- Establecimientos
+VIGENTE EN SINALOA
 
-con venta de combustibles
+CLASE DE POR LA POR EL
 
-y lubricantes $ 60,000.00 $ 30,000.00
+ESTABLECIMIENTO AUTORIZACION REFRENDO
 
-II.- Restaurante y
+INICIAL ANUAL
 
-similares 40,000.00 20,000.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-III.- Taller mecánico y
+I.- Establecimientos con venta
 
-eléctrico 20,000.00 15,000.00
+de combustibles y lubricantes 12.00 6.50
 
-IV.- Otros 15,000.00 10,000.00
+II.- Restaurante y similares 8.50 4.25
+
+III.- Taller mecánico y/o
+
+Eléctrico 4.50 2.25
+
+IV.- Otros 3.25 2.00
 
 La autorización será expedida por el organismo que tenga a su cargo la administración de la mencionada carretera, previa presentación de la solicitud correspondiente.
 
 El pago del derecho por la autorización inicial se hará previamente a su otorgamiento. El refrendo se pagará durante el mes de Junio de cada año.
-
-Estos derechos se pagarán en las oficinas que al efecto señale la Secretaría de Hacienda y Tesorería (sic).
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
@@ -4997,33 +5727,81 @@ ART. 292 Bis.- El impuesto contenido en este Capítulo, no se causará mientras 
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
-ART. 293.- Los derechos por concepto de legalización de firmas, certificaciones y expedición de copias de documentos por los funcionarios competentes del Estado se causarán conforme a la siguiente:
+ART. 293.- Los Derechos por concepto de legalización de firmar (sic), certificaciones y expedición de copias de documentos por los funcionarios competentes del estado se causarán conforme a la siguiente:
 
-T A R I F A
+T A R I F A:
 
-I.- Legalización de Firmas $ 800.00
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
 
-II.- Certificaciones de Firmas en Actas Constitutivas de sociedades cooperativas $ 2,500.00
+CONCEPTO VECES EL SALARIO
 
-III.- Certificados de "No adeudo" por concepto de créditos fiscales $ 800.00
+MINIMOGENERAL
 
-IV.- Certificados de "No adeudo" por concepto de multas $ 800.00
+VIGENTE EN SINALOA
 
-V.- Certificados del valor fiscal de predios $ 800.00
+I.- Legalización de Firmas 0.25
 
-VI.- Certificados de fechas de pagos de créditos fiscales $ 800.00
+II.- Certificaciones de firmas en
 
-VII.- Copias certificadas de Documentos por hoja $ 200.00
+Actas Constitutivas de sociedades
 
-VIII.- Copias simples de los documentos a que se refiere la fracción VI anterior $ 200.00
+cooperativas 0.80
 
-IX.- Duplicados autógrafos al carbón de los mismos documentos a que se refiere la fracción VI anterior $ 150.00
+III.- Certificados de "No Adeudo" de
 
-X.- Copias simples de los documentos a que se refiere la fracción VII anterior, por hoja $ 150.00
+créditos fiscales 0.25
 
-XI.- Duplicados autógrafos al carbón de los mismos documentos a que se refiere la fracción VII anterior, por hoja $ 750.00
+IV.- Certificados de "No Adeudo" por
 
-XII.- Cualquiera otra certificación que se expida diferente de las ya expresadas $ 1,600.00
+concepto de multas 0.25
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+V.- Certificados del valor fiscal
+
+de predios 0.25
+
+VI.- Certificados de fechas de pagos
+
+de créditos fiscales 0.25
+
+VII.- Copias certificadas de Documentos
+
+por hoja 0.07
+
+VIII.- Copias simples de los
+
+documentos a que se refiere la
+
+fracción VI anterior 0.07
+
+IX.- Duplicados autógrafos al
+
+carbón de los mismos documentos
+
+a que se refiere la
+
+fracción VI anterior 0.05
+
+X.- Copias simples de los
+
+documentos a que se refiere la
+
+fracción VII anterior, por hoja 0.05
+
+XI.- Duplicados autógrafos al carbón
+
+de los mismos documentos
+
+a que se refiere la fracción VII anterior
+
+por hoja 0.25
+
+XII.- Cualquiera otra certificación que
+
+se expida diferente de las ya
+
+expresadas 0.50
 
 Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
 
@@ -5270,3 +6048,13 @@ P.O. 2 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE MARZO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Las presentes Reformas entrarán en vigor a partir del 15 de abril del presente año.
