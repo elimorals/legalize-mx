@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1975-05-21"
+last_updated: "1975-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 1975 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1975.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -1361,7 +1363,7 @@ Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo 
 
 ###### Artículo 234.
 
-Estas donaciones no se anularán por la Supervivencia de los hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+Estas donaciones no se anularán por la Supervivencia de los hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes
 
 ### CAPITULO IX.
 
@@ -2089,6 +2091,8 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 De la Adopción.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+
 ###### Artículo 355.
 
 El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
@@ -2275,11 +2279,21 @@ De los efectos de la Patria Potestad respecto de los bienes del hijo.
 
 ###### Artículo 391.
 
-Los mayores de treinta años, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aún cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Los mayores de treinta años, en pleno ejercicio de sus derechos, pueden adoptar a un menor o a un incapacitado, aún cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
 
 ###### Artículo 392.
 
 El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1975)</small>
+
+Una persona casada podrá adoptar uno o más hijos de su cónyuge, cuando éste ejerza la patria potestad sobre quienes se trate de adoptar sin compartirla con el otro progenitor.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1975)</small>
+
+También podrá llevarse a cabo la adopción a que se refiere el párrafo anterior, si ejerciendo la patria potestad el otro progenitor, consiente en ella de acuerdo con lo que dispone la fracción I del artículo 398.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
 
 ###### Artículo 393.
 
@@ -2335,9 +2349,13 @@ El Juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+
 ###### Artículo 404.
 
-Los derechos y obligaciones que resulten del parentesco natural, no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+
+En los casos de los párrafos segundo y tercero del artículo 392, el padre o la madre del hijo o de los hijos adoptados, compartirán la patria potestad sobre estos con el cónyuge adoptante.
 
 ###### Artículo 405.
 
@@ -2350,6 +2368,10 @@ La adopción puede revocarse:
 I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 398;
 
 II.- Por ingratitud del adoptado.
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 1975)</small>
+
+III.- En los casos de los párrafos segundo y tercero del artículo 392, cuando siendo aún menores de edad o mayores incapacitados el hijo o los hijos adoptados, se disuelve el matrimonio por causas de divorcio o nulidad. Cualquiera de los dos cónyuges podrá pedir esta revocación.
 
 ###### Artículo 407.
 
@@ -12077,6 +12099,8 @@ No podrá darse en arrendamiento una localidad que no reúna las condiciones de 
 
 El arredador (sic) que no haga las obras que ordene la autoridad competente en el Estado, en el ramo de Salubridad Pública, como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esta causa, y pagará, además, una multa de veinticinco a cien pesos.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+
 ###### Artículo 2333.
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
@@ -12088,8 +12112,6 @@ No puede renunciarse anticipadamente el derecho de cobrar la indemnización que 
 ###### Artículo 2334.
 
 La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
 ### CAPITULO VII.
 
@@ -15438,3 +15460,9 @@ Los padres que hayan dejado o dejen transcurrir el término legal sin hacer la d
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto empezará a surtir sus efectos legales correspondientes, el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE AGOSTO DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
