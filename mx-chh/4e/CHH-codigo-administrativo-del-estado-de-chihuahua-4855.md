@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1997-02-26"
+last_updated: "1997-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -7549,8 +7549,6 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
-
 ###### ARTICULO 1318.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
@@ -7587,377 +7585,117 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
 # LIBRO TERCERO. DE LAS OBRAS PUBLICAS
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ## TITULO UNICO
 
-### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
 
 ###### ARTICULO 1327.
 
-Este Libro contiene disposiciones de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la obra pública, que realicen el Gobierno del Estado y los de los municipios, sus organismos descentralizados y las demás entidades que integren sus sectores paraestatales.
-
-Se considera obra pública todo trabajo que tenga por objeto crear, construir, conservar o demoler bienes inmuebles por su naturaleza o disposición de la ley.
-
-Quedan comprendidos:
-
-I.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes a que se refiere este artículo, incluidos los que tienden a mejorar y utilizar los recursos agropecuarios del Estado y de los municipios, así como los trabajos de exploración, localización, perforación, extracción y aquéllos similares que tengan por objeto la explotación y desarrollo de los recursos naturales;
-
-II.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes inmuebles destinados a un servicio público o al uso común; y
-
-III.- Todos aquéllos de naturaleza análoga.
-
-Los bienes muebles que deben incorporarse, adherirse o destinarse a un inmueble necesarios para la realización de la obra pública, se sujetarán a las disposiciones de este Libro, sin perjuicio de que las adquisiciones de los mismos se rijan por otras disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1328.
 
-El gasto de la obra pública se sujetará a lo previsto en los presupuestos anuales de egresos del Estado y de los municipios, así como a las disposiciones de la Constitución del Estado y Códigos Administrativo, Fiscal y Municipal.
-
-Estarán sujetos también a estas disposiciones los contratos de servicios relacionados con la obra pública, que requieran celebrar las dependencias y entidades mencionadas en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1329.
 
-El Ejecutivo del Estado aplicará estas disposiciones por conducto de la Tesorería General a través de la Dirección de Control de Inversiones por lo que respecta a sus obras y las de su sector paraestatal.
-
-Los ayuntamientos las aplicarán por conducto de sus tesorerías por lo que respecta a sus obras y las de su sector paraestatal. Cuando realicen obras con subsidios o participaciones estatales, intervendrá la Tesorería General del Estado en los términos de este Libro y del Código Fiscal del Estado.
-
-La ejecución de obra pública con cargo total o parcial a fondos estatales, estará sujeta asimismo a estas disposiciones.
-
-La ejecución de obra pública con cargo total o parcial a fondos federales conforme a los convenios entre el Ejecutivo Federal y las entidades federativas, estará sujeta a las disposiciones de la Ley de Obras Públicas de la Federación y en su caso, a lo ordenado en este Libro. Para estos efectos se pactará lo conducente en los mencionados convenios con la participación que corresponda a los municipios interesados.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1330.
 
-Los Gobiernos Estatal y Municipales así como sus entidades del sector paraestatal formularán un inventario de la maquinaria y equipo de construcción a su cuidado o de su propiedad, manteniéndolo debidamente actualizado y el catálogo y archivo de los estudios y proyectos que realicen sobre la obra pública.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1331.
 
-Se crea la Comisión Estatal Consultiva de la Obra Pública como órgano de asesoría y consulta para la aplicación de las disposiciones sobre esta materia, que se integrará bajo la presidencia de la Tesorería General del Estado, con representantes permanentes que serán los titulares de la Oficialía Mayor de Gobierno, Departamento de Comunicaciones y Obras Públicas y Dirección de Desarrollo Económico del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
-En cada municipio existirá una Comisión Municipal Consultiva de la Obra Pública con funciones e integración equivalente a la Estatal.
-
-El Ejecutivo del Estado y los ayuntamientos en el ámbito de sus competencias establecerán las bases para la organización y funcionamiento de las comisiones.
-
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE AGOSTO DE 1984)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
-
 ###### ARTICULO 1332.
 
-La planeación de la obra pública que realicen las dependencias y entidades deberá:
-
-I.- Ajustarse a las políticas y prioridades del Estado y municipios, señalados en los planes de desarrollo social y económico que elaboren a corto, mediano y largo plazo, de acuerdo con los recursos asignados y en observancia de las normas y lineamientos que de ellos se deriven;
-
-II.- Considerar de manera jerarquizada las necesidades estatales y municipales y de beneficio económico, social y ambiental que se presenten;
-
-III.- Observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hecho conforme a lo dispuesto por las leyes de la materia y los planes de desarrollo económico y social del Estado y municipios;
-
-IV.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
-
-V.- Prever las obras principales, así como las complementarias o accesorias y las acciones necesarias para poner aquéllas en servicio, estableciendo las etapas que se requieran para su terminación;
-
-VI.- Considerar la tecnología aplicable en función de la naturaleza de la obra; y
-
-VII.- Tomar en cuenta preferentemente, el empleo de los recursos humanos, la utilización de los materiales propios de la región donde se ubique la obra y en igualdad de circunstancias a los contratistas de la localidad.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1333.
 
-Las dependencias y entidades elaborarán los programas de obra pública y sus respectivos presupuestos con base en las políticas, prioridades y recursos de la planeación del desarrollo estatal o municipal, considerando:
-
-I.- Los objetivos y metas a corto, mediano y largo plazo;
-
-II.- Las acciones que se han de realizar y los resultados previsibles;
-
-III.- Los recursos necesarios para su ejecución y la calendarización física y financiera de los mismos, así como los gastos de operación; y
-
-IV.- Las unidades responsables de su ejecución.
-
-Asimismo los programas y presupuestos deberán incluir las acciones y recursos para llevar a cabo el proceso de planeación, programación y presupuestación de las obras a que se refiere este Capítulo.
-
-Serán elementos de la obra pública, las investigaciones, asesorías, consultorías especializadas y los estudios técnicos y de preinversión que requiera su realización.
-
-En la programación de la obra pública, se preverán la realización de los estudios y proyectos arquitectónicos y de ingeniería que se requieran y las normas y especificaciones de ejecución aplicables.
-
-El programa de la obra pública indicará las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climatológicas y geográficas de la región donde deba realizarse.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1334.
 
-Dentro de su programa, elaborarán los presupuestos de cada una de las obras públicas que deban realizar, distinguiendo las que se han de ejecutar por contrato o por administración directa. Los presupuestos incluirán, según el caso, los costos correspondientes a:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
-I.- Las investigaciones, asesorías, consultorías y estudios que se requieran;
-
-II.- Los proyectos arquitectónicos y de ingeniería necesarios;
-
-III.- La regularización y adquisición de la tierra;
-
-IV.- La ejecución, que deberá incluir el costo estimado de la obra que se realiza por contrato y, en caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra; los cargos adicionales para prueba y funcionamiento, así como los indirectos de la obra;
-
-V.- La infraestructura complementaria que requiera la obra;
-
-VI.- Las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales; y
-
-VII.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
-
-En obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total, como el relativo a los ejercicios de que se trate.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
-
 ###### ARTICULO 1335.
 
-El Departamento de Comunicaciones y Obras Públicas llevará el Padrón de Contratistas de Obra Pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica. El Padrón será público.
-
-El Gobierno del Estado, municipios y sus entidades del sector paraestatal sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con las personas inscritas en el Padrón, cuyo registro esté vigente.
-
-La clasificación a que se refiere este artículo deberá ser considerada en la convocatoria y contratación de la obra pública.
-
-Las personas interesadas en inscribirse en el Padrón deberán solicitarlo por escrito, acompañando la siguiente información y documentos:
-
-I.- Datos generales y capacidad legal;
-
-II.- Experiencia y especialidad;
-
-III.- Recursos patrimoniales, técnicos, económicos y financieros;
-
-IV.- Ultima declaración del Impuesto sobre la Renta;
-
-V.- Cédula profesional, para el caso de prestación de servicios;
-
-VI.- Registro en el Instituto Mexicano del Seguro Social, en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y en el de Estadística de la Dirección de Desarrollo Económico del Estado; y
-
-VII.- Los demás documentos e información que considere pertinente.
-
-El Departamento podrá verificar la información a que se refiere este artículo.
-
-La inscripción en el Padrón tendrá una vigencia de un año contado a partir del 1o. de enero al 31 de diciembre. Quienes tengan interés en continuar inscritos presentarán dentro de los treinta días hábiles anteriores al vencimiento de su registro, solicitud de revalidación, acompañando la información y documentos que procedan, en los términos de los párrafos anteriores.
-
-El Departamento dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o revalidación.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1336.
 
-Procederá la suspensión o cancelación del registro a que se refiere el artículo anterior en los siguientes casos:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
-A.- Se suspenderá el registro cuando:
-
-I.- Se les declare en estado de quiebra o, en su caso, sujetos a concurso de acreedores;
-
-II.- Incurran en cualquier acto u omisión que les sea imputable y que perjudique los intereses de la contratante;
-
-III.- Hayan celebrado contratos en contravención a lo dispuesto en este Libro, por causas que le sean imputables; y
-
-IV.- Se les declare incapacitados legalmente para contratar.
-
-B.- Se cancelará el registro cuando:
-
-I.- La información que hubieren proporcionado para la inscripción o revalidación resultase falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra;
-
-II.- No cumplan en sus términos con algún contrato por alguna causa imputable a ellos y perjudique gravemente los intereses de la contratante, o el interés general; y
-
-III.- Se les declare en quiebra fraudulenta.
-
-Las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación del registro en el Padrón se notificarán personalmente o por correo certificado con acuse de recibo en el domicilio que el interesado haya señalado. Contra las mismas podrá interponer el recurso de revisión en los términos de este Código.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO V. DE LA CONTRATACION Y EJECUCION DE LA OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
-
 ###### ARTICULO 1337.
 
-Podrán contratarse servicios profesionales de investigación, consultoría y asesoría especializados, estudios y proyectos para cualquiera de las fases de la obra pública, su dirección y supervisión. Estos contratos podrán adjudicarse directamente, quedando en lo demás sujetos a las disposiciones de este Libro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
-No quedan comprendidos dentro de esos servicios los que tengan como fin la ejecución de la obra por cuenta y orden de las dependencias o entidades.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
-
 ###### ARTICULO 1338.
 
-La obra pública podrá realizarse por contrato o por administración directa.
-
-Para contratar y ejecutar obra pública se requiere que:
-
-I.- La obra esté incluida en el programa de inversión autorizado;
-
-II.- Se cuente con los estudios, proyectos, normas y especificaciones de construcción; el presupuesto, el programa de ejecución y, en su caso, el de suministro; y
-
-III.- Se cumplan los trámites o gestiones complementarios que se relacionen con la obra y los que deban realizarse conforme a las disposiciones estatales y municipales.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1339.
 
-Los contratos de obra pública serán adjudicados en subasta, mediante convocatoria para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
-
-Las dependencias y entidades enviarán la convocatoria a las Tesorerías en el momento en que aquélla sea expedida, y remitirán además los documentos que se requieran.
-
-Las convocatorias, que podrán referirse a una o más obras, se publicarán en el Periódico Oficial del Gobierno del Estado y contendrán cuando menos:
-
-I.- El nombre de la entidad convocante;
-
-II.- El lugar y descripción general de la obra que se desee ejecutar;
-
-III.- Los requisitos que deberán cumplir los interesados;
-
-IV.- La fecha límite para la inscripción en el proceso de licitación que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la publicación de la convocatoria;
-
-V.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones; y
-
-VI.- Los criterios conforme a los cuales se decidirá la adjudicación.
-
-Los interesados deberán garantizar la seriedad de las proposiciones en los procedimientos de adjudicación, el cumplimiento de los contratos y la correcta inversión en la obra de los anticipos que en su caso reciban.
-
-Las garantías se otorgarán a favor de las tesorerías, salvo que se trate de entidades de los sectores paraestatales, en cuyo caso las garantías se constituirán en su favor.
-
-La convocante, con base en su propio presupuesto y en el análisis de las proposiciones admitidas, emitirá un dictamen que servirá como fundamento para el fallo.
-
-En junta pública se dará a conocer el fallo mediante el cual se adjudicará la obra a la persona que reúna las condiciones necesarias y garantice satisfactoriamente el cumplimiento del contrato, la ejecución de la obra y presente la postura más baja. No se adjudicará el contrato cuando las posturas presentadas no fuesen aceptables y se procederá a expedir una nueva convocatoria. Contra el fallo que se dicte no procederá recurso alguno.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1340.
 
-Se podrá optar por contratar obras sin llevar a cabo las licitaciones que establece el artículo anterior en los casos siguientes:
-
-I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
-
-II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por casos fortuitos o de fuerza mayor;
-
-III.- Cuando la dependencia o entidad hubiere rescindido el contrato respectivo. En estos casos se verificará previamente, conforme al criterio de adjudicación que establece el tercer párrafo del artículo 1341 si existe una proposición que resulte aceptable, en cuyo caso el contrato se celebrará con el contratista respectivo;
-
-IV.- Cuando se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada;
-
-V.- Cuando se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución; y
-
-VI.- Cuando se trate de trabajos que requieran, fundamentalmente, de mano de obra campesina o urbana marginada y que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupqciones (sic) legalmente establecidas y constituidas por los propios habitantes beneficiarios.
-
-La opción deberá fundarse en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
-
-Cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo 1339 por el costo que éste represente, se podrá contratar sin ajustarse a dicho procedimiento, siempre que el monto objeto del contrato no exceda de los límites a que se refiere este artículo y se satisfagan los requisitos que el mismo señala.
-
-Para los efectos del párrafo anterior, el límite del monto máximo del objeto del contrato será en el caso del Estado, cincuenta veces el salario mínimo general de la zona elevado al año y para los municipios veinticinco veces.
-
-Cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y en ningún caso el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1341.
 
-No podrán presentar propuestas ni celebrar contrato alguno de obra pública, las personas físicas o morales siguientes:
-
-I.- Aquéllas en cuyas empresas participe el funcionario que deba decidir directamente, o los que le hayan delegado tal facultad sobre la adjudicación del contrato, o su cónyuge, o sus parientes civiles, consanguíneos, o por afinidad hasta el cuarto grado, sea como accionistas, administradores, gerentes, apoderados, comisarios o sus acreedores;
-
-II.- Los contratistas que por causas imputables a ellos se encuentren en situación de mora, respecto de la ejecución de otra u otras obras públicas que tengan contratadas; y
-
-III.- Los demás que se encuentren impedidos por disposición de la ley.
-
-Lo anterior se aplicará también a los contratos de servicios relacionados con la obra pública.
-
-La adjudicación del contrato obligará a la convocante y a la persona en quien hubiere recaído dicha adjudicación, a formalizar el documento relativo dentro de los veinte días hábiles siguientes. Si el interesado no firmare el contrato perderá en favor de la convocante la garantía que hubiere otorgado y sin necesidad de un nuevo procedimiento, adjudicará el contrato al participante siguiente, en los términos del artículo 1339 y de su propuesta y así sucesivamente.
-
-El contratista a quien se adjudique el contrato no podrá hacer ejecutar la obra por otro, pero, con autorización previa de la entidad respectiva, podrá hacerlo respecto de parte de aquélla o cuando adquiera materiales o equipo que incluyan su instalación. El contratista seguirá siendo responsable de la ejecución y el subcontratista no quedará subrogado en ninguno de los derechos del primero.
-
-Los contratos se celebrarán a precio alzado o sobre la base de precios unitarios.
-
-Forman parte del contrato la descripción pormenorizada de la obra que se deba ejecutar, así como los proyectos, planos, especificaciones, programas y presupuestos.
-
-La obra deberá iniciarse en la fecha señalada y la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que se deba llevar a cabo.
-
-La contratante podrá dentro del programa de inversión aprobado, bajo su responsabilidad y por razones fundadas y explícitas de interés general expresadas en acuerdo escrito, modificar por una sola vez los contratos cuando ello no implique alteraciones de más de un 25% en el plazo o en el monto, ni variaciones sustanciales en el proyecto. Si las modificaciones exceden el porcentaje indicado o varían sustancialmente el proyecto, deberá celebrarse convenio adicional entre las partes respecto de las nuevas condiciones de la obra, por una sola vez.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1342.
 
-La contratante podrá suspender temporalmente en todo o en parte la obra contratada, por cualquier causa justificada y rescindir administrativamente los contratos de obra por razones de interés general o por contravención a los términos del contrato o de las disposiciones de este Libro.
-
-La contratante comunicará la suspensión o la rescisión al contratista, dentro de los diez días hábiles siguientes a la fecha en que se emita la resolución. En el contrato se estipularán las diversas consecuencias de la suspensión y de la rescisión.
-
-Las estimaciones de trabajo ejecutado, correspondientes a contratos en ejercicio, se formularán y autorizarán bajo la responsabilidad de la dependencia o entidad contratante.
-
-El contratista comunicará a la contratante la terminación de los trabajos que le fueron encomendados y ésta verificará que estén debidamente concluidos dentro de los treinta días hábiles siguientes, salvo que se pacte expresamente otro plazo. La recepción de los trabajos se hará dentro de los treinta días hábiles siguientes a la fecha en que se haya constatado su terminación en los términos del párrafo anterior. En la fecha señalada la contratante, bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente.
-
-Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos y de cualquier otra irregularidad en que hubiera incurrido, en los términos señalados en el contrato respectivo, en este Libro y en los Códigos Civil y Municipal.
-
-Los contratos que con base en este Libro se celebren son de derecho público y las controversias que se susciten con motivo de la interpretación o la aplicación de estas disposiciones o de los contratos celebrados, serán resueltas mediante juicio de oposición previsto en el Código Fiscal el Estado.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1343.
 
-Podrán ejecutarse obras por administración directa mediante acuerdo en que se consigne: la descripción de la obra, proyectos, planos, especificaciones, programas de ejecución, de suministro y el presupuesto correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
-Concluída la obra o parte utilizable de la misma, sea que se haya realizado por administración directa o por contrato, se hará entrega a la unidad burocrática que deba operarla, con los planos actualizados, informándole además las normas y especificaciones que fueron aplicadas en su ejecución así como los manuales e instructivos de operación, conservación y mantenimiento.
-
-Recibida la obra, la unidad que deba operarla estará obligada a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realice conforme a los objetivos y acciones de los programas respectivos y llevará registros de los gastos inherentes.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1984)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1344.
 
-Los contratistas que incurran en infracciones a este Libro, serán sancionados por las tesorerías con una multa equivalente de diez a mil veces el salario mínimo diario vigente en el lugar y tiempo en que se cometa la infracción, según la gravedad del acto u omisión de que fueren responsables; con la suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas y la rescisión administrativa del contrato.
-
-A los funcionarios y empleados públicos que infrinjan las disposiciones de este Libro se les aplicarán las sanciones relativas a las responsabilidades de los servidores públicos.
-
-Las multas se impondrán conforme a los siguientes criterios:
-
-I.- Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendientes a infringir, en cualquier forma las disposiciones de este Libro o las que se dicten con base en él;
-
-II.- Cuando sean varios los responsables, cada uno podrá ser sancionado con el total de la multa que se imponga;
-
-III.- Tratándose de reincidencia, se impondrá otra multa mayor, dentro de los límites señalados en este artículo o se duplicará la multa inmediata anterior que se hubiere impuesto; y
-
-IV.- En el caso en que persista la infracción, se impondrán multas como tratándose de reincidencia, por cada día que transcurra.
-
-No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor, caso fortuito o cuando se observe en forma espontánea el precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1345.
 
-En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las siguientes reglas.
-
-I.- Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término de quince días hábiles, exponga lo que a su derecho convenga, aporte las pruebas que estime pertinentes y alegue; y
-
-II.- La resolución se dictará dentro del plazo de 60 días, será debidamente fundada y motivada y se comunicará por escrito al afectado.
-
-El mismo procedimiento se seguirá en los casos de rescisión de contratos de obra y suspensión o cancelación del registro en el Padrón de Contratistas.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 ###### ARTICULO 1346.
 
-Los funcionarios y empleados públicos que en el ejercicio de sus funciones, tengan conocimiento de infracciones a este Libro o de las normas que del mismo se deriven, deberán comunicarlo a las tesorerías correspondientes.
-
-Las responsabilidades a que se refiere el presente Libro son independientes de las de orden civil, penal y oficial que puedan derivarse de la comisión de los mismo hechos.
-
-Los actos, convenios, contratos y negocios jurídicos que se realicen en contravención a lo dispuesto por este Libro serán nulos de pleno derecho.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)
 
 OCTAVA PARTE
 
@@ -10924,3 +10662,13 @@ P.O. 26 DE FEBRERO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a los veinte días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Libro Tercero, de la Séptima Parte, del Código Administrativo del Estado, publicado en el Periódico Oficial del Estado el 21 de agosto de 1974, y sus posteriores reformas.
+
+CUARTO.- Hasta en tanto se expida el Reglamento de esta Ley, seguirán en vigor los artículos 1335 y 1336 del Código Administrativo del Estado, y los artículos 11 al 15 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con los Bienes Muebles del Estado de Chihuahua.
