@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-h-tribunal-superior-de-justicia-del-717
 country: "mx"
 rank: "reglamento"
 publication_date: "1970-07-08"
-last_updated: "1970-07-08"
+last_updated: "1995-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 1995, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de julio de 1970.
 
@@ -568,3 +570,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Guillermo Tenorio Carpio.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE AGOSTO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos que determina el artículo octavo de este reglamento, los Magistrados que al inicio de la vigencia de este ordenamiento se encuentren en la hipótesis prevista sobre la edad que como máximo la Ley Orgánica del Poder Judicial autoriza para el ejercicio de dicho cargo y sobre los actuales integrantes del H. Tribunal Superior de Justicia; el Pleno del citado órgano jurisdiccional nombrará de inmediato a los servidores públicos de la misma jerarquía que los suplan temporalmente en sus funciones, hasta en tanto el Consejo de la Judicatura integre la terna respectiva.
+
+###### ARTICULO TERCERO.
+
+Queda abrogado, el Reglamento del Poder Judicial del Estado Libre y Soberano de Morelos, de fecha doce de junio de mil novecientos setenta y derogadas las demás disposiciones en cuanto se opongan al presente.
+
+###### ARTICULO CUARTO.
+
+Remítase al Titular del Poder Ejecutivo del Estado para los efectos constitucionales correspondientes.
