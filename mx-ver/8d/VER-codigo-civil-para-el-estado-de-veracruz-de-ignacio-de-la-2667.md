@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1998-09-08"
+last_updated: "2002-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2002.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1715,13 +1715,17 @@ ARTICULO 304
 
 Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2002)</small>
+
 ARTICULO 305
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad; y en caso de que no lo hicieren, el juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, los dos ejercerán sobre él la patria potestad y convendrán a quién de los dos corresponderá la guarda y custodia del menor; y en caso de que no lo hicieren, el juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2002)</small>
 
 ARTICULO 306
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+Para que se efectúe sucesivamente el reconocimiento de un menor por los padres que no viven juntos, será necesaria la anuencia del primero que lo reconoció, en cuyo caso, aunque ambos ejerzan la patria potestad, a aquél corresponderá la guarda y custodia, salvo que se conviniere otra cosa entre los padres, y siempre que el juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 ARTICULO 307
 
@@ -1999,11 +2003,11 @@ ARTICULO 339 E
 
 No pueden adoptar mediante adopción plena las personas que tengan vínculo de parentesco consanguíneo con el menor o incapacitado.
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2002)</small>
 
 ARTICULO 339 F
 
-Las adopciones internacionales promovidas por ciudadanos de Estados que forman parte de la Convención sobre Protección de Menores y la Cooperación en Materia de Adopción Internacional, se regirán por lo dispuesto en el Capítulo VI del Título Séptimo del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
+Las adopciones internacionales promovidas por ciudadanos de alguno de los Estados que forman parte de la Convención sobre Protección de Menores y la Cooperación en Materia de Adopción Internacional, se regirán por lo dispuesto en el Capítulo V, Sección Cuarta del Título Séptimo, específicamente en sus artículos 410-E y 410-F del Código Civil Federal.
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -7109,9 +7113,9 @@ El testador debe dejar alimentos a las personas que se mencionan en las fraccion
 
 I.- A los descendientes menores de 18 años, respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
 
-> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2002)</small>
 
-II.- A los descendientes que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, cualquiera que sea su edad;
+II.- A los descendientes que estén imposibilitados de trabajar cualquiera que sea su edad;
 
 > <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
 
@@ -15822,3 +15826,23 @@ G.O. 15 DE NOVIEMBRE DE 1997.
 G.O. 8 DE SEPTIEMBRE DE 1998.
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 10 DE OCTUBRE DE 2002.
+
+DECRETO NÚM. 297
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de difusión del gobierno del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 10 DE OCTUBRE DE 2002.
+
+DECRETO NÚM. 298
+
+Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 10 DE OCTUBRE DE 2002.
+
+DECRETO NÚM. 299
+
+Único. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
