@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "1990-05-29"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+
+> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION " . . . ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO " . . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
@@ -860,3 +862,21 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 ###### ARTICULO TERCERO.
 
 Los servidores públicos que de conformidad con esta reforma al artículo 79 de la Ley de Responsabilidades de los Servidores Públicos, tengan que presentar por primera ocasión su declaración de situación patrimonial, contarán con un plazo de dos meses para hacerlo, a partir de la iniciación de vigencia de la misma.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
