@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1983-12-31"
+last_updated: "1984-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 1984.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -79,13 +79,13 @@ G.O. 1 DE NOVIEMBRE DE 1938.
 
 SE REFORMAN LOS ARTICULOS 38, 68, 82, 87, 97, 98, 99, 101, 102, 103 Y 105 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
-Las presente reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
+Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
 
 G.O. 1 DE NOVIEMBRE DE 1938.
 
 SE REFORMA EL ARTICULO 91 DE LA CONSTITUCION POLITICA LOCAL.
 
-Esta reformas surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
+Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
 
 G.O. 1 DE DICIEMBRE DE 1938.
 
@@ -343,13 +343,15 @@ El ejercicio del Poder Judicial se deposita: en un Tribunal Superior de Justicia
 
 No pueden reunirse dos o más de esos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. La observancia de este precepto podrá suspenderse en los casos de la fracción XXII del artículo 68.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
 ###### Artículo 38.
 
-El Gobernador del Estado será nombrado popularmente en elección directa. Los miembros de la Legislatura y de los Ayuntamientos serán nombrados de acuerdo con el principio de votación mayoritaria relativa y el principio de representación proporcional. Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, serán designados por el Gobernador y los nombramientos sometidos para su aprobación a la Legislatura o la Diputación Permanente en su caso.
+El Gobernador del Estado, será electo popularmente en forma directa por el sistema de mayoría relativa. Serán electos popularmente en forma directa los miembros de la Legislatura y de los Ayuntamientos de todos los municipios, de acuerdo con el sistema de mayoría relativa y el principio de representación proporcional.
 
-En todos los casos que señala este precepto se estará a lo que establece la presente Constitución y a lo que en lo particular disponga la ley.
+No podrán ser reelectos para el período inmediato siguiente, los funcionarios de elección popular que hayan ejercido su cargo, excepción hecha de los casos previstos por los artículos 86 y 89 de esta Constitución. La misma regla será aplicable al caso de los integrantes de los Concejos Municipales.
+
+Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, serán designados por el Gobernador y los nombramientos sometidos para su aprobación a la Legislatura.
 
 > <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
@@ -363,9 +365,11 @@ Para las elecciones de diputados se dividirá el Estado en dieciséis distritos 
 
 La demarcación de cada uno de los dieciséis distritos electorales uninominales se señalará en la ley respectiva.
 
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+
 ###### Artículo 41.
 
-El ciudadano o vecino que resulte nombrado popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente, sin que esta facultad se extienda hasta preferir los cargos municipales, a los de la Federación o del Estado.
+El ciudadano que resulte electo popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente.
 
 > <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
@@ -387,11 +391,11 @@ Sólo los vecinos de una Municipalidad que tengan los requisitos que esta Consti
 
 Los extranjeros no tienen voto activo ni pasivo.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
 ###### Artículo 45.
 
-Los padrones electorales se obtendrán en términos de la Ley Electoral respectiva y sólo podrán votar los ciudadanos que posean credencial permanente de elector.
+Los padrones electorales se obtendrán en términos de la Ley Electoral respectiva y sólo podrán votar los ciudadanos que posean credencial de elector.
 
 ###### Artículo 46.
 
@@ -411,9 +415,11 @@ VI. Los diputados de mayoría relativa y de representación proporcional, como r
 
 Por cada diputado propietario se nombrará un suplente.
 
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+
 ###### Artículo 47.
 
-Los Diputados no podrán ser electos para el período siguiente a aquel en que estén funcionando.
+Los diputados no podrán ser reelectos para el período inmediato a aquél en que estén en funciones, los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1976)</small>
 
@@ -421,15 +427,27 @@ Los Diputados no podrán ser electos para el período siguiente a aquel en que e
 
 Para ser electo diputado propietario o suplente, se requiere:
 
-I. Ser ciudadano veracruzano en ejercicio de sus derechos;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+
+I. Ser ciudadano veracruzano, nativo del Estado, con residencia efectiva en el mismo, no menor de dos años anteriores al día de la elección y en ejercicio de sus derechos; o ser ciudadano mexicano por nacimiento, con residencia efectiva en el Estado no menor de cinco años al día de la elección, en caso de no ser nativo del mismo;
 
 II. Saber leer y escribir;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
-III. Haber cumplido 21 años, y
+III. Haber cumplido veintiún años;
 
-IV. Ser natural del Estado o vecino de él, con cinco años de residencia, por lo menos, el día de la elección.
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+
+IV. No ser ministro de ningún culto religioso;
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 1984)</small>
+
+V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos, cuando menos noventa días antes de la elección; y
+
+> <small>(ADICIONADA, G.O. 21 DE ENERO DE 1984)</small>
+
+VI. No tener antecedentes penales por comisión de delitos de naturaleza intencional.
 
 ###### Artículo 49.
 
@@ -571,6 +589,8 @@ En ningún caso podrán alegar ocupaciones particulares para excusarse del cumpl
 
 DEL GOBERNADOR DEL ESTADO, DE SUS FACULTADES Y OBLIGACIONES.
 
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+
 ## TITULO TERCERO.
 
 ### CAPITULO VII.
@@ -597,7 +617,9 @@ IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y 
 
 V. Calificar la validez de estas elecciones y resolver sobre la renuncia que presente este funcionario, así como otorgar o negar su aprobación a las renuncias de los Magistrados del Tribunal Superior, que le someta el Gobernador;
 
-VI. Decidir sobre la legalidad de las elecciones de los Ayuntamientos cuando se reclame contra ellas, consignando al Procurador General, a los que resulten culpables de algún fraude;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+
+VI. Calificar la legalidad de las elecciones de los Ayuntamientos. Cuando exista reclamación fundada contra ellas, denunciará los hechos ante el Procurador General de Justicia del Estado;
 
 VII.- Suspender definitivamente, previa formación de proceso, a los miembros de los Ayuntamientos cuando abusen de sus facultades y suspenderlos provisionalmente, hasta por tres meses, por sí o a petición del Ejecutivo, cuando se juzgue indispensable para la práctica de alguna averiguación;
 
@@ -661,9 +683,11 @@ XXXIII. Cuando falte a la vez un Diputado propietario y el suplente respectivo, 
 
 > <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
 
-XXXIV. Señalar las contribuciones que deben formar la Hacienda de los Municipios, procurando sean suficientes a cubrir sus necesidades, examinar y aprobar los Planes de Arbitrios y glosar las cuentas que le presenten los Ayuntamientos, en los términos que fijará una Ley Orgánica.
+XXXIV. Señalar las contribuciones que deben formar la Hacienda de los Municipios, procurando sean suficientes a cubrir sus necesidades, examinar y aprobar los Planes de Arbitrios y glosar las cuentas que le presenten los Ayuntamientos, en los términos que fijará una Ley Orgánica;
 
-XXXV. (DEROGADA, G.O. 13 DE AGOSTO DE 1932)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE ENERO DE 1984)</small>
+
+XXXV. Por acuerdo de las dos terceras partes de sus integrantes, designar de entre los vecinos de un municipio a los que integrarán el Concejo Municipal, cuando el día treinta de noviembre del año de la elección del Ayuntamiento, no se hubiere hecho la calificación correspondiente;
 
 XXXVI. Dictar las leyes a que se refiere la fracción VII (párrafo segundo) del artículo 27 de la Constitución General y los incisos (A) y (F) del mismo artículo;
 
@@ -763,41 +787,43 @@ DE LOS MUNICIPIOS.
 
 La base de la división territorial y de la organización política del Estado es el Municipio Libre.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
 ###### Artículo 111.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa por mayoría relativa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
-
-Se aplicará el principio de representación proporcional en la elección de Ayuntamientos de los Municipios cuya población sea de trescientos mil o más habitantes, de la capital del Estado y de aquellos cuya importancia política, económica, social y cultural y el número de integrantes de su cuerpo edilicio así lo ameriten, sujetándose a las bases generales siguientes y a lo que disponga la Ley:
-
-I. Al partido que obtenga la mayor cantidad de votos se le asignarán el Presidente y los Síndicos con sus respectivos suplentes.
-
-II. Los cargos edilicios restantes serán asignados a cada partido incluyendo aquél que se menciona en la fracción anterior. Para tal efecto, se aplicará el principio de representación proporcional de acuerdo con las fórmulas electorales y procedimientos que establezca la Ley.
-
-III. La asignación se hará en primer término al partido que haya acumulado la mayor cantidad de votos y en el orden decreciente a los demás, de entre los integrantes de su planilla.
-
-IV. Los Agentes Municipales se acreditarán al partido político que obtuvo el mayor número de votos.
+Para la aplicación del principio de representación proporcional, en la elección de los Ayuntamientos del Estado, el partido que alcance el mayor número de votos obtendrá la presidencia municipal, las sindicaturas y las agencias municipales. Las regidurías serán asignadas a cada partido, incluyendo aquél que obtuvo la mayor votación, de acuerdo con las fórmulas electorales y procedimientos que establezca la Ley.
 
 ###### Artículo 112.
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-I. Ser ciudadano veracruzano en ejercicio de sus derechos;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+
+I. Ser ciudadano veracruzano, nativo del Estado, con residencia efectiva en el municipio, no menor de tres años anteriores al día de la elección y en ejercicio de sus derechos; o ser ciudadano mexicano por nacimiento en ejercicio de sus derechos; con residencia efectiva en el municipio, no menor de cinco años anteriores al día de la elección, en caso de no ser nativo del Estado;
 
 II. Saber leer y escribir;
 
-III. Tener, por lo menos, cinco años de residencia en el lugar de la elección;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
-IV. No tener empleo, cargo o comisión del Estado o del Gobierno Federal; y
+III. No ser ministro de ningún culto religioso;
 
-V. Ser del estado seglar.
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
+IV. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o separarse de ellos, cuando menos noventa días antes de la elección; y
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+
+V. No tener antecedentes penales, por la comisión de delitos de naturaleza intencional.
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
 ###### Artículo 113.
 
-Los Ayuntamientos durarán en su cargo tres años y no podrán ser reelectos, debiendo instalarse en día 1°. de diciembre inmediato a su elección.
+Los miembros de los Ayuntamientos, durarán en su encargo tres años, debiendo tomar posesión el día primero de diciembre inmediato a la elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será substituido por el suplente, o se procederá según lo disponga la Ley;
+
+Los miembros de los Ayuntamientos, no podrán ser electos para integrar el del período siguiente; la misma prohibición se aplicará a los integrantes de los Concejos Municipales;
+
+Los Funcionarios públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1343,21 +1369,19 @@ XII. Conocer de los asuntos relacionados con la Hacienda de los Municipios y rev
 
 ###### Artículo 83.
 
-Para ser Gobernador del Estado, se requieren las cualidades siguientes:
+Para ser Gobernador del Estado, se requiere:
 
-> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
-
-I. Ser nativo del Estado y ciudadano del mismo, en ejercicio de sus derechos, con cinco años de residencia efectiva anterior al día de la elección;
+I. Ser ciudadano veracruzano, nativo del Estado y en ejercicio de sus derechos, con residencia efectiva en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección;
 
 II. Saber leer y escribir;
 
 III. Tener treinta años cumplidos;
 
-IV. Ser del estado seglar;
+IV. No ser ministro de ningún culto religioso;
 
-V. No tener empleo, cargo o comisión de otros Estados ni de la Federación, o renunciarlos y estar separado de ellos, cuando menos, noventa días antes de la elección; y
+V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios; o estar separado de ellos, cuando menos noventa días antes de la elección; y
 
-VI. No haber figurado ni directa ni indirectamente en alguna asonada o cuartelazo.
+VI. No tener antecedentes penales, por la comisión de delitos de naturaleza intencional.
 
 ###### Artículo 84.
 
@@ -1384,6 +1408,10 @@ Cuando la falta de Gobernador ocurriese en los cuatro últimos años del períod
 El Gobernador Provisional podrá ser electo por la Legislatura como substituto.
 
 El ciudadano que hubiere sido designado Gobernador Provisional para convocar a elecciones, en el caso de falta del Gobernador, en los dos primeros años del período respectivo, no podrá ser electo en las elecciones que se celebren con motivo de la falta de Gobernador, para cubrir la cual fué designado.
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1984)</small>
+
+El Gobernador substituto, el interino, el provisional o el ciudadano, que bajo cualquier denominación, hubiere sido designado Gobernador para concluir el período en caso de falta absoluta del Constitucional o que supla las faltas temporales de éste, no podrá ser electo para el período inmediato siempre que desempeñe el cargo los dos últimos años del período.
 
 ###### Artículo 87.
 
@@ -1678,3 +1706,9 @@ Esta Ley entrará en vigor el día siguiente de su publicación en la 'Gaceta Of
 G.O. 31 DE DICIEMBRE DE 1983.
 
 UNICO. La presente Ley entrará en vigor al siguiente día de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+G.O. 21 DE ENERO DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
