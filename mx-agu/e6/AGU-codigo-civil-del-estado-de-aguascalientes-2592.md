@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1979-10-28"
+last_updated: "1980-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1980.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -423,9 +423,11 @@ En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar
 
 DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1980)</small>
+
 ###### Artículo 69.
 
-Si el padre o la madre de un hijo natural o ambos lo reconocieren al presentarlo dentro del término de ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser hijo natural y de los nombres del o de los progenitores que lo reconozcan. Esta acta surtirá los efectos del reconocimiento legal.
+Si el padre o la madre de un hijo natural, o ambos lo reconocieren al presentarlo dentro del término de ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, sin expresión de ser hijo natural, ni ninguna otra expresión infamante, como adulterino o incestuoso, lo mismo se observará en el artículo 55 de este Código; se asentarán también los nombres de los progenitores que lo reconozcan, esta acta surtirá los efectos de reconocimiento legal.
 
 ###### Artículo 70.
 
@@ -2131,7 +2133,7 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 378.
 
@@ -2321,7 +2323,7 @@ DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO.
 
 ###### Artículo 413.
 
-Los mayores de treinta años, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aún cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Los mayores de edad en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor, a un incapacitado, aún cuando sea mayor de edad, siempre que la adopción sea benéfica para éste.
 
 ###### Artículo 414.
 
@@ -11221,11 +11223,11 @@ DE LAS DONACIONES EN GENERAL.
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1980)</small>
+
 ###### Artículo 2188.
 
-La venta de un inmueble que tenga un valor hasta de mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor, el comprador y dos testigos, ante el juez menor del lugar donde se celebre el contrato.
-
-Los jueces llevarán un libro de registro de los contratos que pasen en su presencia, en el que con numeración progresiva se anotarán los nombres de los contratantes, el bien vendido y el precio de la operación así como la fecha de la escritura.
+La venta de un inmueble que tenga un valor hasta de $25,000.00, deberá hacerse en instrumento público pero, se considerará de interés social a fin de que los honorarios sean menores.
 
 ###### Artículo 2189.
 
@@ -12495,7 +12497,7 @@ En las operaciones hechas por el mandatario, con violación o con exceso del enc
 
 ###### Artículo 2438.
 
-El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho cargo.
+El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho encargo.
 
 ###### Artículo 2439.
 
@@ -12697,7 +12699,7 @@ La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar
 
 ###### Artículo 2469.
 
-Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutando después de la revocación, siempre que haya habido buena fe de parte de esa persona.
+Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 
 ###### Artículo 2470.
 
@@ -15208,3 +15210,7 @@ El presente Decreto surtirá sus efectos a partir de la fecha de su publicación
 P.O. 28 DE OCTUBRE DE 1979.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
