@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2004-05-07"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2005.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -1186,7 +1186,17 @@ XXVI.- Determinar las condiciones financieras indispensables para la compensaci�
 
 XXVII.- Generar, custodiar e invertir las reservas técnicas necesarias para financiar la operación del fondo de salud del Instituto, conforme a la reglamentación aplicable, y
 
-XXVIII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2005)</small>
+
+XXVIII.- Ordenar el inicio de actos de comprobación fiscal de conformidad con los artículos 42 y 48 del Código Fiscal de la Federación, así como los demás actos tendentes a determinar y liquidar las aportaciones de seguridad social omitidas y sus accesorios; solicitar de entidades y dependencias afiliadas o terceros, datos, informes o documentos relativos al ejercicio de las facultades comprobación; para planear, programar y ejecutar actos de fiscalización en materia de determinación y liquidación de aportaciones de seguridad social que se deriven del ejercicio de sus facultades de comprobación; prorrogar los plazos en que se deban concluir el ejercicio de sus facultades de comprobación fuera de visitas domiciliaria; así como para determinar y liquidar los créditos fiscales por concepto de aportaciones de seguridad social.
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2005)</small>
+
+XXIX.- Ordenar y facultar a representantes del Instituto para practicar las notificaciones de los actos relacionados con el ejercicio de las facultades de comprobación.
+
+> <small>(REFORMADA [N. DE. E. REUBICADA], D.O.F. 19 DE ENERO DE 2005)</small>
+
+XXX.- Las demás que señalen otras disposiciones aplicables.
 
 ARTICULO 51 B.- (DEROGADO, D.O.F. 7 DE MAYO DE 2004)
 
@@ -1406,6 +1416,14 @@ XV.- Las demás que señalen otras disposiciones aplicables.
 
 La administración del Fondo de la Vivienda, como órgano desconcentrado del Instituto, tiene por objeto establecer y operar un sistema de financiamiento que permita a los trabajadores incorporados al régimen de la Ley obtener, por una sola vez, crédito barato y suficiente mediante préstamos con garantía hipotecaria sobre inmuebles urbanos, para adquirir, construir, reparar y ampliar o mejorar su vivienda, para el pago del enganche, gastos de escrituración y en su caso la constitución de un fideicomiso de apoyo cuando tenga por objeto la adquisición de viviendas de interés social, amortizar pasivos adquiridos por dichos conceptos, así como coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores, mediante créditos que otorgue el Instituto directamente o con la participación de entidades públicas y/o privadas.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2005)</small>
+
+El Vocal Ejecutivo del Fondo de la Vivienda, tendrá la función de formular, en términos de lo dispuesto por la ley de Presupuesto, Contabilidad y Gasto Público Federal y su reglamento, los pliegos preventivos de responsabilidad a los servidores públicos y a los particulares que hubieren perpetrado un daño al patrimonio del Instituto, detectado por el Organo Interno de Control competente, a través de las auditorías, visitas o investigaciones que practique.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2005)</small>
+
+Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas, de conformidad con lo dispuesto por el Art. 51 A del presente Estatuto Orgánico.
+
 #### SECCION SEGUNDA. DE LAS DELEGACIONES
 
 ###### ARTICULO 56.
@@ -1423,6 +1441,14 @@ Las Delegaciones serán unidades administrativas desconcentradas del Instituto, 
 Al frente de cada Delegación habrá un Delegado nombrado por la Junta, a propuesta del Director General, quien dependerá de éste último.
 
 Para la atención de los asuntos, el Delegado se auxiliará por el número de subdelegados que se considere necesario, designados por el Director General, así como el personal administrativo que se requiera a fin de proporcionar los seguros, prestaciones y servicios a que se refiere la Ley.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2005)</small>
+
+El Delegado, tendrá la función de formular, en términos de lo dispuesto por la ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, los pliegos preventivos de responsabilidad a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al Patrimonio del Instituto, detectado por el Organo Interno de Control competente, a través de las auditorías, visitas o investigaciones que practique.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2005)</small>
+
+Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el Art. 51 A del Estatuto Orgánico del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
 
@@ -1580,7 +1606,15 @@ XI. Planear, organizar, normar, coordinar y controlar los sistemas de tecnologí
 
 XII.- Definir los sistemas de tecnología de la información a desarrollarse e implantarse por el Sistema Integral de Tiendas y Farmacias o por terceros, coordinando la planeación, organización, control y evaluación de los mismos bajo la normatividad establecida en el Instituto, proporcionando, en su caso, el soporte técnico y mantenimiento correspondiente y operando aquellos que por reserva defina, y
 
-XIII.- Las demás que le confiera el Director General y le señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2005)</small>
+
+XIII.- Formular en términos de lo dispuesto por la ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, los pliegos preventivos de responsabilidad a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al Patrimonio del Instituto, detectado por el Organo Interno de Control competente, a través de las auditorías, visitas o investigaciones que practique.
+
+Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el Art. 51 A del presente Estatuto Orgánico.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 19 DE ENERO DE 2005)</small>
+
+XIV.- Las demás que le confiera el Director General y le señalen otras disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
@@ -2095,3 +2129,9 @@ PRIMERO.- Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico
 SEGUNDO.- En su oportunidad, inscríbanse las presentes adecuaciones en el Registro Público de Organismos Descentralizados.
 
 TERCERO.- Los Manuales de Organización y de Procedimientos que se derivan de las reformas, adiciones y derogaciones que estipula el presente Acuerdo, deberán expedirse y/o modificarse en un plazo que no excederá de 180 días naturales, a partir de la publicación del mismo en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2005.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
