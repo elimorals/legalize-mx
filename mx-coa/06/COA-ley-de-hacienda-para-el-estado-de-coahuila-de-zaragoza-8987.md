@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1998-12-29"
+last_updated: "1999-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -2031,7 +2031,9 @@ Los servicios que presta la Secretaría de Educación Pública causarán derecho
 
 TARIFA
 
-I.- Registros de títulos profesionales, excepto los que expidan las Escuelas Normales del Estado, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1999)</small>
+
+I.- Registros de títulos profesionales, excepto los que expidan las Escuelas Normales del Estado, el Instituto Estatal de Capacitación y Actualización del Magisterio y la Universidad Pedagógica Nacional $236.00 (DOSCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
 
 II.- Registro de títulos profesionales que procedan de otro Estado, $420.00 (CUATROCIENTOS VEINTE PESOS 00/100 M.N.); (2)
 
@@ -2043,7 +2045,9 @@ V.- Por autorización de incorporación de planteles escolares $8,759.00 (OCHO M
 
 VI.- Por trámite de autorización para la incorporación de planteles escolares $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
 
-VII.- Por la incorporación y el refrendo anual al sistema educativo estatal de las escuelas de educación inicial, preescolar, primaria, secundaria, particulares, las academias comerciales o de otro tipo, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.) por alumno. (2)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1999)</small>
+
+VII.- Por la incorporación y el refrendo anual al sistema educativo estatal de las escuelas particulares de educación inicial, preescolar, primaria, secundaria y academias comerciales o de otro tipo, $20.00 (VEINTE PESOS 00/100 M.N.) por alumno.
 
 Los derechos que establece esta fracción, deberán pagarse dentro del mes de octubre de cada año.
 
@@ -2876,3 +2880,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
