@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-colegio-de-educacion-profesional-17982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-12"
-last_updated: "2000-04-12"
+last_updated: "2004-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 2000.
 
@@ -51,7 +51,7 @@ Conalep.- El Colegio Nacional de Educación Profesional Técnica.
 
 Colegio.- El Colegio de Educación Profesional Técnica del Estado de Morelos.
 
-Planteles.- CONALEP-Cuernavaca, CONALEP-Cuautla, CONALEP-Temixco y Centro de Asistencia y Servicios Tecnológicos, respectivamente, si fuera el caso.
+Planteles.- CONALEP-Cuernavaca. CONALEP-Cuautla, CONALEP-Temixco y Centro de Asistencia y Servicios Tecnológicos, respectivamente, si fuera el caso.
 
 Junta Directiva.- El órgano supremo de gobierno del Colegio.
 
@@ -265,7 +265,7 @@ III.- Elaborar los programas institucionales de corto, mediano y largo plazo y l
 
 IV.- Proponer a la Junta Directiva los Planteles necesarios para el desarrollo de las actividades del Colegio, conforme a la normatividad interior y a las políticas, lineamientos y criterios generales que se establezcan dentro del Sistema Nacional de Educación Profesional Técnica y la Secretaría de Bienestar Social como cabeza de sector;
 
-V.- Proponer a la Junta Directiva del Organismo la designación y remoción de los servidores públicos del Colegio, cambios, licencias así como sueldos y demás prestaciones, de conformidad a las disposiciones aplicables;
+V.- Proponer a la Junta Directiva del Organismo la designación y remoción de los Servidores Públicos del Colegio, cambios, licencias así como sueldos y demás prestaciones, de conformidad a las disposiciones aplicables;
 
 VI.- Participar con voz, pero sin voto en las sesiones de la Junta Directiva;
 
@@ -285,7 +285,7 @@ XIII.- Rendir puntualmente un informe anual de actividades y resultados a la Jun
 
 XIV.- Elaborar y presentar los estados financieros anuales del organismo, previa opinión del comisario;
 
-XV.- Expedir los nombramientos al personal del Colegio;
+XV.- Expedir los nombramientos al personal del colegio;
 
 XVI.- Proporcionar a la instancia de control las facilidades y el apoyo Técnico Administrativo que requiera para su eficiente funcionamiento;
 
@@ -301,7 +301,7 @@ XXI.- Coordinar y supervisar que las adquisiciones se hagan en el ámbito de su 
 
 XXII.- Suscribir convenios de coordinación y colaboración con diversos sectores, en materias relativas a su objeto;
 
-XXIII.- Representar al Organismo Descentralizado ante toda clase de autoridades y personas de derecho público o privado, con todas las facultades aún aquéllas que requieran autorización oficial, que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y de riguroso dominio en materia de bienes muebles previa aprobación de la Junta Directiva. Asimismo, otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aún las que requieran cláusulas especiales, las cuales deberán de inscribirse en el Registro Público de Organismos Descentralizados. El ejercicio de las facultades señaladas en la fracción anterior y en la presente, serán bajo su responsabilidad y con las limitaciones que establezca la Ley o Decreto que creó el Organismo y el Estatuto Orgánico que expida el correspondiente Órgano de Gobierno;
+XXIII.- Representar al Organismo Descentralizado ante toda clase de autoridades y personas de derecho público o privado, con todas las facultades aún aquéllas que requieran autorización oficial, que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y de riguroso dominio en materia de bienes muebles previa aprobación de la Junta Directiva. Asimismo, otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aún las que requieran cláusulas especiales, las cuales deberán de inscribirse en el Registro Público de Organismos Descentralizados. El ejercicio de las facultades señaladas en la fracción anterior y en la presente, serán bajo su responsabilidad y con las limitaciones que establezca la Ley o Decreto que creó el Organismo y el Estatuto Orgánico que expida el correspondiente Órgano de gobierno;
 
 XXIV.- Autorizar, previo dictamen técnico de las áreas correspondientes, los acuerdos para otorgar o retirar reconocimiento de validez oficial o autorización a los estudios que vayan a impartir instituciones o centros particulares;
 
@@ -321,7 +321,7 @@ XXXI.- Proponer programas para el mejoramiento y actualización profesional del 
 
 XXXII.- Presidir el Consejo Técnico Estatal;
 
-XXXIII.- Certificar los estudios totales desarrollados por los estudiantes de los Planteles adscritos al Colegio;
+XXXIII.- Certificar los estudios totales desarrollados por los estudiantes de los planteles adscritos al Colegio;
 
 XXXIV.- Nombrar, adscribir y remover al personal técnico administrativo de conformidad con lo establecido en el Decreto de Creación, en el presente Reglamento Interior y demás disposiciones aplicables;
 
@@ -339,15 +339,15 @@ El Director General, para el mejor desarrollo de sus funciones, podrá delegar f
 
 ###### Artículo 15.
 
-El Colegio, para el funcionamiento y desarrollo de sus actividades y en cumplimiento a su objeto, contará con las Unidades Administrativas que en seguida se enuncian, cuya adscripción será determinada por el Director General del Colegio, previo conocimiento de la Junta Directiva:
+El colegio, para el funcionamiento y desarrollo de sus actividades y en cumplimiento a su objeto, contará con las Unidades Administrativas que en seguida se enuncian, cuya adscripción será determinada por el Director General del Colegio, previo conocimiento de la Junta Directiva:
 
-- Subdirección de Planeación, Evaluación y Administración de Recursos
+* Subdirección de Planeación, Evaluación y Administración de Recursos
 
-- Subdirección de Formación Técnica, Capacitación, Promoción y Vinculación
+* Subdirección de Formación Técnica, Capacitación, Promoción y Vinculación
 
-- Subdirector de Informática
+* Subdirector de Informática
 
-- Asesor Jurídico
+* Asesor Jurídico
 
 ###### Artículo 16.
 
@@ -365,7 +365,7 @@ III.- Acordar con el Director General el despacho de los asuntos encomendados a 
 
 IV.- Someter para conocimiento y aprobación del Director General los estudios, proyectos y documentos de respuesta o solicitud que elaboren las Unidades a su cargo;
 
-V.- Formular el Anteproyecto de presupuesto relativo al área a su cargo;
+V.- Formular el anteproyecto de presupuesto relativo al área a su cargo;
 
 VI.- Coordinarse con las demás áreas del Colegio para obtener un mejor desarrollo de las actividades;
 
@@ -449,7 +449,7 @@ IV.- Supervisar y consolidar oportunamente la información de la gestión escola
 
 V.- Fomentar, promover y participar conjuntamente con los Planteles en eventos, acciones y actividades de investigación técnico-académica, mejoramiento de la calidad educativa, formativa y de materiales de apoyo pedagógico-didáctico a la enseñanza y prácticas tecnológicas;
 
-VI.- Organizar, promover e impulsar acciones de intercambio de experiencias sobre investigación, desarrollo e innovación científica y tecnológica entre Planteles del Sistema Nacional de Colegios de Educación Profesional Técnica, como en otras Instituciones afines;
+VI.- Organizar, promover e impulsar acciones de intercambio de experiencias sobre investigación, desarrollo e innovación científica y tecnológica entre Planteles del Sistema Nacional de Colegios de Educación Profesional Técnica, como en otras instituciones afines;
 
 VII.- Proponer modificaciones y actualizaciones a perfiles, planes y programas del paquete académico del sistema;
 
@@ -475,7 +475,7 @@ XVII.- Promover y difundir entre la comunidad en general, los objetivos, funcion
 
 XVIII.- Concertar acciones con los sectores productivo, público, social y privado que coadyuven a la labor educativa del Colegio y que beneficien a éstos en la satisfacción de sus necesidades de recursos humanos calificados, a través de convenios a nivel estatal y municipal;
 
-XIX.- Integrar la formación de perfiles ocupacionales y directorio de empresas del Estado;
+XIX.- Integrar la formación de perfiles ocupacionales y directorio de Empresas del Estado;
 
 XX.- Determinar los mecanismos y lineamientos para el diseño de materiales a emplearse en las acciones de promoción de los servicios que ofrece el Colegio;
 
@@ -595,7 +595,7 @@ II.- Cumplir en el ámbito de su competencia, las directrices, acuerdos, resoluc
 
 III.- Dar mantenimiento al equipo e instalaciones;
 
-IV.- Representar al Colegio ante autoridades y organismos en el ámbito territorial y funcional de su competencia, dando previa cuenta al Director General;
+IV. Representar al Colegio ante autoridades y organismos en el ámbito territorial y funcional de su competencia, dando previa cuenta al Director General;
 
 V.- Organizar y operar la administración escolar, docente y tecnológica del Plantel, así como administrar los recursos asignados sujetándose a los lineamientos aprobados por la Junta Directiva y las disposiciones legales aplicables;
 
@@ -603,7 +603,7 @@ VI.- Registrar y conservar la información y documentación de los alumnos, pers
 
 VII.- Coordinar el correcto funcionamiento de los Órganos Colegiados establecidos en este Reglamento en el ámbito de su competencia, así como proveer lo necesario para el correcto funcionamiento de sus Comités de Vinculación con los sectores productivo, público, social y privado del entorno del Plantel;
 
-VIII.- Participar en la promoción de la oferta de capacitación del Colegio e impartir los cursos conforme al programa establecido, así como en la ofertación de los servicios a la comunidad a través de unidades móviles;
+VIII. Participar en la promoción de la oferta de capacitación del Colegio e impartir los cursos conforme al programa establecido, así como en la ofertación de los servicios a la comunidad a través de unidades móviles;
 
 IX.- Aplicar las disposiciones que regulan las relaciones con su personal, bajo los lineamientos de la Junta Directiva y las disposiciones legales respectivas;
 
@@ -633,17 +633,13 @@ VI.- Ejercer las demás atribuciones conferidas por este ordenamiento, por otras
 
 ### CAPÍTULO I. DEL COMITÉ DE VINCULACIÓN ESTATAL Y DEL PLANTEL
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 29.
 
-En el Estado se constituirá un Comité de Vinculación que permita la participación de la comunidad y de los sectores productivo, público, social y privado con el Colegio.
+Se constituirá un Comité de Vinculación Estatal que permita la participación de la comunidad y los sectores productivos público, social y privado con el Colegio, tendrá además como finalidad obtener recursos financieros para el organismo mediante la implementación de acciones que incrementen los ingresos o su patrimonio; así mismo fortalecerá los mecanismos e instancias permanentes de coordinación con lo (sic) sectores antes descritos, y fungirá como órgano de apoyo, asesoría y consulta del Director del Colegio.
 
-El Comité de Vinculación Estatal, tendrá como finalidad favorecer al Colegio en la obtención de recursos financieros y fortalecer los mecanismos e instancias permanentes de coordinación con los sectores productivo, público, social y privado.
-
-El Comité de Vinculación Estatal fungirá como un órgano de apoyo, asesoría y consulta del Director del Colegio.
-
-En los Planteles se constituirán Comités de Vinculación que permitan la participación de la comunidad y de los sectores productivo, público, social y privado del entorno del Plantel.
-
-El Comité de Vinculación del Plantel fungirá como un órgano de apoyo, asesoría y consulta de los Directores de Planteles. Su integración y funcionamiento se establecerá en el Reglamento respectivo.
+En los Planteles se constituirán Comités de Vinculación que permitan la participación de la comunidad y los sectores antes citados en torno del Plantel, así mismo fungirá como órgano de apoyo, asesoría y consulta de los Directores de Planteles. Su integración y funcionamiento de establecerá en el Reglamento respectivo.
 
 Los cargos de los integrantes de los Comités de Vinculación son honoríficos.
 
@@ -719,13 +715,13 @@ III.- Analizar y proponer la solución de los asuntos que les sean turnados, for
 
 Los miembros del Consejo Técnico Estatal no percibirán emolumento alguno por su labor como Consejeros.
 
+> <small>(DEROGADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
 ### CAPÍTULO IV. DEL PATRONATO
 
 ###### Artículo 37.
 
-El Patronato estará integrado por cinco miembros que serán designados por la Junta Directiva a propuesta del Director del Colegio, representativos de los sectores productivo, público, social y privado, que tengan experiencia en asuntos financieros y gocen de reconocimiento general como personas honorables e interesadas en la educación tecnológica.
-
-El Patronato tendrá como finalidad apoyar al Colegio mediante la implementación de acciones para incrementar sus ingresos o su patrimonio.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2004)
 
 ## TÍTULO SEXTO. DE LAS SUPLENCIAS
 
@@ -774,3 +770,11 @@ REPRESENTANTES DEL SECTOR PRODUCTIVO
 REPRESENTANTES DEL GOBIERNO FEDERAL DESIGNADOS POR LA SECRETARÍA DE EDUCACIÓN PÚBLICA Y COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
