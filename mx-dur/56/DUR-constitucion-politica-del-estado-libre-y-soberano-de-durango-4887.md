@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1937-10-17"
+last_updated: "1939-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1939.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -63,7 +63,7 @@ IV.- El Estado podrá revocar en cualquier tiempo las autorizaciones concedidas.
 
 ###### Artículo 10.
 
-No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier abjeto (sic) lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país y del Estado. Ninguna reunión armada tiene derecho de deliberar.
+No podrá coartarse el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos mexicanos podrán hacerlo para tomar parte en asuntos políticos o sociales de la República o del Estado. Ninguna reunión armada tiene derecho a deliberar.
 
 No se considerará ilegal, y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto, a una autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desee.
 
@@ -183,7 +183,9 @@ Los pueblos, rancherías y comunidades que carezcan de tierras y aguas, o no las
 
 Son durangueños:
 
-I. Los nacidos dentro o fuera del Estado de padres durangueños por nacimiento.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+
+I. Los nacidos dentro del Estado, hijos de padres mexicanos.
 
 II. Los mexicanos que permanezcan en el Estado por dos años y tengan un modo honesto de vivir.
 
@@ -191,9 +193,11 @@ III. Los mismos, por el sólo hecho de adquirir bienes raíces en el Estado y ma
 
 IV. Los extranjeros naturalizados según las leyes generales, que se hallaren en uno de los dos casos que preceden.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 28.
 
-Son ciudadanos durangueños los mencionados en el artículo que antecede, siempre que tengan dieciocho años cumplidos siendo casados y veintiuno si no lo son y un modo honesto de vivir.
+Son ciudadanos durangueños, los hombres y las mujeres mencionados en el artículo anterior, siempre que tengan 18 años cumplidos siendo casados y 21 si no lo son y, además, que tengan modo honesto de vivir.
 
 ###### Artículo 29.
 
@@ -273,9 +277,11 @@ Para recobrar éste derecho es necesaria la rehabilitación de la Legislatura o 
 
 El Estado de Durango es libre y soberano; y en su régimen de gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como entidad Federativa de la Nación.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 36.
 
-El Estado de Durango reconoce y adopta en su régimen interior la forma de gobierno republicano, representativo y popular.
+El Estado de Durango, reconoce y adopta en su régimen interior la forma de Gobierno Republicano, Representativo y Popular. Los cargos de elección popular no son renunciables.
 
 ###### Artículo 37.
 
@@ -343,21 +349,23 @@ Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto de
 
 Los Ayuntamientos no podrán contratar empréstitos. Tampoco podrán enajenar, hipotecar o gravar de cualquiera otra manera los bienes raíces del Municipio sin sujetarse a las disposiciones respectivas de la Ley Municipal.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 47.
 
-El Ejecutivo Federal y el Gobierno del Estado, tendrán el mando de las fuerzas de policía municipal y de las del Estado, en donde radicaren dichos funcionarios habitual o transitoriamente.
+El Ejecutivo Federal y el Ejecutivo del Estado, tendrán el mando de las fuerzas de Policía Municipal y de las del Estado.
 
-Las fuerzas de policía municipales auxiliarán a las fuerzas del Estado y recíprocamente todas las veces que esta unidad de acción sea necesaria.
-
-En caso de graves trastornos del orden público, el Gobernador del Estado, por sí con aprobación de la Legislatura, o mediante delegados que lo representen, podrá hacerse cargo de las fuerzas de policía municipales hasta que el peligro desaparezca.
+Las fuerzas de Policía Municipales y las fuerzas del Estado, recíprocamente se auxiliarán cuantas veces esta unidad de acción sea necesaria.
 
 ###### Artículo 48.
 
 Los Ayuntamientos podrán solicitar del Gobierno del Estado, cada vez que lo juzgue necesario, el aumento del número de escuelas primarias y secundarias en las Municipalidades respectivas.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 49.
 
-En caso de falta absoluta del Ayuntamiento de una Municipalidad, el Ejecutivo nombrará provisionalmente una Junta de vecinos del Municipio, la cual regirá hasta que se convoque a elecciones, o termine el período, si faltan menos de cuatro meses para su conclusión.
+La falta absoluta del Ayuntamiento de una Municipalidad, será suficiente para que el Ejecutivo nombre una Junta Provisional de Gobierno integrada con el número de miembros que la Ley de Municipios designe para un Ayuntamiento Constitucional.
 
 ## TITULO IV.
 
@@ -419,17 +427,17 @@ Para renovarse la Legislatura parcialmente cada dos años, se efectuarán elecci
 
 Para ser diputado se requieren los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
 
-I. Ser ciudadano durangueño por nacimiento, en ejercicio de sus derechos.
+I. Ser ciudadano durangueño en ejercicio de sus derechos.
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
 II.- Saber leer y escribir.
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
 
-III.- Tener para el día de la elección, veinticinco años cumplidos y residencia efectiva dentro del Territorio del Estado, inmediata al mismo día de la elección, cuando menos de seis meses si es nativo de él y de cinco años, si solo es ciudadano durangueño por vecidad (sic). La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular.
+III.- Tener para el día de la elección veinticinco años cumplidos y residencia efectiva dentro del territorio del Estado, inmediata al mismo día de la elección, cuando menos de seis meses si es nativo de él y de tres años si sólo es ciudadano durangueño por vecindad. La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular.
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
@@ -449,9 +457,11 @@ VII.- No ser empleado público del Estado, de la Federación o del Municipio den
 
 El cargo de Diputado es incompatible con el desempeño de cualquier otro empleo del Estado o de la Federación o comisión pública, salvo empleo o comisión de Instrucción o de Salubridad públicas, en el mismo Estado, en cuyo caso es indispensable el previo permiso de la Legislatura o de la Diputación Permanente. La infracción de esta disposición implica la pérdida del cargo de Diputado por todo el tiempo que faltare del período Constitucional. Incurrirán en la misma pena los Diputados Suplentes en su caso, cuando hayan sido llamados para reemplazar al propietario.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 57.
 
-Los Diputados son inviolables por las opiniones manifestadas en el desempeño de su encargo; y jamás podrán ser reconvenidos por elIas.
+Los Diputados, en el desempeño de sus encargos son inviolables por las opiniones políticas y sociales que manifiesten y, por lo tanto, jamás podrán ser reconvenidos por ellas.
 
 ###### Artículo 58.
 
@@ -477,9 +487,11 @@ Los proyectos de ley pasarán a comisión, se discutirán conforme a lo prevenid
 
 Aprobado un proyecto de ley o de decreto por la Legislatura, se remitirá al Ejecutivo, quien si no tuviere observaciones que hacer, lo publicará inmediatamente. Se reputará aceptado por el Ejecutivo todo proyecto no devuelto por éste dentro de los diez primeros días útiles, a no ser que corriendo este término hubiere el Congreso cerrado sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que la LegisIatura esté reunida. Devuelto el proyecto por el Ejecutivo con sus observaciones, será de nuevo discutido en la parte relativa a dichas observaciones previo estudio y dictamen de la comisión respectiva; y si fuere confirmado en su forma primitiva por las dos terceras partes de los Diputados, el proyecto será ley o decreto y volverá al Ejecutivo para su inmediata publicación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 62.
 
-La Legislatura, o en su caso la Diputación Permanente, decretará la convocatoria a elecciones fijando la fecha en que deben efectuarse, para la renovación de los Poderes del Estado en cada período Constitucional, conforme a la Ley Electoral del mismo; debiendo hacer otro tanto y a la mayor brevedad posible cuando se trate de reemplazar el personal del Ejecutivo o miembros del Congreso, en caso de falta absoluta por muerte, renuncia, destitución y demás causas señaladas en esta Constitución. En caso de falta absoluta de alguno o algunos Diputados propietarios y que, por las mismas causas no pudieren ser reemplazados por los suplentes respectivos, la Legislatura decretará la convocatoria a elecciones para cubrir las vacantes, a no ser que dicha falta ocurriese dentro del último semestre del período Constitucional y estuvieren en funciones la mayoría del número total de Diputados.
+La Legislatura o en su caso la Diputación Permanente declarará la Convocatoria para elecciones fijando la fecha en la que deban efectuarse, la renovación de los Poderes del Estado en cada período Constitucional y de acuerdo con la Ley Electoral del mismo, debiendo hacer otro tanto en el término no mayor de 6 meses cuando se trate de las faltas absolutas del Ejecutivo aludidas en el artículo 80 de esta Constitución. En caso de falta absoluta de alguno o algunos diputados propietarios y que por las mismas causas sus respectivos suplentes no pudieren entrar en funciones, la Legislatura decretará la Convocatoria a elecciones para cubrir las vacantes, siempre que dicha falta no ocurriese dentro del último semestre del período Constitucional y estuviere en funciones la mayoría del número total de diputados. En tratándose de las elecciones para la renovación de los Ayuntamientos del Estado, la H. Legislatura en sesiones de Colegio Electoral conocerá del resultado de las mismas en última instancia.
 
 Efectuadas las elecciones de los Poderes Ejecutivo y Legislativo del Estado, en cada período Constitucional, la Diputación Permanente convocará con la necesaria oportunidad a la Legislatura a sesiones extraordinarias, con el exclusivo objeto de que, constituyéndose en Colegio Electoral, haga la computación de votos y la declaración del personal de los nuevos Poderes, sujetándose al procedimiento señalado en el artículo 72 en lo referente al Gobernador Constitucional.
 
@@ -503,11 +515,11 @@ IV. Aprobar o nó los convenios que el Ejecutivo celebre con los Estados vecinos
 
 V. Legislar en lo relativo a la administración interior del Estado.
 
-VI. Crear y suprimir empleos y designar sus dotaciones.
+VI. (DEROGADA, P.O. 9 DE MARZO DE 1939)
 
-VII. Aprobar los Presupuestos y decretar contribuciones para cubrirlos. En el primer período de sesiones aprobará el presupuesto de los gastos del año siguiente, del Estado y de los Municipios, y en el segundo examinará las cuentas de los erogados en el anterior. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
 
-No podrá haber otras partidas secretas fuera de las que se consideran necesarias con ese carácter en los mismos presupuestos, las que se emplearán por el Ejecutivo o la autoridad respectiva, previo acuerdo escrito.
+VII. Aprobar y modificar los Presupuestos y decretar contribuciones para cubrirlos.
 
 VIII. Decretar empréstitos cuando imperiosamente lo demanden las circunstancias del Erario.
 
@@ -519,13 +531,15 @@ XI. Cambiar provisionalmente la residencia de los Poderes del Estado, cuando as�
 
 XII. Otorgar al Ejecutivo facultades extraordinarias, siempre que esta medida sea indispensable para salvar la situación.
 
-XIII. Nombrar Gobernador interino y ejercer las demás funciones electorales que designa ésta Constitución y determinare la ley.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+
+XIII. Nombrar Gobernador Interino en los términos de los artículos 62, 77 y 80 de esta Constitución.
 
 XIV. Formar su Reglamento interior y nombrar los empleados de su secretaría.
 
 XV. Facultar al Ejecutivo para la creación y organización de cuerpos Rurales o Regionales del Estado.
 
-XVI. Conceder en sesión ordinaria o extraordinaria indulto a los reos de la competencia de los Tribunales del Estado.
+XVI. (DEROGADA, P.O. 9 DE MARZO DE 1939)
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
@@ -537,9 +551,9 @@ XIX. Expedir la Ley Orgánica de los Municipios y sus Leyes de Arbitrios, confor
 
 XX. Convocar a elecciones para los Ayuntamientos conforme a las leyes respectivas.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
 
-XXI. Conceder licencias y aceptar renuncias al Gobernador del Estado, a los Miembros del propio Congreso y a los Magistrados del Tribunal.
+XXI. Conceder en los términos de Ley licencia al C. Gobernador del Estado, a los CC. Diputados y a los Magistrados del H. Tribunal de Justicia.
 
 XXII. Designar, en funciones de Colegio Electoral, al candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación, según el artículo 96 de la Carta Fundamental. En la elección de este candidato, el Congreso se sujetará a lo prescrito para elección de los Magistrados del Supremo Tribunal de Justicia del Estado.
 
@@ -577,9 +591,9 @@ II. Ejercer las funciones electorales, que, por esta Constitución y las leyes r
 
 III. Recibir la protesta al Gobernador, Magistrados, Jueces de Primera Instancia y defensores de Oficio, en los casos prescriptos (sic) por esta Constitución.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
 
-IV. Conceder licencias hasta por tres tres (sic) meses al Gobernador del Estado y a los Magistrados del Supremo Tribunal de Justicia.
+IV. Conceder las licencias que solicite el Gobernador del Estado y los Magistrados del Supremo Tribunal de Justicia.
 
 V. Acordar por sí o excitada por el Ejecutivo, la reunión de la Legislatura a sesiones extraordinarias.
 
@@ -599,7 +613,9 @@ El Ejercicio del Poder Ejecutivo se depositará en una sola persona que se denom
 
 Nunca podrá ser electo para el período inmediato:
 
-a). El Gobernador Substituto Constitucional designado para concluir el período en caso de falta absoluta del Constitucional, en el caso del artículo 80 de esta Constitución.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
+a). El Gobernador Substituto que concluya el período Constitucional.
 
 b). El Gobernador Provisional en los casos de los artículos 72 y 74 de esta Constitución.
 
@@ -609,7 +625,9 @@ c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos 
 
 Para ser Gobernador del Estado se requiere:
 
-I. Ser ciudadano durangueño por nacimiento; de 30 años cumplidos; en pleno ejercicio de sus derechos civiles y políticos, y tener dos años de residencia en el Estado en el momento de elección, salvo el caso de ausencia por servicios públicos, dentro o fuera de la República, encomendado por el Estado o la Federación. En tal evento, la duración de dichos servicios será tomada en cuenta para integrar los dos años de residencia.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+
+I. Ser ciudadano durangueño por nacimiento; con dos años de residencia anteriores a la elección; o ciudadano mexicano con residencia de cinco años inmediatamente anteriores al día de la elección; de 30 años cumplidos; en pleno ejercicio de sus derechos civiles y políticos; la vecindad no se pierde por el desempeño de cargos de elección popular o por comisiones dentro o fuera de la República, encomendadas por el Estado o la Federación.
 
 II. No pertenecer al Estado eclesiástico, ni ser ministro de culto alguno; saber leer y escribir.
 
@@ -641,9 +659,11 @@ Si al comenzar un período constitucional no se presentare el Gobernador electo,
 
 El Gobernador no podrá salir del Estado sin permiso de la Legislatura o de la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 76.
 
-El cargo de Gobernador sólo es renunciable por causas justificadas que le calificará desde luego la Legislatura, si está en período de sesiones ordinarias, o sesiones extraordinarias a que deberá convocar la Diputación Permanente, en caso de hallarse en receso.
+El cargo de Gobernador no es renunciable y sólo por causa justificada el Congreso podrá conocer de licencia hasta la terminación del período de su encargo, ya sea que esté en período de sesiones la H. Legislatura o en su defecto la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1937)</small>
 
@@ -661,9 +681,11 @@ Las faltas temporales del Gobernador nunca podrán ser de un año seguido; y las
 
 Las licencias correlativas a las faltas temporales de que antes se ha hecho mención, no serán concedidas sino por causa justificada, que será calificada par (sic) la Legislatura, o Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 80.
 
-Las faltas absolutas del Gobernador, por muerte o renuncia, se cubrirán por nueva elección popular, si la falta ocurriere dentro del primer rño (sic) en su elección, la Legislatura, erigida en Colegio Electoral, nombrará el substituto que debe terminar el período constitucional.
+Las faltas absolutas del Gobernador se cubrirán por nueva elección popular si la falta ocurriere dentro de los primeros dieciocho meses de su encargo. Si la falta ocurriere después de ese lapso, la Legislatura erigida en Colegio Electoral nombrará el substituto para la terminación del período Constitucional. En el primer caso el Gobernador Interino convocará a elecciones y entregará el Poder todo dentro de un término no menor de seis meses.
 
 ###### Artículo 81.
 
@@ -685,7 +707,9 @@ V.- Nombrar al Director General de Rentas del Estado, con aprobación de la Legi
 
 VI.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia.
 
-VII.- Visitar previo aviso a la Legislatura, a los Pueblos del Estado, durante su período, para remediar sus necesidades que advirtiere en el orden administrativo; dar cuenta con el resultado de las visitas a la Legislatura y proponer al Congreso las medidas legislativas que juzgare necesarias.
+> <small>(REFORMADA P.O. 9 DE MARZO DE 1939)</small>
+
+VII.- Visitar periódicamente los pueblos del Estado, con objeto de satisfacer las necesidades que advierta en el orden administrativo.
 
 VIII.- Hacer observaciones dentro del término de diez días a las leyes que expidiere la Legislatura.
 
@@ -719,9 +743,11 @@ XVIII.- Tendrá todas las demás atribuciones y obligaciones que le asignen las 
 
 DEL SECRETARIO DEL DESPACHO.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
 ###### Artículo 82.
 
-Para el despacho de los negocios del orden administrativo del Estado, habrá un solo Secretario, necesitándose para el desempeño de este cargo, ser ciudadano durangueño por nacimiento, en el ejercicio pleno de sus derechos políticos y civiles, tener 30 años de edad, y dos de residencia en el Estado al tiempo de su nombramiento. Todos los reglamentos, decretos y órdenes del Gobierno deberán autorizarse por el Secretario, y sin este requisito no serán obedecidos.
+Para el desempeño de los negocios del orden administrativo del Estado habrá un sólo Secretario, necesitándose para el desempeño de este cargo ser ciudadano durangueño en el pleno ejercicio de sus derechos políticos y civiles, tener 30 años de edad y cuando menos 2 de residencia en el Estado anteriores a su nombramiento. Todos los Reglamentos, Decretos y órdenes del Gobierno deberán autorizarse por el Secretario General y sin este requisito no serán obedecidos.
 
 ###### Articulo 83.
 
@@ -821,11 +847,13 @@ Los Magistrados Propietarios y Supernumerarios en funciones, no podrán desempe�
 
 Para ser Magistrado Supernumerario se necesitan los mismos requisitos que para propietario.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
 
 ###### Artículo 96.
 
-Para ser Juez de Primera Instancia, Defensor de Oficio y Juez Menor, se necesita tener veinticinco años cumplidos, y los demás requisitos señalados para los Magistrados Propietarios, con excepción de los de ciudadanía durangueña y tiempo de vecindad.
+Para ser Juez de Primera Instancia, Defensor de Oficio y Juez Menor, se necesita tener 25 años cumplidos y los demás requisitos señalados para los Magistrados propietarios.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 Sin embargo, podrá conferirse el cargo de Juez de Primera Instancia y de Juez Menor, a persona no titulada, siempre que a juicio del Tribunal reúna los requisitos de competencia en materia de leyes, los determinados en las fracciones I y IV del artículo 93 de esta Constitución, y el de haber desempeñado con acierto empleos de categoría de la Judicatura en el Estado.
 
@@ -891,7 +919,9 @@ Igualmente se declararán nulos los contratos y concesiones cuyos interesados no
 
 ###### Artículo 108.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia Propietarios y Supernumerarios, no tienen derecho de propiedad en el puesto que desempeñen; pero sí el de ser reelectos en los casos en que no lo prohiba la presente Constitución; y no podrá llevarse a efecto su separación del cargo, sino que antes se les forme causa y se pronuncie sentencia que cauce (sic) ejecutoria.
+Los Diputados al Congreso del Estado, y los Magistrados del Supremo Tribunal de Justicia, propietarios y Supernumerarios, no tienen derecho de propiedad en el puesto que desempeñan ni podrán ser reelectos para el período inmediato al de sus respectivos encargos; y no podrá llevarse a efecto su separación del cargo, sin que antes se les forme causa y se pronuncie sentencia que cause ejecutoria.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 Tampoco tienen derecho de propiedad en el empleo que desempeñen, ningún funcionario ni empleado público de los no comprendidos en el párrafo anterior, y en tal virtud, el ser removidos o supensos (sic) por sus superiores, no tendrán más derechos que los que les fije la Ley del Servicio Civil que la H. Legislatura deberá expedir.
 
@@ -1001,7 +1031,7 @@ DE LA HACIENDA DEL ESTADO.
 
 DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
 
 ## TRANSITORIOS.
 
@@ -1027,7 +1057,9 @@ Los Municipios de Lerdo y Gómez Palacio subsisten como independientes con sus d
 
 A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la Ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial.
 
-Se considera ilícito, y por lo tanto prohibido, el establecimiento de casas de juego, de suerte o de azar, ya sea que se admita en ellas libremente al público, ya sólo a personas abonadas o afiliadas.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+
+Se considera ilícito y por lo tanto prohibido toda clase de juegos de azar.
 
 La ley que expida el Congreso del Estado determinará cuáles son las profesiones que necesitan título legal para su ejercicio y las condiciones que deben llenarse para obtenerlo, así como las autoridades que deban expedirlo.
 
@@ -1058,6 +1090,8 @@ Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar
 Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que éste se formule por escrito, de manera pacífica y respetuosa; pero en materia política, sólo podrán hacer uso de ese derecho los ciudadanos de la República y del Estado.
 
 A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
 
 ###### Artículo 1º.
 
@@ -1188,5 +1222,9 @@ DECRETO No. 287.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 17 DE OCTUBRE DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 9 DE MARZO DE 1939.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
