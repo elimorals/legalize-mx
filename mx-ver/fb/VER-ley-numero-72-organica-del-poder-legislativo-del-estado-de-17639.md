@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2003-11-05"
+last_updated: "2004-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -767,7 +767,7 @@ Son atribuciones de la Diputación Permanente:
 
 > <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
 
-I. Acordar, a propuesta de la Junta de Trabajos Legislativos, con la participación de su Mesa Directiva, todo lo relativo a sus sesiones, orden del día, debates y votaciones, deliberaciones, propuestas y demás asuntos que deba conocer;
+I. Acordar, a propuesta de la Junta de Trabajos Legislativos, con la participación de su Mesa Directiva, todo lo relativo a sus sesiones, orden del día, debates y votaciones, deliberaciones, propuestas y demás asuntos que deba conocer.
 
 II. Acordar por sí misma o a solicitud del Gobernador del Estado, la convocatoria al Congreso para llevar a cabo Períodos de Sesiones Extraordinarias;
 
@@ -787,7 +787,9 @@ IX. Convocar a elecciones extraordinarias, si faltaren a la vez un Diputado prop
 
 X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
 
-XI. Conocer de los asuntos relacionados con la hacienda de los municipios y la práctica de auditorías, revisión y aprobación de las cuentas respectivas; y
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
+
+XI. Conocer de los asuntos relacionados con la hacienda de los municipios, incluyendo las autorizaciones señaladas en las fracciones XXXVI y XXXVII del artículo 35 de la Ley Orgánica del Municipio Libre, y la práctica de auditorías, revisión y aprobación de las cuentas respectivas; y
 
 XII. Las demás que le confiera expresamente la Constitución Política del Estado.
 
@@ -1037,7 +1039,7 @@ V. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 VI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
-VII. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+VII. (DEROGADA. G.O. 7 DE SEPTIEMBRE DE 2001)
 
 VIII. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
@@ -1115,6 +1117,8 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 18 DE MARZO DE 2003.
 
+DECRETO No. 547 DE REFORMA CONSTITUCIONAL.
+
 PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
@@ -1144,3 +1148,9 @@ G.O. 5 DE NOVIEMBRE DE 2003.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
