@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "1998-12-14"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -43,169 +43,163 @@ CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA.
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 1o.
 
 Las disposiciones de la presente Ley, son de orden público y de interés social y tienen por objeto establecer:
 
-I.- Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones catastral y registrar del Estado;
+I.- Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones catastral y registral;
 
-II.- Las normas conforme a las cuales el Estado proporcionará el servicio de dar publicidad a los actos jurídicos que precisan de ese requisito, para surtir efectos contra terceros;
+II.- Las disposiciones conforme a las cuales los Ayuntamientos podrán celebrar convenios con el Instituto Catastral y Registral del Estado de Sonora, para que éste se haga cargo de alguna o algunas de las actividades técnicas o servicios que aquéllos tienen a su cargo en materia de catastro, conforme a las disposiciones de la Ley de Gobierno y Administración Municipal;
 
-III.- Las normas y lineamientos de carácter técnico para la formulación del inventario de los bienes inmuebles en el Estado, tendientes a su identificación, registro y valuación; y
+III.- Las normas y lineamientos de carácter técnico para la formulación del inventario de los bienes inmuebles ubicados en los Municipios del Estado, tendientes a su identificación, registro y valuación;
 
-IV.- Las bases para la organización y funcionamiento del Instituto Catastral y Registral del Estado de Sonora;
+IV.- Las bases para la organización, integración y funcionamiento del Sistema Estatal de Información Catastral;
 
-> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+V.- Las normas conforme a las cuales el Instituto Catastral y Registral del Estado de Sonora, proporcionará el servicio de dar publicidad a los actos jurídicos que precisan de ese requisito, para surtir efectos contra terceros;
 
-V.- Las bases y lineamiento para la publicidad de las declaraciones de situación patrimonial de los servidores públicos, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, misma que deberán inscribirse y registrarse en el Instituto Catastral y Registral del Estado para conocimiento y disposición públicos.
+VI.- Las bases y lineamientos para la publicidad de las declaraciones de situación patrimonial de los servidores públicos, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, mismas que deberán inscribirse y registrarse en el Instituto Catastral y Registral del Estado para conocimiento y disposición públicos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 2o.
 
-Para los efectos de esta Ley y sus reglamentos, deberá entenderse por:
+Se declara de utilidad pública en el Estado de Sonora, la catastración de los bienes inmuebles.
 
-I.- Ley: la Ley Catastral y Registral del Estado de Sonora;
+Todos los bienes inmuebles ubicados dentro del territorio del Estado de Sonora, deberán estar inscritos en el catastro y ser objeto de avalúo, cualquiera que sea su tipo de tenencia, régimen jurídico de propiedad, uso, aprovechamiento, fin o destino.
 
-II.- Registro: el Registro Público de la Propiedad en el Estado;
-
-III.- Terceros: todos aquéllos que tengan constituidos derechos reales y gravámenes sobre los bienes o derechos que sean objeto de inscripción;
-
-IV.- Instituto: el Instituto Catastral y Registral del Estado de Sonora;
-
-V.- Registrador: el Encargado de la Oficina del Registro Público de la Propiedad que corresponda; y
-
-VI.- Oficina: la Oficina del Registro Público de la Propiedad que corresponda.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 3o.
 
-Se crea el Instituto Catastral y Registral del Estado de Sonora, como un órgano administrativo desconcertado, con personalidad jurídica y autonomía técnica y operativa y jerárquicamente subordinado a la Dependencia de la Secretaría de Finanzas.
+Para los efectos de esta Ley y sus reglamentos, deberá entenderse por:
 
-El Instituto contará con un Vocal Ejecutivo y con las unidades administrativas que se contemplen en el reglamento correspondiente. Además, contará con un Consejo Técnico Catastral, que tendrá las atribuciones a que se refiere el articulo 6o. de esta Ley.
+I.- Catastro: El inventario de la propiedad raíz, estructurado por el conjunto de registros, padrones y documentos inherentes a la identificación, descripción, cartografía y valuación de los bienes inmuebles ubicados en el territorio del Estado de Sonora;
 
-## TITULO SEGUNDO. DEL INSTITUTO CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
+II.- Ley: La Ley Catastral y Registral del Estado de Sonora;
 
-### CAPITULO UNICO. DE SU ORGANIZACION Y ATRIBUCIONES
+III.- Clave Catastral: El código que identifica al predio en forma única, para su localización, el cual será homogéneo en todo el Estado, y se integrará con los elementos que se establezcan en esta Ley y los reglamentos respectivos;
 
-###### ARTICULO 4o.
+IV.- Actualización del valor catastral: El conjunto de actividades técnicas realizadas para asignar un nuevo valor catastral a un bien inmueble;
 
-El Instituto tendrá las siguientes atribuciones:
+V.- Función Catastral: El conjunto de facultades y obligaciones que en la materia otorgue esta Ley y sus reglamentos a las autoridades catastrales;
 
-I.- Establecer las políticas, normas y lineamientos generales del catastro;
+VI.- Autoridad Catastral Municipal: La dependencia que determine el Ayuntamiento;
 
-II.- Establecer la forma, términos y procedimientos a que se sujetarán los trabajos catastrales y las obligaciones que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, así como los servidores públicos, corredores, notarios y demás fedatarios que por disposición legal tengan funciones notariales, así como toda persona física o moral que realice funciones relacionadas con la aplicación de la presente Ley;
+VII.- Instituto: El Instituto Catastral y Registral del Estado de Sonora;
 
-III.- Integrar los registros, vigilar y autorizar, en su caso, los trabajos y efectuar el levantamiento de los diferentes planos catastrales;
+VIII.- Zonas Homogéneas: Es la delimitación de un área territorial de una localidad, cuyo ámbito lo constituyen básicamente inmuebles con o sin construcciones y en donde el uso del suelo actual o potencial, el régimen jurídico de la existencia y disponibilidad de servicios públicos e infraestructura, tienen el nivel de homogeneidad cualitativa y cuantitativa requerido en los términos y condiciones que para el caso se establezcan;
 
-IV.- Determinar en forma precisa la localización de cada predio ubicado dentro del territorio del Estado;
+IX.- Bandas de Valor: Cuando un valor unitario no se ajusta a la zona catastral homogénea, se podrá optar en forma complementaria por la (sic) bandas de valor, para particularizar las desviaciones del valor unitario de terreno en determinadas calles, que podrán ser mayores o menores al valor unitario de la zona homogénea.
 
-V.- Formular la propuesta de planos y valores unitarios por zona, región o subregión catastral de terrenos y tablas de construcción en zonas urbanas y por hectáreas en zonas rurales, para su aprobación;
+La banda de valor estará identificada por un tramo que podrá abarcar una o varias calles de acuerdo a las características definidas y afectarán directamente a los predios que tenga frente a la misma.
 
-VI.- Practicar la valuación de los predios en particular, conforme a las disposiciones contenidas en esta Ley;
+X.- Valores Unitarios;
 
-VII.- Registrar oportunamente los cambios que se operen en los predios y por cualquier concepto alteren los datos contenidos en los registros catastrales;
+a).- De suelo: Los determinados por el suelo por unidad de superficie dentro de cada región catastral;
 
-VIII.- Ser el organismo permanente de investigación científica y tecnológica que tenga por objeto crear o reestructurar los métodos, sistemas y procedimientos para la valuación y registros catastrales;
+b).- De construcción: Los determinados por las distintas clasificaciones de construcción por unidad de superficie;
 
-IX.- Asesorar a los Ayuntamientos, cuando así lo soliciten sobre la instrumentación de los mecanismos técnicos inherentes a la aplicación, en su caso, de las contribuciones especiales por mejoras, y de cuotas aportadas por la comunidad en los términos del articulo 8o. de la Ley de Obras Públicas y de la fracción III del artículo 6o. de la Ley de Hacienda Municipal del Estado;
+XI.- Valor catastral: El asignado a cada uno de los bienes inmuebles ubicados en el territorio del Estado, de acuerdo a los procedimientos a que se refiere esta Ley;
 
-X.- Auxiliar a los organismos, oficinas o instituciones cuyas atribuciones en materia de obras públicas, planificación u otros proyectos, requieran de datos contenidos en el catastro;
+XII.- Sistema Estatal de Información Catastral: Es el conjunto de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado;
 
-XI.- Organizar, integrar y administrar el Registro Público de la Propiedad en la Entidad;
+XIII.- Oficina: la Oficina del Registro Público de la Propiedad que corresponda;
 
-XII.- Proporcionar a las personas que lo soliciten, la información registrar que se encuentre en los archivos, conforme a los medios con que cuente la Institución, bajo los procedimientos establecidos en el reglamento respectivo y expedir certificaciones sobre las inscripciones y documentos que aparecen en los archivos regístrales, así como certificaciones de existir o no, inscripciones relativas a los bienes, personas o documentos que se señalen por los solicitantes. Asimismo, deberá expedir, a solicitud expresa, copias certificadas de los documentos inscritos;
+XIV.- Registro: el Registro Público de la Propiedad en el Estado;
 
-XIII.- Establecer los mecanismos de coordinación entre los datos catastrales y regístrales para obtener la identificación plena y datos reales de los inmuebles inscritos; y
+XV.- Terceros: todos aquellos que tengan constituidos derechos reales y gravámenes sobre los bienes o derechos que sean objeto de inscripción;
 
-> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+XVI.- Registrador: el Encargado de la Oficina del Registro Público de la Propiedad que corresponda.
 
-XIV.- Recibir para su inscripción y registro las declaraciones iniciales y finales de la situación patrimonial de los servidores públicos, así como sus respectivas actualizaciones, de conformidad con lo dispuesto en el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los municipios, que oportunamente remita Secretaría de la Contraloría General del Estado;
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+## TITULO SEGUNDO. DE LA FUNCION CATASTRAL
 
-XV.- Proporcionar a quien lo solicite la información registral y demás documentos inscritos en los archivos de esa dependencia, relacionado con las declaraciones patrimoniales de los servidores públicos en general, pudiendo expedir certificaciones de las mismas a costa del solicitante. Para los efectos de publicidad de la declaración patrimonial el solicitante deberá acreditar el interés legitimo ante el vocal ejecutivo del Instituto; en términos de los Artículos 1, fracción V y 94, fracción IV de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
-
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
-
-XVI.- Las demás que le confieren las Leyes y Reglamentos correspondientes.
-
-###### ARTICULO 5o.
-
-El Instituto contará con un Consejo Técnico Catastral que se integrará por: el Secretario de Finanzas quien lo presidirá; los titulares de las Secretarías de Planeación del Desarrollo y Gasto Público y de Infraestructura Urbana y Ecología; el Subsecretario de Finanzas; cuatro Presidentes Municipales, electos entre los que integran cada uno de los cuatro grupos que contempla el artículo 13 de la Ley de Hacienda Municipal; y el Vocal Ejecutivo, quien fungirá como Secretario del Consejo.
-
-El Presidente del Consejo podrá invitar a funcionarios de la Administración Pública Federal, Estatal y Municipal, ligados a la materia del Instituto, para que asistan a las reuniones, pudiendo opinar en relación con lo que en ella se trate.
-
-El Consejo sesionará cuando menos dos veces al año ordinariamente y extraordinariamente, cuando fuese necesario, y los acuerdos se tomarán por consenso mayoritario.
-
-Habrá un suplente por cada miembro propietario.
-
-###### ARTICULO 6o.
-
-El Consejo Técnico Catastral tendrá las siguientes atribuciones:
-
-I.- Opinar sobre los trabajos de fotogrametría o de medición directa que son necesarias para las funciones catastrales;
-
-II.- Opinar en relación con la propuesta de planos y valores unitarios por zona, región o subregión catastral de terrenos, y tablas de construcción en zonas urbanas y por hectáreas en zonas rurales, para su aprobación;
-
-III.- Proponer adecuaciones a los derechos que por sus servicios reciba el Instituto en materia catastral, así como a los montos de las cuotas o de cualesquiera otros ingresos que deba percibir el propio Instituto por las demás actividades que realice y, asimismo, a los mecanismos o procedimientos necesarios para su cobro y percepción; y
-
-IV.- Las demás que esta Ley, el reglamento y otras disposiciones aplicables le confieran.
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. DEL CATASTRO
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 4o.
+
+El catastro tiene por objeto clasificar, procesar y proporcionar información concerniente al suelo y a las construcciones.
+
+Las disposiciones de este título regulan la integración, organización, funcionamiento, y conservación del catastro, la forma, términos y procedimientos a que se sujetarán los trabajos catastrales realizados por las autoridades competentes y las obligaciones que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, los servidores públicos, corredores, notarios y demás fedatarios que por disposición legal tengan funciones notariales, así como toda persona física o moral que realice funciones relacionadas con la aplicación de la presente Ley.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 5o.
+
+Los bienes inmuebles ubicados dentro del territorio de cada Municipio, deberán estar inscritos en el catastro municipal, cuya clave catastral deberá contener los dígitos de identificación de los predios, relativos a la región, manzana y lote en que se encuentren, así como los dígitos de identificación del municipio y la población al que correspondan.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 6o.
+
+La aplicación de las disposiciones legales y reglamentarias en materia catastral corresponde a las autoridades que señala esta Ley, conforme a la competencia y atribuciones que en la misma se establecen.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO II. DE LAS OPERACIONES Y LA VALUACION CATASTRAL
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 7o.
-
-El Instituto tendrá su sede en la capital del Estado, independientemente de que, para el conocimiento y resolución de los asuntos de su competencia establezca oficinas o delegaciones en el número y circunscripción territorial que se requiera.
-
-###### ARTICULO 8o.
-
-Las relaciones de trabajo entre el Instituto y sus funcionarios y empleados, se regirán por la Ley del Servicio Civil para el Estado de Sonora.
-
-###### ARTICULO 9o.
-
-El Catastro para efectos de esta Ley, es el inventario de la propiedad raíz en el Estado, estructurado por el conjunto de registros o padrones inherentes a las actividades relativas a la identificación, registro y valuación de los bienes inmuebles ubicados en el territorio del Estado.
-
-###### ARTICULO 10.
-
-El Catastro tiene por objeto obtener, clasificar, procesar y proporcionar información concerniente a la tierra y a las construcciones.
-
-###### ARTICULO 11.
-
-Las disposiciones de la presente Ley, regulan: la integración, organización y funcionamiento del catastro de los bienes inmuebles; la forma, términos y procedimientos a que se sujetarán los trabajos catastrales y las obligaciones que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, los servidores públicos, corredores, notarios y demás fedatarios que por disposición legal tengan funciones notariales, así como toda persona física o moral que realice funciones relacionadas con la aplicación de la presente Ley.
-
-###### ARTICULO 12.
-
-Todos los bienes inmuebles ubicados dentro del territorio del Estado de Sonora, deberán estar inscritos en el Catastro.
-
-###### ARTICULO 13.
 
 Las operaciones catastrales tienen por finalidad efectuar la descripción y mensura de los predios, inscribirlos en los registros catastrales y valuarlos de acuerdo a lo establecido en esta Ley.
 
-###### ARTICULO 14.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 8o.
 
 La localización de predios y el levantamiento de planos comprende las operaciones y trabajos necesarios para determinar sus características, tales como topografía, ubicación, uso y los datos jurídicos, socioeconómicos y estadísticos que requiere el Catastro.
 
-###### ARTICULO 15.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 9o.
 
 Con base en los elementos físicos del predio y los datos obtenidos según el artículo anterior, se elaborarán los planos catastrales que se requieran, por los procedimientos técnicos que presten mayor garantía de exactitud para un conocimiento objetivo de las áreas y características del terreno y la construcción.
 
-###### ARTICULO 16.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Todos los predios del Estado, deberán ser objeto de avalúo.
+###### ARTICULO 10.
 
-###### ARTICULO 17.
+Todos los predios ubicados dentro del territorio de los Municipios del Estado, deberán ser objeto de avalúo.
 
-El valor catastral será determinado por el Instituto, el cual podrá ser provisional o definitivo. En ambos casos, el valor surtirá sus efectos a partir del día siguiente a aquél en que fuere fijado.
+Las autoridades competentes deberán determinar el valor catastral de cada inmueble con la aplicación de los planos y tablas generales de valores unitarios de suelo y construcción aprobadas por el Congreso del Estado.
 
-###### ARTICULO 18.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Para los efectos del artículo anterior, el Instituto formulará planos y tablas generales de valores unitarios de zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este artículo, deberán ser aprobados por el Secretario de Finanzas y publicados en el Boletín Oficial del Gobierno del Estado, para entrar en vigor a partir de la fecha que se señale en cada uno de los acuerdos respectivos.
+###### ARTICULO 11.
 
-###### ARTICULO 19.
+Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, los planos y tablas generales de valores unitarios de terrenos y construcción por zona, región y subregión catastral en zonas urbanas y, tratándose de predios rurales, por hectárea, atendiendo a su clase y categoría.
 
-Los valores unitarios que proponga el Instituto, deberán ser análogos a los valores comerciales al momento de elaborarse el estudio correspondiente. Estos valores podrán ser objeto de revisión anualmente.
+La propuesta de planos deberá elaborarse tomando en cuenta los servicios públicos y todos aquellos elementos físicos, sociales, económicos, históricos o cualquier otro que influya en el valor de los predios, obteniendo todos los datos de información necesarios para una correcta definición de las zonas homogéneas y bandas de valor.
 
-###### ARTICULO 20.
+Los valores unitarios que propongan los ayuntamientos, deberán ser análogos a los valores de mercado al momento de elaborarse el estudio correspondiente.
 
-El valor catastral de los predios podrá actualizarse en los siguientes casos:
+Los planos y tablas de valores aprobados por el congreso del Estado, deberán ser publicados en el Boletín Oficial del Gobierno del Estado, sin cargo a los Ayuntamientos, y serán de observancia obligatoria para el ejercicio fiscal para el que se formularon.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 12.
+
+En caso de que al terminar el ejercicio fiscal de su vigencia, no se expidieren nuevos planos y tablas de valores, continuarán vigentes los anteriores y sus valores se incrementarán a partir del primero de enero de cada año, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor, del mes de noviembre del año inmediato anterior a aquél por el que se efectúe el cálculo entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 13.
+
+El valor catastral podrá ser provisional o definitivo; en ambos casos, el valor surtirá sus efectos a partir del día siguiente a aquél en que fuere fijado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 14.
+
+El valor catastral de los predios deberá actualizarse en los siguientes casos:
 
 I.- Cuando el valor del predio tenga una antigüedad de más de un año;
 
@@ -215,17 +209,21 @@ III.- Cuando la totalidad o parte del predio sea objeto de traslado de dominio u
 
 IV.- Cuando el predio sufra un cambio físico que afecte notoriamente el valor;
 
-V.- Cuando teniendo un valor catastral provisional se le formule avalúo determinado técnicamente tendiente a la fijación de su valor catastral definitivo;
+V.- Cuanto teniendo un valor catastral provisional se le formule avalúo determinado técnicamente tendiente a la fijación de su valor catastral definitivo;
 
 VI.- Cuando por la ejecución de obras públicas o privadas se altere el valor de los predios; y
 
-VII.- A solicitud del propietario o poseedor del predio cumpliendo los requisitos que en reglas de carácter general establezca el Instituto.
+VII.- A solicitud del propietario o poseedor del predio, cumpliendo los requisitos que establezcan los reglamentos respectivos.
 
-###### ARTICULO 21.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 15.
 
 La valuación catastral, ya sea provisional o definitiva, se hará separadamente para el terreno y las construcciones. La suma de los valores resultantes será el valor catastral del predio.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 16.
 
 Se considera que el valor catastral es provisional:
 
@@ -237,61 +235,83 @@ III.- Cuando se le dé a un predio resultante de la fusión de dos o más; y
 
 IV.- Cuando no se disponga de elementos técnicos y se le aplique administrativamente.
 
-###### ARTICULO 23.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Tratándose de predios no registrados y en aquellos casos en que no se pueda determinar el valor catastral aplicable al predio, el Instituto, con base en los elementos de que disponga, determinará un valor provisional, asignando un valor al terreno y a las construcciones si las hubiere, lo más aproximado posible al que seria su valor catastral.
+###### ARTICULO 17.
 
-###### ARTICULO 24.
+Tratándose de predios no registrados y en aquellos casos en que no se pueda determinar el valor catastral aplicable al predio, las autoridades catastrales, con base en los elementos de que dispongan, determinarán un valor provisional, asignando un valor al terreno y a las construcciones si las hubiere, lo más aproximado posible al que sería su valor catastral.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 18.
 
 En el caso de un predio no registrado por causa imputable al propietario o poseedor, el valor provisional surtirá efectos desde la fecha en que debió haber efectuado el registro sin exceder de cinco años.
 
-###### ARTICULO 25.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 19.
 
 Mientras se practica la valuación correspondiente a cada porción del predio subdividido, se tendrá provisionalmente como valor catastral para cada una de esas porciones, la parte proporcional del total del predio, incluyendo terreno y construcción.
 
-###### ARTICULO 26.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 20.
 
 En caso de fusión de dos o más predios en uno solo, el valor catastral provisional será la suma de los valores catastrales de los predios fusionados.
 
-###### ARTICULO 27.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-El valor catastral será definitivo cuando se efectúe el avalúo de los predios por el Instituto en los términos de esta Ley.
+###### ARTICULO 21.
 
-###### ARTICULO 28.
+El valor catastral será definitivo cuando se efectúe el avalúo de los predios por las autoridades catastrales, en los términos de esta Ley.
 
-El Instituto hará la valuación catastral de la totalidad del predio en los casos de traslación de dominio o de terminación de nuevas construcciones. Tratándose de ampliación de la construcción, únicamente se valuarán las ampliaciones, sumándose este valor al de las construcciones ya existentes. En ambos casos, se aplicarán los valores aprobados en la fecha de la traslación de dominio, de terminación de las obras, o de su ocupación sin estar terminadas.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 29.
+###### ARTICULO 22.
 
-Recibida por el Instituto, la copia de los planos a que se refiere el articulo 40, primer párrafo de esta Ley, señalará la clave catastral a cada uno de los lotes de terreno que constituyan el fraccionamiento, misma que servirá de base para la identificación en el plano de las operaciones que posteriormente se realicen.
+Las autoridades catastrales, harán la valuación catastral de la totalidad del predio en los casos de traslación de dominio o de terminación de nuevas construcciones. Tratándose de ampliación de la construcción, únicamente se valuarán las ampliaciones, sumándose este valor al de las construcciones ya existentes. En ambos casos, se aplicarán los valores aprobados en la fecha de la traslación de dominio, de terminación de las obras, o de su ocupación sin estar terminadas.
 
-###### ARTICULO 30.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-El fraccionador dará aviso al Instituto, de la terminación de las obras del fraccionamiento de que se trate, dentro de los quince días siguientes. Recibido el aviso de referencia, o en aquellos casos en que el fraccionador fuere autorizado para celebrar operaciones de compra - venta; promesa de venta, ventas con reserva de dominio o cualquier otro contrato preparatorio o preliminar, antes de la terminación de las obras de urbanización, el Instituto deberá:
+###### ARTICULO 23.
+
+Recibida por la autoridad catastral municipal, la copia de los planos a que se refiere el artículo 34, primer párrafo de esta Ley, señalará la clave catastral a cada uno de los lotes de terreno que constituyan el fraccionamiento, misma que servirá de base para la identificación en el plano de las operaciones que posteriormente se realicen.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 24.
+
+El fraccionador dará aviso a la autoridad catastral municipal, de la terminación de las obras del fraccionamiento de que se trate, dentro de los quince días siguientes. Recibido el aviso de referencia, o en aquellos casos en que el fraccionador fuere autorizado para celebrar operaciones de compraventa, promesa de venta, ventas con reserva de dominio o cualquier otro contrato preparatorio o preliminar, antes de la terminación de las obras de urbanización, la autoridad catastral deberá:
 
 I.- Empadronar los lotes del fraccionamiento, los cuales se considerarán como nuevos predios; y
 
 II.- Valuar cada uno de los lotes del fraccionamiento.
 
-### CAPITULO II. DE LAS OPERACIONES Y LA VALUACION CATASTRAL
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 31.
+###### ARTICULO 25.
 
-En los casos de fraccionamientos que se ejecuten total o parcialmente, sin la autorización correspondiente o cuando el fraccionador lleve a cabo algunas de las operaciones a que se refiere el artículo anterior, sin haber obtenido la autorización para enajenar los lotes del fraccionamiento, el Instituto empadronará dichos lotes y hará la valuación respectiva, con efecto a partir de la fecha de la primera operación.
+En los casos de fraccionamientos que se ejecuten total o parcialmente, sin la autorización correspondiente o cuando el fraccionador lleve a cabo algunas de las operaciones a que se refiere el artículo anterior, sin haber obtenido la autorización para enajenar los lotes del fraccionamiento, la autoridad catastral municipal, hará la integración de un registro catastral provisional de dichos lotes, el cual quedará sujeto a la regularización que se haga de conformidad con la Ley de Desarrollo Urbano del Estado de Sonora.
 
-###### ARTICULO 32.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Las valuaciones catastrales se harán conforme a las disposiciones de este capítulo y a los instructivos que el Instituto expida al efecto, los que se publicarán en el Boletín Oficial del Gobierno del Estado.
+###### ARTICULO 26.
 
-El Instituto ordenará las valuaciones catastrales que se practicarán por analistas valuadores, que se identificarán con credencial oficial.
+Las valuaciones catastrales se harán conforme a las disposiciones de este Capítulo y a los instructivos que al efecto se expidan, los que se publicarán en el Boletín Oficial del Gobierno del Estado.
 
-###### ARTICULO 33.
+La autoridad catastral municipal, para las valuaciones, ordenará la práctica de visitas domiciliarias mismas que estarán a cargo de analistas valuadores, quienes se identificarán con credencial oficial.
 
-Los analistas - valuadores deberán presentarse en horas y días hábiles en el predio que deba ser objeto de la valuación, mostrando para ello la identificación correspondiente. Si los ocupantes se opusieran en cualquier forma a la valuación, ésta se hará administrativamente con base en los elementos de que se disponga y sin perjuicio de imponer al infractor las sanciones correspondientes.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 34.
+###### ARTICULO 27.
 
-El Instituto resolverá acerca de las instancias de reconsideración que presenten los propietarios o poseedores de predios, en relación con la fijación del valor catastral definitivo, siempre y cuando se argumente, en relación al avalúo, alguna de las razones siguientes:
+Los analistas valuadores deberán presentarse en horas y días hábiles en el predio que deba ser objeto de la valuación, mostrando para ello la identificación correspondiente. Si los ocupantes se opusieran en cualquier forma a la valuación, ésta se hará administrativamente con base en los elementos de que se disponga y sin perjuicio de imponer al infractor las sanciones correspondientes.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 28.
+
+Los propietarios o poseedores de predios podrán impugnar ante la autoridad que emita el acto, mediante el recurso de reconsideración, la fijación del valor catastral definitivo, siempre y cuando se argumente, en relación al avalúo, alguna de las razones siguientes:
 
 I.- Error en las medidas tomadas como base;
 
@@ -299,13 +319,21 @@ II.- Inexacta aplicación de las tablas de valores; y
 
 III.- Asignación de una extensión mayor o clase y tipo diverso de las que efectivamente tenga el predio.
 
-###### ARTICULO 35.
+El recurso de reconsideración, se interpondrá por escrito, ante la autoridad catastral correspondiente. El término para su interposición, será de diez días hábiles contados a partir del día siguiente de la fecha de notificación de la resolución recurrida.
 
-Contra las resoluciones dictadas en los términos del artículo anterior y respecto de aquéllas contra las cuales no exista instancia de reconsideración, procederá el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
+La autoridad deberá emitir su resolución dentro del plazo de 30 días hábiles contados a partir de la fecha de presentación del recurso.
 
-###### ARTICULO 36.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Para la mejor valorización de los predios en particular, el Instituto tendrá además las siguientes facultades:
+###### ARTICULO 29.
+
+Contra las resoluciones dictadas en los términos del artículo anterior, procederá el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 30.
+
+Para la mejor valorización de los predios en particular, la autoridad catastral municipal tendrá además las siguientes facultades:
 
 I.- Revisar y confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de predios con los datos que obren en su poder;
 
@@ -313,67 +341,271 @@ II.- Solicitar los informes que estime necesarios de las oficinas públicas; y
 
 III.- Calificar las manifestaciones o avisos y exigir a los interesados que las aclaren, comprueben o ratifiquen cuando sea necesario.
 
-###### ARTICULO 37.
-
-Todo propietario o poseedor de bienes inmuebles ubicados en la Entidad o sus representantes legales, tienen la obligación de manifestarlos en los plazos establecidos en esta Ley y en el reglamento respectivo, en las formas oficiales que para el caso apruebe el Instituto.
-
-Los propietarios, inquilinos, o cualquiera otra persona encargada de un predio, están obligados a proporcionar al personal de Catastro debidamente autorizado para tal efecto, los datos o informes que les soliciten, así como permitirle el acceso al interior de los mismos, y dar toda clase de facilidades para la localización de los predios, levantamiento de los planos y demás operaciones catastrales.
-
-Los propietarios, poseedores o sus representantes, están obligados a manifestar a el Instituto cualquier modificación que se haga a los elementos que caracterizan al predio, tales como construcciones, reconstrucciones, ampliaciones, fusión o subdivisión de predios o cualquier otra contemplada por esta Ley, dentro de un plazo de 30 días naturales contados a partir de la fecha en que se hubiere realizado la modificación.
-
-## TITULO TERCERO. DEL CATASTRO
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO III. DE LAS OBLIGACIONES
 
-###### ARTICULO 38.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Los Notarios Públicos, Jueces o cualesquiera otros funcionarios que tengan fe pública, que intervengan en el otorgamiento de contratos que pretendan transmitir o modificar el dominio directo de un predio, tienen la obligación de manifestar por escrito al Instituto, en las formas oficiales respectivas, el tipo de operaciones que con su intervención, se realicen sobre los predios, dentro de los sesenta días hábiles siguientes a la fecha de los contratos, disposiciones, o convenios en que intervengan o previamente a la autorización de la escritura correspondiente, si ésta es anterior.
+###### ARTICULO 31.
+
+Todo propietario o poseedor de bienes inmuebles ubicados en la Entidad o sus representantes legales, tienen la obligación de manifestarlos en los plazos establecidos en esta Ley y en el reglamento respectivo, en las formas oficiales que para el caso aprueben las autoridades catastrales.
+
+Los propietarios, inquilinos, o cualquiera otra persona encargada de un predio, están obligados a proporcionar al personal de catastro debidamente autorizado para tal efecto, los datos o informes que les soliciten, así como permitirle el acceso al interior de los mismos, y dar toda clase de facilidades para la localización de los predios, levantamiento de los planos y demás operaciones catastrales.
+
+Los propietarios, poseedores o sus representantes, están obligados a manifestar a la autoridad catastral municipal, cualquier modificación que se haga a los elementos que caracterizan al predio, tales como construcciones, reconstrucciones, ampliaciones, fusión o subdivisión de predios o cualquier otra contemplada por esta Ley, dentro de un plazo de 30 días naturales contados a partir de la fecha en que se hubiere realizado la modificación.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 32.
+
+Los Notarios Públicos, Jueces o cualesquiera otros funcionarios que tengan fe pública, que intervengan en el otorgamiento de contratos o cualquier acto jurídico que pretendan transmitir o modificar el dominio directo de un predio, tienen la obligación de manifestar por escrito a la autoridad catastral municipal, en las formas oficiales respectivas, el tipo de operaciones que con su intervención, se realicen sobre los predios, dentro de los sesenta días hábiles siguientes a la fecha de los contratos, disposiciones, o convenios en que intervengan o previamente a la autorización de la escritura correspondiente, si ésta es anterior.
 
 Tratándose de particulares cuyas operaciones consten en documentos privados, los avisos a que se refiere el párrafo anterior, deberán presentarse dentro de los quince días hábiles siguientes a la fecha de la operación respectiva.
 
-###### ARTICULO 39.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Todas las autoridades, dependencias o instituciones que intervengan o den autorización en aspectos que por cualquier motivo modifiquen las características de la propiedad raíz o de un predio en particular, están obligadas a manifestarlas al Instituto, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que intervinieron o autorizaron la modificación de elementos que caractericen el predio.
+###### ARTICULO 33.
 
-Toda persona física o moral que lleve a cabo la elaboración de productos fotogramétricos en el territorio del Estado, estará obligado a proporcionar al Instituto, una copia de los mismos.
+Todas las autoridades, dependencias o instituciones que intervengan o den autorización en aspectos que por cualquier motivo modifiquen las características de la propiedad raíz o de un predio en particular, están obligadas a manifestarlas a la autoridad catastral municipal, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que intervinieron o autorizaron la modificación de elementos que caractericen el predio.
 
-###### ARTICULO 40.
+Toda persona física o moral que lleve a cabo la elaboración de productos fotogramétricos en el territorio del Estado, estará obligado a proporcionar a las autoridades catastrales, una copia de los mismos.
 
-Las autoridades que intervengan en la autorización de fraccionamientos, están obligados a informar todo lo relativo a los mismos, remitiendo una copia de los planos al Instituto.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-Además del procedimiento que deberán cumplir los fraccionadores en los términos de la sección IV, artículo 135 de la Ley de Desarrollo Urbano del Estado, tienen la obligación de manifestar al Instituto, todas las operaciones que impliquen la modificación del dominio de lotes que formen parte del fraccionamiento, remitiendo copias de los contratos que den origen a tal modificación.
+###### ARTICULO 34.
 
-###### ARTICULO 41.
+Las autoridades que intervengan en la autorización de fraccionamientos, están obligados a informar todo lo relativo a los mismos, remitiendo una copia de los planos a la autoridad catastral municipal.
 
-Las manifestaciones y avisos que deben ser presentados en los términos de esta Ley y sus reglamentos, deberán hacerse en las formas que apruebe el Instituto y acompañar los documentos o planos que se exigen en las mismas.
+Además del procedimiento que deberán cumplir los fraccionadores en los términos de la Ley de Desarrollo Urbano del Estado, tienen la obligación de manifestar a la autoridad catastral municipal todas las operaciones que impliquen la modificación del dominio de lotes que formen parte del fraccionamiento, remitiendo copias de los contratos que den origen a tal modificación.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 35.
+
+Las manifestaciones y avisos que deben ser presentados en los términos de esta Ley y sus reglamentos, deberán hacerse en las formas que aprueben las autoridades catastrales, y acompañar los documentos o planos que se exigen en las mismas.
 
 No se eximen de la obligación anterior, a los propietarios o poseedores de predios, que por disposición de la Ley respectiva, estén exentos del pago de contribuciones a la propiedad inmobiliaria.
 
-Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos también requeridos, el Instituto dará un plazo de 15 días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos también requeridos, la autoridad catastral municipal dará un plazo de 15 días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Si transcurrido dicho plazo y no se expresan los datos o se presentan los documentos o planos a que se refiere el párrafo anterior, el Instituto tendrá por no presentadas las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+Si transcurrido dicho plazo, no se expresan los datos o se presentan los documentos o planos a que se refiere el párrafo anterior, la autoridad catastral, tendrá por no presentadas las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 36.
+
+La autoridad catastral municipal expedirá copias certificadas de los planos y demás documentos que se le soliciten, relacionados con los predios, previo pago de los derechos correspondientes.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 37.
+
+El Código Fiscal del Estado es supletorio de la presente Ley, en cuanto sus disposiciones no se opongan a la misma y permita resolver lo no previsto en ella en materia catastral.
+
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+## TITULO TERCERO. AUTORIDADES COMPETENTES
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO I. AUTORIDADES CATASTRALES Y SU COMPETENCIA
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 38.
+
+Son autoridades en materia de catastro, en el ámbito de sus respectivas competencias:
+
+I.- El Instituto Catastral y Registral del Estado de Sonora; y
+
+II.- Los Ayuntamientos, por conducto de la dependencia que determine el reglamento interior.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 39.
+
+Se crea el Instituto Catastral y Registral del Estado de Sonora como un órgano administrativo desconcentrado con personalidad jurídica y autonomía técnica, operativa y presupuestal, jerárquicamente subordinado a la Secretaría de Finanzas. El Instituto tendrá su sede en la capital del Estado, independientemente de que, para el conocimiento y resolución de los asuntos de su competencia establezca oficinas o delegaciones en el número y circunscripción territorial que se requiera.
+
+El Instituto contará con un Vocal Ejecutivo y con las unidades administrativas que se contemplen en el reglamento correspondiente. Además, contará con un consejo técnico catastral, que tendrá las atribuciones a que se refiere el artículo 42 de esta Ley.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 40.
+
+El Instituto tendrá las siguientes atribuciones:
+
+I.- Servir como órgano técnico de apoyo y consulta a los poderes del Estado y a los Ayuntamientos de la Entidad, en las materias relacionadas en el ámbito de su competencia.
+
+II.- Emitir, con la intervención que corresponda a los municipios, las políticas, lineamientos y normas técnicas generales a que se sujetará la función catastral en la Entidad, para uniformar la normatividad de los municipios en la materia, así como los datos catastrales y registrales para la identificación plena y veraz de los inmuebles inscritos.
+
+III.- Determinar en forma precisa la localización de cada predio ubicado dentro del territorio del Estado;
+
+IV.- Elaborar y mantener actualizado el inventario inmobiliario estatal y los planos correspondientes;
+
+V.- Registrar oportunamente los cambios que se operen en los predios y que por cualquier concepto alteren los datos contenidos en los registros catastrales a su cargo;
+
+VI.- Practicar la valuación de los predios, en los casos que exista convenio y en otros casos conforme a las disposiciones contenidas en esta Ley;
+
+VII.- Ser el organismo permanente de investigación científica y tecnológica que tenga por objeto crear o reestructurar los métodos, sistemas y procedimientos para la valuación y registros catastrales;
+
+VIII.- Prestar los servicios periciales que se le soliciten como valuador de inmuebles ante las autoridades civiles, penales, laborales, administrativas y fiscales;
+
+IX.- Proporcionar asesoría y el apoyo necesario a los Ayuntamientos en materia catastral, cuando así lo soliciten;
+
+X.- Ejercer, en su caso, las funciones y servicios catastrales municipales, en los términos de los convenios que el Ayuntamiento respectivo celebre con el Instituto;
+
+XI.- Proporcionar a las autoridades catastrales municipales los datos de inscripción registral de la información generada en cada ayuntamiento;
+
+XII.- Asesorar técnica y operativamente a los Ayuntamientos en la elaboración de la propuesta de planos y valores unitarios de terrenos y tablas de construcción en zonas urbanas y rurales, que éstos deban presentar para su aprobación al Congreso del Estado;
+
+XIII.- Auxiliar a las diversas dependencias y entidades en las tareas de planificación, desarrollo territorial y demás actividades que requieran de datos contenidos en el catastro a su cargo;
+
+XIV.- Asesorar a los Ayuntamientos, cuando así lo soliciten sobre la instrumentación de los mecanismos técnicos inherentes a la aplicación, en su caso, de las contribuciones especiales por mejoras, y de cuotas aportadas por la comunidad en los términos de las leyes aplicables;
+
+XV.- Tramitar y resolver en su caso, las inconformidades que en materia catastral interpongan los propietarios o poseedores de predios, así como imponer las sanciones que procedan en los términos de esta Ley, de acuerdo con los convenios que los Ayuntamientos celebren con el Ejecutivo del Estado;
+
+XVI.- Organizar, integrar y administrar el Registro Público de la Propiedad en la Entidad;
+
+XVII.- Proporcionar a las personas que lo soliciten, la información registral que se encuentre en los archivos, conforme a los medios con que cuente la Institución, bajo los procedimientos establecidos en el reglamento respectivo y expedir certificaciones sobre las inscripciones y documentos que aparecen en los archivos registrales, así como certificaciones de existir o no, inscripciones relativas a los bienes, personas o documentos que se señalen por los solicitantes.
+
+Asimismo, deberá expedir, a solicitud expresa, copias certificadas de los documentos inscritos;
+
+XVIII.- Integrar y operar, en los términos previstos en esta Ley, el Sistema Estatal de Información Catastral, con el objeto de obtener la identificación plena y datos reales de los inmuebles inscritos, el cual se integrará con los siguientes registros:
+
+a).- Registros geográficos;
+
+b).- Registro alfanumérico o padrón catastral urbano;
+
+c).- Registro alfanumérico o padrón catastral rural; y
+
+d).- Archivo documental de la propiedad inmobiliaria.
+
+XIX.- Recibir para su inscripción y registro las declaraciones iniciales y finales de la situación patrimonial de los servidores públicos, así como sus respectivas actualizaciones, de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y por la Ley de Gobierno y Administración Municipal, que oportunamente remitan las Contralorías Municipales o sus órganos equivalentes y la Secretaría de la Contraloría General del Estado.
+
+XX.- Proporcionar a quien lo solicite la información registral y demás documentos inscritos en sus archivos relacionados con las declaraciones patrimoniales de los servidores públicos en general, pudiendo expedir certificaciones de las mismas a costa del solicitante. Para efectos de publicidad de la declaración patrimonial, el solicitante deberá acreditar el interés legítimo ante el vocal ejecutivo del Instituto; en términos de los Artículos 1, fracción V y 94, fracción IV de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+XXI.- Celebrar acuerdos de coordinación y convenios de concertación con las autoridades federales, estatales y municipales, así como con los particulares, respectivamente, para el eficaz cumplimiento de su objeto y funciones;
+
+XXII.- Las demás que le confieran las leyes y reglamentos correspondientes.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 41.
+
+El Instituto contará con un Consejo Técnico Catastral que se integrará por: el Secretario de Finanzas quien lo presidirá; los titulares de las Secretarías de Planeación del Desarrollo y Gasto Público y de Infraestructura Urbana y Ecología; el Subsecretario de Finanzas; y los Presidentes Municipales o el funcionario que el Ayuntamiento designe.
+
+El Presidente del Consejo podrá invitar a funcionarios de la Administración Pública Federal, Estatal y Municipal, ligados a la materia del Instituto, a formar parte del Consejo o bien para que asistan a las reuniones, pudiendo opinar en relación con lo que en ella se trate.
+
+El Consejo sesionará cuando menos dos veces al año ordinariamente y extraordinariamente, cuando fuese necesario, y los acuerdos se tomarán por mayoría.
+
+Habrá un suplente por cada miembro propietario.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 42.
 
-El Instituto expedirá copias certificadas de los planos y demás documentos que se le soliciten, relacionados con los predios, previo pago de las cuotas correspondientes.
+El Consejo Técnico Catastral tendrá las siguientes atribuciones:
+
+I.- Estudiar, analizar y formular propuestas en relación con la normatividad administrativa en materia catastral;
+
+II.- Opinar, cuando así lo soliciten los Ayuntamientos, en relación con la propuesta de planos y valores unitarios por zona, región o subregión catastral de terrenos, y tablas de construcción en zonas urbanas y por hectáreas en zonas rurales, que éstos formulen para su aprobación por el Congreso del Estado;
+
+III.- Proponer adecuaciones a los montos de los derechos o de cualesquiera otros ingresos que deba percibir el propio Instituto por las demás actividades que realice y, asimismo, a los mecanismos o procedimientos necesarios para su cobro y percepción;
+
+IV.- Las demás que esta Ley, el reglamento y otras disposiciones aplicables le confieran.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 43.
 
-El Código Fiscal del Estado es supletorio de la presente Ley, en cuanto a (sic) sus disposiciones no se opongan a la misma y permita resolver lo no previsto en ella en materia catastral.
+Los Ayuntamientos en el ámbito de su competencia crearán los Consejos Catastrales Municipales, como órganos de consulta y apoyo, mismos que estarán integrados por el Presidente Municipal, quien fungirá como presidente del consejo; el titular de la unidad administrativa que ejerza las funciones catastrales, como secretario técnico; el Tesorero Municipal, Síndico Municipal, el titular encargado de las funciones en materia de desarrollo urbano; él o los regidores que presidan las comisiones incidentes en esta materia; un representante del Instituto, un representante de cada uno de los siguientes sectores: Notarios Públicos, promotores inmobiliarios, peritos valuadores y organismos profesionales vinculados a la comercialización de inmuebles, en los municipios donde éstos existan y regirán su funcionamiento conforme a las disposiciones previstas en el acuerdo respectivo o en los reglamentos que expidan los Ayuntamientos, teniendo las siguientes funciones:
+
+I.- Opinar sobre los trabajos de fotogrametría, de medición directa y todos aquellos que son necesarios para las funciones catastrales;
+
+II.- Opinar en relación con la propuesta de planos y tablas de valores unitarios de terrenos y construcción que formule el Ayuntamiento; y
+
+III.- Las demás que esta Ley y el reglamento respectivo le confieran.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 44.
 
-Los Ayuntamientos de los Municipios del Estado de Sonora, por sí, o a través de sus representantes en el Consejo Técnico Catastral del Instituto, podrán formular y proponer verbalmente o por escrito al Instituto, las reformas y adecuaciones que crean convenientes para ampliar la esfera de acción del propio Instituto en materia de Catastro, para que en su caso, y llenados que sean los requisitos jurídicos formales, se proceda en consecuencia.
+Corresponde a los Ayuntamientos:
+
+I.- Ejercer la función catastral en el ámbito municipal;
+
+II.- Formar y actualizar el catastro municipal y prestar los servicios correspondientes, en los términos de esta Ley;
+
+III.- Formular las políticas y lineamientos a que se sujetará la función catastral en el Municipio y proponer ante el Consejo Técnico Catastral el establecimiento de las políticas, lineamientos y normas técnicas generales a que se sujetará la función catastral en la Entidad, para uniformar la normatividad en la materia, así como el registro de los datos catastrales;
+
+IV.- Participar, por conducto del Presidente Municipal o el funcionario que el Cabildo designe, en el Consejo Técnico Catastral.
+
+V.- Determinar en forma precisa la localización de cada predio ubicado dentro del territorio del municipio;
+
+VI.- Deslindar, describir, clasificar, inscribir y controlar la propiedad raíz rústica y urbana del municipio;
+
+VII.- Formular y mantener al día los planos catastrales que sean necesarios de acuerdo con lo señalado en esta Ley, sus reglamentos y las demás disposiciones aplicables;
+
+VIII.- Practicar la valuación de los predios en particular, conforme a las disposiciones contenidas en esta Ley;
+
+IX.- Registrar oportunamente los cambios que se operen en los predios y que por cualquier concepto alteren los datos contenidos en los registros catastrales;
+
+X.- Establecer la forma, términos y procedimientos a que se sujetarán los trabajos catastrales;
+
+XI.- Verificar la información catastral de los predios y solicitar a las dependencias y entidades, así como a los propietarios o poseedores de predios, los datos, documentos o informes que sean necesarios para integrar o actualizar el catastro municipal;
+
+XII.- Ordenar y practicar visitas domiciliarias para verificar los datos proporcionados en sus manifestaciones o avisos así como para obtener la información de las características de los predios y proceder a su registro;
+
+XIII.- Informar mensualmente al Instituto sobre los cambios y modificaciones que sufran la propiedad inmobiliaria y los valores catastrales, así como proporcionar a dichos organismos la documentación y planos necesarios para poder ubicar los inmuebles e integrar y actualizar el Sistema Estatal de Información Catastral y Registral en los términos de los convenios respectivos;
+
+XIV.- Proponer anualmente al Congreso del Estado los planos y tablas de valores unitarios de suelo y construcción, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+XV.- Proporcionar al Instituto los planos y tablas de valores unitarios de suelo y construcción, aprobados por el Congreso del Estado, dentro de los cinco días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+XVI.- Auxiliar, conforme a su capacidad técnica, a las diversas dependencias y entidades en las tareas de planeación, desarrollo territorial y demás actividades que requieran de datos contenidos en el catastro;
+
+XVII.- Suscribir convenios de coordinación con el Ejecutivo del Estado, a efecto de que éste asuma alguna o algunas de las funciones del municipio en materia catastral;
+
+XVIII.- Cobrar los derechos que se deriven de la prestación de servicios catastrales a su cargo, conforme las disposiciones establecidas en la Ley de Hacienda Municipal;
+
+XIX.- Expedir, en ejercicio de la facultad reglamentaria y con base en las disposiciones de la presente Ley, los reglamentos y disposiciones de observancia general que regulen el ejercicio de la función catastral; y
+
+XX.- Las demás que le señale la presente Ley.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 45.
 
-Los Ayuntamientos del Estado, deberán proporcionar al Instituto, dentro de los plazos que en cada caso sean fijados, todos los datos, documentos o informes que sean necesarios para integrar y actualizar los registros catastrales, y la planeación y programación de políticas valuatorias.
+Las relaciones de trabajo entre el Instituto y sus funcionarios de Estado se regirán por la Ley de Servicio Civil para el Estado de Sonora.
 
-### CAPITULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS MUNICIPIOS
+> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO II. DE LA COORDINACION DE LOS MUNICIPIOS Y EL ESTADO
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 46.
 
-Los Ayuntamientos proveerán lo necesario, dentro de la esfera de su respectiva jurisdicción y competencia, en acciones requeridas para la consolidación y desarrollo del Catastro del Estado de Sonora.
+Los Ayuntamientos y el Ejecutivo del Estado, por conducto del Instituto, establecerán los mecanismos e instrumentos de coordinación necesarios para:
+
+I.- La formulación de instructivos de procedimientos valuatorios, con la finalidad de que esa actividad sea uniforme en todo el Estado;
+
+II.- El establecimiento del Sistema Estatal de Información Catastral en materia de:
+
+a).- Información geográfica.
+
+b).- Informática, equipo y programas de cómputo.
+
+c).- Comunicaciones, formato y transmisión de datos.
+
+d).- Normatividad técnica y administrativa.
+
+III.- El diseño y elaboración, en su caso, de formatos oficiales uniformes en todo el Estado, en los cuales los propietarios o poseedores de bienes inmuebles deban realizar las manifestaciones que en materia catastral señale esta Ley;
+
+IV.- La generación de información, la prestación de los servicios y la participación en la recaudación de los derechos que se causen por esos servicios; y
+
+V.- El establecimiento de todas las acciones que deban llevarse a cabo en forma coordinada para el mejor ejercicio de la función catastral en el Estado.
 
 ## TITULO CUARTO. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
@@ -907,19 +1139,19 @@ Tratándose de las declaraciones de situación patrimonial de los servidores pú
 
 ###### ARTICULO 110.
 
-El Instituto, independientemente de llevar a cabo las funciones catastral y registrar conforme lo establece esta Ley, establecerá las normas básicas y los lineamientos generales para la existencia de una coordinación entre los datos del área de Catastro y la del Registro, para obtener la certeza en la descripción y localización de los bienes inmuebles inscritos.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 111.
 
-Para el funcionamiento de la coordinación entre las funciones catastral y registral, el Instituto dispondrá lo necesario para que el área encargada del Catastro proporcione la realidad física que guarden los inmuebles, aportando a su vez el área del registro, el dato jurídico de propiedad e historia de dichos inmuebles. Igualmente, se deberá de contar con tecnología avanzada para la captura de información y estadística.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 112.
 
-Las áreas de Catastro y del Registro deberán estar coordinadas de tal manera que la primera deberá proporcionar a esta última los planos necesarios para poder ubicar los inmuebles. A todo acto inscribible en el Registro deberá de acompañarse un plano descriptivo y de ubicación del inmueble.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 113.
 
-Los Notarios, Jueces, Registradores, particulares y cualquier autoridad o funcionario ante quien se haya celebrado algún acto que se refiera a cualquier cambio de información captada por el Catastro e inscrita en el Registro, está obligada a informar de ello al Instituto para los efectos de la coordinación correspondiente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 ## TITULO SEXTO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -947,15 +1179,23 @@ IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 116.
 
-Las infracciones a la presente Ley serán sancionadas con multa, calculada con base en el salario mínimo general diario de la zona económica donde se ubique la capital del Estado, vigente al momento de cometerse la infracción, conforme a las disposiciones siguientes:
+Las infracciones a la presente Ley, en materia catastral serán sancionadas por la autoridad catastral correspondiente con multa, calculada con base en el salario mínimo vigente en la capital del Estado al momento de cometerse la infracción, conforme a las disposiciones siguientes:
 
-I.- Por infracciones a los artículos 30, 37, y 39 se impondrá una multa equivalente a una cantidad de una a diez veces el salario mínimo;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
-II.- Por infracciones a los artículos 33, 38, y 40, se impondrá una multa equivalente a una cantidad de diez a veinte veces el salario mínimo; y
+I.- Por infracciones a los artículos 24, 31, y 33 se impondrá una multa equivalente a una cantidad de una a diez veces el salario mínimo;
 
-III.- Por infracción a las disposiciones no previstas en las fracciones anteriores, y de acuerdo a la gravedad de la infracción, se impondrá una multa equivalente a una cantidad de veinte a cincuenta veces el salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+II.- Por infracciones a los artículos 27, 32 y 34, se impondrá una multa equivalente a una cantidad de diez a veinte veces el salario mínimo; y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+III.- Por infracción a las disposiciones no previstas en las fracciones anteriores, y de acuerdo a la gravedad de la infracción, se impondrá una multa equivalente a una cantidad de una a cinco veces el salario mínimo.
 
 Las multas a que este articulo se refiere se impondrán sin perjuicio de otras sanciones a que los infractores se hagan acreedores, en los términos de las leyes y reglamentos aplicables, para lo cual el Instituto girará comunicación a las autoridades competentes.
 
@@ -1042,3 +1282,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opongan a la presente Ley.
+
+B.O. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a los (sic) dispuesto en la presente Ley.
+
+TERCERO.- Los convenios celebrados en materia catastral entre el Estado y los Municipios con anterioridad al presente Decreto, se ajustarán a los (sic) establecido en la presente Ley.
+
+CUARTO.- El Ejecutivo del Estado, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, deberá proveer las adecuaciones correspondientes al Reglamento de la Ley Catastral y Registral para el Estado de Sonora.
