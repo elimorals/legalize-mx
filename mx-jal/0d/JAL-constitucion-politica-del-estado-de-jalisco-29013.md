@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29013"
 country: "mx"
 rank: "constitucion"
 publication_date: "1824-11-18"
-last_updated: "1830-05-18"
+last_updated: "1830-10-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1824)
 
-ULTIMA REFORMA PUBLICADA: 17 DE MAYO DE 1830
+ULTIMA REFORMA PUBLICADA: 30 DE SEPTIEMBRE DE 1830
 
 Constitución publicada el día 18 del mes de noviembre de 1824.
 
@@ -421,21 +421,21 @@ Octava. Indultar á los delincuentes con arreglo á las leyes.
 
 ### CAPITULO III. Del senado
 
-127. (DEROGADO, 17 DE MAYO DE 1830)
+127. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-128. (DEROGADO, 17 DE MAYO DE 1830)
+128. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-129. (DEROGADO, 17 DE MAYO DE 1830)
+129. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-130. (DEROGADO, 17 DE MAYO DE 1830)
+130. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-131. (DEROGADO, 17 DE MAYO DE 1830)
+131. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-132. (DEROGADO, 17 DE MAYO DE 1830)
+132. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-133. (DEROGADO, 17 DE MAYO DE 1830)
+133. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
-134. (DEROGADO, 17 DE MAYO DE 1830)
+134. (DEROGADO, 17 DE MAYO DE 1830) (REPUBLICADO, 30 DE SEPTIEMBRE DE 1830)
 
 ### CAPITULO IV
 
@@ -551,11 +551,13 @@ Sexta. Consultar al gefe de policía en los asuntos en que pida dictámen.
 
 178. Los alcaldes se mudarán todos los años; los regidores por mitad cada año, y lo mismo los síndicos si fueren dos. En el caso de ser uno solo, se mudará todos los años.
 
-179. La eleccion de los individuos del ayuntamiento, se hará por medio de juntas electorales municipales, que se celebrarán todos los años el domingo segundo del mes de Diciembre, y los dos dias siguientes, en la misma forma en que se hacen las juntas municipales, para el nombramiento de los diputados del Congreso.
+> <small>(REFORMADO, 30 DE SEPTIEMBRE DE 1830)</small>
 
-180. Quedarán nombrados para alcaldes, regidores y síndicos, los ciudadanos que hayan reunido mayor número de votos, en las respectivas listas de cada uno de estos encargos. En caso de empate entre dos ó mas individuos, lo decidirá por votos secretos el ayuntamiento que exista al tiempo de la eleccion.
+179. Las elecciones de ayuntamientos, se harán de un modo indirecto por medio de juntas primarias y secundarias, que se celebrarán en el tiempo, modo y forma que lo disponga una ley secundaria. Esta disposición comenzará à tener cumplimkiento hasta el año de 1831.
 
-181. Si falleciere alguno de los individuos del ayuntamiento, ó por cualquiera otro motivo vacare su encargo, lo seguirá desempeñando el ciudadano que en el órden de la lista respectiva tenga mayor número de votos.
+180. (DEROGADO, 30 DE SEPTIEMBRE DE 1830)
+
+181. (DEROGADO, 30 DE SEPTIEMBRE DE 1830)
 
 182. El que hubiere servido alguno de los cargos del ayuntamiento, no podrá obtener en él ningun otro, ni ser reelegido para el que sirva, hasta despues de dos años.
 
@@ -643,9 +645,9 @@ Sexta. Consultar al gefe de policía en los asuntos en que pida dictámen.
 
 219. Habrá tribunales de primera instancia en todos los lugares del Estado, en que haya ayuntamiento.
 
-> <small>(REFORMADO, 17 DE MAYO DE 1830)</small>
+> <small>(REFORMADO, 30 DE SEPTIEMBRE DE 1830)</small>
 
-220. Los tribunales de 1ª instancia se compondrán de un alcalde.
+220. Los tribunales de primera instancia, se compondrán de un alcalde.
 
 221. En los lugares donde haya dos ó mas alcaldes, habrá otros tantos tribunales de primera instancia, formados de un mismo modo, y con iguales facultades en todo el distrito de su respectivo ayuntamiento.
 
@@ -783,6 +785,10 @@ Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legis
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
-PUBLICADO, 17 DE MAYO DE 1830
+PUBLICADO 17 DE MAYO DE 1830
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
+
+PUBLICADO 30 DE SEPTIEMBRE DE 1830
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
