@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1980-04-16"
+last_updated: "1980-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1049,7 +1049,9 @@ La exención hasta de $14,500.00 que contiene la tarifa, sólo operará cuando e
 
 II.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral.
 
-III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la base del impuesto será el valor catastral, incluyendo instalaciones y maquinaria, conforme al avalúo que practique la Tesorería General del Estado, aplicándose una cuota de 7.5 al millar anual sobre el valor catastral.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la base del impuesto será el valor catastral, conforme al avalúo que practique la Tesorería General del Estado, aplicándose una cuota de 7.5 al millar anual sobre el valor catastral.
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
@@ -1325,11 +1327,15 @@ DE LA TASA
 
 169.- El impuesto se causará conforme a la tasa del 1% sobre la base a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1o. al 20 del mes siguiente a aquél en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas por la Tesorería General del Estado. Si un contribuyente tuviera varias sucursales, presentará por todas ellas una sola declaración en la oficina autorizada, correspondiente a su domicilio fiscal.
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
-170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1o. al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas por la Tesorería General del Estado.
-
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
 Las personas físicas causantes del impuesto al Ingreso Global de las Empresas sujetos a las bases especiales de tributación, en actividades agrícolas, ganaderas, de pesca y conexas, podrán portar ante la Tesorería General del Estado, para que se les fije cuota, época y forma de pago por las erogaciones gravadas por este impuesto.
 
@@ -1609,17 +1615,21 @@ VII.- TERRENOS NO ESPECIFICADOS.- Los dedicados a parques de recreo, cotos de ca
 
 123.- Para los efectos de este capítulo y del pago del Impuesto Predial, por plantas de beneficio se entenderán los establecimientos en que se lleven a cabo procedimientos metalúrgicos, o sea la serie de operaciones tendientes a extraer en escala industrial los metales de los minerales que los contienen, quedando comprendidas las plantas de concentración, de lixiviación, de amalgamación, de flotación, de cianuración, molinos, fundiciones y plantas de afinación.
 
-Estos causantes cada año, dentro de la primera quincena del mes de noviembre, presentarán ante la Recaudación de Rentas respectiva declaraciones por triplicado que contendrán los datos que en seguida (sic) se expresan:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+Estos causantes cada año, dentro de la primera quincena del mes de noviembre, presentarán ante la Recaudación de Rentas respectiva declaraciones por triplicado que contendrán los datos que enseguida se expresan:
 
 I.- Nombre del propietario, razón o denominación social o denominación particular de la empresa;
 
 II.- Lugar de ubicación de la planta o establecimiento y Municipio a que corresponda;
 
-III.- Detalle general de la maquinaria, su valor, capacidad y sistema de beneficio;
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1980)
 
 IV.- Detalle general de las construcciones dedicadas a los fines de la empresa;
 
-V.- Valor que atribuyan al terreno, construcciones y maquinaria.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+V.- Valor que atribuyan al terreno y construcciones.
 
 Siempre estarán obligados a mostrar a las autoridades fiscales los datos, libros y documentos que permitan determinar el valor de los bienes objeto del impuesto.
 
@@ -1769,7 +1779,9 @@ III.- Cuando se transmita la nuda propiedad de un inmueble, la base del impuesto
 
 #### SECCION SEGUNDA. DECLARACIONES, PAGO DEL IMPUESTO Y EXENCIONES
 
-140.- El Notario ante quien se otorgue escritura que contenga actos, contratos o convenios traslativos de dominio relativo a bienes inmuebles ubicados en el Estado, deberá presentar la nota a que se refiere el artículo 82 con los datos que el mismo precepto establece adicionados con los siguientes: plano de los inmuebles, datos de inscripción en el Registro Público de la Propiedad, Número de cuenta y valor catastral.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+140.- El Notario ante quien se otorgue escritura que contenga actos, contratos o convenios traslativos de dominio relativos a bienes inmuebles ubicados en el Estado, deberá presentar la nota a que se refiere el artículo 82 con los datos que el mismo precepto establece adicionados con los siguientes: Plano de los inmuebles, datos de inscripción en el Registro Público de la Propiedad, número de cuenta y valor catastral. En el caso de escrituras privadas el requisito anterior deberá ser cumplido por cualquiera de las partes contratantes.
 
 Tratándose de ratificaciones de contratos privados en que se hagan constar actos traslativos de dominio de bienes inmuebles, el Notario o funcionario encargado de llevar la fé pública no hará la ratificación mientras no se le exhiba el comprobante del pago del Impuesto o la certificación oficial de exención, expresando en la constancia de ratificación el número y fecha del recibo oficial del pago del Impuesto o del oficio de exención.
 
@@ -2337,9 +2349,9 @@ Si a través de las rectificaciones se comprueba que los contribuyentes pagaron 
 
 Los causantes no empadronados que obtengan ingresos provenientes de operaciones comerciales accidentales, deberán pagar el impuesto dentro de las cuarenta y ocho horas siguientes a la operación. Cuando la autoridad fiscal lo considere conveniente podrá exigir, de inmediato, se garantice el interés fiscal.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
-Los causantes que tengan celebrados convenios en los términos del artículo 240 deberán pagar el impuesto bimestralmente, dentro de la última quincena del bimestre correspondiente.
+Los causantes que tengan establecida liquidación a cuota fija en los términos del artículo 240, deberán pagar el impuesto bimestralmente, dentro de la última quincena del bimestre correspondiente.
 
 Para efectuar el pago se presentará la declaración a que se refiere este artículo, manifestando separadamente los ingresos que correspondan a cada una de las tasas comprendidas en los grupos a que se refiere el Artículo 212. Las declaraciones deberán ser firmadas:
 
@@ -3201,25 +3213,27 @@ Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y 
 
 I.- 20% sobre la participación federal al Estado por concepto del fondo general y financiero complementario de participaciones.
 
-II.- 20% sobre el ingreso por concepto de Impuesto Predial.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
-III.- 20% sobre los ingresos de los restantes impuestos estatales.
+II.- 20% sobre el ingreso del Estado, por concepto de Impuestos Estatales.
+
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1980)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
 La participación total a que se refieren las fracciones anteriores, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados, atendiendo a los siguientes elementos:
 
-Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación total serán:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 1980)</small>
+Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación del producto total serán:
 
-Municipio Porcentaje de Porcentaje de
+Municipio: Porcentaje de Porcentaje de
 
 Participación Participación
 
-según fracciones según fracción
+según Fracción I. según fracción II.
 
-I y II. III.
-
-Ahumada Villa 0.51 0.8
+Ahumada 0.51 0.8
 
 Aldama 0.42 1.0
 
@@ -3235,7 +3249,7 @@ Balleza 0.47 1.4
 
 Batopilas 0.31 1.4
 
-Belizario Domínguez 0.24 1.4
+Dr. Belisario Domínguez 0.24 1.4
 
 Bocoyna 0.58 1.5
 
@@ -3245,9 +3259,9 @@ Camargo 2.11 1.5
 
 Carichic 0.30 1.4
 
-Casa Grandes 0.34 1.0
+Casas Grandes 0.34 1.0
 
-Coronado Villa 0.18 1.5
+Coronado 0.18 1.5
 
 Coyame 0.19 1.4
 
@@ -3273,7 +3287,7 @@ Gómez Farías 0.35 1.3
 
 Gran Morelos 0.23 1.4
 
-Guachóchic 0.59 1.5
+Guachochi 0.59 1.5
 
 Guadalupe, D. B. 0.39 1.2
 
@@ -3299,7 +3313,7 @@ Julimes 0.24 1.2
 
 La Cruz 0.17 1.6
 
-López Villa 0.28 1.2
+López 0.28 1.2
 
 Madera 1.48 2.4
 
@@ -3309,7 +3323,7 @@ Manuel Benavides 0.23 1.4
 
 Matachic 0.24 1.3
 
-Matamoros Villa 0.25 1.3
+Matamoros 0.25 1.3
 
 Meoqui 0.73 1.3
 
@@ -3353,7 +3367,9 @@ Uruachi 0.26 1.4
 
 Zaragoza Valle de 0.24 1.4
 
-El importe de la participación a que se contrae la fracción III, se destinará en un 100% a obras públicas. El Municipio que no lo hiciere, perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el cumplimiento de esta disposición.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+El importe de la participación a que se contrae la fracción II, se destinará en un 100% a obras públicas. El Municipio que no lo hiciere, perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el cumplimiento de esta disposición.
 
 317.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1979)
 
@@ -3479,7 +3495,9 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 334.- Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de emplazamiento ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
-Por las diligencias de requerimiento y de embargo se causará, por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal, por cada una de dichas diligencias, pero en ningún caso podrán ser, en total, ni menores de cinco pesos ni mayores de cuatro mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos gastos se causen, resulte una cantidad mayor o menor que las indicadas; por la notificación de un crédito fiscal se causarán cinco pesos por concepto de gastos de ejecución.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
+Por la diligencia de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal, por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor de veinte pesos, ni mayor de diez mil pesos, aún cuando por la aplicación de dicha tasa sobre el monto del crédito para cuyo cobro se siga el procedimiento económico coactivo en el que dichos gastos se causen, resulte una cantidad mayor o menor que las indicadas; por la notificación de un crédito fiscal se causarán veinte pesos por concepto de gastos de ejecución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -4397,7 +4415,7 @@ Salvo el caso de que el beneficiario sea persona física no empresario, los acue
 
 496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
 
-497.- Se prohibe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
+497.- Se prohíbe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
 
 ## TRANSITORIOS.
 
@@ -4542,3 +4560,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día p
 P.O. 16 DE ABRIL DE 1980.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1980.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de enero de mil novecientos ochenta y uno.
