@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-comision-de-derechos-humanos-del-estado-5434
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-20"
-last_updated: "1992-07-20"
+last_updated: "2004-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 20 de julio de 1992.
 
@@ -207,11 +207,15 @@ VIII.- Las demás que le sean conferidas por los ordenamientos legales correspon
 
 ### CAPITULO IV. DEL PRESIDENTE DE LA COMISION
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 17.
 
-El Presidente de la Comisión será designado por el Gobernador del Estado, con la aprobación del Congreso o de la Comisión Permanente en su caso, una vez que éste verifique que ha cubierto los requisitos señalados en la Ley, ante quien rendirá la protesta.
+El Presidente de la Comisión de Derechos Humanos del Estado de Hidalgo, será nombrado por el Congreso del Estado, de entre una terna propuestas por el Titular del Poder Ejecutivo del Estado, que resulte de la consulta que se realice con las Instituciones de Educación Superior y agrupaciones de Abogados en la Entidad.
 
-El cargo de Presidente de la Comisión durará cuatro años, pudiendo ser ratificado una sola vez, por un nuevo periodo.
+El Titular del Poder Ejecutivo, emitirá a más tardar, noventa días antes de la conclusión del encargo del Presidente de la Comisión de Derechos Humanos del Estado de Hidalgo, la convocatoria para la consulta a que se refiere el Párrafo anterior, debiendo enviar al Congreso del Estado, la terna de candidatos, treinta días antes de la conclusión del encargo referido.
+
+El cargo de Presidente de la Comisión durará cuatro años, pudiendo ser ratificado una sola vez, por un nuevo periodo. En esta circunstancia sólo será necesaria la solicitud que envíe el Titular del Poder Ejecutivo del Estado al Congreso para su ratificación, en su caso.
 
 ###### Artículo 18.
 
@@ -235,9 +239,13 @@ No podrán ser Presidente de la Comisión:
 
 I.- Los representantes o candidatos a un cargo de elección popular;
 
-II.- Los miembros del Poder Judicial Federal y Estatal, que no cuenten con la licencia correspondiente en los términos de Ley; y
+II.- Los miembros del Poder Judicial Federal y Estatal, que no cuenten con la licencia correspondiente en los términos de Ley; y (sic)
 
-III.- Los dirigentes en activo de cualquier organización política o sindical; excepto los dirigentes de las organizaciones sociales o de profesionales.
+III.- Los dirigentes en activo de cualquier organización política o sindical; excepto los dirigentes de las organizaciones sociales o de profesionales;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2004)</small>
+
+IV.- Quienes desempeñen o hayan desempeñado un puesto de elección popular o cargo de dirección en algún Partido Político, en los últimos seis años.
 
 ###### Artículo 20.
 
@@ -494,3 +502,9 @@ LIC. ADOLFO LUGO VERDUZCO.
 EL SECRETARIO DE GOBERNACION
 
 PROFR. HERNAN MERCADO PEREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE DICIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. Y 4o.DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
