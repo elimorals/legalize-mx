@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-13577"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-03"
-last_updated: "2001-12-25"
+last_updated: "2002-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial, el 3 de febrero de 1999.
 
@@ -45,9 +45,13 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
 Las disposiciones de esta Ley son de orden público y tienen por objeto regular la organización y funcionamiento de la Administración Pública del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 2o.
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones que le señalan la Constitución Política del Estado, la presente Ley y las demás disposiciones jurídicas relativas.
+El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado quien representa al Gobierno de Tamaulipas en el ejercicio de las atribuciones que le señalan la Constitución Política del Estado, la presente Ley y las demás disposiciones jurídicas relativas.
+
+El Ejecutivo podrá delegar la representación, mediante Acuerdo Gubernamental, a favor de los servidores públicos del Estado que estime conveniente. Así mismo, para casos que así lo requieran, asuntos fuera del Estado o para conferir la representación a personas que no tengan el carácter de servidores públicos estatales, podrá otorgárseles ésta en la forma más amplia que estime el Ejecutivo, mediante el poder correspondiente.
 
 ###### ARTICULO 3o.
 
@@ -167,9 +171,11 @@ VII.- CONTRALORIA GUBERNAMENTAL y,
 
 Los demás organismos de coordinación y asesoría que disponga el Ejecutivo u otras Leyes.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 22.
 
-Los Titulares de las Dependencias enunciadas en el artículo precedente, estarán plenamente facultados para representar al Titular del Ejecutivo, en los juicios de amparo de sus respectivas áreas; contestar en su nombre las demandas en los juicios administrativos; formular anteproyectos de ley, reglamentos, decretos y acuerdos, así como para celebrar contratos y suscribir convenios en las materias de su competencia, previo acuerdo del Ejecutivo.
+Los Titulares de las Dependencias enunciadas en el artículo precedente, estarán plenamente facultados para representar al Ejecutivo local en el despacho del los asuntos que conforme a esta Ley les correspondan. Para el ejercicio de la misma, el la suscripción de convenios representando al Estado, deberán contar con la autorización expresa del Gobernador. También podrán certificar copias de documentos en que intervengan o los que se encuentren en sus archivos, relacionados con el ejercicio de sus atribuciones.
 
 #### Sección I. De la Secretaría General de Gobierno
 
@@ -1110,3 +1116,7 @@ Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2002
+
+Artículo Unico.- El presente Decreto entrará en vigor el dia siguiente al de su publicación en el Periódico Oficial del Estado.
