@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1997-04-30"
+last_updated: "2001-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2001.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -6103,9 +6103,11 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 ## TITULO SEXTO. Del patrimonio de familia
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 1188.
 
-Son objeto del patrimonio de la familia, la casa habitación de ésta y en algunos casos una parcela cultivable.
+Son objeto del patrimonio de la familia, la casa habitación de ésta y en algunos casos, una parcela cultivable cuando se trate de familia campesina.
 
 ###### Artículo 1189.
 
@@ -6159,9 +6161,11 @@ Sólo puede constituirse un patrimonio familiar por familia.
 
 Los miembros de una familia para la cual se estableció un patrimonio familiar, dejarán de tener los derechos establecidos en el artículo 1192, cuando a su vez formen otra familia.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 1202.
 
-El valor máximo de los bienes afectados al patrimonio de la familia será el equivalente a siete mil días del salario mínimo general, fijado para la zona económica donde estén ubicados.
+El valor máximo de los bienes afectos al patrimonio de familia será el equivalente a quince mil días del salario mínimo general, fijado para la zona económica donde estén ubicados.
 
 ###### Artículo 1203.
 
@@ -16758,3 +16762,7 @@ El presente decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 Se abrogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
