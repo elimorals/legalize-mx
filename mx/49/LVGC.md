@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1986-05-23"
+last_updated: "1986-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1986.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -630,7 +630,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -4790,7 +4790,9 @@ El empleado que sin autorización de la empresa expidiere algún pase, será cas
 
 Los que dañen, perjudiquen o destruyan las vías generales de comunicación o los medios de transporte o interrumpan total o parcialmente o deterioren los servicios que operan en las vías generales de comunicación o los medios de transporte serán castigados con tres meses a siete años de prisión y multa de cincuenta a cinco mil pesos.
 
-Si el delito fuere cometido por imprudencia y con motivo del tránsito de vehículos por carretera, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+
+Si el delito fuere cometido por imprudencia con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
 ###### ARTICULO 534.
 
@@ -4808,29 +4810,49 @@ En las mismas penas incurrirá el empresario o dueño del vehículo que autorice
 
 Se impondrán de quince días a seis años de prisión, y multa de diez a cinco mil pesos, al que de cualquier modo destruya, inutilice, apague, quite o cambie una señal establecida para la seguridad de las vías generales de comunicación o medios de transporte.
 
-Si el delito fuere cometido por imprudencia y con motivo del tránsito de vehículos por carretera, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado, más la reparación de éste.
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+
+Si el delito fuere cometido por imprudencia y con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
+
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 Al que coloque intencionalmente señales que puedan ocasionar la pérdida o grave deterioro de vehículos en circulación, será castigado con prisión de uno a cinco años.
 
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+
 Si se ocasionaren los accidentes mencionados, se aplicarán las reglas de acumulación con el delito o delitos que resulten consumados.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 537.
 
-Los conductores y demás tripulantes que intervengan en el manejo de vehículos, si conducen éstos en estado de ebriedad o bajo la acción de cualquier enervante, serán sancionados, por la primera infracción, con multa de cinco mil peso (sic), por la segunda infracción, con multa de diez mil pesos, y por la tercera infracción, se les impondrá la pena de treinta días a dos años de prisión y se les cancelará la licencia respectiva.
+Los conductores y demás tripulantes que intervengan en el manejo de vehículos, si realizan sus actividades en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, serán sancionados con treinta a noventa días de trabajo en favor de la comunidad o multa de treinta a noventa días de salario mínimo vigente en el Distrito Federal, área metropolitana. La sanción se duplicará cuando se transporten personas en un vehículo que dé servicio colectivo, aun cuando no se hubiesen cubierto los requisitos que para la prestación del mismo se exigen.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
 
 Los operadores de autobuses cuando transporten pasajeros en carreteras federales, que rebase la velocidad de 95 kilómetros por hora, serán sancionados en los siguientes términos:
 
-I.- Por la primera infracción con multa de cinco mil pesos; y
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
-II.- Por la segunda infracción con multa de diez mil pesos;
+I.- Por la primera infracción se aplicará multa por veinte días de salario mínimo vigente en el Distrito Federal, área metropolitana.
+
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+
+II.- Por la segunda infracción se aplicará multa por cuarenta días de salario mínimo vigente en el Distrito Federal, área metropolitana.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
 
 III.- Por la tercera infracción, se cancelará la licencia para conducir autobuses de autotransporte de pasajeros de servicio público federal.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
+
 Los operadores de autobuses que cometan las infracciones señaladas en las fracciones I y II de este artículo, no podrán volver a conducir hasta en tanto cubran el importe de la multa impuesta.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
+
 La Secretaría de Comunicaciones y Transportes, en forma inmediata deberá poner en conocimiento del concesionario o permisionario la infracción impuesta al operador, y en su caso, el pago de la multa.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
 
 El concesionario o permisionario estará obligado a pagar un tanto igual a la multa impuesta al infractor, en el caso de que permita que dicho operador conduzca sin haber hecho el pago de la infracción correspondiente.
 
@@ -5503,3 +5525,9 @@ En todo caso, la sanción se aplicará tomando en consideración la gravedad de 
 D.O.F. 23 DE MAYO DE 1986.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE NOVIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
