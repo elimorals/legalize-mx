@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2004-03-05"
+last_updated: "2004-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 2004.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -1499,9 +1499,13 @@ XIII. Las demás que le confiera el presidente de la Comisión, la propia Comisi
 
 La Comisión de Carrera Judicial promoverá dicha carrera mediante la celebración de convenios con instituciones académicas, difusión de la naturaleza de la función judicial, congresos y seminarios, creación de centros de práctica judicial, establecimiento de visitas a los órganos jurisdiccionales y todas aquellas medidas que puedan contribuir a la existencia de servidores públicos honestos y capaces. El Instituto de la Judicatura Federal auxiliará para ese efecto.
 
+> <small>(REFORMADO POR ACUERDO GENERAL 28/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
 ###### Artículo 127.
 
 Para efectos de la carrera judicial, la antigüedad a que se refiere el artículo 105 de la Ley se computará a partir de la fecha de ingreso a cualquiera de los cargos que integran la misma.
+
+El tiempo durante el cual una persona se haya desempeñado en el cargo de Secretario Técnico con título de licenciado en derecho, en el Consejo de la Judicatura Federal o en el Instituto de la Judicatura Federal, se computará como antigüedad para efectos de la carrera judicial, equiparándose a la de un Secretario de Tribunal de Circuito.
 
 ###### Artículo 128.
 
@@ -2468,3 +2472,11 @@ D.O.F. 5 DE MARZO DE 2004.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga a este Acuerdo.
