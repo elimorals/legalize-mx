@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1982-09-30"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -44,23 +44,33 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 Están obligadas al pago del impuesto especial sobre producción y servicios, las personas físicas y las morales que realicen los actos o actividades siguientes:
 
-I.- La primera enajenación en territorio nacional o, en su caso, la importación de los bienes señalados en esta Ley
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+I.- La enajenación en territorio nacional o, en su caso, la importación de los bienes señalados en esta Ley.
 
 II.- La prestación de los servicios señalados en esta Ley.
 
 El impuesto se calculará aplicando a los valores a que se refiere este ordenamiento, la tasa que para cada bien o servicio establece el artículo 2o. del mismo.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlos, de acuerdo con los preceptos de esta Ley.
+
 ###### ARTICULO 2o.
 
 Al valor de los actos o actividades que a continuación se señalan, se aplicarán las tasas siguientes:
 
-I.- En la primera enajenación o en su caso, en la importación de los siguientes bienes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+I.- En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
 A).- Aguas envasadas y refrescos, en envases cerrados .......... 15.7%
 
 B).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos .......... 40%
 
-C).- Concentrados, polvos, jarabes, esencias o extractos de sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos .......... 20%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+C).- Concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos .......... 20%
 
 D).- Cerveza .......... 21.5%
 
@@ -84,13 +94,9 @@ H).- Tabacos labrados:
 
 2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
 
-I (sic).- Gasolina:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-1.- La que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos .......... 50%
-
-2.- La que no contenga tetraetilo de plomo o su octanaje exceda de 82 octanos .......... 138.34%
-
-La tasa aplicable se incrementará cuando la gasolina aumente su precio a los consumidores, con los puntos porcentuales que resulten de multiplicar el incremento porcentual en el precio al consumidor por la tasa vigente expresada en factor y de sumar al resultado dicho incremento porcentual. Para los efectos de este inciso no se considerará que forma parte del precio al consumidor el impuesto al valor agregado, ni los sobre precios autorizados.
+I).- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel .......... 110%
 
 II.- En la prestación de los siguientes servicios:
 
@@ -108,7 +114,15 @@ b).- Servicios de larga distancia:
 
 1.- Abonados residenciales y de telefonía rural .......... 26.4%
 
-2.- En casos distintos a los residenciales y de telefonía rurala .......... 35%
+2.- En casos distintos a los residenciales y de telefonía rural .......... 35%
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+C).- Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenaión (sic) de los bienes señalados en la fracción I de este artículo; en estos casos la tasa aplicable será la que corresponda al bien de que se trate. No se pagará el impuesto cuando se trate de las enajenaciones a que se refiere el artículo 8o. de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, incluso cuando se exporten para enajenarlos en el extranjero .......... 0%.
 
 ###### ARTICULO 3o.
 
@@ -124,13 +138,15 @@ III.- Jugo de frutas, las bebidas elaboradas con jugo o pulpa de fruta, no ferme
 
 IV.- Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquiera semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3° G. L., hasta 56° G. L., incluyendo al aguardiente y a los concentrados de bebidas alcohólicas, aun cuando tengan una graduación alcohólica mayor.
+V.- Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3° G. L., hasta 55° G. L., incluyendo al aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-VI.- Aguardiente regional, la bebida alcohólica cuya producción, enajenación y consumo se realiza en la misma región.
+VI.- Aguardiente regional, la bebida alcohólica a cuya producción, enajenación y consumo se realice en la misma región y sea elaborado por personas físicas cuya capacidad de producción anual no exceda de 25,000 litros, que den aviso de esta situación al inicio de cada ejercicio fiscal y cumplan con los requisitos que mediante disposiciones de carácter general establezca la Secretaría de Hacienda y Crédito Público.
+
+Para los efectos de esta fracción, la capacidad de producción se entenderá referida a los aparatos de destilación ya sea que se obtenga explotando conjuntamente un solo equipo o la que un solo productor alcance con varios equipos.
 
 VII.- Vino de uva, el resultante de la fermentación alcohólica, total o parcial, del jugo de las uvas frescas. Se lo equiparán los productos obtenidos por fermentación de los líquidos derivados de la maceración de uvas pasas. En la definición anterior quedan comprendidos los siguientes tipos:
 
@@ -146,7 +162,9 @@ VIII.- Sidra, la bebida resultante de la fermentación principalmente alcohólic
 
 IX.- Rompope, la bebida obtenida por cocción de mezclas de leche y huevos, y alcoholización posterior con espíritu neutro u otro destilado alcohólico, aromatizados optativamente, con productos vegetales inocuos.
 
-X.- Envases menores, los de capacidades hasta de 5,000 mililitros y tratándose de vinos de mesa hasta 18,000 mililitros.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+X.- Bebidas alcohólicas a granel las que se encuentren envasadas en recipientes cuya capacidad sea de más de 5,000 mililitros y tratándose de vinos de mesa cuando excedan de 18,000 mililitros.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -162,39 +180,43 @@ XIII.- Gas avión, el combustible para avión que no contenga dicloruro de etile
 
 XIV.- Seguros individuales en operaciones de vida, los que así defina la Ley General de Instituciones de Seguros.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 4o.
 
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto de acuerdo con los preceptos de esta Ley, aun cuando conforme a otras leyes y decretos no causen impuestos federales o estén exentos de ellos.
+El contribuyente pagará en las oficinas autorizadas la diferencia entre el impuesto a su cargo el que le hubieran trasladado o el que él hubiese pagado en la importación, siempre que sea acreditable en los términos de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+El acreditamiento consiste en restar el impuesto acreditable de la cantidad que resulte de aplicar a los valores señalados en esta Ley las tasas a que se refieren las fracciones I y III del artículo 2o., según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto especial sobre producción y servicios que hubiera sido trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, en el mes o en el ejercicio al que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Para que sea acreditable el impuesto especial sobre producción y servicios deberán reunirse los siguientes requisitos:
+
+I.- Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, con motivo de la enajenación o exportación de bienes.
+
+II.- Que los bienes se enajenen o exporten sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados, así como de envasadores en el caso de los bienes a que se refieren los incisos B ) y C) de la fracción I del artículo 2o.
+
+III.- Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en documentación que satisfaga los requisitos que establece el Código Fiscal de la Federación.
+
+Se entenderá por traslado del impuesto al cobro o cargo que el contribuyente deba efectuar de un monto equivalente al impuesto establecido en esta Ley. El traslado del impuesto no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
+
+El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 5o.
 
-El impuesto se calculará por ejercicios fiscales, aplicando a los valores de los actos o actividades realizados en el ejercicio de las tasas del impuesto, excepto en el caso de importaciones ocasionales de bienes en el que se estará a los dispuesto en el artículo 16 de esta Ley.
+El impuesto se calculará por ejercicios fiscales, excepto en el caso de importaciones ocasionales de bienes en el que se estará a lo dispuesto en el artículo 16 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+Los contribuyentes efectuarán pagos provisionales a más tardar el día 20 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlos contra el impuesto a su cargo que le corresponda en los pagos provisionales siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración de pago provisional de su ejercicio no se podrán acreditar en declaraciones posteriores.
 
-Los contribuyentes efectuarán pagos provisionales a más tardar el día 20 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional se calculará aplicando las tasas del impuesto a los valores de los actos o actividades realizados en el mes de calendario anterior, a excepción de las importaciones.
+El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes del impuesto sobre la renta presentarán con la declaración definitiva de ese gravámen, un ejemplar de la declaración anual del impuesto establecido en esta Ley.
 
-Los contribuyentes que enajenen gasolina efectuarán pagos provisionales semanales, a cuenta del impuesto anual, a más tardar los días martes o al siguiente día hábil si aquél no lo fuera de cada una de las semanas de calendario de su ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago semanal se calculará aplicando al valor de las enajenaciones realizadas en la semana de calendario anterior la tasa del impuesto.
+Tratándose de importación de bienes el pago se hará conforme lo establece el artículo 15.
 
-El impuesto del ejercicio, deducidos los pagos provisionales y los efectuados con motivo de la importación, se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los 3 meses siguientes al cierre del mismo ejercicio. Los contribuyentes del impuesto sobre la renta presentarán con la declaración definitiva de ese gravamen, un ejemplar de la declaración anual del impuesto establecido en esta Ley.
+Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá acreditarlas en las declaraciones de pagos provisionales posteriores o solicitar su devolución total.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Tratándose de importación de bienes, el pago se hará conforme lo establece el artículo 15 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Tratándose de enajenación de aguas envasadas y refrescos, en envases cerrados, cuando ésta se realiza por medio de terceros fuera de una faja de 20 kilómetros que circunde a la localidad en que esté ubicada la fábrica, del monto del impuesto que resulte de aplicar la tasa a que se refiere el artículo 2o. de la presente Ley, podrá acreditarse el 25% cuando se cumplan con los requisitos que al efecto establezca el Reglamento de esta Ley. En ningún caso la reducción dará lugar a un impuesto inferior al 75% del impuesto que resultaría de conformidad con la fracción IV del artículo 24 de este ordenamiento.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las cantidades que resulten de la aplicación de los dispuesto en el párrafo anterior, se acreditarán en las declaraciones mensuales y del ejercicio.
+Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
 ###### ARTICULO 6o.
 
@@ -202,15 +224,19 @@ El contribuyente que reciba la devolución de bienes enajenados u otorgue descue
 
 ### CAPITULO II. De la Enajenación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 7o.
 
-Para los efectos de esta Ley, se entiende por primera enajenación la que realice el fabricante o envasador, en los términos del Código Fiscal de la Federación, así como el faltante de materias primas o de bienes en los inventarios de los contribuyentes, con excepción de los que sean deducibles para efectos de la Ley del Impuesto sobre la Renta.
+Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de materias primas o de bienes en los inventarios de los contribuyentes, con excepción de los que sean deducibles para efectos de la Ley del Impuesto sobre la Renta.
 
-Tratándose de gasolina, se entiende por primera enajenación la que se efectúe en los expendios autorizados y la que Petróleos Mexicanos enajene directamente al consumidor final. Se equipara a la primera enajenación el consumo que realice Petróleos Mexicanos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Se equipara a la enajenación el consumo que efectúe Petróleos Mexicanos de los productos gravados por esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LAS MODIFICACIONES PUBLICADAS A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982, Y EN EL ARTICULO TRIGESIMO PRIMERO TRANSITORIO DE LA LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIOES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1982.</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 La donación no se considera transmisión gravada, salvo que la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la renta.
 
@@ -224,19 +250,19 @@ I.- Jugo de fruta.
 
 II.- Aguamiel y productos derivados de su fermentación.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- Aguardiente regional elaborado por personas físicas, cuya capacidad de producción anual no exceda de 25,000 litros y den aviso de esta situación al inicio de cada ejercicio fiscal, y cumplan con los requisitos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
+III.- En la primera enajenación de aguardiente regional, incluso cuando ésta se efectúe al público en general.
 
-IV.- Aguardiente a granel y los concentrados de bebidas alcohólicas, siempre que el enajenante proporcione la información señalada en el artículo 19 fracción VII, de esta Ley y quien los adquiera sea envasador o productor de bebidas alcohólicas. Cuando el adquirente lo enajene en envases menores, se pagará el impuesto establecido en esta Ley, sobre el valor en que lo enajene en estos envases.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+IV.- Las que se efectúen al público en general, salvo qie (sic) el enajenante sea el productor, envasador o importados (sic) de los bienes que enajena. No se considera enajenación al público en general cuando en el documento en que conste el valor de la contraprestación pactada, se traslade en forma expresa y por separado este impuesto y el de valor agregado. Lo dispuesto en esta fracción no es aplicable a la enajenación de gasolina.
 
 V.- Cigarros elaborados por fabricantes cuyo volumen total de producción sea inferior a 40.000,000 de cajetillas anuales, que utilicen exclusivamente tabacos producidos en el país, en todas sus marcas y que el origen de éstas sea también nacional.
 
-VI.- La de bienes que se exporten con carácter definitivo, en los términos de la legislación aduanera.
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Para los efectos de la fracción III de este artículo, la capacidad de producción se entenderá referida a los aparatos de destilación, ya sea que se obtenga explotando conjuntamente un solo equipo o la que un solo productor alcance con varios equipos.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 9o.
 
@@ -278,15 +304,15 @@ I.- Las que en los términos de la legislación aduanera no lleguen a consumarse
 
 II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante disposiciones de carácter general, en su caso, establezca la Secretaría de Hacienda y Crédito Público.
 
-III.- La de bienes cuya enajenación en el país no dé lugar al pago del impuesto establecido en esta Ley. No quedan comprendidos los bienes a que se refieren las fracciones III y V del artículo 8o. de esta Ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+III.- La de los bienes señalados en las fracciones I y II del artículo 8o. de esta Ley.
 
-IV.- Los concentrados, polvos, jarabes, esencias o extractos de sabores siempre que se importen para elaborar refrescos en envases cerrados y el importador cumpla con los requisitos de información y control que establezca el Reglamento. Cuando el importador enajene los refrescos se pagará el impuesto establecido en esta Ley sobre el valor de la enajenación. En el supuesto de que el importador no cumpla con los requisitos señalados, pagará el impuesto por la importación aplicando la tasa a que se refiere el inciso c) de la fracción I del artículo 2o. de esta Ley.
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-V.- Las bebidas alcohólicas importadas en recipientes mayores siempre que se cumplan los requisitos de información y control que señale el reglamento. Cuando el importador los enajene en envases menores se pagará el impuesto establecido en esta Ley sobre el valor de la enajenación.
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-VI.- Las de gasolina. Cuando ésta se enajene en los términos del artículo 7o. fracción IV se pagará el impuesto establecido en esta Ley sobre el valor de la enajenación.
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 14.
 
@@ -316,6 +342,10 @@ I.- Tratándose de seguros, las primas correspondientes darán lugar al pago del
 
 II.- En el caso de servicios telefónicos en el momento en que sean exigibles las contraprestaciones a cargo de los usuarios en territorio nacional y sobre el monto de cada una de ellas.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+III.- En los demás casos, en el momento en que sean exigibles las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
+
 ###### ARTICULO 18.
 
 Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada así como las cantidades que además se carguen o cobren a quien reciba el servicio por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos.
@@ -326,15 +356,15 @@ Para calcular el impuesto tratándose de prestación de servicios se considerar�
 
 Los obligados al pago de este impuesto tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LAS MODIFICACIONES PUBLICADAS A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982, Y EN EL ARTICULO TRIGESIMO PRIMERO TRANSITORIO DE LA LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIOES FISCALES, D.O.F. 31 DE DICIEMBRE DE 1982.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 I.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-II.- Expedir documentos que comprueben el valor de la contraprestación pactada.
+II.- Expedir documentos que comprueben el valor de la contraprestación pactada, tratándose de enajenaciones se deberá trasladar en los mismos documentos, expresamente y por separado el impuesto establecido en esta Ley. Cuando se trate de enajenación de bienes al público en general, en el documento que se expida no se hará la separación expresa del monto de este impuesto.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -346,33 +376,27 @@ V.- Tener en sus fábricas los equipos necesarios para determinar la producción
 
 VI.- Tener la información que corresponda de los bienes que enajenen o importen respecto de su consumo por entidad federativa e impuesto correspondiente, conforme a lo dispuesto en el reglamento, así como de los servicios prestados por establecimiento en cada entidad federativa.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-VII.- Quienes adquieran los productos mencionados en la fracción IV del artículo 8o. de esta Ley, en las condiciones que el mismo establece, deberán informar a la Secretaría de Hacienda y Crédito Público, los volúmenes adquiridos, su graduación alcohólica y el nombre, domicilio, clave del registro federal de contribuyentes del vendedor e importe de la operación.
-
-Cuando el enajenante no proporcione la información señalada en el párrafo anterior, el adquirente deberá retener el impuesto establecido en esta Ley, sin perjuicio del que deberá de pagar al enajenar las bebidas elaboradas con el aguardiente o el propio aguardiente enajenado en envases menores.
+VII.- Realizar, tratándose de los contribuyentes que presten los servicios a que se refiere el inciso C) de la fracción II del artículo 2o. de esta Ley, la separación en su contabilidad y registros de la (sic) operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta ajena.
 
 ###### ARTICULO 20.
 
-Los contribuyentes que envasen bebidas alcohólicas distintas de la cerveza, lo harán en envases menores, debiendo solicitar y adherir marbetes en la forma que establezca el reglamento, las cuales no podrán salir del lugar de envasamiento sin cumplir con este requisito.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-Tratándose de importación en envases menores, los marbetes se adherirán en la aduana. Los importadores que reúnan los requisitos que establezca el reglamento, podrán adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos, dentro de los quince días siguientes al en que se retiren los bienes de la aduana.
-
-En el caso de importación en recipientes mayores los marbetes deberán adherirse a los envases inmediatamente después de concluido el envasamiento.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 21.
 
-Petróleos Mexicanos presentará a más tardar el día 10 o el siguiente día hábil, si aquél no lo fuera, de cada uno de los meses de calendario, declaración informando sobre los volúmenes de gasolina que en el mes inmediato anterior haya enajenado a los expendios autorizados, directamente a consumidores y los consumidos por él. Esta declaración no sustituye a las que deberá presentar Petróleos Mexicanos en los términos de esta Ley.
+Petróleos Mexicanos presentará a más tardar el día 20 de cada uno de los meses de calendario, declaración informando sobre los volúmenes de gasolina que en el mes inmediato anterior haya enajenado a los expendios autorizados y directamente a los consumidores, así como los consumidos por él. Esta declaración no sustituye a las que deberá presentar Petróleos Mexicanos en los términos de esta Ley.
 
 ### CAPITULO VI. De las Facultades de las Autoridades
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 22.
 
-Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda y en su caso el acreditamiento a que se refiere el penúltimo párrafo del artículo 5o. de esta Ley.
+Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
 
 ###### ARTICULO 23.
 
@@ -414,11 +438,15 @@ IV.- 0.74%, en gasolina, sobre volúmenes adquiridos.
 
 Para determinar el valor en que se enajenaron los bienes, se considerará que éstos se enajenaron al precio más alto en que el contribuyente venda dichos productos.
 
-El porciento a que se refiere la fracción I de este artículo comprende las donaciones señaladas en el artículo 7o., fracción I de esta Ley, con excepción de las cantidades que se destinen a promociones, siempre que no excedan de los límites que fije el reglamento.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Los porcientos a que se refiere las fracciones I a III únicamente son aplicables a los productores o envasadores. El porciento señalado en la fracción IV sólo es aplicable a las enajenaciones que realicen los expendios autorizados, así como a las que efectúe Petróleos Mexicanos al público en general.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 26.
 
-Las autoridades fiscales podrán presumir, salvo prueba en contrario, que los volúmenes de gasolina informados por Petróleos Mexicanos, en los términos del artículo 21 de esta Ley, fueron adquiridos y que el mismo volumen de gasolina, descontando la merma de 0.74% fue enajenado por el contribuyente, por partes iguales, en cada una de las semanas completas de calendario comprendidas en el informe.
+Las autoridades fiscales podrán presumir, salvo prueba en contrario, que los volúmenes de gasolina informados por Petróleos Mexicanos, en los términos del artículo 21 de esta Ley, fueron adquiridos y que el mismo volumen de gasolina, descontando la merma de 0.74%, fue enajenado por el contribuyente.
 
 ### CAPITULO VII. De las Participaciones a Entidades Federativas
 
@@ -605,5 +633,37 @@ D.O.F. 30 DE SEPTIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 1o. de octubre de 1982.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+OTRAS DISPOSICIONES
+
+ARTICULO DECIMOCUARTO.- Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1983 tengan un precio máximo al público que no exceda de $11.00 por cajetilla de 20 cigarros.
+
+ARTICULO DECIMONOVENO.- Los artículos Transitorios SEXTO relativo a la Ley del Impuesto Especial sobre Producción y Servicios, DECIMOCTAVO referente a la Ley del Impuesto al Valor Agregado, VIGESIMO QUINTO concerniente a la Ley del Impuesto sobre la Renta y TRIGESIMO OCTAVO respecto de la Ley Orgánica del Tribunal Fiscal de la Federación, de la ley que reforma, adiciona y deroga diversas disposiciones en materia fiscal, de 30 de diciembre de 1981, se reforman para surtir sus efectos en toda la República a partir del 1o. de enero de 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
+
+ARTICULO TRIGESIMO PRIMERO.- Las reformas propuestas a los artículo 5o., primer y segundo párrafos, 7o., 19 fracción I y 22 de la Ley del Impuesto Especial sobre Producción y Servicios, que por disposición del ARTICULO SEXTO TRANSITORIO de la Ley de Reforma, Adiciona y Deroga Diversas Disposiciones en Materia Fiscal de 30 de diciembre de 1981, publicada en el Diario Oficial de la Federación de 31 del mismo mes y año, entrarían en vigor el 1o. de octubre de 1982 y posteriormente, por Decreto de 29 de septiembre de 1982 publicado en el Diario Oficial de la Federación de 30 del mismo mes y año se pospuso su entrada en vigor, no surtirán efectos a excepción de los artículos 7o. último párrafo y 19 fracción I, en virtud de que en la presente Ley se reforman nuevamente.
+
+ARTICULO TRIGESIMO SEGUNDO.- Durante el año de 1983 la prestación del servicio de energía eléctrica quedará gravada con el impuesto especial sobre producción y servicios con una cuota de $ 1,00 por cada kilowatthora. Quienes proporcionen el servicio calcularán el impuesto por ejercicios, efectuarán pagos provisionales y tendrán las demás obligaciones que la Ley del Impuesto Especial sobre Producción y Servicios les impone. Lo dispuesto en este artículo no será aplicable a los servicios que se presten a los usuarios domésticos con un consumo mensual hasta de 50 kilowatthoras.
+
+ARTICULO TRIGESIMO OCTAVO.- Durante el año de 1983 la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general señalará los requisitos que los importadores de bebidas alcohólicas, con excepción de cerveza, deban reunir para identificar los envases que las contengan por las que ya se hayan pagado los impuestos general de importación y especial sobre producción y servicios.
+
+En tanto se expiden las reglas generales a que se refiere este artículo, se seguirán utilizando marbetes para las bebidas alcohólicas importadas.
+
+Los contribuyentes del impuesto especial sobre producción y servicios que envasen bebidas alcohólicas nacionales, distintas de la cerveza, continuarán utilizando marbetes en sus productos hasta el 30 de junio de 1983.
+
+ARTICULO TRIGESIMO NOVENO.- Durante el año de 1983 los contribuyentes del impuesto especial sobre producción y servicios, que lo sean por la enajenación de aguas envasadas y refrescos en envases cerrados, no estarán obligados al pago de este impuesto. Lo dispuesto en este artículo no es aplicable a los productores, envasadores o importadores de esos bienes.
+
+ARTICULO CUADRAGESIMO PRIMERO.- Los contribuyentes del impuesto especial sobre producción y servicios que lo sean por la segunda y posteriores enajenaciones de tabacos labrados y cerveza, no estarán obligados al pago de este impuesto, durante los primeros quince días del mes de enero de 1983; a partir del día 16 de enero del mismo año, se causará el impuesto, pudiéndose acreditar el correspondiente a las operaciones celebradas en la primera quincena de ese mes.
+
+Tratándose de los contribuyentes del impuesto a que se refiere este artículo, que lo sean por la importación de bebidas alcohólicas, distintas de la cerveza, deberán formular un inventario de existencias referido al 31 de diciembre de 1982 y presentarlo ante las autoridades administradoras competentes a más tardar el día 7 de enero de 1983. Los importadores podrán acreditar el impuesto que efectivamente hubieran pagado en la aduana por esas bebidas.
+
+Los contribuyentes que enajenen bebidas alcohólicas de producción nacional que las hayan adquirido de productores o envasadores, formularán un inventario de existencias en los términos del párrafo anterior y lo presentarán a las autoridades administradoras en la misma fecha, pudiendo acreditar un impuesto igual al que les hubiera sido trasladado en forma expresa si éste no hubiera estado incluido en el precio.
 
 ## TRANSITORIO
