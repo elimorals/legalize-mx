@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1932-12-28"
+last_updated: "1933-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1933.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,9 +173,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 El territorio del Estado comprende el que le señaló la ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá; Pilcaya.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Toxtepec (sic), Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá; Pilcaya.
 
 Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
 
@@ -219,9 +219,9 @@ Con las Municipalidades que integran el Estado, se forman catorce Distritos, los
 
 Abasolo, que comprende las Municipalidades de Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca y Cuajinicuilapa; su Cabecera Ometepec.
 
-> <small>(REFORMADO, P. O. 23 DE DICIEMBRE DE 1931)</small>
+> <small>(REFORMADO, P. O. 1 DE MARZO DE 1933)</small>
 
-Alarcón, las de Taxco de Alarcón y Tetipac; Pilcaya; su Cabecera Taxco de Alarcón.
+Alarcón, las de Taxco de Alarcón, Noxtepec y Pilcaya; su Cabecera Taxco de Alarcón; .
 
 Aldama, con las de Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan y Pedro Ascencio Alquisiras; su Cabecera Teloloapan.
 
@@ -925,6 +925,10 @@ No podrá hacerse pago alguno que no esté comprendido en el Presupuesto, o dete
 
 Los Presidentes de los Ayuntamientos y Jueces Menores serán remunerados por sus servicios. Dicha remuneración les será señalada por las Corporaciones antedichas, y pagada por el Erario Municipal respectivo.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 1933)</small>
+
+Artículo 102 bis. Los Presidentes Municipales desempeñarán además de las funciones inherentes a su cargo, las de Jueces del Estado Civil, con las facultades y obligaciones que las Leyes les señalan.
+
 ###### Artículo 103.
 
 Todos los funcionarios y empleados públicos del Estado y del Municipio, antes de entrar al desempeño de sus respectivos cargos o empleos, otorgarán la protesta de cumplir y en su caso, hacer cumplir esta Constitución, la General de la República con sus respectivas adiciones y reformas y las leyes que de ambas emanen. Las leyes determinaran en cada caso la fórmula de dicha protesta, y ante que autoridad o funcionario deben otorgarla, los no mencionados de una manera especial y concreta en la presente Constitución.
@@ -1178,3 +1182,15 @@ P.O. 28 DE DICIEMBRE DE 1932.
 DECRETO NUMERO 80.
 
 El presente Decreto entrará en vigor desde la fecha de su publicación.
+
+P.O. 1 DE MARZO DE 1933.
+
+DECRETO NUMERO 109.
+
+El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 1 DE MARZO DE 1933.
+
+DECRETO NUMERO 110.
+
+Este Decreto surtirá sus efectos desde la fecha de su publicación.
