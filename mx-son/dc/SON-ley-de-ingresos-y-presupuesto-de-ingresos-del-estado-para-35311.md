@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ingresos-y-presupuesto-de-ingresos-del-estado-para-35311
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-26"
-last_updated: "2003-12-26"
+last_updated: "2004-02-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2004
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sonora el viernes 26 de diciembre de 2003.
 
@@ -501,7 +501,9 @@ III.- Los contribuyentes que contraten trabajadores con edad de 40 años en adel
 
 IV.- Los contribuyentes constituidos en sociedades de responsabilidad limitada de interés público y capital variable, así como los organismos auxiliares de cooperación que realicen actividades de interés público y cuya operación sea financiada mediante la concurrencia de recursos públicos y privados, gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal.
 
-V.- Tratándose de la inscripción de escrituras constitutivas de sociedades mercantiles que realicen actividades empresariales, el importe de la cuota por la prestación del servicio a que se refiere el artículo 321 apartado 9 de la Ley de Hacienda del Estado, se reducirá en un 50%.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+V.- Tratándose de la inscripción de escrituras constitutivas de sociedades mercantiles que realicen actividades empresariales, el importe de la cuota por la prestación del servicio a que se refiere el artículo 321, apartado 12 proemio de la Ley de Hacienda del Estado, se reducirá en un 50%.
 
 Para los efectos de este artículo se entenderá por actividades empresariales aquellas que a efectos señale el Código Fiscal del Estado y por empleos permanentes a los registrados bajo dicho carácter en el Instituto Mexicano del Seguro Social.
 
@@ -529,7 +531,9 @@ VI.- Alta inversión en infraestructura, maquinaria y/o equipo para la operació
 
 Los estímulos, el porcentaje de reducción y el período durante el cual se apliquen se otorgarán conforme a las disposiciones establecidas en el Reglamento que al efecto expida el Ejecutivo del Estado.
 
-En los casos de las empresas a que se refiere el presente artículo, el Ejecutivo del Estado podrá reducir en un 75% el importe de la cuota establecida en el artículo 321, puntos 3, 9 y 14 de la Ley de Hacienda del Estado de Sonora, por la inscripción de documentos en el Registro Público de la Propiedad y del Comercio, en cuyo caso no aplicará el estímulo establecido en el artículo 7°, fracción IV del presente ordenamiento.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+En los casos de las empresas a que se refiere el presente artículo, el Ejecutivo del Estado podrá reducir en un 75% el importe de las cuotas de los derechos por la inscripción en el Registro Público de la Propiedad y del Comercio de los créditos hipotecarios o refaccionarios de habilitación o avío otorgados por instituciones de crédito y organizaciones auxiliares, así como el registro de contratos de fideicomiso con garantía hipotecaria, incluidos en el apartado 1 del artículo 321 de la Ley de Hacienda del Estado de Sonora y de los derechos establecidos en el apartado 12 proemio, del citado numeral, en cuyo caso no se aplicará el estímulo establecido en el artículo 7º, fracción V del presente ordenamiento.
 
 El Ejecutivo del Estado deberá informar al Congreso del Estado, dentro de la información trimestral que está obligado a presentar ante ese Poder Legislativo, sobre las empresas beneficiadas por los estímulos señalados en esta disposición, su porcentaje y el período durante el cual se otorguen.
 
@@ -643,4 +647,10 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- BULMARO PACHECO MORENO.- RUBRICA.-
 
-E369 5I SECC. I
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 12 DE FEBRERO DE 2004.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
