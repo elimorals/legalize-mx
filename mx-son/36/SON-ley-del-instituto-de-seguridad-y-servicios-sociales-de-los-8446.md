@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1967-07-12"
+last_updated: "1969-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JULIO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE AGOSTO DE 1969.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -111,9 +111,9 @@ X.- Pensión por muerte.
 
 XI.- Indemnización global.
 
-> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 1966)</small>
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 1969)</small>
 
-XII.- Pago póstumo para los beneficiarios de los trabajadores en los términos del Capítulo Séptimo Bis y Artículo 88 Bis de esta Ley.
+XII.- Pago Póstumo en los términos del Capítulo Séptimo Bis.
 
 ###### Artículo 5o.
 
@@ -825,6 +825,40 @@ QUINTO.- Cuando el trabajador no haya designado beneficiario, el importe del pag
 
 SEXTA.- Al fallecimiento del trabajador y cuando éste no haya designado beneficiario, el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con la Ley, a declarar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponde entregar el beneficio.- Para acreditar el derecho a percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará a lo dispuesto en la legislación civil.
 
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 1969)</small>
+
+Artículo 88 A.- El Instituto se obliga a cubrir el pago póstumo que podrá ser ordinario o extraordinario. Es pago póstumo ordinario el que se fija a favor de los beneficiarios de quien, conforme a esta ley, tiene la calidad de derechohabiente. Es pago póstumo extraordinario el que prescribe el Capítulo IX de la Ley del Servicio Civil.
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 1969)</small>
+
+Artículo 88 B.- El pago póstumo ordinario será de $30,000.00 que el Instituto entregará con independencia del extraordinario, a la muerte de los trabajadores incorporados al propio Instituto, a los beneficiarios que éstos designen y a falta de designación, a sus herederos legítimos. Para el cumplimiento de esta prestación el Gobierno del Estado aportará una cuota mensual de $10.00 por cada trabajador, sin que exista derecho a la devolución de tales cuotas. En iguales términos podrá proporcionarse el pago póstumo a los trabajadores sin que exista derecho a la devolución de tales cuotas. En iguales términos podrá proporcionarse el pago póstumo a los trabajadores de otras instituciones u organizaciones que se incorporen al Instituto. Los trabajadores que se pensionen y los pensionados a partir del primero de enero de 1966 podrán disfrutar del mismo derecho, mediante una cuota mensual de $20.00 previa manifestación de su interés que hagan al Instituto, sin que en este caso exista obligación de parte del Gobierno del Estado de aportar alguna cuota adicional. El pago póstumo a que se refiere este Capítulo quedará sujeto a las siguientes bases:
+
+PRIMERA.- El Gobierno del Estado, por conducto de la Tesorería General, hará los descuentos a los trabajadores el día primero de cada mes y entregará de inmediato al Instituto las cuotas correspondientes, tanto del Gobierno como de cada trabajador. Los remanentes que arrojare la operación, se incorporarán al fondo de pensiones. Así como en caso de insuficiencia, el fondo de pensiones proporcionará el faltante para el cumplimiento oportuno de los pagos póstumos.
+
+SEGUNDA.- El Instituto deberá expedir un certificado individual a cada uno de los trabajadores, por lo que, previamente, cada trabajador firmará una solicitud, proporcionando los datos necesarios y designará a sus beneficiarios.
+
+TERCERA.- El trabajador que tenga derecho al pago póstumo podrá en cualquier tiempo hacer una nueva designación del beneficiario, notificándolo al Instituto.
+
+CUARTA.- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del Instituto y presentar el acta de defunción del trabajador fallecido.
+
+QUINTA.- Cuando el trabajador no haya designado beneficiario, el importe del pago póstumo se pagará a los herederos de acuerdo con el orden que establece el Código Civil del Estado, en lo relativo a la sucesión legítima.
+
+SEXTA.- Al fallecimiento del trabajador y cuando éste no haya designado beneficiario el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con al ley, a declarar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponda entregar el beneficio. Para acreditar el derecho de percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará lo dispuesto en la legislación civil.
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 1969)</small>
+
+Artículo 88 C.- El pago póstumo extraordinario quedará sujeto a las siguientes Bases:
+
+PRIMERA.- Al fallecimiento de un trabajador al servicio del Gobierno del Estado o de un trabajador jubilado o pensionado, el Instituto pagará de inmediato la cantidad de $10,000.00, que no estará sujeto a descuento alguno, a la persona o personas que el propio empleado en servicio o jubilado haya designado expresamente para tal fin, sin necesidad de que se demuestre la dependencia económica del o de los beneficiarios; los interesados harán la designación, llenando y autorizando con su firma y huella digital la forma correspondiente, que les será proporcionada, por duplicado, quedando uno de los ejemplares en poder del interesado y el otro depositado en las oficinas del Instituto.
+
+SEGUNDA.- En defecto de la manifestación expresa a que se refiere el párrafo anterior, para decir qué persona o personas tienen derecho a recibir el pago póstumo, se seguirá el siguiente orden:
+
+I.- La esposa y los hijos legítimos o naturales que sean menores de dieciocho años y los ascendientes, a menos que se pruebe que no dependían económicamente del empleado;
+
+II.- A falta de esposa, hijos y ascendientes en los términos de la fracción anterior el pago póstumo se entregará a las personas que, económicamente, dependían parcial o totalmente del empleado, según lo decida el Instituto, en vista de las pruebas rendidas;
+
+TERCERA.- El pago póstumo beneficia a los deudos de todos los funcionarios, empleados, jubilados o pensionados, aunque en otros aspectos no sean beneficiarios del Instituto ni pertenezcan al Servicio Civil.
+
 ### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
 
 ###### Artículo 89.
@@ -1278,3 +1312,21 @@ UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Of
 B.O. 12 DE JULIO DE 1967.
 
 UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 6 DE AGOSTO DE 1969.
+
+###### ARTICULO 1o.
+
+Al iniciar su vigencia la presente ley, la Comisión del Servicio Civil remitirá el Instituto toda la documentación que obre en su Archivo.
+
+###### ARTICULO 2o.
+
+Los expedientes que, al momento de publicarse esta ley, se hallaren en trámite ante la Comisión del Servicio Civil, serán de inmediato enviados al Instituto para su resolución definitiva.
+
+###### ARTICULO 3o.
+
+Los oficios de designación de beneficiarios que se encuentren dirigidos, hasta antes de la expedición de esta Ley, a la Comisión del Servicio Civil, se tendrán por dirigidos al Instituto.
+
+###### ARTICULO 4o.
+
+La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
