@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2002-07-10"
+last_updated: "2004-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL MUNICIPIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -1039,9 +1039,11 @@ Los Ayuntamientos, en el ejercicio de sus funciones, se auxiliarán por los Conc
 
 En los centros de población de los Municipios, con excepción de las cabeceras municipales, los Delegados Municipales, se elegirán en reunión de vecinos mediante voto universal, directo y secreto. Por cada Delegado Municipal se elegirá un suplente.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2004)</small>
+
 ###### Artículo 82.
 
-Los Delegados Municipales deberán reunir los requisitos que se requieren para ser Regidor.
+Los Delegados Municipales deberán reunir los requisitos que se requieren para ser regidor. Durante el tiempo en que ejerzan la titularidad del cargo, recibirán la remuneración económica que el ayuntamiento determine en su presupuesto anual de egresos.
 
 ###### Artículo 83.
 
@@ -2266,3 +2268,7 @@ LIC. CATARINO MARTINEZ DIAZ PABLO RAMIREZ FIGUEROA
 P.O. 10 DE JULIO 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
