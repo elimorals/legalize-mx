@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2002-07-03"
+last_updated: "2002-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -245,9 +245,9 @@ A la Sección Municipal de Pich, corresponden:
 
 a) El pueblo de Pich, Cabecera de la Sección.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2002)</small>
 
-b) Los pueblos de Bolonchéncahuich y San Juan Cantemó, Quetzal Edzná y Los Laureles.
+b) Los pueblos de Bolonchéncahuich, San Juan Cantemó y Los Laureles, y las congregaciones de Quetzal Edzná y La Libertad.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
 
@@ -2916,3 +2916,9 @@ Sexto.- Los procedimientos administrativos disciplinarios que se encuentren en t
 Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
+
+P.O. 15 DE NOVIEMBRE DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
