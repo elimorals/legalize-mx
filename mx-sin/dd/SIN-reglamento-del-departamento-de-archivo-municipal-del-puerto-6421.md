@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-departamento-de-archivo-municipal-del-puerto-642
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-12"
-last_updated: "1993-07-12"
+last_updated: "2002-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DEL DEPARTAMENTO DE ARCHIVO MUNICIPAL DEL PUERTO DE MAZATLAN, SINALOA
 
-REGLAMENTO DEL DEPARTAMENTO DE ARCHIVO MUNICIPAL DEL PUERTO DE MAZATLAN
+REGLAMENTO DEL DEPARTAMENTO DE ARCHIVO MUNICIPAL DEL PUERTO DE MAZATLAN, SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO MUNICIPAL No. 20, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2002, EL CONTENIDO DEL PRESENTE ORDENAMIENTO SEGUIRA EN VIGOR EN EL MUNICIPIO DE MAZATLAN.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 12 de julio de 1993.
 
@@ -43,7 +45,9 @@ CUARTO.- Que esta Administración Municipal que presido, con el propósito democ
 
 DECRETO MUNICIPAL No. 02
 
-REGLAMENTO DEL DEPARTAMENTO DE ARCHIVO MUNICIPAL DEL PUERTO DE MAZATLAN
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2002)</small>
+
+REGLAMENTO DEL DEPARTAMENTO DE ARCHIVO MUNICIPAL DEL PUERTO DE MAZATLÁN, SINALOA
 
 ### CAPITULO I. DE LAS ATRIBUCIONES Y FUNCIONES
 
@@ -228,3 +232,15 @@ C.P. Martín Gavica Garduño
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 Lic. Jesús Alberto Humarán Castellanos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE RESERVA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", y el contenido del presente Reglamento seguirá en vigor en el Municipio de Mazatlán, Sinaloa.
+
+###### ARTICULO SEGUNDO.
+
+Comuníquese al Ejecutivo Municipal para los efectos de su sanción y debida observancia.
