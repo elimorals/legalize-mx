@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1936-12-17"
+last_updated: "1937-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 1937.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -89,7 +89,7 @@ N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES
 
 P.O. 9 DE ABRIL DE 1931
 
-AArtículo único.- Se deroga la Ley número 29 de fecha 22 de octubre de 1928, en la parte que reforma el artículo 107 de la Constitución Política del Estado, el que volverá a regir conforme al texto con que primitivamente figuró en la citada Constitución.
+Artículo único.- Se deroga la Ley número 29 de fecha 22 de octubre de 1928, en la parte que reforma el artículo 107 de la Constitución Política del Estado, el que volverá a regir conforme al texto con que primitivamente figuró en la citada Constitución.
 
 P.O. 28 DE MAYO DE 1931
 
@@ -341,17 +341,17 @@ V.- No ser Presidente de la República, Secretario o Subsecretario del Estado, M
 
 IV.- No ser ministro de ninguna religión o secta.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
 
 ###### Art. 35.
 
-El cargo de Diputado propietario o suplente en ejercicio es legalmente incompatible con cualquier otro cargo, empleo o comisión federal, del Estado y del Municipio, por el cual se disfrute remuneración, exceptuándose los de Educación Pública, los del Ramo Agrario o los de Beneficencia.
+Los Diputados Propietarios y Suplentes en ejercicio, durante el periodo de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación del Estado o del Municipio, por los cuales se disfruta remuneración, sin licencia de la Cámara respectiva, y, en los recesos de esta, de la Diputación Permanente; pero en este caso, el nombrado percibirá únicamente un sueldo.
+
+Se exceptúan de lo dispuesto en el párrafo anterior, los cargos de Instrucción Pública, Beneficencia y Salubridad.
 
 ###### Art. 36.
 
-Los Diputados propietarios y suplentes en ejercicio sólo podrán desempeñar cargos de la Federación, del Estado o del Municipio, con licencia de la Legislatura, y en los recesos de ésta, de la Diputación Permanente; pero entonces cesarán en sus funciones respectivas, mientras dure su nueva comisión.
-
-La infracción de este artculo(sic) y la del anterior no amerita pena; pero por ese solo hecho se entiende que el infractor renuncia a su carácter de Diputado.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 1937)
 
 ###### Art. 37.
 
@@ -753,17 +753,17 @@ El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios 
 
 Los Magistrados del Tribunal Superior de Justicia entrarán al desempeño de su cargo en la misma fecha, 1º de octubre, que el Gobernador del Estado, y durarán en sus funciones cuatro años.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
+
 ###### Art. 106.
 
 Para ser Magistrado en el Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Ser mayor de 30 años de edad;
+II.- Ser mayor de veinticinco años;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1935)</small>
-
-III.- Tener título Profesional de Abogado, expedido por la Autoridad Competente o de Corporación legalmente autorizada para ello.
+III.- Tener título profesional de Abogado, expedido por la autoridad competente o por corporación legalmente facultada para ello, y haber ejercido la profesión cuando menos dos años.
 
 IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión o secta;
 
@@ -1179,9 +1179,11 @@ Disposiciones Generales.
 
 Los empleos y cargos públicos no son patrimonio de las personas que los desempeñan. Los de elección popular son preferibles a cualquier otro, en igualdad de circunstancias, y no podrán renunciar sino por causa justificada, a juicio de la autoridad a quien corresponda admitir la renuncia.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
+
 ###### Art. 167.
 
-Ningún individuo puede desempeñar dos cargos públicos, o dos empleos por los que se disfrute sueldo; pero el nombrado puede optar por alguno de los dos cargos o empleos, entendiéndose renunciado uno por la aceptación del otro. Exceptuándose los empleos del ramo de Instrucción Pública, y los facultativos de Beneficencia.
+Ningún individuo puede desempeñar dos cargos públicos, o dos empleos por los cuales se disfrute sueldo; pero el nombrado puede optar por alguno de los dos cargos o empleos; entendiéndose renunciar a uno por la aceptación del otro, exceptuándose los empleos del Ramo de Instrucción Pública, Beneficencia y Salubridad y lo que para los Diputados se establece en el Artícule (sic) 35.
 
 ###### Art. 168.
 
@@ -1618,3 +1620,9 @@ Esta Ley comenzará a surtir sus efectos legales, desde el día de su publicaci�
 P.O. 17 DE DICIEMBRE DE 1936
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 28 DE OCTUBRE DE 1937
+
+I.- Quedan derogadas todas las disposiciones o reformas habidas antes de la presente Ley.
+
+II.- La presente Ley entrará en vigor el día primero de noviembre de mil novecientos treinta y siete.
