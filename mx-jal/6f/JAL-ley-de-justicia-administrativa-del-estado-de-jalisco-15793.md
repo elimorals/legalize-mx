@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2000-01-18"
+last_updated: "2000-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -421,6 +421,10 @@ Cuando alguna autoridad que deba ser parte en el juicio no fuera señalada por e
 
 Si los demandados fueren varios, el término para contestar les correrá individualmente.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2000)</small>
+
+En la contestación de la demanda y hasta antes del cierre de la instrucción, el demandado podrá allanarse a las pretensiones del demandante si se tratare de la autoridad, el magistrado podrá ordenar de inmediato la revocación del acto origen de la demanda o la expedición del acto que subsane la omisión, según sea el caso.
+
 ###### Artículo 43.
 
 El demandado, en su contestación, expresará:
@@ -637,6 +641,8 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 ### CAPÍTULO XI. DE LA SENTENCIA
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 71.
 
 Cuando hubieren sido ofrecidas pruebas para cuyo desahogo se requiera audiencia o diligencia, se acordará lo conducente a su recepción. Cuando la naturaleza de la prueba lo determine, se señalará el lugar, así como el día y la hora en los cuales, dentro de los treinta días que sigan a la providencia que los señale, deberá tener verificativo la audiencia de recepción de cada una de las pruebas ofrecidas. La audiencia se celebrará ante la presencia del Magistrado.
@@ -649,7 +655,7 @@ Una vez desahogadas las pruebas, se dictará auto para que dentro del término d
 
 ###### Artículo 72.
 
-La sentencia deberá dictarse dentro de los veinte días que sigan a la notificación del auto en que se cite para sentencia.
+La sentencia deberá dictarse dentro de los veinte días que sigan a la notificación del auto en que se cite para sentencia. Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala deberá examinar primero aquellas que puedan llevar a declarar la nulidad lisa y llana del acto o de la resolución impugnada.
 
 ###### Artículo 73.
 
@@ -713,9 +719,11 @@ II. No admitan recurso; o
 
 III. El recurrente se desista del recurso que hubiere interpuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 80.
 
-La (sic) sentencias que dicte el Pleno se pronunciarán por unanimidad o por mayoría de votos de los magistrados.
+La (sic) sentencias que dicte el Pleno se pronunciarán por unanimidad o por mayoría de votos de los magistrados. En caso de empate en las resoluciones del pleno su Presidente tendrá voto de calidad.
 
 Cuando la mayoría de los magistrados esté de acuerdo con el proyecto, los magistrados disidentes podrán limitarse a expresar que votan en contra del mismo, o a formular voto particular razonado, en un plazo que no excederá de diez días, transcurrido dicho término, si no lo hacen, perderán ese derecho y deberán devolver el expediente. En caso de que no lo devuelvan, incurrirán en responsabilidades.
 
@@ -867,9 +875,11 @@ Deberá acompañarse copia del escrito para cada una de las partes en el juicio.
 
 Una vez admitido el recurso por la sala correspondiente, se dará vista a las partes para que dentro del término de cinco días den contestación a los agravios. Transcurrido dicho término se remitirá el asunto al Pleno del Tribunal de lo Administrativo.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 101.
 
-Una vez recibido el recurso por el Pleno, éste designará un Magistrado Ponente, que no podrá ser quien hubiere pronunciado la sentencia impugnada, para que, dentro del término de diez días, elabore el proyecto de resolución.
+Una vez recibido el recurso por el Pleno, éste designará un Magistrado Ponente, que no podrá ser quien hubiere pronunciado la sentencia impugnada, para que, dentro del término de veinte días, elabore el proyecto de resolución.
 
 ###### Artículo 102.
 
@@ -936,3 +946,9 @@ ING. ALBERTO CÁRDENA JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor el día 18 de abril de 2000, una vez publicado en el Periódico Oficial "El Estado de Jalisco".
