@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1995-03-07"
+last_updated: "1997-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3329,35 +3329,107 @@ Los delitos a que se refiere este Capítulo producen acción popular.
 
 Para los efectos de este Capítulo se entiende por:
 
-I.- Funcionarios Electorales, quienes en términos de la legislación aplicable, integren los organismos electorales;
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
 
-II.- Funcionarios Partidistas, los dirigentes de los partidos políticos, los candidatos y los ciudadanos a quienes los propios partidos, otorguen representación durante el proceso electoral;
+I.- Servidores Públicos, las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal, sea cual fuere la forma de su elección o nombramiento;
 
-III.- Documentos Públicos Electorales, todas las boletas, actas oficiales de los organismos electorales, del Tribunal Estatal Electoral y del Colegio Electoral en el ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+II.- Funcionarios Electorales, quienes en términos de la legislación aplicable, integren los organismos electorales;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+III.- Funcionarios Partidistas, los dirigentes de los Partidos Políticos, las agrupaciones políticas, los candidatos y los ciudadanos a quienes los propios partidos, otorguen representación durante el proceso electoral;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+IV.- Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+V.- Documentos Públicos Electorales, todas las boletas, actas oficiales de los organismos electorales, del Tribunal Estatal Electoral y del Colegio Electoral en el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VI.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 442.
 
-Se impondrá multa equivalente al importe de diez a cien días de salario y prisión de seis meses a un año y suspensión de derechos políticos por un año, a quien:
+Se impondrán de diez a cien días de multa y prisión de seis meses a tres años, a quien:
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1995)</small>
 
 I.- Vote o intente votar, estando impedido legalmente para ello;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1995)</small>
+
 II.- Vote más de una vez en la misma elección;
 
-III.- Obstaculice o interfiera el desarrollo normal del proceso electoral;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
 
-IV.- Se niegue a desempeñar las funciones electorales que se le encomienden, sin causa justificada;
+III.- Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
 
-V.- Dentro de los tres días anteriores o el día de la elección, haga propaganda política en favor de algún partido político o candidato;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
 
-VI.- A quien se presente a votar portando armas;
+IV.- Recoja en cualquier tiempo, sin causa prevista por la Ley, credenciales para votar de los ciudadanos;
 
-VII.- Falsifique, altere, robe o destruya documentos públicos electorales;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
 
-VIII.- Viole de cualquier manera el secreto del voto;
+V.- El día de la Jornada Electoral viole, de cualquier manera el derecho del ciudadano a emitir su voto en secreto;
 
-IX.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VI.- El día de la Jornada Electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VII.- Obstaculice o interfiera dolosamente el desarrollo normal del proceso electoral;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VIII.- Se niegue a desempeñar las funciones electorales que se le encomienden, sin causa justificada;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+IX.- Dentro de los tres días anteriores o el día de la elección, haga propaganda política en favor de algún partido político o candidato;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+X.- A quien se presente a votar portando armas;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XI.- Falsifique, altere, robe o destruya documentos públicos electorales;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XII.- Viole de cualquier manera el secreto del voto;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XIII.- Solicite votos paga, dádiva o promesa de dinero u otra recompensa;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XIV.- Vote o pretenda votar con una credencial para votar de la que no sea titular;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XV.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XVI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de pago o dádiva, comprometa su voto en favor de un determinado Partido Político o candidato;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XVII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XVIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
 
@@ -3369,7 +3441,9 @@ I.- Se abstenga de cumplir con sus obligaciones electorales, sin causa justifica
 
 II.- Obstaculice o interfiera el desarrollo legal de la jornada electoral;
 
-III.- En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido político determinado, en el interior de la casilla o en el lugar donde los electores se encuentren formados;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+III.- En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o Partido Político determinado, en el interior de la casilla o en el lugar donde los electores se encuentren formados;
 
 IV.- Al que impida, instale, abra o cierre dolosamente una casilla, fuera de los tiempos y formas previstas por la Ley;
 
@@ -3379,11 +3453,17 @@ VI.- Conociendo la existencia de condiciones o actividades que atenten contra la
 
 VII.- Difunda dolosamente información antes, durante o después del desarrollo de la jornada electoral o respecto de sus resultados que tiendan a confundir a la opinión pública;
 
-VIII.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VIII.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
 
 IX.- Permita votar a quien no tenga derecho para ello;
 
 X.- Propale o difunda dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+XI.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
 
@@ -3401,19 +3481,59 @@ IV.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de
 
 V.- Impida ilegalmente reuniones, asambleas o manifestaciones pacíficas o cualquier otro acto de propaganda electoral;
 
-VI.- Se niegue a dar fe de los actos en que deban intervenir en los términos del Código Electoral.
+VI.- Se niegue a dar fe de los actos en que deban intervenir en los términos del Código Electoral;
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VII.- Proporcione apoyo o preste algún servicio a los Partidos Políticos a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 445.
 
-Se impondrá prisión de uno a tres años y multa de cincuenta a cien días de salario, al funcionario partidista que aproveche ilícitamente fondos, bienes o servicios en los términos de la Fracción IV del Artículo anterior, así como al que:
+Se impondrá prisión de uno a seis años y multa de cien a doscientos días de salario, al funcionario partidista o candidato que aproveche ilícitamente fondos, bienes, o servicios en los términos de la Fracción IV del Artículo anterior, así como al que:
 
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+I.- Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1995)</small>
 
 II.- Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1995)</small>
+
 III.- Impida con violencia la instalación, apertura o cierre de una casilla.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+IV.- Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+V.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1997)</small>
+
+VI.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1997)</small>
+
+###### Artículo 446.
+
+Se impondrá prisión de uno a seis años y multa hasta de quinientos días a los Ministros de cultos religiosos, que en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato o Partido Político, o a la abstención del ejercicio del derecho al voto.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1997)</small>
+
+###### Artículo 447.
+
+Se impondrá de setenta o (sic) doscientos días de multa y prisión de tres a siete años, a quien por cualquier medio altere o participe en la alteración del Registro Federal de Electores, de los listados nominales o en la expedición ilícita de credenciales para votar.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1997)</small>
+
+###### Artículo 448.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer a los servidores públicos además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
 T R A N S I T O R I O S :
 
@@ -3464,6 +3584,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 7 DE MARZO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 1997.
 
 ###### ARTICULO PRIMERO.
 
