@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1990-08-09"
+last_updated: "1992-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 9 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -18117,319 +18117,195 @@ Del Registro Público de la Propiedad.
 
 ###### Art. 3453.
 
-El Ejecutivo del Estado designará las poblaciones en donde debe establecerse la oficina denominada "Registro Público de la Propiedad".
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3454.
 
-El Reglamento fijará quiénes serán los encargados de las distintas oficinas del Registro Público determinando el número de secciones de que se componga y la sección en que deban inscribirse los títulos objeto de registro.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3455.
 
-El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivadas. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; y de los documentos relativos; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
-
-Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1640.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3456.
 
-Se inscribirán en el Registro:
-
-I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión o los demás derechos reales sobre inmuebles;
-
-II.- La constitución de patrimonio de familia;
-
-III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres;
-
-IV.- La condición resolutoria en las ventas a que se refiere las fracciones I y II del articulo 2562;
-
-V.- Los contratos de prenda que mencionan los artículos 3198, 3200, 3201 y 3202;
-
-VI.- La escritura constitutiva de las sociedades civiles y las que la reforme, bien sea que se otorgue en forma de documento privado o escritura pública en los casos previstos por este Código;
-
-VII.- La escritura pública o privada de constitución de las asociaciones y la que las reforme;
-
-VIII.- La escritura constitutiva de las fundaciones de beneficencia privada;
-
-IX.- Las resoluciones judiciales, las de árbitros o arbitradores que produzcan alguno o algunos de los efectos mencionados en la fracción I;
-
-X.- Los testamentos por efecto de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
-
-XI.- El auto declaratorio de los herederos legítimos y el nombramiento del albacea definitivo, tanto en los intestados como en las testamentarías, y en su caso el auto de reconocimiento de lagatarios.
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
-
-XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
-
-XIII.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
-
-XIV.- Las copias certificadas relativas a las actas de embargo o secuestro, cuando recaigan sobre bienes inmuebles o derechos reales susceptibles de registro;
-
-XV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3457.
 
-Los documentos, que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3458.
 
-Se entiende por terceros, para los efectos del registro a todos aquellos que tengan constituídos derechos reales, gravámenes o embargos, sobre los bienes o derechos que sean objeto de inscripción conforme al artículo 3456.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3459.
 
-Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3460.
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
-
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro;
-
-II.- Que estén debidamente legalizados;
-
-III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial federal o local competente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3461.
 
-La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3462.
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas en el Registro aparezcan con derecho para ello no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos aunque después se anule o resuelva el derecho del otorgante por algún vicio que no sea de carácter ilícito, o que su existencia no resulte de las constancias mismas del Registro.
-
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
-
-Cuando se hubiese hecho alguna anotación en el Registro, respecto al carácter litigioso de los bienes o porque se haya reclamado la nulidad del título del otorgante, el adquiriente sí sufrirá las consecuencias de la nulidad una vez declarada.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3463.
 
-No podrá ejercitarse ninguna acción contradictoria del dominio del inmueble o de derecho reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demande de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embrago o se siguió el procedimiento a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3464.
 
-No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3465.
 
-La inscripción de los título en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3466.
 
-Sólo se registrarán:
-
-I.- Los testimonios de escritura pública u otros documentos auténticos;
-
-II.- Las sentencia y providencias judiciales certificadas legalmente;
-
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos halla la constancia de que el registrador, la autoridad municipal o el juez del lugar se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3467.
 
-El interesado presentará el título que va a ser registrado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, en plano o croquis de esas fincas.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3468.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 3470. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3469.
 
-En el caso a que se refiere la parte final del artículo anterior, el registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
-
-Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3470.
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
-
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título o a la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
-
-II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
-
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
-
-IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
-
-V.- Los nombres, edades, domicilio y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
-
-VI.- La naturaleza del acto o contrato;
-
-VII.- La fecha del título y el funcionario que lo haya autorizado;
-
-VIII.- El día y la hora de la presentación del título en el Registro.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3471.
 
-El registrado que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3472.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3473.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que se ha registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido un derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que se estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el Registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionen en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 3466, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3474.
 
-Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
-
-I.- Si rehusan sin motivo legal o retardan sin causa justificada la inscripción de los documentos que les sean presentados;
-
-II.- Si rehusan expedir con prontitud los certificados que se les pidan;
-
-III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no le sean imputables.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3475.
 
-En los casos de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado al encargado del Registro, a fin de que pueda servirles de prueba en el juicio correspondiente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3476.
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrado en tal fecha y bajo tal número.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3477.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deban llenar las inscripciones.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3478.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1327, por no estar inscrita en el Registro la propiedad de los bienes a favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
-
-La información se recibirá con citación del Ministerio Público, del respectivo registrador de la propiedad y de los colindantes.
-
-Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
-
-No se recibirá la información sin que previamente se haya dado una amplia publicidad, por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
-
-Comprobada debidamente la posesión el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita, previa su protocolización de acuerdo con los que disponga el Código de Procedimientos Civiles, en el Registro Público.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3479.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro a favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
-
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
-
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscrita como acta para producir la prescripción al concluir el plazo de cinco años, contados desde la misma inscripción.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3480.
 
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además, las siguientes:
-
-Los nombres de los testigos que hayan declarado; el resultado de las declaraciones, y la resolución judicial que ordene la inscripción.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3481.
 
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluído y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción, y si ya estuviere hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
-
-Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3482.
 
-Transcurrido el plazo fijado en la parte final del artículo 3479, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga, una vez protocolizada de acuerdo con lo que disponga el Código de Procedimientos Civiles, en el Registro la inscripción de dominio correspondiente.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3483.
 
-No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3484.
 
-Las inscripciones no se extinguen en cuanto a tercero, sino por cancelación, o por el Registro de la transmisión del dominio, o derecho real inscrito a favor de otra persona.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3485.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
-
-Tratándose de derechos reales distintos de la propiedad, la cancelación podrá hacerse por renuncia unilateral, que haga el titular del derecho, por medio de documento auténtico, siempre y cuando no reporte ese derecho ningún gravamen a favor de otro, caso en el cual, será menester la conformidad de éste, expresada en forma indubitable.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3486.
 
-La cancelación de las inscripciones podrá ser total o parcial.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3487.
 
-Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
-
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II.- Cuando se extinga también por completo el derecho inscrito;
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV.- Cuando se declare la nulidad de la inscripción;
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2582;
-
-VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3488.
 
-Podrá pedirse y deberá decretarse en su caso, la cancelación parcial:
-
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
-
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3489.
 
-Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3490.
 
-Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3491.
 
-Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3492.
 
-Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3493.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho a favor de sus representados, en el caso de pago o sentencia judicial.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3494.
 
-La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
-
-III.- Por ofrecimiento de pago y consignación del importe de los títulos hechos de acuerdo con las disposiciones relativas.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3495.
 
-Las inscripciones de hipotecas constituídas con el objetivo de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3496.
 
-Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimiento Civiles.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3497.
 
-Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3498.
 
-Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por que se hace la cancelación y su fecha.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3499.
 
-Las inscripciones preventivas se cancelarán, no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ###### Art. 3500.
 
-Podrán pedir la cancelación de un registro las partes que hayan intervenido directamente en el acto o contrato de cuya inscripción se trate, y cualquiera otra persona que resulte perjudicada por esta inscripción; debiendo tramitarse la solicitud respectiva en forma de incidente, cuando la cuestión surja entre las partes y lo inscrito sea una demanda, de un embargo o de cualquier otro acto judicial, que no sea una sentencia; y en juicio sumario en todos los demás casos, salvo que alguna disposición especial establezca otra cosa.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -18548,3 +18424,15 @@ Los asuntos que se encuentren en trámite al entrar en vigor la presente Ley, se
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+B.O. 31 DE DICIEMBRE DE 1992.
+
+SE TRANSCRIBEN UNICAMENTE TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Catastro del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 52, Sección XV, de fecha 29 de diciembre de 1983 y sus reformas. Asimismo, se abroga el Acuerdo del Congreso del Estado, de fecha 12 de diciembre de 1904, que aprobó el Reglamento del Título XXIII, Libro 3o. del Código Civil, formado por el Ejecutivo, en uso de la facultad que le otorga la fracción II, artículo 73 de la Constitución Política del Estado, publicado en el Periódico Oficial "La Constitución", números 56, 57 y 58, de fechas 24, 27 y 29 de diciembre de 1904, así como sus reformas; la Ley número 100 que contiene el Reglamento del Registro Público de la Propiedad para el Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, alcance al número 11, de fecha 8 de agosto de 1973 y la Ley número 17 que suspende la aplicación del Reglamento del Registro Público de la Propiedad, derogando los artículos Primero y Séptimos Transitorios de la Ley número 100 de 25 de julio de 1973, publicada en el Boletín Oficial del Gobierno del Estado, número 40, de fecha 18 de mayo de 1974; se derogan los artículos del 3453 al 3500 del Código Civil para el Estado de Sonora, y se derogan las demás disposiciones que se opongan a la presente Ley.
