@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1988-05-20"
+last_updated: "1989-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -277,13 +277,13 @@ VIII.- Calificar la validez de las elecciones de los ayuntamientos, consignando 
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga.
+IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
 
 X.- Hacer la declaratoria de haber resultado electos senadores por el Estado, los ciudadanos que hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado.
+XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado;
 
 XII.- Revisar anualmente las cuentas del Estado y de los Municipios y examinarlas cuando se estime conveniente;
 
@@ -291,7 +291,9 @@ XIII.- Vigilar por medio de una Comisión de su seno el funcionamiento de la Con
 
 XIV.- Nombrar y remover al Contador Mayor de Hacienda y a los empleados de esa dependencia;
 
-XV.- Aprobar o rechazar los nombramientos de los Magistrados al Tribunal Superior de Justicia, que sean propuestos por el Ejecutivo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+
+XV.- Resolver, sobre la designación o ratificación de Magistrados del Tribunal Superior de Justicia, en los términos de los Artículos 59 y 60 de esta Constitución;
 
 XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
 
@@ -313,11 +315,11 @@ XXIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y los Ayuntam
 
 XXIV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 94 de esta Constitución.
 
-Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren.
+Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución.
+XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
 
 XXVI.- Fijar y Modificar la extensión del territorio que corresponda a los municipios, por voto de las dos tercias partes de los diputados presentes, suprimir alguno o crear otro nuevo;
 
@@ -327,15 +329,15 @@ XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servici
 
 XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
-
-XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas.
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
-
-XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
 XXXII.- Formar su Reglamento Interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
 
@@ -429,7 +431,7 @@ II.- Conceder las licencias y permisos de la competencia del Congreso;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-III.- Dictaminar sobre las Modificaciones a los Presupuestos de Ingresos Municipales, que propongan los respectivos Ayuntamientos.
+III.- Dictaminar sobre las Modificaciones a los Presupuestos de Ingresos Municipales, que propongan los respectivos Ayuntamientos;
 
 IV.- Otorgar o negar su aprobación a los nombramientos de los Magistrados que haga el Ejecutivo;
 
@@ -517,7 +519,7 @@ Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus faculta
 
 ### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
 
-(REUBICADO Y REFORMADO, P.O. 20 DE MAYO DE 1988)
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 49.
 
@@ -547,7 +549,9 @@ X.- Nombrar y remover libremente al Secretario de Gobierno, al Procurador Genera
 
 XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
-XII.- Hacer la designación de los Magistrados del Tribunal Superior de Justicia, sometiéndola a la aprobación del Congreso o de la Comisión Permanente, en su caso;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+
+XII.- Hacer la designación o ratificación de los Magistrados del Tribunal Superior de Justicia, en los términos de los Artículos 59 y 60 de esta Constitución;
 
 XIII.- Expedir los títulos profesionales con arreglo a las leyes y reconocer la validez de los que se expidan, en otras Entidades de la Federación, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución de los Estados Unidos Mexicanos;
 
@@ -615,9 +619,7 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 ###### ARTICULO 55.
 
-La función jurisdiccional para resolver las controversias que se susciten entre los particulares con las autoridades de la Administración Pública Estatal o Municipal, estará a cargo del Tribunal o de lo contencioso administrativo del Estado, que será autónomo e independiente de cualquier autoridad administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
-
-La Ley Orgánica del Tribunal de lo Contencioso Administrativo, que al efecto se expida, establecerá su competencia, las normas para su organización y funcionamiento; el procedimiento y los recursos contra las resoluciones que dicte.
+La función jurisdiccional para resolver controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal o Municipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado, que será autónomo en sus fallos e independiente de cualquier Autoridad Administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
 
 ### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
 
@@ -633,35 +635,47 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 57.
 
-El Poder Judicial del Estado, se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz, y Jurados.
+El Poder Judicial del Estado, se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz y Jurados.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+Para garantizar su independencia económica contará con Presupuesto propio, el que administrará y ejercerá, en los términos que fijen las Leyes respectivas. Este no podrá ser inferior al aprobado por el Congreso para el Ejercicio Anual anterior y alcanzará por lo menos, el 2% del total del Presupuesto de Egresos para el Ejercicio correspondiente a las Dependencias del Gobierno del Estado. El Congreso podrá reducir, por causa justificada y fundada, el porcentaje indicado.
+
+Las partidas extraordinarias y de emergencia que se determinen como tales, no se tomarán en cuenta para fijar el porcentaje a que se refiere este Artículo.
+
+Contará y administrará igualmente, con los recursos que se señalan para el Fondo de Administración de Justicia, en las Leyes respectivas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 58.
 
-El Tribunal Superior de Justicia estará integrado por once Magistrados Propietarios como mínimo, y seis Suplentes. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en el cargo, pudiendo ser reelecto.
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Propietarios como mínimo y seis Suplentes. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 59.
 
-Los nombramientos de los Magistrados del Tribunal Superior, serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso o de la Comisión Permanente, en su caso, quien otorgará o negará esa aprobación, dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos; sin aprobación expresa o tácita, no podrán tomar posesión del cargo. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente Período Ordinario de Sesiones. En éste Período Ordinario de Sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia, serán hechos por el Gobernador del Estado de entre quienes integren la lista que le presente el Pleno del Tribunal, que deberá incluir a todos los aspirantes que hayan resultado aprobados en el examen de méritos, practicados al efecto mediante Convocatoria pública que expida dicho Tribunal; examen que se practicará ante un Jurado integrado por un Representante de cada uno de los tres Poderes del Estado y conforme al Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+Los nombramientos que haga el Gobernador, serán sometidos a la aprobación del Congreso o de la Comisión Permanente, en su caso.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 60.
 
-Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo seis años, pudiendo ser ratificados; si lo fueren, serán inamovibles y sólo podrán ser privados de sus puestos en los términos que determine ésta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Magistrados del Tribunal Superior de Justicia, durarán en su Encargo seis años a partir de su nombramiento, pudiendo ser ratificados, y si lo fueren, serán inamovibles y sólo podrán ser privados de sus puestos en los términos que determine esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-Los nombramientos de Magistrados y Jueces, serán hechos preferentemente, entre aquellas personas que hayan prestado o presten sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Seis meses antes de que concluya el período para el que fue designado un Magistrado, en caso de existir oposición para su ratificación, el Gobernador del Estado fundará y motivará su resolución y la turnará al Congreso del Estado y a la Comisión Permanente, para que oyendo al Magistrado en su defensa, resuelva en definitiva.
 
-Los Magistrados y Jueces percibirán una remuneración adecuada e irrenunciable, con objeto de asegurar independencia y decoro en el desempeño de la función y no podrá ser disminuida durante su encargo, así mismo, deberá incorporárseles al Sistema de Seguridad Social.
+La resolución del Congreso deberá dictarse en un término no mayor de cinco días, contados a partir de la fecha en que el Ejecutivo la turnó a éste.
 
-La Ley Orgánica del Tribunal Superior de Justicia, garantizará la Independencia de Magistrados y Jueces en el desempeño de sus funciones, los que sólo deben sometimiento a la Ley. Establecerá condiciones de ingreso a través de exámenes de admisión o concurso de méritos, de formación y ascenso mediante escalafón y cursos que impartirá el Instituto de Especialización Judicial.
+Si pasados los cinco días el Congreso no resuelve al respecto, se tendrá por ratificado al Magistrado en su Encargo.
+
+Si el Congreso confirma la resolución del Ejecutivo, el Magistrado cesará en sus funciones a la conclusión del período para el que fue designado y se procederá a realizar un nuevo nombramiento en los términos del Artículo 59, de esta Constitución.
+
+De no existir oposición del Gobernador del Estado, expresada en los términos antes señalados, el Magistrado se considerará, al cumplirse los seis años en el cargo, automáticamente ratificado.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
@@ -677,7 +691,7 @@ Para ser nombrado Magistrado del Tribunal Superior de Justicia, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener mas de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
 
 III.- Poseer el día de la elección, con antigüedad mínima de cinco años, Título Profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello;
 
@@ -685,15 +699,13 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
 
 ###### ARTICULO 63.
 
-Cuando ocurra la falta absoluta de un Magistrado, el Gobernador someterá un nuevo nombramiento a la aprobación del Congreso o de la Comisión Permanente, en su caso.
+Cuando ocurra la falta absoluta de un Magistrado, el Gobernador someterá un nuevo nombramiento a la aprobación del Congreso o de la Comisión Permanente, en su caso, ajustándose a lo establecido en el Artículo 59, de esta Constitución.
 
-El Tribunal Superior enviará al Poder Ejecutivo, una terna de candidatos que podrán ser tomados en cuenta en la designación correspondiente.
-
-Los Magistrados Suplentes cubrirán las faltas temporales de los Propietarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+Los Magistrados Suplentes, cubrirán las faltas temporales de los Propietarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
@@ -713,7 +725,7 @@ I.- Designar a los Jueces de Primera Instancia y de Paz;
 
 II.- Nombrar y remover al personal y empleados del Poder Judicial, sujetándose a lo dispuesto por las Leyes respectivas;
 
-III.- Conocer de los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última instancia ordinaria;
+III.- Conocer de los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última instancia ordnaria;
 
 IV.- Resolver las cuestiones de competencia y las de acumulación que se susciten entre los Jueces, de conformidad con las Leyes respectivas;
 
@@ -721,7 +733,7 @@ V.- Resolver sobre las recusaciones y excusas de los Magistrados y Secretarios d
 
 VI.- Conocer de los juicios de responsabilidad que hayan de seguirse a los funcionarios públicos que gocen de fuero, previa declaración que se haga de haber lugar a formación de causa;
 
-VII.- Consignar a los Jueces de Primera Instancia y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran;
+VII.- Consignar a los jueces de Primera Instancia y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran;
 
 VIII.- Conceder licencias a los funcionarios y empleados del Poder Judicial, y resolver acerca de las renuncias de los mismos, de acuerdo con la Ley respectiva; y
 
@@ -849,21 +861,21 @@ Los Municipios estarán investidos de personalidad jurídica y manejarán su pat
 
 Los Ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado los Bandos de Policía y Buen Gobierno y los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
 
-Los Municipios, con el concurso del Estado, cuando así fuere necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos:
+Los Municipios, con el concurso del Estado, cuando así fuera necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos:
 
-a).- Agua Potable y Alcantarillado.
+a).- Agua Potable y Alcantarillado;
 
-b).- Alumbrado Público.
+b).- Alumbrado Público;
 
-c).- Limpia.
+c).- Limpia;
 
-d).- Mercados y Centrales de Abasto.
+d).- Mercados y Centrales de Abasto;
 
-e).- Panteones.
+e).- Panteones;
 
-f).- Rastro.
+f).- Rastro;
 
-g).- Calles, Parques y Jardines.
+g).- Calles, Parques y Jardines;
 
 h).- Seguridad Pública y Tránsito e
 
@@ -875,13 +887,13 @@ i).- Los demás que la Legislatura Local determine según sus condiciones territ
 
 Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor, y en todo caso:
 
-a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
+a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles;
 
-Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
 
-b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determine por la Legislatura del Estado.
+b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determine por la Legislatura del Estado;
 
-c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo;
 
 No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren los Incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del Dominio Público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
 
@@ -917,7 +929,7 @@ Son facultades y obligaciones de los Ayuntamientos:
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior.
+I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior;
 
 II.- Cuidar de la eficacia de los servicios públicos de su jurisdicción.
 
@@ -971,7 +983,7 @@ I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Art�
 
 No procede el juicio político por la mera expresión de ideas.
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal;
 
 III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
@@ -999,7 +1011,7 @@ El Congreso del Estado concurriendo cuando menos las dos terceras partes del nú
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Secretario General de Gobierno, Procurador General de Justicia del Estado y Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de sus miembros presentes en sesión cuando se refiera a los demás servidores públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Secretario General de Gobierno, Procurador General de Justicia del Estado y Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de sus miembros presentes en sesión cuando se refiera a los demás servidores públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -1386,3 +1398,19 @@ Los Magistrados nombrados por el Ejecutivo del Estado, aprobados por el Congreso
 ###### ARTICULO CUARTO.
 
 Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
+
+P.O. 30 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 193
+
+###### ARTICULO UNICO.
+
+Las reformas a que se refiere el presente Decreto, entrarán en vigor, a los noventa días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 195.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
