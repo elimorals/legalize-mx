@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1993-10-24"
+last_updated: "1994-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,19 +23,83 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES -- ANTES LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DE 1986 --
 
-LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
+LEY QUE REGULA LOS SERVICIOS DE SEGURIDAD QUE SE OTORGAN A INSTITUCIONES Y PARTICULARES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
 
-Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
+Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz-Llave, el sábado 20 de julio de 1991.
 
-RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, y en uso de la facultad que le concede la fracción II del Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente:
+Que la H. Legislatura del Estado se ha servido expedir la siguiente:
 
-LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
+LEY
+
+Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+
+La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le conceden los artículos 68, fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
+
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+
+LEY N° 117
+
+QUE REGULA LOS SERVICIOS DE SEGURIDAD QUE SE OTORGAN A INSTITUCIONES Y PARTICULARES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+###### ARTICULO 1°.
+
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+
+###### ARTICULO 2°.
+
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+
+###### ARTICULO 3°.
+
+Las personas físicas o morales de carácter privado, sólo podrán prestar los siguientes servicios:
+
+I.- La custodia y traslado de valores.
+
+II.- Exclusivamente la vigilancia de inmuebles pertenecientes a particulares, realizada en el interior de los mismos. Lo dispuesto en esta fracción, no comprende los servicios de vigilancia que se realizan en inmuebles abiertos al público, con el objeto de guardar el orden de las personas que a ellos asistan.
+
+Quienes presten estos servicios no deberán tener antecedentes penales.
+
+###### ARTICULO 4°.
+
+En la prestación de los servicios regulados por esta Ley se observará lo siguiente:
+
+I.- Las personas físicas o morales que presten estos servicios, requerirán autorización de la Secretaría General de Gobierno y estarán sujetos a la supervisión de la Dirección General de Seguridad Pública para los efectos de esta Ley.
+
+II.- Los vehículos destinados al servicio, deberán ostentar visiblemente su denominación, logotipo o escudo, número que los identifique y placas de circulación.
+
+III.- Las personas encargadas de llevar a cabo la vigilancia, deberán portar uniforme, que satisfaga las características y especificaciones que determine la Dirección General de Seguridad Pública.
+
+IV.- El personal deberá identificarse con la credencial que al efecto le sea expedida, la que en su caso, tendrá inserta la autorización para la portación de armas de fuego expedida por la Secretaría de la Defensa Nacional.
+
+V.- Se deberán utilizar sistemas adecuados y apegados a derecho. Los titulares serán responsables de que se lleve a cabo una evaluación constante, que permita conocer con objetividad el comportamiento, eficiencia y preparación del personal encargado de prestar directamente el servicio.
+
+###### ARTICULO 5°.
+
+El personal que cuente con la credencial que se señala en la fracción IV del artículo anterior, en la que se autorice la portación de armas, no podrá portar éstas, cuando se encuentre fuera de servicio.
+
+###### ARTICULO 6°
+
+A quien preste los servicios a que se refiere esta Ley, en contravención a la misma, se le sancionará con multa hasta por la cantidad equivalente a mil días de salario mínimo general vigente en la capital del Estado, en caso de reincidencia la multa se duplicará y de persistir la violación se ordenará la clausura.
+
+Corresponderá a la Secretaría de Finanzas y Planeación, por conducto de la Dirección General de Ingresos, aplicar las multas; para ello, cuando tenga conocimiento de una violación, lo comunicará al presunto infractor, quien tendrá cinco días para alegar y probar lo que a su derecho convenga, concluido el plazo se dictará la resolución que proceda.
+
+###### ARTICULO 7°.
+
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+
+###### ARTICULO 8°.
+
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+
+###### ARTICULO 9°.
+
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -91,27 +155,21 @@ La Hacienda Pública Municipal no puede afectarse a un fin específico. En el ca
 
 ###### ARTICULO 10.
 
-A excepción de los ingresos provenientes de Aprovechamientos, ninguna autoridad fiscal del Municipio puede modificar la cuantía de los créditos hacendarios a favor del Ayuntamiento.
-
-Solo el Presidente Municipal está facultado para modificar el monto de un crédito fiscal proveniente de Aprovechamiento.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 11.
 
-Los créditos hacendarios a favor del Ayuntamiento, deberán liquidarse en los términos señalados por esta Ley. El presidente Municipal podrá acordar el otorgamiento de un plazo o plazos mayores a los previstos por este Ordenamiento sin que la concesión exceda al ejercicio fiscal correspondiente.
-
-También queda facultado para establecer mediante convenio, una cuota fija como importe del pago de un impuesto o un derecho que deba calcularse por medio de tasa, siempre y cuando no sea posible su liquidación en los términos previstos por esta Ley o cuando no compense el sostenimiento del interventor, inspector o recaudador que sea indispensable designar.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 12.
 
-El Tesorero y los Directores de los organismos fiscales autónomos quedan facultados para aplicar el procedimiento económico coactivo que previene el Código Fiscal del Estado.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
 ###### ARTICULO 13.
 
-En lo no previsto por este Ordenamiento, tanto sustantiva como adjetivamente, se estará a la Ley de Coordinación Fiscal y los convenios celebrados conforme a la misma por el Gobierno del Estado de Aguascalientes; a la Ley de Hacienda del Estado, Código Fiscal del Estado, los principios Generales del Derecho y la Jurisprudencia.
+(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
 
-Las autoridades fiscales del Municipio podrán aplicar la analogía para resolver situaciones de procedimiento fiscal.
+TRANSITORIOS:
 
 ###### ARTICULO 14.
 
@@ -1597,60 +1655,54 @@ Impuestos, Derechos y demás ingresos causados en ejercicios fiscales anteriores
 
 ###### ARTICULO PRIMERO.
 
-Se derogan todos los ordenamientos fiscales que se opongan a la presente Ley.
+La presente Ley entrará en vigor el día siguiente a su publicación en la "Gaceta Oficial" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-La presente Ley de Hacienda se suspenderá en sus efectos en lo que contravengan a la Ley del Impuesto al Valor Agregado y al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, celebrado entre el Estado de Aguascalientes y la Secretaría de Hacienda y Crédito Público.
+Se derogan todas las disposiciones que se opongan a esta Ley.
 
-Al Ejecutivo para su sanción.
+###### ARTICULO TERCERO.
 
-Dada en el Salón de Sesiones del H. Congreso del Estado, a los veintiséis días del mes de diciembre de mil novecientos ochenta y cinco.- D.P.- Ing. Ignacio Ruelas Olvera.- D.S., Profra. Ofelia C. de Campillo.- D.S., Profr. Antonio Murillo Adame.- Rúbricas.
+Las Secretarías General de Gobierno y de Finanzas y Planeación, en el ámbito de su competencia, realizarán las acciones necesarias para el cumplimiento de esta Ley.
 
-Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+###### ARTICULO CUARTO.
 
-SUFRAGIO EFECTIVO. NO REELECCION.
+Las personas físicas o morales que al entrar en vigor esta Ley, se encuentren prestando los servicios regulados en la misma, no requerirán de la autorización a que se refiere la fracción I del artículo 4° y contarán con plazo de tres meses para cumplir con los demás requisitos.
 
-DIPUTADO PRESIDENTE,
+DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los dieciséis días del mes de julio de mil novecientos noventa y uno.- LIC. OLGA LIDIA ROBLES AREVALO.- Rúbrica.- Diputada Presidente.- C. JOSE ISABEL SANCHEZ BAUTISTA.- Rúbrica.- Diputado Secretario".
 
-Ing. Ignacio Ruelas Olvera.
-
-DIPUTADA SECRETARIA,
-
-Profra. Ofelia C. de Campillo.
-
-DIPUTADO SECRETARIO,
-
-Profr. Antonio Murillo Adame.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Aguascalientes, Ags., diciembre 27 de 1985.
-
-Rodolfo Landeros Gallegos.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-Lic. Joaquín Cruz Ramírez.
+En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los dieciocho días del mes de julio de mil novecientos noventa y uno.- DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- LIC. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 14 DE AGOSTO DE 1988.
+G.O. 18 DE MARZO DE 2003.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-P.O. 21 DE OCTUBRE DE 1990.
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
 
-P.O. 24 DE FEBRERO DE 1991.
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz-Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
 
-P.O. 3 DE MARZO DE 1991.
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
-P.O. 24 DE OCTUBRE DE 1993.
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+G. O. 12 DE AGOSTO DE 2005
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan los artículos 1, 2, 7, 8, 9, 10, 11, 12 y 13, de la Ley No. 117 que regula los servicios de seguridad que se otorgan a Instituciones y Particulares en el Estado de Veracruz -Llave, (sic) publicada en la Gaceta Oficial de fecha 20 de Julio de 1991, así como, todas sus reformas.
+
+Se deroga el artículo 50 de la Ley de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, así como, las disposiciones que se opongan a la presente Ley.
+
+Tercero. El Instituto deberá expedir, dentro de los 120 días siguientes a la entrada en vigor de esta Ley, su Reglamento Interior y, en un plazo de 180 días los Manuales de Organización; de Procedimientos; de Atención al público, así como el Reglamento General del Policía respectivamente.
+
+Cuarto. Los recursos humanos, materiales y financieros de la Dirección General del Sistema Estatal de Seguridad Industrial, Bancaria y Comercial se adscribirán e incorporarán al patrimonio del Instituto de la Policía Auxiliar y Protección Patrimonial, previo balance general y dictamen que guarden los estados financieros que emita la Contraloría General del Estado.
+
+Quinto. El armamento, propiedad de la Secretaria de Seguridad Pública del Estado y el equipo de radio comunicación del Consejo Estatal de Seguridad Pública que utiliza actualmente el Sistema de Seguridad Industrial, Bancaria y Comercial seguirán siendo utilizados en calidad de comodato por el Instituto de la Policía Auxiliar y Protección Patrimonial.
