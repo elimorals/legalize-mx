@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-educacion-preparatoria-del-estado-3832"
 country: "mx"
 rank: "reglamento"
 publication_date: "1943-05-27"
-last_updated: "1947-09-27"
+last_updated: "1951-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY DE EDUCACION PREPARATORIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1951.
 
 Reglamento publicado en la Segunda Sección de Periódico Oficial del Estado de Campeche, el jueves 27 de mayo de 1943.
 
@@ -805,15 +805,27 @@ El alumno que faltare al examen parcial, salvo en caso de enfermedad u otro impe
 
 Terminados los exámenes parciales, se librará gratuitamente a cada alumno un boletín con las calificaciones que hubiere obtenido.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
+
 ###### Art. 71.
 
-Los exámenes ordinarios se celebrarán por un Jurado integrado por tres o cinco miembros designados por el Director del plantel entre los profesores del mismo o personas ilustradas de la población.
+Los exámenes ordinarios, así como los extraordinarios y de revalidación, se celebrarán por un jurado integrado por el profesor de la asignatura y de personas más, de reconocida competencia, designadas por el Director del plantel, que deberán reunir los mismos requisitos que legalmente se exigen para hacer profesor de la institución.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+Fungirá como Presidente del Jurado el profesor de mayor antigüedad. Cuando el Director asista a ellos sea miembro o no del Jurado, presidirá este.
+
+Las decisiones de un Jurado, tanto en los exámenes a que se refiere este artículo como en los parciales son inapelables.
+
+De todo examen se levantará acta en el libro correspondiente, que suscribirán los miembros del Jurado y el Secretario del plantel, en que consten el lugar y la fecha, los nombres de dichos miembros y de los sustentantes, la clase de examen, la hora en que comenzó éste, el tiempo en que se hubiere efectuado el mismo, la asignatura sobre la que versó y la calificación obtenida por cada uno de los sustentantes, así como la especie de pruebas de que el examen hubiere constado.
+
+Cuando los sustentantes sean dos o más, se levantará una sola acta para todos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
 
 ###### Art. 72.
 
-Los exámenes ordinarios, que se sujetarán a la forma y término establecidos para los exámenes parciales, serán por asignaturas y por grupos no mayores de diez sustentantes, o individualmente, debiendo durar el tiempo que el jurado determine hasta quedar probada la capacidad o incapacidad de cada sustentante.
+Los exámenes ordinarios, que se sujetarán a la forma y términos establecidos para los exámenes parciales, serán por asignaturas y por grupos no mayores de diez sustentantes, o individualmente, debiendo durar el tiempo que el Jurado determine hasta quedar probada la capacidad o incapacidad de cada sustentante.
+
+Los exámenes extraordinarios y de revaloración serán individuales y deberán durar una hora. Los extraordinarios se sujetarán, además, a la forma y términos establecidos para los exámenes ordinarios.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1944)</small>
 
@@ -855,11 +867,11 @@ El profesor de cada asignatura deberá rendir informe por escrito de todos los a
 
 La escala de calificación será del 0 al 100, que corresponde: 60 a regular, 70 a bien, 80 a muy bien, 90 a perfectamente bien y 100 a excelente. La calificación mínima para ser aprobado en examen parcial, ordinario, extraordinario o de revaloración, es la de 60.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
 
 ###### Art. 80.
 
-Habrá en cada año escolar dos períodos de exámenes extraordinarios: el primero, comprendido en el primer mes de vacaciones de fin de cursos y el segundo, en el primer mes del período de trabajo escolar.
+Habrá en cada año escolar dos períodos de exámenes extraordinarios: el primero, comprendido en el primer mes de vacaciones de fin de cursos, y el segundo, en el segundo mes de las propias vacaciones. Fuera de estos períodos no se concederá exámenes extraordinarios a ningún alumno.
 
 ###### Art. 81.
 
@@ -887,29 +899,37 @@ I.- Los alumnos que obtengan nota inferior a la de 40;
 
 II.- Los alumnos que no alcancen la nota aprobatoria de 60 en más de dos asignaturas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
+
 ###### Art. 83.
 
-Los alumnos a que se refiere la fracción IV del artículo 81, deberán presentar los exámenes extraordinarios a que tienen derecho en el primer período de exámenes extraordinarios a que se contrae el artículo 80.
+Los alumnos que se encuentren comprendidos en alguno de los casos a que se refiere el artículo 81, deberán presentar los exámenes extraordinarios a que tienen derecho, en el primer período de exámenes extraordinarios a que se contrae el artículo 80.
 
-Si no obtuvieren nota aprobatoria en ellos o no los sustentaren, tendrán derecho sinembargo (sic) a presentarlos en el segundo período de exámenes extraordinarios a que se refiere mencionando el artículo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
 
 ###### Art. 84.
 
-Los alumnos a que se contraen las fracciones I, II y III del artículo 81, sólo podrán sustentar exámenes extraordinarios en el segundo período de exámenes extraordinarios a que se refiere el artículo 80.
+Los alumnos que no obtuvieren nota aprobatoria en los exámenes extraordinarios que presentaren en el primer período de exámenes extraordinarios a que se refiere el artículo 80, o no los sustentaren en la fecha y hora fijadas, tendrán derecho a ser admitidos a nuevos exámenes extraordinarios en el segundo período de exámenes extraordinarios a que se contrae el propio artículo, siempre que entre los dos exámenes extraordinarios de la misma asignatura transcurran, cuando menos, treinta días de intervalo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
 
 ###### Art. 85.
 
-Exámenes de revaloración son los que se conceden a ex-alumnos de alguna de las escuelas preparatorias oficiales del Estado, de la Federación o de las de los demás Estados, que, por cambios o diferencias en los planes de estudios, no puedan ingresar como alumnos al año inmediato por deber asignaturas de curso o cursos anteriores.
+Son exámenes de revaloración:
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1945)</small>
+I.- Los que se conceden a ex-alumnos de alguna de las escuelas preparatorias oficiales del Estado, de la Federación o de las de los demás Estados, que, por cambios o diferencias en los planes de estudios, no puedan ingresar como alumnos al año inmediato por deber asignaturas de cursos o cursos anteriores.
+
+II.- Los que se conceden a alumnos o ex alumnos de alguna de las escuelas preparatorias oficiales del Estado de la Federación o de las de los demás Estados, que no han terminado un bachillerato cualquiera, para pagar las asignaturas que les falten para poder continuar como alumnos sus estudios en otro Bachillerato.
+
+III.- Los que se conceden a ex-alumnos de las escuelas preparatorias oficiales del Estado que han terminado los estudios correspondientes a un Bachillerato cualquiera, para pagar las asignaturas que les falten para completar otro Bachillerato.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1951)</small>
 
 ###### Art. 86.
 
-Habrá en cada año escolar un período de exámenes de revaloración, para que los estudiantes comprendidos en el caso a que se refiere el artículo anterior puedan regularizar su situación presentando exámenes de las materias que adeudan e ingresar como alumnos al curso inmediato.
+Los exámenes de revaloración se verificarán en el período comprendido en las vacaciones de fin de cursos de cada año escolar. Fuera de este período no se concederán exámenes de revaloración a ninguna persona.
 
-Este período quedará comprendido entre el 1o. y el 30° de septiembre.
+Durante dicho período, si los interesados no obtuvieren nota aprobatoria en los exámenes correspondientes, o no los sustentaren en la fecha y hora fijadas, tendrán derecho a ser admitidos a nuevos exámenes de revaloración siempre que entre los dos exámenes de la misma asignatura transcurran, cuando menos treinta días de intervalo.
 
 ###### Art. 87.
 
@@ -1484,3 +1504,7 @@ UNICO.- El presente decreto entrará en vigor desde la fecha de su publicación 
 P.O. 27 DE SEPTIEMBRE DE 1947.
 
 UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1951.
+
+UNICO.-El presente decreto entrará en vigor en la fecha de su publicación en el Periodo Oficial del Gobierno del Estado.
