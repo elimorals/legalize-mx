@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2000-05-31"
+last_updated: "2001-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2001.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -2017,6 +2017,22 @@ Cuando así se determine por acuerdo del Secretario, los establecimientos en que
 ###### ARTICULO 199.
 
 Corresponde a los Gobiernos de las Entidades Federativas ejercer la verificación y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas oficiales mexicanas que al efecto se emitan.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2001)</small>
+
+###### ARTICULO 199 Bis.
+
+Las instituciones que tengan por objeto recibir la donación de alimentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición y alimentación de los sectores más desprotegidos del país, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
+
+I. Tener establecimientos que reúnan las condiciones sanitarias adecuadas para el manejo de alimentos;
+
+II. Contar con personal capacitado y equipo para la conservación, análisis bacteriológico, manejo y transporte higiénico de alimentos;
+
+III. Realizar la distribución de los alimentos oportunamente, a fin de evitar su contaminación, alteración o descomposición, y
+
+IV. Adoptar las medidas de control sanitario, que en su caso, les señale la autoridad.
+
+Se considerará responsable exclusivo del suministro de alimentos que por alguna circunstancia se encuentren en estado de descomposición y que por esta razón causen un daño a la salud, a la persona o institución que hubiere efectuado su distribución.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4196,11 +4212,13 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376 Bis.
 
@@ -4211,8 +4229,6 @@ El registro sanitario a que se refiere el artículo anterior se sujetará a los 
 I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 377.
 
@@ -4996,6 +5012,14 @@ Al que introduzca al territorio nacional, transporte o comercie con animales viv
 
 A quien adultere, contamine, altere o permita la adulteración, contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos o cualquier otra substancia o producto de uso o consumo humanos, con inminente peligro para la salud, se le aplicará de uno a nueve años de prisión y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2001)</small>
+
+###### ARTICULO 464 Bis.
+
+Al que por sí o por interpósita persona, teniendo conocimiento o a sabiendas de ello, autorice u ordene, por razón de su cargo en las instituciones alimentarias a que se refiere el artículo 199-Bis de este ordenamiento, la distribución de alimentos en descomposición o mal estado que ponga en peligro la salud de otro, se le impondrá la pena de seis meses a dos años de prisión o pena pecuniaria de 500 a 5 mil días de salario mínimo general vigente en el Distrito Federal o la zona económica de que se trate.
+
+Cuando la conducta descrita en el párrafo anterior sea producto de negligencia, se impondrá hasta la mitad de la pena señalada.
+
 ###### ARTICULO 465.
 
 Al profesional, técnico o auxiliar de las disciplinas para la salud y, en general, a toda persona relacionada con la práctica médica que realice actos de investigación clínica en seres humanos, sin sujetarse a lo previsto en el Título Quinto de esta Ley, se le impondrá prisión de uno a ocho años, suspensión en el ejercicio profesional de uno a tres años y multa por el equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
@@ -5135,3 +5159,9 @@ QUINTO. En tanto entra en funciones el Centro Nacional de Trasplantes, la Secret
 D.O.F. 31 DE MAYO DE 2000.
 
 Unico.- Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ENERO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
