@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1977-07-14"
+last_updated: "1979-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1979.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -649,7 +649,9 @@ Todos los litigantes en el primer escrito o en la primera diligencia judicial, d
 
 Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promueven.
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se le harán por el Periódico Oficial del Estado o por cédula fijada en las puertas del juzgado en los lugares en donde no se publique el Periódico Oficial del Estado; si faltare a la segunda parte no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+
+Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones aún las que conforme a las reglas generales deban hacerse personalmente se le harán por cédula fijada en las puertas del juzgado; si faltare a la segunda parte no se hará notificación alguna a la persona contra quien promueve hasta que se subsane la omisión.
 
 ###### ARTICULO 113.
 
@@ -1019,11 +1021,13 @@ Recibidos los autos en el tribunal que debe decidir la competencia citará a las
 
 Decidida la competencia enviará los autos al juez declarado competente, con testimonio de la sentencia de la cual remitirá otro tanto al juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 167.
 
-El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro, tampoco podrá emplearlos sucesivamente.
+El litigante que hubiere optado por uno de los medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlos sucesivamente.
 
-Cuando no proceda la inhibitoria debe pagar las costas al que la promovió y una multa hasta de $300.00 que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
+Cuando no proceda la inhibitoria debe pagar las costas el que las promovió y una multa hasta de tres mil pesos que, según la importancia del negocio, le impondrá el superior en favor del colitigante.
 
 ###### ARTICULO 168.
 
@@ -1185,9 +1189,11 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para solo este efecto.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 189.
 
-Si se declarare improcedente o no probada la causa de recusación se impondrá al recusante una multa de uno a veinte pesos, si se trata de juez auxiliar o municipal; de veinte a cincuenta si el recusado fuere un juez menor; de cincuenta a doscientos si fuere un juez de lo civil y de doscientos a cuatrocientos si fuere un magistrado. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, lo que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario al Fisco.
+Si se declarare improcedente o no probada la causa de recusación se impondrá al recusante una multa hasta de cien pesos, si se trata de Juez Auxiliar o Municipal; hasta de mil pesos si el recusado fuere un Juez Menor; hasta de dos mil pesos si fuere un Juez de lo Civil y hasta de cuatro mil pesos si fuere un Magistrado. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario al fisco.
 
 ###### ARTICULO 190.
 
@@ -1605,9 +1611,11 @@ Resueltas que sean, continuará en su caso el curso seguido del juicio.
 
 La declinatoria de jurisdicción se propondrá ante el juez pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de diez días comparezcan ante éste, el cual en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión y mandará sin retardo los autos al juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso la demanda y la contestación se tendrán como presentadas ante éste.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+
 ###### ARTICULO 263.
 
-Cuando no proceda la declinatoria, debe pagar las costas causadas el que la promovió y una multa hasta de trescientos pesos que según la importancia del litigio, la impondrá el superior a favor del colitigante.
+Cuando no proceda la declinatoria, debe pagar las costas causadas el que la promovió y una multa hasta de tres mil pesos que según la importancia del litigio, la impondrá el superior en favor del colitigante.
 
 ###### ARTICULO 264.
 
@@ -2573,9 +2581,13 @@ De la sentencia ejecutoriada.
 
 Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
-Causan ejecutoria por ministerio de ley:
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de mil pesos;
+CAUSA EJECUTORIA POR MINISTERIO DE LEY:
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1979)</small>
+
+I.- Las sentencias prounciadas (sic) en juicio cuyo interés no pase de cinco mil pesos;
 
 II.- Las sentencias de segunda instancia;
 
@@ -2623,7 +2635,11 @@ Se tramitarán sumariamente:
 
 I.- Todos los incidentes surgidos en los juicios ordinarios y universales.
 
-II.- Los juicios de alimentos, ya sean provisionales o los que se deban con el carácter de estabilidad por contrato, por testamento o por disposición de la Ley; ya tengan por objeto el pago o sólo el aseguramiento;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1979)</small>
+
+II.- Los juicios de alimentos, ya sean provisionales o los que se deban con el carácter de estabilidad por contrato, por testamento o por disposición de la Ley; ya tengan por objeto el pago o solo el aseguramiento.
+
+En todos estos casos, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estimare necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio;
 
 III.- Los juicios que versen cualquiera cuestión relativa a los contratos de arrendamiento o alquiler, depósito y comodato, aparecería (sic), transportes y hospedajes;
 
@@ -5948,5 +5964,19 @@ Las presentes reformas y adiciones se aplicarán solo a los asuntos que se inici
 Para determinar la competencia por razón de cuantía, se aplicarán las disposiciones vigentes en la fecha de la presentación de la demanda.
 
 ###### ARTICULO CUARTO.
+
+Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE JULIO DE 1979.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día en que se publique en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones se aplicarán solo a los asuntos que se inicien a partir de la vigencia de este Decreto.
+
+###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan a este Decreto.
