@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-estado-mayor-presidencial-473"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-04-04"
-last_updated: "1986-04-04"
+last_updated: "2004-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=473&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1985-03-24"
 
 REGLAMENTO DEL ESTADO MAYOR PRESIDENCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ESTADO MAYOR PRESIDENCIAL, PUBLICADO EN LA PRIMERA SECCION DEL DIARIO OFICIAL DE LA FEDERACION EL 23 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 4 de abril de 1986.
 
@@ -312,3 +314,13 @@ CUARTO.- El personal de los servicios del Ejército y Fuerza Aérea Mexicanos, a
 > <small>(F. DE E., D.O.F. 8 DE ABRIL DE 1986)</small>
 
 Dado en la residencia del Poder Ejecutivo Federal en la ciudad de México, Distrito Federal, a los 24 días del mes de marzo de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 23 DE ENERO DE 2004.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento del Estado Mayor Presidencial expedido el 24 de marzo de 1985, publicado en el Diario Oficial de la Federación el 4 de abril de 1986.
+
+Tercero.- Se derogan las disposiciones que se opongan al presente Reglamento.
