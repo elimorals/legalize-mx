@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-general-de-gobierno-10023"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-08-10"
-last_updated: "1994-08-10"
+last_updated: "1995-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1995.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de agosto de 1994.
 
@@ -62,6 +62,10 @@ Sub-Secretaría de Inspección, Prevención y Readaptación Social; y
 Sub-Secretaría de Asuntos Jurídicos.
 
 DIRECCIONES:
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1995)</small>
+
+General de Tránsito y Transporte
 
 De Gobierno;
 
@@ -245,7 +249,9 @@ Además de las atribuciones comunes de los Sub-secretarios, al Sub-Secretario Ge
 
 I.- Controlar operativamente las acciones inherentes al gabinete intersecretarial en materia de seguridad, como Secretario Técnico del mismo, de conformidad a las instrucciones que a este respecto exprese el Titular del Ejecutivo Estatal, a través del Secretario General de Gobierno;
 
-II.- Establecer los mecanismos de coordinación con la Secretaría de Protección Ciudadana, la Secretaría de Vialidad y Transportes, la Procuraduría General de Justicia del Estado, para la evaluación y debido seguimiento del avance de los programas estatales de seguridad;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
+
+II.- Establecer los mecanismos de coordinación con la Secretaría de Protección Ciudadana y la Procuraduría General de Justicia del Estado, para la evaluación y debido seguimiento del avance de los programas estatales de seguridad, así como velar por la observancia y cumplimiento de la Ley de Tránsito y Transportes del Estado de Sinaloa y los acuerdos que dicte en esta materia el Ejecutivo del Estado o el Secretario General de Gobierno;
 
 III.- Coordinarse con la Delegación de la Procuraduría General de la República en el Estado; la 3a. Región y las Zonas militares con las que cuente en nuestro Estado, la Secretaría de la Defensa Nacional; con las delegaciones o representaciones con que cuente en el Estado la Secretaría de Marina y con todas aquellas dependencias federales que sea necesario para atender de manera armoniosa la seguridad estatal e igualmente con aquellas organizaciones gubernamentales o no gubernamentales de defensa de los derechos humanos, así como otras cuyos objetivos sociales incidan en el desarrollo democrático del Estado;
 
@@ -261,21 +267,113 @@ VII.- Las demás que le atribuyan las leyes o reglamentos o que en su caso le en
 
 La Sub-Secretaría General de Gobierno estará integrada con las siguientes áreas administrativas:
 
-I.- Dirección de Gobierno;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
 
-II.- Dirección de Desarrollo Político;
+I.- Dirección General de Tránsito y Transportes;
 
-III.- Unidad de Asuntos Internos;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
 
-IV.- Unidad de Evaluación; y
+II.- Dirección de Gobierno;
 
-V.- Las demás dependencias que le sean determinadas por las leyes, reglamentos, decretos y acuerdos del Titular del Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
 
-### CAPITULO VII. DE LA DIRECCION DE GOBIERNO
+III.- Dirección de Desarrollo Político;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
+
+IV.- Unidad de Asuntos Internos;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
+
+V.- Unidad de Evaluación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 1995)</small>
+
+VI.- Las demás dependencias que le sean determinadas por las leyes, reglamentos, decretos y acuerdos del Titular del Poder Ejecutivo Estatal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 1995)</small>
+
+### CAPITULO VII. DE LA DIRECCION GENERAL DE TRANSITO Y TRANSPORTE
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 15.
 
-Compete a la Dirección de Gobierno:
+Compete a la Dirección General de Tránsito y Transportes:
+
+I.- Ejercer el control sobre vehículos, pasajeros, conductores y peatones en el Estado, en los términos de las leyes respectivas;
+
+II.- Atender y resolver los trámites planteados por los conductores y propietarios de vehículos, de conformidad con las disposiciones legales sobre tránsito y transportes en el Estado;
+
+III.- Imponer las sanciones por infracciones a las leyes y reglamentos de la materia, que le competa aplicar;
+
+IV.- Sustanciar los diversos procedimientos a las solicitudes que promuevan los particulares para el otorgamiento, modificación, cancelación o revocación de concesiones y permisos, así como imposición de modalidades del servicio público de transporte;
+
+V.- Coordinar y controlar el servicio público de transporte en el Estado, en cualesquiera de sus modalidades;
+
+VI.- Elaborar proyectos de vialidad y de dispositivos para el control del tránsito, así como establecerlos y operarlos en los términos de las leyes respectivas;
+
+VII.- Realizar estudios de demanda de servicio público de transporte, así como análisis y dictámenes sobre problemas de tránsito de su competencia;
+
+VIII.- Fijar, acorde con las disposiciones legales aplicables, los requisitos que se deban satisfacer en cada caso para la apertura al público de estaciones terminales y demás instalaciones accesorias al servicio público de transporte;
+
+IX.- Establecer las delegaciones que sean necesarias, previo acuerdo del Ejecutivo del Estado;
+
+X.- Proponer y realizar actividades de educación vial y dictar las medidas de seguridad para la prevención de accidentes de tránsito; y
+
+XI.- Las demás que le confieran las leyes, decretes, reglamentos y acuerdos o que expresamente le encomiende el Gobernador del Estado, el Secretario o Subsecretario General de Gobierno.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1995)</small>
+
+###### ARTICULO 16.
+
+Para el despacho de los asuntos de su competencia, la Dirección General de Tránsito y Transportes, tendrá las siguientes areas administrativas:
+
+Secretaría Particular;
+
+Departamento Administrativo;
+
+Departamento de Informática;
+
+Delegaciones de Vialidad y Transportes;
+
+DIRECCIONES.
+
+De Vialidad:
+
+Departamento de Seguimiento, Evaluación y Enlace con Delegaciones;
+
+Departamento de Estudios y Proyectos;
+
+Departamento Técnico;
+
+Departamento de Educación Vial y Medicina Preventiva;
+
+Departamento de Placas y Licencias; y
+
+Departamento de Planeación de Servicios Policiales.
+
+De Transportes:
+
+Departamento de Concesiones y Permisos;
+
+Departamento de Asuntos Jurídicos;
+
+Departamento de Estudios Socioeconómicos;
+
+Departamento de Registro y Control de Vehículos de Servicio Público;
+
+Departamento de Supervisión del Transporte; y
+
+Departamento de Capacitación y Control de Conductores.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 1995)</small>
+
+### CAPITULO VII BIS. DE LA DIRECCION DE GOBIERNO
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1995)</small>
+
+ARTICULO 15 BIS (SIC).- Compete a la Dirección de Gobierno:
 
 I.- Vigilar el cumplimiento de las disposiciones legales sobre culto religioso y su disciplina externa;
 
@@ -285,7 +383,7 @@ III.- Vigilar e investigar sobre hechos que alteren la seguridad interna del Est
 
 IV.- Coordinar las actividades de tipo social con los Directores o Jefes de Departamento de Acción Social Municipal cuando se programen acciones conjuntas del Gobierno del Estado y de uno o más Ayuntamientos de la Entidad;
 
-V.- Dar trámite administrativo a las medidas que procuren el cumplimiento, por parte de las autoridades del Estado, de lo dispuesto en las Constituciones Políticas Federal y Local, especialmente en lo concerniente a las garantías individuales y prerrogativas de la ciudadanía;
+V.- Dar trámite administrativo a las medidas que procuren el cumplimiento, por parte de las autoridades del Estado, de lo dispuesto en las Constituciones Políticas Federal y Local, especialmente en lo cncerniente (sic) a las garantías individuales y prerrogativas de la ciudadanía;
 
 VI.- Evaluar, previa consulta ciudadana, los problemas que afecten el equilibrio político-social de la Entidad;
 
@@ -311,11 +409,11 @@ XVI.- Intervenir en la atención de asuntos cuya trascendencia y urgencia amerit
 
 XVII.- Realizar análisis de las situaciones políticas y sociales en la Entidad para prevenir en lo posible el surgimiento de problemas que afecten su vida interna; y
 
-XVIII.- Las demás que le confieran las Leyes, Decretos, Reglamentos y Acuerdos o que expresamente le encomiende el Gobernador del Estado, el Secretario o el Sub-Secretario General de Gobierno
+XVIII.- Las demás que le confieran las Leyes, Decretos, Reglamentos y Acuerdos o que expresamente le encomiende, el Gobernador del Estado, el Secretario o el Sub-Secretario General de Gobierno.
 
-###### ARTICULO 16.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1995)</small>
 
-Para el despacho de los asuntos de su competencia, la Dirección de Gobierno tendrá las siguientes áreas adminstrativas (sic):
+ARTICULO 16 BIS.- Para el despacho de los asuntos de su competencia, la Dirección de Gobierno tendrá las siguientes áreas administrativas:
 
 Sub-Dirección de Gobierno:
 
@@ -323,25 +421,23 @@ Departamento de Promoción Cívica;
 
 Departamento de Concertación Política;
 
-Departamento de Evaluación Política y Social;
+Departamento de Evaluación Política y Social; y
 
-Departamento de Vinculación Social;
+Departamento de Vinculación Social.
 
-Sub-Dirección de Información y Análisis;
+Sub-Dirección de Información y Análisis:
 
 Departamento de Información;
 
 Departamento de Eventos Especiales;
 
-Departamento de Análisis y Seguimiento;
+Departamento de Análisis y Seguimiento; y
 
-Oficinas Regionales de Gobierno
+Oficinas Regionales de Gobierno.
 
-Los Titulares de las Oficinas Regionales tendrán la categoría administrativa correspondiente a Jefe de Departamento y se integrarán con la Jefatura y el personal de apoyo considerado en el presupuesto de egresos.
+Los titulares de las Oficinas Regionales tendrán la categoría administrativa correspondiente a Jefe de Departamento y se integrarán con la Jefatura y el personal de apoyo considerado en el presupuesto de egresos.
 
 ### CAPITULO VIII. DE LA DIRECCION DE DESARROLLO POLITICO
-
-### CAPITULO IX. DE LA UNIDAD DE ASUNTOS INTERNOS
 
 ###### ARTICULO 17.
 
@@ -371,7 +467,7 @@ X.- Las demás que le confieran las Leyes, Decretos, Reglamentos y Acuerdos que 
 
 La Dirección de Desarrollo Político contará con la estructura administrativa que se establezca en el manual de organización y procedimientos que para su debido funcionamiento expida el titular del Despacho.
 
-### CAPITULO X. DE LA UNIDAD DE EVALUACION
+### CAPITULO IX. DE LA UNIDAD DE ASUNTOS INTERNOS
 
 ###### ARTICULO 19.
 
@@ -393,7 +489,7 @@ VI.- Las demás que le señalen las Leyes y Reglamentos o le sean conferidos por
 
 La Unidad de Asuntos Internos contará con la estructura administrativa que se establezca en el manual de organización y procedimientos que para su debido funcionamiento expida el titular del Despacho.
 
-### CAPITULO XI. DE LAS ATRIBUCIONES DEL SUBSECRETARIO DEL TRABAJO Y VINCULACION SOCIAL
+### CAPITULO X. DE LA UNIDAD DE EVALUACION
 
 ###### ARTICULO 21.
 
@@ -413,7 +509,7 @@ V.- Las demás que le señalen las Leyes y Reglamentos o le sean conferidas por 
 
 La Unidad de Evaluación contará con la estructura administrativa que se establezca en el manual de organización y procedimientos que para su debido funcionamiento expida el titular del Despacho.
 
-### CAPITULO XII. DE LA DIRECCION DEL TRABAJO Y PREVISION SOCIAL
+### CAPITULO XI. DE LAS ATRIBUCIONES DEL SUBSECRETARIO DEL TRABAJO Y VINCULACION SOCIAL
 
 ###### ARTICULO 23.
 
@@ -445,7 +541,7 @@ Dirección del Trabajo y Previsión Social; y
 
 Dirección del Registro Civil;
 
-### CAPITULO XIII. DE LA DIRECCION DEL REGISTRO CIVIL
+### CAPITULO XII. DE LA DIRECCION DEL TRABAJO Y PREVISION SOCIAL
 
 ###### ARTICULO 25.
 
@@ -485,7 +581,7 @@ Procuraduría de la Defensa del Trabajo; y
 
 Departamento de Análisis y Apoyo.
 
-### CAPITULO XIV. DE LAS ATRIBUCIONES DE LA SUBSECRETARIA DE INSPECCION, PREVENCION Y READAPTACION SOCIAL
+### CAPITULO XIII. DE LA DIRECCION DEL REGISTRO CIVIL
 
 ###### ARTICULO 27.
 
@@ -517,7 +613,7 @@ Departamento de Coordinación y Supervisión; y
 
 Oficialías.
 
-### CAPITULO XV. DE LA DIRECCION DE INSPECCION Y REGLAMENTOS
+### CAPITULO XIV. DE LAS ATRIBUCIONES DE LA SUBSECRETARIA DE INSPECCION, PREVENCION Y READAPTACION SOCIAL
 
 ###### ARTICULO 29.
 
@@ -539,7 +635,7 @@ Dirección de Inspección y Reglamentos; y
 
 Dirección de Prevención y Readaptación Social.
 
-### CAPITULO XVI. DE LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL
+### CAPITULO XV. DE LA DIRECCION DE INSPECCION Y REGLAMENTOS
 
 ###### ARTICULO 31.
 
@@ -569,7 +665,7 @@ Delegaciones Regionales.
 
 Las Delegaciones Regionales tendrán el nivel administrativo correspondiente a Jefe de Departamento y se integrarán con un Delegado y el personal de apoyo considerado en el Presupuesto de Egresos.
 
-### CAPITULO XVII. DE LAS ATRIBUCIONES DE LA SUBSECRETARIA DE ASUNTOS JURIDICOS
+### CAPITULO XVI. DE LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL
 
 ###### ARTICULO 33.
 
@@ -613,7 +709,7 @@ Departamento Técnico-Jurídico; y
 
 Departamento de Supervisión y Seguimiento de Programas Institucionales.
 
-### CAPITULO XVIII. DE LA DIRECCION DE ASUNTOS JURIDICOS
+### CAPITULO XVII. DE LAS ATRIBUCIONES DE LA SUBSECRETARIA DE ASUNTOS JURIDICOS
 
 ###### ARTICULO 35.
 
@@ -647,7 +743,7 @@ Dirección del Archivo General de Notarías y del Registro Público de la Propie
 
 Periódico Oficial "El Estado de Sinaloa"
 
-### CAPITULO XIX. DE LA DIRECCION DE ASUNTOS AGRARIOS
+### CAPITULO XVIII. DE LA DIRECCION DE ASUNTOS JURIDICOS
 
 ###### ARTICULO 37.
 
@@ -697,7 +793,7 @@ Departamento de Acuerdos, Convenios y Contratos; y
 
 Departamento de Legalización de Documentos.
 
-### CAPITULO XX. DE LA DIRECCION DEL ARCHIVO GENERAL DE NOTARIAS Y DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO XIX. DE LA DIRECCION DE ASUNTOS AGRARIOS
 
 ###### ARTICULO 39.
 
@@ -739,7 +835,7 @@ Departamento Técnico; y
 
 Los departamentos que las necesidades del servicio vayan requiriendo de acuerdo a las previsiones presupuestales y a su Reglamento.
 
-### CAPITULO XXI. DISPOSICIONES COMUNES A LAS DIRECCIONES
+### CAPITULO XX. DE LA DIRECCION DEL ARCHIVO GENERAL DE NOTARIAS Y DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 41.
 
@@ -785,7 +881,7 @@ Departamento de Asuntos Notariales;
 
 Departamento del Registro Público de la Propiedad y del Comercio; aquellas otras que se creen conforme a las previsiones presupuestales.
 
-### CAPITULO XXII. DE LA COORDINACION ADMINISTRATIVA
+### CAPITULO XXI. DISPOSICIONES COMUNES A LAS DIRECCIONES
 
 ###### ARTICULO 43.
 
@@ -819,7 +915,7 @@ XI.- Formular y mantener actualizados sus propios manuales de organización, de 
 
 XII.- Las demás que les confieran las Leyes, Decretos, Reglamentos y Acuerdos o que expresamente le encomiende el Gobernador del Estado o el Secretario.
 
-### CAPITULO XXIII. DE LAS SUPLENCIAS
+### CAPITULO XXII. DE LA COORDINACION ADMINISTRATIVA
 
 ###### ARTICULO 45.
 
@@ -846,6 +942,8 @@ Departamento de Recursos Humanos;
 Departamento de Recursos Financieros; y
 
 Departamento de Recursos Materiales y Servicios Generales.
+
+### CAPITULO XXIII. DE LAS SUPLENCIAS
 
 ###### ARTICULO 47.
 
@@ -888,3 +986,11 @@ RENATO VEGA ALVARADO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 FRANCISCO C. FRIAS CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MARZO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
