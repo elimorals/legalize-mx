@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2002-11-08"
+last_updated: "2003-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -119,7 +119,9 @@ Cuando el Presidente Municipal en funciones no acuda a la instalación del Ayunt
 
 e) Ausencias.- Si el día señalado por la Ley para la toma de protesta no concurrieran uno o más miembros de los electos, no podrán entrar en funciones hasta que rindan protesta ante el R. Ayuntamiento.
 
-f) Entrega-recepción de instalaciones y cuentas públicas.- Para el proceso de entrega-recepción los presidentes municipales entrante y saliente serán auxiliados por una Comisión de transición, conformada por los funcionarios de primero y segundo nivel salientes, que harán entrega a los funcionarios de primero y segundo nivel entrantes, así como los regidores y síndicos salientes que entregarán el archivo del R. Ayuntamiento y los expedientes de las comisiones del mismo, y los regidores y síndicos entrantes que recibirán lo anterior, firmándose la correspondiente acta de entrega-recepción.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2003)</small>
+
+f) Entrega-Recepción de las instalaciones y cuentas públicas.- Se sujetará a lo dispuesto por el Reglamento para la Entrega-Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León.
 
 Este proceso iniciará tres días antes de la toma de posesión y culminará en la toma de protesta. Una vez terminada la ceremonia, el Presidente Municipal saliente entregará al Presidente Municipal entrante, ante la presencia de los Síndicos Municipales, los libros de la Cuenta Pública Municipal, del inventario de los bienes muebles e inmuebles de cada Secretaría, programas de trabajo y libros de Actas del Ayuntamiento, firmándose por ambas partes la correspondiente Acta de Entrega-Recepción fungiendo como testigos los Contralores Municipales.
 
@@ -771,7 +773,7 @@ EL C. SECRETARIO DE AYUNTAMIENTO
 
 C. HERIBERTO GARCIA GOMEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DE ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE NOVIEMBRE DE 2000.
 
@@ -798,3 +800,13 @@ Envíese al C. Secretario General de gobierno para que por su conducto se publiq
 ###### ARTICULO CUARTO.
 
 Cúmplase.
+
+P.O. 5 DE MAYO DE 2003.
+
+PRIMERO: Las presentes Modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO: Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
+
+CUARTO: Cúmplase.
