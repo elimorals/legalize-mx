@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1983-12-26"
+last_updated: "1984-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1984.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -325,13 +325,13 @@ Toda persona puede solicitar que se le muestre o se le expida copia certificada 
 
 El estado civil de las personas solo se comprueba con las copias certificadas de las actas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 48.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaran las actas en que se pueda suponer se encontraba la inscripción, el Oficial del Registro Civil bajo ningún concepto hará la inscripción, si no se le exhibe copia certificada de la resolución pronunciada en jurisdicción voluntaria, acreditándose el hecho o acto correspondiente.
+Cuando la edad del menor no exceda evidentemente de siete años o se acredite dicha circunstancia con certificado médico legal, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas a este Código. Tratándose de nacimientos no registrados, de personas mayores de 7 años, se faculta a la Dirección del Registro Civil, para que se avoque al conocimiento de las solicitudes de registro de dichos nacimientos. Para los efectos de lo aquí previsto, el interesado presentará su solicitud ante la mencionada Dirección en Juicio Especial Administrativo, haciendo constar los hechos en que funde su acción de registro de nacimiento; recibida la citada solicitud, se fijará día y hora para la celebración de una audiencia en la que se admitirán cualesquier medios de prueba reconocidos por la Ley y después de alegar de bien probado, se resolverá lo conducente en derecho. Si se declarare procedente la acción de registro, se ordenará su asentamiento como corresponde, y en caso contrario, se dejarán a salvo los derechos del interesado para que ocurra en Jurisdicción Voluntaria a acreditar el hecho objeto de la inscripción, para su postrer registro, o ejercite la acción o derecho que estime conveniente.
 
-Tratándose de nacimientos no registrados, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas de este Código, cuando la edad del menor no exceda de siete años, acreditándolo con certificado Médico-Legal. Si excede de esta edad deberá observarse el registro señalado en el párrafo anterior.
+Cuando no hayan existido los libros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, el Oficial del Registro Civil lo hará del conocimiento de la Dirección para que de acuerdo a lo preceptuado en este Código acuerde lo conducente, y de no ser posible su inscripción en forma administrativa, quedarán a salvo los derechos de los interesados, para ocurrir en Jurisdicción Voluntaria a acreditar el hecho o acto correspondiente materia de la inscripción y exhibir, para dicho efecto, ante el Oficial del Registro Civil, la copia certificada de la resolución que se pronuncie.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -627,7 +627,7 @@ Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial
 
 La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si estos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -771,7 +771,7 @@ Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro C
 
 ###### Art. 109.
 
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En éste caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1759,7 +1759,9 @@ Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán 
 
 I.- Separar a los cónyuges en todo caso;
 
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio, y el marido pidiere el depósito. La casa que para esto se destine será designada por el juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+II.- La separación provisional del cónyuge que lo solicite, se efectuará de acuerdo a lo preceptuado en el Código de Procedimientos Civiles;
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
@@ -1767,7 +1769,11 @@ IV.- Dictar las medidas convenientes para que el marido no cause perjuicios en s
 
 V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo lugar poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo lugar podrán quedar provisionalmente los hijos.
+
+El juez, previo el procedimiento que fije el Código respectivo y velando siempre porque el derecho de los hijos quede garantizado tanto en el orden económico, como en el de su salud física y mental, decretará las medidas necesarias para el efectivo resguardo de dichos derechos.
 
 ###### Art. 283.
 
@@ -2363,13 +2369,13 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido defin
 
 El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 395.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres hacia la persona y bienes de los hijos.
 
-El o los adoptados podrán llevar los apellidos del o de los adoptantes, haciéndose las anotaciones correspondientes en el Acta de Adopción.
+El o los adoptados podrán llevar los apellidos del o de los adoptantes, quienes tendrán derecho a cambiar el nombre del adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
 
 ###### Art. 396.
 
@@ -15142,3 +15148,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE DICIEMBRE DE 1983.
 
 UNICO:- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1984.
+
+DECRETO No. 237.
+
+###### ARTICULO UNICO
+
+- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1984.
+
+DECRETO No. 240.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
