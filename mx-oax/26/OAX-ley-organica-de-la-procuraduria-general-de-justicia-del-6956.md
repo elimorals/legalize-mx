@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "1995-12-30"
+last_updated: "2000-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -43,13 +43,21 @@ LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA.
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 1o.
 
-La Procuraduría General de Justicia es el Organo del Poder Ejecutivo al que compete el ejercicio de las funciones inherentes a la Institución del Ministerio Público, así como las demás que constitucional y legalmente se le confieren como representante de la sociedad en asuntos penales y civiles; como representante de la personalidad jurídica del Estado y como consejero jurídico del Ejecutivo.
+Esta Ley es de orden Público e interés social, tiene por objeto organizar a la Procuraduría General de Justicia del Estado de Oaxaca, para el despacho que a los asuntos del Ministerio Público atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, este ordenamiento y las demás normas aplicables.
+
+La Procuraduría General de Justicia del Estado es una Dependencia del Poder Ejecutivo, que tiene por objeto ejercer la representación y defensa de los intereses de la sociedad a través del Ministerio Público; organizar, controlar y supervisar esta institución; vigilar el cumplimiento de las leyes; representar jurídicamente a la Administración Pública Estatal con las excepciones que marca la Ley.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 2o.
 
-El Ministerio Publico es la Institución a la que le incumbe la persecución de los delitos en los términos del Artículo 133 de la Constitución Política del Estado.
+El Ministerio Público es la Institución que tiene como fin, en representación de la sociedad, investigar los delitos; perseguir a los probables responsables de los mismos; ejercer ante los tribunales la acción penal y exigir la reparación de los daños y perjuicios; intervenir en los asuntos del orden civil, familiar y penal, en los casos en que señalen las leyes y realizar las demás funciones que los ordenamientos jurídicos le señalen.
+
+La Policía Ministerial es la corporación que, bajo la autoridad y mando directo del Ministerio Público, investiga los hechos delictuosos; persigue a los probables responsables de los mismos; ejecuta las órdenes de detención, comparecencia, citaciones y presentaciones provenientes de la Procuraduría y las de aprehensión, comparecencia, presentación, arraigo y cateo dictadas por los órganos jurisdiccionales.
 
 ## TITULO PRIMERO.
 
@@ -59,91 +67,55 @@ DE LA ORGANIZACION DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
 DE LOS INTEGRANTES DE LA PROCURADURIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 3o.
 
-La Procuraduría General de Justicia se integrará con:
+La Procuraduría General de Justicia del Estado, se integrará:
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+I. Procurador General de Justicia;
 
-I.- Procurador General de Justicia.
+II. SubProcurador General de Averiguaciones Previas y Consignaciones;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+III. SubProcurador General de Control de procesos;
 
-II.- Subprocurador de Averiguaciones Previas y Consignaciones.
+IV. SubProcuradores Regionales;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+V. Fiscalía Especial para la Atención de Delitos Electorales;
 
-III.- Subprocurador de Control de Procesos.
+VI. Director de Averiguaciones Previas y Consignaciones,
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+VII. Director de Control de Procesos;
 
-IV.- Sub'Procuradores Regionales;
+VIII. Director Jurídico Consultivo;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+IX. Director de Derechos Humanos;
 
-V.- Fiscalía Especial para la Atención de Delitos Electorales;
+X. Director de Servicios a la Comunidad y Participación Ciudadana;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+XI. Director de Servicios Periciales;
 
-VI.- Director de Averiguaciones Previas y Consignaciones;
+XII. Director de la Policía Ministerial;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+XIII. Director de Organización y Métodos;
 
-VII.- Director de Control de Procesos;
+XIV. Director de la Academia de Formación Profesional;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+XV. Subdirectores;
 
-VIII.- Director Jurídico Consultivo;
+XVI. Visitador General y Visitadores;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+XVII. Agentes del Ministerio Público, Auxiliares del Procurador, Auxiliares de Area, Investigadores, Adscritos y Fiscales Especiales que requiera la Institución;
 
-IX.- Director de Derechos Humanos;
+XVIII. Unidad de Apoyo Administrativo;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+XIX. Unidad de Informática;
 
-X.- Director de Servicios a la Comunidad y Participación Ciudadana;
+XX. Unidad del Fondo para la Procuración de Justicia;
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
+XXI. Cuerpo de Agentes de la Policía Ministerial; y
 
-XI.- Director de Servicios Periciales;
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XII.- Director de la Policía Judicial;
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XIII.- Dirección de Organización y Métodos;
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XIV.- Sub'Directores;
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XV.- Visitador General y Visitadores,
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XVI.- Agentes del Ministerio Público, Auxiliares del Procurador, Auxiliares de Area, Investigadores, Adscritos y Fiscales Especiales que requiera la Institución;
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XVII.- Unidad de Apoyo Administrativo;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XVIII.- Unidad de Informática;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XIX.- Cuerpo de Agentes de la Policía Judicial;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1995) (F. DE E., P.O. 10 DE AGOSTO DE 1996)
-
-XX.- Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
+XXII. Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
 
 ###### ARTICULO 4o.
 
@@ -157,29 +129,39 @@ El Gobernador del Estado, a propuesta del Procurador, podrá aumentar el número
 
 NOMBRAMIENTOS, REMOCIONES, DESTITUCIONES Y SUPLENCIAS.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 6o.
 
-El Procurador General de Justicia del Estado, los Subprocuradores, el Director y el Subdirector de la Policía Judicial, serán nombrados y removidos libremente por el Gobernador del Estado.
+El Procurador General de Justicia del Estado, los Subprocuradores Generales y el Director de la Policía Ministerial, serán nombrados y removidos libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 7o.
 
-Los Directores, Agentes del Ministerio Público Auxiliares, Adscritos e Investigadores y demás personal serán nombrados y removidos por el Procurador, previa consulta con el Gobernador del Estado.
+Los Subprocuradores Regionales, Delegados, Directores Subdirectores, Jefes de Unidad y de Departamento, Agentes del Ministerio Público y demás personal, serán nombrados y removidos libremente por el Procurador.
 
 ###### ARTICULO 8o.
 
 Para ser Procurador General de Justicia se requieren los requisitos señalados por la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 9o.
 
-Para ser Subprocurador, Director de Averiguaciones Previas y Consignaciones y, Director de Control del Procesos, se requiere ser Mexicano en pleno ejercicio de sus derechos, mayor de 25 años de edad, Licenciado en Derecho con Título legalmente expedido, con tres años de ejercicio Profesional como mínimo y de buena conducta.
+Para ser Procurador General, Subprocurador general, Subprocurador Regional, Director de Averiguaciones Previas, de Control de Procesos, de Derechos Humanos, de Servicios a la Comunidad, Visitador General y de la Academia de Formación Profesional, se requiere: Ser Mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años de edad, Licenciado en Derecho con título legalmente expedido, con tres años de ejercicio profesional como mínimo y de buena conducta.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 10.
 
-Para ser Agente del Ministerio Público, se requiere: ser Mexicano en pleno ejercicio de sus derechos, mayor de 21 años de edad, de preferencia Licenciado en Derecho, con Título legalmente expedido y de buena conducta.
+Para ser Agente del Ministerio Público se requiere: Ser Mexicano en pleno ejercicio de sus derechos, Licenciado en Derecho con título legalmente expedido, de buena conducta y haber cursado y aprobado el curso de Formación Profesional para su Certificación.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 11.
 
-Para ser Agente de la Policía Judicial se requiere: ser Mexicano en pleno ejercicio de sus derechos, haber cursado cuando menos la instrucción Secundaria, de buena conducta y no haber sido sentenciado por delito intencional.
+Para ser Agente de la Policía Ministerial se requiere: Ser mexicano en pleno ejercicio de sus derechos, haber cursado por lo menos la instrucción secundaria y haber satisfecho los requisitos y el curso de la Academia de Formación Profesional para su Certificación, ser de buena conducta y no haber sido sentenciado por delito intencional.
 
 ###### ARTICULO 12.
 
@@ -305,11 +287,29 @@ XXI.- Recibir las manifestaciones de bienes de los funcionarios y empleados del 
 
 XXII.- Dispensar la autopsia en los casos a que se refiere el artículo 33, Tercer Párrafo del Código de Procedimientos Penales del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XXIII.- Nombrar al Jefe de la Unidad del Fondo para la Procuración de Justicia.
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XXIV.- Celebrar convenios y expedir acuerdos, circulares, instructivos, manuales de organización, de procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Procuraduría para lograr la acción efectiva del Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XXV.- Verificar la licitud de la enajenación de objetos y valores, que de acuerdo con el Código Penal del Estado, sean subastados públicamente; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XXVI.- Las demás que con ese carácter le confieran las disposiciones legales aplicables y las demás que le otorgue el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 23 Bis.
 
-Los Subprocuradores, Visitadores, Dirección de Organización y Métodos, la Unidad de Apoyo Administrativo y la Unidad de Informática, son áreas adscritas al Titular de la Institución, dependiendo de él en forma directa.
+Las SubProcuradurías Generales, Regionales, Visitaduría General y las Unidades de Apoyo Administrativo, Informática, Organización y Métodos, del Fondo para la Procuración de Justicia y la Academia de Formación Profesional, son áreas adscritas al Titular de la Institución, dependiendo de él en forma directa.
+
+Así mismo, los Subprocuradores Generales, Regionales, Visitadores, Director de Averiguaciones Previas, Control de Procesos, Servicios a la comunidad y Derechos Humanos son Agentes del Ministerio Público, con las funciones propias de su cargo y las que esta propia ley les concede específicamente.
 
 ###### ARTICULO 24.
 
@@ -323,7 +323,9 @@ III.- Someter a la aprobación del Procurador aquellos estudios o proyectos que 
 
 IV.- Vigilar que en los asuntos de su competencia se dé cumplimiento a los ordenamientos legales y a las disposiciones que resulten aplicables;
 
-V.- Coordinar las labores encomendadas a su cargo y establecer mecanismos de integración e inter-relación que propicien el óptimo desarrollo de las responsabilidades que son competencia de la Procuraduría;
+> <small>(REFORMADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+V.- Coordinar a los Subprocuradores Regionales en el área de su competencia y vigilar se dé cumplimiento a los ordenamientos legales y a las disposiciones normativas que resulten aplicables, estableciendo mecanismos de integración e interrelación que propicien el óptimo desarrollo de las responsabilidades que son competencia de la Procuraduría;
 
 VI.- Planear, programar, organizar, dirigir y controlar el funcionamiento de las áreas que le están adscritas;
 
@@ -331,7 +333,9 @@ VII.- Formular los anteproyectos de programas y de presupuesto que le correspond
 
 VIII.- Dictar las medidas necesarias de mejoramiento administrativo en las áreas que le están adscritas y proponer al Procurador la delegación en Servidores Públicos Subalternos, de atribuciones que le hayan encomendado;
 
-IX.- Recibir en acuerdo ordinario a los Directores Visitadores, Delegados Regionales y Jefe de la Unidad Administrativa que le estén adscritos; y en acuerdo extraordinario a cualquier otro servidor público, así como conceder audiencia al público;
+> <small>(REFORMADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+IX.- Recibir en acuerdo ordinario a los Subprocuradores Regionales, Directores, Visitadores, Jefes de Unidad y de Departamentos que les estén adscritos; y en acuerdo extraordinario a cualquier otro servidor público, así como atender la audiencia al público;
 
 X.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
@@ -341,17 +345,19 @@ XII.- Intervenir en la contratación, desarrollo, capacitación, promoción y ad
 
 XIII.- Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XIV.- Ordenar la revocación de la libertad caucional de los indiciados a efecto de hacer efectiva la garantía que proceda, de acuerdo a lo dispuesto por el Código Penal del Estado y el Artículo 46 (I) BIS de la presente Ley.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 24 Bis.
 
-Las Direcciones de Averiguaciones Previas, y Consignaciones, Servicios Periciales, Servicios a la Comunidad, y Participación Ciudadana y Policía Judicial, estarán adscritas y dependerán de la Subprocuraduría de Averiguaciones Previas.
+Las Direcciones de Averiguaciones Previas y Consignaciones, Servicios Periciales, Servicios a la Comunidad y Participación Ciudadana y Policía Ministerial, estarán adscritas y dependerán de la Subprocuraduría de Averiguaciones Previas y Consignaciones.
 
-Las Direcciones de Control de Procesos, Jurídica Consultiva, Derechos Humanos, estarán adscritas y dependerán de la Subprocuraduría de Control de Procesos.
+Las Direcciones de Control de Procesos, Jurídica Consultiva, y Derechos Humanos, estarán adscritas y dependerán de la Subprocuraduría de Control de procesos.
 
-Cada Dirección contará con las Subdirecciones y Departamentos que le sean necesarios para el cumplimiento de sus atribuciones.
-
-Las Subprocuradurías Regionales contarán con las Subdirecciones y Departamentos que le sean necesarios para el cumplimiento de sus atribuciones de acuerdo a lo que disponga el Reglamento.
+Cada Dirección, contará con las Subdirecciones y Departamentos que le sean necesarios para el cumplimiento de sus atribuciones.
 
 ###### ARTICULO 25.
 
@@ -388,6 +394,10 @@ IX.- Ordenar a los Agentes del Ministerio Público adscritos a las Agencias Inve
 X.- Revisar todas las Averiguaciones que para su perfeccionamiento y continuación remiten las Agencias Investigadoras, debiendo informar al Procurador de las irregularidades que observe.
 
 XI.- Solicitar las órdenes de aprehensión cuando estén satisfechos los requisitos del Artículo 16 de la Constitución Federal de la República y las disposiciones relativas del Código de Procedimientos Penales del Estado, así como las de comparecencia y de cateo.
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XII.- Revocar la libertad caucional de los indiciados y hacer efectiva la garantía en los casos que proceda, de acuerdo a lo dispuesto por los Códigos Penal y de Procedimientos Penales Para el Estado Libre y Soberano de Oaxaca.
 
 ###### ARTICULO 27.
 
@@ -461,11 +471,15 @@ Los servicios periciales se prestarán cuando sean solicitados por:
 
 a).- El Ministerio Público en el Estado.
 
-b).- La Policía Judicial del Estado.
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+b).- La Policía Ministerial del Estado.
 
 c).- Las Autoridades Judiciales del Estado.
 
 En caso de que se solicite el servicio por otra Autoridad o Institución, se prestará cuando lo acuerde el Procurador o los Subprocuradores, sin perjuicio de la atención preferente que deba darse a las Autoridades antes citadas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MAYO DEL 2000)</small>
 
 ### CAPITULO VII.
 
@@ -479,7 +493,9 @@ IMPEDIMENTOS, EXCUSAS E INCOMPATIBILIDADES.
 
 ###### ARTICULO 31.
 
-La Policía Judicial es la corporación auxiliar del Ministerio Público para la persecución de los delitos y la ejecución de las órdenes judiciales cuyo cumplimiento le sea encomendado en los términos de la Ley.
+La Policía Ministerial es la Corporación Auxiliar del Ministerio Público para la investigación y persecución de los delitos, ejecución de las órdenes de aprehensión y determinaciones judiciales y de los acuerdos que dicte el Ministerio Público para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ### CAPITULO I.
 
@@ -487,7 +503,7 @@ DEL TITULAR DE LA INSTITUCIÓN.
 
 ###### ARTICULO 32.
 
-La Dirección de la Policía Judicial se integrará por:
+La Dirección de la Policía Ministerial se integrará por:
 
 I.- Un Director.
 
@@ -499,11 +515,15 @@ IV.- Comandantes.
 
 V.- Jefes de Grupo.
 
-VI.- Agentes de la Policía Judicial.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+
+VI.- Agentes de la Policía Ministerial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 33.
 
-Son atribuciones de la Policía Judicial del Estado, como corporación auxiliar del Ministerio Público:
+Son atribuciones de la Policía Ministerial del Estado, como corporación auxiliar del Ministerio Público:
 
 I.- Investigar los hechos delictuosos de los que tenga conocimiento en los términos de las disposiciones legales aplicables.
 
@@ -517,9 +537,13 @@ V.- Cumplir las órdenes que le sean giradas por sus superiores.
 
 VI.- Las demás que le señalen las Leyes y los Reglamentos.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 34.
 
-La Policía Judicial en el ejercicio de sus funciones cumplirá órdenes expresas del Ministerio Público, pero podrá en caso de urgencia, actuar desde luego dando cuenta inmediata a éste.
+La Policía Ministerial en el ejercicio de sus funciones cumplirá órdenes expresas del Ministerio Público, pero podrá en caso de urgencia o flagrancia, actuar desde luego dando cuenta inmediata a éste.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ### CAPITULO II.
 
@@ -529,7 +553,7 @@ DE LOS SUBPROCURADORES.
 
 ###### ARTICULO 35.
 
-Los Cuerpos de Seguridad y demás Autoridades destinadas a mantener la tranquilidad y el orden público en la Entidad, sean estatales o municipales, son auxiliares de la Policía Judicial y tendrán la obligación de obedecer y ejecutar todas las órdenes que ésta les dicte en ejercicio de sus funciones.
+Los cuerpos de seguridad y demás autoridades destinadas a mantener la tranquilidad y el orden público en la Entidad, sean estatales o municipales, son auxiliares de la Policía Ministerial y tendrán la obligación de obedecer y ejecutar las órdenes que ésta les dicte en el ejercicio de sus funciones.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
@@ -635,7 +659,9 @@ Los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, 
 
 ### CAPITULO XI.
 
-DEL DEPARTAMENTO DE CAPACITACION.
+DE LA ACADEMIA DE FORMACION PROFESIONAL.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 43.
 
@@ -666,6 +692,10 @@ e) Apliquen o soliciten debidamente las medidas cautelares que legalmente proced
 f) Atiendan que, los instrumentos y objetos relacionados con los delitos, así como aquellos que presenten huellas o vestigios de éstos, sean debidamente asegurados para evitar su alteración, destrucción o desaparición;
 
 g) Remitan en consulta las averiguaciones previas cuando corresponda;
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+h) Revocar la libertad caucional de los indiciados y hacer efectiva la garantía en los casos que proceda de acuerdo con lo expuesto por el Código Penal del Estado y el Artículo 46 (I) BIS de esta Ley, mismas que deberán concentrar en el fondo correspondiente;
 
 B).- Acordar con los Agentes del Ministerio Público:
 
@@ -705,39 +735,165 @@ c) Cumplan con todas y cada una de las disposiciones que las leyes les atribuyen
 
 En cada Subprocuraduría habrá un Subdirector de cada una de las áreas señaladas en el artículo anterior incluyendo servicios periciales y Policía Judicial, Agentes del Ministerio Público Auxiliares y el personal necesario para el cumplimiento de sus atribuciones.
 
-### CAPITULO I.
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MAYO DEL 2000)</small>
 
-DE LA AVERIGUACION PREVIA.
+### CAPITULO XII.
+
+DEL FONDO PARA LA PROCURACIÓN DE JUSTICIA.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 45.
 
-El Departamento de Capacitación constará de:
+La Academia de Formación Profesional de la Procuraduría General de Justicia, contará con el siguiente personal:
 
-I.- Un jefe.
+I.- Un Director;
 
-II.- El personal docente y auxiliar necesario.
+II.- Coordinadores;
+
+III.- Instructores; y
+
+IV.- El personal docente y auxiliar necesario.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 46.
 
-El objetivo del Departamento de Capacitación será la preparación permanente del personal de la Procuraduría en sus diversos aspectos, conforme a programas elaborados de acuerdo a los recursos y necesidades de la Institución, y participar en los programas de selección e integración del personal de la misma.
+La Academia de Formación Ministerial es el órgano encargado de la capacitación y preparación permanente del personal de la Procuraduría en sus diversos aspectos, de acuerdo a las siguientes funciones:
 
-La participación como alumno o profesor en las actividades del Departamento será obligatoria para el personal de la Procuraduría, cuando lo determine el Procurador.
+I.- El Director será responsable de la Administración de la Academia de Formación Profesional de los aspirantes a Agentes del Ministerio Público, Policías Ministeriales, Peritos y personal de la Institución y será auxiliado por los Coordinadores, Instructores y personal a su cargo;
 
-### CAPITULO II.
+II.- Tendrá a su cargo la selección de aspirantes a los cursos de Formación Profesional;
 
-DEL EJERCICIO DE LA ACCION PENAL.
+III.- Programará los cursos de formación profesional para la Certificación de Agentes del Ministerio Público, Policía Ministerial y Peritos, de acuerdo a los recursos y necesidades de la Institución;
 
-### CAPITULO III.
+IV.- Programará cursos de capacitación para el personal que labora en la Procuraduría;
 
-DE LA VIGILANCIA DE LA LEGALIDAD.
+V.- Establecerá los conductos necesarios para fortalecer la formación académica y mejoramiento profesional del personal de la Procuraduría General;
+
+VI.- Podrá celebrar convenios con autorización del Procurador General para llevar a cabo cursos de capacitación y formación profesional a Instituciones o Corporaciones distintas a la Procuraduría General de Justicia;
+
+VII.- Coordinará los trabajos tendientes a fortalecer a la Institución a través de los convenios que signe el Procurador General de Justicia con el Sistema Nacional de Seguridad Pública, Instituciones Educativas del nivel superior y otras Procuradurías de la República;
+
+VIII.- Presentará semestralmente o antes si fuese necesario, los programas de trabajo a realizar para su aprobación por el Procurador General;
+
+IX.- Llevará un directorio y archivo que contemple a todos los participantes y egresados de la Academia a fin de proporcionar datos fidedignos al Registro Nacional de Policía y a la propia Institución, incluyendo aquellos que hubieren sido rechazados, que no concluyeran el curso o bien pertenezcan a otras corporaciones; y
+
+X.- Llevará a cabo todas las actividades que el procurador le encomiende.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DEL 2000)</small>
+
+### CAPITULO XIII.
+
+DE LA OFICIALÍA DE PARTES.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (III) Bis.- La Oficialía de Partes tendrá a su cargo:
+
+a).- La recepción de escritos, querellas o denuncias, que serán distribuidos a la mesa del Sector Central de Averiguaciones Previas que por turno le toque conocer, para el correspondiente inicio de la Averiguación Previa y asignarle el número de control correspondiente;
+
+b).- La recepción y distribución de promociones dirigidas a las diversas Agencias del Ministerio Público del Sector Central;
+
+c).- La recepción y distribución de promociones, que vayan dirigidas a cualquiera de los funcionarios dependientes de la Procuraduría General de Justicia del Estado;
+
+d).- La recepción y envío de correspondencia oficial que sea tomada de las distintas áreas de la institución. Así como turnar la correspondencia que se recibe a través de los servicios de correo;
+
+e).- La recepción de Averiguaciones Previas, que sean enviadas por las diversas agencias investigadoras de la Ciudad y del área foránea, para su control y distribución a las mesas del Sector Central de Averiguaciones Previas o a donde correspondan y asignarles el número de control correspondiente;
+
+f).- La remisión de averiguaciones previas donde el Ministerio Público haya acordado la Consignación para enviarlas a Juzgados Penales en turno del Distrito del Centro, o bien a los Juzgados del interior del Estado;
+
+g).- La remisión de Averiguaciones Previas al Archivo de la Procuraduría general del Estado, donde se haya acordado la reserva o el no ejercicio de al acción penal;
+
+h).- La recepción y entrega de los oficios, donde las autoridades que integran la Institución del Ministerio Público rindan informes previos y justificados a la Autoridad Judicial Federal correspondiente, dentro de los diversos juicios de amparo;
+
+i).- Asentar el día y hora de presentación en los documentos recibidos e imprimir el sello oficial con la firma de la persona que reciba el documento, expresando claramente el número de anexos y especificar si es acompañado con algunos objetos, así como devolver a los interesados copia en que se asienten estos datos; y
+
+j).- Registrar en los Libros de Control toda la documentación que reciba y distribuya.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (IV) Bis.- La Oficialía de Partes dependerá directamente de la Unidad Administrativa de la Procuraduría General de Justicia del Estado y estará a cargo de un Jefe de Departamento, y contará con los Jefes de Oficina y personal necesario para el buen funcionamiento del área.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (V) Bis.- El Jefe de la Oficialía de Partes deberá rendir un informe diario del conjunto de asuntos que se tramiten a través de la misma.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (VI) Bis.- Son Obligaciones del Jefe de la Oficialía de Partes:
+
+a).- Dar cumplimiento a las instrucciones que sobre la mejor marcha de los asuntos inherentes a Oficialía de Partes establezca el Procurador; y
+
+b).- Velar por la exacta observancia de las funciones preceptuadas a la Dependencia por la presente Ley Orgánica.
+
+###### ARTICULO 46 Bis.
+
+El Fondo para la Procuración de Justicia, estará a cargo de un Jefe de Unidad y tendrá las siguientes atribuciones:
+
+I.- Vigilar, coordinar y organizar el adecuado funcionamiento del Fondo;
+
+II.- Resguardar las cantidades de dinero en efectivo que le remita el Ministerio Público;
+
+III.- Realizar las devoluciones que correspondan a las personas que lo soliciten y que tengan derecho a ello, mediante la exhibición del oficio en el que el Ministerio Público ordene la entrega;
+
+IV.- Llevar el control de los informes de ingresos y egresos del Fondo, vigilando que exista liquidez para la devolución de los depósitos, o la puesta a disposición de las cauciones a la autoridad judicial;
+
+V.- Informar del estado financiero del Fondo al Procurador;
+
+VI.- Invertir los importes en efectivo en institución bancaria, que conjuntamente acuerde con el Procurador; y
+
+VII.- Contar con la estructura orgánica necesaria para el desempeño de sus funciones, la que se especificará en el reglamento.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (I) Bis.- El capital del Fondo para la Procuración de Justicia, estará integrado de la siguiente manera:
+
+I.- Fondos Propios:
+
+a).- El importe de las cauciones que se hagan efectivas por el Ministerio Público, en términos de lo dispuesto por el artículo 286 bis del Código de Procedimientos Penales del Estado;
+
+b).- Los intereses que generen los depósitos que ante el Ministerio Público realicen los indiciados;
+
+c).- Las multas impuestas por el Ministerio Público; y
+
+d).- Donaciones y aportaciones en favor del órgano.
+
+II.- Fondos Ajenos:
+
+a).- Los depósitos que para gozar de su libertad provisional realicen los indiciados, mientras no deban remitirse al órgano jurisdiccional o reintegrarse a los inculpados;
+
+b).- Las cantidades de dinero en efectivo que por cualquier motivo se encuentren afectas a una Averiguación Previa; y
+
+c).- El producto de la venta de los bienes asegurados, que no sean reclamados en términos del artículo 38 fracción III del Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (II) Bis.- Los recursos del Fondo se aplicarán a:
+
+I.- La compra de equipo y materiales necesarios para la Institución Ministerial;
+
+II.- La adquisición, mejoramiento y ampliación de instalaciones;
+
+III.- La capacitación y profesionalización del personal de la Procuraduría;
+
+IV.- El otorgamiento de estímulos al personal de la misma Institución por su desempeño laboral; y
+
+V.- Sufragar aquellos gastos que permitan la buena marcha de la Procuración de Justicia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DEL 2000)</small>
+
+### CAPITULO I.
+
+DE LA AVERIGUACION PREVIA.
 
 ## TITULO TERCERO.
 
 FUNCIONES DEL MINISTERIO PUBLICO.
 
-### CAPITULO UNICO.
+### CAPITULO II.
 
-DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
+DEL EJERCICIO DE LA ACCION PENAL.
 
 ###### ARTICULO 47.
 
@@ -755,11 +911,15 @@ Al iniciar la Averiguación Previa el Agente del Ministerio Público deberá dar
 
 Al iniciar la Averiguación Previa el Ministerio Pública (sic) tomará las providencias necesarias para proporcionar seguridad y auxilio a las víctimas.
 
-Para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho y en su caso, asegurar los instrumentos, cosas, objetos o efectos del mismo, para indagar que personas fueron testigos y, en general, para allegarse los datos y elementos que sirvan a la averiguación, y en los casos de flagrante delito, para detener a los responsables.
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+Procederá a acordonar el área en que se hubiere cometido el delito con auxilio de la Policía Ministerial, evitando así que se pierdan, destruyan o alteren las huellas o vestigios del hecho y en su caso, asegurar los instrumentos, cosas, objetos o efectos del mismo, plasmando en placas fotográficas o película el lugar en que se perpetrara el hecho, indagando qué personas fueron testigos, quiénes estuvieron o llegaron al lugar de los hechos antes de la Autoridad Judicial; y en general, para allegarse de los datos y elementos que sirvan a la investigación, y en los casos de flagrante delito, para detener a los responsables.
 
 El Ministerio Público, en uso de su facultad de investigación y en el ejercicio de sus funciones, tendrá libre acceso a los archivos y Registros Públicos y Protocolos Notariales cualquiera que fuere su naturaleza.
 
 Igualmente está facultado para recabar de las Oficinas Públicas correspondientes, organismos o empresas descentralizadas e instituciones de crédito, los documentos e informes indispensables para el ejercicio de sus funciones, pudiendo utilizar los medios de apremio y correcciones disciplinarias que establezca la Ley de la materia a efecto de cumplir con los fines de investigación propios de su Representación, y en su caso proceder conforme a sus atribuciones por los delitos que en desobediencia a esta facultad se cometieren.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ### CAPITULO IV.
 
@@ -767,7 +927,7 @@ DEL DIRECTOR DE CONTROL DE PROCESOS.
 
 ###### ARTICULO 50.
 
-Para los efectos del Artículo anterior, el Ministerio Público utilizará los servicios de la Policía Judicial y de los Servicios Periciales a que se refiero (sic) esta Ley.
+Para los efectos del artículo anterior, el Ministerio Público utilizará los Servicios Periciales y de la Policía Ministerial a que se refiere esta Ley, o bien de los elementos de las policías preventiva, auxiliar o municipal que estuviere en el lugar.
 
 ### CAPITULO IV (1) BIS.
 
@@ -979,7 +1139,9 @@ DE LA DIRECCION DE SERVICIOS PERICIALES.
 
 ### CAPITULO VI.
 
-DE LA DIRECCION DE LA POLICIA JUDICIAL.
+DE LA DIRECCION DE LA POLICIA MINISTERIAL.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 51.
 
@@ -1043,9 +1205,11 @@ Cuando se determine la internación de algunas personas en un hospital o en otro
 
 La persona hospitalizada que no se encuentre en calidad de detenido podrá ser atendida en lugar distinto bajo responsiva médica.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 62.
 
-Si de las diligencias practicadas por el Ministerio Público, resulta que no se ha llegado a establecer la probable responsabilidad del inculpado se reservarán, requiriéndose al ofendido para que en su caso aporte nuevos datos y se girará oficio a la Policía Judicial para que continúe la investigación.
+Si las diligencias practicadas por el Ministerio Público, resulta que no se ha llegado a comprobar el cuerpo del delito o establecer la probable responsabilidad del inculpado se procederá a dictar acuerdo de reserva, requiriéndose al ofendido o a quienes les resulte cita para que en su caso aporten nuevos datos y se girará oficio a la Policía Ministerial para que continúe la investigación.
 
 ###### ARTICULO 63.
 
@@ -1063,9 +1227,11 @@ II.- Cuando estime comprobada la existencia de un delito sancionado con pena alt
 
 III.- Cuando se estime comprobada la existencia de un delito sancionado con pena privativa de libertad y resulte establecida la probable responsabilidad de un inculpado que ya se encuentra detenido por otra causa, se solicitará que formalmente se dicte orden de Aprehensión por el nuevo delito.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 65.
 
-Cuando no exista detenido, la Averiguación Previa deberá integrarse y consignarse en un plazo no mayor de treinta días hábiles.
+Cuando no exista detenido, la averiguación previa deberá integrarse y consignarse en un plazo no mayor de noventa días hábiles.
 
 ###### ARTICULO 66.
 
@@ -1085,9 +1251,11 @@ Cada Agente del Ministerio Público investigador llevará un libro de registro d
 
 Los Agentes Investigadores del Ministerio Público, podrán ejercer sus funciones en todo el Territorio del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 70.
 
-El Ministerio Público dirigirá las investigaciones que practique la Policía Judicial; recibirá los informes que ésta le proporcione, orientará la acción de los miembros de la misma en las tareas específicas que le encomienden y dictará las medidas necesarias para el esclarecimiento de los hechos.
+El Ministerio Público dirigirá las investigaciones que practique la policía ministerial; recibirá los informes que éste le proporcione, orientará la acción de los miembros de la misma en las tareas específicas que le encomienden y dictará las medidas necesarias para el esclarecimiento de los hechos.
 
 ###### ARTICULO 71.
 
@@ -1111,13 +1279,15 @@ El Ministerio Público podrá encomendar el desahogo de diligencias fuera de su 
 
 Las diligencias practicadas por delegación, tendrán eficacia probatoria siempre que se ajusten a las reglas relativas de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 75.
 
-Los instrumentos del delito y las cosas, objetos y efectos de él, así como aquellos otros objetos en que existan huellas o pudieran tener relación con el delito, serán asegurados por el Ministerio Público, quien los recogerá, los pondrá en depósito o simplemente al cuidado de una persona, para que no se alteren, destruyan o desaparezcan.
+Los instrumentos del delito y las cosas, objetos y efectos de él, así como aquellos otros enseres en que existan huellas o pudieran tener relación con el delito, serán asegurados por el Ministerio Público, quien los declarará afectos pudiendo darlos en depósito o simplemente al cuidado de una persona, para que no se alteren, destruyan o desaparezcan.
 
-De todas las cosas aseguradas se hará un inventario en el que se les describirá a fin de que puedan ser fácilmente identificados y deberán guardarse en el lugar adecuado, según su naturaleza, debiendo tomarse las precauciones necesarias para asegurar la conservación e Identidad de las mismas.
+De todas las cosas aseguradas se hará un inventario en el que se les describirá pormenorizadamente a fin de que puedan ser fácilmente identificadas y se guardarán en lugar adecuado, según su naturaleza, debiendo tomarse las precauciones necesarias para asegurar la conservación y la identidad de las mismas y para los efectos del artículo 38 fracción III del Código Penal del Estado.
 
-El aseguramiento a que se refiere este Artículo será preferente a cualquier otro.
+De los depósitos que por concepto de caución, multa u otro se hagan ante la autoridad ministerial, se procederá en los términos del artículo 46 (I) Bis.
 
 ###### ARTICULO 76.
 
@@ -1131,9 +1301,11 @@ Los cadáveres debrán (sic) ser identificados por cualquier medio legal de prue
 
 Los cadáveres, previa minuciosa inspección hecha en el acto correspondiente por el Ministerio Público y además, por un Perito Médico, podrán ser entregados a quienes los reclamen; debiendo éstos manifestar el lugar en que estarán depositados a disposición de la Autoridad, estando obligados a conducirlos al Servicio Médico Forense para la práctica de la autopsia, cuando ésta proceda. Si hubiera temor de que el cadáver fuere ocultado o de que sufra alteraciones, no será entregado, en tanto no se practique la autopsia o se resuelva que ésta no es necesaria.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 79.
 
-Cuando la Policía Preventiva intervenga en la Averiguación de un delito, ya sea por haber tomado conocimiento directo de él o por denuncia del mismo, como auxiliar que es de la Policía Judicial, está obligada a participarla inmediatamente al Ministerio Público para que los Representantes de esta Institución tomen, desde luego, la intervención que les corresponda de acuerdo con sus facultades. Cualquier funcionario o Agente de la Policía Preventiva que no cumpla con dar aviso (sic) a que se refiere este precepto o desobedezca cualquier orden del Ministerio Público, será sancionado disciplinariamente por el Procurador de Justicia, sin perjuicio de ejercitar la acción penal que sea procedente.
+Cuando la Policía preventiva intervenga en la averiguación de un delito, ya sea por haber tomado conocimiento directo de él o por denuncia del mismo, como auxiliar que es de la Policía Ministerial, está obligada a participarla inmediatamente al Ministerio Público para que los representantes de esta institución tomen desde luego, la intervención que les corresponda de acuerdo con sus facultades. Cualquier funcionario o Agente de la Policía Preventiva que no cumpla con dar aviso (sic) a que se refiere este precepto o desobedezca cualquier orden del Ministerio Público, será sancionado disciplinariamente por el Procurador de Justicia, sin perjuicio de ejercitar la acción penal que sea procedente.
 
 ###### ARTICULO 80.
 
@@ -1151,9 +1323,11 @@ Cuando el delito imputado merezca pena corporal o pena alternativa y exista la p
 
 En la Averiguación Previa, en lo conducente, serán aplicables las disposiciones de los artículos relativos del Código Procesal Penal Local que se refieren al despacho de los asuntos, formalidades, citaciones, resoluciones y acumulación de actuaciones. Para el desahogo y valoración de los medios de prueba, se estará a lo dispuesto, en lo conducente, en el Código citado, y en el artículo 50 de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+
 ###### ARTICULO 84.
 
-El Ministerio Público podrá imponer multa de doscientos a dos mil pesos a quien no acuda a la segunda cita que se le envía sin perjuicio del uso de la fuerza pública para su presentación.
+El Ministerio Público podrá imponer multa de cinco hasta cien salarios mínimos vigentes en el Estado a quien no acuda a la segunda cita que se le envíe, sin perjuicio del uso de la fuerza pública para su presentación.
 
 ###### ARTICULO 85.
 
@@ -1161,7 +1335,17 @@ Los funcionarios del Ministerio Público están obligados a detener a los que ap
 
 I.- En caso de flagrante delito y;
 
-II.- En caso de notoria urgencia, cuando exista temor fundado de que el inculpado trate de ocultarse o de eludir la acción de Justicia, y no haya Autoridad Judicial cuando por la hora o por la distancia del lugar en que se practique la detención existan serios temores de que el inculpado se sustraiga a la acción de la Justicia. Se entiende que el delincuente es aprehendido en flagrante delito, no sólo cuando es detenido en el momento mismo de estar cometiéndolo, sino cuando ya ejecutado el hecho delictuoso, el inculpado es perseguido materialmente o cuando inmediatamente después de haberlo cometido se le señale como responsable del delito o se encuentra en su poder el objeto del mismo, el instrumento con el que aparezca cometido o huellas o indicios que hagan presumir fundadamente su responsabilidad.
+> <small>(REFORMADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+II.- En caso de notoria urgencia, cuando exista temor fundado de que el inculpado trate de ocultarse o de eludir la acción de la justicia, y no halla (sic) autoridad Judicial cuando por la hora o por la distancia del lugar en que se practique la detención existan serios temores de que el inculpado se sustraiga a la acción de la justicia.
+
+Se entiende que el delincuente es aprehendido en flagrante delito, en los siguientes casos:
+
+a).- El inculpado sea detenido en el momento de estar cometiendo el delito;
+
+b).- Inmediatamente después de ejecutado el delito, el inculpado sea perseguido materialmente y detenido;
+
+c).- El inculpado sea señalado como responsable por la víctima, algún testigo presencial de los hechos o quien hubiere participado con él en la comisión del delito, o se encuentre en su poder el objeto, instrumento o producto del delito, o bien aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito, siempre y cuando se trate de un delito así calificado por la Ley como grave; no hayan transcurrido más de setenta y dos horas desde el momento de la comisión de los hechos delictivos, se haya iniciado la averiguación previa respectiva y no se hubiere interrumpido la persecución del delito.
 
 ###### ARTICULO 86.
 
@@ -1193,9 +1377,9 @@ Para los efectos del artículo 49 de esta Ley, la persona ofendida por un delito
 
 El Ministerio Público está facultado para conceder el beneficio de la Libertad Provisional Bajo Caución, en los delitos culposos por tránsito de vehículos, en los términos del artículo 272 del Código de Procedimientos Penales del Estado.
 
-### CAPITULO UNICO.
+### CAPITULO III.
 
-DISPOSICIONES GENERALES.
+DE LA VIGILANCIA DE LA LEGALIDAD.
 
 ###### ARTICULO 93.
 
@@ -1237,6 +1421,10 @@ Estará presente en todas las diligencias que se practiquen, interrogará a los 
 
 Cuando el Ministerio Público no esté conforme con alguna resolución judicial, deberá interponer los recursos legales procedentes, debiendo expresar y fundar legalmente los agravios que se causen a su representación.
 
+### CAPITULO UNICO.
+
+DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
+
 ###### ARTICULO 99.
 
 El Ministerio Público vigilará que en los procesos se observen estrictamente los términos de Ley, para el efecto de que la Justicia sea pronta y expedita.
@@ -1254,6 +1442,10 @@ Cuando el Ministerio Público tenga conocimiento de que una persona se encuentra
 El Ministerio Público cuidará así mismo, de la estricta aplicación de las Leyes en los demás casos de su competencia, procurando la protección de los legalmente incapacitados, menores o ausentes. Para cumplir todos estos fines practicará las diligencias que sean necesarias e interpondrá los recursos que sean procedentes.
 
 ## TITULO CUARTO.
+
+### CAPITULO UNICO.
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 103.
 
@@ -1378,3 +1570,11 @@ TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 P.O. 30 DE DICIEMBRE DE 1995.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MAYO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Procurador General de Justicia, procederá a designar al Jefe de la Unidad del Fondo de Procuración de Justicia dentro del tercer día a partir de la vigencia de este Decreto.
+
+TERCERO.- El Titular de la Procuraduría, ordenará que los recursos que se mencionan en el presente Decreto, se remitan a más tardar dentro del término de ocho días a partir de la vigencia de este Decreto al Jefe de la Unidad del Fondo de Procuración de Justicia.
