@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "2001-10-10"
+last_updated: "2003-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -557,29 +557,27 @@ El Consejo Estatal Electoral gestionará la obtención de un catálogo de horari
 
 Asimismo promoverá ante las autoridades correspondientes del Instituto Federal Electoral, el otorgamiento de tiempos en la radio y televisión de cobertura estatal o nacional, para que sean asignados a los partidos políticos a nivel local.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
 ###### Artículo 44.
 
-Los partidos políticos con registro ante el organismo estatal electoral, independientemente de las demás prerrogativas otorgadas por esta ley, de acuerdo con la disponibilidad y obsecuencia al presupuesto del estado, tendrán derecho al financiamiento público en apoyo a sus actividades, así como para el desarrollo de aquellas tendientes a la obtención del sufragio, conforme a las disposiciones siguientes:
+El Consejo Estatal Electoral, en forma independiente a las demás prerrogativas otorgadas a los partidos políticos por esta Ley, llevará a cabo la distribución del financiamiento público en apoyo a las actividades ordinarias, así como para aquellas tendientes a la obtención del sufragio, entre todos los partidos políticos ante él registrados, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
+I. Para los partidos políticos que hayan alcanzado cuando menos el 2.0 dos por ciento de la votación total estatal en la última elección, se estará a lo siguiente:
 
-I. El Consejo Estatal Electoral distribuirá entre los partidos políticos con registro, el monto que resulte de multiplicar el 50 por ciento del equivalente al salario mínimo diario vigente en el Estado por el número total de ciudadanos inscritos en la lista nominal de electores en el Estado con corte a la fecha de la última elección;
+a) El Consejo Estatal Electoral determinará el monto que resulte de multiplicar 0.88 veces el salario mínimo general diario vigente en el Estado, por el número total de ciudadanos inscritos en la lista nominal de electores de la entidad con corte a la fecha de la última elección.
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
+b) El monto que resulte de la anterior operación se dividirá en tres partes: una primera parte será distribuida en forma igualitaria entre todos los partidos políticos; la segunda parte en proporción directa al número de votos obtenidos en la última elección y la tercera parte; en proporción directa al número de diputados obtenidos en dicha elección.
 
-II. El monto que resulte de la anterior operación se dividirá tres partes: Una tercera parte será distribuida a partes iguales entre todos los partidos políticos que tengan derecho a ello, una segunda parte en proporción directa al número de votos obtenidos en la última elección, y la tercera parte restante, en proporción directa al número de diputados obtenidos en dicha elección.
+c) Los partidos políticos recibirán el monto de su financiamiento en tres parcialidades equivalentes al 33.33 treinta y tres punto treinta y tres por ciento para cada año, durante los tres siguientes al de la elección.
 
-III. Los partidos políticos recibirán el monto de su financiamiento en tres anualidades, durante los tres años siguientes a la elección. La primera anualidad será por el 20% del total, la segunda por el 30% y la última por el 50%;
+d) La distribución de los anteriores montos se llevará a cabo por el organismo estatal electoral en el mes de marzo de cada año.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+II. Para el financiamiento de los partidos políticos con registro ante el Consejo Estatal Electoral que no se encuentren en el supuesto de la fracción anterior, se les asignará para el desarrollo de sus actividades la cantidad que resulte de la multiplicación de 102 ciento dos salarios mínimos generales diarios vigentes en el Estado de Nayarit elevados al año y divididos en tres anualidades, financiamiento que será entregado por partes iguales a los citados partidos políticos.
 
-IV. Sólo tendrán derecho al financiamiento público, los partidos políticos que hayan alcanzado el 2.0 % de la votación estatal.
+Esta asignación se llevará a cabo por el Consejo Estatal Electoral en el mes de marzo de cada año.
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1997)</small>
-
-V. Para el desarrollo de las actividades tendientes a la obtención del sufragio, se constituirá un monto equivalente al cien por ciento del financiamiento público que les corresponda a los partidos políticos en el año de la elección ordinaria respectiva, el cual se distribuirá entre todos los partidos políticos con registro de la siguiente manera: El treinta por ciento en forma igualitaria y el setenta por ciento restante en proporción directa a la votación obtenida por cada uno de ellos en la última elección de Diputados, en relación con la votación estatal emitida.
+III.- Para el desarrollo de las actividades tendientes a la obtención del sufragio, se constituirá un monto equivalente al cien por ciento del financiamiento público que les corresponda a los partidos políticos en el año de la elección ordinaria respectiva, el cual se distribuirá entre todos los partidos políticos con registro, de la siguiente manera: El treinta por ciento en forma igualitaria y el setenta por ciento restante, en proporción directa a la votación obtenida por cada uno de ellos en la última elección de diputados, en relación con la votación estatal emitida.
 
 ###### Artículo 45.
 
@@ -3646,3 +3644,9 @@ P.O. 10 DE OCTUBRE DE 2001
 Artículo Primero.- El presente decreto entrará en vigor en los términos establecidos por el artículo 55 de la Constitución Política del Estado, debiendo publicarse en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Se derogan las disposiciones legales que se opongan a las presentes reformas.
+
+P.O. 4 DE JUNIO DE 2003
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación, debiendo publicarse en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
+
+SEGUNDO.- La determinación y entrega del financiamiento público a los Partidos Políticos correspondiente al ejercicio fiscal del año 2003, se efectuará en el mes de mayo del año en curso.
