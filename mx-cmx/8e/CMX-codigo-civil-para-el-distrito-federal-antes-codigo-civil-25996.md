@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1973-12-28"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,9 @@ scjn_last_update: "2026-08-20"
 ---
 # CODIGO CIVIL PARA EL DISTRITO FEDERAL -ANTES CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL-
 
-CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -31,9 +31,13 @@ El C. Presidente Constitucional de la República se ha servido dirigirme el decr
 
 Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
 
-CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
 Disposiciones preliminares
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 5º.
 
@@ -71,17 +75,23 @@ Las leyes mexicanas, incluyendo las que se refieran al estado y capacidad de las
 
 Los efectos jurídicos de actos y contratos celebrados en el extranjero, que deban ser ejecutados en el Territorio de la República, se regirán por las disposiciones de este Código.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 14.
 
-Los bienes inmuebles, sitos en el Distrito o Territorios Federales y los bienes muebles que en ellos se encuentren, se regirán por las disposiciones de este Código, aun cuando los dueños sean extranjeros.
+Los inmuebles sitos en el Distrito Federal y los bienes muebles que en el mismo se encuentren, se regirán por las disposiciones de este Código, aún cuando los dueños sean extranjeros.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 15.
 
-Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los mexicanos o extranjeros residentes fuera del Distrito o de los Territorios Federales, quedan en libertad para sujetarse a las formas prescritas por este Código, cuando el acto haya de tener ejecución en las mencionadas demarcaciones.
+Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los mexicanos o extranjeros residentes fuera del Distrito Federal, quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución en la mencionada demarcación.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 16.
 
-Los habitantes del Distrito y de los Territorios Federales tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes, en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
+Los habitantes del Distrito Federal tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
 
 ###### ARTICULO 17.
 
@@ -125,7 +135,7 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ### CAPITULO II. De las actas de nacimiento
 
@@ -193,7 +203,9 @@ V.- De los sentenciados a sufrir una pena privativa de la libertad por más de s
 
 Las personas morales tienen su domicilio en el lugar donde se halle establecida su administración.
 
-Las que tengan su administración fuera del Distrito o de los Territorios Federales, pero que ejecuten actos jurídicos dentro de las mencionadas circunscripciones, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo lo que a esos actos se refiera.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Las que tengan su administración fuera del Distrito Federal pero que ejecuten actos jurídicos dentro de su circunscripción, se considerarán domiciliadas en este lugar, en cuanto a todo lo que a esos actos se refiera.
 
 Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
 
@@ -209,7 +221,7 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito y Territorios Federales estará a cargo de los Jueces del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de los hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en las demarcaciones mencionadas; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en su demarcación, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -233,7 +245,9 @@ La infracción de esta regla producirá la nulidad del acta y se castigará con 
 
 Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la autoridad judicial a quien se hubieren remitido los duplicados.
 
-El Procurador de Justicia del Distrito y Territorios Federales cuidará de que se cumpla esta disposición, y, a ese efecto, el Juez del Registro o el encargado del Archivo Judicial, le darán aviso de la pérdida.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+El Procurador General de Justicia del Distrito Federal cuidará de que se cumpla esta disposición, y, a ese efecto el Juez del Registro o el encargado del Archivo Judicial, le darán aviso de la pérdida.
 
 ###### ARTICULO 39.
 
@@ -301,9 +315,11 @@ Las actas del Registro Civil extendidas conforme a las disposiciones que precede
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 51.
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registre en la oficina respectiva del Distrito o de los Territorios Federales.
+Para establecer el estado civil adquirido por los mexicanos fuera de la República serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la oficina que corresponda del Distrito Federal, o de las Entidades respectivas.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -317,7 +333,9 @@ Los Jueces del Registro Civil se suplirán unos a otros en sus faltas temporales
 
 El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros del año anterior remitidos a los archivos de los respectivos Tribunales Superiores, para el efecto de hacer la consignación correspondiente de los jueces registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
 
-La infracción de este artículo produce responsabilidad para los agentes del Ministerio Público y será castigada conforme a lo prevenido en la Ley Orgánica de la Procuraduría General de Justicia del Distrito y Territorios Federales.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+La infracción de este artículo produce responsabilidad para los agentes del Ministerio Público y será castigada conforme a lo prevenido en la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal.
 
 ### CAPITULO IV. De las actas de adopción
 
@@ -925,11 +943,11 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 148.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe del Departamento del Distrito Federal, los Gobernadores, los Presidente Municipales y los Delegados, según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
+Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe del Departamento del Distrito Federal o los Delegados según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
@@ -943,11 +961,11 @@ El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matr
 
 Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, suplirá el consentimiento, en su caso, el Juez de lo Familiar de la residencia del menor.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 151.
 
-Los interesados pueden ocurrir al Jefe del Departamento del Distrito Federal, a los Gobernadores, a los Presidentes Municipales y a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+Los interesados pueden ocurrir al Jefe del Departamento de Distrito Federal o a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas Autoridades, después de levantar una información sobre el particular, suplirán o no el consentimiento.
 
 ###### ARTICULO 152.
 
@@ -2989,7 +3007,7 @@ Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pe
 
 ### CAPITULO XV. De los Consejos Locales de Tutela y de los Jueces Pupilares
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 511.
 
@@ -3197,9 +3215,11 @@ Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gas
 
 Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez de lo Familiar, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 545.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Distrito o de los Territorios Federales, según el lugar donde estén domiciliados; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Distrito Federal; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
 
 > <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
@@ -3593,7 +3613,9 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 ###### ARTICULO 631.
 
-En cada Delegación o Municipalidad habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe del Departamento del Distrito Federal o por quien él autorice al efecto o por los Delegados o Presidentes Municipales, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+En cada Delegación habrá un Consejo Local de Tutelas compuesto de un Presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe del Departamento del Distrito Federal o por quien él autorice al efecto o por los Delegados, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 Los miembros del Consejo no cesarán en sus funciones aun cuando haya transcurrido el término para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente período.
 
@@ -4095,19 +4117,21 @@ El representante tendrá también la administración de dichos bienes.
 
 Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 728.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
+Sólo puede constituirse el patrimonio de la familia con bienes sitos en el lugar en que está domiciliado el que lo constituya.
 
 ###### ARTICULO 729.
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1954)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 730.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de cincuenta mil pesos para el Distrito y Territorios Federales.
+El valor máximo de los bienes afectos al patrimonio de familia será de cincuenta mil pesos.
 
 ###### ARTICULO 731.
 
@@ -4141,7 +4165,9 @@ Cuando haya peligro de que quien tiene obligación de dar alimentos pierde sus b
 
 Con el objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituirlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
 
-I.- Los terrenos pertenecientes al Gobierno Federal, al Gobierno del Distrito o los Ayuntamientos del Distrito y Territorios Federales, que no estén destinados a un servicio público, ni sean de uso común;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+I.- Los terrenos pertenecientes al Gobierno Federal o al Gobierno del Distrito Federal que no estén destinados a un servicio público ni sean de uso común;
 
 II.- Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso (c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -4425,9 +4451,11 @@ La ocupación de las embarcaciones, de su carga y de los objetos que el mar arro
 
 Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 786.
 
-El que tuviere noticia de la existencia de bienes vacantes en el Distrito o Territorios Federales, y quisiere adquirir la parte que la ley da al descubridor, hará la denuncia de ellos ante el Ministerio Público del lugar de la ubicación de los bienes.
+El que tuviere noticia de la existencia de bienes vacantes en el Distrito Federal y quisiere adquirir la parte que la ley da al descubridor, hará la denuncia de ellos ante el Ministerio Público del lugar de la ubicación de los bienes.
 
 ###### ARTICULO 787.
 
@@ -5771,7 +5799,9 @@ ARTICULO 1,146.- En el caso previsto por el artículo que precede, el acreedor s
 
 ARTICULO 1,147.- La prescripción adquirida por el deudor principal, aprovecha siempre a sus fiadores.
 
-ARTICULO 1,148.- La Unión, el Distrito y los Territorios Federales, en sus casos, así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+ARTICULO 1,148.- La Unión o el Distrito Federal, los ayuntamientos y las otras personas morales de carácter público, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
 
 ARTICULO 1,149.- El que prescriba puede completar el término necesario para su prescripción reuniendo al tiempo que haya poseído, el que poseyó la persona que le transmitió la cosa, con tal de que ambas posesiones tengan los requisitos legales.
 
@@ -5859,9 +5889,13 @@ III.- Entre los incapacitados y sus tutores o curadores, mientras dura la tutela
 
 IV.- Entre copropietarios o coposeedores, respecto del bien común.
 
-V.- Contra los ausentes del Distrito y de los Territorios Federales que se encuentren en servicio público;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Distrito y de los Territorios Federales.
+V.- Contra los ausentes del Distrito Federal que se encuentren en servicio público;
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Distrito Federal.
 
 ### CAPITULO V. De la interrupción de la prescripción
 
@@ -6187,7 +6221,9 @@ ARTICULO 1,312.- Para juzgar de la capacidad del testador se atenderá especialm
 
 ### CAPITULO III. De la capacidad para heredar
 
-ARTICULO 1,313.- Todos los habitantes del Distrito y de los Territorios Federales de cualquier edad que sean, tienen capacidad para heredar, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+ARTICULO 1,313.- Todos los habitantes del Distrito Federal de cualquier edad que sean, tienen capacidad para heredar, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
 
 I.- Falta de personalidad;
 
@@ -6251,7 +6287,9 @@ ARTICULO 1,326.- El notario que a sabiendas autorice un testamento en que se con
 
 ARTICULO 1,327.- Los extranjeros y las personas morales, son capaces de adquirir bienes por testamento o por intestado; pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales. Tratándose de extranjeros, se observará también lo dispuesto en el artículo siguiente.
 
-ARTICULO 1,328.- Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado, a los habitantes del Distrito y Territorios Federales, los extranjeros que, según las leyes de su país, no puedan testar o dejar por intestado sus bienes a favor de los mexicanos.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+ARTICULO 1,328.- Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado, a los habitantes del Distrito Federal, los extranjeros que, según las leyes de su país, no puedan testar o dejar por intestado sus bienes a favor de los mexicanos.
 
 ARTICULO 1,329.- La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobierno los aprueba.
 
@@ -6957,15 +6995,19 @@ ARTICULO 1,592.- Si el testador desembarca en un lugar donde no haya Agente Dipl
 
 ### CAPITULO VIII. Del testamento hecho en país extranjero
 
-ARTICULO 1,593.- Los testamentos hechos en país extranjero, producirán efecto en el Distrito y Territorios Federales cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-ARTICULO 1,594.- Los Secretarios de Legación, los Cónsules y los Vicecónsules mexicanos, podrán hacer las veces de Notarios o de Encargados del Registro, en el otorgamiento de los testamentos de los nacionales en el extranjero, en los casos en que las disposiciones testamentarias deban tener su ejecución en el Distrito o Territorios Federales.
+ARTICULO 1,593.- Los testamentos hechos en país extranjero, producirán efecto en el Distrito Federal cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+ARTICULO 1,594.- Los secretarios de legación, los cónsules y los vicecónsules mexicanos podrán hacer las veces de notarios o de encargados del Registro en el otorgamiento de los testamentos de los nacionales en el extranjero en los casos en que las disposiciones testamentarias deban tener su ejecución en el Distrito Federal.
 
 ARTICULO 1,595.- Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el artículo 1,590.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Archivo General de Notarías del domicilio que, dentro del Distrito y Territorios Federales, señale el testador.
+ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Registro Público del domicilio que señale el testador.
 
 ARTICULO 1,597.- Si el testamento fuere confiado a la guarda del Secretario de Legación, Cónsul o Vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
 
@@ -10255,7 +10297,9 @@ ARTICULO 2,735.- Salvo pacto en contrario, los socios industriales no responder�
 
 ### CAPITULO VI. De las asociaciones y de la sociedades extranjeras
 
-ARTICULO 2,736.- Para que las asociaciones y las sociedades extranjeras de carácter civil, puedan ejercer sus actividades en el Distrito y en los Territorios Federales, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+ARTICULO 2,736.- Para que las asociaciones y sociedades extranjeras de carácter civil, puedan ejercer sus actividades en el Distrito Federal, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
 
 ARTICULO 2,737.- La autorización no se concederá si no comprueban:
 
@@ -10349,7 +10393,9 @@ ARTICULO 2,771.- Cuando las personas se sirvieren del medio de la suerte, no com
 
 ARTICULO 2,772.- Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las leyes especiales que las autoricen, y las segundas, por los reglamentos de policía.
 
-ARTICULO 2,773.- El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Distrito y en los Territorios Federales, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+ARTICULO 2,773.- El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Distrito Federal a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 
 ### CAPITULO II. De la renta vitalicia
 
@@ -11147,7 +11193,9 @@ De los documentos registrables
 
 ARTICULO 3,005.- Solo se registrarán:
 
-I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Distrito Federal, habría sido necesaria su inscripción en el Registro.
 
 II.- Las resoluciones y providencias judiciales que consten de manera auténtica.
 
@@ -11775,7 +11823,7 @@ ARTICULO 3,044.- Las inscripciones preventivas se cancelarán no solamente cuand
 
 ###### ARTICULO 1º.
 
-Las disposiciones de este Código regirán en el Distrito y en los Territorios Federales en asuntos del orden común, y en toda la República en asuntos del orden federal.
+Las disposiciones de este Código regirán en el Distrito Federal en asuntos del orden común, y en toda la República en asuntos del orden federal.
 
 ###### ARTICULO 2º.
 
@@ -11992,3 +12040,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su
 SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
 
 TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
