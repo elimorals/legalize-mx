@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1982-01-07"
+last_updated: "1985-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -433,6 +433,8 @@ A cada parte interveniente (sic) ó interesada, podrá expedir el notario un pri
 
 ### CAPITULO SEXTO. DE LAS MINUTAS
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 53.
 
 Las escrituras, las actas y los testimonios, probarán plenamente que los otorgantes manifestaron su voluntad de celebrar el acto consignado en la escritura, que hicieron las declaraciones y se realizaron los hechos de los que haya dado fé el notario y que este observó las formalidades que menciona, mientras no fuere declarada su falsedad por sentencia ejecutoria dictada por el Juez del Ramo Civil correspondiente.
@@ -491,7 +493,7 @@ Fuera de estos casos, el testimonio hará prueba plena.
 
 ###### ARTICULO 58.
 
-Se suprimen las minutas y en consecuencia, los notarios no autorizarán los documentos que con tal carácter les presenten los interesados.
+Se suprimen las minutas; los actos traslativos de dominio que la Ley exija sean otorgados en escritura pública, deberán, sin excepción, satisfacer esa formalidad; en consecuencia los notarios no autorizarán ni intervendrán en los documentos que con estas características les presenten los interesados.
 
 ### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -503,7 +505,9 @@ La infracción que produzca una responsabilidad administrativa, será castigada 
 
 1.- Amonestación por oficio;
 
-2.- Multa que no excederá de $5,000.00;
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
+2.- Multa que no exceda de $50,000.00 (CINCUENTA MIL PESOS);
 
 3.- Suspensión del cargo hasta por seis meses; y
 
@@ -531,7 +535,7 @@ El monto de la garantía que constituye el notario, cuando se haga efectiva, se 
 
 ### CAPITULO SEGUNDO. DE LAS NOTARIAS Y DEMARCACIONES NOTARIALES
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 63.
 
@@ -555,9 +559,9 @@ La oficina de los notarios se denominará "NOTARIA PUBLICA NUMERO ...."; estará
 
 ###### ARTICULO 67.
 
-Las Demarcaciones Notariales corresponderán a la de los Distritos Judiciales.
+Las demarcaciones notariales corresponderán a las de los Distritos Judiciales.
 
-El Ejecutivo del Estado, con la facultad que le concede esta Ley, delega la función pública del ejercicio notariado en el Estado, como sigue: Para el Distrito Judicial de la Capital a 20 Notarios; al Distrito Judicial de Gómez Palacio a 11 Notarios; al Distrito judicial de Ciudad Lerdo, a 3 Notarios; al Distrito Judicial de Santiago Papasquiaro a 2 Notarios; y para cada uno de los restantes Distritos Judiciales de la Entidad, a 1 Notario.
+El Ejecutivo del Estado, con la facultad que le concede esta Ley, delega la función pública del ejercicio del Notariado en el Estado, como sigue: para el Distrito Judicial de la Capital a 24 Notarios; al Distrito Judicial de Gómez Palacio a 11 Notarios; al Distrito Judicial de Ciudad Lerdo a 3 Notarios; al Distrito Judicial de Santiago Papasquiero (sic) a 2 Notarios; y para cada uno de los restantes Distritos Judiciales de la Entidad a 1 Notario.
 
 ###### ARTICULO 68.
 
@@ -585,13 +589,17 @@ I.- Ser mexicano por nacimiento;
 
 II.- Haber cumplido 25 años;
 
-III.- Tener Título de Licenciado en Derecho, registrado en la Dirección de Profesiones, con cinco años cuando menos de ejercicio profesional y, "HACER UNA PRACTICA EFECTIVA EN UNA NOTARIA POR UN PERIODO DE UN AÑO";
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
+III.- Tener Título de Licenciado en Derecho, registrado en la Dirección de Profesiones con 5 años cuando menos de ejercicio profesional y, hacer una práctica efectiva en una Notaría por un período de dos años;
 
 IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones del Notario;
 
 V.- Acreditar haber tenido y tener buena conducta;
 
-VI.- Ser vecino del Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
+VI.- Ser vecino del Estado y con despacho para el ejercicio profesional, establecido en la Entidad;
 
 VII.- No haber sido condenado por delito intencional, ni estar sujeto a proceso penal por delito de la misma índole;
 
@@ -615,11 +623,11 @@ Los requisitos que fijan las Fracciones I y II del Artículo 70 se comprobarán 
 
 El que pretende examen de Aspirante a Notario, deberá presentar su solicitud al Ejecutivo del Estado, acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los Artículos precedentes.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 73.
 
-Hecho por el Ejecutivo del Estado, el estudio de la documentación presentada por el solicitante y aprobada que fuere, la turnará al Consejo del Colegio de Notarios, el cual señalará día y hora para que tenga lugar el examen.
+Presentada la documentación por el solicitante, el Ejecutivo del Estado, la turnará al Consejo del Colegio de Notarios, quien a su vez estudiada y aprobada que fuere, señalará día y hora para que tenga lugar el examen.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -647,11 +655,11 @@ Los miembros del Jurado en los que concurran alguno de los impedimentos señalad
 
 El día señalado para el examen y cinco horas antes de la fijada para la celebración del mismo, el Secretario del Consejo de Notarios abrirá el sobre elegido por el sustentante, entregará el tema al interesado y vigilará que sin el auxilio de personas extrañas, aunque provisto de los Códigos y Libros de consulta necesarios, proceda a la redacción del instrumento que mencione el tema que se le haya propuesto.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 78.
 
-Si el sustentante fuere reprobado, no se le podrá conceder nuevo examen, sino hasta después de transcurrido un año de la celebración del anterior.
+Si el sustentante fuere reprobado no se le concederá nuevo examen, sino después de transcurridos dos año de la celebración del anterior, sujetándose a lo dispuesto en el Artículo 73 de esta Ley.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -711,9 +719,13 @@ VI.- No haber sido declarado en quiebra o concurso de acreedores, salvo que haya
 
 VII.- No ser ministro de algún culto religioso, ni haber hecho votos que exijan obediencia a un superior religioso;
 
-VIII.- Estar vacante alguna Notaría y triunfar en el examen de oposición.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
-El requisito que establece la Fracción I se comprobará con la Patente respectiva; los de la Fracción II, con certificado de dos médicos con Título Oficial; el de la Fracción III, con Certificado expedido por la Presidencia Municipal correspondiente; los de la Fracción IV, con certificación expedida por el Supremo Tribunal de Justicia en el Estado; los de las Fracciones V, VI y VII, no requieren prueba, pero su afirmación la admite en contrario; los de la Fracción VIII con copia del Acta de examen de oposición.
+VIII.- Estar vacante alguna Notaría y haber aprobado el examen de oposición.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
+El requisito que establece la Fracción I se comprobará con la patente respectiva; los de la Fracción II con certificado de dos médicos con título oficial; el de la Fracción III, con certificado expedido por la Presidencia Municipal y copia certificada del acta de nacimiento; respectivamente, los de la Fracción IV, con certificado expedido por el Supremo Tribunal de Justicia en el Estado; los de las Fracciones V, VI y VII, no requieren prueba, pero su afirmación la admite en contrario; los de la Fracción VIII, con copia del Acta de examen de oposición.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -801,13 +813,11 @@ Una vez concluído el examen teórico, el Secretario del jurado, dará lectura a
 
 Será triunfador del examen de oposición, el sustentante aprobado que obtenga la calificación mayor, para el caso de uno o varios empates, decidirá la suerte; la calificación mínima para ser aprobado en exámenes, será de seis.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 99.
 
-Si como resultado del examen, el jurado considera que ninguno de los sustentantes es apto para el cargo, se declarará desierto el concurso y se expedirá nueva convocatoria; aquéllos sustentantes no podrán participar en otro concurso, sino hasta después de haber transcurrido un año del examen anterior.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1980)</small>
-
-Los sustentantes aprobados como aspirantes, que resulten derrotados en un examen de oposición, quedarán en aptitud de presentarse en otros concursos en cualquier tiempo.
+Si como resultado del examen, el jurado considera que ninguno de los sustentantes es apto para el cargo, se declarará desierto el concurso y se expedirá nueva convocatoria; aquéllos sustentantes no podrán participar en otro concurso, sino hasta después de haber transcurrido 2 años del examen anterior.
 
 ###### ARTICULO 100.
 
@@ -979,9 +989,11 @@ El notario o su representante, tiene derecho a asistir a la clausura del protoco
 
 ## TITULO TERCERO. DEL COLEGIO DE NOTARIOS
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 128.
 
-En el Estado de Durango, habrá un Colegio de Notarios con sede en la Capital, que tendrá personalidad jurídica propia y al que podrán pertenecer todos los Notarios, salvo los Jueces de Primera Instancia, ó municipales que desempeñen funciones notariales. El Colegio tendrá las atribuciones que se deriven de la presente ley y las que se señalen en sus estatutos.
+En el Estado de Durango habrá un Colegio de Notarios con sede en la Capital, que tendrá personalidad jurídica propia y al que deberán pertenecer todos los Notarios, salvo los Jueces de Primera Instancia o Municipales que desempeñen funciones Notariales. El Colegio tendrá las atribuciones que se deriven de la presente Ley y las que se señalen en sus estatutos.
 
 ###### ARTICULO 129.
 
@@ -1154,3 +1166,7 @@ UNICO.- Las presentes reformas y adiciones entrarán en vigar (sic) el día sigu
 P.O. 7 DE ENERO DE 1982.
 
 UNICO.- El presente Decreto surtirá sus efectos quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 1985.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
