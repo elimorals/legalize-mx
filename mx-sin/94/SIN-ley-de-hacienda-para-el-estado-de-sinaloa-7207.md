@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1979-12-31"
+last_updated: "1980-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1980.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -923,7 +923,9 @@ e).- Ganado porcino, caprino, lanar, vacuno, equino y asnal;
 
 f).- Azúcar y sal;
 
-g).- Productos agrícolas que se empleen como materia prima en la elaboración de alimentos para animales.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+g).- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura y ganadería, así como los fertilizantes. No quedan comprendidos en este inciso, la maquinaria y equipo para industrializar los productos agrícolas y ganaderos.
 
 III.- Los obtenidos en operaciones de venta de:
 
@@ -931,17 +933,25 @@ a).- Carnes en estado natural;
 
 b).- Mascabado y piloncillo;
 
-c).- Transporte de personas o cosas por empresas que no sean de concesión federal;
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+c).- Transporte público de personas, siempre que no se requiera concesión o permiso federal para operar;
 
 d).- Leche natural, pasteurizada, condensada, evaporada, deshidratada, rehidratada o enlatada;
 
 e).- Tortillas, nixtamal, masa de nixtamal, harina de maíz, pan, galletas y pastel;
 
-f).- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura, ganadería y pesca. No quedan comprendidos en este inciso, la maquinaria y equipo para industrializar los productos agrícolas, ganaderos y pesqueros;
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
-g).- Semillas para siembra;
+f).- Semillas para siembra;
 
-h).- Fertilizantes, fungicidas, insecticidas o herbicidas, siempre que sean utilizados en la agricultura o ganadería;
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+g).- Libros, Periódicos y revistas;
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+h).- Carbón vegetal.
 
 i).- Libros, periódicos y revistas;
 
@@ -961,13 +971,11 @@ VI.- Los provenientes de otros actos o actividades por los que no deba pagarse e
 
 ART. 90.- El impuesto se causará y pagará a razón del 1.8% sobre el monto total de los ingresos gravados que se obtengan dentro del territorio del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
 ART. 91.- Son sujetos del Impuesto las personas físicas o morales que obtengan ingresos por los conceptos especificados en el Artículo 89 de este Capítulo.
 
-También son sujetos del impuesto, las personas físicas o morales que realicen operaciones gravadas dentro del territorio del Estado de Sinaloa con la intervención de comisionistas, agentes, consignatarios o distribuidores domiciliados en el Estado. Los comisionistas, agentes, consignatarios, representantes, corredores o distribuidores, son solidariamente responsables del pago del impuesto a cargo de sus representados por todas las operaciones en que intervengan.
-
-Los sujetos del impuesto podrán trasladarlo expresamente al comprador o usuario del servicio, sin que en los casos de mercancías que tienen señalado el precio oficial, la traslación se considere como alteración de ese precio. Cuando lo hagan, consignarán por separado en las facturas o notas de venta que expidan, el importe de la operación y el monto del impuesto que se calculará exclusivamente sobre dicho importe.
+Los sujetos del Impuesto podrán trasladarlo expresamente al comprador o usuario del servicio, sin que en los casos de mercancías que tienen señalado el precio oficial, la traslación se considere como alteración de ese precio. Cuando lo hagan, consignarán por separado en las facturas o notas de venta que expidan, el importe de la operación y el monto del Impuesto que se calculará exclusivamente sobre dicho importe.
 
 ART. 92.- Se considera como ingreso, toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquier otra forma que se obtenga por los sujetos de este impuesto, como resultado de las operaciones gravadas por este Capítulo, aún cuando no constituya parte de su objeto habitual. Para este efecto, la operación se considera realizada en el Estado, cuando el pedido o la entrega de la mercancía o la recepción del servicio o el pago del precio sean efectuados dentro del territorio de Sinaloa.
 
@@ -1001,13 +1009,11 @@ Fuera del Plazo señalado en el párrafo anterior, no podrán hacerse las compen
 
 IV.- Los causantes por iniciativa propia no podrán hacer las rectificaciones a que se refieren las fracciones anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido de pago de alguna prestación fiscal derivada de este impuesto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
-ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado y efectuarán el pago del impuesto en la oficina recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresando el motivo de ello.
+ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Finanzas del Estado y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresandose el motivo de ello.
 
-Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este impuesto, el causante lo cubrirá mediante declaración que presentará en la oficina recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
-
-Los comitentes domiciliados fuera del Estado, que realicen operaciones gravadas dentro del mismo, efectuarán el pago del impuesto en la oficina recaudadora donde estén registrados sus comisionistas.
+Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este Impuesto, el causante lo cubrirá mediante declaración que presentará en la Oficina Recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
 
 ART. 94.- Los causantes del impuesto tienen las siguientes obligaciones:
 
@@ -1671,7 +1677,9 @@ ART. 139.- Son objeto de este impuesto:
 
 I.- Las operaciones de traslación o adquisición de dominio que se realicen el Estado, o en relación con bienes muebles o inmuebles ubicados en él, por cualquier título, inclusive por cesión de derechos dación en pago y donación, con las salvedades que establece el Artículo 141 de esta Ley.
 
-Para los efectos de este impuesto, la adjudicación de bienes en pago o la que se haga en remate a postor, la cesión onerosa de derechos reales o personales y la dación en pago, así como la protocolización de diligencias de información ad-perpétuam promovidas para acreditar la posesión de bienes inmuebles, se equipararán a la compraventa. También se equiparan a la compraventa el acto constitutivo de fideicomiso, cuando se afecte un bien inmueble y la cesión de derechos de fideicomitante o fideicomisario derivados de ese tipo de fideicomiso;
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+Para los efectos de este Impuesto, la adjudicación de bienes en pago o la que se haga en remate a postor, la cesión onerosa de derechos reales o personales y la dación en pago, así como la protocolización de diligencias de información ad-perpetuam promovidas para acreditar la posesión de bienes inmuebles, en los términos del Artículo 2904 del Código Civil para el Estado de Sinaloa, se equiparán a la compraventa. También se equiparan a la compraventa el acto constitutivo de fideicomiso, cuando se afecte un bien inmueble y la cesión de derechos de fideicomitente o fideicomisario derivados de ese tipo de fideicomiso;
 
 II.- La promesa de compraventa de bienes muebles o inmuebles ubicados en el Estado.
 
@@ -2037,6 +2045,10 @@ En el caso de que el servicio se preste a través de una agrupación profesional
 
 ART. 168.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+Para los efectos de este Impuesto, sólo se considerará que ejercen sus actividades habitualmente en el Territorio del Estado, los causantes que tengan establecido en él una oficina, estudio, establecimiento o domicilio fijo, registrado como tal para fines fiscales y cuya ubicación puede ser comprobada por la Secretaría de Finanzas del Estado. Dichos causantes deben acreditar ante la Oficina receptora que corresponda al lugar en que perciban ingresos gravables, que prestan sus servicios a empresas o instituciones de carácter permanente, o bajo contrato celebrado con ellos por períodos mayores de 30 días o a un mes de calendario y dentro de los cuales ejerzan su actividad por lo menos una vez por semana o cinco veces en el mes.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ART. 169.- Los sujetos de este impuesto podrán deducir de sus ingresos brutos mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los causantes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento. Se exceptúa de lo dispuesto en este artículo, la deducción por concepto del salario mínimo general que autoriza la Ley Federal mencionada.
@@ -2069,7 +2081,9 @@ ART. 171.- Los causantes que no deseen presentar comprobación relativa a las de
 
 Los causantes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto siguiendo de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Finanzas que dejarán de ejercer dicha opción.
 
-Los sujetos que realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas, así como quienes obtengan en forma esporádica ingresos de los señalados en este Capítulo tendrán derecho a deducir únicamente el 20% de los ingresos brutos que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+
+Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 167 de este Capítulo, tendrán derecho a deducir únicamente el 20% de los ingresos brutos que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
 
 ART. 172.- La Secretaría de Finanzas podrán (sic) estimar los ingresos brutos de los sujetos a que se refiere este Capítulo en los siguientes caos (sic):
 
@@ -5152,3 +5166,9 @@ P.O. 31 DE DICIEMBRE DE 1979.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 1o. de Enero de 1980.
+
+P.O. 29 DE FEBRERO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
