@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1977-10-22"
+last_updated: "1978-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1978.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -113,7 +113,7 @@ IV.- Desempeñar los cargos que les impongan las funciones electorales y las de 
 
 V.- Las demás que las leyes señalen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 7°.
 
@@ -198,6 +198,10 @@ El Congreso se integrará por representantes populares electos cada tres años, 
 ###### ARTICULO 14.
 
 Se elegirá un Diputado propietario y un suplente por cada doscientos mil habitantes o fracción que pase de cien mil, tornando en cuenta el censo general del Estado, pero en ningún caso la representación de un Municipio será menor de un diputado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 1978)</small>
+
+Y hasta 4 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -829,7 +833,11 @@ El Tribunal Superior de Justicia se renovará cada seis años, plazo que se comp
 
 El Municipio Libre se organizará y funcionará conforme a las bases siguientes:
 
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa, que entrará en funciones el primero de enero siguiente a las elecciones. El Ayuntamiento se integrará con el número de Regidores que determine la ley correspondiente y radicará en la cabecera del Municipio respectivo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1978)</small>
+
+I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa, que entrará en funciones el primero de enero siguiente a las elecciones.
+
+El Ayuntamiento se integrará con el número de regidores que determine la Ley correspondiente y radicará en la cabecera del Municipio respectivo. En la elección de aquellos municipios cuya población de 300 mil o más habitantes se aplicará además el principio de representación proporcional;
 
 II.- El primer Regidor será el Presidente Municipal; el segundo, Síndico de Hacienda y los demás desempeñarán las funciones que la ley asigne;
 
@@ -870,6 +878,8 @@ VIII.- En las rancherías y en los centros de población exceptuando la Cabecera
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO I.
 
@@ -1013,6 +1023,8 @@ Si la desaparición de poderes ocurriese en los cuatro últimos años de un per�
 
 La ciudad de Villahermosa es la Capital del Estado y la residencia de los Poderes del mismo.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ## Título Duodécimo.
 
 REFORMA A LA CONSTITUCION.
@@ -1022,6 +1034,8 @@ REFORMA A LA CONSTITUCION.
 ###### ARTICULO 83.
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a formar parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, acuerde las referidas reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 84.
 
@@ -1276,3 +1290,9 @@ SEGUNDO.- Estas reformas y adiciones, han sido aprobadas en los términos del Ar
 TERCERO.- Toda norma que de cualquier manera se oponga a estas reformas y adiciones Constitucionales quedarán derogadas a partir de la vigencia de las mismas.
 
 CUARTO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE MAYO DE 1978.
+
+PRIMERO.- Esta adición y reforma, han sido aprobadas, en los términos del Artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
+
+SEGUNDO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
