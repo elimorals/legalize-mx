@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "1997-01-03"
+last_updated: "1997-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -143,6 +143,14 @@ Las fuentes de ingresos se determinarán con base a las leyes aplicables así co
 
 Todos los ingresos o entradas de efectivo se ampararán sin excepción alguna, con la expedición de recibos oficiales debidamente requisitados.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 14 Bis.
+
+Todos los ingresos propios de ley deberán depositarse en cuentas bancarias, procurando obtener los mejores rendimientos financieros.
+
+Los titulares de las Dependencias y Entidades reguladas por esta Ley informarán a la Contaduría Mayor de Hacienda el saldo, número, tipo de cuenta y nombre de la institución bancaria correspondiente, dentro de los quince días posteriores a su apertura e informarán sobre su cancelación dentro de los siguientes quince días a que esto ocurra.
+
 ###### ARTICULO 15.
 
 Las proposiciones que hagan los miembros del Congreso del Estado para modificar las Leyes de Ingresos del Estado o Municipios, leyes fiscales especiales o decretos que rijan en materia de ingresos de las Entidades mencionadas en el Artículo 2o., cuando no estén incluidos en las Leyes de Ingresos del Estado o Municipios, serán sometidos desde luego a la Comisión respectiva para su estudio y dictamen.
@@ -233,13 +241,21 @@ Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayunt
 
 El Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación y Presupuesto y los Titulares de las Entidades de la Administración Pública Paraestatal, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de las propuestas en el proyecto de Presupuesto de Egresos respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 29.
 
-Sólo el Gobernador del Estado y los Ayuntamientos de los Municipios, en sus respectivos ámbitos de competencia, podrán modificar la estructura administrativa y financiera de los programas de las Dependencias y Entidades que estén incluídos en el Presupuesto de Egresos, cuando por razones de interés o seguridad pública lo considere necesario, remitiendo al Congreso las modificaciones que sean competencia de éste.
+En los casos de declaratoria de emergencia por situaciones de seguridad pública, que realicen el Ejecutivo del Estado o los Presidentes Municipales, cuando así lo consideren indispensable, podrán autorizar en cualquier momento, tanto en sus Presupuestos de Egresos como en los de las Entidades de la Administración Pública Estatal y Municipal según corresponda, las transferencias, ampliaciones, creación o supresión de partidas de los Presupuestos de Egresos respectivos, modificando la estructura administrativa y financiera de los programas incluidos en los mismos, debiendo informar dentro de los quince días siguientes al Congreso del Estado o al Cabildo según corresponda, sobre la medida adoptada justificando la disposición, a efecto de que dentro de los treinta días siguientes, éstos dictaminen sobre la procedencia de la medida tomada.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 30.
 
-Al aprobarse el Presupuesto de Egresos por el Congreso del Estado o por los Cabildos, se remitirá al Ejecutivo Estatal o Municipal por el mismo conducto por el que fue enviado, para efectos de su publicación en el Periódico Oficial y ejercicio.
+Al aprobarse el Presupuesto de Egresos por el Congreso del Estado o por los Ayuntamientos, según corresponda, se remitirá al Ejecutivo Estatal para efectos de su publicación en el Periódico Oficial del Estado.
+
+La publicación del Presupuesto de Egresos tanto del Gobierno del Estado, incluyendo a cada uno de los Poderes que lo integran, como de los Ayuntamientos, comprender el desglose a nivel de ramos, programas y partidas. Consecuentemente, también deberán de cumplir con el mismo requisito de publicación de sus Presupuestos de Egresos, los Organismos de la Administración Pública Descentralizada incluyendo a los Organismos dotados de Autonomía que reciben subsidio oficial.
+
+Se deberá cumplir el mismo procedimiento de publicación por el cierre del ejercicio presupuestal, denotando las modificaciones presupuestales efectuadas durante el ejercicio fiscal.
 
 ###### ARTICULO 31.
 
@@ -271,11 +287,13 @@ Las demás Entidades manejarán sus fondos y efectuarán sus pagos a través de 
 
 El ejercicio del gasto público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, la Secretaría de Finanzas del Estado, las Tesorerías Municipales o su equivalente en las Entidades, llevarán el registro de los compromisos establecidos o de control presupuestal, recabando la opinión de la Secretaría de Planeación y Presupuesto o su equivalente, cuando la disponibilidad presupuestal no sea suficiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 37.
 
-La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establece el Reglamento de esta Ley y las reglas generales que emita la Secretaría de Finanzas del Estado y las Tesorerías Municipales en el ámbito de su competencia, las cuales se harán del conocimiento del congreso Local para los efectos de la revisión de la Cuenta Pública por parte de la Contaduría Mayor de Hacienda del Congreso del Estado.
+Toda erogación a cargo del Presupuesto de Egresos deberá ser indispensable, normal y propia de la Entidad o Dependencia que los realiza, de aplicación estricta al ramo y programa al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales, el Reglamento de esta ley y las reglas generales que emitan la Secretaría de Finanzas del Estado y las Tesorerías Municipales en el ámbito de sus competencias, las cuales se harán del conocimiento del Congreso para los efectos de la revisión de la Cuenta Pública por parte de la Contaduría Mayor de Hacienda.
 
-Una erogación se entenderá justificada, cuando exista la evidencia de haber sito (sic) tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros y exista la documentación que determine el compromiso u obligación de la Dependencia o Entidad de que se trate de efectuar el pago.
+Una erogación se entenderá justificada cuando existan las disposiciones y documentos legales, que determinen el compromiso u obligación de hacer el pago, y que además exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros.
 
 ###### ARTICULO 38.
 
@@ -293,17 +311,47 @@ La deuda pública a amortizar, deberá cumplir previamente con lo establecido en
 
 Toda erogación o gasto público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo y se sujetará a los requisitos que se establezcan en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 42.
 
-Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones del que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se destinarán por conducto de la Secretaría de Finanzas, las Tesorerías Municipales o su equivalente en las Entidades, a los programas que consideren convenientes, a la amortización de la deuda pública o a los fines de asistencia social que determinen el Ejecutivo del Estado o los Ayuntamientos.
+Las asignaciones consignadas en el Presupuesto de Egresos del Poder Ejecutivo, de los Ayuntamientos y de las Entidades de la Administración Pública Descentralizada, señalan el límite máximo de las erogaciones del que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se reprogramarán por conducto de la Secretaría de Planeación y Presupuesto, las Tesorerías Municipales, o de las instancias equivalentes en las Entidades, respectivamente, a los programas previstos en el Plan Estatal o Municipal de Desarrollo que consideren convenientes, a la amortización de deuda pública o a los fines de asistencia social que determinen el Ejecutivo o los Presidentes Municipales, previa autorización del Congreso del Estado o del Ayuntamiento, respectivamente. Igual tratamiento deberá darse al ingreso que se obtenga de manera adicional al pronosticado base para la preparación del presupuesto de egresos.
+
+En el ejercicio fiscal que resulte excedente de ingresos sobre egresos, cualquiera que sea la causa de éste, de las Entidades que reciben subsidio o aportación, estatal o municipal, se aplicará a cuenta del subsidio o aportación que les corresponda en el siguiente ejercicio fiscal, cuando no sean reprogramados y ejercidos en el mismo ejercicio conforme a lo señalado en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 43.
 
-Si algunas partidas presupuestales requieren durante su ejercicio que se adecúen sus disponibilidades, se estará a lo siguiente:
+Si algunas partidas presupuestales requieren modificarse para adecuar su disponibilidad durante la vigencia del Presupuesto de Egresos, se estará a lo siguiente:
 
-I.- El Ejecutivo del Estado y los titulares de las Entidades de la Administración Pública Paraestatal por conducto de la Secretaría de Finanzas, solicitarán autorización al Congreso del Estado a más tardar el primero de octubre del ejercicio fiscal en curso de la transferencia, ampliación, creación o supresión de partidas en el Presupuesto de Egresos respectivo y además deberán solicitar autorización a más tardar el 31 de marzo del año siguiente al cierre del ejercicio fiscal o en la fecha de presentación de la Cuenta Pública Anual, de las transferencias finales de partidas en el Presupuesto de Egresos respectivo; y
+I.- El Ejecutivo del Estado y los Titulares de las entidades de la administración pública paraestatal solicitarán por conducto de la Secretaría de Planeación y Presupuesto, la autorización del Congreso del Estado para efectuar transferencias, ampliación, creación o supresión de partidas en el Presupuesto de Egresos autorizado, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen:
 
-II.- El Presidente Municipal y los titulares de las entidades de la Administración Pública Paramunicipal por conducto de la Tesorería Municipal en conjunto con la Sindicatura, solicitarán autorización al Cabildo a más tardar el primero de octubre del ejercicio fiscal en curso la transferencia, ampliación, creación o supresión de partidas en el Presupuesto de Egresos respectivo y además deberán solicitar autorización antes del 31 de marzo del año siguiente al cierre del ejercicio fiscal de las transferencias finales de partidas en el Presupuesto de Egresos respectivo. Las adecuaciones y el acta de la Sesión de Cabildo en que se autoricen, dentro de los quince días siguientes al de la Sesión serán enviadas por el Presidente Municipal al Congreso del Estado para su conocimiento y efectos de la revisión de la Cuenta Pública.
+a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y grupo de gastos en el Presupuesto de Egresos respectivo, siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado.
+
+b) Cuando se efectúen transferencias de distintos grupos de gasto para incrementar el presupuesto de los programas de Inversión en Obra Pública; siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado, sin que en ningún caso se afecten las partidas de asistencia social.
+
+El Congreso del Estado, resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Congreso del Estado dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste o de su Organo de Fiscalización, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, por una sola ocasión. En tanto que para efecto de las excepciones señaladas en los incisos a) y b) anteriores, el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio.
+
+II.- El Poder Judicial por conducto del Presidente del Consejo de la Judicatura, solicitará al Congreso del Estado la autorización correspondiente para efectuar transferencias, ampliación, creación o supresión de partidas en su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada. Excepto en tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá de dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio.
+
+En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Presupuesto sobre la viabilidad financiera de la propuesta.
+
+Sobre la respuesta del Congreso del Estado se aplicará lo dispuesto en el último párrafo de la fracción I del presente artículo.
+
+III.- Tratándose del Presupuesto de Egresos del Poder Legislativo, las solicitudes de modificación presupuestal se presentarán por la Comisión correspondiente, para la consecuente resolución por el Pleno del Congreso. En las modificaciones que contemplen una ampliación al Presupuesto autorizado del ejercicio, por motivos distintos a los considerados de ampliación automática, se deberá obtener la opinión de la Secretaría de Planeación y Presupuesto sobre la viabilidad financiera.
+
+IV.- El Presidente Municipal y los Titulares de las Entidades de la Administración Pública Paramunicipal solicitarán por conducto de la Tesorería Municipal en conjunto con la Sindicatura, la autorización del Ayuntamiento para efectuar transferencias, ampliaciones, creación o supresión de partidas en el Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Ayuntamiento dentro de los quince días siguientes a la fecha en que se efectúen:
+
+a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y grupo de gastos en el Presupuesto de Egresos respectivo, siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado.
+
+b) Cuando se efectúen transferencias de distintos grupos de gasto para incrementar el presupuesto de los programas de Inversión en Obra Pública; siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado, sin que en ningún caso se afecten las partidas de asistencia social.
+
+El Ayuntamiento resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Ayuntamiento dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida. En tanto que para efecto de las excepciones señaladas en los incisos a) y b) anteriores, el Ayuntamiento resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio. Las modificaciones, y en su caso, la certificación del Acuerdo del Ayuntamiento en que se autoricen, deberán ser remitidas dentro de los quince días siguientes al Congreso del Estado para su conocimiento y efectos de revisión de la Cuenta Pública.
+
+En todos los casos de solicitud de autorización como de avisos de modificación presupuestal, se deberá acompañar la información sobre los programas y subprogramas que se pretendan crear y de los que hayan sido o pretendan ser afectados.
+
+Dentro de los términos legales para la presentación de la Cuenta Pública Anual ante el Congreso del Estado, deberá adjuntarse la información relativa al cierre del ejercicio presupuestal y programático, precisando las modificaciones realizadas durante y al final del ejercicio, señalando las autorizaciones y avisos que las sustentan en los términos de esta ley.
 
 ###### ARTICULO 44.
 
@@ -392,6 +440,12 @@ La Secretaría de Finanzas proporcionará a la Secretaría de Planeación y Pres
 ###### ARTICULO 56.
 
 La Secretaría de Finanzas en coordinación con la Secretaría de Planeación y Presupuesto, y las Tesorerías Municipales realizarán periódicamente la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 56 Bis.
+
+El Gobernador del Estado, el Consejo de la Judicatura y los Ayuntamientos, a través de la Secretaría de Planeación y Presupuesto, del Presidente del Consejo de la Judicatura y de los Presidentes Municipales, respectivamente, informarán al Congreso del Estado de la ejecución de sus Presupuestos de Egresos de manera trimestral, dentro de los meses de abril, julio y octubre del ejercicio en curso por los tres primeros, y en el mes de marzo del ejercicio siguiente por lo que corresponde al cuarto trimestre del año; en el que deberá incluirse la evaluación financiera del ejercicio presupuestario en función de los programas que lo integran, así como el monto de las transferencias, ampliación, creación o supresión de partidas. Así mismo, en este informe se deberá precisar el monto y el detalle de las transferencias que no requirieron de autorización. Adicionalmente, y en los mismos plazos señalados, deberán remitir al Congreso del Estado la información financiera que se señala en las Fracciones I, II, IV y V del Artículo 54 de esta Ley.
 
 ###### ARTICULO 57.
 
@@ -586,3 +640,17 @@ UNICO.- El presente decreto entrará en vigor a partir del 1° de enero de 1997.
 P.O. 3 DE ENERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+DECRETO NUMERO 123.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+DECRETO NUMERO 124.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor el día primero de enero de 1998.
