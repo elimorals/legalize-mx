@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2004-06-10"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -67,11 +67,15 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 1.
 
-La presente ley tiene por objeto regular la organización, funcionamiento y coordinación de la administración pública central y paraestatal del Estado libre y soberano de Durango.
+La presente ley tiene por objeto regular la organización y funcionamiento de la administración pública centralizada y paraestatal del Estado Libre y Soberano de Durango.
 
-El Gobernador del Estado, las dependencias del Poder Ejecutivo y la Procuraduría General de Justicia en el Estado, forman parte de la administración pública central; en tanto que los organismos públicos descentralizados, las empresas de participación estatal y los fideicomisos lo son de la administración pública paraestatal.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+El Despacho del Gobernador del Estado, las dependencias del Poder Ejecutivo y la Procuraduría General de Justicia en el Estado, forman parte de la administración pública centralizada.
 
 El Gobernador del Estado, como Titular del Poder Ejecutivo, tiene las atribuciones que le confiere la Constitución Política, esta ley y reglamentos derivados de la misma.
 
@@ -83,13 +87,25 @@ Para los efectos de esta ley, en las disposiciones siguientes se utilizarán ind
 
 La administración pública centralizada está compuesta por las Secretarías, Procuraduría General de Justicia y demás dependencias y órganos desconcentrados de éstas, las unidades administrativas de apoyo, asesoría y coordinación de cualquier naturaleza, que establezca el Ejecutivo del Estado, conforme a las disposiciones legales respectivas; su estructura y funcionamiento se formalizarán y regirán en lo dispuesto por esta ley y demás normas y reglas aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 4.
 
-La administración pública paraestatal se integra por los organismos públicos desconcentrados, las empresas de participación estatal mayoritaria si las hubiere; y los fideicomisos públicos;
+La Administración Pública Paraestatal está integrada por las siguientes Entidades:
+
+I. Los Organismos Públicos Descentralizados;
+
+II. Las Empresas de Participación Estatal;
+
+III. Los Fideicomisos Públicos; y
+
+IV. Aquellas entidades que por su naturaleza no estén comprendidas en la Administración Pública Centralizada, exceptuando a los organismos públicos autónomos.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 5.
 
-El Ejecutivo del Estado, tiene facultades para crear organismos desconcentrados de las secretarías o entidades necesarias a operar programas emergentes, estratégicos y prioritarios, para la prestación de un servicio público, la ejecución de obras o cualquier otro propósito de beneficio colectivo. El decreto correspondiente deberá publicarse en el Periódico Oficial para que surta efectos legales;
+El Gobernador del Estado, por sí o a propuesta de los Titulares de las Secretarías del Ramo, mediante decreto podrá crear órganos desconcentrados que dependerán jerárquicamente de éstas y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso. El decreto correspondiente deberá publicarse en el periódico oficial para que surta sus efectos legales.
 
 ###### ARTICULO 6.
 
@@ -125,23 +141,29 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 V. Rendir la protesta de ley conforme lo dispone al (sic) Artículo 121 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 12.
 
-Los titulares de las dependencias y entidades, no podrán aceptar ni desempeñar empleo ó cargo de la federación, otros estados o municipios, salvo los casos señalados en las leyes; los de docencia u honoríficos; ó de beneficencia pública y privada. La infracción a ésta disposición traerá consigo la pérdida del cargo.
+Los titulares de las dependencias y entidades, no podrán aceptar ni desempeñar empleo o cargo de la federación, otros estados o municipios, salvo los casos señalados en las leyes; los de docencia u honoríficos; o de beneficencia pública y privada. La infracción a esta disposición traerá consigo la pérdida del cargo, previo el procedimiento legal respectivo.
 
 ###### ARTICULO 13.
 
 El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, resolverá cualquier duda sobre la competencia de las dependencias y entidades de la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 14.
 
-Cada dependencia y entidad de la Administración Pública Estatal, deberá elaborar su anteproyecto de presupuesto de egresos, con base en el programa respectivo, presentándolo ante la Secretaría de Finanzas, la cual lo someterá a consideración del Titular del Poder Ejecutivo, para su autorización.
+Cada dependencia y entidad de la Administración Pública Estatal, deberá elaborar su anteproyecto de presupuesto de egresos, con base en el programa respectivo, presentándolo ante la Secretaría de Finanzas y de Administración, la cual lo someterá a consideración del Titular del Poder Ejecutivo, para su autorización.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 15.
 
-El Gobernador del Estado expedirá los reglamentos internos de las dependencias y entidades los que para su validez se publicaran en el periódico oficial.
+El Gobernador del Estado expedirá los reglamentos interiores de las dependencias los que para su validez se publicarán en el Periódico Oficial.
 
-Los titulares de las dependencias y entidades podrán emitir acuerdos y circulares que tiendan a regular la organización y funcionamiento de las mismas, así como manuales administrativos.
+Los titulares de las dependencias y entidades podrán emitir acuerdos, manuales administrativos y circulares que regulen la organización y funcionamiento de las mismas.
 
 ###### ARTICULO 16.
 
@@ -155,7 +177,9 @@ El Ejecutivo del Estado promulgará y publicara las leyes y decretos que expida 
 
 El Gobernador del Estado, podrá nombrar y remover libremente a los servidores de la administración pública, cuyo nombramiento o remoción no esté determinado de manera distinta en la Constitución Política del Estado y en las demás leyes aplicables.
 
-## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
 ### CAPÍTULO I. DE LAS DEPENDENCIAS
 
@@ -167,9 +191,11 @@ Los titulares de las secretarías, ejercerán las funciones de su competencia po
 
 Los titulares de las dependencias del Poder Ejecutivo, formularán, los anteproyectos de leyes, reglamentos, decretos y acuerdos de las materias que correspondan a su competencia y las remitirán al Gobernador del Estado, a través de la Secretaría General de Gobierno, para el trámite conducente.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 21.
 
-Los titulares de las dependencias, podrán delegar en sus subalternos, cualesquiera de sus facultades, salvo aquellas que la Constitución, las leyes y reglamentos dispongan que deban ser ejercidas directamente por ellos.
+Los titulares de las dependencias, podrán delegar en sus subalternos, cualquiera de sus facultades, salvo aquellas que la Constitución, las leyes, reglamentos y demás disposiciones dispongan que deban ser ejercidas directamente por ellos.
 
 ###### ARTICULO 22.
 
@@ -177,27 +203,39 @@ Los actos y procedimientos de las dependencias atenderán a los principios de si
 
 La Administración Pública Centralizada se integrará con base en un servicio público de carrera, que se sujetará a los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, profesionalización y eficacia.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 23.
 
-Los recursos administrativos promovidos contra actos de los Secretarios, serán resueltos dentro del ámbito de su Secretaría y en los términos de los ordenamientos legales aplicables.
+Los recursos administrativos promovidos contra los actos de las Dependencias, serán resueltos dentro del ámbito de su competencia y en los términos de los ordenamientos jurídicos aplicables.
 
 ###### ARTICULO 24.
 
 Cada Secretaría contará cuando menos con un Subsecretario, Directores Subdirectores, Jefes y Subjefes de Departamento, Oficina y por los demás servidores públicos que establezca el reglamento interior respectivo y otras disposiciones legales.
 
-En el reglamento se especificarán las atribuciones de sus unidades administrativas, así como la forma en que sus titulares podrán ser suplidos en sus faltas.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+En el reglamento se especificarán las atribuciones de sus áreas y unidades administrativas, así como la forma en que sus titulares podrán ser suplidos en sus faltas.
 
 ###### ARTICULO 25.
 
 Para la eficaz atención y despacho de los asuntos de su competencia, las dependencias del Ejecutivo del Estado, podrán contar con órganos desconcentrados que les estarán jerárquicamente subordinados y tendrán las atribuciones específicas para ejercer funciones sobre la materia que en cada caso les corresponda.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+Estos órganos desconcentrados se crearán, modificaran o extinguirán por acuerdo o decreto que expida el Titular del Ejecutivo por sí, o a propuesta del Secretario del ramo respectivo.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 26.
 
-Cuando alguna Secretaría del ramo, requiera informes, datos o la cooperación técnica de cualquier otra u otras dependencias, éstas tendrán la obligación de proporcionarlos.
+Cuando alguna Secretaría del ramo, Entidad, Órgano o Unidad Administrativa, incluyendo las adscritas al despacho del Titular del Ejecutivo, por necesidad del ejercicio de sus atribuciones o por encargo, requiera informes, datos, cooperación o colaboración técnica de cualquier otra dependencia, éstas tendrán la obligación de proporcionarlos.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 27.
 
-Al tomar posesión del cargo y al concluir éste, los titulares de las dependencias, entidades y organismos paraestatales, previstas en ésta Ley, elaborarán un inventario sobre los bienes que se encuentran en poder de las mismas, debiendo registrar éste en la Secretaría de Contraloría y Modernización Administrativa, quien verificará la exactitud del mismo.
+Al tomar posesión del cargo y al concluir éste, los titulares de las dependencias y entidades paraestatales, previstas en ésta Ley, elaborarán un inventario sobre los bienes que se encuentran en poder de las mismas, debiendo dar cumplimiento a las disposiciones establecidas en la Ley para la Entrega-Recepción de las Administraciones Públicas del Estado y Municipios del Estado de Durango.
 
 ### CAPÍTULO II. FACULTADES DE LAS SECRETARÍAS
 
@@ -223,7 +261,17 @@ VIII. Secretaría de Contraloría y Modernización Administrativa;
 
 IX. Secretaria de Recursos Naturales y Medio Ambiente; y
 
-X. Procuraduría General de Justicia.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+X. Secretaría de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XI. Secretaría de Desarrollo Social; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XII. Procuraduría General de Justicia.
 
 ###### ARTICULO 29.
 
@@ -231,7 +279,11 @@ La Secretaría General de Gobierno, es la dependencia responsable de conducir la
 
 I. Conducir las relaciones del Poder Ejecutivo con los otros Poderes del Estado, los Ayuntamientos y los Tribunales Independientes;
 
-II. Conducir por delegación del Ejecutivo, los asuntos de orden político interno;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+II.- Conducir por delegación del Ejecutivo, los asuntos de orden político interno. Con base en esta facultad debe dirigir las relaciones políticas del poder ejecutivo con los partidos y agrupaciones políticas, las organizaciones sociales, las asociaciones religiosas y demás organismos que tengan objetivos similares.
+
+Así mismo deberá fomentar el desarrollo político, contribuir al fortalecimiento de las instituciones democráticas, promover la participación ciudadana y favorecer la construcción de acuerdos políticos y consensos sociales para que en el marco del estado de derecho se preserve la gobernabilidad democrática
 
 III. Cumplir y hacer cumplir los acuerdos, ordenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otras dependencias;
 
@@ -261,7 +313,9 @@ XV. Compilar y archivar las leyes, reglamentos, circulares, acuerdos expedidos p
 
 XVI. Compilar y archivar el Periódico Oficial del Estado y el Diario Oficial de la Federación;
 
-XVII. Vigilar que se cumpla con la normatividad del Sistema Estatal de Seguridad Pública en la Entidad;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XVII. Coordinar y supervisar el cabal cumplimiento de la normatividad del Sistema Estatal de Seguridad Pública en la Entidad;
 
 XVIII. Velar por la protección civil de las personas, sus bienes y el entorno geográfico que las rodea; teniendo como acción prioritaria la prevención y mitigación de riesgos y/o desastres ante la ocurrencia de cualquier agente perturbador ya sea de origen natural o humano;
 
@@ -269,19 +323,19 @@ XIX. Organizar y vigilar al Instituto Estatal de Defensoría Pública;
 
 XX. Auxiliar a las autoridades federales, en los términos de las leyes relativas en materia de: cultos religiosos; armas de fuego y explosivos; loterías, rifas, juegos prohibidos y migración;
 
-XXI. Aplicar la ejecución de las sentencias dictadas por los tribunales a los sentenciados que sean puestos a disposición del Ejecutivo del Estado;
+XXI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXII. Acordar las libertades absolutas, libertades preparatorias, libertades preliberacionales, e indultos, tanto de alfabetización como cualquier beneficio a favor del interno; así como la vigilancia y supervisión de quienes gozan del beneficio de la suspensión condicional de la condena;
+XXII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXIII. Elaborar y ejecutar los programas de readaptación social;
+XXIII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXIV. Administrar los Centros de Readaptación Social;
+XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXV. Tramitar, por acuerdo del Gobernador, las solicitudes de extradición y traslado de reos;
+XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXVI. Celebrar convenios con los ayuntamientos, para la custodia de reos, sujetos a proceso judicial;
+XXVI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXVII. Vigilar y coordinar el establecimiento de instituciones que prevengan y controlen la farmacodependencia y la drogadicción;
+XXVII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
 XXVIII. Llevar el libro de registro de los notarios y autorizar los protocolos relativos, así como organizar y controlar el Archivo de Notarías del Estado;
 
@@ -289,7 +343,9 @@ XXIX. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro P�
 
 XXX. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil en el Estado;
 
-XXXI. Administrar y vigilar el servicio de transporte público de bienes y cosas, concesionando a particulares en carreteras y caminos de jurisdicción estatal, proveyendo los servicios de inspección y seguridad en los términos que señalan las leyes y reglamentos respectivos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XXXI. Administrar y vigilar el servicio de transporte público de bienes y cosas, concesionado a particulares en carreteras y caminos de jurisdicción estatal;
 
 XXXII. Otorgar, modificar y revocar las concesiones y permisos necesarios para la explotación de servicio público de transporte en vialidades de jurisdicción estatal en todas las modalidades que contempla la ley de transportes del Estado;
 
@@ -429,11 +485,19 @@ LVIII. Coordinar y supervisar en conjunto con las dependencias interesadas, enti
 
 LIX. Administrar los talleres gráficos del Estado; y
 
-LX. Los demás que le señalen las leyes, reglamentos y convenios vigentes.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+LX. Suscribir en los términos de las leyes de las materias, los contratos de compraventa, arrendamiento, prestación de servicios técnicos y profesionales y los relativos a los bienes muebles, así como los diversos convenios de la administración pública estatal; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+LXI. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Comunicaciones y Obras Públicas, es la dependencia responsable de planear, conducir, ejecutar, normar y evaluar la política general de comunicaciones, obras públicas, desarrollo urbano y vivienda. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Comunicaciones y Obras Públicas, es la dependencia responsable de planear, conducir, ejecutar, normar y evaluar la política general de comunicaciones y obras públicas. Le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas de construcción, conservación, rehabilitación y operación de carreteras, caminos, puentes y demás vías de comunicación de jurisdicción estatal;
 
@@ -457,31 +521,37 @@ X. Proyectar y ejecutar programas de obras de infraestructura escolar y deportiv
 
 XI. En coordinación con la Secretaría de Salud, proyectar y ejecutar obras de infraestructura para este sector;
 
-XII. Formular y ejecutar el Programa Estatal de Desarrollo Urbano, con el objetivo de lograr de manera armónica el crecimiento ordenado de los asentamientos humanos, sin menoscabo del medio ambiente y la ecología;
+XII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XIII. Con respeto a la autonomía municipal, promover y participar en la elaboración de los planes directores de desarrollo urbano y vivienda de los municipios, así como de las zonas conurbadas, vigilando el cumplimiento de los mismos;
+XIII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XIV. Promover y ejecutar la construcción de obras de infraestructura y equipamiento para el desarrollo urbano, protegiendo el medio ambiente y los ecosistemas, en coordinación con los gobiernos municipales y la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-XV. Proyectar la distribución de la población y la ordenación de los centros de población, conjuntamente con las instituciones que corresponda y concertando acciones con los sectores social y privado;
+XIV. Ejecutar la construcción de obras de infraestructura y equipamiento para el desarrollo urbano, protegiendo el medio ambiente y los ecosistemas, en coordinación con los gobiernos municipales y la participación de los sectores social y privado;
 
-XVI. Coadyuvar con las autoridades competentes para dictar las medidas necesarias para evitar la especulación con los terrenos rurales y urbanos, tanto privados como ejidales, y propiciar la regularización de los asentamientos humanos;
+XV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+
+XVI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
 XVII. Estudiar y aprobar, en su caso, los expedientes relativos al denuncio y enajenación de terrenos municipales, así como proyectar en coordinación con el Gobierno Federal y los Municipios la dotación de fundos legales a las poblaciones del Estado;
 
 XVIII. A solicitud de los Ayuntamientos, asesorar a los Municipios en la elaboración de proyectos y ejecución de obras públicas en general, así como en su administración y operación;
 
-XIX. Formular y ejecutar las obras, planes y programas específicos a cargo del Estado para el abastecimiento de agua potable, tratamiento de aguas residuales y servicios de drenaje y alcantarillado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-XX. Con la participación de las tres instancias de gobierno y los sectores social y privado, ejecutar obras y programas para la atención de los grupos sociales más desprotegidos, en especial los indígenas, los pobladores de zonas áridas, los habitantes de áreas rurales y los colonos de las áreas urbanas, buscando elevar el bienestar social de la población;
+XIX. Ejecutar las obras, planes y programas específicos a cargo del Estado para el abastecimiento de agua potable, tratamiento de aguas residuales y servicios de drenaje y alcantarillado;
 
-XXI. Diseñar, conducir y vigilar el Programa Estatal de Vivienda, promoviendo y concertando acciones con el Gobierno Federal, los municipios y los sectores social y privado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XX. En coordinación con la instancia del Gobierno del Estado encargada de la planeación y el desarrollo social, ejecutar obras y programas para la atención de los grupos sociales más desprotegidos, en especial los indígenas, los pobladores de zonas áridas, los habitantes de áreas rurales y los colonos de las áreas urbanas, buscando elevar el bienestar social de la población;
+
+XXI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
 XXII. Asesorar y apoyar a los ayuntamientos que lo soliciten, respecto de la procedencia de las solicitudes de fraccionamiento, relotificación, fusión y subdivisión de terrenos y la construcción del régimen de propiedad en condominio; así como en la supervisión de la ejecución de las obras de urbanización; atendiendo a la ley y a sus reglamentos.
 
-XXIII. Promover la vivienda progresiva, la participación de la comunidad en la autoconstrucción de vivienda y la integración de la misma al desarrollo urbano, así como fomentar la organización de sociedades cooperativas de vivienda en materiales de construcción, en coordinación con el gobierno federal y los municipios;
+XXIII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
-XXIV. Promover, fomentar y realizar investigaciones relacionadas con la vivienda;
+XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
 XXV. Proyectar las normas relativas para el mejor uso, explotación y aprovechamiento de los bienes inmuebles del Gobierno del Estado, elaborar y mantener al corriente el avalúo de dichos bienes y reunir, revisar y determinar las normas y procedimientos para realizarlo con la Secretaría de Contraloría y Modernización Administrativa;
 
@@ -581,7 +651,33 @@ XXXIX. Establecer y desarrollar los programas de modernización administrativa e
 
 XL. Establecer medidas de mejora de las normas que regulan la actividad económica estatal y municipal, que faciliten el flujo de materias primas, insumos, mercancías, servicios y recursos, que fomenten la inversión mediante la eliminación de las regulaciones obsoletas y/o inadecuadas, que impidan el desempeño competitivo de los integrantes del proceso industrial en el marco de una economía de mercado;
 
-XLI. La demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLI. Impulsar el desarrollo turístico y el fomento de la industria audiovisual en congruencia con las prioridades incluidas en el Plan Estatal de Desarrollo y los programas que de éste se deriven;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLII. Desarrollar en coordinación con la Secretaría de Comunicaciones y Obras Públicas la promoción de infraestructura turística en áreas estratégicas de la Entidad;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLIII. Promover y fomentar la inversión de empresas turísticas y de prestadores de servicios para apoyar el desarrollo del sector a través de una cartera de proyectos en esta materia;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLIV. Celebrar convenios o acuerdos de colaboración y coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipales y con los sectores social y privado para la promoción y fomento del sector turístico, previo acuerdo del titular del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLV. Representar al Titular del Poder Ejecutivo en los Comités Técnicos de los Fideicomisos del Impuesto sobre Hospedaje y del Fondo de Promoción Turística;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLVI. Establecer sistemas de información turística que permitan visualizar de manera general indicadores en diversas áreas de la misma actividad, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XLVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 33.
 
@@ -865,7 +961,25 @@ XXVI. Vigilar la exacta y adecuada observancia de las Leyes que rijan en materia
 
 XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y
 
-XXVIII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XXVIII. Designar y remover a los comisarios públicos y sus suplentes, en los órganos de gobierno o de vigilancia de las Entidades de la administración pública paraestatal, así como a los titulares de las unidades de control interno quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Modernización Administrativa;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XXIX. Aplicar dentro del ámbito de su competencia la Ley en materia de responsabilidades de los servidores públicos del Estado y de los Municipios;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XXX. Elaborar y ejecutar programas de capacitación y evaluación permanente de los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XXXI. Establecer los mecanismos que permitan instrumentar y operar el servicio público de carrera, conforme a las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XXXII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos.
 
 ###### ARTICULO 37.
 
@@ -947,6 +1061,156 @@ XXXVII. Impulsar la realización y participación de exposiciones que sobre el t
 
 XXXVIII. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 37 bis.- La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, la protección ciudadana, la prevención en la comisión de delitos, la readaptación social y la conservación del orden público en el Estado, y le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer al Titular del Ejecutivo los programas relativos a seguridad pública y protección ciudadana y ejercer acciones necesarias que aseguren la libertad de la población, la prevención del delito y la readaptación social;
+
+II. Formular, conducir y evaluar las políticas y programas de seguridad pública, de conformidad con el Plan Estatal de Desarrollo;
+
+III. Elaborar y ejecutar programas tendientes a prevenir y combatir las conductas ilícitas;
+
+IV. Promover la participación ciudadana en la formulación de programas y acciones en materia de seguridad pública y prevención del delito;
+
+V. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en la entidad. Asimismo, instrumentar los mecanismos de coordinación y colaboración con la Procuraduría General de Justicia del Estado, que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones;
+
+VI. Auxiliar a las autoridades federales, municipales y de otras entidades de la República en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública;
+
+VII. Participar en la elaboración de programas para atender a las víctimas de delitos;
+
+VIII. Establecer un sistema destinado a procesar, analizar y estudiar información para la prevención de los delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos;
+
+IX. Elaborar y difundir estudios multidisciplinarios y estadísticos sobre la delincuencia;
+
+X. Formular, ejecutar y evaluar los programas de readaptación social;
+
+XI. Aplicar la ejecución de sentencias, dictadas por los tribunales a las personas sentenciadas que sean puestos a disposición del Ejecutivo del Estado;
+
+XII. Conocer y resolver sobre los beneficios de las libertades absolutas, libertades preparatorias, libertades preliberacionales, a favor de las personas internas en los centros de reclusión; así como la vigilancia y supervisión de quienes gozan del beneficio de la suspensión condicional de la condena;
+
+XIII. Supervisar y vigilar la correcta ejecución de las penas impuestas por la comisión de delitos, administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador, las solicitudes de amnistía e indultos, extradición y traslado de reos;
+
+XIV. Celebrar convenios con los ayuntamientos, para la custodia de reos, sujetos a proceso judicial;
+
+XV. Asegurar y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+
+XVI. Diseñar, proponer y en su caso establecer programas tendientes a prevenir el pandillerismo, el alcoholismo y la farmacodependencia, en coordinación con las dependencias federales, estatales y municipales competentes;
+
+XVII. Autorizar, regular, controlar y supervisar los servicios de seguridad privada ofrecidos por particulares;
+
+XVIII. Promover la profesionalización y modernización de los cuerpos de seguridad pública del Estado;
+
+XIX. Convenir la capacitación y certificación de los cuerpos policíacos públicos y privados y de sus integrantes, como estrategia para el fortalecimiento de la seguridad pública de la Entidad;
+
+XX. Auxiliar a las autoridades judiciales y administrativas, cuado (sic) sea requerida para ello;
+
+XXI. Proveer los servicios de inspección y seguridad previsto en el Título Segundo capítulo VI de la Ley de Transportes para el Estado de Durango;
+
+XXII. Organizar y dirigir cuerpos de policía preventiva en términos de la Ley de Seguridad Pública del Estado;
+
+XXIII. Preservar el orden, la paz pública, la integridad física y el patrimonio de las personas, garantizar la seguridad ciudadana creando y manteniendo las condiciones preventivas adecuadas para tal efecto;
+
+XXIV. Elaborar y difundir, estudios e instructivos que contengan indicaciones prácticas sobre acciones preventivas para la ciudadanía;
+
+XXV. Elaborar, ejecutar y evaluar programas destinados a dar atención y orientación integral a las víctimas del delito; y
+
+XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+Artículo 37 bis 1.- La Secretaría de Desarrollo Social es la dependencia del Ejecutivo Estatal responsable de programar, formular, conducir, evaluar y normar la política de planeación democrática, así como la relativa al desarrollo social de la Entidad. Le compete el despacho de los siguientes asuntos:
+
+I. Formular, conducir y evaluar la política de desarrollo social en coordinación con las dependencias federales y municipales correspondientes y los sectores social y privado;
+
+II. Coordinar y realizar las acciones que la Federación y el Ejecutivo del Estado pacten con los gobiernos municipales para el desarrollo social de las diversas regiones del Estado;
+
+III. Impulsar, con la participación de los sectores social y privado, programas tendientes a mejorar el nivel de vida de la población, especialmente de los sectores más necesitados;
+
+IV. Promover, coordinar y ejecutar acciones que contribuyan a combatir la pobreza, igualar las oportunidades del desarrollo y a generar mejores condiciones de vida de la población en situación de riesgo y marginación;
+
+V. Identificar zonas marginadas y definir los grupos de atención prioritaria;
+
+VI. Coordinar y concertar acciones con las dependencias encargadas de operar programas de desarrollo y de asistencia social, para satisfacer oportunamente las necesidades básicas de los sectores más vulnerables de la población, mediante la implementación de programas conjuntos o de integración de paquetes básicos de ayuda;
+
+VII. Promover, fomentar y fortalecer la organización formal de ejidatarios, comuneros, colonos, grupos y sectores sociales, a través de la integración de comités de desarrollo social y concertar con ellos programas orientados a elevar y mejorar sus condiciones de vida;
+
+VIII. Brindar permanentemente los servicios de apoyo técnico en materia de desarrollo social a los municipios de la entidad y a los grupos y sectores organizados de la sociedad;
+
+IX. Establecer en coordinación con la Secretaría de Educación, la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado, programas de participación comunitaria;
+
+X. Formular, promover y concertar programas de construcción y mejoramiento de vivienda, sobre todo los que beneficien a los sectores más necesitados;
+
+XI. Promover y fomentar la organización de sociedades constructoras de vivienda y de materiales de construcción en las comunidades, en coordinación con las dependencias correspondientes;
+
+XII. Someter a consideración del Gobernador del Estado los estudios de expropiación por causa de utilidad pública de inmuebles para construcción de vivienda popular;
+
+XIII. Concertar programas prioritarios para la atención de los pueblos y comunidades indígenas y habitantes de las zonas rurales y urbanas marginadas de la Entidad;
+
+XIV. Concertar programas a través de los cuales se establezca el compromiso de apoyar a los emigrados de la Entidad, así como atender a los familiares más próximos de los emigrantes;
+
+XV. Concertar con los tres niveles de gobierno y las comunidades de duranguenses organizados que radican en el extranjero obras y acciones en beneficio directo de sus comunidades de origen;
+
+XVI. Promover la construcción de obras de infraestructura social básica en agua potable, drenaje, electrificación, saneamiento ambiental y equipamiento urbano;
+
+XVII. Contribuir, en coordinación con las áreas del Gobierno del Estado competentes, con los municipios y los sectores social y privado en el mejoramiento de las condiciones alimenticias de la población en situación de pobreza extrema y marginación;
+
+XVIII. Establecer y evaluar el catálogo de índices de medición de pobreza y marginación; así como aplicar mecanismos de evaluación y seguimiento de las políticas, programas y acciones en materia de desarrollo social, verificando su impacto y resultados obtenidos;
+
+XIX. Convenir con los municipios la elaboración, ejecución, registro de los programas de inversión en materia de desarrollo social así como los de combate a la pobreza;
+
+XX. Promover con las universidades e instituciones de educación media o superior o con los organismos que los agrupen legalmente, así como con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general;
+
+XXI. Promover y gestionar ante el Gobierno Federal, los recursos necesarios para el desarrollo económico y social del Estado;
+
+XXII. Concertar programas de inversión, obras y servicios entre el Gobierno del Estado y las dependencias del Gobierno Federal;
+
+XXIII. Promover y concertar con los ayuntamientos, las actividades tendientes a impulsar el desarrollo regional y municipal;
+
+XXIV. Coordinar la operación de las dependencias federales a fin de lograr la eficaz utilización de los recursos financieros para el desarrollo de la Entidad;
+
+XXV. Coordinar las acciones del proceso de promoción y gestión del desarrollo del Estado, con todas las acciones de los municipios y del Gobierno Federal, en los términos de los convenios respectivos;
+
+XXVI. Celebrar convenios con los ayuntamientos para el fomento del desarrollo económico y social;
+
+XXVII. Programar, dirigir, coordinar, operar y controlar la ejecución de los programas de fomento económico y social para el desarrollo de la Entidad;
+
+XXVIII. Promover y apoyar mecanismos de financiamiento para el bienestar social y el desarrollo regional;
+
+XXIX. Integrar los programas operativos anuales de coordinación sectorial, regionales y especiales para la ejecución del Plan Estatal de Desarrollo;
+
+XXX. Presentar al Ejecutivo los anteproyectos de presupuestos de egresos en materia de desarrollo económico y social;
+
+XXXI. Proporcionar asesoría para la formulación, ejecución y control de los planes municipales de desarrollo, que le sea solicitada por los ayuntamientos;
+
+XXXII. Evaluar la eficiencia de ejecución de la planeación y reorientar, en su caso, las actividades, informando de ello a la Secretaría de la Contraloría y de Modernización Administrativa del Estado;
+
+XXXIII. Celebrar los convenios necesarios para promover el desarrollo con los Ayuntamientos, organismos descentralizados, empresas de participación estatal y particulares;
+
+XXXIV. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos;
+
+XXXV. Celebrar, por delegación directa del Ejecutivo del Estado, convenios con la Administración Pública Federal y los Municipios, tendientes a desarrollar la obra pública en la Entidad y ejercer las facultades que se deriven de ellos;
+
+XXXVI. Estudiar las circunstancias socio-económicas de los grupos marginados y dictar las medidas necesarias para lograr que las acciones coordinadas de los gobiernos Federal, Estatal y Municipal, les sean útiles para su desarrollo;
+
+XXXVII. Operar los avances físicos y financieros de los programas de inversión convenidos entre los gobiernos Federal, Estatal y Municipal;
+
+XXXVIII. Apoyar y verificar el avance de las obras en los Municipios, vigilando su cumplimiento de acuerdo a las especificaciones programadas;
+
+XXXIX. Operar el Sistema Estatal de Planeación;
+
+XL. Mantener informado al Ejecutivo del Estado, en todo lo concerniente a la estricta aplicación de los recursos concertados;
+
+XLI. Ofrecer en forma permanente al Ejecutivo del Estado, información sobre el impacto de las acciones programadas, evaluando sus alcances;
+
+XLII. Elaborar el Convenio Anual de Desarrollo Social;
+
+XLIII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de ley, reglamentos y demás disposiciones de carácter general, que requieran los asuntos del desarrollo económico y social de la entidad;
+
+XLIV. Desarrollar todas las funciones que le asigne el titular del Poder Ejecutivo, en materia de promoción y gestión de desarrollo estatal; y
+
+XLV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
 ###### ARTICULO 38.
 
 La Procuraduría General de Justicia, es la dependencia responsable del Ministerio Público y de prestar consejo jurídico al Gobierno del Estado. Le compete el despacho de los siguientes asuntos:
@@ -957,7 +1221,9 @@ II. Emitir su consejo jurídico, en el orden estrictamente técnico y constituci
 
 III. Intervenir de manera preferente y destacada en los procesos de amparo, que planteen cuestiones de relevante interés público;
 
-IV. Establecer los sistemas y mecanismos que mejoren sustancialmente los servicios, que como atribución constitucional debe brindar a la sociedad; dando respuesta inmediata a las demanda (sic) de seguridad pública, procuración de justicia, proceso o juicio de garantías, únicamente a quienes garanticen su interés procesal;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+IV. Establecer los sistemas y mecanismos que mejoren sustancialmente los servicios, que como atribución constitucional debe brindar a la sociedad; dando respuesta inmediata a las demandas de procuración de justicia, proceso o juicio de garantías, únicamente a quienes garanticen su interés procesal;
 
 V. Resolver en definitiva en los siguientes casos:
 
@@ -993,7 +1259,13 @@ XVI. Fijar los criterios y procedimientos para el ingreso, la adscripción, el c
 
 XVII. Resolver en forma oportuna, las dudas que se susciten con motivo de la interpretación y aplicación de la presente ley, así como los casos no previstos en la misma; y
 
-XVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XVIII. Instrumentar los mecanismos de coordinación y colaboración con la Secretaría de Seguridad Pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ### CAPITULO III. DE LOS ÓRGANOS ADSCRITOS AL TITULAR DEL
 
@@ -1013,9 +1285,11 @@ IV. Secretaria Técnica;
 
 V. Secretaría Auxiliar y Coordinación de Audiencias;
 
-VI. Dirección de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-VII. Comité de Planeación para el Desarrollo del Estado;
+VI. Consejería General de Asuntos Jurídicos;
+
+VII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
 
 VIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2003)
 
@@ -1027,199 +1301,61 @@ XI. Jefatura de Ayudantes; y
 
 XII. Las demás que determine el Titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 40.
 
-Los órganos adscritos a que se hace referencia en el artículo que antecede, tendrán las atribuciones o modificaciones que mediante acuerdo les asigne el Gobernador del Estado, quien podrá cambiarlos de adscripción, o suprimirlos, mediante el decreto correspondiente, que se publicará en el Periódico Oficial del Gobierno del Estado, a excepción de los artículos que se refieren al Comité de Planeación para el Desarrollo del Estado.
+Los órganos adscritos a que se hace referencia en el artículo que antecede, tendrán las atribuciones o modificaciones que mediante acuerdo les asigne el Gobernador del Estado, quien podrá cambiarlos de adscripción, o suprimirlos, mediante el decreto correspondiente, que se publicará en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO 41.
 
-El Comité de Planeación para el Desarrollo del Estado de Durango, es un Organismo Público Descentralizado, dotado de personalidad jurídica y patrimonio propio, que tiene por objeto promover y coadyuvar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo, buscando que sean compatibles entre sí, los esfuerzos que realicen la Administración Pública Federal, el Gobierno del Estado y los Ayuntamientos de la Entidad, relacionados con la planeación, ejecución, evaluación e información del proceso de desarrollo socioeconómico de la Entidad, propiciando la colaboración en estas tareas de los diversos sectores de la sociedad.
-
-El Comité de Planeación para el desarrollo del Estado, es la dependencia responsable de planear, programar, formular, conducir y evaluar la política general del desarrollo económico y social de la Entidad. Le corresponde el despacho de los siguientes asuntos:
-
-I. Promover y gestionar ante el Gobierno Federal, los recursos necesarios para el desarrollo económico y social del Estado;
-
-II. Concertar programas de inversión, obras y servicios entre el Gobierno del Estado y las dependencias del Gobierno Federal;
-
-III. Promover y concertar con los ayuntamientos, las actividades tendientes a impulsar el desarrollo regional y municipal;
-
-IV. Coordinar la operación de las dependencias federales a fin de lograr la eficaz utilización de los recursos financieros para el desarrollo de la Entidad;
-
-V. Coordinar las acciones del proceso de promoción y gestión del desarrollo del Estado, con todas las acciones de los municipios y del Gobierno Federal, en los términos de los convenios respectivos;
-
-VI. Celebrar convenios con los ayuntamientos para el fomento del desarrollo económico y social;
-
-VII. Programar, dirigir, coordinar, operar y controlar la ejecución de los programas de fomento económico y social para el desarrollo de la Entidad;
-
-VIII. Gestionar e impulsar la participación de las comunidades y del sector social y privado en la obra de gobierno;
-
-IX. Proyectar y coordinar, con la participación del Gobierno de (sic) Estado y los municipios, la planeación regional;
-
-X. Promover y apoyar mecanismos de financiamiento para el bienestar social y el desarrollo regional;
-
-XI. Integrar los programas operativos anuales de coordinación sectorial, regionales y especiales para la ejecución del Plan Estatal de Desarrollo;
-
-XII. Presentar al Ejecutivo los anteproyectos de presupuestos de egresos en materia de desarrollo económico y social;
-
-XIII. Propiciar la integración de los sectores social y privado en el sistema de planeación, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
-
-XIV. Elaborar el Plan Estatal de Desarrollo;
-
-XV. Proporcionar asesoría para la formulación, ejecución y control de los planes municipales de desarrollo, que le sea solicitada por los ayuntamientos;
-
-XVI. Promover la constitución de los comités de planeación para el desarrollo municipal y su funcionamiento, de conformidad con las leyes aplicables;
-
-XVII. Evaluar la eficiencia de ejecución de la planeación y reorientar, en su caso, las actividades, informando de ello a la Secretaría de la Contraloría del Estado;
-
-XVIII. Celebrar los convenios necesarios para promover el desarrollo con los Ayuntamientos, organismos descentralizados, empresas de participación estatal y particulares;
-
-XIX. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos;
-
-XX. Celebrar, por delegación directa del Ejecutivo del Estado, convenios con la Administración Pública Federal y los Municipios, tendientes a desarrollar la obra pública en la Entidad y ejercer las facultades que se deriven de ellos;
-
-XXI. Estudiar las circunstancias socio-económicas de los grupos marginados y dictar las medidas necesarias para lograr que las acciones coordinadas de los gobiernos Federal, Estatal y Municipal, les sean útiles para su desarrollo;
-
-XXII. Operar los avances físicos y financieros de los programas de inversión convenidos entre los gobiernos Federal, Estatal y Municipal;
-
-XXIII. Apoyar y verificar el avance de las obras en los Municipios, vigilando su cumplimiento de acuerdo a las especificaciones programadas;
-
-XXIV. Operar el Sistema Estatal de Planeación;
-
-XXV. Mantener informado al Ejecutivo del Estado, en todo lo concerniente a la estricta aplicación de los recursos concertados;
-
-XXVI. Ofrecer en forma permanente al Ejecutivo del Estado, información sobre el impacto de las acciones programadas, evaluando sus alcances;
-
-XXVII. Elaborar el Convenio Anual de Desarrollo Social;
-
-XXVIII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de ley, reglamentos y demás disposiciones de carácter general, que requieran los asuntos del desarrollo económico y social de la entidad; y
-
-XXIX. Desarrollar todas las funciones que le asigne el titular del Poder Ejecutivo, en materia de promoción y gestión de desarrollo estatal.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 42.
 
-El Comité, para el adecuado cumplimiento de sus atribuciones, se integrará de la siguiente manera:
-
-I. Un Presidente, que será el C. Gobernador del Estado;
-
-II. Un Coordinador General, que será designado por el Gobernador del Estado;
-
-III. Un Secretario Técnico, que será el titular en el Estado, de la Delegación de la Secretaría de Desarrollo Social del Gobierno Federal;
-
-IV. Los titulares de las dependencias del Ejecutivo Estatal que señale el C. Gobernador del Estado;
-
-V. Los titulares de los órganos que actúen en el Estado, de las dependencias y entidades de la Administración Pública Federal; y
-
-VI. Los titulares de las comisiones donde participen los sectores público, social y privado, cuyas acciones interesen al desarrollo socio-económico de la Entidad.
-
-Por cada miembro propietario de los señalados en las fracciones IV, V y VI, se designará un suplente.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 43.
 
-También podrán formar parte del Comité:
-
-I. Los C.C. Presidentes Municipales;
-
-II. Los representantes de las organizaciones mayoritarias de Trabajadores y Campesinos, así como de las sociedades cooperativas que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
-
-III. Los representantes de las organizaciones mayoritarias de empresarios que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
-
-IV. Los representantes de instituciones de educación superior y de centros de investigación que operen en el Estado; y
-
-V. Los Senadores y Diputados Federales por la Entidad, así como los Diputados Locales.
-
-El Comité deberá extender la invitación correspondiente y propiciar la activa participación de quiénes acepten formar parte de él. Por cada uno de los miembros propietarios se designará un suplente.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 44.
 
-Son facultades del Coordinador General:
-
-I. Promover y gestionar los recursos para los diferentes programas relacionados con el Desarrollo Estatal;
-
-II. Operar la planeación, programación y concertación para el desarrollo del Estado, de acuerdo a la encomienda del Ejecutivo Estatal, además de coordinar y evaluar la Política General de Desarrollo de la Entidad;
-
-III. Coordinar los trabajos para la formulación del Plan Estatal de Desarrollo y de los informes anuales del Ejecutivo del Estado;
-
-IV. Ejercer la operación, programación y concertación de los recursos de inversión convenidos participativamente entre los tres niveles de Gobierno;
-
-V. Operar los programas y recursos asignados a las diversas dependencias y a los ejecutores de la obra pública, así como los resultados de su ejecución; y
-
-VI. Representar al Comité en todos los actos en que éste participe, así como ejecutar las tareas especiales que le encomiende el titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 45.
 
-Al Secretario Técnico, corresponde:
-
-I. Prestar el apoyo técnico necesario para el cumplimiento de los objetivos y tareas que corresponden al Comité;
-
-II. Apoyar la formulación, actualización, instrumentación del Plan Estatal de Desarrollo, siguiendo los lineamientos dictados por el Presidente del Comité;
-
-III. Coadyuvar a la formulación y proponer los planes, programas y proyectos de desarrollo que ordene el Presidente del Comité, encargándose de las funciones de presupuestación, evaluación e información relacionadas con los mismos;.
-
-IV. Participar, junto con el Coordinador General, en la formación de grupos de trabajo y de los Subcomités Sectoriales, Regionales y Especiales;
-
-V. Participar en la formulación del Reglamento Interior del Comité;
-
-VI. Sugerir al Presidente del Comité, programas y acciones a concertar entre el Ejecutivo del Estado, el Ejecutivo Federal y los Municipios de la Entidad; y
-
-VII. Ejecutar las tareas especiales que le encomiende el Presidente del Comité.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 46.
 
-A los representantes de las dependencias del Ejecutivo del Estado, corresponde:
-
-I. Participar en todos los grupos de trabajo, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
-
-II. Participar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo;
-
-III. Programar las actividades de sus dependencias, conforme a sus lineamientos y objetivos del Plan Estatal de Desarrollo, buscando siempre los aspectos compatibles y la coordinación de sus programas con los del Gobierno Federal y los de los Municipios de la Entidad; y
-
-IV. Ejecutar las tareas especiales que les encomiende el Presidente del Comité.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 47.
 
-A los representantes de los Órganos de la Administración Pública Federal que operen en el Estado, se les invitará a:
-
-I. Participar en los grupos de trabajos, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
-
-II. Cuidar que la formulación de sus programas, sea compatible y la ejecución de los mismos, se haga en forma coordinada con los planes, programas y proyectos del Gobierno del Estado y de los Municipios de la Entidad, y
-
-III. Sugerir al Presidente del Comité, programas y acciones a concertar entre el Ejecutivo del Estado y el Ejecutivo Federal.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 48.
 
-Con respeto a la autonomía municipal, a los Presidentes de los Ayuntamientos se les invitará a:
-
-I. Participar en todos los grupos de trabajo, así como en los Subcomités Sectoriales, Regionales y Especiales, de los cuales formen parte;
-
-II. Colaborar en la formulación, actualización e instrumentación del Plan Estatal de Desarrollo; y
-
-III. Cuidar que la programación de sus actividades, sea compatible y la ejecución de sus programas, se coordine con los planes, programas y proyectos del Gobierno del Estado y Municipios colindantes.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 49.
 
-A los miembros representantes de los Sectores Social y Privado, se les invitará a:
-
-I. Participar en todos los grupos de trabajo, así como en los subcomités sectoriales, regionales y especiales, de los cuales formen parte;
-
-II. Participar en la formulación y actualización del Plan Estatal de Desarrollo, planteando los problemas, soluciones y puntos de vista de los sectores que representan;
-
-III. Promover, en sus sectores, el espíritu y actos concretos de coordinación y cooperación en la Entidad; y
-
-IV. Difundir y dar a conocer, en sus sectores, los planes y programas del sector público que opera en la Entidad.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 50.
 
-La participación de los miembros del Comité, se hará conforme a las facultades que se señalen en el Decreto que oportunamente expedirá el Ejecutivo del Estado; y a lo que disponga el Presidente del Comité, respecto a la integración y operación de los grupos de trabajo y de los Subcomités Sectoriales, Regionales y Especiales.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 51.
 
-El patrimonio del Comité, se integrará con las aportaciones de recursos físicos, materiales y financieros que sean hechas por el Gobierno del Estado y por el Gobierno Federal, y por las donaciones que reciba para el cumplimiento de su objeto.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 52.
 
 (DEROGADO, P.O. 30 DE OCTUBRE DE 2003)
+
+> <small>(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1259,6 +1395,12 @@ Los órganos de gobierno de las entidades estarán a cargo de la administración
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objetivo, y de los objetivos y metas señalados en sus programas.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 59 bis. Las entidades paraestatales se regularan en todo lo concerniente a su constitución, organización, funcionamiento y control en las disposiciones de la Ley de Entidades Paraestatales del Estado de Durango.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO II
 
 DE LOS ORGANISMOS DESCENTRALIZADOS.
@@ -1267,207 +1409,173 @@ CONSTITUCIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO
 
 ###### ARTICULO 60.
 
-Son organismos descentralizados las personas jurídicas creadas conforme a lo dispuesto por esta Ley.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 61.
 
-El órgano de gobierno estará integrado por no menos de cinco ni más de diez miembros propietarios y de sus respectivos suplentes. Será presidido por el titular de la dependencia del ramo al que corresponda o por la persona que éste designe.
-
-El ejercicio del cargo como miembro del órgano de gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 62.
 
-En ningún caso podrán ser miembros del órgano de gobierno:
-
-I. El Director General del organismo de que se trate;
-
-II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del órgano de gobierno o con el Director General;
-
-III. Las personas que tengan litigios pendientes con el organismo de que se trate;
-
-IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
-
-V. Los Diputados del Congreso del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 63.
 
-El órgano de gobierno se reunirá con la periodicidad que se señale en el estatuto orgánico de la Entidad sin que pueda ser menor de cuatro veces al año. El propio órgano de gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y; siempre que la mayoría de los asistentes sean representantes de la Administración Pública del Estado.
-
-Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el presidente voto de calidad en caso de empate.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 64.
 
-El Director General será designado por el Gobernador del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 65.
 
-Los directores generales de los organismos descentralizados por lo que respecta a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, estarán facultados expresamente para:
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
-I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
-
-II. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquéllas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a esta ley, o a la ley o decreto de creación del estatuto orgánico;
-
-III. Emitir, avalar y negociar títulos de crédito;
-
-IV. Formular querellas y otorgar perdón;
-
-V. Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo;
-
-VI. Comprometer asuntos en arbitraje y celebrar transacciones;
-
-VII. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el director general, y
-
-VIII. Sustituir y revocar poderes generales o especiales.
-
-Los directores generales ejercerán las facultades a que se refieren las fracciones II, Ill, VI y VIl bajo su responsabilidad y dentro de las limitaciones que señale el estatuto orgánico que autorice el órgano de gobierno o equivalente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
 ###### ARTICULO 66.
 
-Son empresas de participación estatal mayoritaria las que determina como tales esta Ley.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 67.
 
-La organización, administración y vigilancia de las empresas de participación estatal mayoritaria sin perjuicio de lo dispuesto en la legislación aplicable, deberá sujetarse a los términos que se consignan en este ordenamiento.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 68.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto de constitución o ya no resulte conveniente conservarla desde el punto de vista económico o del interés público, el Secretario del ramo a que corresponda, propondrá al Gobernador del Estado su disolución o liquidación.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 69.
 
-El Ejecutivo del Estado nombrará a los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 70.
 
-Los consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria, se integrarán de acuerdo a sus estatutos y en lo que no se oponga conforme a lo dispuesto por esta Ley.
-
-Los integrantes de dicho órgano de gobierno que representen la participación de la Administración Pública del Estado, serán designados por el Gobernador directamente o a través del Secretario del ramo. Deberán, constituir en todo tiempo más de la mitad de los miembros del consejo, y serán servidores públicos de la Administración Pública del Estado o personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 71.
 
-El Consejo de Administración o su equivalente se reunirá con la periodicidad que señale en los estatutos de la empresa, sin que pueda ser menor de cuatro veces al año.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
 ###### ARTICULO 72.
 
-Los fideicomisos públicos que se establezcan por la Administración Pública del Estado, serán los que se consideren entidades paraestatales conforme a lo dispuesto en esta Ley y quedarán sujetos a las disposiciones de la misma.
-
-Los comités técnicos y los directores generales de los fideicomisos públicos citados en primer término se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en ésta Ley se establecen para los órganos de gobierno y para los directores generales, en cuanto sea compatible a su naturaleza.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 73.
 
-El Gobernador del Estado a través de la Secretaría de Finanzas y de Administración, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cuál deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 74.
 
-Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración de la Secretaría encargada del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 75.
 
-Cuando por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la Secretaria del sector que corresponda, instruirán al delegado fiduciario para:
-
-I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
-
-II. Consultar con la debida anticipación a la fiduciaria los asuntos que deban tratarse en las reuniones del Comité Técnico;
-
-III. Informar a la fiduciaria acerca de la ejecución de los acuerdos del comité técnico, así como al propio Comité Técnico;
-
-IV. Presentar a la fiduciaria la información contable requerida para precisar la situación financiera del fideicomiso; y
-
-V. Cumplir con los demás requerimientos que de común acuerdo con la coordinadora de sector, le fije la fiduciaria.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 76.
 
-En los contratos de los fideicomisos se deberán precisar las facultades especiales, si las hubiere, que en adición a las que establece esta Ley para los órganos de gobierno, determine el Ejecutivo del Estado para el Comité Técnico, indicando, en todo caso, cuales asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
-
-La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
-
-Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier circunstancia, la institución fiduciaria procederá a consultar al Secretario del sector al que pertenezca, quedando facultada para ejecutar aquellos actos que este autorice.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 77.
 
-En los contratos, constitutivos de fideicomisos de la Administración Pública Centralizada, se deberá reservar al Ejecutivo la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO V. DE LA OPERACIÓN Y CONTROL DE LAS ENTIDADES PARAESTATALES
 
 ###### ARTICULO 78.
 
-Las entidades formularán sus presupuestos a partir de sus programas anuales y se sujetarán a los lineamientos que en materia de gasto establezca la legislación correspondiente.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 79.
 
-La Entidad manejará y erogará sus recursos propios por medio de sus órganos administrativos y en lo que corresponde a la recepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas y de Administración, en los términos que se fijen en los presupuestos de egresos anuales del Estado y se sujetará a los controles e informes respectivos de conformidad con la legislación aplicable.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 80.
 
-Los órganos de gobierno de las entidades paraestatales, tendrán como atribuciones indelegables las siguientes:
-
-I. Establecer las políticas generales y definir las prioridades a las que se sujetará la Entidad relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
-
-II. Aprobar los programas y presupuestos de la Entidad, así como sus modificaciones en los términos de la legislación aplicable, apegándose a los lineamientos que establezcan las autoridades competentes;
-
-III. Aprobar los precios o ajustes de los bienes y servicios que produzcan o preste la Entidad, atendiendo a los lineamientos que establezca la Secretaría de Finanzas y de Administración;
-
-IV. Aprobar la concertación de los préstamos para el financiamiento de la Entidad con créditos internos y externos, así como observar las leyes, y reglamentos; y los lineamientos que dicten las autoridades competentes en la materia;
-
-V. Expedir las normas o bases generales sobre las que el Director General pueda disponer de los activos fijos de la entidad, las que deberán apegarse a las leyes aplicables;
-
-VI. Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros de la entidad;
-
-VIl. Aprobar, de acuerdo con las leyes y reglamentos aplicables, las políticas, bases; y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Entidad con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
-
-VIII. Aprobar la estructura básica de la organización de la Entidad y las modificaciones que procedan a la misma; y, el estatuto orgánico correspondiente, tratándose de organismos descentralizados;
-
-IX. Proponer al Ejecutivo los convenios de fusión con otras Entidades;
-
-X. Autorizar la creación de Comités o Subcomités de apoyo;
-
-XI. Nombrar y remover, a propuesta del Director General a los servidores públicos de la entidad que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél; y aprobar la fijación de sueldos y prestaciones;
-
-XIl. Nombrar y remover a propuesta de su presidente, entre personas ajenas a la Entidad, al secretario quien podrá o no ser miembro del mismo y al prosecretario, en su caso, y
-
-XIII. Aprobar la constitución de reservas y la aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de excedentes económicos de los organismos descentralizados proponer la constitución de reservas y su aplicación, para su determinación por el Gobernador del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 81.
 
-Serán facultades y obligaciones de los directores generales de las Entidades las siguientes:
-
-I. Administrar y representar legalmente a la Entidad;
-
-II. Formular los programas institucionales y los presupuestos de la Entidad y presentarlos ante el órgano de gobierno dentro de los plazos correspondientes;
-
-III. Formular los programas de organización, reorganización y/o modernización de la Entidad;
-
-IV. Establecer los procedimientos y métodos de trabajo para que las funciones se realicen de manera articulada, congruente y eficaz;
-
-V. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
-
-VI. Establecer sistemas eficientes para la administración, del personal, de los recursos financieros y de los bienes y servicios que aseguren la producción de bienes o prestación de los servicios de la Entidad;
-
-VII. Establecer y mantener un sistema de estadísticas que permita determinar los indicadores de gestión de la Entidad;
-
-VIII. Presentar periódicamente al órgano de Gobierno el informe del desempeño de las actividades de la Entidad, en la forma y periodicidad que señale el reglamento correspondiente;
-
-IX. Ejecutar los acuerdos del órgano de Gobierno;
-
-X. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la Entidad con sus trabajadores, y
-
-XI. Las que se señalen en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 82.
 
-El órgano de vigilancia de las entidades paraestatales estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de Contraloría y Modernización Administrativa, quienes evaluarán el desempeño general y por funciones de las entidades.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 83.
 
-Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas. Deberán atender los informes que en materia de control y auditoría les sean turnados; y vigilarán las medidas correctivas que fueren necesarias.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 84.
 
-Los órganos internos de control de las entidades paraestatales estarán adscritos jerárquica, técnica y funcionalmente a la Secretaría de Contraloría y Modernización Administrativa, y tendrán a su cargo las actividades relativas al control y evaluación de la gestión pública de la Entidad, conforme al Reglamento correspondiente y a los lineamientos que emita la Secretaría de Contraloría y Modernización Administrativa.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 85.
+
+Con el propósito de fortalecer la Administración Pública, paralelamente a los mecanismos tradicionales de consulta, podrá vincularse la participación ciudadana con las acciones de las dependencias y entidades del Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 86.
+
+Los titulares de las dependencias y entidades de la Administración Pública Estatal, podrán promover la formalización de la participación ciudadana en asuntos sustantivos de su competencia, a través de la constitución de organismos que actúen como instancias de análisis y opinión y que tengan como objeto, manifestar los intereses de la sociedad.
+
+Estos organismos podrán funcionar permanente o temporalmente y se integrarán con representantes de los sectores público, privado y social de la entidad, cuya actuación será en forma colegiada.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 87.
+
+Los organismos tendrán las características y funciones siguientes:
+
+I. Ser órgano de análisis y opinión de la Administración Pública Estatal;
+
+II. Sugerir programas y acciones para la solución de problemas específicos que enfrenta la sociedad;
+
+III. Apoyar con creatividad y objetividad las tareas de simplificación administrativa y de atención a las necesidades sociales;
+
+IV. Promover el bienestar, la productividad, la competitividad, el empleo, la estabilidad y el desarrollo integral de la sociedad;
+
+V. Presentar inconformidades, quejas o denuncias por la actuación indebida de servidores públicos, que obren en perjuicio de la sociedad; y
+
+VI. Enfatizar la prevención de problemas a través de una permanente evaluación prospectiva de la problemática estatal, e impulsar reformas necesarias a nivel estatal que permitan descentralizar la toma de decisiones y unificar los esfuerzos de todos los sectores.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 88.
+
+Los representantes de los sectores privado y social que integren este tipo de organismos, lo harán en forma honorífica y en tal virtud no podrán ser considerados como servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 89.
+
+Los integrantes de los organismos de participación ciudadana deben orientar sus actividades e instrumentar las medidas de control necesarias para garantizar el cumplimiento de su encomienda, conforme a las bases que fije el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 90.
+
+Los órganos, formas y procedimientos de participación ciudadana se efectuaran en los términos que disponga la Ley de Participación ciudadana del Estado de Durango.
 
 ## TRANSITORIOS
 
@@ -1528,3 +1636,39 @@ P.O. 10 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a la organización y funcionamiento del Comité de Planeación para el Desarrollo del Estado de Durango, así como las disposiciones de las Entidades Paraestatales, continuarán vigentes hasta en tanto entre en vigor la reforma a la Ley de Planeación y la Ley de Entidades Paraestatales del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo proveerá lo necesario para la transferencia de recursos humanos, financieros, técnicos y materiales, entre las Dependencias y Entidades a efecto de que operen de conformidad con las disposiciones del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En el caso de que esta Ley establezca una denominación distinta a alguna dependencia cuyas atribuciones estén conferidas por leyes vigentes anteriores a la expedición del presente decreto, dichas atribuciones se entenderán concedidas a la dependencia que observe tales funciones en términos del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo de esta Ley deban pasar de una dependencia o entidad a otra, permanecerán en el último trámite que hubieran alcanzado, hasta que las unidades administrativas que los tramiten, se incorporen a las dependencias que señala el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos y obligaciones contractuales, contraídos por las dependencias y entidades cuya denominación se haya modificado por el presente Decreto, serán atribuidos a la dependencia que las sustituye.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado dentro los noventa días a partir de la vigencia del presente decreto, expedirá los reglamentos interiores correspondientes a las dependencias que se crearon y de las que se reestructuraron en virtud de sus adecuaciones correspondientes.
+
+En tanto no se expidan los Reglamentos a que se refiere el párrafo anterior, las dependencias y entidades que fueron reestructuradas por virtud del presente decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
+
+###### ARTICULO OCTAVO.
+
+La regulación respecto a la constitución, organización, funcionamiento y control de las Entidades Paraestatales en una ley específica, no implica la modificación jurídica o el patrimonio de las mismas.
