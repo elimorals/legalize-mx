@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "1999-06-29"
+last_updated: "2003-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -5733,37 +5733,67 @@ La sentencia que recaiga será revisable de oficio, aunque no la recurran las pa
 
 Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil ante quien el acta objeto de rectificación se asentó y a la Dirección Estatal del Registro Civil, para que hagan referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 561.
 
-Rectificación en vía no contenciosa.
+Aclaración en vía no contenciosa.
 
-Cuando sólo se trate de la enmienda de una acta del estado civil, en los casos en que el Código Civil autoriza que la rectificación se promueva ante la Dirección Estatal del Registro Civil, esta también podrá solicitarse en el juzgado de lo familiar del domicilio del promovente, de acuerdo con las reglas de los procedimientos no contenciosos. En este caso, la rectificación sólo se autorizará cuando el error del dato que se desea variar, se advierta de la simple confrontación de los documentos en virtud de los cuales se ha practicado la inscripción, o bien, quede establecido por las demás circunstancias de la inscripción o por cualquier otro medio de prueba que haga fe del acto o hecho de que se trate. El juzgador deberá emitir su determinación en un término no mayor de cinco días, y la deberá comunicar de inmediato a la Dirección del Registro Civil y a la oficialía correspondiente para que se hagan las anotaciones marginales correspondientes. Esta determinación no será revisable de oficio.
+Cuando sólo se trate de la enmienda, vía aclaración, de una acta del estado civil en los casos a que se refiere el Código Civil, se procederá, en los términos previstos por las disposiciones aplicables, ante la Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 562.
 
 Registro extemporáneo.
 
-Sólo la autoridad judicial del orden familiar del lugar en que se haya efectuado el nacimiento, podrá autorizar la inscripción del nacimiento de una persona mayor de dieciocho años, sujetándose a las reglas siguientes:
+La autoridad judicial del orden familiar del lugar en que se haya efectuado el nacimiento o, en su caso, la autoridad administrativa competente, podrán autorizar, en los términos previstos por este Código u otras disposiciones aplicables, la inscripción del nacimiento de una persona mayor de dieciocho años.
 
-I. Presentada la solicitud a la que debe acompañarse certificación de no inscripción anterior, se dará vista al Ministerio Público, al Oficial del Registro Civil correspondiente y a las personas que tuvieren interés en esa inscripción. Un extracto de la promoción se fijará en lugar fácilmente visible del Juzgado de lo Familiar y de la Oficialía del Registro Civil.
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2003)</small>
 
-II. El Ministerio Público deberá necesariamente manifestar, dentro de los cinco días siguientes, si está de acuerdo con la inscripción o si se opone a ella, y en su caso deberá fundar su oposición.
+###### ARTÍCULO 562-A.
 
-III. Transcurrido el plazo a que se refiere el artículo anterior, el juzgador de oficio citará a una audiencia dentro de los cinco días siguientes, en la cual deberán ofrecerse y rendirse pruebas tendientes a demostrar que la persona de cuya inscripción se trata, nació en el lugar y día señalado en la solicitud.
+Trámite del Registro Extemporáneo ante la Autoridad Judicial.
+
+El trámite correspondiente ante las autoridades judiciales se sujetará a las prevenciones siguientes:
+
+I. Presentada la solicitud a la que deberá acompañarse la certificación de no inscripción anterior, el juez del negocio dará vista al Ministerio Público, al Oficial del Registro Civil que corresponda y a las personas que tuvieren interés en esa inscripción. Un extracto de la promoción se fijará en lugar fácilmente visible del Juzgado de lo Familiar y de la Oficialía del Registro Civil que corresponda.
+
+II. El Ministerio Público deberá necesariamente manifestar, dentro de los cinco días siguientes, si está de acuerdo con la inscripción o si se opone a ella y, en su caso, deberá fundar su oposición.
+
+III. Transcurrido el plazo a que se refiere la fracción que antecede, el juzgador de oficio citará a una audiencia dentro de los cinco días siguientes, en la cual deberán ofrecerse y rendirse pruebas tendientes a demostrar que la persona de cuya inscripción se trata, nació en el lugar y día señalado en la solicitud.
 
 IV. Si el Ministerio Público o cualquier interesado se oponen a la inscripción y ofrecen pruebas, éstas se admitirán y desahogarán en la audiencia.
 
-V. Desahogadas las pruebas se dictará sentencia aprobando la inscripción, si se reúnen los requisitos siguientes:
+V. Desahogadas las pruebas se dictará sentencia aprobando la inscripción si reúnen los siguientes requisitos:
 
-a) Que se pruebe fehacientemente que no existe inscripción anterior.
+a) Que se apruebe (sic) fehacientemente que no existe inscripción anterior.
 
 b) Que se pruebe el nacimiento de la persona a quien se refiere la inscripción que se pide autorizar.
 
 c) Que se pruebe la identidad entre esta persona y la nacida el día, lugar y hora indicados.
 
-d) Que si hubo oposición, el oponente no haya probado los hechos fundatorios de aquella.
+d) Que si hubo oposición, el oponente no haya probado los hechos fundatorios de aquélla.
 
-VI. Ejecutoriada la sentencia que autorice la inscripción, se comunicará al Oficial del Registro Civil correspondiente, para que proceda a levantar el acta de nacimiento solicitada.
+VI. Ejecutoriada la sentencia que autorice la inscripción, se comunicará al Oficial del Registro Civil correspondiente para que proceda a levantar el acta de nacimiento solicitada.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2003)</small>
+
+###### ARTÍCULO 562-B.
+
+Trámite del Registro Extemporáneo ante la autoridad administrativa.
+
+El trámite correspondiente ante la autoridad administrativa competente se sujetará a las prevenciones siguientes:
+
+I. Presentada la solicitud ante la Dirección del Registro Civil, acompañada de las pruebas que acrediten el lugar y la fecha de nacimiento del interesado, ésta la mandará fijar en lugar visible de sus oficinas para que, cualquier persona pueda, en su caso, conocerla y oponerse.
+
+II. La Dirección del Registro Civil, recibida la solicitud, de inmediato procederá a realizar una búsqueda en sus archivos de no inscripción anterior.
+
+III. Comprobada la no inscripción, la Dirección abrirá un procedimiento administrativo cuya sustanciación no excederá de cinco días hábiles y en el cual se desahogarán las pruebas a que se refieren las fracciones I de este artículo y V del que antecede.
+
+IV. Recibidas las pruebas y valoradas por la Dirección, ésta emitirá la resolución que corresponda y si ésta fuere favorable al interesado expedirá el certificado de inexistencia para que el Oficial del Registro Civil levante el acta que corresponda.
+
+V. En caso de duda u oposición, la Dirección del Registro Civil, mediante resolución administrativa, negará la inscripción del nacimiento dejando a salvo los derechos del interesado en la vía jurisdiccional.
 
 ### CAPÍTULO CUARTO. Cuestiones matrimoniales
 
@@ -13042,3 +13072,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE JULIO DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
