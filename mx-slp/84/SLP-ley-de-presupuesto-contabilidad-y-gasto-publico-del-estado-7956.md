@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-7956
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-23"
-last_updated: "1994-11-23"
+last_updated: "1996-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1996.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el miércoles 23 de noviembre de 1994.
 
@@ -43,9 +43,11 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
 La presente Ley regula la formulación y el ejercicio del presupuesto, la contabilidad y el gasto público del Estado y será aplicada por el Ejecutivo Estatal, a través de la Secretaría de Planeación y Finanzas, la Oficialía Mayor de Gobierno y la Coordinación General de Contraloría, conforme a las atribuciones que de manera específica les señale este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1996)</small>
+
 ###### Artículo 2o.
 
-El gasto público estatal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, transferencias, así como pagos de pasivos o deuda pública que realicen:
+El Gasto Público Estatal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, transferencias, así como pagos de pasivos o de deuda pública incluyendo aquéllos que se realicen para resarcir daños y perjuicios que ocasionen funcionarios y servidores públicos, exclusivamente en el ejercicio de sus funciones, de:
 
 I.- El Poder Legislativo;
 
@@ -244,3 +246,13 @@ El Secretario General de Gobierno,
 LIC. JAIME SUAREZ ALTAMIRANO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JUNIO DE 1996.
+
+PRIMERO.- Al reformarse los artículos anteriormente precisados, se derogan en consecuencia sus similares o las partes de éstos, objeto de modificaciones, vigentes hasta la entrada en vigor de los contenidos en este Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente; y,
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
