@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-estatal-de-ecologia-y-desarrollo-11810"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-22"
-last_updated: "1996-06-22"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 22 de junio de 1996.
 
@@ -135,7 +135,9 @@ III.- Cinco Vocales, designados por su presidente, que podrán ser los Titulares
 
 Cada vocal propietario designará un suplente;
 
-IV.- Un Comisario que será el Contralor General del Poder ejecutivo del Estado, o la persona que éste designe.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Un Comisario que será el Secretario de la Contraloría del Poder Ejecutivo del Estado, o la persona que éste designe.
 
 ###### Artículo 7.
 
@@ -199,7 +201,9 @@ El Consejo Consultivo tendrá como función actuar como órgano de consulta, opi
 
 El patrimonio de Instituto se integrará por:
 
-I.- Los bienes muebles e inmuebles asignados a la Coordinación de Medio Ambiente de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+I.- Los bienes muebles e inmuebles asignados a la Coordinación de Medio Ambiente de la Secretaría de Obras Públicas;
 
 II.- Las aportaciones y beneficios que reciba de los gobiernos federal, estatal, municipal, así como de las instituciones o asociaciones públicas, privadas, sociales o de los particulares;
 
@@ -268,3 +272,9 @@ Oaxaca de Juárez, a 23 de mayo de 1996.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. HECTOR ANUAR MAFUD MAFUD.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
