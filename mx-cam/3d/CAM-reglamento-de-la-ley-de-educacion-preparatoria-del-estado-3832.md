@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-educacion-preparatoria-del-estado-3832"
 country: "mx"
 rank: "reglamento"
 publication_date: "1943-05-27"
-last_updated: "1945-08-30"
+last_updated: "1946-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY DE EDUCACION PREPARATORIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1946.
 
 Reglamento publicado en la Segunda Sección de Periódico Oficial del Estado de Campeche, el jueves 27 de mayo de 1943.
 
@@ -157,9 +157,13 @@ X.- Visar los cortes de caja que remita el Tesorero a la Secretaría General de 
 
 XI.- Dictaminar en todos los asuntos que el Gobierno someta a su estudio, ya sea por sí u oyendo el parecer del Consejo.
 
-XII.- Presidir los exámenes parciales a que se contrae el artículo 66 de este Reglamento, o designar al profesor o empleado que los represente en estos casos.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-XIII.- Informar cada trimestre a la Secretaría General de Gobierno de la conducta y aprovechamiento de los alumnos que disfruten de beca, en vista del resultado de los reconocimientos respectivos.
+XII.- Presidir los exámenes parciales a que se contrae el artículo 66, personalmente o por medio de un profesor de la institución que lo represente, y asistir a los exámenes ordinarios y extraordinarios que se verifiquen en los establecimientos a su cargo.
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+XIII.- Informar dos veces al año a la Secretaría General de Gobierno, acerca de la conducta y aprovechamiento de los alumnos que disfruten de beca, en vista del resultado del examen parcial y de los exámenes ordinarios correspondientes.
 
 XIV.- Proponer al Gobierno del Estado el nombramiento y remoción de los profesores y empleados de su dependencia.
 
@@ -201,7 +205,9 @@ Son obligaciones y atribuciones de los Secretarios:
 
 I.- Recibir por inventario los muebles y útiles de la Secretaría y entregarlos, en su caso, de igual manera.
 
-II.- Llevar con todo cuidado los libros siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+II.- Llevar con todo cuidado los registros siguientes:
 
 a).- De inscripciones o matrículas;
 
@@ -213,7 +219,9 @@ d).- De asistencia de profesores;
 
 e).- De asistencia mensual de alumnos;
 
-f).- De registro de becas;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+f).- De becas;
 
 g).- De actas de exámenes.
 
@@ -253,57 +261,93 @@ IX.- Integrar los jurados para los que fueren nombrados.
 
 X.- Desempeñar las demás obligaciones que les señale este Reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
 ###### Art. 20.
 
-Los empleados subalternos a que se refiere el artículo 18 de la Ley de Educación Preparatoria del Estado, serán los siguientes: un Prefecto, un Preparador de Gabinetes, un Bibliotecario, un Conserje y el suficiente número de mozos de servicios.
+Los empleados subalternos a que se refiere el artículo 18 de la Ley de Educación Preparatoria del Estado, serán los siguientes: un prefecto general, una prefecta para señoritas, un jefe de laboratorios, un preparador de física, un preparador de química, un bibliotecario, un mecanógrafo, un conserje y el suficiente número de mozos de servicio.
 
-###### Art. 21.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-Son obligaciones y atribuciones del Prefecto:
+###### Artículo 21.
 
-I.- Recibir por inventario todos los muebles y útiles del plantel, con excepción de los contenidos en la fracción I de los artículos 16, 18, 22 y 23, entregándolos en su caso, de igual manera.
+Son obligaciones y atribuciones del Prefecto General:
 
-II.- Concurrir diariamente al establecimiento un cuarto de hora antes, por lo menos, de la en que deban comenzar las clases.
+I.- Recibir por inventario todos los muebles y útiles del plantel, con excepción de los contenidos en la fracción I de los artículos 16, 18 y 23 y IX del 22, entregándolos, en su caso, de igual manera;
 
-III.- Procurar la conservación de los muebles y útiles, dando cuenta al Director de las faltas o desperfectos que sufran.
+II.- Concurrir diariamente al establecimiento antes de la hora en que deban comenzar las clases;
 
-IV.- Llevar el libro de inventario de los muebles y útiles, con la excepción contenida en la fracción I de este artículo, anotando las altas y bajas que ocurran en el año escolar.
+III.- Procurar la conservación de los muebles y útiles, dando cuenta al director de las faltas o desperfectos que sufran;
 
-V.- Vigilar la compostura y buenas maneras de los alumnos, fuera de sus respectivos salones de clase.
+IV.- Llevar el libro de inventario de los muebles y útiles con la excepción contenida en la fracción I de este artículo, anotando las altas y bajas que ocurran en el año escolar;
 
-VI- Cuidar que nunca falten en dichos salones los útiles necesarios para las clases, salvo lo dispuesto en la fracción V del artículo 22 de este Reglamento.
+V.- Vigilar la compostura y buenas maneras de los alumnos, fuera de sus respectivos salones de clases;
 
-VII.- Imponer en su caso las penas disciplinarias a que se refiere al (sic) Capitulo XI y dar cuenta al Director de las faltas que ameriten su intervención.
+VI.- Cuidar que nunca falten en dichos salones los útiles necesarios para las clases, salvo lo dispuesto en la fracción XIII del artículo 22;
 
-VIII.- Suplir al Secretario en sus faltas accidentales.
+VII.- Imponer, en su caso, las penas disciplinarias a que se refiere el capítulo XI y dar cuenta al director de las faltas que ameriten su intervención;
 
-IX.- Hacer cumplir las penas impuestas por el Director y los profesores, permaneciendo en el plantel al cuidado de los alumnos detenidos después de las horas de clases.
+VIII.- Suplir al Secretario en sus faltas accidentales;
 
-X.- Vigilar que el Conserje y Mozo de servicio cumplan con sus obligaciones.
+IX.- Hacer cumplir las penas impuestas por el director y los profesores, permaneciendo en el plantel al cuidado de los alumnos detenidos después de las horas de clases;
 
-XI- Entregar a la Secretaría, dentro de los primeros cinco días del primer mes del período de labores escolares, un inventario general con la excepción contenida en la fracción I de este artículo y conforme a las anotaciones a que se refiere la fracción IV del propio artículo.
+X.- Vigilar que el conserje y los mozos de servicios, cumplan con sus obligaciones;
 
-XII.- Formular oportunamente el “Horario de Clases”.
+XI.- Entregar a la Secretaría, dentro de los primeros cinco días del primer mes del período de labores escolares, un inventario general con la excepción contenida de la fracción I de este artículo y conforme a las anotaciones a que se refiere la fracción IV del propio articulo;
 
-XIII.- Desempeñar las demás comisiones que le confiera el Director, relativas al servicio del establecimiento.
+XII.- Formular oportunamente el “Horario de Clases”;
 
-###### Art. 22.
+XIII.- Desempeñar las demás comisiones que le confiera el director, relativas al servicio del establecimiento.
 
-Son obligaciones y atribuciones del Preparador de Gabinetes:
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-I.- Recibir por inventario todos los muebles y útiles pertenecientes a cada gabinete y hacer entrega de los mismos, en su caso, en igual forma.
+Art. 21 bis.- Son obligaciones y atribuciones de la prefecta:
 
-II.- Concurrir a la (sic) Academias de Ciencias Físicas, Químicas y Naturales.
+I.- Concurrir diariamente al establecimiento antes de la hora en que deban comenzar las clases;
 
-III.- Llevar el libro de inventario de cada gabinete, anotando en él las altas y bajas que ocurran en el curso del año escolar.
+II.- Vigilar la compostura y buenas maneras de las alumnas, fuera de sus respectivos salones de clase:
 
-IV.- Cuidar que los gabinetes no carezcan de los útiles y aparatos que se requieran, dando cuenta al Director de los deterioros o desperfectos que sufran.
+III.- Hacer cumplir las penas impuestas a alumnas por el director, los profesores y el prefecto general, permaneciendo en el plantel al cuidado de las alumnas detenidas después de las horas de clases;
 
-V.- Proporcionar los aparatos y útiles en las clases respectivas, haciendo las preparaciones que correspondan y ayudando en los experimentos que les indiquen los profesores.
+IV.- Desempeñar las demás comisiones que le confiera el director, relativas al servicio del establecimiento.
 
-VI- Hacer un inventario general de cada gabinete, dentro de los primeros diez días del primer mes del período de trabajo escolar, de acuerdo con las anotaciones a que se refiere la fracción III de este artículo, entregando un ejemplar al Secretario.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-VII.- Desempeñar las demás comisiones que le confiera el Director, relativas al plantel.
+Art 22.- Son obligaciones y atribuciones del jefe de laboratorios y de los preparadores las siguientes:
+
+Del jefe de laboratorios;
+
+I.- Entregar a los preparadores el material de enseñanza respectivo, por inventario firmado por el que entrega y por el que recibe y visado por el director;
+
+II.- Vigilar el servicio y conservación del material de enseñanza;
+
+III.- Gestionar la reparación de los aparatos que sea necesaria;
+
+IV.- Informar al director de las deficiencias que deban corregirse;
+
+V.- Hacer que se efectúen las instalaciones que sean precisas;
+
+VI.- Autorizar en el inventario la baja de los objetos que se rompan en el servicio;
+
+VII.- Fijar las horas que debe dedicar cada preparador a su gabinete respectivo;
+
+VIII. - Promover toda mejora que deba hacerse para mantener la enseñanza experimental a la altura de los centros de educación similar;
+
+De los preparadores:
+
+IX.- Recibir por inventario todos los muebles y útiles pertenecientes a cada gabinete y hacer entrega de los mismos, en su caso, en igual forma;
+
+X.- Concurrir a las academias de ciencias físicas, químicas y naturales;
+
+XI.- Llevar el libro de inventario de cada gabinete, anotando en él las altas y bajas que ocurran en el transcurso del año escolar;
+
+XIl.- Cuidar que los gabinetes no carezcan de los útiles y aparatos que se requieran, dando cuenta al jefe de laboratorios de los desperfectos o deterioros que sufran;
+
+XIII.- Proporcionar los aparatos y útiles en las clases respectivas, haciendo las preparaciones que correspondan y ayudando en los experimentos que les indiquen los profesores;
+
+XIV.- Hacer un inventario general de cada gabinete, dentro de los primeros diez días del primer mes del período de trabajo escolar, de acuerdo con las anotaciones a que se refiere la fracción XI de este articulo, entregando un ejemplar al secretario;
+
+XV.- Desempeñar las demás comisiones que le confiera el director, relativas al plantel.
 
 ###### Art. 23.
 
@@ -581,21 +625,23 @@ I.- Llenar los requisitos a que se refieren las fracciones I, IV y V del artícu
 
 II.- Justificar, con los certificados respectivos, haber sido examinado y aprobado en todas las asignaturas contenidas en el año o años anteriores.
 
-Los estudiantes que no puedan satisfacer este requisito, por haber quedado comprendidos en alguno de los casos a que se refiere el artículo 81, tienen derecho, sin embargo, a ser inscritos al curso siguiente con carácter provisional.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-Si al usar de la franquicia a que se refieren el artículo 83 y el primer párrafo del 84, fueren aprobados en los exámenes extraordinarios correspondientes, adquirirán en firme su carácter de alumnos al curso a que se hubieren inscrito, con todos sus derechos inherentes. Si no obtuvieren nota aprobatoria en dichos exámenes o no los sustentaren, su inscripción provisional quedara automáticamente cancelada.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 52.
 
-En el libro de inscripciones se hará constar:
+En el registro de inscripciones se hará constar:
 
-a).- El nombre y domicilio de la persona que presenta al estudiante;
+a).- El nombre y domicilio de la persona que presenta el estudiante;
 
 b).- El nombre y apellido del alumno, su edad, nacionalidad, el lugar de su nacimiento y el año para cuyo estudio se inscriba;
 
-c).- El nombre de sus padres y, en su caso, su domicilio;
+c).- El nombre de sus padres, y, en su caso, su domicilio;
 
-d).- La firma del Director, del alumno, de la persona que lo represente, haciéndose constar cuando ésta no sepa escribir, y la del Secretario.
+d).- La firma del director, del alumno, de la persona que lo represente, haciéndose constar cuando ésta no sepa y la del Secretario.
 
 ###### Art. 53.
 
@@ -733,21 +779,27 @@ III.- Extraordinarios.
 
 IV.- De revaloración.
 
-###### Art. 66.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-Los exámenes parciales tendrán por objeto comprobar cada tres meses el aprovechamiento de los alumnos. Se verificarán en los últimos diez días del trimestre respectivo, en el mismo salón de clase, sin interrumpir la marcha ordinaria del establecimiento, por un jurado integrado por el Director o su representante, un profesor del plantel, el de la asignatura de que se trate y el Secretario.
+Art 66.- Los exámenes parciales que señalen por objeto comprobar el cumplimiento del programa del curso y el grado de aprovechamiento de los alumnos, se verificarán a mediados del año escolar, o sea durante el mes de febrero, en el mismo salón de clase, sin interrumpir la marcha ordinaria del establecimiento, por un jurado integrado por el director o su representante, un profesor del plantel, el de la asignatura de que se trate y el Secretario.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 67.
 
-Las (sic) exámenes parciales no podrán durar más de hora y media.
+Los exámenes parciales serán mixtos, es decir, escritos y orales, excepto los de matemáticas que serán exclusivamente por escrito. Estos exámenes no podrán durar más de dos horas y se verificarán en forma de sorteo de temas.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 68.
 
-El profesor de la asignatura que corresponda, deberá presentar al jurado, por escrito, las calificaciones que en su concepto merezcan los alumnos, tanto en conocimientos como en conducta, las cuales podrán ser modificadas por el jurado en vista del resultado del examen. En estos exámenes sólo se emplearán las notas de “Aprobado o Suspenso”, según el caso.
+El profesor de la asignatura que corresponda, deberá presentar al jurado, por escrito, las calificaciones que en su concepto merezcan los alumnos, tanto en conocimientos como en conducta, las cuales podrán ser modificadas por el jurado en vista del resultado del examen. En estos exámenes se empleará la escala numérica a que se refiere el artículo 79.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 69.
 
-El alumno que faltare a algún examen parcial, salvo en caso de enfermedad u otro impedimento grave que deberá justificar inmediatamente, será considerado como suspenso.
+El alumno que faltare al examen parcial, salvo en caso de enfermedad u otro impedimento grave que deberá justificar inmediatamente. Será considerando como reprobado.
 
 ###### Art. 70.
 
@@ -757,9 +809,11 @@ Terminados los exámenes parciales, se librará gratuitamente a cada alumno un b
 
 Los exámenes ordinarios se celebrarán por un Jurado integrado por tres o cinco miembros designados por el Director del plantel entre los profesores del mismo o personas ilustradas de la población.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
 ###### Art. 72.
 
-Los exámenes ordinarios serán por asignaturas y por grupos o secciones de cuatro a seis sustentantes, o individualmente, debiendo durar el tiempo que el jurado determine hasta quedar probada la capacidad o incapacidad de cada sustentante.
+Los exámenes ordinarios, que se sujetarán a la forma y término establecidos para los exámenes parciales, serán por asignaturas y por grupos no mayores de diez sustentantes, o individualmente, debiendo durar el tiempo que el jurado determine hasta quedar probada la capacidad o incapacidad de cada sustentante.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1944)</small>
 
@@ -777,31 +831,43 @@ Deberán entregar asimismo al Secretario las credenciales de estudiante a que se
 
 Los exámenes ordinarios se concederán en el período a que se refiere el inciso b) del artículo 8, a los alumnos que hayan asistido al 85% por lo menos de las clases sustentadas por el profesor de cada asignatura.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
 ###### Art. 76.
 
-Los alumnos que no tuvieren el porcentaje de asistencia exigida por el artículo anterior, pero que tengan más del 50%, o que hubieren sido reprobados en un examen parcial, serán sometidos a doble tiempo en el examen ordinario.
+Los alumnos que no tuvieren el porcentaje de asistencia exigida por el artículo anterior pero que tengan más del 70%, o que hubieren sido reprobados en el examen parcial, serán sometidos a doble tiempo en el examen ordinario.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 77.
 
-Los alumnos que no alcancen el 50% de porcentaje de asistencia o que hubieren sido reprobados en dos exámenes parciales, no tendrán derecho a sustentar examen ordinario en la asignatura correspondiente.
+No tendrán derecho a sustentar examen ordinario en la asignatura correspondiente, los alumnos que no alcancen el 70% de asistencia. Tampoco tendrá derecho a sustentar dicho examen los alumnos que reúnan las dos condiciones del doble tiempo de examen a que alude el artículo anterior, así como los que obtuvieron un promedio de calificaciones mensuales menor de sesenta.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 78.
 
-El profesor de cada asignatura deberá rendir informe por escrito de todos los alumnos del curso a su cargo, basándose en los informes a que se refiere la fracción VIII del artículo 19. Terminado el examen de cada sección o de cada alumno, se procederá a la votación respectiva, tomándose en cuenta el informe del profesor y el resultado del examen.
+El profesor de cada asignatura deberá rendir informe por escrito de todos los alumnos del curso a su cargo, basándose en los informes a que se refiere la fracción VIII del artículo 19. Terminado el examen de cada grupo, se procederá a la votación respectiva, tomándose en cuenta el promedio de las notas mensuales del profesor y el resultado del examen. La nota final será el medio aritmético para las notas anteriores.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 79.
 
-La escala de calificación será del 0 al 10, que corresponde: 6 a regular; 7 a bien; 8 a muy bien; 9 a perfectamente bien; y 10 a excelente. La calificación mínima para ser aprobado en examen ordinario, extraordinario o de revaloración, es la de 6.
+La escala de calificación será del 0 al 100, que corresponde: 60 a regular, 70 a bien, 80 a muy bien, 90 a perfectamente bien y 100 a excelente. La calificación mínima para ser aprobado en examen parcial, ordinario, extraordinario o de revaloración, es la de 60.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 80.
 
-Habrá en cada año escolar dos períodos de exámenes extraordinarios: el primero, comprendido en el último mes de vacaciones de fin de cursos, y el segundo, en el sexto mes del período de trabajo escolar.
+Habrá en cada año escolar dos períodos de exámenes extraordinarios: el primero, comprendido en el primer mes de vacaciones de fin de cursos y el segundo, en el primer mes del período de trabajo escolar.
 
 ###### Art. 81.
 
 Tienen derecho a presentar exámenes extraordinarios:
 
-I.- Los alumnos que no hubieren obtenido en los exámenes ordinarios la calificación mínima de 6.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+I.- Los alumnos que no hubieren obtenido en los exámenes ordinarios la calificación mínima de 60.
 
 II.- Los alumnos que estuvieren comprendidos en lo dispuesto por el artículo 77.
 
@@ -813,9 +879,13 @@ IV.- Los alumnos que habiendo obtenido derecho a examen ordinario no se presenta
 
 No tienen derecho a presentar exámenes extraordinarios:
 
-I.- Los alumnos que obtengan nota inferior a la de 4.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
-II.- Los alumnos que no alcancen la nota aprobatoria de 6 en más de dos asignaturas.
+I.- Los alumnos que obtengan nota inferior a la de 40;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+II.- Los alumnos que no alcancen la nota aprobatoria de 60 en más de dos asignaturas.
 
 ###### Art. 83.
 
@@ -827,7 +897,7 @@ Si no obtuvieren nota aprobatoria en ellos o no los sustentaren, tendrán derech
 
 Los alumnos a que se contraen las fracciones I, II y III del artículo 81, sólo podrán sustentar exámenes extraordinarios en el segundo período de exámenes extraordinarios a que se refiere el artículo 80.
 
-Si no obtuvieren nota aprobatoria en ellos o no los sustentaren, perderán sus derechos de alumno al curso a que se hubieren inscrito.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 85.
 
@@ -871,7 +941,9 @@ Todo alumno que en el concurso de sus estudios preparatorios obtuviere las supre
 
 Se causarán en las escuelas preparatorias oficiales del Estado, las siguientes cuotas:
 
-I.- Por inscripción de alumnos $ 1.00
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+I.- Por inscripción de alumnos, por asignaturas $ 0.50
 
 II.- Por colegiatura mensualmente “5.00
 
@@ -907,7 +979,9 @@ cada hoja o parte de ella “10.00.
 
 Las cuotas a que se contraen las fracciones I, III, IV a VIII del artículo anterior, deberán cubrirse previamente a los actos que las causen.
 
-La contenida en la fracción II del mismo artículo será cubierta, a más tardar, dentro de los primeros cinco días del trimestre que corresponda. Pasado este término sin haber pagado los alumnos esta cuota, no serán admitidos a sus clases.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+La contenida en la fracción II del mismo artículo anterior será cubierta dentro de los primeros cinco días del mes que corresponda. Pasado este término sin haber pagado los alumnos esta cuota, no serán admitidos a sus clases.
 
 ###### Art. 93.
 
@@ -959,7 +1033,9 @@ La dispensa a que se contrae este Capítulo, se pierde:
 
 I.- Por no presentarse el agraciado a los exámenes ordinarios, salvo el caso de impedimento grave, debidamente comprobado oportunamente.
 
-II.- Por ser reprobado en los exámenes ordinarios en cualquiera de las asignaturas que comprenden el programa respectivo, o en un reconocimiento trimestral.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
+II.- Por ser reprobado en los exámenes ordinarios en cualquiera de las asignaturas que comprende el programa respectivo, o en el reconocimiento parcial.
 
 III.- Por expulsión del establecimiento.
 
@@ -969,11 +1045,13 @@ IV.- Por exceso de faltas de asistencia en una o más clases.
 
 Perdida esta gracia por cualquiera de las causas antes citadas, no se podrá por ningún motivo volver a disfrutar de ella.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
 ###### Art. 102.
 
-Los Secretarios de las escuelas respectivas llevarán un registro especial de los alumnos agraciados con beca, en el que harán constar sus nombres, la fecha de la dispensa, el año que cursen, las notas que obtengan en los exámenes trimestrales y generales y la conducta que observen.
+Los Secretarios de las escuelas respectivas llevaran un registro especial de los alumnos agraciados con beca, en el que harán constar sus nombres, la fecha de la dispensa, el año que cursen, las notas que obtengan en los exámenes parciales y ordinarios y 1a conducta que observen.
 
-Los Directores, al remitir su informe anual al Gobierno de Estado, harán especial mención de los alumnos agraciados, remitiendo una copia del expresado registro.
+Los directores, al remitir su informe anual al Gobierno del Estado, harán especial mención de los alumnos agraciados, acompañando una copia del expresado registro.
 
 ### CAPITULO XVI. De los fondos de las Escuelas Preparatorias y de su Administración
 
@@ -1179,9 +1257,11 @@ Toda comisión deberá formular un dictamen en los asuntos que le corresponda, d
 
 El dictamen que presenten las comisiones deberá ir firmado por dos miembros que la integran. Si uno de ellos disintiese del parecer del otro, podrá presentar voto particular por escrito.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1946)</small>
+
 ###### Art. 133.
 
-El Consejo celebrará dos sesiones ordinarias quincenales cada mes y se verificará sesiones extraordinarias cuando lo juzgue conveniente el Secretario General o dos Consejeros. En este último caso, los interesados presentarán una solicitud por escrito en tal sentido al Secretario General, y si éste no expidiere la convocatoria respectiva en el término de 24 horas, podrán expedirla los dos Consejeros solicitantes.
+El Consejo celebrará una sesión mensual ordinaria y verificará sesiones extraordinarias cuando lo juzgue conveniente el Secretario General o dos consejeros. En este último caso, los interesados presentarán una solicitud por escrito en tal sentido al Secretario General, y si éste no expidiere la convocatoria respectiva en el término de veinticuatro horas podrán expedirla los dos consejeros solicitantes.
 
 ###### Art. 134.
 
@@ -1390,3 +1470,7 @@ UNICO.- El presente decreto entrará en vigor desde la fecha de su publicación 
 P.O. 30 DE AGOSTO DE 1945.
 
 Unico.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 1946.
+
+UNICO.- El presente decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
