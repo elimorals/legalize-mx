@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1947-02-18"
+last_updated: "1948-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -85,11 +85,11 @@ El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 ###### Art. 8º.
 
-El Congreso del Estado se compondrá de Diputados electos popularmente cada dos años.
+El Congreso del Estado se compondrá de Diputados electos popularmente cada tres años.
 
 Los individuos a quienes las Juntas Computadoras de las Cabeceras de Distrito Electoral expidan credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
 
@@ -459,15 +459,15 @@ XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayo
 
 La Administración Municipal, se ejerce por los Ayuntamientos que residirán en las Cabeceras de las Municipalidades.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 ###### Art. 37.
 
 Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por ellos mismos, en los términos que disponga la Ley Electoral.
 
-Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde seis meses antes al día de la elección.
+Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde dos años antes al día de la elección.
 
-Los Munícipes durarán en su encargo, dos años y se renovarán en su totalidad al final de cada período.
+Los Munícipes durarán en su encargo tres años y se renovarán en su totalidad al final de cada período.
 
 Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
 
@@ -499,25 +499,25 @@ II. Ser abogado con título oficial, y tener cuando menos cinco años de prácti
 
 III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1948)</small>
 
 ###### Art. 42.
 
-Los nombramientos de los Magistrados al Supremo Tribunal de Justicia, serán expedidos por el Gobernador y sometidos a la consideración del Congreso, el que otorgará o negará su aprobación dentro del improrrogable término de cinco días. Si no lo hiciere dentro de ese plazo, se tendrán por aprobados los nombramientos. Cuando el Congreso rechazare alguno el Gobernador propondrá una terna de candidatos uno de los cuales deberá ser electo por la Cámara dentro de cinco días. Si en ese tiempo no se hace la elección, el Gobernador expedirá el nombramiento definitivo en favor de cualquiera de los que hubieren figurado en la terna.
+Los nombramientos de los Magistrados al Supremo Tribunal de Justicia serán expedidos por el Gobernador y sometidos a la consideración del Congreso, el que otorgará o negará su aprobación dentro del improrrogable término de cinco días. Si no lo hiciere dentro de ese plazo, se tendrán por aprobados los nombramientos. Cuando el Congreso rechazare alguno, el Gobernador propondrá una terna de candidatos, uno de los cuales deberá ser electo por la Cámara dentro de cinco días. Si en ese tiempo no se hace la elección, el Gobernador expedirá el nombramiento definitivo en favor de cualquiera de los que hubieren figurado en la terna.
 
 No aceptado alguno de los tres por el Congreso, el Ejecutivo nombrará definitivamente a otra persona que no hubiere sido propuesta para la misma vacante.
 
-Cuando ocurra alguno de los casos previstos en el párrafo que antecede durante los recesos del Congreso, la Diputación Permanente ejercerá, con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el período inmediato de sesiones.
+Cuando ocurra alguno de los casos previstos en el párrafo que antecede durante los recesos del Congreso, la Diputación Permanente ejercerá con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el Período inmediato de sesiones.
 
-Los Magistrados y los Jueces durarán en el cargo cuatro años, a partir del primero de abril del año en que se inicie el período constitucional del Ejecutivo.
+Los Magistrados y los Jueces durarán en el cargo seis años, a partir del primero de abril del año en que se inicie el período constitucional del Ejecutivo.
 
 Los que fueren designados en el curso del período durarán solamente hasta la conclusión del mismo.
 
-Los Magistrados y Jueces sólo podrán ser destituidos previo juicio de responsabilidad, cuando observen mala conducta, o cuando pierdan alguna de las cualidades que para esos cargos exige la Ley. Las causas de destitución serán calificadas; de los Magistrados por el Congreso, y de los Jueces por el Supremo Tribunal de Justicia.
+Los Magistrados y Jueces sólo podrán ser destituidos previo juicio de responsabilidad, cuando observen mala conducta, o cuando pierdan alguna de las cualidades que para esos cargos exige la Ley. Las causas de destitución serán calificadas: de los Magistrados, por el Congreso, y de los Jueces por el Supremo Tribunal de Justicia.
 
-Independientemente de lo dispuesto en el párrafo anterior, el Gobernador podrá pedir al Congreso, la destitución de cualquier Magistrado o juez que observe mala conducta. Si el Congreso declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, sin perjuicio de que se le haga efectiva la responsabilidad en que hubiere incurrido.
+Independientemente de lo dispuesto en el párrafo anterior, el Gobernador podrá pedir al Congreso la destitución de cualquier Magistrado o juez por alguna de las causas enunciadas. Si el Congreso declara, por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, sin perjuicio de que se le haga efectiva la responsabilidad en que hubiere incurrido.
 
-El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses; pero sus actos deberán ser ratificados por el Congreso o por la Comisión Permanente.
+El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses, pero sus actos deberán ser ratificados por el Congreso o por la Comisión Permanente.
 
 ###### Art. 43.
 
@@ -728,3 +728,9 @@ Las primeras elecciones para Munícipes a que se convoque en cada uno de los Mun
 P.O. 18 DE FEBRERO DE 1947.
 
 UNICO.- Esta Ley entrará en vigor el mismo día en que se declare que es parte de la Constitución Política del Estado.
+
+P.O. 6 DE ABRIL DE 1948.
+
+PRIMERO.- Las reformas a que se refiere el presente Decreto surtirán sus efectos en los períodos que se iniciarán el 1º de enero, el primero de febrero y el primero de abril de 1953, respectivamente, para Munícipes, Diputados y Magistrados.
+
+SEGUNDO.- Por esta sola vez los próximos períodos para Diputados y Munícipes serán de cuatro años, y de dos para los Magistrados. Las elecciones y designación correspondientes, se ajustarán a la forma y términos que establecen la Constitución Política y la Ley Electoral del Estado.
