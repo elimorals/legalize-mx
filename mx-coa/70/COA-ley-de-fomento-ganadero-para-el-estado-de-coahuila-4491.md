@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-ganadero-para-el-estado-de-coahuila-4491"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-29"
-last_updated: "1969-03-29"
+last_updated: "1980-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO GANADERO PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 29 de marzo de 1969.
 
@@ -79,7 +79,9 @@ AUTORIDADES COMPETENTES.
 
 Son autoridades competentes para aplicar la presente Ley:
 
-a).- El Comité Estatal de Fomento Ganadero que preside el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
+a).- La Dirección de Control Agrícola y Ganadero que preside el Gobernador del Estado.
 
 b).- La Procuraduría General de Justicia en el Estado, Agencias y Delegaciones del Ministerio Público del Fuero Común.
 
@@ -159,7 +161,9 @@ k).- Llevar un registro de fierros, marcas de venta, señales, tatuajes y aretes
 
 l).- Auxiliar al Gobierno del Estado en todos los casos en que para ello fueren requeridos.
 
-m).- Actuar en colaboración con el Comité Estatal de Fomento Ganadero y Presidencias Municipales para vigilar el cumplimiento de esta Ley en el área de su jurisdicción.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
+m).- Actuar en colaboración con la Dirección de Control Agrícola y Ganadero y Presidencias Municipales para vigilar el cumplimiento de esta Ley en el área de su jurisdicción.
 
 n).- Pugnar por la conservación y mejoramiento de los pastos nativos del Estado por medio de la rotación diferida de los agostaderos y resiembra de los mismos.
 
@@ -195,25 +199,35 @@ La propiedad de los animales se transferirá por los medios que establece el der
 
 Para la formación de los registros de fierros y marcas de herrar, señales de sangre, aretes y tatuajes a que este Capítulo se refiere (Arts. 19°. y 21°.) todos los ganaderos que ya tengan registrado su fierro o marca de herrar, dentro de un plazo de seis meses, a partir de la vigencia de esta Ley, someterán a la Unión Ganadera del Estado, por conducto de sus Asociaciones, por cuadruplicado, una solicitud de inscripción, aportando todos los datos necesarios. De resultar, a juicio de la Unión, otro con mejor derecho, el solicitante someterá un nuevo diseño para evitar duplicidades.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 18°.
 
-Ninguna marca de herrar, ni señal de sangre, podrá usarse sin haber sido previamente registrada en el Comité Estatal de Fomento Ganadero y en la Presidencia Municipal correspondiente, por conducto de la Unión Ganadera del Estado, a través de la Asociación Ganadera Local de la Jurisdicción a donde pertenezca el rancho y obtener certificado de registro, que será título de propiedad de las marcas. Es obligación de los ganaderos pagar el registro de sus fierros, tal y como lo prevén la Ley de Hacienda del Estado y los Planes de Arbitrios de cada Municipio.
+No podrán utilizarse marcas de herrar o señales de sangre sin haberse registrado previamente, en la Dirección de Control Agrícola y Ganadero del Estado, y en la Presidencia Municipal correspondiente, por conducto de la Unión Ganadera del Estado, y de la Asociación Ganadera Local de la jurisdicción a donde pertenezca el rancho, y de obtener el certificado de registro, que será título de propiedad de las marcas. Es obligación de los ganaderos pagar el registro de sus fierros tal y como lo prevén las disposiciones fiscales del Estado y los Planes de Arbitrios de cada Municipio, asimismo los ganaderos están obligados a revalidar sus fierros de herrar y señales de sangre en los años que terminen en 5 y 0.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 19°.
 
-Para los efectos del artículo anterior, el Comité Estatal de Fomento Ganadero llevará un registro general de marcas de fuego y señales de sangre o registros en el que por orden de Municipios y Asociaciones Ganaderas se inscribirán los nombres de los dueños de las marcas de herrar y las señales de sangre o registros, la ubicación y el nombre del rancho, la clase de ganado que se explota y el fiel y exacto diseño de la marca y señal que se registra.
+Para los efectos del artículo anterior, la Dirección de Control Agrícola y Ganadero llevará un registro general de marcas de fuego y señales de sangre o registros en el que por orden de Municipios y Asociaciones Ganaderas se inscribirán los nombres de los dueños de las marcas de herrar y las señales de sangre o registros, la ubicación y el nombre del rancho, la clase de ganado que se explota y el fiel y exacto diseño de la marca y señal que se registra.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 20°.
 
-De todas las nuevas solicitudes de registro de marcas de herrar y de señales de sangre la Presidencia Municipal de la Jurisdicción a que corresponde enviará al Comité Estatal de Fomento Ganadero, copia para el registro de fierros a fin de que se hagan las anotaciones necesarias y se expida la patente de fierro correspondiente.
+De todas las nuevas solicitudes de registro de marcas de herrar y de señales de sangre la Presidencia Municipal de la Jurisdicción a que corresponde enviará a la Dirección de Control Agrícola y Ganadero, copia para el registro de fierros a fin de que se hagan las anotaciones necesarias y se expida la patente de fierro correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 21°.
 
-Las Presidencias Municipales y el Comité Estatal de Fomento Ganadero sólo registrarán las marcas de herrar y las señales de sangre que al efecto sean solicitadas por conducto de las Asociaciones Ganaderas con aprobación de la Unión Ganadera del Estado.
+Las Presidencias Municipales y la Dirección de Control Agrícola y Ganadero sólo registrarán las marcas de herrar y las señales de sangre que al efecto sean solicitadas por conducto de las Asociaciones Ganaderas con aprobación de la Unión Ganadera del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 22°.
 
-La Presidencia Municipal y el Comité Estatal de Fomento Ganadero no registrará ninguna marca de fierro de figura igual o de fácil alteración o con semejanza a otras ya registradas en el Estado. La Presidencia Municipal ni el Comité Estatal de Fomento Ganadero tampoco registrarán ninguna señal de sangre de figura igual o de fácil alteración o de estrecha semejanza con otra ya registrada dentro del mismo Municipio o cualquiera de los Municipios colindantes.
+La Presidencia Municipal y la Dirección de Control Agrícola y Ganadero no registrará ninguna marca de fierro de figura igual o de fácil alteración o con semejanza a otras ya registradas en el Estado. La Presidencia Municipal ni la Dirección de Control Agrícola y Ganadero tampoco registrarán ninguna señal de sangre de figura igual o de fácil alteración o de estrecha semejanza con otra ya registrada dentro del mismo Municipio o cualquiera de los Municipios colindantes.
 
 ###### ARTICULO 23°.
 
@@ -265,17 +279,23 @@ La inspección de ganados y pieles tendrá lugar:
 
 5°.- En las Tenerías, Tlapalerías y demás establecimientos que beneficien o vendan los productos de los animales.
 
-Para la inspección de ganados y pieles en los predios ganaderos, el Comité Estatal de Fomento Ganadero dispondrá de los Inspectores de Ganadería para efectuar dicha revisión previo acuerdo con los propietarios de los predios.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
+Para la inspección de ganados y pieles en los predios ganaderos, la Dirección de Control Agrícola y Ganadero dispondrá de los Inspectores de Ganadería para efectuar dicha revisión previo acuerdo con los propietarios de los predios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 32°.
 
-El Comité Estatal de Fomento Ganadero designará inspectores de Ganadería para las funciones que esta Ley determina, mediante proposición hecha por las Asociaciones Ganaderas y la Unión Ganadera del Estado.
+La Dirección de Control Agrícola y Ganadero designará inspectores de Ganadería para las funciones que esta Ley determina, mediante proposición hecha por las Asociaciones Ganaderas y la Unión Ganadera del Estado.
 
 Se consideran Inspectores Honorarios los integrantes de la Directiva de las Asociaciones Ganaderas Locales.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 33°.
 
-Para los efectos del Artículo anterior el Comité Estatal de Fomento Ganadero, oyendo el parecer de las Asociación Ganadera y de la Unión Ganadera del Estado, dividirá el territorio de la entidad en las zonas de inspección que se determinen.
+Para los efectos del Artículo anterior la Dirección de Control Agrícola y Ganadero, oyendo el parecer de las Asociación Ganadera y de la Unión Ganadera del Estado, dividirá el territorio de la entidad en las zonas de inspección que se determinen.
 
 ###### ARTICULO 34°.
 
@@ -365,9 +385,11 @@ RASTROS.
 
 Sólo podrá hacerse el sacrificio de ganado y aves, en los lugares debidamente acondicionados y legalmente autorizados, siendo indispensable la previa comprobación de la propiedad y del buen estado de salud de los animales cuyo sacrificio se pretenda. Se considerará ilegal el sacrificio de ganado o aves en carnicerías y domicilios particulares.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 46°.
 
-El funcionamiento de los rastros lo autorizarán los Presidentes Municipales, previo acuerdo del Comité Estatal de Fomento Ganadero. La propia autoridad municipal y la Asociación Ganadera Local respectiva, cuidarán de que se observen los Reglamentos Sanitarios y las demás disposiciones legales aplicables a esta clase de establecimientos.
+El funcionamiento de los rastros lo autorizarán los Presidentes Municipales, previo acuerdo de la Dirección de Control Agrícola y Ganadero. La propia autoridad municipal y la Asociación Ganadera Local respectiva, cuidarán de que se observen los Reglamentos Sanitarios y las demás disposiciones legales aplicables a esta clase de establecimientos.
 
 ###### ARTICULO 47°.
 
@@ -393,9 +415,11 @@ Si por omisión, contravención o alteración de los registros anteriores, se sa
 
 Los registros de los Rastros podrán ser revisados en cualquier tiempo, por los Inspectores de Ganadería; por los Representantes de los organismos ganaderos y por las autoridades administrativas, pudiendo hacer cualquiera de ellos, las gestiones que procedan para remediar las irregularidades que se descubran o denunciarlas a quien corresponda para la corrección y castigo de quien o quienes resulten responsables.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 53°.
 
-Los Administradores o Encargados de Rastros, reportarán periódicamente, en la forma que lo acuerde el Comité Estatal de Fomento Ganadero, a la Autoridad Municipal respectiva y a la Asociación Ganadera Local, a la Autoridad Municipal respectiva y a la Asociación Ganadera Local el movimiento del ganado y sacrificios registrados, con expresión de los impuestos o derechos pagados; el reporte se hará por triplicado, para que la Autoridad Municipal envíe el original al Comité Estatal de Fomento Ganadero y copia a la Asociación Ganadera Local correspondiente, sancionando con su visto bueno; de encontrar irregularidades, previamente hará las investigaciones que juzgue pertinentes de acuerdo con las facultades que le confiere esta Ley.
+Los Administradores o Encargados de Rastros, reportarán periódicamente, en la forma que lo acuerde la Dirección de Control Agrícola y Ganadero, a la Autoridad Municipal respectiva y a la Asociación Ganadera Local, a la Autoridad Municipal respectiva y a la Asociación Ganadera Local el movimiento del ganado y sacrificios registrados, con expresión de los impuestos o derechos pagados; el reporte se hará por triplicado, para que la Autoridad Municipal envíe el original a la Dirección de Control Agrícola y Ganadero y copia a la Asociación Ganadera Local correspondiente, sancionando con su visto bueno; de encontrar irregularidades, previamente hará las investigaciones que juzgue pertinentes de acuerdo con las facultades que le confiere esta Ley.
 
 ###### ARTICULO 54°.
 
@@ -443,9 +467,11 @@ DE LA VENTA DE LA CARNE Y PIELES.
 
 En bien de la salud pública, la venta de carne fresca, congelada o seca deberá hacerse precisamente en los lugares autorizados al efecto, por las Autoridades Sanitarias competentes.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 59°.
 
-El Comité Estatal de Fomento Ganadero llevará un registro de las carnicerías y expendios de carne establecidos en los diferentes Municipios del Estado cuyo registro se efectuará a través de las Asociaciones Ganaderas Locales.
+La Dirección de Control Agrícola y Ganadero llevará un registro de las carnicerías y expendios de carne establecidos en los diferentes Municipios del Estado cuyo registro se efectuará a través de las Asociaciones Ganaderas Locales.
 
 ###### ARTICULO 60°.
 
@@ -469,9 +495,11 @@ Los dueños o encargados de Curtidurías o Saladeros de Pieles, deberán amparar
 
 El que infrinja cualquiera de las disposiciones que señala este artículo, será sancionado con multa de $1,000.00 (UN MIL PESOS), a $5,000.00 (CINCO MIL PESOS); sin perjuicio de su consignación, en caso de delito, a la Autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 65°.
 
-Los dueños o encargados de Curtidurías o Saladeros de Pieles reportarán al Comité Estatal de Fomento Ganadero, en los plazos y formas que éste fije y proporcione, el movimiento de pieles que hubiere registrado en sus establecimientos, con los datos que arroje el registro que están obligados a llevar. No podrá funcionar ninguna curtiduría o saladero de pieles sin previo permiso del Comité Estatal de Fomento Ganadero y de la Asociación Ganadera Local. Los dueños o encargados de curtidurías o saladeros quedan obligados a llevar un registro de las pieles que reciban, en el que anotarán por orden, los siguientes datos:
+Los dueños o encargados de Curtidurías o Saladeros de Pieles reportarán a la Dirección de Control Agrícola y Ganadero, en los plazos y formas que éste fije y proporcione, el movimiento de pieles que hubiere registrado en sus establecimientos, con los datos que arroje el registro que están obligados a llevar. No podrá funcionar ninguna curtiduría o saladero de pieles sin previo permiso de la Dirección de Control Agrícola y Ganadero y de la Asociación Ganadera Local. Los dueños o encargados de curtidurías o saladeros quedan obligados a llevar un registro de las pieles que reciban, en el que anotarán por orden, los siguientes datos:
 
 a).- Fecha de entrada.
 
@@ -485,15 +513,19 @@ e).- Número y fecha de la Guía.
 
 f).- Marcas de las pieles.
 
-g).- Otros datos que juzgue pertinentes el Comité Estatal de Fomento Ganadero.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
+g).- Otros datos que juzgue pertinentes la Dirección de Control Agrícola y Ganadero.
 
 ### CAPITULO X.
 
 TRANSPORTACION Y MOVILIZACION DE GANADO.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 66°.
 
-Toda conducción de ganado deberá ampararse con un documento denominado "Guía de Tránsito" el que será expedido por el Comité Estatal de Fomento Ganadero a través de la Asociación Ganadera Local respectiva; a la Guía se anexarán los recibos que acrediten el pago de los impuestos correspondientes, cuando se trate de animales que los causen.
+Toda conducción de ganado deberá ampararse con un documento denominado "Guía de Tránsito" el que será expedido por la Dirección de Control Agrícola y Ganadero a través de la Asociación Ganadera Local respectiva; a la Guía se anexarán los recibos que acrediten el pago de los impuestos correspondientes, cuando se trate de animales que los causen.
 
 ###### ARTICULO 67°.
 
@@ -515,11 +547,15 @@ g).- Marcas y número de su registro.
 
 h).- Fines de la movilización.
 
-i).- Los demás que juzgue pertinentes el Comité Estatal de Fomento Ganadero.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
+i).- Los demás que juzgue pertinentes la Dirección de Control Agrícola y Ganadero.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 68°.
 
-Las Guías estarán numeradas progresivamente; serán proporcionadas por el Comité Estatal de Fomento Ganadero a la Unión Ganadera del Estado para que ésta a su vez, las envíe a las Asociaciones Ganaderas Locales, debiendo expedirse por sextuplicado; el original y copia de Guía se entregarán al interesado; segunda copia para el propio Comité, tercera copia para la Unión Ganadera del Estado, cuarta copia para el Presidente Municipal y quinta y última copia para la Asociación Ganadera Local respectiva.
+Las Guías estarán numeradas progresivamente; serán proporcionadas por la Dirección de Control Agrícola y Ganadero a la Unión Ganadera del Estado para que ésta a su vez, las envíe a las Asociaciones Ganaderas Locales, debiendo expedirse por sextuplicado; el original y copia de Guía se entregarán al interesado; segunda copia para el propio Comité, tercera copia para la Unión Ganadera del Estado, cuarta copia para el Presidente Municipal y quinta y última copia para la Asociación Ganadera Local respectiva.
 
 ###### ARTICULO 69°.
 
@@ -553,9 +589,11 @@ Queda estrictamente prohibida la movilización de ganado enfermo contagioso. Si 
 
 La reanudación de la marcha será permitida cuando las Autoridades competentes así lo autoricen con la intervención de la Asociación Ganadera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 75°.
 
-Todo vehículo dedicado al transporte de ganado en pie o de productos de origen animal, deberá ser registrado por su propietario ante el Comité Estatal de Fomento Ganadero, consignando los siguientes datos:
+Todo vehículo dedicado al transporte de ganado en pie o de productos de origen animal, deberá ser registrado por su propietario ante la Dirección de Control Agrícola y Ganadero, consignando los siguientes datos:
 
 a).- Nombre del propietario del vehículo.
 
@@ -603,25 +641,31 @@ Las enfermedades infecciosas y parasitarias, enzoóticas o epizoóticas, serán 
 
 Para los efectos de esta Ley se consideran enfermedades enzoóticas o epizoóticas, infecciosas y parasitarias, la Fiebre Carbonosa (sangre en las tripas o mal del bazo), el Carbón Sintomático (mancha), Tuberculosis, Septicemia Hemorrágica (cuerno hueco), Viruela, Rabia, Aborto Infeccioso, Fiebre Aftosa, que son comunes en varias especies; la Vaginitis Granulosa, la Mastitis Estreptocóccica, Colibacilosis de los Becerros (diarrea blanca o chorrillo), Preineumonía Contagiosa, Hemoglobinuria Bacilar (agua roja), comunes en los bovinos; Muermo, Adenitis Estreptocóccica (papera) Influencia y Paratifoidea de los equinos; Cólera (peste porcina) Erisipela, Neumo-enteritis diversas de los suideos; Fiebre de Malta y Agalaxia Contagiosa de los ovi-caprinos; Cólera, Tifo, Difteria, Viruela de las aves de corral; y las enfermedades parasitarias comunes a varias especies, Piroplasmosis (fiebre de Texas), Distomatosis, Cistiserocosis, Triquinosis, Sarna, Tiñas, Tripanosomiasis (durina) y todas aquellas que por su facilidad de transmisión sean consideradas capaces de comprometer la salubridad de los animales o sean transmisibles al género humano.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 82°.
 
-En los casos urgentes a juicio del Comité Estatal de Fomento Ganadero, las Autoridades dependientes del propio Comité y los ganaderos de los lugares donde existan plagas o enfermedades, tienen la obligación de cooperar en los trabajos de prevención y combate de las mismas.
+En los casos urgentes a juicio de la Dirección de Control Agrícola y Ganadero, las Autoridades dependientes del propio Comité y los ganaderos de los lugares donde existan plagas o enfermedades, tienen la obligación de cooperar en los trabajos de prevención y combate de las mismas.
 
 ###### ARTICULO 83°.
 
 Los propietarios o encargados tienen obligación de prodigar a sus animales los cuidados higiénicos y zootécnicos necesarios para conservarlos en las mejores condiciones de salud y defensa natural contra cualquiera de las enfermedades infecto-transmisibles, quedándoles prohibido efectuar cruzamientos con sementales afectados de enfermedades transmisibles por contacto, congénitamente o de algún otro modo.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 84°.
 
-El Comité Estatal de Fomento Ganadero, dictará con oportunidad las medidas técnicas de aplicación de las inoculaciones preventivas, reveladoras o curativas en los ganados estabulados, en ferias o exposiciones, en el campo o en el tránsito, así como de los medios de diagnóstico que sean necesarios.
+La Dirección de Control Agrícola y Ganadero, dictará con oportunidad las medidas técnicas de aplicación de las inoculaciones preventivas, reveladoras o curativas en los ganados estabulados, en ferias o exposiciones, en el campo o en el tránsito, así como de los medios de diagnóstico que sean necesarios.
 
 ###### ARTICULO 85°.
 
 Se declaran enfermedades transmisibles a los humanos la Fiebre Carbonosa, el Muermo, la Tuberculosis, la Rabia, la Viruela, la Fiebre de Malta, el Aborto Infeccioso, la Fiebre Aftosa, Micosis (enfermedades producidas por hongos), Sarna, Triquinosis, Cisticercósis, Cocciodiosis y las demás que fije la Secretaría de Salubridad y Asistencia.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 86°.
 
-Las Autoridades Municipales, las Asociaciones Ganaderas y los Inspectores de Ganadería, están obligados a dictar inmediatamente las medidas que establecen las Leyes de la materia en caso de desarrollo de una epizootia, debiendo comunicarlo simultáneamente a el Comité Estatal de Fomento Ganadero y a la Agencia General de Agricultura y Ganadería.
+Las Autoridades Municipales, las Asociaciones Ganaderas y los Inspectores de Ganadería, están obligados a dictar inmediatamente las medidas que establecen las Leyes de la materia en caso de desarrollo de una epizootia, debiendo comunicarlo simultáneamente a la Dirección de Control Agrícola y Ganadero y a la Agencia General de Agricultura y Ganadería.
 
 ###### ARTICULO 87°.
 
@@ -639,9 +683,11 @@ Cuando entre los animales en tránsito se compruebe que uno o varios han enferma
 
 Los corrales o potreros de depósito de los animales sospechosos serán señalados por las Autoridades locales.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 91°.
 
-El Comité Estatal de Fomento Ganadero promoverá, cuando sea necesario ante la Secretaría de Agricultura y Ganadería, el establecimiento de las cuarentenas que impongan las circunstancias, señalando las zonas que deben quedar comprendidas dentro de la medida.
+La Dirección de Control Agrícola y Ganadero promoverá, cuando sea necesario ante la Secretaría de Agricultura y Ganadería, el establecimiento de las cuarentenas que impongan las circunstancias, señalando las zonas que deben quedar comprendidas dentro de la medida.
 
 ###### ARTICULO 92°.
 
@@ -655,9 +701,11 @@ Se declara obligatoria en el Estado en las zonas zootécnicas, la vacunación de
 
 Es obligatorio por parte de los Médicos Veterinarios Oficiales o particulares que lleven a cabo vacunaciones, extender el Certificado en que se haga constar el nombre del propietario, el número de cabezas y la enfermedad contra la que se haya aplicado el procedimiento profiláctico.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 95°.
 
-Cuando se trate de enfermedades de animales que sean transmisibles al género humano, el Comité Estatal de Fomento Ganadero pedirá a la Secretaría de Salubridad y Asistencia por intermedio de los Servicios Sanitarios Coordinados, que se formulen los programas de acción para el combate y prevención de las mismas y en cooperación con autoridades que deban intervenir en la ejecución de los programas formulados, prestará el concurso que le corresponda.
+Cuando se trate de enfermedades de animales que sean transmisibles al género humano, la Dirección de Control Agrícola y Ganadero pedirá a la Secretaría de Salubridad y Asistencia por intermedio de los Servicios Sanitarios Coordinados, que se formulen los programas de acción para el combate y prevención de las mismas y en cooperación con autoridades que deban intervenir en la ejecución de los programas formulados, prestará el concurso que le corresponda.
 
 ###### ARTICULO 96°.
 
@@ -675,13 +723,17 @@ El territorio del Estado se dividirá en tantas zonas como sean indispensables p
 
 La Campaña tendrá como objeto principal la erradicación total de la garrapata en el Estado y la defensa y protección de las zonas que vayan siendo declaradas oficialmente libres de este parásito.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 100°.
 
-La Campaña quedará encomendada a un Comité Estatal integrado por un Presidente, un Secretario, un Tesorero y demás miembros que designe el Comité Estatal de Fomento Ganadero, que oirá en consulta a la Unión Ganadera de Coahuila; debiendo ser el Director Técnico de la Campaña un Médico Veterinario Zootecnista que para el efecto designa la Dirección General de Sanidad Animal de la Secretaría de Agricultura y Ganadería.
+La Campaña quedará encomendada a un Comité Estatal integrado por un Presidente, un Secretario, un Tesorero y demás miembros que designe la Dirección de Control Agrícola y Ganadero, que oirá en consulta a la Unión Ganadera de Coahuila; debiendo ser el Director Técnico de la Campaña un Médico Veterinario Zootecnista que para el efecto designa la Dirección General de Sanidad Animal de la Secretaría de Agricultura y Ganadería.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 101°.
 
-El Comité Estatal de la Campaña Contra la Garrapata, deberá elaborar un Plan de Trabajo y un Reglamento a la presente Ley, que someterá a la aprobación de el Comité Estatal de Fomento Ganadero y a la opinión de la Unión Ganadera del Estado.
+El Comité Estatal de la Campaña Contra la Garrapata, deberá elaborar un Plan de Trabajo y un Reglamento a la presente Ley, que someterá a la aprobación de la Dirección de Control Agrícola y Ganadero y a la opinión de la Unión Ganadera del Estado.
 
 ### CAPITULO XII.
 
@@ -733,23 +785,31 @@ INDUSTRIA LECHERA.
 
 Se declara de orden público la organización, conservación y formato del ganado productor de leche y de la industria lechera en el Estado.
 
-El Comité Estatal de Fomento Ganadero dictará las medidas que juzgue necesarias tendientes a la realización de tales fines.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
+La Dirección de Control Agrícola y Ganadero dictará las medidas que juzgue necesarias tendientes a la realización de tales fines.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 107°.
 
-El Comité Estatal de Fomento Ganadero tendrá a su cargo el control y vigilancia de las empresas lecheras y llevará un libro de registro, con especificaciones de los elementos materiales que las integre; superficie de los terrenos en que estén establecidas, precisamente si se trata de ganado lechero, la naturaleza de las construcciones y el nombre de la persona física o moral propietaria u organizadora del fondo. Lo anterior se observará sin perjuicio de la intervención que corresponda a las Autoridades de la Secretaría de Agricultura y Ganadería y de Salubridad y Asistencia.
+La Dirección de Control Agrícola y Ganadero tendrá a su cargo el control y vigilancia de las empresas lecheras y llevará un libro de registro, con especificaciones de los elementos materiales que las integre; superficie de los terrenos en que estén establecidas, precisamente si se trata de ganado lechero, la naturaleza de las construcciones y el nombre de la persona física o moral propietaria u organizadora del fondo. Lo anterior se observará sin perjuicio de la intervención que corresponda a las Autoridades de la Secretaría de Agricultura y Ganadería y de Salubridad y Asistencia.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
 
 ###### ARTICULO 108°.
 
-Los propietarios de las empresas lecheras en el Estado, están obligados a registrarse en el Comité Estatal de Fomento Ganadero y a proporcionar todos los datos a que se refiere el Artículo anterior, lo que deberán hacer dentro de un término de sesenta días, a partir de la fecha de su establecimiento. Las empresas ya establecidas al entrar en vigor la presente Ley, quedan obligadas a llenar tales requisitos en un plazo de sesenta días, computado a partir de la fecha en que esta Ley entre en vigor.
+Los propietarios de las empresas lecheras en el Estado, están obligados a registrarse en la Dirección de Control Agrícola y Ganadero y a proporcionar todos los datos a que se refiere el Artículo anterior, lo que deberán hacer dentro de un término de sesenta días, a partir de la fecha de su establecimiento. Las empresas ya establecidas al entrar en vigor la presente Ley, quedan obligadas a llenar tales requisitos en un plazo de sesenta días, computado a partir de la fecha en que esta Ley entre en vigor.
 
 ###### ARTICULO 109°.
 
 El registro de las empresas lecheras a que se refiere el Artículo anterior, será gratuito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 110°.
 
-Los Médicos Veterinarios y Técnicos dependientes del Comité Estatal de Fomento Ganadero en cooperación con los Servicios Coordinados de Salubridad y Asistencia en el Estado, llevarán a cabo la inspección sanitaria de los animales, de las instalaciones de la industria lechera y de sus productos, comprendiendo:
+Los Médicos Veterinarios y Técnicos dependientes de la Dirección de Control Agrícola y Ganadero en cooperación con los Servicios Coordinados de Salubridad y Asistencia en el Estado, llevarán a cabo la inspección sanitaria de los animales, de las instalaciones de la industria lechera y de sus productos, comprendiendo:
 
 a).- La aplicación de tuberculina y de vacunas preventivas contra las enfermedades infecto-contagiosas en el ganado lechero estabulado y de vaquerías.
 
@@ -807,9 +867,13 @@ Se entiende por ordeña de campo, la que se haga fuera del establo.
 
 Los establos serán independientes de las habitaciones, con acceso directo a la vía pública y estarán ubicados fuera de las zonas urbanas.
 
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR NO SEÑALA EXPRESAMENTE LA REFORMA AL PRESENTE ARTICULO, SIN EMBARGO Y DEBIDO A SU IMPORTANCIA, EN VIRTUD DE QUE CONTIENE EL TERMINO "COMITE ESTAL DE FOMENTO GANADERO", MISMO QUE SE ADECUA AL DE "DIRECCION DE CONTROL AGRICOLA Y GANADERO" EN LOS RESTANTES ARTICULOS, SE PROCEDE A SU REFORMA, LO QUE SE HACE DEL CONOCIMIENTO DEL USUARIO PARA SU CONSIDERACION.</small>
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 118°.
 
-Los establos destinados a la producción de la leche de vaca o de cabra, deberán llenar los requisitos que señala esta Ley y los que fijen los Servicios Coordinados de Salubridad y Asistencia en el Estado y el Comité Estatal de Fomento Ganadero.
+Los establos destinados a la producción de la leche de vaca o de cabra, deberán llenar los requisitos que señala esta Ley y los que fijen los Servicios Coordinados de Salubridad y Asistencia en el Estado y la Dirección de Control Agrícola y Ganadero.
 
 ### CAPITULO XV.
 
@@ -855,9 +919,11 @@ e).- Lactosa, no menos de 4.3 gramos por mil (método Polarimétrico o de Fehlin
 
 f).- Un mínimo de grasa, butírica de 29.32 gramos por litro.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 123°.
 
-Las Asociaciones Ganaderas Locales de Productores de Leche de cada Municipio, asesoradas por el Comité Estatal de Fomento Ganadero, tendrán prioridad para la formación y establecimiento de Plantas Pasteurizadoras y Esterilizadoras, que sean necesarias para cubrir las necesidades de consumo de cada lugar, tomando en consideración el número de habitantes, la producción lechera, consumo e importancia y solamente que las plantas mencionadas no tengan la capacidad suficiente para cubrir la totalidad de la demanda o no reúnan los requisitos establecidos por las Leyes respectivas, se dará oportunidad a personas físicas o morales ajenas a dicha Asociación.
+Las Asociaciones Ganaderas Locales de Productores de Leche de cada Municipio, asesoradas por la Dirección de Control Agrícola y Ganadero, tendrán prioridad para la formación y establecimiento de Plantas Pasteurizadoras y Esterilizadoras, que sean necesarias para cubrir las necesidades de consumo de cada lugar, tomando en consideración el número de habitantes, la producción lechera, consumo e importancia y solamente que las plantas mencionadas no tengan la capacidad suficiente para cubrir la totalidad de la demanda o no reúnan los requisitos establecidos por las Leyes respectivas, se dará oportunidad a personas físicas o morales ajenas a dicha Asociación.
 
 ###### ARTICULO 124°.
 
@@ -873,9 +939,11 @@ b).- Leche pasteurizada.
 
 c).- Leche esterilizada.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 126°.
 
-Para el transporte de leche se deberá recabar autorización a través de la Asociación de Productores de Leche, de las Autoridades Sanitarias y del Comité Estatal de Fomento Ganadero.
+Para el transporte de leche se deberá recabar autorización a través de la Asociación de Productores de Leche, de las Autoridades Sanitarias y de la Dirección de Control Agrícola y Ganadero.
 
 ###### ARTICULO 127°.
 
@@ -889,9 +957,11 @@ c).- Leche sucia: la que deja sedimento mayor que el permitido para cada una de 
 
 d).- Leche contaminada: aquélla cuya cuenta de bacterias sea superior a las permitidas en la categoría sanitaria que fije el Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1980)</small>
+
 ###### ARTICULO 128°.
 
-Los fabricantes de productos derivados de la leche, deberán solicitar el permiso respectivo de funcionamiento de las Autoridades Sanitarias y al Comité Estatal de Fomento Ganadero y además llenar los siguientes requisitos:
+Los fabricantes de productos derivados de la leche, deberán solicitar el permiso respectivo de funcionamiento de las Autoridades Sanitarias y de la Dirección de Control Agrícola y Ganadero y además llenar los siguientes requisitos:
 
 a).- Especificación de la leche usada.
 
@@ -955,7 +1025,7 @@ José Martínez Carrera.
 
 (Rúbrica.)
 
-Imprímase, Comuníquese y Observese.
+Imprímase, Comuníquese y Obsérvese.
 
 Saltillo, Coah., a 27 de marzo de 1969.
 
@@ -966,3 +1036,9 @@ Braulio Fernández Aguirre.- Rúbrica.
 El Srio. del Ejvo. del Estado.
 
 Lic. José Ramírez Mijares.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ABRIL DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
