@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1986-04-30"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -280,13 +280,17 @@ El impuesto del ejercicio, deducidos los pagos provisionales mensuales se pagar�
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 6o.
 
-Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán acreditar en declaraciones posteriores.
+Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución mensual siempre que, en este último caso, se trate de contribuyentes dedicados a la agricultura, ganadería, avicultura o pesca, así como cuando derive de inversiones relacionadas directamente con actividades empresariales, para la construcción o adquisición de inmuebles e instalaciones, maquinaria y equipo, gastos e inversiones en periodos preoperativos, así como los bienes o servicios a que se refiere el artículo 29 de esta Ley cuando unos u otros se exporten. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán acreditar en declaraciones posteriores.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá acreditarlas en declaraciones mensuales posteriores o solicitar su devolución total.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
@@ -1121,3 +1125,33 @@ La presente Ley entrará en vigor el día 1o. de mayo de 1986.
 ###### ARTICULO SEGUNDO.
 
 Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción ll del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+Disposición con vigencia anual durante el año de 1987
+
+###### ARTICULO OCTAVO.
+
+Durante el año de 1987, los contribuyentes personas físicas que se dediquen a la agricultura, ganadería o pesca podrán solicitar la devolución mensual del saldo a favor que resulte de su pago provisional mensual, sin quetengan (sic) que cumplir con las obligaciones a que se refiere el artículo 32 fracciones I, II y IV de la Ley del Impuesto al Valor Agregado, cuando:
+
+I.- Se encuentren en los supuestos que a continuación se mencionan:
+
+a).- Los contribuyentes que se dediquen a la agricultura o a la ganadería bovina, cuando la totalidad de ingresos obtenidos en el ejercicio de 1986, hubieran provenido exclusivamente de las actividades señaladas en esta fracción y no excedan de 300 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal el 1o. de enero de 1987, multiplicado por 365.
+
+b).- Los contribuyentes que se dediquen a la pesca o a la ganadería distinta de la mencionada en el inciso anterior, cuando los ingresos obtenidos en 1986, no excedan de 200 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal al 1o. de enero de 1987, multiplicado por 365.
+
+c).- En el caso de contribuyentes que se dediquen a actividades avícolas, cuando sus instalaciones les permitan tener en explotación permanente durante el año de 1987, hasta 100,000 aves. En el caso de contribuyentes que realicen actividades porcícolas, cuando sus instalaciones les permitan tener una producción permanente que en el citado año no rebase la cantidad de 5,000 cerdos, siempre ycuando (sic) no excedan el límite de 300 veces la cuota diaria a que se refiere el inciso a).
+
+II.- Cumplan, además, con los siguientes requisitos:
+
+a).- Estar inscritos en el registro federal de contribuyentes ante la oficina recaudadora de la entidad federativa que le corresponda a su domicilio fiscal.
+
+b).- Presentar declaraciones mensuales manifestando el valor de las actividades que realicen.
+
+c).- Presentar la solicitud de devolución ante la autoridad fiscal competente que corresponda a su domicilio fiscal, acompañando la declaración mensual en la que se determine el saldo a favor, los documentos en que conste en forma expresa y por separado el impuesto al valor agregado que se haya trasladado al contribuyente por bienes o servicios estrictamente indispensables para realizar las actividades del contribuyente y, en su caso, los documentos comprobatorios del pago de dicho impuesto por la importación de bienes tangibles.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
