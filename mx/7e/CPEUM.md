@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1980-12-29"
+last_updated: "1981-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1981.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -434,9 +434,11 @@ No constituyen monopolios las asociaciones de trabajadores formadas para protege
 
 Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan, y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas legislaturas por sí o a propuesta del Ejecutivo, podrán derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
+
 ###### Art. 29.
 
-En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
+En los casos de invasión perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado, los Departamentos Administrativos y la Procuraduría General de la República y con aprobación del Congreso de la Unión, y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculos para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación, pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
 ### CAPITULO II.
 
@@ -1408,17 +1410,23 @@ XIX.- Pedir la destitución, por mala conducta, de las autoridades judiciales a 
 
 XX.- Las demás que le confiere expresamente esta Constitución.
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
+
 ###### Art. 90.
 
-Para el despacho de los negocios del orden administrativo de la Federación, habrá un número de Secretarios que establezca el Congreso por una ley, la que distribuirá los negocios que han de estar a cargo de cada Secretaría.
+La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo de la Federación que estarán a cargo de las Secretarías de Estado y Departamentos Administrativos y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Federal en su operación.
+
+Las leyes determinarán las relaciones entre las entidades paraestatales y el Ejecutivo Federal, o entre estas y las Secretarías de Estado y Departamentos Administrativos.
 
 ###### Art. 91.
 
 Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
+
 ###### Art. 92.
 
-Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmados por el secretario del Despacho, encargado del ramo a que el asunto corresponda, y sin estos requisitos no serán obedecidos. Los reglamentos, decretos y órdenes del Presidente, relativos al Gobierno del Distrito Federal y a los Departamentos Administrativos, serán enviados directamente por el Presidente al Gobernador del Distrito y al jefe del Departamento respectivo.
+Todos los Reglamentos, Decretos, Acuerdos y Ordenes del Presidente deberán estar firmados por el Secretario de Estado o Jefe de Departamento Administrativo a que el asunto corresponda, y sin este requisito no serán obedecidos.
 
 > <small>(REFORMADO, D.O.F. 31 DE ENERO DE 1974)</small>
 
@@ -1888,13 +1896,11 @@ VI.- Gravar la circulación ni el consumo de efectos nacionales o extranjeros, c
 
 VII.- Expedir ni mantener en vigor leyes o disposiciones fiscales que importen diferencias de impues (sic) o requisitos por razón de la procedencia de mercancías nacionales o extranjeras, ya sea que esta diferencia se establezca respecto de la producción similar de la localidad, o ya entre producciones semejantes de distinta procedencia.
 
-> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 1981)</small>
 
-VIII.- Emitir títulos de deuda pública, pagaderos en moneda extranjera o fuera del territorio nacional; contratar directa o indirectamente préstamos con Gobiernos de otras naciones, o contraer obligaciones en favor de sociedades o particulares extranjeros, cuando haya de expedirse títulos o bonos al portador o transmisibles por endoso.
+VIII.- Contraer directa o indirectamente obligaciones o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
-
-Los Estados y los Municipios no podrán celebrar empréstitos sino para la ejecución de obras que estén destinadas a producir directamente un incremento en sus respectivos ingresos.
+Los Estados y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, inclusive los que contraigan organismos descentralizados y empresas públicas, conforme a las bases que establezcan las legislaturas en una ley y por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -3191,3 +3197,15 @@ D.O.F. 29 DE DICIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE ABRIL DE 1981.
+
+DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 117.
+
+UNICO.- Una vez que el Congreso de la Unión o la Comisión Permanente, en su caso, hagan la declaración de haber sido aprobada esta Reforma, pasará al Ejecutivo Federal para su promulgación y publicación, y entrará en vigor a los quince días siguientes de efectuada la citada declaración.
+
+D.O.F. 21 DE ABRIL DE 1981.
+
+DECRETO QUE REFORMA LOS ARTICULOS 29, 90 Y 92.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
