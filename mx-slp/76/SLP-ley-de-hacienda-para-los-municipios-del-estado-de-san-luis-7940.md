@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1989-12-29"
+last_updated: "1990-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1990.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -685,13 +685,17 @@ Estos derechos se causarán de acuerdo con la tasa o tarifa que establezca la le
 
 ### CAPITULO QUINTO. SERVICIO DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 93.
 
-El servicio público relacionado con el estado civil de las personas, lo proporcionará el Municipio, de acuerdo con las Leyes aplicables a cada situación, mediante el asentamiento de actas, su autorización y certificaciones que hagan los Oficiales del Registro Civil, entre otras las que se ocupen de nacimientos, defunción, matrimonio, divorcios, tutela, emancipación, etc., etc. e inscripción de sentencias firmes provenientes de Autoridades Estatales o de otras Entidades Federativas.
+El servicio público del Registro Civil, lo podrá proporcionar el Municipio, mediante convenios que celebre con el Gobierno Estatal. El servicio consistirá en la inscripción, autorización y certificación que harán los Oficiales del Registro Civil, sobre actos constitutivos o modificativos de las personas, en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y de los extranjeros residentes en el territorio del Estado; y de los actos del estado civil de los mexicanos efectuados en el extranjero; así como de la inscripción de las sentencias ejecutorias que ordene la rectificación de los asientos, que declaren la ausencia, la presunción de muerte o pérdida de la capacidad para administrar bienes y los demás que así lo exijan las leyes de actos que tengan sus efectos dentro de la jurisdicción municipal.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 94.
 
-Estos derechos se causarán de acuerdo con la tasa o tarifa que establezca la Ley de Ingresos de cada Municipio.
+Los derechos se causarán de acuerdo con lo que establezca la Ley de Ingresos de cada Municipio.
 
 SERVICIO DE PLANIFICACION
 
@@ -1246,3 +1250,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1989.
 P.O. 29 DE DICIEMBRE DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1990.
+
+P.O. 26 DE ENERO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
