@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1957-12-18"
+last_updated: "1959-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1959.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -43,7 +43,7 @@ CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
 El Estado de Chiapas es parte integrante de la República Mexicana, es libre y soberano en su régimen interior sin más limitaciones que las expresamente establecidas por el Pacto Federal, la soberanía reside esencial y originariamente en el pueblo de Chiapas, en cuyo nombre lo ejerce el poder público, en la forma y términos que las leyes lo establecen.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1959)</small>
 
 ###### ARTICULO 2.
 
@@ -51,7 +51,7 @@ El Territorio del Estado para su funcionamiento político y administrativo queda
 
 ARRIAGA, con sus Agencias Municipales de La Calera y La Punta.
 
-ACAPETAHUA, con su Agencia Municipal de Soconusco.
+ACAPETAHUA, con sus Agencias Municipales de Soconusco y La Palma.
 
 ALTAMIRANO, con su Agencia Municipal de Chiptic.
 
@@ -1526,3 +1526,7 @@ Unico.- Este decreto comenzará a regir a partir de su publicación en el Perió
 P.O. 18 DE DICIEMBRE DE 1957.
 
 Artículo Unico.- Este decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Edo.
+
+P.O. 9 DE DICIEMBRE DE 1959.
+
+Unico.- Este decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
