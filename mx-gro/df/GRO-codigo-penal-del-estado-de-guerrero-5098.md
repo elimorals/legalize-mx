@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2004-07-06"
+last_updated: "2004-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -269,9 +269,9 @@ XV.- Las demás que prevengan las leyes.
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-25.- La prisión consiste en la privación de la libertad personal. Su duración mínima será de tres días y la máxima de cincuenta años y se compurgará en las colonias penitenciarias, establecimientos o lugares que al efecto señale el Organo ejecutor, ajustándose a las resoluciones judiciales y a la legislación aplicable.
+25.- La prisión consiste en la privación de la libertad personal. Su duración mínima será de tres días y la máxima de setenta y cinco años y se compurgará en las colonias penitenciarias, establecimientos o lugares que al efecto señale el órgano ejecutor, ajustándose a las resoluciones judiciales y a la legislación aplicable.
 
 ### CAPITULO III. SEMILIBERTAD
 
@@ -1081,59 +1081,59 @@ II.- Al que celebre con otro un contrato que lo prive de su libertad o le impong
 
 ### CAPITULO III. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-129.- Se impondrá de treinta a cincuenta años de prisión y de mil doscientos a mil ochocientos días multa, cuando la privación ilegal de la libertad tenga el carácter de plagio o secuestro y se ejecute en alguna de las formas siguientes:
+129.- Comete el delito de secuestro quien por cualquier medio prive de la libertad a otro, con el propósito de obtener un beneficio para sí o para un tercero a cambio de la libertad del secuestrado.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+Al que cometa este delito se le impondrá de cuarenta a sesenta años de prisión y de mil seiscientos a dos mil ciento sesenta días multa.
 
-I.- Para obtener rescate o causar daño o perjuicio a la persona privada de su libertad u otras personas distintas relacionadas con el plagiado;
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+129 Bis.- Se impondrá la misma pena señalada en el artículo anterior, al que en relación con las conductas sancionadas en el mismo:
 
-II.- Cuando se haga uso de amenazas graves, de maltrato, de tormento, violencia o se veje a la víctima;
+I. Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos de la víctima, a excepción de los casos en que se trate de la autoridad competente;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores;
 
-III.- Cuando se detiene en calidad de rehén a una persona y se amenaza de privarla de la vida, o causarle un daño, sea a aquella o a terceros, si la autoridad no realiza o deja de realizar un acto de cualquier naturaleza;
+III. Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro; o
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+IV. Aconseje o induzca a no presentar la denuncia del secuestro cometido, o bien a no colaborar u obstruir la actuación de las autoridades y se demuestre fehacientemente su participación en el delito.
 
-IV.- Si quienes cometen el delito actúan en grupo o banda;
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+129 Bis 1.- Se impondrá de sesenta a setenta y cinco años de prisión y de dos mil ciento sesenta a dos mil setecientos días multa, cuando en la ejecución del delito de secuestro señalado en el artículo 129, concurra alguna de las circunstancias siguientes:
 
-V.- Cuando el secuestrado sea menor de doce años por quien sea extraño a su familia y no ejerza la tutela sobre el menor;
+I. Que el secuestrado sea menor de dieciocho años o mayor de setenta años o que tenga alguna discapacidad física o mental;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+II. Que el secuestrado sea violado o abusado sexualmente;
 
-VI.- Cuando el agente se ostente como autoridad.
+III. Que el secuestrador actúe con una o más personas menores de edad o que no tengan la capacidad para comprender el significado del hecho;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+IV. Que el secuestrador tenga vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
 
-Si en los actos descritos participara un servidor público que ostenta a su cargo funciones de prevención, persecución, investigación o sanción de delitos, se le aplicará la misma pena, más la destitución y la inhabilitación definitiva para desempeñar cargos de la misma especie.
+V. Que el secuestrador sea o haya sido integrante de alguna institución o corporación policíaca o de seguridad privada, o se ostente como tal sin serlo, o se haya desempeñado en el servicio público en las áreas de prevención, de procuración de justicia, de administración de justicia o de readaptación social;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+VI. Que el secuestrador sea servidor público en términos de lo establecido en el artículo 239 del presente Código y utilice para la realización del delito, los medios o instrumentos que le proporcione su encargo o empleo;
 
-Cuando la acción delictiva la cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la pena será de cuatro a diez años de prisión, a excepción de lo dispuesto en las fracciones I y IV del presente artículo, en cuyo caso se aplicará la sanción de veinte a cincuenta años de prisión y la multa correspondiente.
+VII. Que el secuestro se desarrolle en dos o más entidades federativas;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+VIII. Que altere la integridad física o mental del secuestrado;
 
-La misma pena se aplicará al que sin haber participado en el secuestro tenga conocimiento del plagio; lo presencie o conozca quienes son los agentes, no lo dé a conocer a las autoridades competentes y se preste como intermediario en la negociación del rescate.
+IX. Que el secuestrador cause una mutilación física o extraiga alguno de los órganos de su secuestrado;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+X. Que altere la salud del secuestrado o de sus familiares de forma permanente;
 
-Si el secuestrador espontáneamente pone en libertad a la persona antes de tres días, sin causarle ningún perjuicio y no reúna ninguna de las modalidades establecidas en las fracciones del presente artículo, se le aplicará de uno a seis años de prisión.
+XI. Que el secuestrado fallezca por cualquier causa durante el tiempo que dure la privación de la libertad; o
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
+XII. Que la secuestrada se encuentre en estado de gravidez.
 
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la pena será de cincuenta años de prisión.
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+129 Bis 2.- Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado el propósito previsto en el artículo 129, se le impondrán de diez a quince años de prisión y de cuatrocientos a quinientos cuarenta días multa. El juzgador valorará la conveniencia de la aplicación de la atenuante, cuando exista alguna de las circunstancias relativas al tipo agravado.
 
-El que cometa este delito no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-129 Bis.- (DEROGADO, P.O. 20 DE ABRIL DE 1999)
+129 Bis 3.- A quien cometa el delito de secuestro comprendido en los artículos 129, 129 Bis, 129 Bis 1 y 129 Bis 2 no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
@@ -1815,10 +1815,6 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 193.- Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
-### CAPITULO VI. INCESTO
-
-194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
@@ -1868,6 +1864,10 @@ En todos los casos se impondrán como medidas de seguridad, la separación del a
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
 El delito de violencia intrafamiliar se perseguirá por querella, salvo que los ofendidos sean menores de edad o incapaces.
+
+### CAPITULO VI. INCESTO
+
+194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -2885,6 +2885,14 @@ Igual pena se aplicará a quien sin mediar resolución de autoridad competente, 
 
 300.- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE ENERO DE 1989.
+
+PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
 ## TITULO V. DELITOS ELECTORALES
 
 > <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
@@ -2938,14 +2946,6 @@ EL SECRETARIO DE GOBIERNO
 LIC. ANGEL H. AGUIRRE RIVERO
 
 (Rúbrica)
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-P.O. 10 DE ENERO DE 1989.
-
-PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
-
-SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 27 DE JULIO DE 1990.
 
@@ -3016,5 +3016,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 6 DE JULIO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
