@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1922-11-22"
+last_updated: "1925-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1925.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -595,13 +595,17 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular y no 
 
 Los Municipios administrarán libremente su hacienda, la cual se formará, aparte de los bienes propios, de las contribuciones que señale el Congreso y que en todo caso serán las suficientes para atender a sus necesidades.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1925)</small>
+
 ###### ARTICULO 68.
 
-Cuando por cualquiera circunstancia desapareciere los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultad el Congreso del Estado, o en su defecto la Diputación Permanente, de nombrar sustitutos mientras se convoca a elecciones, si la falta ocurriere dentro de los seis primeros meses del año de su ejercicio. Si la falta ocurriere en los últimos seis meses, los nombrados terminarán el período.
+Cuando por cualquier circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultad el Congreso del Estado, o en su defecto la diputación permanente, de nombrar substitutos.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1925)</small>
 
 ###### ARTICULO 69.
 
-Los miembros de los Ayuntamientos y los Delegados durarán en su encargo un año y no podrán ser reelectos.
+Los miembros de los Ayuntamientos durarán en su encargo dos años y no podrán ser electos para el periodo inmediato.
 
 ###### ARTICULO 70.
 
@@ -830,3 +834,13 @@ Dado en el Palacio del Gobierno del Estado, en Tuxtla Gutiérrez, a primero de f
 P.O. 22 DE NOVIEMBRE DE 1922.
 
 Unico.- Este decreto comenzará a surtir efectos desde su promulgación.
+
+P.O. 11 DE NOVIEMBRE DE 1925.
+
+###### Artículo 1°.
+
+Esta Ley empezara a surtir sus efectos desde el 1° primero de enero del año de 1926 mil novecientos veintiséis.
+
+###### Artículo 2°.
+
+Quedan derogadas todas las leyes y disposiciones que se opongan al presente decreto.
