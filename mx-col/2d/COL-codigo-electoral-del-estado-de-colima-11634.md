@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "1998-01-24"
+last_updated: "1999-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: 10 DE JULIO DE 1999.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 9 de noviembre de 1996.
 
@@ -277,6 +277,24 @@ Los Consejeros Electorales para ser candidatos a un cargo de elección popular, 
 
 En los términos del artículo 50 de la CONSTITUCION, el Poder Ejecutivo se deposita en una persona que se denomina Gobernador del Estado de Colima.
 
+En los términos del artículo 51 de la CONSTITUCION, para ser Gobernador se requiere:
+
+I.- Ser ciudadano colimense por nacimiento y estar en pleno ejercicio de sus derechos;
+
+II.- Tener por lo menos 30 años cumplidos al día de la elección y una residencia inmediata anterior de cinco años ininterrumpidos en el Estado;
+
+III.- Tener una ilustración suficiente para desempeñar este cargo;
+
+IV.- Vivir del producto de un trabajo honesto;
+
+V.- No ser ministro de algún culto, salvo que se haya separado 5 años antes de la elección;
+
+VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo;
+
+VII.- No estar en servicio activo en las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe con 90 días de anticipación al día de la elección; y
+
+VIII.- Los Secretarios de la Administración Pública Estatal, el Oficial Mayor, el Procurador General de Justicia, los Magistrados del Supremo Tribunal de Justicia y los Presidentes Municipales, pueden ser electos para desempeñar el cargo de Gobernador del Estado, sólo en el caso de haber cesado como titulares 90 días antes de la fecha de la elección.
+
 ###### ARTICULO 16.
 
 En los términos del artículo 51 de la CONSTITUCION, para ser Gobernador se requiere:
@@ -327,7 +345,7 @@ V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, sa
 
 VI.- Tener un modo lícito de vivir y una preparación suficiente para desempeñar este cargo; y
 
-VII.- No ser ministro de algún culto religioso, salvo que se haya separado 5 años antes de la elección.
+VII.- No ser ministro de algún culto religioso, salvo que se haya separado 5 años antes de la elección;
 
 ###### ARTICULO 20.
 
@@ -4103,7 +4121,7 @@ Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hech
 
 El que afirma está obligado a probar. También lo está el que niega cuando su negación envuelva la afirmación expresa de un hecho.
 
-### CAPITULO UNICO. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+### CAPITULO I. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 372.
 
@@ -4155,7 +4173,15 @@ VIII.- Corregir los cómputos de la elección de Gobernador, de Diputados de may
 
 El TRIBUNAL sólo podrá declarar la nulidad de la votación recibida en una o varias casillas en cualquiera de las elecciones estatales o la nulidad de una elección de Ayuntamientos o de la elección de Diputados de mayoría relativa, cuando se den los supuestos previstos en este CODIGO.
 
-## TITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JULIO DE 1999)</small>
+
+## TITULO SEGUNDO. DE LAS INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1999)</small>
+
+### CAPITULO II. DE LOS DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 377.
 
@@ -4239,6 +4265,18 @@ El CONSEJO GENERAL aplicará al PARTIDO POLITICO la sanción económica que le h
 
 Las multas impuestas por infracciones a este CODIGO, contenidas en el presente Título, deberán ser pagadas en la Secretaría Ejecutiva del INSTITUTO, en un plazo improrrogable de 15 días contados a partir su notificación. En caso de que el infractor se oponga al pago se podrá solicitar a la Secretaría de Finanzas del Gobierno del Estado el cobro de la misma, aplicando para ello el procedimiento económico coactivo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1999)</small>
+
+###### ARTICULO 390.
+
+Se considerará como delito electoral todo acto u omisión doloso que contravenga lo dispuesto por el presente Código y se encuentre previsto en la Ley Penal, ya sea que se cometa antes, durante o después de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1999)</small>
+
+###### ARTICULO 391.
+
+A los servidores públicos, funcionarios electorales y ciudadanos en general que incurran en algún delito electoral, se les aplicarán las penas establecidas en el capítulo X, denominado "De los Delitos Electorales", del Título Primero, Sección Segunda, del Código Penal para el Estado de Colima. A los servidores públicos, además de las sanciones ya mencionadas, se les podrán aplicar las establecidas por la Ley de Responsabilidades de los Servidores Públicos.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente CODIGO entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4280,3 +4318,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbr
 P.O. 24 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE JULIO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
