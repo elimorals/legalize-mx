@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1979-05-02"
+last_updated: "2003-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -33,17 +33,19 @@ Que el H. Congreso del Estado ha tenido a bien enviarme para su promulgación, l
 
 Ley de la División Territorial del Estado de Morelos
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ### Capítulo I. De los Municipios
 
 ###### Art. 1.
 
-En el Estado de Morelos el Municipio Libre se considera como la base de la división territorial del mismo.
+De conformidad a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa el municipio libre.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1938)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Art. 2.
 
-El Estado se divide en los treinta y dos Munisipios (sic) siguientes: Amacuzac, Atlatlahucan, Axochiapan Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlanepantla, Tlaltizapán, Tlaquiltenango Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec Morelos y Zacualpan.
+El Estado de Morelos se divide en treinta y tres municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
 
 ###### Art. 3.
 
@@ -63,11 +65,13 @@ Corresponden a la jurisdicción del Municipio de Axochiapan, los siguientes cent
 
 Corresponden a la jurisdicción del Municipio de Ayala, los siguientes Centros de Población: AYALA, CABECERA DEL MUNICIPIO; AHUEHUEYO, APATLACO, CHINAMECA, ANENECUILCO DE LOS ZAPATA” (SIC), EL VERGEL, HUITZILILLA, JALOXTOC, JUAREZ, MOYOTEPE, RAFAEL MERINO, (antes San Antonio), SALITRE, TECOMALCO, TENEXTEPANGO Y TLAYECAC.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1946)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Art. 7.
 
-Corresponden a la jurisdicción del Municipio de Coatlán los siguientes centros de población: Apancingo, Buenavista de Aldama, Coatlán del Río Cabecera del Municipio, Cocoyotla, Colonia Morelos, Chavarría, Michapa, Tilancingo y Colonia Juárez.
+Corresponden a la Jurisdicción del Municipio de Coatlán del Río los siguientes centros de población:
+
+Apancingo, Buenavista de Aldama, Coatlán del Río Cabecera del Municipio, Cocoyotla, Colonia Morelos, Chavarría, Michapa, Tilancingo y Colonia Juárez.
 
 ###### Art. 8.
 
@@ -133,9 +137,21 @@ Corresponden a la jurisdicción del Municipio de Puente de Ixtla, los siguientes
 
 Corresponden a la jurisdicción del Municipio de Temixco, los siguientes Centros de Población: Acatlipa, Cuentepec, Pueblo Nuevo del Puente, TEMIXCO, Cabecera del Municipio, Tetlama y Pueblo Viejo.
 
-> <small>N. DE E. ADICIONADO POR DECRETO NÚMERO 38, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 1977.</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-Art. s/n. Corresponden a la Jurisdicción del Municipio de Temoac los siguientes centros de población: Amilcingo, Huazulco, Popotlán, y TEMOAC, Cabecera del Municipio.
+###### Art. 20 Bis.
+
+Corresponden a la Jurisdicción del Municipio de Temoac los siguientes centros de población:
+
+Amilcingo, Huazulco, Popotlán, y TEMOAC, Cabecera del Municipio.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+###### Art. 20 Ter.
+
+Corresponden a la Jurisdicción del Municipio de Tetela del Volcán los siguientes centros de población:
+
+Hueyapan, TETELA DEL VOLCÁN, Cabecera del Municipio, Xochicalco, y Tlalmimilulpan.
 
 ###### Art. 21.
 
@@ -146,10 +162,6 @@ Corresponden a la jurisdicción del Municipio de Tepoztlán, los siguientes cent
 ###### Art. 22.
 
 Corresponden a la jurisdicción del Municipio de Tepoztlán, los siguientes Centros de Población: AMATLAN, EL PARQUE, IXCATEPEC, LA CALERA, OCOTITLAN, SANTA CATARINA, (antes Gabriel Mariaca), TEPETLAPA, TEPOZTLAN, Cabecera del Municipio) (sic) y TLACOTENCO.
-
-> <small>N. DE E. ADICIONADO POR DECRETO NÚMERO 203, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 1937.</small>
-
-Art. s/n. Corresponden a la jurisdicción del Municipio de Tetela del Volcán los siguientes centros de población: Hueyapan, Xochicalco y Taimilulpan, siendo cabecera del Municipio el citado pueblo de Tetela del Volcán.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1939)</small>
 
@@ -194,6 +206,22 @@ Corresponden a la jurisdicción del Municipio de Yecapixtla, los siguientes cent
 ###### Art. 31.
 
 Corresponde a la jurisdicción del Municipio de Zacualpan, los siguientes centros de población: Tlacotepec, y Zacualpan de Amilpas, Cabecera del Municipio.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+###### Art. 31 Bis.
+
+Corresponden a la Jurisdicción del Municipio de Zacatepec los siguientes centros de población:
+
+Galeana, Tetelpa y ZACATEPEC, Cabecera del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 3 DE SEPTIEMBRE DE 2003)</small>
+
+Art. 33 (sic). Para el solo efecto de la designación genérica de los centros de población del Estado, se aplicarán los conceptos de ciudad, pueblo, colonia y comunidad, que establece la Ley Orgánica Municipal del Estado de Morelos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 3 DE SEPTIEMBRE DE 2003)</small>
+
+Art. 34 (sic). Para la definición de la categoría y denominación política de los Centros de Población de los Municipios, se estará a lo dispuesto por la Ley Orgánica Municipal del Estado de Morelos.
 
 ### Capítulo II. De la División Territorial
 
@@ -312,6 +340,16 @@ P.O. 2 DE MAYO DE 1979.
 Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Remítase el presente Decreto al Ejecutivo del Estado para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 3 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Los Ayuntamientos, en ejercicio de sus facultades constitucionales y legales, readecuarán las categorías y denominaciones políticas de sus centros de población, en un plazo de 180 días naturales, contados a partir de la vigencia del presente Decreto.
+
+CUARTO.- Hágase del conocimiento de los Ayuntamientos de los Municipios de Temoac, Tetela del Volcán y Zacatepec, el contenido del presente Decreto, para los efectos a que haya lugar.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
