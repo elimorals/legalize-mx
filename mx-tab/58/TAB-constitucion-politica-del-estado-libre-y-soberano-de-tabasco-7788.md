@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1966-01-29"
+last_updated: "1968-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,33 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-REGLAMENTO INTERIOR DEL SISTEMA DE FINANCIAMIENTO PARA EL DESARROLLO DEL ESTADO DE SAN LUIS POTOSI. "SIFIDE"
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1968.
 
-Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 22 de julio de 2008.
+Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
-Poder Ejecutivo del Estado.
+General Brigadier CARLOS GREENE, Gobernador Constitucional del Estado Libre y Soberano de Tabasco a sus habitantes hago saber:
 
-Sistema de Financiamiento para el Desarrollo del Estado
+LA H. XXVI LEGISLATURA DEL ESTADO DE TABASCO, erigida en Congreso Constituyente el día 10 de marzo último en la ciudad de Villahermosa, de conformidad con el artículo 64 de la Ley Orgánica Electoral de 23 de diciembre de 1918, expide la siguiente
 
-REGLAMENTO INTERIOR DEL SISTEMA DE FINANCIAMIENTO PARA EL DESARROLLO DEL ESTADO DE SAN LUIS POTOSÍ. "SIFIDE"
+Constitución Política del Estado Libre y Soberano de Tabasco
 
 ## Título Primero.
 
-### CAPITULO I. NATURALEZA Y OBJETO DEL SIFIDE
+### CAPITULO I.
+
+GARANTIAS INDIVIDUALES.
 
 ###### ARTÍCULO 1°.
 
 El Sistema de Financiamiento para el Desarrollo del Estado de San Luis Potosí, "SIFIDE", es un organismo público descentralizado del poder ejecutivo, con personalidad jurídica y patrimonio propios, el cual ejerce sus atribuciones conforme a su acuerdo administrativo de creación, las reformas a éste realizadas, así como al presente Reglamento Interior.
 
-### CAPITULO II. DE LA ORGANIZACIÓN
+### CAPITULO II.
+
+LA ENSEÑANZA.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
 ###### ARTÍCULO 2°.
 
@@ -51,7 +57,9 @@ El Objeto del SIFIDE es constituirse como una instancia del Gobierno del Estado 
 
 El SIFIDE contará, con base en su presupuesto de egresos y sus recursos propios disponibles, con los servidores públicos y personal necesario para el buen desempeño de sus actividades en los términos que apruebe el Consejo para el Financiamiento del Desarrollo.
 
-### CAPITULO III. CONSEJO PARA El FINANCIAMIENTO DEL DESARROLLO
+### CAPITULO I.
+
+EL ESTADO Y SU TERRITORIO.
 
 ###### ARTÍCULO 4°.
 
@@ -79,7 +87,9 @@ e) Dirección de Sistemas.
 
 V. Direcciones de Fideicomisos y/o Programas; (sic)
 
-### CAPITULO IV. COORDINADOR GENERAL DEL SIFIDE
+### CAPITULO I.
+
+HABITANTES.
 
 ###### ARTÍCULO 5°.
 
@@ -99,7 +109,9 @@ Por cada miembro propietario se nombrará un suplente.
 
 El apoderado especial de Nacional Financiera, concurrirá a las reuniones cuando resulte necesario, con voz, pero sin voto, Asimismo, se podrá convocar como invitados, con derecho a voz, pero sin voto, a personas físicas y morales, cuya presencia sea necesaria en virtud de los temas a tratar en las sesiones del Consejo.
 
-### CAPITULO V. DIRECCIÓN GENERAL DE DESARROLLO FINANCIERO
+### CAPITULO II.
+
+VECINOS.
 
 ###### ARTÍCULO 6°.
 
@@ -141,7 +153,9 @@ IX. Expedir, cuando así proceda, las certificaciones de los documentos que obre
 
 X. Ejercer en forma indeleble las demás facultades que con tal carácter le confieran los ordenamientos jurídicos aplicables y las demás leyes, reglamentos y disposiciones, así como aquellas que decrete el Poder Ejecutivo.
 
-### CAPITULO VI. DIRECCIONES DE ÁREA
+### CAPITULO III.
+
+TABASQUEÑOS.
 
 ###### Art. 17.
 
@@ -191,7 +205,11 @@ Los tabasqueños gozarán, en igualdad de circunstancias, de las prerrogativas d
 
 ## Título Segundo.
 
-### CAPITULO VII. DIRECCIONES DE FIDEICOMISOS Y/O PROGRAMAS
+### CAPITULO IV.
+
+CIUDADANOS TABASQUEÑOS.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1954)</small>
 
 ###### Art. 22.
 
@@ -271,7 +289,9 @@ La Ley fijará los demás casos en que se pierdan o suspendan los derechos del c
 
 La Dirección General de Desarrollo Financiero se encuentra a cargo de un Director General, quien será nombrado por el Coordinador General, y estará auxiliado por los Directores, Subdirectores y demás unidades administrativas que se requieran para las necesidades del servicio.
 
-### CAPITULO VIII. DE LA SUPLENCIA DE FUNCIONARIOS
+### CAPITULO I.
+
+FORMA DE GOBIERNO.
 
 ###### Art. 28.
 
@@ -395,7 +415,9 @@ Por cada Diputado propietario se eligirá (sic) un suplente.
 
 Para ser Diputado se requiere:
 
-I.- Ser ciudadano tabasqueño por nacimiento, o por naturalización en el caso de la fracción I del artículo 19.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1966)</small>
+
+I.- Ser ciudadano Tabasqueño por nacimiento, originario del Distrito por el que se pretenda ser electo; o ciudadano tabasqueño por nacimiento o naturalización en el caso de la fracción I del Artículo 19, con residencia efectiva en el Distrito de que se trate no menor de dos años anteriores al día de su elección.
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -567,13 +589,11 @@ Los Diputados que no concurran a una sesión sin causa justificada o sin previo 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero del 16 de septiembre al 31 de diciembre; y el segundo, del 27 de febrero al 30 de abril del año siguiente. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1964)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1968)</small>
 
 ###### Art. 50.
 
-El día 27 de febrero de cada año, con excepción del que corresponda al año en que tome posesión del cargo, el Gobernador del Estado concurrirá al Congreso y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
-
-De la gestión administrativa realizada en los últimos diez meses de cada sexenio, el Gobernador informará al Congreso, el día 20 de noviembre del año respectivo.
+Cada dos años el Gobernador Constitucional del Estado concurrirá ante el Congreso a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. Este informe se rendirá el día 27 de febrero de cada bienio, a excepción del último año de la gestión administrativa en que deberá informar sobre la labor de la administración pública en los últimos 10 meses del sexenio, señalándose para tal efecto el día 20 de noviembre del año respectivo.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -963,7 +983,7 @@ II.- Condonar impuestos causados a favor del Tesoro Municipal a no ser en el cas
 
 Corresponde al Congreso en Asamblea plena, con asistencia de no menos de las tres cuartas partes del número total de Diputados, resolver acerca de la renuncia que de su cargo haga el Gobernador del Estado.
 
-Sólo podrá aceptarse la renuncia cuando a juicio del Congreso hubiese causa grave y suficiente, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
+Sólo podrá aceptarse la renuncia cuando ajuicio del Congreso hubiese causa grave y suficiente, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -1607,7 +1627,7 @@ La autoridad ante quien se ejercite el derecho de petición dictará su proveíd
 
 ###### Art. 150.
 
-Las leyes de orden público y de policía son obligatorias aún para los extranjeros que por primera vez pisen el territorio del Estado, sin más excepción que los casos especiales previstos por el derecho internacional, por los tratados que celebre la Unión o por las leyes que aquélla expida conforme a sus facultades.
+Las leyes de orden público y de policía son obligatorias aún para los extranjeros que por primera vez pisen el territorio del Estado, sin más excepción que los casos especiales provistos por el derecho internacional, por los tratados que celebre la Unión o por las leyes que aquélla expida conforme a sus facultades.
 
 ## Título Duodécimo.
 
@@ -1643,29 +1663,7 @@ Gozan de fuero constitucional todos los funcionarios designados por elección po
 
 La Ciudad de Villahermosa es la Capital del Estado y la residencia de los poderes del mismo.
 
-## TRANSITORIOS
-
-PRIMERO.- El presente reglamento abroga el reglamento publicado el día 30 de mayo del año 2002 y sus reformas publicadas el día 24 de mayo del año 2007.
-
-SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-C.P. MARCELO DE LOS SANTOS FRAGA
-
-(RÚBRICA)
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-LIC. ALFONSO JOSÉ CASTILLO MACHUCA
-
-(RÚBRICA)
-
-EL COORDINADOR GENERAL DEL SIFIDE
-
-ING. RODOLFO OLIVA PUE
-
-(RÚBRICA)
+## TRANSITORIOS.
 
 ###### Art. 1°.
 
@@ -1902,3 +1900,17 @@ UNICO.- Este decreto surte sus efectos legales desde la fecha de su publicación
 P.O. 8 DE JULIO DE 1964.
 
 UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno.
+
+P.O. 29 DE ENERO DE 1966.
+
+UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 1968.
+
+###### ARTICULO PRIMERO.
+
+El informe relativo a la situación de la Administración Pública, por lo que se refiere al período comprendido del 27 de febrero de 1967 a la fecha del presente Decreto, será rendido en el informe del bienio correspondiente a los años de 1967 a 1969, el día 27 de febrero de este último año, y por lo que respecta al período comprendido del 27 de febrero de 1969 al último año del ejercicio constitucional, será rendido el 20 de noviembre de 1970.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
