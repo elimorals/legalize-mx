@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1983-11-14"
+last_updated: "1985-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE NOVIEMBRE DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -561,13 +561,17 @@ La Condecoración del Mérito Docente se concederá por la Secretaría de la Def
 
 La condecoración de Perseverancia se otorgará por la Secretaría de la Defensa Nacional y estará destinada a premiar los servicios ininterrumpidos en el Activo, de los miembros del Ejército y Fuerza Aérea.
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 1985)</small>
 
-Esta Condecoración será de seis Clases: Especial, 1a., 2a., 3a., 4a. y 5a. y se concederá por su orden, a los que cumplan treinta y cinco, treinta, veinticinco, veinte, quince y diez años de servicios.
+Esta Condecoración será de nueve Clases: "POR LA PATRIA"; "INSTITUCIONAL"; "EXTRAORDINARIA"; "ESPECIAL"; "PRIMERA"; "SEGUNDA"; "TERCERA"; "CUARTA"; Y "QUINTA" y se concederá por su orden, a los que cumplan cincuenta, cuarenta y cinco, cuarenta, treinta y cinco, treinta, veinticinco, veinte, quince y diez años de servicios.
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 1985)</small>
 
-Quienes en los términos de esta disposición se hagan acreedores a la Condecoración de Perseverancia, a partir de la 5a. Clase, tendrán derecho, además, al pago de una prima como complemento del haber, en los presupuestos de egresos correspondientes, se fijará oportunamente el monto o proporción de dicha prima.
+Quienes en los términos de esta disposición se hagan acreedores a la Condecoración de Perseverancia, tendrán derechos, además, al pago de una prima como complemento del haber. En los presupuestos de egresos correspondientes se fijará oportunamente el monto o proporción de dicha prima.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 1985)</small>
+
+La propia Secretaría señalará la forma, tamaño, material y demás características de estas condecoraciones.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
@@ -758,3 +762,7 @@ Este decreto entrará en vigor a partir de la fecha de su publicación en el "Di
 D.O.F. 14 DE NOVIEMBRE DE 1983.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, quedando derogadas las disposiciones que se le opongan.
+
+D.O.F. 11 DE NOVIEMBRE DE 1985.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin carácter retroactivo, iniciando el pago de las nuevas primas correspondientes a partir de enero de 1986 y quedando derogadas las disposiciones que se le opongan.
