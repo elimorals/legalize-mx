@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "1997-12-17"
+last_updated: "2001-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -1059,9 +1059,11 @@ V.- Atender y respetar las directrices que en los términos de esta Ley, se cont
 
 VI.- Cumplir con las especificaciones necesarias a la atención de los usuarios discapacitados, los menores y personas de la tercera edad.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 112.
 
-El equipo destinado al Servicio Público de Transporte deberá mantenerse en perfectas condiciones para su uso y no ser de modelo inferior a cinco años de antigüedad al año cursante del permiso.
+El equipo destinado al Servicio Público de Transporte deberá mantenerse en perfectas condiciones de uso y tener una antigüedad máxima de 3 años a la fecha del otorgamiento del permiso en zonas urbanas, y en los demás casos hasta de 5 años.
 
 ###### ARTICULO 113.
 
@@ -1221,9 +1223,21 @@ Recibida la solicitud para obtener permiso de servicio público de transporte, l
 
 Las personas físicas y morales como permisionarios, se obligarán a presentar las garantías y requisitos que incumben a cada permiso, por daños a terceros y acreditar póliza que garantice eficazmente protección al pasajero.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 140.
 
-Los permisos para prestar el servicio público de transporte serán siempre temporales, durarán un año y serán renovables siempre y cuando prevalezcan las condiciones que determinaron su otorgamiento, se esté al corriente en el pago de las contribuciones y derechos fiscales respectivos y las demás obligaciones inherentes.
+Los permisos para prestar el servicio público de transporte serán siempre temporales, durarán hasta 10 años y serán renovables siempre y cuando prevalezcan las condiciones que determinaron su otorgamiento, se esté al corriente en el pago de las contribuciones y derechos fiscales respectivos y las demás obligaciones inherentes.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+
+ARTICULO 140 A.- Los permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los servicios públicos de transporte, previa autorización de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2001)</small>
+
+ARTICULO 140 B.- Los permisos a que se refiere este Capítulo, se otorgarán a nayaritas y/o a sociedades constituidas conforme a las leyes aplicables, considerando que los vehículos con los que se pretende realizar el servicio público de transporte en zonas urbanas, deberán tener una antigüedad máxima de tres años a la fecha de otorgamiento del permiso y en los demás casos hasta de cinco años.
+
+La Secretaría General de Gobierno, vigilará que las asignaciones de permisos no generen prácticas monopólicas.
 
 ###### ARTICULO 141.
 
@@ -1882,3 +1896,11 @@ Rigoberto Ochoa Zaragoza
 El Secretario General de Gobierno.
 
 Lic. Sigfrido de la Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
