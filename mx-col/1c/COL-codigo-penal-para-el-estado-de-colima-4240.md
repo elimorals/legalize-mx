@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2002-12-28"
+last_updated: "2003-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -105,11 +105,11 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES, en su modalidad de EXPLOTACIÓN PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme a los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACION en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210, ROBO respecto de los supuestos del inciso B) del artículo 227; y DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 y 210.
+Se califica como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES, en su modalidad de EXPLOTACIÓN PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; y DAÑOS tipificado por el artículo 238. Igualmente se considera graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso B) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 y 210; así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -341,9 +341,11 @@ REPARACION DEL DAÑO.
 
 La multa consiste en el pago de una cantidad cierta y determinada que se impone al delincuente, en beneficio del Estado y se hará efectiva mediante el procedimiento económico coactivo.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 29.
 
-La multa será por el equivalente de una a cien unidades y se fijará atendiendo a las condiciones económicas del sentenciado.
+La multa será por el equivalente de una a 100 unidades, salvo el caso de los delitos ambientales, que será de 100 a 20 mil unidades, y se fijará atendiendo a las condiciones económicas del sentenciado.
 
 ###### ARTICULO 30.
 
@@ -667,7 +669,9 @@ CONCURSO DE DELITOS Y DELITO CONTINUADO.
 
 En los casos de delitos culposos se impondrá hasta la cuarta parte de las penas y medidas de seguridad previstas por la ley al tipo básico del delito doloso, con excepción de aquellos que la Ley señale una pena específica. Además, se impondrá, en su caso, inhabilitación o suspensión hasta por cinco años o privación definitiva de derecho para ejercer profesión, oficio, autorización, licencia, permiso o actividad que dió origen a la conducta culposa. También se podrá imponer el trabajo a favor de la comunidad como pena autónoma o en sustitución de las demás sanciones.
 
-Las sanciones por delito culposo sólo se impondrán con relación a los delitos previstos en los siguientes artículos: 119, 136, 137, 141, 142, 143, 144, 145, 168, 173, 174, 237 y 238 de este Código.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
+Las sanciones por delito culposo sólo se impondrán con relación a los delitos previstos en los siguientes artículos: 119, 136, 137, 141, 142, 143, 144, 145, 168, 173, 174, 237, 238 y 244 fracción II de este Código.
 
 Cuando a consecuencia de actos u omisiones culposos, calificados como graves, que sean imputables al personal que preste sus servicios en una empresa de transporte de servicio público, se causen homicidios de dos o más personas, la pena será de cuatro a quince años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza. Igual pena se impondrá cuando se trate de transporte escolar.
 
@@ -2191,13 +2195,17 @@ Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que 
 
 Este delito sólo se perseguirá por querella necesaria.
 
-### CAPITULO UNICO. Validez de la Ley Penal.................... 323
+### CAPITULO UNICO.
+
+DELITOS AMBIENTALES.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
 
 ## TITULO SEXTO.
 
 DELITOS CONTRA EL HONOR.
 
-### CAPITULO I. Conducta o Hecho....................................... 324
+### CAPITULO UNICO. Validez de la Ley Penal.................... 323
 
 ###### ARTICULO 203.
 
@@ -2205,7 +2213,7 @@ Al que amenace a otro con causarle un daño en su persona, bienes, derechos o en
 
 Al que mediante violencia obligue a otro a hacer, omitir, o tolerar algo, se le impondrán de dos a seis años de prisión y multa hasta por 80 unidades.
 
-### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
+### CAPITULO I. Conducta o Hecho....................................... 324
 
 ###### ARTICULO 204.
 
@@ -2213,7 +2221,7 @@ Al que sin consentimiento de la persona autorizada o empleando engaño, se intro
 
 Las mismas sanciones se aplicarán a quien permanezca en una morada o sus dependencias sin el consentimiento de la persona autorizada para darlo.
 
-### CAPITULO III. Inexistencia del Delito................................ 325
+### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
 
 ###### ARTICULO 205.
 
@@ -2227,7 +2235,7 @@ Las sanciones serán de uno a cinco años de prisión y multa hasta por 60 unida
 
 DELITOS CONTRA EL PATRIMONIO.
 
-### CAPITULO IV. Tentativa.................................................... 325
+### CAPITULO III. Inexistencia del Delito................................ 325
 
 ###### ARTICULO 206.
 
@@ -2265,7 +2273,7 @@ Al que tenga cópula con persona menor de catorce años de edad, o con quien que
 
 Según el caso, se impondrán las penas señaladas en los Artículos anteriores, cuando se produzca un resultado análogo al de la violación, utilizando un instrumento no idóneo, si el activo tuvo el propósito de copular.
 
-### CAPITULO V. Concurso de Delitos.................................... 325
+### CAPITULO IV. Tentativa.................................................... 325
 
 ###### ARTICULO 211.
 
@@ -2285,7 +2293,7 @@ No se procederá contra el activo sino por querella de la mujer ofendida o de su
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VI. Autoría y Participación............................... 326
+### CAPITULO V. Concurso de Delitos.................................... 325
 
 ###### ARTICULO 216 Bis.
 
@@ -2319,13 +2327,15 @@ Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
 
+### CAPITULO VI. Autoría y Participación............................... 326
+
 ### CAPITULO VII. Comunicabilidad de Circunstancias.......... 326
 
+## TITULO UNICO.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
+
 ### CAPITULO I. Penas y medidas de Seguridad..................... 326
-
-## TITULO I. ........................................................................ 323
-
-### CAPITULO II. La Prisión..................................................... 327
 
 ###### ARTICULO 217.
 
@@ -2337,7 +2347,7 @@ II.- Al que azotare a otro por injuriarle; y
 
 III.- Al que infiera cualquier otro golpe simple.
 
-### CAPITULO III. Multa........................................................... 327
+### CAPITULO II. La Prisión..................................................... 327
 
 ###### ARTICULO 218.
 
@@ -2359,13 +2369,13 @@ II.- Si el imputado fuere una persona que haya obrado como servidor público;
 
 III.- Si el hecho imputado está declarado cierto por sentencia firme y el acusado obra por un interés legítimo.
 
-### CAPITULO IV. Reparación de Daño.................................. 327
+### CAPITULO III. Multa........................................................... 327
 
 ###### ARTICULO 221.
 
 Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de dos a cinco años y multa hasta por 70 unidades.
 
-### CAPÍTULO V. Inhabilitación de Derechos o Funciones...... 328
+### CAPITULO IV. Reparación de Daño.................................. 327
 
 ###### ARTICULO 222.
 
@@ -2383,11 +2393,11 @@ Los documentos u objetos que hubieren servido de medio para los delitos de difam
 
 Siempre que sea condenado el responsable de la difamación o calumnia se ordenará la publicación de la sentencia.
 
+### CAPÍTULO V. Inhabilitación de Derechos o Funciones...... 328
+
+## TITULO I. ........................................................................ 323
+
 ### CAPITULO VI. Publicación de sentencia........................... 328
-
-## TITULO II. Delito y Delincuente......................................... 324
-
-### CAPITULO VII. Decomiso................................................. 329
 
 ###### ARTICULO 226.
 
@@ -2437,7 +2447,7 @@ Se equipara al robo y se sancionará con los (sic) mismas penas el apoderamiento
 
 Al que se le imputare el delito de robo simple y acredite haber tomado la cosa con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión y multa hasta por cinco unidades, siempre que no se haya negado a devolverla, si se le requirió para ello. Como reparación del daño, además pagará al ofendido el doble del alquiler arrendamiento o intereses de la cosa usada.
 
-### CAPITULO VIII. Prohibición de ir a una Circunscripción. Territorial determinada o de residir en ella......................... 329
+### CAPITULO VII. Decomiso................................................. 329
 
 ###### ARTICULO 230.
 
@@ -2453,7 +2463,7 @@ I.- Disponga de una cosa mueble de su propiedad, si no tiene la libre disposici�
 
 II.- En plazo prudente y después de ser requerido formalmente no devuelva la cosa mueble retenida ilegalmente o no la entregue a la autoridad para que ésta disponga de la misma conforme a la ley.
 
-### CAPITULO IX. Amonestación .......................................... 329
+### CAPITULO VIII. Prohibición de ir a una Circunscripción. Territorial determinada o de residir en ella......................... 329
 
 ###### ARTICULO 232.
 
@@ -2481,9 +2491,9 @@ I.- ADMINISTRACION FRAUDULENTA. Al que por cualquier motivo teniendo a su cargo 
 
 II.- USURA. El que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia de una persona, imponga un contrato o convenio mercantil con interés que rebase el 25% de la tasa promedio porcentual bancaria, o suscriba documentos o títulos de créditos incompletos para anotar posteriormente el porcentaje del interés, o altere las fechas de suscripción de los mismos o adelante la de sus plazos, o aplique únicamente el pago parcial a los intereses sin disminución de capital, o reclame en cobro por cualquier medio dos o más veces el importe de un adeudo, o no registre pagos parciales o abonos, y en general obtenga para sí o para otro un lucro evidentemente desproporcionado con la naturaleza de la operación o de los usos comerciales.
 
-### CAPITULO X. Sanciones a las personas morales............ 329
+### CAPITULO IX. Amonestación .......................................... 329
 
-### CAPITULO XI. Tratamiento en Internación o. en Libertad Vigilada.......................................................... 330
+### CAPITULO X. Sanciones a las personas morales............ 329
 
 ###### ARTICULO 235.
 
@@ -2503,7 +2513,7 @@ Si el despojo se realiza por dos o más personas, o con violencia, la sanción a
 
 Las sanciones se aplicarán aún cuando el derecho a la posesión sea dudoso o esté en litigio.
 
-### CAPITULO I. Reglas Generales........................................ 330
+### CAPITULO XI. Tratamiento en Internación o. en Libertad Vigilada.......................................................... 330
 
 ###### ARTICULO 237.
 
@@ -2513,7 +2523,7 @@ Al que por cualquier medio destruya o deteriore una cosa ajena, o propia en perj
 
 Si el delito recae en bienes de interés colectivo o de valor científico, artístico o cultural o se comete por medio de inundación, incendio o explosión, la sanción aplicable será de dos a nueve años de prisión.
 
-### CAPÍTULO II. Exceso en las causas de licitud.................. 330
+### CAPITULO I. Reglas Generales........................................ 330
 
 ###### ARTICULO 239.
 
@@ -2523,9 +2533,119 @@ Al que después de la ejecución del delito y sin haber participado en él, con 
 
 Al que con unidad de propósito incurra en más de dos ocasiones en cualquiera de las conductas previstas en el Artículo anterior, se le aplicarán de tres a siete años de prisión y multa hasta por 100 unidades.
 
-TRANSITORIOS:
+> <small>(ADICIONADA CON EL TITULO, CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
+
+### CAPÍTULO II. Exceso en las causas de licitud.................. 330
+
+#### SECCION QUINTA.
+
+DELITOS CONTRA EL MEDIO AMBIENTE.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
+
+## TITULO II. Delito y Delincuente......................................... 324
 
 ### CAPITULO III. Tentativa ................................................... 331
+
+###### ARTICULO 241.
+
+Se impondrá pena de tres meses a cinco años de prisión y multa de 100 a 15 mil unidades, al que sin contar con la autorización a que se refiere el artículo 196 de la Ley Ambiental para del (sic) Desarrollo Sustentable del Estado de Colima; ordene, ejecute o permita la realización de actividades no consideradas altamente riesgosas, de acuerdo a los listados a que hace referencia el artículo 194 de la citada Ley, siempre que éstas ocasionen daños al ambiente, los recursos naturales o a la salud humana.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 242.
+
+Se impondrá pena de tres meses a tres años de prisión y multa de 100 a 10 mil unidades a quien sin aplicar las medidas de seguridad o con violación a lo establecido en las disposiciones legales, reglamentarias, normas técnicas ambientales estatales o normas oficiales mexicanas aplicables:
+
+I.- Emita, despida, descargue en la atmósfera, lo autorice u ordene; gases, humos, polvos, vapores, olores o contaminantes que ocasionen daños al ambiente, los recursos naturales o a la salud humana, siempre que dichas emisiones provengan de fuentes fijas de competencia estatal o municipal, conforme a lo previsto en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima;
+
+II.- Genere emisiones de ruido, vibraciones, energía térmica, lumínica o radiaciones electromagnéticas, provenientes de fuentes emisoras que sean de competencia estatal o municipal, conforme al Ordenamiento señalado en la fracción anterior que ocasionen daños al ambiente, a los recursos naturales o a la salud humana; o
+
+III.- Contamine visualmente o altere negativamente las condiciones de paisaje de las zonas que los programas de ordenamiento ecológico y territorial y los de desarrollo urbano, señalen como susceptibles de protegerse.
+
+En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un área de valor ambiental o área natural protegida, de competencia estatal o municipal, la pena de prisión se podrá incrementar hasta 5 años y la multa hasta 15 mil unidades.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 243.
+
+Se impondrá pena de tres meses a cinco años de prisión y multa de 100 a 15 mil unidades al que, ilícitamente descargue, deposite o infiltre, o lo autorice u ordene; aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia estatal o municipal, que cause daño al ambiente, a los recursos naturales o a la salud humana.
+
+Cuando se trate de las aguas referidas en el párrafo anterior que se encuentren depositadas, fluyan en o hacia un área de valor ambiental o un área natural protegida de competencia estatal o municipal, la pena de prisión aumentará hasta en un año y la pena económica aumentará hasta en cinco mil unidades más de lo previsto en el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 244.
+
+Se impondrá de tres meses a seis años de prisión y multa de 100 a 15 mil unidades, a quien ilícitamente:
+
+I.- Dentro de un área de valor ambiental o de un área natural protegida; destruya, corte, arranque, derribe, tale o cause la muerte de uno o varios ejemplares de la vegetación natural o realice cambios de uso de suelo;
+
+II.- Ocasione incendio dentro de un área de valor ambiental o de un área natural protegida y que éste produzca daños al ambiente, a los recursos naturales o a la salud humana;
+
+III.- Altere equipo o programas de cómputo utilizados para la verificación de automotores;
+
+IV.- Realice el cambio provisional de aditamentos o equipo de automotores, especialmente de convertidores catalíticos, motores o cristales, con el sólo objeto de obtener los certificados de verificación aprobatoria de emisiones;
+
+V.- Omita el empleo del equipo de reducción de emisiones de contaminantes en empresas, industrias o fuentes móviles que generen contaminantes;
+
+VI.- No instale o no utilice adecuadamente las plantas de tratamiento residuales;
+
+VII.- Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental estatal o municipal;
+
+VIII.- Destruya, altere u oculte información, registro, reporte o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental estatal o municipal;
+
+IX.- Recolecte, transfiera, trate o disponga finalmente los residuos sólidos contraviniendo las disposiciones legales aplicables; o
+
+X.- Viole una medida de seguridad impuesta por la autoridad ambiental competente que propicie desequilibrio ecológico o casos de contaminación con repercusiones negativas para el ambiente, los recursos naturales o para la salud pública.
+
+Para los efectos de la fracción I del presente artículo, se entenderá por vegetación natural, al conjunto de plantas que se desarrolla libremente, dominadas por especies arbóreas, arbustivas o crasas y que forman parte de una comunidad ecológica.
+
+No se aplicará pena alguna respecto a lo dispuesto por la fracción I del presente artículo cuando sea un jornalero quien realice la actividad con fines de uso o consumo doméstico dentro de su comunidad y sea la primera ocasión que realice dicha acción.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 245.
+
+Se impondrá de tres meses a cinco años de prisión y multa de 100 a 15 mil unidades a quien ilícitamente propague u ordene la propagación de epizootia, plaga, parásitos o gérmenes nocivos o realice cualquier acción que dañe al ambiente, a los recursos naturales o a la salud humana.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 246.
+
+Se impondrá pena de tres meses a cinco años de prisión y multa de 100 a 15 mil unidades, a quien ilícitamente realice, ordene, dirija o incite la realización de actividades distintas para las que hayan sido destinadas las distintas zonas del territorio del Estado, en los programas de ordenamiento ecológico territorial.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 247.
+
+En la sentencia que se dicte por los delitos a que se refiere este Capitulo, el juez podrá aplicar adicionalmente como parte de la reparación del daño algunas de las siguientes penas:
+
+I.- La realización de las acciones necesarias para establecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+
+II.- La suspensión, modificación o demolición de las construcciones, obra o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
+
+III.- La reincorporación de elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos, siempre y cuando su reincorporación no construya un peligro al equilibrio ecológico o dificulte la reproducción o migración de especies de flora o fauna silvestre;
+
+IV.- Inhabilitación, cuando el autor o partícipe del delito tenga la calidad de servidor público hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida;
+
+V.- Realice el cambio provisional de aditamentos o equipos de automotores, especialmente de convertidores catalíticos, motores o cristales, con el sólo objeto de obtener los certificados de verificación aprobatoria de emisiones.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 248.
+
+Los trabajos a favor de la comunidad a que se refiere el artículo 54 de este Ordenamiento, cuando se impongan por la comisión de delitos ambientales, consistirán en actividades relacionadas con la protección al ambiente o a la restauración de los recursos naturales.
+
+En caso de aplicar lo dispuesto por el párrafo anterior, el juez deberá solicitar a la dependencia ambiental competente o a las instituciones de educación superior o de investigación científica, la expedición de un dictamen técnico.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+
+###### ARTICULO 249.
+
+Las dependencias de la administración pública correspondientes, deberán proporcionar al ministerio público o al juez, en su caso, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias o procesos que se integren por la comisión de los delitos a que se refiere el presente Capítulo.
+
+TRANSITORIOS:
 
 #### SECCION PRIMERA.
 
@@ -2534,14 +2654,6 @@ DELITOS CONTRA EL ESTADO.
 ## TITULO III. Consecuencias Jurídicas de la. Conducta o Hecho. ............................................................. 326
 
 ### CAPITULO IV. Delitos preterintencionales......................... 331
-
-#### SECCION SEGUNDA.
-
-DELITOS CONTRA LA SOCIEDAD.
-
-## TITULO IV. Aplicación de Sanciones................................ 330
-
-### CAPITULO V. Delitos culposos.......................................... 331
 
 ###### ARTICULO PRIMERO.
 
@@ -2565,11 +2677,13 @@ INDICE:
 
 # LIBRO PRIMERO.
 
+## TITULO IV. Aplicación de Sanciones................................ 330
+
+### CAPITULO V. Delitos culposos.......................................... 331
+
 ## TITULO V. Extinción de la acción persecutoria. y de las penas y medidas de seguridad........................... 332
 
 ### CAPITULO VI. Error........................................................... 331
-
-## TITULO I. Delitos contra la Seguridad del Estado............. 334
 
 ### CAPITULO VII. Concurso de Delitos y Delito Continuado. 331
 
@@ -2583,9 +2697,9 @@ INDICE:
 
 ### CAPITULO III. Amnistía...................................................... 332
 
-### CAPITULO IV. Prescripción............................................... 332
+## TITULO I. Delitos contra la Seguridad del Estado............. 334
 
-## TITULO II. Delitos contra la Función Pública....................... 334
+### CAPITULO IV. Prescripción............................................... 332
 
 ### CAPITULO V. Indulto........................................................... 333
 
@@ -2607,9 +2721,9 @@ INDICE:
 
 ### CAPITULO III. Ultrajes a la autoridad.................................. 335
 
-### CAPITULO IV. Desobediencia de particulares.................. 335
+## TITULO II. Delitos contra la Función Pública....................... 334
 
-## TITULO III. Delitos contra la impartición de Justicia.......... 335
+### CAPITULO IV. Desobediencia de particulares.................. 335
 
 ### CAPITULO V. Resistencia de particulares........................ 335
 
@@ -2627,9 +2741,9 @@ INDICE:
 
 ### CAPITULO I. Disposiciones Generales............................. 336
 
-### CAPITULO II. Ejercicio indebido de funciones................... 336
+## TITULO III. Delitos contra la impartición de Justicia.......... 335
 
-## TITULO I. Ejercicio indebido de servicio público................ 336
+### CAPITULO II. Ejercicio indebido de funciones................... 336
 
 ### CAPITULO III. Abandono de funciones............................... 337
 
@@ -2641,15 +2755,15 @@ INDICE:
 
 ### CAPITULO VII. Enriquecimiento ilegítimo........................... 337
 
-### CAPITULO VIII. Delitos cometidos en la impartición de justicia. 337
-
 # LIBRO SEGUNDO
 
-#### SECCION TERCERA.
+#### SECCION SEGUNDA.
 
-DELITOS CONTRA LA FAMILIA.
+DELITOS CONTRA LA SOCIEDAD.
 
-## TITULO II. Delitos de peligro contra la seguridad pública.... 338
+## TITULO I. Ejercicio indebido de servicio público................ 336
+
+### CAPITULO VIII. Delitos cometidos en la impartición de justicia. 337
 
 ### CAPITULO IX. Delitos de falsedad de los servidores públicos. 338
 
@@ -2659,9 +2773,9 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO III. Apología del delito....................................... 338
 
-### CAPITULO IV. Disparo de arma de fuego......................... 338
+## TITULO II. Delitos de peligro contra la seguridad pública.... 338
 
-## TITULO III. Delitos contra la seguridad de los medios. de transporte y vías de comunicación.............................. 338
+### CAPITULO IV. Disparo de arma de fuego......................... 338
 
 ### CAPITULO I. Delitos con motivo del tránsito de vehículos. 338
 
@@ -2675,9 +2789,9 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO III. Usurpación de profesión y uso indebido. de condecoraciones o uniformes........................................ 339
 
-### CAPITULO I. Ultrajes a la moral pública............................. 340
+## TITULO III. Delitos contra la seguridad de los medios. de transporte y vías de comunicación.............................. 338
 
-## TITULO IV. Delitos de falsedad y contra la fé pública..... 339
+### CAPITULO I. Ultrajes a la moral pública............................. 340
 
 ### CAPITULO II. Corrupción de menores............................... 340
 
@@ -2685,13 +2799,13 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO I. Delitos en materia de inhumaciones. y exhumaciones. ................................................................. 340
 
+#### SECCION TERCERA.
+
+DELITOS CONTRA LA FAMILIA.
+
+## TITULO IV. Delitos de falsedad y contra la fé pública..... 339
+
 ### CAPITULO II. Delito contra el respeto a los muertos.......... 341
-
-#### SECCION CUARTA.
-
-DELITOS CONTRA LAS PERSONAS.
-
-## TITULO V. Delitos contra la moral pública......................... 340
 
 ### CAPITULO I. Substracción de menores o incapaces.......... 341
 
@@ -2709,9 +2823,9 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO IV. Inducción o ayuda al suicidio...................... 343
 
-### CAPITULO V. Aborto.......................................................... 343
+## TITULO V. Delitos contra la moral pública......................... 340
 
-## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............. 340
+### CAPITULO V. Aborto.......................................................... 343
 
 ### CAPITULO I. Disparo de arma de fuego y ataque peligroso.... 343
 
@@ -2719,39 +2833,43 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO III. Omisión de Cuidado.................................... 344
 
-### CAPITULO IV. Exposición de incapaces............................. 344
+## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............. 340
 
-## TITULO UNICO.................................................................... 341
+### CAPITULO IV. Exposición de incapaces............................. 344
 
 ### CAPITULO I. Privación de la Libertad................................ 344
 
 ### CAPITULO II. Secuestro.................................................... 344
 
-### CAPITULO III. Rapto......................................................... 345
+## TITULO UNICO.................................................................... 341
 
-## TITULO I. Delitos contra la vida y salud personal................. 341
+### CAPITULO III. Rapto......................................................... 345
 
 ### CAPITULO I. Amenazas y coacción................................... 345
 
 ### CAPITULO II. Allanamiento de morada.............................. 345
 
-### CAPITULO III. Revelación de Secretos.............................. 345
+## TITULO I. Delitos contra la vida y salud personal................. 341
 
-## TITULO II. Delitos de peligro contra la vida y la salud personal. 343
+### CAPITULO III. Revelación de Secretos.............................. 345
 
 ### CAPITULO I. Violación......................................................... 345
 
 ### CAPITULO II. Estupro.......................................................... 346
 
-### CAPITULO III. Abusos Deshonestos................................... 346
+## TITULO II. Delitos de peligro contra la vida y la salud personal. 343
 
-## TITULO III. Delitos contra la Libertad Personal................... 344
+### CAPITULO III. Abusos Deshonestos................................... 346
 
 ### CAPITULO I. Golpes y otras Violencias Físicas Simples.... 346
 
-### CAPITULO II. Difamación.................................................... 346
+#### SECCION CUARTA.
 
-## TITULO IV. Delitos contra la paz y la Seguridad Personal. 345
+DELITOS CONTRA LAS PERSONAS.
+
+## TITULO III. Delitos contra la Libertad Personal................... 344
+
+### CAPITULO II. Difamación.................................................... 346
 
 ### CAPITULO III. Calumnia....................................................... 347
 
@@ -2759,9 +2877,9 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO I. Robo............................................................... 347
 
-### CAPITULO II. Abuso de Confianza...................................... 347
+## TITULO IV. Delitos contra la paz y la Seguridad Personal. 345
 
-## TITULO V. Delitos contra la Libertad y Seguridad Sexual. . 345
+### CAPITULO II. Abuso de Confianza...................................... 347
 
 ### CAPITULO III. Fraude ......................................................... 348
 
@@ -2782,6 +2900,8 @@ La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secret
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 9 DE JULIO DE 1994.
+
+## TITULO V. Delitos contra la Libertad y Seguridad Sexual. . 345
 
 ## TITULO VI. Delitos contra el Honor..................................... 346
 
@@ -2818,3 +2938,7 @@ P.O. 28 DE DICIEMBRE DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE ENERO DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
