@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-del-estado-de-sonora-8383"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-23"
-last_updated: "1986-06-30"
+last_updated: "1992-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE AGOSTO DE 1992.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, el jueves 23 de agosto de 1984.
 
@@ -61,7 +61,9 @@ Los bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble 
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Secretaría: La Secretaría de Planeación del Desarrollo.
+> <small>(REFORMADA. B.O. 3 DE AGOSTO DE 1992)</small>
+
+I.- Secretaría: La Secretaría de Planeación del Desarrollo y Gasto Público.
 
 II.- Contraloría: La Secretaría de la Contraloría General del Estado.
 
@@ -245,9 +247,11 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo ant
 
 ### CAPITULO III. DE LA EJECUCION DE LAS OBRAS
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 17.
 
-Las dependencias y entidades de la Administración Pública Estatal y los Ayuntamientos, podrán realizar las obras públicas por contrato o por administración directa sin intervención de contratistas, siempre que en este último caso, posean la capacidad técnica y los elementos necesarios para tal efecto.
+Las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos, podrán realizar las obras públicas por administración directa, sin intervención de contratistas, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, o por contrato; en ambos supuestos, se observarán las disposiciones en materia de construcciones.
 
 ###### ARTICULO 18.
 
@@ -287,7 +291,9 @@ III.- Los requisitos que deberán cumplir los interesados.
 
 IV.- Información sobre los anticipos.
 
-V.- La fecha límite para la inscripción en el proceso de adjudicación, que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la fecha de la publicación de la convocatoria.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 1992)</small>
+
+V.- La fecha límite para la inscripción en el proceso de adjudicación, que deberá fijarse en un plazo no menor de cinco ni mayor de diez días hábiles, contados a partir de la fecha de publicación de la convocatoria.
 
 > <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
 
@@ -297,9 +303,9 @@ VI.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposic
 
 VII.- Los criterios conforme a los cuales se decidirá la adjudicación; y
 
-> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 1986)</small>
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 1992)</small>
 
-VIII.- La especialidad que se requiera parta participar en el concurso, de acuerdo al padrón de contratistas de obras públicas correspondiente.
+VIII.- La experiencia y capacidad técnica que se requiera para participar en el concurso, de acuerdo con las características de la obra.
 
 > <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
@@ -353,9 +359,11 @@ VI.- Cuando no se hubiesen presentado proposiciones y se haya declarado desierto
 
 Para los casos previstos en las fracciones anteriores, se convocará a la o a las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 26.
 
-Todo interesado que satisfaga los términos de la convocatoria pública, tendrá derecho a presentar proposiciones.
+Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones. Para tal efecto, las Dependencias o Entidades de la Administración Pública Estatal y los Ayuntamientos que correspondan, no podrán exigir requisitos adicionales a los previstos en el artículo 20 y en el reglamento de esta Ley.
 
 ###### ARTICULO 27.
 
@@ -393,9 +401,13 @@ II.- Garantice satisfactoriamente el cumplimiento del contrato.
 
 III.- Cuente con la experiencia requerida por la convocante para la ejecución de los trabajos.
 
-Si una vez considerados los criterios anteriores resultara que dos o mas proposiciones satisfacen los requerimientos de la convocante, el contrato se adjudicará a quien presente la postura más baja.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 1992)</small>
 
-Contra la resolución que contenga el fallo, no procederá recurso alguno.
+Si una vez considerados los criterios anteriores, resultare que dos o más proposiciones satisfacen los requerimientos que la convocante, el contrato se adjudicará a quien presente la proposición viable técnicamente y más baja.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 1992)</small>
+
+Contra la resolución que contenga el fallo no procederá recurso alguno, pero los interesados podrán inconformarse ante la Contraloría en los términos del artículo 46-Bis de esta Ley.
 
 Los ayuntamientos y las dependencias y entidades, no adjudicarán el contrato cuando las posturas presentadas no fueren aceptables y procederán a expedir una nueva convocatoria.
 
@@ -411,9 +423,11 @@ III.- Las personas que tengan algún impedimento de acuerdo con la Ley.
 
 Lo establecido en este artículo se aplicará también a los contratos de servicios relacionados con la obra pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 31.
 
-La adjudicación del contrato obligará a las dependencias y entidades de la Administración Pública Estatal, a los Ayuntamientos y a la persona en quién hubiera recaído dicha adjudicación, a formalizar el documento relativo, dentro de los veinte días siguientes al de la adjudicación.
+La adjudicación del contrato obligará a las Dependencias y a las Entidades de la Administración Pública Estatal, a los Ayuntamientos y a la persona en quien hubiera recaído dicha adjudicación, a formalizar el documento relativo dentro de los diez días hábiles siguientes al de la adjudicación.
 
 Si el interesado no firmare el contrato, perderá en favor de la convocante la garantía que hubiere otorgado y las dependencias o entidades de la Administración Pública Estatal o los Ayuntamientos podrán, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente, en los términos del Artículo 29 y de su propuesta, y así sucesivamente.
 
@@ -491,15 +505,21 @@ Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercici
 
 En el ámbito municipal, los ayuntamientos determinarán cuál de sus dependencias formulará y autorizará las estimaciones a que se refiere este Artículo.
 
+(REFORMADO, B.O. 3 DE AGOSTO DE 1992) (F. DE E. B.O. 20 DE AGOSTO DE 1992)
+
 ###### ARTICULO 41.
 
-Cuando durante la vigencia de un contrato de obra ocurran circunstancias de orden económico no previstas, en el contrato, pero que de hecho, y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción de un 5% o más de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados. La autoridad ejecutora emitirá la resolución que acuerde la reducción o aumento correspondiente.
+Cuando durante la vigencia de un contrato de obra, ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho, y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción de los costos de los trabajos aun no ejecutados, de conformidad con el programa de obra aprobado por la Dependencia, Entidad o Ayuntamiento que corresponda dichos costos podrán ser revisados, conforme lo determinen las partes, en el respectivo contrato. La autoridad contratante emitirá la resolución que acuerde el aumento o reducción correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 42.
 
-El contratista comunicará a las dependencias y entidades de la Administración Pública Estatal y a los Ayuntamientos según corresponda, la terminación de los trabajos que le fueron encomendados y éstos verificarán que los trabajos estén debidamente concluidos dentro de los treinta días hábiles siguientes, salvo que se pacte expresamente otro plazo.
+El contratista comunicará a las Dependencias y Entidades de la Administración Pública Estatal y a los Ayuntamientos, según corresponda, la terminación de los trabajos que le fueron encomendados y éstos verificarán que los trabajos estén debidamente concluidos dentro de los treinta días hábiles siguientes, salvo que pacte expresamente otro plazo, en el contrato.
 
-La recepción de los trabajos se hará mediante acta pormenorizada dentro de los treinta días hábiles siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 1992)</small>
+
+Una vez que se haya constatado la terminación de los trabajos, en los términos del párrafo anterior, las Dependencias o Entidades de la Administración Pública Estatal o el Ayuntamiento que corresponda, procederá a su recepción mediante acta pormenorizada, dentro del plazo que para tal efecto se haya establecido en el propio contrato.
 
 > <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
 
@@ -536,6 +556,12 @@ En la ejecución de estas obras son aplicables, en lo conducente, las disposicio
 ###### ARTICULO 46.
 
 Una vez concluida la obra o parte utilizable de la misma, las dependencias, las entidades o los ayuntamientos, vigilarán que la unidad que deba operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos actualizados, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes en su caso.
+
+> <small>(ADICIONADO, B.O. 3 DE AGOSTO DE 1992)</small>
+
+ARTICULO 46 BIS.- Tratándose de licitaciones públicas, los contratistas o licitantes que hubieren participado en ellas podrán inconformarse por escrito, indistintamente ante las Dependencias o Entidades de la Administración Pública Estatal, el Ayuntamiento que corresponda o ante la Contraloría dentro de los diez días siguientes al fallo del concurso o, en su caso, al día siguiente a aquél en que se haya emitido el acto relativo a cualquier etapa o fase del mismo, incluyendo actos posteriores al fallo que impliquen la imposición de condiciones diferentes a las de la convocatoria.
+
+Transcurrido dicho plazo, precluye para los contratistas solicitantes el derecho a inconformarse, sin perjuicio de que las Dependencias o Entidades de la Administración Pública Estatal, el Ayuntamiento que corresponda, o la Contraloría, puedan actuar en cualquier tiempo y en los términos de los artículos 29, 38 y 67 de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 30 DE JUNIO DE 1986)</small>
 
@@ -589,93 +615,37 @@ Los Ayuntamientos, con base en las disposiciones de este Capítulo, dictarán la
 
 ###### ARTICULO 54.
 
-La Administración Pública Estatal, a través de la Secretaría, llevará el padrón de contratistas de obras públicas del Estado y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo su especialidad, capacidad técnica, económica y domicilio.
-
-La Secretaría hará del conocimiento de las dependencias y entidades de la Administración Pública Estatal y del público en general, las personas registradas en el padrón.
-
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
-
-Las dependencias y entidades sólo podrán celebrar los contratos de obra pública o de servicios relacionados con la misma, con las personas inscritas en el padrón de contratistas de obras públicas del Estado, cuyo registro esté vigente.
-
-La clasificación a que se refiere este Artículo deberá ser considerada por las dependencias y entidades de la Administración Pública Estatal en la convocatoria y contratación de las obras públicas.
-
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1986)</small>
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 55.
 
-Los Ayuntamientos, en razón de las obras públicas que realicen, llevarán un padrón de contratistas, el cual se regirá por las disposiciones de este Capítulo en cuanto le sean aplicables. Los Ayuntamientos sólo podrán celebrar los contratos de obra publica o de servicios relacionados con la misma, con las personas inscritas en el padrón a que se requiere este Artículo y de no existir éste, la contratación se deberá realizar con las personas inscritas en el Padrón Estatal que señala esta Ley.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1986)</small>
-
-ARTICULO 55 BIS.- Las personas con quienes se contrate la realización de trabajos, en los supuestos previstos por la Fracción II del Artículo 25 de esta Ley, quedan exceptuadas de la obligación de registrarse en los padrones de contratistas de obras públicas a que se refiere este Capítulo.
+ARTICULO 55 BIS.- (DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 56.
 
-Las personas interesadas en inscribirse en el padrón de contratistas de obras públicas del Estado o de los Ayuntamiento, deberán solicitarlo por escrito, acompañando, según su naturaleza jurídica y características, la siguiente información y documentos:
-
-I.- Datos generales de la interesada.
-
-II.- La capacidad legal de la solicitante.
-
-III.- Experiencia y especialidad.
-
-IV.- Capacidad y recursos técnicos, económicos y financieros.
-
-V.- Maquinaria y equipos disponibles.
-
-VI.- Escritura constitutiva y reformas.
-
-> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
-
-VII.- Inscripción en el Registro Federal de Contribuyentes.
-
-VIII.- Registro en el Instituto Mexicano del Seguro Social y en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-
-> <small>(REFORMADA, B.O. 30 DE JUNIO DE 1986)</small>
-
-IX.- Registro vigente en la Cámara que corresponda;
-
-X.- Los demás documentos e información que la Secretaría o el Ayuntamiento en su caso, consideren pertinentes.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 57.
 
-El registro en el padrón de contratistas de obras públicas del Estado y el de los Ayuntamientos, tendrá una vigencia que abarcará del 1o. de julio al 30 de junio del año siguiente.
-
-Los contratistas que tengan interés en continuar inscritos en el padrón de contratistas de obra pública del Estado o en el de los Ayuntamientos, presentarán ante la Secretaría o ante el Ayuntamiento, según corresponda, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de revalidación, acompañando la información y documentos que procedan, en los términos del artículo anterior.
-
-La inscripción y la revalidación causarán los derechos que establezcan la tarifa respectiva.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 58.
 
-La Secretaría o los Ayuntamientos, dentro de un término que no excederá de veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverán sobre la inscripción o revalidación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o por revalidado el registro.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 59.
 
-La Secretaría y los Ayuntamientos están facultados para suspender el registro de los contratistas cuando:
-
-I.- Se les declare en estado de quiebra o, en su caso, sujetos a concurso de acreedores, o
-
-II.- Incurran en cualquier acto u omisión que les sea imputable y que perjudique los intereses del Gobierno del Estado o del Gobierno Municipal, según corresponda.
-
-Cuando desaparezcan las causas que hubiesen motivado la suspensión del registro, el contratista lo acreditará ante la Secretaría o el Ayuntamiento, según corresponda, los que dispondrán lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 60.
 
-La Secretaría y los Ayuntamientos están facultados para cancelar el registro de los contratistas cuando:
-
-I.- La información que hubieren proporcionado para la inscripción o revalidación resultare falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra.
-
-II.- No cumplan en los términos con algún contrato por causa imputable a ellos, y perjudique con ello gravemente los intereses de la Administración Pública Estatal, Municipal o el interés general.
-
-III.- Se declare su quiebra fraudulenta.
-
-IV.- Hayan celebrado contratos en contravención con lo dispuesto por esta ley, por causas que le sean imputables, o
-
-V.- Se le declare incapacitados legalmente para contratar.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ###### ARTICULO 61.
 
-Contra las resoluciones que nieguen las solicitudes de inscripción o revalidación, o determinen la suspensión o la cancelación del registro en el padrón de contratistas de obras públicas del Estado o de los Ayuntamientos, el interesado podrá interponer recurso de revocación en los términos de esta ley.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
 
@@ -683,7 +653,7 @@ Contra las resoluciones que nieguen las solicitudes de inscripción o revalidaci
 
 Quienes infrinjan las disposiciones de esta ley o las normas que con base en ella se dicten, podrán ser sancionadas en su caso, por la Secretaría o el Ayuntamiento de que se trate según corresponda, con multa de 10 a 1000 veces el salario mínimo general diario vigente en la Capital del Estado, en la fecha de cometerse la infracción.
 
-Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con la suspensión o cancelación del registro en el padrón de contratistas de obra pública del Estado o del Ayuntamiento, según se trate.
+> <small>(DEROGADO SEGUNDO PARRAFO, 3 DE AGOSTO DE 1992)</small>
 
 Cuando proceda, en el ámbito estatal, la Secretaría y la Contraloría podrán proponer a la dependencia o entidad contratante la rescisión administrativa del contrato en que incida la infracción.
 
@@ -727,9 +697,11 @@ Los convenios o contratos que las dependencias y entidades de la Administración
 
 ### CAPITULO VII. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 68.
 
-En contra de las resoluciones que dicte, en su caso, la Secretaría, la Contraloría o el Ayuntamiento que corresponda, el interesado podrá interponer ante éstos, recurso de revocación dentro del término de quince días hábiles, contados a partir del día hábil siguiente al de la notificación.
+En contra de las resoluciones que dicten, en su caso, la Secretaría, la Contraloría o el Ayuntamiento que corresponda, el interesado podrá interponer ante éstos, recurso de revocación dentro del término de quince días hábiles, contados a partir del día hábil siguiente al de la notificación.
 
 La tramitación del recurso se sujetará a las normas siguientes:
 
@@ -751,15 +723,7 @@ VIII.- Vencido el plazo para la rendición de las pruebas, se dictará resoluci�
 
 ###### ARTICULO 69.
 
-Contra la resolución que cancele o suspenda el registro en el padrón de contratistas de obras públicas del Estado podrá solicitarse la suspensión del acto impugnado, conforme a las siguientes bases:
-
-I.- Será solicitada en el mismo escrito en el que se interponga el recurso
-
-II.- Dentro de los diez días hábiles siguientes, la Secretaría señalará la garantía y el monto por el que ésta deba otorgarse; y
-
-III.- Otorgada la garantía, se suspenderá la aplicación de la resolución impugnada.
-
-Estas bases regirán a la vez para los gobiernos municipales de llevar los Ayuntamientos sus propios padrones de contratistas.
+(DEROGADO, B.O. 3 DE AGOSTO DE 1992)
 
 ## TRANSITORIOS
 
@@ -816,3 +780,13 @@ La presente Ley entrará en vigor tres días después de su publicación en el B
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+B.O. 3 DE AGOSTO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos administrativos que se encuentren en trámite al momento de entrar en vigor la presente Ley, relacionados con la suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas del Estado, serán sobreseídos.
