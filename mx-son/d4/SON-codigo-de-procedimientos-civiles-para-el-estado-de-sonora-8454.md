@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1979-09-08"
+last_updated: "1988-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE SEPTIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE ENERO DE 1988.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -45,11 +45,17 @@ Disposiciones generales.
 
 Las disposiciones de este Código regirán en el Estado de Sonora, en asuntos civiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 2°.
 
-Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los tribunales estarán expeditos para administrar justicia, en los plazos y términos que fija la ley y su servicio será gratuito.
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los tribunales estarán expeditos para administrar justicia, en los plazos y términos que fija la Ley y su servicio será gratuito.
 
 La tramitación de los asuntos judiciales no podrá alterarse o entorpecerse por disposiciones fiscales.
+
+> <small>(ADICIONADO, B.O. 21 DE ENERO DE 1988)</small>
+
+Todas las sanciones pecuniarias contempladas en este Código, serán aplicadas a incrementar el Fondo para la Administración de Justicia.
 
 ###### Art. 3°.
 
@@ -119,9 +125,11 @@ V.- Los medios de prueba admisibles para demostrar la existencia o inexistencia 
 
 VI.- Toda persona física o jurídica puede demandar o ser demandada ante los Tribunales del Estado, cuando así proceda conforme a las reglas de competencia.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 10.
 
-El abuso de los derechos de acción y de defensa se sancionará con la condena en costas, daños y perjuicios, y además con la responsabilidad pecuniaria del infractor a favor del Estado. El importe de esta última responsabilidad se fijará en un cinco por ciento de la suerte principal en los negocios de cuantía determinada o determinable, sin que exceda de cinco mil pesos, y en los negocios en que no se pueda determinar la cuantía, el tribunal fijará prudencialmente y en cantidad que no bajará de cien ni excederá de cinco mil pesos, cantidades que se destinarán al fondo de la administración de justicia.
+El abuso de los derechos de acción y de defensa se sancionará con la condena en costas, daños y perjuicios y además con la responsabilidad pecuniaria del infractor. El importe de la responsabilidad pecuniaria se fijará con multa hasta por doscientas veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
 # Libro Primero.
 
@@ -1019,11 +1027,13 @@ No se tomará en cuenta, para los efectos de este artículo, la sumisión expres
 
 Todo tribunal está obligado a suspender sus procedimientos luego que expida la inhibitoria o luego que en su caso la reciba. Igualmente suspenderá sus procedimientos al promoverse la declinatoria. La infracción de lo dispuesto en este artículo producirá la nulidad de lo actuado. En este caso, el tribunal será responsable de los daños y perjuicios originados a las partes, e incurrirá en la pena que señala la ley.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 125.
 
 El litigante que hubiere optado por alguno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro, y tampoco podrá emplearlos sucesivamente.
 
-Cuando no proceda la inhibitoria, debe pagar las costas el que la promovió y le impondrá multa hasta de dos mil pesos que según la importancia del negocio, le impondrá el superior, a favor del fondo de la administración de justicia.
+Cuando no proceda la inhibitoria, debe pagar las costas el que la promovió y le impondrá multa el superior, atendiendo la importancia del negocio, hasta por cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
 ### CAPITULO SEPTIMO.
 
@@ -1141,7 +1151,9 @@ VI.- En el incidente de recusación son admisibles todos los medios de prueba es
 
 VII.- Los magistrados y jueces que conozcan de una recusación son irrecusables para este sólo efecto;
 
-VIII.- Si se declarara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de veinte a cien pesos, si el recusado fuere un Juez Local o Menor; de cien a quinientos, si fuere un Juez de Primera Instancia, y de quinientos a mil, si fuere un Magistrado. No se dará curso a ninguna recusación si no exhibe el recusante al interponerla, el recibo de depósito por el máximo de la multa, la que en su caso se aplicará al fondo de la administración de justicia;
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+VIII.- Si se declarara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por cinco veces el salario mínimo general vigente, en la Ciudad de Hermosillo el día en que se aplique la sanción, si el recusado fuera un Juez Local o Menor; de cinco a veinticinco veces, si fuere un Juez Civil o de lo Familiar; y de veinticinco a cincuenta veces el salario si fuere un Magistrado. No se dará curso a ninguna recusación sino exhibe el recusante al interponerla el recibo de depósito por el máximo de la multa;
 
 IX.- Si en la sentencia se declara que procede la recusación, volverán los autos al Juzgado de su origen, con testimonio de dicha sentencia, para que éste, a su vez, los remita al juez que corresponda. En el tribunal queda el magistrado recusado separado del conocimiento del negocio, y
 
@@ -1235,9 +1247,13 @@ Se autorizan como correcciones disciplinarias las siguientes:
 
 I.- El apercibimiento o amonestación;
 
-II.- La multa de cinco a veinte pesos en los Juzgados Menores; de veinte a cincuenta, en los Juzgados Locales; de cincuenta a cien, en los Juzgado (sic) de Primera Instancia, y de cien a doscientos, en el Supremo Tribunal, y
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
 
-III.- Arresto hasta por tres días en casos graves.
+II.- Multa hasta por dos veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción, cuando la corrección sea impuesta por un Juez Menor; de dos a cinco veces en los Juzgados Locales; de cinco a diez veces en los Juzgados de Primera Instancia Civiles y de lo Familiar; y de diez a veinticinco veces en el Supremo Tribunal, y
+
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+III.- Arresto hasta por treinta y seis horas,
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, ésta podrá pedir al tribunal que se le oiga en justicia y se citará para audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
@@ -1261,9 +1277,11 @@ De todos los escritos y documentos se presentarán copias para la contraparte, l
 
 Las partes podrán pedir que los documentos que se presenten se guarden en la caja del juzgado y no se agreguen al expediente. En este caso, se deberán exhibir copias fotográficas o fotostáticas de los mismos, o copias simples para que, cotejadas por el secretario, obren en el expediente y los originales se guarden en la caja del juzgado, asentándose razón en autos.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 150.
 
-El juzgado, por conducto del secretario hará constar el día y la hora en que se presente un escrito, y una razón de los documentos que se anexen. El secretario deberá dar cuenta del escrito, a más tardar dentro de las veinticuatro horas siguientes, bajo la pena de multa de diez pesos, sin perjuicio de otras penas que merezca conforme a las leyes.
+El juzgado, por conducto del Secretario, hará constar el día y la hora en que se presente un escrito, y una razón de los documentos que se anexen. El secretario deberá dar cuenta del escrito, a más tardar dentro de las veinticuatro horas siguientes, bajo la pena de multa hasta de cinco veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción, sin perjuicio de otras penas que merezca conforme a las leyes.
 
 ###### Art. 151.
 
@@ -1351,17 +1369,23 @@ II.- De cinco a partir de la fecha en que los autos queden en estado, si se trat
 
 III.- De quince a contar de la fecha de la audiencia de alegatos o de la en que expiró el plazo para alegar si se tratare de sentencias definitivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 162.
 
-Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio:
+Los Jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio:
 
-I.- Multa de cinco hasta dos mil pesos, que se duplicará en caso de reincidencia. La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante el juez su cumplimiento, mediante la presentación del certificado, carta de pago o recibo correspondiente. El importe de la multa quedará a beneficio del fondo de administración de justicia;
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+I.- Multa de uno hasta cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción, la que se duplicará en caso de reincidencia. La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante el juez su cumplimiento mediante la presentación del certificado, carta de pago o recibo correspondiente;
 
 II.- El auxilio de la fuerza pública, que deberá prestarse en el momento en que sea solicitado;
 
 III.- El cateo por orden escrita;
 
-IV.- Arresto hasta por quince días, después de haberse aplicado la medida a que se refiere la fracción I, y
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+IV.- Arresto hasta por treinta y seis horas, después de haberse aplicado la medida a que se refiere la fracción I, y
 
 V.- La rotura de cerraduras.
 
@@ -1455,9 +1479,11 @@ X.- Tratándose de notificación o citación, se podrá entregar a la parte inte
 
 De las notificaciones.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 169.
 
-Las notificaciones se harán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispongan otra cosa. Se impondrá de plano y a petición de parte a los infractores de este artículo, una multa que no excederá de veinte pesos.
+Las notificaciones se harán a más tardar el día siguiente al que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispongan otra cosa. Se impondrán de plano y a petición de parte, a los infractores de este artículo, una multa que no excederá de cinco veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
 ###### Art. 170.
 
@@ -1519,9 +1545,11 @@ A solicitud de las partes el emplazamiento y notificaciones personales podrán h
 
 Las partes tienen facultad para designar una o varias personas para que oigan notificaciones. En tanto no se revoque esta designación, las resoluciones que se notifiquen a los designados surtirán todos los efectos legales, como si se hubieran hecho personalmente a las partes que los designen.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 175.
 
-La segunda y ulteriores notificaciones, excepto las que conforme a los artículos anteriores deban ser personales, se harán personalmente a los interesados si concurrieren al juzgado o tribunal, y si no concurrieren, surtirá sus efectos la notificación al día siguiente de aquel en que se fije la lista en la tabla de avisos del juzgado. Se tomará razón en autos de que se ha hecho la publicación, bajo la pena de veinticinco pesos de multa por la primera falta, y cincuenta pesos por la segunda y de suspensión de empleo hasta por tres meses por la tercera.
+La segunda y ulteriores notificaciones, excepto las que conforme a los artículos anteriores deban ser personales, se harán personalmente a los interesados si concurrieren al juzgado o tribunal, y si no concurrieren surtirá sus efectos la notificación al día siguiente de aquél en que se fije la lista en la tabla de avisos del juzgado. Se tomará razón en autos de que se ha hecho la publicación, bajo la pena de cinco veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción por la primera falta, y diez veces el salario por la segunda y de suspensión de empleo hasta por tres meses por la tercera.
 
 Los secretarios del Supremo Tribunal y de los Juzgados, formularán diariamente por duplicado y autorizada con su firma y el sello del tribunal, una lista de los negocios que se hayan acordado o resuelto en el mismo día, expresando en ella la naturaleza del juicio y los nombres y apellidos de los interesados. Uno de los ejemplares lo fijarán, antes de las diez de la mañana, en la puerta del despacho de la Secretaría del Juzgado, y estará siempre a disposición del público; el otro se guardará en el archivo del juzgado, y con esas listas se formarán dos colecciones que se conservarán por los secretarios bajo su responsabilidad, para comprobar que la notificación quedó hecha por medio de lista. Cuando se trate de sentencia, deberá mencionarse esta circunstancia. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere.
 
@@ -1709,9 +1737,13 @@ Cauciones.
 
 Siempre que por ley o por disposición judicial se requiera el otorgamiento de cauciones, la garantía podrá consistir:
 
-I.- En fianza de compañía autorizada. Si el monto de la garantía excede de cincuenta mil pesos, la fianza podrá darse por varias compañías, siempre que el total de las fianzas parciales sea igual a la suma fijada. El tribunal considerará acreditada la solvencia, si la fianza se otorga hasta el monto del límite de retención de la compañía autorizada, y si fuere por cantidad mayor, cuando se extienda con autorización de la Secretaría de Hacienda. Llenados estos requisitos, el tribunal sólo calificará el monto y alcance de la fianza de acuerdo con la redacción de la póliza respectiva;
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
 
-II.- En fianzas otorgadas por particulares. Cuando las fianzas excedan de trescientos pesos, el fiador acreditará tener bienes raíces inscritos en el Registro Público de la Propiedad, ubicados en el lugar del juicio y de un valor que garantice suficientemente las obligaciones que contraiga. En este caso deberán cumplirse las disposiciones de los artículos 3188 a 3192 del Código Civil;
+I.- En fianza de compañía autorizada. Si el monto de la garantía excede de dos mil veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se exhiba, la fianza podrá darse por varias compañías, siempre que el total de las fianzas parciales sea igual a la suma fijada. El tribunal considerará acreditada la solvencia, si la fianza se otorga hasta el monto del límite de retención de la compañía autorizada, y si fuere por cantidad mayor, cuando se extienda con autorización de la Secretaria de Hacienda. Llenados estos requisitos, el tribunal sólo calificará el monto y alcance de la fianza de acuerdo con la redacción de la póliza respectiva;
+
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+II.- En fianzas otorgadas por particulares. Cuando las fianzas excedan de treinta veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se otorgue, el fiador acreditará tener bienes raíces inscritos en el Registro Público de la Propiedad, ubicados en el lugar del juicio y de un valor que garantice suficientemente las obligaciones que contraiga. En este caso deberán cumplirse las disposiciones de los artículos 3188 a 3192 del Código Civil;
 
 III.- En prenda o hipoteca, constituidas de acuerdo con la ley;
 
@@ -2163,9 +2195,11 @@ No procede citar para sentencia en caso de allanamiento de la demanda, si la cue
 
 Si al contestarse la demanda se opusiere compensación o reconvención, se observarán los mismos requisitos que para la demanda, y se correrá traslado al actor para que las conteste, observándose lo dispuesto en los artículos anteriores. La reconvención y la compensación, lo mismo que las excepciones opuestas con este motivo, se discutirán al mismo tiempo que el negocio principal, y se decidirán en la sentencia definitiva.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 242.
 
-La declinatoria de jurisdicción se opondrá ante el juez, pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de cinco días, que el juez aumentará en lo que considere prudente tomando en cuenta la distancia y atendiendo a la mayor o menor facilidad de comunicaciones, comparezcan ante dicho superior, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión y mandará sin retardo los autos al que estime competente, quien deberá hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste. Cuando no proceda la declinatoria, el que la promovió debe pagar las costas causadas y una multa hasta de dos mil pesos que, según la importancia del litigio, le impondrá el superior en favor del fondo de administración de justicia. La incompetencia por inhibitoria se tramitará en la forma prevista por los artículos 120 y 121.
+La declinatoria de jurisdicción se opondrá ante el Juez, pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en término de cinco días, que el Juez aumentará en lo que considere prudente tomando en cuenta la distancia y atendiendo a la mayor o menor facilidad de comunicaciones, comparezcan ante dicho superior, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes y del ministerio público, resolverá la cuestión y mandará sin retardo los autos al que estime competente, quien deberá hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste. Cuando no proceda la declinatoria, el que la promovió debe pagar las costas causadas y una multa que le impondrá el superior, según la importancia del litigio, hasta de cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción. La incompetencia por inhibitoria se tramitará en la forma prevista por los artículos 120 y 121.
 
 ###### Art. 243.
 
@@ -2441,7 +2475,9 @@ II.- Que se indique con claridad las que se pretendan rendir y los puntos sobre 
 
 El juez, conforme a las reglas contenidas en los artículos precedentes, resolverá si se concede o no el término extraordinario.
 
-El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado, al concluir el período probatorio, a pagar a su contraparte una indemnización de cien a cinco mil pesos, según la importancia del juicio, por los daños y perjuicios que le hubiere ocasionado. Para que surta efecto el término extraordinario concedido, la parte que lo pidió deberá depositar previamente la cantidad que fije el juez de acuerdo con lo que se dispone en el párrafo anterior.
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
+El litigante a quien se hubiere concedido la dilación extraordinaria y no rinde las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, será condenado, al concluir el período probatorio, a pagar a su contraparte una indemnización de uno a doscientas veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique, según la importancia del juicio, por los daños y perjuicios que le hubiere ocasionado. Para que surta efecto el término extraordinario concedido, la parte que lo pidió deberá depositar previamente la cantidad que fije el Juez, de acuerdo con lo que se dispone en el párrafo anterior.
 
 El término extraordinario se contará en adición al término ordinario de prueba y será fijado por el juez atendiendo a las circunstancias, sin que en ningún caso deba exceder de noventa días. El término extraordinario no será prorrogable.
 
@@ -2709,9 +2745,11 @@ IV.- Cuando el que fuere nombrado y aceptó el cargo, lo renunciare después, y
 
 V.- Si el designado por los litigantes no se encontrare en el lugar del juicio, o en el que deba practicarse la prueba.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 294.
 
-El perito que nombra el juez puede ser recusado dentro de las cuarenta y ocho horas que siguen a la notificación de su nombramiento por las siguientes causas:
+El perito que nombra el Juez puede ser recusado dentro de las cuarenta y ocho horas que siguen a la notificación de su nombramiento por las siguientes causas:
 
 I.- Consanguinidad o afinidad dentro del cuarto grado, con una de las partes;
 
@@ -2719,7 +2757,9 @@ II.- Interés directo o indirecto en el pleito, y
 
 III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
 
-El juez calificará de plano la recusación, tomando en cuenta las pruebas que presenten las partes al hacerla valer. Admitida, nombrará perito para reemplazar al recusado. En caso de ser desechada la recusación, impondrá al recusante una multa que no excederá de cien pesos, que se aplicará al fondo de administración de justicia.
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
+El Juez calificará de plano la recusación, tomando en cuenta las pruebas que presenten las partes al hacerla valer. Admitida, nombrará perito para reemplazar al recusado. En caso de ser desechada la recusación, impondrá al recusante una multa que no excederá de seis veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
 ###### Art. 295.
 
@@ -2729,15 +2769,19 @@ Los peritos quedan autorizados para solicitar aclaraciones de las partes, requer
 
 El juez podrá ordenar que se repita o amplíe la prueba ofrecida por las partes, y que los peritos practiquen las investigaciones que les encomiende y suministren los informes u opiniones que les pida.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 297.
 
-Los peritos formularán su dictamen, fundamentarán adecuadamente sus conclusiones y podrán acompañarlo con dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Deberán firmar el dictamen y protestar haber cumplido su misión de acuerdo con sus conocimientos.
+Los peritos formularán su dictamen, fundamentarán adecuadamente sus conclusiones y podrán acompañarla con dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Deberán firmar el dictamen y protestar haber cumplido su misión de acuerdo con sus conocimientos.
 
 Si el juez hubiere ordenado que la prueba pericial se practique en una diligencia, concurrirán a ella los peritos y podrán hacerlo las partes con facultad para formular las preguntas que estimen pertinentes.
 
 En este caso se observarán las siguientes prevenciones:
 
-I.- El perito que dejare de concurrir sin justa causa, incurrirá en una multa hasta de cien pesos y será responsable de los daños causados por su culpa, sin perjuicio de que pueda ser removido por el juez, quien designará a la persona que deba reemplazarlo.
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+I.- El perito que dejare de concurrir sin justa causa, incurrirá en una multa hasta de seis veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique y será responsable de los daños causados por su culpa, sin perjuicio de que pueda ser removido por el Juez, quien designará a la persona que deba reemplazarlo.
 
 II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir al acto los interesados para hacer las observaciones que deseen; pero deberán retirarse si los peritos desean discutir o deliberar solos, y
 
@@ -3295,9 +3339,11 @@ Todos los recursos o impugnaciones de la misma naturaleza hechos valer por separ
 
 Cuando un recurso sea declarado inadmisible o improcedente no puede interponerse nuevamente, aunque no haya vencido el término establecido por la ley.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 363.
 
-Si se hicieren valer varios recursos simultáneamente, sólo se admitirá el recurso que proceda, y se impondrá multa de diez pesos al que lo hiciere.
+Si se hicieren valer varios recursos simultáneamente, sólo se admitirá el recurso que proceda, y se impondrá al que lo hiciere multa hasta de diez veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
 ###### Art. 364.
 
@@ -3367,7 +3413,9 @@ III.- Los autos, cuando expresamente lo disponga este Código, y
 
 IV.- Las sentencias que se dicten con el carácter de provisionales en procedimientos precautorios, sin perjuicio de que en los casos en que proceda, se reclame la providencia ante el mismo juez o se levante por éste.
 
-No serán apelables las sentencias y demás resoluciones que se dicten en juicios cuya cuantía no exceda de dos mil quinientos pesos.
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
+No serán apelables las sentencias y demás resoluciones que se dicten en juicios cuya cuantía no exceda de cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se emita la propia resolución.
 
 ###### Art. 375.
 
@@ -3609,9 +3657,11 @@ El recurso de queja contra el juez se interpondrá ante el superior inmediato y 
 
 Las quejas en contra de secretarios y actuarios se harán valer ante el juez que conozca del negocio. Interpuesto el recurso, dentro de las veinticuatro horas siguientes el juez oirá verbalmente al secretario o actuario en contra de quien se presentó la queja y dentro del tercero día resolverá de plano lo que proceda. La resolución de la queja tendrá por efecto confirmar, corregir o reponer los actos que la motiven. Contra esta resolución no procede ningún recurso.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 397.
 
-Si la queja no está apoyada en hechos ciertos o no estuviere fundada en derecho o hubiere otro recurso en contra de la resolución reclamada, será desechada por el juez o tribunal, imponiendo a la parte quejosa y a su abogado o procurador, solidariamente una multa que no exceda de cien pesos.
+Si la queja no está apoyada en hechos ciertos o no estuviere fundada en derecho o hubiere otro recurso en contra de la resolución reclamada, será desechada por el juez o tribunal, imponiendo a la parte quejosa y a su abogado o procurador, solidariamente una multa que no exceda de diez veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
 ###### Art. 398.
 
@@ -4267,9 +4317,9 @@ b) Para intervenir en el acto del remate y hacer al juez las observaciones que e
 
 c) Para recurrir el auto de aprobación de remate.
 
-IV.- Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Boletín Oficial y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juez puede usar, además, algún otro medio de publicidad para convocar postores.
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
 
-Si el valor del inmueble no excede de cinco mil pesos, para anunciar el remate, bastará que se fijen avisos en la puerta del juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
+IV.- Hecho el avalúo, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Boletín Oficial y en uno de los periódicos de mayor circulación. A petición de cualquiera de las partes, y a su costa, el juez puede usar, además, algún otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que proceda el anuncio de remate, para anunciar el mismo, bastará que se fijen avisos en la puerta del juzgado y en el sitio que al efecto tengan las autoridades fiscales de la localidad;
 
 V.- Si los bienes raíces estuvieren ubicados en diversos lugares, se librará exhorto para el efecto de que se fijen los edictos en la puerta del juzgado de cada localidad y en la de las oficinas fiscales. En este caso, se ampliará el término para la publicación de los edictos concediéndose un día más por cada cincuenta kilómetros o fracción y se señalará el término tomando en cuenta la distancia mayor a que se hallen los bienes. Si el juez lo estima oportuno, puede ordenar que se hagan también publicaciones en algún periódico del lugar en que se encuentren ubicados los bienes, y
 
@@ -6965,9 +7015,11 @@ Los procedimientos de las secciones segunda y cuarta son comunes para todos los 
 
 Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y a la vez desempeñe el cargo de albacea.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 771.
 
-Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, de diez en diez días, convocando a todos los que se consideren con derecho a la herencia y a los acreedores, para que se presenten en el juicio a deducirlos. Los edictos se publicarán en el periódico oficial y en uno de los de mayor circulación. Si el juicio no se radico en el lugar del último domicilio del finado, también se publicarán en él los edictos. Si el valor del activo de la sucesión no excediere de diez mil pesos, no se hará publicación de edictos y sólo se fijarán éstos en la puerta del juzgado.
+Una vez radicado el juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, de diez en diez días, convocando a todos los que se consideren con derecho a la herencia y a los acreedores, para que se presenten en el juicio a deducirlos. Los edictos se publicarán en el periódico oficial y en uno de los de mayor circulación. Si el juicio no se radicó en el lugar del último domicilio del finado, también se publicarán en él los edictos. Si el valor del activo de la sucesión no excede de doscientas veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se ordene la citada convocatoria, no se hará publicación de edictos y sólo se fijarán éstos en la puerta del juzgado.
 
 ### CAPITULO TERCERO.
 
@@ -7401,11 +7453,13 @@ IV.- Los coherederos del heredero condicional, siempre que aseguren el derecho d
 
 V.- Los sucesores del heredero que muera antes de la partición.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 818.
 
-Cuando el albacea no haga la partición por sí mismo, promoverá dentro del quinto día de aprobado el inventario, la elección de un contador o abogado con título debidamente registrado, para que la efectúe. El juez convocará a los herederos a junta, dentro de los tres días siguientes, para que se haga en su presencia la elección. Si no hubiere mayoría, el juez nombrará partidor, eligiéndolo entre los propuestos.
+Cuando el albacea no haga la participación por sí mismo, promoverá dentro del quinto día de aprobado el inventario, la elección de un contador o abogado con título debidamente registrado, para que la efectúe. El juez convocará a los herederos a junta, dentro de los tres días siguientes, para que se haga en su presencia la elección. Si no hubiere mayoría, el juez nombrará partidor, eligiéndolo entre los propuestos.
 
-El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un término que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa de hasta de mil pesos, atendiendo a la cuantía del caudal hereditario.
+El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un término que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa hasta de cincuenta veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción, atendiendo a la cuantía del caudal hereditario.
 
 ###### Art. 819.
 
@@ -7473,9 +7527,11 @@ VI.- La firma de todos los interesados o la firma en rebeldía por el juez.
 
 Respecto a la partición y sus efectos, será aplicable lo dispuesto por los artículos 1873 a 1898 del Código Civil.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 826.
 
-La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo, cuando el monto del caudal exceda de cinco mil pesos.
+La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo, cuando el monto del caudal exceda de doscientas veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se emita la resolución de que se trate.
 
 ### CAPITULO NOVENO.
 
@@ -7849,6 +7905,8 @@ Del procedimiento en los negocios de la competencia de los Juzgados Locales y Me
 
 Del juicio.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 874.
 
 Para determinar la competencia de los juzgados locales y menores, se observará lo siguiente:
@@ -7893,7 +7951,9 @@ I.- El secretario, comisario de policía o testigo de asistencia se cerciorarán
 
 II.- Si no lo encontraren, se cerciorarán que el lugar designado es alguno de los que se enumeran en el artículo anterior, y hecho esto, entregarán la cita a los parientes o doméstico del interesado o a cualquier otra persona adulta que viva en la casa, con la salvedad de que tratándose de arrendamiento o desahucio, no podrá dejarse a porteros, encargados, empleados u otras personas que presten servicio al propietario;
 
-III.- El recibo de la cita se firmará por la persona a quien se entregue, a menos que no supiere o no pudiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. El testigo no puede negarse bajo multa de cinco a diez pesos. En el duplicado de la cita y en la libreta se asentará razón de lo ocurrido, y se pondrán en su caso las firmas que procedan.
+> <small>(REFORMADA, B.O. 21 DE ENERO DE 1988)</small>
+
+III.- El recibo de la cita se firmará por la persona a quien se entregue, a menos de que no supiere o no pidiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. El testigo no puede negarse bajo multa de uno a tres veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción. En el duplicado de la cita y en la libreta se asentará razón de lo ocurrido, y se pondrán en su caso las firmas que procedan;
 
 IV.- Si no se encontrare el demandado, y apareciere que el lugar designado no reúne los requisitos enumerados en cualquiera de las fracciones del artículo anterior, no se dejará cita, reservándose para expedirla de nuevo cuando lo promueva el actor;
 
@@ -7939,9 +7999,7 @@ Ejecución de las sentencias.
 
 ###### Art. 882.
 
-Si el día y hora de la audiencia no estuviere presente el actor y concurriere el demandado, se impondrá a aquél una multa de cinco a veinte pesos, que se aplicará al reo por vía de indemnización.
-
-Sin que se justifique haberse hecho el pago, no se expedirá nueva citación de emplazamiento.
+Si el día y hora de la audiencia no estuviere presente el actor y concurriere el demandado, se impondrá a aquél una multa hasta de cinco veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción, que se aplicará al reo por vía de indemnización. Sin que se justifique haberse hecho el pago, no se expedirá nueva citación de emplazamiento.
 
 ###### Art. 883.
 
@@ -8041,9 +8099,11 @@ Para llevar a cabo el remate de los bienes embargados, se practicará avalúo co
 
 El remate de bienes muebles se hará en la forma común, es decir, observándose las reglas previstas en el artículo 456.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 896.
 
-Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en lugar visible de las oficinas fiscales del lugar, y en la puerta del juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que expedirá el registrador Público de la Propiedad. Si el valor del inmueble excediere de cinco mil pesos, se publicará, además, un edicto en el periódico oficial y en uno de los de mayor circulación y por una sola vez, con anticipación no menor de diez días a la fecha del remate.
+Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en lugar visible de las oficinas fiscales del lugar, y en la puerta del juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que expedirá el Registro Público de la Propiedad. Si el valor del inmueble excediere de cien veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que proceda el anuncio de remate, se publicará, además, un edicto en el periódico oficial y en uno de los de mayor circulación y por una sola vez, con anticipación no menor de diez días a la fecha del remate.
 
 ###### Art. 897.
 
@@ -8246,3 +8306,9 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 8 DE SEPTIEMBRE DE 1979.
 
 UNICO.- La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 21 DE ENERO DE 1988.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
