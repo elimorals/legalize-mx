@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1981-12-10"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -409,11 +409,11 @@ Los Notarios, Jueces y demás funcionarios del Estado no certificarán las firma
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 42.
 
-Son objeto del Impuesto sobre Actividades Mercantiles e Industriales, los Ingresos provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, así como los que se deriven de la enajenación de construcciones a que se refiere el artículo 42 de la Ley del Impuesto Federal mencionado, siempre y cuando éstos sean obtenidos por establecimientos, negociaciones o giros comerciales por los siguientes conceptos:
+Son objeto del Impuesto sobre Actividades Mercantiles e Industriales, los ingresos provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, así como los que se deriven de la enajenación de construcciones a que se refiere el Artículo 42 de la Ley del Impuesto Federal mencionado, siempre y cuando éstos sean obtenidos por establecimientos, negociaciones o giros comerciales por los siguientes conceptos:
 
 I.- Enajenación de bienes, promesa de venta y opción de venta;
 
@@ -424,6 +424,8 @@ III.- Prestación de servicios;
 IV.- Comisiones y mediaciones mercantiles;
 
 V.- Intereses provenientes de cualquier operación mercantil.
+
+No quedan comprendidos dentro del objeto del Impuesto, los actos o actividades a que se refiere el Artículo 2A de le Ley del Impuesto al Valor Agregado.
 
 ###### ARTICULO 43.
 
@@ -1395,101 +1397,69 @@ Este Impuesto se regulará por las disposiciones que al efecto señala la Ley de
 
 DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1981.</small>
 
-### CAPITULO XIV. Impuesto Sobre Arrendamiento Subarrendamiento de Bienes Inmuebles
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+### CAPITULO XIV. Impuesto Sobre Arrendamiento y Subarrendamiento de Bienes Inmuebles
 
 ###### ARTICULO 151
 
-1.- Son objeto de este Impuesto las percepciones de Ingresos que no paguen el Impuesto al Valor Agregado derivados de la concesión del uso o goce temporal de los siguientes bienes:
-
-I.- El suelo;
-
-II.- Inmuebles destinados ó utilizados exclusivamente para casa habitación;
-
-III.- Fincas dedicadas ó utilizadas sólo a fines agrícolas o ganaderos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+1.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-2.- Son ingresos para los efectos de este impuesto, las rentas que se devenguen por concepto de arrendamiento y subarrendamiento de bienes inmuebles.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+2.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-3.- Son sujetos de este impuesto las personas físicas, jurídicas o unidades económicas que obtengan los ingresos a que se refiere el artículo anterior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+3.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-4.- La base de este impuesto será:
-
-a).- El monto de las rentas devengadas mensualmente independientemente de la fecha en que se cobren.
-
-b).- El valor de las construcciones realizadas por el arrendatario o subarrendatario sobre el inmueble arrendado que queden en beneficio del arrendador o subarrendador; cuando éstas impliquen un aumento a la superficie construida objeto del contrato original. Este valor será el que figure en la contabilidad del arrendatario o subarrendatario o en su defecto el que determine la Dirección de Catastro del Estado, debiendo dividirse entre el número de meses contratados o entre doce meses si los contratos fueren por tiempo indefinido.
-
-c).- Cualquier cantidad que el arrendador o subarrendador cobre al arrendatario o subarrendatario en relación al bien arrendado, como quiera que se le denomine, aún cuando no se encuentre pactada en el contrato.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+4.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-5.- Este impuesto se liquidará y pagará trimestralmente durante los meses de Marzo, Junio, Septiembre y Diciembre de cada año por los ingresos devengados en el trimestre correspondiente, conforme a las tasas que fije la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+5.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-6.- Cuando de las manifestaciones del arrendador se infiera que las rentas que produce el inmueble arrendado son inferiores a las que debe producir el predio objeto del contrato, la Secretaría de Finanzas podrá proceder a determinarlas para fines fiscales a razón de 1% mensual del valor comercial que establezca para cada caso en particular la Dirección de Catastro del Estado o sus dependencias en cada Municipio.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+6.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-7.- Los causantes de este impuesto están obligados a presentar las declaraciones correspondientes a su pago en la oficina Recaudadora correspondiente a la ubicación de los inmuebles, en las formas aprobadas por la Secretaría de Finanzas del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+7.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-8.- Para los efectos del pago de este impuesto se equipara al arrendamiento, cualquier acto o contrato que con distinta denominación origine el derecho de percibir ingresos por la concesión del uso y goce de un inmueble.
+8.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, PUBLICADO EN P.O. 31 DE DICIEMBRE DE 1981, SE SUSPENDIO TOTALMENTE LA APLICACION DEL PRESENTE ARTICULO, SIN EMBARGO, EN ESTA FECHA, EL LEGISLADOR REFORMA LAS FRACCION I Y III,</small>
+
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
 9.- Son obligaciones de los sujetos de este impuesto:
 
-I.- Empadronarse en la Secretaría de Finanzas, por conducto de la oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquél en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
+I.- Empadronarse en la Secretaría de Planeación y Finanzas, por conducto de la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquel en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
 
 Cuando un mismo causante tenga bienes inmuebles arrendados en jurisdicción de distintas oficinas Recaudadoras, deberá empadronarse en cada una de ellas separadamente.
 
 II.- Registrar cada uno de los contratos que celebren para el arrendamiento de inmuebles, en la oficina recaudadora de su jurisdicción, dentro de los quince días naturales siguientes a la fecha de su celebración.
 
-III.- Adoptar las medidas de control que para el correcto pago del impuesto establezca la Secretaría de Finanzas del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+III.- Adoptar las medidas de control que para el correcto pago del impuesto establezca la Secretaría de Planeación y Finanzas del Estado.
 
 ###### ARTICULO 151
 
-10.- El arrendatario o subarrendatario que hubiese realizado obras de construcción a beneficio de inmuebles objeto del contrato deberá dar aviso a la Secretaría de Finanzas al término de la obra y especificar el valor de la misma.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+10.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-11.- Estarán exentos del pago de este impuesto las personas físicas que perciban como ingreso total por concepto de rentas mensuales hasta $3,000.00 debiendo cumplir con lo dispuesto por el Artículo 151-9 fracción I.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+11.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-12.- Este impuesto no es repercutible.
+12.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -2059,7 +2029,7 @@ Las disposiciones que establece el presente Decreto entrarán en vigor a partir 
 
 P.O. 10 DE JUNIO DE 1980.
 
-UNICO.- El presente Decreto tendrá vigencia a partir del 1o. de junio del año en curso, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+UNICO.- El presente Decreto tendrá vigencia a partir del día 1o. de junio del año en curso, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
 
 P.O. 31 DE DICIEMBRE DE 1980.
 
@@ -2072,3 +2042,9 @@ P.O. 10 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial y deroga todas aquellas disposiciones que se opongan a la misma.
+
+P.O. 31 DE DICIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+Las disposiciones que establece el presente Decreto surten sus efectos a partir del 1o. de Enero del presente año, y durante el período en que el Estado de Baja California se encuentre adherido al SISTEMA NACIONAL DE COORDINACION FISCAL en los términos de la LEY DEL IMPUESTO AL VALOR AGREGADO Y LEY DE COORDINACION FISCAL.
