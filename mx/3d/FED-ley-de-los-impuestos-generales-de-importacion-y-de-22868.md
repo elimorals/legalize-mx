@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2002-08-28"
+last_updated: "2002-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 2002.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -1664,7 +1664,11 @@ Nota.
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 48. Papel y cartón; manufacturas de pasta de celulosa, de papel o cartón
+### Capítulo 48
+
+Papel y cartón; manufacturas de pasta de celulosa,
+
+de papel o cartón
 
 Notas.
 
@@ -1814,7 +1818,11 @@ b) que tenga la resistencia mínima al desgarre y a la ruptura por tracción ind
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 49. Productos editoriales, de la prensa y de las demás industrias gráficas; textos manuscritos o mecanografiados y planos
+### Capítulo 49
+
+Productos editoriales, de la prensa y de las demás industrias gráficas;
+
+textos manuscritos o mecanografiados y planos
 
 Notas.
 
@@ -2646,7 +2654,11 @@ c) los sombreros y demás tocados que tengan el carácter de juguetes, tales com
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 66. Paraguas, sombrillas, quitasoles, bastones, bastones asiento, látigos, fustas, y sus partes
+### Capítulo 66
+
+Paraguas, sombrillas, quitasoles, bastones, bastones asiento,
+
+látigos, fustas, y sus partes
 
 Notas.
 
@@ -4587,3 +4599,17 @@ D.O.F. 16 DE AGOSTO DE 2002.
 D.O.F. 28 DE AGOSTO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir del 1 de septiembre de 2003, el arancel ad valorem aplicable a la importación de las fracciones arancelarias contenidas en el presente Decreto será de 18, salvo las fracciones arancelarias 7207.11.01 y 7213.91.01, cuyo arancel será de 13.
+
+TERCERO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importación de las siguientes fracciones arancelarias será el que a continuación se indica:
+
+a) para las fracciones arancelarias 7208.27.01, 7208.36.01, 7208.37.01, 7208.38.01, 7208.39.01, 7808.51.01 (sic), 7208.52.01, 7209.16.01, 7209.17.01, 7209.18.01, 7210.61.01, 7214.20.01, 7214.91.01, 7214.99.01, 7214.99.02, 7216.10.01, 7216.21.01, 7216.32.99, 7216.40.01, 7217.20.99, 7225.19.99, 7225.92.01 y 7228.30.99, será de 13;
+
+b) para las fracciones arancelarias 7216.31.01, 7216.32.01 y 7216.32.02, será de 10, y
+
+c) para las fracciones arancelarias 7207.20.99 y 7304.59.01, será de 7 y 3, respectivamente.
