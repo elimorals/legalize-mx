@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-18421"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-05"
-last_updated: "2000-08-05"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Ley publicada en Sección Octava del Periódico Oficial del Estado de Jalisco, el sábado 5 de agosto de 2000.
 
@@ -55,7 +55,9 @@ III. La creación, establecimiento y actualización del Sistema Estatal del Agua
 
 IV. La creación, establecimiento y funcionamiento de la Comisión Estatal de Agua y Saneamiento;
 
-V. Establecer la organización y atribuciones de las autoridades estatales y municipales en la administración del agua de jurisdicción estatal, los mecanismos necesarios para hacer posible la colaboración administrativa entre ellas y la coordinación respectiva con los sectores de usuarios;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+V. Establecer la organización y atribuciones de las autoridades estatales y municipales en la administración del agua de jurisdicción estatal y en el manejo, conservación y ampliación de la infraestructura hidráulica, los mecanismos necesarios para hacer posible la colaboración administrativa entre ellas y la coordinación respectiva con los sectores de usuarios;
 
 VI. Regular las relaciones de las autoridades en materia de agua y saneamiento con los usuarios;
 
@@ -293,9 +295,11 @@ Para la realización de proyectos específicos, la Junta de Gobierno podrá noti
 
 Los miembros de la Junta de Gobierno tendrán voz y voto, con excepción de la Contraloría del Estado, la cual participará con voz pero sin voto, y deberán nombrar a su respectivo suplente, quien tendrá los mismos derechos en ausencia de su titular.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Artículo 21.
 
-El cargo como miembro de la Junta de Gobierno, será honorífico, y por lo tanto, no remunerado.
+El cargo como miembro de la junta de gobierno, a excepción del Secretario Técnico, será honorífico y por lo tanto, no remunerado.
 
 ###### Artículo 22.
 
@@ -329,7 +333,9 @@ V. Otorgar poder general para actos de administración y de dominio, así como p
 
 VI. Aprobar y emitir las normas técnicas relativas a la prestación de los servicios públicos de agua que le correspondan a la Comisión Estatal y que al efecto le presente el Director General;
 
-VII. Autorizar al Director General, para que proponga, conforme a la legislación aplicable, la contratación de créditos que sean necesarios para la prestación de los servicios que le correspondan a la Comisión Estatal, así como para la realización de obras a cargo de la misma;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+VII. Autorizar al Director General, para que tramite, conforme a la legislación aplicable, la contratación de créditos que sean necesarios para la prestación de los servicios que le correspondan a la Comisión Estatal, así como para la realización de obras a cargo de la misma, condicionando los empréstitos a la aprobación de la mayoría de sus integrantes, para su posterior aprobación por el Congreso del Estado;
 
 VIII. Aprobar los proyectos de inversión del patrimonio de la Comisión Estatal; y
 
@@ -433,11 +439,17 @@ d) En acuicultura; y
 
 e) En Ecología;
 
-II. Planear la construcción de obras hidráulicas;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-III. Planear la operación de los sistemas hidráulicos, conjuntamente con las asociaciones de usuarios rurales;
+II. Planear la construcción de obras hidráulicas para el aprovechamiento de las aguas mencionado en la fracción anterior, conjuntamente con las asociaciones de usuarios rurales;
 
-IV. Planear la administración y conservación de la infraestructura hidráulica, conjuntamente con las asociaciones de usuarios rurales.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+III. La operación de los sistemas hidráulicos de su competencia, con la posible participación de las asociaciones de usuarios rurales;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+IV. La administración y conservación de la infraestructura hidráulica de su competencia, con el apoyo y posible participación de las asociaciones de usuarios rurales.
 
 Para los efectos de lo dispuesto en las fracciones anteriores, la Secretaría de Desarrollo Rural deberá buscar, en la medida de lo posible, la participación en las asambleas que realicen las asociaciones de usuarios de los distritos de riego y en las Unidades de Riego para el Desarrollo Rural. En el caso de lo dispuesto en la fracción I de éste artículo, la Secretaría de Desarrollo Rural deberá tomar en cuenta los programas y convenios específicos que la federación implemente en dicha materia.
 
@@ -627,11 +639,15 @@ IV. Las demás actividades que se convengan con la Comisión Estatal de Agua y S
 
 Los ayuntamientos, podrán celebrar contratos para la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, para lo cual podrán concesionar los bienes de dominio público que constituyen la infraestructura hidráulica necesaria para prestarlos.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Artículo 49.
 
-Los contratos se otorgarán mediante licitación pública a personas jurídicas que cuenten con experiencia y solvencia técnica y económica en los términos de la presente ley, su reglamento y la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado.
+Los contratos se celebrarán preferentemente con las personas jurídicas constituidas legalmente con funciones de organización ciudadana y vecinal y que funcionen de conformidad con las disposiciones de los ordenamientos del municipio correspondiente.
 
-En el otorgamiento de los contratos se deberán asegurar para el Ayuntamiento las mejores condiciones en cuanto a precios, calidad, financiamiento, oportunidad y equipamiento de los sistemas.
+Asimismo, en defecto del párrafo anterior, los contratos se otorgarán mediante licitación pública, a personas jurídicas que cuenten con experiencia y solvencia técnica y económica en los términos de la presente Ley, y su reglamento y la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado.
+
+En la celebración de los contratos se deberán asegurar para el Ayuntamiento las mejores condiciones en cuanto a precios, calidad, financiamiento, oportunidad y equipamiento de los sistemas.
 
 A solicitud del Ayuntamiento, la Comisión Estatal asistirá para definir las bases para otorgar los contratos a que se refiere este capítulo, incluidos los criterios para la publicación de la convocatoria y el establecimiento de los requisitos, garantías y demás modalidades que considere necesarios.
 
@@ -713,9 +729,11 @@ En el caso de financiamiento de las obras a realizar, se deberán precisar los m
 
 Para la instalación o contratación de los servicios públicos de agua se requerirá, entre otras cosas, que el solicitante llene una forma que será suministrada por el organismo operador en la que se expresen el uso que se dará al agua y la actividad que se realizará, a efecto de que se inspeccionen las condiciones técnicas del servicio. La presentación de la solicitud no implica la obligación del organismo operador o del prestador de los servicios de otorgarlos si las especificaciones técnicas así lo justifican.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Artículo 60.
 
-Cuando la solicitud cumpla con alguno de los requisitos necesarios, la autoridad prevendrá al interesado en un plazo máximo de 3 días; el particular deberá subsanarlos en un plazo máximo de 15 días hábiles, pasado el cual, la solicitud se tendrá como no presentada.
+Cuando la solicitud no cumpla con alguno de los requisitos necesarios, la autoridad prevendrá al interesado en un plazo máximo de 3 días; el particular deberá subsanarlos en un plazo máximo de 15 días hábiles, pasado el cual, la solicitud se tendrá como no presentada.
 
 ###### Artículo 61.
 
@@ -753,9 +771,21 @@ La fecha en que la autoridad competente autorice la toma o tomas de un predio su
 
 Los modelos de contratos de prestación de los servicios objeto de ésta Ley, que celebre el organismo operador con los usuarios, deberán cumplir con lo establecido en el Reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Artículo 69.
 
-Los desarrollos industriales, turísticos, campestres y de otras actividades productivas que se registren ante la Comisión Estatal y el Ayuntamiento y que cuente (sic) además con autorización del mismo, podrán operar sistemas de abastecimiento de agua potable y desalojo de aguas residuales en forma independiente, sujetándose en la operación a las normas establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
+Podrán operar sistemas de abastecimiento de agua potable y desalojo de aguas residuales en forma independiente, siempre y cuando se registren ante la Comisión Estatal y el Ayuntamiento respectivo y se sujeten en la operación de las normas establecidas en esta Ley, su Reglamento y demás disposiciones aplicables:
+
+I. Las personas jurídicas constituidas legalmente con funciones de organización ciudadana y vecinal y que funcionen de conformidad con las disposiciones de los ordenamientos del municipio correspondiente;
+
+II. Los condominios o desarrollos habitacionales que cuenten con personalidad jurídica conforme a las normas aplicables y demuestren capacidad técnica y administrativa suficiente;
+
+III. Los desarrollos industriales;
+
+IV. Los desarrollos turísticos y campestres; y
+
+V. Los desarrollos de cualquier otra actividad productiva.
 
 ###### Artículo 70.
 
@@ -871,7 +901,9 @@ Las cuotas y tarifas que hayan sido aprobadas por el Ayuntamiento en los términ
 
 La totalidad de las cuotas y tarifas deberán ser suficientes para cubrir los costos derivados de la operación, mantenimiento y administración de los sistemas.
 
-La rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura se financiarán preferentemente con recursos de los presupuestos públicos federal, estatal y municipal.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+La rehabilitación y mejoramiento de la infraestructura existente, la amortización de las inversiones que se realicen en ellas, así como los gastos financieros de los pasivos correspondientes y las inversiones necesarias para la expansión de la infraestructura, se financiarán preferentemente con recursos de los presupuestos público federal, estatal y municipal.
 
 En el caso de que haya recursos insuficientes para la infraestructura, adquisición de equipos y sembrado de instalaciones de cualquier tipo que se requieran; para cubrir el financiamiento de los rubros a que se refiere el párrafo precedente, la Comisión Estatal de Agua y los ayuntamientos correspondientes propondrán contribuciones especiales para cubrirlas ante el H. Congreso del Estado para efectos de su aprobación.
 
@@ -985,7 +1017,9 @@ VII. El cumplimiento de las disposiciones legales en materia de agua y saneamien
 
 Las visitas a que se refiere el artículo anterior, se efectuarán de conformidad con lo establecido por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
-## TITULO QUINTO (SIC). DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+## TITULO SEXTO. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
 ### CAPITULO I. DE LAS INFRACCIONES
 
@@ -1037,15 +1071,19 @@ III. Con multa por el equivalente de doscientas a quinientas veces el salario m�
 
 En el caso de las fracciones I, IV VI, VII, XIII y XIV del artículo 95, además de las multas y recargos correspondientes, procederá la suspensión temporal del servicio para el caso de omitir los pagos por dos periodos consecutivos, exceptuándose los casos en que se trate de edificios destinados a la prestación de servicios asistenciales y en los demás que señale el reglamento de la Ley, en los que por razones de salud pública o de seguridad no sea conveniente proceder a la suspensión.
 
-En el caso del uso doméstico, el servicio no será suspendido ni se podrá retirar el medidor, únicamente se podrá reducir el suministro a tres metros cúbicos mensuales, por la falta de pago de tres o más mensualidades.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+En el caso del uso doméstico, el servicio no será suspendido ni se podrá retirar el medidor, únicamente se podrá reducir el suministro de agua hasta al 33% el diámetro de la toma contratada por tener adeudos vencido (sic) por más de dos meses y se podrá reducir hasta al 15% dicho diámetro por tener adeudos vencido (sic) por más de seis meses.
 
 ###### Artículo 98.
 
 Para la aplicación de las sanciones, se deberá tomar en consideración el carácter público del servicio, la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Artículo 99.
 
-Los ayuntamientos podrán realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo conforme a lo dispuesto en la Ley.
+Los ayuntamientos podrán realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios de actividades productivas que incumplan con el pago respectivo conforme a lo dispuesto en esta Ley, con excepción de los casos en que por razones de salud pública o seguridad no sea conveniente proceder conforme lo anterior.
 
 ###### Artículo 100.
 
@@ -1130,3 +1168,15 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE MARZO DE 2001.
+
+Primero. El presente decreto entrará en vigor a los 21 días del mes de mayo del año 2001.
+
+Segundo. Respecto al proyecto a que se refieren los artículos transitorios cuarto y quinto del decreto número 18434, aprobado por el Congreso del Estado el día 8 de julio del 2000, se adicionan las siguientes disposiciones:
+
+a) El Congreso del Estado deberá apoyar todo el proceso, fungiendo como mediador y proponiendo e impulsando las soluciones a los problemas financieros y administrativos que se presenten.
+
+b) El Gobierno del Estado y los ayuntamientos de Guadalajara, Tlaquepaque, Tonalá y Zapopan deberán prever un plan de contingencia para el pago de los pasivos del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana, a efecto de que los nuevos Sistemas Operadores de los servicios inicien sus operaciones con una administración económicamente sana.
