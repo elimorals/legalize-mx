@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1993-12-31"
+last_updated: "1994-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -81,7 +81,7 @@ La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fisca
 
 Las leyes, reglamentos y demás disposiciones fiscales de alcance general, relativas a la Hacienda Pública del Estado de Nuevo León, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, o en la fecha que señalen las mismas leyes, reglamentos o disposiciones, siempre que su vigencia no sea anterior a la publicación.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 9o.
 
@@ -89,7 +89,7 @@ La administración y recaudación de los impuestos, contribuciones especiales, d
 
 Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(ADICIONADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 9o. Bis.
 
@@ -1685,7 +1685,7 @@ OBJETO: Es objeto de este impuesto la propiedad o posesión de ganado y aves que
 
 SUJETOS: Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, propietarias o poseedoras del ganado y aves materia del sacrificio.
 
-> <small>(ADICIONADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 250 Bis.
 
@@ -1791,6 +1791,8 @@ Estos servicios podrán ser prestados por profesionistas independientes con tít
 
 El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
 
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 267.
@@ -1808,6 +1810,8 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$55.00.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2115,6 +2119,8 @@ V.- Otros N$18.00
 
 En caso de que se hayan cubierto los derechos previstos en el artículo 275 bis, fracción I, de esta Ley, no se pagarán los derechos establecidos en la fracción I de este artículo, correspondientes al mismo trámite.
 
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 274.
@@ -2186,6 +2192,8 @@ f) Por el registro y legalización de títulos profesionales N$300.00
 g) Por el registro y legalización de títulos técnicos medios N$100.00
 
 h) Por el trámite para cédula profesional N$100.00
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
 II.- Instituciones Educativas:
 
@@ -2270,6 +2278,8 @@ Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse
 ###### ARTICULO 276.
 
 Por los servicios prestados por la Secretaría de Finanzas y Tesorería General del Estado o sus dependencias, se causarán los siguientes derechos:
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2359,11 +2369,11 @@ c) Lote N$20.00
 
 d) Lote certificado N$40.00
 
-> <small>(ADICIONADA, P.0. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XII.- Por registro y revalidación de fierros y señales de ganado, por cada uno N$15.00
 
-> <small>(ADICIONADA, P.0. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Por servicios de control vehicular:
 
@@ -2377,7 +2387,7 @@ c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo el 
 
 XIV.- Por reposición de tarjetas de circulación N$35.00
 
-> <small>(ADICIONADA, 31 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XV.- Por expedición de licencia de manejar o su reposición:
 
@@ -2455,9 +2465,13 @@ En caso de que estos servicios sean prestados a trabajadores de patrones con má
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2499,9 +2513,13 @@ h) Predios que no formen parte de un fraccionamiento autorizado por las autorida
 
 2.- Por incorporación a las redes de drenaje N$1.00
 
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Por clasificación de carne de res, por canal N$3.80
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2541,25 +2559,13 @@ Por regularización de predios de hasta 200 metros cuadrados de superficie y los
 
 II.- Por el inicio de trámite de licencia de uso de suelo o de edificación N$500.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
 
-III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota de N$9.50 por metro cuadrado de construcción, excluyendo los estacionamientos.
 
-a) Comercial N$19.50
+La cuota prevista en el párrafo anterior será de N$6.50 para las edificaciones habitacionales multifamiliares. Las casas-habitación estarán exentas del pago de este derecho.
 
-b) Oficinas y servicios N$19.50
-
-c) Bodegas N$9.50
-
-d) Industrial N$9.50
-
-e) Hospitales y escuelas privados N$6.50
-
-f) Edificaciones habitacionales multifamiliares N$6.50
-
-g) Otros, excepto casa-habitación N$6.50
-
-Tratándose de locales comerciales, que no excedan de 100 metros cuadrados de superficie de construcción, no se encuentren en centros comerciales y que el valor catastral del mismo sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos.
+Tratándose de construcciones que no excedan de 100 metros cuadrados de superficie de construcción, cuyo valor catastral sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por el inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos. Si la superficie de construcción no excede de 50 metros cuadrados, se cubrirá el 25% de los derechos establecidos en las fracciones II y III.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2625,7 +2631,7 @@ VIII.- Por la expedición de diversas constancias y certificaciones N$40.00
 
 Tratándose del derecho a que se refiere la fracción II y el inciso a) de la fracción III, se cubrirá tan solo un 50%, cuando el contribuyente sea persona jubilada, pensionada, discapacitada o viuda y que el destino sea comercial siempre y cuando comprueben ante la autoridad correspondiente su condición y que sus ingresos mensuales no excedan del importe equivalente a tres salarios mínimos diarios elevados al mes.
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P. O. 31 DE DICIEMBRE DE 1993)
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -2952,3 +2958,55 @@ P.O. 30 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1o. de Enero de 1994.
+
+> <small>N. DE E. POR CONSIDERARLO IMPORTANTE SE TRANSCRIBE EL ARTICULO QUINTO DEL DECRETO NUM. 340.</small>
+
+###### ARTICULO QUINTO.
+
+Mientras esté en vigor la coordinación en derechos entre la Federación y el Estado, en los términos previstos por la Ley de Coordinación Fiscal, no se mantendrán en vigor derechos estatales y municipales por:
+
+I.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a) Licencias de construcción.
+
+b) Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c) Licencias para fraccionar o lotificar terrenos.
+
+d) Licencias para conducir vehículos.
+
+e) Expedición de placas y tarjetas para la circulación de vehículos.
+
+II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a) Registro Civil.
+
+b) Registro de la Propiedad y del Comercio.
+
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas, incluyendo cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción, los derechos de estacionamiento de vehículos ni de uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública.
+
+IV.- Actos de inspección y vigilancia.
+
+Los derechos estatales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al e) de la Fracción I y la Fracción III de este artículo.
+
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado o a los Municipios.
+
+En ningún caso lo dispuesto en este Decreto se entenderá que limita la facultad del Estado y sus Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia, Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de Coordinación Fiscal con la Federación, se considerarán derechos, aún cuando tengan una denominación distinta en la Legislación del Estado o de sus Municipios, las contribuciones que tengan las características de Derecho conforme al Código Fiscal y la Ley de Ingresos de la Federación.
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+P.O. 29 DE JULIO DE 1994
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto empezará a surtir sus efectos a partir del día 1º de Agosto de 1994.
+
+###### ARTICULO SEGUNDO.
+
+Si se da por terminada la Adhesión del Estado de Nuevo León, al Sistema Nacional de Coordinación Fiscal, entrarán en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de dicha Adhesión, los derechos y los artículos suspendidos conforme al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Durante 1994 el Estado garantizará a los Municipios el pago de las diferencias que resulten entre el importe de la recaudación de los derechos suspendidos con motivo de este Decreto, ocurrida en 1993, respecto de la recaudación de los citados derechos, ocurrida en 1994, adicionada con el incrementó en las participaciones que en 1994 obtenga cada uno de ellos, siempre que la suma de la recaudación de estos derechos ocurrida en 1994 y el incremento en las participaciones, sea menor al monto de la recaudación en 1993 de los derechos suspendidos. Para estos efectos, a la recaudación de 1993 se le aplicará el factor de 1.05.
