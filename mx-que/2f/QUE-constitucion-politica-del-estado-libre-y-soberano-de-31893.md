@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1929-12-26"
+last_updated: "1931-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 1931.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -86,6 +86,10 @@ P.O. 13 DE SEPTIEMBRE DE 1929
 P.O. 26 DE DICIEMBRE DE 1929
 
 N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 9 DE ABRIL DE 1931
+
+Artículo único.- Se deroga la Ley número 29 de fecha 22 de octubre de 1928, en la parte que reforma el artículo 107 de la Constitución Política del Estado, el que volverá a regir conforme al texto con que primitivamente figuró en la citada Constitución.
 
 ## TITULO SEGUNDO
 
@@ -743,11 +747,11 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 V.- Tener antecedentes intachables de moralidad.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1931)</small>
 
 ###### Art. 107.
 
-Será Presidente del Tribunal el Magistrado de la Tercera Sala; pero si este faltare, lo será el Magistrado propietario que resulte electo para ese cargo por la misma Corporación, debiendo computarse también el voto del Procurador de Justicia.
+Será Presidente del Tribunal el Magistrado propietario que resulte electo para ese cargo por la misma Corporación, debiendo computarse también el voto del Procurador de Justicia. El Presidente del Tribunal será renovado cada año pudiendo ser reelecto, y sus faltas temporales serán suplidas precisamente por uno de los otros dos Magistrados propietarios, designado en la misma forma que el anterior.
 
 ###### Art. 108.
 
