@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "1996-05-23"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -178,7 +178,7 @@ X. Nombrar y remover a los Vicepresidentes, su Secretario y al suplente de éste
 
 XI. Aprobar la estructura y organización de la Comisión, así como el establecimiento o supresión de las Delegaciones de la misma, así como aprobar el proyecto de Reglamento de esta Ley y el proyecto de Reglamento Interior, determinando las atribuciones que correspondan a cada unidad administrativa; y
 
-XII. Resolver sobre otros asuntos que el Presidente de la Comisión someta a su consideración.
+Xll. Resolver sobre otros asuntos que el Presidente de la Comisión someta a su consideración.
 
 Las facultades que le otorga la presente ley a la Junta de Gobierno son indelegables, con excepción de las comprendidas en las fracciones lI, III y VII, que podrán delegarse en el Presidente de la Comisión, mediante acuerdo publicado en el Diario Oficial de la Federación.
 
@@ -196,7 +196,9 @@ El Secretario de Hacienda y Crédito Público nombrará al Presidente de la Comi
 
 El Presidente deberá reunir los requisitos siguientes:
 
-l. Ser ciudadano mexicano;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+l. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Gozar de reconocida experiencia en materia económica, financiera, jurídica o de seguridad social;
 
@@ -252,7 +254,9 @@ En congruencia con los principios que rigen la Seguridad Social en México, la C
 
 Los miembros del Comité Consultivo y de Vigilancia, deberán reunir los siguientes requisitos:
 
-l. Ser ciudadanos mexicanos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+l. Ser ciudadanos mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Tener conocimientos en materia financiera, jurídica o de seguridad social;
 
@@ -298,7 +302,7 @@ XI. Emitir opinión sobre el procedimiento de contratación de seguros de vida o
 
 XII. Conocer sobre los criterios generales para la supervisión de los participantes en los sistemas de ahorro para el retiro;
 
-XIII. Emitir opinión sobre las reglas de carácter general que en materia de publicidad y comercialización expida la Comisión;
+XIlI. Emitir opinión sobre las reglas de carácter general que en materia de publicidad y comercialización expida la Comisión;
 
 XIV. Emitir opinión sobre el establecimiento de criterios generales para la substanciación del procedimiento arbitral previsto en la presente ley;
 
@@ -880,9 +884,9 @@ La terminación de la concesión no extingue las obligaciones pendientes de cump
 
 Las concesiones para operar la Base de Datos Nacional SAR podrán ser revocadas, oyendo previamente a la empresa operadora de que se trate, por cualquiera de las causas siguientes:
 
-I. Por dejar de cumplir con cualesquiera de los requisitos que para el otorgamiento de la concesión establecen la presente ley y su reglamento;
+l. Por dejar de cumplir con cualesquiera de los requisitos que para el otorgamiento de la concesión establecen la presente ley y su reglamento;
 
-II. Por dejar de cumplir con el fin para el cual fue otorgada la concesión;
+Il. Por dejar de cumplir con el fin para el cual fue otorgada la concesión;
 
 III. Por dar a la información objeto de la concesión un uso distinto al autorizado;
 
@@ -994,9 +998,7 @@ Las instituciones de seguros autorizadas para ofrecer rentas vitalicias o seguro
 
 Las empresas operadoras a las que se les declare la revocación de la concesión, durante un plazo de 10 años contado a partir de la declaración correspondiente, deberán guardar confidencialidad respecto de la información derivada de los sistemas de ahorro para el retiro a la que hayan tenido acceso y abstenerse de usar o comercializar dicha información en beneficio propio o de terceros.
 
-### CAPITULO IV. De la Cuenta Individual y de los Planes de Pensiones Establecidos por
-
-Patrones o Derivados de Contratación Colectiva
+### CAPITULO IV. De la Cuenta Individual y de los Planes de Pensiones Establecidos por Patrones o Derivados de Contratación Colectiva
 
 #### Sección I. De la Cuenta Individual
 
@@ -1334,7 +1336,7 @@ Serán sancionados con prisión de dos a diez años y multa de dos mil a veinte 
 
 I. Que dolosamente omitan registrar las operaciones efectuadas por la administradora, sociedad de inversión o empresa operadora de que se trate, o que falsifiquen, simulen, alteren o permitan que se alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas de orden o resultados; y
 
-II. Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad de la sociedad de que se trate, o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionar a la Comisión o que ésta les requiera.
+Il. Que intencionalmente inscriban u ordenen que se inscriban datos falsos en la contabilidad de la sociedad de que se trate, o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionar a la Comisión o que ésta les requiera.
 
 ###### ARTICULO 106.
 
@@ -1571,3 +1573,9 @@ Para el supuesto de que al 1o. de enero del año 2002 la institución de seguros
 México, D.F., a 25 de abril de 1996.- Dip. María Claudia Esqueda Llanes, Presidente.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Florencio Catalán Valdez, Secretario.- Sen. Luis Alvarez Septién, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de mayo de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
