@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2002-12-27"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -199,7 +199,7 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-#### Sección Primera. del Objeto
+#### Sección Primera. Del Objeto
 
 > <small>(ADICIONADO, P.O. 30 DICIEMBRE DE 1996)</small>
 
@@ -367,11 +367,11 @@ Son sujetos de este impuesto, las personas físicas o morales que realicen pagos
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 30.
 
-La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el importe de los pagos por concepto de impuestos y derechos, excepto del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, Impuesto sobre Servicios de Hospedaje, y de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por servicios comunicaciones, por inscripciones de nacimientos, defunciones y autorización de matrimonios celebrados en las oficinas del registro civil en horas hábiles, así como aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo general vigente en el Estado de Michoacán, en la Ley de Ingresos del Estado.
+La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el importe de los pagos por concepto de impuestos y derechos, excepto de los Impuestos sobre Loterías, Rifas, Sorteos y Concursos; sobre Servicios de Hospedaje; sobre Erogaciones por Remuneración al Trabajo Personal Prestado, Bajo la Dirección y Dependencia de un Patrón y de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por servicios de comunicaciones, por inscripción de nacimientos, defunciones y autorización de matrimonios celebrados en las oficinas del Registro Civil en horas hábiles, así como aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo general vigente en el Estado, en la Ley de Ingresos del Estado para el Ejercicio de que se trate.
 
 ###### ARTICULO 31.
 
@@ -399,29 +399,59 @@ De las Exenciones.
 
 Están obligados al pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal Prestado Bajo la Dirección y Dependencia de un Patrón, las personas físicas y morales que realicen dichas erogaciones, dentro del territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 32 Bis.
 
-Quedan comprendidos entre los obligados a que se refiere el Artículo 32, las personas físicas y morales que realicen el pago de las remuneraciones afectas a este Impuesto en la Entidad, aún cuando para efectos distintos tengan su domicilio en otra entidad federativa.
+Quedan comprendidos entre los obligados a que se refiere el artículo 32, las personas físicas y morales que realicen el pago de las remuneraciones afectas a este impuesto en la Entidad, aún cuando para efectos distintos tengan su domicilio en otra entidad federativa.
 
-Asimismo, quedan comprendidos como sujetos de este imuestos, las dependencias y entidades del Gobierno Federal, el Gobierno del Estado y las entidades paraestatales, los gobiernos municipales, así como sus respectivas entidades paramunicipales, las entidades autónomas, los fideicomisos constituidos por dependencias y entidades de la administración pública federa, por el Gobierno del Estado y por los gobiernos municipales, cuando en estos tres casos, se trate de entidades con personalidad jurídica y patrimonio propio.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 33.
 
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón, los sueldos y salarios, en los términos de las disposiciones de seguridad social a que el patrón deba sujetarse para realizar las aportaciones correspondientes.
+Los salarios y demás prestaciones que deriven de una relación laboral, para los efectos de este impuesto, quedan comprendidos en el concepto de remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón.
+
+Para los efectos de este impuesto, no quedan comprendidas como conceptos de remuneración a que se refiere el párrafo anterior, las prestaciones siguientes:
+
+a) Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
+
+b) El ahorro, cuando se integre por depósito semanal, quincenal o mensual, por cantidades iguales que aporten trabajador y patrón o cuando se constituya en forma diversa a la señalada, aún cuando el trabajador pueda retirarlo más de dos veces al año;
+
+c) Las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
+
+d) Las aportaciones que el patrón pague a sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez, adicionales a las establecidas en las disposiciones de seguridad social que le sean aplicables;
+
+e) Las participaciones en las utilidades de la empresa;
+
+f) La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores, entendiéndose que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal;
+
+g) Las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Distrito Federal;
+
+h) Los premios por asistencia y puntualidad, siempre que el importe por cada uno de estos conceptos no rebase el diez por ciento del salario;
+
+i) Las cantidades aportadas para fines sociales, considerándose como tales las entregas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán solo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
+j) Las remuneraciones por tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
+
+k) El pago de becas para trabajadores o para sus hijos, seguro de vida y seguro de gastos médicos, cuando en este último caso se contrate de manera general y sea distinto al de las instituciones de seguridad social;
+
+l) Los viáticos y gastos de representación efectivamente erogados por cuenta del patrón y que hayan sido debidamente comprobados en los mismos términos que, para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
+
+m) Las aportaciones al Instituto Mexicano del Seguro Social (IMSS), a la Dirección de Pensiones Civiles del Estado y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM); y,
+
+n) Las pensiones y jubilaciones en caso de invalidez, vejez, cesantía en edad avanzada y muerte.
+
+Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, las prestaciones que se paguen a los trabajadores, como consecuencia de terminación de la relación laboral, así como las indemnizaciones por incapacidad física.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 #### Sección Segunda. De la tasa y de la base
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 33 Bis.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2% al monto de las remuneraciones pagadas por los servicios prestados bajo la dirección y dependencia de los sujetos a que se refiere el artículo 32 y 32 Bis.
+El Impuesto a que se refiere este Capítulo, se calculará aplicando la tasa del 2% al monto de las remuneraciones devengadas y efectivamente pagadas en el mes de que se trate, por los conceptos a que se refiere el artículo 33 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -443,89 +473,29 @@ Adicionalmente, el Gobierno Federal, transferirá al Gobierno del Estado, el cin
 
 #### Sección Tercera. De las exenciones y estímulos fiscales
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 35 Bis.
 
-Se exceptúan del pago de este impuesto:
-
-I. Las erogaciones que se efectúen por concepto de:
-
-a) Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
-
-b) El ahorro, cuando se integre por depósito semanal, quincenal o mensual, por cantidades iguales que aporten trabajador y patrón o cuando se constituya en forma diversa a la señalada, aún cuando el trabajador pueda retirarlo más de dos veces al año;
-
-c) Las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
-
-d) Las aportaciones que el patrón pague a sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez, adicionales a las establecidas en las disposiciones de seguridad social que le sean aplicables;
-
-e) Las participaciones en las utilidades de la empresa;
-
-f) La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores, entendiéndose que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal;
-
-g) Las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Distrito Federal;
-
-h) Los premios por asistencia y puntualidad, siempre que el importe por cada uno de estos conceptos no rebase el diez por ciento del salario base de cotización al Instituto Mexicano del Seguro Social o al Instituto de Seguridad Social y Servicios a los Trabajadores del Estado;
-
-i) Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contraprestación colectiva. Los planes de pensiones serán solo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
-
-j) Las remuneraciones por tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
-
-k) Pagos de becas para trabajadores o para sus hijos, seguro de vida y seguro de gastos médicos, cuando en este último caso se contrate de manera general y sea distinto al de las instituciones de seguridad social;
-
-l) Viáticos y gastos de representación efectivamente erogados por cuenta del patrón y que hayan sido debidamente comprobados en los mismos términos que, para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
-
-m) Aportaciones al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Dirección de Pensiones Civiles del Estado y las del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), de las cuotas a cargo del patrón; y
-
-n) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía en edad avanzada y muerte.
-
-Para los efectos de que proceda la exención por los conceptos mencionados, los mismos deberán estar debidamente comprobados y registrados en la contabilidad del sujeto de este impuesto.
-
-II. Las erogaciones que efectúen:
-
-a) Las Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta que, sin designar individualmente a los beneficiarios, tengan como actividades las que a continuación se señalan:
-
-1. Atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
-
-2. Atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo, e inválidos de escasos recursos.
-
-3. La prestación de asistencia médica o jurídica, de orientación social, y de servicios funerarios a personas de escasos recursos, especialmente e menores, ancianos o discapacitados.
-
-4. La readaptación social de personas que han llevado a cabo conductas ilícitas.
-
-5. La rehabilitación de farmaco-dependientes de escasos recursos.
-
-b) La empresa social constituida por avecindados, ejidatarios o hijos de éstos, así como las sociedades de solidaridad social y las empresas integradoras de éstas que se constituyan en los términos de la Ley de la materia;
-
-c) Asociaciones rurales de interés colectivo;
-
-d) Agrupaciones políticas y religiosas debidamente registradas conforme a la Ley de la materia; y
-
-e) Instituciones privadas dedicadas a la educación en forma gratuita.
-
-III. Otras exenciones:
-
-a) Ejidos y comunidades;
-
-b) Por remuneraciones al trabajo doméstico; y
-
-c) Por remuneraciones a los trabajadores discapacitados.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+El Tesorero General, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo y con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
 
 ###### ARTICULO 36 Bis.
 
-Con independencias de las excepciones aplicables en materia del impuesto que se regula en este Impuesto, la Tesorería General del Estado, dictaminará, previo acuerdo con los representantes de las organizaciones productivas del Estado, sobre el otorgamiento de estímulos fiscales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2003)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 #### Sección Cuarta. Del (sic) las obligaciones y el pago
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 37 Bis.
 
-El impuesto que regula este Capítulo se calculará por ejercicios fiscales, que coincidirán con el año calendario. Se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón y se pagará mensualmente el día 17 del mes siguiente a aquel a que corresponda, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente o en la sucursal que elija de las instituciones bancarias que en su caso se autoricen por la Tesorería General.
+El impuesto que regula este Capítulo se calculará por ejercicios fiscales, que coincidirán con el año calendario. Se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón y se pagará mensualmente a más tardar el día 17 del mes siguiente a aquel a que corresponda, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente o en la sucursal que elija de las instituciones bancarias que en su caso se autoricen por la Tesorería General.
+
+Cuando el día 17 a que se refiere el párrafo anterior, sea un día inhábil o las oficinas de la autoridad se encuentren cerradas, el plazo se prorrogará al día hábil siguiente.
+
+La falta de pago en el plazo establecido, causará recargos en los términos del Código Fiscal del Estado de Michoacán de Ocampo.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -545,13 +515,11 @@ El contribuyente que con posterioridad a la fecha de presentación de alguna dec
 
 El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará en cualquiera de las oficinas a que se refiere el artículo 37 Bis de esta Ley, dentro de los tres meses siguientes al cierre del ejercicio.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 41 Bis.
 
-Cuando los sujetos de este impuesto tengan más de un establecimiento u oficina desconcentrada tratándose de instituciones oficiales, dentro del territorio del Estado, podrán presentar las declaraciones mensuales y del ejercicio a que se refieren los artículos 37 Bis y 40 Bis por todos los establecimientos u oficinas desconcentradas, en la oficina que corresponda al domicilio de su establecimiento principal u oficina central según se trate.
-
-Para los efectos de lo dispuesto en el párrafo anterior, los sujetos de que se trate adjuntarán a las declaraciones correspondientes, la cédula que contenga la información relativa a cada establecimiento u oficina establecidas en el Estado.
+Cuando los sujetos de este impuesto tengan dentro del territorio del Estado, más de un establecimiento u oficina, podrán presentar las declaraciones mensuales y del ejercicio, a que se refieren los artículos 37 Bis y 40 Bis, por todos los establecimientos u oficinas, en el domicilio que le corresponda al establecimiento u oficina principal de que se trate.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -1991,7 +1959,7 @@ I. Por expedición de placas de circulación, incluyendo tarjeta de circulación
 
 II. Por refrendo anual de calcomanía de circulación.
 
-IlI. Por renovación anual de concesiones de servicio público y
+III. Por renovación anual de concesiones de servicio público y
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
@@ -2045,7 +2013,7 @@ La expedición de licencias por primera vez, se realizará en el plazo que deter
 
 ###### ARTICULO 187.
 
-Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 185 de esta ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refieren los incisos A) y B) de la fracción lI del artículo anterior. Asimismo, se realizarán por la autoridad competente, los trámites relativos a la expedición por primera vez de las concesiones de servicio público.
+Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 185 de esta ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refieren los incisos A) y B) de la fracción II del artículo anterior. Asimismo, se realizarán por la autoridad competente, los trámites relativos a la expedición por primera vez de las concesiones de servicio público.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
@@ -2636,3 +2604,9 @@ Para los efectos de lo dispuesto en el artículo 42 Bis de esta Ley, el plazo pa
 ###### ARTÍCULO TERCERO.
 
 Para efectos de que el Gobierno de Estado cuente con los datos de identificación de aquellos contribuyentes que al inicio de vigencia del presente Decreto, ya se encuentran realizando las actividades por las que realizan erogaciones por remuneración al trabajo personal, la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, proporcionará en dispositivo magnético el padrón de contribuyentes obligados a la retención del Impuesto sobre la Renta.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor el día 1º de enero de 2004, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
