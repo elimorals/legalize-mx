@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-comision-estatal-de-derechos-humanos-de-baja-2858"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-20"
-last_updated: "2004-11-30"
+last_updated: "2005-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de diciembre de 1992.
 
@@ -251,9 +251,9 @@ IV.- DIRIGIR Y COORDINAR LAS ACTIVIDADES DE LOS DEMAS FUNCIONARIOS Y DEL PERSONA
 
 V.- DISTRIBUIR Y DELEGAR FUNCIONES AL VISITADOR, EN LOS TERMINOS DEL REGLAMENTO INTERNO;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 20 DE MARZO DE 2005)</small>
 
-VI.- RENDIR ANTE EL PLENO DEL CONGRESO DEL ESTADO Y AL TITULAR DEL PODER EJECUTIVO ESTATAL SOBRE LAS ACTIVIDADES DE LA COMISION; ASI COMO ENVIAR MENSUALMENTE A LA COMISION PERMANENTE DE DERECHOS HUMANOS DEL CONGRESO DEL ESTADO, INFORME DE ACTIVIDADES Y COPIAS DE LAS RECOMENDACIONES, EMITIDAS;
+VI.- RENDIR ANTE EL PLENO DEL CONGRESO DEL ESTADO Y AL TITULAR DEL PODER EJECUTIVO ESTATAL UN INFORME SOBRE LAS ACTIVIDADES DE LA COMISION; ASI COMO ENVIAR MENSUALMENTE A LA COMISION PERMANENTE DE DERECHOS HUMANOS DEL CONGRESO DEL ESTADO, INFORME DE ACTIVIDADES Y COPIAS DE LAS RECOMENDACIONES, EMITIDAS;
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 1997)</small>
 
@@ -744,3 +744,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 TERCERO.- A excepción del Presidente, todos los demás miembros que actualmente integran el Consejo de la Comisión, serán sustituidos conforme a los artículos 18 y 19 de la presente Ley.
 
 CUARTO.- A partir de la entrada en vigor de la presente ley, el Ejecutivo estatal proveerá lo conducente para que en un plazo no mayor de sesenta días, se haga entrega material y jurídica a la Comisión Estatal de Derechos Humanos de los bienes que forman parte de su patrimonio; los cuales en el momento de su recepción deberán ser inventariados para su debida custodia y administración.
+
+B.O. 20 DE MARZO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
