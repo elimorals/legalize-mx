@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aviacion-civil-12627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-07"
-last_updated: "2000-10-05"
+last_updated: "2004-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1998-12-04"
 
 REGLAMENTO DE LA LEY DE AVIACION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2004.
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 7 de diciembre de 1998.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 7 de diciembre de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -985,37 +985,19 @@ En el caso de operadores aéreos, la Secretaría proporcionará a los terceros a
 
 ###### ARTÍCULO 73.
 
-La Secretaría tiene a su cargo la expedición, revalidación, convalidación, cancelación y suspensión de las licencias del personal técnico aeronáutico, de los certificados de capacidad, así como de los permisos a que se refiere el artículo 94 del presente Reglamento conforme a los requisitos y condiciones que establezca en las disposiciones administrativas correspondientes.
-
-El personal técnico aeronáutico, de vuelo o de tierra, sólo puede ejercer la actividad que expresamente se indique en su licencia, certificado de capacidad o permiso a que se refiere el párrafo anterior, conforme a lo que se establezca en dichas disposiciones administrativas.
-
-En la convalidación de licencias, la Secretaría verificará que exista reciprocidad real y efectiva con el Estado de que se trate.
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-En caso de robo, pérdida o extravío de la licencia y del certificado de capacidad, el interesado debe hacerlo del conocimiento de la Secretaría y puede solicitar la reposición de la misma, previa presentación del acta ministerial respectiva y pago de los derechos correspondientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 74.
 
-La vigencia de las licencias y de los certificados de capacidad del personal técnico aeronáutico de vuelo y de los controladores de tránsito aéreo es de dos años hasta los cuarenta años de edad, a partir de la cual será de un año. La vigencia de las licencias y de los certificados de capacidad del demás personal de tierra es de dos años.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 75.
 
-El personal técnico aeronáutico debe portar su licencia, con certificación de capacidad y el certificado de aptitud psicofísica, durante el desempeño de sus labores; la tripulación de vuelo deberá mantener su bitácora de vuelo con las horas actualizadas.
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-Los concesionarios, permisionarios y operadores aéreos vigilarán que el personal técnico aeronáutico cumpla con esta disposición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 76.
 
-El interesado en obtener una licencia o el permiso a que se refiere este Capítulo, que le permita desarrollar las actividades de personal técnico aeronáutico, debe cumplir, como mínimo, con los requisitos y condiciones que en materia de edad, conocimientos, experiencia, instrucción, pericia, certificado de aptitud psicofísica y escolaridad, establezca la Secretaría en las disposiciones administrativas correspondientes.
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
-
-La Secretaría, por sí o a través de terceros autorizados por ésta, debe aplicar los exámenes teóricos y prácticos correspondientes en un plazo que no exceda de quince días hábiles. En caso de ser aprobatorios y previa presentación de la constancia o certificado de los exámenes médicos aplicables, se expedirá la licencia o certificado de capacidad dentro de los tres días hábiles siguientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ### Capítulo I. Del personal técnico aeronáutico
 
@@ -1073,31 +1055,7 @@ VII. Otras que determine la Secretaría de conformidad con los tratados internac
 
 ###### ARTÍCULO 78.
 
-Los certificados de capacidad para personal de vuelo se clasifican:
-
-I. Respecto a la clase de aeronave, en:
-
-a) Monomotor;
-
-b) Multimotor;
-
-c) Monorrotor, y
-
-d) Multirrotor;
-
-II. Respecto al tipo de aeronave, de acuerdo a la marca y modelo de la misma, con sus modificaciones y series;
-
-III. De acuerdo al tipo de vuelo:
-
-a) Visual, y
-
-b) Por instrumentos;
-
-IV. De instructor, y
-
-V. De radiotelefonista aeronáutico restringido.
-
-Para los efectos del presente Reglamento, copiloto y segundo oficial son los pilotos con capacidad específica en el tipo de aeronave asignada para auxiliar al comandante o piloto al mando.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 79.
 
@@ -1133,11 +1091,9 @@ Sólo para vuelos de largo alcance y como medida excepcional, los miembros de la
 
 La Secretaría podrá autorizar variaciones a los límites de horas a que se refiere este artículo conforme a las normas oficiales mexicanas correspondientes, sin afectar las cuestiones de seguridad, tomando en consideración las características del servicio, tipo de aeronave o cuando el desarrollo tecnológico lo requiera.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
-
 ###### ARTÍCULO 83.
 
-Los miembros de la tripulación de vuelo de aeronaves que presten servicios al público en los términos de la Ley, deben ser titulares de una licencia de piloto comercial o de transporte público ilimitado, y del certificado de capacidad que corresponda para operar el equipo de que se trate, expedida por la Secretaría conforme a este Reglamento y a las disposiciones administrativas correspondientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
@@ -1171,97 +1127,11 @@ El concesionario o permisionario, sobre la base del número de pasajeros, debe e
 
 ###### ARTÍCULO 87.
 
-Las licencias para el personal de tierra se clasifican de la siguiente manera:
-
-I. De técnico en mantenimiento clase I;
-
-II. De técnico en mantenimiento clase II;
-
-III. De oficial de operaciones de aeronaves;
-
-IV. De controlador de tránsito aéreo clase I;
-
-V. De controlador de tránsito aéreo clase II;
-
-VI. De controlador de tránsito aéreo clase III;
-
-VII. De meteorólogo aeronáutico clase I;
-
-VIII. De meteorólogo aeronáutico clase II;
-
-IX. De meteorólogo aeronáutico clase III, y
-
-X. Otras que determine la Secretaría de conformidad con los tratados aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 88.
 
-Los certificados de capacidad para personal de tierra se clasifican:
-
-I. Técnico de mantenimiento clase I, para:
-
-a) Aeronaves de ala fija;
-
-b) Helicópteros;
-
-c) Aeróstatos de vuelo libre o globos;
-
-d) Aeróstatos de vuelo dirigido o dirigibles;
-
-e) Planeador;
-
-f) Motores, y
-
-g) Hélices;
-
-II. Técnico de mantenimiento clase II, para:
-
-a) Sistemas electrónicos de las aeronaves;
-
-b) Sistemas electrónicos de tierra: equipo de radio ayudas;
-
-c) Laministería y recubrimiento de las aeronaves;
-
-d) Motores;
-
-e) Hélices;
-
-f) Instrumentos mecánicos;
-
-g) Sistemas hidráulicos y neumáticos, y
-
-h) Otros sistemas de las aeronaves y sistemas a la navegación aérea de acuerdo al desarrollo
-
-tecnológico;
-
-> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-III. Para el oficial de operaciones, radiotelefonista aeronáutico restringido;
-
-IV. Controlador de tránsito aéreo clases I, II, y III según corresponda para:
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-a) torre de control;
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-b) radar de vigilancia de aproximación, y
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-c) radar de vigilancia de área, y
-
-V. Meteorólogo aeronáutico clase III para:
-
-a) Previsor aeronáutico A;
-
-b) Previsor aeronáutico B;
-
-c) Previsor aeronáutico/supervisor, y
-
-d) Previsor aeronáutico/científico.
-
-El meteorólogo clase I y II no requiere de ningún certificado de capacidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 89.
 
@@ -1269,7 +1139,7 @@ El oficial de operaciones de aeronaves tiene como principal función auxiliar al
 
 ###### ARTÍCULO 90.
 
-El personal técnico en mantenimiento clase I y II tiene como función principal realizar las actividades necesarias para reparar y mantener a las aeronaves, motores, accesorios, partes y componentes, así como radioayudas y otros equipos o instrumentos, en óptimas condiciones de funcionamiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO, D.O.F. 24 DE JUNIO DE 2004)
 
 ###### ARTÍCULO 91.
 
@@ -2372,3 +2242,19 @@ TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo dé
 D.O.F. 5 DE OCTUBRE DE 2000.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE JUNIO DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 73 a 76, 78, 83, 87, 88 y 90 del Reglamento de la Ley de Aviación Civil y todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Los permisos, licencias y certificados de capacidad otorgados con anterioridad a la entrada en vigor del presente Reglamento, se respetarán en todos sus términos y condiciones hasta la finalización de su vigencia, en el entendido de que en su operación se deberán ajustar a lo dispuesto en la Ley de Aviación Civil, el Reglamento de la Ley de Aviación Civil, este Reglamento y demás disposiciones aplicables.
+
+CUARTO.- Todos los trámites que para la obtención, revalidación, reposición, convalidación o recuperación de permisos, licencias o certificados de capacidad a que se refiere este Reglamento, se hayan iniciado previamente a la entrada en vigor del mismo, se ajustarán a lo previsto en este ordenamiento.
+
+QUINTO.- Los requisitos que deberá cumplir el interesado en obtener una licencia de piloto comercial o de TPI, previstos en los artículos 54 fracción III, 56 fracción III, 62 fracción III, 64 fracción III, 70 fracción III, 72 fracción III y 76 fracción IV del presente Reglamento sólo serán exigibles a partir del 31 de agosto de 2006.
+
+El personal técnico aeronáutico que hubiera obtenido licencia de piloto comercial o de piloto de TPI antes de la fecha mencionada en el párrafo anterior y esté interesado en convalidar, recuperar o revalidar dicha licencia, deberá cumplir con dichos requisitos a partir del 31 de agosto de 2006; para tal efecto, la Secretaría de Comunicaciones y Transportes promoverá programas que permitan cumplir con lo anterior.
+
+La autorización definitiva para el ejercicio profesional que hubiere sido expedida por la Secretaría de Educación Pública antes de la entrada en vigor del presente Reglamento, será válida para acreditar el cumplimiento de los requisitos previstos en el primer párrafo de este artículo, para convalidar, recuperar o revalidar la licencia de piloto comercial o de TPI.
