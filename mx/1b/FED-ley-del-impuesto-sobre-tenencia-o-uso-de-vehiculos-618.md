@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1995-12-15"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -47,15 +47,15 @@ Están obligadas al pago del impuesto establecido en esta Ley, las personas fís
 
 Para los efectos de esta Ley, se presume que el propietario es tenedor o usuario del vehículo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, no estando obligados a presentar por este impuesto la solicitud de inscripción ni los avisos del registro federal de contribuyentes.
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 15 días siguientes a aquél en que se adquirió o importó el vehículo. Se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente. El impuesto se pagará en las oficinas de la entidad en que la autoridad federal, estatal, municipal o del Distrito Federal autorice el registro de dicho vehículo. Los contribuyentes de este impuesto no están obligados a presentar por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
 Los importadores ocasionales efectuarán el pago del impuesto a que se refiere esta Ley, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Las personas físicas o morales que adquieran vehículos nuevos o importados después de los tres primeros meses del año de calendario, calcularán y enterarán el impuesto en las oficinas autorizadas a más tardar dentro de los 15 días siguientes a aquél en que se adquirió el vehículo. Para estos efectos se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente. En el caso de que las personas físicas o morales que enajenan vehículos nuevos o importados al público, los asignen a su servicio o al de sus funcionarios o empleados, el impuesto se pagará a más tardar dentro de los 15 días siguientes a la fecha en que ésto se realice.
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto a más tardar dentro de los 15 días siguientes a la fecha en que se asignen.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -127,11 +127,9 @@ I. En el caso de automóviles nuevos, destinados al transporte hasta de diez pas
 
 (VEASE TABLA)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER FRACCION II DEL ARTICULO DECIMO OCTAVO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS, DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Los montos de las cantidades establecidas en la tabla a que se refiere esta fracción, se actualizarán en los meses de enero y julio con el factor correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación, dentro de los tres primeros días de enero y julio de cada año.
+Los montos de las cantidades establecidas en la tabla a que se refiere esta fracción, se actualizarán en los meses de enero, mayo y septiembre de cada año, con el factor correspondiente al periodo comprendido desde el quinto mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación, dentro de los tres primeros días de enero, mayo y septiembre de cada año.
 
 II. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -223,7 +221,9 @@ IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 V.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
 
-VI.- Los automóviles, exclusivamente, que estén al servicio de los Cuerpos Diplomáticos y Consulares extranjeros acreditados ante nuestro país.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Los automóviles que estén exclusivamente al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus funcionarios debidamente acreditados ante nuestro país, excepto los cónsules generales honorarios y cónsules y vicecónsules honorarios.
 
 VII.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
 
@@ -441,13 +441,15 @@ antigüedad
 
 9 0.500
 
-El factor de actualización a que se refiere este artículo, será el correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de ajuste en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+El factor de actualización a que se refiere este artículo, será el correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de ajuste en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I DEL ARTICULO DECIMO OCTAVO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS, DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995.</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995).
 
 ###### ARTICULO 16.
 
@@ -467,33 +469,29 @@ Las entidades federativas percibirán el 95% del producto neto de la enajenació
 
 En el caso de que la Secretaría de Hacienda y Crédito Público practique embargo precautorio de más de diez vehículos que estén documentados indebidamente por las autoridades de dichas entidades durante los últimos doce meses, la Secretaría hará del conocimiento de la entidad de que se trate la violación especifica por ésta descubierta, para que en un plazo de cuarenta y cinco días hábiles manifieste lo que a su derecho convenga. Transcurrido dicho plazo la propia Secretaría, en su caso, efectuará un descuento en sus incentivos o participaciones por cada vehículo adicional al décimo embargado, por un monto equivalente al 1% de la recaudación promedio mensual del impuesto sobre tenencia o uso de vehículos del año inmediato anterior a aquél en que el incumplimiento sea descubierto por parte de la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-El registro estatal vehicular a que se refiere el párrafo anterior, se integrará con datos de los vehículos de los contribuyentes domiciliados dentro de la circunscripción territorial de cada entidad federativa y estará conectado por la Red Nacional del Sistema de Información Integral Tributaria. Para constituir dicho registro se procederá de acuerdo con las reglas que al efecto expida la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+El registro estatal vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial de cada entidad federativa que serán como mínimo: marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, número de chasis, número de placas y año fiscal que cubre el impuesto a que se refiere esta Ley, así como los datos correspondientes al contribuyente: nombre o razón social, domicilio, código postal y, en su caso, el Registro Federal de Contribuyentes. El registro estatal vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ### CAPITULO V. Obligaciones
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 17.
 
-Los fabricantes y los distribuidores autorizados tendrán las siguientes obligaciones:
+Los fabricantes y distribuidores autorizados, así como las empresas comerciales que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa comercial para importar autos usados, tendrán las siguientes obligaciones:
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I. Proporcionar a la Secretaría de Hacienda y Crédito Público, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere esta fracción, haciendo la separación por cada uno de los establecimientos y por cada entidad federativa.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II. Incluir en el documento que ampare la enajenación, la clave vehicular que corresponda a la versión enajenada. La Secretaría de Hacienda y Crédito Público establecerá mediante disposiciones de carácter general la forma en que se (sic) deberá integrarse la citada clave.
+II. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 III. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 IV. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-> <small>(DEROGADOS PENULTIMO Y ULTIMO PARRAFOS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -929,7 +927,7 @@ Durante el año de 1987 se aplicarán en materia del impuesto sobre tenencia o u
 
 I.- Para los efectos del cálculo del impuesto, se dan a conocer las siguientes cantidades:
 
-a).- Vehículos a que se refiere el artículo 5o., Apartado A, fracciones II y III de la Ley de la materia.......... $ 17,200.00
+a).- Vehículos a que se refiere el artículo 5o., Apartado A, fracciones II y III de la Ley de la materia .......... $ 17,200.00
 
 b).- Vehículos a que se refiere el artículo 5o., Apartado B, de la Ley de la materia .......... $ 18,300.00
 
@@ -989,7 +987,7 @@ c).- Veleros .......... 52,900.00
 
 d).- Embarcaciones .......... 238,700.00
 
-e).- Aeronaves 1'528,600.00
+e).- Aeronaves .......... 1'528,600.00
 
 f).- Motocicletas .......... 332,400.00
 
@@ -1366,3 +1364,9 @@ II. La reforma al artículo 5o., fracción I entrará en vigor el día 1o. de en
 Primero.- El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo.- De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
