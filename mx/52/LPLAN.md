@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2002-05-23"
+last_updated: "2003-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2002
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -123,6 +123,10 @@ Los funcionarios a que alude el primer párrafo de este artículo y los Director
 Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea integral y sustentable.
 
 Lo dispuesto en el párrafo anterior será aplicable a las entidades de la administración pública paraestatal. A este efecto, los titulares de las Secretarías de Estado y Departamentos Administrativos, proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+El Ejecutivo Federal establecerá un Sistema de Evaluación y Compensación por el Desempeño para medir los avances de las dependencias de la Administración Pública Federal centralizada en el logro de los objetivos y metas del Plan y de los programas sectoriales que se hayan comprometido a alcanzar anualmente y para compensar y estimular el buen desempeño de las unidades administrativas y de los servidores públicos.
 
 ###### Artículo 10.
 
@@ -431,3 +435,7 @@ SEGUNDO.- Se derogan todas las disposiciones de carácter legal que se contrapon
 TERCERO.- Hasta en tanto no se emitan las disposiciones reglamentarias correspondientes, se seguirán aplicando las vigentes a la fecha de entrada del presente Decreto en cuanto no se le contrapongan.
 
 CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposiciones del presente Decreto para la elaboración del Plan Nacional de Desarrollo para el periodo presidencial 2000-2006; e instruirá a las dependencias de la administración pública centralizada y paraestatal, para que en la elaboración de los programas sectoriales respectivos a dicho periodo, se apliquen estrictamente los criterios de sustentabilidad a que se refiere el presente Decreto.
+
+D.O.F. 10 DE ABRIL DE 2003.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
