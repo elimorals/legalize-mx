@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-adquisiciones-y-administracion-de-bienes-muebles-del-641
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "1995-04-07"
+last_updated: "2004-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ADQUISICIONES Y ADMINISTRACION DE BIENES MUEBLES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2004.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 2 de noviembre de 1987.
 
@@ -41,19 +41,33 @@ LEY DE ADQUISICIONES Y ADMINISTRACION DE BIENES MUEBLES DEL ESTADO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público e interés social, y tiene por objeto regular:
+La presente Ley es de orden público e interés social, y tiene por objeto:
 
-I.- Las acciones relativas a la planeación, programación, presupuestación, control y evaluación, así como los actos y contratos que lleven a cabo y celebren en materia de adquisiciones, incluyendo aquellas necesarias para la realización de obras públicas y arrendamientos de bienes muebles y de prestación de servicios relacionados con los mismos:
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2004)</small>
+
+I.- Regular las acciones relativas a la planeación, programación, presupuestación, control y evaluación, así como los actos y contratos que lleven a cabo y celebren en materia de adquisiciones, incluyendo aquellas necesarias para la realización de obras públicas y arrendamientos de bienes muebles y de prestación de servicios relacionados con los mismos, que realicen:
 
 a).- El Gobierno del Estado.
 
-b).- Los Ayuntmamientos (sic) cuando estas acciones sean con cargo total o parcial a fondos estatales.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2004)</small>
 
-c).- Las Entidades de la Administración Pública Paraestatal del Estado de Sinaloa, o Paramunicipal.
+b).- Los Ayuntamientos cuando estas acciones sean con cargo total o parcial a fondos estatales.
 
-II.- Los actos de administración y de dominio o disposición de dichos bienes que realice el Gobierno del Estado y las Entidades de la Administración Pública Paraestatal del Estado, o Paramunicipal.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2004)</small>
+
+c).- Las entidades de la administración pública paraestatal o paramunicipal.
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2004)</small>
+
+II.- Regular los actos de administración y de dominio o disposición de dichos bienes que realice el Gobierno del Estado y las entidades de la administración pública paraestatal o paramunicipal.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2004)</small>
+
+III. Establecer las bases generales que deberán seguir los Ayuntamientos en el ámbito de sus respectivas competencias para emitir la regulación correspondiente en materia de adquisición y administración de los bienes muebles municipales.
 
 ###### ARTICULO 2.
 
@@ -551,6 +565,42 @@ VI.- La Secretaría o la Contraloría según el caso, acordará lo que proceda s
 
 VII.- Vencido el plazo para la rendición de las pruebas la Secretaría, o la Contraloría según el caso, dictará resolución en el término que no excederá de treinta días hábiles.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2004)</small>
+
+## TITULO SEPTIMO. DE LAS BASES GENERALES PARA LAS ADQUISICIONES Y ADMINISTRACION DE BIENES MUEBLES EN EL AMBITO MUNICIPAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2004)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2004)</small>
+
+###### ARTICULO 49.
+
+Los Ayuntamientos en sus respectivas competencias, deberán emitir disposiciones reglamentarias que normen la planeación, programación, presupuestación, control y evaluación, así como los actos y contratos que lleven a cabo y celebren en materia de adquisiciones, incluyendo aquellas necesarias para la realización de obras públicas y arrendamientos de bienes muebles y de prestación de servicios relacionados con los mismos; y los actos de administración y de dominio o disposición de dichos bienes.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2004)</small>
+
+###### ARTICULO 50.
+
+Los Ayuntamientos deberán establecer y desarrollar en sus reglamentos las siguientes bases:
+
+I. Las autoridades responsables de aplicar las disposiciones en la materia;
+
+II. Las actividades comprendidas como Adquisiciones, Arrendamientos y Servicios, según lo dispuesto en el artículo 2 de la Ley;
+
+III. Los programas de Adquisiciones, Arrendamientos y Servicios, se ajustarán a lo dispuesto en los artículos 10, 11 y 12 de la Ley;
+
+IV. Los procedimientos a que se refieren los artículos 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 y 26, en lo que resulte aplicable;
+
+V. Las previsiones que establecen los artículos 27 y 28 de la Ley;
+
+VI. Las prohibiciones a que se refiere el artículo 25 de la Ley;
+
+VII. Las sanciones que se deriven de las infracciones a las normas; y
+
+VIII. El recurso que podrá interponer el interesado, así como la instancia responsable de conocerlo.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -598,3 +648,9 @@ P.O. 7 DE ABRIL DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE JULIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
