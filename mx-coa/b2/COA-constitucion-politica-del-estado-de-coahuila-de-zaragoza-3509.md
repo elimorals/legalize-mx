@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1950-10-14"
+last_updated: "1951-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 1950.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 1951.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -96,7 +96,7 @@ II. Los hijos de madres coahuilenses y de padre desconocido, nacidos dentro o fu
 
 III. Los hijos de padres mexicanos, nacidos en Coahuila, que reunan, asimismo, la calidad de ciudadanos conforme a la ley y que al llegar a la mayor edad no manifiesten ante autoridad alguna el deseo de adoptar otra ciudadanía.
 
-IV. Los mexicanos que habiendo residido 21 años o más en territorio del Estado y hallándose en pleno goce de sus derechos políticos, soliciten y obtengan del Congreso del Estado carta de ciudadanía.
+IV. (DEROGADA, P.O. 16 DE MAYO DE 1951)
 
 ###### Artículo 11.
 
@@ -284,11 +284,11 @@ Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominar�
 
 El Congreso del Estado se compondrá cuando menos de nueve diputados electos en su totalidad cada tres años por los ciudadanos Coahuilenses.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
 
 ###### Artículo 34.
 
-La Elección de Diputados, se hará dividiendo en distritos Electorales el Estado. Se elegirá un Diputado Propietario y un Suplente por cada setenta mil habitantes, o por cada fracción que pase de treinta mil, sirviendo de base el último Censo practicado.
+La elección de Diputados se hará dividiendo en Distritos Electorales el Estado. Se elegirá un Diputado Propietario y un Suplente por cada ochenta mil habitantes, o por cada fracción que pase de cuarenta mil, sirviendo de base el último censo practicado.
 
 ###### Artículo 35.
 
@@ -492,7 +492,9 @@ Facultades del Poder Legislativo.
 
 Son facultades del Poder Legislativo:
 
-I. Expedir, interpretar, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública del Estado.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+I. Expedir, reformar y derogar las Leyes y Decretos en todos los ramos de la Administración Publica del Estado.
 
 II. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la reforma o derogación de unas y otros; y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de los otros Estados.
 
@@ -516,13 +518,15 @@ XI. Examinar, aprobar o reformar los reglamentos o bandos de Policía que formul
 
 XII. Fijar el territorio que corresponde a los Distritos y Municipios y, por el voto de las dos terceras partes de los Diputados presentes, modificar la extensión de los mismos, suprimirlos y crear otros cuando así lo exija el buen servicio público.
 
-XIII. Cambiar prosicionalmente la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
+XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
 
 XIV. Fijar las bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado con las limitaciones que concede la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos y reconocer y mandar pagar las deudas que contraiga el Estado.
 
 XV. Constituirse en Colegio Electoral y practicar el Escrutinio de votos emitidos en la elección de Gobernador; calificar dicha elección y hacer la declaratoria correspondiente del que haya resultado electo, conforme a la ley.
 
-XVI. Designar al ciudadano que deba sustituir al Gobernador del Estado en sus faltas temporales y en las absolutas.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+XVI. Designar al C. Secretario del Ejecutivo del Estado, para que con el carácter de Gobernador Interino sustituya al Gobernador Constitucional en sus faltas que no excedan de treinta días; y al Ciudadano que deba sustituirlo en las mayores de ese término y en las absolutas. En caso de que el Secretario del Ejecutivo del Estado, no esté en funciones, el Congreso designará al Ciudadano que sustituya al C. Gobernador Constitucional con el Carácter de Interino.
 
 XVII. Nombrar a los Magistrados del Superior Tribunal de Justicia, a propuesta de los Ayuntamientos.
 
@@ -546,11 +550,13 @@ XXVI. Rehabilitar, con arreglo a las leyes, a los que por sentencia pronunciada 
 
 XXVII. Declarar suspenso a un ciudadano en el ejercicio de sus derechos políticos, por resistirse a servir los cargos de elección popular sin causa justificada.
 
-XXVIII. Convocar a elección cuando fuere necesario y decidir sobre la legalidad de ellas, consignando a la Autoridad Judicial, para su castigo, a los que hubiesen resultado culpables.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+XXVIII. Convocar a elecciones cuando fuere necesario y decidir sobre la legalidad de ellas, consignando a la Autoridad Judicial para su castigo, a los que hubiesen resultado culpables de violación a la Ley Electoral o de algún otro delito relacionado con dichas elecciones.
 
-XXIX. Erigirse en Gran Jurado para declarar si ha o no lugar a formación de causa cuando por delitos oficiales o comunes fueren acusados el Gobernador del Estado, los Magistrados del Superior Tribunal de Justicia, los Diputados, los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+XXIX. Erigirse en Gran Jurado para declarar si ha o no lugar a formación de causa cuando por delitos oficiales o comunes fueren acusados el Gobernador del Estado, los Magistrados del Superior Tribunal de Justicia, los Diputados, el Secretario del Ejecutivo del Estado, los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos.
 
 XXX. Nombrar al Tesorero General del Estado, a propuesta en terna del Ejecutivo.
 
@@ -562,9 +568,13 @@ XXXII. Crear o suprimir los empleos públicos del Estado, y aumentar o disminuir
 
 XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos en vista de los Presupuestos que presente el Ejecutivo. Aprobar los Planes de Arbitrios que deberán enviar los Ayuntamientos haciéndoles las modificaciones que estime convenientes. Por considerarse de interés público, el Congreso expedirá una Ley Reglamentaria tendente a favorecer la inversión de capitales en nuevas fuentes de producción y especialmente en nuevas industrias o en la ampliación de las ya existentes, estableciéndose impuestos moderados, por un período no mayor de veinte años.
 
-XXXIV. Revisar cada año las cuentas de cobro e inversión de los caudales públicos del Estado, previo examen y glosa de la Diputación Permanente; la falta de este requisito no será un obstáculo para la revisión.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
 
-XXXV. Autorizar a la Diputación Permanente para que resuelva todos los asuntos que se presenten durante el receso de la Cámara.
+XXXIV. Revisar cada año las cuentas de inversión de los caudales Públicos del Estado.
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+XXXV. Autorizar a la Diputación Permanente para que resuelva aquellos asuntos que se presenten durante el receso de la Cámara, que no requieran la intervención directa del Congreso.
 
 XXXVI. Formar un Reglamento Interior y acordar las providencias para hacer concurrir a los diputados ausentes.
 
@@ -612,7 +622,9 @@ II. Recibir los expedientes de las elecciones de Gobernador y Diputados, para pr
 
 III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatura a sesiones extraordinarias
 
-IV. Nombrar al ciudadano que supla las faltas temporales del Gobernador del Estado que no excedan del tiempo que falte para la reunión del Congreso a su próximo período de sesiones ordinarias.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+IV. Nombrar al ciudadano que supla las faltas temporales del Gobernador del Estado, en los términos de la Fracción XVI, del Artículo 67 de esta Constitución.
 
 V. Recibir la protesta al Gobernador del Estado y a los Magistrados del Superior Tribunal de Justicia en su caso.
 
@@ -650,9 +662,13 @@ I. Ser ciudadano mexicano por nacimiento.
 
 II. Tener veinticinco años cumplidos para el día de la elección.
 
-III. Ser ciudadano coahuilense por nacimiento o con una residencia efectiva de cinco años por los menos, inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
 
-IV. No ser empleado de la Federación ni estar en servicio activo en el Ejército Nacional ni en las fuerzas del Estado cuando menos noventa días antes de la elección.
+III. Ser ciudadano coahuilense por nacimiento y con una residencia efectiva de cinco años por lo menos, inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+IV. No haber desempeñado el cargo de Gobernador en el período inmediato anterior a la elección. El Gobernador Interino nombrado en los términos de la Fracción XVI del Artículo 67 y de la Fracción IV del Artículo 73, por ausencia temporal del Titular, podrá ser electo, siempre que no haya desempeñado ininterrumpidamente ese cargo en los dos últimos años del período.
 
 V. No ser Secretario del Ejecutivo del Estado o quien haga sus veces, ni estar comprendido en el inciso IV del artículo 36, a no ser que se separe del cargo noventa días antes de la elección.
 
@@ -666,9 +682,11 @@ VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, fal
 
 La Elección de Gobernador será directa cada seis años. Tomará posesión el primero de Diciembre posterior a la elección y nunca podrá ser reelecto.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
+
 ###### Artículo 78.
 
-En las faltas absolutas del Gobernador se procederá a nueva elección y el que resultare electo tomará posesión de su cargo luego que se haga la declaratoria correspondiente. En las faltas temporales y en las absolutas, mientras que se verifiquen las elecciones y se presenta el nuevamente electo, entrará a ejercer inmediatamente el poder Ejecutivo el ciudadano a quien nombre el Congreso, en escrutinio secreto, a mayoría absoluta de votos. Cuando la falta absoluta de Gobernador ocurriere dentro de los dos últimos años del período Constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo, por designación de la Legislatura, será el encargado de él hasta la conclusión de dicho período.
+En las faltas absolutas del Gobernador se procederá a nueva elección y el que resultare electo tomará posesión de su cargo luego que se haga la declaratoria correspondiente. En las faltas temporales y en las absolutas mientras que se verifiquen las elecciones y se presenta el nuevamente electo, entrará a ejercer inmediatamente el Poder Ejecutivo el ciudadano que nombre el Congreso, en escrutinio secreto, a mayoría absoluta de votos. Cuando la falta absoluta de Gobernador ocurriere dentro de los tres últimos años del período Constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo, por designación de la Legislatura, será el encargado de él hasta la conclusión de dicho período.
 
 ###### Artículo 79.
 
@@ -768,7 +786,9 @@ II. Publicar, circular y hacer cumplir, las Leyes y Decretos del Congreso del Es
 
 III. Cuidar de la observancia de la Constitución General, la particular del Estado y de las leyes que de ella emanen.
 
-IV. Concurrir cada dos años al acto de apertura del período de sesiones ordinarias del Congreso, y presentar en este acto un informe sobre el estado de la Administración.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+
+IV. Concurrir cada año al Acto de Apertura del Período de Sesiones Ordinarias del Congreso y presentar en este acto un Informe sobre el Estado de la Administración.
 
 V. Presentar al día siguiente de la apertura del período de sesiones ordinarias del Congreso, por medio de la Secretaría del Ejecutivo y del Estado, una memoria del estado de la Administración Pública en todos sus ramos.
 
@@ -1146,13 +1166,11 @@ Jueces de Primera Instancia, Locales y Auxiliares.
 
 El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Jueces Locales Letrados, en los Jueces Locales Legos y en los Jueces Auxiliares, que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1938)</small>
-
-Artículo 146 (Sic).- El Supremo Tribunal de Justicia se compondrá de tres Magistrados Propietarios y Seis Supernumerarios, electos cada cuatro años por el Congreso del Estado a propuesta en terna de los Ayuntamientos. Los Magistrados tanto Propietarios como suplentes podrán ser reelectos.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
 
 ###### Artículo 136.
 
-El Supremo Tribunal de Justicia se compondrá de cuatro Magistrados Propietarios y ocho Supernumerarios, electos cada cuatro años por el Congreso del Estado a propuesta en terna de los Ayuntamientos. Los Magistrados tanto Propietarios como Supernumerarios podrán ser reelectos.
+El Supremo Tribunal de Justicia se compondrá de tres Magistrados Propietarios y seis Supernumerarios, electos cada seis años por el Congreso del Estado, a propuesta en terna de los Ayuntamientos. Los Magistrados, tanto propietarios como suplentes, podrán ser reelectos.
 
 ###### Artículo 137.
 
@@ -1246,7 +1264,7 @@ XV. Ordenar visitas de los Juzgados de Primera Instancia, de los Juzgados Locale
 
 XVI. Fijar los emolumentos que deban percibir los Magistrados Supernumerarios, cuando conozcan de asuntos del Tribunal.
 
-XVII. Conocer de los recursos de casación en negocios mercantiles.
+XVII. (DEROGADA, P.O. 16 DE MAYO DE 1951)
 
 XVIII. Las demás que les confieran las leyes.
 
@@ -1398,11 +1416,11 @@ La responsabilidad por delitos o faltas oficiales, sólo podrá exigirse durante
 
 En las penas impuestas por delitos oficiales, no podrá concederse al reo la gracia de indulto.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
 
 ###### Artículo 167.
 
-Sólo gozan de fuero Constitucional en el Estado, los CC. Diputados al Congreso, el Gobernador, los Magistrados del H. Tribunal Superior de Justicia, los Presidentes, Síndicos y Regidores de los Ayuntamientos.
+Sólo gozan de fuero Constitucional en el Estado, los Ciudadanos Diputados al Congreso, el Gobernador, los Magistrados del H. Tribunal Superior de Justicia, el Secretario del Ejecutivo del Estado, los Presidentes, Síndicos y Regidores de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
@@ -1729,3 +1747,13 @@ La XXXIX Legislatura se instalará, de acuerdo con lo que previene la Ley el dí
 ###### Artículo 4o.
 
 Con excepción de la Mesa Directiva correspondiente al mes de noviembre de 1950 y 1951, el actual Congreso continuará nombrando sus Directivas el día 14 de cada mes. A partir de la próxima Legislatura la designación será hecha el día 19 de cada mes.
+
+P.O. 16 DE MAYO DE 1951.
+
+###### ARTICULO PRIMERO
+
+- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- " " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
