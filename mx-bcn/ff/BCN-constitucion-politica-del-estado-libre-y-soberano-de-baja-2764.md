@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2001-06-22"
+last_updated: "2001-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -437,33 +437,41 @@ El otorgamiento de las constancias de mayoría y la asignación de Diputados de 
 
 El Congreso del Estado, designará a los Consejeros Ciudadanos del Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes, en la forma y términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado tendrá cada año dos Períodos Ordinarios de Sesiones, uno del 1o. de octubre al 31 de enero y el otro del 1o. de abril al 30 de junio.
+El Congreso del Estado tendrá cada año de ejercicio constitucional, tres períodos de sesiones, del 1 de octubre al 31 de Enero el primero; del 1° de febrero al 31 de mayo el segundo; y el tercero del 1° de Junio al 30 de Septiembre.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 En el Primer Período, antes de concluir el año, examinará, discutirá y aprobará el Presupuesto del Estado correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
 
-En el Segundo Período se ocupará preferentemente del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las Partidas respectivas del Presupuesto, sino también a comprobar la exactitud y justificación de los gastos hechos y a determinar las responsabilidades que resultaren.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+En el segundo y tercer períodos, el Congreso se ocupará del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función el Congreso investigará si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto; comprobando la exactitud y justificación de los gastos hechos y determinará las responsabilidades que resultaren.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las Iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 23.
 
-El Congreso fuera de los períodos ordinarios, podrá celebrar sesiones extraordinarias, cuando fuere convocado al efecto por el Ejecutivo o por la Comisión Permanente; debiendo ocuparse, en el caso, sólo de los asuntos para los cuales se haya hecho la convocatoria. A la apertura de un período extraordinario de sesiones, precederá solamente una sesión previa para designar la Directiva.
+El Congreso solo podrá sesionar con la asistencia de mas de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 24.
 
-Si el día señalado para la instalación del Congreso, no se presentaren todos los Diputados electos; o si una vez instalado no hubiere quórum para la celebración de su primer período ordinario, los que estuvieren presentes compelerán a los ausentes incluyendo a los suplentes, para que concurran a la próxima sesión, la que no deberá rebasar el término de cinco días a la fecha de la instalación, apercibiéndolos hasta en dos ocasiones, de que en caso de que dejaran de comparecer injustificadamente uno u otro se declarará vacante el puesto y suspendidos ambos en el uso y goce de sus derechos de ciudadanos, durante un año.
+Si el día señalado para la instalación del Congreso, no se presentaren todos los Diputados electos; o si una vez instalado no hubiere quórum para la celebración de las sesiones, los que estuvieren presentes compelerán a los ausentes, para que concurran a la próxima sesión, la que no deberá rebasar el término de cinco días a la fecha de la instalación o de la sesión, apercibiéndolos hasta en dos ocasiones, de que en caso de que dejaren de comparecer injustificadamente se llamará a los suplentes. Si estos incurrieren en la misma omisión, se declarará vacante el puesto, obligándose inmediatamente a convocar a elecciones extraordinarias, conforme a la Ley de la materia.
 
-En los períodos ordinarios y extraordinarios, el Congreso no podrá ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros; si no hubiere el quórum establecido por la Ley, los Diputados presentes exhortarán a los ausentes para que concurran dentro de los cinco días siguientes al del llamado. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante todo el tiempo que comprenda ese período de sesiones.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 25.
 
-Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la naturaleza de los negocios que van a tratarse, deban ser secretas.
+Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la naturaleza de los negocios que van a tratarse, deban ser privadas.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -515,7 +523,9 @@ XII.- Revisar, analizar, auditar, dictaminar y discutir anualmente para su aprob
 
 XIII.- Vigilar por medio de una Comisión de su seno el funcionamiento de la Contaduría Mayor de Hacienda;
 
-XIV.- Nombrar y remover al Contador Mayor de Hacienda y a los empleados de esa dependencia;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+XIV.- Nombrar y remover al Contador Mayor de Hacienda;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -579,13 +589,21 @@ XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las
 
 XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+
+XXXIV.- Erigirse en Asamblea de Transición, a mas tardar la primera semana del mes de Septiembre del año de la elección, cuyas funciones serán las siguientes:
+
+a).- Entregar credenciales de identificación y acceso a los Diputados electos que integran la nueva legislatura, a más tardar el 15 de Septiembre del año de la elección, cuyas constancias de mayoría y validez; de asignación por el principio de representación proporcional o por resolución firme que haya recibido el Congreso del Tribunal de Justicia Electoral del Poder Judicial del Estado;
+
+b).- Citar a los Diputados electos a la Junta Previa a celebrarse el día anterior del inicio del ejercicio de la legislatura;
+
+c).- Preparar y cumplir el proceso de entrega recepción de una Legislatura a otra, de todos los efectos administrativos, patrimoniales y legislativos, de conformidad con los procedimientos y demás asuntos que su Ley Orgánica y Reglamento Interior le atribuyan, a fin de conocer el estado que guarda el poder legislativo al término de cada ejercicio constitucional;
+
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
 
-XXXIV.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
+XXXV.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
 
-### CAPITULO IV.. DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+### CAPITULO IV.
 
 ###### ARTICULO 28.
 
@@ -683,47 +701,17 @@ Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámite
 
 Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario o los Secretarios del Congreso.
 
+> <small>(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 ###### ARTICULO 38.
 
-La víspera del día en que deban terminar las sesiones ordinarias, el Congreso nombrará para el tiempo de su receso, una Comisión Permanente compuesta de diez Diputados en ejercicio, de los cuales siete funcionarán como propietarios y tres quedarán como suplentes o supernumerarios.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2001)
 
 ###### ARTICULO 39.
 
-Son atribuciones de la Comisión Permanente:
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
-
-I.- Acordar por sí en los casos que estime urgente o a propuesta del Ejecutivo Estatal, la convocatoria al Congreso a período extraordinario de sesiones, mediante el voto de la mayoría de los diputados presentes. La convocatoria señalará el asunto o los asuntos a tratar, pudiendo hacer la convocatoria para lugar distinto de la capital del Estado, cuando las circunstancias así lo exijan; en caso de que la convocatoria sea a propuesta del Ejecutivo, la Comisión tendrá cinco días hábiles para resolver la petición, en caso contrario se entenderá aceptada;
-
-II.- Conceder las licencias y permisos de la competencia del Congreso;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
-
-III.- Recibir y turnar las modificaciones a los presupuestos de ingresos municipales, que propongan los respectivos Ayuntamientos;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
-
-IV.- Entregar a la Mesa Directiva de la Legislatura entrante, el acta administrativa de entrega y recepción, en el que se describa el estado que guarden los recursos financieros, humanos y materiales que se les haya asignado para el ejercicio de sus atribuciones, sujetándose al procedimiento que establezca la ley de la materia;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
-
-V.- Informar sobre los asuntos que en las últimas sesiones hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1999)</small>
-
-VI.- Constituirse como Comisión Instaladora;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
-
-VII.- Entregar credenciales de identificación y acceso, a más tardar el día 15 de septiembre del año de la elección, a los Diputados electos que integran la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación por el principio de representación proporcional, o por resolución firme del Tribunal de Justicia Electoral, haya recibido el Congreso;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
-
-VIII.- Citar a los Diputados electos a la sesión previa el día anterior al inicio del primer Período Ordinario de la Legislatura entrante, y
-
-IX.- Las demás que le concede esta Constitución.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2001)
 
 ## TITULO CUARTO
 
@@ -783,11 +771,11 @@ Los impedimentos para volver a ocupar el cargo de Gobernador son los que consign
 
 El Gobernador será electo cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de Noviembre posterior a su elección.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 45.
 
-El Gobernador podrá ausentarse del Territorio del Estado o separarse de sus funciones hasta 30 días dando aviso al Congreso o a la Comisión Permanente, y en esos casos el Secretario de Gobierno se hará cargo del Despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
+El Gobernador podrá ausentarse del Territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
 ###### ARTICULO 46.
 
@@ -811,17 +799,17 @@ V.- Si transcurridos seis meses y convocado por el Congreso, el Gobernador ausen
 
 VI.- Las demás que establezca expresamente esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
 
-En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificarse éstas en un término no mayor de cuatro meses posteriores a la convocatoria. Si estuviere en receso, la Comisión Permanente convocará al Congreso dentro de las veinticuatro horas siguientes a un período extraordinario, para que designe al Gobernador Provisional.
+En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
 
 La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
 
-Si la falta absoluta ocurriere después de los dos primeros años, y el Congreso estuviere en funciones, designará por mayoría absoluta un Gobernador Sustituto que termine el período. Si el Congreso no estuviere en funciones, la Comisión Permanente convocará dentro de las veinticuatro horas siguientes, a un período extraordinario de sesiones, para que el Congreso en un término de ocho días designe al Gobernador Sustituto; caso en el cual el Secretario de Gobierno se hará cargo del despacho de conformidad con lo dispuesto por el artículo 45 de esta Constitución.
+Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
 
@@ -857,9 +845,7 @@ V.- Asistir a la apertura del primer período de sesiones ordinarias del Congres
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
-
-VII.- Proponer al Congreso o a la Comisión Permanente, convoquen a período extraordinario de sesiones, exponiendo los motivos que lo justifiquen y precisando las iniciativas o asuntos que serán objeto del mismo;
+VII.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2001)
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1757,15 +1743,21 @@ Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin p
 
 Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que les faltare para cumplir el período correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 109.
 
-El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en los siguientes términos.
+El Gobernador del Estado rendirá la protesta de Ley ante el Congreso en los siguientes términos:
 
 " Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
-El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
+Igualmente los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso, en la siguiente forma:
+
+El Presidente del Congreso preguntará:
+
+" Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis, que la Nación y el Estado os lo demanden".
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
@@ -1922,8 +1914,6 @@ El Gobernador Provisional cesará el día en que, conforme a la presente Constit
 ###### ARTICULO DECIMO NOVENO.
 
 Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
-
-Mexicali, B. Cfa., 15 de Agosto de 1953.
 
 Dip. Presidente,
 
@@ -2418,3 +2408,11 @@ PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2001, el nombramiento de los Magistrados que iniciarán su cargo a partir del primero de noviembre del 2001.
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
+
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
