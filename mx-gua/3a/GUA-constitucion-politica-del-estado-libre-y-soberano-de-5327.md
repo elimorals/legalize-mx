@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2003-04-15"
+last_updated: "2003-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -48,6 +48,10 @@ CONSTITUCION.
 ###### ARTICULO 1.
 
 En el Estado de Guanajuato todas las personas gozan de la protección que les otorgan las garantías establecidas por la Constitución Política de los Estados Unidos Mexicanos; por esta Constitución y sus Leyes Reglamentarias.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+Queda prohibido todo tipo de discriminación que atente contra la dignidad humana, o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -143,9 +147,11 @@ Las determinaciones del Ministerio Público sobre el no ejercicio y desistimient
 
 Cuando así lo disponga la Ley, ofendido e inculpado tendrán derecho a recibir gratuitamente servicios de mediación y conciliación oficiales.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
-En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
+En todo proceso de orden penal, el inculpado y la víctima o el ofendido, tendrán las siguientes garantías:
+
+A. Del inculpado:
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -154,6 +160,8 @@ I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provis
 El monto y la forma de caución que se fije, deberán ser asequibles para el inculpado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el Juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, puede imponerse al inculpado.
 
 La Ley determinará los casos graves en los cuales el Juez podrá revocar la libertad provisional;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1994)</small>
 
 II.- No podrá ser obligado a declarar, queda prohibida y será sancionada por la Ley penal, toda incomunicación, intimidación o tortura, la confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
 
@@ -164,6 +172,36 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 La entrega de indiciados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de cualquier Entidad Federativa y el Distrito Federal, se realizarán con la intervención de la Procuraduría General de Justicia del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+III.- Las demás que otorga la Constitución de la República.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+B.- De la víctima o el ofendido:
+
+I.- A recibir asesoría jurídica; ser informado desde su primera intervención en la averiguación previa, de los derechos que en su favor establecen la Constitución General de la República, esta Constitución, y demás leyes aplicables; y de la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del procedimiento penal;
+
+II.- A contar con asistencia legal en la averiguación previa;
+
+III.- A someterse a la práctica de exámenes físicos o mentales sólo con su expreso consentimiento;
+
+IV.- Que se le reciban por el Ministerio Público todos los datos o elementos de prueba con los que cuente en el procedimiento penal, que pudieran conducir a acreditar los elementos del tipo penal, la probable responsabilidad del inculpado y la procedencia y monto de la reparación del daño, así como a que se desahoguen las diligencias correspondientes;
+
+V.- Cuando la víctima o el ofendido sean menores de edad, a no carearse con el inculpado, siempre que se trate de delitos sexuales o secuestro. En estos casos, se llevarán las declaraciones en las condiciones que establezca la Ley;
+
+VI.- Recibir, atención médica, psicológica y asistencia social de urgencia;
+
+VII.- Que se le repare el daño en los términos de Ley;
+
+La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño y para garantizar su pago, mediante medidas precautorias de aseguramiento de bienes del inculpado u obligado;
+
+VIII.- Contar con seguridad, por lo que la autoridad investigadora o jurisdiccional deberán tomar las medidas necesarias para la protección de la víctima y sus familiares; de su domicilio y posesiones cuando se pongan en peligro por el probable responsable o sus cómplices, mediante actos de intimidación o represalias;
+
+IX.- Gozar del anonimato sobre su victimización en los medios de comunicación, para proteger su intimidad; y
+
+X.- Las demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -703,11 +741,11 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51.
 
-El Congreso del Estado tendrá cada año dos Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, y el segundo comenzará el 15 de mayo y terminará el 10 de agosto.
+El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1973,9 +2011,9 @@ Las Leyes no establecerán exenciones o subsidios respecto de las mencionadas co
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
-## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1992,6 +2030,10 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 ###### ARTICULO 123.
 
 Los Servidores Públicos son responsables por los delitos que cometan y por las faltas administrativas en que incurran, en los términos que señalen las Leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+El Estado y sus Municipios son responsables en forma directa y objetiva de los daños que, con motivo de su actividad administrativa irregular, ocasionen a los particulares en sus bienes o derechos, por lo que el afectado tendrá derecho a recibir una indemnización, que se determinará conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2662,3 +2704,11 @@ En tanto el Órgano de Fiscalización Superior no empiece a ejercer las atribuci
 Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
 
 Una vez creado el Órgano de Fiscalización Superior, todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Órgano.
+
+P.O. 23 DE DICIEMBRE DE 2003.
+
+Artículo Primero.- El presente decreto entrará en vigor el día 1º primero de enero del 2004 dos mil cuatro.
+
+Artículo Segundo.- El Estado y los Municipios deberán contemplar en sus respectivos presupuestos de egresos, a partir de los correspondientes al ejercicio fiscal del 2004 dos mil cuatro, una partida especial para hacer frente a su responsabilidad patrimonial.
+
+Artículo Tercero.- La reforma al artículo 51 entrará en vigor a partir del 25 veinticinco de septiembre del año 2004 dos mil cuatro.
