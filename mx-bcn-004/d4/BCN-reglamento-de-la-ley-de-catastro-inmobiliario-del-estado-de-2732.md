@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-catastro-inmobiliario-del-estado-de-273
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-02"
-last_updated: "2000-09-08"
+last_updated: "2004-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 1994.
 
@@ -389,6 +389,10 @@ La Dirección podrá elaborar avalúos para los fines establecidos en la Ley, co
 
 Para ser perito valuador para los efectos de este Reglamento se requiere contar con el registro vigente de perito fiscal Municipal en la especialidad de inmuebles que se lleva en la Tesorería del Municipio de Tijuana.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+
+Este deberá elaborar al menos una vez por año, un peritaje gratuito a favor del Ayuntamiento, respecto de los Monumentos, Esculturas, Estatuas y Placas Conmemorativas, de acuerdo a lo establecido por el ordenamiento de la materia, y sujetándose a lo establecido por el resto de los reglamentos municipales.
+
 ### CAPITULO TERCERO. DE LOS SERVICIOS TOPOGRAFICOS
 
 ###### ARTICULO 50.
@@ -670,3 +674,7 @@ PRIMERO. El presente acuerdo entra en vigor al día siguiente de su publicación
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
 
 TERCERO. Las personas que actualmente integran la lista de peritos deslindadores a que se refiere el artículo 57, deberán presentar examen de actualización de acuerdo al calendario que para el año 2001 establezca la Dirección de Administración Urbana.
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del estado y deberán publicarse en un Periódico de mayor circulación en la localidad para el conocimiento de la ciudadanía. SEGUNDO.- Se derogan las disposiciones que se opongan a las presentes reformas.
