@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1941-12-24"
+last_updated: "1942-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 1942.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -221,9 +221,11 @@ Se hará constar en el expediente el número y fecha del periódico en que se hi
 
 La lista expresará solamente los nombres y apellidos de los interesados o de sus procuradores, y el juicio en que hubiese sido dictada la resolución.
 
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 1942)</small>
+
 ###### ARTICULO 36.
 
-Además de los casos a que se refiere el artículo 26 de este Código, la notificación se hará personalmente cuando se hubiere dejado de actuar durante un mes o más en el expediente, o se trate de personas extrañas al juicio o de casos muy urgentes en concepto del Juez.
+Además de los casos a que se refiere el artículo 26 de este Código, la notificación se hará personalmente cuando se hubiere dejado de actuar durante seis meses o más en el expediente, o se trate de personas extrañas al juicio o de casos muy urgentes en concepto del Juez.
 
 ###### ARTICULO 37.
 
@@ -2025,11 +2027,11 @@ El señalamiento de constancias a que se refiere el artículo anterior, se hará
 
 La remisión de autos o del testimonio para la substanciación se hará dentro de los tres días siguientes al vencimiento del término señalado en el párrafo anterior.
 
-(F. DE E., D.O. 8 DE ENERO DE 1942) (F. DE E., D.O. 15 DE ENERO DE 1942)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 1 DE OCTUBRE DE 1942)</small>
 
 ###### ARTICULO 376.
 
-Salvo especial disposición en contrario, las sentencias definitivas son apelables. Las demás resoluciones sólo son apelables cuando la ley lo establezca, expresamente, y además, si son autos, cuando la disposición que contienen impida en términos absolutos la continuación del procedimiento.
+Salvo especial disposición en contrario, las sentencias definitivas son apelables. Las demás resoluciones sólo son apelables cuando la ley lo establezca, expresamente, y además, si son autos, cuando la disposición que contienen impida en términos absolutos la continuación del procedimiento o cause un gravamen que no pueda repararse en la sentencia.
 
 ###### ARTICULO 377.
 
@@ -2465,9 +2467,11 @@ El día del remate, a la hora señalada, pasará el Juez personalmente lista de 
 
 Procederá en seguida a la lectura pública y revisión de las propuestas presentadas desechando desde luego las que no contengan postura legal, y las que no estuvieren abonadas conforme al artículo siguiente.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 1 DE OCTUBRE DE 1942)</small>
+
 ###### ARTICULO 462.
 
-Los postores exhibirán con su postura el veinticinco por ciento de su importe total; de lo contrario no serán admitidos. Esta cantidad les será devuelta en el acto del remate en caso de que no hubiere fincado en su favor. La suma exhibida por el rematador se mandará depositar conforme al artículo 435, al terminarse el acto, y se agregará a los autos el billete respectivo.
+Los postores exhibirán con su postura el veinticinco por ciento de su importe total; de lo contrario, no serán admitidos. Si el acreedor se ostenta postor, no tendrá esta obligación. La cantidad exhibida les será devuelta en el acto del remate en caso de que no hubiere fincado en su favor. La suma exhibida por el rematador se mandará depositar conforme el artículo 435, al terminarse el acto, y se agregará a los autos el billete respectivo.
 
 ###### ARTICULO 463.
 
@@ -2543,9 +2547,11 @@ Si en la primera almoneda no hubiere postura legal, se citará a otra, publicán
 
 Si en la segunda almoneda tampoco hubiere postura legal, se citará para la tercera, en la forma establecida en el artículo anterior.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 1 DE OCTUBRE DE 1942)</small>
+
 ###### ARTICULO 478.
 
-En la tercera almoneda, la venta se hará al mejor postor.
+En la tercera almoneda, la venta se hará al mejor postor; pero los postores deberán exhibir en el acto mismo del remate el importe total de su postura, así como el de las pujas y mejoras que hicieren.
 
 ###### ARTICULO 479.
 
@@ -2747,9 +2753,11 @@ La acción que deduce el tercero coadyuvante deberá juzgarse con la principal e
 
 Las tercerías excluyentes pueden oponerse en cualquier juicio, cualquiera que sea su estado, con tal de que, si son de dominio, no se haya dado posesión de los bienes al rematante o al actor, en su caso, y que si son de preferencia, no se haya hecho el pago al actor.
 
+> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 1942)</small>
+
 ###### ARTICULO 513.
 
-Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen; se ventilarán en juicio ordinario y deberán substanciarse y decidirse por cuerda separada, oyendo al demandante y al demandado. El juicio principal seguirá sus trámites hasta antes del remate, y desde entonces se suspenderán los procedimientos hasta que se decida la tercería.
+Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen; se ventilarán en juicio ordinario y deberán sustanciarse y decidirse por cuerda separada, oyendo al demandante y al demandado. Si la tercería fuere de dominio, el juicio principal seguirá sus trámites hasta antes del remate y desde entonces se suspenderán los procedimientos hasta que se decida la tercería; y, si fuere de preferencia, seguirán los procedimientos del juicio principal en que se interponga hasta la realización de los bienes embargados, suspendiéndose el pago que se hará, definida la tercería, al acreedor que tenga mejor derecho. Entre tanto se decide ésta, se depositará el precio de la venta conforme al artículo 435. Sin embargo, si el actor en el juicio quisiere ostentarse como rematador, deberá garantizar su postura y pagar el precio como si fuere un extraño.
 
 ###### ARTICULO 514.
 
@@ -6130,3 +6138,9 @@ H. CANTO E.
 El Secretario General
 
 Gonzalo López M.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O. 1 DE OCTUBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 1 Y 2 DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE YUCATAN.
