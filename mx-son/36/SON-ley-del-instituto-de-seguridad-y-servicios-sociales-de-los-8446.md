@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1974-04-17"
+last_updated: "1974-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE ABRIL DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE MAYO DE 1974.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -449,11 +449,11 @@ Los pensionistas gozarán de los beneficios que establece este artículo, con su
 
 Los préstamos hipotecarios se sujetarán, en lo conducente a las condiciones y facilidades que establece el artículo 40 y se cubrirán mediante amortizaciones mensuales que incluirán capital e intereses.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, B.O. 18 DE MAYO DE 1974)</small>
 
 ###### Artículo 45.
 
-El instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base que las amortizaciones mensuales no deben sobrepasar del 25% del sueldo o sueldos que el trabajador disfrute y por los cuales se le practiquen descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios, aún tratándose de préstamos mancomunados será de $80,000.00.
+El Instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base que las amortizaciones no deben sobrepasar de 25 % del sueldo o sueldos que el trabajador percibía y por los cuales se le practiquen descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, este podrá sobrepasar el máximo fijado para su sueldo, en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios, aun tratándose de prestamos mancomunados, será de Ciento Cincuenta Mil Pesos.
 
 ###### Artículo 46.
 
@@ -543,11 +543,17 @@ DE LOS PRESTAMOS PRENDARIOS PARA LA ADQUISICION DE BIENES DE CONSUMO DURADERO.
 
 Los trabajadores que hayan contribuido por más de seis meses al Instituto podrán obtener préstamos prendarios para la adquisición de bienes de consumo duradero, constituyendo la prenda el propio bien adquirido. Este tipo de operaciones, se realizarán de acuerdo a las siguientes bases:
 
-PRIMERA.- El monto de los préstamos prendarios podrá ser hasta la cantidad correspondiente a cinco veces el sueldo mensual del trabajador. Un mismo trabajador podrá obtener varios préstamos si la suma de todos ellos no sobrepasa esa cantidad.
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
 
-SEGUNDA.- Para el otorgamiento de los préstamos prendarios se considerarán bienes de consumo duradero los siguientes artículos: muebles de recámaras, muebles de cocina, muebles de comedor, muebles de sala, estufas, refrigeradores, calentadores de agua y máquinas de lavar.
+PRIMERA.- El monto de los préstamos prendarios podrá ser hasta la cantidad correspondiente a diez veces el sueldo mensual del trabajador, sin exceder de Cincuenta Mil Pesos. Un mismo trabajador podrá obtener varios préstamos si la suma de todos ellos no sobrepasa esta última cantidad.
 
-TERCERA.- El plazo de los préstamos puede ser hasta un máximo de dos años.
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
+
+SEGUNDA.- Para otorgamiento de préstamos prendarios se considerarán bienes de consumo duradero los siguientes: muebles de recámara, muebles de cocina, muebles de comedor, muebles de sala, estufas, refrigeradores, calentadores de agua, máquinas de lavar y automóviles nuevos.
+
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
+
+TERCERA.- El plazo de amortización de los préstamos puede ser hasta un máximo de tres años.
 
 CUARTA.- Los préstamos prendarios causarán el interés que fije el Reglamento respectivo pero en ningún caso podrá ser mayor del doce por ciento anual, calculando sobre saldos insolutos.
 
@@ -569,7 +575,11 @@ OCTAVA.- La falta de pago de dos mensualidades dará derecho al Instituto para d
 
 NOVENA.- Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su vencimiento se pagarán con cargo a las aportaciones del adeudor (sic), siempre que las mismas no estén garantizando préstamos a corto plazo; si ese fondo no fuera suficiente el Instituto podrá recoger el bien constituido en prenda.
 
-DECIMA.- El Instituto adquiere la total responsabilidad del préstamo otorgado al trabajador y la garantía del mismo lo constituye el bien adquirido del cual será depositario el propio trabajador, pero en ningún caso se hará responsable el Instituto de la calidad del propio bien ni de su mantenimiento.
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
+
+DECIMA.- El Instituto adquiere la total responsabilidad del préstamo otorgado al trabajador y la garantía del mismo lo constituye el bien adquirido, del cual será depositario el propio trabajador, pero en ningún caso se hará responsable el Instituto de la calidad del propio bien ni de su mantenimiento.
+
+Tratándose de la adquisición de automóviles nuevos será requisito especial para el otorgamiento del crédito correspondiente que dicho automóvil se asegure por todo el tiempo de amortización del préstamo, a cuyo efecto el Instituto queda facultado para contratar el seguro correspondiente a cuenta del acreditado.
 
 DECIMA PRIMERA.- El otorgamiento de créditos prendarios estará condicionado a la situación económica que guarde el Instituto y al criterio de la Junta Directiva del mismo desee imponer al respecto con el fin de cuidar que el asegurado haga una buena inversión y que sus ingresos le dén la capacidad de pago necesaria.
 
@@ -939,7 +949,7 @@ VIII.- Organizar sus dependencias y fijar la estructura y funcionamiento de las 
 
 IX.- Expedir los reglamentos para la debida prestación de sus servicios y de su organización interna; y
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963
 
 X.- Obtener prestamos, créditos financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
 
@@ -1354,3 +1364,9 @@ B.O. 17 DE ABRIL DE 1974.
 PRIMERO.- Las personas que hubieren presentado sus avisos de terminación de obra durante la vigencia de la Ley que se abroga y preceptos derogados tendrán derechos a las franquicias en los términos consagrados por aquellas disposiciones.
 
 SEGUNDO.- Esta Ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 18 DE MAYO DE 1974.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
