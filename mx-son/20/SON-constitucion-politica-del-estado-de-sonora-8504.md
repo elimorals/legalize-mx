@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1995-01-19"
+last_updated: "1996-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1996.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -403,9 +403,11 @@ La Ley establecerá la demarcación de cada distrito electoral.
 
 La asignación de Diputados, por el principio de representación proporcional, se hará de acuerdo con la fórmula electoral que se establezca en la Ley, y con sujeción a las siguientes bases:
 
-I. Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional todo aquel partido político que obtenga el uno punto cinco por ciento o más de la votación total emitida.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1996)</small>
 
-II. El partido político que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de representación proporcional hasta completar un máximo de 21 diputados por ambos sistemas.
+I. Tendrá derecho a que le sean asignados diputados por el principio de representación proporcional, todo aquel partido político que obtenga el tres porciento o más de la votación válida emitida.
+
+II. (DEROGADA, B.O. 20 DE JUNIO DE 1996)
 
 III. Sólo tendrán derecho a Diputados de representación proporcional los partidos políticos que hayan registrado candidatos a Diputados por el principio de mayoría relativa, en el número de distritos que señale la Ley.
 
@@ -440,6 +442,10 @@ VIII. No haber sido diputado o senador propietario al Congreso de la Unión, den
 > <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
 IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1996)</small>
+
+X. No haber sido Magistrado Numerario o Supernumerario del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la Ley.
 
 ###### Artículo 34.
 
@@ -699,7 +705,9 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-XX. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE JUNIO DE 1996)</small>
+
+XX. Para nombrar a los Magistrados Numerarios y Supernumerarios del Tribunal Estatal Electoral y a los consejeros electorales propietarios y suplentes comunes del Consejo Estatal Electoral según el procedimiento establecido en la Ley.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -916,6 +924,10 @@ VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cua
 > <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
 VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1996)</small>
+
+VIII. No haber sido Magistrado Numerario o Supernumerario del Tribunal Estatal Electoral, ni consejero estatal propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separen del cargo dentro del plazo que establezca la ley.
 
 ###### Artículo 71.
 
@@ -1662,6 +1674,10 @@ IV. No haber sido condenado por la Comisión de un delito intencional, aún cuan
 > <small>(ADICIONADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 V. En el caso del Presidente Municipal y el Síndico, tener 21 años cumplidos; tratándose de los Regidores, tener 18 años cumplidos.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1996)</small>
+
+VI. No haber sido Magistrado Numerario o Supernumerario del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separen del cargo del plazo que establezca la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
@@ -2624,6 +2640,12 @@ B.O. 19 DE ENERO DE 1995.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor en todo el Estado al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
