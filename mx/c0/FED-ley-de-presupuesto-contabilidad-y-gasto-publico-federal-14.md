@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1980-12-30"
+last_updated: "1982-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -405,7 +405,7 @@ Las disposiciones reglamentarias y las prácticas administrativas en uso a la fe
 
 ###### ARTICULO CUARTO.
 
-La implantación de los presupuestos elaborados con base en programas que señalen objetivos, metas y unidades responsables, cuyas cifras estén fundadas en costos, a que se refiere el artículo 13 de esta ley se hará paulatinamente de acuerdo con las posibilidades técnicas de las entidades.
+(DEROGADO, D.O.F. 11 DE ENERO DE 1982)
 
 ###### ARTICULO QUINTO.
 
@@ -442,3 +442,9 @@ D.O.F. 30 DE DICIEMBRE DE 1980.
 PRIMERO.- Este Decreto entrará en vigor el 1o. de enero de 1981.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
