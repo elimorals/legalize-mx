@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1985-12-31"
+last_updated: "1986-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -198,65 +198,41 @@ Para los efectos de la participación de los trabajadores en las utilidades de l
 
 Dentro del mes siguiente a la fecha en que termine la liquidación de una sociedad, el liquidador deberá presentar la declaración final del ejercicio de liquidación; cuando no sea posible efectuar la liquidación total del activo dentro de los seis meses siguientes a la fecha en que la sociedad entró en liquidación, el liquidador deberá presentar declaraciones semestrales, dentro del mes siguiente a aquél en que termine cada semestre, en tanto se lleve a cabo la liquidación total del activo. En las declaraciones semestrales el liquidador determinará el impuesto correspondiente al periodo transcurrido desde el inicio de la liquidación y acreditará los pagos efectuados con las declaraciones; en estas declaraciones no se considerarán los activos de establecimientos ubicados en el extranjero. La última declaración será la del ejercicio de liquidación, incluirá los activos de establecimientos ubicados en el extranjero y se deberá presentar dentro del mes siguiente a aquél en que termine la liquidación aún cuando no hayan transcurrido seis meses desde la última declaración semestral.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 12.
 
-Los contribuyentes efectuarán dos pagos provisionales cuatrimestrales y un trimestral a cuenta del impuesto del ejercicio, a más tardar el día 15 de los meses 5o., 9o., y 12 de su ejercicio, respectivamente, conforme a las bases que a continuación se señalan:
+Los contribuyentes efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 7 del mes inmediato posterior a aquél al que corresponda el pago, conforme a las bases que a continuación se señalan:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+I.- Se calcularán el coeficiente de utilidad del último ejercicio de doce meses restando a la utilidad fiscal, la deducción adicional establecida en el artículo 51 de esta Ley y los ingresos por dividendos o utilidades percibidos durante el mismo período y el resultado que se obtenga se dividirá entre la cantidad que resulte de restar a los ingresos totales obtenidos de dividendos o utilidades percibidos en el citado ejercicio.
 
-I.- Se restará a la utilidad fiscal correspondiente al ejercicio inmediato anterior, la deducción adicional establecida en el artículo 51 de esta Ley y los ingresos por dividendos o utilidades percibidos durante el mismo periodo, el resultado que se obtenga se dividirá entre la cantidad que resulte de restar a los ingresos totales obtenidos, los dividendos o utilidades percibidos, en el citado ejercicio.
+Tratándose del segundo ejercicio fiscal, el primer pago provisional comprenderá el primero, el segundo y el tercer mes del ejercicio, y se considerará el coeficiente de utilidad fiscal del primer ejercicio, aun cuando no hubiera sido de doce meses.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+II.- Se obtendrá la utilidad fiscal para el pago provisional, restando al total de los ingresos obtenidos entre el inicio del ejercicio y el último día del mes al que corresponda el pago, los ingresos por dividendos o utilidades obtenidos durante el mismo período y aplicando a la diferencia, el coeficiente de utilidad que resulte conforme a la fracción anterior.
 
-Para obtener el factor a que se refiere el párrafo anterior se considerará la utilidad fiscal del último ejercicio de doce meses, salvo que se trate del segundo ejercicio fiscal, en el que se considerará la utilidad fiscal del primero.
+Al resultado obtenido conforme al párrafo anterior se le sumará o restará, según sea el caso, la diferencia que se obtenga de restar a los ingresos por dividendos obtenidos entre la fecha del inicio del ejercicio y el último día del mes al que corresponda el pago, los dividendos o utilidades que hubiera pagado en el mismo período, salvo los conceptos comprendidos en las fracciones IV, V, VI y VII del artículo 120 de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+III.- Los pagos provisionales serán las cantidades que resulten de aplicar el 42% a la utilidad fiscal que se determine en los términos de la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
-II.- Del total de ingresos obtenidos hasta el último día de los meses 4o., 8o. y 11o. del ejercicio, se restarán los ingresos por dividendos o utilidades obtenidos durante el mismo período, aplicando al resultado el factor que se obtenga conforme a la fracción anterior.
+En el ejercicio de iniciación de operaciones, excepto en los supuestos a que se refiere el artículo 161 de esta Ley, los pagos provisionales establecidos en este artículo serán el 42% de los ingresos por dividendos que se obtengan durante período al cual corresponda el pago provisional de que se trata. En el caso del ejercicio inmediato siguiente al de iniciación de operaciones, cuando éste último sea irregular, los pagos provisionales se calcularán en los términos de las fracciones I, II y III de este artículo y además, conforme a lo previsto por este párrafo.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Para calcular los pagos provisionales no se considerarán los ingresos atribuibles a los establecimientos de los contribuyentes ubicados en el extranjero. Tratándose del ejercicio de liquidación de una sociedad, los pagos provisionales se harán conforme a lo dispuesto en el artículo 11 de esta Ley.
 
-III.- La cantidad obtenida en los términos de la fracción que antecede se dividirá entre cuatro, ocho u once, según se trate del primero, del segundo o del tercer pago provisional y la cantidad así obtenida se multiplicará por doce.
+Los dividendos o utilidades distribuidos en acciones de la sociedad de que se trate o los que se reinviertan dentro de los treinta días siguientes a su distribución en la suscripción o pago de aumento de capital de dicha sociedad, no deberán incluirse como ingresos o restarse para fines de este artículo.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Con el propósito de que los pagos provisionales mantengan relación con el impuesto definitivo a pagar, el monto de los mismos se podrá disminuir, cuando proceda, en los casos y cumpliendo los requisitos que señale el Reglamento de esta Ley.
 
-IV.- Se restarán de los ingresos por dividendos o utilidades obtenidos hasta el último día de los meses 4o, 8o. y 11o. del ejercicio los dividendos o utilidades que se hubieran pagado en el mismo periodo , excepto los conceptos comprendidos en las fracciones IV, V, VI y VII del artículo 120 de esta Ley; la cantidad obtenida se sumará o se restará según sea el caso, a la que resulte conforme a la fracción anterior y el resultado será la utilidad fiscal o la pérdida fiscal proporcional del ejercicio.
+Los contribuyentes deberán presentar las declaraciones de pago provisional, aun cuando no haya cantidad a enterar.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
-V.- El primer pago provisional será igual a la tercera parte del impuesto que resulte de aplicar la tarifa del artículo 13 de esta Ley, a la utilidad fiscal proporcional del ejercicio a que se refiere la fracción que antecede.
+###### ARTICULO 12-A.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+No se harán pagos provisionales en los términos del artículo anterior, en los siguientes casos:
 
-VI.- El segundo pago provisional será igual a las dos terceras partes del impuesto que resulte de aplicar la tarifa del artículo 13 de esta Ley, a la utilidad fiscal proporcional del ejercicio a que se refiere la fracción IV de este artículo acreditando el importe del primer pago provisional.
+I. Cuando en el ejercicio inmediato anterior se hubiera obtenido pérdida fiscal ajustada, sin considerar la deducción por dividendos distribuidos correspondiente al ejercicio anterior.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-VII.- El tercer pago provisional será la cantidad que resulte de aplicar la tarifa del artículo 13 de esta Ley a la utilidad fiscal proporcional del ejercicio a que se refiere la fracción IV de este artículo, acreditando el importe de los dos pagos provisionales anteriores.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-En el caso del ejercicio de iniciación de operaciones, excepto en los supuestos a que se refiere el artículo 161 de esta Ley, así como tratándose del ejercicio inmediato siguiente, cuando aquél sea irregular, los pagos provisionales establecidos en este artículo serán el 42% de los ingresos por dividendos que se obtengan durante el período al cual corresponda el pago provisional de que se trate.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-El monto de los pagos provisionales, se podrá disminuir en los casos y cumpliendo los requisitos que señale el Reglamento de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-No se harán pagos provisionales en los casos en que la pérdida fiscal ajustada, sin considerar la deducción por dividendos distribuidos correspondiente al ejercicio anterior, o cuando la pérdida fiscal ajustada, sin considerar la deducción por dividendos distribuidos pendiente de disminuir de ejercicios anteriores, exceda al monto de la utilidad fiscal proporcional del ejercicio a que se refiere la fracción IV de éste artículo. Si no excede de dicho monto, la parte correspondiente a la pérdida pendiente de disminuir se restará de la utilidad fiscal proporcional del ejercicio y sobre la diferencia se hará el cálculo de los pagos provisionales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Los contribuyentes deberán presentar las declaraciones a que se refiere este artículo, aun cuando no haya pago provisional a enterar.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Para calcular los pagos provisionales no se considerarán los ingresos atribuibles a los establecimientos de los contribuyentes ubicados en el extranjero. Tratándose del ejercicio de liquidación, los pagos provisionales se harán conforme a lo dispuesto en el artículo 11 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Los dividendos o utilidades distribuidos en acciones de la sociedad de que se trate o los que se reinviertan dentro de los 30 días siguientes a su distribución en la suscripción o pago de aumento de capital de dicha sociedad, no deberán incluirse como ingresos o deducciones parafines de las fracciones I, II y IV de este artículo.
+II. Cuando la pérdida fiscal ajustada pendiente de disminuir de ejercicios anteriores, exceda a la utilidad fiscal sobre la cual se debe calcular el pago provisional. En el mes en que la pérdida fiscal ajustada no exceda a la utilidad fiscal señalada, se calculará el pago provisional del mes aplicando el 42% a la parte de la utilidad del período que exceda a dicha pérdida fiscal ajustada.
 
 ###### ARTICULO 13.
 
@@ -1810,13 +1786,17 @@ Las personas físicas que hayan optado por pagar el impuesto individualmente, po
 
 Las personas morales con fines no lucrativos o las sociedades mercantiles, no acumularán a sus demás ingresos aquéllos que correspondan a sus integrantes que hubieran optado por pagar en forma individual, ni tampoco efectuarán las deducciones que a ellos corresponda, debiendo entregar a la persona física que opte por pagar el impuesto individualmente, los comprobantes de los gastos realizados en el ejercicio relativos al vehículo administrado por dicha persona; quienes hubieran efectuado opción a que se refiere este párrafo, podrán deducir la parte que proporcionalmente les corresponda de los gastos comunes efectuados por las personas morales, siempre que cumplan con los requisitos que establezca el Reglamento de esta Ley. Las personas morales a que se refiere este párrafo dentro de los quince días siguientes a aquél en que sus integrantes les comuniquen que optan por pagar el impuesto en forma individual deberán comunicar a la Secretaría de Hacienda y Crédito Público quiénes de sus integrantes ejercieron la opción a que se refiere este artículo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 69.
 
-Las personas morales con fines no lucrativos efectuarán pagos provisionales a cuenta del impuesto anual de sus integrantes, durante los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional será el 20% de la diferencia que resulte de disminuir a los ingresos del cuatrimestre anterior, el monto de las deducciones que correspondan conforme al Título IV. Para este efecto considerarán, en su caso, tantos salarios mínimos generales de una o varias zonas económicas, como integrantes, personas físicas, tenga la persona moral. No se efectuará esta deducción por los integrantes que obtengan ingresos en el cuatrimestre de los señalados en el Capítulo I del Título IV de esta Ley.
+Las personas morales con fines no lucrativos efectuarán pagos provisionales a cuenta del impuesto anual de sus integrantes a más tardar el día 15 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional será el 20% de la diferencia que resulte de disminuir a los ingreso del cuatrimestre anterior, el monto de las deducciones que corresponda conforme al Titulo IV. Para este efecto considerarán, en su caso, tantos salarios mínimos generales de una o varias zonas económicas, como integrantes personas físicas tenga la persona moral. No se efectuará esta deducción por los integrantes que obtengan ingresos en el cuatrimestre de los señalados en el Capítulo I del Título IV de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Cuando la actividad de la persona moral de que se trate consista preponderantemente en prestación de servicios personales independientes, para determinar el pago provisional aplicará la tarifa del artículo 86 de esta Ley a la parte que corresponda a cada uno de sus integrantes de la diferencia entre los ingresos y deducciones a que se refiere el párrafo anterior y la suma de los resultados que correspondan a cada uno de ellos, será el pago provisional a efectuar.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Las personas morales que efectúen pagos por la prestación de servicios personales independientes a las personas señaladas en el párrafo que antecede, o cuando efectúen pagos por la concesión del uso o goce temporal de inmuebles a personas morales con fines no lucrativos, deberán retener como pago provisional el 10% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra los pagos provisionales que deban efectuar las personas morales a las que se les hizo la retención.
 
@@ -1824,15 +1804,27 @@ Las personas morales que efectúen pagos por la prestación de servicios persona
 
 Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas, en el mes de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 Las sociedades de inversión efectuarán pagos provisionales en los términos de este artículo pagando por los ingresos por dividendos o utilidades que perciban, el 42% sin deducción alguna.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Para el efecto de determinar el pago provisional no se incluirán los ingresos provenientes de fuente de riqueza ubicada en el extranjero, ni los ingresos señalados en el artículo 77 de esta Ley, ni los ingresos por enajenación de bienes, dividendos, intereses y premios siempre que, en su caso, el pago correspondiente se efectúe en los términos de los artículos 103, 121, 126 y 130 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 Quedan relevadas de presentar declaraciones provisionales las personas morales con fines no lucrativos, cuyo remanente distribuible en el año de calendario inmediato anterior no hubiera excedido de cuatro veces el salario mínimo general de la zona económica correspondiente al domicilio de la persona moral, elevado al año, así como las personas morales a que se refieren los artículos 70 y 73 de esta Ley, y las sociedades cooperativas de producción.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 El monto de los pagos provisionales podrá acreditarse por cada integrante, al presentar su declaración anual, en la parte que le corresponda.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 Las sociedades de inversión acreditarán contra el impuesto que deban retener por los dividendos o utilidades que distribuyan a sus integrantes, el que hubieran cubierto como pago provisional en los términos del primer párrafo de este artículo en la proporción que los dividendos o utilidades repartidos representen respecto de los cobrados por la sociedad en el mismo ejercicio.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Cuando las sociedades cooperativas de producción efectúen pagos a sus miembros por concepto de rendimientos incluyendo los anticipos, deberán cumplir con las obligaciones establecidas en el artículo 83 de esta Ley.
 
@@ -2198,9 +2190,13 @@ Tratándose de honorarios a miembros de consejos directivos, de vigilancia, cons
 
 Las personas que hagan pagos por los conceptos a que se refiere el artículo 79, efectuarán la retención aplicando al ingreso total por este concepto, una tasa que se calculará dividiendo el impuesto correspondiente al último sueldo mensual ordinario, entre dicho sueldo, el cociente se multiplicará por cien y el producto se expresará en por ciento. Cuando los pagos por estos conceptos sean inferiores el último sueldo mensual ordinario, la retención se calculará aplicándole la tarifa de este artículo.
 
-Los retenedores, personas morales a que se refiere de Título III de esta Ley obligados a efectuar pagos provisionales en los términos del artículo 69 de esta Ley y los retenedores personas físicas, enterarán bimestralmente las retenciones a que se refiere este artículo en los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
-Los contribuyentes que presten servicios subordinados a personas no obligadas a efectuar la retención de conformidad con el párrafo final del artículo 83 de esta Ley y los que obtengan ingresos provenientes, por estos conceptos, del extranjero, calcularán su pago provisional en los términos de este precepto y lo enterarán bimestralmente durante los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas.
+Las personas morales a que se refiere el Título II de esta Ley obligadas a efectuar pagos provisionales en los términos del artículo 69 de esta misma Ley y las personas físicas, enterarán bimestralmente las retenciones a que se refiere este artículo a más tardar el día 15 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+
+Los contribuyentes que presenten servicios subordinados a personas no obligadas a efectuar la retención, de conformidad con el párrafo final del artículo 83 de esta Ley, y los que obtengan ingresos provenientes del extranjero por estos conceptos, calcularán su pago provisional en los términos de este concepto y lo enterarán bimestralmente a más tardar el día 15 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2290,11 +2286,11 @@ Para los efectos de este Capítulo, los ingresos en Crédito se declararán y se
 
 Las personas físicas que obtengan ingresos por la prestación de un servicio personal independiente, podrán deducir de los mismos los gastos e inversiones necesarios para su obtención.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 86.
 
-Los contribuyentes que obtengan ingresos de los señalados en este Capítulo efectuarán pagos provisionales a cuenta del impuesto anual, durante los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará deduciendo de la totalidad de ingresos obtenidos en el cuatrimestre, el monto de las deducciones a que se refiere el artículo 85 correspondientes al mismo periodo y el salario mínimo general de la zona económica del contribuyente elevado al cuatrimestre, y aplicándole al resultado la siguiente:
+Los contribuyentes que obtengan ingresos de los señalados en este Capítulo efectuarán pagos provisionales en este Capítulo efectuarán pagos provisionales a cuenta del impuesto anual a más tardar el día 15 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará deduciendo de la totalidad de ingresos obtenidos en el cuatrimestre, el monto de las deducciones a que se refiere el artículo 85 correspondientes al mismo período y el salario mínimo general de la zona económica del contribuyente elevado al cuatrimestre y aplicándole al resultado la siguiente:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -2302,9 +2298,15 @@ TARIFA
 
 (VEASE TABLA ANEXA)
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 No se efectuará la deducción del salario mínimo general señalado en el párrafo anterior, cuando en el periodo de que se trate se obtengan ingresos de los señalados en el Capítulo anterior por los que ya se hubiera hecho.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 Cuando los ingresos a que se refiere este Capítulo se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el 10% sobre el monto de los mismos sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra el que resulte de conformidad con el primer párrafo de este artículo.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas en el mes de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior.
 
@@ -2384,17 +2386,25 @@ A la deducción a que se refiere la fracción VI del artículo 90 de esta Ley qu
 
 En los casos en que además de la deducción a que se refiere la fracción VI del artículo 90 de esta Ley, se efectúen las mencionadas en la fracción III del mismo artículo, la deducción a que se refiere la citada fracción VII se calculará restando del valor de las inversiones en edificios y construcciones, el 80% del saldo de la deuda correspondiente a capital, aplicando al resultado el por ciento que establece la fracción I del artículo 138 de esta Ley y la cantidad así obtenida se multiplicará por el factor a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 92.
 
-Los contribuyentes que obtengan ingresos de los señalados en este Capítulo efectuarán pagos provisionales a cuenta del impuesto anual, durante los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 86 de esta Ley a la diferencia que resulte de disminuir a los ingresos del cuatrimestre anterior el monto de las deducciones a que se refiere el artículo 90, correspondientes al mismo periodo y el salario mínimo general de la zona económica del contribuyente elevado al cuatrimestre. No se efectuará esta deducción cuando en el periodo de que se trate se obtengan ingresos de los señalados en los Capítulos I o II de este Título, por los que ya se hubiera hecho, o cuando se obtengan ingresos por conducto de las personas morales a que se refiere el Título III de esta Ley.
+Los contribuyentes que obtengan ingresos de los señalados en este capítulo efectuarán pagos provisionales a cuenta del impuesto anual a más tardar el día 15 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 86 de esta Ley a la diferencia que resulte de disminuir a los ingresos del cuatrimestre anterior el monto de las deducciones a que se refiere el artículo 90, correspondientes al mismo período y el salario mínimo general de la zona económica del contribuyente elevado al cuatrimestre. No se efectuará esta última deducción cuando en el período de que se trate se obtengan ingresos de los señalados en los Capítulos I o II de este título, por los que dicha deducción ya se hubiera hecho o cuando se obtengan ingresos por conducto de las personas morales a que se refiere el Título III de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Cuando los ingresos a que se refiere este Capítulo se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el 10% sobre el monto de los mismos sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso conjuntamente con las señaladas en el artículo 80 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra el que resulte de conformidad con el primer párrafo de este artículo.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas en el mes de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 Tratándose de subarrendamiento, sólo se considerarán la deducción por el importe de las rentas del cuatrimestre que pague el subarrendador al arrendador y el salario mínimo general de la zona económica del contribuyente elevado al mismo periodo. No se efectuará esta última deducción cuando en el periodo de que se trate se obtengan ingresos de los señalados en los Capítulos I o II de este Título, por los que ya se hubiera hecho.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Quedan relevados de presentar declaraciones provisionales los contribuyentes cuyos ingresos anuales totales, por los conceptos a que se refiere este Capítulo, obtenidos en el año de calendario anterior, no hubieren excedido del doble del salario mínimo general de su zona económica elevado al año.
 
@@ -2696,11 +2706,11 @@ II.- El derecho de disminuir pérdidas es personal del contribuyente que las suf
 
 Para los efectos de este artículo será aplicable, en lo conducente, lo previsto en el Capítulo III del Título II de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 111.
 
-Los contribuyentes que obtengan ingresos de los señalados en este capítulo efectuarán pagos provisionales a cuenta del impuesto anual durante los meses de mayo, septiembre y enero del siguiente año mediante declaración que presentarán ante las oficinas autorizadas. Para determinar el pago a la utilidad cuatrimestral estimada que se calculará multiplicando los ingresos del periodo de que se trate por el factor de utilidad fiscal ajustada de la última declaración anual presentada, se aplicará la Tarifa del artículo 86 de esta Ley. El monto de los pagos provisionales se podrá disminuir en los casos y cumpliendo los requisitos que señale el reglamento de esta Ley.
+Los contribuyentes que obtengan ingresos de los señalados en este Capítulo efectuarán pagos provisionales a cuenta del impuesto anual a más tardar el día 15 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. Para determinar el pago, a la utilidad cuatrimestral estimada, que se calculará multiplicando los ingresos del período de que se trate por el factor de utilidad ajustada de la última declaración anual presentada, se le aplicará la tarifa del artículo 86 de esta Ley. Con el propósito de que los pagos provisionales mantengan relación con el impuesto definitivo a pagar, el monto de los mismos se podrá disminuir, cuando proceda, en los casos y cumpliendo los requisitos que señala el Reglamento de esta ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3308,7 +3318,9 @@ II.- El perdón total o parcial del capital o de los intereses adeudados, cuando
 
 Los contribuyentes que obtengan en forma esporádica ingresos de los señalados en este Capítulo, cubrirán como pago provisional a cuenta del impuesto anual, el 20% del ingreso percibido, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso.
 
-Los contribuyentes que obtengan periódicamente ingresos de los señalados en este Capítulo, efectuarán pagos provisionales a cuenta del impuesto anual, durante los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 86 de esta Ley a los ingresos obtenidos en el cuatrimestre anterior, sin deducción alguna; contra dicho pago podrán acreditarse las cantidades retenidas en los términos del siguiente párrafo.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+
+Los contribuyentes que obtengan periódicamente ingresos de los señalados en este capítulo efectuarán pagos provisionales a cuenta del impuesto anual, a más tardar el día 15 de los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 86 de esta Ley a los ingresos obtenidos en el cuatrimestre anterior, sin deducción alguna; contra dicho pago podrán acreditarse las cantidades retenidas en los términos del siguiente párrafo.
 
 Cuando los ingresos a que se refiere este Capítulo se obtengan por pagos que efectúen las personas morales, con excepción de los ingresos que se hubieran incluido para determinar el remanente distribuible en los términos del artículo 68 de esta Ley, dichas personas deberán retener como pago provisional el 20% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 80 de la propia Ley.
 
@@ -6025,6 +6037,30 @@ No serán deducibles los dividendos a que se refiere esta fracción, excepto los
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
+
+D.O.F. 30 DE ABRIL DE 1986.
+
+Disposición Transitoria
+
+###### ARTICULO CUARTO.
+
+Cuando el mes de mayo de 1986 sea el 4o., 8o., u 11o. mes del ejercicio de los contribuyentes del Título II de la Ley del Impuesto sobre la Renta, éstos deberán efectuar el primero, segundo o tercer pago provisional de su ejercicio, según sea el caso, en los términos del artículo 12 de la citada Ley, vigente hasta el 30 de abril de 1986; y a partir del mes de junio deberán efectuar pagos provisionales mensuales en los términos del artículo 12 de la citada Ley vigente desde el 1o. de mayo de 1986.
+
+En los casos distintos a los señalados en el párrafo anterior, los contribuyentes ya no deberán efectuar los pagos provisionales cuatrimestrales o trimestral, sino que efectuarán los pagos provisionales mensuales en los términos del artículo 12 o del 12-A de la Ley del Impuesto sobre la renta vigente a partir del 1o. de Mayo de 1986, por todos los meses del ejercicio, a partir de junio inclusive.
+
+###### ARTICULO QUINTO.
+
+Los contribuyentes del impuesto sobre la renta, para determinar los pagos provisionales correspondientes a los períodos que se inicien a partir del 1o. de enero de 1987, deberán considerar entre sus ingresos acumulables el importe de los estímulos fiscales que se otorguen con base a lo establecido en disposiciones administrativas, incluyendo los certificados de promoción fiscal, que tengan derecho a aplicar a partir de esta fecha, los cuales no podrán restarse para determinar su utilidad fiscal ajustada del ejercicio, ni sumarse a la pérdida fiscal del mismo.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de mayo de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción II del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
 
 ###### ARTICULO 69.
 
