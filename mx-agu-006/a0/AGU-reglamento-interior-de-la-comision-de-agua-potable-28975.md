@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-de-agua-potable-28975"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-12-24"
-last_updated: "1995-12-24"
+last_updated: "2001-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,269 +22,441 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA COMISION DE AGUA POTABLE ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS.
+REGLAMENTO INTERIOR DE LA COMISION DE AGUA POTABLE ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2001.
 
-Reglamento publicado en el Suplemento, Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 24 de diciembre de 1995.
+Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el 24 de diciembre de 1995.
 
 ACTA DE SESION DEL CONSEJO DIRECTIVO DE LA COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS.
 
 Siendo las diecinueve horas del día catorce de diciembre de mil novecientos noventa y cinco, se reunieron en la sala de Cabildo de la Presidencia Municipal, los integrantes, el Consejo Directivo de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga. Ags., como organismo operador, de acuerdo a lo establecido en la Ley de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes, aprobándose por unanimidad el siguiente
 
+> <small>N. DE E. LAS REFORMAS APROBADAS POR EL CONSEJO DIRECTIVO DE LA COMISION DEL AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE PABELLON DE ARTEAGA, MODIFICO DE MANERA SUSTANCIAL EL PRESENTE ORDENAMIENTO; POR TAL MOTIVO, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2001.</small>
+
+> <small>(REFORMADO, P.O. DE 9 DE ABRIL DE 2001)</small>
+
 REGLAMENTO INTERIOR DE LA COMISION DE AGUA POTABLE ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGS.
 
-### CAPITULO I. De las Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO I. Objeto y Estructura del Organismo
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 1o.
 
-Este Reglamento regirá la organización y el funcionamiento de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags.
+Este Reglamento regirá la organización y el funcionamiento de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 2o.
 
 Para los efectos del presente Reglamento se entenderá por:
 
-Ley.- La Ley de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes.
+La Ley.- La Ley de Agua para el Estado de Aguascalientes.
 
-La Comisión.- La Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags.
+La Comisión.- La Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga (C.A.P.A.S.P.A.).
 
-Consejo Directivo.- Al órgano máximo de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga.
+El Consejo Directivo.- Al órgano máximo de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga.
 
-Consejo Consultivo.- El órgano colegiado de apoyo y auxilio para la realización de los objetivos de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga.
+El Consejo Consultivo.- Al órgano colegiado de apoyo y auxilio para la realización de los objetivos de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga.
 
-Director General.- Al representante legal del organismo, con todas las facultades generales y especiales que le otorga la Ley.
+El Director General.- Al representante legal del organismo, con todas las facultades generales y especiales que le otorga la Ley.
+
+Al Fondo.- Al Fondo de Asistencia Social que apoyará a los usuarios de escasos recursos.
+
+Reglamento Interno.- Al Reglamento Interno de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 3o.
 
-La Comisión tiene a su cargo prestar, normar y supervisar en su caso, los servicios públicos de agua potable, alcantarillado y saneamiento, así como la infraestructura hidráulica respectiva, de conformidad con el Artículo 19 de la Ley.
+La Comisión tiene a su cargo prestar, normar y supervisar en su caso, los servicios públicos de agua potable así como la infraestructura hidráulica respectiva, de conformidad con el Artículo 25 de la Ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 4o.
 
-La Comisión constituida para normar, estudiar, planear, programar, coordinar, ejecutar, desarrollar, apoyar, llevar el control de los servicios y realizar las actividades que tiene encomendadas, contará con los siguientes órganos de gobierno:
+La Comisión constituida para normar, estudiar, planear, programar, coordinar, ejecutar, desarrollar, apoyar, llevar el control de los servicios y realizar las actividades que tiene encomendadas, contará con los siguientes órganos de gobierno y servidores públicos, así como las direcciones correspondientes que a continuación se mencionan:
 
-I.- Consejo Directivo
+Consejo Directivo.
 
-II.- Consejo Consultivo
+Consejo Consultivo.
 
-III.- Director General
+Comisario.
 
-IV.- Comisario.
+Director General.
 
-#### SECCION PRIMERA. Consejo Directivo
+Subdirección Técnica.
+
+Subdirección Administrativa.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 5o.
 
-El Consejo Directivo se integra con:
+La Dirección y las Subdirecciones de la Comisión realizarán sus actividades en forma programada y de acuerdo con las políticas y las restricciones que establezcan el Consejo Directivo y el Director General en el ámbito de sus atribuciones.
 
-I.- El Presidente Municipal, quien lo presidirá;
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE ABRIL DE 2001)</small>
 
-II.- El Secretario del H. Ayuntamiento, quien tendrá las funciones de Secretario y Presidente suplente del Consejo Directivo;
+### CAPITULO II. Consejo Directivo
 
-III.- El Director General de Finanzas Municipales, quien fungirá corno Tesorero y Secretario suplente del Consejo Directivo;
-
-IV.- Un representante de la Comisión Estatal de Agua Potable y Alcantarillado, quien fungirá corno Primer Vocal;
-
-V.- Un representante de la Comisión Nacional del Agua, que fungirá como Segundo Vocal;
-
-VI.- Dos diputados al H. Congreso del Estado, quienes fungirán corno Tercero y Cuarto Vocales;
-
-VII.- El Presidente del Consejo Consultivo del organismo, quien fungirá como Quinto Vocal;
-
-VIII.- Un representante de la Secretaría de Desarrollo Social del Estado, que fungirá como Sexto Vocal;
-
-IX.- Un representante de la Secretaría de Finanzas del Estado, quien fungirá corno Séptimo Vocal;
-
-X.- El Delegado Estatal de la Secretaría de Desarrollo Social, que fungirá corno Octavo Vocal; y
-
-XI.- El Director General, quien acudirá con voz pero sin voto.
-
-Por cada representante propietario se nombrará al respectivo suplente, salvo lo dispuesto en el Artículo 7o. de este Reglamento.
-
-Se podrá invitar a formar parte del Consejo Directivo a representantes de las dependencias federales o estatales, así como del Municipio, cuando se trate algún asunto que por su competencia o jurisdicción deban de participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo.
-
-### CAPITULO II. Estructura y Funcionamiento
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 6o.
 
-El Consejo Directivo para el Cumplimiento de los Objetivos del Organismo, tendrá las más amplias facultades de dominio, administración y representación que requieren de poder o cláusula especial conforme a la Ley; así como las siguientes atribuciones:
+El Consejo Directivo se integra por:
 
-I.- Establecer en el ámbito de su competencia los lineamientos de política en la materia, así corno determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios de agua potable, alcantarillado y tratamiento de aguas residuales y manejo de lodos y realizarse las obras que para ese efecto se requieran;
+I.- El Presidente, quien lo presidirá.
 
-II.- Resolver sobre los asuntos que en materia de agua potable, alcantarillado, calidad del agua y otras actividades conexas le someta a su consideración el Director General;
+II.- El Regidor de la Comisión de Agua Potable.
 
-III.- Autorizar las tarifas o cuotas que se aplicarán para los cobros de los servicios de agua potable, alcantarillado y saneamiento, en las localidades atendidas por el organismo;
+III.- Un representante del Instituto del Agua del Estado.
 
-IV.- Administrar el patrimonio del organismo y cuidar de su adecuado manejo;
+IV.- Un representante por los usuarios domésticos.
 
-V.- Conocer y en su caso autorizar el programa y presupuesto anual de ingresos y egresos del organismo, conforme a la propuesta formulada por el Director General;
+V.- Un representante de usuarios de servicios comerciales.
 
-VI.- Autorizar la contratación de los créditos que sean necesarios para la prestación de los servicios y realización de las obras y supervisar su aplicación;
+VI.- Un representante de usuarios agropecuarios.
 
-VII.- Aprobar los proyectos de inversión del organismo;
+VII.- Un representante de usuarios industriales y de servicios.
 
-VIII.- Examinar y aprobar los estados financieros y los informes que debe presentar el Director General, previo conocimiento del informe del Comisario, y ordenar su publicación;
+VIII.- El Síndico Municipal - Comisario.
 
-IX.- Acordar la extensión de los servicios a otros Municipios, previamente a los acuerdos o convenios respectivos en los términos de la Ley, para que el organismo operador se convierta en intermunicipal;
+IX.- El Subdirector de Servicios Públicos Municipales.
 
-X.- Designar al Director General del organismo;
+Por cada uno de estos consejeros propietarios se nombrará un suplente.
 
-XI.- Otorgar poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la Ley, así como, en su caso, efectuar los trámites de Ley para la desincorporación de los bienes del dominio público que se quieran enajenar;
+El Director del Organismo Operador fungirá como Secretario del Consejo Directivo y en las reuniones de Consejo tendrá voz pero no voto.
 
-XII.- Aprobar y expedir el Reglamento Interior del organismo; y
+Las facultades generales y particulares del Consejo Directivo están consignadas en el Artículo 29 de la Ley.
 
-XIII.- Las demás que le asigne la Ley y los acuerdos de consejo.
+El Consejo Directivo de la Comisión expedirá el Reglamento Interior de la misma, ajustándose a las bases previstas en las disposiciones de la Ley y de este capítulo.
 
-### CAPITULO III. Relación y Coordinación de la Comisión con la Comisión Estatal de Agua Potable y Alcantarillado
+El Consejo Directivo regulará su organización y funcionamiento conforme a las disposiciones que el mismo dicte.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO III. Consejo Consultivo
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 7o.
 
-El Consejo Directivo funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente Municipal o su suplente.
+El Consejo Consultivo se integra con veinticinco miembros, quienes representarán en todo momento a los sectores social y privado, los cuales tendrán reprensentatividad (sic) en el movimiento ciudadano por el agua.
 
-Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes, el Presidente tendrá voto de calidad.
+En el Consejo Consultivo participará un representante de cada una de las siguientes instituciones, agrupaciones y representaciones sociales:
 
-El Consejo Directivo se reunirá, por lo menos, una vez cada tres meses y cuantas veces fuera convocado por su Presidente o por el Director General, ambos de propia iniciativa o a petición de tres miembros de la misma, y en caso de omisión, por el Comisario del organismo.
+1.- Cámara de Comercio.
 
-#### SECCION SEGUNDA. Consejo Consultivo
+2.- Unión de Comerciantes de Pabellón.
+
+3.- Cámara de la Industria Local (al no existir esta instancia se nombrará a un representante de los industriales locales).
+
+4.- Asociación de Ladrilleros de Pabellón de Arteaga.
+
+5.- Unión Ganadera Local.
+
+6.- Asociación de Usuarios del Distrito de Riego 01 (Junta de Aguas).
+
+7.- Unión de Locatarios del Mercado Municipal.
+
+8.- Unión de Taxistas de Pabellón de Arteaga.
+
+9.- Asociación de Camioneros Urbanos y Materialistas de Pabellón.
+
+10.- Sociedad de Padres de Familia.
+
+11.- Asociación de Charros de Pabellón.
+
+12.- Comunidad Médica de Pabellón.
+
+13.- Patronato de la Feria Estatal de la Revolución.
+
+14.- Liga Municipal de Beisbol.
+
+15.- Liga Municipal de Fútbol.
+
+16.- Comunidad Emiliano Zapata.
+
+17.- Comunidad Santiago.
+
+18.- Comunidad Las Animas.
+
+19.- Comunidad San Luis de Letras.
+
+20.- Comunidad San Carlos.
+
+21.- Fraccionamiento Plutarco Elías Calles.
+
+22.- Fraccionamiento Popular.
+
+23.- Fraccionamiento Cosmos.
+
+24.- Colonia Palo Alto.
+
+25.- Colonia Francisco Villa.
+
+Las instituciones, agrupaciones y organizaciones señaladas con anterioridad designarán un representante con voz y con voto con un suplente, quien lo sustituirá en sus ausencias.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 8o.
 
-El Consejo Consultivo se integra con 15 miembros, quienes representarán en todo momento a los sectores social y privado. En el Consejo Consultivo participará un representante de cada una de las siguientes Instituciones, agrupaciones y organizaciones sociales:
+El Consejo Consultivo se reunirá, por lo menos una vez cada tres meses y cuantas veces sea convocado por su Presidente, en todos los casos deberá hacerse la invitación por escrito y con 72 horas de anticipación. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes, teniendo el Presidente el voto de calidad. El Organismo Operador le proporcionará la información que el propio Consejo Consultivo le requiera en relación a la prestación del servicio de agua potable, alcantarillado y saneamiento.
 
-- Cámara de Comercio
-
-- Asociación de Ladrilleros de Pabellón de Arteaga
-
-- Unión Ganadera Local
-
-- Patronato de la Feria Estatal de la Revolución
-
-- Asociación de Usuarios Junta de Aguas del Distrito de Riego 01
-
-- Asociación de Charros de Pabellón de Arteaga
-
-- Unión de Taxistas
-
-- Unión de Locatarios del Mercado Municipal
-
-- Delegado Municipal de Emiliano Zapata, y
-
-- Cinco representantes de los usuarios, quienes a juicio del Consejo Directivo deban ser invitados a propuesta del Presidente.
-
-Por cada representante propietario, se nombrará al respectivo suplente.
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 9o.
 
-El Consejo Consultivo se reunirá, por lo menos una vez cada tres meses y cuantas veces sea convocado por su Presidente, en todos los casos deberá hacerse la invitación por escrito y con 72 horas de anticipación. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes teniendo el Presidente el voto de calidad. El organismo operador le proporcionará la información que el propio Consejo Consultivo le requiera en relación a la prestación del servicio de agua potable, alcantarillado y saneamiento.
+En los términos del Artículo 33 de la Ley, el Consejo Consultivo tendrá por objeto:
+
+I.- Hacer partícipe a los usuarios en la operación del organismo operador, haciendo las observaciones y las recomendaciones para su funcionamiento eficiente, eficaz y económico.
+
+II.- Conocer las tarifas o cuotas y sus modificaciones haciendo las propuestas, observaciones y las sugerencias del caso.
+
+III.- Evaluar los resultados del organismo.
+
+IV.- Proponer los mecanismos financieros o crediticios.
+
+V.- Coadyuvar para mejorar la situación financiera del organismo.
+
+VI.- Las demás que señale el presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 10.
 
-No podrán tomar parte del Consejo Consultivo, funcionarios o empleados del organismo operador.
-
-###### ARTICULO 11.
-
-Los miembros del Consejo Consultivo designarán democráticamente de entre ellos a su Presidente y a su Vicepresidente.
+Los miembros del Consejo Consultivo designarán democráticamente de entre ellos por mayoría de votos a un Presidente y a tres representantes, los cuales representarán al Consejo Consultivo ante el Organismo Operador Municipal.
 
 El Presidente representará al Consejo Consultivo y a los usuarios en el Consejo Directivo de la Comisión.
 
-El Presidente y el Vicepresidente durarán un año en sus cargos, sin posibilidad de reelección inmediata.
+El Presidente y los tres representantes durarán tres años a partir del inicio de la Administración Municipal y pudiendo ser reelectos en sus cargos una sola vez.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 11.
+
+Los miembros del Consejo Consultivo actuarán en el mismo, con el carácter de honorarios.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO IV. De las Sesiones
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 12.
 
-Los miembros del Consejo Consultivo actuarán en el mismo con el carácter de honorarios.
+Las sesiones del Consejo Directivo, así como el Consejo Consultivo, serán: ordinarias o extraordinarias.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 13.
 
-El Consejo Consultivo tendrá por objeto:
+Serán sesiones ordinarias las que celebren cada tres meses y deberán ser convocados los integrantes mediante citatorio que previamente será enviado por el Secretario del Consejo Directivo, en el que se incluirá el respectivo orden del día.
 
-I.- Hacer partícipe a los usuarios en la operación del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente, eficaz y económico;
-
-II.- Conocer las tarifas o cuotas y sus modificaciones, haciendo las propuestas, observaciones y sugerencias del caso;
-
-III.- Evaluar los resultados del organismo;
-
-IV.- Proponer mecanismos financieros o crediticios;
-
-V.- Coadyuvar para mejorar la situación financiera del organismo; y
-
-VI.- Las demás que le señale el presente Reglamento.
-
-#### SECCION TERCERA. Director General
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 14.
 
-El Director General del organismo operador tendrá las siguientes atribuciones:
+Serán sesiones extraordinarias las que sean convocadas por el Presidente del Consejo Directivo cuando lo estimen conveniente, el Director General, ó el Comisario del Organismo por propia iniciativa ó a petición del 50% más uno de los miembros del mismo conforme al párrafo tercero del Artículo 30 de la Ley.
 
-I.- Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley;
-
-II.- Coordinar las actividades técnicas, administrativas y financieras del organismo para lograr una mayor eficiencia, eficacia y economía del mismo;
-
-III.- Ejecutar los acuerdos del Consejo Directivo;
-
-IV.- Contratar para su ejecución las obras autorizadas y concursadas cuando así lo requiera, realizar las actividades necesarias para lograr que el organismo preste a la comunidad servicios adecuados y eficientes;
-
-V.- Vigilar que se practiquen en el Municipio, en forma regular y periódica, muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a la red de alcantarillado o drenaje, los cauces y vasos;
-
-VI.- Realizar las acciones necesarias para que el organismo se ajuste al Capítulo II, Titulo Primero, en los términos de la presente Ley y a la coordinación y normatividad que efectúe la Comisión Estatal de Agua Potable y Alcantarillado, en los términos de la misma;
-
-VII.- Establecer relaciones de coordinación y apoyo a la consolidación del propio organismo con las autoridades federales, estatales y municipales, la administración pública centralizada o paraestatal y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
-
-VIII.- Someter a la aprobación del Consejo Directivo las tarifas y cuotas que debe cobrar el organismo por la prestación de sus servicios y recuperación de costos e inversiones, en los casos en que preste directamente el servicio, así como, en su caso, las tarifas o cuotas que deban cobrar las empresas concesionarias en los servicios de agua potable, alcantarillado y saneamiento; asimismo, cuando proceda, las tarifas a las que se sujetarán la distribución, potabilización y transporte de agua realizado por particulares para servicio al público;
-
-IX.- Gestionar y obtener en términos de la Ley respectiva, y previa autorización del Consejo Directivo, el financiamiento para obras y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
-
-X.- Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo Directivo las erogaciones extraordinarias;
-
-XI.- Rendir el informe anual de actividades al Ayuntamiento del Municipio, así como rendir los informes sobre el cumplimiento de los acuerdos del organismo; resultados de estados financieros; el avance de los programas de operación autorizados por el propio Consejo Directivo; el cumplimiento de los programas de obras y erogaciones en las mismas; la presentación anual del programa de labores y los proyectos de presupuesto de ingresos y egresos para el siguiente período;
-
-XII.- Convocar a reuniones del Consejo Directivo, por propia iniciativa o a petición de tres miembros del mismo o del Comisario;
-
-XIII.- Asistir a las reuniones del Consejo Directivo, con voz pero sin voto;
-
-XIV.- Nombrar y remover libremente al personal administrativo y técnico del organismo, señalando sus adscripciones y remuneraciones correspondientes;
-
-XV.- Someter a la aprobación del Consejo Directivo el Reglamento Interior del organismo y sus modificaciones;
-
-XVI.- Aplicar las sanciones que establece la Ley por las infracciones que se cometan y que sean competencia del organismo operador;
-
-XVII.- Celebrar los actos jurídicos de dominio, administración y pleitos y cobranzas que sean necesarios para el funcionamiento del organismo;
-
-XVIII.- Proporcionar a la Comisión Estatal de Agua Potable y Alcantarillado, cuando lo solicite la información técnica, operativa, financiera, programática y legal que se requiera; y
-
-XIX.- Las demás que le señale el Consejo Directivo, esta Ley, el instrumento de creación del organismo o su Reglamento Interior.
-
-#### SECCION CUARTA. Comisario
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 15.
 
-El Comisario será el Síndico Municipal del H. Ayuntamiento de Pabellón de Arteaga, quien tendrá las siguientes atribuciones:
+Las votaciones serán por vía económica, que consiste en levantar la mano para aprobar; no levantarla cuando no se apruebe o se abstenga.
 
-I.- Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
-
-II.- Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio;
-
-III.- Rendir anualmente en sesión ordinaria del Consejo Directivo un informe respecto a la veracidad, suficiencia y responsabilidad de la información presentada por el Director General;
-
-IV.- Hacer que se inserten en la orden del día de las sesiones del Consejo Directivo los puntos que crea pertinentes;
-
-V.- Convocar a sesiones ordinarias y extraordinarias, en caso de omisión del Presidente o del Director General;
-
-VI.- Asistir con voz pero sin voto a todas las sesiones del Consejo Directivo, a las que deberá ser citado; y
-
-VII.- Vigilar ilimitadamente en cualquier tiempo las operaciones del organismo operador.
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 16.
 
-La Comisión forma parte de los Sistemas de Agua Potable. Alcantarillado y Saneamiento del Estado.
+Los acuerdos y resoluciones se tomarán por mayoría de votos, y en caso de empate el asunto se resolverá por voto de calidad del Presidente del Consejo Directivo o quien presida la sesión.
 
-La Comisión se coordinará en los términos de la Ley con la Comisión Estatal de Agua Potable y Alcantarillado, con los demás Organismos Operadores Municipales y con los Organismos Operadores Intermunicipales para la formulación y ejecución del Programa Estatal de Agua Potable y Alcantarillado y para prestarse el apoyo que se requiera para la eficiente, eficaz y económica prestación de los servicios de agua potable y alcantarillado, incluyendo el saneamiento.
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO V. Comisario
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 17.
 
-La Comisión podrá solicitar a la Comisión Estatal de Agua Potable y Alcantarillado la asesoría, apoyo y asistencia técnica que requiera en los aspectos administrativos, operativos, financieros, jurídicos, gerenciales, comerciales, de diseño, operación y planeación; y le podrá solicitar igualmente la prestación de los servicios de apoyo que requiera para que se consolide y modernice.
+El Síndico del Ayuntamiento del Municipio de Pabellón de Arteaga, Ags. tendrá las atribuciones que se indican en el Artículo 35 de la Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO VI. Director General
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 18.
 
-La Comisión podrá solicitar a la Comisión Estatal de Agua Potable y Alcantarillado su coadyuvancia en las gestiones de financiamiento y planeación de obras para la captación, potabilización, conducción, almacenamiento y distribución de agua potable, el alcantarillado, así como el tratamiento de aguas residuales y manejo de lodos.
+El Director General de la Comisión durará en su cargo 3 años a partir de la fecha de su nombramiento por el Consejo Directivo, lo anterior con fundamento en el Artículo 9o. fracción XIV en relación con el Artículo 29 fracción XIII de la Ley y podrá ser ratificado por el Consejo Directivo que lo podrá remover por mayoría de votos si se demostrase su falta de probidad y/o capacidad.
+
+El Director General tendrá también las atribuciones que le señala el Artículo 34 de la Ley, y que son las siguientes:
+
+I.- Realizar las actividades que se requieren para lograr que la Comisión, preste a la comunidad servicios adecuados y eficientes.
+
+II.- Realizar en forma regular y periódica muestras y análisis del agua, llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye entre la población, así como la del agua que una vez utilizada y tratada se vierte en los cauces o vasos.
+
+III.- Realizar las acciones necesarias para que la Comsión (sic) se ajuste al Sistema de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes en los términos de la Ley y a la coordinación normatividad que efectúe el Instituto del Agua del Estado.
+
+IV.- Acordar con los Subdirectores el despacho de los asuntos a su cargo.
+
+V.- Acordar con los Subdirectores, así como con otros servidores públicos de la Comisión, los asuntos de la competencia de aquéllos, cuando lo considere conveniente.
+
+VI.- Nombrar al personal que deba sustituir en sus ausencias temporales a cada uno de los Subdirectores.
+
+VII.- Promover el fortalecimiento de las relaciones de la Comisión con los demás organismos o empresas operadoras de agua y saneamiento del Estado y de los Estados de la República, con el fin de intercambiar experiencias, conocimientos, y procurar la cooperación interinstitucional.
+
+VIII.- Proporcionar las facilidades para que el auditor externo designado por el Ayuntamiento de Pabellón de Arteaga, pueda rendir en su oportunidad informes de auditoría sobre las operaciones de la Comisión, con opinión de éstos sobre sus resultados, y anualmente un informe de auditoría de los estados financieros.
+
+IX.- Proporcionar al Comisario las facilidades e informes necesarios para el desempeño de su función y en relación al servicio que se presta.
+
+X.- Interpretar este reglamento y resolver las dudas que se presenten por su aplicación.
+
+XI.- Realizar las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se asignen en otras leyes aplicables o le encomiende expresamente el Consejo Directivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO VII. Directores y Subdirectores
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 19.
+
+Los directivos de cada una de las áreas que constituyen la Comisión, tendrán a su cargo la subdirección técnica y administrativa de la misma, y serán responsables ante el Director General de su correcto funcionamiento. Los Subdirectores serán auxiliados en la atención y despacho de los asuntos a su cargo por uno o varios analistas y demás personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Comisión.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 20.
+
+Corresponde a los Subdirectores:
+
+I.- Organizar, dirigir, coordinar y evaluar el desempeño de las labores encomendadas a las distintas áreas que integran la Dirección correspondiente.
+
+II.- Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración del Director General.
+
+III.- Conducir sus actividades de acuerdo con los programas aprobados y con las políticas que señale el Director General para el logro de los objetivos y de las prioridades establecidas para la Comisión.
+
+IV.- Rendir los informes y formular los dictámenes, estudios y las opiniones que les solicite el Director General.
+
+V.- Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios con las actividades de la competencia de la dirección respectiva, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes.
+
+VI.- Acordar con el Director General los asuntos de las competencias de la sub-dirección a su cargo.
+
+VII.- Intervenir en la selección y adscripción del personal que integre la planta de empleados de la Dirección, en la promoción de los mismos, en el otorgamiento de licencias, vacaciones, permisos y extensiones; en el otorgamiento de estímulos y recompensas, así como en la aplicación de sanciones.
+
+VIII.- Proporcionar informes y prestar asesoría a los demás funcionarios de la Comisión cuando lo requieran para el despacho de los asuntos a su cargo.
+
+IX.- Someter a la consideración del Director General los proyectos de reorganización administrativa de la Dirección correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo.
+
+X.- Elaborar los informes relativos a los asuntos de la competencia de la relación.
+
+XI.- Representar a la Dirección en los términos que señalen las normas reglamentarias, y desempeñar las comisiones que le encomiende el Director General.
+
+XII.- Revisar y rubricar los convenios, contratos, permisos y las autorizaciones en los que la Comisión sea parte, en los asuntos de su competencia, así como adoptar las resoluciones técnicas y administrativas, y firmar los contratos y convenios que expresamente les delegue el Director General.
+
+XIII.- Atender al público en los asuntos de competencia de la Dirección.
+
+XIV.- Recabarán la opinión del Departamento Jurídico del H. Ayuntamiento, previo convenio en todos los asuntos de carácter legal.
+
+XV.- Preparar y realizar las adquisiciones y servicios que deban celebrarse en las materias de su competencia.
+
+XVI.- Promover la capacitación y el desarrollo de los programas de productividad del personal a su cargo.
+
+XVII.- Coordinar sus actividades con los analistas y demás personal de la Comisión.
+
+XVIII.- Desempeñar las demás funciones que les confieran las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 21.
+
+Corresponde al Subdirector Técnico:
+
+I.- Coordinar los programas a corto, mediano y largo plazo, de los servicios de agua potable y alcantarillado, incluyendo el saneamiento y los demás necesarios o que se requieran para la prestación de esos servicios.
+
+II.- Coordinar los programas y proyectos de obras destinadas a la conservación, mantenimiento, rehabilitación y ampliación de las redes de agua potable y alcantarillado, así como para las instalaciones destinadas a la potabilización y tratamiento de aguas residuales provenientes de uso público urbano.
+
+III.- Elaborar y supervisar la aplicación de las normas y de los procedimientos técnicos que se refieren a la seguridad y al mantenimiento de instalaciones y equipo.
+
+IV.- Determinar el contenido de la capacitación técnica que deberá impartirse al personal correspondiente.
+
+V.- Supervisar el ejercicio de los presupuestos de gastos de operación, de conservación de mantenimiento e inversiones, en coordinación con la Subdirección Administrativa de la Comisión.
+
+VI.- Ejecutar la aplicación de los programas de servicios, seguridad y mantenimiento a las instalaciones y a los equipos de los servicios de agua potable y alcantarillado, incluyendo el saneamiento.
+
+VII.- Ejecutar las acciones necesarias para la adecuación de instalaciones y equipos de carácter operacional y seguridad en las redes de agua potable y alcantarillado, así como las instalaciones de potabilización y saneamiento y a las normas que establezcan en los términos de las disposiciones legales aplicables el Ejecutivo del Estado de Aguascalientes o a las demás autoridades competentes.
+
+VIII.- Realizar la actualización de los planos de las redes de agua potable y alcantarillado, incluyendo el saneamiento.
+
+IX.- Llevar a cabo las acciones necesarias para realizar labores de monitoreo preventivo en las redes de agua potable y alcantarillado.
+
+X.- Supervisar que los usuarios de la red de alcantarillados cumplan con las Normas Oficiales Mexicanas establecidas en la materia por el Gobierno Federal así como las Normas Estatales y condiciones parciales de descarga que se expidan por la Comisión.
+
+XI.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones o que le encomiende expresamente el Director General.
+
+XII.- Supervisar el desarrollo físico de la infraestructura, necesaria para prestación de los servicios de agua potable y alcantarillado, incluyendo el saneamiento.
+
+XIII.- Supervisar los servicios en la infraestructura de agua potable, alcantarillado y saneamiento conforme a los programas operativos anuales autorizados.
+
+XIV.- Promover y realizar las acciones necesarias, para que la Comisión cuente con un sistema de informática para su operación, así como de los estudios cartográficos y de los apoyos técnicos y programas de soporte informativo que se requieran.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 22.
+
+Corresponde al Subdirector Administrativo:
+
+I.- Dirigir y coordinar las políticas y funciones referentes a la administración de los recursos humanos, materiales y financieros del organismo.
+
+II.- Observar y vigilar el cumplimiento de las disposiciones legales que rijan las relaciones laborales entre la Comisión y los trabajadores a su servicio, así como de las contenidas en las condiciones generales de trabajo.
+
+III.- Programar e impartir cursos para la capacitación técnica y administrativa del personal.
+
+IV.- Tramitar permisos, licencias, tolerancias, vacaciones y exenciones a los trabajadores al servicio de la Comisión a propuesta del Director General, o del Subdirector Técnico.
+
+V.- Expedir, registrar y actualizar los nombramientos de los servidores públicos de la Comisión, así como las credenciales de identificación correspondiente.
+
+VI.- Llevar el control de la puntualidad y la asistencia del personal.
+
+VII.- Tramitar, suscribir y actualizar los contratos de prestación de servicios del personal que perciba su remuneración con cargo a honorarios.
+
+VIII.- Proponer el otorgamiento de premios, estímulos y compensaciones a que se haga acreedor el personal de la Comisión.
+
+IX.- Imponer a los trabajadores de la Comisión las sanciones a que se haga acreedor en los términos señalados en las condiciones generales de trabajo de la Comisión.
+
+X.- Promover la integración de la Comisión Mixta de Seguridad e Higiene, la cual determinará las normas aplicables en materia de prevención de riesgos profesionales y accidentes de trabajo.
+
+XI.- Elaborar los programas y proyectos presupuestales relativos al capítulo de servicios personales y manejar las partidas correspondientes al presupuesto programático.
+
+XII.- Proporcionar a los trabajadores los servicios sociales y demás prestaciones que autorice el Consejo Directivo.
+
+XIII.- Coordinar la formulación de los presupuestos de ingresos, gastos de capital y gasto de operación, con la colaboración de las demás áreas.
+
+XIV.- Supervisar el ejercicio del presupuesto autorizado.
+
+XV.- Manejar las finanzas de la Comisión para la recepción, custodia y desembolso de efectivo y de valores, así como registrar estas operaciones.
+
+XVI.- Registrar y controlar los compromisos y las operaciones financieras que efectúen el ejercicio del presupuesto.
+
+XVII.- Establecer y manejar el sistema de contabilidad de la Comisión.
+
+XVIII.- Formular los estados financieros y legalmente obligatorio de la Comisión.
+
+XIX.- Elaborar y prestar oportunamente a las autoridades hacendarias, las declaraciones por concepto de impuestos de los que sea contribuyente o retenedor la Comisión.
+
+XX.- En coordinación con las demás áreas organizar, controlar, registrar, vigilar y manejar de acuerdo con las normas aplicables, los bienes muebles e inmuebles de la Comisión.
+
+XXI.- Adquirir y suministrar los bienes de consumo y de inversión que se requieran en los términos que se señalen en las normas legales aplicables, de acuerdo con el presupuesto en los programas autorizados.
+
+XXII.- Supervisar el cumplimiento de los contratos de adquisición y/o arrendamiento de bienes inmuebles.
+
+XXIII.- Organizar, controlar y supervisar el funcionamiento de las bodegas y de los almacenes, registrando las entradas y salidas de artículos, manteniendo al día la información sobre las existencias de acuerdo con los métodos y procedimentos (sic) establecidos.
+
+XXIV.- Obtener las autorizaciones y los permisos que se requieran para la adquisición de mercancías de procedencia extranjera.
 
 TRANSITORIOS:
 
@@ -341,3 +513,69 @@ DIRECTOR GENERAL.
 Profr. Salvador Dávila Tostado,
 
 COMISARIO.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO VIII. De la Creación del Fondo de Asistencia Social
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 23.
+
+Con fundamento en el Artículo 105 de la Ley de Agua para el Estado de Aguascalientes, se crearán fondos de Asistencia Social, que brindará apoyo a todos aquellos usuarios del servicio de agua potable y alcantarillado que se encuentren en situación económica apremiante.
+
+Dichos fondos de Asistencia Social serán operados con recursos aportados por el Estado y el Municipio, previo convenio que al efecto se celebre.
+
+El apoyo a los beneficiarios será asignado en base a un estudio socioeconómico realizado previamente por el área de Asistencia Social correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2001)</small>
+
+### CAPITULO IX. Relación y Coordinación de la Comisión con el Instituto del Agua del Estado
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 24.
+
+La Comisión forma parte de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado.
+
+La Comisión se coordinará en los términos de la Ley con el Instituto del Agua del Estado, con los demás organismos operadores municipales y con los Organismos Operadores, intermunicipales, para la formulación y ejecución del programa estatal de agua potable y alcantarillado y para prestarse el apoyo que se requiera para la eficiente, eficaz y económica prestación de los servicios de agua potable y alcantarillado, incluyendo el saneamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 25.
+
+La Comisión podrá solicitar al Instituto del Agua del Estado, la asesoría, apoyo y asistencia técnica que requiera en los aspectos administrativos operativos, financieros, jurídicos, gerenciales, comerciales, de diseño, operación y planeación; y le podrá solicitar igualmente la prestación de los servicios de apoyo que requieran para que se consolide y modernice.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 26.
+
+La Comisión podrá solicitar al Instituto del Agua del Estado, su coadyuvancia en las gestiones de financiamiento y planeación de obras para la captación, potabilización, conducción, almacenamiento y distribución de agua potable y alcantarillado, así como el tratamiento de aguas residuales y manejo de lodos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE ABRIL DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor un día después de que sea aprobado por el Consejo Directivo de la Comisión del Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga (CAPASPA) y publicado en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+###### ARTICULO TERCERO.
+
+El Director General a través de la Subbdirección (sic) Administrativa designará el personal y los bienes de acuerdo a las funciones citadas en este Reglamento, para el debido desempeño en las diferentes áreas.
+
+###### ARTICULO CUARTO.
+
+Para fomentar el servicio civil de carrera hacia el interior de la Comisión, el Director General deberá formular un programa que será puesto a consideración del Consejo Directivo para su aprobación, y en su caso la actualización de dicho programa deberá hacerse por lo menos cada 3 años.
+
+###### ARTICULO QUINTO.
+
+En un plazo de noventa días naturales a partir de la publicación de este Reglamento, se deberán expedir los manuales de organización y de procedimientos, así como en su caso, las condiciones generales de trabajo del personal que labore en la Comisión.
+
+###### ARTICULO SEXTO.
+
+Los casos no previstos en este Reglamento, se remiten para su estudio, discusión y decisión al Consejo Directivo para que sea en esta instancia y de manera concensada donde se determine lo conducente en el marco de la Ley de Agua para el Estado de Aguascalientes.
