@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-registro-de-antecedentes-penales-y-administrativos-5794
 country: "mx"
 rank: "ley"
 publication_date: "1994-09-19"
-last_updated: "1997-06-23"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DEL REGISTRO DE ANTECEDENTES PENALES Y ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JUNIO DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE SERVICIOS PERICIALES DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 10 DE AGOSTO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno, el 19 de septiembre de 1994.
 
@@ -254,3 +256,15 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 10 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial, "Gaceta del Gobierno".
+
+SEGUNDO.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativos del Estado de México.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasaran a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
