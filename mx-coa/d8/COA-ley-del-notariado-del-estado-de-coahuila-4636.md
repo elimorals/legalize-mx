@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "1989-02-28"
+last_updated: "1993-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -1367,11 +1367,37 @@ Los Notarios, en los casos en que se trate de Instituciones de Enseñanza o Bene
 
 En los casos en que intervenga el Instituto Estatal de la Vivienda Popular, reducirán los honorarios en un treinta y cinco por ciento de los fijados en el presente Título.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 1993)</small>
+
+Tratándose de programas para el fomento de la vivienda de interés social y popular, en los que intervengan, financien o promuevan de alguna manera instituciones de crédito y organismos públicos de vivienda, sean federales estatales, municipales o de cualquier otro tipo, los notarios se limitarán a cobrar como únicos honorarios y gastos notariales los siguientes:
+
+1º.- Cuando se trate de la adquisición de vivienda nueva por regularización de la tenencia de la tierra sin crédito hipotecario, una cantidad equivalente a 15 días de salarios mínimo general vigente en el Estado, como máximo.
+
+2º.- En aquellos casos en que sea necesaria la protocolización de créditos hipotecarios en las operaciones a que se refiere el párrafo anterior, se estará al arancel siguiente:
+
+a).- El 1% del valor catastral del inmueble, tratándose de vivienda de interés social, pero en ningún caso, el monto de los honorarios podrá ser inferior al importe de 20 días de salario mínimo general vigente en el Estado.
+
+b).- El 1% del valor catastral del inmueble, tratándose de vivienda de tipo popular, pero, en ningún caso, el monto de los honorarios podrá ser inferior al importe de 30 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 1993)</small>
+
+Se entenderá que el arancel notarial a que se refieren los incisos 1º y 2º incluyen la totalidad de las operaciones que se protocolicen en uno o más instrumentos y que se requieran para la titulación de la vivienda de interés social y de tipo popular, tales como enajenación del inmueble, la cancelación de créditos o mutuos con garantía hipotecaria.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 186.
 
-Los honorarios con cantidades fijas se incrementarán automáticamente al inicio de cada año, de acuerdo con el porcentaje en que se incrementan los salarios mínimos, en la zona económica número 21.
+Para los efectos del Artículo anterior, se considera vivienda de interés social aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año vigente en el Estado; y vivienda de tipo popular, aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general vigente en el Estado elevado al año.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 187.
+
+Con excepción de lo dispuesto en el Artículo 185 de esta ley, los honorarios con cantidades fijas que señala el presente arancel, se incrementarán automáticamente al inicio de cada año, de acuerdo con el porcentaje en el que se incrementan los salarios mínimos en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 1993)</small>
+
+###### ARTICULO 188.
 
 Cualquier caso no previsto en este arancel, se cotizará de acuerdo con el que tenga más semejanza con los antes señalados.
 
@@ -1510,3 +1536,11 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
