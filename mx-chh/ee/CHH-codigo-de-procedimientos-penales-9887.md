@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-9887"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2002-12-21"
+last_updated: "2002-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -2887,7 +2887,11 @@ III.- SI EL INCULPADO AMAGA AL OFENDIDO O A ALGUNO DE LOS ORGANOS DE PRUEBA;
 
 IV.- SI EL INCULPADO PRETENDE SOBORNAR A ESTOS O A ALGUN FUNCIONARIO O EMPLEADO QUE TENGA INGERENCIA (SIC) EN EL PROCESO;
 
-V.- CUANDO APAREZCA QUE EL DELITO ES DE LOS SEÑALADOS COMO GRAVES.
+V.- CUANDO APAREZCA QUE EL DELITO ES DE LOS SEÑALADOS COMO GRAVES;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+VI.- CUANDO EL INCULPADO, ANTES DE QUE EL PROCESO EN EL QUE SE LE CONCEDIOLA LIBERTAD ESTE CONCLUIDO POR SENTENCIA EJECUTORIA, COMETIERE UN NUEVO DELITO QUE MEREZCA PENA CORPORAL, RESPECTO DEL CUAL SE DICTE AUTO DE FORMAL PRISION, EXCEPTO SI SE TRATA DE DELITOS CULPOSOS.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1994)</small>
 
@@ -4022,3 +4026,7 @@ P.O. 21 DE DICIEMBRE DE 2002.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
