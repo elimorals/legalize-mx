@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2003-01-16"
+last_updated: "2004-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -33,7 +33,7 @@ Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la U
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
 
-CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
+CóDIGO CIVIL PARA EL DISTRITO FEDERAL
 
 Disposiciones preliminares
 
@@ -191,11 +191,11 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPITULO II. De las actas de nacimiento
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ## TITULO TERCERO. Del domicilio
 
@@ -217,7 +217,7 @@ IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refier
 
 V.- Las sociedades cooperativas y mutualistas;
 
-VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
+VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley;
 
 > <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1988)</small>
 
@@ -307,7 +307,7 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-En el Distrito Federal, estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y muerte de los mexicanos y extranjeros residentes en los perímetros de las demarcaciones territoriales del Distrito Federal, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
+En el Distrito Federal, estará a cargo de los Jueces del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y muerte de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -315,7 +315,13 @@ En el Distrito Federal, estará a cargo de los Jueces del Registro Civil autoriz
 
 Los Jueces del Registro Civil, asentarán en formas especiales que se denominarán "Formas del Registro Civil", las actas a que se refiere el artículo anterior.
 
-Las inscripciones se harán mecanográficamente y por triplicado.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Las inscripciones se harán mecanográficamente y por duplicado.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+El Registro Civil, además resguardará las inscripciones, por medios informáticos o aquellos que el avance tecnológico ofrezca, en una base de datos en la que se reproduzcan los datos contenidos en las actas asentadas en las Formas del Registro Civil, que permitan la conservación de los mismos y la certeza sobre su autenticidad.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -339,17 +345,21 @@ La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cu
 
 El estado civil sólo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+El Registro Civil podrá emitir constancias parciales que contengan extractos de las actas registrales, los cuales harán prueba plena sobre la información que contengan.
+
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ###### ARTICULO 40.
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumento o testigos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 41.
 
-Las Formas del Registro Civil serán expedidas por el Jefe de Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan, quedará en el archivo de la oficina en que se haya actuado.
+Las Formas del Registro Civil serán expedidas por el Jefe del Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil y el otro, con los documentos que le correspondan, quedará en el archivo de la oficina en que se haya actuado.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -383,11 +393,15 @@ La falsificación de las actas y la inserción en ellas de circunstancias o decl
 
 Los vicios o defectos que haya en las actas, sujetan al Juez del Registro Civil a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 48.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Jueces Registradores estarán obligados a darlo.
+Toda persona puede pedir testimonios completos o en extracto de las actas del Registro Civil; así como de los apuntes y documentos con ellas relacionadas y los jueces y registradores estarán obligados a darlos.
+
+La certificación de los testimonios de las actas del Registro Civil podrá autenticarse con firma autógrafa o electrónica. Por firma electrónica se entenderá la firma, clave, código o cualquier otra forma de autenticar por medios electrónicos, la autorización del funcionario competente según el sistema que instrumente el titular del Registro Civil conforme a lo que disponga el reglamento respectivo.
+
+Las copias certificadas y las certificaciones emitidas por los servidores públicos facultados para ello y que sean autenticadas a través de firma electrónica, tendrán el mismo valor jurídico y probatorio que las suscritas en forma autógrafa.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -415,11 +429,11 @@ Para establecer el estado civil adquirido por los habitantes del Distrito Federa
 
 Los Jueces del Registro Civil se suplirán en sus faltas temporales por el más próximo de la demarcación territorial del Distrito Federal en que actúen. A falta de éste, por el más próximo de la demarcación territorial colindante.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 53.
 
-El Ministerio Público, cuidará que las actuaciones e inscripciones que se hagan en las Formas del Registro Civil, sean conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como consignar a los Jueces registradores que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados.
+El Ministerio Público cuidará que las actuaciones e inscripciones que se hagan en las formas del Registro Civil, se realicen conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como consignar a los Jueces del Registro Civil que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados del Registro Civil.
 
 ### CAPITULO IV. De las actas de adopción
 
@@ -427,43 +441,41 @@ El Ministerio Público, cuidará que las actuaciones e inscripciones que se haga
 
 ###### ARTICULO 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil en su oficina o en el lugar donde aquél hubiere nacido.
+Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil en su oficina o en el lugar donde aquel hubiera nacido, acompañando el certificado de nacimiento. El certificado de nacimiento deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Distrito Federal, el cual contendrá los datos que establezca el Reglamento del Registro Civil. Dicho certificado hace prueba del día, hora y lugar del nacimiento, sexo del nacido y de la maternidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+En caso de no contar con certificado de nacimiento, el declarante deberá presentar constancia de parto en los términos que lo establezca el Reglamento del Registro Civil.
+
+Cuando por causas de fuerza mayor, de conformidad con lo que establezca el reglamento, no se cuente con certificado de nacimiento o constancia de parto, deberá presentar denuncia de hechos ante el Ministerio Público donde se haga constar las circunstancias de los hechos.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 55.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de éstos, los ascendientes sin distinción alguna dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
+Tienen obligación de declarar el nacimiento ante el Juez del Registro Civil de su elección, el padre y la madre o cualquiera de ellos; a falta de éstos, los ascendientes en línea recta, colaterales iguales en segundo grado y colaterales desiguales ascendentes en tercer grado dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+En caso de registro extemporáneo de nacimiento, deberá estarse a lo que disponga el Reglamento del Registro Civil.
 
-Los médicos cirujanos o partera que hubieren asistido el parto, tienen obligación de dar aviso del nacimiento al Juez del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene cualquier persona en cuya casa haya tenido lugar el alumbramiento.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-Recibido el aviso, el Juez del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+Para el registro de nacimiento a domicilio deberá estarse a lo dispuesto en el Reglamento del Registro Civil.
 
 ###### ARTICULO 56.
 
 (DEROGADO, D.O.F. 3 DE ENERO DE 1979)
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ###### ARTICULO 57.
 
-En las poblaciones en que no haya Juez del Registro Civil, el niño será presentado a la persona que ejerza la autoridad delegacional o municipal en su caso, y éste dará la constancia respectiva que los interesados llevarán al Juez del Registro que corresponda, para que asiente el acta.
+(DEROGADO, G.O. 13 DE ENERO DE 2004)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 58.
 
-El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan; asimismo, la razón de si se ha presentado vivo o muerto y la impresión digital del presentado. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
+El acta de nacimiento contendrá el día, la hora y el lugar de nacimiento, el sexo del presentado, el nombre o nombres propios y los apellidos paterno y materno que le correspondan; asimismo, en su caso, la razón de si el registrado se ha presentado vivo o muerto y la impresión digital del mismo. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
 
-Si el nacimiento ocurriere en un establecimiento de reclusión del Distrito Federal, el Juez del Registro Civil deberá asentar como domicilio del nacido, el que señalen sus padres.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Si el nacimiento ocurriere en un establecimiento de reclusión del Distrito Federal, el Juez del Registro Civil deberá asentar como domicilio del nacido, el que señalen sus padres, o en su caso, quien realice la presentación.
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 En el caso del artículo 60 de este Código, el Juez del Registro Civil pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
 
@@ -527,11 +539,11 @@ En las actas que se levanten en estos casos, se expresarán con especificación 
 
 Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, el Juez del Registro Civil, ordenará su depósito ante el Ministerio Público respectivo; mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 69.
 
-Se prohibe absolutamente al Juez del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+Se prohíbe absolutamente al Juez del Registro Civil y a los testigos si los hubiera, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño y los testigos; cuando se requieran, en términos de lo dispuesto por el artículo 54, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
 
 ###### ARTICULO 70.
 
@@ -553,33 +565,33 @@ Se prohibe absolutamente al Juez del Registro Civil y a los testigos que conform
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 75.
 
-Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en las Formas del Registro Civil que correspondan.
+Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en las formas del Registro Civil que correspondan. Si por causa de fuerza mayor no se presentara la madre del recién nacido, deberá estarse a lo dispuesto por el artículo 55 de este Código y los datos asentados en el certificado de nacimiento deberán asentarse en el acta de nacimiento, asimismo los datos del certificado de defunción en el acta de defunción, debiéndose correlacionar ambas actas.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 76.
 
-Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido el parto y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
+Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el Artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según lo señalado en el certificado de nacimiento, la constancia de parto o alumbramiento o los testigos que declaren, según sea el caso, de acuerdo a lo dispuesto por el artículo 54 de este Código y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO V. De las actas de tutela
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 77.
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 78.
 
-El reconocimiento de un hijo, podrá hacerse después de que se haya registrado su nacimiento, formándose el acta respectiva.
+En el caso de reconocimiento hecho con posterioridad al registro, se harán las anotaciones correspondientes en el acta de nacimiento original y deberá levantarse nueva acta de nacimiento en términos de lo dispuesto por el artículo 82.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -587,9 +599,15 @@ El reconocimiento de un hijo, podrá hacerse después de que se haya registrado 
 
 El reconocimiento del hijo mayor de edad requiere el consentimiento expreso de éste en el acta respectiva.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 80.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del Título séptimo de este Libro.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días ante el Juez del Registro Civil, el original o copia certificada del documento que lo compruebe.
+
+Deberá procederse conforme a lo dispuesto por los artículos 78 y 82 de este ordenamiento.
+
+En los casos de sentencia judicial de reconocimiento de paternidad bastará la presentación de la copia certificada de la sentencia ejecutoriada para que se dé cumplimiento.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -597,11 +615,11 @@ Si el reconocimiento se hace por alguno de los otros medios establecidos en este
 
 La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 82.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación correspondiente.
+En el acta de nacimiento originaria se harán las anotaciones correspondientes al reconocimiento, la cual quedará reservada y no se publicará ni expedirá constancia alguna salvo mandamiento judicial.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -617,9 +635,11 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levant
 
 Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 85.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
+La falta de registro de la adopción no quita a ésta sus efectos legales, siempre que se haya hecho conforme a las disposiciones de este Código.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -639,41 +659,33 @@ En caso de adopción, a partir del levantamiento del acta, se harán las anotaci
 
 ### CAPITULO VII. De las actas de matrimonio
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que realice la inscripción de la ejecutoria respectiva y haga las anotaciones en el acta de nacimiento y/o matrimonio del incapacitado.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Si la inscripción se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento o matrimonio, el juez del Registro Civil que autorice la inscripción remitirá copia de ésta a la Oficina que haya registrado el nacimiento o matrimonio para que haga la anotación en el acta respectiva.
+
+El Curador cuidará del cumplimiento de este artículo.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 90.
 
-La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él.
+La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él, siempre que se haya hecho conforme a las disposiciones de este Código.
 
 ###### ARTICULO 91.
 
-El acta de tutela contendrá:
-
-I.- El nombre, apellido y edad del incapacitado;
-
-II.- La clase de incapacidad por la que se haya diferido la tutela;
-
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
-
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
-
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía, consiste en hipoteca o prenda;
-
-VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+(DEROGADO, G.O. 13 DE ENERO DE 2004)
 
 ###### ARTICULO 92.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
+(DEROGADO, G.O. 13 DE ENERO DE 2004)
 
-### CAPITULO VIII. De las actas de divorcio
+### CAPITULO VIII. De las actas, anotaciones e inscripciones de divorcio
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 93.
 
@@ -693,19 +705,31 @@ En los casos de emancipación por efecto del matrimonio, no se extenderá acta p
 
 ### CAPITULO IX. De las actas de defunción
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 97.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Juez del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+Las personas que pretendan contraer matrimonio, deberán presentar un escrito ante el Juez del Registro Civil de su elección, que deberá contener:
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+I. Los nombres, apellidos, edad, ocupación y domicilio de los pretendientes, nombre y apellido de sus padres.
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 II.- Que no tienen impedimento legal para casarse, y
 
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
+
 III.- Que es su voluntad unirse en matrimonio.
 
-Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Este escrito deberá ser firmado por los solicitantes, y asimismo contener su huella digital.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Para el caso de matrimonios fuera de las oficinas del Registro Civil deberá observarse lo establecido en el Reglamento del Registro Civil.
 
 ###### ARTICULO 98.
 
@@ -713,23 +737,23 @@ Al escrito a que se refiere el artículo anterior, se acompañará:
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto sea notorio que son menores de diecisés (sic) años;
+I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto sea notorio que son menores de diecisés (sic) años.
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+II. La constancia de que otorguen su consentimiento las personas a que se refiere el artículo 148 de este Código, para que el matrimonio se celebre.
 
-(REFORMADA, G.O. 25 DE MAYO DE 2000
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen una enfermedad crónica e incurable, que sea, además, contagiosa o hereditaria.
+III. Un documento público de identificación de cada pretendiente o algún otro medio que acredite su identidad de conformidad con lo que establezca el Reglamento del Registro Civil.
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial.
+IV.- (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
 V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
 
 Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente.
 
 VII.- Copia de la dispensa de impedimentos, si los hubo.
 
@@ -739,25 +763,25 @@ VII.- Copia de la dispensa de impedimentos, si los hubo.
 
 En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Juez del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 100.
 
-El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Juez del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 101.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Juez del Registro Civil.
+El matrimonio se celebrará dentro de los ocho días siguientes a la presentación de la solicitud de matrimonio, en el lugar, día y hora que se señale para tal efecto.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 102.
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos, que acrediten su identidad.
+En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 44.
 
-Acto continuo, el Juez del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+Acto continuo, el Juez del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, les hará saber los derechos y obligaciones legales que contraen con el matrimonio, para posteriormente preguntar a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -771,7 +795,9 @@ II.- Si son mayores o menores de edad;
 
 III.- Los nombres, apellidos, ocupación y domicilio de los padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+IV.- En su caso, el consentimiento de quien ejerza la patria potestad, la tutela o las autoridades que deban suplirlo;
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -779,11 +805,15 @@ VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimoni
 
 VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII.- Los nombres, apellidos, edad, estado civil, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea.
+VIII.- (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
-IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-El acta será firmada por el Juez del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+IX. Que se cumplieron las formalidades exigidas por el artículo anterior.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+El acta será firmada por el Juez del Registro Civil, los contrayentes y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 
 En el acta se imprimirán las huellas digitales de los contrayentes.
 
@@ -793,9 +823,11 @@ En el acta se imprimirán las huellas digitales de los contrayentes.
 
 Bis.- La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 104.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -841,13 +873,13 @@ Los Jueces del Registro Civil sólo podrán negarse a autorizar un matrimonio, c
 
 El Juez del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con multa de $1,000.00 y en caso de reincidencia con destitución del cargo.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 113.
 
-El Juez del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+El Juez del Registro Civil que reciba una solicitud de matrimonio, exigirá de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que subscriban el certificado exigido por la fracción IV del artículo 98.
+> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPITULO X. De las Inscripciones de las Ejecutorias que Declaran o Modifican el Estado Civil
 
@@ -855,7 +887,7 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 ###### ARTICULO 114.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Juez del Registro Civil para que levante el acta correspondiente.
+La sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada al Juez del Registro Civil para que realice la anotación en el acta de matrimonio correspondiente.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -863,11 +895,13 @@ La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Juez de
 
 El acta de divorcio administrativo se levantará en los términos prescritos por el artículo 272 de este ordenamiento, previa solicitud por escrito que presenten los cónyuges y en ella se expresará el nombre y apellidos, edad, ocupación y domicilio de los solicitantes, la fecha y lugar de la Oficina en que celebraron su matrimonio y el número de partida del acta correspondiente.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 116.
 
-Extendida el acta se mandará anotar la de matrimonio de los divorciados y la copia de la declaración administrativa de divorcio se archivará con el mismo número del acta.
+Extendida el acta de divorcio administrativo, se mandará anotar en la de matrimonio de los divorciados.
+
+Si el divorcio administrativo se hiciere en oficina distinta de aquella en que se levantó el acta de matrimonio de los divorciados, el Juez del Registro Civil que autorice el acta de divorcio administrativo, remitirá copia de ésta al encargado de la oficina que haya registrado el matrimonio, para que haga la anotación en el acta respectiva.
 
 ### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
 
@@ -875,13 +909,15 @@ Extendida el acta se mandará anotar la de matrimonio de los divorciados y la co
 
 ###### ARTICULO 117.
 
-Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez del Registro Civil, quien se asegurará suficientemente del fallecimiento, con certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez del Registro Civil, quien se asegurará suficientemente del fallecimiento, con el certificado de defunción expedido por médico legalmente autorizado. La inhumación o cremación deberá realizarse dentro de las cuarenta y ocho horas siguientes a la defunción, excepto en los casos de muerte considerada violenta, o por disposición que ordene otra cosa por la autoridad competente.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El certificado de defunción hace prueba del día, hora, lugar y causas del fallecimiento, así como del sexo del fallecido.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 118.
 
-En el acta de fallecimiento se asentarán los datos que el Juez del Registro Civil requiera o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, los parientes si los hay, o los vecinos.
+En el acta de defunción se asentarán los datos que contenga el certificado de defunción, así como los datos que el Juez del Registro Civil requiera y será firmada por el declarante.
 
 ###### ARTICULO 119.
 
@@ -891,13 +927,17 @@ I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
 
 II.- El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+III.- (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
+V.- La causa o enfermedad que originó el fallecimiento de acuerdo a la información contenida en el Certificado de Defunción, y el lugar en el que se inhumará o cremará el cadáver;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VI.- La hora de muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la Averiguación Previa con la que se encuentre relacionada.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -989,9 +1029,9 @@ Ha lugar a pedir la rectificación:
 
 I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado civil, la filiación, la nacionalidad, el sexo y la identidad de la persona.
 
 ###### ARTICULO 136.
 
@@ -1015,11 +1055,13 @@ El juicio de rectificación de acta se seguirá en la forma que se establezca en
 
 La sentencia que cause ejecutoria se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 138 Bis.
 
-La aclaración de las actas del estado civil, procede cuando en el Registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, y deberán tramitarse ante la Oficina Central del Registro Civil.
+La aclaración de las actas del estado civil, procede cuando en el levantamiento del acta correspondiente, existan errores mecanográficos, ortográficos, o de otra índole, que no afecten los datos esenciales de aquellas, y deberán tramitarse ante la Dirección General del Registro Civil.
+
+El Reglamento del Registro Civil, establecerá los supuestos, requisitos y procedimientos para realizar la aclaración de las actas del Estado Civil.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1095,13 +1137,15 @@ Matrimonio es la unión libre de un hombre y una mujer para realizar la comunida
 
 Serán nulos los pactos que hagan los contrayentes, en contravención a lo señalado en el artículo anterior.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
-###### ARTICULO 148.
+###### Artículo 148.
 
 Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
 
-Los menores de edad podrán contraer matrimonio, siempre que ambos hayan cumplido dieciséis años. Para tal efecto, se requerirá del consentimiento de quienes ejerzan la patria potestad, o en su defecto, la tutela; y a falta o por negativa o imposibilidad de éstos, el Juez de lo Familiar suplirá dicho consentimiento, el cual deberá ser otorgado atendiendo a las circunstancias especiales del caso.
+Los menores de edad podrán contraer matrimonio, siempre que ambos hayan cumplido dieciséis años. Para tal efecto, se requerirá del consentimiento del padre o la madre o en su defecto el tutor; y a falta o por negativa o imposibilidad de éstos, el Juez de lo Familiar suplirá dicho consentimiento, el cual deberá ser otorgado atendiendo a las circunstancias especiales del caso.
+
+En caso de que la contrayente se encuentre en estado de gravidez, y así lo acredite a través del certificado médico respectivo el Juez del Registro Civil, a petición del padre o la madre podrá dispensar el requisito a que se refiere el párrafo anterior, pero en ningún caso podrá ser otorgada dicha dispensa a menores de 14 años.
 
 ###### ARTICULO 149.
 
@@ -1149,7 +1193,7 @@ I.- La falta de edad requerida por la Ley;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, el tutor o el Juez de lo Familiar en sus respectivos casos:
+II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, el tutor o el Juez de lo Familiar en sus respectivos casos;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1157,9 +1201,9 @@ III.- El parentesco de consanguinidad, sin limitación de grado en línea recta 
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado.
+V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre.
+VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1341,11 +1385,11 @@ El matrimonio debe celebrarse bajo los regímenes patrimoniales de sociedad cony
 
 Las capitulaciones matrimoniales son pactos que los otorgantes celebran para constituir el régimen patrimonial de su matrimonio y reglamentar la administración de los bienes, la cual deberá recaer en ambos cónyuges, salvo pacto en contrario.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 180.
 
-Las capitulaciones matrimoniales se otorgarán antes de la celebración del matrimonio y durante éste. Podrán otorgarse o modificarse durante el matrimonio, ante el Juez de lo Familiar.
+Las capitulaciones matrimoniales se otorgarán antes de la celebración del matrimonio y durante éste. Podrán otorgarse o modificarse durante el matrimonio, ante el Juez de lo Familiar o ante Notario, mediante escritura pública.
 
 ###### ARTICULO 181.
 
@@ -2501,13 +2545,13 @@ II.- Cuando el alimentista deja de necesitar los alimentos;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-III. En caso de violencia familiar o injurias graves inferidas, por el alimentista mayor de edad, contra el que debe prestarlos;
+III.- En caso de violencia familiar o injurias graves inferidas, por el alimentista mayor de edad, contra el que debe prestarlos;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al estudio del alimentista mayor de edad;
 
-V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables;
 
 > <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2827,9 +2871,11 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre declara q
 
 La filiación también se establece por el reconocimiento de padre, madre o ambos o por una sentencia ejecutoriada que la (sic) así lo declare.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 361.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+Pueden reconocer a sus hijos los que tengan la edad exigida para contraer matrimonio.
 
 ###### ARTICULO 362.
 
@@ -3005,7 +3051,7 @@ I.- A llevar el apellido paterno de sus progenitores, o ambos apellidos del que 
 
 II.- A ser alimentado por las personas que lo reconozcan;
 
-III.- A percibir la porción hereditaria y los alimentos que fije la ley.
+III.- A percibir la porción hereditaria y los alimentos que fije la ley;
 
 > <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3085,7 +3131,7 @@ III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste 
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-IV.- El menor si tiene más de doce años.
+IV.- El menor si tiene más de doce años;
 
 V.- (DEROGADA, G.O. 25 DE MAYO DE 2000)
 
@@ -3417,9 +3463,9 @@ I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
 
-II.- Con la emancipación, derivada del matrimonio.
+II.- Con la emancipación, derivada del matrimonio;
 
-III.- Por la mayor edad del hijo.
+III.- Por la mayor edad del hijo;
 
 > <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3853,7 +3899,7 @@ I.- El Gobierno del Distrito Federal, a través del titular del Sistema para el 
 
 II.- Los titulares de los órganos político administrativos de las demarcaciones territoriales del Distrito Federal;
 
-III.- (DEROGADA, G.O. 25 DE MAYO DE 2000).
+III.- (DEROGADA, G.O. 25 DE MAYO DE 2000)
 
 IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
 
@@ -3863,7 +3909,7 @@ V.- Los integrantes de la Junta de Asistencia Privada del Distrito Federal que d
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-VI.- Los titulares de establecimientos públicos de asistencia social
+VI.- Los titulares de establecimientos públicos de asistencia social.
 
 > <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
@@ -4049,7 +4095,7 @@ El tutor, antes de que se le discierna el cargo, prestará caución para asegura
 
 I.- En hipoteca o prenda;
 
-II.- En fianza.
+II.- En fianza;
 
 > <small>(ADICIONADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -4931,7 +4977,7 @@ II.- Los herederos instituídos en testamento abierto;
 
 III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y
 
-IV.- El Ministerio Público:
+IV.- El Ministerio Público.
 
 ###### ARTICULO 674.
 
@@ -5281,7 +5327,7 @@ II.- La aptitud de sus integrantes de desempeñar algún oficio, profesión, ind
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
-III.- Que poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen
+III.- Que poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen;
 
 IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, la posibilidad de pagar el precio del terreno que se le vende;
 
@@ -7025,7 +7071,7 @@ II.- Entre los consortes;
 
 III.- Entre los incapacitados y sus tutores o curadores, mientras dura la tutela;
 
-IV.- Entre copropietarios o coposeedores, respecto del bien común.
+IV.- Entre copropietarios o coposeedores, respecto del bien común;
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -7409,7 +7455,7 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+XI.- El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -7897,7 +7943,7 @@ IV.- Los ciegos, sordos o mudos;
 
 V.- Los que no entiendan el idioma que habla el testador;
 
-VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes.
+VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes;
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
@@ -8037,20 +8083,6 @@ ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-ARTICULO 1,549-Bis.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
-
-I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
-
-II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
-
-III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;
-
-IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
-
-V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
-
-VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.
-
 ## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO IV. Del testamento ológrafo
@@ -8108,6 +8140,22 @@ ARTICULO 1,563.- El testamento ológrafo quedará sin efecto cuando el original 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 1,564.- El encargado del Archivo General de Notarías no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los Notarios cuando ante ellos se tramite la sucesión.
+
+###### ARTICULO 1549
+
+Bis.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
+
+III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.
 
 ### CAPITULO V. Del testamento privado
 
@@ -8639,7 +8687,7 @@ II.- Por muerte;
 
 III.- Por incapacidad legal, declarada en forma;
 
-IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública.
+IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
 
 V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -9435,7 +9483,7 @@ ARTICULO 2,016.- En el caso del artículo que precede, si no se designa la calid
 
 ARTICULO 2,017.- En los casos en que la obligación de dar cosa cierta importe la traslación de la propiedad de esa cosa, y se pierde o deteriora en poder del deudor, se observarán las reglas siguientes:
 
-I.- Si la pérdida fue por culpa del deudor, éste responderá al acreedor por el valor de la cosa y por los daños y perjuicios.
+I.- Si la pérdida fue por culpa del deudor, éste responderá al acreedor por el valor de la cosa y por los daños y perjuicios;
 
 II.- Si la cosa se deteriorare por culpa del deudor, el acreedor puede optar por la rescisión del contrato y el pago de daños y perjuicios, o recibir la cosa en el estado que se encuentre y exigir la reducción de precio y el pago de daños y perjuicios;
 
@@ -10573,7 +10621,7 @@ I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y 
 
 II.- A conservar la cosa arrendada en buen estado, salvo el deterioro normal del uso que sufra el inmueble durante el arrendamiento, haciendo para ello todas las reparaciones necesarias; así como, las obras de mantenimiento para la conservación, funcionalidad y seguridad del inmueble;
 
-III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables.
+III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
 
 IV.- A garantir el uso o goce pacífico de la cosa por todo el tiempo del contrato;
 
@@ -10623,7 +10671,7 @@ ARTICULO 2,425.- El arrendatario está obligado:
 
 I.- A satisfacer la renta en la forma y tiempo convenidos;
 
-II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios.
+II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
 III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
 
@@ -10741,7 +10789,7 @@ III.- Descripción detallada del inmueble objeto del contrato y de las instalaci
 
 > <small>(REFORMADA, G.O. 16 DE ENERO DE 2003)</small>
 
-IV. - El monto y lugar del pago de renta;
+IV. - El monto y lugar del pago de renta.
 
 V.- La garantía, en su caso.
 
@@ -10753,7 +10801,7 @@ VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente 
 
 > <small>(ADICIONADA, G.O. 16 DE ENERO DE 2003)</small>
 
-IX.- El monto del depósito o en su caso los datos del fiador en garantía;
+IX.- El monto del depósito o en su caso los datos del fiador en garantía.
 
 (ADICIONADA, G.O. 16 DE ENERO DE 2003) (F. DE E., G.O. 6 DE FEBRERO DE 2003)
 
@@ -10825,7 +10873,7 @@ ARTICULO 2,448 L.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 > <small>(ADICIONADO, G.O. 16 DE ENERO DE 2003)</small>
 
-ARTICULO 2,448 M.- Si durante el arrendamiento se suscitare el divorcio del arrendatario, y la guarda y custodia de los menores habidos en el matrimonio, se le otorga judicialmente a su cónyuge, éste o ésta se subrogarán voluntariamente, en los derechos y obligaciones correspondientes del arrendamiento, en los términos y condiciones del contrato respectivo, quedando desde luego en posesión del inmueble arrendado, siempre u cuando lo hayan cohabitado durante el matrimonio, lo mismo se aplicará en el caso de concubinato
+ARTICULO 2,448 M.- Si durante el arrendamiento se suscitare el divorcio del arrendatario, y la guarda y custodia de los menores habidos en el matrimonio, se le otorga judicialmente a su cónyuge, éste o ésta se subrogarán voluntariamente, en los derechos y obligaciones correspondientes del arrendamiento, en los términos y condiciones del contrato respectivo, quedando desde luego en posesión del inmueble arrendado, siempre u cuando lo hayan cohabitado durante el matrimonio, lo mismo se aplicará en el caso de concubinato.
 
 ARTICULO 2,449.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -10967,7 +11015,7 @@ ARTICULO 2,482.- (DEROGADO, G.O. 16 DE ENERO DE 2003)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ENERO DE 2003)</small>
 
-ARTICULO 2,483.- El arrendamiento puede terminar
+ARTICULO 2,483.- El arrendamiento puede terminar:
 
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fue arrendada;
 
@@ -10983,7 +11031,7 @@ VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o
 
 VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
 
-VIII.- Por evicción de la cosa dada en arrendamiento.
+VIII.- Por evicción de la cosa dada en arrendamiento;
 
 > <small>(ADICIONADA, G.O. 16 DE ENERO DE 2003)</small>
 
@@ -11013,7 +11061,7 @@ I.- Por falta de pago de la renta en los términos previstos en la fracción I d
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2,425;
 
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480.
+III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480;
 
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -11021,7 +11069,7 @@ IV.- Por daños graves a la cosa arrendada imputables al arrendatario; y
 
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
-V.- Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441.
+V.- Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441;
 
 > <small>(ADICIONADA, G.O. 16 DE ENERO DE 2003)</small>
 
@@ -11623,7 +11671,7 @@ II.- La razón social;
 
 III.- El objeto de la sociedad;
 
-IV.- El importe del capital social y la aportación con que cada socio debe contribuir;
+IV.- El importe del capital social y la aportación con que cada socio debe contribuir.
 
 Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2,691.
 
@@ -12575,7 +12623,7 @@ I.- La deuda por gastos de salvamento, con el valor de la cosa salvada;
 
 II.- La deuda contraída antes del concurso, expresamente para ejecutar obras de rigurosa conservación de algunos bienes, con el valor de éstos; siempre que se pruebe que la cantidad prestada se empleó en esas obras;
 
-III.- Los créditos a que se refiere el artículo 2,644, con el precio de la obra construída:
+III.- Los créditos a que se refiere el artículo 2,644, con el precio de la obra construída;
 
 IV.- Los créditos por semillas, gastos de cultivo y recolección, con el precio de la cosecha para que sirvieron y que se halle en poder del deudor;
 
@@ -13165,11 +13213,11 @@ I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripci
 
 II.- La naturaleza, extensión y condiciones del derecho de que se trate;
 
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título.
+III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título;
 
 IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; y los réditos, si se causaren, y la fecha desde que deban correr;
 
-V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción.
+V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción;
 
 VI.- La naturaleza del hecho o negocio jurídico; y
 
@@ -13189,7 +13237,7 @@ Las que provengan de una declaración de expropiación, limitación de dominio u
 
 ARTICULO 3,063.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
 
-I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice.
+I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice;
 
 II.- La causa por la que se hace la cancelación;
 
@@ -13361,7 +13409,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES
 
 ###### ARTICULO 1o.
 
@@ -13736,3 +13784,7 @@ G.O. 16 DE ENERO DE 2003.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor 60 días naturales después de su publicación en la Gaceta Oficial del Distrito Federal.
