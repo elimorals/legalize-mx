@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-presupuesto-de-egresos-del-estado-de-9980"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1966-03-19"
-last_updated: "1966-03-19"
+last_updated: "1990-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1990.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", del sábado 19 de marzo de 1966.
 
@@ -61,9 +61,11 @@ III. Según la finalidad del gasto.
 
 Elaboración del Proyecto del Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 3o.
 
-El Proyecto del Presupuesto de Egresos del Estado que formule anualmente el Ejecutivo, será elaborado por conducto de la Tesorería General del Estado, quien para el efecto tendrá las atribuciones y desempeñará las funciones siguientes:
+El Proyecto de Presupuesto de Egresos del Estado que formule anualmente el Ejecutivo, será elaborado por conducto de la Secretaría de Planeación y Desarrollo, quien para el efecto, tendrá las atribuciones y desempeñará las funciones siguientes:
 
 I. Formular y expedir el instructivo para la formación del proyecto del Presupuesto de Egresos.
 
@@ -81,11 +83,17 @@ VI. Fijar las sumas definitivas que habrán de incluirse en el proyecto del Pres
 
 Las distintas etapas que constituyen el proceso anual de la elaboración del Proyecto del Presupuesto de Egresos deberán sujetarse a los siguientes plazos y fechas:
 
-I. La Tesorería General del Estado deberá expedir el instructivo para la elaboración de el Proyecto del Presupuesto de Egresos, a más tardar el día 30 de septiembre.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 1990)</small>
 
-II. Las dependencias de Gobierno deberán formular y presentar a Tesorería General del Estado, los anteproyectos de Presupuesto de Egresos correspondientes a sus ramos, durante el período del 1o. al 20 de octubre.
+I. La Secretaría de Planeación y Desarrollo expedirá los lineamientos para la formulación del Presupuesto de Egresos, a más tardar el 30 de agosto, y los enviará a los Poderes Legislativo y Judicial y a las Dependencias del Gobierno del Estado.
 
-III. La Tesorería General del Estado presentará para revisión del Ejecutivo el Proyecto del Presupuesto de Egresos del Estado a más tardar el día 21 de noviembre.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 1990)</small>
+
+II. Las dependencias formularán y presentarán a la Secretaría de Planeación y Desarrollo, los anteproyectos del Presupuesto de Egresos correspondiente a su ramo, durante el período del 1 al 30 de septiembre.
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 1990)</small>
+
+III. La Secretaría de Planeación y Desarrollo, presentará a consideración del Ejecutivo el Proyecto de Presupuesto de Egresos del Estado a más tardar el 21 de noviembre.
 
 Los plazos y fechas mencionados en este artículo corresponden al año inmediato anterior a aquel en que habrá de regir el Presupuesto de Egresos a cuyo proyecto se refiere.
 
@@ -115,27 +123,41 @@ Reformas al Presupuesto de Egresos.
 
 La aplicación de Leyes, Decretos o Programas determinados con posterioridad a la aprobación del Presupuesto de Egresos, cuya ejecución requiera el desembolso de fondos públicos, motivará las modificaciones necesarias al propio Presupuesto.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 10o.
 
-En los casos a que se refiere el Artículo anterior, será la Tesorería General del Estado, quien formule las iniciativas de reformas correspondientes para ser remitidas al Congreso por el Ejecutivo del Estado.
+En los casos a que se refiere el artículo anterior, será la Secretaría de Planeación y Desarrollo, quien formule las iniciativas de reformas correspondientes para ser remitidas al Congreso por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 11o.
 
-Las dependencias gubernamentales solicitarán de la Tesorería General del Estado con los informes que justifiquen su petición, las modificaciones correspondientes, cuando las asignaciones fijadas en el Presupuesto de Egresos resultasen insuficientes o inadecuadas para cubrir el servicio a que se destinan. La Tesorería General del Estado, en los casos en que considere justificada y factible la modificación, formulará la iniciativa correspondiente para ser sometida por el Ejecutivo a la aprobación del Congreso del Estado.
+Los Poderes Legislativo y Judicial y las dependencias de la administración pública estatal, solicitarán a la Secretaría de Planeación y Desarrollo, previa justificación, las modificaciones presupuestales que se requieran para el cumplimiento de sus funciones durante el ejercicio fiscal.
+
+Las (sic) Secretarías (sic) de Planeación y Desarrollo, estudiará y en su caso, autorizará las adecuaciones presupuestales, siempre y cuando éstas no constituyan presiones de gastos que impliquen erogaciones adicionales al monto anual del Presupuesto de Egresos, aprobado por el H. Congreso del Estado.
+
+La (sic) Secretaría (sic) de Hacienda Pública y Tesorería y de Planeación y Desarrollo analizarán todas aquellas solicitudes de modificación presupuestal que signifiquen ampliaciones al monto del Presupuesto anual de Egresos aprobado, y formularán recomendaciones que someterán a la consideración del C. Gobernador del Estado.
+
+En el caso de que las ampliaciones presupuestales solicitadas requieran de crédito para su financiamiento, la Secretaría de Planeación y Desarrollo, formulará la iniciativa correspondiente para ser sometida por el Ejecutivo del Estado al H. Congreso.
 
 ### CAPITULO V.
 
 Ejecución del Presupuesto de Egresos.
 
+(REFORMADO, P.O. 12 DE ENERO DE 1990) (F. DE E., P.O. 17 DE ENERO DE 1990)
+
 ###### ARTICULO 12o.
 
-El Gobernador, por conducto de la Tesorería General del Estado tendrá a su cargo la ejecución del Presupuesto aprobado por el Congreso, vigilando la exacta aplicación del mismo. Para este efecto, la Tesorería General determinará las normas a que debe sujetarse dicha ejecución y tendrá amplias facultades para hacer las inspecciones, comprobaciones y auditorías de la aplicación presupuesta (sic) que juzgue necesarias.
+El Gobernador, por conducto de la Secretaría de Planeación y Desarrollo, tendrá a su cargo, el control del ejercicio del presupuesto aprobado por el H. Congreso, vigilando la exacta aplicación del mismo. Para este efecto, la Secretaría de Planeación y Desarrollo, determinará las normas a que debe sujetarse dicha ejecución y tendrá amplias facultades para hacer las inspecciones, comprobaciones y auditorías de la aplicación presupuestaria que juzgue necesarias.
 
 ###### ARTICULO 13o.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del Presupuesto que lo autorice y que acuse saldo suficiente para cubrirlo.
 
-Para que una erogación sea lícita, deberá ajustarse estrictamente al texto de la partida que reciba el cargo. En los casos de duda, la Tesorería General del Estado resolverá lo conveniente.
+> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 12 DE ENERO DE 1990)</small>
+
+Para que una erogación sea lícita, deberá ajustarse estrictamente al texto de la partida que reciba el cargo. En los casos de duda, la Secretaría de Planeación y Desarrollo resolverá lo conveniente.
 
 ###### ARTICULO 14o.
 
@@ -151,21 +173,27 @@ Toda transferencia que se efectúe con base en lo dispuesto en este artículo, d
 
 Todo gasto con cargo a las partidas globales o extraordinarias, requerirá libramiento autorizado por el Gobernador.
 
-Los libramientos serán expedidos por conducto de la Tesorería General del Estado, a petición de las diversas dependencias gubernamentales, mediante solicitudes o auterizaciones (sic) de pago, de acuerdo con los lineamientos y requisitos que al efecto fije la propia Tesorería General del Estado.
+> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 12 DE ENERO DE 1990)</small>
+
+La liberación de los recursos, serán expedidas por la Secretaría de Planeación y Desarrollo, a petición de las diversas dependencias gubernamentales, mediante solicitudes o autorizaciones de pago, de acuerdo con los lineamientos y requisitos que al efecto fije la propia Secretaría de Planeación y Desarrollo.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 17o.
 
-Todas las dependencias de Gobierno que sean aurorizadas (sic) para formular solicitudes o autorizaciones de pago, tendrá la obligación de vigilar que el importe de las mismas se encuentre acorde con el calendario de pagos que formule la Tesorería General del Estado, y que no excedan el monto de las partidas autorizadas, cuidando que el concepto de los gastos que originen dichas solieitudes (sic) o autorizaciones se encuentren estrictamente apegados a los lineamientos del Presupuesto de Egresos.
+Todas las dependencias de gobierno que sean autorizadas para formular solicitudes o autorizaciones de pago, tendrán la obligación de vigilar que el importe de las mismas se encuentre acorde con el calendario de pagos que formule la Secretaría de Planeación y Desarrollo y que no excedan el monto de las partidas autorizadas, cuidando que el concepto de los gastos que originen dichas solicitudes o autorizaciones, se encuentren estrictamente apegadas a la liberación de recursos del presupuesto anual de egresos.
 
-Para dar cumplimiento a lo indicado en el primer párrafo de éste Artículo, las dependencias que lo estimen necesario, podrán manejar los registros contables que proporcionen la información y control requeridos.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 18o.
 
-Los registros contables que lleve la Tesorería General del Estado cen (sic) motivo de la ejecución del Presupuesto, serán manejados sobre la base de partida doble y mediante el procedimiento conocido como "Base de Caja Modificada".
+Para la correcta ejecución y control del ejercicio presupuestal, la Secretaría de Planeación y Desarrollo, contará con registros actualizados a nivel de dependencia, partida y concepto del gasto, conforme lo establece la contabilidad gubernamental.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 19o.
 
-La Tesorería General del Estado examinará, autorizará y registrará los actos, programas de trabajo y contratos que afecten o comprometan a las finanzas gubernamentales. Por lo tanto, ningún acto, programa o contrato que afecte o pueda afectar al Presupuesto de Egresos, se considerará legalmente formulado o celebrado si no ha sido autorizado y registrado por la Tesorería General del Estado.
+La Secretaría de Planeación y Desarrollo, examinará, autorizará y registrará los programas de trabajo y contratos que afecten o comprometan a las finanzas gubernamentales. Por lo tanto, ningún acto, programa o contrato que afecta o pueda afectar al presupuesto de egresos, se considerará legalmente formulado o celebrado si no ha sido autorizado y registrado por la Secretaría de Planeación y Desarrollo.
 
 ### CAPITULO VI
 
@@ -183,21 +211,27 @@ A excepción de las relativas a deuda pública, las partidas eomprendidas (sic) 
 
 Las obligaciones contraídas fuera de las asignaciones presupuestales por las que deban satisfacer en ejercicios posteriores a aquel en que se contrajeron, requieren, para ser pagadas, el reconocimiento por medio de Ley expresa en la que se fijen los términos de pago.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 23o.
 
-Cuando pretendan contraerse obligaciones financieras que afecten futuros ejercicios presupuestales, la Tesorería General del Estado manifestará su conformidad o inconformidad fundando su resolución.
+Cuando pretendan contraerse obligaciones financieras que afecten futuros ejercicios presupuestales, la Secretaría de Planeación y Desarrollo manifestará su conformidad o inconformidad fundando su resolución.
 
 ### CAPITULO VII
 
 Evaluación del Ejercicio del Presupuesto.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 24o.
 
-El Congreso del Estado, por medio de la Contaduría Mayor de Hacienda, revisará los estados financieros que se deriven del ejercicio del Presupuesto y que para el efecto formulará el Ejecutivo por conducto de la Tesorería General del Estado, quien deberá mantener en sus archivos todos los comprobantes y documentos comprobatorios que justifiquen los movimientos contables efectuados. Dichos comprobantes o documentos comprobatorios deberán estar en todo momento a disposición del Congreso del Estado quien podrá ordenar su revisión o inspección en las propias Oficinas de la Tesoresia (sic) General del Estado, o bien, solicitar le sean remitidas en las Oficinas del Congreso del Edo., según lo juzge (sic) conveniente.
+El Congreso del Estado, por medio de la Contaduría Mayor de Hacienda, revisará los estados financieros que se deriven del ejercicio del presupuesto y que para el efecto formulará el Ejecutivo, por conducto de la Secretaría de Planeación y Desarrollo. Los documentos comprobatorios que justifiquen los movimientos contables efectuados deberán mantenerse en los archivos de las dependencias que el Ejecutivo haya autorizado para tal efecto. Dichos comprobantes deberán estar en todo momento a disposición del H. Congreso del Estado, quien podrá ordenar su revisión o inspección en las propias oficinas de las dependencias del Ejecutivo, o bien, solicitar le sean remitidas a sus oficinas, según lo juzgue conveniente.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 25o.
 
-La Tesorería General del Estado, está obligada a presentar al Congreso toda información que le sea solicitada para el mejor entendimiento de los estados financieros y de los comprobnates (sic) o demás documentos con base en los cuales se hubiesen operado los movimientos contables.
+Las dependencias del Ejecutivo, están obligadas a presentar al Congreso con toda la información que les sea solicitada para el mejor entendimiento de los estados financieros y los comprobantes o demás documentos, con base en los cuales se hubieran operado los movimientos contables.
 
 ###### ARTICULO 26o.
 
@@ -248,3 +282,19 @@ LIC. ALEJANDRO RIOS ESPINOZA.
 El Tesorero General del Estado.
 
 LIC. ALFREDO VALDEZ MONTOYA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan con las presentes reformas.
+
+###### ARTICULO TERCERO.
+
+Se concede un plazo de treinta días al Ejecutivo Local para que en cumplimiento a las disposiciones que en el presente decreto se contienen, se realicen las adecuaciones al Reglamento Orgánico de la Administración Pública Estatal y demás disposiciones reglamentarias para el estricto cumplimiento de las obligaciones que esta impone.
