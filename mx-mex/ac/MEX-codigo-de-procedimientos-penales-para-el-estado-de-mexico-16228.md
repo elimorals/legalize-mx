@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2000-09-01"
+last_updated: "2002-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -655,6 +655,10 @@ IV. A los que estén ligados con el probable responsable del hecho posiblemente 
 
 V. A los abogados que hubieren conocido de los hechos posiblemente constitutivos de delito por instrucciones o explicaciones recibidas en su ejercicio profesional, ni a los ministros de cualquier culto que les hubiere sido revelado en el ejercicio de su ministerio.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+VI.- A los mediadores o conciliadores que conocieren de los hechos constitutivos de delito durante el proceso de mediación o conciliación en que hubieren intervenido.
+
 ###### Artículo 100.
 
 Toda persona que en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un delito que deba perseguirse de oficio, está obligada a participarlo inmediatamente al Ministerio Público, transmitiéndole todos los datos que tuviere, poniendo a su disposición, desde luego, a los indiciados, si hubieren sido detenidos.
@@ -1091,6 +1095,10 @@ V. Cuando la víctima o el ofendido sean menores de edad, no estarán obligados 
 
 VI. Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+VII.- Solicitar los servicios del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
+
 ## TITULO QUINTO. INSTRUCCION
 
 ### CAPITULO I. AUTO DE RADICACION
@@ -1258,6 +1266,18 @@ En este caso el Ministerio Público Adscrito se sujetará al plazo establecido e
 Dictado el auto de formal prisión o el de sujeción a proceso, el procedimiento se desarrollará en audiencias de pruebas, que serán públicas.
 
 En dichos autos el juez citará a una primera audiencia de ofrecimiento de pruebas para después de cinco y antes de diez días naturales.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de delitos perseguibles por querella, los tribunales podrán remitir a las partes al Centro de Mediación y Conciliación del Poder Judicial, hasta antes de dictarse sentencia ejecutoria, previo consentimiento que deberá constar en forma fehaciente, con objeto de que intenten avenir sus intereses.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+En caso de llegarse a algún acuerdo, se remitirá éste al juez del conocimiento para los efectos a que se refiere el artículo 91 del Código Penal; de lo contrario se continuará con el procedimiento judicial.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+Respecto de delitos perseguibles de oficio, sólo el pago de la reparación del daño podrá sujetarse a la mediación o conciliación.
 
 ###### Artículo 186.
 
@@ -2541,7 +2561,13 @@ I. Cuando el procesado se hubiere sustraído a la acción de la justicia;
 
 II. Cuando al procesado le sobrevenga una causa de inimputabilidad o alguna enfermedad incurable en fase terminal; o
 
-III. En los demás casos que la ley ordene expresamente la suspensión del procedimiento.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+III. Cuando tratándose de delitos por querella, el procesado y la víctima o el ofendido por algún delito, hayan consentido en acudir al Centro de Mediación y Conciliación del Poder Judicial, para intentar algún acuerdo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+IV. En los demás casos que la ley ordene expresamente la suspensión del procedimiento.
 
 ###### Artículo 388.
 
@@ -2733,9 +2759,11 @@ En la forma señalada en el artículo anterior, procederán las autoridades judi
 
 Las sanciones se ejecutarán una vez que la sentencia haya causado ejecutoria.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 423.
 
-El órgano jurisdiccional que hubiere conocido la primera instancia dictará las disposiciones necesarias para la ejecución de la sentencia.
+El órgano jurisdiccional que hubiere conocido la primera instancia dictará las disposiciones necesarias para la ejecución de la sentencia, pudiendo recomendar la mediación y conciliación como medio para restaurar las relaciones humanas y sociales afectadas por el delito.
 
 ###### Artículo 424.
 
@@ -2816,3 +2844,9 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 SEGUNDO.- Las reformas a los artículos 162 y 209 del Código de Procedimientos Penales para el Estado de México, entrarán en vigor cinco días después del inicio de vigencia de la reforma al artículo 20 de la Constitución General de la República.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 10 DE DICIEMBRE DE 2002
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
