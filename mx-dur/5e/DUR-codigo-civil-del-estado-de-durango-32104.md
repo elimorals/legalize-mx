@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1998-06-28"
+last_updated: "2001-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2001.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -181,9 +181,11 @@ ART. 37.- Si se perdiere ó destruyere alguna de las formas en que se asientan l
 
 La propia Dirección General del Registro Civil en el Estado, cuidará de que se cumpla esta disposición.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2001)</small>
 
-ART. 38.- El estado civil de las personas sólo se comprueba con las Copias Certificadas de las Actas del Registro Civil y de los documentos del apéndice; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
+ART. 38.- El estado civil de las personas sólo se comprueba con las copias certificadas de las Actas del Registro Civil, los documentos del apéndice y con las constancias certificadas de las actas del Registro Civil, ningún otro documento, ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley.
+
+Las constancias certificadas de las actas del Registro Civil, contendrán los requisitos que señale el Reglamento del Registro Civil y de acuerdo al formato que expida la Dirección del Registro Civil en el Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1421,7 +1423,7 @@ II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyend
 
 III.- Que el presunto padre tenga la edad exigida por el artículo 356.
 
-ART. 339 .- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+ART. 339 .- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideraran como hijos de matrimonio.
 
 ART. 340.- No basta el dicho de la madre para excluir la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
 
@@ -9704,3 +9706,7 @@ Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE JUNIO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 2001.
+
+UNICO:- La presente reforma entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
