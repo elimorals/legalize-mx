@@ -1,0 +1,1136 @@
+---
+title: "LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO"
+identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
+country: "mx"
+rank: "ley"
+publication_date: "1997-11-18"
+last_updated: "1997-11-18"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-jal"
+scjn_id: "12360"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "25 SECCION II"
+reform_count: "18"
+scjn_last_update: "2024-03-09"
+issue_date: "1997-11-10"
+state: "JAL"
+---
+# LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
+
+LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
+
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo.: Secretaría General de Gobierno. Estados Unidos Mexicanos.
+
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
+
+DECRETO
+
+NUMERO 16794. El Congreso del Estado decreta:
+
+ÚNICO. Se modifica el Decreto Número 16465, aprobado por esta H. Legislatura el día 19 de diciembre de 1996 y regresado por el Ejecutivo del Estado con sus observaciones, en los términos del entonces vigente artículo 33 constitucional, para quedar como sigue:
+
+Ley de Catastro Municipal del Estado de Jalisco
+
+### CAPÍTULO I. Disposiciones generales y objetivos del Catastro
+
+###### Artículo 1°.
+
+Catastro es el inventario y la valuación, precisos y detallados, de los bienes inmuebles públicos y privados ubicados en la municipalidad.
+
+###### Artículo 2°.
+
+El Catastro tiene por objeto la determinación de las características cualitativas y cuantitativas de los predios y construcciones ubicados dentro del municipio, mediante la formación y conservación de los registros y bases de datos que permitan su uso múltiple, como medio para obtener los elementos técnicos, estadísticos y fiscales que lo constituyen.
+
+El registro y la valuación catastral se declaran de utilidad pública, para fines fiscales, socioeconómicos y urbanísticos.
+
+###### Artículo 3°.
+
+Están obligados a observar las disposiciones de esta Ley:
+
+I. Los titulares de los predios: propietarios, copropietarios o poseedores a título de dueño de terrenos o construcciones con localización en el territorio del Estado;
+
+II. Los notarios y quienes tengan fe pública, cuando intervengan en la autorización de escrituras relativas a actos traslativos de dominio de bienes inmuebles;
+
+III. Las autoridades fiscales que administren contribuciones que se determinen sobre la propiedad inmobiliaria, su división, consolidación, traslación, urbanización, edificación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
+
+IV. Las autoridades judiciales que autoricen actos traslativos de dominio de algún bien inmueble dentro del Estado;
+
+V. Los urbanizadores;
+
+VI. Los peritos valuadores autorizados para practicar avalúos y los valuadores dependientes de la autoridad catastral;
+
+VII. Quienes adquieran algún bien inmueble por contrato privado.
+
+###### Artículo 4°.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Predio: la porción de terreno comprendida dentro de un perímetro, con construcciones o sin ellas, que pertenezca en propiedad o posesión a una o varias personas. En el caso de condominios, se entenderá como predio a la unidad privativa;
+
+II. Unidad Privativa: es el conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condómino;
+
+III. Infraestructura del predio: el conjunto de obras que hacen posible la utilización de un predio, tales como redes de agua potable, alcantarillado, colectores, sistema de riego, gas, energía eléctrica, comunicaciones y otros;
+
+IV. Urbanización: el proceso técnico para lograr a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento;
+
+V. Obras de urbanización: todas aquellas acciones materiales de adecuación espacial necesarias a realizar en el suelo rústico para convertirlo en urbanizado, integrándole los elementos requeridos para edificar; o bien, en el suelo urbanizado para mejorarlo con el mismo fin o para permitir el desempeño de otras funciones en el centro de población;
+
+VI. Edificación: todas aquellas acciones de adecuación espacial necesarias a realizar en un predio para permitir su utilización;
+
+VII. Superficie útil construible: es aquella que resulta de descontar las áreas de restricciones tomando en cuenta los coeficientes de uso y ocupación del suelo;
+
+VIII. Equipamiento del predio: el conjunto de instalaciones, construcciones y equipos necesarios para la utilización del predio;
+
+IX. Jardín: el espacio de terreno libre de construcción y cubierto por plantas y elementos de ornato;
+
+X. Centro de población: las áreas urbanas ocupadas por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas; y las que se dediquen a la fundación del mismo, conforme a las leyes aplicables;
+
+XI. Provisiones: las áreas que serán utilizadas para la fundación de un centro de población;
+
+XII. Usos: los fines particulares a que podrán dedicarse determinadas zonas, áreas y predios de un centro de población;
+
+XIII. Destinos: los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
+
+XIV. Reservas: las áreas de un centro de población que serán utilizadas para su futuro crecimiento;
+
+XV. Límite del centro de población: el polígono determinado por el Congreso del Estado, conforme a la Ley de Desarrollo Urbano, a propuesta del ayuntamiento del municipio en donde se localice;
+
+XVI. Zonas: las delimitaciones administrativas en que se divide el territorio del municipio pudiendo ser las que se establecen en los planes de desarrollo urbano municipal;
+
+XVII. Vías públicas:
+
+a) Los predios destinados a los fines públicos del tránsito peatonal, vehicular y el transporte colectivo, y
+
+b) Los caminos públicos, destinados temporal o permanentemente al tránsito de personas, semovientes y vehículos, incluyendo el área del derecho de vía de los mismos.
+
+No tienen el carácter de vías públicas los predios pertenecientes al dominio privado de la Federación, del Estado, del Municipio o de los particulares, para fines restringidos o aprovechamientos privados, así como los bienes de uso común de los condominios;
+
+XVIII. Manzana: la superficie de terreno debidamente delimitada constituida por uno o más predios, colindante con vías o áreas públicas;
+
+XIX. Fusión: la unión en un solo predio de dos o más predios colindantes;
+
+XX. Subdivisión: la partición de un predio en dos o más fracciones;
+
+XXI. Valor fiscal: el que se asigne o apruebe para cada predio, de conformidad con los procedimientos previstos en esta Ley y la de Hacienda Municipal;
+
+XXII. Valor catastral: será el valor que se determine mediante procedimientos técnicos, siendo en todo momento lo más apegado al valor real;
+
+XXIII. Tablas de Valores: es el conjunto de elementos y valores unitarios aprobados y contenidos en los planos de las zonas respecto al valor del terreno, así como la relación con las clasificaciones de construcción y demás elementos que deberán de tomarse en consideración para la valuación;
+
+XXIV. Valor Unitario: el valor que por metro cuadrado o por hectárea apruebe el cabildo municipal en tablas de valores, para cuantificar el valor catastral de cada uno de los predios;
+
+XXV. Valor provisional: el valor que fije la autoridad catastral a los predios de los que no se hayan obtenido los elementos técnicos para determinarle valor catastral definitivo;
+
+XXVI. Valuación catastral: la determinación del valor catastral de los predios, conforme al procedimiento técnico establecido en la presente Ley;
+
+XXVII. Revaluación catastral: la actualización de los valores catastrales que le correspondan a cada predio, por alguna de las causas que se establezcan en esta Ley y la de Hacienda Municipal;
+
+XXVIII. Perito valuador: es el profesionista que cuenta con los conocimientos técnicos, especializados en bienes inmuebles y valuación, necesarios para formular avalúos, registrado ante la Dirección de Catastro del Gobierno del Estado y acreditado ante la autoridad catastral municipal;
+
+XXIX. Valuador: el servidor público dependiente de la autoridad catastral que elabora los dictámenes;
+
+XXX. Registros catastrales: los documentos gráficos, escritos e información contenidos en las bases de datos, así como todos los demás elementos que integran el catastro;
+
+XXXI. Cartografía catastral: el conjunto de mapas, planos, fotografías y archivos, que determinan la delimitación de los predios, zonas y áreas en que se divide el territorio del municipio;
+
+XXXII. Información catastral: las características cualitativas y cuantitativas de los predios;
+
+XXXIII. Clave catastral: el código que identifica al predio en forma única, para su localización cartográfica, el cual será homogéneo en todo el Estado y se integrará con los elementos que se establezcan en el Reglamento de esta Ley;
+
+XXXIV. Cuenta Catastral: es el código mediante el cual se identifica el predio para efectos del impuesto predial;
+
+XXXV. Ubicación: la localización del predio definida por su clave catastral, de acuerdo a su nomenclatura y número oficial o mediante sus coordenadas geográficas;
+
+XXXVI. Región Catastral: el territorio de índole operativa que determine la autoridad catastral;
+
+XXXVII. Formación del catastro: integración de la información de los registros catastrales;
+
+XXXVIII. Conservación del catastro: la actualización de la información de los registros catastrales;
+
+XXXIX. Zona Conurbada: el área urbana que determine el Plan de Ordenamiento de la Zona Conurbada de que se trate;
+
+XL. Secretaría de Finanzas: la Dependencia del Poder Ejecutivo Estatal competente en materia fiscal y sus dependencias recaudadoras;
+
+XLI. Dirección de Catastro del Gobierno del Estado: La dependencia facultada para ejercer las atribuciones que le confiera esta Ley;
+
+XLII. Catastro Municipal: La dependencia que determine o establezca el ayuntamiento, a quien corresponderán las atribuciones de autoridad catastral y tendrá a su cargo las operaciones catastrales. Esta dependencia se integrará y operará con base en las disposiciones de este Ordenamiento y las que regulen la estructura orgánica del municipio;
+
+XLIII. Ley: la Ley de Catastro Municipal del Estado de Jalisco;
+
+XLIV. Reglamentos y normas técnicas: el conjunto de disposiciones administrativas y especificaciones técnicas necesarias para integrar la información y registros del catastro, y
+
+XLV. Registrar: es el empadronamiento que se realiza ante la autoridad catastral, respecto de los datos que se asienten de los bienes inmuebles.
+
+###### Artículo 5°.
+
+Para los efectos de esta Ley, los predios se clasifican en:
+
+I. Predio urbano: el que se encuentre dentro del área de influencia de un centro de población, cuando se localice sobre calles trazadas y cuente cuando menos con dos de los tres servicios municipales, que son: agua, drenaje y electricidad, ya sea directamente o en alguna de sus colindancias. En las localidades que carezcan de estos servicios, bastará con que se localicen sobre calles trazadas;
+
+II. Predio improductivo urbano: aquel que siendo urbano:
+
+a) No sea utilizado anualmente la mayor parte del tiempo para usos habitacionales, industriales, comerciales y de prestación de servicios, conforme a las normas de zonificación contenidas en los planes de desarrollo urbano;
+
+b) No cumpla funciones de equipamiento urbano, como estacionamientos y áreas deportivas, con la infraestructura e instalaciones adecuadas, y
+
+c) No cumpla funciones de conservación del patrimonio cultural o de protección del medio ambiente;
+
+III. Predio rústico: aquel que no reúna los elementos necesarios para ser predio urbano;
+
+IV. Predio edificado: aquel que tenga construcciones permanentes.
+
+Si un predio baldío es colindante de uno edificado, podrá clasificarse con las características del predio construido si su uso se destina como accesorio del segundo, previo dictamen de la autoridad catastral, que tomará en cuenta la suma de las dos superficies, en los términos del inciso d), de la fracción V de este artículo;
+
+V. Predio no edificado o baldío: al predio que:
+
+a) No tenga construcciones y se encuentre improductivo;
+
+b) Teniendo construcciones, éstas sean de carácter provisional y se encuentre improductivo;
+
+c) Teniendo construcciones de carácter permanente, estén en proceso, suspendidas o en estado ruinoso y se encuentre improductivo, y
+
+d) Estando ubicado dentro de las áreas conurbadas, tenga construcciones permanentes en una área inferior al 25% de la superficie útil construible autorizada, o que, al practicar el avalúo de las edificaciones, éstas resulten con un valor menor al cincuenta por ciento del valor del terreno.
+
+Se exceptuarán del tratamiento indicado en este inciso, cuando se acredite respecto del predio, mediante dictamen de la autoridad catastral, alguno de los siguientes supuestos:
+
+1. Se utilice con fines habitacionales, educativos, comerciales, industriales y de prestación de servicios;
+
+2. Las áreas no construidas sean utilizadas para actividades deportivas, siempre que cuenten con la infraestructura, equipamiento e instalaciones adecuadas;
+
+3. Se utilice en actividades de asistencia social, o
+
+4. Esté clasificado por sus características o valores como ecológico, histórico o cultural.
+
+###### Artículo 6.
+
+Para los efectos de las disposiciones de este ordenamiento, las construcciones o edificaciones se clasifican en:
+
+I. Permanentes: son aquellas que tengan posibilidades de aprovechamiento definitivo por su tipo de materiales empleados, cimentación, estructura y demás características;
+
+II. Provisionales: son aquellas que por su uso transitorio, sus materiales empleados y sus técnicas de edificación, puedan removerse fácilmente;
+
+III. En ruinas: a las que por su estado de deterioro no sea posible su aprovechamiento por no ofrecer estabilidad y presentar peligro de desplome, conforme el dictamen técnico que en caso necesario emita la autoridad competente; y
+
+IV. Especiales: aquellas permanentes que por sus características, no estén contenidas dentro de las clasificaciones oficialmente aprobadas y publicadas.
+
+###### Artículo 7°.
+
+El catastro comprenderá el conjunto de planos, censos, padrones y documentos que forman el inventario de los bienes inmuebles localizados en el territorio municipal.
+
+### CAPÍTULO II. De la autoridad catastral
+
+###### Artículo 8°.
+
+Son autoridades competentes en materia de catastro:
+
+I. El Titular del Poder Ejecutivo, a través de la Secretaría de Finanzas del Estado cuando ocurra lo previsto en el artículo 10 de este ordenamiento, y
+
+II. Los ayuntamientos, por conducto de las dependencias que éstos designen.
+
+###### Artículo 9°.
+
+Las operaciones catastrales estarán a cargo del catastro municipal.
+
+###### Artículo 10.
+
+En el caso de ayuntamientos que celebren convenio con el Ejecutivo para la administración del catastro, las operaciones catastrales estarán a cargo de la dependencia de Catastro del Estado.
+
+###### Artículo 11.
+
+Son atribuciones del ayuntamiento en materia de catastro:
+
+I. Organizar y vigilar la operación del catastro municipal;
+
+II. Constituir el Consejo Técnico de Catastro Municipal y en su caso, determinar su integración y reglamentar su funcionamiento;
+
+III. Participar en la integración y actividades del Consejo Técnico Catastral del Estado, conforme a las disposiciones de esta Ley;
+
+IV. Coordinar las políticas y prácticas del catastro;
+
+V. Solicitar al Ejecutivo del Estado el apoyo y asesoría que requiera para la integración del catastro municipal;
+
+VI. Contratar con empresas especializadas en la materia, los trabajos que estime convenientes. Para tal efecto, buscará que dichos trabajos sean compatibles con los procedimientos que se establezcan en el Sistema de Información Territorial;
+
+VII. Ordenar la publicación de las tablas de valores, previa aprobación del cabildo;
+
+VIII. Convenir, en su caso y previo acuerdo de su cabildo con el Ejecutivo Estatal, para que éste asuma las funciones catastrales, conforme a lo previsto en el artículo anterior; y
+
+IX. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales aplicables.
+
+###### Artículo 12.
+
+El catastro municipal y la Dirección de Catastro del Gobierno del Estado, en los supuestos que establecen los artículos 9° y 10 de esta Ley, tendrán las siguientes facultades:
+
+I. La clasificación catastral, el deslinde y la mensura de los predios y edificaciones;
+
+II. El registro catastral de la propiedad o posesión de bienes inmuebles urbanos y rústicos dentro de los territorios municipales, así como el control de datos de acuerdo a su competencia;
+
+III. La asignación del valor catastral, provisional y fiscal de cada uno de los predios con base en las disposiciones legales vigentes;
+
+IV. Facilitar la integración de la información relativa a los usos, destinos y reservas del suelo, para que sea susceptible de ser utilizada por el Sistema de Información Territorial;
+
+V. Registrar, controlar y mantener actualizada la información catastral de la propiedad inmobiliaria comprendida en la jurisdicción territorial de los municipios del Estado, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos, así como para apoyar la formulación y adecuación de planes o programas municipales de desarrollo urbano y planes de ordenamiento y regulación de zonas conurbadas;
+
+VI. Delimitar la zonificación catastral conforme a los planes de desarrollo urbano;
+
+VII. Proponer al Consejo Técnico Castastral (sic) del Estado las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales, previendo que éstas sean compatibles con las que emita el Sistema de Información Territorial, a efecto de que exista uniformidad en la normatividad que se emita;
+
+VIII. Proponer al Consejo Técnico de Catastro Municipal, tomando en cuenta la prevención de la fracción anterior, los sistemas de valuación masiva donde se integren: terminología cualitativa, parámetros determinantes de valores unitarios de terreno y construcción; coeficientes de deméritos e incrementos; precisiones y rangos, así como mecanismos de adecuación del mismo sistema y reglamentación para su aplicación, que aprobada por la autoridad competente, sirva de base para valuar la propiedad inmobiliaria, y
+
+IX. El cumplimiento de las demás actividades que le señalen otras leyes y reglamentos.
+
+###### Artículo 13.
+
+Corresponden al Catastro Municipal o a la Dirección de Catastro del Gobierno del Estado, en el caso de los municipios que hayan convenido con el Ejecutivo del Estado para la administración del catastro, las siguientes obligaciones:
+
+I. Integrar los registros catastrales de los predios y construcciones localizadas en el territorio municipal;
+
+II. Practicar los levantamientos de los planos catastrales;
+
+III. Determinar en forma precisa la localización de cada predio y su clasificación, mediante su deslinde y mensura, así como recabar los elementos físicos, económicos y estadísticos que en su caso se requieran;
+
+IV. Determinar la clave catastral atendiendo a las normas técnicas;
+
+V. Participar en el establecimiento de los mecanismos de coordinación entre el Sistema de Información Territorial y el Registro Público de la Propiedad, para obtener la identificación plena y datos reales de los inmuebles inscritos;
+
+VI. Recibir de los obligados que señala esta Ley, la información que la misma les impone y registrar oportunamente los cambios que se operen en los inmuebles, con el propósito de mantener actualizada la información de los registros catastrales y el control de los datos históricos de sus modificaciones;
+
+VII. Obtener de las autoridades, dependencias o instituciones de carácter federal, estatal o municipal, así como de las personas físicas o jurídicas, la información necesaria para la formación y conservación del catastro;
+
+VIII. Registrar los bienes inmuebles para efectos catastrales;
+
+IX. Elaborar las propuestas de valores unitarios de terrenos y construcciones, así como los coeficientes de demérito o incremento y remitirlos para su conocimiento información y análisis al Consejo Técnico de Catastro Municipal, quien a su vez los turnará para su homologación al Consejo Técnico Catastral del Estado, y éste con su opinión los remitirá al ayuntamiento, a efecto de que si lo considera pertinente proceda a su aprobación;
+
+X. Elaborar las propuestas de reglamentos e instructivos necesarios para realizar las actividades correspondientes a sus atribuciones y remitirlas para su conocimiento e información al Consejo Técnico de Catastro Municipal, buscando su homologación con las que para tal efecto emita el Consejo técnico Catastral del Estado y, finalmente, turnarlas al cabildo o al Gobernador del Estado según corresponda, para su aprobación;
+
+XI. Determinar y aplicar los valores catastrales provisionales de los bienes inmuebles, cuando no se hayan obtenido los elementos técnicos para determinar su valor catastral;
+
+XII. Aplicar los valores catastrales y unitarios de terrenos y construcciones;
+
+XIII. Practicar la valuación de los predios en particular, conforme al procedimiento establecido en el presente Ordenamiento;
+
+XIV. Elaborar avalúos catastrales de bienes inmuebles ubicados en su jurisdicción territorial o para efectos de la valuación provisional;
+
+XV. Revisar y aprobar dictámenes de valor, esto último a petición de parte, para los efectos de transmisiones patrimoniales de bienes inmuebles ubicados en la jurisdicción del municipio, conforme a las disposiciones aplicables;
+
+XVI. Proporcionar al Sistema de Información Territorial, la información que sea requerida de las diferentes autoridades municipales, así como la generada por su propia actividad;
+
+XVII. Auxiliar a las autoridades competentes en la elaboración de los planes y programas de desarrollo municipal;
+
+XVIII. Auxiliar a las dependencias y organismos públicos cuyas atribuciones o actividades en materia de planeación, programación o elaboración y realización de proyectos específicos del desarrollo estatal, regional y municipal, requieran de los datos contenidos en el catastro;
+
+XIX. Notificar a los interesados las operaciones catastrales efectuadas;
+
+XX. Proporcionar a las personas que lo soliciten, la información catastral que se encuentre en sus archivos, conforme a los medios con que cuente y observando los procedimientos que se establezcan;
+
+XXI. Expedir certificaciones sobre los actos jurídicos, inscripciones y documentos que formen parte del catastro, así como certificaciones de existir o no, inscripciones relativas a las personas o documentos que se señalen por los solicitantes;
+
+XXII. Expedir, a solicitud expresa, copias certificadas de los documentos que obren en el archivo del catastro, las que bajo ningún concepto significarán el reconocimiento o aceptación de un derecho. Estos documentos son exclusivamente para fines fiscales, urbanísticos y estadísticos;
+
+XXIII. Informar al Tesorero Municipal cuando proceda efectuar el cobro de los derechos por los servicios catastrales prestados, de conformidad a lo que se establezca en su propia Ley de Ingresos;
+
+XXIV. Acreditar a los peritos valuadores conforme a las disposiciones de esta Ley y sus reglamentos;
+
+XXV. Notificar a la Dirección de Catastro del Estado de las infracciones en que incurran los peritos valuadores, para que aplique las sanciones correspondientes;
+
+XXVI. Emitir los criterios administrativos para la formación, mejoramiento y conservación de los registros catastrales;
+
+XXVII. Proponer ante el Consejo Técnico Catastral del Estado los sistemas de valuación masiva donde se integren: terminología, parámetros de valores unitarios de terreno y construcción; coeficientes de deméritos e incrementos; precisiones y rangos; así como la puesta en operación del mismo sistema y la reglamentación para su aplicación, los que servirán de base para valuar la propiedad inmobiliaria; y
+
+XXVIII. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales aplicables.
+
+###### Artículo 14.
+
+El Catastro Municipal, en el cumplimiento de sus atribuciones, observará las normas técnicas y reglamentarias que al efecto se expidan.
+
+###### Artículo 15.
+
+La autoridad catastral aplicará las clasificaciones existentes hasta que el Congreso del Estado defina los límites de un centro de población. Una vez que éstos sean aprobados, la autoridad catastral en su caso procederá a su actualización, observando las definiciones y criterios de la Ley de Desarrollo Urbano del Estado de Jalisco.
+
+###### Artículo 16.
+
+Son atribuciones exclusivas del Ejecutivo del Estado en materia de catastro:
+
+I. Autorizar las normas técnicas y sistemas de valuación a fin de integrar la información de los registros catastrales que le sean propuestos y dictaminados por el Consejo Técnico Catastral del Estado;
+
+II. Expedir los reglamentos necesarios para promover el cumplimiento de las disposiciones de esta Ley, en todos los aspectos que no estén encomendados expresamente a los ayuntamientos;
+
+III. Convenir con los municipios, a solicitud expresa de sus ayuntamientos, que el Ejecutivo del Estado tenga a su cargo las funciones del catastro municipal, a través de la Dirección de Catastro del Estado de la Secretaría de Finanzas, y
+
+IV. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales relativas.
+
+###### Artículo 17.
+
+El Ejecutivo del Estado, a través de la Dirección de Catastro de la Secretaría de Finanzas, tendrá las siguientes funciones:
+
+I. Coordinar la formación y conservación del catastro de los municipios con los cuales haya celebrado o celebre convenio para administrar su catastro, así como asesorar, capacitar y auxiliar a todo aquel municipio que requiera su apoyo para cumplir con sus atribuciones;
+
+II. Sugerir al Consejo técnico de Catastro Municipal correspondiente, los valores unitarios de terrenos y construcciones, cuando exista convenio para la administración del catastro municipal;
+
+III. Registrar a los peritos valuadores que practiquen avalúos, de conformidad con las disposiciones de esta Ley y del reglamento respectivo;
+
+IV. Aplicar las sanciones que correspondan a los peritos valuadores por infracciones a la presente Ley;
+
+V. Coordinar los trabajos técnicos y de investigación científica relacionados con sus funciones, previa autorización del Consejo Técnico Catastral del Estado;
+
+VI. Contratar los servicios de personas físicas o jurídicas, relacionados con los trabajos catastrales, previa aprobación del Consejo Técnico Catastral del Estado y bajo su supervisión;
+
+VII. Coordinarse con dependencias e instituciones públicas que desarrollen actividades relacionadas con sus funciones; y
+
+VIII. Las demás que le señale esta Ley y sus reglamentos.
+
+### CAPÍTULO III. Del Consejo Técnico Catastral del Estado y los Consejos Técnicos de Catastro Municipal
+
+###### Artículo 18.
+
+El Consejo Técnico Catastral del Estado será un órgano colegiado de carácter permanente, responsable de asesorar, coordinar y evaluar las acciones en materia de catastro; tendrá a su cargo:
+
+I. Apoyar a los ayuntamientos en la integración del catastro municipal, cuando éstos se lo soliciten;
+
+II. Estudiar, analizar y formular propuestas en relación con la normatividad administrativa, en materia de catastro y valuación catastral, y
+
+III. Observar los reglamentos y normas técnicas que se emitan por el Sistema de Información en materia de:
+
+a) Cartografía y restitución;
+
+b) Sistemas de información geográfica;
+
+c) Sistemas de informática, equipo y programas de cómputo;
+
+d) Comunicaciones, formato y transmisión de datos, y
+
+e) Normatividad técnica y administrativa.
+
+###### Artículo 19.
+
+El Consejo Técnico Catastral del Estado se integrará con los titulares de las dependencias del Poder Ejecutivo del Estado y por los representantes de los ayuntamientos que se enumeran a continuación:
+
+I. El Secretario de Finanzas, quien lo presidirá;
+
+II. El Secretario de Desarrollo Rural;
+
+III. El Secretario de Desarrollo Urbano;
+
+IV. El Secretario de Promoción Económica;
+
+V. El Director de Catastro del Estado, quien fungirá como Secretario de Actas y Acuerdos del Consejo;
+
+VI. Un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco, A. C., y
+
+VII. Un representante común de los ayuntamientos de cada dos regiones del Estado, con excepción de aquéllas que expresamente se indican.
+
+Con la salvedad a que se refiere el párrafo anterior, los municipios integrantes de cada dos regiones, a convocatoria del presidente del Consejo Técnico Catastral del Estado, elegirán de entre ellos a un representante común. Sólo en el caso de que en la fecha señalada para integrar el Consejo Directivo no hubieren elegido al representante común de las regiones de que se trate, lo será el del ayuntamiento que adelante se indica:
+
+A. Región Valles y Región Norte, el representante será, en su caso, el del Ayuntamiento de Ameca;
+
+B. Región Sur y Región Sureste, el representante será, en su caso, el del Ayuntamiento de Ciudad Guzmán,
+
+C. Región Altos Norte y Región Altos Sur, el representante será, en su caso, el del Ayuntamiento de Tepatitlán;
+
+D. Región Costa Sur y Región Sierra de Amula, el representante será, en su caso, el del Ayuntamiento de Autlán de Navarro;
+
+E. Región Costa Norte y Región Sierra Occidental, el representante será, en su caso, el del Ayuntamiento de Puerto Vallarta;
+
+F. Región Ciénega y área Centro de Guadalajara, el representante será, en su caso, el del Ayuntamiento de Guadalajara;
+
+G. Un representante del Consejo Metropolitano, y
+
+H. Un representante común de los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan.
+
+En ningún caso podrá recaer doble representación en los supuestos previstos en los incisos F y H que anteceden.
+
+El representante que haya sido nombrado en estas circunstancias continuará en su encargo hasta en tanto se nombra al representante común, elegido por el acuerdo de los municipios de las regiones correspondientes.
+
+Para el caso de que se modifique la división regional del estado, afectándose el número de las regiones a que se refiere el presente artículo, el Consejo Técnico Catastral del Estado realizará las modificaciones necesarias, a fin de que se mantenga de forma permanente la adecuada representación regional ante el mismo.
+
+###### Artículo 20.
+
+El Consejo Técnico Catastral del Estado realizará sus actividades en pleno o en comisiones, de acuerdo al carácter general o especializado de los asuntos por atender.
+
+Los Titulares de las Dependencias del Ejecutivo podrán nombrar a su representante ante el Consejo técnico Catastral del Estado.
+
+###### Artículo 21.
+
+En las sesiones del Consejo Técnico Catastral del Estado todos sus integrantes tendrán voz y voto. Las decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+###### Artículo 22.
+
+Podrán participar en el Consejo Técnico Catastral del Estado, en sus reuniones generales o en los trabajos de sus comisiones, representantes de dependencias, organismos o instituciones públicas o privadas, que el Presidente o el Consejo consideren conveniente invitar, a fin de conocer sus opiniones, según los asuntos que sea necesario analizar o dictaminar.
+
+El Consejo sesionará ordinariamente cada dos meses y extraordinariamente cuando sea convocado para ello.
+
+Para el funcionamiento interno del Consejo Técnico Catastral del Estado, sus consejeros elaborarán un proyecto de reglamento que remitirán al Titular del Poder Ejecutivo para su aprobación y, en su caso publicación.
+
+###### Artículo 23.
+
+Los ayuntamientos, aun cuando hubieren celebrado convenio con el Ejecutivo del Estado para la administración de su Catastro, deberán constituir el Consejo Técnico de Catastro Municipal, conforme a las bases siguientes:
+
+I. Se integrará por:
+
+A. El Presidente Municipal o su representante, que será el Presidente del Consejo;
+
+B. El Tesorero Municipal o su representante, que será el Secretario del Consejo;
+
+C. El titular del catastro municipal o quien haga sus veces en caso de convenio;
+
+D. El Regidor que el cabildo determine;
+
+E. Un representante por parte de los sectores industrial, comercial y empresarial;
+
+F. Un representante del sector agropecuario;
+
+G. Un representante de los propietarios de fincas urbanas, y
+
+H. Por las personas que el Consejo considere conveniente invitar a participar, por sus conocimientos y reconocida solvencia moral entre las que integrara a un representante del Consejo Intergrupal de Valuadores del Estado de Jalisco, A. C.
+
+II. Los Consejos Técnicos de Catastro Municipal estarán facultados para estudiar, revisar y formular recomendaciones respecto de las propuestas de valores unitarios de terrenos y construcciones, y remitirlos con fines de homologación al Consejo Técnico Catastral del Estado;
+
+III. Sus facultades específicas se determinarán en el reglamento que expida el cabildo para normar su funcionamiento.
+
+### CAPÍTULO IV. De las operaciones catastrales
+
+###### Artículo 24.
+
+Las operaciones catastrales tienen como objetivos efectuar la descripción, clasificación y mensura de la propiedad inmobiliaria; inscribirla en los registros respectivos y valuarla, a fin de servir de apoyo para planificar y regular su utilización.
+
+###### Artículo 25.
+
+La autoridad catastral llevará a cabo las operaciones que sean necesarias y que tiendan a la formación, conservación, mejoramiento y desarrollo del Catastro, con sus registros, padrones y archivos documentales correspondientes.
+
+###### Artículo 26.
+
+La identificación, clasificación, localización y levantamiento de datos de los predios, comprende las operaciones y trabajos necesarios para determinar sus características, tales como dimensiones, ubicación, uso y la información socioeconómica y estadística que requiere el catastro municipal, utilizando las normas y especificaciones técnicas, manuales e instructivos aprobados conforme a esta Ley.
+
+###### Artículo 27.
+
+La autoridad catastral practicará las operaciones a que se refiere este capítulo, de oficio o a solicitud del titular del predio.
+
+###### Artículo 28.
+
+El propietario o poseedor a título de dueño, del predio que solicite su inscripción, deberá proporcionar la información necesaria para localizar cartográficamente el inmueble respecto del cual acredite la titularidad de su derecho. La autoridad catastral procederá a asignar la clave catastral y en su caso, practicará las operaciones necesarias.
+
+###### Artículo 29.
+
+La clave y cuenta catastral serán los elementos principales de identificación cartográfica de los predios, en todos los actos catastrales, jurídicos, registros y documentos.
+
+###### Artículo 30.
+
+En los registros del catastro municipal, quedarán asignadas la cuenta y la clave catastral de cada predio y los datos de inscripción del Registro Público de la Propiedad, cuando sea posible.
+
+###### Artículo 31.
+
+La autoridad catastral determinará la clasificación de los predios, conforme a las disposiciones del artículo 5° de esta Ley.
+
+###### Artículo 32.
+
+El titular podrá solicitar se reclasifique un inmueble, cuando:
+
+I. Se modifiquen las características o condiciones del predio;
+
+II. Considere que la clasificación determinada por la autoridad catastral, no corresponde a las características y condiciones del predio; y
+
+III. En el caso de predios ubicados dentro de la zona conurbada de Guadalajara, les resulte aplicable alguna de las excepciones previstas en el artículo 5° fracción V inciso d) de esta Ley.
+
+###### Artículo 33.
+
+La reclasificación de un inmueble se tramitará conforme al siguiente procedimiento:
+
+I. El titular podrá solicitar por escrito a la autoridad catastral la reclasificación de un predio, indicando los hechos que la motiven;
+
+II. La autoridad catastral procederá a verificar que el predio se encuentre comprendido en los supuestos a que se refiere el artículo anterior, y emitirá el acuerdo respectivo;
+
+III. La reclasificación que proceda surtirá sus efectos a partir del bimestre siguiente al cual se hubiere presentado la solicitud; y
+
+IV. La clasificación de predios no edificados o baldíos, determinada conforme a las excepciones previstas en el artículo 5 fracción V inciso d) de esta Ley, conservará sus efectos en tanto prevalezcan las condiciones que hubiesen motivado su acuerdo.
+
+###### Artículo 34.
+
+Para efectos fiscales, los trabajos de deslinde catastral, rectificación o aclaración de linderos, deberán practicarse previa citación de los titulares, y podrán hacerse ante la presencia de los propietarios o poseedores de los predios colindantes, quienes únicamente intervendrán para hacer las aclaraciones procedentes, sin que esto implique un cambio en el valor fiscal.
+
+###### Artículo 35.
+
+Cuando existan diferencias entre los colindantes, el resultado de estos trabajos catastrales se hará constar en acta circunstanciada que será firmada por las personas que hubiesen intervenido en dichos trabajos, pudiendo firmar también los interesados.
+
+###### Artículo 36.
+
+Los trabajos catastrales deberán practicarse de acuerdo a la presente Ley y a los instructivos o circulares que para tal efecto se aprueben, conforme a las disposiciones de esta Ley. Dichos trabajos deberán realizarse por la Autoridad catastral quien podrá delegarlos a través de las dependencias que se designen, con excepción de aquellos requeridos por autoridad competente.
+
+###### Artículo 37.
+
+La autoridad catastral revisará y autorizará en su caso, los trabajos que elaboren los peritos valuadores acreditados, de acuerdo a las normas y procedimientos que se establezcan en esta ley y otros ordenamientos aplicables.
+
+###### Artículo 38.
+
+Los distintos levantamientos técnicos catastrales y trabajos cartográficos se efectuarán de acuerdo a las normas, especificaciones técnicas, manuales e instructivos que para tal efecto apruebe el Sistema de Información Territorial.
+
+###### Artículo 39.
+
+Los registros catastrales estarán integrados de tal manera que permitan su aprovechamiento múltiple y se puedan generar agrupamientos, ya sea numéricos, alfabéticos, gráficos, estadísticos, índices de referencia y de imágenes.
+
+###### Artículo 40.
+
+Para practicar los movimientos catastrales de registro o modificación de un predio, la autoridad catastral se apoyará en los datos de que disponga el Sistema de Información Territorial.
+
+El catastro municipal consolidará toda la información generada dentro del ámbito municipal en aspectos cartográficos y catastrales y, para efectos de coordinación, la proporcionará al Sistema de Información Territorial.
+
+###### Artículo 41.
+
+La autoridad catastral expedirá informes, certificados, copias certificadas, copias de archivos digitales y demás documentos relacionados con los predios, a quien lo solicite, previo el pago de los derechos correspondientes.
+
+###### Artículo 42.
+
+Las resoluciones, datos y demás elementos catastrales, cualesquiera que sean, en ningún caso acreditarán derechos o gravámenes respecto de los bienes registrados; sólo producirán efectos fiscales, estadísticos y los previstos en materia de ordenamiento territorial.
+
+###### Artículo 43.
+
+En los casos de predios no registrados, el catastro deberá practicar las operaciones catastrales correspondientes. Para ello, tomará en consideración el estado físico de conservación que guarden dichos predios, en el momento que se practique su registro.
+
+### CAPÍTULO V. De las urbanizaciones
+
+###### Artículo 44.
+
+Las personas físicas o jurídicas que obtengan la autorización para urbanizar predios, así como la autoridad que otorgue la licencia o permiso, deberán presentar a la autoridad catastral correspondiente, la siguiente documentación:
+
+I. Copia del oficio de la autorización otorgada por el ayuntamiento en que esté ubicado el predio;
+
+II. La información contenida en el Proyecto Definitivo de Urbanización, previsto en la Ley de Desarrollo Urbano;
+
+III. Comprobante de que se está al corriente en el pago del impuesto predial de la cuenta en que esté registrado el predio, actualizado al bimestre de la fecha de recepción de obras, de la autorización para vender, o de cuando se oferten los predios o fincas en venta, preventa, apartado u otros actos de enajenación;
+
+IV. Copia de la escritura de adquisición del predio, y
+
+V. Constancia o copia autorizada expedida por autoridad competente de la declaratoria aprobada relativa a las áreas de cesión para destinos.
+
+###### Artículo 45.
+
+Las personas físicas o jurídicas a que se refiere el artículo anterior, deberán presentar la documentación a la autoridad catastral correspondiente, en un plazo máximo de un mes siguiente a la fecha en que se ocurra el primero de los siguientes supuestos:
+
+I. Cuando se oferten predios en venta, preventa, apartado u otros actos de enajenación, mediante la celebración de cualquier tipo de contrato;
+
+II. Cuando el urbanizador reciba autorización para vender, en caso de que las obras de urbanización no hayan sido entregadas; o
+
+III. El urbanizador realice la entrega de las obras de urbanización al municipio.
+
+###### Artículo 46.
+
+El reglamento respectivo determinará los medios y la forma en que se proporcionará la documentación anterior, para facilitar la integración de la información a los registros catastrales.
+
+Para los catastros municipales que cuenten con sistemas de cómputo, los planos se entregarán también en los formatos y características que al efecto proponga el Sistema de Información Territorial.
+
+###### Artículo 47.
+
+La autoridad catastral, valuará y empadronará cada uno de los predios resultantes, asignándoles la cuenta y clave catastral correspondiente y, a solicitud de la dependencia que autorice la urbanización, se le enviará la relación de los predios empadronados.
+
+###### Artículo 48.
+
+La autoridad catastral devolverá al urbanizador un ejemplar del plano de conjunto, con las claves catastrales y los valores provisionales del terreno.
+
+###### Artículo 49.
+
+Cuando un predio se urbanice sin la autorización correspondiente, la autoridad catastral, en cuanto tenga conocimiento de ello, empadronará provisionalmente al poseedor, sin afectar la cuenta del predio urbanizado, y dará aviso de inmediato a las autoridades competentes para que determinen y apliquen las sanciones procedentes.
+
+###### Artículo 50.
+
+En el caso de predios y construcciones afectos al régimen de propiedad en condominio, el notario o el representante legal del condominio deberán proporcionar a la autoridad catastral la siguiente documentación:
+
+I. Aviso y copia de la escritura pública donde se haga constar el acto constitutivo del régimen de propiedad en condominio; con los elementos que establece el Código Civil del Estado;
+
+II. Copia del plano del condominio, conforme a las normas técnicas aplicables;
+
+III. Descripción de las unidades en condominio, donde se precisen los lotes, departamentos o locales de áreas privativas; así como las áreas e instalaciones de uso común, sólo para el caso de que no vengan transcritas en la escritura pública correspondiente;
+
+IV. Copias de las licencias o permisos de urbanización, edificación y habitabilidad, siempre y cuando no vengan transcritas en la escritura pública correspondiente; y
+
+V. Comprobante de que el titular del predio está al corriente en el pago del impuesto predial.
+
+###### Artículo 51.
+
+La autoridad catastral registrará cada uno de los predios o unidades privativas resultantes, asignándoles la cuenta y clave catastral correspondiente y, a solicitud de la dependencia que autorice la urbanización, se le enviará la relación de los predios registrados.
+
+###### Artículo 52.
+
+La Secretaría General del ayuntamiento deberá proporcionar a la autoridad catastral, lo siguiente:
+
+I. Copia del acuerdo de incorporación o reincorporación municipal del predio urbanizado, y
+
+II. La nomenclatura y numeración oficial.
+
+###### Artículo 53.
+
+Los urbanizadores de predios tendrán la obligación de manifestar a la autoridad catastral la celebración de actos traslativos de dominio, dentro de los dos meses siguientes a la fecha de su otorgamiento.
+
+### CAPÍTULO VI. De la valuación catastral
+
+###### Artículo 54.
+
+La valuación tiene por objeto asignar a los predios un valor determinado, mediante los procedimientos establecidos en esta Ley.
+
+###### Artículo 55.
+
+La valuación de los predios se fundara en los siguientes elementos:
+
+I. En el valor del terreno, y
+
+II. En el valor de las construcciones.
+
+###### Artículo 56.
+
+Para la valuación del terreno se tomará como base el valor unitario vigente multiplicado por la superficie del mismo. En su caso, estos valores se modificarán aplicando los coeficientes de incrementos y deméritos.
+
+Para la valuación de las construcciones se tomarán como base los valores unitarios vigentes, según la clasificación a que correspondan, multiplicados por su superficie.
+
+En los dos supuestos deberá observarse el procedimiento de valuación que se establezca en el reglamento de esta Ley.
+
+###### Artículo 57.
+
+Los valores unitarios de los terrenos y de construcciones; los coeficientes de incrementos y de deméritos de valores y demás elementos de valuación, se elaborarán y aplicarán conforme lo dispone el artículo 13 fracción IX de esta Ley y su reglamento.
+
+###### Artículo 58.
+
+Los valores unitarios urbanos de calle o de zona se especificarán por metro cuadrado. Para su determinación se tomarán en cuenta la importancia e influencia de los siguientes elementos: servicios municipales existentes; vías de comunicación; vecindad con zonas comerciales o centros de abasto; el uso, destino y reserva determinados para el suelo conforme a su zonificación, y cualquier otra característica que pueda influir en los mismos.
+
+###### Artículo 59.
+
+Los valores unitarios para predios rústicos se especificarán por hectárea, conforme a las siguientes disposiciones:
+
+Para su determinación se considerarán los siguientes elementos: el tipo o clase de tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población; así como las condiciones hidrológicas, humedad relativa y cualquier otra característica que pueda influir en los mismos, y
+
+En el caso de zonas rústicas o ejidos donde se realicen actividades de aprovechamiento de recursos del suelo, se aplicarán las normas técnicas de catastración y valuación; y donde se realicen actividades de aprovechamiento de recursos del subsuelo, se tomarán en consideración las Leyes correspondientes.
+
+En ninguno de los supuestos previstos en las dos fracciones (sic) anteriores se tomará en cuenta para efectos de la valuación, el valor de los recursos que sean objeto de aprovechamiento en los predios.
+
+###### Artículo 60.
+
+Para la determinación de los valores unitarios de los diferentes tipos de construcción, se clasificarán los mismos tomando en cuenta su edad, vida útil, su estructura y estado de conservación; materiales empleados en la edificación, calidad en la mano de obra y acabados. Con base en lo anterior, se procederá a fijar un valor unitario para cada tipo de clasificación de construcción.
+
+###### Artículo 61.
+
+Los coeficientes de incrementos y deméritos se aplicarán conforme a los criterios técnicos que determine el reglamento respectivo.
+
+###### Artículo 62.
+
+Los valores unitarios de terrenos y de construcciones aprobados, tendrán vigencia a partir de su publicación en los términos que establezca la Ley Orgánica Municipal.
+
+###### Artículo 63.
+
+Los valores unitarios de terrenos y construcciones estarán vigentes por el término que se determine al autorizarlos.
+
+###### Artículo 64.
+
+Concluido el término de vigencia de los valores unitarios a que se refiere el artículo anterior, se prorrogará la aplicación de los mismos hasta en tanto no se publiquen nuevos valores unitarios.
+
+###### Artículo 65.
+
+Los avalúos practicados en los términos de este capítulo, o el valor declarado por el contribuyente de conformidad con lo dispuesto en la Ley de Hacienda Municipal, tendrán la misma vigencia que se determine en la publicación de los valores unitarios.
+
+###### Artículo 66.
+
+Los predios, con construcciones o sin ellas, a los que ya se hubiera fijado un valor catastral, podrán ser revaluados cuando:
+
+I. Lo solicite el propietario o poseedor del predio;
+
+II. Se determine o modifique su clasificación catastral;
+
+III. Se determinen o modifiquen las provisiones, usos, destinos y reservas aplicables al predio;
+
+IV. Los valores con que se encuentren registrados, no correspondan a los que resulten de aplicarles los valores unitarios vigentes o declarados conforme a lo previsto en la Ley de Hacienda Municipal;
+
+V. Se realicen en el predio obras de urbanización o construcciones, reconstrucciones, ampliaciones o demoliciones de las construcciones ya existentes;
+
+VI. Con motivo de obras públicas o privadas incremente o demerite notablemente su valor;
+
+VII. Se fusionen o se subdividan;
+
+VIII. El predio o su entorno sufran un cambio que afecte notoriamente su valor;
+
+IX. El avalúo existente se haya practicado con valores provisionales y ya se tengan los elementos técnicos de catastración necesarios, aun cuando no haya transcurrido el término de vigencia establecida;
+
+X. Una construcción sea ocupada sin terminar, o estando terminada no es usada;
+
+XI. Se opere un movimiento catastral que afecte los registros de clasificación del predio, y
+
+XII. Al aplicar los valores unitarios vigentes, el valor resultante sea mayor al valor real.
+
+###### Artículo 67.
+
+Los valuadores deberán presentarse en el predio objeto de la valuación y mostrarán a los ocupantes, si los hubiere, tanto la orden para la valuación, como la credencial que los identifique.
+
+###### Artículo 68.
+
+Si los ocupantes de un predio o finca se opusieran en cualquier forma a la valuación, el valuador dejará un citatorio indicando el día y la hora en que se practicará nueva visita, que deberá efectuarse en un plazo que no deberá ser menor de tres ni mayor de diez días, e informará a la autoridad catastral a efecto de que se requiera, por escrito, a los ocupantes, para que permitan la práctica de la valuación.
+
+###### Artículo 69.
+
+Si no obstante el requerimiento a que se refiere el artículo anterior, los ocupantes del predio no permitiesen la valuación, ésta se hará con base en los elementos de que se disponga, sin perjuicio de imponer al infractor las sanciones correspondientes.
+
+###### Artículo 70.
+
+Los valuadores y los peritos valuadores formularán los avalúos en las formas oficiales aprobadas.
+
+Cuando a la autoridad catastral se le presenten avalúos para su revisión, y advierta que los valores consignados en los mismos sean inferiores a los valores unitarios vigentes, podrá proceder a practicar nuevo avalúo, en los términos que disponga la Ley de Hacienda Municipal.
+
+###### Artículo 71.
+
+En aquellos casos en que aún no se hayan obtenido los elementos técnicos para determinar el valor catastral aplicable al predio, la autoridad catastral, con apoyo en los datos de que disponga, valuará provisionalmente los predios, cuidando que los valores que se determinen se asemejen a los valores catastrales de predios con características similares. El valor así determinado surtirá efectos de valor catastral.
+
+###### Artículo 72.
+
+Las construcciones que no estén contenidas dentro de la clasificación comprendida en los valores unitarios, deberán valuarse con los valores unitarios que correspondan a edificaciones análogas en valores.
+
+###### Artículo 73.
+
+En los casos de edificaciones construidas bajo el régimen de propiedad en condominio, deberá fijarse valor a las unidades privativas, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes, de conformidad con lo que establece esta Ley y otros ordenamientos aplicables.
+
+###### Artículo 74.
+
+En los casos de predios no registrados en el catastro municipal, por no haber sido manifestados oportunamente por su propietario o poseedor, deberán practicarse las operaciones catastrales correspondientes de acuerdo con el estado que guardan dichos predios en la fecha de su empadronamiento.
+
+###### Artículo 75.
+
+Para que los peritos valuadores puedan practicar avalúos a efecto de determinar la base de los impuestos predial y de transmisiones patrimoniales, deberán:
+
+I. Estar registrados y acreditados conforme a las disposiciones de esta Ley;
+
+II. Visitar el inmueble e identificarlo plenamente;
+
+III. En los predios urbanos revisar la superficie y medidas de los linderos; y
+
+IV. Determinar el valor de los predios, teniendo como base los valores reales, en los términos de la Ley de Hacienda Municipal.
+
+Los valuadores dependientes de la autoridad catastral deberán satisfacer únicamente los requisitos previstos en las fracciones II y III de este artículo, y además deberán aplicar los valores unitarios aprobados por el cabildo.
+
+### CAPÍTULO VII. Manifestaciones, avisos y notificaciones
+
+###### Artículo 76.
+
+Todo propietario o poseedor de uno o más predios deberá manifestar en las formas oficialmente aprobadas, a la autoridad catastral que corresponda al lugar de su ubicación:
+
+I. Las características del o los predios de que sea dueño o poseedor;
+
+II. Cualquier excedencia o modificación de los predios que ya estuvieran anteriormente registrados, y
+
+III. El goce o la utilización que tenga de predios del dominio del municipio, del Estado o de la Federación.
+
+###### Artículo 77.
+
+No se exime de la obligación indicada en el artículo anterior, a los propietarios de predios que, por disposición de la Ley de la materia, se encuentren exentos del impuesto predial.
+
+###### Artículo 78.
+
+Dentro de los dos meses siguientes a la fecha en que causen ejecutoria, los órganos judiciales competentes deberán dar aviso a la autoridad catastral, y además remitirle copia certificada de sus resoluciones, cuando por virtud de las mismas se opere el traslado del dominio, de derechos o la adquisición de uno o más predios.
+
+###### Artículo 79.
+
+Al celebrarse contratos privados traslativos de dominio de algún predio, o de contratos y actos celebrados fuera del Estado respecto a predios ubicados en algún municipio de Jalisco, éstos deberán ser manifestados por el adquirente a la autoridad catastral, dentro de los dos meses siguientes a la fecha de su celebración, en las formas que para tal efecto se aprueben, anexando copia de la escritura pública o del contrato privado según corresponda.
+
+Respecto a la consolidación, acrecentamiento o extinción del usufructo, el plazo para dar el aviso a que se refiere este artículo será de dos meses a partir de la fecha en que se dé el suceso u ocurra el supuesto preestablecido en el documento constitutivo del usufructo.
+
+###### Artículo 80.
+
+Los notarios, para los efectos de esta Ley, deberán manifestar a la autoridad catastral que corresponda al lugar de ubicadión (sic) de los predios objeto de los actos jurídicos que certifiquen, en las formas que al efecto se aprueben, la celebración de todo tipo de actos traslativos de dominio, dentro de los dos meses siguientes a la fecha de su otorgamiento.
+
+###### Artículo 81.
+
+Los obligados a presentar los avisos o manifestaciones a que se refieren los artículos 79, 80 y 81 de esta Ley deberán anexar a ellos los documentos siguientes, relativos a la identificación y condiciones administrativas de los predios:
+
+I. Avalúo con clave catastral, practicado por perito valuador o bien el dictamen de valor elaborado por la autoridad catastral. En ambos casos se observará lo dispuesto por el artículo siguiente, y
+
+II. Comprobante en donde se acredite que no existe adeudo por concepto de impuesto predial, en la fecha que se autoricen las escrituras, actos o contratos.
+
+###### Artículo 82.
+
+Los peritos valuadores que practiquen avalúos para efectos de transmisión patrimonial tendrán la obligación de presentarlos para su revisión y aprobación o en su caso certificación, a la autoridad catastral anexando lo siguiente:
+
+I. Para todos los predios un croquis descriptivo que señale el perímetro, la superficie y las medidas y colindancias del terreno. En el caso de predios urbanos además la distancia a la esquina más cercana y los nombres de las calles perimetrales. Para los predios rústicos se aportarán los elementos esenciales para su localización, y
+
+II. En el caso de predios en los cuales existan construcciones, ya sean terminadas o inconclusas, deberán acompañar además un croquis descriptivo, especificando, en su caso, la superficie construida, tipos, grado de avance, número de niveles, calidad y estado de conservación de las mismas.
+
+En los dictámenes de valor elaborados por la autoridad catastral, ésta deberá acompañarlos de los croquis descriptivos a que se refieren las fracciones I y II que anteceden.
+
+###### Artículo 83.
+
+Los peritos valuadores, para registrarse ante la Dirección de Catastro del Estado, deberán:
+
+I. Formular solicitud de registro, aportando su curriculum vitae y los demás datos que le sean solicitados;
+
+II. Tener cédula profesional de ingeniero, arquitecto, expedida por la Dirección de Profesiones del Estado de Jalisco, o Corredor Público, que acredite conocimientos en la materia;
+
+III. Demostrar su experiencia en la materia con trabajos de valuación realizados durante los últimos tres años; y
+
+IV. Presentar, en su caso, la documentación que acredite los estudios realizados de la especialidad.
+
+###### Artículo 84.
+
+Los peritos valuadores para acreditarse ante la autoridad catastral municipal deberán:
+
+I. Formular solicitud de acreditamiento;
+
+II. Presentar su registro otorgado por la Dirección de Catastro del Estado, y
+
+III. Señalar su domicilio legal.
+
+###### Artículo 85.
+
+Para presentar avisos de traslación de dominio de predios, las autoridades y los notarios deberán exigir que el avalúo respectivo se encuentre aprobado por la autoridad catastral.
+
+###### Artículo 86.
+
+Toda construcción, ampliación, modificación o demolición de construcción existente deberá ser manifestada por su propietario o poseedor a la autoridad catastral, en las formas que para el caso se aprueben, dentro del mes siguiente a la fecha de su terminación u ocupación.
+
+La dependencia municipal competente deberá comunicar a la autoridad catastral, en un plazo que no exceda de quince días, las licencias o autorizaciones de obras de urbanización que se otorguen; las prórrogas a las mismas; las autorizaciones de fusión y subdivisión de predios, así como las licencias de construcción, reconstrucción, ampliación o demolición.
+
+###### Artículo 87.
+
+Los propietarios o poseedores de predios ubicados en el Estado deberán manifestar sus cambios de domicilio a la autoridad catastral correspondiente a la ubicación del predio, dentro de los quince días hábiles siguientes a la fecha en que se efectúen; si no lo hicieren se tendrá como domicilio, para todos los efectos legales, el que hubiesen señalado anteriormente o, en su defecto, el del predio mismo.
+
+###### Artículo 88.
+
+Las resoluciones que se dicten con fundamento en la presente Ley, se notificarán de conformidad con lo dispuesto en la Ley de Hacienda Municipal.
+
+### CAPÍTULO VIII. De las infracciones y las sanciones
+
+###### Artículo 89.
+
+Son infracciones en materia de Catastro:
+
+I. No presentar las manifestaciones o avisos para la inscripción o cambio de propietario de predios en el padrón catastral, en el tiempo y la forma previstos por la presente Ley;
+
+II. Manifestar datos falsos a la autoridad catastral respecto del predio objeto de operaciones o trabajos catastrales;
+
+III. No proporcionar la información formalmente requerida por la autoridad catastral, y
+
+IV. Oponerse o interferir en la realización de las operaciones y trabajos catastrales.
+
+###### Artículo 90.
+
+Las infracciones previstas en el artículo anterior serán sancionadas por la tesorería municipal, de acuerdo al salario mínimo general vigente en la zona económica en donde se cometa la infracción, con las siguientes multas:
+
+I. De uno a cuatro días de salario para lo previsto en la fracción I;
+
+II. De uno a diez días de salario en el supuesto de la fracción II, sin perjuicio de hacer efectivo el impuesto omitido y sus accesorios;
+
+III. De uno a cinco días de salario, cuando se dé el supuesto de la fracción III, y
+
+IV. De uno quince días de salario mínimo a quienes infrinjan lo señalado en la fracción IV.
+
+Para la aplicación de las sanciones, se estará a las reglas que se establezcan en la Ley de Hacienda Municipal.
+
+###### Artículo 91.
+
+Los peritos valuadores registrados ante la Dirección de Catastro del Estado, cuando incurran en irregularidades en el desempeño de sus funciones, se harán acreedores a las siguientes sanciones:
+
+I. Procederá la amonestación por escrito:
+
+a) Cuando en la revisión de los avalúos se determine que los datos no corresponden a la realidad, o los valores asentados fluctúan en mayor rango que el determinado por el reglamento respectivo y las normas técnicas aplicables;
+
+b) Cuando realice publicidad que induzca o pueda inducir a error respecto de los servicios que presta, amparado en su registro ante la Dirección de Catastro del Estado;
+
+c) Por cambiar su domicilio legal sin dar el aviso correspondiente a la Dirección de Catastro del Estado; y
+
+d) Por cualquier otro incumplimiento que se señale en el reglamento respectivo;
+
+II. Procederá a sancionar a los peritos con suspensión del registro de seis a doce meses, por reincidir en alguna de las conductas señaladas en la fracción anterior, y
+
+III. Procederá sancionar al perito con la cancelación definitiva del registro por:
+
+a) Haber obtenido el registro mediante información o documentación falsa; y
+
+b) Por violaciones graves o reiteradas a las normas técnicas sobre la práctica y formulación de los avalúos.
+
+### CAPÍTULO IX. De los medios de defensa
+
+###### Artículo 92.
+
+Para combatir las resoluciones que dicte la autoridad catastral y los actos u omisiones de las autoridades responsables de aplicar la presente Ley, independientemente de los recursos que procedan ante el Tribunal de lo Administrativo, los contribuyentes que resultaren afectados en sus derechos podrán interponer los siguientes medios de defensa:
+
+I. La rectificación, y
+
+II. La revisión.
+
+###### Artículo 93.
+
+La rectificación procederá contra:
+
+I. Las notificaciones hechas en contravención a las disposiciones legales de carácter fiscal;
+
+II. La determinación del valor catastral o provisional del predio;
+
+III. La autoridad catastral cuando no realice la corrección, en los casos en que el nombre del propietario o poseedor del predio sea distinto a aquel que aparece en el padrón correspondiente;
+
+IV. La autoridad catastral, cuando no realice las correcciones solicitadas de los errores o las diferencias existentes entre los datos asentados en el padrón catastral y las características físicas, geométricas y jurídicas del predio, y
+
+V. La determinación y aplicación de sanciones por parte de la autoridad catastral.
+
+###### Artículo 94.
+
+La rectificación se interpondrá ante la autoridad catastral que emitió la resolución o acto, o incurrió en la omisión que se impugna, y deberá ser resuelta por la propia autoridad responsable.
+
+###### Artículo 95.
+
+La rectificación deberá solicitarse mediante escrito firmado por el contribuyente o por su representante debidamente acreditado, dentro de los diez días hábiles siguientes a la fecha en que la resolución le sea notificada, o éste tenga conocimiento del acto u omisión.
+
+###### Artículo 96.
+
+Cuando al contribuyente se le notifique un acto o resolución, y su domicilio se encuentre ubicado en una población distinta del lugar en que reside la autoridad responsable, podrá interponer el recurso dentro del mismo término de diez días, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado el acto o la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos o a la autoridad que efectuó la notificación.
+
+###### Artículo 97.
+
+En el escrito por el que se interponga la rectificación, se deberá indicar:
+
+I. El nombre y domicilio del contribuyente y, en su caso, de quien promueva en su nombre. Si fueren varios los recurrentes, el nombre y domicilio del representante común;
+
+II. El interés específico que le asiste;
+
+III. La autoridad que dictó el acto impugnado o hizo la notificación;
+
+IV. La fecha en que, bajo protesta de decir verdad, manifieste el contribuyente que tuvo conocimiento del acto, resolución u omisión que se impugna;
+
+V. La mención precisa del acto de autoridad que motive la interposición de la rectificación;
+
+VI. Los conceptos de violación o, en su caso, las objeciones a la resolución, acto u omisión que se reclame;
+
+VII. Las pruebas que ofrezca, y
+
+VIII. El lugar y fecha de la promoción.
+
+###### Artículo 98.
+
+Al escrito de solicitud de rectificación, se deberán acompañar:
+
+I. Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales;
+
+II. El documento en que conste el acto impugnado;
+
+III. Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no la recibió. Si la notificación fue por edicto, deberá de señalar la fecha de la última publicación y el medio por el cual se enteró;
+
+IV. Las pruebas documentales que ofrezca, cuando no obren en el archivo de la autoridad catastral, y
+
+V. El dictamen pericial, en su caso.
+
+###### Artículo 99.
+
+Los medios de defensa deberán ser resueltos por la autoridad catastral en un plazo que no excederá de tres meses, contados a partir de la fecha en que se interpongan.
+
+###### Artículo 100.
+
+La rectificación se substanciará conforme a las siguientes normas:
+
+I. Si el promovente no aporta las pruebas al momento de entregar su escrito, la autoridad catastral encargada de resolver la rectificación lo prevendrá para que en un término de cinco días hábiles exhiba dichas pruebas, apercibido que de no hacerlo, la impugnación será desechada;
+
+II. No será admisible la prueba de confesión de las autoridades;
+
+III. Las pruebas que ofrezca el promovente deberán estar relacionadas con cada uno de los hechos controvertidos; sin el cumplimiento de este requisito serán desechadas de plano;
+
+IV. La prueba pericial se desahogará con la presentación del dictamen respectivo dentro del plazo de Ley, de lo contrario, la prueba será declarada desierta, y
+
+V. La autoridad catastral podrá pedir que se le rindan los informes que estime pertinentes, por parte de quienes hayan intervenido en el acto reclamado;
+
+VI. La autoridad catastral resolverá sobre la admisión del medio de defensa y de las pruebas que el promovente hubiese ofrecido, si fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas, ordenando su desahogo y resolviendo lo que proceda dentro de un plazo que no excederá de cuarenta y cinco días, y
+
+VII. El contribuyente deberá esperar la resolución expresa dentro del término legal, o bien impugnar la negativa ficta una vez que hubiese transcurrido este término, ante el Tribunal de lo Administrativo.
+
+###### Artículo 101.
+
+Las resoluciones que pongan fin al procedimiento de defensa, podrán:
+
+I. Desecharlo por improcedente o sobreseerlo en su caso;
+
+II. Confirmar el acto impugnado;
+
+III. Ordenar la reposición del procedimiento administrativo;
+
+IV. Dejar sin efecto el acto impugnado, y
+
+V. Modificar el acto impugnado.
+
+###### Artículo 102.
+
+Contra las resoluciones de la autoridad catastral emitidas con motivo de la rectificación, el contribuyente podrá interponer la revisión ante el síndico del ayuntamiento; sin embargo, el afectado podrá optar entre interponer este medio de defensa, dentro de un plazo de veinte días hábiles a partir de la notificación, o demandar lo que proceda ante el Tribunal de lo Administrativo.
+
+###### Artículo 103.
+
+La revisión que se interponga ante el síndico deberá presentarse por conducto de la autoridad catastral que dictó la resolución impugnada, mediante escrito original y copia del mismo, en el que se expresará el nombre del contribuyente, su domicilio, número de cuenta catastral, clave catastral y ubicación del predio, precisando los agravios y aportando pruebas adicionales, si las hubiere.
+
+###### Artículo 104.
+
+La autoridad catastral, al recibir la revisión, la deberá remitir al síndico del ayuntamiento, acompañando los documentos y un informe pormenorizado de los antecedentes que sirvieron de base para emitir la resolución impugnada, en un plazo de cinco días improrrogables a partir de la recepción del medio de defensa.
+
+Una vez que el síndico reciba la documentación a que se alude en el párrafo anterior, procederá a su análisis y emitirá la resolución correspondiente, misma que en su caso deberá cumplimentar la autoridad catastral.
+
+###### Artículo 105.
+
+La revisión deberá ser resuelta en un plazo que no excederá de tres meses, a partir de la fecha en que se interponga.
+
+###### Artículo 106.
+
+La interposición de los medios de defensa previstos en este capítulo, suspenderá los efectos del acto o resolución que se impugna. Las condiciones y los efectos de esta suspensión en relación con la determinación y pago de obligaciones fiscales serán los que determinen las leyes hacendarias.
+
+###### Artículo 107.
+
+El síndico que resuelva la revisión estará facultado, cuando se cumplan los requisitos exigidos por la Ley de Amparo en materia de suspensión, a ordenar que las cosas se mantengan en el estado en que se encontraban, comunicándolo por la vía más rápida a las responsables y proporcionando copia del acuerdo al contribuyente.
+
+###### Artículo 108.
+
+La declaratoria de nulidad de notificación traerá como consecuencia la nulidad de las actuaciones posteriores que se relacionen con ella.
+
+###### Artículo 109.
+
+Para interponer la revisión es necesario agotar primero el procedimiento relativo a la rectificación.
+
+###### Artículo 110.
+
+Cuando la revisión sea resuelta favorablemente al contribuyente, tendrá el o los efectos previstos en el artículo 101 de esta Ley.
+
+## TRANSITORIOS
+
+Artículo Primero. Se abroga la Ley de Catastro del Estado contenida en el Decreto Número 9831 de fecha 28 de Diciembre de 1978, y todas sus reformas posteriores, publicadas en el Periódico Oficial El Estado de Jalisco.
+
+Artículo Segundo. La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Artículo Tercero. En tanto se expida el reglamento de esta Ley, se continuarán aplicando las disposiciones vigentes, siempre y cuando no se opongan al presente Ordenamiento.
+
+Artículo Cuarto. Los convenios que el Ejecutivo Estatal tenga celebrados con los ayuntamientos en materia de catastro, continuarán su vigencia hasta en tanto los ayuntamientos adquieran la capacidad técnica para hacerse cargo de este servicio. En todo caso, los referidos convenios tendrán vigencia por un plazo máximo de dos años contados a partir de la entrada en vigor del presente decreto. Los ayuntamientos que deseen celebrar convenios con el Ejecutivo del Estado para la administración o modernización del catastro municipal lo harán en los términos de la presente Ley.
+
+Artículo Quinto. Los ayuntamientos determinarán y cobrarán los derechos correspondientes a los servicios de catastro durante el año fiscal de 1997, aplicando la tarifa autorizada para los servicios que presta la Dirección de Catastro estatal previstos en la Leya (sic) de Ingresos del Estado para el Ejercicio Fiscal de 1997.
+
+Artículo Sexto. La Dirección de Catastro de la Secretaría de Finanzas del Estado continuará actualizando la información catastral y expidiendo los certificados e informes que le sean requeridos, respecto de aquellos municipios del estado que no cuenten con los equipos de cómputo y con los elementos necesarios para digitalizar o microfilmar los documentos que amparan los movimientos catastrales. En tanto los municipios adquieren los elementos referidos, continuarán enviando a la Dirección de Catastro del Estado, los "Extractos de Anotaciones Catastrales" y los documentos que amparan los movimientos correspondientes, a efecto de que la Dirección de Catastro continúe actualizando y procesando la información.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Octavo. Las regiones a que se refiere esta ley se integrarán con los municipios, conforme a la regionalización vigente del Comité de Planeación y Desarrollo del Estado de Jalisco.
+
+Salón de Sesiones del Congreso del Estado
+
+Guadalajara, Jalisco, 14 de octubre de 1997.
+
+Diputado Presidente
+
+Juan López Ramírez
+
+Diputado Secretario
+
+José Guadaluope (sic) Gómez Plascencia
+
+Diputado Secretario
+
+Gabriel Covarrubias Ibarra
+
+En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
+
+Emitido en Palacio del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los diez días del mes de noviembre de mil novecientos noventa y siete.
+
+El C. Gobernador Constitucional del Estado
+
+Ing. Alberto Cárdenas Jiménez
+
+El C. Secretario General de Gobierno
+
+Lic. Raúl Octavio Espinoza Martínez
