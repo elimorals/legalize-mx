@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2002-01-11"
+last_updated: "2002-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1677,7 +1677,13 @@ El censo electoral a que se refiere el art. 45 se levantará desde la próxima e
 
 El pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. En consecuencia, declara que todas las leyes y todas las autoridades del Estado deben respetar y sostener las garantías que otorga la presente Constitución.
 
-El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
+
+El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto al varón como a la mujer, salvo disposición expresa en contrario.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2002)</small>
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
 
 ###### Art. 2o.
 
@@ -2630,5 +2636,9 @@ Segundo.- Serán respetados los derechos adquiridos con anterioridad a la entrad
 Tercero.- En tanto se expidan o modifiquen las leyes en materia municipal correspondientes, se continuarán aplicando las disposiciones constitucionales y los demás ordenamientos vigentes.
 
 P.O. 11 DE ENERO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
