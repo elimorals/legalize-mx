@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1969-01-01"
+last_updated: "1970-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -91,11 +91,11 @@ IV.- Contribuir para los gastos públicos, así de la Federación como del Estad
 
 V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento de las leyes y procurar, por todos los medios lícitos que estén a su alcance, el engrandecimiento y prosperidad del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1954)</small>
+> <small>(REFORMADO, P.O. 1o. DE ABRIL DE 1970)</small>
 
 ###### Art. 35.
 
-Son ciudadanos del Estado todos los Nuevoleoneses, varones y mujeres, mayores de 21 años de edad, o de 18 siendo casados, y en uno y otro caso que tengan modo honesto de vivir.
+Son ciudadanos del Estado todos los Nuevoleoneses mayores de 18 años de edad, sea cual fuere su sexo o estado civil, que tengan modo honesto de vivir.
 
 ###### Art. 36.
 
@@ -1454,3 +1454,7 @@ P.O. 1o. DE ENERO DE 1969.
 ###### ARTICULO SEGUNDO
 
 - Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto, el cual entrará en vigor el día de su publicación en el Periódico Oficial.
+
+P.O. 1o. DE ABRIL DE 1970.
+
+UNICO:- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
