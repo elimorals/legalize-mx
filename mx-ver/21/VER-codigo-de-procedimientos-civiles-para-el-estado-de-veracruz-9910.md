@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2001-11-20"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2004.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -3623,9 +3623,11 @@ ARTICULO 500
 
 A falta de convenio sobre los hijos o en este mismo, en lo que sea compatible con los arreglos que propongan los cónyuges, el Juez procurará que los hijos queden confiados al cuidado de los mismos, en justa proporción, siguiendo hasta donde se estime oportuno, la elección de los propios hijos, expresada por éstos libremente. En caso de incapacidad de los mismos para optar o expresar su elección, el Juez decidirá en los términos convenientes al interés social y familiar de los hijos y los padres. El Juez, con auxilio del Ministerio Público y de los interesados, suplirá las deficiencias u omisiones para la liquidación social.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
 ARTICULO 501
 
-En la misma audiencia resolverá el juez; y en caso de quedar resuelta la situación de los hijos y de los bienes, mandará expedir copia de las diligencias a los interesados para que se presenten ante el Encargado del Registro Civil, en los términos del artículo 146 del Código de la materia para obtener su divorcio.
+En la misma audiencia resolverá el juez; y en caso de quedar resuelta la situación de los hijos y de los bienes, aprobará el convenio formulado por las partes, declarará disuelto el vínculo matrimonial y mandará remitir copia de su resolución al encargado del Registro Civil, en los términos del artículo 146 del Código de la materia, para que se hagan las anotaciones en el libro correspondiente, se proceda a la inscripción del divorcio y se levante el acta respectiva.
 
 ARTICULO 502
 
@@ -5571,9 +5573,7 @@ Los instructivos se extenderán en esqueletos impresos tomados de libros talonar
 
 ARTICULO 755
 
-El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar
-
-por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
+El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de hacer notificaciones.
 
@@ -5934,6 +5934,12 @@ G.O. 20 DE NOVIEMBRE DE 2001.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 4 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
