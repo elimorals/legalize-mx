@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1997-02-28"
+last_updated: "1997-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -71,6 +71,10 @@ Quintana Roo es un Estado democrático, considerando a la democracia no solament
 
 La Constitución Política de los Estados Unidos Mexicanos y esta Constitución son la Ley Suprema del Estado. Los ordenamientos que de ellas emanen forman la estructura jurídica de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+Todos los habitantes del Estado de Quintana Roo tienen derecho, en la forma y términos establecidos por esta Constitución y la ley, a resolver sus controversias de carácter jurídico, mediante la conciliación, la que podrá tener lugar antes de iniciarse un juicio o durante su tramitación. Cuando los interesados así lo determinen, habrá lugar a la conciliación en la fase de ejecución.
+
 ###### ARTICULO 8o.
 
 Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de opotunidades (sic).
@@ -116,6 +120,14 @@ El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinc
 Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
 
 Toda Familia tiene derecho a disfrutar de vida digna y decorosa. La ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+Los miembros de las etnias que habitan en las comunidades indígenas, podrán resolver sus controversias de carácter jurídico de acuerdo a sus usos, costumbres y tradiciones; la ley instituirá un sistema de justicia indígena para las comunidades de la Zona Maya del Estado, a cargo de jueces tradicionales y, en su caso, de Magistrados de Asuntos Indígenas que funcionen en Sala, en Tribunales Unitarios, o en las instituciones que de acuerdo con las comunidades indígenas, determine el Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+La ley protegerá, regulará y validará el desarrollo y ejercicio de sus lenguas, cultura, usos, costumbres, actos, recursos y formas específicas de organización social y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
 
 ###### ARTICULO 14.
 
@@ -1181,7 +1193,9 @@ VII.- El Tribunal Electoral.
 
 VIII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
 
-El Tribunal Superior de Justicia determinará el número de Tribunales Unitarios, jueces de primera instancia y jueces menores que deban establecerse, su lugar de residencia y su jurisdicción territorial.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+El Tribunal Superior de Justicia proporcionará a los particulares medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación. La ley establecerá la competencia e integración de la institución que brindarán estos servicios, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Esta institución brindará servicios de defensoría de oficio y de asistencia jurídica a sectores sociales desprotegidos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1997)</small>
 
@@ -2356,3 +2370,7 @@ Tercero.- El magistrado electoral deberá designarse a más tardar el 30 de sept
 Cuarto.- En tanto se expiden o reforman las leyes correspondientes, el Tribunal Estatal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código de Instituciones y Procedimientos Electorales del Estado de Quintana Roo.
 
 Quinto.- Todos los ordenamientos internos que regulan hasta la fecha a los órganos electorales seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones señaladas en este Decreto.
+
+P.O. 30 DE ABRIL DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
