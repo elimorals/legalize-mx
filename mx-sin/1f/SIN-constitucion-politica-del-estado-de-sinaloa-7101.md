@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1941-04-10"
+last_updated: "1941-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1941.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -393,7 +393,9 @@ XXIII. Autorizar al Gobernador para que celebre empréstitos en nombre del Estad
 
 XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
-XXV. Condonar adeudos fiscales a favor del Estado, en cantidades mayores de quinientos pesos.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1941)</small>
+
+XXV. Condonar adeudos fiscales a favor del Estado, en cantidades mayores de trescientos pesos, pero que no excedan de quinientos pesos.
 
 XXVI. Señalar anualmente a los Ayuntamientos, los ramos necesarios sobre los cuales ellos fijen sus impuestos.
 
@@ -667,9 +669,9 @@ XXI. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
 
 XXII. Nombrar y remover libremente al Procurador de Justicia y Agentes del Ministerio Público.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1941)</small>
 
-XXIII. Condonar adeudos fiscales a favor del Estado en cantidades menores de quinientos pesos.
+XXIII. Condonar adeudos fiscales a favor del Estado en cantidades menores de trescientos pesos.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1570,3 +1572,7 @@ Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 10 DE ABRIL DE 1941.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 15 DE ABRIL DE 1941.
+
+UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
