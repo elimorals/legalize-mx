@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-15543"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2001-06-19"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1999.
 
@@ -1406,6 +1406,18 @@ I.- La prevención y el tratamiento de padecimientos originados por el tabaquism
 II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva y,
 
 III.- Reglamentar el consumo de tabaco en espacios cerrados, a efecto de proteger a los no fumadores, incluyendo la prohibición de fumar en vehículos dedicados al transporte colectivo de personas.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2001)</small>
+
+###### ARTICULO 168 Bis.
+
+Con el objeto de proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco, en cualquiera de sus formas, el Gobierno del Estado deberá emprender medidas para prohibir:
+
+I.- Fumar en los edificios en los que funcionen oficinas o dependencias del Gobierno del Estado, de los Poderes Legislativo y Judicial y de los Ayuntamientos, así como en locales cerrados, establecimientos donde se expenden alimentos para su consumo y medios de transporte público, con excepción de las áreas reservadas para fumadores que se delimiten en los edificios y locales a que se refiere el presente artículo;
+
+II.- La venta de cigarros en empaque o a granel dentro de las Escuelas.
+
+La inspección y vigilancia del cumplimiento de las disposiciones que se desprendan del presente artículo y su reglamento estará a cargo de la Secretaría de Salud del Estado y de las Dependencias Municipales que los Ayuntamientos designen.
 
 ###### ARTICULO 169.
 
@@ -2796,3 +2808,13 @@ B.O. 19 DE JUNIO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de diciembre del año dos mil uno, previa publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo Estatal deberá expedir el reglamento para la protección de los no fumadores en el Estado dentro del plazo de 60 días, contados a partir de la publicación de este Decreto.
