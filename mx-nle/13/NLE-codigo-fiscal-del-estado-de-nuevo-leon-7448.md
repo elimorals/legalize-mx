@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1984-11-30"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -333,7 +333,9 @@ Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pe
 
 Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas, no excederán del 100% del monto de dicho crédito. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán conforme la tasa que fije la Ley Anual de Ingresos del Estado por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente en que debió hacerse el pago y hasta que el mismo se efectúe.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas, sin que puedan exceder del 200% del monto de dicho crédito. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán conforme a la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
@@ -353,7 +355,9 @@ Cuando se solicite la devolución de un tributo estatal éste deberá efectuarse
 
 El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades pagadas indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
-En ningún caso los intereses a cargo del fisco estatal excederán del 100% de la cantidad de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+En ningún caso los intereses a cargo del fisco estatal excederán del 200% de la cantidad de que se trate.
 
 Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades devueltas indebidamente y los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
 
@@ -1107,7 +1111,9 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I.- Para la señalada en la fracción I:
 
-A).- Tratándose de declaraciones, la mayor que resulte entre $2,000.00 o el 2% de las contribuciones declaradas en su caso. Si dentro de los 6 meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta otra declaración complementaria de aquéllas, declarando contribuciones adicionales, sobre la misma se aplicará también la multa del 2% a que se refiere este inciso.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+A).- Tratándose de declaraciones, la mayor que resulte entre $2,000.00 o el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa del 100% a que se refiere este inciso.
 
 B).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia:
 
@@ -1123,7 +1129,9 @@ A).- De $1,000.00 por no poner el nombre o ponerlo equivocadamente.
 
 B).- De $500.00 en los demás casos.
 
-III.- Tratándose de la señalada en la fracción III, la que resulte mayor entre $2,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+III.- Tratándose de la señalada en la fracción III, la que resulte mayor entre $2,000.00 o el 100% de las contribuciones no pagadas.
 
 En ningún caso las multas a que se refieren las fracciones I, inciso A) y III de este artículo, podrá exceder de la cantidad equivalente al salario mínimo general de la zona económica correspondiente, elevado el año.
 
@@ -2645,6 +2653,12 @@ T R A N S I T O R I O S :
 
 - Los juicios contenciosos administrativos que se hubieren interpuesto antes de la entrada en vigor de este Código, se tramitarán y resolverán de conformidad con las disposiciones del Código anterior.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO NOVENO
+
+- Cuando hasta el 31 de diciembre de 1986 se hubieren generado recargos sobre contribuciones o productos estatales o municipales insolutos, o sobre obligaciones a cargo del fisco, y dichos recargos hayan alcanzado el 100% o menos del importe de la obligación principal; a partir del 1o. de enero de 1987 se reanudará o continuará la causación de los mismos, en los términos y condiciones previstos en las leyes vigentes en la Entidad.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiséis días del mes de noviembre de mil novecientos ochenta y cuatro.- PRESIDENTE: DIP. VALENTIN TAMEZ ENRIQUEZ; DIP. SECRETARIO: RENE ALVAREZ MENDOZA; DIP. SECRETARIO: Por M. de Ley: ELIAS ZUÑIGA GUTIERREZ.- RUBRICAS.
@@ -2664,3 +2678,15 @@ GRACIANO BORTONI URTEAGA
 EL SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 VICTOR GOMEZ GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de Enero de 1987.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan a lo preceptuado en el presente Decreto.
