@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1923-05-30"
+last_updated: "1924-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL : 30 DE MAYO DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -43,7 +43,7 @@ Del Estado en General, Forma de Gobierno,
 
 Nuevoleoneses y Ciudadanos
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1923)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1924)</small>
 
 ###### Art. 28.
 
@@ -148,6 +148,10 @@ III.- Por sublevación contra las instituciones o contra las Autoridades Constit
 ###### Art. 40.
 
 Corresponde exclusivamente a la Legislatura del Estado rehabilitar en sus derechos de ciudadano nuevoleonés a los que los hayan perdido; pero es requisito indispensable para esto que la persona a quien se conceda esa gracia goce de los derechos de ciudadano mexicano.
+
+###### ARTICULO 28.
+
+El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey, (Capital del Estado), Abasolo, Agualeguas, Apodaca, Arramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos, de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería Chica, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás Hidalgo, San Nicolás de los Garzas, Santa Catarina, Santiago, Vallecillo, Villaldama y las Congregaciones de Colombia y Melchor Ocampo, con las demás Municipalidades que se formen en lo sucesivo.
 
 ## TITULO III.
 
@@ -976,6 +980,10 @@ P.O. 19 DE ABRIL DE 1919.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 30 DE MAYO DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 24 DE DICIEMBRE DE 1924.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
