@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "1999-03-09"
+last_updated: "2002-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -155,13 +155,19 @@ III.- Solicitar los servicios de asesoría profesional del sector público o pri
 
 Para el trámite de los asuntos de su competencia, las comisiones se reunirán cuantas veces sea necesario mediante citatorio que hagan sus respectivos presidentes a sus integrantes, de la siguiente manera:
 
-I.- A través del secretario de la directiva, en sesión;
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+
+I.- A través del Secretario de la directiva, en sesión;
 
 II.- En reunión de las propias comisiones;
 
 III.- Por escrito con acuse de recibo en las oficinas de los diputados, cuando menos con veinticuatro horas de anticipación.
 
 En todos los casos el citatorio contendrá el día, la hora, el lugar, y el asunto a tratar.
+
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2002)</small>
+
+Los presidentes deberán citar a reuniones de las comisiones directamente o a solicitud de la mayoría de los integrantes de las mismas. En este último caso, de no hacerlo, será el Secretario quien a petición de la mayoría referida haga la citación.
 
 ###### Artículo 21.
 
@@ -365,7 +371,7 @@ Las sesiones se llevarán a cabo con sujeción al orden del día que sea aprobad
 
 ###### Artículo 53.
 
-Para iniciar y concluir las sesiones, el presidente expresará: "Se abre la sesión siendo las... horas del día...", y "se levanta la sesión, siendo las... horas del día..."
+Para iniciar y concluir las sesiones, el presidente expresará: "Se abre la sesión siendo las ... horas del día ...". y "se levanta la sesión, siendo las ... horas del día ..."
 
 ###### Artículo 54.
 
@@ -675,7 +681,7 @@ La ley o decreto aprobados por la Legislatura, se expedirán bajo la siguiente f
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, Capital del Estado de México, a los... días del mes de... de... diputado Presidente.- diputados Secretarios.- (nombres y rúbricas)".
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, Capital del Estado de México, a los ... días del mes de ... de .... diputado Presidente.- diputados Secretarios.- (nombres y rúbricas)".
 
 En caso de que la resolución sea emitida fuera de la capital del Estado, se adecuará la parte correspondiente.
 
@@ -803,7 +809,7 @@ Al inicio de cada período de sesiones, el Presidente de la Legislatura hará la
 
 Elegida la Diputación Permanente, su presidente la declarará formalmente instalada inmediatamente después de clausurado el período ordinario, expresando:
 
-"Siendo las... horas del (día, mes y año) queda formalmente instalada la Diputación Permanente para el período de receso que hoy inicia."
+"Siendo las ... horas del (día, mes y año) queda formalmente instalada la Diputación Permanente para el período de receso que hoy inicia."
 
 ###### Artículo 132.
 
@@ -1125,7 +1131,7 @@ XIX.- Desarrollar permanentemente programas de modernización y simplificación 
 
 XX.- Elaborar los instrumentos técnico administrativos que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
 
-XXI.- Las demás que le señalen los ordenamientos legales aplicables y las que determine la Gran Comisión o su presidente.
+XXI.- Las demás que le señalen los ordenamientos legales aplicabies (sic) y las que determine la Gran Comisión o su presidente.
 
 ###### Artículo 161.
 
@@ -1183,7 +1189,7 @@ PRIMERO.- El presente reglamento, entrará en vigor al día siguiente de su publ
 
 SEGUNDO.- La fecha del 5 de septiembre contenida en la fórmula de declaración solemne de constitución de la Legislatura, entrará en vigor en el año 2000. La LIII Legislatura iniciará su ejercicio el 5 de diciembre de 1996.
 
-TERCERO.- La declaratoria solemne a que se refiere la fracción VI del artículo 136 entrará en vigor el 5 de septiembre del año 2000.
+TERCERO.- La declaratoria solemne a que se refiere la fracción Vi (sic) del artículo 136 entrará en vigor el 5 de septiembre del año 2000.
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
@@ -1210,3 +1216,9 @@ PRIMERO.- Procédase a la declaratoria de aprobación de las reformas.
 SEGUNDO.- Publíquese en la Gaceta del Gobierno.
 
 TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación.
+
+G.G. 11 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
