@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2004-02-04"
+last_updated: "2004-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -2937,6 +2937,14 @@ IX. A quien después de notificado por la Secretaría persista en la conducta vi
 
 Podrán aplicarse las demás sanciones que se indican en la matriz de sanciones.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 183 BIS 1.
+
+> <small>N. DE E. VÉASE MATRIZ DE SANCIONES PECUNIARIAS EN EL P.O. DE 7 DE SEPTIEMBRE DE 2004, PÁGINAS DE LA 6 A LA 7.</small>
+
+*Las sanciones estan marcadas como cuotas de acuerdo al salario minimo vigente
+
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 184.
@@ -3016,3 +3024,7 @@ Octavo. En todos los casos se deberán cumplir con lo establecido por los demás
 Noveno. En la medida que se modifique las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, el Ayuntamiento deberá adecuar este Reglamento, con el fin de preservar su Autoridad institucional y proporcionar el desarrollo armónico de la Sociedad, observando los principios y lineamientos establecidos en la Ley Orgánica de la Administración Pública Municipal del Estado, la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado de Nuevo León.
 
 Décimo. Envíese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno y en la Gaceta Municipal, por conducto de la Secretaría del R. Ayuntamiento.
+
+P.O. 7 DE SEPTIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
