@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2003-08-13"
+last_updated: "2004-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2004.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -1107,8 +1107,6 @@ Los tribunales declarados competentes harán de oficio que las cosas se restituy
 
 Reglas para la Fijación de la Competencia.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
-
 ###### Artículo 153.
 
 Es Juez competente:
@@ -1117,13 +1115,21 @@ I. El del lugar que el deudor haya designado para ser requerido judicialmente de
 
 II. El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el anterior, surte el fuero no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+
 III. El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más distritos, será a prevención;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
 IV. El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles o de acciones personales o del estado civil.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+
 Cuando sean varios los demandados y tuvieren diversos domicilios será competente el Juez del domicilio que escoja el actor;
 
-V. A falta de domicilio fijo será competente el Juez del lugar donde se celebró el contrato, cuando la acción sea personal y el de la ubicación de la cosa, cuando la acción sea real;
+V. A falta de domicilio fijo será competente el juez del lugar donde se celebró el contrato, cuando la acción sea personal y el de la ubicación de la cosa, cuando la acción sea real;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1989)</small>
 
 VI. En los juicios hereditarios, el Juez en cuya comprensión haya tenido en su último domicilio el autor de la herencia; a falta de ese domicilio lo será el de la ubicación de los bienes raíces que forman la herencia, y su (sic) estuvieren en varios distritos, el Juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
@@ -1135,9 +1141,11 @@ b). De las acciones contra la sucesión antes de la partición y adjudicación d
 
 c). De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
-VIII. En los concursos de acreedores el Juez del domicilio del deudor;
+VIII. En los concursos de acreedores el juez del domicilio del deudor;
 
 IX. En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar donde estén ubicados;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1989)</small>
 
 X. En los negocios relativos a la tutela de los menores e incapacitados, el Juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de éste;
 
@@ -1145,9 +1153,17 @@ XI. En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XII. Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1989)</small>
+
 XIII. En los juicios de divorcio, el Tribunal del domicilio conyugal, y en caso de abandono de hogar el del domicilio del cónyuge abandonado;
 
-XIV. En los juicios de alimentos, el del domicilio del actor.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2004)</small>
+
+XIV. En los juicios de alimentos, el del domicilio del actor; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2004)</small>
+
+XV. En los juicios especiales de pérdida de patria potestad, el Juez del domicilio de la institución de asistencia social, sea pública o privada, que haya acogido a la persona menor de edad.
 
 ###### Artículo 154.
 
@@ -3313,17 +3329,67 @@ Al hacer el requerimiento que se dispone en el artículo 476, se embargarán y d
 
 Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2004)</small>
 
-De la Ejecución de las Sentencias y demás Resoluciones dictadas por el Supremo Tribunal o los Jueces del Estado.
+### CAPITULO V.
+
+Del Juicio especial de pérdida de Patria Potestad.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2004)</small>
+
+###### Artículo 485 Bis.
+
+Tratándose de personas menores de edad que hayan sido acogidas por una institución de asistencia social, sea pública o privada, la pérdida de la patria potestad a que se refiere la fracción IV, del artículo 445 del Código Civil, se tramitará de acuerdo al procedimiento señalado en este Capítulo, correspondiendo tal acción al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2004)</small>
+
+###### Artículo 485 Bis
+
+1. Admitida la demanda, se emplazará a quienes ejerzan la patria potestad y a las personas referidas en el artículo 415 del Código Civil, para que dentro del plazo de cinco días produzcan su contestación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2004)</small>
+
+###### Artículo 485 Bis
+
+2. Todas las notificaciones se harán de acuerdo a lo ordenado en el Capítulo V, Título II, de este Código, y en caso de domicilio ignorado de la persona que deba ser emplazada, deberán ser publicados edictos, por tres veces consecutivas en el Periódico Oficial "El Estado de Sinaloa" y algún otro de mayor circulación a juicio del Juez, publicación que igualmente se hará en los estrados del juzgado. La notificación así hecha, surtirá sus efectos a partir del tercer día de hecha la última publicación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2004)</small>
+
+###### Artículo 485 Bis
+
+3. Todas las excepciones deberán hacerse valer en el escrito de contestación.
+
+Los incidentes no suspenderán el procedimiento y salvo la excepción de incompetencia, se resolverán hasta la definitiva.
+
+Si la parte demandada no formula su contestación, se le tendrá por contestada en sentido negativo.
+
+En este juicio no es admisible la reconvención.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2004)</small>
+
+###### Artículo 485 Bis
+
+4. Transcurrido el plazo para contestar la demanda, dentro de los cinco días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes de manera personal con las prevenciones y apercibimientos de ley correspondientes.
+
+Las pruebas deben ofrecerse en los escritos de demanda y de contestación. Las supervenientes se regirán por lo previsto en este Código.
+
+La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y demás auxiliares del proceso, con las pruebas que estén preparadas, dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes, señalándose al efecto fecha para su continuación, la que tendrá verificativo por una sola vez y en un plazo no mayor de diez días.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2004)</small>
+
+###### Artículo 485 Bis
+
+5. La sentencia se dictará dentro de los cinco días siguientes al estado de citación para la misma.
+
+Contra la sentencia procede el recurso de apelación en ambos efectos.
 
 ## TITULO VIII.
 
 De la Ejecución de las Sentencias.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Ejecución de las Sentencias y demás resoluciones dictadas por los Tribunales de los Estados, de los Territorios y del Extranjero.
+De la Ejecución de las Sentencias y demás Resoluciones dictadas por el Supremo Tribunal o los Jueces del Estado.
 
 ###### Artículo 486.
 
@@ -3485,9 +3551,9 @@ Si se tratare de sentencias contra la Hacienda Pública del Estado o Municipal, 
 
 Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De los Embargos.
+De la Ejecución de las Sentencias y demás resoluciones dictadas por los Tribunales de los Estados, de los Territorios y del Extranjero.
 
 ###### Artículo 518.
 
@@ -3559,9 +3625,9 @@ Ni el Juez inferior ni el Supremo Tribunal podrán examinar ni decidir sobre la 
 
 Si se denegare el cumplimiento, se devolverá la ejecutoria a la parte que la hubiere presentado; si se accediere a cumplirla, se procederá a la ejecución conforme a las disposiciones de este Código.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De los Remates.
+De los Embargos.
 
 ###### Artículo 529.
 
@@ -3807,9 +3873,9 @@ La fijación del término a que este artículo se refiere, se hará con audienci
 
 Lo dispuesto en este Capítulo es aplicable a todos los casos de secuestro judicial, salvo aquéllos en que disponga expresamente otra cosa, este Código.
 
-### CAPITULO I.
+### CAPITULO IV.
 
-De los Incidentes en General.
+De los Remates.
 
 ###### Artículo 559.
 
@@ -4043,9 +4109,9 @@ VII. En todo lo demás se observarán, en lo conducente, las disposiciones de es
 
 De los incidentes.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los incidentes Criminales que surjan en los Juicios Civiles.
+De los Incidentes en General.
 
 ###### Artículo 593.
 
@@ -4079,7 +4145,9 @@ Promovida la prueba o transcurrido el término para ofrecerla, el juez citará a
 
 La sentencia en los incidentes será apelable en los casos y efectos en que lo fuere la sentencia en el juicio principal, salvo lo que en casos especiales disponga la ley.
 
-### CAPITULO UNICO.
+### CAPITULO II.
+
+De los incidentes Criminales que surjan en los Juicios Civiles.
 
 ###### Artículo 601.
 
@@ -4105,11 +4173,7 @@ Concluida la averiguación criminal continuará el curso de los autos civiles y 
 
 De las Tercerías.
 
-### CAPITULO I.
-
-De los Juicios en Rebeldía.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+### CAPITULO UNICO.
 
 ###### Artículo 606.
 
@@ -4221,9 +4285,11 @@ La recusación interpuesta y admitida en una tercería, inhibe al Juez recusado 
 
 De los Negocios de Tramitación Especial.
 
-### CAPITULO II.
+### CAPITULO I.
 
-Del Juicio Arbitral.
+De los Juicios en Rebeldía.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 627.
 
@@ -4265,11 +4331,9 @@ Si compareciere después del término expresado o durante la segunda instancia, 
 
 El impedimento deberá acreditarse en incidente que se tramitará por cuerda separada y contra la resolución que en éste se pronuncie no procederá más recurso que el de responsabilidad.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De la Modificación y Convalidación de Actas de Estado Civil y del Registro Extemporáneo.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+Del Juicio Arbitral.
 
 ###### Artículo 635.
 
@@ -4419,9 +4483,11 @@ El juez deberá compeler a los árbitros a cumplir con sus obligaciones.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 1982)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Divorcio por Mutuo Consentimiento.
+De la Modificación y Convalidación de Actas de Estado Civil y del Registro Extemporáneo.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
 ###### Artículo 663.
 
@@ -4461,9 +4527,9 @@ En los juicios de rectificación de acta se enviará al Oficial del Registro Civ
 
 El registro de nacimiento efectuado después de los plazos establecidos por este Código se tramitarán ante las autoridades del Registro Civil, según el procedimiento establecido en el Reglamento respectivo.
 
-### CAPITULO I.
+### CAPITULO IV.
 
-De la Revocación.
+Divorcio por Mutuo Consentimiento.
 
 ###### Artículo 669.
 
@@ -4511,11 +4577,9 @@ Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ell
 
 De los Recursos.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Apelación y Revisión.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
+De la Revocación.
 
 ###### Artículo 678.
 
@@ -4539,11 +4603,11 @@ La revocación debe pedirse por escrito dentro de los tres días siguientes a la
 
 (DEROGADO, P.O. 28 DE JUNIO DE 1941)
 
-### CAPITULO III.
+### CAPITULO II.
 
-De la Queja.
+De la Apelación y Revisión.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
 
 ###### Artículo 683.
 
@@ -4745,9 +4809,11 @@ En su primer resolución el tribunal de alzada decidirá respecto de la admisibi
 
 En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas y quien deba pagarlas. Para los efectos de la fracción III del artículo 141 de este Código, se entiende por condenado a la parte que no obtenga en las dos sentencias a que dicha fracción se refiere.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De la Responsabilidad Civil.
+De la Queja.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1941)</small>
 
 ###### Artículo 714.
 
@@ -4787,9 +4853,9 @@ Recibido el informe del juez, dentro de los tres días siguientes el tribunal de
 
 Si el Juez no rinde el informe a que se refiere este Capítulo, siendo que su falta sea porque quien interpuso el recurso no cumplió con el segundo párrafo del artículo 716, se declarará por este solo hecho la queja infundada. Si la falta del informe fuere por hecho imputable al Juez, el Tribunal compelerá a su inferior, por los medios de apremio establecidos, a la rendición del debido informe.
 
-### CAPITULO I.
+### CAPITULO IV.
 
-Disposiciones Generales.
+De la Responsabilidad Civil.
 
 ###### Artículo 720.
 
@@ -5901,9 +5967,9 @@ En lo demás se observará lo dispuesto en el Capítulo que antecede.
 
 De la Jurisdicción Voluntaria.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de Estos Cargos y de las Cuentas de la Tutela.
+Disposiciones Generales.
 
 ###### Artículo 905.
 
@@ -5963,9 +6029,9 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción sobre sus Derechos.
+De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de Estos Cargos y de las Cuentas de la Tutela.
 
 #### SECCION I.
 
@@ -6241,11 +6307,9 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fra
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del Juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición, se sustanciará juicio sumario. En este Juicio se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá ni de las sentencias definitivas ni de las interlocutorias, apelación ni otro recurso que el de responsabilidad. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan según derecho, a los negocios de mayor interés.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De la Adopción.
-
-> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
+De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción sobre sus Derechos.
 
 ###### Artículo 965.
 
@@ -6323,9 +6387,11 @@ Lo dispuesto en los artículos que proceden se aplicará el gravamen y enajenaci
 
 La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo teniendo en cuenta lo que se dispone en el artículo 565 del Código Civil.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De las Informaciones Ad-perpetuam.
+De la Adopción.
+
+> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 978.
 
@@ -6389,9 +6455,9 @@ Los procedimientos de revocación en materia de adopción simple, se seguirán p
 
 Cuando se apruebe la adopción o se deje sin efecto el Juez cumplirá lo que previenen los artículos 402 y 411 del Código Civil.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Del Apeo y Deslinde.
+De las Informaciones Ad-perpetuam.
 
 ###### Artículo 983.
 
@@ -6457,11 +6523,9 @@ Si hubiere oposición y se fundare en título debidamente registrado con anterio
 
 No tendrá valor la información cuando se hubiere recibido habiendo juicio pendiente o anunciado, aún cuando se pretenda que se ratifique ante el Juez.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+Del Apeo y Deslinde.
 
 ###### Artículo 990.
 
@@ -6521,9 +6585,11 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 
 Los gastos de apeo se harán a prorrata por el que lo promueva y los propietarios colindantes; pero el Juez podrá a su arbitrio eximir de la obligación de contribuir a los gastos, a los colindantes que sean notoriamente pobres.
 
-### CAPITULO UNICO.
+### CAPITULO VII.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
 
 ###### Artículo 996.
 
@@ -6552,6 +6618,8 @@ En ambos casos no son necesarias formalidades de ninguna clase, asentándose sol
 Del Procedimiento en los Negocios de la Competencia de los Jueces Menores.
 
 ### CAPITULO UNICO.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
 
 ###### Artículo 998.
 
@@ -6731,11 +6799,11 @@ El tercero que considere perjudicados sus derechos al ejecutarse la sentencia en
 
 DEROGADO, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 1984)
 
-## TITULO XVII.
-
-De la Conciliación.
+## TITULO XVII. De la Conciliación
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 1984)</small>
+
+### CAPITULO UNICO
 
 ###### Artículo 1031.
 
@@ -7102,3 +7170,9 @@ Las adopciones realizadas con anterioridad a la entrada en vigor del presente De
 P.O. 13 DE AGOSTO DE 2003.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
