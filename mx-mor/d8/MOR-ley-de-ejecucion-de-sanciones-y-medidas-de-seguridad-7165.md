@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-7165"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-21"
-last_updated: "1973-03-21"
+last_updated: "2002-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD, PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2002.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el 21 de marzo de 1973.
 
@@ -129,7 +129,7 @@ XI.- Vigilar el tratamiento de los menores infractores y proponer las medidas qu
 
 XII.- Conocer e investigar las quejas de los internos, acerca del trato de que sean objeto;
 
-XIII.- Organizar el Patronato de Reos Liberados.
+XIII.- (DEROGADA, P.O. 6 DE MARZO DE 2002)
 
 XIV.- Las demás que le fijen las leyes y reglamentos respectivos.
 
@@ -897,29 +897,43 @@ Los liberados, durante el período inmediato a su reintegración a la vida socia
 
 DEL PATRONATO DE LIBERADOS.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 115.
 
-El Patronato de Liberados se integrará y organizará en los términos que fije el Reglamento respectivo, pero en todo caso formarán parte del mismo representante de los tres Poderes del Estado, de las Organizaciones Obreras, Campesinas, y de los diversos sectores sociales interesados en prestar ayuda a los liberados.
+El Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos, en lo sucesivo denominado el Patronato, se integrará por un representante del Poder Legislativo de entre los integrantes de la Comisión de Industria, Comercio y Servicios, un representante del Poder Judicial, un representante del Poder Ejecutivo, un representante del Sector Obrero, un representante de una Institución Tecnológica, un representante del Sector Empresarial y se organizará en los términos que fije su Reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 116.
 
-El Patronato estará dotado de personalidad jurídica y patrimonios propios y tiene a su cargo la asistencia moral y material de los liberados tanto por cumplimiento de la sanción como por libertad procesal, absolución, condena condicional o libertad preparatoria. Tendrá agencias en los Distritos Judiciales del Estado.
+El Patronato estará dotado de personalidad jurídica y patrimonio propio; tendrá a su cargo la asistencia moral y material de los liberados tanto por cumplimiento de la sanción como por libertad procesal, absolución, condena condicional, remisión parcial de la sanción, libertad preparatoria y tratamiento preliberacional. Tratándose de los internos, el Patronato propondrá a las autoridades encargadas de la readaptación social, el planteamiento y ejecución de los planes, proyectos y acciones encaminadas al cumplimiento de lo previsto en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, según las características y posibilidades particulares de cada centro de reclusión del Estado.
+
+Los fines y actividades a cargo del Patronato, no serán de carácter lucrativo.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 117.
 
-La asistencia que proporcione el Patronato será conforme a las circunstancias de cada caso y a las posibilidades del propio organismo; está exenta de carácter policial que comprenderá el auxilio moral, económico, jurídico, médico, social y laboral, tanto para los liberados como para su familia. La acción del Patronato tendrá como finalidad influir o ayudar en el proceso de reacomodo social de los liberados y prevenir la reincidencia.
+La asistencia que proporcione el patronato será conforme a las circunstancias de cada caso y a las posibilidades del propio organismo; estará exenta de carácter policial comprendiendo, al menos, al auxilio moral, económico, jurídico, médico, social y laboral de los internos, liberados y de sus familias. La acción del Patronato tendrá como finalidad influir o ayudar en el proceso de reacomodo social de internos y liberados con el objeto de prevenir la reincidencia.
+
+Para los fines consignados, el Patronato recibirá de manera directa los ingresos y productos derivados de la industria penitenciaria, así como también las donaciones que realicen en beneficio del Patronato ya sean económicas o en especie, con los que se habrán de cubrir no sólo los costos y gastos de la institución, sino también a cargo del interno en la medida de lo posible la reparación del daño y demás obligaciones.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 118.
 
-El Patronato de Liberados del Estado de Morelos brindará asistencia a los liberados de otras entidades federativas o de la Federación que se establezca en el Estado de Morelos. Establecerá vínculos de coordinación con otros Patronatos y, para el mejor cumplimiento de sus objetivos, formará parte de la Sociedad de Patronatos para Liberados dependientes de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social de la Secretaría de Gobernación.
+El Patronato brindará asistencia a los liberados de otras entidades federativas o de la Federación que se establezcan en el Estado de Morelos. Establecerá vínculos de coordinación con otros Patronatos y para el mejor cumplimiento de sus objetivos, formará parte de la Sociedad de Patronatos dependientes de la autoridad federal competente.
 
 ###### ARTICULO 119.
 
 El Patronato contará con un Consejo de Patronos y un Comité Ejecutivo. El Gobernador del Estado designará al Presidente, al Secretario y al Tesorero.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 120.
 
-El funcionamiento, organización, administración y relaciones del Patronato, se especificarán en forma reglamentaria. El Departamento de Prevención y Readaptación Social es el organismo encargado de formular el Reglamento correspondiente al Patronato.
+El funcionamiento, organización, administración y relaciones del Patronato, se especificarán en forma reglamentaria. El Ejecutivo Estatal formulará el Reglamento por el que se rija el Patronato.
 
 T R A N S I T O R I O S :
 
@@ -952,3 +966,31 @@ EL SECRETARIO DE GOBIERNO.
 Lic. Guillermo Tenorio Carpio.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 6 DE MARZO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que crea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede al titular del Poder Ejecutivo Estatal, un plazo de noventa días hábiles contados a partir de la fecha de publicación del presente decreto, para la expedición del Reglamento que habrá de regir las actividades y el funcionamiento del Patronato para la Readaptación y Reincorporación Social por el Empleo y la Industria Penitenciaria del estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+El Patronato para la Readaptación y Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos, deberá quedar instalado a más tardar dentro de los noventa días hábiles siguientes a la fecha de publicación del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza al Ejecutivo Estatal a proporcionar los recursos humanos y materiales, según sea necesario, para coadyuvar en todas las acciones correspondientes al Patronato.
+
+###### ARTÍCULO QUINTO.
+
+Las atribuciones competencia del extinto Departamento de Prevención y Readaptación social que se mencionan en la Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas a la Libertad para el Estado de Morelos, se entenderán conferidas a la Subsecretaría de Readaptación Social, dependiente de la Secretaría de Gobierno.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
