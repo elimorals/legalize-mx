@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-88-2003-del-pleno-del-consejo-de-la-61879"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-12-03"
-last_updated: "2003-12-03"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61879&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2003-12-03"
 ---
 # ACUERDO GENERAL 88/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2007 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 88/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE REPORTES ESTADISTICOS DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE ENERO DE 2004.</small>
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVIII, Diciembre de 2003, página 1525.
 
@@ -63,9 +63,9 @@ TERCERO.- El ingreso y envío de los reportes estadísticos deberá realizarse a
 
 CUARTO.- Los órganos jurisdiccionales que no cuenten con el Sistema Integral de Seguimiento de Expedientes, deberán rendir su estadística mediante la captura que realicen en el formato contenido en el correo electrónico o disquete que al efecto les será remitido oportunamente, hasta en tanto cuenten con el aludido sistema.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO DE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2007 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2004)</small>
 
-QUINTO.- La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales del Poder Judicial de la Federación, supervisará que la captura y envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los Tribunales de Circuito y Juzgados de Distrito, sea de manera oportuna y que la información almacenada corresponda fielmente con su contenido.
+QUINTO.- La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales del Poder Judicial de la Federación, supervisará que el envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los tribunales de Circuito y juzgados de Distrito, sea de manera oportuna y verificará en su caso, por muestreo, que la información almacenada corresponda fielmente con su contenido.
 
 ## TRANSITORIOS
 
