@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1995-12-28"
+last_updated: "1996-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -507,11 +507,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 23 DE NOVIEMBRE DE 1995)
+(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
 
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 23 DE NOVIEMBRE DE 1995)
+(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -865,7 +865,7 @@ VI. El Ministerio Público.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 23 DE NOVIEMBRE DE 1995)
+(EN SUSPENSO LA VIGENCIA, P.O. 14 DE NOVIEMBRE DE 1996)
 
 ###### ARTÍCULO 133.
 
@@ -15140,3 +15140,17 @@ SEGUNDO. Los procedimientos iniciados para constituir el patrimonio familiar, co
 TERCERO. Quedan sin efecto todas aquellas disposiciones legales y reglamentarias que se opongan a la presente.
 
 CUARTO. La presente Ley iniciará su vigencia el día 1° de enero de 1996.
+
+P.O. 14 DE NOVIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+Las personas que al entrar en vigor esta Ley, estén tramitando juicio de registro extemporáneo, podrán optar por concluir o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento para que se asiente su registro de nacimiento.
+
+###### ARTICULO SEGUNDO.
+
+Las presente Ley se publicará en el Periódico Oficial "La Sombra de Arteaga" y su vigencia será del mes de diciembre del año de 1996 al mes de junio del año de 1997.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente, quedan suspendidas mientras dura la vigencia de ésta, a cuyo término recobrarán aquéllas su pleno vigor.
