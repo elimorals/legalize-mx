@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-8636"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-09-07"
-last_updated: "1995-05-31"
+last_updated: "1995-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-06-17"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 1995.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 7 de septiembre de 1994.
 
@@ -121,19 +121,23 @@ I.- Junta Directiva
 
 II.- Dirección General
 
-III.- Direcciones Adjuntas
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
 
-- Investigación Científica
+III.- Direcciones Adjuntas de:
 
-- Modernización Tecnológica
+- Investigación Científica;
 
-- Desarrollo Científico y Tecnológico Regional
+- Modernización Tecnológica;
 
-- Política Científica y Tecnológica
+- Desarrollo Científico y Tecnológico Regional;
 
-- Asuntos Internacionales
+- Coordinación del Sistema SEP-CONACYT;
 
-- Administración y Finanzas
+- Política Científica y Tecnológica;
+
+- Asuntos Internacionales, y de
+
+- Administración y Finanzas.
 
 IV.- Direcciones adscritas a la Dirección General
 
@@ -407,11 +411,15 @@ III.- Promover y coordinar los apoyos destinados a instituciones públicas o pri
 
 IV.- Apoyar, mediante la emisión de los dictámenes correspondientes, sobre la pertinencia para la creación de nuevos centros de investigación científica, en función de las necesidades y requerimientos nacionales y en congruencia con los avances de la ciencia a nivel internacional;
 
-V.- Formular y administrar el programa de becas, en el área de su competencia, en los términos de las convocatorias o convenios interinstitucionales o internacionales que elabore o celebre el Consejo, para realizar estudios tanto en el país como en el extranjero;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+V.- Formular y conducir en el ámbito académico el programa controlado de Becas-Crédito del Consejo; así como aquellas becas que se deriven de las convocatorias o convenios interinstitucionales o internacionales que elabore o celebre el Consejo, para realizar estudios tanto en el país como en el extranjero;
 
 VI.- Establecer un sistema de seguimiento académico para mantener la mayor comunicación con los becarios que se encuentren realizando estudios dentro del marco de los programas nacionales de becas y coadyuvar a la consecución de las políticas y propósitos institucionales de asegurar su permanencia en el país o su repatriación para incorporarse a los sectores académico y productivo de la República;
 
-VII.- Promover y apoyar los programas de formación de recursos humanos para la investigación y el fortalecimiento del posgrado nacional en el área científica, mediante el análisis por los comités de evaluación de los proyectos o programas correlativos.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+VII.- Promover y apoyar los programas de formación de recursos humanos para la investigación, así como el fortalecimiento del posgrado nacional mediante el análisis por los comités de evaluación de los proyectos o programas correlativos.
 
 VIII.- Analizar y dictaminar los requerimientos de los centros e instituciones de investigación científica y de educación superior, y con base en el programa correspondiente de ciencia y tecnología, otorgarles la orientación, asesoría y apoyo necesarios, a fin de que cuenten con la infraestructura adecuada para el desarrollo de sus actividades de investigación;
 
@@ -439,41 +447,65 @@ IV.- Promover y asesorar técnicamente al sector productivo sobre las necesidade
 
 V.- Promover y difundir al sector productivo del país, los resultados y aplicaciones específicas de los proyectos de investigación e innovación tecnológica;
 
-VI.- Dirigir, coordinar y evaluar el programa correspondiente de formación de recursos humanos para la modernización tecnológica, con la participación y apoyo de las empresas;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
 
-VII.- Promover y apoyar el desarrollo de los programas para el fortalecimiento del posgrado nacional, en el área de su competencia, mediante el análisis y evaluación de los proyectos o programas correlativos;
+VI.- Fomentar de manera coordinada con la Dirección Adjunta de Investigación Científica, la ejecución de los programas de intercambio de profesores, investigadores, técnicos y personal especializado, en el área de su competencia, de acuerdo con los convenios concertados por el Consejo con instituciones extranjeras y agencias internacionales;
 
-VIII.- Formular y administrar los programas nacionales de becas de especialización y posgrado tecnológico que, en los términos de las convocatorias o convenios insterinstitucionales o internacionales, otorgue el Consejo para realizar estudios tanto en el país como en el extranjero;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
 
-IX.- Establecer un sistema de seguimiento académico para mantener la mayor comunicación con los becarios que se encuentren realizando estudios dentro del marco de los programas nacionales de becas y coadyuvar a la consecución de las políticas y propósitos institucionales de asegurar su permanencia en el país o su repatriación para incorporarse a los sectores académico y productivo de la República;
+VII.- Promover y coordinar los esfuerzos de colaboración conjunta para el diseño y ejecución de acciones e instrumentos de impacto tecnológico con las dependencias y entidades de la Administración Pública Federal que tengan atribuciones relacionadas con el proceso de modernización tecnológica de la planta productiva nacional;
 
-X.- Fomentar y coordinar la ejecución de los programas de intercambio de profesores, investigadores, técnicos y personal especializado, en el área de su competencia, de acuerdo con los convenios concertados por el Consejo con instituciones extranjeras y agencias internacionales;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
 
-XI.- Promover y coordinar los esfuerzos de colaboración conjunta para el diseño y ejecución de acciones e instrumentos de impacto tecnológico con las dependencias y entidades de la Administración Pública Federal, que tengan atribuciones relacionadas con el proceso de modernización tecnológica de la planta productiva nacional;
+VIII.- Colaborar con el sector privado para la identificación de necesidades y oportunidades tecnológicas con el fin de adecuar los instrumentos de apoyo para responder mejor a las circunstancias del empresariado nacional;
 
-XII.- Colaborar con el sector privado para la identificación de necesidades y oportunidades tecnológicas, con el fin de adecuar los instrumentos de apoyo para responder mejor a las circunstancias del empresariado nacional;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
 
-XIII.- Participar en la elaboración y actualización del inventario de recursos humanos especializados en innovación tecnológica, y
+IX.- Participar en la elaboración y actualización del inventario de recursos humanos especializados en innovación tecnológica, y
 
-XIV.- Desempeñar las demás funciones que se establezcan en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+X.- Desempeñar las demás funciones que se establezcan en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
+
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 19.
 
 Compete a la Dirección Adjunta de Desarrollo Científico y Tecnológico Regional:
 
-I.- Participar con la Secretaría de Educación Pública en la intervención que, de acuerdo con las leyes, corresponda al Ejecutivo Federal en la coordinación del proceso de programación, presupuestación, ejercicio, seguimiento, control y evaluación de las entidades de la administración pública paraestatal que conformen el sistema de centros de investigación y desarrollo sectorizados en esta Secretaría, denominado Sistema SEP-CONACyT;
+I.- Dirigir, coordinar y evaluar la política científica y tecnológica dentro del ámbito de las delegaciones regionales de acuerdo con lo establecido en los programas de ciencia y tecnología y el operativo anual;
 
-II.- Dirigir, coordinar y evaluar la política científica y tecnológica dentro del ámbito del Sistema SEP-CONACyT y las delegaciones regionales, de acuerdo con lo establecido en los programas correspondientes de ciencia y tecnología y el operativo anual;
+II.- Establecer los procedimientos de concertación entre el Consejo y las instancias estatales dedicadas a promover y fomentar el desarrollo científico y tecnológico para la ejecución de los programas correspondientes;
 
-III.- Establecer los lineamientos de operación de las delegaciones regionales y su coordinación con las áreas centrales;
+III.- Establecer los lineamientos de operación y seguimiento del desempeño de las delegaciones regionales, y la coordinación de los Sistemas de Investigación Regionales, con las dependencias federales participantes;
 
-IV.- Impulsar la descentralización de las actividades científicas y tecnológicas conforme a las políticas que se establezcan;
+IV.- Promover e impulsar la descentralización de las actividades científicas y tecnológicas conforme a las políticas que se establezcan en el Plan Nacional de Desarrollo y en el programa sectorial correlativo;
 
-V.- Proponer la concertación de acciones con los gobiernos de los estados, con el propósito de fortalecer la infraestructura y vinculación de los centros e instituciones de investigación con los distintos sectores de la sociedad;
+V.- Participar con las dependencias y gobiernos estatales que correspondan, en la coordinación del proceso, seguimiento, control y evaluación de los Sistemas de Investigación Regionales;
 
-VI.- Coordinar, concertar, dar seguimiento y apoyar el desarrollo de las sesiones ordinarias o extraordinarias de las asambleas y de los órganos de gobierno de las instituciones que integran el sistema SEP-CONACyT, con apego a las disposiciones legales vigentes, y
+VI.- Proponer la concertación de acciones con los gobiernos de los estados, con el propósito de fortalecer las capacidades científicas y tecnológicas locales, así como la vinculación de los Sistemas de Investigación Regionales, con los distintos sectores de la sociedad;
 
-VII.- Desempeñar las demás funciones que se establezcan en el presente Estatuto y las que les sean encomendadas por el Director General en la esfera de su competencia.
+VII.- Coordinar, dar seguimiento y apoyar el desarrollo de las sesiones ordinarias o extraordinarias de los Comités Técnicos de los Fondos de los Sistemas de Investigación Regionales, y
+
+VIII.- Desempeñar las demás funciones que se establezcan en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+ARTICULO 19 bis.- Compete a la Dirección Adjunta de Coordinación del Sistema SEP-CONACYT:
+
+I.- Participar con la Secretaría de Educación Pública en la intervención que, de acuerdo con las leyes corresponde al Ejecutivo Federal en la coordinación del proceso de programación, presupuestación, ejercicio, seguimiento, control y evaluación de las entidades de la administración pública paraestatal que conformen el sistema de instituciones de investigación científica y desarrollo tecnológico de dicha Secretaría, denominado Sistema SEP-CONACYT;
+
+II.- Dirigir, coordinar, y evaluar la política científica tecnológica dentro del ámbito del Sistema SEP-CONACYT de acuerdo con lo establecido en el programa sectorial de ciencia y tecnología y el operativo anual;
+
+III.- Impulsar la descentralización de las actividades científicas y tecnológicas conforme a las políticas que se establezcan;
+
+IV.- Proponer la concertación de acciones con los gobiernos de los estados con el propósito de fortalecer la infraestructura y vinculación de los centros e instituciones de investigación, con los distintos sectores de la sociedad;
+
+V.- Coordinar, concertar, dar seguimiento y apoyar el desarrollo de las sesiones ordinarias o extraordinarias de las asambleas y de los órganos de gobierno de las instituciones que integran el Sistema SEP-CONACYT, con apego a las disposiciones legales vigentes;
+
+VI.- Diseñar, proponer e instrumentar de acuerdo con las disposiciones legales vigentes, lineamientos, objetivos y estrategias para el logro de la excelencia científica y el desarrollo tecnológico, la formación de recursos humanos altamente calificados y la eficiencia administrativa de las instituciones del Sistema SEP-CONACYT, y
+
+VII.- Desempeñar las demás funciones que se establezcan en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
 
 ###### ARTICULO 20.
 
@@ -563,7 +595,13 @@ XIV.- Vigilar el debido cumplimiento y respeto de las Condiciones Generales de T
 
 XV.- Dirigir los servicios de sistemas, así como los de consulta a bancos de información, tanto al interior como al exterior del Consejo, que se establezcan, y
 
-XVI.- Desempeñar las demás funciones que se establezcan en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+XVI.- Administrar el programa controlado de Becas-Crédito, desde la asignación de la beca, hasta su bonificación y/o recuperación extrajudicial, en los términos previstos en el Reglamento General del Sistema de Becas-Créditos CONACYT, y
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+XVII.- Desempeñar las demás funciones que se establezcan en el presente Estatuto, y las que le sean encomendadas por el Director General, en la esfera de su competencia.
 
 ### CAPITULO SEXTO. DE LAS DIRECCIONES DE AREA ADSCRITAS A LA DIRECCION GENERAL
 
@@ -577,7 +615,9 @@ Compete a la Dirección de Asuntos Jurídicos:
 
 I.- Dirigir y prestar los servicios de consultoría y asesoría jurídicas derivadas de las funciones del Consejo;
 
-II.- Intervenir en todos los actos jurídicos y patrocinar al Consejo en todo tipo de asuntos contenciosos en los que sea parte, asimismo, realizar las acciones de cobranza de los diversos deudores del Consejo y encargarse de la bonificación y condonación de los adeudos de los exbecarios, cuando éstos procedan en los términos de las disposiciones respectivas;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 1995)</small>
+
+II.- Intervenir en todos los actos jurídicos y patrocinar al Consejo en todo tipo de asuntos contenciosos en los que sea parte, asimismo, realizar las acciones de cobranza de los diversos deudores del Consejo.
 
 III.- Prestar asesoría legal a las unidades administrativas del Consejo y a las instituciones que integran el Sistema SEP-CONACyT;
 
@@ -932,3 +972,13 @@ D.O.F. 31 DE MAYO DE 1995.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 23 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO.- El Director General expedirá en un plazo no mayor de 90 días hábiles, contados a partir de la fecha en que entre en vigor el presente Acuerdo, la actualización del Manual de Organización del Consejo Nacional de Ciencia y Tecnología. En tanto, las atribuciones conferidas anteriormente a las presentes modificaciones se irán transfiriendo de manera paulatina a las Direcciones Adjuntas correspondientes en los términos del presente Acuerdo.
+
+CUARTO.- Se ordena la impresión y difusión del Estatuto Orgánico del CONACYT, con las reformas y adiciones contenidas en el presente Acuerdo por conducto de la Dirección de Comunicación Científica y Tecnológica.
