@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2002-02-20"
+last_updated: "2004-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2001. (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -203,9 +203,13 @@ IV.- La protección de las víctimas de los delitos y de quienes carezcan de ins
 
 V.- La atención de la salud de los habitantes del Estado.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-VI.- La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativas que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoriades (sic) respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales.
+VI. La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+
+VII. Garantizar el acceso a la información pública gubernamental, en los términos que establezca la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1561,7 +1565,7 @@ V.- La forma de Constituir los Ayuntamientos cuando los Regidores electos no con
 
 ## TITULO OCTAVO. DE LA ADMINISTRACION EN GENERAL
 
-REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
+(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 ### CAPITULO I. DE LA PLANEACION Y LAS COMPRAS DEL SECTOR PUBLICO
 
@@ -1731,7 +1735,9 @@ Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, de
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO I. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS
+### CAPITULO I
+
+DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -2191,7 +2197,7 @@ Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado, en coordi
 
 ###### ARTÍCULO SEXTO.
 
-En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.Estado.
+En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
 
 P.O. 17 DE DICIEMBRE DE 2001.
 
@@ -2216,3 +2222,11 @@ Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
 Cuarto.- En materia de compras del sector público, continuarán vigentes las disposiciones secundarias.
 
 Quinto.- Los convenios celebrados entre el Estado y los Municipios en materia de coordinación fiscal y administrativa, serán válidos y continuarán vigentes hasta su conclusión o renovación.
+
+P.O. 5 DE MARZO DE 2004.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta Reforma y Adición han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
