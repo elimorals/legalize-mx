@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2001-12-19"
+last_updated: "2001-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -575,21 +575,19 @@ El día primero de Enero siguiente, el Congreso procederá al nombramiento de un
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 45.
 
-Durante el primer período Ordinario de Sesiones, el Congreso se ocupará preferentemente de los siguientes asuntos:
+El Congreso, en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden, conforme a la Constitución y a las leyes; de examinar y calificar las cuentas trimestrales de aplicación de los fondos públicos y que serán remitidas en la segunda quincena del mes siguiente a la terminación de cada trimestre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si se actúo de conformidad con las leyes de la materia, si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+De igual manera, en el caso de las cuentas del Poder Ejecutivo y de los Municipios, deberán revisarse las de recaudación y analizarse si fueron percibidos los recursos cumpliendo con las disposiciones legales aplicables.
 
-I.- Salvo lo dispuesto en la Fracción I del Artículo siguiente, de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del quince de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación presentará el Secretario de Hacienda por conducto del Ejecutivo.
-
-II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
+((REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### Art. 46.
 
-El Congreso en el segundo periodo de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Solo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al último año del ejercicio constitucional de la Legislatura, deberán ser presentadas a ésta a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre.
+El Congreso en el segundo periodo de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Solo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, o de los Ayuntamientos en su caso, suficientemente justificada a juicio del Congreso. Cuando por algún motivo la Legislatura no apruebe la Ley de Ingresos y el Presupuesto de Egresos, deberán aplicarse los montos autorizados en el Presupuesto del año anterior, actualizados según la inflación anual que determine el Banco de México.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -675,9 +673,9 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y ot
 
 V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VI. Revisar, calificar y fiscalizar, por conducto de la Contaduría Mayor de Hacienda, las cuentas públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del sector público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
+VI. Revisar y calificar trimestralmente, por conducto de la Auditoría Superior del Estado, las cuentas públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del sector público. Una ley determinará la organización y funcionamiento de dicha Auditoría que será el órgano técnico de fiscalización superior del Congreso, contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones; y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -717,7 +715,7 @@ XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución;
+XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución.
 
 Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
@@ -757,7 +755,7 @@ XXIX. Expedir la Ley sobre el número máximo de Ministros de Cultos a que le fa
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
-XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
+XXX.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -829,7 +827,7 @@ LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-LIII.- Conceder por tiempo limitado privilegio a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
+LIII. Conceder por tiempo limitado privilegio a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -929,13 +927,17 @@ X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que 
 
 XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XVI del Artículo 58 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores, y;
+XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIII.- Las demás que le confieran las leyes.
+XIII.- Turnar a la Auditoría Superior del Estado las cuentas públicas que reciba, para su revisión; y
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIV.- Las demás que le confieran las leyes.
 
 ###### Art. 63.
 
@@ -1062,6 +1064,24 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", siendo su elección directa cada seis años, en los términos que señala la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
+
+ART. 78.- Para ser Gobernador se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía de acuerdo con los Artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los Artículos 37 y 38 de la misma Constitución;
+
+II.- Ser mexicano de nacimiento;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
+III.- Ser nativo del Estado, o con residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;
+
+IV.- Ser mayor de treinta años de edad el día de la elección; y
+
+V.- Poseer suficiente instrucción.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 78.
 
@@ -1193,9 +1213,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado en los términos que dispone esta Constitución;
+VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como remitir trimestralmente las cuentas de recaudación y aplicación de los fondos públicos del Estado, en los términos que dispone esta Constitución;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1477,7 +1497,9 @@ El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y f
 
 El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
 
-El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia, y dentro de los informes trimestrales de cuenta pública correspondientes, los que deberá remitir dentro de la segunda quincena del mes siguiente a la terminación de cada trimestre, para su revisión por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1581,7 +1603,9 @@ XI.- Elegir Presidente del Pleno en los términos que determine la ley;
 
 XII.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-XIII.- Rendir, por conducto de su Presidente, un informe anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso, que se verificará durante la primera quincena del mes de marzo de cada año;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año;
 
 XIV.- Enviar al Congreso del Estado, por lo menos noventa días antes de que concluya el plazo de ejercicio de cada Magistrado, la solicitud de ratificación que corresponda;
 
@@ -2141,11 +2165,11 @@ Ningún servidor público percibirá más de un sueldo, excepción hecha de los 
 
 Los servidores públicos que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 162.
 
-Toda erogación que se realice con cargo al Presupuesto de Egresos del Estado se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública y en el propio Presupuesto.
+La Secretaría del ramo y áreas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretario General de Gobierno, salvo que exista acuerdo delegatorio expreso.
 
 Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
@@ -3061,451 +3085,23 @@ P.O. 19 DE DICIEMBRE DE 2001.
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 25 DE DICIEMBRE DE 2001.
+
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor el día 1o. de enero del año 2002.
 
 ###### ARTICULO SEGUNDO.
 
-En tanto se establecen por la Ley reglamentaria del párrafo quinto del Artículo 28 Constitucional las modalidades a que se sujetarán, mantienen su actual situación jurídica, el Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., el Banco Obrero, S. A., las sucursales en México de bancos extranjeros que cuentan con concesión del Gobierno Federal y las Organizaciones Auxiliares de Crédito.
-
-D.O.F. 17 DE NOVIEMBRE DE 1982.
-
-DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN IV DEL ARTÍCULO 74.
+Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
 
 ###### ARTICULO TERCERO.
 
-Dentro del año siguiente a la entrada en vigor del presente Decreto, los Estados de la Federación a través de sus congresos constituyentes locales, iniciarán las reformas constitucionales necesarias para cumplir las disposiciones del Título Cuarto de la Constitución General de la República, en lo conducente.
-
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 16, REFORMA EL ARTÍCULO 25, 26, ADICIONA LAS FRACCIONES XIX Y XX DEL ARTÍCULO 27, REFORMA EL ARTÍCULO 28 Y ADICIONA LAS FRACCIONES XXIX-D; XXIX-E Y XXIX-F AL ARTÍCULO 73.
+Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán revisadas de conformidad a lo dispuesto en el presente Decreto.
 
 ###### ARTICULO CUARTO.
 
-El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
-
-D.O.F. 14 DE JUNIO DE 2002.
-
-UNICO.- El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
-
-La Federación, las entidades federativas y los municipios contarán con el periodo comprendido entre la publicación del presente Decreto y su entrada en vigor, para expedir las leyes o realizar las modificaciones necesarias, según sea el caso, a fin de proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
-
-La aprobación de la reforma constitucional implicará necesariamente la adecuación a las disposiciones jurídicas secundarias, tanto en el ámbito federal como en el local, conforme a los criterios siguientes:
-
-a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización, y
-
-b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
-
-Para la expedición de las leyes o la realización de las modificaciones necesarias para proveer al debido cumplimiento del decreto, se contaría con el periodo comprendido entre la publicación del decreto y su entrada en vigor. Según la fecha de aprobación del Decreto y su consiguiente publicación, el citado periodo no sería menor a un año ni mayor a dos.
-
-D.O.F. 12 DE NOVIEMBRE DE 2002.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la unificación estructural, curricular y laboral de los tres niveles constitucionales obligatorios, en un solo nivel de educación básica integrada.
-
-Tercero.- La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la revisión de los planes, programas y materiales de estudio, para establecer, en el ejercicio de sus funciones constitucionales, los nuevos programas de estudio de la educación preescolar obligatoria para todo el país, así como preparar al personal docente y directivo de este nivel, de acuerdo a la nueva realidad educativa que surge de este Decreto.
-
-Cuarto.- Con el objetivo de impulsar la equidad en la calidad de los servicios de educación preescolar en el país, la autoridad educativa deberá prever lo necesario para dar cumplimiento a lo que dispone el artículo 2o. de la Ley Reglamentaria del artículo 5o. constitucional en materia de profesiones, en el sentido de que la impartición de la educación preescolar es una profesión que necesita título para su ejercicio, sin perjuicio de los derechos adquiridos de quienes a la fecha imparten este nivel educativo.
-
-Quinto.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
-
-Sexto.- Los presupuestos federal, estatales, del Distrito Federal y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas federales en coordinación con las locales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
-
-Séptimo.- Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
-
-Octavo.- Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
-
-D.O.F. 29 DE SEPTIEMBRE DE 2003.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE OCTUBRE DE 2003.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 5 DE ABRIL DE 2004.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE JULIO DE 2004.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE JULIO DE 2004.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 2 DE AGOSTO DE 2004.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.
-
-D.O.F. 27 DE SEPTIEMBRE DE 2004.
-
-UNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE JUNIO DE 2005.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE NOVIEMBRE DE 2005.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE DICIEMBRE DE 2005.
-
-PRIMERO.- La reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- La Cámara de Senadores establecerá dentro del periodo ordinario de sesiones inmediato siguiente a la entrada en vigor del presente decreto, la Comisión de Límites de las Entidades Federativas, la cual se integrará y funcionará en los términos de la ley reglamentaria que al efecto se expida, así como por las disposiciones que para el caso dispongan la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y el Reglamento para su Gobierno Interior.
-
-TERCERO.- Las controversias que a la entrada en vigor de este decreto se encuentren en trámite ante la Suprema Corte de Justicia de la Nación con motivo de conflictos limítrofes entre entidades federativas, serán remitidas de inmediato, con todos sus antecedentes, a la Cámara de Senadores, a fin de que ésta en términos de sus atribuciones constitucionales proceda a establecerlos de manera definitiva mediante decreto legislativo.
-
-D.O.F. 9 DE DICIEMBRE DE 2005.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE DICIEMBRE DE 2005.
-
-PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
-
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2009)</small>
-
-La Federación contará con un año a partir de la entrada en vigor del presente decreto, para expedir las leyes y establecer las instituciones y los órganos que se requieran en el orden federal para la implementación del sistema de justicia integral para adolescentes.
-
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2009)</small>
-
-TERCERO. Los asuntos en trámite hasta el momento en que entren en vigor las leyes y se implementen las instituciones y los órganos a que se refiere el transitorio anterior se concluirán conforme a la legislación con que se iniciaron. Los asuntos que se encuentren pendientes de resolución en el momento en que inicie la operación del nuevo sistema se remitirán a la autoridad que resulte competente para que continúe en el conocimiento de éstos hasta su conclusión.
-
-D.O.F. 7 DE ABRIL DE 2006.
-
-Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- En tanto se expide la Ley general a que se refiere el apartado B del Artículo 26 de esta Constitución, continuará en vigor la Ley de Información Estadística y Geográfica, y demás disposiciones legales y administrativas aplicables. Asimismo, subsistirán los nombramientos, poderes, mandatos, comisiones y, en general, las delegaciones y facultades concedidas, a los servidores públicos del Instituto Nacional de Estadística, Geografía e Informática.
-
-Tercero.- A la entrada en vigor de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución, los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Nacional de Estadística, Geografía e Informática, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, se transferirán al organismo creado en los términos del presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del Artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
-
-Cuarto.- Conforme a las disposiciones aplicables, el régimen presupuestario del organismo creado en los términos del presente Decreto, deberá garantizar la libre administración, la no-transferencia y la suficiencia de recursos públicos. Lo anterior, a efecto de que el organismo esté en condiciones de dar cumplimiento a los planes y programas que formule en observancia de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución.
-
-Quinto.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se seguirán substanciando ante el Instituto Nacional de Estadística, Geografía e Informática, y posteriormente ante el organismo creado en los términos del presente Decreto.
-
-Sexto.- Dentro de los 180 días naturales, posteriores a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá emitir la Ley a la que se refiere el apartado B del Artículo 26 de esta Constitución.
-
-Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-D.O.F. 14 DE SEPTIEMBRE DE 2006.
-
-ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 4 DE DICIEMBRE DE 2006.
-
-DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIX-H DEL ARTÍCULO 73.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo.- En tanto no se modifique la legislación que regula la materia de responsabilidades administrativas de los servidores públicos federales, ésta continuará rigiéndose por las disposiciones legales vigentes al momento de su aplicación.
-
-D.O.F. 4 DE DICIEMBRE DE 2006.
-
-DECRETO QUE REFORMA EL ARTÍCULO 1.
-
-ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE FEBRERO DE 2007.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE JUNIO DE 2007.
-
-DECRETO QUE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 82.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE JUNIO DE 2007.
-
-DECRETO QUE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 55.
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE JULIO DE 2007.
-
-DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto. Lo anterior será sin perjuicio de las disposiciones normativas que para tal efecto expidan las entidades federativas como complemento para la prevención de accidentes, la seguridad pública y la protección civil, siempre y cuando se sujeten a lo que establezca la ley de la materia.
-
-D.O.F. 20 DE JULIO DE 2007.
-
-DECRETO QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La Federación, los Estados y el Distrito Federal, en sus respectivos ámbitos de competencia, deberán expedir las leyes en materia de acceso a la información pública y transparencia, o en su caso, realizar las modificaciones necesarias, a más tardar un año después de la entrada en vigor de este Decreto.
-
-Tercero.- La Federación, los Estados y el Distrito Federal deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de la entrada en vigor del mismo. Las leyes locales establecerán lo necesario para que los municipios con población superior a setenta mil habitantes y las demarcaciones territoriales del Distrito Federal cuenten en el mismo plazo con los sistemas electrónicos respectivos.
-
-D.O.F. 2 DE AGOSTO DE 2007.
-
-PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- El Congreso de la Unión al inicio de la vigencia del presente Decreto hará las adecuaciones correspondientes a la legislación federal, conforme a lo estipulado en este Decreto. Los estados y el Distrito Federal deberán adecuar sus leyes conforme a las disposiciones del presente Decreto a más tardar seis meses después de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE AGOSTO DE 2007.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
-
-D.O.F. 27 DE SEPTIEMBRE DE 2007.
-
-Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 13 DE NOVIEMBRE DE 2007.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo. Por única vez el Instituto Federal Electoral deberá establecer, conforme a las bases legales que se expidan, tope de gastos para campaña presidencial en el año 2008, sólo para efecto de determinar el monto total del financiamiento privado que podrá obtener anualmente cada partido político.
-
-Artículo Tercero. El Congreso de la Unión deberá realizar las adecuaciones que correspondan en las leyes federales en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
-
-Artículo Cuarto. Para los efectos de lo establecido en el tercer párrafo de la base V del artículo 41 de esta Constitución, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, la Cámara de Diputados procederá a integrar el Consejo General del Instituto Federal Electoral conforme a las siguientes bases:
-
-a) Elegirá a un nuevo consejero Presidente, cuyo mandato concluirá el 30 de octubre de 2013; llegado el caso, el así nombrado podrá ser reelecto por una sola vez, en los términos de lo establecido en el citado párrafo tercero del artículo 41 de esta Constitución;
-
-b) Elegirá, dos nuevos consejeros electorales, cuyo mandato concluirá el 30 de octubre de 2016;
-
-c) Elegirá, de entre los ocho consejeros electorales en funciones a la entrada en vigor de este Decreto, a tres que concluirán su mandato el 15 de agosto de 2008 y a tres que continuarán en su encargo hasta el 30 de octubre de 2010;
-
-d) A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
-
-Los consejeros electorales y el consejero Presidente del Consejo General del Instituto Federal Electoral, en funciones a la entrada en vigor del presente Decreto, continuarán en sus cargos hasta en tanto la Cámara de Diputados da cumplimiento a lo dispuesto en el presente artículo. Queda sin efectos el nombramiento de consejeros electorales suplentes del Consejo General del Instituto Federal Electoral establecido por el Decreto publicado en el Diario Oficial de la Federación de fecha 31 de octubre de 2003.
-
-Artículo Quinto. Para los efectos de la renovación escalonada de los Magistrados Electorales de la Sala Superior y de las salas regionales del Tribunal Electoral del Poder Judicial de la Federación a que se refiere el artículo 99 de esta Constitución, se estará a lo que determine la Ley Orgánica del Poder Judicial de la Federación.
-
-Artículo Sexto. Las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal deberán adecuar su legislación aplicable conforme a lo dispuesto en este Decreto, a más tardar en un año a partir de su entrada en vigor; en su caso, se observará lo dispuesto en el artículo 105, fracción II, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos.
-
-Los Estados que a la entrada en vigor del presente Decreto hayan iniciado procesos electorales o estén por iniciarlos, realizarán sus comicios conforme lo establezcan sus disposiciones constitucionales y legales vigentes, pero una vez terminado el proceso electoral deberán realizar las adecuaciones a que se refiere el párrafo anterior en el mismo plazo señalado, contado a partir del día siguiente de la conclusión del proceso comicial respectivo.
-
-Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 7 DE MAYO DE 2008.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el transitorio tercero siguiente.
-
-SEGUNDO. El Congreso de la Unión, así como las legislaturas de los Estados y del Distrito Federal, deberán aprobar las leyes y, en su caso, las reformas que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de un año, contado a partir de la fecha de entrada en vigor del mismo, salvo en el caso de lo dispuesto en el artículo 74, fracción IV constitucional.
-
-TERCERO. Las fechas aplicables para la presentación de la Cuenta Pública y el informe del resultado sobre su revisión, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2008.
-
-CUARTO. Las Cuentas Públicas anteriores a la correspondiente al ejercicio fiscal 2008 se sujetarán a lo siguiente:
-
-I. La Cámara de Diputados, dentro de los 180 días naturales posteriores a la entrada en vigor de este Decreto, deberá concluir la revisión de las Cuentas Públicas correspondientes a los ejercicios fiscales 2002, 2003, 2004 y 2005.
-
-II. Las Cuentas Públicas correspondientes a los ejercicios fiscales 2006 y 2007 serán revisadas en los términos de las disposiciones aplicables en la materia antes de la entrada en vigor de este Decreto.
-
-III. La Cámara de Diputados deberá concluir la revisión de la Cuenta Pública del ejercicio fiscal de 2006 durante el año 2008.
-
-IV. La Cuenta Pública correspondiente al ejercicio fiscal 2007 será presentada a más tardar el 15 de mayo de 2008, el informe del resultado el 15 de marzo de 2009 y su revisión deberá concluir en 2009.
-
-D.O.F. 18 DE JUNIO DE 2008.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos transitorios siguientes.
-
-Segundo. El sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin exceder el plazo de ocho años, contado a partir del día siguiente de la publicación de este Decreto.
-
-En consecuencia, la Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, deberán expedir y poner en vigor las modificaciones u ordenamientos legales que sean necesarios a fin de incorporar el sistema procesal penal acusatorio. La Federación, los Estados y el Distrito Federal adoptarán el sistema penal acusatorio en la modalidad que determinen, sea regional o por tipo de delito.
-
-En el momento en que se publiquen los ordenamientos legales a que se refiere el párrafo anterior, los poderes u órgano legislativos competentes deberán emitir, asimismo, una declaratoria que se publicará en los órganos de difusión oficiales, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado en dichos ordenamientos y, en consecuencia, que las garantías que consagra esta Constitución empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
-
-Tercero. No obstante lo previsto en el artículo transitorio segundo, el sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19, 20 y 21, párrafo séptimo, de la Constitución, entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, en las entidades federativas que ya lo hubieren incorporado en sus ordenamientos legales vigentes, siendo plenamente válidas las actuaciones procesales que se hubieren practicado con fundamento en tales ordenamientos, independientemente de la fecha en que éstos entraron en vigor. Para tal efecto, deberán hacer la declaratoria prevista en el artículo transitorio Segundo.
-
-Cuarto. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
-
-Quinto. El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 18, así como el régimen de modificación y duración de penas establecido en el párrafo tercero del artículo 21, entrarán en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder el plazo de tres años, contados a partir del día siguiente de la publicación de este Decreto.
-
-Sexto. Las legislaciones en materia de delincuencia organizada de las entidades federativas, continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de esta Constitución. Los procesos penales iniciados con fundamento en dichas legislaciones, así como las sentencias emitidas con base en las mismas, no serán afectados por la entrada en vigor de la legislación federal. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme a las disposiciones vigentes antes de la entrada en vigor de esta última.
-
-Séptimo. El Congreso de la Unión, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá la ley que establezca el Sistema Nacional de Seguridad Pública. Las entidades federativas expedirán a más tardar en un año, a partir de la entrada en vigor del presente Decreto, las leyes en esta materia.
-
-Octavo. El Congreso de la Unión, las Legislaturas de los estados y el órgano legislativo del Distrito Federal, deberán destinar los recursos necesarios para la reforma del sistema de justicia penal. Las partidas presupuestales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente decreto y en los presupuestos sucesivos. Este presupuesto deberá destinarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, y la capacitación necesarias para jueces, agentes del Ministerio Público, policías, defensores, peritos y abogados.
-
-Noveno. Dentro de los dos meses siguientes a la entrada en vigor del presente Decreto se creará una instancia de coordinación integrada por representantes de los Poderes Ejecutivo, Legislativo y Judicial, además del sector académico y la sociedad civil, así como de las Conferencias de Seguridad Pública, Procuración de Justicia y de Presidentes de Tribunales, la cual contará con una secretaría técnica, que coadyuvará y apoyará a las autoridades locales y federales, cuando así se lo soliciten.
-
-Décimo. La Federación creará un fondo especial para el financiamiento de las actividades de la secretaría técnica a que se refiere el artículo transitorio octavo. Los fondos se otorgarán en función del cumplimiento de las obligaciones y de los fines que se establezcan en la Ley.
-
-Décimo Primero. En tanto entra en vigor el sistema procesal acusatorio, los agentes del Ministerio Público que determine la ley podrán solicitar al juez el arraigo domiciliario del indiciado tratándose de delitos graves y hasta por un máximo de cuarenta días.
-
-Esta medida será procedente siempre que sea necesaria para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia.
-
-D.O.F. 15 DE AGOSTO DE 2008.
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
-
-D.O.F. 29 DE AGOSTO DE 2008.
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE SEPTIEMBRE DE 2008.
-
-Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Las Legislaturas de los Estados deberán realizar las adecuaciones que correspondan a sus Constituciones Locales, así como a su legislación secundaria en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
-
-D.O.F. 30 DE ABRIL DE 2009.
-
-DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO NOVENO AL ARTÍCULO 4o.; SE REFORMA LA FRACCIÓN XXV Y SE ADICIONA UNA FRACCIÓN XXIX-Ñ AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Todos los actos jurídicos emitidos y fundamentados en las leyes anteriores y en la Ley Federal del Derecho de Autor vigente, tales como registros de obras y contratos, reservas de derechos otorgadas, resoluciones a procedimientos entre otros, así como los celebrados entre particulares, contratos, convenios, sucesiones testamentarias, conservarán su validez.
-
-D.O.F. 30 DE ABRIL DE 2009.
-
-DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-O AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Congreso de la Unión deberá expedir la ley en la materia en un plazo no mayor de 12 meses, contados a partir de la entrada en vigor del presente Decreto.
-
-Tercero.- En tanto el Congreso de la Unión expide la ley respectiva a la facultad que se otorga en este Decreto, continuarán vigentes las disposiciones que sobre la materia hayan dictado las legislaturas de las entidades federativas, en tratándose de datos personales en posesión de particulares.
-
-D.O.F. 4 DE MAYO DE 2009.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Las legislaciones en materia de secuestro de las entidades federativas, continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de esta Constitución. Los procesos penales iniciados con fundamento en dichas legislaciones, así como las sentencias emitidas con base en las mismas, no serán afectados por la entrada en vigor de la legislación general. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme a las disposiciones vigentes antes de la entrada en vigor de esta última.
-
-D.O.F. 1 DE JUNIO DE 2009.
-
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 14 DE AGOSTO DE 2009.
-
-Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE AGOSTO DE 2009.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
-
-Segundo. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
-
-Tercero. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los ministros de la Suprema Corte de Justicia de la Nación, los magistrados del Tribunal Electoral del Poder Judicial de la Federación, los magistrados de Circuito, los jueces de Distrito, los consejeros de la Judicatura Federal, los integrantes del Consejo General del Instituto Federal Electoral y los magistrados y jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
-
-a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
-
-b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
-
-c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
-
-Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
-
-Quinto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
-
-D.O.F. 27 DE ABRIL DE 2010.
-
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE JULIO DE 2010.
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión deberá realizar las adecuaciones legislativas que correspondan en un plazo máximo de un año contado a partir del inicio de la vigencia de este Decreto.
-
-D.O.F. 13 DE ABRIL DE 2011.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 6 DE JUNIO DE 2011.
-
-Primero. El presente Decreto entrará en vigor a los 120 días de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión expedirá las reformas legales correspondientes dentro de los 120 días posteriores a la publicación del presente Decreto.
-
-Tercero. Los juicios de amparo iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo por lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como el cumplimiento y ejecución de las sentencias de amparo.
-
-Cuarto. Para la integración de jurisprudencia por reiteración no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a lo dispuesto en las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
-
-D.O.F. 10 DE JUNIO DE 2011.
-
-Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La ley a que se refiere el tercer párrafo del artículo 1o. constitucional sobre reparación deberá ser expedida en un plazo máximo de un año contado a partir de la entrada en vigor del presente decreto.
-
-Tercero. La ley a que se refiere el artículo 11 constitucional sobre el asilo, deberá ser expedida en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
-
-Cuarto. El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 29 constitucional en materia de suspensión del ejercicio de los derechos y las garantías, en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
-
-Quinto. El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 33 constitucional, en materia de expulsión de extranjeros en un plazo máximo de un año contado a partir del inicio de la vigencia de este decreto. En tanto se expida la ley referida, este artículo se seguirá aplicando en los términos del texto vigente.
-
-Sexto. Los casos previstos en el segundo párrafo del artículo 97 constitucional, que estén pendientes de resolución al momento de entrar en vigor la reforma, los continuará desahogando la Suprema Corte de Justicia de la Nación hasta su conclusión.
-
-Séptimo. En lo que se refiere al Apartado B del artículo 102 constitucional y a la autonomía de los organismos locales de derechos humanos, las legislaturas locales deberán realizar las adecuaciones que correspondan en un plazo máximo de un año contados (sic) a partir del inicio de la vigencia de este decreto.
-
-Octavo. El Congreso de la Unión adecuará la Ley de la Comisión Nacional de los Derechos Humanos en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
-
-Noveno. Se derogan todas las disposiciones que contravengan el presente decreto.
-
-D.O.F. 14 DE JULIO DE 2011.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión deberá expedir la Ley General para Prevenir y Sancionar la Trata de Personas, en un plazo no mayor a los 180 días siguientes a la entrada en vigor del presente Decreto.
-
-D.O.F. 17 DE AGOSTO DE 2011.
-
-ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE OCTUBRE DE 2011.
-
-DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO DECIMO AL ARTÍCULO 4o. Y SE REFORMA LA FRACCIÓN XXIX-J DEL ARTICULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. En el plazo de un año, a partir de la publicación del presente Decreto, el Congreso de la Unión expedirá la legislación general reglamentaria del artículo cuarto constitucional en materia de cultura física y deporte
-
-D.O.F. 12 DE OCTUBRE DE 2011.
-
-DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 4o. Y SE ADICIONA LA FRACCIÓN XXIX-P AL ARTÍCULO 73, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 13 DE OCTUBRE DE 2011.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE FEBRERO DE 2012.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Congreso de la Unión, contará con un plazo de 180 días para incorporar las disposiciones relativas al derecho a un medio ambiente sano y las responsabilidades por el daño y deterioro ambiental.
-
-Tercero.- El Congreso de la Unión, contará con un plazo de 360 días para emitir una Ley General de Aguas.
-
-D.O.F. 9 DE FEBRERO DE 2012.
-
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el país a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y de las entidades federativas, y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática del Desarrollo.
-
-Tercero. Para dar cumplimiento al principio de obligatoriedad, en los presupuestos federal, de las entidades federativas y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
-
-Cuarto. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión y las legislaturas de los estados, deberán adecuar en el ámbito de sus respectivas competencias, la Ley General de Educación y demás disposiciones legales aplicables en la materia.
-
-D.O.F. 25 DE JUNIO DE 2012.
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión deberá realizar las reformas a las leyes secundarias que correspondan en un plazo máximo de hasta seis meses, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
-
-Tercero. Las autoridades federales podrán ejercer la facultad de atracción a que se refiere el presente Decreto, después de la entrada en vigor de las reformas a la ley secundaria, que al efecto expida el Honorable Congreso de la Unión.
-
-D.O.F. 9 DE AGOSTO DE 2012.
+La recepción del informe por el Pleno del Supremo Tribunal de Justicia, por parte de su Presidente, será a partir del que se rinda en el año 2002 y comprenderá el ejercicio del año 2001.
 
 ###### ARTICULO UNICO.
 
