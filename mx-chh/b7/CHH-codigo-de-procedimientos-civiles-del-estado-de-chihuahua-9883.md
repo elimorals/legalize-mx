@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1981-05-30"
+last_updated: "1981-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1981.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -731,28 +731,6 @@ Los magistrados y jueces que conozcan de una recusación, son irrecusables para 
 
 ## TITULO QUINTO. ACTOS PREJUDICIALES
 
-### CAPITULO II. Medios preparatorios del juicio ejecutivo
-
-193.- Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y, hecha la solicitud respectiva, el juez señalará día y hora para la práctica de la diligencia. Para que esta diligencia pueda verificarse, es preciso que el deudor se encuentre en el lugar de radicación de las diligencias preparatorias al tiempo de que se le haga la citación, la que deberá hacérsele personalmente, expresándose en ella el objeto de la diligencia, la cantidad que se reclama, y la causa de la obligación.
-
-Si el citado no compareciere a la primera citación, se le citará por segunda vez en la misma forma que la anterior, con el apercibimiento de tenerlo por confeso si no compareciere. Si después de hecha esta segunda citación no comparece ni alega justa causa que se lo hubiere impedido, se le tendrá por confeso respecto de las cuestiones que son motivo de las diligencias preparatorias.
-
-194.- El documento privado que contenga deuda líquida y sea de plazo cumplido dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse el pago en el acto de la diligencia; pero siempre será necesario que previamente al requerimiento se intime al deudor para que diga si reconoce la firma que calza el documento como suya, reconocimiento que se hará ante el ejecutor en el mismo acto de la diligencia. Cuando intimado por dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
-
-Si el deudor negare la autenticidad de la firma, no se suspenderá la diligencia, la que se continuará con arreglo a lo dispuesto en la primera parte de este artículo; pero en este caso, el promovente de las diligencias será responsable de los daños y perjuicios que con ello se causaren al ejecutado en caso de que resultare no ser del deudor la firma.
-
-Dentro de los tres días siguientes al embargo, el actor deberá presentar su demanda ejecutiva, y su omisión dará lugar a que se levante el embargo a solicitud del ejecutado.
-
-195.- El reconocimiento de documentos privados puede hacerse ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que el reconocimiento lo haga directamente la persona obligada o su representante legítimo o su mandatario con poder bastante. El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que lo reconoce es el representante legítimo o el apoderado del deudor y, en este último caso, la cláusula relativa del poder.
-
-196.- Si el instrumento público o el documento privado reconocido no contiene cantidad líquida, puede prepararse la acción ejecutiva procediendo a su liquidación. Esta se tramitará con solo un escrito de cada parte, resolviendo el juez sin ulterior recurso, pero quedando sujeto a la responsabilidad en que haya incurrido.
-
-197.- Si el título ejecutivo se refiere a una obligación alternativa y corresponde la elección al deudor, podrá prepararse la acción ejecutiva solicitando que se requiera al obligado para que haga el señalamiento respectivo, fijándole al efecto el Tribunal un plazo que estime prudente, apercibiéndolo de que, si no lo verifica dentro de ese plazo, hará la elección el propio juzgado o quien tenga ese derecho conforme al contrato.
-
-Este modo de preparación del juicio ejecutivo no será necesario que se practique para que proceda directamente el ejercicio de la acción, pues el ejecutante podrá solicitar en su demanda que se requiera al deudor para que haga el señalamiento correspondiente, quedando entre tanto pendiente el despachar la ejecución. Hecha la elección por el deudor, o en su rebeldía por quien corresponda, se despachará ejecución.
-
-198.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que vaya a solicitar la ejecución podrá preparar el juicio haciendo la consignación de las prestaciones debidas al demandado, o comprobando fehacientemente haber cumplido con su obligación. Cuando la prestación debida por el demandante no requiera la práctica de alguna diligencia de comprobación, podrá omitirse la aplicación de este artículo, debiendo hacer el ejecutante la consignación de lo debido por él, en el momento mismo de presentar su demanda.
-
 ### CAPITULO I. Medios preparatorios del juicio en general
 
 184.- El juicio podrá prepararse:
@@ -788,6 +766,28 @@ VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que
 191.- Promovido el juicio, el Tribunal, a solicitud del que hubiere pedido la preparación, mandará agregar las diligencias practicadas para que surtan sus efectos.
 
 192.- Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y sí aún así se resistiere a la exhibición, o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando además sujeto a la responsabilidad en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá con arreglo a las disposiciones relativas a los incidentes.
+
+### CAPITULO II. Medios preparatorios del juicio ejecutivo
+
+193.- Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y, hecha la solicitud respectiva, el juez señalará día y hora para la práctica de la diligencia. Para que esta diligencia pueda verificarse, es preciso que el deudor se encuentre en el lugar de radicación de las diligencias preparatorias al tiempo de que se le haga la citación, la que deberá hacérsele personalmente, expresándose en ella el objeto de la diligencia, la cantidad que se reclama, y la causa de la obligación.
+
+Si el citado no compareciere a la primera citación, se le citará por segunda vez en la misma forma que la anterior, con el apercibimiento de tenerlo por confeso si no compareciere. Si después de hecha esta segunda citación no comparece ni alega justa causa que se lo hubiere impedido, se le tendrá por confeso respecto de las cuestiones que son motivo de las diligencias preparatorias.
+
+194.- El documento privado que contenga deuda líquida y sea de plazo cumplido dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse el pago en el acto de la diligencia; pero siempre será necesario que previamente al requerimiento se intime al deudor para que diga si reconoce la firma que calza el documento como suya, reconocimiento que se hará ante el ejecutor en el mismo acto de la diligencia. Cuando intimado por dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
+
+Si el deudor negare la autenticidad de la firma, no se suspenderá la diligencia, la que se continuará con arreglo a lo dispuesto en la primera parte de este artículo; pero en este caso, el promovente de las diligencias será responsable de los daños y perjuicios que con ello se causaren al ejecutado en caso de que resultare no ser del deudor la firma.
+
+Dentro de los tres días siguientes al embargo, el actor deberá presentar su demanda ejecutiva, y su omisión dará lugar a que se levante el embargo a solicitud del ejecutado.
+
+195.- El reconocimiento de documentos privados puede hacerse ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que el reconocimiento lo haga directamente la persona obligada o su representante legítimo o su mandatario con poder bastante. El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que lo reconoce es el representante legítimo o el apoderado del deudor y, en este último caso, la cláusula relativa del poder.
+
+196.- Si el instrumento público o el documento privado reconocido no contiene cantidad líquida, puede prepararse la acción ejecutiva procediendo a su liquidación. Esta se tramitará con solo un escrito de cada parte, resolviendo el juez sin ulterior recurso, pero quedando sujeto a la responsabilidad en que haya incurrido.
+
+197.- Si el título ejecutivo se refiere a una obligación alternativa y corresponde la elección al deudor, podrá prepararse la acción ejecutiva solicitando que se requiera al obligado para que haga el señalamiento respectivo, fijándole al efecto el Tribunal un plazo que estime prudente, apercibiéndolo de que, si no lo verifica dentro de ese plazo, hará la elección el propio juzgado o quien tenga ese derecho conforme al contrato.
+
+Este modo de preparación del juicio ejecutivo no será necesario que se practique para que proceda directamente el ejercicio de la acción, pues el ejecutante podrá solicitar en su demanda que se requiera al deudor para que haga el señalamiento correspondiente, quedando entre tanto pendiente el despachar la ejecución. Hecha la elección por el deudor, o en su rebeldía por quien corresponda, se despachará ejecución.
+
+198.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que vaya a solicitar la ejecución podrá preparar el juicio haciendo la consignación de las prestaciones debidas al demandado, o comprobando fehacientemente haber cumplido con su obligación. Cuando la prestación debida por el demandante no requiera la práctica de alguna diligencia de comprobación, podrá omitirse la aplicación de este artículo, debiendo hacer el ejecutante la consignación de lo debido por él, en el momento mismo de presentar su demanda.
 
 ### CAPITULO III. Del depósito de personas como acto prejudicial
 
@@ -3001,13 +3001,15 @@ El abogado o procurador podrá promover y continuar los recursos, aunque el pode
 
 811.- La denegada apelación sólo podrá interponerse por aquél a quien se negó la apelación, o por su representante legítimo o apoderado.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1981)</small>
 
-812.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación. Sin embargo, la revisión de las sentencias definitivas recaídas en los juicios que a continuación se especifican, se hará de oficio por el Tribunal de Apelación, para resolver sobre la legalidad de las mismas, sin más trámite que la radicación del asunto y citación para sentencia, con intervención del Ministerio Público:
+812.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación. Sin embargo serán revisables de oficio por el Tribunal de alzada:
 
-a).- Los asuntos que sean de la competencia de los jueces de lo Familiar de conformidad con el artículo 56 Bis de la Ley Orgánica del Poder Judicial del Estado.
+a).- Las sentencias u otras resoluciones que pongan término al procedimiento, recaídas en los asuntos a que se refiere el artículo 56 Bis de la Ley Orgánica del Poder Judicial del Estado.
 
-b).- Las resoluciones que pongan fin al procedimiento a que aluden los artículos 2914, 2915 y 2916 del Código Civil, por las cuales el juez declara que el poseedor se ha convertido en propietario en virtud de la prescripción u ordena que se inscriba en el Registro Público la posesión que se considera apta para prescribir.
+b).- Las resoluciones con las que culmine el procedimiento a que se contraen los artículos 2914, 2915 y 2916 del Código Civil del Estado, mediante las cuales el Juez declara que el poseedor se ha convertido en propietario en virtud de la prescripción u ordena se inscriba en el Registro Público de la Propiedad la posesión apta para prescribir.
+
+La revisión tendrá por objeto resolver sobre la legalidad de las indicadas resoluciones o sentencias, sin más trámite que la radicación del asunto y citación para sentencia, previa la intervención del Ministerio Público.
 
 En el caso de que se haya interpuesto apelación por alguno de los interesados, dicha revisión también se hará aún sin expresión de agravios.
 
@@ -3934,3 +3936,7 @@ P.O. 30 DE MAYO DE 1981.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO.- Este Decreto entrará en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 1981.
+
+ARTICULO TRANSITORIO:- Este Decreto entrará en vigor en toda la Entidad el vigésimo día posterior a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
