@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1996-08-21"
+last_updated: "1998-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1998.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -155,23 +155,17 @@ VII.- Los que tengan a su cargo la dirección o coordinación de las dependencia
 
 Con excepción de los Magistrados y Jueces que hayan adquirido inamovilidad, los funcionarios a que alude el artículo precedente, serán considerados como empleados de confianza para los efectos de su relación laboral con el Gobierno del Estado y al igual que los que se mencionan en el siguiente artículo, podrán ser removidos libremente por la autoridad que los designó.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 18.
 
-Son Empleados de Confianza:
+Son empleados de confianza:
 
-I.- Los Defensores de Oficio;
+I.- Los defensores de oficio;
 
-II.- El Encargado del Archivo General;
+II.- Los que desempeñan sus funciones de conformidad con el artículo 42 de esta ley;
 
-III.- El Encargado de la Biblioteca;
-
-IV.- El Encargado, los Sicólogos y los Trabajadores Sociales del Departamento de Estudios Sicológicos y Socioeconómicos;
-
-V.- El Personal subalterno del Departamento del Fondo Auxiliar para la Administración de Justicia;
-
-VI.- Los Encargados de las Oficialías de Turnos; y
-
-VII.- Todos los demás que así los considere la ley o que, sin tener el carácter de funcionarios, presten sus servicios en alguna de las Dependencias del Poder Judicial y así hubieren sido considerados al momento de su nombramiento.
+III.- Los que, sin tener el carácter de funcionarios, presten servicios al Poder Judicial de manera provisional o eventual.
 
 ###### ARTICULO 19.
 
@@ -243,9 +237,11 @@ Los funcionarios y empleados del Poder Judicial deberán guardar, en el ejercici
 
 Los funcionarios y empleados del Poder Judicial deberán observar una conducta decorosa, tanto en el desempeño de su cargo o empleo, como fuera de él.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 30.
 
-Los funcionarios judiciales en ejercicio o que disfruten de licencia con goce de sueldo, están impedidos para el ejercicio de la abogacía a excepción de la defensa en causa propia, de su cónyuge o de los parientes de ambos hasta el segundo grado inclusive y no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos en el Poder Judicial.
+Los funcionarios judiciales en activo o que disfruten de licencia con goce de sueldo, están impedidos para el ejercicio de la abogacía, a excepción de la defensa en causa propia, de su cónyuge o de los parientes de ambos hasta el cuarto grado inclusive. No podrá desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo la docencia y fuera de las horas designadas al despacho de los asuntos en el Poder Judicial. Si la licencia fuere sin goce de sueldo, el impedimento se limitará al Tribunal de la adscripción del funcionario.
 
 ###### ARTICULO 31.
 
@@ -353,11 +349,11 @@ En cuanto a la extensión y límites de los Municipios y las Secciones Municipal
 
 ### CAPITULO I. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 38.
 
-El Supremo Tribunal de Justicia estará integrado cuando menos por nueve magistrados numerarios y hasta por tres supernumerarios y funcionará en pleno o mediante salas unitarias que podrán ser centrales o regionales. Su asiento estará en la Ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado, salvo las salas regionales que residirán en la población que determine el Pleno y tendrán la competencia territorial que éste les asigne.
+El Supremo Tribunal de Justicia estará integrado cuando menos por nueve magistrados. Funcionará en pleno o mediante salas unitarias que podrán ser centrales o regionales. Su asiento estará en la ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado. Las salas regionales residirán en la población que determine el Pleno y tendrá la competencia territorial que éste les asigne.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -385,41 +381,41 @@ En caso de que la ley otorgue alguna facultad al Supremo Tribunal de Justicia y 
 
 No podrán fungir como magistrados quienes sean entre sí cónyuges, parientes consanguíneos dentro del cuarto grado y por afinidad en el segundo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 42.
 
-Funcionarán bajo la dependencia del Presidente del Supremo Tribunal de acuerdo a esta ley y a sus reglamentos:
+Funcionarán bajo la dependencia del Presidente del Supremo Tribunal de acuerdo a esta ley y sus reglamentos:
 
-I.- El Archivo General;
+I.- Archivo general;
 
-II.- Las bibliotecas judiciales;
+II.- Archivo histórico;
 
-III.- Las defensorías de Oficio;
+III.- Centro de formación y actualización judicial;
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+IV.- Bibliotecas judiciales;
 
-IV.- Los Departamentos de Estudios Psicológicos y Socioeconómicos;
+V.- Defensoría de oficio;
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+VI.- Oficialías de turnos;
 
-V.- El Fondo Auxiliar para la Administración de Justicia;
+VII.- Centrales de notificadores y ministros ejecutores;
 
-VI.- Las oficialías de turno comunes a varios tribunales;
+VIII.- Departamento de estudios psicológicos y socioeconómicos;
 
-VII.- Las oficinas centrales de notificadores y ministros ejecutores;
+IX.- Departamento de evaluación y control presupuestal;
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+X.- Fondo auxiliar para la administración de justicia;
 
-VIII.- Los Departamentos de Informática;
+XI.- Departamento de informática;
 
-> <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
+XII.- Departamento de fotocopiado;
 
-IX.- Los Departamentos de Fotocopiado;
+XIII.- Departamento de almacén;
 
-X.- El Centro de Formación y Actualización Judicial. Y
+XIV.- Departamento de mantenimiento;
 
-XI.- Las demás dependencias necesarias para la buena marcha de la administración de justicia que fueran instituídas por el Pleno.
+XV.- Las demás dependencias necesarias para la buena marcha de la administración de justicia.
 
 ### CAPITULO II. DEL TRIBUNAL PLENO
 
@@ -465,23 +461,37 @@ Ningún Magistrado de los presentes en la sesión podrá abstenerse de votar ni 
 
 Son facultades del Pleno:
 
-I.- Elegir, entre los magistrados numerarios, al Presidente del Supremo Tribunal y a los titulares de las salas;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+I.- Elegir, entre los magistrados, al Presidente del Supremo Tribunal de Justicia y adscribir a los primeros a las Salas correspondientes;
 
 II.- Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará el territorio de su jurisdicción y el lugar de su residencia;
 
-III.- Adscribir interinamente a una sala a alguno de los magistrados supernumerarios, cuando hubiere ausencia absoluta de su titular, y, si la ausencia fuere temporal, o accidental por más de cinco días, nombrar, entre ellos, magistrado sustituto. Además señalará otras tareas que deberán desarrollar los magistrados supernumerarios;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
 
-IV.- Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado;
+III.- Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado;
 
-V.- Convocar a concurso de méritos para la designación de jueces de primera instancia y hacer el nombramiento correspondiente. Declarar, a solicitud del interesado, cuando alguno de esos jueces ha devenido inamovible;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
 
-VI.- Designar, mediante insaculación, los magistrados numerarios que deban integrar el Tribunal Estatal de Elecciones del Estado y, por votación, a los magistrados supernumerarios que deban cubrir su ausencia;
+IV.- Elegir la terna para los efectos del artículo 68 de esta ley;
 
-VII.- Encomendar el trámite y dictamen de algún asunto cuya resolución corresponda al Pleno a algún magistrado supernumerario o a alguna de las salas o juzgados;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+V.- Convocar a concurso de oposición para la designación de jueces de primera instancia y hacer el nombramiento correspondiente. Declarar, a solicitud del interesado, cuando alguno de esos jueces ha devenido inamovible;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+VI.- Encomendar el trámite y dictamen de algún asunto cuya resolución corresponda al Pleno, a alguna de las salas o juzgados;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+VII.- De oficio o a petición del magistrado, atraer cualquier asunto que pro (sic) su trascendencia considera conveniente resolver;
 
 VIII.- Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aún cuando no fueren del mismo ramo;
 
-IX.- Crear y suprimir juzgados, señalar las poblaciones donde deben residir y cambiar su ubicación;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+IX.- Crear y suprimir juzgados. Establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia;
 
 X.- Nombrar, cesar o cambiar de adscripción a jueces, secretarios y notificadores, así como a funcionarios y empleados del tribunal;
 
@@ -525,7 +535,9 @@ XXVII.- Interpretar, con efectos vinculatorios para los tribunales del Estado, l
 
 XXVIII.- Aprobar los reglamentos interiores, incluídos todos los que fueren necesarios para proveer a la observancia de esta Ley;
 
-XXIX.- Formular el Proyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado y ejercer el que fuere aprobado;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+XXIX.- Formular el proyecto de Presupuesto anual de Egresos del Poder Judicial del Estado, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado;
 
 XXX.- Autorizar las erogaciones extraordinarias que deban realizarse para una mejor impartición de justicia y mayor eficacia de la administración del Supremo Tribunal;
 
@@ -543,7 +555,9 @@ XXXVI.- Realizar actividades de conmemoración y de reconocimiento de personas y
 
 XXXVII.- Dictar las medidas pertinentes para que la administración de justicia sea expedita, pronta y cumplida así como para que se observen puntualidad y disciplina en el ejercicio de la misma. Y
 
-XXXVIII.- Las demás atribuciones que estuvieren expresamente establecidas en la Constitución Política del Estado o derivaren de ésta, así como las conferidas por las leyes.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+XXXVIII.- Las demás atribuciones que estuvieren expresamente establecidas en la Constitución Política del Estado o derivaren de ésta, así como las conferidas por las leyes. Sin perjuicio de darles mayor difusión, se publicarán en el Periódico Oficial del Estado las decisiones relacionadas con las facultades señaladas en las fracciones I, II, III, V, IX, XXV, XXVI, XXVII, XXVIII, XXXI y XXXII de este artículo.
 
 > <small>(F. DE E., P.O. 4 DE FEBRERO DE 1995)</small>
 
@@ -729,9 +743,11 @@ Inhibido el Presidente, pasará el conocimiento a los Jueces de Primera Instanci
 
 Si el Magistrado originalmente inhibido se separare de sus funciones definitivamente o por más de sesenta días, volverá el negocio a la Sala de su origen para que lo continúe el funcionario que lo ha de sustituir.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 65.
 
-El Tribunal de Alzada al pronunciar sus resoluciones de segunda instancia sancionará, de oficio o a petición de parte, las faltas oficiales y las infracciones o inobservancias de las leyes de procedimientos cometidos por los Jueces del Estado o los Defensores de Oficio, que aparezcan demostrados en las actuaciones relativas, comunicando al Secretario General la corrección aplicada a fin de que obre constancia de la misma en el expediente personal del infractor.
+Si los Magistrados, en los asuntos de su competencia, advirtieren la comisión por parte de cualquier funcionario o empleado del Poder Judicial, de hechos que pudieren constituir una falta oficial, darán cuenta de los mismos al Presidente del Supremo Tribunal, acompañando las constancias relativas, a fin de que disponga lo que sea procedente.
 
 ### CAPITULO V. DE LAS AUSENCIAS DE LOS MAGISTRADOS
 
@@ -741,17 +757,19 @@ El Tribunal de Alzada al pronunciar sus resoluciones de segunda instancia sancio
 
 Los magistrados podrán ausentarse del despacho hasta por cinco días, con sólo dar aviso al Presidente. Si su ausencia excede de ese plazo, deberán obtener autorización del Pleno.
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 67.
 
-En el caso de ausencia accidental, que no exceda de cinco días hábiles de los Magistrados, el Secretario de Acuerdos adscrito a la Sala respectiva quedará a cargo de ella para el despacho de los asuntos sin llegar a dictar sentencia definitiva actuando con aquél que deba suplirlo en sus ausencias de acuerdo con esta Ley el que asumirá todas sus funciones.
+La ausencia accidental que no exceda de veinte días naturales, será cubierta por el Secretario de Acuerdos adscrito a la Sala respectiva, quien se encargará del despacho de los asuntos sin llegar a dictar sentencia definitiva, actuando con el que, a su vez, deba suplirlo en sus ausencias en los términos de esta ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 68.
 
-La ausencia absoluta, temporal o accidental que exceda de cinco días hábiles, de los Magistrados Numerarios será cubierta interinamente por los Supernumerarios, hasta que tome posesión quién fuera designado como Magistrado, en el caso de ausencia absoluta o se reintegre a su cargo el Magistrado ausente.
+La ausencia absoluta y la temporal que exceda de veinte días naturales, será cubierta por el Magistrado electo por el Congreso, de una terna designada por el Pleno, sin convocar a concurso de méritos, integrada por miembros del Poder Judicial de reconocido prestigio antigüedad (sic). Definida la terna la comunicará directamente al Congreso del Estado.
+
+Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó.
 
 ### CAPITULO VI. DEL SECRETARIO GENERAL
 
@@ -861,7 +879,9 @@ III.- No haber sido condenado por delito que amerite pena corporal por más de u
 
 Al Oficial Mayor corresponderá la atención y despacho de los siguientes asuntos:
 
-I.- Controlar, dirigir y vigilar las funciones de administración y servicios generales del Poder Judicial;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+I.- Vigilar las funciones administrativas y servicios generales del Poder Judicial;
 
 II.- Cuidar que se provea a las Salas, Juzgados y demás oficinas del Poder Judicial de los elementos materiales necesarios para el mejor desempeño de sus funciones;
 
@@ -869,7 +889,9 @@ III.- Sugerir la adquisición de bienes y procurar los servicios que requieran o
 
 IV.- Levantar y mantener actualizado el inventario de recursos materiales del Poder Judicial;
 
-V.- Llevar el control del ejercicio presupuestal del Poder Judicial;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+V.- Procurar el correcto ejercicio del presupuesto de egresos del Poder Judicial;
 
 VI.- Tener a su cargo el despacho de las cuestiones administrativas bajo la dirección del Presidente y del Secretario General;
 
@@ -896,6 +918,8 @@ XVI.- Los demás que le confieran las leyes.
 #### SECCION SEGUNDA. De la Organización y Funcionamiento
 
 #### SECCION TERCERA. Del Destino de los Recursos del Fondo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO VIII. DE LOS SECRETARIOS, NOTIFICADORES Y DEMAS FUNCIONARIOS Y EMPLEADOS DEL SUPREMO TRIBUNAL
 
@@ -1457,17 +1481,23 @@ Las cantidades que fueran recibidas por los conceptos a que se refieren los art�
 
 ###### ARTICULO 145.
 
-El patrimonio del Fondo se destinará a:
+El patrimonio del fondo se destinará a:
 
 I.- La capacitación y mejoramiento técnico y profesional de los integrantes del Poder Judicial;
 
 II.- La adquisición extraordinaria de mobiliario y equipo necesarios para el buen funcionamiento del Supremo Tribunal, sus Dependencias Administrativas o lo Juzgados; y
 
-III.- Sufragar aquellos gastos que el Pleno estime necesarios y convenientes para la buena marcha de la administración de justicia.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+III.- La adquisición de bienes inmuebles e inversión en obra pública necesarios para el mejor desempeño de las funciones del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 1998)</small>
+
+IV.- Sufragar los gastos de los servicios y estudios técnicos que se vinculen con los conceptos a que se refieren las fracciones anteriores y, en general, las erogaciones que el Pleno estime necesarias y convenientes para la buena marcha de la administración de justicia.
 
 ### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO II. DE LOS JUZGADOS MENORES
 
@@ -1483,9 +1513,7 @@ III.- Sufragar aquellos gastos que el Pleno estime necesarios y convenientes par
 
 ###### ARTICULO 146.
 
-Los juzgados de primera instancia podrán ser de los ramos civil, familiar o penal, tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando sólo haya un juzgado de primera instancia tendrá jurisdicción mixta y si hubiere dos, uno será del ramo civil y otro del penal. Cuando haya dos o más del mismo ramo se les denominará en forma ordinal.
-
-Los jueces civiles de primera instancia conocerán de los asuntos de lo familiar, donde no hubiere juzgados del ramo. Si en algún municipio no hay juzgados menores ni de paz los asuntos de su competencia corresponderán a los jueces de primera instancia, según su ramo.
+Los juzgados de primera instancia podrán ser de los ramos civil, familiar, penal o mixtos. Tendrán jurisdicción en todo el distrito y residirán en su cabecera, salvo determinación del Pleno en sentido diverso. Cuando haya dos o más de la misma materia, se les denominará en forma ordinal señalando su ramo.
 
 ###### ARTICULO 147.
 
@@ -1737,6 +1765,10 @@ VI.- De la concesión de licencias al personal del juzgado hasta por diez días,
 
 Cuando un Juez de Paz se inhiba del conocimiento de un asunto, pasará al Juez de Paz más cercano de acuerdo con las reglas fijadas para los Jueces de Primera Instancia para el efecto.
 
+### CAPITULO II. DE LOS PROCEDIMIENTOS Y LOS CONTRATOS
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 169.
 
 Cada juzgado se integrará por un juez, los secretarios de acuerdos y auxiliares, funcionarios y personal de confianza y de base que autorice el presupuesto.
@@ -1785,15 +1817,17 @@ Los funcionarios y empleados de los Juzgados rendirán la Protesta de Ley ante e
 
 Para los efectos de este artículo, tendrá el Juez la obligación de informar al Secretario General las vacantes en aquellos cargos cuyo nombramiento corresponda al pleno y de informarle también, para los efectos de su aprobación, de los nuevos nombramientos que realice, enviando toda la documentación necesaria para dichos efectos.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 176.
 
-Para ser Secretario o Notificador de Juzgado se requiere:
+Para ser Secretario o Notificador se requiere:
 
-I.- Ser mayor de veintiún años; y
+Los requisitos a que se refiere este artículo, serán dispensados cuando:
 
-II.- Tener título de Licenciado en Derecho con antigüedad mínima de un año al momento de la designación.
+A).- No se encuentre persona que los satisfaga en el lugar de la designación.
 
-Los requisitos a que se refiere este artículo podrán omitirse si en el lugar de la designación no se encuentra persona que los satisfaga.
+B).- Se trate de nombramientos provisionales en ejecución de convenios de servicio social celebrados con instituciones docentes. En este último supuesto, los pasantes sólo practicarán notificaciones de mero trámite.
 
 ###### ARTICULO 177.
 
@@ -1954,6 +1988,10 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 ## TITULO OCTAVO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS DEL PODER JUDICIAL Y DEL PROCEDIMIENTO PARA SANCIONAR SUS FALTAS
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+
+### CAPITULO I. DE LAS BASES Y PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 195.
 
@@ -2117,6 +2155,10 @@ El Pleno determinará si procede la suspensión en su cargo del servidor públic
 
 > <small>(DEROGADO, P.O. 28 DE DICIEMBRE DE 1998)</small>
 
+### CAPITULO III. DE LAS INCONFORMIDADES
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 204.
 
 El procedimiento de queja para sancionar las faltas oficiales se iniciará a petición de parte.
@@ -2162,6 +2204,96 @@ Cuando simultáneamente se hagan valer reclamaciones en contra de dos o más per
 ###### ARTICULO 210.
 
 Cuando una queja se interponga sin fundamento y así se declare por la autoridad que conozca de ella o ninguna prueba se desahogue para justificar los hechos en que se fundamenta, se impondrá al quejoso y a su abogado, si está demostrada su intervención, una multa hasta de veinte veces el salario mínimo.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTCULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+
+## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 211.
+
+El gasto de las adquisiciones, arrendamientos y servicios, así como de obra pública, se sujetará a lo previsto en la Constitución Política del Estado y: A) a la Ley de presupuesto de egresos, contabilidad y gasto público, cuando se trate de erogaciones contra el presupuesto del Poder Judicial aprobado por el Congreso. B) los acuerdos del Pleno del Supremo Tribunal de Justicia, cuando deban ser cubiertas por el Fondo Auxiliar para la Administración de Justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 212.
+
+El Pleno establecerá las bases para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice con recursos del Fondo Auxiliar para la Administración de Justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 213.
+
+El Pleno, elaborará los programas respectivos, conforme a las necesidades detectadas de manera directa o hechas notar por los titulares de los juzgados y demás dependencias, considerando la disponibilidad de sus recursos propios y presupuestales y aplicará sus disposiciones por conducto de una comisión.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 214.
+
+La comisión se integrará por un Magistrado designado por el Pleno; el Secretario General y el Oficial Mayor del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 215.
+
+La comisión ejercerá las atribuciones necesarias para el cumplimiento de su (sic) cometidos, bajo la supervisión y vigilancia de los órganos superiores.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 216.
+
+Los contratos a que se refiere este título, podrán ser:
+
+I.- Por licitación pública, en los términos que establece el Presupuesto de Egresos para el ejercicio fiscal correspondiente;
+
+II.- Por licitación restringida, que comprenderá:
+
+A).- La invitación a cuando menos tres proveedores o contratistas según sea el caso y
+
+B).- La adjudicación directa.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 217.
+
+Quienes concurran a la licitación pública o restringida deberán proporcionar los datos necesarios para verificar su solvencia económica y la seriedad de sus propuestas. El Pleno, libremente podrá realizar las investigaciones pertinentes para conformar esos informes.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 218.
+
+No se celebrarán contratos con personas que tengan parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, alguno de los Magistrados o miembros de la comisión. En casos excepcionalmente favorables al Poder Judicial, el Pleno podrá dispensar esta limitante.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 219.
+
+En caso de inconformidad, el interesado, bajo protesta de decir verdad, planteará por escrito las impugnaciones correspondientes dentro de las cuarenta y ocho horas siguientes a la emisión del fallo de adjudicación del contrato.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 220.
+
+El inconforme deberá acompañar a su inicial promoción los documentos pertinentes para reforzar sus impugnaciones. En caso de imposibilidad insalvable, señalará las fuentes de información útiles para verificar sus manifestaciones.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 221.
+
+Sólo podrán impugnarse cuestiones relativas a:
+
+1).- La existencia de algún impedimento para contratar con el favorecido conforme a lo dispuesto por el artículo 218 de esta Ley.
+
+2).- Errores de apreciación vinculados a aspectos fundamentales del objeto del contrato, su monto u otro económico de las propuestas.
+
+3).- Se desecharán de plano las promociones que carezcan de los requisitos señalados en los apartados precedentes.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 222.
+
+El Pleno resolverá las inconformidades dentro de las setenta y dos horas siguientes a su presentación. Podrá recabar oficiosamente los datos necesarios para decidir sobre las cuestiones planteadas. En su caso, la inconformidad podrá ser resuelta mediante arbitraje.
 
 A R T I C U L O S T R A N S I T O R I O S:
 
@@ -2274,3 +2406,7 @@ SEXTO.- Quedan derogadas las disposiciones que se opongan a las del presente Dec
 P.O. 21 DE AGOSTO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
