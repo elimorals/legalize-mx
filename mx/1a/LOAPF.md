@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1982-01-04"
+last_updated: "1982-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -78,27 +78,29 @@ El Gobierno del Distrito Federal estará a cargo del Presidente de la República
 
 El Procurador General de Justicia del Distrito Federal dependerá directamente del Presidente de la República, y ejercerá las funciones que le asigne la Ley.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 6o.
 
 Para los efectos del artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Presidente de la República acordará con todos los Secretarios de Estado, los Jefes de los Departamentos Administrativos y el Procurador General de la República.
 
-El Presidente de la República podrá convocar a reuniones a los Secretarios de Estado y Jefes de Departamentos Administrativos competentes, cuando se trate de definir o evaluar la política del gobierno federal en materias que sean de la competencia concurrente de varias dependencias o entidades de la Administración Pública.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 7o.
 
-Para el ejercicio de sus atribuciones el Presidente de los Estados Unidos Mexicanos contará con los Departamentos Administrativos que determine la Ley.
+El Presidente de la República podrá convocar a reuniones de Secretarios de Estado, Jefes de Departamentos Administrativos y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Federal en materias que sean de la competencia concurrente de varias dependencias, o entidades de la Administración Pública Federal. Estas reuniones serán presididas por el Titular del Ejecutivo Federal y el Secretariado Técnico de las mismas estará adscrito a la Presidencia de la República.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 8o.
 
-Para estudiar y dar forma a los acuerdos presidenciales, compilar las leyes y decretos promulgados, los reglamentos, acuerdos y resoluciones expedidos por el Presidente de la República; para estudiar y promover las modificaciones que deban hacerse a la Administración Pública y coordinar y evaluar su ejecución; así como para la atención de servicios de difusión y relaciones públicas, el Titular del Poder Ejecutivo Federal contará con las unidades respectivas, además de aquellas de asesoría y apoyo técnico y de coordinación en áreas prioritarias que el propio Ejecutivo determine, de acuerdo con el presupuesto asignado a la Presidencia de la República.
+El Titular del Poder Ejecutivo Federal contará con las unidades de asesoría, de apoyo técnico y de coordinación que el propio Ejecutivo determine, de acuerdo con el presupuesto asignado a la Presidencia de la República.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 9o.
 
-Las dependencias y entidades de la administración pública centralizada y paraestatal conducirán sus actividades en forma programada y con base en las políticas, prioridades y restricciones que, para el logro de los objetivos y metas de la planeación nacional, establezca el Presidente de la República, directamente o a través de las dependencias competentes. Para tal efecto, las dependencias elaborarán sus programas considerando, en su caso, las acciones de ámbito sectorial que les correspondan.
+Las dependencias y entidades de la Administración Pública Centralizada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación nacional del desarrollo, establezca el Ejecutivo Federal.
 
 ## TITULO SEGUNDO. De la Administración Pública Centralizada
 
@@ -160,9 +162,11 @@ Las entidades de la administración pública paraestatal podrán integrarse a di
 
 Las comisiones podrán ser transitorias o permanentes y serán presididas por quien determine el Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 22.
 
-El Presidente de los Estados Unidos Mexicanos podrá convenir con los Gobernadores de los Estados de la Federación, satisfaciendo las formalidades legales que en cada caso procedan, la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo, a fin de mejorar los servicios abatir costos o favorecer el desarrollo económico y social de las propias entidades federativas.
+El Presidente de los Estados Unidos Mexicanos podrá celebrar convenios de coordinación de acciones con los Gobiernos Estatales, y con su participación, en los casos necesarios, con los Municipios, satisfaciendo las formalidades legales que en cada caso procedan, a fin de favorecer el desarrollo integral de las propias entidades federativas.
 
 ###### ARTICULO 23.
 
@@ -172,51 +176,55 @@ Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, una 
 
 En casos extraordinarios o cuando exista duda sobre la competencia de alguna Secretaría de Estado o Departamento Administrativo para conocer de un asunto determinado, el Presidente de la República resolverá, por conducto de la Secretaría de Gobernación, a qué dependencia corresponde el despacho del mismo.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 25.
 
-Cuando alguna Secretaría de Estado o Departamento Administrativo necesite informes, datos o la cooperación técnica de cualquier otra dependencia ésta tendrá la obligación de proporcionarlos.
+Cuando alguna Secretaría de Estado o Departamento Administrativo necesite informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a las normas que determine la Secretaría de la Contraloría General de la Federación.
 
 ### CAPITULO II. De la Competencia de las Secretarías de Estado y los Departamentos Administrativos
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 26.
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo, el poder Ejecutivo de la Unión contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación.
+Secretaría de Gobernación
 
-Secretaría de Relaciones Exteriores.
+Secretaría de Relaciones Exteriores
 
-Secretaría de la Defensa Nacional.
+Secretaría de la Defensa Nacional
 
-Secretaría de Marina.
+Secretaría de Marina
 
-Secretaría de Hacienda y Crédito Público.
+Secretaría de Hacienda y Crédito Público
 
-Secretaría de Programación y Presupuesto.
+Secretaría de Programación y Presupuesto
 
-Secretaría de Patrimonio y Fomento Industrial.
+Secretaría de la Contraloría General de la Federación
 
-Secretaría de Comercio.
+Secretaría de Energía, Minas e Industria Paraestatal
 
-Secretaría de Agricultura y Recursos Hidráulicos.
+Secretaría de Comercio y Fomento Industrial
 
-Secretaría de Comunicaciones y Transportes.
+Secretaría de Agricultura y Recursos Hidráulicos
 
-Secretaría de Asentamientos Humanos y Obras Públicas.
+Secretaría de Comunicaciones y Transportes
 
-Secretaría de Educación Pública.
+Secretaría de Desarrollo Urbano y Ecología
 
-Secretaría de Salubridad y Asistencia.
+Secretaría de Educación Pública
 
-Secretaría del Trabajo y Previsión Social.
+Secretaría de Salubridad y Asistencia
 
-Secretaría de la Reforma Agraria.
+Secretaría del Trabajo y Previsión Social
 
-Secretaría de Turismo.
+Secretaría de la Reforma Agraria
 
-Secretaría de Pesca.
+Secretaría de Turismo
+
+Secretaría de Pesca
 
 Departamento del Distrito Federal.
 
@@ -228,7 +236,9 @@ I.- Presentar ante el Congreso de la Unión las iniciativas de ley del Ejecutivo
 
 II.- Publicar las leyes y decretos que expidan el Congreso de la Unión, alguna de las dos Cámaras o el Presidente de la República;
 
-III.- Administrar y publicar el Diario Oficial de la Federación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+III.- Publicar el Diario Oficial de la Federación;
 
 IV.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país, especialmente en lo que se refiere a las garantías individuales, y dictar las medidas administrativas que requiera ese cumplimiento;
 
@@ -240,7 +250,9 @@ VII.- Conducir las relaciones del Poder Ejecutivo con los otros Poderes de la Un
 
 VIII.- Otorgar al Poder Judicial Federal el auxilio que requiera para el debido ejercicio de sus funciones;
 
-IX.- Tramitar lo relativo al ejercicio de las facultades que otorgan al Ejecutivo los artículos 96, 98, 99 y 100 de la Constitución, sobre nombramientos, renuncias y licencias de los Ministros de la Suprema Corte de Justicia; el artículo 73, fracción VI, sobre nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y el artículo 111 respecto de las destituciones de funcionarios judiciales;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+IX.- Tramitar lo relativo al ejercicio de las facultades que otorgan al ejecutivo los artículos 96, 98, 99 y 100 de la Constitución, sobre nombramientos, renuncias y licencias de los Ministros de la Suprema Corte de Justicia, y el artículo 73, fracción VI, sobre nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal;
 
 X.- Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los funcionarios judiciales a que se refiere la fracción anterior;
 
@@ -264,7 +276,9 @@ XVIII.- Manejar el Archivo General de la Nación;
 
 XIX.- Ejercitar el derecho de expropiación por causa de utilidad pública en aquellos casos no encomendados a otra dependencia;
 
-XX.- Vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas, se mantengan dentro de los límites del respeto a la vida privada, a la paz y moral públicas y a la dignidad personal, y no ataquen los derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público; y dirigir y administrar las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado y Departamentos Administrativos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XX.- Promover la producción cinematográfica de radio y televisión y la industria editorial; vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas, se mantengan dentro de los límites del respeto a la vida privada, a la paz y moral pública y a la dignidad personal, y no ataquen los derechos de terceros, ni provoquen la comisión de algún delito o perturben el orden público; y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado y Departamentos Administrativos;
 
 XXI.- Reglamentar, autorizar y vigilar el juego, las apuestas, las loterías y rifas, en los términos de las leyes relativas;
 
@@ -274,29 +288,41 @@ XXIII.- Reivindicar la propiedad de la nación, por conducto del Procurador Gene
 
 XXIV.- Reglamentar y autorizar la portación de armas por empleados federales;
 
-XXV.- Formular y conducir la política demográfica, salvo lo relativo a colonización, asentamientos humanos y turismo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+XXV.- Formular y conducir la política de población, salvo lo relativo a colonización, asentamientos humanos y turismo;
 
-XXVI.- Organizar la Defensa y Prevensión (sic) Social contra la delincuencia, estableciendo en el Distrito Federal un Consejo Tutelar para menores infractores de más de seis años e instituciones auxiliares; creando colonias penales, cárceles y establecimientos penitenciarios en el Distrito Federal y en los Estados de la Federación, mediante acuerdo con sus Gobiernos, ejecutando y reduciendo las penas y aplicando la retención por delitos del orden federal o común en el Distrito Federal; así como intervenir conforme a los tratados relativos, en el traslado de los reos a que se refiere el quinto párrafo del Artículo 18 Constitucional.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1980)</small>
+XXVI.- Organizar la defensa y prevención social contra la delincuencia, estableciendo en el Distrito Federal un Consejo Tutelar para menores infractores de más de seis años e instituciones auxiliares; creando colonias penales, cárceles y establecimientos penitenciarios en el Distrito Federal y en los Estados de la Federación, mediante acuerdo con sus Gobiernos, ejecutando y reduciendo las penas y aplicando la retención por delitos del orden federal o común en el Distrito Federal; así como participar conforme a los tratados relativos, en el traslado de los reos a que se refiere el quinto párrafo del Artículo 18 Constitucional;
 
-XXVII.- Fijar el Calendario Oficial.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-Regular las vacaciones y horarios de labores de los trabajadores de la Administración Pública Federal.
+XXVII.- Fijar el Calendario Oficial;
 
 XXVIII.- Rendir las informaciones oficiales del Ejecutivo de la Unión;
 
-XXIX.- Intervenir en la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-XXX.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XXIX.- Conducir la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXX.- Formular, regular y conducir la política de comunicación social del Gobierno Federal, y las relaciones con los medios masivos de información;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXXI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal; y
+
+XXXII.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 28.
 
 A la Secretaría de Relaciones Exteriores corresponde el despacho de los siguientes asuntos:
 
-I.- Manejar las relaciones internacionales y, por tanto, intervenir en la celebración de toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior de las dependencias y entidades de la Administración Pública Federal; y sin afectar el ejercicio de las atribuciones que a cada una de ellas corresponda, conducir la política exterior, para lo cual intervendrá en toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
 
@@ -410,27 +436,29 @@ XVIII.- Integrar el archivo de información oceanográfica nacional, y
 
 XIX.- Los demás que le atribuyan expresamente las leyes o reglamentos.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 31.
 
 A la Secretaría de Hacienda y Crédito Público corresponde el despacho de los siguientes asuntos:
 
-I.- Estudiar y formular los proyectos de leyes y disposiciones impositivas, y las leyes de ingresos federal y del Departamento del Distrito Federal
+I.- Estudiar y formular los proyectos de leyes y disposiciones impositivas, y las leyes de ingresos federal y del Departamento del Distrito Federal;
 
 II.- Cobrar los impuestos, derechos, productos y aprovechamientos federales en los términos de las leyes;
 
-III.- Cobrar los derechos, impuestos, productos y aprovechamientos del Distrito Federal, en los términos de la Ley de Ingresos del Departamento del Distrito Federal y las leyes fiscales correspondientes;
+III.- Cobrar los derechos, impuestos, productos y aprovechamientos del Distrito Federal en los términos de la Ley de Ingresos del Departamento del Distrito Federal, y las leyes fiscales correspondientes;
 
-IV.- Determinar los criterios y montos globales de los estímulos fiscales; estudiar y proyectar sus efectos en los ingresos de la Federación, y, con la excepción de lo previsto en la fracción VI del Artículo 34, resolver en los casos concretos su aplicación, así como vigilar y evaluar sus resultados. Para ello escuchará a las dependencias responsables de los sectores correspondientes;
+IV.- Determinar los criterios y montos globales de los estímulos fiscales; estudiar y proyectar sus efectos en los ingresos de la Federación, y evaluar sus resultados conforme a sus objetivos. Para ello escuchará a las dependencias responsables de los sectores correspondientes;
 
-V.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la Federación,
+V.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la Federación;
 
-VI.- Proyectar y calcular los ingresos tanto de la Federación, como del Departamento del Distrito Federal;
+VI.- Proyectar y calcular los ingresos de la Federación, del Departamento del Distrito Federal y de las entidades de la Administración Pública Federal, considerando las necesidades del Gasto Público Federal que prevea la Secretaría de Programación y Presupuesto, la utilización razonable del crédito público y la sanidad financiera de la Administración Pública Federal;
 
-VII.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 1978)
+VII.- Planear, coordinar, evaluar y vigilar el sistema bancario del país que comprende al Banco Central, a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio público de banca y crédito;
 
 VIII.- Practicar inspecciones y reconocimientos de existencias en almacenes, con objeto de asegurar el cumplimiento de las disposiciones fiscales;
 
-IX.- Intervenir en todas las operaciones en que se haga uso del Crédito Público;
+IX.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
 
 X.- Manejar la deuda pública de la Federación y del Departamento del Distrito Federal;
 
@@ -438,59 +466,105 @@ XI.- Dirigir la política monetaria y crediticia;
 
 XII.- Administrar las casas de moneda y ensaye;
 
-XIII.- Ejercer las atribuciones que le señalan las leyes de instituciones de crédito, seguros y fianzas;
+XIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones auxiliares de crédito;
 
-XIV.- Intervenir en la representación del interés de la Federación y del Departamento del Distrito Federal en controversias fiscales, y
+XIV.- Representar el interés de la Federación en controversias fiscales y coordinar en esta materia la representación del Departamento del Distrito Federal.
 
-XV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XV.- Establecer y revisar los precios y tarifas de los bienes y servicios de la Administración Pública Federal, o bien, las bases para fijarlos, escuchando a las Secretarías de Programación y Presupuesto y de Comercio y Fomento Industrial y con la participación de las dependencias que corresponda, y
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+XVI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 32.
 
 A la Secretaría de Programación y Presupuesto corresponde el despacho de los siguientes asuntos:
 
-I.- Proyectar la planeación nacional de carácter global y elaborar, con la participación de los grupos sociales interesados, el plan nacional correspondiente;
+I.- Proyectar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
 
-II.- Formular y coordinar la ejecución de los programas regionales y especiales que le señale el Presidente de la República;
+II.- Proyectar y coordinar con la participación que corresponda a los gobiernos estatales y municipales la planeación regional, así como la ejecución de los programas especiales que le señale el Presidente de la República;
 
-III.- Coordinar las actividades de planeación del desarrollo integral del país, así como procurar la congruencia entre las acciones de la administración Pública Federal y los objetivos, estrategias, políticas y metas del plan nacional;
+III.- Coordinar las actividades de planeación nacional del desarrollo, así como procurar la congruencia entre las acciones de la Administración Pública Federal y los objetivos y prioridades del Plan Nacional de Desarrollo;
 
-IV.- Establecer la metodología y los procedimientos de participación y consulta a los sectores social y privado en las actividades de planeación, así como coordinar las acciones que el Ejecutivo Federal convenga con los ejecutivos locales para la ejecución de acciones coordinadas para el desarrollo integral de las diversas regiones del país;
+IV.- Coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos locales para el desarrollo integral de las diversas regiones del país;
 
-V.- Proyectar y calcular los egresos del Gobierno Federal y los ingresos y egresos de la Administración Pública Federal Paraestatal;
+V.- Proyectar y calcular los egresos del gobierno Federal y de la Administración Pública Paraestatal, haciéndolos compatibles con la disponibilidad de recursos que señale la Secretaría de Hacienda y Crédito Público, y en atención a las necesidades y políticas del desarrollo nacional;
 
-VI.- Formular el programa del gasto Público Federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal a la consideración del Presidente de la República;
+VI.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal, a la consideración del Presidente de la República;
 
-VII.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Federal.
+VII.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Federal;
 
-VIII.- Llevar a cabo las tramitaciones y registros que requiera el control, vigilancia y evaluación del ejercicio del gasto público federal y de los Presupuestos de Egresos;
+VIII.- Llevar a cabo las tramitaciones y registros que requiera la vigilancia y evaluación del ejercicio del gasto público federal y de los presupuestos de egresos;
 
-IX.- Verificar que se efectúe en los términos establecidos, la inversión de los subsidios que otorgue la Federación, así como la aplicación de las transferencias de fondos en favor de estados, Municipios, Instituciones o particulares;
+IX.- Verificar que se efectúe en los términos establecidos, la inversión de los subsidios que otorgue la Federación, así como la aplicación de las transferencias de fondos en favor de Estados, Municipios, Instituciones o particulares;
 
-X.- Establecer Normas, lineamientos y políticas en materia de administración, remuneraciones y desarrollo de personal de la Administración Pública Federal Centralizada;
+X.- Establecer normas, lineamientos y políticas en materia de administración, remuneraciones, capacitación y desarrollo de personal, así como coordinar y vigilar la operación del Sistema General de Administración y Desarrollo de Personal del Poder Ejecutivo Federal;
 
-XI.- Fijar los lineamientos que se deben seguir en la elaboración de la Documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
+XI.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
-XII.- Intervenir en la planeación, programación, presupuestación, ejecución, control y evaluación de las obras públicas que realicen las dependencias y entidades de la Administración Pública Federal;
+XII.- Regular la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen las dependencias y entidades de la Administración Pública Federal;
 
-XIII.- Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público federal; consolidar los estados financieros que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación, así como formular la Cuenta Anual de la Hacienda Pública Federal;
+XIII.- Emitir o autorizar, en consulta con la Secretaría de la Contraloría General de la Federación, los catálogos de cuentas para la contabilidad del gasto público federal; consolidar los estados financieros que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación, así como formular la Cuenta Anual de la Hacienda Pública Federal;
 
-XIV.- Dictar las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública Federal, a las del Departamento del Distrito Federal y al Patrimonio de las entidades de la Administración Pública Paraestatal;
+XIV.- Establecer la política y las directrices que apruebe el Presidente de la República para la modernización administrativa de carácter global, sectorial e institucional, que orienten a los Secretarios de Estado y Jefes de Departamento Administrativo en la determinación y ejecución de las acciones que autoricen en el ámbito de su competencia;
 
-XV.- Establecer normas para la realización de auditorías en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías especiales que se requieran a las dependencias y entidades de la Administración Pública Federal;
+XV.- Someter a la consideración del Presidente de la República los cambios a la organización que determinen los titulares de las dependencias y entidades de la Administración Pública Federal, que impliquen modificaciones a su estructura orgánica básica y que deban reflejarse en su reglamento interior;
 
-XVI.- Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, control y evaluación;
+XVI.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
-XVII.- Coordinar y desarrollar los Servicios Nacionales de Estadística y de Información Geográfica; establecer las normas y procedimientos para la organización, funcionamiento y coordinación de los sistemas Nacionales Estadístico y de Información Geográfica, así como normar y coordinar los servicios de informática de las dependencias y entidades de la Administración Pública Federal; y
+XVII.- Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica; establecer las normas y procedimientos para la organización, funcionamiento y coordinación de los sistemas nacionales estadísticos y de información geográfica, así como normar y coordinar los servicios de informática de las dependencias y entidades de la Administración Pública Federal;
 
-XVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
+XVIII.- Dictar las normas para las adquisiciones de toda clase que realicen las dependencias y entidades de la Administración Pública Federal Centralizada y Paraestatal, escuchando la opinión de la Secretaría de Comercio y Fomento Industrial, así como las normas y procedimientos para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo, instalaciones industriales y los demás bienes muebles que formen parte del patrimonio de la Administración Pública Federal, y
+
+XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 32 BIS.- A la Secretaría de la Contraloría General de la Federación corresponde el despacho de los siguientes asuntos:
+
+I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental. Inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos;
+
+II.- Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Federal. La Secretaría, discrecionalmente, podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control;
+
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública Federal;
+
+IV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías que se requieran a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control;
+
+V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Federal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Gobierno Federal;
+
+VI.- Sugerir normas a la Comisión Nacional Bancaria y de Seguros en relación con el control y fiscalización de las entidades bancarias y de otro tipo que formen parte de la Administración Pública Federal;
+
+VII.- Realizar, por sí o a solicitud de las Secretarías de Hacienda y Crédito Público, de Programación y Presupuesto o de la coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades de la Administración Pública Federal con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+
+VIII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades de la Administración Pública Federal cumplan con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
+
+IX.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros que elabore la Secretaría de Programación y Presupuesto, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Hacienda y Crédito Público;
+
+X.- Designar a los auditores externos de las entidades y normar y controlar su actividad;
+
+XI.- Proponer la designación de comisarios o sus equivalentes en los órganos de vigilancia en los consejos o juntas de gobierno y administración de las entidades de la Administración Pública Paraestatal;
+
+XII.- Opinar sobre el nombramiento, y en su caso, solicitar la remoción de los titulares de las áreas de control de las dependencias y entidades. Tanto en este caso, como en las de las dos fracciones anteriores, las personas propuestas o designadas deberán reunir los requisitos que establezca la Secretaría;
+
+XIII.- Coordinarse con la Contaduría Mayor de Hacienda para el establecimiento de los procedimientos necesarios que permitan a ambos órganos el cumplimiento de sus respectivas responsabilidades;
+
+XIV.- Informar anualmente al Titular del Ejecutivo Federal sobre el resultado de la evaluación de las dependencias y entidades de la Administración Pública Federal que hayan sido objeto de fiscalización, e informar a las autoridades competentes, si así fuere requerida, el resultado de tales intervenciones;
+
+XV.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores de la Administración Pública Federal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos;
+
+XVI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Federal, de acuerdo con las normas que se emitan;
+
+XVII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalen, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida;
+
+XVIII.- Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal aplicándole las sanciones que correspondan y hacer al efecto las denuncias a que hubiere lugar, y
+
+XIX.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 33.
 
-A la Secretaría del Patrimonio y Fomento Industrial corresponde el despacho de los siguientes asuntos:
-
-> <small>(F. DE E., D.O.F. 2 DE FEBRERO DE 1977)</small>
+A la Secretaría de Energía, Minas e Industria Paraestatal corresponde el despacho de los siguientes asuntos:
 
 I.- Poseer, vigilar, conservar o administrar los bienes de propiedad originaria, los que constituyan recursos naturales no renovables, los de dominio público y los de uso común, siempre que no estén encomendados expresamente a otra dependencia;
 
@@ -504,109 +578,103 @@ V.- Proyectar, realizar y mantener al corriente el inventario de los recursos no
 
 VI.- Llevar el catastro petrolero y minero;
 
-VII.- Intervenir en las salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar;
+VII.- Regular la explotación de las salinas ubicadas en terrenos propiedad nacional y en las formadas directamente por las aguas del mar;
 
-VIII.- Intervenir en la producción industrial cuando afecte a la economía general del país con exclusión de la producción que esté asignada a otras dependencias;
+VIII.- Regular la industria petrolera, petroquímica básica, minera, eléctrica y nuclear;
 
-IX.- Asesorar técnicamente a la iniciativa privada en el establecimiento de nuevas industrias;
+IX.- Promover y, en su caso, organizar la investigación técnico industrial en materia de energía, siderurgia, fertilizantes y recursos naturales no renovables;
 
-X.- Intervenir en la industria de transformación y en la industria eléctrica;
+X.- Regular y promover las industrias extractivas;
 
-XI.- Fomentar y organizar la producción económica del artesanado de las artes populares y de las industrias familiares;
+XI.- Impulsar el desarrollo de los energéticos, de la industria básica o estratégica y de la industria naviera;
 
-XII.- Proteger y fomentar las industria nacional;
+XII.- Conducir, aprobar, coordinar y vigilar la actividad de las industrias paraestatales con exclusión de las que estén asignadas a otra dependencia; atendiendo a la política industrial establecida por la Secretaría de Comercio y Fomento Industrial;
 
-XIII.- Proponer el desarrollo de la industria pequeña y rural y fomentar y regular la organización de productores industriales;
+XIII.- Formular y conducir la política de desarrollo de la industria de fertilizantes, en coordinación con las dependencias correspondientes; así como aprobar y coordinar los programas de producción de las entidades de la Administración Pública Federal;
 
-XIV.- Promover y realizar, en su caso, la investigación técnico industrial;
+XIV.- Formular la política de desarrollo de la industria siderúrgica, en coordinación con la Secretaría de Comercio y Fomento Industrial; así como regular y conducir la producción de las entidades paraestatales correspondientes, y
 
-XV.- Intervenir en las industrias extractivas;
+XV.- Los demás que le encomienden expresamente las leyes y reglamentos.
 
-XVI.- Impulsar el desarrollo de los energéticos, de la industria básica o estratégica y de la industria naviera;
-
-XVII.- Fomentar la organización de sociedades cooperativas de producción industrial;
-
-XVIII.- Intervenir, en los términos de las leyes relativas, en las sociedades, cámaras y asociaciones industriales;
-
-XIX.- Intervenir en materia de propiedad industrial y regular la inversión extranjera y la transferencia de tecnología;
-
-XX.- Establecer y vigilar las normas y especificaciones industriales;
-
-XXI.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial, y
-
-XXII.- Los demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 34.
 
-A la Secretaría de Comercio corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Comercio y Fomento Industrial, corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir las políticas generales de comercio del país;
+I.- Formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país; con excepción de los precios de bienes y servicios de la Administración Pública Federal;
 
-II.- Intervenir en la distribución y consumo, cuando afecten a la economía general del país;
+II.- Regular, promover y vigilar la comercialización, distribución y consumo de los bienes y servicios;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+III.- Establecer la política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, escuchando la opinión de las dependencias competentes;
 
-III.- Establecer la Política de la distribución y el consumo de los productos agrícolas, ganaderos y forestales, escuchando la opinión de la Secretaría de Agricultura y Recursos Hidráulicos; y de los productos pesqueros, escuchando la opinión de la Secretaría de Pesca;
-
-IV.- Fomentar el comercio exterior del país;
+IV.- Fomentar el comercio exterior del país.
 
 V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
-VI.- Estudiar, proponer y determinar, escuchando la opinión de la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento de las exportaciones y participar en el estudio y proposición de los subsidios a las importaciones;
+VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial y el comercio interior y exterior, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-VII.- Establecer la política de precios y vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, así como definir el uso preferente que deba darse a determinadas mercancías;
+VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
-VIII.- Orientar y estimular los mecanismos de protección al consumidor;
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+VIII.- Regular, orientar y estimular las medidas de protección al consumidor;
 
 IX.- Coordinar y dirigir el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
 
-X.- Intervenir en las ventas cuando los productores nacionales las hagan directamente a compradores radicados en el extranjero;
+X.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo;
 
-XI.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la distribución o el consumo;
+XI.- Autorizar y vigilar en los términos de las leyes relativas, la actividad de las sociedades mercantiles, cámaras y asociaciones industriales y comerciales, lonjas y asociaciones de corredores;
 
-XII.- Intervenir en los términos de las leyes relativas, en las sociedades mercantiles, cámaras y asociaciones comerciales, lonjas y asociaciones de corredores;
+XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
 
-XIII.- Intervenir en materia de propiedad mercantil;
+XIII.- Establecer y vigilar las normas de calidad, pesas y medidas necesarias para la actividad comercial; así como las normas y especificaciones industriales;
 
-XIV.- Establecer y vigilar las normas de calidad pesas y medidas necesarias para la actividad comercial;
+XIV.- Promover el desarrollo de lonjas, centros y sistemas comerciales, de carácter regional o nacional;
 
-XV.- Promover el desarrollo de lonjas, centros y sistemas comerciales, incluso de carácter regional o nacional;
+XV.- Fomentar el desarrollo del pequeño comercio rural y urbano;
 
-XVI.- Fomentar el desarrollo del pequeño comercio rural y urbano;
+XVI.- Impulsar, en coordinación con las dependencias centrales o entidades del sector paraestatal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren fundamentales para la regulación de los precios;
 
-XVII.- Impulsar, en coordinación con las dependencias centrales o entidades del sector paraestatal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren fundamentales para la regulación de los precios;
+XVII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial y comercial;
 
-XVIII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter comercial, y
+XVIII.- Organizar la distribución y consumo a fin de evitar el acaparamiento y que las intermediaciones innecesarias o excesivas provoquen el encarecimiento de los productos y servicios;
 
-> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+XIX.- Regular la producción industrial con exclusión de la que esté asignada a otras dependencias;
 
-XIX.- Intervenir en las adquisiciones de toda clase que realicen las dependencias y entidades de la Administración Pública Federal, centralizada y paraestatal, así como determinar normas y procedimientos para el manejo de almacenes, control de inventarios, avalúos y baja de los bienes muebles.
+XX.- Asesorar a la iniciativa privada en el establecimiento de nuevas industrias en el de (sic) las empresas que se dediquen a la exportación de manufacturas nacionales;
 
-> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+XXI.- Fomentar, regular y promover el desarrollo de la industria de transformación;
 
-XX.- Las demás que le encomienden expresamente las Leyes y Reglamentos.
+XXII.- Fomentar, estimular y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares;
+
+XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
+
+XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pequeña, mediana y rural y regular la organización de productores industriales;
+
+XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
+
+XXVI.- Los demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 35.
 
 A la Secretaría de Agricultura y Recursos Hidráulicos corresponde el despacho de los siguientes asuntos:
 
-I.- Planear, fomentar y asesorar técnicamente la producción agrícola, ganadera, avícola, apícola y forestal en todos sus aspectos;
+I.- Programar, fomentar y asesorar técnicamente la producción agrícola, ganadera, avícola, apícola y forestal en todos sus aspectos;
 
 II.- Definir, aplicar y difundir los métodos y procedimientos técnicos destinados a obtener mejor rendimiento en la agricultura, silvicultura, ganadería, avicultura y apicultura;
 
-III.- Organizar y encauzar el crédito ejidal, agrícola forestal y ganadero, con la cooperación de la Secretaría de Hacienda y Crédito Público;
+III.- Encauzar el crédito ejidal, agrícola, forestal y ganadero, en coordinación con la Secretaría de Hacienda y Crédito Público, hacia los renglones prioritarios; participar con ella en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción agropecuaria, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-IV.- Organizar a los productores del sector agropecuario en torno a programas a nivel nacional y regional, en coordinación con la Secretaría de la Reforma Agraria;
+IV.- Determinar y conducir las políticas de organización de productores del sector agropecuario, en torno a programas regionales y nacionales, con la participación de las autoridades locales que corresponda;
 
-V.- Fomentar las organizaciones mixtas con fines de producción agropecuaria o silvícola, cuyo objeto sea la producción agropecuaria o silvícola, en coordinación con la Secretaría de la Reforma Agraria;
+V.- Fomentar las organizaciones mixtas con fines de producción agropecuaria o silvícola;
 
 VI.- Organizar y administrar los servicios de defensa agrícola y ganadera y de vigilancia de sanidad agropecuaria y forestal, considerando la producción de fármacos biológicos destinados a la población animal;
 
 VII.- Establecer los controles que se estimen necesarios para garantizar la calidad de los productos que se utilicen en la alimentación animal;
 
-VIII.- Coordinar y dirigir en su caso las actividades de la Secretaría con los centros de educación agrícola superior y media y establecer y dirigir escuelas de agricultura, ganadería, apicultura, avicultura y silvicultura, en los lugares que proceda;
+VIII.- Coordinar y dirigir en su caso las actividades de la Secretaría con los centros de educación agrícola superior y media, y establecer y dirigir escuelas de agricultura, ganadería, apicultura, avicultura y silvicultura, en los lugares que proceda;
 
 IX.- Organizar y fomentar las investigaciones agrícolas, ganaderas, avícolas, apícolas y silvícolas, estableciendo institutos experimentales, laboratorios, estaciones de cría, reservas, cotos de caza, semilleros y viveros;
 
@@ -622,167 +690,173 @@ XIV.- Organizar y dirigir los estudios, trabajos y servicios meteorológicos y c
 
 XV.- Difundir los métodos y procedimientos técnicos destinados a obtener mejores rendimientos de los bosques;
 
-XVI.- Organizar y administrar el aprovechamiento racional de los recursos forestales y de la fauna y flora silvestre, con el propósito de conservarlos y desarrollarlos;
+XVI.- Organizar y regular el aprovechamiento racional de los recursos forestales; atendiendo a las restricciones de protección ecológica que señale la Secretaría de Desarrollo Urbano y Ecología;
 
-XVII.- Organizar y manejar la vigilancia forestal, y decretar las vedas forestales y de caza;
+XVII.- Fomentar y realizar programas de reforestación en coordinación con la Secretaría de Desarrollo Urbano y Ecología;
 
-XVIII.- Fomentar la reforestación y realizar planes para reforestar directamente algunas zonas;
+XVIII.- Administrar los recursos forestales en los terrenos baldíos y nacionales;
 
-XIX.- Administrar los recursos forestales y de caza en los terrenos baldíos y nacionales;
+XIX.- Realizar el censo de predios forestales y silvopastoriles y de sus productos, así como levantar, organizar y manejar la cartografía y estadística forestal;
 
-XX.- Llevar el registro y cuidar de la conservación de los árboles históricos y notables del país;
+XX.- Organizar y administrar reservas forestales;
 
-XXI.- Realizar el censo de predios forestales y silvopastoriles y de sus productos, así como levantar, organizar y manejar la cartografía y estadística forestal;
+XXI.- Otorgar contratos, concesiones y permisos forestales;
 
-XXII.- Organizar y administrar reservas forestales de flora y fauna terrestres, parques zoológicos, jardines botánicos y colecciones forestales;
+XXII.- Promover la industrialización de los productos forestales;
 
-XXIII.- Hacer exploraciones y recolecciones científicas de la flora y de la fauna terrestres;
+XXIII.- Organizar, dirigir y reglamentar los trabajos de hidrología en cuencas, cauces y álveos de aguas nacionales, tanto superficiales como subterráneos;
 
-XXIV.- Fomentar y distribuir colecciones de los elementos de la flora y de la fauna terrestres;
+XXIV.- Vigilar el cumplimiento y aplicación de la Ley Federal de Aguas;
 
-XXV.- Otorgar contratos, concesiones y permisos forestales y de caza;
+XXV.- Reconocer derechos y otorgar concesiones, permisos y autorizaciones para el aprovechamiento de las aguas nacionales, con la cooperación de la Secretaría de Energía, Minas e Industria Paraestatal, cuando se trate de la generación de energía eléctrica;
 
-XXVI.- Promover la industrialización de los productos forestales;
+XXVI.- Administrar, controlar y reglamentar el aprovechamiento de las cuencas hidráulicas, vasos, manantiales y aguas de propiedad nacional, así como de las zonas federales correspondientes, con exclusión de lo que se atribuya expresamente a otra dependencia;
 
-XXVII.- Organizar, dirigir y reglamentar los trabajos de hidrología en cuencas, cauces y álveos de aguas nacionales, tanto superficiales como subterráneos;
+XXVII.- Estudiar, proyectar, construir y conservar las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, de acuerdo con los programas formulados y que competa realizar el (sic) Gobierno Federal, por sí o en cooperación con los Gobiernos de los Estados, Municipios o de particulares;
 
-XXVIII.- Vigilar el cumplimiento y aplicación de la Ley Federal de Aguas;
+XXVIII.- Regular y vigilar la conservación de las corrientes, lagos y lagunas, en la protección de cuencas alimentadoras y las obras de corrección torrencial;
 
-XXIX.- Reconocer derechos y otorgar concesiones, permisos y autorizaciones para el aprovechamiento de las aguas nacionales, con la cooperación de la Secretaría de Patrimonio y Fomento Industrial, cuando se trate de la generación de energía eléctrica;
+XXIX.- Realizar los estudios geohidrológicos relacionados con la existencia y el aprovechamiento de los recursos hidráulicos y con la construcción de las obras relativas;
 
-XXX.- Administrar, controlar y reglamentar el aprovechamiento de las cuencas hidráulicas, vasos, manantiales y aguas de propiedad nacional, así como de las zonas federales correspondientes, con exclusión de lo que se atribuya expresamente a otra dependencia;
+XXX.- Manejar el sistema hidrológico del Valle de México;
 
-XXXI.- Estudiar, proyectar, construir y conservar las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, de acuerdo con los planes formulados y que competa realizar al Gobierno Federal, por sí o en cooperación con los Gobiernos de los Estados, Municipios o de particulares;
+XXXI.- Controlar los ríos y demás corrientes y ejecutar las obras de defensa contra inundaciones;
 
-XXXII.- Intervenir en la conservación de las corrientes, lagos y lagunas; en la protección de cuencas alimentadoras y en obras de corrección torrencial;
+XXXII.- Ejecutar las obras hidráulicas que se deriven de tratados internacionales;
 
-XXXIII.- Realizar los estudios geohidrológicos relacionados con la existencia y el aprovechamiento de los recursos hidráulicos y con la construcción de las obras relativas;
+XXXIII.- Organizar y manejar la explotación de los sistemas nacionales de riego, con la intervención de los usuarios, en los términos que lo determinen las leyes;
 
-XXXIV.- Manejar el sistema hidrológico del Valle de México;
+XXXIV.- Otorgar las asignaciones y concesiones correspondientes a la dotación de agua para las poblaciones, previa consulta con la Secretaría de Desarrollo Urbano y Ecología;
 
-XXXV.- Controlar los ríos y demás corrientes y ejecutar las obras de defensa contra inundaciones;
+XXXV.- Intervenir en la dotación de agua a los centros de población e industrias y programar, proyectar, construir, administrar, operar y conservar las obras de captación, potabilización y conducción, hasta los sitios en que se determine con la Secretaría de Desarrollo Urbano y Ecología;
 
-XXXVI.- Ejecutar las obras hidráulicas que se deriven de tratados internacionales;
+XXXVI.- Levantar y mantener actualizado el inventario de recursos naturales, específicamente de agua, suelo y cubierta vegetal, así como los de población animal, y
 
-XXXVII.- Organizar y manejar la explotación de los sistemas nacionales de riego, con la intervención de los usuarios, en los términos que lo determinen las leyes;
+XXXVII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
-XXXVIII.- Otorgar las asignaciones y concesiones correspondientes a la dotación de agua para las poblaciones, previa consulta con la Secretaría de Asentamientos Humanos y Obras Públicas;
-
-XXXIX.- Intervenir en la dotación de agua a los centros de población e industrias y planear, proyectar, construir, administrar, operar y conservar las obras de captación, potabilización y conducción, hasta los sitios en que se convenga con la Secretaría de Asentamientos Humanos y Obras Publicas;
-
-XL.- Regular el alejamiento (sic), la explotación, uso o aprovechamiento de aguas residuales y las condiciones que deban satisfacer antes de descargarse en las redes colectoras, cuencas, cauces, vasos y demás depósitos y corrientes de agua, así como su infiltración en el subsuelo, para evitar la contaminación que ponga en peligro la salud pública o degrade los sistemas ecológicos, en coordinación con las Secretarías de Asentamientos Humanos y Obras Públicas y de Salubridad y Asistencia;
-
-XLI.- Levantar y mantener actualizado el inventario de recursos naturales, específicamente de agua, suelo y cubierta vegetal, así como los de población animal, y
-
-XLII.- Los demás que le fijen expresamente las leyes y reglamentos.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 36.
 
 A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-I.- Organizar y administrar los servicios de correos en todos sus aspectos;
+I.- Formular y conducir las políticas y programas para el desarrollo del transporte y las comunicaciones de acuerdo a las necesidades del país;
 
-II.- Administrar los servicios federales de comunicaciones eléctricas y electrónicas, y su enlace con los servicios similares públicos concesionados, con los servicios privados de teléfonos, telégrafos e inalámbricos y con los estatales y extranjeros;
+II.- Organizar y administrar los servicios de correos y telégrafos en todos sus aspectos y conducir la administración de los servicios federales de comunicaciones eléctricas y electrónicas y su enlace con los servicios similares públicos concesionados, con los servicios privados de teléfonos, telégrafos e inalámbricos y con los estatales y extranjeros; así como la del servicio público de procesamiento remoto de datos;
 
-III.- Otorgar concesiones y permisos para establecer y explotar sistemas y servicios telegráficos, telefónicos y cablegráficos, sistemas de comunicación inalámbrica, estaciones radioexperimentales, culturales y de aficionados y estaciones de radiodifusión, comerciales y culturales, así como vigilar el aspecto técnico del funcionamiento de tales sistemas, servicios y estaciones;
+III.- Otorgar concesiones y permisos previa opinión de la Secretaría de Gobernación, para establecer y explotar sistemas y servicios telegráficos, telefónicos, sistemas y servicios de comunicación inalámbrica por telecomunicaciones y satélites, de servicio público de procesamiento remoto de datos, estaciones radio experimentales, culturales y de aficionados y estaciones de radiodifusión comerciales y culturales; así como vigilar el aspecto técnico del funcionamiento de tales sistemas, servicios y estaciones;
 
-IV.- El otorgamiento de concesiones y permisos para establecer y operar líneas aéreas y comerciales en la República, y la vigilancia técnica y de su funcionamiento y operación;
+IV.- Otorgar concesiones y permisos para establecer y operar servicios aéreos en el territorio nacional, fomentar, regular y vigilar su funcionamiento y operación, así como negociar convenios para la prestación de servicios aéreos internacionales;
 
-V.- Otorgar permisos y negociar convenios para la operación de líneas aéreas internacionales;
+V.- Regular y vigilar la administración de los aeropuertos nacionales, conceder permisos para la construcción de aeropuertos particulares y vigilar su operación;
 
-VI.- Otorgar permisos para el uso de aviones particulares;
+VI.- Administrar la operación de los servicios de control de tránsito, así como de información y seguridad de la navegación aérea;
 
-VII.- Administrar los aeropuertos nacionales y la concesión de permisos para la construcción de aeropuertos particulares y la vigilancia de éstos;
+VII.- Construir las vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles, y la vigilancia técnica de su funcionamiento y operación;
 
-VIII.- Organizar trabajos y servicios meteorológicos de acuerdo con los últimos adelantos científicos, destinados a la información y seguridad de la navegación aérea en la República;
+VIII.- Regular y vigilar la administración del sistema ferroviario;
 
-IX.- Construir las vías férreas de carácter federal y otorgar concesiones para el establecimiento y explotación de ferrocarriles, y la vigilancia técnica de su funcionamiento y operación;
+IX.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras federales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
 
-X.- Administrar los ferrocarriles federales, no encomendados a organismos descentralizados;
+X.- Realizar la vigilancia en general y el servicio de policía en las carreteras federales;
 
-XI.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras nacionales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
+XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
-XII.- Realizar la vigilancia en general y el servicio de policía en las carreteras nacionales;
+XII.- Fijar normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes y las tarifas para el cobro de los mismos, así como otorgar concesiones y permisos y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con los transportes o las comunicaciones; y participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes;
 
-XIII.- Intervenir en los convenios para la construcción y explotación de los puentes internacionales;
+XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
-XIV.- Fijar normas técnicas del funcionamiento y operación de los transportes y las tarifas para el cobro de los servicios públicos de las comunicaciones y de los transportes terrestres, aéreos y marítimos; así como otorgar concesiones y permisos y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con los transportes o las comunicaciones;
+XIV.- Regular, promover y organizar la marina mercante;
 
-XV.- Asesorar a la Secretaría de Asentamientos Humanos y Obras Públicas para la formulación de los programas anuales de construcción, de obras de comunicación, caminos, aeropuertos, estaciones y centrales de autotransportes de concesión federal;
+XV.- Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, marina mercante, servicios públicos de transporte terrestre y de telecomunicaciones, así como conceder las licencias y autorizaciones respectivas;
 
-XVI.- Determinar los requisitos que deban cumplir los operadores de las naves aéreas y el personal de tripulación para entrar y mantenerse en servicio, así como otorgar las licencias, permisos y autorizaciones respectivas;
+XVI.- Regular las comunicaciones y transportes por agua;
 
-XVII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
+XVII.- Inspeccionar los servicios de la marina mercante;
 
-XVIII.- Intervenir en la promoción y organización de la marina mercante;
+XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado, instalar el señalamiento marítimo y proporcionar los servicios de información y seguridad para la navegación marítima;
 
-XIX.- Establecer los requisitos que deban satisfacer los mandos y las tripulaciones de las naves mercantes, así como conceder las licencias y autorizaciones respectivas;
+XIX.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
 
-XX.- Intervenir en todos los problemas relacionados con las comunicaciones y transportes por agua;
+XX.- Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
 
-XXI.- Inspeccionar los servicios de la marina mercante;
+XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
 
-XXII.- Construir, reconstruir y conservar las obras portuarias e intervenir en todo lo relacionado con faros y señales marítimas;
+XXII.- Construir y conservar caminos y puentes, en cooperación con los gobiernos de las entidades federativas, con los municipios y los particulares;
 
-XXIII.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación, para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
+XXIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
 
-XXIV.- Los demás que expresamente le fijen las leyes y reglamentos.
+XXIV.- Otorgar concesiones o permisos para construir las obras que le corresponda ejecutar;
+
+XXV.- Cuidar en apoyo de la Secretaría de Desarrollo Urbano y Ecología de los aspectos ecológicos en los derechos de vía de las vías federales de comunicación;
+
+XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y transportes, y
+
+XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 37.
 
-A la Secretaría de Asentamientos Humanos y Obras Públicas corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano y Ecología corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir la política general de asentamientos humanos del país;
+I.- Formular y conducir las políticas generales de asentamientos humanos, urbanismo, vivienda y ecología;
 
-II.- Planear la distribución de la población y la ordenación del territorio nacional;
+II.- Proyectar la distribución de la población y la ordenación territorial de los centros de población, conjuntamente con las dependencias y entidades del Ejecutivo Federal que corresponda, así como coordinar las acciones que el Ejecutivo Federal convenga con los Ejecutivos locales para la realización de acciones coincidentes en esta materia, con la participación de los sectores social y privado;
 
-III.- Promover el desarrollo de la comunidad;
+III.- Promover el desarrollo urbano de la comunidad y fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+IV.- Promover el desarrollo de programas de vivienda y urbanismo; y apoyar a las autoridades estatales y municipales en su ejecución;
 
-IV.- Promover, formular y conducir los programas de vivienda y de urbanismo y establecer su normatividad técnica y administrativa;
+V.- Fomentar el desarrollo de los sistemas de agua potable, drenaje y alcantarillado en los centros de población; y apoyar técnicamente a las autoridades locales en su proyección, construcción, administración, operación y conservación, a partir de los sitios determinados con la Secretaría de Agricultura y Recursos Hidráulicos;
 
-V.- Proyectar, construir, administrar, operar y conservar los sistemas de agua potable, drenaje y alcantarillado en los centros de población, a partir de los sitios convenidos con la Secretaría de Agricultura y Recursos Hidráulicos;
+VI.- Determinar y conducir la política inmobiliaria de la Administración Pública Federal; dictar normas técnicas, autorizar y, en su caso, realizar la construcción, reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y las demás que realice la Federación por sí o en cooperación con otros países, con los estados y municipios o con los particulares, excepto las encomendadas expresamente por la Ley a otras dependencias;
 
-VI.- Construir, reconstruir y conservar los edificios públicos, monumentos y todas las obras de ornato realizadas por la Federación, excepto las encomendadas expresamente por la Ley a otras dependencias;
+VII.- Poseer, vigilar, conservar o administrar los inmuebles de propiedad federal destinados o no a un servicio público, o a fines de interés social o general, cuando no estén encomendados a las dependencias usufructuarias, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la Ley, y las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Federal;
 
-VII.- Proyectar, realizar directamente o contratar y vigilar en su caso, en todo o en parte, la construcción de las obras públicas, de fomento o interés general, que emprenda el Gobierno Federal, por sí o en cooperación con otros países, con los Estados de la Federación, con los Municipios o con los particulares, y que no se encomienden expresamente a otras dependencias;
+VIII.- Preveer a nivel nacional las necesidades de tierra para vivienda y para el desarrollo urbano, y regular en coordinación con los Gobiernos de los Estados y Municipios el sistema tendiente a satisfacer dichas necesidades;
 
-VIII.- Poseer, vigilar, conservar o administrar los inmuebles de propiedad federal destinados o no a un servicio público, o a fines de interés social o general, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la ley, y las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Federal;
+IX.- Organizar y administrar los parques nacionales;
 
-IX.- Establecer las bases y normas y, en su caso, intervenir para la celebración de contratos de construcción y conservación de obras federales o de las que señala este artículo, o asesorar a la dependencia a que corresponda expresamente la obra;
+X.- Proyectar las normas y, en su caso, celebrar los contratos relativos al mejor uso, explotación o aprovechamiento de los bienes federales, especialmente para fines de beneficio social;
 
-X.- Construir y conservar los caminos y puentes federales, incluso los internacionales;
+XI.- Ejercer la posesión de la nación en las playas y zona marítimo terrestre y administrarlas en los términos de Ley;
 
-XI.- Construir y conservar caminos y puentes, en cooperación con los gobiernos de las entidades federativas, con los Municipios y los particulares;
+XII.- Regular y, en su caso, representar el interés de la Federación en la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal Centralizada y Paraestatal; así como determinar normas y procedimientos para la formulación de inventarios y la realización de avalúos de dichos bienes;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+XIII.- Mantener al corriente el avalúo de los bienes inmuebles nacionales y reunir, revisar y determinar las normas y procedimientos para realizarlo;
 
-XII.- Prever a nivel nacional las necesidades de tierra para vivienda y para el desarrollo urbano, y administrar el sistema tendiente a satisfacer dichas necesidades;
+XIV.- Tener a su cargo el registro de la propiedad federal, y elaborar y manejar el inventario general de los bienes de la Nación;
 
-XIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
+XV.- Formular y conducir la política de saneamiento ambiental, en coordinación con la Secretaría de Salubridad y Asistencia;
 
-XIV.- Otorgar concesiones o permisos para construir obras que le corresponda ejecutar;
+XVI.- Establecer los criterios ecológicos para el uso y destino de los recursos naturales y para preservar la calidad del medio ambiente;
 
-XV.- Organizar y administrar los parques nacionales;
+XVII.- Determinar las normas que aseguren la conservación de los ecosistemas fundamentales para el desarrollo de la comunidad.
 
-XVI.- Proyectar las normas y, en su caso, celebrar los contratos relativos al mejor uso, explotación o aprovechamiento de los bienes federales, especialmente para fines de beneficio social;
+XVIII.- Vigilar en coordinación con las autoridades federales, estatales y municipales la aplicación de las normas y programas que establezca para la protección o restitución de los sistemas ecológicos del país;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+XIX.- Normar el aprovechamiento racional de la flora y fauna silvestres, con el propósito de conservarlos y desarrollarlos;
 
-XVII.- Ejercer la posesión de la nación en las playas y zona marítimo terrestre y administrarlas en los términos de Ley;
+XX.- Decretar las vedas forestales y de caza; otorgar contratos, concesiones y permisos de caza o de explotación cinegética; y organizar y manejar la vigilancia forestal y de caza;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+XXI.- Organizar y administrar reservas de flora y fauna terrestres, parques zoológicos, jardines botánicos y colecciones forestales;
 
-XVIII.- Intervenir en la adquisición, enajenación, destino o afectación de los bienes inmuebles de la administración Pública Federal, Centralizada y Paraestatal; así como determinar normas y procedimientos para la formulación de inventarios y la realización de avalúos de dichos bienes;
+XXII.- Hacer exploraciones y recolecciones científicas de la flora y de la fauna terrestres;
 
-XIX.- Mantener al corriente el avalúo de los bienes inmuebles nacionales y reunir, revisar y determinar las normas y procedimientos para realizarlo;
+XXIII.- Fomentar y distribuir colecciones de los elementos de la flora y de la fauna terrestres;
 
-XX.- Tener a su cargo el registro de la propiedad federal, y elaborar y manejar el inventario general de los bienes de la nación;
+XXIV.- Cuidar de las arboledas y demás vegetación, con la cooperación de las autoridades federales y locales competentes, así como llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
 
-XXI.- Cuidar de las arboledas de alineación de las vías de comunicación, así como de las arboledas y demás vegetación en centros poblados y sus contornos, con la cooperación de las autoridades locales;
+XXV.- Regular el alejamiento, la explotación, uso o aprovechamiento de aguas residuales y las condiciones que deban satisfacerse antes de descargarse en las redes colectoras, cuencas, cauces, vasos y demás depósitos y corrientes de agua; así como su infiltración en el subsuelo, para evitar la contaminación que ponga en peligro la salud pública o degrade los sistemas ecológicos, en coordinación con las Secretarías de Agricultura y Recursos Hidráulicos y de Salubridad y Asistencia;
 
-XXII.- Los demás que le encomienden expresamente las leyes y reglamentos.
+XXVI.- Organizar y fomentar las investigaciones relacionadas con la vivienda, desarrollo urbano y ecología;
+
+XXVII.- Conservar y fomentar el desarrollo de la flora y fauna marítimas, fluviales y lacustres;
+
+XXVIII.- Establecer viveros, criaderos y reservas de especies acuáticas, y
+
+XXIX.- Los demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 38.
 
@@ -820,7 +894,9 @@ IX.- Patrocinar la realización de congresos, asambleas y reuniones, eventos, co
 
 X.- Fomentar las relaciones de orden cultural con los países extranjeros, con la colaboración de la Secretaría de Relaciones Exteriores;
 
-XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Programación y Presupuesto sobre el sistema general de administración y desarrollo de personal;
 
 XII.- Organizar, controlar y mantener al corriente el registro de la propiedad literaria y artística;
 
@@ -856,7 +932,9 @@ XXVII.- Organizar, promover y supervisar programas de capacitación y adiestrami
 
 XXVIII.- Orientar las actividades artísticas, culturales, recreativas y deportivas que realice el sector público federal;
 
-XXIX.- Promover la producción cinematográfica, de radio y televisión y la industria editorial;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXIX.- Establecer los criterios educativos y culturales en la producción cinematográfica, de radio y televisión y en la industria editorial;
 
 XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centro de estudio, programas de recreación y de atención a los problemas de los jóvenes. Crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran, y
 
@@ -866,9 +944,13 @@ XXXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
 A la Secretaría de Salubridad y Asistencia corresponde el despacho de los siguientes asuntos:
 
-I.- Crear y administrar establecimientos de salubridad, de asistencia pública y de terapia social en cualquier lugar del territorio nacional;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-II.- Organizar la asistencia pública en el Distrito Federal;
+I.- Establecer y conducir la política nacional en materia de asistencia social, servicios médicos y salubridad general, con excepción de lo relativo al saneamiento del ambiente; y coordinar los programas de servicios a la salud de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+II.- Crear y administrar establecimientos de salubridad, de asistencia pública y de terapia social en cualquier lugar del territorio nacional y organizar la asistencia pública en el Distrito Federal;
 
 III.- Aplicar a la beneficencia pública los fondos que le proporcione la Lotería Nacional;
 
@@ -876,9 +958,11 @@ IV.- Organizar y vigilar las instituciones de beneficencia privada, en los térm
 
 V.- Administrar los bienes y fondos que el Gobierno Federal destine para la atención de los servicios de asistencia pública;
 
-VI.- Planear y conducir la política de saneamiento ambiental;
+VI.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1982)
 
-VII.- Impartir asistencia médica y social a la maternidad y a la infancia y vigilar la que se imparta por instituciones públicas o privadas;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+VII.- Normar, promover y apoyar la impartición de asistencia médica y social a la maternidad y la infancia y vigilar la que se imparta por instituciones públicas o privadas.
 
 VIII.- Regular la prevención social a niños hasta de seis años, ejerciendo sobre ellos la tutela que corresponda al Estado;
 
@@ -906,55 +990,65 @@ XIX.- Organizar congresos sanitarios y asistenciales;
 
 XX.- Prestar los servicios de su competencia, directamente o en coordinación con los Gobiernos de los Estados y del Distrito Federal;
 
-XXI.- Realizar la vigilancia sobre el cumplimiento del Código Sanitario de los Estados Unidos Mexicanos y de sus reglamentos, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-XXII.- Los demás que le fijen expresamente las leyes y reglamentos.
+XXI.- Actuar como autoridad sanitaria y vigilar el cumplimiento del Código Sanitario de los Estados Unidos Mexicanos y de sus Reglamentos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXII.- Establecer las normas que deben orientar los servicios de asistencia social que presten las dependencias y entidades federales y proveer a su cumplimiento, y
+
+XXIII.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 40.
 
 A la Secretaría del Trabajo y Previsión Social corresponde el despacho de los siguientes asuntos:
 
-I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el Artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
+I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
 
 II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales relativas;
 
-III.- Intervenir en los contratos de trabajo de los nacionales que vayan a prestar sus servicios en el extranjero, en cooperación con las Secretarías de Gobernación, Patrimonio y Fomento Industrial, Comercio y Relaciones Exteriores;
+III.- Intervenir en los contratos de trabajo de los nacionales que vayan a prestar sus servicios en el extranjero, en cooperación con las Secretarías de Gobernación, de Comercio y Fomento Industrial y de Relaciones Exteriores;
 
-IV.- Intervenir en la formulación y promulgación de los contratos-ley de trabajo;
+IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
 
-V.- Elevar la productividad del trabajo, en coordinación con la Secretaría de Educación Pública;
+V.- Promover el incremento de la productividad del trabajo;
 
 VI.- Promover el desarrollo de la capacitación para el trabajo y la investigación sobre la materia, en coordinación con la Secretaría de Educación Pública;
 
-VII.- Establecer el servicio nacional de empleo y vigilar su funcionamiento;
+VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
 
-VIII.- Vigilar el funcionamiento administrativo de las Juntas Federales de Conciliación y de la Federal de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción federal;
+VIII.- Coordinar la integración y establecimiento de las Juntas Federales de Conciliación, de la Federal de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción federal, así como vigilar su funcionamiento;
 
 IX.- Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción federal que se ajusten a las leyes;
 
-X.- Intervenir en la organización, registro y vigilancia de toda clase de sociedades cooperativas;
+X.- Promover la organización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo, en coordinación con las dependencias competentes, así como resolver, tramitar y registrar su constitución, disolución y liquidación;
 
-XI.- Estudiar y ordenar las medidas de seguridad e higiene industriales para la protección de los trabajadores, y vigilar su cumplimiento.
+XI.- Estudiar y ordenar las medidas de seguridad e higiene industriales, para la protección de los trabajadores, y vigilar su cumplimiento;
 
-XII.- Manejar la Procuraduría Federal de la Defensa del Trabajo;
+XII.- Dirigir y coordinar la Procuraduría Federal de la Defensa del Trabajo;
 
 XIII.- Organizar y patrocinar exposiciones y museos de trabajo y previsión social;
 
-XIV.- Intervenir en los congresos y reuniones internacionales de trabajo, de acuerdo con la Secretaría de Relaciones Exteriores;
+XIV.- Participar en los congresos y reuniones internacionales de trabajo, de acuerdo con la Secretaría de Relaciones Exteriores;
 
 XV.- Llevar las estadísticas generales correspondientes a la materia del trabajo, de acuerdo con las disposiciones que establezca la Secretaría de Programación y Presupuesto;
 
-XVI.- Intervenir en los asuntos relacionados con el seguro social,
+XVI.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Federal, así como intervenir en los asuntos relacionados con el seguro social en los términos de la Ley;
 
-XVII.- Estudiar y proyectar planes para impulsar la ocupación en el país, y
+XVII.- Estudiar y proyectar planes para impulsar la ocupación en el país;
 
 XVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 41.
 
-A la Secretaría de la Reforma Agraria, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de la Reforma Agraria corresponde el despacho de los siguientes asuntos:
 
-I.- Aplicar los preceptos agrarios del Artículo 27 Constitucional así como las leyes agrarias y sus reglamentos;
+I.- Aplicar los preceptos agrarios del artículo 27 constitucional, así como las leyes agrarias y sus reglamentos;
 
 II.- Conceder o ampliar en términos de ley, las dotaciones o restituciones de tierra y aguas a los núcleos de población rural;
 
@@ -962,93 +1056,113 @@ III.- Crear nuevos centros de población agrícola y dotarlos de tierras y aguas
 
 IV.- Intervenir en la titulación y el parcelamiento ejidal;
 
-V.- Hacer y tener al corriente el Registro Agrario Nacional, así como el catastro de las propiedades ejidales, comunales e inafectables,
+V.- Hacer y tener al corriente el Registro Agrario Nacional, así como el catastro de las propiedades ejidales, comunales e inafectables;
 
 VI.- Conocer de las cuestiones relativas a límites y deslinde de tierras ejidales y comunales;
 
 VII.- Hacer el reconocimiento y titulación de las tierras y aguas comunales de los pueblos;
 
-VIII.- Intervenir en las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales en lo que no corresponda a otras entidades u organismos;
+VIII.- Resolver conforme a la ley las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, en lo que no corresponda a otras dependencias o entidades, con la participación de las autoridades estatales y municipales;
 
 IX.- Cooperar con las autoridades competentes a la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades;
 
-X.- Organizar los ejidos con objeto de lograr un mejor aprovechamiento de sus recursos agrícolas y ganaderos, con la cooperación del Banco Nacional de Crédito Rural y de la Secretaría de Agricultura y Recursos Hidráulicos;
+X.- Proyectar los programas generales y concretos de colonización ejidal, para realizarlos, promoviendo el mejoramiento de la población rural y, en especial, de la población ejidal excedente, escuchando la opinión de la Secretaría de Desarrollo Urbano y Ecología;
 
-XI.- Promover el desarrollo de la industria rural ejidal y las actividades productivas complementarias o accesorias al cultivo de la tierra;
+XI.- Manejar los terrenos baldíos, nacionales y demasías;
 
-XII.- Proyectar los planes generales y concretos de colonización ejidal, para realizarlos, promoviendo el mejoramiento de la población rural y, en especial, de la población ejidal excedente, escuchando la opinión de la Secretaría de Asentamientos Humanos y Obras Públicas;
+XII.- Ejecutar las resoluciones y acuerdos que dicte el Presidente de la República en materia agraria, así como resolver los asuntos correspondientes a la organización agraria ejidal, y
 
-XIII.- Manejar los terrenos baldíos, nacionales y demasías, y
+XIII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
-XIV.- Los demás que le fijen expresamente las leyes y reglamentos.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 42.
 
 A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
 
-I.- Formular la programación de la actividad turística nacional y organizar, coordinar, vigilar y fomentar su desarrollo;
+I.- Formular y conducir la política de desarrollo de la actividad turística nacional;
 
-II.- Promover en coordinación con las entidades federativas las zonas de desarrollo turístico nacional y formular en forma conjunta con la Secretaría de Asentamientos Humanos y Obras Públicas la declaratoria respectiva;
+II.- Promover en coordinación con las entidades federativas las zonas de desarrollo turístico nacional y formular en forma conjunta con la Secretaría de Desarrollo Urbano y Ecología la declaratoria respectiva;
 
 III.- Participar con voz y voto en las comisiones Consultiva de Tarifas y la Técnica Consultiva de Vías Generales de Comunicación;
 
-IV.- Registrar a los prestadores de servicios turísticos y los precios de los alimentos y bebidas, en los términos señalados por las leyes;
+IV.- Registrar a los prestadores de servicios turísticos, en los términos señalados por las leyes;
 
-V.- Promover, conferir o intervenir en el otorgamiento de facilidades, estímulos y franquicias a los prestadores de servicios turísticos;
+V.- Promover y opinar el otorgamiento de facilidades y franquicias a los prestadores de servicios turísticos y participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales necesarios para el fomento a la actividad turística, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-VI.- Autorizar los precios y tarifas de los servicios turísticos y los de arrendamiento al público de bienes muebles destinados al turismo, en los términos que establezcan las leyes y reglamentos, tanto de los bienes y servicios principales como de los conexos;
+VI.- Autorizar los precios y tarifas de los servicios turísticos, previamente registrados, en los términos que establezcan las leyes y reglamentos; y participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal;
 
-VII.- Controlar y vigilar la correcta aplicación de los precios o las tarifas autorizadas o registradas y que la prestación de los servicios turísticos se proporcione conforme a las disposiciones legales aplicables en los términos autorizados o en la forma que se hayan contratado;
+VII.- Vigilar con el apoyo de las autoridades estatales y municipales, la correcta aplicación de los precios y tarifas autorizados o registrados y la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables, en los términos autorizados o en la forma en que se hayan contratado;
 
 VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
 
-IX.- Emitir opinión ante las autoridades competentes en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos;
+IX.- Emitir opinión ante la Secretaría de Comercio y Fomento Industrial, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos;
 
-X.- Programar, organizar, coordinar, vigilar y ejecutar en su caso, las medidas de protección y fomento al turismo con las Secretarías de Estado y Departamentos Administrativos, organismos descentralizados, empresas de participación estatal, comités técnicos de fideicomiso turísticos, autoridades estatales y municipales, para que, en el campo de sus respectivas funciones o atribuciones, se cumplan los planes oficiales para las zonas de desarrollo turístico;
+X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales;
 
-XI.- Celebrar convenios con fines de promoción y de funcionamiento de servicios turísticos, en coordinación con la Secretaría de Programación y Presupuesto, con los Gobiernos de los Estados y Municipios;
+XI.- Promover y facilitar el intercambio y desarrollo turístico en el exterior, en coordinación con la Secretaría de Relaciones Exteriores;
 
-XII.- Gestionar la celebración de convenios con otros gobiernos, organismos internacionales y empresas extranjeras, que tengan por objeto promover y facilitar el intercambio y desarrollo turístico, con intervención de la Secretaría de Relaciones Exteriores y otras dependencias competentes, en su caso;
+XII.- Promover, y en su caso, organizar en coordinación con la Secretaría de Educación Pública, la capacitación, investigación y el desarrollo tecnológico en materia turística;
 
-XIII.- Crear, sostener, autorizar, dirigir, fomentar o promover en coordinación con la Secretaría de Educación Pública, escuelas y centros de capacitación especializados, para prestar servicios en materia turística;
+XIII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que en esta materia efectúen las entidades del gobierno federal, las autoridades estatales y municipales y promover la que efectúan los sectores social y privado;
 
-XIV.- Realizar y proporcionar, en su caso, la publicidad e información oficiales en materia de turismo y coordinar la que efectúen otras entidades del Gobierno Federal y Gobierno de los Estados y Municipios;
+XIV.- Promover, coordinar, y en su caso, organizar los espectáculos, congresos, excursiones, audiciones, representaciones y otros eventos tradicionales y folklóricos de carácter oficial, para atracción turística;
 
-XV.- Organizar, promover, dirigir, realizar y coordinar, en su caso, los espectáculos, congresos, excursiones, audiciones, representaciones y otros eventos tradicionales y folclóricos de carácter oficial, para atracción turística;
+XV.- Fijar y en su caso, modificar las categorías de los prestadores de servicios turísticos por ramas;
 
-XVI.- Fijar y en su caso modificar las categorías de los prestadores de servicios turísticos;
+XVI.- Autorizar los reglamentos interiores de los establecimientos de servicios al turismo;
 
-XVII.- Autorizar los reglamentos interiores de los establecimientos de hospedaje;
+XVII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Programación y Presupuesto;
 
-XVIII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Programación y Presupuesto, y
+XVIII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos;
 
-XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
+XIX.- Proyectar, promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1982)</small>
+XX.- Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento y violación de las disposiciones en materia turística, y
+
+XXI.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 43.
 
 A la Secretaría de Pesca corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir la política pesquera del país;
+I.- Formular y conducir la política pesquera del País;
 
-II.- Conservar y fomentar el desarrollo de la flora y fauna marítimas, fluviales y lacustres; así como planear, fomentar y asesorar la explotación y producción pesquera en todos sus aspectos;
+II.- Programar, fomentar y asesorar técnicamente la producción y explotación pesquera en todos sus aspectos;
 
-III.- Otorgar contratos, concesiones y permisos para la explotación de la flora y fauna acuáticas;
+III.- Participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la actividad pesquera; y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-IV.- Fijar las épocas y zonas de veda de las especies acuáticas y establecer viveros, criaderos y reservas, así como organizar y fomentar la investigación sobre la flora y fauna marítimas, fluviales y lacustres y difundir los métodos y procedimientos técnicos destinados a obtener mejor rendimiento de la piscicultura;
+IV.- Otorgar contratos, concesiones, permisos y autorizaciones para la explotación de la flora y fauna acuáticas;
 
-V.- Realizar actividades de acuacultura;
+V.- Determinar las épocas y zonas de veda de las especies acuáticas, en coordinación con la Secretaría de Desarrollo Urbano y Ecología;
 
-VI.- Intervenir en la formación y organización de la flota pesquera y coordinar la construcción de embarcaciones pesqueras;
+VI.- Organizar y fomentar la investigación sobre la actividad pesquera y promover el establecimiento de centros o institutos de capacitación pesquera;
 
-VII.- Fomentar la organización de las sociedades cooperativas de producción pesquera y las sociedades, asociaciones y uniones de pescadores;
+VII.- Definir, aplicar y difundir los métodos y procedimientos técnicos destinados a obtener rendimiento de la piscicultura;
 
-VIII.- Promover la industrialización de los productos pesqueros y el establecimiento de empacadoras y frigoríficos;
+VIII.- Realizar actividades y autorizar lo referente a acuacultura;
 
-IX.- Coadyuvar con la Secretaría de Comercio en el fomento al consumo de productos pesqueros;
+IX.- Regular la formación y organización de la flota pesquera, así como promover la construcción de embarcaciones pesqueras;
 
-X.- Los demás que le encomienden expresamente las leyes y reglamentos.
+X.- Fomentar la organización de las sociedades cooperativas de producción pesquera y las sociedades, asociaciones y uniones de pescadores;
+
+XI.- Promover en coordinación con la Secretaría de Comercio y Fomento Industrial, la industrialización de los productos pesqueros y el establecimiento de las plantas e instalaciones industriales;
+
+XII.- Apoyar a la Secretaría de Comercio y Fomento Industrial en la promoción del consumo humano de productos pesqueros, el abastecimiento de materias primas a las industrias nacionales, y en su distribución;
+
+XIII.- Regular la pesca en lo relacionado con el número, condición y capacidad del personal pesquero;
+
+XIV.- Promover la creación de zonas portuarias reservadas para la instalación de terminales pesqueras y actividades conexas;
+
+XV.- Apoyar técnicamente a la Secretaría de Comercio y Fomento Industrial en las exportaciones e importaciones de las especies de la flora y la fauna acuáticas;
+
+XVI.- Cuantificar y evaluar las especies de la flora y fauna cuyo medio de vida sea el agua;
+
+XVII.- Proponer ante la Secretaría de Relaciones Exteriores la celebración de convenios y tratados internacionales relativos al recurso pesca, y
+
+XVIII.- Los demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 44.
 
@@ -1082,13 +1196,15 @@ c) Que al Gobierno Federal corresponda la facultad de nombrar a la mayoría de l
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de las mencionadas en el inciso a) del artículo anterior, o alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 48.
 
-Para los efectos de esta ley, serán empresas de participación estatal minoritaria las sociedades en las que uno o más organismos descentralizados u otra, u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes de capital que representen menos del 50% y hasta el 25% de aquél.
+Para los efectos de esta Ley, serán empresas de participación estatal minoritaria las sociedades en las que uno o más organismos descentralizados u otra, u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes de capital que representen menos del 50% y hasta el 25% de aquél.
 
-La vigilancia de la participación estatal estará a cargo de un comisario designado por el Secretario de Estado o Jefe del Departamento Administrativo encargado de la coordinación del sector correspondiente.
+La vigilancia de la participación estatal estará a cargo de un Comisario designado por el Titular de la Secretaría coordinadora del sector correspondiente, escuchando la opinión del Secretario de la Contraloría General de la Federación.
 
-Las relaciones de las empresas de participación estatal minoritaria con la administración pública federal, serán las que determine la ley.
+Las relaciones de las empresas de participación estatal minoritaria con la Administración Pública Federal, serán las que determine la Ley.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
 
@@ -1098,17 +1214,25 @@ Los fideicomisos a que se refiere esta Ley serán los establecidos por la Admini
 
 La Secretaría de Programación y Presupuesto representará como fideicomitente único a la Administración Pública Centralizada, en los fideicomisos que ésta constituya.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 50.
 
-El Presidente de la República estará facultado para determinar agrupamientos de entidades de la administración pública paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo Federal, en cumplimiento de las disposiciones legales aplicables, se realicen a través de la Secretaría de Estado o Departamento Administrativo que en cada caso designe como coordinador del sector correspondiente.
+El Presidente de la República estará facultado para determinar agrupamientos de entidades de la Administración Pública Paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo Federal en cumplimiento de las disposiciones legales aplicables, se realicen a través de la Secretaría de Estado o Departamento Administrativo que en cada caso designe como coordinador del sector correspondiente.
+
+Las Secretarías de Estado o Departamentos Administrativos organizarán a las entidades paraestatales bajo su coordinación, agrupándolas en subsectores cuando convenga, atendiendo a la naturaleza de sus actividades.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 51.
 
-Corresponderá a las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación de los sectores a que se refiere el artículo anterior, planear, coordinar y evaluar la operación de las entidades de la administración paraestatal que determine el Ejecutivo Federal.
+Corresponderá a las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación de los sectores a que se refiere el artículo anterior; conducir la programación, coordinar y evaluar la operación de las entidades de la Administración Paraestatal que determine el Ejecutivo Federal.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 52.
 
-Cuando los nombramientos de presidente o miembros de los consejos, juntas directivas o equivalentes en las entidades de la administración pública paraestatal, correspondan al Gobierno Federal y sus dependencias, el Presidente de la República podrá designar a los funcionarios que proceda.
+Cuando los nombramientos de Presidente o miembros de los consejos, juntas directivas o equivalentes, en las entidades de la Administración Pública Paraestatal, correspondan al Gobierno Federal y sus dependencias, el Presidente de la República dará a los coordinadores de sector las bases para la designación de los funcionarios que proceda.
 
 ###### ARTICULO 53.
 
@@ -1117,6 +1241,18 @@ El Ejecutivo Federal, en los casos que proceda, determinará qué funcionarios h
 ###### ARTICULO 54.
 
 Las entidades de la administración pública paraestatal deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que le soliciten.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 55.
+
+Los consejos de administración, juntas directivas o equivalentes, serán responsables de la programación estratégica y de la supervisión de la marcha normal de las entidades del sector paraestatal; los coordinadores de sector podrán, cuando lo juzguen necesario establecer comités técnicos especializados dependientes de los consejos de administración, con funciones de apoyo en el desarrollo de estas actividades.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 56.
+
+Corresponde a los Coordinadores de Sector promover el establecimiento y la vigilancia del funcionamiento de comités mixtos de productividad en las entidades de la Administración Pública Federal, con la participación de representantes de los trabajadores y de la administración de la entidad que atenderán problemas de administración y organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
 
 ## TRANSITORIOS
 
@@ -1165,3 +1301,19 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 CUARTO.- Las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto, en la esfera de sus atribuciones, realizarán los actos que sean necesarios a efecto de que esta última represente, como fideicomitente, a la administración pública centralizada en los fideicomisos constituidos con anterioridad a la entrada en vigor del presente Decreto.
 
 Los recursos humanos, materiales y financieros, así como los archivos y, en general, el equipo que la Secretaría de Hacienda y Crédito Público haya venido utilizando en el desempeño de las funciones de fideicomitente único de la administración pública centralizada, pasarán a la Secretaría de Programación y Presupuesto, dentro del plazo de 60 días contados a partir de la fecha de entrada en vigor del presente Decreto. La propia Secretaría de Programación y Presupuesto tramitará las transferencias presupuestales procedentes, y proveerá lo necesario a fin de que el personal que sea transferido mantenga sus derechos adquiridos.
+
+D.O.F. 29 DE DICIEMBRE DE 1982.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1983.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+TERCERO.- En los casos de las atribuciones de las Secretarías, que conforme a este Decreto pasen a otra dependencia, el traspaso deberá efectuarse incluyendo al personal a su servicio, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para la atención de las atribuciones de que se trate.
+
+CUARTO.- El personal de las dependencias que en virtud de lo dispuesto por el presente Decreto pase a otra dependencia, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado por la aplicación de este Decreto, se dará intervención, previamente, a la Comisión de Recursos Humanos del Gobierno Federal, a la Federación de Sindicatos de Trabajadores al Servicio del Estado y el Sindicato correspondiente.
+
+QUINTO.- Los asuntos que con motivo de este Decreto deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+SEXTO.- Cuando en los términos del presente Decreto se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas con anterioridad, dichas atribuciones se entenderán concedidas a la dependencia que determine este Decreto y demás disposiciones relativas.
+
+SEPTIMO.- El Ejecutivo Federal continuará los fincamientos de responsabilidades en proceso y los que se inicien por hechos consumados con anterioridad a la publicación de estas modificaciones, por conducto de la Secretaría de la Contraloría General de la Federación y que resulten de la revisión que le compete independientemente de la fecha en que se descubran o comprueben.
