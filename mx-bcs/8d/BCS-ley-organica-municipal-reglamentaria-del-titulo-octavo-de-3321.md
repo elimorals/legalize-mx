@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1986-12-20"
+last_updated: "1987-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE MAYO DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -365,13 +365,13 @@ XVIII. Proveer lo necesario para que las oficinas de Catastro y Registro Públic
 
 XIX. Las demás disposiciones que les señala esta Ley y cualquier otro ordenamiento en vigor.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 1987)</small>
 
 ###### Artículo 27-A.
 
-Los nombramientos de Delegados deberán hacerse con la participación de los Ciudadanos de las respectivas jurisdicciones, mediante la celebración de Plebiscitos y de acuerdo a las normas que establezca la Convocatoria que para tal efecto expida el Ayuntamiento y que será publicada en la primera quincena del mes de Mayo del primer año de Gobierno Municipal, a efecto de que los Plebiscitos se desarrollen en la segunda quincena del mes de Mayo de ese mismo año.
+Los nombramientos de Delegados deben hacerse con la participación de los ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo a las normas que establezca la convocatoria que para tal efecto expida el Ayuntamiento. Por lo que a más tardar el segundo domingo de junio del primer año de Gobierno Municipal, los Ayuntamientos expedirán la convocatoria respectiva y celebrarán los plebiscitos.
 
-En dicha Convocatoria deberá establecerse el número de participantes elegibles, los requisitos de elegibilidad, el calendario de actividades electorales y las demás circunstancias y normas que el Ayuntamiento estime a que deba someterse la Elección correspondiente. El Ayuntamiento calificará los Plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, que surtirá sus efectos a partir del día primero de Junio.
+En dicha convocatoria deberá establecerse el número de participantes elegibles, los requisitos de elegibilidad, el calendario de actividades electorales y las demás circunstancias y normas que el Ayuntamiento estime a que deba someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos siete días después de la celebración del plebiscito.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
@@ -1344,3 +1344,13 @@ Por esta única ocasión, los Concejos Municipales rendirán su Informe del día
 ###### ARTICULO SEPTIMO.
 
 Los Delegados Municipales continuarán en su cargo, hasta el 15 de Febrero de 1987, fecha en que cumplirán su gestión para la que fueron electos. Los Concejos Municipales deberán designar por esta única vez, Delegados con carácter interino, que durarán en su encargo hasta la fecha en que entren en funciones los nuevos Delegados electos, en los términos del nuevo texto del Artículo 27-A.
+
+B.O. 14 DE MAYO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Los Delegados Municipales continuarán en su encargo en forma interina hasta la fecha en que entren en funciones los Delegados electos.
