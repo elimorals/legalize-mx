@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1998-02-18"
+last_updated: "1998-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1998.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -635,33 +635,71 @@ Son comisiones de dictamen legislativo las siguientes:
 
 I.- De Gobernación y Puntos Constitucionales;
 
-II.- De Justicia y Derechos Humanos;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-III.- De Educación Pública y Cultura;
+II.- De Programación, Presupuesto y Hacienda Pública;
 
-IV.- De Patrimonio y Hacienda;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+III.- De Educación Pública, Cultura Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+IV.- De Justicia y Derechos Humanos;
 
 > <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
 
 V.- De Obras y Servicios Públicos;
 
-VI.- De Salud y Ecología;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+VI.- De Protección Civil;
 
 VII.- De Trabajo y Previsión Social;
 
 VIII.- De Asuntos Indigenistas;
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
-IX.- De Desarrollo Socioeconómico;
+IX.- De Desarrollo Social;
 
-X.- De Asuntos Municipales;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+X.- De Desarrollo Municipal y Fortalecimiento del Federalismo;
 
 XI.- De Asuntos Fronterizos;
 
 > <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1995)</small>
 
 XII.- De Participación Ciudadana;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XIII.- De Desarrollo Rural;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XIV.- De Salud, Ecología y Medio Ambiente;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XV.- De Desarrollo Económico;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XVI.- De Juventud y Deporte;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XVII.- De Equidad, Género y Familia;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XVIII.- De Atención a Discapacitados y Grupos Vulnerables;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+XIX.- De Atención al Adulto Mayor.
 
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
@@ -719,7 +757,9 @@ El Congreso, contará como órganos de apoyo con los siguientes comités:
 
 I.- De Administración, y
 
-II.- De Biblioteca y Asuntos Editoriales.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+II.- De Biblioteca, Asuntos Editoriales e Informática.
 
 Los miembros de los comités serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria; se integrarán con tres miembros, tendrán las atribuciones que esta Ley les señala y además funcionarán durante todo el período de la Legislatura. Uno de los integrantes del Comité de Administración representará necesariamente a la primera minoría.
 
@@ -1482,3 +1522,7 @@ LIC. EDUARDO ROMERO RAMOS.
 P.O. 18 DE FEBRERO DE 1998.
 
 Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
