@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-ganadero-en-el-estado-de-durango-5028"
 country: "mx"
 rank: "ley"
 publication_date: "1971-07-11"
-last_updated: "1973-05-31"
+last_updated: "2002-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE FOMENTO GANADERO EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 1973.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GANADERA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 2 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 11 de julio de 1971.
 
@@ -1072,3 +1074,13 @@ El Gobernador Constitucional del Estado, ING. ALEJANDRO PAEZ URQUIDI.- EL SECRET
 P.O. 31 DE MAYO DE 1973.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 2 DE JUNIO DE 2002.
+
+PRIMERO.- Esta Ley entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Fomento Ganadero en el Estado de Durango, aprobada mediante Decreto No. 473, expedido por la LI Legislatura y publicada en los periódicos oficiales Nos. 4 y 5 de fecha 11 y 15 de julio de 1971 respectivamente.
+
+TERCERO.- En un plazo de 120 días después de su publicación, deberá expedirse el Reglamento de la presente Ley.
