@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2001-12-24"
+last_updated: "2002-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2002.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -776,17 +776,15 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntamiento se auxiliará de las siguientes dependencias de la administración pública municipal, mismas que estarán subordinadas al Presidente Municipal:
 
-I. PRESIDENCIA MUNICIPAL:
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2002)</small>
 
-Secretaría del Ayuntamiento y Dirección de Gobierno;
+I. PRESIDENCIA MUNICIPAL:
 
 Secretaría Particular;
 
 Comité para el Desarrollo Integral de la Familia;
 
-Dirección de Planeación;
-
-Dirección de Obras Públicas;
+Dirección de Obras Públicas y Desarrollo Urbano;
 
 Dirección de Desarrollo Social;
 
@@ -796,9 +794,7 @@ Dirección de Salud;
 
 Dirección de Comunicación y Promoción Social;
 
-Dirección de Seguridad Pública;
-
-Dirección de Tránsito y Vialidad;
+Dirección de Seguridad Pública, Tránsito y Vialidad;
 
 Dirección Jurídica;
 
@@ -810,7 +806,9 @@ Coordinación de Asesores;
 
 Coordinación Operativa;
 
-Coordinación Administrativa; y Delegaciones.
+Coordinación Administrativa; y
+
+Delegaciones.
 
 II. SECRETARIA DEL AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO:
 
@@ -14253,3 +14251,13 @@ Leobardo Valdez Alba
 COLABORADOR Y REALIZADOR,
 
 Lic. Carlos Alberto Vila Maciel.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MAYO DE 2002.
+
+PRIMERO.-El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la adecuación de las demás disposiciones legales, relativas a la fusión de las Dependencias mencionadas, se nombra una comisión legislativa, para que dentro del término de 90 días a partir de esta fecha, efectúe los trabajos mencionados.
+
+TERCERO.- Las disposiciones que no contraríen el sentido de la fusión, seguirán observándose.
