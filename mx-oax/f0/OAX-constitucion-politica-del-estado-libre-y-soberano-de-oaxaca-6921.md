@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1963-07-06"
+last_updated: "1969-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1969.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -1083,9 +1083,11 @@ Los bienes raíces de beneficiencia (sic) o instrucción pública que puedan con
 
 La infracción de éste y de los artículos 81, fracción IX y 108 de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o funcionarios que dispongan de dichos bienes, como los que reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quien quiera que sea su poseedor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1969)</small>
+
 ###### ARTICULO 156.
 
-Toda riqueza poseída por una o varias personas está obligada a contribuir a los gastos públicos del Estado con la parte proporcional que determinen las leyes: en consecuencia, en el Estado no habrá exención de impuestos ni prohibiciones a título de protección a la industria.
+Toda riqueza poseída por una o varias personas está obligada a contribuir a los gastos públicos del Estado con la parte proporcional que determinen las leyes.
 
 Se declaran revisables todos los contratos y concesiones hechos por los gobiernos anteriores desde el año de mil ochocientos setenta y dos, para ajustarlos al precepto del artículo 28 de la Constitución Federal y para la reglamentación de los servicios públicos en su caso. El Ejecutivo declarará la nulidad de los que impliquen grave perjuicio de interés general.
 
@@ -1576,3 +1578,7 @@ Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha
 P.O. 6 DE JULIO DE 1963.
 
 UNICO.- Una vez aprobadas las presentes reformas, entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ABRIL DE 1969.
+
+Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
