@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2002-10-02"
+last_updated: "2003-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -87,9 +87,11 @@ Se entiende por Deuda Pública Municipal, la que se deriva de las diferentes mod
 
 Para los efectos de esta Ley, es deuda directa del Estado la que contrate el Gobierno Estatal y deuda contingente son aquellas operaciones que realicen las entidades públicas a las que les hubiere concedido su aval. Es deuda directa de los Municipios, la que contraten por sí mismos y su deuda contingente serán las operaciones en las que hubieran otorgado su aval.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 10 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 7.
 
-La Secretaría de Hacienda, es la Dependencia del Ejecutivo Estatal facultada para aplicar e interpretar en el ámbito administrativo la presente ley, así como vigilar su debido cumplimiento.
+La Secretaría de Finanzas es la dependencia del Ejecutivo Estatal facultada para aplicar e interpretar en el ámbito legislativo la presente ley, así como vigilar su debido cumplimiento.
 
 Las disposiciones de esta ley se interpretarán aplicando cualquier método de interpretación jurídica y a falta de norma expresa, se aplicarán supletoriamente las disposiciones del derecho común.
 
@@ -97,9 +99,11 @@ Los titulares de las Entidades Públicas serán responsables del estricto cumpli
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANOS EN MATERIA DE DEUDA PUBLICA
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 8.
 
-Son órganos en materia de Deuda Pública dentro de sus respectivas competencias: El Congreso del Estado, el Ejecutivo del Estado, los Ayuntamientos, la Secretaría de Hacienda del Estado y el Comité Técnico de Financiamiento, cuyas funciones quedan señaladas en esta ley.
+Son órganos en materia de deuda pública dentro de sus respectivas competencias: el Congreso del Estado, el Ejecutivo del Estado, los Ayuntamientos, la Secretaría de Finanzas del Estado y el Comité Técnico de Financiamiento, cuyas funciones quedan señaladas en esta ley.
 
 ###### ARTICULO 9.
 
@@ -123,9 +127,11 @@ I.- Presentar al Congreso del Estado la Iniciativa de Ley de Ingresos en la que 
 
 II.- Informar trimestralmente al Congreso del Estado de la situación de la Deuda Pública del Estado, a más tardar cuarenta y cinco días posteriores al trimestre y ordenar la publicación de los informes en el Periódico Oficial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado, en materia de deuda pública, por conducto de la Secretaría de Hacienda:
+Corresponde al Ejecutivo del Estado, en materia de deuda pública, por conducto de la Secretaría de Finanzas:
 
 I.- Elaborar el proyecto del programa de financiamiento estatal, que servirá de base para la elaboración de la iniciativa de Ley de Ingresos del Estado.
 
@@ -143,7 +149,9 @@ V.- Asesorar a los Municipios del Estado que se lo soliciten, en la formulación
 
 VI.- Consignar en el Proyecto de Presupuesto de Egresos la (sic) partidas necesarias para el servicio de la deuda contraída.
 
-VII.- Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública , se destinen a la realización de proyectos, actividades y empresas que apoyen los planes Estatales y Municipales de desarrollo económico y social; que generen ingresos para su pago o que se utilicen para el mejoramiento de la estructura del endeudamiento público.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
+
+VII.- Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a inversiones públicas productivas para la realización de proyectos, actividades y empresas que apoyen los planes estatales y municipales de desarrollo económico y social, o se utilicen para sustitución o canje de deuda, en los términos prescritos por esta ley para ambos casos.
 
 VIII.- Emitir bonos de deuda pública y valores, formalizar y administrar la deuda pública del Gobierno del Estado, conforme a los planes y programas aprobados.
 
@@ -187,15 +195,21 @@ II.- Informar mensualmente a la Legislatura, de la situación de la Deuda Públi
 
 Se crea el Comité Técnico de Financiamiento constituido por los siguientes miembros permanentes:
 
-I.- Secretario de Hacienda.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
+
+I.- Secretario de Finanzas.
 
 II.- Secretario de Desarrollo Social.
 
-III.- Secretario de la Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
+
+III.- Titular de la Contraloría Gubernamental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 15.
 
-El Comité Técnico de Financiamiento será el órgano auxiliar de consulta del Ejecutivo del Estado en materia de deuda pública y sus actividades serán coordinadas por el Secretario de Hacienda del Estado y para el desarrollo de ellas convocará a los representantes de los Municipios, de los organismos descentralizados, las empresas de participación estatal y municipal mayoritaria y sus fideicomisos, así como cualquier otra dependencia o institución, cuando se trate de asuntos de su competencia.
+El Comité Técnico de Financiamiento será el órgano auxiliar de consulta del Ejecutivo del Estado en materia de deuda pública y sus actividades serán coordinadas por el Secretario de Finanzas del Estado y para el desarrollo de ellas convocará a los representantes de los Municipios, de los organismos descentralizados, las empresas de participación estatal y municipal mayoritarias y de los fideicomisos estatales y municipales, así como a cualquier otra dependencia o institución, cuando se trate de asuntos de su competencia.
 
 El propio Comité determinará la periodicidad de sus reuniones, la forma de hacer las convocatorias y los procedimientos a seguir para cumplir con sus funciones.
 
@@ -211,7 +225,9 @@ III.- Dar asesoría a Las Entidades Públicas en materia de deuda pública.
 
 IV.- Recabar y mantener información actualizada sobre la solvencia económica y técnica de contratantes y entidades financieras.
 
-V.- Dictar las bases para la contratación de la Deuda Pública del Estado.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
+
+V.- Cuidar que la negociación, contratación y cumplimiento de los compromisos pactados en materia de deuda por las entidades públicas se apegue a las bases previstas en esta ley.
 
 VI.- Dictaminar si proceden las solicitudes de créditos por parte del Gobierno del Estado y respecto de las garantías que se pretende afectar.
 
@@ -233,11 +249,21 @@ Las Entidades Públicas, sólo podrán obtener créditos con las limitantes de e
 
 Los créditos que contraten Las Entidades Públicas, así como las garantías que el Estado otorgue, deberán estar inscritos en el Registro Estatal de Deuda Pública.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 19.
 
-El Estado y los Municipios en cumplimiento a lo previsto por la fracción VIII del Artículo 117 de la Constitución Federal, únicamente podrán contraer deuda pública cuando se destine a inversiones públicas productivas y sólo podrán emitir bonos y otros títulos de deuda pagaderos en moneda nacional y dentro del territorio de la República, tanto en el acta de emisión como en los títulos, deberán citarse los fundamentos de la autorización, así como la prohibición de su venta a extranjeros, sean estos Gobiernos, Entidades Gubernamentales, sociedades, particulares u organismos internacionales. Los documentos no tendrán validez si no se consignan dichos datos.
+Para contraer deuda pública, el Estado y los Municipios, en cumplimiento de. lo previsto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, deberán sujetarse a lo siguiente:
 
-Para efecto de esta ley, debe entenderse por inversiones públicas productivas todas aquellas destinadas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, siempre que en forma directa o indirecta produzcan incremento en los ingresos del Estado, de los Municipios y de sus respectivos organismos descentralizados, empresas públicas y fideicomisos.
+I.- Unicamente podrán contraerla cuando ésta se destine a inversiones públicas productivas;
+
+II.- Solo podrán emitir bonos y otros títulos de deuda pagaderos en moneda nacional y dentro del territorio de la República, y
+
+III.- Citarán, tanto en el acta de emisión como en los títulos, los fundamentos de la autorización y la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales. Los documentos no tendrán validez si no se consignan dichos datos.
+
+Para efectos de esta ley, deben entenderse por inversiones públicas productivas, todas aquéllas destinadas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, siempre que en forma directa o indirecta produzcan incremento en los ingresos del Estado, de los Municipios o de sus respectivos organismos descentralizados, empresas públicas o fideicomisos.
+
+Cuando el Estado celebre operaciones de sustitución o canje de deuda con base en lo previsto por la fracción VIII del artículo 58 de la Constitución Política del Estado, de dará cuanta al Congreso sobre las mejores condiciones financieras que se hubieren contratado y el destino del ahorro para inversiones públicas productivas al remitirse el informe a que se refiere el artículo 11, fracción II, de esta ley.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO
 
@@ -245,11 +271,15 @@ Para efecto de esta ley, debe entenderse por inversiones públicas productivas t
 
 Las Entidades Públicas, tendrán las siguientes obligaciones:
 
-I.- Llevar sus propios registros de los créditos que contraten y proporcionar a la Secretaría de Hacienda, el monto, características y destino de sus obligaciones financieras derivadas de la contratación, para su inscripción en el Registro Estatal de Deuda Pública.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
+
+I.- Llevar sus propios registros de los créditos que contraten y proporcionar a la Secretaría de Finanzas, el monto, características y destino de sus obligaciones financieras derivadas de la contratación, para su inscripción en el Registro Estatal de Deuda Pública.
 
 II.- Informar trimestralmente al Comité Técnico de Financiamiento dentro de los veinte días siguientes al trimestre, la situación que guardan los empréstitos contratados, así como los movimientos realizados, para los efectos del artículo 16 de esta Ley.
 
-III.- Proporcionar a la Secretaría de Hacienda toda la información necesaria para que ésta cumpla con la facultad de vigilancia que le otorga esta ley.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2003)</small>
+
+III.- Proporcionar a la Secretaría de Finanzas toda la información necesaria para que ésta cumpla con la facultad de vigilancia que le otorga esta ley.
 
 ###### ARTICULO 21.
 
@@ -277,9 +307,11 @@ III.- Que tratándose de obligaciones que consten en títulos de crédito, se in
 
 IV.- Que se hayan cumplido todos los requisitos señalados en esta ley para la obtención de los créditos.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 25.
 
-La Secretaría de Hacienda del Estado, una vez integrado el expediente, resolverá sobre la procedencia de la inscripción y notificará a las partes interesadas, su resolución. La Secretaría anotará en los documentos materia de Registro, la constancia relativa a su inscripción conservando copia de los mismos y devolverá los originales al solicitante.
+La Secretaría de Finanzas del Estado, una vez integrado el expediente, resolverá sobre la procedencia de la inscripción y notificará a las partes interesadas su resolución. La Secretaría anotará en los documentos materia de registro, la constancia relativa a su inscripción conservando copia de los mismos y devolverá los originales al solicitante.
 
 ###### ARTICULO 26.
 
@@ -289,9 +321,11 @@ Para la modificación del registro efectuado, deberán cumplirse los requisitos 
 
 Para la cancelación del registro efectuado, deberá comprobarse fehacientemente el pago total de las obligaciones que fueron materia de registro.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 28.
 
-La inscripción de las obligaciones a cargo de los Municipios, confiere a los acreditantes el derecho a que sus créditos, en caso de incumplimiento, se cubran con cargo a las participaciones afectadas en garantía, deduciendo su importe de las que correspondan a aquellos. Para este efecto el acreditante deberá presentar su solicitud de pago ante la Secretaría de Hacienda del Estado, comunicándolo simultáneamente al deudor; la Secretaría confirmará la mora existente y en su caso, efectuará el pago respectivo con cargo a las participaciones afectadas, informándolo al Municipio correspondiente.
+La inscripción de las obligaciones a cargo de los Municipios confiere a los acreditantes el derecho a que se (sic) sus créditos, en caso de incumplimiento, se cubran con cargo a las participaciones afectadas en garantía, deduciendo su importe de las que correspondan a aquéllos. Para este efecto, el acreditante deberá presentar su solicitud de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente a la entidad pública deudora; la Secretaría confirmará la mora existente y, en su caso, efectuará el pago respectivo con cargo a las participaciones afectadas, informándolo al Municipio correspondiente.
 
 T R A N S I T O R I O S
 
@@ -326,3 +360,7 @@ P.O. 2 DE OCTUBRE DE 2002
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2003
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
