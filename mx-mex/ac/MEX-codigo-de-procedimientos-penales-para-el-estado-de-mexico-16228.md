@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2002-12-10"
+last_updated: "2003-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DEL 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -551,9 +551,11 @@ Los autos serán congruentes con la petición formulada, motivando y fundando la
 
 Los autos, salvo los que la ley disponga para casos especiales deberán dictarse dentro de tres días, y las sentencias dentro de quince días a partir del siguiente al de la declaración de vista la causa, pero si ésta excediere de quinientas fojas, a este plazo se le aumentará un día por cada cincuenta de exceso.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
 ###### Artículo 83.
 
-Las resoluciones que emitan los integrantes de las salas del Tribunal Superior de Justicia en el fondo de un asunto, requerirán para su validez del voto de la mayoría de sus miembros. Cuando alguno disintiere, expresará las razones de su inconformidad en voto particular que se insertará al fallo.
+Las resoluciones que emitan los integrantes de las salas colegiadas del Tribunal Superior de Justicia en el fondo de un asunto, requerirán para su validez del voto de la mayoría de sus miembros. Cuando alguno disintiere, expresará las razones de su inconformidad en voto particular que se insertará al fallo.
 
 ###### Artículo 84.
 
@@ -2850,3 +2852,21 @@ P.O. 10 DE DICIEMBRE DE 2002
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 8 DE MAYO DE 2003
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+El Consejo de la Judicatura estará facultado para determinar el inicio de las funciones de las Salas Unitarias, conforme a las necesidades del servicio. Entretanto se establezcan las Salas Unitarias en cada región judicial, las Salas Colegiadas seguirán conociendo de los asuntos que conforme a ésta ley son competencia de las Salas Unitarias.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirán sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
