@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1996-06-28"
+last_updated: "1998-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -416,6 +416,10 @@ Las faltas temporales o absolutas de los Diputados Propietarios se cubrirán por
 
 Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas en ningún tiempo, ni por ninguna Autoridad.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1998)</small>
+
+El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del Poder Legislativo y por la inviolabilidad del recinto donde se reúnan a sesionar.
+
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Artículo 40.
@@ -454,11 +458,13 @@ Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Esta
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 1998)</small>
 
 ###### Artículo 46.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1 de marzo y terminará a más tardar el 15 de mayo. El segundo iniciará el 15 de octubre y terminará a más tardar el 31 de diciembre.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1º de abril y terminará a más tardar el 30 de junio. El segundo iniciará el 15 de octubre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 Al renovarse el Congreso del Estado, los diputados electos concurrirán el día primero de enero del año inmediato posterior al de la elección, a efecto de iniciar el período de instalación de la Legislatura correspondiente.
 
@@ -470,11 +476,11 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1998)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado, dentro de los primeros 15 días del segundo período ordinario de sesiones, acudirá al Congreso del Estado a presentar un informe respecto a la situación de la administración estatal.
+El Gobernador del Estado asistirá cada año al Congreso, dentro de los primeros quince días del segundo período ordinario de sesiones, y rendirá un informe del estado general que guarda la administración pública del Estado. La Ley Orgánica del Congreso establecerá las formalidades del acto.
 
 ###### Artículo 50.
 
@@ -516,7 +522,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
 
 ###### Artículo 56.
 
@@ -550,9 +556,11 @@ III. Al Tribunal Superior, en materia de Administración de Justicia y Codificac
 
 IV. A los Ayuntamientos del Estado, en los ramos que les corresponda y por conducto del Presidente respectivo.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1998)</small>
+
 ###### Artículo 60.
 
-Las iniciativas presentadas por el Ejecutivo, Tribunal Superior o Ayuntamiento, pasarán desde luego a Comisión. Las de los Diputados, se sujetarán al Reglamento de debates.
+Las iniciativas presentadas por el Ejecutivo, Tribunal Superior o Ayuntamientos, pasarán, desde luego, a Comisión. Las de los Diputados se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
 
 ###### Artículo 61.
 
@@ -568,7 +576,9 @@ I. Dictamen de Comisión.
 
 II. Una o dos discusiones, en los términos que expresan las fracciones siguientes.
 
-III. La discusión se verificará el día que designe el Presidente del Congreso, conforme a Reglamento.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
+
+III. La discusión se verificará el día que designe el Presidente del Congreso, conforme a lo dispuesto en la Ley Orgánica.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -828,11 +838,11 @@ En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputació
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1998)</small>
 
 ###### Artículo 70.
 
-Durante los recesos del Congreso, habrá una Diputación Permanente que se integrará con un número de diputados equivalente a la cuarta parte del total de los miembros de la Legislatura, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones o en el período de instalación de la Legislatura, en la forma que determine la Ley. Para suplir las faltas de éstos, se nombrarán del mismo modo y en igual número, suplentes que lo substituyan por el orden de su nombramiento.
+Durante los recesos del Congreso habrá una Diputación Permanente que se integrará con ocho diputados propietarios y ocho suplentes, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones o en el período de instalación de la legislatura, en la forma que determine la Ley.
 
 ###### Artículo 71.
 
@@ -1118,9 +1128,9 @@ III. Cuidar de la observancia de la Constitución Política de los Estados Unido
 
 Asimismo, será deber del Gobernador del Estado, publicar y hacer cumplir las leyes y decretos federales.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
 
-IV. Acudir cada año, dentro de los primeros quince días del segundo período ordinario de sesiones, al Congreso del Estado, a presentar un informe respecto a la situación de la administración pública estatal.
+IV. Concurrir cada año al Congreso, dentro de los primeros quince días del segundo período ordinario de sesiones, y rendir, en ese acto, un informe sobre el estado que guarda la administración pública del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -1310,9 +1320,9 @@ Son obligaciones del Secretario de Finanzas:
 
 I. Glosar las cuentas presentadas por los Recaudadores de Rentas, dando cuenta al Gobernador del resultado de las mismas.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
 
-II. Presentar anualmente al Congreso del Estado, previo acuerdo del titular del Poder Ejecutivo y dentro de los primeros cuatro meses del ejercicio fiscal siguiente, la cuenta pública estatal del año anterior para efectos de su revisión, discusión y aprobación, en su caso.
+II. Presentar anualmente al Congreso del Estado, previo acuerdo del Titular del Poder Ejecutivo y dentro de los primeros tres meses del ejercicio fiscal siguiente, la cuenta pública estatal del año anterior, para efectos de su revisión, discusión y aprobación, en su caso.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1646,9 +1656,9 @@ III. Acordar y llevar a cabo obras de utilidad pública local.
 
 IV. Intervenir en las reformas de la Constitución local del Estado, conforme al artículo 196.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
 
-V. Someter a la aprobación del Congreso del Estado, el proyecto de Ley de Ingresos Municipal, correspondiente a cada ejercicio fiscal; así como aprobar, con base en los ingresos disponibles, los Presupuestos de Egresos Municipales y disponer la publicación de estos en el Periódico Oficial del Gobierno del Estado, para que surtan efectos legales.
+V. Aprobar los Presupuestos de Egresos Municipales y disponer el envío de éstos al Congreso del Estado para su conocimiento, y su publicación en el Periódico Oficial del Gobierno del Estado, para que surtan efectos legales; así como someter a la aprobación del Congreso del Estado, el proyecto de Ley de Ingresos Municipal, correspondiente a cada ejercicio fiscal, anexando el examen de la deuda pública municipal que hubiere aprobado el Ayuntamiento.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1728,9 +1738,9 @@ XVII. Participar en los organismos y con las dependencias oficiales competentes,
 
 XVIII. Otorgar concesiones, autorizaciones, permisos y licencias, respecto de los servicios públicos de su competencia, en los términos de los ordenamientos legales aplicables.
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
 
-XIX. Autorizar y glosar en el mes de enero de cada año, la cuenta pormenorizada, los documentos y los libros de ingresos y egresos de la Hacienda Pública Municipal, correspondientes al año anterior, así como presentar al Congreso del Estado la cuenta pública municipal del año anterior, dentro de los primeros cuatro meses del siguiente ejercicio fiscal.
+XIX. Autorizar y glosar en el mes de enero de cada año, la cuenta pormenorizada, los documentos y los libros de ingresos de la hacienda pública municipal, correspondiente al año anterior, así como presentar al Congreso del Estado la cuenta pública municipal del año anterior, dentro de los primeros tres meses del siguiente ejercicio fiscal.
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2785,3 +2795,7 @@ P.O. 28 DE JUNIO DE 1996.
 PRIMERO.- El presente decreto entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
