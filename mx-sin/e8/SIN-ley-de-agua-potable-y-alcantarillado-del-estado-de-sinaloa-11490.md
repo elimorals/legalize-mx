@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1984-02-20"
+last_updated: "1987-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1987.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -85,61 +85,45 @@ El reglamento de la presente Ley detallará sus características, la connotació
 
 Los Ayuntamientos de la Entidad establecerán las políticas, lineamientos y especificaciones conforme a las cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación y conservación y mantenimiento de los sistemas de agua potable y alcantarillado de los centros poblados y asentamientos humanos correspondientes.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO 6.
 
-Para los efectos del artículo precedente y con el objeto de proporcionar una mejor prestación del servicio público de agua potable y alcantarillado, los Municipios, por conducto de sus respectivos Ayuntamientos, se coordinarán y asociarán entre sí y contarán con el auxilio del Ejecutivo del Estado, la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, y las Juntas Intermunicipales de Agua Potable y Alcantarillado.
+Para consulta y asesoramiento, en materia de agua potable y alcantarillado, del Ejecutivo del Estado, de los Ayuntamientos y de las Juntas Municipales, se establece la Comisión Estatal de Agua Potable y Alcantarillado como un Organismo Público Descentralizado de la Administración Estatal, con personalidad jurídica y patrimonio propios, la cual tendrá su domicilio social en la capital del Estado.
 
-> <small>N. DE E. POR ERROR EN LA PUBLICACION OFICIAL DEL 20 DE FEBRERO DE 1984, APARECE PARCIALMENTE DUPLICADO EL ARTICULO 7 QUEDANDO DE LA SIGUIENTE MANERA.</small>
-
-###### ARTICULO 7.
-
-La Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, y las Juntas Intermunicipales de Agua Potable y Alcantarillado. (SIC)
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 7.
 
-La Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, será un órgano de consulta del Ejecutivo del Estado, de los Ayuntamientos y de las Juntas Intermunicipales de Agua Potable y Alcantarillado, para orientar y asesorar técnicamente sus actividades en la materia y contribuir a una coordinación armónica y complementaria con las dependencias del Gobierno Federal. Tendrá su sede en la ciudad de Culiacán Rosales y se integrará con:
+La Comisión Estatal de Agua Potable y Alcantarillado estará administrada por un Consejo Directivo que se integrará con un Presidente, un Secretario y hasta nueve Vocales Propietarios que deberán ser representantes de los sectores público, privado y social de la Entidad.
 
-I.- El Gobernador del Estado o la persona que designe Vocal Ejecutivo de la Comisión, que será además su representante;
+El Presidente del Consejo Directivo será el Secretario de Desarrollo Urbano e Infraestructura del Gobierno del Estado, o quien lo sustituya en el cargo.
 
-II.- Los Presidentes Municipales que funjan como Presidentes de los Consejos Directivos de las Juntas Intermunicipales de Agua Potable y Alcantarillado;
+El Secretario del Consejo será el Vocal Ejecutivo de la propia Comisión.
 
-III.- Un representante del Congreso del Estado;
+Los Vocales serán designados y removidos libremente por el Titular del Poder Ejecutivo Estatal. Por cada propietario se designará un suplente.
 
-IV.- Un representante de la Secretaría de Desarrollo Urbano y Ecología;
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-V.- Un representante de la Secretaría de Agricultura y Recursos Hidráulicos;
+###### ARTICULO 7 Bis.
 
-VI.- Un representante de la Secretaría de Programación y Presupuesto;
+El patrimonio de la Comisión Estatal se formará con:
 
-VII.- Un representante de la Secretaría de Salubridad y Asistencia;
+a).- Los subsidios, donaciones y liberalidades que reciba, y los bienes muebles e inmuebles que adquiera por cualquier título legal; y
 
-VIII.- Un representante de la Secretaría de Obras Públicas del Gobierno del Estado;
+b).- Los demás bienes, derechos y aprovechamientos que se le asignen (sic) Leyes, Reglamentos y Acuerdos.
 
-IX.- Un representante de la Secretaría de Hacienda Pública y Tesorería del Gobierno del Estado;
-
-X.- Un representante del Comité Estatal de Planeación para el Desarrollo de Sinaloa;
-
-XI.- Un representante de la Comisión Estatal de Desarrollo de Centros Poblados;
-
-XII.- Sendos representantes de las organizaciones mayoritarias de trabajadores, colonos, campesinos y pescadores de la Entidad, con domicilio en la ciudad de Culiacán Rosales; y,
-
-XIII.- Sendos representantes de la Federación de Cámaras Nacionales de Comercio, Servicios y Turismo del Estado, y de la Delegación de la Cámara Nacional de la Industria de Transformación.
-
-El Gobernador del Estado o su representante será su Presidente y en caso de empate tendrá voto de calidad.
-
-Para la designación de los representantes a que se refiere este artículo, el Gobernador del Estado solicitará a las dependencias u organismos correspondientes que en el término de 15 días nombren un representante propietario, con su respectivo suplente, en la inteligencia de que si no lo hacen dentro de dicho término, él los designará libremente, con excepción de los Presidentes Municipales y de los representantes de las Dependencias Federales y del Congreso del Estado. Igualmente el ejecutivo del Estado hará libre designación cuando un sector se encuentre representado por dos o más organismos sin que exista el acuerdo en cuanto a la proposición respectiva.
-
-La solicitud para la designación de representantes deberá hacerla el Gobernador del Estado por medio de notificación personal y la publicación en uno de los periódicos de mayor circulación en la Entidad.
-
-El funcionamiento de la Comisión, se establecerá en el Reglamento correspondiente y sus gastos serán erogados por el Gobierno del Estado.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 8.
 
-Los miembros de la Comisión Estatal, por el hecho de serlo no tendrán calidad de servidores públicos del Estado o de los Municipios y no percibirán sueldo ni emolumento algunos por sus funciones, teniendo éstos carácter honorífico; durarán en su encargo mientras sus nombramientos no sean revocados por la dependencia u organismo que los haya designado. Hecha la excepción, en su caso, del Vocal Ejecutivo, quien será considerado como servidor público y en consecuencia su trabajo será remunerado.
+El cargo del integrante del Consejo Directivo no será retribuido con sueldo o emolumento alguno.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 9.
 
-La Comisión Estatal funcionará válidamente con la concurrencia de la mayoría de sus miembros y si se convoca a sesión por segunda vez, con cualquiera que sea el número de los que asistan. Los acuerdos se tomarán por mayoría de votos de los presentes.
+El Consejo Directivo funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente o quien haga sus veces. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
 ###### ARTICULO 10.
 
@@ -155,69 +139,135 @@ IV.- Proponer las bases y normas, para la celebración de contratos de construcc
 
 V.- Participar en la vigilancia del mejor aprovechamiento de cualquier recurso federal, estatal o municipal que esté destinado al servicio de agua potable y alcantarillado;
 
-VI.- Asesorar a las Juntas Intermunicipales de Agua Potable y Alcantarillado en aspectos técnicos, administrativos y financieros, particularmente en lo que atañe a la revisión y actualización periódica de las tarifas en los términos del Capítulo Quinto de esta Ley;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VI.- Asesorar a las Juntas Municipales en aspectos técnicos, administrativos y financieros, particularmente en lo que atañe a la revisión y actualización periódica de las tarifas de agua potable y alcantarillado;
 
 VII.- Desarrollar programas de orientación a los usuarios con el objeto de proteger la calidd (sic) del agua potable y propiciar su aprovechamiento racional;
 
-VIII.- Promover la capacitación y adiestramiento del personal de las Juntas Intermunicipales de Agua Potable y Alcantarillado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VIII.- Promover la capacitación y adiestramiento del personal de las Juntas Municipales;
 
 IX.- Mantener actualizado el inventario de los bienes y recursos de los sistemas de agua potable y alcantarillado y de las reservas hidrológicas del Estado; y
 
-X.- Conocer de todos los asuntos que en forma general o específica interesen al buen funcionamiento de los sistemas y tomar los acuerdos correspondientes y las demás que le fijen la (sic) Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+X.- En coordinación con las dependencias competentes del Gobierno del Estado, promover la planeación, evaluación y supervisión de proyectos, presupuestos y construcción de obras;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XI.- Gestionar complementariamente ante las dependencias y entidades federales, las designaciones y concesiones correspondientes a la dotación de agua para los centros poblados;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XII.- Promover convenios de coordinación y colaboración entre dos o más Juntas Municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XIII.- Auxiliar a las Juntas Municipales para que practiquen el control de calidad del agua potable desde las fuentes mismas de abastecimiento, zonas de protección, estructura de captación, sistemas de conducción, de regularización y distribución, así como las instalaciones de tratamiento y operación de los sistemas y de los equipos, en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XIV.- Cuando sea necesario, promover la obtención de crédito para ejecutar los programas de obras, tramitando los avales correspondientes;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XV.- Solicitar a las autoridades competentes, expropiaciones, ocupaciones temporales, totales o parciales de obras hidráulicas y bienes de propiedad privada, y la limitación de los derechos de dominio;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XVI.- Celebrar los convenios y los contratos necesarios para el cumplimiento de sus objetivos y funciones; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XVII.- Conocer de todos los asuntos que en forma general o específica interesen al buen funcionamiento de los sistemas de agua potable y alcantarillado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+###### ARTICULO 10 Bis.
+
+Serán facultades del Consejo Directivo:
+
+I.- Tomar las resoluciones, dictar los acuerdos y realizar los actos necesarios para el cumplimiento de las funciones que correspondan a la Comisión Estatal;
+
+II.- Formular y expedir el Reglamento Interior del Organismo;
+
+III.- Designar y remover libremente al Vocal Ejecutivo;
+
+IV.- Aprobar previamente los convenios y contratos que deba suscribir sus (sic) representante legal;
+
+V.- Otorgar poderes generales o especiales para actos de dominio, de administración y para pleitos y cobranzas;
+
+VI.- Examinar y aprobar los estados financieros, los balances y los informes que deba presentar el Vocal Ejecutivo; y
+
+VII.- Las demás que sean congruentes con las funciones y atribuciones del Organismo.
 
 ###### ARTICULO 11.
 
 El Vocal Ejecutivo de la Comisión Estatal, tendrá las siguientes atribuciones:
 
-I.- Ser el representante legal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-II.- Convocar a sesión a los integrantes de la Comisión Estatal;
+I.- Ejecutar los acuerdos del Consoejo (sic) Directivo;
 
-III.- Formular el presupuesto anual de la Comisión Estatal y someterlo a la consideración y aprobación del Ejecutivo del Estado; y,
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-IV.- Cumplir la presente Ley y sus Reglamentos.
+II.- Representar al Organismo ante toda clase de autoridades, instituciones y personas;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+III.- Convocar a sesiones ordinarias y extraordinarias de la Comisión Estatal;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+IV.- Actuar como apoderado general del Organismo con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley, en los términos que acuerde el Consejo Directivo;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+V.- Someter a la consideración y aprobación del Consejo Directivo, la designación o remoción de funcionarios;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VI.- Nombrar y remover libremente al personal administrativo y técnico del Organismo, señalando sus adscripciones y remuneraciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VII.- Formular los programas de trabajo y operación, así como los estados financieros, balance o informes generales y especiales para someter a la consideración del Consejo Directivo; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VII.- (sic) Las demás que le señalen el Consejo Directivo las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 12.
 
-Para la administración operación, mantenimiento, ampliación y mejoramiento de los sistemas y servicios de agua potable y alcantarillado de los centros poblados del Estado de Sinaloa, se crean como organismos públicos descentralizados de los Municipios y dotados de capacidad, personalidad jurídica y patrimonio propios, las Juntas Intermunicipales de Agua Potable y Alcantarillado, siguientes:
+Para la administración, operación, mantenimiento, ampliación y mejoramiento de los sistemas y servicios de agua potable y alcantarillado de los centros poblados del Estado, en cada Municipio se establecerá un Organismo Público Descentralizado de la Administración Municipal que se denominará Junta Municipal de Agua Potable y Alcantarillado, con personalidad jurídica y patrimonio propios, y tendrá su domicilio social en la Cabecera Municipal.
 
-I.- La Junta Intermunicipal de Agua Potable y Alcantarillado del Río Fuerte, que comprenderá los Municipios de Ahome, Choix y Fuerte, con asiento en la ciudad de Los Mochis;
-
-II.- La Junta Intermunicipal de Agua Potable y Alcantarillado del Río Sinaloa, que comprenderá los Municipios de Guasave y Sinaloa, con asiento en la ciudad de Guasave;
-
-III.- La Junta Intermunicipal de Agua Potable y Alcantarillado del Río Evora, que comprenderá los Municipios de Angostura, Badiraguato, Mocorito y Salvador Alvarado, con asiento en la ciudad de Guamúchil;
-
-IV.- La Junta Intermunicipal de Agua Potable y Alcantarillado del Río Humaya, que comprenderá los Municipios de Cosalá, Culiacán, Elota y Navolato, con asiento en la ciudad de Culiacán Rosales; y,
-
-V.- La Junta Intermunicipal de Agua Potable y Alcantarillado del Río Baluarte, que comprenderá los Muniripios (sic) de Concordia, Escuinapa, Mazatlán, Rosario y San Ignacio, con asiento en la ciudad de Mazatlán.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 13.
 
-Las Juntas Intermunicipales tendrán plena jurisdicción y competencia en sus respectivas circunscripciones territoriales, funcionarán permanentemente y estarán compuestas por un Consejo Directivo que integrará con:
+Las Juntas Municipales serán administradas por un Consejo Directivo integrado por un Presidente, un Secretario y hasta siete Vocales propietarios que deberán ser representantes de los sectores público, privado y social.
 
-I.- Los Presidentes Municipales que comprenda su jurisdicción;
+El Presidente del Consejo será el Presidente Municipal o quien lo sustituya en el cargo.
 
-II.- El Diputado Propietario Local que elijan en rotación anual entre sí, los Diputados de los Distritos Electorales comprendidos en su jurisdicción; y,
+El Secretario será el Gerente General de la Junta Municipal.
 
-III.- Sendos representantes de los propietarios de fincas urbanas, de los trabajadores, de los colonos, de los campesinos, de los pescadores, de los comerciantes, de los industriales y de los hoteleros que elijan entre sí las asociaciones u organismos mayoritarios respectivos, comprendidos dentro de su jurisdicción.
+Los Vocales serán nombrados y removidos libremente por el Ayuntamiento correspondiente. Por cada propietario se designará un suplente.
 
-El Consejo Directivo será presidido por uno de los Presidentes Municipales, en relación anual y de acuerdo con el orden alfabético de los Municipios comprendidos en la jurisdicción de las Juntas.
-
-Para la designación de los representantes a que se refiere este artículo, los Presidentes de los Consejos Directivos de las Juntas solicitarán a las dependencias y organismos correspondientes que en el término de 15 días nombren un representante propietario, con su respectivo suplente, para integrar los Consejos; de no hacerlo en dicho término, él los designará libremente en forma provisional. Igualmente, los Presidentes de los Consejos harán libre designación provisional, cuando un sector se encuentre representado por dos o más organismos, sin que exista acuerdo en cuanto a la proposición respectiva.
-
-La solicitud de designación de representantes deberán hacerla los Presidentes de los Consejos por medio de notificación personal y la publicación en uno de los periódicos de mayor circulación en los Municipios respectivos.
-
-En caso de que en los Municipios de que se trate, no existan las asociaciones u organismos mencionados en este artículo, se procederá a convocar a aquellos que existan y tiendan al mismo fin.
-
-El funcionamiento de los Consejos Directivos, se establecerá en el reglamento correspondiente.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 14.
 
-Los miembros de los Consejos Directivos de las Juntas, por el hecho de serlo no tendrán calidad de servidores públicos del Estado o de los Municipios, no percibirán sueldo ni emolumento alguno y durarán en su encargo mientras sus nombramientos no sean revocados.
+El cargo de integrante de los Consejos Directivos de las Juntas Municipales no será retribuido con sueldo o emolumento alguno.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 15.
 
-Los Consejos Directivos de las Juntas funcionarán válidamente con la concurrencia de la mayoría de sus miembros y si se convoca a sesión por segunda vez, con cualesquiera que sea el número de los asistentes. Los acuerdos se tomarán por mayoría de votos de los presentes y en caso de empate el Presidente del Consejo tendrá voto de calidad.
+Los Consejos Directivos funcionarán válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberán estar el Presidente respectivo o quien haga sus veces. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
 ###### ARTICULO 16.
 
@@ -229,7 +279,9 @@ II.- Facturar y recaudar el importe de los servicios conforme a las tarifas en v
 
 III.- Tener la administración general de los bienes muebles e inmuebles de su propiedad;
 
-IV.- Proponer al Gobierno del Estado las obras necesarias de construcción, conservación, mantenimiento, rehabilitación y ampliación de los sistemas de su jurisdicción y en su caso, llevar a cabo la ejecución de las mismas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+IV.- Proponer al Ayuntamiento las obras necesarias de construcción, conservación, mantenimiento, rehabilitación y ampliación de los sistemas de su jurisdicción y en su caso, llevar a cabo la ejecución de las mismas;
 
 V.- Recibir las obras de agua potable y alcantarillado que se construyan en su jurisdicción;
 
@@ -261,11 +313,17 @@ XVIII.- Desarrollar programas de capacitaciln (sic) y adiestramiento para su per
 
 XIX.- Formular y mantener actualizado el inventario de bienes y recursos que integran su patrimonio;
 
-XX.- Formular y mantener actualizado el inventario de sistemas de agua potable y alcantarillado de los Municipios que comprenden su jurisdicción y remitir copia del mismo a la Comisión Estatal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-XXI.- Gestionar la obtención y contratación de créditos necesarios a fin de destinarlos a la planeación, construcción, ampliación, rehabilitación y mantenimiento de las obras y servicios necesarios para la operación de los sistemas de agua potable y alcantarillado en los Municipios que integran su jurisdicción. En garantía de los créditos que se obtengan, las Juntas podrán afectar los derechos, rentas y cualquier ingreso que perciban por la explotación de los sistemas; y,
+XX.- Formular y mantener actualizado el inventario de sistemas de agua potable y alcantarillado del Municipio correspondiente y remitir copia del mismo a la Comisión Estatal;
 
-XXII.- Las demás que le confieren las Leyes y Reglamentos.
+> <small>(REFORMADA P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XXI.- Gestionar la obtención y contratación de créditos necesarios, a fin de destinarlos a la planeación, construcción, ampliación, rehabilitación y mantenimiento de las obras y servicios para la operación de los sistemas de agua y alcantarillado del Municipio respectivo. En garantía de los créditos que se obtengan las Juntas podrán afectar los derechos, rentas y cualquier ingreso que perciban por la explotación de los sistemas; y
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+XXII.- Las demás que le confieran Leyes, Reglamentos y Acuerdos.
 
 ###### ARTICULO 17.
 
@@ -275,11 +333,25 @@ I.- Nombrar y remover libremente en cada una de las Juntas en (sic) Gerente Gene
 
 II.- Resolver los recursos que se interpongan en contra de la actuación y resoluciones de los Gerentes Generales de las Juntas;
 
-III.- Analizar, discutir y autorizar los proyectos de tarifas para el cobro de los servicios y remitirlos para su aprobación al Congreso del Estado; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-IV.- Hacer que el personal de las Juntas cumpla con sus funciones y atribuciones; y,
+III.- Analizar, discutir y autorizar las tarifas para el cobro de los servicios;
 
-V.- Las demás que le confieren las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+IV.- Tomar las resoluciones, dictar los acuerdos y realizar los actos necesarios para el cumplimiento de las funciones que correspondan a las Juntas Municipales;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+V.- Aprobar previamente los convenios y contratos que deba suscribir el Gerente General;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VI.- Examinar y aprobar los estados financieros, los balances y los informes, generales y especiales, que deba prestar el Gerente General; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VII.- Las demás que sean congruentes con las funciones y atribuciones de los Organismos.
 
 ###### ARTICULO 18.
 
@@ -289,15 +361,33 @@ I.- Actuar con el carácter de Apoderados Generales con todas las facultades gen
 
 II.- Convocar a sesión a los integrantes de los Consejos Directivos de las Juntas;
 
-III.- Nombrar y remover libremente a sus colaboradores y delegar las funciones que estimen convenientes;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-IV.- Cumplir y hacer cumplir la presente Ley, sus reglamentos y realizar los planes de trabajo y los acuerdos de los Consejos Directivos de las Juntas; y,
+III.- Nombrar y remover libremente al personal administrativo y técnico del Organismo, señalando sus adscripciones y remuneraciones correspondientes;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+IV.- Ejecutar los acuerdos de su Consejo Directivo;
 
 V.- Atender y resolver los recursos de reclamación en contra de cobros por servicios e imposición de sanciones.
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VI.- Someter a la consideración y aprobación del Consejo Directivo que corresponda, la designación o remoción de funcionarios;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VII.- Formular los programas de trabajo y operación, así como los estados financieros, balances e informes generales y especiales, para someterlos a la consideración y aprobación de los Consejos Directivos; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+VIII.- Las demás que le señalen sus (sic) Consejo Directivo y las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO 19.
 
-En el medio rural cada comunidad podrá designar un encargado del sistema de agua potable y alcantarillado, con funciones señaladas y supervisadas por la Junta Intermunicipal correspondiente, a efecto de que vigile el buen funcionamiento de los servicios.
+En el medio rural cada comunidad podrá designar un Encargado del sistema de agua potable y alcantarillado, con funciones señaladas y supervisadas por la Junta Municipal correspondiente, a efecto de que vigile el buen funcionamiento de los servicios.
 
 ###### ARTICULO 20.
 
@@ -563,11 +653,13 @@ Los notarios y Corredores Públicos no podrán autorizar ni el Oficial del Regis
 
 ### CAPITULO QUINTO. DE LAS TARIFAS
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO 59.
 
-Cada Junta formulará anualmente un proyecto tarifario que sirva de base para establecer, revisar y modificar en su caso, las tarifas conforme a las cuales se cobrará la prestación de los servicios de agua potable y alcantarillado, así como los derechos de conexión.
+Cada una de las Juntas Municipales aprobará anualmente las tarifas conforme a las cuales se cobrará la prestación de los servicios de agua potable y alcantarillado así como los derchos (sic) de conexión, en sus respectivas jurisdicciones.
 
-Una vez autorizado el proyecto tarifario por el Consejo Directivo de la Junta correspondiente, se formulará la respectiva iniciativa de decreto, la cual será suscrita por el Presidente Municipal que funja como Presidente del Consejo Directivo y enviada al Congreso del Estado, para efectos de su aprobación.
+Las tarifas aprobadas se publicarán en el periódico oficial "El Estado de Sinaloa".
 
 ###### ARTICULO 60.
 
@@ -715,9 +807,11 @@ XVII.- A los que cometan cualquier otra infracción a las disposiciones de esta 
 
 ### CAPITULO OCTAVO. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO 81.
 
-A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de alcantarillado, no cumplan con esta obligación dentro de los plazos que fija el artículo 23, o impidan se efectúen las instalaciones correspondientes, se les impondrá una multa de $500.00 a $15,000.00 de acuerdo con las circunstancias, e igual multa podrá seguir aplicándose mensualmente hasta en tanto se cumpla con tal obligación:
+A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de alcantarillado, no cumplan con esta obligación dentro de los plazos que fija el artículo 23, o impidan se efectúen las instalaciones correspondientes, se les impondrá una multa equivalente de tres a diez días de salario mínimo general en la zona respectiva de acuerdo con las circunstancias, e igual multa podrá seguir aplicándose mensualmente hasta en tanto se cumpla con tal obligación.
 
 I.- En los casos de la fracción VI, inciso a), del artículo 23 desde la fecha en que se haya notificado legalmente haber quedado establecido el servicio en la calle en que estén ubicados sus predios, giros, o establecimientos, hasta el día en que se instale la toma;
 
@@ -725,13 +819,17 @@ II.- En los casos a que se refiere la fracción IV, inciso b), del mismo artícu
 
 III.- En los casos mencionados en la fracción VI, inciso c), del propio artículo, desde la fecha de iniciación de las obras hasta la instalación de la toma.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+
 ###### ARTICULO 82.
 
-Las infracciones a que se refieren las fracciones II, III, IV, X, XI y XVI del artículo 80 se sancionarán con multas de s (sic) 1,000.00 a $100,000.00 de acuerdo con las circunstancias del caso.
+Las infracciones a que se refieren las fracciones II, III, IV, X, XI y XVI, del artículo 80, se sancionarán con una multa equivalente de cinco a sesenta días del salario mínimo general en la zona correspondiente, de acuerdo con las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 83.
 
-Las infracciones a que se refieren las fracciones V, VI, VII, VIII, IX, XII y XIII del artículo 80, se sancionarán con multa de $ 500.00 a $15,000.00; igual multa se impondrá a quien cometa la infracción señalada en las fracciones XIV y XVI del artículo 80, pero tratándose de fraccionamientos o de usuarios con consumos mayores de 200 metros cúbicos bimestrales, la multa podrá elevarse hasta $ 250,000.00.
+Las infracciones a que se refieren las fracciones V, VI, VII, VIII y XIII del artículo 80, se sancionarán con multa equivalente de tres a diez días del salario mínimo general en la zona respectiva; igual multa se impondrá a quien cometa la infracción señalada en las fracciones XIV y XVI del artículo 81, pero tratándose de fraccionamientos o de usuarios con consumos mayores de 200 metros cúbicos bimestrales, la multa podrá elevarse hasta el equivalente de cuarenta y cinco días del mismo salario.
 
 ###### ARTICULO 84.
 
@@ -803,7 +901,9 @@ Contra las resoluciones de los gerentes generales de las Juntas que para su impu
 
 El recurso de revisión se sujetará a los trámites siguientes:
 
-I.- Deberá interponerse por escrito ante el Consejo Directivo de la Junta Intermunicipal correspondiente dentro del término de quince días contados a partir del siguiente día de la fecha de notificación; y,
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+
+I.- Deberá interponerse por escrito ante el Consejo Directivo de la Junta Municipal correspondiente, dentro del término de quince días contados a partir del siguiente día de la fecha de notificación;
 
 II.- El Consejo Directivo de la Junta citará a una audiencia de pruebas y alegatos dentro de los treinta días hábiles siguientes a la fecha de la presentación del recurso y después de recibidas y desahogadas las pruebas y los alegatos, dictará la resolución correspondiente dentro del término de sesenta días, facultándosele para allegarse pruebas para mejor proveer. Dicha resolución se notificará al recurrente en el domicilio que para esos efectos haya señalado.
 
@@ -898,3 +998,39 @@ LIC. FRANCISCO JAVIER GAXIOLA OCHOA
 El Secretario de Obras Públicas
 
 ARQ. JAIME SEVILLA POYASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE OCTUBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de este y de otros ordenamientos que se opongan al contenido del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+La Comisión Estatal de Agua Potable y Alcantarillado, como Organismo Público Descentralizado de la Administración Estatal, deberá quedar constituido dentro de los sesenta días siguientes al de la vigencia de este Decreto.
+
+###### ARTICULO CUARTO.
+
+Las Juntas Municipales de Agua Potable y Alcantarillado deberán quedar constituidas en los términos que dispone el presente Decreto, dentro de los noventa días siguientes al de su publicación.
+
+Los Presidentes Municipales, se harán responsables del debido funcionamiento de las Juntas en el plazo señalado.
+
+En tanto se integran los nuevos Consejos Directivos, seguirán en funciones los actuales.
+
+###### ARTICULO QUINTO.
+
+El patrimonio y los archivos de las Juntas Intermunicipales de Agua Potable y Alcantarillado, serán distribuidos a las Juntas Municipales en proporción al número de habitantes de las municipalidades que formaban parte de su jurisdicción.
+
+Las garantías, obligaciones, gravámenes y estipulaciones de todo orden hechas en favor de cualesquiera de las Juntas Intermunicipales, pertenecerán en titularidad a la Junta Municipal que corresponda.
+
+El personal técnico y adminstrativo (sic) de las Juntas Intermunicipales, se incorporará con todos sus derechos y obligaciones a la Junta Municipal respectiva.
+
+###### ARTICULO SEXTO.
+
+Las resoluciones y acuerdos vigentes tomados por las Juntas Intermunicipales en sus jurisdicciones, continuarán con sus efectos en cuanto no se opongan a lo dispuesto por el presente Decreto.
