@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-11-26"
+last_updated: "1939-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1939.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -381,9 +381,9 @@ XX. Conocer de las acusaciones por delitos comunes y oficiales de los funcionari
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1939)</small>
 
-XXII. Revisar anualmente, por medio de la Contaduría Mayor de Hacienda, la cuenta general de gastos del Estado que presente el Ejecutivo, y las de los Municipios que presenten los Ayuntamientos, así como hacer la glosa preventiva de los movimientos mensuales, girando las observaciones que procedan y exigiendo las responsabilidades que resulten o expidiendo el finiquito en caso de aprobación.
+XXII. Revisar anualmente, por medio de la Contaduría Mayor de Hacienda, la cuenta general de gastos del Estado que presente el Ejecutivo, y las de los Municipios que presenten los Ayuntamientos; hacer la glosa preventiva de los movimientos mensuales, girando las observaciones que procedan y exigiendo las responsabilidades que resulten o expidiendo el finiquito en caso de aprobación, ASI COMO EFECTUAR VISITAS DE INSPECCION A LAS TESORERIAS MUNICIPALES, CUANDO MENOS UNA VEZ EN EL AÑO A CADA UNA.
 
 XXIII. Autorizar al Gobernador para que celebre empréstitos en nombre del Estado y aprobar o no los contratos respectivos.
 
@@ -1518,3 +1518,13 @@ Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 26 DE NOVIEMBRE DE 1938.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 1939.
+
+###### Art. 1o.
+
+La visita anual a que se refiere este Decreto, deberá efectuarse en el curso de los meses que restan del presente año.
+
+###### Art. 2o.
+
+El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
