@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1977-04-13"
+last_updated: "1977-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1977.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -282,9 +282,13 @@ III.- Haber cumplido veinticinco años de edad.
 
 No pueden ser Diputados:
 
-I.- El Gobernador del Estado, el Secretario General de Gobierno y el funcionario o empleado que, conforme a la Ley, cubra las faltas accidentales de éste, siempre que la suplencia se efectúe durante el período electoral.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
-II.- Los Magistrados del Tribunal Superior y el Procurador General de Justicia.
+I.- El Gobernador del Estado, el Secretario de Gobierno y el funcionario o empleado que conforme a la Ley, cubra las faltas accidentales de éste, siempre que la suplencia se efectúe durante el período electoral.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+
+II.- El Secretario de Finanzas, el de Programación y Presupuesto, el de Asentamientos Humanos y Obras Públicas y el de Desarrollo Agropecuario.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -460,7 +464,7 @@ I.- Los trabajadores solo podrán ser suspendidos o cesados por causa justificad
 
 J.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemático los derechos que este artículo les consagra.
 
-K.- La seguridad social se organizará conforme a las siguientes bases mínimas:
+K.- La seguridad social se organizará conforme a las siguientes bases mínimas;
 
 a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
 
@@ -578,9 +582,11 @@ Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superio
 
 Para que un proyecto o iniciativa tenga el carácter de Ley o Decreto, necesita la aprobación de las dos terceras partes de los Diputados presentes, en votación nominal: la sanción del Ejecutivo y su publicación en el órgano Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+
 ###### Artículo 45.
 
-El Congreso o la Diputación Permanente podrán llamar al Secretario General de Gobierno a cualquiera de sus sesiones secretas o públicas, para pedirle los informes verbales que necesiten sobre asuntos de la Administración, y este funcionario deberá presentarse a ministrarlos.
+El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal a cualquiera de sus Sesiones secretas o públicas, para pedirle los informes verbales que necesiten sobre asuntos de la Administración y estos funcionarios deberán presentarse a ministrarlos.
 
 ###### Artículo 46.
 
@@ -616,7 +622,7 @@ Tampoco podrán hacerlas al Decreto de convocatoria que expida la Diputación Pe
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 53.
 
@@ -652,7 +658,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -674,7 +680,7 @@ DEL PODER EJECUTIVO.
 
 ### CAPITULO IV.
 
-DE LA HACIENDA PUBLICA.
+DE LA HACIENDA PUBLICA, PROGRAMACION Y DEL DESARROLLO URBANO Y RURAL.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -712,9 +718,9 @@ II.- Los miembros del Ejército Mexicano y quienes tengan mando de fuerza dentro
 
 III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
-IV.- El Secretario de Gobierno, el Secretario de Finanzas y Promoción Económica, el Procurador General de Justicia y los Magistrados del Tribunal Superior; si no se separan de sus respectivas funciones noventa días antes de la elección.
+IV.- El Secretario de Gobierno, el Secretario de Finanzas, el Secretario de Programación y Presupuesto, el Secretario de Asentamientos Humanos y Obras Públicas, el Secretario de Desarrollo Agropecuario, el Procurador General de Justicia y los Magistrados del Tribunal Superior de Justicia, si no se separan de sus respectivas funciones noventa días antes de la elección.
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
@@ -734,11 +740,11 @@ Si el día señalado no se presentare el Gobernador electo a otorgar la protesta
 
 El cargo de Gobernador sólo es renunciable por causa grave calificada por el Congreso, ante quien se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 63.
 
-Las faltas del Gobernador hasta por treinta días, serán cubiertas por el Secretario General de Gobierno. Si la falta fuere por mayor tiempo, será cubierta por un Gobernador Interino que nombrará el Congreso, o en los recesos de éste, la Diputación Permanente, siempre que la falta no exceda de dos meses. Si excediere de este término y el Congreso no estuviera reunido, la Diputación Permanente convocará a período de sesiones extraordinario para que se haga la designación.
+Las faltas del Gobernador hasta por treinta días serán cubiertas por el Secretario de Gobierno. Si la falta fuera por mayor tiempo, será cubierta por un Gobernador Interino que nombrará el Congreso o en los recesos de éste, la Diputación Permanente, siempre que la falta no exceda de dos meses. Si excediere de este término y el Congreso no estuviera reunido la Diputación Permanente convocará a Período de Sesiones Extraordinarias para que se haga la designación.
 
 ###### Artículo 64.
 
@@ -794,9 +800,9 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1970)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
-IV.- Nombrar y remover libremente a los Secretarios de Gobierno, Finanzas y Promoción Económica, así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XIX del artículo 40 de la Constitución Política del Estado.
+IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal. Así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las Leyes a que se refiere la fracción XIX del Artículo 40 de la Constitución Política del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -874,7 +880,7 @@ XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la administr
 
 XXVII.- Remover a los miembros de los Ayuntamientos cuando observen mala conducta, abusen de sus facultades, incurran en responsabilidad o cometan algún delito, sometiendo a la aprobación del Congreso o de la Diputación Permanente, la medida adoptada, llamar a los suplentes al ejercicio de sus funciones municipales, y en caso de falta de éstos o que sean incluídos en la remoción, aprobar la designación que haga el Ejecutivo para integrar el Concejo Municipal, sin perjuicio de la consignación que proceda a las Autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 71.
 
@@ -926,25 +932,25 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas y un Secretario de Promoción Económica.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas, un Secretario de Programación y Presupuesto, un Secretario de Asentamientos Humanos y Obras Públicas y un Secretario del Desarrollo Agropecuario.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 75.
 
-Para ser Secretario de Gobierno, de Finanzas y de Promoción Económica, se requiere:
+Para ser Secretario del Ejecutivo Estatal, en relación con el artículo anterior, se requiere:
 
-I.- Ser ciudadano Morelense por nacimiento o ciudadano Mexicano por nacimiento, debiendo en este último caso, tener un mínimo de cinco años de residencia en el Estado.
+I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, (sic) debiendo en este último caso tener un mínimo de cinco años de residencia en el Estado.
 
 II.- Ser mayor de 25 años de edad.
 
 III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 76.
 
-Los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, que se refieran a la Hacienda Pública y a la Promoción Económica, deberán ser suscritos por los Secretarios de Finanzas y de Promoción Económica, respectivamente. Todos los demás Acuerdos, Reglamentos y Decretos del Gobernador del Estado, deberán ser suscritos solamente por el Secretario de Gobierno.
+Los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán ser suscritos por el Secretario de Gobierno, exceptuándose de esta regla, los que se refieran a la Hacienda Pública que serán suscritos por el Secretario de Finanzas y los que se refieren a la promoción económica, gastos, aplicaciones y egresos en general, que serán suscritos por el Secretario de Programación y Presupuesto.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -963,6 +969,8 @@ Los Secretarios del Estado serán responsables de las resoluciones del Gobernado
 ###### Artículo 79.
 
 Los funcionarios a que se refiere el Artículo 74 de la presente Constitución, no podrán ejercer la abogacía, la notaría, ni gestionar negocios del orden judicial o administrativo, salvo los que por competencia legal les corresponda.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ### CAPITULO III.
 
@@ -994,43 +1002,65 @@ VII.- Por los ingresos provenientes de empréstitos, y
 
 VIII.- Por los demás bienes e ingresos a que tenga derecho.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 81.
 
-Los encargados directos de la planeación económica y del programa para obtener los ingresos y el manejo de la hacienda pública, serán:
+Los encargados directos de la Planeación Económica del programa para obtener los Ingresos del Manejo de Hacienda Pública y del Desarrollo Urbano y Rural, serán:
 
-a).- El Secretario de Promoción Económica quien tendrá las siguientes atribuciones:
+a).- El Secretario de Programación y Presupuesto quien tendrá las siguientes atribuciones:
 
 I.- Proyectar el fomento y desarrollo económico del Estado.
 
 II.- Programar, coordinar y autorizar las inversiones públicas de acuerdo con los planes de desarrollo establecidos.
 
-III.- Representar al Estado para que los capitales que le correspondan en organismos descentralizados y empresas de participación estatal den mejores rendimientos.
+III.- Representar al Estado para que los capitales que le corresponda en Organismos Descentralizados y empresas de participación estatal den mejores rendimientos.
 
-IV.- La promoción económica en general.
-
-V.- Las demás que le asignen las leyes de la materia y las que le señale el Gobernador.
-
-b).- El Secretario de Finanzas tendrá las siguientes facultades:
-
-I.- La recaudación de los fondos públicos, su control y vigilancia.
-
-II.- Las que le otorgue la Ley General de Hacienda, las Leyes Especiales, de Impuestos y Contribuciones, la Ley de Ingresos para cada año; la Ley de lo Contencioso Administrativo cuando tenga aplicación en materia hacendaria, los reglamentos, circulares y demás disposiciones derivadas y conexas, así como la Legislación Presupuestaria.
-
-III.- Realizar la inversión de los Fondos públicos.
-
-IV.- Vigilar la aplicación de los Fondos públicos.
+IV.- Realizar la inversión de los fondos públicos y vigilar su aplicación.
 
 V.- Las adquisiciones de todas clases.
 
-VI.- Las demás que le asignen las leyes de la materia y las que le señale el Gobernador.
+VI.- Las demás que le asignen las Leyes de la materia y las que le señale el Gobernador.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
+b).- El Secretario de Finanzas tendrá las siguientes facultades:
+
+I.- La recaudación de los fondos públicos.
+
+II.- Las que le otorgue la Ley General de Hacienda, las Leyes Especiales, de Impuesto y Contribuciones, la Ley de Ingresos para cada año; la Ley de lo Contencioso Administrativo cuando tenga aplicación en materia hacendaria, los reglamentos, circulares y demás disposiciones derivadas y conexas.
+
+III.- La recaudación de impuestos, derechos, productos y aprovechamientos.
+
+IV.- Las demás que le asigna las Leyes de Captación Fiscal y las que le señale el Gobernador.
+
+c).- El Secretario de Asentamientos Humanos y Obras Públicas, quien tendrá las siguientes atribuciones:
+
+I.- Elaborar los planes del Desarrollo de los Asentamientos Humanos, así como del Desarrollo Urbano y Turístico.
+
+II.- Ejecutar las obras aprobadas expresamente, de acuerdo a la fracción anterior.
+
+III.- Controlar el registro público de inmuebles en general.
+
+IV.- Llevar el registro y el control de los bienes del Estado.
+
+V.- Las demás que le asigne las Leyes de la materia y las que le señale el Gobernador.
+
+d).- El Secretario del Desarrollo Agropecuario tendrá las siguientes atribuciones:
+
+I.- Elaborar los planes del Desarrollo Agropecuario del Estado, así como los de la construcción de obras e infraestructura hidráulica, de dicho sector.
+
+II.- Ejecutar los programas aprobados expresamente de acuerdo a la fracción anterior.
+
+III. Elaborar y supervisar los programas de las empresas de participación estatal, del sector agropecuario.
+
+IV.- Conservar y controlar el equipo y maquinaria necesaria para la realización de los programas del sector agropecuario.
+
+V.- Las demás que le asigne las Leyes de la materia y las que le señale el Gobernador.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 82.
 
-El pago de los sueldos señalados en el presupuesto, se hará con equidad a todos los funcionarios y servidores del Estado. Es caso de responsabilidad para el Secretario de Finanzas, cualquier infracción a este Artículo.
+El pago de los sueldos señalados en el Presupuesto, se hará con equidad a todos los funcionarios y servidores del Estado. Es caso de responsabilidad para el Secretario de Programación y Presupuesto cualquier infracción a este Artículo.
 
 ###### Artículo 83.
 
@@ -1354,7 +1384,7 @@ Las diferencias que se susciten entre los Municipios, siempre que no tengan car�
 
 DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 ###### Artículo 119.
 
@@ -1454,7 +1484,7 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
 ###### Artículo 134.
 
-Los Diputados al Congreso del Estado, el Gobernador, el Secretario de Gobierno, el Secretario de Finanzas y Promoción Económica y los Magistrados del Tribunal Superior de Justicia, son responsables por los delitos comunes cometidos durante el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de éste, pero el Gobernador sólo podrá ser acusado durante su período Constitucional por los delitos de traición a la patria, violación expresa de la Constitución, ataques a la libertad electoral y delitos graves del orden común.
+Los Diputados al Congreso del Estado, el Gobernador, el Secretario de Gobierno, el Secretario de Finanzas, el de Programación y Presupuesto, el de Asentamiento (sic) Humanos y Obras Públicas, el del Desarrollo Agropecuario y los Magistrados del Tribunal Superior de Justicia, son responsables por los delitos comunes cometidos durante el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de éste, pero el Gobernador sólo podrá ser acusado durante su período Constitucional por los delitos de traición a la patria, violación expresa de la Constitución, ataques a la libertad electoral y delitos graves del orden común.
 
 ###### Artículo 135.
 
@@ -1701,3 +1731,11 @@ P.O. 13 DE ABRIL DE 1977.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 7 DE SEPTIEMBRE DE 1977.
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las prescripciones contenidas en el presente Decreto.
+
+Artículo Tercero.- Remítase el presente Decreto al Ejecutivo del Estado para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
