@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1987-12-30"
+last_updated: "1989-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -1051,7 +1051,9 @@ Cuando la comisión de una o varias infracciones origine la omisión total o par
 
 I.- Hasta el 75% de las contribuciones omitidas cuando el infractor las pague junto con sus accesorios dentro del mes siguientes a la notificación de la resolución que determinó el monto de las mismas. No será aplicable esta fracción cuando en la comisión de la infracción se dé alguno de los supuestos de la fracción II del artículo anterior.
 
-II.- Hasta el 200% de las contribuciones omitidas en los demás casos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+II.- Hasta el 200% de las contribuciones omitidas, en los demás casos.
 
 El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas y Tesorería General del Estado.
 
@@ -1093,9 +1095,13 @@ II.- No presentar los avisos al registro o hacerlo extemporáneamente.
 
 A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-I.- De $10,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-II.- De $5,000.00 a la comprendida en la fracción II.
+I.- De $30,000.00 a la comprendida en la fracción I.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+II.- De $15,000.00 a la comprendida en la fracción II.
 
 ###### ARTICULO 81.
 
@@ -1105,9 +1111,11 @@ Son infracciones relacionadas con la obligación de pago de contribuciones, con 
 
 I.- No presentar declaraciones, avisos o constancias a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
 
-II.- Presentar declaraciones, solicitudes, avisos o expedir constancias, incompletas o con errores.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-III.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales, pese a mediar requerimiento.
+II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales, pese a mediar requerimiento.
+
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1989)
 
 ###### ARTICULO 82.
 
@@ -1115,29 +1123,31 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I.- Para la señalada en la fracción I:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-A).- Tratándose de declaraciones, la mayor que resulte entre $2,000.00 o el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa del 100% a que se refiere este inciso.
+A).- Tratándose de declaraciones, la mayor que resulte entre $10,000.00 o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa del 100% a que se refiere este inciso.
 
 B).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia:
 
-1.- De $5,000.00 para el primer requerimiento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-2.- De $10,000.00 para el segundo requerimiento.
+1.- De $15,000.00 para el primer requerimiento.
 
-3.- De $20,000.00 para el tercer requerimiento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-II.- Respecto de la señalada en la fracción II:
+2.- De $30,000.00 para el segundo requerimiento.
 
-A).- De $1,000.00 por no poner el nombre o ponerlo equivocadamente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-B).- De $500.00 en los demás casos.
+3.- De $60,000.00 para el tercer requerimiento.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-III.- Tratándose de la señalada en la fracción III, la que resulte mayor entre $2,000.00 o el 100% de las contribuciones no pagadas.
+II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre $10,000.00 o hasta el 100% de las contribuciones no pagadas.
 
-En ningún caso las multas a que se refieren las fracciones I, inciso A) y III de este artículo, podrá exceder de la cantidad equivalente al salario mínimo general de la zona económica correspondiente, elevado el año.
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1989)
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 83.
 
@@ -1183,13 +1193,11 @@ I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar
 
 II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 86.
 
-A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85, se impondrán las siguientes multas:
-
-I.- De $5,000.00 a $50,000.00 a la comprendida en la fracción I.
-
-II.- De $10,000.00 a $50,000.00 a la establecida en la fracción II.
+A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrá una multa de $30,000.00 a $70,000.00.
 
 ###### ARTICULO 87.
 
@@ -1215,15 +1223,17 @@ Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 
 I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 90.
 
-A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrán:
+A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de $20,000.00 a $70,000.00.
 
-I.- De $5,000.00 a $50,000.00.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este capítulo, se sancionará con multa de $1,000.00 a $10,000.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este capítulo, se sancionará con multa de $10,000.00 a $20,000.00.
 
 ### CAPITULO II. De los Delitos Fiscales
 
@@ -2714,3 +2724,7 @@ P.O. 30 DE DICIEMBRE DE 1987.
 ###### ARTICULO TERCERO
 
 - Con motivo de la reforma efectuada al artículo 28 de la Constitución Política del Estado, deberá entenderse que las disposiciones fiscales y administrativas de la Entidad que mencionan al Municipio de Garza García, se refieren al Municipio de San Pedro Garza García.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- La presente Ley entrará en vigor el día 1º de Enero de 1990.
