@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2004-04-12"
+last_updated: "2004-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2004.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3477,7 +3477,9 @@ La misma pena se impondrá a quienes con fines de lucro o sin él, fije, grabe, 
 
 I.- Induzcan a un menor de dieciocho años al consumo de narcóticos, la pena será de tres a seis años de prisión y de trescientos a cuatrocientos días multa;
 
-II.- Induzcan a un menor de dieciocho años al consumo de narcóticos y como consecuencia adquiera farmacodependencia; la pena será de seis a doce años de prisión y de seiscientos a ochocientos días multa;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2004)</small>
+
+II.- Induzcan a un menor de dieciocho años al consumo de narcóticos y como consecuencia adquiera farmacodependencia; la pena será de seis a doce años de prisión y multa de seiscientos a setecientos treinta salario mínimos;
 
 III.- Si el delito es cometido contra un menor de dieciséis años de edad y mayor de doce, la pena aumentará hasta en una tercera parte más. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refiere este artículo;
 
@@ -3689,9 +3691,9 @@ Se aplicará prisión de uno a ocho años, multa de cinco mil a veinticinco mil 
 
 Se aplicará prisión de seis meses a nueve años, multa de cinco mil a veinticinco mil pesos, destitución de empleo o cargo e inhabilitación para obtener otro por el término de tres años al que cometa los delitos señalados en las Fracciones XI, XXXIX y XL del Artículo anterior.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2004)</small>
 
-Se aplicará prisión de seis meses a doce años, multa de cinco mil a veinticinco mil pesos, destitución del cargo e inhabilitación por cuatro años, para obtener cualquier otro, quien incurra en el delito previsto en las fracciones XXXVIII y XLI.
+Se aplicará prisión de seis meses a doce años, y multa de ciento treinta y uno a seiscientos cincuenta y siete salarios mínimos, destitución de cargo e inhabilitación por cuatro años, para obtener cualquier otro; quien incurra en el delito previsto en las fracciones XXXVIII y XLI.
 
 Se aplicará prisión de cuatro a doce años, destitución de empleo, cargo o comisión e inhabilitación por el término de cinco años para obtener cualquier otro y multa de veinticinco mil a treinta mil pesos a los que cometan la violación señalada en la fracción XXIV del referido artículo.
 
@@ -3945,9 +3947,9 @@ Disposiciones comunes a los capítulos precedentes.
 
 235.- Las disposiciones contenidas en este título solo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusiera a lo establecido en ellas.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2004)</small>
 
-235 Bis.- Cuando los delitos a que se refiere este título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y de quinientos a mil días multa. A los servidores públicos se les destituirá de sus empleos y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenado.
+235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenados.
 
 TITULO DECIMOPRIMERO.
 
@@ -4623,15 +4625,21 @@ SI con la conducta descrita en el primer párrafo de este artículo, concurriere
 
 Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2004)</small>
 
-347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño, con la intención de realizar actos tendientes a contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
+347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño con la intención de realizar un acto erótico sexual o para contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 Si el pasivo es menor de doce años de edad se presumirá el engaño; si es mayor de doce y menor de dieciséis años se presumirá la seducción. En estos supuestos la pena se incrementará de un año dos meses a tres años de prisión.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 Si el activo del delito realiza algún acto erótico sexual con la víctima, se sancionará de acuerdo a las reglas del concurso de delitos.
 
-SI el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de seis meses a dos años de prisión.
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
+Si el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de seis meses a dos años de prisión.
 
 Este delito sólo se perseguirá por querella de la parte ofendida.
 
@@ -5498,6 +5506,10 @@ Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto
 P.O. 12 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE JUNIO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
