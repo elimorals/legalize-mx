@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1999-12-28"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -51,19 +51,23 @@ La iniciativa de Ley de Ingresos del Estado se formulará de conformidad con la 
 
 La Ley de Ingresos regirá en el curso del año para el cual se expida, pero si por cualquier circunstancia no se publicara, continuará en vigor la del año anterior, salvo los casos de excepción que establezca el Congreso.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 3.
 
-Las cuotas y tarifas de las contribuciones que establece esta ley en cantidades determinadas, se actualizarán a partir del 1o. de enero de cada año, con el factor que resulte de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior entre el citado índice del mes de noviembre del año anterior al señalado.
+Las cuotas y tarifas de las contribuciones que establece esta ley en cantidades determinadas, se actualizarán a partir del 1° de enero de cada año, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 Para la actualización de las cuotas, en ningún caso podrá aplicarse un factor distinto al señalado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 Cuando esta ley establezca una forma o periodo distinto específicamente para la actualización de alguna contribución, se aplicará ésta, en lugar de lo dispuesto en este artículo.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Las cuotas actualizadas deberán publicarse anualmente en el Periódico Oficial del Gobierno del Estado.
+Las cuotas actualizadas deberán publicarse anualmente, por la Secretaría de Finanzas, en el Periódico Oficial del Gobierno del Estado.
 
 ## TITULO II. DE LOS IMPUESTOS
 
@@ -75,9 +79,9 @@ OBJETO
 
 Es objeto de este impuesto, los ingresos que se obtengan por la realización o explotación de diversiones y espectáculos públicos, dentro del territorio del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Por diversión y espectáculo público debe entenderse, toda representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, ecuestre, circense, cinematográfica, teatral, cultural, de fiestas o ferias regionales, así como por el uso de juegos mecánicos; que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados y se pague una suma de dinero por el boleto o derecho de entrada o uso del juego.
+Por diversión y espectáculo público debe entenderse toda representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, ecuestre, circense, teatral, cultural, de fiestas o ferias regionales, así como por el uso de juegos mecánicos; que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados y se pague una suma de dinero por el boleto o derecho de entrada o uso del juego.
 
 Para los efectos de este impuesto, no se consideran espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
@@ -149,7 +153,7 @@ sea el espectáculo que
 
 presente 4%
 
-c) Cinematógrafos 4%
+c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 d) Deportivos 6%
 
@@ -273,17 +277,23 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la S
 
 Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquéllos casos en que no exista oficina recaudadora en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 27.
 
-Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no exceda de la cantidad que anualmente determine el Congreso del Estado mediante disposiciones de vigencia anual.
+Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no haya excedido de la cantidad de $10,000.00.
+
+La cantidad señalada en el párrafo anterior se actualizará anualmente conforme a lo dispuesto por el artículo 3 de esta ley.
 
 ###### ARTICULO 28.
 
 Los contribuyentes que tengan derecho y se acojan a la opción establecida en el artículo anterior, deberán presentar la declaración del mes de enero asentando en la parte superior derecha la siguiente leyenda "SE OPTA POR PAGO ANUAL", quedando relevados de la obligación de presentar las declaraciones por los meses de febrero a noviembre, pero estarán obligados a presentar la declaración correspondiente al mes de diciembre, en la que liquidarán en forma definitiva el impuesto anual a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 29.
 
-Los contribuyentes que se acojan a la opción señalada en el artículo 27 de esta ley, gozarán de un estímulo fiscal consistente en una reducción parcial del impuesto a su cargo, en el porcentaje que establezca el Congreso del Estado mediante las disposiciones de vigencia anual, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en esta ley.
+Los contribuyentes que se acojan a la opción señalada en el artículo 27 de esta ley, gozarán de un estímulo fiscal consistente en una reducción parcial del impuesto a su cargo, en el porcentaje que mediante Decreto establezca el Ejecutivo del Estado anualmente. Para tener derecho a este estímulo la declaración correspondiente al mes de enero, deberá presentarse dentro del plazo establecido en esta ley.
 
 EXENCIONES
 
@@ -703,11 +713,11 @@ PRIMERA PARTE
 
 DE LA PROPIEDAD
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 79.
 
-Los servicios prestados por el Registro Público de la Propiedad y del Comercio, relativos a la propiedad, causarán derechos conforme a la siguiente:
+Los servicios prestados por el Registro Público, relativos a la propiedad, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -729,6 +739,8 @@ II.- La inscripción o registro de documentos públicos o privados, de resolucio
 
 5.- Si el valor excede de $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.), se pagará por los primeros $150,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad, el 6 al millar.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 6.- Si el valor es indeterminado, se pagarán $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja. (3)
 
 Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en esta fracción.
@@ -737,7 +749,7 @@ III.- La inscripción de la escritura constitutiva y de los aumentos del capital
 
 IV.- La inscripción de las asociaciones de carácter civil y cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuándose el aumento de capital social, en los términos de la fracción II, de este artículo;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 V.- Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja; (2)
 
@@ -770,6 +782,8 @@ X.- El depósito de testamentos ológrafos:
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 XI.- El depósito de cualquier otro documento, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 XII.- La expedición de certificados de no antecedentes registrales de inmuebles, independientemente de la búsqueda, $344.00 (TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.); (2)
 
@@ -835,11 +849,11 @@ SEGUNDA PARTE
 
 DEL COMERCIO
 
-(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 24 DE DICIEMBRE DE 1996) (F. DE E., P.O. 4 DE FEBRERO DE 1997)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 82.
 
-Los servicios prestados por el Registro Público de la Propiedad y del Comercio, relativos al comercio, causarán derechos conforme a la siguiente:
+Los servicios prestados por el Registro Público, relativos al comercio, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -856,6 +870,10 @@ Tratándose de sociedades mercantiles de capital variable, se pagará conforme a
 III.- La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja; (2)
 
 IV.- La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito y agrupaciones financieras o particulares, sobre el importe de la operación, el 4 al millar.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+La inscripción de reestructuración de créditos, causará derechos conforme a esta fracción, únicamente sobre el monto en el que se incremente el crédito ya inscrito, cuando no exista incremento se pagarán $36.00 (TREINTA Y SEIS PESOS 00/100 M.N.) por hoja.
 
 La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos;
 
@@ -884,6 +902,10 @@ Si en una misma escritura se consignaren diversos contratos, se pagará por cada
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
 VIII.- Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja. (2)
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+IX.- La cancelación de inscripciones relativas al comercio causará el 25% de las cuotas que establece esta Sección, sin que pueda ser inferior a $36.00 (TREINTA Y SEIS PESOS 00/100 M.N.).
 
 (REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1007,6 +1029,14 @@ XXIV.- Autorización para la exhumación de cadáveres para ser reinhumados fuer
 
 Las autorizaciones a que se refieren las fracciones XXI, XXII, XXIII y XXIV se expedirán previo cumplimiento de los requisitos exigidos por la Ley Estatal de Salud; y
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XXIV-A.- Por el trámite de pasaporte ordinario mexicano que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $120.00 (CIENTO VEINTE PESOS 00/100 M.N.);
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XXIV-B.- Por el trámite del permiso a que se refiere el artículo 27 Constitucional que se realice en las oficinas de enlace con la Secretaría de Relaciones Exteriores, $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.);
+
 XXV.- Por otros servicios no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.). (2)
 
 SUJETO
@@ -1049,13 +1079,15 @@ III.- Publicación de balances o estados financieros, $271.00 (DOSCIENTOS SETENT
 
 IV.- Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 V.- Suscripciones:
 
-a).- Por un año, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.);
+a).- Por un año, $1,078.00 (MIL SETENTA Y OCHO PESOS 00/100 M.N.);
 
-b).- Por seis meses, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.); y
+b).- Por seis meses, $538.00 (QUINIENTOS TREINTA Y OCHO PESOS 00/100 M.N.); y
 
-c).- Por tres meses, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.).
+c).- Por tres meses, $282.00 (DOSCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.).
 
 VI.- Número del día, $7.00 (SIETE PESOS 00/100 M.N.);
 
@@ -1064,6 +1096,10 @@ VII.- Números atrasados hasta 6 años, $28.00 (VEINTIOCHO PESOS 00/100 M.N.);
 VIII.- Números atrasados de más de 6 años, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); y
 
 IX.- Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.). (5)
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+El pago de las cuotas establecidas en la fracción V, darán derecho a que el contribuyente reciba por la suscripción, todos los ejemplares incluyendo Códigos, Leyes y Reglamentos.
 
 PAGO
 
@@ -1108,6 +1144,14 @@ Cuando el titular de la licencia no sea quien enajene o preste los servicios, ob
 ###### ARTICULO 95.
 
 Los sujetos de este derecho que cuenten con licencia para su funcionamiento, deberán obtener dentro del mes de enero de cada año la revalidación anual de la licencia para el funcionamiento de estos establecimientos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+La licencia y la constancia de revalidación, deberán exhibirse por los contribuyentes en un lugar visible del establecimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+La omisión de esta obligación se considerará como infracción en términos de lo dispuesto por el Código Fiscal para el Estado de Coahuila.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 59], P.O. 24 DE DICIEMBRE DE 1996)
 
@@ -1769,8 +1813,6 @@ OBJETO
 
 OBJETO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 98], P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 132.
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Contraloría y Modernización Administrativa en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
@@ -1823,7 +1865,9 @@ I.- Los prestados por el Departamento de Servicios Periciales de:
 
 1.- Pruebas y Técnicas:
 
-a).- Prueba de espermatobioscopia, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+a).- Prueba de espermatobioscopia, $107.00 (CIENTO SIETE PESOS 00/100 M.N.)
 
 b).- Técnica de bencidina, $105.00 (CIENTO CINCO PESOS 00/100 M.N.); (3)
 
@@ -1863,15 +1907,21 @@ d).- Valoración de daños, $1,107.00 (MIL CIENTO SIETE PESOS 00/100 M.N.); (3)
 
 e).- Dactiloscopía, $669.00 (SEISCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.); (3)
 
-f).- Certificado de no antecedentes policiacos, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.); y (3)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+f).- Certificado de no antecedentes policíacos, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.)
 
 g).- Certificaciones y constancias, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.). (3)
 
-En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, $13.00 (TRECE PESOS 00/100 M.N.) por kilómetro. (7)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+En todos los casos en que el personal del Departamento de servicios periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente presten sus servicios, se causarán derechos de $11.00 (ONCE PESOS 00/100 M.N.) por kilómetro.
 
 II.- Los prestados por otras unidades administrativas de la Procuraduría General de Justicia:
 
-1.- Certificaciones y constancias, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); y (3)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+1.- Certificaciones y constancias, $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.);
 
 2.- Por otros servicios no especificados, $87.00 (OCHENTA Y SIETE PESOS 00/100 M.N.). (3)
 
@@ -1889,63 +1939,19 @@ OBJETO
 
 ###### ARTICULO 138.
 
-Los servicios prestados por el Organismo Desconcentrado del Ejecutivo del Estado, denominado "Servicios Estatales Aeroportuarios", causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I.- Renta mensual de hangar, se cobrará de conformidad con los contratos que celebren con los usuarios;
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
-
-II.- Aterrizaje:
-
-1.- Considerando el peso de la aeronave monomotor, cualquier clase de un motor o pistón $84.00 (OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
-
-2.- King-Air, Cessna 340-341-441, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.); (3)
-
-3.- Lear Jet Sabreliner, Turbo Comander, Citation Falcon-20, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
-
-4.- Challenger, $146.00 (CIENTO CUARENTA Y SEIS PESOS 00/100 M.N.); (3)
-
-5.- Grumman, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (3)
-
-6.- Curtis, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.); (3)
-
-7.- DC-9, $451.00 (CUATROCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.); y (3)
-
-8.- Boeing Carguero, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.). (3)
-
-III.- Pernoctas, aeronave de todo tipo, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.); (2)
-
-IV.- Extensión de horario de servicios, para cualquier tipo de aeronave por cada media hora, $193.00 (CIENTO NOVENTA Y TRES PESOS 00/100 M.N.); (2)
-
-V.- La asignación de locales comerciales y áreas para publicidad, se pagará de conformidad con los contratos que se celebren con los particulares;
-
-VI.- Para la aviación comercial, se aplicarán las tarifas establecidas en los contratos respectivos, para la tarifa de uso de aeropuerto se aplicará la aprobada a nivel nacional.
-
-VII.- Por otros servicios:
-
-1..- Entrada de vehículos a plataforma, $61.00 (SESENTA Y UN PESOS 00/100 M.N.); y (3)
-
-2.- Entrada de trailers a plataforma, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.). (3)
-
-VIII.- Por otros servicios no especificados, $98.00 (NOVENTA Y OCHO PESOS 00/100 M.N.). (2)
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 SUJETO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 99], P.O. 24 DE DICIEMBRE DE 1996)
-
 ###### ARTICULO 139.
 
-Son sujetos de este derecho las personas físicas o morales que soliciten los servicios establecidos en el artículo que antecede.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 100], P.O. 24 DE DICIEMBRE DE 1996)
-
 ###### ARTICULO 140.
 
-El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 ### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO Y RAMOS ARIZPE
 
@@ -2580,3 +2586,13 @@ El presente Decreto entrará en vigor a partir del 1o. de enero del año 2000.
 ###### ARTICULO SEGUNDO.
 
 Se derogan los artículos 3° y 4° transitorios del Decreto 412 publicado en el Periódico Oficial de Gobierno del Estado No. 103 de fecha 24 de Diciembre de 1996, así mismo se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+SE derogan todas las disposiciones que se opongan al presente Decreto.
