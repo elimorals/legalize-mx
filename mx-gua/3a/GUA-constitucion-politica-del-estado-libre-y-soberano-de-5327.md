@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1984-02-17"
+last_updated: "1985-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -641,7 +641,9 @@ X.- Convocar a elecciones de Gobernador en caso de falta absoluta del que debier
 
 XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y con aprobación de la mayoría de los Ayuntamientos, la división política del Estado;
 
-XII.- Solicitar al Gobernador del Estado la comparecencia de Funcionarios del Poder Ejecutivo para que informen al Congreso cuando se discuta o estudie un negocio relativo a las funciones que aquellos ejerzan;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1985)</small>
+
+XII.- Solicitar al Gobernador del Estado la comparecencia de Funcionarios del Poder Ejecutivo para que informen al Congreso, cuando se discuta o estudie un asunto relativo a las funciones que aquéllos ejerzan. Solicitar la comparecencia de los Presidentes de los Ayuntamientos y Concejos Municipales y la de los Titulares de los Organismos Públicos Doscentralizados (sic) de los Municipios, para los mismos efectos;
 
 XIII.- Fijar anualmente los gastos que requiere la Administración Pública del Estado, previo examen del Presupuesto de Egresos presentado por el Gobernador y decretar la Ley de Ingresos respectiva;
 
@@ -819,11 +821,15 @@ El cargo de Gobernador del Estado sólo es renunciable por causa grave calificad
 
 En las ausencias o faltas temporales del Gobernador del Estado, se observarán las siguientes disposiciones:
 
-I.- Las ausencias hasta por noventa días, serán suplidas por el Secretario General del Gobierno; y,
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1985)</small>
+
+I.- Las ausencias hasta por noventa días serán suplidas por el Secretario de Gobierno; y
 
 II.- Si la falta temporal excede de noventa días, el Congreso designará un Gobernador Interino para que lo supla durante su ausencia.
 
-De no estar reunido el Congreso, la Diputación Permanente lo convocará de inmediato, fungiendo como Gobernador, entre tanto, el Secretario General del Gobierno, como Encargado del Despacho.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
+
+De no estar reunido el Congreso, la Diputación Permanente lo convocará de inmediato, fungiendo como Gobernador entre tanto, el Secretario de Gobierno, como encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -881,11 +887,11 @@ XXII.- Las demás que le concedan esta Constitución y las Leyes.
 
 El Gobernador del Estado asistirá el primer domingo de agosto de cada año a la Sesión Ordinaria que celebre el Congreso, en la que presentará un Informe por escrito, exponiendo la situación que guarda la Administración Pública del Estado. También podrá comparecer cuando lo solicite para informar sobre asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 79.
 
-Todas las Leyes, Decretos y Reglamentos, para su cumplimiento serán promulgados por el Gobernador del Estado y refrendados por el Secretario General del Gobierno, o por quien haga sus veces y por él o los Secretarios del Ramo al que el asunto corresponda.
+Todas las leyes, decretos y reglamentos, para su cumplimiento, serán promulgados por el Gobernador del Estado y refrendados por el Secretario de Gobierno o por quien haga sus veces y por el o los Secretarios del Ramo al que el asunto corresponda.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1043,7 +1049,7 @@ Los Jueces de Primera Instancia y los Jueces Menores en funciones, no podrán ej
 
 ## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO UNICO
 
@@ -1091,11 +1097,11 @@ I.- Los ingresos que determinen las Leyes de la materia; y,
 
 II.- Los ingresos que adquiera por subsidios, participaciones, legados, donaciones o cualesquiera otra causa.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 100.
 
-El cobro y administración de los caudales Públicos competen a la Secretaría de Finanzas. El personal de dicha Dependencia tendrá las facultades y obligaciones señaladas por las Leyes sobre la materia.
+El cobro y administración de los caudales públicos competen a la Secretaría de Administración Financiera. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1287,7 +1293,7 @@ X.- La realización de las funciones electorales, federales y estatales, de conf
 
 XI.- Las demás facultades y obligaciones que les señale la Ley.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO UNICO
 
@@ -1820,3 +1826,23 @@ En tanto se reforma el Reglamento Interior del Congreso del Estado o se expide l
 ###### ARTICULO TERCERO.
 
 En los casos en que la Ley Secundaria se refiera a los Jueces Municipales, se entenderá que alude a los Jueces Menores que menciona este Decreto.
+
+P.O. 27 DE DICIEMBRE DE 1985.
+
+DECRETO No. 5
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1985.
+
+DECRETO No. 6
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En todos los casos en que las leyes secundarias reglamentarias o cualesquiera otras disposiciones de carácter general se refieran a la Secretaría General del Gobierno o a la Secretaría de Finanzas, se entenderá que aluden a la Secretaría de Gobierno y a la Secretaría de Administración Financiara que se mencionan en el presente Decreto.
