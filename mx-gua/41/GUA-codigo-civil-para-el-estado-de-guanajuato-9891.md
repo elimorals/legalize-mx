@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1985-07-19"
+last_updated: "1988-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1879,7 +1879,7 @@ VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren de
 
 La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-I. Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, lII, IV, V, VIII, XIV y XV del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+I. Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, lII, IV, V, VIII, XIV y XV del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor;
 
 II. Cuando las causas del divorcio estuvieren comprendidas en las fracciones X, XI, XII, XIII y XVI del artículo 323, los hijos quedarán bajo la patria potestad del cónyuge inocente pero a la muerte de éste el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que correspondan y si no hay quien la ejerza se les nombrará tutor;
 
@@ -7105,7 +7105,7 @@ II. La realización del hecho o acto que se hubiere estipulado en el contrato o 
 
 III. La circunstancia de que la prestación de una de las partes hubiera llegado a ser excesivamente onerosa por acontecimientos extraordinarios e imprevisibles, ajenos a su voluntad y que no sean consecuencia de la ejecución normal del contrato.
 
-Esta causa de resolución no surtirá efecto su la contraparte acepta modificar equitativamente las condiciones del contrato.
+Esta causa de resolución no surtirá efecto su la contraparte acepta modificar equitativamente las condiciones del contrato
 
 ###### Art. 1352.
 
@@ -8387,7 +8387,9 @@ Al fijar el valor y el deterioro de una cosa, no se atenderá el precio estimati
 
 La responsabilidad civil puede ser regulada por convenio de las partes, salvo aquellos casos en que la ley disponga expresamente otra cosa.
 
-Si la prestación consistiere en el pago de cierta cantidad de dinero, los daños y perjuicios que resulten de la falta de cumplimiento no podrán exceder del interés legal, que será del seis por ciento anual, salvo convenio en contrario.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+
+Si la prestación consistiere en el pago de cierta cantidad de dinero, los daños y perjuicios que resulten de la falta de cumplimiento no podrán exceder del interés legal a que se refiere el artículo 1895, salvo convenio en contrario.
 
 ###### Art. 1610.
 
@@ -9749,17 +9751,23 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+
 ###### Art. 1895.
 
-El interés legal es el seis por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal será el 50% del Costo Porcentual Promedio (CPP Banxico) o cualquier otro índice o factor que para el mismo efecto fije el Banco de México. El interés convencional es el que fijen los contratantes, y que puede ser mayor o menor al interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+
+Para los efectos del párrafo anterior el interés legal se determinará atendiendo al promedio del CPP Banxico vigente en la fecha en que la obligación fue exigible y la fecha del cumplimiento de la misma.
 
 ###### Art. 1896.
 
 Si en el caso a que se refiere el artículo anterior, el deudor demostrará que realmente su acreedor abusó de su estado de necesidad, de su ignorancia o inexperiencia, podrá pedir, si no optará por la reducción equitativa del interés, que se declare la nulidad absoluta del contrato, con efectos restitutorios, sirviendo como base para calcular el interés por el tiempo anterior a la declaratoria de nulidad, el que equitativamente fije el Juez, según las circunstancias del caso, el cual podrá ser reducido hasta el tipo del interés legal, si tales circunstancias lo ameritan.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+
 ###### Art. 1897.
 
-Si se ha convenido un interés más alto que el doce por ciento anual, el deudor, después de seis meses contados desde que se celebró el contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos.
+Si se ha convenido un interés más alto que el 100% del Costo Porcentual Promedio, (CPP Banxico) el deudor en cualquier tiempo a partir de la fecha de celebración del contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor y pagando los intereses vencidos.
 
 ###### Art. 1898.
 
@@ -15584,3 +15592,9 @@ P.O. 19 DE JULIO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
