@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1924-05-22"
+last_updated: "1924-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -59,13 +59,13 @@ En el Estado sólo podrán ejercer las profesiones de abogado, médico-cirujano,
 
 Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudican a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se hubieren dictado, y a sus causa-habientes.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
 
 ###### Art. 6º.
 
-La aplicación de las penas corresponde a la Autoridad Judicial. Compete a la Autoridad Administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa hasta de cien pesos o arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+La aplicación de las penas corresponde a la autoridad judicial. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en la multa que señalen los mismos o en arresto hasta de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta con el arresto correspondiente, que no excederá en ningún caso de quince días.
 
-Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana.
+Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal ó sueldo de una semana.
 
 La persecusión de los delitos, incumbe al Ministerio Público y a la Policía Judicial.
 
@@ -249,11 +249,11 @@ El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia, a l
 
 Jamás podrán reunirse dos o más de estos Poderes en una persona o Corporación ni el Legislativo depositar la suma de su poder en una sola persona.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
 
 ###### Art. 32.
 
-El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales y los Regidores de los Ayuntamientos, serán nombrados popularmente y por elección directa. Los Magistrados y los Jueces de Partido serán nombrados por la Legislatura funcionando en Colegio Electoral, y los Municipales y los Jurados, por los Ayuntamientos respectivos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Presidentes Municipales y los Regidores de los Ayuntamientos, serán nombrados popularmente y por elección directa. Los Magistrados serán nombrados por la Legislatura funcionando en Colegio Electoral; los Jueces de Partido y los Municipales por el Supremo Tribunal de Justicia y los Jurados por los Ayuntamientos respectivos.
 
 ###### Art. 33.
 
@@ -463,7 +463,9 @@ VI. La realización de los trabajos electorales.
 
 VII. La inspección de todas las escuelas, tanto públicas como privadas.
 
-VIII. Designar por elección los Jueces Municipales y los Jurados para la administración de Justicia, en los términos sañalados (sic) por esta Constitución y por la ley Orgánica de Tribunales.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
+
+VIII. Nombrar por elección los Jurados para la administración de justicia en los términos señalados por esta Constitución y por la Ley Orgánica de Tribunales.
 
 IX. Nombrar y remover libremente a sus empleados y concederles toda clase de licencias.
 
@@ -627,15 +629,15 @@ Cada presunta Legislatura calificará las elecciones de sus miembros y resolver�
 
 VIII. Calificar toda clase de elecciones cuando se reclame contra ellas.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
 
-IX. Erigirse en Colegio Electoral para nombrar Magistrados del Supremo Tribunal y de Jueces de Partido, así como para elegir Gobernador del Estado, que termine el período constitucional, en caso de falta absoluta de este funcionario, ocurrido dentro de los últimos dieciocho meses del mismo período, o cuando la falta sea temporal y exceda de treinta días.
+IX. Erigirse en Colegio Electoral para nombrar Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el periodo constitucional, en caso de falta absoluta de éste funcionario ocurrida dentro de los últimos dieciocho meses, o cuando la falta sea temporal y exceda de treinta días.
 
 X. Hacer la división del Estado en Distritos electorales.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
 
-XI. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado, Magistrados del Supremo Tribunal y Jueces de Partido; y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de ocho días.
+XI. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado y Magistrados del Supremo Tribunal, y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de ocho días.
 
 XII. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
@@ -741,7 +743,7 @@ I. Acordar por sí sola, cuando el caso lo exija, o a iniciativa del Ejecutivo, 
 
 II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados Locales, reservando los primeros a la Legislatura y los segundos al C. Presidente de la Junta Preparatoria del nuevo Congreso para que se hagan los cómputos y declaraciones respectivos.
 
-III. Nombrar Jueces de Partido interinos, para sustituir en sus faltas a los propietarios, dando cuenta a la Legislatura, al comenzar las sesiones ordinarias.
+III. (DEROGADA, P.O. 8 DE JUNIO DE 1924)
 
 IV. Nombrar, con calidad de interinos, los empleados de la Secretaría de la Cámara y de la oficina de Glosa.
 
@@ -783,11 +785,9 @@ III. Consultar a la Legislatura del Estado, las dudas de ley que se presenten a 
 
 IV. Dar mensualmente a la Presidencia, por medio de sus Secretarios, una noticia de los negocios civiles y criminales concluídos y de los pendientes en el mismo Tribunal, para conocimiento de los otros Poderes.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
 
-V. Nombrar sus Secretarios y demás empleados y remover a unos y a otros a su arbitro (sic), pudiendo concederles licencias hasta por un mes, con o sin goce de sueldo.
-
-Las licencias de mayor duración se otorgarán por la Legislatura y en sus recesos por la Diputación Permanente.
+V.- Erigirse en Colegio Electoral para nombrar Jueces de Partido y Municipales. Nombrar los que deban funcionar interinamente para substituir en sus faltas a los propietarios. Admitir las renuncias de dichos jueces y concederles licencias. Nombrar sus Secretarios y demás empleados y remover a unos y a otros a su arbitrio, pudiendo concederles licencias con o sin goce de sueldo.
 
 VI. Formar su reglamento interior, enviándolo al Congreso para su aprobación.
 
@@ -807,23 +807,27 @@ El Presidente del Tribunal será uno de los Magistrados propietarios, designado 
 
 Jueces de Partido y Municipales.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
+
 ###### Art. 66.
 
-Los Jueces de Partido durarán en su encargo cuatro años y no podrán ser removidos sino por causa justificada. En sus faltas temporales por más de dos meses, la Legislatura nombrará Juez interino por el tiempo que dure la falta.
+Los Jueces de Partido durarán en su encargo cuatro años y no podrán ser removidos sino por causa justificada. En sus faltas temporales el Supremo Tribunal de Justicia nombrará Juez Interino por el tiempo que dure la falta.
 
 ###### Art. 67.
 
 Para ser Juez de Partido, se requiere: Ser Ciudadano mexicano, de preferencia guanajuatense, en ejercicio de sus derechos; abogado con dos años de práctica y no haber sino condenado por delito alguno con motivo de sus funciones, o por delito contra la propiedad.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
 
 ###### Art. 68.
 
-Los Jueces de Partido residirán en la Cabecera del Partido Judicial y no podrán cambiar el despacho a otra población, sino autorizados por la Legislatura o por la Diputación Permanente durante los recesos.
+Los Jueces de Partido residirán en la Cabecera del Partido Judicial y no podrán cambiar el despacho a otra población, sino autorizados por el Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
 
 ###### Art. 69.
 
-Los Jueces Municipales serán nombrados por los Ayuntamientos, quienes fijarán el tiempo de la elección, período de sus funciones y remuneración que deban percibir.
+Los Jueces Municipales serán nombrados por el Supremo Tribunal de Justicia en los términos de la Ley Orgánica respectiva.
 
 ###### Art. 70.
 
@@ -1044,3 +1048,7 @@ P.O. 22 DE MAYO DE 1924.
 ###### ARTICULO SEGUNDO
 
 La presente reforma surtirá sus efectos desde la fecha de su promulgación.
+
+P.O. 8 DE JUNIO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
