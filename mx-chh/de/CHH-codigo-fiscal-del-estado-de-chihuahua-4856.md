@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1998-01-28"
+last_updated: "1998-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1739,11 +1739,11 @@ DE LA BASE
 
 DE LA TASA
 
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989) (F. DE E., P.O. 13 DE ENERO DE 1990)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-169.- El impuesto se causará aplicando a la base que señala el Artículo 168, la tasa que corresponda, de acuerdo al equivalente con las unidades de Salario Mínimo General elevado al mes que rija en la zona del domicilio del contribuyente, conforme a la siguiente tarifa:
+169.- El impuesto se causará aplicando a la base que señala el artículo 168 la tasa que corresponda, de acuerdo al equivalente con las unidades de salario mínimo general elevado al mes del área geográfica en que se ubique el domicilio del contribuyente, conforme a la siguiente tarifa:
 
-Hasta 15 salarios mínimos 1%
+Hasta 15 salarios mínimos 1.00%
 
 Más de 15 hasta 45 salarios mínimos 1.25%
 
@@ -1751,7 +1751,15 @@ Más de 45 hasta 75 salarios mínimos 1.50%
 
 Más de 75 hasta 120 salarios mínimos 1.75%
 
-Más de 120 salarios mínimos 2%
+Más de 120 hasta 250 salarios mínimos 2.00%
+
+Más de 250 hasta 350 salarios mínimos 2.50%
+
+Más de 350 hasta 450 salarios mínimos 3.00%
+
+Más de 450 salarios mínimos 3.50%
+
+Para efectos de la determinación del salario mínimo general elevado al mes, éste se considerará de 30.4 días.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -1783,7 +1791,7 @@ h).- Prestaciones de servicio de comedor, bono de transporte, uniformes de traba
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
-i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean igualesa a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
+i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
@@ -4580,3 +4588,9 @@ P.O. 28 DE ENERO DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día primero de enero del año mil novecientos noventa y nueve.
