@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "1981-12-31"
+last_updated: "1984-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -230,19 +230,55 @@ En las autorizaciones a que se refiere el artículo anterior, el Instituto Nacio
 
 El Instituto Nacional de Antropología e Historia suspenderá los trabajos que se ejecuten en monumentos arqueológicos sin autorización, que violen la concedida o en los que haya substracción de materiales arqueológicos. En su caso, procederá a la ocupación del lugar, a la revocación de la autorización y a la aplicación de las sanciones correspondientes.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 33.
 
-Son monumentos artísticos, las obras que revisten valor estético relevante.
+Son monumentos artísticos los bienes muebles e inmuebles que revistan valor estético relevante.
 
-Salvo el muralismo mexicano, las obras de artistas vivos no podrán declararse monumentos.
+Para determinar el valor estético relevante de algún bien se atenderá a cualquiera de las siguientes características: representatividad, inserción en determinada corriente estilística, grado de innovación, materiales y técnicas utilizados y otras análogas.
 
-La obra mural relevante será conservada y restaurada por el Estado.
+Tratándose de bienes inmuebles, podrá considerarse también su significación en el contexto urbano.
+
+Las obras de artistas vivos que tengan la naturaleza de bienes muebles no podrán declararse monumentos artísticos.
+
+Podrán ser declaradas monumentos las obras de artistas mexicanos, cualquiera que sea el lugar donde sean producidas. Cuando se trate de artistas extranjeros, sólo podrán ser declaradas monumentos las obras producidas en territorio nacional.
+
+La declaratoria de monumento podrá comprender toda la obra de un artista o sólo parte de ella. Igualmente, podrán ser declaradas monumentos artísticos o quedar comprendidas dentro de las zonas de monumentos artísticos, obras de autores cuya identidad se desconozca.
+
+La obra mural de valor estético relevante será conservada y restaurada por el Estado.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 34.
 
-Para los efectos del artículo 5o. de esta Ley, se creará la Comisión Nacional de Zonas y Monumentos Artísticos, que tendrá por objeto proponer al Presidente de la República la declaratoria de zonas y monumentos de la obra de un artista mexicano fallecido; y llevar el registro de las obras artísticas muebles a partir de su primera exhibición en el país de conformidad con las disposiciones del Reglamento que organice sus funciones, sin perjuicio de lo dispuesto en la Ley Federal sobre el Derecho de Autor.
+Se crea la Comisión Nacional de Zonas y Monumentos Artísticos, la que tendrá por objeto dar su opinión a la autoridad competente sobre la expedición de declaratorias de monumentos artísticos y de zonas de monumentos artísticos.
 
-La Comisión estará integrada por el Director del Instituto Nacional de Bellas Artes y Literatura, quien la presidirá, y por críticos, artistas y exhibidores de obras de arte, así como por los organismos y asociaciones relacionadas con estas actividades que su Reglamento determine.
+La opinión de la Comisión será necesaria para la validez de las declaratorias.
+
+La Comisión se integrará por:
+
+a) El Director General del Instituto Nacional de Bellas Artes y Literatura, quien la presidirá.
+
+b) Un representante de la Secretaría de Desarrollo Urbano y Ecología.
+
+c) Un representante de la Universidad Nacional Autónoma de México.
+
+d) Tres personas, vinculadas con el arte, designadas por el Director General del Instituto Nacional de Bellas Artes y Literatura.
+
+Tratándose de la declaratoria de monumentos artísticos de bienes inmuebles o de zonas de monumentos artísticos, se invitará, además, a un representante del Gobierno de la Entidad Federativa en donde los bienes en cuestión se encuentran ubicados.
+
+La Comisión sólo podrá funcionar cuando esté presente el Director General del Instituto Nacional de Bellas Artes y Literatura y más de la mitad de sus restantes miembros. Las decisiones se tomarán por mayoría de votos de los presentes y el presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1984)</small>
+
+###### ARTICULO 34 Bis.
+
+Cuando exista el riesgo de que se realicen actos de efectos irreparables sobre bienes muebles o inmuebles con valor estético relevante, conforme al artículo 33 de esta Ley, la Secretaría de Educación Pública, por conducto del Instituto Nacional de Bellas Artes y Literatura, sin necesidad de la opinión a que se refiere el artículo 34 podrá dictar una declaratoria provisional de monumento artístico o de zona de monumentos artísticos, debidamente fundada y motivada de acuerdo con la misma Ley, que tendrá efectos por un plazo de 90 días naturales a partir de la notificación de que esa declaratoria se haga a quien corresponda, en la que se mandará suspender el acto y ejecutar las medidas de preservación que resulten del caso.
+
+Los interesados podrán presentar ante el Instituto Nacional de Bellas Artes y Literatura objeciones fundadas, dentro del término de 15 días contados a partir de la notificación de la declaratoria, que se harán del conocimiento de la Comisión de Zonas y Monumentos Artísticos y de la Secretaría de Educación Pública para que ésta resuelva.
+
+Dentro del plazo de noventa días que se prevé en este artículo, se expedirá y publicará, en su caso, en el Diario Oficial de la Federación, la declaratoria definitiva de monumento o de zona de monumentos artísticos. En caso contrario, la suspensión quedará automáticamente sin efecto.
 
 ###### ARTICULO 35.
 
@@ -395,3 +431,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 D.O.F. 31 DE DICIEMBRE DE 1981.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 26 DE NOVIEMBRE DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
