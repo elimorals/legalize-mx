@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1998-02-10"
+last_updated: "1998-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -266,15 +266,17 @@ Los ciudadanos, mediante el ejercicio del voto, y de entre los candidatos propue
 
 El sufragio popular es un derecho y una obligación inherente a la calidad del ciudadano que se ejerce en forma universal, libre, secreta, directa, personal e intransferible.
 
-La función electoral corresponde al Estado, quien la desempeñará a través de un organismo público descentralizado integrado mayoritariamente por consejeros ciudadanos y representantes de los partidos políticos, con la concurrencia de los poderes Legislativo y Ejecutivo y será la máxima autoridad electoral cuyos principios rectores serán la certeza, legalidad, imparcialidad, objetividad y profesionalismo. Tendrá a su cargo la preparación, organización, desarrollo y vigilancia de los procesos electorales, sesionará públicamente, tomará sus acuerdos en forma colegiada, será independiente en sus resoluciones, autónomo en su administración y contará con personalidad jurídica y patrimonio propios.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)(F. DE. E., P.O. 4 DE DICIEMBRE DE 1998)
+
+La función electoral corresponde al Estado, quien lo desempeñará a través de un organismo público descentralizado integrado mayoritariamente por consejeros ciudadanos y representantes de los partidos políticos, con la concurrencia del Poder Legislativo y será la máxima autoridad electoral cuyos principios rectores serán la certeza, legalidad, imparcialidad, objetividad e independencia. Tendrá a su cargo la preparación, organización, desarrollo y vigilancia de los procesos electorales, sesionará públicamente, tomará sus acuerdos en forma colegiada, será independiente en sus resoluciones, autónomo en su administración y contará con personalidad jurídica y patrimonio propios.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
 
 Los Consejeros Ciudadanos del organismo público encargado de la función electoral serán electos por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, de entre los propuestos por los Diputados de los diferentes partidos representados en el propio Congreso. La ley señalará las reglas y el procedimiento correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-La calificación de las elecciones de Diputados corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias que emita el Tribunal Superior de Justicia, en materia electoral. La calificación de las elecciones de Gobernador y Ayuntamiento se hará en los términos de la fracción XV, del artículo 67 de esta Constitución.
+La calificación de las elecciones de Gobernador, Diputados y Ayuntamientos corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias que emita el Tribunal Superior de Justicia, en materia electoral.
 
 Es derecho de los ciudadanos constituir y pertenecer a partidos políticos, éstos son de interés público, gozarán de prerrogativas incluyendo la de financiamiento, tendrán derecho a estar representados en todos los organismos electorales, serán corresponsables de la función electoral, expresan el pluralismo ideológico dentro de los principios de un régimen democrático y en su actuación no tendrán más límite que el respeto a la Constitución y a las leyes que de ella emanen.
 
@@ -285,8 +287,6 @@ Los Consejeros Ciudadanos del organismo público encargado de la función electo
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
 
 La calificación de las elecciones de Diputados corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias que emita el Tribunal Superior de Justicia, en materia electoral. La calificación de las elecciones de Gobernador y Ayuntamiento se hará en los términos de la fracción XV, del artículo 67 de esta Constitución.
-
-> <small>(DEROGADO NOVENO PARRAFO, P.O. 28 DE JUNIO DE 1996)</small>
 
 El Congreso del Estado expedirá la Ley Reglamentaria en la que se determinarán los procedimientos, la forma y términos del ejercicio de los derechos y el cumplimiento de las obligaciones en materia electoral.
 
@@ -330,15 +330,17 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+
+###### ARTICULO 33.
+
+El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y hasta doce diputados electos bajo el principio de representación proporcional que disponga la ley.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+
+Para la elección de los diputados de representación proporcional, se constituirán dos circunscripciones electorales plurinominales en el estado.
+
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
-
-###### Artículo 33.
-
-El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y hasta doce diputados electos bajo los principios de representación mínima y proporcional que disponga la ley.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
-
-Para la elección de los diputados de representación, se constituirán dos circunscripciones electorales plurinominales en el Estado.
 
 Por cada diputado local propietario, deberá elegirse un suplente.
 
@@ -358,15 +360,15 @@ Ningún partido político o coalición podrá contar con más de veinte diputado
 
 En el caso de que el partido político o coalición con mayor votación no lograre el triunfo en los veinte distritos electorales uninominales. Sólo podrá acceder a un máximo de diecinueve diputados, cualquiera que sea el principio bajo el cual hayan sido electos.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-Para tener derecho a participar en la asignación de diputados por los principios de representación los partidos políticos deberán satisfacer los siguientes requisitos:
+Para tener derecho a participar en la asignación de diputados por el principio de representación proporcional, los partidos políticos deberán satisfacer los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 1.- No haber alcanzado la totalidad de las diputaciones de mayoría relativa.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1996)</small>
-
-En el caso de las diputaciones de representación mínima, no haber alcanzado ninguna diputación de mayoría relativa en su respectiva circunscripción.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 2.- Haber registrado y mantenido hasta el día de la elección candidatos propios en cuando menos diez distritos uninominales.
 
@@ -688,9 +690,9 @@ XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la mi
 
 XIV. Establecer, mediante una ley, las bases conforme a las cuales el Estado, los Municipios y las entidades paraestatales y paramunicipales, podrán contraer obligaciones y empréstitos, así como autorizar los conceptos y montos de los mismos, con observancia de lo dispuesto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-XV. Recibir los expedientes de las elecciones de Gobernador y Ayuntamientos, en su caso. Para calificar estas elecciones y hacer la declaratoria de los ciudadanos que hayan resultado electos, se constituirá en Colegio Electoral, Asimismo, registrar las declaratorias de validez de las elecciones de diputados, que emita el organismo electoral facultado para ello.
+XV. Recibir las declaratorias de validez de las elecciones de Gobernador, Diputados y Ayuntamientos, que emita el organismo electoral facultado para ello.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1570,9 +1572,9 @@ Cada municipio estará administrado por un ayuntamiento que será renovado en su
 
 Los Ayuntamientos se integrarán con un presidente, un síndico y el número de regidores que determine la ley. Así mismo, cada ayuntamiento contará con un número de suplentes que deberá ser igual al de los regidores y síndico, para cubrir las ausencias de éstos conforme a la ley.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-La ley introducirá los principios de representación mínima y proporcional en la elección de Ayuntamientos de todos los municipios del Estado.
+La ley introducirá el principio de representación proporcional en la elección de ayuntamientos de todos los municipios del estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1766,9 +1768,9 @@ Cuando el Presidente Municipal electo no se presente a rendir protesta, el Congr
 
 En caso de que no se presenten a rendir protesta el Síndico y los regidores electos, el Congreso mandará llamar a quienes figuren en la lista de suplentes, y de entre éstos designará a quienes deban de cubrir las vacantes.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-Cuando un regidor de representación mínima o proporcional no se presente a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de regidores que figuraron en la planilla que fue propuesta por el partido político o coalición de que se trate.
+Cuando un regidor de representación proporcional no se presente a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de preferencia de regidores que fue propuesta por el partido político o coalición de que se trate.
 
 En caso de que la vacante se presente con posterioridad a la toma de protesta del Presidente, Síndico o alguno de los regidores de un Ayuntamiento, se estará a lo dispuesto en los párrafos anteriores.
 
@@ -2815,3 +2817,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 27 DE NOVIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a este Decreto.
