@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1983-06-10"
+last_updated: "1985-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1985.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -8847,7 +8847,7 @@ En los contratos civiles cada uno se obliga en la manera y términos que aparezc
 
 Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 1721.
 
@@ -8855,7 +8855,7 @@ Cuando se exija la forma escrita para el contrato, los documentos relativos debe
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
-Los contratos, hasta por un valor de Trescientos Mil Pesos, por venta, hipoteca, préstamos arrendamiento o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, con sus propios asegurados, o pensionistas, podrán otorgarse en documento privado, sin los requisitos de testigos y ratificación de firma.
+Los contratos, por mutuo, compraventa, hipoteca, préstamos, arrendamiento, de obra a precio alzado, construcción, ampliación, terminación y remodelación de inmuebles o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, con sus propios asegurados o pensionistas podrán otorgarse en documento privado, sin los requisitos de testigos o ratificación de firma.
 
 DIVISION DE LOS CONTRATOS
 
@@ -14950,3 +14950,9 @@ SEGUNDO.- Los libros del Registro Civil que obren en el Archivo del Tribunal Sup
 P.O. 10 DE JUNIO DE 1983.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
