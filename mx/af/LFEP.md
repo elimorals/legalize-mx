@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2001-01-04"
+last_updated: "2002-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -53,6 +53,10 @@ Son entidades paraestatales las que con tal carácter determina la Ley Orgánica
 ###### ARTICULO 3o.
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+Las dependencias de la Administración Pública Federal que tengan como objeto predominante realizar actividades de investigación científica y tecnológica y que sean reconocidas como tales, serán consideradas como Centros Públicos de Investigación, los cuales se regirán por las leyes específicas en materia de ciencia y tecnología y por sus respectivos instrumentos de creación. En lo relativo al control y evaluación del ejercicio de los recursos se aplicará en lo conducente, la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
 
@@ -655,3 +659,7 @@ D.O.F. 4 DE ENERO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día que inicie su vigencia la Ley que Crea el Instituto Nacional de las Mujeres.
+
+D.O.F. 4 DE JUNIO DE 2002.
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
