@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1980-08-09"
+last_updated: "1982-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1982.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -840,6 +840,10 @@ Ataques a las vías de comunicación.
 167.- Se llaman caminos públicos las vías de Tránsito habitual, destinadas al uso público, sea quien fuere el propietario, o cualquiera que sea el medio de locomoción que se permita y las dimensiones que tuviere; excluyendo los tramos que se hallen dentro de los límites de las poblaciones.
 
 168.- Al que quite, corte o destruya las ataderas que detiene una embarcación, u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a seis meses, si no resultare daño alguno; si se causare, se aplicará además la sanción correspondiente por el delito que resulte.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1982)</small>
+
+168 Bis.- Al que se apodere de uno o varios vehículos de motor destinados al servicio público o interrumpa o lesione el servicio a que están destinados, sin intención de apropiarse de ellos, se le aplicará sanción de uno a seis años de prisión y multa de mil a cinco mil pesos.
 
 169.- Se impondrán de tres días a cuatro años de prisión y multa de cincuenta a quinientos pesos:
 
@@ -2278,3 +2282,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 3 de Diciembre de 1979.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. ALBERTO CANSECO RUIZ.- Rúbricas.
 
 Al C.........
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE OCTUBRE DE 1982.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
