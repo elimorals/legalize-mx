@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1994-07-22"
+last_updated: "1995-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -246,7 +246,13 @@ Casos, condiciones, requisitos y lugares para la portación de armas.
 
 Para portar armas se requiere la licencia respectiva.
 
-Los miembros del Ejército, Armada y Fuerza Aérea, así como de los Cuerpos de Policía, Estatales o Municipales, quedan exceptuados de esta disposición, por estar sujetos a leyes y reglamentos específicos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
+Los miembros del Ejército, Armada y Fuerza Aérea quedan exceptuados de lo anterior, en los casos y condiciones que señalen las leyes y reglamentos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
+Los integrantes de las instituciones policiales, federales, estatales, del Distrito Federal y municipales, así como de los servicios privados de seguridad, podrán portar armas en los casos, condiciones y requisitos que establecen la presente ley y las demás disposiciones legales aplicables.
 
 ###### ARTICULO 25.
 
@@ -256,23 +262,51 @@ I.- Particulares; que deberán revalidarse cada dos años, y
 
 II.- Oficiales, que tendrán validez mientras se desempeñe el cargo o empleo que las motivó.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 26.
 
-Las licencias particulares se expedirán a las personas que reúnan los siguientes requisitos:
+Las licencias particulares para la portación de armas serán individuales para personas físicas, o colectivas para las morales, y podrán expedirse cuando se cumplan los requisitos siguientes:
 
-I. Que tengan un modo honesto de vivir;
+I. En el caso de personas físicas:
 
-II. Que hayan cumplido, los obligados, con el Servicio Militar Nacional;
+A. Tener un modo honesto de vivir;
 
-III. Que no tengan impedimento físico o mental para el manejo de las armas;
+B. Haber cumplido, los obligados, con el Servicio Militar Nacional;
 
-IV. Que no hayan sido condenados por delito cometido con el empleo de armas, y
+C. No tener impedimento físico o mental para el manejo de las armas;
 
-V. Que por la naturaleza de sus empleos u ocupaciones, por las circunstancias especiales del lugar en que vivan, o por otros motivos justificados acrediten, a juicio de la Secretaría de la Defensa Nacional, la necesidad de portar armas.
+D. No haber sido condenado por delito cometido con el empleo de armas;
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+E. No consumir drogas, enervantes o psicotrópicos, y
 
-Para actividades deportivas, de tiro o cacería, también podrán expedirse licencias particulares, por una o varias armas, sólo si los interesados son miembros de algún club o asociación registrados y cumplen los requisitos señalados en las primeras fracciones de este artículo.
+F. Acreditar, a criterio de la Secretaría de la Defensa Nacional, la necesidad de portar armas por:
+
+a) La naturaleza de su ocupación o empleo; o
+
+b) Las circunstancias especiales del lugar en que viva, o
+
+c) Cualquier otro motivo justificado.
+
+También podrán expedirse licencias particulares, por una o varias armas, para actividades deportivas, de tiro o cacería, sólo si los interesados son miembros de algún club o asociación registrados y cumplan con los requisitos señalados en los primeros cinco incisos de esta fracción.
+
+II. En el caso de personas morales:
+
+A. Estar constituidas conforme a las leyes mexicanas.
+
+B. Tratándose de servicios privados de seguridad:
+
+a) Contar con la autorización para funcionar como servicio privado de seguridad, y
+
+b) Contar con la opinión favorable de la Secretaría de Gobernación sobre la justificación de la necesidad de la portación del armamento, y los límites en número y características de las armas, así como lugares de utilización.
+
+C. Tratándose de otras personas morales, cuando por sus circunstancias especiales lo ameriten, a juicio de la Secretaría de la Defensa Nacional, para servicios internos de seguridad y protección de sus instalaciones; ajustándose a las prescripciones, controles y supervisión que determine la propia Secretaría.
+
+D. Acreditar que quienes portarán armas cumplen con lo previsto en los primeros cinco incisos de la fracción I anterior.
+
+Previa autorización de la Secretaría de la Defensa Nacional, los titulares de las licencias colectivas, expedirán credenciales foliadas de identificación personal, que contendrán los datos de la licencia colectiva y se renovarán semestralmente.
+
+El término para expedir las licencias particulares y colectivas será de cincuenta días hábiles, contados a partir de que se presenta la solicitud correspondiente.
 
 ###### ARTICULO 27.
 
@@ -282,17 +316,35 @@ A los extranjeros sólo se les podrá autorizar la portación de armas cuando, a
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 29.
 
-Las licencias oficiales se expedirán a quienes desempeñen cargos o empleos de la Federación y del Distrito Federal y de las Entidades Federativas y que para el cumplimiento de sus obligaciones requieran, en opinión de la autoridad competente, la portación de armas. Estas licencias podrán ser colectivas o individuales.
+Las licencias oficiales para la portación de armas pueden ser colectivas o individuales.
 
-Las licencias colectivas se expedirán a los Cuerpos de Policía, estrictamente por el número de personas que figuren en las nóminas de pago respectivas. En este caso, las credenciales equivalen a las licencias individuales y serán expedidas por las autoridades de quienes dependan. Los jefes de estos cuerpos remitirán a la Secretaría de la Defensa Nacional en la forma que señale el Reglamento, una relación de las armas que se encuentren en su poder o de sus subalternos en cumplimiento de su misión.
+I. Las licencias colectivas podrán expedirse a:
 
-La Secretaría de la Defensa Nacional inspeccionará periódicamente el armamento de estos cuerpos, sólo para efectos de control, sin tener autoridad alguna sobre el personal.
+A. Las dependencias oficiales y organismos públicos federales a cuyo cargo se encuentran las instalaciones estratégicas del país.
 
-La propia Secretaría coordinará con los Gobiernos de los Estados las medidas tendientes a obtener con oportunidad y exactitud las informaciones necesarias a mejor control de las armas con que se haya dotado a las policías Estatales y Municipales.
+Los titulares de las licencias colectivas expedirán credenciales foliadas de identificación personal, que contendrán los datos de la licencia colectiva y se renovarán semestralmente.
+
+B. Las instituciones policiales. Estas licencias se sujetarán a los lineamientos siguientes:
+
+a) Dichas instituciones deberán cumplir con las disposiciones legales de orden federal o local que resulten aplicables.
+
+b) La Secretaría de Gobernación será el conducto para solicitar a la Secretaría de la Defensa Nacional la expedición de licencia colectiva a las instituciones policiales, mismas que sólo se solicitarán para las personas que integren su organización operativa y que figuren en las nóminas de pago respectivas, debiéndose notificar a estas secretarías cualquier cambio en su plantilla laboral. Las autoridades competentes resolverán dentro de los sesenta días siguientes a la presentación de la solicitud ante la Secretaría de Gobernación, y
+
+c) Los titulares de las instituciones policiales, expedirán a su personal operativo, inscrito en el registro que establezca la ley de la materia, credenciales foliadas de identificación personal, por lapsos semestrales, las cuales, durante su vigencia, se asimilarán a licencias individuales.
+
+C. Los titulares de las licencias colectivas remitirán periódicamente a las Secretaría de la Defensa Nacional y de Gobernación un informe de las armas que se encuentren en su poder, debidamente correlacionado con su estructura y organización operativa, señalando los folios de las credenciales y los datos del personal que las tuviera a su cargo.
+
+D. Las autoridades competentes se coordinarán con los Gobiernos de los Estados para obtener, con oportunidad y exactitud, la información necesaria para el cumplimiento de esta ley.
+
+E. La Secretaría de la Defensa Nacional inspeccionará periódicamente el armamento, sólo para efectos de su control, sin tener autoridad alguna sobre el personal.
+
+II. Las licencias individuales se expedirán a quienes desempeñen cargos o empleos en la Federación o en las Entidades Federativas, que para el cumplimiento de sus obligaciones requieran, en opinión de la autoridad competente, la portación de armas.
+
+III. Los servidores públicos a que se refiere este artículo deberán cumplir, además, con los requisitos establecidos en los cinco primeros incisos de la fracción I del artículo 26 de esta ley.
 
 ###### ARTICULO 30.
 
@@ -324,9 +376,13 @@ IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamen
 
 La suspensión de las licencias de portación de armas, sólo procederá cuando a juicio de la Secretaría de Gobernación sea necesaria para mantener o restituir la tranquilidad de poblaciones o regiones.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 32.
 
-Corresponde a la Secretaría de Gobernación la expedición, suspensión y cancelación de licencias oficiales individuales de portación de armas, a los empleados federales, de las que dará aviso a la Secretaría de la Defensa Nacional para los efectos de la inscripción de las armas en el Registro Federal de Armas.
+Corresponde a la Secretaría de Gobernación la expedición, suspensión y cancelación de licencias oficiales individuales de portación de armas a los empleados federales, de las que dará aviso a la Secretaría de la Defensa Nacional para los efectos de inscripción de las armas en el Registro Federal de Armas.
+
+A la Secretaría de Gobernación también corresponde la suspensión y cancelación de las credenciales de identificación que expidan los responsables de las instituciones policiales, al amparo de una licencia colectiva oficial de la portación de armas y que se asimilan a licencias individuales.
 
 ###### ARTICULO 33.
 
@@ -368,11 +424,11 @@ Los permisos a que se refiere el artículo anterior, no eximen a los interesados
 
 En los casos a que se refieren los artículos 37 y 38 de esta Ley, se requerirá la conformidad de las autoridades locales y municipales del lugar respecto a la seguridad y ubicación de los establecimientos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 40.
 
-Las actividades industriales y comerciales relacionadas con armas, municiones, explosivos y demás objetos de uso exclusivo del Ejército y Fuerza Aérea, se sujetarán a las disposiciones que dicte la Secretaría de la Defensa Nacional. Cuando el material sea de uso exclusivo de la Armada de México, esas actividades se sujetarán a las disposiciones de la Secretaría de Marina.
-
-El departamento de la Industria Militar se regula por sus propias normas legales.
+Las actividades industriales y comerciales relacionadas con armas, municiones, explosivos y demás objetos que regula esta ley, se sujetarán a las disposiciones que dicte la Secretaría de la Defensa Nacional. Cuando el material sea para el uso exclusivo de la Armada de México, esas actividades se sujetarán a las disposiciones de la Secretaría de Marina.
 
 ###### ARTICULO 41.
 
@@ -524,13 +580,19 @@ d).- Hasta 200 cartuchos como máximo, para las otras armas permitidas.
 
 El Reglamento de esta Ley, señalará los plazos para efectuar nuevas ventas a una misma persona.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 51.
 
-La compra-venta de armas y cartuchos de uso exclusivo del Ejército, Armada y Fuerza Aérea, se hará por conducto de la institución oficial que señale el Presidente de la República.
+La compraventa de armas y cartuchos de uso exclusivo del Ejército, Armada y Fuerza Aérea, se hará por conducto de la institución oficial que señale el Presidente de la República; y se realizará en los términos y condiciones que señalen los ordenamientos que expida la Secretaría de la Defensa Nacional o la Secretaría de Marina, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52.
 
-La compra-venta de armas y cartuchos a que se refiere el artículo anterior, se realizará en los términos y condiciones que señalen los ordenamientos que expida la Secretaría de la Defensa Nacional o de la Secretaría de Marina en su caso.
+La Secretaría de la Defensa Nacional podrá establecer, mediante disposiciones administrativas generales, términos y condiciones relativos a la adquisición de armas y municiones que realicen las dependencias y entidades del Ejecutivo Federal, de los estados, del Distrito Federal y de los municipios, así como los particulares para los servicios de seguridad autorizados o para actividades deportivas de tiro y cacería.
+
+Dichas disposiciones deberán coadyuvar a lograr los fines de esta ley y propiciar las condiciones que permitan a las autoridades federales y locales cumplir con la función de seguridad pública a su cargo.
 
 ###### ARTICULO 53.
 
@@ -666,27 +728,23 @@ Para los efectos de la imposición de las sanciones a que se refiere este artíc
 
 En el caso de posesión de armas reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea, se estará a lo dispuesto en el artículo 83 de la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 78.
 
-La Secretaría de la Defensa Nacional y las demás autoridades facultadas para ello, recogerán las armas, previa expedición obligatoria del recibo correspondiente, a todas aquellas personas que las porten sin licencia o sin llevar ésta consigo y a quienes teniéndola hayan hecho mal uso de las armas.
+La Secretaría de la Defensa Nacional, así como las demás autoridades federales, estatales, del Distrito Federal o municipales que desempeñen funciones de seguridad, recogerán las armas, previa expedición obligatoria del recibo correspondiente, a todas aquellas personas que las porten sin licencia, sin llevar ésta consigo, o a quienes teniéndola, hayan hecho mal uso de las armas.
 
-Las armas recogidas quedarán depositadas donde designe la propia Secretaría a disposición de la autoridad competente.
+El arma recogida por no llevar el interesado la licencia, será devuelta previo pago de diez días multa y la exhibición de la licencia. El plazo para exhibir la licencia será de quince días.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+Para los efectos del pago de la multa antes mencionada, se turnará la infracción, a la brevedad, a la autoridad fiscal federal correspondiente.
 
-El arma recogida por no llevar el interesado la licencia, será devuelta previo pago de cuatro días multa y la exhibición de la licencia. El plazo para exhibir la licencia fenecerá en quince días.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-Para los efectos del pago de la multa antes mencionada, se turnará la infracción a la brevedad razonable, a la autoridad fiscal federal correspondiente.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 79.
 
-Las autoridades federales, estatales o municipales que desempeñen funciones de seguridad, tendrán la misma facultad y obligación a que se refiere el artículo anterior, debiendo proceder en los mismos términos.
+Cuando se asegure o recoja un arma en términos del artículo anterior, el funcionario que lo realice deberá informarlo de inmediato a su superior, quien lo hará del conocimiento del Registro Federal de Armas de la Secretaría de la Defensa Nacional, así como de las demás autoridades que establezcan las disposiciones legales aplicables, para los efectos que procedan. Si no se dan los informes citados, el responsable deberá cubrir el importe de diez días multa.
 
-Para los efectos del pago de la multa, turnarán la infracción a la autoridad fiscal federal correspondiente.
+Se equipara al delito de robo previsto en el artículo 367 del Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal, y se aplicarán las mismas penas, cuando el servidor público que asegure o recoja un arma no la entregue a su superior jerárquico o, en su caso, a la autoridad competente.
 
 ###### ARTICULO 80.
 
@@ -921,3 +979,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 21 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
