@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1993-12-23"
+last_updated: "1994-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -858,8 +858,6 @@ La Secretaría de Hacienda y Crédito Público dictará los lineamientos y estab
 
 Las tasas de interés, comisiones, premios, descuentos, u otros conceptos análogos, montos, plazos y demás características de las operaciones activas, pasivas, y de servicios, así como las operaciones con oro, plata y divisas, que realicen las instituciones de crédito y la inversión obligatoria de su pasivo exigible, se sujetarán a lo dispuesto por la Ley Orgánica del Banco de México, con el propósito de atender necesidades de regulación monetaria y crediticia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Las instituciones de crédito estarán obligadas a canjear los billetes y monedas metálicas en circulación, así como a retirar de ésta las piezas que el Banco de México indique.
@@ -1522,9 +1520,7 @@ El uso de las palabras a que se refiere el artículo 105 de esta Ley, en el nomb
 
 El incumplimiento o la violación de la presente Ley, de la Ley Orgánica del Banco de México y de las disposiciones que emanen de ellas, por las instituciones de crédito o las personas a que se refieren los artículos 7o., 88, 89, 92 y 103, fracción IV de esta Ley, serán sancionados con multa que impondrá administrativamente la Comisión Nacional Bancaria, hasta del cinco por ciento del capital pagado y reservas de capital de la institución o sociedad de que se trate o hasta cien mil veces el salario mínimo general diario vigente en el Distrito Federal, debiendo notificarse al consejo de administración o consejo directivo correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-Las instituciones de crédito que incumplan las obligaciones que les impongan las leyes y demás disposiciones aplicables en relación con los sistemas de ahorro para el retiro, serán sancionadas conforme a lo previsto en el párrafo anterior.
+> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA COORDINACION DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 En la imposición de estas sanciones, la Comisión Nacional Bancaria tomará en cuenta las medidas correctivas que aplique el Banco de México.
 
@@ -2139,3 +2135,13 @@ DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la 
 Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
 
 A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
+
+D.O.F. 22 DE JULIO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el artículo 108 segundo párrafo de la Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto.
+
+..
