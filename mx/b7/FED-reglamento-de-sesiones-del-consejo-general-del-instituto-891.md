@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-consejo-general-del-instituto-891"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-04-26"
-last_updated: "1999-10-25"
+last_updated: "2002-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=891&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-04-07"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 27 DE AGOSTO DE 2002, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 > <small>N. DE E. EN RELACION A LO ESTABLECIDO Y PUBLICADO EN EL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL SE MODIFICA DE MANERA SUSTANCIAL EL TEXTO DEL PRESENTE REGLAMENTO.</small>
 
@@ -466,3 +468,13 @@ D.O.F. 25 DE OCTUBRE DE 1999.
 PRIMERO.- LAS PRESENTES REFORMAS, MODIFICACIONES Y ADICIONES AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, ENTRARAN EN VIGOR A PARTIR DEL DIA SIGUIENTE DE SU APROBACION POR EL CONSEJO GENERAL.
 
 SEGUNDO.- SE DEROGAN LAS DISPOSICIONES Y ACUERDOS ADOPTADOS CON ANTERIORIDAD POR EL CONSEJO GENERAL QUE CONTRAVENGAN AL PRESENTE REGLAMENTO.
+
+D.O.F. 27 DE AGOSTO DE 2002.
+
+PRIMERO.- El presente Reglamento, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones y acuerdos adoptados con anterioridad por el Consejo General que contravengan al presente reglamento.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+CUARTO.- El Secretario Ejecutivo dispondrá a la brevedad posible la edición del número de ejemplares de este reglamento que se estimen necesarios para su adecuada difusión.
