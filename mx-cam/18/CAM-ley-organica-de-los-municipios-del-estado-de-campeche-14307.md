@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1993-10-07"
+last_updated: "1993-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -277,7 +277,9 @@ Naranjal, El Diamante, Cibalitos, La Lucha, Herradura, Santa Valentina, San Fran
 
 A la Sección Municipal de Candelaria, corresponden:
 
-a) El Pueblo de Candelaria, Cabecera de la Sección.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1993)</small>
+
+a) La Ciudad de Candelaria, Cabecera de la Sección.
 
 b) Los Ejidos de El Naranjo, El Zapote, El Luinal, Pedregal, Pablo Torres Burgos, Nueva Rosita, El Chilar, El Tigre, Las Delicias, Peje Lagarto, Miguel Alemán, Benito Juárez, Guadalupe Victoria, Vicente Guerrero, Tenancingo, Justo Sierra Méndez, Nuevo Coahuila, Lázaro Cárdenas, Las Golondrinas, Miguel Hidalgo, Pedro Baranda, El Mamey, Estado de México, Monclova, Pablo García, Paraíso Nuevo, Corte Pajaral, Venustiano Carranza, Candelaria, Las Delicias, Santa Lucía, Campo Las Ollas, La Esmeralda, Cuauhtémoc, Machetazo, Héctor P. Morales, La Zanja, Primer Presidente de México, Vicente Guerrero, El Cuervo.
 
@@ -1966,3 +1968,7 @@ El presente Decreto entrará en vigor el día veinticinco de abril de mil noveci
 P.O. 7 DE OCTUBRE DE 1993.
 
 Unico.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+P.O. 20 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día veinticinco de diciembre de mil novecientos noventa y tres.
