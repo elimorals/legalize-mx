@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "1995-01-11"
+last_updated: "1997-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -379,7 +379,7 @@ XVIII. Abstenerse de intervenir o participar en la selección, nombramiento, des
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
 
-XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
+XIX.- Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
 
 XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría conforme a la competencia de ésta;
 
@@ -479,21 +479,7 @@ VI.- Arresto hasta por 36 horas en los términos de la Ley de Seguridad Pública
 
 ###### Artículo 50.
 
-Las sanciones administrativas se impondrán considerando las siguientes circunstancias:
-
-I.- La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir practicas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
-
-II.- Las circunstancias socio-económicas del servidor público;
-
-III.- El nivel Jerárquico, los antecedentes y las condiciones del infractor;
-
-IV.- Las condiciones exteriores y los medios de ejecución;
-
-V.- La antigüedad en el servicio;
-
-VI.- La reincidencia en el incumplimiento de obligaciones; y
-
-VII.- El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento de obligaciones.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 51.
 
@@ -615,41 +601,19 @@ Los Poderes Ejecutivo, Legislativo y Judicial, los ayuntamientos, organismos aux
 
 La contravención a lo dispuesto en el párrafo anterior, será causa de responsabilidad administrativa, y el nombramiento o contrato que se haya realizado quedará sin efectos.
 
+> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 65.
 
-Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas por el servidor público ante la propia autoridad que las emitió, mediante recurso de revocación, que se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
-
-La tramitación del recurso se sujetará a las normas siguientes:
-
-I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de ésta y constancia de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir;
-
-II.- La autoridad acordará sobre la admisibilidad de recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa la resolución. Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, que a solicitud del servidor público o de la autoridad podrá ampliarse una sóla vez por cinco días hábiles más, y
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
-
-III.- Concluído el período probatorio, el superior jerárquico emitirá resolución en el acto, o dentro de los diez días hábiles siguientes, notificándola al interesado, dentro de las cuarenta y ocho horas siguientes.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 66.
 
-La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a las siguientes reglas:
-
-I.- Tratándose de sanciones económicas, cuando su pago se garantice en los términos del Código Fiscal del Estado; y
-
-II.- Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos
-
-A).- Que se admita el recurso;
-
-B).- Que la ejecución de la resolución recurrida produzca daños o perjuicios de imposible reparación en contra del recurrente; y
-
-C).- Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al Servicio Público.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 67.
 
-El servidor público afectado por las resoluciones administrativas que se dicten conforme a esta Ley, podrá interponer el recurso de revocación o impugnarlas directamente ante el Tribunal de lo Contencioso Administrativo del Estado, el cual sólo podrá conocer de los recursos interpuestos por servidores públicos del Poder Ejecutivo y de los Ayuntamientos.
-
-La resolución que se dicte en el recurso de revocación, será también impugnable ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 68.
 
@@ -901,17 +865,15 @@ de los Servidores Públicos
 
 ###### Artículo 100.
 
-El Estado es subsidiariamente responsable de la reparación de los daños causados a particulares por los servidores públicos sancionados administrativamente con motivo de la aplicación de esta Ley o sentenciados penalmente.
-
-El Ejecutivo del Estado a propuesta de la Secretaría, en el primer caso y por la Procuraduría General de Justicia en el segundo, podrá subrogarse al cumplimiento de esta responsabilidad en cualquier momento.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 101.
 
-Los particulares ofendidos o quien los represente, podrán solicitar al Ejecutivo por conducto de la Secretaría, el pago de la reparación del daño a que se refiere el artículo anterior.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 102.
 
-El pago de la indemnización que haga el Ejecutivo, determina la subrogación en favor del Estado de los Derechos a la reparación del daño que tenga el particular ofendido.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
 
 T R A N S I T O R I O S
 
@@ -988,3 +950,21 @@ Publíquese el presente decreto en la Gaceta del Gobierno.
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
+
+P.O. 7 DE FEBRERO DE 1997
+
+CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE DECRETO
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO CUARTO.
+
+Se derogan los siguientes artículos:. 50, 66, 67, y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+###### ARTICULO QUINTO.
+
+Se reforman los artículos... 65 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
