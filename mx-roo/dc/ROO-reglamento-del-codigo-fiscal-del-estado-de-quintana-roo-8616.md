@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-codigo-fiscal-del-estado-de-quintana-roo-8616"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-04-15"
-last_updated: "1999-03-10"
+last_updated: "2003-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de abril de 1996.
 
@@ -69,9 +69,11 @@ Todas las Oficinas Recaudadoras de Rentas señaladas, serán competentes dentro 
 
 Cuando las disposiciones fiscales señalen la obligación de presentar avisos ante las autoridades fiscales, salvo que dichas disposiciones señalen una regla diferente, estos deberán presentarse ante la autoridad recaudadora que corresponda.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 4o.
 
-Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales o por Corredor Público.
+Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales, por corredor público o por personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública y que se encuentren inscritos en el Registro Estatal de Peritos Valuadores.
 
 ### CAPITULO II
 
@@ -694,3 +696,9 @@ Este decreto entrará en vigor en todo el territorio del Estado Libre y Soberano
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones reglamentadas anteriormente establecidas, que contravengan a las presentes reformas.
+
+P.O. 28 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
