@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1999-08-12"
+last_updated: "2001-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2001.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -973,9 +973,7 @@ En la práctica de las diligencias de averiguación previa, se aplicarán en lo 
 
 ###### ARTICULO 134.
 
-Cuando en vista de la averiguación previa el Agente del Ministerio Público a quien la ley faculte para hacerlo, determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días, para que el titular, oyendo el parecer de sus agentes auxiliares, decida en definitiva si debe o no ejercitarse la acción penal.
-
-Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de la responsabilidad en que incurra.
+(DEROGADO, G.O. 9 DE ENERO DE 2001)
 
 ### CAPITULO III. Consignación ante los tribunales
 
@@ -1051,13 +1049,17 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente y de acuerdo con los requisitos fijados en este Código y en la Ley Orgánica del Ministerio Público.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2001)</small>
+
+ARTICULO 141 A.- La persona ofendida por un delito o quien presente denuncia o querella podrá impugnar las resoluciones del Ministerio Público sobre la reserva de la averiguación previa y el no ejercicio de la acción penal mediante el recurso de queja que deberá interponer por escrito, dentro de los diez días siguientes a que se le notifique personalmente la resolución, ante el agente del Ministerio Público que la dictó.
+
+El Agente del Ministerio público que reciba el recurso deberá remitirlo sin dilación alguna y bajo su más estricta responsabilidad, dentro del término de setenta y dos horas de recepción, con un informe y con el expediente respectivo a la sala constitucional del Tribunal Superior de Justicia para los efectos de la fracción II del artículo 64 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 142.
 
-La persona ofendida por un delito no es parte en el procedimiento penal, pero podrá proporcionar al Ministerio Público, por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del delito, la responsabilidad del inculpado y la procedencia y monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal, los ministre a los tribunales.
-
-La parte ofendida, también podrá proporcionar directamente al Juez respectivo, por sí o por apoderado, las pruebas que en su caso permitan al tribunal fijar el monto de la reparación y reconocer su derecho a recibirla.
+La persona ofendida por un delito o quien presente denuncia o querella, por sí o por apoderado, podrá proporcionar durante la etapa de averiguación previa al Ministerio Público o al juez durante el proceso, todos los datos y ofrecer las pruebas que considere oportunas que conduzcan a acreditar el cuerpo del delito, la probable responsabilidad del indiciado y la procedencia y monto de la reparación del daño, para que surtan los efectos legales procedentes en cualquier periodo del procedimiento penal; así como para que sea reconocido su derecho a recibir el importe de la reparación del daño.
 
 ## TITULO CUARTO. INSTRUCCION
 
@@ -2113,17 +2115,25 @@ El tribunal de apelación, sin más trámite, citará para sentencia y pronuncia
 
 Si la apelación se declara admisible, o se varía el grado, se pedirá el testimonio o el expediente, en su caso, al tribunal de primera instancia para substanciar la segunda.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 9 DE ENERO DE 2001)</small>
+
+### CAPITULO IV. Inconformidad
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2001)</small>
+
+Artículo 323 A.- La persona ofendida por un delito podrá impugnar las resoluciones de sobreseimiento dictadas por los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público, mediante el recurso de inconformidad; el cual deberá interponer por escrito ante el juez que la dictó, dentro de los diez días siguientes a que se le notifique personalmente la resolución.
+
+El juez que reciba el recurso, sin dilación alguna y bajo su más estricta responsabilidad, lo remitirá a la Sala Constitucional del Tribunal Superior de Justicia para los efectos de la fracción II del artículo 64 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
+
 TITULO DECIMOPRIMERO
 
 INCIDENTES
 
+#### SECCION PRIMERA. INCIDENTE DE LIBERTAD
+
 ### CAPITULO I. Libertad provisional bajo caución
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 1994)</small>
-
-#### SECCION PRIMERA. INCIDENTE DE LIBERTAD
-
-### CAPITULO II. Libertad provisional bajo protesta
 
 ###### ARTICULO 324.
 
@@ -2271,7 +2281,7 @@ Cuando un tercero haya constituído depósito, fianza o hipoteca, para garantiza
 
 El importe de la caución se exigirá por la autoridad fiscal en los términos de la ley que reglamenta la facultad económico-coactiva.
 
-### CAPITULO III. Libertad por desvanecimiento de datos
+### CAPITULO II. Libertad provisional bajo protesta
 
 ###### ARTICULO 343.
 
@@ -2321,7 +2331,7 @@ V.- Cuando dejare de concurrir alguna de las condiciones expresadas en las fracc
 
 VI.- Cuando recaiga sentencia condenatoria contra el inculpado y ésta cause ejecutoria.
 
-### CAPITULO I. Substanciación de las competencias
+### CAPITULO III. Libertad por desvanecimiento de datos
 
 ###### ARTICULO 347.
 
@@ -2351,7 +2361,7 @@ La resolución que conceda la libertad tendrá los mismos efectos que el auto de
 
 #### SECCION SEGUNDA. INCIDENTES DIVERSOS
 
-### CAPITULO II. Impedimentos, excusas y recusaciones
+### CAPITULO I. Substanciación de las competencias
 
 ###### ARTICULO 352.
 
@@ -2417,7 +2427,7 @@ En la substanciación de las competencias, una vez transcurridos los términos, 
 
 En todas las controversias de competencia, será oído el Ministerio Público.
 
-### CAPITULO III. Suspensión del procedimiento
+### CAPITULO II. Impedimentos, excusas y recusaciones
 
 ###### ARTICULO 367.
 
@@ -2531,7 +2541,7 @@ Los impedimentos de los funcionarios del Ministerio Público serán calificados 
 
 Las excusas de los defensores de oficio serán calificadas por el tribunal que conozca del asunto.
 
-### CAPITULO IV. Acumulación de autos
+### CAPITULO III. Suspensión del procedimiento
 
 ###### ARTICULO 391.
 
@@ -2571,7 +2581,7 @@ Cuando se haya decretado la suspensión del procedimiento en los casos a que se 
 
 El tribunal resolverá de plano sobre la suspensión del procedimiento, con la sola petición del Ministerio Público, fundada en cualquiera de las causas a que se refiere el artículo 391.
 
-### CAPITULO V. Separación de autos
+### CAPITULO IV. Acumulación de autos
 
 ###### ARTICULO 396.
 
@@ -2631,9 +2641,7 @@ Los incidentes de acumulación se substanciarán por separado sin suspenderse el
 
 Serán aplicables las disposiciones de este capítulo a las averiguaciones que se practiquen por los tribunales, aun cuando no exista auto de formal prisión o de sujeción a proceso.
 
-### CAPITULO VI. Reparación de daño exigible a personas distintas del inculpado
-
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+### CAPITULO V. Separación de autos
 
 ###### ARTICULO 406.
 
@@ -2665,7 +2673,9 @@ El incidente sobre separación de autos se substanciará por separado, en la mis
 
 Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 400.
 
-### CAPITULO VII. Incidentes no especificados
+### CAPITULO VI. Reparación de daño exigible a personas distintas del inculpado
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 412.
 
@@ -2691,7 +2701,7 @@ En el caso de hallarse prófugo el inculpado, se continuará la tramitación del
 
 Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código de Procedimientos Civiles; pero si es el Ministerio Público el que las pida de conformidad con los artículos 137, 146 y 412, se decretarán sin que se otorgue la garantía que la citada ley procesal exige. Lo dispuesto es sin perjuicio de las facultades que las leyes concedan al Fisco para asegurar su interés.
 
-### CAPITULO UNICO
+### CAPITULO VII. Incidentes no especificados
 
 ###### ARTICULO 417.
 
@@ -2703,9 +2713,7 @@ TITULO DECIMOSEGUNDO
 
 PROCEDIMIENTOS RELATIVOS A LOS ENFERMOS MENTALES
 
-### CAPITULO I. Disposiciones generales
-
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 418.
 
@@ -2731,7 +2739,7 @@ La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo
 
 TITULO DECIMOTERCERO
 
-### CAPITULO II. Suspensión Condicional
+### CAPITULO I. Disposiciones generales
 
 > <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2783,7 +2791,9 @@ Si las cosas de que se trata sólo sirven para cometer delitos, se destruirán a
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
-### CAPITULO III. Reconocimiento de la inocencia del sentenciado
+### CAPITULO II. Suspensión Condicional
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 431.
 
@@ -2809,7 +2819,7 @@ Después de dictada sentencia irrevocable no procederá la suspensión condicion
 
 Cuando por alguna de las causas que señala el artículo 83 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que lo concedió procederá con audiencia del Ministerio Público y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción por la autoridad que corresponda.
 
-### CAPITULO IV. De la rehabilitación
+### CAPITULO III. Reconocimiento de la inocencia del sentenciado
 
 ###### ARTICULO 435.
 
@@ -2842,6 +2852,8 @@ A los cinco días de celebrada la vista, la Sala declarará si es o no fundada l
 En el primer caso, remitirá las diligencias originales con informe al órgano que autorice el Ejecutivo del Estado para que, sin más trámite, acate el reconocimiento de la inocencia del sentenciado, con todos sus efectos legales.
 
 En el segundo caso, se mandarán archivar las diligencias.
+
+### CAPITULO IV. De la rehabilitación
 
 ###### ARTICULO 440.
 
@@ -3000,3 +3012,9 @@ G.O. 12 DE AGOSTO DE 1999.
 Primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 9 DE ENERO DE 2001.
+
+Artículo primero. La presente ley entrará en vigor a los diez días siguientes a su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a la presente ley.
