@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2002-12-24"
+last_updated: "2003-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -149,7 +149,7 @@ No se considerará operación activa de seguros la comercialización a futuro de
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, podrá establecer criterios de aplicación general conforme a los cuales se precise si una operación, para efectos de este artículo, se considera operación activa de seguros, y deberá resolver las consultas que al efecto se le formulen.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, podrá establecer criterios de aplicación general conforme a los cuales se precise si una operación, para efectos de este artículo, se considera operación activa de seguros, y deberá resolver las consultas que al efecto se le formulen;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -795,7 +795,9 @@ b) Los cónyuges de los mismos o las personas que tengan parentesco por consangu
 
 c) Las personas que tengan litigio pendiente con la institución de seguros de que se trate;
 
-d) Las personas sentenciadas por delitos patrimoniales intencionales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
+d) Las personas sentenciadas por delitos patrimoniales intencionales, las inhabilitadas para
+
+ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
 
 e) Los concursados que no hayan sido rehabilitados;
 
@@ -1217,21 +1219,27 @@ III.- Administrar las sumas que por concepto de dividendos o indemnizaciones les
 
 III Bis.- Administrar las reservas correspondientes a contratos de seguros que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro de personas a que se refiere el segundo párrafo de la fracción I del artículo 8o. de esta Ley;
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-IV.- Actuar como institución fiduciaria en el caso de fideicomisos de administración en que se afecten recursos relacionados con el pago de primas por los contratos de seguros que se celebren, así como cuando se trate de fideicomisos privados complementarios de seguros obligatorios a que se refiere el artículo 52 Bis-2 de esta Ley, como excepción a lo dispuesto en el artículo 350 de la Ley General de Títulos y Operaciones de Crédito.
+IV.- Actuar como institución fiduciaria en negocios directamente vinculados con las actividades que les son propias. Al efecto, se considera que están vinculados a las actividades propias de las instituciones de seguros los fideicomisos de administración en que se afecten recursos relacionados con el pago de primas por los contratos de seguros que se celebren.
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 Asimismo, podrán actuar como institución fiduciaria en los fideicomisos de garantía a que se refiere la Sección Segunda del Capítulo V del Título Segundo de la Ley General de Títulos y Operaciones de Crédito, sujetándose a lo que dispone el artículo 85 Bis de la Ley de Instituciones de Crédito y bajo la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-Las instituciones de seguros autorizadas para practicar operaciones de vida, también podrán ser fiduciarias en el caso de fideicomisos en que se afecten recursos relacionados con primas de antigüedad, fondos individuales de pensiones, rentas vitalicias, dividendos y sumas aseguradas, o con la administración de reservas para fondos de pensiones o jubilaciones del personal, complementarias a las que establecen las leyes sobre seguridad social y de primas de antigüedad.
+Tratándose de instituciones de seguros autorizadas para practicar operaciones de vida también se considerarán vinculados con las actividades que les son propias, los fideicomisos en que se afecten recursos relacionados con primas de antigüedad, fondos individuales de pensiones, rentas vitalicias, dividendos y sumas aseguradas, o con la administración de reservas para fondos de pensiones o jubilaciones del personal, complementarias a las que establecen las leyes sobre seguridad social y de primas de antigüedad.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-La administración de dichas operaciones se realizará a través de contratos de fideicomiso, en los mismos términos que para las instituciones de crédito señalan los artículos 79 y 80 de la Ley de Instituciones de Crédito;
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+En lo no previsto por lo anterior, a las instituciones de seguros fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, podrá determinar mediante reglas de carácter general otros tipos de fideicomisos en los que podrán actuar como fiduciarias las instituciones de seguros;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1403,21 +1411,47 @@ Las cantidades que inviertan las instituciones de seguros en la construcción o 
 
 XVI.- Las operaciones que realicen las instituciones de seguros para la inversión de sus recursos se sujetará, en su caso, a los límites máximos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, respecto al plazo de tales operaciones y a las tasas de interés y demás cargos que puedan aplicar para los financiamientos que otorguen;
 
-> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-XVI Bis.- Las operaciones de fideicomiso a que se refiere la fracción IV del artículo 34 de esta Ley, se sujetarán a lo dispuesto en esta Ley y a las siguientes bases:
+XVI Bis.- Las operaciones de fideicomiso a que se refiere la fracción IV del artículo 34 de esta Ley se sujetarán a lo dispuesto en esta Ley y a las siguientes bases:
 
-a).- En el desempeño de los fideicomisos, las instituciones de seguros deberán apegarse a las sanas prácticas fiduciarias de las instituciones de crédito. La Secretaría de Hacienda y Crédito Público podrá, en caso de considerarlo necesario, emitir mediante reglas de carácter general, oyendo a la Comisión Nacional de Seguros y Fianzas y al Banco de México, las características o limitaciones a que deberán someterse tales operaciones, a fin de propiciar la seguridad de las mismas y la adecuada atención de los servicios correspondientes;
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-b).- Las instituciones de seguros podrán recibir en fideicomiso, además de dinero en efectivo derivado de las operaciones a que se refiere la fracción IV del artículo 34 de esta Ley, cantidades adicionales de efectivo, valores, bienes muebles e inmuebles y derechos, según el requerimiento del fideicomitente, o adquirir ese tipo de activos con los recursos fideicomitidos, siempre que los recursos originales deriven efectivamente de las operaciones señaladas;
+a).- En el desempeño de los fideicomisos, las instituciones de seguros deberán apegarse a las sanas prácticas fiduciarias. El Banco de México podrá, en caso de considerarlo necesario, emitir mediante reglas de carácter general, las características a que deberán sujetarse tales operaciones.
+
+La Secretaría de Hacienda y Crédito Público a propuesta de la Comisión Nacional de Seguros y Fianzas oyendo la opinión del Banco de México, podrá ordenar a las instituciones de seguros la suspensión de las operaciones que infrinjan las reglas que en su caso emita el Banco de México;
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+b).- Las instituciones de seguros podrán recibir en fideicomiso, además de dinero en efectivo derivado de las operaciones a que se refiere la fracción IV del artículo 34 de esta Ley, cantidades adicionales de efectivo, valores, bienes muebles e inmuebles y derechos, según el requerimiento del fideicomitente, o adquirir este tipo de activos con los recursos fideicomitidos, siempre que tales operaciones se realicen exclusivamente en cumplimiento del objeto del fideicomiso;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+b) Bis.- En los fideicomisos que impliquen operaciones con el público de asesoría, promoción, compra y venta de valores, la institución fiduciaria deberá utilizar los servicios de personas físicas autorizadas por la Comisión Nacional Bancaria y de Valores en los términos y con las limitaciones previstos en el artículo 17 Bis 7 de la Ley del Mercado de Valores.
+
+Igualmente, en los fideicomisos a que se refiere este inciso las instituciones de seguros deberán contar con un sistema automatizado para la recepción, registro, ejecución y asignación de operaciones con valores, ajustándose a las disposiciones de carácter general que al efecto expida la Comisión Nacional de Seguros y Fianzas, previa opinión favorable de la Comisión Nacional Bancaria y de Valores;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+b) Bis 1.- El personal que las instituciones de seguros utilicen directa o exclusivamente para la realización de fideicomisos, no formará parte del personal de las mismas sino que, según los casos, se considerará al servicio del patrimonio dado en fideicomiso. Sin embargo, cualquier derecho que asista a dicho personal conforme a la Ley, lo ejercitarán contra las instituciones de seguros, las que, en su caso y para cumplir con las resoluciones que la autoridad competente dicte, afectarán en la medida que sea necesario, el patrimonio fiduciario;
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 c).- Deberán abrir contabilidades especiales por cada contrato, debiendo registrar en las mismas y en su propia contabilidad, el dinero que les confíen y los demás bienes, valores o derechos con los que se incrementen los recursos originalmente afectos al fideicomiso, así como los incrementos o disminuciones correspondientes, por los productos o gastos respectivos. Invariablemente deberán coincidir los saldos de las cuentas controladas de la contabilidad de la institución de seguros con las contabilidades especiales.
 
 En ningún caso los recursos, bienes o derechos señalados estarán afectos a otras responsabilidades que las derivadas del fideicomiso mismo o las que contra ellos correspondan a terceros, de acuerdo con la Ley;
 
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
+
 d).- Las instituciones deberán desempeñar su cometido y ejercitarán sus facultades por medio de delegados fiduciarios. Las instituciones responderán civilmente por los daños y perjuicios que se causen por la falta de cumplimiento en las condiciones o términos señalados en el fideicomiso.
 
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Los citados delegados fiduciarios deberán de satisfacer los requisitos de calidad técnica, honorabilidad e historial crediticio satisfactorio, y no deberán ubicarse en alguno de los supuestos previstos en la fracción VII Bis, numeral 3, inciso d) del artículo 29 de esta Ley.
+
 En el acto constitutivo del fideicomiso o en sus reformas, se podrá prever la formación de un comité técnico, dar reglas para su funcionamiento y fijar facultades. Cuando la institución obre ajustándose a los dictámenes o acuerdos de este comité estará libre de toda responsabilidad;
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 e).- Cuando la institución de seguros al ser requerida, no rinda las cuentas de su gestión dentro de un plazo de 15 días hábiles o cuando sea declarada por sentencia ejecutoriada, culpable de las pérdidas o menoscabo que sufran los recursos dados en fideicomiso, o responsable de esas pérdidas o menoscabo por negligencia grave, procederá su remoción como fiduciaria.
 
@@ -1427,15 +1461,25 @@ Las acciones para pedir cuentas, para exigir la responsabilidad de la instituci�
 
 En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 385 de la Ley General de Títulos y Operaciones de Crédito;
 
-f).- Los recursos recibidos por las instituciones de seguros con cargo a contratos de fideicomiso no podrán computarse como parte de las reservas de carácter técnico que dichas instituciones deben constituir de acuerdo a lo dispuesto en esta Ley, ni podrán considerarse para efecto alguno como parte de los cómputos relativos al capital mínimo de garantía previsto en el artículo 60 de esta Ley; y
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
-g).- La Secretaría de Hacienda y Crédito Público determinará mediante reglas de carácter general que emita escuchando la opinión de la Comisión Nacional de Seguros y Fianzas y del Banco de México, el monto máximo de recursos que una institución de seguros podrá recibir en fideicomiso, considerando su capital pagado, su capital de garantía y cualquier otro elemento que apoye su solvencia.
+f).- Los recursos recibidos por las instituciones de seguros con cargo a contratos de fideicomiso no podrán computarse como parte de las reservas de carácter técnico que dichas instituciones deben constituir de acuerdo a lo dispuesto en esta Ley, ni podrán considerarse para efecto alguno como parte de los cómputos relativos al capital mínimo de garantía previsto en el artículo 60 de esta Ley; y (sic)
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
+
+g).- La Secretaría de Hacienda y Crédito Público determinará mediante reglas de carácter general que emita escuchando la opinión de la Comisión Nacional de Seguros y Fianzas y del Banco de México, el monto máximo de recursos que una institución de seguros podrá recibir en fideicomiso, considerando su capital pagado, su capital de garantía y cualquier otro elemento que apoye su solvencia;
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+h).- Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 En lo no previsto por lo anterior, a las instituciones de seguros fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito, y
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-XVII.- Las operaciones a que se refieren las fracciones II a XIV del artículo 34 de esta Ley, se sujetarán a las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público.
+XVII.- Las operaciones a que se refieren las fracciones II a III Bis y V a XIV del artículo 34 de esta Ley, se sujetarán a las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público.
 
 Tales disposiciones deberán propiciar la consecución de cualesquiera de los objetivos siguientes:
 
@@ -2117,7 +2161,31 @@ IV.- Dar en prenda los títulos o valores de su cartera;
 
 V.- Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
 
-VI.- (DEROGADA, D.O.F. 14 DE JULIO DE 1993)
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+VI.- En las operaciones a que se refiere la fracción IV del artículo 34:
+
+a) Celebrar operaciones con la propia institución en el cumplimiento de fideicomisos, salvo aquéllas autorizadas por el Banco de México mediante disposiciones de carácter general, cuando no impliquen conflicto de intereses;
+
+b) Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+
+Si al término del fideicomiso, los derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con los demás bienes, derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
+
+En los contratos de fideicomiso se insertará en forma notoria lo previsto en este inciso y una declaración a la fiduciaria en el sentido de que se hizo saber inequívocamente su contenido a las personas de quienes haya recibido bienes, derechos o valores para su afectación fiduciaria;
+
+c) Actuar como fiduciarias en fideicomisos a través de los cuales, se capten directa o indirectamente recursos del público, mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público;
+
+d) Utilizar el efectivo, bienes, derechos o valores de los fideicomisos destinados al otorgamiento de créditos, en que la fiduciaria tenga la facultad discrecional en el otorgamiento de dichos activos, en la realización de operaciones en virtud de las cuales resulten o puedan resultar deudores o beneficiarios sus delegados fiduciarios; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas; las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas instituciones; asimismo, aquellas personas que el Banco de México determine mediante disposiciones de carácter general;
+
+e) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años, salvo en los casos de fideicomisos de garantía;
+
+f) Actuar en fideicomisos a través de los que se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
+
+g) Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del artículo 88 de la Ley de Sociedades de Inversión, y
+
+h) Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, de los previstos en la Ley Federal de Protección al Consumidor.
+
+Cualquier pacto contrario a lo dispuesto en esta fracción, será nulo;
 
 VII.- Aceptar riesgos mayores de los establecidos en el artículo 37 de esta Ley;
 
@@ -3159,7 +3227,7 @@ IV.- Emitir las disposiciones necesarias para el ejercicio de las facultades que
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
-IV Bis.- Emitir, en el ámbito de su competencia, las normas de carácter prudencial orientadas a preservar la solvencia, liquidez y estabilidad financiera de las instituciones y sociedades mutualistas de seguros;
+IV. Bis.- Emitir, en el ámbito de su competencia, las normas de carácter prudencial orientadas a preservar la solvencia, liquidez y estabilidad financiera de las instituciones y sociedades mutualistas de seguros;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3173,7 +3241,7 @@ VI.- Hacer los estudios que se le encomienden y presentar a la Secretaría de Ha
 
 VII.- Coadyuvar con la Secretaría de Hacienda y Crédito Público en el desarrollo de políticas adecuadas para la selección de riesgos técnicos y financieros en relación con las operaciones practicadas por el sistema asegurador, siguiendo las instrucciones que reciba de la propia Secretaría;
 
-REFORMADA, D.O.F. 3 DE ENERO DE 1990)
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
 VIII.- Intervenir, en los términos y condiciones que esta Ley señala, en la elaboración de los reglamentos y reglas de carácter general a que la misma se refiere;
 
@@ -3671,7 +3739,7 @@ Las sanciones que se impongan en términos de la presente Ley no excederán en n
 
 Atendiendo a las circunstancias de cada caso, la citada Comisión podrá además amonestar al infractor, o bien solamente amonestarlo.
 
-Lo dispuesto en este artículo no excluye la imposición de las sanciones que conforme a ésta o otras Leyes fueren aplicables por comisión de otras infracciones o(sic) delitos, ni la revocación de la autorización otorgada a la institución o sociedad mutualista de seguros.
+Lo dispuesto en este artículo no excluye la imposición de las sanciones que conforme a ésta o (sic) otras Leyes fueren aplicables por comisión de otras infracciones o delitos, ni la revocación de la autorización otorgada a la institución o sociedad mutualista de seguros.
 
 En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción.
 
@@ -4824,3 +4892,11 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
