@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2001-03-05"
+last_updated: "2001-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -585,11 +585,25 @@ El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
 I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-II.- El segundo comenzará el día primero de Junio, terminará el treinta y uno de Julio y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior que le será presentada por el Ejecutivo, antes del inicio de este período declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir algunas responsabilidades.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-III.- El tercer período comenzará el día quince de octubre y terminará el quince de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de Ingresos y Egresos del Estado y los presupuestos de ingresos de los Municipios que deberán entrar en vigor al año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
+II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en la fracción anterior, examinará, revisará y calificará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por el Titular del Ejecutivo antes del inicio de este periodo.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+En el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, examinará, revisará y calificará la cuenta pública parcial correspondiente a los meses de octubre a diciembre que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de enero.
+
+En los casos previstos en los dos párrafos anteriores, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+III.- El tercero comenzará el día quince de octubre y terminará el quince de diciembre, deberá incluir en la agenda legislativa, el estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada Municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación secundaria.
+
+El Ejecutivo del Estado y los Ayuntamientos a través de aquél, remitirán sus propias iniciativas de Ley de Ingresos a más tardar el quince de noviembre del ejercicio previo a su vigencia; a su vez, en la misma fecha, el Ejecutivo en forma exclusiva deberá enviar la iniciativa de Ley de Egresos del Estado. En el caso de los Ayuntamientos, deberán remitir, para su análisis y aprobación, junto con su iniciativa de Ley de Ingresos, las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, discutirá y aprobará la Ley de Egresos del Estado, que habrá de regir en el ejercicio siguiente, y en su caso, examinará, discutirá y aprobará los presupuestos multianuales que el Ejecutivo proponga establecer en la iniciativa respectiva, destinados a la ejecución de inversiones públicas productivas y otras. Los requisitos y formalidades que el Gobierno del Estado debe observar para asumir obligaciones de pago destinadas a la realización de éstas, deben establecerse en la ley secundaria.
+
+Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
+
+Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, el examen, revisión y calificación de la cuenta pública parcial correspondiente a los meses de enero a septiembre, que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de octubre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -651,9 +665,11 @@ VI.- Autorizar al Ejecutivo para que celebre convenios con los demás Estados o 
 
 VII.- Autorizar la enajenación de bienes inmuebles propios del Estado o de los Municipios, a solicitud de éstos, así como aprobar los contratos que celebren los Ayuntamientos, cuando tengan duración mayor del período para el cual hubieren sido electos.
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Establecer las bases para que el Estado, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones o empréstitos destinados a inversiones públicas productivas y fijar anualmente, en los presupuestos, los conceptos y los montos máximos de dichas obligaciones o empréstitos;
+VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones y empréstitos destinados a inversiones públicas productivas y fijar anualmente, en la Ley de Egresos del Estado y en los presupuestos de los Municipios, los conceptos y los montos máximos de dichas obligaciones o empréstitos. El Congreso aprobará las operaciones de financiamiento, que se contratarán, convertirán o consolidarán mediante el Decreto que emita.
+
+El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar en garantía sus participaciones.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -750,6 +766,14 @@ XXVII.- Expedir leyes para hacer efectivas las anteriores facultades y todas las
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
 
 XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como revisar y fiscalizar sus cuentas públicas.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XXIX.- Establecer las bases que permitan al Estado y a los Municipios, coordinarse en materia de ingreso, gasto, deuda y patrimonio público, para su desarrollo e inversión;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XXX.- Expedir leyes que definan los principios y las bases de la planeación para el desarrollo integral, sustentable y equilibrado del Estado y de los Municipios; que establezcan los mecanismos para que la planeación sea coordinada, democrática y congruente en los tres niveles de gobierno, a la vez que cuenten con los instrumentos jurídicos que garanticen la consecución de sus fines y objetivos, así como, el control, evaluación y seguimiento de los planes y programas que la conformen.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1033,7 +1057,13 @@ XXI.- Nombrar y recibir la protesta de los funcionarios y empleados públicos cu
 
 XXII.- Conocer de las licencias y renuncias de los funcionarios y empleados a quienes nombre, en los casos en que esta Constitución o las leyes no dispongan otra cosa.
 
-XXIII.- Promover el constante perfeccionamiento de la Administración Pública, de acuerdo con las necesidades y recursos de la Entidad.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XXIII.- Establecer un sistema de modernización administrativa, así como promover el constante perfeccionamiento de la Administración Pública, de acuerdo con las necesidades y recursos de la Entidad.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XXIII-BIS.- Establecer el Servicio Civil de Carrera para los servidores públicos de la Administración Pública Estatal, en el que se regulará el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos, con criterios de calidad, eficiencia, mérito, lealtad, objetividad, legalidad, imparcialidad y equidad.
 
 XXIV.- Conceder indulto, conmutación y reducción de penas, en términos de las leyes aplicables.
 
@@ -1359,9 +1389,9 @@ b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se 
 
 c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-d) Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; y
+d) Los Ayuntamientos, en el ámbito de su competencia, propondrán a la legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y productos; así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -1531,23 +1561,33 @@ V.- La forma de Constituir los Ayuntamientos cuando los Regidores electos no con
 
 ## TITULO OCTAVO. DE LA ADMINISTRACION EN GENERAL
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO I. DE LA PROGRAMACION
+### CAPITULO I. DE LA PLANEACION Y LAS COMPRAS DEL SECTOR PUBLICO
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 107.
 
-El Poder Público del Estado y los Ayuntamientos tienen el deber de promover el desarrollo económico y social de sus habitantes y para ello su actividad será programada.
+En el Estado de Puebla, se organizará un Sistema de Planeación del Desarrollo, que será democrático y que se integrará con los planes y programas de desarrollo de carácter estatal, regional, municipal y especiales.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+La ley secundaria, establecerá los mecanismos para que el Gobierno del Estado y los de cada Municipio, recojan las aspiraciones y demandas de los diversos sectores y los incorporen para su observancia, a sus respectivos planes y programas de desarrollo. Asimismo, establecerá las bases para la suscripción de los convenios que permitan la consecución de sus fines y objetivos, de manera coordinada con la Federación, con otros Estados, o entre el Gobierno Estatal y Municipal, e incluso entre éstos.
+
+Será responsabilidad del Ejecutivo, la elaboración del Plan Estatal de Desarrollo, en cuya conformación considerará la participación de los Poderes Legislativo y Judicial. El Plan Estatal de Desarrollo, será aprobado por la instancia de planeación que establezca la ley.
+
+La participación de los particulares y del sector social será considerada en todas las acciones a realizar para la elaboración y ejecución de los planes y programas de desarrollo.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 108.
 
-La ley reglamentará y fijará las facultades de los funcionarios en materia de planeación, formación de programas y presupuestos, ejecución de objetivos, supervisión, evaluación e información, así como la coordinación de los sectores público, social y privado del Estado.
+Los recursos económicos de que dispongan el Estado, los Municipios y sus entidades, así como los organismos autónomos, se administrarán con eficiencia, eficacia y honradez, para satisfacer los objetivos a que estén destinados.
 
-### CAPITULO II. DE LA SEGURIDAD PUBLICA
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo, por regla general, a través de licitaciones públicas mediante convocatoria abierta, para que libremente se presenten proposiciones solventes en pliego o sobre cerrado, que será abierto públicamente, con el fin de procurar imparcialidad a los licitantes y asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a oferta, precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Las leyes limitarán los supuestos de excepción a las licitaciones públicas, establecerán las bases, procedimientos, reglas, requisitos y demás elementos idóneos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los Municipios, y determinarán la responsabilidad de los servidores públicos que intervengan en cualquier acto de adjudicación y contratación.
+
+### CAPITULO II. DE LA HACIENDA PUBLICA
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1561,11 +1601,13 @@ La Hacienda Pública tiene por objeto atender los gastos del Estado.
 
 La Hacienda Pública se formará con el producto de las contribuciones, impuestos, derechos, productos, aprovechamientos y participaciones que determinen las leyes fiscales, y con las donaciones, legados, herencias y reintegros que se hicieren en su favor.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 111.
 
-La Ley de Ingresos, fijará anualmente las cuotas correspondientes a las contribuciones, impuestos, derechos, productos y aprovechamientos, los cuales deberán ser suficientes para cubrir el presupuesto anual de egresos, de acuerdo con lo que se establezca en las disposiciones legales aplicables; las participaciones que corresponden al Estado en ingresos Federales y Municipales, serán las que determinen las Leyes y Convenios que las establezcan.
+Las Leyes de Ingresos del Estado y de los Municipios y demás ordenamientos fiscales aplicables, fijarán y regularán las cuotas, tasas y tarifas correspondientes a los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y demás conceptos de ingresos que conformen sus respectivas haciendas públicas, los cuales deberán ser suficientes para cubrir los presupuestos de egresos.
+
+Las participaciones que corresponden al Estado y a los Municipios en ingresos Federales, los incentivos económicos, los fondos de aportaciones federales y las reasignaciones, se recibirán y se ejercerán de conformidad con las leyes federales y estatales que los regulen y los convenios que se suscriban.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1935,11 +1977,11 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -2150,3 +2192,15 @@ Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado, en coordi
 ###### ARTÍCULO SEXTO.
 
 En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+P.O. 17 DE DICIEMBRE DE 2001.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Tercero.- En materia de compras del sector público, continuarán vigentes las disposiciones secundarias.
+
+Cuarto.- Los convenios celebrados entre el Estado y los Municipios en materia de coordinación fiscal y administrativa, serán válidos y continuarán vigentes hasta su conclusión o renovación.
+
+Quinto.- Los acuerdos a que se refiere la fracción XXIII Bis del artículo 79 del presente Decreto, serán irrevocables y su vigencia será la que en los mismos se determine.
