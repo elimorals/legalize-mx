@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2000-03-25"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -687,13 +687,23 @@ V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico
 
 Cuando por culpa se ocasione únicamente daño en propiedad ajena, sólo se perseguirá a petición de parte y se sancionará con multa hasta por 100 unidades o veinte jornadas de trabajo a favor de la comunidad.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 70.
 
-Cuando por culpa y con motivo de tránsito de vehículos se causen lesiones y siempre que se garantice debidamente la reparación del daño y que el presunto responsable no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, sólo se procederá a petición de parte y se sancionará con multa hasta por 100 unidades y veinte jornadas a favor de la comunidad.
+Cuando culposamente se causen lesiones, daños o lesiones y daños con motivo del transito de vehículos, solo se procederá a petición de parte, y se sancionará con multa hasta por cien unidades y veinte jornadas de trabajo en favor de la comunidad, siempre que se satisfagan las siguientes condiciones:
 
-Lo dispuesto en este artículo, no se aplicará cuando el delito se cometa en transporte de Servicio Público Estatal o Municipal o transporte escolar; en este supuesto el delito se perseguirá de oficio y se sancionará conforme a lo previsto por el artículo 68.
+I.- Que exista vehículo afectable a la reparación del daño o seguro vigente para daños a terceros o garantía en efectivo suficiente a juicio de la autoridad de vialidad; y;
+
+II.- Que el conductor no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares al momento del accidente de tránsito y no haya dejado abandonada a la víctima.
+
+Las autoridades de vialidad, en los casos previstos en este artículo, están impedidas para detener a los conductores. Estas autoridades procurarán que las partes lleguen a un acuerdo satisfactorio a sus intereses y suscriban el convenio respectivo.
+
+Si las partes no llegan a un convenio satisfactorio sobre la reparación del daño y no se garantiza la misma en los términos de la fracción I anterior, la autoridad vial sólo podrá asegurar los vehículos participantes y los pondrá a disposición del Ministerio Público, acompañando el respectivo parte informativo.
+
+Lo dispuesto en este artículo no se aplicará cuando el delito se cometa en transporte de servicio público o transporte escolar. En este supuesto, el delito se perseguirá de oficio y se sancionará conforme a lo previsto en el artículo 68, con la excepción de que se acredite que el vehículo cuenta con seguro vigente para daños a terceros y el seguro de viajero a que se refiere la ley vigente de la materia y siempre y cuando el conductor se encuentre en los supuestos de exclusión previstos en la fracción II, hipótesis en la cual se aplicará lo señalado en el primer párrafo de este dispositivo.
+
+En los casos a que se refiere este artículo no se aplicará lo dispuesto en los artículos 141 y 143 de este Código.
 
 ###### ARTICULO 71.
 
@@ -2646,3 +2656,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
