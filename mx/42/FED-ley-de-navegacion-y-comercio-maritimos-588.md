@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1981-12-28"
+last_updated: "1982-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -1256,25 +1256,25 @@ Todo quiratario tendrá acción para pedir al Juez la orden de reparación de la
 
 ### CAPITULO III. De los privilegios marítimos
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 116.
 
 Tendrán privilegios sobre el buque, sus pertenencias y accesorios, en el orden siguiente:
 
-I.- Los créditos derivados de relaciones laborables.
+I.- Los créditos derivados de relaciones laborales;
 
-II.- Los créditos a favor del fisco, relativos al buque o a su navegación.
+II.- Los créditos a favor del fisco, relativos al buque o a su navegación;
 
-III.- Los gastos de asistencia y salvamento.
+III.- Los gastos de asistencia y salvamento;
 
-IV.- La cuota que le corresponda en las averías gruesas o comunes.
+IV.- La cuota que le corresponda en las averías gruesas o comunes;
 
-V.- Los créditos derivados de indemnizaciones por abordaje u otros accidentes marítimos.
+V.- Los créditos derivados de indemnización por abordaje u otros accidentes marítimos;
 
-VI.- Las deudas contraídas por el capitán para la conservación del buque o para la continuación del viaje.
+VI.- Las deudas contraídas por el capitán para la conservación del buque o para la continuación del viaje;
 
-VII.- Las hipotecas y prendas debidamente registradas.
-
-VIII.- Las primas del Seguro.
+VII.- Las primas de seguro.
 
 ###### ARTICULO 117.
 
@@ -1292,33 +1292,75 @@ Los créditos privilegiados, con excepción de la hipoteca, se extinguirán en l
 
 La acción para exigir el pago de un crédito privilegiado sobre un buque, se ejercerá ante la autoridad competente del puerto de su matrícula.
 
-### CAPITULO IV. De la empresa marítima
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+### CAPITULO III BIS. De la Hipoteca Marítima
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 121.
 
-La hipoteca sobre un buque deberá constar en escritura pública y se anotará en su matrícula.
+Toda embarcación puede ser objeto de garantía real constituida mediante hipoteca que comprende sus pertenencias y accesorios.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 122.
 
-La hipoteca podrá dividirse en cédulas hipotecarias que la representen. Las cédulas se crearán y emitirán con intervención de una institución de crédito autorizada y con la aprobación, en su caso, de la Comisión Nacional Bancaria.
+La hipoteca se extiende aunque no se exprese:
+
+I.- A las mejoras de la embarcación.
+
+II.- A los objetos muebles incorporados permanentemente a la embarcación.
+
+III.- A la última anualidad de intereses.
+
+IV.- En caso de avería o naufragio de la embarcación, a la indemnización por los daños o averías y a los créditos derivados de gastos de salvamento e indemnizaciones de seguros.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 123.
 
-Si el buque es dañado o naufraga, el privilegio hipotecario se extenderá sobre la indemnización por los daños o averías, sobre los créditos derivados de gastos de salvamento, o sobre las indemnizaciones de seguros.
+La hipoteca no se extenderá al flete, salvo convenio en contrario.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 124.
 
-La hipoteca no se extenderá al flete, salvo convenio.
+La hipoteca marítima deberá constituirse en escritura pública; se anotará en la matrícula de la embarcación y se inscribirá con todos los datos de la misma en el Registro Público Marítimo Nacional, en el que se asentará la prelación respecto de otras hipotecas y privilegios marítimos. Al término del contrato se harán las anotaciones correspondientes en dicho Registro.
+
+De estar garantizados los privilegios marítimos, se expresará en la inscripción de la hipoteca tal circunstancia, indicando su prelación en primer lugar.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 125.
 
-El privilegio hipotecario se extenderá, a la última anualidad de intereses.
+La hipoteca podrá dividirse en cédulas hipotecarias que la representen. Las cédulas se emitirán con intervención de una institución de crédito autorizada y con la aprobación de las autoridades competentes.
 
 ###### ARTICULO 126.
 
 La acción hipotecaria prescribirá en tres años a partir del vencimiento del crédito que garantiza.
 
-### CAPITULO V. De la fortuna de mar
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 126-A.
+
+El crédito hipotecario es preferente a cualquier otro crédito no comprendido en el Artículo 116.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 126-B.
+
+Para que la hipoteca marítima sea cubierta en primer lugar, se deberá otorgar fianza o cualquier otra garantía que establezcan las leyes de la materia en el caso de existir créditos privilegiados.
+
+La garantía de pago de crédito privilegiado se inscribirá en el Registro Público Marítimo Nacional con autorización de las Secretarías de Comunicaciones y Transportes, de Hacienda y Crédito Público y de Trabajo y Previsión Social.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 126-C.
+
+La falta de cumplimiento por parte del deudor del contrato de hipoteca dará lugar a hacer efectiva la fianza constituida en términos del Artículo 126-B y a la dimisión de bandera del buque objeto del contrato.
+
+### CAPITULO IV. De la empresa marítima
 
 ###### ARTICULO 127.
 
@@ -1346,7 +1388,7 @@ La orden de embargo contra un naviero o su empresa por créditos que no implique
 
 En ningún caso serán detenidos los buques embargados por créditos personales del naviero no provenientes de la navegación.
 
-### CAPITULO VI. Del abandono de los buques
+### CAPITULO V. De la fortuna de mar
 
 ###### ARTICULO 132.
 
@@ -1376,7 +1418,7 @@ VII.- Obligaciones contraídas por el capitán para la conservación del buque o
 
 VIII.- En general, toda obligación derivada directamente del proceso de la navegación.
 
-### CAPITULO I. De la tripulación de los buques
+### CAPITULO VI. Del abandono de los buques
 
 ###### ARTICULO 135.
 
@@ -1420,7 +1462,7 @@ La renuncia al derecho de abandonar un buque deberá pactarse expresamente.
 
 ## TITULO SEGUNDO. DE LAS PERSONAS
 
-### CAPITULO II. De los capitanes
+### CAPITULO I. De la tripulación de los buques
 
 ###### ARTICULO 145.
 
@@ -1430,7 +1472,7 @@ Todas las personas embarcadas para laborar en la dirección, maniobras y servici
 
 Todos los miembros de la tripulación de un buque nacional, deberán ser mexicanos por nacimiento y hacer constar su pericia, capacidad técnica o práctica en el desempeño de sus funciones a bordo y no estar inhabilitados para el cargo o servicio que presten, de acuerdo con lo que determinen las leyes y reglamentos respectivos.
 
-### CAPITULO I. Del arrendamiento de las naves
+### CAPITULO II. De los capitanes
 
 ###### ARTICULO 147.
 
@@ -1446,9 +1488,7 @@ El capitán de un buque deberá permanecer en su cargo mientras no sea relevado.
 
 ## TITULO TERCERO. DE LOS CONTRATOS
 
-### CAPITULO II. Del fletamento
-
-A). DISPOSICIONES GENERALES
+### CAPITULO I. Del arrendamiento de las naves
 
 ###### ARTICULO 150.
 
@@ -1478,7 +1518,9 @@ Vencido el término del arrendamiento, si ninguna de las partes notifica a la ot
 
 Prescribirán en un año las acciones derivadas del contrato de arrendamiento de un buque.
 
-### CAPITULO III. De las modalidades marítimas de la compra venta
+### CAPITULO II. Del fletamento
+
+A). DISPOSICIONES GENERALES
 
 ###### ARTICULO 157.
 
@@ -1764,7 +1806,7 @@ El porteador podrá depositar en lugar seguro el equipaje no retirado, a disposi
 
 En todo lo relativo a la seguridad de la embarcación, a la conservación del orden y disciplina a bordo, los pasajeros deberán someterse a las leyes y reglamentos y a las órdenes y disposiciones que dicte el capitán.
 
-### CAPITULO IV. Del seguro marítimo
+### CAPITULO III. De las modalidades marítimas de la compra venta
 
 ###### ARTICULO 210.
 
@@ -1820,7 +1862,7 @@ En las ventas costo y flete (CF) se aplicarán las disposiciones de la venta CIF
 
 El comprador que recibiere las cosas empacadas o embaladas, podrá reclamar los defectos de cantidad o calidad de las mercancías, o sus vicios, dentro de los ocho días siguientes al de su recepción.
 
-### CAPITULO V. De los agentes del naviero
+### CAPITULO IV. Del seguro marítimo
 
 ###### ARTICULO 222.
 
@@ -1940,7 +1982,7 @@ El buque se considerará perdido si transcurren treinta días después del plazo
 
 El asegurador perderá el derecho de objetar el abandono, si no lo hace dentro de los quince días siguientes a aquel en que reciba la declaración.
 
-### CAPITULO UNICO. De las averías gruesas o cumunes(sic)
+### CAPITULO V. De los agentes del naviero
 
 ###### ARTICULO 251.
 
@@ -2088,6 +2130,8 @@ Los armadores mexicanos y los organismos descentralizados federales que presten 
 
 ## TITULO IV. DE LOS RIESGOS
 
+### CAPITULO UNICO. De las averías gruesas o cumunes(sic)
+
 ###### ARTICULO 256.
 
 Es avería gruesa o cumún (sic) todo daño o gasto extraordinario, ocasionado deliberada y directamente por actos del capitán al buque o a su cargamento, para salvarlos de un riesgo conocido y real.
@@ -2223,3 +2267,9 @@ D.O.F. 28 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
