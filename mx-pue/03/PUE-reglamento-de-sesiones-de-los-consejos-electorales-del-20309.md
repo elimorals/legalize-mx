@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-sesiones-de-los-consejos-electorales-del-20309"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-20"
-last_updated: "2001-07-20"
+last_updated: "2004-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA APROBADA POR ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, MEDIANTE COPIA CERTIFICADA: 20 DE JULIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de febrero de 2001.
 
@@ -240,13 +240,23 @@ VII.- Pedir la aplicación del Reglamento de Sesiones de los Consejos Electorale
 
 Toda moción de orden deberá dirigirse al Consejero Presidente del Consejo General, quien consultará al orador si da su aceptación. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 20.
 
 El Secretario General del Consejo General tomará la votación en forma económica. Sólo procederá votación nominal, ya sea abierta o cerrada, cuando así lo acuerde el Consejo General a propuesta de algún Consejero Electoral.
 
-Los acuerdos y resoluciones del Consejo General se tomarán por mayoría simple de votos de sus miembros con derecho a ello, salvo en los casos en que la ley disponga una mayoría calificada.
+Los acuerdos y resoluciones del Consejo General se tomará (sic) por mayoría simple de votos de sus miembros con derecho a ello, salvo en los casos en que la ley disponga la mayoría calificada.
 
 El Secretario General hará del conocimiento del pleno el sentido de la votación, la que se tomará contando el número de votos a favor, el número de votos en contra y, en su caso, las abstenciones. El resultado de la votación quedará asentado en el acta circunstanciada.
+
+Los Consejeros Electorales que quieran razonar su voto, deberán hacerlo del conocimiento del Consejero Presidente antes de que se someta a votación el asunto de que se trate.
+
+Una vez que el Secretario General tome la votación correspondiente de acuerdo con este artículo, el Consejero Presidente dará la palabra al o los Consejeros Electorales que hubiesen expresado su voluntad de razonar su voto, respetando el orden en que fue solicitado.
+
+El Consejero Electoral contará hasta con dos minutos para expresar las razones de su voto y no podrá ser interrumpido por ningún integrante del Consejo General.
+
+Si algún miembro del Consejo General solicita el razonamiento del voto sobre el asunto sujeto a discusión, el Consejero Presidente antes de someterlo a votación deberá consultar si alguno de sus miembros con derecho a voto desea expresar las razones de su voto.
 
 ### CAPÍTULO III. DE LOS ACTOS POSTERIORES A LA SESIÓN DEL CONSEJO GENERAL
 
@@ -467,3 +477,11 @@ P.O. 20 DE JULIO DE 2001.
 TERCERO.- Las presentes reformas entraran en vigor a partir del día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado.
 
 CUARTO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2004.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- El Consejo General del Instituto Electoral del Estado, aprueba modificaciones al Reglamento de Sesiones de los Consejos Electorales del Instituto Electoral del Estado, documento que corre agregado al presente como anexo único formando parte integrante del mismo, modificaciones que entrarán en vigor una vez que este documento sea aprobado, en términos del considerando 3 de este Acuerdo.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
