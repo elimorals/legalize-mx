@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2004-12-04"
+last_updated: "2005-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -877,11 +877,11 @@ XIV.- Tener el carácter de Presidente de las Juntas de Gobierno de los organism
 
 XV.- Las demás que le señale el Consejo de Administración, esta ley y su reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 58.
 
-Los empleados de base y de confianza al servicio de la Comisión Estatal del Agua se regirán por el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones laborales entre la Comisión Estatal del Agua y los empleados de base y confianza a su servicio se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado de Oaxaca.
 
 ###### ARTÍCULO 59.
 
@@ -1674,3 +1674,7 @@ P.O. 4 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto, entrará en vigor el día primero de diciembre del año dos mil cuatro; publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los recursos humanos, materiales y financieros a cargo del Instituto Estatal del Agua, pasarán a formar parte de la Comisión Estatal del Agua. Las disposiciones legales y reglamentarias que contengan la denominación, "INSTITUTO ESTATAL DEL AGUA", se entenderá que se trata de la Comisión Estatal del Agua. Los actos e instrumentos celebrados por la institución denominada "Instituto Estatal del Agua" seguirán vigentes y se entenderán celebrados por LA COMISION ESTATAL DEL AGUA, sin menoscabarse los derechos laborales de sus trabajadores los que se entenderán intocados. La Secretaria de Administración en uso de sus facultades legales, realizara todos los actos concernientes para dar el debido cumplimiento de la presente Ley.
+
+P.O. 12 DE ENERO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
