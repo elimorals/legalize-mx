@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1998-02-07"
+last_updated: "1998-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 1998.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -683,7 +683,9 @@ En este caso el juicio deberá seguirse con los trámites y solemnidades a que s
 
 III. En todos los demás casos previstos por la ley.
 
-En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber al citado que deberá presentarse dentro de un término que no bajará de quince ni excederá de treinta días, si se trata de citaciones.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 1998)</small>
+
+En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y en uno de los diarios de mayor circulación en el Estado, haciéndose saber al citado que deberá presentarse dentro de un término que no será menor de quince ni excederá de treinta días.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
 
@@ -3445,9 +3447,11 @@ III. Para nombrar a su costa un perito que con los nombrados por el ejecutante y
 
 El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 1998)</small>
+
 ###### Artículo 556.
 
-Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días en el Periódico Oficial del Estado y fijándose edicto en los sitios públicos de costumbre. A petición de cualquiera de las partes y a su costa el juez puede usar además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el Estado, además se fijará edicto en los sitios públicos de costumbre. A petición de cualquiera de las partes y a su costa el juez puede usar además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### Artículo 557.
 
@@ -3813,9 +3817,11 @@ Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas 
 
 El litigante será declarado rebelde a petición de parte contraria si se tratare de falta de contestación de la demanda, o cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruido y expensado.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 1998)</small>
+
 ###### Artículo 622.
 
-El auto en que se declare la rebeldía, el en que se reciba a prueba el negocio, los puntos resolutivos de la sentencia, el auto en que se mande ejecutar el fallo y el que señala día para el remate, además de notificarse como está prevenido en el artículo anterior se publicará dos veces en el Periódico Oficial.
+El auto en que se declare la rebeldía, el en que se reciba a prueba el negocio, los puntos resolutivos de la sentencia, el auto en que se mande ejecutar el fallo y el que señala día para el remate, además de notificarse como está prevenido en el artículo 620 se publicarán por dos veces, en el Periódico Oficial con intervalos no menores de siete días y en uno de los diarios de mayor circulación en el Estado.
 
 ###### Artículo 623.
 
@@ -6062,3 +6068,7 @@ P.O. 7 DE FEBRERO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
+
+P.O. 18 DE JULIO DE 1998.
+
+UNICO.- Las reformas de que se ocupa este decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
