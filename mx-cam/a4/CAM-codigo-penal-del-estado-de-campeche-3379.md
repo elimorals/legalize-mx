@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1988-05-28"
+last_updated: "1991-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -2991,6 +2991,10 @@ Los trabajadores o cualesquiera otras personas que intervengan en la simulación
 
 Son aplicables al fraude los artículos 342 y 343.
 
+### CAPITULO UNICO. DELITOS EN MATERIA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
 ###### Art. 371.
 
 Se aplicará la pena de tres meses a cinco años de prisión y multa de cincuenta a quinientos pesos:
@@ -3069,6 +3073,106 @@ Si los encubridores fuesen representantes legales de empresas pesqueras, congela
 
 Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 49, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV y V del artículo 376, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
+(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991) (F. DE E., P.O. 7 DE ENERO DE 1991)
+
+TITULO VIGESIMOSEPTIMO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 379.
+
+Para los efectos de este capítulo se entiende por:
+
+I.- Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios partidistas, los dirigentes de los partidos políticos estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales o municipales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación estatal electoral; y
+
+III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 380.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 381.
+
+Se impondrá multa de diez a cien días de salario mínimo diario vigente en el Estado o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+
+I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
+
+II.- Vote más de una vez en una misma elección;
+
+III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes; o
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 382.
+
+Se impondrá multa de hasta 500 días de salario mínimo vigente en el Estado, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 383.
+
+Se impondrá multa de veinte a cien días de salario mínimo o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya, o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
+
+II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.- Altere los resultados electorales, sustraiga o destruya boletas electorales;
+
+V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada; y
+
+VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; y
+
+VIII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 384.
+
+Se impondrá multa de cincuenta a cien días de salario mínimo o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
+
+VI.- Impida con violencia la instalación; apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 385.
+
+Se impondrá multa de setenta a doscientos días de salario mínimo o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+
+I.- Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+
+II.- Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o
+
+III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponderle por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### Art. 386.
+
+Se impondrá sanción de suspensión de sus derechos políticos por un año a quienes, habiendo sido electos diputados o presidente, regidor o síndico de un Ayuntamiento o Junta Municipal o comisario municipal, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado por la ley.
+
 ## ARTICULOS TRANSITORIOS
 
 1o.- Este Código comenzará a regir en la fecha que fije el Ejecutivo del Estado.
@@ -3128,3 +3232,9 @@ UNICO.- El presente decreto entrará en vigor a los tres días de su publicació
 P.O. 28 DE MAYO DE 1988.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ENERO DE 1991.
+
+Primero.- La presente adición entrará en vigor el día de su publicación en el periódico oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan a las contenidas en el presente decreto.
