@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1984-04-12"
+last_updated: "1988-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -42,6 +42,8 @@ DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 ## TITULO I. Disposiciones Generales
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1988)</small>
 
 ###### Artículo 1.
 
@@ -67,7 +69,7 @@ Diputación Permanente.
 
 ###### Artículo 4.
 
-En el año de la renovación del Congreso del Estado, a las 11 horas del día 20 de enero, y precisamente en el Salón de Sesiones del Congreso, deberán reunirse, bajo la presidencia de la Diputación Permanente, que fungirá como Comisión Instaladora, los ciudadanos a quienes el Consejo Electoral les haya extendido constancia de haber obtenido la mayoría de sufragios para Diputados Propietarios en la elección respectiva, sin necesidad de cita previa.
+En el año de la renovación del Congreso del Estado, a las 11 horas del día 20 de enero, y precisamente en el Salón de Sesiones del Congreso, deberán reunirse, bajo la Presidencia de la Diputación Permanente, que fungirá como Comisión Instaladora, todos los presuntos Diputados propietarios electos, tanto por el principio de mayoría relativa como de representación proporcional que hubieren obtenido su constancia, expedida por el Consejo Electoral del Estado, en la elección respectiva, sin necesidad de cita previa, para integrar el Colegio Electoral.
 
 ###### Artículo 5.
 
@@ -415,7 +417,9 @@ Corresponde a la Comisión de Gobernación el conocimiento de los siguientes asu
 
 I. Los que se relacionen con la división territorial del Estado y de los Municipios;
 
-II. Los que se refieren al conocimiento de licencias o renuncias del Gobernador, de los Diputados y de los Magistrados del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
+
+II. Los que se refieren al conocimiento, de licencias o renuncias del Gobernador, de los Diputados y de los Magistrados del Supremo Tribunal de Justicia, de los Magistrados del Tribunal de lo Contencioso Administrativo y de los Magistrados del Tribunal de lo Contencioso Electoral;
 
 III. Los relativos al cambio de residencia de los Poderes del Estado o del Recinto Oficial del Congreso. Estos cambios se autorizarán siempre en forma provisional y condicionados por consiguiente, a la duración de la causa que los motive;
 
@@ -495,17 +499,31 @@ Corresponde a la Comisión de Educación Pública y Bellas Artes el conocimiento
 
 Corresponden a la Comisión Calificadora de Asuntos Electorales, las siguientes atribuciones:
 
-I. Dictaminar sobre la elección ordinaria de Gobernador del Estado con vista de los expedientes electorales que al efecto se hayan remitido al Congreso, antes del día 15 de febrero del año de la instalación de la Legislatura, proponiendo la declaratoria del ciudadano que hubiere obtenido la mayoría de sufragios;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
 
-II. Dictaminar sobre la necesidad de convocar a elecciones extraordinarias cuando se haga necesario;
+I. Dictaminar sobre el cómputo y calificación de la elección ordinaria de Gobernador del Estado, con vista de los expedientes que, para el efecto, haya remitido al Congreso, el Consejo Electoral del Estado, en los términos de las Leyes correspondientes, proponiendo la declaratoria del ciudadano que hubiese obtenido la mayoría de sufragios;
 
-III. Dictaminar sobre el resultado de elecciones extraordinarias que se hayan celebrado, dentro de los 15 días siguientes al recibo de toda la documentación relativa a ellas;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
 
-IV. Dictaminar sobre el resultado de la elección para Senadores que representen al Estado ante el Congreso de la Unión, proponiendo la declaratoria correspondiente a favor de quienes hubieren obtenido mayoría de sufragios;
+II. Dictaminar sobre el resultado de la elección para Senadores que representen al Estado ante el Congreso de la Unión, proponiendo la declaratoria correspondiente a favor de quienes hubiesen obtenido mayoría de sufragios;
 
-V. Proponer para su designación como Gobernador Interino, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba substituirlo, en los términos y condiciones que señala la Constitución Política del Estado, debiendo fundamentar debidamente los motivos que inspiren la proposición. Este dictamen debe ser rendido dentro de los cinco días que sigan al en que la Comisión haya tenido conocimiento de la falta del Ejecutivo que implique designación de Gobernador Interino.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
 
-Para conocer de los dictámenes de esta Comisión, el Congreso deberá previamente erigirse en Colegio Electoral.
+III. Dictaminar sobre el cómputo y calificación de la elección de munícipes para integrar los Ayuntamientos de la entidad, con vista de la documentación que, para tal efecto haya remitido al congreso, el Consejo Electoral del Estado, incluyendo la asignación de los Regidores de representación proporcional, y proponiendo la declaratoria correspondiente;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
+
+IV. Dictaminar sobre la necesidad de convocar a elecciones extraordinarias, cuando sea necesario; y sobre el resultado de éstas, dentro de los quince días siguientes a la recepción de la documentación respectiva;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
+
+V. Proponer para su designación, como Gobernador Interino, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba substituirlo, en los términos y condiciones que señala la Constitución Política del Estado, debiendo fundamentar debidamente los motivos que inspiren la proposición. Este dictamen debe ser rendido dentro de los cinco días que sigan al en que la Comisión haya tenido conocimiento de la falta del Ejecutivo, que implique designación de Gobernador Interino; y
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
+
+VI. Dictaminar sobre las propuestas que hubiesen presentado los partidos políticos registrados, para integrar el Tribunal de lo Contencioso Electoral a que se refiere el Art. 2º. de la Ley Electoral.
+
+Para conocer de los dictámenes relativos a esta Comisión, el Congreso deberá previamente erigirse en Colegio Electoral.
 
 ###### Artículo 41.
 
@@ -1598,3 +1616,7 @@ P.O. 12 DE ABRIL DE 1984
 Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Segundo. Este decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 17 DE NOVIEMBRE DE 1988
+
+Unico. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
