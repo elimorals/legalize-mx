@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1962-12-10"
+last_updated: "1975-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -75,7 +75,9 @@ La Comisión Consultiva del Estado, se encargará:
 
 a).- Del estudio de la documentación que para su reconocimiento presenten los interesados;
 
-b).- Del estudio de las pensiones y demás prestaciones que procedan;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1975)</small>
+
+b).- De verificar por medio de trabajadoras sociales dependientes del Gobierno del Estado, a través de estudios socio económicos, las condiciones del interesado, con el propósito fundamental de obtener los datos idóneos para cuantificar las pensiones y demás prestaciones que esta Ley confiere;
 
 c).- Gestionar la expedición de pólizas y pago de las mismas, en caso de defunción de los Veteranos, y
 
@@ -190,3 +192,7 @@ P.O. 10 DE DICIEMBRE DE 1962.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1975.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
