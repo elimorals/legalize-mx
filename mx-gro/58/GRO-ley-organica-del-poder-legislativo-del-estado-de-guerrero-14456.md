@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2002-11-06"
+last_updated: "2004-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUM. 286
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -1523,7 +1523,9 @@ Se reputará aprobado por el titular del Poder Ejecutivo, toda Ley o Decreto no 
 
 Las Comisiones a las que se turnen iniciativas, rendirán su dictamen al Congreso o a la Diputación Permanente, en su caso. Tanto para dictaminar como para obtener los datos necesarios para la buena diligencia de los asuntos, los Diputados podrán solicitar a los órganos de la administración pública por escrito, los informes que se estimen convenientes, conforme a lo previsto por el artículo 88 de esta Ley. Los titulares o responsables de dichos órganos tienen la obligación de rendir lo más pronto posible la información solicitada. En caso de negativa, el Congreso acordará solicitar al superior jerárquico la aplicación de la sanción que proceda en términos de Ley.
 
-En caso de desacato total, el Presidente del Congreso podrá solicitar se finque responsabilidad. Las presentadas por los Diputados se considerarán como dictámenes y quedarán sujetas a dicho trámite.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2004)</small>
+
+En caso de desacato total, el Presidente del Congreso podrá solicitar se finque responsabilidad.
 
 ###### Artículo 133.
 
@@ -2292,3 +2294,13 @@ P.O. 6 DE NOVIEMBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE FEBRERO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su expedición.
+
+###### ARTICULO SEGUNDO.
+
+Comuníquese al presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
