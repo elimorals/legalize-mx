@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1992-02-27"
+last_updated: "1995-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1995.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -255,9 +255,11 @@ Para las determinaciones o acuerdos que el Pleno tome en los términos del artí
 
 ### CAPITULO III. PRESIDENCIA DEL SUPREMO TRIBUNAL
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 14.
 
-El Presidente del Supremo Tribunal de Justicia tendrá la representación legal de éste; será electo en la primera sesión de cada período constitucional, y, en los demás casos, dentro de los diez días siguientes al del informe anual de labores. En las mismas sesiones se designará al magistrado que deba substituirlo en los términos del artículo 76 de esta Ley.
+El Presidente del Supremo Tribunal de Justicia tendrá la representación legal de éste; será electo en la sesión siguiente al 16 de septiembre, en que inicia el período constitucional, en las anualidades subsecuentes la elección se hará al cumplirse un año de la designación o, a más tardar, en los siguientes diez días.
 
 ###### ARTICULO 15.
 
@@ -743,7 +745,7 @@ Los jueces de tenencia deberán reunir, en lo conducente, los requisitos que se�
 
 ###### ARTICULO 44.
 
-Para los jueces de tenencia girá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
+Para los jueces de tenencia regirá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
 
 Ningún juez de tenencia podrá ser separado de su cargo sino por causa justificada.
 
@@ -1770,3 +1772,9 @@ P.O. 27 DE FEBRERO DE 1992
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 1995
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Por esta única vez, en este año en que se inicia período constitucional, la designación del Presidente del Supremo Tribunal de Justicia se hará a más tardar dentro de los ocho días posteriores al de la publicación del presente Decreto.
