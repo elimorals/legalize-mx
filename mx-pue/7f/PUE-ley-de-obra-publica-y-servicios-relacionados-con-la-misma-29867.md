@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2003-03-26"
+last_updated: "2005-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -107,7 +107,9 @@ No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecuta
 
 Para efectos de la presente Ley, se entenderá por:
 
-I.- Comité.- El Comité Estatal de Obra Pública y Servicios Relacionados, o su similar Municipal;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+I.- Convocante: La Secretaría de Desarrollo Urbano y Obras Públicas y el Comité de Obra Municipal en el ámbito municipal, según corresponda;
 
 II.- Contraloría.- La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública Estatal o su similar Municipal;
 
@@ -125,7 +127,9 @@ VIII.- Servicios relacionados con la misma.- Todos aquellos que tengan como fina
 
 IX.- Presidente.- El Presidente Municipal; y
 
-X.- Secretaría.- La Secretaría de Desarrollo Urbano, Ecología y Obras Públicas.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+X.- Secretaría.- La Secretaría de Desarrollo Urbano y Obras Públicas.
 
 ###### ARTÍCULO 3.
 
@@ -141,11 +145,15 @@ IV.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas
 
 V.- Los demás de naturaleza análoga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 4.
 
-La Secretaría de Gobernación y el Presidente en su caso, resolverán las consultas sobre la interpretación de esta Ley y las demás disposiciones relativas.
+La Secretaría de Gobernación; la Secretaría; la Contraloría y el Presidente en su caso, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta Ley.
 
-Asimismo la Secretaría y en su caso el Presidente, en el marco de esta Ley estarán facultados para dictar las resoluciones que sean estrictamente necesarias para su cumplimiento.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La Secretaría y en su caso el Presidente, en el marco de esta Ley, estarán facultados para dictar las resoluciones que sean estrictamente necesarias para su cumplimiento.
 
 Los titulares de las dependencias y los órganos de gobierno de las entidades, serán los responsables de que en la adopción e instrumentación de las acciones que desarrollen, se lleven a cabo en cumplimiento de lo dispuesto por esta Ley.
 
@@ -173,9 +181,15 @@ IX.- Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transfer
 
 X.- Todos aquellos de naturaleza análoga.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 6.
 
-Para garantizar la eficiencia, especialización y la transparencia en la adjudicación de las obras públicas y servicios relacionados con las mismas que ejecuten las dependencias y entidades, los Gobiernos Estatales y Municipales, podrán constituir mediante el acuerdo o decreto correspondiente, la entidad que sea la encargada de llevar a cabo los procedimientos de adjudicación a que se refiere el artículo 23 de la presente Ley.
+Corresponde en la Administración Pública del Estado a la Secretaría la realización de los procedimientos de adjudicación en todas sus fases, conforme a lo previsto en la presente Ley.
+
+Solo por excepción las dependencias y entidades bajo su responsabilidad podrán adjudicar en forma directa los contratos en los términos de lo previsto en la presente Ley.
+
+Por lo que respecta a la Administración Pública Municipal, la instrumentación de los procedimientos de adjudicación en todas sus fases, correrá a cargo de los Comités de Obra Pública que constituya cada Ayuntamiento. En el supuesto que no cuenten con los recursos necesarios para tal efecto, podrán celebrar convenio de colaboración administrativa con el Estado a través de la Secretaría, para que ésta realice los procedimientos de adjudicación de las obras públicas y servicios relacionados con la misma.
 
 ###### ARTÍCULO 7.
 
@@ -189,25 +203,29 @@ De igual manera tratándose de obras públicas y servicios que con ella se relac
 
 En los Convenios a que se refiere este artículo se establecerán los términos, condiciones y mecanismos para la adecuada coordinación, supervisión y control de las obras públicas y servicios que con ellas se relacionen, que deban realizar las dependencias y entidades Estatales o Municipales.
 
-En todo caso el Comité será el encargado de desarrollar los procesos de licitación de obra pública y servicios relacionados con la misma en el Estado. Lo anterior sin perjuicio de las disposiciones aplicables en materia de ejecución, seguimiento y control de la obra o servicio relacionado con la misma, que deben aplicarse atendiendo al origen de los recursos.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 9.
 
 En lo no previsto por esta Ley y su Reglamento, se aplicarán supletoriamente el Código Civil y de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 10.
 
-Las controversias que se presenten con motivo de la aplicación de la presente Ley y demás disposiciones relativas, así como las que, se deriven de los contratos y sus convenios, serán substanciadas y resueltas por las dependencias y entidades contratantes o el Presidente en su caso, tratándose de obras o servicios que con ella se relacionen en el ámbito Municipal.
+Las controversias que se presenten con motivo de la aplicación de la presente Ley y demás disposiciones relativas, así como las que, se deriven de los contratos y sus convenios, serán substanciadas y resueltas por los Tribunales del Estado.
 
 ###### ARTÍCULO 11.
 
-El Comité será el único que podrá adjudicar contratos de obra y servicios relacionados con la misma y sólo por excepción, y bajo su responsabilidad y en los términos que establece la presente Ley, las dependencias y entidades podrán adjudicar directamente estos contratos.
+(DEROGADO, P.O. 16 DE MARZO DE 2005)
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 12.
 
-Para los efectos de coordinación a que se refiere la Ley de Planeación para el Desarrollo del Estado de Puebla, el Municipio podrá celebrar convenios con el Comité para efectos de que éste lleve a cabo los procedimientos de adjudicación de obras públicas y servicios relacionados con las mismas, que se realicen con recursos de uno o más Municipios.
+Para los efectos de coordinación a que se refiere la Ley de Planeación para el Desarrollo del Estado de Puebla, el Municipio podrá celebrar convenios con la Secretaría para efectos de que ésta lleve a cabo los procedimientos de adjudicación de obras públicas y servicios relacionados con las mismas, que se realicen con recursos de uno o más Municipios.
 
-Para estos casos, el Presidente designará tres personas para asistir a los procedimientos de licitación.
+Para estos casos, el Presidente podrá designar una persona para asistir a los diversos eventos que conforman los procedimientos de adjudicación, sin que su inasistencia sea causa para invalidar los eventos.
 
 ### CAPÍTULO II. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -247,7 +265,7 @@ Los contratos de servicios relacionados con las obras públicas sólo se podrán
 
 Es obligación de las dependencias y entidades observar las disposiciones que en materia de desarrollo urbano y construcción rijan en sus respectivos ámbitos de competencia.
 
-Asimismo, deberán, cuando sea el caso y previa a la realización de los trabajos, tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas; así como las demás autorizaciones que conforme a los trabajos a ejecutar sean requeridas.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 17.
 
@@ -287,15 +305,17 @@ Una vez aprobado, la Secretaría de Finanzas y Administración remitirá la prop
 
 El mencionado programa tendrá únicamente el carácter de informativo y no implicará compromiso alguno de contratación y podrá ser modificado, adicionado, suspendido o cancelado sin responsabilidad para las dependencias o entidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 19.
 
-Las dependencias y entidades contratantes, deberán obtener previamente, el oficio de autorización presupuestal correspondiente, el cual será enviado en un lapso no mayor a diez días hábiles al Comité, junto con la solicitud y demás documentación necesaria para la realización del procedimiento de adjudicación correspondiente, quién a su vez, dentro del plazo de cinco días hábiles posteriores a su recepción procederá a publicar la convocatoria respectiva.
+Para la tramitación del oficio de autorización de recursos ante la instancia competente, se deberá contar con la documentación prevista en las fracciones II, III, IV y V del artículo 22 de la presente Ley.
 
 En el caso de obras públicas y servicios que con ella se relacionen, cuya ejecución rebase un ejercicio presupuestal, las dependencias y entidades deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate, además de considerar los costos que, en su momento, se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos.
 
 El presupuesto de obra actualizado será la base para solicitar la asignación de cada ejercicio presupuestal posterior.
 
-Emitida la autorización presupuestal de obra o de los servicios a contratarse a través de los procedimientos de licitación o invitación a cuando menos cinco y tres personas, las dependencias y entidades deberán remitirlas al Comité dentro del plazo de quince días hábiles posteriores a su emisión, para efectos de iniciar el procedimiento de adjudicación que corresponda.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
 
@@ -311,19 +331,33 @@ Las obras públicas y servicios relacionados con las mismas que las dependencias
 
 #### SECCIÓN PRIMERA. DE LOS PROCEDIMIENTOS DE ADJUDICACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 22.
 
-Para la realización de obras públicas y servicios relacionados con las mismas, las dependencias y entidades, deberán contar con:
+Previo a la realización de un procedimiento de adjudicación, las dependencias y entidades deberán contar con:
 
-I.- Suficiencia presupuestal;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-II.- Las autorizaciones, permisos, licencias y derechos que se requieran de acuerdo a la naturaleza de los trabajos o servicios a contratarse;
+I.- El oficio de autorización de recursos;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+II.- Cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad, y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas; así como las demás autorizaciones que conforme a los trabajos a ejecutar sean requeridas. En los casos procedentes, las dependencias y entidades deberán iniciar el proceso de notificación ante las autoridades competentes para la tramitación de los documentos anteriores.
 
 III.- El presupuesto de inversión y de gasto de preinversión, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes;
 
-IV.- Los estudios, proyectos y el programa de ejecución totalmente terminados que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-V.- Haber determinado las especificaciones de construcción y normas de calidad.
+IV.- Los estudios, proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados incluyendo el derecho de vía, o bien, con un avance en su desarrollo de cada uno de ellos que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+V.- La validación del proyecto ejecutivo en el caso de obra pública y de los términos de referencia en el caso de servicios relacionados con la misma, por parte de la entidad.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Una vez que se cuente con toda la documentación señalada anteriormente, en un plazo máximo de cinco días hábiles se deberá iniciar el procedimiento de adjudicación respectivo.
 
 ###### ARTÍCULO 23.
 
@@ -337,13 +371,19 @@ III.- Invitación a cuando menos tres personas; y
 
 IV.- Adjudicación directa.
 
-En estos procedimientos de adjudicación se deberán establecer los mismos requisitos y condiciones para todos los participantes, especialmente los que se refieren a tiempo y lugar de entrega, plazos de ejecución, normalización aplicable de conformidad con la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo el Comité proporcionar a todos los interesados igual acceso a la información relacionada con dichos requisitos y procedimientos, con la finalidad de evitar favorecer a algún participante.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
-El Comité, pondrá a disposición del público a través de los medios de difusión electrónica que establezca, la información correspondiente a las convocatorias y bases de las licitaciones y en su caso, las modificaciones que tuvieren, las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o así como cancelaciones de éstas, así como los datos relevantes de los contratos adjudicados, sean por licitación pública, invitación o adjudicación directa.
+En estos procedimientos de adjudicación se deberán establecer los mismos requisitos y condiciones para todos los participantes, especialmente los que se refieren a tiempo y lugar de entrega, plazos de ejecución, normalización aplicable de conformidad con la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías, debiendo la convocante proporcionar a todos los interesados igual acceso a la información relacionada con dichos requisitos y procedimientos, con la finalidad de evitar favorecer a algún participante.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La convocante, pondrá a disposición del público a través de los medios de difusión electrónica que establezca, la información correspondiente a las convocatorias y bases de las licitaciones y en su caso, las modificaciones que tuvieren, las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, así como los datos relevantes de los contratos adjudicados, sean por licitación pública, invitación o adjudicación directa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
-Los contratos de obras públicas y de servicios relacionados con las mismas, por regla general se adjudicarán a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobres cerrados, los que sólo deberán ser abiertos públicamente por el Comité, ante la presencia de un representante de la Contraloría que corresponda, con el propósito de asegurar al Estado o al Municipio, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética, uso responsable del agua y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
+Los contratos de obras públicas y de servicios relacionados con la misma, por regla general se adjudicarán a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobres cerrados, los que sólo deberán ser abiertos públicamente por la convocante, ante la presencia de un representante de la Contraloría que corresponda, con el propósito de asegurar al Estado y a los Municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética, uso responsable del agua y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
 Los sobres a que hace referencia este artículo, podrán entregarse a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, enviarlo a través del servicio postal o de mensajería o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Contraloría.
 
@@ -357,23 +397,33 @@ La Contraloría operara un sistema de certificación de los medios de identifica
 
 En los procedimientos de adjudicación de obras públicas y servicios relacionados con las mismas, así como en su ejecución, deberá optarse en igualdad de condiciones, por el empleo de los recursos humanos de la Entidad y por la utilización de bienes y servicios propios de la región y los de procedencia nacional.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 26.
 
-El Comité previamente a la adjudicación de los contratos relativos a la supervisión de obras públicas, deberá dar vista a la Contraloría o en su caso, al Presidente, para que, de considerarlo necesario, emita opinión al respecto.
+La convocante previamente a la adjudicación de los contratos relativos a la supervisión de obra pública, deberá dar vista a la Contraloría o en su caso al Presidente, para que, de considerarlo necesario, emita opinión al respecto.
 
 #### SECCIÓN SEGUNDA. DE LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 27.
 
-El procedimiento de licitación pública se iniciará con la publicación de la convocatoria que emita el Comité; la cual podrá referirse a una o más obras públicas o servicios relacionados con las mismas y deberá contener:
+El procedimiento de licitación pública se iniciará con la publicación de la convocatoria que emita la convocante; la cual podrá referirse a una o más obras públicas o servicios relacionados con la misma y deberá contener:
 
-I.- El nombre, denominación o razón social del organismo convocante;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-II.- La forma en que los licitantes deberán acreditar su existencia legal, actividad y objeto social, así como de la personalidad de sus representantes, la experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos. La capacidad financiera deberá acreditarse a través de las declaraciones fiscales del último año o las provisionales que corresponda;
+I.- El nombre o denominación de la convocante;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+II.- La forma en que los licitantes deberán acreditar su existencia legal, actividad y objeto social, así como de la personalidad de sus representantes, la experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos. La capacidad financiera deberá acreditarse a través de las declaraciones fiscales del ejercicio fiscal inmediato anterior, y en el caso de empresas de reciente creación o personas físicas de reciente inscripción ante las autoridades fiscales competentes, con los estados financieros actualizados o con las declaraciones provisionales de impuestos, respectivamente;
 
 III.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, lo cual será requisito para participar en la licitación. Los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que se establezcan para tal efecto;
 
-IV.- La fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones y de la visita al sitio de realización de los trabajos, así como la indicación, en su caso, de las propuestas que podrán presentarse a través de medios remotos de comunicación electrónica;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- La fecha, hora y lugar de celebración de la visita al sitio de los trabajos; de la junta de aclaraciones; del acto de presentación y apertura de proposiciones técnicas; de resultado del análisis técnico detallado y apertura de propuestas económicas y de fallo; así como la indicación, en su caso, de las propuestas que podrán presentarse a través de medios de comunicación electrónica;
 
 V.- La indicación de que ninguna de las condiciones contenidas en las bases de licitación, así como de las proposiciones presentadas por los licitantes, podrán ser negociadas;
 
@@ -395,31 +445,45 @@ XII.- Los demás requisitos generales que deban cumplir los interesados, atendie
 
 Todo interesado que satisfaga los términos de la convocatoria respectiva, tendrá derecho a participar en el procedimiento de licitación, presentando sus proposiciones por los medios que considere oportuno, de acuerdo con las disposiciones que para tal efecto se establezcan.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 29.
 
-La convocatoria deberá publicarse en el Periódico Oficial del Estado y en el periódico de mayor circulación estatal a elección del Comité y a través de medios electrónicos.
+La convocatoria deberá publicarse en el Periódico Oficial del Estado y en el periódico de mayor circulación estatal a elección de la convocante y a través de medios electrónicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 30.
 
-El Comité emitirá las bases para las licitaciones públicas, las que se pondrán a disposición de los interesados, tanto en el domicilio señalado por el convocante como en los medios de difusión electrónica, en su caso que se establezcan para el efecto, a partir de que se publique la convocatoria y hasta el tercer día hábil, previo al acto de presentación y apertura de posturas, siendo responsabilidad exclusiva de los interesados su adquisición oportuna durante el periodo y contendrán en lo aplicable como datos mínimos los siguientes:
+La convocante emitirá las bases para las licitaciones públicas, las que se pondrán a disposición de los interesados, tanto en el domicilio señalado por ésta, así como en los medios de difusión electrónica que en su caso se establezcan para el efecto, a partir de que se publique la convocatoria y hasta el tercer día hábil, previo al acto de presentación y apertura de propuestas, siendo responsabilidad exclusiva de los interesados su adquisición oportuna durante el periodo y contendrán en lo aplicable como datos mínimos los siguientes:
 
-I.- Nombre, denominación o razón social del organismo convocante;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+I.- Nombre o denominación de la convocante;
 
 II.- Forma en que deberá acreditar la existencia y personalidad jurídica el licitante;
 
 III.- Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que en su caso, se realicen;
 
-IV.- Fecha, hora y lugar de celebración de las dos etapas del acto de la presentación y apertura de proposiciones;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo obligatoria la asistencia a las reuniones que se realicen.
+
+En la junta de aclaraciones, a su inicio, personal de la convocante deberá realizar una explicación del contenido del proyecto ejecutivo o de los términos de referencia según sea el caso.
 
 V.- Forma de comunicación del fallo y firma del contrato;
 
-VI.- Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+VI.- Señalar que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de licitación, la inasistencia a la visita al sitio de los trabajos y a la junta o juntas de aclaraciones; así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
 VII.- La disposición de que las proposiciones sólo podrán presentarse en el idioma español y en moneda nacional. Para el caso de que se permita hacer la cotización en moneda extranjera se deberá establecer la condición de que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio de la fecha en que se haga dicho pago;
 
 VIII.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas podrán ser negociadas;
 
-IX.- Criterios claros y detallados para la adjudicación de los contratos, de conformidad con lo establecido en el artículo 38 de la presente Ley;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IX.- Criterios claros y detallados para la adjudicación de los contratos, de conformidad con lo establecido en el artículo 36 de la presente Ley;
 
 X.- Los proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, términos de referencia y catálogo de conceptos. En el caso de las especificaciones particulares, los términos de referencia y el catálogo de conceptos deberán ser firmados por el responsable del proyecto, por la ejecutora y el titular del área correspondiente;
 
@@ -431,7 +495,11 @@ XIII.- Experiencia, capacidad técnica y financiera necesaria de acuerdo con las
 
 XIV.- Datos sobre las garantías, porcentajes, forma y términos de los anticipos que se concedan;
 
-XV.- Cuando proceda, lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que deberá llevarse a cabo dentro del período comprendido entre el segundo día hábil siguiente a aquél en que se publique la convocatoria y el cuarto día hábil previo al acto de presentación y apertura de proposiciones;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+XV.- Fecha, lugar y hora para la visita obligatoria al sitio de realización de los trabajos, la que deberá llevarse a cabo dentro del período comprendido entre el segundo día hábil siguiente a aquél en que se publique la convocatoria y el cuarto día hábil previo al acto de presentación y apertura de proposiciones.
+
+El objeto de la visita al sitio de los trabajos será que el licitante conozca las condiciones climatológicas, hidrológicas, orográficas, la existencia de etnias, la flora y fauna, las vías de comunicación o de acceso existentes en la zona en que se ejecutará la obra, sus condiciones geográficas y de suelo y en general cualquier aspecto que deba ser considerada (sic) en la integración de su propuesta. Cualquier situación que el licitante no haya considerado para la integración de su propuesta será bajo su más estricta responsabilidad, por lo que durante la ejecución de los trabajos no podrá solicitar modificaciones de ningún tipo;
 
 XVI.- Información específica sobre las partes de los trabajos que podrán subcontratarse;
 
@@ -451,13 +519,17 @@ XXIII.- Los demás requisitos generales, que por las características, complejid
 
 Para participar en los procedimientos que prevé este ordenamiento o en la adjudicación de obras públicas y servicios relacionados con las mismas, no se podrá exigir a los particulares requisitos distintos a los señalados por esta Ley.
 
-En su caso, el Comité podrá establecer los casos en los que dé a conocer que un procedimiento de adjudicación se hará a partir de los costos de mercado que apruebe la Junta de Gobierno, con el propósito de que el fallo tenga como base dichos costos y analice los costos indirectos y la utilidad, los que se podrán incrementar o reducir de acuerdo a la justificación que presente el licitante en cada hipótesis.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+En su caso, la Secretaría y el Presidente en el ámbito de su competencia, podrán establecer los casos en los que dé a conocer que un procedimiento de adjudicación que realice la convocante se hará a partir de los costos de mercado que determine mediante lineamientos de carácter general que para tal efecto emita, con el propósito de que el fallo tenga como base dichos costos y analice los costos indirectos y la utilidad, los que se podrán incrementar o reducir de acuerdo a la justificación que presente el licitante en cada hipótesis.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 31.
 
-Entre las fechas de publicación de la convocatoria para la licitación y la de presentación y apertura de proposiciones, deberá transcurrir un lapso de cuando menos diez días hábiles, debiendo el Comité vigilar que se cumpla con esta disposición.
+Entre las fechas de publicación de la convocatoria para la licitación y la de presentación y apertura de proposiciones, deberá transcurrir un lapso de cuando menos diez días hábiles, debiendo la convocante vigilar que se cumpla con esta disposición.
 
-Aunque, cuando no pueda observarse el plazo señalado en este artículo, porque existan razones justificadas de la dependencia o entidad solicitante de los trabajos o los servicios siempre que no tenga por objeto limitar el número de participantes, el Comité podrá reducir el plazo a no menos de seis días hábiles, contados a partir de la fecha de publicación de la convocatoria respectiva.
+Cuando no pueda observarse el plazo señalado en el párrafo anterior, debido a que existan razones justificadas de la dependencia o entidad ejecutora y siempre que no tenga por objeto limitar el número de participantes, la convocante podrá reducir el plazo a no menos de seis días hábiles, contados a partir de la fecha de publicación de la convocatoria respectiva.
 
 ###### ARTÍCULO 32.
 
@@ -465,9 +537,13 @@ Los plazos u otros aspectos establecidos en la convocatoria o en las bases de li
 
 I.- Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
 
-II.- En el caso de las bases de la licitación, se publique un aviso en el Periódico Oficial del Estado y en algún periódico de mayor circulación estatal que haya elegido el Comité para publicarlas u otro medio electrónico correspondiente, a fin de que los interesados concurran a conocer de manera específica, las modificaciones respectivas.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-No será necesario hacer la publicación del aviso a que se refiere la fracción II de este artículo, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que a más tardar en el plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
+II.- En el caso de las bases de la licitación, se publique un aviso en el Periódico Oficial del Estado y en el periódico de mayor circulación estatal que haya elegido la Convocante para publicarlas u otro medio electrónico correspondiente, a fin de que los interesados concurran a conocer de manera específica, las modificaciones respectivas.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+No será necesario hacer la publicación del aviso a que se refiere la fracción II de este artículo, cuando las modificaciones tanto de la convocatoria como de las bases de licitación, deriven de las juntas de aclaraciones. En el supuesto que las respuestas de las preguntas y las modificaciones se den a conocer en forma posterior al cierre de la junta de aclaraciones, se pondrán a disposición de los licitantes para efecto de su notificación, siendo responsabilidad de éstos su obtención.
 
 Las modificaciones de que se trata este artículo en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente o bien, en la adición de otros distintos.
 
@@ -481,45 +557,61 @@ Las proposiciones que presenten los licitantes, se harán en dos sobres debidame
 
 Dos o más personas podrán presentar conjuntamente proposiciones en las licitaciones sin necesidad de constituir una sociedad o nueva sociedad en caso de personas jurídicas, siempre que para tales efectos, en la propuesta y en el contrato se establezca con precisión y a satisfacción de la dependencia o entidad de que se trate, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya designado el grupo de personas.
 
-Previo al acto de presentación y apertura de proposiciones el Comité podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta técnica y económica. Lo anterior a quienes hayan cubierto el costo de las bases y decidan presentar su documentación y proposiciones durante el propio acto.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Previo al acto de presentación y apertura de proposiciones la convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta técnica y económica. Lo anterior a quienes hayan cubierto el costo de las bases y decidan presentar su documentación y proposiciones durante el propio acto.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 35.
 
-El acto de presentación y apertura de proposiciones, se llevará a cabo en sesión pública del Comité, al que podrán asistir los licitantes, conforme a lo siguiente:
+Los actos que conforman el procedimiento de adjudicación se llevarán a cabo en sesión pública de la convocante, a los que podrán asistir los licitantes, conforme a lo siguiente:
 
-I.- Una vez recibidas las proposiciones en sobres cerrados, se procederá a la apertura formal de la propuesta técnica exclusivamente, procediendo a desechar las que hubieran omitido alguno de los requisitos exigidos;
+I.- Se recibirán las proposiciones en sobres cerrados haciéndose constar por la convocante la integridad de los sobres, posteriormente se procederá a la apertura formal y revisión cuantitativa de la propuesta técnica exclusivamente, procediendo a desechar las que hubieran omitido alguno de los documentos exigidos.
 
-II.- Posteriormente al día señalado en la convocatoria y en las bases de licitación, se procederá a la apertura de las propuestas económicas de aquellos licitantes cuyas propuestas técnicas fueron aceptadas. Debiéndose en todo caso, levantar acta circunstanciada en que se hará relación de las propuestas técnicas aceptadas para su análisis, así como las que hubieren sido desechadas y las causas que lo motivaron; la que deberá ser firmada por el Comité, quedando a disposición de los licitantes y de los asistentes. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esta fecha, también a disposición de los que no hayan asistido, para efecto de su notificación. En casos excepcionales y de acuerdo al número de participantes, características, complejidad de los trabajos a ejecutar o cualquier otra causa suficiente a juicio del Comité, se podrá realizar la apertura económica en el mismo acto de apertura técnica;
+Se deberá levantar un acta circunstanciada en la que se hará relación de los licitantes que se hayan inscrito; su asistencia o inasistencia; las propuestas que fueron aceptadas para su análisis cualitativo, así como las que fueron desechadas y las causas que lo motivaron; la que deberá ser firmada por la convocante, el representante de la Contraloría y los licitantes, entregando copia a los licitantes que hayan acudido al acto. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esta fecha, a disposición de los que hayan (sic) no asistido para efecto de su notificación.
 
-III.- Si en el mismo acto las condiciones lo permiten, el Comité procederá a realizar el análisis de las propuestas técnicas aceptadas, debiendo dar a conocer el resultado a los licitantes;
+En casos excepcionales y de acuerdo al número de participantes, características, magnitud y complejidad de los trabajos a ejecutar o cualquier otra causa suficiente a juicio de la convocante, se podrá realizar la apertura económica en el mismo acto de apertura técnica, quedando sujetas las propuestas aceptadas para su análisis técnico y económico detallado.
 
-IV.- Acto seguido, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas, y se dará lectura al importe total de cada una de las propuestas que cubran los requisitos exigidos dándose a conocer públicamente el fallo de la licitación, en el mismo acto.
+II.- El día señalado en la convocatoria y en las bases de licitación, se procederá a la celebración del acto en el que se darán a conocer los resultados de la evaluación técnica detallada, y se procederá a la apertura de las propuestas económicas de aquellos licitantes cuyas propuestas técnicas fueron aceptadas, desechando aquellas que no presenten la documentación exigida. En el mismo acto la convocante proporcionará por escrito a los licitantes la información acerca de las razones por las cuales su propuesta técnica resultó desechada.
 
-En caso de que se difiera el fallo, se deberá señalar previa fecha en la que éste se comunicará, siempre y cuando no exceda de diez días hábiles contados a partir del acto de apertura de las propuestas económicas.
+Se deberá levantar acta circunstanciada en que se hará relación de las propuestas técnicas aceptadas derivado del análisis detallado, así como las que hubieren sido desechadas y las causas que lo motivaron; las propuestas económicas aceptadas para su análisis cualitativo y su importe al que se dará lectura; así como las que se hubieren desechado y las causas que lo motivaron; la que deberá ser firmada por la convocante, el representante de la Contraloría y los licitantes, entregando copia a los licitantes que hayan acudido al acto. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esta fecha, a disposición de los no (sic) que hayan asistido para efecto de su notificación.
 
-En el acta que se deba levantar, se harán constar las propuestas económicas que fueron aceptadas para su análisis, al igual que las que hubieran sido desechadas y las causas que lo motivaron, así como las demás circunstancias que resultaren; esta acta deberá ser firmada por los asistentes y quedará a su disposición o se les podrá entregar copia de la misma, la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido para su conocimiento; y
+En los casos que la convocante lo estime procedente, podrá diferir el acto de resultado del análisis técnico detallado y de apertura económica sin que la nueva fecha programada, exceda de diez días hábiles a la originalmente establecida. En todo caso se deberá notificar a los licitantes y a la Contraloría, no siendo aplicable lo previsto en el artículo 32 de esta Ley.
 
-V.- Cualquier situación no prevista deberá ser resuelta por el Comité, el que previo pronunciamiento decidirá las acciones y medidas más adecuadas para el eficaz desenvolvimiento de este acto.
+III.- Posteriormente, en la fecha programada se llevará a cabo el acto de fallo mismo que emitirá la convocante, en el que se dará a conocer el resultado de la evaluación económica detallada, debiéndose levantar un acta circunstanciada, en la que se hará constar el licitante al que se adjudique el contrato y su importe.
 
-Para la celebración del acto de presentación y apertura de proposiciones y emisión del fallo, se deberá contar con la presencia de un representante de la Contraloría.
+Dicha acta deberá ser firmada por la convocante, el representante de la Contraloría y los licitantes, entregando copia a quienes hayan acudido al acto. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esta fecha, también a disposición de los que no hayan asistido, para efecto de su notificación. En el mismo acto la convocante proporcionará por escrito a los licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
+
+En los casos que la convocante lo estime procedente, podrá diferir el acto de fallo, sin que la nueva fecha programada, exceda de diez días hábiles contados a partir en su caso del acto de presentación de propuestas y apertura de proposiciones o del acto de apertura de las propuestas económicas. En todo caso se deberá notificar a los licitantes y a la Contraloría, no siendo aplicable lo previsto en el artículo 32 de esta Ley.
+
+IV.- Cualquier situación no prevista deberá ser resuelta por la convocante, la que previo pronunciamiento decidirá las acciones y medidas más adecuadas para el eficaz desenvolvimiento de los actos citados.
+
+Para la celebración del acto de presentación y apertura de proposiciones técnicas, de resultado del análisis técnico detallado y de fallo, se deberá contar con la presencia de un representante de la Contraloría.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 36.
 
-El Comité para efecto de realizar la evaluación de las propuestas, atendiendo a lo señalado en las bases de licitación, utilizará los siguientes métodos, debiéndose considerar que la elección de uno excluye a los otros:
+La convocante para efecto de realizar la evaluación de las propuestas, atendiendo a lo señalado en las bases de licitación, utilizará los siguientes métodos, debiéndose considerar que la elección de uno excluye a los otros:
 
-I.- Cuando se trate de obras públicas, deberá verificar, entre otros aspectos, el cumplimiento de las condiciones exigidas al licitante; que los recursos propuestos por el licitante sean los suficientes para ejecutar de manera satisfactoria los trabajos de que se trate, conforme al programa de ejecución y las cantidades de trabajo establecidas, que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. Si resultare que dos o más proposiciones son solventes porque reúnen las condiciones legales, técnicas y económicas requeridas por el Comité, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo. En ningún caso podrán utilizarse mecanismos de puntos y porcentajes en su evaluación;
+I.- Cuando se trate de obras públicas, deberá verificar, entre otros aspectos, el cumplimiento de las condiciones legales, técnicas y económicas exigidas al licitante; que los recursos propuestos por el licitante sean los suficientes para ejecutar de manera satisfactoria los trabajos de que se trate, conforme al programa de ejecución y las cantidades de trabajo establecidas, que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. En ningún caso podrán utilizarse mecanismos de puntos y porcentajes en su evaluación;
 
 II.- En el caso de servicios relacionados con la obra, la utilización de mecanismos de puntos y porcentajes, en cuyo caso el contrato se adjudicará de entre los licitantes, a quien ofrezca la propuesta que califique con el mayor número de puntos o porcentaje. En este método, el rubro relativo al precio tendrá un valor porcentual del treinta por ciento, debiendo precisarse en las bases la ponderación que corresponderá a cada uno de los demás rubros que serán considerados en la evaluación, de acuerdo con los lineamientos que para tal efecto emita la Contraloría; y
 
 III.- Tratándose de contratos a precio alzado o la parte de los mixtos de esta naturaleza, se podrá someter a subasta descendente el importe total de los trabajos a efecto de que el precio sea mejorado por cualquier licitante y se adjudique el contrato a quien ofrezca el precio solvente más bajo. Las proposiciones que presenten los licitantes para la celebración de estos contratos, tanto en los aspectos técnicos como en los económicos, deberán estar desglosados por lo menos en cinco actividades principales.
 
-No podrán ser objeto de evaluación las condiciones establecidas por el Comité que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito, cuyo incumplimiento por sí mismo, no afecte la solvencia de las propuestas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar las propuestas.
+Si una vez aplicado alguno de los criterios anteriores, resultare que dos o más proposiciones satisfacen los requerimientos contenidos en la convocatoria, el contrato se adjudicará a quien presente la postura solvente cuyo precio sea el más bajo.
 
-El Comité, emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones, el que deberá incluir el relativo a los precios propuestos y las razones para admitirlas o desecharlas, en términos de los artículos 38 y 47 de la presente Ley.
+No podrán ser objeto de evaluación las condiciones establecidas por la convocante que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito, cuyo incumplimiento por sí mismo, no afecte la solvencia de las propuestas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar las propuestas.
+
+La convocante, emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento y el análisis de las proposiciones, el que deberá incluir lo relativo a los precios propuestos y las razones para admitirlas o desecharlas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 37.
 
-En los procedimientos de contratación mediante los cuales se pretenda adjudicar contratos a precio alzado, el Comité durante el acto de fallo y previo a su emisión, podrá aplicar el método de subasta descendente, considerando lo siguiente:
+En los procedimientos de contratación mediante los cuales se pretenda adjudicar contratos a precio alzado, la convocante durante el acto de fallo y previo a su emisión, podrá aplicar el método de subasta descendente, haciendo constar en el acta su desarrollo, considerando lo siguiente:
 
 I.- Invariablemente se celebrará en acto público;
 
@@ -529,7 +621,9 @@ III.- Una vez efectuada la evaluación de las propuestas y formulado el dictamen
 
 IV.- A partir del precio más bajo de las propuestas presentadas, los licitantes que hubieren obtenido resultado técnico favorable, durante el acto en que se dé a conocer el resultado, sin que puedan ser modificadas las características, términos y condiciones de las propuestas, podrán mediante puja hacia la baja proponer rebajas sobre los precios ofertados. Solamente podrán aceptarse pujas de las personas facultadas para formular propuestas en los procedimientos de contratación.
 
-La duración de la subasta será fijada por el Comité. No obstante, la subasta deberá permanecer abierta por un periodo mínimo de una hora y máximo de tres horas.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La duración de la subasta será fijada por la convocante. No obstante, la subasta deberá permanecer abierta por un periodo mínimo de una hora y máximo de tres horas.
 
 El método de subasta descendente podrá llevarse a cabo a través de los medios remotos de comunicación electrónica que previamente establezca o autorice la Contraloría.
 
@@ -537,39 +631,35 @@ La Contraloría mediante lineamientos de carácter general, podrá recomendar lo
 
 ###### ARTÍCULO 38.
 
-El Comité, con base en el análisis comparativo de las proposiciones admitidas y en el presupuesto de la obra, emitirá el fallo respectivo, el que dará a conocer en sesión pública a la que libremente podrán asistir los licitantes que hubieren participado y mediante el cual se adjudicará el contrato al participante que de entre los proponentes:
-
-I.- Reúna las condiciones legales, técnicas y económicas requeridas en la convocatoria y en las bases de licitación;
-
-II.- Garantice satisfactoriamente el cumplimiento del contrato correspondiente;
-
-III.- Establezca un análisis, cálculo e integración de los precios más acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos; y
-
-IV.- Cuente con la experiencia requerida en la convocatoria y en las bases de licitación para la ejecución de los trabajos.
-
-Si una vez considerados los criterios anteriores, resultare que dos o más proposiciones satisfacen los requerimientos contenidos en la convocatoria, el contrato se adjudicará a quien presente la postura solvente más baja cuyo precio sea el más bajo.
+(DEROGADO, P.O. 16 DE MARZO DE 2005)
 
 ###### ARTÍCULO 39.
 
-De la sesión en que se dé a conocer el fallo de la licitación, se levantará el acta respectiva, que firmarán tanto los asistentes, como un representante de la Contraloría, a quienes se les hará entrega de una copia de la misma. La falta de firma de algún licitante no será causa para invalidar su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido. En el mismo acto el Comité proporcionará a los licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
+(DEROGADO, P.O. 16 DE MARZO DE 2005)
 
 ###### ARTÍCULO 40.
 
 Contra la resolución que contenga el fallo no procederá recurso alguno, sin embargo, los licitantes inconformes podrán acudir ante la Contraloría que corresponda para efectos de lo establecido en el artículo 103 de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 41.
 
-El Comité declarará desierta una licitación, cuando las propuestas presentadas no reúnan los requisitos de las bases respectivas o sus precios no fueren aceptables.
+La convocante declarará desierta una licitación, cuando las propuestas presentadas no reúnan los requisitos de las bases respectivas o sus precios no fueren aceptables.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 42.
 
-El Comité podrá cancelar una licitación por caso fortuito o fuerza mayor o cuando existan circunstancias debidamente justificadas, que hagan innecesaria la contratación de los trabajos y que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio al erario público; esta justificación deberá acreditarse por las dependencias o entidades, según corresponda al Comité, quien a su vez informará a la Contraloría, dentro del término de diez días hábiles. La suspensión de la licitación se realizará conforme a lo establecido en el capítulo VIII de la presente Ley.
+La convocante podrá cancelar una licitación por caso fortuito o fuerza mayor o cuando existan circunstancias debidamente justificadas, que hagan innecesaria la contratación de los trabajos y que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio al erario; esta justificación deberá acreditarse por las dependencias o entidades ante la convocante, quienes a su vez informarán a la Contraloría, dentro del término de diez días hábiles. La suspensión de la licitación se realizará conforme a lo establecido en el Capítulo VIII de la presente Ley.
 
 #### SECCIÓN TERCERA. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 43.
 
-Las dependencias y entidades podrán contratar obras públicas y servicios relacionados con las mismas, sin llevar a cabo el procedimiento de licitación a que se refiere la sección segunda, capítulo III de esta Ley, a través de los procedimientos de invitación a cuando menos cinco personas, tres personas o de adjudicación directa, cuando:
+La contratación de obras públicas y servicios relacionados con la misma, se podrá llevar a cabo sin realizar el procedimiento de licitación a que se refiere la sección segunda, Capítulo III de esta Ley, a través de los procedimientos de invitación a cuando menos cinco personas, tres personas o de adjudicación directa, cuando:
 
 I.- El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, el licenciamiento exclusivo de patentes u otros derechos exclusivos;
 
@@ -599,23 +689,33 @@ XIII.- Se trate de trabajos en los inmuebles a que hace mención el artículo 5o
 
 Para los casos de adjudicación directa, el titular de la Dependencia o Entidad, deberá informar a la Contraloría previamente a su contratación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 44.
 
-En los supuestos a que se refiere el artículo anterior, tanto las dependencias y entidades a cuyo cargo deban llevarse a cabo los trabajos como el Comité encargado de la adjudicación del contrato respectivo, para hacer la selección correspondiente, deberán fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o el Municipio. La acreditación de los criterios mencionados y la justificación para el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular de la dependencia o entidad a cuyo cargo sea la ejecución de los trabajos.
+En los supuestos a que se refiere el artículo anterior, las dependencias y entidades a cuyo cargo deban llevarse a cabo los trabajos para la adjudicación del contrato respectivo, para hacer la selección correspondiente, deberán fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o el Municipio. La acreditación de los criterios mencionados y la justificación para el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular de la dependencia o entidad a cuyo cargo sea la ejecución de los trabajos. La facultad del Titular es indelegable.
 
 En cualquier supuesto, se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
 
 En estos casos el titular del área responsable de la contratación de los trabajos, a más tardar el último día hábil de cada mes enviará a la Contraloría que corresponda, un informe relativo a los contratos formalizados durante el mes calendario inmediato anterior, acompañando copia del escrito aludido en este artículo y de un dictamen en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
+
+El escrito a que se refiere el primer párrafo del presente artículo, deberá ser remitido por la dependencia o entidad según corresponda a la Secretaría junto con la documentación soporte y el proyecto del contrato respectivo, para su aprobación.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Posterior a la aprobación de la Secretaría, las dependencias y entidades podrán formalizar el contrato correspondiente.
+
 ###### ARTÍCULO 45.
 
-Para iniciar los procedimientos de invitación a que hacen referencia las fracciones II y III del artículo 23 de esta Ley, las dependencias y entidades contratantes, deberán contar previamente con el oficio de autorización presupuestal correspondiente por parte de la Secretaría de Finanzas y Administración o su equivalente en el ámbito municipal; a efecto de que sea remitido al Comité dentro de los diez días hábiles siguientes a su obtención, para que éste a su vez realice las invitaciones correspondientes en un plazo que no excederá de quince días hábiles.
+(DEROGADO, P.O. 16 DE MARZO DE 2005)
 
-Tratándose del procedimiento de adjudicación directa, no serán aplicables los plazos a que se refiere el párrafo anterior, con excepción de contar previamente con el oficio de autorización presupuestal de la obra correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 46.
 
-Los procedimientos de invitación que llevará a cabo el Comité, se sujetarán a lo siguiente:
+Los procedimientos de invitación a cuando menos cinco y tres personas que llevará a cabo la convocante, se sujetarán a lo siguiente:
 
 I.- Para llevar a cabo la adjudicación correspondiente, de acuerdo a lo previsto por las fracciones II y III del artículo 23 de la presente Ley, deberá contarse con un mínimo de cuatro y dos propuestas respectivamente, susceptibles de analizarse técnicamente;
 
@@ -629,9 +729,39 @@ V.- El fallo se dará a conocer públicamente en la sesión de apertura de propo
 
 VI.- Las demás disposiciones de esta Ley que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 47.
 
-En el supuesto de que un procedimiento de invitación a cuando menos cinco o tres personas haya sido declarado desierto, el Comité, las dependencias y entidades podrán previa justificación ante la Contraloría, adjudicar directamente el contrato de que se trate.
+En el supuesto de que un procedimiento de invitación a cuando menos cinco o tres personas haya sido declarado desierto, la convocante podrá previa justificación ante la Contraloría, adjudicar directamente el contrato de que se trate.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
+
+ARTÍCULO 47 BIS.- En la instrumentación de un procedimiento de adjudicación directa, las dependencias y entidades, deberán realizar lo siguiente:
+
+I.- Emitir las cartas invitación a cuando menos dos licitantes;
+
+II.- Entregar al licitante que solicite su inscripción, el proyecto ejecutivo o en su caso los términos de referencia; el modelo de contrato y el catálogo de conceptos;
+
+III.- Solicitar al licitante que presente la siguiente documentación:
+
+a).- El proyecto ejecutivo o los términos de referencia según sea el caso, firmado en su integridad;
+
+b).- El modelo de contrato, firmado en su integridad;
+
+c).- Copia de la Constancia de Inscripción en el Listado de Contratistas Calificados y Laboratorios de Pruebas de Calidad, con la que se acredite la especialidad necesaria para la ejecución de los trabajos;
+
+d).- Manifestación bajo protesta de decir verdad que no se encuentra en ninguno de los supuestos del artículo 55 de la presente Ley;
+
+e).- El catálogo de conceptos, en el que se incluya los precios propuestos; y
+
+f).- Garantía de seriedad de su propuesta.
+
+IV.- Una vez analizada cuantitativa y cualitativamente las propuestas presentadas, deberá emitir un dictamen que servirá de base para la emisión del fallo, en términos de lo dispuesto por el artículo 36 de la presente Ley, en los aspectos que resulten aplicables;
+
+V.- Solicitar a la Secretaría la autorización para la formalización de la contratación, en términos de lo dispuesto por el artículo 44 de la presente Ley; y
+
+VI.- Notificará a los licitantes el resultado consignado en el dictamen a que se refiere la fracción IV del presente artículo.
 
 #### SECCIÓN CUARTA. DE LOS CONTRATOS
 
@@ -673,7 +803,9 @@ VIII.- Penas convencionales por atraso en la ejecución de los trabajos por caus
 
 IX.- Términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 65 de esta Ley;
 
-X.- Procedimiento de ajuste de costos que deberá ser el determinado desde las bases de licitación que se emitan por el Comité, el cual deberá regir durante la vigencia del contrato;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+X.- Procedimiento de ajuste de costos que deberá ser el determinado desde las bases de licitación que se emitan por la convocante, el cual deberá regir durante la vigencia del contrato;
 
 XI.- Causales y procedimiento mediante los cuales el Estado o los Municipios podrán dar por rescindido el contrato en los términos del artículo 71 de este ordenamiento;
 
@@ -689,7 +821,9 @@ La Contraloría, en el ámbito de sus facultades, expedirá los lineamientos baj
 
 La adjudicación del contrato obligará a la dependencia o entidad y a la persona en quien hubiere recaído, a formalizar el documento relativo, dentro de los quince días hábiles siguientes al de la notificación del fallo, debiendo remitir copia del mismo a la Contraloría, dentro del término de seis días hábiles posteriores a la formalización.
 
-Si el interesado no firmare el contrato por causas imputables a sí mismo, dentro del plazo a que se refiere el párrafo anterior, el Comité podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 38 de esta Ley y así sucesivamente en caso de que este último no acepte la adjudicación; siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Si el interesado no firmare el contrato por causas imputables a sí mismo, dentro del plazo a que se refiere el párrafo anterior, la convocante podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 36 de esta Ley y así sucesivamente en caso de que este último no acepte la adjudicación; siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
 
 Si la dependencia o entidad no firmara el contrato respectivo, el ganador del procedimiento de adjudicación, sin incurrir en responsabilidad, no estará obligado a ejecutar los trabajos. En este supuesto, la dependencia o entidad, a solicitud escrita del licitante, cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre y cuando éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el citado procedimiento.
 
@@ -745,7 +879,9 @@ Tratándose de servicios relacionados con las obras públicas, el otorgamiento d
 
 III.- El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su propuesta;
 
-IV.- Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser mayor, en cuyo caso será necesario justificar las necesidades que así lo ameriten, a satisfacción del Comité;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser mayor, en cuyo caso será necesario justificar las necesidades que así lo ameriten, a criterio de la Contraloría;
 
 V.- Cuando los trabajos rebasen más de un ejercicio presupuestal y se inicien en el último trimestre del primer ejercicio y el anticipo resulte insuficiente, las dependencias o entidades podrán, bajo su responsabilidad, otorgar anticipo hasta el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, vigilando que se cuente con la suficiencia presupuestal para el pago de la obra por ejecutar en el ejercicio de que se trate.
 
@@ -763,13 +899,19 @@ La amortización del anticipo se aplicará proporcionalmente con cargo a cada un
 
 Quedan impedidos para presentar propuestas o celebrar contratos de obra pública o servicios relacionados, las personas físicas o jurídicas siguientes:
 
-I.- Aquéllas en cuyas empresas participen, los servidores públicos o miembros del Comité, que intervengan en cualquier etapa del procedimiento de contratación, o que tengan un interés personal, familiar o de negocios, incluyendo aquéllas en las que pueda resultar algún beneficio para ellos, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+I.- Aquéllas en cuyas empresas participen, los servidores públicos que intervengan en cualquier etapa del procedimiento de contratación, o que tengan un interés personal, familiar o de negocios, incluyendo aquéllas en las que pueda resultar algún beneficio para ellos, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
 II.- Las personas que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin autorización previa y especifica de la Contraloría, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-III.- Aquellos contratistas que, por causas imputables a ellos mismos, alguna dependencia o entidad, les hubiere rescindido administrativamente un contrato dentro de un lapso de un año calendario contado a partir de la notificación del inicio del procedimiento rescisorio administrativo del contrato respectivo. Dicho impedimento prevalecerá ante todas las dependencias o entidades contratantes de uno a tres años calendario contados a partir de la fecha de notificación de la rescisión;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-IV.- Los inhabilitados o impedidos por resolución de la Contraloría, en los términos del capítulo IX de la presente Ley;
+III.- Aquellos contratistas que, por causas imputables a ellos mismos, alguna dependencia o entidad, les hubiere rescindido administrativamente un contrato dentro de un lapso de dos años calendario contado a partir de la notificación del inicio del procedimiento rescisorio administrativo del contrato respectivo;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- Los inhabilitados o impedidos por resolución de la Contraloría, en los términos del Capítulo VII de la presente Ley;
 
 V.- Quienes hayan sido declaradas por autoridad competente intervenidas o sujetas a concurso mercantil;
 
@@ -789,25 +931,33 @@ XI.- Las demás que por cualquier causa se encuentren impedidas para ello por di
 
 DE PRUEBAS DE CALIDAD
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 56.
 
-Sólo podrán ejecutar obra pública o prestar servicios relacionados con la misma en el Estado, quienes obtengan la calificación que otorgará el Comité y por ende se encuentren en el listado correspondiente.
+Sólo podrán ejecutar obra pública o prestar servicios relacionados con la misma en el Estado, quienes obtengan la calificación que otorgará la Contraloría y el Comité de Obra Municipal, en el ámbito de su competencia y por ende se encuentren en el listado correspondiente.
 
-Corresponde al Comité la administración del proceso de calificación y del listado de contratistas calificados.
+Corresponde a la Contraloría y al Comité de Obra Municipal, en el ámbito de su competencia la administración del proceso de calificación y del listado de contratistas calificados.
 
-La información que sustente la inscripción de especialidades en el listado, será utilizada por el Comité para efectos de mejora regulatoria de sus procedimientos de adjudicación.
+La información que sustente la inscripción de especialidades en el listado, será utilizada por la convocante para efectos de mejora regulatoria de sus procedimientos de adjudicación.
 
-Tratándose de obras públicas y servicios relacionados con ellas, que realicen los Municipios o dependencias y entidades de los mismos, en forma previa al procedimiento de adjudicación, el Presidente deberá solicitar al Comité, relación actualizada de personas físicas y jurídicas que se encuentren inscritas en el listado de contratistas calificados.
+La convocante deberá solicitar a la Contraloría o al Comité de Obra Municipal, según corresponda, relación actualizada de personas físicas y jurídicas que se encuentren inscritas en el listado de contratistas calificados, para la instrumentación de los procedimientos de adjudicación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 57.
 
-El reglamento correspondiente establecerá los requisitos que deberán reunir los interesados en obtener la calificación para ejecutar obras o prestar servicios relacionados en el Estado. De igual forma incorporará las condiciones que se requerirán para acreditar la solvencia económica, técnica y moral, así como la especialización y experiencia de los contratistas y prestadores de servicios relacionados con la obra pública. Dichos requisitos deberán ser difundidos por el Comité a través de medios electrónicos.
+El reglamento correspondiente establecerá los requisitos que deberán reunir los interesados en obtener la calificación para ejecutar obras o prestar servicios relacionados, en el Estado. De igual forma incorporará las condiciones que se requerirán para acreditar la solvencia económica, técnica y moral, así como la especialización y experiencia de los contratistas y prestadores de servicios relacionados con la misma. Dichos requisitos deberán ser difundidos por la Contraloría y el Comité de Obra Municipal según corresponda a través de medios electrónicos.
 
-El Comité durante el proceso de calificación o en el proceso de una licitación, podrá verificar la veracidad de la información que proporcione los solicitantes de una calificación.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
-La Contraloría, en el ámbito de su competencia validará los procesos de calificación y los resultados que se deriven.
+La Contraloría durante el proceso de calificación o en la instrumentación de un proceso de adjudicación, podrá verificar la veracidad de la información que proporcionen los solicitantes de una calificación.
 
-El Comité administrará un listado de laboratorios calificados que realicen pruebas de calidad, las cuales se regirán en lo conducente por lo establecido en la presente sección y en el reglamento correspondiente.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La Contraloría y el Comité de Obra Municipal, en el ámbito de su competencia, administrarán un listado de laboratorios calificados que realicen pruebas de calidad, las cuales se regirán en lo conducente por lo establecido en la presente sección y en el reglamento correspondiente.
 
 ###### ARTÍCULO 58.
 
@@ -815,25 +965,39 @@ Los procedimientos de calificación que establezca el reglamento, serán congrue
 
 I.- La experiencia, capacidad financiera, comercial, técnica y moral del contratista, se considerará sobre la base de su actividad global, incluyendo tanto su actividad ejercida en el Estado como fuera de él, si la tiene;
 
-II.- El Comité deberá comunicar su decisión de otorgar o no, la calificación o revalidación correspondiente al contratista o prestador de servicios relacionados con la obra que lo solicite, dentro del término de treinta días naturales contados a partir de la recepción de la solicitud y la documentación respectiva, de no emitir respuesta en dicho plazo, se entenderá por otorgada o revalidada dicha calificación;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-III.- En todo caso el Comité deberá fundar y motivar su negativa de otorgar una calificación o revalidación;
+II.- La Contraloría y el Comité de Obra Municipal deberán comunicar su decisión de otorgar o no, la calificación o revalidación correspondiente al contratista o prestador de servicios relacionados con la obra que lo solicite, dentro del término de treinta días naturales contados a partir de la recepción de la solicitud y la documentación respectiva, de no emitir respuesta en dicho plazo, se entenderá por otorgada o revalidada dicha calificación;
 
-IV.- Para determinar la solvencia moral de un contratista, el Comité podrá tomar en consideración los antecedentes de la persona jurídica o de sus socios; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-V.- La solicitud de calificación y/o revalidación, será bajo las más estricta responsabilidad del solicitante, por lo que en caso de negativa de la calificación y/o revalidación, no se suspenderá el procedimiento de adjudicación o contratación.
+III.- En todo caso la Contraloría y el Comité de Obra Municipal deberán fundar y motivar su negativa de otorgar una calificación o revalidación;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+IV.- Para determinar la solvencia moral de un contratista, la Contraloría y el Comité de Obra Municipal podrán tomar en consideración los antecedentes de la persona jurídica o de sus socios; y
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+V.- La solicitud de calificación y/o revalidación, será bajo la más estricta responsabilidad del solicitante, por lo que en caso de negativa de la calificación y/o revalidación, no se suspenderá el procedimiento de adjudicación o contratación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 59.
 
-La vigencia de la calificación será de un año contado a partir del primero de junio al treinta y uno de mayo del año siguiente y causará el pago de las cantidades que establezca la Junta de Gobierno del Comité.
+La vigencia de la calificación será de un año contado a partir del primero de junio al treinta y uno de mayo del año siguiente y causará el pago de los derechos previstos en la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda y la Ley de Ingresos de cada uno de los Municipios.
 
-Los contratistas, interesados en continuar calificados e inscritos en el listado correspondiente, o modificar sus especialidades, deberán solicitar la revalidación, previo pago de las cantidades que determine la Junta de Gobierno del Comité, dentro de los treinta días anteriores al vencimiento de su registro.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Los contratistas, interesados en continuar calificados e inscritos en el listado correspondiente o modificar sus especialidades, deberán solicitar la revalidación, previo pago de los derechos previstos en la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda y la Ley de Ingresos de cada uno de los Municipios, dentro de los treinta días anteriores al vencimiento de su registro.
 
 Dentro del plazo señalado en el párrafo anterior, el contratista podrá solicitar la modificación de la o las especialidades que se encuentren en listado correspondiente, a través del procedimiento y de la acreditación de requisitos que fije el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 60.
 
-El Comité, estará facultado previos los trámites correspondientes para suspender los efectos de la calificación de los contratistas, en los siguientes casos:
+La Contraloría y el Comité de Obra Municipal, estarán facultados, para suspender los efectos de la calificación de los contratistas de conformidad con el procedimiento establecido en la presente Ley, en los siguientes casos:
 
 I.- Se les declare por autoridad competente, en estado de quiebra, intervenido o sujeto a concurso mercantil;
 
@@ -845,9 +1009,11 @@ IV.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley; y
 
 V.- Hayan perdido la titularidad de la patente o de algún derecho exclusivo, que lo imposibilite para ejecutar obras que requieran de conocimientos técnicos, científicos o tecnológicos especializados. Lo anterior sin perjuicio de que obtengan las licencias o autorizaciones que establezca la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 61.
 
-El Comité está facultado para cancelar la calificación de los contratistas, fundando y motivando su determinación, en los siguientes casos:
+La Contraloría y el Comité de Obra Municipal, están facultados para cancelar la calificación de los contratistas, fundando y motivando su determinación, en los siguientes casos:
 
 I.- Cuando la información exhibida para la calificación, resulte falsa o apócrifa, o se haya procedido con dolo en algún procedimiento de adjudicación o en incumplimiento de contrato;
 
@@ -951,9 +1117,11 @@ Asimismo podrán dar por terminados anticipadamente los contratos cuando concurr
 
 En los casos anteriores, las dependencias y entidades deberán hacer del conocimiento de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, esta situación previamente a la iniciación del procedimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 71.
 
-Las dependencias y entidades podrán rescindir administrativamente los contratos de obras o de servicios relacionados con las mismas, por razones de interés general o por incumplimiento de las obligaciones a cargo del contratista, derivadas del contrato o de las disposiciones de la Ley y sin necesidad de intervención de autoridad judicial.
+La Secretaría el Presidente Municipal y en su caso las dependencias y entidades podrán rescindir administrativamente los contratos de obras o de servicios relacionados con las mismas, por incumplimiento de las obligaciones a cargo del contratista, derivadas del contrato o de las disposiciones de la Ley y sin necesidad de intervención de autoridad judicial.
 
 El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
 
@@ -1013,7 +1181,9 @@ El cobro de la garantía de vicios ocultos y defectos de los trabajos se hará e
 
 Quedarán a salvo los derechos de las dependencias y entidades para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda.
 
-Los trabajos se garantizarán durante un plazo de doce meses por el incumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los mismos, los contratistas, a su elección, deberán constituir fianza por el equivalente al diez por ciento del costo total de los trabajos. Una vez transcurridos doce meses a partir de la fecha de recepción de los trabajos, la dependencia o entidad contratante ordenará la cancelación de la garantía.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Los trabajos se garantizarán durante un plazo de doce meses por el incumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que al momento en que se efectúe la entrega recepción, los contratistas deberán entregar la fianza por el equivalente al diez por ciento del monto total de los trabajos ejecutados. Una vez transcurridos doce meses a partir de la fecha de recepción de los trabajos, la dependencia o entidad contratante ordenará la cancelación de la garantía.
 
 ###### ARTÍCULO 78.
 
@@ -1037,9 +1207,11 @@ Los contratos relativos a los servicios relacionados a que se refiere este artí
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN DIRECTA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 81.
 
-En los términos del artículo 21 de esta Ley, las dependencias y entidades podrán realizar trabajos por administración directa, siempre que posean la capacidad técnica o los elementos necesarios para tal efecto, consistentes en maquinaria y equipo de construcción y personal técnico, según el caso, que requieran para el desarrollo de los trabajos respectivos, debiendo además elaborar un dictamen en el que se justifique esta capacidad, mismo que deberá ser remitido a la Contraloría para su conocimiento y al Comité junto con la solicitud de la emisión del acuerdo respectivo y podrán:
+En los términos del artículo 21 de esta Ley, las dependencias y entidades podrán realizar trabajos por administración directa, siempre que posean la capacidad técnica, económica o los elementos necesarios para tal efecto, consistentes en materiales, maquinaria y equipo de construcción y personal técnico, que requieran para el desarrollo de los trabajos respectivos, debiendo además elaborar un dictamen en el que acredite estos requisitos, mismo que deberá ser remitido a la Contraloría para su conocimiento y podrá:
 
 I.- Utilizar la mano de obra de la localidad que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
 
@@ -1049,9 +1221,11 @@ III.- Utilizar de preferencia los materiales de la región; y
 
 IV.- Utilizar los servicios de fletes y acarreos complementarios que se requieran.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 82.
 
-Previamente a la ejecución de estos trabajos, la dependencia o entidad deberá contar con el acuerdo respectivo del Comité y la suficiencia presupuestal correspondiente a quienes deberán remitir para tal efecto en forma oportuna la descripción pormenorizada de la obra o servicio que se debe ejecutar, los proyectos ejecutivos, planos, especificaciones, programas de ejecución, y suministro y el presupuesto correspondiente. Debiendo comunicar periódicamente a la Contraloría sobre el avance físico o los costos relativos.
+Previamente a la ejecución de estos trabajos y una vez que se cuente con la suficiencia presupuestal, el titular del área responsable de la ejecución de los trabajos emitirá el acuerdo respectivo el que deberá contener como mínimo la descripción pormenorizada de la obra o servicio que se debe ejecutar, los proyectos ejecutivos, planos, especificaciones, programas de ejecución, y suministro y el presupuesto correspondiente. Asimismo, deberá comunicar en forma mensual a la Contraloría sobre el avance físico y financiero de los trabajos y los costos relativos.
 
 ###### ARTÍCULO 83.
 
@@ -1073,9 +1247,11 @@ La dependencia o entidad deberá destinar los recursos humanos, técnicos, mater
 
 En la ejecución de los trabajos por administración directa serán aplicables, en lo conducente, las disposiciones de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 87.
 
-Las dependencias y entidades levantarán un inventario actualizado de la maquinaria y equipo de construcción a su cuidado o de su propiedad y establecerán un catálogo de los estudios y proyectos que realicen sobre la obra pública, debiendo remitir oportunamente al Comité encargado de las obras públicas y los servicios relacionados y a la Contraloría correspondiente una copia del mismo para los efectos correspondientes.
+Las dependencias y entidades levantarán un inventario actualizado de la maquinaria y equipo de construcción a su cuidado o de su propiedad y establecerán un catálogo de los estudios y proyectos que realicen sobre la obra pública, debiendo remitir oportunamente a la Contraloría competente una copia del mismo para los efectos correspondientes.
 
 Las dependencias y entidades estarán obligadas a consultar el citado catálogo para efectos de la planeación, programación y presupuestación de la obra pública y de los servicios relacionados con la misma.
 
@@ -1089,7 +1265,9 @@ La información a que se refiere el párrafo tercero del artículo 24 de este or
 
 Las dependencias y entidades deberán conservar en forma ordenada y sistemática toda la documentación comprobatoria de todos los gastos, actos y contratos materia de esta Ley, cuando menos por un lapso no menor de cinco años, contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará a lo previsto en las disposiciones aplicables.
 
-El Comité debe conservar copia de los expedientes necesarios para los trámites correspondientes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La convocante debe conservar copia de los expedientes necesarios para los trámites correspondientes, por el mismo plazo señalado en el párrafo anterior.
 
 ###### ARTÍCULO 89.
 
@@ -1135,7 +1313,9 @@ La inhabilitación que se imponga como sanción no será menor de tres meses, la
 
 La Contraloría podrá, independientemente de las sanciones a que se refiere este artículo, inhabilitar provisionalmente a las personas físicas o jurídicas, para participar en los procedimientos de adjudicación previstos en el artículo 23 de esta Ley, o celebrar contratos regulados por esta misma, cuando existan elementos que hagan presumible la presunta comisión de las infracciones establecidas en el artículo 95 de este ordenamiento.
 
-La inhabilitación provisional será hasta que la Contraloría resuelva la investigación o el procedimiento que establece el artículo 102 de esta Ley, la cual hará del conocimiento del Comité, así como de las dependencias y entidades contratantes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La inhabilitación provisional será hasta que la Contraloría resuelva la investigación o el procedimiento que establece el artículo 102 de esta Ley, lo cual hará del conocimiento de la convocante, así como de las dependencias y entidades contratantes.
 
 Las multas que impongan las autoridades estatales o municipales, una vez que sean notificadas y exigibles, se constituirán en créditos fiscales a favor del erario estatal o municipal según corresponda, y se turnará a la Secretaría de Finanzas y Administración o la Tesorería Municipal para su cobro a través del Procedimiento Administrativo de Ejecución que establecen las disposiciones fiscales estatales o municipales.
 
@@ -1143,7 +1323,9 @@ Las multas que impongan las autoridades estatales o municipales, una vez que sea
 
 La Contraloría impondrá las sanciones establecidas en el artículo anterior, a las personas físicas o jurídicas que cometan las siguientes infracciones:
 
-I.- Si los participantes en los procedimientos de adjudicación de contratos de obra pública o servicios relacionados con ésta, señalados en el artículo 23 de esta Ley, injustificadamente y por causas imputables a los mismos no formalizaren el contrato adjudicado por el Comité;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+I.- Si los participantes en los procedimientos de adjudicación de contratos de obra pública o servicios relacionados con ésta, señalados en el artículo 23 de esta Ley, injustificadamente y por causas imputables a los mismos no formalizaren el contrato adjudicado por la convocante;
 
 II.- Los contratistas que se encuentren en los supuestos de la fracción III del artículo 55 de esta Ley, respecto de dos o más dependencias o entidades;
 
@@ -1153,7 +1335,9 @@ IV.- Cuando los licitantes o contratistas proporcionen información falsa o act�
 
 V.- Los contratistas que durante el proceso de ejecución, realicen cobros por conceptos de obra no ejecutados o consientan que las dependencias y entidades no efectúen las amortizaciones de los anticipos en la forma contratada.
 
-El Comité, las dependencias y entidades dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Contraloría que corresponda la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+La Secretaría, las dependencias y entidades dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Contraloría que corresponda la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
 ###### ARTÍCULO 96.
 
@@ -1255,11 +1439,17 @@ VIII.- Las pruebas que ofrezca el inconforme se acompañarán en su escrito de i
 
 IX.- La Contraloría correspondiente, acordará dentro de los cinco días hábiles siguientes a la presentación de la inconformidad, lo que proceda sobre la admisión de ésta y de las pruebas que el inconforme hubiese ofrecido;
 
-X.- Admitida la inconformidad la Contraloría correrá traslado con la copia del mismo al Comité y a las dependencias o entidades que resulten ser señaladas como responsables del acto u omisión materia del recurso, para que rindan el informe que estimen pertinente formular dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento respectivo;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+X.- Admitida la inconformidad la Contraloría correrá traslado con la copia del mismo a la convocante o al área administrativa emisora del acto, para que rinda el informe sobre el acto que señale el inconforme, dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento respectivo;
 
 XI.- Las pruebas documentales deberán acompañarse al escrito del recurso de la inconformidad, salvo que obren en el expediente en el que se haya dictado la resolución controvertida. La prueba testimonial deberá ser formulada en los términos que establece el Código de Procedimientos Civiles vigente en el Estado; si no se cumpliere con esos requisitos se tendrán por no ofrecidas;
 
-XII.- El inconforme que ofrezca la prueba pericial, en el mismo escrito, hará la designación del perito que le corresponda; presentará separadamente los puntos concretos que deben resolver los peritos, y acompañará copia con la que se correrá traslado a la otra parte. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el inconforme y con el dictamen que al efecto emita el perito designado por el Comité o la dependencia o entidad según sea el caso, dentro del plazo que para tal efecto se señale. De existir discordancia entre ambos peritajes la Contraloría nombrará un perito tercero en discordia para que emita su dictamen dentro del plazo que en el momento le sea fijado;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+XII.- El inconforme que ofrezca la prueba pericial en el mismo escrito, hará la designación del perito que le corresponda; presentará separadamente los puntos concretos que éste deberá resolver, y acompañará copia con la que se correrá traslado a la otra parte. Esta prueba se desahogará con la presentación del dictamen por parte del inconforme y de la convocante o la emisora del acto, dentro del plazo que para tal efecto se señale.
+
+De existir discordancia entre ambos dictámenes, la Contraloría nombrará un perito tercero en discordia para que emita su peritaje dentro del plazo que en el momento le sea fijado;
 
 XIII.- En el supuesto de que la prueba pericial no sea ofrecida en los términos y condiciones mencionados en la fracción anterior, se desechará de plano. Si no se presentare a protestar el cargo el perito designado por el oferente o bien si protestado no se entregare dentro del plazo que al efecto se señale, el dictamen a cargo del perito designado por el inconforme, se declarará desierta la prueba;
 
@@ -1275,13 +1465,25 @@ XVIII.- Vencido el plazo para formular alegatos, la Contraloría respectiva dict
 
 XIX.- Las resoluciones que recaigan a las inconformidades, tendrán por consecuencia:
 
-a).- La nulidad de la resolución o fallo que se hubiere dictado en cualquier procedimiento de adjudicación desarrollado por el Comité y en caso de ser procedente, la reposición de dicho procedimiento si éste fuere reclamado;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
-b).- La confirmación de las resoluciones emitidas por el Comité en cualquier procedimiento de adjudicación que sea desarrollado por este mismo;
+a).- La nulidad de la resolución o fallo que se hubiere dictado en cualquier procedimiento de adjudicación desarrollado por la convocante y en caso de ser procedente, la reposición de dicho procedimiento si éste fuere reclamado;
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+b).- La confirmación de las resoluciones emitidas por la convocante en cualquier procedimiento de adjudicación que sea desarrollado por este mismo;
 
 c).- La declaración de legalidad de los actos realizados por las dependencias o entidades en la ejecución de los contratos respectivos;
 
 d).- La irregularidad de los actos realizados por las dependencias o entidades en la ejecución de los contratos respectivos y en consecuencia se ordene si procede, sea subsanada o corregida la irregularidad o incumplimiento derivada de dicho contrato; y
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
+
+e).- La nulidad de las resoluciones que nieguen las solicitudes de inscripción o revalidación; o que determinen la suspensión o cancelación de una calificación y del listado de contratistas calificados y de laboratorios de pruebas de calidad; y
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
+
+f).- La confirmación de las resoluciones que nieguen las solicitudes de inscripción o revalidación; o que determinen la suspensión o cancelación de una calificación y del listado de contratistas calificados y de laboratorios de pruebas de calidad.
 
 XX.- En contra de la resolución de la inconformidad que dicte la Contraloría no procede recurso alguno.
 
@@ -1293,13 +1495,17 @@ Cuando una inconformidad se resuelva como no favorable al promovente por resulta
 
 La Contraloría que conozca de la inconformidad, durante la investigación de los actos, de oficio o en atención a las inconformidades que se presenten, podrá suspender el procedimiento de adjudicación o contratación, sólo si (sic) producto de los informes recibidos e investigaciones realizadas:
 
-I.- Advierta que existen actos contrarios a las disposiciones de esta Ley o a las que de ella deriven y que, de continuarse con el procedimiento de adjudicación o contratación, pudieran producirse daños o perjuicios al Comité u organismo convocante o bien, a la dependencia o entidad de que se trate;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+I.- Advierta que existen actos contrarios a las disposiciones de esta Ley o a las que de ella deriven y que, de continuarse con el procedimiento de adjudicación o contratación, pudieran producirse daños o perjuicios a la convocante; al área administrativa emisora del acto o bien a la dependencia o entidad de que se trate;
 
 II.- No se trate de actos consumados; y
 
-III.- Cuente con la manifestación del Comité o bien de las dependencias o entidades responsables de la contratación, de que la suspensión no causará perjuicio a la seguridad pública, al interés social o a los servicios públicos y que no se contravengan disposiciones de orden público.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-Por lo que se refiere a la fracción anterior, el Comité, la dependencia o la entidad encargada de la contratación, deberá informar a la Contraloría, dentro de los dos días hábiles siguientes a la notificación del procedimiento de suspensión, si con la misma se causa perjuicio a la seguridad pública, al interés social o a los servicios públicos, o bien, se contravienen disposiciones de orden público o si los actos objeto de la suspensión se han consumado; aportando la justificación del caso, para que ésta resuelva lo que proceda.
+III.- Cuente con la manifestación de la convocante; del área administrativa emisora del acto o de las dependencias o entidades responsables de la contratación, de que la suspensión no causará perjuicio a la seguridad pública, al interés social o a los servicios públicos y que no se contravengan disposiciones de orden público.
+
+Por lo que se refiere a la fracción anterior, la convocante; el área administrativa emisora del acto; la dependencia o la entidad encargada de la contratación, deberá informar a la Contraloría, dentro de los dos días hábiles siguientes a la notificación del procedimiento de suspensión, si con la misma se causa perjuicio a la seguridad pública, al interés social o a los servicios públicos, o bien, se contravienen disposiciones de orden público o si los actos objeto de la suspensión se han consumado; aportando la justificación del caso, para que ésta resuelva lo que proceda.
 
 ###### ARTÍCULO 106.
 
@@ -1330,3 +1536,31 @@ SEPTIMO.- Las estructuras orgánicas que se deriven de la aplicación de la pres
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de marzo de dos mil tres.- Diputado Presidente.- VÍCTOR MANUEL GIORGANA JIMÉNEZ.- Rúbrica.- Diputado Vicepresidente.- CARLOS MANUEL MEZA VIVEROS.- Rúbrica.- Diputada Secretaria.- VERÓNICA SÁNCHEZ AGIS.- Rúbrica.- Diputado Secretario.- JORGE ARNULFO CAMACHO FOGLIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de marzo del año dos mil tres.- El Gobernador Constitucionales del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MARZO DE 2005.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones administrativas expedidas en esta materia, que se encuentren vigentes al momento de la publicación de este ordenamiento, continuarán aplicándose en todo lo que no se oponga al presente Decreto.
+
+TERCERO.- Los procedimientos de adjudicación que se encuentren en trámite, a la fecha en que entre en vigor el presente Decreto y que estén a cargo del Comité Estatal de Obra Pública y Servicios Relacionados, deberán ser concluidos por la Secretaría de Desarrollo Urbano y Obras Públicas.
+
+CUARTO.- Los procesos de inscripción y/o revalidación en el Listado de Contratistas Calificados y Laboratorios de Pruebas de Calidad que se encuentren en trámite a la fecha en que entre en vigor el presente Decreto, serán concluidos por la Contraloría o el Comité de Obra Municipal, en el ámbito de su competencia.
+
+Las constancias de inscripción y/o revalidación que antes del inicio de la vigencia hayan sido emitidas por el Comité Estatal de Obra Pública y Servicios Relacionados y por los Comités de Obra Municipal, por el periodo comprendido del 1 de junio de 2004 al 31 de Mayo de 2005, continuarán surtiendo sus efectos hasta la fecha de su vencimiento.
+
+QUINTO.- La convocante iniciará a través de medios electrónicos, la emisión de las convocatorias a los procedimientos de adjudicación correspondientes, y pondrá a disposición del público la información señalada en el último párrafo del artículo 23 de la presente Ley, una vez que se haya publicado un aviso en el Periódico Oficial del Estado y en un periódico de mayor circulación en el Estado a su elección.
+
+SEXTO.- La Contraloría y el Comité de Obra Municipal en el ámbito de su competencia, difundirá los requisitos a que se refiere el artículo 57 de la presente Ley, a través de medios electrónicos, una vez que haya publicado un aviso en el Periódico Oficial del Estado y en un periódico de mayor circulación en el Estado, a su elección.
+
+SÉPTIMO.- Los derechos que se causen con motivo de la venta de bases para los procedimientos de adjudicación que prevé la presente Ley, así como lo establecido en el artículo 59 de la misma, serán determinados por la Ley de Ingresos del Estado de Puebla para el ejercicio fiscal correspondiente.
+
+OCTAVO.- Cuando en los Convenios, Decretos y demás actos jurídicos se haga alusión al Comité Estatal de Obra Pública y Servicios Relacionados, se entenderá que se está haciendo referencia a la Secretaría de Desarrollo Urbano y Obras Públicas y a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública según corresponda de acuerdo a las facultades que se le otorgan a cada una en el presente Decreto.
+
+NOVENO.- Las erogaciones que deriven de la aplicación del presente Decreto, estarán sujetas a la suficiencia presupuestal que apruebe el H. Congreso del Estado.
+
+DÉCIMO.- Los bienes muebles, los recursos humanos, materiales con los que a la fecha de la entrada en vigor del presente Decreto, correspondían al Comité Estatal de Obra Pública y Servicios Relacionados, pasarán a formar parte de la Secretaría de Desarrollo Urbano y Obras Públicas y a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, según corresponda de acuerdo con las atribuciones que cada una adquiere en virtud del presente Decreto.
+
+UNDÉCIMO.- Quedan sin efecto todas aquellas disposiciones que contravengan a lo dispuesto en el presente Decreto.
