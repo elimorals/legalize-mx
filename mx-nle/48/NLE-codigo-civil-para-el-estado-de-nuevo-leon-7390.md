@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1997-02-05"
+last_updated: "1997-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3417,7 +3417,7 @@ Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascen
 
 ###### Art. 466.
 
-El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge solo tendrá obligación de desempeñar ese cargo mientras conserve su caráctr (sic) de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su caráctr (sic) de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Art. 467.
 
@@ -14911,11 +14911,17 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruír la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO 1997)</small>
+
 ###### Art. 2818.
 
-El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2809, se dé conocimiento al deudor y sea inscrita en el Registro.
+El acreedor podrá ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Registro Público de la Propiedad, siempre que continúe llevando la administración de los créditos; en caso contrario, la cesión del crédito deberá notificarse al deudor por escrito.
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+En los supuestos previstos en el primero y segundo párrafos de este artículo, la inscripción de la hipoteca en favor del acreedor original se considerará hecha en favor del o de los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
 
 ###### Art. 2819.
 
@@ -15954,6 +15960,16 @@ En relación a las adiciones que se mencionan en el artículo quinto de este Dec
 P.O. 5 DE FEBRERO DE 1997.
 
 UNICO:- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE JULIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes contados a partir de la fecha de su publicación en el Periódico Oficial del Estado y no será aplicado retroactivamente en perjuicio de persona alguna.
+
+###### ARTICULO SEGUNDO.
+
+Las demandas presentadas, los juicios que estén en trámite en primera o segunda instancia, o en su etapa de ejecución al entrar en vigor el presente Decreto, se seguirán rigiendo por las normas anteriores.
 
 ###### ARTICULO TERCERO.
 
