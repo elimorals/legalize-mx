@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2000-08-01"
+last_updated: "2000-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -253,9 +253,9 @@ II. Para que un partido político estatal mantenga su registro y prerrogativas d
 
 III. El Gobierno del Estado garantizará en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-IV. Sólo los partidos políticos estatales o nacionales que hubiesen obtenido o acreditado su registro conforme a lo dispuesto en la Ley Electoral, podrán participar en las elecciones de diputados, Gobernador, presidentes, vicepresidentes municipales y regidores de los ayuntamientos;
+IV. Sólo los partidos políticos estatales o nacionales que hubiesen obtenido o acreditado su registro conforme a lo dispuesto en la Ley Electoral, podrán participar en las elecciones de diputados, gobernador, presidentes municipales, regidores y síndicos de los ayuntamientos;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -595,11 +595,13 @@ II. Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por
 
 III. Fijar la división territorial, política y administrativa del Estado, así como la denominación de los municipios y localidades que lo compongan;
 
-IV. Determinar los gastos del Estado para cada ejercicio fiscal, así como las contribuciones del Estado y municipios para cubrirlos y examinar las cuentas correspondientes;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+IV. Determinar los gastos del Estado para cada ejercicio fiscal, así como las contribuciones del Estado y municipios para cubrirlos, y revisar y fiscalizar las cuentas correspondientes;
 
-V. Crear y suprimir empleos públicos, salvo los casos en que expresamente esta Constitución lo permita a otra autoridad;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+V. Crear y suprimir empleos públicos, salvo el caso de los empleos públicos municipales y los casos en que expresamente esta Constitución lo permita a otra autoridad;
 
 VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos, reconocer y mandar pagar las deudas que contraiga la Entidad;
 
@@ -619,9 +621,9 @@ IX. Elegir a los magistrados del Supremo Tribunal de Justicia, del Tribunal Elec
 
 X. Designar a los ciudadanos que desempeñen los cargos de consejeros ante el Consejo Electoral del Estado, en la forma y términos que establezcan la presente Constitución y la ley de la materia;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-XI. Autorizar al titular del Poder Ejecutivo y a los ayuntamientos para que celebren actos jurídicos que trasciendan el ejercicio de su administración o representen enajenaciones de su respectivo patrimonio, en los términos que disponga la ley;
+XI. Autorizar al titular del Poder Ejecutivo para que celebren actos jurídicos que trasciendan el ejercicio de su administración o representen enajenaciones de su respectivo patrimonio, en los términos que disponga la ley;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -889,7 +891,9 @@ XI. Cuidar de la recaudación, aplicación e inversión de los caudales del Esta
 
 XII. Vigilar la conservación del orden público, disponiendo al efecto de las fuerzas armadas del Estado, pudiendo, con autorización del Congreso, celebrar convenios para descentralizar la organización y supervisión de las funciones de seguridad pública, con participación de los municipios y colaboración de los particulares, en su caso;
 
-XIII. Disponer de las fuerzas de seguridad pública del municipio donde resida habitual o transitoriamente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+XIII. Dar órdenes a la policía preventiva municipal en aquellos casos que bajo su responsabilidad juzgue como de fuerza mayor o alteración grave del orden público;
 
 XIV. Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes;
 
@@ -907,9 +911,15 @@ XX. Expedir decretos y acuerdos de carácter administrativo para la eficaz prest
 
 XXI. Ejercer en forma concurrente con la Federación y los municipios, las atribuciones en materia de preservación y restauración del equilibrio ecológico y protección del ambiente, protección civil, ordenamiento territorial de los asentamientos humanos y desarrollo urbano, conforme a la distribución de competencias y disposiciones de las leyes federales y estatales;
 
-XXII. Delegar facultades específicas en el ámbito administrativo, cuando no exista disposición en contrario para ello, a las secretarías, dependencias, organismos y entidades que se constituyan para auxiliarlo en el desempeño de sus atribuciones, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-XXIII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
+XXII. Delegar facultades específicas en el ámbito administrativo, cuando no exista disposición en contrario para ello, a las secretarías, dependencias, organismos y entidades que se constituyan para auxiliarlo en el desempeño de sus atribuciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+XXIII. Divulgar la legislación local en el Estado; y
+
+XXIV. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1155,7 +1165,9 @@ Los magistrados electorales durarán en el ejercicio de su encargo cuatro años,
 
 El Tribunal Electoral resolverá en forma definitiva e inatacable, en los términos de esta Constitución y según lo disponga la ley:
 
-I. Las impugnaciones en las elecciones locales de presidentes, vicepresidentes y regidores de los ayuntamientos, diputados por ambos principios y Gobernador del Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+I. Las impugnaciones de las elecciones locales de presidentes, regidores y síndicos de los ayuntamientos, diputados por ambos principios, y Gobernador del Estado;
 
 II. Las impugnaciones que se presenten durante el proceso electoral en contra de los actos o resoluciones de la autoridad electoral, distintas a las señaladas en la fracción anterior;
 
@@ -1187,7 +1199,7 @@ Una vez decretada la conclusión de algún proceso electoral, se instalará la s
 
 ### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 72.
 
@@ -1207,21 +1219,31 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 El municipio libre es base de la división territorial y de la organización política y administrativa del Estado de Jalisco, investido de personalidad jurídica y patrimonio propios, con las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y los siguientes fundamentos:
 
-I. Cada municipio será administrado por un ayuntamiento de elección popular directa que residirá en la cabecera de la municipalidad y no habrá ninguna autoridad intermedia entre éste y el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-II. Los ayuntamientos se integrarán con presidentes, vicepresidentes y regidores electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Los regidores electos por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
+I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado.
 
-III. Los presidentes, vicepresidentes y regidores durarán en su cargo tres años, a partir del día primero de enero del año siguiente al de la elección y se renovarán en su totalidad al final de cada período. Los ayuntamientos recibirán las renuncias y las licencias que soliciten sus miembros y resolverán lo procedente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-IV. Los presidentes, vicepresidentes y regidores de los ayuntamientos, electos popularmente por elección directa, en los términos de las leyes respectivas, no podrán ser postulados como candidatos a munícipes para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas en el período inmediato, y
+II. Los ayuntamientos se integrarán por un Presidente Municipal, regidores y síndicos electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Los regidores electos por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+III. Los presidentes, regidores y síndicos durarán en su cargo tres años, a partir del día 1º de enero del año siguiente al de la elección y se renovarán en su totalidad al final de cada período. Los ayuntamientos recibirán las renuncias y licencias que soliciten sus miembros, y decidirán lo procedente;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+IV. Los presidentes, regidores y el síndico de los ayuntamientos, electos popularmente por elección directa en los términos de las leyes respectivas, no podrán ser postulados como candidatos a munícipes o síndicos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la designación que se les dé, no podrán ser electos en el período inmediato; y
 
 V. Todos los servidores públicos mencionados en la fracción anterior, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 74.
 
-Para ser Presidente, Vicepresidente y Regidor de los ayuntamientos de la entidad, se requerirá:
+Para ser Presidente Municipal, regidor y síndico se requiere:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 I. Ser ciudadano mexicano;
 
@@ -1229,19 +1251,33 @@ I. Ser ciudadano mexicano;
 
 II. Ser nativo del municipio o zona conurbada correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 III. Estar en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IV. No ser Magistrado del Tribunal Electoral, integrante del organismo electoral con derecho a voto, Procurador Social o Presidente de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones ciento ochenta días antes de la elección;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 V. No ser Consejero Ciudadano de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes de la elección;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón o miembro del Consejo General del Poder Judicial. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior, y
 
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del Tesorero Municipal, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata del funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Contaduría Mayor de Hacienda.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1255,7 +1291,9 @@ Sólo tendrán derecho a participar en el procedimiento de asignación de regido
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar que los ayuntamientos se han desintegrado y suspender o revocar el mandato a alguno de sus miembros por cualesquiera de las causas graves que las leyes prevengan, previo el derecho de audiencia y defensa correspondiente.
 
-Cuando la desintegración de un ayuntamiento ocurra durante el primer año de ejercicio, el Consejo Electoral del Estado, en un término que no excederá de dos meses, convocará a elecciones extraordinarias para elegir al Presidente, Vicepresidente y regidores que habrán de concluir el período y el Congreso del Estado elegirá un Concejo Municipal que estará en funciones en tanto ocupen el cargo quienes sean electos popularmente. De igual forma se procederá en caso de nulidad de elecciones.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+Cuando la desintegración de un ayuntamiento ocurra durante el primer año de ejercicio, el Consejo Electoral del Estado, en un término que no excederá de dos meses, convocará a elecciones extraordinarias para elegir al presidente, regidores y síndicos que habrán de concluir el período y el Congreso del Estado elegirá un Concejo Municipal que estará en funciones en tanto ocupen el cargo quienes sean electos popularmente. De igual forma se procederá en caso de nulidad de elecciones.
 
 Si no procediere que se celebren nuevas elecciones, el Congreso designará entre los vecinos del municipio a los integrantes de los concejos municipales que concluirán los períodos respectivos, quienes deberán reunir los mismos requisitos que se establecen para la elección de presidentes municipales.
 
@@ -1263,23 +1301,39 @@ Los concejos municipales y sus integrantes tendrán las mismas facultades y obli
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 77.
 
-Los ayuntamientos estarán facultados para expedir y aplicar, conforme a las bases normativas que establezcan las leyes:
+Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado:
 
-I. Los reglamentos de policía y buen gobierno;
+I. Los bandos de policía y gobierno;
 
-II. Las normas que regulen la prestación de los servicios públicos a su cargo;
+II. Los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, con el objeto de:
 
-III. Los reglamentos y disposiciones administrativas que fueren necesarios, para cumplir los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+a) Organizar la administración pública municipal;
 
-IV. Los reglamentos que normen las condiciones y relaciones de trabajo entre el municipio y sus servidores públicos, y
+b) Regular las materias, procedimientos, funciones y servicios públicos de su competencia; y
 
-V. Los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+c) Asegurar la participación ciudadana y vecinal;
+
+III. Los reglamentos y disposiciones administrativas que fueren necesarios para cumplir los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Los reglamentos que normen la creación y supresión de los empleos públicos municipales y las condiciones y relaciones de trabajo entre el municipio y sus servidores públicos.
+
+Las leyes en materia municipal que expida el Congreso del Estado únicamente deberán establecer:
+
+I. Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+II. Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
+
+III. Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115, como el segundo párrafo de la fracción VII del artículo 116, de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+
+V. Las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de los incisos III y IV anteriores.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1301,29 +1355,49 @@ El Consejo Electoral del Estado efectuará el cómputo de los votos y remitirá 
 
 Una vez que la resolución del Consejo Electoral quede firme, si es derogatoria, será notificada al ayuntamiento respectivo, para que en un plazo no mayor de treinta días, emita el acuerdo correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 79.
 
-Los municipios, a través de sus ayuntamientos, con el concurso del Gobierno del Estado cuando así fuere necesario, tendrán a su cargo los siguientes servicios públicos:
+Los municipios, a través de sus ayuntamientos, tendrán a su cargo las siguientes funciones y servicios públicos:
 
-I. Agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 II. Alumbrado público;
 
-III. Aseo público;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+III. Aseo público, recolección, traslado, tratamiento y disposición final de los residuos de su competencia;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IV. Mercados y centrales de abastos;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 V. Estacionamientos;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VI. Cementerios;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 VII. Rastro;
 
-VIII. Calles, parques y jardines;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-IX. Seguridad pública y tránsito; y
+VIII. Calles, parques y jardines, y su equipamiento;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+IX. Seguridad pública, policía preventiva municipal y tránsito; y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 X. Los demás que deban prestarse, según las condiciones territoriales y socioeconómicas de los municipios y lo permita su capacidad administrativa y financiera.
 
@@ -1337,7 +1411,9 @@ I. Formular, aprobar y administrar la zonificación y planes de desarrollo urban
 
 II. Participar en la creación y administración de sus reservas territoriales;
 
-III. Controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+III. Autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
 
 IV. Otorgar licencias o permisos para urbanizaciones, construcciones y condominios;
 
@@ -1347,13 +1423,23 @@ VI. Participar en la creación y administración de zonas de reserva ecológica,
 
 VII. Organizar y conducir la planeación del desarrollo del municipio y establecer los medios para la consulta ciudadana y la participación social.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+VIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando afecten su ámbito territorial; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+IX. Celebrar convenios para la administración y custodia de zonas federales.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 81.
 
-Los ayuntamientos podrán celebrar convenios con el Ejecutivo del Estado, a fin de que éste asuma la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social, así como la seguridad pública y la protección civil, lo hagan necesario.
+Cuando a juicio del ayuntamiento respectivo sea necesario, podrá solicitar la celebración (sic) convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la ejecución y operación de obras y prestación de servicios públicos, o para que se presten o ejerzan coordinadamente por el Estado y el propio municipio.
 
-Los municipios del Estado, previo acuerdo entre los ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+Los Municipios, previo acuerdo entre los ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Si se trata de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de las legislaturas de los Estados respectivas.
+
+El Congreso del Estado emitirá las normas de aplicación general para la celebración de estos convenios y los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre el municipio y el gobierno del Estado o entre aquellos, con motivo de los convenios de coordinación.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1375,7 +1461,9 @@ Los actos o disposiciones de carácter administrativo que impliquen la realizaci
 
 I. El Presidente Municipal o quien haga sus veces;
 
-II. El cabildo o, en su caso, el Concejo Municipal, o
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+II. El ayuntamiento o, en su caso, el Concejo Municipal, o
 
 III. Un número de ciudadanos jaliscienses que residan en el municipio, debidamente identificados, que represente cuando menos a un cinco por ciento de los inscritos en el Registro Nacional de Ciudadanos en los municipios cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, bastará con que lo solicite un tres por ciento de los inscritos.
 
@@ -1389,7 +1477,7 @@ I. Difundir, cumplir y hacer cumplir, en su ámbito de competencia, las leyes qu
 
 II. Publicar los bandos previstos por la ley;
 
-III. Solicitar autorización al Congreso del Estado para otorgar concesiones de servicios públicos o celebrar convenios y contratos, cuando su vigencia trascienda al término del ejercicio para el que hayan sido electos o representen enajenaciones a su patrimonio, en los términos que disponga la ley, y
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2000)
 
 IV. Las demás que determinen las leyes, para la mejor administración de su patrimonio y prestación de los servicios públicos que les correspondan.
 
@@ -1399,9 +1487,17 @@ IV. Las demás que determinen las leyes, para la mejor administración de su pat
 
 Corresponde al Presidente Municipal o a quien haga sus veces, la aplicación de las leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas en el ámbito municipal, así como el ejercicio de la administración del municipio y la prestación de los servicios públicos que estén a cargo del mismo, en la forma y términos que determinen las leyes.
 
-Corresponde al Cabildo, o al Concejo Municipal, elaborar y aprobar los reglamentos y demás disposiciones normativas de carácter general que sean competencia del municipio, así como, en los casos, forma y términos que determinen las leyes, autorizar las decisiones del Presidente, establecer las directrices de la política municipal y designar al titular de la contraloría interna. Así mismo, le compete designar al Secretario, Síndico y Tesorero.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-Corresponde la calificación de las infracciones administrativas derivadas de los bandos de policía y buen gobierno, a los servidores públicos denominados jueces municipales, quienes serán nombrados por el Cabildo, en los términos que establezca la ley de la materia.
+Corresponde al Ayuntamiento o al Concejo Municipal, elaborar y aprobar los reglamentos y demás disposiciones normativas de carácter general que sean competencia del municipio, así como, en los casos, forma y términos que determinen las leyes, autorizar las decisiones del Presidente y establecer las directrices de la política municipal.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+Corresponde la calificación de las infracciones administrativas derivadas de los bandos de policía y buen gobierno, a los servidores públicos denominados jueces municipales.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+Corresponde al síndico la representación jurídica del municipio, acatando en todos los casos las decisiones del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1411,7 +1507,7 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO IV. Del procedimiento administrativo
+### CAPITULO II. Del juicio político
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1429,19 +1525,23 @@ III. Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 El patrimonio municipal se compondrá con los bienes de dominio público y los bienes de dominio privado, de conformidad con lo que establezca la ley de la materia.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 89.
 
-El Congreso del Estado aprobará las leyes de ingresos de los municipios y revisará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y a las reglas establecidas en las leyes municipales respectivas.
+El Congreso del Estado aprobará las leyes de ingresos de los municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y a las reglas establecidas en las Leyes municipales respectivas.
 
-El Congreso no podrá establecer exenciones o subsidios respecto de contribuciones, en favor de personas físicas o jurídicas ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de las tres instancias de gobierno estarán exentos de contribuciones.
+Las leyes estatales no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, conforme al procedimiento que se establezca en la ley de la materia, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen conforme a la ley.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1469,11 +1569,11 @@ IV. El procedimiento ordinario.
 
 Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; a los miembros del Consejo Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 93.
 
-La Ley Orgánica Municipal precisará el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los municipios.
+La ley que establezca las bases generales de la administración municipal, precisará el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los municipios.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1495,7 +1595,7 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO IV. Del procedimiento administrativo
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1503,9 +1603,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, vicepresidentes, regidores o concejales; los tesoreros, secretarios y síndicos de los ayuntamientos; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado, el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de las finanzas públicas y secretarías de los municipios; así como los titulares de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -1529,9 +1629,9 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. Del juicio político
+### CAPITULO I. Prevenciones generales
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1541,21 +1641,33 @@ La comisión de delitos por parte de cualquier servidor público será perseguid
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 100.
 
-Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo; el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales del Consejo Electoral del Estado; los presidentes, vicepresidentes municipales, regidores y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia, de acuerdo a las siguientes normas:
+Para actuar plenamente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales del Consejo Electoral del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 I. El Congreso, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de los diputados integrantes de la Legislatura, si ha o no lugar a proceder contra el inculpado;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 II. Si la resolución del Congreso fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 III. Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley. En tanto no se determine esta declaración, no procederá el ejercicio de la acción penal ni librar la orden de aprehensión;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 IV. El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal; si éste culmina con sentencia absolutoria, el servidor público podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su cargo, no se concederá la gracia del indulto;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 V. Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o el daño causado, y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VI. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -1655,11 +1767,11 @@ Los cargos de elección popular directa son preferentes a los de nombramiento, s
 
 Los demás cargos serán aceptables voluntariamente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 111.
 
-Los diputados del Congreso del Estado, el Gobernador, los magistrados del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales, los presidentes municipales, regidores, concejales y demás servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos del Estado, de los municipios o de los organismos descentralizados, según corresponda.
+Los diputados del Congreso del Estado, el Gobernador, los magistrados del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales, los presidentes municipales, regidores, síndicos, concejales y demás servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos del Estado, de los municipios o de los organismos descentralizados, según corresponda.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2110,3 +2222,23 @@ P.O. 1 DE AGOSTO DE 2000.
 PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de los debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del articulo 15 de la misma Constitución.
 
 SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE DICIEMBRE DE 2000.
+
+DECRETO NUMERO 18344.
+
+PRIMERO.- La presente reforma entrará en vigor 90 días después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los ayuntamientos deberán adecuar sus reglamentos y disposiciones de carácter general conforme a lo dispuesto en este decreto, a más tardar en un año a partir de su entrada en vigor.
+
+P.O. 19 DE DICIEMBRE DE 2000.
+
+DECRETO NUMERO 18502.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+...
+
+TERCERO.- Las disposiciones contenidas en los artículos Primero y Segundo del presente decreto, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+CUARTO.- Envíese copia certificada del presente proyecto del dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
