@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1979-12-28"
+last_updated: "1980-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -135,79 +135,81 @@ TASA MENORES.- Los causantes menores pagarán impuestos, a cuota fija, de $75.00
 
 TASA MAYORES.- Los causantes mayores pagarán el impuesto, de acuerdo con la siguiente tarifa:
 
-INGRESOS TOTALES ANUALES: IMPUESTO FIJO MENSUAL A PAGAR:
+INGRESOS TOTALES IMPUESTO FIJO MENSUAL
 
-1.- De $ 150,000.01 a $ 250,000.00 $330.00
+ANUALES: A PAGAR:
 
-2.- " $ 250,000.01 " " 390,000.00 $360.00
+1.- De $150,000.01 a $250,000.00 $330.00
 
-3.- " $ 390,000.01 " " 420,000.00 $395.00
+2.- " $250,000.01 " "390,000.00 $360.00
 
-4.- " $ 420,000.01 " " 520,000.00 $430.00
+3.- " $390,000.01 " "420,000.00 $395.00
 
-5.- " $ 520.000.01 " " 630,000.00 $475.00
+4.- " $420,000.01 " "520,000.00 $430.00
 
-6.- " $ 630.000.01 " " 760,000.00 $520.00
+5.- " $520.000.01 " "630,000.00 $475.00
 
-7.- " $ 760.000.01 " " 930.000.00 $570.00
+6.- " $630.000.01 " "760,000.00 $520.00
 
-8.- " $ 930,000.01 " " 1'100,000.00 $620.00
+7.- " $760.000.01 " "930.000.00 $570.00
 
-9.- " $ 1'100,000.01 " " 1'300,000.00 $660.00
+8.- " $930,000.01 " "1'100,000.00 $620.00
 
-10.- " $ 1'300,000.01 " " 1 '600,000.00 $690.00
+9.- " $1'100,000.01 " "1'300,000.00 $660.00
 
-11.- " $ 1'600,000.01 " " 2'000,000.00 $745.00
+10.- " $1'300,000.01 " "1 '600,000.00 $690.00
 
-12.- " $ 2'000,000.01 " " 2'400,000.00 $800.00
+11.- " $1'600,000.01 " "2'000,000.00 $745.00
 
-13.- " $ 2'400,000.01 " " 2'900,000.00 $870.00
+12.- " $2'000,000.01 " "2'400,000.00 $800.00
 
-14.- " $ 2'900,000.01 " " 3'500,000.00 $935.00
+13.- " $2'400,000.01 " "2'900,000.00 $870.00
 
-15.- " $ 3'500,000.01 " " 4'300,000.00 $1,005.00
+14.- " $2'900,000.01 " "3'500,000.00 $935.00
 
-16.- " $ 4'300,000.01 " " 5'200,000.00 $1,080.00
+15.- " $3'500,000.01 " "4'300,000.00 $1,005.00
 
-17.- " $ 5'200,000.01 " " 6'300,000.00 $1,170.00
+16.- " $4'300,000.01 " "5'200,000.00 $1,080.00
 
-18.- " $ 6'300,000.01 " " 7'500,000.00 $1,260.00
+17.- " $5'200,000.01 " "6'300,000.00 $1,170.00
 
-19.- " $ 7'500,000.01 " " 9'200,000.00 $1,375.00
+18.- " $6'300,000.01 " "7'500,000.00 $1,260.00
 
-20.- " $ 9'200,000.01 " " 11'000,000.00 $1,510.00
+19.- " $7'500,000.01 " "9'200,000.00 $1,375.00
 
-21.- " $ 11'000,000.01 " " 13'000,000.00 $1,650.00
+20.- " $9'200,000.01 " "11'000,000.00 $1,510.00
 
-22.- " $ 13'000,000.01 " " 16'000,000.00 $1,855.00
+21.- " $11'000,000.01 " "13'000,000.00 $1,650.00
 
-23.- " $ 16'000,000.01 " " 20'000,000.00 $2,060.00
+22.- " $13'000,000.01 " "16'000,000.00 $1,855.00
 
-24.- " $ 20'000,000.01 " " 24'000,000.00 $2,475.00
+23.- " $16'000,000.01 " "20'000,000.00 $2,060.00
 
-25.- " $ 24'000,000.01 " " 30'000,000.00 $2,925.00
+24.- " $20'000,000.01 " "24'000,000.00 $2,475.00
 
-26.- " $ 30'000,000.01 " " 38'000,000.00 $3,300.00
+25.- " $24'000,000.01 " "30'000,000.00 $2,925.00
 
-27.- " $ 38'000,000.01 " " 50'000,000.00 $3,900.00
+26.- " $30'000,000.01 " "38'000,000.00 $3,300.00
 
-28.- " $ 50'000,000.01 " " 60'000,000.00 $4,500.00
+27.- " $38'000,000.01 " "50'000,000.00 $3,900.00
 
-29.- " $ 60'000,000.01 " " 75'000,000.00 $5,100.00
+28.- " $50'000,000.01 " "60'000,000.00 $4,500.00
 
-30.- " $ 75'000,000.01 " " 100'000,000.00 $6,300.00
+29.- " $60'000,000.01 " "75'000,000.00 $5,100.00
 
-31.- " $ 100'000,000.01 " " 145'000,000.00 $8,700.00
+30.- " $75'000,000.01 " "100'000,000.00 $6,300.00
 
-32.- " $ 145'000,000.01 " " 195'000,000.00 $11,250.00
+31.- " $100'000,000.01 " "145'000,000.00 $8,700.00
 
-33.- " $ 195'000,000.01 " " 300'000,000.00 $17,250.00
+32.- " $145'000,000.01 " "195'000,000.00 $11,250.00
 
-34.- " $ 300,000,000.01 " " 450'000,000.00 $24,750.00
+33.- " $195'000,000.01 " "300'000,000.00 $17,250.00
 
-35.- " $ 450,000,000.01 " " 675'000,000.00 $30,750.00
+34.- " $300,000,000.01 " "450'000,000.00 $24,750.00
 
-36.- " $ 675'000,000.01 o más $36,000.00
+35.- " $450,000,000.01 " "675'000,000.00 $30,750.00
+
+36.- " $675'000,000.01 o más $36,000.00
 
 La base, para aplicar la tabla anterior, será el ingreso total obtenido por los causantes en el año inmediato anterior. Para este efecto, los causantes deberán presentar, en el mes de enero de cada año, manifestación anual de ingresos en las formas aprobadas por las Tesorerías Municipales, acompañando original y copia fotostática de la tarjeta-pago del Impuesto Federal sobre Ingresos Mercantiles.
 
@@ -341,13 +343,21 @@ En caso de que, al constituirse el fideicomiso, no se designe fideicomisario, el
 
 TASA.- El Impuesto se aplicará sobre el valor del inmueble o derecho objeto de la operación:
 
-I.- Si no excede de $100,000.00 2%
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1980)</small>
 
-II.- Si excede de $100,000.00 pero no de $250,000.00 3%
+I.- Si no excede de $200,000.00 2 %
 
-III.- Si excede de $250,000.00 pero no de $500,000.00 4%
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1980)</small>
 
-IV.- Mayores de $500,000.00 5 %
+II.- Si excede de $200,000.00 pero no de $500,000.00 3 %
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+III.- Si excede de $500,000.00 pero no de $750,000.00 4 %
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+IV.- Mayores de $750,000.00 5 %
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -357,19 +367,31 @@ DETERMINACION.- En la determinación de este impuesto se deberán seguir las reg
 
 I.- Para los efectos legales, el Impuesto de Traslación de Dominio se calculará, tomándose el valor más alto entre el declarado en la operación, el del avalúo de Institución de Crédito autorizada para operar por la Secretaria de Hacienda y Crédito Público, y el indicado en el certificado de valor actual real que, al efecto, expida la Tesorería General del Estado.
 
-En las operaciones menores de $50.000.00. (CINCUENTA MIL PESOS 00/100 M.N.) para el cálculo del impuesto se tomará el valor más alto entre el declarado en la operación y el indicado en el certificado de valor actual real que expida la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+Para los efectos de este impuesto los avalúos de instituciones bancarias y los certificados de valor que expida la Tesorería General del Estado caducarán en un plazo de noventa días.
 
 II.- En los contratos que tengan por objeto enajenaciones recíprocas de propiedades inmuebles, el impuesto se causará únicamente sobre los bienes que tengan mayor valor entre los que entregue cualquiera de los contratantes.
 
 III.- Por cada escritura relacionada con el objeto del impuesto, que extiendan los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, estarán obligados a formular una nota de traslación de dominio conforme al modelo oficial, liquidando o declarando, en su caso y bajo su responsabilidad, el monto del impuesto o la no causación o exención del mismo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+La nota de traslación de dominio deberá presentarse en original y siete copias en la oficina receptora o institución bancaria correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 26.
 
-PAGO.- El pago del impuesto no estará sujeto a previa calificación de la autoridad fiscal municipal; sin perjuicio del ejercicio de los derechos de fiscalización que ésta conserva.
+El pago del impuesto no estará sujeto a previa calificación de la Autoridad Fiscal Municipal, quien por sí no podrá modificar el certificado de valor que haya expedido la Tesorería General del Estado; sin perjuicio de los demás derechos de fiscalización que ésta conserva.
 
-El impuesto se cubrirá en efectivo o mediante cheque certificado, ante las Oficinas Receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto, o en las Instituciones Bancarias autorizadas por los Ayuntamientos, dentro de los treinta días siguientes a partir de la fecha en que se firme la escritura respectiva, anexando a la nota de traslación de dominio, copia autorizada de la referida escritura.
+Cada una de las Tesorerías Municipales de la Entidad podrá si lo estima conveniente, designar representante ante la Tesorería General del Estado, que se encargue de emitir opinión sobre los valores reales actuales de las diferentes regiones que compongan su circunscripción.
+
+> <small>(F. DE E., P.O. 14 DE ENERO DE 1981)</small>
+
+El impuesto se cubrirá en efectivo o mediante cheque certificado, ante las oficinas receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto, o en las instituciones bancarias autorizadas por el Municipio correspondiente, localizadas en la circunscripción territorial del Municipio de que se trate, dentro de los treinta días siguientes a partir de la fecha en que se firme la escritura respectiva; anexando a la nota de traslación de dominio copia autorizada de la referida escritura.
+
+Cuando el pago se efectúe fuera del mencionado plazo legal de treinta días, no podrá realizarse en instituciones bancarias.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -383,7 +405,9 @@ b) Las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización de
 
 c) Los trabajadores al servicio del Estado, Federación o Municipio, siempre que el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado.
 
-d) Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+d) Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de la tierra, tales como el plan estatal denominado "Plan Tierra Propia", así como las personas que resulten directamente beneficiadas con sus programas.
 
 e) Las operaciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa opinión del Gobierno del Estado emitida a través de la Secretaría de Asentamientos Humanos y Planificación.
 
@@ -394,6 +418,10 @@ g) La enajenación y el derecho o renta a perpetuidad de lotes en los panteones 
 h) Las operaciones en que funjan como fideicomisarios Instituciones Públicas o Para-Públicas, destinadas a la solución del problema de la vivienda en la Entidad; tales como INFONAVIT, INDECO, FOVISSTE, etc.
 
 i) El acto consecutivo del fideicomiso de garantía de administración o testamentario.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+j) Las construcciones realizadas por promotores de viviendas de interés social, siempre y cuando entre la fecha de la terminación de la construcción y la contratación con el adquirente de la vivienda no medie más del término de un año. Esta exención no ampara al suelo de las construcciones.
 
 ###### ARTICULO 28.
 
@@ -793,6 +821,10 @@ V.- Otros servicios de la Oficina de Obras Públicas: Los que indique el C. Pres
 
 Los derechos especificados en la fracción III del Artículo anterior, tratándose de construcciones de casas habitación, edificios o conjuntos multifamiliares considerados de interés social, pagarán el 50% de la cuota.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1980)</small>
+
+Los derechos de referencia podrán ser cubiertos por promotores de viviendas con base en planos de viviendas que no tengan aún propietario identificado. En este supuesto los promotores quedan facultados para iniciar la construcción de que se trate, sin que en ningún caso se pueda exigir la nueva cuenta pago por concepto de inspección y aprobación de planos.
+
 ###### ARTICULO 54.
 
 EXENCIONES.- Quedan exentas del pago de los derechos establecidos en la fracción III, incisos b), c) y d) del Artículo 52 de esta Ley:
@@ -965,9 +997,7 @@ De $ 0.00 a $ 1,000.00 $ 15.00
 
 Por revisión, inspección y servicios, que se indican a continuación, se fijan las siguientes cuotas:
 
-I.- Por revisión de automóviles, camiones y demás vehículos, hecha por el Departamento de Tránsito en las fechas acordadas por el C. Presidente Municipal, se pagarán $50.00 por cada unidad.
-
-Se exceptúan de esta revisión los automóviles, camionetas, camiones, trolebuses y microbuses de alquiler para pasajeros, así como las camionetas y camiones de alquiler para carga que presten servicios en los Municipios de Monterrey, Apodaca, Guadalupe, Escobedo, Garza García, Santa Catarina, San Nicolás de los Garza y García, los cuales serán revisados por la Comisión Intermunicipal del Transporte Urbano o por el organismo que llegue a hacer sus veces.
+I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1980)
 
 II.- Por revisión y trámite de documentos correspondientes a la Alta o Baja de vehículos de motor, se cubrirá un derecho de $50.00.
 
@@ -1310,5 +1340,17 @@ Este Decreto entrará en vigor el día 1o. de enero de 1980.
 ###### ARTICULO SEGUNDO.
 
 Se derogan las leyes, resoluciones y disposiciones que se opongan al presente Decreto.
+
+Lo anterior no exceptúa a los causantes que cubran extemporáneamente créditos fiscales, de las sanciones y recargos que les sean aplicables.
+
+P.O. 29 DE DICIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO
+
+- Este Decreto entrará en vigor el día 1o. de Enero de 1981.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las leyes, resoluciones y disposiciones que se opongan al presente Decreto.
 
 Lo anterior no exceptúa a los causantes que cubran extemporáneamente créditos fiscales, de las sanciones y recargos que les sean aplicables.
