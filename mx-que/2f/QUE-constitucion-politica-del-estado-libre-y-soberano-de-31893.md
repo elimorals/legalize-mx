@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1999-12-10"
+last_updated: "2000-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2000.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1015,13 +1015,13 @@ Las leyes establecerán los medios necesarios para que se garantice la independe
 
 #### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 66º.
 
-El Tribunal Superior de Justicia se compondrá de diez magistrados propietarios y ocho supernumerarios, que serán electos cada tres años por la Legislatura del Estado, dentro de los treinta días siguientes a la instalación de ésta.
+El Tribunal Superior de Justicia se compondrá cuando menos de diez magistrados propietarios y ocho supernumerarios, que serán electos por la Legislatura del Estado.
 
-El Tribunal funcionará en pleno o en salas, con los magistrados propietarios o con los supernumerarios, en su caso.
+El Tribunal funcionará en pleno o en salas, con los magistrados propietarios o supernumerarios, en su caso.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1921,7 +1921,7 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 
 ###### ARTICULO SEGUNDO.
 
-Aprobada, en su caso la reforma propuesta al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la Declaratoria que al respecto emita el Congreso.
+Aprobada, en su caso la reforma propuesta al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
 
 ###### ARTICULO TERCERO.
 
@@ -2034,3 +2034,7 @@ P.O. 10 DE DICIEMBRE DE 1999
 Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 25 DE FEBRERO DE 2000
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial La Sombra de Arteaga, derogándose las disposiciones que se opongan a la presente.
