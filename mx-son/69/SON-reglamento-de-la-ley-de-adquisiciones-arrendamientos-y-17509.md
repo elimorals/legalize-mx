@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-17509"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-01-26"
-last_updated: "1989-01-26"
+last_updated: "1990-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1990.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 26 de enero de 1989.
 
@@ -277,9 +277,9 @@ Como resultado del análisis mencionado, se emitirá un dictamen que servirá co
 
 En el dictamen a que se refiere el párrafo anterior se asentarán:
 
-I.- Las proposiciones que fueron rechazadas, indicando las razones que motivaron dicho rechazo.
+I.- Las proposiciones que fueron rechazadas, indicando las razones que motivaron dicho rechazo;
 
-II.- El nombre del postor que, dentro de los proponentes, haya reunido las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento del pedido o contrato.
+II.- El nombre del postor que, dentro de los proponentes, haya reunido las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento del pedido o contrato;
 
 III.- Los lugares correspondientes a los demás participantes cuyas propuestas sean convenientes, indicando el monto de las mismas.
 
@@ -315,7 +315,7 @@ La garantía de cumplimiento del pedido o contrato se ajustará a lo siguiente:
 
 I.- Se constituirá fianza por el diez por ciento del monto del pedido o contrato, a favor y a satisfacción de la Tesorería General del Estado, de la entidad que corresponda o, en el supuesto del artículo 5o. de la Ley, de las Tesorerías Municipales;
 
-II.- La fianza deberá ser presentada dentro de los diez días hábiles siguientes, contados a partir de la fecha en que el proveedor hubiere suscrito el pedido o contrato. Si transcurrido este plazo, no se hubiere otorgado la fianza respectiva, la contratante podrá determinar la rescisión administrativa del pedido o contrato, pudiendo la Dependencia o Entidad, en este supuesto, adjudicar el contrato o pedido al participante siguiente en los términos del artículo 28, fracción III, del presente Reglamento, o bien, adjudicar libremente el contrato.
+II.- La fianza deberá ser presentada dentro de los diez días hábiles siguientes, contados a partir de la fecha en que el proveedor hubiere suscrito el pedido o contrato. Si transcurrido este plazo, no se hubiere otorgado la fianza respectiva, la contratante podrá determinar la rescisión administrativa del pedido o contrato, pudiendo la Dependencia o Entidad, en este supuesto, adjudicar el contrato o pedido al participante siguiente en los términos del artículo 28, fracción III, del presente Reglamento, o bien, adjudicar libremente el contrato;
 
 III.- Esta garantía estará vigente hasta la fecha que se precise en los pedidos y contratos.
 
@@ -463,21 +463,33 @@ Los contratos y órdenes de servicios relacionados con bienes muebles, así como
 
 Cuando por razón del monto del arrendamiento o del servicio respectivo, resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo anterior, por el costo que éste represente, las dependencias y entidades podrán fincar los contratos y órdenes de servicios relativos, sin ajustarse a dicho procedimiento y conforme a las formas de adjudicación y montos que a continuación se expresan:
 
-I.- Sin llevar a cabo licitación, cuando el monto de la operación no exceda de cien veces el salario mínimo diario general vigente en la capital del Estado;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1990)</small>
+
+I.- Sin llevar a cabo licitación, cuando el monto de la operación no exceda de ciento cincuenta veces el salario mínimo diario general vigente en la capital del Estado;
 
 II.- Licitación simplificada, cuando se presenten los siguientes supuestos:
 
-a) Que el proveedor cuente con la capacidad de respuesta inmediata, habiendo considerado previamente, tres propuestas y el monto de la operación no exceda de trescientas veces el salario mínimo diario general vigente en la capital del Estado.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) Que el proveedor ofrezca las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad en el cumplimiento del contrato u orden de servicio, habiendo considerado, previamente por lo menos, cinco propuestas y el monto de la operación no exceda de mil veces el salario mínimo diario general vigente en la capital del Estado.
+a) Que el proveedor cuente con la capacidad de respuesta inmediata, habiendo considerado previamente, tres propuestas y el monto de la operación no exceda de cuatrocientas cincuenta veces el salario mínimo diario general vigente en la capital del Estado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1990)</small>
+
+b) Que el proveedor ofrezca las mejores condiciones en cuanto a precio, calidad, financiamiento y oportunidad en el cumplimiento del contrato u orden de servicio, habiendo considerado, previamente por lo menos, cinco propuestas y el monto de la operación no exceda de mil quinientas veces el salario mínimo diario general vigente en la capital del Estado.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1990)</small>
+
+Los montos establecidos en este artículo deberán considerarse sin incluir el importe del impuesto al valor agregado.
 
 ###### ARTICULO 55.
 
 La Oficialía Mayor, y las dependencias y entidades, en el fincamiento o adjudicación de contratos y órdenes de servicios se sujetarán, con las modalidades establecidas en el presente Capítulo, a lo señalado en el Capítulo IV de la Ley, así como a lo previsto en los Capítulos IV y V del presente ordenamiento.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 56.
 
-La Oficialía Mayor y las dependencias y entidades podrán, bajo su responsabilidad, fincar y adjudicar contratos y órdenes de servicio, sin llevar a cabo las licitaciones a que se refiere el presente Capítulo, cuando se actualicen los supuestos señalados en los artículos 27, 28, 29 y 42 de la Ley.
+La Oficialía Mayor y las dependencias y entidades podrán, bajo su responsabilidad, fincar y adjudicar contratos y órdenes de servicio, sin llevar a cabo las licitaciones a que se refiere el presente Capítulo, cuando se actualicen los supuestos señalados en los artículos 27, 28, 29 y 42 de la Ley, así como cuando se trate de servicios de mantenimiento correctivo o preventivo de equipo de computación.
 
 ### CAPITULO VII. DEL EJERCICIO DEL GASTO EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -587,7 +599,7 @@ Los proveedores inscritos en el Padrón comunicarán por escrito a la Oficialía
 
 ###### ARTICULO 67.
 
-La Secretaría de la Contraloría General del Estado, de acuerdo con las atribuciones legales y reglamentarias que tiene conferidas, por sí o por conducto de los órganos de control interno o de terceros, podrá revisar las adquisiciones, arrendamientos y servicios relacionados con bienes muebles que efectúen las dependencias y entidades, con el objeto de comprobar que la calidad, cantidad, el precio y demás circunstancias relevantes de la operación, sean los adecuados para el interés del Estado.
+La Secretaría de la Contraloría General del Estado, de acuerdo con las atribuciones legales y reglamentarias que tiene conferidas, por sí o por conducto de los órganos de control interno o de terceros, podrá revisar las adquisiciones, arrendamientos y servicios relacionados con bienes muebles que efectúen las dependencias y entidades, con el objeto de comprobar que la calidad, cantidad, y el precio y demás circunstancias relevantes de la operación, sean los adecuados para el interés del Estado.
 
 ###### ARTICULO 68.
 
@@ -638,3 +650,11 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO.
 
 FRANCISCO JAVIER ALDANA MONTAÑO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 31 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente ordenamiento entrará en vigor el 1o. de enero de 1991, previa su publicación en el Boletín Oficial del Gobierno del Estado.
