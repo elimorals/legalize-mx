@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-22716"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-17"
-last_updated: "2004-02-25"
+last_updated: "2004-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2004.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el sábado 17 de noviembre de 2001.
 
@@ -1542,3 +1544,31 @@ LAS PRESENTES REFORMAS A LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA 
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 24 DE NOVIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los 45 días siguientes al día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La actual Ley Orgánica de la Procuraduría General de Justicia del Estado, continuará su vigencia hasta en tanto entre en vigor este Decreto, iniciada la vigencia de la Ley a que se refiere este Decreto, la Ley Orgánica de la Procuraduría General de Justicia del Estado, quedará abrogada.
+
+Artículo Tercero.- Los procedimientos de responsabilidad administrativa y de remoción iniciados con antelación a la entrada en vigor de la presente Ley, serán resueltos de conformidad con las normas vigentes hasta antes de la entrada en vigor de este decreto.
+
+Artículo Cuarto.- La Institución de la Procuraduría del Estado, se extingue y se convierte en la Fiscalía General del Estado. Los recursos financieros y materiales de la Procuraduría General de Justicia del Estado pasarán a formar parte de la Fiscalía General del Estado.
+
+Los Fiscales del Ministerio Público, Agentes Estatales de Investigación y Peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio Civil de Carrera de la Fiscalía General del Estado que se expidan para tal efecto.
+
+El personal de las demás unidades administrativas y órganos desconcentrados de la Procuraduría General de Justicia del Estado, se someterán al procedimiento de ingreso aplicado por la Fiscalía General del Estado.
+
+Todos los movimientos de personal, serán sin menoscabo de sus derechos laborales.
+
+Artículo Quinto.- Las menciones que otros ordenamientos jurídicos hagan a la Procuraduría General de Justicia del Estado o al Procurador General de Justicia del Estado, se entenderán referidas a la Fiscalía General del Estado y al Fiscal General del Estado respectivamente.
+
+Las menciones que otros ordenamientos jurídicos hagan al Ministerio Público, se entenderán referidas a los Fiscales del Ministerio Público, de conformidad con las funciones asignadas a ellos en la presente Ley.
+
+Las referencias al Servicio Civil de Carrera de Procuración de Justicia que se realicen en otros ordenamientos jurídicos, se entenderán hechos al servicio de Carrera a que se refiere esta Ley.
+
+Artículo Sexto.- Las menciones relativas a la Unidad Especializada contra la Delincuencia Organizada a que se refiere el Código de Procedimientos Penales, se entenderán hechas a la Fiscalía Especializada que se establezca en el Reglamento de la Ley Orgánica de la Fiscalía General del Estado.
+
+Artículo Séptimo.- A partir de la vigencia, señalada en el artículo Primero Transitorio, el Ejecutivo del Estado, deberá enviar al Congreso del Estado, la propuesta respectiva, para designar al Fiscal General del Estado.
+
+Artículo Octavo.- El Fiscal General del Estado, expedirá el Reglamento de la Ley Orgánica en un plazo no mayor a tres meses a la entrada en vigor de este Decreto. Hasta en tanto no entre en vigor el nuevo Reglamento y la demás normatividad interna, seguirán vigentes las normas reglamentarias y de cualquier otro nivel siempre que no se opongan a la presente Ley.
