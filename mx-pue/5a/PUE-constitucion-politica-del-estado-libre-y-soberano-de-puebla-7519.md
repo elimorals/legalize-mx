@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2000-09-22"
+last_updated: "2001-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -651,19 +651,25 @@ VI.- Autorizar al Ejecutivo para que celebre convenios con los demás Estados o 
 
 VII.- Autorizar la enajenación de bienes inmuebles propios del Estado o de los Municipios, a solicitud de éstos, así como aprobar los contratos que celebren los Ayuntamientos, cuando tengan duración mayor del período para el cual hubieren sido electos.
 
-VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones o empréstitos destinados a inversiones públicas productivas y fijar anualmente, en los presupuestos, los conceptos y los montos máximos de dichas obligaciones o empréstitos.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1990)</small>
+VIII.- Establecer las bases para que el Estado, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones o empréstitos destinados a inversiones públicas productivas y fijar anualmente, en los presupuestos, los conceptos y los montos máximos de dichas obligaciones o empréstitos;
 
-IX.- Supervisar la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1990)</small>
+IX.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano de Fiscalización Superior del Estado y expedir la ley que regule su organización y atribuciones;
 
-X.- Nombrar y remover a los empleados de su Secretaría y de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-XI.- Crear y suprimir empleos públicos y señalar, aumentar o disminuir sus dotaciones.
+X.- Nombrar y remover a los servidores públicos que por ley le correspondan; así como al Titular del Órgano de Fiscalización Superior del Estado, de acuerdo a lo previsto en esta Constitución;
 
-XII.- Conceder premios y recompensas.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+
+XI.- Dictaminar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo del Órgano de Fiscalización Superior del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+
+XII.- Crear y suprimir empleos públicos, señalando, aumentando o disminuyendo sus dotaciones; así como conceder premios y recompensas;
 
 XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si dichos funcionarios son o no culpables de los delitos oficiales que se les imputen.
 
@@ -721,7 +727,9 @@ XXI.- Acordar por el voto de las dos terceras partes de sus integrantes:
 
 3.- La suspensión o revocación del mandato de uno o más de los miembros de un Ayuntamiento, respetando la garantía de audiencia, admitiendo las pruebas que ofrezcan y oyendo alegatos.
 
-En los casos de los incisos 1 y 2 de esta fracción, el Congreso nombrará un Consejo Municipal como lo establezca la Ley Orgánica Municipal.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+
+En los casos de los puntos 1 y 2 de esta fracción, el Congreso nombrará un Concejo Municipal, que será designado de entre los vecinos y que concluirá el período respectivo; estos concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -738,6 +746,10 @@ XXV.- Rehabilitar en los derechos y prerrogativas de los ciudadanos, en caso de 
 XXVI.- Crear o suprimir, a propuesta del Ejecutivo organismos descentralizados, auxiliares de la Administración Pública.
 
 XXVII.- Expedir leyes para hacer efectivas las anteriores facultades y todas las concedidas a los otros Poderes por la Constitución Federal y por esta Constitución del Estado, así como las que correspondan al régimen interior del Estado y no estén expresamente reservadas a los Poderes de la Unión.
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
+
+XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como revisar y fiscalizar sus cuentas públicas.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -773,9 +785,9 @@ I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la
 
 II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales y del Consejero Presidente del Consejo General del Instituto Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría Mayor de Hacienda; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, y a los Magistrados del Tribunal Electoral del Estado;
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran y a los servidores públicos de la Legislatura y del Órgano de Fiscalización Superior del Estado; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, y a los Magistrados del Tribunal Electoral del Estado;
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -989,7 +1001,9 @@ VIII.- Imponer gubernativamente multa hasta por una cantidad equivalente al impo
 
 IX.- Enviar al Congreso y en sus recesos, a la Comisión Permanente, los asuntos cuyo conocimiento corresponda al Poder Legislativo.
 
-X.- Mandar las fuerzas del Estado y las de los Municipios donde residiere habitual o transitoriamente.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
+
+X.- Asumir el mando de la policía preventiva municipal, en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 XI.- Prestar a los tribunales el auxilio que demanden para el desempeño de sus funciones.
 
@@ -1005,11 +1019,11 @@ XV.- Controlar los ramos de la Administración Pública.
 
 XVI.- Celebrar contratos y convenios con la Federación, Ayuntamientos y demás Estados de la República, sobre asuntos que beneficien a la Entidad.
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-XVII.- Celebrar convenios con los Ayuntamientos del Estado, respecto a la prestación de servicios públicos y cobro de impuestos, derechos y aprovechamientos, cuando éstos no tengan los recursos suficientes para hacerlo.
+XVII.- Celebrar convenios con los Ayuntamientos del Estado, respecto a la prestación de servicios públicos o administración de las contribuciones que les correspondan, cuando éstos no tengan la infraestructura suficiente para hacerlo; siempre que sea en forma temporal, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio;
 
-XVIII.- Nombrar Concejos Municipales, en los casos y términos que señale la ley.
+XVIII.- (DEROGADA, P.O. 5 DE MARZO DE 2001)
 
 XIX.- Someter a la aprobación del Congreso, la enajenación de bienes inmuebles propios de los Municipios y los contratos que celebren los Ayuntamientos, cuando tengan una duración mayor del período para el cual hubieren sido electos.
 
@@ -1267,11 +1281,13 @@ Los funcionarios de que trata este título no tendrán en los juicios en que int
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 102.
 
-El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será administrado por un Ayuntamiento de elección popular directa, integrado por la planilla que haya obtenido el mayor número de votos, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la ley determine. Las atribuciones que esta Constitución otorga al Gobierno Municipal, se ejercerán por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna, entre éste y el Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
 I.- Los Ayuntamientos se complementarán:
 
@@ -1299,15 +1315,25 @@ e) En los casos a que se refieren las fracciones anteriores, los Regidores se ac
 
 f) En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
 
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+
 II.- No podrán ser electos para el período inmediato, como propietarios:
 
 a).- Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos, electos popularmente.
 
 b).- Las personas que desempeñen o hayan desempeñado las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé y la forma de su nombramiento, designación o elección.
 
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+
 III.- Los funcionarios mencionados en las fracciones anteriores, cuando hayan tenido el carácter de propietarios, no podrán ser electos para el período inmediato, como suplentes; pero los que fueron suplentes podrán ser electos para el período inmediato como propietarios, salvo que hayan estado en ejercicio.
 
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+
 IV.- Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de febrero del año siguiente al de la elección.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2001)</small>
+
+Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley; y
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1325,43 +1351,75 @@ II.- Las participaciones federales.
 
 III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-a).- Las Leyes del Estado no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III anteriores en favor de personas físicas o jurídicas, ni de instituciones oficiales o privadas, y sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de tales contribuciones.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+
+a) Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones a que se refieren las fracciones I y III de este artículo. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se encargue, parcialmente, de las funciones relacionadas con la administración de las contribuciones que les corresponda.
 
 c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2001)</small>
+
+d) Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
+
+IV.- Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 104.
 
-Los Municipios proporcionarán los siguientes servicios públicos:
+Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-a).- Agua Potable y alcantarillado.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 b).- Alumbrado público.
 
-c).- Limpia.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 d).- Mercados y centrales de Abasto.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+
 e).- Panteones.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 f).- Rastro.
 
-g).- Calles, parques y jardines.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
-h).- Seguridad pública y tránsito.
+g) Calles, parques y jardines y su equipamiento; y
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+
+h) Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2001)</small>
+
+Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las leyes federales y estatales.
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
 I.- El Congreso del Estado, tomando en cuenta las condiciones socioeconómicas de los Municipios, podrá encomendar a éstos la prestación de otros servicios públicos distintos a los antes enumerados, cuando a juicio del propio Congreso tengan aquéllos capacidad administrativa y financiera.
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-II.- Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+II.- Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Tratándose de asociaciones con Municipios que pertenezcan a otra u otras Entidades Federativas, éstos deberán contar con la aprobación de las Legislaturas de los Estados respectivas. Asimismo cuando a juicio del Ayuntamiento, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio; y
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-III.- Los Municipios podrán concesionar la prestación de los servicios públicos a que se refiere esta disposición, mediante acuerdo de sus Ayuntamientos y la autorización del Congreso del Estado, previa a la suscripción del contrato respectivo.
+III.- Los Ayuntamientos podrán concesionar la prestación de los servicios y funciones a que se refiere este artículo, con excepción del establecido en el inciso h), previo acuerdo de sus integrantes y observando las disposiciones que al efecto se emitan.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1373,37 +1431,47 @@ I.- Los Ayuntamientos residirán en las cabeceras de los Municipios y serán pre
 
 II.- Podrán establecerse las entidades que se juzguen convenientes para realizar los objetivos de la administración Municipal.
 
-III.- Los ayuntamientos podrán expedir, dentro de la esfera de su competencia, reglamentos por los cuales provean a la exacta observancia de las Leyes Administrativas del Estado, bandos de policía y buen gobierno, circulares y disposiciones de observancia general. El Congreso del Estado en la Ley Orgánica Municipal, establecerá las bases para el ejercicio de estas facultades, las cuales serán por lo menos las siguientes:
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-a).- El proyecto respectivo será propuesto por dos o más Regidores.
+III.- Los Ayuntamientos tendrán facultades para expedir de acuerdo con las Leyes en materia Municipal que emita el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-b).- Se discutirá, aprobará o desechará por mayoría de votos en Sesión de Cabildo, en la que haya Quórum.
+El objeto de las Leyes en materia Municipal, será establecer:
 
-c).- En caso de aprobarse el proyecto se enviará al Ejecutivo para su publicación en el Periódico Oficial.
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-d).- Las disposiciones de carácter general dictadas por los Ayuntamientos, deben referirse a hipótesis previstas por la Ley que reglamenten, y no pueden contrariar a ésta; han de ser claras, precisas y breves, y cada artículo o fracción contendrá una sola disposición.
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
-IV.- Procurar el mejoramiento de las condiciones de vida de la población rural y urbana, y en esta materia, los Ayuntamientos:
+c) Las normas de aplicación general para celebrar los convenios a que se refieren la fracción XVII del artículo 79 y la fracción II del artículo 104 de esta Constitución;
 
-a).- Formularán, aprobarán y administrarán la zonificación y planes de desarrollo urbano, y
+d) El procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
 
-b).- Participarán en la creación y administración de:
+e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-1.- Las reservas territoriales del Municipio.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
-2.- Las reservas ecológicas Municipales.
+IV.- Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-c).- Controlarán y vigilarán la utilización del suelo en sus jurisdicciones territoriales.
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-d).- Intervendrán en la regularización de la tenencia de la tierra urbana.
+b) Participar en la creación y administración de sus reservas territoriales;
 
-e).- Podrán otorgar licencias y permisos para construcciones, y
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los Municipios;
 
-f).- De conformidad con el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y para los fines en él señalados, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e) Intervenir en la regulación de la tenencia de la tierra urbana;
+
+f) Otorgar licencias y permisos para construcciones;
+
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquéllos afecten su ámbito territorial; e
+
+i) Celebrar convenios para la administración y custodia de las zonas federales.
 
 V.- Los Ayuntamientos sólo podrán contratar empréstitos sujetándose a las disposiciones que dicte el Congreso, conforme a la fracción VIII del artículo 57 de esta Constitución.
 
-VI.- Los Ayuntamientos no podrán enajenar bienes inmuebles propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin la autorización del Gobernador del Estado y la aprobación del Congreso.
+VI.- (DEROGADA, P.O. 5 DE MARZO DE 2001)
 
 VII.- Las fuerzas de seguridad del Estado y de los Municipios se auxiliarán recíprocamente.
 
@@ -1422,6 +1490,26 @@ XIII.- Los Ayuntamientos atenderán la administración por medio de comisiones, 
 XIV.- El Ejecutivo nombrará visitadores especiales para las Tesorerías Municipales, los cuales revisarán los libros e informarán después al Ejecutivo, para que éste excite a los Ayuntamientos a recaudar los fondos públicos, o bien corrija las deficiencias que se encuentren o se consignaren, si hubiere algún delito en el manejo de los fondos.
 
 XV.- Las relaciones de trabajo entre los Municipios y sus servidores, se regirán por las disposiciones que dicte la Legislatura del Estado.
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
+
+XVI.- El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquéllos;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
+
+XVII.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente, y ésta acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
+
+XVIII.- El Congreso del Estado en la Ley Orgánica Municipal, establecerá las bases para la expedición de los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, las cuales serán por lo menos las siguientes:
+
+a) El proyecto respectivo será propuesto por dos o más Regidores;
+
+b) Se discutirá, aprobará o desechará por mayoría de votos en Sesión de Cabildo, en la que haya Quórum;
+
+c) En caso de aprobarse el proyecto se enviará al Ejecutivo del Estado para su publicación en el Periódico Oficial de (sic) Estado; y
+
+d) Las disposiciones de carácter general dictadas por los Ayuntamientos, deben referirse a hipótesis previstas por la ley que reglamenten y no pueden contrariar a ésta; han de ser claras, precisas y breves, y cada artículo o fracción contendrá una sola disposición.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1459,7 +1547,7 @@ El Poder Público del Estado y los Ayuntamientos tienen el deber de promover el 
 
 La ley reglamentará y fijará las facultades de los funcionarios en materia de planeación, formación de programas y presupuestos, ejecución de objetivos, supervisión, evaluación e información, así como la coordinación de los sectores público, social y privado del Estado.
 
-### CAPITULO II. DE LA HACIENDA PUBLICA
+### CAPITULO II. DE LA SEGURIDAD PUBLICA
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1485,33 +1573,45 @@ La Ley de Ingresos, fijará anualmente las cuotas correspondientes a las contrib
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 113.
 
-En el lugar donde residan los Poderes del Estado, habrá una Contaduría Mayor de Hacienda, que dependerá directamente del Congreso del Estado, en la que se revisarán, sin excepción, las cuentas de los caudales públicos.
+El Órgano de Fiscalización Superior del Estado, es la unidad de fiscalización, control y evaluación, dependiente del Congreso del Estado, que cuenta con autonomía técnica y de gestión; encargada de revisar sin excepción, la cuenta de las haciendas públicas; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, a través de la cuenta pública estatal, de los Ayuntamientos y demás sujetos de revisión, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas establecidos, en los términos de las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1990)</small>
+El Órgano de Fiscalización Superior, establecerá y difundirá las normas, procedimientos, métodos y sistemas contables y de auditoría para la revisión de las cuentas públicas, así como formular recomendaciones, que sobre el particular procedan, a los sujetos de revisión.
+
+En el cumplimiento de sus funciones, tendrá atribuciones para investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de fondos y recursos federales, de los Poderes del Estado, de los Ayuntamientos y demás organismos autónomos del Estado y sujetos de revisión establecidos en la legislación aplicable; así como para imponer medidas de apremio a quienes incumplan sus requerimientos y con ello obstaculicen su función, al igual que para determinar los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de las entidades descentralizadas y el de los organismos autónomos del Estado y sujetos de revisión, quedando facultado, en términos de la legislación aplicable, para promover en su caso, ante las autoridades competentes, el fincamiento de las responsabilidades que se deriven, para lo cual podrá formular denuncias, querellas o hacer las promociones que las leyes determinen.
+
+Además efectuará visitas domiciliarias, únicamente para exigir la exhibición de los documentos indispensables para la realización de sus investigaciones.
+
+La ley respectiva establecerá las disposiciones para garantizar suficientemente su autonomía técnica y de gestión.
+
+El Titular del Órgano de Fiscalización Superior del Estado, será nombrado por las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que se derive de la convocatoria que emita para tal efecto la Gran Comisión; determinándose en la ley respectiva su remoción. Durará en su encargo seis años y podrá ser nombrado nuevamente para un período más, por una sola vez.
+
+La ley respectiva determinará los requisitos que debe cumplir el Titular del Órgano de Fiscalización Superior. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión; salvo las no remunerables docentes, artísticas, de beneficencia y en asociaciones científicas.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 114.
 
-Toda cuenta de fondo públicos quedará revisada a más tardar un año después de su presentación.
+La revisión de la cuenta pública tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas. El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el informe del resultado de la revisión de la cuenta pública a más tardar durante la segunda quincena del mes de junio del año siguiente al de su ejercicio. Si de la revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la ley.
 
-La falta de cumplimiento de este precepto será la causa de responsabilidad de los empleados de la Contaduría Mayor de Hacienda y de la Comisión Inspectora de la propia Contaduría.
+El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión Inspectora, de las cuentas que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
 
-La Comisión Inspectora tiene la obligación de presentar al Congreso, en el Primer Período Ordinario de Sesiones de cada año de ejercicio legal, un informe detallado de las cuentas que se han revisado y de las que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
+El incumplimiento de este precepto será causa de responsabilidad de los servidores públicos del Órgano de Fiscalización Superior del Estado o de la Comisión Inspectora de la propia Entidad.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 115.
 
-La Contaduría Mayor de Hacienda expedirá, en la forma que la Ley Orgánica de la propia Contaduría señale, el finiquito de las cuentas que revise, y rendirá al Congreso cada tres meses, por conducto de la Comisión respectiva, un informe de las revisiones que haya practicado.
+El Órgano de Fiscalización Superior del Estado, expedirá, en la forma que señale la ley respectiva, el finiquito de las cuentas que revise. Este organismo deberá rendir oportunamente, por conducto de la Comisión Inspectora, los informes que le sean solicitados por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 116.
 
-Los empleados que manejen fondos públicos deberán caucionar su manejo en la forma que la ley señale.
+Los servidores públicos que manejen fondos públicos deberán caucionar su manejo en la forma que la ley señale.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1835,11 +1935,11 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1988,3 +2088,65 @@ Tan pronto como sea nombrado el Consejero Presidente del Consejo General del Ins
 ###### ARTÍCULO SEXTO.
 
 Los nuevos Consejeros Electorales y el Consejero Presidente del Instituto Electoral del Estado, deberán ser nombrados a más tardar en el mes de octubre de 2000 y, por esta única ocasión, para su elección se deberá privilegiar el procedimiento de consenso, el voto de las tres cuartas partes de los miembros presentes en el Congreso del Estado, de las dos terceras partes de los miembros presentes en el Congreso del Estado o insaculación; en ese orden.
+
+P.O. 5 DE MARZO DE 2001.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas por la mayoría de los Ayuntamientos de la Entidad y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Órgano de Fiscalización Superior del Estado continuará la revisión de las cuentas públicas, que se encuentren pendientes, incluyendo la del año 2000. En tanto no se apruebe la Ley del Órgano de Fiscalización Superior del Estado, seguirá aplicándose la normatividad de la Contaduría Mayor de Hacienda.
+
+###### ARTÍCULO QUINTO.
+
+Todos los recursos humanos, financieros y materiales con que cuenta actualmente la Contaduría Mayor de Hacienda pasarán a formar parte del Órgano de Fiscalización Superior del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda, no sufrirán afectación alguna, en sus derechos laborales, con motivo de la entrada en vigor de este Decreto, y las demás leyes que se emitan con este motivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias que se hagan, en todas las disposiciones, a la Contaduría Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior del Estado.
+
+P.O. 5 DE MARZO DE 2001.
+
+DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas por la mayoría de los Ayuntamientos de la Entidad y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los Municipios y que a su entrada en vigor, sean prestados por el Gobierno del Estado o de manera coordinada con los Municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Gobierno del Estado dispondrá de lo necesario para que la función o servicio público de que se trate se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de noventa días contados a partir de la correspondiente solicitud.
+
+En tanto se realiza la transferencia a que se refiere el párrafo anterior, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+###### ARTÍCULO CUARTO.
+
+El Estado y los Municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado, en coordinación con los Municipios respectivos, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los Municipios de proporcionalidad y equidad.
+
+###### ARTÍCULO SEXTO.
+
+En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
