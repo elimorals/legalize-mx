@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-archivo-general-de-la-nacion-25911"
 country: "mx"
 rank: "reglamento"
 publication_date: "1920-10-02"
-last_updated: "1920-10-02"
+last_updated: "1946-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25911&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1920-09-21"
 
 REGLAMENTO DEL ARCHIVO GENERAL DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DE LA NACION, PUBLICADO EN EL D.O.F. DE 13 DE ABRIL DE 1946, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO
 
 Reglamento publicado en el Diario Oficial de la Federación, el 2 de octubre de 1920.
 
@@ -224,3 +226,11 @@ Este Reglamento empezará a regir en la fecha de su publicación, y anula todas 
 Sufragio Efectivo. No Reelección.- México, 21 de septiembre de 1920.
 
 El Subsecretario, Encargado del Despacho de Gobernación, J. I. Lugo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE ABRIL DE 1946.
+
+###### ARTICULO 1°.
+
+ESTE REGLAMENTO EMPEZARA A REGIR DESDE LA FECHA DE SU PUBLICACION EN EL DIARIO OFICIAL Y DEROGA EL DE 21 DE SEPTIEMBRE DE 1920.
