@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1996-09-20"
+last_updated: "1997-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -11153,29 +11153,29 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 2191.
 
-La enajenación de Bienes Inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 6,500 el importe del salario mínimo diario vigente en el Estado de Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz o Registro Público de la Propiedad.
+La enajenación de Bienes Inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 13,000 el importe del salario mínimo diario vigente en el Estado de Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz, Registro Público de la Propiedad o Catastro Municipal.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
-
-Los contratos por los que el Gobierno del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por un valor de cuatro veces el salario mínimo general elevado al año en Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
+Los contratos por los que el Gobierno del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por el valor de 13,000 salarios mínimos general en Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
 
 ###### ARTICULO 2192.
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el Párrafo Segundo del artículo 1721.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 2193.
 
-De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
+De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público, quien lo inscribirá en los términos de la Fracción III, del Artículo 2878 de este Código, siempre y cuando se acompañe dictamen de perito valuador legalmente autorizado.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 2194.
 
-Si el valor del inmueble excede de cuatro veces el salario mínimo general elevado al año en Baja California, su venta se hará en escritura pública, salvo lo dispuesto por el Artículo 2121.
+Si el valor del inmueble excede de 13,000 salarios mínimos general en Baja California, su venta se hará en escritura pública, salvo lo dispuesto por el Artículo 2121 de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -15062,3 +15062,17 @@ P.O. 20 DE SEPTIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 Esta Reforma entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 3 DE ENERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones de este Decreto regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto deroga cualquier disposición legal que se oponga y contravenga al contenido del mismo.
