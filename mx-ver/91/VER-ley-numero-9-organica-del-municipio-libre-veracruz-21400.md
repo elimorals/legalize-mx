@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2004-11-04"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2009,6 +2009,8 @@ Las facultades para ejecutar las sanciones que esta Ley prevé, prescribirán en
 
 ### CAPÍTULO I
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 165.
 
 Los Ediles y los servidores públicos municipales que hayan de intervenir en algún acto de procedimiento, podrán excusarse o ser recusados por algunas de las causas de impedimento que señale el Código de Procedimientos Administrativos para el Estado; los Diputados, para los mismos efectos, lo harán de conformidad con lo señalado por la Ley Orgánica del Poder Judicial del Estado.
@@ -2051,7 +2053,7 @@ El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Mu
 
 ###### Artículo 171.
 
-Los Ayuntamientos, el Congreso del Estado y el Instituto Electoral Veracruzano serán corresponsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes municipales.
+Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes municipales.
 
 ###### Artículo 172.
 
@@ -2071,7 +2073,9 @@ El Presidente Municipal, en sesión de Cabildo, tomará la protesta a los Agente
 
 En caso de renuncia, licencia, faltas temporales o definitivas de los Agentes y Subagentes se estará, en lo conducente, a lo dispuesto por esta ley para el caso de los Ediles.
 
-La Sala Electoral del Tribunal Superior de Justicia del Estado, resolverá todos los casos de impedimentos por los cuales no pudieran desempeñar el cargo la persona o personas electas.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+El Congreso del Estado o la Diputación Permanente resolverá todos los casos de impedimentos por los cuales no pudieren desempeñar el cargo la persona o personas electas.
 
 ###### Artículo 173.
 
@@ -2081,19 +2085,27 @@ La convocatoria para la elección de Agentes y Subagentes municipales deberá se
 
 Los procedimientos de elección de los Agentes y Subagentes municipales se sujetarán a las siguientes bases:
 
-I. Los Ayuntamientos serán corresponsables con el Congreso del Estado y el Instituto Electoral Veracruzano en la preparación desarrollo y vigilancia del procedimiento de elección de los Agentes y Subagentes municipales;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+I. Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes municipales;
 
 II. El Congreso del Estado sancionará y aprobará los procedimientos de elección de los Agentes y Subagentes municipales señalados en la convocatoria que al efecto expidan los Ayuntamientos;
 
-III. La Sala Electoral del Tribunal Superior de Justicia del Estado resolverá sobre aquellas circunstancias que sean motivo de impugnación respecto al resultado en la aplicación de los procedimientos de elección o por motivo de inelegibilidad de los candidatos, por los que no pudiera desempeñar su cargo algún agente o subagente municipal;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+III. El Congreso o, en su caso, la Diputación Permanente resolverá sobre aquellas circunstancias que sean motivo de impugnación respecto al resultado en la aplicación de los procedimientos de elección o por motivo de inelegibilidad de los candidatos, por los que no pudiera desempeñar su cargo algún agente o subagente municipal;
 
 IV. Los Ayuntamientos, dentro de un plazo no mayor de veinte días contados a partir de su instalación, deberán celebrar la sesión de cabildo para aprobar los procedimientos de elección que se aplicarán en la elección de Agentes y Subagentes municipales en cada una de las congregaciones y comunidades que integren su territorio, así como la convocatoria respectiva, la que deberán remitir al Congreso del Estado, dentro de un plazo no mayor a las 48 horas siguientes a la celebración de la sesión de cabildo;
 
 V. Aprobada la convocatoria por el Congreso del Estado, se devolverá a los Ayuntamientos, con las modificaciones que hubiesen procedido, en su caso, para su publicación en términos de lo que previene el artículo anterior;
 
-VI. Dentro de los tres días siguientes a la publicación de la convocatoria, el Ayuntamiento, el Congreso del Estado o la Diputación Permanente y el Instituto Electoral Veracruzano, designarán a los integrantes de la Junta Municipal Electoral que será el órgano responsable de la aplicación de los procedimientos de elección, dentro de sus respectivos municipios, conforme a lo dispuesto en esta ley y demás disposiciones relativas. El representante del Ayuntamiento fungirá como Presidente de la Junta; el representante del Congreso del Estado, como Secretario; y el representante del Instituto Electoral Veracruzano como vocal; todos ellos tendrán voz y voto;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
-VII. Para garantizar la legalidad de los actos, resultados y resoluciones en las diferentes instancias en la aplicación de los procedimientos de elección de los Agentes y Subagentes municipales, se establece como única vía jurisdiccional, el recurso de apelación que resolverá la Sala Electoral del Tribunal Superior de Justicia del Estado.
+VI. Dentro de los tres días siguientes a la publicación de la convocatoria, el Ayuntamiento, y el Congreso del Estado o la Diputación Permanente, designarán a los integrantes de la Junta Municipal Electoral que será el órgano responsable de la aplicación de los procedimientos de elección, dentro de sus respectivos municipios, conforme a lo dispuesto en esta ley y demás disposiciones relativas. El representante del Ayuntamiento fungirá como Presidente de la Junta; el representante del Congreso del Estado, como Secretario; y el Vocal de Control y Vigilancia del Consejo de Desarrollo Municipal, como Vocal; todos ellos tendrán voz y voto; y
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+VII. Las inconformidades que se presenten durante el proceso de elección de agentes y subagentes municipales serán resueltas en definitiva por el Congreso del Estado o la Diputación Permanente.
 
 ###### Artículo 175.
 
@@ -2103,7 +2115,9 @@ I. Vigilar la observancia de esta Ley y demás disposiciones aplicables;
 
 II. Intervenir dentro de sus respectivas municipalidades, en la preparación desarrollo y vigilancia del proceso electoral;
 
-III. Cumplir con los acuerdos que tomen el Congreso del Estado o la Diputación Permanente, el Instituto Electoral Veracruzano y los Ayuntamientos;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+III. Cumplir con los acuerdos que tomen el Congreso del Estado o la Diputación Permanente y los Ayuntamientos;
 
 IV. Publicar en sus respectivas municipalidades la lista que contenga la ubicación e integración de las mesas directivas de casillas;
 
@@ -2113,7 +2127,9 @@ VI. Designar a los integrantes de las mesas directivas de casillas;
 
 VII. Nombrar a los auxiliares que sean necesarios para el ejercicio de sus funciones;
 
-VIII. Recibir del Instituto Electoral Veracruzano, las boletas, documentación, útiles y material de papelería necesarios para la elección;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+VIII. Solicitar al Instituto Electoral Veracruzano, las listas nominales necesarias para la elección;
 
 IX. Entregar a los presidentes de las mesas directivas de casilla, las boletas, documentación, material de papelería y útiles necesarios para la elección;
 
@@ -2133,7 +2149,9 @@ a) Vigilar el cumplimiento de las disposiciones legales aplicables al proceso de
 
 b) Convocar y presidir las reuniones de la Junta Municipal Electoral;
 
-c) Remitir los informes que le sean solicitados por el Ayuntamiento, el Congreso del Estado y el Instituto Electoral Veracruzano;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+c) Remitir los informes que le sean solicitados por el Ayuntamiento y el Congreso del Estado o la Diputación Permanente;
 
 d) Presentar a la Junta Municipal Electoral el proyecto de ubicación e integración de las mesas de casillas; y
 
@@ -2159,9 +2177,9 @@ a) Auxiliar a la Junta y al Presidente en el cumplimiento de sus atribuciones;
 
 b) Asistir a todas las reuniones de la Junta;
 
-c) Coordinar la capacitación a los funcionarios de las mesas directivas de casilla, cuando el procedimiento a aplicar sea de voto secreto, y a los representantes de la Junta en los casos de aplicación del procedimiento de Consulta Ciudadana;
+c) (DEROGADO, G.O. 31 DE DICIEMBRE DE 2004)
 
-d) Representar al Instituto Electoral Veracruzano en el Proceso Electoral; y
+d) (DEROGADO, G.O. 31 DE DICIEMBRE DE 2004)
 
 e) Las demás que le sean conferidas por la Junta y esta Ley.
 
@@ -2169,7 +2187,9 @@ e) Las demás que le sean conferidas por la Junta y esta Ley.
 
 Cuando los procedimientos a aplicarse sean la auscultación o la consulta ciudadana, se deberá observar lo siguiente:
 
-I. En el caso de la auscultación y no habiendo oposición determinante, la Junta Municipal Electoral correspondiente levantará las actas circunstanciadas respectivas, así como el informe sobre la situación que prevalezca en la congregación o comunidad, enviándolo al Ayuntamiento para la calificación respectiva y la expedición de las constancias a quienes hayan resultado electos y, en su caso, a la Sala Electoral del Tribunal Superior de Justicia del Estado para que se resuelva en definitiva;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+I. En el caso de la auscultación y no habiendo oposición determinante, la Junta Municipal Electoral correspondiente levantará las actas circunstanciadas respectivas, así como el informe sobre la situación que prevalezca en la congregación o comunidad, enviándolo al Ayuntamiento para la calificación respectiva y la expedición de las constancias a quienes hayan resultado electos y, en su caso, al Congreso del Estado para que se resuelva en definitiva;
 
 II. Tratándose de la aplicación de la consulta ciudadana, en la misma convocatoria deberá señalarse fecha, hora y lugar en que habrá de realizarse la reunión de vecinos de la localidad que corresponda, debiéndose nombrar la representación o comisión de la Junta Municipal Electoral, que será la encargada de sancionar el procedimiento. Al término de la consulta ciudadana, se procederá conforme a la fracción anterior.
 
@@ -2177,41 +2197,35 @@ II. Tratándose de la aplicación de la consulta ciudadana, en la misma convocat
 
 Para la aplicación del procedimiento de elección por voto secreto, la Junta Municipal Electoral que corresponda, realizará el desarrollo de la jornada electoral en los plazos que señale la convocatoria respectiva, que en ningún caso podrá ser después del segundo domingo del mes de abril del año de la elección.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 179.
 
-La recepción de la votación, así como el escrutinio y cómputo de la misma, se harán en los términos establecidos en el Código Electoral para el Estado.
+La recepción de la votación, así como el escrutinio y cómputo de la misma, se harán respetando los principios que rigen en materia electoral.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 180.
 
-Una vez realizada la elección, la Junta Municipal Electoral procederá a realizar el cómputo de la elección de cada localidad en que se aplicó el procedimiento de voto secreto, en los términos establecidos en el Código Electoral para el Estado, debiendo realizarlo a más tardar al día siguiente de la conclusión de la jornada electoral.
+Una vez realizada la elección, la Junta Municipal Electoral procederá a realizar el cómputo de la elección de cada localidad en que se aplicó el procedimiento de voto secreto, debiendo realizarlo a más tardar al día siguiente de la conclusión de la jornada electoral.
 
-Concluido el cómputo integrará el expediente respectivo, acompañando en su caso, los recursos interpuestos, remitiéndolos al Ayuntamiento que corresponda para que declare la validez de la elección y expida las constancias de mayoría, entregándolas a los candidatos que resulten electos y en su caso, remita a la Sala Electoral del Tribunal Superior de Justicia para su resolución.
+Concluido el cómputo integrará el expediente respectivo, acompañando en su caso, los recursos interpuestos, remitiéndolos al Ayuntamiento que corresponda para que declare la validez de la elección y expida las constancias de mayoría, entregándolas a los candidatos que resulten electos y en su caso, remita al Congreso del Estado para su resolución.
 
 ###### Artículo 181.
 
-El Instituto Electoral Veracruzano será responsable de proporcionar a las Juntas Municipales Electorales:
-
-I. Listas nominales de electores para la elección;
-
-II. Formatos de la documentación electoral a utilizarse;
-
-III. Las boletas electorales;
-
-IV. Las urnas y mamparas;
-
-V. El material de papelería y tinta indeleble a utilizarse; y
-
-VI. La capacitación electoral a los funcionarios de las Juntas Municipales Electorales y de las mesas directivas de casilla.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2004)
 
 ###### Artículo 182.
 
-De conformidad con lo previsto por la Ley Orgánica del Poder Judicial del Estado, la Sala Electoral del Tribunal Superior de Justicia, será la competente para substanciar y resolver, en forma definitiva los recursos que se presenten en la elección de Agentes y Subagentes municipales.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2004)
 
-###### Articulo 183.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
-El medio de impugnación deberá presentarse dentro de los cuatro días siguientes, a partir del momento que concluya la elección que se combate o el cómputo respectivo, término que deberá señalarse en la convocatoria emitida por el Ayuntamiento.
+###### Artículo 183.
 
-Transcurrido este plazo, si se recibiera alguna impugnación, ésta será remitida con el expediente relativo durante las 48 horas siguientes, a la Sala Electoral del Tribunal Superior de Justicia.
+Las inconformidades deberán presentarse dentro de los cuatro días siguientes, a partir del momento que concluya la elección o el cómputo respectivo, término que deberá señalarse en la convocatoria emitida por el Ayuntamiento.
+
+Transcurrido este plazo, si se recibiera alguna impugnación, ésta será remitida con el expediente relativo durante las cuarenta y ocho horas siguientes, al Congreso del Estado o Diputación Permanente.
 
 ###### Artículo 184.
 
@@ -2356,3 +2370,9 @@ G.O. 4 DE NOVIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
