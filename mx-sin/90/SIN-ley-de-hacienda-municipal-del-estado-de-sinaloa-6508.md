@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1992-12-31"
+last_updated: "1993-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -805,6 +805,16 @@ Populares o Campestres. 0.01 0.01 0.01
 
 3.- Para Fraccionamientos Industriales. 0.02 0.02 0.01
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+4.- Para fraccionamientos de servicios progresivos,
+
+en los que el valor de la vivienda no exceda de
+
+3,000 veces el salario mínimo general diario
+
+vigente en la zona. Exento Exento Exento
+
 ###### ARTICULO 47.
 
 Es objeto de este impuesto:
@@ -1003,9 +1013,9 @@ Están obligados al pago de este Impuesto, las personas físicas o morales que a
 
 Cuando el bien consistente en la casa habitación de los cónyuges, sea adquirido por herencia o legados, por el cónyuge supérstite o por sus ascendientes o descendientes en línea recta, siempre y cuando la habiten el impuesto se calculará multiplicando la tasa el 25% sobre la base gravable a que se refiere el Artículo 61 de este Capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-Tratándose de adquisición de casa-habitación tipo interés social de nueva construcción, y cuyo valor no exceda de 5,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 32% de la base gravable.
+Tratándose de adquisición de casa-habitación tipo interés social de nueva construcción, cuyo valor no exceda de 3,000 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 10% de la base gravable. En las que el valor sea de 3,001 a 5,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 32% de la base gravable.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 1991)</small>
 
@@ -1181,11 +1191,23 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 1.- SUPERVISION DE FRACCIONAMIENTOS
 
 URBANOS (% SOBRE EL COSTO TOTAL DE
 
-LAS OBRAS DE URBANIZACION). 1% 1% 1%
+LA OBRA URBANIZADA).
+
+1.1. Urbanos. 1% 1% 1%
+
+1.2. De servicios progresivos en los términos de la Ley de
+
+Desarrollo de Centros Poblados, en los que el valor de la
+
+vivienda no exceda de 3,000 veces el salario mínimo general
+
+diario vigente en la zona. 0.5% 0.5% 0.5%
 
 2.- ALINEAMIENTO DE CALLES.
 
@@ -1229,21 +1251,25 @@ habitantes. 0.006 0.005 0.004
 
 6.1. Construcción:
 
-a) Construcciones con valor hasta de 1,000
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-veces el salario mínimo diario de la
+a) Expedición de licencias para construcción
 
-zona. EXENTOS EXENTOS EXENTOS
+con valor de hasta 2,000 veces el salario
+
+mínimo general diario vigente en la
+
+zona. Exentos Exentos Exentos
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
 
-b) Expedición de Licencias para construcción con
+b) Expedición de licencias para construcción
 
-valor de más de 1,000 hasta 3,745 veces el salario
+con valor de 2,001 hasta 3,745 veces el salario
 
-mínimo diario de la zona (porcentaje
+mínimo general diario vigente en la zona
 
-sobre el equivalente en valor). 0.5% 0.5% 0.5%
+(% sobre el equivalente en valor). 0.5% 0.5% 0.5%
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -1464,6 +1490,10 @@ Será objeto de este Derecho, la expedición por parte de los funcionarios o emp
 ###### ARTICULO 84.
 
 Son sujetos de este Derecho, las personas físicas o morales que previa solicitud se les expida certificados o copias de certificados, se les coteje documentos y se les legalice o ratifique firmas.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+No se considerarán sujetos obligados al pago de derechos por concepto de la expedición de certificados de solvencia fiscal, cuando éste sea solicitado para la adquisición de vivienda de interés social de nueva construcción, cuyo valor no exceda de 3,000 veces el salario mínimo general diario vigente en la zona.
 
 ### CAPITULO VIII. EXPEDICION DE PLACAS Y REGISTRO PARA QUIENES SE DEDICAN A LA ACTIVIDAD DE LOCATARIOS DE MERCADOS Y SIMILARES
 
@@ -2411,7 +2441,11 @@ II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para el
 
 III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+EMBARGOS
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO UNICO
 
@@ -2475,7 +2509,7 @@ Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 219.
 
@@ -2617,7 +2651,7 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 160.
 
@@ -2689,7 +2723,7 @@ Cuando sea necesario un cateo, se solicitará la orden respectiva del Juez compe
 
 Los funcionarios y empleados fiscales y los miembros de cuerpos colegiados fiscales, bajo su responsabilidad personal, están obligados a guardar el secreto de la situación económica de los contribuyentes, que haya llegado a su conocimiento en actos del servicio y les está prohibido explotar o aprovechar en cualquier forma sin autorización expresa del interesado, dada por escrito, los secretos profesionales del negocio que en actos del servicio hayan llegado a su conocimiento así como suministrar datos fiscales de los causantes salvo orden judicial o solicitud de los dueños, encargados o representantes de los negocios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 166.
 
@@ -2697,7 +2731,7 @@ Los créditos fiscales nacen en el momento en que se realizan las situaciones ju
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2885,11 +2919,19 @@ III.- Por edictos, únicamente en caso de que la persona a quien deba notificars
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
+ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2914,14 +2956,6 @@ Si la persona a quien haya que notificarse no atendiere el citatorio, la notific
 En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
 
 De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2997,7 +3031,11 @@ Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán
 
 Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+REQUERIMIENTO DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 200.
 
@@ -3031,17 +3069,13 @@ Los escritos y las promociones de los causantes no suspenderán el procedimiento
 
 Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
-
-EMBARGOS
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO IV. DE LOS CREDITOS FISCALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3067,11 +3101,7 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
-
-REMATES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO VII. INFRACCIONES FISCALES Y SANCIONES CORRESPONDIENTES
 
@@ -3301,7 +3331,7 @@ Las tercerías excluyentes de dominio o de preferencia en el pago, se harán val
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3389,7 +3419,7 @@ V.- Aprobado el expediente o corregidas las irregularidades observadas, se proce
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REQUERIMIENTO DE PAGO
+REMATES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3630,3 +3660,9 @@ P.O. 31 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
