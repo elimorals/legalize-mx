@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "1996-07-19"
+last_updated: "1997-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE ENERO DE 1997.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -155,7 +155,7 @@ II.- Las demás corporaciones de carácter público reconocidas por la ley;
 
 III.- Las sociedades civiles o mercantiles;
 
-IV.- Los sindicatos, las asociaciones profesionales y las demás que (sic) se refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Los sindicatos, las asociaciones profesionales y las demás (sic) que se refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V.- Las sociedades cooperativas y mutualistas;
 
@@ -15125,9 +15125,11 @@ Las inscripciones que se practiquen en los registros relativos a bienes muebles 
 
 TRANSITORIOS:
 
+> <small>(REFORMADO, B.O. 17 DE ENERO DE 1997)</small>
+
 ###### ARTICULO PRIMERO.
 
-Este Código entrará en vigor a los seis meses que sigan a la fecha de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+Este Código entrará en vigor el día 15 de Junio de 1997.
 
 ###### ARTICULO SEGUNDO.
 
@@ -15164,3 +15166,9 @@ LIC. GUILLERMO MERCADO ROMERO
 SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 17 DE ENERO DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
