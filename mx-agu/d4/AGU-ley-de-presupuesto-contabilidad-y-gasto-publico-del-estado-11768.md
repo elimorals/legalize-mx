@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "1996-11-10"
+last_updated: "1998-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -309,9 +309,11 @@ A la Contraloría y sus equivalentes en los Municipios, Poder Legislativo y Judi
 
 Los servidores públicos están obligados a proporcionar a dichos órganos de revisión, en el ámbito de su competencia, todos los documentos, datos e informes que les soliciten.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 40.
 
-Durante el mes de enero de cada año, la información contenida en las Cuentas Públicas será publicada en el Periódico Oficial del Estado por la Secretaría o Tesorería Municipal correspondiente. Dentro de los cuarenta y cinco días naturales siguientes contados a partir de la fecha de publicación, el Congreso del Estado deberá emitir el dictamen correspondiente.
+Durante los meses de enero y julio de cada año, la información contenida en las cuentas públicas se publicará en el Periódico Oficial del Estado por la Secretaría o Tesorería Municipal correspondiente. Dentro de los cuarenta y cinco días naturales siguientes contados a partir de la fecha de publicación, el Congreso del Estado deberá emitir el dictamen correspondiente.
 
 ###### ARTICULO 41.
 
@@ -360,3 +362,9 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE AGOSTO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
