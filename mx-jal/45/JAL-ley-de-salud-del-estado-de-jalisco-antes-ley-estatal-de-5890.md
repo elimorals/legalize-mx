@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2001-12-29"
+last_updated: "2002-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1317,9 +1317,9 @@ La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la D
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
-#### SECCION SEGUNDA. Del consejo estatal de trasplantes
+#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
 
 ###### Art. 92.
 
@@ -1443,6 +1443,46 @@ La acción popular podrá ejercitarse por cualquiera persona, bastando para darl
 
 Los aspectos concernientes al control sanitario de la disposición de órganos, tejidos, y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, son regulados conforme a las normas correspondientes contenidas en la Ley General de Salud; el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos; las normas oficiales mexicanas; y de los acuerdos de observancia general que en la materia dicten las autoridades competentes.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2002)</small>
+
+Para los efectos de este Capítulo se entiende por:
+
+I. Pérdida de la vida o muerte cuando:
+
+1. Se presentan los siguientes signos:
+
+a) Ausencia completa y permanente de conciencia;
+
+b) Ausencia permanente de respiración espontánea;
+
+c) Ausencia de los reflejos del tallo cerebral; y
+
+d) Paro cardiaco irreversible;
+
+2. Se presenta la muerte cerebral, cuando existen los siguientes signos:
+
+a) Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+b) Ausencia de automatismo respiratorio; y
+
+c) Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+La muerte cerebral debe corroborarse con la práctica de cualquiera de las siguientes pruebas:
+
+1. Electroencefalogramas que demuestren ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas entre uno y otro.
+
+2. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral;
+
+II. Cadáver: Cuerpo humano que presenta los signos de muerte descritos en la fracción anterior;
+
+III. Diagnóstico de muerte cerebral: Certificación de dos médicos neurólogos tratantes, respecto de la pérdida de la vida de una persona;
+
+IV. Hora de muerte cerebral: Aquella certificada por los médicos neurólogos tratantes del paciente, que practiquen los exámenes correspondientes;
+
+V. Certificado de pérdida de la vida: Es el documentos expedido por los médicos tratantes, que practicaron los exámenes correspondientes en el cuerpo del donante;
+
+VI. Consentimiento para la donación de órganos: Manifestación de la voluntad realizada en los términos que prevé el Código Civil del Estado. De presentarse algún caso de oposición manifiesta entre los familiares del donante, se estará a lo previsto en el último párrafo del artículo 40 del Código Civil del Estado de Jalisco.
+
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 104-B.
@@ -1469,13 +1509,43 @@ II. Promover que las instituciones de salud acreditadas y certificadas legalment
 
 III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coordinación entre las autoridades sanitarias a que se refiere esta Ley.
 
-Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
+Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse, de conformidad con lo siguiente:
+
+Se reconoce a la donación de órganos y tejidos como un proceso que inicia con la detección de un potencial donador y que finaliza con la entrega del cuerpo a la familia.
+
+Dentro de este proceso se pueden presentar dos opciones de tramitación de acuerdo a la causa de la muerte del donante:
+
+I. Sin causa legal.- Cuando la causa de la muerte no esté relacionada con ningún hecho constitutivo de delito, que requiera la intervención del ministerio público, en cuyo caso, se requerirá solamente de un trámite interno por parte de la institución procuradora de salud, dando aviso de la donación y el transplante al Consejo Estatal de Trasplantes de Organos y Tejidos;
+
+II. Con causa legal.- Cuando la causa de la muerte tenga relación directa con un hecho probablemente constitutivo de delito culposo o doloso, se requerirá la intervención de las siguientes instituciones:
+
+Procuraduría General de Justicia del Estado, Secretaría de Salud a través del Consejo Estatal de Trasplantes de Organos y Tejidos, Instituto Jalisciense de Ciencias Forense, Supremo Tribunal de Justicia del Estado y la Institución Procuradora de Salud. La Procuraduría de Justicia del Estado, tendrá intervención únicamente durante la fase de integración de la averiguación previa hasta antes del ejercicio de la acción penal. El Supremo Tribunal de Justicia del Estado, conocerá en aquellos casos en que la averiguación previa ya le ha sido consignada.
+
+En este caso debe observarse lo siguiente:
+
+a) El Consejo Estatal de Trasplantes de Organos y Tejidos, deberá notificar tanto al ministerio público, como al perito médico adscrito al servicio médico forense encargado de la Coordinación para la dictaminación de procedencia legal para transplante de órganos y tejidos, de la existencia de un posible donante, posterior al resultado del segundo electroencefalograma que demuestre la ausencia de actividad eléctrica cerebral, en los términos del artículo 119 de esta Ley.
+
+Deberá ordenarse además, la práctica del examen toxicológico correspondiente, que descarte que los signos de muerte cerebral hayan sido producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+
+b) El agente del ministerio público, practicará la correspondiente fe ministerial del estado clínico del posible donador y del lugar donde éste se encuentre. De igual manera, recabará la autorización de los disponentes secundarios en los términos del artículo 40 del Código Civil del Estado, quienes acreditarán el parentesco con los medios legales idóneos, así como el certificado de pérdida de la vida, expedido por los médicos neurólogos que hayan practicado los exámenes correspondientes y la declaración de la trabajadora social que intervenga en el caso.
+
+Asimismo, se allegará del dictamen pericial que al respecto le rinda el perito adscrito al Servicio Médico Forense, para efectos de corroborar la muerte cerebral del posible donador y de la autorización que por escrito deberá emitir la Secretaría de Salud del Estado, por conducto de su representante legal.
+
+Hecho lo anterior, el Agente del Ministerio Público deberá informar de inmediato al Procurador General de Justicia del Estado, quien emitirá su conformidad con la donación, haciéndolo del conocimiento del Consejo Estatal de Trasplantes de Organos y Tejidos en quien recaerá la autorización definitiva para la disposición de órganos y tejidos, observando lo dispuesto por el artículo 40 del Código Civil del Estado.
+
+Realizada la disposición de órganos del donante, deberá remitirse el cadáver al Servicio Médico Forense para la práctica de la autopsia correspondiente, debiéndose acompañar el certificado de la pérdida de la vida del que se tomará la hora de su expedición, para efectos de que se asiente la hora de la muerte y ésta a su vez constará en el acta de defunción.
+
+En los casos en que el donante pertenezca a otra entidad federativa, el trámite correspondiente deberá hacerse ante las autoridades de aquel Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ENERO DE 2002)</small>
 
 ###### Art. 104-E.
 
-El Consejo Estatal de Trasplantes, es el organismo público descentralizado del Poder Ejecutivo del Estado, que tiene a su cargo apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas, en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como decidir y vigilar la asignación de órganos y tejidos en los términos que determina la legislación aplicable.
+El Consejo Estatal de Trasplantes de Organos y Tejidos, es el organismo público descentralizado del Poder Ejecutivo del Estado, que tiene a su cargo apoyar, coordinar, promover, consolidar e implementar las diversas acciones y programas, en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como decidir y vigilar la asignación de órganos y tejidos en los términos que determina la legislación aplicable.
+
+Para los efectos de esta Ley se entenderá por Consejo o Consejo Estatal de Trasplantes, al Consejo Estatal de Trasplantes de Organos y Tejidos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1527,9 +1597,9 @@ X. El Director Regional Occidente del Instituto Mexicano del Seguro Social, como
 
 XI. El Delegado del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, como "vocal"; y
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-XII. El Presidente de la Asociación de Hospitales Particulares de la Entidad, como "vocal".
+XII. El Presidente de la Asociación de Hospitales Particulares de Jalisco A.C., como "vocal".
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1579,9 +1649,9 @@ IV. Proporcionar información y colaborar con las acciones del Registro Nacional
 
 V. Dictar medidas y lineamientos generales, para una mejor operación, al Registro Estatal de Donadores del Estado de Jalisco; y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos en el Código Civil para el Estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-VI. Llevar el Registro de Receptores o sujetos susceptibles a trasplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud integrantes del propio Consejo proporcionen e inscriban;
+VI. Llevar el registro de receptores o sujetos susceptible a transplante, que se integrará en forma sistemática y cronológica de acuerdo con su presentación, con los casos que obligadamente, cada una de las instituciones de salud proporcionen e inscriban;
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
@@ -1607,9 +1677,9 @@ XI. Promover y coordinar la colaboración y la complementación de acciones, ent
 
 XII. Promover y coordinar la participación de los sectores social y privado, en acciones de apoyo en la materia, para lo cual principalmente impulsará la constitución de un patronato que allegue recursos financieros y materiales; así como invitar, cuando lo estime conveniente, a representantes de instituciones sociales, privadas y públicas, en calidad de vocales invitados, a participar en las sesiones del Consejo, a las cuales ocurrirán con voz pero sin voto;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-XIII. Presentar por conducto de su Presidente, durante el primer bimestre de cada año, un informe sobre lo realizado por el organismo, así como sobre los avances en cuanto a transplante de órganos y tejidos de seres humanos con fines terapéuticos;
+XIII. Presentar por conducto del Presidente Ejecutivo durante el primer bimestre de cada año, un informe sobre lo realizado por el organismo, así como sobre los avances en cuanto a trasplante de órganos y tejidos de seres humanos con fines terapéuticos;
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
 
@@ -1627,21 +1697,21 @@ XVI. Diseñar el sistema logístico e informático, que permita la operación ef
 
 XVII. Solicitar al Registro Estatal de Donadores, en forma quincenal, un informe respecto del número de donadores inscritos, así como de los casos de personas en que por voluntad propia o determinación médica, queden fuera del propio registro;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-XVIII. Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos;
+XVIII. Coadyuvar para prevenir el tráfico ilegal de órganos y tejidos, implementando una lista bimestral en la que se contengan el informe de las donaciones verificadas durante este lapso, debidamente relacionada con el movimiento que observe el registro de receptores, incluyendo el número de cédula de su registro, el lugar progresivo asignado y fecha de incorporación al sistema, así como los demás datos que sirvan para localizar a los donadores como a los receptores de los órganos, a fin de dar seguimiento al trámite respectivo y estar en posibilidad de evaluar el programa;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-XIX. Aprobar su reglamento interior; y
+XIX. Autorizar la disposición de órganos y tejidos con fines terapéuticos, de personas fallecidas, en caso de no contarse con ninguno de los familiares previstos por el numeral 40 del Código Civil del Estado;
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-XX. Decidir y vigilar la asignación de órganos y tejidos en los términos de la legislación aplicable, y
+XX. Aprobar su reglamento interior; y
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2002)</small>
 
-XXI. Las demás que le señale su reglamento y las demás disposiciones jurídicas conducentes.
+XXI. Las demás que le señale su reglamento.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3374,3 +3444,7 @@ Séptimo.- Los asuntos que correspondan y que se estén tramitando en la Subsecr
 Octavo.- Aquellas funciones que legalmente le han sido atribuidas a la Subsecretaría de Participación Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría de Desarrollo Humano, previo acuerdo con la Secretaría General de Gobierno.
 
 Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría de Desarrollo Humano en un plazo no mayor de noventa días.
+
+P.O. 15 DE ENERO DE 2002.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
