@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-en-el-estado-de-colima-4435"
 country: "mx"
 rank: "ley"
 publication_date: "1964-12-26"
-last_updated: "1964-12-26"
+last_updated: "1974-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROFESIONES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1974.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1964.
 
@@ -397,6 +397,20 @@ Se exceptúan también de las sanciones que impone este capítulo, a las demás 
 
 Se concede acción pública para denunciar a los individuos que sin título legalmente expedido y debidamente registrado, ejerzan cualesquiera de las profesiones, señaladas en el artículo 1o. de esta Ley.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1974)</small>
+
+###### Art. 50.
+
+El Ejecutivo del Estado podrá celebrar convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el Registro Profesional entre esta Entidad y el Distrito y Territorios Federales, de acuerdo con las siguientes bases:
+
+I.- Instituir un sólo servicio de Registro de Títulos Profesionales y grados académicos para la expedición de Cédulas Personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales.
+
+II.- Reconocer para el Ejercicio Profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública.
+
+III.- Intercambiar la información que se requiera; y
+
+IV.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
+
 TRANSITORIOS:
 
 ###### Art. 1o.
@@ -476,3 +490,11 @@ El Gobernador Constitucional del Estado, dispondrá se publique, circule y obser
 Salón de Sesiones del H. Congreso del Estado.- Colima, Col., a 26 de Diciembre de 1964.- Diputado Presidente, Enrique Bayardo López.- Diputado Secretario, Ingeniero Othón Bustos Solórzano.- Diputado Secretario, Lic. Abel López Llerenas.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y observe.- Palacio de Gobierno, Colima, Col., Diciembre 26 de 1964.- El Gobernador Constitucional del Estado, Lic. Francisco Velasco Curiel.- Rúbrica.- El Secretario Gral. de Gobierno, Lic. Julio Santa Ana E.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE JUNIO DE 1974.
+
+PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Mientras no se dé por terminado el convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, quedan derogadas las disposiciones de la Ley de Profesiones del Estado que se opongan al cumplimiento del presente decreto.
