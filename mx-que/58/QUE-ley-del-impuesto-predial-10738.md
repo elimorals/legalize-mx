@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1990-01-04"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1990
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -131,9 +131,13 @@ En el caso de matrimonio celebrado bajo el régimen de Sociedad Conyugal, los pr
 
 ### CAPITULO II. DE LA BASE Y LA TARIFA
 
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 11.
 
-La base del Impuesto que establece la Ley será el valor catastral determinado al primero de Enero de cada tres años. Este valor consistirá en el 20% del valor comercial, etendiendo éste como el valor que el predio tuviera en el supuesto de que fuera objeto de una libre operación onerosa.
+La base del Impuesto que establece la Ley será el valor catastral determinado al primero de Enero de cada año previa autorización de los Municipios. Este valor consistirá en el valor comercial, etendiendo éste como el valor que el predio tuviera en el supuesto de que fuera objeto de una libre operación onerosa.
+
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 12.
 
@@ -141,7 +145,7 @@ En los casos de predios objeto de esta Ley, el valor comercial será declarado p
 
 En caso de que el contribuyente opte porque el avalúo sea practicado por perito valuador, se observará lo siguiente:
 
-a) En el mes de enero de cada tres años, dará aviso a la autoridad competente sobre la opción, manifestando el valuador designado, en la inteligencia de que la práctica del avalúo es a su costa;
+a) En el mes de enero de año, dará aviso a la autoridad competente sobre la opción, manifestando el valuador designado, en la inteligencia de que la práctica del avalúo es a su costa;
 
 b) El avalúo debe ser practicado a más tardar en el mes de Febrero, declarándose el valor resultante dentro del mismo plazo establecido para el pago del Impuesto por el primer bimestre.
 
@@ -165,9 +169,11 @@ Para los efectos de esta Ley, el año de calendario se divide en los siguientes 
 
 El pago del Impuesto deberá hacerse en efectivo en las oficinas Recaudadoras Municipales o en las que autorice la Autoridad Competente. El pago se hará por bimestres vencidos, a más tardar el día 15 de los meses de Marzo, Julio, Septiembre, Noviembre y Enero, salvo que durante dicho plazo se pretenda enajenar el predio o transmitir su posesión, caso en el cual se hará anticipadamente a más tardar en la fecha de enajenación o transmisión de la posesión.
 
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 17.
 
-El pago del Impuesto Predial podrá hacerse por anualidad anticipada, dentro del primer bimestre de cada año, caso en el que el contribuyente tendrá derecho a una reducción del 20% sobre la cantidad total que le correspondiera pagar.
+El pago del Impuesto Predial podrá hacerse por anualidad anticipada, dentro del primer bimestre de cada año, caso en el que el contribuyente tendrá derecho a una reducción del 15% sobre la cantidad total que le correspondiera pagar.
 
 Cuando se haga el pago en los términos del párrafo anterior, no se aplicará durante el año receptivo lo dispuesto en la fracción II del Artículo 19 de esta Ley.
 
@@ -175,17 +181,21 @@ En los demás casos en que proceda el cambio del valor base del impuesto de un p
 
 En los casos de fusión de predios, cuando se haya hecho el pago anual anticipado, respecto de todos los predios fusionados, no se cobrará diferencia alguna durante el resto del año de calendario en que ocurra la fusión. Cuando se haya hecho el pago anual cuando menos por uno de los predios fusionados, el Impuesto se seguirá pagando por el resto del año, individualmente por cada uno de los restantes predios.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 18.
 
-A la base del impuesto objeto de la presente Ley se aplicará la siguiente tarifa anual:
+Al valor catastral objeto de esta Ley, se aplicará la Tarifa Anual que se indica a continuación.
 
-I.- Predio Rústico 6 al Millar
+I.- Predio Rústico 1.2 AL MILLAR
 
-II.- Predio Urbano 8 al Millar
+II.- Predio Urbano 1.6 AL MILLAR
 
-> <small>(REFORMADA, P.O. 04 DE ENERO DE 1990)</small>
+III.- Predio Baldío 8 AL MILLAR
 
-III.- Predios Baldíos 40 al Millar
+IV.- Predio de Fraccionamiento en 1.6 AL MILLAR
+
+proceso de Ejecución
 
 ###### ARTÍCULO 19.
 
@@ -199,33 +209,35 @@ II.- Cuando se realicen demoliciones o se causen destrucción o daños a las con
 
 En los casos de las Fracciones I y II del Artículo 19 de este ordenamiento, el nuevo valor comercial será declarado por el contribuyente y será aplicable a partir del bimestre en que se concluyan o realicen los hechos de que se trate.
 
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 21.
 
-Cuando se otorgue autorización para el fraccionamiento de un predio, se observarán para efectos de este Impuesto las siguientes disposiciones:
+Cuando se otorgue autorización para el fraccionamiento de un predio, los términos de los artículos 99, 100, 140, 142, 143, 144, 147 y 148 del código urbano para el Estado de Querétaro se observarán las siguientes disposiciones se observarán para efectos de este Impuesto las siguientes disposiciones:
 
-I.- Se entiende por fraccionamiento, la división de un terreno en lotes, destinándose parte de la superficie de la misma, para vías públicas de tránsito, que se donen al Municipio, o bien, cuando se divida un terreno en lotes y se establezcan en el mismo, áreas reservadas para dos o más de cualquiera de los usos siguientes: Habitación, Escuelas, Recreación, Comercio, Industria, u Oficinas de Servicios.
+I.- A partir del bimestre siguiente a la licencia para ejecución de obras, el valor catastral del predio objeto de la autorización se determinará como sigue:
 
-II.- A partir del bimestre siguiente en el que se otorgue la autorización. El valor del predio base del impuesto se determinará como sigue:
+a).- El valor unitario por m2, se obtendrá considerando el las condiciones físicas en las que se encuentre el terreno y se aplicará a la superficie vendible en el momento de la autorización aún cuando no constituya una sola unidad topográfica
 
-a).- El valor del predio, vigente para efectos de este impuesto en el bimestre en que se otorgue la autorización, se dividirá entre el número de metros cuadrados vendibles del predio, para obtener el valor del metro cuadrado aplicable a los siguientes incisos.
+b).- El valor así determinado, acusará efecto a partir del próximo bimestre de aquel en que se emita la licencia, y tendrá vigencia por ejercicio fiscal que le corresponda. Dicho valor se realizará en los términos de esta Ley
 
-b).- Se restará también, en su caso, el valor de los metros cuadrados de los lotes cuya propiedad o posesión haya sido transmitida.
+c).- Las áreas reservadas como donación, no formarán parte del avalúo del predio
 
-c).- Cuando se realicen construcciones en los lotes cuya propiedad o posesión vaya hacer transmitida, al valor del predio determinado conforme a los incisos anteriores, se sumará el valor de las construcciones terminadas.
+d).- Cuando se realiza construcción en los lotes cuya propiedad o posesión vaya a ser transmitida a particulares, al valor determinado, conforme a los incisos anteriores, se sumará al valor de las edificaciones terminadas o en proceso.
 
-d).- Al valor así determinado, se aplicará la tarifa que establece la Ley.
+e) Obtenido el valor se aplicará la tarifa establecida en el articulo 18.
 
-III.- Por los lotes cuya propiedad o posesión haya sido transmitida, se causará y apagará el impuesto de conformidad a las demás disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 22.
 
 En los casos de predios en los que se realicen construcciones o edificaciones destinadas al régimen de propiedad en condominio, serán aplicables para efectos de este impuesto las siguientes reglas:
 
-I.- Durante el tiempo de realización de las construcciones o edificaciones, el Impuesto continuará causándose sobre el valor base vigente en el momento de otorgarse la licencia de construcción.
+I.- Durante el ejercicio fiscal en que se autoriza la Licencia de construcción, el impuesto continuará causándose sobre el valor base vigente en el momento. Dicho valor se actualizará en los términos de esta ley.
 
-II.- A partir del bimestre siguiente en que se terminen cada una de las unidades en condominio, el contribuyente declarará el valor comercial de cada una de ellas y se determinará el valor base del Impuesto conforme a las disposiciones de esta Ley.
+II.- A partir del bimestre siguiente en que se terminen las unidades en condominio se determinará el valor según el procedimiento establecido en esta Ley.
 
-III.- Por las unidades cuya propiedad o posesión haya sido transmitida, el impuesto se causará y determinará conforme a las demás disposiciones de esta Ley.
+III.- Por las unidades cuya propiedad o posesión haya sido transmitida, el impuesto se determinará conforme a las demás disposiciones de esta Ley.
 
 ###### ARTÍCULO 23.
 
@@ -247,7 +259,9 @@ Cuando un predio se encuentre ubicado, parte en el territorio del Estado y parte
 
 Los sujetos de este Impuesto, además de otras obligaciones establecidas en esta Ley, tendrá las siguientes:
 
-I.- Declarar el valor de los predios que sean propietarios o poseedores, en los términos del Artículo 11º de esta Ley, en el mes de Enero de cada tres años.
+> <small>(REFORMADA, P.O. 31 DICIEMBRE DE 1992)</small>
+
+I.- Declarar el valor de los predios que sean propietarios o poseedores, en los términos del Artículo 11º de esta Ley, en el mes de Enero de cada año.
 
 II.- Declarar el valor del predio, cuando se den las hipótesis de las Fracciones I y II del Artículo 19 de esta Ley a más tardar el día quince del mes siguiente al bimestre en que sea ya aplicable el nuevo valor como base del Impuesto.
 
@@ -375,31 +389,11 @@ XI.- No cumplir con los requerimientos de las Autoridades.
 
 XII.- No citar el número de cuenta del predio en los avisos o declaraciones o citarlo incorrectamente.
 
+> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 38.
 
-Por las fracciones a que se refiere el artículo anterior, se impondrán las siguientes sanciones:
-
-I.- Multa de dos días de salario mínimo diario, por la omisión de inscripción en el Padrón Predial.
-
-II.- Multa de dos días de salario mínimo diario, por la infracción a que se refiere la fracción IV del Artículo anterior.
-
-III.- Multa de medio día de salario mínimo diario, por la omisión de datos en los avisos y declaraciones que estas requieran.
-
-IV.- Multa de dos días de salario mínimo diario, por la omisión de formulación de avisos de transmisión de propiedad o posesión.
-
-V.- Multa de un día de salario mínimo diario, por la formulación extemporánea de avisos de transmisión de propiedad o posesión.
-
-VI.- Multa de medio día de salario mínimo diario, por la omisión de formulación de aviso de cambio de domicilio.
-
-VII.- Multa equivalente a un tanto del Impuesto omitido, por la falta de declaración de cambio de valor del predio.
-
-VIII.- Multa de medio día de salario mínimo diario, por la omisión de manifestación de designación de representante común a que se refiere la fracción X del Artículo anterior.
-
-IX.- Multa de dos días de salario mínimo diario, por el incumplimiento al requerimiento de la Autoridad.
-
-X.- Multa de un día de salario mínimo diario, por no citar el número de cuenta del predio en los avisos o declaraciones o citarlo incorrectamente.
-
-Para los efectos de este artículo, se entiende por salario mínimo diario, el vigente el Primero de Enero del Año en que se cometió la infracción.
+Por las infracciones a que se refiere el artículo 37 de esta Ley , se impondrán las sanciones que establece el Código fiscal del Estado.
 
 ### CAPITULO V. DE LAS DISPOSICIONES GENERALES
 
@@ -492,3 +486,13 @@ P.O. 04 DE ENERO DE 1990
 ARTICULO PRIMERO La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga"
 
 ARTICULO SEGUNDO Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 31 DE DICIEMBRE DE 1992
+
+PRIMERO Esta ley entrará en vigor a partir del día primero de enero de mil novecientos noventa y tres, debiéndose desarrollar los sistemas y mecanismos administrativos necesarios.
+
+SEGUNDO Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+TERCERO Para la administración de las contribuciones, subsisten todos los convenios celebrados entre el estado y los Municipios, salvo que se pactare casa distinta.
+
+CUARTO Solo y exclusivamente para el ejercicio fiscal de los años de 1993 y 1994, se concede un estimulo fiscal consistente en la reducción del cincuenta por ciento al monto total del impuesto predial; a favor de los propietarios de los inmuebles que acrediten a) Mediante la licencia de construcción, haberlos destinado para destinarlo ex profeso a viviendas para arrendamiento; b) Con el contrato de arrendamiento debidamente registrado para efectos fiscales, que están afectados a ese destino; c) que el inmueble pueda clasificarse como vivienda de interés social o popular, entendiéndose por estos, aquellos cuyos valores totales, no excedan para el primer caso, de quince veces el salario mínimo general vigente elevado al año, y para el segundo, de veinticinco veces el salario mínimo elevado en el año.
