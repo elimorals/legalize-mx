@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1989-04-06"
+last_updated: "1992-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1397,15 +1397,13 @@ Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son au
 
 El Estado de Durango tiene como base de su división territorial y de su organización política y administrativa el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 104.
 
-Cada Municipio será administrado por un Ayuntamiento electo popular y directamente, que se renovará totalmente cada tres años, en los términos que dispone la Ley Electoral del Estado y no habrá ninguna autoridad intermedia entre los titulares de los Poderes del Estado y los Ayuntamientos.
+Cada Municipio será administrado por un Ayuntamiento electo popular y directamente que se renovará cada tres años en los términos que dispone la Legislación Estatal Electoral del Estado de Durango y no habrá ninguna autoridad intermedia entre los titulares de los Poderes del Estado y los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1984)</small>
-
-Los Presidentes Municipales, Síndicos y Regidores de Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias en esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Síndicos y Regidores no podrán ocupar el mismo cargo en el periodo inmediato. Sin embargo quienes hayan desempeñado el cargo de Regidor podrán ser electos como Presidente Municipal o Síndico y los que hayan desempeñado el cargo de Síndico podrán ser electos para el cargo de Regidor o Presidente Municipal para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias en esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplente, para el mismo cargo; pero los que tengan el carácter de suplente sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -2050,3 +2048,17 @@ P.O. 6 DE ABRIL DE 1989.
 PRIMERO.- El presente Decreto entrará en vigor (3) tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 19 DE MARZO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las leyes que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Una vez que las presentes reformas constitucionales hayan sido aprobadas por las dos terceras partes del H. Congreso del Estado de Durango, envíese copia del Acuerdo correspondiente a los HH. Ayuntamientos integrantes de nuestro Estado para su aprobación; una vez recibidas las aprobaciones de los Ayuntamientos, efectúese el cómputo especificado en la fracción II del Artículo 130 de nuestra Constitución Política Local y si del cómputo referido se obtiene la aprobación por la mayoría de los Ayuntamientos, hágase la declaración de que las reformas contenidas en este Decreto han sido aprobadas. Hecho lo anterior, envíese el Decreto correspondiente al Titular del Poder Ejecutivo del Estado para que se le dé el trámite legal correspondiente.
