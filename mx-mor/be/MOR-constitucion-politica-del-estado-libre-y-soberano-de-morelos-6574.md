@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1995-03-22"
+last_updated: "1996-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1996.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -406,9 +406,13 @@ El Congreso tendrá cada año, dos Períodos de Sesiones Ordinarios, el primero 
 
 El Congreso se ocupara invariablemente del examen, discusión y aprobación de la Cuenta Pública del Estado, de los Trimestres comprendidos de enero a marzo: de abril a junio; de julio a septiembre y de octubre a diciembre del año que corresponda. Para este efecto, el Ejecutivo del Estado, presentará al Congreso la Cuenta General de Gastos conforme a lo dispuesto en la Fracción XIX del Artículo 70 de la Constitución Política del Estado.
 
-En el Primer Período de Sesiones, el Congreso se ocupará invariablemente del examen, discusión y aprobación en su caso de la Cuenta Pública del año anterior de los Municipios, para este efecto, los Municipios presentarán al Congreso dentro de los primeros quince días de marzo de cada año, la Cuenta correspondiente al año anterior.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1996)</small>
 
-En el Segundo Período de Sesiones, se ocupará preferentemente del examen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Municipios, para cuyos efectos las iniciativas correspondientes deberán presentarse al Congreso a más tardar el 15 de noviembre de cada año
+En el segundo periodo de sesiones, se ocupará preferentemente el examen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Municipios, así como de los proyectos de Presupuesto de Egresos y del Programa Financiero que presente el Ejecutivo Estatal; para los anteriores efectos las iniciativas correspondientes deberán presentarse al Congreso a más tardar el 3 de diciembre de cada año.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1996)</small>
+
+A solicitud del Ejecutivo del Estado, podrán ampliarse los plazos de presentación de la Ley de Ingresos, Cuentas Públicas, Presupuesto de Egresos y Programa Financiero, a que se refiere este artículo, cuando haya causas plenamente justificadas, a juicio del Congreso o de la Diputación Permanente; pero será obligación de la Secretaría de Hacienda comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales y comparecerán, en su caso, los Regidores de Hacienda.
 
 Los plazos de presentación de las Leyes de Ingresos y Cuentas Públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación del Secretario de Hacienda o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
@@ -550,7 +554,7 @@ g).- La designación del personal se hará mediante sistemas que permitan apreci
 
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
-i).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley.
+i).- Los trabajadores sólo podrán ser suspendidos a cesados por causa justificada, en los términos que fije la Ley.
 
 En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal.
 
@@ -568,7 +572,7 @@ c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproxi
 
 d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
 
-e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, a los trabajadores conforme a los programas previamente aprobados.
+e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, o los trabajadores conforme a los programas previamente aprobados.
 
 l).- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
 
@@ -596,9 +600,11 @@ XXV.- Excitar a los poderes de la Nación para que presten protección al Estado
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las
+XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-leyes a que se refiere la fracción XX.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XXVII.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el Artículo 133 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
 
@@ -724,7 +730,7 @@ b).- Cuando abandone sus funciones por un lapso de quince días consecutivos sin
 
 c).- Cuando deje de asistir consecutivamente a cinco Sesiones de Cabildo sin causa justificada;
 
-d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento,
+d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento;
 
 e).- Por omisión reiterada en el cumplimiento de sus funciones;
 
@@ -1454,7 +1460,7 @@ El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable po
 
 Las licencias de los Magistrados que no excedan de treinta días, serán concedidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de ese término, serán concedidas por el Congreso y en sus recesos por la Diputación permanente.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 97.
 
@@ -1626,7 +1632,7 @@ I.- La circunscripción geográfica de cada Municipio deberá establecerse de ta
 
 Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado,
+a).- Agua Potable y Alcantarillado;
 
 b).- Alumbrado Público;
 
@@ -2399,3 +2405,11 @@ DECRETO NUMERO 214
 PRIMERO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales en el Estado, para los efectos que indica el artículo 147 de la Constitución Política del Estado de Morelos.
 
 SEGUNDO.- Cumplidos los requisitos legales correspondientes, el Decreto respectivo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Organo del Gobierno del Estado de Morelos.
+
+P.O. 17 DE ABRIL DE 1996.
+
+PRIMERO.- Remítase el presente Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales en el Estado, para los efectos que indica el artículo 147 de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- Cumplidos los requisitos legales correspondientes, el decreto respectivo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
