@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1995-03-02"
+last_updated: "1996-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JULIO DE 1996.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -224,6 +224,14 @@ Ningún indiciado podrá ser retenido por el Ministerio Público por más de cua
 
 En toda orden de cateo, sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 1996)</small>
+
+Las comunicaciones privadas son inviolables. La Ley sancionará penalmente cualquier acto que atente contra la libertad y privacía de las mismas. Exclusivamente la autoridad judicial federal, a petición de la autoridad federal que faculte la ley o del titular del Ministerio Público de la entidad federativa correspondiente, podrá autorizar la intervención de cualquier comunicación privada. Para ello, la autoridad competente, por escrito, deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración. La autoridad judicial federal no podrá otorgar estas autorizaciones cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 1996)</small>
+
+Las intervenciones autorizadas se ajustarán a los requisitos y límites previstos en las leyes. Los resultados de las intervenciones que no cumplan con éstos, carecerán de todo valor probatorio.
+
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposicioies (sic) fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescriptas para los cateos.
 
 > <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
@@ -278,13 +286,13 @@ Todo maltratamiento que en la aprehensión o en las prisiones, toda molestia que
 
 En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
 
-> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1996)</small>
 
-I.- Inmediatamente que lo solicite, el juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio.
+I.- Inmediatamente que lo solicite, el juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la ley expresamente prohíba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
-El monto y la forma de caución que se fije deberán ser asequibles para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
+El monto y la forma de caución que se fije, deberán ser asequibles para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al inculpado.
 
-El juez podrá revocar la libertad provisional cuando el procesado incumpla en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso.
+La ley determinará los casos graves en los cuales el juez podrá revocar la libertad provisional.
 
 > <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -318,21 +326,25 @@ Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como m
 
 En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1996)</small>
 
-Las garantías previstas en las fracciones V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en las fracciones I y II no estará sujeto a condición alguna.
+Las garantías previstas en las fracciones I, V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en la fracción II no estará sujeto a condición alguna.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y, los demás que señalen las leyes.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JULIO DE 1996)</small>
 
 ###### Art. 21.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución de los delitos incumbe al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
@@ -354,7 +366,9 @@ La Federación, el Distrito Federal, los Estados y los Municipios se coordinará
 
 Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-No se considerará como confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuesto o multas, ni el decomiso de los bienes en caso del enriquecimiento ilícito en los términos del artículo 109.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1996)</small>
+
+No se considerará confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial, de los bienes, en caso del enriquecimiento ilícito, en los términos del artículo 109; ni el decomiso de los bienes propiedad del sentenciado, por delitos de los previstos como de delincuencia organizada, o el de aquéllos respecto de los cuales éste se conduzca como dueño, si no acredita la legítima procedencia de dichos bienes.
 
 Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagiario, al salteador de caminos, al pirata y a los reos de delitos graves del orden militar.
 
@@ -1288,7 +1302,11 @@ XIX.- Para fijar las reglas a que debe sujetarse la ocupación y enajenación de
 
 XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-XXI.- Para definir los delitos y faltas contra la Federación y fijar los castigos que por ellos deban imponerse.
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1996)</small>
+
+XXI.- Para establecer los delitos y faltas contra la Federación y fijar los castigos que por ellos deban imponerse.
+
+Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales.
 
 XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
@@ -4365,5 +4383,9 @@ DECIMO PRIMERO.- En tanto se expidan las disposiciones legales, reglamentarias y
 DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Judicial de la Federación serán respetados íntegramente.
 
 D.O.F. 2 DE MARZO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JULIO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
