@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1933-04-05"
+last_updated: "1933-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1933.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 12 DE ABRIL DE 1933, NO HAN ENTRADO EN VIGOR LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, POR LO QUE CONTINUAN EN VIGOR LOS ARTICULOS 45, 65 Y 111 DE LA CONSTITUCION POLITICA DEL ESTADO, COMO SE ENCONTRABAN INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1035,7 +1037,33 @@ Del Municipio como base de la división territorial del Estado, y su organizaci�
 
 De los Distritos.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1920)</small>
+Aldama, con las de Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan y Pedro Ascencio Alquisiras; su Cabecera Teloloapan.
+
+Allende, con las de Ayutla de los Libres, Cuautepec, Florencio Villareal, Copala, San Luis Acatlán y Azoyú; su Cabecera Ayutla de los Libres.
+
+Alvarez, con las de Chilapa de Alvarez, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo y Atenango del Río; su Cabecera Chilapa de Alvarez.
+
+Bravos, con las de Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo y Tlacotepec; su Cabecera Chilpancingo de los Bravos.
+
+Galeana, con las de Tecpan de Galeana y Atoyac de Alvarez; su Cabecera Tecpan de Galeana.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1926)</small>
+
+Guerrero, con las de Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán y Quechultenango; su Cabecera Tixtla de Guerrero.
+
+Hidalgo, con las de Iguala, Tepecoacuilco de Trujano, Cocula y Huitzuco; su Cabecera Iguala.
+
+Mina, con las de Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Ajuchitlán del Progreso, San Miguel Totolapan, Zirándaro y Pungarabato; su Cabecera Coyuca de Catalán.
+
+Montes de Oca, con las de La Unión y Coahuayutla de Guerrero; su Cabecera La Unión.
+
+Morelos, con las de Tlapa de Comonfort, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomistláhuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlahuac, Malinaltepec y Tenango Tepexi, su Cabecera Tlapa de Comonfort.
+
+Tabares, con las de Acapulco de Juárez, Coyuca de Benítez, San Marcos y Tecoanapa; su Cabecera Acapulco de Juárez.
+
+Zaragoza, con las de Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá; su Cabecera Huamuxtitlán.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1930)</small>
 
 ### CAPITULO I
 
@@ -1212,6 +1240,12 @@ DECRETO NUMERO 110.
 Este Decreto surtirá sus efectos desde la fecha de su publicación.
 
 P.O. 5 DE ABRIL DE 1933.
+
+1° El presente decreto empezará a regir desde el día de su publicación en el "Periódico Oficial" de este Gobierno.
+
+2° Envíese a los Ayuntamientos Constitucionales del Estado de Guerrero, para su sanción un proyecto de reformas a la Constitución Política del mismo.
+
+P.O. 12 DE ABRIL DE 1933.
 
 1° El presente decreto empezará a regir desde el día de su publicación en el "Periódico Oficial" de este Gobierno.
 
