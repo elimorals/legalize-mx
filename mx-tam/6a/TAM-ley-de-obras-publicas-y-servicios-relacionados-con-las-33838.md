@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2003-08-21"
+last_updated: "2004-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -127,7 +127,7 @@ VIII. Los estudios que tengan por objeto rehabilitar, corregir, sustituir o incr
 
 IX. Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, y
 
-X: Todos aquellos de naturaleza análoga.
+X. Todos aquellos de naturaleza análoga.
 
 ###### ARTÍCULO 5.
 
@@ -229,7 +229,7 @@ V. Verificar que las actas se hagan llegar a cada uno de los integrantes del Com
 
 VI. Realizar el seguimiento de los acuerdos del Comité;
 
-VII. Llevar a cabo los instrucciones recibidas por parte del presidente, y
+VII. Llevar a cabo las instrucciones recibidas por parte del presidente, y
 
 VIII. Las demás que le asigne el Comité.
 
@@ -305,7 +305,9 @@ Previamente a la ejecución de las obras públicas o servicios relacionados con 
 
 El Ejecutivo Estatal aplicará la presente ley por conducto de la Secretaría y de la Contraloría, en el ámbito de sus respectivas competencias, sin perjuicio de la intervención que se atribuya a otras dependencias del propio Ejecutivo conforme a este ordenamiento u otras disposiciones legales.
 
-Para efectos administrativos, la Secretaría queda facultada para interpretar las disposiciones de esta ley.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+Para efectos administrativos, la Secretaría y la Contraloría, quedan facultadas para interpretar las disposiciones de esta ley, en el ámbito de sus respectivas competencias.
 
 Los Ayuntamientos aplicarán esta ley en sus respectivos municipios, observando lo dispuesto en el Código Municipal.
 
@@ -324,6 +326,10 @@ Corresponde a las dependencias, entidades y Ayuntamientos llevar a cabo los proc
 ###### ARTÍCULO 19.
 
 Las controversias que se susciten con motivo de los contratos celebrados con base en esta ley, serán resueltas por el Supremo Tribunal de Justicia del Estado de Tamaulipas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+En todas las cuestiones no previstas en la presente ley, se aplicarán supletoriamente las disposiciones del Código Civil y del Código de Procedimientos Civiles para el Estado de Tamaulipas.
 
 ## TÍTULO TERCERO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -357,7 +363,7 @@ VII. Observar las disposiciones en materia de asentamientos humanos, desarrollo 
 
 VIII. Considerar preferentemente el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras, y
 
-IX. iderar preferentemente y en igualdad de circunstancias, a los contratistas de la localidad donde se ubiquen las obras y, posteriormente, a los del Estado.
+IX. Considerar preferentemente y en igualdad de circunstancias, a los contratistas de la localidad donde se ubiquen las obras y, posteriormente, a los del Estado.
 
 ###### ARTÍCULO 21.
 
@@ -833,11 +839,13 @@ El licitante a quien se adjudique el contrato no podrá hacerlo ejecutar por otr
 
 Los derechos y obligaciones que se deriven de los contratos de obra pública o servicios relacionados con la misma no podrán cederse en forma total o parcial a favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o Ayuntamiento de que se trate.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 55.
 
-Los contratistas con quienes se celebre contrato de obra pública o de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo, por el servicio de vigilancia, inspección y control que esta ley encomienda a la Contraloría.
+Los contratistas con quien se celebre contrato de obra pública o de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo, por el servicio de vigilancia, inspección y control que esta ley encomienda a los órganos de control del Ejecutivo Estatal, o de los Ayuntamientos.
 
-Quien realice el pago de las estimaciones de obra en las dependencias y entidades, retendrá el importe de los derechos a que se refiere el párrafo anterior; en su caso, igual obligación tendrán las Tesorerías Municipales respectivas, quienes concentrarán en la Secretaría de Finanzas los importes correspondientes, dentro de los primeros diez días hábiles de cada mes.
+Quien realice el pago de las estimaciones de obra en las dependencias y entidades, de la Administración Pública Estatal, retendrá el importe de los derechos a que se refiere el párrafo anterior; igual obligación tendrán las tesorerías municipales respectivas, cuando los municipios realicen obras o servicios con recursos estatales, quienes concentrarán en la Secretaría de Finanzas los importes correspondientes dentro de los primeros diez días hábiles de cada mes. Cuando los municipios realicen obras o servicios con recursos propios, éstos deberán establecer sus propios procedimientos de retenciones por los derechos causados.
 
 ###### ARTÍCULO 56.
 
@@ -1280,3 +1288,15 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticinco días del mes de junio del año dos mil tres.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMÁS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLÉN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
