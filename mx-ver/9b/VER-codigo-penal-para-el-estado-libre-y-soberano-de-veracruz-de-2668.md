@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1999-08-12"
+last_updated: "2000-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2000.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -1639,11 +1639,21 @@ Al que obligue a otro a hacer, tolerar o dejar de hacer algo contra sus propios 
 
 ### CAPITULO VII. USURA
 
-> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 190.
 
-Al que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia en una persona, obtenga para sí o para otro un interés evidentemente desproporcionado con la naturaleza de la operación o de los usos comerciales, se le impondrán prisión de seis meses a seis años y multa hasta de dos tantos de los intereses devengados en exceso.
+Al que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia de otro, obtenga para sí o para un tercero intereses mayores a los señalados para los certificados de la Tesorería de la Federación a veintiocho días en el momento de la operación, se le impondrá de tres años seis meses a siete años de prisión y multa hasta de cinco tantos de los intereses devengados en exceso.
+
+Se equipara el delito de usura y se castiga como tal
+
+I. Al que abusando de la necesidad de otra persona, cobre para sí o para otro, cualquier comisión por gestionarle o conseguirle un préstamo cualquiera
+
+II. Al que haya adquirido un préstamo usurario o una comisión usuraria para enajenarlo o hacerlo efectivo
+
+III. A los demanden el cobro de pesos de un préstamo usurario con conocimiento de ello
+
+A los dirigentes, administradores y mandatarios de personas morales que ordenen, permitan o ejecuten dicha actividad, se les impondrá además la suspensión del ejercicio de su actividad de hasta tres años
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -2986,3 +2996,7 @@ G.O. 12 DE AGOSTO DE 1999.
 Primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 31 DE JULIO DE 2000.
+
+Único. La presente Ley entrará en vigor cinco días después de su publicación en la Gaceta Oficial del estado.
