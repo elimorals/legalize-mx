@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1986-07-30"
+last_updated: "1988-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1988.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -906,13 +906,17 @@ El cargo de Gobernador sólo es renunciable por causa grave calificada por el Co
 
 Las faltas del Gobernador hasta por treinta días serán cubiertas por el Secretario de Gobierno. Si la falta fuera por mayor tiempo, será cubierta por un Gobernador Interino que nombrará el Congreso o en los recesos de éste, la Diputación Permanente, siempre que la falta no exceda de dos meses. Si excediere de este término y el Congreso no estuviera reunido la Diputación Permanente convocará a Período de Sesiones Extraordinarias para que se haga la designación.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
+
 ###### Artículo 64.
 
-En caso de falta absoluta del Gobernador, ocurrida durante los dos primeros años de su ejercicio, el Congreso, con asistencia de las dos terceras partes de sus miembros, por lo menos, procederá al nombramiento de un Gobernador Interino, en escrutinio secreto y por mayoría absoluta de votos, y expedirá desde luego la convocatoria respectiva para la elección del nuevo Gobernador que deba terminar el período constitucional.
+En caso de falta absoluta del Gobernador, ocurrida durante los tres primeros años de su ejercicio, el Congreso, con asistencia de las dos terceras partes de sus miembros, por lo menos, procederá al nombramiento de un Gobernador Interino, en escrutinio secreto y por mayoría absoluta de votos, y expedirá desde luego la convocatoria respectiva para la elección del nuevo Gobernador que deba terminar el Período Constitucional.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
 
 ###### Artículo 65.
 
-Cuando la falta absoluta ocurra en los dos últimos años del período respectivo, el Congreso elegirá un Gobernador substituto, quien ejercerá sus funciones hasta la terminación del mismo.
+Cuando la falta absoluta ocurra en los tres últimos años del Período respectivo, el Congreso elegirá un Gobernador Substituto, quien ejercerá sus funciones hasta la terminación del mismo.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
@@ -1130,7 +1134,9 @@ I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, 
 
 II.- Ser mayor de 25 años de edad y,
 
-(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+
+III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1500,7 +1506,7 @@ I.- La circunscripción geográfica de cada Municipio deberá establecerse de ta
 
 Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado;
+a).- Agua Potable y Alcantarillado,
 
 b).- Alumbrado Público;
 
@@ -2119,3 +2125,9 @@ Segundo.- Remítase el presente decreto a los H. H. Ayuntamientos Constitucional
 Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Cuarto.- Remítase el presente Decreto al Ejecutivo del Estado, para efectos de su promulgación y publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 1988.
+
+Primero.- El presente Decreto entrará en vigor, a partir de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase el presente Decreto al Ejecutivo de la Entidad, para los efectos de su promulgación y publicación.
