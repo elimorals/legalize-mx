@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-de-vigilancia-del-instituto-del-33"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-02-16"
-last_updated: "1973-02-16"
+last_updated: "1979-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "1998-12-22"
 
 REGLAMENTO DE LA COMISION DE VIGILANCIA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1979.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 16 de febrero de 1973.
 
@@ -100,9 +100,11 @@ La Comisión de Vigilancia presentará ante la Asamblea General un dictamen sobr
 
 ### CAPITULO III. De las sesiones
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MARZO DE 1979)</small>
+
 ###### ARTICULO 8o.
 
-La Comisión sesionará ordinariamente una vez al mes en el día y la hora que se haya fijado en la sesión ordinaria anterior.
+La Comisión sesionará ordinariamente dos veces al mes en el día y la hora que se haya fijado en la sesión ordinaria anterior.
 
 Cuando haya asuntos que por su importancia lo ameriten, podrá convocar a sesión extraordinaria de la Comisión, el Presidente en turno, el Consejo de Administración, el Director General o dos miembros de, cuando menos, dos representaciones de las que integran la Comisión.
 
@@ -227,3 +229,9 @@ VIII. Las demás que se deriven de su cargo o le encomiende la Comisión.
 ## TRANSITORIO
 
 UNICO.- Este Reglamento entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.- El Presidente de la Asamblea General, Bernardo Quintana.- Rúbrica.- El Director General, Jesús Silva-Herzog F.- Rúbrica.- El Secretario de la Asamblea General, Roberto Molina-Pasquel H.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE MARZO DE 1979.
+
+UNICO.- La presente reforma entrará en vigor a partir de la fecha de su expedición por la Asamblea General del Instituto.
