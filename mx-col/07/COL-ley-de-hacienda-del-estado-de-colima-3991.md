@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2000-12-30"
+last_updated: "2001-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -371,6 +371,32 @@ Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el e
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
+### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
+
+Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
+
+Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
 ### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
@@ -393,15 +419,15 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
-
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -409,13 +435,13 @@ Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
-Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
-
-Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
+
+Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -454,32 +480,6 @@ III.- Cuando se imposibilite por cualquier medio el conocimiento de las operacio
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
-
-Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
-
-Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -543,7 +543,13 @@ III.- Por autorización de protocolo, abierto o especial 4,500
 
 IV.- Por legalización de firmas o apostilla, por cada una 1.800
 
-V.- Expedición de copias certificadas del Duplicado de Libros del Registro Civil, cada una 0.900
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2001)</small>
+
+V.- Expedición de copias certificadas del Duplicado de Libros del Registro Civil, cada una:
+
+a).- En las oficinas de la Dirección del Registro Civil 0.900
+
+b).- En los Kioscos de Servicios e Información 0.830
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -859,9 +865,13 @@ XIII.- Por la aplicación de examen para determinar estado de ebriedad, en caso 
 
 Por los servicios prestados en la Dirección General de Prevención y Readaptación Social.
 
-> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2001)</small>
 
-I.- Por la expedición de certificado de no antecedentes penales 1.000
+I.- Por la expedición de certificado de no antecedentes penales:
+
+a).- En las oficinas de la Dirección 1.000
+
+b).- En los Kioscos de Servicios e Información 0.830
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1339,7 +1349,13 @@ a).- Certificaciones de documentos catastrales a solicitud del interesado 1.800
 
 b).- Certificación catastral de un predio para tramitar juicio a favor del poseedor 9.000
 
-c).- Constancia certificada de inscripción o no en los registros catastrales 0.900
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2001)</small>
+
+c).- Constancia certificada de inscripción o no en los registros catastrales:
+
+1.- En las oficinas de la Dirección 0.900
+
+2.- En los Kioscos de Servicios e Información 0.830
 
 III.- Avalúos asignación de claves y mediciones:
 
@@ -2361,7 +2377,7 @@ Estarán exentas del pago de productos, las publicaciones que se hagan en el Per
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 69.
 
@@ -2411,11 +2427,11 @@ XIII.- Otros ingresos no especificados.
 
 ## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2620,3 +2636,7 @@ Los contribuyentes del Impuesto Sobre Ejercicio Profesiones no estarán obligado
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día primero de enero del año 2001, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 2 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
