@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2002-06-22"
+last_updated: "2002-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -684,19 +684,29 @@ III.- La suspensión que no exceda de un mes;
 
 IV.- La multa, que no excederá del importe de ciento veinte días de salario mínimo vigente, que se duplicará en caso de reincidencia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 74.
 
 Los jueces, para hacer cumplir sus determinaciones, deberán emplear cualesquiera de los siguientes medios de apremio que juzguen eficaces:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 I.- La multa por el importe de diez a ciento veinte días de salario mínimo; la cual podrá duplicarse en caso de reincidencia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 II.- El auxilio de la fuerza pública y el fracturar la (sic) cerraduras si fuere necesario;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 III.- El cateo por orden escrita, fundado y motivado; y
 
-IV.- La privación de la libertad hasta por setenta y dos horas.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+IV.- La privación de la libertad hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
@@ -8385,3 +8395,7 @@ P.O. 22 DE JUNIO DE 2002.
 Primero.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Los procedimientos de adopción que se hayan iniciado antes de la entrada en vigor del presente decreto se seguirán de conformidad con las disposiciones legales vigentes al momento de su iniciación.
+
+P.O. 28 DE NOVIEMBRE DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
