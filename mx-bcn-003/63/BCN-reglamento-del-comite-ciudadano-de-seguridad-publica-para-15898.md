@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-comite-ciudadano-de-seguridad-publica-para-15898
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-21"
-last_updated: "2002-04-19"
+last_updated: "2004-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 21 de enero de 2000.
 
@@ -163,9 +163,11 @@ c) El Secretario General del Ayuntamiento.
 
 d) El Director de Seguridad Pública, Transito y Transportes.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 7.
 
-Los cargos de los miembros del comité son honoríficos y por lo tanto, no recibirán remuneración alguna por su desempeño.
+Los cargos de los Consejeros Ciudadanos y Gubernamentales Miembros del Comité son honoríficos y por lo tanto, no recibirán remuneración alguna por su desempeño.
 
 ###### Artículo 8.
 
@@ -217,9 +219,13 @@ Para la designación del secretario técnico, el Comité presentará una terna a
 
 Los Ciudadanos integrantes del comité serán elegidos por un período de tres años y podrán ser insaculados para un segundo período, siempre y cuando sean nuevamente propuestos por las asociaciones, organismos, agrupaciones o instituciones mencionadas en el artículo 8, fracción VIII, de este reglamento y sigan satisfaciendo los requisitos para ser electos que establece este reglamento.
 
-El secretario técnico será designado por un periodo de tres años y no estará impedido para ser nuevamente propuesto.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
 
-En ningún caso, los ciudadanos integrantes del Comité y el secretario técnico podrán permanecer mas de seis años en el cargo para el cual fueron nombrados.
+El Secretario Técnico será designado por un periodo de tres años y su permanencia en el puesto, por mas periodos, se definirá de acuerdo a su desempeño. El Secretario Técnico recibirá los honorarios correspondientes a su labor por parte del Ayuntamiento, en base a un contrato de prestación de servicios profesionales.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+
+En ningún caso, los ciudadanos integrantes del Comité podrán permanecer mas de seis años en el cargo para el cual fueron nombrados.
 
 El presidente del comité será electo de entre los consejeros ciudadanos, con la aprobación de las dos terceras partes de estos, a mas tardar el día de la instalación de dicho Comité.
 
@@ -447,9 +453,11 @@ a) Serán aquellas que el Comité integre para casos o situaciones específicas.
 
 ### CAPITULO OCTAVO. DEL FINANCIAMIENTO DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 31.
 
-Para el cumplimiento de sus fines el Comité podrá allegarse de los recursos necesarios para su funcionamiento.
+Para el cumplimiento de sus fines el Comité recibirá del Ayuntamiento apoyo financiero suficiente para cubrir los gastos de operación, no obstante, el Comité podrá allegarse los (sic) recursos necesarios de otras fuentes para asegurar su funcionamiento y de los proyectos y programas que tenga.
 
 ###### Artículo 32.
 
@@ -482,3 +490,9 @@ C. LIC. RAUL VARGAS RODRÍGUEZ
 P.O. 19 DE ABRIL DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 17 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- PUBLÍQUESE EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- LA PRESENTE REFORMA SURTIRÁ SUS EFECTOS A PARTIR DEL 1RO. DE ENERO DEL AÑO DOS MIL CINCO.
