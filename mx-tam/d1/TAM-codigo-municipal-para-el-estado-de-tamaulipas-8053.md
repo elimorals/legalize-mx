@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-02-18"
+last_updated: "2004-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -783,11 +783,15 @@ Son facultades y obligaciones del Secretario:
 
 I.- Asistir a las sesiones del Ayuntamiento con voz informativa y formular las actas al terminar cada una de ellas en el libro respectivo.
 
-II.- Tener a su cargo el cuidado y dirección inmediata de la oficina y el archivo del Ayuntamiento.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2004)</small>
+
+II.- Tener a su cargo la dirección inmediata de la oficina, cuidar el buen manejo de la documentación sujeta a su trámite y coordinar las actividades del Archivo General del Municipio en términos de este Código.
 
 III.- Controlar la correspondencia oficial y dar cuenta diaria de todos los asuntos al Presidente, para acordar su trámite.
 
-IV.- Expedir, cuando proceda, copias certificadas de documentos y constancias del archivo, que acuerden el Ayuntamiento o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2004)</small>
+
+IV.- Expedir las constancias y copias certificadas de los documentos sujetos a trámite en la administración municipal, así como los contenidos en el Archivo General del Municipio, conforme a las disposiciones contenidas en este Código o en los Reglamentos respectivos.
 
 V.- Autorizar con su firma las actas, acuerdos, documentos y demás disposiciones administrativas, que emanen del Ayuntamiento o del Presidente, sin cuyo requisito no serán válidos.
 
@@ -2103,7 +2107,13 @@ El decreto que expida el Congreso fijará en cada caso las bases de organizació
 
 Las remuneraciones a los integrantes del Comité quedarán a cargo de las dependencias, entidades y organismos que los hubiere designado.
 
-## TITULO SEXTO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
+## TITULO SEXTO. DEL ARCHIVO GENERAL DEL MUNICIPIO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+
+## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
+
+(REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
 ### CAPITULO V. DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS
 
@@ -2561,7 +2571,9 @@ En los casos de violación a lo dispuesto en el Artículo 242, el Tribunal de Co
 
 Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
 
-### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 248.
 
@@ -2641,7 +2653,9 @@ V.- Por laudo del Tribunal.
 
 Al resolverse que una declaración de huelga es legal, el Tribunal de Conciliación y Arbitraje, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de sus labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las oficinas, talleres y demás instalaciones, o signifique un peligro para la salud pública.
 
-### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO II. DE SU PATRIMONIO DOCUMENTAL
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 263.
 
@@ -2670,6 +2684,10 @@ La prescripción se interrumpe por la sola presentación de la demanda respectiv
 ###### ARTICULO 267.
 
 Para los efectos de la prescripción los meses se regularán por el número de días que le correspondan: el primer día contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
+
+### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 268.
 
@@ -2724,6 +2742,10 @@ II.- Conocer de los conflictos colectivos que surjan entre los Ayuntamientos y s
 III.- Conceder el registro de los sindicatos de trabajadores municipales, cuando proceda y resolver la cancelación del mismo, en su caso.
 
 IV.- Efectuar el registro de las condiciones generales de trabajo.
+
+### CAPITULO IV. DEL CONSEJO CONSULTIVO
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 276.
 
@@ -2813,7 +2835,217 @@ El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la ef
 
 Cuando se pida la ejecución de una resolución, el Tribunal despachará auto de ejecución y comisionará un actuario para que, asociado de la parte correspondiente, se constituya en el domicilio de la demandada y la requiera para que cumpla con dicha resolución, apercibiéndola que, de no hacerlo, se procederá conforme a lo dispuesto en los artículos procedentes.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+
+### CAPITULO V. DEL SERVICIO AL PUBLICO
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 295.
+
+El Archivo General del Municipio es una dependencia de la Secretaría del Ayuntamiento que concentrará, organizará y custodiará la información derivada de la función pública municipal y que por su naturaleza o importancia histórica deba preservarse para la consulta institucional y pública.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 296.
+
+El Archivo General del Municipio tiene como objetivos principales:
+
+I.- Custodiar todos los documentos a su cargo.
+
+II.- Proporcionar al gobierno y la administración municipales fuentes de información documentales para el eficaz cumplimiento de sus funciones.
+
+III.- Preservar, incrementar y difundir la documentación con valor histórico.
+
+IV.- Brindar un servicio de carácter social.
+
+V.- Auxiliar en la investigación de temas y asuntos de interés general.
+
+VI.- Los demás que se desprendan de los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+
+### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 295], P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 297.
+
+El acervo documental del Archivo General del Municipio se integrará básicamente con los documentos de interés público elaborados o recibidos por el Ayuntamiento, sus órganos y dependencias en el ejercicio de las facultades y funciones que la ley les confiere.
+
+Para los efectos de este Código, son documentos de interés público toda información impresa, reproducida o almacenada mediante cualquier sistema inventado por el ser humano que dé constancia de un hecho o acto realizado o relacionado directa o indirectamente con los órganos y dependencias municipales, cuyo contenido sea relevante para la sociedad, como expedientes, actas, periódicos, planos cartográficos, fotografías, filmes, cassettes, disquetes, discos compactos o cualquier otro medio análogo que la tecnología permita desarrollar.
+
+Estos documentos serán considerados bienes del dominio público y son parte del patrimonio municipal; son inalienables e imprescriptibles, quedan fuera de comercio y está prohibida su enajenación o embargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 298.
+
+En todo caso, la clasificación y catalogación del Archivo General del Municipio permitirá distinguir:
+
+I.- Los acervos de transferencia y concentración, constituidos con los documentos generados por la administración municipal cuyo trámite haya concluido o se encuentre interrumpido sin justificación ni causa bastante por más de seis meses, pero que por el contenido de su información sean susceptibles de ser consultados ocasionalmente por algún órgano o dependencia municipal.
+
+II.- Los acervos con valor histórico, integrados con documentos cuya antigüedad sea mayor de treinta años y su contenido informativo sea de tal trascendencia que merezcan ser preservados.
+
+Para su consulta pública, los acervos de transferencia y concentración, deberán mantenerse por diez años, al cabo de los cuales el Consejo decidirá si poseen la importancia suficiente para considerar su reclasificación como acervo con valor histórico o si por resultar inútiles se procede a su destrucción.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 299.
+
+En los acervos de transferencia y concentración se clasificarán y catalogarán:
+
+I.- Las actas de Cabildo.
+
+II.- Los documentos con que se hayan sustentado los estados financieros, contables y presupuestales del municipio o, en su caso, las copias certificadas de los mismos.
+
+III.- Los contratos y convenios celebrados por el Ayuntamiento, así como las concesiones otorgadas por éste.
+
+IV.- La documentación que ampare la propiedad de los bienes inmuebles del municipio, incluidos los movimientos efectuados al respecto.
+
+V.- Los informes anuales sobre el estado que guardan los negocios municipales.
+
+VI.- Las leyes en materia municipal aprobadas por el Congreso del Estado y sus reformas, así como los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general.
+
+VII.- Los demás actos que a juicio del Ayuntamiento deban ser registrados.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 300.
+
+La clasificación y catalogación de los acervos documentales con valor histórico se hará tomando en cuenta los criterios técnicos más idóneos para alcanzar los fines definidos en este Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+
+### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 296], P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 301.
+
+El Archivo General del Municipio tendrá un titular, que será nombrado en los términos del artículo 55, fracción VII, de este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 302.
+
+El titular del Archivo General del Municipio deberá cumplir con los requisitos previstos en el artículo 67, siendo discrecional la exigencia de título profesional.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 303.
+
+Son facultades y obligaciones del titular del Archivo General del Municipio:
+
+I.- Representar, dirigir, organizar, planear, programar, controlar y evaluar las actividades de la dependencia a su cargo.
+
+II.- Dictar políticas para el adecuado funcionamiento del Archivo General del Municipio.
+
+III.- Llevar el control administrativo de todos los acervos documentales y bienes particulares que se le encomienden.
+
+IV.- Autorizar copias simples o certificadas, reproducciones magnetofónicas o gráficas de los documentos y materiales a su cargo, conforme a las disposiciones de este Código y los reglamentos municipales aplicables.
+
+V.- Las demás que expresamente le atribuyan las disposiciones legales, reglamentarias y administrativas.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 304.
+
+El Archivo General del Municipio contará con el personal necesario, de acuerdo con los recursos presupuestales del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 305.
+
+Dentro de los primeros tres meses del segundo y tercer año de ejercicio constitucional del Ayuntamiento, y en el último trimestre del mismo, los órganos y dependencias municipales, a través de sus titulares, remitirán al Archivo General del Municipio la documentación referida en el artículo 298, debidamente relacionada y clasificada, describiéndose a la vez de manera sucinta su contenido informativo. Previo cotejo, a los remitentes se les extenderá el recibo correspondiente, detallándose en el mismo los documentos que ampara.
+
+De este procedimiento quedan excluidos los órganos y dependencias municipales que por la naturaleza de sus funciones, a juicio de Ayuntamiento o del Presidente Municipal, deban conservar íntegros sus propios acervos documentales.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 306.
+
+El Archivo General del Municipio asignará una clave de registro a cada órgano y dependencia municipal, mediante las cuales clasificará y catalogará la documentación que de ellas reciba. A esta misma se sujetarán las donaciones y adquisiciones de documentos provenientes de entes públicos o privados y de particulares.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 307.
+
+Cuando el desempeño de las funciones encomendadas lo requieran, los órganos y dependencias municipales podrán solicitar copias simples de la documentación concentrada en el Archivo General del Municipio.
+
+Es responsabilidad del Ayuntamiento o, en su caso, del Presidente Municipal autorizar el préstamo de los originales o la expedición de copias certificadas de los mismos a los órganos y dependencias municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 308.
+
+Los servidores públicos quedan impedidos para extraer del Archivo General del Municipio cualquier tipo de información para usos distintos a los oficiales.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 309.
+
+Sin perjuicio de lo que disponga la legislación penal y civil, serán sancionados administrativamente los servidores públicos que omitan intencionalmente entregar algún documento cuya custodia corresponda al Archivo General del Municipio, por dolo o negligencia lo dañen, mutilen, alteren, destruyan o extravíen.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 310.
+
+El Archivo General del Municipio contará, conforme a la disponibilidad presupuestal, con sistemas de reproducción eficaces y equipamiento autorizado, o que sean recibidos en comodato o por herencia, legado o donación en los términos del artículo 49, fracción XVII.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 311.
+
+El Archivo General del Municipio podrá formar parte del sistema estatal o nacional de archivos, en los términos de los convenios celebrados por el Ayuntamiento, con base en la legislación aplicable en la materia y lo dispuesto en los Reglamentos Municipales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 312.
+
+Habrá un Consejo Consultivo del Archivo General del Municipio, integrado por el Secretario del Ayuntamiento, quien lo presidirá, el titular del Archivo, quien será su Secretario Técnico, el titular de la Biblioteca Pública Municipal y cinco ciudadanos a propuesta de las instituciones educativas y de servicio social con residencia en el Municipio.
+
+Las decisiones del Consejo Consultivo se tomarán por consenso y, en su caso, por mayoría de votos, teniendo voto de calidad su Presidente, debiendo levantarse acta pormenorizada de sus sesiones, por su Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 313.
+
+Las declaratorias deducidas del Capítulo II de este Título serán emitidas por el Consejo Consultivo, imponiéndose previamente de la opinión respectiva al titular del órgano o dependencia municipal de donde provenga la documentación de que se trate. De no ponerse de acuerdo el Consejo Consultivo, resolverá el Ayuntamiento o el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 314.
+
+El Archivo General del Municipio atenderá al público en los días y horarios que se determine de acuerdo con las necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 315.
+
+Toda persona podrá consultar los acervos con valor histórico del Archivo General del Municipio de, conformidad con las disposiciones reglamentarias y administrativas al efecto vigentes, que garantizarán su integridad y preservación.
+
+Los documentos con valor histórico podrán reproducirse total o parcialmente en ediciones impresas o de cualquier otro tipo, a condición de indicar con claridad su procedencia y donar a favor del Archivo General del Municipio por lo menos dos ejemplares o sus equivalentes de tales ediciones o reproducciones.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 316.
+
+El público podrá solicitar información contenida en los catálogos de los acervos de transferencia o concentración, en términos del Reglamento respectivo, pudiendo solicitar la expedición de copias certificadas de los documentos ahí contenidos.
+
+La solicitud deberá formularse por medio de cédulas que el Archivo General del Municipio proporcionará, en la que conforme al catálogo respectivo se anotarán los datos que permitan la pronta y plena identificación del documento solicitado. Además, bajo protesta de conducirse con verdad, el solicitante manifestará sus generales y el uso a los que destinará la copia certificada.
+
+En los términos del artículo 68, fracción IV, el Secretario del Ayuntamiento resolverá sobre la solicitud dentro de los cinco días hábiles que sigan a su recepción y, de estimarlo necesario, consultará previamente al titular del órgano o dependencia municipal de donde provenga el documento solicitado.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 317.
+
+En la prestación de los servicios al público del Archivo General del Municipio, se estará a lo establecido en este Código y en la Ley de Ingresos del Municipio.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 20 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 318.
 
 Salvo las excepciones previstas en este Código y en las leyes correspondientes, las infracciones administrativas al propio Código, a los bandos, reglamentos y demás disposiciones en materia municipal, se sancionarán con:
 
@@ -2835,19 +3067,27 @@ B).- Cancelación y caducidad de la concesión.
 
 VIII.- Indemnización al Ayuntamiento por daños y perjuicios que se causen, independientemente de las demás sanciones que procedan.
 
-###### ARTICULO 296.
+(REUBICADO, P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 319.
 
 Con excepción de los casos y procedimientos previstos en este Código o en cualquier otra Ley, las impugnaciones de las resoluciones dictadas por las autoridades municipales, se regirán por lo dispuesto en este Capítulo.
 
-###### ARTICULO 297.
+(REUBICADO [N. DE E. ANTES ARTICULO 297], P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 320.
 
 Las personas afectadas por resoluciones administrativas de las autoridades municipales podrán impugnarlas mediante los recursos de reconsideración y de revisión.
 
-###### ARTICULO 298.
+(REUBICADO [N. DE E. ANTES ARTICULO 298], P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 321.
 
 El recurso de reconsideración procede contra resoluciones dictadas por los Ayuntamientos; el recurso de revisión contra resoluciones emitidas por cualquier otra autoridad municipal. El Ayuntamiento es el órgano competente para resolver ambos recursos.
 
-###### ARTICULO 299.
+(REUBICADO [N. DE E. ANTES ARTICULO 299], P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 322.
 
 La tramitación de los recursos a que se refiere el artículo anterior se sujetará al siguiente procedimiento:
 
@@ -2855,13 +3095,15 @@ I.- Deberán interponerse por parte agraviada directamente o a través de repres
 
 II.- El escrito a que se refiere la fracción anterior deberá presentarse dentro de los diez días hábiles siguientes a la fecha de notificación de la resolución impugnada.
 
-III.- Interpuesto el recurso, el Secretario del Ayuntamiento proveerá a la recepción de las pruebas ofrecidas señalando para ello un término que no excederá de quince días y pedirá a las autoridades que hayan intervenido en la formación y ejecución del acto, un informe justificado que rendirán dentro del mismo plazo. Transcurrido éste se abrirá un período de alegatos de tres días.
+III.- Interpuesto el recurso, el Secretario del Ayuntamiento proveerá a la recepción de las pruebas ofrecidas señalando para ello un término que no excederá de quince días y pedirá a las autoridades que hayan intervenido en la formación y ejecución del acto, un informe justificado que rendirán dentro del mismo plazo. Transcurrido éste se abrirá un periodo de alegatos de tres días.
 
 IV.- Formulados los alegatos o transcurrido el término concedido, el Secretario elaborará un dictamen en el plazo de cinco días, que presentará al Presidente Municipal para que lo someta junto con el expediente al Ayuntamiento en la primera sesión que celebre, y resuelva en definitiva.
 
 V.- El recurso se tendrá por no interpuesto cuando sea presentado fuera del término a que se refiere la fracción II, o no se haya presentado la documentación relativa a la personalidad o representación de quien se ostenta con tal carácter.
 
-###### ARTICULO 300.
+(REUBICADO [N. DE E. ANTES ARTICULO 300], P.O. 20 DE ABRIL DE 2004)
+
+###### ARTICULO 323.
 
 La interposición del recurso no suspende la ejecución de la resolución impugnada a menos que se llenen los siguientes requisitos:
 
@@ -3072,3 +3314,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 18 DE FEBRERO DE 2004.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2004.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
