@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-15284"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-08"
-last_updated: "1969-03-08"
+last_updated: "1975-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de marzo de 1969.
 
@@ -201,7 +201,19 @@ I.- Registrar los Títulos de los profesionistas, de conformidad con los artícu
 
 II.- Llevar la hoja de servicios de cada profesionista cuyo título registre, anotando en el expediente respectivo las sanciones que se le impongan y publicándolas en el caso de suspensión del ejercicio profesional;
 
-III.- Autorizar y efectuar el registro a profesionistas y pasantes para el ejercicio profesional que será el medio de identificación de todas las actividades profesionales;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE SEPTIEMBRE DE 1975)</small>
+
+III.- Expedir en su caso la cédula que autorice el ejercicio profesional y que será el medio de identificación de todas las actividades profesionales.
+
+El ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito Federal, de acuerdo con las siguientes bases:
+
+a).- Instituir un solo servicio del registro de Título Profesionales y grados académicos para la expedición de cédulas profesionales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales.
+
+b).- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública.
+
+c).- Intercambiar la información que se requiera; y
+
+d).- Las demás que tiendan al debido cumplimiento del objeto del convenio;
 
 IV.- Llevar la lista de los profesionistas autorizados para ejercer la profesión;
 
@@ -556,3 +568,11 @@ Diputado Presidente Corl.- MANUEL OLGUIN SERRANO.- Diputado Secretario.- FORTINO
 Por tanto, mando se imprima, publique y circule para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo de la Ciudad de Pachuca, de Soto, Hidalgo, a los diez días del mes de febrero de mil novecientos sesenta y nueve.- El Gobernador Constitucional del Estado, Lic. CARLOS RAMIREZ GUERRERO.- El Secretario General de Gobierno, Lic. RUBEN LICONA RUIZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 1975.
+
+Primero.- Esta Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Mientras no se de por terminado el convenio que celebre el Ejecutivo del Estado con la Secretaría de educación Pública, quedan derogadas las disposiciones de la Ley del ejercicio Profesional del Estado que se opongan al cumplimiento del presente Decreto.
