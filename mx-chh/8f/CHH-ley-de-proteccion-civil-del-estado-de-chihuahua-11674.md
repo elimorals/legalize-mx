@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2003-05-07"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -65,15 +65,21 @@ I.- El Consejo;
 
 II.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-III.- El Secretario General de Gobierno;
+III.- El Secretario de Seguridad Pública.
 
-IV.- El Jefe de la Unidad;
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III Bis.- El Director de Vialidad y Protección Civil;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IV.- El Titular de la Coordinación de Protección Civil;
 
 V.- Los Sistemas Distritales y Municipales; y
 
-VI.- Los Ayuntamientos de los Municipios de la Entidad;
+VI.- Los Ayuntamientos de los Municipios de la Entidad.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
 
@@ -175,11 +181,11 @@ XXVI.- Grupos voluntarios: las instituciones, organizaciones y asociaciones que 
 
 ### CAPITULO PRIMERO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 6.
 
-El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Secretaría General de Gobierno y tiene como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causas de origen natural o humano.
+El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Secretaría de la Seguridad Pública y tiene como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
 
@@ -205,15 +211,17 @@ VI.- Promover la eficiente coordinación de esfuerzos y acciones entre los Gobie
 
 VII.- Solicitar, cuando lo estime necesario, el apoyo de los Gobierno (sic) Federal, Estatales de otras Entidades de la República y municipales de la Entidad respecto de situaciones que originen catástrofes, desastres o calamidades públicas que pongan en graves (sic) riesgo la población del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 8.
 
-Corresponde a la Secretaría General de Gobierno:
+Corresponde a la Secretaría de Seguridad Pública.
 
 I.- Actuar como Secretario Ejecutivo del Consejo Estatal de Protección Civil;
 
-II.- Nombrar y remover al Titular de la Unidad de Protección Civil;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II.- Nombrar y remover al titular de la Coordinación de Protección Civil;
 
 III.- Ejecutar los acuerdos que dicten el Gobernador del Estado y el Consejo Estatal de Protección Civil;
 
@@ -297,13 +305,15 @@ El Consejo Estatal estará integrado por:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-II.- El Secretario General de Gobierno quien fungirá como "Secretario Ejecutivo";
+II.- El Secretario de Seguridad Pública, quien fungirá como Secretario Ejecutivo.
 
 III.- Los Directores Generales de Gobierno del Estado así como el Procurador General de Justicia en el Estado;
 
-IV.- El Titular de la Unidad de Protección Civil, quien fungirá como "Secretario Técnico";
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IV.- El Coordinador de Protección Civil, quien fungirá como "Secretario Técnico";
 
 V.- El Coordinador de Comunicación Social;
 
@@ -379,31 +389,41 @@ El cargo de Consejero es de carácter honorario y tratándose de servidores púb
 
 ### CAPITULO TERCERO. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 18.
 
-La Secretaría General de Gobierno contará con una Unidad Estatal de Protección Civil, la cual auxiliará a la elaboración e implantación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las Dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general.
+La Secretaría de Seguridad Pública contará con una Coordinación de Protección Civil, la cual auxiliará a la elaboración e implantación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 19.
 
-La Unidad Estatal de Protección Civil estará integrada por:
+La Coordinación de Protección Civil, estará integrada por:
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-I.- El Jefe de la Unidad, que será nombrado por el Secretario General de Gobierno;
+I.- El Coordinador;
 
-II.- Un Jefe de la Oficina de Operaciones;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-III.- Un Jefe de la Oficina de Coordinación y Capacitación;
+II.- El Jefe de logística;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III.- Un Jefe de Comunicación;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
 IV.- Un Jefe de la Oficina Administrativa; y
 
 V.- El personal que se le asigne para su adecuado funcionamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 20.
 
-Compete a la Unidad Estatal de Protección Civil:
+Compete a la Coordinación de Protección Civil:
 
 I.- Por conducto de su Titular, desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo;
 
@@ -419,9 +439,9 @@ V.- Aplicar el Plan de Emergencia o los Programas establecidos por el Consejo Es
 
 VI.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-VII.- De acuerdo con los lineamientos trazados por la Secretaría General de Gobierno, auxiliar a la elaboración, instrumentación, operación y coordinación del Programa Estatal de Protección Civil;
+VII.- De acuerdo con los lineamientos trazados por la Secretaría de Seguridad Pública, auxiliar a la elaboración, instrumentación, operación y coordinación del Programa Estatal de Protección Civil.
 
 VIII.- Elaborar los Programas Especiales e internos de Protección Civil;
 
@@ -431,9 +451,9 @@ IX.- Por conducto del C-4, recibirá todas las llamadas de emergencia del públi
 
 X.- Establecer y mantener la coordinación con las Unidades Distritales, Municipales, y con autoridades de los tres niveles de Gobierno, instituciones y organismos involucrados en tareas de protección civil;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-XI.- Promover ante el Ejecutivo Estatal, por conducto del Secretario General de Gobierno, la elaboración de los Reglamentos respectivos, a fin de llevar a cabo la debida operación y ejecución de la presente Ley;
+XI.- Promover ante el Ejecutivo Estatal, por conducto del Secretario de Seguridad Pública, la elaboración de los reglamentos respectivos, a fin de llevar a cabo la debida operación y ejecución de la presente Ley;
 
 XII.- Instrumentar el sistema de seguimiento y autoevaluación del Programa Estatal de Protección Civil e informar al Consejo Estatal sobre su funcionamiento y avance;
 
@@ -471,17 +491,19 @@ Los servidores públicos de la Unidad Estatal de Protección Civil, con independ
 
 ### CAPITULO CUARTO. DE LA ORGANIZACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### Artículo 22.
 
-El trámite y resolución de los asuntos de la competencia de la Unidad corresponden a su Titular, quien tendrá las siguientes atribuciones:
+El trámite y resolución de los asuntos de la competencia de la Coordinadora corresponden a su Titular, quien tendrá las siguientes atribuciones:
 
 I.- Desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo;
 
 II.- Dirigir, supervisar y controlar todas las acciones que se realicen en la Unidad;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-III.- Coordinar, previo acuerdo del Secretario General de Gobierno, las acciones de la Unidad con las dependencias y organismos federales, estatales y municipales;
+III. Coordinar, previo acuerdo del Secretario de Seguridad Pública, las acciones de la Coordinación con las dependencias y organismos federales, estatales y municipales;
 
 IV.- Incorporar métodos, procedimientos, nueva tecnología y directrices en lo referente a comunicaciones para atención a emergencias;
 
@@ -491,9 +513,9 @@ VI.- Aprobar la rotación de actividades que deba tener el personal en conjunci�
 
 VII.- Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas de la Unidad y demás organismos y personas relacionados con las actividades de ésta;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-VIII.- Informar, y en su caso asesorar, al Gobernador del Estado y al Secretario General de Gobierno en todos los aspectos técnicos de Protección Civil;
+VIII.- Informar, y en su caso asesorar, al Gobernador del Estado y al Secretario de Seguridad Pública en todos los aspectos técnicos de Protección Civil;
 
 IX.- Representar a la dependencia en los convenios con personas y organismos e instituciones públicas, privadas y sociales en el ámbito de su competencia;
 
@@ -503,15 +525,17 @@ X.- Expedir, previo acuerdo del Secretario General de Gobierno, los nombramiento
 
 XI.- Elaborar y tramitar el proyecto de presupuesto anual de la Unidad con apoyo de la Subjefatura Administrativa;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-XII.- Proponer al Secretario General de Gobierno los proyectos de leyes, reglamentos y manuales de organización, aplicables a las comunicaciones de emergencia y protección ciudadana, así como las modificaciones y enmiendas que estime pertinentes;
+XII. Proponer al Secretario de Seguridad Pública los proyectos de leyes, reglamentos y manuales de organización, aplicables a las comunicaciones de emergencia y protección ciudadana, así como las modificaciones y enmiendas que estime pertinentes;
 
 XIII.- Autorizar y supervisar los programas internos de protección civil en los inmuebles o establecimientos que por su propia naturaleza o por el uso al que se han destinado reciban una afluencia masiva de personas;
 
 XIV.- Atender la práctica de simulacros que permitan orientar y auxiliar a la población en caso de estado de emergencia de los establecimientos en los que haya afluencia del público;
 
-XV.- Revisar, inspeccionar, asesorar y sugerir a las empresas o negociaciones que por sus características especiales representen un riesgo en su operación, las medidas de seguridad preventivas que la Unidad de Protección Civil considere convenientes;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+XV.- Revisar, inspeccionar, asesorar y sugerir a las empresas o negociaciones que por sus características especiales representen un riesgo en su operación, las medidas de seguridad preventivas que la Coordinación de Protección Civil considere convenientes.
 
 XVI.- La formulación y expedición del diagnóstico de riesgo para la construcción de inmuebles destinados a usos públicos, dentro de su ámbito de competencia;
 
@@ -982,3 +1006,17 @@ DECRETO No. 625/03 VII P.E.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
