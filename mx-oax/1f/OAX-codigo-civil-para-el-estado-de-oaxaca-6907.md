@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1950-07-14"
+last_updated: "1951-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1951.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -4239,11 +4239,11 @@ Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido y cuya 
 
 ###### Artículo 795.
 
-El que tuviere noticia de la existencia de bienes vacantes en el Estado, y quisiera adquirir la parte que la ley da al descubridor, hará la denuncia de ellos ante el Ministerio Público del lugar de la ubicación de los bienes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
 
 ###### Artículo 796.
 
-El Ministerio Público, si estima que procede, deducirá ante el juez competente, según el valor de los bienes, la acción que corresponda, a fin de que declarados vacantes los bienes se adjudiquen al Fisco del Estado. Se tendrá al que hizo la denuncia como coadyuvante del Ministerio Público y se seguirá la tramitación que marque el Código de Procedimientos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
 
 ###### Artículo 797.
 
@@ -5859,7 +5859,7 @@ La prescripción adquirida por el deudor principal, aprovecha siempre a sus fiad
 
 ###### Artículo 1150.
 
-El Estado, así como los Ayuntamientos y todos los establecimientos públicos y personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones, que sean susceptibles de propiedad privada.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
 
 ###### Artículo 1151.
 
@@ -14626,3 +14626,13 @@ Unico.- El presente decreto entrará en vigor 15 días después de su publicaci�
 P.O. 14 DE JULIO DE 1950.
 
 Unico.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 1951.
+
+SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+
+Artículo Primero: Se deroga el artículo 1150 del Código Civil en cuanto establece la prescripción de los bienes inmuebles de propiedad privada del Estado, así como sus derechos y acciones.
+
+Artículo Segundo: Se derogan asimismo los artículos 795 y 796 del mismo Ordenamiento en los términos de los artículos 21 al 26 de esta Ley, debiendo, el que tenga noticias de la existencia de bienes vacantes y quiera adquirir la parte que le da la Ley, formular su denuncia ante el Departamento de Bienes del Estado. Se derogan también todas las disposiciones de la legislación del Estado que se opongan a la presente Ley.
+
+Artículo Tercero: Esta Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
