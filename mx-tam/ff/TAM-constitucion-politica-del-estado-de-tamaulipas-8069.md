@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2002-12-18"
+last_updated: "2003-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -203,19 +203,25 @@ III. Por ausencia con ocasión de estudios o comisiones científicas o artístic
 
 Son habitantes del Estado todas las personas que residen en su territorio, sea cual fuere su estado y condición.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
+
+El pueblo de Tamaulipas establece que el respeto a las libertades y derechos fundamentales constituye la base y el objeto de las instituciones públicas y sociales. En consecuencia, en el Estado toda persona goza de las garantías individuales reconocidas por la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que la misma establece; y disfruta de las libertades y derechos fundamentales contenidos en los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la propia Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Art. 17.
 
 El Estado reconoce a sus habitantes:
 
-I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino por causa de utilidad pública y previa indemnización.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+
+I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virtud de expropiación, por causa de utilidad pública y mediante indemnización;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
-III. Los derechos que la Constitución Política de los Estados Unidos Mexicanos expresa bajo el titulo de "Garantías Individuales".
+III. El derecho de los varones y las mujeres a la igualdad de oportunidades en ámbitos político, económico, social y cultural.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -521,11 +527,11 @@ Por muerte o imposibilidad calificada del Diputado Propietario y del Suplente de
 
 En caso de que una u otra ocurran después del término establecido a juicio del Congreso se llamará al Suplente de otro Distrito para que funja hasta terminar el período.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
 ###### Art. 36.
 
-Entre tanto se verifique la elección a que se refiere el artículo anterior y si no pudiere integrarse el quórum legal, la Junta de Diputados llamará al Suplente que a su juicio puede concurrir con más prontitud, cesado éste tan luego como se presente otro Diputado que complete el quórum.
+Entre tanto se verifique la elección a que se refiere el artículo anterior, si no pudiere integrarse el quórum legal, los diputados que concurran llamarán al suplente que, a su juicio, pueda concurrir con mayor prontitud. Este cesará en su función tan luego se presente otro diputado que complete el quórum.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
 
@@ -567,11 +573,11 @@ La ley que establezca las normas de organización y funcionamiento internos del 
 
 El 31 de diciembre del año de la elección, en sesión solemne, los Diputados electos otorgarán la protesta de Ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
 ###### Art. 42.
 
-De no asistir la Diputación Permanente, o la Mesa Directiva en caso de prórroga, los Diputados electos iniciarán por sí la Sesión Solemne, previa designación de tres de sus miembros para que la presidan, cuyo desarrollo se sujetará a los términos del artículo anterior.
+De no asistir la Diputación Permanente o la Mesa Directiva en caso de prórroga, los diputados electos iniciarán por sí la sesión solemne; presidirá el diputado que sea primero en el orden alfabético de sus apellidos y se auxiliará por los dos miembros que libremente determine para fungir como Secretarios. El desarrollo de la sesión solemne tendrá por objeto el otorgamiento de la protesta de ley de los integrantes de la nueva Legislatura.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -663,9 +669,11 @@ IV. De los obstáculos que se opongan al adelanto y progreso del Distrito y de l
 
 V. Velar constantemente por el bienestar y prosperidad de su Distrito, allegando al o a los Municipios que lo compongan, su ayuda directa para conseguir ese fin.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### Art. 56.
 
-Para que los Diputados puedan cumplir con lo dispuesto en el artículo anterior, las oficinas públicas les facilitarán todos los datos que pidieren, a no ser que conforme a la ley deban permanecer en secreto.
+Para que los diputados puedan cumplir con lo dispuesto en el artículo anterior, las oficinas públicas les facilitarán todos los datos que soliciten, a no ser que conforme a la ley deban permanecer en reserva.
 
 ###### Art. 57.
 
@@ -713,7 +721,9 @@ Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría
 
 VII. Fijar las bases al Ejecutivo para la contratación de empréstitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
 
-VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado;
+> <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
+
+VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado; cuando se realicen operaciones de sustitución o canje de deuda se informará al Congreso en los términos que prescriba la ley sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -751,7 +761,7 @@ XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públ
 
 Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
-XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
+XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -887,7 +897,9 @@ No puede el Congreso:
 
 I. Imponer préstamos forzosos de cualquier especie y naturaleza que sean.
 
-II. Abrogarse en ningún caso facultades extraordinarias.
+> <small>(REFORMADO, P.O. 03 DE JUNIO DE 2003)</small>
+
+II. Arrogarse en ningún caso facultades extraordinarias;
 
 III. Atentar contra el sistema representativo, popular y federal.
 
@@ -937,9 +949,9 @@ IV.- Circular la convocatoria si después de tres días de comunicada al Ejecuti
 
 V.- Admitir la renuncia de los servidores públicos que conforme a la ley deban presentarla ante el mismo, mandando cubrir sus vacantes en la forma que lo establece la Constitución;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
-VI. Ejercer las atribuciones que le señalan la Ley Orgánica del Poder Legislativo y el Reglamento para el Gobierno Interior del Congreso.
+VI. Desempeñar las funciones y ejercer las facultades que le señala la ley sobre la organización y funcionamiento internos del Congreso;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -949,7 +961,9 @@ VII.- Ejercer, en su caso, la facultad que al Congreso concede la Fracción XXX 
 
 VIII.- Recibir la protesta de los servidores públicos en los casos en que deban rendirla ante el Congreso;
 
-IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una ley o decreto, se concretará la Comisión a formular dictamen para dar cuenta a la Legislatura.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+
+IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una Ley o Decreto, se concretará la Diputación Permanente a formular dictamen para dar cuenta a la Legislatura;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1069,23 +1083,27 @@ La formulación de observaciones sobre la Ley de Ingresos y el Presupuesto de Eg
 
 En todo caso, la formulación y desahogo de las observaciones se hará dentro del plazo que establece esta Constitución para la vigencia del año fiscal.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
 
-#### Sección Tercera. De la Fiscalización Superior
+Si los términos contenidos originalmente en la Ley de Ingresos o el Presupuesto de Egresos son confirmados por las dos terceras partes de los diputados presentes, volverá al Ejecutivo para su promulgación.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 03 DE JUNIO DE 2003)</small>
+
+#### Sección Tercera. De las Disposiciones Comunes
+
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
 
 ###### Art. 73.
 
 El Ejecutivo no podrá formular observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocatoria a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
 
 ###### Art. 74.
 
 En la reforma, adición, derogación o abrogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
 
 ###### Art. 75.
 
@@ -1093,13 +1111,11 @@ Las resoluciones del Congreso tendrán carácter de ley, decreto o acuerdo.
 
 Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y los Secretarios del Congreso, empleándose la siguiente formula: " El Congreso del Estado Libre y Soberano de Tamaulipas, decreta: (texto de la ley o decreto)", y los acuerdos serán suscritos únicamente por los Secretarios.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2003)</small>
 
-#### SECCION IV.
+#### Sección Cuarta. De la Fiscalización Superior
 
-DE LA COMISION PERMANENTE.
-
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002) (REUBICADO, P.O. 3 DE JUNIO0 DE 2003)
 
 ###### Art. 76.
 
@@ -1107,7 +1123,9 @@ A la Auditoría Superior del Estado corresponde:
 
 I.- Fiscalizar en forma posterior los ingresos y egresos públicos, el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de los organismos estatales y municipales, y el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos emitidos en cumplimiento de las disposiciones legales aplicables.
 
-II.- Entregar al Congreso del Estado los informes del resultado de la rendición de cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas, incluyéndose en su caso los comentarios formulados por los auditados.
+> <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
+
+II.- Entregar al Congreso del Estado los informes del resultado de la revisión de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas.
 
 III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus funciones, sujetándose a la leyes y a las formalidades establecidas para los cateos, y
 
@@ -1305,9 +1323,9 @@ XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, complet
 
 XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
 
-XVIII.- Celebrar con la aprobación del Congreso del Estado y de la Unión, tratados amistosos con los Estados vecinos para el arreglo de límites;
+XVIII.- Celebrar, con la aprobación del Congreso del Estado y, posteriormente, del Congreso de la Unión, convenios amistosos con los Estados vecinos en materia de límites;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1531,15 +1549,21 @@ Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su e
 
 Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O.3 DE JUNIO DE 2003)</small>
 
 ###### Art. 106.
 
-El Supremo Tribunal de Justicia funcionará en Pleno o por Salas, en la forma que determine la ley, y se integrará por nueve Magistrados, siete que integrarán el Pleno y dos Supernumerarios, quienes serán nombrados por un periodo de cuatro años, pudiendo ser ratificados hasta en dos ocasiones por otro periodo igual, por el voto de por lo menos las dos terceras partes de los miembros presentes del Congreso del Estado, hasta completar un máximo de doce años contados a partir de la fecha de su designación inicial. En el caso de no ratificarse su nombramiento quedarán separados automáticamente de su cargo.
+El Supremo Tribunal de Justicia funcionará en Pleno o por Salas, en la forma que determine la ley, y se integrará por nueve Magistrados de Número y los Supernumerarios que sus funciones requieran, y actuaran en Pleno o por Salas Unitarias, quienes serán nombrados por un periodo de cuatro años, pudiendo ser ratificados hasta en dos ocasiones por otro periodo igual, por el voto de por lo menos las dos terceras partes de los miembros presentes del Congreso del Estado, hasta completar un máximo de doce años contados a partir de la fecha de su designación inicial. En el caso de no ratificarse su nombramiento quedarán separados automáticamente de su cargo.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 El Congreso del Estado, a solicitud del Pleno del Supremo Tribunal de Justicia, deberá resolver sobre la ratificación, con una anticipación de por lo menos sesenta días a la fecha en que expire el plazo de ejercicio del Magistrado que corresponda.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+
 En caso de que el Pleno del Supremo Tribunal de Justicia considere necesario el nombramiento de uno o varios Magistrados Supernumerarios, enviará al Congreso del Estado la propuesta correspondiente a fin de que, si no hubiere inconveniente legal para ello, sean designados.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 El Pleno funcionará con el quórum que establezca la ley, bajo la presidencia de uno de los Magistrados, electo de entre ellos, en la forma que se determine en la ley. El Presidente designado será el órgano de representación del Poder Judicial, durará cuatro años en su encargo y no podrá ser reelecto para el periodo inmediato.
 
@@ -1861,9 +1885,11 @@ El titular del organismo deberá entregar puntualmente los informes y las cuenta
 
 En cumplimiento a lo dispuesto en el Artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados, de intervenir como Abogados Patronos de las partes en materia civil y de aconsejar, en este ramo, a quien así lo solicite.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### Art. 128.
 
-El personal de esta institución lo forman un Director General y los defensores de oficio subalternos, quienes serán nombrados por el Ejecutivo.
+La defensoría de oficio tendrá un titular y los defensores de oficio subalternos que prevea la ley y sustente el Presupuesto de Egresos. Su nombramiento corresponde al Ejecutivo.
 
 ###### Art. 129.
 
@@ -2163,7 +2189,7 @@ Para proceder penalmente contra los Diputados al Congreso Local, los Magistrados
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2263,13 +2289,13 @@ Ningún servidor público percibirá más de un sueldo, excepción hecha de los 
 
 Los servidores públicos que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
 ###### Art. 162.
 
-La Secretaría del ramo y áreas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretario General de Gobierno, salvo que exista acuerdo delegatorio expreso.
+Toda erogación que se realice con cargo al Presupuesto de Egresos se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado y el propio Presupuesto de Egresos.
 
-Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
+Los tesoreros municipales solo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento, salvo que exista acuerdo delegatorio expreso aprobado por el Cabildo. El tesorero o empleado que desobedeciera esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
 ###### Art. 163.
 
@@ -2417,17 +2443,23 @@ P.O. 25 DE AGOSTO DE 1934.
 
 TRANSITORIO.- Este Decreto en cuanto no tenga relación con los preceptos de la Constitución Política de la República, que en el mismo se invocan, principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 71)
+P.O. 29 DE AGOSTO DE 1934.
 
 REPUBLICADO, P.O. 29 DE AGOSTO DE 1934.
 
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 72)
+DECRETO NUM. 71.
 
 TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 86)
+P.O. 29 DE AGOSTO DE 1934.
+
+DECRETO NUM. 72.
+
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 1934.
+
+DECRETO NUM. 86.
 
 TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -2441,11 +2473,15 @@ P.O. 8 DE DICIEMBRE DE 1934.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA LAS DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 62)
+P.O. 13 DE AGOSTO DE 1935.
+
+DECRETO No. 62.
 
 Transitorio.- Esta reforma comenzará a surtir sus efectos a partir de la fecha de su promulgación.
 
-P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 63)
+P.O. 13 DE AGOSTO DE 1935.
+
+DECRETO No. 63.
 
 Transitorio.- Este decreto principiará a surtir sus efectos desde la fecha de su publicación.
 
@@ -2727,9 +2763,9 @@ DECRETO No. 251.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 29 DE DICIEMBRE DE 1962
+P.O. 29 DE DICIEMBRE DE 1962.
 
-DECRETO No. 257
+DECRETO No. 257.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -2915,7 +2951,7 @@ P.O. 24 DE AGOSTO DE 1983.
 
 P.O. 27 DE AGOSTO DE 1983.
 
-DECRETO No. 493
+DECRETO No. 493.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3059,7 +3095,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 El Artículo 80 que mediante el presente Decreto se reforma surtirá efectos para el ciudadano electo Gobernador del Estado para el período 2005 al 2010, quien iniciará su encargo a partir del 1 de enero del año siguiente al de la elección correspondiente.
 
-P.O. 10 DE JUNIO DE 1995
+P.O. 10 DE JUNIO DE 1995.
 
 DECRETO No. 333.
 
@@ -3167,7 +3203,7 @@ P.O. 6 DE JUNIO DE 2001.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 27 DE NOVIEMBRE DE 2001
+P.O. 27 DE NOVIEMBRE DE 2001.
 
 ###### ARTICULO PRIMERO.
 
@@ -3177,13 +3213,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
-P.O. 19 DE DICIEMBRE DE 2001
+P.O. 19 DE DICIEMBRE DE 2001.
 
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE DICIEMBRE DE 2001
+P.O. 25 DE DICIEMBRE DE 2001.
 
 ###### ARTICULO PRIMERO.
 
@@ -3201,15 +3237,15 @@ Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán
 
 La recepción del informe por el Pleno del Supremo Tribunal de Justicia, por parte de su Presidente, será a partir del que se rinda en el año 2002 y comprenderá el ejercicio del año 2001.
 
-P.O. 30 DE ENERO DEL 2002
+P.O. 30 DE ENERO DEL 2002.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 15 DE OCTUBRE DE 2002
+P.O. 15 DE OCTUBRE DE 2002.
 
-DECRETO No. 74
+DECRETO No. 74.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3223,23 +3259,39 @@ Artículo Segundo.- En tanto se adecua la legislación secundaria a los término
 
 P.O. 18 DE DICIEMBRE DE 2002.
 
-DECRETO No. 176
+DECRETO No. 176.
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 18 DE DICIEMBRE DE 2002.
 
-DECRETO No. 185
+DECRETO No. 185.
 
 Artículo Unico.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2003.
 
-###### ARTICULO PRIMERO.
+P.O. 3 DE JUNIO DE 2003.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+DECRETO No. 175.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas a que se contrae el presente Decreto entrarán en vigor a los treinta y cinco días siguientes al de su publicación.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan las fracciones VII del Artículo 74, IX del Artículo 76 y XIX del Artículo 89 de la Constitución Política de los Estados UNidos Mexicanos.
+Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
+
+P.O. 3 DE JUNIO DE 2003.
+
+DECRETO No. 285.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2003.
+
+DECRETO No. 286.
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
