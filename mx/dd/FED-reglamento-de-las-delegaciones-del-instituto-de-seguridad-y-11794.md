@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "1997-10-01"
+last_updated: "1998-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1998.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -835,14 +835,24 @@ Segundo.- Al entrar en vigor el presente Reglamento, quedará abrogado el Reglam
 
 Tercero.- Las Delegaciones actualmente constituidas serán clasificadas antes de la entrada en vigor del presente Reglamento, de conformidad con lo previsto en el artículo 27 del mismo ordenamiento.
 
-Cuarto.- El Director General expedirá los manuales de organización, procedimientos y servicios al público derivados de este Reglamento, dentro de los seis meses posteriores a la entrada en vigor del mismo.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1998)</small>
+
+Cuarto.- El Director General expedirá los manuales de organización, procedimientos y servicios al público derivados de este Reglamento, dentro de los doce meses posteriores a la entrada en vigor del mismo.
 
 Quinto.- Las Delegaciones Estatales y Regionales con las que cuenta actualmente el Instituto, conservarán su actual circunscripción territorial, en tanto la Junta Directiva no la modifique con base en este Reglamento.
 
-Sexto.- Los asuntos que por virtud del presente Reglamento se desconcentran a las Delegaciones y que actualmente se encuentran en trámite en las Unidades Administrativas Centrales, continuarán en dichas áreas hasta su total resolución. A partir de la fecha de entrada en vigor de este Reglamento, los citados asuntos se iniciarán en las Delegaciones, de conformidad con su competencia territorial. Lo previsto en el artículo 17, inciso A), fracción II, del presente Reglamento, entrará en vigor el 1o. de enero de 1998.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1998)</small>
+
+Sexto.- Los asuntos que por virtud del presente Reglamento se desconcentran a las Delegaciones y que actualmente se encuentran en trámite en las Unidades Administrativas Centrales, continuarán en dichas áreas hasta su total resolución. A partir de la fecha de entrada en vigor de este Reglamento, los citados asuntos se iniciarán en las Delegaciones, de conformidad con su competencia territorial. Lo previsto en el artículo 17 inciso A) fracción II del presente Reglamento, entrará en vigor el 1 de enero de 1999.
 
 Séptimo.- En tanto concluyen los procesos de regionalización del Sistema Integral de Tiendas y Farmacias y del Sistema de Agencias Turísticas TURISSSTE del Instituto, los Delegados mantendrán la coordinación y colaboración necesarias con los Directores de dichos Sistemas para que su funcionamiento no sea afectado." Lo que me permito hacer de su conocimiento para los efectos a que haya lugar.
 
 Atentamente
 
 México, D.F., a 18 de septiembre de 1997.- El Secretario de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Mario Gamboa Patrón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE JUNIO DE 1998.
+
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
