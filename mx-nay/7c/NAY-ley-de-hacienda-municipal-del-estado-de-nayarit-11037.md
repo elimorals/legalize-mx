@@ -1,0 +1,634 @@
+---
+title: "LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT"
+identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
+country: "mx"
+rank: "ley"
+publication_date: "1983-12-28"
+last_updated: "1983-12-28"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nay"
+scjn_id: "11037"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "52 TERCERA SECCION"
+reform_count: "14"
+scjn_last_update: "2022-10-07"
+issue_date: "1983-12-27"
+state: "NAY"
+---
+# LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
+
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
+
+EMILIO M. GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+
+Que el H. Congreso Local se ha servido dirigirme para su promulgación, el siguiente:
+
+DECRETO NUM. 6780
+
+El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XX Legislatura
+
+D E C R E T A :
+
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPITULO PRIMERO. DISPOSICIONES DIVERSAS
+
+###### ARTICULO 1o.
+
+La Hacienda Pública de los Municipios del Estado, para cumplir con los gastos y demás obligaciones de su organización, administración y prestación de servicios públicos, percibirán en cada ejercicio fiscal los ingresos que establezcan las leyes Fiscales aplicables.
+
+###### ARTICULO 2o.
+
+Son Leyes Fiscales del Municipio:
+
+I. La presente Ley de Hacienda.
+
+II. Las Leyes de Ingresos y Presupuesto de Egresos Municipales.
+
+III. Las que autoricen ingresos Extraordinarios
+
+IV. Las que organicen los servicios administrativos necesarios para la recaudación, distribución y control de los ingresos y egresos.
+
+V.- Los convenios que se celebren en materia fiscal con la Federación, el estado, o con ambos.
+
+###### ARTICULO 3o.
+
+La presente Ley establece las características generales que tendrán los ingresos del Municipio, tales como objeto, sujeto y sus obligaciones, base y exenciones.
+
+###### ARTICULO 4o.
+
+Las Leyes de Ingresos Municipales establecerán anualmente los impuestos, derechos, productos, aprovechamientos y participaciones que deban recaudarse así como las tasas, cuotas o tarifas correspondientes. Sólo por Ley expresa podrá dedicarse el rendimiento de un impuesto o participación a un fin especial.
+
+###### ARTICULO 5o.
+
+Para los efectos de esta Ley se tendrá como:
+
+I. Impuestos, las contribuciones establecidas en Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hechos previstas por la misma.
+
+II. Derechos, las contraprestaciones establecidas por el poder público, conforme a la ley, en pago de un servicio.
+
+III. Productos, los ingresos que percibe el Municipio por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
+
+IV. Participaciones, las cantidades que corresponden al Municipio en el rendimiento de la recaudación de determinados impuestos y aprovechamientos federales y estatales de conformidad con las leyes respectivas y de los convenios que se celebren sobre el particular.
+
+V. Aprovechamientos, los recargos, las multas y los demás ingresos de derecho público no clasificables como impuestos, derechos, productos o participaciones federales.
+
+###### ARTICULO 6o.
+
+La administración y recaudación de los ingresos municipales señalados en el artículo anterior serán de la competencia de la Tesorería Municipal que podrá ser auxiliada en la administración y recaudación por otras dependencias oficiales, conforme a las disposiciones de las leyes fiscales vigentes.
+
+###### ARTICULO 7o.
+
+Las declaraciones o avisos que haya obligación de presentar conforme a las disposiciones fiscales se harán en las formas aprobadas por la Tesorería Municipal.
+
+Para hacer efectivo el cobro de las contribuciones Municipales, las Tesorerías podrán ejercer la facultad económica-coactiva rigiéndose para el efecto por las disposiciones que establece el Código fiscal del estado.
+
+###### ARTICULO 8o
+
+La ignorancia de las disposiciones fiscales no excusa su cumplimiento.
+
+###### ARTICULO 9o
+
+La Interpretación de las leyes fiscales relativas a la Hacienda Municipal corresponde a la Legislatura del Estado o a la diputación permanente, en su caso.
+
+###### ARTICULO 10.
+
+La interpretación que haga la legislatura o la Diputación permanente, en caso de duda, será obligatoria en el orden administrativo, para todos los Municipios del Estado, a los que deberán hacerla conocer en los términos que proceda.
+
+###### ARTICULO 11.
+
+Contra las resoluciones dictadas en materia fiscal por las Autoridades Municipales solo precederá la interposición de los medios de impugnación que establece el Código Fiscal del Estado.
+
+###### ARTICULO 12.
+
+Los Reglamentos, Circulares, Acuerdos y demás disposiciones administrativos, en ningún caso podrán contravenir esta Ley.
+
+### CAPITULO SEGUNDO. DE LAS AUTORIDADES FISCALES
+
+###### ARTICULO 13.
+
+Son Autoridades Fiscales en los Municipios del Estado, las siguientes:
+
+I. El Ayuntamiento.
+
+II. El Presidente Municipal.
+
+III. El Tesorero Municipal.
+
+###### ARTICULO 14.
+
+La determinación, liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes Municipales con sujeción a la Constitución Política del Estado, a las disposiciones de esta ley, las Leyes de Ingresos Municipales, el Código para la administración Municipal y el Código Fiscal del Estado.
+
+## TITULO SEGUNDO. DE LOS IMPUESTOS
+
+### CAPITULO PRIMERO. DEL IMPUESTO PREDIAL
+
+#### SECCION PRIMERA. DEL OBJETO DEL IMPUESTO
+
+###### ARTICULO 15.
+
+Es objeto del impuesto predial.
+
+I. La propiedad de predios urbanos.
+
+II. La propiedad de predios rústicos.
+
+III. La propiedad ejidal en los términos de la Legislación agraria federal.
+
+IV. La propiedad de predios donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, en los términos de la legislación federal sobre la materia.
+
+V. La posesión de predios urbanos y rústicos en los siguientes casos:
+
+A) Cuando no exista el propietario
+
+B) Cuando se derive de contratos de promesa de venta, de venta con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o cualquier otro similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+
+C) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles, y
+
+D) Cuando siendo propiedad del Estado o de sus Municipios, de la Federación o de las Entidades Federativas, se den en explotación por cualquier título a personas distintas de las antes citadas.
+
+El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes edificadas sobre os predios.
+
+Tratándose de predios rústicos. El objeto del impuesto incluye solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente por propio destino en fines agrícolas, ganaderos y forestales
+
+VI. Las construcciones ubicadas en fundos legales y en zonas de urbanización en los ejidos.
+
+###### ARTICULO 16.
+
+No es objeto del impuesto predial la propiedad o posesión de predios que corresponden a la Federación, al Estado o los Municipios siempre que sean explotados directamente por ellos.
+
+#### SECCION SEGUNDA. DE LOS SUJETOS DEL IMPUESTO
+
+###### ARTICULO 17.
+
+Son sujetos de este impuesto:
+
+I. Los propietarios de predios urbanos y rústicos los ejidatarios y los propietarios de plantas de beneficio y establecimientos metalúrgicos.
+
+II. Los poseedores de predios urbanos y rústicos en el caso de la fracción V del artículo 15.
+
+III. Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les trasmita la propiedad en cumplimiento del fideicomiso y los usufructuarios.
+
+IV. Los poseedores o propietarios de construcciones ubicadas en fundos legales y en zonas de urbanización de los ejidos.
+
+V. Con responsabilidad solidaria objetiva, los adquirentes por cualquier título de predios urbanos y rústicos.
+
+VI. Con responsabilidad solidaria:
+
+A) Los propietarios de predios que hubiesen promovido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso B) de la fracción V del artículo 15.
+
+B) Los empleados de los Ayuntamientos o de cualquier otra autoridad del Estado de Nayarit que dolosamente formulen certificados de no adeudo del Impuesto Predial.
+
+C) Las instituciones fiduciarias en los casos de la fracción III de este artículo.
+
+D) Los copropietarios, los coposeedores, los propietarios o poseedores respecto de los créditos fiscales derivados del bien o derecho común o individual y hasta por el monto del valor de avalúo de dichos bienes o derechos de las prestaciones fiscales que en cualquier tiempo se hubieren causado.
+
+VII. El Comisariado Ejidal, con responsabilidad solidaria por el núcleo de población.
+
+#### SECCION TERCERA. DE LA BASE DEL IMPUESTO
+
+###### ARTICULO 18.
+
+Servirá de base para el pago de este impuesto:
+
+I. El valor catastral del predio o en su defecto.
+
+II. El valor en que aparezcan registrados.
+
+III. El valor de la maquinaria y equipo en caso de plantas de beneficio y establecimientos metalúrgicos.
+
+###### ARTICULO 19.
+
+En el caso de la fracción III del artículo anterior la autoridad competente determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial.
+
+El valor así determinado surtirá efecto de valor catastral.
+
+###### ARTICULO 20.
+
+Tratándose de terrenos destinados a cementerios el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de enero de cada año, los sujetos del impuesto manifestarán a la Tesorería Municipal, las superficies que hubieren entregado para sepulturas en año anterior, con objeto de que ésta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
+
+En los casos de construcciones destinadas especialmente a cementerios con el sistema de gavetas superpuestas el impuesto predial se causará de acuerdo con las siguientes bases.
+
+1. La Autoridad competente, hará el avalúo catastral, incluyendo la tierra y todas las construcciones.
+
+2. En el primer año el impuesto se causará sobre la base del avalúo catastral.
+
+3. A partir del segundo año, el importe del avalúo catastral, incluyendo la tierra y todas las construcciones se reducirá en proporción al número de gavetas vendidas en el año inmediato anterior y la tasa del impuesto se aplicará sobre ese valor ajustado. Al efecto durante el mes de enero de cada año el propietario notificará a la tesorería Municipal el número de gavetas vendidas en el año anterior.
+
+4. A partir de la fecha en que queden vendidas todas las gavetas dejará de causarse el impuesto predial respecto de la tierra y construcciones que pasen en propiedad del Municipio según las concesiones respectivas.
+
+5. Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no haya transcurrido los tres años a que se refiere el artículo 21 de esta ley.
+
+#### SECCION CUARTA. DEL VALOR CATASTRAL
+
+###### ARTICULO 21.
+
+Para determinar el valor catastral de cada predio, se aplicará los valores unitarios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Autoridad Competente. Este valor se fijará cada tres años.
+
+Para la actualización de los valores catastrales de predios ya valuados que no hayan sufrido modificaciones no se requerirá valuación de los peritos o de la autoridad competente, pues bastará aplicar los nuevos valores unitarios que menciona el párrafo anterior.
+
+###### ARTICULO 22.
+
+El valor catastral podrá ser modificado antes de que transcurran tres años cuando ocurra alguna de las siguientes causas que puedan originar una revaluación o actualización del mismo:
+
+I. Cuando en el predio se realicen construcciones, reconstrucciones, o ampliaciones de las construcciones ya existentes.
+
+II. Cuando en el predio, directa o indirectamente opere un cambio físico de urbanización que afecte notoriamente su valor.
+
+III. Cuando parte o la totalidad del predio sea objeto de traslado de dominio.
+
+IV. Cuando se obtengan elementos de catastración técnica sobre el predio y el avalúo existente haya sido fijado únicamente con la información del manifiesto para propiedades urbanas rústicas.
+
+V. Cuando los predios se fusionen o se subdividan o sea motivo de fraccionamiento.
+
+VI. Cuando por la ejecución de obras públicas o privadas se modifique el valor de la propiedad raíz tanto en los predios directamente afectados como en su zona de influencia, determinada ésta por la autoridad competente.
+
+VII. Cuando en las fincas urbanas o rústicas, y ejidales en construcción o reedificación haya transcurrido un año de la iniciación de la construcción ó reedificación sin haberse terminado.
+
+VIII. Cuando se haya cancelado una exención del impuesto predial o concesión de subsidio.
+
+IX. Cuando las construcciones de un predio sean demolidas o hubieren quedado en ruinas parcial o totalmente por el transcurso del tiempo o por siniestro.
+
+Las causas de modificación de la base del impuesto que se señalan en las fracciones I a IX del presente artículo deberán ser notificadas por el causante o por el responsable solidario a la Tesorería Municipal, dentro de los quince días siguientes contados a partir de la fecha en que se haya producido la causa.
+
+###### ARTICULO 23.
+
+En el caso de la fracción III del artículo anterior, la modificación se hará tomando como base el valor que resulte más alto entre el de operación, el bancario y el catastral. En caso de las otras fracciones las modificaciones se llevarán a cabo en los términos del artículo 19o de esta Ley.
+
+###### ARTICULO 24.
+
+Las autoridades que aprueben fraccionamientos, construcciones, reconstrucciones, ampliaciones, demoliciones o afectaciones de inmuebles, estarán obligadas a dar aviso correspondiente a la Tesorería Municipal durante el plazo de quince días a partir de la fecha de su aprobación.
+
+###### ARTICULO 25.
+
+Las autoridades judiciales y administrativas al proceder al remate de inmuebles, recabarán de la Tesorería Municipal un informe sobre la responsabilidad fiscal que afecte a dichos bienes hasta la fecha de subasta.
+
+Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate, la cantidad suficiente para cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda el recibo correspondiente que será entregado al adquirente del inmueble.
+
+###### ARTICULO 26.
+
+Los notarios públicos para autorizar en forma definitiva escrituras en que se haga constar contratos, convenios o resoluciones judiciales o administrativas, cuyo objeto sean inmuebles ubicados en el Estado, deberán exigir constancia expedida por la Tesorería Municipal de que están al corriente en el pago de este impuesto, o de que no se causa.
+
+###### ARTICULO 27.
+
+Las modificaciones a los valores que sirvan de base surtirán sus efectos fiscales a partir del bimestre siguiente a aquél en que se notifiquen debidamente, con excepción de los provenientes por transmisiones de dominio o de promesa de venta, que surtirán sus efectos a partir del siguiente bimestre al de la fecha de su autorización notarial o de su otorgamiento cuando consten en documento privado.
+
+###### ARTICULO 28.
+
+Las valuaciones catastrales se practicarán por peritos que deberán ser arquitectos, ingenieros, o pasantes de estas profesiones.
+
+La Autoridad Competente, ordenará por escrito las valuaciones catastrales y acreditará la personalidad de los peritos correspondientes por medio de credenciales oficiales.
+
+###### ARTICULO 29.
+
+Los peritos valuadores formularán sus valuaciones catastrales en dictámenes debidamente fundados y motivados, para cuyo efecto utilizarán las formas oficiales que apruebe la Tesorería Municipal.
+
+###### ARTICULO 30.
+
+Los propietarios y poseedores a título de dueño de inmuebles que hubiesen permanecido ocultos a los registros catastrales, estarán obligados a manifestarlos a la Tesorería Municipal, así como cualquier excedencia en relación con los ya registrados.
+
+###### ARTICULO 31.
+
+La Autoridad Competente deberá asignar los valores catastrales a los inmuebles que no lo tuviesen en la forma y términos que se establezcan en el reglamento respectivo.
+
+###### ARTICULO 32.
+
+Los propietarios, poseedores, inquilinos y cualquier otra persona encargada de un inmueble, estarán obligados a proporcionar a la Tesorería Municipal los datos documentos e informes que se soliciten, así como permitir el acceso al interior de los mismos para la identificación de los predios.
+
+#### SECCION QUINTA. TASA DEL IMPUESTO
+
+###### ARTICULO 33.
+
+El impuesto predial se causará y pagará de acuerdo con las tasas, tarifas y bases que señalen las leyes de Ingresos de los Municipios del Estado.
+
+#### SECCION SEXTA. DEFINICIONES
+
+###### ARTICULO 34.
+
+Para los efectos de este impuesto, se tomarán en cuenta las definiciones que sobre las diversas clases de predios y construcciones se señalan en los siguientes artículos.
+
+#### SECCION SEPTIMA. DEL PAGO DEL IMPUESTO
+
+###### ARTICULO 35.
+
+Se denominan predios urbanos:
+
+I. Las casas, los edificios y demás construcciones existentes dentro del perímetro o fundo legal de las poblaciones, aún en el caso de que se dediquen en todo o en parte a un cultivo agrícola, quedando comprendidas las construcciones que se destinen a casa habitación, aún cuando se encuentren fuera del perímetro o fundo legal.
+
+II. Los solares o sitios para edificar, con construcciones o sin ellas, estén o no cercados, que se encuentren situados dentro del perímetro o fundo legal de las poblaciones; y
+
+Los edificios dedicados en las fincas rústicas a fábricas o cualesquiera otro establecimientos industriales que no sean los destinados a la transformación de los frutos de las mismas fincas.
+
+###### ARTICULO 36.
+
+Se denomina predio rústico:
+
+I. Todas las propiedades rurales, ubicadas fuera del perímetro o fundo legal de las poblaciones, tales como haciendas, ranchos, granjas, casa de campo, parcelas, huertas, montes y demás predios, con o sin habitaciones, adecuadas para la explotación agrícola o pecuaria;
+
+II. Los ejidos cualesquiera que sea el estado de la posesión, ya sea que se disfruten en común o individualmente por parcelas, y;
+
+III. La pequeña propiedad creada a virtud de la Ley relativa.
+
+###### ARTICULO 37.
+
+Otras definiciones para efectos de este impuesto, son las siguientes:
+
+I. Predio urbano edificado es el que tenga construcciones permanentes.
+
+II. Predio urbano no edificado, el que no tenga construcciones o si teniéndolas son provisionales.
+
+III. Construcciones permanentes las que tienen carácter definitivo y la posibilidad de usarse u ocuparse constantemente.
+
+IV. Construcciones provisionales las que revelan un uso transitorio; en los casos de duda; la autoridad competente, determinará si las construcciones son o no provisionales.
+
+V. Valor catastral es el que fije a cada predio la autoridad competente.
+
+###### ARTICULO 38.
+
+La cuota del impuesto predial es anual de acuerdo con la dispuesto en las Leyes de Ingresos de los Municipios del Estado, pero su importe se pagará bimestralmente, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre en la Recaudación de rentas de la jurisdicción a que corresponda o por conducto de los recaudadores que señala la Tesorería Municipal. Sin embargo el pago podrá hacerse por anualidad, con una bonificación del 5 por ciento de dicha anualidad para lo cual los interesados deberán presentar una solicitud por escrito a la Tesorería Municipal en un plazo que terminará el 31 de enero de cada año; en éste caso el pago se hará, a más tardar, el último día hábil del mes de febrero. El pago por anualidad anticipada del impuesto predial no impide el cobro de diferencias que debe hacer la Tesorería Municipal por cambio de las bases gravables o alteración de las cuotas del impuesto. No obstante lo dispuesto en el primer párrafo de este artículo, el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios, se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
+
+###### ARTICULO 39.
+
+Los recibos de pago que expida la Tesorería Municipal, tratándose de impuesto predial sólo tendrán efecto en relación con este impuesto.
+
+### CAPITULO SEGUNDO. IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES
+
+#### SECCION PRIMERA. OBJETO, SUJETO TASA, Y BASES PARA LA DETERMINACION DEL IMPUESTO
+
+###### ARTICULO 40.
+
+Están obligadas al pago de impuesto sobre adquisición de inmuebles establecidos en este capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Estado de Nayarit; así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se causará conforme lo establecido las leyes de Ingresos de los Municipios sobre la base gravable que en las mismas se señalen.
+
+###### ARTICULO 41.
+
+No se pagará este impuesto en los siguientes casos:
+
+I. En las adquisiciones por la Federación, por el Estado de Nayarit y los Municipios, así como por las demás entidades, en caso de reciprocidad.
+
+###### ARTICULO 42.
+
+Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
+
+I. Todo acto por el que se transmite la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
+
+II. La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
+
+III. La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, entes de que celebre el contrato prometido.
+
+IV. La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
+
+V. Fusión de Sociedades.
+
+VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones a sociedades civiles o mercantiles.
+
+VII. Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
+
+VIII. Prescripción positiva.
+
+IX. La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+
+X. Enajenación a través del fideicomiso, en los términos del Código Fiscal de la Federación.
+
+XI. El arrendamiento financiero, en los términos del Código Fiscal de la Federación. En las permutas se considerarán que se efectúan dos adquisiciones.
+
+###### ARTICULO 43.
+
+El valor del inmueble que se considerará para los efectos del artículo 40, será el precio pactado, el cual en ningún caso podrá ser inferior al valor catastral correspondiente. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición, y cuando al valor que resulte de dicho avalúo exceda en más de un 10 por ciento del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre le valor del avalúo, formulándose la liquidación por las diferencias de impuesto que resulten.
+
+Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o mas deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique la autoridad competente. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere el párrafo anterior.
+
+Para los fines de este capítulo se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50 por ciento del valor de la propiedad.
+
+###### ARTICULO 44.
+
+El pago del impuesto deberá hacerse dentro del mes siguiente a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+II. A la adjudicación de los bienes de la sucesión a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, inmediatamente del que se cause por el cesionario o por el adquirente.
+
+III. Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV. Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V. En los contratos de compra - venta con reserva de dominio y de arrendamiento financiero, cuando se celebre el contrato respectivo.
+
+VI. En la promesa de adquirir se presumirá celebrado el contrato prometido cuando venza el plazo fijado en el contrato respectivo, y en ese momento será exigible el impuesto correspondiente, salvo que se pruebe con instrumento público, que el futuro adquirente cedió sus derechos.
+
+VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
+
+###### ARTICULO 45.
+
+En las adquisiciones que se hagan constar en Escritura pública los Notarios, Jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo hará constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante le oficina autorizada que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
+
+Los Fedatarios no estarán obligados a enterar el impuesto cuando se consignen en Escrituras Públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectúo dicho pago.
+
+El enajenante responde solidariamente del impuesto que debe pagar el adquirente.
+
+Cuando por el evalúo practicado, ordenado o tomado en consideración por la autoridad competente, resulte liquidación de diferencias de impuesto, los Fedatarios no serán responsables solidarios por las mismas.
+
+###### ARTICULO 46.
+
+Para efectuar la deducción a que se refieren las Leyes de Ingresos de los Municipios del estado, se aplicará el salario mínimo correspondiente al año calendario en que se realice la adquisición en los términos del artículo 44 de ésta ley.
+
+En los casos que se señalan a continuación la deducción se aplicará conforme al salario mínimo correspondiente al año de calendario en que se celebre el contrato, aún cuando el pago del impuesto deba hacerse cuando se realice cualquiera de los supuestos a que se refiere el artículo 44 de esta ley.
+
+I. La promesa de adquirir en los términos de la fracción III del artículo 42 de esta Ley.
+
+II. El arrendamiento financiero.
+
+###### ARTICULO 47.
+
+La deducción a que se refieren las Leyes de Ingresos de los Municipios se realizarán conforme a lo siguiente:
+
+I. Se considerarán como un sólo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quién se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que ajuste el monto de la deducción y pagará en su caso, las diferencias de impuesto que corresponda.
+
+Lo dispuesto en esa fracción no es aplicable a las adquisiciones por causa de muerte.
+
+II. Cuando se adquiera parte de la propiedad de los derechos de un inmueble, a que se refiere el artículo 40 de esta Ley, la deducción se hará en la proporción que corresponda a dicha parte.
+
+III. Tratándose de usufructo o de la nula propiedad, únicamente se tendrá derecho al 50 % de la deducción por cada una de ellos.
+
+IV. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, porterías o guarda de vehículos aún cuando se utilicen para otros fines.
+
+#### SECCION SEGUNDA. DECLARACION Y PAGO DEL IMPUESTO
+
+###### ARTICULO 48.
+
+El pago del impuesto sobre adquisición de Inmuebles se hará en la oficina recaudadora de la jurisdicción del contribuyente dentro del plazo que señala el artículo 44 mediante la presentación de una declaración en las formas aprobadas por la Tesorería Municipal, las cuales deberán contener los datos suficientes para identificar la operación gravada así como los demás elementos necesarios para su control administrativo.
+
+###### ARTICULO 49.
+
+En los contratos celebrados en la República pero fuera del Estado de Nayarit, con relación a inmuebles ubicados en el territorio de éste, causará el impuesto a que este capítulo se refiere conforme a las disposiciones del mismo exceptuando lo relativo al plazo para el pago que, será de noventa días hábiles contados a partir de la fecha del contrato.
+
+Cuando la traslación de dominio se opere por virtud de Resoluciones de autoridades de la República, pero fuera del Estado de Nayarit, el pago se hará dentro del plazo que señale el párrafo anterior, contando a partir de la fecha en que haya causado ejecutoria la resolución respectiva.
+
+#### SECCION TERCERA. DISPOSICIONES GENERALES
+
+###### ARTICULO 50.
+
+En los testimonios que los Notarios públicos expidan de escrituras relativas a actos o contratos traslativos de dominio deberán hacer constar el número del comprobante oficial del pago del impuesto a que se refiere este capítulo y en caso de estar exceptuados conforme a las disposiciones del artículo 41 deberán expresarlo así, señalando la causa de la exención y el fundamento legal de la misma.
+
+###### ARTICULO 51.
+
+El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles mientras no le sea exhibido el comprobante del pago del impuesto que establece éste capítulo.
+
+###### ARTICULO 52.
+
+Tratándose de las contribuciones a la propiedad Inmobiliaria, el Ayuntamiento, previo acuerdo del Cabildo queda facultado para celebrar convenios con el Gobierno del Estado, por cuanto al cobro, administración control, vigilancia, ejecución y aplicación de sanciones a que se refiere, sujetándose al procedimiento establecido en esta ley y el Código Fiscal del Estado.
+
+### CAPITULO TERCERO. ADICIONALES
+
+###### ARTICULO 53.
+
+Es objeto de los adicionales el pago de impuestos, derechos y productos que establezcan las leyes de Ingresos Municipales.
+
+###### ARTICULO 54.
+
+La base de los impuestos adicionales será el monto de lo que se pague por concepto de impuestos, derechos y productos.
+
+###### ARTICULO 55.
+
+Son sujetos de los impuestos adicionales los que lo sean de los impuestos y derechos.
+
+###### ARTICULO 56.
+
+Los impuestos adicionales se causarán y harán efectivos en el momento en que se paguen los impuestos y los derechos.
+
+#### SECCION UNICA. PARA LA UNIVERSIDAD AUTONOMA DE NAYARIT
+
+###### ARTICULO 57.
+
+Este impuesto se causará y pagará conforme a la tasa que señalan las Leyes de Ingresos Municipales.
+
+## TITULO TERCERO. DE LOS DERECHOS
+
+### CAPITULO UNICO
+
+###### ARTICULO 58.
+
+Los derechos por la prestación de servicios públicos Municipales, se causarán en el momento en que el particular recibe la prestación del servicio o en el momento en que se provoque por parte del Municipio, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho señale cosa distinta.
+
+###### ARTICULO 59.
+
+La Dependencia, Funcionario a Empleado que preste el servicio por el cuál se paguen los derechos, precederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Tesorería Municipal respectiva. Ningún otro comprobante justificará el pago correspondiente.
+
+###### ARTICULO 60.
+
+El Funcionario o empleado público que contravenga lo dispuesto anteriormente, será responsable de su pago.
+
+###### ARTICULO 61.
+
+Los derechos se pagarán de conformidad con las tasas y cuotas que establezcan las Leyes de Ingreso Municipales y a falta de disposición expresa, la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Municipio tenga la prestación del servicio.
+
+### CAPITULO UNICO
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
+### CAPITULO UNICO
+
+###### ARTICULO 62.
+
+Quedan comprendidos como productos, los ingresos que obtiene el Municipio por actividades que no corresponden al desarrollo de una función propia del Derecho público, así como por la explotación o aprovechamiento de los bienes que constituyen su patrimonio.
+
+###### ARTICULO 63.
+
+Los productos que perciba el Municipio se regularán por los contratos o convenios que se elaboren y su importe deberá enterarse en la Tesorería Municipal correspondiente, en los plazos, términos y condisiones (sic) que en los mismos se establezcan o por las disposiciones que al respecto señalan las Leyes de Ingresos Municipales.
+
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO
+
+###### ARTICULO 64.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de:
+
+a) Recargos y Multas.
+
+b) Gastos de Ejecución
+
+c) Subsidios, donaciones, herencias y legados
+
+d) Anticipos o indemnizaciones
+
+e) Otros ingresos no especificados.
+
+## TITULO SEXTO
+
+DE LAS PARTICIPACIONES.
+
+### CAPITULO UNICO
+
+###### ARTICULO 65.
+
+Son participaciones las cantidades sobre determinados impuestos u otros ingresos federales o del Estado, que perciba el Municipio, en los términos que señalen las Leyes, acuerdos o convenios que las regulen.
+
+## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
+
+###### ARTICULO 66.
+
+Se consideran ingresos extraordinarios:
+
+I. Los que con ese carácter y excepcionalmente decrete el congreso del Estado para el pago de obras o servicios accidentales.
+
+II. Los que procedan de préstamos, financiamientos y obligaciones que adquiere el Ayuntamiento para fines de interés público con autorización y aprobación del congreso del Estado, conforme a la Constitución política Local.
+
+III. Aportaciones del Gobierno Federal o Estatal.
+
+## TITULO OCTAVO
+
+DE LAS INFRACCIONES Y SANCIONES.
+
+###### ARTICULO 67.
+
+Para la aplicación de las sanciones administrativas que procedan por infracciones a las leyes Fiscales Municipales, se atenderá a lo dispuesto para el efecto por el Código Fiscal del Estado.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Hacienda Municipal que por decreto No. 6180 se publicó en el Periódico Oficial del Estado, de Fecha miércoles 26 de septiembre de 1979, sus posteriores modificaciones, reformas y adiciones, así como todas las disposiciones fiscales que contravengan lo dispuesto por la presente Ley.
+
+Dado En la Sala de Sesiones "Benito Juárez" del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic su Capital a los veintisiete días del mes de Diciembre de mil novecientos ochenta y tres.
+
+DIP. PRESIDENTE.
+
+LIC. JAVIER CARRILLO CASAS.
+
+DIP. PRIMER SECRETARIO.
+
+JESUS ELIAS RODRIGUEZ BAÑUELOS.
+
+DIP. SEGUNDO SECRETARIO.
+
+VICTORIA DEL HOYO RENTERIA.
+
+Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital, a los veintisiete días del mes de Diciembre de mil novecientos ochenta y tres.
+
+El Secretario Gral. de Gobierno
+
+José Félix Torres Haro.
+
+Y EN CUMPLIMIENTO DE LO DISPUESTO EN LA FRACCION II DEL ARTICULO 69 DE LA CONSTITUCION POLITICA DEL ESTADO Y PARA SU DEBIDA OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DE NAYARIT, EN TEPIC, SU CAPITAL, A LOS DIECISEIS DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.
+
+El Secretario General de Gobierno
+
+Lic. Sigfrido de la Torre Miramontes
