@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1984-01-12"
+last_updated: "1984-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -272,19 +272,25 @@ Durante las horas de jornada legal, los trabajadores tendrán obligación de des
 
 ### CAPITULO III
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 32.
 
-El sueldo o salario que se asigna en el CATALOGO GENERAL DE PUESTOS DEL GOBIERNO FEDERAL, constituye la retribución básica presupuestal que debe pagarse al trabajador a cambio de los servicios prestados.
+El sueldo o salario que se asigna en los tabuladores regionales para cada puesto, constituye el sueldo total que debe pagarse al trabajador a cambio de los servicios prestados, sin perjuicio de otras prestaciones ya establecidas.
 
-Los niveles de sueldo base presupuestal del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-La Secretaría de Programación y Presupuesto, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los caso de alcances en los niveles de tabuIador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+Los niveles de sueldo del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+La Secretaría de Programación y Presupuesto, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabuIador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 33.
 
-El salario será uniforme para cada una de las categorías de trabajadores y será fijado en los Presupuestos de Egresos respectivos.
+El sueldo o salario será uniforme para cada uno de los puestos consignados en el catálogo general de puestos del Gobierno Federal y se fijará en los tabuladores regionales, quedando comprendidos en los Presupuestos de Egresos respectivos.
 
 ###### ARTICULO 34.
 
@@ -294,17 +300,17 @@ La cuantía del salario uniforme fijado en los términos del artículo anterior 
 
 Por cada cinco años de servicios efectivos prestados hasta llegar a veinticinco, los trabajadores tendrán derecho al pago de una prima como complemento del salario. En los Presupuestos de Egresos correspondientes, se fijará oportunamente el monto o proporción de dicha prima.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 35.
 
-La uniformidad de los salarios correspondientes a las distintas categorías de trabajadores será fija, pero para compensar las diferencias que resulten del distinto costo medio de la vida en diversas zonas económicas de la República, se crearán partidas destinadas al pago de sobresueldos, determinándose previamente las zonas en que deban cubrirse y que serán iguales para cada categoría.
+Se establecerán tabuladores regionales que serán elaborados tomando en consideración el distinto costo medio de la vida en diversas zonas económicas de la República.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
-
-La Comisión de Recursos Humanos del Gobierno Federal, escuchando a la Federación de Sindicatos de Trabajadores al Servicio del Estado, realizará y someterá a las autoridades que corresponda, los estudios técnicos pertinentes para la fijación de sobresueldos según las zonas en que éstos deban regir.
+La Comisión Intersecretarial del Servicio Civil, conforme a lo dispuesto en el párrafo anterior, realizará y someterá a las autoridades que corresponda, los estudios técnicos pertinentes para la revisión, actualización y fijación de los tabuladores regionales, y las zonas en que éstos deberán regir.
 
 ###### ARTICULO 36.
 
-Se crearán también partidas específicas denominadas "compensaciones adicionales por servicios especiales" que se destinarán a cubrir a los trabajadores cantidades que se agregarán a su sueldo persupuestal(sic) y sobresueldo y cuyo otorgamiento por parte del Estado será discrecional en cuanto a su monto y duración, de acuerdo con las responsabilidades o trabajos extraordinarios inherentes al cargo o por servicios especiales que desempeñen.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
 
 ###### ARTICULO 37.
 
@@ -340,13 +346,13 @@ Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más d
 
 En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos del 27 al 30, los trabajadores recibirán salario íntegro; cuando el salario se pague por unidad de obra, se promediará el salario del último mes.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-Los trabajadores que presten servicios durante el día domingo, tendrán derecho a un pago adicional de un veinticinco porciento sobre el monto de su sueldo presupuestal de los días ordinarios de trabajo.
+Los trabajadores que presten sus servicios durante el día domingo, tendrán derecho a un pago adicional de un veinticinco por ciento sobre el monto de su sueldo o salario de los días ordinarios de trabajo.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-Los trabajadores que en los términos del artículo 30 de esta Ley disfruten de uno o de los dos períodos de diez días hábiles de vacaciones, percibirán una prima adicional de un veinticinco por ciento, sobre el sueldo presupuestal que les corresponda durante dichos períodos.
+Los trabajadores que en los términos del Artículo 30 de esta Ley disfruten de uno o de los dos períodos de diez días hábiles de vacaciones, percibirán una prima adicional de un treinta por ciento, sobre el sueldo o salario que les corresponda durante dichos períodos.
 
 ###### ARTICULO 41.
 
@@ -362,11 +368,11 @@ ARTICULO 42 BIS.- Los trabajadores tendrán derecho a un aguinaldo anual que est
 
 ### CAPITULO IV
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 43.
 
-Son obligaciones de los titulares a que se refiere el artículo 1o. de esta Ley:
+Son obligaciones de los titulares a que se refiere el Artículo 1o. de esta Ley:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -378,9 +384,9 @@ II.- Cumplir con todos los servicios de higiene y de prevención de accidentes a
 
 III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- De acuerdo con la Partida que en el Presupuesto de Egresos se haya fijado para el efecto, cubrir la indemnización por separación injustificada cuando los trabajadores hayan optado por ella y pagar en una sola exhibición los salarios caídos, sobresueldos, primas por vacaciones y aguinaldos, en los términos del laudo definitivo;
+IV.- De acuerdo con la partida que en el Presupuesto de Egresos se haya fijado para tal efecto, cubrir la indemnización por separación injustificada cuando los trabajadores hayan optado por ella y pagar en una sola exhibición los sueldos o salarios caídos, prima vacacional, prima dominical, aguinaldo y quinquenios en los términos del laudo definitivo.
 
 V.- Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
 
@@ -1569,3 +1575,25 @@ Aquellos trabajadores que tengan puesto de base al entrar en vigor las presentes
 ###### ARTICULO SEGUNDO.
 
 Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+En los tabuladores de sueldos regionales según la zona económica, se fijará el sueldo total en cantidades iguales o superiores a las consignadas con anterioridad a la vigencia del presente decreto para cada puesto, en sus diferentes niveles, integrando los conceptos de sueldo, sobresueldo y compensación, mismas cantidades que deberán cubrirse a los trabajadores que las vienen percibiendo.
+
+###### ARTICULO SEGUNDO.
+
+En virtud de las características particulares de los conceptos de pago que se emplean para remunerar al personal de la Secretaría de Educación Pública, la aplicación de la integración a que se refiere el presente decreto se efectuará previa aprobación que la Comisión Intersecretarial del Servicio Civil otorgue al estudio que viene elaborando la Secretaría de Educación Pública, escuchando al sindicato.
+
+###### ARTICULO TERCERO.
+
+Cuando en la ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y otros ordenamientos legales se dé una connotación distinta del sueldo o salario que se cubre a los servidores públicos, éste deberá entenderse integrado en los términos del artículo 32 de esta ley.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+###### ARTICULO QUINTO.
+
+El presente decreto entrará en vigor, el día primero de enero de mil novecientos ochenta y cinco.
