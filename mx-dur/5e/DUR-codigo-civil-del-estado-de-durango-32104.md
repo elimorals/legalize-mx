@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1998-05-21"
+last_updated: "1998-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1998.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1917,9 +1917,9 @@ III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o a
 
 IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
 
-Cuando se acredite que el menor fue expuesto o abandonado, la pérdida de la patria potestad operará de inmediato.
+Cuando se acredite que el menor es expósito, la pérdida de la patria potestad operará de inmediato.
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -9700,3 +9700,7 @@ Las presentes reformas y adiciones al Código Civil para el Estado de Durango, e
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
