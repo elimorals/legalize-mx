@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1983-12-27"
+last_updated: "1986-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 1986.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -75,6 +75,10 @@ I.- Condecoración Miguel Hidalgo;
 II.- Orden Mexicana del Aguila Azteca;
 
 III.- de Ciencias y Artes;
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+
+III-Bis.- De Demografía.
 
 IV.- de Deportes;
 
@@ -414,9 +418,35 @@ El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará p
 
 La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 49, podrán ampliar informaciones ante el Consejo.
 
-### CAPITULO VIII. Premio Nacional de Deportes
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
 
-### CAPITULO IX. Premio Nacional de Periodismo y de Información
+### CAPITULO VII-BIS. Premio Nacional de Demografía
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+
+###### ARTICULO 51-A.
+
+El Premio Nacional de Demografía, se otorgará como reconocimiento a profesionales de esta disciplina, por los ensayos e investigaciones que contribuyan al conocimiento y a la solución de los problemas demográficos de México.
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+
+###### ARTICULO 51-B.
+
+El premio se conferirá anualmente y se tramitará ante la Secretaría de Gobernación, por conducto del correspondiente Consejo de Premiación, que será integrado por el Titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Programación y Presupuesto, de Desarrollo Urbano y Ecología, de Educación Pública, de Salud, del Trabajo y Previsión Social, y de la Reforma Agraria.
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+
+###### ARTICULO 51-C.
+
+El premio consistirá en una de las preseas a que hace mención el artículo 7o. de esta Ley, más el numerario o especie que para el caso se determine.
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
+
+###### ARTICULO 51-D.
+
+Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
+
+### CAPITULO VIII. Premio Nacional de Deportes
 
 ###### ARTICULO 52.
 
@@ -438,13 +468,13 @@ El premio se tramitará en la Secretaría de Educación Pública, cuyo titular p
 
 Los premios consistirán en medalla de primera clase. Si el premio se otorga a un grupo o equipo de deportistas, el conjunto recibirá un diploma y cada uno de los individuos medalla. Si son varias las personas premiadas, las preseas consistirán en insignias.
 
-### CAPITULO X. Premio Nacional de Mérito Cívico
+### CAPITULO IX. Premio Nacional de Periodismo y de Información
 
 ###### ARTICULO 56.
 
 Por cada año habrá una asignación de premios, que podrán ser hasta cinco en el primer campo; pero sólo uno en el segundo. Si ocurrieren vacantes de premio, así lo declarará el Consejo de Premiación.
 
-### CAPITULO XI. Premio Nacional de Trabajo
+### CAPITULO X. Premio Nacional de Mérito Cívico
 
 ###### ARTICULO 57.
 
@@ -454,7 +484,7 @@ Estos premios se concederán exclusivamente a candidatos propuestos por federaci
 
 Habrá un solo Jurado para los dos campos de premios, que de preferencia se integrará con personas que hayan sido premiadas con anterioridad y con representantes de los facultados para proponer candidaturas.
 
-### CAPITULO XII. Premio Nacional de la Juventud
+### CAPITULO XI. Premio Nacional de Trabajo
 
 ###### ARTICULO 59.
 
@@ -488,7 +518,7 @@ Merecerán estos premios quienes notoriamente se distingan, según lo exija la n
 
 Los premios de que trata este Capítulo se tramitarán en la Secretaría de Gobernación, por conducto de un Consejo de Premiación integrado por el Secretario de dicho ramo, quien lo presidirá, más los correspondientes Subsecretarios de la Presidencia, de Educación Pública y de Comunicaciones y Transportes, más un representante que designe el Procurador General de la República.
 
-### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
+### CAPITULO XII. Premio Nacional de la Juventud
 
 ###### ARTICULO 64.
 
@@ -506,7 +536,7 @@ Es libre el derecho a proponer candidaturas para los premios de que trata el pre
 
 Habrá un Jurado para los campos I, II y III; otro para los campos IV y V, y uno más para el campo VI. Para integrarlos, el Consejo tomará en cuenta a los representantes que al efecto designen, por solicitud del propio Consejo, las Universidades que cuenten con la de periodismo u otra semejante entre las carreras que tengan establecidas, las organizaciones gremiales o sociales de periodistas y las organizaciones empresariales del periodismo y del radio y la televisión; pero en todo caso se preferirá a quienes con anterioridad hayan sido premiados. Los Jurados deberán quedar integrados a más tardar en el mes de febrero de cada año.
 
-### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
+### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
 
 ###### ARTICULO 68.
 
@@ -524,11 +554,7 @@ Este premio se tramitará en la Secretaría de Gobernación, cuyo titular presid
 
 Es aplicable a este premio lo prevenido en el 38 de la presente Ley.
 
-### CAPITULO XIV-BIS
-
-Premio Nacional de Administración Pública.
-
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
 
 ###### ARTICULO 72.
 
@@ -550,9 +576,11 @@ Es aplicable a este premio lo prevenido en el artículo 38, que en relación con
 
 Al premio corresponderá una placa y podrá adicionarse con una entrega en numerario, cuyo monto fijará discrecionalmente el Consejo de Premiación.
 
-### CAPITULO XV. Estímulos y Recompensas
+### CAPITULO XIV-BIS
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+Premio Nacional de Administración Pública.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 77.
 
@@ -574,7 +602,9 @@ En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 3
 
 El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
 
-### CAPITULO XVI. Disposiciones Generales
+### CAPITULO XV. Estímulos y Recompensas
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 82.
 
@@ -595,6 +625,8 @@ Se conceden facultades al Jurado para que, atendiendo proposiciones del Consejo 
 ###### ARTICULO 86.
 
 Según lo acuerde el Presidente de la República, a proposición del Consejo de Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 72, o en ceremonias parciales y aun en los lugares en que hayan tenido lugar los hechos que originaron los actos premiados.
+
+### CAPITULO XVI. Disposiciones Generales
 
 ###### ARTICULO 87.
 
@@ -787,6 +819,12 @@ D.O.F. 15 DE ENERO DE 1980.
 El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE NOVIEMBRE DE 1986.
 
 ###### ARTICULO UNICO.
 
