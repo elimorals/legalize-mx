@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "1999-07-30"
+last_updated: "2000-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,233 +19,175 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ACUERDO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE COMERCIO Y FOMENTO INDUSTRIAL
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de julio de 1999.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de junio de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal, 2o., 5o. fracción IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior, 36 fracción I inciso d) de la Ley Aduanera, 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
+HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracción I inciso c) y 104 fracción II de la Ley Aduanera; 21 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación, y 1, 4, 5 fracción XVI, 40 y 41 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, 16 fracciones I y VII del Acuerdo Delegatorio de Facultades de la Secretaría de Comercio y Fomento Industrial, y
 
 CONSIDERANDO
 
-Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diverso dado a conocer en el mismo órgano informativo el 11 de noviembre de 1996 y 12 de octubre de 1998, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
+Que el 29 de agosto de 1997 fue publicado en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Comercio y Fomento Industrial, reformado mediante diversos dados a conocer en el mismo órgano informativo el 31 de diciembre de 1997, 3 de abril de 1998, 27 de julio de 1998, 12 de agosto de 1998, 23 de diciembre de 1998, 26 de enero de 1999, 6 de septiembre de 1999, 31 de diciembre de 1999, 21 de enero de 2000, 13 de marzo de 2000 y 15 de junio de 2000;
 
-Que el artículo cuarto, fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquellas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si comprueba que el país de origen de las mercancías es distinto del país que exporta mercancías en las condiciones de prácticas desleales al comercio internacional, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
+Que el 26 de junio de 2000 fue publicada en el Diario Oficial de la Federación la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre la Comunidad Europea y los Estados Unidos Mexicanos, para entrar en vigor el 1 de julio del mismo año; Que con objeto de facilitar la consulta en materia de permisos previos de importación y de exportación, resulta conveniente reflejar en el Acuerdo mencionado, las reformas realizadas en fechas recientes a la Tarifa contenida en el artículo 1 de la Ley del Impuesto General de Importación;
 
-Que para facilitar las relaciones comerciales con la República de Chile y fortalecer la producción y competitividad de la industria nacional, con fecha 17 de abril de 1998 se suscribió el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Chile, mismo que se aprobó por el Senado de la República el 24 de noviembre de 1998, y con fecha 30 de diciembre del mismo año se publicó en el Diario Oficial de la Federación el Decreto de aprobación, y
+Que la Comisión de Comercio Exterior aprobó la modificación de las regulaciones no arancelarias aplicables a la importación de las mercancías sujetas al requisito de permiso previo por parte de la Secretaría de Comercio y Fomento Industrial, para su inclusión en el presente Acuerdo, conforme al procedimiento señalado en la ley de la materia, he tenido a bien expedir el siguiente:
 
-Que la Comisión de Comercio Exterior, conforme al procedimiento establecido en la ley de la materia, aprobó en su reunión extraordinaria número 12 y con fecha de 30 de noviembre de 1998, las regulaciones propuestas por esta Secretaría, he tenido a bien expedir el siguiente
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE COMERCIO Y FOMENTO INDUSTRIAL
 
-ACUERDO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+###### ARTICULO 1.
 
-###### Artículo 1.
+Se reforma el artículo 1o. del Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Comercio y Fomento Industrial, publicado en el Diario Oficial de la Federación el 29 de agosto de 1997, reformado mediante diversos publicados los días 31 de diciembre de 1997, 3 de abril de 1998, 27 de julio de 1998, 12 de agosto de 1998, 23 de diciembre de 1998, 26 de enero de 1999, 6 de septiembre de 1999, 31 de diciembre de 1999, 21 de enero de 2000, 13 de marzo de 2000 y 15 de junio de 2000, únicamente respecto de las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican:
 
-Las disposiciones de esta Ley son de orden público, de interés social, de observancia general en todo el territorio del Estado de Yucatán y tiene por objeto:
+FRACCION DESCRIPCION
 
-I.- Promover, proteger y asegurar el goce pleno y en condiciones de igualdad de todos los derechos humanos y libertades fundamentales de las personas con discapacidad, y
+8701.20.01 Tractores de carretera para semirremolques.
 
-II.- Procurar el respeto de su dignidad inherente, estableciendo las bases para la instrumentación y evaluación de políticas públicas y acciones para asegurar su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades.
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-###### Artículo 2.
+8702.10.01 Con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.10.03.
 
-Para efectos de esta Ley, se entiende por:
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-I.- Accesibilidad: las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones de uso público, tanto en zonas urbanas como rurales;
+8702.10.02 Con carrocería integral, excepto lo comprendido en la fracción 8702.10.04.
 
-II.- Ajustes razonables: las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, que se requieran para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-III.- Asistencia y protección social: conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de las personas con discapacidad, así como su protección física, mental y social, hasta lograr su incorporación a una vida plena y productiva;
+8702.10.03 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis.
 
-IV.- Ayudas técnicas: dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-V.- Comunicación: el Lenguaje escrito y oral, el Lenguaje de Señas Mexicana, la visualización de textos, el Sistema de escritura braille, la Comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el Lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de Comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+8702.10.04 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral.
 
-VI.- Comunidad de sordos: todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una Comunicación y socialización regular y fluida en lengua oral;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-VII.- (DEROGADA, D.O. 30 DE JULIO DE 2019)
+8702.90.02 Con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.90.04.
 
-VIII.- DIF: el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Yucatán;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-IX.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
+8702.90.03 Con carrocería integral, excepto lo comprendido en la fracción 8702.90.05.
 
-X.- Discriminación por motivos de discapacidad: cualquier distinción, exclusión o restricción por motivos de discapacidad, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio de algún derecho humano o libertad fundamental en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de Ajustes razonables;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XI.- Diseño universal: el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas con discapacidad, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El Diseño universal no excluirá las Ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
+8702.90.04 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis.
 
-> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XII.- Educación especial: Es aquella destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con igualdad social incluyente y con perspectiva de género;
+8702.90.05 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral.
 
-> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XIII.- Educación inclusiva: Es la educación que propicia la inclusión de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
+8704.22.05 De peso total con carga máxima superior a 8,845 kilogramos, pero inferior o igual a 11,793 kilogramos.
 
-XIV.- Estenografía proyectada: es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XV.- Estimulación temprana: la atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+8704.22.06 De peso total con carga máxima superior 11,793 kilogramos, pero inferior o igual a 14,968 kilogramos.
 
-XVI.- Igualdad de oportunidades: proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural, y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en Igualdad de oportunidades con el resto de la población;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XVII.- Lenguaje: tanto el lenguaje oral como la lengua de señas y otras formas de Comunicación no verbal;
+8704.22.99 Los demás.
 
-XVIII.- Lenguaje de Señas Mexicana: lengua de una Comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XIX.- Ley: Ley para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán;
+8704.23.99 Los demás.
 
-XX.- Organizaciones de la Sociedad Civil: todas aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XXI.- Perro guía o animal de servicio: aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+8704.32.05 De peso total con carga máxima superior a 8,845 kilogramos, pero inferior o igual a 11,793 kilogramos.
 
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XXII.- Persona con discapacidad: toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, así como una condición de talla baja, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+8704.32.06 De peso total con carga máxima superior a 11,793 kilogramos, pero inferior o igual a 14,968 kilogramos.
 
-XXIII.- Política pública: todos aquellos planes, programas, mecanismos o acciones que la autoridad desarrolle para asegurar los derechos establecidos en esta Ley;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XXIV.- Prevención: la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+8704.32.99 Los demás.
 
-XXV.- Procuraduría: la Procuraduría de la Defensa del Menor y la Familia del Estado de Yucatán, organismo dependiente del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Yucatán (DIF);
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XXVI.- Programa: el Programa para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán;
+8705.20.01 Con equipos hidráulicos de perforación destinados a programas de abastecimiento de agua potable en el medio rural.
 
-XXVII.- Rehabilitación: proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una Persona con discapacidad alcance un nivel físico, mental y sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XXVIII.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
+8705.40.01 Camiones hormigonera.
 
-XXIX.- Secretaría de Educación: la Secretaría de Educación del Estado de Yucatán;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
 
-XXX.- Secretaría de Fomento Turístico: la Secretaría de Fomento Turístico del Estado de Yucatán;
+8706.00.99 Los demás.
 
-XXXI.- Secretaría de la Cultura y las Artes: la Secretaría de la Cultura y las Artes del Estado de Yucatán;
+Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XXXII.- Secretaría de Salud: la Secretaría de Salud del Estado de Yucatán;
+###### ARTICULO 2.
 
-XXXIII.- Secretaría de Seguridad Pública: la Secretaría de Seguridad Pública del Estado de Yucatán;
+Se reforma el artículo 4o. apartado A del Acuerdo que se señala en el artículo 1 del presente ordenamiento, únicamente respecto de la fracción arancelaria de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indica:
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+FRACCION DESCRIPCION
 
-XXXIV.- Secretaría de Fomento Económico y Trabajo: la Secretaría de Fomento Económico y Trabajo del Estado de Yucatán;
+8704.31.05 Denominados “Pick Up”, de peso total con carga máxima inferior o igual a 3,200 kilogramos, y cuyo número de serie o año-modelo sea al menos 10 años anterior al vigente, que no sean de doble rodada.
 
-XXXV.- Sistema de escritura braille: sistema para la Comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
+Excepto: Fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
 
-XXXVI.- Transversalidad: es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+###### ARTICULO 3.
 
-> <small>(ADICIONADA, D.O. 30 DE JULIO DE 2019)</small>
+Se reforma el primer párrafo del artículo 7o. Bis del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
 
-XXXVII.- Instituto.- Instituto para la Inclusión de las Personas con Discapacidad del estado de Yucatán creado por decreto del Poder Ejecutivo.
+###### ARTICULO 7o. Bis.
 
-###### Artículo 3.
+Se sujetan al requisito de Constancia de Producto Nuevo por parte de la Secretaría de Comercio y Fomento Industrial, la introducción al territorio nacional de los vehículos de autotransporte comprendidos en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o depósito fiscal y se trate de vehículos nuevos fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y tengan un peso bruto vehicular superior a 8 864 kilogramos o estén destinados para el transporte de mercancías mediante el arrastre de remolques o semirremolques y dotados con dos o tres ejes, con equipo integrado, de conformidad con el Tratado de Libre Comercio de América del Norte, o con la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre comercio y cuestiones relacionadas con el comercio, según corresponda:
 
-La aplicación de las disposiciones de esta Ley corresponde al Poder Ejecutivo, y a los ayuntamientos, en el ámbito de sus respectivos territorios.
+. . . . . .
 
-> <small>(REFORMADO, D.O. 30 DE JULIO DE 2019)</small>
+###### ARTICULO 4.
 
-El Poder Ejecutivo realizará lo previsto en esta Ley por sí y por conducto del Instituto.
-
-Los ayuntamientos, en su respectivo ámbito de competencia, cumplirán las atribuciones que les confiere esta Ley por medio de las direcciones y entidades paramunicipales correspondientes.
-
-El Poder Ejecutivo y los ayuntamientos, directamente o a través de sus dependencias y entidades, podrán instrumentar convenios con las Organizaciones de la Sociedad Civil, para desarrollar programas tendientes a apoyar la capacitación y actualización escolar y laboral de niños, jóvenes y adultos con discapacidad.
-
-###### Artículo 4.
-
-Para los efectos de esta Ley, el Titular del Poder Ejecutivo, tendrá las siguientes atribuciones:
-
-I.- Establecer políticas públicas para proteger, respetar y hacer cumplir los derechos de las personas con discapacidad, y realizar las acciones necesarias para dar cumplimiento al Programa;
-
-II.- Instruir a las dependencias y organismos de la administración pública estatal a que instrumenten acciones a favor de la inclusión social y económica de las personas con discapacidad en el marco de las políticas públicas en la materia;
-
-III.- Establecer las políticas públicas necesarias que garanticen la equidad e Igualdad de oportunidades para las personas con discapacidad;
-
-IV.- Gestionar el otorgamiento de estímulos fiscales a personas físicas o morales que realicen acciones en favor de las personas con discapacidad;
-
-V.- Promover la consulta y participación de las personas con discapacidad, personas físicas o morales y las Organizaciones de la Sociedad Civil en la elaboración y aplicación de políticas públicas, legislación y programas, con base en esta Ley;
-
-VI.- Garantizar el desarrollo integral de las personas con discapacidad, de manera plena y autónoma, en los términos de esta Ley;
-
-VII.- Fomentar la integración social de las personas con discapacidad, a través del ejercicio de sus derechos civiles y políticos;
-
-VIII.- Promover el pleno ejercicio de los derechos fundamentales de las personas con discapacidad en condiciones equitativas;
-
-IX.- Impulsar la adopción de acciones afirmativas orientadas a evitar y compensar las desventajas de una Persona con discapacidad para participar plenamente en la vida política, económica, social y cultural;
-
-X.- Impulsar la participación solidaria de la sociedad y la familia en la preservación, y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad, y
-
-XI.- Las demás que otros ordenamientos le confieran.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+Se adiciona la fracción III al artículo 7o. del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
 
 ###### ARTICULO 7o.
 
-Se reforma el Anexo II, del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
+. . . . .
 
-Anexo II
+. . . . .
 
-Posiciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación en las que se clasifican las mercancías por las que se debe presentar el Certificado de País de Origen contenido en el Anexo III, cuando se importan al territorio de los Estados Unidos Mexicanos:
+III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre comercio y cuestiones relacionadas con el comercio entre la Comunidad Europea y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 26 de junio de 2000,
 
-CALZADO
+###### ARTICULO 5.
 
-Partida 64.01
+Se adicionan a la fracción I del artículo 10 del Acuerdo que se señala en el artículo 1 del presente ordenamiento, las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican:
 
-Partida 64.02, excepto la fracción 6402.12.01. También se exceptúan las fracciones 6402.19.01, 6402.19.02, 6402.19.03 y 6402.19.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 16.59 dólares estadounidenses por par, conforme a la resolución respectiva.
+FRACCION DESCRIPCION
 
-Partida 64.03, excepto las fracciones 6403.12.01, 6403.20.01, 6403.30.01 y 6403.40.01. También se exceptúan las fracciones 6403.19.01, 6403.19.02 y 6403.19.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 14.86 dólares estadounidenses por par, conforme a la resolución respectiva; y las fracciones 6403.99.01, 6403.99.02, 6403.99.03, 6403.99.04, 6403.99.05 y 6403.99.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 22.26 dólares estadounidenses por par, conforme a la resolución respectiva.
+1604.14.01 Atunes (del género “Thunnus”), excepto lo comprendido en la fracción 1604.14.02.
 
-Partida 64.04, excepto las fracciones 6404.11.01, 6404.11.02, 6404.11.03 y 6404.11.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 17.93 dólares estadounidenses por par, conforme a la resolución respectiva, y además no tengan la parte superior (corte) de lona.
+1604.14.02 Filetes (“lomos”) de atunes (del género “Thunnus”).
 
-Partida 64.05, excepto la fracción 6405.10.01 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 19.07 dólares estadounidenses por par, conforme a la resolución respectiva.
+1604.14.03 Filetes (“lomos”) de barrilete del género “Euthynnus” variedad “Katsuwonus pelamis”.
 
-TEXTIL
+1604.20.02 De atún, barrilete, u otros pescados del género “Euthynnus”.
 
-Partida 30.05
+###### ARTICULO 6.
 
-Subpartida 3306.20.
-
-###### Artículo 5.
-
-El Instituto de Movilidad y Desarrollo Urbano Territorial tiene las siguientes atribuciones:
-
-I.- Coordinar con los concesionarios y permisionarios la realización de acciones que tiendan a mejorar la Accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público, para beneficio de las personas con discapacidad;
-
-II.- Realizar las acciones necesarias para evitar que se preste el servicio público o particular de transporte en vehículos que por sus características no resulten adecuadas para el acceso y seguridad de las personas con discapacidad;
-
-III.- Promover medidas para el mejoramiento del servicio de transporte, inclusive las acciones necesarias para que se mantengan en buen estado las obras e instalaciones destinadas a la prestación del servicio público o particular de transporte, así como aquellas destinadas a la seguridad de las personas con discapacidad;
-
-IV.- Las demás que señale esta Ley y otras disposiciones aplicables, y
-
-V.- Instrumentar convenios con las Organizaciones de la Sociedad Civil de y para las personas con discapacidad, para desarrollar programas tendientes a apoyar la capacitación y actualización escolar y laboral de niños, jóvenes y adultos con discapacidad.
-
-###### Artículo 6.
-
-La Secretaría de Salud, en materia de esta Ley, tiene las siguientes atribuciones:
-
-I.- Promover el respeto al derecho a la salud, sin Discriminación por motivos de discapacidad;
-
-II.- Instrumentar programas y servicios en materia de salud, inclusive los destinados a prevenir y reducir la aparición de nuevas discapacidades;
-
-III.- Realizarán acciones tendientes a la recuperación, Rehabilitación y la reintegración social de las personas con discapacidad;
-
-IV.- Realizar las acciones necesarias para que los servicios de salud que se brinden sean de calidad, y
-
-> <small>(ADICIONADA, D.O. 30 DE JULIO DE 2019)</small>
-
-V.- Expedir constancias o certificados médicos que acrediten la discapacidad de una persona, a su solicitud o por medio de sus padres, tutores o quienes tengan la patria potestad para la realización de trámites o solicitudes de su interés.
-
-VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
+Se adiciona la fracción IV al artículo 10 del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
 
 ###### ARTICULO 10.
 
-Se adiciona a la lista contenida en el Anexo V del Acuerdo señalado en el artículo 1o. del presente ordenamiento, el siguiente Tratado Internacional:
+. . . . .
 
-“. . . .
+. . . . .
 
-. . . .
+IV. Cuando sean originarias de los Estados Unidos de América:
 
-. . . .
+FRACCION DESCRIPCION
 
-. . . .
+0210.90.03 Aves, saladas o en salmuera.
 
-Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos y la República de Bolivia.”
+1604.14.01 Atunes (del género “Thunnus”), excepto lo comprendido en la fracción 1604.14.02.
+
+1604.14.02 Filetes (“lomos”) de atunes (del género “Thunnus”).
+
+1604.14.03 Filetes (“lomos”) de barrilete del género “Euthynnus” variedad “Katsuwonus pelamis”.
+
+1604.20.02 De atún, barrilete, u otros pescados del género “Euthynnus”.
 
 ###### ARTICULO 1o.
 
@@ -947,8 +889,10 @@ El Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias de
 
 A partir de la entrada en vigor de esta Ley, quedará abrogada la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán publicada en el Diario Oficial del Estado de fecha 16 de mayo de 1996.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor a partir del primero de agosto de 1999.
+PRIMERO.- El presente Acuerdo entrará en vigor el día 1 de julio de 2000, con excepción de lo dispuesto en el artículo segundo transitorio de este ordenamiento.
 
-México, D.F., a 26 de julio de 1999.- Con fundamento en el artículo 42 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, por ausencia del titular de esta Secretaría, firma el Subsecretario de Negociaciones Comerciales Internacionales, Luis Fernando de la Calle Pardo.- Rúbrica.
+SEGUNDO.- Las disposiciones de los artículos 5 y 6 del presente Acuerdo entrarán en vigor a los 30 días de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 19 de junio de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
