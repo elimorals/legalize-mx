@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1979-12-10"
+last_updated: "1980-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE MARZO DE 1980.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1063,7 +1063,7 @@ El Tesorero General del Estado y todos los empleados de Hacienda que tengan mane
 
 Jueces de Primera Instancia, Locales y Menores.
 
-> <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1980)</small>
 
 ###### Artículo 89.
 
@@ -1233,9 +1233,9 @@ Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hec
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
 
-(ADICIONADO, B.O. 26 DE OCTUBRE DE 1977) (F. DE E., B.O. 14 DE DICIEMBRE DE 1977)
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 1980)</small>
 
-Cuando los Magistrados propietarios sean designados por un nuevo período, después de haber fungido durante los seis años del período inmediato anterior, sólo podrán ser privados de sus cargos por mala conducta o manifiesta ineptitud, así como en el caso previsto por el artículo 144 de esta Constitución. La destitución del Magistrado la decretará el Congreso del Estado, por mayoría absoluta de sus miembros, a solicitud del titular del Ejecutivo, atendiendo a los elementos de prueba que se alleguen y otorgando al interesado la oportunidad de exponer su defensa.
+Los Magistrados propietarios y suplentes, en ejercicio, sólo podrán ser privados de sus cargos, por mala conducta o manifiesta ineptitud; en estos casos, para que opere la destitución deberá ser decretada por el Congreso del Estado, por mayoría absoluta de sus miembros, a solicitud del titular del Ejecutivo, atendiendo a los elementos de prueba que se alleguen y otorgando al interesado la oportunidad de exponer su defensa, y en el caso previsto por el artículo 144 de esta Constitución, en relación con la Ley de Responsabilidades respectiva.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1342,10 +1342,6 @@ Los magistrados que estén en funciones, exceptuándose los casos que específic
 ###### Artículo 123.
 
 Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, durando en su ejercicio dos años y podrán desempeñar el cargo en períodos sucesivos.
-
-> <small>(ADICIONADO, B.O. 26 DE OCTUBRE DE 1977)</small>
-
-La Ley Orgánica respectiva podrá establecer la inmovilidad de los Jueces de Primera Instancia que reúnan los requisitos que dicha ley determine, entre los cuales se deberán contar, por lo menos, los de haber servido sucesivamente durante dos períodos completos y tener título de Licenciado en Derecho con una antigüedad no menor de dos años; pero el Supremo Tribunal siempre tendrá la facultad de cambiarlos de un distrito judicial a otro, según lo estime conveniente para el mejor servicio público.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2048,6 +2044,12 @@ UNICO.- La presente ley entrará en vigor al día siguiente de su publicación e
 B.O. 10 DE DICIEMBRE DE 1979.
 
 UNICO.- La presente ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE MARZO DE 1980.
+
+###### ARTICULO UNICO.
+
+La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
