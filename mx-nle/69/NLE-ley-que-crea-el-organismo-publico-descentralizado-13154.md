@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13154"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-09"
-last_updated: "1988-09-09"
+last_updated: "1992-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "RED ESTATAL DE AUTOPISTAS DE NUEVO LEON"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de septiembre de 1988.
 
@@ -195,9 +195,17 @@ V. Los créditos, donaciones y demás bienes muebles e inmuebles y derechos que 
 
 Las cuotas y tarifas que establezca el Consejo de Administración del ente paraestatal, por concepto del uso y aprovechamiento de los servicios de las autopistas estatales, que deba recaudar este organismo, se someterán a la aprobación definitiva del Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 1992)</small>
+
+En caso de que las cuotas de peaje se hayan afectado con fundamento en lo dispuesto por el artículo 17 de esta Ley, será el organismo administrador de los recursos el que autorice las modificaciones a las cuotas y tarifas, modificaciones que podrán hacerse en la medida en que sea necesario para el cumplimiento de las obligaciones financieras derivadas de la afectación.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 17o.
 
-Los recursos que perciba el organismo por la prestación de sus servicios se destinarán a cubrir sus costos de administración y operación, al mantenimiento y conservación de las vías de comunicación que administre, y en su caso a la promoción y construcción de nuevas autopistas, y al mejoramiento y ampliación de la red de caminos y carreteras del Estado, con sujeción a lo que establezcan las disposiciones jurídicas aplicables.
+Los recursos que perciba el organismo por la prestación de sus servicios se destinarán a cubrir sus costos de administración y operación, a la conservación de las vías de comunicación cuyo mantenimiento, operación o administración se le encomiende, y sus excedentes a la promoción y construcción de nuevas autopistas y al mejoramiento y ampliación de la red de caminos y carreteras del Estado, con sujeción a lo que establezcan las disposiciones jurídicas aplicables.
+
+Por acuerdo del Ejecutivo del Estado, las cuotas de peaje de las autopistas cuya explotación y operación le haya conferido dicho Ejecutivo, podrán ser objeto de afectación en fideicomiso o mediante cualquier otra figura, que permita la obtención de fondos destinados a la prestación de los servicios públicos que el Estado otorga a la comunidad, o bien, a la consolidación de la deuda pública centralizada o paraestatal.
 
 ### CAPITULO IV. DE LAS RELACIONES LABORALES
 
@@ -228,3 +236,9 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE ABRIL DE 1992.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
