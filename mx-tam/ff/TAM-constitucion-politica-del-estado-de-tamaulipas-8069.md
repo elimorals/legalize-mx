@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1983-08-27"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1983. (DECRETO NUMERO 494)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -55,9 +55,13 @@ El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander,
 
 El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Las leyes secundarias respectivas determinarán la extensión de cada Distrito y la organización del Municipio conforme a las bases que la Constitución General establece.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 4o.
 
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, teniendo como base de su organización política y administrativa el Municipio Libre, en los términos que establezca la Ley Orgánica Municipal.
+El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, tomando como base de su organización política y administrativa el Municipio Libre, en los términos que establezca el Código Municipal.
+
+El Estado y los Municipios podrán celebrar, en el ámbito de su competencia, convenios y acuerdos con la Federación, y entre sí, para la planeación, coordinación y ejecución de los programas de desarrollo económico y social.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -203,9 +207,15 @@ VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en qu
 
 VII. Tomar las armas en defensa del pueblo en que vivan cuanto este fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 19.
 
 A nadie podrá obligársele a que pague un impuesto que no haya sido previamente decretado por el Congreso.
+
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permitirá hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 ## TITULO II. De la soberanía del Estado
 
@@ -319,11 +329,11 @@ Los Diputados propietarios, desde el día de su elección y los suplentes en eje
 
 Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 9 DE SEPTIEMBRE DE 1978)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 33.
 
-Los Diputados propietarios, desde el día de su elección y los suplentes cuando estén ejerciendo sus funciones, no podrán ser procesados por delitos comunes ni oficiales, sin que proceda la declaración del Congreso de haber lugar a formación de causa.
+Los Diputados Propietarios desde el día de su elección y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la Comisión de delitos, previa declaración de procedencia del Congreso, en los términos del Artículo 152 de esta Constitución.
 
 ###### Art. 34.
 
@@ -405,7 +415,9 @@ II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y res
 
 En el segundo período de sesiones se ocupará el Congreso:
 
-I.- De preferencia, en discutir y decretar los Presupuestos de Ingresos y Egresos del Estado y de los Municipios, que le serán presentados antes del día treinta y uno de octubre de cada año por el Ejecutivo, quien podrá hacer las observaciones que estime convenientes sobre la formación de los Presupuestos Municipales y la distribución de los gastos que demanden los distintos servicios públicos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+I.- De preferencia, en discutir y decretar las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado. Las Iniciativas de Leyes de Ingresos y el proyecto de Presupuesto de Egresos le serán presentados antes del día treinta y uno de octubre de cada año por el Ejecutivo.
 
 II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
 
@@ -475,9 +487,13 @@ I. Expedir, interpretar, reformar y derogar las leyes y decretos en todos los ra
 
 II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior.
 
-III. Condonar impuestos del Estado, en los casos que estime conveniente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-IV. Fijar a propuesta de los respectivos Ayuntamientos por conducto del Ejecutivo, los presupuestos de egresos y las contribuciones e impuestos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades.
+III. Condonar impuestos del Estado, en los casos que estime convenientes, con excepción de los señalados en el inciso a) de la fracción III del Artículo 132 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IV. Fijar, a propuesta de los respectivos Ayuntamientos, por conducto del Ejecutivo, las contribuciones y otros ingresos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
 
 V. Nombrar los empleados de la Contaduría Mayor de Glosa y Secretaría del Congreso, y removerlos con causa justificada.
 
@@ -513,7 +529,11 @@ XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa ca
 
 XVIII. Nombrar al Director de Educación Pública a propuesta en terna del Ejecutivo.
 
-XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de causa, cuando por delitos oficiales o comunes fueren acusados el Gobernador, los Magistrados del Supremo Tribunal de Justicia y los Diputados.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XIX. Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 152 de esta Constitución.
+
+Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 151 de esta Constitución y, en su caso, fungir como órgano de acusación en los juicios políticos que contra éstos se instauren;
 
 XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
 
@@ -591,19 +611,25 @@ LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por 
 
 L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos.
 
-LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sis límites y suprimir alguna o algunas de ellas.
+LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
 LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LV. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras leyes.
+LV. Expedir leyes en materia de planeación, en base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos;
+
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)(F. DE E. 2 DE JUNIO DE 1984)
+
+LVI. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras leyes;
 
 ###### Art. 59.
 
@@ -645,7 +671,9 @@ I. Velar sobre la observancia de la Constitución y de las leyes.
 
 II.- Dictaminar sobre todos los asuntos que quedaron pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los asuntos que reciba y presentar estos dictámenes el día en que se abra el nuevo período de sesiones ordinarias.
 
-III. Convocar al Congreso a sesiones extraordinarias y en su caso para que conozca de las acusaciones que por delitos oficiales o del orden común se presenten en contra de los altos funcionarios que gozan de fuero; el Congreso no prolongará sus sesiones por más tiempo que el indispensable para tratar el asunto para el que fuere convocado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+III.- Convocar al Congreso a Sesiones Extraordinarias y, en su caso, para que conozca de las denuncias en contra de servidores públicos y proceda conforme a lo dispuesto en la fracción XIX del Artículo 58 de esta Constitución; el Congreso no prolongará sus sesiones por más tiempo que el indispensable para tratar el asunto para el que fuere convocado.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -757,29 +785,9 @@ El Poder Ejecutivo se deposita en un funcionario que se denominará "Gobernador 
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
-ART. 78.- Para ser Gobernador se requiere:
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35, 36 de la Constitución de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
-
-II.- Ser mexicano de nacimiento.
-
-III.- Ser nativo del Estado, con vecindad en el mismo, adquirida por lo menos cinco años antes del día de la elección.
-
-IV.- Ser mayor de treinta años de edad el día de la elección; y
-
-V.- Poseer suficiente instrucción.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
 ###### Art. 78.
 
-El Poder Ejecutivo se deposita en un funcionario que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas," siendo su elección directa cada cuatro años, el segundo domingo de octubre en los términos que señale la Ley Electoral.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
-
-ART. 79.- Para ser Gobernador se requiere:
+Para ser Gobernador se requiere:
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -825,11 +833,9 @@ El día 3 de febrero de 1981, entrará el C. Gobernador a ejercer sus funciones 
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1962)</small>
 
-Art 81.- El Congreso, dentro del mes de Diciembre correspondiente a la elección, procederá erigido en Colegio Electoral, a hacer, conforme a la Ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador, por medio de un Decreto.
-
 ###### Art. 81.
 
-El Congreso, dentro de los diez primeros días de sus sesiones ordinarias del año que corresponda, procederá, erigido en Colegio Electoral, a hacer conforme a la ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador por medio de un decreto.
+El Congreso, dentro del mes de Diciembre correspondiente a la elección, procederá erigido en Colegio Electoral, a hacer, conforme a la Ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador, por medio de un Decreto.
 
 ###### Art. 82.
 
@@ -891,7 +897,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI. Cuidar en los distintos ramos de la Administración de que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
 
-VII. Presentar al Congreso los Presupuestos de Ingresos y Egresos del Estado y de los Municipios, y las cuentas comprobadas de recaudación y aplicación de los fondos públicos en el año próximo anterior.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+VII.- Presentar al Congreso las Iniciativas de Leyes de Ingresos del Estado y de los Municipios, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado y de los Municipios en el año inmediato anterior.
 
 VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
 
@@ -921,15 +929,17 @@ XVIII. Celebrar, con la aprobación del Congreso del Estado y General de la Naci
 
 XIX. Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por algún incidente no hubiere Diputación Permanente.
 
-XX. Ejercer la superior inspección, no sólo de la Haciende Pública del Estado, si no de todos los fondos municipales, y velar por su recaudación, custodia, administración e inversión.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión.
 
-XXI.- Mandar que se practiquen visitas en las Tesorerías Municipales con el objeto de cerciorarse de que los ingresos se han recabado y que los gastos se ha hecho de acuerdo con los presupuestos respectivos, dando cuenta inmediatamente al Congreso con las irregularidades que se encuentren.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto.
 
-XXII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o contra cualquiera de sus miembros.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XXII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o contra cualquiera de sus miembros y, en su caso, iniciar ante el Congreso los procedimientos a que se refiere la fracción XI del Artículo 132 de esta Constitución.
 
 XXIII. Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas, y dar cuenta al Congreso con el resultado de cada visita.
 
@@ -941,7 +951,9 @@ XXVI. Conceder indulto de las penas en los términos y con los requisitos que ex
 
 XXVII. Organizar la Secretaría General de Gobierno y demás Departamentos, sin alterar los presupuestos.
 
-XXVIII. Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones como Gobernante, con una pena que no exceda de treinta y seis horas de arresto, o multa hasta de trescientos pesos, sujetándose a lo dispuesto en la parte final del artículo 21 de la Constitución Federal de la República. Si la multa no fuese pagada, se conmutará esta por el arresto correspondiente que nunca excederá de quince días.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XXVIII.- Castigar correccionalmente a los que le falten al respeto o desobedezcan sus disposiciones como gobernante con arresto o multa, en los términos del Artículo 19 de esta Constitución.
 
 XXIX. Nombrar uno o más apoderados para asuntos judiciales y administratiivos (sic), dentro o fuera del Estado.
 
@@ -973,7 +985,9 @@ XL. Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para
 
 XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí.
 
-XLII. Suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la Constitución General, a la local del Estado o cualquiera otra ley, o cuando lesionen los intereses municipales, dando cuenta al Congreso para que este resuelva en definitiva.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución General de la República, a la Constitución local o cualquiera otra ley, o cuando lesionen los intereses municipales.
 
 XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las elecciones.
 
@@ -1013,31 +1027,9 @@ X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso
 
 ### CAPITULO II. Del Secretario General de Gobierno
 
-Art.- 93.- Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno."
-
 ###### Art. 93.
 
-Se prohibe al Gobernador:
-
-I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
-
-II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción.
-
-III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
-
-IV. Ocupar la propiedad particular, salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal.
-
-V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versan o de las personas que estén bajo la acción de la justicia.
-
-VI. Distraer los caudales públicos de los objetos a que están destinados por la ley.
-
-VII. Expedir ordenes de recaudación o pago, sino por conducto de la Tesorería General.
-
-VIII. Impedir o retardar la instalación del Congreso.
-
-IX. Salir del territorio del Estado por más de cuarenta y ocho horas, sin permiso del Congreso o de la Diputación Permanente.
-
-X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
+Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno."
 
 ###### Art. 94.
 
@@ -1117,11 +1109,11 @@ En ningún juicio podrá haber más de dos instancias.
 
 El Magistrado o Juez que haya conocido de un juicio en una instancia, no podrá hacerlo en la otra.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 106.
 
-Los delitos de cohecho, peculado, concusión o prevaricación, producen acción popular contra los magistrados, jueces, secretarios o empleados judiciales que los cometan y sus cómplices.
+Los delitos imputables a servidores públicos, producen acción popular contra los Magistrados, Jueces, Secretarios o empleados judiciales que los cometan y sus cómplices.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 1966)</small>
 
@@ -1141,11 +1133,11 @@ Los magistrados serán electos por el Congreso, erigido en Colegio Electoral, po
 
 El sexenio judicial se inicia el 16 de enero del año siguiente a la elección de Gobernador y Diputados.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 110.
 
-Durante su encargo, los Magistrados y Jueces sólo podrán ser separados, previo juicio de responsabilidades en el que intervenga el Ministerio Público si se trata de delitos. Cuando dichos funcionarios no cumplan debidamente sus funciones, el Congreso, si se trata de un Magistrado y el Tribunal Superior si se trata de un Juez, podrá separarlos de plano de su encargo si a su juicio considera fundada la separación.
+Durante su encargo los Magistrados y Jueces podrán ser separados en los términos del Título XI de esta Constitución. Cuando dichos funcionarios no cumplan debidamente sus funciones, el Congreso, si se trata de un Magistrado y el Supremo Tribunal si se trata de un Juez, podrán separarlos de plano de su encargo si a su juicio consideran fundada la separación.
 
 ###### Art. 111.
 
@@ -1183,9 +1175,13 @@ I.- Conocer en única Instancia, de las controversias de orden civil que se susc
 
 II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, en los términos de las Leyes respectivas.
 
-III.- Conocer como Jurado de sentencia de las causas que, por delitos oficiales, se instruyan contra los Funcionarios de que habla el Artículo 58, fracción XIX.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los jueces de Primera Instancia y Jueces Menores por delitos oficiales y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
+III.- Erigirse en Jurado de Sentencia para conocer las causas que se instruyan contra servidores públicos conforme a lo dispuesto en el Título XI de esta Constitución.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
 
 V.- Conocer en segunda instancia de los asuntos civiles o penales que al efecto remitan los jueces de primera instancia.
 
@@ -1221,13 +1217,11 @@ XV.- Las demás facultades y obligaciones que señalan las Leyes.
 
 Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, de la Federación de los Ayuntamientos o de particulares, por los que se reciba remuneración. Quedan exceptuados los cargos de la Beneficencia y de la Educación públicas.
 
-Art.- 116.- En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Gran Jurado o Jurado de Acusación declare por la afirmativa, se reintegrará por los medios señalados en la presente Constitución el Supremo Tribunal de Justicia, y este sentenciará a los encausados, pero separadamente a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 116.
 
-Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, de la Federación de los Ayuntamientos o de particulares, por los que se reciba remuneración. Quedan exceptuados los cargos de la Beneficencia y de la Educación públicas.
-
-Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Gran Jurado o Jurado de Acusación declare por la afirmativa, se reintegrará por los medios señalados en la presente Constitución el Supremo Tribunal de Justicia, y este sentenciará a los encausados, pero separadamente a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
+En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Organo de Acusación declare por afirmativa, se integrará primeramente, por los medios señalados en la presente Constitución, al Supremo Tribunal de Justicia, y esté sentenciará a los encausados, pero separadamente, a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
 
 ### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -1263,17 +1257,11 @@ Los juzgados de primera instancia serán sostenidos por el Estado y los juzgados
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-Art.- 122.- Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio Cabecera del Distrito Judicial, si así lo dispusiere aquél.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
-
 ###### Art. 122.
 
-Los Juzgados de Primera Instancia serán sostenidos por el Estado y los de Paz por sus respectivos Municipios.
+Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio Cabecera del Distrito Judicial, si así lo dispusiere aquél.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-Art.- 123.- Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio Cabecera del Distrito Judicial, si así lo dispusiere aquél.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
 
 ###### Art. 123.
 
@@ -1341,59 +1329,111 @@ c).- En los de población superior a 300,000 habitantes, hasta con tres Regidore
 
 Los Partidos Políticos con derecho a participar en la Entidad que no hubiesen logrado la mayoría en la elección municipal correspondiente, podrán acreditar Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del Partido que haya obtenido la elección por mayoría en el Municipio de que se trate, pero en ningún caso se asignará a un solo Partido más de dos de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá al orden en que los candidatos a Regidores hayan sido postulados por sus respectivos Partidos y a los demás requisitos que disponga la Ley Reglamentaria.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 132.
 
-Las atribuciones y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado, se determinarán en la Ley Orgánica Municipal, la cual deberá sujetarse a las siguientes bases:
+La organización política y administrativa de los Municipios, las facultades y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado y otras dependencias y entidades de la Administración Pública, se determinarán en un Código Municipal o Ley Orgánica Municipal, que deberá sujetarse a las siguientes bases:
 
 I.- Los Ayuntamientos se renovarán totalmente cada tres años.
 
 II.- Los Ayuntamientos se compondrán de aun número de miembros proporcional al de habitantes de la Municipalidad, pero nunca será menor de cinco.
 
-III.- Los Municipios administrarán libremente su hacienda la cual se formará con los productos de sus bienes propios, las participaciones que en los impuestos federales o del Estado les concedan las Leyes y las contribuciones que les señale el Congreso, que en todo caso serán suficientes para atender a sus necesidades.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-IV.- Los Ayuntamientos tendrán personalidad jurídica para contratar y obligarse. Los Síndicos serán los representantes de la personalidad jurídica de los Ayuntamientos.
+III.- Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca en su favor, y en todo caso:
 
-V.- No podrá ser electo miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del mismo Municipio, si no han transcurrido tres años por lo menos, contados desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
+a).- Percibirán las contribuciones, incluyendo tasas adicionales, correspondientes a su territorio, que establezca el Congreso sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-El que haya desempeñado las funciones de Presidente Municipal supliendo faltas, no podrá desempeñar de ningún modo este puesto en el período siguiente.
+Los Municipios podrán celebrar Convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
+
+b).- Las participaciones federales, que sean cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado;
+
+c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las contribuciones a que se refieren los incisos a) y c) no podrán ser objeto de excensiones o subsidios en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de dichas contribuciones;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IV.- Los Municipios estarán investidos de personalidad y capacidad jurídica para todos los efectos legales, y serán representados por sus respectivos Ayuntamientos; los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+V.- Los presidentes municipales, regidores y síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, al menos que hayan estado en ejercicio.
 
 VI.- Por cada miembro propietario del Ayuntamiento se elegirá un Suplente.
 
-VII.- Los Ayuntamientos en la segunda quincena del mes de septiembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, proyectos de Leyes de Ingresos y Presupuestos de Egresos y sus cuentas anuales en la primera quincena de febrero.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-VIII.- La responsabilidad oficial de los miembros del Ayuntamiento sólo podrá exigirse en el término de dos años contados a partir de la fecha en que se efectuaron los actos que la originen.
+VII.- Los Ayuntamientos, en la segunda quincena del mes de septiembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de Leyes de Ingresos, y rendirán sus cuentas anuales en la primera quincena del mes de febrero. Los Presupuestos de Egresos serán aprobados por los propios ayuntamientos con base en sus ingresos disponibles. La Ley establecerá la constitución y funcionamiento de un órgano de la Administración Pública que se encargará del control, inspección y evaluación de las actividades de los Ayuntamientos en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y gasto público.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+VIII.- La responsabilidad de los miembros de los Ayuntamientos con motivo del ejercicio de sus funciones, será exigible en los términos de las leyes de responsabilidades de servidores públicos.
 
 IX.- El Gobernador del Estado tendrá el mando de la Policía y fuerza pública de los Municipios donde residiere habitual o transitoriamente.
 
 X.- Para prevenir o sofocar graves trastornos del orden público, el Gobernador del Estado por sí o por medio de Delegados que lo representen, podrá hacerse cargo de la fuerza pública existente en los Municipios.
 
-XI.- Las faltas temporales o definitivas de los miembros del Ayuntamiento serán cubiertas por el Suplente respectivo y cuando éste falte también se observarán las reglas siguientes:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-a).- Si la falta del propietario u del suplente ocurre dentro de los dos primeros años del período correspondiente, el Ayuntamiento enviará por conducto del Ejecutivo, terna al Congreso para que éste designe a los miembros substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente dentro de los treinta días de recibida la comunicación relativa del Ejecutivo del Estado.
+XI.- Las faltas temporales o definitivas de los miembros de un Ayuntamiento serán cubiertas por el Suplente respectivo, y cuando éste falte también, el Ayuntamiento enviará terna al Congreso, quien designara a los substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente, dentro de los treinta días a partir de la recepción de la comunicación.
 
-b).- Cuando las faltas ocurran en el último año del período, el Ejecutivo designará a los substitutos a propuesta en terna de los Ayuntamientos.
+Unicamente el Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes y a iniciativa del Ejecutivo, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por una causa grave prevista en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1964)</small>
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, a propuesta del Ejecutivo, el Congreso designará entre los vecinos un Concejo Municipal que concluirá el período respectivo.
 
-c).- Si faltare íntegramente el Ayuntamiento, el Gobernador nombrará una Junta de Administración Civil que se haga cargo del Gobierno Municipal, la que funcionará por todo el período para el que fue electo aquél.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XII.- En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos nombrarán Delegados o Sub-Delegados con las facultades y obligaciones que les señalará la Ley Orgánica Municipal, los cuales serán sus representantes directos.
+XII.- En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos respectivos nombrarán delegados y subdelegados con las facultades y obligaciones que señale el Código Municipal, los cuales serán sus representantes directos;
 
 XIII.- En cada Municipalidad se dará entera fé y crédito a los actos públicos, registros y procedimientos de los demás Municipios del Estado.
 
-XIV.- Los miembros de los Ayuntamientos serán responsables personal y colectivamente conforme a las leyes, de los actos que ejecuten en el ejercicio de sus funciones y dichas responsabilidades podrán ser exigidas ante las Autoridades que corresponda, ya sea directamente por los particulares cuando se ofendan sus derechos o ya por Síndicos Procuradores Municipales o del Procurador General de Justicia del Estado cuando se ofendan los de la Sociedad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1943)</small>
+XIV.- Los Ayuntamientos, por sí o a iniciativa popular, podrán expedir, de acuerdo con las bases normativas que establezca el Congreso, los bandos de policía y buen gobierno, y los reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XV.- Los Municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+a).- Agua potable y alcantarillado.
+
+b).- Alumbrado público.
+
+c).- Limpia.
+
+d).- Mercados y centrales de abastos.
+
+e).- Panteones.
+
+f).- Rastro.
+
+g).- Calles, parques y jardines.
+
+h).- Seguridad pública y tránsito.
+
+i).- Los demás que el Congreso determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponden.
+
+Los convenios que celebren los Municipios entre sí o con la Federación deberán ser aprobados previamente por el Congreso.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XVI.- Son facultades de los Ayuntamientos, las establecidas en las fracciones V y VI del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 133.
 
-Los Ayuntamientos no podrán adquirir, enajenar ni gravar sus bienes muebles e inmuebles, ni contratar empréstitos sin la autorización del Congreso. Para celebrar contratos de diversa naturaleza a los enumerados en este artículo cuyo término exceda de un año, necesitan la aprobación del Ejecutivo.
+Los Ayuntamientos no podrán enajenar ni gravar sus bienes muebles e inmuebles, ni contratar empréstitos sin la autorización del Congreso. Para celebrar contratos de diversa naturaleza a los enumerados en este artículo cuyo término exceda de un año, necesitan la aprobación del Congreso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 134.
 
-Cuando un acuerdo del Ayuntamiento sea violatorio de la Constitución Federal o la del Estado, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo suspenderá su cumplimiento, dando cuenta inmediatamente al Congreso, el que resolverá en definitiva si los revoca o aprueba.
+Cuando un acuerdo del Ayuntamiento sea violatorio de la Constitución Federal o del Estado, o de cualquier otra ley, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo dará cuenta inmediatamente al Congreso para que resuelva lo conducente.
 
 ###### Art. 135.
 
@@ -1473,41 +1513,101 @@ Para reunir todos los elementos de información y de estudio que sea necesario, 
 
 DISPOSICIONES GENERALES.
 
-### CAPITULO I
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-Del fuero de los altos funcionarios.
+### CAPITULO UNICO.. De las responsabilidades de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 149.
 
-El Gobernador del Estado, los Diputados al Congreso y los suplentes en ejercicio, son responsables de los delitos de orden común que cometan durante el desempeño del mismo.
+Para los efectos de las responsabilidades a que se refiere este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública del Estado y de los Municipios, quienes serán responsables por los actos u omisiones en que incurren en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 150.
 
-Cuando se acuse de un delito de orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso, erigido en Gran Jurado y a votación cuando menos de doce de los miembros que concurran, declarará si ha lugar o nó a proceder en contra del acusado. Si la declaración fuese negativa no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
+El Congreso del Estado expedirá leyes sobre responsabilidades de servidores públicos, de conformidad con las siguientes prevenciones:
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 151 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de las ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal;
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las leyes determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito o inexplicable a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita o inexplicable no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 151.
 
-Si fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de doce de los miembros presentes que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la Autoridad competente para juzgarlo.
+Podrán ser sujetos de juicio político los Diputados al Congreso local, los Magistrados del Supremo Tribunal de Justicia, los Secretarios, Procurador General de Justicia, Tesorero General y Directores Generales de la Administración Pública estatal, los Jueces, los Directores Generales o sus equivalentes de los organismos descentralizados, y los integrantes de los Ayuntamientos.
+
+Asimismo, el Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos de juicio político, en los términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso, previa declaración de las dos terceras partes de sus integrantes, procederá a la acusación respectiva ante el Pleno del Supremo Tribunal de Justicia del Estado.
+
+Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en Jurado de Sentencia, aplicará, en su caso, la sanción correspondiente mediante resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con la audiencia del acusado.
+
+Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 152.
 
-Los altos funcionarios que tienen fuero conforme a esta Constitución, no gozarán de él por los delitos oficiales que cometieren en el desempeño de algún cargo o comisión que aceptaren durante el período que conforme a la ley disfruten del fuero. Tampoco gozarán de fuero por los delitos del orden común que cometieren no estando en funciones, pero lo recobrarán al volver al desempeño de ellas.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretarios, Procurador General de Justicia, Tesorero General y Directores Generales de la Administración Pública Estatal, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
+
+Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo de la Ley.
+
+Por lo que toca al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Pleno del Supremo Tribunal de Justicia del Estado, en los términos del Artículo 151, resolviendo con base en la legislación penal aplicable.
+
+Las declaraciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su cargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función.
+
+Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 153.
 
-Prescribirá en un año la acción penal por los delitos y faltas oficiales, el cual se contará desde la fecha en que el funcionario se haya separado de su cargo.
+No se requerirá declaración de procedencia del Congreso cuando alguno de los servidores públicos a que hace referencia el Artículo 152 cometa un delito durante el tiempo que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados del Artículo 152, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 154.
 
-El sentenciado por un delito oficial no podrá ser indultado.
+Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del Artículo 150, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 155.
 
-Para las acciones del orden civil no habrá fuero ni inmunidad establecidos en favor de persona alguna.
+El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña algunos de los encargos que hace referencia el Artículo 152.
+
+La ley señalará los plazos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 150. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 ## TITULO XII
 
@@ -2042,3 +2142,11 @@ P.O. 27 DE AGOSTO DE 1983.
 DECRETO No. 494.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1984.
+
+SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Artículo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
