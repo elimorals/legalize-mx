@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2002-03-01"
+last_updated: "2002-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2002.
 
 ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 1 DE MARZO DE 2002.
 
@@ -992,7 +992,7 @@ XI. Las remitidas por Jefes de Estado o gobiernos extranjeros a la Federación, 
 
 XII. Los artículos de uso personal de extranjeros fallecidos en el país y de mexicanos cuyo deceso haya ocurrido en el extranjero.
 
-XIIl. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización de la Secretaría.
+XIII. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización de la Secretaría.
 
 XIV. Las destinadas a instituciones de salud pública, a excepción de los vehículos, siempre que únicamente se puedan usar para este fin, así como las destinadas a personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta. En estos casos deberán formar parte de su patrimonio y cumplir con las demás obligaciones en materia de regulaciones y restricciones no arancelarias. La Secretaría, previa opinión de la Secretaría de Comercio y Fomento Industrial, señalará las fracciones arancelarias que reúnan los requisitos a que se refiere esta fracción.
 
@@ -1018,9 +1018,11 @@ Si la importación de las mercancías de que se trate, requiere del cumplimiento
 
 Para los efectos de las fracciones XV, tratándose de vehículos especialmente adaptados para personas con discapacidad, así como la de la XVII, tratándose de los donativos en materia de alimentación y vestido en caso de desastre natural o condiciones de extrema pobreza, únicamente podrán ser realizados en términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
 ###### Artículo 62.
 
-Tratándose de importación de vehículos, la Secretaría podrá:
+Tratándose de importación de vehículos, sin perjuicio de lo establecido en los artículos 137 bis 1 al 137 bis 9, la Secretaría podrá:
 
 I. Autorizar, en los casos en que exista reciprocidad, la importación en franquicia cuando pertenezcan a:
 
@@ -2288,11 +2290,85 @@ Para los efectos de esta Ley, se considera como franja fronteriza al territorio 
 
 Por región fronteriza se entenderá al territorio que determine el Ejecutivo Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
 ###### Artículo 137.
 
-La Secretaría de Comercio y Fomento Industrial, previa opinión de la Secretaría determinará, por medio de disposiciones de carácter general, las mercancías que estarán total o parcialmente desgravadas de los impuestos al comercio exterior en la franja o región fronteriza. La propia Secretaría de Comercio y Fomento Industrial con base en la Ley de Comercio Exterior, determinará las mercancías cuya importación o exportación a dicha franja o región quedarán sujetas a regulaciones y restricciones no arancelarias.
+Con independencia de lo dispuesto en los artículos siguientes, la Secretaría de Comercio Industrial, previa opinión de la Secretaría determinará, por medio de disposiciones de carácter general, las mercancías que estarán total o parcialmente desgravadas de los impuestos al comercio exterior en la franja o región fronteriza. La propia Secretaría de Comercio y Fomento Industrial con base en la Ley de Comercio Exterior, determinará las mercancías cuya importación o exportación a dicha franja o región quedarán sujetas a regulaciones y restricciones no arancelarias.
 
 Las bebidas alcohólicas, la cerveza, el tabaco labrado en cigarrillos o puros y los caballos de carrera que se importen a la franja o región fronteriza, causarán el impuesto general de importación sin reducción alguna.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 1. Las personas físicas que acrediten su residencia en la Franja Fronteriza Norte, así como en los Estados de Baja California y Baja California Sur, en la región parcial del Estado de Sonora y en el Municipio Fronterizo de Cananea, Estado de Sonora, podrán efectuar la importación definitiva de vehículos automotores usados, siempre y cuando estén destinados a permanecer en estos lugares.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 2. Para efecto del artículo anterior y de los siguientes, se entiende por:
+
+I.- Persona Física: El ciudadano al que la Ley ha dotado de derechos y obligaciones.
+
+II.- Franja Fronteriza Norte: La comprendida entre la Línea Divisoria Internacional con los Estados Unidos de América y la línea paralela a una distancia de 20 kilómetros hacia el interior del país, en el tramo comprendido entre el límite de la región parcial del Estado de Sonora y el Golfo de México.
+
+III.- Región Parcial del Estado de Sonora: La comprendida entre los siguientes límites al norte, la línea divisoria internacional, desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros del Oeste de Sonora, de ese punto, una línea recta hasta llegar a la costa a un punto situado a 10 kilómetros al este de Puerto Peñasco, de allí siguiendo el cauce de ese Río, hacia el norte, hasta encontrar la línea divisoria internacional.
+
+IV.- Año Modelo: El periodo comprendido entre el 1o. de noviembre de un año, al 31 de octubre del año siguiente.
+
+V.- Automóvil: El vehículo destinado al transporte hasta de diez personas, incluyéndose a las vagonetas y a las camionetas denominadas "VAN", que tengan instalado convertidor catalítico de fábrica.
+
+VI.- Vehículo comercial: Al vehículo con o sin chasis para el transporte de mercancías o de más de diez personas, con peso bruto vehicular de más de 2,727, pero no mayor de 7,272 kilogramos.
+
+VII.- Camión mediano: Al vehículo con o sin chasis para el transporte de mercancías o de más de diez personas, con peso bruto vehicular de más de 2,272 kilogramos, pero no mayor de 8,864 kilogramos.
+
+VIII.- Vehículo usado: Al vehículo de cinco o más años-modelos anteriores a la fecha en que se realice la importación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 3. La importación a que se refiere el artículo anterior podrá efectuarse pagando exclusivamente el 50% del Impuesto General de Importación que corresponda a los vehículos a importar, conforme a su clasificación arancelaria.
+
+Las fracciones arancelarias aplicables según la tarifa de la Ley del Impuesto General de Importación, serán las que correspondan al valor de la compra-venta en dólares de los Estados Unidos de América, de los vehículos automotores usados.
+
+Asimismo, se exime del requisito de permiso previo, por parte de la Secretaría de Comercio y Fomento Industrial, la importación de vehículos automotores usados a que se refieren los artículos anteriores.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 4. Los vehículos que podrán importarse bajo el amparo de las disposiciones legales anteriores, son los siguientes:
+
+I.- Automóviles cuyo valor no exceda de doce mil dólares de los Estados Unidos de América, excluyendo los vehículos deportivos, de lujo y convertibles.
+
+II.- Camiones comerciales ligeros y medianos, propulsados por motor de gasolina.
+
+Los vehículos señalados en el presente artículo, deberán ser similares a los de las marcas de fabricación nacional, de conformidad con la lista que publique la Secretaría del Ramo competente en el Diario Oficial de la Federación, dentro del tercer trimestre de cada año, con la previa opinión de la Comisión Intersecretarial de Industria Automotriz.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 5. Las personas físicas que pretendan efectuar la importación de los vehículos en los términos de los artículos anteriores deberán cumplir con lo siguiente:
+
+I.- Acreditarse como ciudadano mexicano con el Acta de Nacimiento o de naturalización correspondiente.
+
+II.- Comprobar su residencia en la franja y regiones fronterizas referidas, de seis meses anteriores a la fecha de la importación del vehículo, mediante cualquiera de los documentos oficiales expedidos a nombre del interesado, en donde conste el domicilio ubicado en la franja o región fronteriza de que se trate.
+
+III.- Presentar el pedimento de importación correspondiente, que deberá contener las características, marca, tipo, línea, modelo y número de serie, con el objeto de que una vez realizada la importación, se pueda comprobar su legal estancia en el país.
+
+IV.- Presentar al momento del despacho aduanero conjuntamente con los documentos aduaneros respectivos, la constancia que acredite que el vehículo a importar cumple con las normas técnicas de emisión máxima permisible de contaminantes en su país de origen.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 6. La importación de vehículos automotores usados que se realice en los términos de los artículos anteriores, se limitará a una unidad por persona.
+
+Asimismo, la persona física que afecte la importación de una unidad vehicular usada, no podrá volver a efectuar la importación de otra unidad vehicular, en los términos de los artículos precedentes, sino después de haber transcurrido un año de la primer importación, siendo aplicables a su comercialización las limitaciones que derivan de las disposiciones aduaneras vigentes.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 7. La internación al resto del territorio nacional de los vehículos importados al amparo de las disposiciones legales que preceden, se regirá por lo dispuesto en la Ley Aduanera, en especial por el párrafo final de su artículo 62, por las normas contenidas en el Reglamento de la Ley Aduanera y por las demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 8. A partir del año 2009, la importación de autos usados a las franjas y regiones fronterizas a que se refieren los artículos anteriores, se realizará de conformidad con lo establecido en el apéndice 300-A.2 del Tratado de Libre Comercio de América del Norte.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
+
+Artículo 137 bis 9. En lo conducente, serán aplicables a las importaciones de vehículos usados, a que se refieren los artículos anteriores, las disposiciones contenidas en la Ley Aduanera, su Reglamento y demás.
 
 ###### Artículo 138.
 
@@ -2898,7 +2974,7 @@ Para que la persona obtenga la patente aduanal del agente que lo designó como s
 
 El agente aduanal será suspendido en el ejercicio de sus funciones hasta por noventa días, o por el plazo que resulte en los términos de la (sic) fracciones I, IV, V y VIII de este artículo, por las siguientes causas:
 
-I. Encontrarse sujeto a un procedimiento penal por haber participado en la comisión de delitos fiscales o privado de su libertad cuando esté sujeto a un procedimiento penal por la comisión de otro delito que amerite pena corporal. La suspensión durará el tiempo que el agente aduanal esté sujeto al procedimiento penal por la comisión de delitos fiscales o privado de su libertad.
+l. Encontrarse sujeto a un procedimiento penal por haber participado en la comisión de delitos fiscales o privado de su libertad cuando esté sujeto a un procedimiento penal por la comisión de otro delito que amerite pena corporal. La suspensión durará el tiempo que el agente aduanal esté sujeto al procedimiento penal por la comisión de delitos fiscales o privado de su libertad.
 
 II. Dejar de cumplir con el encargo que se le hubiere conferido, así como transferir o endosar documentos a su consignación, sin autorización escrita de su mandante, salvo en el caso de corresponsalías entre agentes aduanales.
 
@@ -4005,3 +4081,7 @@ Artículo Tercero. El fideicomiso público a que se refieren los artículos 16-A
 D.O.F. 1 DE MARZO DE 2002.
 
 Unico.- La presente Resolución entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el artículo octavo fracciones I y II, que entrarán en vigor a los treinta días naturales siguientes a su publicación.
+
+D.O.F. 25 DE JUNIO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
