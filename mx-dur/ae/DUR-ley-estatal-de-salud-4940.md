@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-salud-4940"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-08"
-last_updated: "1996-09-15"
+last_updated: "2002-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1996.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD DEL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE JULIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 8 de Febrero de 1987.
 
@@ -795,7 +797,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO UNICO
 
-###### ARTICULO 91o.
+###### ARTÍCULO 91o.
 
 La investigación para la salud comprende el desarrollo de acciones que contribuyan:
 
@@ -2248,3 +2250,31 @@ P.O. 15 DE SEPTIEMBRE DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 SEGUNDO.- Se derogan los Artículos 132, 133, fracciones de la I a la IX, 134 y 139 del Título Noveno, denominado "Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos", Capítulo Único, de la Ley Estatal de Salud, expedida mediante Decreto N° 13, publicado en el Periódico Oficial N° 12 del 8 de Febrero de 1987.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 11 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al tercer día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Salud del Estado de Durango, publicada en el Periódico Oficial del Estado No. 12 de fecha ocho de febrero de mil novecientos ochenta y siete.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un término de 120 días deberá elaborarse por conducto de la Secretaría y el Organismo, el reglamento de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan.
+
+###### ARTÍCULO SEXTO.
+
+Las autorizaciones sanitarias expedidas con anterioridad a la vigencia de la presente Ley, se considerarán otorgadas por tiempo indeterminado, con las excepciones que establezca la presente Ley.
