@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "1998-06-27"
+last_updated: "2003-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2003.
 
-Ley publicada en el Periódico Oficial del Estado de Tabasco, el 8 de febrero de 1995.
+Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 8 de febrero de 1995.
 
 LIC. MANUEL GURRIA ORDOÑEZ, GOBERNADOR SUSTITUTO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES SABED:
 
@@ -47,11 +47,11 @@ Se aprueba la LEY DE SALUD DEL ESTADO DE TABASCO, para quedar como sigue:
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 1.
 
-La presente Ley se aplicará en el Estado de Tabasco y tiene por objeto la protección de la salud, establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y los Municipios, en materia de salubridad local, conforme a lo dispuesto por el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
+La presente ley es de orden público e interés social y tiene por objeto la protección de la salud, establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y los Municipios, en materia de salubridad local, conforme a lo dispuesto por el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
 
 ###### Art. 2.
 
@@ -125,9 +125,15 @@ XVI.- La asistencia social.
 
 XVII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre.
 
-XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas; en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento. Basándose en las normas que al efecto se emitan.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-XIX.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XVIII.- Ejercer la verificación y el control sanitario de los establecimientos o sitios que expendan o suministren al público alimentos y bebidas alcohólicas o no alcohólicas; en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento. Basándose en las normas administrativas que al efecto se emitan.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+XIX.- Dar cumplimiento a los acuerdos que en materia de control sanitario se emitan respecto de los establecimientos o sitios que comercialicen al público, nutrientes vegetales, plaguicidas y sustancias tóxicas; y
+
+XX.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local, las acciones de regulación sanitaria de las actividades y servicios de:
 
@@ -135,7 +141,9 @@ I.- Mercados y Centros de Abastos.
 
 II.- Construcciones excepto la de los establecimientos de salud.
 
-III.- Cementerios, crematorios y funerarias.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+III.- Cementerios, crematorios, funerarias, anfiteatros y necrotecas.
 
 IV.- Limpieza pública.
 
@@ -145,7 +153,9 @@ VI.- Agua potable y alcantarillado.
 
 VII.- Establos, granjas avícolas, porcícolas, apiarios y establecimientos similares.
 
-VIII.- Prostitución.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VIII.- Sexo-Servicio.
 
 IX.- Reclusorios o centros de readaptación social.
 
@@ -153,7 +163,9 @@ X.- Baños públicos.
 
 XI.- Centros de reunión y espectáculos.
 
-XII.- Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza o estéticas y otros similares.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+XII.- Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza o estéticas, centros de tatuajes y otros similares.
 
 XIII.- Tintorerías, lavanderías y lavaderos públicos.
 
@@ -165,9 +177,15 @@ XVI.- Gasolinerías.
 
 XVII.- Establecimientos de enseñanza.
 
-XVIII.- Prevención y control de la rabia de los animales y seres humanos, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-XIX.- Las demás materias que determinen otras disposiciones legales aplicables.
+XVIII.- Prevención y control de la rabia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+XIX.- El control sanitario de los establecimientos o personas que procesen y expendan alimentos, bebidas no alcohólicas y alcohólicas en las ferias locales o cualquier otro tipo de evento; y
+
+XX.- Las demás materias que determinen otras disposiciones legales aplicables.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -191,11 +209,17 @@ IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la i
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida.
 
-VI.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
+VI.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud.
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
 
@@ -213,7 +237,9 @@ En el caso de los programas y servicios de instituciones federales de seguridad 
 
 IV.- Impulsar la desconcentración y descentralización a los municipios de los servicios de salud.
 
-V.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sean solicitados por el Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+V.- Promover, coordinar y realizar la evaluación permanente de programas y servicios de salud que le sean solicitada por el Ejecutivo Estatal; así como del Programa para la Prevención del Suicidio.
 
 VI.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables.
 
@@ -227,7 +253,9 @@ IX.- Impulsar, en el ámbito estatal, las actividades científicas y tecnológic
 
 X.- Coadyuvar con las dependencias federales competentes a la regulación y control de la transferencia de tecnología en el área de salud.
 
-XI.- Promover el establecimiento de un sistema estatal de información básica en materia de salud.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+XI.- Promover el establecimiento de un sistema estatal de investigación y de información básica en Materia de Salud.
 
 XII.- Apoyar la coordinación entre las instituciones de salud y las educativas estatales y federales para formar y capacitar recursos humanos para la salud.
 
@@ -249,11 +277,11 @@ La Secretaría de Salud del Gobierno del Estado, promoverá la participación en
 
 Asimismo fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 9.
 
-La concertación de acciones entre la Secretaría de Salud del Gobierno del Estado y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud del Gobierno del Estado y los integrantes de los sectores público, social y privado, se realizará mediante convenios, contratos o acuerdos de gestión, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado.
 
@@ -261,11 +289,17 @@ I.- Definición de las responsabilidades que asuman los integrantes de los secto
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud del Gobierno del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-III. Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud del Gobierno del Estado; y
+III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud del Poder Ejecutivo del Estado.
 
-IV.- Expresión de las demás estipulaciones que en común acuerdo establezcan las partes.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IV.- Expresión de las demás estipulaciones que en común acuerdo establezcan las partes; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+V.- Definición de cuotas y fuentes de financiamiento por servicio.
 
 ###### Art. 10.
 
@@ -315,7 +349,7 @@ III.- Establecer las acciones sanitarias en los límites territoriales con otras
 
 IV.- Llevar a cabo los programas y acciones en materia de salud y los convenios que al efecto se celebren.
 
-V-. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren.
+V.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren.
 
 VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta ley y demás disposiciones legales aplicables, y
 
@@ -515,9 +549,11 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 El Gobierno del Estado y los Municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### Art. 41.
 
-El Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+El Poder Ejecutivo del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos, auxiliares de la salud, en la prestación de los servicios respectivos, así como al personal no profesional o sin instrucción académica sustentada, tales como parteras, quiroprácticos y masajistas.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
@@ -525,19 +561,71 @@ El Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámb
 
 La Secretaría de Salud del Gobierno del Estado, coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, asimismo estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
-### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO IV. DERECHOS Y OBLIGACIONES DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD
 
 ###### Art. 43.
 
 Para los efectos de esta ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los servicios que presten los sectores públicos, social y privado en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### Art. 44.
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportuna y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+Los usuarios tendrán derecho a:
+
+I.- Acceso igualitario a la atención;
+
+II.- Trato digno, respetuoso y atención de calidad;
+
+III.- De acuerdo a la disponibilidad presupuestal, recibir un paquete de servicios de salud, mismo que será publicado anualmente;
+
+IV.- Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos, diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
+
+V.- A que se le elabore su expediente clínico;
+
+VI.- A decidir libremente sobre su atención;
+
+VII. Previamente informado, otorgar o no su consentimiento a la aplicación de tratamientos o procedimientos invasivos y actos quirúrgicos.
+
+VIII.- Ser tratado con confidencialidad;
+
+IX.- A solicitar una segunda opinión;
+
+X.- Recibir atención médica en urgencias;
+
+XI.- Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
+
+XII.- Presentar quejas por la falta o inadecuada prestación de servicios establecidos en esta Ley, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas; y
+
+XIII.- Ser atendido cuando se inconforme por la atención médica recibida.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 45.
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+Los usuarios tendrán las siguientes obligaciones:
+
+I.- Informarse en la medida de sus posibilidades, sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
+
+II.- Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
+
+III.- Informarse y decidir acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
+
+IV.- Adoptar conductas de promoción de la salud y prevención de enfermedades;
+
+V.- Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
+
+VI.- Cubrir oportunamente las cuotas, que en su caso, se le fijen;
+
+VII.- Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
+
+VIII.- Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
+
+IX.- Hacer uso responsable de los servicios de salud; y
+
+X.- Las demás que se señalen en los Reglamentos correspondientes.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
@@ -569,7 +657,9 @@ I.- La promoción de hábitos de conductas que contribuyan a proteger la salud o
 
 II.- Colaboración en la prevención o tratamiento de problemas ambientales y vinculados a la salud.
 
-III.- Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+III.- Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, así como en el ejercicio de parteras o quiroprácticos, los cuales deberán contar con permiso para el ejercicio temporal del personal no profesional autorizado de salud y observar las disposiciones legales y reglamentarias correspondientes;
 
 IV.- Notificación de la existencia de personas que requieran de servicios de salud, cuando se encuentren impedidas de solicitar auxilio por sí mismas.
 
@@ -715,13 +805,27 @@ IV.- Las demás acciones que directamente contribuyan al fomento de la salud men
 
 La atención de las enfermedades mentales comprende:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-II.- La organización, operación, y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópica;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+II.- La organización, operación, y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+III.- La creación institucional de comités de prevención de mortandad por suicidio para conocer, sistematizar, evaluar y conducir las acciones; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IV.- El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, la cual se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud del Gobierno Federal y en su caso la local y establezcan las disposiciones jurídicas aplicables; respetando la dignidad del usuario y propiciando su reintegración a la vida social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 69.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Los padres, tutores o quienes ejerzan la patria potestad de menores o custodia de incapaces, los responsables de su guarda, las autoridades y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales y de los incapaces.
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
@@ -779,9 +883,11 @@ Los aspectos docentes de la prestación del servicio social se regularán por lo
 
 Para los efectos de la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias y educativas del Estado, con la participación que corresponda a otras dependencias competentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### Art. 78.
 
-La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención prioritariamente en áreas urbanas y rurales de menor desarrollo económico y social del Estado de Tabasco.
+La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo en coordinación con las instituciones de educación superior, mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención prioritariamente en áreas rurales de menor desarrollo económico y social del Estado de Tabasco.
 
 Para los efectos del párrafo anterior el Gobierno del Estado en coordinación con las instituciones educativas y de salud, definirán los mecanismos para los que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que alude el artículo 53 de esta ley.
 
@@ -875,11 +981,21 @@ VI.- El profesional responsable suspenderá la investigación en cualquier momen
 
 VII.- Las demás que establezcan esta ley y la correspondiente reglamentación.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 88.
 
-La Secretaría de Salud del Estado, tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos. Así como vigilar que se establezcan en las instituciones de salud, comisiones de ética e investigación cuando ésta se realice en seres humanos y la bioseguridad, encarga de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+La Secretaría de Salud tendrá a su cargo la coordinación de investigación para la salud en seres humanos cuyas funciones serán:
+
+I.- Revisar, controlar y en su caso aprobar los proyectos de investigación en humanos que cumplan con las bases mencionadas en el artículo 87; y
+
+II.- Vigilar que se establezcan en las instituciones de salud, comisiones éticas y de investigación, cuando ésta se realice en seres humanos; de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+
+Se prohibe la aplicación de técnicas de ingeniería genética que tengan como fin realizar cualquier tipo y forma de clonación humana.
+
+Quien realice los actos señalados en el párrafo anterior, será acreedor a la sanción señalada en el artículo 294 de este ordenamiento, sin perjuicio de las contenidas en otras disposiciones legales.
+
+Las Instituciones o establecimientos públicos y privados que realicen estudios de investigación en seres humanos, deberán ajustarse a las normas oficiales aplicables, e incorporarse al sistema estatal de investigación para la salud.
 
 ###### Art. 89.
 
@@ -927,9 +1043,9 @@ I.- Educación para la salud.
 
 II.- Nutrición.
 
-> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-III.- Control de los efectos nocivos del ambiente en la salud.
+III.- Control de los efectos nocivos del ambiente en la salud, así como la prevención y control de las enfermedades trasmitidas por vectores.
 
 IV.- Salud ocupacional, y
 
@@ -950,6 +1066,10 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 ###### Art. 96.
 
 Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+La divulgación o emisión publicaciones, imágenes o escenas vinculadas directamente con el suicidio o pérdida de la vida por cualquier otra causa, deberá realizarse de manera seria, responsable y sin propósitos sensacionalistas.
 
 ### CAPITULO III. NUTRICION
 
@@ -1015,6 +1135,10 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud del Gobierno del Estado, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Para los efectos de esta Ley, se entiende por salud ocupacional, a la parte de la salud pública que se ocupa de la prevención de accidentes y enfermedades de los trabajadores causadas por la exposición de agentes contaminantes, materiales o cualquier otro factor que se derive la actividad ocupacional. Para el caso de los trabajadores clasificados en el apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán coordinarse con las dependencias regulatorias en la materia.
+
 ###### Art. 106.
 
 El gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigaciones multidisciplinarias que permitan prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
@@ -1029,11 +1153,17 @@ El gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 Corresponde a la Secretaría de Salud del Estado, en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+En este contexto a toda mujer de 20 años o más, deberá informársele los factores de riesgos del cáncer cérvico uterino y cáncer mamario. La detección oportuna de estos cánceres se realizará de manera gratuita a todas las mujeres.
+
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 108.
 
-El Gobierno del Estado, en coordinación con las autoridades sanitarias federales y estatales, elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general a la población.
+El Gobierno del Estado, en coordinación con las autoridades sanitarias federales, y municipales elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general en la población.
 
 Asimismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -1089,6 +1219,10 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 Están obligados a dar aviso, en los términos de los artículos 109 y 110 de esta ley los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta ley.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+En los casos de la enfermedad del Síndrome de Inmunodeficiencia Adquirida, la notificación y aviso obligatorios a los que se hace referencia en los artículos 109, fracción V, 110 y 111 de esta Ley; se realizará con absoluta confidencialidad y respeto al derecho de privacidad de las personas que la hayan adquirido y diagnosticado.
+
 ###### Art. 112.
 
 Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el Art. 108 de esta ley, deberán ser observadas por los particulares, el ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
@@ -1110,6 +1244,10 @@ VI.- La destrucción o control de vectores y reservorios y fuentes de infección
 VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos, y
 
 VIII.- Las demás que determine esta ley, sus reglamentos y la Secretaría de Salud del Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Es de interés público en el Estado de Tabasco para el control de las enfermedades trasmitidas por vectores, la eliminación de criaderos de mosquitos con la participación comunitaria mediante la realización de actividades encaminadas a modificar o destruir su hábitat.
 
 ###### Art. 113.
 
@@ -1147,9 +1285,29 @@ El transporte de enfermos de infecciones transmisibles deberán efectuarse en ve
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO II BIS. SINDROME DE INMUNODEFICIENCIA ADQUIRIDA
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 121 bis.- La vigilancia, prevención y control del Síndrome de Inmunodeficiencia Adquirida y otras infecciones de transmisión sexual, se realizará de acuerdo a lo establecido en el Reglamento, normas oficiales y procedimientos técnicos vigentes.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 121 bis 1.- La Secretaría de Salud del Gobierno del Estado, deberá informar adecuada y oportunamente a la población en general y particularmente a los sectores más vulnerables, sobre la problemática del Síndrome de Inmunodeficiencia Adquirida con datos científicos actualizados y en cuanto a las formas de prevenir esta enfermedad, entre las que figura el uso del condón.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 121 bis 2.- En los establecimientos autorizados para el ejercicio del sexo-servicio, baños públicos, discotecas y establecimientos autorizados para expender e ingerir bebidas alcohólicas, su propietario, encargado o administrador tendrá la responsabilidad de tener a la venda condones.
+
+Los establecimientos para el hospedaje, como parte del servicio básico deberán entregar condones.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 121 bis 3.- Todos los centros de salud, públicos o privados, deberán facilitar a su trabajadores capacitación adecuada acerca del manejo del Síndrome de Inmunodeficiencia Adquirida y de los medios e instrumentos recomendados por la Secretaría de Salud para asegurar el cumplimiento de las medidas de prevención y ofrecerles las condiciones y los recursos necesarios para evitar el contagio.
+
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### Art. 122.
 
@@ -1159,7 +1317,9 @@ Las autoridades sanitarias del Estado, realizarán actividades de prevención y 
 
 El ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-I.- La detección oportuna de las enfermedades no transmisibles y la evaluación de riesgos de contraerlas.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+I.- La detección oportuna de las enfermedades no transmisibles y la evaluación de riesgo de contraerlas. En caso de pacientes con alguna insuficiencia orgánica candidatos a trasplantes, se deberá, además, notificar al Registro Estatal de Trasplantes.
 
 II.- La divulgación de medidas higiénicas para el control de los padecimientos.
 
@@ -1173,11 +1333,19 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 124 bis.- Los jefes, encargados, directores, responsables y propietarios de las unidades médicas hospitalarias, tanto públicas como privadas, están obligados a rendir informe a la autoridad sanitaria, acerca de las sospechas de reacciones adversas a los medicamentos y dispositivos médicos en un plazo no mayor de cinco días después de diagnosticada la sospecha.
+
+### CAPITULO IV. ACCIDENTES
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 125.
 
-Para los efectos de esta ley, se entiende por accidente el hecho súbito que ocasione daños a la salud, y que se produzca por la concurrencia de condiciones potenciales prevenibles.
+Para los efectos de esta Ley, se entiende por accidente, todo aquel evento súbito e inesperado no prevenible que ocasione daños a la salud, y por lesión accidental, el daño a la salud causado por un evento prevenible.
+
+Las instituciones de seguridad social, así como las que pertenezcan al sector, en los casos de urgencias por accidentes, tendrán a su cargo la atención prehospitalaria, acorde con la normatividad que al efecto emita la Secretaría de Salud o en su caso a los convenios celebrados.
 
 ###### Art. 126.
 
@@ -1191,17 +1359,33 @@ III.- El desarrollo de la investigación para la prevención de los mismos.
 
 IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes.
 
-V.- La atención de los padecimientos que se produzcan como consecuencia de ellos, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+V.- La atención de los padecimientos que se produzcan como consecuencia de ellos;
 
-Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la prevención de accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-Dicho consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
+VI.- La prevención secundaria se realizará en el seno del Consejo para la Prevención y Control de Accidentes, en forma intersectorial para tomar acuerdos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VII.- La prevención terciaria que dirige sus acciones a la búsqueda, rescate y traslado de pacientes que se hayan lesionado o enfermado, mediante un sistema prehospitalario de atención de urgencia;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VIII.- La Secretaría de Salud en coordinación con las instancias federales y municipales, deberá organizar y normar la atención de urgencias en el Estado, a través de un sistema organizado, capacitado y dirigido por la misma; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IX.- La promoción de la participación de la comunidad y de las autoridades en la prevención de accidentes.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo para la Prevención y Control de Accidentes del que formarán parte representantes de los sectores públicos, social y privado del Estado. La estructura, organización, facultades y atribuciones del mencionado Consejo, se establecerán en el Reglamento correspondiente. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### Art. 127.
 
@@ -1349,7 +1533,7 @@ El organismo del Gobierno Estatal previsto en el artículo 132 de esta ley tendr
 
 ## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### Art. 151.
 
@@ -1373,27 +1557,53 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### Art. 153.
 
 El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+III.- La prohibición de fumar en el interior de edificios públicos propiedad o en posesión de los gobiernos, estatal y municipales, en los que alberguen oficinas o dependencias y en aquellos en los que se presten servicios públicos, con excepción de las áreas restringidas reservadas en ellos para los fumadores;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IV.- La prohibición de comercializar tabaco en farmacias, droguerías y boticas; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+V.- En el marco del Sistema Estatal de Salud, a través de la Secretaría de Salud, la coordinación de las acciones que se desarrollen contra el tabaquismo, y la promoción de organización de servicios de orientación y atención a fumadores que deseen abandonar el hábito y desarrollará acciones permanentes para disuadir y evitar el consumo de tabaco por parte de niños y adolescentes.
 
 ###### Art. 154.
 
 Para poner en práctica las acciones contra el tabaquismo se tendrá en cuenta los siguientes aspectos:
 
-I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
+I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas;
 
-### CAPITULO UNICO
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+III.- Los responsables de las dependencias, edificios, oficinas o instalaciones a que se refiere la fracción III del artículo anterior, dispondrán en su caso de los espacios en que se permita fumar; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IV.- Las demás disposiciones contenidas en ésta y otras leyes y en los reglamentos y normas correspondientes.
+
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
@@ -1405,37 +1615,111 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud de la entidad, e
 
 El Gobierno del Estado, realizará acciones coordinadas con la Secretaría de Salud del Gobierno Federal, en la ejecución del Programa Nacional contra la farmacodependencia, en los términos del acuerdo de coordinación específico que celebren ambos órdenes de gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### Art. 157.
 
-El Gobierno del Estado y los Municipios para evitar y prevenir el consumo de substancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+El Gobierno del Estado y los Municipios para evitar y prevenir el consumo de substancias psicotrópicas y otras susceptibles de producir dependencia realizarán las siguientes acciones:
 
 I.- Determinarán y ejercerán métodos de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces.
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas.
 
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud, provocados por el consumo de substancias inhalantes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+V.- La prevención de la farmacodependencia y la atención médica de los farmacodependientes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VI.- La educación sobre los efectos en la salud física y mental, así como las repercusiones sociales por el uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras susceptibles de producir farmacodependencia; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+VII.- La educación e instrucción a la familia y la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
 Los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el gobierno estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+Art. 157 bis.- La Secretaria de Salud ejercerá el control sanitario de las substancias a que se refiere el artículo 4°, inciso "A", fracción XVIII, de esta Ley; en su aplicación se ajustará a lo establecido en este ordenamiento y demás disposiciones legales aplicables, de acuerdo con el riesgo que representen directa o indirectamente para la salud humana.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 157 bis 1.- La Secretaría de Salud del Estado, ejercerá la verificación y el control sanitario de los establecimientos que comercializan al público nutrientes vegetales, plaguicidas y substancias tóxicas, de conformidad con las normas que al efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 157 bis 2.- Se prohibe la venta en cualquier presentación comercial, a menores de edad, de las substancias tóxicas y de las peligrosas, señaladas en las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 157 bis 3.- La Secretaría de Salud en coordinación con las autoridades en materia de Seguridad Pública y con la Procuraduría General de la República y del Estado, a fin de prevenir y combatir el uso por inhalación de las substancias con efectos psicotrópicos, mediante los convenios correspondientes, podrá promover o implementar, según corresponda, en los establecimientos que produzcan, utilicen o expendan substancias tóxicas peligrosas o que tengan algún efecto psicotrópico; las medidas que para su control sean necesarias, de acuerdo con la legislación en la materia y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS, ALCOHOLICAS, NUTRIENTES, VEGETALES, PLAGUICIDAS Y SUBSTANCIAS TOXICAS
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO I. DE SU VERIFICACION Y CONTROL
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 158.
 
 La Secretaría de Salud del Gobierno del Estado, ejercerá la verificación y control sanitarios de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas y alcohólicas, en Estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con las normas que al efecto emita la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 158 bis.- La Secretaría de Salud del Gobierno del Estado, ejercerá la verificación y control sanitarios de los establecimientos semifijos y/o ambulantes que expendan o suministren al público alimentos, bebidas no alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con la normas que al efecto emita la autoridad sanitaria competente.
+
+Asimismo, la Secretaría de Salud, verificará que toda bebida alcohólica ostente en los envases, la leyenda: "EI abuso en el consumo de este producto es nocivo para la salud" y la relativa a la licencia o registro sanitario, las cuales deberán estar escritas con letras fácilmente legibles, en colores contrastantes.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 158 bis 1.- Se prohibe la comercialización de bebidas alcohólicas en farmacias, droguerías y boticas, así como de manera ambulante.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO II. SUBSTANCIAS TOXICAS
 
 ###### Art. 159.
 
 Los propietarios, encargados o responsables de los establecimientos en que se expendan o suministren bebidas alcohólicas, en ningún caso y de ninguna forma las expenderán o suministrarán a menores de edad.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 159 bis.- La Secretaría de Salud del Estado, realizará a través de la verificación, el control sanitario de las substancias a que se refiere el artículo 4, inciso "A", fracción XVIII, de esta Ley, ajustándose a lo establecido en esta Ley y demás disposiciones legales aplicables, de acuerdo con el riesgo que representen directa o indirectamente para la salud humana.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 159 bis 1.- La Secretaría de Salud del Estado, ejercerá la verificación y el control sanitario de los establecimientos que comercializan al público nutrientes vegetales, plaguicidas y substancias tóxicas, de conformidad con las normas que al efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 159 bis 2.- Sin perjuicio de la información que debe satisfacerse conforme a otras disposiciones legales o reglamentarias, se vigilará que las etiquetas de los envases de los productos que contengan substancias cuya inhalación produce o puede producir efectos psicotrópicos, ostenten lo siguiente:
+
+"Contiene substancias altamente tóxicas cuyo consumo por cualquier vía o inhalación prolongada o reiterada, origina graves daños para la salud. Prohibida su venta a menores de edad."
+
+"No se deje al alcance de los menores de edad."
+
+En la misma etiqueta o impresión que contenga las anteriores leyendas, se hará referencia a las substancias y las cantidades en que se encuentren expresadas porcentualmente.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 159 bis 3.- La Secretaría de Salud del Estado, promoverá y llevará a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud, provocados por el consumo de substancias psicotrópicas, estupefacientes, inhalantes y otras susceptibles de producir dependencias.
+
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Art. 160.
 
@@ -1456,6 +1740,20 @@ II.- Los establecimientos y servicios que en materia de salubridad general exclu
 ###### Art. 162.
 
 La Secretaría de Salud del Gobierno del Estado, emitirá las normas a que quedará sujeto el control sanitario de las materias de salubridad local.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 162 bis.- Las instituciones que tengan por objeto recibir la donación de alimentos, medicamentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición, alimentación y tratamiento de los sectores jamás desprotegidos del Estado, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
+
+I.- Tener establecimientos que reúnan las condiciones sanitarias adecuadas para el manejo de alimentos y medicamentos;
+
+II.- Contar con personal capacitado y equipo para la conservación, análisis bacteriológico, manejo y transporte higiénico de alimentos y medicamentos;
+
+III.- Realizar la distribución de los alimentos y medicamentos oportunamente, a fin de evitar su contaminación, alteración y descomposición; así como vencimiento de caducidad o vida de anaquel, su deterioro y pérdida de actividad nutritiva o farmacológica, según el caso; y
+
+IV.- Adoptar las medidas de control sanitario, que en su caso, les señale la autoridad.
+
+Se considera responsable exclusivo del suministro de alimentos y medicamentos que por alguna circunstancia se encuentren en estado de descomposición o en el caso de medicamentos que se encuentren caducos deteriorados, a la persona o institución que los distribuya.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
@@ -1499,7 +1797,7 @@ La Secretaría de Salud del Gobierno del Estado, publicará en el Periódico Ofi
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Art. 167.
 
@@ -1521,7 +1819,7 @@ La Secretaría de Salud del Gobierno del Estado, verificará que los mercados y 
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### Art. 170.
 
@@ -1559,7 +1857,9 @@ Los propietarios o poseedores de los edificios y locales para uso comercial o de
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargado o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. RASTROS
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
 
 ###### Art. 179.
 
@@ -1567,11 +1867,21 @@ Para los efectos de esta ley se considera:
 
 I.- Cementerios: El lugar destinado a la inhumación de los cadáveres y restos humanos.
 
-II.- Crematorios: Las instalaciones destinadas a la incineración de cadáveres y restos humanos, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
+II.- Crematorio: La instalación destinada a la incineración de cadáveres y restos humanos.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 III.- Funeraria: El establecimiento dedicado a la prestación del servicio relativo a venta de féretros, velación y traslado de cadáveres de seres humanos a los cementerios o crematorios.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+IV.- Anfiteatro: Establecimiento dedicado al manejo y conservación de cadáveres sujetos a estudios médicos legales; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+V.- Necroteca: Establecimiento dedicado a disección de cadáveres.
 
 ###### Art. 180.
 
@@ -1591,11 +1901,31 @@ La autoridad sanitaria competente verificará el establecimiento, funcionamiento
 
 Los cementerios deben contar con áreas verdes y zonas destinadas a reforestación.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Asimismo, se deberá cuidar de la limpieza y cambio periódico del agua contenida en recipientes para el uso del público con el fin de evitar la proliferación de vectores transmisores de enfermedades.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+De igual manera, deberán efectuar fumigaciones periódicas en épocas propicias de gran concentración de personas. Esto lo deberán realizar con apoyo del Municipio respectivo y en caso de cementerios concesionados o en colaboración con la autoridad con sus recursos propios.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### Art. 184.
 
-La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas que dicte la Secretaría de Salud del Gobierno Federal.
+La aprobación de las solicitudes de conservación, exhumación y cremación de cadáveres, sin perjuicio de la intervención de la autoridad del Registro Civil, deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente, así como a las disposiciones reglamentarias que expida la Secretaría de Salud y las demás normas que dicte la Secretaria de Salud Pública del Gobierno Federal.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 184 bis.- Los anfiteatros y necrotecas, deberán dar aviso de funcionamiento y responsable sanitario, el cual deberá ser médico forense o legista autorizado y deberán satisfacer por lo menos lo siguiente:
+
+I.- Contar con instalaciones sanitarias e instrumental y mobiliario adecuados para el manejo, conservación y disección de los cadáveres;
+
+II.- Contar con cámaras de refrigeración en buen estado de funcionamiento, conservando una temperatura de 4° C bajo cero; y
+
+III.- Las demás que se indiquen en las disposiciones reglamentarias y normas emitidas al respecto.
+
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### Art. 185.
 
@@ -1635,7 +1965,7 @@ El Gobierno del Estado por conducto de sus municipios, proveerá de depósitos d
 
 Para toda actividad relacionada con este capítulo se estará a lo dispuesto por la ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VI. RASTROS
 
 ###### Art. 191.
 
@@ -1673,7 +2003,7 @@ La norma correspondiente, establecerá los requisitos sanitarios y medidas de fu
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades municipales, tomando en consideración las condiciones de lugar y los elementos de que dispongan las autoridades sanitarias para realizar las verificaciones necesarias.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Art. 199.
 
@@ -1705,7 +2035,7 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 Los proyectos para la implantación de sistema de alcantarillado deberán ser estudiados y aprobados por la autoridad municipal con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la verificación de la misma.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Art. 206.
 
@@ -1729,37 +2059,53 @@ Los establecimientos a que se refiere este capítulo no podrán estar ubicados e
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 206 de esta ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO IX. SEXO-SERVICIO
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 209.
 
-Para los efectos de esta ley se entiende por prostitución la actividad que realizan las personas utilizando sus funciones sexuales como medio de vida.
+Para efectos de esta Ley se entiende por sexo-servicio, la actividad que realizan las personas mediante la práctica de actos sexuales dirigidos a obtener un beneficio económico.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 210.
 
-Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio o transmitir enfermedades que se contraigan a través del contacto sexual, asimismo, se sujetará a exámenes médicos periódicos y a los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
+Toda persona que se dedique a ejercer el sexo-servicio, deberá conocer y utilizar medidas preventivas para evitar el contagio y la transmisión de enfermedades a través del contacto sexual. Asimismo, se sujetarán a exámenes médicos y de laboratorio con la periodicidad que señale la autoridad sanitaria, incluyendo el examen para detectar el virus del Síndrome de lnmunodeficiencia Adquirida. Al igual que a los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 211.
 
-Queda prohibido el ejercicio de la prostitución a personas menores de edad.
+El sexo-servicio sólo puede ser ejercido por personas mayores de 18 años.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 212.
 
-Queda prohibido el ejercicio de la prostitución a las personas que padezcan de alguna enfermedad sexualmente transmisible u otra grave en período infectante que pongan en riesgo de contagio la salud de otra, por relaciones sexuales, las personas que hubieron (sic) contraído alguna enfermedad de este tipo, deberán comprobar ante la autoridad sanitaria que ya no la padece, mediante los análisis y el certificado médico que así lo acredite, o en su caso serán acreedores a las sanciones que establezcan las otras disposiciones legales.
+Queda prohibido el ejercicio del sexo-servicio a personas menores de edad, o incapaces, así como aquéllas que padezcan alguna enfermedad de transmisión sexual o cualquier otra grave que ponga en riesgo de contagio la salud de otra. Las personas que hubieran contraído alguna enfermedad de este tipo, deberán comprobar ante la autoridad sanitaria que ya no la padece, mediante los estudios o análisis y el certificado médico correspondiente que así lo acredite.
+
+Las personas que promuevan, induzcan o permitan ejercer el sexo-servicio a menores de edad o incapaces, en las zonas permitidas o en cualquier tipo de establecimientos en los que se ejerce esa actividad; serán sancionados conforme a lo establecido por el artículo 293 de esta Ley.
 
 ###### Art. 213.
 
 El ejercicio de esta actividad estará sujeto a lo que dispone esta ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### Art. 214.
 
-Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas en donde se autorice el ejercicio de la prostitución.
+Queda prohibido el acceso de menores de edad e incapaces al interior de los establecimientos o zonas en donde se autorice el ejercicio del sexo-servicio.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 215.
 
-La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión del gobierno del Estado, de conformidad con las disposiciones legales reglamentarias aplicables.
+La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio del sexo-servicio, para lo cual podrá solicitar la opinión del gobierno del Estado, de conformidad con las disposiciones legales reglamentarias aplicables. Será obligatorio contar con información visible a los usuarios sobre los condones y su uso.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### Art. 216.
 
@@ -1781,7 +2127,17 @@ Tratándose de enfermedades de emergencia graves o cuando así lo requiera el tr
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitarias que procedan para evitar la propagación de la misma, así como observar lo dispuesto por el artículo 110 de esta ley.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS SIMILARES
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 219 bis.- La Secretaria de Salud, tendrá la responsabilidad de definir y llevar a la práctica las políticas y actividades preventivas tendentes a disminuir el riesgo de enfermedades no transmisibles y transmisibles, incluido el Síndrome de Inmunodeficiencia Adquirida, tanto para personas privadas de su libertad corno para la pareja sexual y los servidores públicos que laboren en centros de readaptación social.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 219 bis 1.- Las personas privadas de su libertad que requieran atención médica especializada debido a complicaciones causadas por alguna enfermedad, incluido el Síndrome de Inmunodeficiencia Adquirida y no puedan ser atendidas en el centro de reclusión, deberán recibir tratamiento ambulatorio, internamiento hospitalario o el necesario que requiera su situación de salud. Lo anterior sin perjuicio de lo que establezcan otras disposiciones legales.
+
+En los casos a que se refiere el párrafo anterior, la Secretaría de Salud deberá coordinarse con las autoridades encargadas de los reclusorios o centros de readaptación social a fin de tomar las medidas de seguridad tendentes a evitar la evasión de personas.
+
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### Art. 220.
 
@@ -1797,7 +2153,7 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a la 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por la Ley, otras disposiciones legales aplicables y las normas correspondientes que dicte la Secretaría de Salud del Gobierno del Estado.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Art. 223.
 
@@ -1813,17 +2169,39 @@ La Secretaría de Salud del Gobierno del Estado, una vez terminada la edificaci�
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 223 de esta ley deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
+> <small>(REFORMADA SU DENOMINACION, 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 226.
 
-Para los efectos de esta ley, se entiende por peluquería, salones de belleza, establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas de manos y pies o la aplicación de tratamientos de belleza en general al público.
+Para los efectos de esta Ley, se entiende por peluquería, salones de belleza, establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas de manos y pies, la aplicación de tratamientos de belleza y uso de tatuajes para delineado permanente de cejas, labios y ojos de la población que demande estos servicios.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 226 bis.- Los establecimientos referidos en el artículo anterior que utilicen instrumentos tales como: navajas, máquinas de rasurar o de corte de cabello y agujas, deben mantener los mismos, en mobiliarios protegidos de agentes contaminantes y se deberán desinfectar previamente por cada cliente, por medios físicos y químicos; en caso de navajas, se utilizarán desechables.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 226 bis 1. Los centros de tatuaje y perforación se definen como los establecimientos dedicados a la aplicación de pigmentación en la piel de manera temporal o permanente, así como la perforación en diferentes partes del cuerpo. Se exceptúa de lo anterior, los casos señalados en las disposiciones reglamentarias que al efecto se expidan.
+
+La aplicación de tatuajes o perforaciones con fines estéticos, solo se podrá efectuar en lugares debidamente establecidos y autorizados previamente por la autoridad sanitaria y deberá cumplir con las disposiciones reglamentarias y demás normas que al efecto se emitan. Queda estrictamente prohibido la aplicación de tatuajes o perforaciones de manera ambulante o en lugares no autorizados.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 226 bis 2. Para la instalación de los establecimientos donde se apliquen tatuajes y realicen perforaciones, deberá efectuarse la solicitud correspondiente ante la autoridad sanitaria, adjuntando la siguiente documentación: Formato de carta-consentimiento bajo información, en donde se describa los riesgos que con motivo de los tatuajes se pueden presentar, formato de aviso al público en donde se les informa a los usuarios de la descripción del material a utilizar y que el tatuaje es indeleble e irreversible; que no se puede aplicar a menores de 18 años y que representa un riesgo para la salud.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 226 bis 3.- La realización de las perforaciones y tatuajes no deberá efectuarse a personas menores de edad, a personas con acné moderado o grave; a quienes sean alérgicos al níquel o a la bisutería; a diabéticos; a quienes padezcan enfermedades hemolíticas; a inmunodeprimidos, epilépticos y a toda persona enferma que sea susceptible a complicarse por esta causa, además deberán comprobar el contenido del material y observar las normas básicas de higiene.
 
 ###### Art. 227.
 
 El funcionamiento y personal de los establecimientos señalados en el artículo 226 deberán apegarse a lo establecido en esta ley, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### Art. 228.
 
@@ -1841,7 +2219,7 @@ III.- Lavadero público.- El establecimiento al cual acuden los interesados para
 
 Corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. GASOLINERAS
+### CAPITULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
 
 ###### Art. 230.
 
@@ -1857,7 +2235,7 @@ La Secretaría de Salud del Gobierno del Estado, realizará la verificación san
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo dispuesto en la presente ley.
 
-### CAPITULO XVIII. ESTABLECIMIENTOS DE ENSEÑANZA
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Art. 233.
 
@@ -1867,7 +2245,7 @@ Para el efecto de esta ley, se entiende por transporte, todo vehículo destinado
 
 Los transportes que circulen por uno o más municipios del Estado de Tabasco no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas que para tal efecto se emitan.
 
-### CAPITULO XIX. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERAS
 
 ###### Art. 235.
 
@@ -1877,7 +2255,7 @@ Para los efectos de esta ley, se entiende por gasolineras el establecimiento des
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezcan las disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. ESTABLECIMIENTOS DE ENSEÑANZA
 
 ###### Art. 237.
 
@@ -1895,43 +2273,71 @@ La Secretaría de Salud estatal, ejercerá el control y verificación sanitarios
 
 Los establecimientos a que se refiere el artículo 237 de esta Ley, deberán reunir las condiciones sanitarias y de seguridad, que se establezcan en las disposiciones legales aplicables y en las normas correspondientes, emitidas por la Secretaría de Salud federal.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+### CAPITULO XIX. PREVENCION Y CONTROL DE LA RABIA
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 240.
 
-Para efectos de esta ley, se entiende por centros antirrábicos el establecimiento operado o concesionado por el Ayuntamiento con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieran contraído dicha enfermedad.
+Con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieran contraído dicha enfermedad; los ayuntamientos deberán implementar, administrar y operar cualquiera de los siguientes establecimientos:
+
+I.- Centros antirrábicos de adscripción municipal, que proporcionen servicios a la comunidad orientados a la prevención y control de la rabia, en perros y gatos, con actividades de captura y donación voluntaria, observación, vacunación antirrábica, toma de muestras en animales sospechosos para remisión o diagnóstico de laboratorio; en la población, en algunos casos el primer contacto con las personas agredidas para su atención en unidades de salud;
+
+II.- Centro de control canino de adscripción municipal que lleve a cabo actividades como son enunciativamente, el de atender quejas para retirar de la vía pública animales de compañía que causen molestias; reciba para su sacrificio o donación animales no deseados por sus dueños; ofrezca consulta veterinaria en perros y gatos y la esterilización de hembras y machos, en localidades donde la rabia representa un problema y lleve a cabo las actividades de centro antirrábico;
+
+III.- Centro de acopio canino de adscripción municipal, destinado a mantener confinados para su sacrificio humanitario, aquellos perros y gatos retirados de la vía pública o entregados en forma voluntaria por sus propietarios, en localidades en que la rabia sea o no enzoótica; y
+
+IV.- Centro de aseguramiento canino, en el que se realicen acciones para retirar justificadamente de la vía pública, a perros y gatos que representan un problema de salud pública en ese lugar; atendiendo las quejas de la población que lo solicite, para asegurar a perros y gatos que representen una molestia; recibir en donación animales no deseados; promueva su adopción o por motivos de interés público los sacrifique y en lugares donde haya rabia, aplique acciones como son, vacunación antirrábica canina, observación de agresores y el envío de muestras a laboratorio.
+
+La autoridad sanitaria deberá publicar la ubicación de los establecimientos a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 241.
 
-Los centros antirrábicos que establezcan los Ayuntamientos, tendrán las siguientes funciones:
+En los establecimientos mencionados en el artículo anterior se llevarán a cabo las siguientes funciones:
 
-I.- Atender quejas sobre animales agresores.
+I.- Observar clínicamente a los animales capturados por un lapso de 48 horas;
 
-II.- Capturar animales agresores y callejeros.
+II.- Observar clínicamente a los animales agresores por un lapso de 10 días;
 
-III.- Observar clínicamente a los animales capturados dentro de un lapso de 48 horas, para que su propietario lo reclame.
+III.- Vacunar a los animales capturados y reclamados por su propietario, a costa del mismo, dentro del lapso señalado en las fracciones anteriores; así como también, de aquellos que para tal fin son llevados voluntariamente por sus propietarios;
 
-IV.- Vacunar a los animales capturados y reclamados por su propietario, a costa del mismo, dentro del lapso señalado en la fracción anterior; así como también, de aquellos que para tal fin sean llevados voluntariamente por sus propietarios.
+IV.- Tomar y enviar muestras para obtener los diagnósticos de rabia por medio de análisis de laboratorio;
 
-V.- Practicar la necropsia de animales sospechosos de padecer rabia.
+V.- Canalizar a las personas agredidas, para su tratamiento oportuno; y
 
-VI.- Obtener los diagnósticos de rabia por medio de análisis de laboratorio.
+VI.- El sacrificio humanitario de los animales, que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
 
-VII.- Canalizar a las personas agredidas, para su tratamiento oportuno, y
-
-VIII.- El sacrificio humanitario de los animales, que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios o cuando éstos así lo soliciten.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2003)
 
 ###### Art. 242.
 
-Los propietarios de los animales a que se refiere el artículo anterior estarán obligados a vacunarlos ante las autoridades sanitarias o servicios particulares, así como mantenerlos dentro de sus domicilios y bajo su control.
+Los propietarios o poseedores de los perros y gatos a que se refieren los artículos anteriores estarán obligados a:
+
+I.- Vacunarlos ante las autoridades sanitarias o servicios particulares, quienes estarán obligados a proporcionar la placa correspondiente;
+
+II.- Reclamar los perros o gatos dentro del plazo de siete días hábiles, contados a partir de su captura; y
+
+III.- Colocar en sus mascotas, placas apropiadas de identificación visible que contenga el nombre del propietario o poseedor y el domicilio.
+
+Los propietarios o poseedores de perros, están obligados a mantenerlos dentro de sus domicilios y bajo su control, de lo contrario se harán acreedores a las sanciones contempladas en el artículo 292 de esta Ley, en caso de reincidir por tres ocasiones, los animales quedarán a disposición de los centros mencionados en el artículo 240 de esta Ley, para ser dados en donación o ser sacrificados humanitariamente.
+
+Cuando los animales a que se refiere este artículo ingresen a los establecimientos mencionados en el artículo 240 de esta Ley, sus propietarios o poseedores deberán cubrir los costos de vacunación y alimentación que generen dichos animales durante su estancia en los mismos.
 
 ###### Art. 243.
 
 Las autoridades sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer rabia.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Art. 243 bis.- El personal que labore en los establecimientos contemplados en el artículo 240 de esta Ley, podrá realizar la captura de animales que se encuentren en la vía pública, sin dueño o poseedor aparente o que no porten algún elemento que permita reconocerlo, o aquellos que representen un peligro para la salud e integridad de las personas, a efectos de depositarlos en el lugar específico que se designe, hasta en tanto se determina su destino final.
+
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO I. AUTORIZACIONES
 
 ###### Art. 244.
 
@@ -1989,9 +2395,7 @@ Las autorizaciones a que se refiere esta ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta ley, se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Art. 251.
 
@@ -2057,9 +2461,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### Art. 259.
 
@@ -2115,7 +2517,9 @@ V.- La Secretaría de Salud, podrá reconocer centros de investigación y organi
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 264.
 
@@ -2219,7 +2623,9 @@ En el caso de los productos recogidos en procedimientos de muestro (sic) o verif
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 276.
 
@@ -2251,9 +2657,21 @@ VIII.- El aseguramiento y destrucción de objetos, productos o substancias.
 
 IX.- La desocupación o desalojo de casas, edificios, establecimientos y en general, de cualquier predio.
 
-X.- La prohibición de actos de uso, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
-XI.- Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud. Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
+X.- La prohibición de actos de uso de cualquier artículo o producto que la autoridad sanitaria determine;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+XI.- La revisión periódica de vulcanizadoras y sitios de recolección y almacenamiento de objetos inservibles metálicos o de material plástico (cacharros) que sirven como criaderos para la proliferación de insectos transmisores de enfermedades y animales ponzoñosos, recomendando fumigaciones periódicas y regulares por cuenta del dueño del establecimiento, además de la limpieza respectiva y el resguardo bajo techo de dicho material; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+XII.- Las demás de índole sanitaria que determinen las autoridades competentes del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
 
 ###### Art. 279.
 
@@ -2317,7 +2735,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Art. 289.
 
@@ -2355,33 +2773,53 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 292.
 
-Se sancionará con multa de hasta mil veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 90, 110, 111, 112, 124, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 207, 247, 261 y 262 de esta Ley.
+Se sancionará con multa de hasta mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 90, 96, 110, 111, 112, 121 Bis, 121 Bis 1, 121 Bis 2, 121 Bis 3, 124, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 207, 242, 247, 261 y 262 de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+La violación a lo dispuesto por el último párrafo del artículo 153, se sancionará con multa de 3 hasta 50 días de salario mínimo general vigente en el Estado, al momento de la infracción; pero la autoridad sancionadora, podrá conmutar la multa por una y hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 293.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, la violación las disposiciones contenidas en los artículos 102, 114, 120, 177, 184, 224, 236, 270 y 285 de esta Ley.
+Se sancionará con multa equivalente de mil hasta diez mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 102, 114, 120, 177, 184, 212, 224, 236, 270 y 285 de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 294.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los artículos 62, 87, 89 y 103 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 62, 87, 88 segundo párrafo, 89 y 103, de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
 
 ###### Art. 295.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en el Estado, atendiendo las reglas de calificación que se establecen en el artículo 291 de esta Ley.
+Las infracciones a esta Ley no señaladas en los artículos anteriores de este Capítulo, serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el Estado, atendiendo las reglas de calificación que se establecen en el artículo 291 de esta ley.
 
 ###### Art. 296.
 
 En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este capítulo se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de esta ley o sus reglamentos dos o más veces dentro del período de un año, contando a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+###### Art. 296 Bis.
+
+A quien adultere, contamine, altere o permita la adulteración, contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos o cualquier otra substancia o producto de uso o consumo humano, con inminente peligro para la salud, se le aplicará multa equivalente de cuatro mil a diez mil días de salario mínimo general vigente en el Estado, sin perjuicio de las penas a que se haga acreedor.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+###### Art. 296 Bis 1.
+
+Al que por sí o por interpósita persona, teniendo conocimiento o a sabiendas de ello, autorice u ordene, por razón de su cargo en las instituciones alimentarias a que se refiere el artículo 162 Bis de este ordenamiento, la distribución de alimentos en descomposición o mal estado o medicamentos caducos, que ponga en peligro la salud de otro, se le impondrá multa de cuatro a diez mil días de salario mínimo general vigente en el Estado. Sin perjuicio de las penas a que fuera acreedor conforme a otras disposiciones legales, para lo cual en su caso, la autoridad sanitaria dará vista al Ministerio Público respectivo.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
+###### Art. 296 Bis 2.
+
+Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, serán sancionados con multa de hasta de diez mil veces el salario mínimo general vigente en el Estado. Sin perjuicio de las penas a que fuera acreedor conforme a otras disposiciones legales, para lo cual en su caso, la autoridad sanitaria dará vista al Ministerio Público respectivo.
 
 Art. 197 (sic).- La aplicación de las multas serán sin perjuicio de que se dicten las medidas de seguridad sanitarias que procedan, hasta en tanto se subsanen las irregularidades.
 
@@ -2417,7 +2855,7 @@ Se sancionará con arresto hasta por treinta y seis horas:
 
 I.- A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas. Sólo se impondrá esta sanción si previamente se dictó cualquier otra de las sanciones a que se refiere este capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Art. 301.
 
@@ -2497,6 +2935,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
+
 ###### Art. 311.
 
 Contra actos y resoluciones que dicten las autoridades sanitarias del Estado que con motivo de la aplicación de esta ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad.
@@ -2566,6 +3006,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### Art. 322.
 
 En la tramitación del recurso de inconformidad se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### Art. 323.
 
@@ -2654,3 +3096,13 @@ El presente Decreto entrará en vigor a los quince días siguientes al de su pub
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2003.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- El titular del Poder Ejecutivo del Estado en uso de sus facultades, dentro del plazo de ciento veinte días a partir de la entrada en vigor de este Decreto, deberá expedir o en su caso reformar las disposiciones reglamentarias de la Ley de Salud del Estado o las que sean necesarias para ajustarlas al presente Decreto.
+
+Artículo Cuarto.- De igual manera el Ejecutivo Estatal y los ayuntamientos deberán dar inicio a las acciones que con motivo de las reformas y adiciones contenidas en el presente Decreto, se derivan del mismo, en un plazo no mayor a ciento veinte días, a partir de su entrada en vigor.
