@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1999-06-25"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 1999.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -53,7 +53,7 @@ El Secretario será asistido en sus funciones por un Prosecretario, quien ademá
 
 Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 4o.
 
@@ -91,15 +91,17 @@ Dirección de Medición Económica.
 
 Dirección de Análisis Macroeconómico.
 
-Dirección de Información Económica.
+Dirección de Precios, Salarios y Productividad.
+
+Dirección de Sistematización de Información Económica y Servicios.
 
 Dirección de Análisis del Sistema Financiero.
-
-Dirección de Análisis de Intermediarios Financieros.
 
 Dirección de Información del Sistema Financiero.
 
 Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores.
+
+Dirección de Intermediarios Financieros de Fomento.
 
 Dirección de Administración.
 
@@ -120,6 +122,10 @@ Las Direcciones Generales tendrán adscritas las Direcciones que señala el pres
 > <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
 
 Los Directores y el Contralor se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajero Principal, Coordinadores Generales, Subgerentes, Superintendentes, Coordinadores, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales y las Direcciones podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
+
+El Gobernador, además, se auxiliará en el ejercicio de sus funciones de una Subgerencia de Relaciones Públicas y una Unidad de Comunicación Social.
 
 ###### ARTICULO 5o.
 
@@ -153,13 +159,13 @@ Las atribuciones encomendadas por este Reglamento a los titulares de las Direcci
 
 La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos que se encuentren vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Directores y Contralor, quedando comprendidas también facultades suficientes para realizar actos que impliquen ejercicio presupuestal para la adquisición, enajenación y arrendamiento de bienes muebles, así como para la prestación de servicios relacionados con sus funciones.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
-Tratándose de disposiciones, autorizaciones, opiniones y sanciones, que conforme a la Ley corresponda emitir al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de banca central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección de Emisión y uno de la Dirección Jurídica. En caso de que dichos asuntos se refieran a las monedas y medallas previstas en la fracción VIII del artículo 19 del presente Reglamento, la firma estará a cargo de un funcionario de la Dirección de Operaciones y otro de la Dirección Jurídica.
+Tratándose de disposiciones, autorizaciones, opiniones, sanciones, obtención de información y seguimiento de las operaciones realizadas por los intermediarios financieros, que conforme a la Ley correspondan al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de banca central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección de Emisión y uno de la Dirección Jurídica. En caso de que dichos asuntos se refieran a las monedas y medallas previstas en la fracción VIII del artículo 19 del presente Reglamento, la firma estará a cargo de un funcionario de la Dirección de Operaciones y otro de la Dirección Jurídica.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior, deberán ocupar puestos de Gerente, Cajero Principal, Coordinador General, o bien alguno de rango superior o equivalente a los mencionados.
+Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior, deberán ocupar puestos de Gerente, Cajero Principal o bien alguno de rango superior o equivalente a los mencionados.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -195,69 +201,41 @@ La Dirección General de Operaciones de Banca Central tendrá las atribuciones q
 
 A esta Dirección General estarán adscritas las Direcciones de Operaciones, de Análisis y Evaluación de Mercados, de Sistemas Operativos y de Pagos, así como de Trámite Operativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 13.
 
-La Dirección General de Investigación Económica tendrá las atribuciones señaladas en los artículos 21 a 24.
+La Dirección General de Investigación Económica tendrá las atribuciones señaladas en los artículos 21 a 24 Bis.
 
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, Medición Económica, Análisis Macroeconómico, de Precios, Salarios y Productividad, y de Sistematización de Información Económica y Servicios.
 
-A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, Medición Económica, Análisis Macroeconómico e Información Económica.
-
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 14.
 
-La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en el artículo 25, 25 Bis y 25 Bis 1 del presente Reglamento.
+La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en los artículos 25 y 25 Bis del presente Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Análisis del Sistema Financiero, de Análisis de lntermediarios Financieros y de Información del Sistema Financiero.
+A esta Dirección General estarán adscritas las Direcciones de Análisis del Sistema Financiero y de Información del Sistema Financiero.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-ARTICULO 14 BIS.- La Dirección General del Fondo Bancario de Protección al Ahorro y del Fondo de Apoyo al Mercado de Valores tendrá las atribuciones siguientes:
+ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que se señalan en los artículos 17 y 28 de este Reglamento.
 
-I. Desempeñar las funciones encomendadas al Banco de México relativas al Fondo Bancario de Protección al Ahorro y al Fondo de Apoyo al Mercado de Valores, así como realizar todos los actos que correspondan al propio Banco para el ejercicio de tales funciones;
+A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica.
 
-II. Expedir, en su caso, las reglas de operación de los fondos señalados en la fracción I anterior;
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
-III. Formalizar los instrumentos en que se contengan las operaciones que realicen los fondos a que se refiere el presente artículo, y
+ARTICULO 14 BIS 1.- La Dirección General de Intermediarios Financieros de Fomento tendrá las atribuciones señaladas en el artículo 25 Bis 1.
 
-IV. Publicar información relativa a los fondos citados en la fracción I anterior, así como recabar información y datos de las instituciones de crédito y casas de bolsa, en términos de lo señalado en los artículos 122 y 89 de la Ley de Instituciones de Crédito y de la Ley del Mercado de Valores, respectivamente.
+A esta Dirección General estará adscrita la Dirección de Intermediarios Financieros de Fomento.
 
-Esta Dirección General tendrá adscrita la Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores, la cual contará con las atribuciones relativas a la formalización de los actos y operaciones que realicen los referidos fondos. Las funciones de dicha Dirección Jurídica no incluirán las atribuciones que corresponden, en términos de este Reglamento a las Direcciones previstas en los artículos 17 y 28.
-
-> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
-
-ARTICULO 14 BIS 1.- La Dirección General de Intermediarios Financieros de Fomento tendrá las atribuciones siguientes:
-
-I. Dirigir y supervisar el desempeño de las funciones encomendadas al Banco como Fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras, Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
-
-II. Requerir a los fideicomisos de fomento económico a que se refiere la fracción inmediata anterior, la información necesaria para evaluar la operación de éstos;
-
-III. Atender consultas de las entidades señaladas en la fracción I de este artículo, en relación con las disposiciones financieras, cuya supervisión corresponda al Banco;
-
-IV. Coadyuvar con las autoridades competentes, en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la referida fracción I;
-
-V. Coadyuvar, con las autoridades competentes, en la imposición de las sanciones y en la supervisión de las entidades a que se refiere la multicitada fracción I de este artículo;
-
-VI . Analizar y evaluar el desempeño de las actividades que, en relación con las instituciones de banca de desarrollo le competa regular al Banco conforme a su Ley así como coadyuvar en el diseño de la normatividad y reglas de operación aplicables a aquellas;
-
-VII. Establecer las relaciones con los organismos e instituciones nacionales e internacionales, en el ámbito de la supervisión y regulación de intermediarios financieros de fomento, así como coadyuvar en la difusión de las acciones del Banco en materia de regulación;
-
-VIII. Requerir a las unidades administrativas listadas en el artículo 4o., la información de que dispongan en relación con la banca de desarrollo así como con los fideicomisos de fomento, sin perjuicio de poder solicitarla directamente a estos últimos, y
-
-IX. Publicar información de carácter económico y financiero, relativa a los fideicomisos de fomento y a las instituciones de banca de desarrollo.
-
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 15.
 
-La Dirección General de Administración Interna tendrá las atribuciones contenidas en los artículos 26 a 28 BIS de este Reglamento.
+La Dirección General de Administración Interna tendrá las atribuciones señaladas en los artículos 26, 27 y 28 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
-
-A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad, Jurídica y de Seguridad.
+A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad y de Seguridad, así como la Gerencia de Inmuebles, la cual contará con las atribuciones relativas a la formalización de los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integran el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén.
 
 ###### ARTICULO 16.
 
@@ -303,9 +281,9 @@ III. Emitir la opinión que corresponda dar al Banco cuando la ley lo determine;
 
 IV. Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-V. Expedir las reglas de operación de los fideicomisos de Fomento Económico a que se refiere la fracción I del artículo 14 Bis 1, así como formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere esta fracción;
+V. Expedir las reglas de operación de los fideicomisos de Fomento Económico a que se refiere la fracción I del artículo 25 Bis 1, así como formalizar los instrumentos en que se contengan las operaciones que realicen los fideicomisos a que se refiere esta fracción;
 
 VI. Participar en los procedimientos de obtención de información y seguimiento de las operaciones realizadas por los intermediarios financieros; así como, en su caso, imponer a éstos las sanciones y medidas correctivas procedentes;
 
@@ -325,27 +303,19 @@ X. Publicar información de carácter económico y financiero, y
 
 XI. Otorgar excepciones temporales a aquellas instituciones que se encuentren en procesos de fusión, fusionadas, intervenidas administrativa o gerencialmente, bajo una administración especial, que reciban apoyos financieros del Instituto para la Protección al Ahorro Bancario, o que presenten desequilibrios significativos en sus operaciones activas y pasivas en moneda extranjera, que les impida cumplir con las disposiciones emitidas por el Banco.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 18.
 
-La Dirección de Relaciones Externas tendrá las atribuciones siguientes:
+La Dirección de Relaciones Externas, tendrá las atribuciones siguientes:
 
 I. Atender la relación del Banco con organismos internacionales, con otros bancos centrales y con organismos que agrupen a éstos;
 
 II. Dar seguimiento al cumplimiento de los compromisos del Banco, derivados de acuerdos internacionales suscritos a nombre propio o como agente o mandatario del Gobierno Federal;
 
-III. Coadyuvar con las autoridades financieras en la negociación y formalización de acuerdos internacionales, y en el ingreso a organismos multilaterales de cooperación económica internacional;
+III. Coadyuvar con las autoridades financieras en la negociación y formalización de acuerdos internacionales, y en el ingreso a organismos multilaterales de cooperación económica internacional, y
 
-IV. Instrumentar la estrategia de comunicación del Banco definida por la Junta de Gobierno;
-
-V. Mantener la relación con los medios de comunicación al público auxiliando al Gobernador en las funciones establecidas en la fracción VI del artículo 47 de la Ley;
-
-VI. Atender las actividades protocolarias y sociales que sean necesarias para el correcto desenvolvimiento de las funciones institucionales;
-
-VII. Tener a su cuidado el acervo cultural y el archivo histórico del Banco, y
-
-VIII. Atender, en el ámbito de su competencia, las relaciones del Banco con los Poderes de la Unión.
+IV. Atender, en el ámbito de su competencia, las relaciones del Banco con los Poderes de la Unión.
 
 ARTICULO 18 BIS.- (DEROGADO, D.O.F. 13 DE FEBRERO DE 1998)
 
@@ -455,81 +425,107 @@ IX. Administrar los servicios de depósito y custodia de valores, así como los 
 
 X. (DEROGADA, D.O.F. 13 DE JUNIO DE 1997)
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 21.
 
-La Dirección de Estudios Económicos estará facultada para recabar y procesar información relacionada con las principales variables económicas y financieras del país, así como para operar sistemas y servicios de información vinculados con éstas.
+La Dirección de Estudios Económicos estará facultada para recabar, procesar y divulgar información relacionada con las principales variables económicas y financieras del país, así como para operar sistemas y servicios de información vinculados con éstas.
+
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 22.
 
-La Dirección de Medición Económica estará facultada para recabar y procesar información en materia económica y financiera vinculada al sector real, al sector externo, a los precios y a los agregados monetarios, así como para operar sistemas y servicios de información relacionada con dichas materias.
+La Dirección de Medición Económica estará facultada para recabar, procesar y divulgar información en materia económica y financiera vinculada al Sector Real y al Sector Externo, así como para operar sistemas y servicios de información vinculados con éstas.
 
-También contará con la atribución de efectuar encuestas y comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias señaladas en este artículo.
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 23.
 
-La Dirección de Análisis Macroeconómico estará facultada para recabar y procesar información en materia económica y financiera, relativa a las principales variables macroeconómicas del país y de la operación de los integrantes del sistema financiero.
-
-También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias mencionadas en el párrafo anterior.
+La Dirección de Análisis Macroeconómico estará facultada para recabar, procesar y divulgar información relativa a los agentes integrantes del Sistema Financiero.
 
 ARTICULO 23 BIS.- (DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 24.
 
-La Dirección de Información Económica estará facultada para recabar y procesar información relacionada con los índices de precios, salarios y formación de capital de las actividades económicas del país, así como para establecer los sistemas de procesamiento, manejo y diseminación de información económica y financiera.
+La Dirección de Precios, Salarios y Productividad estará facultada para recabar, procesar y divulgar información relacionada con los índices de precios, salarios, la evolución del mercado laboral del país y la productividad.
 
-También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias señaladas en este artículo.
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+ARTICULO 24 BIS.- La Dirección de Sistematización de Información Económica y Servicios tendrá las funciones siguientes:
+
+I. Establecer sistemas de procesamiento, manejo y diseminación de información económica y financiera;
+
+II. Comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las funciones de la Dirección General de Investigación Económica, y
+
+III. Tener a su cuidado el archivo histórico del Banco.
+
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 25.
 
 La Dirección de Análisis del Sistema Financiero tendrá las atribuciones siguientes:
 
-I. Promover que las disposiciones aplicables al Sistema Financiero sean consistentes con el propósito de lograr su sano desarrollo;
+I. Promover que las disposiciones aplicables a los intermediarios financieros distintos a los señalados en el artículo 25 Bis 1, sean consistentes con el propósito de lograr su sano desarrollo;
 
-II. Revisar las disposiciones expedidas por el Banco y proponer las modificaciones que aseguren su eficacia, así como dar seguimiento a su aplicación y cumplimiento;
+II. Revisar las disposiciones expedidas por el Banco para los intermediarios financieros a que se refiere la fracción anterior y proponer las modificaciones que aseguren su eficacia, así como dar seguimiento a su aplicación y cumplimiento;
 
-III. Analizar las disposiciones aplicables a los mercados financieros, evaluar la eficacia de los sistemas de administración de riesgos de los intermediarios y propiciar los cambios necesarios;
+III. Analizar las disposiciones aplicables en las que participan los intermediarios financieros que se mencionan en la fracción I de este artículo, evaluar la eficacia de sus sistemas de administración de riesgos y propiciar los cambios necesarios;
 
-IV. Establecer las relaciones con los organismos e instituciones nacionales e internacionales, en el ámbito de la supervisión y regulación de intermediarios financieros, así como coadyuvar en la difusión de las acciones del Banco en materia de regulación;
+IV. Establecer las relaciones con los organismos e instituciones nacionales e internacionales, en el ámbito de la supervisión y regulación de los intermediarios citados en la referida fracción I, así como coadyuvar en la difusión de las acciones del Banco en materia de regulación;
 
-V. Participar en la atención de las consultas y autorizaciones en materia de regulación, de autoridades, así como de los intermediarios financieros, y
+V. Participar en la atención de las consultas, en la emisión de opiniones y autorizaciones en materia de regulación, de autoridades, así como de los multicitados intermediarios financieros;
 
-VI. Vigilar que las acciones de regulación del Sistema Financiero, guarden congruencia con las acciones de política monetaria.
+VI. Participar en los procedimientos de obtención de información y seguimiento de las operaciones realizadas por los intermediarios mencionadas en la fracción I de este artículo, así como, en su caso imponer a éstos las sanciones y medidas correctivas procedentes;
 
-> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+VII. Vigilar que las acciones de regulación del sistema financiero, guarden congruencia con las acciones de política monetaria;
 
-ARTICULO 25 BIS.- La Dirección de Análisis de lntermediarios Financieros tendrá las atribuciones siguientes:
+VIII. Realizar el diagnóstico de los intermediarios financieros señalados en la fracción I y diseñar el marco analítico que permita evaluar su operación, y
 
-I. Realizar el diagnóstico de los intermediarios financieros y diseñar el marco analítico que permita evaluar su operación;
+IX. Realizar estudios para incorporar nuevas tecnologías y metodologías en la administración de los riesgos en que incurran los multicitados intermediarios financieros para su análisis y diagnóstico.
 
-II. Coadyuvar en el diseño y aplicación de estrategias para que los intermediarios financieros, corrijan desviaciones que se detecten en su operación y que atenten contra su estabilidad y solvencia;
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
-III. Promover las modificaciones en la regulación financiera, a fin de asegurar su congruencia con el sano desarrollo de los intermediarios financieros;
-
-IV. Participar, en coordinación con otras autoridades, en las labores de saneamiento, así como en el diseño y aplicación de programas correctivos de los intermediarios financieros;
-
-V. Realizar estudios para incorporar nuevas tecnologías y metodologías en la administración de los riesgos en que incurran los intermediarios financieros para su análisis y diagnóstico, y
-
-VI. Establecer relación con organismos y dependencias, nacionales e internacionales, para mantener la actualización necesaria en el análisis de intermediarios financieros.
-
-> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
-
-ARTICULO 25 BIS 1.- La Dirección de Información del Sistema Financiero tendrá las atribuciones siguientes:
+ARTICULO 25 BIS.- La Dirección de Información del Sistema Financiero tendrá las atribuciones siguientes:
 
 I. Desarrollar y mantener el sistema de información de la Dirección General, para la atención de los requerimientos planteados por el Banco y demás autoridades;
 
-II. Requerir a los intermediarios financieros distintos de los señalados en el artículo 14 Bis 1 fracción I, así como a las sociedades controladoras de aquéllos, la información que considere conveniente para evaluar su funcionamiento, y
-
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+II. Requerir a los intermediarios financieros, así como a las sociedades controladoras de aquéllos, la información necesaria para evaluar su funcionamiento;
 
 III. Desarrollar, en coordinación con otras Direcciones del Banco y demás autoridades e integrantes del Sistema Financiero, métodos, sistemas y estructuras de información, y
 
-> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
-
 IV. Publicar información de carácter financiero.
+
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
+
+ARTICULO 25 BIS 1.- La Dirección de Intermediarios Financieros de Fomento tendrá las atribuciones siguientes:
+
+I. Dirigir y supervisar el desempeño de las funciones encomendadas al Banco como Fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras, Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
+
+II. Requerir a los fideicomisos de fomento económico a que se refiere la fracción inmediata anterior, así como a las instituciones de banca de desarrollo, la información necesaria para evaluar su operación;
+
+III. Atender consultas de las entidades señaladas en la fracción I de este artículo, en relación con las disposiciones financieras, cuya supervisión corresponda al Banco;
+
+IV. Coadyuvar con las autoridades competentes, en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la referida fracción I;
+
+V. Coadyuvar con las autoridades competentes, en la imposición de las sanciones y en la supervisión de las entidades a que se refiere la multicitada fracción I de este artículo;
+
+VI. Analizar y evaluar el desempeño financiero de las instituciones de banca de desarrollo;
+
+VII. Revisar las disposiciones expedidas por el Banco relativas a los intermediarios financieros de fomento, así como las correspondientes a las sociedades financieras de objeto limitado y otras empresas de servicios financieros relacionadas con los sectores atendidos por los fideicomisos de fomento mencionados en la fracción I de este artículo;
+
+VIII. Dar seguimiento a la aplicación y el cumplimiento de dicha regulación;
+
+IX. Coadyuvar con otras autoridades en el diseño de programas de ajuste para las instituciones financieras de fomento, con el fin de que corrijan desviaciones que se detecten en su operación y que atenten contra su estabilidad y solvencia;
+
+X. Realizar estudios de nuevas tecnologías y metodologías en la administración de los riesgos en que incurran los intermediarios financieros de fomento para su análisis y diagnóstico;
+
+XI. Establecer las relaciones con los organismos e instituciones nacionales e internacionales, en el ámbito de la supervisión y regulación de intermediarios financieros de fomento, así como coadyuvar en la difusión de las acciones del Banco en materia de regulación;
+
+XII. Requerir a las unidades administrativas listadas en artículo 4o., la información de que dispongan en relación con la banca de desarrollo, así como con los fideicomisos de fomento, sin perjuicio de poder solicitarla directamente a estos últimos, y
+
+XIII. Publicar información de carácter económico y financiero, relativa a los fideicomisos de fomento y a las instituciones de banca de desarrollo.
 
 ###### ARTICULO 26.
 
@@ -621,13 +617,15 @@ IX. Determinar los requisitos legales con que se otorguen los créditos hipoteca
 
 X. Contratar abogados externos, así como llevar el control de fedatarios públicos que esta Dirección designe para operar con el Banco;
 
-XI. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo DECIMO TRANSITORIO de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-XII. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley, y
+XI. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos, y
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-XIII. Formalizar los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integren el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén.
+XII. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley.
+
+XIII. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 1999)
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -707,17 +705,29 @@ XII. Recibir las quejas y denuncias que presente cualquier interesado conforme a
 
 XIII. Llevar registro de las normas internas que expidan las unidades administrativas del Banco.
 
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 31.
 
-(DEROGADO, D.O.F. 13 DE FEBRERO DE 1998)
+La Subgerencia de Relaciones Públicas atenderá las actividades protocolarias y sociales que sean necesarias para el correcto desenvolvimiento de las funciones institucionales, así como tener a su cargo el acervo cultural del Banco.
+
+El titular de esta Subgerencia y el de la Unidad a que se refiere el artículo 31 Bis, podrán suscribir individualmente los documentos vinculados con sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
+
+ARTICULO 31 BIS.- La Unidad de Comunicación Social tendrá a su cargo las siguientes funciones:
+
+I. Instrumentar la estrategia de comunicación del Banco definida por la Junta de Gobierno, y
+
+II. Mantener la relación con los medios de comunicación al público, auxiliando al Gobernador en las funciones establecidas en la fracción VI del artículo 47 de la Ley.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 32.
 
-La Comisión prevista en el artículo 61 de la Ley será presidida por el miembro de la Junta de Gobierno que participe en ella y contará con un Secretario y un Secretario Suplente, cargos que ocuparán el titular de la Gerencia Jurídica de lo Contencioso y Asuntos Laborales y el de la Subgerencia Jurídica de lo Contencioso y Asuntos Laborales, respectivamente.
+La Comisión prevista en el artículo 61 de la Ley será presidida por el miembro de la Junta de Gobierno que participe en ella y contará con un Secretario y un Secretario Suplente, cargos que ocuparán el titular de la Dirección Jurídica y el de la Gerencia Jurídica de lo Contencioso y Asuntos Laborales y el de la Subgerencia Jurídica de lo Contencioso y Asuntos Laborales, respectivamente.
 
 ###### ARTICULO 33.
 
@@ -925,15 +935,17 @@ En la sustanciación y resolución del recurso de reconsideración se aplicarán
 
 Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 54.
 
-Sin perjuicio de lo señalado en el artículo 45 de la Ley, durante las ausencias del Gobernador, Directores Generales, Directores, Contralor, Gerentes, Cajero Principal y Coordinadores Generales, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo.
+Sin perjuicio de lo señalado en el artículo 45 de la Ley, durante las ausencias del Gobernador, Directores Generales, Directores, Contralor, Gerentes y Cajero Principal, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo.
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 55.
 
-En el juicio de amparo y en otros asuntos judiciales, administrativos o del trabajo, en ausencia del Gobernador podrán firmar los informes o promociones respectivas, el Director General de Administración Interna o el Director Jurídico.
+En el juicio de amparo y en otros asuntos judiciales, administrativos o del trabajo, en ausencia del Gobernador podrán firmar los informes o promociones respectivas, el Director General Jurídico o el Director Jurídico.
 
 ## TRANSITORIOS
 
@@ -1022,3 +1034,7 @@ TERCERO.- Las menciones que se hagan a la Dirección de Sistemas Operativos de B
 D.O.F. 25 DE JUNIO DE 1999.
 
 UNICO.- La presente adición entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 1999.
+
+UNICO.- Las presentes reformas y adiciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
