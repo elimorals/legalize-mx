@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2001-12-25"
+last_updated: "2002-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1299,9 +1299,9 @@ Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
 I. Tratándose de sujetos habituales, solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración, utilizando al efecto las formas aprobadas. La Secretaría de Finanzas y Administración podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-II.- Presentar declaración en la Oficina Fiscal del Estado de su jurisdicción, junto con la documentación o contratos objeto de este impuesto.
+II.- Presentar declaración en las oficinas autorizadas, junto con la documentación o contratos de este impuesto.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -1669,11 +1669,17 @@ DEL OBJETO
 
 Están obligados al pago del Impuesto sobre Juegos Permitidos, las personas físicas, morales o unidades económicas sin personalidad jurídica:
 
-I.- Que organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho de participar en los mismos.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+I.- Que organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, aún cuando por dichos eventos no se cobre la cantidad alguna que represente el derecho de participar en los mismos, exceptuando los que se obsequien para promover las ventas de bienes y la prestación de servicio. No se consideran incluidos en los concursos los torneos en los que únicamente participen deportistas no profesionales.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 II.- Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
 
 No se considera como ingreso o premio el reintegro correspondiente al billete que permitió participar en loterías.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 III.- Que organicen o celebren las actividades a que se refiere la fracción I de este artículo u obtenga los premios derivados de las mismas, independientemente del lugar donde se realice el evento.
 
@@ -1713,7 +1719,11 @@ DEL PAGO
 
 Para efectuar el cálculo de este impuesto se estará a las siguientes reglas:
 
-I.- Se aplicará una tasa del 10% a la base gravable contemplada en la fracción I del artículo 141.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+I.- Se aplicará una tasa del 6% a la base gravable contemplada en la fracción I del artículo 141.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 II.- Se aplicará una tasa del 6% a la base gravable contemplada en la fracción II del artículo 141.
 
@@ -1751,11 +1761,15 @@ I.- Tratándose de organizadores habituales:
 
 a).- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
-b).- Retener el impuesto que corresponda a los premios pagados o entregados y enterarlo a la Oficina Fiscal de su jurisdicción mediante las formas aprobadas dentro de los primeros 15 días del mes inmediato posterior al de su causación.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+b).- Retener el impuesto que corresponda a los premios pagados o entregados y enterarlo, en las oficina autorizadas mediante las formas aprobadas dentro de los primeros 15 días del mes inmediato posterior al de su causación.
 
 c).- Proporcionar al interesado, constancia de retención del impuesto cuando así lo solicite la persona que obtenga el premio.
 
-d).- Presentar declaraciones mensualmente en la Oficina Fiscal de su jurisdicción mediante las formas aprobadas, en las que se incluirán el impuesto retenido y en su caso, el que corresponda por su propia actividad.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+d).- Presentar declaraciones mensualmente en las oficinas autorizadas mediante las formas aprobadas, en las que se incluirán el impuesto retenido y en su caso, el que corresponda por su propia actividad.
 
 e).- Cuando los sujetos realicen eventos en varios establecimientos acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
@@ -1767,7 +1781,9 @@ h) si los premios ofrecidos consisten en bienes distintos de dinero, señalarán
 
 II.- Tratándose de organizadores eventuales tendrán las obligaciones señaladas en los incisos c), f), g) y h) de la fracción anterior, además de las siguientes:
 
-a).- Retener el impuesto que corresponda a los premios y enterarlo a la Oficina Fiscal de su jurisdicción mediante las formas aprobadas, el día siguiente hábil al de su causación.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+a).- Retener el impuesto que corresponda a los premios y enterarlo a las oficinas autorizadas mediante las formas aprobadas, el día siguiente hábil al de su causación.
 
 b).- Garantizar el interés fiscal por el importe estimado de los impuestos que se puedan causar. Para este efecto el jefe de la oficina fiscal fijará bajo su responsabilidad, el importe de la garantía.
 
@@ -2503,15 +2519,17 @@ DEL PAGO
 
 El pago de impuesto se hará mensualmente a más tardar el día 15 del mes siguiente al en que se realizaron las actividades objeto de este impuesto, haciendo uso de las formas aprobadas por la Secretaría de Hacienda del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 217.
 
-Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y entregarlo a la Oficina Fiscal correspondiente, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y entregarlo en las oficina autorizadas, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
 
 La misma obligación tendrán quienes en forma habitual o accidental efectúen pagos a personas que ejerzan sus actividades sin estar subordinados a un patrón, cuando éstos residan fuera del Estado o en el extranjero.
 
-OBLIGACIONES DE LOS CAUSANTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+OBLIGACIONES DE LOS SUJETOS
 
 ###### ARTICULO 218.
 
@@ -2521,9 +2539,9 @@ Los sujetos de este impuesto están obligados a:
 
 I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tengan a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-II.- Presentar declaraciones en la Oficina Fiscal del Estado de su jurisdicción, utilizando las formas aprobadas para el efecto.
+II.- Presentar declaraciones en las oficinas autorizadas utilizando las formas aprobadas para el efecto.
 
 III.- Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se fije.
 
@@ -2541,11 +2559,11 @@ Los retenedores de este impuesto y en general quienes hagan pagos a los sujetos 
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 220.
 
-Están exentos del pago de este impuesto, los ingresos a que se refiere este capítulo cuando por ellos se cause y se pague el impuesto al valor agregado.
+Están exentos del pago de este impuesto:
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2623,11 +2641,11 @@ III. Cuando el servicio sea prestado.
 
 DEL PAGO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 227.
 
-El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponda el pago, presentándose al efecto, declaración en la Oficina Fiscal de su jurisdicción, en las formas aprobadas.
+El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponda el pago, presentándose al efecto, declaración en las oficinas autorizadas, en las formas aprobadas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
@@ -2635,17 +2653,31 @@ El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes s
 
 Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
 I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaria de Finanzas y Administración del Estado, utilizando, para tal efecto, las formas aprobadas. La SecretarÍa de Finanzas y Administración del Estado podrá, de oficio, inscribir a los contribuyentes cuando tenga a su disposición informes por este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 II. Presentar, ante las mismas autoridades, los avisos de cambios de datos contenidos en su solicitud de inscripción, en los términos del Código Fiscal del Estado.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
 III. Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 IV. Trasladar, en forma expresa y por separado, a los usuarios de los servicios de hospedaje, el impuesto correspondiente.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
 V. Conservar, a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto.
 
-VI. Cuando los sujetos operen con varios establecimientos, podrán optar por acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado, para lo cual presentará aviso en la Oficina Fiscal ante la cual dejarán de presentar declaraciones.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+VI. Cuando los sujetos operen con varios establecimientos, deberán acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 VII. Llevar la contabilidad y expedir comprobantes por las contraprestaciones que obtenga, de conformidad con el Código Fiscal del Estado. Deberá conservar una copia de los comprobantes a disposición de las autoridades fiscales.
 
@@ -2781,11 +2813,13 @@ Este impuesto se causará con la tasa del 2% sobre la base a que se refiere el A
 
 DEL PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 249.
 
-El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponde el pago, presentándose al efecto declaración en la Oficina Fiscal de su jurisdicción, en las formas aprobadas.
+El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel que corresponde el pago, presentándose al efecto declaración en las oficinas autorizadas, en las formas aprobadas.
+
+Los contribuyentes deberán presentar declaraciones siempre que haya cantidad a pagar, así como la primera declaración sin pago. Cuando se presente una declaración de pago sin impuesto a cargo, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las siguientes declaraciones, hasta que exista cantidad a pagar, siempre que en este supuesto, se cumplan con los requisitos que establezcan las disposiciones fiscales aplicables.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2805,7 +2839,9 @@ II.- Presentar ante las mismas autoridades, los avisos de cambio de datos conten
 
 III.- Presenatr (sic) declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
-IV.- Cuando los sujetos operen con varios establecimientos, podrán optar por acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado, para lo cual presentarán aviso en la Oficina Fiscal ante la cual dejará de presentar declaraciones.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+IV.- Cuando los sujetos operen con varios establecimientos, deberán acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
 
@@ -2949,9 +2985,9 @@ ARTICULO 258 A.- Para los efectos de la causación de los derechos sobre la base
 
 ARTICULO 258 B.- Cuando en este Título II o en los Decretos que lo reformen se haga referencia a salarios mínimos como sistema para determinar las contribuciones que correspondan, deberá entenderse el salario mínimo diario vigente en la capital del Estado. Así mismo las modificaciones a los salarios mínimos generales que afecten las cantidades o la fijación de las contribuciones, se aplicarán en el mes en que entren en vigor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 258 C.- Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de los servicios, en la Oficina Fiscal de la jurisdicción dentro de los plazos que se establezcan para el efecto. En los casos de obligaciones a cumplirse por años de calendario, deberán hacerse, a falta de disposición expresa, en el mes de enero de cada año. La Secretaría de Hacienda del Estado publicará en su caso los plazos en que se prestará el servicio y el término en que deberá efectuarse el pago respectivo.
+ARTICULO 258 C.- Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de los servicios, en las oficinas autorizadas, dentro de los plazos que se establezcan para tal efecto. En los casos de obligaciones a cumplirse por años de calendario, deberán hacerse, a falta de disposición expresa, en el mes de enero de cada año. La Secretaría publicará en su caso los plazos en que se prestará el servicio y el término en que deberá efectuarse el pago respectivo.
 
 Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el contribuyente para el pago del importe de los derechos y sanciones que se causaren, independientemente de las penas que correspondan.
 
@@ -2965,11 +3001,11 @@ ARTICULO 258 D.- En los casos en que no se efectúe previamente a la prestación
 
 ARTICULO 258 E.- El cobro de los derechos establecidos en el presente Título II, dará lugar, en su caso, al ejercicio de la facultad económico-coactiva la cual se ejercitará por conducto de la Secretaría de Hacienda del Estado o la Oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 258-F.
 
-Los derechos por concepto de certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por funcionarios y empleados de Gobierno del Estado, se causarán conforme a la siguiente:
+Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por funcionarios y empleados de Gobierno del Estado, se causarán conforme a la siguiente:
 
 TARIFA:
 
@@ -2989,6 +3025,10 @@ III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o 
 
 IV.- Apostillamiento de documentos, cinco días de salario mínimo.
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+V.- Otorgamiento de constancia por el registro del título profesional ante el Poder Judicial del Estado, tres días de salario mínimo.
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 259.
@@ -3004,6 +3044,10 @@ III.- Constancia de no inhabilitación para el servicio público, tres días de 
 IV.- Constancia de antecedentes no penales, tres días de salario mínimo.
 
 V.- En los términos de la Ley del Notariado, por la adscripción de un aspirante a una Notaría Pública, 150 días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+VI.- Por la integración del expediente del aspirante a Notario Público, se pagará ocho días de salario mínimo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3033,41 +3077,35 @@ Los derechos por actos del Registro Civil se causarán conforme a la siguiente
 
 TARIFA:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-I.- Inscripciones.
+I.- INSCRIPCIONES.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+1.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones, defunción e inscripciones de sentencias, un día de salario mínimo.
 
-1.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones y defunción, 50 % de un día de salario mínimo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
-
-2.- Inscripción de actas de matrimonio, seis días de salario mínimo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+2.- Inscripción de actas de matrimonio, diez días de salario mínimo.
 
 3.- Inscripción de actas de divorcio:
 
-a).- Expedidas en el país, seis días de salario mínimo.
+a).- Expedidas en el país, ocho días de salario mínimo.
 
-b).- Expedidas fuera del país, ocho días de salario mínimo.
+b).- Expedidas fuera del país, diez días de salario mínimo.
 
-Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de dieciocho días de salario mínimo.
+Cuando los servicios del Oficial del Registro Civil se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de veinticinco días de salario mínimo.
 
 II.- REGULARIZACIONES Y CANCELACIONES.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-a).- El registro de actos celebrados en el extranjero causarán los derechos establecidos en la presente tarifa, según los actos de que se trate.
+a).- El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez días de salario mínimo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de un día de salario mínimo.
+b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos días de salario mínimo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-c).- La corrección de errores en inscripciones causará la cuota igual al importe de un día de salario mínimo.
+c).- La corrección de errores en inscripciones causará la cuota igual al importe de tres días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3084,6 +3122,14 @@ IV.- DIVORCIO ADMINISTRATIVO.
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2001)</small>
 
 Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de 30 días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. DE 18 DE DICIEMBRE DE 2002)</small>
+
+V.- DIVERSOS.
+
+a).- Por la búsqueda de documentos, dos días de salario mínimo.
+
+b).- Por trámite de actas foráneas, dos días de salario mínimo.
 
 ###### ARTICULO 262o.
 
@@ -3243,11 +3289,11 @@ VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a p
 
 IX.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 265.
 
-No se causarán los derechos a que se refieren los artículos 263 y 266 por los informes que soliciten las autoridades judiciales por causas penales o juicios de amparo.
+No se causarán los derechos a que se refieren los artículos 263 y 266 por los informes que soliciten las autoridades judiciales por causa penales o juicios de amparo y por la expedición de copias certificadas, certificaciones, búsqueda de documentos e informes que soliciten oficialmente los servidores públicos del Gobierno del Estado en ejercicio de sus facultades como autoridades. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del Estado y en los casos que se requiera otorgar como garantía los bienes propiedad de Gobierno del Estado.
 
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
 
@@ -3341,6 +3387,10 @@ XIX.- Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el f
 
 XX.- Por el registro del sello y firma que deben efectuar los corredores públicos en los términos del Artículo 62 fracción III del Código de Comercio, cuatro días de salario mínimo.
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+El importe de los derechos señalados en las fracciones III, VII, XV y XVI, en ningún caso será inferior al equivalente a tres días de salario mínimo.
+
 ###### ARTICULO 267o.
 
 Para la determinación y cobro de los derechos que establece el Artículo anterior, se observarán las reglas siguientes:
@@ -3377,9 +3427,63 @@ No se causarán los derechos a que se refiere el artículo 266 por las inscripci
 
 AUTORIZACIONES Y PATENTES
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 269o.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Los servicios que prestan las aurtoridades educativas del Estado causarán derechos conforme a la siguiente tarifa:
+
+I.- Certificación de estudios:
+
+1.- Certificación de estudios de nivel básico, 75 % de un día de salario minimo.
+
+2.- Certificación de estudios de nivel medio superior, tres días de salario mínimo.
+
+3.- Expedición de duplicado de certificado de estudios básicos y nivel medio-superior, 75 % de un día de salario mínimo.
+
+4.- Expedición de duplicado de certificado de estudios de nivel superior, dos días de salario mínimo.
+
+II.- Exámenes:
+
+1.- Examen a título de suficiencia en estudios de nivel básico, 75 % de un día de salario mínimo.
+
+2.- Examen extraordinario de regularización en estudios de nivel básico y medio superior, 50 % de un día de salario mínimo.
+
+3.- Examen extraordinario de regularización en estudios de nivel superior, un día de salario mínimo.
+
+III.- Diplomas:
+
+1.- Expedición de diploma de estudios básicos y nivel medio-superior, 75 % de un día de salario mínimo.
+
+2.- Expedición de diploma de estudios superiores, tres días de salario mínimo.
+
+IV.- Revalidaciones:
+
+1.- Revalidación de estudios de primaria, 50 % de un día de salario mínimo.
+
+2.- Revalidación de estudios de secundaria por grado, 50 % de un día de salario mínimo.
+
+3.- Revalidación de estudios de preparatoria, cinco de días de salario mínimo.
+
+4.- Revalidación de estudios de nivel superior, quince días de salario mínimo.
+
+V.- Revisión de estudios:
+
+1.- Revisión de estudios en nivel de estudios básico, 25 % de un día de salario mínimo.
+
+2.- Revisión de estudios en nivel de superior, 50 % de un día de salario mínimo.
+
+VI.- Diversos:
+
+1.- Expedicón de carta de docencia, 25 % de un día de salario mínimo.
+
+2.- Legalización de documentos de Universidad y Normal Superior, 75 % de un día de salario mínimo.
+
+3.- Comprobación de cumplimiento de requisitos en estudios de nivel primaria, 25 % de un día de salario mínimo.
+
+4.- Comprobación de cumplimiento de requisitos en estudios de nivel secundaria, el 50 % de un día de salario mínimo.
+
+5.- Corrección de nombre en nivel de estudios básico, 25 % de un día de salario mínimo.
 
 ### CAPITULO III. SERVICIOS DE INSPECCION
 
@@ -3405,11 +3509,11 @@ AUTORIZACIONES Y PATENTES
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 275o.
 
-Los servicios que se presten por la Dirección de Catastro y demás autoridades catastrales, causarán derechos conforme a la siguiente:
+Los servicios que se presten por las autoridades catastrales del Estado, causarán derechos conforme a la siguiente:
 
 T A R I F A :
 
@@ -3451,35 +3555,55 @@ d).- (DEROGADO, P.O. 16 DE ENERO DE 1993)
 
 II.- CERTIFICACIONES CATASTRALES.
 
-a).- La certificación de Registro sobre planos de predios proporcionados por los contribuyentes, un día de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-b).- La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y en general de manifiestos o datos de los mismos que obren en los archivos de la Secretaría de Hacienda del Estado un día de salario mínimo.
+a).- Las certificación (sic) de registro sobre planos del predios (sic) proporcionados por los contribuyentes tres días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+b).- La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador de un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y, en general, de manifiestos o datos de los mismos que obren en los archivos de la Secretaría de Finanzas, tres días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+c).- Búsqueda de documentos catastrales, tres días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 III.- AVALUOS PERICIALES.
 
-Sobre el valor de los mismos, 2 al millar; en ningún caso el importe a pagar será menor de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+Sobre el valor de los mismos, 2 al millar en ningún caso el importe a pagar será menor de tres días de salario mínimo.
 
 IV.- SERVICIOS TOPOGRAFICOS.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-1.- Deslinde de predios urbanos, por metro cuadrado, el 1% de un día de salario mínimo.
+1.- Deslinde de predios urbanos, por metro cuadrado, el 5% de un día de salario mínimo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 2.- Deslinde de predios suburbanos y rústicos, por hectárea:
 
-a).- Terrenos planos desmontados 10% de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-b).- Terrenos planos con monte 20% de un día de salario mínimo.
+a).- Terrenos planos desmontados 50% de un día de salario mínimo.
 
-c).- Terrenos con accidentes topográficos desmontados 30% de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-d).- Terrenos con accidentes topográficos con monte 40% de un día de salario mínimo.
+b).- Terrenos planos con monte 60% de un día de salario mínimo.
 
-e).- Terrenos accidentados 50% de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+c).- Terrenos con accidentes topográficos desmontados 70% de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+d).- Terrenos con accidentes topográficos con monte 80% de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+e).- Terrenos accidentados un día de salario mínimo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3491,9 +3615,9 @@ e).- Terrenos accidentados 50% de un día de salario mínimo.
 
 a).- Tamaño del plano hasta de 30 x 30 centímetros cinco días de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-b).- Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracción 5 al millar de un día de salario mínimo.
+b).- Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracción 10 % de un día de salario mínimo.
 
 5.- Dibujo de planos topográficos suburbanos y rústicos, escalas mayor a 1:500:
 
@@ -3501,17 +3625,17 @@ b).- Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracció
 
 a).- Polígono de hasta seis vértices cinco días de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-b).- Por cada vértice adicional 20 al millar de un día de salario mínimo.
+b).- Por cada vértice adicional 10 % de un día de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-c).- Planos que excedan de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción, 10 al millar de un día de salario mínimo.
+c).- Planos que excedan de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción 10 % de un día de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-6.- Localización y ubicación del predio, un día de salario mínimo.
+6.- Localización y ubicación del predio, tres días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3559,11 +3683,11 @@ VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991
 
 ### CAPITULO VI. SERVICIOS PARA EL CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 281.
 
-El Ejecutivo de Estado, por conducto de la Secretaría de Hacienda del Estado y Oficinas autorizadas, hará efectivos los derechos por servicios para el control vehicular, conforme a la siguiente:
+El Ejecutivo de Estado, por conducto de la Secretaría de Finanzas y oficinas autorizadas, hará efectivos los derechos por servicios para el control vehicular, conforme a la siguiente:
 
 T A R I F A:
 
@@ -3571,7 +3695,9 @@ T A R I F A:
 
 I.- Por la asignación del número de control vehicular y la expedición de las placas y de la documentación correspondiente;
 
-a).- Automóviles, camiones y similares, dieciseis días de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+a).- Automóviles, camiones y similares, dieciocho días de salario mínimo.
 
 b).- Motocicletas y similares, seis días de salario mínimo.
 
@@ -3591,65 +3717,117 @@ Los derechos comprendidos en esta fracción deberán pagarse dentro de los tres 
 
 Las personas físicas o morales que adquieran vehículos que no cuenten con placas, deberán hacerlo dentro de los quince días siguientes a la fecha de adquisición.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-II.- Por la expedición de placas de demostración, dieciséis días de salario mínimo. Estas placas sólo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos.
+II.- Por la asignación del número de control vehicular y la expedición de las placas y de la documentación correspondiente a vehículos del servicio público de transporte:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+1.- De pasajeros:
 
-III.- Concesiones de vehículos de servicio público estatal, cesiones de derechos de las mismas, y autorización de cambio de características;
+a).- Sitio, treinta y dos días de salario mínimo;
 
-1.- Servicios de ruta de pasajeros:
+b).- Libre, treinta y dos días de salario mínimo; y
 
-a).- Vehículos con capacidad de hasta 10 pasajeros, seis días de salario mínimo.
+c).- De ruta, treinta y dos días de salario mínimo.
 
-> <small>(F. DE E. P.O. 1 DE ENERO DE 1994)</small>
+2.- Especializado:
 
-b).- Vehículos con capacidad de hasta 25 pasajeros, ocho días de salario mínimo.
+a).- Escolar, treinta y dos días de salario mínimo;
 
-c).- Vehículos con capacidad de más de 25 pasajeros, nueve días salario mínimo.
+b).- De personal, sesenta y cuatro días de salario mínimo;
 
-2.- Vehículos de sitio, diez días de salario mínimo.
+c).- Turístico y diversiones, treinta y dos días de salario mínimo;
 
-3.- Servicio de carga de materiales:
+d).- Servicio de Emergencia particulares, treinta y dos días de salario mínimo; y
 
-a).- Con capacidad de hasta 7 toneladas, doce días de salario mínimo.
+e).- Funerarios, treinta y dos días de salario mínimo.
 
-b).- Con capacidad de más de 7 toneladas, diecisiete días de salario mínimo.
+3.- De carga:
 
-4.- Servicio especializado en carga (excluídos vehículos distribuidores de combustible doméstico)
+a).- Materiales y sustancias, treinta y dos días de salario mínimo;
 
-a).- Con capacidad de hasta 2 toneladas, doce días de salario mínimo.
+b).- Mudanzas, treinta y dos días de salario mínimo;
 
-b).- Con capacidad de 2 a 5 toneladas, quince días de salario mínimo.
+c).- Grúas y plataformas, cien días de salario mínimo;
 
-c).- De 5 toneladas en adelante, diecisiete días de salario mínimo.
+d).- Mensajería y valores, cien dias de salario mínimo; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+e).- Reparto de productos o servicios, treinta y dos días de salario mínimo.
 
-5.- Transporte escolar y de empleados de empresas, cinco días de salario mínimo.
+Los derechos comprendidos en esta fracción y la anterior de este artículo deberán pagarse dentro de los tres primeros meses del año en que deba efectuarse le canje de placas, de conformidad con las disposiciones de las autoridades correspondientes.
 
-> <small>(F. DE E. P.O. 1 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-6.- Estacionamiento y pensión de automóviles, veinte días de salario mínimo.
+III.- El cambio de características de vehiculos que prestan el servicio público de transporte causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-IV.- REVALIDACION ANUAL.
+IV.- Por la expedición de placas de demostración, cincuenta días de salario mínimo. Estas placas solo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos.
 
-Los derechos de revalidación comprendidos en las fracciones anteriores se causarán a razón del 50% y deberán pagarse cada año entre el 1º. de enero y 31 de marzo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+V.- Por la revalidación de los derechos relativos a las fracciones I y II de este artículo se causarán a razón del 75 % del importe señalado en las mismas y deberán pagarse cada año entre el 1° de Enero y el 31 de Marzo.
 
-V.- Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehícular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán ocho días de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+VI.- Por la expedición de la constancia de cumplimiento de requisitos para la obtensión de concesiones y permisos para la prestación del servicio público de transporte, así como para la prorroga de su vigencia, cien días de salario mínimo, por cada unidad.
 
-VI.- Por la expedición de permiso provisional de circulación; por el trámite de cambio de domicilio y por el cambio de características de los vehículos, tres días de salario mínimo, en cada caso.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
+VII.- Por la autorización para la cesión de derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, cien días de salario mínimo, por cada unidad.
 
-VII. Expedición de licencias para conducir vehículos, de motociclista, automovilista o chofer, seis días de salario mínimo.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+VIII.- Por el otorgamiento de permiso para la prestación del servicio privado de transporte de pasajeros y de carga en el Estado, treinta días de salario mínimo, por cada unidad.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+IX.- Por el otorgamiento de permisos ocasionales para el transporte de carga, diez días de salario mínimo, por cada vehículo, por día.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+X.- Por la certificación de los términos de referencia para realizar estudios técnicos para la autorización de modificaciones de recorrido y nuevas rutas, doscientos días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XI.- Por la expedición de licencia de chofer para conducir vehículos en los que se preste el servicio público del transporte diez días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XII.- Por la expedición del tarjetón de identidad del conductor de vehículos de servicio público, veinte días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XIII.- Por la autorización de modificaciones de recorrido y de nuevas rutas del servicio público de transporte de pasajeros, doscientos cincuenta días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XIV.- Por la aplicación de exámenes a los chóferes del servicio público de transporte se cobrara lo siguiente:
+
+a).- Certificación de exámenes de conocimiento, aptitud y pericia, diez días de salario mínimo.
+
+b).- Examen físico, médico y psicológico, cinco días de salario mínimo.
+
+c).- Examen toxicológico, diez días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XV.- Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehícular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XVI.- Por la expedición de permiso provisional de circulación para el servicio particular, seis días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XVII.- Por la expedición de licencia para conducir vehículos, de motociclista, automovilista o chofer, ocho días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XVIII.- Envió de documentación oficial a domicilio ubicado en el Estado, un día y medio de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XIX.- Búsqueda de registro vehícular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3657,7 +3835,17 @@ VII. Expedición de licencias para conducir vehículos, de motociclista, automov
 
 Por los servicios de prevención y control de la contaminación del medio ambiente, se pagarán las siguientes cuotas:
 
-1.- Por el servicio de control de descargas de aguas residuales, hasta 386 días de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+1.- Por el servicio de control de descargas de aguas residuales, conforme a la siguiente tarifa:
+
+a).- Microempresa con menos de 15 trabajadores, noventa y siete días de salario mínimo.
+
+b).- Pequeña empresa de 16 a 100 trabajadores, ciento treinta días de salario mínimo.
+
+c).- Mediana empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo.
+
+d).- Grande empresa más de 200 trabajadores, ciento ochenta días de salario mínimo.
 
 2.- Por el análisis de las descargas de aguas residuales, hasta 96 días de salario mínimo.
 
@@ -3700,6 +3888,10 @@ A).- Informe preventivo, cuatro días de salario mínimo.
 B).- Modalidad General, seis días de salario mínimo.
 
 C).- Modalidad específica, ocho días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+e).- Evaluación del estudio de riesgo, sesenta días de salario mínimo.
 
 5.- Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal.
 
@@ -3795,25 +3987,35 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de 300 días de salario mínimo.
+I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, bares, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de cuatrocientos días de salario mínimo. Los cabarets, centros nocturnos y discotecas, con el importe de mil quinientos días de salario mínimo.
 
-Los cabarets, centros nocturnos y discotecas, con el importe de 1200 días de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de 100 días de salario mínimo.
+II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento cincuenta días de salario mínimo.
 
-III.- Supermercados, con el importe de 300 días de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-IV.- Minisupers, abarrotes, licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras con el importe de 150 días de salario mínimo.
+III.- Supermercados, con el importe de cuantrocientos cincuenta días de salario mínimo.
 
-V.- Bares, cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe de 200 días de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+IV.- Minisupers y abarrotes con el importe de doscientos días de salario mínimo. Licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras, con el importe de cuatrocientos días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+V.- Cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe de trescientos días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de 30 días de salario mínimo por fecha.
 
-VII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+VII.- Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez días de salario mínimo.
+
+Cuando por primera vez se expida licencia para la enajenación de bebidas alcohólicas en el segundo semestre del año, se aplicará el 50 % del importe.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3821,11 +4023,19 @@ VII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 Por los servicios para el control en el sistema estatal de información geográfica para el ordenamiento territorial y la planeación del desarrollo urbano, se pagará el 1.50% de un día de salario mínimo, por metro cuadrado o fracción del área del predio.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 289.
 
-Por el levantamiento geográfico y posicionamiento satelital en la red geodésica estatal de cualquier predio en la entidad, se pagarán ciento veinte días de salario mínimo, por cada vértice georeferenciado.
+Por el levantamiento geográfico y posicionamiento satelital en la red geodésica estatal de cualquier predio en la entidad, georeferenciado de acuerdo a la zona, se pagará:
+
+I.- Zona Norte: Los municipios de Nuevo Laredo, Mier, Camargo, Miguel Alemán, Díaz Ordaz, Matamoros, Reynosa, Río Bravo, Valle Hermoso y San Fernando, sesenta días de salario mínimo, por vértice.
+
+II.- Zona Centro: el municipio de Victoria, quince días de salario mínimo, por vértice.
+
+III.- Zona Sur, los municipios de Tampico, Ciudad Madero y Altamira, cuarenta y cinco días de salario mínimo, por vértice.
+
+En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3871,9 +4081,11 @@ VI.- Por la certificación anual a empresas privadas que presten servicios de pr
 
 Por la expedición de constancia de cumplimiento de requisitos para la celebración de eventos de regulación especial, el importe equivalente a sesenta días de salario mínimo.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 293o.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Gobierno del Estado, se pagaran derechos de almacenaje un día de salario mínimo, por cada día, por metro cúbico.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3909,13 +4121,17 @@ II.- PUBLICACIONES.
 
 III.- Los pagos de los derechos que se señalan en este artículo serán por adelantado y se efectuarán en las Oficinas Fiscales del Estado, remitiendo los comprobantes de pago a la Dirección del Periódico, adjuntándolos a los originales que van a publicarse.
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 295o.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+Por la prestación del servicio de telefonía rural a través de la red de Telecomunicaciones del Gobierno del Estado, se pagara el 20 % de un día de salario mínimo por evento o destinos nacionales y en el caso de destinos internacionales el costo por evento será de 80 % de un día de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 296o.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+Por la prestación del servicio de consulta de acuerdos a través del sistema electrónico de internet del Poder Judicial del Estado, se pagará el 0.026 de un día de salario mínimo, por acuerdo.
 
 ###### ARTICULO 297o.
 
@@ -4049,7 +4265,7 @@ SEGUNDO.- Tratándose de los contratos de promesa a que se refiere el Artículo 
 
 TERCERO.- El presente decreto surtirá sus efectos a partir del 1º. de enero de 1982.
 
-P.O. 3 DE ABRIL DE 1982|
+P.O. 3 DE ABRIL DE 1982
 
 DECRETO No. 127
 
@@ -4184,3 +4400,17 @@ P.O. 25 DICIEMBRE DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DICIEMBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto surtirá efectos a partir del día 1° de enero del año 2003, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las referencias que en el Código Fiscal del Estado de Tamaulipas se hagan a la Secretaría o Secretario de Hacienda, se sustituirán por Secretaría o Secretario de Finanzas, respectivamente.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos administrativos de ejecución que se encuentren en trámite antes de la fecha de entrada en vigor de este Decreto, continuarán aplicándose las disposiciones vigentes al inicio de los mismos, hasta su conclusión.
