@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1997-10-06"
+last_updated: "1997-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1035,17 +1035,29 @@ El Ministerio Público es la Institución encargada de la investigación y perse
 
 Ejercen y representan esta Institución en el Estado el Procurador General de Justicia y los Agentes del Ministerio Público que determine la Ley. Estos funcionarios serán nombrados y removidos libremente por el Gobernador.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+Para ser Procurador General de Justicia, deberán cumplirse los requisitos que establece la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 71.
 
-El Procurador General de Justicia deberá tener los mismos requisitos que se fijan para ser Magistrados y será el Consejero Jurídico del Gobierno.
+El Procurador General de Justicia representará al Estado en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal, cuando este sea parte, tenga interés jurídico o se afecte su patrimonio.
+
+Compete al Procurador General de Justicia del Estado, por sí o por medio de los Agentes del Ministerio Público, la investigación y persecución de los delitos del orden común con auxilio de la Policía Ministerial; reunir y aportar las pruebas que acrediten la responsabilidad de los inculpados; dar seguimiento a los juicios penales y civiles ante los tribunales del Estado, para hacer que la administración de Justicia sea pronta y expedita; pedir la aplicación de las penas para los infractores de las leyes e intervenir en todos los demás negocios que determinen esta Constitución y las leyes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 72.
 
-El Procurador General de Justicia intervendrá personalmente en todos los negocios judiciales en que el Estado sea parte. En los demás casos en que debe intervenir el Ministerio Público, el Procurador podrá hacerlo por sí o por medio de alguno de sus Agentes.
+La Ley Orgánica de la Procuraduría General de Justicia fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta institución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 73.
 
-La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
+La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley Orgánica de la Administración Pública del Estado.
 
 ###### ARTICULO 74.
 
@@ -1946,3 +1958,13 @@ En tanto se expiden o reforman las Leyes correspondientes, el Tribunal de Justic
 ###### ARTÍCULO OCTAVO.
 
 Un Distrito Local Electoral de los dieciséis que tenga el Estado de Baja California, tendrá cabecera en el Municipio de Playas de Rosarito.
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
