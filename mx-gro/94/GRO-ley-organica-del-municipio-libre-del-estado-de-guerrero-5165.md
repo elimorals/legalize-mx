@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1991-03-05"
+last_updated: "1991-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -495,7 +495,7 @@ III. En los Municipios con menos de 25 mil habitantes además del Presidente y d
 
 ###### ARTICULO 47.
 
-Cuando en las elecciones obtenga 5% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación en que se hayan obtenido, accediendo a ellas los candidatos a Presidentes Municipales cuando no hayan triunfado sus planillas. También podrán acceder a las regidurías de representanción (sic) proporcional los candidatos a Diputados al Congreso del Estado, sean de mayoría o de minoría, cuando no hayan obtenido el triunfo de sus fórmulas.
+Cuando en las elecciones se obtenga 5% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación en que se hayan obtenido, accediendo a ellas los candidatos a Presidentes Municipales cuando no hayan triunfado sus planillas. También podrán acceder a las regidurías de representanción (sic) proporcional los candidatos a Diputados al Congreso del Estado, sean de mayoría o de minoría, cuando no hayan obtenido el triunfo de sus fórmulas.
 
 ###### ARTICULO 48.
 
@@ -931,7 +931,9 @@ XXIII. Participar en el procedimiento de entrega-recepción de los Ayuntamientos
 
 XXIV. Conducir el trabajo administrativo de los regidores cuando se les asigne alguna de las ramas de la administración;
 
-XXV. Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones Bancarias; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+XXV.- Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones bancarias, así como la del Síndico Procurador, y
 
 XXVI. Las demás que les otorguen la Ley y los reglamentos.
 
@@ -1001,7 +1003,25 @@ XXIII. Verificar que los servidores públicos municipales cumplan con las obliga
 
 XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado, y
 
-XXV. Las demás que les otorguen la Ley y los reglamentos.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+XXV.- Concurrir a las reuniones de Síndicos Procuradores a las que convoque el Gobierno del Estado para la definición de normas y procedimientos, así como su aplicación, entratándose de recursos federales y estatales transferidos a los Ayuntamientos o provenientes de créditos;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+XXVI.- Vigilar que los ediles y servidores públicos municipales presenten sus declaraciones de situación patrimonial en los términos de la Ley relativa, proveer a ello y, en su caso, formular las denuncias correspondientes al Congreso del Estado y a las demás autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+XXVII.- Dar cuenta a las autoridades de toda violación a las leyes estatales y federales en que incurran los ediles y los servidores públicos municipales, y formular las denuncias legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+XXVIII.- Auxiliar al Tribunal de lo Contencioso Administrativo en lo que éste lo requiera con sujección (sic) a la Ley de Justicia Administrativa y del Tribunal de lo Contencioso Administrativo del Estado de Guerrero, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+XXIX. Las demás que les otorguen la Ley y los reglamentos.
 
 ###### ARTICULO 78.
 
@@ -1152,6 +1172,24 @@ IX. Por incurrir en responsabilidad por infracciones administrativas reiteradas 
 X. Por llevar a cabo conductas ilícitas en contra del Ayuntamiento, y
 
 XI. Por existir un impedimento de hecho o de derecho que le obstaculice cumplir con su función.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 95 bis.- Para los efectos de lo prevenido por los Artículos anteriores de este Capítulo, el Congreso del Estado, se sujetará al siguiente procedimiento:
+
+I.- Cualquier ciudadano, incluidos los miembros de los respectivos ayuntamientos, podrá denunciar a un Edil municipal cuando incurran en los supuestos a los que se refiere este Capítulo;
+
+II.- Las denuncias deberán turnarse por el Congreso a la Comisión Instructora, ante la cual el denunciante deberá ratificar su denuncia en un plazo no mayor de tres días naturales.
+
+III.- La Comisión Instructora en un plazo no mayor de 72 horas naturales, notificará personalmente al Edil denunciado. Para los efectos se aplicarán las reglas generales del Código de Procedimientos Civiles del Estado.
+
+IV.- El denunciante tendrá un plazo de 5 días naturales para rendir las pruebas y hacer los alegatos que a su derecho convenga.
+
+V.- La Comisión Instructora dispondrá de por lo menos un día natural para presentar su dictamen al Congreso.
+
+VI.- El Congreso resolverá en un plazo no mayor de tres días naturales si ha o no lugar a la suspensión o revocación, pudiendo desechar las pruebas que con motivo de su desahogo pudiesen propiciar una dilación que afecte el buen gobierno y la eficiente administración del Municipio.
+
+La suspensión a la que se refiere este Capítulo no podrá tener una duración de más de 180 días naturales y cesará en cuanto recaiga resolución inatacable en el Juicio de procedencia o en el Juicio político, en su caso.
 
 ### CAPITULO I. DE LA SECRETARIA DEL AYUNTAMIENTO
 
@@ -2083,6 +2121,10 @@ Los Ayuntamientos podrán otorgar reconocimientos a nivel municipal a personas f
 
 ### CAPITULO UNICO
 
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
 ###### ARTICULO 225.
 
 Los Consejos de Urbanismo se establecerán en las cabeceras urbanas de mayor concentración a solicitud del Presidente Municipal al Gobernador del Estado y tendrán como propósito la coordinación de las distintas dependencias y entidades públicas federales, estatales y municipales en los estudios de los problemas urbanos de la Ciudad y en auspiciar la participación de la ciudadanía bajo la orientación del Presidente Municipal cuando deban coincidir las esferas federal, estatal y municipal.
@@ -2117,6 +2159,10 @@ El Consejo a que se refiere este Capítulo celebrará sesiones ordinarias bimens
 
 El Consejo de Urbanismo podrá establecer para la mejor atención de sus facultades comités de estudio y dictamen.
 
+### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
 ###### ARTICULO 231.
 
 Cada Ayuntamiento podrá crear un Fondo Social de Créditos para Obras cuyo propósito sea otorgar créditos, o garantizar aquellos que otorguen otras dependencias y entidades públicas, para la ejecución de obras que permitan la prestación de servicios de luz eléctrica para consumo doméstico, o para microobras de irrigación o de agua potable y drenaje.
@@ -2128,6 +2174,10 @@ Para la obtención de recursos para el fondo a que se refiere este capítulo, el
 ###### ARTICULO 233.
 
 El Organismo otorgará créditos con cargo al Fondo con sujeción a las reglas, condiciones, criterios y prioridades que aseguren la recuperación de los mismos y el logro de cometidos sociales.
+
+### CAPITULO III. DE LAS AUTORIZACIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 234.
 
@@ -2149,6 +2199,12 @@ Los Cronistas Municipales darán su opinión técnica sobre la pertinencia de qu
 
 En las Cabeceras Municipales y en las localidades que lo estimen necesario y conveniente el Ayuntamiento creará por acuerdo, el Consejo de Colaboración Municipal a que se refiere la Ley de Desarrollo Urbano, para la ejecución de obras y servicios públicos, designando con tal propósito a propuesta del Presidente Municipal, a los integrantes del mismo.
 
+### CAPITULO IV
+
+DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
 ###### ARTICULO 239.
 
 En los Municipios con alta densidad indígena se establecerán Comités del Desarrollo Indigenista con el propósito de lograr la armonía del etnodesarrollo municipal o regional.
@@ -2168,6 +2224,14 @@ II. Promover el desarrollo económico, social y cultural de los grupos étnicos.
 III. Promover la correcta aplicación de las normas protectoras de los derechos de los indígenas y acudir a las instancias administrativas o judiciales correspondientes en caso de violación de estos, y
 
 IV. Promover la implantación de programas de alfabetización para adultos, de educación bilingüe, bicultural y de educación para los adultos en el medio indígena.
+
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ## TITULO OCTAVO. DEL REGIMEN DE RESPONSABILIDADES DE LOS FUNCIONARIOS
 
@@ -2247,6 +2311,254 @@ En las controversias de carácter contencioso sobre cuestiones de límites entre
 
 Las controversias que se susciten entre los Ayuntamientos y los ciudadanos por actos de autoridad serán conocidas por el Tribunal de lo Contencioso Administrativo.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+## TITULO DECIMO
+
+DE LOS ESTABLECIMIENTOS DE ESPECTACULOS Y DE CENTROS NOCTURNOS Y ANALOGOS EN MUNICIPIOS DE INTERES TURISTICO.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 254.
+
+Este Capítulo en los términos de lo prevenido por el Artículo 115 de la Constitución General de la República y diversos de la Constitución Política del Estado y de las Leyes relativas, establece las bases normativas que en materia de establecimientos de espectáculos y de centros nocturnos y análogos reglamentarán los bandos, ordenanzas, reglamentos y demás disposiciones administrativas que expidan los Ayuntamientos en los Municipios de Interés Turístico.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 255.
+
+Para los efectos de este Capítulo se entiende por establecimientos de espectáculos y de centros nocturnos y análogos aquellos que estén legalmente autorizados a explotar esos giros permanente o temporalmente o por un número de días en horas específicas, con venta de bebidas alcohólicas o servicios de música en vivo o grabada, o para baile; en hoteles, instalaciones especiales o en sitios destinados a ello de manera permanente o temporal.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 256.
+
+Los Ayuntamientos definirán los días en los que podrán funcionar los referidos establecimientos y los horarios en los que podrán hacerlo, incluidos en éstos las horas máximas en las que estarán facultados para la venta de bebidas alcohólicas o para su consumo; procurando al efecto obtener opinión de las organizaciones que representen a los establecimientos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 257.
+
+Los ordenamientos municipales que reglamenten estas bases clasificarán los establecimientos por los servicios que presten y sus horarios, en función de la edad de los consumidores o clientes, pero en todo caso, considerarán que habrá establecimientos en los que únicamente podrán asistir aquéllos de 18 años o más; aquéllos que podrán hacerlo también cuando se tenga entre 14 y 18 años de edad; y los establecimientos en los que siendo menores de edad deban hacerse acompañar de una persona de más de 18 años. En todo caso, los menores de edad no podrán ingerir bebidas alcohólicas en los establecimientos a que se refiere este Título y en los términos que establece la Ley General de Salud.
+
+En esa clasificación se tendrá en cuenta las buenas costumbres en los términos del Código Civil del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 258.
+
+Los Ayuntamientos turísticos contarán con una Dirección de Espectáculos como la unidad administrativa que ejercerá las facultades que las leyes y reglamentos municipales otorguen en cuanto a licencias, permisos, concesiones y autorizaciones en materia de espectáculos; las actividades de inspección, vigilancia y control relativas; así como la imposición de sanciones y fijación de normas técnicas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 259.
+
+La Dirección de Espectáculos estará adscrita orgánicamente al Secretario del Ayuntamiento y bajo la supervisión del Síndico Procurador.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 260.
+
+El Ayuntamiento cuando ello sea necesario dispondrá que se practiquen visitas de inspección para verificar el cumplimiento de esta Ley y de las reglamentaciones respectivas, o bien para verificar el pago de los tributos locales con sujeción a la Leyes fiscales y a los consumos y aforos reales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 261.
+
+La Dirección de Espectáculos contará con su propio cuerpo de inspectores para los efectos de lo establecido en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 262.
+
+Los inspectores de la Dirección de Espectáculos serán mayores de 25 años, sin antecedentes penales y con una escolaridad no menor a la media superior.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 263.
+
+Cualquiera que se ostente como inspector de la Dirección de Espectáculos o servidor público de la misma cometerá el delito de usurpación de funciones a que se refiere el Artículo 267 del Código Penal del Estado, presumiéndose dicha comisión si se exhibe alguna identificación, solicite u obtenga servicios o prestaciones gratuitos derivados de dicha ostentación.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 264.
+
+Los ayuntamientos reglamentarán sobre el tipo de uniforme, credenciales e identificaciones visibles que habrán de portar los inspectores de la Dirección de Espectáculos invariablemente, salvo casos de extrema urgencia, los inspectores podrán realizar sus visitas siempre y cuando cuenten y exhiban al efecto una orden de inspección por escrito.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 265.
+
+En las autorizaciones de funcionamiento a los establecimientos de espectáculos, de centros nocturnos y análogos que otorgue o renueve la autoridad se definirá lo siguiente:
+
+I.- Caracterización de los servicios que prestará el establecimiento;
+
+II.- Horarios y días de funcionamiento;
+
+III.- Superficie y distribución de las distintas áreas destinadas a los consumidores;
+
+IV.- Descripción técnica del equipo que se utilizará en la prestación directa de los servicios al consumidor;
+
+V.- Capacidad de atención en las distintas áreas e instalaciones del establecimiento, especificando las destinadas a ingestión de alimentos y bebidas de pie o sentados los consumidores, así como a baile, y
+
+VI.- Los cajones y/o servicio de establecimientos para el personal del establecimiento y para los consumidores.
+
+La representación ante el Comité Mixto a que se refiere el próximo Capítulo, estará facultado para hacer recomendaciones sobre los asuntos a los que se refiere este Artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 266.
+
+La Dirección de Espectáculos podrá autorizar la ampliación transitoria de los horarios excepcionalmente siempre que se observen las leyes laborales y fiscales aplicables, asimismo podrá autorizar por día, tiempo determinado y evento específico la ampliación de la admisión a los establecimientos de manera transitoria.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 267.
+
+La Secretaría del Ayuntamiento contará con un Comité Mixto de Espectáculos integrado por un representante de la Secretaría de Fomento Turístico del Gobierno del Estado, por dos representantes de los establecimientos designados por la Canaco y la organización representativa correspondiente, y el Secretario del Ayuntamiento, el que estará presidido por el síndico. El Director de Espectáculos actuará como secretario técnico.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 268.
+
+El Comité Mixto de Espectáculos tendrá las siguientes facultades:
+
+I.- Conocer las quejas y denuncias de los establecimientos o de los consumidores o clientes para su trámite y desahogo y su trámite legal cuando los hechos sean constitutivos de delito o de falta administrativa;
+
+II.- Conocer las sugerencias y propuestas de los establecimientos y de los consumidores o clientes;
+
+III.- Concertar proyectos y programas de colaboración ciudadana que beneficien al turismo;
+
+IV.- Analizar la organización y funcionamiento de los establecimientos para protección de los consumidores, y
+
+V.- Recomendar el monto de las sanciones según lo establecido por la propia Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 269.
+
+La Secretaría de Fomento Turístico, junto con los ayuntamientos, y sin menoscabo de lo que prescriban otras Leyes estatales o federales, promoverán la organización de los representantes de los establecimientos, y su mejor funcionamiento, a efecto de que contribuyan a la mejor aplicación de esta Ley y de las reglamentaciones municipales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 270.
+
+Los establecimientos pondrán en lugares visibles para los clientes y consumidores una copia legible de los reglamentos municipales en materia de espectáculos, y los exhibirán a los mismos si éstos se oponen a la aplicación de alguna de sus disposiciones.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 271.
+
+Los establecimientos no discriminarán a persona alguna en función de sexo, edad, raza, nacionalidad o condición socio-económica, pero no se considerará como tal la observancia de las Leyes de los Bandos de Policía y Buen Gobierno o de las buenas costumbres.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 272.
+
+Los establecimientos deberán respetar en sus términos las reservaciones que hagan los consumidores o clientes, cuando presten este servicio.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 273.
+
+Los establecimientos que presten el servicio de acomodador de vehículos, según las disposiciones aplicables, serán responsables de los daños que sufran los mismos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 274.
+
+Los establecimientos, además del personal propio de su giro de actividad, contarán en los términos de las Leyes con personal que se encarguen de cuidar la convivencia pacífica y ordenada de los consumidores, mismos que deberán estar idóneamente adiestrados, no tener antecedentes penales, y haber sido inscritos en los padrones que lleven los ayuntamientos.
+
+Esos empleados no podrán portar armas y deberán participar en los programas de capacitación y adiestramiento que promueva la autoridad laboral con sujeción al Artículo 123 de la Constitución General de la República y demás Leyes relativas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 275.
+
+Los propietarios, gerentes o encargados de los establecimientos serán responsables de establecer mecanismos tendientes a evitar que los consumidores o clientes no introduzcan o porten armas de ninguna clase, ni sustancias psicotrópicas o inhalantes o de las que su uso, consumo, portación o tráfico puedan ser constitutivas de delitos contra la salud según las Leyes locales y federales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 276.
+
+Los edificios de los establecimientos contarán con instalaciones y equipo que eviten incendios, o que permitan dominarlos con oportunidad y suficiencia, sin perjuicio de por lo menos dos puertas de salida independientes en función de la capacidad de concurrencia.
+
+Lo propio se considerará en lo referente a riesgos sísmicos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 277.
+
+Los establecimientos a que se refiere este Capítulo no podrán admitir a un mayor número de consumidores a los que estén autorizados conforme a los Artículos 265 y 266 de esta Ley, incurriéndose en responsabilidad en los términos de lo que prevé el Capítulo siguiente, en caso de violación a la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 278.
+
+Existirán servicios sanitarios para cada sexo absolutamente independientes y separados, incluidas las áreas de vestíbulos correspondientes, contando con puertas intermedias de acceso.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 279.
+
+Quedan prohibidos los espectáculos que agredan la dignidad humana, incluídos los valores sexuales, y aquellos que infrinjan dolor a los animales o provoquen su muerte, en los términos de la Ley de Protección de los Animales, salvo lo que se ajuste a las tradiciones del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 280.
+
+La violación a esta Ley, sus disposiciones reglamentarias y los acuerdos de las autoridades competentes dará lugar a la imposición de una sanción en los términos de este Capítulo, sin perjuicio de lo prevenido por las leyes penales y fiscales.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 281.
+
+Las sanciones a que se refiere el artículo anterior, serán las siguientes:
+
+I.- Apercibimiento, se aplicará a quienes violen los Artículos 270 y 278 de esta Ley;
+
+II.- Multa de 100 a 5000 veces el salario mínimo vigente en la zona cuando se cometan infracciones a los Artículos 256, 257, 272, 274, 276 y 277.
+
+III.- Clausura temporal hasta por 15 días cuando se violen los Artículos 275 y 279; tratándose de reincidentes, se aplicará además de lo previsto en el Artículo 283 de esta Ley, el arresto administrativo hasta por 36 horas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 282.
+
+Para efecto de determinar la sanción correspondiente, la Autoridad Administrativa tomará en cuenta lo siguiente:
+
+I.- La gravedad de la infracción;
+
+II.- Las condiciones económicas del infractor;
+
+III.- La naturaleza y tipo de giro o establecimiento;
+
+IV.- Cualquier otra circunstancia que sirva para individualizar la sanción, y
+
+V.- La reincidencia, en su caso.
+
+Para el caso de clausura definitiva, invariablemente se obtendrá la opinión previa del Comité a que se refiere el Artículo 267 de esta Ley.
+
+En todo caso, siempre se considerará como una infracción grave cuando con motivo de la violación se pongan en peligro la seguridad, salubridad y orden públicos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 283.
+
+Para los efectos de este Capítulo se considerará reincidencia cuando el infractor cometa por cinco ocasiones un mismo tipo de violación con el propósito de que la autoridad sancionadora considere esa circunstancia en la individualización de la sanción.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 284.
+
+La Dirección de Espectáculos, cuando un establecimiento haya sido sancionado más de tres veces en un mes por violaciones a las disposiciones previstas en este Título, podrá destacamentar uno o varios inspectores de manera temporal pero continua para la mejor vigilancia de la observancia de este Título y los respectivos reglamentos. Debiendo los propietarios, gerentes o encargados del establecimiento de que se trate proporcionar las facilidades pertinentes.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+###### ARTICULO 285.
+
+Para impugnar los actos de autoridad de la Dirección de Espectáculos los afectados podrán interponer los recursos que previene la Ley que establece las bases para el régimen de permisos, licencias y concesiones para la prestación de servicios públicos y la explotación y aprovechamiento de bienes de dominio del Estado y los Ayuntamientos ante la propia Dirección o el Presidente Municipal, según esa Ley disponga y sin perjuicio de recurrir al Tribunal de lo Contencioso Administrativo.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -2316,3 +2628,31 @@ Rúbrica.
 P.O. 5 DE MARZO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 1991.
+
+DECRETO QUE ADICIONA EL ARTICULO 95 BIS Y UN TITULO DECIMO.
+
+###### ARTICULO PRIMERO.
+
+La Autoridad Municipal podrá otorgar a los establecimientos plazos para el cumplimiento de las nuevas obligaciones que a su cargo impone este Decreto siempre que no excedan del treinta de noviembre de mil novecientos noventa y uno.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto de adiciones entrará en vigor quince días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 1991.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 73 Y SE ADICIONA EL ARTICULO 77
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la fracción XXV del artículo 73 de la Ley Orgánica del Municipio Libre del Estado de Guerrero.
+
+###### ARTICULO TERCERO.
+
+En un plazo no mayor de diez días, a partir de que entre en vigor el presente Decreto, habrá de quedar satisfecha la obligación prevista en la nueva fracción XXV del artículo 73 de la Ley Orgánica del Municipio Libre del Estado de Guerrero.
