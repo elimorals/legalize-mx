@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-del-servicio-de-transmisiones-976"
 country: "mx"
 rank: "reglamento"
 publication_date: "1961-07-28"
-last_updated: "1961-07-28"
+last_updated: "1963-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=976&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1961-07-17"
 
 REGLAMENTO GENERAL DEL SERVICIO DE TRANSMISIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 1963.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de julio de 1961.
 
@@ -1321,57 +1321,37 @@ El funcionamiento de la Escuela Militar de Clases de Transmisiones, se regirá p
 
 ###### ARTICULO 122.
 
-El Centro de Adiestramiento de Perros, tiene por finalidad adiestrar a estos animales del servicio en actividades propias de la especialidad, de conformidad con los planes autorizados por la Dirección General de Transmisiones.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ###### ARTICULO 123.
 
-El Centro de adiestramiento vigilará, la reproducción, salud y crecimiento de su población, que estará integrada por perros de la raza doberman y pastor alemán, principalmente.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ###### ARTICULO 124.
 
-El Centro de adiestramiento de perros de Transmisiones dependerá de la Dirección General del Servicio a través de su sección operativa y tendrá las siguientes dependencias:
-
-I.- Jefatura;
-
-II.- Sección de reproducción y crecimiento;
-
-III.- Sección de Adiestramiento;
-
-IV.- Perrera central; y
-
-V.- Servicio veterinario
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ###### ARTICULO 125.
 
-El Funcionamiento del Centro de adiestramiento de perros se regirá por las disposiciones de su reglamento interior, aprobado por el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ### CAPITULO IV. Del Centro de Adiestramiento de Palomas de Transmisiones
 
 ###### ARTICULO 126.
 
-El Centro de adiestramiento de palomas, tiene por finalidad adiestrar a estos animales del servicio en actividades propias de la especialidad, de conformidad con los planes autorizados por la Dirección General de Transmisiones.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ###### ARTICULO 127.
 
-El Centro de adiestramiento vigilará la reproducción, salud y crecimiento de su población de palomas seleccionadas.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ###### ARTICULO 128.
 
-El Centro de adiestramiento de palomas de transmisiones dependerá de la Dirección General del Servicio, a través de su sección operativa y tendrá las siguientes dependencias:
-
-I.- Jefatura;
-
-II.- Sección de reproducción y crecimiento;
-
-III.- Sección de adiestramiento;
-
-IV.- Palomar central; y
-
-V.- Servicio veterinario.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ###### ARTICULO 129.
 
-El funcionamiento del Centro de adiestramiento de palomas de transmisiones se regirá por las disposiciones de su reglamento interior, aprobado por el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 14 DE DICIEMBRE DE 1963)
 
 ## TITULO SEXTO. DEL ESCALONAMIENTO DEL MANDO
 
@@ -1532,3 +1512,13 @@ Este reglamento entrará en vigor tres días después de su publicación en el "
 Se deroga el Reglamento de la Escuela Militar de Transmisiones, así como las demás disposiciones que coordinada o subcoordinadamente se opongan al presente reglamento.
 
 Dado en la residencia del Poder Ejecutivo de la Unión, en la ciudad de México, Distrito Federal, a los diecisiete días del mes de julio de mil novecientos sesenta y uno.- Adolfo López Mateos.- Rubrica.- El Secretario de la Defensa Nacional, Agustín Olachea Avilés.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE DICIEMBRE DE 1963.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- La Secretaría de la Defensa Nacional, con la intervención que proceda por parte de la Secretaría del Patrimonio Nacional, enajenará los animales existentes en los Centros a que se refiere el artículo segundo, así como el equipo, material y herramientas que no tengan utilidad alguna en lo sucesivo, aprovechando el producto, a través de la Partida que corresponda, en la adquisición de material electrónico.
+
+TERCERO.- La Secretaría de Hacienda y Crédito Público autorizará las transferencias de las cantidades asignadas en el Presupuesto de Egresos a los Centros mencionados, con objeto de que la Secretaría de la Defensa Nacional destine dichas sumas, así como las que obtenga en los términos del punto anterior, a la compra de material electrónico para dotar al Servicio de Transmisiones del Ejército Mexicano y relevar el equipo obsoleto existente.
