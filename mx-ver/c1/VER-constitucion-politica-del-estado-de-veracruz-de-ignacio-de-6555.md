@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1920-12-28"
+last_updated: "1922-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1920.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE SEPTIEMBRE DE 1922.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -44,6 +44,14 @@ DEL ESTADO Y SU TERRITORIO.
 ###### Artículo 1o.
 
 El Estado de Veracruz-Llave es parte integrante de la Federación Mexicana.
+
+###### Artículo 1°.
+
+Estas reformas comenzarán a surtir sus efectos desde el momento de su publicación en la "Gaceta Oficial", y se publicarán por Bando solemne en todas las poblaciones del Estado, para conocimiento general.
+
+###### Artículo 2º.
+
+El actual Procurador General del Estado, cesará en sus funciones inmediatamente que otorgue la protesta legal el que nombre el Ejecutivo conforme a las facultades que se le conceden en estas reformas.
 
 ### CAPITULO II.
 
@@ -419,7 +427,9 @@ III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna le
 
 IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría, con arreglo al artículo 40;
 
-V. Calificar la validez de estas elecciones y resolver sobre las renuncias que presenten, este funcionario, los Magistrados del Tribunal Superior de Justicia y el Procurador de Justicia del Estado;
+> <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
+
+V. Calificar la validez de estas elecciones y resolver sobre las renuncias que presenten este funcionario y los Magistrados del Tribunal Superior de Justicia;
 
 VI. Decidir sobre la legalidad de las elecciones de los Ayuntamientos cuando se reclame contra ellas, consignando al Procurador General, a los que resulten culpables de algún fraude;
 
@@ -427,7 +437,9 @@ VII.- Suspender definitivamente, previa formación de proceso, a los miembros de
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
-IX. Conceder licencia temporal para separarse de su encargo al Gobernador, a los Magistrados del Tribunal Superior, al Procurador de Justicia y a los Diputados; y concederla al Gobernador para salir del Estado;
+> <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
+
+IX. Conceder licencia temporal para separarse de su encargo al Gobernador, a los Magistrados del Tribunal Superior y a los Diputados; y concederla al Gobernador para salir del Estado;
 
 X. Recibir a los mismos funcionarios la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen;
 
@@ -475,9 +487,9 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
-XXXI. Constituirse en Colegio Electoral y nombrar a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia del Estado y al Procurador General del mismo;
+XXXI. Constituirse en Colegio Electoral y nombrar a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia del Estado;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
@@ -685,11 +697,11 @@ V. No tener empleo, cargo o comisión de otros Estados, ni de la Federación, o 
 
 VI. Gozar de buena reputación y no haber sido condenado por delito grave que merezca pena corporal de más de una año de prisión; pero si se tratare de delitos oficiales, de robo, fraude, estafa, falsificación, abuso de confianza u otros que lastimen la fama en el concepto público o fueren de los que causen afrenta, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
 ###### Artículo 97.
 
-Los Magistrados propietarios, los supernumerarios y el Procurador General de Justicia, serán electos por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran cuando menos, las dos terceras partes del número total de sus miembros.- La elección se hará en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas que deberán presentarse con cinco días de anticipación, como término mínimo a la fecha de la elección.- Si no hubiere mayoría absoluta en la primera votación, se repetirá entre los dos candidatos que hubieren obtenido más votos.- Los Jueces de Primera Instancia que reúnan los requisitos prevenidos para poder ser electos Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquiera otro abogado para ser designado Magistrado.
+Los Magistrados propietarios y los supernumerarios serán electos por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran cuando menos las dos terceras partes del número total de sus miembros. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas que deberán presentarse con cinco días de anticipación como término mínimo a la fecha de la elección. Si no hubiere mayoría absoluta en la primera votación, se repetirá entre los dos candidatos que hubieren tenido más votos. Los Jueces de primera Instancia que reúnan los requisitos prevenidos para ser electos Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -699,15 +711,15 @@ Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Jus
 
 Los Jueces Municipales serán nombrados por el Tribunal a propuesta en terna de los Jueces primeros o únicos de Primera Instancia de cada Distrito Judicial; y los Auxiliares serán nombrados por los Jueces Municipales con aprobación del H. Tribunal; y unos y otros deberán tener los requisitos que determine la Ley.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
 ###### Artículo 99.
 
-Los Magistrados propietarios, los supernumerarios y el Procurador General, durarán en su encargo seis años a partir de la fecha de su elección, pudiendo ser reelectos siempre que se hubieren distinguido en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva para el mejoramiento de la Administración de Justicia en el Estado.
+Los Magistrados propietarios y los supernumerarios, durarán en su encargo seis años a partir de la fecha de su elección, pudiendo ser reelectos siempre que se hubieren distinguido en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva para el mejoramiento de la administración de justicia en el Estado.
 
-Los Jueces de Primera Instancia y los Municipales, durarán indefinidamente en sus cargos, pudiendo ser removidos cuando lo estimare necesario el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley de Responsabilidades respectiva, así como en los casos de ascensos, o cuando sean nombrados para un grado superior.- La remuneración que disfruten los funcionarios judiciales no podrá ser disminuída mientras se encuentren en el desempeño de sus cargos.
+Los Jueces de primera Instancia y los Municipales, durarán indefinidamente en sus cargos, pudiendo ser removidos cuando lo estimare necesario el Tribunal por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley de Responsabilidades respectiva, así como en los casos de ascensos o cuando sean nombrados para un grado superior. La remuneración que disfruten los Funcionarios judiciales, no podrá ser disminuída mientras se encuentren en el desempeño de su cargos.
 
-Los Jueces Auxiliares cuyo cargo se estimará concejil durarán en funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan obligación de servir por más de dos años.
+Los Jueces Auxiliares, cuyo cargo se estimará concejil, durarán en funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan obligación de servir por más de dos años.
 
 ###### Artículo 100.
 
@@ -717,17 +729,19 @@ El Tribunal residirá en la Capital del Estado, y, en ningún caso, ejercerá su
 
 Jamás podrán reunirse en el Tribunal, dos o más Magistrados que sean parientes consaguineos (sic) dentro del cuarto grado, o afines dentro del segundo.
 
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
+
 ###### Artículo 102.
 
-Los cargos de Magistrado del Tribunal Superior y de Procurador, sólo son renunciables por causa grave calificada por la Legislatura, ante la que se presentará la renuncia. En los recesos de ésta, la calificación se hará por la Diputación permanente.
+El cargo de Magistrado del Tribunal Superior, sólo es renunciable por causa grave calificada por la Legislatura, ante la que se presentará la renuncia. En los recesos de ésta, la calificación se hará por la Diputación Permanente.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
 ###### Artículo 103.
 
-Los Magistrados propietarios del Tribunal Superior de Justicia, en sus faltas temporales que excedieren de cinco días y no pasaren de seis meses, serán substituídos por los supernumerarios en el orden de la elección de éstos.- En sus excusas o impedimentos se substituirán recíprocamente en el orden que determine la Ley; pero los supernumerarios deberán ser llamados a integrar Sala, cuando lo acordare el Presidente del Tribunal o la mayoría de los Magistrados propietarios estuviere impedida.- En estos casos deberán ser llamados por el mismo Presidente.- Si faltare un Magistrado propietario por defunción, renuncia, suspensión definitiva, incapacidad o por cualquiera otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda; en caso contrario, la Legislatura hará nueva elección en los términos prevenidos por el artículo 97.- Si la Legislatura no estuviere en funciones, la Diputación Permanente hará un nombramiento provisional, mientas se reúne aquélla y hace la elección correspondiente.- Si faltare algún supernumerario, la Legislatura o la Diputación Permanente harán nuevo nombramiento según los casos, pero el nombrado por la segunda tendrá el carácter de provisional en tanto que la primera ratifica o hace nuevo nombramiento.
+Los Magistrados propietarios del Tribunal Superior de Justicia, en sus faltas temporales que excedieren de cinco días y no pasaren de seis meses, serán substituídos por los supernumerarios en el orden de la elección de éstos. En sus excusas o impedimentos se substituirán recíprocamente en el orden que determine la Ley; pero los supernumerarios deberán ser llamados a integrar Sala, cuando lo acordare el Presidente del Tribunal o la mayoría de los Magistrados propietarios estuviere impedida. En estos casos deberán ser llamados por el mismo Presidente. Si faltare un Magistrado propietario por defunción, renuncia, suspensión definitiva, incapacidad o por cualquiera otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda; en caso contrario, la Legislatura hará nueva elección en los términos prevenidos por el artículo 97. Si la Legislatura no estuviere en funciones, la Diputación Permanente hará un nombramiento provisional, mientas se reúne aquélla y hace la elección correspondiente. Si faltare un supernumerario, la Legislatura o la Diputación Permanente hará nuevo nombramiento según los casos, pero el nombrado por la segunda tendrá el carácter de provisional en tanto que la primera ratifica o hace nuevo nombramiento.
 
-Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior, pero las que excedieren de ese tiempo y las del Procurador, las concederá la Legislatura, o en su defecto, la Diputación Permanente.
+Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior, pero las que excedieren de ese tiempo, las concederá la Legislatura, o en su defecto la Diputación Permanente.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -971,13 +985,13 @@ Todos los funcionarios públicos de elección popular, percibirán, por sus serv
 
 Todos los funcionarios y empleados del Estado y del Municipio, al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la particular del Estado y todas las leyes que de ambas emanen.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
 ###### Artículo 136.
 
-El Gobernador, los Magistrados propietarios, los supernumerarios, cuando estos últimos estén en funciones, el Procurador General del Estado, los Jueces de Primera Instancia, los Presidentes Municipales, el Secretario de Gobierno, los Secretarios del Tribunal, los Visitadores Judiciales permanentes y los Secretarios de los Juzgados, no podrán funcionar como árbitros o arbitradores ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o marital.- La infracción de este artículo será causa de responsabilidad.
+El Gobernador, los Magistrados propietarios, los supernumerarios cuando estén en funciones, el Procurador General del Estado, los Jueces de primera Instancia, los Presidentes Municipales, el Secretario de Gobierno, los Secretarios del Tribunal, los Visitadores Judiciales permanentes y los Secretarios de los Juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o marital. La infracción de este artículo será causa de responsabilidad.
 
-Esta prohibición no comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones por hallarse disfrutando de licencia sin goce de sueldo.
+Esta prohibición comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones, por hallarse disfrutando de licencia.
 
 ###### Artículo 137.
 
@@ -1017,11 +1031,11 @@ El Procurador General del Estado será el Jefe de la Institución, nombrará y r
 
 La Ley Orgánica del Ministerio Público determinará las atribuciones de los funcionarios que lo formen y los requisitos necesarios para ser Agente.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
 ###### Artículo 109.
 
-Las faltas temporales del Procurador que no excedan de cinco días, serán suplidas por el Agente que él designe; las de mayor tiempo y las absolutas se suplirán por el Magistrado supernumerario que la Legislatura o la Comisión permanente designe, y sólo cuando la falta absoluta ocurra antes de los seis últimos meses para la terminación del período, se procederá a nueva elección.
+Las faltas temporales del Procurador que no excedan de cinco días, serán suplidas por el Agente que él designe. Las de mayor tiempo se suplirán por la persona que designe el Ejecutivo.
 
 ###### Artículo 80.
 
@@ -1149,15 +1163,17 @@ X. Ocurrir al acto de abrir la Legislatura sus sesiones ordinarias;
 
 XI. Acordar que concurran el Secretario de Gobierno o el Tesorero General, a las sesiones de la Legislatura, para que dén a ésta los informes que pida o para apoyar, en los debates, las observaciones que haga el Ejecutivo a los proyectos de ley o decreto, o a las iniciativas que presentare;
 
-XII. Pasar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite, ante ellos, las atribuciones de su ministerio;
+> <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
+
+XII. Pasar al Procurador los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su Ministerio. Podrá sin embargo el Ejecutivo nombrar algún abogado que lo represente en determinado asunto, cuando así lo crea conveniente;
 
 XIII. Impedir los abusos de la fuerza armada, contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere;
 
 XIV. Nombrar y remover libremente al Secretario de Gobierno y a los empleados de la Secretaría; concederles, sin sueldo, las licencias que soliciten; suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
-XV. Proponer a la Legislatura por medio de terna el nombramiento del Jefe de la Dirección General de Educación, del Tesorero General del Estado, y aprobar los nombramientos de empleados hechos por los Jefes de Oficina en el ramo gubernativo y en el de Hacienda;
+XV. Nombrar y remover libremente al Procurador General de Justicia y proponer a la Legislatura, por medio de terna, el nombramiento de Jefe de la Dirección General de Educación, del Tesorero General del Estado; y aprobar los nombramientos de empleados hechos por los Jefes de oficina en el Ramo Gubernativo y en el de Hacienda;
 
 XVI. Nombrar los Jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
 
@@ -1260,6 +1276,8 @@ G.O. 28 DE DICIEMBRE DE 1920.
 3º.- Los Jueces de Primera Instancia nombrados por el actual Tribunal con el carácter de inamovibles, dejarán de tener ese carácter.
 
 4º.- La Legislatura procederá al nombramiento del Jefe de la Dirección General de Educación, a cuyo efecto el Ejecutivo le remitirá la terna respectiva dejando de funcionar la persona que actualmente desempeña ese encargo, de no ser ella nuevamente nombrada.
+
+G.O. 21 DE SEPTIEMBRE DE 1922.
 
 ###### Artículo 2o.
 
