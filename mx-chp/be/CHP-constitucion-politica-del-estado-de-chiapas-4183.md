@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1999-03-03"
+last_updated: "1999-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1999.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -215,13 +215,7 @@ II.- Poder ser votados en dichas elecciones y nombrados para cualquier cargo o c
 
 III.- Petición y de asociación individual, libre y pacífica en los asuntos políticos del Estado; y
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-IV.- Que las autoridades legislativas, administrativas y judiciales en el ámbito de su competencia en los asuntos en que tengan intervención o al momento de dictar sus resoluciones, tomen en consideración su condición cultural, sus costumbres étnicas particulares y las demás circunstancias especiales que concurran en ellos, con el propósito de que se observen las garantías que establece la constitución política de los estados unidos mexicanos.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-En materia procesal se procurará que haya un intérprete para el chiapaneco que no hable español que lo asistirá durante la secuela del procedimiento y en materia penal desde el inicio de la averiguación previa.
+IV.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -255,11 +249,35 @@ La calidad de ciudadano chiapaneco se recobra por haber cesado la causa que dio 
 
 Pierde la calidad de ciudadano chiapaneco quien deje de ser ciudadano mexicano.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+
+La calidad de ciudadano chiapaneco no puede adquirirse por declaratoria del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 13.
 
-La calidad de ciudadano chiapaneco no puede adquirirse por declaratoria del Congreso del Estado.
+El Estado de Chiapas tiene una población pluricultural sustentada en sus pueblos indígenas. Esta Constitución reconoce y protege a los siguientes pueblos indígenas: Tseltal, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandon y Mocho.
+
+También protege los derechos de los indígenas que por cualquier circunstancia se encuentren asentados dentro del territorio del Estado y que pertenezcan a otros pueblos indígenas.
+
+El Estado protegerá y promoverá el desarrollo de la cultura, lenguas, usos, costumbres, tradiciones y formas de organización social, política y económica de las comunidades indígenas. También garantizará a sus integrantes el acceso pleno a la justicia, a los servicios de salud y a una educación bilingüe que preserve y enriquezca su cultura. Fomentará, asimismo, la plena vigencia de los derechos de los indígenas a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, a una vivienda digna y decorosa, así como los derechos de las mujeres y niños.
+
+Se reconoce y protege el derecho de las comunidades indígenas para elegir a sus autoridades tradicionales de acuerdo a sus usos, costumbres y tradiciones.
+
+El Estado fomentará el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que establece la Constitución General de la República y las leyes reglamentarias respectivas.
+
+El Estado, con la participación de las comunidades indígenas, instrumentará los planes y programas necesarios para impulsar su desarrollo socioeconómico.
+
+En todo procedimiento o juicio en el que una de las partes sea indígena, se tomará en consideración su cultura, usos, costumbres y tradiciones. Los indígenas tendrán el derecho a que se les designe un traductor y un defensor que hablen su lengua y conozcan su cultura.
+
+En los municipios con población de mayoría indígena, el trámite y resolución de las controversias entre personas pertenecientes a comunidades indígenas, será conforme a sus usos, costumbres, tradiciones y valores culturales, y con la participación de sus autoridades tradicionales, debiendo salvaguardarse los derechos fundamentales que consagra la Constitución General de la República y el respeto a los derechos humanos.
+
+Los indígenas deberán compurgar sus penas, preferentemente en los establecimientos más próximos a sus comunidades, a fin de propiciar su reintegración a éstas, como parte de su readaptación social.
+
+Se prohibe toda forma de discriminación de origen étnico o por razón de lengua, sexo, religión, costumbre, o condición social. La contravención a esta disposición será sancionada en los términos de la legislación penal vigente.
+
+Los derechos de los indígenas que esta Constitución consagra deberán ser protegidos y regulados por la Ley Reglamentaria respectiva y por las demás leyes, en sus correspondientes ámbitos de competencia, y serán, además, garantizados por las autoridades estatales y municipales, así como por las autoridades tradicionales de las comunidades indígenas.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -607,9 +625,7 @@ XLI.- Erigirse en jurado para declarar si ha o no lugar para proceder contra alg
 
 XLII.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-XLIII.- Instituir el Consejo Indígena Estatal, como órgano de colaboración y consulta al Ejecutivo del Estado, con la integración y atribuciones que la Ley respectiva y sus reglamentos determinen;
+XLIII.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
 
 XLIV.- Citar a los Presidentes Municipales para que informen sobre el estado que guardan sus respectivos ramos;
 
@@ -791,9 +807,7 @@ VI.- Fomentar por todos los medios posibles la educación popular y procurar el 
 
 Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudicándolas en concurso, mediante convocatoria, en los términos de la Ley respectiva; asimismo, podrá decretar la requisa y pago de materiales para la ejecución de éstas;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-VII.- Presidir el Consejo Indígena Estatal;
+VII.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 1999)</small>
 
@@ -1709,7 +1723,7 @@ DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA DEL EST
 
 El Territorio del Estado de Chiapas es el que posee desde que forma parte de la República Mexicana.
 
-Para su organización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
+Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1839,9 +1853,7 @@ P.O. 19 DE NOVIEMBRE DE 1952.
 
 Toda persona gozará de las garantías individuales y sociales que otorga la Constitución Política de los Estados Unidos Mexicanos y que la presente Constitución reitera; garantías que no podrán restringirse o suspenderse, sino en los casos y las condiciones que la primera de dichas Constituciones establece.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-Esta Constitución protege la cultura, las lenguas, y los dialectos con los que se comunican las diferentes etnias y grupos mestizos de Chiapas. A efecto de garantizar lo anterior, se crea el Consejo Indígena Estatal.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE JUNIO DE 1999)</small>
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2236,3 +2248,9 @@ P.O. 3 DE MARZO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
