@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-impacto-ambiental-y-riesgo-18632"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-15"
-last_updated: "2000-12-15"
+last_updated: "2002-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18632&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-14"
 
 REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE SEPTIEMBRE DE 2002.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal el viernes 15 de diciembre de 2000.
 
@@ -62,7 +62,9 @@ VI.- Centro comercial: Instalaciones de más de cinco mil metros cuadrados de su
 
 VII.- Colindancia: Condición mediante la cual se relacionará la totalidad de las superficies de dos o más predios contiguos o adyacentes;
 
-VIII.- Conjunto habitacional: Las instalaciones o fraccionamientos destinadas a la construcción de casas habitación o viviendas, que comprendan más de 20 viviendas y diez mil metros cuadrados de superficie, u obras de más de seis niveles de altura;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
+
+VIII.- Conjunto habitacional: Las instalaciones o fraccionamientos destinadas a la construcción de casas habitación;
 
 IX.- Cuerpos de agua del Distrito Federal: Las aguas que provienen de afloramientos o que se forman con la precipitación pluvial y que se localizan o almacenan en dos predios o más, sin conectarse a algún cuerpo de agua de jurisdicción federal;
 
@@ -174,7 +176,7 @@ Todas las obras y actividades cuya realización se encuentre (sic) permitida (si
 
 E) OBRAS O ACTIVIDADES DENTRO DE SUELO URBANO EN LOS SIGUIENTES CASOS:
 
-I.- - Las que colinden con áreas naturales protegidas o suelos de conservación y con vegetación de galería;
+I.- Las que colinden con áreas naturales protegidas o suelos de conservación y con vegetación de galería;
 
 II.- Las actividades u obras de infraestructura, servicios o comerciales, o sus ampliaciones que se relacionan con los rubros que se señalan a continuación, cuyos procesos requieren de medidas, sistemas o equipos especiales para no afectar los recursos naturales o para cumplir con las normas ambientales para el Distrito Federal:
 
@@ -504,7 +506,7 @@ II.- Las actividades u obras de infraestructura, servicios o comerciales, o sus 
 
 163. Construcción de deportivos;
 
-164. Construcción de condominios y unidades habitacionales;
+164. (DEROGADO, G.O. 24 DE SEPTIEMBRE DE 2002)
 
 165. Construcción de edificios públicos;
 
@@ -554,9 +556,13 @@ L) CENTRALES DE ABASTO Y COMERCIALES:
 
 Todas las centrales de abasto y centros comerciales que cuenten con las características mencionadas en las fracciones V y VI del artículo 3º del presente reglamento.
 
-M) CONJUNTOS HABITACIONALES:
+> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
 
-Todos los conjuntos habitacionales que cuenten con las características mencionadas en la fracción VIII del articulo 3o del presente reglamento.
+M) CONJUNTOS HABITACIONALES
+
+I. Conjuntos habitacionales de 21 hasta 60 viviendas con prototipos de no más de 60 metros cuadrados de construcción, o con superficie de construcción menor a los 3,600 metros cuadrados, o hasta 6 niveles.
+
+II. Conjuntos habitacionales mayores de 60 viviendas, o con superficie de construcción mayor a los 3,600 metros cuadrados, o de más de 6 niveles.
 
 N) ACTIVIDADES CONSIDERADAS RIESGOSAS, EN TÉRMINOS DE LA LEY:
 
@@ -694,17 +700,21 @@ I.- General, o
 
 II.- Específica.
 
+> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 14.
 
-Las manifestaciones de impacto ambiental se presentarán en la modalidad general, cuando se refieran a los programas, obras o actividades incluidos en los apartados A), fracción II; E) fracción II; G); I); J); O); P), y R) del artículo 6o del presente ordenamiento.
+Las manifestaciones de impacto ambiental se presentan en la modalidad general cuando se refieran a los programas, obras o actividades incluidos en los apartados A), fracción II, E), fracción II, G), I), J), M), fracción II, O), P) y R) del artículo 6° del presente ordenamiento.
 
 ###### Artículo 15.
 
 Las manifestaciones de impacto ambiental se presentarán en la modalidad específica, en los siguientes casos:
 
-I.- Cuando se refieran a los programas, obras o actividades señaladas en los apartados A), fracciones I y III; B); C); D); E), fracciones I y III; F); H); K); L); M); N); Ñ), y Q) del artículo 6o del presente ordenamiento, y
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
 
-II.- Cuando se refieran a los programas, obras o actividades mencionados en el articulo anterior, siempre que pretendan llevarse a cabo en suelos de conservación, o en Áreas Naturales Protegidas.
+I.- Cuando se refieran a los programas, obras o actividades señaladas en los apartados A), fracciones I y III; B); C); D); E), fracciones I y III; F); H); K); L); N); Ñ), y Q) del artículo 6° del presente ordenamiento, y
+
+II.- Cuando se refieran a los programas, obras o actividades mencionados en el artículo anterior, siempre que pretendan llevarse a cabo en suelos de conservación, o en Áreas Naturales Protegidas.
 
 ###### Artículo 16.
 
@@ -1138,9 +1148,17 @@ III.- Las instalaciones no permanentes y sin cimientos, destinadas a la venta de
 
 C) OBRAS Y ACTIVIDADES DENTRO DE SUELO URBANO.
 
-I.- Las actividades comerciales o de servicios incluidas en el apartado E), fracción II, del artículo 6o de este reglamento, en las que se prevea la participación de hasta de veinte trabajadores, y
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
 
-II.- Las obras y actividades industriales señaladas en apartado E), fracción II, del artículo 6o de este reglamento, en las que se prevea la participación de hasta treinta trabajadores.
+I. Las actividades comerciales o de servicios incluidas en el apartado E), fracción II, del artículo 6° de este reglamento, en las que se prevea la participación de hasta veinte trabajadores.
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
+
+II. Las obras y actividades industriales señaladas en el apartado E), fracción II, del artículo 6° de este reglamento, en las que se prevea la participación de hasta treinta trabajadores, y
+
+> <small>(ADICIONADA, G.O. 24 DE SEPTIEMBRE DE 2002)</small>
+
+III. Conjuntos habitacionales a los que se refiere la fracción I del apartado M) del artículo 6° de este reglamento.
 
 ###### Artículo 47.
 
@@ -1365,3 +1383,11 @@ Quinto. Los Acuerdos administrativos necesarios para la ejecución del presente 
 Sexto. En tanto se expiden los listados a que se refiere el artículo 7o de este Reglamento, quedan sujetas a la presentación de la manifestación de impacto ambiental y el estudio de riesgo respectivo, además de las actividades previstas en este Reglamento, aquéllas realizadas en establecimientos industriales, comerciales o de servicios que manejen sustancias o materiales con características explosivas, tóxicas, inflamables y biológico infecciosas, en un volumen mayor al 50% y menor al 100% de la cantidad de reporte que se establece en los listados correspondientes de actividades altamente riesgosas competencia de la Federación.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de diciembre del año dos mil.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ÁNDRES MANUEL LÓPEZ OBRADOR.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 24 DE SEPTIEMBRE DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Los procedimientos de solicitud de evaluación de impacto ambiental que se encuentren en trámite a la entrada en vigor de este decreto, se resolverán de acuerdo con las disposiciones vigentes en el momento de su presentación.
