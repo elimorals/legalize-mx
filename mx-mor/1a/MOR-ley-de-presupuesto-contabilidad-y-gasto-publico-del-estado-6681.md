@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "1998-11-11"
+last_updated: "2001-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -407,6 +407,10 @@ Para efecto de evaluación del Presupuesto de Egresos, las Dependencias y Entida
 
 La Secretaría de Hacienda y las Comisiones y Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico-financiero de los programas autorizados en el Presupuesto de Egresos del Gobierno del Estado y en el de los Municipios.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2001)</small>
+
+Los Poderes Legislativo, Judicial y Ejecutivo, así como las entidades mencionadas en el Artículo 2 de la presente Ley, presentarán trimestralmente sus Cuentas Públicas ante el Congreso del Estado; dicha presentación se hará durante los treinta días siguientes al día último de cada trimestre, excepto el cuarto trimestre, en cuyo caso se hará durante los primeros diez días hábiles del mes de Enero del año siguiente.
+
 ###### ARTICULO 47.
 
 Quienes efectúen gastos públicos estarán obligados a proporcionar a la Secretaría de Hacienda, a la Contraloría General del Estado y a las Tesorerías, Comisiones de Regidores o Sindicaturas Municipales o cualquier órgano de Contraloría Municipal, la información que les soliciten, dentro de sus ámbitos de competencia para la comprobación del cumplimiento de las obligaciones derivadas de ésta Ley y de las disposiciones expedidas con base en ella.
@@ -484,3 +488,9 @@ P.O. 11 DE NOVIEMBRE DE 1998.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos que señala la fracción XVII del Artículo 70 de la Constitución Política del Estado de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Organo Informativo del Gobierno del Estado de Morelos.
+
+P.O. 14 DE FEBRERO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los Artículos.- 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
