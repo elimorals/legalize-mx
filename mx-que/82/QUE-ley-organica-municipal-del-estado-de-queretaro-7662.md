@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "1993-07-15"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE JULIO DE 1993.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -461,7 +459,7 @@ VIII. Designar de entre sus miembros a los síndicos municipales, quienes los re
 
 IX. Nombrar secretario del ayuntamiento, tesorero, coordinador de desarrollo integral, quien tendrá las facultades que establezca el reglamento respectivo, y demás funcionarios cuya designación les competa, a propuesta del presidente municipal, y removerlos por causa justificada;
 
-X. Establecer la integración del órgano municipal de control y evaluación del gasto público de acuerdo con las normas establecidas.
+X. (DEROGADA, P.O. 28 DE DICIEMBRE DE 1995)
 
 XI. Solicitar al Ejecutivo del Estado la expropiación de bienes por causa de utilidad pública;
 
@@ -1325,9 +1323,11 @@ Las diferentes dependencias y oficinas del gobierno municipal, previa solicitud 
 
 El ayuntamiento tan pronto reciba el Proyecto de Presupuesto de Egresos, lo turnará a la Comisión de Hacienda para que, en un plazo de ocho días, lo estudie y emita el dictamen respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 123.
 
-En la formulación del Presupuesto se observarán los siguientes lineamientos:
+En la formulación del Presupuesto de Egresos podrá observarse, en lo aplicable, las normas relativas de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, o los lineamientos siguientes:
 
 I. Sólo habrá un Presupuesto. Las modificaciones de partidas, una vez aprobado aquél, deberán sujetarse a la aprobación del ayuntamiento.
 
@@ -2006,3 +2006,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 1995.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ABROGA EL ARTICULO 34 EN SU FRACCIÓN X, Y REFORMA EL PRECEPTO 123 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERETARO”.]
+
+PRIMERO.- Las atribuciones y funciones en materia de declaración patrimonial de los servidores públicos municipales que de acuerdo con la Ley deban presentarla, serán ejercidas por la Comisión de Hacienda del Ayuntamiento.
+
+SEGUNDO.- La presente Ley entrará en vigor a partir del día primero de enero de mil novecientos noventa y seis.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
