@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2004-08-06"
+last_updated: "2004-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -2865,7 +2865,9 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 28
 
 III.- Cuando el que la ejerce incurra en conducta de violencia familiar previstas en el artículo 324 Bis de este Código, en contra de las personas sobre las cuales la ejerza;
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2004)</small>
+
+IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses. Cuando el hijo se encuentre acogido en una institución de asistencia social, sea pública o privada, bastará que hayan transcurrido más de cuatro meses;
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
 
@@ -8215,7 +8217,9 @@ Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de 
 
 Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2004)</small>
+
+I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado, la concubina y el concubino, siempre que estos últimos cumplan con lo establecido en el artículo 1520; y
 
 II.- A falta de los anteriores, la Beneficencia Pública del Estado de Sinaloa.
 
@@ -8347,7 +8351,7 @@ A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todo
 
 De la Sucesión en el Concubinato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 1514.
 
@@ -8381,7 +8385,7 @@ De la Sucesion de la Beneficencia Publica.
 
 ###### Artículo 1520.
 
-La persona con quien el autor de la herencia vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+La concubina y el concubino tienen derecho a heredarse recíprocamente, siempre que hayan vivido juntos, como si fueran cónyuges, durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante ese lapso, conforme a las reglas siguientes:
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
 
@@ -8393,7 +8397,7 @@ II.- Si el superviviente concurre con descendientes del autor de la herencia, qu
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
 
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo (sic) con otra persona, tendrá derecho a las dos terceras partes de la porción de un hijo;
+III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra persona, tendrá derecho a las dos terceras partes de la porción de un hijo;
 
 IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
 
@@ -8401,7 +8405,7 @@ V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de l
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
 
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuges, o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen al superviviente y la otra mitad a la beneficiencia (sic) pública del Estado de Sinaloa.
+VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen al superviviente y la otra mitad a la beneficiencia (sic) pública del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
@@ -15555,7 +15559,7 @@ Una vez que se firme la escritura o acto jurídico a que se refiere el párrafo 
 
 El Registrador con el aviso del Notario o de la autoridad en los términos del párrafo que antecede, hará inmediatamente una anotación preventiva al margen de la inscripción de la propiedad o posesión, la cual tendrá vigencia y surtirá efectos contra terceros durante treinta días naturales adicionales a los señalados en el primer párrafo; si dentro de los treinta días señalados a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha del aviso preliminar a que se refiere el primer párrafo o en defecto de él, desde la fecha del aviso a que se refiere el párrafo anterior, lo cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar los avisos a que este artículo se refiere, las autoridades de que habla l fracción III del artículo 2892 y el mencionado aviso producirá los mismos efectos que los dados por el Notario.
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar los avisos a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2892 y el mencionado aviso producirá los mismos efectos que los dados por el Notario.
 
 El Registrador realizará las anotaciones tanto preliminar como preventiva, a que se refiere este articulo, sin cobro de derecho alguno.
 
@@ -16016,6 +16020,22 @@ P.O. 9 DE ABRIL DE 2004.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 6 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE AGOSTO DE 2004.
+
+DECRETO No. 663 QUE REFORMA LOS ARTÍCULOS 1486 Y 1520.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE AGOSTO DE 2004.
+
+DECRETO No. 664 QUE REFORMA EL ARTÍCULO 445.
 
 ###### ARTÍCULO ÚNICO.
 
