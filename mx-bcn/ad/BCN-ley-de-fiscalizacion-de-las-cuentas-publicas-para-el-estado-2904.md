@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-de-las-cuentas-publicas-para-el-estado-290
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "1992-09-20"
+last_updated: "2001-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION DE LAS CUENTAS PUBLICAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de septiembre de 1992.
 
@@ -513,17 +513,23 @@ La contabilidad de las Entidades se llevará con base acumulativa para determina
 
 Los estados financieros y demás información financiera contable y presupuestal que emanen de la contabilidad de las Entidades y proporcionados o solicitados por la Contaduría Mayor de Hacienda del Congreso del Estado, deberán ser autorizados y firmados por los titulares de dichas Entidades o por quién legalmente las represente.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 46.
 
-Con objeto de uniformar los criterios en materia de contabilidad y archivo contable gubernamental, la Secretaría de Finanzas así como las Tesorerías y Sindicaturas de los Municipios y las dependencias o unidades de contabilidad de las demás Entidades, darán a conocer con oportunidad a la Contaduría Mayor de Hacienda del Congreso del Estado, las normas, procedimientos, sistemas y lineamientos que implanten, a los cuales se sujetarán las Entidades.
+Con objeto de uniformar los criterios en materia de contabilidad y archivo contable gubernamental, la Secretaría de Planeación y Finanzas, la Dirección de Control y Evaluación Gubernamental, la Dirección Administrativa y la Contraloría del Poder Judicial, así como las Tesorerías y Sindicaturas de los Municipios y las dependencias o unidades de contabilidad de las demás Entidades, darán a conocer en un plazo que no exceda de 60 días a partir de la fecha de su emisión a la Contaduría Mayor de Hacienda del Congreso del Estado, las normas, procedimientos, sistemas y lineamientos que implanten, a los cuales se sujetarán las Entidades.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 47.
 
-La Contaduría Mayor de Hacienda del Congreso del Estado al revisar la Cuenta Pública de las Entidades, observará las normas, procedimientos, sistemas y lineamientos en materia de contabilidad y archivo contable gubernamental y hará del conocimiento de la Secretaría de Finanzas y de la Secretaría de Planeación y Presupuesto así como a las Tesorerías y Sindicaturas Municipales a las dependencias o unidades de contabilidad de las demás Entidades, las irregularidades o deficiencias que localice para que se dicten las medidas correctivas que correspondan.
+La Contaduría Mayor de Hacienda del Congreso del Estado al revisar la Cuenta Pública de las Entidades, observará las normas, procedimientos, sistemas y lineamientos en materia de control interno y de contabilidad, así como de archivo contable gubernamental y hará del conocimiento de la Secretaría de Planeación y Finanzas, de la Dirección General de Control y Evaluación Gubernamental, de la Dirección Administrativa y de la Contraloría del Poder Judicial, de las Tesorerías y Sindicaturas Municipales, así como de los Titulares y órganos de control correspondientes de las demás Entidades, las observaciones, irregularidades o deficiencias que localice para que se dicten las medidas correctivas que correspondan.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría de Planeación y Presupuesto, las Sindicaturas Municipales y las unidades de auditoría interna de las demás Entidades, darán a conocer oportunamente a la Contaduría Mayor de Hacienda del Congreso del Estado, los programas mínimos de auditoría interna que fijen para las Entidades o sus dependencias.
+La Dirección General de Control y Evaluación Gubernamental, la Contraloría del Poder Judicial, las Sindicaturas Municipales y las unidades de auditoría interna de las demás Entidades darán a conocer a la Contaduría Mayor de Hacienda del Congreso del Estado, dentro de los primeros treinta días del ejercicio fiscal que corresponda, los programas mínimos de auditoría interna que fijen para las entidades o sus dependencias.
 
 ###### ARTICULO 49.
 
@@ -614,3 +620,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
