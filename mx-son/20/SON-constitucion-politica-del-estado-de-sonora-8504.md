@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1932-04-27"
+last_updated: "1932-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE ABRIL DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE SEPTIEMBRE DE 1932.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -527,9 +527,9 @@ XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del
 
 XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos del Estado, que le presente el Ejecutivo, sin contravenir las disposiciones relativas de la Constitución General.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 1932)</small>
 
-XXIV. Para discutir, modificar, aprobar y reprobar los Presupuestos de Ingresos y Egresos de los Ayuntamientos, cada vez que dichas Corporaciones lo propongan.
+XXIV. Para discutir, modificar, aprobar o reprobar anualmente los presupuestos de ingresos y egresos de los Ayuntamientos.
 
 XXV. Para examinar las cuentas de los gastos de la administración pública del Estado, que cada año y cuando el Congreso lo pida deberá presentarle el Gobernador, con objeto de determinar si las partidas gastadas concuerdan con las del Presupuesto, y si están debidamente justificadas las erogaciones.
 
@@ -1187,9 +1187,9 @@ Artículo. 137. Son facultades y obligaciones de los Ayuntamientos:
 
 I. Cuidar del orden público dentro de su jurisdicción. A este fin tendrán a su cargo la organización y mando de la Policía Municipal, sin perjuicio de las facultades concedidas al Gobernador, por la fracción XX del Artículo 79 de esta Constitución.
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 1932)</small>
 
-II. Someter al examen y aprobación del Congreso los Presupuestos de Ingresos y Egresos del Municipio, cuando juzguen necesario reformarlos, adicionarlos o modificarlos, según sus necesidades.
+II. Someter anualmente y en tiempo oportuno al examen y aprobación del Congreso los presupuestos de ingresos y egresos del Municipio.
 
 III. Administrar libremente su Hacienda, que se formará de las contribuciones aprobadas por el Congreso. Las cuentas de un Ayuntamiento serán glosadas por el entrante.
 
@@ -1423,7 +1423,7 @@ Las próximas elecciones de Magistrados al Supremo Tribunal y de Procurador Gene
 
 DADO EN EL SALON DE SESIONES del Congreso Constituyente de Sonora, en la Villa de Magdalena, a los quince días del mes de Septiembre de mil novecientos diez y siete.
 
-PRESIDENTE, Clodoveo Valenzuela, Diputado Propietario por el Octavo Distrito Electoral.- VICE-PRESIDENTE, G. Corella, Diputado Propietario por el Segundo Distrito Electoral.- José Ma. V. Lizárraga, Diputado Propietario por el Primer Distrito Electoral.- F. R. González, Diputado Suplente por el Cuarto Distrito Electoral.- A. R. Romo, Diputado Propietario por el Quinto Distrito Electoral.- Rosendo L. Galaz, Diputado Propietario por el Sexto Distrito Electoral.- J. E. León, Diputado Suplente por el Séptimo Distrito Electoral.- Alonso G. González, Diputado Propietario por el Noveno Distrito Electoral.- Vicente Rivera, Diputado Propietario por el Undécimo Distrito Electoral.- José Tirado, Diputado Propietario por el Décimo Tercero Distrito Electoral.- José A. Castro, Diputado Propietario por el Décimo Cuarto Distrito Electoral.- Ventura G. Tena, Diputado Propietario por el Décimo Quinto Distrito Electoral.- PRIMER SECRETARIO, Ant. G. Ribera, Diputado Propietario por el Décimo Distrito Electoral.- SEGUNDO SECRETARIO, A. Trujillo, Diputado Propietario por el Duodécimo Distrito Electoral.- SECRETARIO SUPLENTE, M. Othón, Diputado Propietario por el Tercer Distrito Electoral.
+PRESIDENTE, Clodoveo Valenzuela, Diputado Propietario por el Octavo Distrito Electoral.- VICE-PRESIDENTE, G. Corella, Diputado Propietario por el Segundo Distrito Electoral.- José Ma. V. Lizárraga, Diputado Propietario por el Primer Distrito Electoral.- F R. González, Diputado Suplente por el Cuarto Distrito Electoral.- A. R. Romo, Diputado Propietario por el Quinto Distrito Electoral.- Rosendo L. Galaz, Diputado Propietario por el Sexto Distrito Electoral.- J. E. León, Diputado Suplente por el Séptimo Distrito Electoral.- Alonso G. González, Diputado Propietario por el Noveno Distrito Electoral.- Vicente Rivera, Diputado Propietario por el Undécimo Distrito Electoral.- José Tirado, Diputado Propietario por el Décimo Tercero Distrito Electoral.- José A. Castro, Diputado Propietario por el Décimo Cuarto Distrito Electoral.- Ventura G. Tena, Diputado Propietario por el Décimo Quinto Distrito Electoral.- PRIMER SECRETARIO, Ant. G. Ribera, Diputado Propietario por el Décimo Distrito Electoral.- SEGUNDO SECRETARIO, A. Trujillo, Diputado Propietario por el Duodécimo Distrito Electoral.- SECRETARIO SUPLENTE, M. Othón, Diputado Propietario por el Tercer Distrito Electoral.
 
 Por tanto, mando se imprima, publique y circule para su debido cumplimiento.
 
@@ -1478,6 +1478,10 @@ Unico.- La reforma al artículo 31 de la expresada Constitución entrará en vig
 B.O. 27 DE ABRIL DE 1932.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 28 DE SEPTIEMBRE DE 1932.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
