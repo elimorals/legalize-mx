@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-consejo-de-administracion-del-instituto-del-1360
 country: "mx"
 rank: "reglamento"
 publication_date: "1972-12-14"
-last_updated: "1972-12-14"
+last_updated: "1992-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1360&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "1998-12-22"
 
 REGLAMENTO DEL CONSEJO DE ADMINISTRACION DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 14 de diciembre de 1972.
 
@@ -34,21 +34,29 @@ El Consejo de Administración se integrará en la forma que establece el artícu
 
 DE LAS SESIONES
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 2o.
 
-El Consejo celebrará sesiones ordinarias los martes primer y tercero de cada mes. Si el día fuese inhábil, la sesión se celebrara el siguiente día hábil.
+El consejo de administración sesionará por lo menos dos veces al mes, el día y hora que se hayan fijado en la sesión anterior.
 
 ###### ARTICULO 3o.
 
 Las sesiones se celebrarán en el local del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, o en el lugar que para tal efecto señale el propio Consejo de Administración.
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 4o.
 
-El Orden del día que corresponda a cada sesión será elaborado por el Director General del Instituto en consulta con los Directores Sectoriales y presentada al Presidente en turno del Consejo, para que éste lo ponga a consideración del mismo.
+El orden del día que corresponda a cada sesión será elaborado por el director general del Instituto y presentado al presidente en turno del consejo, para que éste lo ponga a consideración del mismo.
+
+Los directores sectoriales podrán solicitar la incorporación de asuntos en el orden del día citado.
+
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
 
 ###### ARTICULO 5o.
 
-El Orden del Día deberá comunicarse a los consejeros por los (sic) menos con cuarenta y ocho horas de anticipación a la fecha de la reunión ordinaria, por conducto del Secretario del Consejo.
+El orden del día deberá comunicarse a los consejeros por los menos con cinco días hábiles de anticipación a la fecha de la reunión ordinaria, por conducto del secretario del consejo.
 
 ###### ARTICULO 6o.
 
@@ -60,9 +68,11 @@ Cuando haya asuntos que por su importancia lo ameriten, el Consejo podrá celebr
 
 A petición de la Comisión de Vigilancia el Consejo deberá convocar a sesión.
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 8o.
 
-Durante las sesiones extraordinarias, el Consejo se ocupará solamente de los asuntos señalados en la convocatoria respectiva, y el Orden del Día no comprenderá asuntos generales.
+Durante las sesiones extraordinarias, el consejo se ocupará solamente de los asuntos señalados en la convocatoria respectiva, y el orden del día no comprenderá asuntos generales.
 
 ###### ARTÍCULO 9o.
 
@@ -142,9 +152,11 @@ Durante las sesiones ordinarias y extraordinarias, el Presidente será auxiliado
 
 DE LA SECRETARIA
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+
 ###### ARTICULO 21o.
 
-El Consejo de Administración nombrará a un Secretario del mismo. En caso de ausencia del Secretario, el Consejo designará un suplente.
+El consejo de administración nombrará a un secretario del mismo y podrá nombrar a un prosecretario que suplirá provisionalmente al secretario en sus ausencias.
 
 ###### ARTICULO 22o.
 
@@ -177,3 +189,11 @@ UNICO.- Este Reglamento entrará en vigor a partir de la fecha de su aprobación
 El Presidente de la Asamblea General, Jesús Elías Piña.- Rúbrica.- El Director General, Jesús Silva-Herzog F.- Rúbrica.
 
 El Secretario de la Asamblea General, Roberto Molina-Pasquel H.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE OCTUBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
