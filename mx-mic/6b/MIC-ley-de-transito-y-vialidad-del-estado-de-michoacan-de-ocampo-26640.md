@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2002-09-24"
+last_updated: "2002-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2004.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -79,11 +79,13 @@ II. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
 III. Gobernador del Estado: El Titular del Poder Ejecutivo;
 
-IV. Secretaría: La Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+IV. Secretaría: La Secretaría de Seguridad Pública;
 
 V. Tesorería: La Tesorería General;
 
-VI. Subsecretaría: La Subsecretaría de Seguridad Pública y Protección Civil;
+VI. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2004)
 
 VII. Dirección: La Dirección de Seguridad Pública y Tránsito;
 
@@ -105,11 +107,17 @@ Son autoridades estatales en materia de tránsito y vialidad:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
-III. El Tesorero General;
+II. El Secretario de Seguridad Pública;
 
-IV. El Subsecretario de Seguridad Pública y Protección Civil; y,
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+III. El Tesorero General; y,
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+IV. El Director de Seguridad Pública y Tránsito.
 
 V. El Director de Seguridad Pública y Tránsito.
 
@@ -141,59 +149,53 @@ XI. Aplicar sanciones por infracciones a la presente Ley y su reglamento; y,
 
 XII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 10.
 
-El Secretario de Gobierno tendrá las atribuciones siguientes:
+El Secretario de Seguridad Pública tendrá las atribuciones siguientes:
 
-I. Vigilar el estricto cumplimiento de esta Ley y su reglamento;
+I. Ordenar y supervisar la realización de trámites administrativos relacionados con las licencias y permisos provisionales, para conducir vehículos automotores;
 
-II. Ordenar y supervisar la realización de trámites administrativos relacionados con las licencias y permisos provisionales, para conducir vehículos automotores;
+II. Dictar las medidas idóneas para organizar el tránsito de vehículos en las vías públicas del Estado, con el propósito de mejorar la circulación, preservar el medio ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público;
 
-III. Dictar las medidas idóneas para organizar el tránsito de vehículos en las vías públicas del Estado, con el propósito de mejorar la circulación, preservar el medio ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público;
+III. Cumplir y hacer cumplir en la esfera de su competencia, los ordenamientos federales y estatales en materia de protección del ambiente, del equilibrio ecológico y la prevención y control de la contaminación generada por vehículos automotores;
 
-IV. Cumplir y hacer cumplir en la esfera de su competencia, los ordenamientos federales y estatales en materia de protección del ambiente, del equilibrio ecológico y la prevención y control de la contaminación generada por vehículos automotores;
+IV. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con el tránsito de peatones y de vehículos en caso de terremoto, explosión, inundación, siniestro, asalto, actos de vandalismo, manifestaciones, marchas, bloqueos de vialidad, accidentes graves o cualquier alteración del orden público;
 
-V. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con el tránsito de peatones y de vehículos en caso de terremoto, explosión, inundación, siniestro, asalto, actos de vandalismo, manifestaciones, marchas, bloqueos de vialidad, accidentes graves o cualquier alteración del orden público;
+V. Coordinar a la Dirección y demás autoridades o corporaciones de seguridad pública, en los programas de auxilio a la población en casos de accidentes y desastres;
 
-VI. Coordinar, a través de la Subsecretaría, a la Dirección, a la Dirección de Protección Civil y demás autoridades o corporaciones de seguridad pública, en los programas de auxilio a la población en casos de accidentes y desastres;
+VI. Dictar las medidas conducentes para la administración, vigilancia y control de tránsito y vialidad en las vías públicas de jurisdicción estatal;
 
-VII. Delegar las atribuciones que esta Ley le señala de acuerdo a su reglamento interior; y,
+VII. Proporcionar asesoría en materia de tránsito y vialidad a los municipios que lo soliciten;
 
-VIII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+VIII. Ejecutar, supervisar y controlar las actividades de tránsito en el Estado;
+
+IX. Coordinar y supervisar las actividades de los elementos de tránsito y vialidad;
+
+X. Controlar la vigilancia del tránsito vehicular en las vías públicas del Estado, así como las convenidas y coordinadas con los municipios y la Federación;
+
+XI. Opinar respecto de los señalamientos de tránsito y vialidad en las vías públicas estatales;
+
+XII. Apoyar y supervisar la capacitación de los aspirantes y de los elementos activos que ejerzan la función operativa de tránsito y vialidad;
+
+XIII. Coordinarse en materia de tránsito y vialidad, con autoridades y corporaciones federales, estatales y municipales en el ámbito de su competencia;
+
+XIV. Autorizar y ordenar el retiro de la vía pública de vehículos, objetos, personas o animales, que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
+
+XV. Analizar en coordinación con los municipios la problemática de tránsito y vialidad, a fin de formular el Programa Estatal de Seguridad Pública en materia de tránsito y vialidad;
+
+XVI. Establecer programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades municipales y ambientales del Estado;
+
+XVII. Establecer las normas y lineamientos de organización y funcionamiento de los servicios de tránsito y vialidad en el Estado;
+
+XVIII. Las que le delegue el Gobernador del Estado; y,
+
+XIX. Las que le confieran esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
-El Subsecretario de Seguridad Pública y Protección Civil tendrá las atribuciones siguientes:
-
-I. Vigilar el estricto cumplimiento de esta Ley y su reglamento;
-
-II. Dictar las medidas conducentes para la administración, vigilancia y control de tránsito y vialidad en las vías públicas de jurisdicción estatal;
-
-III. Proporcionar asesoría en materia de tránsito y vialidad a los municipios que lo soliciten;
-
-IV. Ejecutar, supervisar y controlar las actividades de tránsito en el Estado;
-
-V. Coordinar y supervisar las actividades de los elementos de tránsito y vialidad;
-
-VI. Controlar la vigilancia del tránsito vehicular en las vías públicas del Estado, así como las convenidas y coordinadas con los municipios y la Federación;
-
-VII. Opinar respecto de los señalamientos de tránsito y vialidad en las vías públicas estatales;
-
-VIII. Apoyar y supervisar la capacitación de los aspirantes y de los elementos activos que ejerzan la función operativa de tránsito y vialidad;
-
-IX. Coordinarse en materia de tránsito y vialidad, con autoridades y corporaciones federales, estatales y municipales en el ámbito de su competencia;
-
-X. Autorizar y ordenar el retiro de la vía pública de vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
-
-XI. Analizar en coordinación con los municipios la problemática de tránsito y vialidad, a fin de formular el Programa Estatal de Seguridad Pública en materia de tránsito y vialidad;
-
-XII. Establecer programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades municipales y ambientales del Estado;
-
-XIII. Establecer, previo acuerdo con el Secretario de Gobierno, las normas y lineamientos de organización y funcionamiento de los servicios de tránsito y vialidad en el Estado;
-
-XIV. Las que le delegue el Gobernador del Estado o el Secretario de Gobierno; y,
-
-XV. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 12.
 
@@ -247,7 +249,7 @@ III. Los Directores de Seguridad Pública y Tránsito o autoridad equivalente.
 
 ###### Artículo 15.
 
-Son atribuciones de los Ayuntamientos en materia de tránsito y vialidad las siguientes:
+Son atribuciones de los Ayuntamientos en materia de transito y vialidad las siguientes:
 
 I. Expedir reglamentos para ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en su territorio y en las vías públicas de jurisdicción municipal;
 
@@ -307,7 +309,9 @@ IX. Vigilar que los titulares de las corporaciones municipales de tránsito y vi
 
 X. Auxiliar a las autoridades federales y estatales de tránsito y vialidad, en ejercicio de sus funciones;
 
-XI. Atender las recomendaciones de los programas que en materia de tránsito y vialidad, le formule el Secretario de Gobierno o el Subsecretario de Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+XI. Atender las recomendaciones de los programas que en materia de tránsito y vialidad, le formule el Secretario de Seguridad Pública;
 
 XII. Auxiliar a la población de su circunscripción territorial en casos de accidentes y siniestros; y,
 
@@ -753,7 +757,7 @@ Si con motivo del arrastre de un vehículo por una grúa oficial o por aquellas 
 
 Se procederá contra los responsables de los sitios o depósitos destinados al encierro y custodia de los vehículos detenidos, si sufren algún daño o robo durante el tiempo en que se encuentren en depósito, para el efecto de que reparen el daño causado sin perjuicio de la responsabilidad penal en que hayan incurrido.
 
-A R T Í C U L O S T R A N S I T O R I O S
+## ARTÍCULOS TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
 
@@ -792,3 +796,11 @@ DIPUTADO PRESIDENTE.- ESTEBAN ARROYO BLANCO.- DIPUTADO SECRETARIO.- RAYMUNDO ARR
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 9 nueve días del mes de septiembre del año 2002 dos mil dos.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
