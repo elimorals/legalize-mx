@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-02-04"
+last_updated: "1921-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE FEBRERO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE FEBRERO DE 1921.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -425,7 +425,7 @@ Durante los recesos del Congreso, funcionará una Diputación Permanente compues
 
 Las atribuciones de la Comisión Permanente, son las siguientes:
 
-I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquéllos para los que fué convocado;
+I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquéllos para los que fue convocado;
 
 II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso;
 
@@ -581,9 +581,9 @@ V.- mezclarse en las causas pendientes, ni disponer durante el juicio de las per
 
 VI.- remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública;
 
-> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1920)</small>
+> <small>(REFORMADA, D.O. 24 DE FEBRERO DE 1921)</small>
 
-VII.- permitir o tolerar que se establezcan en el Estado loterías, rifas, casas de juegos ilícitos, peleas de gallos, corridas de toros, prostíbulos y espectáculos inmorales.
+VII.- permitir o tolerar que se establezcan en el Estado casas de juego ilícitos, prostíbulos y espectáculos inmorales.
 
 ###### Artículo 57.
 
@@ -779,21 +779,19 @@ Todos los hombres nacen iguales, y por tanto, tienen derecho a participar igualm
 
 Corresponde al Estado, por medio de Leyes Agrarias, evitar el acaparamiento de la tierra. Corresponde igualmente al Estado cuidar de que el obrero goce de los derechos y garantías que le otorga el artículo ciento veinte y tres de la Constitución Federal.
 
+> <small>(REFORMADO, D.O. 24 DE FEBRERO DE 1921)</small>
+
 ###### Artículo 88.
 
-Son contrarios al bienestar general, y por tanto, la Ley no puede autorizarlos ni tolerarlos:
+Son contrarios al bienestar general y por tanto la Ley no puede tolerarlos ni autorizarlos:
 
-I.- (DEROGADA, D.O. 26 DE FEBRERO DE 1920)
+I.- los espectáculos inmorales.
 
-II.- los espectáculos que ataquen a la moral pública, considerándose como tales las corridas de toros y peleas de gallos;
+II.- la trata de blancas;
 
-III.- los prostíbulos y la trata de blancas;
+III.- los juegos ilícitos considerando como tales todos aquellos en que el éxito dependa del azar y no de medios conocidos de ambas partes con exclusión de las loterías;
 
-IV.- los juegos ilícitos, considerándose como tales todos aquellos en que el éxito dependa del azar y no de medios lícitos conocidos de ambas partes;
-
-V.- toda clase de loterías y rifas, inclusive el comercio con billetes o números de loterías y rifas de fuera del Estado.
-
-Las Leyes fijarán las penas de los que infrinjan esta prevención.
+Las leyes fijarán las penas de los que infrinjan esta disposición.
 
 ###### Artículo 89.
 
@@ -948,3 +946,7 @@ D.O. 4 DE FEBRERO DE 1921.
 ###### ARTICULO SEGUNDO
 
 Esta reforma entrará en vigor el mismo día de su publicación en el "Diario Oficial" del Estado.
+
+D.O. 24 DE FEBRERO DE 1921.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
