@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1972-12-12"
+last_updated: "1974-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1974.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -245,7 +245,9 @@ I. Ser Sinaloense por nacimiento o ciudadano sinaloense por vecindad con residen
 
 II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando menos seis meses antes de la fecha de la elección.
 
-III. Ser mayor de veinticinco años en la fecha de la elección.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1974)</small>
+
+III. Sea mayor de 21 años en la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
@@ -1896,3 +1898,9 @@ La Secretaría General de Gobierno se regirá por su Ley Orgánica, expedida med
 ###### ARTICULO CUARTO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE MARZO DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
