@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1515"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-04-12"
-last_updated: "1937-03-06"
+last_updated: "1937-08-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-03-22"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 1937.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 12 de abril de 1934.
 
@@ -313,27 +313,37 @@ Las propiedades de la Federación, de los Estados o Municipios, cuando sean susc
 
 Todas las fincas cuyos linderos sean tocados por un radio de siete kilómetros, a partir del lugar habitado más importante del núcleo de población solicitante, serán afectables en los casos de dotación de ejidos, en los términos de este Código.
 
+> <small>(ADICIONADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
+El radio señalado en este artículo podrá ampliarse, en los casos a que se refiere el artículo 66, a fin de integrar las unidades agrícolas ejidales correspondientes.
+
 ###### ARTICULO 35.
 
 Las propiedades afectables reportarán la dotación en proporción a sus superficies y a las calidades de sus tierras, con las modalidades que fija el artículo 38. Al efecto, se determinará el total de unidades disponibles, conforme a las equivalencias establecidas por el artículo 57.
 
 El número de parcelas que se necesiten para cada dotación, deberá tomarse conforme a lo dispuesto por el artículo 39.
 
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
 ###### ARTICULO 36.
 
-La superficie de las fincas, para los efectos de este Código, será la que tengan en la fecha de la publicación de la solicitud respectiva.
+La superficie de las propiedades afectables y la cuantía de sus accesiones serán, para los efectos de este Código, las que tengan en la fecha de la publicación de la solicitud o del acuerdo que inicie el procedimiento de oficio, excepto cuando la superficie o sus accesiones aumenten durante el procedimiento, en cuyo caso se tendrán en cuenta los aumentos registrados.
+
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
 
 ###### ARTICULO 37.
 
-Se considerarán como una sola propiedad, para los efectos de este Código, los diversos predios, que, aunque aislados, sean de los mismos dueños en cada entidad federativa.
+Para los efectos de este Código se considerarán formando un solo predio los diversos terrenos que pertenezcan a un mismo dueño, aunque se hallen aislados entre sí. Igualmente se considerarán como un solo predio los inmuebles que siendo de varios dueños sean poseídos pro-indiviso o constituyan unidad agrícola industrial.
 
-Igualmente, se considerarán como un solo predio los que sean de varios dueños proindiviso.
+“Se tendrán como simulados, y por lo tanto no producirán efecto alguno en materia agraria, los fraccionamientos:
 
-> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+I.- Cuando el usufructo de dos o más fracciones ser reserve para el primitivo propietario o para alguno de los fraccionistas, o para un tercero;
 
-Surtirán efectos en materia agraria, los cambios que en el régimen de propiedad de una finca sean consecuencia de aplicación de los bienes de una sucesión a los herederos, si la muerte del autor de la herencia es anterior a la publicación de la solicitud agraria.
+II.- Cundo no haya deslinde o señalamiento efectivo sobre el terreno; o
 
-En el caso de excepción señalado en el párrafo anterior, se requerirá, además, para que surta efectos el cambio de régimen de propiedad, que la inscripción de las escrituras relativas en el Registro Público de la Propiedad se haga antes de la fecha de la resolución presidencial.
+III.- Cuando, en general, se compruebe que, a pesar del fraccionamiento, la concentración del provecho obtenido en la explotación de las diversas fracciones; o la acumulación de beneficios provenientes de las mismas, se hace a favor de una sola persona.
+
+En estos casos, se considerarán formando un solo predio las fracciones que se encuentren sujetas al régimen indicado.
 
 ###### ARTICULO 38.
 
@@ -373,15 +383,7 @@ f).- Los centros de población que se formen dentro de tierras objeto de contrat
 
 ###### ARTICULO 43.
 
-Los peones acasillados definidos en el artículo 45, no podrán constituir por si mismos un núcleo de población dotable conforme al artículo 21; pero tendrán derecho:
-
-I.- A ser incluidos en los censos de expedientes ejidales, en los términos de la fracción II del artículo 45 de este Código;
-
-II.- A ser incluidos en los expedientes de ampliación, de acuerdo con la fracción III del mismo artículo;
-
-III.- A recibir parcelas de acuerdo con la fracción I del mismo artículo 45;
-
-IV.- A constituir nuevos centros de población, que serán dotados de tierras, bosques y aguas, en los términos del capítulo relativo del presente Código.
+(DEROGADO, D.O.F. 12 DE AGOSTO DE 1937)
 
 ### CAPITULO III. De los sujetos de derecho agrario
 
@@ -399,23 +401,15 @@ d).- No poseer a nombre propio o a título de dominio, terrenos en extensión ig
 
 e).- No poseer un capital industrial o comercial mayor de dos mil quinientos pesos.
 
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
 ###### ARTICULO 45.
 
-Los "peones acasillados," tendrán derecho a recibir parcela en las dotaciones, conforme a las siguientes modalidades:
-
-I.- Cuando dentro del radio de siete kilómetros contados a partir de cualquier punto de los linderos de la finca en que los "peones acasillados" presten sus servicios, existan ejidos con parcelas vacantes, después de satisfechas las necesidades de los poblados, se colocará en ellas a los "peones acasillados" que lo soliciten;
-
-II.- Cuando dentro del radio de diez kilómetros, computados en la misma forma que se hace mención en la fracción anterior, existan expedientes agrarios en tramitación, los “peones acasillados" que lo soliciten expresamente ante la Comisión Agraria Mixta, o ante la Junta Censal, tendrán derecho a figurar en el censo agrario correspondiente y a recibir parcela;
-
-> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
-
-III.- Cuando dentro del mismo radio de diez kilómetros, se tramiten o se puedan tramitar en los términos de este Código expedientes de ampliación, los “peones acasillados" que expresamente lo soliciten, tendrán derecho a figurar en el censo agrario correspondiente. Se considerarán “peones acasillados", para los efectos de este Código, aquellos trabajadores de las fincas agrícolas que, ocupando casa en las mismas sin pagar renta, dependan económicamente del salario que reciban por sus servicios.
-
-No se comprenderá en la clasificación de "peones acasillados" a los arrendatarios, aparceros, medieros, terceros, etc., salvo aquellos que no obstante esas denominaciones, sean en realidad de los trabajadores a que se refiere el párrafo anterior, que laboren temporalmente como aparceros habilitados por cuenta de la finca.
+Los peones y los trabajadores de las haciendas tienen derecho a obtener ejidos y a formar nuevos centros de población agrícola; para el efecto, serán considerados en los censos que se levanten en los expedientes agrarios que se instauren a petición de aquéllos, o en los correspondientes a solicitudes de poblados que se hallen dentro del radio de afectación de que se trate, en cuyo caso las autoridades agrarias procederán de oficio.
 
 ###### ARTICULO 46.
 
-Los "peones acasillados" que no puedan recibir parcela en los términos del artículo anterior, tendrán derecho a recibirla gratuitamente, en los proyectos de colonización o de fraccionamiento que desarrollen la Secretaría de Agricultura y Fomento o la Comisión Nacional de Irrigación.
+(DEROGADO, D.O.F. 12 DE AGOSTO DE 1937)
 
 ### CAPITULO IV. Del monto y calidad de las dotaciones
 
@@ -463,23 +457,15 @@ V.- Las superficies sujetas a proceso de reforestación conforme a la Ley y Regl
 
 VI.- Hasta quinientas hectáreas de tierras de riego o sus equivalentes en las escuelas de agricultura del Gobierno Federal.
 
+> <small>(ADICIONADA, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
+VII.- Hasta 150 hectáreas sembradas con henequén.
+
+Cuando la finca de que se trate tenga además extensiones sin henequén, se le respetarán las hectáreas que sean necesarias para completar los límites que se señalan en la fracción II de este artículo, en terrenos incultos.
+
 ###### ARTICULO 52.
 
-Las tierras ocupadas con plantaciones de alfalfa, henequén, maguey y otras agaves industriales y las que excedan de trescientas hectáreas, en los casos de las plantaciones de que trata la fracción IV del artículo anterior, podrán excluirse de las dotaciones, siempre que se llenen los requisitos siguientes:
-
-I.- Que dichas plantaciones existan con una anterioridad de seis meses a la fecha en que se publique la solicitud ejidal.
-
-> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
-
-II.- Que durante la tramitación del expediente en las Comisiones Agrarias Mixtas, los presuntos afectados se comprometan de manera absoluta a proporcionar las tierras que, en cantidad y calidad les correspondan como afectaciones en los términos de este Código, siempre que las tierras propuestas se encuentren dentro del radio de siete kilómetros del poblado solicitante y de que la demarcación de las mismas se haga dentro de un plazo improrrogable de treinta días, contados a partir de la fecha en que el Departamento Agrario les comunique la aceptación de la permuta respectiva; bajo el concepto de que sólo en caso de que no existan terrenos de mejor o igual calidad, o en la cantidad necesaria, podrán hacerse las conversiones que procedan conforme a las equivalencias establecidas en el artículo 57, sin que por motivo alguno se comprendan en ellas terrenos que no sean de labor o laborables.
-
-> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
-
-En caso de que las tierras señaladas para la permuta estén comprendidas en una finca que no sea pequeña propiedad, y su propietario se niegue a venderlas o exija precios excesivos, el Gobierno Federal procederá a expropiarlas, cubriendo su valor el propietario de la plantación afectable.
-
-Las superficies compensadas en los términos de la fracción II de este artículo, se considerarán disgregadas de la propiedad y no se computarán para el efecto de nuevas afectaciones.
-
-En los expedientes agrarios a que se refiere este precepto, las Comisiones Agrarias Mixtas y los Gobernadores de los Estados, procederán de tal manera que el Departamento Agrario pueda dar su autorización para la permuta de las tierras a cuyo efecto, los plazos de la tramitación normal se podrán modificar con aprobación del citado Departamento.
+(DEROGADO, D.O.F. 12 DE AGOSTO DE 1937)
 
 > <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 1937)</small>
 
@@ -625,9 +611,13 @@ En el censo agrario se incluirán todos los individuos capacitados para recibir 
 
 Los representantes del núcleo de población y de los propietarios en la Junta Censal, podrán hacer las observaciones que juzguen pertinentes, las que se anotarán en las formas en que se levante el censo; en la inteligencia de que las pruebas documentales deberán presentarse ante la Comisión Agraria Mixta dentro de los quince días siguientes a la fecha en que terminen los trabajos censales. Si de las pruebas documentales a que se refiere el párrafo anterior, resultan fundadas las observaciones al censo, la Comisión Agraria Mixta procederá a rectificar los datos objetados.
 
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
 ###### ARTICULO 66.
 
-Para el efecto de la mejor resolución de los expedientes ejidales, las Comisiones Agrarias Mixtas ordenarán, por regla general, que en la ejecución de los trabajos a que se refieren los artículos 63 y 65 se abarquen al mismo tiempo las solicitudes existentes de toda una región agrícola.
+Para el efecto de la mejor resolución de los expedientes ejidales, las Comisiones Agrarias Mixtas o las Delegaciones del Departamento Agrario, ordenarán, por regla general, que en la ejecución de los trabajos a que se refieren los artículo 63 y 65 se abarquen todos los casos de los núcleos de población rural que conforme a la ley deben ser beneficiados, por regiones agrícolas ejidales.
+
+Cuando se resuelvan simultáneamente varios expedientes agrarios en los que deban afectarse las mismas propiedades, la extensión de los ejidos se determinará tomando en cuenta las calidades de las tierras disponibles y la suma de las necesidades por satisfacer; en el concepto de que, si las tierras afectables resultan insuficientes para satisfacer las necesidades de todos los núcleos de población, se repartirán proporcionalmente entre éstos, de acuerdo con el número de individuos con derecho que los integren. En este caso, la extensión así calculada corresponderá al número de capacitados que resulte conforme al coeficiente ejidal-individual, dejando a salvo los derechos de quienes queden excedentes.
 
 ###### ARTICULO 67.
 
@@ -733,25 +723,11 @@ Las disposiciones de los artículos 73 y 74 son aplicables en las posesiones def
 
 ### CAPITULO IV. De las ampliaciones de ejidos
 
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
 ###### ARTICULO 83.
 
-La ampliación de ejidos sólo procederá:
-
-I.- En los casos de ampliación automática a que se refiere el artículo 173 de este Código;
-
-> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
-
-II.- Cuando se reúnan todos los siguientes requisitos:
-
-a).- Que el poblado haya logrado un aprovechamiento eficiente del ejido;
-
-b).- Que haya, cuando menos, veinte individuos sin parcela, que satisfagan los requisitos del artículo 44;
-
-c).- Que las tierras se destinen a formar nuevas parcelas;
-
-d).- Que en el nuevo censo agrario no figuren individuos que hayan sido dotados en algún expediente anterior, ni quienes los hayan sucedido en el derecho a las parcelas.
-
-En los casos a que esta fracción se refiere, la tramitación de las ampliaciones se sujetará al procedimiento ordinario señalado para las dotaciones.
+Las ampliaciones de ejidos procederán en los casos en que con las restituciones o dotaciones respectivas no hayan quedado satisfechas las necesidades de los núcleos de población rural de que se trate.
 
 ## TITULO QUINTO. De las dotaciones de aguas
 
@@ -1087,6 +1063,16 @@ Los Comisariados no podrán hacer operaciones, contraer obligaciones o aceptar c
 
 El Comisariado convocará cuando menos a una asamblea ordinaria cada mes, en la que, además de los asuntos ordinarios o extraordinarios que deban tratarse, dará cuenta de todas sus actividades durante aquel período de tiempo, informando invariablemente del movimiento de fondos y poniendo a discusión y resolución de la junta todas las iniciativas que los ejidatarios presentes hicieren.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
+"CAPITULO II BIS"
+
+"De la delimitación de los terrenos ejidales y de la designación de autoridades agrarias, en los casos de la formación de los ejidos por dos o más grupos integrantes del núcleo de población rural beneficiado".
+
+> <small>(ADICIONADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
+ARTICULO 131 BIS.- En los casos a que se refiere el artículo 66 o cuando las condiciones del núcleo de población rural beneficiado con una restitución, dotación o ampliación ejidal, lo requiera, a juicio de la autoridad agraria competente, se podrá hacer la demarcación de los terrenos correspondientes a cada grupo en proporción al número de beneficiados que los constituyan, los que, a su vez, elejirán (sic) sus respectivas autoridades agrarias en asambleas que al efecto celebren.
+
 ### CAPITULO III. Del fraccionamiento y adjudicación de las tierras de uso individual
 
 ###### ARTICULO 132.
@@ -1211,7 +1197,9 @@ En los casos de inconformidad con la asignación y adjudicación de parcelas, lo
 
 La propiedad de las tierras laborables de los ejidos será individual, con las modalidades que esta Ley establece. La propiedad de los montes, pastos, aguas y demás recursos naturales superficiales, corresponderá a la comunidad.
 
-Las tierras laborables que constituyan unidades de explotación físicamente infraccionables y que reclamen para su cultivo la intervención de la comunidad de ejidatarios, se mantendrán en propiedad y explotación comunales.
+> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1937)</small>
+
+En los ejidos que tengan cultivos que requieran un proceso de industrialización para la venta de los productos y que, por tanto, exijen (sic) inversiones superiores a la capacidad económica individual de los ejidatarios, la explotación se organizará en forma colectiva, sin perjuicio de adoptar este sistema en todos los casos en que sea conveniente para el mejor desarrollo de la economía ejidal.
 
 ###### ARTICULO 140.
 
@@ -1666,3 +1654,7 @@ Al C. . . .
 D.O.F. 6 DE MARZO DE 1937.
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial."
+
+D.O.F. 12 DE AGOSTO DE 1937.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
