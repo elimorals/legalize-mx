@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1995-08-16"
+last_updated: "1995-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8391,8 +8391,6 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1453.
 
 El servicio estatal de Estadística se considera de utilidad pública y comprende:
@@ -8445,873 +8443,409 @@ II.- Como proceda, según la gravedad de la falta, cuando sean cometidas por fun
 
 La violación del párrafo segundo del artículo 1457 será además, causa de responsabilidad civil, directa y personal del funcionario o empleado que proporcione los datos a que ese precepto se refiere.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON EL LIBRO, TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 DECIMA PARTE
 
 ASENTAMIENTOS HUMANOS
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON EL TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ## TITULO UNICO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
 ###### ARTICULO 1460.
 
-El objeto de este Título es ordenar el desarrollo urbano del Estado, la conservación y mejoramiento de sus áreas urbanas y el establecimiento de las normas conforme a las que el Gobierno de la Entidad ejercerá sus atribuciones para determinar los usos, destinos y reservas de dichas áreas.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1461.
 
-Se declara de utilidad pública e interés social la urbanización, planificación regulación y poblamiento en las áreas urbanas y suburbanas.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1462.
 
-La ordenación y regulación del desarrollo urbano tenderá a:
-
-I.- Proyectar, organizar y promover el asentamiento y distribución equilibrada de la población en las zonas urbanas;
-
-II.- Lograr el desarrollo equilibrado, armonizando la interrelación de la ciudad y el campo y distribuyendo equitativamente los beneficios y cargas del proceso de desarrollo urbano;
-
-III.- Distribuir en forma equilibrada los centros de población integrándolos en el marco del desarrollo nacional;
-
-IV.- Adecuar la interrelación socioeconómica de las ciudades;
-
-V.- Lograr la eficiente interacción entre los sistemas de convivencia y de servicios en cada centro de población, particularmente, la creación y mejoramiento de condiciones favorables para la relación adecuada entre zonas industriales y de viviendas de trabajadores, el transporte entre ambas y las justas posibilidades de trabajo y descanso;
-
-VI.- Fomentar las ciudades de dimensiones medias a fin de que por la desproporción, no produzcan impactos económicos negativos y deterioro social y humano;
-
-VII.- Lograr el descongestionamiento de las urbes;
-
-VIII.- Mejorar la calidad de la vida en comunidad;
-
-IX.- Coadyuvar a una mayor participación ciudadana en la solución de los problemas que genera la convivencia en los asentamientos humanos;
-
-X.- Regular el mercado de los inmuebles dedicados a la vivienda popular;
-
-XI.- Promover el equipamiento de los asentamientos humanos y
-
-XII.- Prever el crecimiento de la población mediante la constitución de reservas territoriales.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1463.
 
-El Ejecutivo para realizar las funciones que este Título le encomienda, deberá:
-
-I.- Formular el plan estatal para el desarrollo urbano;
-
-II.- Determinar los destinos, usos y reservas de tierras y sus construcciones;
-
-III.- Celebrar convenios necesarios para el desarrollo urbano con el Gobierno Federal, Entidades Federativas, Ayuntamientos, organismos descentralizados, empresas de participación estatal y con particulares;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
-
-IV.- Dictar y tomar las medidas necesarias para evitar la especulación de los terrenos urbanos y proceder a la legalización de los asentamientos humanos;
-
-V.- Participar en la elaboración de los planes nacionales y regionales de desarrollo urbano;
-
-VI.- Participar con los Gobiernos Estatales vecinos y Ayuntamientos de los mismos, en la elaboración y ejecución del plan de desarrollo urbano, de las zonas conurbadas y
-
-VII.- Las demás que le otorguen otras disposiciones jurídicas.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1464.
 
-Todos los contratos y convenios relativos a la propiedad, posesión uso o cualquier otra forma jurídica de tenencia de los predios urbanos deberán contener las cláusulas relativas a la utilización de los mismos, las que formarán parte de dichos contratos o convenios por lo que su no inclusión o el ser incluidos en contravención a lo señalado en los planes estatales, regionales y municipales o en los decretos relativos a los destinos, usos y reservas, producirán su nulidad.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1465.
 
-Los notarios públicos y los funcionarios que actúen por receptoría sólo podrán dar fe o extender escrituras públicas o privadas de los actos, contratos o convenios celebrados en los términos del artículo anterior, previa comprobación de que las cláusulas relativas a la utilización de los predios urbanos coinciden con los destinos, usos, reservas y planes inscritos en el Registro Público de la Propiedad. No se podrá registrar ningún acto, contrato o afectación que no se ajuste a los planes estatales, regionales, municipales y a los decretos relativos a los destinos, usos y reservas establecidos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO III. LA PLANEACION URBANA
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 1466.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1467.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1468.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1469.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1470.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1471.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1472.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1473.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986) (REPUBLICADO DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1474.
 
-La planeación del desarrollo urbano estará a cargo del Ejecutivo de acuerdo a lo dispuesto en la Ley General de Asentamientos Humanos, en este Título y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1475.
 
-La ordenación y regulación de los asentamientos humanos se efectuará a través de:
-
-I.- El plan estatal de desarrollo urbano;
-
-II.- Los planes municipales;
-
-III.- Los planes que ordenen y regulen las zonas conurbadas en los que participe el Estado con una o más Entidades Federativas;
-
-IV.- Los planes que ordenen y regulen las zonas conurbadas dentro del territorio del Estado;
-
-V.- Además de los planes anteriores se podrán elaborar los siguientes planes que son derivaciones o modalidades de los previstos en las fracciones comprendidas de la I a la IV de este artículo:
-
-a).- Los planes regionales en los que participe el Estado en los términos del convenio que para tal efecto se celebre;
-
-b).- Los planes subregionales que establezcan la acción coordinada de varios municipios;
-
-c).- Los planes directores urbanos que ordenen y regulen el área comprendida en el perímetro de los centros de población;
-
-d).- Los planes parciales de aplicación en un área determinada o distrito de un centro de población;
-
-e).- Los planes sectoriales que definan las acciones en campos específicos, tales como el transporte, la vivienda, el equipamiento y otros de naturaleza semejante a nivel estatal, municipal o circunscrito en cualquier área urbana.
-
-Los planes previstos en este artículo tendrá (sic) vigencia indefinida y estarán sometidos a un proceso de constante revisión.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1476.
 
-El Gobernador del Estado para realizar las funciones asignadas en el artículo anterior, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
-
-I.- Aprobar los planes de desarrollo urbano que sean de su competencia;
-
-II.- Regular el poblamiento en las áreas urbanas y suburbanas;
-
-III.- Promover ante la Legislatura Local, la fundación de nuevos centros de población;
-
-IV.- Expedir las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios urbanos;
-
-V.- Celebrar con el Gobierno Federal, las Entidades Federativas y con los Ayuntamientos convenios en materia de acciones e inversiones relativos al desarrollo urbano;
-
-VI.- Vigilar la exacta observancia de la planeación urbana en los términos del presente Título y de las demás disposiciones relativas;
-
-VII.- Coordinar el plan estatal con el plan nacional de desarrollo urbano;
-
-VIII.- Hacer las proposiciones que se estimen pertinentes para la elaboración del plan nacional de desarrollo urbano;
-
-IX.- Coadyuvar con las autoridades federales en el cumplimiento del plan nacional de desarrollo urbano en la Entidad;
-
-X.- Participar con los Gobiernos Estatales vecinos y los Ayuntamientos de los mismos, en la elaboración y ejecución del plan de desarrollo urbano de las zonas conurbadas en los términos que establezcan las leyes y decretos correspondientes; y
-
-XI.- Celebrar convenios con otras Entidades Federativas y con la Federación, con la finalidad de participar en una planeación regional.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1477.
 
-El plan estatal tendrá como referencia la planeación nacional y regional, así como los elementos informativos complementarios de estudios relativos a:
-
-I.- Las estructuras, condiciones y procesos demográficos, sociales, económicos y políticos de la región, en relación con las condiciones generales del país;
-
-II.- Las condiciones geofísicas, ecológicas y ambientales de la región;
-
-III.- El estudio de la tendencia de superficies urbanas, el uso actual y potencial de la tierra y de bienes inmuebles; y
-
-IV.- Los elementos de acondicionamiento del espacio urbano principalmente de la infraestructura, equipamientos, servicios, vialidad y traslados.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1478.
 
-Se establece en las Oficinas del Registro Público de la Propiedad, la Sección de Asentamientos Humanos en la que habrán de inscribirse todas aquellas resoluciones administrativas que lleguen a dictarse con apoyo en los planes que afecten el desarrollo urbano.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1479.
 
-La formulación del plan estatal estará a cargo del Programa de Desarrollo Urbano del Estado de Chihuahua y los estudios y proyectos destinados a integrarlo serán sometidos a la aprobación del Gobernador del Estado.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1480.
 
-Aprobados los estudios y proyectos del plan estatal se publicarán en el Periódico Oficial del Gobierno del Estado y en forma abreviada en dos diarios de mayor circulación en la Entidad y se inscribirán en la Oficina Central del Registro Público de la Propiedad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEGUNDA. DE LOS PLANES MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 1984)</small>
-
 ###### ARTICULO 1481.
 
-El plan municipal se propondrá ante el Ayuntamiento que corresponda por:
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
-
-I.- El Presidente Municipal;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-II.- El Programa de Desarrollo Urbano del Estado de Chihuahua; y
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
-
-III.- El Consejo de Planeación y Desarrollo Municipal.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1482.
 
-Los organismos públicos y privados que tengan interés en el desarrollo urbano, podrán presentar proyectos ante los Presidentes Municipales.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1483.
 
-Aprobado el plan por el Ayuntamiento, se turnará al Ejecutivo del Estado para su publicación en el Periódico Oficial y se mandará inscribir en un plazo no mayor de diez días en el Registro Público de la Propiedad.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1484.
 
-Aprobados, publicados e inscritos, los planes municipales serán obligatorios.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1485.
 
-A partir de la fecha en que se inscriba en el Registro Público de la Propiedad, las Presidencias Municipales sólo podrán expedir licencias de construcción, reconstrucción, ampliación o cualesquiera otras relacionadas con predios que resulten afectados, si las correspondientes solicitudes estén (sic) de acuerdo con el plan.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1486.
 
-Los planes municipales podrán modificarse o cancelarse cuando:
-
-I.- Exista una variación substancial de las condiciones o circunstancias que les dieron origen;
-
-II.- Se produzcan cambios en el aspecto financiero que los hagan irrealizables o incosteables;
-
-III.- Surjan técnicas diferentes que permitan una realización más satisfactoria; y
-
-IV.- Por cualquier otra causa que los afecte.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1487.
 
-La modificación o cancelación será solicitada por escrito al Ayuntamiento que corresponda por:
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 1984)</small>
-
-I.- El Presidente Municipal;
-
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1977)</small>
-
-II.- El Programa de Desarrollo Urbano del Estado de Chihuahua;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 1984)</small>
-
-III.- El Consejo de Planeación y Desarrollo Municipal.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1488.
 
-Son atribuciones de los Ayuntamientos:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-I.- Solicitar al Gobernador del Estado las declaratorias de los destinos, usos y reservas para las zonas urbanas comprendidas en su territorio;
-
-II.- Celebrar con la Federación, las Entidades Federativas o con otros Ayuntamientos, los convenios que apoyen los objetivos y finalidades propuestas en los planes que se realicen dentro de su jurisdicción;
-
-III.- Solicitar al Gobernador del Estado la fundación de centros de población dentro de los límites de su jurisdicción;
-
-IV.- Coadyuvar en la ejecución de los diversos planes de desarrollo urbano;
-
-V.- Expedir el reglamento y las disposiciones administrativas tendientes a regular los planes municipales de desarrollo;
-
-VI.- Recibir las opiniones de los grupos sociales que integran la comunidad, respecto a la elaboración de los planes municipales de desarrollo urbano;
-
-VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afecte a sus extensiones territoriales; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 1984)</small>
-
-VIII.- De conformidad con lo establecido en la Ley General de Asentamientos Humanos, en este Título y demás disposiciones aplicables:
-
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
-
-b) Participar en la creación y administración de sus reservas territoriales;
-
-c) Controlar y vigilar la utilización del suelo, en sus jurisdicciones territoriales;
-
-d) Intervenir en la regularización de la tenencia de la tierra urbana;
-
-e) Otorgar licencias y permisos para construcciones;
-
-f) Participar en la creación y administración de zonas de reserva ecológica; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE ENERO DE 1984)</small>
-
-IX.- Las demás que les otorguen las disposiciones legales relativas.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 #### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1489.
 
-Para los efectos de este Título se establecen las siguientes definiciones:
-
-I.- Provisiones: son las áreas que serán utilizadas para la fundación de un centro de población.
-
-II.- Usos: son los fines particulares a que podrán dedicarse determinadas áreas.
-
-III.- Reservas: son las áreas que serán utilizadas para el crecimiento de un centro de población; y
-
-IV.- Destinos: son los fines públicos a que se prevea dedicar determinadas áreas o predios.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1490.
 
-El Ejecutivo del Estado determinará en el plan estatal los destinos, usos y reservas de los predios, así como el de las correspondientes provisiones.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1491.
 
-Determinadas las áreas de provisiones y reservas, previo estudio del Programa de Desarrollo Urbano del Estado de Chihuahua, el Ejecutivo Local señalará los destinos y usos correspondientes.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1492.
 
-En virtud de lo dispuesto en el artículo anterior, para los fines de ordenación y legalización de los asentamientos humanos, la consiguiente declaratoria de provisiones, usos, reservas y destinos de áreas y predios, será hecha por el Gobernador del Estado, las declaratorias a que se refiere el párrafo anterior deberán expresar las razones de beneficio social que las motivaron.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1493.
 
-Las áreas y predios comprendidos en la zona declarada como reserva territorial, se utilizarán por sus propietarios en forma que no presenten obstáculos al futuro aprovechamiento determinado por las correspondientes declaratorias de usos y destinos.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1494.
 
-Cuando para el cumplimiento de estos planes sea necesaria la adquisición de terrenos, la autoridad competente podrá obtenerlos mediante convenios o el procedimiento de expropiación por causa de utilidad pública.
-
-(ADICIONADO, P.O. 5 DE FEBRERO DE 1977) (F. DE E., P.O. 12 DE FEBRERO DE 1977)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1495.
 
-Las declaratorias que establezcan provisiones, usos, reservas y destinos de áreas o predios entrarán en vitor (sic) a los sesenta días a partir de su publicación en el Periódico Oficial y deberán ser inscritas dentro de los quince días siguientes, en el Registro Público de la Propiedad que corresponda.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1496.
 
-Para el efecto de ordenar y regular el desarrollo urbano el territorio del Estado se clasifica en:
-
-I.- Zonas urbanizadas;
-
-II.- Reservas territoriales;
-
-III.- Provisiones;
-
-IV.- Espacios dedicados a la preservación del patrimonio cultural; y
-
-V.- Espacios rurales.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1497.
 
-Las zonas urbanizadas podrán ser dedicadas a:
-
-I.- Habitación;
-
-II.- Recreación;
-
-III.- Comercio;
-
-IV.- Industria;
-
-V.- Servicios; y
-
-VI.- Otros usos.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1498.
 
-Se considerarán espacios dedicados a la conservación:
-
-I.- Las área abiertas, los promontorios, los cerros, las colinas y elevaciones y las depresiones orográficas que constituyan elementos naturales del territorio de la ciudad;
-
-II.- Los aéreos, cuyo uso puedan afectar el paisaje urbano;
-
-III.- Las zonas cuyos subsuelos se hayan visto afectados por fenómenos naturales o por explotaciones o aprovechamientos de cualquier género que representen peligro permanente o accidental para los asentamientos humanos.
-
-En estos espacios la urbanización será restringida y sólo se autorizarán aquellas construcciones que aseguren los servicios de bienestar social de carácter colectivo y de uso común.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1499.
 
-En todos los demás casos no previstos en el artículo anterior, la administración estatal podrá acordar su urbanización conforme a las normas del plan estatal y disposiciones que sean aplicables; estos espacios se considerarán reservas territoriales destinadas a regular el crecimiento urbano.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1500.
 
-Las declaratorias de los espacios dedicados a la conservación y mejoramiento, se publicarán en el Periódico Oficial del Estado y se inscribirán en el Registro Público de la Propiedad que corresponda y contendrán:
-
-I.- La demarcación;
-
-II.- Las características y condiciones del área;
-
-III.- Las limitaciones de uso; y
-
-IV.- La duración.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1501.
 
-Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1502.
 
-Para los efectos de este Título se entiende por estructura vial y sistema de transporte el conjunto de elementos necesarios para el traslado de personas y de bienes dentro del Estado.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1503.
 
-En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1504.
 
-Para los efectos de este Título se entiende por fusión la unión en un solo predio de dos o más terrenos colindantes.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1505.
 
-Se entiende por subdivisión o relotificación la partición de un terreno que no requiera de una o más vías públicas.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1506.
 
-Se entiende por fraccionamiento la división de un terreno mediante la apertura de calle o calles u obras de urbanización.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1507.
 
-Las autorizaciones de fusión, subdivisión, relotificación y fraccionamiento tomarán en cuenta los siguientes aspectos:
-
-I.- Las zonas en que se permitan;
-
-II.- Las diferentes clases de fraccionamientos en función de su destino;
-
-III.- Los índices aproximados de densidad de población;
-
-IV.- La organización de la estructura vial y del sistema de transporte;
-
-V.- La proposición y aplicación de las inversiones en sus diversas etapas;
-
-VI.- Las proposiciones relativas a las áreas y servicios comunitarios y el equipo e infraestructura urbanos;
-
-VII.- Las especificaciones relativas a las características y dimensiones de los lotes, a la densidad de la construcción de los lotes considerados individualmente, así como las densidades totales;
-
-VIII.- Las normas de urbanización y las áreas que quedarán a cargo de los municipios correspondientes; y
-
-IX.- Las demás normas técnicas y los derechos y obligaciones que se consideren necesarios para el racional funcionamiento urbano del proyecto.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1508.
 
-Ninguna fusión, subdivisión, relotificación o fraccionamiento se podrá llevar a cabo sin que previamente se obtenga la autorización del municipio y se cumplan los requisitos que establecen este Título y las disposiciones contenidas en el Código Municipal.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1509.
 
-Las autoridades de fusión, subdivisión, relotificación y fraccionamiento se darán cuando no se afecten:
-
-I.- Zonas arboladas;
-
-II.- Zonas de valores naturales y urbanos;
-
-III.- Zonas monumentales históricas;
-
-IV.- La unidad de lotificación; y
-
-V.- El equilibrio de la densidad de población.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1510.
 
-El Ejecutivo local, en coordinación con el Municipio de que se trate, promoverá el desarrollo de fraccionamientos y conjuntos habitacionales de carácter popular y de interés social, para cuyo efecto aprovechará las reservas territoriales disponibles; en estos casos se tomarán las medidas que eviten las especulaciones o que desvirtúen la finalidad social que motivó la autorización; igualmente apoyarán los programas de fraccionamientos y conjuntos habitacionales que realicen dependencias u organismos oficiales de acuerdo con el plan estatal.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1511.
 
-La solicitud para fusionar, subdividir, relotificar o fraccionar terrenos, deberá ser formulada por la persona física o moral que tenga la propiedad y posesión del predio, acompañando para tal efecto los documentos a que se refiere el Código Municipal del Estado.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1512.
 
-Toda solicitud de fraccionamiento hecha conforme a las disposiciones del Código Municipal y de este Título, se incorporará al plan municipal.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1513.
 
-Se considerarán ilegales la fusión, subdivisión, relotificación y fraccionamiento que no estén autorizados por el ayuntamiento de acuerdo con este Título y las disposiciones de los Ordenamientos vigentes en el Estado.
-
-También se considerarán ilegales la fusión, subdivisión, relotificación y fraccionamiento autorizados, cuyos propietarios no realicen las obras o no hayan satisfecho los requisitos a que están obligados de acuerdo con la autorización concedida.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1514.
 
-En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
-
 ###### ARTICULO 1515.
 
-Es fraccionamiento de interés público aquel que el Estado o los Municipios destinen a dotar de lotes a los jefes de familia de escasos recursos que no reciban los beneficios de cualquier otra institución que proporcione vivienda a sus agremiados.
-
-Para su constitución se requiere:
-
-I.- Que en su trazo ninguna calle tenga una anchura menor de diez metros entre los alineamientos de las manzanas opuestas, permitiéndose sólo la existencia de calles cerradas cuando las condiciones físicas del predio por fraccionar lo requieran, en cuyo caso deberá establecerse una rotonda al final de la calle con un diámetro no menor de veinte metros;
-
-II.- Que previamente, se obtenga de la Junta Central de Agua y Saneamiento del Estado la autorización correspondiente; y
-
-III.- Que se destine el 15% de la superficie útil para los servicios a la comunidad dentro del fraccionamiento tales como escuelas, mercados, dispensarios, templos, parques, jardines y demás áreas públicas.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1516.
 
-Los ayuntamientos solicitarán la autorización del Congreso del Estado para enajenar individualmente los lotes.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1517.
 
-Los lotes se venderán a los jefes de familia mencionados en el Artículo 1515 según los resultados de los estudios socioeconómicos efectuados por el Programa de Desarrollo Urbano.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1518.
 
-Los trabajos de topografía para determinar el perímetro del fraccionamiento y la lotificación individual serán realizados por el Programa de Desarrollo Urbano.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1519.
 
-El producto de la venta individual de los terrenos se destinará:
-
-I.- A cubrir el importe del costo del fraccionamiento; y
-
-II.- A la introducción de los servicios públicos.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1520.
 
-Una vez determinados los jefes de familia beneficiados y cubierto el precio, la Presidencia Municipal otorgará los títulos de propiedad o el Programa de Desarrollo Urbano del Estado los documentos a que se refiere el Artículo 1467 de este Título, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION QUINTA. DE LA VIVIENDA
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1521.
 
-Para los efectos de este Título, las viviendas se clasifican en:
-
-I.- Unifamiliares y bifamiliares;
-
-II.- Plurifamiliares; y
-
-III.- Conjuntos habitacionales.
-
-Sus características serán determinadas en el reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1522.
 
-El ayuntamiento determinará las zonas en que se permita la construcción de viviendas, la clase de éstas, así como las normas a que deben sujetarse.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1523.
 
-Las autorizaciones de vivienda plurifamiliar y conjuntos habitacionales, contendrán las siguientes menciones:
-
-I.- Las áreas de construcción;
-
-II.- Las normas técnicas de construcción;
-
-III.- Las áreas donadas al municipio que serán del 15% de la superficie vendible;
-
-IV.- Las normas de seguridad y salubridad públicas; y
-
-V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recolección de basura, transporte, mantenimiento de jardines y otros.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1524.
 
-Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1525.
 
-Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Oficialía Mayor. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1526.
 
-Los programas de mejoramiento formarán parte del plan municipal y deberán contener:
-
-I.- La delimitación del área;
-
-II.- Las características y condiciones;
-
-III.- Justificación del programa;
-
-IV.- Objetivos que se persiguen;
-
-V.- Derechos y obligaciones de los particulares afectados;
-
-VI.- Procedimientos de mejoramiento;
-
-VII.- Procedencia y aplicación de los recursos financieros necesarios para llevarlos a cabo; y
-
-VIII.- Efectos sociales que se puedan producir en la población del área afectada.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1527.
 
-Los propietarios y poseedores de los predios incluidos en los programas de mejoramiento deberán cumplir con las obligaciones derivadas de los propios planes, para este efecto podrán celebrar convenios entre sí, con el Gobierno del Estado, con el Municipio o con terceros.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1528.
 
-En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1529.
 
-Para los efectos de este Título se entiende por infraestructura urbana, los sistemas de organización y distribución de bienes y servicios para el buen funcionamiento de la ciudad en beneficio de la población, y por equipo urbano, el conjunto de instalaciones, construcciones y mobiliario destinados a prestar a la población los servicios administrativos, educativos, comerciales, de salud y asistencia, recreativos, de traslado y otros.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1530.
 
-Los anteproyectos para la instalación, construcción o modificación de la infraestructura y del equipo urbano, serán sometidos a la consideración del ayuntamiento y el Ejecutivo Estatal determinará si deben ser considerados como planes municipales y en su caso seguir el trámite respectivo.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1531.
 
-La solicitud para instalar, construir o modificar en todo o en parte alguno de los sistemas de infraestructura o el equipo urbano, deberá acompañarse de:
-
-I.- Plano de conjuntos de la zona afectada, señalándose la ubicación y extensión de la obra;
-
-II.- Memoria descriptiva del proyecto;
-
-III.- Régimen financiero para la ejecución de la obra;
-
-IV.- Obligaciones a cargo del solicitante;
-
-V.- Obligaciones, en su caso, a cargo del municipio;
-
-VI.- Obligaciones a cargo de los usuarios; y
-
-VII.- Plazos de iniciación, revisión y terminación de las obras.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1532.
 
-Para el estudio de la solicitud, el ayuntamiento deberá tomar en consideración los siguientes aspectos:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-I.- Distribución y densidad de población en la zona;
-
-II.- Distribución de la demanda de bienes y servicios, especificando la no cubierta;
-
-III.- Distribución equitativa de los bienes y servicios en relación con la población de la ciudad;
-
-IV.- Procedimientos para su realización;
-
-V.- Medios para la satisfacción de la demanda; y
-
-VI.- Régimen financiero para la ejecución de la obra.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1533.
 
-La ordenación del desarrollo urbano del Estado tenderá a la conservación y acrecentamiento de su patrimonio cultural.
-
-Se consideran afectos al patrimonio cultural del Estado: los edificios, monumentos, plazas públicas, parques, bosques, y en general, todo aquello que corresponde a su acervo histórico y que resulta propio de su cultura y de sus tradiciones.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1534.
 
-Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
-
 ###### ARTICULO 1535.
 
-La ordenación de los asentamientos humanos se llevará a cabo mediante la planeación y regularización de las acciones tendientes a la fundación, conservación, mejoramiento y crecimiento de los centros de población de acuerdo a lo previsto en los planes a que se refiere este Título.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1536.
 
-La fundación de los centros de población que se realicen conforme a este Título requerirá decreto expedido por la Legislatura del Estado.
-
-El decreto a que se refiere el párrafo anterior, contendrá las declaratorias procedentes sobre provisiones de tierra y determinación de usos, reservas y destinos.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1537.
 
-La conservación de los centros de población es la acción tendiente a mantener:
-
-I.- El equilibrio ecológico;
-
-II.- El buen estado de las obras materiales de acuerdo con lo previsto en los planes de desarrollo urbano; y
-
-III.- El buen estado de los edificios, monumentos, plazas públicas, parques y en general, todo aquello que corresponda a su acervo histórico y cultural.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1538.
 
-El mejoramiento es la acción tendiente a reordenar y renovar los centros de población mediante el adecuado aprovechamiento de sus elementos materiales.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1539.
 
-El mejoramiento podrá llevarse a cabo mediante convenios entre autoridades y propietarios, en los que se atiendan sus respectivos intereses, o a través de la expropiación de predios por causa de utilidad pública.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1540.
 
-Se atenderá el crecimiento de los centros de población mediante la determinación del área necesaria para su expansión.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1541.
 
-A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -9319,45 +8853,27 @@ A partir de la publicación de los planes de desarrollo urbano prevista en el ar
 
 ###### ARTICULO 1542.
 
-El fenómeno de conurbación se presenta cuando dos o más centros de población formen o tienda a formar una unidad geográfica, económica y social.
-
-Las conurbaciones que se presenten en los centros de población localizados dentro de los límites del territorio estatal serán formalmente reconocidos mediante la declaratoria que expida al efecto el Gobernador del Estado.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1543.
 
-En el caso de zonas de conurbación en el que participe el Estado con una o más Entidades Federativas se estará a lo dispuesto en la Ley General de Asentamientos Humanos.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1544.
 
-La planeación y regularización de las zonas conurbadas dentro del territorio del Estado, se efectuarán con la participación del Gobierno del Estado y los ayuntamientos respectivos.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1545.
 
-El Ejecutivo Local y los ayuntamientos interesados podrán acordar que se considere la existencia de una zona conurbada, cuando:
-
-I.- Dos o más centros de población se encuentren ubicados en una zona que por sus características geográficas y su tendencia socioeconómica se considere conveniente el estudio y solución conjunta de su desarrollo urbano; y
-
-II.- Se proyecte o funde un centro de población y se prevenga su expansión en territorio de municipios vecinos.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1546.
 
-El acuerdo que se celebre en los términos del artículo anterior, tendrá efectos de declaratoria y se publicará como lo establece el artículo 1480.
-
-Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dispondrá que el Programa de Desarrollo Urbano en coordinación con los ayuntamientos correspondientes ordenen y regularicen el desarrollo de dicha zona.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 1547.
 
-Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
 > <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -11304,3 +10820,11 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Tercero.- Se derogan las disposiciones contenidas en el Código Administrativo del Estado en su octava parte, libro segundo, denominado de la Ganadería, Título Único, de la Protección General de la Ganadería.
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+Artículo Primero.- La vigencia de la presente Ley iniciará a partir del primero de enero de mil novecientos noventa y seis.
+
+Artículo Segundo.- Se deroga el capítulo de los Asentamientos Humanos del Código Administrativo del Estado, y todas las disposiciones que se opongan a la presente Ley.
