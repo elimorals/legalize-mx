@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1976-07-22"
+last_updated: "1977-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 1976.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 1977.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -559,9 +559,13 @@ X.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 1923)
 
 XI.- Resolver lo que crea conveniente, cuando fuere suspendido alguno o todos los miembros del Ayuntamiento por el Gobernador;
 
-XII.- Elegir a los Magistrados propietarios y Supernumerarios del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1977)</small>
 
-XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presente los Diputados, el Gobernador y los Magistrados del Tribunal Superior de Justicia;
+XII.- Elegir a los Magistrados propietarios y Supernumerarios del Tribunal Superior de Justicia del Estado, así como al Magistrado Propietario del Tribunal Fiscal del Estado y a los Supernumerarios que requiera la Administración de la Justicia Fiscal.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1977)</small>
+
+XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presenten los Diputados, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Magistrados del Tribunal Fiscal.
 
 XIV.- Llamar al Secretario General del Despacho, al Secretario del Tribunal o a los Secretarios de los Ayuntamientos, para que ilustren algún asunto de su respectiva competencia;
 
@@ -1079,21 +1083,25 @@ Si llegado el tiempo de las sesiones ordinarias, el Congreso se hallare reunido 
 
 De la Hacienda Pública del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 150.
 
-La Hacienda Pública del Estado será administrada por los empleados que al efecto nombre el Ejecutivo o sean designados de acuerdo con la ley.
+La Hacienda Pública del Estado será administrada por los organismos administrativos fiscales que determinará su Ley Orgánica, la que también señalara su competencia y funcionamiento.
+
+Los titulares de dichos órganos serán nombrados por el poder ejecutivo.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 151.
 
-En los asuntos judiciales y administrativos que afecten al Fisco, el Gobierno será representado por un Procurador General, al cual estará adscrito un agente fiscal. Los Receptores y Subreceptores de rentas, se considerarán, en sus respectivas demarcaciones, como agentes del Procurador General.
+En los asuntos judiciales y administrativos que afecten al Fisco, el Gobierno será representado por el Procurador General de Justicia, al cual estará adscrito un agente fiscal.
 
-Una ley determinará la organización y funcionamiento de las Oficinas de Hacienda.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 152.
 
-Todos los empleados que manejen fondos públicos, deberán caucionar su manejo a satisfacción del Ejecutivo, o del Ayuntamiento en su caso.
+Todos los funcionarios y empleados que manejen fondos públicos, deberán caucionar su manejo a satisfacción del Ejecutivo.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1928)</small>
 
@@ -1131,11 +1139,11 @@ Todos los Funcionarios del Estado y Municipales serán responsables de los delit
 
 Cualquiera otra responsabilidad que al expresado funcionario le resulte por la comisión de delitos oficiales o del orden común, no podrá motivar acusación en su contra ni desafuero, y sólo podrá serle exigida dentro de un año contado desde la fecha en que termine su cargo por lo que ve a delitos y faltas oficiales, y en concluyendo su período, conforme a la ley respectiva por lo que corresponde a los del orden común.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 155.
 
-En los delitos del orden común que cometiere el Secretario de Gobierno, los Diputados a la Legislatura, los Magistrados y el Procurador General de Justicia, la Legislatura, erigida en Gran Jurado, declarará por el voto de las dos terceras partes del total de diputados que la integren, y en la forma que determine la ley, si hay o no lugar a formación de causa. En caso negativo, cesará todo procedimiento contra el acusado. En el afirmativo, quedará éste suspenso en su cargo, y sujeto a los tribunales comunes.
+En los delitos del orden común que cometieren el Secretaría (sic) de Gobierno, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de justicia y del tribunal Fiscal y el Procurador General de Justicia, la Legislatura, erigida en Gran Jurado, declarará por el voto de las dos terceras partes del total de diputados que la integren, y en la forma que determine la ley, si hay o no lugar a formación de causa. En caso negativo, cesará todo procedimiento contra el acusado. En el afirmativo, quedará éste suspenso en su cargo, y sujeto a los tribunales comunes.
 
 ###### Art. 156.
 
@@ -1547,7 +1555,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1746,3 +1754,9 @@ UNICO.- La presente Ley, previa declaratoria del H. Congreso Local comenzará a 
 P.O. 22 DE JULIO DE 1976
 
 UNICO.- La presente Ley, previa declaratoria del H. Congreso Local, comenzará a surtir sus efectos una vez que la mayoría de los Ayuntamientos la aprueben según lo dispone el artículo 163 de la propia Constitución.
+
+P.O. 15 DE DICIEMBRE DE 1977
+
+Primero.- La presente Ley deberá publicarse en el Periódico Oficial del Estado.
+
+Segundo.- La presente Ley comenzará a surtir sus efectos una vez que la mayoría de los Ayuntamientos la aprueben, en los términos del artículo 163 de la propia Constitución Política del Estado.
