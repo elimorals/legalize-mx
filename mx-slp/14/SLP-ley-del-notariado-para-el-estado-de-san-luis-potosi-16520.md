@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2000-04-27"
+last_updated: "2003-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -131,9 +131,11 @@ Cuando una o varias notarías estuvieren vacantes o se resolviere crear una o m�
 
 En un plazo de treinta días hábiles contados a partir de la última publicación de la convocatoria, los aspirantes deberán acudir ante la Dirección del Notariado a presentar su solicitud para ser admitidos en el examen por oposición.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 15.
 
-Cuando ocurra la renuncia, muerte o suspensión definitiva del titular de una notaría que cuente con adscrito que haya ejercido ininterrumpidamente como tal durante los últimos tres años, sustituirá al titular sin someterse a examen por oposición, bastando para esto que el titular del Poder Ejecutivo, ordene la publicación de su nombramiento como nuevo titular en el Periódico Oficial del Estado.
+Cuando ocurra la renuncia, muerte, separación o suspensión definitiva del titular de una notaría que cuente con adscrito, que haya ejercido ininterrumpidamente como tal durante los últimos dos años, éste sustituirá al titular sin someterse a examen por oposición, bastando para esto que el Gobernador del Estado ordene la publicación de su nombramiento como nuevo titular, en el Periódico Oficial del Estado.
 
 Si la vacante ocurre en una notaría que no cuente con adscrito, o si éste no llenare el requisito a que se refiere el párrafo que antecede, el titular del Poder Ejecutivo convocará a los aspirantes para sustituir a quien fue su titular, con sujeción al procedimiento previsto en el artículo anterior.
 
@@ -145,7 +147,9 @@ Para obtener la constancia de aspirante al notariado, el interesado deberá sati
 
 I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos, tener veinticinco años cumplidos y acreditar mediante información testimonial de dos vecinos recibida con audiencia del Ministerio Público, tener y haber tenido buena conducta;
 
-II. Ser profesional del derecho con la correspondiente cédula profesional y acreditar cuando menos cuatro años de práctica profesional, a partir de la fecha del examen de licenciatura;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+II. Ser profesional del derecho, con título de Abogado o Licenciado en Derecho, que cuente con cédula profesional y acredite cuando menos tres años de práctica profesional, a partir de la fecha del examen de licenciatura;
 
 III. Comprobar que por lo menos durante dos años ininterrumpidos e inmediatamente anteriores a la solicitud del examen, haya realizado prácticas notariales bajo la dirección y responsabilidad de algún notario del Estado, o en su caso comprobar haber realizado estudios cuando menos a nivel especialidad de postgrado en derecho notarial en una institución de educación superior debidamente reconocida y contar con el diploma o título correspondiente registrado ante la autoridad competente, así como con la cédula de autorización respectiva.
 
@@ -191,15 +195,21 @@ La Dirección del Notariado, personalmente o por correo certificado con acuse de
 
 Los exámenes para obtener la constancia de aspirantes y la patente de notario titular, se desarrollarán en los términos previstos por esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 21.
 
-El jurado para los exámenes de aspirantes y de oposición, se compondrá de tres miembros propietarios o sus suplentes, todos ellos licenciados en derecho y estará integrado de la siguiente manera:
+Para los exámenes de aspirantes y de oposición, el jurado se compondrá de tres miembros propietarios o sus suplentes, todos ellos Licenciados en Derecho, y estará integrado de la siguiente manera:
 
-I. Por un representante del titular del Poder Ejecutivo del Estado, que será el Secretario General de Gobierno o el Director del Notariado, quien fungirá como presidente del jurado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
 
-II. Por un notario designado por el Consejo del Colegio de Notarios del Estado, y
+I. Por un representante del titular del Poder Ejecutivo del Estado, que será el Secretario General de Gobierno o cualquier otro servidor público que éste designe, quien fungirá como Presidente del Jurado.
 
-III. Por un catedrático universitario que imparta alguna de las materias relacionadas con la función notarial, que será designado por el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+II. Por dos notarios designados por el Consejo del Colegio de Notarios del Estado.
+
+III.- (DEROGADA, P.O. 20 DE MARZO DE 2003)
 
 El jurado designará de entre sus miembros un secretario.
 
@@ -225,9 +235,9 @@ El examen de oposición para obtener la patente de notario titular, se verificar
 
 La proposición, autorización y sellado de los temas de examen, se hará en los términos del artículo anterior.
 
-> <small>(F. DE E., P.O. 8 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
-Para la prueba práctica, que será pública, se reunirán los aspirantes en el lugar, día y hora que oportunamente señale la Dirección del Notariado. En presencia del Secretario de Gobierno o del Director del Notariado; y de un representante del Consejo del Colegio de Notarios y del catedrático que haya sido designado; uno de los aspirantes elegirá uno de los sobres que guarden los temas, debiendo todos los examinados desarrollar el tema sorteado, en forma separada, pudiendo consultar leyes y otros ordenamientos de la materia de que se trate, y sólo con el auxilio de una mecanógrafa, bajo la vigilancia de los representantes indicados ante los que se haya hecho el sorteo.
+Para la prueba práctica, que será pública, se reunirán los aspirantes en el lugar, día y hora que oportunamente señale la Dirección del Notariado, en presencia del Secretario General de Gobierno o cualquier otro servidor público que éste nombre, y los representantes del Colegio de Notarios del Estado.
 
 Para el efecto dispondrán de cinco horas corridas. Al concluirse el término, los responsables de la vigilancia de la prueba, recogerán los trabajos hechos, los colocarán en sobres que serán cerrados, firmados por ellos y por los sustentantes y se entregarán al secretario del jurado.
 
@@ -415,9 +425,11 @@ Los notarios podrán separarse del ejercicio de sus funciones quince días conse
 
 El notario tiene derecho a solicitar y obtener del titular del Poder Ejecutivo, licencia para estar separado de su cargo, hasta por el término de un año renunciable. No podrá concederse nueva licencia, sino después de seis meses de actuación consecutiva, salvo causa justificada y comprobada a juicio del Ejecutivo del Estado. Asimismo, el titular del Poder Ejecutivo del Estado otorgará al notario licencia renunciable por todo el tiempo que dure en el desempeño de un puesto de elección popular o cargo público. Terminadas las causas que dieron origen a la licencia deberá el notario reincorporarse al ejercicio de la función notarial en un plazo que no excederá de diez días hábiles, bastando que dé aviso por escrito de dicha circunstancia a la Dirección del Notariado y a la Secretaría del Consejo del Colegio de Notarios.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 46.
 
-En caso de fallecimiento, separación del notario por licencia o por suspensión, quedará temporalmente encargado de la notaría el adscrito, el suplente respectivo o, en su caso, el notario asociado, salvo lo dispuesto en el artículo 15 de esta Ley, en el que el notario adscrito asume la titularidad de la notaría cuando ésta queda vacante si es que ha ejercido como tal por lo menos durante los últimos tres años.
+En caso de separación del notario por fallecimiento, renuncia, licencia o por suspensión, quedará temporalmente encargado de la notaría el adscrito, el suplente respectivo o, en su caso, el notario asociado, para efectos de que concluya los asuntos que quedaron pendientes del titular, salvo lo dispuesto en el artículo 15 de esta Ley. Si no existe adscrito, suplente o asociado, el titular del Poder Ejecutivo designará de entre los notarios en ejercicio en el mismo distrito judicial, el que deberá concluir los asuntos pendientes.
 
 ###### ARTICULO 47.
 
@@ -475,7 +487,9 @@ I. Protocolo cerrado: el libro o juegos de libros, encuadernados y sólidamente 
 
 Las hojas del libro del protocolo cerrado, tendrán treinta y cinco centímetros de largo por veinticuatro de ancho. Al escribirse en ellas, se dejará en blanco un espacio de seis centímetros a la izquierda, separado por una línea de tinta roja, para poner en dicha parte, las razones y anotaciones que legalmente deban asentarse, y
 
-II. Protocolo abierto: el libro o conjunto de libros formados por los folios numerados progresivamente y sellados por la Dirección del Notariado, en los que el notario observando las formalidades que establece la presente Ley, asienta y autoriza las escrituras notariales que se otorguen ante su fe.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+
+II. Protocolo abierto: El libro o conjunto de libros formados por los folios numerados progresivamente y sellados por la Dirección del Notariado, en los que el notario, observando las formalidades que establece la presente Ley, asienta y autoriza las actas y escrituras notariales que se otorguen ante su fe.
 
 ###### ARTICULO 54.
 
@@ -493,9 +507,11 @@ I. Se asentará en la primera página útil de cada libro del protocolo cerrado,
 
 II. Los folios que formarán el protocolo abierto, serán sellados por la Dirección del Notariado o marcados por cualquier otro medio indubitable que acuerde esta dependencia con el Consejo del Colegio de Notarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 56.
 
-La numeración de instrumentos será progresiva por cada libro del protocolo de que se trate, es decir, sin interrumpirla, aun cuando no pase alguna escritura o acta notarial. No se escribirán más de cuarenta líneas por página o plana, a igual distancia una de otras.
+La numeración de instrumentos será progresiva, es decir, sin interrumpirla de un libro de protocolo a otro, aun cuando no pase alguna escritura o acta notarial. No se escribirán más de cuarenta líneas por página o plana, a igual distancia unas de otras.
 
 Los libros que integran el protocolo deberán ser numerados progresivamente.
 
@@ -523,15 +539,17 @@ Para asentar las escrituras y actas en los folios o en los libros, deberá utili
 
 ###### ARTICULO 62.
 
-Por cada tomo del protocolo abierto, el notario llevará un libro de control de folios.
+(DEROGADO, P.O. 20 DE MARZO DE 2003)
 
 ###### ARTICULO 63.
 
-Una vez que el notario haya asentado en los folios un instrumento, deberá hacer constar de inmediato en el libro indicado el número del mismo, su fecha, los números del primero y último de los folios en los que fue asentado, la naturaleza del acto jurídico que contenga y los nombres de las partes.
+(DEROGADO, P.O. 20 DE MARZO DE 2003)
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 64.
 
-Cuando por cualquier razón se inutilice un folio antes de que el instrumento sea firmado por alguna de las partes, el notario podrá sustituir por otros el folio o folios inutilizados, aunque no sean de numeración sucesiva, con tal que sean de los que estén empleando el mismo día, debiendo tomar nota de todo ello en el libro a que se refiere el artículo 62 de esta Ley y asentarlo al pie del instrumento, antes de las firmas, anotando los números de los folios utilizados, así como de los inutilizados; además, en el folio cuyo número siga al intercalado, se asentará una mención de que el faltante entre aquél y el que le precede, se usó en sustitución de otro con numeración anterior y de los folios entre los cuales quedó el intercalado.
+Cuando por cualquier razón se inutilice un folio antes de que el instrumento sea firmado por alguna de las partes, el notario podrá sustituir por otros el folio o folios inutilizados, aunque no sean de numeración sucesiva, con tal que sean de los que se estén empleando el mismo día, debiendo tomar nota de todo ello en el libro a que se refiere el artículo 68 de esta Ley, y asentarlo al pie del instrumento, antes de las firmas, anotando los números de los folios utilizados, así como de los inutilizados; además, en el folio cuyo número siga al intercalado, se asentará una mención de que el faltante entre aquél y el que precede, se usó en sustitución de otro con numeración anterior y de los folios entre los cuales quedó el intercalado. El folio o folios inutilizados no formarán parte del instrumento; de ser posible se cruzarán con líneas de tinta y se colocarán al final del respectivo instrumento.
 
 ###### ARTICULO 65.
 
@@ -591,9 +609,11 @@ V. El notario deberá llevar un apéndice de los libros de registro de cotejos, 
 
 Los apéndices se encuadernarán ordenadamente y se empastarán a más tardar ciento ochenta días después de la fecha del cierre del libro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 71.
 
-En el caso de que fuere robado un libro de protocolo o algún folio del protocolo abierto, el notario procederá a levantar un acta ante el Ministerio Público, inmediatamente que se entere, y acompañará copias certificadas de la misma a la Dirección del Notariado y a la Secretaría del Consejo del Colegio de Notarios.
+En caso de pérdida, destrucción, extravío o robo de cualquier documento del protocolo, el notario procederá de inmediato a dar aviso por escrito a la Dirección del Notariado, y procederá a levantar un acta ante el Ministerio Público si así lo considera pertinente.
 
 En el caso de que en los folios o fojas se hubieren consignado algún instrumento, el notario procederá a su reposición en los casos que fuera procedente si el mismo se encuentra inscrito en el Registro Público de la Propiedad y de Comercio o a petición de los otorgantes.
 
@@ -613,7 +633,9 @@ El documento deberá llenar las formalidades que señala este Capítulo, ser fir
 
 El extracto hará mención del número de hojas de que se compone el documento, y de la relación completa de sus anexos, y será firmado por los comparecientes y el notario.
 
-La autorización definitiva y las anotaciones marginales se harán sólo en el libro del protocolo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+La autorización definitiva y las notas complementarias o marginales, se harán sólo en el libro del protocolo.
 
 ###### ARTICULO 73.
 
@@ -767,13 +789,17 @@ Cuando se revoque, rescinda o modifique un acto contenido en una escritura, al n
 
 Para que se otorgue una escritura relativa a bienes inmuebles, el notario exigirá a la parte interesada el título respectivo que acredite la propiedad y los antecedentes necesarios para justificarla.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 91.
 
-El notario ante quien se otorgue un testamento público abierto o cerrado, deberá dar aviso a la Dirección del Notariado dentro de los ocho días hábiles siguientes, expresando la fecha de su otorgamiento, el nombre y apellidos del testador, el número del instrumento y tomo del protocolo.
+El notario ante quien se otorgue un testamento deberá dar aviso a la Dirección del Notariado dentro de los ocho días hábiles siguientes, expresando la fecha de su otorgamiento, el nombre y apellidos del testador, el número del instrumento y tomo del protocolo. Si el testador manifiesta los nombres de sus padres, se incluirán en el aviso. En caso de que en el testamento se revoque uno anterior, el notario proporcionará la información del testamento revocado.
 
-Si el testamento fuere cerrado indicará además el nombre de la persona en cuyo poder se depositó o el lugar en que se haya hecho el depósito. La Dirección del Notariado llevará un registro especialmente destinado a asentar las inscripciones relativas a los testamentos con los datos que se mencionan en este artículo.
+Si el testamento fuere cerrado, indicará además el nombre de la persona en cuyo poder se depositó, o el lugar en que se haya hecho el depósito.
 
-Cuando en un testamento público abierto se otorguen cláusulas que conforme a las leyes sean irrevocables, el notario, sin revelar el contenido de dichas cláusulas, hará mención de ello en el aviso a que se refiere este artículo, lo cual asentará la Dirección del Notariado en el registro mencionado en el párrafo anterior. La Dirección del Notariado, al contestar los informes que le soliciten, deberá indicar el testamento o testamentos respecto de los cuales tenga asentado que existen dichas cláusulas irrevocables.
+La Dirección del Notariado llevará un registro especialmente destinado a asentar las inscripciones relativas a los testamentos, con los datos que se mencionan en este artículo; y entregará informes únicamente a los notarios, a los jueces que legalmente los requieran, y a las personas que acrediten interés jurídico en el asunto.
+
+Cuando en un testamento público abierto se otorguen cláusulas que conforme a las leyes sean irrevocables, el notario sin revelar el contenido de dichas cláusulas, hará mención de su existencia en el aviso a que se refiere este artículo, lo cual asentará la Dirección del Notariado en el registro mencionado en el párrafo anterior. La Dirección del Notariado al contestar los informes que le soliciten, deberá indicar el testamento o testamentos respecto de los cuales tenga asentado que existen dichas cláusulas irrevocables.
 
 ###### ARTICULO 92.
 
@@ -863,9 +889,11 @@ Al expedirse un testimonio se hará constar si es el primero, segundo o ulterior
 
 El notario expedirá el testimonio con su firma y sello y tramitará su inscripción en el Registro Público de la Propiedad y de Comercio que corresponda, cuando el acto sea registrable y hubiere sido requerido y expensado para ello por sus clientes.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 104.
 
-Las hojas de testimonio tendrán las mismas dimensiones que las del protocolo abierto, y llevarán a cada lado un margen de una octava parte de la hoja, la cual contendrá a lo más cuarenta renglones a igual distancia unos de otros. En el margen superior izquierdo del anverso de cada hoja, llevarán el sello del notario, quien estampará su rúbrica en el anverso del margen derecho de cada hoja.
+Las hojas de testimonio tendrán las mismas dimensiones que las de protocolo abierto, las cuales contendrán a lo más cuarenta renglones, a igual distancia unos de otros. En el margen superior izquierdo del anverso de cada hoja, se estampará el sello del notario, quien rubricará en el anverso al margen derecho de cada hoja.
 
 ###### ARTICULO 105.
 
@@ -875,7 +903,9 @@ Podrán expedirse y autorizarse testimonios, copias certificadas o certificacion
 
 Sin necesidad de autorización judicial, se expedirán primero, segundo o ulterior testimonio, a cada parte o al autor del acto consignado en el instrumento de que se trate, o bien, a sus sucesores o causahabientes.
 
-El notario sólo puede expedir certificaciones de actos o hechos jurídicos que consten en su protocolo. En la certificación hará constar el número y la fecha de la escritura o del acta respectiva, requisito sin cuya satisfacción, la certificación carecerá de validez.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+El notario podrá expedir certificaciones de actos o hechos jurídicos que consten en su protocolo. En la certificación hará constar el número del libro y del instrumento, requisito sin cuya satisfacción, la certificación carecerá de validez.
 
 ### CAPITULO IV. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
@@ -1005,7 +1035,7 @@ El titular del Poder Ejecutivo del Estado, para vigilar que las notarías funcio
 
 ###### ARTICULO 124.
 
-La Dirección del Notariado, al tener conocimiento de que en una notaría se ha cometido alguna contravención de esta Ley, practicará una visita en la notaría de que se trate, constriñéndose a los hechos consignados en el orden respectivo, dando conocimiento a la Secretaría del Consejo del Colegio de Notarios con copia de la queja, sin perjuicio de que autoridad competente imponga las sanciones que correspondan a la infracción cometida.
+(DEROGADO, P.O. 20 DE MARZO DE 2003)
 
 ###### ARTICULO 125.
 
@@ -1023,7 +1053,9 @@ Las visitas de inspección pueden ser generales o especiales, y tiene por objeto
 
 Las visitas se practicarán en el domicilio de la notaría, en días y horas hábiles.
 
-Cuando la visita fuere general, el notario deberá ser notificado por lo menos con quince días hábiles de anticipación por la Dirección del Notariado. Si al presentarse a realizar la visita, el notario no hubiere sido notificado con la anticipación señalada, el propio visitador hará la notificación y dejará transcurrir el plazo señalado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Cuando la visita fuere especial, el notario deberá ser notificado por lo menos con cinco días hábiles de anticipación por la Dirección del Notariado, teniendo en cuenta lo que dispone el párrafo anterior por lo que se refiere a la falta de notificación.
 
 ###### ARTICULO 129.
 
@@ -1511,6 +1543,84 @@ III. Representar y suplir en el orden de su nombramiento al coordinador o secret
 
 IV. Cumplir con los trabajos que les encomiende la comisión.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2003)</small>
+
+## TITULO NOVENO. DE LA QUEJA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 184.
+
+La queja tiene por objeto la revisión de que la actuación notarial se encuentre apegada a esta Ley, a las demás disposiciones legales aplicables, y a la petición de actuación del particular, siempre y cuando ésta última no sea contraria a derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 185.
+
+La queja deberá interponerse por escrito ante el Director del Notariado, en un plazo máximo de seis meses de calendario contados a partir del supuesto o hecho que lo motivó, en el que se expresarán cuando menos los siguientes datos:
+
+I. Nombre del quejoso y su domicilio;
+
+II. Nombre y número del notario público en contra de quien se promueve;
+
+III. Domicilio;
+
+IV. Los hechos constitutivos de la queja, y
+
+V. El fundamento legal que se estime vulnerado.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 186.
+
+Con el primer escrito que contenga la queja, deberán acompañarse las documentales que obren en poder del quejoso y que motiven su queja, o bien señalar el lugar en donde se encuentren, manifestando la imposibilidad de obtenerlas por si mismo; en ninguna otra etapa le serán admitidas estas documentales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 187.
+
+Si el quejoso señalare pruebas documentales que se encuentran en diversas oficinas, serán solicitadas a su costa por el Director del Notariado, mismas que deberán ser proporcionadas por la autoridad correspondiente en un plazo no mayor de quince días.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 188.
+
+Una vez presentada la queja, en el término de tres días el Director del Notariado la revisará y determinará su procedencia o improcedencia. De considerarla procedente, notificará al notario público en contra de quien se interpuso, para que la conteste dentro de los cinco días hábiles siguientes a la notificación; o de seis días si la queja se promoviere en contra de un notario público cuya jurisdicción se encuentre fuera de la capital.
+
+El escrito de contestación deberá contener como mínimo los mismos requisitos que el escrito de queja.
+
+En el mismo término, el Director del Notariado notificará al Consejo Directivo del Colegio de Notarios sobre la interposición de la queja, para que dentro del término concedido para la contestación, manifieste en su caso lo que a su representación convenga.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 189.
+
+Si el notario público en contra de quien se interpuso la queja, o en su caso el Consejo Directivo del Colegio de Notarios nada contestaren, se tendrán por ciertos los hechos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 190.
+
+Una vez que obren todas las pruebas dentro del expediente que se formará con motivo de la queja y que puedan ofrecerse, admitirse y desahogarse, dentro del término de treinta días el Director del Notariado resolverá lo que en derecho proceda.
+
+Si estima que el notario público en contra de quien se interpuso la queja incurrió en alguna responsabilidad administrativa, lo comunicará al titular del Poder Ejecutivo en los términos del artículo 137 de esta Ley, notificándole a los interesados su resolución dentro de los tres días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 191.
+
+Si resulta que los hechos contenidos en la queja no son ciertos, se impondrá al quejoso una sanción de veinticinco veces el salario mínimo diario vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+###### ARTICULO 192.
+
+Si en el término de seis meses no se concluye el procedimiento de queja por causas imputables al promovente, se tendrá por no interpuesta y sin más trámite se dictará acuerdo, mandándose archivar como asunto concluido, a menos que se encuentre pendiente algún otro medio de defensa que pueda influir en la queja.
+
 ## TRANSITORIOS
 
 PRIMERO. Se abroga la Ley del Notariado para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 5 de agosto de 1993.
@@ -1546,3 +1656,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
