@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1948-08-21"
+last_updated: "1951-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1951.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -5807,7 +5807,7 @@ La prescripción adquirida por el deudor principal, aprovecha siempre a sus fiad
 
 ###### Art. 1145.
 
-El Estado así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
+El Estado, así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
 
 ###### Art. 1146.
 
@@ -8981,9 +8981,21 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1951)</small>
+
 ###### Art. 1812.
 
-La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
+La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios con sujeción a las siguientes reglas:
+
+I.- Cuando el daño se causa a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba.
+
+II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización.
+
+III.- Si la víctima no percibe utilidad o salario, o no puede determinarse éste, el pago se acordará tomando como base el salario mínimo.
+
+IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos.
+
+V.- Las anteriores disposiciones se observarán en el caso del artículo 2540 de este Código.
 
 ###### Art. 1813.
 
@@ -14654,3 +14666,13 @@ P.O. 8 DE JULIO DE 1944.
 P.O. 21 DE AGOSTO DE 1948.
 
 Este Decreto empezará a surtir sus efectos treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 1951.
+
+###### Art. 1o.
+
+Se derogan todas las disposiciones que estén en contravención con estas reformas.
+
+###### Art. 2o.
+
+Estas reformas entrarán en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
