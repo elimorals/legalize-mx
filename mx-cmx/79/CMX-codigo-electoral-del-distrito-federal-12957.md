@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "2003-05-15"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2003.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -620,7 +620,7 @@ Las Agrupaciones Políticas Locales, disfrutarán de los tiempos en radio y tele
 
 ### Capítulo III. Del financiamiento público a las asociaciones políticas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 30.
 
@@ -642,7 +642,15 @@ c) Cada Partido Político deberá destinar anualmente por lo menos el 2% del fin
 
 Para los efectos del primer párrafo del presente artículo, los Partidos Políticos que hubieren participado en la última elección bajo Coalición, determinarán su porcentaje de votación de acuerdo a lo estipulado en el convenio de coalición respectivo.
 
-II. En el año de la elección, a cada Partido Político se le otorgará de forma adicional para gastos de campaña, un monto equivalente al financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+II. Para gastos de campaña:
+
+a) En el año en que deban celebrarse elecciones para Diputados a la Asamblea Legislativa, Jefes Delegacionales y Jefe de Gobierno, a cada partido político se le otorgará para gastos de campaña, un monto equivalente al financiamiento público que, para el sostenimiento de sus actividades ordinarias permanentes le corresponden en ese año.
+
+b) En el año en que deban celebrarse elecciones para Diputados a la Asamblea Legislativa y Jefes Delegacionales, a cada partido político se le otorgará para gastos de campaña, dos tercios del monto equivalente al financiamiento público que, para el sostenimiento de actividades ordinarias permanentes le corresponden en ese año.
+
+El monto para gastos de campaña a que se refieren los incisos anteriores, se otorgará a los Partidos Políticos en forma adicional al resto de las prerrogativas.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -736,7 +744,9 @@ c) Los organismos internacionales de cualquier naturaleza;
 
 d) Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta;
 
-e) Las personas jurídicas mexicanas de cualquier naturaleza; y
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+e) Las personas morales mexicanas de cualquier naturaleza; y
 
 f) Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
 
@@ -1240,19 +1250,19 @@ El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presiden
 
 > <small>(DEROGADO SEGUNDO PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 59.
 
-El Consejo General sesionará previa convocatoria del Consejero Presidente expedida cuando menos con setenta y dos horas de anticipación tratándose de sesiones ordinarias, y para las sesiones extraordinarias con veinticuatro horas. Para que el Consejo General pueda sesionar, es necesario que estén presentes la mayoría de sus integrantes.
+El Consejo General sesionará previa convocatoria del Consejero Presidente expedida cuando menos con setenta y dos horas de anticipación tratándose de sesiones ordinarias, y para las sesiones extraordinarias con veinticuatro horas. A la convocatoria se acompañará el orden del día propuesto para la sesión. Para que el Consejo General pueda sesionar, es necesario que estén presentes la mayoría de sus integrantes.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Para la preparación del proceso electoral, el Consejo General se reunirá durante el mes de octubre del año previo a aquél en que se celebren las elecciones locales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos una vez al mes.
+En caso de que no se reúna la mayoría a la que se refiere el párrafo anterior, la sesión se realizará dentro de las veinticuatro horas siguientes, con los integrantes del Consejo General que asistan.
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-En el supuesto de que el Consejero Presidente no asista o se ausente de la sesión en forma definitiva, el Consejo General designará a uno de los consejeros presentes para que presida.
+Para la preparación del proceso electoral, el Consejo General se reunirá durante el mes de enero del año en que se celebren las elecciones locales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos una vez al mes.
 
 La Secretaría del Consejo General estará a cargo del Secretario Ejecutivo del Instituto, quien asistirá a las sesiones con voz, pero sin voto. En caso de ausencia a la sesión, sus funciones serán realizadas por alguno de los Directores Ejecutivos que al efecto designe el Consejo General para esa sesión.
 
@@ -1276,9 +1286,9 @@ Cuando el tratamiento de los asuntos del Consejo General así lo requiera, podr�
 
 El Consejo General tiene las atribuciones siguientes:
 
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-I. Aprobar y expedir los procedimientos, lineamientos y demás normatividad necesaria para:
+I. Aprobar y expedir los procedimientos y demás normatividad necesaria para:
 
 a) El buen funcionamiento del Instituto;
 
@@ -1390,55 +1400,65 @@ XXVI. Dictar los acuerdos y resoluciones necesarios para hacer efectivas las ant
 
 ### Capítulo III. De las Comisiones del Consejo
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 62.
 
-El Consejo General contará con Comisiones Permanentes para el desempeño de sus atribuciones y supervisión del desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral del Distrito Federal que auxiliarán al Consejo General en lo relativo a su área de actividades; asimismo, podrá integrar las Comisiones Provisionales que considere necesarias para tareas específicas.
+El Consejo General contará con Comisiones Permanentes para el desempeño de sus atribuciones y supervisión del desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral del Distrito Federal que auxiliarán al Consejo General en lo relativo a su área de actividades, asimismo, podrá integrar las Comisiones Provisionales que considere necesarias para tareas específicas.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Para efectos del presente Código, se entenderá por supervisión la facultad de las Comisiones Permanentes, en el ámbito de su competencia, para vigilar el cumplimiento de programas institucionales que lleven acabo los órganos ejecutivos y técnicos del Instituto.
 
 El Secretario Ejecutivo y los Directores Ejecutivos prestarán el apoyo que requieran las Comisiones para el cumplimiento de las tareas que se les hayan encomendado.
 
 El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico científica de especialistas en las materias en que así lo estime conveniente.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Las Comisiones Permanentes y Provisionales se integrarán por tres Consejeros Electorales, de los cuales uno fungirá como su Presidente.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Durante el proceso electoral, para coadyuvar en las tareas de seguimiento e información, se integrarán a las Comisiones Permanentes de Organización y Geografía Electoral y a la de Capacitación Electoral y Educación Cívica del Consejo General, los Directores Ejecutivos de las áreas correspondientes y un representante de cada Partido Político o Coalición, sólo con derecho de voz.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+En todos los asuntos que les encomienden, las Comisiones deberán presentar un informe, dictamen o proyecto de resolución, según sea el caso. Asimismo, informarán al Consejero Presidente, de los acuerdos y resoluciones que tomen, dentro de las 48 horas siguientes a su aprobación.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Las Comisiones Permanentes, durante el mes de enero de cada año, elaborarán un programa anual de actividades, mismo que será del conocimiento del Consejo General.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Las Comisiones Permanentes y Provisionales, rendirán al Consejo General un informe trimestral de sus labores.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 63.
 
-Las Comisiones se integrarán por tres Consejeros Electorales de los cuales un fungirá como su Presidente y, en su caso, por los representantes de los Partidos Políticos o Coaliciones en los términos del reglamento que al efecto expida el Consejo General.
+Las Comisiones Permanentes con las que contará el Consejo General, son las siguientes:
+
+I. Asociaciones Políticas;
+
+II. Fiscalización;
+
+III. Administración;
+
+IV. Servicio Profesional Electoral;
+
+V. Organización y Geografía Electoral; y
+
+VI. Capacitación Electoral y Educación Cívica.
+
+Las Comisiones, para su eficaz desempeño, podrán contar con el personal técnico que autorice el Consejo General.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 64.
 
-En todos los asuntos que les encomienden, las Comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-Las Comisiones Permanentes se integrarán exclusivamente por Consejeros Electorales. Los Directores Ejecutivos concurrirán a las sesiones cuando sean requeridos por la propia Comisión.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-Durante el proceso electoral para coadyuvar en las tareas de seguimiento e información, se integrarán a las Comisiones Permanentes de Organización Electoral y Capacitación y Educación Cívica del Consejo General, los Directores Ejecutivos de las áreas correspondientes y un representante de cada Partido Político o Coalición.
-
-Las Comisiones permanentes con que contará el Consejo General son las siguientes:
-
-a) Asociaciones Políticas;
-
-b) Fiscalización;
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-c) Administración y del Servicio Profesional Electoral;
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-d) Geografía Electoral y Colaboración Registral;
-
-e) Capacitación Electoral y Educación Cívica; y
-
-f) Organización Electoral;
-
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 1999)</small>
-
-Las Comisiones, para su eficaz desempeño, podrán contar con el personal técnico que autorice el Consejo General.
+Para crear una Comisión Provisional, el Consejo General establecerá en el Acuerdo respectivo el objeto de la misma, el plazo para el cumplimiento del asunto encomendado, que no podrá exceder de un año improrrogable.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1450,149 +1470,161 @@ I. Auxiliar al Consejo General en la supervisión del cumplimiento de las obliga
 
 II. Presentar a la consideración del Consejo General el proyecto de dictamen de pérdida del registro de las Agrupaciones Políticas Locales que se encuentren en cualquiera de los supuestos determinados por el Código;
 
-III. Informar al Consejo General de las irregularidades o incumplimiento de la normatividad aplicable en que hayan incurrido las Asociaciones Políticas, siempre que otro órgano del Instituto Electoral, no tenga competencia específica sobre el asunto;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III. Proponer al Consejo General la investigación de presuntas irregularidades en que hayan incurrido las Asociaciones Políticas, siempre que otro órgano del Instituto Electoral no tenga competencia específica sobre el asunto;
 
 IV. Revisar el expediente y presentar a la consideración del Consejo General, el proyecto de dictamen de las solicitudes de registro de las organizaciones de ciudadanos que pretenden constituirse como Agrupaciones Políticas Locales;
 
-V. Examinar y realizar observaciones a las estimaciones presupuestales que se destinarán a las Asociaciones Políticos, para incorporarlas al anteproyecto de presupuesto anual del Instituto Electoral;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VI. Analizar los anteproyectos sobre las prerrogativas en radio y televisión que gozarán las Asociaciones Políticas;
+V. Presentar a la Junta Ejecutiva opinión sobre las estimaciones presupuestales que se destinarán a los Partidos Políticos, elaboradas por la Dirección Ejecutiva de Asociaciones Políticas, para incorporarlas al anteproyecto de presupuesto anual del Instituto Electoral;
 
-VII. Opinar sobre los proyectos de convenio que se propongan celebrar en materia de Asociaciones Políticas, en lo que se refiere a derechos y obligaciones de las mismas; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VI. Supervisar el cumplimiento del Programa de Vinculación y Fortalecimiento de las Asociaciones Políticas; y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VII. Presentar a la Junta Ejecutiva, opinión sobre el anteproyecto de otorgamiento de prerrogativas en radio y televisión de la que gozarán las Asociaciones Políticas.
 
 VIII. Las demás atribuciones que le confiera este Código.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 66.
 
-La Comisión de Fiscalización del Consejo General tiene a su cargo la revisión de los informes que las Asociaciones Políticas reguladas por este Código, presenten sobre el origen y destino de sus recursos anuales y de campaña, según corresponda, así como para la vigilancia del manejo de sus recursos, además de las atribuciones siguientes:
+La Comisión de Fiscalización, tiene las atribuciones siguientes:
 
-I. Elaborar lineamientos con bases técnicas, para la presentación de los informes del origen y monto de los ingresos que las Asociaciones Políticas reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-II. Establecer lineamientos para que las Asociaciones Políticas lleven el registro de sus ingresos y egresos, y de la documentación comprobatoria sobre el manejo de sus recursos;
+I. Someter a consideración del Consejo General los proyectos de lineamientos de bases técnicas elaborados por la Dirección Ejecutiva de Asociaciones Políticas, respecto a la presentación de los informes del origen y monto de los ingresos que las Asociaciones Políticas reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación;
 
-III. Vigilar que los recursos que sobre el financiamiento ejerzan las Asociaciones Políticas, se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV. Solicitar a las Asociaciones Políticas, cuando lo considere conveniente, rindan informe detallado respecto de sus ingresos y egresos;
+II. Someter a la consideración del Consejo General los proyectos de lineamientos, elaborados por la Dirección Ejecutiva de Asociaciones Políticas, para que las Asociaciones Políticas lleven el registro de sus ingresos y egresos, y de la documentación comprobatoria sobre el manejo de sus recursos;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III. Supervisar que los recursos del financiamiento que ejerzan las Asociaciones Políticas, se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IV. Solicitar a las Asociaciones Políticas, en forma motivada y fundada los informes detallados de sus ingresos y egresos;
+
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
 V. Revisar los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales y del origen y destino de los recursos de campaña de los Partidos Políticos, según corresponda;
 
-VI. Ordenar, en los términos de los acuerdos del Consejo General, la práctica de auditorías directamente o a través de terceros, a las finanzas de las Asociaciones Políticas;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+VI. Ordenar la práctica de auditorías a las finanzas de las Asociaciones Políticas, en los términos de los acuerdos del Consejo General;
+
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
 VII. Ordenar visitas de verificación a las Asociaciones Políticas con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
 
-VIII. Presentar al Consejo General los dictámenes que formulen respecto de las auditorías y verificaciones practicadas;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IX Informar al Consejo General de las irregularidades en que hubiesen incurrido las Asociaciones Políticas, derivadas del manejo de sus recursos; el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento sobre faltas y sanciones;
+VIII. Someter a la consideración del Consejo General los proyectos de dictámenes que formulen respecto de las auditorias y verificaciones practicadas por la Dirección Ejecutiva de Asociaciones Políticas;
 
-X Proporcionar a las Asociaciones Políticas la orientación y asesoría necesarias para el cumplimiento de las obligaciones consignadas en este artículo;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-XI. Intercambiar información con el Instituto Federal Electoral respecto a los informes y revisiones que se realicen en los respectivos ámbitos de competencia, a efecto de verificar el cumplimiento de las normas establecidas por este Código;
+IX. Informar al Consejo General de las presuntas irregularidades en que hubiesen incurrido las Asociaciones Políticas derivadas del manejo de sus recursos así como, por el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento sobre faltas y sanciones;
 
-XII. Opinar sobre los proyectos de convenio que se proponga celebrar en materia de fiscalización; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+X. Someter a la consideración del Consejo General el proyecto de dictamen que elabore la Dirección Ejecutiva de Asociaciones Políticas, respecto de la revisión de los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales y de campaña;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XI. Proporcionar a las Asociaciones Políticas la orientación y asesoría necesarias para el cumplimiento de las obligaciones consignadas en este artículo; y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+XII. Intercambiar, de acuerdo con los convenios que al efecto se celebren, información con el Instituto Federal Electoral respecto a los informes y revisiones que se realicen en los respectivos ámbitos de competencia, a efecto de verificar el cumplimiento de las normas establecidas por este Código;
+
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
 XIII. Las demás que le confiera este Código.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 67.
 
-La Comisión de Administración y del Servicio Profesional Electoral tiene las siguientes atribuciones:
+La Comisión de Administración, tiene las atribuciones siguientes:
 
-I.- En materia de Administración:
+I. Proponer al Consejo General, conforme a las Políticas y los Programas Generales del Instituto, los proyectos de procedimientos administrativos cuya aplicación sea referente a recursos humanos, financieros, materiales, adquisiciones, servicios generales y control patrimonial, que elabore la Dirección Ejecutiva de Administración y Servicio Profesional Electoral;
 
-a) Proponer al Consejo General, conforme a las Políticas y los Programas Generales del Instituto, los proyectos de procedimientos administrativos cuya aplicación sea de carácter general;
+II. Supervisar el cumplimiento del Programa de Modernización, Simplificación y Desconcentración Administrativa del Instituto y los Programas relativos al uso de instrumentos informáticos;
 
-b) Conocer de la operación del Instituto en materia de Finanzas, Recursos Humanos, Adquisiciones y Servicios Generales, emitiendo en su caso, las recomendaciones correspondientes al Secretario Ejecutivo;
+III. Supervisar la operación de sistemas administrativos a cargo de la Dirección Ejecutiva de Administración y Servicio Profesional Electoral, relacionados con la aplicación de los procedimientos a que se refiere la fracción anterior;
 
-c) Conocer de los programas de modernización, simplificación y desconcentración administrativa;
+IV. Remitir a la Junta Ejecutiva su opinión sobre el Programa Operativo Anual y anteproyecto de presupuesto del Instituto; y
 
-d) Revisar el anteproyecto de presupuesto del Instituto y proponer las modificaciones pertinentes;
+V. Las demás que le confiere este Código.
 
-e) Opinar sobre los proyectos de convenio que s e proponga celebrar en materia de Administración; y
-
-f) Las demás que le confiera este Código.
-
-II.- En materia del Servicio Profesional Electoral:
-
-a) Supervisar el cumplimiento de las normas, políticas generales, programas, criterios, lineamientos y procedimientos vigentes en esta materia, conforme a las atribuciones que le confiera el Estatuto respectivo;
-
-b) Aprobar las incorporaciones al Servicio Profesional Electoral;
-
-c) Examinar y aprobar, en su caso, las propuestas de comisiones, licencias y readscripciones de los miembros del Servicio Profesional Electoral, velando siempre por el buen funcionamiento del Instituto;
-
-d) Opinar sobre los proyectos de convenio que se proponga celebrar en materia del Servicio Profesional Electoral; y
-
-e) Las demás que le confiera este Código.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 68.
 
-La Comisión de Geografía Electoral y Colaboración Registral tiene las atribuciones siguientes:
+La Comisión del Servicio Profesional Electoral, tiene las atribuciones siguientes:
 
-I. Supervisar y evaluar el cumplimiento de los programas relativos a la geografía electoral y colaboración registral;
+I. Supervisar el cumplimiento de los Programas de Reclutamiento y Selección del Servicio Profesional Electoral, así como el de Formación y Desarrollo del Servicio Profesional Electoral;
 
-II. Opinar sobre los proyectos de convenio que se proponga celebrar en materia de catálogo general de electores, padrón electoral, seccionamiento, listas nominales de electores y otros relativos;
+II. Supervisar el cumplimiento de políticas generales, programas, criterios, lineamientos y procedimientos vigentes en materia del Servicio Profesional Electoral;
 
-III. Analizar los lineamientos generales para la integración de las unidades territoriales; y
+III. Proponer al Consejo General los procedimientos administrativos en materia del Servicio Profesional Electoral, que elabore la Dirección Ejecutiva de Administración y Servicio Profesional Electoral; y
 
-IV. Las demás que le confiera este Código.
+IV. Las demás que le confiere este Código.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 69.
 
-La Comisión de Organización Electoral tiene las atribuciones siguientes:
+La Comisión de Organización y Geografía Electoral, tiene las atribuciones siguientes:
 
-I. Supervisar y evaluar el cumplimiento de los programas de organización electoral;
+I. Supervisar el cumplimiento del Programa de Organización Electoral;
 
-II. Proponer los diseños y modelos de la documentación y materiales electorales de los procesos electorales y de participación ciudadana, a efecto de someterlos a consideración del Consejo General;
+II. Proponer al Consejo General los diseños y modelos de la documentación y materiales electorales de los procesos electorales y de participación ciudadana que elabore la Dirección Ejecutiva de Organización y Geografía Electoral;
 
-III. Supervisar y evaluar el cumplimiento de los programas de producción y almacenamiento de la documentación y los materiales electorales;
+III. Conocer el contenido y el sistema de información de la estadística de las elecciones y los procesos de participación ciudadana;
 
-IV. Aprobar los criterios para el acondicionamiento de las bodegas de resguardo de la documentación y los materiales electorales;
+IV. Proponer al Consejo General los estudios para actualizar los procedimientos en materia de organización electoral y garantizar un mejor ejercicio del sufragio;
 
-V. Supervisar y evaluar el cumplimiento del programa de distribución de la documentación y los materiales electorales a los Consejos Distritales y a las Mesas Directivas de Casilla;
+V. Supervisar y evaluar el cumplimiento del Programa de Geografía Electoral;
 
-VI. Aprobar el contenido y el sistema de información de la estadística de las elecciones y los procesos de participación ciudadana;
+VI. Revisar y presentar al Consejo General el proyecto de dictamen relativo a la modificación de los ámbitos territoriales en que se divide el Distrito Federal, que formule la Dirección Ejecutiva de Organización y Geografía Electoral; y
 
-VII. Conocer el mecanismo de difusión de la estadística de las elecciones y los procesos de participación ciudadana;
+VII. Las demás que le confiere este Código.
 
-VIII. Supervisar y evaluar los procesos relativos a la preparación y organización de las elecciones y procesos de participación ciudadana;
-
-IX. Promover estudios para actualizar los procedimientos en materia de organización electoral y garantizar un mejor ejercicio del sufragio;
-
-X. Opinar sobre la celebración de convenios de apoyo y colaboración en materia de organización electoral; y
-
-XI. Las demás que le confiera este Código.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 70.
 
-La Comisión de Capacitación Electoral y Educación Cívica tiene las atribuciones siguientes:
+La Comisión de Capacitación Electoral y Educación Cívica, tiene las atribuciones siguientes:
 
-I. Opinar sobre la celebración de convenios en materia de capacitación electoral y educación cívica, así como supervisar su cumplimiento;
+I. Supervisar el Programa de Capacitación Electoral durante los procesos electorales y de participación ciudadana;
 
-II. Proponer al Consejo General los programas en materia de capacitación electoral y educación cívica, así como supervisar su cumplimiento;
+II. Supervisar el Programa de Educación Cívica del Instituto;
 
-III. Revisar los proyectos relativos a la difusión de la cultura política y democrática entre la población;
+III. Supervisar las actividades relacionadas con la promoción del voto y difusión de la cultura democrática;
 
-IV. Proponer al Consejo General la convocatoria para instructores de capacitación, así como supervisar el programa de reclutamiento, selección, capacitación y control de dicho personal;
+IV. Opinar respecto del contenido de materiales de educación cívica, elaborados por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
-V. Estudiar y realizar modificaciones a la actualización y mejora de los materiales educativos que sirvan de apoyo a la capacitación electoral y educación cívica; y
+VI. (SIC) Opinar respecto del contenido de materiales e instructivos de capacitación electoral, elaborados por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
-VI. Las demás que le confiera este Código.
+VII. Proponer al Consejero Presidente la suscripción de convenios en materia de educación cívica; y
+
+VIII. Las demás que le confiere este Código.
 
 ### Capítulo IV. De las atribuciones del Consejero Presidente y Consejeros Electorales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 71.
 
-Corresponden al Consejero Presidente del Consejo General las atribuciones siguientes:
+Corresponden al Consejero Presidente del Consejo General, quien también lo será del Instituto Electoral del Distrito Federal, las atribuciones siguientes:
 
 a) Velar por la unidad y cohesión de las actividades de los órganos del Instituto Electoral del Distrito Federal;
 
@@ -1628,7 +1660,9 @@ k) Remitir al Jefe de Gobierno el proyecto de presupuesto del Instituto Electora
 
 l) Recibir de los Partidos Políticos o Coaliciones, las solicitudes de registro de candidatos, cuyo registro corresponda hacer al Consejo General;
 
-m) Coordinar con el Secretario Ejecutivo los trabajos de los órganos ejecutivos y técnicos del Instituto e informar al respecto al Consejo General;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+m) Convocar y presidir la Junta Ejecutiva del Instituto Electoral del Distrito Federal, y coordinar con el Secretario Ejecutivo los trabajos de los órganos ejecutivos y técnicos del Instituto e informar al respecto al Consejo General;
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1646,31 +1680,35 @@ q) Recibir y turnar los medios de impugnación que se interpongan en contra de l
 
 r) Las demás que le confiera este Código.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 72.
 
 Corresponden a los Consejeros Electorales del Consejo General las atribuciones siguientes:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+I. Cumplir las atribuciones que les señala este Código y los acuerdos del Consejo General;
 
-a) Velar por el cumplimiento de los fines y atribuciones del Instituto Electoral del Distrito Federal y los acuerdos y resoluciones de su Consejo General;
+II. Participar y permanecer hasta su conclusión, en las sesiones del Consejo General e integrar las Comisiones del mismo;
 
-b) Participar en las sesiones del Consejo General e integrar las Comisiones del mismo;
+III. Realizar propuestas al Consejo General para su conocimiento y resolución en el marco de sus atribuciones y de acuerdo con las disposiciones reglamentarias y legales aplicables;
 
-c) Contar con el apoyo y colaboración de las instancias técnicas y ejecutivas, de acuerdo a sus actividades en el Consejo General y sus Comisiones;
+IV. Participar en las actividades institucionales que resulten necesarias para el desahogo de los asuntos competencia del Consejo General y sus Comisiones;
 
-d) Realizar propuestas al Consejo General para su conocimiento y resolución, en el marco de atribuciones del mismo y de acuerdo con las disposiciones reglamentarias y legales aplicables; y
+V. Guardar reserva y discreción de aquellos asuntos, que por razón de sus cargos o comisiones tengan conocimiento, hasta en tanto no se les otorgue el carácter de información pública, o hayan sido resueltos por el Consejo General;
 
-e) Las demás que les confiera este Código.
+VI. Solicitar al Secretario Ejecutivo el apoyo que requieran para el cumplimiento de sus atribuciones en el Consejo General y en sus Comisiones; y
+
+VII. Las demás que le confiere este Código.
 
 ## TITULO TERCERO. De los Organos Ejecutivos y Técnicos
 
 ### Capítulo I. Del Secretario Ejecutivo
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 73.
 
-Para ser Secretario Ejecutivo del Instituto Electoral del Distrito Federal, además de reunir los requisitos que se exigen para ser Consejero Electoral, deberá contar con título de licenciado en derecho, expedido y registrado en los términos de este Código, por lo menos con tres años de antigüedad a la fecha del nombramiento y estará sujeto a las reglas que señala este Código. el Secretario Ejecutivo estará a lo que dispone el régimen de responsabilidades establecido en la Ley de la materia.
+El Secretario Ejecutivo del Instituto Electoral del Distrito Federal además de reunir los requisitos que se exigen para ser Consejero Electoral, deberá contar con título de licenciado en derecho, expedido y registrado en los términos de la ley de la materia, por lo menos con tres años de antigüedad a la fecha del nombramiento, durará en el cargo siete años sin posibilidad de ser reelecto y estará sujeto a las reglas que señale este Código.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1680,7 +1718,9 @@ Son atribuciones del Secretario Ejecutivo las siguientes:
 
 a) Representar legalmente al Instituto Electoral del Distrito Federal y otorgar poderes a nombre del Instituto para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto o para otorgar poderes para dichos efectos, el Secretario Ejecutivo requerirá de la autorización previa del Consejo General;
 
-b) Cumplir los acuerdos del Consejo General;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+b) Acordar con el Consejero Presidente, las acciones necesarias para el cumplimiento de los acuerdos y resoluciones del Consejo General;
 
 c) Informar sobre el cumplimiento de los acuerdos del Consejo General;
 
@@ -1738,51 +1778,129 @@ q) Dar cuenta al Consejo General con los informes que sobre las elecciones recib
 
 r) Proponer al Consejero Presidente del Consejo General el anteproyecto de las Políticas y de los Programas Generales del Instituto Electoral del Distrito Federal;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-s) Prestar el apoyo que requieran las Comisiones del Consejo General para el cumplimiento de las tareas que se les hayan encomendado y ejecutar las decisiones tomadas en las mismas a través de los órganos del Instituto;
+s) Establecer criterios generales para normar el flujo de la comunicación e información institucional de los órganos centrales y desconcentrados del Instituto;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-t) Elaborar los anteproyectos de procedimientos administrativos necesarios para el buen funcionamiento del Instituto; y
+t) Dar seguimiento a los programas institucionales aprobados por el Consejo General e informar al Consejero Presidente de su cumplimiento;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-u) Lo demás que le sean conferidas por este Código y el Consejo General.
+u) Presentar al Consejo General el proyecto de calendario para las elecciones extraordinarias, de acuerdo con las convocatorias respectivas; y
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+v) Las demás que le sean conferidas por este Código.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 74 Bis.
+
+La Junta Ejecutiva del Instituto será presidida por el Presidente del Instituto y se integrará por el Secretario Ejecutivo, quien será el Secretario de la Junta y los Directores Ejecutivos. Sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente del Instituto tendrá voto de calidad.
+
+La Junta se reunirá por lo menos una vez al mes. Las sesiones serán convocadas y conducidas por su Presidente. La definición de la agenda de asuntos a tratar será responsabilidad del Presidente, a propuesta del Secretario de la Junta.
+
+Cuando el tratamiento de los asuntos de la Junta así lo requiera, podrá solicitarse la intervención de funcionarios del Instituto o invitados especiales, con derecho a voz únicamente.
+
+La organización y funcionamiento de la Junta se regirán por el reglamento específico que expida el Consejo General, a propuesta de su Presidente.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 74 Ter.
+
+Las atribuciones de la Junta Ejecutiva serán las siguientes:
+
+I. Elaborar propuestas de modificaciones a las políticas y programas generales del Instituto;
+
+II. Someter a la consideración del Consejo General, por conducto de su Presidente, el Programa Operativo Anual y anteproyecto de presupuesto del Instituto;
+
+III. Aprobar los criterios generales y los procedimientos necesarios para la elaboración del Programa Operativo Anual y anteproyecto de presupuesto del Instituto, a propuesta de la Dirección Ejecutiva de Administración y Servicio Profesional Electoral;
+
+IV. Informar al Consejo General, a través del Secretario Ejecutivo, en forma trimestral, del avance programático – presupuestal y el ejercicio del gasto del Instituto;
+
+V. Proponer al Consejo General los procedimientos administrativos para el funcionamiento del Instituto, a excepción de aquellos que sean competencia de las Comisiones Permanentes de Administración y la del Servicio Profesional Electoral;
+
+VI. Conocer de la operación del Instituto en materia de finanzas, recursos humanos, adquisiciones, servicios generales, recursos materiales y control patrimonial, emitiendo en su caso, las recomendaciones correspondientes a la Dirección Ejecutiva de Administración y Servicio Profesional Electoral;
+
+VII. Revisar los criterios y lineamientos necesarios para el cumplimiento de programas institucionales, que lleven a cabo los órganos ejecutivos y técnicos del Instituto;
+
+VIII. Someter a la consideración del Consejo General, las propuestas de creación de su estructura para el mejor funcionamiento del Instituto así como el Catálogo de Cargos y Puestos;
+
+IX. Proponer al Consejo General los proyectos de reglamentos y demás normatividad para el buen funcionamiento del Instituto;
+
+X. Presentar a la Comisión Provisional, que para el efecto se constituya, el Plan General de Desarrollo Institucional y proponer las modificaciones necesarias;
+
+XI. Aprobar la aplicación de mecanismos y procedimientos de planeación operativa institucional, a propuesta del Secretario Ejecutivo;
+
+XII. Proponer al Consejo General, previa opinión de las Comisiones respectivas, los programas institucionales siguientes:
+
+a) Programa de Modernización, Simplificación y Desconcentración Administrativa del Instituto y los programas relativos al uso de instrumentos informáticos;
+
+b) Programa de Reclutamiento y Selección del Servicio Profesional Electoral y Administrativo del Instituto;
+
+c) Programa de Formación y Desarrollo del Personal del Servicio Profesional Electoral del Instituto;
+
+d) Programa de Capacitación Electoral del Instituto;
+
+e) Programa de Educación Cívica del Instituto;
+
+f) Programa de Organización Electoral del Instituto;
+
+g) Programa de Geografía Electoral del Instituto; y
+
+h) Programa de Vinculación y Fortalecimiento de las Asociaciones Políticas.
+
+XIII. Evaluar el desempeño del Servicio Profesional Electoral;
+
+XIV. Someter a la consideración del Consejo General las propuestas de incorporación, del Personal del Servicio Profesional Electoral y conocer de las comisiones, licencias y readscripciones del Personal del Servicio Profesional Electoral, que provisionalmente haya autorizado el Secretario Ejecutivo; informando de éstas al Consejo General;
+
+XV. Conocer el anteproyecto de dictamen que formule la Dirección Ejecutiva de Organización y Geografía Electoral, relativo a la modificación de los ámbitos territoriales en que se divide el Distrito Federal;
+
+XVI. Revisar el contenido y el sistema de información de la estadística de las elecciones y los procesos de participación ciudadana, que formule la Dirección Ejecutiva de Organización y Geografía Electoral;
+
+XVII. Proponer al Consejo General la estrategia de difusión institucional;
+
+XVIII. Informar al Consejo General, en forma trimestral, del desarrollo de sus actividades, por conducto del Secretario Ejecutivo; y
+
+XIX. Las demás que le confiera este Código y que, en ejercicio de su competencia le asigne el Consejo General.
 
 ### Capítulo II. De las Direcciones Ejecutivas
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 75.
 
-Al frente de cada una de las Direcciones Ejecutivas habrá un Director, quien será nombrado en los términos de este Código. Para ser Director Ejecutivo, se deberán satisfacer los requisitos que para ser Consejero Electoral, salvo los requisitos para ser Consejero Electoral, además de tener título profesional o formación en áreas o disciplinas vinculadas a las funciones del cargo y contar con experiencia en el área correspondiente.
+Al frente de cada una de las Direcciones Ejecutivas habrá un Director, quien será nombrado en los términos de este Código. Para ser Director Ejecutivo se deberán satisfacer los requisitos para ser Consejero Electoral, además de tener título profesional formación en áreas o disciplinas vinculadas a las funciones del cargo y contar con experiencia en el área correspondiente.
+
+Las Direcciones Ejecutivas del Instituto Electoral del Distrito Federal, son las siguientes:
+
+I. Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
+
+II. Dirección Ejecutiva de Asociaciones Políticas;
+
+III. Dirección Ejecutiva de Organización y Geografía Electoral; y
+
+IV. Dirección Ejecutiva de Administración y Servicio Profesional Electoral.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 76.
 
-La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica tiene las atribuciones siguientes:
+La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+a) Elaborar y proponer a la Junta Ejecutiva el anteproyecto del Programa de Capacitación Electoral del Instituto, durante el mes de agosto del año anterior al que deba aplicarse;
 
-a) Elaborar y proponer a la Comisión de Capacitación Electoral y Educación Cívica los programas de educación cívica y capacitación electoral del Instituto;
+b) Elaborar y proponer a la Junta Ejecutiva el anteproyecto del Programa de Educación Cívica del Instituto durante el mes de agosto del año anterior al que deba aplicarse;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+c) Elaborar materiales educativos e instructivos electorales para el desarrollo de los programas institucionales en materia de capacitación electoral y educación cívica y presentarlos a la Comisión de Capacitación Electoral y Educación Cívica para su opinión;
 
-b) Coordinar la ejecución de los programas a que se refiere el inciso anterior;
+d) Llevar a cabo las acciones necesarias para exhortar y motivar a los ciudadanos al cumplimiento de sus obligaciones y el ejercicio de sus derechos político-electorales;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+e) Coordinar todas las actividades de capacitación durante los procesos electorales y de participación ciudadana; y
 
-c) Elaborar materiales educativos e instructivos electorales para el desarrollo de los programas institucionales en la materia;
-
-d) Llevar a cabo las acciones necesarias para exhortar y motivar a los ciudadanos al cumplimiento de sus obligaciones, así como orientarlos en el ejercicio de sus derechos políticos; y
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
-
-e) Coordinar todas las actividades de capacitación durante los procesos de participación ciudadana; y
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-f) Las demás que le confiera este Código y en ejercicio de su competencia le asigne el Consejo General.
+f) Las demás que le confiera este Código.
 
 ###### Artículo 77.
 
@@ -1792,9 +1910,9 @@ La Dirección Ejecutiva de Asociaciones Políticas tiene las atribuciones siguie
 
 a) Tramitar las solicitudes de registro que formulen las organizaciones de ciudadanos que pretendan constituirse como Agrupaciones Políticas Locales y realizar las actividades pertinentes;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-b) Inscribir en el libro respectivo el registro de las Agrupaciones Políticas Locales, así como los convenios de fusión, Frentes, Coaliciones y Candidaturas Comunes;
+b) Inscribir en el libro respectivo el registro de las Agrupaciones Políticas Locales, así como los convenios de Fusión, Frentes, Coaliciones y Candidaturas Comunes;
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1812,37 +1930,41 @@ e) Realizar las actividades para que las Asociaciones Políticas ejerzan sus pre
 
 f) Llevar el libro de registro de los integrantes de los órganos directivos de los Asociaciones Políticas y de sus representantes acreditados ante los órganos del Instituto, así como cerciorarse que las Agrupaciones Políticas Locales mantengan actualizado su padrón de afiliados;
 
-g) Llevar los libros de registro de los candidatos a los puestos de elección popular; y
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+g) Elaborar y proponer a la Junta Ejecutiva el anteproyecto del Programa de Vinculación y Fortalecimiento de las Asociaciones Políticas, durante el mes de agosto del año anterior al que deba aplicarse;
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
-h) Las demás que le confiera este Código y que en ejercicio de su competencia le asigne el Consejo General.
+h) Las demás que le confiera este Código y que en ejercicio de su competencia le asigne el Consejo General;
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+i) Las demás que le confiera este Código.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 78.
 
-La Dirección Ejecutiva de Organización Electoral tiene las atribuciones siguientes:
+La Dirección Ejecutiva de Organización y Geografía Electoral, tiene las atribuciones siguientes:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+a) Elaborar y proponer a la Junta Ejecutiva los anteproyectos de los Programas de Organización y el de Geografía Electoral, durante el mes de agosto del año anterior al que deban aplicarse;
 
-a) Proveer lo necesario para el diseño, el cuidado de la producción, impresión y distribución de la documentación y materiales electorales autorizados, así como los correspondientes a los instrumentos de participación ciudadana previstos en la ley de la materia;
+b) Presentar a la Comisión de Organización y Geografía Electoral los anteproyectos de los diseños y modelos de la documentación y materiales electorales de los procesos electorales y de participación ciudadana;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+c) Revisar la integración de los expedientes que requiera el Consejo General, a fin de que éste efectúe los cómputos que conforme a este Código debe realizar;
 
-b) Revisar la integración de los expedientes que requiera el Consejo General, a fin de que éste, efectúe los cómputos que conforme a este Código debe realizar;
+d) Llevar la estadística de las elecciones del Distrito Federal y proponer al Consejero Presidente el mecanismo para su difusión;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+e) Realizar y someter a la consideración de la Comisión de Organización y Geografía Electoral, los estudios para modernizar y actualizar los procedimientos en materia de organización y garantizar el ejercicio del voto, conforme a las posibilidades presupuestales y técnicas que disponga el Instituto;
 
-c) Llevar la estadística de las elecciones del Distrito Federal y elaborar el mecanismo para su difusión;
+f) Actuar como enlace entre el Registro Federal de Electores y el Instituto Electoral del Distrito Federal, en términos de las disposiciones aplicables del Código de la materia, las acordadas por el Consejo General y las estipuladas en los convenios que al respecto suscriba el Instituto;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+g) Mantener actualizada la cartografía electoral del Distrito Federal, clasificada por distrito electoral, Delegación, unidad territorial y sección electoral;
 
-d) Realizar y someter a la consideración de la Comisión de Organización Electoral, los estudios tendientes a facilitar a los ciudadanos discapacitados y de la tercera edad el ejercicio del voto de manera personal, conforme a las posibilidades presupuestales y técnicas que disponga el Instituto; y
+h) Formular, con base en los estudios que realice, el anteproyecto de dictamen relativo a la división del Distrito Federal en distritos electorales uninominales y del ámbito territorial de los mismos, para remitirlo sucesivamente a la Junta Ejecutiva y a la Comisión de Organización y Geografía Electoral. Los anteproyectos se elaborarán atendiendo a criterios de carácter técnico, geográficos, demográficos y procurando equilibrar el número de electores por distrito; y
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-e) Las demás que le confiera este Código y que en ejercicio de su competencia le asigne el Consejo General.
-
-f) (DEROGADO, G.O. 15 DE MAYO DE 2003)
+i) Las demás que les confiera este Código.
 
 ###### Artículo 79.
 
@@ -1850,55 +1972,65 @@ La Dirección Ejecutiva de Administración y del Servicio Profesional Electoral 
 
 a) Ejercer las partidas presupuestales aprobadas, aplicando las políticas, normas y procedimientos para la administración de los recursos financieros y materiales, así como de la prestación de los servicios generales en el Instituto;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-b) Formular anualmente, en consulta con la Comisión de Administración y del Servicio Profesional Electoral, el Consejero Presidente del Consejo General y el Secretario Ejecutivo, el proyecto de presupuesto del Instituto, de acuerdo con las leyes aplicables;
+b) Integrar el Programa Operativo Anual y con base en él formular el anteproyecto de presupuesto del Instituto, conforme a las leyes y normatividad interna aplicables y presentarlo a la Junta Ejecutiva para su revisión;
 
-c) Establecer y operar los sistemas administrativos para el ejercicio y control presupuestales;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-d) Atender las necesidades administrativas de los órganos del Instituto;
+c) Elaborar y proponer a la Junta Ejecutiva el anteproyecto del Programa de Modernización, Simplificación y Desconcentración Administrativa del Instituto y los anteproyectos de programas relativos al uso de instrumentos informáticos, durante el mes de agosto del año anterior al que deba aplicarse;
 
-e) Presentar al Consejo General, por conducto del Secretario Ejecutivo del lnstituto, un informe anual respecto del ejercicio presupuestal del Instituto;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-f) Cumplir y hacer cumplir las normas y procedimientos del Servicio Profesional Electoral;
+d) Establecer y operar los sistemas administrativos para el ejercicio y control presupuestales;
 
-g) Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal profesional;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-h) Expedir los nombramientos, conjuntamente con el Secretario Ejecutivo de los integrantes del Servicio Profesional Electoral del Instituto, de conformidad con las disposiciones aplicables; e
+e) Atender las necesidades administrativas de los órganos del Instituto;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-i) Operar a través del Centro de Formación y Desarrollo, el Programa de Capacitación de Consejeros Electorales Distritales; y
+f) Presentar a la Junta Ejecutiva, el avance programático presupuestal y del ejercicio del gasto del Instituto;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-j) Las demás que le confiera este Código y que en ejercicio de su competencia le asigne el Consejo General.
+g) Cumplir y hacer cumplir las normas y procedimientos del Servicio Profesional Electoral;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+h) Llevar a cabo el Programa de Reclutamiento y Selección del Servicio Profesional Electoral;
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+i) Expedir, conjuntamente con el Secretario Ejecutivo los nombramientos de los integrantes del Servicio Profesional Electoral del Instituto, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+j) Informar a la Junta Ejecutiva de las vacantes que se originen en el Servicio Profesional Electoral;
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+k) Operar a través del Centro de Formación y Desarrollo, el Programa de Capacitación de Consejeros Electorales Distritales y el Programa de Formación y Desarrollo del Personal del Servicio Profesional Electoral, así como del Personal Administrativo;
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+l) Presentar a las Comisiones de Administración y la del Servicio Profesional Electoral, los anteproyectos de procedimientos administrativos relativos a sus ámbitos de competencia;
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+m) Los tabuladores y las remuneraciones aplicables al personal del Instituto serán aprobados por la Comisión y servirán de base para la elaboración del anteproyecto de presupuesto anual que se presente al Consejo General para su aprobación. En todo caso, no existirán diferencias salariales entre el personal de un mismo rango y nivel, o tratándose del personal administrativo de un mismo puesto;
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+n) Elaborar y proponer a la Junta Ejecutiva los anteproyectos de los Programas de Reclutamiento y Selección del Servicio Profesional Electoral y Administrativo del Instituto; así como el de Formación y Desarrollo del personal del Servicio Profesional Electoral del Instituto, durante el mes de agosto del año anterior al que deba aplicarse; y
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ñ) Las demás que le confiera este Código.
 
 ###### Artículo 80.
 
-La Dirección Ejecutiva de Geografía Electoral y Colaboración Registral, tiene las atribuciones siguientes:
-
-a) Actuar como enlace entre el Registro Federal de Electores y el Instituto Electoral del Distrito Federal, en términos de las disposiciones aplicables del Código de la materia, las acordadas por el Consejo General y las estipuladas en los convenios que al respecto suscriba el Instituto;
-
-b) Coadyuvar con el Registro Federal de Electores en la actualización del Padrón Electoral, la Lista Nominal de Electores y la cartografía electoral, en lo relacionado con la materia del Distrito Federal;
-
-c) Dar seguimiento a la actualización de los instrumentos electorales referidos en el inciso anterior;
-
-d) Administrar el Padrón Electoral y la Lista Nominal de Electores y proporcionarlos a los órganos competentes del Instituto, a los Partidos Políticos y Coaliciones participantes en el proceso electoral, en los términos de las disposiciones aplicables de este Código y los acuerdos que emita el Consejo General;
-
-e) Elaborar, en coordinación con la Unidad de Asuntos Jurídicos, el proyecto de Convenio de Apoyo y Colaboración que en materia de registro de electores se celebre con el Instituto Federal Electoral, a fin de obtener la información y documentación necesaria para el desarrollo de los procesos electorales locales, y presentarlo a consideración del Consejero Presidente y del Secretario Ejecutivo;
-
-f) Elaborar, en coordinación con la Unidad de Asuntos Jurídicos, los proyectos de convenios que en materia de registro de electores se requieran suscribir con las autoridades federales y locales y presentarlos a consideración del Consejero Presidente y del Secretario Ejecutivo;
-
-g) Mantener actualizada la cartografía electoral del Distrito Federal, clasificada por distrito electoral, Delegación, unidad territorial y sección electoral;
-
-h) Coadyuvar con el Registro Federal de Electores en la obtención de la información sobre fallecimientos de los ciudadanos, obtención o pérdida de la ciudadanía, suspensión de los derechos ciudadanos, declaración de ausencia o presunción de muerte u obtención o pérdida de la nacionalidad, estableciendo con las autoridades de los ámbitos federal, local y delegacional la coordinación necesaria;
-
-i) Formular, con base en los estudios que realice, el proyecto de división del Distrito Federal en distritos electorales uninominales y del ámbito territorial de los mismos, para someterlos a la aprobación del Consejo General. Los proyectos se elaborarán atendiendo a criterios de carácter técnico, geográficos, demográficos y procurando equilibrar el número de electores por distrito; y
-
-j) Las demás que le confiera este Código y que en ejercicio de su competencia le asigne el Consejo General.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2003)
 
 > <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1936,13 +2068,13 @@ El Consejo General de igual forma nombrará tres suplentes en orden de prelació
 
 b) Un representante propietario por cada Partido Político o Coalición, quienes sólo tendrán derecho a voz. Los Partidos Políticos o Coaliciones podrán designar un suplente para el caso de ausencia del representante propietario; y
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+c) Un Secretario Técnico Jurídico con derecho a voz.
+
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
-c) Un Secretario con derecho a voz, que será el Director Técnico Jurídico de la Dirección Distrital.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
-Los Consejeros Electorales Distritales tendrán los derechos y obligaciones que se determinen en el reglamento que para tal efecto emita el Consejo General
+Los Consejeros Electorales Distritales tendrán los derechos y obligaciones que se determinen en el reglamento que para tal efecto emita el Consejo General.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -1980,11 +2112,11 @@ g) Tener un modo honesto de vivir, gozar de buena reputación y no haber sido co
 
 El Consejo General publicará una convocatoria para que los ciudadanos que cumplan con los requisitos anteriores, previa entrevista, puedan ser tomados en consideración por la Comisión Especial de dicho Consejo para la integración de los Consejos Distritales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 84.
 
-El Consejero Presidente del Consejo Distrital que corresponda, convocará por escrito a la sesión de instalación durante el mes de noviembre del año previo al de la elección ordinaria.
+El Consejero Presidente del Consejo Distrital que corresponda, convocará por escrito a la sesión de instalación durante la primera semana de febrero del año de la elección ordinaria.
 
 A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes.
 
@@ -2160,25 +2292,27 @@ h) Las demás que disponga este Código y las que le asigne el Consejo Distrital
 
 De las Direcciones de los Distritos Electorales.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 89.
 
-Las Direcciones Distritales son órganos permanentes que se integran por un Coordinador Distrital, que será el Presidente del Consejo Distrital, un Director Técnico Jurídico que será el Secretario del Consejo Distrital, un Director de Organización y Geografía Electoral y un Director de Capacitación Electoral y Educación Cívica.
+Las Direcciones Distritales se integran de manera permanente y exclusiva, por un Coordinador Distrital, que será el Presidente del Consejo Distrital y el encargado de la Organización Electoral, un Secretario Técnico Jurídico, un Director de Capacitación Electoral, Educación Cívica y Geografía Electoral, y dos líderes de proyecto.
 
-Las Direcciones Distritales estarán integradas invariablemente por funcionarios del Servicio Profesional Electoral.
+Durante los procesos electorales y de participación ciudadana, se podrá contratar personal eventual para el desarrollo de las actividades de las Direcciones Distritales.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 90.
 
-Las Direcciones Distritales tendrán, dentro del ámbito de su competencia territorial, las atribuciones siguientes:
+Las Direcciones Distritales tendrán, dentro del ámbito de su competencia territorial, las siguientes atribuciones:
 
 a) Ejecutar los programas relativos a la Geografía Electoral, Organización Electoral, Capacitación Electoral y Educación Cívica;
 
 b) Informar mensualmente al Secretario Ejecutivo, por conducto del Coordinador Distrital, sobre el desarrollo de sus actividades;
 
-c) Por conducto del Director Técnico-Jurídico, tramitar los medios de impugnación que se presenten durante el tiempo que transcurra entre dos procesos electorales, en contra de los actos y resoluciones de la Dirección Distrital;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+c) Tramitar los medios de impugnación que se presenten contra sus propios actos o resoluciones, por conducto del Secretario Técnico Jurídico; y
 
 d) Coordinar los procesos de participación ciudadana en sus respectivos distritos electorales, de conformidad a la ley de la materia y a los acuerdos emitidos por el Consejo General, respecto de esta materia;
 
@@ -2194,21 +2328,9 @@ g) Las demás que les confiera este Código.
 
 Para vigilar la producción y difusión de las actividades del Instituto Electoral del Distrito Federal y de los Partidos Políticos en los medios masivos de comunicación se integrará el Comité de Radiodifusión que será presidido por el Consejero Electoral a cargo de la Comisión del Consejo General de Asociaciones Políticas y fungirá como Secretario técnico el Director de Asociaciones Políticas, así como por un representante de cada Partido Político con facultades de decisión sobre la elaboración de programas de su partido.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
-
 ###### Artículo 92.
 
-El comité técnico especial de Asesoría en materia de registro de Electores, será la instancia de consulta técnica especializada de la Dirección Ejecutiva de Geografía Electoral y Colaboración Registral y tendrá como objeto el que los partidos Políticos y Coaliciones a través de sus representantes técnicos, en conjunto con dicha Dirección Ejecutiva, opinen y den seguimiento a la información que se genere del convenio de apoyo y colaboración en materia de registro de electores, o de geografía electoral que se celebre entre el Instituto Federal Electoral y el Instituto Electoral del Distrito Federal.
-
-Dicho Comité será presidido por el Director Ejecutivo de Geografía Electoral y Colaboración Registral, y se integrará por un representante técnico de cada Partido Político o Coalición que cuente con representación ante el Consejo General del Instituto Electoral del Distrito Federal.
-
-La Comisión de Geografía Electoral y Colaboración Registral podrá:
-
-a) Solicitar al Comité Técnico el desahogo de las consultas que estime convenientes dentro de la esfera de su competencia;
-
-b) Aprobar el programa de trabajo del Comité Técnico; y
-
-c) Supervisar el cumplimiento de las consultas que se formulen en la materia, así como el desarrollo del programa de trabajo.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2003)
 
 ## TITULO SEXTO. De las Mesas Directivas de Casilla
 
@@ -2664,9 +2786,9 @@ Por la naturaleza de la función estatal que tiene encomendada el Instituto Elec
 
 El Instituto Electoral del Distrito Federal podrá determinar el cambio de adscripción o de horario de su personal, cuando por necesidades del servicio se requiera, en la forma y términos que establezcan este Código y el Estatuto.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-El personal de estructura del Instituto Electoral del Distrito Federal, con motivo de la carga laboral que representa el proceso electoral al ser todos los días y horas hábiles, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado.
+El personal de estructura del Instituto Electoral del Distrito Federal, con motivo de la carga laboral que representa el proceso electoral al ser todos los días y horas hábiles, tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen, de acuerdo con el presupuesto autorizado. Los integrantes del Consejo General y la Junta Ejecutiva del Instituto Electoral del Distrito Federal no gozarán del otorgamiento de esta remuneración.
 
 ###### Artículo 133.
 
@@ -2704,17 +2826,19 @@ Durante los procesos electorales y de participación ciudadana todos los días y
 
 Las elecciones ordinarias de Jefe de Gobierno, de Diputados a la Asamblea Legislativa y de Jefes Delegacionales deberán celebrarse el primer domingo de julio del año que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 137.
 
-El proceso electoral ordinario se inicia durante el mes de octubre del año anterior al de la elección y concluye una vez que el Tribunal Electoral del Distrito Federal haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+El proceso electoral ordinario se inicia durante el mes de enero del año de la elección y concluye una vez que el Tribunal Electoral del Distrito Federal haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
-a) Preparación de la elección, que se inicia con la primera sesión que el Consejo General del Instituto Electoral del Distrito Federal celebre durante el mes de octubre del año anterior a aquél en que deban realizarse las elecciones ordinarias y concluye al iniciarse la jornada electoral;
+a) Preparación de la elección, que se inicia con la primera sesión que el Consejo General del Instituto Electoral del Distrito Federal celebre durante el mes de enero del año en que deba de realizarse las elecciones ordinarias y concluye al iniciarse la jornada electoral;
 
 b) Jornada electoral, que se inicia a las 8:00 horas del primer domingo de julio y concluye con la entrega de los paquetes electorales al Consejo Distrital; y
 
@@ -2752,23 +2876,25 @@ En la elección extraordinaria podrá participar el Partido Político que hubies
 
 ### Capítulo III. De los procesos de participación ciudadana
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 140.
 
-En los procesos de participación ciudadana se aplicarán las reglas especiales señaladas por la Ley de Participación Ciudadana del Distrito Federal y se aplicaran en lo conducente las reglas señaladas para el proceso electoral para la preparación, recepción y cómputo de la votación, previstas en el presente Código.
+En los procesos de participación ciudadana se aplicarán para la preparación, recepción y cómputo de la votación, las reglas que para tal efecto establezca la Ley de Participación Ciudadana del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 141.
 
-La etapa de preparación del proceso de participación ciudadana iniciará con la convocatoria respectiva y concluirá con la jornada electoral, el plazo para su realización será de noventa días.
+La etapa de preparación del proceso de participación ciudadana iniciará con la convocatoria respectiva y concluirá con la jornada electoral, el plazo para su realización será de 75 días.
 
 Los plazos para la realización de los procedimientos comprendidos en la etapa de preparación del proceso de participación ciudadana se deberán establecer en la convocatoria respectiva, debiéndose respetar las formalidades de los mismos, sin menoscabo del plazo señalado en el párrafo anterior.
 
 En los procesos de referéndum y plebiscito, el Instituto Electoral del Distrito Federal desarrollará los trabajos de organización, desarrollo de la jornada y cómputo respectivo, declarando los efectos de la consulta de conformidad con lo señalado en la Ley de la materia; asimismo, vigilará que la redacción de las preguntas sea clara, precisa y sin influir de ninguna manera la respuesta.
 
-En los procesos de participación ciudadana, se establecerán centros de votación, considerando su ubicación en el interior del barrio, pueblo, colonia, fraccionamiento o unidad habitacional, de tal manera que queden en lugares céntricos y de fácil acceso.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
+En los procesos de participación ciudadana, se establecerá un centro de votación, considerando su ubicación en el interior de cada unidad territorial, de tal manera que quede en lugares céntricos y de fácil acceso.
 
 Los Partidos Políticos que integran los Consejos del Instituto Electoral del Distrito Federal fungirán como garantes de los procesos de participación ciudadana.
 
@@ -3574,11 +3700,11 @@ Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de
 
 Para estos efectos, el Colegio de Notarios del Distrito Federal publicará, cinco días antes del día de la elección, los nombres de sus miembros y los domicilios de sus oficinas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 185.
 
-Los Consejos Distritales designarán en el mes de mayo del año de la elección, asistentes electorales, de entre los capacitadores electorales y los ciudadanos que hubieren atendido la convocatoria pública expedida por el Consejo General de acuerdo a lo siguiente:
+Los Consejos Distritales designarán, durante la primera semana del mes de junio del año de la elección, asistentes electorales de entre los ciudadanos que hubieren atendido la convocatoria pública expedida por el Consejo General de acuerdo a lo siguiente:
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -5225,3 +5351,17 @@ SEXTO.- El Instituto Electoral deberá expedir su Reglamento Interior durante lo
 SÉPTIMO.- Los actuales Directores del Registro de Electores de cada una de las Direcciones Distritales del Instituto Electoral del Distrito Federal, a partir del 1 de octubre de 2003 ocuparán el cargo de Directores de Geografía Electoral y Organización Electoral. Asimismo, los actuales Directores de Organización Electoral y Capacitación a partir de entrada en vigor del presente decreto ocuparán el cargo de Directores de Capacitación Electoral y, los actuales Secretarios Técnicos Jurídicos de las Direcciones Distritales, ocuparán el cargo de Directores Técnicos Jurídicos.
 
 OCTAVO.- El Consejo General del Instituto Electoral del Distrito Federal, contará con un plazo de 60 días a partir de su entrada en vigor para efectuar el nombramiento del Director Ejecutivo de Geografía Electoral y Colaboración Registral.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+SEGUNDO.- El Instituto Electoral del Distrito Federal, contará con un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para modificar la estructura orgánica del personal del Servicio Profesional Electoral y personal administrativo, así como el Reglamento Interior, de acuerdo a las disposiciones previstas en este Decreto.
+
+TERCERO.- El Consejo General del Instituto Electoral del Distrito Federal contará con un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar la designación del Director Ejecutivo de Organización y Geografía Electoral.
+
+CUARTO.- El Instituto Electoral del Distrito Federal, contará con un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para modificar el Estatuto del Servicio Profesional Electoral, tomando en consideración las reformas previstas al presente Código.
+
+QUINTO.- El Instituto deberá prever la partida presupuestal necesaria para indemnizar aquellos trabajadores que con motivo de la reestructuración administrativa sean afectados por la supresión de la plaza o por haber sido separados de su empleo.
+
+SEXTO.- Se deja sin efecto, todas aquellas disposiciones que se opongan al presente Decreto.
