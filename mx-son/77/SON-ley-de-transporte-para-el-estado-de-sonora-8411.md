@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-8411"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-20"
-last_updated: "1994-12-30"
+last_updated: "2002-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABRPGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL EL 8 DE MARZO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el lunes 20 de julio de 1992.
 
@@ -982,3 +984,45 @@ B.O. 30 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE MARZO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley 120 de Transporte para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, número 6, Sección I, de fecha 20 de julio de 1992; asimismo se deroga la fracción III del artículo 23 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos de otorgamiento y cancelación de concesiones, reubicación de sitio y todos aquellos que tengan por objeto modificación a los términos de concesiones, que se encuentren en trámite a la entrada en vigor de la presente Ley, se resolverán conforme a las disposiciones de la Ley 120 de Transporte para el Estado de Sonora que se abroga.
+
+###### ARTICULO CUARTO.
+
+Una vez que la presente Ley entre en vigor, no se recibirán solicitudes de concesión en tanto no se publique convocatoria pública en los términos que lo previene esta Ley.
+
+###### ARTICULO QUINTO.
+
+El titular del Poder Ejecutivo deberá expedir, dentro del término de ciento ochenta días siguientes a la entrada en vigencia de la presente Ley, el Reglamento del Registro Público de Transporte del Estado y dentro de ciento veinte días, contados a partir de la misma fecha anterior, los Reglamentos de Capacitación, de Inspección y Vigilancia, del Consejo Consultivo del Transporte del Estado de Sonora y del Funcionamiento Interior de la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología creada por disposición de esta Ley.
+
+###### ARTICULO SEXTO.
+
+Las personas a quienes se les haya autorizado concesión para prestar el servicio público de transporte en la modalidad de pasaje, en los sistemas de transporte de trabajadores agrícolas y especializado de personal, así como en la modalidad de carga, deberán presentarse ante la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, dentro del término de noventa días contados a partir de la entrada en vigor del (sic) esta Ley, para llevar a cabo la regularización de sus concesiones, teniendo en cuenta el ámbito territorial de la prestación del servicio que se les haya autorizado, con el entendido de que si no se presentare en el plazo señalado, se revocará su concesión.
+
+###### ARTICULO SEPTIMO.
+
+En tanto se expiden los reglamentos de la materia, las labores de inspección y vigilancia, así como de sanción serán realizadas por la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología. En tanto los Ayuntamientos expiden el reglamento de inspección y vigilancia que regirá su ámbito territorial, la aplicación de sanciones que se originen de las funciones de inspección y vigilancia serán competencia del propio Ayuntamiento.
+
+###### ARTICULO OCTAVO.
+
+Una vez expedidos los reglamentos respectivos, se concede un plazo máximo de treinta días para la instalación del Consejo Consultivo Estatal y los Consejos Consultivos Municipales, a fin de dar efectivo cumplimiento a las disposiciones derivadas de esta Ley.
+
+###### ARTICULO NOVENO.
+
+Hasta en tanto el Congreso del Estado apruebe las tarifas en los términos previstos en esta Ley, se seguirán aplicando las que autorizó la Dirección General de Transporte en los términos de la Ley que se abroga de conformidad con el segundo transitorio de la presente Ley.
+
+###### ARTICULO DECIMO.
+
+Para la implementación en los municipios del Estado del nuevo sistema de transporte público, previsto por el artículo 43, fracción I inciso f), denominado automóvil de alquiler colectivo, se requiere le (sic) elaboración de los estudios técnicos y socioeconómicos previstos en el artículo 9, fracción VIII, de la presente Ley, para los efectos que la misma señala.
