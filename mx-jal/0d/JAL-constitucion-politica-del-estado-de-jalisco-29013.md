@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29013"
 country: "mx"
 rank: "constitucion"
 publication_date: "1824-11-18"
-last_updated: "1824-11-18"
+last_updated: "1830-05-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1824)
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA: 17 DE MAYO DE 1830
 
 Constitución publicada el día 18 del mes de noviembre de 1824.
 
@@ -421,31 +421,21 @@ Octava. Indultar á los delincuentes con arreglo á las leyes.
 
 ### CAPITULO III. Del senado
 
-127. Habrá en el Estado un senado compuesto de cinco vocales propietarios y dos suplentes.
+127. (DEROGADO, 17 DE MAYO DE 1830)
 
-128. Los senadores deben tener las mismas calidades que se requieren para ser diputados, y además la de treinta años cumplidos.
+128. (DEROGADO, 17 DE MAYO DE 1830)
 
-129. No pueden ser senadores los que no pueden ser diputados.
+129. (DEROGADO, 17 DE MAYO DE 1830)
 
-130. El senado se renovará cada dos años por mitad, saliendo la primera vez el menor número de vocales propietarios y un suplente, y en la segunda el mayor número de propietarios y el otro suplente, y así sucesivamente, debiendo salir en la primera ocasión los individuos nombrados últimamente.
+130. (DEROGADO, 17 DE MAYO DE 1830)
 
-131. Ningun senador podrá volver á ser elegido, para servir el propio destino, sino despues de cuatro años de haber cesado en sus funciones.
+131. (DEROGADO, 17 DE MAYO DE 1830)
 
-132. Cuando el Gobernador del Estado asistiere al senado, lo presidirá sin voto, y no concurrirá el vice-gobernador.
+132. (DEROGADO, 17 DE MAYO DE 1830)
 
-133. El secretario del senado lo será uno de sus individuos, en la forma que disponga su reglamento interior.
+133. (DEROGADO, 17 DE MAYO DE 1830)
 
-134. Las atribuciones del senado son:
-
-Primera. Consultar al Gobernador en los asuntos en que pida consejo.
-
-Segunda. Velar sobre el cumplimiento de la Constitucion y las leyes, y dar parte al Congreso de las infracciones que note.
-
-Tercera. Promover el establecimiento y fomento de todos los ramos de prosperidad del Estado.
-
-Cuarta. Proponer ternas para la provision de los empleos en que la ley exija este requisito.
-
-Quinta. Glosar las cuentas de todos los caudales públicos, y presentarlas al Congreso para su último exámen y aprobacion.
+134. (DEROGADO, 17 DE MAYO DE 1830)
 
 ### CAPITULO IV
 
@@ -653,7 +643,9 @@ Sexta. Consultar al gefe de policía en los asuntos en que pida dictámen.
 
 219. Habrá tribunales de primera instancia en todos los lugares del Estado, en que haya ayuntamiento.
 
-220. Los tribunales de primera instancia se compondrán de un alcalde y de dos vecinos nombrados por el ayuntamiento, que se renovarán cada tres meses, pudiendo ser reelegidos los anteriores sin intérvalo alguno por una sola vez.
+> <small>(REFORMADO, 17 DE MAYO DE 1830)</small>
+
+220. Los tribunales de 1ª instancia se compondrán de un alcalde.
 
 221. En los lugares donde haya dos ó mas alcaldes, habrá otros tantos tribunales de primera instancia, formados de un mismo modo, y con iguales facultades en todo el distrito de su respectivo ayuntamiento.
 
@@ -788,3 +780,9 @@ Quinto. Oir las dudas de ley que se ofrezcan á cualquiera de las dos primeras s
 Dado en Guadalajara capital del Estado de Jalisco, á 18 dias del mes de Noviembre del año del Señor de 1824, 4.º de la independencia, 3.º de la libertad y 2.º de la federacion.- Pedro Velez, diputado presidente.- Prisciliano Sánchez.- José María Gil y Mendez.- José Antonio Mendez.- José María Gil y Bravo.- Esteban Huerta.- José María Castillo Portugal.- Vicente Rios.- José María Cervantes.- Santiago Guzman.- Ignacio Navarrete.- José Ignacio Cañedo.- José Esteban de Aréchiga.- Rafael Mendoza.- Urbano Sanroman y Gómez, diputado secretario.- José Justo Corro, diputado secretario.
 
 Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legislativo y Ejecutivo del Estado de Jalisco. 1ª. Serie. Tomo I. Tip. de Manuel Pérez Lete. 1874. Págs. 312-359.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+PUBLICADO, 17 DE MAYO DE 1830
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
