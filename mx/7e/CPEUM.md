@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1931-02-07"
+last_updated: "1931-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1931.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -428,11 +428,11 @@ DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
 
 El territorio nacional comprende el de las partes integrantes de la federación, y además el de las islas adyacentes en ambos mares. Comprende asimismo, la isla de Guadalupe, las de Revillagigedo y la de la Pasión, situadas en el Océano Pacífico.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, Territorio Norte de Baja California, Territorio Sur de Baja California y Territorio de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, y Territorios Norte y Sur de la Baja California.
 
 ###### Art. 44.
 
@@ -443,6 +443,22 @@ El Distrito Federal se compondrá del territorio que actualmente tiene, y en el 
 ###### Art. 45.
 
 Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos; sirviendo de línea divisoria entre los Territorios Norte y Sur de la Baja California, el paralelo 28º, de latitud Norte.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Se amplía la superficie del Estado de Yucatán con una parte del Territorio de Quintana Roo, cuyos límites quedan establecidos como sigue:
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Partiendo del vértice del ángulo formado por la línea que divide los estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE hasta encontrar el paralelo del 19º 30' latitud Norte en la intersección con el meridiano de 89º (longitud Oeste de Greenwich) continuando hacia el Este el mismo paralelo hasta encontrar el meridiano de 87° 50' (longitud Oeste de Greenwich) y de este punto hacia la bahía de La Ascensión en el punto por donde pasa el paralelo de 19º 35', siguiendo después por la costa Norte de la bahía de La Ascensión y todo el litoral del Mar Caribe hasta el Cabo Catoche; continuando hacia el Occidente las costas del Golfo de México hasta la intersección con la actual línea divisoria entre el Estado de Yucatán y el Territorio de Quintana Roo; siguiendo después sobre esta línea divisoria hasta llegar al punto de partida.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Se amplía el territorio del Estado de Campeche, con una parte del Territorio de Quintana Roo, cuyos límites se establecen como sigue:
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Partiendo del vértice del ángulo formado por la línea que divide los Estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE y hacia esta última dirección, hasta la intersección del meridiano de 89º (longitud Oeste de Greenwich) y al paralelo de 19º 30' latitud Norte, siguiendo por este mismo paralelo hacia el Este hasta encontrar el meridiano de 87º 50' (longitud Oeste de Greenwich) y de este punto a la bahía de La Ascensión en el punto interceptado por el paralelo de 19° 35' latitud Norte; de este punto sigue la costa Sur de la bahía de La Ascensión y el litoral Sur del Mar Caribe hasta la frontera con Belice; siguiendo la línea divisoria hasta la desembocadura del río Hondo continuando después por el mismo río y luego la línea divisoria con Belice y Guatemala, hasta encontrar la actual línea divisoria entre el Estado de Campeche y el Territorio de Quintana Roo, y de allí, siguiendo hacia el Norte la misma línea hasta llegar al punto de partida.
 
 ###### Art. 46.
 
@@ -1663,5 +1679,9 @@ D.O.F. 6 DE SEPTIEMBRE DE 1929.
 LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 7 DE FEBRERO DE 1931.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 19 DE DICIEMBRE DE 1931.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
