@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-activo-antes-435"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-03-30"
-last_updated: "1989-03-30"
+last_updated: "1989-06-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=435&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-03-29"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL ACTIVO DE LAS EMPRESAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 1989.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de marzo de 1989.
 
@@ -77,9 +77,13 @@ Las asociaciones o sociedades civiles no estarán obligadas al pago del impuesto
 
 Para los efectos del impuesto son actividades empresariales de las personas físicas, las previstas en el Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+
 ###### ARTICULO 4o.
 
-Para los efectos de la fracción II del artículo 2o. de la Ley, los contribuyentes podrán optar por incluir en el cálculo de la base del impuesto, los bienes de su activo fijo hasta el segundo ejercicio siguiente a aquél en que iniciaron su utilización.
+Los contribuyentes podrán determinar el impuesto conforme a lo establecido por el artículo 2o. de la Ley, considerando como valor del activo en el ejercicio por el que se paga el impuesto, el que correspondió al penúltimo ejercicio inmediato anterior, actualizado.
+
+Se actualizará el valor del activo a que se refiere el párrafo anterior utilizando el factor de actualización del período comprendido entre el mes en que concluya la primera mitad del ejercicio al que corresponda dicho valor y el mes en que termine la primera mitad del ejercicio por el que se deba realizar el pago del impuesto.
 
 ###### ARTICULO 5o.
 
@@ -104,6 +108,12 @@ Cuando para determinar el monto original de la inversión de un bien base de est
 ###### ARTICULO 6o.
 
 Para los efectos del artículo 2o. fracción II de la Ley, las personas físicas, las asociaciones y sociedades civiles que otorguen el uso o goce temporal de inmuebles por los que deban pagar el impuesto podrán determinar el saldo por deducir de las construcciones, considerando que las mismas pierden valor a razón del 5% de su monto original de la inversión, por cada año de calendario transcurrido desde la fecha de adquisición del inmueble o de la terminación de las construcciones, ampliaciones o mejoras, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+
+###### ARTICULO 6o-A.
+
+Para los efectos de lo dispuesto en el artículo 2o. de la Ley, los contribuyentes podrán no incluir en el valor de su activo el que corresponda a los bienes que se utilicen exclusivamente en actividades deportivas, cuando dicha utilización sea hecha sin finalidades de lucro o únicamente por sus socios o miembros, así como los que se empleen en la enseñanza, cuando quien la imparta cuente con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación.
 
 ###### ARTICULO 7o.
 
@@ -131,9 +141,11 @@ Para determinar el impuesto a su cargo, las personas físicas que no realicen ac
 
 Para los efectos del artículo 2o., fracción IV, de la Ley, los contribuyentes deberán valuar los inventarios de materias primas, productos semiterminados o terminados, conforme al método que tengan establecido en su contabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE JUNIO DE 1989)</small>
+
 ###### ARTICULO 12.
 
-Para los efectos de lo dispuesto en el artículo 2o., fracción IV, de la Ley, los contribuyentes que de conformidad con la autorización otorgada por la Secretaría deduzcan el importe de los vegetales conforme enajenen los productos fabricados con ellos, en lugar de deducir las compras de dichos vegetales en los términos del artículo 22, fracción II, de la Ley del Impuesto sobre la Renta, podrán considerar, en vez de los inventarios de los vegetales al inicio y al cierre del ejercicio, la suma de los inventarios de los mismos al día último de cada uno de los meses de su ejercicio, valuados conforme al método que tengan establecido, y el resultado se dividirá entre el número de meses del ejercicio.
+Para los efectos de lo dispuesto en el artículo 2o., fracción IV, de la Ley, los contribuyentes que de conformidad con la opción otorgada por la Secretaría deduzcan el importe de los vegetales conforme enajenen los productos fabricados con ellos, en lugar de deducir las compras de dichos vegetales en los términos del artículo 22, fracción II, de la Ley del Impuesto sobre la Renta, podrán considerar, en sustitución de los inventarios de los vegetales que utilizan como materia prima que tengan al inicio y al cierre del ejercicio, el valor de los inventarios utilizados por el proceso productivo en el ejercicio, dividido entre la mitad del número de meses que comprenda el mismo.
 
 Los contribuyentes que ejerzan la opción prevista en este artículo, deberán dejar de aplicarla, cuando en el impuesto sobre la renta dejen de deducir el importe de los vegetales conforme enajenen los productos fabricados con ellos, y en su lugar deduzcan las compras de dichos vegetales en los términos del artículo 22, fracción II, de la Ley que regula dicho impuesto.
 
@@ -181,6 +193,14 @@ Asimismo los contribuyentes podrán hacer ajustes a los pagos provisionales del 
 
 Los contribuyentes que ejerzan las opciones a que se refieren los párrafos anteriores, únicamente acreditarán contra los pagos provisionales o el del ejercicio del impuesto sobre la renta, el impuesto efectivamente pagado.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+
+###### ARTICULO 19-A.
+
+Quedan relevados de efectuar los pagos provisionales a que se refiere el artículo 7o. de la Ley, los contribuyentes personas físicas que otorguen el uso o goce temporal de inmuebles a personas morales que les retengan el 10% sobre el monto del pago correspondiente, siempre que éstas no hubieran ejercido la opción prevista en el artículo 25 de este Reglamento, así como aquéllos que no están obligados a efectuar pagos provisionales en el impuesto sobre la renta de conformidad con lo dispuesto por el artículo 92 de la Ley del Impuesto sobre la Renta.
+
+En el primero de los supuestos a que se refiere el párrafo anterior, los contribuyentes estarán obligados a pagar el total del impuesto del ejercicio en la declaración anual y podrán acreditar contra el mismo, el impuesto sobre la renta efectivamente pagado que corresponda a los ingresos provenientes por otorgar el uso o goce temporal de inmuebles, determinado este último en los términos del artículo 22, primer párrafo, de este Reglamento.
+
 ###### ARTICULO 20.
 
 Las sociedades mercantiles que en los términos del artículo 57-K, fracción IV de la Ley del Impuesto sobre la Renta, presenten la declaración específica de consolidación del ejercicio, podrán optar por determinar en forma consolidada el impuesto del ejercicio por todas aquellas empresas cuyo resultado fiscal hubiese sido incluido en la referida declaración, de acuerdo con las reglas de carácter general que al respecto dicte la Secretaría.
@@ -195,7 +215,9 @@ Para los efectos del artículo 9o. de la Ley, las personas físicas que otorguen
 
 Tratándose de bienes en copropiedad, podrá el representante común pagar el impuesto por todos los copropietarios, quienes lo podrá acreditar en la proporción que les corresponda, contra el impuesto sobre la renta a su cargo, conforme a lo señalado en el párrafo anterior.
 
-En el caso de asociaciones o sociedades civiles, los integrantes de las mismas podrán acreditar el impuesto del ejercicio pagado por la asociación o sociedad civil, contra la parte del impuesto sobre la renta a su cargo causado por el remanente distribuible que les determine dicha asociación o sociedad en la proporción que, en dicho remanente, represente los ingresos por la concesión del uso o goce temporal de bienes por los que se cause el impuesto.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+
+En el caso de asociaciones o sociedades civiles, los pagos del impuesto efectuados por éstas, provisionales y del ejercicio, podrán acreditarse contra los pagos del impuesto sobre la renta, tanto provisionales que se deban hacer en los términos del artículo 69 de la Ley de la materia, como el anual a cargo de sus integrantes, causado por la parte del remanente distribuible que les determine la asociación o sociedad de que se trate. El acreditamiento del impuesto del ejercicio efectivamente pagado se efectuará en la proporción que, en el remanente distribuible, representen los ingresos por el otorgamiento del uso o goce temporal de bienes por los que se cause el impuesto. El procedimiento y la proporción para operar los acreditamientos a que este párrafo se refiere, serán aplicables también en el caso de que la asociación o sociedad civil realice actividades mercantiles.
 
 ###### ARTICULO 23.
 
@@ -224,6 +246,12 @@ Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, acre
 El acreditamiento a que se refiere el párrafo anterior no podrá exceder del impuesto que por dichos bienes considerados en forma individual se causaría en el ejercicio. La cantidad equivalente al impuesto sobre la renta retenido que se acreditó en los términos de este párrafo, no se considerará como impuesto efectivamente pagado para los efectos del primer párrafo del artículo 9o. de la Ley.
 
 La opción prevista en este artículo se deberá ejercer a partir de la presentación del aviso correspondiente por la persona que use o goce temporalmente los bienes. En el caso de terminación del uso o goce temporal de bienes, la persona que hubiera ejercido la opción, deberá presentar aviso de terminación a más tardar el día último del mes, siguiente a aquél en que éste se realice. Los avisos previstos en este párrafo se deberán presentar ante la autoridad recaudadora del impuesto que corresponda al domicilio de la persona que ejerce la opción, utilizando para ello la forma oficial que para esos efectos apruebe la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 1989)</small>
+
+###### ARTICULO 25-A.
+
+Los contribuyentes cuyo ejercicio fiscal sea irregular, podrán pagar el impuesto en proporción al número de meses que dicho ejercicio represente respecto de los de un ejercicio regular.
 
 ###### ARTICULO 26.
 
@@ -260,3 +288,15 @@ Los contribuyentes que con anterioridad al 1o. de enero de 1989, hubieran estado
 Tratándose de contribuyentes cuyo ejercicio fiscal no coincida con el año de calendario, para los efectos de lo dispuesto por el artículo 9o., segundo párrafo, de este Reglamento, considerarán el 1o. de enero de 1989 como fecha de inicio del ejercicio.
 
 Dado en la residencia del Poder Ejecutivo Federal, a los veintinueve días del mes de marzo de mil novecientos ochenta y nueve.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe Armella.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE MARZO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes del impuesto al activo de las empresas podrán considerar como valor del activo del ejercicio que termine durante 1989 o en 1990, el que correspondió al ejercicio concluido durante 1987 o en 1988, respectivamente, actualizado en los términos de lo dispuesto por el artículo 4o., segundo párrafo, del Reglamento de la Ley del Impuesto al Activo de las Empresas.
