@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2004-12-31"
+last_updated: "2005-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -154,6 +154,14 @@ IX.- Secretaría de Turismo y
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
 
 X.- Secretaría de Contraloría.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2005)</small>
+
+XI.- Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2005)</small>
+
+XII.- Secretaría de Salud.
 
 ###### ARTICULO 14.
 
@@ -775,7 +783,9 @@ IX.- Orientar y estimular las medidas de protección al turismo de acuerdo con l
 
 X.- Promover y facilitar el intercambio y desarrollo turístico dentro del Estado así como en otras entidades federativas y en el extranjero;
 
-XI.- Promover y en su caso, organizar en coordinación con el Sistema de Educación Pública de Hidalgo, con instituciones educativas, dependencias del sector público, Federal, Estatal y Municipal, así como del sector privado la capacitación, investigación y desarrollo tecnológico en materia turística;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2005)</small>
+
+XI.- Promover y en su caso, organizar en coordinación con la Secretaría de Educación Pública, con Instituciones Educativas, Dependencias del Sector Público, Federal, Estatal y Municipal, así como del sector privado, la capacitación, investigación y desarrollo tecnológico en materia turística;
 
 XII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que efectúen las autoridades estatales y municipales y promover la que desarrollen los sectores social y privado en la materia;
 
@@ -848,6 +858,102 @@ XVII.- Informar al Gobernador del Estado sobre el resultado de la evaluación a 
 XVIII.- Proporcionar apoyo técnico a los municipios del Estado que lo soliciten, en caso de que establezcan organismos municipales de contraloría, respecto a la asignación, ejercicio y comprobación del gasto y
 
 XIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2005)</small>
+
+ARTICULO 30 BIS.- A la Secretaría de Educación Pública corresponde el despacho de los siguientes asuntos:
+
+I.- Aplicar y vigilar que el Sistema Educativo Estatal, dé cumplimiento a las disposiciones que señala en materia de educación, la Constitución General de la República, la Constitución Política del Estado, las Leyes Federales, la Ley de Educación para el Estado, y demás disposiciones Legales aplicables en la materia;
+
+II.- Planear, dirigir, coordinar, vigilar y evaluar los Servicios Educativos a cargo del Estado, Municipios, Organismos Descentralizados y Desconcentrados de la Administración Pública Estatal y de los particulares con autorización o reconocimiento de validez oficial de estudios en todos los tipos, niveles y modalidades;
+
+III.- Planear, dirigir, coordinar, vigilar y evaluar las acciones que se realicen en el Estado, en los rubros de cultura, ciencia y tecnología, deporte y radio y televisión, en los términos de la legislación correspondiente,
+
+IV.- Representar al Estado ante todo tipo de Organismo Educativo;
+
+V.- Suscribir y vigilar el cumplimiento de los Acuerdos, Convenios y Contratos, que en materia educativa celebre el Estado con los Gobiernos Federal, Municipales y de otras Entidades Federativas, así como con Instituciones Autónomas y particulares;
+
+VI.- Vigilar que los planteles y servicios que conforman el Sistema Educativo Estatal, observen y cumplan los planes y programas de estudio determinados por la Autoridad competente;
+
+VII.- Desconcentrar y descentralizar funciones y Servicios Educativos, de conformidad con los lineamientos y políticas que establezca el titular del Ejecutivo Estatal;
+
+VIII.- Otorgar, negar o revocar autorización a los particulares para impartir Educación en el Estado, con base en la legislación correspondiente;
+
+IX.- Coordinar y supervisar los procesos para la expedición de boletas de Calificaciones, Constancias, Certificados y Grados Académicos de los estudios efectuados, con base en los requisitos exigidos en cada tipo y Nivel Educativo;
+
+X.- Coordinar y supervisar el Registro de los profesionistas autorizados para ejercer su profesión, de los colegios de profesionistas y de las Instituciones de Educación Superior y Media Superior en el Estado, pertenecientes al Sistema Educativo Nacional, facultadas para expedir títulos profesionales, diplomas de especialidad y/o grados académicos, conforme a la reglamentación correspondiente;
+
+XI.- Vigilar el cumplimiento de los requisitos previstos en la Leyes de la materia para el Ejercicio Profesional;
+
+XII.- Promover la vinculación de las Instituciones Educativas con el Sector Productivo del Estado;
+
+XIII.- Impulsar y fomentar la edición de libros y producción de materiales de apoyo didáctico, comprendiendo medios apropiados en la Lengua Indígena;
+
+XIV.- Atender las necesidades educativas de los grupos étnicos de la Entidad, y promover la incorporación de contenidos regionales de los libros de texto gratuitos en Lengua Indígena;
+
+XV.- Preservar y promover el conocimiento y desarrollo de las Lenguas Náhuatl, Tepehua, y Hñahñú, así como de los valores culturales de los grupos étnicos asentados en la Entidad;
+
+XVI.- Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el Ejercicio de su Profesión, así como promover la realización de actividades que propicien mayor aprecio social por la labor desempeñada por el Magisterio;
+
+XVII.- Coordinar y vigilar la operación de los programas de Becas de acuerdo con los Reglamentos respectivos;
+
+XVIII.- Promover, fomentar y difundir la Investigación Educativa en todos sus tipos, niveles y modalidades, así como la investigación científica, tecnológica y humanística;
+
+XIX.- Conocer y resolver el Recurso Administrativo de Revisión que interpongan en contra de los actos emanados de la Secretaría en materia de Educación, y
+
+XX.- Las demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras Disposiciones aplicables Vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2005)</small>
+
+ARTICULO 30 TER.- A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
+
+I.- Proponer, establecer, conducir, supervisar y evaluar la Política Estatal en Materia de Salud, de conformidad con lo dispuesto en las Leyes General y Estatal de Salud y los Sistemas Nacional y Estatal de Salud, así como con las directrices generales de la Planeación Estatal del desarrollo y en congruencia con las políticas, normas y procedimientos que a nivel nacional determine la Secretaría de Salud;
+
+II.- Proponer al Gobernador del Estado las políticas y los programas de coordinación con las Autoridades Federales y Municipales en Materia de Salud;
+
+III.- Establecer lineamientos y mecanismos de Planeación, Programación, Presupuestación y Evaluación en Materia de Salud;
+
+IV.- Organizar y coordinar el Sistema Estatal de Salud a fin de dar cumplimiento al Derecho a la Protección de la Salud, mismo que está constituido por las Dependencias y Entidades de la Administración Pública Estatal, las personas físicas o morales de los Sectores Social y privado que presten Servicios de Salud;
+
+V.- Vigilar la congruencia y el cumplimiento eficaz de los programas que desarrollen las Dependencias, Entidades y demás integrantes del Sistema Estatal de Salud;
+
+VI.- Proponer la Normatividad que debe regir al Sistema Estatal de Salud, de acuerdo a la Política del Ejecutivo Estatal;
+
+VII.- Apoyar los Programas de Servicios de Salud de las Dependencias, Organismos Desconcentrados y Entidades de la Administración Pública Federal, en los términos de la Legislación aplicable y de las Bases y Acuerdos de Coordinación que se celebren;
+
+VIII.- Representar al Gobierno del Estado ante todo tipo de organismos de salud; debiendo informar de su intervención al Titular del Poder Ejecutivo;
+
+IX.- Estudiar, Proponer, coordinar, ejecutar y vigilar los convenios de coordinación en materia de salud que celebre el Estado con la Federación, Entidades Federales, Estatales y Municipales y cualquier institución privada o social que le permitan cumplir con sus objetivos;
+
+X.- Suscribir y vigilar el cumplimiento de los Acuerdos, Bases, Convenios y Contratos, que en Materia de Salud celebre el Estado con los Gobiernos Federal, Municipales y de otras Entidades Federativas, así como con Instituciones Autónomas y particulares;
+
+XI.- Implementar mecanismos de participación social a Nivel Estatal y Municipal que contribuyan al mejoramiento de los Servicios de Salud en la Entidad;
+
+XII.- Coordinar los Sistemas Estatales de Información y de Planeación en materia de salud;
+
+XIII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades del sector salud, con sujeción a las disposiciones generales aplicables;
+
+XIV.- Ejercer los Actos de Autoridad Sanitaria en virtud de las facultades en Materia de Salubridad general y salubridad local que las leyes le confieren al Titular del Ejecutivo del Estado, vigilando el cumplimiento de la Legislación Sanitaria en el ámbito de su competencia;
+
+XV.- Impulsar la permanente actualización de las disposiciones Legales en Materia Sanitaria;
+
+XVI.- Proponer lineamientos para la coordinación de acciones de atención en las materias de Salubridad General;
+
+XVII.- Proponer esquemas de financiamiento complementario para la atención pública en Materia de Salud y ejercer los actos necesarios para tal fin;
+
+XVIII.- Administrar y operar los fondos y fideicomisos que sean necesarios para el cumplimiento de sus Funciones y atribuciones cuando así lo determine el Gobernador del Estado
+
+XIX.- Gestionar ante los Gobiernos Federal, Estatal y Municipales la disponibilidad de recursos para la operación de los Servicios de Salud en el Estado;
+
+XX.- Establecer en coordinación con las Autoridades Municipales la distribución de funciones a nivel Municipal y Local, en relación con la prestación de servicios de salud;
+
+XXI.- Promover la conformación de Sistemas Municipales de Salud;
+
+XXII.- Impulsar, en los términos de los Convenios que al efecto se suscriban, la descentralización de los servicios de salud a los Municipios;
+
+XXIII.- Estudiar, adoptar y poner en vigor las medidas necesarias para combatir las enfermedades transmisibles y las adicciones, así como la prevención de accidentes, y
+
+XXIV.- Las demás que señalen las disposiciones legales aplicables.
 
 ###### ARTICULO 31.
 
@@ -966,3 +1072,9 @@ P.O. 31 DE DICIEMBRE DE 2004.
 Articulo Primero.- El Presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2005.
+
+PRIMERO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+SEGUNDO.- El Presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
