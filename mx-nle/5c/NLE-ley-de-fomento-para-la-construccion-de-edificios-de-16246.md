@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-para-la-construccion-de-edificios-de-16246"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1983-12-30"
+last_updated: "1984-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO, PARA LA CONSTRUCCION DE EDIFICIOS DE ESTACIONAMIENTO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de diciembre de 1980.
 
@@ -49,7 +49,9 @@ Se declara de interés social la construcción de edificios de estacionamiento, 
 
 4.- Que tengan capacidad para la guarda de cuando menos veinticinco automóviles.
 
-5.- Que se construyan con la aprobación expresa de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado o sus Dependencias competentes.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
+5.- Que se construyan con la aprobación expresa de la Secretaría de Asentamientos Humanos y Planificación o sus dependencias competentes.
 
 ###### ARTICULO 3o.
 
@@ -85,9 +87,11 @@ b) Sobre la inscripción de escrituras constitutivas de empresas, así como sus 
 
 No procederán los beneficios previstos en el Artículo anterior, cuando el edificio de estacionamiento haya sido total o parcialmente construido como resultado de la obligación fijada por las Autoridades de Planificación al aprobar otras construcciones que requieran de estacionamiento.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 5o.
 
-El. plazo de diez años de exención a que se refiere el Artículo 3o. de esta Ley, se computará a partir de la fecha de la terminación del edificio de estacionamiento. La terminación de la obra se acreditará con la certificación de las oficinas de Obras Públicas competentes puesta al reverso de los planos autorizados previamente para iniciarla o mediante inspección que practique la Secretaría de Finanzas y Tesorería General del Estado.
+El plazo de siete años de exención a que se refiere el Artículo 3o. de esta Ley, se computará a partir de la fecha de la terminación del edificio de estacionamiento. La terminación de la obra se acreditará con la participación de la dependencia competente puesta al reverso de los planos autorizados previamente para iniciarla o mediante inspección que practique la Secretaría de Finanzas y Tesorería General del Estado.
 
 ###### ARTICULO 6o.
 
@@ -142,3 +146,7 @@ P.O. 30 DE DICIEMBRE DE 1983.
 PRIMERO:- El presente Decreto entrará en vigor el 1o. de enero de 1984.
 
 SEGUNDO:- Las franquicias municipales que se hubieren otorgado conforme a la presente Ley, continuarán vigentes hasta agotar su término.
+
+P.O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
