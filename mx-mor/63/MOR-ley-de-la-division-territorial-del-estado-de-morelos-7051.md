@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1934-08-26"
+last_updated: "1936-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 1936.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -67,11 +67,11 @@ Corresponden a la jurisdicción del Municipio de Coatlán, los siguientes centro
 
 Corresponden a la jurisdicción del Municipio de Cuautla, los siguientes centros de población: Otilio Montaño, Calderón, Casasano, Cuautla, Cabecera del Municipio Cuautlixco, Hospital, Puxtla, Gabriel Tepepa, Eusebio Jáuregui y Tetelcingo.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1936)</small>
 
 ###### Art. 9.
 
-Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes centros de población: Acapantzingo, Ahuatepec, Ahuacatitlán, Alameda, Amatitlán, Buenavista del Monte, Cantarranas, Cuernavaca, Cabecera del Municipio, Chamilpa, Chapultepec, Chipitlán, El Salto, Felipe Neri, Francisco Leyva, Las Huertas, Ocotepec, Tetela del Monte y Tlaltenango
+Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes centros de población: Acapantzingo, Ahuatepec, Alameda, Amatitlán, Buenavista del Monte, Cantarranas, Cuernavaca Cabecera del Municipio; Chamilpa, Chapultepec, Chipitlán, El Salto, Felipe Neri, Francisco Leyva, Las Huertas, Ocotepec, Pueblo Viejo, Tetela del Monte y Tlaltenango.
 
 ###### Art. 10.
 
@@ -188,3 +188,7 @@ N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECR
 P.O. 26 DE AGOSTO DE 1934.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 1936.
+
+Unico.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
