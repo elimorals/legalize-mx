@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1981-12-29"
+last_updated: "1984-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1984.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -128,7 +128,7 @@ En el segundo caso del artículo 6° el Agente del Ministerio Público presentar
 
 ### CAPITULO II. Competencia
 
-(REFORMADO, D.O.F. 19 DE MARZO DE 1971) (F. DE E., D.O.F. 7 DE MAYO DE 1971)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 9º.
 
@@ -144,15 +144,19 @@ El Ejecutivo, a medida que lo permitan las condiciones económicas de las Delega
 
 ###### ARTICULO 10.
 
-Los Jueces Mixtos de Paz del Primer Partido Judicial y los Jueces Menores Mixtos de los restantes Partidos Judiciales, conocerán en materia penal, en procedimiento sumario, de los delitos que tengan como sanción apercibimiento, caución de no ofender, multa, independientemente de su monto, o prisión cuyo máximo sea de un año. En caso de que se trate de varios delitos, se estará a la pena del delito mayor.
+Los Jueces de Paz conocerán en materia penal, el procedimiento sumario de los delitos que tengan como sanción apercibimiento, caución de no ofender, multa, independientemente de su monto, o prisión, cuyo máximo sea de dos años. En caso de que se trate de varios delitos se estará a la pena del delito mayor.
+
+(REFORMADO, D.O.F. 19 DE MARZO DE 1971) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1984)
 
 Fuera de la competencia a que se refiere el párrafo anterior, los jueces penales conocerán tanto de los procedimientos ordinarios como de los sumarios.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 1984)</small>
 
-Cuando se trate de varios delitos, el juez mixto de paz o menor, en su caso, serán competentes para dictar la sentencia correspondiente, aunque ésta pueda ser mayor de un año de prisión, a virtud de las reglas contenidas en los artículos 58, 64 y 65 del Código Penal.
+Cuando se trate de varios delitos, el juez de paz será competente para dictar la sentencia correspondiente, aunque ésta pueda ser mayor de dos años de prisión, a virtud de las reglas contenidas en los artículos 58, 64 y 65 del Código Penal.
 
-Estas reglas se entienden con la salvedad de los casos de competencia del jurado, señalados en la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+Estas reglas se entienden con la salvedad de los casos de competencia del Jurado, señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 11.
 
@@ -212,9 +216,11 @@ Los tribunales y los jueces podrán imponer las correcciones disciplinarias que 
 
 Cuando la corrección recaiga sobre persona que goce sueldo del Erario, se dará aviso a la Pagaduría respectiva.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 20.
 
-El Ministerio Público en las diligencias de policía judicial y los jueces de paz, sólo podrá imponer por vía de corrección disciplinaria, multas que no excedan de diez pesos. Contra estas correcciones no se admite mas recurso que el de responsabilidad.
+El Ministerio Público, en las diligencias de averiguación previa, sólo podrá imponer, por vía de corrección disciplinaria, multas que no excedan del importe de un día de salario mínimo general vigente en el Distrito Federal. Contra estas correcciones no se admite más recurso que el de responsabilidad.
 
 ###### ARTICULO 21.
 
@@ -270,11 +276,17 @@ Son correcciones disciplinarias:
 
 I. El apercibimiento;
 
-II. La multa de diez a doscientos pesos;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-III. La suspensión hasta por un mes y
+II. Multa por el equivalente a entre uno y quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingresos;
 
-IV. Prisión hasta de quince días.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
+
+III. Suspensión. La suspensión sólo se podrá aplicar a servidores públicos con la duración prevista por la Ley Federal de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
+
+IV. Arresto hasta de treinta y seis horas.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -286,15 +298,23 @@ Las correcciones disciplinarias podrán imponerse de plano en el acto de cometer
 
 Los tribunales o jueces, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio:
 
-I. La multa de cinco hasta cien pesos;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
+
+I. Multa por el equivalente a entre uno y treinta días de salario mínimo vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingresos;
 
 II. El auxilio de la fuerza pública y
 
-III. Prisión hasta por quince días.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1984)</small>
 
-Si fuere insuficiente el apremio se procederá contra el rebelde por el delito de desobediencia.
+III. Arresto hasta de treinta y seis horas.
 
-Los funcionarios a que se refiere el artículo 20 solamente podrán emplear como medios de apremio, multa de uno a cinco pesos, arresto hasta por ocho días y el auxilio de la fuerza pública.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+Los funcionarios a que se refiere el artículo 20 solamente podrán emplear como medios de apremio multa del importe de un día del salario mínimo general vigente en el Distrito Federal, arresto hasta de treinta y seis horas y el auxilio de la fuerza pública.
 
 ###### ARTICULO 34.
 
@@ -762,11 +782,11 @@ V.- Por la prueba de que la persona ofendida se hallaba en situación de poseer 
 
 Estas pruebas serán preferidas en el orden numérico en que se están colocadas, aceptándose las posteriores solo a falta de las anteriores.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 116.
 
-El cuerpo de delito en el fraude, abuso de confianza y peculado, se comprobará por cualquiera de los medios expresados en las fracciones I y II, del artículo anterior, observándose lo que dispone su inciso final.
+El cuerpo del delito en el fraude, abuso de confianza y peculado, se comprobará por cualquiera de los medios expresados en las fraccines(sic) I y II del artículo anterior, observándose lo que dispone su inciso final. Además para el delito de peculado es necesario que se demuestren, por cualquier medio de prueba, los requisitos que acerca del sujeto activo prevenga la ley penal.
 
 ###### ARTICULO 117.
 
@@ -792,9 +812,11 @@ Cualquiera persona que tenga en su poder un instrumento público o privado que s
 
 En todos aquellos delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán, asociadas, las pruebas de inspección judicial y de peritos, sin perjuicio de las demás.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 122.
 
-El cuerpo de los delitos que no tenga señalada prueba especial, se justificará por la comprobación de los elementos materiales de la infracción.
+El cuerpo del delito se tendrá por comprobado cuando se acredite la existencia de los elementos que integran la descripción de la conducta o hecho delictuoso, según lo determina la ley penal. Se atenderá para ello, en su caso, a las reglas especiales que para dicho efecto previene este Código.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -816,13 +838,11 @@ La curación de las personas que hubieren sufrido lesión o enfermedad provenien
 
 Si la persona lesionada o enferma hubiere de estar detenida, su curación deberá tener lugar precisamente en los hospitales públicos y excepcionalmente en sanatorios particulares, cuando la naturaleza de la enfermedad y las disposiciones de esta ley lo permitan.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 127.
 
-Siempre un lesionado o enfermo necesite pronta curación, se solicitarán los servicios de cualquier médico para que la practique, mientras se presenta el médico oficial a quien el primero dará todos los datos que hubiere recogido y que puedan servir para hacer la clasificación probable del hecho.
-
-Cuando a juicio del facultativo sea urgente el traslado de un enfermo o lesionado, se efectuará sin dilación a un hospital público o a un establecimiento particular, si se tratare de alguien que no deba quedar detenido y así lo solicitare.
+Cuando un lesionado necesite pronta atención, cualquier médico que se halle presente o aquél que sea requerido a prestar su atención, debe atenderlo y aún trasladarlo del lugar de los hechos al sitio apropiado para su atención, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de brindarle los primeros auxilios, los siguientes datos: nombre del lesionado; lugar preciso en que fue encontrado y circunstancias en que se hallaba; naturaleza de las lesiones que presente y causas probables que las originaron; curaciones que se le hubieren hecho y lugar preciso en que queda a disposición de la autoridad.
 
 ###### ARTICULO 128.
 
@@ -852,13 +872,19 @@ I. Que el Ministerio Público haya solicitado la detención; y
 
 II. Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 133.
 
-La orden de detención que el juez dicte, se entregará al Ministerio Público.
+En los casos a que se refiere el tercer párrafo del artículo 271 y en todos aquellos en que el delito no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que existan elementos que permitan presumir la existencia de delito y la responsabilidad del inculpado.
+
+La orden de comparecencia y la de detención a que se refiere el precepto anterior, se entregarán al Ministerio Público.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 134.
 
-Siempre que se lleve a cabo una detención en virtud de orden judicial, el agente de la policía que la hubiere verificado está obligado a poner al detenido, sin demora alguna a disposición del juez respectivo, asentando la hora en que comenzó la detención.
+Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, quien la hubiere ejecutado deberá poner al aprehendido, sin demora alguna, a disposición del tribunal respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó, y dando a conocer al aprehendido el derecho que tiene para designar defensor.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -871,6 +897,12 @@ Las personas que se encuentren en estado de ebriedad, bajo el influjo de estupef
 El Ministerio Público evitará que el presunto responsable sea incomunicado. En los lugares de detención del Ministerio Público estará instalado un aparato telefónico para que los detenidos puedan comunicarse con quien lo estimen conveniente.
 
 Los detenidos, desde el momento de su aprehensión, podrán nombrar abogado o persona de su confianza que se encargue de su defensa. A falta de una u otro, el Ministerio Público le nombrará uno de oficio.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+###### ARTICULO 134
+
+2.- Para la aprehensión de funcionarios federales o locales que incurran en la comisión de delitos del orden común, se procederá de acuerdo con lo que dispongan la Ley Federal de Responsabilidades de los Servidores Públicos y las leyes orgánicas y reglamentarias respectivas, sin perjuicio de adoptar las medidas conducentes para evitar que el inculpado se sustraiga a la acción de la justicia. Si aquél intenta hacerlo, lo evitará la autoridad encargada de su vigilancia y solicitará inmediatamente instrucciones a quien esté conociendo del asunto o deba expedir la autorización, ajustándose a las órdenes que de estos órganos reciba.
 
 ### CAPITULO V. Confesión judicial
 
@@ -982,7 +1014,13 @@ Cuando alguna de las partes solicite la diligencia de reconstrucción, deberá p
 
 El cateo solo podrá practicarse en virtud de orden escrita, expedida por la autoridad judicial, en la que se exprese el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse o los objetos que se buscan, a lo que únicamente deberá limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa por la autoridad que practique la diligencia.
 
-Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos, proporcionando a ésta los datos que justifiquen el registro. Si dicha autoridad concede el cateo, enviará al Ministerio Público, una vez practicada la diligencia, el acta correspondiente.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+Cuando durante las diligencias de averiguación previa el Ministerio Público estime necesaria la práctica de un cateo, acudirá al Juez respectivo, solicitando la diligencia, expresando el objeto de ella y los datos que la justifiquen. Según las circunstancias del caso, el juez resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos.
+
+> <small>(REFORMADO[N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+
+Cuando sea el Ministerio Público quien practique el cateo, dará cuenta al Juez con los resultados del mismo
 
 ###### ARTICULO 153.
 
@@ -1224,9 +1262,11 @@ Si el testigo se hallare fuera del territorio jurisdiccional, se le examinará p
 
 Si el testigo se hallare en la misma población, pero tuviere imposibilidad física para presentarse al juzgado, el juez, asistido de su secretario, se trasladará a la casa del testigo a recibirle su declaración.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 202.
 
-Fuera del caso de enfermedad o de imposibilidad física, toda persona está obligada a presentarse al juzgado cuando sea citada. Sin embargo, cuando haya que examinar a los altos funcionarios de la Federación, el juez se trasladará a la habitación u oficina de dichas personas para que declaren, o lo hará por oficio urgente.
+Fuera del caso de enfermedad o de imposibilidad física, toda persona está obligada a presentarse al juzgado cuando sea citada. Sin embargo, cuando haya que examinar a los altos funcionarios de la Federación, quien practique las diligencias se trasladará al domicilio u oficinas de dichas personas para tomarles su declaración o, si lo estima conveniente, solicitará de aquéllos que la rindan por medio de oficio, sin perjuicio de que el interesado, si se le requiere y lo desea, comparezca personalmente.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1452,6 +1492,8 @@ Las presunciones o indicios son las circunstancias y antecedentes que, teniendo 
 
 ### CAPITULO I. Iniciación del procedimiento
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 246.
 
 Los jueces y tribunales apreciarán las pruebas con sujeción a las reglas de este Capítulo.
@@ -1560,9 +1602,11 @@ Los jueces y tribunales, según la naturaleza de los hechos, la prueba de ellos 
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de Policía Judicial
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 262.
 
-Todos los funcionarios de policía judicial están obligados a proceder de oficio a la investigación de los delitos de que tengan noticia, excepto en los casos siguientes:
+Los funcionarios y agentes de policía judicial, así como los auxiliares del Ministerio Público, están obligados a proceder de oficio a la investigación de los delitos del orden común de que tengan noticia, dando cuenta inmediata al Ministerio Público, si la investigación no se ha iniciado directamente por éste. La averiguación previa no podrá iniciarse de oficio en los casos siguientes:
 
 II (SIC). Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si no se ha presentado ésta; y
 
@@ -1592,11 +1636,9 @@ Para las querellas presentadas por personas físicas, será suficiente un poder 
 
 Al iniciar sus procedimientos el Ministerio Público, o la policía judicial, se trasladarán inmediatamente al lugar de los hechos, para dar fe de las personas y de las cosas a quienes hubiere afectado el acto delictuoso y tomarán los datos de las que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas, en caso contrario, para que dentro del término de veinticuatro horas comparezcan a rendir su declaración.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
 ###### ARTICULO 265 Bis.
 
-El Ministerio Público podrá intervenir mediante una instancia conciliatoria cuando acusado y ofendido lo soliciten, para cumplir los fines de la procuración de justicia, en los términos que establezca la Ley.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1984)
 
 ###### ARTICULO 266.
 
@@ -1626,6 +1668,14 @@ También se le recogerán los objetos que se relacionen con el delito y aquellos
 
 Antes de trasladar al presunto reo a la cárcel preventiva, se le tomarán sus generales y se le identificará debidamente, haciéndole saber el derecho que tiene para nombrar defensor. Este podrá, previa la propuesta otorgada ante los funcionarios del Ministerio Público o de la policía que intervengan, entrar al desempeño de su cometido.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+###### ARTICULO 270
+
+Bis.- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, pero no excederá de treinta días, prorrogables por otros treinta días, a solicitud del Ministerio Público.
+
+El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 271.
@@ -1634,7 +1684,9 @@ Si el acusado o su defensor solicitaren la libertad caucional y se tratare de un
 
 En todo caso, el funcionario que conozca de un hecho delictuoso, hará que tanto el ofendido como el presunto responsable sean examinados inmediatamente por los médicos legislas, para que éstos dictaminen, con carácter provisional, acerca de su estado psicofisiológico.
 
-En las averiguaciones que se practiquen por delitos de imprudencia ocasionados con motivo del tránsito de vehículos, siempre que no se abandone a quien hubiese resultado lesionado, no procederá la detención del presunto responsable, si éste garantiza suficientemente ante el Ministerio Público el no substraerse a la acción de la Justicia y, en su caso el pago de la reparación del daño.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+Cuando se trate de delito no intencional o culposo, exclusivamente, y siempre que no se abandone al ofendido, el Ministerio Público dispondrá la libertad del inculpado, sin perjuicio de solicitar su arraigo, si éste garantiza mediante caución suficiente que fije el Ministerio Público no sustraerse a la acción de la justicia, así como el pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Igual acuerdo se adoptará, sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente, cuando el delito merezca pena alternativa o no privativa de libertad.
 
 El Ministerio Público fijará de inmediato la garantía correspondiente, con los elementos existentes en la averiguación previa, una vez que le sea solicitada la libertad del presunto responsable.
 
@@ -1684,7 +1736,7 @@ Tanto el Ministerio Público como la policía se sujetarán a los reglamentos y 
 
 ###### ARTICULO 274.
 
-Tan pronto como los miembros de la policía judicial que se encuentren de turno, tengan conocimiento de la comisión de un delito que se persiga de oficio, levantarán un acta en que consignarán:
+Cuando la Policía Judicial tenga conocimiento de la comisión de un delito que se persiga de oficio, sólo cuando por las circunstancias del caso, la denuncia no puede ser formulada directamente ante el Ministerio Público, levantará una (sic) acta, de la cual informará inmediatamente al Ministerio Público, en la que consignará:
 
 I. El parte de la policía, o en su caso, la denuncia que ante ella se haga, asentando minuciosamente todos los datos proporcionados por uno u otra;
 
@@ -1692,19 +1744,21 @@ II. Las pruebas que suministren las personas que rindan el parte o hagan la denu
 
 III. Las medidas que dictaren para completar la investigación.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 275.
 
-Cuando el delito que se ponga en conocimiento de la policía, sea de aquellos que menciona el artículo 263, una vez recibida la querella y antes de practicar las primeras diligencias, el agente que las reciba, tendrá la obligación de tomar las siguientes providencias:
+Cuando el delito que se ponga en conocimiento de la Policía Judicial sea de aquellos que menciona el artículo 263, aquella orientará al querellante para que acuda a presentar la querella ante el agente del Ministerio Público que corresponda.
 
-I.- Hacer saber al querellante las sanciones en que incurre si se produce con falsedad;
-
-II.- Asentar los datos generales para la identificación de la persona querellante, entre los cuales se contará, en todo caso, la impresión de las huellas digitales al pie del escrito que se presentare; y
-
-III.- Comprobar la personalidad del querellante en los términos establecidos por el artículo 264.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 276.
 
-Cuando el querellante no sepa escribir o, por cualquier motivo, no formule su querella por escrito, el funcionario ante quien se queje tendrá la obligación de levantar el acta correspondiente, que comprenderá, además de los hechos motivo de la queja, los requisitos y datos a que se refiere el artículo anterior.
+Las denuncias y las querellas pueden formularse verbalmente o por escrito, se concretarán en todo caso, a describir los hechos supuestamente delictivos, sin calificarlos jurídicamente y se harán en los términos previstos para el ejercicio del derecho de petición. Cuando la denuncia o querella no reúna los requisitos citados, el funcionario que la reciba prevendrá al denunciante o querellante para que la modifique, ajustándose a ellos, así mismo, se informará al denunciante o querellante dejando constancia en el acta, acerca de la trascendencia jurídica del acto que realiza, sobre las penas en que incurren los que declaran falsamente ante las autoridades, y sobre las modalidades del procedimiento según se trate de delito perseguible de oficio o por querella.
+
+En el caso de que la denuncia o la querella se presenten verbalmente, se harán constar en el acta que levantará el funcionario que la reciba, recabando la firma o huella digital del denunciante o querellante. Cuando se haga por escrito, deberán contener la firma o huella digital del que la presenta y su domicilio.
+
+Cuando el denunciante o querellante hagan publicar la denuncia o la querella, están obligados a publicar también a su costa y en la misma forma utilizada para esa publicación, el acuerdo que recaiga al concluir la averiguación previa, si así lo solicita la persona en contra de la cual se hubiere formulado dicha denuncia o querella y sin perjuicio de las responsabilidades en que aquéllos incurran, en su caso, conforme a otras leyes aplicables.
 
 ###### ARTICULO 277.
 
@@ -1800,9 +1854,19 @@ Recibida la declaración preparatoria, o en su caso, la manifestación del reo d
 
 Todo acusado tendrá derecho a ser asistido en su defensa por sí o por la persona o personas de su confianza. Si fueren varios los defensores, estarán obligados a nombrar un representante común o en su defecto lo hará el juez.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
+###### ARTICULO 296
+
+Bis.- Durante la instrucción, el tribunal que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condicones(sic) económicas y las especiales en que se encontraba en el momento de la comisión del delito; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+
+El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias de hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
+
+La misma obligación señalada en los párrafos precedentes tiene el Ministerio Público durante la averiguación previa y en el curso de la instrucción, para el efecto de hacer, fundadamente, los señalamientos y peticiones que correspondan al ejercitar la acción penal o al formular conclusiones.
+
 ### CAPITULO I. Procedimiento Sumario
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 297.
 
@@ -1834,15 +1898,19 @@ Dictado el auto de formal prisión, el juez ordenará que se identifique al pres
 
 El auto de formal prisión se notificará inmediatamente que se dicte, al acusado si estuviere detenido y al alcaide del establecimiento de detención, al que se dará copia autorizada de la resolución, lo mismo que al preso si la solicitare.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+
+Este auto, el de sujeción a proceso y el de libertad por falta de elementos para procesar, se comunicarán en la misma forma al superior jerárquico del procesado cuando éste sea servidor público.
+
 ###### ARTICULO 300.
 
 El auto de formal prisión es apelable en el efecto devolutivo.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 301.
 
-Cuando por tener el delito únicamente señalada sanción no corporal o pena alternativa, que incluya una no corporal, no pueda restringirse la libertad, el juez dictará el auto de formal prisión para el solo efecto de señalar el delito o delitos por los que se siga el proceso.
+Cuando por la naturaleza del delito o de la pena aplicable, el imputado no deba ser internado en prisión preventiva y existan elementos para suponer que podrá sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juez fundada y motivadamente o éste disponer de oficio, con audiencia del imputado, el arraigo de éste con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del término en que deba resolverse el proceso.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1870,7 +1938,9 @@ El auto de libertad es apelable en el efecto devolutivo.
 
 ###### ARTICULO 305.
 
-Se seguirá procedimiento sumario cuando no exceda de cinco años de prisión la pena máxima aplicable al delito de que se trate. Cuando fueren varios delitos, se estará a la penalidad máxima del delito mayor, observándose, además, lo previsto en el penúltimo párrafo del artículo 10.
+Se seguirá procedimiento sumario cuando se trate de flagrante delito; exista confesión rendida precisamente ante la autoridad judicial; la pena aplicable no exceda en su término medio aritmético, de cinco años de prisión, o sea alternativa o no privativa de libertad. Cuando fueren varios delitos, se estará a la penalidad máxima del delito mayor, observándose además lo previsto en el penúltimo párrafo del artículo 10.
+
+También se seguirá juicio sumario cuando se haya dictado auto de formal prisión o de sujeción a proceso, en su caso, si ambas partes manifiestan en el mismo acto o dentro de los tres días siguientes a la notificación, que se conforman con él y no tienen más pruebas que ofrecer, salvo las conducentes a la individualización de la pena o medida de seguridad y el juez no estime necesario practicar otras diligencias.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -1954,11 +2024,11 @@ Transcurridos o renunciados los plazos a que se refiere el artículo anterior, o
 
 El Ministerio Público, al formular sus conclusiones, hará una exposición sucinta y metódica de los hechos conducentes, propondrá las cuestiones de derecho que de ellos surjan, citará las leyes, ejecutorias o doctrinas aplicables y terminará su pedimento en proposiciones concretas.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 317.
 
-Las conclusiones se presentarán por escrito y podrán ser sostenidas verbalmente en la audiencia principal.
+En las conclusiones, que deberán presentarse por escrito, se fijarán en proposiciones concretas los hechos punibles que se atribuyan al acusado, solicitando la aplicación de las sanciones correspondientes, incluyendo la reparación del daño y perjuicio, con cita de las leyes y de la jurisprudencia aplicables al caso. Estas proposiciones deberán contener los elementos de prueba relativos a la comprobación del cuerpo del delito y los conducentes a establecer la responsabilidad penal.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -1978,9 +2048,11 @@ Las conclusiones definitivas del Ministerio Público sólo pueden modificarse po
 
 Si las conclusiones del Ministerio Público fueren de no acusación o contrarias a las constancias procesales, el Juez, señalando en qué consiste la contradicción, cuando ésta sea el motivo de la remisión, dará vista de ellas con el proceso respectivo al Procurador de Justicia, para que éste las confirme, modifique o revoque.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 321.
 
-Para los efectos del artículo anterior, el Procurador de Justicia oirá el parecer de sus Agentes Auxiliares y decidirá si son o no de confirmarse o modificarse las conclusiones formuladas por el Agente.
+Para los efectos del artículo anterior, el Procurador de Justicia o Subprocurador que corresponda oirán el parecer de los Agentes del Ministerio Público Auxiliares que deben emitirlo, y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverán si son de confirmarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta de los funcionarios primeramente mencionados, se entenderá que las conclusiones han sido confirmadas.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -2926,6 +2998,10 @@ II. Cuando, después de incoado el procedimiento, se descubriere que el delito e
 
 III. En el caso de la última parte del artículo 68 del Código Penal y en los demás en que la Ley ordene expresamente la suspensión del procedimiento.
 
+> <small>(REFORMADO[N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+
+La suspensión fundada en los supuestos de las fracciones I y III, no impide que, a requerimiento del Ministerio Público o del ofendido o de sus representantes, adopte el juzgador medidas precautorias patrimoniales en los términos del artículo 35.
+
 ###### ARTICULO 478.
 
 Lo dispuesto en la fracción I del artículo anterior, se entiende sin perjuicio de que se practiquen todas las diligencias que tiendan a comprobar la existencia del delito, o la responsabilidad del prófugo, y a lograr su captura. Nunca la fuga de un inculpado impedirá la continuación del proceso respecto de los demás responsables del delito que hubieren sido aprehendidos.
@@ -2938,9 +3014,11 @@ Una vez lograda la captura del prófugo, el proceso continuará su curso, practi
 
 Cuando la suspensión se hubiere decretado conforme a la fracción II del artículo 477, el procedimiento continuará tan luego como se llenen los requisitos a que dicha fracción se refiere.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 481.
 
-Para suspender el procedimiento bastará el pedimento del Ministerio Público, hecho con fundamento en los artículos anteriores. El juez lo decretará de plano sin substanciación ninguna.
+Para suspender el procedimiento bastará el pedimento del Ministerio Público, hecho con fundamento en los artículos anteriores. El juez lo decretará de plano sin substanciación alguna. Asimismo se podrá suspender el procedimiento, a petición del inculpado o su representante, dando vista al Ministerio Público.
 
 ### CAPITULO V. Separación de procesos
 
@@ -3294,6 +3372,10 @@ Con el escrito a que se refiere el artículo anterior y con los documentos que s
 
 No compareciendo el demandado o transcurrido el período de prueba en su caso, el juez, a petición de cualquiera de las partes, dentro de tres días oirá en audiencia verbal lo que éstas quisieren exponer para fundar sus derechos, y en la misma audiencia declarará cerrado el incidente que fallará al mismo tiempo que el proceso o dentro de ocho días si en éste ya se hubiere pronunciado sentencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+
+En los casos previstos en las fracciones I y III del artículo 477, se continuará la tramitación del incidente, hasta dictarse sentencia.
+
 ###### ARTICULO 537.
 
 En el incidente sobre responsabilidad civil las notificaciones se harán en los términos prevenidos en el Código de Procedimientos Civiles.
@@ -3338,7 +3420,7 @@ Si el juez lo creyere conveniente, o alguna de las partes lo pidiere, citará a 
 
 ### CAPITULO III. Libertad provisional bajo caución
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 546.
 
@@ -3371,6 +3453,10 @@ Cuando en opinión del Ministerio Público se hayan desvanecido los datos que si
 ###### ARTICULO 551.
 
 En el caso de la fracción II del artículo 547, la resolución que conceda la libertad tendrá los mismos efectos del auto de libertad por falta de méritos, quedando expedita la acción del Ministerio Público para pedir de nuevo la aprehensión del inculpado, si aparecieren nuevos datos que lo ameriten, así como nueva formal prisión del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+
+En el caso de la fracción I del artículo 547, la resolución que concede la libertad, tendrá efectos definitivos y se sobreseerá el proceso.
 
 ### CAPITULO I. De la ejecución de sentencias
 
@@ -3420,7 +3506,7 @@ II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, 
 
 ###### ARTICULO 556.
 
-Todo acusado tendrá derecho a ser puesto en libertad bajo caución, siempre que el máximo de la sanción corporal correspondiente al delito imputado no exceda de cinco años de prisión. En caso de acumulación se deberá atender al máximo de la pena del delito más grave.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado no exceda de cinco años de prisión. El juez atenderá para este efecto a las modalidades y calificativas del delito cometido. En caso de acumulación se atenderá al delito cuya pena sea mayor.
 
 ###### ARTICULO 557.
 
@@ -3447,6 +3533,10 @@ III. El mayor o menor interés que pueda tener el acusado en sustraerse a la acc
 IV. Las condiciones económicas del acusado; y
 
 V. La naturaleza de la garantía que se ofrezca.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+
+Cuando el delito represente un beneficio económico para su autor, o cause a la víctima un daño patrimonial, la garantía será necesariamente, cuando menos, tres veces mayor al beneficio obtenido o al daño y perjuicio causado y quedará sujeta a la reparación del daño y perjuicio que, en su caso, se resuelva.
 
 ###### ARTICULO 561.
 
@@ -4419,3 +4509,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 4 DE ENERO DE 1984.
+
+PRIMERO.- El presente decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los individuos que se encuentren sujetos a proceso al momento de entrar en vigor este Decreto, podrán optar por acogerse a las disposiciones en él contenidas o continuar sometidos a las que se modifican.
