@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-15543"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2001-10-31"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 31 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1999.
 
@@ -2818,3 +2820,61 @@ El presente Decreto entrará en vigor el día primero de diciembre del año dos 
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo Estatal deberá expedir el reglamento para la protección de los no fumadores en el Estado dentro del plazo de 60 días, contados a partir de la publicación de este Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los treinta días naturales, contados a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Salud del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de fecha 31 de diciembre de 1999, mediante decreto número 1255, a partir de que entre en vigencia el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expidan las disposiciones administrativas derivadas de esta ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan, y su referencia a la Ley Estatal de Salud que se abroga, se entienden hechas en lo aplicable a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los ingresos que obtenga la Secretaría de Salud en el rubro de prestación de servicios señalados en los artículos 7º, 22 y 40; así como los que recauden por la expedición de autorizaciones según los artículos 282 y 288 y en general por los derechos que establece la presente Ley, deberán integrarse al paquete de reformas fiscales que anualmente aprueba el H. Congreso del Estado a más tardar durante el mes de diciembre de cada año.
+
+###### ARTÍCULO QUINTO.
+
+Las autorizaciones sanitarias que se hubieren expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, serán válidas hasta su vencimiento. Las autorizaciones sanitarias que se expidan a partir de la vigencia de esta Ley, se otorgarán de acuerdo a sus disposiciones.
+
+###### ARTÍCULO SEXTO.
+
+Las autorizaciones sanitarias expedidas con anterioridad a la vigencia de la presente Ley se considerarán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Continuarán en vigor, el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud en el Estado y el Acuerdo de Coordinación con el propósito de descentralizar el ejercicio de las funciones de Fomento, Control y Regulación Sanitaria en la Entidad, en lo que no se opongan a lo dispuesto por la Ley General de Salud y la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la misma que se abroga, se tramitarán y resolverán conforme a las disposiciones de la citada Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que la Secretaría de Salud, adecue el reglamento correspondiente.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que este Poder Legislativo, emita la Ley que crea la Comisión Estatal de Arbitraje Médico.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor la presente ley, para que Ejecutivo del Estado emita el reglamento del Sistema de Protección Social en Salud en los términos de la Ley General de Salud y de la presente.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los rastros que no cumplan con lo señalado en la fracción II del artículo 222 de esta ley, contarán con un plazo no mayor a dos años para que procedan a su reubicación independientemente del cumplimento de las normas aplicables en materia ambiental.
