@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2003-01-20"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -230,9 +230,11 @@ g).- Invernaderos hidropónicos y equipos integrados a ellos para producir tempe
 
 h).- Oro, joyería, orfebrería, piezas artísticas u ornamentales y lingotes, cuyo contenido mínimo de dicho material sea del 80%, siempre que su enajenación no se efectúe en ventas al menudeo con el público en general.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-i).- Libros y periódicos que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra. Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
+i).- Libros, periódicos y revistas, que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
+
+Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -276,19 +278,89 @@ IV.- La exportación de bienes o servicios, en los términos del artículo 29 de
 
 Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
 
-###### ARTICULO 2o-B.
+###### ARTICULO 2o.-B.
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997) (MODIFICADO EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 20 DE ENERO DE 2003)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 2o-C.
+###### ARTICULO 2o.-C.
 
-Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,602,935.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
+Las personas físicas que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado mediante estimativa del valor de las actividades que practiquen las autoridades fiscales, en lugar de hacerlo en los términos generales que esta Ley establece. Para ello, se aplicará la tasa que corresponda a la cantidad que resulte de aplicar el coeficiente de valor agregado que señala este artículo, al valor estimado de las actividades por las que estén obligados al pago de este impuesto. Las autoridades fiscales tomarán en cuenta los ingresos reportados por los contribuyentes en la declaración informativa que deben presentar para los efectos del impuesto sobre la renta, correspondiente al ejercicio inmediato anterior. La estimativa que se obtenga se dividirá entre doce para obtener el valor de las actividades mensuales estimadas. Para los efectos del cálculo mencionado anteriormente, no se deberá considerar el valor de las actividades a las que se les aplique la tasa del 0%. Los contribuyentes no tendrán derecho al acreditamiento del impuesto al valor agregado.
 
-Asimismo, estarán sujetas a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, el requisito de límite de ingresos a que se refiere el párrafo anterior.
+Tratándose de contribuyentes que inicien actividades, deberán estimar el ingreso mensual de las actividades por las que estén obligados a efectuar el pago del impuesto dentro del mes en que ello ocurra, sin incluir aquellas afectas a la tasa de 0%. Dicha estimativa se mantendrá hasta que se ajuste conforme a lo dispuesto en el párrafo anterior o se de alguno de los supuestos previstos en los apartados que se establecen en este artículo.
 
-Las personas a que se refiere este artículo estarán obligadas a recabar y conservar la documentación comprobatoria de las adquisiciones que efectúen, en los casos en que lo estén de conformidad con lo dispuesto en la Ley del Impuesto sobre la Renta.
+El coeficiente de valor agregado será de 20% tratándose de enajenación y otorgamiento del uso o goce temporal de bienes y de 50% en la prestación de servicios, salvo que la actividad a la que se dediquen los contribuyentes sea alguna de las siguientes:
+
+I. Se aplicará el 6% en la comercialización de petróleo y combustibles de origen mineral.
+
+II. Se aplicará el 20% en los giros siguientes:
+
+a) Fabricación de sombreros de palma y paja.
+
+b) Venta de boletos de teatro.
+
+III. Se aplicará el 22% en los giros siguientes:
+
+a) Fabricación de jabones y detergentes; velas y veladoras.
+
+b) Fabricación de artículos para deportes; confecciones, telas y artículos de algodón; calzado de todas clases; pieles y cueros.
+
+c) Fabricación de muebles de madera; extracción de maderas.
+
+d) Imprenta, litografía y encuadernación.
+
+e) Servicios de molienda de granos y de chiles.
+
+f) Servicios de restaurantes.
+
+g) Servicios de espectáculos en arenas, cines y campos deportivos.
+
+h) Servicios de agencias funerarias.
+
+i) Comercialización de refrescos y cerveza; vinos y licores.
+
+j) Comercialización de jabones y detergentes; velas y veladoras.
+
+k) Comercialización de artículos para deportes; confecciones, telas y artículos de algodón; pieles y cueros.
+
+l) Comercialización de papeles y artículos de escritorio.
+
+ll) Comercialización de joyería, bisutería y relojería.
+
+m) Comercialización de sustancias y productos químicos o farmacéuticos; explosivos.
+
+n) Comercialización de artículos de ferretería y tlapalería; pinturas y barnices; cemento, cal y arena; vidrios y otros materiales para la construcción; fierro y acero.
+
+ñ) Comercialización de llantas y cámaras; piezas de repuesto de automóviles o camiones y otros artículos del ramo, con excepción de sus accesorios.
+
+o) Fabricación de alcohol; perfumes, esencias, cosméticos y otros productos de tocador.
+
+p) Fabricación de papel y artículos de papel.
+
+q) Fabricación de joyería, bisutería y relojería.
+
+r) Fabricación de instrumentos musicales; discos y artículos del ramo.
+
+En el caso de que los contribuyentes se dediquen a dos o más actividades de las señaladas en este artículo, para determinar el impuesto al valor agregado, se aplicará al valor de las actividades por las que estén obligados al pago del impuesto, el coeficiente que corresponda a cada actividad. Para los efectos del cálculo mencionado, no se deberán considerar las actividades a las que se aplique la tasa del 0%.
+
+Las autoridades fiscales establecerán cuotas mensuales, que se calcularán aplicando lo dispuesto en el presente artículo. Dichas cuotas se modificarán en los supuestos a que se refieren los apartados siguientes:
+
+A. Cuando los contribuyentes manifiesten a las autoridades fiscales en forma espontánea que el valor mensual de sus actividades se ha incrementado en el 10% o más respecto del valor mensual estimado por las autoridades fiscales por dichas actividades.
+
+B. Cuando las autoridades fiscales, a través del ejercicio de sus facultades, comprueben una variación superior al 10% del valor mensual de las actividades estimadas.
+
+C. Cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor exceda el 10% del propio índice correspondiente al mes en el cual se haya realizado la última actualización de la cuota.
+
+Los contribuyentes que paguen el impuesto en los términos de este artículo, en lugar de la contabilidad a que se refiere la fracción I del artículo 32 de esta Ley, deberán llevar el registro de sus ingresos diarios efectuando la separación de las actividades por las que deba pagarse el impuesto conforme a los distintos coeficientes de valor agregado que les sean aplicables. Cuando las actividades se encuentren sujetas a tasas diferentes, también deberán efectuar la separación. Así mismo, por las erogaciones que efectúen, deberán contar con comprobantes que reúnan requisitos fiscales.
+
+Los contribuyentes a que se refiere el presente artículo no podrán expedir comprobantes en los que trasladen el impuesto en forma expresa y por separado. En el caso de que se expidan deberán pagar el impuesto en el régimen general de ley a partir del momento en que ello ocurra.
+
+El pago del impuesto determinado conforme a lo dispuesto en el presente artículo deberá realizarse por los mismos periodos y en las mismas fechas en los que se efectúe el pago del impuesto sobre la renta.
+
+Las Entidades Federativas con las que se celebre convenio de coordinación para la administración del impuesto a cargo de los contribuyentes a que se refiere el presente artículo, podrán estimar el valor de las actividades mensuales de los contribuyentes citados y determinar las cuotas correspondientes, con sujeción a lo previsto en este artículo.
+
+Tratándose de los contribuyentes a que se refiere el presente artículo, que realicen actividades afectas a la tasa de 0%, podrán optar por tributar conforme al régimen general de ley.
 
 ###### ARTICULO 2o.- D.
 
@@ -416,7 +488,7 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 Para que sea acreditable en los términos de este artículo el impuesto al valor agregado en la importación de bienes tangibles, cuando se hubiera pagado la tasa del 10%, el contribuyente deberá comprobar que los bienes fueron utilizados o enajenados en la región fronteriza.
 
-###### ARTICULO 4o.- A.
+###### ARTICULO 4o.-A.
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
 
@@ -1901,6 +1973,12 @@ D.O.F. 30 DE DICIEMBRE DE 2002.
 D.O.F. 20 DE ENERO DE 2003.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
+
+SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
