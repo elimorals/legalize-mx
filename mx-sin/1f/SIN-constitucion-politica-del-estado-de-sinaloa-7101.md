@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1953-12-24"
+last_updated: "1953-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1953.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -173,15 +173,19 @@ Ninguna autoridad podrá impedir ni estorbar la verificación de las elecciones,
 
 El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial, y de su organización política y administrativa, el Municipio libre.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+
 ###### Art. 18.
 
-El territorio del Estado se divide política y administrativamente como sigue:
+El Territorio del Estado se divide política y administrativamente como sigue:
 
 I. En dieciséis Municipalidades autónomas a saber:
 
 Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Mocorito, Badiraguato, Culiacán, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
-II. En los distritos judiciales que la Ley Orgánica del Poder Judicial del Estado determine, pudiendo comprender cada uno de ellos una o más Municipalidades enteras.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
+
+II. En los Distritos Judiciales que determine la Ley Orgánica del Poder Judicial del Estado.
 
 III. En los Distritos fiscales que la Ley General de Hacienda del Estado determine, pudiendo comprender cada uno de ellos, una o más Municipalidades enteras.
 
@@ -527,7 +531,7 @@ IX. Actuar en substitución de la Comisión de Glosa, para facilitar las revisio
 
 X. Decretar en caso grave, la traslación provisional de los Poderes del Estado fuera del lugar de su residencia.
 
-XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
+XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción I del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
 
 ###### Art. 51.
 
@@ -861,7 +865,7 @@ La omisión de esta formalidad hace responsables a las autoridades a quienes la 
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 90.
 
@@ -881,49 +885,61 @@ Los particulares podrán impartir la educación a todos sus tipos y grados, con 
 
 ### CAPITULO IV. PODER JUDICIAL
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Cuerpo denominado "Supremo Tribunal de Justicia", en Jueces de Primera Instancia y Menores, y en Jurados de Responsabilidades contra funcionarios y empleados del Estado, Municipios y Organismos Descentralizados, por delitos o faltas oficiales.
+Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo denominado Supremo Tribunal de Justicia, en Jueces de Primera Instancia, Menores y en Tribunales para Menores.
 
 #### SECCION III. DEL JURADO DE RESPONSABILIDADES
 
-> <small>(ADICIONADO, [N. DE E. REFORMADO Y REUBICADO] P.O. 6 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 94.
 
 El Supremo Tribunal de Justicia, se compondrá de tres Magistrados propietarios, tres Suplentes, cinco Supernumerarios y los Interinos que accidentalmente nombre el Congreso o la Diputación Permanente, siendo uno de ellos el Presidente del Tribunal pleno.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 95.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo cuatro años, durante los cuales podrán ser removidos por causa justificada, previo juicio de responsabilidad.
+Los Magistrados del Supremo Tribunal de Justicia sólo podrán ser Privados de sus cargos, cuando observen mala conducta, en los términos del Artículo 98, o previo el juicio de responsabilidad correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1928)</small>
+Son causas de retiro forzoso de los Magistrados del Supremo Tribunal de Justicia:
+
+I. Haber cumplido 70 años de edad;
+
+II. Padecer incapacidad física incurable, o mental aún cuando fuece (sic) parcial o transitoria.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 96.
 
-Para ser Magistrado Propietario o Suplente del Supremo Tribunal de Justicia, se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+I. Ser ciudadano mexicano por nacimiento y ciudadano sinaloense, en pleno ejercicio de sus derechos.
 
-I. Ser ciudadano mexicano por nacimiento y ciudadano sinaloense en pleno goce de sus derechos.
+II. No tener más de 65 años de edad, ni menos de 30 el día de la elección.
 
-II. Ser mayor de treinta años el día de la elección.
+III. Poseer el día la elección, con antigüedad mínima de cinco años título profesional de Abogado, expedido por autoridad o corporación legalmente facultada para ello; y
 
-III. Ser abogado titulado y tener por lo menos cinco años de recibido.
+IV. Ser de notoria buena conducta y haberla observado intachable públicamente.
 
-IV. Ser de buena conducta y haberla observado intachable pública y notoriamente.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 97.
 
-Para los Magistrados Supernumerarios e Interinos, se requieren los mismos requisitos que señala el artículo anterior, con excepción de ser Abogado titulado; bastando que tengan conocimientos en derecho, a juicio de quien los nombre.
+Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado erigido en Colegio Electoral. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos las dos terceras partes del número total de Diputados.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 98.
 
-Los miembros del Supremo Tribunal de Justicia serán electos por el Congreso del Estado, en funciones de Colegio Electoral, y podrán ser reelectos. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de Diputados.
+El Gobernador del Estado podrá pedir al Congreso la destitución, por mala conducta de cualquiera de los Magistrados del Supremo Tribunal de Justicia, y a éste, por igual motivo, la de los Jueces del orden común y Secretarios del Tribunal y de la Sala. Si el Congreso del Estado, o el Supremo Tribunal de Justicia en Pleno, en su caso, por mayoría absoluta de votos, declara justificada la petición, el funcionario acusado quedará privado desde luego de su cargo.
+
+En el Congreso, la destitución se acordará en votación secreta, siendo indispensable que concurra, cuando menos las dos terceras partes del número total de Diputados.
+
+Antes de pedir la destitución de algún funcionario judicial, el Gobernador oirá a éste, a efecto de que pueda apreciar en conciencia la justificac (sic) ón (sic) de tal petición.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 1949)</small>
 
@@ -941,43 +957,51 @@ El cargo de Magistrado del Supremo Tribunal de Justicia del Estado, sólo es ren
 
 Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Supremo Tribunal de Justicia; pero las que excedan de ese tiempo, las concederá el Congreso, o en su defecto, la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+
 ###### Art. 102.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Jueces de 1ª Instancia y Menores, no podrán aceptar ni desempeñar empleo, cargo o comisión de la Federación, del Estado, de los Municipios o de particulares, por los que se disfrute sueldo. Se exceptúan de lo dispuesto en la prohibición que antecede, a los Magistrados que solamente funcionen integrando sala de determinados asuntos; así como cuando los servicios prestados sean en instituciones docentes o de beneficencia.
+Los funcionarios del Poder Judicial del Estado no podrán aceptar ni desempeñar otro cargo, empleo o comisión de la Federación, del Estado, de los Municipios o de particulares, por el que se disfrute sueldo, sin antes separarse de sus cargos mediante licencia, sin goce de sueldo, obtenida con arreglo a la Ley.
+
+La prohibición que antecede no comprende:
+
+I.- Los cargos docentes o en instituciones de beneficencia.
+
+II.- A los Magistrados Suplentes, Supernumerarios e Interinos, cuando solamente integren el Pleno o las Salas del Supremo Tribunal de Justicia en los casos de recusación o excusa. Sin embargo, los Magistrados Suplentes y Supernumerarios podrán continuar ejerciendo las funciones notariales cuando substituyan a los Propietarios en sus faltas que no exceden de seis meses, y la abogacía cuando el período de suplencia no sea mayor de tres meses, y
+
+III.- Las funciones notariales, que podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
 
 ###### Art. 103.
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1949)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 104.
 
-La Ley Orgánica del Poder Judicial reglamentará la administración de Justicia, conforme con las bases fijadas en esta Constitución, y correspondiendo exclusivamente al Supremo Tribunal:
+La Ley Orgánica del Poder Judicial reglamentará el funcionamiento del Pleno de la Sala del Supremo Tribunal de Justicia y de los Juzgados conforme a las bases fijadas en esta Constitución correspondiendo exclusivamente al Supremo Tribunal en Pleno:
 
-I. Conocer de las causas de los altos funcionarios del Estado, a quienes el Congreso haya declarado con lugar a formación de causa, por delitos del orden común.
+I. Conocer de las causas por delitos del orden común contra los altos funcionarios del Estado, previa la declaratoria a que se refiere el artículo 135.
 
-II. Conocer como Jurado de Sentencia, en las causas de los mismos por delitos oficiales.
+II. Conocer como Jurado de sentencia de las acusaciones por delitos oficiales contra los altos funcionarios del Estado.
 
-III. (DEROGADA, P.O. 6 DE AGOSTO DE 1953)
+III. Declarar si ha lugar a formación de causa contra los Jueces de Primera Instancia, Secretarios del Supremo Tribunal y de las salas; y de los Jueces de los Tribunales para Menores.
 
-IV. Conocer y resolver las controversias de cualquier orden, que se suscitaren entre el Estado y cualquiera otra Entidad; entre los Poderes del Estado; entre uno o más Poderes del Estado y los Ayuntamientos, o entre los Ayuntamientos entre sí, con las limitaciones que establece el artículo anterior.
+IV. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí.
 
-V. Conocer en segunda instancia en los negocios que la tengan ante él conforme a las leyes.
+V. Conocer en segunda instancia de los negocios que la tengan ante él conforme a las Leyes.
 
-VI. Conocer de las competencias entre los Jueces del Estado.
+VI. Llamar a los Magistrados Suplentes y Supernumerarios que deban cubrir las faltas de los Propietarios, ya sean absolutas temporales o relativas a determinado negocio, conforme el Artículo 99.
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 1949)</small>
+VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal, de las Salas de los Juzgados y de los Tribunales para Menores.
 
-VII. Llamar a los Magistrados Suplentes y Supernumerarios que deban cubrir las faltas de los Propietarios.
+VIII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial.
 
-VIII. Nombrar los Jueces de 1ª Instancia y Menores y resolver sobre sus licencias o renuncias.
+IX. Conocer de las competencias que se suscitaran entre los distintos juzgados del Estado.
 
-IX. Nombrar y remover libremente a los empleados de su dependencia, concederles licencias y admitirles las renuncias.
+X. Nombrar, cuando lo estime necesario, Visitadores de Juzgados, y
 
-X. Nombrar cuando lo estime necesario, Visitadores de Juzgados.
-
-XI. Formar el reglamento para su gobierno interior.
+XI. Expedir los Reglamentos Interinos del Supremo Tribunal y de los Juzgados.
 
 ###### Art. 105.
 
@@ -985,13 +1009,15 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 ###### Art. 106.
 
-Los Jueces de Primera Instancia y Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su encargo dos años, no pudiendo ser separados unos ni otros sin previo juicio de responsabilidad o por incapacidad para desempeñar sus funciones, en los términos que establezca la Ley Orgánica del Poder Judicial.
+Los Jueces de Primera Instancia y los de los Tribunales para Menores serán nombrados por el Supremo Tribunal de Justicia, en Pleno y durarán tres ños (sic) en el ejercicio de su encargo, al término de los cuales, si fueren reelectos sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el Artículo 98, o previo el juicio de responsabilidad correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+Las disposiciones de este artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 107.
 
-Para ser Juez de Primera Instancia y Menor, se requiere: ser ciudadano mexicano por nacimiento, mayor de edad, abogado titulado o con los conocimientos suficientes de Derecho, a juicio del Supremo Tribunal de Justicia. Siempre será preferido para estos cargos el abogado titulado sobre el que no lo sea.
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de veinticinco años, abogado con título Profesional expedido por autoridad facultada para otorgarlo, y de reconocida buena conducta.
 
 ###### Art. 108.
 
@@ -1001,7 +1027,9 @@ En cada una de las cabeceras de los Distritos Judiciales, a que se refiere la fr
 
 ###### Art. 109.
 
-El Jurado tiene la obligación de resolver por medio de un veredicto, las cuestiones de hecho que con arreglo a la ley respectiva le someta el Juez, en los casos de delitos y faltas oficiales cometidos por los funcionarios y empleados del Estado, Municipios y Organismos Descentralizados.
+Habrá Juzgados Menores en los lugares que determine el Supremo Tribunal conforme a la Fracción VIII del Artículo 104. Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su encargo 2 años, pudiendo ser reelectos. Para ser Juez Menor se requiere: ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y tener los conocimientos jurídicos necesarios.
+
+Los Tribunales para Menores se integrarán, funcionarán y ejercerán jurisdicción en la forma y términos que establezca la Ley Orgánica espectiva (sic).
 
 ### CAPITULO I. DISPOSICIONES DIVERSAS
 
@@ -1075,11 +1103,11 @@ IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerz
 
 Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren es necesario tener los siguientes:
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 I. 25 años cumplidos en la fecha de la elección.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 II. Haber obtenido mayoría de sufragios legales.
 
@@ -1742,3 +1770,29 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de
 P.O. 24 DE DICIEMBRE DE 1953.
 
 UNICO. El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE DICIEMBRE DE 1953.
+
+###### Artículo 1o.
+
+Las anteriores reformas entrarán en vigor treinta días después de su publicación en el Periódico Oficial del Estado, observándose para su inmediata aplicación las reglas siguientes:
+
+a).- Los Actuales Magistrados Propietarios del Supremo Tribunal de Justicia sólo podrán ser privados de sus cargos en los casos a que se refiere el artículo 95;
+
+b).- Los Magistrados Suplentes y Supernumerarios continuarán en el ejercicio de sus cargos hasta concluir el período para el que fueron electos.
+
+###### Artículo 2o.
+
+Diez días antes de la fecha en que se inicie la vigencia de estas reformas, el Supremo Tribunal de Justicia procederá al nombramiento de los Jueces de Primera Instancia, conforme a las disposioiones (sic) de este Decreto.
+
+###### Artículo 3o.
+
+Los Jueces de Primera Instancia actualmente en ejercicio cesarán de su cargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos los designados de acuerdo con las disposiciones de la Constitución.
+
+###### Artículo 4o.
+
+El Supremo Tribunal de Justicia dictará las medidas transitorias necesarias para el inmediato cumplimiento de la presente reforma, en cuanto no está previsto por las mismas o por la Ley Orgánica del Poder Judicial.
+
+###### Artículo 5o.
+
+Mientras no se organicen los Tribunales para Menores, los Jueces de Primera Instancia seguirán conociendo de las infracciones a las Leyes Penales cometidas por menores, en los términos de los Códigos Penal y de Procedimientos Penales vigentes en el Estado.
