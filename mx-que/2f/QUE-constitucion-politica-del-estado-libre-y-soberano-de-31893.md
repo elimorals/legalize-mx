@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1927-12-08"
+last_updated: "1928-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 1927.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 1928.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -943,9 +943,11 @@ Una ley determinará la organización y funcionamiento de las Oficinas de Hacien
 
 Todos los empleados que manejen fondos públicos, deberán caucionar su manejo a satisfacción del Ejecutivo, o del Ayuntamiento en su caso.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1928)</small>
+
 ###### Art. 153.
 
-El año fiscal comenzará el día 1º de julio y terminará el 30 de junio.
+El año fiscal comenzará el día 1º de enero y terminará el día 31 de diciembre.
 
 ### CAPITULO VII
 
@@ -1352,6 +1354,10 @@ P.O. 8 DE DICIEMBRE DE 1927
 ###### Art. 2o.
 
 Esta Ley comenzará a regir desde la fecha de su publicación.
+
+P.O. 5 DE ENERO DE 1928
+
+UNICO.- Esta Ley comenzará a regir el día 1° de enero de 1928.
 
 ###### Art. 2º.
 
