@@ -1,0 +1,90 @@
+---
+title: "LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE VILLA JUAREZ"
+identifier: "SON-ley-que-erige-en-municipio-libre-a-la-comisaria-de-villa-14824"
+country: "mx"
+rank: "ley"
+publication_date: "1996-12-26"
+last_updated: "1996-12-26"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14824&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-son"
+scjn_id: "14824"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "52-III"
+reform_count: "1"
+scjn_last_update: "1997-03-10"
+issue_date: "1996-12-23"
+state: "SON"
+---
+# LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE VILLA JUAREZ
+
+LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE VILLA JUAREZ
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 26 de diciembre de 1996.
+
+EL C. LIC. MANLIO FABIO BELTRONES RIVERA. Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
+
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente
+
+LEY:
+
+NUMERO 253
+
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE:
+
+LEY QUE ERIGE EN MUNICIPIO LIBRE A LA COMISARIA DE VILLA JUAREZ.
+
+###### ARTICULO 1o.
+
+Se erige en Municipio Libre la Comisaría de Villa Juárez.
+
+###### ARTICULO 2o.
+
+El nuevo Municipio se denominará "Benito Juárez" y quedará comprendido dentro de la circunscripción territorial que actualmente abarca la Comisaría de Villa Juárez, y estará constituido por las actuales delegaciones de: Paredón Colorado, Paredoncito, Batevito, Colonia Jecopaco, Agua Blanca, Alfredo B. Bonfil, Sube y baja, Zona Urbana Ejidal Ley Echeverría, y las localidades que actualmente conforman éstas.
+
+###### ARTICULO 3o.
+
+Es cabecera del Municipio Benito Juárez, el poblado conocido actualmente con el nombre de Villa Juárez.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan los artículos 9o. de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio Benito Juárez entre los Municipios de Bavispe y Benjamín Hill; y 13 de la Ley de Hacienda Municipal, para incluir al final de la enumeración del grupo III, el nombre de la municipalidad Benito Juárez.
+
+###### ARTICULO TERCERO.
+
+El Congreso del Estado procederá, en la fecha en que entre en vigor la presente Ley, a nombrar un Concejo Municipal, a propuesta del Ciudadano Gobernador del Estado, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
+
+###### ARTICULO CUARTO.
+
+Para Proveer a la existencia política del Municipio de Benito Juárez, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que se designe y el día 31 de diciembre de 1996, el Gobierno del Estado transferirá los recursos correspondientes.
+
+###### ARTICULO QUINTO.
+
+Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de Villa Juárez, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Etchojoa, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
+
+###### ARTICULO SEXTO.
+
+Los servidores públicos que actualmente se encuentran laborando en la Comisaría de Villa Juárez, continuarán en sus funciones pasando a formar parte, respetándoseles todos sus derechos laborales, de la nueva Administración, sin perjuicio de las facultades y atribuciones que le corresponden al de gobierno municipal.
+
+###### ARTICULO SEPTIMO.
+
+Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal, procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Etchojoa, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
+
+###### ARTICULO OCTAVO.
+
+Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Etchojoa y los programas de él derivados.
+
+Comuníquese al Ejecutivo para su sanción y promulgación. SALON DE SESIONES DEL H. CONGRESO DEL ESTADO, Hermosillo, Sonora, a 23 de diciembre de 1996.- DIPUTADO PRESIDENTE.- C. SERGIO CUELLAR YESCAS.- RUBRICA.- DIPUTADO SECRETARIO.- C. JOSE RUBEN MORENO VALDEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. MIGUEL ANGEL OCEJO MORALES.- RUBRICA.-
+
+POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO. Hermosillo, Sonora, a veinticuatro de diciembre de mil novecientos noventa y seis.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
