@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-9735"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-18"
-last_updated: "1998-11-21"
+last_updated: "1999-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 18 de diciembre de 1993.
 
@@ -77,11 +77,37 @@ VIII.- 20% de los ingresos que perciba el Estado por concepto de incentivo por l
 
 IX.- 20% de los ingresos que correspondan al Estado, derivado de participaciones en el Impuesto Federal sobre Automóviles Nuevos.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 3o.
 
-Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, VI, VIII y IX del artículo anterior, se aplicarán en proporción directa al número de habitantes que tenga cada Municipio, en el Ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
+Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, VI, VIII y IX del artículo anterior, integrarán el Fondo Estatal de Participaciones a Municipios, el cual se distribuirá conforme a lo siguiente:
+
+I.- El 10% del mismo por partes iguales a los 43 Municipios.
+
+II.- El 70% en proporción directa al número de habitantes que tenga cada Municipio, en el ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
+
+III.- El 20% restante, mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos, conforme a la siguiente fórmula:
+
+CE = Ai / TA
+
+Donde :
+
+CE = Coeficiente de participación del municipio "i" en el año para el que se efectúa el cálculo.
+
+Ai = Monto de la recaudación del impuesto predial en el municipio "i" en el año inmediato anterior para el cual se efectúa el calculo.
+
+TA = La suma de la recaudación que por el impuesto predial hayan obtenido todos los Municipios del Estado.
+
+Para efectos de la formula anterior se entiende por recaudación de predial el monto efectivamente cobrado del Impuesto a la Propiedad Urbana, Suburbana y Rústica durante el ejercicio de que se trate, sin incluir accesorios.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 3 BIS.- Durante los tres primeros meses de cada ejercicio, las participaciones en el Fondo Estatal de Participaciones a Municipios a que se refiere el primer párrafo del articulo anterior, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+
+En el mes de abril, el Estado realizará un ajuste sobre las participaciones pagadas durante los meses de enero a marzo, efectuando el cálculo con los coeficientes que se determinen con la información que al efecto proporcionen los Municipios sobre la recaudación de predial que hayan obtenido en el ejercicio inmediato anterior. Dicha información será proporcionada por los Municipios a la Secretaría de Finanzas y Administración, a mas tardar el último día del mes de febrero de cada año, certificada por la Contaduría Mayor de Hacienda del H. Congreso del Estado.
+
+El Estado, dentro de los dos meses siguientes, aplicará las cantidades que hubiera afectado provisionalmente al Fondo y formulará de inmediato las liquidaciones o descuentos que procedan.
 
 ###### ARTICULO 4o.
 
@@ -97,21 +123,21 @@ Para lo establecido en la fracción V del mismo artículo se estará a lo dispue
 
 Las participaciones que corresponden a los Municipios respecto a los derechos de prevención y control a la contaminación del medio ambiente, se distribuirán en proporción a la recaudación que por el mismo se obtenga en cada uno de ellos, en los términos del Convenio de Colaboración que hubieren celebrado con el Estado.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 7.
 
 Las participaciones que correspondan a los Municipios en los términos de esta Ley, se calcularán para cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+La Secretaría de Finanzas y Administración, una vez determinada la asignación mensual que le corresponda a la Entidad en el Fondo General, en el Fondo de Fomento Municipal y las correspondientes a la recaudación del Impuesto Especial Sobre Producción y Servicios e Impuesto Sobre Automóviles Nuevos previstos en la Ley Federal de Coordinación Fiscal, integrará el Fondo Estatal de Participaciones a Municipios y calculará las participaciones que correspondan a cada Municipio, de conformidad con el artículo 3 de esta Ley, procediendo a pagárselas dentro de los primeros cinco días hábiles del mes siguiente a aquél al que corresponda el cálculo. En igual sentido se procederá cuando se tengan cuantificados los importes a participar por concepto del Impuesto sobre Tenencia o Uso de Vehículos y los Derechos de Prevención y Control de la Contaminación del Medio Ambiente.
 
-La Secretaría de Hacienda del Estado, una vez determinada la asignación mensual que le corresponda a la Entidad en el Fondo General, en el Fondo de Fomento Municipal y las correspondientes a la recaudación del impuesto especial sobre producción y servicios previstos en la Ley Federal de Coordinación Fiscal determinará las participaciones que correspondan a cada Municipio y procederá a pagárselas dentro de los primeros cinco días hábiles del mes siguiente a aquél al que corresponda la determinación. En igual sentido procederá cuando tenga cuantificados los importes recaudados por concepto del Impuesto sobre Tenencia o uso de Vehículos y los derechos de prevención y control de la contaminación del medio ambiente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 8o.
+###### ARTICULO 8.
 
-Las participaciones que corresponden a los Municipios son inembargables y no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los mismos, con autorización del Congreso del Estado.
+Las participaciones que correspondan a los Municipios son inembargables y no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por ellos, con autorización del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
-
-No estarán sujetos a lo dispuesto en el párrafo anterior, las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes o de descuentos en las participaciones en ingresos federales determinados de conformidad con lo que establece la Ley Federal de Coordinación Fiscal. Así como los anticipos que reciban a cuenta de las participaciones que les corresponda en los términos de la presente Ley.
+No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes o de descuentos en las participaciones de los ingresos federales que integran el Fondo Estatal de Participaciones a Municipios, determinados de conformidad con lo que establece la Ley Federal de Coordinación Fiscal. Así como los anticipos que reciban a cuenta de las participaciones que les corresponda en los términos de la presente Ley.
 
 ###### ARTICULO 9o.
 
@@ -132,6 +158,10 @@ a).- Sobre propiedad urbana, suburbana y rústica;
 b).- Sobre Adquisición de Inmuebles, ajustándose a los términos de la Coordinación Fiscal con la Federación; y,
 
 c).- Sobre plusvalía y mejoría de la propiedad particular.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+d).- Sobre Espectáculos Públicos.
 
 II.- Derechos.
 
@@ -197,6 +227,10 @@ b).- Reasignaciones del gasto derivadas del Presupuesto de Egresos de la Federac
 
 IX.- Otros ingresos que conforme a las disposiciones legales, convenios y acuerdos les correspondan.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 11 BIS.- En los convenios de colaboración administrativa que se celebren entre el Estado y los Municipios o los Municipios entre sí, se podrán establecer los incentivos económicos que fijarán de común acuerdo las partes, de conformidad con las acciones que les corresponda realizar y el costo de las mismas.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 12.
@@ -244,3 +278,25 @@ P.O. 21 DE NOVIEMBRE DE 1998
 ###### Artículo UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1 de Enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Los porcentajes establecidos en las fracciones I, II y III del Articulo 3 de esta Ley, se aplicarán a partir del 1 de Enero del año 2005, por lo que durante los años del 2000 al 2004 se aplicarán los porcentajes determinados conforme a la siguiente tabla:
+
+2000 2001 2002 2003 2004
+
+Fracción I 10% 10% 10% 10% 10%
+
+Fracción II 80% 78% 76% 74% 72%
+
+Fracción III 10% 12% 14% 16% 18%
+
+###### ARTICULO TERCERO.
+
+Para lo dispuesto en el segundo párrafo del artículo 3 Bis, el coeficiente provisional para los meses de enero a marzo del año 2000, se calculará con la información de la recaudación de predial del año 1998 que se haya considerado por la Secretaría de Hacienda y Crédito Público, para la determinación de las participaciones del Fondo de Fomento Municipal.
