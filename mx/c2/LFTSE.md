@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1980-01-15"
+last_updated: "1983-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -62,15 +62,13 @@ Los trabajadores se dividen en dos grupos: de confianza y de base.
 
 Son trabajadores de confianza:
 
-I.- Aquellos cuyo nombramiento o ejercicio requiera la aprobación expresa del Presidente de la República;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1983)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+I. Los que integran la planta de la Presidencia de la República y aquéllos cuyo nombramiento o ejercicio requiera la aprobación expresa del Presidente de la República;
 
-II.- En el Poder Ejecutivo: los Directores y Subdirectores Generales: Jefes y Subjefes de Departamento o Instituto; Tesoreros y Subtesoreros; Cajeros Generales; Contralores; Contadores y Subcontadores Generales; Procuradores y Subprocuradores Fiscales; Gerentes y Subgerentes; Intendentes; encargados directos de adquisiciones y compras; Inspectores de Impuestos, derechos, productos y aprovechamientos y de servicios públicos no educativos; Inspectores y personal técnico adscrito a los Departamentos de Inspección y Auditorías; Auditores y Subauditores Generales; Jueces y Arbitros; Investigadores Científicos; Consultores y Asesores Técnicos; Vocales; Consejeros Agrarios; Presidentes y Oficiales Mayores de Consejos, Juntas y Comisiones; Secretarios de Juntas, Comisiones o Asambleas; Directores Industriales; Presidentes de las Juntas de Conciliación y Arbitraje; Conciliadores e Inspectores de Trabajo; Delegados; miembros de Comisiones Especiales, Intersecretariales e Internacionales; Secretarios Particulares en todas sus categorías; los que integran la planta de la Secretaría de la Presidencia; empleados de las Secretarías Particulares o Ayudantías autorizadas por el Presupuesto; Jefes de Servicios Federales que no desempeñen labores que correspondan a plazas de base. Empleados de servicios auxiliares destinados presupuestalmente a la atención directa y personal de altos funcionarios de confianza; Director de la Colonia Penal de Islas Marías; Director de los Tribunales y de los Centros de Investigación para Menores; Jefe de la Oficina Documentadora de Trabajadores Emigrantes; Jefe de la Oficina del Instituto Nacional de Estudios Históricos de la Revolución Mexicana; Agentes de los Servicios de Información Política y Social; Jefes y Subjefes de Servicios Federales y encargados de Agencias del servicio de población; Jefes de Oficinas Federales de Hacienda; Administradores y Visitadores de Aduanas; Comandantes del Resguardo Aduanal; Agentes Hacendarios; Investigadores de Crédito; Directores y Subdirectores de Hospitales y Administradores de Asistencia; Jefes de Servicios Coordinados Sanitarios; Directores Médicos y Asistenciales; Agentes Generales de Agricultura y Ganadería y de Industria y Comercio; Investigadores de Industria y Comercio; Visitadores Generales; Procuradores Agrarios y Auxiliares de Procurador Agrario; Gerentes y Superintendentes de Primera a Cuarta en Obras de Riego; Capitanes de Embarcación o Draga; Patrones o Sobrecargos que estén presupuestalmente destinados a unidades; Capitanes de Puerto; Directores y Subdirectores de las Escuelas Normales del Distrito Federal y del Instituto Politécnico Nacional.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1983)</small>
 
-En los Departamentos de Estado y en las Procuradurías de Justicia, también: Jefes y Subjefes de Oficina; Supervisores de Obras y Agentes del Ministerio Público.
-
-Todos los miembros de los servicios policíacos y de tránsito, exceptuando a los que desempeñen funciones administrativas;
+II. En el Poder Ejecutivo, los de las dependencias y los de las entidades comprendidas dentro del régimen del Apartado "B" del Artículo 123 Constitucional que desempeñen funciones que conforme a los catálogos a que alude el Artículo 20 de esta Ley, sean de dirección, inspección, vigilancia, fiscalización, manejo de fondos o valores, auditoría, control directo de adquisiciones, responsables de los almacenes e inventarios, investigación científica, asesoría o consultoría, así como el personal que quede adscrito en forma directa e inmediata a quienes desempeñen los puestos mencionados, secretarios particulares en todas sus categorías y los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción anterior; los agentes del Ministerio Público Federal y del Distrito Federal, los agentes de las policías judiciales y los miembros de las policías preventivas. Han de considerarse de base todas las categorías que con aquella clasificación consigne el catálogo de empleos de la Federación para el personal docente de la Secretaría de Educación Pública.
 
 III.- En el Poder Legislativo: en la Cámara de Diputados: el Oficial Mayor, el Director General de Departamentos y Oficinas, el Tesorero General, los Cajeros de la Tesorería, Director General de Administración, el Oficial Mayor de la Gran Comisión, el Director Industrial de la Imprenta y Encuadernación y el Director de la Biblioteca del Congreso.
 
@@ -84,35 +82,7 @@ En la Cámara de Senadores: Oficial Mayor, Tesorero y Subtesorero;
 
 IV.- En el Poder Judicial: los Secretarios de los Ministros de la Suprema Corte de Justicia de la Nación y en el Tribunal Superior de Justicia del Distrito Federal, los Secretarios del Tribunal Pleno y de las Salas;
 
-V.- En las Instituciones a que se refiere el artículo 1o.:
-
-a) En el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado: miembros de la Junta Directiva; Director General; Subdirectores; Auditor General y Subauditor; Contador General; Coordinador; miembros de la comisión Nacional de los Servicios Médicos; Representantes Foráneos del Instituto; Jefes de Departamento; Cajeros Generales; Intendentes Generales y Jefes de Servicio (sic) Generales; Procuradores; Auditores y Subauditores; Secretarios Particulares y Auxiliares, así como Consejeros, Asesores Técnicos; y personal administrativo y de servicios auxiliares presupuestalmente adscritos para la atención directa y personal de los miembros de la Junta Directiva, Director General, Subdirectores y Auditor General.
-
-En la Subdirección Administrativa y sus dependencias, además: Jefes de Inventarios, de Archivo General, de Almacén General y de Auxiliares de Compras; Administradores de Multifamiliares; Agentes Foráneos; personal destinado a los servicios de seguridad y vigilancia; en los Hoteles: Administradores, Ecónomas, Jefes de Comedor y Cajeros.
-
-En la Subdirección Médica y sus dependencias, además: Secretarios y Taquígrafos Particulares; Directores y Subdirectores de Hospital, de Clínica de Especialidades; Cajero General; Pagadores; Contralores; Contadores y Subcontadores; Directores, Subdirectores y Administradores de Zona; el personal del servicio jurídico; el personal técnico de la Contraloría, la Contaduría y la Auditoría; Jefe y Subjefe del Departamento de Personal; Consultores Técnicos; el Director del Centro de Capacitación; Administradores Generales; Supervisores; Agentes Foráneos; Administradores de Hoteles, de Multifamiliares y de Centros, Hospitales o Unidades Médicas; Jefes y encargados de los Almacenes y el personal encargado de los servicios de vigilancia.
-
-b) Juntas Federales de Mejoras Materiales; Presidentes y Secretarios Generales de las Juntas; Secretarios Particulares; Contralores; Cajeros Generales; Jefes y Subjefes de Departamento; Directores y Subdirectores Técnicos; Asesores Técnicos; Administradores; Agentes; Delegados; Jefes de Servicios Federales; Intendentes e Inspectores.
-
-c) En el Instituto Nacional de la Vivienda; Consejero, Director, Secretario General; Oficial Mayor; Coordinador General de Obras; Secretarios Particulares; Jefes de Departamento; Contralor General; Asesores Técnicos; Supervisores de Obras; Administradores de Unidades Habitación; Intendentes; Jefes e Inspectores de Zona de Recuperación; Visitadores Especiales; Cajeros y Contador General.
-
-d) En la Lotería Nacional: miembros del Consejo de Administración; Gerente y Subgerente Generales y de las Sucursales; Contralor y Subcontralor; personal del Departamento de Caja General, de la Oficina Expendedora y del Expendio Principal; Jefes y Subjefes de Departamento y sus Ayudantes; Jefes de Inspectores, de Mantenimiento, de Reparto, de Sección, de Revisión y de Vigilancia; los Secretarios particulares y privados, ayudantes y empleados administrativos y de servicios auxiliares presupuestalmente adscritos de manera personal y directa al Gerente y Subgerente Generales; los Abogados, Inspectores, Auditores y Supervisores, y sus pasantes, ayudantes o auxiliares; el personal destinado a la seguridad y vigilancia, bodegueros y almacenistas y promotores; y en general, todos los que manejan fondos y valores.
-
-e) En el Instituto Nacional de Protección a la Infancia; miembros del Patronato; Director General; Directores; Asesores de la Dirección General y de los Directores; Personal de las Secretarías Particulares y Ayudantías, Jefes de Departamento y de Oficina.
-
-f) En el Instituto Nacional indigenista: Director y Subdirector General; Secretario General y Tesorero; Jefe de la Comisión Técnica; Directores, Subdirectores; Jefes de Departamento; personal adscrito a las Secretarías Particulares; Intendente General; Administrador y Cajero del Centro Coordinador Indigenista; Vocal Ejecutivo y Administrador del Patronato de Artes e Industrias Populares.
-
-g) En la Comisión Nacional Bancaria: Directores y Subdirectores de Inspecciones; Jefes y Subjefes de Departamento; Visitadores, Jefes de Sección e Inspectores; Contador y Peritos Valuadores.
-
-h) En la Comisión Nacional de Seguros: Directores, Auditores, Visitadores e Inspectores; Jefes y Subjefes de Departamento y Jefes de Sección, Contadores, Auxiliares de Contador e Ingeniero Auxiliar.
-
-i) En la Comisión Nacional de Valores: Jefes y Subjefes de Departamento, Inspectores, Auditor Externo y Asesores.
-
-j) En la Comisión de Tarifas de Electricidad y Gas: Miembros del Consejo Directivo; Auxiliares Técnicos del Consejo Directivo, Secretario General; Jefes de Departamento y de Oficina; Jefe del Departamento Jurídico y personal de las Secretarías Particulares y Ayudantías.
-
-k) En el Centro Materno-Infantil General Maximino Avila Camacho: Director; Asesores; Superintendente; Jefe de Personal; Contador General y Auxiliares de Contabilidad; personal de las Secretarías Particulares; Jefes de Servicios; Encargado de Laboratorio; Directora de Guardería y Encargado de Almacén e intedente (sic).
-
-l) En el Hospital Infantil: Director; Subdirector; Superintendente; Administrador de Servicios; Contador; Cajero General; Jefe del Departamento Jurídico e Intendente.
+V.- (DEROGADA, D.O.F. 21 DE FEBRERO DE 1983)
 
 ###### ARTICULO 6o.
 
@@ -124,9 +94,11 @@ Los no incluidos en la enumeración anterior y que, por ello, serán inamovibles
 
 Al crearse categorías o cargos no comprendidos en el Artículo 5o., la clasificación de base o de confianza que les corresponda se determinará expresamente por la disposición legal que formalice su creación.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 8o.
 
-Quedan excluídos del régimen de esta ley: los empleados de confianza; los miembros del Ejercito y Armada Nacionales, con excepción del personal civil del Departamento de la Industria Militar; el personal militarizado o que se militarice legalmente; los miembros del Servicio Exterior Mexicano; el personal de vigilancia de los establecimientos penitenciarios, cárceles o galeras; y aquellos que presten sus servicios mediante contrato civil o estén sujetos a pago de honorarios.
+Quedan excluidos del régimen de esta ley los Trabajadores de confianza a que se refiere el artículo 5º; los miembros del Ejército y Armada Nacional con excepción del personal civil de las Secretarías de la Defensa Nacional y de Marina; el personal militarizado o que se militarice legalmente; los miembros del Servicio Exterior Mexicano; el personal de vigilancia de los establecimientos penitenciarios, cárceles o galeras y aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios.
 
 ###### ARTICULO 9o.
 
@@ -216,9 +188,11 @@ El nombramiento aceptado obliga a cumplir con los deberes inherentes al mismo y 
 
 En ningún caso el cambio de funcionarios de una dependencia podrá afectar los derechos de los trabajadores.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 20.
 
-Los trabajadores de los Poderes de la Unión y de los Gobiernos del Distrito y Territorios Federales, se clasificarán conforme a los grupos establecidos por el Catálogo de Empleos del Instructivo para la función y aplicación del presupuesto de Egresos de la Federación. Los trabajadores de las otras instituciones sometidas a esta ley, se clasificarán conforme a las categorías que los propios organismos establezcan dentro de su régimen interno.
+Los trabajadores de los Poderes de la Unión y del Gobierno del Distrito Federal, se clasificarán conforme a lo señalado por el Catálogo General de Puestos del Gobierno Federal. Los trabajadores de las entidades sometidas al régimen de esta Ley se clasificarán conforme a sus propios catálogos que establezcan dentro de su régimen interno. En la formulación, aplicación y actualización de los catálogos de puestos, participarán conjuntamente los titulares o sus representantes de las dependencias y de los sindicatos respectivos.
 
 ### CAPITULO II
 
@@ -270,9 +244,11 @@ Durante las horas de jornada legal, los trabajadores tendrán obligación de des
 
 ### CAPITULO III
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1983)</small>
+
 ###### ARTICULO 32.
 
-El salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
+El sueldo o salario que se asigna en el catálogo General de Puestos del Gobierno Federal, constituye la retribución básica presupuestal que debe pagarse al trabajador a cambio de los servicios prestados.
 
 ###### ARTICULO 33.
 
@@ -1359,3 +1335,13 @@ D.O.F. 15 DE ENERO DE 1980.
 DECRETO DE REFORMAS AL ARTICULO 62 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
 
 UNICO.- Este Decreto entrará en vigor el 1o. de enero de 1980.
+
+D.O.F. 21 DE FEBRERO DE 1983.
+
+###### ARTICULO PRIMERO.
+
+Aquellos trabajadores que tengan puesto de base al implantarse el catálogo de puestos del Gobierno Federal, conservarán para todos los efectos legales, su calidad de trabajadores con puesto de base y por lo tanto inamovibles en los términos de esta Ley, sin detrimento de las percepciones que tengan asignadas y de los beneficios consignados en las condiciones generales de trabajo.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
