@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-27296
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DE 2003
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2003.
 
 Ley publicada el Suplemento al Periódico Oficial el 1° enero de 2003.
 
@@ -67,9 +67,11 @@ LEY DE INGRESOS DEL ESTADO DE ZACATECAS
 
 PARA EL EJERCICIO FISCAL DE 2003
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 1º.
 
-La Hacienda Pública del Estado de Zacatecas, percibirá $ 8'151'373,127.37 durante el ejercicio fiscal del año 2003 por los ingresos provenientes de los conceptos que a continuación se enumeran:
+La Hacienda Pública del Estado de Zacatecas, percibirá $ 8'208'373,123.37 durante el ejercicio fiscal del año 2003 por los ingresos provenientes de los conceptos que a continuación se enumeran:
 
 I. IMPUESTOS $116'709,097.65
 
@@ -173,11 +175,13 @@ VII. INGRESOS COORDINADOS. $ 2'809,412,175.18
 
 10. Régimen Intermedio de las P.F. Act. Emp. 1'637,754.00
 
-VIII. INGRESOS EXTRAORDINARIOS. $ 150'000,000.00
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2003)</small>
+
+VIII. INGRESOS EXTRAORDINARIOS. $ 207'000,000.00
 
 1. Apoyos extraordinarios. 0.00
 
-2. Empréstitos. 150,000,000.00
+2. Empréstitos. 207,000,000.00
 
 3. Aportaciones Especiales. 0.00
 
@@ -250,3 +254,11 @@ LIC. ARTURO NAHLE GARCIA.
 EL SECRETARIO DE FINANZAS
 
 C.P. GUILLERMO HUIZAR CARRANZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial, Organo del Gobierno del Estado, e iniciará su vigencia el día quince de julio de 2003.
