@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1996-05-13"
+last_updated: "1997-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1997.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
-Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
+Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- éxico.- Secretaría de Gobernación.
 
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente Decreto:
 
@@ -894,9 +894,13 @@ En caso de muerte, practicarán, además, la autopsia del cadáver.
 
 En todos los casos de robo, se harán constar en la descripción todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, haciendo cuando fuere necesario, que peritos emitan su opinión sobre estas circunstancias.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 115.
 
-(DEROGADO, D.O.F. 10 DE ENERO DE 1994)
+Para integrar los elementos del tipo de violencia familiar, deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en los artículos 343 bis y 343 ter del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 95, 96 y 121 del presente Código.
+
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia familiar, podrán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto en este Código.
 
 ###### ARTICULO 116.
 
@@ -5211,5 +5215,13 @@ D.O.F. 13 DE MAYO DE 1996.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 30 DE DICIEMBRE DE 1997.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
 
 ...
