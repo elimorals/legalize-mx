@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "1999-06-05"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -367,11 +367,21 @@ El Ejecutivo Estatal por conducto de la Dirección podrá autorizar el ejercicio
 
 La Dirección efectuará los pagos o erogaciones de las dependencias, pudiendo acordar la desconcentración de partidas del presupuesto en favor de éstas, por lo que en todo caso serán responsables del ejercicio y correcta aplicación de los recursos conforme al presupuesto, y a los lineamientos que fije la Dirección.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 47.
 
 Los pagos con cargo al presupuesto serán justificados y comprobados con los documentos originales respectivos que deberán reunir los requisitos legales aplicables.
 
 Cuando se trate de pagos respecto de inversiones concertadas con la federación, el requisito que establece el presente artículo se cumplirá anexando las copias respectivas.
+
+Tratándose de municipios con el carácter de rurales y con una población inferior a los 50,000 habitantes, de conformidad con el último Censo General de Población y Vivienda, podrán efectuar adquisiciones con proveedores de bienes y servicios que estén imposibilitados para expedir los documentos que reúnan los requisitos legales aplicables, siempre y cuando se demuestre que, dentro del municipio de que se trate, es el único proveedor del bien o servicio o que todos los proveedores de dicho bien o servicio se encuentran en la misma situación, dichas adquisiciones o pagos se sujetarán a los siguientes requisitos:
+
+I. Como documentación comprobatoria soporte de las operaciones, deberá obrar la orden de compra debidamente autorizada por el Oficial Mayor y/o Tesorero Municipal en su caso, la póliza de egreso correspondiente y la nota expedida por el establecimiento comercial con los datos de identificación correspondiente.
+
+II. Los montos erogados por cada operación en lo individual, no podrán ser superiores al equivalente de 200 salarios mínimos de la zona económica de que se trate.
+
+III. Las erogaciones totales de este tipo, no podrán ser superiores al 3% del Presupuesto de Egresos de cada municipio para el ejercicio fiscal que corresponda, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua.
 
 ###### ARTICULO 48.
 
@@ -862,3 +872,9 @@ P.O. 5 DE JUNIO DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año 2001.
