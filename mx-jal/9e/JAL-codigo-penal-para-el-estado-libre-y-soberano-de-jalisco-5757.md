@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2003-12-30"
+last_updated: "2004-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1323,7 +1323,7 @@ La misma sanción sufrirá el que, a través de la coacción física o moral, ob
 
 ### CAPITULO II. Ejercicio indebido y abandono del servicio público
 
-((REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
 ###### Art. 131.
 
@@ -2617,9 +2617,9 @@ q) Para la obtención de los fines del delito, se amenace con dañar o perjudica
 
 La misma pena de esta fracción se impondrá al responsable de secuestro, si algún pariente del ofendido hasta el cuarto grado, sin haber sido víctima directa del ilícito, muere por alteraciones de salud que devinieren como efecto del delito, si el deceso se produce durante el secuestro o dentro de los siguientes sesenta días;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2004)</small>
 
-II. Si el ofendido es privado de la vida o muere durante la comisión del delito, o concluido éste, muere por causas directamente relacionadas con el mismo dentro de los sesenta días siguientes a aquel en que cesó la privación de su libertad, se le impondrá al secuestrador la pena de cuarenta a cincuenta años de prisión y multa por el importe de tres mil quinientos a cinco mil días de salario mínimo;
+II. Si el ofendido es privado de la vida o muere durante la comisión del delito, o concluido éste, muere por causas directamente relacionadas con el mismo dentro de los trescientos días siguientes a aquél en que cesó la privación de su libertad, se le impondrá al secuestrador la pena de cuarenta a cincuenta años de prisión y multa por el importe de tres mil quinientos a cinco mil días de salario mínimo;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 1999)</small>
 
@@ -2681,7 +2681,7 @@ V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el pro
 
 VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2701,7 +2701,7 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2709,7 +2709,7 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa por el importe de cinco a veinte días de salario mínimo, al que públicamente diere a otro, fuera de riña, una bofetada, o cualquier otro golpe simple que no cause lesiones, si no lo hiciere en ejercicio del derecho de corrección.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2735,7 +2735,7 @@ II. Si el imputado fuera una persona que haya obrado con carácter público y la
 
 III. Si el hecho imputado está declarado cierto por sentencia irrevocable y el inculpado obre por un interés legítimo sin ánimo de dañar.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2753,7 +2753,7 @@ Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en q
 
 Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusación, si los hechos que en ella se imputan son ciertos, aunque no constituyan un delito y él, errónea o falsamente, les haya atribuido ese carácter.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2783,9 +2783,9 @@ III. Al autor de un escrito presentado o de un discurso pronunciado, en cualquie
 
 Lo prevenido en esta fracción no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata.
 
-## TITULO VIGESIMO. DE LOS DELITOS FISCALES
+## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 205.
 
@@ -2871,15 +2871,19 @@ No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente 
 
 Se impondrán de doce a dieciocho años de prisión a la persona que prive de la vida a otra. Pero, cuando el homicidio sea calificado, la sanción será de veinte a cuarenta años de prisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2004)</small>
+
 ###### Art. 214.
 
-Para la aplicación de las sanciones que correspondan al que comete homicidio, se tendrá como mortal una lesión cuando concurran las dos circunstancias siguientes:
+Para la aplicación de las sanciones que correspondan al que comete homicidio, se tendrá como mortal una lesión, cuando concurra la siguiente circunstancia:
 
 > <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
 
 I. Que la muerte se daba a las alteraciones causadas por la lesión en el órgano u órganos interesados, a alguna de sus consecuencias inmediatas o determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable, o por no tenerse al alcance los recursos necesarios; y
 
-II. Que la muerte del ofendido ocurra dentro de sesenta días, contados desde que fue lesionado.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2004)</small>
+
+II. Que la muerte del ofendido ocurra dentro de trescientos días contados desde que fue lesionado, previo dictamen pericial.
 
 ###### Art. 215.
 
@@ -3033,9 +3037,9 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
+## TITULO VIGESIMO. DE LOS DELITOS FISCALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 233.
 
@@ -3779,7 +3783,7 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 270.
 
@@ -3791,7 +3795,7 @@ II. Condicione la prestación de un servicio público, el cumplimiento de progra
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 271.
 
@@ -3843,7 +3847,7 @@ Por la comisión de cualesquiera de los delitos comprendidos en el presente cap�
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos del artículo 11 de este Código, no podrán gozar del beneficio de la libertad provisional.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 279.
 
@@ -3955,8 +3959,6 @@ No se impondrá la sanción prevista en este artículo, si quien hubiere cometid
 
 Para los fines del artículo que antecede se tomará en cuenta el monto de lo defraudado o que se haya intentado defraudar dentro de un mismo período fiscal, aún cuando se trate de conceptos distintos y de diversas acciones u omisiones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
-
 ###### Art. 289.
 
 Para los efectos del presente Título, se estará a las definiciones establecidas en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Jalisco, así como las determinadas en los ordenamientos aplicables.
@@ -4033,6 +4035,8 @@ IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesa
 
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o del ayuntamiento en cuyo territorio se hubiesen cometido los hechos presuntamente constitutivos de delito.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+
 ## TRANSITORIOS
 
 Artículo Primero. Este Código empezará a regir sesenta días después de su publicación.
@@ -4065,7 +4069,7 @@ Dip. Santiago Camarena F.
 
 Dip. Dr. J. Antonio Barba Borrego
 
-Dip. Lic. Profirio Cortés Silva
+Dip. Lic. Porfirio Cortés Silva
 
 Dip. Gmo. Ramón de Alba González
 
@@ -4262,3 +4266,7 @@ SEGUNDO.- Las disposiciones relativas a la responsabilidad patrimonial del Estad
 P.O. 30 DE DICIEMBRE DE 2003.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2004.
+
+Único.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
