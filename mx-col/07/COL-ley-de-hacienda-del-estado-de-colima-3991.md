@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1995-11-18"
+last_updated: "1995-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -575,6 +575,10 @@ VIII.- Certificaciones y constancias, cuando para su expedición se requiera bú
 
 IX.- Por la expedición de bajas de placas de otros Estados 6.000
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+
+X.- Por expedición de baja definitiva del padrón vehícular 1.600
+
 ###### Artículo 51.
 
 Por los servicios prestados en la Dirección General de Prevención y Readaptación Social.
@@ -886,6 +890,10 @@ e).- Renovación anual de calcomanía fiscal vehícular o su reposición 6.000
 f).- Renovación anual de tarjeta de circulación de motocicletas o su reposición 1.000
 
 g).- Remolques 9.700
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1995)</small>
+
+h).- Reposición de tarjeta de circulación de automóviles y camiones 1.600
 
 Los derechos consignados en los incisos a), b), c) y e), tratándose de canje o renovación, por termino del período de vigencia, así como los previstos en el inciso f), deberán pagarse durante los meses enero a marzo.
 
@@ -1381,15 +1389,17 @@ I.- Alberca, por niño 0.135
 
 II.- Alberca, por adulto 0.180
 
-III.- Uso de lanchas:
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
 
-a).- Grandes, por hora 0.225
+III.- Tobogán, por hora 0.225
 
-b).- Chicas, por hora 0.180
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
 
-IV.- Ingreso a zona de bosque 0.045
+IV.- Lancha, por hora 0.225
 
-V.- Educación vial 0.090
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+
+V.- Ingreso a la Zona de Bosque 0.045
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2474,3 +2484,7 @@ P.O. 18 DE NOVIEMBRE DE 1995.
 PRIMERO.- Durante el período de vigencia del Acuerdo de Apoyo Inmediato a Deudores de la Banca, los deudores que se acojan a dicho acuerdo para reestructurar sus créditos con las instituciones bancarias, pagarán los derechos previstos en el artículo 52, fracción I, inciso j) de la Ley de Hacienda del Estado, descontando el 50% a los importes establecidos en la tarifa del referido numeral sin que se pague menos del equivalente a un día de salario mínimo.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el 1o. de enero de 1996 previa su publicación en el Periódico Oficial "El Estado de Colima".
