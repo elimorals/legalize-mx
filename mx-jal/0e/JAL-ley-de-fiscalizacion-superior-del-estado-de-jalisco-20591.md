@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-del-estado-de-jalisco-20591"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-15"
-last_updated: "2001-03-15"
+last_updated: "2003-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 "LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE JALISCO" Y DEROGA EL REGLAMENTO INTERNO DE LA CONTADURIA MAYOR DE HACIENDA, CONTENIDO EN EL DECRETO 14389, PUBLICADO EL 03 DE DICIEMBRE DE 1991, EN EL PERIODICO OFICIAL "EL ESTADO DE JALISCO"
 
-TEXTO ORIGINAL
+DEROGADO POR DISPOSICION DEL DECRETO 19958, P.O. 1 DE MAYO DE 2003
 
 Ley publicada en la Sección X del Periódico Oficial el 15 de Marzo de 2001
 
