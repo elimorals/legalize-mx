@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-taurino-para-el-distrito-federal-10896"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-20"
-last_updated: "2004-02-26"
+last_updated: "2004-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10896&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1997-05-16"
 
 REGLAMENTO TAURINO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 1997.
 
@@ -62,9 +62,7 @@ VI. Reglamento, el presente Reglamento Taurino para el Distrito Federal, y
 
 VII. Tesorería, la Tesorería del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 26 DE FEBRERO DE 2004)</small>
-
-VIII. Libro de Registro de Tenedores del derecho de apartado, aquel documento cuyas especificaciones técnicas determinarán la Delegación y la Comisión Taurina y que contendrá como mínimo los nombres, direcciones y firmas de las personas con derechos de apartado para una localidad específica en el recinto o inmueble en el que se desarrolle el espectáculo taurino.
+VIII. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 3.
 
@@ -78,7 +76,7 @@ III. Nombrar a los miembros que integran la Comisión;
 
 IV. Nombrar a jueces y asesores técnicos;
 
-V. Otorgar el cartel a las ganaderías que satisfagan los requisitos de este Reglamento, o en su caso, determinar la pérdida de dicho cartel, y
+V. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
 VI. Determinar y proveer los apoyos materiales que, en su caso, deban ser otorgados a la Comisión por la Administración Pública del Distrito Federal.
 
@@ -92,7 +90,11 @@ II. Autorizar, previa solicitud de la empresa, los horarios a que se sujetará l
 
 III. Imponer las sanciones previstas en el presente Reglamento;
 
-IV. Nombrar al Inspector Autoridad, a los médicos veterinarios, a los inspectores autoridad auxiliares y a los químicos-bacteriólogos cuya intervención sea necesaria para la celebración de espectáculos taurinos;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+IV. Nombrar al Inspector Autoridad, a los veterinarios, a los inspectores autoridad auxiliares y a los químicos-bacteriólogos,
+
+Tanto los químicos-bacteriólogos como los inspectores autoridad auxiliares necesariamente serán profesionistas especializados en el espectáculo taurino;
 
 V. Autorizar, de conformidad con lo previsto en las disposiciones legales y reglamentarias en materia de construcciones y protección civil correspondientes, la construcción e instalación de nuevos cosos, las modificaciones a los existentes o la adaptación de algún local para la celebración de espectáculos taurinos, así como el aforo de las plazas;
 
@@ -118,7 +120,9 @@ II. Recibir copia de los informes que los jueces de plaza formulen a la Delegaci
 
 III. Opinar sobre las multas y sanciones que la Delegación deba aplicar por violaciones a este Reglamento y recibir copia de la documentación en que éstas sean impuestas;
 
-IV. Difundir a través de cualquier medio que resulte idóneo, las raíces, sentido, prácticas y significación de la fiesta brava en la cultura nacional;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+IV. Difundir a través de cualquier medio que resulte idóneo las raíces, sentido, prácticas y significado de la fiesta brava en la cultura nacional;
 
 V. Promover la creación y operación de un museo y biblioteca taurinos que contribuyan a preservar los antecedentes históricos de la tauromaquia en general y de la de México en particular, así como sus valores socio-culturales;
 
@@ -132,7 +136,9 @@ IX. Estudiar las innovaciones que se pretenda introducir en los espectáculos ta
 
 X. Proponer al Jefe de Gobierno la adopción de los programas de trabajo y la realización de todas aquellas actividades que coadyuven a la consolidación y expansión de la fiesta brava;
 
-XI. Calificar las reses que se lidien en las corridas de prueba a las que se sometan las ganaderías que pretendan adquirir la categoría de cartel;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+XI. Verificar que las reses de las ganaderías cuenten con registros de nacimiento debidamente requisitados;
 
 XII. Apoyar y promover la organización y celebración de congresos, seminarios y demás eventos técnicos o de divulgación relacionados con la fiesta brava;
 
@@ -152,7 +158,9 @@ III. Asistir al pesaje de los toros y certificar su exactitud;
 
 IV. Aprobar, con la opinión de los veterinarios de la plaza, las reses que deban lidiarse y asentar tal circunstancia en el acta respectiva;
 
-V. Presenciar el sorteo y enchiqueramiento de los toros y resolver cualquier incidente que surja sobre el particular;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+V. Presenciar el sorteo y entorilamiento de los toros y resolver cualquier incidente que surja sobre el particular;
 
 VI. Recibir los partes de la empresa, ganaderos, matadores y subalternos y, en su caso, determinar lo procedente;
 
@@ -178,7 +186,11 @@ XV. Otorgar homenaje a las reses lidiadas, en los términos del artículo 73 del
 
 XVI. Levantar los precintos del cajón de curas, cuando sea necesario utilizarlo, y
 
-XVII. Informar por escrito a la Delegación y a la Comisión de la realización del festejo que hubiese presidido y de las incidencias surgidas en su desarrollo.
+XVII. Informar por escrito a la Delegación y a la Comisión de la realización del festejo que hubiese presidido y de las incidencias surgidas en su desarrollo;
+
+> <small>(ADICIONADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+XVIII. A petición de la mayoría de los asistentes al festejo, rechazar el toro que se está lidiando.
 
 ###### ARTÍCULO 7.
 
@@ -186,7 +198,9 @@ Corresponde al Asesor Técnico:
 
 I. Asistir al pesaje y reconocimiento de las reses;
 
-II. Presenciar el sorteo y enchiqueramiento de los toros;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+II. Presenciar el sorteo y entorilamiento de los toros;
 
 III. Llegar a la plaza con una hora de anticipación a la celebración del festejo;
 
@@ -224,9 +238,17 @@ I. Examinar los animales que serán lidiados, a efecto de comprobar que llenen l
 
 II. Presenciar la prueba de caballos e intervenir en la formulación del informe escrito que el Inspector Autoridad debe rendir al Juez de Plaza;
 
-III. Asistir al enchiqueramiento y verificar que las reses se encuentren en condiciones de ser lidiadas;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
 
-IV. Practicar el examen post mortem a las reses lidiadas y comprobar que sus astas no hayan sido objeto de alteración artificial o que las reses no hayan sido sometidas a tratamiento o maniobra que hubiera disminuido su poder o vigor y hacer constar su dictamen por escrito, anexando las astas de los toros que se presuma fueron manipuladas, y
+III. Asistir al entorilamiento y verificar que las reses se encuentren en condiciones de ser lidiadas;
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+IV. Practicar el examen post mortem, a petición del juez de plaza a las reses lidiadas, en el lugar adecuado que para tal efecto proporcione la empresa dentro de las instalaciones de la plaza.
+
+Para efectos del párrafo anterior, el médico veterinario asegurará las reses inmediatamente después de haberse lidiado, y practicará el examen ante representantes de la autoridad, ganadería y empresa, entregando resultados de los mismos a la Delegación, a la Comisión y copias a la empresa y al ganadero.
+
+Durante la práctica del examen post mortem, el médico veterinario deberá comprobar que sus astas no hayan sido objeto de alteración artificial o que las reses no hayan sido sometidas a tratamiento o maniobra que hubiera disminuido su poder o vigor y hacer constar su dictamen por escrito, anexando las astas de los toros que se presuma fueron manipuladas;
 
 V. Informar al Juez de Plaza de cualquier deficiencia que adviertan, tanto en las reses como en los caballos examinados.
 
@@ -248,25 +270,21 @@ Para celebrar espectáculos taurinos en el Distrito Federal, en cosos que no cue
 
 Cuando se trate de cosos con licencia de funcionamiento, sólo se requerirá la presentación de un aviso en los términos señalados por la Ley.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 ###### ARTÍCULO 13.
 
-El proceso de venta del derecho de apartado deberá observar además de las disposiciones emanadas de la Ley y del presente Reglamento, aquellas disposiciones que protejan los derechos de su tenedor como espectador del evento taurino y como consumidor del servicio relacionado con el espectáculo público que se presta.
+La venta del derecho de apartado deberá sujetarse a lo establecido en la Ley, y los actos entre la empresa y el particular se regirán por las disposiciones jurídicas correspondientes en materia mercantil, así como por aquellas que protejan los derechos de su tenedor como consumidor de un servicio y espectador del evento taurino.
 
-Con relación a lo dispuesto por la fracción IV del artículo 43 de la Ley, los criterios a que se sujetará la venta del derecho de apartado serán los siguientes:
+I. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
-I. La empresa presentará a la Delegación antes de 45 días naturales al 7 de noviembre de cada año, los contratos originales celebrados con las ganaderías, debidamente registrados ante la Asociación de Criadores de Toros de Lidia y ante la Comisión Taurina;
+II. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
-II. La empresa presentará a la Delegación antes de 20 días naturales al 7 de noviembre de cada año, los contratos originales celebrados con los toreros, rejoneadores y demás prestadores de servicio, debidamente registrados ante la Asociación de Matadores;
+III. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
-III. La empresa presentará a la Delegación los Libros de Registro de los Tenedores de los Derechos de Apartado originales, mismos que permanecerán en custodia de dicha autoridad, para efectos de revisión y verificación administrativa del cumplimiento de los datos y obligaciones en ellos consignados;
+IV. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
-IV. Al término del período de venta del derecho de apartado, que será antes de 10 días naturales al día del inicio de la temporada, la empresa dispondrá para venta al público general, las localidades en las que no se cubrió el monto del derecho de apartado para la temporada autorizada; y
-
-V. El tenedor de la tarjeta del derecho de apartado, que no cubra el monto correspondiente a la temporada autorizada perderá el apartado de la localidad pero mantendrá dicho derecho en los siguientes periodos de canje, a través de la tarjeta correspondiente.
-
-Los contratos a que hace referencia este artículo deberán de acompañarse con las copias de las identificaciones oficiales de quienes los suscriben, así como de carta en donde el representante legal de la empresa manifieste bajo protesta de decir verdad, que dichos contratos se apegan a las disposiciones aplicables y que los datos y firmas contenidos en los mismos son verídicos.
+V. (DEROGADA, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 14.
 
@@ -284,15 +302,17 @@ Las taquillas deberán tener fácil acceso y letreros claramente visibles que in
 
 La empresa podrá enviar a las agencias de viajes que lo requieran, hasta 250 boletos en total de sol y sombra, para atender al turismo que visita la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 ###### ARTÍCULO 17.
 
-En caso de suspensión total o parcial de una temporada o corrida la empresa está obligada a devolver a las personas que presenten su derecho de apartado o el boleto respectivo, el monto en dinero que corresponda a la parte proporcional no cumplida de la temporada o la corrida que se suspenda.
+En caso de suspensión total o parcial de una temporada la empresa está obligada a devolver a las personas que presenten su derecho de apartado o el boleto respectivo, el monto en dinero que corresponda a la parte proporcional no cumplida de la temporada que se suspenda.
 
-En caso de incumplimiento de los compromisos contraídos en el elenco del derecho de apartado, la empresa, previa resolución de la Delegación, devolverá el importe proporcional correspondiente a dicho incumplimiento durante los siguientes 30 días hábiles a la conclusión de la temporada autorizada en términos del artículo 43, fracción V, de la Ley.
+En caso de incumplimiento de los compromisos contraídos en el elenco del derecho de apartado, la empresa, previa aprobación de la Delegación, devolverá el importe correspondiente a la parte proporcional incumplida. La devolución iniciará al día hábil siguiente de celebrado el festejo y durará un periodo de tres días hábiles.
 
-En el supuesto de incumplimiento de un festejo dentro de la temporada, la devolución del importe total del boleto de dicho evento se hará a partir del día hábil siguiente de la fecha programada para su celebración.
+Si la corrida se suspende de manera total o por causas imputables a la empresa, o bien alguna persona no está conforme con la alteración que sufra un cartel determinado, la empresa devolverá el importe íntegro del boleto, dicha devolución iniciará al día hábil siguiente de celebrado el festejo y durará un periodo de tres días hábiles.
+
+Si por causas no imputables a la empresa se suspende la corrida, una vez muerto el primer toro, se devolverá la mitad del importe del boleto; muerto el segundo no habrá lugar a devolución alguna.
 
 ###### ARTÍCULO 18.
 
@@ -442,7 +462,9 @@ II. Se prohíbe la lidia de reses hembras y de machos castrados en plazas de pri
 
 III. La suerte de varas sólo podrá suprimirse cuando el espectáculo se anuncie previamente como novillada o festival sin picadores;
 
-IV. Cuando actúe un rejoneador, éste lo hará al inicio del festejo. Si actúa en dos ocasiones o son dos los rejoneadores, la segunda actuación será a la mitad del espectáculo. Después de la actuación de un rejoneador el piso del ruedo deberá ser compactado;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+IV. Cuando actúe un rejoneador, éste lo hará al inicio del festejo. Si actúa en dos ocasiones o son dos los rejoneadores, la segunda actuación será a la mitad del espectáculo. Después de la actuación de un rejoneador el piso del ruedo deberá ser compactado, y señalizado con un material no volátil y de color visible;
 
 V. En plazas de primera categoría y tratándose de corridas de toros y novilladas, el despeje lo hará por lo menos un alguacil, el que vestirá a la usanza tradicional española o a la usanza charra. En las plazas de segunda y tercera categorías se hará, salvo pacto en contrario, conforme a los usos y costumbres;
 
@@ -460,7 +482,9 @@ b) El diestro de mayor antigüedad matará el primer toro y el de menor antigüe
 
 c) El diestro que reciba la alternativa en una plaza de primera categoría, matará en esa ocasión el primer y último toros, previa cesión de trastos que le haga el primer espada o, en su ausencia, el que le siga a éste en antigüedad;
 
-d) Cualquier matador de toros que actúe por primera ocasión en una plaza de primera categoría, independientemente de su nacionalidad, deberá confirmar su alternativa;
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+d) Cualquier matador de toros que actúe por primera ocasión en una plaza de primera categoría, independientemente de su nacionalidad, deberá confirmar su alternativa; en tanto el Gobierno del Distrito Federal considere a la Plaza México, como la de mayor aforo y relevancia para la fiesta taurina, sólo en este coso habrá confirmaciones de alternativa;
 
 e) El matador que confirme su alternativa en la plaza de primera categoría de mayor tradición, matará el primer toro y el que le corresponda según la antigüedad de los alternantes;
 
@@ -482,11 +506,17 @@ XV. Previo permiso del Juez de Plaza podrán obsequiarse una o más reses, las q
 
 XVI. Para decidir sobre la suspensión de una corrida por lluvia, el Juez de Plaza solicitará la opinión del matador más antiguo, quien a su vez consultará con sus alternantes. Si los lidiadores no se ponen de acuerdo, será el Juez quien resuelva lo que proceda;
 
-XVII. Cuando en plazas de primera categoría se anuncie una encerrona o festejo en el que participa un solo espada, será obligatorio que figuren dos sobresalientes. En caso de tratarse de corrida de toros, uno de aquellos deberá ser matador. Los novilleros que actúen como sobresalientes deberán haber actuado en una plaza de primera categoría del Distrito Federal.
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
 
-Cuando se trate de un mano a mano o festejo en el que actúen sólo dos espadas, figurará como sobresaliente un novillero, el cual deberá reunir los requisitos señalados en el párrafo anterior;
+XVII. Cuando en plazas de primera categoría se anuncie una encerrona o festejo en el que participe un solo espada, será obligatorio que figuren dos sobresalientes, los cuales deberán ser éstos novilleros, si el espada es novillero, y matadores con alternativa, si el espada es matador. En caso de tratarse de corrida de toros, uno de aquellos deberá ser matador.
 
-XVIII. En las plazas de primera y segunda categorías se trazarán en el piso del redondel, con color blanco visible, dos círculos concéntricos, interrumpidos frente a la puerta de toriles, a una distancia de siete metros contados a partir de la barrera para el primer círculo y de nueve para el segundo. En las plazas de tercera categoría, salvo pacto en contrario, conforme a los usos y costumbres, y
+Cuando se trate de un mano a mano o festejo en el que actúen sólo dos espadas, figurará como sobresaliente un novillero, si el mano a mano es de novilleros, o bien un matador de toros con alternativa si el mano a mano es con matadores de toros.
+
+Los novilleros que actúen como sobresalientes deberán haber actuado en una plaza de primera categoría del Distrito Federal.
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+XVIII. En las plazas de primera y segunda categorías se trazarán en el piso del redondel, con material no volátil y de color visible, dos círculos concéntricos, interrumpidos frente a la puerta de toriles, a una distancia de siete metros contados a partir de la barrera para el primer círculo y de nueve para el segundo. En las plazas de tercera categoría, salvo pacto en contrario, conforme a los usos y costumbres;
 
 XIX. Cualquier innovación que se pretenda introducir en los espectáculos taurinos deberá ser estudiada y, en su caso, autorizada por el Jefe de Gobierno;
 
@@ -496,39 +526,37 @@ XX. Queda prohibida la publicidad de cualquier tipo en las pizarras de aviso al 
 
 ### CAPÍTULO V. DE LAS GANADERÍAS
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### ARTÍCULO 28.
 
-Para lidiar corridas de toros o novilladas en el Distrito Federal, las reses deberán estar inscritas en el libro denominado Registro Obligatorio de Edades de los Astados. Dicho registro será llevado por la Comisión, misma que contará para este efecto con el apoyo de la Asociación Nacional de Criadores de Toros de Lidia en su carácter de órgano auxiliar de las autoridades, conforme a las disposiciones legales y reglamentarias aplicables.
+Para lidiar corridas de toros o novilladas en el Distrito Federal, las reses deberán estar inscritas en el libro denominado Registro Obligatorio de Edades de los Astados. Dicho registro será llevado por la Asociación Nacional de Criadores de Toros de Lidia, conforme a las disposiciones legales y reglamentarias aplicables y bajo la supervisión de la
 
-En el Registro Obligatorio de Edades de los Astados, la Comisión llevará un estricto control de las nacencias de éstos, mismo que especificará el día, mes y año en que haya tenido lugar su nacimiento, el número con que se herró a cada animal, su pinta al nacer, muescas y señas particulares.
+Delegación.
 
-Para efectos de su anotación en el Registro, la ganadería deberá proporcionar la información a que se contrae el párrafo anterior a la Comisión, por conducto de la Asociación Nacional de Criadores de Toros de Lidia, dentro de los treinta días posteriores a la fecha en que las reses fueron herradas. El herradero deberá realizarse dentro de los ocho meses siguientes al nacimiento de la res. Por ningún motivo se aceptarán inscripciones extemporáneas.
+En el Registro Obligatorio de Edades de los Astados, la Asociación llevará un estricto control de las nacencias de éstos, mismo que especificará el día, mes y año en que haya tenido lugar su nacimiento, el número con que se herró a cada animal, su pinta al nacer, muescas y señas particulares.
 
-La Comisión proporcionará a la Delegación un duplicado del libro o documento en que conste el Registro Obligatorio de Edades de los Astados y lo mantendrá debidamente actualizado.
+Para efectos de su anotación en el Registro, la ganadería deberá proporcionar la información a que se contrae el párrafo anterior a la Asociación Nacional de Criadores de Toros de Lidia, dentro de los treinta días posteriores a la fecha en que las reses fueron herradas. El herradero deberá realizarse dentro de los ocho meses siguientes al nacimiento de la res. Dicho periodo se podrá aumentar por cuatro meses adicionales, previa autorización de la Asociación.
+
+La Asociación proporcionará a la Delegación un duplicado del libro o documento en que conste el Registro Obligatorio de Edades de los Astados y lo mantendrá debidamente actualizado.
+
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 ###### ARTÍCULO 29.
 
-Para que una ganadería adquiera la categoría de cartel y quede oficialmente registrada, deberá llenar los siguientes requisitos:
-
-I. Tener un pie de cría no inferior a setenta hembras y dos sementales que procedan de una ganadería de cartel, situación que deberá comprobarse por medio de la constancia que expida la Asociación Nacional de Criadores de Toros de Lidia y con copia del documento a que se refiere la fracción III de este artículo;
-
-II. Enviar a una plaza de primera categoría una corrida de prueba, procedente de ese pie de cría. El ganadero deberá acompañar la solicitud de prueba de cuando menos cuatro programas de novilladas o corridas lidiadas en plazas de primera categoría en la República Mexicana durante el año inmediato anterior a su solicitud, y
-
-III. Tener asiento fijo en una finca que cuente con certificado de inafectabilidad ganadera o con constancia o título de efectos legales similares que expida la autoridad competente.
+Para que una ganadería participe en la Fiesta Brava, deberá pertenecer a la Asociación Nacional de Criadores de Toros de Lidia.
 
 ###### ARTÍCULO 30.
 
-La calificación de las reses que se lidien en la corrida de prueba estará a cargo de la Comisión, la que será asesorada por los jueces de plaza. Si el dictamen es desfavorable, deberán transcurrir por lo menos dos años para que las reses de esa ganadería queden sujetas a una nueva prueba.
-
-Si el dictamen es favorable y se han cumplido los demás requisitos, el Jefe de Gobierno, en un plazo no mayor de sesenta días hábiles, concederá el cartel a la ganadería para que pueda hacer uso de su divisa, siempre y cuando ésta, el hierro y las marcas o contraseñas estén inscritos en la Asociación Nacional de Criadores de Toros de Lidia. La antigüedad de la ganadería se contará a partir de la fecha de la corrida de prueba.
+(DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 31.
 
-Cuando una ganadería de cartel sea fraccionada, los nuevos propietarios determinarán de común acuerdo cuál de tales fracciones conservará el cartel, la antigüedad y la divisa. En caso de desacuerdo, la Comisión, luego de oír a los propietarios y la opinión de la Asociación Nacional de Criadores de Toros de Lidia, resolverá lo que proceda con base en este Reglamento, la costumbre y las condiciones específicas de fraccionamiento de la ganadería.
+(DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 32.
 
-Si una ganadería carece de cartel, sus reses lucirán divisa blanca. En cualquier caso de traslación de dominio de una vacada, siempre que se llenen los requisitos de este Capítulo, la ganadería conservará el cartel, la antigüedad y la divisa, aun cuando cambie de ubicación. Esta traslación de dominio deberá registrarse ante la Delegación donde se pretenda realizar una corrida dentro de los sesenta días siguientes a la fecha en que se lleve a cabo.
+(DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 33.
 
@@ -538,29 +566,19 @@ La Comisión llevará un catálogo con los elementos a que se refiere el párraf
 
 ###### ARTÍCULO 34.
 
-Las ganaderías oficialmente registradas perderán su cartel en los siguientes casos:
-
-I. Cuando el propietario permita que sus reses sean anunciadas para alternar en cualquier plaza del Distrito Federal, sea en corridas de toros o en novilladas, con ganaderías sin cartel, excepto en el caso de toros de reserva o en festivales;
-
-II. Cuando la Asociación Nacional de Criadores de Toros de Lidia informe a la Comisión y quede fehacientemente comprobado que una ganadería ha reducido a menos de cincuenta animales su pie de cría;
-
-III. Cuando de manera fehaciente las reses acusen degeneración en su tipo y en las condiciones de lidia;
-
-IV. Cuando se hubiese comprobado cualquier manipulación tendiente a disminuir las astas o el poder de las reses. Se eximirá de esta sanción al ganadero que demuestre ser ajeno a dichas manipulaciones, y
-
-V. Cuando se hubiese comprobado que la res no tiene la edad que establece el Reglamento.
-
-En cualquiera de los casos citados, el ganadero podrá alegar lo que a su derecho convenga y ofrecer pruebas de descargo. La Comisión preservará la garantía de audiencia al ganadero afectado. Agotada esta instancia, el Jefe de Gobierno emitirá su fallo en un término que no excederá de los treinta días hábiles siguientes a la fecha de presentación del caso.
+(DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 35.
 
-Cuando una ganadería desee readquirir el cartel, deberá seguir el procedimiento que señalan los artículos 28 y 29 de este Reglamento y su antigüedad contará desde la fecha en que nuevamente le sea concedido dicho cartel.
+(DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
 
 ###### ARTÍCULO 36.
 
 Las reses que se lidien en corridas de toros deberán reunir los requisitos siguientes:
 
-I. Proceder de ganaderías de cartel o de aquéllas que deseen adquirirlo;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+I. Proceder de ganaderías integrantes de la Asociación Nacional de Criadores de Toros de Lidia;
 
 II. Haber cumplido cuatro años de edad, no pasar de seis y estar inscritas en el Registro Obligatorio de Edades de los Astados;
 
@@ -636,11 +654,17 @@ Las puyas empleadas para picar reses en corridas de toros, tendrán forma de pir
 
 El tope será de ochenta milímetros; de la base al borde del tope habrá siete milímetros, y del centro de cada una de las caras en su base al tope, nueve milímetros. Lo anterior para las corridas de toros y novilladas, salvo que para éstas la longitud del tope será de setenta y cinco milímetros. Remachadas al casquillo donde entra la vara, las puyas serán de acero, afiladas en piedra de agua y con los tres filos rectos. Tendrán un casquillo de hierro para fijarlas en la garrocha. La cruceta medirá seis centímetros por lado. En novilladas se podrá autorizar el uso de puyas de veintinueve milímetros cuando el tamaño y la fuerza del ganado a lidiar así lo ameriten.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE OCTUBRE DE 2004)</small>
+
+Cuando en una novillada se anuncien novillos que alcanzan la edad de toro, previo consentimiento del ganadero, podrán ser picados con puyas utilizadas para toros.
+
 Los topes podrán ser de madera, hierro o aluminio en su base y estarán cubiertos con cordel de cáñamo, fuertemente enredado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 ###### ARTÍCULO 46.
 
-Cuarenta y ocho horas antes del festejo la empresa presentará las puyas en la Delegación para ser examinadas y aprobadas. Una vez selladas se colocarán en una caja que quedará al cuidado del Inspector Autoridad para su oportuna utilización.
+Cuarenta y ocho horas antes del festejo la empresa presentará las puyas en la Delegación para ser examinadas y aprobadas. En este proceso, la ganadería que presenta el encierro puede supervisar el estado de las puyas.
 
 Cuando el Inspector Autoridad entregue las puyas a los picadores, éstas serán colocadas inmediatamente en sus correspondientes varas y depositadas en un guardavaras, el que siempre estará junto a la puerta de caballos bajo la custodia de un Inspector Autoridad Auxiliar a lo largo del festejo.
 
@@ -660,9 +684,11 @@ Además de las banderillas ordinarias deberá haber doce pares de banderillas ne
 
 En el adorno de las banderillas queda prohibido el uso de los colores verde, blanco y rojo en el orden que integran la bandera nacional.
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### ARTÍCULO 49.
 
-En las plazas de primera categoría habrá cuatro cabestros como mínimo, adiestrados para facilitar las maniobras de traslado de los toros de un corral a otro, las de enchiqueramiento y el retiro de aquéllos del ruedo. En las plazas de segunda y tercera categoría, el mínimo de cabestros será de dos.
+En las plazas de primera categoría habrá cuatro cabestros como mínimo, adiestrados para facilitar las maniobras de traslado de los toros de un corral a otro, las de entorilamiento y el retiro de aquéllos del ruedo. En las plazas de segunda y tercera categoría, el mínimo de cabestros será de dos.
 
 ###### ARTÍCULO 50.
 
@@ -693,6 +719,10 @@ Las disposiciones contenidas en esta fracción también serán aplicables cuando
 VI. Cuando sean lidiadas reses de diversas procedencias, abrirá y cerrará plaza la ganadería más antigua y si solamente se lidia un ejemplar de la ganadería más antigua, esa res abrirá plaza y el espada a quien corresponda tendrá derecho a escoger el toro que complete su lote;
 
 VII. En plazas de primera categoría habrá un mínimo de tres astados de reserva en los corrales, los cuales serán reseñados en cada festejo, detallando en las tarjetas que para el efecto controla el Juez de Plaza: ganadería de la que proceden, nombre, número con el que fue herrado a fuego, pinta, características generales y en qué lugar se lidiará en caso de que sustituya a algún astado de lidia ordinaria o bien que se trate de un toro de regalo, sujetándose a lo que establece el artículo 76 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE OCTUBRE DE 2004)</small>
+
+Para el caso de sustitución de los astados de la lidia ordinaria, para el primer toro, se dará preferencia a la ganadería que presente la corrida, siempre y cuando ésta lleve más de 6 toros, y para las sustituciones subsecuentes, la empresa, decidirá de entre las reses disponibles, cuáles serán lidiadas.
 
 En las plazas de segunda y tercera categoría, se estará a los usos y costumbres, salvo pacto en contrario.
 
@@ -784,13 +814,17 @@ Realizado el primer puyazo, el matador en turno entrará inmediatamente al quite
 
 Será el espada en turno quien solicite el cambio de tercio cuando considere que la res ha sido suficientemente picada, para lo cual el matador se descubrirá ante el Juez de Plaza. Es facultad del Juez de Plaza cambiar el tercio sin la solicitud del diestro, cuando considere que el astado ha recibido suficiente castigo.
 
-Se prohíbe picar después de ordenado el cambio, excepto cuando el Juez lo autorice a solicitud del matador en turno para que el astado reciba un puyazo extra.
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+Se prohibe picar después de ordenado el cambio, excepto cuando el matador en turno solicite y obtenga del Juez la autorización para que el astado reciba un puyazo extra.
 
 El cambio de tercio deberá hacerse hasta que el astado salga del encuentro. Los picadores abandonarán el ruedo lo más pronto posible, utilizando, si es preciso, las puertas que dan acceso al callejón. Ni en las corridas de toros ni en las novilladas se permite a los picadores desmontar en el ruedo por propia voluntad.
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### ARTÍCULO 63.
 
-Si el astado vuelve la cara a los caballos dos veces y en terrenos distintos, se ordenará que sea sustituido por uno de reserva, sin importar que haya sido superficialmente picado. Si salido el último reserva éste no cumple en varas, se le colocarán tres pares de banderillas negras por orden del Juez de Plaza, quien lo indicará por el sonido local.
+Si el astado vuelve la cara a los caballos dos veces y en terrenos distintos, el Juez de Plaza ordenará que se le coloquen banderillas de doble rejón, quien lo indicará por el sonido local.
 
 ###### ARTÍCULO 64.
 
@@ -844,9 +878,13 @@ II. Transcurridos dos minutos del primer aviso se tocará el segundo, si para en
 
 III. Si a los dos minutos de haber enviado el segundo aviso el astado sigue vivo, se tocará el tercero para que salgan los cabestros y la res sea retirada a los corrales;
 
-IV. En caso de que el diestro hiera a la res antes de los siete minutos siguientes a la orden de cambio al último tercio, se tocará el primer aviso dos minutos después de que el matador haya herido por primera vez al astado; el segundo, dos minutos más tarde y, transcurridos dos minutos de éste, el tercero, para que salgan los cabestros y el toro sea regresado vivo a los corrales;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
 
-V. El Juez hará saber a los espectadores la hora en que empieza a contar el tiempo al que se refiere este artículo, y
+IV. Se tocará el primer aviso dos minutos después de que el matador haya herido por primera vez al astado; el segundo, dos minutos más tarde y, transcurridos dos minutos de éste, el tercero, para que salgan los cabestros y el toro sea regresado vivo a los corrales;
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+V. El Juez hará saber a los espectadores la hora en que empieza a contar el tiempo al que se refiere este artículo, el cual se precisará en la pizarra que para tal efecto se encuentre localizada junto al palco de la autoridad, en plazas de primera categoría, y
 
 VI. Si un matador no puede continuar en la lidia después de haber entrado a matar, al que lo sustituya se le empezará a contar nuevamente el tiempo en los términos antes expresados.
 
@@ -854,7 +892,9 @@ VI. Si un matador no puede continuar en la lidia después de haber entrado a mat
 
 Cuando la labor del matador provoque la petición de apéndices por parte del público, el Juez de Plaza los concederá, sujetándose a las reglas siguientes:
 
-I. Una oreja será otorgada cuando una visible mayoría de espectadores la solicite ondeando sus pañuelos tras una labor meritoria del espada;
+(REFORMADA, G.O. 25 DE OCTUBRE DE 2004) (F. DE E., G.O. 17 DE NOVIEMBRE DE 2004)
+
+I. Una oreja será otorgada cuando una visible mayoría de espectadores la solicite ondeando sus pañuelos u otro objeto visible, si la estocada se ha ejecutado correctamente;
 
 II. Dos orejas serán otorgadas, luego de tomar en cuenta las condiciones de la res lidiada, la buena dirección de lidia, la brillantez de la faena realizada, tanto con el capote como con la muleta y la ejecución de la estocada;
 
@@ -886,15 +926,23 @@ Una vez muertas las reses, sus astas serán revisadas por los médicos veterinar
 
 ### CAPÍTULO VIII. DEL TORO DE REGALO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### ARTÍCULO 76.
 
-Durante la corrida o novillada los alternantes podrán anunciar el regalo de una res, para lo cual observarán estrictamente las disposiciones siguientes:
+Entre toro y toro o entre tercio y tercio de la corrida o novillada, los alternantes podrán anunciar el regalo de una res, para lo cual observarán estrictamente las disposiciones siguientes:
 
 I. Cuando más de un matador anuncie un astado de regalo, se respetará invariablemente la antigüedad de alternativa y, en el caso de los novilleros, su fecha de presentación en una plaza de primera categoría, sin importar quién anunció primero;
 
-II. El matador de toros o novillos que pretenda obsequiar un burel, una vez puesto de acuerdo con la empresa, deberá pedir permiso al Juez de Plaza y anunciarlo al público a más tardar después del tercer par de banderillas y antes de que inicie la faena de muleta el último matador con el último astado de lidia ordinaria, a menos que sea éste quien pretenda regalar, en cuyo caso podrá hacer el anuncio durante el trasteo;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+II. Para el caso de que el matador de toros o novillos pretenda obsequiar un burel, deberá seleccionar a la res de obsequio conjuntamente con el representante de la ganadería responsable del encierro;
+
+En el supuesto de que la ganadería y el matador no lleguen a un acuerdo sobre el toro de regalo, éste será el primer reserva.
 
 III. El o los toros de regalo deberán ser siempre de los reseñados previamente por el Juez de Plaza como reservas e incluidos en la tarjeta de sorteo de ese festejo. Los toros de regalo deberán lidiarse en el mismo orden establecido en el artículo 52, fracción VII, de este Reglamento, y
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 IV. Cuando un matador de toros o novillos anuncie el regalo de una res, y posteriormente sea devuelto un astado de lidia ordinaria, el reserva que corresponda en turno sustituirá al astado devuelto, así sea el elegido para obsequio.
 
@@ -1203,3 +1251,7 @@ G.O. 26 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
