@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-agrupaciones-de-productores-de-papa-en-el-estado-de-1054
 country: "mx"
 rank: "ley"
 publication_date: "1939-08-31"
-last_updated: "1941-01-26"
+last_updated: "1949-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE AGRUPACIONES DE PRODUCTORES DE PAPA EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1949.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 31 de agosto de 1939.
 
@@ -219,11 +219,11 @@ De la Venta de Productos y Cuotas.
 
 Del Subsidio.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1941)</small>
+> <small>(N. DE E. SE DEROGA EL DECRETO No. 132 PUBLICADO EN EL P.O. EL 26 DE ENERO DE 1941 QUE MODIFICA EL PRESENTE ARTICULO, MOTIVO POR EL CAL QUEDA VIGENTE EL TEXTO DEL MISMO PUBLICADO EL 31 DE AGOSTO DE 1939 MEDIANTE DECRETO No. 321, P.O. 1 DE SEPTIEMBRE DE 1949)</small>
 
 ###### ARTICULO 37º.
 
-Las agrupaciones agrícolas reconocidas y registradas conforme al Artículo Segundo de esta Ley, gozarán de un subsidio que concede el Gobierno del Estado, equivalente a un 90% del impuesto que por producción de los artículos manejados fije la Ley de Ingresos.
+"Las Agrupaciones Agrícolas reconocidas y registradas conforme al Artículo 2º de esta Ley, gozarán de un subsidio concedido por el Gobierno del Estado, por unidad de artículos manejados que será igual a la contribución que por producción de dichos artículos, fijen las disposiciones fiscales relativas".
 
 ###### ARTICULO 38º.
 
@@ -301,8 +301,22 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio de los Poderes en Guanajuato, a los 24 veinticuatro días del mes de agosto de 1939 mil novecientos treinta y nueve.- Rafael Rangel.- El Secretario General del Gobierno, Lic. Ernesto Arnoux S.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
 
 P.O. 26 DE ENERO DE 1941.
 
 Este Decreto surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 1949.
+
+###### ARTICULO PRIMERO.
+
+Se deroga el Decreto No. 132 de la XXXVI Legislatura del Estado que modifica el artículo 37 de la Ley de Agrupaciones de Productores de Papa vigente en esta Entidad.
+
+###### ARTICULO SEGUNDO.
+
+Consecuentemente de lo anterior, es de observancia el artículo 37 de la Ley de Agrupaciones de Productores de Papa en el Estado de Guanajuato, en los términos previstos por el Decreto No. 321 de la XXXVI Legislatura Constitucional del Estado, publicado en el Periódico Oficial de 31 de agosto de 1939, bajo el número 18.
+
+###### ARTICULO TERCERO.
+
+Se condona a las Asociaciones de Productores de Papa los impuestos originados por el Decreto que se deroga, solo por cuanto hace al Ciclo Agrícola del presente año, a condición de que paguen su adeudo anterior en un plazo de quince días, contado a partir de la publicación de este Decreto.
