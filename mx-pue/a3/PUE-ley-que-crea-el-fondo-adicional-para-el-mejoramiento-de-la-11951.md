@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-fondo-adicional-para-el-mejoramiento-de-la-1195
 country: "mx"
 rank: "ley"
 publication_date: "1980-11-11"
-last_updated: "1980-11-11"
+last_updated: "1987-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL FONDO ADICIONAL PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA EN EL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 1987.
 
 Ley Publicada en el Periódico Oficial del Estado de Puebla, el martes 11 de noviembre de 1980.
 
@@ -119,9 +119,15 @@ El Consejo Técnico o el Honorable Tribunal Superior de Justicia en Pleno, orden
 
 ### CAPITULO TERCERO. Del destino del fondo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 1987)</small>
+
 ###### Art. 16.
 
-Los ingresos propios del fondo, se destinarán a la adquisición de mobiliario y equipo para los tribunales y dependencias del Tribunal, así como a la capacitación profesional y técnica de los integrantes del Poder Judicial.
+Los ingresos propios del Fondo se destinarán a la adquisición de mobiliario y equipo para las oficinas y dependencias del Tribunal, a la capacitación profesional y técnica de sus integrantes y a los estímulos económicos que acuerde el Consejo Técnico a propuesta del Presidente del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 1987)</small>
+
+El monto de los recursos que se destinan en términos del párrafo anterior, en ningún caso podrá exceder del 35% (treinta y cinco por ciento) de los productos que genera el patrimonio total del Fondo.
 
 ###### Art. 17.
 
@@ -144,3 +150,11 @@ El Consejo Técnico determinará sobre las cuestiones contables y bancarias apli
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los cinco días del mes de noviembre de 1980.- OLEGARIO BATALLA VARGAS, D.P. DR. RODOLFO BARRIOS LUNA. D.S.- PROFRA. GEORGINA HUERTA DE DURAN, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palaico (sic) del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los cinco días del mes de Noviembre de mil novecientos ochenta.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DR. ALFREDO TOXQUI FERNANDEZ DE LARA.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. CARLOS TRUJILLO PEREZ.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 1987.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL H. CONGRESO DEL ESTADO, POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 16 DE LA LEY QUE CREO EL FONDO ADICIONAL PARA EL MEJORAMIENTO DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO”.]
+
+UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
