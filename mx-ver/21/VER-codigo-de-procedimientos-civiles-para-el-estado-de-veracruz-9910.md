@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1976-01-01"
+last_updated: "1979-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 1976.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1979.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -269,9 +269,11 @@ ARTICULO 40
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismo las declaraciones y presidirán todos los actos de prueba, bajo la pena de suspensión de uno a dos meses, independientemente de otra responsabilidad que pudiera resultarles.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
+
 ARTICULO 41
 
-Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar en los juzgados auxiliares, de diez pesos; en los municipales, de veinte; en los de primera instancia, de cincuenta, y de cien pesos en el Tribunal Superior. Pueden también acudir al uso de la fuerza pública.
+Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar en los juzgados auxiliares, de veinte pesos, en los municipales de trescientos, en los de primera instancia, de quinientos, y de mil pesos en el Tribunal Superior. Pueden también acudir al uso de la fuerza pública.
 
 ARTICULO 42
 
@@ -279,7 +281,9 @@ Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o amonestación;
 
-II.- La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1979)</small>
+
+II.- La multa que no exceda de quinientos pesos, que se duplicará en caso de reincidencia;
 
 III.- La suspensión que no exceda de un mes.
 
@@ -335,7 +339,9 @@ ARTICULO 53
 
 Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-I.- La multa desde cinco hasta cien pesos, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1979)</small>
+
+I.- La multa desde cincuenta hasta quinientos pesos, que se duplicará en caso de reincidencia;
 
 II.- El auxilio de la fuerza pública;
 
@@ -751,9 +757,9 @@ XIII.- En los casos de reclamación de alimentos, el del domicilio del acreedor 
 
 XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente;
 
-> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
-XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no pase de cinco mil pesos, es competente un Juez Municipal; de cinco mil pesos en adelante, uno de Primera Instancia.
+XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por la razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no pase de veinte mil pesos, es competente un Juez Municipal; de veinte mil pesos en adelante, lo es uno de Primera Instancia.
 
 ARTICULO 117
 
@@ -4725,15 +4731,11 @@ TITULO DECIMOSEPTIMO
 
 ### CAPITULO I. De la justicia municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ARTICULO 747
 
-Conocerán los Jueces Municipales de los Juicios cuya cuantía no exceda de cinco mil pesos.
-
-Para estimar el interés del negocio se atenderá a lo que el actor demande como suerte principal.
-
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
+Conocerán los Jueces Municipales de los juicios cuya cuantía no exceda de veinte mil pesos en los términos que se precisan en la fracción XV del artículo 116.
 
 > <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
 
@@ -5028,3 +5030,9 @@ G.O. 1 DE ENERO DE 1976.
 ###### ARTICULO UNICO.
 
 Estas reformas y adiciones entrarán en vigor el día de su publicación, en la "Gaceta Oficial" del Estado.
+
+G.O. 29 DE DICIEMBRE DE 1979.
+
+PRIMERO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+SEGUNDO.- De los negocios que se encuentran en trámite, seguirán conociendo, hasta su terminación, los tribunales ante los que se hubiesen planteado.
