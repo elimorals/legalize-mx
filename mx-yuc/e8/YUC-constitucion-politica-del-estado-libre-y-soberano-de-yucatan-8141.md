@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1927-06-15"
+last_updated: "1930-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 1927.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE MARZO DE 1930.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -301,7 +301,7 @@ XV.- expedir las Leyes sobre Instrucción Pública, que serán uniformes en todo
 
 (D) La Enseñanza Superior y la profesional serán o no gratuitas, según lo determinen las leyes.
 
-XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
+XVI.- prorrogar el período de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
 
 XVII.- formar su Reglamento interior;
 
@@ -359,7 +359,7 @@ XLII.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas 
 
 > <small>(REFORMADA, D.O. 19 DE NOVIEMBRE DE 1925)</small>
 
-XLIII.- Revocar (sic) el mandato conferido al Gobernador del Estado, a los Magistrados del H. Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate de Gobernador y de las dos terceras partes, para el caso de los Diputados;
+XLIII. Revocar (sic) el mandato conferido al Gobernador del Estado, a los Magistrados del H. Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate de Gobernador y de las dos terceras partes, para el caso de los Diputados;
 
 XLIV.- las demás que le confiere esta Constitución.
 
@@ -513,11 +513,13 @@ El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o an
 
 Si al comenzar un período constitucional, no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará, sin embargo, el Gobernador cuyo período hubiese concluído y se encargará desde luego del Poder Ejecutivo, con el carácter de interino, el ciudadano que designe el Congreso, y si éste no estuviese reunido, el Secretario General de Gobierno, y se convocará a elección de Gobernador en los términos del artículo cincuenta y dos. Si la ausencia del Gobernador electo se debiere a fuerza, coacción o cualquier otro impedimento que le impida materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador interino deberá entregarle el Gobierno al legalmente electo.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 1925)</small>
+> <small>(REFORMADO, D.O. 18 DE MARZO DE 1930)</small>
 
 ###### Artículo 51.
 
-En las faltas absolutas y en las temporales del Gobernador, el Congreso, o la Comisión Permanente del mismo, por mayoría absoluta del número total de Diputados o de los que compongan la Comisión Permanente, elegirá al Ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con este carácter desempeñe el Poder Ejecutivo.
+En las faltas absolutas y en las temporales del Gobernador, el Congreso, o la Comisión Permanente del mismo, por mayoría absoluta del número total de Diputados o de los que integren la Comisión Permanente, en su caso, elegirán al ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con este carácter desempeñe el Poder Ejecutivo.
+
+Cuando la falta sea temporal y no exceda de sesenta días, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -1024,6 +1026,10 @@ Este decreto surtirá sus efectos el mismo día de su publicación en el "Diario
 D.O. 15 DE JUNIO DE 1927.
 
 Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el "Diario Oficial" del Estado.
+
+D.O. 18 DE MARZO DE 1930.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
 ###### ARTICULO UNICO.
 
