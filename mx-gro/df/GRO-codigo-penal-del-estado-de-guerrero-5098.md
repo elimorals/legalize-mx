@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1999-09-27"
+last_updated: "1999-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1205,9 +1205,11 @@ Este delito, se perseguirá a petición de parte ofendida o de su legítimo repr
 
 ### CAPITULO V. APROVECHAMIENTO SEXUAL
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-146.- Al que obtenga del interesado o de un tercero vinculado a éste, la cópula para si o para otro como condición para el ingreso o la conservación del trabajo, la promoción en éste o la asignación de aumento de remuneración o prestación para el solicitante, el trabajador o sus familiares, se le impondrá prisión de tres a siete años y de cincuenta a ciento cuarenta días multa.
+146.- Al que obtenga del interesado o de un tercero vinculado a éste, la cópula para si o para otro como condición para el ingreso o la conservación o permanencia del trabajo o empleo, la promoción en éste o la asignación de aumento de remuneración o prestaciones para el solicitante, el trabajador o sus familiares, se le impondrá prisión de tres a siete años y de cincuenta a ciento cuarenta días multa.
+
+Igual pena se aplicará al que imponga la misma condición a que se refiere el párrafo anterior, para el reconocimiento u otorgamiento de derechos o beneficios económicos, profesionales o académicos.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1927,9 +1929,11 @@ IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o t
 
 ### CAPITULO IV. USURPACION DE PROFESIONES
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-215.- Al que se ostente públicamente como profesionista sin serlo, oferte públicamente sus servicios o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de dos a ocho años y de doscientos a quinientos días multa.
+215.- Al que se ostente públicamente como profesionista sin serlo, oferte públicamente sus servicios o realice actos o actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización o permiso de la autoridad competente, se le impondrá prisión de dos a ocho años y de doscientos a quinientos días multa.
+
+Las mismas penas se aplicarán al que sin tener título o autorización o permiso de la autoridad competente para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
 > <small>(REFORMADA SU DENOMINACION, P. O. 20 DE ABRIL DE 1999)</small>
 
@@ -2736,3 +2740,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE SEPTIEMBRE DE 1999.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
