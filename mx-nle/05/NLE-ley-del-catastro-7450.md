@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1974-12-28"
+last_updated: "1978-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -145,11 +145,11 @@ Las Bases Generales de Valores serán objeto de revisión cada dos años, para l
 
 Las Bases Generales por Unidades Tipo, aprobadas para cada período de 2 ó 5 años, a que se refiere el Artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 21o.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $1,000.00 (Un Mil Pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $5,000.00 (Cinco Mil Pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
@@ -266,3 +266,13 @@ SEGUNDO.- Los Municipios que hayan sido objeto de catastración o revalorizació
 TERCERO.- Se dejan sin efecto todas las disposiciones que se contrapongan con el contenido de este Decreto.
 
 CUARTO.- Por nuevos fraccionamientos, en los términos del Artículo 23 de este Decreto, se entienden aquellos cuya autorización para fraccionar se otorgue con posterioridad a la iniciación de vigencia de este Decreto.
+
+P.O. 25 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO
+
+- Esta Ley entrará en vigor el día 1o. de Enero de 1979.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
