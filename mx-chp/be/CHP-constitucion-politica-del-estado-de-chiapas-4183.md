@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1999-02-10"
+last_updated: "1999-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1999.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -507,7 +507,7 @@ II.- Iniciar ante el Congreso de la Unión las Leyes o Decretos que sean de la c
 
 III.- Crear y suprimir empleos de la Administración Estatal y señalar las asignaciones;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 1999)</small>
 
 IV.- Legislar en materia económica, educativa, indígena, cultural, electoral estatal, de protección ciudadana, de seguridad pública, de beneficencia pública o privada, así como en materia de protección y preservación del patrimonio histórico y cultural del Estado de Chiapas;
 
@@ -795,9 +795,9 @@ Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudic�
 
 VII.- Presidir el Consejo Indígena Estatal;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 1999)</small>
 
-VIII.- Velar por la protección ciudadana, la Seguridad Pública, la conservación del orden, la tranquilidad y la seguridad del Estado;
+VIII.- Velar por la protección ciudadana, la seguridad pública, la conservación del orden, la tranquilidad y la seguridad del Estado;
 
 IX.- Ejercer el mando de la Fuerza Pública del Estado y la de los Municipios donde residiere habitual o transitoriamente;
 
@@ -1435,9 +1435,9 @@ El Periódico Oficial es el órgano para dar a conocer a los habitantes del Esta
 
 Las leyes o decretos, los reglamentos, y cualesquiera otras disposiciones obligarán a los quince días de su promulgación, siempre que en los mismos no se fije la fecha en que deba comenzar su vigencia. Se entiende hecha la promulgación, el día en que termine la inserción de la ley o disposición de que se trate en el Periódico Oficial.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE MARZO DE 1999)</small>
 
-ARTICULO 82 BIS.- La protección ciudadana es una función a cargo del Estado y sus Municipios, en las respectivas competencias que esta Constitución señala; garantizando entre otras la prevención, persecución y sanción de las infracciones y delitos, la reinserción social del delincuente y del menor infractor, así como la Protección Civil del Estado.
+ARTICULO 82 BIS.- La protección ciudadana es una función a cargo del Estado y sus Municipios, en las respectivas competencias que esta Constitución señala; garantizando entre otras la prevención, persecución y sanción de las infracciones y delitos, la reinserción social del delincuente y del menor infractor, así como la protección civil del Estado.
 
 El Estado y los Municipios se coordinarán en los términos que la ley señale para establecer un sistema estatal de seguridad pública que garantice el ejercicio irrestricto de las libertades ciudadanas, la paz y orden públicos.
 
@@ -1823,24 +1823,6 @@ Quedan derogadas todas las leyes y disposiciones que se opongan al presente Decr
 
 Las presentes adiciones y reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO 5º.
-
-Son obligaciones de los habitantes del Estado:
-
-I.- Respetar y cumplir las Leyes;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-II.- Acrecentar el espíritu de solidaridad humana, respetar los valores cívicos y culturales y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
-
-III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
-
-IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
-
 ###### ARTICULO 6o.
 
 El Ejecutivo dispondrá se promulgue, circule y se le dé el debido cumplimiento.
@@ -1869,15 +1851,17 @@ Son obligaciones de los habitantes del Estado:
 
 I.- Respetar y cumplir las Leyes;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
-II.- Acrecentar el espíritu de solidaridad Humana, evitar la discriminación y desprecio hacia los pueblos indígenas, fomentar en sus hijos, el aprecio por nuestros orígenes, respeto y admiración por los indígenas, respetar los valores cívicos y culturales en las tareas de superación material y espiritual del pueblo chiapaneco;
+II.- Acrecentar el espíritu de solidaridad humana, respetar los valores cívicos y culturales y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
 
 III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad. (REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)
+IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 6º.
 
@@ -2246,3 +2230,9 @@ SEGUNDO.- Los recursos humanos, materiales y presupuestales con que actualmente 
 TERCERO.- La Comisión Estatal de Derechos Humanos, con el carácter de organismo público con personalidad y patrimonio propios que se le atribuye en esta reforma, conocerá de las quejas y demás asuntos que a la entrada en vigor del presente decreto obren en poder de dicha Comisión, como órgano desconcentrado.
 
 CUARTO.- El Ejecutivo del Estado enviará al Congreso Estatal o a la Comisión Permanente, dentro de los treinta días siguientes a la entrada en vigor de la presente reforma, la terna respectiva para el nombramiento del Presidente de la Comisión Estatal de Derechos Humanos, debiendo continuar, mientras tanto, en el ejercicio de dichas funciones, quien actualmente desempeña el cargo.
+
+P.O. 3 DE MARZO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
