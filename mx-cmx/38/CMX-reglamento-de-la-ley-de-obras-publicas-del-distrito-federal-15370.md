@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-obras-publicas-del-distrito-federal-153
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-30"
-last_updated: "1999-12-30"
+last_updated: "2002-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15370&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-09"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE FEBRERO DE 2002.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 30 de diciembre de 1999.
 
@@ -176,6 +176,8 @@ De la Planeación, Programación y Presupuestación de las Obras Públicas.
 
 ### Capítulo Único
 
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 9o.
 
 La Administración Pública en la planeación de las obras públicas, realizará los estudios técnicos previos de acuerdo a la naturaleza de las mismas y del preinversión, de factibilidad ambiental, social, urbana, técnica y económica para la realización de las obras y de los proyectos integrales o la factibilidad económica de llevar a cabo los servicios relacionados con la obra pública, tomando en consideración en la programación específica de un ejercicio presupuestal, las prioridades, la disponibilidad económica esperada y la rentabilidad de los trabajos proyectados, tomándolos de más a menos.
@@ -262,6 +264,8 @@ En los términos de la Ley, la Administración Pública sólo podrá realizar la
 
 ### Capítulo II. De la Selección
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 21.
 
 Las personas interesadas en inscribirse en el registro de concursantes, deberán solicitarlo por escrito a la Secretaría, acompañado, según su naturaleza jurídica, la siguiente información y documentos:
@@ -302,21 +306,29 @@ V. Relación de maquinaria y equipo propio y de las filiales en su caso, y
 
 VI. Relación de contratos y actas de entrega - recepción o en su defecto, cartas constancias de haber terminado satisfactoriamente los compromisos derivados de los contratos durante los últimos tres años.
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
+La Secretaría, dentro de los ocho días hábiles siguientes al de recepción de la solicitud, determinará la procedencia o no de la inscripción en el Registro de concursantes para participar en la ejecución de obras públicas. En caso de que no resuelva en el término señalado, se estará a lo dispuesto por el artículo 2° fracción XIX de la Ley de Procedimiento Administrativo del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 22.
 
-Llevando a cabo el registro, el interesado recibirá una constancia de registro con la que podrá participar en los concursos públicos, concursos por invitación a cuando menos tres participantes o adjudicaciones directas, siempre y cuando se ubique dentro de los rangos de capital contable de acuerdo con su situación financiera acreditada. En el caso de licitación pública o restringida con la constancia del registro se acreditará la información y documentos señalados en las Fracciones de la I a la III de los Apartados A o B y las Fracciones de la I a la IV del Apartado C del artículo inmediato anterior, y no será necesario presentarlos para la compra de bases o integrarlos en los paquetes de las propuestas cuyas bases se hayan adquirido por medios informáticos; en las invitaciones restringidas, se tomarán en cuenta las fracciones de los Apartados A o B y C del artículo inmediato anterior, para efecto de evaluar la elección de la empresa que realizará el trabajo de que se trate.
+Llevado a cabo el trámite, el interesado recibirá una constancia de registro de concursante, con la que podrá participar en licitaciones públicas, concursos por invitación restringida a cuando menos tres participantes o adjudicación directa, siempre y cuando se ubique dentro de los rangos de capital contable de acuerdo con su situación financiera acreditada. Con la constancia se acreditará la información y documentos requeridos correspondientes a las fracciones de la I a la III de los apartados A o B y las fracciones de la I a la IV del apartado C del artículo anterior. Invariablemente, una copia de dicha constancia deberá ser integrada dentro del sobre de la propuesta técnica.
+
+La información presentada por los interesados en la fracción IV de los apartados A o B y las fracciones V y VI del apartado C, del artículo anterior, servirá asimismo en caso de invitaciones restringidas, para proporcionar un listado de empresas en una determinada especialidad a las convocantes cuando así lo soliciten a la Secretaría.
 
 La Administración Pública deberá solicitar a la Secretaría la cancelación del registro de los concursantes, cuando tenga conocimiento que éstos se encuentran dentro de alguno de los supuestos que motiven la imposibilidad de participación de acuerdo con lo que establece la Ley.
 
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 23.
 
-En el mes de enero de cada año, la Secretaría publicará en la Gaceta Oficial del Distrito Federal, la relación de personas físicas o morales inscritas en el registro de concursantes, e informará mensualmente a las dependencias, entidades y órganos desconcentrados de las inscripciones y cancelaciones que se lleven a cabo en el período.
+En el mes de enero de cada año la Secretaría, publicará en la Gaceta Oficial del Distrito Federal, la relación de personas físicas o morales inscritas en el registro de concursantes. Asimismo mantendrá actualizado dicho registro debiendo informar mensualmente sobre las inscripciones y cancelaciones que se lleven a cabo a la Dirección General de Obras Públicas, Dirección General de Construcción y Operación Hidráulica, Dirección General de Servicios Urbanos, Dirección General de Construcción de Obras del Sistema de Transporte Colectivo, Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, Contraloría Interna de la Secretaría y a las demás dependencias, entidades y órganos desconcentrados cuando lo soliciten.
 
 ###### Artículo 24.
 
-Los interesados en participar en concursos cuya solicitud de inscripción en el registro de concursantes se encuentre en trámite ante la Secretaría, podrán adquirir las bases presentando la documentación necesaria con la constancia de registro en trámite. Si la adquisición se realiza utilizando medios informáticos, la información correspondiente se incluirá en el sobre de la propuesta técnica.
-
-La Secretaría determinará sobre la solicitud de inscripción en el registro de concursantes para participar en la ejecución de obras públicas dentro de los ocho días hábiles siguientes al de su recepción.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2002)
 
 ###### Artículo 25.
 
@@ -370,7 +382,11 @@ La información y documentación mínima que la Administración Pública proporc
 
 I. En caso de obra:
 
-a) El proyecto completo con carácter de ejecutivo que contendrá los requisitos de construcción y las especificaciones particulares del proyecto, conceptos específicos con su denominación, requisitos de ejecución, alcances, unidades de medición y la forma de medirlos, condiciones de pago y tiempo para su ejecución, salvo el caso específico de excepción señalado en el Artículo 23 de la Ley;
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
+a) El proyecto completo con carácter de ejecutivo que contendrá los requisitos de construcción y las especificaciones particulares de proyecto, conceptos específicos con su denominación, requisitos de ejecución, alcances, unidades de medición y la forma de medirlos, condiciones de pago y tiempos para la ejecución. En su caso, se informará el grado de avance del proyecto y las condiciones con las cuales se asegure que la obra se desarrollará ininterrumpidamente, por contarse con soluciones en el proceso ejecutivo de aspectos que hubieran quedado pendientes.
+
+Tratándose de obras de mantenimiento correctivo que puedan realizarse sin el proyecto ejecutivo o el grado de avance, como bacheo, reparación de fugas en instalaciones hidráulicas y otras en las que tan sólo será necesaria su presupuestación, previstas como excepción en el artículo 23 de la Ley, se proporcionará únicamente la documentación que se requiera para preparar la propuesta, conforme lo determine la Secretaría y, en su caso, las áreas de obras públicas de la entidad, delegación u órgano desconcentrado correspondiente.
 
 b) El catálogo de conceptos de trabajo o el de actividades, divididos en partidas y cualquiera ellos en grupos, precisando la referencia de las Normas de Construcción del Gobierno del Distrito Federal; de las especificaciones propias del área convocante y de las especificaciones particulares del proyecto.
 
@@ -428,13 +444,15 @@ Para efecto de lo señalado en el último párrafo del Artículo 37 de la Ley, l
 
 ###### Artículo 32.
 
-Para asegurar que un invitado a concursar en una invitación restringida presentará propuesta, deberá expedir cheque cruzado con cargo a su cuenta, expedido por institución bancaria nacional, por un monto equivalente a tres veces el salario mínimo general vigente en el Distrito Federal elevado al mes, cheque que será devuelto al concursante una vez que presente su proposición, excepción hecha de aquéllos que habiendo aceptado participar no lo hagan, a quienes se les hará efectiva la garantía.
+Para asegurar que un invitado a concursar en una invitación restringida presentará propuesta, deberá entregar fianza expedida por institución legalmente autorizada de conformidad con la ley de la materia o cheque cruzado con cargo a su cuenta, expedido por Institución Bancaria Nacional, por un monto equivalente a tres veces el salario mínimo general vigente en el Distrito Federal elevado al mes, cheque que será devuelto al concursante o la fianza cancelada una vez que presente su proposición, a excepción de aquellos que habiendo aceptado participar no lo hagan, a quienes se les hará efectiva la garantía.
 
 ###### Artículo 33.
 
 Para asegurar la seriedad de las propuestas en los concursos tanto en los de licitación pública como en los de invitación restringida a cuando menos tres participantes, el concursante deberá:
 
-I. Entregar cheque cruzado con cargo a su cuenta, expedido por institución bancaria nacional o fianza expedida por institución legalmente autorizada y de conformidad con la ley de la materia, por un monto que se fijará de acuerdo con las políticas administrativas, bases y lineamientos, quedando dicha garantía en poder de la dependencia, entidad u órgano desconcentrado convocante hasta el momento en que se dé a conocer el fallo, acto en el que se les devolverá a los concursantes con excepción del que haya resultado ganador; en caso de que algún concursante no se presentara al acto en que se de a conocer el fallo, la dependencia, entidad u órgano desconcentrado conservará la garantía correspondiente hasta por tres meses contados a partir de la fecha del fallo, lapso después del cual la dependencia, entidad u órgano desconcentrado quedará libre de toda responsabilidad;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2002)</small>
+
+I. Entregar cheque cruzado con cargo a su cuenta, en caso de no estar cruzado, podrá hacerlo el servidor público que presida el acto de apertura de propuestas económicas; el cheque será expedido por institución bancaria nacional, o bien, fianza expedida por institución legalmente autorizada y de conformidad con la ley de la materia, por un monto que se fijará de acuerdo con las políticas administrativas, bases y lineamientos, quedando dicha garantía en poder de la dependencia, entidad u órgano desconcentrado convocante, hasta el momento en que se dé a conocer el fallo, acto en el que se les devolverá a los concursantes con excepción del que haya resultado ganador; en caso de que algún concursante no se presentara al acto en que se de a conocer el fallo, la dependencia, entidad u órgano desconcentrado conservará la garantía correspondiente hasta por tres meses contados a partir de la fecha del fallo, lapso después del cual la dependencia, entidad u órgano desconcentrado quedará libre de toda responsabilidad;
 
 II. El monto de la garantía será en un porcentaje sobre el importe de la propuesta, monto que deberá ser calculado por el propio concursante; para estos efectos se entenderá como importe de la propuesta, ya sea el del trabajo o el de la sumatoria de los importes parciales de cada concepto de trabajo o el de la suma de los importes de las actividades por realizar, considerando en todos los casos los cargos adicionales y sin incluir el Impuesto al Valor Agregado, y
 
@@ -562,9 +580,13 @@ Los cargos adicionales que se agregarán a los costos directos, indirectos, fina
 
 Las cantidades que por concepto de aportaciones voluntarias a instituciones diversas, para capacitación u otros fines análogos que el contratista determine para ser descontadas de sus estimaciones y la Administración Pública las entregue en forma directa a dichas instituciones, serán con cargo a la utilidad del contratista y no se incluirán en cualquier otro cargo y tampoco el contratista podrá considerarlos en su ganancia neta.
 
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 43.
 
-Para efectos de garantizar que los sobres no han sido abiertos o violados antes de la apertura que corresponda según el Artículo 39 de la Ley, se firmará en varios sitios a lo largo del cierre de la solapa; se marcará con sello propio de la concursante en varios sitios del cierre y en otras partes del sobre, se aplicará cinta adhesiva transparente a lo largo del cierre normal de la solapa de manera que las firmas y los sellos queden debidamente cubiertos, dando vuelta a todo el sobre; se cerrará con lacre en los sitios que pudiera presentar opción de abrirse y además se marcará con sellos en todos los sitios que el concursante considere necesario.
+Para efectos de garantizar que los sobres no han sido abiertos o violados antes de la apertura que corresponda según el artículo 39 de la Ley, se firmará a lo largo del cierre de la solapa y en los sitios en los que se encuentran las junturas del sobre y se aplicará cinta adhesiva transparente alrededor de éste, así como en las junturas y el cierre de la solapa.
+
+Asimismo, para los efectos de lo señalado en el artículo 39, fracción II de la Ley, los concursantes y servidores públicos en los actos de apertura de las propuestas técnicas deberán rubricar los documentos que contengan los datos, programas y descripción estratégica a los que se refiere el artículo 33, apartado A, fracciones III, IV, V y IX de la Ley.
 
 ###### Artículo 44.
 
@@ -588,7 +610,7 @@ La Administración Pública podrá cancelar o diferir una licitación cuando exi
 
 ###### Artículo 47.
 
-Para llevar a cabo la selección de un participante cuando no se ha ocurrido a una precalificación, una vez hecha la evaluación técnica, se deberá contar con un mínimo de tres propuestas para la evaluación económica; en caso de no contar con éstas, se declarará desierto el concurso y se convocará nuevamente para repetir el procedimiento; no serán objeto de evaluación por parte de las convocantes, aquellas condiciones establecidas que tengan por objeto facilitar la presentación de las propuestas así como agilizar los actos de la licitación, tampoco lo será cualquier otro requisito cuyo incumplimiento por sí mismo no afecte la condición legal, técnica, económica, administrativa y financiera de las propuestas. La inobservancia por parte de los concursantes respectos de dichas condiciones o requisitos no será motivo para desechar las propuestas. Para la selección del contratista, invariablemente deberá llevarse a cabo el procedimiento y la evaluación señalados en los artículos 40 y 41 de la Ley y en ellos se tomará en cuenta lo siguiente:
+Para llevar a cabo la selección de un participante, una vez hecha la evaluación técnica se procederá a hacer la evaluación económica con la propuesta o propuestas que existan y se podrá continuar con el procedimiento, siempre y cuando exista una que sea económicamente conveniente y asegure el cumplimiento del objetivo del concurso; lo cual se realizará bajo la responsabilidad del titular de la Entidad, Dependencia, Órgano Desconcentrado o Unidad Administrativa que lleve a cabo el concurso, salvo en el caso de procedimientos de invitación restringida a cuando menos tres participantes, en cuyo caso se requerirá de la existencia de tres propuestas económicas para llevar a cabo la selección. No serán objeto de evaluación por parte de las convocantes, aquellas condiciones establecidas que tengan por objeto facilitar la presentación de las propuestas, así como agilizar los actos de la licitación, tampoco lo será cualquier otro requisito cuyo incumplimiento, por sí mismo no afecte la condición legal, técnica, económica, administrativa y financiera de las propuestas. La inobservancia por parte de los concursantes respecto de dichas condiciones o requisitos, no será motivo para desechar las propuestas. Para la selección del contratista, invariablemente deberá llevarse a cabo el procedimiento y la evaluación señalados en los artículos 40 y 41 de la ley y en ellos se tomará en cuenta lo siguiente:
 
 I. Tratándose de obras, haber cumplido las condiciones de la parte técnica, además que sus costos indirectos correspondan a las erogaciones por administración central según la magnitud de su organización y que los de obra sean acordes a la administración específica requerida por la magnitud de la obra en el sitio de los trabajos; que el financiamiento corresponda a los diferentes grados de liquidez o necesidad de dinero por periodo durante la ejecución de la obra y que la utilidad planteada le permita lograr una retribución de acuerdo a la magnitud de inversión, riesgo por las desviaciones que pudieran surgir en la ejecución de los trabajos imputables a él respecto de lo planeado en la propuesta y por el nivel de conocimientos y experiencia adquiridos y que deberán ser puestos a disposición en la ejecución del trabajo solicitado, así como que su capacidad financiera como empresa le permita asumir el compromiso y llegar a un buen término con el compromiso de ejecución de la obra; de no encontrar la Administración Pública conveniente el resultado por estar las propuestas demasiado altas en sus precios respecto de los del mercado, se procederá de acuerdo a lo que señala el Artículo 43 de la Ley;
 
@@ -748,6 +770,10 @@ VI. Rendir informes a la residencia de obra de la Administración Pública con u
 
 Para estos efectos deberá tomarse como referencia en la determinación de los alcances del trabajo de la supervisión en el caso de ser contratada ésta, lo establecido en Normas de Construcción del Gobierno del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
+En el caso de que durante el proceso de los trabajos se requiera de especialistas no previstos, el titular de la Unidad ejecutora del gasto, deberá solicitar por escrito a la entidad normativa la autorización tanto de la categoría requerida como de su percepción económica, para su contratación.
+
 ###### Artículo 63.
 
 El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción y afines, así como a los de seguridad y uso de la vía pública. Las responsabilidades y los daños y perjuicios que resulten por su inobservancia, serán a cargo del contratista.
@@ -796,7 +822,7 @@ Cuando por caso fortuito o por fuerza mayor, sea necesario recurrir a modificaci
 
 ###### Artículo 67.
 
-Cuando por causas imputables a la contratista, se induzca a una modificación en el programa, que afecte los intereses de la contrate, se estará a lo pactado en el contrato original, tanto en lo que hace a retrasos intermedios a la programación, como a lo que se refiere a retrasos en la entrega de los trabajos respecto de la fecha pactada para entrega de los mismos. Si por causas imputables a la contratante, o por caso fortuito o de fuerza mayor se inducen suspenciones temporales que lleven a modificaciones de programa mismos que no se puedan predecir, se instrumentarán las órdenes de trabajo para la modificación de éstos los cuales servirán de soporte para seguir pegando los trabajos ejecutados al contratista y una vez terminados éstos, se convertirán los acuerdos en un convenio modificatorio o especial según sea el caso, en el que se integren las modificaciones según las órdenes de trabajo en conjunto. En este caso se aplicarán los criterios de ajustes de costos establecidos en los artículos 53 y 54 de la Ley.
+Cuando por causas imputables a la contratista, se induzca a una modificación en el programa, que afecte los intereses de la contrate, se estará a lo pactado en el contrato original, tanto en lo que hace a retrasos intermedios a la programación, como a lo que se refiere a retrasos en la entrega de los trabajos respecto de la fecha pactada para entrega de los mismos. Si por causas imputables a la contratante, o por caso fortuito o de fuerza mayor se inducen suspenciones (sic) temporales que lleven a modificaciones de programa mismos que no se puedan predecir, se instrumentarán las órdenes de trabajo para la modificación de éstos los cuales servirán de soporte para seguir pegando los trabajos ejecutados al contratista y una vez terminados éstos, se convertirán los acuerdos en un convenio modificatorio o especial según sea el caso, en el que se integren las modificaciones según las órdenes de trabajo en conjunto. En este caso se aplicarán los criterios de ajustes de costos establecidos en los artículos 53 y 54 de la Ley.
 
 ###### Artículo 68.
 
@@ -834,9 +860,13 @@ III. En caso de rescisión administrativa del contrato por causas imputables al 
 
 En estos casos, procederá además a hacer efectivas las garantías y se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no pagados, hasta que se integre la liquidación correspondiente, lo que deberá efectuarse dentro de los treinta días hábiles siguientes a la fecha de notificación de la rescisión. En dicho finiquito deberán tomarse en cuenta los materiales y equipos adquiridos o en proceso de fabricación, los faltantes de amortizar de anticipos, el sobre costo de los trabajos aún no ejecutados, así como lo relativo a la recuperación de los materiales y equipos, que en su caso, le hayan sido entregados.
 
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 72.
 
-En todos los casos de suspensión, terminación anticipada y rescisión administrativa de contratos de obra pública, la Administración Pública deberá emitir resolución debidamente fundada y motivada señalando las causas que dieron origen a la determinación, debiendo comunicarlo por escrito a los contratistas y dando los avisos a la Secretaría de Finanzas y a la Contraloría General de la Administración Pública del Distrito Federal a más tardar el último día hábil de cada mes; mediante un informe que se referirá a los actos llevados a cabo en el mes calendario inmediato anterior.
+En todos los casos de suspensión, terminación anticipada y rescisión administrativa de contratos de obra pública, la Administración Pública deberá emitir resolución debidamente fundada y motivada señalando las causas que dieron origen a la determinación, debiendo comunicarlo por escrito a los contratistas.
+
+De los casos anteriores se dará aviso a la Secretaría de Finanzas y a la Contraloría General de la Administración Pública del Distrito Federal; a la Secretaría sólo se le comunicarán las resoluciones de rescisión administrativa, todo lo anterior a mas tardar el último día hábil de cada mes; mediante un informe que se referirá a los actos llevados a cabo en el mes calendario inmediato anterior.
 
 Lo previsto en este artículo es sin perjuicio de que los contratistas se inconformen ante la autoridad correspondiente en los términos que señala la Ley.
 
@@ -931,3 +961,9 @@ Cuarto.- En tanto se expiden las políticas administrativas, bases y lineamiento
 Quinto.- Se derogan todas aquellas disposiciones jurídicas y administrativas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Reglamento, en lo que se oponga o contravengan al mismo.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los nueve días del mes de noviembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGLE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ FERNÁNDEZ.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FRANCISCO CANO ESCALANTE.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO CORDERA PASTOR.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ALEJANDRO GERTZ MANERO.- FIRMA.- EL SECRETARIO DE TURISMO, AGUSTÍN ARROYO LEGASPI.- FIRMA.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+G.O. 28 DE FEBRERO DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en la Gaceta Oficial del Distrito
