@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1945-10-20"
+last_updated: "1946-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
-> <small>[N. DE E. EL TEXTO DE LA PRESENTE LEY ES LA MODIFICACIÓN DE LA SEGUNDA PARTE, CORRESPONDIENTE DEL ARTÍCULO 43 AL 58, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 1941.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 1945.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 1946.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 6 de julio de 1922.
 
@@ -503,23 +501,25 @@ De las infracciones a que se refieren la fracción I del artículo 32 y los art�
 
 Si las infracciones a los artículos 35, 36 y 37 fueren descubiertas por una autoridad o agente municipal, la Tesorería Municipal respectiva, percibirá el treinta por ciento de la multa.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1941)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1946)</small>
 
 ###### Artículo 55.
 
-De las infracciones no comprendidas en el artículo anterior ni expresamente sometidas a otra autoridad, conocerá el Presidente Municipal respectivo, quien en cada caso librará oficio a la Recaudación de Rentas que corresponda, para el entero de la multa; del importe de ésta, percibirán las Tesorerías Municipales el treinta por ciento.
+De las infracciones no comprendidas en el artículo anterior ni expresamente sometidas a otra autoridad, conocerá la Tesorería General del Estado, la que en cada caso librará oficio a la Recaudación de Rentas que corresponda, para el entero de la multa.
 
-(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+En caso de inconformidad, los afectados podrán recurrir al Ejecutivo del Estado, quien resolverá en definitiva; pero este recurso no podrá hacerse valer, si no se comprueba estar garantizado el interés fiscal conforme a la Ley.
+
+Los funcionarios y empleados fiscales, municipales y policíacos tienen la obligación inexcusable de turnar a la Tesorería General del Estado, en un plazo de 24 horas, el acta o constancias de la infracción descubierta, computándose dicho plazo a partir del momento en que tengan conocimiento de la propia infracción.
 
 ###### Artículo 56.
 
-El artículo que precede no es obstáculo para que el Ejecutivo por medio de los empleados fiscales, ejercite las acciones que competen al erario del Estado.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1946)
 
-(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1946)</small>
 
 ###### Artículo 57.
 
-Las infracciones a la presente ley que no estén previstas en este capítulo, se castigarán por los Presidentes Municipales con multa de diez a quinientos pesos.
+Las infracciones a la presente Ley que no estén previstas en este Capítulo, se castigarán por el Ejecutivo del Estado con multa de diez a quinientos pesos.
 
 (REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
@@ -554,3 +554,9 @@ P.O. 20 DE OCTUBRE DE 1945.
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 76.- SE DEROGAN (SIC) LOS ARTÍCULOS 6O. Y 8O. DE LA LEY CONTRA LOS VICIOS DEL ALCOHOLISMO”.]
 
 UNICO.- La presente reforma entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 1946.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 150.- SE MODIFICAN LOS ARTÍCULOS 55 Y 57 DE LA LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS”.]
+
+Artículo Unico.- El presente Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
