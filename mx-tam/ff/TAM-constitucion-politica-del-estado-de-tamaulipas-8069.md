@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1986-12-10"
+last_updated: "1987-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1987.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -419,15 +419,15 @@ El día primero de Enero siguiente, el Congreso procederá al nombramiento de un
 
 El Congreso tendrá dos períodos de Sesiones Ordinarios cada año: El primero improrrogable, comenzará el uno de enero y terminará el treinta de abril; el segundo prorrogable hasta por un mes, dará principio el uno de septiembre y terminará el treinta de noviembre. El Congreso tendrá sesiones en las fechas que señalen la Ley Orgánica del Poder Legislativo y su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Art. 45.
 
-Durante el Primer Periodo Ordinario de Sesiones, el Congreso se ocupará preferentemente de los siguientes asuntos:
+Durante el primer período Ordinario de Sesiones, el Congreso se ocupará preferentemente de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O.21 DE ENERO DE 1987)</small>
 
-I.- De examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del 15 de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación le será presentada por el Tesorero General por conducto del Ejecutivo para la fecha antes indicada, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los Presupuestos y Leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
+I.- Salvo lo dispuesto en la fracción I del artículo siguiente, de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo, antes del quince de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación presentará el Tesorero General por conducto del Ejecutivo para la fecha antes indicada, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos y leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad;
 
 II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
@@ -435,9 +435,9 @@ II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y res
 
 En el segundo período de sesiones se ocupará el Congreso:
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
 
-I.- De preferencia, en discutir y decretar las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado del año siguiente, las Iniciativas de Leyes de Ingresos y el Proyecto de Presupuesto de Egresos le serán presentados antes del día treinta de noviembre de cada año por el Ejecutivo. Sólo se podrá ampliar este plazo cuando medie solicitud del Ejecutivo suficientemente justificada a juicio del Congreso.
+I.- De preferencia, en discutir y decretar las leyes de ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado del año siguiente; las iniciativas de leyes de ingresos y el proyecto de Presupuesto de Egresos le serán presentados antes del día treinta de noviembre de cada año por el Ejecutivo. Sólo se podrá ampliar este plazo cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Igualmente examinará y calificará las cuentas de recaudación y aplicación de los fondos Estatal y Municipales, correspondiente a ese año; las Cuentas Públicas correspondientes al último año de la elección constitucional de Gobernador y Ayuntamientos, deberán ser presentadas a más tardar el día 15 de diciembre, para lo cual se prorrogará forzosamente por el mes de diciembre el período de sesiones y procederá en la forma que establece la fracción I del artículo que antecede;
 
 II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
 
@@ -975,9 +975,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI. Cuidar en los distintos ramos de la Administración de que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
 
-VII.- Presentar al Congreso las Iniciativas de Leyes de Ingresos del Estado y de los Municipios, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado y de los Municipios en el año inmediato anterior.
+VII.- Presentar al Congreso las iniciativas de leyes de ingresos del Estado y de los Municipios, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado y de los Municipios en los términos que dispone esta Constitución;
 
 VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
 
@@ -1411,11 +1411,11 @@ c).- En los de población superior a 300,000 habitantes, hasta con tres Regidore
 
 Los Partidos Políticos con derecho a participar en la Entidad que no hubiesen logrado la mayoría en la elección municipal correspondiente, podrán acreditar Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del Partido que haya obtenido la elección por mayoría en el Municipio de que se trate, pero en ningún caso se asignará a un solo Partido más de dos de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá al orden en que los candidatos a Regidores hayan sido postulados por sus respectivos Partidos y a los demás requisitos que disponga la Ley Reglamentaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 1987)</small>
 
 ###### Art. 132.
 
-La organización política y administrativa de los Municipios, las facultades y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado y otras dependencias y entidades de la Administración Pública, se determinarán en un Código Municipal o Ley Orgánica Municipal, que deberá sujetarse a las siguientes bases:
+La Organización Política y Administrativa de los Municipios, las facultades y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado y otras Dependencias y Entidades de la Administración Pública, se determinarán en un Código Municipal, que deberá sujetarse a las siguientes bases:
 
 I.- Los Ayuntamientos se renovarán totalmente cada tres años.
 
@@ -1445,9 +1445,9 @@ V.- Los presidentes municipales, regidores y síndicos de los Ayuntamientos elec
 
 VI.- Por cada miembro propietario del Ayuntamiento se elegirá un Suplente.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
 
-VII.- Los Ayuntamientos antes del día 30 de noviembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de Leyes de Ingresos, y rendirán sus cuentas anuales en la primera quincena del mes de febrero. Los Presupuestos de Egresos serán aprobados por los propios Ayuntamientos con base en sus ingresos disponibles. La Ley establecerá la constitución y funcionamiento de un Organo de la Administración Pública que se encargará del control, inspección y evaluación de las actividades de los Ayuntamientos en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y gasto público.
+VII.- Los Ayuntamientos, antes del día de treinta de noviembre de cada año, someterán a la consideración del Congreso, por conducto del Ejecutivo, los proyectos de leyes de ingresos, y rendirán sus cuentas anuales en la primera quincena del mes de febrero, con excepción del último año de su gestión, en el que rendirán sus cuentas en los términos que establece la fracción I del Artículo 46 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2443,43 +2443,23 @@ P.O. 10 DE DICIEMBRE DE 1986.
 
 UNICO.- Este Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
+P.O. 21 DE ENERO DE 1987.
+
 ###### ARTICULO PRIMERO.
 
-El Estado de Baja California tiene la extensión y límites que tenía el Territorio de Baja California Norte, y
+El presente Decreto entrará en vigor a partir de su expedición.
 
 ###### ARTICULO SEGUNDO.
 
-Entretanto se expida la respectiva ley reglamentaria, continuará en vigor el Estatuto de los Trabajadores al Servicio de los Poderes de la Unión en cuanto no se oponga a la presente.
-
-D.O.F. 20 DE DICIEMBRE DE 1960.
-
-UNICO.- El presente decreto entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
-
-D.O.F. 29 DE DICIEMBRE DE 1960.
-
-PRIMERO.- Esta adición entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-SEGUNDO.- La ley reglamentaria fijará las normas a que deben sujetarse las concesiones otorgadas con anterioridad a la vigencia de la presente ley.
-
-D.O.F. 27 DE NOVIEMBRE DE 1961.
-
-UNICO.- Esta reforma entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 2 DE NOVIEMBRE DE 1962.
-
-UNICO.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 21 DE NOVIEMBRE DE 1962.
+Se concede, por esta única vez, un plazo de quince días para que los Ayuntamientos cumplan con su obligación de someter a la consideración del Congreso su cuenta anual del presente ejercicio fiscal.
 
 ###### ARTICULO TERCERO.
 
-La Cámara de Senadores a propuesta en ternas del Ejecutivo Federal, nombrará un Gobernador Provisional en cada uno de los Estados de Baja California Sur y Quintana Roo. Los Gobernadores Provisionales rendirán la protesta constitucional ante el propio Senado de la República y tomarán desde luego posesión de sus cargos, convocando a elecciones para integrar las legislaturas constituyentes locales, a más tardar el 12 de octubre de 1974.
+Se derogan las disposiciones que se opongan a la presente Ley.
 
 ###### ARTICULO CUARTO.
 
-Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en la Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberán integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
-
-Los amparos en revisión, penales, civiles, administrativos o del trabajo, que actualmente radican en la Suprema Corte de Justicia y que conforme a estas reformas sean de la competencia de los Tribunales Colegiados de Circuito, pasarán al conocimiento del Tribunal Colegiado de Circuito que corresponda.
+Publíquese en el Periódico Oficial del Estado para su conocimiento y efectos.
 
 ###### ARTICULO UNICO.
 
