@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-indigena-del-estado-de-quintana-roo-11913"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-14"
-last_updated: "1997-08-14"
+last_updated: "1997-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "ROO"
 
 LEY DE JUSTICIA INDIGENA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 14 de agosto de 1997
 
 DECRETO 79
 
-LA H. VIII LEDISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+LA H. VIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
 DECRETA
 
@@ -71,11 +71,11 @@ El Tribunal Superior de Justicia, oyendo al Consejo de la Judicatura de la Justi
 
 ### CAPITULO III. DE LOS ORGANOS DEL SISTEMA DE JUSTICIA INDIGENA
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1997.)</small>
 
-Para la supervisión, capacitación y orientación de los jueces tradicionales, se integrará un Consejo de la Judicatura de la Justicia Indígena, con un magistrado de asuntos indígenas que designe el Tribunal Superior de Justicia, quien lo presidirá, y con cuatro representantes designados uno por cada centro ceremonial maya.
+###### Artículo 8.
 
-Este Consejo de la Judicatura vigilará el desempeño de los cargos de jueces tradicionales y magistrados de asuntos indígenas, validará sus nombramientos y vigilará que los órganos de justicia indígena cuenten con lo necesario para el cumplimiento de sus funciones.
+Para la supervisión, capacitación y orientación de los jueces tradicionales, se integrará un Consejo de la Judicatura de la Justicia Indígena, con un Magistrado de Asuntos Indígenas que designe el Tribunal Superior de Justicia, quien lo presidirá y con cinco representantes designados uno por cada centro ceremonial maya.
 
 ###### Artículo 9º.
 
@@ -227,9 +227,11 @@ Los convenios o los laudos se cumplirán en los plazos que se estipulen en ésto
 
 En caso de incumplimiento, el juez tradicional los ejecutará en la vía de apremio.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 29.
 
-El Tribunal Superior de Justicia del Estado, en la aplicación de los procedimientos, acuerdos y resoluciones en materia de justicia indígena, dictará las disposiciones de carácter general necesarias para que se cumplan los objetivos del Sistema de Justicia Indígena.
+El Pleno del Tribunal Superior de Justicia del Estado, en la aplicación de los procedimientos, acuerdos y resoluciones en materia de justicia indígena, así como en los casos no previstos en la presente ley, dictará las disposiciones de carácter general necesarias para que se cumplan los objetivos del Sistema de Justicia Indígena.
 
 ### CAPITULO VIII. DE LAS INCONFORMIDADES
 
@@ -268,3 +270,11 @@ ING. MARIO E. VILLANUEVA MADRID
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE NOVIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
