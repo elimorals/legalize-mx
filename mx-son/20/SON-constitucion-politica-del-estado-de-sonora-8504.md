@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1992-11-12"
+last_updated: "1992-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1992.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -42,6 +42,10 @@ Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembr
 ###### Artículo 1.
 
 Los derechos del hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, dichas garantías y las prerrogativas que esta Constitución Local concede.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+
+El Estado reconoce la composición pluricultural de su población, en particular la asentada en los grupos de nuestro origen, y proveerá lo necesario para asegurar el respeto a sus lenguas, culturas, usos, costumbres, recursos, formas específicas de organización social y garantizarles el efectivo acceso a la jurisdicción estatal, procurando consolidar los rasgos de nuestra nacionalidad.
 
 ###### Artículo 2.
 
@@ -305,7 +309,7 @@ Artículo 25 A. El Gobierno del Estado está obligado a promover, orientar y con
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo.
+Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se considerén prioritarias para el desarrollo.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -413,7 +417,9 @@ III. Tener vecindad y residencia efectiva dentro del Distrito Electoral correspo
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, Presidente Municipal ni ejercido mando militar alguno en el Distrito Electoral de la elección dentro de los noventa días inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
+
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario, Presidente Municipal ni ejercido mando militar alguno en el Distrito Electoral de l (sic) elección dentro de los noventa días inmediatamente anteriores al día de la elección.
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
@@ -627,7 +633,7 @@ IV. Para ratificar o no la creación de nuevos Estados dentro de los límites de
 
 V. Para establecer las bases de todo arreglo amistoso sobre límites del territorio de Sonora.
 
-VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataque la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
+VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataquen la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -723,7 +729,7 @@ XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan
 
 XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
-XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
+XXIX. Para otorgar permisos o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
 XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
@@ -893,9 +899,9 @@ III. Tener treinta años cumplidos, por lo menos, el día de la elección.
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario o Subsecretario, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
@@ -1049,9 +1055,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 5 DE JULIO DE 1984)</small>
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-XXIV. Nombrar y remover libremente al Secretario y a los Subsecretarios de Gobierno, Secretarios de Despacho, Procurador General de Justicia, Tesorero General del Estado y Oficial Mayor, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y de lo Contencioso Administrativo, sometiéndolo a la aprobación del Congreso.
+XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, Procurador General de Justicia, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y de lo Contencioso Administrativo, sometiéndolo a la aprobación del Congreso.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1129,15 +1135,17 @@ XIII. Conceder licencias para juegos de azar.
 
 Para el despacho de los asuntos de orden administrativo del Poder Ejecutivo, la administración pública será directa y paraestatal, conforme a la Ley Orgánica que expida el Congreso del Estado, la cual definirá las facultades que serán competencia de la administración directa y definirá las bases generales de creación, operación, vigilancia y supresión del sector paraestatal.
 
-Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios de Despacho, Tesorero General del Estado, Oficial Mayor y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que le señalen la Ley Orgánica.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+
+Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que les señale la Ley Orgánica.
 
 > <small>(REFORMADO, B.O. 11 DE JUNIO DE 1984)</small>
 
 Los Subsecretarios de Gobierno auxiliarán en sus funciones y suplirán en sus ausencias temporales al Secretario de Gobierno y tendrán las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-Artículo 81 A. Para ser Secretario de Gobierno se deben reunir los mismos requisitos que para ser Gobernador del Estado. Para ser Secretario de Despacho, Oficial Mayor y Tesorero General del Estado, se requiere ser mexicano por nacimiento, mayor de treinta años de edad y estar en ejercicio de sus derechos.
+Artículo 81 A. Para ser Secretario de Gobierno se deben reunir los mismos requisitos que para ser Gobernador del Estado. Para ser Secretario de Despacho, se requiere ser mexicano por nacimiento, mayor de treinta años de edad y estar en ejercicio de sus derechos.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1161,31 +1169,27 @@ La Hacienda del Estado se constituirá por las contribuciones que decrete el Con
 
 Los ingresos no tendrán otro objeto que cubrir los gastos decretados por el Congreso, y las contribuciones se establecerán sólo en los casos estrictamente necesarios para que, unidas a las demás fuentes de ingresos, cubran dichos gastos.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 85.
 
-La recaudación de las contribuciones se encomienda a una oficina que se llamará Tesorería General del Estado.
+El Estado, para la recaudación de las contribuciones y para efectuar el pago de los gastos, se deberá sujetar estrictamente a las Leyes de Ingresos y a los presupuestos de Egresos del Estado, y demás Leyes relativas.
 
-La Tesorería General estará a cargo de un Tesorero, dependiente del Poder Ejecutivo.
-
-Para la recaudación de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse estrictamente a las leyes de presupuestos y demás relativas.
-
-> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 86.
 
-Todos los egresos que efectúe el Tesorero General del Estado, se harán con la aprobación escrita del Gobernador, con cargo a las partidas presupuestales correspondientes, en la forma que establezca la ley reglamentaria respectiva.
+Toda erogación o ejercicio presupuestario, se hará con cargo a las partidas presupuestales correspondientes, en la forma que establezca la Ley reglamentaria respectiva.
 
 ###### Artículo 87.
 
 Sólo los empleados de Hacienda manejarán caudales del Estado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 88.
 
-El Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán, previamente, ante el Ejecutivo, fianza suficiente para garantizarlo de acuerdo con la ley respectiva.
+Los funcionarios y empleados de Hacienda, que tengan manejo de caudales públicos, otorgarán previamente, ante el Ejecutivo, fianza suficiente para garantizarlo, de acuerdo con la Ley respectiva.
 
 #### SECCION II.
 
@@ -1865,9 +1869,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-Sólo podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y los Subsecretarios de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Tesorero General del Estado y los Subtesoreros, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primer Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -1891,11 +1895,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario y Subsecretarios de Gobierno, Secretarios de Despacho, Oficial Mayor, Tesorero General del Estado, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2528,6 +2532,12 @@ B.O. 30 DE DICIEMBRE DE 1991.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 12 DE NOVIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE DICIEMBRE DE 1992.
 
 ###### ARTICULO UNICO.
 
