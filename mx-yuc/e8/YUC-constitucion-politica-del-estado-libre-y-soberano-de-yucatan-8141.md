@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1944-10-04"
+last_updated: "1946-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 1944.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE OCTUBRE DE 1946.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -871,7 +871,7 @@ De las sanciones que impongan las autoridades municipales, resolverá definitiva
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
 
 ###### Artículo 74.
 
@@ -907,13 +907,13 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de Gobierno democrático, representativo, popular, teniendo como base de su división territorial y de su organización política los municipios regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermediaria. Los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad popular y directamente cada dos años, en la forma que la Ley prescriba. Uno de los Concejales será electo con carácter de Presidente.
+El Estado de Yucatán adopta para su régimen interior la forma de gobierno republicano, democrático, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, los municipios, regidos por ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermediaria. Los ayuntamientos se compondrán de concejales, que serán electos en su totalidad, popularmente, por elección directa, cada tres años en la forma que la ley prescriba. Uno de los concejales será electo con carácter de Presidente.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
 
 ###### Artículo 77.
 
-Si un Ayuntamiento renunciare colectivamente, solo se convocará para elecciones municipales si faltare un año o más para terminar el periodo por el que hubiere sido electo el Ayuntamiento que renunció. Si faltare menos de un año, el Congreso procederá como dispone la fracción XL del artículo 30.
+Si un ayuntamiento renunciare colectivamente, solo se convocará para elecciones municipales si faltaren dieciocho meses o más para terminar el periodo por el que hubiere sido electo el ayuntamiento que renuncia. Si faltaren menos de dieciocho meses, el Congreso procederá como dispone la fracción XL del artículo 30.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1181,7 +1181,7 @@ Por tanto, mando se imprima y publique para su cumplimiento, en Mérida, de Yuca
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
-D.O. 6 DE ENERO DE 1920
+D.O. 6 DE ENERO DE 1920.
 
 ###### ARTICULO SEGUNDO
 
@@ -1332,6 +1332,10 @@ Esta Ley comenzará a regir al día siguiente de su publicación en el "Diario O
 D.O. 4 DE OCTUBRE DE 1944.
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+D.O. 2 DE OCTUBRE DE 1946.
+
+ARTICULO SEGUNNDO (SIC).- Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
