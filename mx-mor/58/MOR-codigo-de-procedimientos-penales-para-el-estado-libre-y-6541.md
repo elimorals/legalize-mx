@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2003-09-03"
+last_updated: "2004-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1187,6 +1187,12 @@ V. Si se trata de fraude, se requerirá la intervención de peritos para estable
 
 VI. En el supuesto de inducción para cometer despojo, se atenderá a la declaración de testigos dignos de fe, coincidentes en la esencia de los hechos sobre los que rinden testimonio, si no es posible acreditar aquéllos y la responsabilidad por otros medios.
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2004)</small>
+
+VII.- Para integrar los elementos del cuerpo del delito de violencia familiar, deberán acreditarse las calidades específicas y circunstancias de los sujetos señalados en la ley penal sustantiva, además de agregarse en la averiguación previa los dictámenes de peritos en las áreas de psicológica y social, según se establece en el presente Código.
+
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con la violencia familiar, podrán rendir sus informes por escrito que les sean solicitados por las autoridades. Así mismo, dichos profesionistas podrán colaborar en calidad de Peritos sujetándose a las disposiciones de este ordenamiento.
+
 ### CAPITULO V. OBJETOS RELACIONADOS CON EL DELITO
 
 ###### ARTICULO 139.
@@ -1287,11 +1293,59 @@ El Ministerio Público puede ordenar la detención del indiciado en caso de urge
 
 Hay urgencia cuando:
 
-I. Se trata de delito grave. Son delitos graves, para los efectos de este Código:
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2004)</small>
 
-a) Los perseguibles de oficio y sancionados con más de diez años de prisión, en el término medio de la punibilidad correspondiente, así como los cometidos con alguna calificativa prevista por la ley; y
+I. Se trata de delito grave. Son delitos graves, para los efectos de este Código, los previstos en la legislación penal estatal que a continuación se señalan:
 
-b) Los cometidos por reincidentes, perseguibles de oficio y sancionados con más de cinco años de prisión, en el término medio de la punibilidad respectiva, así como los realizados con alguna calificativa prevista por la ley.
+1.- Homicidio simple, previsto en el artículo 106.
+
+2.- Homicidio doloso de ascendientes o descendientes por consanguinidad en línea recta, previsto por el artículo 107.
+
+3.- Homicidio calificado previsto en el artículo 108.
+
+Homicidio doloso cometido durante la comisión de secuestro, robo o violación, previsto en el artículo 109.
+
+4.- Lesiones previstas en la fracción IX del artículo 121.
+
+5.- Secuestro previsto en el artículo 140.
+
+6.- Extorsión previsto en el artículo 146.
+
+7.- Violación previsto en los artículos 152, 153, 154, 155 y 156.
+
+8.- Inseminación artificial sin consentimiento, previsto en el artículo 157.
+
+9.- Hostigamiento sexual, previsto en el cuarto párrafo del artículo 158.
+
+10.- Abuso sexual en persona menor de edad, cuando se empleare violencia física, previsto en el primer párrafo del artículo 162.
+
+11.- Robo previsto en la fracción IV del artículo 174.
+
+12.- Robo calificado previsto en el artículo 176.
+
+13.- Robo de vehículo automotor previsto en el artículo 176 bis.
+
+14.- Robo previsto en el artículo 177.
+
+15.- Abigeato, previsto en los artículos 179, 180 y 181.
+
+16.- Despojo previsto en el artículo 185.
+
+17.- Delitos cometidos por fraccionadores previsto en el artículo 192.
+
+18.- Operaciones con recursos de procedencia ilícita, previsto en el párrafo tercero del artículo 198.
+
+19.- Corrupción de menores e incapaces previsto en los párrafos segundo y tercero del artículo 213 quater.
+
+20.- Asociación delictuosa previsto en los párrafos segundo y tercero del artículo 244.
+
+21.- Rebelión cuando se realice en las circunstancias previstas en el artículo 259.
+
+22.- Terrorismo previsto en el artículo 263.
+
+23.- Todos los delitos cometidos por servidores públicos con motivo del ejercicio de su función.
+
+Así mismo, los delitos graves en grado de tentativa serán considerados como graves; salvo aquellos que no admitan tentativa.
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -2215,7 +2269,7 @@ Si el inculpado por un delito del orden común tiene el hábito o la necesidad d
 
 ###### ARTICULO 268.
 
-Las partes podrán ofrecer durante la instrucción, las pruebas conducentes a sustituir la pena privativa de libertad por otra sanción, en los términos previstos por el Código Penal. Asimismo, el Juzgador podrá ordenar de oficio la práctica de diligencias con el mismo fin. Si el inculpado o su defensor aportan pruebas para este efecto, no se entenderá que admiten tácitamente la existencia del delito o de la responsabilidad atribuídos a aquél.
+Las partes podrán ofrecer durante la instrucción, las pruebas conducentes a sustituir la pena privativa de libertad por otra sanción, en los términos previstos por el Código Penal. Asimismo, el Juzgador podrá ordenar de oficio la práctica de diligencias con el mismo fin. Si el inculpado o su defensor aportan pruebas para este efecto, no se entenderá que admiten tácitamente la existencia del delito o de la responsabilidad atribuidos a aquél.
 
 Si no se hubiese ordenado la sustitución en la sentencia de primera instancia, se podrá formular la solicitud y presentar las pruebas correspondientes en la segunda.
 
@@ -2320,3 +2374,11 @@ P.O. 3 DE SEPTIEMBRE DE 2003.
 PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 29 DE JUNIO DE 2004.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
