@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2000-07-21"
+last_updated: "2001-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -149,13 +149,19 @@ XI.- Informar y orientar a los educandos sobre los perjuicios que causan los ene
 
 XII.- Fomentar y encausar (sic) el desarrollo y la aplicación del avance científico y tecnológico de acuerdo con las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza.
 
-XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro, y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro;
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2000)</small>
 
 XIV.- Inculcar en el educando, una cultura de cumplimiento a la obligación constitucional de contribuir al gasto público, como medio para satisfacer las necesidades de la comunidad y alcanzar el bienestar general; asimismo a ejercer el derecho para exigir de la autoridad, su adecuada aplicación.
 
-XV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+
+XV.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad; y
+
+XVI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -201,7 +207,13 @@ XVII.- Promover servicios educativos, distintos de los previstos en la fracción
 
 XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, la categoría de institución de excelencia, de conformidad con la reglamentación que para tal efecto expidan las autoridades educativas de la entidad, y
 
-XIX.- Las demás atribuciones que emanen del Artículo 3o. Constitucional, la Ley General de Educación y las normas reglamentarias correspondientes.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la prevención del delito y de concientizar de las influencias negativas que el delito provoca en la sociedad; y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+XX.- Las demás atribuciones que emanen del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 ###### ARTICULO 16.
 
@@ -225,9 +237,13 @@ VI.- Apoyar el funcionamiento del Consejo Municipal de Participación Social pre
 
 VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+VIII.- Promover programas de fomento a la cultura de la prevención del delito y a la no violencia.
+
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-VIII.- Auxiliar al Titular del Poder Ejecutivo del Estado en el cumplimiento de esta Ley y los reglamentos que de ella emanen, vigilando que los servicios educativos que otorga el Estado guarden equilibrio y concuerden con las demandas que plantean las comunidades municipales.
+IX.- Auxiliar al Titular del Poder Ejecutivo del Estado en el cumplimiento de esta Ley y los reglamentos que de ella emanen, vigilando que los servicios educativos que otorga el Estado guarden equilibrio y concuerden con las demandas que plantean las comunidades municipales.
 
 ###### ARTICULO 17.
 
@@ -477,7 +493,9 @@ Para propiciar el desarrollo de sus comunidades el Estado impulsará la educaci�
 
 I.- Misiones culturales.
 
-II.- Programas de preservación y mejoramiento de la salud.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+II.- Programas de educación, integración familiar, protección, salud, cultura, deporte, defensa legal y fortalecimiento de la Cultura de la Prevención del Delito y la legalidad.
 
 III.- Programas de mejoramiento del medio ambiente y preservación ecológica.
 
@@ -924,3 +942,7 @@ Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su
 P.O. 21 DE JULIO DE 2000.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
