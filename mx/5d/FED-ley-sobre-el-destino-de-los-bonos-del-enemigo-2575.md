@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-el-destino-de-los-bonos-del-enemigo-2575"
 country: "mx"
 rank: "ley"
 publication_date: "1951-12-31"
-last_updated: "1951-12-31"
+last_updated: "2004-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1951-12-29"
 
 LEY SOBRE EL DESTINO DE LOS BONOS DEL ENEMIGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 27 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 31 de diciembre de 1951.
 
@@ -70,3 +72,9 @@ Esta ley entrará en vigor el día de su publicación en el "Diario Oficial" de 
 Carlos I. Serrano, S.P.- Alfonso Pérez Gasga, D.P.- Alfonso Corona del Rosal, S.S.- Saturnino Coronado Organista, D.S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los 29 días del mes de diciembre de mil novecientos cincuenta y uno.- Miguel Alemán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Ernesto P. Uruchurtu.- Rúbrica.- El Secretario de Economía, Antonio Martínez Báez.- Rúbrica.- El Secretario de la Defensa Nacional, Gilberto R. Limón.- Rúbrica.- El Subsecretario de Marina, Encargado del Despacho, Alberto J. Pawling.- Rúbrica.- El Secretario de Bienes Nacionales e Inspección Administrativa, Angel Carvajal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 27 DE MAYO DE 2004.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
