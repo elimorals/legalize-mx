@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-universidad-autonoma-del-estado-de-baja-3885
 country: "mx"
 rank: "ley_organica"
 publication_date: "1957-02-28"
-last_updated: "1958-02-28"
+last_updated: "1966-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1966.
 
 Ley Orgánica publicada en el Alcance al Periódico Oficial de Baja California, el 28 de febrero de 1957.
 
@@ -309,13 +309,15 @@ El Rector deberá ser mexicano por nacimiento y, además, deberá satisfacer ple
 
 El Rector vigilará el exacto cumplimiento de las disposiciones expedidas por la Junta de Gobierno y el Consejo Universitario; y puede vetar los acuerdos de esta última autoridad que no sean de carácter técnico, en cuyo caso la resolución definitiva será de la competencia de la Junta de Gobierno, según lo dispuesto en la fracción IV del artículo 22.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1966)</small>
+
 ###### Artículo 26.
 
-El patronato Universitario estará integrado por siete miembros electos entre los sectores Bancario, Comercial, Industrial, Obrero, Agrícola, Ganadero y Profesional del Estado. La designación será hecha por representantes de las personas dedicadas a estas actividades, en la forma que estimen conveniente. Durarán en el desempeño de su cometido por tiempo indefinido y no recibirán por este concepto retribución, ni compensación alguna.
+El Patronato Universitario se integrará por cuatro miembros. Serán electos por mayoría de votos de los miembros de la Junta de Gobierno, de entre los Ciudadanos de cada uno de los Municipios de la Entidad, de ternas que proponga el Gobernador del Estado. Durarán en el desempeño de su cargo seis años, podrán ser reelectos y no percibirán por este concepto retribución, ni recompensa económica.
 
-> <small>(F. DE E., P.O. 28 DE FEBRERO DE 1957)</small>
+Para formar parte del Patronato Universitario se requieren los requisitos que establecen las Fracciones I y II del Artículo 21, tener experiencia en asuntos financieros o de administración y gozar de estimación como personas prudentes.
 
-Para formar parte del Patronato deberán satisfacer los mismos requisitos que fijan las Fracciones I y II del Artículo 21, procurándose que tales nombramientos recaigan en personas de reconocida experiencia en asuntos financieros y que gocen de general estimación como personas honorables y prudentes.
+Los miembros del Patronato elegirán entre si, a un Presidente, un Secretario y dos Vocales.
 
 ###### Artículo 27.
 
@@ -560,3 +562,13 @@ P.O. 28 DE FEBRERO DE 1958.
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado, quedando derogadas todas las disposiciones, acuerdos, leyes y decretos que se opongan a lo que en él se manda.
+
+P.O. 20 DE ABRIL DE 1966.
+
+###### ARTICULO PRIMERO.
+
+Esta Reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta sola vez, dos de los miembros del Patronato Universitario durarán en su cargo solamente tres años, elegidos por medio de insaculación que efectúen los miembros del Patronato en su primera reunión.
