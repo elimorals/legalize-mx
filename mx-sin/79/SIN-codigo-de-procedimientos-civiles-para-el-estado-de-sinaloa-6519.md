@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1942-04-21"
+last_updated: "1943-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1943.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -2897,11 +2897,11 @@ En el caso previsto en el segundo párrafo del artículo 2797 del Código Civil,
 
 Del Juicio Sumario de Desahucio.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
 
 ###### Artículo 475.
 
-La demanda de desocupación debe fundarse en la falta de pago de una o más mensualidades y se acompañará el documento en que conste el contrato de arrendamiento.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará el documento en que conste el contrato de arrendamiento.
 
 ###### Artículo 476.
 
@@ -6338,3 +6338,7 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación e
 P.O. 21 DE ABRIL DE 1942.
 
 Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
+
+P.O. 31 DE JULIO DE 1943.
+
+Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
