@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1949-04-06"
+last_updated: "1950-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1950.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -257,7 +257,9 @@ ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
 
 I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
 
-II.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1950)</small>
+
+II.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el mismo, con residencia en él, por más de un año.
 
 III.- Tener veinticinco años cumplidos el día de la elección.
 
@@ -491,7 +493,7 @@ X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XI.- Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva.
+XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva.
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado.
 
@@ -553,7 +555,7 @@ XXXVI. Convocar a elecciones extraordinarias de Diputados y Ayuntamientos en los
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo.
+XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo.
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general.
 
@@ -1728,5 +1730,9 @@ PRIMERO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de s
 SEGUNDO.- Queda abrogado el Artículo 12 del Decreto No. 107 expedido por la H. Legislatura del Estado, el 19 de noviembre de 1946.
 
 P.O. 6 DE ABRIL DE 1949.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 1950.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
