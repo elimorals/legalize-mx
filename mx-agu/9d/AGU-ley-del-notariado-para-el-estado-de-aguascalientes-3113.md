@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "1987-11-29"
+last_updated: "1992-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -781,7 +781,9 @@ La Secretaría de Gobierno y el Consejo Auxiliar del Notariado, llevarán un lib
 
 Para que el notario pueda actuar debe:
 
-I.- Otorgar anualmente fianza de compañía legalmente autorizada para expedirla, a favor de la Tesorería General del Estado, por la cantidad que resulte de multiplicar por setecientos treinta el importe del salario mínimo general diario en la ciudad de Aguascalientes;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+I.- Otorgar anualmente fianza de compañía legalmente autorizada para expedirla, a favor de la Secretaría de Finanzas, por la cantidad que resulte de multiplicar por setecientos treinta el importe del salario mínimo general diario en la ciudad de Aguascalientes;
 
 II.- Proveerse a su costa de sello y protocolo;
 
@@ -793,7 +795,9 @@ IV.- Establecer su oficina en el lugar en donde vaya a desempeñar su cargo.
 
 El monto de la fianza a que se refiere la fracción I del artículo anterior, se aplicará de la siguiente manera:
 
-a).- Por la cantidad que corresponda y en forma preferente, al pago de multas u otras responsabilidades administrativas, cuando ante la negativa del notario, se deba hacer el pago forzoso a la Tesorería General del Estado u otras dependencias fiscales.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+a).- Por la cantidad que corresponde y en forma preferente al pago de multas u otras responsabilidades administrativas, cuando ante la negativa del notario, se deba hacer el pago forzoso a la Secretaría de Finanzas u otras dependencias fiscales.
 
 b).- En el orden determinado por la autoridad judicial, cuando se deba cubrir a un particular el monto fijado en sentencia firme condenatoria por responsabilidad civil en contra de un notario.
 
@@ -1068,3 +1072,7 @@ UNICO.- El presente Decreto entrará en vigor a los tres días de su publicació
 P.O. 29 DE NOVIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
