@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1918-08-15"
+last_updated: "1928-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1918.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -133,9 +133,13 @@ El ejercicio del Poder Legislativo del Estado, se deposita en una asamblea de re
 
 Los diputados al Congreso del Estado serán electos en su totalidad cada dos años. Por cada diputado propietario se eligirá un suplente.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Artículo 22.
 
-Cada Distrito Electoral elegirá un diputado propietario y un suplente, bajo el concepto de que los Distritos Electorales se formarán como lo determina el artículo 52 de la Constitución General de la República; pero en ningún caso el número de representantes podrá ser menor de quince.
+El Estado se dividirá en 11 once Distritos Electorales, y cada Distrito eligirá un Diputado Propietario y un Suplente.
+
+El número de Diputados que integren la Legislatura podrá variar solo en los términos establecidos por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 23.
 
@@ -1330,5 +1334,9 @@ Dado en el Palacio del Poder Ejecutivo del Estado en Morelia, a los cinco días 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 15 DE AGOSTO DE 1918.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+
+P.O. 13 DE SEPTIEMBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
