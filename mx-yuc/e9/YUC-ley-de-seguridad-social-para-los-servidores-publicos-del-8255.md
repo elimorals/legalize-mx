@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1991-12-16"
+last_updated: "1992-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -185,7 +185,7 @@ Las obligaciones de esta Institución con los servidores públicos y los jubilad
 
 ###### Artículo 13.
 
-Cuando las aportaciones ordinarias o extraordinarias en favor del Instituto y los productos y recursos propios de que disponga no sean suficientes para cubrir los servicios y demás obligaciones a su cargo, el déficit que se presente, cualquiera que sea su monto, deberá absorberse oportunamente por las Entidades Públicas en la proporción que a cada una de ellas corresponda. El Consejo Directivo del Instituto dictará los acuerdos que procedan a fin de que la prestación de los servicios y obligaciones se reanuden a la brevedad posible.
+Cuando las aportaciones ordinarias o extraordinarias en favor del Instituto y los productos y recursos propios de que disponga no sean suficientes para cubrir los servicios y demás obligaciones a su cargo, el déficit que se presente, cualquiera que sea su monto, deberá absorverse oportunamente por las Entidades Públicas en la proporción que a cada una de ellas corresponda. El Consejo Directivo del Instituto dictará los acuerdos que procedan a fin de que la prestación de los servicios y obligaciones se reanuden a la brevedad posible.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -455,7 +455,7 @@ Todo préstamo a corto plazo se considera insoluto cuando el deudor deje definit
 
 El préstamo especial con garantía colateral será aquél que llene tal requisito a satisfacción del Director General. Estará destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación económica del servidor público y de su familia. El Director General calificará su procedencia y señalará los términos de la garantía colateral.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 50.
 
@@ -465,7 +465,7 @@ El monto máximo del préstamo especial con garantía colateral, que se otorgue 
 
 Todo préstamo especial se documentará con arreglo a los títulos ejecutivos mercantiles.
 
-En ningún caso se hará renovación o ampliación de esta clase de préstamos.
+Sólo se concederá un nuevo préstamo de esta clase, cuando se encuentre liquidado el anterior. Sin embargo, podrán renovarse en su monto, si ya transcurrieron 15 meses a partir de la fecha de su otorgamiento y se está al corriente en el pago de los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que cause el préstamo renovado.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -739,9 +739,11 @@ Aceptada la jubilación, el servidor público queda obligado a separarse definit
 
 Cuando existan varias personas que tengan derecho a una pensión, la cuota diaria se dividirá en partes iguales. Al fallecer o perder sus derechos una o varias de aquellas personas, la parte o las partes de la pensión que les correspondía quedará a beneficio del patrimonio del Instituto. Se mantendrá íntegra la cuota diaria total de la pensión, si entre los partícipes con derechos vigentes se encuentra el cónyuge supérstite o la concubina reconocida legalmente.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
+
 ###### Artículo 83.
 
-La percepción de una pensión concedida por el Instituto, es incompatible con el desempeño de cualquier cargo remunerado en las Entidades Públicas, con excepción de los de elección popular.
+La percepción de una pensión concedida por el Instituto, no es incompatible con el desempeño de cualquier cargo remunerado en las Entidades Públicas.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -1154,3 +1156,7 @@ SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación
 D.O. 16 DE DICIEMBRE DE 1991.
 
 UNICO.- Este Decreto entrará en vigor el día 1º. de enero de 1992, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 20 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
