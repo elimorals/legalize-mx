@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "1993-03-13"
+last_updated: "1995-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -59,43 +59,79 @@ DE LA ORGANIZACION DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
 DE LOS INTEGRANTES DE LA PROCURADURIA.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 1995)</small>
 
 ###### ARTICULO 3o.
 
-La Procuraduría General de Justicia estará integrada por los siguientes servidores públicos y autoridades administrativas:
+La Procuraduría General de Justicia se integrará con:
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
 
 I.- Procurador General de Justicia.
 
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
+
 II.- Subprocurador de Averiguaciones Previas y Consignaciones.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1993)</small>
 
 III.- Subprocurador de Control de Procesos.
 
-IV.- Director de Averiguaciones Previas y Consignaciones.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
 
-V.- Un Director de Control de Procesos.
+IV.- Fiscalía Especial para la Atención de Delitos Electorales;
 
-VI.- Director Jurídico Consultivo.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
 
-VII.- Director de Derechos Humanos.
+V.- Dirección de Averiguaciones Previas;
 
-VIII.- Director de Servicios a la Comunidad y Participación Ciudadana.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
 
-IX.- Director de Servicios Periciales.
+VI.- Dirección de Control de Proceso;
 
-X.- Director y SubDirectores de la Policía Judicial del Estado.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
 
-XI.- Visitador General, Visitadores, Agentes del Ministerios Público Auxiliares.
+VII.- Dirección Jurídica Consultiva;
 
-XII.- Delegados Regionales, Agentes del Ministerio Público Auxiliares.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
 
-XIII.- Agentes del Ministerio Público Auxiliares del Procurador, Investigadores Adscritos y Fiscales Especiales que requiera la Institución.
+VIII.- Dirección de Servicios a la Comunidad y Participación Ciudadana;
 
-XIV.- Cuerpo de Agentes de la Policía Judicial.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
 
-XV.- Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
+IX.- Dirección de Servicios Periciales;
 
-XVI.- Departamento de capacitación.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+X.- Dirección de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+XI.- Dirección y Sub'Dirección de la Policía Judicial del Estado.
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+XII.- Visitaduría General, Visitadores, Agentes del Ministerio Público Auxiliares;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+XIII.- Delegaciones Regionales, Agentes del Ministerio Público Auxiliares;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+XIV.- Agentes del Ministerio Público del Procurador, Investigadores Adscritos y Fiscales Especiales que requiera la Institución;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+XV.- Cuerpo de Agentes de la Policía Judicial;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1995)</small>
+
+XVI.- jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 1995)</small>
+
+XVII.- Departamento de Capacitación.
 
 ###### ARTICULO 4o.
 
@@ -417,9 +453,9 @@ c).- Las Autoridades Judiciales del Estado.
 
 En caso de que se solicite el servicio por otra Autoridad o Institución, se prestará cuando lo acuerde el Procurador o los Subprocuradores, sin perjuicio de la atención preferente que deba darse a las Autoridades antes citadas.
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
+DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
 
 ### CAPITULO IV.
 
@@ -481,11 +517,9 @@ Los Cuerpos de Seguridad y demás Autoridades destinadas a mantener la tranquili
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
-### CAPITULO X.
+### CAPITULO IX.
 
-DE LOS DELEGADOS REGIONALES.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
 
 ###### ARTICULO 36.
 
@@ -511,9 +545,11 @@ III.- Dar cuenta al Procurador o a los Subprocuradores, de la visita y sus resul
 
 IV.- Desempeñar las comisiones especiales que el Procurador le encomiende y las demás que le señalen las Leyes.
 
-### CAPITULO XI.
+### CAPITULO X.
 
-DEL DEPARTAMENTO DE CAPACITACION.
+DE LOS DELEGADOS REGIONALES.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 38.
 
@@ -531,9 +567,9 @@ c).- Sobre la formulación de conclusiones no acusatorias o contrarias a las con
 
 III.- Intervenir en los demás asuntos en materia penal, civil o familiar que determine el Procurador.
 
-### CAPITULO I.
+### CAPITULO XI.
 
-DE LA AVERIGUACION PREVIA.
+DEL DEPARTAMENTO DE CAPACITACION.
 
 ###### ARTICULO 39.
 
@@ -581,9 +617,9 @@ Los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL EJERCICIO DE LA ACCION PENAL.
+DE LA AVERIGUACION PREVIA.
 
 ###### ARTICULO 43.
 
@@ -641,9 +677,9 @@ b) Cumplan con todas y cada una de las disposiciones legales en defensa de los d
 
 c) Cumplan con todas y cada una de las disposiciones que las leyes les atribuyen en los procedimientos civiles.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LA VIGILANCIA DE LA LEGALIDAD.
+DEL EJERCICIO DE LA ACCION PENAL.
 
 ###### ARTICULO 45.
 
@@ -659,17 +695,21 @@ El objetivo del Departamento de Capacitación será la preparación permanente d
 
 La participación como alumno o profesor en las actividades del Departamento será obligatoria para el personal de la Procuraduría, cuando lo determine el Procurador.
 
+### CAPITULO III.
+
+DE LA VIGILANCIA DE LA LEGALIDAD.
+
 ### CAPITULO UNICO.
 
 DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
 
-### CAPITULO UNICO.
-
-DISPOSICIONES GENERALES.
-
 ## TITULO TERCERO.
 
 FUNCIONES DEL MINISTERIO PUBLICO.
+
+### CAPITULO UNICO.
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 47.
 
@@ -799,6 +839,76 @@ XVII.- Atender, evaluar y analizar las denuncias que presente la Contraloría de
 
 XVIII.- Las demás que le confiere el Procurador.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPITULO IV (4) BIS.
+
+DE LA FISCALIA ESPECIAL PARA LA ATENCION DE DELITOS ELECTORALES.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+ARTICULO 28 (4) Bis.- La Fiscalía Especial para la atención de Delitos Electorales tendrá las siguientes atribuciones:
+
+I.- Realizar los estudios y emitir las opiniones y dictámenes, derivados de las consultas que les sean formuladas al Procurador General de Justicia del del (sic) Estado por los titulares de los organismos electorales;
+
+II.- Conocer de las denuncias que se presenten en forma oral o por escrito, sobre hechos que puedan constituir alguno de los mencionados delitos;
+
+III.- Ordenar y practicar todos los actos conducentes a la comprobación de los elementos del tipo penal y de la probable responsabilidad del indiciado, como base para el ejercicio de la acción penal;
+
+IV.- Ejercitar la acción penal correspondiente;
+
+V.- Determinar la reserva o el no ejercicio de la acción penal; en este último caso, deberá notificarse al ofendido en términos de Ley y resolver sobre los conceptos de inconformidad que aquél formule;
+
+VI.- Conceder la libertad provisional de los indiciados cuando proceda;
+
+VII.- Dictar o, en su caso, promover ante la Autoridad Jurisdiccional, las medidas precautorias previstas en el Código de Procedimientos Penales para el Estado de Oaxaca, que sean indispensables para los fines de la averiguación previa o para el debido desarrollo del proceso;
+
+VIII.- Solicitar ante el órgano jurisdiccional las órdenes de aprehensión, de comparecencia o de cateo, así como los exhortos y las medidas precautorias procedentes;
+
+IX.- Ofrecer o aportar ante la Autoridad Jurisdiccional en los periodos de preinstrucción y de instrucción del proceso, las pruebas conducentes para el debido esclarecimiento de los hechos, motivo del ejercicio de la acción penal;
+
+X.- Presentar los pedimentos de sobreseimiento y las conclusiones que procedan;
+
+XI.- Interponer los recursos pertinentes;
+
+XII.- Intervenir en los juicios de amparo o cualquiera otros procedimientos relacionados con las averiguaciones o los procesos respectivos;
+
+XIII.- Proporcionar la información técnica a los organismos electorales al momento de ejercitar la acción penal;
+
+XIV.- Designar un Agente del Ministerio Público adscrito al Tribunal Estatal Electoral, durante todo el tiempo que dure el proceso electoral respectivo; y
+
+XV.- Las demás que les señalen las disposiciones legales y las que le confiera el Procurador.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+ARTICULO 28 (5) Bis.- Al frente de la Fiscalía para la Atención de Delitos Electorales habrá un Ministerio Público con el carácter de Fiscal Especial, que será nombrado por el Procurador General de Justicia del Estado; actuará con plena autonomía técnica y tendrá las atribuciones siguientes:
+
+I.- Atender los asuntos de los despachos, competencia de la Fiscalía;
+
+II.- Determinar la organización y funcionamiento de la Fiscalía y coordinar el desarrollo y cumplimiento de las funciones de las unidades que integren, vigilando que se observen los ordenamientos legales y demás disposiciones aplicables;
+
+III.- Establecer mecanismos de coordinación y de interrelación con las otras áreas de la Procuraduría General de Justicia del Estado de Oaxaca, para el óptimo cumplimiento de las funciones que le correspondan;
+
+IV.- Nombrar y, en su caso, aprobar la contratación de los servidores públicos de la Fiscalía, de conformidad con las disposiciones legales correspondientes;
+
+V.- Expedir los acuerdos, circulares, manuales e instructivos necesarios para el debido cumplimiento de las funciones de la Fiscalía;
+
+VI.- Recibir en acuerdo ordinario a los responsables de las Unidades Administrativas que conforman la Fiscalía y en acuerdo extraordinario a cualquier otro servidor público, así como conceder audiencia al público;
+
+VII.- Informar al Procurador General de Justicia del Estado, sobre los asuntos encomendados a la Fiscalía;
+
+VIII.- Informar mensualmente al Consejo General Estatal Electoral sobre la cantidad y naturaleza de las denuncias recibidas, el estado de las averiguaciones previas iniciadas, de las consignaciones efectuadas y de los procesos, en su caso; y
+
+IX.- Las demás que sean consecuencia natural de sus funciones y necesarias para el buen funcionamiento de la Fiscalía.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+ARTICULO 28 (6) Bis.- Durante las ausencias del Fiscal Especial para la atención de Delitos Electorales, éste será suplido por los servidores públicos de la jerarquía inmediata inferior que designe el Fiscal Especial.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+ARTICULO 28 (7) Bis.- Las autoridades que se mencionan en las fracciones XII, XIII y XIV del artículo 3° de la Ley Orgánica de la Procuraduría General de Justicia del Estado para la atención de Delitos Electorales, serán auxiliares del Fiscal Especial.
+
 ### CAPITULO V.
 
 DE LA DIRECCION DE SERVICIOS PERICIALES.
@@ -812,10 +922,6 @@ DE LA DIRECCION DE LA POLICIA JUDICIAL.
 DE LA VISITADURIA.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
-
-### CAPITULO VIII.
-
-DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
 
 ###### ARTICULO 51.
 
@@ -1189,7 +1295,7 @@ EL SECRETARIO GENERAL DE DESPACHO,
 
 C.P. JESUS MARTINEZ ALVAREZ.- Rúbrica.
 
-Al C. ...
+Al C....
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -1198,3 +1304,11 @@ P.O. 13 DE MARZO DE 1993.
 PRIMERO.- Quedan derogadas las disposiciones de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Oaxaca de 29 de junio de 1983, publicada en el Periódico Oficial de 31 de diciembre del mismo año, en cuanto se opongan a las adiciones, reformas y modificaciones contenidas en el presente Decreto.
 
 SEGUNDO.- Estas adiciones, reformas y modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 1995.
+
+PRIMERO.- La Unidad Administrativa correspondiente de la Procuraduría General de Justicia del Estado, dispondrá lo conducente para que de inmediato se dote a la Fiscalía Especial creada por este decreto, de todos los recursos humanos, materiales y financieros indispensables para el desempeño de sus funciones.
+
+SEGUNDO.- Las denuncias relativas a Delitos Electorales que a la fecha hayan sido presentadas en cualquier oficina o Agencias del Ministerio Público y las averiguaciones previas que se estén tramitando en cualquier parte del Estado de Oaxaca, se remitirán a la Fiscalía Especial, en un término no mayor de setenta y dos horas, a partir de la entrada en vigor del presente decreto. Lo propio se hará con las denuncias que se presenten a partir de esta fecha.
+
+TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
