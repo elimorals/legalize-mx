@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "2003-10-19"
+last_updated: "2004-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2004.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -55,9 +55,11 @@ I.- La ejecución de las penas privativas y restrictivas de libertad, previstas 
 
 II.- El control y vigilancia de los establecimientos de reclusión en el Estado.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 2o.
 
-Corresponde al Ejecutivo del Estado, por conducto del Departamento de Prevención Social la ejecución de las penas privativas y restrictivas de libertad y la designación de los establecimientos penitenciarios donde los responsables deben compurgarlas, conforme a las disposiciones de los Artículos 7, 8 y 9 de esta Ley.
+Corresponde al Ejecutivo del Estado, por conducto de la Dirección General de Prevención y Readaptación Social, la ejecución de las penas privativas y restrictivas de libertad y la designación de los establecimientos penitenciarios donde los responsables deben compurgarlas, conforme a las disposiciones de los Artículos 7, 8 y 9 de esta Ley.
 
 ###### Artículo 3o.
 
@@ -71,19 +73,27 @@ El sitio destinado a prisión preventiva deberá ser distinto del destinado para
 
 El Ejecutivo del Estado podrá celebrar con la Federación convenios de carácter general, a fin de que los reos sentenciados por delitos del orden común, extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
-## TITULO PRIMERO.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2004)</small>
 
-DEL DEPARTAMENTO DE PREVENCION SOCIAL.
+La Dirección General de Prevención y Readaptación Social, está facultada previo acuerdo con la entidad federativa correspondiente, para participar en materia de traslados voluntarios de sentenciados por delitos del orden común a efecto de que extingan su condena en alguno de los Centros de Readaptación Social.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2004)</small>
+
+## TITULO PRIMERO. DE LA DIRECCION GENERAL DE PREVENCION Y READAPTACION SOCIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 6o.
 
-Se crea el Departamento de Prevención Social dependerá del Ejecutivo del Estado que tendrá a su cargo las siguientes funciones:
+Se crea la Dirección General de Prevención y Readaptación Social, dependerá del Ejecutivo del Estado que tendrá a su cargo las siguientes funciones:
 
 I.- Organizar, dirigir y administrar las prisiones y establecimientos de reclusión del Estado.
 
 II.- Formular Reglamentos y demás disposiciones de orden interior por los que habrán de regirse las prisiones y centros de reclusión, así como vigilar su cumplimiento.
 
-III.- Las de distribución, traslado, custodia, vigilancia y tratamiento de toda persona que fuera privada de libertad, por orden de los Tribunales del Estado o de autoridad competente, desde el momento de su ingreso a cualquier establecimiento a su cargo.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2004)</small>
+
+III.- Coordinar la distribución, traslado, custodia, vigilancia y tratamiento de toda persona que fuera privada de libertad, por orden de los Tribunales del Estado o de autoridad competente, desde el momento de su ingreso a cualquier establecimiento a su cargo;
 
 IV.- Llevar un Registro de todas las personas privadas de la libertad, en el que se incluirán los datos sobre el delito o falta cometidos y su personalidad, conforme a los estudios que se le haya practicado.
 
@@ -119,9 +129,11 @@ Los establecimientos Penitenciarios se destinarán a la ejecución de penas priv
 
 Los Establecimientos Penitenciarios Regionales estarán situados en la Cabecera de cada Distrito Judicial. Albergaran a sentenciados a penas de prisión que no excedan de tres años.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 9o.
 
-En los establecimientos centrales serán internados los reos sentenciados a más de tres años de prisión y aquéllos que tengan penas inferiores cuando lo estime conveniente el Departamento de Prevención Social.
+En los establecimientos centrales serán internados los reos sentenciados a más de tres años de prisión y aquellos que tengan penas inferiores cuando lo estime conveniente la Dirección General de Prevención y Readaptación Social.
 
 ###### Artículo 10o.
 
@@ -135,9 +147,11 @@ El Director, tendrá a su cargo el gobierno, la vigilancia y administración del
 
 En los Establecimientos y Secciones destinados a mujeres, el personal de vigilancia será femenino.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 13o.
 
-Todos los Establecimientos Penitenciarios del Estado estarán bajo la inspección y supervisión del Departamento, el que cuidará que se encuentren en buenas condiciones de higiene y seguridad y que cuenten con locales separados para los procesados y los sentenciados, así como para la separación entre hombres y mujeres.
+Todos los Establecimientos Penitenciarios del Estado estarán bajo la inspección y supervisión de la Dirección, la que cuidará que se encuentren en buenas condiciones de higiene y seguridad y que cuenten con locales separados para los procesados y los sentenciados, así como para la separación entre hombres y mujeres.
 
 ## TITULO TERCERO.
 
@@ -169,7 +183,9 @@ Toda persona que ingrese a un Centro Penitenciario, será examinado inmediatamen
 
 A todo reo se le formará un expediente que incluirá los resultados de los estudios practicados. En su oportunidad se agregará una copia de la sentencia dictada por los Tribunales que hayan conocido su caso.
 
-Dicho expediente se llevará por duplicado, remitiéndose un tanto al Departamento de Prevención Social y conservándose el otro en el Establecimiento en que está internado. El citado expediente se dividirá en las siguientes secciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
+
+Dicho expediente se llevará por duplicado, remitiéndose un tanto a la Dirección General de Prevención y Readaptación Social y conservándose el otro en el Establecimiento en que está internado. El citado expediente se dividirá en las siguientes Secciones:
 
 a).- Sección Correccional, donde se harán constar los antecedentes sobre su conducta, sanciones disciplinarias, estímulos y recompensas.
 
@@ -203,9 +219,11 @@ Tomando en cuenta los resultados de los estudios sobre la personalidad de los in
 
 Los menores de 21 años y mayores de 16, deberán estar separados, en lo posible, de los demás internos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 23.
 
-Los enfermos mentales a que se refiere el artículo 58 del Código Penal, serán enviados a manicomios penitenciarios y en tanto no existan éstos, se organizará dentro de los establecimientos, anexos psiquiátricos en los que se les aplicará el tratamiento adecuado y se recluirán en sección especial.
+Los enfermos mentales a que se refiere el Código Penal, serán enviados a manicomios penitenciarios y en tanto no existan éstos, se organizará dentro de los establecimientos, anexos psiquiátricos en los que se les aplicará el tratamiento adecuado y se recluirán en sección especial.
 
 Los internos sordomudos serán recluídos en una escuela o establecimiento especial para su educación y mientras no existan éstos, estarán separados en una sección especial.
 
@@ -389,57 +407,75 @@ V.- Haber reparado el daño u otorgado garantía para cubrir su monto.
 
 Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicitante, este requisito no será indispensable para conceder la Libertad Preparatoria.
 
-VI.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, como el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2004)</small>
 
-> <small>N. DE E. POR DECRETO No. 275, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2004, P.O. 19 DE OCTUBRE DE 2003.</small>
+VI.- Que el agraciado con la Libertad Preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso de la Dirección General de Prevención y Readaptación Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 55.
 
-La libertad preparatoria no se concederá a los reincidentes ni a los habituales. Tampoco se concederá a los sentenciados por los delitos de homicidio calificado, parricidio, secuestro, robo de infante, previsto en el primer párrafo del Artículo 281 del Código Penal del Estado, violación y robo calificado.
+La Libertad Preparatoria no se concederá a los reincidentes ni a los habituales. Tampoco se concederá a los sentenciados por los delitos de Homicidio Calificado, Parricidio, Secuestro, Retención y Sustracción de Menores o Incapaces, y Con Fines de Corrupción o Tráfico de Órganos, Violación y Robo Calificado.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 56.
 
-La solicitud del reo que crea tener derecho a la libertad preparatoria se remitirá al Departamento con copia a la Dirección del Establecimiento Penitenciario.
+La solicitud del reo que crea tener derecho a la Libertad Preparatoria, se remitirá a la Dirección con copia a la Dirección del Establecimiento Penitenciario.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 57.
 
-Recibida la solicitud, el Departamento recabará informes del Director del Establecimiento en que esté internado el solicitante, el cual deberá ser rendido en un término de tres días.
+Recibida la solicitud, la Dirección General recabará informes del Director del Establecimiento en que esté internado el solicitante, el cual deberá ser rendido en un término de tres días.
 
 ###### Artículo 58.
 
 La resolución que se pronuncie contendrá las observaciones y antecedentes relacionados con la conducta del reo durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social, por haber desaparecido su peligrosidad. Dicha resolución sera comunicada al Director del Establecimiento, a la Autoridad Municipal correspondiente y al Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 59.
 
-Los individuos que disfruten de libertad preparatoria, quedarán sujetos a la vigilancia discreta del Departamento, por el tiempo que les faltare para cumplir su sanción.
+Los individuos que disfruten de libertad preparatoria, quedarán sujetos a la vigilancia discreta de la Dirección General, por el tiempo que les faltare para cumplir su sanción.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 60.
 
-Siempre que el agraciado con la libertad preparatoria observe durante ella mala conducta o deje de cumplir alguna de las condiciones expresadas en el Artículo 56, se le privará nuevamente de la libertad para que extinga toda la parte de la prisión de que se le hubiere hecho gracia, y la retención correspondiente, sea cual fuere el tiempo que lleve de estar disfrutando del beneficio. Al cumplir dichas sanciones, será puesto a disposición de la autoridad que lo requiera con motivo de la falta cometida.
+Siempre que el agraciado con la Libertad Preparatoria observe durante ella mala conducta o deje de cumplir alguna de las condiciones expresadas en el Artículo 54, se le privará nuevamente de la libertad para que extinga toda la parte de la prisión de que se le hubiere hecho gracia, y la retención correspondiente, sea cual fuere el tiempo que lleve de estar disfrutando del beneficio. Al cumplir dichas sanciones, será puesto a disposición de la autoridad que lo requiera con motivo de la falta cometida.
 
 ###### Artículo 61.
 
 Las sanciones privativas de libertad, siempre que excedan de un año, se entienden impuestas en calidad de retención hasta por una mitad más de su duración.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 62.
 
-La retención se aplicará cuando a juicio del Departamento, el reo observe mala conducta durante la segunda mitad de su condena, resistiéndose al trabajo o incurriendo en faltas graves de disciplina.
+La retención se aplicará cuando, a juicio de la Dirección General, el reo observe mala conducta durante la segunda mitad de su condena, resistiéndose al trabajo o incurriendo en faltas graves de disciplina.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 63.
 
-Los Directores de los establecimientos penitenciarios están obligados a comunicar al Departamento cualquier hecho que pueda dar motivo a que se aplique la retención.
+Los Directores de los Establecimientos Penitenciarios están obligados a comunicar a la Dirección General cualquier hecho que pueda dar motivo a que se aplique la retención.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 64.
 
-Siempre que llegare al conocimiento del Departamento de Prevención Social, cualquier noticia que pueda motivar la retención, procederá a practicar una investigación.
+Siempre que llegare al conocimiento de la Dirección General de Prevención y Readaptación Social, cualquier noticia que pueda motivar la retención, procederá a practicar una investigación.
 
 ###### Artículo 65.
 
 En vista de la investigación practicada se resolverá si procede o no la retención y el tiempo que deba durar.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 66.
 
-El reo que intente fugarse o bien el que habiéndose fugado sea reaprendido (sic) perderá el derecho a la libertad preparatoria y quedará sujeto a la determinación del Departamento en caso de que sea reveladora su peligrosidad. Estas medidas se harán saber a los reos al ingresar al Establecimiento y se aplicarán, en su caso, previo el derecho de audiencia.
+El reo que intente fugarse o bien el que habiéndose fugado sea reaprehendido perderá el derecho a la libertad preparatoria y quedará sujeto a la determinación de la Dirección General de Prevención y Readaptación Social en caso de que sea reveladora su peligrosidad. Estas medidas se harán saber a los reos al ingresar al Establecimiento y se aplicarán, en su caso, previo el derecho de audiencia.
 
 ### CAPITULO SEGUNDO.
 
@@ -449,7 +485,9 @@ LIBERACIONES DEFINITIVAS.
 
 En concordancia con el Artículo 36 de esta Ley, por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas que se organicen en el Reclusorio, y revele por otros datos, a juicio del Consejo Técnico del Penal, efectiva resocialización.
 
-La remisión de la pena, así como los días que se deban tomar en cuenta para este efecto, serán propuestos por el Consejo Técnico del Reclusorio al Departamento de Prevención Social. Los informes anuales de remisión de pena se harán durante el mes de enero de cada año, por lo que respecta al tiempo redimido durante el año anterior. La resolución del caso se dictará por el Departamento dentro de los 30 días siguientes a la fecha de la propuesta, y se hará del conocimiento del interesado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
+La remisión de la pena, así como los días que se deban tomar en cuenta para este efecto, serán propuestos por el Consejo Técnico del Reclusorio al Departamento de Prevención Social. La resolución del caso se dictará por la Dirección General dentro de los 30 días siguientes a la fecha de la propuesta, y se hará del conocimiento del interesado.
 
 La remisión de penas a que se refiere este artículo se entenderá sin perjuicio de la libertad preparatoria regulada por la presente Ley.
 
@@ -463,17 +501,21 @@ Serán inmediatamente puestos en libertad los reos que cumplan la sanción que l
 
 Al quedar un reo en libertad definitiva o preparatoria, se le hará entrega inmediata de la cantidad que le corresponda de su fondo de reserva, así como de una constancia de que salió legalmente, de la conducta que haya observado y de su aptitud para el trabajo.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 70.
 
-Concedida la libertad a que se refieren los artículos anteriores, el Departamento la comunicará al Patronato de Reos Liberados para su intervención.
+Concedida la libertad a que se refieren los artículos anteriores, la Dirección General la comunicará al Patronato de Reos Liberados para su intervención.
 
 ### CAPITULO TERCERO.
 
 DE LA SUSPENSION CONDICIONAL DE LA CONDENA.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 71.
 
-El Departamento de Prevención Social tendrá a su cargo la vigilancia y supervisión de la conducta de los individuos a quienes se les haya suspendido condicionalmente la condena impuesta por sentencia definitiva, en los términos del Artículo 81 del Código Penal. La vigilancia será ejercida discretamente y los informes que se obtengan, en caso de ser desfavorables, se trasmitirán a los Tribunales competentes.
+La Dirección General de Prevención y Readaptación Social tendrá a su cargo la vigilancia y supervisión de la conducta de los individuos a quienes se les haya suspendido condicionalmente la condena impuesta por sentencia definitiva, en los términos de los Artículos 102 y 104 del Código Penal para el Estado de Durango. La vigilancia será ejercida discretamente y los informes que se obtengan, en caso de ser desfavorables, se trasmitirán a los Tribunales competentes.
 
 ### CAPITULO CUARTO.
 
@@ -505,9 +547,11 @@ b).- La higiene de los establecimientos y de los internos.
 
 c).- Las condiciones sanitarias, alumbrado y ventilación del establecimiento.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+
 ###### Artículo 76.
 
-El médico del establecimiento deberá poner en conocimiento del Director, los casos de enfermedades trasmisibles a que se refieren los artículos relativos del Código Sanitario, a fin de que éste cumpla con su obligación de dar aviso a los órganos competentes.
+El médico del Establecimiento deberá poner en conocimiento del Director, los casos de enfermedades trasmisibles a que se refieren los artículos relativos de la Ley de Salud del Estado de Durango, a fin de que éste cumpla con su obligación de dar aviso a los órganos competentes.
 
 ### CAPITULO SEXTO.
 
@@ -521,7 +565,7 @@ I.- Mención honorífica;
 
 II.- Concesión extraordinaria de comunicaciones y visitas;
 
-III.- Exención de servicios mecánicos no retribuidos;
+III.- (DEROGADA, P.O. 17 DE JUNIO DE 2004)
 
 IV.- Empleo de cargos o comisiones auxiliares de confianza.
 
@@ -545,11 +589,15 @@ IV.- Por razón de indulto o amnistía.
 
 V.- Por prescripción.
 
-VI.- En el caso del Artículo 69 del Código Penal.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2004)</small>
+
+VI.- En el caso del Artículo 86 del Código Penal.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### Artículo 79.
 
-En los casos de las Fracciones I y II del Artículo anterior, la extinción de la pena será decretada de oficio por el Jefe de Prevención Social previo acuerdo con el Ejecutivo, quien ordenará la libertad inmediata del condenado, incurrirá en responsabilidad oficial si no lo hiciere.
+En los casos de las fracciones I y II del artículo anterior, la extinción de la pena será decretada de oficio por el Director General de Prevención y Readaptación Social previo acuerdo con el Ejecutivo, quien ordenará la libertad inmediata del condenado, incurrirá en responsabilidad oficial si no lo hiciere.
 
 ###### Artículo 80.
 
@@ -644,3 +692,9 @@ DECRETO NO. 275.
 Se deja en suspenso la vigencia del artículo 55 de la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, única y exclusivamente en lo que se refiere al delito de robo calificado a favor de los internos que hayan sido condenados por sentencia irrevocable a sufrir pena de prisión, por la comisión de ese ilícito dictada en la fecha anterior al día 14 de septiembre de 2004.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JUNIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor, a partir del día 28 de junio del año 2004 previa su publicación en el Periódico Oficial del Estado de Durango.
+
+SEGUNDO.- Los sentenciados a disposición del Ejecutivo Estatal, o quienes se encuentren bajo procedimiento de conformidad con el Código Penal para el Estado de Durango, aprobado bajo Decreto No. 263 de fecha 3 de julio de 1991 y publicado en el Periódico Oficial del Gobierno del Estado No. 15 de fecha 22 de agosto de 1991, se sujetaran para los efectos de las sanciones privativas y restrictivas de libertad y pecuniarias que se apliquen, a lo que establecían las disposiciones correspondientes antes de la presente reforma.
