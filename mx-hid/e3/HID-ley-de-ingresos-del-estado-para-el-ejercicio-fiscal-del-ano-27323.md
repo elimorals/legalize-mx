@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-del-ano-273
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2003-08-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2003
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2002.
 
@@ -45,9 +45,11 @@ D E C R E T O
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2003
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 1o.
 
-Los ingresos de la Hacienda Pública del Estado de Hidalgo, durante el Ejercicio Fiscal comprendido del día primero de enero al treinta y uno de diciembre del año 2002, serán los que se obtengan por concepto de los impuestos, derechos, productos, aprovechamientos, extraordinarios, participaciones y fondos de aportaciones federales comprendidos en la presente Ley cuyo fundamento para su aplicación, se encuentra establecido en la Ley de Hacienda del Estado:
+Los ingresos de la Hacienda Pública del Estado de Hidalgo, durante el Ejercicio Fiscal comprendido del día primero de enero al treinta y uno de diciembre del año 2003, serán los que se obtengan por concepto de los impuestos, derechos, productos, aprovechamientos, extraordinarios, participaciones y fondos de aportaciones federales comprendidos en la presente Ley cuyo fundamento para su aplicación, se encuentra establecido en la Ley de Hacienda del Estado:
 
 A.- EL ESTADO PERCIBIRA INGRESOS POR CONCEPTO DE LOS SIGUIENTES IMPUESTOS:
 
@@ -163,7 +165,7 @@ Las Participaciones y Fondos de Aportaciones Federales, se percibirán de acuerd
 
 Lo que significa un total estimado por conceptos por las siguientes cantidades:
 
-VEASE ARCHIVO ANEXO
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 2.
 
@@ -237,6 +239,22 @@ Las Entidades y Organismos a que se refiere el Artículo anterior, deberán esta
 
 En los casos que otro ordenamiento legal establezca alguno de los ingresos previstos en esta Ley, se considerarán comprendidos en la fracción que corresponda a los previstos en la presente.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+###### ARTICULO 12.
+
+El monto de endeudamiento anual autorizado, bajo la Partida de Ingresos Extraordinarios derivados de empréstitos o crédito a que se refiere el Artículo 1 de esta Ley, se destinará exclusivamente a los conceptos que a continuación se listan y hasta por los montos que se señalan:
+
+(VEASE TABLA ANEXA)
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
+###### ARTICULO 13.
+
+El Estado podrá afectar, total o parcialmente, como fuente o garantía de pago o ambas, de los financiamientos que en lo sucesivo, celebre directamente o de aquéllos en los que funja como garante o avalista, sus derechos al cobro e ingresos derivados de Participaciones Federales, incluyendo cualquier derecho que sobre las mismas, le corresponda al Estado de Hidalgo y a realizar en su caso, los pagos respectivos mediante dichas garantías o fuentes de pago.
+
+Se faculta expresamente al Titular del Poder Ejecutivo Estatal y al Secretario de Finanzas y Administración del Gobierno del Estado de Hidalgo, para que conjunta o separadamente, celebren los actos jurídicos que formalicen las afectaciones referidas en el párrafo que precede.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año 2003.
@@ -272,3 +290,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE AGOSTO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
