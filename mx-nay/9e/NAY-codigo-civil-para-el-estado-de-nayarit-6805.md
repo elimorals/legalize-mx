@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1991-02-23"
+last_updated: "1994-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1994.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -8965,9 +8965,9 @@ De dicho instrumento se formarán dos originales, uno para el comprador y el otr
 
 Si el valor del inmueble excede de cinco mil pesos su venta deberá constar en escritura pública.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1994)</small>
 
-Se excepcionan de lo anterior los contratos y operaciones relacionadas con los inmuebles que se adquieran con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Nayarit y de la Comisión para la Regularización de la Tenencia de la Tierra, que podrán constar en documentos privados, ante dos testigos e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y la voluntad de las partes.
+De conformidad con lo dispuesto en las normas sociales contenidas en la Ley Agraria, autoriza al Registro Agrario Nacional, para que en los términos y condiciones que les son autorizados, expida títulos de propiedad en documentos privados de acuerdo a los requisitos exigidos en el Programa de Certificación de Derechos Ejidales y Títulación de Solares Urbanos.
 
 ###### Artículo 1693.
 
@@ -12697,6 +12697,10 @@ II.- Las sentencias y providencias judiciales certificadas legalmente;
 
 III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que ante el Registrador o ante Notario Público, se hayan ratificado las firmas de los otorgantes y de los testigos, así como la voluntad de las partes.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 1994)</small>
+
+IV.- Tratándose de los Títulos de Propiedad que expida el Registro Agrario Nacional, de conformidad con lo dispuesto por la Ley Agraria, el Registro de terrenos ejidales considerados como solares urbanos, se hará por los encargados de las Oficinas de Catastro y del Registro Público de la Propiedad que corresponda, en la vía administrativa de manera expedita y sin costo alguno de inscripción, de acuerdo a las bases previstas en la Ley de la Materia.
+
 ###### Artículo 2383.
 
 El interesado presentará el título que va a ser registrado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un plano o croquis de esas fincas.
@@ -15312,3 +15316,9 @@ P.O. 23 DE FEBRERO DE 1991
 ###### ARTICULO UNICO.
 
 Comuníquese el presente Decreto al C. Gobernador del Estado y publíquese en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
