@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-academia-de-la-cultura-oaxaquena-21401"
 country: "mx"
 rank: "ley"
 publication_date: "1970-11-28"
-last_updated: "1970-11-28"
+last_updated: "1971-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA LA ACADEMIA DE LA CULTURA OAXAQUEÑA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de noviembre de 1970.
 
@@ -49,9 +49,11 @@ La Academia de la Cultura Oaxaqueña solventará por medio de la creación de un
 
 El patronato hará todas las gestiones necesarias para formar el patrimonio de la Academia de la Cultura Oaxaqueña a fin de lograr su absoluta independencia económica.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1971)</small>
+
 ###### ARTICULO 3o.
 
-La Academia de la Cultura Oaxaqueña estará constituida por diez miembros numerarios y podrá nombrar hasta otros diez correspondientes que residan en los Distritos del Estado, en otras Entidades Federativas o en el Distrito Federal.
+La Academia de la Cultura Oaxaqueña estará constituída hasta por 20 miembros numerarios y podrá nombrar hasta otros 20 correspondientes que residan en los Distritos del Estado, en otras Entidades Federativas o en el Distrito Federal.
 
 ###### ARTICULO 4o.
 
@@ -175,7 +177,7 @@ TRANSITORIOS:
 
 PRIMERO.- Se faculta al C. Gobernador Constitucional del Estado, para que por esta única vez designe a los miembros fundadores de la Academia, los que deberán elegir dentro de ellos al Presidente, Vice-Presidente, Secretario, Tesorero y Bibliotecario Archivero.
 
-SEGUNDO.- Se faculta al Gobernador Constitucional del Estado, para que nombre a los miembros del Patronato de la Academia, y dentro de ellos se elegirá al Presidente y Vice-Presidente.
+SEGUNDO.- Se faculta al Gobernador Constitucional del Estado, para que nombre a los miembros del Patronato de la Academia y dentro de ellos se elegirá al Presidente y Vice-Presidente.
 
 TERCERO.- Se faculta a la Academia para que formule su Reglamento Interior.
 
@@ -193,4 +195,10 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 25 de noviembre de 1970.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. FERNANDO GOMEZ SANDOVAL.- Rúbrica.
 
-AL C....................
+AL C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JULIO DE 1971.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
