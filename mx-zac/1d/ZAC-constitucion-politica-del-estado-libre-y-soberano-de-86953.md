@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "1999-11-17"
+last_updated: "2000-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2000.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -405,6 +405,14 @@ d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de
 
 Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
+
+La seguridad pública es un servicio a cargo del Estado y los Municipios para salvaguardar la integridad y derechos de las personas, el mantenimiento del orden y la paz públicos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
+
+La ley determinará la organización, atribuciones, funcionamiento y profesionalización de los cuerpos de seguridad pública, entre ellos, la policía estatal preventiva. En todos los casos, se establecerá el servicio civil de carrera.
+
 ###### Artículo 27.
 
 Toda persona tiene derecho a la educación, que será obligatoria hasta el nivel de secundaria.
@@ -493,9 +501,11 @@ Los servidores públicos del Estado y de los Municipios, en el ámbito de sus co
 
 Los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta a la población previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
+
 ###### Artículo 38.
 
-El Estado garantizará la certeza, legalidad, independencia, imparcialidad y objetividad de la función electoral. La organización, preparación y realización de los procesos electorales, se sujetará a las reglas siguientes
+El Estado garantizará la certeza, legalidad, independencia, imparcialidad y objetividad de la función electoral y de consulta ciudadana. La organización, preparación y realización de los procesos electorales se sujetará a las reglas siguientes:
 
 I. Se ejercerá a través de un organismo público autónomo y de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, dotado de personalidad jurídica y patrimonio propios, en cuya integración intervienen el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos zacatecanos, en los términos ordenados por esta Constitución y la ley de la materia;
 
@@ -513,7 +523,9 @@ VII. El Consejero Presidente propondrá al Consejo General una terna para la des
 
 VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran por un Consejero Presidente, un Secretario Ejecutivo con voz pero sin derecho a voto, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General, el que podrá tomar en cuenta las propuestas que hagan los partidos políticos. Los partidos políticos estatales y nacionales podrán acreditar un representante en cada uno de los Consejos Distritales y Municipales, con derecho de voz pero no de voto; y
 
-IX. La Ley de la materia señalará las atribuciones del Instituto Electoral del Estado, así como las de los Consejos General, Distritales y Municipales.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+
+IX. El Código Electoral señalará las atribuciones del Instituto Electoral del Estado, así como las de los Consejos General, Distritales y Municipales. Para los procesos de participación ciudadana se estará a lo dispuesto por la ley de la materia.
 
 Las sesiones de estos órganos serán públicas, salvo los casos de excepción que la ley determine.
 
@@ -529,13 +541,17 @@ Las mesas directivas de las casillas encargadas de recibir la votación estarán
 
 La declaratoria de validez de las elecciones de Diputados por los principios de mayoría relativa y de representación proporcional, de Ayuntamientos y de Regidores de representación proporcional, es facultad de los organismos públicos previstos en el artículo 38 de esta Constitución, mediante los requisitos y procedimientos que establezca la ley electoral. Con base en la declaratoria de validez, los propios organismos otorgarán las constancias de acreditación a quienes favorezcan los resultados.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
+
 ### CAPÍTULO SEGUNDO. DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 42.
 
-Se establecerá un sistema de medios de impugnación contra los actos o resoluciones, para garantizar la legalidad de los procesos electorales, el cual dará definitividad en la instancia correspondiente. Serán competentes para conocer de los recursos que se interpongan, el Instituto Electoral del Estado y el Tribunal Estatal Electoral. En ningún caso la interposición de los medios de impugnación producirá efectos suspensivos respecto del acto, resolución o resultados que se hubiesen impugnado. La ley establecerá los requisitos y normas a que deberán sujetarse la interposición y tramitación de cada uno de los recursos y medios de impugnación.
+Se establecerá un sistema de medios de impugnación contra actos o resoluciones, para garantizar la legalidad de los procesos, el cual dará definitividad en la instancia correspondiente. Serán competentes para conocer de los recursos que se interpongan, el Instituto Electoral del Estado y el Tribunal Estatal Electoral. En ningún caso la interposición de los medios de impugnación producirá efectos suspensivos respecto del acto, resolución o resultados que se hubiesen impugnado. La ley establecerá los requisitos y normas a que deban sujetarse la interposición y tramitación de los medios de impugnación en los procesos electorales y de consulta ciudadana.
 
 ### CAPÍTULO TERCERO. DEL REFERÉNDUM, PLEBISCITO E INICIATIVA POPULAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
 
 ###### Artículo 43.
 
@@ -565,7 +581,7 @@ De acuerdo con las bases señaladas en este artículo, la ley establecerá las r
 
 ###### Artículo 45.
 
-El referéndum es un instrumento democrático de participación ciudadana, mediante el cual el voto mayoritario de los electores en los términos que establezca la ley, aprueba o rechaza disposiciones legislativas de notoria trascendencia para la vida en común.
+El referéndum es un instrumento democrático de participación ciudadana, por el cual, mediante el voto mayoritario de los electores, en los términos que establezca la ley, aprueba o rechaza disposiciones legislativas de notoria trascendencia para la vida común en el ámbito estatal o municipal.
 
 El referéndum puede ser total o parcial, según se refiera a toda una ley o solamente a algunos de sus preceptos.
 
@@ -573,19 +589,29 @@ La legislación reglamentaria establecerá las materias que pueden ser objeto de
 
 En ningún caso y por ningún motivo podrá convocarse a referéndum en materia tributaria o fiscal, ni respecto de reformas a la Constitución del Estado o a las leyes locales que se hubieren expedido para adecuar el marco jurídico del Estado a las reformas o adiciones que se hicieren a la Constitución Política de los Estados Unidos Mexicanos.
 
-Podrán solicitar que se convoque a referéndum: el Gobernador del Estado, los Diputados de la Legislatura que formen una tercera parte de sus integrantes, y los ciudadanos que sumen diez por ciento de los electores registrados en el padrón estatal actualizado. La ley reglamentaria señalará el órgano que califique los resultados del referéndum, quien los hará saber al Ejecutivo del Estado para el efecto de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
+
+Podrán solicitar que se convoque a referéndum, el Gobernador del Estado, los Diputados de la Legislatura, los Ayuntamientos y los ciudadanos en los términos que establezca la Ley Reglamentaria, la que además señalará el órgano que califique el resultado del referéndum, quien lo hará saber a la Legislatura para su formalización y publicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
 
 ###### Artículo 46.
 
-El plebiscito es un instrumento democrático de participación ciudadana a través del cual el Ejecutivo del Estado o los Ayuntamientos podrán someter a la consideración de los ciudadanos los actos de gobierno que pretendan llevar a cabo o los convenios que deseen celebrar para su aprobación o, en su caso, desaprobación.
+El Plebiscito es un instrumento de participación ciudadana a través del cual se podrán someter a la consideración de los ciudadanos los actos de gobierno que pretendan llevar a cabo, en el ámbito estatal o municipal, para su aprobación o en su caso, desaprobación.
 
 El plebiscito será aplicable a los actos que corresponde efectuar a la Legislatura del Estado en lo relativo a la supresión, fusión o formación de Municipios.
 
 Los acuerdos referentes a las tarifas de los servicios públicos no son susceptibles de consulta a través del plebiscito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
+
 ###### Artículo 47.
 
-Podrán solicitar que se convoque a plebiscito, el de Gobernador del Estado, la tercera parte de los Diputados integrantes de la Legislatura o los ciudadanos que formen el diez por ciento de los electores registrados en el Estado. Cuando la materia del plebiscito afecte intereses de uno o varios Municipios, podrá ser solicitado por los Ayuntamientos involucrados.
+Podrán solicitar que se convoque a plebiscito, el Gobernador, la Legislatura del Estado, los Ayuntamientos y los ciudadanos en los términos que establezca la Ley Reglamentaria.
+
+(REUBICADO Y REFORMADO, [ANTES PRIMER PÁRRAFO], P.O. 15 DE MARZO DE 2000)
+
+Cuando la materia del plebiscito afecte intereses de uno o varios municipios, podrá ser solicitado por los Ayuntamientos involucrados.
 
 La ley reglamentaria establecerá las bases para la realización del plebiscito, aplicándose en lo conducente las normas contenidas en el artículo 45 respecto del referéndum.
 
@@ -791,13 +817,21 @@ Será aplicable en lo conducente lo previsto en el segundo párrafo de la fracci
 
 XIV. Expedir la ley con base en la cual el Ejecutivo y los Ayuntamientos puedan celebrar empréstitos y obligaciones con cargo a sus respectivos patrimonios.
 
-Sólo se autorizarán pasivos cuando se destinen para inversiones públicas productivas, incluyendo los que realicen los organismos descentralizados o empresas públicas de ambos niveles. La Legislatura no autorizará ningún empréstito si la cuenta pública correspondiente al año próximo anterior, del Estado o del Municipio solicitante, no ha sido aprobada.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
 
-La cuenta pública deberá contener relación del manejo del crédito y su programa financiero.
+Sólo se autorizarán pasivos cuando se destinen para inversiones públicas productivas, incluyendo los que realicen los organismos descentralizados o empresas públicas de ambos niveles.
 
-Las solicitudes de autorización de créditos que se envíen a la Legislatura deberán acompañarse de la información financiera, programática, administrativa y económica que en cada caso justifique la medida;
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
 
-XV. Expedir la Ley Orgánica de la Contaduría Mayor de Hacienda; nombrar y remover a su titular y a los demás miembros del personal directivo;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
+
+Las solicitudes de autorización de créditos que se envíen a la Legislatura deberán acompañarse de la información financiera, programática, administrativa y económica que en cada caso justifique la medida.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+
+XV. Expedir la Ley que regule la organización de la Entidad de Fiscalización Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, Municipios y sus respectivos entes públicos.
+
+Evaluar y controlar, sin perjuicio de su autonomía técnica y de gestion, el desempeño de las funciones de la Entidad de Fiscalización Superior del Estado, en los términos que disponga la Ley;
 
 XVI. Expedir las normas que regulen el proceso de planeación del desarrollo en el Estado y la participación de los sectores social y privado en la ejecución de acciones y programas;
 
@@ -837,11 +871,11 @@ XXX. Dirimir, en la vía concliatoria (sic), los conflictos políticos entre los
 
 Los conflictos de naturaleza contenciosa entre el Ejecutivo y los Municipios, y los de éstos entre sí, se resolverán sumariamente por el Tribunal Superior de Justicia;
 
-XXXI. Revisar y aprobar las cuentas del gasto público del gobierno estatal y de los municipales correspondientes al año anterior y verificar los resultados de su gestión financiera, la utilización del crédito y el cumplimiento de las metas fijadas en los programas y proyectos de los presupuestos de egresos.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
 
-Si del análisis que se realice resultan discrepancias entre los ingresos y los egresos, se refleja el desvío de recursos no autorizados o el incumplimiento en las normas presupuestales y contables, se determinarán las responsabilidades de acuerdo a la ley.
+XXXI. Revisar y resolver sobre las cuentas públicas del Gobierno Estatal, de los Municipios y de sus entes públicos paraestatales y paramunicipales, correspondientes al año anterior y verificar los resultados de su gestión financiera, la utilización del crédito y el cumplimiento de las metas fijadas en los programas y proyectos de los presupuestos de egresos.
 
-Igual procedimiento se seguirá cuando se revisen las cuentas de organismos y empresas de la Administración Pública;
+Para la revisión de las Cuentas Públicas la Legislatura se apoyará en la Entidad de Fiscalización Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
 XXXII. Recibir la Protesta de ley a los Diputados, al Gobernador, a los Magistrados del Poder Judicial y a los demás servidores públicos que deban rendirla ante ella;
 
@@ -869,9 +903,27 @@ XLIII. Aprobar o desechar los nombramientos de Magistrados del Tribunal Superior
 
 XLIV. Aprobar los convenios que el Ejecutivo celebre respecto de los límites del Estado, y someterlos a la ratificación del Congreso de la Unión;
 
-XLV. Convocar a plebiscito y referéndum, así como a foros de consulta a los ciudadanos, y llevarlos a cabo, con el fin de obtener información y opiniones que contribuyan al ejercicio pleno de las atribuciones que esta Constitución le otorga; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
 
-XLVI. Las demás que expresamente le confiera la Constitución General de la República y la particular del Estado.
+XLV. Solicitar se convoque a plebiscito y referéndum, formalizar sus resultados y enviarlos al ejecutivo para su publicación.
+
+Convocar a foros de consulta a los ciudadanos, y llevarlos a cabo con el fin de obtener información y opiniones que contribuyan al ejercicio pleno de las atribuciones que esta Constitución le otorga;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
+
+XLVI. Solicitar al titular del Ejecutivo la comparecencia de los Secretarios de Despacho, del Procurador General de Justicia del Estado, de los directores de corporaciones de seguridad pública, así como de los directores de la administración pública estatal.
+
+Podrá asimismo citar a los integrantes de los Ayuntamientos, así como a los directores de las administraciones públicas paraestatal y paramunicipal.
+
+Todo lo anterior, a fin de que tales servidores públicos informen sobre el desempeño de su cargo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
+
+XLVII. Investigar por sí o a través de sus comisiones, el desempeño de los ayuntamientos, así como de las dependencias de la administración pública del Estado, las cuales estarán obligadas a proporcionar oportunamente toda la información que les solicite. La Ley Orgánica del Poder Legislativo determinará las modalidades bajo las cuales alguna materia quedará sujeta a reserva parlamentaria; y
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+
+XLVIII. Las demás que expresamente le confieran la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
 #### SECCIÓN CUARTA. DE LOS DEBERES DE LOS DIPUTADOS
 
@@ -929,11 +981,41 @@ Si algún motivo urgente exigiere la reunión de la Legislatura o lo pidiere el 
 
 En la apertura de los periodos extraordinarios de sesiones el Gobernador del Estado rendirá también informe, cuando a petición suya se hubiese expedido la convocatoria; en este caso el informe se limitará a los asuntos que tengan relación directa con los que motivaron la convocatoria.
 
-#### SECCIÓN SÉPTIMA. DE LA CONTADURÍA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2000)</small>
+
+#### SECCION SEPTIMA
+
+DE LA FISCALIZACIÓN SUPERIOR DEL ESTADO Y MUNICIPIOS.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
 
 ###### Artículo 71.
 
-Para dar cumplimiento a las facultades de la Legislatura en materia hacendaria, habrá una Contaduría Mayor de Hacienda. La ley determinará su estructura y las funciones que le competen como órgano técnico de fiscalización y control gubernamental auxiliar de la Legislatura para el examen de la cuenta pública que el Ejecutivo del Estado y los Ayuntamientos deberán presentar en los plazos y términos que dispone esta Constitución.
+Para dar cumplimiento a las facultades de la Legislatura en materia de revisión de cuentas públicas se apoyará en la Entidad de Fiscalización Superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones, en los términos que disponga la Ley.
+
+La Legislatura de Estado designará al titular de la Entidad de Fiscalización por el voto de las dos terceras partes de sus miembros. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo cuatro años pudiendo ser ratificado. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
+
+Para ser titular de la Entidad de Fiscalización Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 97 de esta Constitución, los que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Los Poderes del Estado, los Municipios y los sujetos de fiscalización facilitarán los auxilios que requiera la Entidad de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+
+El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
+
+La Entidad de Fiscalización Superior del Estado tendrá a su cargo:
+
+I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paraestatales y paramunicipales, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
+
+Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la Ley, podrá requerir a los sujetos de fiscalización la presentación de documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo.
+
+Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+
+II. Entregar el informe del resultado de la revisión de las Cuentas Públicas a la Legislatura, dentro de los cinco meses posteriores a su presentación. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+
+La entidad de Fiscalización Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
+
+IV. Determinar los daños y perjuicios que afecten a la Hacienda Pública del Estado o Municipios o al patrimonio de los entes públicos paraestatales y paramunicipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
 
 ### CAPÍTULO TERCERO. DEL PODER JUDICIAL
 
@@ -1097,7 +1179,11 @@ En estos casos, también podrá disponer de los recursos públicos que fueren ne
 
 Igualmente, podrá requerir la cooperación y colaboración de los habitantes del Estado;
 
-XXXIV. Expedir los títulos profesionales de las personas que hayan hecho sus estudios en los establecimientos de educación superior del Estado, previa la comprobación de los requisitos reglamentarios y legales correspondientes, a excepción de los que deban expedir las instituciones autónomas; y
+XXXIV. Expedir los títulos profesionales de las personas que hayan hecho sus estudios en los establecimientos de educación superior del Estado, previa la comprobación de los requisitos reglamentarios y legales correspondientes, a excepción de los que deban expedir las instituciones autónomas; y (sic)
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
+
+XXXIV-A. Solicitar se convoque a referéndum o plebiscito y ordenar la publicación de los resultados; y
 
 XXXV. Las demás que expresamente le señale la presente Constitución.
 
@@ -1304,6 +1390,10 @@ II. Las impugnaciones que se presenten sobre la elección de Gobernador del Esta
 La Sala de Segunda Instancia realizará el cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos;
 
 III. Las impugnaciones de actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
+
+III-A. Las impugnaciones de actos y resoluciones de la autoridad electoral en los procesos de plebiscito y referéndum, por la Sala de Segunda Instancia;
 
 IV. Los conflictos o diferencias laborales entre el Tribunal Estatal Electoral, los demás órganos electorales y sus respectivos servidores;
 
@@ -2126,3 +2216,19 @@ DECIMO.- Los regímenes de propiedad derivados de resoluciones agrarias, o de cu
 DECIMO PRIMERO.- En un plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, deberán hacerse las reformas necesarias a las leyes que así lo requieran. En el mismo plazo, el Consejo Municipal de Trancoso deberá expedir su Bando de Policía y Buen Gobierno, y los reglamentos que se requieran. En tanto ello ocurre, continuará aplicándose en lo conducente, el Reglamento, para la Congregación Municipal de Trancoso.
 
 DECIMO SEGUNDO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Consejo Municipal de Trancoso elaborará el padrón de contribuyentes del municipio.
+
+P.O. 15 DE MARZO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La Entidad de Fiscalización Superior del Estado iniciará sus funciones el 1 de abril del año 2000. La revisión de las Cuentas Públicas y las funciones de fiscalización a que se refieren las fracciones I a la IV del artículo 71 reformado de este Decreto, se llevarán a cabo, en los términos del propio Decreto, a partir de la revisión de las cuentas públicas correspondientes al año 2001.
+
+La Entidad de Fiscalización Superior del Estado revisará las Cuentas Públicas de los años 1997, 1998, 1999 y 2000, conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+
+Las referencias que se hacen en dichas disposiciones a la Contaduría Mayor de Hacienda de la Legislatura del Estado, se entenderán hechas a la Entidad de Fiscalización Superior del Estado.
+
+TERCERO.- En tanto la Entidad de Fiscalización Superior del Estado no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme a la presente Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+Una vez creada la Entidad de Fiscalización Superior del Estado, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda al quedar extinta, pasarán a formar parte de la Entidad de Fiscalización Superior.
+
+CUARTO.- El encargado del despacho de la Contaduría Mayor de Hacienda, continuará desempeñando tal cargo, hasta el día 31 de marzo del año 2000.
