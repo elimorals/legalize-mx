@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1995-12-26"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -147,7 +147,9 @@ I.- El valor catastral del predio y de las construcciones, apartamento o local e
 
 La Ley de Ingresos de los Municipios del Estado fijará anualmente el porcentaje del valor catastral que servirá de base para el pago del impuesto.
 
-II.- El valor de la operación, en caso de que el predio sea objeto de contrato, convenio o de algún acto jurídico y siempre que el valor resulte superior a las bases registradas o determinadas conforme a la fracción anterior.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+II.- El valor del avalúo declarado por el contribuyente, tratándose de personas morales, que consistirá en la presentación del avalúo elaborado por perito valuador inscrito en el Registro Estatal; actualizándose dicho valor cada año de acuerdo a la variación que presente el índice inflacionario.
 
 III.- El valor fiscal registrado en los padrones de contribuyentes.
 
@@ -155,9 +157,21 @@ III.- El valor fiscal registrado en los padrones de contribuyentes.
 
 La base del impuesto, se modificará:
 
-a) Cuando se realice alguna de las causas que previene la Ley del Catastro Municipal, debiéndose practicar nuevo avalúo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-b) Cuando por cualquier circunstancia la base con que se está tributando sea inferior al valor que le correspondería al predio en una libre transación (sic) comercial.
+a) Cuando se realicen algunas de las causas que previene la Ley de Catastro.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+b) Cuando, las autoridades Municipales, practiquen avalúo o reavalúo catastral.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+c) Cuando las personas morales presenten el avalúo o reavalúo elaborado por perito valuador autorizado por la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Si el contribuyente no efectúa la declaración del valor de su inmueble a través del avalúo, servirá de base para el pago del Impuesto Predial el valor determinado por la autoridad catastral, conforme a lo establecido por el artículo 37-BIS de la Ley de Catastro Municipal.
 
 ###### ARTICULO 9o.
 
@@ -233,11 +247,11 @@ El impuesto a que se refiere la presente Ley podrá pagarse por bimestres adelan
 
 El hecho de ser aceptado el pago anual anticipado no impide el cobro de diferencias que proceda hacerse por cambio en las bases de tributación.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 19.
 
-El pago anticipado de una anualidad, deberá hacerse durante los tres primeros meses del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos de los Municipios.
+El pago anticipado de una anualidad, deberá hacerse durante los dos primeros meses del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos de los Municipios.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -345,7 +359,9 @@ Se entenderá como cesión de derechos la renuncia de la herencia o legado efect
 
 X.- Enajenación a través de fideicomiso, según los siguientes casos:
 
-a) En el acto de la constitución del fideicomiso si se designa fideicomisario o sujeto distinto del fideicomitente y siempre que este no tenga derecho a readquirir, del fiduciario los mismos bienes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+a) En el acto de la constitución del fideicomiso si se designa fideicomisario sujeto distinto del fideicomitente y este se reserve o no el derecho a readquirir, del fiduciario los mismos bienes.
 
 b) En el acto en que el fideicomitente pierda el derecho de readquirir los bienes del fiduciario, si al constituirse el fideicomiso se hubiera establecido tal derecho.
 
@@ -377,9 +393,9 @@ La base del impuesto será:
 
 I.- Tratándose de bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-a) El valor que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se afectuó la adquisición o el valor conforme avalúo bancario, catastral o de operación que resulte más alto.
+a) El valor que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes inmediato anterior a aquel que sea exigible el pago entre el mencionado índice correspondiente al mes anterior a aquel en que se efectuó la adquisición o el valor conforme avalúo con fines fiscales elaborado por peritos valuadores y autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado, catastral o de operación el que resulte más alto.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -437,9 +453,9 @@ Tratándose de operaciones con inmuebles se acompañarán con el aviso los sigui
 
 a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo determinado por las autoridades catastrales, mismas que aplicarán los valores unitarios de suelo y construcciones vigentes en la fecha de operación.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-b) Avalúo Bancario.
+b) Avalúo con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y Administración del Estado, a excepción de las adquisiciones a través de créditos hipotecarios y dación en pago, que podrá ser avalúo bancario.
 
 c) Certificado de no adeudo predial.
 
@@ -477,7 +493,9 @@ a) Copia certificada de la escritura constitutiva.
 
 b) Tabla de valores de cada unidad o departamento.
 
-c) Avalúo bancario, porcentaje de indivisos que correspondan a cada departamento o unidad de las áreas comunes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+c) Avalúo con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y Administración, porcentaje de indivisos que correspondan a cada departamento o unidad de las áreas comunes.
 
 d) Descripción del inmueble.
 
@@ -934,3 +952,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y seis.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y ocho.
