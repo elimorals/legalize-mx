@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-11611"
 country: "mx"
 rank: "ley"
 publication_date: "1973-06-10"
-last_updated: "1997-07-04"
+last_updated: "2004-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL EL 18 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de junio de 1973.
 
@@ -227,7 +229,7 @@ VII.- El Secretario llevará un libro de actas, que deberá estar autorizado por
 
 Las actas, por sus partes, serán autorizadas, con el Gobierno del Estado;
 
-Las actas, por sus partes, serán autorizadas, con la fé del propio Secretario o de Notario Público, por el Presidente de la Asamblea y del Comité de Vigilancia o quien lo substituya;
+Las actas, por sus partes, serán autorizadas, con la fe del propio Secretario o de Notario Público, por el Presidente de la Asamblea y del Comité de Vigilancia o quien lo substituya;
 
 VIII.- El Secretario tendrá siempre a la vista de los condóminos y de los acreedores registrados, el libro de actas y les informará por escrito a cada uno las resoluciones que adopte la Asamblea.
 
@@ -425,7 +427,7 @@ Cada uno de los condóminos responderá sólo del gravamen que corresponda a su 
 
 Los créditos que se originen por las obligaciones contenidas en las escrituras constitutivas y de traslación de dominio, por el Reglamento del Condominio o por esta Ley y demás disposiciones legales aplicables, gozan de garantía real sobre los departamentos, viviendas, casas o locales, aunque éstos se trasmitan a terceros.
 
-La inscripción de este gravamen en el Registro Público de la Propiedad, dá derecho a todo interesado para obtener del Administrador y de cualquier acreedor una liquidación de los adeudos pendientes. La liquidación del Administrador sólo surtirá efectos legales si va suscrita por el Presidente del Comité de Vigilancia o quien lo substituya.
+La inscripción de este gravamen en el Registro Público de la Propiedad, da derecho a todo interesado para obtener del Administrador y de cualquier acreedor una liquidación de los adeudos pendientes. La liquidación del Administrador sólo surtirá efectos legales si va suscrita por el Presidente del Comité de Vigilancia o quien lo substituya.
 
 ### CAPITULO VII. DESTRUCCION, RUINA Y RECONSTRUCCION DEL CONDOMINIO
 
@@ -484,3 +486,11 @@ FRANCISCO SANTANA PERALTA
 P.O. 4 DE JULIO DE 1997.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 18 DE JUNIO DE 2004
+
+PRIMERO.- Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley sobre el Régimen de Propiedad en Condominio de Inmuebles para el Estado Libre y Soberano de Baja California publicada en el Periódico Oficial No. 16, de fecha 10 de junio de 1973.
+
+TERCERO.- Los Ayuntamientos del Estado deberán tomar en cuenta las bases generales previstas en esta Ley, en el ámbito de sus respectivos municipios, teniendo un plazo de un año a partir de la publicación en el Periódico Oficial de Baja California de la presente Ley, con el objeto de emitir un Reglamento General de Condominios, así como la creación de las Oficialías Conciliadoras y Calificadoras Municipales en los términos del presente ordenamiento.
