@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-de-la-judicatura-del-estado-125
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-23"
-last_updated: "1998-10-23"
+last_updated: "1999-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 23 de octubre de 1998.
 
@@ -95,9 +95,11 @@ Las sesiones del Pleno del Consejo de la Judicatura del Estado, podrán ser ordi
 
 Las sesiones ordinarias deberán celebrarse los días martes de cada semana a las 10:00 horas, en el Salón de Sesiones del edificio del Poder Judicial de esta ciudad de Mexicali, Baja California, domicilio del Consejo de la Judicatura del Estado y durante los dos períodos de sesiones que señala este Reglamento.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El Pleno del Consejo de la Judicatura del Estado podrá determinar día y horario diferente a los señalados en el artículo anterior, para la celebración de sus sesiones ordinarias, cuando así lo exijan las necesidades del servicio o haya causa justificada para ello, siempre y cuando dicho cambio se notifique por lo menos con siete días de anticipación.
+El Pleno del Consejo de la Judicatura del Estado podrá determinar día y horario diferente a los señalados en el artículo anterior, para la celebración de sus sesiones ordinarias, cuando así lo exijan las necesidades del servicio o haya causa justificada para ello, siempre y cuando dicho cambio se notifique por lo menos con tres días de anticipación.
 
 ###### ARTICULO 13.
 
@@ -370,3 +372,9 @@ CONSEJERO
 LIC. ARNOLDO ANTONIO CASTILLA GARCIA
 
 CONSEJERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE FEBRERO DE 1999.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
