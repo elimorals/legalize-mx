@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1989-12-30"
+last_updated: "1990-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -265,9 +265,11 @@ Estos impuestos, deberán pagarse en la Tesorería Municipal, dentro de los mism
 
 Tratándose de los impuestos sobre Predial, Traslación de Dominio y sobre Fraccionamientos regirán las disposiciones de las secciones II, III y IV de este Título Segundo, Capítulo I.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 31.
 
-Para los efectos del cobro de los impuestos a que se refiere este capítulo, la Tesorería General del Estado proporcionará a las Tesorerías Municipales los datos de sus registros respectivos, y tratándose de los impuestos Predial, Traslación de Dominio y sobre Fraccionamientos, deberá en todo caso atenderse a lo estipulado en los Convenios de Administración celebrados entre las Autoridades Fiscales del Estado y los municipios.
+Para los efectos del cobro de los impuestos a que se refiere este Capítulo, la Secretaría de Finanzas y Planeación del estado proporcionará a las Tesorerías Municipales los datos de sus registros respectivos, y tratándose de los Impuestos Predial, Translación de Dominio y sobre fraccionamientos, deberá en todo caso atenderse a lo estipulado en los convenios de Administración celebrados entre las Autoridades Fiscales del Estado y los Municipios.
 
 ###### ARTICULO 32.
 
@@ -327,9 +329,13 @@ V.- Los demás sujetos que señalen las Leyes Fiscales.
 
 La base del impuesto será:
 
-I.- El 85% del valor catastral del predio, señalado en los términos de la Ley de Catastro;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-II.- En aquellos casos en los que no se haya determinado el valor catastral correspondiente, la base será el valor provisional que la Tesorería General del Estado fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
+I.- El 100% del Valor Catastral del predio, señalado en los términos de la Ley de Catastro.
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+II.- En aquellos casos en los que no se haya determinado el Valor Catastral correspondiente, la base será el valor provisional que la Secretaría de Finanzas y Planeación del Estado fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
 
 III.- En los casos a que se refiere la fracción IV del artículo 33 de esta Ley, adicionalmente a la base determinada conforme a las fracciones anteriores, se le sumará el valor de la maquinaria y equipo asignado por peritos valuadores en la materia.
 
@@ -351,17 +357,13 @@ Las Tesorerías Municipales formularán liquidaciones por las diferencias del im
 
 El impuesto predial se determinará, liquidará y pagará de acuerdo con la siguiente
 
-T A R I F A
+TARIFA TASA AL MILLAR ANUAL
 
-Tasa
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-al Millar
+I.- Predios Urbanos ………………………………………………………………………………….2
 
-anual
-
-I.-Predios Urbanos. 8
-
-Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se recobre por cada predio.
+Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
 
 II.-Predios rústicos.. 10
 
@@ -371,11 +373,11 @@ III.- 5
 
 Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos de cualquier clase de acuerdo con la Ley Federal de Impuestos y Fomento a la Minería, sobre el valor de os bienes raíces, maquinaria equipo y otros destinados directamente a la explotación del negocio.
 
-IV.- Predios baldíos 12
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+IV.- Predios Baldíos ………………………………………………………………………………….7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
-
-"Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio."
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -573,9 +575,11 @@ b) Copia de las constancias con las que se haya rendido el informe de no adeudo.
 
 Cuando la Tesorería Municipal lo estime necesario, podrá solicitar de los fedatarios o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiere hecho constar el acto o contrato de que se trata.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 60.
 
-Las Tesorerías Municipales podrán solicitar a la Tesorería General del Estado que ordene la práctica de avalúos de los bienes inmuebles, referidos a la fecha de la operación objeto del impuesto y cuando el valor que resulte de dichos avaIúos exceda del valor que sirvió de base para el pago del impuesto, se formulará liquidación y cobro de las diferencias correspondientes.
+Las Tesorerías Municipales podrán solicitar a la Secretaría de Finanzas y Planeación del Estado que ordene la práctica de avalúos de los bienes inmuebles, referidos a la fecha de operación objeto del impuesto y cuando el valor que resulte de dichos avalúos exceda del valor que sirvió de base para el pago del impuesto, se formulará liquidación y cobro de las diferencias correspondientes.
 
 Si en la declaración se oculta superficie de terreno o de las construcciones consignadas en el antecedente de propiedad, independientemente de la diferencia de impuesto que resulte, se aplicará la sanción que corresponda en los términos que señala el Código Fiscal del Estado.
 
@@ -3114,3 +3118,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 Publíquese en la "Gaceta Oficial" órgano del Gobierno del Estado.
+
+G.O. 29 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1° de enero de 1991, previa su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
