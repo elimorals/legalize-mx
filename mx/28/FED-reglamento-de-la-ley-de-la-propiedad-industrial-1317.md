@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-propiedad-industrial-1317"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-23"
-last_updated: "2002-09-10"
+last_updated: "2003-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -473,6 +473,16 @@ La publicación de la patente comprenderá, en su caso, además de la publicaci�
 
 En caso de que el solicitante haya modificado las reivindicaciones, el Instituto le requerirá, para los efectos de la publicación de la patente, la presentación del resumen con las correcciones consiguientes.
 
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 47 BIS.- Tratándose de patentes otorgadas a medicamentos alopáticos, el Instituto publicará en la Gaceta, y pondrá a disposición del público un listado de productos que deban ser objeto de protección industrial de acuerdo con la sustancia o ingrediente activo, el cual precisará la vigencia de la patente respectiva.
+
+Este listado contendrá la correspondencia entre la denominación genérica e identidad farmacéutica de la sustancia o ingrediente activo y su nomenclatura o forma de identificación en la patente, la cual deberá realizarse conforme al nombre reconocido internacionalmente.
+
+El listado a que se refiere este artículo no contendrá patentes que protejan procesos de producción o de formulación de medicamentos.
+
+En caso de existir controversia respecto de la titularidad de la patente de la sustancia o principio activo, los interesados podrán someterse, de común acuerdo, a un arbitraje, en los términos de la legislación mercantil.
+
 ###### ARTICULO 48.
 
 Para autorizar los cambios en la patente a que se refiere el artículo 61 de la Ley, el Instituto podrá requerir al solicitante para que presente, en un plazo de dos meses, las correspondientes modificaciones a la descripción, reivindicaciones, dibujos o resumen. De no cumplir el solicitante con el requerimiento en el plazo señalado, se tendrá por abandonada la promoción de que se trate.
@@ -766,3 +776,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Dist
 D.O.F. 10 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE SEPTIEMBRE DE 2003.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto Mexicano de la Propiedad Industrial expedirá en un plazo de sesenta días naturales las disposiciones relativas a la integración, funcionamiento y actualización del listado a que se refiere el artículo 47-bis del Reglamento de la Ley de la Propiedad Industrial que se adiciona conforme a este Decreto, así como los formatos de consulta aplicables. Para este efecto el Instituto tomará en consideración la opinión de la Cámara Nacional de la Industria Farmacéutica.
