@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "1988-01-07"
+last_updated: "1992-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -310,7 +310,9 @@ VIII. Las resoluciones se comunicarán a los interesados por correspondencia reg
 
 Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el acto o título de la concesión.
 
-Salvo lo establecido en otras leyes las concesiones sobre inmuebles de dominio público podrán otorgarse hasta por un plazo de 20 años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, a juicio de la Secretaría, atendiendo tanto para el otorgamiento de la concesión como para la prórroga a lo siguiente:
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1992)</small>
+
+Las concesiones sobre inmuebles de dominio público, salvo excepciones previstas en otras leyes, podrán otorgarse hasta por un plazo de cincuenta años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, a juicio de la Secretaría de Desarrollo Urbano y Ecología, atendiendo tanto para el otorgamiento de la concesión como para la prórroga a lo siguiente:
 
 I. El monto de la inversión que el concesionario pretenda aplicar;
 
@@ -324,7 +326,9 @@ V. El cumplimiento por parte del concesionario de las obligaciones a su cargo, y
 
 VI. La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
 
-Al término del primer plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la concesión revertirán en favor de la Nación. En caso de prórroga o de otorgamiento de una nueva concesión, tendrá preferencia el concesionario original y para la fijación del monto de los derechos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1992)</small>
+
+El titular de una concesión gozará de un plazo de cinco años, previo al vencimiento de la concesión, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado revertirán en favor de la Nación.
 
 ###### ARTICULO 21.
 
@@ -352,7 +356,9 @@ VI. Cualquiera otra prevista en las leyes, reglamentos, disposiciones administra
 
 Las concesiones sobre inmuebles de dominio público, podrán ser revocadas por cualquiera de las causas siguientes:
 
-I. Dejar de cumplir con el fin para el que fue otorgada la concesión, o dar al bien objeto de la misma un uso distinto al autorizado;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1992)</small>
+
+I. Dejar de cumplir con el fin para el que fue otorgada la concesión, dar al bien objeto de la misma un uso distinto al autorizado o no usar el bien de acuerdo con lo dispuesto en esta ley, los reglamentos y el propio título de concesión;
 
 II. Dejar de cumplir con las condiciones a que se sujete el otorgamiento de la concesión o infringir lo dispuesto en esta ley y sus reglamentos;
 
@@ -674,13 +680,21 @@ Estará a cargo de las dependencias o instituciones que tengan destinados a su s
 
 Tanto en el macizo continental como en las islas que integran el territorio nacional, la zona federal marítimo terrestre se determinará:
 
-I. Cuando la costa presente playas, la zona federal marítimo terrestre estará constituida por la faja de veinte metros de ancho de tierra firme, transitable y contigua a dichas playas o, en su caso, a las riberas de los ríos, desde la desembocadura de éstos en el mar, hasta el punto, río arriba donde llegue el mayor flujo anual.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1992)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+I. Cuando la costa presente playas, la zona federal marítimo terrestre estará constituida por la faja de veinte metros de ancho de tierra firme, transitable y contigua a dichas playas o, en su caso, a las riberas de los ríos, desde la desembocadura de éstos en el mar, hasta cien metros río arriba;
 
-II. Cuando la costa carezca de playas y presente formaciones rocosas o acantilados, la Secretaría de Desarrollo Urbano y Ecología determinará la zona federal marítimo terrestre dentro de una faja de 20 metros contigua al litoral marino. Para los efectos de esta ley la totalidad de la superficie de los cayos y arrecifes ubicados en el mar territorial, se considerarán como zona federal marítimo terrestre;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1992)</small>
 
-III. En el caso de lagos, lagunas o esteros que se comuniquen directa o indirectamente con el mar o respecto de cualquier otro depósito de agua marítima, la faja de veinte metros de zona federal marítimo terrestre se contará a partir del punto a donde llegue el mayor embalse anual o límite de la pleamar o, en su caso, con base en las reglas señaladas en la fracción anterior.
+II. La totalidad de la superficie de los cayos y arrecifes ubicados en el mar territorial, constituirán zona federal marítimo terrestre;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1992)</small>
+
+III. En el caso de lagos, lagunas, esteros o depósitos naturales de agua marina que se comuniquen directa o indirectamente con el mar, la faja de veinte metros de zona federal marítimo terrestre se contará a partir del punto a donde llegue el mayor embalse anual o límite de la pleamar, en los términos que determine el reglamento.
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1992)</small>
+
+IV. En el caso de marinas artificiales o esteros dedicados a la acuacultura, no se delimitará zona federal marítimo terrestre, cuando entre dichas marinas o esteros y el mar medie una zona federal marítimo terrestre. La zona federal marítimo terrestre correspondiente a las marinas que no se encuentren en este supuesto, no excederá de tres metros de ancho y se delimitará procurando que no interfiera con el uso o destino de sus instalaciones.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -702,6 +716,10 @@ En el caso de que la zona federal marítimo terrestre sea invadida total o parci
 
 Cuando el aprovechamiento o explotación de materiales existentes en la zona federal marítimo terrestre se rija por leyes especiales, para que la autoridad competente otorgue la concesión, permiso o autorización respectiva, se requerirá previamente de la opinión favorable de la Secretaría de Desarrollo Urbano y Ecología.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1992)</small>
+
+Cuando se cuente con concesión, permiso o autorización de autoridad competente para el aprovechamiento, explotación o realización de actividades reguladas por otras leyes, incluidas las relacionadas con marinas, instalaciones marítimo-portuarias, pesqueras o acuícolas y se requiera del aprovechamiento de la zona federal marítimo terrestre, la Secretaría de Desarrollo Urbano y Ecología otorgará de inmediato la concesión respectiva, excepto cuando se afecten derechos de preferencia de los colindantes o de otros concesionarios, sin perjuicio de que se cumpla la normatividad general que para cada aprovechamiento, explotación o actividad expida previamente dicha Secretaría en lo tocante a la zona federal marítimo terrestre.
+
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 53.
@@ -712,11 +730,11 @@ A la Secretaría de Desarrollo Urbano y Ecología corresponderá la posesión, d
 
 En las autorizaciones que la Secretaría de Desarrollo Urbano y Ecología otorgue a particulares para realizar obras tendientes a ganar terrenos al mar se establecerán los requisitos, condiciones técnicas y plazo para su realización, el monto de la inversión que se efectuará, el uso o aprovechamiento que se les dará, así como las condiciones de venta de la superficie total o parcial susceptible de enajenarse, en las que se considerará, en su caso, las inversiones realizadas por el particular en las obras.
 
-Las Secretarías de Desarrollo Urbano y Ecología y de Comunicaciones y Transportes, podrán autorizar la construcción de canales y dársenas para el desarrollo de las marinas, a fin de impulsar el desarrollo turístico de determinada zona de nuestros litorales. Para tales efectos, la Secretaría de Desarrollo Urbano y Ecología determinará las modalidades a que se sujetará el otorgamiento de concesiones para la ocupación de la zona federal marítimo terrestre y, en cada caso, podrá reducir su anchura. Como el mismo fin, la Secretaría de Comunicaciones y Transportes fijará las condiciones necesarias para garantizar el libre tránsito en la zona de protección, para la conservación y reparación de los canales y dársenas; así como para la aprobación y supervisión de los proyectos de construcción de las obras relativas.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1992)</small>
 
-> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 1987)</small>
+Las Secretarías de Desarrollo Urbano y Ecología, Comunicaciones y Transportes, Turismo y Pesca, en el ámbito de sus atribuciones legales, se coordinarán para fomentar la construcción y operación de infraestructura especializada en los litorales.
 
-El área que resulte de la reducción que determine la Secretaría de Desarrollo Urbano y Ecología de la zona federal marítimo terrestre, no podrá ser adquirida por accesión por los propietarios colindantes.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 3 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 54.
 
@@ -1207,3 +1225,9 @@ III.- Las demás disposiciones que se opongan a lo establecido por este ordenami
 ###### ARTICULO TERCERO.
 
 Al entrar en vigor este Decreto, el Ejecutivo Federal procederá a revisar las normas reglamentarias y administrativas que se hubieren expedido con anterioridad sobre las materias a que se refiere este ordenamiento, y realizará respecto de dichas normas, las adecuaciones y derogaciones que resulten pertinentes, las cuales surtirán efectos, en lo que hace a las entidades paraestatales, una vez que los órganos de gobierno de éstas hayan expedido las políticas, bases y lineamientos a que se refiere este Decreto, para lo cual el Ejecutivo Federal establecerá el plazo necesario.
+
+D.O.F. 3 DE ENERO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Desarrollo Urbano y Ecología proveerá lo necesario para adecuar la zona federal marítimo terrestre a lo dispuesto por este Decreto.
