@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "1996-01-12"
+last_updated: "1996-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -101,7 +101,9 @@ III.- Cargos de funcionario o empleado, bajo la dirección y dependencia de pers
 
 IV.- Aquellos cargos que las Leyes u otros ordenamientos jurídicos señalen expresamente.
 
-Se exceptuan de las incompatibilidades señaladas, la impartición de cátedra y los cargos en la beneficiencia (sic) pública o privada.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Se exceptúan de las incompatibilidades señaladas, los cargos docentes, asistenciales y electorales.
 
 ###### ARTICULO 7o.
 
@@ -121,17 +123,25 @@ Son atribuciones y facultades de los Notarios:
 
 I.- Autorizar en sus protocolos con total arreglo a las leyes vigentes toda clase de instrumentos públicos;
 
-II.- Certificar y ratificar fuera del Protocolo todo aquello para la cual fueren solicitados incluyendo ratificaciones de contratos, escrituras, y documentos privados en los términos del Código Civil y de la presente Ley; produciendo en este caso su testimonio el valor probatorio que las leyes atribuyen a un testigo abonado y sin tacha;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Intervenir como actuarios en los juicios arbitrales, además podrá desempeñar el mandato judicial y ejercer la profesión de Abogado en aquellos negocios en que no haya intervenido en su carácter de Notario;
+II.- Certificar y ratificar fuera de Protocolo contratos y documentos privados en los términos de la presente Ley y de las demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+III.- Actuar como Arbitro, Secretario o Actuario en juicios o procedimientos arbitrales; desempeñar el mandato judicial y ejercer la profesión de abogado en aquellos negocios que no haya intervenido en su carácter de Notario;
 
 IV.- Autorizar los testamentos cerrados;
 
 V.- Hacer substitución de poderes;
 
-VI.- Autorizar giros, aceptaciones, endosos y protestas, sujetándose a las reglas de la legislación respectiva;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-VII.- Expedir copias de los documentos que se les presenten y testimonios de los que autoricen;
+VI.- Levantar aceptaciones y protestos, sujetándose a las reglas de la legislación respectiva;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII.- Certificar copias de los documentos que se les presenten y expedir testimonios de los que autoricen;
 
 VIII.- Poner notas al calce o margen de otros instrumentos públicos y en los casos de cancelación, venta, adjudicación y cualquier otro en que sean necesarias, siempre que esas notas procedan de contrarios legalmente autorizados;
 
@@ -139,17 +149,17 @@ IX.- Autorizar y extender íntegramente en el protocolo los contratos originales
 
 X.- Protocolizar todos los documentos y demás actos que les soliciten, siempre y cuando no sean contrarios a las leyes y a las buenas costumbres;
 
-XI.- Legalizar firmas;
+XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
 XII.- Enviar a la oficina respectiva el aviso a que se refiere el artículo 48 de la Ley Reglamentaria del Registro Público de la Propiedad;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 1996)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996) (F. DE E., P.O. 14 DE FEBRERO DE 1997)
 
-XIII.- Intervenir, en sustitución de la autoridad judicial respectiva, en aquellos procedimientos a que se refieren los capítulos V y VI del Título Décimo Quinto del Código de Procedimientos Civiles del Estado.
+XIII.- Intervenir, cuando el interesado opte por esta vía y no por la judicial, conforme a las disposiciones legales aplicables, en los procedimientos a que se refiere el Título Décimo Quinto del Código de Procedimientos Civiles del Estado.
 
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-XIV.- tramitar extrajudicialmente sucesiones testamentarias e intestamentarias, en tanto no surja desacuerdo entre las partes interesadas; y
+XIV.- Intervenir en la tramitación extrajudicial de sucesiones testamentarias e intestamentarias, conforme a las disposiciones legales aplicables en cada caso; y
 
 XV.- Las demás que establezcan las leyes.
 
@@ -529,7 +539,9 @@ Los preceptos del capítulo anterior relativos a las escrituras, serán aplicabl
 
 Entre los hechos que puede consignar el notario en actas fuera de protocolo, se encuentran, enunciativa y no limitativamente los siguientes:
 
-a).- Notificaciones, interpelaciones, requerimientos, protesto de documentos mercantiles y otras diligencias en las que deba intervenir el notario según las leyes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+a).- Notificaciones, interpelaciones, requerimientos, protesto de documentos mercantiles, tramitación de sucesiones testamentarias o intestamentarias, diligencias de jurisdicción voluntaria y otras diligencias en las que deba intervenir el Notario según las Leyes.
 
 b).- La comprobación de que determinadas personas estamparon su firma o huella digital en algún documento y de que ratifican el contenido y firma del mismo.
 
@@ -548,6 +560,10 @@ b).- Si las personas con quienes se entienda la diligencia no quieren oír la le
 c).- El intérprete, de ser necesario, será elegido por el Notario, sin perjuicio de que él o los interesados puedan nombrar otro u otros por su parte.
 
 d).- El Notario autorizará el acta aun cuando no haya sido firmada por el interesado. En los casos de protesto no será necesario que el Notario conozca a las personas con quienes se entienda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+e).- En los casos de sucesiones o diligencias de jurisdicción voluntaria, se integrará por el notario expediente con la documentación e información que aporten los solicitantes, las actas notariales que se levanten con motivo de tales diligencias y las demás determinaciones que se emitan durante su tramitación. Al concluir las diligencias, procederá el Notario a la Protocolización de las Constancias que en estos supuestos señala la Ley y, en su defecto, de las que sean concluyentes respecto a los hechos o derechos acreditados.
 
 ###### ARTICULO 64.
 
@@ -831,7 +847,9 @@ III.- Otorgar la protesta de ley ante el Ejecutivo del Estado dentro de los 30 d
 
 IV.- Establecer su Notaría e iniciar sus funciones, dentro de los 30 días siguientes a la fecha en que haya otorgado la protesta, informando de ello inmediatamente a las Autoridades y Dependencias mencionadas en la fracción I y avisando al público mediante publicación a su costa en el Periódico Oficial del Gobierno del Estado.
 
-### CAPITULO SEPTIMO. DE LAS LICENCIAS, SUSPENSIONES TEMPORALES Y SUPLENCIAS DE LOS NOTARIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO SEPTIMO. DE LAS LICENCIAS, SUSPENSIONES TEMPORALES, SUPLENCIAS Y ASOCIACION DE NOTARIOS
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
 
@@ -902,6 +920,22 @@ El Notario sustituto tendrá derecho en todo caso a percibir íntegramente los h
 ###### ARTICULO 118.
 
 No se considerarán como ausencias las salidas que por razones de su cargo tenga que hacer el Notario.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 118
+
+BIS.- Los titulares de las Notarías Públicas correspondientes al mismo Distrito notarial y al mismo domicilio dentro del municipio en que actúan, podrán asociarse por el tiempo que estimen conveniente.
+
+Los notarios Asociados, que pueden ser hasta dos, podrán actuar indistintamente en un mismo Protocolo, que será de preferencia el del notario más antiguo y en caso de disolución del Convenio de Asociación, cada notario seguirá actuando en su propio Protocolo.
+
+Cada uno de los notarios Asociados tendrá la misma capacidad para actuar y usará su propio sello.
+
+Durante la vigencia del Convenio de Asociación, los Notarios Asociados se suplirán recíprocamente en sus faltas temporales. El Notario Asociado que continúe en funciones, podrá autorizar definitivamente los instrumentos autorizados preventivamente por el Notario suplido, así como expedir los testimonios correspondientes y cumplir los trámites subsecuentes que legalmente debiera realizar éste último.
+
+La falta definitiva de cualquiera de los Notarios Asociados, será causa de terminación del Convenio de Asociación y el Notario que quede en funciones, podrá continuar usando el mismo Protocolo en que se haya actuado. Si este Protocolo fuera el del Notario faltante, deberá gestionarse por el Notario que quede al cargo ante el Ejecutivo del Estado el cambio de número de su Notaría y proveerse del nuevo sello con el número de la Notaría correspondiente al Notario faltante. Mientras los obtiene, seguirá actuando con su sello y su número anteriores. La Notaría correspondiente al Notario que sustituya al que falte, quedará vacante.
+
+Los Convenios de Asociación y la disolución de los mismos, por cualquier causa, deberán registrarse en la Dirección de Notarías del Estado y en la Oficina del Registro Público de la Propiedad y de Comercio del Distrito que corresponda al de las Notarías que se pretenden asociar. Tanto los Convenios de Asociación como de disolución serán publicados en el Periódico Oficial del Gobierno del Estado.
 
 ### CAPITULO OCTAVO. DE LA TERMINACION DEL CARGO DE NOTARIO
 
@@ -1186,6 +1220,14 @@ Los Notarios son responsables por los delitos y faltas que cometan con motivo de
 ###### ARTICULO 156.
 
 De la responsabilidad civil en que incurran los Notarios, conocerán los tribunales civiles, a instancia de parte legítima y en los términos de su respectiva competencia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+A los Notarios Públicos que sean llamados para dar testimonio judicial de los actos en que hubieren intervenido con motivo del ejercicio de sus funciones, se les solicitará su declaración por oficio y la rendirán por la misma vía.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+Cuando sea el caso de contestar interrogatorios, se remitirá al Notario en sobre cerrado, el pliego de preguntas y repreguntas que se hubieren formulado por las partes, debiendo contestar por escrito las que hayan sido calificadas de legales por la Autoridad Judicial que conozca del procedimiento.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
 
@@ -1588,3 +1630,9 @@ Para los efectos del artículo 70 de la presente reforma, el Ejecutivo del Estad
 ###### ARTICULO CUARTO.
 
 Las reformas al artículo 9o. en sus fracciones XIII y XIV entrarán en vigor una vez que se realicen las correspondientes al Código adjetivo de la materia.
+
+P.O. 31 DE DICIEMBRE DE 1996.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
