@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1963-12-30"
+last_updated: "1965-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1965.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -273,9 +273,9 @@ X.- Que la institución se disuelva o entre en estado de liquidación.
 
 XI.- Cuando la institución quiebre, pero si el procedimiento termina en rehabilitación, la Secretaría de Hacienda podrá discrecionalmente, mantener en vigor, la autorización con las modalidades que estime a bien imponer.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1961)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
 
-XII.- El hecho de que la mayoría de las acciones pase a poder de un gobierno extranjero, o tratándose de una sociedad mexicana, se establezcan relaciones evidentes de dependencia con empresas extranjeras que sean aseguradoras, reaseguradoras o se dediquen a actividades similares;
+XII.- Que tratándose de sucursales de una sociedad extranjera, la mayoría de las acciones de ésta pasen a poder de un gobierno extranjero, o que tratándose de una sociedad mexicana se infrinja lo establecido en el último párrafo de la fracción I del artículo 17, o que la institución establezca con las entidades o grupos mencionados en dicho párrafo, relaciones evidentes de dependencia.
 
 > <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -330,6 +330,10 @@ Las sociedades anónimas que tengan por objeto operar como instituciones de segu
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
 I.- Estarán facultadas para emitir acciones no suscritas que se conservarán en la caja de la sociedad y que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que la sociedad fije, en su caso, pudiendo la misma sociedad, cuando el pago se haga en exhibiciones, expedir a los suscriptores certificados provisionales, en los que se harán constar las exhibiciones que el suscriptor cubra. También podrán establecerse sociedades con capital variable, pero en este caso el capital mínimo que exige esta Ley estará siempre representado por acciones sin derecho a retiro. La escritura constitutiva y, en su defecto, las resoluciones relativas a la Asamblea General, determinarán la forma, términos y condiciones en que deberá hacerse la emisión de las acciones y en que podrá ejercitarse el derecho de retiro. Los tenedores de acciones con derecho a retiro deberán tener facultad, por lo menos, para nombrar a dos de los consejeros y a un comisario de la sociedad, siempre que el capital pagado sobre tales acciones represente más del quince por ciento del capital exhibido de una sociedad. Aun cuando las acciones con derecho a retiro estén divididas en varias series, se considerarán como formando una sola para la designación de consejeros. El importe del capital pagado por las acciones sin derecho a retiro se hará constar en todos los documentos de la sociedad en que aparezca mencionado el capital social;
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
@@ -749,7 +753,15 @@ Las instituciones de seguros no podrán repartir a sus accionistas, asegurados, 
 
 Las provisiones que para castigos se establezcan, podrán ser ajustadas de un balance a otro, con aprobación de la Secretaría de Hacienda y Crédito Público, pero sólo en la medida en que se hayan modificado los hechos y factores que sirvieron de base para su cálculo, y respetando siempre las reglas de estimación del activo establecidas en esta ley.
 
-(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+ARTICULO 45 bis.- La suma total de saldos a cargo de agentes, documentos por cobrar y deudores diversos solamente se aceptará como inversión de capital y reserva a que se refiere el artículo 32 hasta por el 20% del capital contable de la institución. Cualquier excedente en el activo sobre este porcentaje dará origen a una reserva con cargo a los resultados del ejercicio.
+
+No podrán computarse dentro del activo de las instituciones de seguros los títulos de crédito provenientes del pago de la prima, excepto los cheques.
+
+Queda prohibido a las instituciones de seguros recibir títulos de créditos sin que contengan la cláusula de “no negociable”, a menos que obtengan autorización de la Secretaría de Hacienda y Crédito Público y siempre que no provengan del pago de la prima.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 45 Bis.
 
@@ -1162,6 +1174,10 @@ Las inversiones de las reservas técnicas estarán afectas a las obligaciones co
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá, mediante disposiciones de carácter general, modificar, reformar y variar los renglones, objetos y límites de inversión de las instituciones de seguros, así como señalar otros nuevos, para satisfacer necesidades de orden social o de interés público.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+ARTICULO 85 bis.- Para los efectos de inversión, la reserva para riesgos en curso mencionada en la fracción III del artículo 65 quedará sujeta a la deducción del 45% de las primas pendientes de pago, que no tengan más de 30 días de vencidas al cierre del ejercicio, subsistiendo en todo lo que no se oponga a esta regla lo dispuesto en el artículo anterior.
 
 (REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 26 DE JUNIO DE 1957)
 
@@ -1877,7 +1893,7 @@ El laudo arbitral no admitirá más recurso o medio de defensa que el juicio de 
 
 > <small>(F. DE E., D.O.F. 4 DE FEBRERO DE 1964)</small>
 
-El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de 15 días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer delas inversiones de las reservas técnicas de la institución.
+El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de 15 días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer de las inversiones de las reservas técnicas de la institución.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
@@ -1946,6 +1962,10 @@ IV.- La empresa o negociación que haya efectuado la operación u operaciones ac
 ###### ARTICULO 139.
 
 Queda prohibido a las instituciones de crédito que operen en la República, aceptar documentos al cobro de instituciones de seguros no autorizadas de acuerdo con esta ley, que tengan por objeto el cobro de primas. La infracción a lo dispuesto en este artículo será castigada con multa de $100.00 a $300.00.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+ARTICULO 139 bis.- La infracción a lo dispuesto en el último párrafo de la fracción I del artículo 17 se sancionará a juicio de la Secretaría de Hacienda y Crédito Público, y según la gravedad del caso, con la pérdida de la participación de capital de que se trate en favor del Gobierno Federal o con la revocación de la autorización respectiva, en los términos del artículo 13.
 
 ###### ARTICULO 140.
 
@@ -2232,3 +2252,21 @@ D.O.F. 30 DE DICIEMBRE DE 1963.
 PRIMERO.- Las presentes reformas entrarán en vigor el día 1o. de enero de 1964.
 
 SEGUNDO.- Las reclamaciones recibidas por la Comisión Nacional de Seguros hasta el 31 de diciembre del presente año se regirán por las disposiciones actualmente en vigor.
+
+D.O.F. 30 DE DICIEMBRE DE 1965.
+
+###### ARTICULO PRIMERO.
+
+Las instituciones de seguros deberán reformar sus escrituras constitutivas, para insertar la prohibición a que se refiere el último párrafo de la fracción I del artículo 17 e incluir en el pacto social que la infracción a dicho precepto producirá la pérdida de la acción o acciones de que se trate en favor de la nación. Para ajustarse a lo preceptuado en este artículo dispondrán del plazo de un año contado a partir de la fecha en que entren en vigor las presentes reformas.
+
+La Secretaría de Hacienda y Crédito Público tendrá la facultad de autorizar las inversiones en el capital de las instituciones de seguros que a la fecha se encuentren en poder de algunas de las personas o entidades mencionadas en el último párrafo de la fracción I del artículo 17.
+
+###### ARTICULO SEGUNDO.
+
+En un plazo de 5 años contado a partir de la fecha en que entre en vigor este Decreto, las instituciones de seguros no podrán liberar las inversiones que tengan constituidas en valores del Estado o de instituciones nacionales de crédito, afectas a la reserva de riesgos en curso.
+
+En caso de violación a este precepto la institución de que se trate deberá reconstituir dicha inversión o dejará de gozar de la deducción a que se refiere el artículo 85 bis.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
