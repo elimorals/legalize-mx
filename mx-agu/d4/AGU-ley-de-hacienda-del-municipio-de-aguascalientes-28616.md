@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1993-10-24"
+last_updated: "1994-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1994.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -893,6 +893,10 @@ No se pagará el impuesto establecido en esta ley:
 
 2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1994)</small>
+
+3.- Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
+
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 DE LA RESPONSABILIDAD SOLIDARIA
@@ -1654,3 +1658,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 24 DE OCTUBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
