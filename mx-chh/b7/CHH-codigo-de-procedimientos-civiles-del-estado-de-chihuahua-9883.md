@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1994-11-30"
+last_updated: "1995-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1931,6 +1931,10 @@ VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean pos
 
 Al solicitar la separación del juicio, los interesados deberán manifestar el nombre del notario que se va a encargar de la substanciación del negocio.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1995)</small>
+
+Previamente a la remisión de los autos, el Juez deberá haber recabado la información a que se refiere el segundo párrafo del artículo 559.
+
 523.- En todo juicio sucesorio se formarán cuatro secciones compuestas de los cuadernos correspondientes. En el caso de que no haya más que un solo heredero mayor de edad y a la vez albacea, no será necesario formar las secciones tercera y cuarta; concluida la sección segunda se le hará adjudicación de los bienes.
 
 En el caso del artículo 522 al separarse los interesados del juicio, el juez pondrá a disposición de ellos los bienes hereditarios, cuya partición se hará con arreglo a la ley.
@@ -2076,6 +2080,10 @@ Estando ausentes los herederos y sabiéndose su domicilio se les citará por med
 558.- Al promoverse un intestado, justificará el denunciante, en caso de tenerlo, el parentesco o lazo que le hubiere unido al autor de la herencia. Además, en su escrito o comparecencia correspondiente, deberá el denunciante, bajo protesta de decir verdad, indicar los nombres y domicilios de los parientes en línea recta consanguínea que haya dejado el autor de la sucesión y del cónyuge supérstite, y a falta de estas personas, los nombres y domicilios de los parientes colaterales consanguíneos hasta el cuarto grado. De ser posible, se presentarán desde luego, las copias certificadas de las actas del Registro Civil que acrediten dicho parentesco.
 
 559.- El juez tendrá por radicado el juicio sucesorio, y mandará notificar en la forma legal a las personas señaladas como descendientes, ascendientes y cónyuge supérstite, o en su defecto, a los parientes colaterales dentro del cuarto grado que se hubieren indicado, haciéndoles saber el nombre del finado y las demás circunstancias que lo identifiquen, y la fecha del lugar del fallecimiento, para que justifiquen sus derechos a la herencia y nombren albacea, fijándoseles para este efecto un plazo que, atendidas las circunstancias que concurran, prudentemente señalará.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1995)</small>
+
+Los jueces ante quienes se tramite una sucesión recabarán del Departamento del Registro Público de la Propiedad y del Notariado y de la Oficina del Registro Público de la Propiedad del correspondiente Distrito, la información de si en sus registros tienen noticia de que el autor de la herencia haya otorgado testamento.
 
 560.- Los herederos ab-intestato que sean descendientes del finado, podrán obtener la declaración de su derecho, justificando con los correspondientes documentos o con la prueba que sea legalmente posible, su parentesco con el autor de la sucesión, y con una información testimonial que acredite que ellos o los que designen, son los únicos herederos.
 
@@ -2322,6 +2330,10 @@ Si todos los interesados tuvieren igual porción en la finca, el título quedar�
 Si no hubiere albacea, se llevará a cabo su designación en la forma que establece el Código Civil.
 
 El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de siete en siete días en un diario que se edite en el lugar del juicio y si no lo hubiere, en uno de la capital del Estado, así como en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1995)</small>
+
+Además, el Notario recabará la información a que se refiere el segundo párrafo del artículo 559.
 
 634.- Practicado el inventario por el albacea, y estando conformes con él todos los herederos, lo presentarán al notario reconociéndolo expresamente ante él, lo cual hará constar el notario en la forma legal.
 
@@ -3962,3 +3974,11 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE AGOSTO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO SEPTIMO.
+
+Las reformas a los Códigos Civil y de Procedimientos Civiles, entraran en vigor al día siguiente de la publicación del presente decreto en el Periódico Oficial del Estado.
