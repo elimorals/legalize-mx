@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-05-10"
+last_updated: "2003-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -395,7 +395,9 @@ Cuando el Presidente haya de tomar la palabra en el ejercicio de sus funciones, 
 
 VIII.- Velar por el respeto al fuero de los diputados y preservar la inviolabilidad del recinto y los inmuebles destinados para el uso del Congreso;
 
-IX.- Designar las comisiones a las que se deban turnar los asuntos que se presenten a la consideración del Congreso y sean de su competencia;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+IX.- Designar, en la sesión inmediata posterior a aquélla en que se presentaron, las Comisiones a las que se deban turnar los asuntos que se presenten a la consideración del Congreso y sean de su competencia; así como dar curso a las iniciativas, remitiendo las mismas a las Comisiones correspondientes, en un plazo de cinco días hábiles.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
@@ -477,7 +479,9 @@ VIII.- Expedir y certificar las copias de documentos oficiales del Congreso;
 
 IX.- Levantar las actas de las sesiones y firmarlas en unión del Presidente, y asentarlas en el libro respectivo luego de ser aprobadas por el Congreso;
 
-X.- Abrir, integrar y actualizar los expedientes de las promociones recibidas por el Congreso;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+X.- Abrir, integrar y actualizar los expedientes de las promociones recibidas por el Congreso y auxiliar al Presidente para que aquéllos sean recibidos con oportunidad por los Presidentes de las Comisiones a las que deban enviarse;
 
 XI.- Llevar los siguientes libros debidamente autorizados por el Presidente: Libro de Actas de Sesiones; Libro en que se asienten por orden cronológico y textualmente las leyes y decretos aprobados por el Congreso; Libro de Asistencias de los Diputados y Libro de Gobierno del Congreso en el que se asentará todo lo relativo a cualquier promoción hecha ante el Congreso, desde su fecha de recibido, curso que se le dio, hasta su fin;
 
@@ -679,7 +683,11 @@ III.- Coordinarse entre sí para el mejor desempeño de sus funciones;
 
 IV.- Tramitar los expedientes que se les turnen;
 
-V.- Distribuir y coordinar el trabajo entre los integrantes de la comisión, para encauzar el estudio y análisis de las iniciativas y proyectos turnadas, hasta que éstas se consideren suficientemente discutidas y se formulen y aprueben los correspondientes dictámenes que serán sometidos al Pleno;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2003)</small>
+
+V.- Distribuir y coordinar el trabajo entre los integrantes de la Comisión, para encauzar el estudio y análisis de las iniciativas y proyectos turnados, hasta que éstos se consideren suficientemente discutidos y se formulen y aprueben los correspondientes dictámenes que serán sometidos al Pleno.
+
+Para tales efectos, los miembros de la Comisión podrán obtener copia de la iniciativa previamente a su discusión. Tratándose de Iniciativas de Ley, se remitirán por lo menos el día anterior a la sesión de la Comisión;
 
 VI.- Solicitar a las dependencias públicas, previo acuerdo de la comisión respectiva, la información oficial necesaria para el desempeño de sus trabajos;
 
@@ -1245,9 +1253,13 @@ Los proyectos de reformas y adiciones que el Congreso de la Unión envíe a la L
 
 Las iniciativas de ley que presente la Legislatura del Estado ante el Congreso de la Unión, se acordarán por aquélla, previo dictamen de la comisión que corresponda, y se firmarán por el Presidente y los Secretarios.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2003)</small>
+
 ###### Art. 102.
 
-Las iniciativas dictaminadas y no aprobadas, no podrán volver a presentarse dentro de los siguientes doce meses.
+Las iniciativas dictaminadas y no aprobadas, no podrán volver a presentarse dentro de los siguientes doce meses, contados a partir del día siguiente en que el Pleno o la Diputación Permanente las hubiere rechazado.
+
+Las Comisiones de dictamen legislativo que reciban una nueva iniciativa sin haber transcurrido el plazo mencionado en el párrafo anterior, las desecharán sin entrar al estudio de fondo del asunto planteado, salvo que la iniciativa se refiera al cumplimiento de una disposición legal.
 
 ###### Art. 103.
 
@@ -1884,3 +1896,19 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 10 DE MAYO DE 2003.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2003.
+
+DECRETO No. 675/03 II P.O.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2003.
+
+DECRETO No. 688/03 II P.O.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
