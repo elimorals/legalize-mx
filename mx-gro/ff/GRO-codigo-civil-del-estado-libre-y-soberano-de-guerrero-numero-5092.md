@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "1998-01-06"
+last_updated: "1999-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -156,6 +156,12 @@ Toda persona tiene derecho a estar informada con claridad y veracidad sobre sus 
 Toda persona tiene derecho de disponer parcialmente de su cuerpo, en beneficio terapéutico de otra, siempre que tal disposición no le ocasione una disminución permanente en su integridad física, ni ponga en peligro su vida.
 
 Puede, igualmente, disponer de su cuerpo, para después de su muerte, con fines terapéuticos, de enseñanza o de investigación. En este caso se estará a lo dispuesto por la Ley General de Salud y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Artículo 27 bis.- Toda persona tiene derecho a que se le respete su integridad corporal y psicológica, así como su sano desarrollo para incorporarse al núcleo social para ello, contará con la asistencia y protección del Estado, conforme a las Leyes de salud y asistencia social, siendo sancionable todo acto de violencia intrafamiliar.
+
+Se entiende por violencia intrafamiliar el acto u omisión recurrente e intencional realizado con el fin de dominar, someter o controlar, o maltratar física, verbal, psico-emocional o sexualmente a cualquier miembro de la familia o persona con la que en época anterior tuvo relación conyugal, de concubinato o de pareja unida fuera de matrimonio, independientemente de que pueda o no producir otro delito.
 
 ### Capítulo II. De las personas jurídicas o morales
 
@@ -1973,6 +1979,10 @@ El Estado reconoce en la familia el grupo primario fundamental, sustento de la s
 
 Es el grupo social permanente y estable formado por un conjunto de personas unidas entre sí ya sea por el matrimonio, el concubinato o el parentesco, en cualquiera de sus formas.
 
+> <small>(ADICIONADO, P.O. 9 NOVIEMBRE DE 1999)</small>
+
+Para los efectos de violencia intrafamiliar se reconocen como relaciones familiares las enmarcadas en las fracciones II y IX del Artículo 566 C del Código Procesal Civil del Estado.
+
 ###### Artículo 375.
 
 En atención a lo dispuesto en el artículo anterior las disposiciones de este capítulo son de orden público e interés social.
@@ -2237,9 +2247,19 @@ A fin de establecer la comunidad de vida a que hace referencia el artículo 422 
 
 El Juez, con conocimiento de causa, podrá eximir de esta obligación a alguno de los cónyuges.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 424 Bis.
+
+Los cónyuges estarán obligados a evitar que se genere la violencia intrafamiliar. La misma obligación tendrán quienes vivan en concubinato.
+
 ###### Artículo 425.
 
 Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no estará obligado quien se encuentre imposibilitado para trabajar y careciere de bienes propios en cuyo caso el otro atenderá íntegramente a esos gastos.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+Las cargas de la crianza, la administración y la atención del hogar se distribuirán equitativamente entre los miembros de la familia.
 
 ###### Artículo 426.
 
@@ -2291,9 +2311,11 @@ Ni el varón podrá cobrar a la mujer ni ésta a aquél, retribución u honorari
 
 #### Sección Primera. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 437.
 
-El régimen patrimonial del matrimonio será el de sociedad conyugal, o el de separación de bienes. Los cónyuges, en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales. Pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones, para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción, que aún existiendo el matrimonio, se prevean en la ley.
+El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Los cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción que aún existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
 
 Cuando los cónyuges omitieren expresar el régimen patrimonial al que sujetarán sus bienes, se entenderá, por disposición de la ley, que lo hacen bajo el de separación de bienes.
 
@@ -2412,6 +2434,12 @@ Si la sociedad conyugal cesare por haberse declarado nulo el matrimonio, la liqu
 ###### Artículo 450.
 
 En lo que no estuviere expresamente estipulado en las capitulaciones matrimoniales, la sociedad conyugal se regirá por las disposiciones de este Código relativas a la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+###### Artículo 450 Bis.
+
+Cuando durante la relación de concubinato, el concubinario o concubinaria adquiera en propiedad un bien para el beneficio y uso de la familia, se entenderá como la formación y administración de un patrimonio común, rigiéndose el mismo con las disposiciones establecidas para el régimen de sociedad conyugal.
 
 #### Sección Cuarta. De las donaciones antenupciales
 
@@ -3107,6 +3135,8 @@ El juez que decrete la adopción, o la revocación de ésta o que apruebe la imp
 
 ### Capítulo II. De la patria potestad
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 571.
 
 La adopción plena confiere a la persona adoptada el estatuto de hijo de las personas que lo adoptan. El adoptado adquirirá respecto del o de los adoptantes los mismos derechos y obligaciones que se derivan de la filiación consanguínea.
@@ -3235,7 +3265,7 @@ Cuando llegue al conocimiento del juez que aquellas personas que tienen al menor
 
 ###### Artículo 590.
 
-Los descendientes, cualquiera que fuere su estado, edad o condición deberán honrar y respetar a sus ascendientes.
+Los descendientes, cualquiera que fuere su estado, edad o condición, deberán honrar y respetar a sus ascendientes, igual obligación tienen éstos para con sus descendientes y entre ellos.
 
 ###### Artículo 591.
 
@@ -3277,9 +3307,11 @@ Cuando la patria potestad se ejerciere por el padre y la madre, o por uno de los
 
 Mientras estuviere el menor en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente, teniéndose en cuenta, en su caso, lo dispuesto por los artículos 595, 626 y 627.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 600.
 
-Cuando llegue a conocimiento del juez que quienes ejercen la patria potestad no cumplen con los deberes que ella les impone, lo hará saber al Ministerio Público, quien promoverá lo que corresponda en interés del sujeto a la patria potestad. El Ministerio Público deberá hacer esta promoción cuando los hechos lleguen a su conocimiento por otro medio distinto a la información del juez.
+Cuando llegue a conocimiento del Juez que quiénes ejercen la patria potestad incumplen con los deberes que ella les impone o incurren en violencia intrafamiliar, lo hará saber al Ministerio Público, quien promoverá lo que corresponda en interés del sujeto a la patria potestad. El Ministerio Público deberá hacer esta promoción cuando los hechos lleguen a su conocimiento por otro medio distinto a la información del Juez.
 
 ###### Artículo 601.
 
@@ -3405,7 +3437,9 @@ II. En los casos de divorcio, teniendo en cuenta lo que dispone el articulo 36 d
 
 III. Cuando por la conducta irresponsable de quien ejerza la patria potestad o por el abandono de sus deberes pudiera comprometerse la seguridad o la salud física o mental de los menores, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV. Por maltrato grave al menor por parte de quien ejerza la patria potestad o por la tolerancia para que otra persona lo haga; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+IV. En los casos en que se dicte sentencia por el delito de violencia intrafamiliar, por maltrato grave al menor por parte de quien ejerza la patria potestad o por la tolerancia para que otra persona lo haga; y,
 
 V. Por la exposición del menor que hiciere la persona que tenga a su cargo el ejercicio de la patria potestad; o porque le deje abandonado por más de seis meses, si quedare a cargo de alguna persona; y por más de un día si al abandonarlo, el hijo no hubiere quedado al cuidado de persona alguna.
 
@@ -3419,9 +3453,13 @@ II. Por la ausencia declarada en forma; y
 
 III. Por sentencia condenatoria que imponga como pena esta suspensión.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
 ###### Artículo 624.
 
-Los jueces podrán privar de la patria potestad al que la ejerza, o modificar su ejercicio, si tratare a los que estuvieren bajo de ella con excesiva severidad, no los educare, o les impusiere normas de conducta que dañen su salud física o mental.
+Los Jueces podrán privar de la patria potestad al que la ejerza o modificar su ejercicio si a los que estuvieren bajo su patria potestad no los educare o les impusiere normas de conducta que dañen su salud física o mental.
+
+La patria potestad podrá ser restringida cuando el que la ejerce, incurre en los actos de violencia intrafamiliar a que se refiere el artículo 27 BIS del presente Código.
 
 ###### Artículo 625.
 
@@ -5807,7 +5845,9 @@ III. El que haya sido condenado por un delito que merezca la pena de prisión, c
 
 IV. El padre y la madre respecto del hijo expuesto por ellos;
 
-V. Los padres que abandonaren a sus hijos, los prostituyeren o atentaren a su pudor, respecto de la herencia de los ofendidos;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+V. Los que abandonen, corrompan o ejerzan violencia intrafamiliar en los términos de lo dispuesto por el artículo 27 BIS del presente Código, o cometieren delitos en contra de la libertad sexual en agravio del autor de la sucesión, de su cónyuge, concubina o concubino, ascendientes, descendientes y hermanos o de su adoptante o de su adoptado, según sea el caso;
 
 VI. Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no lo hubieren cumplido;
 
@@ -15320,3 +15360,9 @@ Rúbrica.
 P.O. 6 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 9 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
