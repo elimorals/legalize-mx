@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "1999-11-30"
+last_updated: "2004-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3463,6 +3463,8 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADO
 
 ### CAPÍTULO NOVENO. DAÑOS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 400.
 
 FIGURA TÍPICA Y SANCIONES DE INJURIAS. Injuria es toda conducta que tiene como fin ofender o manifestar desprecio a otro.
@@ -3525,9 +3527,11 @@ FIGURA TÍPICA BÁSICA DE ROBO. Comete robo quien con ánimo de apropiación se 
 
 Se estará a la naturaleza misma de la cosa para su calidad de mueble; aunque esté adherida a un inmueble; y con independencia de la clasificación que se haga de ellas en la ley civil u otras leyes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 411.
 
-REGLA GENERAL DEL ROBO COMO DELITO INSTANTÁNEO. Se tendrá al robo como consumado desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
+REGLA GENERAL DEL ROBO COMO DELITO INSTANTÁNEO. Se tendrá por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa mueble, aun cuando la abandone o lo desapoderen de ella.
 
 ###### ARTÍCULO 412.
 
@@ -3563,7 +3567,15 @@ VI. VEHÍCULO DE TRANSPORTE PÚBLICO DE PERSONAS O COSAS. Se lleve a cabo en un 
 
 VII. DOCUMENTOS PÚBLICOS. El objeto del robo sea un expediente oficial o parte del mismo; un protocolo o documento que forme parte de él; un libro o documento en que el que se asienten actuaciones públicas y que obren en oficinas o archivos públicos; un título que contenga algún derecho u obligación que se haya presentado ante una dependencia pública por cualquier motivo. Si el delito lo comete un servidor público, funcionario o empleado de la oficina donde se encuentra el expediente o documento, se le impondrá, además, destitución e inhabilitación definitiva para desempeñar otro empleo, cargo o comisión públicos.
 
-También se aplicarán las sanciones del párrafo inicial de este artículo: A quien cometa el robo en almacenes de autoservicio, si el valor de lo robado excede de cien días de salario mínimo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE JUNIO DE 2004)</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
+
+VIII. ROBO EN ESTABLECIMIENTO DESTINADO AL COMERCIO, INDUSTRIA, ALMACEN O BODEGA EN HORAS DE SERVICIO AL PÚBLICO. Se cometa el robo de mercancía en cualquier establecimiento destinado al comercio de venta o renta de mercancía al público, industria, almacén o bodega durante horas de servicio, si acaso el valor de lo robado excede de cincuenta días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
+
+IX. ROBO DE AUTOPARTES. Se cometa el robo de pieza o conjunto de piezas que conforman el armado de un vehículo o de objetos integrados a él.
 
 ###### ARTÍCULO 415.
 
@@ -3589,6 +3601,10 @@ IX. POLICÍA O MIEMBRO DE SEGURIDAD PRIVADA. Cuando intervenga un policía o emp
 
 En estos casos, se le aplicará, además, destitución e inhabilitación definitiva para desempeñar empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
+
+X. ROBO SIRVIÉNDOSE DE UN MENOR. Cuando el robo se cometa valiéndose de un menor de dieciséis años de edad si acaso éste realiza materialmente el apoderamiento de la cosa.
+
 ###### ARTÍCULO 416.
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras partes de las sanciones mínimas y máximas del robo simple: A quien sin derecho se apodere de una cosa propia, si ésta se halla por cualquier título legítimo en poder de otro.
@@ -3613,7 +3629,7 @@ SANCIONES Y FIGURAS TÍPICAS DE POSESIÓN O TRANSPORTACIÓN DE COSAS ROBADAS O G
 
 I. TRANSPORTACIÓN DE COSA O GANADO ROBADO. Transporte una cosa robada con modalidad agravante o especialmente agravante o de una o más cabezas de ganado objeto de abigeato.
 
-II. POSESIÓN DE COSA O GANADO ROBADO EN BODEGA O LUGAR CERRADO. Se posea en bodega o lugar cerrado una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado o objeto de abigeato; o sus vestigios identificables.
+II. POSESIÓN DE COSA O GANADO ROBADO EN BODEGA O LUGAR CERRADO. Se posea en bodega o lugar cerrado una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado o (sic) objeto de abigeato; o sus vestigios identificables.
 
 III. POSESIÓN DE COSA O GANADO ROBADO EN LUGAR DESTINADO PARA SU MODIFICACIÓN, VENTA O TRANSMISIÓN. Se posea en lugar destinado para su modificación, venta o transmisión, en partes o en su integridad, una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado objeto de abigeato o de sus vestigios identificables.
 
@@ -3755,9 +3771,9 @@ QUERELLA NECESARIA PARA PERSEGUIR EL DESPOJO. Los delitos de este capítulo sól
 
 ###### ARTÍCULO 435.
 
-PENALIDAD Y FIGURA TÍPICA DE DAÑO. Se aplicará prisión de un mes a seis años y multa: A quien por cualquier medio cause daño a cosa ajena o propia, en perjuicio de tercero.
+PENALIDAD Y FIGURA TÍPICA DE DAÑO. Se aplicará prisión de un mes a seis años y multa: A quien por cualquier medio y sin consentimiento de quien pueda darlo conforme a la ley, cause daño a cosa ajena o propia, sea mueble o inmueble, en perjuicio de tercero.
 
-Este delito sólo se perseguirá por querella del ofendido.
+Por daño se entenderá la destrucción total, parcial o el detrimento material de una cosa mueble o inmueble, según sea el caso, o el dejarla inservible.
 
 ###### ARTÍCULO 436.
 
@@ -3770,6 +3786,12 @@ DAÑO CALIFICADO. La sanción será de dos a doce años de prisión y multa: Cua
 ###### ARTÍCULO 438.
 
 SANCIÓN Y FIGURA TÍPICA DE DESTRUCCIÓN DE MEDIOS DE PROTECCIÓN PARA EVITAR DELITOS CONTRA LA PROPIEDAD. Se aplicará prisión de dos a seis años y multa: A quien a propósito destruya, dañe, inutilice, desactive o quite medios técnicos instalados para la seguridad y protección de los bienes contra posibles hechos delictuosos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 438 BIS. SANCIONES Y FIGURAS TÍPICAS DE GRAFITO. Se aplicará prisión de un mes a tres años y multa: A quien por cualquier medio, sin importar el material o instrumento que utilice y sin consentimiento de quien pueda darlo conforme a la ley: pinte, grabe, raye, tiña o imprima palabras, dibujos, símbolos, manchones o figuras a un bien mueble o inmueble.
+
+Se aplicará prisión de un mes a seis años y multa: A quien realice cualquiera de las conductas a que se refiere el párrafo anterior, en bienes del dominio público o privado que hayan sido declaradas por las autoridades competentes como parte del acervo cultural del estado o de cualquier municipio, y cuya reparación sea difícil o imposible.
 
 ###### ARTÍCULO 439.
 
@@ -3928,3 +3950,9 @@ LIC. CARLOS JUARISTI SEPTIEN
 P.O. 30 DE NOVIEMBRE DE 1999.
 
 UNICO.- Estas reformas iniciarán su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE JUNIO DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
