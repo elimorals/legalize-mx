@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1998-08-08"
+last_updated: "2001-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2001.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -293,11 +293,11 @@ Quiénes habiendo sido electos Diputados no se presenten, sin causa justificada 
 
 ### CAPITULO VI. DE LOS PERIODOS DE SESIONES
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-El Congreso del Estado, tendrá dos períodos ordinarios de sesiones al año, el primero del dos de enero al treinta y uno de mayo y el segundo del uno de agosto al treinta y uno de diciembre del mismo año, excepto en los casos a que ese refieren los artículos 19 y 45, primer párrafo de la Constitución Política del Estado.
+El Congreso del Estado, tendrá dos períodos ordinarios de sesiones al año, el primero del quince de enero al treinta de abril, y el segundo, del uno de octubre al quince de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45, primer párrafo de la Constitución Política del Estado.
 
 ###### ARTICULO 36.
 
@@ -319,9 +319,9 @@ En los períodos ordinarios de sesiones, el Congreso se ocupará preferentemente
 
 Durante el Segundo Período el Congreso se ocupará preferentemente de estudiar, discutir y votar las leyes de ingresos de los municipios y del Estado y el Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
-El Congreso al examinar y calificar la cuenta pública, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están comprobados o ha lugar a exigir responsabilidades o en su caso, dejar en suspenso su dictamen, hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente.
+El Congreso al examinar y calificar la cuenta pública, se ajustará en lo conducente a lo establecido en el artículo 41 y demás disposiciones aplicables de la Constitución Política del Estado Libre y Soberano de Tabasco y declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están comprobados o ha lugar a exigir responsabilidades o en su caso, dejar en suspenso su dictamen, hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -425,9 +425,9 @@ Son facultades del Presidente de la Gran Comisión:
 
 I. Coordinar y organizar las actividades político-legislativas del Congreso, así como la ejecución de las tareas administrativas y laborales conforme a la Ley;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-II. Administrar los recursos financieros del Congreso, así como enviar mensualmente a la Contaduría Mayor de Hacienda, dentro del mes siguiente al que corresponda, los informes del avance financiero y presupuestal. Asimismo, emitir trimestralmente a la mencionada contaduría, dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Poder Legislativo, para su revisión y calificación trimestral;
+II. Administrar los recursos financieros del Congreso, así como enviar mensualmente a la Contaduría Mayor de Hacienda, dentro del mes siguiente al que corresponda, los informes del avance financiero y presupuestal. Asimismo, remitir trimestralmente a la mencionada contaduría, dentro de los treinta días siguientes del trimestre respectivo, el informe de la cuenta pública del Poder Legislativo, en los términos del artículo 41 de la Constitución Política del Estado;
 
 III. Coadyuvar con la Mesa Directiva en la conducción de los trabajos parlamentarios;
 
@@ -455,15 +455,17 @@ La Gran Comisión se integrará:
 
 I. Un Presidente, que será el Coordinador de la Fracción Parlamentaria que ostente la mayoría;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-II. Dos Secretarios y dos Vocales; y
+II. Tres Secretarios y cuatro Vocales; y
 
-III. Un Representante de las demás Fracciones Parlamentarias.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 1998)</small>
+III. Un Prosecretario, que será el representante de las fracciones parlamentarias de minorías.
 
-A excepción del Presidente, los Secretarios y los Vocales serán electos por mayoría de votos de los asistentes. Corresponderá a las Fracciones Parlamentarias Minoritarias elegir a su Representante.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+
+A excepción del Presidente; los Secretarios y los Vocales, serán electos por mayoría de votos de los diputados presentes y el Prosecretario por acuerdo de las fracciones parlamentarias de las minorías. Si alguna fracción parlamentaria contara con la mayoría absoluta, no podrá tener, además del presidente, más de dos secretarios y dos vocales.
 
 ###### ARTICULO 55.
 
@@ -1128,3 +1130,11 @@ P.O. 8 DE AGOSTO DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 25 DE JULIO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Durante el ejercicio Constitucional de los miembros de la Cámara de Diputados en su LVII Legislatura, y una vez que entre en vigor el presente Decreto, quedarán ratificados los integrantes de la "Gran Comisión", que administrativamente, y conforme a las designaciones que en forma económica, por virtud del acuerdo parlamentario, oportunamente se efectuaron.
+
+TERCERO.- Quedan subsistentes los acuerdos emanados del Organo de Gobierno del Congreso del Estado, tanto los emitidos en su composición legal en los términos de las disposiciones de la Ley Orgánica vigente, como aquellos que en virtud del acuerdo parlamentario a que se contraen los considerandos de este Dictamen, se hubieren acordado por los Diputados integrantes de la "Gran Comisión".
