@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "1999-10-15"
+last_updated: "2000-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-TEXTO VIGENTE.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2000.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -237,7 +237,9 @@ XXXIV. Expedir las licencias, autorizaciones, concesiones y permisos que no est�
 
 XXXV. Autorizar las copias certificadas, documentos y constancias que deba expedir el Gobierno del Estado, excepto en los casos expresamente atribuidos a otras autoridades;
 
-XXXVI. Operar y coordinar el Banco Central de Datos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2000)</small>
+
+XXXVI. Vigilar en el ámbito estatal la observancia y aplicación de las disposiciones contenidas en el artículo 123, apartado “A”, de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
 
 XXXVII. Analizar e informar de manera oportuna al Poder Ejecutivo sobre los hechos de relevancia e interés estatal;
 
@@ -711,7 +713,7 @@ XXIII. Efectuar estudios técnicos para determinar la factibilidad de creación 
 
 XXIV. Promover la constitución de figuras asociativas que permitan aprovechar las oportunidades de inversión;
 
-XXV. Vigilar en el ámbito estatal la observancia y aplicación de las disposiciones contenidas en el Artículo 123, apartado "A", de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
+XXV. (DEROGADA, P.O. 16 DE FEBRERO DE 2000)
 
 XXVI. Coordinar y supervisar las acciones del Consejo para el Desarrollo Económico de Sinaloa;
 
@@ -1204,3 +1206,9 @@ José Luis Uranga
 El Procurador General de Justicia
 
 Gilberto Higuera Bernal
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2000.
+
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
