@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1994-06-01"
+last_updated: "1994-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -317,131 +317,187 @@ Para el despacho de los asuntos que competen al Congreso, se designarán las Com
 
 Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en conjunto.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 ###### Artículo 39.
 
-Las Comisiones Permanentes de Dictamen Legislativo se integrarán en los términos del Artículo 67 de la Ley Orgánica del Poder Legislativo y además de los asuntos propios de su competencia derivados de su denominación, conocerán y dictaminarán de los siguientes asuntos:
+Las Comisiones Permanentes de Dictamen Legislativo se integran en los términos del Artículo 67 de la Ley Orgánica del Poder Legislativo y además de los asuntos propios de su competencia derivados de su denominación, conocerán y dictaminarán de los siguientes asuntos:
 
-1) GOBERNACION:
+1) GOBERNACION
 
-a) Conflictos de límites municipales;
+Todos los asuntos relacionados con límites municipales, conflictos de autoridades y demás aspectos de relevancia política.
 
-b) Conflictos de Autoridad;
+2) LEGISLACION Y PUNTOS CONSTITUCIONALES
 
-c) Demás asuntos de relevancia política.
+Las iniciativas de Reformas Constitucionales, Leyes Ordinarias y Bases Generales de los Reglamentos Municipales y demás relacionadas con la materia.
 
-2) LEGISLACION Y PUNTOS CONSTITUCIONALES:
+3) JUSTICIA
 
-3) JUSTICIA:
+Todos los asuntos relacionados con la responsabilidad de los servidores públicos y demás aspectos de justicia.
 
-De todos los asuntos relacionados con responsabilidad oficial y justicia.
+4) EDUCACION
 
-4) EDUCACION:
+Todo lo relativo a la educación, englobando todos los niveles educativos.
 
-Todo lo relacionado con materia educativa, en los niveles primarios, secundarios, medios y superiores.
+5) HACIENDA DEL ESTADO
 
-5) HACIENDA DEL ESTADO:
+Las iniciativas remitidas en relación a los ingresos, leyes y presupuestos, asuntos patrimoniales y demás de su competencia.
 
-Las iniciativas remitidas en relación a los ingresos, leyes y presupuesto, asuntos patrimoniales y los demás de su competencia.
+6) ASUNTOS AGRICOLAS FORESTALES Y GANADEROS
 
-6) ASUNTOS AGRICOLAS, FORESTALES Y GANADEROS:
+Toda actividad relativa a asuntos que permitan promover el fomento, la conservación y el incremento de la actividad agrícola, forestal y ganadera.
 
-Todos los asuntos relacionados con esta área de la Administración Pública.
+7) CAPACITACION PARA EL TRABAJO Y ASUNTOS LABORALES
 
-7) CAPACITACION PARA EL TRABAJO Y ASUNTOS LABORALES:
+Toda la actividad vinculada con la capacitación, aprovechamiento y desarrollo de las habilidades, así como la relación de las fuerzas productivas, la seguridad social de los trabajadores y demás asuntos laborales.
 
-Todos los asuntos relacionados con esta área.
+8) SALUD PUBLICA
 
-8) SALUD Y ASISTENCIA SOCIAL:
+Todo aquello relativo a la protección de la salud y a la alimentación de la población, así como establecer bases y programas para beneficiar a los nuevoleoneses.
 
-Todos los asuntos relacionados con esta área.
+9) ASISTENCIA SOCIAL
 
-9) FOMENTO ECONOMICO Y OBRAS PUBLICAS:
+Todos los asuntos relacionados con el apoyo social que coadyuve a la dignificación de las personas y grupos, social y económicamente desprotegidos.
 
-Todos los asuntos relacionados con esta área de la Administración Pública.
+10) FOMENTO ECONOMICO
 
-10) PRIMERA DE HACIENDA MUNICIPAL:
+Toda la actividad relacionada al fomento económico, comercial e industrial, tanto nacional como internacional.
 
-Sobre los asuntos planteados por los siguientes Municipios: Monterrey, San Pedro Garza García, Santa Catarina, Guadalupe y San Nicolás de los Garza, Nuevo León.
+11) OBRAS PUBLICAS
 
-Así mismo, en forma especial los Presupuestos de Ingresos y Egresos que se remitan al Congreso.
+Todo lo relacionado con la normatividad, financiamiento, proyecto, ejecución y operación de la obra pública.
 
-11) SEGUNDA DE HACIENDA MUNICIPAL:
+12) PRIMERA DE HACIENDA MUNICIPAL
 
-Sobre los asuntos planteados por los siguientes Municipios: Galeana, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo, Mier y Noriega y García, Nuevo León.
+Sobre los asuntos de la materia planteados por los municipios de Monterrey y Guadalupe, Nuevo León.
 
-Así mismo, en forma especial los Presupuestos de Ingresos y Egresos que se remitan al Congreso.
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-12) TERCERA DE HACIENDA MUNICIPAL:
+13) SEGUNDA DE HACIENDA MUNICIPAL
 
-Sobre los asuntos planteados por los siguientes Municipios: Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Santiago, Cadereyta Jiménez y Juárez, Nuevo León.
+Sobre los asuntos de la materia planteados por los municipios de San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, Nuevo León.
 
-Así mismo, en forma especial los Presupuestos de Ingresos y Egresos que se remitan al Congreso.
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-13) CUARTA DE HACIENDA MUNICIPAL:
+14) TERCERA DE HACIENDA MUNICIPAL
 
-Sobre los asuntos planteados por los siguientes Municipios: Apodaca, Pesquería, Marín, Higueras, Dr. González, Ramones, Cerralvo, Melchor Ocampo, y Ciénega de Flores, Nuevo León.
+Sobre los asuntos de la materia planteados por los municipios de Galeana, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo y Mier y Noriega, Nuevo León.
 
-Así mismo, en forma especial los Presupuestos de Ingresos y Egresos que se remitan al Congreso.
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-14) QUINTA DE HACIENDA MUNICIPAL:
+15) CUARTA DE HACIENDA MUNICIPAL
 
-Sobre los asuntos planteados por los siguientes Municipios: China, General Bravo, Dr. Coss, Aldamas, Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo y General Zuazua, Nuevo León.
+Sobre los asuntos de la materia planteados por los municipios de Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Santiago, Cadereyta Jiménez y Juárez, Nuevo León.
 
-Así mismo, en forma especial los Presupuestos de Ingresos y Egresos que se remitan al Congreso.
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-15) COMISION SEXTA DE HACIENDA MUNICIPAL:
+16) QUINTA DE HACIENDA MUNICIPAL
 
-Sobre los asuntos planteados por los siguientes Municipios: General Escobedo, Mina, Abasolo, Hidalgo, El Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos y Anáhuac, Nuevo León.
+Sobre los asuntos de la materia planteados por los municipios de Apodaca, Pesquería, Marín, Higueras, Dr. Gónzalez, Los Ramones, Cerralvo, Melchor Ocampo y Ciénega de Flores, Nuevo León.
 
-Así mismo, en forma especial los Presupuestos de Ingresos y Egresos que se remitan al Congreso.
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-16) ASENTAMIENTOS HUMANOS Y ECOLOGIA:
+17) SEXTA DE HACIENDA MUNICIPAL
 
-Los asuntos relacionados con esta área.
+Sobre los asuntos de la materia planteados por los municipios de China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo y General Zuazua, Nuevo León.
 
-17) TRANSPORTE URBANO DE PASAJEROS:
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-Los asuntos relacionados con esta área.
+18) SEPTIMA DE HACIENDA MUNICIPAL
 
-18) EDITORIAL:
+Sobre los asuntos de la materia planteados por los municipios de General Escobedo, Mina Abasolo, Hidalgo, Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de Naranjo y Anáhuac, Nuevo León.
 
-Conocerá, dictaminará y difundirá los acontecimientos socio-políticos, históricos y culturales de la vida de Nuevo León y de México.
+Así mismo en forma especial los presupuestos de ingresos y la cuenta pública de los mismos.
 
-19) AGUA:
+19) ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO
 
-Los asuntos relacionados con esta área.
+Todos los asuntos relacionados con el ordenamiento y regulación de
 
-20) ORGANIZACION INTERNA DE GOBIERNO:
+los asentamientos humanos y del desarrollo urbano.
 
-Los asuntos relacionados con esta área de la Administración Pública..
+20) PRESERVACION Y PROTECCION AL MEDIO AMBIENTE
 
-21) CONDUCTA CIVIL:
+Todo lo relacionado con la normatividad requerida para el fomento, la preservación, la protección y la restauración del medio ambiente, así como la ecología en todos sus niveles.
 
-Los asuntos relacionados con esta área.
+21) COMUNICACIONES
 
-22) PRESUPUESTO Y CUENTA PUBLICA:
+Toda la actividad vinculada con la infraestructura y normatividad que permita la interacción social a través de las diversas vías de comunicación en el Estado.
 
-Revisará y en su caso dictaminará sobre el ejercicio de los Presupuestos de Egresos y de la Cuenta Pública en general, auxiliándose de la Contaduría Mayor de Hacienda.
+22) CORRECCION DE ESTILO
 
-23) DERECHOS HUMANOS:
+La revisión y corrección de todos los documentos de dictamen legislativo, a fin de verificar el correcto uso del idioma, asegurando que no se altere la intención del dictamen.
 
-Los asuntos relacionados con esta área.
+23) RELACIONES Y ASUNTOS FRONTERIZOS
 
-24) DEPORTE Y RECREACION:
+Toda la actividad orientada al desarrollo y fomento de las relaciones interestatales e internacionales.
 
-Los asuntos relacionados con esta área.
+24) FOMENTO CULTURAL
 
-25) JUVENTUD:
+Todo lo referente a la actividad artística y cultural, tendiente a impulsar, promover mejorar y hacer llegar a la población la cultura y el arte en todas sus expresiones.
 
-Los asuntos relacionados con esta área.
+25) FOMENTO AL DESARROLLO REGIONAL
 
-26) TERCERA EDAD:
+Todo lo referente a la actividad orientada al impulso del desarrollo integral de las diversas regiones geográficas del Estado y sus municipios.
 
-Los asuntos relacionados con esta área.
+26) SEGURIDAD PUBLICA Y PROTECCION CIVIL
 
-27) PROTECCION A LA NIÑEZ:
+Todos los asuntos vinculados con las acciones que garanticen la seguridad pública y la protección civil de la sociedad.
 
-Los asuntos relacionados con esta área.
+27) TRANSPORTE URBANO DE PASAJEROS
+
+Todo lo vinculado con las concesiones, permisos, prestación de servicio, tarifas, conflictos y demás que genere la prestación del servicio del transporte urbano.
+
+28) EDITORIAL
+
+Todo lo relacionado con el conocimiento y difusión de todos los acontecimientos propios de H. Congreso, históricos, socio-políticos, culturales y de interés general de la vida de Nuevo León, del País y del mundo.
+
+29) AGUA Y DRENAJE
+
+Todo lo concerniente a los aspectos vinculados con las fuentes, conducción, abasto y tarifas del suministro de agua, así como los programas de tratamiento y aprovechamiento de aguas residuales. Se incluyen también los aspectos relativos al servicio de drenaje pluvial y sanitario.
+
+30) ORGANIZACION INTERNA DE GOBIERNO
+
+Todos los asuntos relacionados con la organización y estructura interna de los Poderes en sus diferentes instancias y niveles de Gobierno.
+
+31) CONDUCTA CIVIL
+
+Todo lo relacionado con el reconocimiento de la sociedad a sus integrantes por el desempeño de actos notables de honor y valor.
+
+32) PRESUPUESTO Y CUENTA PUBLICA
+
+Todo lo concerniente a la revisión y dictamen del ejercicio de los presupuestos de egresos y de la cuenta pública en general, auxiliándose de la Contaduría Mayor de Hacienda.
+
+33) DERECHOS HUMANOS
+
+Todo lo relacionado con la salvaguarda de los derechos y prerrogativas de grupos y personajes.
+
+34) DEPORTE Y RECREACION
+
+Todo aquello vinculado con el fomento, la práctica y la organización del deporte y la recreación.
+
+35) JUVENTUD
+
+Toda aquella actividad que se oriente a impulsar y fortalecer el desarrollo integral de la juventud.
+
+36) TURISMO
+
+Todo lo relativo al fomento turístico, así como la protección y conservación de los sitios de atracción turística.
+
+37) TERCERA EDAD
+
+Todo lo vinculado con la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas de la tercera edad.
+
+38) PARTICIPACION CIUDADANA
+
+Todas las acciones tendientes a promover la participación ciudadana para fortalecer la vida democrática del Estado.
+
+39) PROTECCION A LA NIÑEZ
+
+Todo lo relacionado con la protección jurídica y social de la niñez.
+
+40) SEGURIDAD SOCIAL Y BIENESTAR FAMILIAR
+
+Todo aquello tendiente a otorgar mayor apoyo en seguridad social para lograr un incremento en el bienestar familiar y de todos sus integrantes.
 
 ###### Artículo 40.
 
@@ -1294,3 +1350,7 @@ UNICO:- El presente decreto entrará en vigor el día siguiente de su Publicaci�
 P.O. 1 DE JUNIO DE 1994.
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
