@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2003-03-04"
+last_updated: "2004-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -235,17 +235,29 @@ X.- Secretaría de Fomento Turístico;
 
 XI.- Secretaría de Desarrollo Rural;
 
-XII.- Secretaría de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
 
-XIII.- Secretaría de la Mujer; y
+XII.- Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN);
 
-XIV.- Secretaría de la Juventud.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+XIII.- Secretaría de Asuntos Indígenas;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+XIV.- Secretaría de la Mujer; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+XV.- Secretaría de la Juventud;
 
 La Contraloría General del Estado, estará directamente adscrita al Titular del Poder Ejecutivo y contará con las atribuciones señaladas en esta Ley, la de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos jurídicos aplicables.
 
 El Procurador General de Justicia dependerá del Gobernador del Estado y ejercerá las atribuciones que le confieran la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y demás Leyes y reglamentos aplicables.
 
-La Procuraduría de Protección Ecológica y la Coordinación General de Fortalecimiento Municipal estarán directamente adscritas al Titular del Poder Ejecutivo del Estado y contarán con las atribuciones que les señalen esta Ley y las demás relativas.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2004)</small>
+
+La Coordinación General de Fortalecimiento Municipal estará directamente adscrita al Titular del Poder Ejecutivo del Estado y contará con las atribuciones que le señale esta Ley y las demás relativas.
 
 La función de Consejero Jurídico prevista en el artículo 78 de la Constitución Política del Estado, estará a cargo de la Consejería Jurídica del Ejecutivo del Estado. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Gobernador del Estado y será nombrado y removido libremente por éste. Para ser Consejero Jurídico es necesario contar con Título de Licenciado en Derecho y cédula profesional, legalmente expedidos por institución o autoridad competente y tener experiencia dentro del área jurídico administrativa. A la Consejería Jurídica le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público. En el Reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 
@@ -755,7 +767,9 @@ II.- Dictar las políticas y estrategias para la formulación de los programas r
 
 III.- Dirigir, coordinar y vigilar la ejecución de los programas estatales de fomento y promoción turística;
 
-IV.- Elaborar planes y programas para la promoción del ecoturismo, en las zonas potencialmente atractivas, con la intervención correspondiente de la Procuraduría de Protección Ecológica;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+IV.- Elaborar planes y programas para la promoción del eco turismo en las zonas potencialmente atractivas con la intervención correspondiente de la Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN);
 
 V.- Explotar, otorgar o revocar concesiones para el aprovechamiento de los recursos turísticos propios del Estado;
 
@@ -801,17 +815,25 @@ XXIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Desarrollo Rural, es el órgano encargado de promover y fomentar el desarrollo agrícola, forestal, ganadero, pesquero, así como del manejo de los recursos naturales en el Estado, correspondiéndole el despacho de los asuntos siguientes:
 
-I.- Elaborar los planes, programas y acciones, de corto, mediano y largo plazo, del sector agropecuario, forestal, pesquero y de recursos naturales, con la participación de las dependencias federales y estatales correspondientes, ayuntamientos, organizaciones de productores, productores individuales y campesinos, en el seno del Comité de Planeación para el Desarrollo del Estado y coordinar su implementación;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+I.- Elaborar los planes, programas y acciones, de corto, mediano y largo plazo, del sector agropecuario, pesquero, que respondan a un criterio de manejo sustentable de los recursos naturales, con la participación de las dependencias federales y estatales correspondientes, ayuntamientos, organizaciones de productores, productores individuales y campesinos, en el seno del Comité de Planeación para el Desarrollo del Estado y coordinar su implementación;
 
 II.- Formular y ejecutar los planes, programas y acciones para el desarrollo integral de los campesinos del Estado;
 
-III.- Fomentar, formular, supervisar y coordinar la operación de los programas de desarrollo agrícola, ganadero, pesquero, forestal y los de aprovechamiento racional de los recursos naturales;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+III.- Fomentar, formular, supervisar y coordinar la operación de los programas de desarrollo agrícola, ganadero, pesquero con criterios de manejo sustentable de los recursos naturales;
 
 IV.- Apoyar la organización para la producción, coordinando con las dependencias federales afines y productores, las acciones para el financiamiento, seguros, insumos, asistencia técnica y administrativa, investigación, capacitación y transferencia de tecnología, en beneficio de campesinos, ejidatarios, comuneros, pequeños propietarios y organizaciones de productores legalmente constituidas;
 
-V.- Ejercer las atribuciones que en materia agrícola, ganadera, forestal y pesquera, así como para el aprovechamiento de los recursos naturales, contengan los convenios firmados entre el Poder Ejecutivo del Estado y la Administración Pública Federal;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
 
-VI.- Celebrar convenios con los Ayuntamientos para el desarrollo agrícola, ganadero, forestal y pesquero, así como para el aprovechamiento sustentable de los recursos naturales;
+V.- Ejercer las atribuciones que en materia agrícola, ganadera y pesquera, así como el impulso y fomento de prácticas productivas amigables con el medio ambiente, contengan los convenios firmados entre el Poder Ejecutivo del Estado y la Administración Pública Federal;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+
+VI.- Celebrar convenios con los Ayuntamientos para el desarrollo agrícola, ganadero y pesquero, así como el fomento de prácticas productivas amigables con el medio ambiente;
 
 VII.- Fomentar, apoyar y ejecutar programas de investigación, capacitación y transferencia de tecnología para el mejoramiento de la productividad en el medio rural;
 
@@ -819,7 +841,7 @@ VIII.- Coordinar, con las dependencias federales y los Ayuntamientos, la realiza
 
 IX.- Ejecutar, en coordinación con los Ayuntamientos, dependencias, organismos e instituciones del Gobierno Federal, productores y sus organizaciones legalmente constituidas, campañas de sanidad animal y vegetal;
 
-X.- Programar y realizar, coordinadamente con las dependencias competentes del Estado, federales y municipales, así como con productores rurales, campesinos, empresarios, organizaciones sociales, poseedores y propietarios del bosque, las campañas para la prevención y combate de incendios forestales, la reforestación de áreas dañadas en forma cíclica y la difusión y demostración de prácticas agropecuarias que eviten los incendios forestales;
+X. - (DEROGADA, P.O. 27 DE ABRIL DE 2004)
 
 XI.- Participar coordinadamente con las dependencias estatales y federales afines, así como con los Ayuntamientos, en la ejecución de programas y proyectos derivados de la atención a la población por siniestros naturales originados por fenómenos hidrometeorológicos, oceánicos, incendios forestales y demás eventos relativos;
 
@@ -827,15 +849,17 @@ XII.- Coordinar y ejecutar, con el apoyo de las dependencias federales y Ayuntam
 
 XIII.- Coordinar el establecimiento de áreas semilleras, así como las normas mínimas de calidad para el manejo y comercialización de semillas forestales, frutícolas y de especies vegetales de importancia económica y ecológica;
 
-XIV.- Coordinar con dependencias federales afines y organizaciones de productores, las políticas de programas de investigación agropecuaria, forestal, pesquera y de recursos naturales y celebrar convenios con instituciones de educación e investigación para el fomento de la investigación;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
 
-XV.- Promover lineamientos para la conservación de suelos, uso racional e integral de los cuerpos de agua para fines productivos, y para la protección de las áreas reforestadas y mejor aprovechamiento del bosque y preservación de recursos naturales;
+XIV.- Coordinar con dependencias federales afines y organizaciones de productores, las políticas de programas de investigación agropecuaria, pesquera y de fomento al manejo sustentable de recursos naturales, y celebrar convenios con instituciones de educación e investigación para el fomento de la investigación:
+
+XV.- (DEROGADA, P.O. 27 DE ABRIL DE 2004)
 
 XVI.- Coordinar con las autoridades federales, acciones que permitan lograr una eficaz utilización de los recursos y obras de infraestructura hidroagrícola en el Estado, para el desarrollo de las actividades productivas en el sector;
 
 XVII.- Coordinarse con las autoridades competentes para la atención y solución de los asuntos de desarrollo agrario en el Estado;
 
-XVIII.- Organizar y coordinar el aprovechamiento de los recursos forestales maderables y no maderables, atendiendo a las restricciones de protección ecológica establecidas por las autoridades competentes;
+XVIII.- (DEROGADA, P.O. 27 DE ABRIL DE 2004)
 
 XIX.- Promover, organizar y participar en ferias, exposiciones, concursos y demás eventos, que impulsen el intercambio de conocimientos, la comercialización y mejoramiento de la producción agrícola, ganadera, forestal y pesquera;
 
@@ -853,7 +877,7 @@ XXV.- Proponer con la participación de las dependencias, organismos e instituci
 
 XXVI.- Administrar y coordinar la operación de los órganos que por motivos de convenios y acuerdos entre el Estado y la Federación sean descentralizados en la materia;
 
-XXVII.- Conservar y fomentar el desarrollo de la flora y la fauna acuática, terrestre y lacustre en el Estado;
+XXVII.- (DEROGADA, P.O. 27 DE ABRIL DE 2004)
 
 XXVIII.- Vigilar la preservación de los recursos naturales renovables y desarrollar su potencial productivo;
 
@@ -900,6 +924,88 @@ XVI.- Promover ante las autoridades competentes que los indígenas, que hayan si
 XVII.- Establecer y operar un sistema de seguimiento y evaluación de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
 XVIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2004)</small>
+
+ARTICULO 31 BIS.- La Secretaría de Medio Ambiente y Recursos naturales del Estado (SEMAREN) es el órgano encargado de regular, fomentar, conducir y evaluar la política estatal en materia de manejo y aprovechamiento sustentable de los recursos naturales y protección al ambiente, así como llevar a cabo las acciones necesarias para una gestión o administración ambiental en el Estado, correspondiéndole el despacho de los asuntos siguientes:
+
+I.- Observar y hacer observar la exacta aplicación de las normas y reglamentos federales, estatales y municipales en materia (sic) manejo y aprovechamiento sustentable de los recursos naturales y del equilibrio ecológico en coordinación con el Gobierno Federal, los Ayuntamientos y la participación de los Sectores Social y Privado;
+
+II.- Formular y conducir la política estatal en materia de manejo y aprovechamiento de los recursos naturales, así como en materia de protección ecológica y saneamiento ambiental con el fin de establecer e implementar programas y acciones para el aprovechamiento racional de los recursos naturales, el ordenamiento ecológico territorial, la preservación y restauración del equilibrio ecológico, la protección de las áreas naturales de jurisdicción estatal y la prevención y control de la contaminación del agua, suelo y aire y el desarrollo forestal en el Estado;
+
+III.- Desarrollar y aplicar los instrumentos necesarios de política ambiental para poder llevar a cabo gestión o administración ambiental efectiva en el Estado;
+
+IV.- Fomentar la protección, restauración y conservación de los ecosistemas y recursos naturales de la Entidad, así como una política de valoración de los bienes y servicios ambientales con los que cuenta el territorio estatal, con el fin de propiciar su aprovechamiento y desarrollo sustentable, creando conciencia ecológica social en todos los sectores;
+
+V.- Intervenir en la formulación, implementación y evaluación de los programas para la prevención de accidentes con incidencia ecológica;
+
+VI.- Prevenir, combatir y reducir la magnitud de los daños y/o alteraciones de los ecosistemas naturales forestales y del medio ambiente, fomentando una nueva cultura ambiental y promoviendo la participación social general;
+
+VII.- Proponer al Titular del Poder Ejecutivo Estatal el establecimiento de áreas naturales protegidas de con conformidad a la legislación vigente, tomando en cuenta las propuestas que sobre áreas de conservación y' aprovechamiento sustentable hagan llegar las asambleas comunitarias a esta Secretaría;
+
+VIII.- Realizar acciones de inspección, vigilancia y protección en las áreas naturales protegidas de la Entidad para verificar el cumplimiento de las disposiciones legales aplicables, así como promover la participación de autoridades estatales y municipales de universidades, centros de investigación y particulares, para que coadyuven en el eficaz ejercicio de esta atribución;
+
+IX.- Coordinar el Sistema Estatal de Áreas Naturales Protegidas;
+
+X.- Fomentar el aprovechamiento de los recursos forestales maderables y no maderables canalizando recursos de inversión que permitan determinar su ubicación y potencial, impulsando el manejo sustentable y su aprovechamiento en equilibrio natural integral para garantizar su permanencia;
+
+XI.- Promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento racional y sostenible de los recursos naturales y sobre la calidad ambiental de los procesos productivos de los servicios y del transporte;
+
+XII.- Evaluar la calidad del ambiente y establecer, promover y coordinar el Sistema Estatal de Información Ambiental que deberá incluir los sistemas de monitoreo atmosférico, de suelos y de cuerpos de aguas de jurisdicción estatal y los inventarios de los recursos naturales y forestales, de común acuerdo con las dependencias estatales, federales y municipales afines y las instituciones de investigación y educación superior;
+
+XIII.- Promover la participación social en la formulación, aplicación y vigilancia de la política ambiental y concertar acciones con los sectores social y privado para la protección y restauración ecológica;
+
+XIV.- Conformar un cuerpo de control y vigilancia de los recursos naturales y ecológicos con la participación interinstitucional y de todos los sectores de la sociedad; preferentemente a nivel comunitario y municipal;
+
+XV.- Actualizar la información de las características físicas y biológicas de los recursos forestales en el estado;
+
+XVI.- Fomentar, formular, supervisar y coordinar la operación de los programas de desarrollo forestal y ejercer las atribuciones que en esta materia contengan los convenios firmados entre el Poder Ejecutivo del Estado y la Administración Pública Federal;
+
+XVII.- Programar y realizar coordinadamente con las dependencias competentes del estado, federales y municipales, así como con productores rurales, campesinos, empresarios, organizaciones sociales, poseedores y propietarios del bosque, las campañas para la prevención y combate de incendios forestales, la reforestación de áreas' dañadas en forma cíclica y la difusión y demostración de prácticas agropecuarias que eviten los incendios forestales;
+
+XVIII.- Promover lineamientos para la conservación y restauración de suelos, uso racional e integral de los cuerpos de agua para fines productivos y para la protección de las áreas reforestadas y mejor aprovechamiento del bosque y preservación de recursos naturales;
+
+XIX.- Contribuir al mejoramiento de la calidad de vida de los productores forestales propiciando su participación en el proceso productivo y la libre asociación, así como induciendo la diversificación de la producción forestal y un mayor valor agregado a los productos;
+
+XX.- Fomentar la cultura ecológica y forestal a través de la educación ambiental, así como coordinar e implementar la gestión ambiental y el fomento a la investigación científica y tecnológica en la materia;
+
+XXI.- Elaborar y preponer al Ejecutivo del Estado, las Iniciativas y reformas a las Leyes y reglamentos para lograr el equilibrio ecológico y protección al ambiente en la Entidad;
+
+XXII.- Desarrollar y proponer metodologías y procedimientos de valuación económica del capital natural, así como de los bienes y servicios ambientales y cooperar con dependencias y entidades para desarrollar un sistema integrado de contabilidad ambiental y económica;
+
+XXIII.- Diseñar y operar con la participación que corresponda a otras dependencias y entidades, la adopción de políticas e instrumentos para la conservación, mantenimiento, rehabilitación, restauración y mejoramiento de los recursos naturales y el ambiente;
+
+XXIV.- Preservar y fomentar el desarrollo de la flora y la fauna acuática, terrestre y lacustre en el Estado. Especial importancia se dará a las especies en riesgo de extinción y endémicas del Estado.
+
+XXV.- Coadyuvar en las políticas y acciones nacionales sobre la conservación de la biodiversidad, el cambio climático y sobre la protección de la capa de ozono;
+
+XXVI.- Ejercer las atribuciones que la Ley de Equilibrio Ecológico y protección al Ambiente del Estado confiere al Gobierno del Estado;
+
+XXVII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a las leyes y acuerdos que se establezcan;
+
+XXVIII.- Promover el ordenamiento ecológico general del territorio del estado, en coordinación con las dependencias federales y municipales y con la participación de los sectores social y privado. Impulsando el ordenamiento ecológico del territorio comunitario;
+
+XXIX.- Vigilar en coordinación con las autoridades municipales él cumplimiento de las normas y programas para la protección, defensa y restauración del ambiente, estableciendo los mecanismos, instancias y procedimiento administrativos para su logro, en los términos de leyes aplicables;
+
+XXX.- Evaluar las manifestaciones de impacto ambiental de los proyectos de desarrollo que le presenten los sectores público, social y privado de acuerdo con la normatividad aplicable;
+
+XXXI.- Participar en las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad, en particular cuando se presentan situaciones de emergencia o contingencia ambiental, con la participación que corresponda a otras dependencias estatales, al gobierno federal y/o a los municipios;
+
+XXXII.- Orientar y difundir las medidas de prevención ecológica y los programas que permitan una mejor calidad en el medio ambiente;
+
+XXXIII.- Proponer los instrumentos e incentivos económicos, de mercado y fiscales para fomentar la protección del medio ambiente y el aprovechamiento racional de los recursos naturales;
+
+XXXIV.- Proponer, diseñar desarrollar, concertar y convenir instrumentos, mecanismos y programas para llevar a cabo acciones de desarrollo forestal y mejoramiento ambiental, con los sectores social, público y privado;
+
+XXXV.- Establecer los instrumentos, mecanismos, y programas para el impulso de esquemas de certificación ambiental pública y privada, así como de reconocimiento al desempeño y mérito ecológico sobresaliente en los sectores social, público y privado;
+
+XXXVI.- Coadyuvar con la Secretaría de Turismo para la promoción ecoturismo en las zonas potencialmente atractivas;
+
+XXXVII.- Establecer los instrumentos y mecanismos necesarios para garantizar el amplio acceso y difusión pública de la información ambiental; y
+
+XXXVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+
+La Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), contará en su estructura con un órgano administrativo desconcentrado denominado Procuraduría de Protección Ecológica.
 
 ###### ARTICULO 32.
 
@@ -1073,55 +1179,7 @@ XIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 36.
 
-La Procuraduría de Protección Ecológica es el órgano encargado de formular, conducir y evaluar la política estatal en materia ecológica, de conservación de los recursos naturales y protección al ambiente, correspondiéndole el despacho de los asuntos siguientes:
-
-I.- Participar, conjuntamente con las dependencias y entidades públicas competentes, en el establecimiento de los programas y acciones, así como en la definición de políticas en materia ecológica para el aprovechamiento racional y sustentable de los recursos naturales, el ordenamiento ecológico estatal, la preservación y restauración del equilibrio ecológico, la protección de las áreas naturales de jurisdicción estatal y la prevención y control de la contaminación del agua, suelo y aire;
-
-II.- Fomentar, en coordinación con las dependencias y entidades de los tres niveles de gobierno, los programas y acciones para la protección, restauración, conservación y mejoramiento de los ecosistemas y recursos naturales de la Entidad, así como de los bienes y servicios ambientales, con el fin de propiciar su aprovechamiento racional y sostenido;
-
-III.- Promover la participación y responsabilidad de la sociedad en la formulación de la política ecológica, así como en las acciones de información, difusión, vigilancia y cumplimiento de la normatividad ambiental de competencia estatal;
-
-IV.- Asesorar, en materia de protección ecológica, a las dependencias y entidades públicas; también podrá prestar ese servicio a los particulares que lo soliciten;
-
-V.- Recibir las quejas, denuncias populares y practicar las visitas, inspecciones, revisiones y verificaciones sobre la observancia de la normatividad ambiental, emitiendo las opiniones, recomendaciones o resoluciones correspondientes que no sean competencia de otras instancias oficiales y aplicando, si es el caso, las sanciones establecidas, dando la intervención que legalmente competa a las demás autoridades en la materia, certificando las copias de los documentos que obren en los expedientes que substancie;
-
-VI.- Coadyuvar y participar con las dependencias federales con objetos afines, en los términos establecidos por las leyes o los convenios de coordinación que se celebren con tal propósito;
-
-VII.- Convenir con las autoridades municipales para realizar conjuntamente, las finalidades que esta Ley confiere a la Procuraduría de Protección Ecológica;
-
-VIII.- Promover, conducir y vigilar la realización del ordenamiento ecológico del territorio estatal, en coordinación con las autoridades federales, estatales y municipales, con la participación de la sociedad en su conjunto;
-
-IX.- Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal, en la realización de las obras y actividades de los sectores público, social y privado; así como resolver sobre los estudios de riesgo ambiental no reservados a la Federación;
-
-X.- Intervenir en la formulación, implementación y evaluación de los programas para la prevención de accidentes con incidencia ecológica;
-
-XI.- Proponer al Titular del Poder Ejecutivo Estatal el establecimiento de áreas naturales protegidas, de conformidad con la legislación en materia de equilibrio ecológico y protección al ambiente;
-
-XII.- Realizar acciones de inspección y vigilancia en las áreas naturales protegidas de la Entidad, para verificar el cumplimiento de las disposiciones jurídicas aplicables, así como promover la participación de autoridades estatales y municipales, de universidades, centros de investigación y particulares, para que coadyuven en el eficaz ejercicio de esta atribución, en los términos que dispongan los ordenamientos jurídicos aplicables;
-
-XIII.- Proponer, y en su caso, coordinar y administrar el Sistema de Areas Protegidas del Estado de Guerrero; también podrá, en coordinación con la Federación, supervisar las labores de conservación, investigación, protección y vigilancia de las áreas de su interés, así como cuando sean administradas por personas físicas o morales;
-
-XIV.- Promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento racional y sostenible de los recursos naturales y sobre la calidad ambiental de los procesos productivos de los servicios y del transporte;
-
-XV.- Evaluar la calidad del ambiente y establecer, promover y coordinar el Sistema Estatal de Información Ambiental que deberá incluir los sistemas de monitoreo atmosférico, de suelos y de cuerpos de aguas de jurisdicción estatal y los inventarios de recursos naturales, de común acuerdo con las dependencias estatales, federales y municipales afines y las instituciones de investigación y educación superior;
-
-XVI.- Promover la participación social, particularmente de la comunidad científica, en la formulación, aplicación y vigilancia de la política ecológica, y concertar acciones con los sectores social y privado para la protección y restauración ecológica;
-
-XVII.- Fomentar la cultura ecológica a través de la educación ambiental, así como coordinar e implementar la gestión ambiental y el fomento a la investigación científica y tecnológica en la materia;
-
-XVIII.- Proponer al Titular del Ejecutivo Estatal las iniciativas y reformas a las leyes y reglamentos para lograr el equilibrio ecológico y protección al ambiente en la Entidad;
-
-XIX.- Desarrollar y promover metodologías y procedimientos de evaluación económica del capital natural, así como de los bienes y servicios ambientales; también podrá cooperar con las dependencias y entidades para desarrollar un sistema integral de contabilidad ambiental y económica;
-
-XX.- Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos para la conservación, mantenimiento, rehabilitación, restauración y mejoramiento de los recursos naturales y ambiente;
-
-XXI.- Coadyuvar en las políticas y acciones nacionales sobre conservación de la biodiversidad, el cambio climático y sobre la protección de la capa de ozono;
-
-XXII.- Ejercer las atribuciones que la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero confiere al Gobierno del Estado;
-
-XXIII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
-
-XXIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 27 DE ABRIL DE 2004)
 
 ###### ARTICULO 37.
 
@@ -1356,3 +1414,33 @@ Para dar cumplimento al artículo 53 de la Constitución Política del Estado Li
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, los asuntos actualmente en trámite en la Procuraduría de Protección Ecológica, los dictaminará y resolverá la Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), conforme a la legislación aplicable.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos, materiales y financieros de la Procuraduría de Protección Ecológica, serán asignados a la Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), el traspaso del personal se realizará sin perjuicio de sus derechos adquiridos, tutelados por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248.
+
+###### ARTICULO CUARTO.
+
+Los programas y recursos materiales y financieros en materia forestal, serán transferidos de la Secretaría de Desarrollo Rural a la Secretaría del Medio Ambiente y Recursos Naturales del Estado (SEMAREN).
+
+###### ARTICULO QUINTO.
+
+El Poder Ejecutivo del Estado priorizará a la Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN) y realizará la transferencia de partidas presupuestales en el caso de nuevas asignaciones por parte de la Federación.
+
+###### ARTICULO SEXTO.
+
+Las funciones establecidas en esta Ley u otras leyes especiales a la Procuraduría de Protección Ecológica y a la Secretaría de Desarrollo Rural en materia forestal se entenderán concedidas a la Secretaría de Medio ambiente y Recursos Naturales del Estado (SEMAREN).
+
+###### ARTICULO SÉPTIMO.
+
+El Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), deberá ser expedido dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
