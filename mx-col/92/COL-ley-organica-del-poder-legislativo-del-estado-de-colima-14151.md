@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2004-03-20"
+last_updated: "2004-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2004.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -83,7 +83,9 @@ El Poder Legislativo tendrá su residencia en la capital del Estado, sin perjuic
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año y las sesiones o períodos extraordinarios necesarios convocados por la Comisión Permanente, debiendo ocuparse en estos últimos sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
-El primer período ordinario de sesiones inicia el 1º de octubre y termina el 15 de enero del año siguiente. El segundo dará principio el 15 de marzo y termina el 15 de junio del mismo año. Al abrir y cerrar sus periodos ordinarios de sesiones lo hará por Decreto.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2004)</small>
+
+El primer período ordinario inicia el 1º de octubre y termina el 30 de enero del año siguiente. El segundo dará principio el 1º de abril y termina el 15 de julio del mismo año. Al abrir y cerrar sus periodos ordinarios de sesiones lo hará por Decreto.
 
 Se consideran días hábiles para el trabajo legislativo y parlamentario, todos los comprendidos dentro de cada uno de los períodos.
 
@@ -1204,3 +1206,7 @@ UNICO.- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 20 DE MARZO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
