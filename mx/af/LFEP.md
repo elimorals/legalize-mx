@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2002-06-04"
+last_updated: "2003-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -66,11 +66,11 @@ La Comisión Nacional de Derechos Humanos, la Procuraduría Agraria y la Procura
 
 El Banco de México, las sociedades nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y fianzas, los fondos y fideicomisos públicos de fomento así como las entidades paraestatales que formen parte del sistema financiero, quedan sujetas por cuanto a su constitución, organización, funcionamiento, control, evaluación y regulación a su legislación específica. Les será aplicable esta Ley en las materias y asuntos que sus leyes específicas no regulen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 21 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 5o.
 
-El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de Vivienda para los Trabajadores, el Instituto de Seguridad Social de las Fuerzas Armadas, el Instituto Nacional de las Mujeres y los demás organismos de estructura análoga que hubiere, se regirán por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas, se sujetarán a las disposiciones de la presente Ley.
+El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de Vivienda para los Trabajadores, el Instituto de Seguridad Social de las Fuerzas Armadas, el Instituto Nacional de las Mujeres, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y los demás organismos de estructura análoga que hubiere, se regirán por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas, se sujetarán a las disposiciones de la presente Ley.
 
 Aquellas entidades que además de Organo de Gobierno, Dirección General y Organo de Vigilancia cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
 
@@ -466,7 +466,7 @@ V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere n
 
 VI. Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
 
-VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El Director General de la Entidad y en su caso los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Organo de Gobierno.
+VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El Director General de la Entidad y en su caso los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Organo de Gobierno;
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal, y las modificaciones que procedan a la misma. Aprobar asimismo y en su caso el estatuto orgánico tratándose de organismos descentralizados;
 
@@ -663,3 +663,7 @@ El presente Decreto entrará en vigor el día que inicie su vigencia la Ley que 
 D.O.F. 4 DE JUNIO DE 2002.
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2003
+
+Unico.- Los artículos segundo y tercero de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
