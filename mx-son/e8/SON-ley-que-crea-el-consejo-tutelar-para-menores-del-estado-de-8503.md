@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-consejo-tutelar-para-menores-del-estado-de-8503
 country: "mx"
 rank: "ley"
 publication_date: "1985-06-03"
-last_updated: "1985-06-03"
+last_updated: "1986-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE MAYO DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de junio de 1985.
 
@@ -141,9 +141,11 @@ Serán sancionados administrativamente, en los términos de la presente Ley, el 
 
 ### CAPITULO UNICO. OBJETO Y COMPETENCIA
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 16.
 
-Se crea la Procuraduría de la Defensa del Menor y la Familia, como órgano del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, con personalidad jurídica propia y sede en Hermosillo, Sonora, cuyo objeto es la asistencia, defensa, asesoramiento, protección, vigilancia y orientación del menor y la familia en todo el Estado. La institución estará representada por un Procurador, quien deberá ser Licenciado en Derecho y poseer todos los requisitos que señala el Artículo 24 de esta Ley.
+Se crea la Procuraduría de la Defensa del Menor y la Familia, como órgano del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, con personalidad jurídica propia y sede en Hermosillo, Sonora, cuyo objeto es la asistencia, defensa, asesoramiento, protección, vigilancia y orientación del menor y la familia en todo el Estado. La Institución estará representada por un Procurador, quién deberá ser Licenciado en Derecho y poseer todos los requisitos que señale el Artículo 23 de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -151,7 +153,9 @@ La Procuraduría de la Defensa del Menor y la Familia tendrá, enunciativamente 
 
 I.- Gestionar ante el Consejo Tutelar, la custodia de los menores maltratados, explotados o que se encuentren física o moralmente abandonados en los hogares o centros de asistencia que corresponda.
 
-II.- Denunciar ante el Ministerio Público los atentados contra la integridad física o moral de los menores, coadyuvando con esta Autoridad tanto en las causas penales como en los procedimientos civiles en los que se pida la pérdida de la patria potestad, el divorcio, la nulidad de matrimonio o cualquier problema familiar que pudiera afectar a los menores procurando prescindir de las formalidades que retarde la solución del caso que se trate.
+> <small>(REFORMADA, B.O. 19 DE MAYO DE 1986)</small>
+
+II. Denunciar ante el Ministerio Público los atentados contra la integridad física o moral de los menores, coadyuvando con esta Autoridad tanto en las causas penales como en los procedimientos civiles en los que se pida la pérdida de la patria potestad, el divorcio, la nulidad de matrimonio o cualquier problema familiar que pudiera afectar a los menores.
 
 III.- Intervenir en el procedimiento que se siga ante el Consejo Tutelar.
 
@@ -163,9 +167,11 @@ V.- Las demás que se establezcan en esta u otras leyes, y en el Reglamento resp
 
 ### CAPITULO I. NATURALEZA, OBJETO Y COMPETENCIA
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 18.
 
-El Consejo Tutelar para Menores es un órgano del Poder Ejecutivo con personalidad jurídica y funciones propias, sede en la capital del Estado y competencia en toda la Entidad.
+El Consejo Tutelar para Menores es un órgano del Poder Ejecutivo, con funciones propias, sede en la Capital del Estado y competencia en toda la Entidad.
 
 ###### ARTICULO 19.
 
@@ -185,13 +191,17 @@ En el cumplimiento de sus funciones, el Consejo entenderá el hecho antisocial, 
 
 ### CAPITULO II. INTEGRACION Y ATRIBUCIONES
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 21.
 
-El Consejo Tutelar para Menores estará integrado por tres Consejeros Tutelares, con igual número de suplentes y deberán ser profesionistas que posean conocimientos e interés sobre la problemática de los menores inadaptados socialmente.
+El Consejo Tutelar para Menores estará integrado por un Presidente y Tres Consejeros Tutelares, con igual número de suplentes. Todos ellos deberán ser profesionistas que posean conocimientos e interés sobre la problemática de los menores.
+
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 22.
 
-El Consejo Tutelar para Menores tendrá un Presidente nombrado de entre los Consejeros, sin perjuicio de la igualdad de sus miembros, un Secretario de Acuerdos y el Personal Técnico y Administrativo que le señale el Presupuesto de Egresos del Estado.
+El Consejo Tutelar para Menores, además, tendrá un Secretario de Acuerdos y el personal técnico y administrativo que le señale el Presupuesto de Egresos del Estado.
 
 ###### ARTICULO 23.
 
@@ -205,9 +215,11 @@ III.- No haber sido condenado por delito intencional y gozar de reconocida honor
 
 IV.- Poseer el título que corresponda en los términos del Artículo 21.
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 24.
 
-Los Consejeros durarán en su cargo seis años y serán nombrados y removidos por el Gobernador.
+El Presidente del Consejo y los demás Consejeros durarán en su cargo seis años y serán nombrados y removidos por el Gobernador.
 
 ###### ARTICULO 25.
 
@@ -217,9 +229,11 @@ Los Consejeros Suplentes deberán de llenar los mismos requisitos de los Propiet
 
 El Consejo Tutelar para Menores, como Organo Colegiado será la máxima autoridad y funcionará en Pleno.
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 27.
 
-Los Consejeros estarán investidos del carácter de autoridad pública para todos los efectos legales, cuando se hallaren en el desempeño de sus funciones.
+El Presidente y los Consejeros estarán investidos del carácter de autoridad pública para todos los efectos legales, cuando se hallaren en el desempeño de sus funciones.
 
 ###### ARTICULO 28.
 
@@ -233,7 +247,9 @@ III.- Modificar la situación jurídica de los menores sujetos a tratamiento de 
 
 IV.- Imponer las sanciones que se establecen en la presente Ley, y dar vista al Agente del Ministerio Público en los casos de delito contra menores o cuando deba promoverse la pérdida de la patria potestad.
 
-V.- Promover el establecimiento de centros de tratamiento para menores infractores, supervisando y vigilando su funcionamiento.
+> <small>(REFORMADA, B.O. 19 DE MAYO DE 1986)</small>
+
+V.- Establecer los centros de tratamiento para menores infractores, supervisando y vigilando su funcionamiento.
 
 VI.- Conocer de los impedimentos, excusas y recusaciones de los Consejeros.
 
@@ -309,13 +325,21 @@ X.- En general, cumplir con las comisiones específicas que le encomiende el Con
 
 Para conocer de la situación de los menores que se encuentren fuera de la capital del Estado, el Consejo Tutelar para Menores tendrá Delegados, a efecto de que lo auxilien en sus funciones.
 
+> <small>(ADICIONADO, B.O. 19 DE MAYO DE 1986)</small>
+
+Los Delegados podrán ser nombrados y removidos libremente por el Ejecutivo del Estado, a propuesta el propio Consejo, exigiéndose para ello que se cumpla con los requisitos que señala el Artículo 23 de esta Ley.
+
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 33.
 
-Los Delegados serán nombrados y removidos por el Ejecutivo del Estado, a propuesta del Consejo Tutelar, exigiéndose los mismos requisitos que señala el Artículo 23 de esta Ley. En aquellos Municipios donde no hayan sido nombrados los delegados, ejercerá las funciones respectivas, provisionalmente, el Regidor encargado de la Comisión de Asistencia Social del Ayuntamiento correspondiente.
+En aquellos Municipios donde no haya Delegados nombrados, ejercerán las funciones respectivas, provisionalmente, el Regidor encargado de la Comisión de Asistencia Social del Ayuntamiento correspondiente, o bien, el funcionario que el Ayuntamiento designe.
+
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 34.
 
-En los Municipios donde se designen Delegados del Consejo Tutelar, los Ayuntamientos respectivos les proporcionarán a éstos el local y los medios adecuados para el desempeño de sus labores.
+Los Ayuntamientos proporcionarán a los Delegados del Consejo Tutelar para Menores, el local y los medios adecuados para el desempeño de las funciones de éstos.
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO ANTE EL CONSEJO TUTELAR PARA MENORES
 
@@ -325,9 +349,11 @@ En los Municipios donde se designen Delegados del Consejo Tutelar, los Ayuntamie
 
 El Consejo Tutelar para Menores se reunirá en pleno al menos una vez a la semana, además de las veces que se requiera según las necesidades del despacho. Deberá de funcionar con la asistencia de todos sus integrantes y sus resoluciones se tomarán por mayoría de votos del total de sus miembros.
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 36.
 
-Los Consejeros incluyendo a su Presidente, estarán en turno, de diez en diez días en forma sucesiva, e instruirán para conocimiento y resolución del pleno, los procedimientos que ante ellos se inicien durante el turno. Para los efectos de este artículo, el turno comprende las 24 horas del día incluyendo los inhábiles. Estarán impedidos para conocer de los asuntos de su competencia, por las mismas causas que se señalan en el Código de Procedimientos Penales del Estado.
+Los Consejeros estarán en turno, de diez en diez días en forma sucesiva, e instruirán, para conocimiento y resolución del pleno, los procedimientos que ante ellos se inicien durante el turno. Para los efectos de este Artículo, el turno comprende las 24 horas del día incluyendo los inhábiles. Estarán impedidos para conocer de los asuntos de su competencia, por las mismas causas que se señalan en el Código de Procedimientos Penales del Estado.
 
 ###### ARTICULO 37.
 
@@ -351,9 +377,11 @@ En este supuesto, conocerá de los hechos el Consejo Tutelar o sus Delegaciones,
 
 Cuando se requiera la declaración de un menor que esté a disposición del Consejo Tutelar, el Tribunal, Juez o Agente del Ministerio Público, ante quien se tramite la causa, informará de tal hecho al Consejo, quien decidirá en que lugar se le tomará la declaración.
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 42.
 
-El Consejo Tutelar tendrá facultades para determinar si a un menor que cumpla 18 años y que se encuentre a su disposición, continúe sometido al procedimiento tutelar previsto para menores hasta lograr la readaptación del infractor.
+El Consejo Tutelar tendrá facultades para determinar si un menor que cumpla 18 años y que se encuentre a su disposición, continuará sometido al procedimiento tutelar previsto para menores hasta lograr la readaptación del infractor, pudiendo internarse a éste en un centro de tratamiento intermedio para jóvenes-adultos, de carácter no penitenciario.
 
 ###### ARTICULO 43.
 
@@ -363,7 +391,9 @@ La responsabilidad civil por daños y perjuicios, exigible a terceras personas o
 
 Los objetos o instrumentos remitidos al Consejo Tutelar, relacionados con los hechos que entren en su competencia, se entregarán a sus legítimos propietarios, tan luego como éstos prueben su derecho y que no han participado en los hechos antisociales, excepto las armas o los instrumentos de uso prohibido, que serán remitidos al Ejecutivo, aplicándose en lo conducente el Capítulo sobre pérdida de los instrumentos del delito que contiene el Código Penal Sonorense.
 
-Si los objetos o instrumentos no son reclamados dentro de los dos años de iniciado el procedimiento tutelar, quedarán en beneficio del Organismo del Estado encargado de la asistencia social.
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
+Si los objetos o instrumentos no son reclamados dentro de los dos años siguientes a la fecha de iniciación del procedimiento tutelar, pasarán a formar parte del patrimonio del fondo a que se refiere el Artículo 91.
 
 ###### ARTICULO 45.
 
@@ -371,9 +401,11 @@ Toda persona que tenga conocimiento de la probable comisión de una conducta ant
 
 ### CAPITULO II. PROCEDIMIENTO ANTE EL CONSEJO TUTELAR PARA MENORES Y SUS DELEGACIONES
 
+> <small>(REFORMADO, B.O. 19 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 46.
 
-Cualquier autoridad ante la que sea presentado un menor, señalado como responsable de una conducta antisocial, lo pondrá de inmediato a disposición del Consejo Tutelar o de sus Delegaciones, proveyendo sin demora las medidas provisionales correspondientes, con oficio sobre los hechos o acta que acerca de los mismos se hubiese levantado.
+Cualquier autoridad ante la que sea presentado un menor señalado como responsable de una conducta formalmente delictiva, o de una infracción grave a los Bandos de Policía y Buen Gobierno, lo pondrá de inmediato a disposición del Consejo Tutelar o de sus Delegaciones, con oficio sobre los hechos o acta que acerca de los mismos se hubiese levantado.
 
 ###### ARTICULO 47.
 
@@ -551,17 +583,13 @@ La colocación en una Institución Asistencial especializada, se decretará en f
 
 La medida de internación en Centros de Tratamiento para Menores, se ordenará en los casos graves, cuando la familia o las instituciones abiertas no sean capaces de rehabilitar al menor, pero se procurará que la disciplina de estas instituciones no sea opuesta a la estabilidad emocional de los internos ni contradiga los fines del tratamiento integral, a cargo de personal especializado. En todo caso, el menor recibirá educación primaria durante su internamiento y se le facilitarán los medios para que continúe sus estudios, sin excluir la capacitación laboral como un elemento de reinserción social.
 
-### CAPITULO V. DE LOS CENTROS DE OBSERVACION DE MENORES DE CONDUCTA ANTISOCIAL NO PREVISTA COMO DELITO Y COMO INFRACCION
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 19 DE MAYO DE 1986)</small>
+
+### CAPITULO V
 
 ###### ARTICULO 80.
 
-Los centros de observación tendrán las siguientes funciones:
-
-I.- Alojar provisionalmente a los menores sujetos a procedimientos tutelares.
-
-II.- Realizar los estudios correspondientes de los menores internos.
-
-III.- Los centros de observación operarán bajo la responsabilidad de los Ayuntamientos de acuerdo a los Artículos 37 Fracción VIII del Inciso i) y la Fracción XL, y el Artículo 40 Fracción XXVI de la Ley Orgánica de Administración Municipal.
+(DEROGADO, B.O. 19 DE MAYO DE 1986)
 
 ### CAPITULO VI. DE LOS CENTROS DE TRATAMIENTO PARA MENORES INFRACTORES
 
@@ -710,3 +738,15 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 19 DE MAYO DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
