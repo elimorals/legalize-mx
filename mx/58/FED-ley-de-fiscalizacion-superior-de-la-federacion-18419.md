@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-superior-de-la-federacion-18419"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2000-12-31"
+last_updated: "2005-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2000-12-27"
 
 LEY DE FISCALIZACION SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el viernes 29 de diciembre de 2000.
+Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -59,7 +59,9 @@ IV. Comisión: La Comisión de Vigilancia de la Cámara encargada de la coordina
 
 V. Entes públicos federales: Los organismos públicos constitucionalmente autónomos para el desempeño de sus funciones sustantivas, y las demás personas de derecho público de carácter federal autónomas por disposición legal, así como los órganos jurisdiccionales que determinen las leyes;
 
-VI. Entidades fiscalizadas: Los Poderes de la Unión, los entes públicos federales, las entidades federativas y municipios que ejerzan recursos públicos federales y, en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos federales;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2005)</small>
+
+VI. Entidades fiscalizadas: Los Poderes de la Unión, los entes públicos federales, las entidades federativas y municipios que ejerzan recursos públicos federales; los mandatarios, fiduciarios o cualquier otra figura análoga, así como el mandato o fideicomiso público o privado que administren, cuando hayan recibido por cualquier título, recursos públicos federales y, en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos federales;
 
 VII. Gestión financiera: La actividad de los Poderes de la Unión y de los entes públicos federales, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas federales aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión posterior de la Cámara, a través de la Auditoría Superior de la Federación, a fin de verificar que dicha gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
 
@@ -890,3 +892,7 @@ D.O.F. 31 DE DICIEMBRE DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+D.O.F. 4 DE ABRIL DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
