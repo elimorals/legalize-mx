@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1978-08-10"
+last_updated: "1979-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 1979.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -587,7 +587,9 @@ XII.- Elegir a los Magistrados propietarios y Supernumerarios del Tribunal Super
 
 XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presenten los Diputados, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Magistrados del Tribunal Fiscal.
 
-XIV.- Llamar al Secretario General del Despacho, al Secretario del Tribunal o a los Secretarios de los Ayuntamientos, para que ilustren algún asunto de su respectiva competencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
+
+XIV.- Citar a los Secertarios (sic) del Despacho, al Secretario del Tribunal Superior de Justicia o a los Secretarios de los Ayuntamientos, para que ilustren algún asunto de su respectiva competencia;
 
 XV.- Admitir o no la renuncia que presenten los individuos que hayan sido electos popularmente para algún cargo del Estado;
 
@@ -829,7 +831,9 @@ Corresponde al Tribunal Superior de Justicia:
 
 I.- Iniciar ante la Legislatura las leyes, decretos y reglamentos que tengan por objeto mejorar la legislación civil, penal, y de procedimientos judiciales;
 
-II.- Conocer, como jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales a los Diputados, al Gobernador, a los miembros del Tribunal, al Secretario de Gobierno, y al Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
+
+II.- Conocer como Jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales a los Diputados; al Gobernador; a los miembros del Tribunal Superior de Justicia, a los Secretarios del Despacho y al Procurador General de Justicia;
 
 III.- Nombrar los Jueces de Primera Instancia y los Menores, admitirles sus renuncias, concederles las licencias que soliciten para separarse del despacho, suspenderlos hasta por tres meses, por causa grave justificada, que no dé motivo a que se les enjuicie, y multarlos en cantidad que no exceda de la mitad del sueldo de un mes;
 
@@ -1387,11 +1391,11 @@ Si al comenzar un período constitucional, no se presentare el Gobernador electo
 
 En los casos de los cuatro artículos que anteceden, al faltar definitivamente el Gobernador, quedará investido provisionalmente de este cargo, el Presidente del Tribunal Superior de Justicia, para sólo el efecto de promulgar el decreto por el cual se nombra Gobernador interino o provisional, en sus respectivos casos.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
 ###### Art. 88.
 
-Cuando la falta fuere temporal y no exceda de ocho días sin pasar de sesenta, lo suplirá por ministerio de Ley, el Secretario General de Gobierno que el mismo gobernador designe, siempre que el nombrado reúna los requisitos que señala la Constitución para ser Gobernador; en el caso de que el designado no reúna los requisitos a que se alude, por ministerio de ley asumirá las funciones a que este artículo se refiere el otro Secretario General de Gobierno. Si ninguno de los Secretarios reúne los requisitos necesarios para ser Gobernador, la Legislatura o, en su caso la Diputación Permanente, designará desde luego un Gobernador Interino que funcione por el tiempo que dure la falta del propietario.
+Cuando la falta fuere temporal y exceda de ocho días sin pasar de sesenta, lo suplirá por ministerio de Ley, el Secretario de Gobierno, siempre que reúna los requisitos que señala la Constitución para ser Gobernador; en caso contrario, la Legislatura o en su caso la Diputación Permanente, designará desde luego un Gobernador Interino que funja por el tiempo que dure dicha falta.
 
 ###### Art. 89.
 
@@ -1415,11 +1419,11 @@ El Gobernador no se considerará separado del despacho, cuando saliere a visitar
 
 Gobernador.
 
-> <small>(REFORMADO PRIMER PARRAFO, 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 6 DE DICIEMBRE DE 1979)</small>
 
 ###### Art. 93.
 
-Son facultades y obligaciones del Gobernador:
+Las facultades y obligaciones del Gobernador son:
 
 I.- Cuidar de la seguridad el Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
@@ -1459,9 +1463,9 @@ XV.- Proponer a la Legislatura cada año las Leyes de Ingresos del año próximo
 
 XVI.- Remitir trimestralmente al Congreso a través de la Contaduría General de Hacienda, un informe detallado y documentado de la recaudación e inversión que se haya hecho de los caudales públicos a efecto de que, satisfecho el requisito que establece el articulo 74, se dicte la resolución que previene la fracción IV del articulo 63.- (sic) Independientemente de la obligación que este precepto impone, se cumplirá con la que señala el artículo 50 de esta misma Constitución.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
-XVII.- Nombrar y remover libremente al Secretario del Despacho, al Procurador de Justicia, al Tesorero General, al Contralor del Estado y demás empleados cuyo nombramiento no está encomendado a otras autoridades;
+XVII.- Nombrar y remover libremente a los Secretarios del Despacho, al Procurador General de Justicia, Directores, Jefes de Dependencias y Organismos del Ejecutivo y demás funcionarios y empleados; cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes.
 
 XVIII.- Conceder o denegar indulto, y reducción o conmutación de pena, por los delitos de la competencia de los Tribunales del Estado, con los requisitos establecidos per(sic) las leyes;
 
@@ -1505,7 +1509,9 @@ VIII.- Mandar personalmente en campaña a la Guardia Nacional y demás fuerzas d
 
 IX.- Ocupar la propiedad privada, fuera de los casos determinados expresamente por las leyes;
 
-X.- Promulgar leyes, decretos y reglamentos, o expedir órdenes de pago, sin que vayan autorizadas por la firma del Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
+
+X.- Promulgar Leyes, Decretos, Reglamentos o expedir órdenes de pago sin que estén autorizadas con la firma del Secretario de Gobierno y del Secretario del Despacho a cuya materia correspondan;
 
 XI.- Investirse de facultades que no le señale expresamente la ley;
 
@@ -1517,11 +1523,11 @@ La infracción de las disposiciones de este artículo será causa de responsabil
 
 Del Secretario de Gobierno
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
 ###### Art. 95.
 
-El Ejecutivo nombrará, para el despacho de los negocios, dos funcionarios que tendrán iguales funciones y atribuciones, denominándose cada uno de ellos "Secretario de Gobierno".
+Para el despacho de los negocios del orden administrativo que al Poder Ejecutivo corresponden, este se auxiliará de un Secretario de Gobierno y de los Secretarios y Funcionarios que establezca la Ley Orgánica de la Administración Pública del Estado, con las atribuciones que la misma les señale.
 
 ###### Art. 96.
 
@@ -1535,11 +1541,15 @@ II.- Ser mayor de 30 años;
 
 III.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión o secta.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
+
+IV.- Tener título profesional de Licenciado en Derecho expedido por autoridad competente o por corporación legalmente facultada para ello.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
 ###### Art. 97.
 
-En caso de falta temporal o absoluta de ambos Secretarios de Gobierno, mientras se hace el nuevo nombramiento, asumirá sus funciones el Oficial Mayor de la Secretaría.
+Para el caso de falta temporal del Secretario de Gobierno y hasta en tanto se reintegre a sus funciones asumirá tal encargo el Secretario del Despacho o persona que designe el Ejecutivo, siempre que reúna los requisitos que establece el artículo que antecede. Si la falta es absoluta, el Gobernador hará en definitiva la designación correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
@@ -1547,11 +1557,11 @@ En caso de falta temporal o absoluta de ambos Secretarios de Gobierno, mientras 
 
 El titular del Ejecutivo del Estado determinará los negocios que deban ser despachados por cada uno de los Secretarios de Gobierno, sin que por ello desaparezca la igualdad de funciones y atribuciones que menciona el Artículo 95.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO P.O. 6 DE DICIEMBRE DE 1979)</small>
 
 ###### Art. 99.
 
-El Secretario General de Gobierno, concurrirá a las sesiones de la Legislatura.
+El Secretario de Gobierno concurrirá a las sesiones de la Legislatura.
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 1972)</small>
 
@@ -1593,7 +1603,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1814,3 +1824,13 @@ PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado
 SEGUNDO.- La presente Ley surtirá sus efectos una vez que la mayoría de los Ayuntamientos la aprueben en los términos del Artículo 163 de la propia Constitución Política del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 6 DE DICIEMBRE DE 1979
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente en el Periódico Oficial del Estado y en las Cartulinas que ordena el artículo 164 de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Envíese al total de municipios que integran el Estado para los efectos del artículo 163 de la misma Constitución.
