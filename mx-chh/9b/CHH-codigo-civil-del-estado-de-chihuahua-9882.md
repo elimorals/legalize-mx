@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1987-09-12"
+last_updated: "1988-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2749,7 +2749,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 730.- En general, son bienes muebles, todos los demás no considerados por la ley como inmuebles.
 
-731.- Cuando en una disposición de la ley o en los actos y contratos se use de la palabras BIENES MUEBLES, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
+731.- Cuando en una disposición de la ley o en los actos y contratos se use de las palabras BIENES MUEBLES, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
 
 732.- Cuando se use de las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirven exclusiva y propiamente para el uso y trato ordinario de una familia, según las circunstancias de las personas que la integren. En consecuencia, no se comprenderán, el dinero, los documentos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de arte y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
 
@@ -6965,17 +6965,17 @@ Cuando los bienes vendidos son de los mencionados en las fracciones I y II del a
 
 2194.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 1988)</small>
 
-2195.- La venta de un inmueble cuyo precio, valor de avalúo o valor catastral sea hasta de setenta y cinco mil pesos, podrá hacerse en instrumento privado, que firmarán el vendedor y el comprador ante dos testigos y se ratificará en los términos de Ley.
+2195.- La venta de un inmueble cuyo precio, valor de avalúo o valor catastral sea de hasta 365 veces el salario mínimo general diario de la capital del Estado en el momento de la operación podrá hacerse en instrumento privado, que firmaren el vendedor y el comprador ante dos testigos y se ratificará en los términos de la Ley.
 
 2196.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1728.
 
 2197.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 1988)</small>
 
-2198.- Si el precio, valor de avalúo o valor catastral excede de setenta y cinco mil pesos la venta se hará en escritura pública.
+2198.- Si el precio, valor de avalúo o valor catastral excede de 365 veces del salario mínimo general diario de la capital del Estado en el momento de la operación, la venta se hará en escritura pública.
 
 2199.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -9350,3 +9350,9 @@ P.O. 12 DE SEPTIEMBRE DE 1987.
 SE TRANSCRIBE UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO:- Este Decreto entrará en vigor veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 1988.
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 1988)</small>
+
+ARTICULO TRANSITORIO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en la Capital del Estado y 20 días después de su publicación en las demás poblaciones de la entidad.
