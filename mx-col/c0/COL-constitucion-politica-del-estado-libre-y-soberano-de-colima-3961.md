@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1940-12-07"
+last_updated: "1940-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1940.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -255,9 +255,9 @@ XI.- Conocer y resolver acerca de las renuncias a sus respectivos cargos present
 
 XII.- Recibir las protestas de los funcionarios a que se contrae la fracción anterior.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-XIII.- Otorgar permiso al Gobernador para salir del Territorio del Estado, cuando su ausencia fuere mayor de setenta y dos horas.
+XIII.- Otorgar permiso al Gobernador para salir del territorio del Estado, cuando su ausencia fuere mayor de quince días.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -501,11 +501,11 @@ El Gobernador, antes de tomar posesión de su cargo rendirá la protesta de Ley 
 
 No podrán ser electos para el período inmediato los Ciudadanos que hayan desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto, Interino o Provisional, siempre que desempeñen el cargo en los dos últimos años del período.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### Artículo 55.
 
-Las faltas temporales del Gobernador serán cubiertas por un Interino que, a mayoría de votos de los Diputados presentes, nombrará el Congreso o en su receso la Diputación Permanente, debiendo tener el nombrado los requisitos que señala el artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriere dentro del tercero o cuarto año del periodo Constitucional, se nombrará un substituto que desempeñará el cargo hasta que termine el período; pero si la falta tuviere lugar dentro de los dos primeros años; se nombrará un Gobernador interino quien hará entrega del Poder al Ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades.
+Las faltas temporales del Gobernador del Estado, hasta por quince días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que a mayoría de votos de los Diputados presentes, nombrará el Congreso o en sus recesos la Diputación Permanente, debiendo tener el nombrado los requisitos que señala el artículo 51 de esta Constitución. Cuando la falta fuere absoluta y ocurriere dentro del tercero o cuarto año del periodo constitucional, se nombrará un substituto que desempeñará el cargo hasta que termine el período; pero si la falta tuviere lugar dentro de los dos primeros años, se nombrará un Gobernador interino quien hará entrega del Poder al ciudadano que hubiere resultado electo en las elecciones extraordinarias a que haya convocado el Congreso conforme a sus facultades.
 
 Llegado el caso previsto por la fracción V del artículo 76 de la Constitución General de la República, el Gobernador Provisional, convocará a elecciones extraordinarias dentro de un término que no exceda de quince días, y el electo tomará posesión de su cargo, inmediatamente que se haga la declaratoria respectiva.
 
@@ -635,9 +635,9 @@ V.- Intervenir en las elecciones para que recaigan en determinada persona, ya se
 
 VI.- Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-VII.- Ausentarse del Territorio del Estado por más de setenta y dos horas sin licencia del Congreso.
+VII.- Ausentarse del territorio del Estado por más de quince días sin licencia del Congreso o de la Diputación Permanente en su caso.
 
 ## TITULO IV.
 
@@ -1470,6 +1470,12 @@ Sin embargo, el nombramiento de Magistrados se hará antes del día 27 del actua
 ###### Artículo 3º.
 
 El nombramiento de Jueces deberá hacerse el día primero de enero próximo, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial que comenzará a regir en la propia fecha, en la cual los Jueces deberán tomar posesión de sus respectivos cargos, previa la protesta correspondiente.
+
+P.O. 28 DE DICIEMBRE DE 1940.
+
+###### Artículo 2º.
+
+Las presentes reformas entrarán en vigor el día primero de enero de 1941.
 
 ###### Artículo 2.
 
