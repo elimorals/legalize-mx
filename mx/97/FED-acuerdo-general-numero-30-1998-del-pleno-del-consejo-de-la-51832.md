@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-30-1998-del-pleno-del-consejo-de-la-5183
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-08-12"
-last_updated: "2003-03-03"
+last_updated: "2003-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-12"
 
 ACUERDO GENERAL NUMERO 30/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE DELEGA DIVERSAS FACULTADES EN MATERIA DE RECURSOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XVII, ABRIL DE 2003, PAGINA 1205.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo VIII, Agosto de 1998, página 953.
 
@@ -99,7 +99,11 @@ XXI. Suscribir, previo dictamen favorable y en coordinación con la Unidad de Ap
 
 XXII. Conocer de los asuntos que plantee el Sindicato de Trabajadores del Poder Judicial de la Federación.
 
-CUARTO.- La Comisión de Administración estará facultada para autorizar la adscripción temporal de plazas de nueva creación en los Tribunales de Circuito y Juzgados de Distrito, así como para las áreas administrativas, en los casos en que a su juicio existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, S.J.F.G., TOMO XVII, ABRIL DE 2003, PAGINA 1205)</small>
+
+CUARTO.- La Comisión de Administración estará facultada para autorizar la adscripción temporal de plazas de nueva creación en los Tribunales de Circuito y Juzgados de Distrito, así como para las tareas administrativas, en los casos en que a su juicio existan circunstancias que lo justifiquen, previa solicitud de los titulares respectivos.
+
+Asimismo, la propia Comisión de Administración, podrá autorizar, mediante estudio y de manera excepcional, la adscripción temporal y prórroga de las plazas a que se refiere este punto, cuando se destine al servicio de Magistrados de Circuito y Jueces de Distrito retirados o pensionados, previa solicitud que al respecto se reciba.
 
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 8/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 2003)</small>
 
@@ -168,3 +172,9 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Se derogan, en lo conducente, todas las disposiciones internas del propio Consejo que se opongan a este acuerdo.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+S.J.F.G., TOMO XVII, ABRIL DE 2003, PAGINA 1205.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
