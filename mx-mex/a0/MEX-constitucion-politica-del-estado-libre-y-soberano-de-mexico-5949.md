@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1946-04-20"
+last_updated: "1947-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE ABRIL DE 1946.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1947.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -599,13 +599,17 @@ XLIII. Legislar sobre todo aquello que no se oponga a las prescripciones de la C
 
 #### SECCION QUINTA. DE LA DIPUTACION PERMANENTE
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
+
 ###### Art. 71.
 
-Tres días antes de la clausura de las sesiones ordinarias, la Legislatura para los períodos de receso, nombrará una Diputación, compuesta de tres de sus miembros como propietarios y dos suplentes para cubrir las faltas de aquellos.
+Tres días antes de la clausura de las sesiones ordinarias, la Legislatura para el periodo de receso nombrará una Diputación compuesta de tres de sus miembros como propietarios y dos suplentes para cubrir las faltas de aquéllos.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 1947)</small>
 
 ###### Art. 72.
 
-La Diputación Permanente además de los períodos de receso, funcionará en el año de la renovación de la Legislatura, hasta la instalación de la primera junta preparatoria.
+La Diputación Permanente, además del periodo de receso, funcionará en el año de la renovación de la Legislatura, hasta la instalación de la primera junta preparatoria.
 
 ###### Art. 73.
 
@@ -909,9 +913,9 @@ Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
 I.- Ser ciudadano del Estado, mexicano por nacimiento e hijo de mexicanos por nacimiento, en el pleno goce de sus derechos civiles y políticos.
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
-II. Tener más de treinta y menos de sesenta años de edad;
+II.- Tener más de treinta años de edad.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
@@ -1003,11 +1007,11 @@ IV. Conocer del recurso de suspensión a que se refiere el artículo 113 de esta
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1923)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
 ###### Art. 111.
 
-Para el mejor despacho de todos aquellos asuntos de la competencia del Tribunal Superior de Justicia, la Primera Sala conocerá de los asuntos civiles; y además, de la revisión de las causas criminales; y la Segunda, conocerá de estas últimas, exceptuando su revisión.
+Para el mejor despacho de todos aquellos asuntos de la competencia del Tribunal Superior de Justicia, la primera Sala conocerá de los asuntos civiles. La segunda Sala conocerá de los asuntos criminales de la competencia del propio Tribunal Superior.
 
 ###### Art. 112.
 
@@ -1069,11 +1073,11 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
 ###### Art. 101.
 
-El Tribunal Superior de Justicia se compondrá de seis Magistrados propietarios y dos supernumerarios, que serán electos en la forma que previenen los artículos 70 fracción XI, 73 fracción VII y 89 fracción XXVII de esta Constitución y durarán en su cargo cuatro años.
+El Tribunal Superior de Justicia, se compondrá de seis Magistrados que serán designados en la forma que previenen los artículos 70 fracción XI y 89 fracción XXVII de esta Constitución y durarán en su cargo cuatro años.
 
 ###### Art. 100.
 
@@ -1255,15 +1259,17 @@ III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
 La administración de justicia en cada Municipio, estará a cargo de uno o más funcionarios de elección popular directa que se llamarán Jueces Conciliadores. Una ley especial determinará el número de Jueces Conciliadores que deba haber en cada Municipio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
+
 ###### Art. 158.
 
-Por cada juez Conciliador propietario, habrá dos suplentes que llevarán su respectivo número de orden.
+Por cada Juez Conciliador Propietario habrá dos Suplentes que llevarán su respectivo número de orden. Cuando ocurra falta absoluta o temporal del Juez Propietario y de los Jueces Suplentes será llamado el Juez Conciliador Propietario del periodo anterior y en su defecto sus suplentes en su orden numérico.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
 ###### Art. 159.
 
-Los Jueces Conciliadores propietarios y suplentes, serán electos al mismo tiempo que los Ayuntamientos y durarán dos años en su encargo.
+Los Jueces Conciliadores Propietarios y Suplentes serán electos al mismo tiempo que los Ayuntamientos, y durarán tres años en su encargo.
 
 ###### Art. 160.
 
@@ -1581,9 +1587,11 @@ I. Todos los contratos que se refieran a bienes raíces, cuyo valor no exceda de
 
 II. Todos los testamentos que tengan por objeto bienes raíces, cuyo valor no exceda de un mil pesos, serán hechos en acta privada;
 
-III. Todas las actas privadas a que se refieren las fracciones anteriores, deberán extenderse en los ejemplares necesarios y uno más, los que ratificarán los interesados ante Agentes Notariales que se crearán al efecto, quienes formarán con los ejemplares excedentes, protocolos que conservarán en sus archivos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
-IV. Habrá tantos Agentes Notariales cuantos a juicio del Ejecutivo del Estado sean necesarios para que por lo menos haya uno por cada Municipalidad.
+III.- Todas las actas privadas a que se refieren las fracciones anteriores, deberán extenderse en los ejemplares necesarios y uno más, los que rectificarán los interesados ante el Juez Conciliador del Municipio correspondiente, en asuntos hasta de cien pesos o ante el Juez de Primera Instancia del Distrito en negocios mayores de esa cantidad, salvo lo que dispongan las Leyes para negocios que deban constar en escritura pública. Tanto los Jueces Conciliadores como los de Primera Instancia en su caso, formarán con el ejemplar excedente protocolos que conservarán en sus archivos.
+
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1947)
 
 ###### Art. 219.
 
@@ -1952,3 +1960,15 @@ G.G. 20 DE ABRIL DE 1946.
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
+
+Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
