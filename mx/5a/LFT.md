@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1974-01-09"
+last_updated: "1974-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1974.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1026,7 +1026,7 @@ XXI. Proporcionar a los sindicatos, si lo solicitan, en los centros rurales de t
 
 XXII. Hacer las deducciones que soliciten los sindicatos de las cuotas sindicales ordinarias, siempre que se compruebe que son las previstas en el artículo 110, fracción VI;
 
-XXIII.- Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
+XXIII. Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
 
 XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
 
@@ -2378,7 +2378,7 @@ Queda prohibida la utilización de intermediarios. En el caso de la empresa que 
 
 ###### Artículo 317.
 
-Los patrones que den trabajo a domicilio deberán inscribirse previamente en el "Registro del patrones de trabajo a domicilio", que funcionará en la Inspección del Trabajo. En el registro constará el nombre y el domicilio del patrón para el que se ejecutará el trabajo y los demás datos que señalen los reglamentos respectivos.
+Los patrones que den trabajo a domicilio deberán inscribirse previamente en el "Registro de patrones del trabajo a domicilio", que funcionará en la Inspección del Trabajo. En el registro constará el nombre y el domicilio del patrón para el que se ejecutará el trabajo y los demás datos que señalen los reglamentos respectivos.
 
 ###### Artículo 318.
 
@@ -2576,7 +2576,7 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 
 ###### Artículo 343.
 
-El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
+El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con los dispuesto en los artículos 49, fracción IV, y 50.
 
 ### CAPITULO XV. Industria Familiar
 
@@ -3004,6 +3004,12 @@ III. Del transcurso de dos años, en los casos de contrato por tiempo indetermin
 
 Para el cómputo de este término se atenderá a lo establecido en el contrato y, en su defecto, a la fecha del depósito.
 
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+Artículo 399 bis. Sin perjuicio de lo que establece el Artículo 399, los contratos colectivos serán revisables cada año en lo que se refiere a los salarios en efectivo por cuota diaria.
+
+La solicitud de esta revisión deberá hacerse por lo menos treinta días antes del cumplimiento de un año transcurrido desde la celebración, revisión o prórroga del contrato colectivo.
+
 ###### Artículo 400.
 
 Si ninguna de las partes solicitó la revisión en los términos del artículo 399 o no se ejercitó el derecho de huelga, el contrato colectivo se prorrogará por un período igual al de su duración o continuará por tiempo indeterminado.
@@ -3129,6 +3135,12 @@ II. La solicitud se presentará a la Secretaría del Trabajo y Previsión Social
 III. La autoridad que reciba la solicitud, después de verificar el requisito de mayoría, convocará a los sindicatos de trabajadores y a los patrones afectados a una convención, que se regirá por lo dispuesto en el artículo 411; y
 
 IV. Si los sindicatos de trabajadores y los patrones llegan a un convenio, la Secretaría del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, ordenará su publicación en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa. Las reformas surtirán efectos a partir del día de su publicación, salvo que la convención señale una fecha distinta.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+Artículo 419 bis. Los contratos-ley serán revisables cada año en lo que se refiere a los salarios en efectivo por cuota diaria.
+
+La solicitud de esta revisión deberá hacerse por lo menos sesenta días antes del cumplimiento de un año transcurrido desde la fecha en que surta efectos la celebración, revisión o prórroga del contrato-ley.
 
 ###### Artículo 420.
 
@@ -3364,9 +3376,13 @@ III. Obtener de los patrones la celebración del contrato-ley y exigir su revisi
 
 IV. Exigir el cumplimiento del contrato colectivo de trabajo o del contrato-ley en las empresas o establecimientos en que hubiese sido violado;
 
-V. Exigir el cumplimiento de las disposiciones legales sobre participación de utilidades; y
+V. Exigir el cumplimiento de las disposiciones legales sobre participación de utilidades;
 
-VI. Apoyar una huelga que tenga por objeto alguno de los enumerados en las fracciones anteriores.
+VI. Apoyar una huelga que tenga por objeto alguno de los enumerados en las fracciones anteriores; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+VII.- Exigir la revisión de los salarios contractuales a que se refieren los artículos 399 bis y 419 bis.
 
 ###### Artículo 451.
 
@@ -4068,6 +4084,8 @@ Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los d
 
 ### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
 ###### Artículo 537.
 
 El Servicio Público del Empleo tiene por objeto acopiar informes y datos que permitan procurar ocupación a los trabajadores.
@@ -4346,7 +4364,17 @@ III. Practicar las investigaciones y realizar los estudios necesarios y apropiad
 
 IV. Sugerir la fijación de los salarios mínimos profesionales; y
 
-V. Los demás que le confieran las leyes.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+V.- Publicar regularmente las fluctuaciones ocurridas en los precios y sus repercusiones sobre el costo de la vida, para cada una de las zonas económicas a que se refiere la Fracción III del Artículo 557;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+VI.- Resolver, previa orden del Presidente, las consultas que se le formulen en relación con las fluctuaciones de los precios y sus repercusiones en el poder adquisitivo de los salarios; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+VII.- Los demás que le confieran las leyes.
 
 ###### Artículo 562.
 
@@ -4430,15 +4458,21 @@ VI. Los demás que les confieran las leyes.
 
 ###### Artículo 570.
 
-Los salarios mínimos se fijarán cada dos años y comenzarán a regir el primero de enero de los años pares. A este fin, la convocatoria para la designación de los representantes de los trabajadores y de los patrones se hará por la Secretaría del Trabajo y Previsión Social en el año impar que corresponda.
+Los salarios mínimos se fijarán cada año y comenzarán a regir el primero de enero del año siguiente.
 
 ###### Artículo 571.
 
 En la fijación de los salarios mínimos por las Comisiones Regionales, se observarán las normas siguientes:
 
-I. Los trabajadores y los patrones, dentro de los diez últimos días del mes de julio del año en que deba procederse a la fijación de los salarios mínimos, podrán presentar los estudios que juzguen conveniente, acompañados de las pruebas que los justifiquen;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
 
-II. Las Comisiones dispondrán de un término que vencerá el 31 de octubre, para estudiar los informes de la Dirección Técnica de la Comisión Nacional y los estudios presentados por los trabajadores y los patrones, efectuar directamente las investigaciones y estudios que juzguen conveniente y dictar resolución fijando los salarios mínimos. Dentro del mismo término podrán solicitar de la Dirección Técnica investigaciones y estudios complementarios; y
+I.- Los trabajadores y los patrones a más tardar el último día de agosto, podrán presentar los estudios que juzguen conveniente acompañados de las pruebas que los justifiquen;
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+II.- Las Comisiones dispondrán de un término que vencerá el treinta de septiembre para estudiar los informes de la Dirección Técnica de la Comisión Nacional y los estudios presentados por los trabajadores y los patrones, efectuar directamente las investigaciones y estudios que juzguen conveniente y dictar resolución fijando los salarios mínimos.
+
+Dentro del mismo término podrán solicitar de la Dirección Técnica investigaciones y estudios complementarios; y
 
 III. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
 
@@ -4452,19 +4486,25 @@ II. El salario mínimo del campo; y
 
 III. Los salarios mínimos profesionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
 ###### Artículo 573.
 
-En la fijación de los salarios mínimos, por la Comisión Nacional, se observarán las normas siguientes:
+En la fijación de los salarios mínimos por la Comisión Nacional, se observarán las normas siguientes:
 
 I. Los trabajadores y los patrones, dentro de los diez días siguientes a la fecha en que se publique la resolución de cada Comisión Regional, podrán hacer las observaciones y presentar los estudios que juzguen conveniente, acompañándolos de las pruebas que los justifiquen;
 
 II. El Consejo de Representantes, dentro de los treinta días siguientes a la fecha en que reciba cada uno de los expedientes, estudiará las resoluciones y las observaciones y estudios presentados por los trabajadores y los patrones y dictará resolución confirmando o modificando las que hubiesen dictado las Comisiones Regionales. Podrá efectuar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica estudios complementarios;
 
-III. Si alguna de las Comisiones Regionales no dictare resolución dentro del término señalado en el artículo 571, fracción II, el Consejo de Representantes dictará la resolución correspondiente, después de estudiar el informe de la Dirección Técnica y los estudios presentados por los trabajadores y patrones ante la Comisión Regional y de efectuar directamente las investigaciones y estudios que juzgue conveniente;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+III.- Si alguna de las Comisiones Regionales no dictare resolución dentro del término señalado en el Artículo 571 Fracción II, o el expediente no se hubiere recibido a más tardar el treinta y uno de octubre, el Consejo de Representantes dictará la resolución correspondiente, después de estudiar el informe de la Dirección Técnica y en su caso los estudios presentados por los trabajadores y patrones ante la Comisión Regional, y de efectuar directamente las investigaciones y estudios que juzgue convenientes;
 
 IV. La Comisión Nacional expresará en su resolución los fundamentos que la justifiquen. A este fin, deberá tomar en consideración los expedientes tramitados ante las Comisiones Regionales, las investigaciones y estudios que hubiese efectuado y las observaciones y estudios presentados por los trabajadores y patrones; y
 
-V. Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el Diario Oficial de la Federación, la que deberá hacerse antes del treinta y uno de diciembre.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+
+V.- Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el “Diario Oficial” de la Federación, la que deberá hacerse a más tardar el treinta y uno de diciembre.
 
 ###### Artículo 574.
 
@@ -5288,7 +5328,7 @@ V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión
 
 VI. Instalada la convención, se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con un Presidente, dos Secretarios y dos Vocales. Tomarán parte en la elección, con el número de votos que les corresponda, los delegados y los patrones independientes cuyas credenciales hubiesen quedado registradas. El cómputo se hará por dos de las personas asistentes, designadas especialmente;
 
-VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículos 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
+VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículo 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
 
 VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y
 
@@ -6987,3 +7027,23 @@ D.O.F. 9 DE ENERO DE 1974.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE SEPTIEMBRE 1974.
+
+PRIMERO.- Los Artículos 399 bis, 419 bis y la Fracción VII del 450 entrarán en vigor el primero de mayo de 1975. Para las revisiones que de acuerdo con estas disposiciones deben efectuarse durante el mes de mayo de 1975, las solicitudes se presentarán treinta días antes tratándose de contratos colectivos y sesenta días antes en el caso de contratos-ley. El aviso para la suspensión de labores, en su caso, deberá darse con la anticipación que señala la Fracción III del Artículo 452.
+
+SEGUNDO.- Los Artículos 561 Fracciones VI y VII, 570, 571, Fracciones I y II y 573, Fracciones III y V, entrarán en vigor el primero de enero de 1975.
+
+TERCERO.- Por esta sola vez se faculta a las Comisiones Regionales y a la Comisión Nacional de los Salarios Mínimos para que procedan a fijar nuevos salarios mínimos generales, del campo y profesionales, los cuales regirán desde el ocho de octubre de 1974, hasta el treinta y uno de diciembre de 1975, de acuerdo con las siguientes reglas:
+
+I.- Dentro de los tres días siguientes a la entrada en vigor de este Decreto, las Comisiones Regionales de los Salarios Mínimos dictarán resolución fijando los nuevos salarios mínimos.
+
+II.- Los Presidentes de las Comisiones Regionales de los Salarios Mínimos, bajo su responsabilidad, comunicarán a la Comisión Nacional de los Salarios Mínimos, las resoluciones correspondientes dentro de los dos días siguientes a la fecha de haberse dictado.
+
+III.- El Presidente de la Comisión Nacional de los Salarios Mínimos convocará al Consejo de Representantes, el cual dentro de los dos días siguientes a la recepción de las comunicaciones a las que se refiere la Fracción anterior, dictará resolución confirmando o modificando las que hubieren dictado las Comisiones Regionales.
+
+IV.- Transcurridos ocho días de vigencia del presente Decreto y si la Comisión Nacional no hubiere recibido las comunicaciones a las que se refiere la Fracción II, el Consejo de Representantes dictará resolución fijando los nuevos salarios mínimos.
+
+V.- El Presidente de la Comisión Nacional de los Salarios Mínimos enviará para su publicación en el "Diario Oficial" de la Federación las resoluciones a las que se refieren las Fracciones III y IV. La publicación deberá hacerse a más tardar el siete de octubre de 1974.
+
+CUARTO.- El presente Decreto entrará en vigor al día siguiente al de la fecha de su publicación en el "Diario Oficial" de la Federación.
