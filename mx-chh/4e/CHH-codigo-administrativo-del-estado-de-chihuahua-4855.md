@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1987-08-26"
+last_updated: "1987-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1987.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 26 DE AGOSTO DE 1987 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 232-87-P.E. II PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 1987.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1987.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1573,239 +1571,209 @@ Las responsabilidades y las infracciones antisociales del Procurador de Justicia
 
 TERCERA PARTE
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 # LIBRO PRIMERO. GOBERNACION
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 ## TITULO UNICO. DEL REGISTRO CIVIL
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 228.
 
-Las Oficinas del Registro Civil ajustarán su funcionamiento a las disposiciones consignadas en los artículos 35 y siguientes del Código Civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 229.
 
-El Jefe de la Oficina Central del Registro Civil tendrá la dirección y vigilancia directa de los encargados del Registro Civil en el Estado. Los problemas y consultas que se les presenten sobre la interpretación de las disposiciones legales relativas, en caso de que no pueda resolverlas directamente, las someterá al conocimiento del Director de Gobernación, de quien dependerá inmediatamente y por cuyo conducto tratará todos los asuntos de la competencia del Gobernador, Secretario General de Gobierno y Oficial Mayor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 230.
 
-En cada caso uno de los siete libros del Registro Civil a que se refiere el artículo 37 del Código Civil, se asentarán las actas originales del ramo respectivo y en los duplicados se irán haciendo inmediatamente copias exactas de ellas autorizándolas el Encargado del Registro Civil al calce de la última que se escriba.
-
-Además de los siete libros originales y sus correspondientes duplicados, los mismos Encargados formarán los expedientes de las actas de supervivencia, los apéndices que sean necesarios y todos aquellos libros que juzguen convenientes para la mejor organización de la oficina.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 231.
 
-Las actas del Registro Civil sólo se asentarán en los libros a que se refiere el artículo anterior, salvo el caso de que el libro correspondiente se haya destruido o agotado. En este evento las actas se levantarán, con los demás requisitos que la ley previene, en hojas separadas, que se transcribirán en el nuevo libro, haciéndose constar la causa por la cual se procedió en esa forma y agregando el acta al apéndice del libro, sin cuyo requisito el acta transcrita carecerá de valor. Al extenderse copia de las actas levantadas, en esa forma deberá hacerse mención de los originales correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 233.
 
-Los libros originales quedarán en el archivo de la Oficina y los duplicados se remitirán a la Oficina Central del Registro Civil, para que ésta a su vez los remita al Archivo General de Gobierno por conducto de la Dirección de Gobernación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 234.
 
-La remisión de los libros duplicados deberá hacerse por los Encargados del Registro Civil durante el mes siguiente a contar del día de la clausura de aquéllos y por el Jefe de la Oficina Central dentro del mes siguiente de la fecha en que los clausure o reciba. La falta de cumplimiento de esta disposición será sancionada con la destitución del cargo del funcionario responsable cuando su nombramiento provenga del Ejecutivo del Estado o con multa de cien a quinientos pesos en caso diverso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 235.
 
-El Jefe de la Oficina Central y los Encargados del Registro Civil serán suplidos en sus licencias y faltas por la persona que el Ejecutivo designe y los Presidentes Municipales o Seccionales por quien deba suplirlos conforme al Código Municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 236.
 
-El Jefe de la Oficina Central y los Encargados del Registro Civil estarán impedidos para intervenir en los asuntos en que tengan interés directo o indirecto, parentesco, amistad o enemistad manifiesta con las partes. Las excusas que proponga o las recusaciones que hagan valer las partes interesadas se tramitarán de plano por el Director de Gobernación y de ser declaradas procedentes se designará el funcionario que debe substituirlo o se comunicará a quien por ley deba suplirlos para que intervenga en el otorgamiento del acta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 237.
 
-Durante los seis primeros meses de cada año, el Procurador General de Justicia, directamente o por medio de los Agentes del Ministerio Público que designe, revisará los libros duplicados remitidos al Archivo General de Gobierno durante el año anterior, para el efecto de hacer la consignación correspondiente de los Registradores que hubieren cometido alguna infracción antisocial en el ejercicio de su encargo o para dar aviso a la Dirección de Gobernación de las faltas en que se hubiere incurrido. Si el Procurador de Justicia omitiere hacer la revisión prevenida dentro del término indicado, será sancionado por el Ejecutivo del Estado con multa de cincuenta a quinientos pesos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 238.
 
-Ninguna autoridad podrá ordenar, cualquiera que sea su categoría, que se extraigan de las Oficinas del Registro Civil, los libros, apéndices y demás documentos que le pertenezcan. Los Encargados del Registro Civil no obedecerán las órdenes que a este respecto se libren, debiendo dar solamente copia cuando se les pida por autoridad competente o remitir los libros, apéndices y documentos al taller en donde deban ser encuadernados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 239.
 
-Siempre que por fallecimiento u otra causa imprevista no hubiere el Encargado del Registro Civil autorizado un acta, el que lo substituya hará concurrir a los que comparecieron a levantarla, para que ratifiquen sus firmas, después de lo cual la autorizará; pero si alguna o todas las personas que en ella intervinieron hubieren fallecido, estuvieren ausentes o se ignorare su domicilio, se harán comparecer nuevos testigos, quienes firmarán en unión del mismo Encargado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 240.
 
-En toda acta del Registro Civil se hará constar el año, día y hora en que se presenten los interesados; se tomará razón detallada de los documentos exhibidos y se asentarán los nombres, edad, profesión y domicilio de los que en ellos sean designados, en cuanto fuere posible.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 241.
 
-Extendida un acta en el libro correspondiente, será leída por el Encargado del Registro Civil a los interesados y testigos, firmándola todos los comparecientes y si alguno de ellos no puede o no sabe firmar, lo hará otra persona a su ruego y se imprimirá la huella digital del interesado que no firmó. También se hará constar que el acta fue leída y quedaron los interesados conformes con su contenido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 242.
 
-Si alguno de los que intervienen en el acta quisiere imponerse por sí mismo del tenor de ella, quedará facultado para hacerlo y si no supiere o no pudiere leer, la persona que designe de entre los presentes se la leerá a su ruego.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 243.
 
-Si la redacción de un acta comenzada se entorpeciere porque las partes se nieguen a continuarla o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales con expresión de la causa porque se suspendió, firmando la razón respectiva el Encargado del Registro Civil, los interesados y testigos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 244.
 
-En la redacción de toda acta se observarán las prevenciones siguientes:
-
-I.- Las actas se numerarán ordinariamente y se escribirán una después de otra sin dejar entre ellas ningún renglón entero en blanco;
-
-II.- Tanto el número ordinal, como el de las fechas o cualquier otro serán escritos con cifras y letras;
-
-III.- En ningún caso se emplearán abreviaturas;
-
-IV.- No se harán raspaduras ni se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra o frase, se pasará por ella una línea delgada, de manera que pueda leerse lo escrito. En el caso del artículo 347 del Código Civil, la testadura se hará por completo, de modo que las palabras o frase correspondientes queden absolutamente ilegibles, adviertiéndose al final del acta la causa por la que se ha procedido en esta forma;
-
-V.- Antes de autorizar el acta se salvará con toda claridad lo entrerrenglonado y testado, sin dejar ningún renglón entero en blanco entre el final del acta y las firmas con que se autoriza. La falta de cumplimento de las prevenciones contenidas en las dos fracciones anteriores, ameritará que el Encargado del Registro Civil sea sancionado por el Ejecutivo del Estado con multa de cincuenta a quinientos pesos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 245.
 
-Los apuntes proporcionados por los interesados y los documentos que presenten se anotarán poniéndoles el número del acta y el sello de la oficina; se reunirán en apéndices ordenados y se depositarán en el archivo de la Oficina, formándose un índice de ellos en las últimas fojas del libro duplicado correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 246.
 
-Al margen de las copias de las actas que se expidan y que deban causar los derechos previstos por la ley, se anotará la cantidad que se haya pagado por concepto de esos derechos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 247.
 
-Cuando las actas del Registro Civil no fueren correlativas entre sí, queda prohibido expresar, aunque estén levantadas con pocos minutos de diferencia, que se han asentado "en el mismo día" o usar frases correlativas tales como "en la misma fecha", "acto continuo" o "en seguida".
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 248.
 
-Las faltas de respeto que se cometan a los Encargados del Registro Civil, serán sancionadas por éstos con multa de cinco a ciento cincuenta pesos, que hará efectiva la Recaudación de Rentas competentes. En caso de que la multa impuesta no sea satisfecha, los infractores sufrirán un día de arresto por cada diez pesos o fracción de la cantidad que la multa importe.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 249.
 
-Las infracciones cometidas por los Encargados del Registro Civil serán sancionadas por el Ejecutivo del Estado, a propuesta de la Dirección de Gobernación, con multa de cinco a cincuenta pesos la primera vez. Esta sanción se duplicará en caso de reincidencia, o si la infracción se llegare a cometer por tercera vez, el Encargado del Registro Civil será destituido cuando su nombramiento derive del Ejecutivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 250.
 
-Son obligaciones de los Encargados del Registro Civil:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
-I.- Asistir a su despacho durante los días y horas reglamentarias;
-
-II.- Despachar los negocios urgentes, aún en los días inhábiles, a cualquiera hora del día y de la noche;
-
-III.- Expedir a los interesados que ocurran a levantar cualquier acta una boleta en que se haga constar los datos del registro;
-
-IV.- Expedir a los interesados las notas necesarias para que efectúen el pago de los derechos correspondientes en la Recaudación de Rentas;
-
-V.- Autorizar y registrar todos los actos que importen un cambio en el estado civil de las personas que se encuentren dentro de su jurisdicción, sean o no vecinas de ella;
-
-VI.- Proporcionar a las oficinas federales competentes noticias de los cambios que ocurran en el estado civil de los extranjeros comprendidos dentro de su jurisdicción;
-
-VII.- Dar noticia a la Dirección de Gobernación del Gobierno del Estado de las multas que impongan en uso de sus facultades y de todos los asuntos importantes que se presenten, por conducto de la Oficina Central del Registro Civil;
-
-VIII.- Consultar en la misma forma con la Dirección de Gobernación las dudas o dificultades que se ofrezcan en el desempeño de su cargo;
-
-IX.- Dar aviso a la misma Dirección de Gobernación, por el conducto indicado, de las faltas injustificadas de los empleados subalternos, proponiendo lo conducente;
-
-X.- Expedir a quien lo pidiere, testimonio de las actas del Registro Civil, así como de los apuntes y documentos que obren en los apéndices y archivos de la oficina;
-
-XI.- Las demás que les impongan las leyes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### ARTICULO 251.
 
-Los Encargados del Registro Civil están obligados a concurrir al lugar en donde el recién nacido se encuentre, para el efecto de levantar el acta correspondiente, cuando así sea requerido por los padres o la persona que tenga la custodia del menor, pudiendo tan sólo percibir el pago de los derechos correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 252.
 
-Cuando el Encargado del Registro Civil reciba aviso del nacimiento ocurrido, sin que los interesados se hayan presentado a registrarlo, quedará facultado:
-
-I.- Para librar a los mismos interesados el citatorio correspondiente, a fin de que se presenten a efectuar el registro omitido, apercibidos de una multa en caso de desobediencia;
-
-II.- A disponer del uso de la fuerza pública para obligar a los mismos interesados a efectuar la presentación omitida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 253.
 
-(DEROGADO, P.O. 30 DE MAYO DE 1981)
+(DEROGADO, P.O. 30 DE MAYO DE 1981) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 254.
 
-En el caso de los niños expósitos a que se refiere el artículo 65 del Código Civil, el Encargado del Registro Civil, sin perjuicio de poner los hechos en conocimiento del Ministerio Público para que practique la averiguación correspondiente y de proveer transitoriamente al asilo y custodia del menor, someterá el asunto al conocimiento de la Dirección de Gobernación, a fin de que se tomen las medidas necesarias para que el niño expósito quede bajo el cuidado de la dependencia oficial adecuada o se deposite con familia honorable.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 255.
 
-Si con el expósito se hubieren encontrado alhajas u otros objetos de valor, el Encargado del Registro Civil los depositará en la institución de crédito autorizada por el Gobierno Federal para recibir los depósitos constituidos por las autoridades, agregando el billete correspondiente al apéndice del acta. Los demás documentos y papeles que se hubieren presentado se conservarán en el Archivo de la Oficina y en el apéndice correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 256.
 
-En toda acta de nacimiento se asentará la huella digital del pulgar de la mano derecha del niño presentado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1981)</small>
-
 ###### ARTICULO 257.
 
-El que trate de reconocer a un hijo cuyo nacimiento hubiere sido ya registrado en virtud de presentación hecha por persona extraña, ocurrirá a la autoridad judicial competente, quien citará a los interesados y al Ministerio Público a una junta, en la cual el promovente hará la confesión directa y expresa de la paternidad o maternidad, y si el hijo mayor de catorce años o el tutor, en su caso, estuvieren conformes, el juez dará por hecho el reconocimiento. En caso contrario, suspenderá todo procedimiento y dejará a salvo los derechos de los interesados para que se resuelva la cuestión relativa a la paternidad o maternidad en el juicio contradictorio correspondiente.
-
-De las diligencias a que se refiere la primera parte de este artículo, se remitirá testimonio de lo conducente al Encargado del Registro Civil para que levante el acta respectiva.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 258.
 
-Cuando el hijo no haya sido registrado y se deseare su reconocimiento por alguno de los padres, el interesado ocurrirá a la autoridad judicial competente y previos los requisitos establecidos en el artículo anterior, se concederá el reconocimiento y se hará el registro omitido en la forma ordenada en el mismo precepto, sin perjuicio de que el Encargado del Registro Civil imponga la multa correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO Y DIVORCIO
 
 ###### ARTICULO 259.
 
-El convenio a que se refiere la fracción IV del artículo 94 del Código Civil, para regular el régimen al que deberán quedar sujetos los bienes de los cónyuges, deberá hacerse en escritura privada firmada ante dos testigos, o bien, mediante declaración escrita ante el Encargado del Registro Civil, quien deberá agregar uno u otro documento al apéndice correspondiente. Solamente en el caso de que los contrayentes sean propietarios de bienes raíces y el matrimonio se celebre bajo el régimen de sociedad conyugal aportando éstos, se hará necesario el otorgamiento de escritura pública para formalizar dicho convenio, siempre que el valor de los mismos inmuebles amerite el otorgamiento de su formalidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 260.
 
-Si alguno de los pretendientes hubiere estado bajo tutela por causa de idiotismo o imbecilidad, se acompañará a la solicitud la resolución del juicio que haya declarado la cesación de la tutela por haber desaparecido la causa que la motivó.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 261.
 
-El Encargado del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado por el Director de Gobernación, la primera vez, con multa de cien pesos y en caso de reincidencia con multa hasta por quinientos pesos o destitución del cargo, si el funcionario sancionado hubiere derivado su nombramiento del Ejecutivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 262.
 
-El Encargado del Registro Civil tendrá obligación de anotar las actas de nacimiento de los contrayentes, asentando la razón de que han contraido matrimonio. Si el nacimiento se hubiere asentado en oficina distinta a aquélla en que se levantó el acta de nacimiento, el Encargado del Registro Civil que autoriza el matrimonio, remitirá copia del acta relativa al Encargado de la Oficina que haya registrado el nacimiento para que se haga la anotación marginal correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 263.
 
-Además de los requisitos que previene el artículo 93 del Código Civil, el Encargado del Registro Civil exigirá a las personas que pretendan contraer matrimonio, la presentación de un certificado médico, haciendo constar que se encuentran en el uso expedito de sus facultades mentales y que no padecen ningún defecto físico o enfermedad que les impida entrar al estado matrimonial Si no hubiere médico en la localidad, el certificado será expedido por algún práctico en medicina de los autorizados para ejercer con arreglo a las disposiciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO V. DE LAS ACTAS DE DEFUNCION
 
 ###### ARTICULO 264.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Encargado del Registro Civil, antes de las veinticuatro horas del fallecimiento, a menos que se trate de enfermedad contagiosa, en cuyo caso y previo dictamen médico, el Encargado del Registro Civil mandará que se haga desde luego la inhumación.
-
-También podrá efectuarse ésta transcurridas las primeras dieciocho horas si del certificado médico, o en su defecto, del práctico correspondiente aparece que puede anticiparse la descomposición del cadáver.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 265.
 
-Si el paciente no hubiere sido atendido en su última enfermedad por facultativos titulados o prácticos en medicina, el Encargado del Registro Civil comunicará al médico municipal y en defecto de éste nombrará dos peritos que reconozcan el cadáver y expidan el certificado correspondiente, explicando la causa o enfermedad que en su concepto hubiere determinado el fallecimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 266.
 
-En todos los casos de muerte violenta, causada por homicidio, accidente, inundación, incendio o cualquier otro siniestro, el Ministerio Público estará obligado a remitir al Encargado del Registro Civil copia en lo conducente de la averiguación practicada, para que se agregue al apéndice correspondiente al acta de defunción que se haya levantado con arreglo a lo dispuesto en los artículos 118 y 119 del Código Civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPITULO VI. DE LA ANOTACION Y RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
 
 ###### ARTICULO 267.
 
-Toda acta del Registro Civil relativa a otra ya asentada, podrá anotarse marginalmente a petición de los interesados. La misma anotación deberá hacerse cuando lo mande la autoridad judicial o lo disponga expresamente la ley y se insertará en todos los testimonios que se expidan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 268.
 
-Cuando los libros duplicados del Registro Civil no existan ya en poder del Encargado de la Oficina y tuviere que hacerse al margen alguna anotación de las previstas en el artículo anterior, se librará oficio al Archivo General de Gobierno para que se haga en el duplicado correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 269.
 
-Si concluida y firmada un acta se hubiere dejado de asentar algún dato, el Encargado del Registro Civil hará al margen la anotación correspondiente, firmándola en unión de los que intervinieron en el acto, siempre que con dicha anotación no se contradiga la esencia del acto registrado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 270.
 
-En todo juicio de rectificación será oído en primera instancia el Encargado del Registro Civil y en segunda instancia el Procurador General de Justicia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)
 
 # LIBRO SEGUNDO
 
@@ -2693,7 +2661,7 @@ El notario, en relación con los libros del protocolo llevará una carpeta por c
 
 Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
 
-De los expedientes que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
 
 ###### ARTICULO 406.
 
@@ -10631,7 +10599,7 @@ IX.- Las demás que les otorguen las disposiciones legales relativas.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10877,11 +10845,11 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION QUINTA. DE LA VIVIENDA
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1515.
 
@@ -10931,9 +10899,7 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1521.
 
@@ -10975,9 +10941,11 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1525.
 
@@ -11017,7 +10985,7 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
@@ -11071,9 +11039,13 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO VII. DE LAS CONURBACIONES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11089,9 +11061,9 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11191,11 +11163,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -13004,3 +12972,11 @@ Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico
 ###### ARTICULO SEGUNDO.
 
 En la misma fecha se derogan los artículos del 1314 al 1326 del Código Administrativo del Estado y los artículos del 105 al 147 de la Ley de Tránsito del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 1987.
+
+DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
+
+PRIMERO:- Este Decreto entrará en vigor veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga la Tercera Parte, Libro Primero, Gobernación, Título Unico, del Registro Civil, Capítulos del I al VI, artículos del 228 al 270 del Código Administrativo del Estado.
