@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1953-08-09"
+last_updated: "1958-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1958.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -381,7 +381,9 @@ I.- Dar y derogar las leyes;
 
 II.- Iniciar ante el Congreso Federal las leyes y decretos que sean de la competencia de la Legislatura Federal, así como la reforma y derogación de unas y de otros;
 
-III.- Calificar la validez o nulidad de las elecciones de Gobernaodor (sic) y diputados al Congreso del Estado, haciendo el cómputo de votos en los términos que prevenga la Ley;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
+
+III.- Calificar la validez o nulidad de las elecciones de Gobernador, Diputados al Congreso Local, Ayuntamientos del Estado y Alcaldes Constitucionales, haciendo el cómputo de votos en los términos que prevenga la Ley;
 
 IV.- Determinar sobre las excusas que expongan para no admitir esos cargos, los funcionarios de que habla la fracción anterior;
 
@@ -437,9 +439,15 @@ XXVIII.- Determinar, según las necesidades, el número de ministros de cultos e
 
 XXIX.- Dictar leyes encaminadas a combatir el alcoholismo;
 
-XXX.- Hacer el cómputo de votos en la elección de senadores, declarando electos a los que hubieren obtenido la mayoría de sufragios, y
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
 
-XXXI.- Expedir todas las leyes que sean necesarias para el efecto de hacer efectivas las atribuciones anteriores, y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+XXX.- Hacer el cómputo de votos de la elección de Senadores, declarando electos a los que hubieren obtenido la mayoría de sufragios;
+
+XXXI.- Expedir todas las leyes que sean necesarias para el efecto de hacer efectivas las atribuciones anteriores, y todas las otras concedidas por esta Constitución a los Poderes del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
+
+XXXII.- Recibir en sesión solemne el informe del Gobernador el día 15 de septiembre de cada año.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -619,7 +627,9 @@ XI.- Excitar a los tribunales inferiores del ramo judicial a la más pronta y cu
 
 XII.- Presentar al Congreso, dentro de los quince días del primer período de sesiones ordinarias, el presupuesto de egresos del año entrante, proponiendo arbitrios para cubrirlos;
 
-XIII.- Presentar al Congreso, el día de su instalación, una memoria del estado que guarde la administración pública;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
+
+XIII.- Presentar al Congreso, el día 15 de septiembre de cada año, una memoria del estado que guarde la Administración Pública, correspondiente al tiempo transcurrido desde el último informe;
 
 XIV.- Informar al Congreso, por conducto de su Secretaría, cuando éste lo crea conveniente, sobre cualquier ramo de la administración;
 
@@ -919,9 +929,7 @@ I.- Ser ciudadano potosino en ejercicio de sus derechos, y
 
 II.- Ser vecino de la municipalidad que lo elija y con un año, por lo menos, de residencia inmediatamente anterior a la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
-
-ART. 90.- El procurador de justicia del Estado calificará las elecciones de ayuntamientos, fallando, parcial o totalmente, la nulidad que se presentare o se hiciere valer, en relación con las mismas.
+ART. 90.- (DEROGADO, P.O. 13 DE NOVIEMBRE DE 1958)
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1154,5 +1162,9 @@ P.O. 24 DE DICIEMBRE DE 1950.
 UNICO.- Estas reformas entrarán en vigor después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE AGOSTO DE 1953.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 13 DE NOVIEMBRE DE 1958.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
