@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-07-14"
+last_updated: "1988-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 1988.
-
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: 14 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -233,9 +231,13 @@ XVII.- DECIMO SEPTIMO CIRCUITO:
 
 1.- Dos Tribunales Colegiados y un Tribunal Unitario, con residencia en la ciudad de Chihuahua, Chihuahua;
 
-2.- Juzgado Primero de Distrito en el Estado de Chihuahua, con residencia en la ciudad de Chihuahua;
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO NUMERO 9/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE JULIO DE 1988)</small>
 
-3.- Juzgados Segundo y Tercero de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+2.- Juzgados Primero y Segundo de Distrito en el Estado de Chihuahua, con residencia en la ciudad de Chihuahua;
+
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO NUMERO 9/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE JULIO DE 1988)</small>
+
+3.- Juzgados Tercero y Cuarto de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez.
 
 XVIII.- DECIMO OCTAVO CIRCUITO:
 
@@ -365,9 +367,13 @@ XXVI.- Los Juzgados Primero y Segundo de Distrito en el Estado de Guanajuato, co
 
 XXVII.- El Juzgado Tercero de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerá jurisdicción en los municipios mencionados en la fracción XXVI;
 
-XXVIII.- El Juzgado Primero de Distrito en el Estado de Chihuahua, con residencia en la ciudad de Chihuahua, ejercerá jurisdicción en los municipios de Chihuahua, Aldama, Carretas, Coyamé, Ojinaga, San Andrés, San Lorenzo, Santa Eulalia, Santa Isabel Satevó, Batopilas, Ubique, Morelos, Cusihuiriáchic, San Francisco de Borja, Carichic, Bocoyna, Nonoava, Cerro Prieto, Cuauhtémoc, Camargo, La Cruz, Guadalupe, Parral, Balleza, Huejotitlán, Escobedo, Olivos, San Antonio del Tule, Matamoros, Santa Bárbara, Rosario, Zaragoza, San Francisco del Oro, Jiménez Allende, Coronado, Villa López Arteaga y Guadalupe y Calvo, del mismo Estado;
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO NUMERO 9/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE JULIO DE 1988)</small>
 
-XXIX.- Los Juzgados Segundo y Tercero de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción en el territorio del Estado excepto en los municipios mencionados en la fracción XXVIII;
+XXVIII.- Los Juzgados Primero y Segundo de Distrito en el Estado de Chihuahua, con residencia en la ciudad de Chihuahua, ejercerán jurisdicción en el territorio del Estado, excepto en los municipios mencionados en la fracción XXIX;
+
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO NUMERO 9/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE JULIO DE 1988)</small>
+
+XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción en los Municipios de Aquiles Serdán, Asunción, Juárez y Práxedes G. Guerrero, del mismo estado;
 
 XXX.- El Juzgado Primero de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerá jurisdicción en los municipios de Victoria, Güemes, Padilla, Villagrán, Casas, Hidalgo, Llera, Jiménez, Mainero, El Mante, Antiguo Morelos, Nuevo Morelos, Xicoténcatl, Gómez Farías, Ocampo, Tula, Palmillas, Bustamante, Miquihuana, Jaumave, San Carlos, San Nicolás, Soto La Marina y Abasolo;
 
@@ -434,3 +440,9 @@ UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en e
 S.J.F. 14 DE JULIO DE 1988.
 
 UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JULIO DE 1988.
+
+PRIMERO.- Este acuerdo entrará en vigor en la fecha en que inicie sus labores el Juzgado Segundo de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
+
+SEGUNDO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de todos los Tribunales Colegiados y Unitarios y de los Juzgados de Distrito en el país, para su conocimiento y cumplimiento.
