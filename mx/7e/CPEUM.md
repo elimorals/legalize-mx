@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1974-01-31"
+last_updated: "1974-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 1974.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -594,7 +594,7 @@ VI.- El espacio situado sobre el territorio nacional, con la extensión y modali
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes , Baja California, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal y Territorios de la Baja California Sur y de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal y Territorios de la Baja California Sur y de Quintana Roo.
 
 ###### Art. 44.
 
@@ -1513,6 +1513,10 @@ Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia de trabajo, cuando se encuentre que ha habido, en contra del agraviado, una violación manifiesta de la ley que lo ha dejado sin defensa, y en materia penal, además, cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 1974)</small>
+
+Podrá suplirse la deficiencia de la queja en los juicios de amparo contra actos que afecten derechos de menores o incapaces, de acuerdo con lo que disponga la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -2721,3 +2725,7 @@ UNICO.- La presente reforma y adición entrará en vigor al día siguiente de su
 D.O.F. 31 DE ENERO DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 20 DE MARZO DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
