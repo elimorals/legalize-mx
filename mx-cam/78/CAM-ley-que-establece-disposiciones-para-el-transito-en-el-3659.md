@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-disposiciones-para-el-transito-en-el-3659"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-29"
-last_updated: "1994-12-29"
+last_updated: "1995-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY QUE ESTABLECE DISPOSICIONES PARA EL TRANSITO EN EL CAMINO DE ACCESO A LA ZONA ARQUEOLOGICA DE CALAKMUL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 29 de diciembre de 1994.
 
@@ -55,19 +55,25 @@ Por este camino, en toda su extensión, solo podrán transitar vehículos de dos
 
 El tránsito vehicular sobre el camino de acceso a la Zona Arqueológica de Calakmul será gratuito desde su Kilómetro 0+000 hasta su Kilómetro 22+300. El tránsito peatonal será gratuito en toda su extensión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### Artículo 5º.
 
-Los conductores de vehículos para poder transitar con los mismos en el tramo comprendido del Kilómetro 22+300 al Kilómetro 61+000 y en su ramal, deberán pagar peaje, en la caseta respectiva, conforme a las siguientes cuotas:
+Los conductores de vehículos para poder transitar con los mismos en el tramo comprendido del kilómetro 22+300 al Kilómetro 61+000 y en su ramal, deberán pagar peaje, en la caseta respectiva, conforme al tipo de vehículo que a continuación se señala:
 
-Bicicletas y Motocicletas N$5.00
+Salarios Mínimos Generales Diarios Vigentes
 
-Automóviles y Camionetas N$15.00
+BICICLETAS Y MOTOCICLETAS 0.5
 
-Autobuses hasta de 30 pasajeros N$50.00
+AUTOMOVILES Y CAMIONETAS 1
 
-Las anteriores cuotas se incrementarán anualmente en el mismo porcentaje en que se incremente el salario mínimo general vigente en la Entidad.
+AUTOBUSES HASTA DE 30 PASAJEROS 4
 
-Las cantidades que se recauden por concepto de cuotas se enterarán, por el o los encargados de dicha recaudación, a la Secretaria de Finanzas del Gobierno del Estado y se invertirán en sufragar los gastos de conservación y mantenimiento del camino y de instalación de las casetas de peaje y de vigilancia de la zona que comprende la Biosfera de Calakmul, así como los emolumentos del personal de vigilancia del camino y zonas aledañas, y que tendrán carácter preponderantemente ecológico.
+Los pasajeros que transiten a bordo de los vehículos señalados anteriormente pagarán por persona una cuota de 0.5 salarios mínimos generales diarios vigentes.
+
+Las cantidades que se recauden por concepto de cuotas se enterarán, por el o los encargados de dicha recaudación, a la Secretaría de Finanzas y Administración del Gobierno del Estado y se invertirán en sufragar los gastos de conservación y mantenimiento del camino y de instalación y mantenimiento de las casetas de peaje y de vigilancia de la zona que comprende la Biósfera de Calakmul, así como en el pago de los emolumentos del personal de vigilancia del camino y zonas aledañas, y que tendrán carácter preponderantemente ecológico.
+
+Los habitantes de las poblaciones que se ubican en dicha zona, cuya única vía de acceso a y salida de las mismas es el camino de referencia, quedan relevados del pago de cuota alguna, siempre y cuando acrediten esa circunstancia debidamente ante la autoridad vial competente y ésta les extienda el correspondiente permiso de tránsito gratuito.
 
 ###### Artículo 6º.
 
@@ -104,3 +110,11 @@ Palacio Legislativo, Campeche, Cam., a 28 de diciembre de 1994.- Dip. Tomás Arn
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintiocho días del mes de diciembre de mil novecientos noventa y cuatro.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+Primero.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
