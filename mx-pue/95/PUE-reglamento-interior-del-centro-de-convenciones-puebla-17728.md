@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-centro-de-convenciones-puebla-17728"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-23"
-last_updated: "2000-02-23"
+last_updated: "2004-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL CENTRO DE CONVENCIONES PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 23 de febrero de 2000.
 
@@ -117,19 +117,21 @@ Por mayoría se considera el cincuenta por ciento más uno de los integrantes qu
 
 El Centro de Convenciones Puebla, de conformidad con lo establecido en el artículo 1o. del Decreto de Creación, es un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, cuyo domicilio está en la Ciudad de Puebla y tiene a su cargo, la operación y administración del Centro de Convenciones, cuyo objeto consiste en establecer la organización y operación, así como la promoción, realización y facilitación en el uso y aprovechamiento de la infraestructura, espacios inmobiliarios, que le estén asignados así como también los servicios que tengan relación con fines de interés público o privado, siempre que procure el autofinanciamiento del Organismo y sean autorizados por su Órgano de Gobierno, y las demás funciones que se establecen en el Decreto de Creación.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 15.
 
-Para la operación, administración y despacho de los asuntos de su competencia, el Centro de Convenciones contará con una estructura operativa básica integrada por las siguientes unidades administrativas y servidores públicos:
+Para la operación, desarrollo, administración y despacho de los asuntos de su competencia, el Centro de Convenciones estará integrado de la siguiente forma:
 
-- El Consejo Directivo;
+I.- El Consejo Directivo;
 
-- La Dirección Ejecutiva;
+II.- La Dirección Ejecutiva;
 
-- La Dirección Administrativa;
+III.- La Dirección Administrativa;
 
-- La Dirección de Mercadotecnia y Operación, y
+IV.- La Dirección de Mercadotecnia y Operación, y
 
-- El Comisario Público.
+V.- La Dirección de Desarrollo Administrativo, Planeación e Informática.
 
 ###### Artículo 16.
 
@@ -269,9 +271,23 @@ XXXII.- Ejecutar las sanciones administrativas que la Secretaría de Desarrollo,
 
 XXXIII.- Resolver las dudas que se susciten con motivo de la interpretación de este Reglamento, así como lo no previsto en el mismo, sobre la competencia y atribuciones de las diferentes unidades administrativas del Centro de Convenciones;
 
-XXXIV.- Asignar a las unidades administrativas las facultades no comprendidas en este Reglamento y que fueran necesarias para el cumplimiento de las legislaciones que corresponda aplicar al Centro de Convenciones; y
+XXXIV.- Asignar a las unidades administrativas las facultades no comprendidas en este Reglamento y que fueran necesarias para el cumplimiento de las legislaciones que corresponda aplicar al Centro de Convenciones; y (sic)
 
-XXXV.- Las demás que le encomiende el Presidente del Consejo Directivo, el Decreto de Creación y demás disposiciones legales aplicables a la competencia del Centro de Convenciones.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+XXXV.- Certificar documentos inherentes a la operación y administración del Centro de Convenciones Puebla;
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+XXXVI.- Atender e informar a los diversos medios de comunicación social, de los diferentes eventos que se desarrollan en las instalaciones del Centro de Convenciones;
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+XXXVII.- Coordinar y autorizar la emisión de boletines de prensa que serán enviados a los medios de comunicación en sus diferentes niveles relacionados con los eventos y actividades que realiza el Centro de Convenciones Puebla, y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+XXXVIII.- Las que le encomiende el Consejo Directivo, el Decreto de Creación el presente Reglamento y las demás disposiciones legales aplicables.
 
 Las facultades y obligaciones no delegables del Director Ejecutivo son las previstas en las fracciones II, III, IV, V, VI, VII, VIII, X, XII, XVIII, XX, XXV, XXVI, XXX, XXXIII, XXXIV y XXXV de este artículo.
 
@@ -333,7 +349,9 @@ XXI.- Las demás que le encomiende el Director Ejecutivo y las disposiciones leg
 
 Son facultades y obligaciones de la Dirección Administrativa:
 
-I.- Coordinar y ejercer integralmente, las actividades relativas a las áreas de administración y capacitación de los recursos humanos, adquisiciones, recursos financieros, recursos tecnológicos y de información, recursos materiales y servicios generales, la administración y reglamentación de bienes muebles e inmuebles; así como proponer al Director Ejecutivo las políticas y directrices en estas materias;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+I.- Coordinar y ejercer integralmente, las actividades relativas a las áreas de administración, recursos humanos, adquisiciones, recursos financieros, recursos materiales y servicios generales, la administración y reglamentación de bienes muebles e inmuebles; así como proponer al Director Ejecutivo las políticas y directrices en estas materias;
 
 II.- Vigilar el cumplimiento de los ordenamientos legales, en materia laboral y prestación de servicios, para el óptimo aprovechamiento de los recursos materiales y servicios generales: así como para la correcta administración de los bienes, derechos y valores que integren el patrimonio del Centro de Convenciones;
 
@@ -343,7 +361,7 @@ IV.- Vigilar la captación y distribución de recursos que el Centro de Convenci
 
 V.- Vigilar el ejercicio del presupuesto y establecer su control y aplicación contable de los recursos asignados al Centro de Convenciones;
 
-VI.- Observar y vigilar el cumplimiento por parte de las demás unidades administrativas del Centro de Convenciones, las normas de control, fiscalización y evaluación que emita el Comisario Público y/o la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, apoyar a ésta, en la instrumentación de normas complementarias en materia de control; realizar las revisiones que se requieran en las unidades administrativas, así como vigilar la aplicación de medidas correctivas y recomendaciones que correspondan;
+VI.- (DEROGADA, P.O. 23 DE AGOSTO DE 2004)
 
 VII.- Elaborar y poner a consideración del Director Ejecutivo, el informe anual así como proporcionar la integración y entrega oportuna de la información que deba rendir el Organismo, a las instancias competentes;
 
@@ -357,9 +375,15 @@ XI.- Otorgar asesoría y orientación a petición de las dependencias, entidades
 
 XII.- Coordinar las políticas y normatividad para cuidar la integridad física y moral de los asistentes al Centro de Convenciones, así como del personal administrativo e instalaciones del mismo;
 
-XIII.- Coordinar las políticas y programas en materia de sistemas de información, necesarios para la automatización de los procesos y actividades administrativas para proveer el máximo uso y aprovechamiento de la infraestructura disponible; y
+XIII.- Coordinar las políticas y programas en materia de sistemas de información, necesarios para la automatización de los procesos y actividades administrativas para proveer el máximo uso y aprovechamiento de la infraestructura disponible; y (sic)
 
-XIV.- Las demás que le encomiende el Presidente del Consejo Directivo, el Director Ejecutivo, el Decreto de Creación y demás disposiciones legales aplicables a la competencia del Centro de Convenciones.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+XIV.- Coadyuvar con la Dirección de Desarrollo Administrativo, Planeación e Informática, en la realización de los diagnósticos de operatividad, estableciendo los mecanismos necesarios para la evaluación permanente de las unidades administrativas del Centro de Convenciones, proponiendo, en su caso, las reformas que procedan, y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+XV.- Las que le encomiende el Consejo Directivo, el Director Ejecutivo, el Decreto de Creación y la demás normatividad aplicable.
 
 La Dirección de Administración estará adscrita a la Dirección Ejecutiva y a cargo de un Titular auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
@@ -371,7 +395,9 @@ Son facultades y obligaciones de la Dirección de Mercadotecnia y Operación:
 
 I.- Proponer al Director Ejecutivo, las políticas y normatividad que se establezcan para el mejor aprovechamiento por concepto de arrendamientos y prestación de servicios de los espacios físicos que le están asignados al Centro de Convenciones;
 
-II.- Proponer al Director Ejecutivo, las normas y manuales de procedimientos para la operación, promoción y realización de eventos, en las áreas que para tal efecto son susceptibles de arrendamiento o de la prestación de algún servicio;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2004)</small>
+
+II.- Proponer al Director Ejecutivo en coordinación con el Director de Desarrollo Administrativo, Planeación e Informática, las normas y manuales de procedimientos para la operación, promoción y realización de eventos, en las áreas que para tal efecto son susceptibles de arrendamiento o de la prestación de algún servicio;
 
 III.- Informar al Director Ejecutivo, de los eventos que se realizarán cada semana y con la anticipación oportuna, incluyendo día, hora, tipo de evento, cupo y área donde se desarrollarán;
 
@@ -405,17 +431,69 @@ XVII.- Integrar un banco de datos de los clientes que realicen eventos en las in
 
 XVIII.- Acordar con el Director Ejecutivo los contratos o convenios de arrendamiento o prestación de servicios que suscriba, el Centro de Convenciones con las diferentes entidades gubernamentales o instituciones de la iniciativa privada o del sector social;
 
-XIX.- Atender e informar a los diversos medios de comunicación social, de los diferentes eventos que se desarrollan en las instalaciones del Centro de Convenciones;
+XIX.- (DEROGADA, P.O. 23 DE AGOSTO DE 2004)
 
-XX.- Coordinar y elaborar los boletines de prensa que serán derivados a los medios de comunicación en sus diferentes niveles; y
+XX.- (DEROGADA, P.O. 23 DE AGOSTO DE 2004)
 
 XXI.- Las demás que le encomiende el Presidente del Consejo Directivo, el Director Ejecutivo, el Decreto de Creación y demás disposiciones legales aplicables a la competencia del Centro de Convenciones.
 
 La Dirección de Mercadotecnia y Operación estará adscrita a la Dirección Ejecutiva y a cargo de un Titular auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2004)</small>
+
+### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCIÓN DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2004)</small>
+
+###### Artículo 24 Bis.
+
+La Dirección de Desarrollo Administrativo, Planeación e Informática dependerá directamente del Director Ejecutivo y serán de su competencia las siguientes atribuciones:
+
+I.- Promover el desarrollo administrativo e informático del Centro de Convenciones y difundir entre las áreas administrativas que lo integran, la metodología adecuada sobre planeación, supervisando su aplicación;
+
+II.- Coordinarse, previo acuerdo del Director Ejecutivo, con las Dependencias y Entidades competentes, para la elaboración de los Planes y programas relacionados con la operación del Centro de Convenciones que sean de su competencia;
+
+III.- Apoyar las acciones de planeación de las demás unidades administrativas del Centro de Convenciones, supervisando la elaboración de los programas operativos y de trabajo, de conformidad con los lineamientos que establezca el Director Ejecutivo;
+
+IV.- Establecer las estrategias y mecanismos que permitan controlar y dar seguimiento, a los planes, programas y procesos administrativos del Centro de Convenciones y verificar que se obtengan los resultados programados, informando al Director Ejecutivo sobre ello;
+
+V.- Integrar y coordinar los programas operativos anuales, globales, regionales, sectoriales, intersectoriales e institucionales del Centro de Convenciones;
+
+VI.- Coadyuvar con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para que los sistemas de control, fiscalización y evaluación de los programas de trabajo del Centro de Convenciones, se apliquen adecuadamente sin perjuicio para las actividades sustantivas propias del Organismo;
+
+VII.- Elaborar y someter a la consideración del Director Ejecutivo, programas de racionalidad, modernización, simplificación y calidad de las estructuras organizacionales, procesos de trabajo y servicios al público, que permitan una clara y eficiente operación del Centro de Convenciones, impulsando cuando así proceda, la participación de los servidores públicos, con el fin de mejorar el desarrollo administrativo de éste;
+
+VIII.- Coadyuvar con la Dirección Administrativa en la realización de los diagnósticos de operatividad, estableciendo los mecanismo (sic) necesarios para la evaluación permanente de las unidades administrativas del Organismo, proponiendo en su caso las reformas que procedan;
+
+IX.- Elaborar, en coordinación con las áreas administrativas del Centro de Convenciones, los manuales de organización, de procedimientos y de servicios al público, de acuerdo a la normatividad vigente, procurando su permanente actualización y presentarlos a la consideración del Director Ejecutivo;
+
+X.- Diagnosticar y evaluar los datos que generen los sistemas informáticos de las distintas unidades administrativas del Centro de Convenciones, con el propósito de sustentar su gestión y modernización, simplificando la administración y apoyando la planeación sectorial;
+
+XI.- Elaborar y controlar los formatos utilizados en el Centro de Convenciones, vigilando que los métodos y procedimientos de trámite, control, resguardo y archivo, sean más eficientes;
+
+XII.- Brindar asesoría, en el ámbito de su competencia, sobre la realización de programas y servicios de procesamiento de datos y sistemas a las unidades administrativas del Centro de Convenciones;
+
+XIII.- Supervisar que el equipo de cómputo y software comercial, utilizados en las unidades administrativas del Centro de Convenciones, directamente o a través de terceros, cumplan con la normatividad que establezca la Secretaría de Finanzas y Administración;
+
+XIV.- Cumplir y hacer cumplir las medidas de seguridad en las instalaciones, equipos y soporte lógico de los sistemas informáticos del Centro de Convenciones, conforme a los lineamientos establecidos por las instancias correspondientes;
+
+XV.- Coordinarse, previo acuerdo del Director Ejecutivo, con la Secretaría de Finanzas y Administración, para el establecimiento, desarrollo y operación de una red informática en el Centro de Convenciones;
+
+XVI.- Apoyar a las demás unidades administrativas para desarrollar, supervisar y mantener programas de orientación e información al público y, en su caso, participar en las campañas de difusión de las actividades del Centro de Convenciones;
+
+XVII.- Coadyuvar, previo acuerdo del Director Ejecutivo, con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para el funcionamiento y actualización del Sistema de Información Ciudadana, respecto de los servicios que preste el Centro de Convenciones;
+
+XVIII.- Informar oportunamente a las unidades administrativas respecto del desarrollo de los sistemas informáticos y bases de datos utilizados en el Centro de Convenciones;
+
+XIX.- Proponer al Director Ejecutivo, en coordinación con el Director de Mercadotecnia y Operación, las normas y manuales de procedimientos para la operación, promoción y realización de eventos en las áreas del Centro de Convenciones que para tal efecto sean susceptibles de arrendamiento o la prestación de algún servicio, y
+
+XX.- Las que le encomiende el Director Ejecutivo, así como la demás normatividad aplicable.
+
+La Dirección de Desarrollo Administrativo, Planeación e Informática estará adscrita a la Dirección Ejecutiva y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
 ## TÍTULO SEXTO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 25.
 
@@ -440,3 +518,15 @@ Tercero.- Cuando una unidad administrativa, se fusione con otra unidad administr
 Cuarto.- En tanto se expidan los manuales que este Reglamento menciona, el Titular del Centro de Convenciones, solucionará las cuestiones que conforme dichos manuales se deban regular.
 
 Dado en la sede del Centro de Convenciones Puebla en la Heroica Puebla de Zaragoza, a los 10 días del mes de diciembre de mil novecientos noventa y nueve.- El Presidente del Consejo Directivo del Centro de Convenciones Puebla.- DOCTOR RAFAEL MORENO VALLE ROSAS.- Rúbrica.- Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.- Secretaria de Desarrollo, Evaluación y Control de la Administración Pública.- CONTADORA PÚBLICA MA. TERESA NOEMÍ TELLO Y NIETO.- Rubrica.- Secretario de Desarrollo Económico.- CIUDADANO ANTONIO ZARAÍN GARCÍA.- Rúbrica.- Secretario de Cultura.- CIUDADANO PEDRO ANGEL PALOU GARCÍA.- Rúbrica.- Secretario de Turismo.- LICENCIADO ALBERTO OCHOA PINEDA.- Rúbrica.- El Director Ejecutivo del Centro de Convenciones Puebla.- CIUDADANO JOSÉ BRITO ZARAGOZA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a las presentes adiciones y reformas.
