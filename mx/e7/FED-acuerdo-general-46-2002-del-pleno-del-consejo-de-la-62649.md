@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-46-2002-del-pleno-del-consejo-de-la-62649"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-10-10"
-last_updated: "2002-10-10"
+last_updated: "2003-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-10-02"
 
 ACUERDO GENERAL 46/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO, ASI COMO EN MATERIA PENAL, DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO, VERACRUZ; Y ESTABLECE LAS REGLAS DE RECEPCION Y TURNO DE ASUNTOS NUEVOS DE LOS CITADOS TRIBUNALES COLEGIADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ENERO DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de octubre de 2002.
 
@@ -55,6 +55,8 @@ ACUERDO
 
 PRIMERO.- Se modifica temporalmente la competencia del Primer y Segundo Tribunales Colegiados en Materia Penal del Séptimo Circuito, con residencia en Boca del Río, Veracruz, así como la del Primer y Segundo Tribunales Colegiados en Materias Administrativa y de Trabajo del propio Circuito y sede, conservando dichos órganos jurisdiccionales la denominación y jurisdicción territorial que tienen asignadas.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/1/2003, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2003, SE EXTIENDE EL LAPSO DE COMPETENCIA DE LOS TRIBUNALES COLEGIADOS A QUE SE HACE REFERENCIA, DEL 1 AL 28 DE FEBRERO DE 2003.</small>
+
 SEGUNDO.- Los Tribunales Colegiados en Materia Penal del Séptimo Circuito, conocerán, además de los asuntos propios de la competencia que tienen asignada, de aquellos asuntos a que se refiere el artículo 37, fracciones I, inciso d), II, III, IV, V, VI, VII, VIII y IX, de la Ley Orgánica del Poder Judicial de la Federación, en materia de trabajo, dentro del periodo comprendido del dieciséis de octubre de dos mil dos al treinta y uno de enero de dos mil tres; en consecuencia, todos los asuntos de la referida materia que en dicho lapso se turnen a los tribunales colegiados en materia penal del referido Circuito, aun cuando no se hayan radicado, permanecerán en ellos hasta su conclusión.
 
 TERCERO.- Dentro de la temporalidad señalada en el punto de acuerdo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materias Administrativa y de Trabajo del Séptimo Circuito, lo será también de los tribunales colegiados en materia penal del referido Circuito, únicamente por cuanto hace a la recepción de asuntos de la materia de trabajo.
@@ -78,3 +80,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 46/2002, del Pleno del Consejo de la Judicatura Federal, Que Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materias Administrativa y de Trabajo, así como en Materia Penal, del Séptimo Circuito, con Residencia en Boca del Río, Veracruz; y Establece las Reglas de Recepción y Turno de Asuntos Nuevos de los citados Tribunales Colegiados, fue aprobado por el propio Pleno, en sesión de dos de octubre de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta y José Guadalupe Torres Morales.- México, Distrito Federal, a dos de octubre de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE ENERO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
