@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1975-12-30"
+last_updated: "1977-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1977.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -2966,13 +2966,17 @@ No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada
 
 Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cuatro años de prisión, sí no resultare daño alguno, privándolo, además, de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 336.
 
-Al que sin motivo justificado abandone a sus hijos, o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, se le aplicará de uno a seis meses de prisión y privación de los derechos de familia.
+Al que sin motivo justificado abandone a sus hijos o a su cónyuge, sin recursos para atender a sus necesidades de subsistencia, le aplicarán de un mes a cinco años de prisión, privación de los derechos de familia, y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 337.
 
-El delito de abandono de hogar, sólo se perseguirá a petición del cónyuge ofendido o de los legítimos representantes de los hijos; a falta de representantes de los menores la acción se iniciará por el Ministerio Público, a reserva de que el juez de la causa designe un tutor especial para los efectos de este artículo.
+El delito de abandono de cónyuge se perseguirá a petición de la parte agraviada. El delito de abandono de hijos se perseguirá de oficio y, cuando proceda, el Ministerio Público promoverá la designación de un tutor especial que represente a las víctimas del delito, ante el Juez de la causa, quien tendrá facultades para designarlo. Tratándose del delito de abandono de hijos, se declarará extinguida la acción penal, oyendo previamente la autoridad judicial al representante de los menores, cuando el procesado cubra los alimentos vencidos, y otorgue garantía suficiente a juicio del Juez para la subsistencia de los hijos.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3807,6 +3811,12 @@ D.O.F. 30 DE DICIEMBRE DE 1975.
 ###### ARTICULO UNICO.
 
 Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 1977.
+
+###### ARTICULO UNICO.
+
+Estas reformas entrarán en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
