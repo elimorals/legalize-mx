@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-2854"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-29"
-last_updated: "1992-02-29"
+last_updated: "2001-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL 30 DE NOVIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección I del Periódico Oficial el 29 de febrero de 1992.
 
@@ -2660,3 +2662,55 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 30 DE NOVIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, publicada en el Periódico Oficial del Estado de Baja California el día 29 de febrero de 1992 y se abrogan las demás disposiciones legales en lo que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO
+
+Hasta en tanto se expidan las disposiciones reglamentarias de esta ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravenga. Las referencias legales o reglamentarias a la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California se entienden hechas en lo aplicable, a la presenta (sic) ley.
+
+###### ARTÍCULO CUARTO
+
+Los procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, se tramitarán y resolverán conforme a las disposiciones de dicha Ley que se abroga.
+
+###### ARTÍCULO QUINTO
+
+Los municipios deberán adecuar sus reglamentos, ordenanzas, bandos de policía y gobierno, y demás disposiciones derivadas de la presente Ley, debiéndolos expedir en los doscientos diez días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+En el caso de los municipios que no cuenten con disposiciones reglamentarias a que se refiere el párrafo anterior ni con la unidad de gestión ambiental a través de la cual presten los servicios administrativos y técnicos ambientales, la Secretaría aplicará temporalmente las disposiciones que en la materia les correspondan.
+
+###### ARTÍCULO SEXTO
+
+Hasta en tanto se expidan sus reformas, seguirán aplicándose los Planes vigentes en el Estado de Baja California, publicados en el Periódico Oficial del Gobierno del Estado de fecha 8 de septiembre de 1995.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las bases de estos planes y programas a que se refiere el artículo 25 de la presente Ley, se establecerán en el programa de ordenamiento ecológico de acuerdo con los plazos y formas que se establezcan en el reglamento respectivo, pero su elaboración y puesta en vigor no podrá exceder de 360 días naturales.
+
+###### ARTÍCULO OCTAVO
+
+En lo relativo a la regulación, vigilancia y sanciones de descargas de aguas residuales a los sistemas de alcantarillado sanitario pasarán a formar parte de las funciones del área ecológica municipal, una vez que forme parte de la administración pública municipal, el organismo operador de dichos sistemas.
+
+###### ARTÍCULO NOVENO
+
+Los reglamentos de esta Ley deberán ser expedidas dentro de los doscientos diez días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO DÉCIMO
+
+Hasta en tanto no se decrete la creación de la Secretaría, la Dirección General de Ecología, continuará aplicando la presente Ley.
+
+ARTÍCULO DÉCIMOPRIMERO: El Consejo emitirá la convocatoria para constituir el Consejo Consultivo, a más tardar ciento veinte días naturales después de que entre en vigor la presente Ley.
+
+ARTÍCULO DÉCIMOSEGUNDO: Hasta en tanto no se integre el Consejo Estatal de Protección al Ambiente, seguirá en funciones el Consejo Estatal de Ecología.
+
+ARTÍCULO DÉCIMOTERCERO: Las dependencias y entidades de la Administración Pública Estatal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con el objeto de la presente Ley, ajustarán su ejercicio a los criterios que para preservar el equilibrio ecológico, aprovechar sustentablemente los recursos naturales y proteger el ambiente, se incluyen en ella, así como las disposiciones de los reglamentos, normas ambientales y programas de ordenamiento ecológico y demás normatividad que de la misma se derive.
