@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1962-05-23"
+last_updated: "1962-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
+
+DECRETO No. 257
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -407,7 +409,9 @@ El Congreso tendrá dos períodos de sesiones ordinarios cada año: El primero i
 
 Durante el primer período de sesiones, el Congreso se ocupará de los asuntos siguientes:
 
-I. De examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del 28 de febrero de cada año; así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación le será presentada por el Tesorero General por conducto del Ejecutivo para la fecha antes indicada; declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los Presupuestos y leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
+
+I. De examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo en el período comprendido entre el 20 de diciembre de 1962 y el 31 de enero de 1963; así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación le será presentada por el Tesorero General por conducto del Ejecutivo para la fecha antes indicada; declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los Presupuestos y leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
 
 II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
@@ -943,9 +947,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1957)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
 
-XXXIII.- Concurrir a la apertura de los periodos de Sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los Ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta, en Sesión Pública Extraordinaria del Congreso, el día 4 de febrero de cada año.
+XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los Ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero el actual Gobernador Constitucional del Estado, deberá rendir su informe completo de ésta el día 30 de enero de 1963. Para ese efecto el Congreso convocará a Sesión Solemne Extraordinaria.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1146,8 +1150,6 @@ Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o 
 ###### Art. 114.
 
 Son atribuciones del Supremo Tribunal de Justicia.
-
-I. Conocer en primera instancia de las controversias que se susciten sobre cumplimientos de contratos celebrados por particulares con los Ayuntamientos o con el Estado.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1814,5 +1816,17 @@ P.O. 21 DE OCTUBRE DE 1961.
 TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos el mismo día en que entre en vigor el nuevo Código de Procedimientos Civiles del Estado, aprobado por Decreto Número 381, de fecha 21 de noviembre de 1960 y publicado en el Periódico Oficial No. 79, de fecha 4 del presente mes.
 
 P.O. 23 DE MAYO DE 1962.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1962.
+
+DECRETO No. 251.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1962
+
+DECRETO No. 257
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
