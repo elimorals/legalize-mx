@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-540"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1956-12-31"
-last_updated: "1993-12-22"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1956-12-29"
 ---
 # LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DEL DERECHO DE AUTOR, PUBLICADA EN EL D.O.F. DE 24 DE DICIEMBRE DE 1996, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 1996 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 31 de diciembre de 1956.
 
@@ -2010,3 +2010,27 @@ SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Códig
 TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY FEDERAL DEL DERECHO DE AUTOR”.]
+
+PRIMERO.- La presente Ley entrará en vigor a los noventa días siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Federal sobre el Derecho de Autor publicada en el Diario Oficial de la Federación el 29 de diciembre de 1956, sus reformas y adiciones publicadas en el Diario Oficial de la Federación el 21 de diciembre de 1963 y sus posteriores reformas y adiciones.
+
+TERCERO.- Las personas morales actualmente inscritas en el Registro Público del Derecho de Autor, que tienen el carácter de sociedades de autores o de artistas intérpretes o ejecutantes, podrán ajustar sus estatutos a lo previsto por la presente Ley en un término de sesenta días hábiles siguientes a su entrada en vigor.
+
+CUARTO.- Los recursos administrativos de reconsideración que se encuentren en trámite, a la entrada en vigor de esta Ley, se resolverán conforme a la Ley Federal de Derechos de Autor que se abroga.
+
+QUINTO.- Los procedimientos de avenencia iniciados bajo la vigencia de la Ley Federal de Derechos de Autor que se abroga, se sustanciarán de conformidad con la misma, excepto aquellos cuya notificación inicial no se haya efectuado al momento de entrada en vigor de la presente Ley, los cuales se sujetarán a ésta.
+
+SEXTO.- Las reservas de derechos otorgadas bajo la vigencia de la Ley Federal de Derechos de Autor que se abroga, continuarán en vigor en los términos señalados en la misma, pero la simple comprobación de uso de la reserva, cualquiera que sea su naturaleza, sujetará la misma a las disposiciones de la presente Ley.
+
+Las reservas de derechos previstas en la Ley Federal de Derechos de Autor que se abroga y que no se encuentren previstas en la presente Ley, quedarán insubsistentes una vez agotados los plazos de protección a los que se refiere la Ley abrogada.
+
+SEPTIMO.- Los recursos humanos con los que actualmente cuenta la Dirección General del Derecho de Autor, pasarán a formar parte del Instituto Nacional del Derecho de Autor. Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso serán afectados por las disposiciones contenidas en esta Ley.
+
+OCTAVO.- Los recursos financieros y materiales que están asignados a la Dirección General del Derecho de Autor serán reasignados al Instituto Nacional del Derecho de Autor, con la intervención de la Oficialía Mayor de la Secretaría de Educación Pública y de acuerdo a las disposiciones que al efecto dicte el Secretario de Educación Pública.
+
+NOVENO.- Dentro de los 30 días posteriores a la entrada en vigor de esta Ley, el Instituto expedirá la lista de árbitros y la tarifa del procedimiento arbitral, las que por esta única vez tendrán vigencia hasta el 31 de diciembre de 1997.
