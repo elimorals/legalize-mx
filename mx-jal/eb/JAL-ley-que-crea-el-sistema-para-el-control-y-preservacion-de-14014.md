@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-sistema-para-el-control-y-preservacion-de-14014
 country: "mx"
 rank: "ley"
 publication_date: "1990-04-21"
-last_updated: "1990-04-21"
+last_updated: "1990-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY QUE CREA EL SISTEMA PARA EL CONTROL Y PRESERVACION DE LA CALIDAD DE AGUA DE LA CUENCA LERMA-CHAPALA-SANTIAGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 1990 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA EL SISTEMA PARA EL CONTROL Y PRESERVACIÓN DE LA CALIDAD DEL AGUA DE LA CUENCA LERMA-CHAPALA-SANTIAGO, EN EL TERRITORIO DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 1990.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de abril de 1990.
 
@@ -147,8 +147,6 @@ En ausencia del Presidente del Consejo, las sesiones serán presididas por el re
 
 Los Municipios que forman parte de la cuenca, para efectos de lo que en esta Ley se dispone, son los siguientes: Chapala, El Salto, Ixtlahuacán de los Membrillos, Jamay, Jocotepec, Juanacatlán, La Barca, Ocotlán, Poncitlán, Tizapán el Alto, y Tuxcueca; San Martín de Bolaños, Hostotipaquillo, Tequila, Amatitán, El Arenal, San Cristóbal de la Barranca, Ixtlahuacán del Río, Zapopan, Guadalajara, Tonalá, Zapotlanejo y Tlajomulco de Zúñiga.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 1990 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Art. 9.
 
 ° Corresponde al Consejo de Administración:
@@ -169,7 +167,9 @@ VII. Formular y proponer al Ejecutivo del Estado los proyectos, las medidas nece
 
 VIII. Aprobar las cuotas y tarifas que habrán de cubrir los usuarios o beneficiarios del Sistema, así como presentarlas anualmente al Ejecutivo del Estado, para que eleve la iniciativa correspondiente al Congreso del Estado, para su aprobación, en su caso.
 
-IX. Autorizar al Presidente y al Director General para que celebren los actos jurídicos, que san (sic) necesarios, para la operación y mantenimiento de las instalaciones y equipo; y
+> <small>(F. DE E., P.O. 31 DE MAYO DE 1990)</small>
+
+IX. Autorizar al Presidente y al Director General para que celebren los actos jurídicos, que sean necesarios, para la operación y mantenimiento de las instalaciones y equipo; y
 
 X. En general, realizar todos aquellos actos que sean necesarios para el mejor cumplimiento de las funciones del sistema y el gobierno eficaz del organismo.
 
