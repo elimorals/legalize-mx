@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-antes-ley-del-2771"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-20"
-last_updated: "1992-12-13"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO -ANTES LEY DEL HOSPITAL HIDALGO-
 
-LEY DEL HOSPITAL HIDALGO
+LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 20 de diciembre de 1987.
 
@@ -37,225 +37,311 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 
 La H. LIII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente
 
-LEY DEL HOSPITAL HIDALGO
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 1o.
 
-Se crea el Hospital Miguel Hidalgo como un organismo del Poder Ejecutivo del Estado dependiente en lo técnico y operativo del Instituto de Salud del Estado de Aguascalientes, sujeto a las disposiciones del presente ordenamiento.
+Se crea el Centenario Hospital Miguel Hidalgo, como un organismo del Poder Ejecutivo del Estado de Aguascalientes, dependiente en lo técnico y operativo del Instituto de Salud del Estado de Aguascalientes, sujeto a las disposiciones del presente ordenamiento.
 
-Su domicilio será la ciudad de Aguascalientes.
+Su domicilio legal y operativo será la ciudad de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 2o.
 
-El Hospital Hidalgo tendrá por objeto:
+El Centenario Hospital Miguel Hidalgo tendrá por objeto:
 
 I.- Prestar atención médica a la población abierta que lo requiera, de acuerdo a las disposiciones de la Ley Estatal de Salud y de las políticas y programas del Instituto de Salud del Estado de Aguascalientes;
 
 II.- Desarrollar los programas de atención a usuarios, de conformidad con las normas, políticas y estrategias que establezcan en sus respectivos ámbitos de competencia el Ejecutivo Federal a través de la Secretaría de Salud y el Gobierno del Estado a través del Instituto de Salud del Estado de Aguascalientes;
 
-III.- Apoyar los programas de salud pública que determinen las autoridades del Gobierno del Estado y federales, formando parte del Sistema Regionalizado de Salud a la población abierta;
+III.- Apoyar los programas de salud pública que determinen las autoridades del Gobierno del Estado y Federales, formando parte del Sistema Regionalizado de Salud a la población abierta;
 
-IV.- Apoyar la formación y capacitación de recursos humanos para la salud, en coordinación con las autoridades de la Secretaría de Salud, del Instituto de Salud del Estado de Aguascalientes y de las autoridades educativas del Estado; y
+IV.- Apoyar la formación y capacitación de recursos humanos para la salud, en coordinación con las autoridades del Instituto de Salud del Estado de Aguascalientes y de la Secretaría de Salud, así como de las autoridades educativas del Estado;
 
-V.- Apoyar los programas de investigación en el campo de la salud, de acuerdo a las normas vigentes y a las políticas del Instituto de Salud del Estado de Aguascalientes.
+V.- Realizar investigación clínica, epidemiológica, experimental, de desarrollo tecnológico y básica, en las áreas biomédica y socio-médica, para la comprensión, prevención, diagnóstico y tratamiento y rehabilitación de los afectados por diversas enfermedades;
+
+VI.- Difundir los resultados de las investigaciones, trabajos que realice, información técnica y científica sobre los avances que en materia de salud registre;
+
+VII.- Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, celebrar convenios de coordinación, intercambio o cooperación con instituciones afines en coordinación con el Instituto de Salud del Estado de Aguascalientes;
+
+VIII.- Formular y ejecutar programas de estudios de especialidades médicas, cursos de capacitación y enseñanza, y actualización del personal profesional, técnico y auxiliar, en sus áreas, así como evaluar y reconocer el nivel de aprendizaje;
+
+IX.- Otorgar constancias, diplomas y reconocimientos, de conformidad con las disposiciones aplicables;
+
+X.- Prestar servicios de salud en aspectos preventivos, consulta externa, médico-quirúrgicos, de hospitalización, de rehabilitación, y de urgencias en sus diversas áreas de especialidad, a la población que lo requiera, hasta el límite de su capacidad instalada;
+
+XI.- Actuar como órgano de consulta técnica y normativa, de las dependencias y entidades de la administración pública estatal, en sus áreas de especialización, así como prestar asesorías a título oneroso a personas de derecho privado;
+
+XII.- Promover acciones para la protección de la salud, en lo relativo a los procedimientos propios de sus especialidades;
+
+XIII.- Diseñar y rediseñar métodos y técnicas de investigación científica relacionados con la salud;
+
+XIV.- Permitir la ejecución de encuestas del área de la salud pública, con fines de investigación;
+
+XV.- Coayuvar a la vigilancia epidemiológica de las enfermedades infecciosas y de otros problemas de salud en el Estado, de la región y de aquellas que puedan introducirse a la Nación y al Estado;
+
+XVI.- Contribuir al desarrollo de la tecnología diagnóstica apropiada a las necesidades del Estado y la Nación;
+
+XVII.- Complementar el sistema de referencia y contrareferencia de pacientes de especialidad, para su diagnóstico, tratamiento y rehabilitación; y
+
+XVIII.- Realizar las demás actividades que le corresponda conforme a la presente ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 3o.
 
-El Hospital estará integrado a los Sistemas Nacionales y Estatales de Salud.
+El Centenario Hospital Miguel Hidalgo estará integrado a los Sistemas Estatal, Regional y Nacional de Salud.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 4o.
 
-El Hospital será campo clínico para la enseñanza de las carreras que en el área de la salud sea proporcionada por Instituciones Educativas, de acuerdo con los convenios que se celebren en la materia.
+El Centenario Hospital Miguel Hidalgo será campo clínico para la enseñanza de las carreras que en el área de la salud sean proporcionadas por instituciones educativas, de acuerdo con los convenios que se celebren en la materia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 5o.
 
-El Hospital Hidalgo contará para el desempeño de sus funciones con:
+El Centenario Hospital Miguel Hidalgo contará para el desempeño de sus funciones con:
 
-I.- Los bienes muebles e inmuebles que le asignen los Gobiernos Federal y Estatal, así como la Universidad Autónoma de Aguascalientes;
+I.- Los bienes muebles e inmuebles y los derechos que le transfiera o haya transferido, los Gobiernos Federal y del Estado;
 
-II.- Las aportaciones o asignaciones que en su caso hagan los Gobiernos Federal y Estatal, las entidades o instituciones públicas y privadas y los particulares;
+II.- Las aportaciones o asignaciones presupuestales que en su caso hagan: Los gobiernos federal y estatal, las entidades o instituciones públicas y privadas, así como los particulares;
 
-III.- Los legados, donaciones, participaciones, fideicomisos y demás liberalidades que en su favor se constituyan;
+III.- Los legados, donaciones, participaciones, fideicomisos o demás liberalidades que a favor se constituyan;
 
 IV.- Las utilidades, rentas, dividendos y aprovechamientos que generen sus inversiones, bienes y operaciones;
 
-V.- Las cuotas que por sus servicios recaude; y
+V.- Los recursos autogenerados; y
 
-VI.- En general los demás bienes, derechos y recursos que adquiera por cualquier título legal.
+VI.- Los demás bienes, derechos y recursos que adquiera por cualquier título legal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 6o.
 
-El Hospital Miguel Hidalgo gozará de autonomía en su organización interna, en su funcionamiento y en el manejo de los recursos que les sean asignados, sin más limitaciones que las que provengan de las decisiones y de las políticas administrativas de sus órganos de gobierno y de las leyes aplicables.
+El Centenario Hospital Miguel Hidalgo gozará de autonomía en su organización interna, en su funcionamiento y en el manejo de los recursos que les sean asignados, sin más limitaciones que las que provengan de las políticas y decisiones administrativas del Instituto de Salud del Estado de Aguascalientes, de sus Organos de Gobierno y de las Leyes aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 6o Bis.
+
+Los ingresos del Centenario Hospital Miguel Hidalgo, derivados de los servicios, bienes o productos que preste o produzca serán destinados para atender las necesidades previamente presentadas por los directivos del Hospital y aceptadas por sus órganos de gobierno.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 6o Ter.
+
+El Centenario Hospital Miguel Hidalgo, contará con un sistema integral de profesionalización, regido por las normas que dicte el Instituto de Salud del Estado, que comprenderá cuando menos, catálogo de puestos, mecanismos de acceso y promociones, tabulador de sueldos, programa de desarrollo profesional y actualización permanente de su personal científico, tecnológico, académico, administrativo y de apoyo en general, así como las obligaciones e incentivos al desempeño y productividad.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 7o.
 
-Los órganos de gobierno del Hospital Hidalgo serán:
+Los órganos de gobierno del Centenario Hospital Miguel Hidalgo serán:
 
 I.- El Gobernador del Estado; y
 
-II.- La Dirección General del Instituto de Salud del Estado de Aguascalientes.
+II.- El Director General del Instituto de Salud del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 8o.
 
-El Hospital Hidalgo contará con una Junta de Gobierno, un Consejo Técnico y un Patronato como órganos auxiliares de asesoría y apoyo de la Dirección General.
+El Centenario Hospital Miguel Hidalgo contará con una Junta de Gobierno, un Consejo Técnico y un Patronato como órganos auxiliares de asesoría y apoyo de la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 9o.
 
-La Junta de Gobierno estará integrada por el Director General del Instituto de Salud del Estado de Aguascalientes, quien fungirá como Presidente, un representante del Gobierno del Estado, el Rector de la Universidad Autónoma de Aguascalientes y cuatro vocales nombrados por el Gobernador del Estado.
+La Junta de Gobierno estará integrada por el Director General del Instituto de Salud, quien fungirá como presidente, un representante del Gobierno del Estado, el Rector de la Universidad Autónoma de Aguascalientes, así como cuatro vocales nombrados por el Director General del Instituto de Salud del Estado, a propuesta del Colegio de Médicos, quienes serán personas ajenas laboralmente al Instituto y de reconocida calidad moral, méritos, prestigio y experiencia en alguna especialidad médica.
 
-Cada miembro titular designará a quien lo supla en sus ausencias.
+Cada miembro titular designará a quien le supla en sus ausencias.
 
 Los miembros de la Junta de Gobierno desempeñarán sus cargos con carácter honorífico y por lo tanto, sin retribución o compensación alguna.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I.- Conocer y emitir recomendaciones sobre el programa de trabajo, presupuesto, informes y estados financieros del Hospital que proponga o elabore el Director General;
+I.- Conocer y emitir recomendaciones sobre el programa de trabajo, presupuesto, informes y estados financieros del Centenario Hospital Miguel Hidalgo, que proponga o elabore el Director;
 
-II.- Analizar y opinar sobre el Estatuto Orgánico y los Manuales de Organización, de Procedimientos y de Servicios del Hospital.
+II.- Analizar y opinar sobre el estatuto orgánico y los manuales de organización, de procedimientos y de servicios del Centenario Hospital Miguel Hidalgo;
 
-III.- Opinar sobre el ajuste de las cuotas de recuperación por los servicios que preste el Hospital;
+III.- Opinar sobre el ajuste de las cuotas de recuperación por los servicios que preste el Centenario Hospital Miguel Hidalgo;
 
-IV.- Analizar y sugerir sobre la estructura orgánica del Hospital y las modificaciones que a la misma procedan;
+IV.- Analizar y sugerir sobre la estructura orgánica del Centenario Hospital Miguel Hidalgo y las modificaciones que a la misma procedan;
 
 V.- Sugerir la creación de comités de apoyo;
 
-VI.- Conocer y opinar en relación a los cambios en la Dirección General del Hospital, previa consulta con los órganos de gobierno del mismo; y
+VI.- Conocer y opinar en relación a los cambios en la Dirección del Centenario Hospital Miguel Hidalgo, previa consulta con los órganos de gobierno;
 
-VII.- Las demás que le sean delegadas por los órganos de gobierno y que fueren necesarias para el ejercicio de las facultades anteriores.
+VII.- Las demás que le sean delegadas por los órganos de gobierno y que fueren necesarias para el ejercicio de las facultades anteriores;
+
+VIII.- Designar, promover y remover, a propuesta del director, al subdirector médico y al administrador del Centenario Hospital Miguel Hidalgo;
+
+IX.- Fijar los lineamientos que se deberán sujetar los convenios, contratos y demás actos jurídicos que se celebren con dependencias federales y estatales, así como organismos de los sectores social y privado;
+
+X.- Establecer los lineamientos para la aplicación de los recursos autogenerados;
+
+XI.- Autorizar el uso oneroso de espacios en las áreas e instalaciones del Centenario Hospital Miguel Hidalgo, que no sean de uso hospitalario;
+
+XII.- Establecer el sistema de profesionalización del personal del Centenario Hospital Miguel Hidalgo, con criterios orientados a la estabilidad y desarrollo para lo cual se considerarán los recursos previstos en el presupuesto;
+
+XIII.- Determinar las reglas y los porcentajes conforme a los cuales el personal que participe en los proyectos de investigación, podrá beneficiarse de los recursos generados por el proyecto, así como los períodos del disfrute de regalías que resulten de aplicar o explotar derechos de propiedad industrial o intelectual, que deriven de proyectos realizados en el Centenario Hospital Miguel Hidalgo;
+
+XIV.- Aprobar, a propuesta del director, el trámite para modificar o imponer nombres de médicos o benefactores a instalaciones y áreas del Centenario Hospital Miguel Hidalgo; y
+
+XV.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 11.
 
-La Junta de Gobierno celebrará como mínimo cuatro sesiones ordinarias al año y las extraordinarias que proponga su Presidente o tres de sus miembros.
+La Junta de Gobierno celebrará como mínimo cuatro sesiones ordinarias al año, y las extraordinarias que propongan su presidente o tres de sus miembros. La Junta sesionará válidamente con la asistencia de por lo menos la mitad más uno de los miembros; los acuerdos se tomarán por mayoría de votos de los miembros presentes y el presidente tendrá voto de calidad en caso de empate.
 
-La Junta sesionará válidamente con la asistencia de por lo menos la mitad más uno de los miembros; los acuerdos se tomarán por mayoría de votos de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
+La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación, docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 12.
 
-El Director General será nombrado y removido por el Gobernador del Estado.
+El Director del Centenario Hospital Miguel Hidalgo será designado por la Junta de Gobierno de una terna que deberá presentar el Director General del Instituto de Salud del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 13.
 
-El Director General será mexicano por nacimiento, con título profesional de Médico Cirujano, expedido cinco años antes de su designación y con experiencia en dirección y administración de hospitales.
+El nombramiento del Director del Centenario Hospital Miguel Hidalgo, procederá siempre y cuando la persona reúna los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Ser médico cirujano, con alguna especialidad, y con experiencia en dirección y administración de hospitales;
+
+III.- Contar con amplia experiencia en las áreas médica y académica, así como una trayectoria reconocida; y
+
+IV.- No haber sido sentenciado por delitos patrimoniales, ni haber sido inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 14.
 
 Los órganos de gobierno tendrán las siguientes facultades:
 
-I.- Administrar el Hospital de acuerdo a las políticas administrativas y reglamentarias del Instituto de Salud del Estado de Aguascalientes;
+I.- Administrar el Centenario Hospital Miguel Hidalgo, de acuerdo a las políticas de administración y reglamentarias del Instituto de Salud del Estado de Aguascalientes;
 
-II.- Presentar para su conocimiento a la Junta de Gobierno, los planes de labores, presupuestos, informes de utilidades y estados financieros del Hospital;
+II.- Presentar para su conocimiento a la junta de gobierno, los planes de labores, presupuestos, informes de utilidades y estados financieros del Centenario Hospital Miguel Hidalgo;
 
-III.- Autorizar de conformidad con las disposiciones legales y reglamentarias aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos y acuerdos que deba celebrar el Hospital con terceros, respecto a obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+III.- Autorizar de conformidad con las disposiciones legales y reglamentarias aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos y acuerdos que deba celebrar el Centenario Hospital Miguel Hidalgo con terceros, respecto a obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
 
-IV.- Celebrar convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento del objeto del Hospital;
+IV.- Celebrar convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento del objetivo del Centenario Hospital Miguel Hidalgo;
 
 V.- Fijar los lineamientos a que se deberán sujetar los convenios, contratos y demás actos jurídicos que se celebren con dependencias y entidades federales y estatales, así como organismos de los sectores social y privado;
 
 VI.- Informar a la Junta de Gobierno sobre los proyectos de inversión;
 
-VII.- Dar a conocer a la Junta de Gobierno los informes, dictámenes y recomendaciones del Auditor Externo, así como los informes y estados financieros bimestrales del Hospital;
+VII.- Dar a conocer a la junta de gobierno los informes, dictámenes y recomendaciones del Auditor Externo; así como los informes y estados financieros bimestrales del Centenario Hospital Miguel Hidalgo;
 
 VIII.- Aplicar y vigilar la correcta ejecución del gasto presupuestal autorizado;
 
-IX.- Planear, dirigir, organizar y evaluar el desarrollo de los programas del Hospital;
+IX.- Planear, dirigir, organizar y evaluar el desarrollo de los programas del Centenario Hospital Miguel Hidalgo;
 
 X.- Fomentar la investigación científica y la función docente;
 
-XI.- Presidir las reuniones científicas que se realicen dentro del Hospital;
+XI.- Presidir las reuniones científicas que se realicen dentro del Centenario Hospital Miguel Hidalgo;
 
 XII.- Promover y fomentar las relaciones científicas con otras instituciones hospitalarias, sociedades médicas y las instituciones educativas que impartan conocimientos en el área de la salud;
 
-XIII.- Presidir el Consejo Técnico del Hospital;
+XIII.- Presidir el Consejo Técnico del Centenario Hospital Miguel Hidalgo;
 
-XIV.- Proponer para su autorización a la Junta de Gobierno a los integrantes de las Comisiones de Investigación, Etica y Bioseguridad a que se refiere el Título Sexto de la Ley de Salud del Estado de Aguascalientes;
+XIV.- Proponer para su autorización a la junta de gobierno a los integrantes de las comisiones de investigación, ética, y bioseguridad, a que se refiere el Título Sexto de la Ley de Salud del Estado de Aguascalientes;
 
-XV.- Proponer para su autorización a la Junta de Gobierno, el nombramiento del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales y a las políticas administrativas del Instituto de Salud del Estado de Aguascalientes; y
+XV.- Proponer para su autorización a la junta de gobierno, el nombramiento del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales y a las políticas administrativas del Instituto de Salud del Estado de Aguascalientes;
 
 XVI.- Las demás que sean necesarias para el desempeño de las anteriores.
 
 Los órganos de gobierno podrán delegar en forma total o parcial las facultades anteriores.
 
-El Director General del Hospital tendrá las facultades que le sean delegadas por los órganos de gobierno del mismo.
+El Director del Centenario Hospital Miguel Hidalgo, tendrá las facultades que le sean delegadas por los órganos de gobierno del mismo.
 
-Las Jefaturas de Enseñanza y Anatomía Patológica, serán nombradas por los órganos de gobierno, de una terna propuesta por la Universidad Autónoma de Aguascalientes.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 15.
 
-El Auditor Externo es el órgano de vigilancia del Hospital, será nombrado por la Contraloría General del Gobierno del Estado y tendrá las siguientes atribuciones:
+El auditor externo será nombrado por los órganos de gobierno y ratificado por el Consejo Interno del Instituto de Salud del Estado de Aguascalientes, y tendrá las siguientes atribuciones:
 
 I.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
 
-II.- Recomendar a los órganos de gobierno del Hospital Hidalgo las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Hospital; y
+II.- Recomendar a los órganos de gobierno del Centenario Hospital Miguel Hidalgo, las medidas preventivas y correctivas que sean convenientes para la mejora del hospital; y
 
-III.- Asistir a las sesiones de la Junta de Gobierno con carácter informativo, con voz pero sin voto.
+III.- Asistir a las sesiones de la junta de gobierno con carácter informativo, con voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 16.
 
-El patronato que se forme como órgano de consulta y de participación de la comunidad estará integrado por las personas elegidas por el Gobernador del Estado entre personalidades representativas de la industria, la banca y el comercio de la ciudad.
+El patronato que se forme como órgano de consulta y de participación de la comunidad, estará integrado por las personas elegidas por la Junta de Gobierno, entre personas de reconocida honorabilidad del sector social, privado o de la comunidad en general, con vocación de servicio, las cuales podrán ser propuestas por el Director General del Instituto de Salud del Estado. Los cargos de los miembros del Patronato serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna. La Junta de Gobierno podrá establecer reconocimientos, no económicos, para los miembros del Patronato cuya labor sea relevante.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 17.
 
 El Patronato tendrá como atribuciones las siguientes:
 
-I.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Hospital y el cabal cumplimiento de su objeto;
+I.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Centenario Hospital Miguel Hidalgo y el cabal cumplimiento de su objetivo;
 
-II.- Apoyar las actividades del Hospital y formular sugerencias tendientes a su mejoramiento; y
+II.- Apoyar las actividades del Centenario Hospital Miguel Hidalgo y formular sugerencias tendientes a su mejoramiento; y
 
-III.- Las demás que le sean necesarias para el desempeño de las anteriores atribuciones.
+III.- Las demás que le sean necesarias para el desempeño de las atribuciones anteriores.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 18.
 
-La Dirección General del Hospital tendrá como Organo de Asesoría a un Consejo Técnico, integrado por el Decano del Centro Biomédico de la Universidad Autónoma de Aguascalientes, representantes de otras instituciones del área de la salud, el Subdirector Médico del Hospital, los Jefes de los Departamentos Médicos y el Jefe de uno de los Servicios Auxiliares de Diagnóstico y Tratamiento. Será presidido por el Director General del Hospital.
+La Dirección del Centenario Hospital Miguel Hidalgo tendrá como órgano de asesoría a un Consejo Técnico integrado por el Decano del Centro de Ciencias Biomédicas de la Universidad Autónoma de Aguascalientes y representantes de otras instituciones de educación superior en el área médica, el o los subdirectores médicos, subdirector administrativo, jefes de departamento y representantes del área de diagnóstico y será presidido por el Director del Centenario Hospital Miguel Hidalgo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 19.
 
 El Consejo Técnico no tendrá facultades ejecutivas y se limitará a dar opinión sobre los asuntos concernientes al funcionamiento, desde el punto de vista técnico, médico y docente, que se sometan a su consideración.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 20.
 
-Los gastos correspondientes a la operación del Hospital se cubrirán con sus ingresos de acuerdo a las políticas administrativas aprobadas por los órganos de gobierno.
+Los gastos correspondientes a la operación del Centenario Hospital Miguel Hidalgo, se cubrirán con las aportaciones, federales, estatales y sus ingresos propios, de acuerdo a las políticas administrativas del Instituto de Salud del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 21.
 
-La Secretaría de Finanzas tendrá amplias facultades de control respecto de la administración de los fondos que ingresen al Hospital.
+El Instituto de Salud del Estado de Aguascalientes, tendrá amplias facultades de control respecto de la administración de los fondos que ingresen al Centenario Hospital Miguel Hidalgo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 22.
 
-El Gobierno Federal tendrá amplias facultades de control y fiscalización respecto del manejo de fondos que le destine al Hospital, de acuerdo a las disposiciones legales vigentes.
+El Gobierno Federal y Estatal, tendrán amplias facultades de control y fiscalización respecto del manejo de fondos que le destine al Centenario Hospital Miguel Hidalgo, de acuerdo a las disposiciones legales vigentes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 23.
 
-El personal del Hospital estará sujeto al régimen laboral que tienen los trabajadores al servicio del Gobierno del Estado de Aguascalientes.
+El personal adscrito al Centenario Hospital Miguel Hidalgo, estará sujeto al régimen laboral que tienen los trabajadores al servicio del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 24.
 
-En el Estatuto Orgánico del Hospital se fijarán todas las cuestiones relativas a la organización y funcionamiento interno del Hospital que no se encuentren previstas en este Ordenamiento.
+En el organigrama, se fijarán todas las cuestiones relativas a la organización y funcionamiento interno del Centenario Hospital Miguel Hidalgo que no se encuentren previstas en este Ordenamiento.
 
 ## TRANSITORIOS
 
@@ -330,3 +416,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor a los 30 días siguientes, al de su publicación en el Periódico Oficial del Estado.
