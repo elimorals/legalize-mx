@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2002-08-24"
+last_updated: "2004-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -799,9 +799,9 @@ Ese mismo carácter tendrán las resoluciones del Congreso del Estado erigido en
 
 Los diputados electos que cuenten con su constancia de mayoría y validez expedida por el Instituto Estatal Electoral o resolución a su favor del Tribunal Estatal Electoral, concurrirán a la instalación de la Legislatura del Estado de conformidad con lo dispuesto en el artículo 47 de esta Constitución y la Ley Orgánica del propio Congreso.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2004)</small>
 
-Para tal efecto, deberán presentar dentro de los días siete a nueve de Noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia, para su registro, se de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo el día trece de Noviembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretario en los términos de la Ley Orgánica y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
+Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2002)</small>
 
@@ -941,7 +941,9 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 Son facultades de la Legislatura:
 
-I. Dictar leyes para la administración del Gobierno interior del Estado, en todos los ramos; interpretarlas, aclararlas, reformarlas y derogarlas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
+
+I. Dictar leyes para la administración del Gobierno interior del Estado, en todos los ramos; interpretarlas, aclararlas en el ámbito de sus funciones, reformarlas, derogarlas y abrogarlas;
 
 II. Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 
@@ -1185,17 +1187,21 @@ LXI. Legislar sobre seguridad social y medio ambiente, procurando la superación
 
 LXII. Legislar en materia de seguridad pública, en los términos del Artículo 21 de la Constitución General de la República, así como en materia de protección civil;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
 
-LXIII. Decretar amnistías cuando se trate de delitos de la competencia de los tribunales del Estado;
+LXIII. Legislar en materia de turismo en los términos de la fracción XXIX-K del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y leyes de carácter federal;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
 
-LXIV. Autorizar el Plan Estatal de Desarrollo;
+LXIV. Decretar amnistías cuando se trate de delitos de la competencia de los tribunales del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
 
-LXV. Todas las demás que le confiera esta Constitución y las leyes reglamentarias.
+LXV. Autorizar el Plan Estatal de Desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MARZO DE 2004)</small>
+
+LXVI. Todas las demás que le confiera esta Constitución y las leyes reglamentarias.
 
 ###### ARTICULO 60.
 
@@ -2882,6 +2888,24 @@ UNICO. El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 24 DE AGOSTO DE 2002.
 
 UNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2004.
+
+DECRETO NO. 419 QUE REFORMA EL ART. 41 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2004.
+
+DECRETO NO. 420 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del de Oaxaca.
+
+P.O. 20 DE MARZO DE 2004.
+
+DECRETO NO. 421 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
