@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-rehabilitacion-y-reintegracion-social-de-personas-6365"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "1995-10-13"
+last_updated: "2000-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCION Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 13 de octubre de 1995.
 
@@ -55,27 +55,77 @@ La presente Ley tiene su fundamento en los artículos 106 de la Constitución Po
 
 Las disposiciones de esta Ley se aplicarán sin perjuicio de las contenidas en otras leyes sobre cuestiones específicas que se relacionan con las materias que regula este ordenamiento.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 5.
 
-El Estado promoverá el establecimiento de instituciones ya sea del sector social o privado, que proporcionen el servicio de rehabilitación y reintegración de drogadictos y alcohólicos, llevándolo hasta las comunidades marginadas a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Baja California.
+El Poder Ejecutivo del Estado apoyará el establecimiento de instituciones del sector social o privado, que proporcionen servicios de rehabilitación y reintegración de drogadictos y alcohólicos, llevándolo hasta las comunidades marginadas a través de las acciones, programas o mecanismos que impulsen u opere el Instituto de Servicios de Salud Pública del Estado de Baja California.
 
 ## TITULO II
 
 ### CAPITULO I. DEL ORGANO DE COORDINACION
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 6.
 
-El Estado por conducto del Sistema para el Desarrollo Integral de la Familia de Baja California, creará una Comisión Interdisciplinaria, integrada por un presidente, un secretario y los vocales necesarios, quienes serán profesionales de la rama de la medicina, psicología, trabajo social y educación, procurando incluirse a profesionales rehabilitados que reúnan en igualdad de circunstancias los requisitos señalados.
+El Poder Ejecutivo del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California, establecerá una Comisión Interdisciplinaria, integrada por un Presidente, un Secretario y los vocales necesarios, quienes serán preferentemente profesionales en medicina, psicología, trabajo social y educación o personas dedicadas a esta tarea, debiendo incluir a los representantes de las instituciones reconocidas en la entidad del sector social o privado ocupadas de la rehabilitación.
+
+Para la integración de la Comisión Interdisciplinaria, el Poder Ejecutivo del Estado cuidará que la representación social o privada no exceda de la mitad mas uno de los miembros de la Comisión.
+
+La presente Comisión Interdisciplinaria se integrará de la siguiente forma:
+
+1.- Presidente..............................................................................................Gobierno
+
+2.- Secretario...............................................................................................Gobierno
+
+3.- Jurisdicción Sanitaria Mexicali...............................................................Gobierno
+
+4.- Jurisdicción Sanitaria Tijuana................................................................Gobierno
+
+5.- Jurisdicción Sanitaria Tijuana................................................................Gobierno
+
+6.- Jurisdicción Sanitaria Ensenada............................................................Gobierno
+
+7.- Secretaría de Planeación y Finanzas....................................................Gobierno
+
+8.- Secretaría de Desarrollo Social.............................................................Gobierno
+
+9.- Sistema Estatal para el Desarrollo Integral de la Familia......................Gobierno
+
+10.- Presidente de la Federación Médica.......................................................Ong´s
+
+11.- Representante de Centros de Rehabilitación Mexicali............................Ong´s
+
+12.- Representante de Centros de Rehabilitación Mexicali............................Ong´s
+
+13.- Representante de Centros de Rehabilitación Tijuana.............................Ong´s
+
+14.- Representante de Centros de Rehabilitación Tijuana.............................Ong´s
+
+15.- Representante de Centros de Rehabilitación de Tecate........................Ong´s
+
+16.- Representante de Centros de Rehabilitación de Playas de Rosarito.....Ong´s
+
+17.- Representante de Centros de Rehabilitación Ensenada........................Ong´s
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 7.
 
-El Organismo a que se refiere el artículo que antecede tendrá como funciones las siguientes:
+La Comisión Interdisciplinaria tendrá las siguientes funciones:
 
-I.- Otorgar la autorización para la creación de Centros de Rehabilitación del sector público o privado.
+I.- Promover y mantener el registro de las instituciones del sector social o privado que operen Centros de Rehabilitación velando por la observancia de los programas y lineamientos del Sistema Estatal de Salud;
 
-II.- Asignar los subsidios que éstos requieran y vigilar el uso de los recursos entregados.
+II.- Determinar y distribuir la asignación de los recursos o subsidios que requieran las instituciones que cumplan con lo dispuesto por la fracción I de este artículo, vigilando su destino y aplicación mediante visitas e inspecciones o por medio de las constancias documentales que lo acrediten;
 
-III.- Vigilar que las Instituciones existentes, adopten las disposiciones que contiene esta ley.
+III.- Revocar, previa oportunidad de defensa de las Instituciones de rehabilitación y reintegración la resolución de asignación de recursos o subsidios otorgados, cuando no cumplan con las disposiciones de la Ley,
+
+IV.- Solicitar la cancelación del registro, previa audiencia de las instituciones de rehabilitación y reintegración, cuando no cumplan con las disposiciones de la Ley; y
+
+V.- Las demás establecidas en otras disposiciones legales.
+
+La administración de los recursos y subsidios que asigne o promueva el Instituto de Salud Pública para instituciones del sector social o privado, se sujetarán a lo dispuesto por la fracción XII del Artículo 27 de la Constitución Política del Estado Libre y Soberano de Baja California, así como a las disposiciones de la Ley de Fiscalización de las Cuentas Públicas del Estado, en lo que resulte aplicable.
 
 ###### ARTICULO 8.
 
@@ -232,3 +282,23 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ENERO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+El Instituto de Servicios de Salud Pública del Estado de Baja California, contará con un plazo de 30 días para formar la Comisión Interdisciplinaria a que se refiere el Artículo 6 de esta Ley, una vez constituido contará con un plazo de 60 días para proceder a formular su reglamentación, estructuración, implantación, operación y funcionamiento de sus programas.
+
+###### ARTICULO TERCERO.
+
+En un plazo de 20 días hábiles el Sistema Estatal para el Desarrollo Integral de la Familia por conducto del Gobernador del Estado, en un acto de entrega-recepción, informará y turnará los asuntos que en ejercicio de esta ley, se hayan efectuado o estén pendientes de realizarse al Instituto de Servicios de Salud del Estado de Baja California.
+
+###### ARTICULO CUARTO.
+
+Las autorizaciones otorgadas a que refiere el Artículo 6, continuarán vigentes hasta el tiempo de su expiración sujetándose a las prevenciones del presente Decreto.
