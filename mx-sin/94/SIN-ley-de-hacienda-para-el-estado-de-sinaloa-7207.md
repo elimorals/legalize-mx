@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1986-01-24"
+last_updated: "1986-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1986.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1715,7 +1715,7 @@ Son solidariamente responsables del pago de este impuesto los enajenantes y las 
 
 ### CAPITULO IX. ART. 157.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-ART. 158.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+ART. 158.-(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
 ART. 159.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
@@ -2880,6 +2880,10 @@ b).- Por los informes o certificaciones que soliciten el Gobierno Federal o las 
 c).- Por los informes que se soliciten para asuntos penales o para juicios de amparo;
 
 d).- En los casos de las inscripciones preventivas a que se refiere el Art. 2899 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1986)</small>
+
+e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del Registro Público.
 
 ART. 315.- Los servicios que se presten en el Registro Público de Comercio causarán derechos fiscales de acuerdo con las (sic) siguiente:
 
@@ -5228,3 +5232,9 @@ P.O. 24 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE ENERO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
