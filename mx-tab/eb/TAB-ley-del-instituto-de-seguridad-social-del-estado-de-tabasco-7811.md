@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-de-seguridad-social-del-estado-de-tabasco-781
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-01"
-last_updated: "1987-12-19"
+last_updated: "1991-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1984.
 
@@ -1035,11 +1035,11 @@ más de 5 años 6 meses
 
 Los jubilados y pensionados gozarán de estos beneficios conforme a los acuerdos generales de la Junta Directiva.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 110.
 
-Los préstamos a corto plazo causarán un interés del 16% anual, calculado sobre el capital.
+Los préstamos a corto plazo causarán un interés del 14% anual, calculado sobre el capital.
 
 ###### ARTICULO 111.
 
@@ -1075,9 +1075,13 @@ III.- Mejoras o reparaciones de la casa habitación del beneficiado;
 
 IV.- Liquidación de gravámenes que afecten el inmueble.
 
-(DEROGADO PENULTIMO PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)(F. DE E., 13 DE FEBRERO DE 1988)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ENERO DE 1991)</small>
 
-Los jubilados y pensionados gozarán de los beneficios que establece este artículo de acuerdo con los lineamientos que dicte la Junta Directiva.
+Cuando el préstamos (sic) hipotecario no exceda de $3'000,000.00 el acreditado no necesita justificar el destino del préstamo se formalizará en los términos previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1991)</small>
+
+Los jubilados y pensionados gozarán de los beneficios que establece este Artículo, de acuerdo con los lineamientos que dicte la Junta Directiva.
 
 ###### ARTICULO 116.
 
@@ -1091,11 +1095,11 @@ Las cantidades que se autoricen no deberán exceder del monto establecido en el 
 
 El préstamo no excederá del 90% del avalúo Bancario solicitado por el Instituto, cuando se trate de adquisición de inmuebles o demás actos relacionados con ellos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 119.
 
-Los préstamos hipotecarios que se otorguen, causarán el 20% del interés anual sobre saldos insolutos. El fondo de garantía será de 1 al millar sobre el capital insoluto y tendrá por objetivo liquidar y cancelar el adeudo en caso de fallecimiento del asegurado en beneficio de sus familiares o la persona con mayor derecho.
+Los préstamos hipotecarios que se otorguen causarán el 18% del interés anual sobre saldos insolutos. El fondo de garantía será de 1 al millar sobre el capital insoluto y tendrá por objetivo liquidar y cancelar el adeudo en caso de fallecimiento del asegurado, en beneficio de sus familiares o la persona con mayor derecho.
 
 ###### ARTICULO 120.
 
@@ -1302,3 +1306,7 @@ P.O. 19 DE DICIEMBRE DE 1987.
 PRIMERO.- Este DECRETO entrará en vigor a los tres días de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan las disposiciones del presente DECRETO.
+
+P.O. 2 DE ENERO DE 1991.
+
+UNICO.- Este Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
