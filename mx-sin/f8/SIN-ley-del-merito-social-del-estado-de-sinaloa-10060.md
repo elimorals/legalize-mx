@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-merito-social-del-estado-de-sinaloa-10060"
 country: "mx"
 rank: "ley"
 publication_date: "1961-04-29"
-last_updated: "1961-04-29"
+last_updated: "1980-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL MERITO SOCIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 1980.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el sábado 29 de abril de 1961.
 
@@ -41,27 +41,49 @@ Ley del Mérito Social del Estado de Sinaloa
 
 Se crea en el Estado de Sinaloa, una condecoración civil que se denominará AL MERITO SOCIAL, por la cuál se haga patente la admiración y el agradecimiento público a las personas hijas del Estado o residentes en él, que a juicio del Jurado que se establezca, sean acreedoras por sus obras o hechos de reconocido mérito en las tareas del arte, del civismo o del amor a la colectividad.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1980)</small>
+
 ###### Artículo 2o.
 
-La condecoración al MERITO SOCIAL se patentizará por medio de tres medallas que llevarán por nombre, la primera: BERNARDO DE BALBUENA, dedicada a premiar el mérito artístico o literario, la segunda se llamará: ANTONIO ROSALES, para premiar al mérito cívico en cualquiera de sus aspectos y la tercera AGUSTINA RAMIREZ, como recompensa de actos de heroísmo. Las Tres medallas anteriores serán exclusivamente de primer grado.
+La condecoración al MERITO SOCIAL se patentizará por medio de tres medallas que llevarán por nombre, la primera BERNARDO DE BALBUENA, dedicada a premiar al mérito artístico, literario o científico; la segunda se denominará ANTONIO ROSALES, para premiar al mérito cívico en cualquiera de sus aspectos y la tercera AGUSTINA RAMIREZ, como recompensa a actos de heroísmo.
+
+Para los fines anteriores, las tres medallas serán de primer grado, en la inteligencia de que la última podrá otorgarse también en segundo grado, en los términos y para los efectos a que se refieren los Artículos 3o. Bis 1 y 3o. Bis 2 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1980)</small>
 
 ###### Artículo 3o.
 
-La medalla o insignia consistirá en un disco de oro de tres y medio centímetros de diámetro y tres milímetros de espesor, en la cuál resaltarán respectivamente en el anverso las efigies de BERNARDO DE BALBUENA, ANTONIO ROSALES y en la de AGUSTINA RAMIREZ un símbolo de maternidad; y en el reverso las tres medallas llevarán grabado el escudo de Sinaloa.
+La medalla de primer grado consistirá en un disco de oro de tres y medio centímetros de diámetro y tres milímetros de espesor, en la cual resaltarán respectivamente en el anverso las efigies de BERNARDO DE BALBUENA, ANTONIO ROSALES y en la de AGUSTINA RAMÍREZ un símbolo de maternidad; y en el reverso las tres medallas llevarán grabado el escudo de Sinaloa.
+
+Al pie de la medalla se grabará el nombre del galardonado y la fecha de concesión del premio. Se anexará una copia del acta del Jurado en la que se acuerde el otorgamiento de la presea.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1980)</small>
+
+###### Artículo 3o. Bis 1.
+
+La medalla AGUSTINA RAMÍREZ en segundo grado se otorgará a las mujeres hijas del Estado o residentes en el que de manera relevante se distingan en el jercicio (sic) de la función pública, en la actividad desarrollada en los partidos políticos o, en general, en la realización de obras en bien de la comunidad.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1980)</small>
+
+###### Artículo 3o. Bis 2.
+
+La medalla señalada en el artículo que antecede consistirá en un disco de oro de tres y medio centímetros de diámetro y tres milímetros de espesor, en cuyo anverso resaltará la efigie de AGUSTINA RAMIREZ y en su reverso el Escudo de Sinaloa.
+
+Es aplicable al caso lo previsto en el segundo párrafo del Artículo 3o. de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1980)</small>
 
 ###### Artículo 4o.
 
 Se constituye un Jurado para el estudio y decisión en cada caso del otorgamiento de la condecoración de que se trate el que estará compuesto de los siguientes elementos:
 
-a).- Por el Rector de la Universidad de Sinaloa, que fungirá como Presidente,
+a).- Por el Director de Educación Pública del Gobierno del Estado, que fungirá como Presidente.
 
-b).- Por el Director del Trabajo y Acción Social del Gobierno de (sic) Estado, que fungirá como Secretario.
+b).- Por el Director de Prevención y Acción Social del Gobierno del Estado, como Secretario;
 
-c).- Por un representante del Honorable Congreso del Estado, que será Vocal.
+c).- Por un representante del Congreso del Estado, que será Vocal; y
 
-d).- Por un Erudito o Historiador que designe el C. Gobernador del Estado, que será también Vocal; y
-
-e).- Por un representante de la persona o personas que señalen el nombre del candidato al premio respectivo, el cual también será Vocal.
+d).- Por un erudito o historiador que designe el Gobernador del Estado, que será también Vocal.
 
 ###### Artículo 5o.
 
@@ -108,3 +130,11 @@ GRAL. DE DIV. GABRIEL LEYVA VELAZQUEZ
 El Secretario General de Gobierno
 
 LIC. ALEJANDRO BARRANTES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE FEBRERO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
