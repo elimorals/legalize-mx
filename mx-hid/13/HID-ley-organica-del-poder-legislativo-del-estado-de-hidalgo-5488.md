@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-5488"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1993-01-11"
+last_updated: "2004-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DEL PODER LEGISLATIVO PARA EL ESTADO DE HIDALGO
+LEY ORGANICA DEL PODER LEGISLATIVO PARA EL ESTADO DE HIDALGO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1993.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO PUBLICADA EN EL PERIODICO OFICIAL EL 10 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance No. 2 del Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1982
 
@@ -962,3 +964,111 @@ Se derogan las disposiciones que se opongan al contenido del presente Decreto.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO.- Se abroga la Ley Orgánica del Poder Legislativo, publicada en el Periódico Oficial del Estado de Hidalgo, el 08 de enero de 1982.
+
+CUARTO.- Se derogan las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- El Congreso del Estado, deberá expedir su Reglamento, dentro de los ciento veinte días naturales siguientes, contados a partir del inicio de la vigencia de la presente Ley.
+
+SEXTO.- A efecto de constituir los Grupos Legislativos señalados en los Artículos 93, 94 y 95 del presente Decreto, los Diputados integrantes de la LVIII Legislatura que correspondan a un mismo Partido Político, deberán presentar a la Directiva del Congreso un Acta en la que conste su decisión de constituirse en Grupo Legislativo, así como especificando la denominación del mismo, la lista de sus integrantes, nombre y firma de quienes lo integran, así como el nombre del Diputado que haya sido designado como su Coordinador. Examinada la documentación referida por el Presidente de la Directiva, éste hará la declaratoria de constitución de los Grupos Legislativos.
+
+SÉPTIMO.- A efecto de dar cumplimiento a lo dispuesto en el Capítulo V del Título Cuarto del presente Decreto, respecto a la Junta de Coordinación Legislativa, una vez que se hayan integrado los Grupos Legislativos, los Coordinadores de los mismos, conformarán dicha Junta conforme a lo dispuesto por los Artículos 98 y 99 de la presente Ley, hecho lo anterior, el Presidente de la Directiva en turno, hará del conocimiento del Pleno del Congreso la conformación de la Junta de Coordinación Legislativa, dando a conocer además, los nombres de los Diputados, que fungirán como Coordinador General, Secretario y Vocales, respectivamente.
+
+OCTAVO.- A efecto de dar cumplimiento a lo establecido por los Artículos 77 y 78 de la presente Ley e integrar las Comisiones Permanentes del Congreso del Estado, una vez instalada la Junta de Coordinación Legislativa, ésta propondrá al Pleno la conformación de las mismas, para lo cual, los asuntos a cargo de las Comisiones Ordinarias y Especiales vigentes, se distribuirán en las nuevas Comisiones, de la siguiente forma:
+
+COMISIONES VIGENTES NUEVAS COMISIONES
+
+Comisión de Legislación y Puntos Comisión de Legislación y Puntos Constitucionales. Constitucionales.
+
+Comisión de Hacienda del Estado Comisión de Hacienda del Estado y
+
+y Municipal. Municipales.
+
+Comisión Inspectora de la Comisión Inspectora del Órgano de
+
+Contaduría General. Fiscalización Superior del Congreso del Estado.
+
+Comisión de Gobernación y Comisión de Gobernación y Asuntos Municipales. Asuntos Municipales.
+
+Comisión de Educación Pública Comisión de Educación, Ciencia,
+
+y Justicia(en lo que toca a educación). Tecnología y Cultura.
+
+Comisión de Educación Pública Comisión de Seguridad Pública, y justicia (en lo que toca a justicia). Justicia y Derechos Humanos.
+
+Comisión Especial de Seguridad
+
+Pública.
+
+Comisión de Asuntos de Trabajo Comisión de Asuntos Comerciales,
+
+Industriales y Comerciales. Industriales, Turísticos y del Trabajo.
+
+Comisión Especial de Turismo.
+
+Comisión de Asuntos Agrícolas, Comisión de Asuntos Agrícolas,
+
+Forestales y Ganaderos. Ganaderos, Forestales y Pesqueros.
+
+Comisión de Corrección y Estilo. Comisión de Corrección y Estilo.
+
+Comisión Instructora. Comisión Instructora.
+
+Comisión Especial de Asuntos de la Comisión de Asuntos de la Juventud. Juventud y del Deporte.
+
+Comisión Especial de Salud. Comisión de Salud, Ecología y Medio Ambiente.
+
+Comisión Especial de Ecología.
+
+Comisión Especial de Asentamientos Comisión de Asentamientos Humanos. Humanos Desarrollo Urbano, Obras Públicas y Límites.
+
+Comisión Especial de Límites.
+
+Comisión Especial de Asuntos de la Comisión de Equidad de Género,
+
+Mujer y la Familia. Familia y Asistencia Social.
+
+Comisión Especial de Atención a los Comisión de Población, Migración
+
+Asuntos del Migrante. Asuntos Indígenas.
+
+Comisión Especial de Asuntos
+
+Indígenas.
+
+Comisión Especial de Desarrollo Comisión de Desarrollo Social.
+
+Social.
+
+Comisión Especial de Comunicaciones Comisión de Comunicaciones y
+
+y Transportes. Transportes.
+
+Comisión de Comunicación Social
+
+del Poder Legislativo.
+
+Las Comisiones Especiales que no se hayan mencionado expresamente en el cuadro anterior, seguirán vigentes, hasta en tanto el Pleno del Congreso no determine lo contrario.
+
+NOVENO.- Con el propósito de dar cumplimiento a lo dispuesto por el Título Sexto del presente Decreto, respecto a los Órganos Técnicos y Administrativos del Congreso del Estado, se estará a lo siguiente:
+
+I.- El Órgano de Fiscalización Superior del Congreso del Estado, hasta ahora denominado Contaduría Mayor de Hacienda, se regirá por lo dispuesto en el presente Decreto y en la Ley Orgánica de la Contaduría General publicada en el Periódico Oficial del Estado de fecha 08 de marzo de 1972, en todo lo que no se oponga a la presente Ley y hasta en tanto, se expida la Ley Orgánica del Órgano de Fiscalización Superior.
+
+En virtud de lo anterior, el Titular de dicho órgano se denominará Auditor Superior, cargo que seguirá desempeñando el Servidor Público que actualmente lo ostenta, hasta en tanto la Legislatura determine lo contrario.
+
+Por lo que respecta a las demás disposiciones legales, en las que se hace referencia a la Contaduría Mayor de Hacienda o Contaduría General del Congreso del Estado, a partir de la entrada en vigor de la presente Ley, deberá entenderse que se refieren al Órgano de Fiscalización Superior;
+
+II.- La Secretaría de Servicios Legislativos del Congreso del Estado hasta ahora llamada Oficialía Mayor, se regirá por lo dispuesto en el presente Decreto.
+
+En virtud de lo anterior, el Titular de dicho Órgano se denominará Secretario de Servicios Legislativos, cargo que seguirá desempeñando el servidor público que actualmente lo ostenta, hasta en tanto la Legislatura determine lo contrario y
+
+III.- Respecto de los demás Titulares de los Órganos Técnicos y Administrativos, el Coordinador General de la Junta de Coordinación Legislativa los nombrará conforme a lo dispuesto en el presente Decreto.
+
+DÉCIMO.- Para dar cumplimiento a lo dispuesto por el Título Séptimo de la presente Ley, respecto al régimen de Responsabilidades de los Servidores Públicos del Congreso del Estado, el Órgano de Fiscalización Superior asumirá las facultades que al respecto se señalan en la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo, por lo que hace a los servidores públicos del Congreso del Estado, una vez que se realicen las modificaciones a los ordenamientos respectivos.
