@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "1999-06-25"
+last_updated: "2002-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -34,9 +34,11 @@ REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO D
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 1.
 
-El presente Reglamento se integra por el conjunto de normas dictadas por el Ayuntamiento para proveer dentro de la esfera de su competencia la ejecución de las leyes y disposiciones en atribuciones municipales y tiene como finalidad regular el funcionamiento del Sistema para el Desarrollo Integral de la Familia de Ensenada Baja California conforme a lo dispuesto en el artículo 43 fracción XIV de la Ley Organica del Estado y de la Ley Sobre El Sistema Estatal de Asistencia Social en el Estado de Baja California.
+El presente Reglamento se integra por el conjunto de normas dictadas por el Ayuntamiento para proveer dentro de la esfera de su competencia la ejecución de las leyes y disposiciones en atribuciones municipales y tiene como finalidad regular el funcionamiento del Sistema para el Desarrollo Integral de la Familia de Ensenada Baja California, conforme a lo dispuesto en el párrafo segundo del artículo 3 de la Ley del Régimen Municipal y en lo dispuesto por la Ley Sobre el Sistema Estatal de Asistencia Social en el Estado de Baja California.
 
 ###### ARTICULO 2.
 
@@ -98,25 +100,41 @@ El Consejo del Sistema para el Desarrollo Integral de la Familia del Municipio d
 
 a).- El Presidente Municipal o quien el designe;
 
-b).- El Presidente del Sistema D.I.F. municipal, que sera el conyuge del Presidente Municipal o quien el designe;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
 
-c).- Un regidor, que será designado por el Ayuntamiento, a propuesta del C. Presidente Municipal o de cuando menos dos regidores;
+b).- El Presidente del Sistema DIF municipal, que sera el conyuge del Presidente Municipal o quien el designe, mismo que fungirá como Presidente del Consejo;
 
-d).- El Director de la Direccion de Educación Cultura y Deportes del Gobierno Municipal;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
 
-e).- Dos miembros de los clubes de servicio, que seran designados por el Presidente del Sistema;
+c).- Dos regidores, quienes serán designados por el Ayuntamiento en Sesión de Cabildo, a propuesta del C. Presidente Municipal;
 
-f).- Un miembro de las organizaciones de beneficencia, que sera designado por el Presidente del Sistema.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
 
-El Consejo será presidido por el Presidente del Sistema Municipal;
+d).- El Director de la Direccion de Educación, Cultura y Deportes del Gobierno Municipal;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+
+e).- Dos miembros representantes de diferentes clubes de servicio, quienes seran designados por el Presidente del Sistema, a propuesta hecha por dichos clubes;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+
+f).- Dos miembros representantes de diferentes asociaciones de beneficencia pública, quienes serán designados por el Presidente del Sistema, a propuesta de dichas asociaciones. El Consejo será presidido por el Presidente del Sistema Municipal;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 8.
 
-El Consejo, tendrá un Secretario técnico, que será un miembro del mismo, a propuesta del Presidente del Consejo.
+El Consejo tendrá un Secretario Técnico quien será designado por el Presidente del Sistema.
 
-Auditor, que será el Síndico municipal (sic)
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2002)</small>
 
-ARTICULO 10 (SIC).- El Consejo del Sistema, tendrá las siguientes facultades:
+###### ARTICULO 9.
+
+El Sistema tendrá un órgano auditor que será la Sindicatura Municipal;
+
+###### ARTICULO 10.
+
+El Consejo del Sistema, tendrá las siguientes facultades:
 
 I.- Revisar y aprobar, en su caso, los planes de labores, informes de actividades y estados financieros anuales;
 
@@ -132,11 +150,11 @@ VI.- Las demas que sean necesarias para el ejercicio de su (sic) atribuciones qu
 
 VII.- Rendir informes bimestrales de sus ingresos y egresos y del patrimonio al Ayuntamiento, a traves del Presidente del Organismo o de quien el designe.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 11.
 
-El Consejo se reunira cuando menos bimestralmente en sesiones ordinarias y tendra todas las extraordinarias que estime necesarias, al inicio de sus sesiones debera de establecer su calendario de sesiones.
-
-La primer sesion del Consejo debera realizarse en el mes de Enero de cada tres años, coincidiendo con del (sic) inicio de cada Ayuntamiento constitucional.
+El Consejo se reunira cada cuatro meses en sesiones ordinarias y tendrá las extraordinarias que estime necesarias. En la sesión de inicio debera de establecer su calendario de sesiones. La primera sesion del Consejo debera realizarse en el mes de enero de cada tres años, coincidiendo con el del segundo mes de cada Ayuntamiento constitucional.
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -186,11 +204,15 @@ III.- Nombrar a los auxiliares que estime necesarios para la realizacion de su (
 
 ### CAPITULO V. DE LAS ATRIBUCIONES DEL SECRETARIO
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 14.
 
-El Secretario del Consejo tendrá las siguientes atribuciones:
+El Secretario Técnico del Consejo tendrá las siguientes atribuciones:
 
-I.- Levantar actas de reuniones y acuerdos tomados.
+I.- Levantar actas de reuniones y acuerdos tomados en sesiones de (sic) Consejo y llevar su adecuado registro;
+
+II.- Velar por el cumplimiento de los acuerdos tomados en las sesiones del Consejo.
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL
 
@@ -329,3 +351,7 @@ LIC. RUBEN REYES MORENO
 P.O. 25 DE JUNIO DE 1999.
 
 TRANSITORIOS (SIC) UNICO.- LA PRESENTE REFORMA ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 31 DE MAYO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
