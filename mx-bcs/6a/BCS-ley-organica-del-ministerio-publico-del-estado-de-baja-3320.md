@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1993-12-21"
+last_updated: "1997-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 1997.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -111,31 +111,35 @@ Las autoridades que tengan conocimiento de hechos delictuosos o violación de la
 
 ### CAPITULO PRIMERO. DEL PERSONAL
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 1997)</small>
 
 ###### ARTICULO 9o.
 
 El personal del Ministerio Público del Estado se integrará por:
 
-I. Un Procurador General de Justicia, Jefe del Ministerio Público del Fuero Común.
+I. Un Procurador General de Justicia, jefe del Ministerio Público del Fuero Común.
 
 II. Un Subprocurador sustituto del Procurador General de Justicia.
 
 III. Un Subprocurador de Atención a la Mujer y al Menor.
 
-IV. Un Director de Averiguaciones Previas y de Control de Procesos, Agente del Ministerio Público.
+IV. Dos Subprocuradores Regionales, con la circunscripción territorial que determine el Procurador General de Justicia.
 
-V. Un Director de Servicios Periciales.
+V. Un Director de Averiguaciones Previas, Agente del Ministerio Público.
 
-VI. Un Director de la Policía Judicial.
+VI. Un Director de Control de Procesos, Agente del Ministerio Público.
 
-VII. Los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados y al Tribunal Superior de Justicia.
+VII. Un Director de Servicios Periciales.
 
-VIII. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
+VIII. Un Director de la Policía Judicial.
 
-IX. Los Agentes Auxiliares del Ministerio Público; y
+IX. Los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
-X. Los Subdirectores, Jefes de Oficina, y demás personal que señale el presupuesto.
+X. Los Agentes del Ministerio Público adscritos al Procurador General de Justicia.
+
+XI. Los Agentes Auxiliares del Ministerio Público; y
+
+XII. Los Subdirectores, Jefes de Departamento, Jefes de Oficina y demás personal que señale el presupuesto.
 
 ###### ARTICULO 10o.
 
@@ -151,9 +155,11 @@ El Procurador General de Justicia del Estado, será nombrado y removido libremen
 
 (DEROGADO, B.O. 10 DE JULIO DE 1981)
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 1997)</small>
+
 ###### ARTICULO 13.
 
-El Subprocurador será nombrado y removido por el Procurador, con la aprobación del Gobernador del Estado.
+Los Subprocuradores serán nombrados y removidos por el Procurador, con la aprobación del Gobernador del Estado.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -503,6 +509,38 @@ VII. Promover y organizar la participación ciudadana en coordinación con asoci
 
 VIII. Las demás que le señalen los reglamentos y el Procurador.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 1997)</small>
+
+ARTICULO 36 B.- Son atribuciones de los Subprocuradores Regionales:
+
+I. La supervisión de las funciones que desempeñen los Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados, dentro de la adscripción que les señale el Procurador General de Justicia;
+
+II. La vigilancia de las funciones que realizan las dependencias de las Direcciones de Averiguaciones Previas, Control de Procesos, Servicios Periciales y Policía Judicial, dentro de su adscripción;
+
+III. Practicar las visitas que el Procurador les ordene a las Agencias del Ministerio Público de su adscripción, rindiéndole un informe pormenorizado del resultado de estas visitas y proponiendo las medidas que a su juicio deban tomarse en cada caso;
+
+IV. Atender las consultas internas de la Institución, que no están especialmente encomendadas a otra dependencia;
+
+V. Llevar, con las constancias que estimen necesarias, expedientes relativos a las averiguaciones previas de su adscripción;
+
+VI. Someter a la consideración del Procurador General de Justicia, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los juzgados de su respectiva circunscripción, en los casos siguientes:
+
+a) Cuando se consulte sobre el desistimiento de la acción penal;
+
+b) Cuando se formulen conclusiones de no acusación;
+
+c) Cuando al formularse conclusiones no se comprenda algún delito que resulte probado durante la instrucción o si fueren contrarias a las constancias procesales o si en ella no se cumpliere con los requisitos que establezca la ley procesal.
+
+VII. Desahogar las consultas que formulen los Agentes del Ministerio Público adscritos a los tribunales del fuero común de su adscripción;
+
+VIII. En general, atender y orientar al público acerca de los derechos y obligaciones de los particulares frente a la propia institución, especialmente a las víctimas de los delitos, con propósitos tutelares y preventivos;
+
+IX. Llevar los expedientes y registros a que se refiere el artículo 36 de la presente Ley, respecto de los asuntos de su jurisdicción;
+
+X. Administrar los servicios generales destinados al personal a su cargo, y
+
+XI. Las demás que le señalen la Leyes, los Reglamentos y el Procurador General de Justicia.
+
 > <small>(REFORMADA SU DENOMINACION, B.O. 20 DE MAYO DE 1992)</small>
 
 ### CAPITULO TERCERO. DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS AL PROCURADOR GENERAL DE JUSTICIA
@@ -535,15 +573,15 @@ VII. Reunir, procesar, editar y difundir la información estadística, sobre la 
 
 VIII. Cumplir con las demás comisiones que les señale el Procurador.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE AGOSTO DE 1997)</small>
 
-### CAPITULO CUARTO. DE LA DIRECCION DE AVERIGUACIONES PREVIAS Y DE CONTROL DE PROCESO
+### CAPITULO CUARTO. DE LA DIRECCION DE AVERIGUACIONES PREVIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE AGOSTO DE 1997)</small>
 
 ###### ARTICULO 38.
 
-La Dirección de Averiguaciones Previas y de Control de Procesos estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia y tendrá las facultades y obligaciones siguientes:
+La Dirección de Averiguaciones Previas estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia, y tendrá las facultades siguientes:
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -565,75 +603,69 @@ VI. Llevar, con las constancias que se estimen necesarias, copias de los expedie
 
 VII. Turnar los exhortos y los asuntos que por incompetencia, excusa o impedimento, reciba el Ministerio Público, a los Agentes del Ministerio Público correspondientes.
 
-VIII. Vigilar e intervenir en todos los negocios de la competencia de los Tribunales del Fuero Común en el Estado, siempre que en éstos, conforme a laLey (sic) ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las Leyes.
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 1997)</small>
 
-IX. Someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
+VIII. Someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público cuando se trate de resolver sobre el ejercicio de la acción penal.
 
-a).- Cuando se trate de resolver sobre no ejercicio de la acción penal.
+IX. (DEROGADA, B.O. 10 DE AGOSTO DE 1997)
 
-b).- Cuando se consulte sobre el desistimiento de la acción penal.
+X. (DEROGADA, B.O. 10 DE AGOSTO DE 1997)
 
-c).- Cuando se formulen conclusiones de no acusación.
+XI. (DEROGADA, B.O. 10 DE AGOSTO DE 1997)
 
-d).- Cuando al formularse conclusiones no se comprenda algún delito que resulte probado durante la instrucción o si fueren contrarias a las constancias procesales, o si en ella no se cumpliere con los requisitos que establezca la Ley Procesal.
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 1997)</small>
 
-X. Desahogar las consultas que formulen los Agentes del Ministerio Público, adscritos a los Tribunales del Fuero Común.
+XII. Las demás que le atribuyan las leyes, los reglamentos, el Procurador General de Justicia o el Subprocurador respectivo.
 
-XI. En general, atender y orientar al público, especialmente a las víctimas de los delitos, a cerca de sus derechos y obligaciones en los negocios judiciales en que intervengan en los Tribunales del Fuero Común del Estado.
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 1997)</small>
 
-XII. Las demás que le atribuyan las Leyes, los Reglamentos, el Procurador General de Justicia del Estado y el Subprocurador.
+ARTICULO 38 A.- La Dirección de Averiguaciones Previas, para el desempeño de sus funciones, contará con los subdirectores, personal y el número de agencias investigadoras en todo el Estado que sean necesarias, conforme lo autorice el presupuesto de egresos.
 
-> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 1997)</small>
 
-ARTICULO 38 A.- La Dirección de Averiguaciones Previas y Control de Procesos, para el desempeño de funciones contará con dos subdirecciones, de Averiguaciones Previas y Control de Procesos respectivamente; y, estará a cargo de un Subdirector por cada una de las dependencias señaladas, nombrados por el Procurador de Justicia con el número de agencias investigadoras y adscritas al Ministerio Público en todo el Estado que sean necesarias para el servicio de sus funciones conforme lo autorice el presupuesto de egresos.
+ARTICULO 38 B.- Será facultad y atribución de los Subdirectores suplir en sus funciones al Director en los casos previstos en esta Ley y los reglamentos.
 
-> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+ARTICULO 38 C.- (DEROGADO, B.O. 10 DE AGOSTO DE 1997)
 
-ARTICULO 38 B.- Son facultades y obligaciones del Subdirector de Averiguaciones Previas:
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 1997)</small>
 
-I. Suplir en sus funciones al Director, en los casos previstos en esta Ley.
+### CAPITULO CUARTO BIS. DE LA DIRECCION DE CONTROL DE PROCESOS
 
-II. Cumplir, por acuerdo del Director, con las funciones que a éste le confieren las fracciones I, II, III, IV, V, VI, VII, y VIII del artículo 38 de la presente Ley.
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 1997)</small>
 
-> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+ARTICULO 38 D.- La Dirección de Control de Procesos estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia y tendrá las siguientes facultades y obligaciones:
 
-ARTICULO 38 C.- Son facultades y obligaciones del Subdirector de Control de Procesos:
+I. Vigilar e intervenir en todos los negocios de la competencia de los Tribunales del Fuero Común del Estado, siempre que en éstos, conforme a la ley deba ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las leyes.
 
-I. Suplir en sus funciones al Director en los casos previstos en la Ley.
-
-II. Llevar, con las constancias que se estimen necesarias un control de procesos que se sigan en los Juzgados del Fuero Común en todo el Estado con motivo de las averiguaciones previas consignadas.
-
-III. Supervisar las funciones que desempeñen los Agentes del Ministerio Público adscritos a los Juzgados y al Tribunal Superior de Justicia del Estado.
-
-IV. Practicar las visitas que sus superiores le encomienden a las agencias del Ministerio Público adscritas a los Juzgados y al Tribunal Superior de Justicia del Estado, rindiendo un informe pormenorizado del resultado de las visitas y proponiendo las medidas que a su juicio deban tomarse en cada caso.
-
-V. Para el efecto de cumplir con sus facultades y obligaciones, en la Subdirección se llevará un libro de registro de expedientes en el que se asiente cada uno de los procesos que se tramiten en las Agencias del Ministerio Público adscritas los Juzgados Penales y al Tribunal Superior de Justicia del Estado, que contendrá cuando menos los datos de la averiguación previa que dio inicio al proceso así como la evolución que este reporte y las observaciones que fueren pertinentes.
-
-VI. Desahogar las consultas que formulen los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común.
-
-VII. En general, atender y orientar al público especialmente, a las víctimas de los delitos, acerca de sus derechos y obligaciones en los asuntos judiciales en que intervengan en los Tribunales del Fuero Común del Estado.
-
-VIII. Previo acuerdo del Director, vigilar e intervenir en todos los negocios de la competencia de los Tribunales del Fuero Común en el Estado, siempre que en estos, conforme a la ley deba ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las Leyes.
-
-IX. Previo acuerdo del Director, someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
+II. Someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
 
 a).- Cuando se consulte sobre el desistimiento de la acción penal.
 
 b).- Cuando se formulen conclusiones de no acusación.
 
-c).- Cuando al formularse conclusiones no se comprenda algún delito que resulte probado durante la instrucción o si fueren contrarias a las constancias procesales, o si en ella no se cumpliere con los requisitos que establezca la Ley procesal.
+c).- Cuando al formularse conclusiones no se comprenda algún delito que resulte probado durante la instrucción o si fueren contrarias a las constancias procesales, o si en ella no se cumpliere con los requisitos que establezca la ley procesal.
 
-X. Las demás que le atribuyan las Leyes, los Reglamentos, el Procurador General de Justicia y Subprocurador.
+III. Desahogar las consultas que formulen los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común.
+
+IV. En general, atender y orientar al público, especialmente a las víctimas de los delitos, acerca de sus derechos y obligaciones en los negocios judiciales en que intervengan en los Tribunales del Fuero Común del Estado.
+
+V. Llevar con las constancias que se estimen necesarias, un control de los procesos que se sigan en los Juzgados del Fuero Común en todo el Estado con motivo de las averiguaciones previas consignadas.
+
+VI. Supervisar las funciones que desempeñen los Agentes del Ministerio Público adscritos a los juzgados y al Tribunal Superior de Justicia.
+
+VII. Las demás que le atribuyan las leyes, los reglamentos, el Procurador General de Justicia y el Subprocurador respectivo.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 1997)</small>
+
+ARTICULO 38 E.- La Dirección de Control de Procesos, para el desempeño de sus funciones contará con los subdirectores, personal y el número de Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común que sean necesarios, conforme lo autorice el presupuesto.
+
+Será facultad y atribución de los subdirectores, suplir en sus funciones al Director en los casos previstos por esta ley y los reglamentos.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ### CAPITULO QUINTO. DE LOS AGENTES INVESTIGADORES DEL MINISTERIO PUBLICO
 
 (REUBICADO Y REFORMADO, B.O. 10 DE JULIO DE 1981)
-
-### CAPITULO SEXTO. JEFATURA DE SERVICIOS PERICIALES
-
-(REUBICADO, B.O. 10 DE JULIO DE 1981)
 
 ###### ARTICULO 39.
 
@@ -657,9 +689,9 @@ VI. Las demás que se atribuyan las Leyes, los reglamentos y el Procurador Gener
 
 ARTICULO 39 BIS.- Los Agentes Auxiliares del Ministerio Público, tendrán las mismas facultades y obligaciones de los Agentes del Ministerio Público, cuando los suplan en sus faltas temporales; pero actuarán bajo la Dirección de aquellos cuando actúen como auxiliares.
 
-### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+### CAPITULO SEXTO. JEFATURA DE SERVICIOS PERICIALES
 
-> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
+(REUBICADO, B.O. 10 DE JULIO DE 1981)
 
 ###### ARTICULO 40.
 
@@ -717,9 +749,9 @@ En los lugares que haya un solo Agente del Ministerio Público, éste fungirá c
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
-### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
+### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 42.
 
@@ -765,7 +797,9 @@ En caso de que se solicite el servicio por otra autoridad o institución, se pre
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
-### CAPITULO UNICO
+### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 46.
 
@@ -823,6 +857,8 @@ Ningún miembro de la Policía Judicial podrá hacer uso de vehículos o cualqui
 
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
+### CAPITULO UNICO
+
 ###### ARTICULO 55.
 
 Los Agentes del Ministerio Público no podrán desistirse de las acciones intentadas, de las excepciones y recursos opuestos, sin acuerdo del Procurador.
@@ -863,13 +899,17 @@ Los Tribunales en caso de tener conocimiento de alguna falta del personal del Mi
 
 El Procurador General de Justicia y los servidores públicos del Ministerio Público, son responsables por los delitos, faltas y omisiones en que incurran durante el ejercicio de sus cargos, y se perseguirán en la forma que determina la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, se concede acción popular para denunciar las violaciones que se cometan a esta Ley.
 
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE AGOSTO DE 1997)</small>
 
 ###### ARTICULO 63.
 
-Los Agentes del Ministerio Público, someterán a la consideración del Director de Averiguaciones Previas y de Control de Procesos, los acuerdos de consulta de archivo, de reserva, incompetencia o acumulación de las Averiguaciones Previas; una vez que se apruebe o se modifique el acuerdo correspondiente, el mismo Agente del Ministerio Público, deberá notificarlo personalmente al querellante o denunciante, para que éste manifieste su conformidad con el mismo o interponga recursos de revisión dentro del plazo de tres días hábiles a partir del día siguiente a la fecha de notificación del mismo.
+Los Agentes del Ministerio Público, someterán a la consideración del Director de Averiguaciones Previas, los acuerdos de consulta de archivo, de reserva, incompetencia o acumulación de las averiguaciones previas; una vez que se apruebe o se modifique el acuerdo correspondiente, el mismo Agente del Ministerio Público, deberá notificarlo personalmente al querellante o denunciante, para que éste manifieste su conformidad con el mismo o interponga recurso de revisión dentro del plazo de tres días hábiles a partir del día siguiente a la fecha de notificación del mismo.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 Si dentro del plazo fijado en el párrafo anterior, no se interpone revisión contra el acuerdo, éste quedará firme.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 Del recurso de revisión conocerá el Procurador General de Justicia del Estado, quien bajo su más estricta responsabilidad emitirá su resolución, la que deberá estar autorizada con la firma del Subprocurador la resolución dictada será notificada al recurrente por el propio Agente del Ministerio Público ante quien se interpuso la revisión.
 
@@ -950,3 +990,9 @@ B.O. 21 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE AGOSTO DE 1997.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo establecido en este Decreto.
