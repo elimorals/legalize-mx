@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1994-08-31"
+last_updated: "1995-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -807,7 +807,9 @@ El otorgamiento y disfrute de los beneficios de la condena condicional, se sujet
 
 I.- El juez o tribunal, en su caso, al dictar sentencia de condena o en la hipótesis que establece la fracción X de este artículo, suspenderán motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-a) Que la condena se refiera a pena de prisión que no exceda de dos años;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+a) Que la condena se refiera a pena privativa de libertad que no exceda de tres años;
 
 b) Que sea la primera vez que el sentenciado incurre en delito intencional y, además, que haya evidenciado buena conducta positiva, antes y después del hecho punible;
 
@@ -3678,3 +3680,11 @@ Primero.- El presente Decreto entrará en vigor el día tres de Septiembre del a
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Tercero.- Queda a elección de los procesados y sentenciados el acogerse a lo que en su beneficio disponga el presente Decreto.
+
+P.O. 24 DE MAYO DE 1995.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se deroga (sic) todas las disposiciones legales y reglamentarias que se opongan a este decreto.
+
+Tercero.- Queda a la elección de los sentenciados el acogerse al beneficio que se contrae el artículo Primero de este decreto.
