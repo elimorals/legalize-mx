@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-protouch-33592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-01"
-last_updated: "2003-09-01"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-21"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de septiembre de 2003.
 
@@ -187,9 +187,15 @@ El boleto deberá contener los siguientes datos:
 
 6.- El término de caducidad del derecho para cobrar el premio correspondiente es de 60 (sesenta) días naturales, contados a partir del día siguiente de la celebración del concurso.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 19o.
 
 Pronósticos, a través de su sistema electrónico de venta de apuestas en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas participantes.
+
+El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, el mismo día que se efectúe el cierre de ventas del concurso y previo a la celebración del primero de los partidos de fútbol americano programados.
+
+A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del primero de los partidos de fútbol americano programados, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del concurso, la auditoría de la selección de ganadores.
 
 ###### Artículo 20o.
 
@@ -203,15 +209,17 @@ Todos los concursos se verificarán en lugar al cual tenga libre acceso el públ
 
 Pronósticos publicará en diarios de circulación importante y en su página institucional en Internet, al siguiente día al que se hubiere verificado y obtenido la selección de ganadores, los pronósticos ganadores de la quiniela y el importe de la premiación por cada quiniela sencilla para cada una de las categorías establecidas.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 22o.
 
-Conocidos los resultados de los partidos de fútbol americano, base de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo y tercer premios de Protouch; así como al ganador o ganadores por haber acertado además el pronóstico del Protouch inicial.
+Conocidos los resultados de los partidos de fútbol americano, base de un concurso o determinados por sorteo en la forma en que se indica en el capítulo II de este reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo y tercer premios de Protouch; así como al ganador o ganadores por haber acertado además el pronóstico del Protouch inicial.
 
-Estos se determinarán de acuerdo con la información contenida en el archivo de registro de apuestas, única que tendrá validez para estos efectos. A este acto se le denomina Selección de Ganadores definido en los términos del punto 14 del artículo 3o. de este Reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se hará constar la realización del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y dos funcionarios que al efecto designe el Director General de la Institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
+Estos se determinarán de acuerdo con la información contenida en el archivo de registro de apuestas, única que tendrá validez para estos efectos. A este acto se le denomina Selección de Ganadores definido en los términos del punto 14 del artículo 3o. de este reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se hará constar la realización del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que al efecto designe el Director General de la institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
 
-El Director General hará la designación de los funcionarios a que se hace referencia en el párrafo anterior, atendiendo al siguiente criterio: el primero de ellos será designado de entre los servidores públicos que ocupan cargos de los dos niveles jerárquicos inmediatamente inferiores al Director General y el segundo de entre los servidores públicos que ocupen los niveles tercero y cuarto inferiores al del Director General.
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el desarrollo y la celebración del concurso de selección de ganadores, un representante de la Dirección Técnica, uno del Organo Interno de Control y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo anterior.
+Estarán presentes también en el desarrollo y la celebración del concurso de selección de ganadores, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo segundo.
 
 Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
 
@@ -342,3 +350,11 @@ Secretario del H. Consejo Directivo
 Lic. Eduardo Antonio Ancona González
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2004.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
