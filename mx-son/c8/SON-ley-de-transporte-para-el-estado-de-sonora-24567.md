@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-24567"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-08"
-last_updated: "2002-03-08"
+last_updated: "2003-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE JUNIO DE 2003.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
@@ -471,9 +471,15 @@ XI.- Un representante de las instituciones de Educación Media, Media Superior y
 
 XII.- Un representante de los sindicatos y asociaciones de trabajadores que tengan relación directa con el desarrollo del transporte público; y
 
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2003)</small>
+
+XIII.- Un representante de los operadores del servicio público de transporte por cada sistema y modalidad.
+
 A invitación expresa del Presidente, podrán participar en las sesiones del Consejo, cuando tengan relación con los asuntos a tratar, los representantes de los sectores públicos, estatal y municipal, y las personas que por su experiencia o conocimientos, puedan aportar importante colaboración al desarrollo de los trabajos del Consejo.
 
-Los procedimientos para designar a los representantes a que se refieren las fracciones VII, VIII, IX, X, XI y XII de este artículo, se señalarán en el reglamento de la presente Ley.
+> <small>(REFORMADO, B.O. 26 DE JUNIO DE 2003)</small>
+
+Los procedimientos para designar a los representantes a que se refieren las fracciones VII, VIII, IX, X, XI, XII y XIII de este artículo, se señalarán en el reglamento de la presente Ley.
 
 ###### Artículo 31.
 
@@ -2036,3 +2042,9 @@ Para la implementación en los municipios del Estado del nuevo sistema de transp
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU SANCION Y PROMULGACION.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, A 1 DE MARZO DE 2002.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- DIPUTADO PRESIDENTE.- C. JESUS AVILA GODOY.- RUBRICA.- DIPUTADO SECRETARIO.- C. HELEODORO PACHECO VASQUEZ.- RUBRICA.- DIPUTADA SECRETARIA.- C.M. VIOLA CORRELLA MANZANILLA.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- PALACIO DE GOBIERNO, HERMOSILLO, SONORA, OCHO DE MARZO DEL DOS MIL DOS.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 26 DE JUNIO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
