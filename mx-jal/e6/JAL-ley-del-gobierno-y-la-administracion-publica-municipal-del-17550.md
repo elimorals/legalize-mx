@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2003-10-18"
+last_updated: "2003-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -319,9 +319,13 @@ III. Lo soliciten, cuando menos, la mitad de los ciudadanos que radiquen en la r
 
 IV. El poblado que se elija como cabecera municipal, tenga una población no inferior a 10,000 habitantes; y
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-V. El poblado cuente con los servicios públicos indispensables y, que tenga además, suficiente capacidad económica para atender los gastos de la administración pública municipal.
+V. El poblado cuente con los servicios públicos indispensables y, que tenga además, suficiente capacidad económica para atender a los gastos de la administración pública municipal; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+VI. Tener la opinión de los municipios afectados mediante acuerdo de los ayuntamientos respectivos.
 
 El Congreso del Estado puede declarar la extinción, o la fusión de los municipios, cuando no alcancen la población requerida, modificando, para ello, los límites de los municipios existentes, y concediendo previamente el derecho de audiencia y defensa a los Ayuntamientos de que se trate.
 
@@ -511,6 +515,10 @@ El Concejo designado tendrá la misma organización interna y funciones que corr
 
 Los Ayuntamientos, para el estudio, vigilancia y atención de los diversos asuntos que les corresponda conocer, deben funcionar mediante comisiones.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Cada regidor debe estar integrado por lo menos a una Comisión.
+
 La denominación de las comisiones, sus características, obligaciones y facultades, deben ser establecidas en los reglamentos que para tal efecto expida el Ayuntamiento.
 
 Las comisiones pueden ser permanentes y transitorias, con desempeño unipersonal o colegiado, y bajo ninguna circunstancia pueden tener facultades ejecutivas.
@@ -641,7 +649,11 @@ XI. Realizar la fiscalización, control y evaluación de la administración púb
 
 XII. Realizar las funciones encomendadas a la Institución del Registro Civil; y
 
-XIII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XIII. Colaborar con el Congreso del Estado, de conformidad con las disposiciones legales aplicables, para la realización en los municipios, de las sesiones de la Asamblea y las reuniones de trabajo de las comisiones que esta designe; y
+
+XIV. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ###### Artículo 38.
 
@@ -991,9 +1003,13 @@ II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y 
 
 III. Tener la siguiente escolaridad:
 
-a) En los municipios en los que el Ayuntamiento esté integrado hasta por catorce regidores, se requiere la enseñanza media superior;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-b) En los municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional;
+a) En los municipios en los que el Ayuntamiento esté integrado hasta por catorce regidores, se requiere la enseñanza media superior y acreditar experiencia o conocimientos en la materia;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+b) En los municipios en que el Ayuntamiento esté integrado por más de catorce regidores, se requiere tener título profesional preferentemente en las áreas económico administrativas y acreditar experiencia o conocimientos en la materia;
 
 IV. No tener parentesco por consanguinidad ni por afinidad con alguno de los miembros del Ayuntamiento;
 
@@ -1912,5 +1928,9 @@ P.O. 27 DE JULIO DE 2002.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 18 DE OCTUBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE DICIEMBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
