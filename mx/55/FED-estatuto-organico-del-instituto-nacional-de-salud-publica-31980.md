@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-salud-publica-31980
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-07-17"
-last_updated: "2002-07-17"
+last_updated: "2003-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31980&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-12"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE SALUD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2003.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 17 de julio de 2002.
 
@@ -81,6 +81,8 @@ XV. Coadyuvar a la vigilancia epidemiológica de las enfermedades infecciosas y 
 
 XVI. Realizar las demás actividades que le corresponda conforme a la ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 19 JUNIO DE 2003)</small>
+
 ###### Artículo 4.
 
 Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, el Instituto contará con los siguientes órganos, unidades y comités:
@@ -101,11 +103,11 @@ c) Consejo Técnico de Administración y Programación
 
 III. Unidades sustantivas y administrativas
 
-a) Secretaría General
+a) Secretaría General y Proyectos Especiales
 
 b) Secretaría Académica
 
-c) Centros:
+c) Direcciones Adjuntas del Centro:
 
 De Investigación sobre Enfermedades Infecciosas
 
@@ -113,41 +115,43 @@ De Investigación en Salud Poblacional
 
 De Investigación en Sistemas de Salud
 
+De Investigación en Nutrición y Salud
+
 De Investigación de Paludismo
 
 De Información para Decisiones en Salud
-
-De Investigación en Salud Ambiental
 
 d) Direcciones:
 
 Biología Molecular de Patógenos
 
-Virología Molecular
+Enfermedades Transmitidas por Vectores
+
+Unidad de Tuberculosis
 
 Microbiología Médica
 
-Nutrición y Salud
+Enfermedades Crónicas y Degenerativas
 
-Demografía
+Ecología Humana
 
-Investigación en Epidemiología
+Salud Reproductiva
 
-Ciencias Ambientales
+Planeación
 
-Comunitaria y Bienestar Social
+Salud Comunitaria y Bienestar Social
 
 Organización de los Sistemas de Salud
 
 Políticas de Salud y Planeación
 
-Informática
+Informática y Geografía Médica
+
+Análisis de Sistemas de Información
+
+Encuestas de Salud
 
 Administración y Finanzas
-
-Epidemiología Ambiental y Ocupacional
-
-Toxicología
 
 e) Subdirecciones:
 
@@ -157,37 +161,33 @@ Apoyo Académico del Centro de Investigación en Salud Poblacional
 
 Apoyo Académico del Centro de Investigación en Sistemas de Salud
 
-Descentralización y Evaluación Educativa
+Epidemiología de la Nutrición
 
-Documentación e Información
+Nutrición Básica
+
+Intercambio y Extensión Académica
+
+Posgrados Profesionalizantes (sic) y Educación a Distancia
+
+Posgrados Académicos y Gestión Educativa
+
+Comunicación Científica y Publicaciones
 
 Servicios de Información
 
 Sistemas de Información
 
-Comunicación Científica y Publicaciones
+Proyectos Estratégicos
 
-Salud Ocupacional
-
-Efectos del Ambiente en la Salud
-
-Evaluación de Riesgos Ambientales
-
-Estudios Toxicológicos
-
-Gestión Informática y Servicios de Cómputo
-
-Cómputo Académico y Comunicaciones Electrónicas
-
-Gestión Educativa
-
-Gestión de Proyectos
+Operativa
 
 Recursos Financieros
 
 Recursos Humanos
 
-Recursos Materiales y Servicios Generales
+Cómputo y Comunicaciones Electrónicas
+
+Geografía Médica y Sistemas
 
 Asuntos Jurídicos
 
@@ -195,7 +195,7 @@ f) Jefaturas de Departamento
 
 Asimismo, el Instituto podrá contar con las unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de las secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo.
 
-IV. Comisiones y comités
+IV. Comisiones y Comités
 
 a) Comisión de Investigación
 
@@ -203,7 +203,7 @@ b) Comisión Académica de Docencia
 
 c) Comisión Académica Ampliada
 
-d) Comisión de Etica
+d) Comisión de Ética
 
 e) Comisión de Bioseguridad
 
@@ -211,11 +211,11 @@ f) Comité de Adquisiciones
 
 g) Comité de Enajenación de Bienes Muebles e Inmuebles
 
-h)Comité de Informática
+h) Comité de Informática
 
-i)Comité de Bibliohemeroteca, y
+i) Comité de Bibliohemeroteca, y
 
-j)Comité de Control y Administración
+j) Comité de Control y Administración
 
 El Instituto cuenta con un órgano de control interno que se regirá conforme a lo dispuesto en el artículo 41 de este Estatuto.
 
@@ -429,33 +429,35 @@ El funcionamiento del Consejo Técnico de Administración y Programación y la d
 
 Para el cumplimiento de sus objetivos, el Instituto contará con los directores, subdirectores, jefes de departamento y demás personal que se requiera en las áreas que lo integran.
 
+> <small>(REFORMADO, D.O.F. 19 JUNIO DE 2003)</small>
+
 ###### Artículo 29.
 
-Corresponderá a la Secretaría General:
+Corresponderá a la Secretaría General y Proyectos Especiales:
 
-I. Colaborar con el Director General en la dirección del Instituto;
+I. Colaborar con el Director General, coordinar el sistema participativo de planeación y evaluación institucionales;
 
-II. Coordinar el sistema participativo de planeación y evaluación institucionales;
+II. Conducir las actividades relacionadas con eventos sobre salud pública a nivel nacional e internacional;
 
-III. Facilitar las relaciones de la administración del Instituto con la de los Centros de Investigación que integran al organismo;
+III. Normar las relaciones de la Administración del Instituto con los Centros de Investigación que integran al organismo;
 
-IV. Fungir como Secretario del Consejo Técnico de Administración y Programación del Instituto;
+IV. Conducir las funciones de coordinación y control de las actividades académicas;
 
-V. Diseñar, promover y coordinar programas y actividades académicas y de investigación, así como asesorías para impulsar la cooperación entre el Instituto y organismos nacionales e internacionales que permitan obtener recursos externos;
+V. Participar en las actividades de investigación de diabetes y otras enfermedades crónicas;
 
-VI. Coordinar el apoyo y soporte técnico en materia de informática, a los programas académicos y proyectos de investigación establecidos por el Instituto;
+VI. Participar en las actividades de investigación multicéntricas enfocadas a la aplicación de encuestas;
 
-VII. Brindar apoyo logístico, administrativo y de conducción a grandes proyectos interdisciplinarios concertados entre el Instituto y entidades académicas y/o dependencias universitarias;
+VII. Representar al Instituto Nacional de Salud Pública como Secretario del Consejo Técnico de Administración y Programación;
 
-VIII. Proponer e implantar nuevas formas de organización para la vinculación, entre las Unidades Sustantivas y Administrativas señaladas en el artículo 4o. fracción III del presente Estatuto, así como establecer criterios y reglas para la participación del Instituto en ellas, y con instituciones de educación superior;
+VIII. Proponer y establecer nuevas formas de organización para la vinculación entre los Centros, así como establecer criterios y reglas para la participación del Instituto en ellas;
 
-IX. Concertar proyectos interdisciplinarios, donde participen diferentes dependencias y entidades de la Administración Pública Federal relacionadas con la materia;
+IX. Coadyuvar para concertar proyectos interdisciplinarios donde participen diferentes dependencias y entidades federativas;
 
-X. Informar por escrito anualmente al Director General del Instituto, respecto de las actividades a su cargo;
+X. Proponer, conducir y evaluar programas sobre riesgos ambientales y ocupacionales a fin de fortalecer la capacidad de respuesta de la Secretaría de Salud;
 
-XI. Proponer, diseñar, aplicar y procesar información a través de la implementación de un sistema continuo de encuestas en salud que permita profundizar el conocimiento de temas relacionados con la salud pública en el ámbito nacional o regional, y
+XI. Participar en actividades de docencia en las maestrías impartidas en el Instituto Nacional de Salud Pública;
 
-XII. Realizar las funciones y actividades que le asigne el Director General del Instituto.
+XII. Colaborar en la integración de programas de cooperación técnica con universidades, organismos gubernamentales y organismos no gubernamentales.
 
 ###### Artículo 30.
 
@@ -605,33 +607,35 @@ XIV. Coordinar y supervisar la operación de la Red Nacional de Colaboración en
 
 XV. Promover y contribuir al diseño y desarrollo de nuevos productos de información en salud.
 
+> <small>(REFORMADO, D.O.F. 19 JUNIO DE 2003)</small>
+
 ###### Artículo 37.
 
-Corresponde al Centro de Investigación en Salud Ambiental:
+Corresponde al Centro de Investigación en Nutrición y Salud:
 
-I. Establecer y conducir los programas del Centro, conforme al Programa Nacional de Salud y de los lineamientos establecidos por el Instituto;
+I. Normar en la generación de conocimientos en materia de nutrición pública;
 
-II. Proponer al Director General del Instituto los programas del Centro, así como de informarle de sus avances y cumplimientos;
+II. Participar en la formación de recursos humanos de alto nivel en el campo de la nutrición pública;
 
-III. Participar en los convenios de colaboración técnica, científica y de transferencia tecnológica que defina el Instituto;
+III. Asesorar en el campo de la nutrición de poblaciones, a la Secretaría de Salud cuando sea requerido para ello;
 
-IV. Conducir y autorizar las acciones de la administración, necesarias para un adecuado funcionamiento del Centro, conforme a los lineamientos establecidos por el Director General del Instituto;
+IV. Proponer conceptualmente las investigaciones e hipótesis innovadoras en materia de nutrición pública;
 
-V. Establecer y fijar las acciones del Centro con otros organismos públicos y privados nacionales y extranjeros que se relacionen con su operación y contribuyan positivamente a su desarrollo;
+V. Conducir investigadores de alto nivel en el área de la nutrición que respondan a la problemática de nutrición del país;
 
-VI. Proponer investigaciones sobre los programas prioritarios y convenios de colaboración técnica y científica en materia de salud ambiental;
+VI. Conducir las funciones y actividades de los investigadores y personal que labora en el Centro;
 
-VII. Gestionar apoyos financieros ante organismos internacionales, nacionales o instituciones académicas para la realización de investigación en salud ambiental;
+VII. Representar el área de Nutrición Pública ante las autoridades de la Secretaría de Salud en el nivel federal y estatal;
 
-VIII. Asesorar al Director General en lo relativo a la normatividad ambiental;
+VIII. Evaluar programas de nutrición que causan impacto en beneficio de la población mexicana;
 
-IX. Supervisar la conducción del programa de capacitación a personal profesional y técnico en las áreas de epidemiología ambiental y toxicología;
+IX. Coadyuvar al establecimiento de políticas en nutrición pública con base a los resultados de las investigaciones;
 
-X. Colaborar en la integración de programas de cooperación técnica con universidades, organismos gubernamentales y no gubernamentales;
+X. Asesorar a los centros especializados de investigación, enseñanza o atención y a cualquier Institución Pública de Salud, en materia de nutrición pública;
 
-XI. Participar en las actividades de vigilancia y evaluación de efectos provocados por sustancias, y
+XI. Informar a la Secretaría de Salud respecto a la información más reciente de la situación nutricional del país;
 
-XII. Promover la difusión del conocimiento de los efectos del ambiente en la salud.
+XII. Asesorar como Centro de consulta técnica a las dependencias y entidades de la Administración Pública Federal a personas y empresas del Sector Privado en el área de Nutrición Pública.
 
 ### Capítulo VIII. De las Comisiones y Comités
 
@@ -732,3 +736,11 @@ Subdirector de Asuntos Jurídicos
 C.P. Oscar Fragoso Hernández
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 19 DE JUNIO DE 2003.
+
+Primero. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
