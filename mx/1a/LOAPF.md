@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1985-01-21"
+last_updated: "1985-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -123,6 +123,10 @@ Cada Secretaría de Estado o Departamento Administrativo formulará, respecto de
 ###### ARTICULO 13.
 
 Los Reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales ir firmados por el Secretario de Estado o el Jefe del Departamento Administrativo respectivo, y cuando se refieran a asuntos de la competencia de dos o más Secretarías o Departamentos, deberán ser refrendados por todos los titulares de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1985)</small>
+
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso de la Unión, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
 
 ###### ARTICULO 14.
 
@@ -850,8 +854,6 @@ XIII.- Mantener al corriente el avalúo de los bienes inmuebles nacionales y reu
 
 XIV.- Tener a su cargo el registro de la propiedad federal, y elaborar y manejar el inventario general de los bienes de la Nación;
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE FECHA 21 DE DICIEMBRE DE 1985 Y PUBLICADO EN EL D.O.F. EL 21 DE ENERO DE 1985; SE SUSTITUYE LA REFERENCIA "SECRETARIA DE SALUBRIDAD Y ASISTENCIA" POR LA DE "SECRETARIA DE SALUD".</small>
-
 > <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
 
 XV.- Formular y conducir la política de saneamiento ambiental, en coordinación con la Secretaría de Salud;
@@ -1385,3 +1387,9 @@ PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 SEGUNDO.- Cuando en esta y otras Leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, se haga referencia a la Secretaría de Salubridad y Asistencia, se entenderá hecha a la Secretaría de Salud, dentro de la esfera de su competencia, en los términos del presente decreto.
 
 TERCERO.- La Secretaría de Salud procederá gradualmente a sustituir el registro e identificación de los equipos y bienes sujetos actualmente a la custodia y uso de la anterior Secretaría de Salubridad y Asistencia.
+
+D.O.F. 26 DE DICIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
