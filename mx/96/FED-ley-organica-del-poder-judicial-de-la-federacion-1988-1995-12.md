@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1988-1995-12"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-01-05"
-last_updated: "1994-01-10"
+last_updated: "1995-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE FEBRERO DE 1995.
 
 Ley publicada en el Número 2 del Diario Oficial de la Federación, el martes 5 de enero de 1988.
 
@@ -53,19 +53,31 @@ III. Por los Tribunales Unitarios de Circuito;
 
 IV. Por los Juzgados de Distrito;
 
-V. Por el Jurado Popular Federal; y
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
-VI. Por los Tribunales de los Estados y del Distrito Federal, en los casos previstos por el artículo 107, fracción XII, de la Constitución Política de los Estados Unidos Mexicanos, y en los demás en que, por disposición de la ley, deban actuar en auxilio de la justicia federal.
+V. Por el Jurado Popular Federal;
+
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+VI. Por los Tribunales de los Estados y del Distrito Federal, en los casos previstos por el artículo 107, fracción XII de la Constitución Política de los Estados Unidos Mexicanos, y en los demás en que por disposición de la ley, deban actuar en auxilio de la justicia federal, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+VII. Por el Consejo de la Judicatura Federal.
 
 ### CAPITULO II. Suprema Corte de Justicia
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 2o.
 
-La Suprema Corte de Justicia de la Nación se compondrá de veintiún ministros numerarios y de hasta cinco supernumerarios, y funcionará en tribunal Pleno o en salas.
+La Suprema Corte de Justicia de la Nación se compondrá de once ministros y funcionará en Pleno o en salas.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 3o.
 
-El Pleno se compondrá de los ministros numerarios que integran la Suprema Corte de Justicia, pero bastará la presencia de quince de sus miembros para que pueda funcionar. Los ministros supernumerarios formarán parte del Pleno cuando substituyan a los ministros numerarios y además desempeñarán las funciones que se contienen en la presente ley.
+El Pleno se compondrá de once ministros, pero bastará la presencia de siete de sus miembros para que pueda funcionar.
 
 ###### Art. 4o.
 
@@ -73,9 +85,11 @@ Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los
 
 En caso de empate, se resolverá el asunto en la siguiente sesión, para la que se convocará a los ministros que hubiesen concurrido a la anterior y a los que hubiesen faltado a la misma, siempre que éstos no estuvieren legalmente impedidos; si en esta última sesión tampoco se obtuviere mayoría, se tendrá por desechado el proyecto y el presidente de la Corte designará otro ministro, distinto del relator, para que formule nuevo proyecto, teniendo en cuenta las opiniones vertidas.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 5o.
 
-La Suprema Corte de Justicia tendrá un presidente que durará en su cargo un año y podrá ser reelecto.
+La Suprema Corte de Justicia tendrá un Presidente que durará en su cargo cuatro años y no podrá ser reelecto para el período inmediato posterior.
 
 > <small>(REFORMADO, D.O.F. 19 DE JULIO DE 1991)</small>
 
@@ -99,7 +113,9 @@ Cuando el presidente ejerza funciones de representación dentro o fuera del paí
 
 La Suprema Corte de Justicia de la Nación tendrá cada año dos períodos de sesiones; el primero comenzará el día dos de enero y terminará el 15 de julio; el segundo comenzará el primero de agosto y terminará el quince de diciembre.
 
-Al clausurar la Suprema Corte de Justicia cada período de sesiones, designará uno o más ministros que provean los trámites en asuntos urgentes, y despachen los de resolución de notoria urgencia, durante el receso, siempre que no corresponda en definitiva al Pleno o a las Salas y dicten las órdenes o medidas provisionales, también de carácter urgente, que exijan el buen servicio de la justicia federal; debiendo dar cuenta al Presidente de la Suprema Corte, al reanudar ésta sus sesiones, para que someta a la consideración del Pleno o de la Comisión de Gobierno y Administración, según fuere procedente, las resoluciones, órdenes o medidas provisionales dictadas durante el receso.
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+Al clausurar la Suprema Corte de Justicia cada período de sesiones, designará uno o más ministros que provean los trámites en asuntos urgentes, y despachen los de resolución de notoria urgencia, durante el receso, siempre que no corresponda en definitiva al Pleno o a las Salas y dicten las órdenes o medidas provisionales, también de carácter urgente, que exijan el buen servicio de la justicia federal; debiendo dar cuenta al Presidente de la Suprema Corte al reanudar ésta sus sesiones, para que someta a la consideración del Pleno, las resoluciones, órdenes o medidas provisionales dictadas durante el receso.
 
 También designará la Suprema Corte al Secretario y empleados que deban despachar los asuntos a que se refiere el párrafo anterior.
 
@@ -113,129 +129,85 @@ El Pleno celebrará sesión extraordinaria cuando lo crea necesario el president
 
 Las sesiones del Pleno serán públicas, con excepción de los casos en que la moral o el interés público exijan que sean privadas.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 11.
 
-Corresponde a la Suprema Corte de Justicia conocer en Pleno:
+Corresponde conocer al Pleno de la Suprema Corte de Justicia:
 
-I. De las controversias que se susciten entre dos o más entidades federativas, o entre los Poderes de una misma Entidad sobre la constitucionalidad de sus actos;
+I. De las controversias constitucionales y acciones de inconstítucionalidad a que se refiere el artículo 105 de la Constitución Politica de los Estados Unidos Mexicanos;
 
-II. De las controversias que se susciten por leyes o actos de la autoridad federal, que vulneren o restrinjan la soberanía de los Estados, o por leyes o actos de las autoridades de éstos que invadan la esfera de la autoridad federal, cuando sean promovidas por la Entidad afectada o por la Federación, en su caso, en defensa de su soberanía o de los derechos o atribuciones que les confiera la Constitución;
+II. Del recurso de revisión contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito en los siguientes casos:
 
-III. De las controversias que surjan entre una Entidad federativa y la Federación;
+a) Cuando subsista en el recurso el problema de constitucionalidad de normas generales, si en la demanda de amparo se hubiese impugnado una ley federal, local o del Distrito Federal o un tratado internacional, por estimarlos directamente violatorios de un precepto de la Constitución Política de los Estados Unidos Mexicanos, y
 
-IV. De las controversias en que la Federación fuese parte cuando a juicio del Pleno se consideren de importancia trascendente para los intereses de la Nación, oyendo el parecer del Procurador General de la República;
+b) Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 constitucional;
 
-V. Del recurso de revisión contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito:
+III. Del recurso de revisión contra sentencias que en amparo directo pronuncien los tribunales colegiados de Circuito, cuando decidan sobre la constitucionalidad de una ley federal, local o del Distrito Federal, o de un tratado internacional, o establezcan la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos;
 
-A) Cuando subsista en el recurso el problema de constitucionalidad, si en la demanda de amparo se hubiese impugnado una ley federal o local o un tratado internacional por estimarlos directamente violatorios de un precepto de la Constitución; y
+IV. De los amparos directos o en revisión que, en términos de las fracciones V y VIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, decida atraer por su interés y trascendencia;
 
-B) Cuando en el recurso de revisión la cuestión planteada implique el posible ejercicio, por la autoridad federal, de facultades reservadas a los Estados, o por las autoridades de éstos, de atribuciones constitucionales privativas de la Federación, en los casos comprendidos en las fracciones II y III del artículo 103 Constitucional relativos a invasión de soberanías, sin que baste la afirmación del quejoso sobre la existencia de un problema de esa naturaleza;
+V. Del recurso de queja interpuesto en el caso a que se refiere la fracción V del artículo 95 de la Ley de Amparo, siempre que el conocimiento de la revisión en el juicio de garantías en el que la queja se haga valer, le haya correspondido al Pleno de la Suprema Corte, en los términos del artículo 99, párrafo segundo de la misma ley.
 
-VI. Del recurso de revisión contra sentencias que en amparo directo pronuncien los Tribunales Colegiados de Circuito, cuando decidan sobre la constitucionalidad de una ley federal o local o de un tratado internacional;
+VI. Del recurso de reclamación contra las providencias o acuerdos del Presidente de la Suprema Corte de Justicia, dictados durante la tramitación de los asuntos jurisdiccionales de la competencia del Pleno;
 
-VII. Del recurso de queja interpuesto en el caso a que se refiere la fracción V del artículo 95 de la Ley de Amparo, siempre que el conocimiento de la revisión en el juicio de garantías en el que la queja se haga valer, le haya correspondido al Pleno de la Suprema Corte, en los términos del artículo 99, párrafo segundo, de la misma ley;
+VII. De las excusas e impedimentos de los ministros, en asuntos de la competencia del Pleno;
 
-VIII. De la aplicación de la fracción XVI del artículo 107 de la Constitución General de la República;
+VIII. De las excusas e impedimentos del Presidente de la Suprema Corte de Justicia, incluso de los propuestos durante la tramitación de los asuntos de la competencia del Pleno;
 
-IX. De las excusas e impedimentos de los ministros, en asuntos de la competencia del Pleno;
+IX. De la aplicación de la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. De las excusas e impedimentos del Presidente de la Suprema Corte, propuestos durante la tramitación de los asuntos de la competencia del Pleno;
+X. De las denuncias de contradicción entre tesis sustentadas por las Salas de la Suprema Corte de Justicia o de los tribunales colegiados de Circuito en aquellos asuntos que no sean de la competencia exclusiva de las Salas;
 
-XI. De cualquier controversia que se suscite entre las Salas de la Suprema Corte;
+XI. De los conflictos de trabajo suscitados con sus servidores en términos de la fracción XII del apartado B) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Sustanciadora de la Suprema Corte de Justicia;
 
-XII. De los recursos de reclamación que se intenten contra las providencias o acuerdos del Presidente de la Suprema Corte, dictados durante la tramitación, en los asuntos de la competencia del Pleno;
+XII. De los juicios de anulación de la declaratoria de exclusión de los Estados del sistema Nacional de Coordinación Fiscal, y de los juicios sobre cumplimiento de los convenios de coordinación celebrados por el Gobierno Federal con los Gobiernos de los Estados o el Distrito Federal, de acuerdo con lo establecido por la Ley de Coordinación Fiscal, en términos del artículo 105 constitucional, y
 
-XIII. De las denuncias de contradicción entre tesis sustentadas por dos o más salas de la Suprema Corte;
+XIII. De cualquier otro asunto de la competencia de la Suprema Corte de Justicia, cuyo conocimiento no corresponda a sus Salas.
 
-XIV. De los juicios de anulación de la Declaratoria de Exclusión de los Estados del Sistema Nacional de Coordinación Fiscal, y de los juicios sobre cumplimiento de los Convenios de Coordinación celebrados por el Gobierno Federal con los Gobiernos de los Estados, de acuerdo con lo establecido por la Ley de Coordinación Fiscal, en relación con lo dispuesto en el artículo 105 constitucional; y
-
-XV. De cualquier otro asunto de la competencia de la Suprema Corte, cuyo conocimiento no corresponda a las Salas de la misma, por disposición expresa de la ley.
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 12.
 
-Son, además, atribuciones de la Suprema Corte de Justicia, funcionando en Pleno, las siguientes:
+Son, además, atribuciones del Pleno de la Suprema Corte de Justicia:
 
-I. Determinar el número y límites territoriales, de los Circuitos en que se divida el territorio de la República, para los efectos de esta ley;
+I. Elegir a su Presidente;
 
-II. Determinar el número y especialización por materia de los Tribunales Colegiados que existirán en cada uno de los Circuitos a que se refiere la fracción anterior;
+II. Conceder licencias a sus integrantes en términos del artículo 99 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III. Determinar el número y especialización por materia de los Tribunales Unitarios que estarán en cada uno de los Circuitos mencionados;
+III. Fijar, mediante acuerdos generales, los días y horas de las sesiones ordinarias del Pleno;
 
-IV. Determinar el número, límites territoriales y especialización por materia de los juzgados de Distrito que existirán en cada uno de dichos Circuitos;
+IV. Determinar, mediante acuerdos generales, el sistema de distribución de los asuntos que cada una de las Salas deban conocer;
 
-V. Emitir los acuerdos generales que sean necesarios para la adecuada distribución de los asuntos cuyo conocimiento es competencia de las salas en los términos de esta ley;
+V. Remitir a las Salas los asuntos de su competencia para su resolución. Si alguna de las Salas estima que un asunto debe resolverlo el Pleno, lo hará de su conocimiento para que determine lo que corresponda;
 
-VI. Ordenar, cuando se considere conveniente por las necesidades del servicio, que los ministros supernumerarios se constituyan en Sala Auxiliar y señalar, mediante acuerdos generales, los asuntos de los que deba conocer;
+VI. Remitir, para su resolución, a los tribunales colegiados de Circuito con fundamento en los acuerdos generales que dicte, aquellos asuntos de su competencia en que hubiere establecido jurisprudencia. Si un tribunal colegiado estima que un asunto debe resolverse por el Pleno, lo hará de su conocimiento para que determine lo que corresponda;
 
-VII. Dictar las medidas que estime convenientes para que la administración de justicia sea expedita, pronta y cumplida en los tribunales de la Federación;
+VII. Resolver sobre las quejas administrativas que por vía de dictamen le someta el Presidente de la Suprema Corte de Justicia;
 
-VIII. Dictar las medidas necesarias para que se observen la disciplina y puntualidad debidas en los tribunales federales;
+VIII. Resolver las revisiones administrativas a que se refiere el párrafo octavo del artículo 100 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Elegir Presidente de la Suprema Corte de Justicia de entre los ministros que la forman;
+IX. Conocer de cualquier controversia que se suscite entre las Salas de la Suprema Corte de Justicia;
 
-X. Determinar las adscripciones de los ministros a las salas, para la integración permanente de éstas; designar a ministros de otras salas para que transitoriamente integren alguna de ellas, cuando sea necesario para su funcionamiento; y adscribir los ministros supernumerarios a las salas, para que suplan a los numerarios en sus faltas temporales;
+X. Determinar las adscripciones de los ministros a las Salas y realizar los cambios necesarios entre sus integrantes con motivo de la elección del Presidente de la Suprema Corte;
 
-XI. Designar a dos ministros que con el Presidente de la Suprema Corte, formen la Comisión de Gobierno y Administración que se elegirá cada año, pudiendo aquéllos ser reelectos por una sola vez;
+XI. Nombrar los comités que sean necesarios para la atención de los asuntos de su competencia;
 
-XII. Nombrar cada año, conforme al reglamento interior de la Corte, las comisiones permanentes que sean necesarias para la atención de los servicios económicos de la misma, que podrán estar a cargo de ministros supernumerarios;
+XII. Designar a su representante a la Comisión Sustanciadora de la Suprema Corte de Justicia;
 
-XIII. Distribuir los tribunales de Circuito y los juzgados de Distrito entre los ministros de la Suprema Corte o los supernumerarios, para que los visiten periódicamente, vigilen la conducta de los magistrados y jueces respectivos, reciban las quejas que hubieren contra ellos y ejerzan las demás atribuciones que esta ley y los reglamentos les señalen;
+XIII. Nombrar, a propuesta del Presidente de la Suprema Corte de Justicia, al Secretario General de Acuerdos, al Subsecretario General de Acuerdos, y a sus funcionarios y empleados, excepto los que corresponda designar al primero; asi como resolver sobre las renuncias que presenten a sus cargos.
 
-XIV. Conceder licencias a los ministros que integran la Suprema Corte, en los términos del artículo 100 de la Constitución;
+Igualmente, podrá removerlos por causa justificada o suspenderlos cuando lo juzgue conveniente para el buen servicio o por vía de corrección disciplinaria, y ponerlos a disposición del Ministerio Público cuando aparezcan involucrados en la comisión de algún delito;
 
-> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
+XIV. Solicitar la intervención del Consejo de la Judicatura Federal en aquellos asuntos que estime convenientes;
 
-XV. Nombrar a propuesta que haga el Presidente de la Suprema Corte, al Secretario General de Acuerdos, a los Subsecretarios de Acuerdos y al Jefe de Defensores de Oficio, y a propuesta en terna que haga este último, a los defensores de oficio, así como resolver sobre las renuncias que presenten a sus cargos. Igualmente podrá removerlos por causa justificada o suspenderlos cuando lo juzgue conveniente para el buen servicio o por vía de corrección disciplinaria, y consignarlos al Ministerio Público cuando aparezcan inculpados en la comisión de algún delito;
+XV. Aprobar el proyecto del presupuesto anual de egresos que le someta el Presidente de la Suprema Corte de Justicia, atendiendo a las previsiones del ingreso y del gasto público federal;
 
-XVI. (DEROGADA, D.O.F. 19 DE JULIO DE 1991)
+XVI. Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Suprema Corte de Justicia o su Pleno, falten al respeto a ésta, a alguno de sus miembros o a cualquier otro funcionario del Poder Judicial de la Federación;
 
-XVII. (DEROGADA, D.O.F. 19 DE JULIO DE 1991)
+XVII. Ejercer las facultades a que se refieren los párrafos segundo y tercero del artículo 97 constitucional, y
 
-> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
-
-XVIII. Aumentar y disminuir el número de servidores de carácter judicial, a fin de garantizar el eficaz cumplimiento de las atribuciones del Poder Judicial de la Federación;
-
-XIX. Formular anualmente el Proyecto del Presupuesto de Egresos del Poder Judicial de la Federación, con vista del anteproyecto que propondrá la Comisión de Gobierno y Administración de la Suprema Corte, atendiendo a las previsiones del ingreso y del gasto público federal;
-
-XX. Expedir los reglamentos interiores de la Suprema Corte de Justicia, de los tribunales de Circuito y de los juzgados de Distrito;
-
-XXI. Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante el Pleno falten al respeto a la Suprema Corte, a alguno de sus miembros o a cualquiera otro funcionario del Poder Judicial de la Federación;
-
-XXII. Realizar los cambios que sean necesarios hacer entre los ministros que integran las Salas por razón de la elección de Presidente de la Suprema Corte, después de hecha ésta y sin llevar a cabo más substituciones que las que sean indispensables;
-
-XXIII. Nombrar a los magistrados de Circuito y a los Jueces de Distrito, sin expresar en los nombramientos respectivos la jurisdicción territorial en que deban ejercer sus funciones;
-
-XXIV. Asignar la jurisdicción territorial en que deban ejercer sus funciones los magistrados de Circuito y la de los jueces de Distrito; y tratándose de estos últimos, en los lugares en que haya dos o más, el juzgado en que deban prestar sus servicios;
-
-XXV. Cambiar temporalmente la residencia de los tribunales de Circuito y la de los juzgados de Distrito, según lo estime conveniente, para el mejor servicio público;
-
-XXVI. Cambiar a los magistrados de un Circuito a otro y a los jueces de uno a otro Distrito, y tratándose de estos últimos, a juzgados de materia diversa, en los lugares en que haya dos o más, siempre que las necesidades del servicio así lo requieran o que haya causa fundada y suficiente para el cambio;
-
-XXVII. Aumentar temporalmente el número de empleados de los tribunales de Circuito y juzgados de Distrito;
-
-XXVIII. Autorizar a los secretarios de los tribunales de Circuito y a los de los juzgados de Distrito para desempeñar las funciones de los magistrados y jueces, respectivamente, en las faltas temporales de los mismos, y facultarlos para designar secretarios interinos;
-
-XXIX. Autorizar a los magistrados de Circuito y a los jueces de Distrito para que, en casos de faltas temporales de sus respectivos secretarios, que excedan de un mes, nombren un secretario interino;
-
-XXX. Fijar los períodos de vacaciones para los magistrados de Circuito y jueces de Distrito;
-
-XXXI. Conceder licencias, con o sin goce de sueldo, conforme a la Ley, a los magistrados de Circuito y jueces de Distrito, siempre que excedan de quince días, previo dictamen de la Comisión de Gobierno y Administración;
-
-XXXII. Resolver sobre las renuncias que presenten los magistrados de Circuito y los jueces de Distrito;
-
-XXXIII. Suspender en sus cargos a los propios funcionarios, a solicitud de la autoridad judicial que conozca de la averiguación penal que se siga en su contra, cuando esté plenamente comprobado el cuerpo del delito imputado y existan datos bastantes para hacer probable la responsabilidad del funcionario acusado. La resolución que se dicte sobre la suspensión se comunicará a la autoridad judicial que haya hecho la solicitud. En todo caso, se determinará el sueldo que deba disfrutar el funcionario suspendido, entre tanto se tramita y resuelva el proceso correspondiente, y que no podrá exceder del 50% asignado al cargo que desempeñe.
-
-La suspensión en sus cargos de los magistrados de Circuito y jueces de Distrito, por el Pleno de la Suprema Corte de Justicia, constituye un requisito previo indispensable para la aprehensión o enjuiciamiento de aquéllos; y si con desacato de este precepto llegare a ordenarse o a efectuarse alguna detención, se impondrá al responsable prisión de quince días a un año y destitución del cargo o empleo;
-
-XXXIV. Ordenar la práctica de investigaciones para averiguar la conducta de algún magistrado de Circuito o juez de Distrito, o algún hecho o hechos que constituyan grave violación de alguna garantía individual o violación del voto público, cuando pueda ponerse en duda la legalidad de todo el proceso de elección de alguno de los Poderes de la Unión, o algún delito castigado por alguna ley federal, conforme a lo dispuesto por los párrafos segundo y tercero del artículo 97 de la Constitución;
-
-XXXV. Imponer correcciones disciplinarias a los magistrados de Circuito y jueces de Distrito, en los casos de faltas graves en el ejercicio de sus funciones; y suspenderlos en sus mismas funciones para consignarlos al Ministerio Público, si aparecieren indiciados en la comisión de un delito;
-
-XXXVI. Dictar las disposiciones que estime pertinentes para turnar los expedientes y promociones de la competencia de los Tribunales de Circuito, unitarios o colegiados, de Juzgados de Distrito, cuando en un mismo lugar haya varios de ellos, en los términos de esta ley;
-
-XXXVII. Dictar acuerdos generales para remitir a las Salas de la Suprema Corte de Justicia, para su resolución, aquellos asuntos que por sus características especiales considere que no requieren su intervención. Sin embargo, si las Salas estiman que en algún caso existen razones graves para que lo resuelva en Pleno, las harán de su conocimiento para que éste determine lo que corresponda; y
-
-XXXVIII. Las demás que determinen las leyes.
+XVIII. Las demás que determinen las leyes.
 
 ###### Art. 13.
 
@@ -247,43 +219,55 @@ II. Representar a la Suprema Corte de Justicia en los actos oficiales, a no ser 
 
 III. Llevar la correspondencia oficial de la Suprema Corte, salvo la reservada a los presidentes de las Salas;
 
-IV. Presidir la Comisión de Gobierno y Administración;
+IV. (DEROGADA, D.O.F. 3 DE FEBRERO DE 1995)
 
-V. Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de la Suprema Corte o en los tribunales federales, así como las urgentes que sean necesarias, con el carácter de provisionales, en los asuntos administrativos que competan al Pleno o a la Comisión de Gobierno y Administración, dando cuenta oportunamente de ellas, a uno o a otra, según corresponda, para que resuelva en definitiva lo que proceda;
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
-VI. Recibir quejas sobre las faltas que ocurran en el despacho de los negocios, tanto de la competencia del Pleno como de alguna de las Salas, o de la de los tribunales de Circuito o de los juzgados de Distrito.
+V. Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de la Suprema Corte, así como las urgentes que sean necesarias;
 
-Si las faltas fueren leves, dictará las providencias oportunas para su corrección o remedio inmediato; si fueren graves, dará cuenta al Pleno para que dicte éste el acuerdo correspondiente;
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+VI. Recibir quejas sobre las faltas que ocurran en el despacho de los negocios, tanto de la competencia del Pleno como de alguna de las Salas;
 
 VII. Tramitar todos los asuntos de la competencia del pleno de la Suprema Corte de Justicia de la Nación.
 
 En caso de que la Presidencia estime dudoso o trascendental algún trámite, dispondrá que el secretario respectivo lo someta a la consideración del pleno, para que dicte el trámite que corresponda;
 
-VIII. Llevar el turno de los ministros supernumerarios y conforme a él hacer las designaciones correspondientes en los casos previstos en los artículos 69 de la Ley de Amparo y 20 y 22 de la presente, y designar libremente a los ministros que deban desempeñar las comisiones accidentales que sean necesarias;
+VIII. (DEROGADA, D.O.F. 3 DE FEBRERO DE 1995)
 
 IX. Turnar entre los ministros que integran la Suprema Corte los asuntos de la competencia del Pleno, cuando estime necesario oír su parecer, para acordar algún trámite, o para que formulen el proyecto de resolución que deba ser discutido por el mismo tribunal;
 
-X. Turnar al ministro inspector del circuito que corresponda los asuntos que tengan conexión con el funcionamiento o necesidades de los tribunales de Circuito y de los Juzgados de Distrito, así como con la conducta de los funcionarios y empleados de los mismos para que emitan dictamen sobre la resolución que deban dictar el Presidente de la Suprema Corte, la Comisión de Gobierno y Administración o el Pleno, en su caso;
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+X. Informar anualmente al Pleno sobre el ejercicio de sus atribuciones;
 
 XI. Legalizar la firma de los funcionarios del Poder Judicial de la Federación, en los casos en que la ley exija este requisito;
 
-XII. Conceder licencias económicas, hasta por quince días, a los funcionarios y empleados cuyo nombramiento corresponda al pleno de la Suprema Corte o a la Comisión de Gobierno y Administración;
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+XII. Conceder licencias a los funcionarios y empleados de la Suprema Corte de Justicia, cuyo otorgamiento no corresponda al Pleno;
 
 XIII. Comunicar al Ejecutivo de la Unión las faltas absolutas de los ministros de la Suprema Corte de Justicia, y las temporales que deban ser suplidas mediante nombramiento;
 
-XIV. Promover oportunamente los nombramientos de los funcionarios y empleados que deban hacer el pleno de la Suprema Corte y la Comisión de Gobierno y Administración, en caso de vacante;
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+XIV. Promover oportunamente el nombramiento de los funcionarios y empleados que deba hacer el Pleno de la Suprema Corte de Justicia;
 
 XV. Ejercer las atribuciones que le asigne el reglamento interior de la Suprema Corte; y
 
 XVI. Firmar las resoluciones del pleno de la Suprema Corte, con el ponente y con el Secretario General de Acuerdos que dará fe. Cuando se apruebe una resolución distinta a la del proyecto o que entrañe modificaciones sustanciales a éste, el texto, una vez engrosado, se distribuirá entre los ministros, y si éstos no hacen objeciones en el plazo de diez días hábiles, se firmará la resolución por las personas arriba señaladas.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 14.
 
-Fuera del caso a que se refiere la fracción XXII, del artículo 12, solo podrá designarse a un ministro para integrar otra Sala, cuando sea absolutamente indispensable en beneficio del servicio, a juicio del Pleno, después de un año de haber sido electo para integrar la Sala a que pertenezca o cuando por falta temporal de dos miembros de una misma Sala, siempre que no exceda de un mes, sea necesario designar a un ministro de otra sala, para que aquélla pueda funcionar.
+Fuera de los cambios a que se refiere la fracción X del artículo 12, sólo podrá designarse a un ministro para integrar otra Sala, cuando sea absolutamente indispensable en beneficio del servicio, a juicio del Pleno, despues de un año de haber sido electo para integrar la Sala a que pertenezca o cuando por falta temporal de dos miembros de una misma Sala, siempre que no exceda de un mes, sea necesario designar a un ministro de otra Sala, para que aquella pueda funcionar.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 15.
 
-La Suprema Corte de Justicia funciona, además, en cuatro salas, numeradas progresivamente, de cinco ministros cada una; pero bastará la presencia de cuatro para que pueda funcionar.
+Las Salas se integrarán por cinco ministros cada una, pero bastará la presencia de cuatro para que puedan funcionar.
 
 ###### Art. 16.
 
@@ -321,161 +305,65 @@ Las salas calificarán las excusas e impedimentos de los ministros que las integ
 
 Admitida la excusa o calificado de legal el impedimento, solamente se pedirá al Pleno que designe un nuevo ministro cuando, por virtud de la excusa o impedimento en determinado asunto de que conozca alguna Sala, ésta no pueda funcionar legalmente dentro de un plazo de diez días.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 23.
 
-Las Salas de la Suprema Corte de Justicia tendrán la facultad que al Pleno confiere el artículo 12, fracción XXI, de esta ley, en los asuntos de su respectiva competencia.
+Las Salas de la Suprema Corte de Justicia tendrán la facultad que al Pleno confiere el artículo 12, fracción XVI, de esta ley, en los asuntos de su respectiva competencia.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 24.
 
-Corresponde conocer a la Primera Sala:
+Corresponde conocer a las Salas:
 
-I. Del recurso de revisión en amparo contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito:
+I. Del recurso de revisión en amparo contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito en los siguientes casos:
 
-a) Cuando subsista en el recurso el problema de constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento federal en materia penal expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución, o un reglamento en materia penal expedido por el gobernador de un Estado, por estimarlo directamente violatorio de un precepto de la Constitución, o si en la sentencia se establece la interpretación directa de un precepto de la Constitución en materia penal; y
+a) Cuando subsista en el recurso el problema de constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento federal expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, o reglamentos expedidos por el gobernador de un Estado o por el Jefe del Distrito Federal, por estimarlos directamente violatorios de un precepto de la Constitución Política de los Estados Unidos Mexicanos o si en la sentencia se establece la interpretación directa de un precepto de la Constitución en estas materias, y
 
-b) Cuando la Sala ejercite la facultad de atracción contenida en la fracción VIII del artículo 107 de la Constitución, para conocer de un amparo en revisión en materia penal, que por sus características especiales así lo amerite;
+b) Cuando se ejercite la facultad de atracción contenida en el segundo párrafo del inciso b) de la fracción VIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, para conocer de un amparo en revisión que por su interés y trascendencia así lo amerite;
 
-II. Del recurso de revisión contra sentencias que en amparo directo en materia penal pronuncien los Tribunales Colegiados de Circuito, cuando decidan sobre la constitucionalidad de un reglamento federal en materia penal expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución o de un Reglamento en materia penal expedido por el gobernador de un Estado, o cuando en la sentencia se establezca la interpretación directa de un precepto de la Constitución en materia penal;
+II. Del recurso de revisión contra sentencias que en amparo directo pronuncien los tribunales colegiados de Circuito cuando decidan sobre la constitucionalidad de un reglamento federal expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, o de reglamentos expedidos por el gobernador de un Estado o por el Jefe del Distrito Federal, o cuando en la sentencia se establezca la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos en estas materias;
 
-III. Cuando la Sala ejercite la facultad de atracción contenida en la fracción V del artículo 107 de la Constitución, para conocer de un amparo directo en materia penal, que por sus características especiales así lo amerite;
+III. De los amparos directos que por su interés y trascendencia así lo ameriten en uso de la facultad de atracción contenida en el segundo párrafo del inciso d) de la fracción V del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII y IX del artículo 95 de la Ley de Amparo, siempre que a la Sala le haya correspondido el conocimiento, directamente o en revisión, del amparo en que la queja se haga valer, en términos del artículo 99, párrafo segundo de la misma ley;
+IV. Del recurso de apelación en contra de sentencias de jueces de Distrito en los términos de la fracción III del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-V. Del recurso de reclamación contra los acuerdos de trámite dictados por el presidente de la sala;
+V. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII a IX del artículo 95 de la Ley de Amparo, siempre que a la Sala le haya correspondido el conocimiento, directamente o en revisión, del amparo en que la queja se haga valer, en términos del artículo 99, párrafo segundo de la misma ley;
 
-VI. De las controversias que se susciten en materia penal entre los tribunales federales y locales o entre cualquiera de éstos y los militares; entre los tribunales de la Federación y los de las entidades federativas y entre tribunales de dos o más entidades federativas;
+VI. Del recurso de reclamación contra los acuerdos de trámite dictados por su Presidente;
 
-VII. De las controversias que se susciten en asuntos del orden penal, entre Tribunales de Circuito, o entre juzgados de Distrito pertenecientes a distintos Circuitos;
+VII. De las controversias que por razón de competencia se susciten entre los tribunales de la Federación, entre éstos y los de los Estados o del Distrito Federal, entre los de un Estado y los de otros, entre los de un Estado y los del Distrito Federal, entre cualquiera de éstos y los militares; aquellas que le correspondan a la Suprema Corte de Justicia de acuerdo con la Ley Federal del Trabajo, asi como las que se susciten entre las juntas de conciliación y arbitraje, o las autoridades judiciales, y el Tribunal Federal de Conciliación y Arbitraje;
 
-VIII. De las competencias que se susciten entre Tribunales Colegiados de Circuito en amparos del orden penal; entre jueces de Distrito que no sean de la jurisdicción de un mismo tribunal colegiado de Circuito; entre un juez de Distrito y un tribunal superior, o entre dos tribunales superiores, en los juicios de amparo a que se refiere el artículo 51, fracciones III y IV;
+VIII. De las controversias que se susciten entre tribunales de Circuito, o entre juzgados de Distrito pertenecientes a distintos Circuitos;
 
-IX. De los impedimentos y excusas de los magistrados de los tribunales colegiados de Circuito, en juicios de amparo en materia penal;
+IX. De las competencias que se susciten entre tribunales colegiados de Circuito, entre jueces de Distrito pertenecientes a distintos circuitos, entre un juez de Distrito y el tribunal superior de un Estado o del Distrito Federal, entre tribunales superiores de distintos Estados, o entre el tribunal superior de un Estado y el Tribunal Superior de Justicia del Distrito Federal;
 
-X. De las excusas, impedimentos y recusaciones de los magistrados de los Tribunales Unitarios de Circuito, en asuntos del orden penal;
+X. De las denuncias de contradicciones de tesis que en amparos materia de la competencia de las Salas, sustenten dos o más tribunales colegiados de Circuito, para los efectos a que se refiere el párrafo final del artículo 196 y el artículo 197-A de la Ley de Amparo;
 
-XI. De las controversias cuya resolución encomiende a la Suprema Corte de Justicia la Ley Reglamentaria del artículo 119 de la Constitución;
+XI. Del reconocimiento de inocencia;
 
-XII. De las resoluciones de contradicciones entre tesis que en amparos en materia penal, sustenten dos o más Tribunales Colegiados de Circuito, para los efectos a que se refiere el párrafo final del artículo 196 y el artículo 197-A de la Ley de Amparo.
+XII. De los impedimentos y excusas de los magistrados de los tribunales colegiados de Circuito en juicios de amparo;
 
-XIII. De los asuntos que sean competencia de las otras salas, cuando por acuerdos generales así lo determine el Pleno de la Suprema Corte de Justicia, en ejercicio de la facultad que le concede el sexto párrafo del artículo 94 de la Constitución; y
+XIII. De los impedimentos, excusas y recusaciones de los magistrados de los tribunales unitarios de Circuito, y
 
-XIV. De los demás asuntos que la ley le encargue expresamente.
+XIV. De los demás asuntos que la ley les encargue expresamente.
 
 ###### Art. 25.
 
-Corresponde conocer a la Segunda Sala:
-
-I. Del recurso de revisión en amparo contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito:
-
-a) Cuando subsista en el recurso el problema de constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento federal en materia administrativa expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución, o un reglamento en materia administrativa expedido por el gobernador de un Estado, por estimarlo directamente violatorio de un precepto de la Constitución, o si en la sentencia se establece la interpretación directa de un precepto de la Constitución en materia administrativa; y
-
-b) Cuando la Sala ejercite la facultad de atracción contenida en la fracción VIII del artículo 107 de la Constitución, para conocer de un amparo en revisión en materia administrativa, que por sus características especiales así lo amerite;
-
-II. Del recurso de revisión contra sentencias que en amparo directo en materia administrativa pronuncien los tribunales colegiados de Circuito, cuando decidan sobre la constitucionalidad de un reglamento federal en materia administrativa expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución, o de un reglamento en materia administrativa expedido por el gobernador de un Estado, o cuando en la sentencia se establezca la interpretación directa de un precepto de la Constitución en materia administrativa;
-
-III. Cuando la Sala ejercite la facultad de atracción contenida en la fracción V del artículo 107 de la Constitución, para conocer de un amparo directo en materia administrativa que por sus características especiales así lo amerite;
-
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII y IX del artículo 95 de la Ley de Amparo, siempre que a la Sala le haya correspondido el conocimiento, directamente o en revisión, del amparo en que la queja se haga valer, en los términos del artículo 99, párrafo segundo, de la misma ley;
-
-V. Del recurso de reclamación contra los acuerdos de trámite dictados por el presidente de la sala;
-
-VI. De las controversias que se susciten en materia administrativa, entre los tribunales de la Federación y los de las entidades federativas, o entre los tribunales de dos o más entidades federativas;
-
-VII. De las controversias que se susciten entre tribunales federales de diversos Circuitos, con motivo de los asuntos a que se refiere la fracción I del artículo 52 de esta ley;
-
-VIII. De las competencias que se susciten entre tribunales colegiados de Circuito en amparos administrativos, o entre jueces de Distrito que no sean de la jurisdicción de un mismo tribunal colegiado de Distrito, en juicios de amparo en materia administrativa;
-
-IX. De los impedimentos y excusas de los magistrados de los tribunales colegiados de Circuito, en los asuntos que se mencionan en la fracción anterior;
-
-X. De los impedimentos, excusas y recusaciones de los magistrados de los tribunales unitarios de Circuito, en los asuntos a que se refiere la fracción I del artículo 52 de esta ley;
-
-XI. De la resolución de contradicciones entre tesis que en amparos en materia administrativa, sustenten dos o más tribunales colegiados de Circuito, para los efectos a que se refiere el párrafo final del artículo 196 y el artículo 197-A de la Ley de Amparo.
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XII. De la resolución de contradicciones entre tesis que, al resolver los recursos de revisión previstos en la fracción I-B del Artículo 104 Constitucional, sustenten dos o más tribunales colegiados de circuito.
-
-La denuncia, la substanciación y la resolución de las contradicciones deberán sujetarse a lo dispuesto en el Artículo 197-A y demás disposiciones aplicables de la Ley de Amparo;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XIII. De los juicios cuyo conocimiento corresponde a la Suprema Corte de Justicia, de acuerdo con la Ley Federal de Reforma Agraria, en relación con lo dispuesto por la fracción VII del Artículo 27 Constitucional;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XIV. De los asuntos que sean competencia de las otras Salas, cuando por acuerdos generales así lo determine el Pleno de la Suprema Corte de Justicia, en ejercicio de la facultad que le concede el sexto párrafo del Artículo 94 de la Constitución; y
-
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-XV. De los demás asuntos que la Ley le encargue expresamente.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
 
 ###### Art. 26.
 
-Corresponde conocer a la Tercera Sala:
-
-I. Del recurso de revisión en amparo contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito:
-
-a) Cuando subsista en el recurso el problema de constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento federal en materia civil expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución, o un reglamento en materia civil expedido por el gobernador de un Estado, por estimarlo directamente violatorio de un precepto de la Constitución, o si en la sentencia se establece la interpretación directa de un precepto de la Constitución en materia civil; y
-
-b) Cuando la Sala ejercite la facultad de atracción contenida en la fracción VIII del artículo 107 de la Constitución, para conocer de un amparo en revisión en materia civil, que por sus características especiales así lo amerite;
-
-II. Del recurso de revisión contra sentencias que en amparo directo en materia civil pronuncien los tribunales colegiados de Circuito, cuando decidan sobre la constitucionalidad de un reglamento federal en materia civil expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la constitución, o de un reglamento en materia civil expedido por el gobernador de un Estado; o cuando en la sentencia se establezca la interpretación directa de un precepto de la Constitución en materia civil;
-
-III. Cuando la Sala ejercite la facultad de atracción contenida en la fracción V del artículo 107 de la Constitución, para conocer de un amparo directo en materia civil que por sus características especiales así lo amerite;
-
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII y IX del artículo 95 de la Ley de Amparo, siempre que a la Sala le haya correspondido el conocimiento, directamente o en revisión, del amparo en que la queja se haga valer, en términos del artículo 99, párrafo segundo, de la misma ley;
-
-V. Del recurso de reclamación contra los acuerdos de trámite dictados por el presidente de la sala;
-
-VI. De las controversias que se susciten en materia civil, entre los tribunales de la Federación y los de las entidades federativas, o entre los tribunales de dos o más entidades federativas;
-
-VII. De las controversias que se susciten entre tribunales federales de diversos circuitos, en los asuntos a que se refiere el artículo 54, fracciones I a VI y IX de esta ley;
-
-VIII. De las competencias que se susciten entre tribunales colegiados de Circuito, o entre jueces de Distrito que no sean de la jurisdicción de un mismo tribunal colegiado de Circuito, en juicios de amparo en materia civil;
-
-IX. De los impedimentos y excusas de los magistrados de los tribunales colegiados de Circuito, en juicios de amparo en materia civil;
-
-X. De las excusas, impedimentos y recusaciones de los magistrados de los tribunales unitarios de Circuito, en asuntos del orden civil;
-
-XI. De la resolución de contradicciones entre tesis que en amparos en materia civil, sustenten dos o más tribunales colegiados de Circuito, para los efectos a que se refiere el párrafo final del artículo 196 y el artículo 197-A de la Ley de Amparo;
-
-XII. De los asuntos que sean competencia de las otras salas, cuando por acuerdos generales así lo determine el Pleno de la Suprema corte de Justicia, en ejercicio de la facultad que le concede el sexto párrafo del artículo 94 de la Constitución; y
-
-XIII. De los demás asuntos que la ley le encargue expresamente.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
 
 ###### Art. 27.
 
-Corresponde conocer a la Cuarta Sala:
-
-I. Del recurso de revisión en amparo contra sentencias pronunciadas en la audiencia constitucional por los jueces de Distrito:
-
-a) Cuando subsista en el recurso el problema de constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento federal en materia del trabajo expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución, o un reglamento en materia del trabajo expedido por el gobernador de un Estado, por estimarlo directamente violatorio de un precepto de la Constitución, o si en la sentencia se establece la interpretación directa de un precepto de la Constitución en materia del trabajo; y
-
-b) Cuando la Sala ejercite la facultad de atracción contenida en la fracción VIII del artículo 107 de la Constitución, para conocer de un amparo en revisión en materia del trabajo que por sus características especiales así lo amerite;
-
-II. Del recurso de revisión contra sentencias que en amparo directo en materia del trabajo pronuncien los tribunales colegiados de Circuito, cuando decidan sobre la constitucionalidad de un reglamento federal en materia del trabajo expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución o de un reglamento en materia del trabajo expedido por el Gobernador de un Estado, o cuando en la sentencia se establezca la interpretación directa de un precepto de la Constitución en materia del trabajo;
-
-III. Cuando la Sala ejercite la facultad de atracción contenida en la fracción V del artículo 107 de la Constitución, para conocer de un amparo directo en materia laboral que por sus características especiales así lo amerite;
-
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII y IX del artículo 95 de la Ley de Amparo, siempre que a la Sala le haya correspondido el conocimiento, directamente o en revisión, del amparo en que la queja se haga valer en los términos del artículo 99, párrafo segundo, de la misma ley;
-
-V. Del recurso de reclamación contra los acuerdos de trámite dictados por el presidente de la sala;
-
-VI. De las controversias cuyo conocimiento corresponda a la Suprema Corte de Justicia, de acuerdo con la Ley Federal del Trabajo, así como de las que se susciten entre las juntas de conciliación y arbitraje, o las autoridades judiciales, y el Tribunal Federal de Conciliación y Arbitraje;
-
-VII. De las competencias que se susciten entre tribunales colegiados de Circuito, o entre jueces de Distrito que no sean de la jurisdicción de un mismo tribunal colegiado de Circuito, en juicios de amparo en materia del trabajo;
-
-VIII. De los impedimentos y excusas de los magistrados de los tribunales colegiados de Circuito, en juicio de amparo en materia del trabajo;
-
-IX. De la resolución de contradicciones entre tesis que en amparos en materia laboral, sustenten dos o más tribunales colegiados de Circuito, para los efectos a que se refiere el párrafo final del artículo 196 y el artículo 197-A de la Ley de Amparo;
-
-X. De los asuntos que sean competencia de las otras salas, cuando por acuerdos generales así lo determine el Pleno de la Suprema Corte de Justicia, en ejercicio de la facultad que le concede el sexto párrafo del artículo 94 de la Constitución; y
-
-XI. De los demás asuntos que la ley le encargue expresamente.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
 
 ###### Art. 28.
 
-Cuando el Pleno de la Suprema Corte de Justicia acuerde que los ministros supernumerarios se constituyan en Sala Auxiliar, en ejercicio de la facultad contenida en la fracción VI del artículo 12 de esta ley, corresponderá conocer a la Sala Auxiliar de los asuntos que el propio pleno determine, por acuerdos generales respecto de las materias señaladas por los artículos 24 a 27 de esta ley.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
 
 ###### Art. 29.
 
@@ -493,27 +381,7 @@ IV. Llevar la correspondencia oficial de la Sala.
 
 ###### Art. 30.
 
-Son atribuciones de la Comisión de Gobierno y Administración:
-
-I. Proponer anualmente a la consideración de la Suprema Corte el anteproyecto del presupuesto de egresos del Poder Judicial de la Federación;
-
-II. Manejar las partidas del presupuesto de egresos, ordenando las ministraciones de dinero, conforme a las necesidades del Poder Judicial de la Federación, dando cuenta anualmente al Pleno de dicho manejo;
-
-> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
-
-III. Nombrar, a propuesta que haga el Presidente de la Suprema Corte de Justicia de la Nación a los servidores públicos superiores administrativos del Poder Judicial de la Federación, y a los funcionarios y empleados administrativos, personal de las oficinas de Correspondencia Común, Administradores Foráneos y Pagadores de los Tribunales de Circuito y Juzgados de Distrito, así como resolver sobre las renuncias que presenten sus cargos. Igualmente podrá removerlos por causa justificada o suspenderlos cuando lo juzgue conveniente para el buen servicio o por vía de corrección disciplinaria, y consignarlos al Ministerio Público cuando aparezcan inculpados en la comisión de algún delito;
-
-IV. Dictaminar en los asuntos económicos y administrativos que, por su importancia o trascendencia, deba resolver el Pleno;
-
-V. Conceder licencia por más de quince días, por causa justificada, con goce de sueldo o sin él, a los funcionarios y empleados del Poder Judicial de la Federación cuyo nombramiento dependa de la Suprema Corte, excepto los magistrados de Circuito y jueces de Distrito, y el personal que dependa de las salas; con goce de sueldo a los secretarios y empleados dependientes de los magistrados y jueces citados; y sin él, por más de seis meses, al personal del Poder Judicial, con las excepciones señaladas;
-
-> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
-
-VI. Aumentar y disminuir el número de los servidores públicos superiores administrativos, funcionarios y empleados del Poder Judicial de la Federación para el eficaz cumplimiento de sus atribuciones;
-
-VII. Iniciar ante el Pleno cuanto fuere oportuno, para lograr una administración económica y eficiente en el Poder Judicial de la Federación; y
-
-VIII. Desempeñar cualquiera otra función de carácter administrativo que resulte de la propia naturaleza de la Comisión y de los asuntos a ella encomendados, y las demás que determine la ley.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
 
 ### CAPITULO III. Tribunales Unitarios de Circuito
 
@@ -521,9 +389,11 @@ VIII. Desempeñar cualquiera otra función de carácter administrativo que resul
 
 Los Tribunales Unitarios de Circuito se compondrán de un magistrado y del número de secretarios, actuarios y empleados que determine el presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 32.
 
-Para ser Magistrado de Circuito, se requiere: ser mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de treinta y cinco años, con título de Licenciado en Derecho expedido legalmente, de buena conducta y tener cinco años de ejercicio profesional cuando menos; debiendo retirarse forzosamente del cargo al cumplir setenta años de edad, para cuyo efecto el Pleno de la Suprema Corte de Justicia, a instancia del interesado o de oficio, hará la declaración correspondiente.
+Para ser Magistrado de Circuito, se requiere: ser mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de treinta y cinco años, con título de Licenciado en Derecho expedido legalmente, de buena conducta y tener cinco años de ejercicio profesional cuando menos; debiendo retirarse forzosamente del cargo al cumplir setenta años de edad, para cuyo efecto el Consejo de la Judicatura Federal, a instancia del interesado o de oficio, hará la declaración correspondiente.
 
 Para ser Secretario de un Tribunal de Circuito, se necesitan los mismos requisitos que para ser Magistrado, con excepción de la edad mínima. Los Actuarios deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, con título de Licenciado en Derecho expedido legalmente y de reconocida buena conducta.
 
@@ -535,11 +405,13 @@ Los secretarios, actuarios y empleados de los tribunales de Circuito serán nomb
 
 Cuando un magistrado de Circuito falte accidentalmente al despacho del tribunal, el secretario respectivo practicará las diligencias urgentes y dictará las providencias de mero trámite.
 
-En las faltas temporales del mismo funcionario, la Suprema Corte designará a la persona que deba suplirlo interinamente, pudiendo autorizar al secretario del tribunal, para que desempeñe las funciones de magistrado durante su ausencia, y entretanto hace la designación o autoriza al secretario, éste deberá encargarse del despacho, en los términos del párrafo anterior, pero sin resolver en definitiva.
+En las faltas temporales del mismo funcionario, el Consejo de la Judicatura Federal designará a la persona que deba suplirlo interinamente, pudiendo autorizar al secretario del tribunal, para que desempeñe las funciones de magistrado durante su ausencia, y entretanto hace la designación o autoriza al secretario, éste deberá encargarse del despacho, en los términos del párrafo anterior, pero sin resolver en definitiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 35.
 
-Las faltas accidentales del Secretario y las temporales que no excedan de un mes, serán suplidas por otro de los secretarios, si hubiere dos o más, o, en su defecto, por el actuario que designe el magistrado respectivo. Lo mismo se observará en el caso de que el secretario ejerza las funciones de magistrado de Circuito, con arreglo al artículo anterior; a no ser que la Suprema Corte de Justicia lo autorice para nombrar secretario interino.
+Las faltas accidentales del Secretario y las temporales que no excedan de un mes, serán suplidas por otro de los secretarios, si hubiere dos o más, o, en su defecto, por el actuario que designe el magistrado respectivo. Lo mismo se observará en el caso de que el secretario ejerza las funciones de magistrado de Circuito, con arreglo al artículo anterior; a no ser que el Consejo de la Judicatura Federal lo autorice para nombrar secretario interino.
 
 Las faltas accidentales de los actuarios y las temporales que no excedan de un mes, serán suplidas por otro de los que desempeñen igual cargo en el mismo tribunal de Circuito, y si no hubiere más que uno, por el secretario respectivo.
 
@@ -547,23 +419,27 @@ Las faltas accidentales de los actuarios y las temporales que no excedan de un m
 
 Cuando un magistrado de Circuito estuviere impedido para conocer de un asunto, conocerá del mismo el magistrado de Circuito más próximo, tomando en consideración la facilidad de las comunicaciones; y mientras se remiten los autos, el secretario respectivo practicará las diligencias urgentes y dictará las providencias de mero trámite.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 37.
 
 Los tribunales Unitarios de Circuito conocerán:
 
-I. De la tramitación y fallo de apelación, cuando proceda este recurso, de los asuntos sujetos en primera instancia a los juzgados de Distrito;
+I. Del juicio de amparo en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Del recurso de denegada apelación;
+II. De la tramitación y fallo de apelación, cuando proceda este recurso, de los asuntos sujetos en primera instancia a los juzgados de Distrito;
 
-III. De la calificación de los impedimientos (sic), excusas y recusaciones de los jueces de Distrito, excepto en los juicios de amparo;
+III. Del recurso de denegada apelación;
 
-IV. De las controversias que se susciten entre los jueces de Distrito sujetos a su jurisdicción, excepto en los juicios de amparo;
+IV. De la calificación de los impedimentos, excusas y recusaciones de los jueces de Distrito, excepto en los juicios de amparo;
 
-V. De los demás asuntos que les encomienden las leyes.
+V. De las controversias que se susciten entre los jueces de Distrito sujetos a su jurisdicción, excepto en los juicios de amparo;
 
-Cuando se establezcan en un circuito en materia de apelación varios Tribunales Unitarios con residencia en un mismo lugar, que no tengan jurisdicción especial, conocerán de todos los asuntos a que se refiere este artículo; tendrán una oficina de correspondencia común, que recibirá las promociones, las registrará por orden numérico riguroso y las turnará inmediatamente al tribunal que corresponda de acuerdo con las disposiciones que dicte el Pleno de la Suprema Corte.
+VI. De los demás asuntos que les encomienden las leyes.
 
-Cuando se establezcan en un Circuito en materia de apelación, tribunales Unitarios Especializados, conocerán de los asuntos propios de su materia, la cual se regirá por lo dispuesto en los ordenamientos correspondientes.
+Cuando se establezcan en un circuito en materia de apelación varios Tribunales Unitarios con residencia en un mismo lugar, que no tengan jurisdicción especial, conoceran de todos los asuntos a que se refiere este artículo; tendrán una oficina de correspondencia común, que recibira las promociones, las registrará por orden numérico riguroso y las turnarán inmediatamente al tribunal que corresponda de acuerdo con las disposiciones que dicte el Consejo de la Judicatura Federal.
+
+Cuando se establezcan en un Circuito en materia de apelación, Tribunales Unitarios Especializados, conocerán de los asuntos propios de su materia, la cual se regirá por lo dispuesto en los ordenamientos correspondientes.
 
 ### CAPITULO IV. Tribunales Colegiados de Circuito
 
@@ -597,9 +473,11 @@ Si no hubiere mayoría en la votación de algún asunto, se entenderá desechado
 
 Si a pesar de lo previsto en el párrafo anterior no hubiere mayoría en la votación, se pasará el asunto al Tribunal Colegiado de Circuito más próximo, para que resuelva, lo cual se hará tomando en cuenta el proyecto de sentencia formulado en último término.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 44.
 
-Con las salvedades a que se refieren los artículos 11, 24, 25, 26 y 27 de esta ley, son competentes los Tribunales Colegiados de Circuito para conocer:
+Con las salvedades a que se refieren los artículos 11 y 24 de esta Ley, son competentes los Tribunales Colegiados de Circuito para conocer:
 
 I. De los juicios de amparo directo contra sentencias definitivas o de laudos, o contra resoluciones que pongan fin al juicio, por violaciones cometidas en ellas o durante la secuela del procedimiento, cuando se trate:
 
@@ -627,13 +505,17 @@ VIII. De los recursos de reclamación previstos en el artículo 103 de la Ley de
 
 IX. De los demás asuntos que la ley les encomiende expresamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 45.
 
-Los Tribunales Colegiados Especializados conocerán de las materias propias de su especialización, la cual se regirá, en lo aplicable, por lo dispuesto en los artículos del 24 al 27 de esta ley.
+Los Tribunales Colegiados Especializados, conocerán de las materias propias de su especialización.
 
 Los tribunales colegiados de Circuito que no tengan jurisdicción especial conocerán de todos los asuntos a que se refiere el artículo anterior.
 
-Cuando se establezcan en un Circuito en materia de amparo varios tribunales colegiados con residencia en un mismo lugar, que no tengan jurisdicción especial, o que deban conocer de una misma materia, tendrán una oficina de correspondencia común, que recibirá las promociones, las registrará por orden numérico riguroso y las turnará inmediatamente al tribunal que corresponda, de conformidad con las disposiciones que dicte el Pleno de la Suprema Corte.
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+Cuando se establezcan en un Circuito en materia de amparo varios tribunales colegiados con residencia en un mismo lugar, que no tengan jurisdicción especial, o que deban conocer de una misma materia, tendrán una oficina de correspondencia común, que recibirá las promociones, las registrará por orden numérico riguroso y las turnará inmediatamente al tribunal que corresponda, de conformidad con las disposiciones que dicte el Consejo de la Judicatura Federal.
 
 ###### Art. 46.
 
@@ -651,11 +533,13 @@ Cuando el tribunal colegiado encuentre que un amparo directo que deba resolver t
 
 El personal de cada uno de los juzgados de Distrito se compondrá de un juez y del número de secretarios, actuarios y empleados que determine el presupuesto.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 49.
 
-Para ser Juez de Distrito, se requiere: ser mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de treinta años, con título de Licenciado en Derecho expedido legalmente, de buena conducta y tener tres años de ejercicio profesional, cuando menos, debiendo retirarse forzosamente del cargo al cumplir setenta años de edad, para cuyo efecto el Pleno de la Suprema Corte de Justicia, a instancia del interesado o de oficio, hará la declaración correspondiente.
+Para ser Juez de Distrito, se requiere: ser mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de treinta años, con título de Licenciado en Derecho expedido legalmente, de buena conducta y tener tres años de ejercicio profesional, cuando menos, debiendo retirarse forzosamente del cargo al cumplir setenta años de edad, para cuyo efecto el Consejo de la Judicatura Federal, a instancia del interesado o de oficio, hará la declaración correspondiente.
 
-Para ser Secretario de un Juzgado de Distrito, se necesitan los mismos requisitos que para ser Juez, con excepción de la edad mínima. Los actuarios deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, con título de Licenciado en Derecho, expedido legalmente y de reconocida buena conducta. La Suprema Corte de Justicia podrá dispensar el requisito del título a los actuarios.
+Para ser Secretario de un Juzgado de Distrito, se necesitan los mismos requisitos que para ser Juez, con excepción de la edad mínima. Los actuarios deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, con título de Licenciado en Derecho, expedido legalmente y de reconocida buena conducta. El Consejo de la Judicatura Federal podrá dispensar el requisito del título a los actuarios.
 
 ###### Art. 50.
 
@@ -741,7 +625,9 @@ IV. De los asuntos civiles concernientes a miembros del cuerpo diplomático y co
 
 V. De las diligencias de jurisdicción voluntaria que se promuevan en materia federal;
 
-VI. De las controversias en que la Federación fuere parte, salvo lo dispuesto en la fracción IV del artículo 11 de esta ley, en cuyo caso el juez de autos, de oficio o a petición fundada de cualquiera de las partes, enviará el expediente al Pleno de la Corte;
+> <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+VI. De las controversias en que la federación fuese parte, salvo aquellas que correspondan a la Suprema Corte de Justicia o a los demás tribunales, conforme a lo establecido por esta Ley;
 
 VII. De los amparos que se promuevan contra resoluciones del orden civil, en los casos a que se refiere el artículo 107, fracción VII, de la Constitución Federal;
 
@@ -759,23 +645,31 @@ Los jueces de Distrito especializados conocerán de las materias propias de su e
 
 Los jueces de Distrito que no tengan jurisdicción especial conocerán de todos los asuntos a que se refieren los artículos citados en el párrafo anterior.
 
-Cuando se establezcan en un mismo lugar varios juzgados de Distrito, que no tengan jurisdicción especial, o que deban conocer de la misma materia, tendrán una o varias oficinas de correspondencia común, que recibirán las promociones, las registrarán por orden numérico riguroso y las turnarán inmediatamente al juzgado que corresponda de acuerdo con las disposiciones que dicte el Pleno de la Suprema Corte de Justicia.
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+Cuando se establezcan en un mismo lugar varios juzgados de Distrito, que no tengan jurisdicción especial, o que deban conocer de la misma materia, tendrán una o varias oficinas de correspondencia común, que recibirán las promociones, las registrarán por orden numérico riguroso y las turnarán inmediatamente al juzgado que corresponda de acuerdo con las disposiciones que dicte el Consejo de la Judicatura Federal.
 
 ###### Art. 57.
 
 Cuando un juez de Distrito falte accidentalmente al despacho del juzgado, el secretario respectivo practicará las diligencias y dictará las providencias de mero trámite, así como las resoluciones de carácter urgente, con arreglo a la ley.
 
-En las faltas temporales del juez de Distrito, la Suprema Corte de Justicia designará la persona que deba substituirlo, a no ser que autorice al secretario para desempeñar las funciones de aquél durante su ausencia; y entretanto hace la designación o autoriza al secretario, éste se encargará del despacho del juzgado, en los términos del párrafo anterior, pero sin resolver en definitiva.
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+En las faltas temporales del juez de Distrito, el Consejo de la Judicatura Federal designará la persona que deba substituirlo, a no ser que autorice al secretario para desempeñar las funciones de aquél durante su ausencia; y entretanto hace la designación o autoriza al secretario, éste se encargará del despacho del juzgado, en los términos del párrafo anterior, pero sin resolver en definitiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 58.
 
-Las faltas accidentales del secretario y las temporales que no excedan de un mes, serán cubiertas por otro secretario, si hubiere dos o más en el mismo juzgado, o, en su defecto, por el actuario que designe el juez de Distrito respectivo, siempre que aquél tenga título de abogado; y si ninguno lo tuviere, el juez actuará con testigos de asistencia. Lo mismo se observará en los casos en que un secretario desempeñe las funciones del juez de Distrito de que dependa, conforme al artículo anterior; a no ser que la Suprema Corte lo autorice expresamente para nombrar secretario.
+Las faltas accidentales del secretario y las temporales que no excedan de un mes, serán cubiertas por otro secretario, si hubiere dos o más en el mismo juzgado, o, en su defecto, por el actuario que designe el juez de Distrito respectivo, siempre que aquél tenga título de abogado; y si ninguno lo tuviere, el juez actuará con testigos de asistencia. Lo mismo se observará en los casos en que un secretario desempeñe las funciones del juez de Distrito de que dependa, conforme al artículo anterior; a no ser que el Consejo de la Judicatura Federal lo autorice expresamente para nombrar secretario.
 
 Las faltas accidentales de los actuarios y las temporales que no excedan de un mes, serán cubiertas por otro de los actuarios del mismo juzgado, o, en su defecto, por el secretario.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 59.
 
-Cuando un juez de Distrito tenga impedimento para conocer de determinado negocio, conocerá del asunto otro de su Circuito que ejerza jurisdicción en la misma materia y, en defecto de éste, los demás jueces de Distrito en el orden que establezca el Pleno de la Suprema Corte de Justicia.
+Cuando un juez de Distrito tenga impedimento para conocer de determinado negocio, conocerá del asunto otro de su Circuito que ejerza jurisdicción en la misma materia y, en defecto de éste, los demás jueces de Distrito en el orden que establezca el Consejo de la Judicatura Federal.
 
 ###### Art. 60.
 
@@ -833,9 +727,11 @@ Los que justifiquen haber desempeñado el cargo de jurado o alguno concejil dura
 
 La autoridad administrativa resolverá, bajo su responsabilidad, lo que corresponda, y hará, en su caso, las modificaciones respectivas antes del quince de julio.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 68.
 
-Las listas se publicarán el 31 de julio en el periódico oficial del Estado o del Distrito Federal a que pertenezcan las respectivas municipalidades o delegaciones y en las tablas de avisos del Departamento del Distrito Federal y de sus delegaciones y en las presidencias municipales de los Estados, remitiéndose un ejemplar a la Suprema Corte de Justicia y otro al Procurador General de la República.
+Las listas se publicarán el 31 de julio en el periódico oficial del Estado o del Distrito Federal a que pertenezcan las respectivas municipalidades o delegaciones y en las tablas de avisos del Departamento del Distrito Federal y de sus delegaciones y en las presidencias municipales de los Estados, remitiéndose un ejemplar al Consejo de la Judicatura Federal y otro al Procurador General de la República.
 
 ###### Art. 69.
 
@@ -909,23 +805,31 @@ Las excusas serán alegadas ante el presidente de debates, el que las calificar�
 
 ### CAPITULO VIII. División Territorial
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 79.
 
-Para los efectos de esta ley, el territorio de la República se dividirá en el número de circuitos que determine el Pleno de la Suprema Corte de Justicia, señalando los límites territoriales de cada uno de ellos.
+Para los efectos de esta ley, el territorio de la República se dividirá en el número de circuitos que determine el Consejo de la Judicatura Federal, señalando los límites territoriales de cada uno de ellos.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 80.
 
-Cada uno de los Circuitos a que se refiere el artículo anterior, comprenderá los distritos judiciales cuyo número y limites territoriales determine el Pleno de la Suprema Corte de Justicia.
+Cada uno de los Circuitos a que se refiere el artículo anterior, comprenderá los distritos judiciales cuyo número y limites territoriales determine el Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 81.
 
-En cada uno de los Circuitos a que se refiere el artículo 79 de esta ley, se establecerán el número, especialización y límites territoriales de los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que determine el Pleno de la Suprema Corte de Justicia. En cada uno de los distritos judiciales se establecerá, por lo menos, un juzgado de Distrito.
+En cada uno de los Circuitos a que se refiere el artículo 79 de esta ley, se establecerán el número, especialización y límites territoriales de los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que determine el Consejo de la Judicatura Federal. En cada uno de los distritos judiciales se establecerá, por lo menos, un juzgado de Distrito.
 
 ### CAPITULO IX. Impedimentos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 82.
 
-Los ministros de la Suprema Corte de Justicia, los magistrados de Circuito y los jueces de Distrito están impedidos para conocer de los asuntos, por alguna de las causas siguientes:
+Los ministros de la Suprema Corte de Justicia, los consejeros de la Judicatura Federal, los magistrados de Circuito y los jueces de Distrito están impedidos para conocer de los asuntos, por alguna de las causas siguientes:
 
 I. Tener parentesco en línea recta, sin limitación de grado: en la colateral por consanguinidad, hasta el cuarto grado, y en la colateral por afinidad, hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -977,11 +881,183 @@ Para los efectos del artículo anterior se considerará como interesado, en los 
 
 Son aplicables a los jurados las causas de impedimento a que se refiere el artículo 82 de esta ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+### CAPITULO IX BIS.. Del Consejo de la Judicatura Federal
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+1.- La administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia, estarán a cargo del Consejo de la Judicatura Federal, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos, esta ley y los reglamentos y acuerdos generales que el propio Consejo expida.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+2.- El Consejo de la Judicatura Federal se integrará por siete consejeros, en los términos del artículo 100 de la Constitución Política de los Estados Unidos Mexicanos, y funcionará en Pleno o a través de las Comisiones Administrativa y Disciplinaria. Salvo el Presidente del Consejo, los demás consejeros durarán cinco años en su cargo durante el cual sólo podrán ser removidos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+3.- El Consejo de la Judicatura Federal estará presidido por el Presidente de la Suprema Corte de Justicia, quién ejercerá las atribuciones que le confiere el artículo 84 BIS-13 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+4.- Las ausencias del Presidente de la Judicatura Federal que no requieran licencia serán suplidas por el consejero más antiguo en el órden de su designación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+5.- El Consejo de la Judicatura Federal tendrá cada año dos períodos de sesiones: el primero comenzará el día dos de enero y terminará el quince de julio; el segundo comenzará el primero de agosto y terminará el quince de diciembre.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+6.- Las resoluciones del Pleno y de las Comisiones del Consejo de la Judicatura Federal constarán en acta y deberán firmarse por los presidentes y secretarios respectivos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+7.- Las resoluciones del Consejo de la Judicatura Federal deberán notificarse personalmente a la brevedad posible a las partes interesadas. La notificación y, en su caso, la ejecución de las resoluciones, deberá realizarse por conducto de los órganos del propio Consejo de la Judicatura Federal o del juzgado de Distrito que actúe en su auxilio.
+
+Siempre que el Consejo de la Judicatura Federal estime que los acuerdos son de interés general; deberá ordenar su publicación en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+8.- El Pleno se integrará con los siete consejeros, pero bastará la presencia de cinco de ellos para funcionar.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+9.- Las sesiones ordinarias del Pleno serán privadas salvo cuando se trata del nombramiento de magistrados y jueces; se celebrarán durante los períodos a que alude el artículo 84 BIS-5, en los días y horas que el mismo determine mediante acuerdos generales.
+
+El Pleno podrá sesionar de manera extraordinaria a solicitud de por lo menos dos de sus integrantes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+10.- Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los consejeros presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan estado presentes durante la discusión del asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad.
+
+El Pleno del Consejo de la Judicatura Federal calificará los impedimentos de sus miembros siempre que fueren planteados en asuntos de su competencia.
+
+El consejero que disintiere de la mayoría podrá formular voto particular el cual se insertará en el acta respectiva si fuere presentado dentro de los tres días siguientes a la fecha del acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+11.- Son atribuciones del Pleno del Consejo de la Judicatura Federal:
+
+I. Determinar el número y los límites territoriales de los Circuitos en que se dividirá el territorio de la República;
+
+II. Determinar el número y especialización por materia de los tribunales colegiados y unitarios en cada uno de los Circuitos a que se refiere la fracción anterior;
+
+III. Determinar el número, límites territoriales y especialización por materia de los juzgados de Distrito en cada uno de los Circuitos;
+
+IV. Dictar las disposiciones necesarias para turnar los expedientes y promociones de la competencia de los tribunales de Circuito o de los juzgados de Distrito, cuando en un mismo lugar haya varios de ellos, en los términos de esta Ley o de los acuerdos respectivos;
+
+V. Cambiar la residencia de los tribunales de Circuito y la de los juzgados de Distrito;
+
+VI. Hacer el nombramiento de los magistrados de Circuito y jueces de Distrito, en los términos del primer párrafo del artículo 97 constitucional y determinar su adscripción;
+
+VII. Conceder licencias, con o sin goce de sueldo, a los funcionarios del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia, cuando excedan de 15 días;
+
+VIII. Acordar las renuncias que presenten los magistrados de Circuito y los jueces de Distrito;
+
+IX. Acordar el retiro forzoso de los magistrados de Circuito y jueces de Distrito, en los términos de las disposiciones aplicables;
+
+X. Suspender en sus cargos a los magistrados de Circuito y jueces de Distrito, a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra, cuando se reúnan los requisitos previstos en el artículo 16 constitucional.
+
+La resolución que se dicte sobre la suspensión se comunicará a la autoridad judicial que haya hecho la solicitud. La suspensión en sus cargos de los magistrados de Circuito y jueces de Distrito, por el Consejo de la Judicatura Federal, constituye un requisito previo indispensable para la aprehensión y enjuiciamiento de aquellos. Si llegare a ordenarse o a efectuarse alguna detención o aprehensión en desacato a lo previsto en este precepto, se procederá en los términos dispuestos por la fracción XIX del artículo 225 del Código Penal;
+
+XI. Suspender en sus funciones a los magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, a fin de ponerlos a disposición del Ministerio Público;
+
+XII. Ordenar la práctica de visitas o investigaciones para averiguar la conducta de algún magistrado de Circuito, juez de Distrito o funcionario administrativo cuyo nombramiento le corresponda verificar el adecuado funcionamiento de los juzgados y tribunales, así como aquellas que respecto de los dos primeros le encomiende el Pleno de la Suprema Corte de Justicia;
+
+XIII. Resolver sobre las quejas administrativas que se le presenten y en su caso imponer las medidas disciplinarias correspondientes;
+
+XIV. Fijar las bases, convocar y realizar el procedimiento de insaculación para cubrir las vacantes de los jueces y magistrados ante el Consejo de la Judicatura Federal en términos del artículo 100 constitucional.
+
+XV. Determinar la adscripción permanente o temporal de los consejeros a las Comisiones;
+
+XVI. Aprobar el proyecto del presupuesto anual de egresos del Poder Judicial de la Federación, con excepción del de la Suprema Corte de Justicia;
+
+XVII. Expedir los reglamentos interiores y acuerdos generales en materia administrativa, de carrera judicial y régimen disciplinario del Poder Judicial de la Federación y los necesarios para llevar a cabo sus atribuciones, con excepción de los correspondientes a la Suprema Corte de Justicia;
+
+XVIII. Cambiar a los magistrados de un Circuito a otro y a los jueces de uno a otro Distrito, así como a tribunales o juzgados de materias diversas, en los lugares que haya dos o más, siempre que las necesidades del servicio así lo requieran o que haya causa fundada y suficiente para el cambio;
+
+XIX. Resolver los conflictos de trabajo suscitados entre el Poder Judicial de la Federación y sus servidores, con excepción de los correspondientes a la Suprema Corte de Justicia, en los términos de la fracción XII del apartado B) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Sustanciadora del Propio Poder, a excepción de aquellos conflictos de trabajo cuya resolución corresponda a la Suprema Corte de Justicia;
+
+XX. Designar, a propuesta del Presidente, al representante del Poder Judicial de la Federación ante la Comisión Sustanciadora para los efectos señalados en la fracción anterior;
+
+XXI. Remitir a las Comisiones, mediante acuerdos generales, los asuntos que estime convenientes, y
+
+XXII. Desempeñar cualquier otra función de carácter administrativo o disciplinario que resulte de la propia naturaleza del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+12.- Son atribuciones del Presidente del Consejo de la Judicatura Federal, las siguientes:
+
+I. Representar al Consejo de la Judicatura Federal;
+
+II. Tramitar los asuntos de la competencia del Pleno;
+
+III. Presidir el Pleno, dirigir los debates y conservar el órden en las sesiones;
+
+IV. Llevar la correspondencia oficial del Consejo, salvo la reservada a los presidentes de las Comisiones;
+
+V. Recibir quejas sobre las faltas que ocurran en los asuntos judiciales o administrativos de que conozcan los órganos del Poder Judicial de la Federación, salvo aquellos que sean de la competencia de la Suprema Corte de Justicia;
+
+VI. Conceder licencias, con o sin goce de sueldo, cuando no excedan de quince días, a los funcionarios del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia;
+
+VII. Informar anualmente al Pleno del Consejo de la Judicatura Federal sobre el ejercicio de sus atribuciones, y
+
+VIII. Las demás que determinen las leyes y correspondientes reglamentos interiores y acuerdos generales.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+13.- El Consejo de la Judicatura Federal tendrá un Secretario General Ejecutivo y los secretarios técnicos y personal subalterno que fije el presupuesto.
+
+El Secretario General Ejecutivo será designado por el Pleno, el cual podrá removerlo y conocer de sus renuncias.
+
+Los secretarios técnicos y personal subalterno serán nombrados y removidos de conformidad con lo establecido en los acuerdos generales correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+14.- El Secretario General Ejecutivo, asistirá a las sesiones del Pleno con voz pero sin voto y ejercerá las funciones de gestión, tramitación y documentación de los actos del Consejo de la Judicatura Federal, y coordinará las funciones de las Comisiones cuando así lo acuerde el Presidente del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+###### Art. 84 Bis
+
+15.- Al clausurar sus períodos ordinarios de sesiones, el Pleno del Consejo de la Judicatura Federal designará al o a los consejeros que deban proveer los trámites y resolver los de notoria urgencia durante los recesos. Asimismo, el propio Pleno designará a los secretarios y empleados necesarios para apoyar al consejero o consejeros a que se refiere este artículo.
+
+Al iniciarse el correspondiente período ordinario de sesiones, el Consejero o consejeros designados, darán cuenta al Pleno de las medidas que se hubieren tomado, a fin de que éste tome las medidas que estime convenientes.
+
 ### CAPITULO X. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 85.
 
-Los magistrados de Circuito otorgarán la protesta constitucional ante el Presidente de la Suprema Corte de Justicia o ante el gobernador del Estado en cuya capital deban ejercer sus funciones, o, en su defecto, ante la primera autoridad municipal de la residencia del tribunal; los jueces de Distrito, ante el Presidente de la Suprema Corte o ante el magistrado de Circuito respectivo, si hubieren de residir en el mismo lugar que éste; ante el gobernador del Estado cuando la residencia sea en la capital de la entidad y fuera de la del tribunal de Circuito a que pertenezca, y cuando no esté en alguno de los casos anteriores, ante la primera autoridad municipal de la residencia del juzgado de Distrito.
+Los magistrados de Circuito otorgarán la protesta constitucional ante el Presidente de la Suprema Corte de Justicia o ante el gobernador del Estado en cuya capital deban ejercer sus funciones, o, en su defecto, ante la primera autoridad municipal de la residencia del tribunal; los jueces de Distrito, ante el Presidente del Consejo de la Judicatura Federal o ante el magistrado de Circuito respectivo, si hubieren de residir en el mismo lugar que éste; ante el gobernador del Estado cuando la residencia sea en la capital de la entidad y fuera de la del tribunal de Circuito a que pertenezca, y cuando no esté en alguno de los casos anteriores, ante la primera autoridad municipal de la residencia del juzgado de Distrito.
 
 Los secretarios y empleados de la Suprema Corte de Justicia otorgarán la protesta ante el presidente de la misma.
 
@@ -999,7 +1075,9 @@ Ningún funcionario o empleado del Poder Judicial de la Federación podrá aband
 
 Cuando el personal de los tribunales de Circuito o de los juzgados de Distrito tenga que salir del lugar de su residencia, para practicar diligencias, podrá hacerlo, en casos urgentes, siempre que la ausencia no deba exceder de tres días, dando aviso al Presidente de la Suprema Corte, con expresión del objeto y naturaleza de la diligencia, así como de la salida y del regreso.
 
-Cuando la ausencia deba durar más tiempo, dichos funcionarios deberán solicitar autorización del mismo Presidente de la Suprema Corte, quien resolverá sobre ella, previo acuerdo de la Comisión de Gobierno y Administración, en cuanto a los viáticos, o dará cuenta al Pleno, si lo estima necesario.
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
+Cuando la ausencia deba durar más tiempo, dichos funcionarios deberán solicitar autorización del mismo Consejo de la Judicatura Federal quién resolverá sobre ella.
 
 ###### Art. 88.
 
@@ -1021,19 +1099,17 @@ En los asuntos del orden penal los jueces de Distrito podrán autorizar, tanto e
 
 ###### Art. 90.
 
-Al practicar visitas reglamentarias los ministros inspectores a que se refiere el artículo 12, fracción XIII de esta ley, a los tribunales de Circuito y juzgados de Distrito, deberán hacer constar, en el acta relativa, el número y especificación de los expedientes revisados; si se encuentran en orden, haciéndose especial mención de si las resoluciones y acuerdo fueron dictados y cumplidos oportunamente, y si las notificaciones y demás diligencias se efectuaron dentro de los plazos que establece la ley, poniendo la constancia respectiva en cada expediente revisado.
-
-En la misma forma procederán los magistrados de Circuito en sus visitas oficiales a los juzgados de Distrito de su jurisdicción.
-
-Si los ministros inspectores encuentran irregularidades en el despacho de algún tribunal de Circuito o juzgado de Distrito, darán cuenta al Presidente de la Suprema Corte de Justicia, para lo que proceda con arreglo a la ley.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
 
 ###### Art. 91.
 
 Los ministros de la Suprema Corte de Justicia sólo serán responsables, al establecer o fijar la interpretación de los preceptos constitucionales, en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 92.
 
-Los ministros de la Suprema Corte de Justicia, las (sic) magistrados de Circuito; los jueces de Distrito y los respectivos Secretarios y Actuarios en funciones están impedidos:
+Los ministros de la Suprema Corte de Justicia, los consejeros de la Judicatura Federal, los magistrados de Circuito, los jueces de Distrito y los respectivos secretarios y actuarios en funciones están impedidos:
 
 I. Para desempeñar otro cargo o empleo de la Federación, de los Estados, del Distrito Federal, de los municipios o de particulares; y
 
@@ -1043,21 +1119,27 @@ Se exceptúan de lo anterior los servicios de enseñanza y especialización del 
 
 ###### Art. 93.
 
-Para que los funcionarios del Poder Judicial de la Federación y sus respectivos secretarios y actuarios puedan desempeñar los cargos y empleos a que se refiere la fracción I del artículo anterior, deberán solicitar licencia con arreglo a la ley, sin goce de sueldo, para separarse de sus respectivos puestos.
+(DEROGADO, D.O.F. 3 DE FEBRERO DE 1995)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 94.
 
-Los ministros de la Suprema Corte y los funcionarios y empleados a que se refieren los artículos 6o. y 18 de esta ley, disfrutarán de dos períodos de vacaciones cada año, en las épocas en que el mismo tribunal suspenda sus labores, con arreglo al artículo 8o., párrafo primero de esta ley.
+Los ministros de la Suprema Corte, los consejeros de la Judicatura Federal y los funcionarios y empleados a que se refieren los artículos 6º. y 18 de esta Ley, disfrutarán de dos períodos de vacaciones cada año, en las épocas en el que el mismo tribunal suspenda sus labores, con arreglo al artículo 8º., párrafo primero de esta Ley.
 
 Los ministros, secretarios y empleados designados conforme a los párrafos segundo y tercero del mismo artículo 8o. de esta ley, podrán disfrutar de vacaciones dentro de los dos primeros meses del período inmediato de sesiones, procurándose que no se interrumpan las audiencias de las Salas ni las labores que tengan a su cargo los expresados secretarios y empleados.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 95.
 
-Los magistrados de Circuito y los jueces de Distrito disfrutarán anualmente de dos períodos de vacaciones, de quince días cada uno, en las épocas que determine la Suprema Corte.
+Los magistrados de Circuito y los jueces de Distrito disfrutarán anualmente de dos períodos de vacaciones, de quince días cada uno, en las épocas que determine el Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
 
 ###### Art. 96.
 
-Durante las vacaciones a que se refiere el artículo anterior, la Suprema Corte de Justicia podrá nombrar a las personas que deban substituir a los magistrados y jueces mencionados; y mientras esto se efectúa, o si la Suprema Corte no hace los nombramientos, los secretarios de los tribunales de Circuito y los de los juzgados de Distrito, se encargarán de las oficinas respectivas, para el solo efecto de practicar las diligencias urgentes, dictar las providencias de mero trámite y las resoluciones urgentes con arreglo a la ley; pero sin resolver en definitiva, fuera de los casos a que se refiere el párrafo siguiente, a no ser que la Suprema Corte los autorice expresamente para fallar.
+Durante las vacaciones a que se refiere el artículo anterior, el Consejo de la Judicatura Federal podrá nombrar a las personas que deban substituir a los magistrados y jueces mencionados; y mientras esto se efectúa, o si el Consejo de la Judicatura Federal no hace los nombramientos, los secretarios de los tribunales de Circuito y los de los juzgados de Distrito, se encargarán de las oficinas respectivas, para el solo efecto de practicar las diligencias urgentes, dictar las providencias de mero trámite y las resoluciones urgentes con arreglo a la ley; pero sin resolver en definitiva, fuera de los casos a que se refiere el párrafo siguiente, a no ser que el Consejo de la Judicatura Federal los autorice expresamente para fallar.
 
 Los secretarios encargados de los juzgados de Distrito, conforme al párrafo anterior, fallarán los juicios de amparo cuyas audiencias se hayan señalado para los días en que los jueces de Distrito de que dependan disfruten de vacaciones, a no ser que deban diferirse o suspenderse dichas audiencias con arreglo a la ley.
 
@@ -1069,9 +1151,11 @@ Los secretarios, actuarios y demás empleados de los tribunales de Circuito y lo
 
 Fuera de los casos a que se refiere el párrafo anterior, los magistrados de Circuito y los jueces de Distrito sólo podrán conceder licencias con goce de sueldo, a los secretarios, actuarios y empleados de su dependencia, por causas justificadas y sin que excedan de diez días. Sin goce de sueldo, podrán conceder licencias a los mismos funcionarios y empleados hasta por el término de seis meses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 98.
 
-Los ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos en la forma y términos que determina el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+Los ministros de la Suprema Corte de Justicia durarán en su cargo 15 años y sólo podrán ser privados de sus puestos en la forma y términos que determina el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
 Los magistrados de Circuito y los jueces de Distrito durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos o promovidos a cargos superiores, sólo podrán ser privados de sus puestos de acuerdo con las prevenciones que establece el propio Título Cuarto de la Constitución.
 
@@ -1101,9 +1185,11 @@ La jurisprudencia que establezcan la Suprema Corte de Justicia funcionando en Pl
 
 En los Tribunales del Poder Judicial de la Federación, sábados y domingos serán inhábiles y en esos días y los demás inhábiles no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1995)</small>
+
 ###### Art. 105.
 
-Funcionará el Instituto de Especialización Judicial para preparar y capacitar al personal del Poder Judicial de la Federación y a quienes aspiren a ocupar algún puesto en el mismo. Las atribuciones y funcionamiento de este Instituto se regirán por el Reglamento que expida el Pleno de la Suprema Corte de Justicia de la Nación.
+Funcionará el Instituto de Especialización Judicial para preparar y capacitar al personal del Poder Judicial de la Federación y a quienes aspiren a ocupar algún puesto en el mismo. Las atribuciones y funcionamiento de este Instituto se regirán por el Reglamento que expida el Consejo de la Judicatura Federal.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1176,3 +1262,17 @@ SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la 
 TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 3 DE FEBRERO DE 1995.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El régimen disciplinario de los funcionarios del Poder Judicial de la Federación, se aplicará, según corresponda, por el Pleno de la Suprema Corte de Justicia de la Nación o por el Consejo de la Judicatura Federal, en los términos de la ley que se reforma por el presente decreto y la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+Las revisiones a que se refiere el párrafo octavo del artículo 100 de la Constitución Política de los Estados Unidos Mexicanos, se tramitarán conforme al recurso de apelación admitido en el efecto devolutivo previsto en el Código Federal de Procedimientos Civiles.
+
+TERCERO.- En tanto se establecen las bases para el funcionamiento de la carrera judicial del Poder Judicial de la Federación, las vacantes que se presenten se cubrirán mediante los procedimientos de suplencia previstos en la ley que se reforma por el presente decreto.
+
+CUARTO.- Se respetarán integramente los derechos de los trabajadores del Poder Judicial de la Federación.
