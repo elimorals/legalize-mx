@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-contabilidad-y-gasto-publico-5495"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-30"
-last_updated: "1987-12-30"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO PARA EL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 30 de diciembre de 1987.
 
@@ -340,3 +342,15 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los veintinueve días del mes de diciembre de mil novecientos ochenta y siete.-
 
 El C. Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernación.- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público, publicada en el Periódico Oficial número 50 bis, de fecha 30 de diciembre de 1987.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- No obstante la abrogación a que se refiere el Transitorio Segundo, la Ley de Presupuesto y Contabilidad y Gasto Público, continuará vigente exclusivamente por lo que respecta a la aplicación y cumplimiento del Presupuesto del Gobierno del Estado, así como la revisión, glosa y aprobación por parte del H. Congreso, de la Cuenta Pública correspondiente al Ejercicio 2001.
