@@ -4,7 +4,7 @@ identifier: "COA-ley-general-de-documentacion-para-el-estado-de-coahuila-de-3622
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-05-06"
-last_updated: "1994-05-06"
+last_updated: "2003-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY GENERAL DE DOCUMENTACION PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 4 DE NOVIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de mayo de 1994.
 
@@ -486,3 +488,15 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2003.
+
+PRIMERO. La presente ley entrará en vigor el 1 de diciembre de 2004, una vez publicada en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley General de Documentación para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado número 36 de fecha 6 de mayo de 1994 y se derogan todas las disposiciones que se opongan a la presente ley.
+
+TERCERO. Los archivos públicos de las entidades que se encuentren en resguardo del Instituto Estatal de Documentación, pasarán, al entrar en vigor la Ley del Instituto Coahuilense de Acceso a la Información Pública, a ser resguardados por éste, en los términos de los convenios que para tal efecto se hayan celebrado y de las disposiciones aplicables.
+
+CUARTO. El Instituto Coahuilense de Acceso a la Información Pública, dentro del año siguiente de haber entrado en vigor esta ley, procederá a emitir las bases generales para que las entidades públicas observen esta ley en forma gradual, de acuerdo a un calendario razonable que permita la adecuada y funcional administración de los documentos públicos conforme a esta ley.
