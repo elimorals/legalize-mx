@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1962-12-29"
+last_updated: "1963-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1963.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -351,11 +351,13 @@ La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el pr
 
 Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1963)</small>
 
 ###### ARTICULO 43.
 
-A la apertura del primer período ordinario de sesiones de la Legislatura Local, que dará principio el dieciséis de septiembre, asistirá el ciudadano Gobernador y leerá un informe sobre el estado que guarda la Administración Pública.
+A la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de toda Legislatura Local, que tendrá lugar el 16 de septiembre, asistirá el Gobernador del Estado. La Legislatura Local, celebrará una Sesión Solemne el día primero de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá un informe sobre el estado que guarda la Administración Pública.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 Si se tratare de un período extraordinario convocado a petición del Ejecutivo, el informe versará sobre las causas que motivaron la convocatoria. En el caso de que ésta se hubiere hecho por la Diputación Permanente, el Gobernador se limitará a comunicar a la Legislatura que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
 
@@ -757,9 +759,9 @@ I. Cuidar del exacto cumplimiento de la Constitución General y de las leyes y d
 
 II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decretos, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1963)</small>
 
-III. Concurrir a la apertura del primer período que dará principio el 16 de septiembre y a la de los extraordinarios que hubieren sido convocados a solicitud del Ejecutivo;
+III. Concurrir, el 16 de septiembre, a la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de la Legislatura Local, a la de los extraordinarios que hubieren sido convocados a solicitud de Ejecutivo y a la Sesión Solemne a que se refiere el Artículo 43;
 
 IV. Presentar a la Legislatura antes del día veinticinco del mes de septiembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos generales del Estado, que deberán regir en el año inmediato siguiente;
 
@@ -1570,3 +1572,7 @@ UNICO.- Las presentes reformas entrarán en vigor a partir de la fecha de su pub
 P.O. 29 DE DICIEMBRE DE 1962.
 
 Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 1963.
+
+UNICO.- Una vez aprobadas las presentes reformas, entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
