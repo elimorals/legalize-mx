@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1997-03-08"
+last_updated: "1999-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1937,13 +1937,13 @@ VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean pos
 
 521.- El albacea manifestará dentro de tres días después de que se le haya hecho saber su nombramiento, si acepta el cargo. Si lo acepta y entra en la administración de los bienes hereditarios, el juez le prevendrá que dentro de tres meses debe garantizar su manejo con arreglo a lo dispuesto en los artículos 1600 y 1601 del Código Civil, salvo que todos los interesados lo hayan dispensado de esa obligación. Si debiendo garantizar su manejo no lo verifica dentro del término señalado, se le removerá de plano.
 
-522.- Sin perjuicio de lo dispuesto en la Sección Octava de este Capítulo, cuando los herederos sean mayores de edad, podrán después de hecho el reconocimiento de sus derechos separarse del juicio y encomendar a un notario público la tramitación de la sucesión hasta su conclusión, procediendo en todo de común acuerdo, salvo que convengan en que los acuerdos se tomen por mayoría de votos contándose por personas. Cuando no se hubiere convenido sobre esto último, la oposición de parte se substanciará incidentalmente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-Al solicitar la separación del juicio, los interesados deberán manifestar el nombre del notario que se va a encargar de la substanciación del negocio.
+522.- Sin perjuicio de lo dispuesto en la Sección Octava de este Capítulo, los herederos y sus representantes, si los hubiere, después de hecho el reconocimiento de sus derechos podrán separarse del juicio y encomendar a un notario público la tramitación de la sucesión hasta su conclusión, procediendo en todo de común acuerdo, salvo que convengan que los acuerdos se tomen por mayoría de votos contándose por personas. Cuando no se hubiere convenido sobre esto último, la oposición de parte se substanciará incidentalmente.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1995)</small>
+Al solicitar la separación del juicio, los interesados deberán manifestar el nombre del notario público que se va encargar de la substanciación del negocio.
 
-Previamente a la remisión de los autos, el Juez deberá haber recabado la información a que se refiere el segundo párrafo del artículo 559.
+Previamente a la remisión de los autos, el juez deberá haber recabado la información a que se refiere el segundo párrafo del artículo 559.
 
 523.- En todo juicio sucesorio se formarán cuatro secciones compuestas de los cuadernos correspondientes. En el caso de que no haya más que un solo heredero mayor de edad y a la vez albacea, no será necesario formar las secciones tercera y cuarta; concluida la sección segunda se le hará adjudicación de los bienes.
 
@@ -2331,11 +2331,17 @@ Si todos los interesados tuvieren igual porción en la finca, el título quedar�
 
 631.- Será causa de remoción del albacea el hecho de no presentar el proyecto de distribución provisional de los frutos, a que se refiere el artículo 628, dentro del término fijado en ese mismo precepto y en su caso, dentro del señalado en el artículo que antecede; y lo será también el dejar de cubrir durante dos bimestres consecutivos, sin justa causa, las porciones de los frutos correspondientes a cada heredero o legatario.
 
-#### SECCION OCTAVA. De la tramitación extrajudicial de las testamentarias
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-632.- Sin perjuicio de lo dispuesto en el artículo 522 de este Código, cuando todos los herederos fueren mayores de edad y hubieren sido instituidos en un testamento público abierto, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna, tramitándose aquélla con arreglo a las siguientes disposiciones.
+#### SECCION OCTAVA. De la tramitación extrajudicial de las testamentarías e intestamentarías
 
-633.- El albacea, si lo hubiere, y los herederos, se presentarán ante un notario público exhibiéndole la partida de defunción del autor de la herencia y un testimonio del testamento. Ante el mismo notario y en el propio acto, harán constar que aceptan la herencia y se reconocen unos a otros sus derechos hereditarios, y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+632.- Sin perjuicio de lo dispuesto en el artículo 522 de este Código, la testamentaría en el caso del testamento público abierto y la intestamentaría podrán tramitarse extrajudicialmente desde el inicio, con intervención de notario público, mientras no hubiere controversia alguna, tramitándose aquéllas con arreglo a lo que se establece en los artículos siguientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+633.- Tratándose de los procedimientos sucesorios testamentarios, el albacea, si lo hubiere, y los herederos, se presentarán ante un notario público exhibiéndole la partida de defunción del autor de la herencia y un testimonio del testamento. Ante el mismo notario y en el propio acto, harán constar que aceptan la herencia y se reconocen unos a otros sus derechos hereditarios, y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
 Si no hubiere albacea, se llevará a cabo su designación en la forma que establece el Código Civil.
 
@@ -2345,9 +2351,19 @@ El notario dará a conocer estas declaraciones por medio de dos publicaciones qu
 
 Además, el Notario recabará la información a que se refiere el segundo párrafo del artículo 559.
 
-634.- Practicado el inventario por el albacea, y estando conformes con él todos los herederos, lo presentarán al notario reconociéndolo expresamente ante él, lo cual hará constar el notario en la forma legal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-635.- Formado por el albacea, con la aprobación de los herederos, el proyecto de partición de la herencia, lo exhibirán al notario, quien efectuará su protocolización.
+634.- Tratándose de una sucesión intestamentaria, la totalidad de los interesados al acudir ante el notario público, justificarán el parentesco y grado del mismo que los hubiere unido con el autor de la herencia.
+
+El notario público una vez cumplido lo dispuesto por los artículos 559 y 560 de este Código, ordenará la publicación de un extracto de la solicitud en dos ocasiones, de siete en siete días, en uno de los periódicos de mayor circulación en el Estado, así como en el Periódico Oficial del Estado.
+
+Una vez llevadas a cabo las publicaciones a que se refiere el párrafo anterior, el notario podrá declarar el derecho de los herederos y conminará, en su caso, a los interesados a nombrar albacea en los términos del artículo 564 de este Código.
+
+En lo no previsto en esta sección para la tramitación de los procedimientos sucesorios intestamentarios se estará, en lo conducente, a lo dispuesto en el Capítulo VIII, del Título Séptimo de este Código.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+635.- Formado por el albacea, con la aprobación de los herederos, el inventario y avalúo de los bienes de la masa hereditaria y el proyecto de partición de la herencia, los exhibirán al notario quien hará la adjudicación haciéndolo constar en escritura pública donde relacione las demás constancias del procedimiento sucesorio. Tratándose de inmuebles, el testimonio se inscribirá en la sección primera del Registro Público de la Propiedad correspondiente.
 
 636.- Siempre que surja oposición de algún heredero o aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención, remitiendo a los interesados ante el juez competente.
 
@@ -3189,11 +3205,23 @@ El auto que deniegue la caducidad solicitada por el interesado no admite recurso
 
 ### CAPITULO I. Disposiciones generales
 
-856.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención de los tribunales, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+856.- La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados, sin que esté promovida, ni se promueva cuestión alguna entre partes determinadas, se requiere la intervención de la autoridad judicial o, en su caso, de Notario Público.
 
-857.- Las solicitudes relativas a diligencias de jurisdicción voluntaria se promoverán ante los jueces de Primera Instancia, o de lo Familiar, Menores o de Paz, según la cuantía del negocio, determinándose la competencia de unos y otros conforme a las reglas establecidas para la jurisdicción contenciosa. De los negocios que no puedan ser estimables pecuniariamente conocerán los jueces de Primera Instancia o de lo Familiar, salvo lo prescrito en casos especiales, debiendo en todo caso conocer de los negocios relativos a menores o incapacitados, sin perjuicio de que, en los lugares en que no hubiere Juzgado de Primera Instancia o de lo Familiar, pueda el Juez Menor respectivo proceder al nombramiento provisional de tutor.
+En los casos previstos por la legislación el notario público, al iniciar las diligencias de jurisdicción voluntaria, dará aviso al agente del Ministerio Público adscrito a los Juzgados Civiles correspondientes, para que en un término de tres días manifieste lo que ha su representación social convenga. En la tramitación de las diligencias, sujetará sus actuaciones, en lo conducente, a lo previsto por este Código y a la Ley del Notariado del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+857.- Las solicitudes relativas a diligencias de jurisdicción voluntaria se promoverán ante los Jueces de Primera Instancia, de lo Familiar o Menores, según la cuantía del negocio, determinándose la competencia de unos y otros conforme a las reglas establecidas para la jurisdicción contenciosa. De los negocios que no puedan ser estimables pecuniariamente conocerán Jueces de Primera Instancia o de lo Familiar, salvo lo prescrito en casos especiales, debiendo en todo caso conocer de los negocios relativos a menores o incapacitados, sin perjuicio de que, en los lugares en que no hubiere Juzgado de Primera Instancia o de lo Familiar, pueda el Juez Menor respectivo proceder al nombramiento provisional de tutor.
+
+Los notarios públicos podrán conocer de los asuntos de jurisdicción voluntaria que expresamente autorice la legislación y en especial de los siguientes:
+
+a).- Para intervenir en la constitución, modificación y extinción del patrimonio familiar, salvo el caso previsto en la fracción VI del artículo 401 de este Código. En lo referente a la extinción de dicho régimen únicamente lo harán en los casos previstos en las fracciones I, II y IV del artículo 712 del Código Civil del Estado.
+
+b).- Para sustanciar diligencias de apeo y deslinde.
+
+c).- Los comprendidos en las fracciones I y II del artículo 890 de este ordenamiento.
 
 858.- Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho, advirtiéndole, en la citación, que quedan, por tres días, las actuaciones en la secretaria del juzgado para que se imponga de ellas, y señalándole día y hora para la audiencia, a la que concurrirá el promovente, pero sin que sea obstáculo para la celebración de ella la falta de asistencia de éste.
 
@@ -3224,6 +3252,10 @@ Si la oposición se hiciere por quien no tenga personalidad ni interés en ello,
 La declaración de estado de minoridad o de incapacidad puede pedirse: a).- Por el menor si ha cumplido dieciséis años o por el propio incapacitado mayor de edad; b).- Por el cónyuge; c).- Por los presuntos herederos legítimos; d).- Por el albacea; e).- Por el Ministerio Público; f).- Por las demás personas que expresamente determine la ley.
 
 866.- Si a la petición de declaración de minoridad se acompaña la certificación del registro civil, se hará la declaración de plano. En caso contrario, se citará inmediatamente a una audiencia para dentro de los tres días siguientes, a la que concurrirá el menor, si fuere posible, y el Ministerio Público. En ella, con o sin la asistencia del representante de éste, si por las certificaciones del registro civil presentadas en ese momento, o por el aspecto del menor y a falta de aquéllas o de la presencia del menor, por medio de información de testigos, se justificare el hecho alegado, se hará o en su caso se denegará la declaración correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Los notarios públicos tendrán competencia para la tramitación del nombramiento de tutores y curadores, en tratándose de menores de edad, en los casos en los que la testamentaría o intestamentaría sean extrajudiciales, para lo cual se deberá de acatar lo dispuesto en el párrafo anterior, así como lo previsto en el artículo 869 de este ordenamiento.
 
 867.- La declaración de incapacidad por causa de demencia se acreditará en juicio ordinario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez.
 
@@ -3339,27 +3371,31 @@ Bajo las mismas condiciones podrán gravar los padres los bienes de sus hijos, o
 
 ### CAPITULO IV. De la adopción
 
-886.- El que pretenda adoptar a alguna persona, deberá acreditar:
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-I.- Que es mayor de edad y tiene por lo menos diez años más que el menor que trata de adoptar o cuando se trate de un incapacitado, que únicamente el adoptante es mayor de edad;
+886.- El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 367 del Código Civil.
 
-II.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como si se tratare de hijo propio, según las circunstancias de la persona que se trata de adoptar;
+En la promoción inicial deberá manifestarse el tipo de adopción, el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre éste la patria potestad o la tutela o de las personas o instituciones que están proveyendo a su guardia.
 
-III.- Que la adopción es benéfica para la persona que se trata de adoptar;
+El Juez deberá, antes de recibir los consentimientos de las personas señaladas en los artículos 374 y 375 del Código Civil, asesorar e informar sobre los efectos de la adopción a los padres consanguíneos, salvo cuando éstos han perdido los derechos derivados de la patria potestad o el menor se encuentre bajo la tutela de la Procuraduría de la Defensa del Menor y la Familia o del Sistema para el Desarrollo Integral de la Familia.
 
-IV.- Que el adoptante es persona de buenas costumbres.
+Cuando se trate de expósitos o abandonados, el Juez podrá decretar el depósito del menor con las personas o instituciones que lo hubieren acogido, cuando así se solicitaran por éstos, tomando discrecionalmente las medidas necesarias para la seguridad del menor, salvo que se trate de la Procuraduría de la Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, en cuyo caso el depósito operará sin necesidad de que se decrete.
 
-En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre éste la patria potestad o la tutela, o de las personas o instituciones de beneficencia que están proveyendo a su guarda.
+En el caso de solicitantes extranjeros se concederá el depósito provisional del menor o incapacitado, si tal figura se contempla en los tratados internacionales.
 
-887.- Rendidas las justificaciones que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 374 y 375 del Código Civil, el Tribunal resolverá lo que proceda dentro del tercer día.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-888.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 384 del Código Civil.
+887.- Rendidas las justificaciones que se exigen por el artículo 367 del Código Civil y obteniendo el consentimiento de las personas que deban darlo conforme a los artículos 374 y 375 del mismo Código, el Juez resolverá lo que proceda sobre la adopción.
 
-Si el adoptado fuere menor de edad no se decretará la revocación de la adopción, sin recabar el consentimiento de quienes lo prestaron para que aquélla se verificara, y sin oír al Ministerio Público.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación de la adopción, en los casos a que se refiere este artículo, pueden rendirse toda clase de pruebas.
+888.- Cuando el adoptante o el adoptado o ambos, soliciten la conversión de la adopción simple en plena, el Juez los citará a una audiencia verbal, dentro de los ocho días siguientes a que se solicite la conversión con la intervención del Ministerio Público, en la que resolverá conforme a lo dispuesto por el Código Civil. Si el adoptado fuera menor de 14 años, se requerirá el consentimiento de quien debiere darlo para la adopción, siempre y cuando sea posible; en caso contrario, deberán otorgar la autorización las instituciones señaladas en el artículo 374, fracciones III y IV del Código Civil para el Estado de Chihuahua.
 
-889.- La impugnación de la adopción y su revocación, en los casos de los artículos 371 y 382 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria, sino que se substanciarán en la vía sumaria con arreglo a lo dispuesto por el artículo 402 de este Código.
+Para acreditar que la conversión es favorable al adoptado, podrán rendirse toda clase de pruebas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+889.- La impugnación de la adopción y su revocación, en los casos de los artículos 371 y 382, fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
 ### CAPITULO V. De las informaciones ad perpetuam
 
@@ -3409,7 +3445,9 @@ II.- El poseedor con título bastante para transferir el dominio;
 
 III.- El usufructuario.
 
-898.- La petición de apeo deberá hacerse por escrito, y en ella se expresarán los datos que a continuación se indican, acompañándose a la misma los documentos que en seguida se señalan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+898.- La petición de apeo deberá hacerse por escrito ante el Tribunal o notario público, según proceda, y en ellas se expresarán los datos que a continuación se indican, acompañándose a la misma los documentos que enseguida se señalan:
 
 I.- El nombre y ubicación de la finca que debe deslindarse;
 
@@ -3421,17 +3459,33 @@ IV.- El sitio donde están y donde deben colocarse las señales, y si éstas no 
 
 V.- Los planos y demás documentos que vengan a servir de base para la diligencia, ofreciéndose información a falta de ellos; y la designación de un perito que deberá tener título legal en ingeniería.
 
-899.- Hecha la petición de apeo, el juez la notificará a los colindantes para que, dentro de tres días, presenten títulos o documentos de su posesión, u ofrezcan la información correspondiente en defecto de aquéllos. Las informaciones se recibirán con mutua citación de las partes interesadas, dentro de un término común que no excederá de diez días; en ellas no se admitirán más de tres testigos por cada parte.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+899.- Hecha la petición de apeo, el juez o notario público la notificará a los colindantes para que dentro de tres días presenten títulos o documentos de su posesión, u ofrezcan la información correspondiente en defecto de aquellos. Las informaciones se recibirán con mutua citación de las partes interesadas, dentro de un término común que no excederá de diez días; en ellas no se admitirán más de tres testigos por cada parte.
+
+El notario público en la práctica de las diligencias de apeo y deslinde observará todo el procedimiento establecido en el presente capítulo; si del ejercicio de esta facultad se llegare a apreciar la existencia de algún hecho que pueda ser controversial, o que genere un litigio, el notario remitirá inmediatamente el expediente al Juez competente.
 
 900.- La práctica del apeo se llevará a cabo con arreglo a las siguientes disposiciones:
 
-I.- En el mismo auto en que el juez mande hacer saber a los colindantes la petición de apeo aprobará el nombramiento de perito hecho por el promovente, si aquél reúne los requisitos legales relativos y no se encuentra comprendido respecto del promovente del apeo, en alguna de las causas que establece el artículo 133 de este Código, y dispondrá que a dicho perito se le haga saber su nombramiento a fin de que, si acepta el cargo, preste la protesta de su fiel desempeño, reciba en toda forma la comisión para el apeo, y quede entendido de que será civilmente responsable de los daños y perjuicios que cause a las partes por negligencia o impericia, además de las sanciones en que incurra conforme al Código de Defensa Social en caso de dolo o fraude. De todo esto se asentará la debida constancia en el expediente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-II.- El juez extenderá la constancia de la comisión que se confiere al perito y se le entregará autorizada con su firma, la del secretario y el sello del juzgado; la cual constancia concluirá con la conminación de que quien resista a los trabajos de campo que tenga que practicar dicho perito se hará acreedor a las sanciones que el Código respectivo establece para los desobedientes a un mandato legítimo de autoridad.
+I.- En el mismo auto en que el juez o notario público mande hacer saber a los colindantes la petición de apeo, aprobará el nombramiento del perito hecho por el promovente, si aquel reúne los requisitos legales relativos y no se encuentra comprendido respecto del promovente del apeo en alguna de las causas que establece el artículo 133 de este Código, y dispondrá que a dicho perito se le haga saber su nombramiento a fin de que, si acepta el cargo, preste la protesta de su fiel desempeño, reciba en toda forma la comisión para el apeo, y quede entendido de que será civilmente responsable de los daños y perjuicios que cause a las partes por negligencia o impericia, además de las sanciones en que incurra conforme al Código Penal en caso de dolo o fraude. De todo esto se asentará la debida constancia en el expediente, protocolo o libro de actos fuera de protocolo, según sea el caso;
 
-Al mismo tiempo que la constancia a que se refiere el párrafo que antecede, el juez entregará al perito un extracto que contenga: a).- El de la solicitud de apeo con especificación clara y precisa del nombre y domicilio del promovente y de la situación del terreno; b).- El nombre y domicilio del perito comisionado para las operaciones de mensura y deslinde; c).- Un extracto de los títulos o informaciones en su caso, con expresión especial de los linderos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-III.- Al extender la constancia de que trata la fracción anterior, el juez fijará al perito un plazo improrrogable, de acuerdo con la extensión superficial del terreno, para que dentro de él cumpla con su cometido, de entera conformidad con los títulos o informaciones, entregando al juez el plano del terreno, el informe sobre las operaciones de mensura y las manifestaciones de conformidad o inconformidad de los colindantes. Cuando la extensión del terreno sea de diez mil hectáreas o menos, el plazo será de un mes; si excediere de esa cantidad, será de uno a tres meses como máximo, plazos que se contarán desde el día en que el perito reciba la constancia de su comisión;
+II.- El juez o notario público extenderá la constancia de la comisión que se confiere al perito y se le entregará autorizada con su firma, la del secretario, si se estuviere tramitando en la vía jurisdiccional, y el sello del Juzgado o Notaría Pública, según sea el caso; dicha constancia concluirá con la conminación de quien resista a los trabajos de campo que tenga que practicar dicho perito se hará acreedor a las sanciones que el Código Penal establece para los desobedientes a un mandato legítimo de autoridad.
+
+Al mismo tiempo que la constancia a que se refiere el párrafo que antecede, el juez o notario público entregará al perito un extracto que contenga:
+
+a).- El de la solicitud de apeo con especificación clara y precisa del nombre y domicilio del promovente y de la situación del terreno;
+
+b).- El nombre y domicilio del perito comisionado para las operaciones de mensura y deslinde;
+
+c).- Un extracto de los títulos o informaciones en su caso, con expresión especial de los linderos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+III.- Al extender la constancia de que trata la fracción anterior, el juez o notario público, según sea el caso, fijará al perito un plazo improrrogable, de acuerdo con la extensión superficial del terreno, para que dentro de él cumpla con su cometido, de entera conformidad con los títulos o informaciones, entregando al juez o notario público el plano del terreno, el informe sobre las operaciones de mensura y las manifestaciones de conformidad o inconformidad de los colindantes. Cuando la extensión del terreno sea de diez mil hectáreas o menos, el plazo será de un mes; si excediere de esa cantidad será de uno a tres meses como máximo, plazos que se contarán desde el día en que el perito reciba la constancia de su comisión;
 
 IV.- Antes de comenzar las operaciones de campo, el perito entregará al promovente comunicaciones especiales para los dueños o encargados de todas y cada una de las fincas que como colindantes se hayan fijado en el escrito de apeo, a fin de que bajo la responsabilidad y a costa del mismo promovente se envíen a aquéllos para que ocurran a las operaciones de medición y deslinde que se vayan a practicar; en el concepto de que el perito exigirá y agregará o consignará en el expediente cualquier prueba de haberse hecho las citaciones, sin que pueda proceder a la mensura de las respectivas líneas mientras no se llene esa formalidad;
 
@@ -3441,17 +3495,25 @@ VI.- Las medidas longitudinales y las de superficie han de ser expresadas en los
 
 Cuando en los títulos respectivos conste que las medidas longitudinales se hicieron a cordel, y el interesado pida que así se verifiquen de nuevo, el perito deberá hacerlas en esa forma; pero sin perjuicio de lo dispuesto en el párrafo que antecede;
 
-VII.- Los peritos están obligados a atender cuantas observaciones les hagan el promovente y los que se hayan opuesto o se propongan oponer al deslinde; pero no suspenderán la mensura, ni expresarán juicio sobre aquéllas sino en el informe escrito que rendirán al juez dentro del plazo que se les hubiere fijado, bajo su responsabilidad personal; quedando a su cargo todos los daños y perjuicios que se originen por su falta de cumplimiento;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+VII.- Los peritos están obligados a atender cuantas observaciones les hagan el promovente y los que se hayan opuesto o se propongan oponer al deslinde; pero no suspenderán la mensura, ni expresarán juicio sobre aquellas sino en el informe escrito que rendirán al juez o notario público dentro del plazo que se les hubiere fijado, bajo su responsabilidad personal; quedando a su cargo todos los daños y perjuicios que se originen por su falta de cumplimiento;
 
 VIII.- Si fuere necesario identificar alguno o algunos de los puntos deslindados, el perito prevendrá a cada parte que presente por lo menos dos testigos de identidad, y levantará al efecto las actas respectivas;
 
-IX.- Terminados los trabajos de campo, el perito deberá presentar al juez, dentro del plazo que se le hubiere fijado, el plano del terreno y un informe en que ha de constar una relación detallada de las operaciones que se ejecutaron para obtener la posición de todos los puntos del perímetro y la extensión superficial del terreno, consignándose al efecto todos los datos de campo y los resultados de los cálculos que se hicieron, expresándolos de manera tal que sea posible verificar cualquiera de ellos sin necesidad de recurrir al mismo perito;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+IX.- Terminados los trabajos de campo, el perito deberá presentar al juez o notario público, dentro del plazo que se le hubiere fijado, el plano del terreno y un informe en que ha de constar una relación detallada de las operaciones que se ejecutaron para obtener la posición de todos los puntos del perímetro y la extensión superficial del terreno, consignándose al efecto todos los datos de campo y los resultados de los cálculos que se hicieron, expresándolos de manera tal que sea posible verificar cualquiera de ellos sin necesidad de recurrir al mismo perito;
 
 X.- El perito ha de acompañar a su informe los escritos o manifestaciones originales que le hayan sido entregados con arreglo a lo dispuesto en la fracción V de este artículo; y en el caso de que alguno o algunos de los colindantes no le hayan presentado manifestación, así lo hará constar en el informe;
 
-XI.- Recibido por el juez el expediente formado por el perito, hará comparecer a los dueños de los terrenos colindantes que estén conformes con el apeo, para que ratifiquen su conformidad; y respecto a los que se hubieren opuesto se les correrá traslado por quince días comunes, para que formulen por escrito su oposición que se substanciará en juicio sumario; en el concepto de que si no presentaren su demanda dentro de ese término, se les tendrá por desistidos y se aprobará el apeo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-XII.- Si todos los interesados están conformes, se aprobará el apeo teniéndose las líneas como límites legales del predio; si sólo algunos lo estuvieren, respecto de ellos quedará aprobado, mandándose en ambos casos fijar las mojoneras en los puntos no objetados; y con los que se opusieren se procederá como lo dispone la fracción que antecede en su segunda parte. Estas resoluciones serán apelables en ambos efectos. Los oponentes al deslinde sólo podrán apelar del auto en que se les tenga por desistidos de su oposición y en esa virtud se apruebe el apeo;
+XI.- Recibido por el juez o notario público el expediente formado por el perito, hará comparecer a los dueños de los terrenos colindantes que estén conformes con el apeo, para que ratifiquen su conformidad, y respecto a los que se hubieren opuesto se les correrá traslado por quince días comunes, para que formulen por escrito su oposición que se substanciará en juicio sumario; en el concepto de que si no presentaren su demanda dentro de ese término se les tendrá por desistidos y se aprobará el apeo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+XII.- Si todos los interesados están conformes, se aprobará el apeo teniéndose las líneas como límites legales del predio; si sólo algunos lo estuvieren, respecto de ellos quedará aprobado, mandándose en ambos casos fijar las mojoneras en los puntos no objetados; con los que se opusieren se procederá como lo dispone la fracción que antecede en su segunda parte. Teniendo la obligación el notario, en caso de haberse tramitado ante él las diligencias, de remitir lo actuado ante el juez competente para dirimir el conflicto. Estas resoluciones serán apelables en ambos aspectos. Los oponentes al deslinde sólo podrán apelar del auto en que se les tenga por desistidos de su oposición y en esa virtud se apruebe el apeo;
 
 XIII.- El apeo aprobado confiere al promovente la posesión del terreno contra los dueños de las propiedades colindantes que hubieren prestado su conformidad, o que habiéndose opuesto al deslinde fueren judicialmente vencidos o se les hubiere tenido por desistidos de su oposición conforme a las dos fracciones que anteceden. Respecto de terceros que no hayan sido oídos, la posesión sólo se adquirirá por el transcurso de más de un año u otro título legal.
 
@@ -3491,7 +3553,15 @@ I.- El Juez estará facultado para intervenir de oficio en los asuntos que afect
 
 En estos casos, el Juez deberá exhortar a los interesados para que se avengan, resolviendo sus diferencias mediante convenio, que evite la controversia o dé por terminada la intervención judicial;
 
-II.- No se requerirán formalidades especiales para comparecer ante el Juez de lo Familiar, sino que bastará la exposición breve y concisa de los hechos que reclamen su intervención. Con la copia de la promoción inicial o de la actuación donde se consigne la comparecencia del interesado, mismas que serán proveídas a más tardar dentro del término de tres días, así como con las copias de los documentos que se presentaren, se emplazará a la contraria para que en igual forma produzca su contestación, dentro de los tres días siguientes a la fecha del emplazamiento;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+II.- No se requiere formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo o el consentimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre la administración de bienes comunes, educación de hijos, oposición de marido, padres y tutores, de sustracción ilegal o retención indebida de menores, y en general todas la (sic) cuestiones familiares similares que reclamen la intervención judicial.
+
+Podrá acudirse al Juez de lo familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el presente artículo, exponiendo de manera breve y concisa los hechos que reclamen su intervención, con la copia de la promoción inicial o de la actuación donde se consigne la comparecencia del interesado, mismas que serán proveídas a más tardar dentro del término de tres días, así como con las copias de los documentos que se presentaren, se emplazará a la contraria para que en igual forma produzca su contestación dentro de los tres días siguientes del emplazamiento.
+
+Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la ley, el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional mientras se resuelve el juicio.
+
+En el caso de sustracción ilegal de menores, el depósito provisional o recuperación deberá sustanciarse conforme a lo previsto por el Capítulo IV, del Título Decimotercero de este Código;
 
 III.- En el auto admisorio se fijará día y hora para la celebración de la audiencia de pruebas y alegatos, la que tendrá lugar dentro de los ocho días siguientes;
 
@@ -3499,9 +3569,9 @@ IV.- En dicha audiencia las partes ofrecerán y aportarán sus pruebas y en ella
 
 V.- Si por cualquiera circunstancia la audiencia no pudiera celebrarse, se verificará dentro de los cinco días siguientes;
 
-VI.- En el caso de que cualesquiera de las partes no se encontrare debidamente asesorada, se le designará un defensor de oficio, el que deberá comparecer al Tribunal, dentro del día siguiente al en que se le haga saber el nombramiento, a aceptar el cargo y enterarse del negocio.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-Esta designación se hará en el momento en que el Juez advierta la carencia de asesor. La falta de éste motivará el diferimiento de la audiencia por un término igual al que se señala en el párrafo anterior;
+VI.- En el caso de que cualesquiera de las partes no se encontrare debidamente asesorada se le designará un defensor de oficio, el que deberá comparecer al Tribunal dentro del día siguiente al que se le haga saber el nombramiento, a aceptar el cargo y a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual;
 
 VII.- El Juez podrá, en todo tiempo, cerciorarse personalmente o con el auxilio de trabajadores sociales o peritos de la veracidad de los hechos controvertidos, y razonará cuidadosamente la parte de su fallo en que confiera valor probatorio a los informes o dictámenes de esta manera obtenidos;
 
@@ -3996,3 +4066,19 @@ Las reformas a los Códigos Civil y de Procedimientos Civiles, entraran en vigor
 P.O. 8 DE MARZO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1999.
+
+DECRETO No. 416-99-I-P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1999.
+
+DECRETO No. 419-99-I-P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
