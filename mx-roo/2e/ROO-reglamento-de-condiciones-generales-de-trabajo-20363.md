@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-condiciones-generales-de-trabajo-20363"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-09-14"
-last_updated: "1984-09-14"
+last_updated: "2001-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el 14 de septiembre de 1984.
 
@@ -183,7 +183,7 @@ VIII.- Presentar dos cartas de recomendación y constancia de antecedentes no pe
 
 IX.- Cartilla del Servicio Militar Nacional (para los hombres).
 
-X.- Las mujeres, certificado médico de no gravidez.
+X.- (DEROGADA, P.O. 30 DE MARZO DE 2001)
 
 Los requisitos anteriores se comprobarán con los documentos correspondientes o con los medios idóneos que el Ejecutivo del Estado estime convenientes y conforme al procedimiento que se fije.
 
@@ -1010,3 +1010,11 @@ Efectuado el registro, deberá publicarse en el Diario Oficial del Gobierno del 
 Lic. Pedro Joaquín Coldwell Gobernador Constitucional del Estado de Quintana Roo.- Br. Pedro Pescador Tejeda Secretario General del S.U.T.A.G.E.- Lic. Esteban Maqueo Coral Secretario de Gobierno.- C. Guillermo Manzanilla Bellos Secretario de Actas y Acuerdos del S.U.T.A.G.E. Ing. José González Zapata Oficial Mayor de Gobierno.- C. Ernesto Schultz Orlayneta Presidente de la Comisión de Justicia y Vigilancia del S.U.T.A.G.E.- C.P. Alberto Villanueva Martín Secretario de Finanzas.
 
 Recibido en este Tribunal de Conciliación y Arbitraje del Estado, a las 12.00 horas del día 011 del mes de Septiembre del año de 1984 en 48 Fojas útiles, por conducto de Wilbert G. Conste.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL DE DEROGA LA FRACCIÓN X DEL ARTÍCULO 11 DEL REGLAMENTO DE LAS CONDICIONES GENERALES DE TRABAJO”.]
+
+P.O. 30 DE MARZO DE 2001.
+
+ÚNICO.- La presente Reforma al Reglamento de las Condiciones de Trabajo de los Trabajadores al Servicio del Poder Ejecutivo del Estado, entrará en vigor a partir de su inscripción ante el tribunal de Conciliación y Arbitraje, hecho lo anterior deberá publicarse en el Periódico Oficial del Gobierno del Estado.
