@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-pesca-15029"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-29"
-last_updated: "1999-09-29"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15029&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-09-28"
 
 REGLAMENTO DE LA LEY DE PESCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 29 de septiembre de 1999.
 
@@ -129,11 +129,17 @@ Cuando se esté en el supuesto de la fracción II, la Secretaría podrá, a soli
 
 ### CAPÍTULO II. DE LA LEGAL PROCEDENCIA DE LOS PRODUCTOS PESQUEROS
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
 ###### Artículo 10.
 
-La legal procedencia de los productos pesqueros se comprobará con el aviso de arribo, cosecha, producción o recolección; o, en su caso, con la factura o constancia de donación o de adjudicación.
+La legal procedencia de los productos pesqueros se comprobará:
 
-Tratándose de especies obtenidas de la pesca deportivo-recreativa, la legal procedencia se acreditará con el permiso respectivo.
+I. Desde el momento del desembarque o cosecha, hasta su enajenación a terceros por cualquier título, con el aviso de arribo, cosecha, producción o recolección, y
+
+II. Una vez enajenados por quienes los capturen, colecten o cultiven, con la factura respectiva y, en tratándose de productos decomisados, con la constancia de donación o de adjudicación a que se refiere el artículo 28 de la Ley.
+
+Tratándose de especies obtenidas al amparo de permisos de pesca deportivo-recreativa y de fomento, otorgados a científicos, técnicos e instituciones de investigación científica, la legal procedencia de los productos capturados se amparará con el propio permiso.
 
 ###### Artículo 11.
 
@@ -159,27 +165,71 @@ II. Descripción del producto, cantidad o peso y su importe.
 
 La factura de primera mano, contendrá los números de folio del aviso de arribo, de cosecha, recolección o producción del que deriva. Las facturas subsecuentes contendrán el número de factura de la que provienen.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
 ###### Artículo 14.
 
-Para trasladar por vía marítima o aérea productos pesqueros vivos, frescos, enhielados o congelados, se presentará, por el titular del producto o transportista, a la autoridad pesquera los documentos que amparen la legal procedencia y el aviso de embarque, por lo menos 24 horas antes de su salida.
+El traslado de los productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura, entre las entidades federativas con litoral marino y de cualquiera de ellas hacia las entidades federativas del interior, deberá efectuarse amparado con la Guía de Pesca que expida la Secretaría.
 
-El aviso de embarque es el documento mediante el cual se reporta a la autoridad competente, la carga de productos pesqueros en dichas presentaciones, para su traslado por vía marítima o aérea y deberá contener:
+Se exceptúa del uso de la Guía de Pesca el traslado de los productos:
 
-I. Lugar, fecha y hora de salida;
+I. Obtenidos al amparo de permisos de pesca deportivo-recreativa y de fomento otorgados a científicos, técnicos e instituciones de investigación científica. En este caso, su traslado se amparará con el permiso respectivo, y
 
-II. Nombre de la embarcación y del propietario;
+II. Cuando no existan oficinas de la Secretaría que expidan dicha guía dentro de un radio de veinte kilómetros desde el lugar de descarga, cosecha o producción de los mismos. En este supuesto, el traslado se amparará en los términos del artículo 14 bis.
 
-III. Lugar de destino final;
+Durante el traslado, se acreditará por cualquier persona el supuesto a que se refiere esta fracción mediante la fotocopia del último aviso de arribo, de cosecha o de recolección o producción, según proceda, presentado a la Secretaría en cumplimiento a lo dispuesto en este Reglamento.
 
-IV. Especies y kilogramos a embarcar, y
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-V. Mención de los documentos que amparen su legal procedencia.
+Artículo 14 bis.- El traslado de los productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura no previsto en el primer párrafo del artículo anterior, se realizará al amparo de la documentación con la que se acredite su legal procedencia.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Artículo 14 bis 1.- Se excluye de lo dispuesto por los artículos 14, primer párrafo, y 14 bis el traslado de los productos pesqueros vivos, frescos, enhielados o congelados destinados al consumo doméstico directo de quien los transporta.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Artículo 14 bis 2.- La Secretaría publicará en el Diario Oficial de la Federación el formato de Guía de Pesca, el cual será de reproducción libre por parte de los interesados, tendrá una vigencia máxima de tres días hábiles, y deberá contener:
+
+I. Lugar y Fecha de embarque;
+
+II. Hora de salida;
+
+III. Nombre o razón social del propietario o poseedor de los productos pesqueros;
+
+IV. Domicilio fiscal o legal del propietario o poseedor de los productos pesqueros;
+
+V. Datos del vehículo a utilizar, tales como la denominación y matrícula de la embarcación, tipo y número de placas tratándose de vehículos terrestres, y en los casos que proceda, la denominación o razón social de la compañía aérea, fecha y número de vuelo;
+
+VI. Domicilio de destino final;
+
+VII. Volumen en kilogramos de los productos a transportar, debiendo ser identificados por especie, estado de presentación, conservación y empaque;
+
+VIII. Número(s) de folio y fecha(s) del aviso de arribo o de recolección, si se trata de permisionarios o concesionarios de pesca; del aviso de cosecha, si son acuacultores, o del aviso de producción cuando se trate de laboratorios productores de larvas, crías o reproductores para destinarlos a la acuacultura, siempre y cuando los productos pesqueros no hayan sido enajenados y su transportación se realice directamente por quienes los capturen, cultiven o produzcan en laboratorio;
+
+IX. Número(s) de Folio y fecha(s) de la factura o constancia de donación o adjudicación, cuando los productos pesqueros a transportar ya hayan sido enajenados por quienes los capturen, cultiven o produzcan en laboratorio, y
+
+X. Número de folio y fecha del inventario de existencias de especies en veda, si los productos transportados corresponden a especies inventariadas por encontrarse en veda; o fecha y aduana de entrada del pedimento de importación, en el caso de especies capturadas en el extranjero y/o número y fecha del Certificado CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre) si se trata de productos provenientes de especies amenazadas de fauna y flora acuáticas y/o fecha y nombre o razón social de la autoridad o laboratorio que expida el Certificado de Sanidad, cuando lo requiera la Norma Oficial Mexicana correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Artículo 14 bis 3.- El trámite para la expedición de la Guía de Pesca, se sujetará al siguiente procedimiento:
+
+I. Los interesados podrán obtener el formato de la Guía de Pesca de las páginas de internet de la Secretaría y de la Comisión Nacional de Acuacultura y Pesca, o en cualquiera de las oficinas de pesca de la Secretaría, en el cual asentarán los datos que se indican en las fracciones I a VII y, según corresponda, el(los) dato(s) correspondiente(s) a las fracciones VIII a X del artículo 14 bis 2, y lo presentarán por triplicado ante la oficina de pesca de la Secretaría para su resolución.
+
+Al formato se deberá anexar para su cotejo la documentación con la cual se acredite la legal procedencia de los productos pesqueros a transportar y, en su caso, el Inventario de existencias de especies en veda, o el pedimento de importación si se trata de especies capturadas en el extranjero, y/o certificado de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre si se trata de productos provenientes de especies amenazadas de fauna y flora acuáticas y/o Certificado de Sanidad de organismos acuáticos vivos.
+
+II. La Secretaría, por conducto del titular de la oficina de pesca correspondiente, resolverá el trámite de manera inmediata, asignará un folio, firmará y sellará el formato, siempre y cuando se cumpla con los requisitos de información y documentación requeridos. Los documentos presentados para cotejo se entregarán también de manera inmediata a los solicitantes, una vez efectuado el procedimiento.
+
+III. Si los interesados no cumplen con los requisitos de información y documentación, la Guía de Pesca no será foliada, firmada y sellada y, en ese momento, la autoridad pesquera notificará verbalmente al interesado los faltantes de información o documentación para que subsane las deficiencias encontradas. En este caso, el interesado iniciará un nuevo trámite al cumplir con los requisitos de información y/o documentación requeridos.
+
+Tratándose de especies CITES, la Secretaría dará la intervención que corresponda a la Secretaría de Medio Ambiente y Recursos Naturales, misma que actuará de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 ###### Artículo 15.
 
-El traslado de productos pesqueros en cualquier presentación por las demás vías generales de comunicación, deberán realizarse al amparo de la documentación con la que se acredite su legal procedencia.
-
-La Secretaría podrá determinar las normas que deberán adoptarse para el adecuado traslado de especies vivas para actividades acuícolas o de investigación.
+La Secretaría determinará las normas que deberán adoptarse para el adecuado traslado de especies vivas para actividades acuícolas o de investigación.
 
 ### CAPÍTULO III. DE LA INVESTIGACIÓN Y LA CARTA NACIONAL PESQUERA
 
@@ -263,27 +313,11 @@ La omisión de dar el aviso en los términos a que se refiere el párrafo anteri
 
 ###### Artículo 27.
 
-Para transportar por las vías generales de comunicación, desde las zonas litorales o embalses en donde se establezca veda, productos pesqueros frescos, enhielados o congelados, inventariados en los términos del artículo anterior, los interesados solicitarán de la oficina correspondiente de la Secretaría, previamente a su transportación, el certificado de la legal procedencia.
-
-Asimismo, requerirán de la certificación de su legal procedencia, el traslado de mamíferos, quelonios marinos y las demás especies sujetas a algún régimen de protección especial.
+(DEROGADO, D.O.F. 28 DE ENERO DE 2004)
 
 ###### Artículo 28.
 
-Los solicitantes del certificado de la legal procedencia a que se refiere el artículo anterior, presentarán la solicitud correspondiente en la que informarán la fecha y lugar al que trasladarán los especímenes, así como, según sea el caso:
-
-I. La concesión, permiso o autorización correspondiente, tratándose de especies capturadas en cuerpos de agua de jurisdicción federal o cualquiera de los documentos a que se refiere el artículo 10 del presente Reglamento;
-
-II. El pedimento de importación, tratándose de especies capturadas en el extranjero y, en su caso, el Certificado de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, y
-
-III. El certificado de sanidad:
-
-a) Tratándose de organismos acuáticos vivos o
-
-b) Cuando lo establezca una norma y se trate de productos y subproductos.
-
-La certificación se hará constar en oficio que expida la autoridad competente, asentando la información que corresponda a la fecha de solicitud, el nombre o razón social del interesado y la forma en que se acredite la legal procedencia de las especies y su lugar de destino.
-
-Si la Secretaría, dentro del primer día hábil siguiente a la fecha de presentación de la solicitud, no requiere a los interesados subsanen las deficiencias que existieren, se considerará integrado el expediente. La Secretaría resolverá la solicitud dentro de los 3 días hábiles siguientes, contados a partir de que se integre el expediente. Transcurrido el plazo sin que la Secretaría emita resolución, la solicitud se considerará otorgada.
+(DEROGADO, D.O.F. 28 DE ENERO DE 2004)
 
 ## TÍTULO SEGUNDO. DE LA PESCA EN GENERAL
 
@@ -569,7 +603,9 @@ VI. Respetar las condiciones técnicas y económicas de explotación de cada esp
 
 VII. Coadyuvar en la preservación del medio ecológico y la conservación de especies, así como apoyar los programas de repoblamiento del medio natural, en los términos y condiciones que fije la Secretaría;
 
-VIII. Presentar el aviso de arribo dentro de las 72 horas siguientes a la descarga;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+VIII. Llenar y firmar el formato de aviso de arribo al desembarque de los productos capturados, anotando todos los datos que en el mismo se piden, y presentarlo a la oficina de la Secretaría más cercana, dentro de las setenta y dos horas siguientes a la descarga;
 
 IX. Llevar a bordo de las embarcaciones pesqueras de más de 10 toneladas de registro bruto, la bitácora de pesca y entregarla a la autoridad competente, junto con el aviso de arribo. En el caso de embarcaciones con menor tonelaje del señalado anteriormente, la Secretaría determinará el cumplimiento de esta obligación a través de las normas respectivas;
 
@@ -815,9 +851,11 @@ Los autorizados para recolectar organismos del medio natural y los acuacultores 
 
 Para otorgar las autorizaciones para la recolección de especies en cualquier estadio, la Secretaría considerará el dictamen del Instituto Nacional de la Pesca, en el que se determinará el número de ejemplares, zonas y épocas para su recolección. No se otorgarán estas autorizaciones cuando se determine que se pone en riesgo la conservación de la especie de que se trate.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
 ###### Artículo 61.
 
-Los autorizados para recolectar del medio natural reproductores, larvas, postlarvas, crías, huevos, semilla, alevines o en cualquier otro estadio, están obligados a presentar el aviso de recolección dentro de las 72 horas, contadas a partir de que se concluya ésta.
+Los autorizados para recolectar del medio natural reproductores, larvas, postlarvas, crías, huevos, semillas, alevines o en cualquier otro estado, están obligados a llenar y firmar el aviso de recolección en el momento en que ésta concluya, proporcionando todos los datos que en el mismo se piden, y presentarlo a la oficina más cercana de la Secretaría, dentro de las setenta y dos horas siguientes al desembarque.
 
 ###### Artículo 62.
 
@@ -980,6 +1018,10 @@ VII. Disponibilidad futura de los resultados del proyecto.
 Los permisionarios de pesca de fomento, deberán presentar a la Secretaría, en su caso, un informe preliminar, y posteriormente el informe final del resultado del mismo.
 
 El permiso correspondiente señalará el contenido, los plazos y la forma de entrega de los informes, de conformidad con el proyecto de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Tratándose de permisionarios de pesca de fomento cuya actividad u objeto social sea la captura, comercialización o transformación de productos pesqueros, están obligados a llenar y firmar el formato de aviso de arribo al desembarque de los productos capturados, aportando todos los datos que en el mismo se piden, y presentarlo a la oficina más cercana de la Secretaría, dentro de las setenta y dos horas siguientes a la descarga.
 
 ###### Artículo 77.
 
@@ -1325,7 +1367,9 @@ I. Cultivar exclusivamente las especies autorizadas, en las zonas determinadas e
 
 II. Presentar, durante los dos primeros meses de cada año, el avance de los proyectos técnicos y económicos en los que se fundamente la concesión;
 
-III. Presentar, cuando exista producción, el último día hábil del mes, en la oficina de la Secretaría más cercana a la unidad de producción, los avisos de cosecha y producción, según corresponda. Igual obligación tendrán los acuacultores que no necesiten concesión;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+III. Presentar a la oficina de la Secretaría, que se encuentre más cercana a la unidad acuícola, cuando exista producción, los avisos de cosecha y/o producción, según corresponda, en un plazo no mayor de setenta y dos horas al término de la misma, debiendo llenarlos y firmarlos inmediatamente de terminada la cosecha. Igual obligación tendrán los acuacultores que no necesiten concesión;
 
 IV. Respetar las condiciones técnicas y económicas, así como los procedimientos para el cultivo y aprovechamiento de cada especie, grupo de especies o zonas fijadas en el título respectivo;
 
@@ -1860,3 +1904,13 @@ CUARTO.- Los interesados utilizarán los formatos, en un plazo no mayor a 30 dí
 QUINTO.- La Secretaría en un plazo no mayor de 180 días publicará la Carta Nacional Pesquera. En tanto ésta no sea publicada, la Secretaría continuará dictando sus resoluciones conforme a la información disponible.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE ENERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- La Secretaría, dentro de un plazo no mayor de cinco días naturales, contados a partir de la fecha de publicación de este Decreto en el Diario Oficial de la Federación, publicará en el mismo órgano oficial el formato de Guía de Pesca.
