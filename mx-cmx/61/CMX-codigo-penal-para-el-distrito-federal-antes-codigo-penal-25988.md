@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1999-09-17"
+last_updated: "2000-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 1999.
-
-(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1999.)
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE FEBRERO DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -3646,9 +3644,11 @@ No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada
 
 ### CAPITULO VII. Abandono de personas
 
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2000)</small>
+
 ###### ARTICULO 335.
 
-Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cuatro años de prisión, sí no resultare daño alguno, privándolo, además, de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido.
+Al que abandone a un niño o adulto incapaz de cuidarse a sí mismo, a un adulto mayor o a una persona enferma, teniendo la obligación de cuidarlos, se le aplicarán de un mes a cuatro años de prisión, si no resultare daño alguno, privándolo, además, de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido.
 
 (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -5425,3 +5425,7 @@ G.O. 17 DE SEPTIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 1° de octubre de 1999. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 15 DE FEBRERO DE 2000.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
