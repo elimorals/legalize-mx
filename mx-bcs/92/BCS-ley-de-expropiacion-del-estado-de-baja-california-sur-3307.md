@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-expropiacion-del-estado-de-baja-california-sur-3307"
 country: "mx"
 rank: "ley"
 publication_date: "1975-06-25"
-last_updated: "1975-06-25"
+last_updated: "2003-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE EXPROPIACION Y LIMITACION DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 10 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 25 de junio de 1975.
 
@@ -119,7 +121,7 @@ Si la ocupación fuere temporal, cl monto de la indemnización quedará a juicio
 
 El importe de la indemnización será cubierto por el Estado, cuando la cosa expropiada pase a su patrimonio. Cuando pase el patrimonio de un Municipio, será éste quien cubra su importe.
 
-## TRANSITORIO
+T R A N S I T O R I O
 
 ###### ARTICULO UNICO.
 
@@ -128,3 +130,11 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín O
 Sala de Sesiones del Poder Legislativo. La Paz. B, Cfa. Sur 19 de junio de 1975.- EL PRESIDENTE DIP. PROFR. MANUEL SALGADO CALDERON. Rúbrica.- EL SECRETARIO DIP. ING. OCTAVIO CLEMENTE PEREZ. Rúbrica.
 
 En cumplimiento de lo dispuesto por la fracción II del artículo 79 de la Constitución Política del Estado de Baja California Sur y para su debida publicación y observancia expido el presente Decreto en la residencia del Poder Ejecutivo Estatal en la ciudad de La Paz, a los veinte días del mes de junio de mil novecientos setenta y cinco. EL GOBERNADOR DEL ESTADO LIC. ANGEL CESAR MENDOZA ARAMBURO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO PROFR MARCELO RUBIO RUIZ .Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 2003.
+
+PRIMERO.- Se abroga la Ley de Expropiación del Estado de Baja California Sur, expedida por este Congreso del Estado de Baja California Sur, mediante Decreto número 15, de fecha diecinueve de junio de mil novecientos setenta y cinco.
+
+SEGUNDO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
