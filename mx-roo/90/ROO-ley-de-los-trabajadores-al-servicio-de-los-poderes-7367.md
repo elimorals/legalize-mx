@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "1992-05-29"
+last_updated: "1992-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -87,19 +87,79 @@ II.- Trabajadores de base.
 
 III.- Trabajadores supernumerarios.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 10.
 
 Son trabajadores de confianza:
 
-I.- En el Poder Legislativo: el oficial mayor de la Legislatura y el contador mayor de Hacienda;
+I.- En el Poder Legislativo:
 
-II.- En el poder Ejecutivo: el Secretario de Gobierno; el Oficial Mayor; el Secretario de Finanzas; el Secretario de Desarrollo Económico; el Secretario Estatal de Obras Publicas; el Secretario de Turismo; el Secretario de Educación y Cultura Popular; el Secretario Estatal de Fomento Agropecuario; el Procurador General de Justicia; Subprocurador; Agentes de Ministerio Público; Secretarios, los Directores; Subdirectores; Jefes de Departamento u Oficina; Jefes de Servicios Estatales; Personal de las Secretarias Particulares y Ayudantias; todos los miembros de los Servicios Policíacos y de Transito, exceptuando a los que desempeñen labores administrativas y de intendencia; Presidentes; Secretarios; Vocales; Administradores; Superintendentes; Gerentes y Subgerentes de Juntas, Consejos y Comisiones, los recaudadores de Rentas; Cajeros; Contralores; Contadores; encargados directos de adquisiciones y compras; Inspectores de Impuestos; Derechos; Productos y Aprovechamiento y de Servicios Públicos no Educativos; Inspección y Personal Técnico adscritos a los Departamentos de Inspección y Auditorias; Auditores y Subauditores; Investigadores Científicos; Consultores Jurídicos y Asesores Técnicos; Presidentes; Secretarios; Actuarios; Conciliadores e Inspectores de Trabajo; Capitanes de Embarcaciones; Dragas o Aeronaves; Patrones o Sobrecargos destinados a unidades; bodegueros y almacenistas; los empleados que manejen fondos y valores; celadores y alcaides.
+A).- El Oficial Mayor, los Directores, Subdirectores, Asesores, Jefe de Departamento, Jefes de Area, Secretarios y Secretarias Particulares, Privados o Auxiliares, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo y Capturistas que operen con Datos Presupuestales, Financieros, Contables o Confidenciales, Cajeros, Pagadores y en general todos los trabajadores que manejen fondos o valores.
 
-III.- En el Poder Judicial: los Secretarios y Actuarios del propio Tribunal; los Jueces; Secretarios y Actuarios adscritos o quienes los suplan en sus faltas temporales y defensores de oficio.
+B).- El Contador Mayor de Hacienda, los Subcontadores, los Directores y Subdirectores, los Jefes de Departamento, los Secretarios y Secretarias Privadas o Auxiliares, Asesores, Secretarias de los anteriores; los Jefes de Area, los Auditores, los Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo, Capturistas, que operen con datos Presupuestales, Financieros o Contables así como los Confidenciales, Cajeros, Pagadores y en general todos los trabajadores de la Contaduría Mayor de Hacienda que manejen fondos o valores y practiquen auditorías o participen directamente en ella.
 
-IV.- En los Ayuntamientos: El Secretario del Ayuntamiento, Directores; Subdirectores; Jefes y Subjefes de Departamento y oficina; los Oficiales del Registro Civil; los Tesoreros Municipales; Inspectores y Supervisores; miembros de los servicios policíacos; todos los empleados que manejen fondos y valores; los alcaides y celadores; Jueces Calificadores; empleados de las secretarías particulares y ayudantías; delegados y subdelegados.
+C).- Los que de acuerdo a la naturalez (sic) del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
 
-V.- En los Organismos Descentralizados los empleados que señale la Ley o Decreto que los cree; de no especificarlo, se consideraran empleados de confianza conforme a las funciones que desempeñen; independientemente de la enumeración anterior, se considerará también trabajador de confianza a todo aquel que desempeñe funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general, y las que se relacionen con trabajos particulares de los Titulares de los Poderes, Ayuntamientos y Organismos Descentralizados. Los trabajadores de confianza no podrán formar parte de los sindicatos de los demás trabajadores, ni serán tomados en consideración en los recuentos para determinar la mayoría en casos de huelga, ni podrán ser representantes de los trabajadores en los organismos que se integren.
+II.- En el Poder Ejecutivo:
+
+A).- Los que integran la planta del Despacho del Ejecutivo y aquellos cuyo nombramiento o ejercicio requieran de la aprobación expresa del Gobernador del Estado.
+
+B).- El personal de la Secretaría Particular del Ejecutivo del Estado.
+
+c).- Los Secretarios Estatales, los Subsecretarios, el Oficial Mayor, el Contralor, el Procurador General de Justicia y los Subprocuradores de Justicia.
+
+d).- Los Presidentes y Vocales Ejecutivos de Juntas, Consejos y Comisiones.
+
+e).- El personal de las Juntas y Tribunal Laboral y de la Procuraduría de la defensa del trabajo, con excepción de las Secretarias que no lo sean de los Presidentes o de los Procuradores, y el personal de Intendencia.
+
+F).- Agentes del Ministerio Público del Fuero Común, Secretarios del Ministerio Público, Peritos y todos los miembros de las diversas corporaciones policíacas y de tránsito.
+
+G).- El personal de los Centros de Readaptación Social, con excepción de las Secretarias que no lo sean del Director, Subdirectores y Jefes de Departamento, y el Personal de Intendencia.
+
+H).- Los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Jefes de Area, los Auditores, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo y Capturistas, que operen Datos Presupuestales, Contables, Financieros o Confidenciales, Oficiales del Registro Civil y del Registro Público de la Propiedad, Inspectores, Investigadores, Científicos, Asesores, Capitanes, Patrones o Sobrecargos de Embarcaciones, Draga o Aeronaves, Bodegueros, Almacenistas, Recaudadores de Rentas, Subrecaudadores de Rentas, Cajero, Pagadores y en general todos los trabajadores que manejen fondos o valores, los auditores y el personal que practique Auditoría o participe directamente en ella.
+
+i).- Los Secretarios y Secretarias Particulares, Privados o Auxiliares de los Secretarios de Estado, Subsecretarios, Oficial Mayor, Contralor, Procurador, Subprocuradores, Presidentes y Vocales Ejecutivos de Juntas, Comisiones y Consejos Directivos, Directores Generales, Directores, Subdirectores y Jefes de Departamento.
+
+J).- Los que de acuerdo a la naturaleza del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
+
+III.- En el Poder Judicial:
+
+A).- Los Magistrados, los Jueces, los Secretarios de Acuerdos y Proyectistas, el Secretario del Pleno, los Secretarios de Salas y de los Juzgados, los Actuarios.
+
+B).- El Oficial Mayor, los Directores, Jefes de Departamento y Jefes de Area, el Contador, los Secretarios y Secretarias Particulares, Privados y Auxiliares y Mecanógrafas y Taquimecanógrafas de la Presidencia, de Magistrados, Oficial Mayor, Contador, de los Jueces y Directores, los Programadores, los Auxiliares de Informática, Operadores del Sistema de Cómputo, Capturistas, que operen datos Presupuestales, Contables y Financieros o de carácter confidencial, Jefes de Archivo, Cajeros Pasantes y en general todos los trabajadores que manejen fondos y valores.
+
+C).- Los que de acuerdo a la naturaleza del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
+
+IV.- En los Ayuntamientos:
+
+A).- Los que integran la Planta del Despacho del Presidente Municipal y aquellos cuyo nombramiento y ejercicio requieran la aprobación expresa del Presidente Municipal o del Ayuntamiento.
+
+B).- El Secretario del Ayuntamiento, el Oficial Mayor, el Tesorero, el Contralor, los Directores y Subdirectores, Jefes y Subjefes de Departamento, Jefes y Subjefes de Area y Oficina, los Oficiales del Registro Civil, los Auditores, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo, Capturistas, que operen Datos Presupuestales, Contables y Financieros, Inspectores, Supervisores, Investigadores Científicos, Asesores, Capitanes, Patrones o Sobrecargos de Embarcaciones, Draga o Aeronaves, Bodegueros, Almacenistas, Recaudadores de Rentas, Cajeros Pasantes y en general todos los trabajadores que manejen Fondos o Valores, los Auditores y todo el personal que practique auditorías o participen directamente en ellas.
+
+c).- Los Miembros de las Alcaldías y el personal que preste sus servicios a las mismas, con excepción de las Secretarias que no lo sean del Alcalde, del tesorero o de los Concejales, y de los Directores y Jefes de Departamento de dicha Alcaldía, y el personal de Intendencia.
+
+D).- Los Presidentes y Vocales ejecutivos de Juntas, Consejos, Fideicomisos y Comisiones y las Secretarias o Secretarios Privados, Particulares o Auxiliares.
+
+E).- Todos los Miembros de las diversas corporaciones de Seguridad Pública y Tránsito.
+
+F).- El personal de las Cárceles Municipales, con excepción de las Secretarias Taquimecanógrafas y el personal de Intendencia.
+
+G).- Los Secretarios o Secretarias Particulares, Secretarios Privados, Secretarios Auxiliares y Auxiliares del Presidente Municipal, Síndico y Regidores, Tesorero, Contralor y Directores y Jefes de Departamento.
+
+H).- Los que de acuerdo a la naturaleza del trabajo desempeñado y sus funciones determine el nombramiento respectivo.
+
+V).- En los Organismos Descentralizados del Estado y los Municipios con excepción del Sistema Educativo Quintanarroense.
+
+Los empleados que señale la Ley o Decreto por el que se crea y, de no especificarlo:
+
+A).- Los Directores Generales, Presidentes, Vocales Ejecutivos y en general todo aquel que ejerza la función directiva del organismo en cuestión.
+
+B).- Los Directores, Subdirectores, Jefes de Departamento, Jefes de Area, los Auditores, Programadores, Auxiliares de Informática, Operadores del Sistema de Cómputo, Capturista, que operen datos Presupuestales, Contables o Financieros o Confidenciales, Inspectores, Investigadores, Científicos, Asesores, Bodegueros, Almacenistas, Cajeros, Pagadores y en general todos los trabajadores que manejen fondos y valores, los Auditores y el personal que practique auditorías o participe directamente en ellas, exceptuando a los trabajadores del Sistema Educativo Quintanarroense.
+
+VI.- Independientemente de lo señalado en las fracciones anteriores, se consideran también trabajadores de confianza a todos aquellos que desempeñen funciones de Dirección, Inspección, Vigilancia y Fiscalización, cuando tengan carácter general; así como los que realicen trabajos específicos de los titulares de los Poderes, Ayuntamientos y Organismos Descentralizados.
+
+Los trabajadores de confianza no podrán formar parte de los Sindicatos de los demás trabajadores ni serán tomados en consideración de los recuentos para determinar la mayoría en caso de huelga; tampoco podrán ser representantes de los trabajadores en los organismos que se integren.
 
 ###### ARTICULO 11.
 
@@ -111,7 +171,7 @@ Son trabajadores supernumerarios aquellos cuya relación contractual está sujet
 
 ###### ARTICULO 13.
 
-Los trabajadores de base deberán ser de nacionalidad mexicana salvo que no los haya en una especialidad determinada, en cuyo efecto podrán emplearse temporalmente a trabajadores extranjeros, pero en una roporción que no exceda del cinco por ciento. En todo caso los trabajadores extranjeros tendrán la obligación solidaria de capacitar a trabajadores mexicanos en la especialidad de que se trate.
+Los trabajadores de base deberán ser de nacionalidad mexicana salvo que no los haya en una especialidad determinada, en cuyo efecto podrán emplearse temporalmente a trabajadores extranjeros, pero en una proporción que no exceda del cinco por ciento. En todo caso los trabajadores extranjeros tendrán la obligación solidaria de capacitar a trabajadores mexicanos en la especialidad de que se trate.
 
 ### CAPITULO III. DISPOSICIONES GENERALES
 
@@ -161,7 +221,9 @@ IV.- La duración de la jornada de trabajo.
 
 V.- El sueldo y demás prestacionse (sic) que habrá de percibir el trabajador, y
 
-VI.- El lugar en que prestará sus servicios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- El lugar en que prestará sus servicios y la dependencia u Organismos de su descripción.
 
 ###### ARTICULO 18.
 
@@ -251,19 +313,31 @@ VIII.- El primero de diciembre de cada seis años, cuando corresponda a la trans
 
 IX.- El veinticinco de diciembre.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+X.- El 12 de junio, con excepción de los trabajadores del Sistemas (sic) Educativo Quintanarroense;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XI.- Los que se pacten en las condiciones generales de trabajo de cada Dependencia de los Tres Poderes, Ayuntamientos y Organismos Descentralizados.
+
 ###### ARTICULO 34.
 
 Los trabajadores no están obligados a prestar servicios en sus días de descanso. Si se quebranta esta disposición se pagara al trabajador con un cien por ciento más del salario que le corresponda por sus días de descanso.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 35.
 
-Las mujeres disfrutarán con pago de salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas después del mismo. Durante el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos.
+Las mujeres disfrutarán del pago del salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas después del mismo. Durante el período de lactancia tendrán dos períodos de descanso extraordinario por día, de media hora cada uno para amamantar a sus hijos, a partir del término de su licencia y hasta cubrir seis meses.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 36.
 
-Los trabajadores que tengan más de seis meses consecutivos de servicios (sic), disfrutarán de dos períodos anuale (sic) de vacaciones de diez días hábiles cada uno, en las fechas que se señalen al efecto.
+Por cada seis meses consecutivos de servicios, los trabajadores disfrutarán de un período de vacaciones de diez días laborales en las fechas que se señalen para tal efecto, con el pago correspondiente de la prima vacacional. Cuando un trabajador no pudiese hacer uso de las vacaciones en los períodos señalados por necesidades de servicio, disfrutará de ellas dentro de los treinta días siguientes a la fecha en que haya desaparecido la causa que le impidiera el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en período de vacaciones tendrán derecho a doble pago de sueldo.
 
-Cuando un trabajador no pudiere hacer uso de las vacaciones en los periodos señalados, por necesidades del servicio disfrutará de ellas, dentro de los treinta días siguientes, a la fecha en que haya desaparecido la causa que le impidiere el disfrute de este descanso, pero en ningún caso los trabajadores que laboren en período de vacaciones, tendrán derecho a doble pago de sueldo.
+Se exceptúan de estas disposiciones los trabajadores del Sistema Educativo Quintanarroense, quienes se ajustarán al calendario escolar oficial.
 
 ### CAPITULO V. DE LOS SALARIOS
 
@@ -271,19 +345,23 @@ Cuando un trabajador no pudiere hacer uso de las vacaciones en los periodos señ
 
 Salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 38.
 
-El salario será uniforme para cada una de las categorías de trabajo y será fijado por el presupuesto de egresos correspondiente.
+El salario será uniforme para cada uno de los niveles o categorías de trabajo y será fijado por el Presupuesto de Egresos correspondiente.
 
 ###### ARTICULO 39.
 
 A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 40.
 
-La cuantía del salario uniformemente fijado, no podrá ser disminuida durante la vigencia de los presupuestos de egresos correspondientes.
+La cuantía del salario uniformemente fijado, no podrá ser disminuída durante la vigilancia de los Presupuestos de Egresos correspondientes.
 
-Los aumentos de salarios se establecerán de conformidad con la capacidad económica del Estado.
+Los aumentos de salarios se establecerán de conformidad con la capacidad económica del Estado, con excepción de los trabajadores del Sistema Educativo Quintanarroense, en cuyo caso, los incrementos salariales serán en base a los Convenios vigentes firmados sobre la materia entre la Federación y el Estado.
 
 ###### ARTICULO 41.
 
@@ -297,11 +375,13 @@ Se crearán también partidas específicas denominadas compensaciones adicionale
 
 Los pagos se efectuaran precisamente en moneda del curso legal o cheques.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 44.
 
-Los Trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, el cual deberá pagarse en un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero, y que será equivalente a 40 días de salario cuando menos, sin deducción alguna. El Ejecutivo del Estado, los Ayuntamientos y Organismos descentralizados dictarán las normas conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que el trabajador hubiere prestado sus servicios menos de un año.
+Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, del cual deberá pagarse el 50% durante la primera quincena de Diciembre y el otro 50% durante la primera quincena del mes de enero siguiente, y será equivalente a 40 días de salario sin deducción alguna.
+
+Si el trabajador hubiese iniciado la prestación de sus servicios antes del 1º de julio, recibirá la totalidad del aguinaldo, y si la prestación de servicios hubiere iniciado posteriormente a esta fecha, el aguinaldo será proporcional a los días laborados.
 
 ### CAPITULO VI. DE LOS DESCUENTOS AL SALARIO
 
@@ -325,9 +405,11 @@ El monto total de los descuentos no podrá exceder del treinta por ciento del im
 
 Está prohibida la imposición de multas a los trabajadores en sus fuentes de trabajo, cualquiera que sea su causa o concepto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 47.
 
-El salario no es susceptible de embargo judicial o administrativo, salvo lo establecido en el Artículo 45 de esta Ley.
+El salario no es susceptible de descuento, embargo judicial o administrativo, salvo lo establecido en el Artículo 45 de esta Ley.
 
 ###### ARTICULO 48.
 
@@ -389,11 +471,13 @@ IV.- Hacer propaganda política o religiosa dentro de sus dependencias.
 
 ### CAPITULO VIII. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 51.
 
 Son obligaciones de los trabajadores:
 
-I.- Desempeñar sus labores con la intensidad, cuidado y esmero apropiados, sujetándose a la dirección de sus jefes y a las Leyes y reglamentos respectivos.
+I.- Desempeñar sus labores con la intensidad, cuidado y esmero apropiados, sujetándose a la Dirección de sus Jefes y a las Leyes y Reglamentos respectivos.
 
 II.- Observar buena conducta dentro del servicio.
 
@@ -405,11 +489,11 @@ V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus
 
 VI.- Asistir puntualmente a sus labores.
 
-VII.- Abstenerse de hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo.
+VII.- Abstenerse de hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo, con excepción de la propaganda que tenga por objeto la renovación de las diligencias sindicales.
 
-VIII.- Asistir a los institutos de capacitación, para mejorar su preparación y eficiencia.
+VIII.- Asistir a los Institutos y seminarios de capacitación que se ofrezcan, para mejorar su preparación y eficiencia.
 
-IX.- Someterse a los exámenes médicos previstos en las condiciones generales de trabajo.
+IX.- Someterse a los exámenes Médicos previstos en las condiciones Generales de trabajo.
 
 X.- Asistir a las ceremonias cívicas.
 
@@ -467,6 +551,14 @@ En los casos a que se refiere esta fracción, el trabajador que diere motivo par
 
 Si el Tribunal resuelve que fue justificada la justificación el trabajador no tendrá derecho al pago de los salarios caídos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 53
+
+BIS.- Cuando el trabajador incurra en algunas de las causales a que se refiere la Fracción VII del Artículo anterior, el Jefe Superior de la Oficina Procederá a levantar acta administrativa con intervención del trabajador y un Representante del Sindicato respectivo, en la que con toda precisión se asentarán los hechos, la declaración del trabajador afectado y la de los testigos de cargo y descargo que se propongan, la que se Afirmará por los que en ella intervengan y por dos testigos de asistencia, debiendo entregarse en ese mismo acto, una copia al trabajador y otra al Representante Sindical.
+
+Si a juicio del Titular procede a demandar ante el Tribunal Estatal de Conciliación y Arbitraje la terminación de los afectados del nombramiento del trabajador, a la demanda se acompañarán como instrumento base de la acción, el acta administrativa y los documentos que, al formularse ésta, se hayan agregado a la misma.
+
 ### CAPITULO XI. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
 
 ###### ARTICULO 54.
@@ -501,9 +593,11 @@ Las vacantes se otorgarán a los trabajadores de categoría inmediata inferior q
 
 Los factores escalafonarios se calificarán mediante sistemas adecuados para su evaluación que estipulen los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 60.
 
-El personal de cada uno de los Poderes, Ayuntamientos y Organismos Descentralizados será clasificado según las categorías asignadas en sus respectivos presupuestos de egresos.
+El personal de cada uno de los poderes, Ayuntamientos y Organismos Descentralizados, será clasificado según los niveles o categorías asignados en sus respectivos Presupuesto de Egresos.
 
 ###### ARTICULO 61.
 
@@ -537,9 +631,13 @@ En los concursos se procederá por las comisiones a verificar las pruebas a que 
 
 La vacante se otorgará al trabajador que habiendo sido aprobado de acuerdo con el reglamento respectivo obtenga la mejor calificación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 69.
 
-Las plazas de última categoría disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, serán cubiertas libremente por el titular.
+Las plazas de últimas categorías disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, o previo estudio realizado por la Titular de la Dependencia, tomando en cuenta la opinión del Sindicato, que justifique su ocupación, serán cubiertas en un 50% libremente por los titulares y el restante 50% por los Candidatos que proponga el sindicato.
+
+Los Aspirantes para ocupar las plazas vacantes, deberán reunir los requisitos que para esos puestos señale cada una de las Dependencias.
 
 ###### ARTICULO 70.
 
@@ -553,9 +651,11 @@ Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escal
 
 Las vacantes temporales mayores de seis meses, serán las que se originen por licencias sin sueldo, otorgada a un trabajador de base para desempeñar puestos de confianza, comisiones sindicales o cargos de elección popular.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 73.
 
-El procedimiento para resolver las permutas de empleos, así como las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, será previsto en los reglamentos.
+Los jefes de las Dependencias, de acuerdo con los Representantes Sindicales respectivos, podrán proponer, con el objetivo de cubrir vacantes sujetas a escalafón, movimientos de carácter provisional de acuerdo con lo que señalen las condiciones generales del trabajo.
 
 ### CAPITULO XII. CONDICIONES GENERALES DE TRABAJO
 
@@ -615,17 +715,21 @@ II.- Cuando dejen de tener los requisitos que esta Ley establece; y
 
 III.- Cuando apareciere otra agrupación sindical que reuniendo los requisitos previstos por la Ley, demuestre ante el Tribunal, contar con la mayoría de los trabajadores de base. La solicitud de cancelación podrá realizarla cualquier persona interesada y el Tribunal, en los casos de conflicto entre dos organizaciones que expresen ser mayoritarias ordenará desde luego el recuentro correspondiente y resolverá de plano el asunto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 83.
 
-Los trabajadores que por su mala conducta o falta de solidaridad, fueren expulsados de algún sindicato, perderán por ese solo hecho, todos los derechos sindicales que esta Ley les concede. La expulsión sólo podrá dictarse por acuerdo de las dos terceras partes de los miembros del sindicato o de la sección, en asamblea especial cuya convocatoria se haya comprendido en la orden del día la expulsión y previa defensa del acusado.
+Los trabajadores que por su mala conducta o falta de solidaridad, fueron expulsados de algún sindicato, perderán por ese solo hecho, todos los derechos sindicales que esta Ley les concede. El procedimiento para la expulsión de alguno o algunos de los miembros de un Sindicato se establecerá de conformidad con lo que señalen los estatutos del mismo.
 
 ###### ARTICULO 84.
 
 El período de la directiva de los sindicatos no excederá de tres años a partir de la fecha en que entren en funciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 85.
 
-Los miembros de la directiva de los sindicatos no podrán ser reelectos en el período inmediato en cualquiera de los cargos.
+Los Miembros de la Directiva de los Sindicatos no podrán ser electos para el mismo cargo en el Periódico (sic) inmediato. Queda prohibido todo acto de reelección dentro de los Sindicatos.
 
 ###### ARTICULO 86.
 
@@ -699,11 +803,13 @@ En caso de disolución de los sindicatos por cualquiera de las causas señaladas
 
 ARTICULO 85 (SIC).- Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y en general todos los gastos que origine el funcionamiento de estos serán a cargo de su presupuesto, cubierto en todo caso por sus miembros.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 96.
 
-Los sindicatos que señala esta Ley podrán agruparse y constituir la Federación de Sindicatos de Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo, Judicial, Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, la cual se regirá por sus propios estatutos, y en lo conducente, por las disposiciones relativas a los sindicatos; en ningún caso podrá decretarse la expulsión de un Sindicato del seno de la Federación.
+Los Sindicatos de los Trabajadores de los Poderes Ejecutivo, Legislativo y judicial y de los Organismos Descentralizados, podrán agruparse o constituir la Federación de Sindicatos de Trabajadores al servicio del Gobierno del Estado; los Sindicatos de los Trabajadores de los Ayuntamientos, a su vez, podrán agruparse y constituir la Federación de Sindicatos de Trabajadores de los Ayuntamientos del Estado de Quintana Roo. Ambos se regirán por sus propios estatutos y en lo conducente por las disposiciones relativas a los Sindicatos. En ningún caso podrá decretarse la expulsión de un Sindicato del Seno de las Federaciones.
 
-Todos los conflictos que surjan entre la Federación y los sindicatos y sólo entre estos, serán resueltos por el Tribunal de Conciliación y Arbitraje.
+Todos los conflictos que surjan entre las Federaciones y los Sindicatos, o entre los Sindicatos mismos, serán resueltos por el Tribunal Estatal de Conciliación y Arbitraje.
 
 ### CAPITULO XIII. DE LA HUELGA
 
@@ -853,7 +959,9 @@ IV.- Por laudo de la persona o Tribunal que a solicitud de las partes y con la c
 
 V.- Por sobrevenir el estado previsto por el Artículo 29 de la Constitución General de la República.
 
-### CAPITULO XVI. DEL TRIBUNAL DE CONCILIACION DE ARBITRAJE
+### CAPITULO XVI. DEL TRIBUNAL ESTATAL DE CONCILIACION DE ARBITRAJE, INTEGRACION Y FUNCIONAMIENTO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 122.
 
@@ -903,19 +1011,31 @@ Para los efectos de la prescripción los meses se regularan por el número de d�
 
 El primer día se contará completo aún cuando no lo sea, y cuando sea inhábil el último, no se tendrá por completo el término para la prescripción sino cumplido el primer día hábil siguiente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 126.
 
-El Tribunal de Conciliación y Arbitraje será colegiado y lo integrarán un representante de los Poderes, Ayuntamientos y Organismos Descentralizados, a proposición del Ejecutivo del Estado; un representante de los trabajadores electo por la Federación de Sindicatos de Trabajadores a que se refiere esta Ley; y un tercer árbitro, que nombrarán los dos representantes antes citados. Este último fungirá como presidente; se nombrará un secretario y un vocal entre los otros representantes.
+El Tribunal Estatal de Conciliación y arbitraje será colegiado, funcionará en Pleno de Salas; éstas se integran con dos representantes cada una, siendo el Presidente del Tribunal el tercer árbitro quien formará parte de cada una de las Salas y lo presidirá.
+
+La primera Sala estará integrada por un Representante designado por el Gobierno del Estado y un Representante designado por cada una de las Federaciones de Sindicatos de Trabajadores al Servicio del Estado de los Ayuntamiento, quienes en forma alterna integrarán Sala de acuerdo al asunto que les compete.
+
+La segunda Sala estará integrada por un Representante Designado por el Gobierno del Estado y un Representante Designado por el Sindicato Nacional de Trabajadores de la Educación.
+
+El Pleno se integrará con la totalidad de los miembros de las Salas y por el Presidente de éste que será designado por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 127.
 
-Las faltas temporales del Presidente del Tribunal serán cubiertas por el Secretario; las de éste por el vocal.
+El Presidente del Tribunal y de las Salas será sustituido en sus faltas temporales, y en las definitivos (sic) en tanto se expide nuevo nombramiento, por el Secretario General de Acuerdos del Tribunal; y las de los demás Representantes por la persona que señale quien haya hecho la designación original.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 128.
 
-El Presidente del Tribunal estará en el cargo todo el tiempo que así lo determinen los representantes de los Poderes, Ayuntamientos y Organismos Descentralizados y la Federación de Sindicatos a que se refiere esta Ley; estos últimos serán removidos libremente por quienes los designaron.
+El Presidente del Tribunal y de las Salas durará en su cargo seis años; los Representantes del Gobierno Estatal y de los Trabajadores al Servicio del Estado, de los Ayuntamientos y del Sistema Educativo Quintanarroense, podrán ser renovados libremente por quienes los designaron.
 
-Los integrantes del Tribunal serán cargos honoríficos y no percibirán emolumentos.
+Los cargos de los integrantes del Tribunal serán honoríficos y no percibirán emolumentos por su desempeño.
 
 ###### ARTICULO 129.
 
@@ -929,19 +1049,23 @@ III.- El Presidente deberá ser licenciado en Derecho.
 
 IV.- El representante de los trabajadores, deberán (sic) haber servido a las dependencias como empleado de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 130.
 
-El Tribunal de Conciliación y Arbitraje se ajustará a las siguientes bases:
+El Tribunal Estatal de Conciliación y Arbitraje se ajustará a las siguientes bases:
 
-I.- El Secretario General de Acuerdos, Actuarios y el personal que sea necesario, serán los mismos que ocupen esos cargos en la Junta Local de Conciliación y Arbitraje, cargos que también serán honoríficos.
+I.- El Secretario General de Acuerdos, Actuarios, y el personal que sea necesario actuarán a título honorífico y serán los mismos que ocupen esos cargos en la junta Local de Conciliación y Arbitraje.
 
-II.- Todas las audiencias y demás actos procesales que deban llevarse a cabo en el seno del Tribunal de Conciliación y Arbitraje, se llevarán a cabo en el local de instalaciones de la Junta de Conciliación y Arbitraje.
+II.- Todas las audiencias y demás actos procesales que deban llevarse a cabo en el Seno del Tribunal Estatal de Conciliación y Arbitraje, se llevarán a cabo en el local e instalaciones de la junta de Conciliación y Arbitraje.
 
-III.- Los actos procesales dentro y fuera del Tribunal, serán llevados a cabo por el personal a que se hace referencia en el Inciso I de este Artículo.
+III.- Los actos procesales dentro y fuera del Tribunal serán llevados a cabo por el personal a que se hace referencia en el inciso I de este Artículo.
 
-IV.- No es admisible la prueba confesional a cargo de los titulares de los Poderes, Ayuntamientos, u Organismos Descentralizados.
+IV.- Las autoridades que sean parte, absolverán posiciones por medio de oficio en que se insertarán las preguntas que quiera hacerles la contraparte para que, por vía de informe, sean contestadas dentro del término que señale el Tribunal.
 
-V.- Todas las partes deberán señalar domicilio para oir y recibir notificaciones en la ciudad de Chetumal.
+En el oficio, se percibirá a la parte absolvente de tenerla por confesa si no contestara dentro del término que se haya señalado, o si no lo hiciera categóricamente, afirmando o negando los hechos.
+
+V.- Todas las partes deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de Chetumal.
 
 ###### ARTICULO 131.
 
@@ -972,6 +1096,18 @@ En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere
 ###### ARTICULO 134.
 
 El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación que podrá hacerse en cualquiera de las dos formas señaladas; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y una vez desahogadas, se dictará laudo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 134
+
+BIS.- El procedimiento para resolver las controversias relativas a la terminación de los efectos del nombramiento de los trabajadores ante el Tribunal Estatal de Conciliación y Arbitraje, se desarrollará de la siguiente forma:
+
+I.- La Dependencia presentará por escrito su demanda, acompañada del acta administrativa y de los documentos a que se alude en el Artículo 53-Bis, solicitando en el mismo acto el desahogo de las demás pruebas que sea posible rendir durante la audiencia a que se refiere la siguiente fracción.
+
+II.- Dentro de los tres días siguientes a la presentación de la demanda, se correrá traslado de la misma al demandado, quien dispondrá de 9 días hábiles para contestar por escrito, acompañando las pruebas que obren en su poder, señalando lugar o lugares en donde se encuentren los documentos que no posea, para el efecto de que el Tribunal lo solicite, y proponiendo la práctica de prueba durante la audiencia a la que se refiere la fracción siguiente.
+
+III.- Fijados los términos de la controversia y reunidas las pruebas que se hubiesen presentado con la demanda y la contestación, el Tribunal citará a una audiencia que se celebrará dentro de los 15 días siguientes de recibida la contestación, en la que se desahogarán pruebas, se escucharán los alegatos de las partes y se dictarán los puntos resolutivos del Laudo, que se engrosará dentro de los 5 días siguientes a la fecha de la celebración de la audiencia, salvo cuando a juicio del Tribunal se requiera la práctica de otras diligencias para mejor proveer, en cuyo caso se ordenará que se lleven a cabo y una vez desahogadas se dictará el Laudo dentro de los 15 días siguientes.
 
 ###### ARTICULO 135.
 
@@ -1051,9 +1187,13 @@ Los incidentes que se susciten con motivo de la personalidad de las partes o de 
 
 La demanda, la citación para absolver posiciones, la declaratoria de caducidad, el laudo y los acuerdos con apercibimiento, se notificarán personalmente a las partes. Las demás notificaciones se harán por estrados. Todos los términos correrán a partir del día hábil siguiente a aquel en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 150.
 
-El Tribunal sancionará las faltas de respecto que se le comentan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de cincuenta pesos tratándose de trabajadores ni de quinientos tratándose de titulares de las dependencias a que se refiere esta Ley.
+El Tribunal sansionará (sic) las faltas de respeto que se cometan, ya sea por escrito o en cualquier otra forma: las sanciones consistirán en amonestación o multa. Esta multa comprenderá de 5 a 50 salarios mínimos tratándose de trabajadores, y de 50 a 500 salarios mínimos tratándose de los titulares de las Dependencias a que se refiere esta Ley.
+
+El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta por 500 salarios mínimos.
 
 ###### ARTICULO 151.
 
@@ -1105,9 +1245,11 @@ Las multas se harán efectivas por la Secretaría de Finanzas del Gobierno del E
 
 El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos. Al efecto dictará todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 158.
 
-Cuando se pida la ejecución de un laudo, el Tribunal dictará auto de ejecución y comisionará a un actuario para que, asociado de la parte que lo obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla el laudo, apercibiéndola que de no hacerlo, se procederá conforme al Capítulo anterior.
+Cuando se pida la ejecución de un Laudo, el Tribunal dictará auto de ejecución y comisionará a un actuario para que, acompañado de la parte demandante, se constituya en el domicilio de la parte demandada y la requiera para que cumpla el Laudo, apercibiéndola de que de no hacerlo, se procederá conforme a los Artículos 155 y 156 de esta Ley.
 
 ###### ARTICULO 159.
 
@@ -1117,15 +1259,19 @@ I.- A las partes, a los trabajadores, a los funcionarios y a los particulares qu
 
 II.- A los empleados del propio Tribunal, por las faltas que cometan en el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 160.
 
 Las correcciones a que alude el Artículo anterior serán:
 
-I.- Amonestación;
+I.- Amonestación.
 
-II.- Multa que no podrá exceder de mil pesos;
+II.- Multa que no podrá exceder de quinientas veces el salario mínimo.
 
 III.- Suspensión del empleado con privación de sueldo hasta por siete días.
+
+Las multas se turnarán a la secretaría de finanzas para el procedimiento económico-coactivo correspondiente, debiendo esta Dependencia, turnar copia al Tribunal de la imposición del crédito fiscal respectivo.
 
 ###### ARTICULO 161.
 
@@ -1244,3 +1390,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Tratándose del Sistema Educativo Quintanarroense la titularidad de la relación laboral, será del Sindicato Nacional de Trabajadores de la Educación.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los trabajadores de base de los Organismos Descentralizados que no constituyan un Sindicato por no reunir los requisitos del Artículo 78 de esta Ley, serán Representados por el Sindicato Unico de Trabajadores al Servicio del Gobierno del Estado.
+
+###### ARTICULO CUARTO.
+
+La actual estructura del Sindicato Unico de Trabajadores al servicio del Gobierno del Estado, "SUTAGE" será la que integre la Federación de Sindicatos al Servicio de los Poderes Ejecutivo, Legislativo y Judicial y Organismos Descentralizados del Gobierno del Estado; y su Directiva estarán en sus cargos hasta el término del período para el que fueron electos.
+
+###### ARTICULO QUINTO.
+
+La actual Representación de la Mesa Directiva de la Federación de Sindicatos al Servicio del Gobierno del Estado, de los ayuntamientos y los Organismos descentralizados del Estado de Quintana Roo, será reconocida como la Representación de la Federación de Sindicatos de Trabajadores al Servicio de los Ayuntamientos, hasta que dicha Representación sea renovada conforme a lo establecido en la presente Ley.
+
+###### ARTICULO SEXTO.
+
+Los trabajadores con nombramiento de base que conforme a este Decreto, desempeñen puestos de confianza, conservarán sus derechos del nombramiento de base, durante el tiempo que permanezca en sus puestos.
+
+###### ARTICULO SEPTIMO.
+
+En tanto siga vigente el convenio celebrado entre el Gobierno del Estado de Quintana Roo y el Sindicato Nacional de Trabajadores de la Educación, con la intervención de la Federación (sic) través de la Secretaría de educación Pública, celebrado el 18 de mayo de 1992, las relaciones laborales y la organización colectiva de los trabajadores del Sistema Educativo Quintanarroense, se regirán por lo establecido en dicho convenio, en el Decreto de creación del Sistema Educativo Quintanarroense publicado en el Periódico Oficial del Gobierno del Estado del 19 de mayo de 1992 y en la presente ley en lo conducente y que no se oponga a los anteriores instrumentos legales.
