@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1997-01-04"
+last_updated: "1997-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -123,13 +123,15 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refie
 
 Para los efectos de esta ley, el territorio del Estado queda dividido en los siguientes distritos judiciales:
 
-I.- Primer distrito, cuya cabecera será la ciudad de Campeche, que comprende los Municipios de Campeche, Champotón y Hopelchén, exceptuándose de estos dos últimos las poblaciones que se jurisdiccionan al tercer distrito;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1997)</small>
+
+I.- Primer distrito, cuya cabecera será la ciudad de Campeche, que comprende todas las poblaciones ubicadas dentro de los Municipios de Campeche, Champotón y Hopelchén;
 
 II.- Segundo distrito, cuya cabecera será Ciudad del Carmen, que comprende las poblaciones de: Independencia, Nicolás Bravo, José María Pino Suárez, Chibojá, Cristalina, Chicbul, A. Rodríguez, Francisco J. Mújica, Calax, Checubul, Abelardo Rodríguez, Calixto, La Esperanza, Sabancuy, Isla Aguada, Emiliano Zapata, Zacatal, Puerto Rico, Atasta, La Costa, Nuevo Progreso, San Antonio Cárdenas, Campechito, San Pedro, Rivera Baja, Rivera Media y Rivera Alta, así como las que se ubican dentro de la Isla del Carmen;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1997)</small>
 
-III.- Tercer distrito, cuya cabecera será la ciudad de Escárcoga (sic), que comprende las poblaciones de Santa Lucía, López Mateos, Justicia Social, Cantemd, Centenario, Silvituc, Nuevo Zináparo, San Miguel Allende, Chan Laguna, Chacté, Xbonil, Constitución, Conhuás, Tonchacacal, Xochén, San Antonio, Desempeño, Cedros, La Libertad, Yaxché, Concepción, La Esperanza, Chumpich, San Felipe, La Tronera, Ruinas Altas, Villahermosa, Ecuculché, Sayab, Porvenir y Becán, todas ellas de los municipios de Champotón, Carmen y Hopelchén; también las poblaciones de Flores Magón, Nueva Becal, Zoh-Laguna, Xpujil, Altamira, 20 de Noviembre, San Antonio Soda, Tomás Aznar, Chunhuás, Chihanchá, Icaiché, Ejido Díaz Ordaz, Chucalás y Nueva Ciudad, todas ellas de los municipios de Hopelchén y Champotón; así como las poblaciones de los municipios de Escárcega y Carmen que no quedaron comprendidas en en (sic) el segundo distrito.
+III.- Tercer distrito, cuya cabecera será la ciudad de Escárcega, que comprende todas las poblaciones ubicadas dentro de los Municipios de Calakmul y Escárcega, así como las del Municipio de Carmen no jurisdiccionadas al segundo distrito;
 
 IV.- Cuarto distrito, cuya cabecera será la ciudad de Hecelchakán, que comprende los municipios de Calkiní, Hecelchakán y Tenabo;
 
@@ -163,7 +165,7 @@ II.- El juzgado menor del Carmen, con sede en la ciudad del mismo nombre, solo t
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-III.- El juzgado menor de Escárcega, con sede en la ciudad del mismo nombre, tendrá jurisdicción sobre todas las poblaciones del propio municipio de Escárcega, así como sobre las poblaciones de los municipios de Carmen, Hopelchén y Champotón, incorporadas al tercer distrito judicial;
+III.- El juzgado menor de Escárcega, con sede en la ciudad del mismo nombre, tendrá jurisdicción sobre todas las poblaciones del propio municipio de Escárcega, así como sobre las poblaciones de los municipios de Carmen, Hopelchén y Champotón, incorporadas al tercer distrito judicial.
 
 > <small>(REFORMADA P.O. 4 DE OCTUBRE DE 1986)</small>
 
@@ -1996,3 +1998,9 @@ PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL MISMO DIA DE SU PUBLICACION EN
 SEGUNDO.- SE DEROGAN CUALESQUIERA DISPOSICIONES LEGALES, REGLAMENTARIAS O ADMINISTRATIVAS EN LO QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO, ESPECIFICAMENTE EL TITULO SEPTIMO Y EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 42 DE FECHA 8 DE DICIEMBRE DE 1992, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL DIA 10 DE ESE MISMO MES Y AÑO, POR EL CUAL LA LIV LEGISLATURA LOCAL EXPIDIO EL CODIGO FISCAL DEL ESTADO. ASIMISMO, TODAS LAS MENCIONES QUE EN DICHO CODIGO FISCAL SE HACEN CON RELACION AL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO, EN LO SUCESIVO SE ENTENDERAN COMO HECHAS A LA SALA ADMINISTRATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
 
 DECIMO PRIMERO.- TAN PRONTO QUEDE INSTALADA LA SALA ADMINISTRATIVA, TODOS LOS JUICIOS Y LOS RECURSOS DE RECLAMACION QUE, CON ARREGLO AL INVOCADO ARTICULO TERCERO TRANSITORIO QUE SE DEROGA, SE ENCUENTRE EN TRAMITE RESPECTIVAMENTE ANTE LOS JUZGADOS DE PRIMERA INSTANCIA DEL RAMO CIVIL O EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO SE TURNARAN EN EL ESTADO EN QUE SE ENCUENTREN A DICHA SALA ADMINISTRATIVA, PARA QUE, EN SU OPORTUNIDAD, SE AVOQUE AL CONOCIMIENTO DE LOS MISMOS.
+
+P.O. 15 DE ENERO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas la disposiciones legales y reglamentarias en lo que se opongan al contenido de este Decreto.
