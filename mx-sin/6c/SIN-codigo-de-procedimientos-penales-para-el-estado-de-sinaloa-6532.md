@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "1998-10-21"
+last_updated: "1999-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -61,11 +61,13 @@ Es facultad exclusiva del Ministerio Público, la persecución de los delitos y 
 
 El Ministerio Público, en el ejercicio de su actividad persecutoria y de preparación para el ejercicio de la acción penal, deberá:
 
-I.- Recibir denuncias, acusaciones o querellas, solamente las denuncias y acusaciones podrán también formularse ante la Policía Judicial, que en todo caso estará a las órdenes del Ministerio Público;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1994)</small>
+I.- Recibir denuncias o querellas; las denuncias podrán también formularse ante la Policía Judicial, que en todo caso estará a las órdenes del Ministerio Público;
 
-II.- Practicar y ordenar la realización de todos los actos conducentes a la comprobación de los elementos del tipo penal y a la demostración de la probable responsabilidad del inculpado, así como a la reparación del daño;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+II.- Practicar y ordenar la realización de todas las diligencias necesarias para esclarecer la totalidad del hecho, y en su caso, acreditar el cuerpo del delito y la probable responsabilidad, así como a la reparación del daño;
 
 III.- Solicitar las órdenes de comparecencia para preparatoria y las de aprehensión, que sean procedentes;
 
@@ -73,7 +75,9 @@ IV.- Pedir el aseguramiento precautorio de bienes para los efectos de la reparac
 
 V.- Proceder, sin esperar orden judicial, a la detención de los responsables en flagrante delito o en caso de notoria urgencia cuando no haya en el lugar autoridad judicial, observándose lo previsto en los Artículos 117, 118 y 119.
 
-Asimismo, después de ejecutado un delito, hará que tanto el ofendido, en su caso, como el presunto responsable, sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen con carácter provisional, acerca de su estado psicofisiológico.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+Asimismo, después de ejecutado un delito, hará que tanto el ofendido, en su caso, como el probable responsable, sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen con carácter provisional, acerca de su estado psicofisiológico.
 
 ###### ARTICULO 4.
 
@@ -85,9 +89,11 @@ I.- Cuando los hechos de que conozca no sean constitutivos de delito; y
 
 II.- Cuando opere alguna de las causas excluyentes del delito a que se refiere el Capítulo VI del Título Segundo, Libro Primero del Código Penal.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 5.
 
-A los Tribunales Penales corresponde la aplicación de sanciones y medidas de seguridad, cuando en sus sentencias declaren la existencia del delito y la culpabilidad del procesado; o en su caso la necesidad de aplicar las segundas.
+A los Tribunales Penales corresponde la aplicación de las penas cuando en sus sentencias declaren la existencia del delito y la responsabilidad del procesado; y las medidas de seguridad cuando el sujeto haya cometido un hecho previsto como delito, y de éste y de sus circunstancias personales, pueda deducirse la necesidad de aplicarlas.
 
 ###### ARTICULO 6.
 
@@ -97,13 +103,15 @@ El procedimiento ante el Juez de Primera Instancia, comprenderá los períodos s
 
 En el procedimiento ante el Juez de Primera Instancia, el Ministerio Público promoverá:
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-I.- La práctica de cuantas diligencias sean necesarias, para acreditar los elementos que integran el tipo penal y la probable responsabilidad del inculpado.
+I.- La práctica de cuantas diligencias sean necesarias para comprobar la existencia del delito y la responsabilidad del indiciado.
 
 II.- La libertad del inculpado en los términos establecidos en la ley;
 
-III.- La plicación (sic) tanto de las sanciones, como de las medidas de seguridad;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+III.- La aplicación tanto de las penas como de las medidas de seguridad;
 
 IV.- La reparación del daño en los términos previstos en la Ley;
 
@@ -137,9 +145,9 @@ V.- Los demás que señalen las leyes.
 
 La asistencia jurídica será proveída por el Estado, por conducto de la Procuraduría de Justicia, en forma oportuna, competente y gratuita, a partir del inicio de la averiguación previa y hasta que cause ejecutoria la sentencia que afecte sus intereses.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
-En cuanto a la fracción II, la víctima o el ofendido, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba con que cuente, que conduzcan a acreditar los elementos del tipo penal y a establecer la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
+En cuanto a la fracción II, la víctima o el ofendido, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba que conduzcan a acreditar el cuerpo del delito, a comprobar la existencia del delito, y a establecer la probable o plena responsabilidad del indiciado, según el caso, y la procedencia y monto de la reparación del daño.
 
 En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por el delito para que comparezca por sí o por su representante designado en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
 
@@ -305,11 +313,11 @@ Las personas que acepten el cargo de peritos y que emitan un dictamen sobre punt
 
 Cuando cambiare el personal de un Tribunal, no se proveerá decreto alguno haciéndolo saber; insertándose sólo el nombre completo del nuevo servidor público en el primer proveído que se dicte. Cuando no tenga que dictarse resolución alguna antes de la sentencia, sí se hará saber el cambio del personal.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 36.
 
-Todo Tribunal cuando estén comprobados los elementos que integran el tipo penal, dictará oportunamente las providencias necesarias para restituir al ofendido en sus derechos que estén plenamente justificados.
+Todo Tribunal, cuando esté acreditado el cuerpo del delito, dictará oportunamente las providencias necesarias para restituir al ofendido en sus derechos que estén plenamente justificados.
 
 ###### ARTICULO 37.
 
@@ -1039,9 +1047,9 @@ El Ministerio Público y la Policía Judicial, asentarán en el acta que levante
 
 Se asentarán en el acta a que se refiere el artículo anterior, todas las observaciones que acerca del presunto responsable y la víctima hubieran recibido, ya sea en el momento de cometer el delito, de su detención o bien durante la práctica de las diligencias en que hubiera intervenido, incluyendo el grupo étnico indígena al que pertenece en su caso.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 9 DE JULIO DE 1999)</small>
 
-### CAPITULO II. COMPROBACION DE LOS ELEMENTOS DEL TIPO PENAL Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO
+### CAPITULO II. ACREDITACION DEL CUERPO DEL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INDICIADO
 
 ###### ARTICULO 140.
 
@@ -1055,9 +1063,11 @@ Cuando se encuentren personas o cosas relacionadas con el delito, se describirá
 
 Cuando el estado y circunstancias a que se refiere el Artículo anterior, no pudieran apreciarse debidamente sino por peritos, además de las descripciones posibles, se designarán desde luego éstos, agregando al acta el dictamen o dictámenes que rindan.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 143.
 
-Si para la comprobación de la existencia del delito, de sus elementos o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará se verifique haciendo constar en el acta la descripción del mismo y de todos los detalles que puedan tener significación para la apreciación de los hechos. Asimismo se agregarán las fotografías correspondientes.
+Si para la acreditación de la existencia del delito, de su corporeidad o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará se verifique haciendo constar en el acta la descripción del mismo y de todos los detalles que puedan tener significación para la apreciación de los hechos. Asimismo, se agregarán las fotografías correspondientes.
 
 ###### ARTICULO 144.
 
@@ -1201,29 +1211,23 @@ Se reconocen como excepciones para el cumplimiento de la obligación a que se re
 
 En todos aquellos delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán asociadas las pruebas de inspección y de peritos, sin perjuicio de las demás.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 170.
 
-El Ministerio Público acreditará los elementos del tipo penal del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción; y la autoridad judicial a su vez, examinará si ambos requisitos están acreditados en autos. Dichos elementos son:
+El Ministerio Público acreditará el cuerpo del delito y la probable responsabilidad del indiciado, como base del ejercicio de la acción; y la autoridad judicial a su vez, examinará si ambos requisitos están acreditados en autos.
 
-I.- La existencia de la correspondiente acción u omisión y de la lesión, o en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
+Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
 
-II.- La forma de intervención de los sujetos activos; y
+La probable responsabilidad del indiciado se tendrá por acreditada cuando, de los medios probatorios existentes, se deduzca su participación en el delito, la comisión dolosa o culposa del mismo y no exista acreditada a favor del indiciado alguna causa de licitud o alguna excluyente de culpabilidad.
 
-III.- La realización dolosa o culposa de la acción u omisión.
+El cuerpo del delito deberá acreditarse plenamente. Para la acreditación de la probable responsabilidad bastará prueba indiciaria.
 
-Asimismo, se acreditarán, si el tipo lo requiere:
-
-a) las calidades del sujeto activo y del pasivo; b) el resultado y su atribuibilidad a la acción u omisión; c) el objeto material; d) los medios utilizados; e) las circunstancias del lugar, tiempo, modo y ocasión; f) los elementos normativos; g) los elementos subjetivos específicos y h) las demás circunstancias que la ley prevea.
-
-Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquél alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 171.
 
-Para la comprobación de los elementos del tipo y la probable o plena responsabilidad del inculpado, en su caso, el Ministerio Público y el Juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sea de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
+Para la acreditación del cuerpo del delito y la probable responsabilidad y para la comprobación de la existencia del delito y la plena responsabilidad del indiciado, en su caso, el Ministerio Público y el Juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
 
 ### CAPITULO III. CURACION DE HERIDOS Y ENFERMOS
 
@@ -1269,17 +1273,23 @@ Siempre que un lesionado internado en un hospital público salga de él, los mé
 
 ### CAPITULO IV. CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 180.
 
-En cuanto aparezca de la averiguación previa que se han acreditado los elementos del tipo penal del delito y la probable responsabilidad del indiciado, en los términos del artículo 170 de este Código, el Ministerio Público ejercitará la acción penal ante los Tribunales, los que para el libramiento de orden de aprehensión, se ajustarán a lo previsto en el párrafo segundo del artículo 16 Constitucional y en el 183 del presente Código.
+En cuanto de la averiguación previa existan datos que acrediten el cuerpo del delito y la probable responsabilidad del indiciado, en los términos del artículo 170 de este Código, el Ministerio Público ejercitará la acción penal ante los Tribunales, los que para el libramiento de la orden de aprehensión, se ajustarán a lo previsto en el párrafo segundo del artículo 16 Constitucional y en el 183 del presente Código.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 Si el ejercicio de la acción penal es con detenido, el Tribunal que reciba la consignación radicará de inmediato el asunto, y se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo interne en el reclusorio o centro de salud correspondiente. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquella al encargado del reclusorio o del centro de salud, quien asentará el día y la hora de la recepción.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+
 En caso de que la detención de una persona exceda los plazos señalados en el artículo 16 de la Constitución Política citada, se presumirá que estuvo incomunicada, y las declaraciones, que haya emitido el indiciado no tendrán validez.
 
-En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del tipo penal, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del cuerpo del delito y la probable responsabilidad, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
 ###### ARTICULO 181.
 
@@ -1369,9 +1379,11 @@ La orden de aprehensión que el Juez dicte, se transcribirá al Ministerio Públ
 
 Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, quien la hubiere ejecutado deberá poner al aprehendido, sin demora alguna, a disposición del Tribunal respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó, y dando a conocer al aprehendido el derecho que tiene para designar defensor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 186.
 
-Cuando no existan elementos bastantes, conforme al Artículo 16 Constitucional, para ordenar la aprehensión del inculpado, el Juez, una vez decretada la negativa, sólo podrá volver a actuar en la causa, a virtud de nueva solicitud de orden de aprehensión, por parte del Ministerio Público, apoyada en pruebas diversas a las anteriormente consideradas por la autoridad judicial.
+Cuando no existan los datos requeridos conforme el artículo 16 constitucional, para ordenar la aprehensión del indiciado, el Juez, una vez decretada la negativa, sólo podrá volver a actuar en la causa, a virtud de nueva solicitud de orden de aprehensión, por parte del Ministerio Público, apoyada en pruebas diversas a las anteriormente consideradas por la autoridad judicial.
 
 En estos casos operará lo previsto en la parte final del Artículo 203.
 
@@ -1451,21 +1463,39 @@ I.- Se dictará dentro del plazo de setenta y dos horas, a partir de que el indi
 
 II.- Que se le haya tomado la declaración preparatoria al inculpado en los términos de ley, o bien, conste en el expediente que se negó a emitirla;
 
-III.- Que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito por el cual deba seguirse el proceso;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-IV.- Que el delito sea sancionado con pena privativa de libertad;
+III.- Que de lo actuado existan datos bastantes que acrediten el cuerpo del delito por el cual deba seguirse el proceso;
 
-V.- Que no esté acreditada alguna causa de licitud;
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1999)</small>
 
-VI.- Que de lo actuado aparezcan datos suficientes que hagan probable la responsabilidad del indiciado; y
+IV.- Que se exprese el delito que se impute al indiciado; el lugar, tiempo y circunstancias de ejecución;
 
-VII.- Los nombres y firmas del juez que dicte la resolución y del secretario que la autorice.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-El plazo a que se refiere la fracción I de este artículo, se duplicará cuando lo solicite el inculpado por sí, o por su defensor, al rendir su declaración preparatoria, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica.
+V.- Que el delito sea sancionado con pena privativa de libertad;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VI.- Que no esté acreditada alguna causa de licitud;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VII.- Que de lo actuado existan datos bastantes que hagan probable la responsabilidad del indiciado; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VIII.- Los nombres y firmas del Juez que dicte la resolución y del secretario que lo autorice.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+El plazo a que se refiere la fracción I de este artículo, se duplicará cuando lo solicite el indiciado, por sí, o por su defensor, al rendir su declaración preparatoria, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica.
 
 El Ministerio Público no podrá solicitar dicha ampliación ni el juez resolverla de oficio; el Ministerio Público en ese plazo podrá hacer las promociones correspondientes al interés social que representa sólo en relación con las pruebas o alegatos que propusiere el inculpado o su defensor.
 
-La ampliación del plazo se deberá notificar al director del reclusorio preventivo en donde, en su caso, se encuentre internado el inculpado, para los efectos a que se refiere la última parte del primer párrafo del artículo 19 constitucional.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+La ampliación del plazo se deberá notificar a la autoridad responsable del establecimiento en el que se encuentre internado el indiciado, para los efectos a que se refiere la última parte del segundo párrafo del artículo 19 constitucional.
 
 ###### ARTICULO 199.
 
@@ -1477,9 +1507,11 @@ Si se dictase sentencia absolutoria, una vez que cause ejecutoria se ordenará l
 
 El auto de formal prisión se notificará inmediatamente que se dicte, al procesado si estuviere detenido, remitiéndole al Director o Alcaide del establecimiento de su detención, copia autorizada de la resolución, expidiéndola al interesado si la solicitare.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 201.
 
-Cuando el delito cuya existencia se haya comprobado, no merezca pena privativa de libertad, o esté sancionado con pena alternativa, no se restringirá la libertad y se dictará auto con todos los requisitos del de formal prisión; sujetando únicamente a proceso a las personas contra quienes aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de seguir.
+Cuando de lo actuado existan datos bastantes que acrediten el cuerpo del delito por el cual deba seguirse el proceso y hagan probable la responsabilidad del indiciado y el delito no merezca pena privativa de libertad, o esté sancionado con pena alternativa, no se restringirá la libertad y se dictará auto con todos los requisitos del de formal prisión, sujetando únicamente a proceso al indiciado, para el solo efecto de señalar el delito por el cual se ha de seguir el procedimiento.
 
 ###### ARTICULO 202.
 
@@ -1489,11 +1521,11 @@ El auto de formal prisión y el de sujeción a proceso, producen los efectos jur
 
 ARTICULO 202 BIS.- Durante la instrucción, el Tribunal que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y su conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 203.
 
-El auto de libertad o de no sujeción a proceso, se fundará en la no acreditación de los elementos del tipo penal o de la probable responsabilidad del inculpado; contendrá los requisitos señalados en las fracciones I, II y VII del artículo 198 y no impedirá que posteriormente con otros datos se proceda en su contra, siempre que el Ministerio Público los aporte y solicite nuevamente la orden de aprehensión.
+El auto de libertad o de no sujeción a proceso, se fundará en la no acreditación del cuerpo del delito o de la probable responsabilidad del indiciado; contendrá los requisitos señalados en las fracciones I, II y VIII del artículo 198 y no impedirá que posteriormente con otros datos se proceda en su contra, siempre que el Ministerio Público los aporte y solicite nuevamente la orden de aprehensión.
 
 ###### ARTICULO 204.
 
@@ -2427,9 +2459,9 @@ El sobreseimiento procederá en los casos siguientes:
 
 I.- Cuando por cualquier causa de las previstas en las fracciones II, III, IV, VII y VIII del artículo 106 del Código Penal, se extinga la pretensión punitiva;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-II.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad penal;
+II.- Cuando esté plenamente comprobado que a favor del indiciado existe alguna causa excluyente del delito;
 
 III.- Cuando el Procurador General de Justicia, formule o confirme conclusiones de no acusación;
 
@@ -3101,11 +3133,13 @@ En cualquier estado del proceso antes de que se declare cerrada la instrucción,
 
 En consecuencia, la libertad por desvanecimiento de datos, procede en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-I.- Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión a parezcan plenamente desvanecidos los datos que sirvieron para comprobar los elementos del tipo del delito;
+I.- Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión, a parezcan plenamente desvanecidos los datos que sirvieron para acreditar el cuerpo del delito; y
 
-II.- Cuando sin que aparezcan datos posteriores de responsabilidad, se hayan desvanecido, por prueba indubitable, los señalados en el auto de formal prisión para tener al detenido como presunto responsable.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+II.- Cuando sin que aparezcan datos posteriores de responsabilidad, se hayan desvanecido, por prueba indubitable, los señalados en el auto de formal prisión para tener al indiciado como probable responsable.
 
 ###### ARTICULO 479.
 
@@ -3680,3 +3714,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE OCTUBRE DE 1998.
 
 ÚNICO.- El presente decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial El Estado de Sinaloa.
+
+P.O. 9 DE JULIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
