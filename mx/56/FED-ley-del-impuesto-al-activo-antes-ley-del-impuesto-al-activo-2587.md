@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1996-05-10"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -49,11 +49,11 @@ Se establece un impuesto al activo de las empresas, de conformidad con las sigui
 
 LEY DEL IMPUESTO AL ACTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 1o.
 
-Las personas físicas que realicen actividades empresariales y las personas morales, residentes en México, están obligadas al pago del impuesto al activo, por el activo que tengan, cualquiera que sea su ubicación. Las residentes en el extranjero que tengan un establecimiento permanente en el país, están obligadas al pago del impuesto por el activo atribuible a dicho establecimiento. Las personas distintas a las señaladas en este párrafo, que otorguen el uso o goce temporal de bienes inmuebles que se utilicen en la actividad de otro contribuyente de los mencionados en este párrafo, están obligadas al pago del impuesto por su activo fijo y terrenos por los que obtengan ingresos a los que se refiere el Capítulo III del Título IV y los artículos 133, fracción XIII y 148-A de la Ley del Impuesto sobre la Renta.
+Las personas físicas que realicen actividades empresariales y las personas morales, residentes en México, están obligadas al pago del impuesto al activo, por el activo que tengan, cualquiera que sea su ubicación. Las residentes en el extranjero que tengan un establecimiento permanente en el país, están obligadas al pago del impuesto por el activo atribuible a dicho establecimiento. Las personas distintas a las señaladas en este párrafo, que otorguen el uso o goce temporal de bienes, incluso de aquellos bienes a que se refieren el Capítulo III del Título IV y los artículos 133, fracción XIII, 148, 148-A y 149 de la Ley del Impuesto sobre la Renta, que se utilicen en la actividad de otro contribuyente de los mencionados en este párrafo, están obligadas al pago del impuesto, únicamente por esos bienes.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -249,9 +249,9 @@ VI.- Quienes utilicen bienes destinados sólo a actividades deportivas, cuando d
 
 Las personas a que se refiere la fracción I de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, los dos siguientes y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades.
+No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, los dos siguientes y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades, ni tampoco tratándose de las sociedades que en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, tengan el carácter de controladoras, ni de las sociedades controladas que se incorporen a la consolidación, excepto por la proporción en la que la sociedad controladora no participe directa o indirectamente en el capital social de dichas controladas, o por los bienes nuevos o bienes que se utilicen por primera vez en México, adquiridos por las sociedades controladas que se incorporen a la consolidación.
 
 Los contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de los bienes a que se refieren las fracciones II y III del artículo 2o. de esta Ley, pagarán el impuesto incluso por los ejercicios de inicio de actividades y el siguiente. Estos contribuyentes no podrán ejercer la opción a que se refiere el artículo 5o-A durante los ejercicios mencionados.
 
@@ -273,7 +273,7 @@ Las personas morales y las personas físicas enterarán el impuesto a más tarda
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-El pago provisional mensual se determinará dividiendo entre doce el impuesto actualizado que correspondió al ejercicio inmediato anterior, multiplicando el resultado por el número de meses comprendidos desde el inicio del ejercicio hasta el mes al que se refiere el pago, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del ejercicio por el que se paga el impuesto, efectuados con anterioridad
+El pago provisional mensual se determinará dividiendo entre doce el impuesto actualizado que correspondió al ejercicio inmediato anterior, multiplicando el resultado por el número de meses comprendidos desde el inicio del ejercicio hasta el mes al que se refiere el pago, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del ejercicio por el que se paga el impuesto, efectuados con anterioridad.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -297,13 +297,21 @@ Los contribuyentes menores pagarán este impuesto como parte de la determinació
 
 El contribuyente podrá disminuir el monto de los pagos provisionales, cumpliendo los requisitos que señale el Reglamento de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Cuando a través de un fideicomiso o de una asociación en participación se realicen actividades empresariales, el fiduciario o el asociante efectuará por cuenta de los fideicomisarios o por cuenta propia y de los asociados, según sea el caso, los pagos provisionales a que se refiere este artículo, por el activo correspondiente a las actividades realizadas por el fideicomiso o asociación, considerando para tales efectos el activo que correspondió a dichas actividades en el último ejercicio del fiduciario o asociante.
+> <small>(DEROGADO DECIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Las personas físicas que realicen actividades agrícolas o ganaderas, estarán relevadas de efectuar pagos provisionales en los términos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 7o.
+
+BIS.- Cuando a través de un fideicomiso o de una asociación en participación se realicen actividades empresariales, la fiduciaria y el asociante, cumplirán por cuenta del conjunto de fideicomisarios o en su caso, del fideicomitente, cuando no hubieran sido designados los primeros, o por cuenta propia y de los asociados, según corresponda, con la obligación de efectuar los pagos provisionales a que se refiere el artículo 7o. de la misma, por el activo correspondiente a las actividades realizadas por el fideicomiso o asociación, considerando para tales efectos el activo que correspondió a dichas actividades en el último ejercicio de la fiduciaria o asociante.
+
+Tratándose de los contratos de asociación en participación y de fideicomiso, los fideicomisarios, o en su caso, el fideicomitente cuando no hubieran sido designados los primeros, el asociante y cada uno de los asociados según se trate, para determinar el valor de su activo en el ejercicio, adicionarán el valor del activo en el ejercicio correspondiente a las actividades realizadas por el fideicomiso o la asociación en participación y podrán acreditar el monto de los pagos provisionales de este impuesto efectuados por la fiduciaria o el asociante, según corresponda a los fideicomisarios, o en su caso, al fideicomitente cuando no hubieran sido designados los primeros, o a los asociados.
+
+Las fiduciarias aplicarán lo dispuesto en el artículo 6o. penúltimo párrafo de esta Ley, siempre que los fideicomisarios, o en su caso, el fideicomitente, cuando no hubieran sido designados los primeros, se encuentren en alguno de los supuestos establecidos en el párrafo citado.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -471,7 +479,7 @@ II.- La sociedad controladora efectuará pagos provisionales consolidados en los
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-III.- Presentará declaración del ejercicio dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal, en la que determinará el impuesto consolidado. En caso de que en esta declaración resulte diferencia a cargo, la sociedad controladora deberá enterarla con la propia declaración .
+III.- Presentará declaración del ejercicio dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal, en la que determinará el impuesto consolidado. En caso de que en esta declaración resulte diferencia a cargo, la sociedad controladora deberá enterarla con la propia declaración.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -688,3 +696,7 @@ II.- Las empresas que componen el sistema financiero podrán determinar el impue
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
