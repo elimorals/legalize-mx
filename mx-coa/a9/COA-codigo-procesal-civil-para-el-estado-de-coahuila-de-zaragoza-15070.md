@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2003-07-25"
+last_updated: "2004-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -6179,17 +6179,33 @@ Requisito en caso de representación voluntaria.
 
 Si el juicio se entablare por medio de apoderado, no será admitida la personalidad del representante si no tiene poder especial o que contenga cláusula expresa, autorizándolo para formular la demanda y tramitar el juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 603.
 
-Modalidades de los juicios sobre paternidad y filiación.
+Modalidades de los juicios sobre paternidad, maternidad y filiación. Los asuntos sobre paternidad, maternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio, que se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 
-Los asuntos sobre paternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio, que se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2004)</small>
 
-I. Los juicios de paternidad y filiación no serán acumulables con ningún otro juicio, aunque exista conexión, ni se admitirá en los mismos contrademanda o reconvención.
+I. Los juicios de paternidad, maternidad y filiación no serán acumulables con ningún otro juicio, ni se admitirá en los mismos contrademanda o reconvención, salvo lo dispuesto en el párrafo cuarto del artículo 481 del Código Civil.
+
+En dichos juicios, el juez podrá resolver como medida provisional la procedencia de la prestación de alimentos, conforme a las bases siguientes:
+
+a) Exista peligro en la subsistencia de menores, discapacitados o personas vulnerables.
+
+b) Existan datos suficientes que indiquen la apariencia del buen derecho respecto de la paternidad, maternidad o filiación controvertida.
+
+c) No existan datos que contraindiquen o que razonablemente descarten el aparente derecho a la paternidad, maternidad o filiación de que se trate. En cualquier momento del juicio, la medida provisional se podrá revocar cuando se actualice este supuesto de duda razonable.
+
+d) La obligación provisional de prestar los alimentos, no prejuzga de manera definitiva la paternidad, maternidad y filiación de que se trate.
 
 II. En los casos de rebeldía se tendrá por contestada la demanda en sentido negativo.
 
 III. El juzgador no quedará vinculado por el allanamiento a la demanda, debiendo abrirse en todo caso el juicio a prueba.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Se exceptúa el caso en que el hijo sea reconocido expresamente por la parte demandada en los casos en que el reconocimiento sea admisible de conformidad con el Código Civil.
 
 IV. El tribunal podrá tener en cuenta hechos no alegados por las partes, pero debidamente acreditados en el expediente, así como ordenar de oficio la práctica de pruebas.
 
@@ -6202,6 +6218,24 @@ VII. El juzgador podrá admitir alegaciones y pruebas de las partes, aunque se p
 VIII. La sentencia tendrá autoridad de cosa juzgada, aún en contra de los terceros que no litigaren, excepto respecto de aquéllos que no habiendo sido citados al juicio, pretendan para si la existencia de la relación paterno filial.
 
 IX. El tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas cautelares que juzgue adecuadas para que no se cause perjuicio a los hijos.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2004)</small>
+
+X. La filiación podrá ser establecida judicialmente con toda clase de pruebas, incluidas las biológicas, que se practicarán sólo con propósitos de identificación y con el conocimiento de los involucrados.
+
+La negativa injustificada a someterse a examen y análisis, constituye presunción contraria a la posición sustentada por el renuente.
+
+La prueba podrá ser negada y la presunción desvirtuada en los casos previstos por el artículo 481 del Código Civil.
+
+Para admitir la prueba, el juzgador deberá considerar la seriedad de su ofrecimiento en base a las demás pruebas propuestas; si además es necesaria, en el sentido de que no existan otros medios menos lesivos con igual eficacia demostrativa para la consecución del propósito, y si de ella se derivarán beneficios para el solicitante, sobre todo si se trata de menores de edad.
+
+La prueba se practicará por personal sanitario que cuente con especialidad para ello y registro en el Tribunal Superior de Justicia del Estado, con absoluto respeto a la dignidad de la persona que deba sujetarse a ella y sin que pueda en ningún caso constituir, en sí misma o por la forma de realizarla, un trato inhumano o degradante. La inobservancia de estas disposiciones serán sancionadas en los términos del artículo 253, fracción I, de este Código.
+
+El costo de la prueba será sufragado por quien la solicite, independientemente de lo que luego se establezca en la condena de gastos y costas, salvo que se trate de personas de escasos recursos patrocinadas por Defensorías de Oficio, en cuyo caso, su costo será sufragado por el Estado.
+
+El juzgador solicitará las pruebas biológicas a quien, en razón de su especialidad técnica, deba practicarlas, indicando la fecha y hora en que las muestras deban ser tomadas en el local del juzgador aún cuando también puede ordenar que se tomen en lugar diverso, en cuyo caso, decretará las providencias necesarias para que sean debidamente identificadas.
+
+El juzgador decidirá en base a los resultados de la prueba o del indicio emergente derivado de la negativa a someterse a ella, la filiación que considere más verosímil, tomando en consideración las demás pruebas que obran en autos y la posesión de estado.
 
 ###### ARTÍCULO 604.
 
@@ -6253,7 +6287,7 @@ En la petición inicial deberá manifestarse el nombre y edad de la persona a qu
 
 Partes intervinientes en el procedimiento de adopción.
 
-Además de los interesados, será parte en el procedimiento de adopción el Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia y deberá oirse al Ministerio Público.
+Además de los interesados, será parte en el procedimiento de adopción el Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia y deberá oírse al Ministerio Público.
 
 Cuando se trate de una adopción internacional, el Sistema para el Desarrollo Integral de la Familia fungirá como autoridad central en los términos de los tratados y convenciones internacionales suscritos y ratificados por el Estado Mexicano sobre la materia.
 
@@ -6287,7 +6321,7 @@ Revocación de la adopción.
 
 La adopción semiplena puede revocarse de mutuo acuerdo siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento para la adopción o si (sic) oirá al Ministerio Público y a la Procuraduría de la Familia. El juzgador citará a los interesados a una audiencia dentro de los tres días siguientes al en que se haya presentado la petición y después de escuchar sus puntos de vista, revocará la adopción, si convencido de la espontaneidad con que se planteo la solicitud, encuentra que ello es conveniente para los intereses morales y materiales del adoptado.
 
-Si la revocación se pide por ingratitud del adoptado, el juzgador mandará substanciar el procedimiento en juicio ordinario, entendiéndose con éste si tuviere más de dieciocho años, o con un tutor especial que se le nombre y, además, deberá oirse al Ministerio Público y a la Procuraduría de la Familia para demostrar los hechos que constituyan la ingratitud son admisibles toda clase de pruebas. El mismo procedimiento se observará cuando la revocación de la adopción semiplena se solicita en los casos en los que el o los adoptantes no cumplen con los deberes que les impone la adopción.
+Si la revocación se pide por ingratitud del adoptado, el juzgador mandará substanciar el procedimiento en juicio ordinario, entendiéndose con éste si tuviere más de dieciocho años, o con un tutor especial que se le nombre y, además, deberá oírse al Ministerio Público y a la Procuraduría de la Familia para demostrar los hechos que constituyan la ingratitud son admisibles toda clase de pruebas. El mismo procedimiento se observará cuando la revocación de la adopción semiplena se solicita en los casos en los que el o los adoptantes no cumplen con los deberes que les impone la adopción.
 
 La resolución que se pronuncie será apelable en el efecto devolutivo, si niega la revocación de la adopción y en el efecto suspensivo si la concede, excepción hecha del caso en que la revocación haya sido solicitada de mutuo acuerdo, en el que la resolución será irrecurrible.
 
@@ -9069,7 +9103,7 @@ VIII. Si no hubiere apelaciones pendientes, ni se hubieren promovido pruebas; en
 
 IX. Si se trata de apelación de la que conozca la Sala o el Pleno del Tribunal Superior de Justicia, en la misma resolución en la que se cita a las partes para sentencia, se turnará el expediente al Magistrado relator que corresponda, a efecto de que formule por escrito, dentro de los treinta días siguientes, el proyecto de resolución redactado en forma de sentencia. De dicho proyecto se pasará copia a los demás magistrados, quedando los autos a su disposición para su estudio, en la secretaría.
 
-X. Formulado el proyecto de sentencia, en la lista que la Sala o el Pleno publiquen en la tabla de avisos para el efecto, se señalará día y hora para que tenga lugar su discusión y resolución, en sesión pública, pudiendo aplazarce la resolución por una sola vez.
+X. Formulado el proyecto de sentencia, en la lista que la Sala o el Pleno publiquen en la tabla de avisos para el efecto, se señalará día y hora para que tenga lugar su discusión y resolución, en sesión pública, pudiendo aplazarse la resolución por una sola vez.
 
 XI. Los asuntos se fallarán en el orden en que se listen. Si no pudieren ser despachados en la audiencia todos los asuntos listados, los restantes figurarán en la lista siguiente en primer lugar, sin perjuicio de que la Sala o el Pleno, en su caso, acuerden que se altere el orden de la lista, que se retire algún asunto, o que se aplace la vista del mismo, cuando exista causa justificada. El aplazamiento no podrá exceder de diez días.
 
@@ -10207,7 +10241,7 @@ IV. En los casos de reembargo, el depositario del primer secuestro lo será resp
 
 Embargos simultáneos en juicios distintos.
 
-En caso de que los ejecutores practiquen simultaneamente embargos ordenados en juicios distintos, sobre los mismos bienes; los realizaran asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario a los interesados en los diversos juicios si se pusieren de acuerdo; en caso contrario el nombramiento se hará bajo la responsabilidad del acreedor ejecutante en el juicio que primero se hubiere iniciado.
+En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, sobre los mismos bienes; los realizaran asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario a los interesados en los diversos juicios si se pusieren de acuerdo; en caso contrario el nombramiento se hará bajo la responsabilidad del acreedor ejecutante en el juicio que primero se hubiere iniciado.
 
 ### CAPÍTULO QUINTO. Periodo final de la ejecución forzosa
 
@@ -10547,7 +10581,7 @@ II. El importe del depósito que como requisito previo deben exhibir los postore
 
 III. Si la única o mejor postura, en su caso, fuere igual o superior a las dos terceras partes del precio que sirvió de base para la segunda subasta, y se ofrece el pago de contado, el juzgador aprobará el remate sin más trámites.
 
-IV. Si hubiere postura única admisible en cuanto al precio, igual o superior a las dos terceras partes del valor fijado para la anterior almoneda, pero ofreciendo pagar a plazos, o alternando alguna condición, con suspención de la subasta se comunicará al acreedor ejecutante, el cual podrá pedir dentro de los tres días siguientes la adjudicación de los bienes en las dos terceras partes del precio de la segunda subasta. Si no hace uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.
+IV. Si hubiere postura única admisible en cuanto al precio, igual o superior a las dos terceras partes del valor fijado para la anterior almoneda, pero ofreciendo pagar a plazos, o alternando alguna condición, con suspensión de la subasta se comunicará al acreedor ejecutante, el cual podrá pedir dentro de los tres días siguientes la adjudicación de los bienes en las dos terceras partes del precio de la segunda subasta. Si no hace uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.
 
 V. Si la única o mejor postura, en su caso, no llegare a las dos terceras partes del valor antes señalado, con la salvedad de la fracción I, el juzgador suspenderá el remate e informará del precio al deudor o ejecutado el cual, dentro de los diez días siguientes podrá pagar al acreedor, liberando los bienes, o presentar persona que mejore la postura, siempre y cuando dicho postor reúna los requisitos establecidos en las fracciones I y IV el artículo 978.
 
@@ -13080,3 +13114,9 @@ P.O. 25 DE JULIO DE 2003.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 17 DE AGOSTO DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los que se autorizan las pruebas periciales biológicas para la determinación de la paternidad y la maternidad, así como la presunción que se genera en perjuicio de quienes no otorgan su consentimiento para someterse a dichas pruebas, entrarán en vigor una vez que se expidan las leyes que regulen el funcionamiento seguro y eficiente de los laboratorios en los que se practiquen y que las Dependencias Oficiales competentes estén en condiciones de realizarlas, con el máximo grado de confiabilidad.
