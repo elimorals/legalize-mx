@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1936-08-31"
+last_updated: "1937-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JULIO DE 1937.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -363,13 +363,33 @@ Las autorizaciones para el establecimiento de instituciones de seguros y los per
 
 ###### ARTICULO 32.
 
-El capital y las reservas estatutarias de las instituciones de seguros deberán ser invertidos y estimados precisamente en la forma que esta ley lo establece para las reservas técnicas, con excepción de los gastos de establecimiento y primera organización; pero no estarán sujetos a las reglas de depósito de valores a que se refiere el artículo 93.
+El capital y las reservas estatutarias de las instituciones de seguros, deberán ser invertidos precisamente en los bienes, créditos y valores siguientes:
+
+I.- Bienes, créditos o valores de los enumerados en el artículo 85 de esta Ley, subsistiendo para inversiones de esta clase, las reglas establecidas en los artículos 86 y 87 de la misma;
+
+II.- Recargos sobre las primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha de balance o de la estimación, cuando se trate de instituciones que practiquen el ramo de vida;
+
+III.- Acciones de instituciones de seguros. La inversión en esta clase de valores nunca podrá ser mayor del 20% de la suma del capital pagado y reservas estatutarias de la inversora, y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal, o sobre: el 10% de la reserva de riesgos en curso, si se trata de los ramos de seguro comprendidos en los incisos a) y b) de la fracción II del artículo 1o., o el 15% de las primas brutas cobradas durante el año para los demás ramos, en caso de que dichos porcentajes sean superiores al capital mínimo legal. La inversión en acciones de una misma institución de seguros, en ningún caso excederá del 40% del capital de la emisora.
+
+IV.- Saldos deudores de agentes y agencias;
+
+V.- Gastos de establecimiento y de primera organización no amortizados;
+
+VI.- Muebles y enseres, descontando la reserva por depreciación;
+
+VII.- Diversos deudores, provenientes de operaciones propias del objeto de las instituciones aseguradoras.
+
+La Secretaría de Hacienda y Crédito Público, fijará administrativamente los porcentajes máximos del capital y reservas estatutarias que pueden invertirse en los conceptos a que se refieren los incisos (sic) IV, V, VI y VII de este artículo.
+
+Las inversiones de capital y reservas estatutarias a que se refiere este artículo, no estarán sujetas a las reglas sobre depósitos de valores establecidas en el artículo 93 de esta Ley.
 
 ###### ARTICULO 33.
 
 Se considerarán operaciones de seguros sujetas a las disposiciones de las leyes mexicanas, las que se celebren en territorio nacional.
 
 ### CAPITULO II. Del funcionamiento
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
 
 ### CAPITULO I. De las reservas
 
@@ -404,6 +424,10 @@ Cuando alguna clase de las comprendidas en el ramo de diversos adquiera una impo
 ###### ARTICULO 36.
 
 Las operaciones de reaseguro no pueden ser practicadas por instituciones filiales o sucursales de las que hayan contratado el seguro directo; asimismo, la institución que haya contratado el seguro directo no podrá reasegurar con una institución de la que sea filial o sucursal.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 1937)</small>
+
+Para los efectos de esta Ley, son filiales las instituciones aseguradoras debidamente autorizadas que estén controladas o subordinadas en su organización o funcionamiento a otra institución aseguradora. Se entiende que una institución aseguradora es filial de otra, cuando ésta tiene el 51% del capital social pagado de aquélla.
 
 > <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
@@ -805,33 +829,31 @@ Las instituciones de seguros no podrán vender o hipotecar sus bienes raíces ni
 
 Los bienes inmuebles que por cualquier motivo estén gravados con hipotecas, se estimarán en la diferencia entre el avalúo practicado de acuerdo con el artículo 92 y el importe del crédito hipotecario que lo grave.
 
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
+
 ###### ARTICULO 92.
 
 Los valores del activo se estimarán de la manera siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1936)</small>
-
 I.- Los bonos, obligaciones y cédulas hipotecarias que se encuentren al corriente en sus servicios de amortización e intereses, se estimarán al valor presente de los futuros beneficios del título, calculado dicho valor al tipo de interés real que según el precio de adquisición devengue el título.
 
-Las obligaciones del Gobierno Federal para obras de servicios públicos y los bonos hipotecarios de Instituciones Nacionales de Crédito, siempre se valuarán por el sistema de amortización.
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+Las obligaciones del Gobierno Federal para obras de servicios públicos y los bonos hipotecarios de instituciones nacionales de crédito, siempre se valuarán por el sistema de amortización;
 
 II.- Si los bonos, obligaciones y cédulas hipotecarias no están al corriente en su servicio de amortización e intereses, se estimarán al promedio de las cotizaciones registradas durante los doce meses anteriores a la fecha de la cotización;
 
 III.- Las acciones se estimarán al valor promedio de las cotizaciones registradas durante los doce meses anteriores a la fecha de la estimación;
 
-IV.- Las acciones de las instituciones nacionales de crédito, serán estimadas como sigue:
+IV.- Las acciones de las instituciones nacionales de crédito y de seguros serán estimadas como sigue:
 
 a).- En su valor nominal, durante los tres primeros años de constituída la institución emisora;
 
 b).- Después del período a que se refiere el inciso anterior, en su valor nominal, siempre que la cotización dominante, el día de la estimación o del balance, no sea inferior al 95% de dicho valor;
 
-c).- Cuando la cotización dominante el día de la estimación sea inferior a 95% de su valor nominal, al valor que resulte de acuerdo con las reglas de la fracción III de este artículo;
+c).- Cuando la cotización dominante el día de la estimación sea inferior al 95% de su valor nominal, al valor que resulte de acuerdo con las reglas de la fracción III de este artículo;
 
 V.- Los créditos a que se refieren las fracciones IV, V y VI del artículo 85, serán estimados a su valor nominal. Cuando el valor de la garantía no alcance a cubrir el crédito correspondiente, se estimarán al valor de realización de esa garantía, estimado por la Secretaría de Hacienda y Crédito Público;
 
-VI.- Los bienes inmuebles urbanos se estimarán en el promedio de los avalúos que conforme a las siguientes bases, practique la institución nacional fiduciaria que administrativamente designe la Secretaría de Hacienda y Crédito Público:
+VI.- Los bienes inmuebles urbanos se estimarán en el promedio de los avalúos que conforme a las siguientes bases, practique la institución nacional fiduciaria que administrativamente designe la Secretaría de Hacienda y Crédito Público;
 
 a).- Se calculará el valor físico del inmueble, estimando el valor comercial del terreno, más el costo de reposición de las construcciones, disminuído del demérito por el uso, según se observe por su estado de conservación, y de los castigos que resulten por la ubicación, distribución y demás circunstancias;
 
@@ -841,13 +863,11 @@ Para calcular la renta líquida, se disminuirán del producto bruto las contribu
 
 Cuando una institución de seguros no esté de acuerdo con algún avalúo practicado, expondrá por escrito, ante la Secretaría de Hacienda, las razones de su inconformidad y ésta resolverá lo que sea de justicia, pudiendo oír, en todo caso, la opinión de otro perito nombrado por la misma Secretaría. Los honorarios de este perito serán pagados también por la institución interesada.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+Hecha la rectificación de valores de los bienes inmuebles en los términos de esta fracción, no se hará revisión de dichos valores sino cinco años después de la verificación de los avalúos; pero la Secretaría de Hacienda y Crédito Público podrá, en cualquier tiempo, ordenar que se supla el deficiente que se produzca por menor productividad líquida anual de los bienes afectos a las reservas o mandar verificar los valores asignados, aún antes de los cinco años de referencia, si los productos de dichos inmuebles disminuyen en relación con la productividad líquida anual consignada en los avalúos. Cuando de la revisión que se haga del valor de un inmueble resulte que dicho valor ha aumentado, las instituciones de seguros deberán dedicar la utilidad obtenida por este concepto a la formación de un reserva especial, para fluctuaciones de valores inmuebles, que sólo podrá aplicarse hasta que efectivamente se realice dicha utilidad en virtud de la venta de la propiedad respectiva. Cuando de la revisión que del valor de un inmueble haga la Secretaría de Hacienda, resulte que el valor del mismo ha disminuído, la institución deberá afectar la reserva especial de que habla el párrafo anterior, o, en su caso, constituir dicha reserva en un término no mayor de cinco años, durante cada uno de los cuales deberá destinar de sus utilidades, cuando menos, la quinta parte de la diferencia entre el valor primitivamente asignado al inmueble y el que resulte del último avalúo.
 
-Hecha la rectificación de los valores de los bienes inmuebles en los términos de esta fracción, no se hará revisión de dichos valores sino cinco años después de la verificación de los avalúos; pero la Secretaría de Hacienda y Crédito Público podrá, en cualquier tiempo, ordenar que se supla el deficiente que se produzca por menor productividad líquida anual de los bienes afectos a las reservas o mandar verificar los valores asignados, aun antes de los cinco años de referencia, si los productos de dichos inmuebles disminuyen en relación con la productividad líquida anual consignada en los avalúos. Cuando de la revisión que se haga del valor de un inmueble resulte que dicho valor ha aumentado, las instituciones de seguros deberán dedicar la utilidad obtenida por este concepto a la formación de una reserva especial, para fluctuaciones de valores inmuebles, que sólo podrá aplicarse hasta que efectivamente se realice dicha utilidad en virtud de la venta de la propiedad respectiva. Cuando de la revisión que del valor de un inmueble haga la Secretaría de Hacienda, resulte que el valor del mismo ha disminuído, la institución deberá afectar la reserva especial de que habla el párrafo anterior o, en su caso, constituir dicha reserva en un término no mayor de cinco años, durante cada uno de los cuales deberá destinar de sus utilidades, cuando menos, la quinta parte de la diferencia entre el valor primitivamente asignado al inmueble y el que resulte del último avalúo.
+Para que las reconstrucciones o reparaciones de inmuebles que aumenten el valor de los mismos, puedan ser computadas en las reservas, las instituciones interesadas someterán a la Secretaría de Hacienda y Crédito Público, los proyectos respectivos, y una vez terminadas las obras, dicha Secretaría aceptará, como afecto a sus garantías legales, el valor que corresponda a tales reconstrucciones o reparaciones, de acuerdo con el avalúo que al efecto mande practicar.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
-
-Para que las reconstrucciones o reparaciones de inmuebles que aumenten el valor de los mismos, puedan ser computadas en las reservas, las instituciones interesadas someterán a la Secretaría de Hacienda y Crédito Público, los proyectos respectivos y una vez terminadas las obras, dicha Secretaría aceptará, como afecto a sus garantías legales, el valor que corresponde a tales reconstrucciones o reparaciones, de acuerdo con el avalúo que al efecto mande practicar.
+VII.- Los demás bienes y créditos serán estimados por la Secretaría de Hacienda y Crédito Público, de acuerdo con las pruebas conducentes presentadas al efecto y tomando en cuenta las disposiciones de carácter general que sobre el particular dicte la propia Secretaría.
 
 ###### ARTICULO 93.
 
@@ -1352,5 +1372,9 @@ Al C. ....
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE AGOSTO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 3 DE JULIO DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
