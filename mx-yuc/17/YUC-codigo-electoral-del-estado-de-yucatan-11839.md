@@ -4,7 +4,7 @@ identifier: "YUC-codigo-electoral-del-estado-de-yucatan-11839"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-16"
-last_updated: "1994-12-16"
+last_updated: "2001-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO ELECTORAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MARZO DE 2001.
 
 Código publicado en el Suplemento al Diario Oficial el 16 de Diciembre de 1994.
 
@@ -795,7 +795,9 @@ El Consejo Electoral del Estado es el órgano superior de dirección, responsabl
 
 El Consejo Electoral del Estado se integrará de la siguiente manera:
 
-I.- Siete Consejeros ciudadanos, quienes elegirán de entre ellos mismos, en la primera sesión del Consejo Electoral del Estado, a uno que tendrá el carácter de Presidente.
+> <small>(REFORMADA, D.O. 12 DE MARZO DE 2001)</small>
+
+I.- Catorce Consejeros ciudadanos, quienes elegirán de entre ellos mismos, en la primera sesión del Consejo Electoral del Estado, a uno que tendrá el carácter de Presidente, cargo que será rotativo cada quince días.
 
 II- Dos consejeros del Poder Legislativo.
 
@@ -825,9 +827,13 @@ Para los efectos de este Código, las organizaciones sociales deberá reunir los
 
 II.- Recibidas las propuestas, el Congreso del Estado turnará la totalidad a la Comisión Permanente de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales, la cual formulará la lista con los nombres de las personas que reúnan los requisitos de ley.
 
-III.- De la lista de las personas nominadas, los diputados en sesión plenaria elegirán en forma secreta y por mayoría de las cuatro quintas partes de los presentes a los siete consejeros ciudadanos propietarios y siete consejeros ciudadanos suplentes.
+> <small>(REFORMADA, D.O. 12 DE MARZO DE 2001)</small>
 
-IV.- De no haberse logrado la elección de los siete consejeros ciudadanos propietarios y suplentes, con la mayoría señalada en la fracción que antecede, se procederá para completar el número de consejeros, a la insaculación de los que falten hasta integrar el número exigido por este Código.
+III.- De la lista de las personas nominadas, los diputados en sesión plenaria elegirán en forma secreta y por mayoría de las cuatro quintas partes de los presentes a los catorce consejeros ciudadanos propietarios y catorce consejeros ciudadanos suplentes.
+
+> <small>(REFORMADA, D.O. 12 DE MARZO DE 2001)</small>
+
+IV.- De no haberse logrado la elección de los catorce consejeros ciudadanos propietarios y suplentes, con la mayoría señalada en la fracción que antecede, se procederá a la insaculación de los que falten hasta completar el número de consejeros exigidos por este Código o en su caso, para designar la totalidad de los consejeros.
 
 La insaculación se verificará entre la totalidad de las personas nominadas en la lista turnada al Pleno, a excepción de las ya elegidas.
 
@@ -3793,7 +3799,7 @@ III.- Sean interpuestos por quien no tenga legitimación o interés jurídico en
 
 IV.- Sean presentados fuera de los plazos que señala este Código;
 
-V.- No se aporten pruebas en los plazos establecidos en este Código, salvo que se señalen las razones justificadas por las que no obren en poder del promovente. No se requerirá de prueba cuando el recurso verse en forma exclusiva sobre puntos de derecho;
+V.- No se aporten pruebas en los plazos establecidos en este Código, salvo que se señalen la razones justificadas por las que no obren en poder del promovente. No se requerirá de prueba cuando el recurso verse en forma exclusiva sobre puntos de derecho;
 
 VI.- No se hayan presentado en tiempo los escritos de protesta o no reúnan los requisitos que señala este Código para que proceda el recurso de inconformidad;
 
@@ -4084,3 +4090,19 @@ ING. FEDERICO GRANJA RICALDE.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ALVARO LOPEZ SOBERANIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O. 12 DE MARZO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO.- Se faculta al Consejo Electoral del Estado y a los Tribunales Electorales del Estado para ajustar los plazos y términos que señala este Código, que se hayan cumplido o vencido.
+
+TERCERO.- Por esta única ocasión, los catorce miembros del Consejo Electoral del Estado se integrarán de la siguiente manera: siete ciudadanos de los designados por el Congreso del Estado mediante decreto 286 del Gobierno del Estado de Yucatán de fecha diecisiete de octubre del año dos mil, y siete ciudadanos de los que hayan sido insaculados por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación. En caso de que alguno de los propuestos renunciara al cargo conferido, se respetará al suplente respectivo de las listas elaboradas por el Congreso del Estado o bien por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, según corresponda, previa protesta de ley que rindan ante el H. Congreso del Estado.
+
+CUARTO.- Los actos, resoluciones, acuerdos y contratos tomados o suscritos por quienes hayan ejercido las funciones de Consejeros Ciudadanos Electorales, independientemente del origen de su designación, se convalidará, siempre que se hayan realizado, a más tardar, el día en que sean aprobadas las presentes reformas por el Honorable Congreso del Estado y no se opongan a lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+
+QUINTO.- El Consejo Electoral del Estado designado en los términos de esta reforma, podrá disponer de los recursos que le correspondan a partir de la entrada en vigor de este Decreto, de conformidad con lo establecido en la ley.
+
+SEXTO.- Se deja sin efecto y valor alguno cualquier disposición que contravenga lo dispuesto en el presente Decreto, así como cualquier nombramiento efectuado con objeto de que se realicen funciones semejantes al de Consejero Ciudadano Electoral.
