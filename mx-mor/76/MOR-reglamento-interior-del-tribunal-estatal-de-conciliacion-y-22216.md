@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-estatal-de-conciliacion-y-2221
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-21"
-last_updated: "2001-09-21"
+last_updated: "2002-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 21 de septiembre de 2001.
 
@@ -41,9 +41,11 @@ REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO 
 
 El presente Reglamento tiene por objeto regular la organización y funcionamiento del Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos, de conformidad con lo dispuesto por los artículos 109, 110, 111, 112, 113 y 114 de la Ley del Servicio Civil del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
+
 ###### Artículo 2.
 
-El Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos, se regirá por las disposiciones legales contenidas en la Ley del Servicio Civil del Estado, La Ley Federal del Trabajo aplicada supletoriamente únicamente en materia procesal, el presente Reglamento y demás ordenamientos jurídicos aplicables.
+El Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos, se regirá por las disposiciones legales contenidas en la Ley del Servicio Civil del Estado, la Ley Federal de los Trabajadores al Servicio del Estado, o en su caso por la Ley, Federal del Trabajo, el presente Reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 3.
 
@@ -65,7 +67,9 @@ VII.- Representantes: A los Integrantes del Pleno;
 
 VIII.- Reglamento: Al presente Reglamento Interior del tribunal Estatal de Conciliación y Arbitraje; y
 
-IX.- Ley supletoria: A la Ley Federal del Trabajo.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
+
+IX.- Ley supletoria: A la Ley Federal de los Trabajadores al Servicio del Estado, o en su caso, a la Ley Federal del Trabajo.
 
 ###### Artículo 4.
 
@@ -75,21 +79,27 @@ El horario de labores en el Tribunal será de 8:30 a las 15:00 horas, en días c
 
 El calendario oficial de días laborables del Tribunal, será el que expida el Gobierno del Estado de Morelos, a través de su Secretaría de Gobierno.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
+
 ###### Artículo 6.
 
-Para su debido funcionamiento, el Tribunal contará con un Secretario General, actuarios y auxiliares jurídicos y personal administrativo como mecanógrafas, archivistas, mensajeros y aquellos que sean necesarios para el buen funcionamiento del Tribunal.
+Para su debido funcionamiento, el Tribunal contará con un Secretario General, Auxiliares Jurídicos, Auxiliares Dictaminadores, Actuarios, personal administrativo como mecanógrafas, archivistas, mensajeros y demás que sean necesarios para el buen funcionamiento del Tribunal.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 7.
 
-Queda prohibido a los servidores públicos adscritos al Tribunal, recibir personalmente escritos y promociones encontrándose cerrada la Oficialía de Partes, únicamente el Secretario podrá recibirlas, cuando ocurra lo anterior y fuera del horario de labores del Tribunal, siguiendo los lineamientos establecidos en este Reglamento.
+Queda prohibido a los servidores públicos adscritos al Tribunal, recibir personalmente escritos y, promociones encontrándose cerrada la Oficialía de Partes, únicamente el Secretario podrá recibirlas, cuando se trate de emplazamientos a huelga y fuera del horario de labores del Tribunal, siguiendo los lineamientos establecidos en este Reglamento.
 
 ###### Artículo 8.
 
 El Pleno del Tribunal se integrará en los términos del artículo 109 de la Ley.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
+
 ###### Artículo 9.
 
-Los casos no previstos en este Reglamento, y en las disposiciones de la Ley, se regularán por la Ley Federal del Trabajo en forma supletoria, en la jurisprudencia, los principios generales del derecho y de la justicia social y la equidad.
+Los casos no previstos en este Reglamento, y en las disposiciones de la Ley, se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional, o en su caso, por la Ley Federal del Trabajo aplicable en forma supletoria, en la jurisprudencia, los principios generales del derecho, de la justicia social y la equidad.
 
 ###### Artículo 10.
 
@@ -125,7 +135,9 @@ IV.- Designar a los servidores públicos que correspondan, por ausencia temporal
 
 V.- Designar al personal jurídico y administrativo necesario para cubrir la guardia en los períodos de vacaciones;
 
-VI.- Imponer las sanciones que correspondan al Secretario General, Auxiliares Jurídicos, Actuarios y demás servidores públicos previa investigación y con audiencia del interesado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
+
+VI.- Imponer las sanciones que correspondan al Secretario General, Auxiliares Jurídicos, Auxiliares Dictaminadores, Actuarios y demás servidores públicos previa investigación y con audiencia del interesado;
 
 VII.- Cuidar el buen funcionamiento del Tribunal, así como el orden y disciplina del personal del mismo;
 
@@ -139,15 +151,33 @@ XI.- Proveer lo necesario para que los asuntos en trámite, no queden inactivos;
 
 XII.- Cumplir con los términos establecidos en la Ley para el desahogo de los procedimientos y convocar oportunamente a los representantes del Pleno a la sesión para dictar resolución;
 
-XIII.- Representar al Tribunal, ante todo tipo de autoridades y eventos oficiales;
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2002)</small>
 
-XIV.- Cumplimentar los exhortos que le sean turnados por otros Tribunales;
+XIII.- Tener la representación legal del Tribunal ante todo tipo de autoridades y en eventos oficiales así como para su funcionamiento administrativo y financiero;
 
-XV.- Imponer los medios de apremio y correcciones disciplinarias que señala la Ley, para mantener el buen orden y asegurar el cumplimiento de sus resoluciones;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
 
-XVI.- Determinar los Programas de Capacitación del Personal Jurídico y Administrativo del Tribunal; y
+XIV.- Suscribir convenios interinstitucionales, administrativos, de servicio social, y todos los demás que no requieran la observancia o aprobación de otras dependencias;
 
-XVII.- Las demás que le confiera la Ley.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
+
+XV.- Cumplimentar los exhortos que le sean turnados por otros Tribunales;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
+
+XVI.- Imponer los medios de apremio y correcciones disciplinarias que señala la Ley, para mantener el buen orden y asegurar el cumplimiento de sus resoluciones;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2002)</small>
+
+XVII.- Determinar los Programas de Capacitación del Personal Jurídico y Administrativo del Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2002)</small>
+
+XVIII.- Ejercer el presupuesto asignado al Tribunal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2002)</small>
+
+XIX.- Las demás que le confiera la Ley.
 
 ###### Artículo 13.
 
@@ -227,83 +257,127 @@ X.- Firmar el recibo de los expedientes cuyo laudo deban proyectar, absteniéndo
 
 XI.- Las demás que le asignen el Presidente o la Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2002)</small>
+
 ###### Artículo 16.
 
-Los Auxiliares deberán satisfacer los mismos requisitos establecidos para el cargo de Secretario General, a excepción de lo previsto en la fracción III del artículo 14, el cual en este caso, debe ser de tres años.
+El Tribunal contara con el número de Auxiliares Dictaminadores que determine el Presidente del Tribunal y conforme al presupuesto autorizado, a quienes corresponde la elaboración de los proyectos de laudo que le sean asignados por el Presidente del Tribunal; y serán responsables de todos y cada uno de los expedientes y documentos probatorios que reciban.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 17.
 
-Para ser Secretario de Acuerdos, se deberán satisfacer los requisitos exigidos para los Secretarios Generales, a excepción de lo previsto en la fracción III del artículo 14, lo cual, debe ser de un año.
+Son obligaciones y facultades de los Auxiliares Dictaminadores:
+
+I. Fundar con base en las disposiciones legales aplicables, la elaboración de los proyectos encomendados que deberán abarcar todas las cuestiones planteadas en la litis, y en su caso, el cumplimiento de las ejecutorias que concedan el amparo en contra de las resoluciones emitidas en forma de laudo, repitiendo las argumentaciones que fundaron el laudo anterior, en las cuestiones de que no se ocupó la ejecutoria o acerca de las cuales el juzgador federal estimó que los conceptos de violación fueron infundados;
+
+II. Devolver los expedientes que no estén debidamente instruidos al Secretario General;
+
+III. Recabar directamente de la sección responsable las pruebas que no se les hayan remitido con el expediente cuya resolución deban proyectar;
+
+IV. Estampar en el proyecto su nombre y apellidos, fecharlo y firmarlo; y
+
+V. No dar a conocer el dictamen que formulen, ni el sentido del mismo a persona alguna, pues de lo Contrario se harán acreedores a las sanciones previstas por el presente Reglamento, la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 18.
 
-Los Actuarios tendrán las siguientes obligaciones y facultades:
+Todo dictamen que no esté formulado conforme a la Ley, será regresado al Auxiliar responsable para que lo formule nuevamente conforme a Derecho, sin tomarse en cuenta el expediente para el número obligatorio que se exija a cada Dictaminador.
 
-I.- Practicar las notificaciones en los términos que marque la Ley y realizar las diligencias ordenadas por el Pleno o el Presidente;
-
-II.- Levantar las actas correspondientes en el lugar donde practiquen las diligencias en forma pormenorizada, dando fe de los hechos que se susciten;
-
-III.- Poner inmediatamente a disposición del Presidente, los valores o dinero que sean embargados, salvo que exista autorización expresa para efectuar el pago directamente al interesado, previa identificación y recibo correspondiente;
-
-IV.- Otorgar recibo de los expedientes que se les turnen para la práctica de alguna diligencia, en el libro que se lleve para tal efecto y devolverlo de manera inmediata, una vez concluida;
-
-V.- Solicitar, cuando lo estime necesario, el auxilio de la fuerza pública, dando cuenta de ello al Presidente o al Secretario General;
-
-VI.- Abstenerse de suspender la diligencia ordenada salvo que exista una causa debidamente justificada, dando cuenta inmediatamente al Presidente; y
-
-VII.- Las demás que les confieran la Ley o les encomiende el Presidente.
+(REUBICADO [N. DE E. ANTES ARTICULO 16], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 19.
 
-Los Actuarios deberán satisfacer los siguientes requisitos:
+Los Auxiliares deberán satisfacer los mismos requisitos establecidos para el cargo de Secretario General, a excepción de lo previsto en la fracción III del artículo 14, el cual en este caso, debe ser de tres años.
 
-I.- Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
-
-II.- Ser pasante de la carrera de Licenciado en Derecho, debiendo tener como mínimo el 70% de avance en la Licenciatura;
-
-III.- No pertenecer al estado eclesiástico o algún culto religioso; y
-
-IV.- No haber sido condenado por delito intencional sancionado con pena corporal.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 17], P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 20.
 
-El archivista tendrá las facultades y obligaciones siguientes:
+Para ser Secretario de Acuerdos, se deberán satisfacer los requisitos exigidos para los Secretarios Generales, a excepción de lo previsto en la fracción III del artículo 14, lo cual debe ser de un año.
 
-I.- Controlar y conservar los expedientes en trámite, así como los documentos y libros de registro;
-
-II.- Turnar al Archivo General, los expedientes de asuntos concluidos, previo acuerdo del Secretario General;
-
-III.- Controlar el examen o consulta de expedientes por parte de los interesados, mediante la cédula de control correspondiente, previo acreditamiento de personalidad;
-
-IV.- Entregar al Secretario de Acuerdos, los expedientes que le sean solicitados para el desahogo de una audiencia o diligencia, recabando el recibo correspondiente;
-
-V.- Vigilar, que se guarden y se conserven en buen estado los expedientes;
-
-VI.- Recibir los expedientes, escritos y correspondencia que le sean turnados asignándoles el número de folio que les corresponda;
-
-VII.- Registrar en el libro de Gobierno todas las demandas presentadas, así como llevar el control de todas las promociones en el libro que corresponda;
-
-VIII.- Llevar un registro de los expedientes, por año y número progresivo, con los datos necesarios;
-
-IX.- Turnar a quien le corresponda y en forma inmediata, los escritos y las promociones que reciba;
-
-X.- Cuidar, que no tengan acceso al interior del archivo personas ajenas al mismo;
-
-XI.- Cuidar los sellos oficiales del Tribunal, siendo directamente responsable del uso que se les dé;
-
-XII.- Dar cuenta inmediatamente al Presidente o al Secretario General de cualquier deficiencia o irregularidad que advierta en el manejo de los expedientes; y
-
-XIII.- Rendir los informes que le requieran el Presidente o el Secretario General.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 18], P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 21.
 
-Queda prohibido a los servidores Públicos adscritos al Archivo extraer documentos o los expedientes que ahí se encuentren.
+Los Actuarios tendrán las siguientes obligaciones y facultades:
+
+I. Practicar las notificaciones en los términos que marque la Ley y realizar las diligencias ordenadas por el Pleno o el Presidente;
+
+II. Levantar las actas correspondientes en el lugar donde practiquen las diligencias en forma pormenorizada, dando fe de los hechos que se susciten;
+
+III. Poner inmediatamente a disposición del Presidente, los valores o dinero que sean embargados, salvo que exista autorización expresa para efectuar el pago directamente al interesado, previa identificación y recibo correspondiente;
+
+IV. Otorgar recibo de los expedientes que se les turnen para la práctica de alguna diligencia, en el libro que se lleve para tal efecto y devolverlo de manera inmediata, una vez concluida;
+
+V. Solicitar, cuando lo estime necesario, el auxilio de la fuerza pública, dando cuenta de ello al Presidente o al Secretario General;
+
+VI. Abstenerse de suspender la diligencia ordenada salvo que exista una causa debidamente justificada, dando cuenta inmediatamente al Presidente; y
+
+VII. Las demás que les confieran la Ley o les encomiende el Presidente.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 19], P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 22.
 
-Del Archivo General dependerá la Oficialía de Partes.
+Los Actuarios deberán satisfacer los siguientes requisitos:
+
+I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
+
+II. Ser pasante de la carrera de Licenciado en Derecho, debiendo tener como mínimo el 70% de avance en la Licenciatura;
+
+III. No pertenecer al estado eclesiástico o algún culto religioso; y
+
+IV. No haber sido condenado por delito intencional sancionado con pena corporal.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 20], P.O. 1 DE MAYO DE 2002)</small>
 
 ###### Artículo 23.
+
+El archivista tendrá las facultades y obligaciones siguientes:
+
+I. Controlar y conservar los expedientes en trámite, así como los documentos y Libros de Registro;
+
+II. Turnar al Archivo General, los expedientes de asuntos concluidos, previo acuerdo del Secretario General;
+
+III. Controlar el examen o consulta de expedientes por parte de los interesados, mediante la cédula de control correspondiente, previo acreditamiento de personalidad;
+
+IV. Entregar al Secretario de Acuerdos, los expedientes que le sean solicitados para el desahogo de una audiencia o diligencia recabando el recibo correspondiente;
+
+V. Vigilar que se guarden y se conserven en buen estado los expedientes;
+
+VI. Recibir los expedientes, escritos y correspondencia que le sean turnados asignándoles el número de folio que les corresponda;
+
+VII. Registrar en el Libro de Gobierno todas las demandas presentadas, así como llevar el control de todas las promociones en el libro que corresponda;
+
+VIII. Llevar un registro de los expedientes, por año y número progresivo, con los datos necesarios;
+
+IX. Turnar a quien le corresponda y en forma inmediata, los escritos y las promociones que reciba;
+
+X. Cuidar que no tengan acceso al interior del archivo personas ajenas al mismo;
+
+XI. Cuidar los sellos oficiales del Tribunal, siendo directamente responsable del uso que se les dé;
+
+XII. Dar cuenta inmediatamente al Presidente o al Secretario General de cualquier deficiencia o irregularidad que advierta en el manejo de los expedientes; y
+
+XIII. Rendir los informes que le requieran el Presidente o el Secretario General.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 21], P.O. 1 DE MAYO DE 2002)</small>
+
+###### Artículo 24.
+
+Queda prohibido a los servidores públicos adscritos al Archivo extraer documentos o los expedientes que ahí se encuentren.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 22], P.O. 1 DE MAYO DE 2002)
+
+###### Artículo 25.
+
+Del Archivo General dependerá la Oficialía de Partes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 23], P.O. 1 DE MAYO DE 2002)
+
+###### Artículo 26.
 
 La Oficialía de Partes tendrá las facultades siguientes:
 
@@ -317,43 +391,63 @@ IV.- Formar y registrar los expedientes con los escritos iniciales presentados; 
 
 V.- Las demás que le encomiende el Archivista.
 
-###### Artículo 24.
-
-En toda correspondencia o documento presentado, se anotará tanto en los originales como en las copias, la fecha, hora de recibo, número progresivo y los anexos que se acompañen, lo anterior acompañado del sello oficial del Tribunal.
-
-###### Artículo 25.
-
-Los asuntos relativos a amparos estarán a cargo del Secretario General.
-
-###### Artículo 26.
-
-El Secretario General, como encargado del área de amparos tendrá la obligación de cumplir con las disposiciones establecidas en la Ley de Amparo cuando el Tribunal sea parte en el juicio de garantías.
+(REUBICADO [N. DE E. ANTES ARTICULO 24], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 27.
 
-El Presidente será suplido en sus ausencias temporales hasta por 15 días, por el Secretario General. En aquellas de 16 o más días, será suplido por el servidor público que designe el Pleno.
+En toda correspondencia o documento presentado, se anotará tanto en los originales como en las copias, la fecha, hora de recibo, número progresivo y los anexos que se acompañen, lo anterior acompañado del sello oficial del Tribunal.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 25], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 28.
 
-Los servidores Públicos que desempeñen cargos de Secretarios Generales, Auxiliares y Actuarios, serán suplidos en sus ausencias temporales por el servidor público que designe el Presidente.
+Los asuntos relativos a amparos estarán a cargo del Secretario General.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 26], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 29.
 
-En caso de separación definitiva del cargo, en tanto se otorga el nombramiento que corresponda, el Presidente designará al servidor público que desempeñará esas funciones.
+El Secretario General, como encargado del área de amparos tendrá la obligación de cumplir con las disposiciones establecidas en la Ley de Amparo cuando el Tribunal sea parte en el juicio de garantías.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 27], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 30.
 
-El incumplimiento de las obligaciones del personal jurídico y de los servidores públicos generales del Tribunal, que no constituya un caso de rescisión de la relación laboral, se sancionará con amonestación o suspensión del cargo hasta por tres meses.
+El Presidente será suplido en sus ausencias temporales hasta por 15 días, por el Secretario General. En aquellas de 16 o más días, será suplido por el servidor público que designe el Pleno.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 31.
 
-Para la imposición de las sanciones a que se refiere el artículo anterior el Presidente practicará una investigación, con audiencia del interesado, y le impondrá la sanción que corresponda.
+Los servidores Públicos que desempeñen cargos de Secretarios Generales, Auxiliares y Actuarios, serán suplidos en sus ausencias temporales por el servidor público que designe el Presidente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 32.
 
-Para imponer las sanciones se tomarán en consideración las circunstancias del caso y los antecedentes del servidor público.
+En caso de separación definitiva del cargo, en tanto se otorga el nombramiento que corresponda, el Presidente designará al servidor público que desempeñará esas funciones.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 1 DE MAYO DE 2002)
 
 ###### Artículo 33.
+
+El incumplimiento de las obligaciones del personal jurídico y de los servidores públicos generales del Tribunal, que no constituya un caso de rescisión de la relación laboral, se sancionará con amonestación o suspensión del cargo hasta por tres meses.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 1 DE MAYO DE 2002)</small>
+
+###### Artículo 34.
+
+Para la imposición de las sanciones a que se refiere el artículo anterior, el Presidente practicará una investigación con audiencia del interesado y le impondrá la sanción que corresponda.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 1 DE MAYO DE 2002)
+
+###### Artículo 35.
+
+Para imponer las sanciones se tomarán en consideración las circunstancias del caso y los antecedentes del servidor público.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 33], P.O. 1 DE MAYO DE 2002)
+
+###### Artículo 36.
 
 La imposición de una sanción produce el efecto de inhibir al servidor público en el conocimiento del negocio en el que se hubiese cometido la falta.
 
@@ -378,3 +472,19 @@ EL SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE MAYO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda, la Oficialía Mayor y la Secretaría de Gobierno apoyarán administrativa y financieramente al Tribunal Estatal de Conciliación y Arbitraje para que pueda hacer uso del presupuesto asignado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a las contenidas en el presente Decreto.
