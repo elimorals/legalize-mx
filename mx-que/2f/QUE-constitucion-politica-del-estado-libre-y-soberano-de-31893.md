@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1975-07-10"
+last_updated: "1976-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1975.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 1976.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -309,17 +309,25 @@ Los Poderes Públicos del Estado sólo podrán hacer aquello para lo que expresa
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1976)</small>
 
 ###### Art. 31.
 
-El Poder Legislativo, se Deposita en una Asamblea que se denominará Legislatura del Estado. Esa se compondrá de Representantes del Pueblo, que serán electos en su totalidad cada tres años, directamente por aquél de acuerdo con la Ley Electoral.
+El Poder Legislativo de Querétaro se deposita en agrupación que se denomina LEGISLATURA DEL ESTADO, la cual se integrará por representantes del pueblo que serán electos directamente, cada tres años, por los ciudadanos Queretanos que tengan derecho a votar. Dicha agrupación se complementará con Diputados de Partido que se designarán, de acuerdo con lo que acerca de diputados disponen la Ley Electoral del Estado y las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1943)</small>
+I.- Los Partidos Políticos nacionales y los locales que hayan sido registrados conforme a la Ley, por lo menos un año antes del día de la elección, si obtienen el 10% de la votación total en las respectivas elecciones, tendrán derecho a que se les acredite, de entre sus candidatos, a un Diputado, y a otro, si obtienen el 6% mas del número de votos emitidos. Los diputados de mayoría excluyen a los Diputados de Partido.
+
+II.- Si dichos Partidos logran obtener mayoría de votos en mas de dos Distritos Electorales, ya no tendrán derecho a que se les reconozcan Diputados de Partido.
+
+III.- Los Diputados de Partido serán reconocidos por riguroso orden, con relación a los demás candidatos del mismo Partido en toda la Entidad, de acuerdo con el mayor número de sufragios que hayan logrado en la respectiva elección en toda la Entidad.
+
+IV.- Los Diputados de Partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones que los Diputados restantes.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1976)</small>
 
 ###### Art. 32.
 
-Por cada treinta mil habitantes de cualquier sexo o edad, o fracción mayor de quince mil, se elegirá un Diputado Propietario y un Suplente; pero en ningún caso el número de éstos será mayor de nueve propietarios y nueve suplentes para todo el Estado.
+Por cada 100,00 (sic) habitantes o fracción mayor de 50,000, se elegirá un Diputado Propietario y un suplente; en ningún caso el número de electos será menor de nueve propietarios y nueve suplentes para todo el Estado.
 
 ###### Art. 33.
 
@@ -1730,3 +1738,7 @@ Se derogan todas las disposiciones que se opongan al presente Ley.
 ###### Artículo 4o.
 
 La presente Ley comenzará a surtir sus efectos dos días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 1976
+
+UNICO.- La presente Ley, previa declaratoria del H. Congreso Local comenzará a surtir sus efectos una vez que la Mayoría de los Ayuntamientos la aprueben según lo dispone el artículo 163 de la propia Constitución.
