@@ -4,7 +4,7 @@ identifier: "LEVCT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-05-25"
-last_updated: "1991-07-22"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=823&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LEVCT"
 
 LEY SOBRE ELABORACION Y VENTA DE CAFE TOSTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
 
-Ley publicada en el Diario Oficial de la Federación el jueves 25 de mayo de 1972.
+Ley publicada en el Diario Oficial de la Federación, el jueves 25 de mayo de 1972.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -60,7 +60,9 @@ IV.- Infusiones.
 
 Para los efectos de esta Ley, se considera café puro a aquel que no lleve ninguna mezcla.
 
-El café tostado sólo podrá ser mezclado si se observan rigurosamente las normas de información comercial sobre calidad de cumplimiento obligatorio que se elaboren y expidan conforme a la Ley Federal sobre Metrología y Normalización.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+Las mezclas de café y el café mezclado con otros productos observarán rigurosamente las normas que sobre información comercial y de calidad se elaboren y expidan, en los términos establecidos en la Ley Federal sobre Metrología y Normalización, lo que podrá ser demostrado mediante los certificados de conformidad que para el efecto expidan los organismos de certificación acreditados y aprobados.
 
 ###### ARTICULO 4o.
 
@@ -74,27 +76,33 @@ III.- Cafés o cafeterías, los establecimientos que expenden al público la beb
 
 Un mismo establecimiento podrá tener a la vez el carácter de tostador, expendio y café o cafetería.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 5o.
 
-El café tostado, exceptuando el café en grano y el molido a la vista del consumidor sólo podrá venderse en envases cerrados, sellados o precintados que ostenten clara y verazmente los siguientes datos:
+El café tostado, exceptuando el café en grano y el molido a la vista del consumidor, sólo podrá venderse en envases cerrados, sellados o precintados que ostenten clara y verazmente los siguientes datos:
 
-I.- Nombre y dirección del titular y número del registro ante la Secretaría de Salubridad y Asistencia;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+I.- Nombre y dirección del titular y número del registro ante la Secretaría de Salud;
 
 II.- Denominación y marca del producto;
 
 III.- Peso o volumen neto del producto que contiene el envase; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE JULIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-IV.- En el caso de mezclas, la información que requieran la o las normas de cumplimiento obligatorio a que se refiere el artículo 3o. de esta Ley, las cuales, por lo menos exigirán que se revele claramente el contenido de sustancias o materia extraña que contenga y su porcentaje respecto del contenido de café tostado; de su caso, la mención de los aditivos necesarios para conservar el producto que se le han incorporado y si se le han extraído parcial o totalmente las sustancias naturales;
+IV.- En el caso de café mezclado con otros productos, la información que requieran las normas a que se refiere el artículo 3 de esta Ley, la cual deberá exigir la declaración puntual de las sustancias o materia extraña que contenga y ostentar su porcentaje respecto del contenido de café tostado, con letra dos veces más grande que la palabra café; así como la mención de los aditivos incorporados para conservar el producto y las sustancias naturales que se le hayan extraído parcial o totalmente.
 
 V.- Los demás que exijan las leyes y reglamentos aplicables.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 6o.
 
-Los expendios de café y los cafés o cafeterías autorizados para operar tostador y molino de café, tendrán a la vista del público el café a granel durante su elaboración, y usarán para su venta, envases cerrados, sellados o precintados en que aparezcan impresos los datos a que se refiere el Artículo 5o.
+Los expendios de café y los cafés o cafeterías autorizados para operar tostador o molino de café, tendrán a la vista del público el café a granel durante su elaboración, y usarán para su venta, envases cerrados, sellados o precintados en que aparezcan impresos los datos a que se refiere el Artículo 5o.
+
+Dichos establecimientos otorgarán información clara al consumidor sobre las calidades, tipo de preparación, tostado, grado de molido y aquéllos pertinentes, que permitan la identificación del producto con el objeto de fomentar el consumo de café de calidad y mejorar la imagen del café mexicano.
 
 ###### ARTICULO 7o.
 
@@ -114,11 +122,11 @@ IV.- (DEROGADA, D.O.F. 22 DE JULIO DE 1991)
 
 V.- (DEROGADA, D.O.F. 22 DE JULIO DE 1991)
 
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 8o.
 
-El Instituto Mexicano del Café auxiliará a las Secretarías de Salubridad y Asistencia y de Industria y Comercio, conforme a las atribuciones de éstas, en la aplicación de la presente Ley. La Secretaría de Industria y Comercio, escuchando al Instituto, acreditará la calidad de las marcas, productos y tipos de café que se ajusten a las disposiciones de este ordenamiento y de sus reglamentos.
+El Consejo Mexicano del Café auxiliará a las Secretarías de Salud y de Economía, conforme a las atribuciones de éstas, en la aplicación de la presente Ley. La Secretaría de Economía promoverá las acciones que permitan la certificación de las marcas, productos y tipos de café, en cuanto al cumplimiento de las disposiciones de este ordenamiento y de sus reglamentos y de las normas oficiales aplicables al café tostado en materia de calidad y etiquetado.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
@@ -159,3 +167,13 @@ D.O.F. 22 DE JULIO DE 1991.
 PRIMERO.- Estas reformas entrarán en vigor precisamente a los 60 días hábiles de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Comercio y Fomento Industrial procederá a determinar las Organizaciones y organismos o entidades de productores, industriales, comercializadores y consumidores de café que, en los términos de la Ley Federal sobre Metrología y Normalización, procederán a constituir un Comité Consultivo de Normalización que se aboque a elaborar el o los proyectos de las normas a que se refiere esta Ley antes o coincidentemente con la entrada en vigor de esta Ley.
+
+D.O.F. 10 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO
+
+A partir de la entrada en vigor de este Decreto, la Secretaría de Economía iniciará, en consulta con el sector cafetalero nacional, y en los términos de la Ley Federal sobre Metrología y Normalización, el proceso que conduzca a la expedición de normas oficiales mexicanas en materia de etiquetado y calidades para mezclas de café y de café mezclado con otros productos.
