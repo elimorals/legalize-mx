@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-2737"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-07"
-last_updated: "1994-08-07"
+last_updated: "2001-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO 2001.
 
 Ley publicada en el Suplemento al No. 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -89,9 +89,11 @@ XIII.- Las demás que ésta y otras leyes penales le señalen.
 
 La Procuraduría General de Justicia del Estado, por medio de los Agentes del Ministerio Público asignados, participarán en la organización de la Dirección de Prevención y Readaptación Social y vigilarán el debido cumplimiento de todas y cada una de las penas y medidas de seguridad que apliquen los tribunales y autoridades administrativas autorizadas para ello.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-Para hacer efectivas las determinaciones de la Dirección de Prevención y Readaptación Social, ésta contará con el apoyo de la Dirección General de Policía Judicial del Estado y de las Direcciones de Seguridad Pública de todos los Municipios del Estado.
+Para hacer efectivas las determinaciones de la Dirección de Prevención y Readaptación Social, ésta contará con el apoyo de la Dirección General de Policía Ministerial en el Estado y de las Direcciones de Seguridad Pública de todos los Municipios del Estado.
 
 ###### ARTICULO 6o.
 
@@ -436,3 +438,11 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
