@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-educacion-publica-13032
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-07"
-last_updated: "1997-11-07"
+last_updated: "2005-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA DE COAHUILA, PUBLICADO EN EL P.O. DE 14 DE ENERO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 7 de noviembre de 1997.
 
@@ -960,3 +962,15 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. OSCAR PIMENTEL GONZALEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE ENERO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Educación Pública de fecha 20 de octubre de 1997, publicado en el Periódico Oficial del Gobierno del Estado número 89 del 7 de noviembre de 1997.
+
+TERCERO.- Se deroga toda disposición que contravenga a las establecidas en este Reglamento.
+
+CUARTO.- Las Facultades atribuidas en Leyes, Decretos, Reglamentos y en general en cualquier disposición o normatividad atribuidas a las Direcciones Generales de Educación, Básica, Media y Terminal, Superior, Planeación y Administración así como las Coordinaciones Generales de Administración y de Relaciones Laborales respectivamente, se entenderán conferidas a la Subsecretaría de Educación Básica, Subsecretaría de Educación Media y Formación para el Trabajo, Subsecretaría de Educación Superior, Subsecretaría de Planeación Educativa, Coordinación General de Administración y Coordinación General de Relaciones Laborales.
