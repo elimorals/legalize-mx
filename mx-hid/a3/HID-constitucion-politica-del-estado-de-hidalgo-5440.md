@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1979-11-01"
+last_updated: "1981-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -34,8 +34,6 @@ Que el H. Congreso del Estado, ha tenido a bien expedir el siguiente
 DECRETO NUM. 1108
 
 La XXV Legislatura Constitucional del Estado Libre y Soberano de Hidalgo, en ejercicio de la facultad que le concede el artículo 105 de la Constitución del Estado, de 15 de septiembre de 1894, y con sujeción a los trámites que el mismo artículo previene, decreta la reforma de dicha Constitución, en los términos siguientes:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN LOS DECRETOS 32, 32 BIS Y 32 TER, POR LA QUINCUAGESIMA LEGISLATURA, MODIFICARON DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA CONSTITUCION DE 1 DE OCTUBRE DE 1920, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DEL 1 DE NOVIEMBRE DE 1979.</small>
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
@@ -125,7 +123,7 @@ P.O. 8 DE NOVIEMBRE DE 1948.
 
 DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
 
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación el en Periódico Oficial del Estado.
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE FEBRERO DE 1952.
 
@@ -1131,7 +1129,9 @@ II. Ser mayor de 28 años de edad; y
 
 III. Tener experiencia en el ramo para el que se le designe.
 
-En el caso particular del Secretario General de Gobierno, deberá requerirse que éste sea Licenciado en Derecho, con título legalmente expedido y registrado.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
+En el caso particular del Secretario General de Gobierno, deberá requerirse que éste sea Licenciado, con título legalmente expedido y registrado.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2128,6 +2128,10 @@ P.O. 1 DE NOVIEMBRE DE 1979.
 3o.- En tanto se expidan las leyes orgánicas relativas, continuarán en observancia las vigentes, así como los Decretos y Reglamentos que no se opongan a la presente Constitución ni la General de la República.
 
 4o.- Estas reformas y adiciones constitucionales entrarán en vigor quince días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1981.
+
+Artículo Único.- Este Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 3o.
 
