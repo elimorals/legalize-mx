@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2004-01-13"
+last_updated: "2005-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -72,7 +72,7 @@ VII.- DIPUTADO: a los Diputados miembros de la Asamblea; y
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-VIII.- UNIDADES ADMINISTRATIVAS: La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas y la Coordinación de Servicios Parlamentarios.
+VIII.- UNIDADES ADMINISTRATIVAS: La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas y la Coordinación de Servicios Parlamentarios;
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -118,9 +118,13 @@ I.- El Secretario de la Comisión dará lectura a la lista de los Diputados que 
 
 II.- El Presidente de la Comisión pedirá a los Diputados presentes que se pongan de pie y les tomará la protesta de la siguiente forma:
 
-Presidente: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Diputado a la Asamblea Legislativa del Distrito Federal que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal?".
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Presidente: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Diputado a la Asamblea Legislativa del Distrito Federal que el pueblo les ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal?".
 
 Diputados: "Sí, protesto"
+
+(REPUBLICADO, G.O. 30 DE MARZO DE 2005)
 
 Presidente: "Si no lo hiciereis así, que la Nación os lo demande"
 
@@ -146,6 +150,10 @@ La constitución de los Grupos Parlamentarios se hará dentro de los cinco días
 
 La Mesa Directiva hará del conocimiento del Pleno los Grupos Parlamentarios constituidos en la Asamblea.
 
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cada Grupo Parlamentario nombrará y denominará a una persona que cumplirá con las funciones de Enlace con la Comisión de Gobierno y los demás Grupos Parlamentarios. Dicho nombramiento deberá ser comunicado a la Comisión de Gobierno.
+
 ###### Artículo 11.
 
 Cuando un partido político cambie de denominación, el Grupo Parlamentario respectivo podrá también cambiar su denominación comunicándolo al Pleno.
@@ -156,7 +164,9 @@ En el caso de que un Grupo Parlamentario se disuelva, el que fue coordinador inf
 
 Los Diputados de un Grupo Parlamentario que se disuelva no podrán incorporarse a otro grupo, habiéndose separado del primero se considerará sin partido o independientes.
 
-Los Diputados de un Grupo Parlamentario no podrán incorporarse a otro grupo, separados del primero se considerarán sin partido o independientes, pero conservaran (sic) los derechos y obligaciones que establece la Ley Orgánica y el presente Reglamento.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Los Diputados de un Grupo Parlamentario no podrán incorporarse a otro grupo, separados del primero se considerarán sin partido o independientes, pero conservarán los derechos y obligaciones que establece la Ley Orgánica y el presente Reglamento.
 
 ###### Artículo 13.
 
@@ -170,13 +180,27 @@ La constitución, fusión e integración de un nuevo Grupo Parlamentario será n
 
 Los Diputados que deseen abandonar el Grupo Parlamentario al que pertenezcan, serán considerados sin partido o independientes, y no podrán integrarse a un Grupo Parlamentario ya constituido, ni conformar uno nuevo.
 
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Los Diputados sin partido y los Diputados que sean la única representación del partido que los postuló, no podrán integrarse a un Grupo Parlamentario ya constituido después de haberse cumplido los supuestos señalados en el artículo 10 del presente Reglamento.
+
 ###### Artículo 16.
 
 Atendiendo al número de integrantes de cada Grupo Parlamentario, la Asamblea, con cargo a su presupuesto, pondrá a disposición de éstos, espacios físicos dentro de sus inmuebles, recursos materiales, recursos humanos y recursos económicos los cuales deberán ser suficientes para el buen funcionamiento de cada Grupo Parlamentario y en su caso, el desempeño de las funciones legislativas de cada Diputado.
 
-Para el buen funcionamiento de lo estipulado en el párrafo anterior, la Oficialía Mayor deberá dar a conocer a los Grupos Parlamentarios, el inventario de muebles e inmuebles con que cuenta en un plazo no mayor a un mes contados a partir de la apertura del primer periodo de Sesiones Ordinarias del primer año de cada legislatura, mediante escrito dirigido a los coordinadores de cada Grupo.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Para el buen funcionamiento de lo estipulado en el párrafo anterior, la Oficialía Mayor deberá dar a conocer a los Grupos Parlamentarios, el inventario de muebles e inmuebles con que cuenta en un plazo no mayor a un mes contados a partir de la apertura del primer periodo de Sesiones Ordinarias del primer año de cada legislatura, mediante escrito dirigido a la persona responsable de la función administrativa y financiera de cada Grupo.
 
 A más tardar en el plazo de dos meses, la Oficialía Mayor de acuerdo a sus disponibilidades deberá atender los requerimientos de personal, recursos materiales y espacios físicos dentro de sus inmuebles, que requieran los Grupos Parlamentarios para el buen desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Lo señalado en este artículo también será aplicable a los Diputados Independientes, en cuyo caso la comunicación será directa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+La persona responsable de la función administrativa y financiera a que se refiere el párrafo segundo de este artículo, será nombrado y denominado como lo determine cada Grupo Parlamentario, lo cual será comunicado a la Comisión de Gobierno.
 
 ###### Artículo 17.
 
@@ -228,9 +252,11 @@ III.- Un Diputado, agotado el tiempo y número de sus intervenciones continuara 
 
 #### SECCIÓN 1
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+
 ###### Artículo 25.
 
-Los Diputados serán amonestados por el Presidente de la Mesa Directiva o por la Comisión de Gobierno en los recesos de la Asamblea, con constancia en el acta:
+Los Diputados serán amonestados por el Presidente de la Mesa Directiva del Pleno o por el Presidente de la Mesa Directiva de la Diputación Permanente en los recesos de la Asamblea, con constancia en el acta:
 
 I.- Cuando en la misma sesión en la que se le aplicó una amonestación, incurra de nueva cuenta en alguna de las causas previstas en el artículo anterior;
 
@@ -260,6 +286,14 @@ I.- La sanción será aplicada por la Tesorería, a petición del Presidente de 
 
 II.- Para la aplicación de la sanción correspondiente a descuento por inasistencia, el Presidente respectivo, deberá enviar a la Tesorería copia simple, con su firma autógrafa de la lista de asistencia que corresponda al descuento que habrá de aplicarse.
 
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Durante los primeros cinco días de cada mes, la Coordinación General de Servicios Parlamentarios, con base en la información que remitan los Presidentes de las Comisiones y Comités, así como de la información que obtenga de las versiones estenográficas del Pleno y de la Diputación Permanente, enviará a la Coordinación General de Comunicación Social, las listas de asistencias de los Diputados que hayan concurrido a éstas para que las publique en la página de internet de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Durante los primeros 15 días del mes de septiembre, la Coordinación General de Servicios Parlamentarios, hará un balance general de asistencia de los Diputados a la Asamblea Legislativa del último año, mandando a publicarla en cuando menos, dos diarios de circulación nacional.
+
 ### CAPITULO III. DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
 
 PRIMERA PARTE
@@ -268,9 +302,11 @@ DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
 
 #### SECCIÓN 1. DE LAS COMISIONES Y COMITÉS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+
 ###### Artículo 28.
 
-El despacho de los asuntos de la Asamblea comprende el examen e instrucción hasta su dictamen u opinión, que deberá elaborar la Comisión o Comisiones a las que les sea turnado para su trámite.
+El despacho de los asuntos de la Asamblea comprende el examen e instrucción de éstos hasta su dictamen u opinión, que deberá elaborar la Comisión o Comisiones a las que les sea turnado para su trámite.
 
 Las Comisiones son órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización e investigación de la Asamblea.
 
@@ -280,13 +316,25 @@ Las Comisiones conocerán en el ámbito de su competencia, de las Iniciativas, P
 
 Las Comisiones podrán efectuar directamente investigaciones, foros y consultas legislativas sobre los asuntos a su cargo; así como coadyuvar con el Comité de Atención, Orientación y Quejas Ciudadanas en la gestión de los asuntos que se les encomienden.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+
 ###### Artículo 29.
 
-El Presidente de la mesa directiva podrá turnar un asunto, propuesta o iniciativa, en razón de su naturaleza, a dos o más Comisiones para que lo estudien y dictaminen en forma conjunta.
+El Presidente de la mesa directiva podrá turnar un asunto, propuesta o iniciativa, en razón de su naturaleza, preferentemente a un máximo de dos Comisiones para que lo estudien y dictaminen en forma conjunta.
 
 Igualmente, cualquier Comisión podrá reunirse con otra cuando el asunto en estudio se encuentre vinculado con las materias de esa Comisión.
 
-Cuando un asunto haya sido turnado a dos o más Comisiones, corresponderá a las mesas directivas de las Comisiones involucradas, el presentar al interior de cada una de las Comisiones un dictamen previo del asunto, propuesta o iniciativa de que se trate, debiendo discutirse el mismo, a fin de que las Comisiones emitan un solo dictamen en conjunto.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cuando un asunto haya sido turnado a dos o más Comisiones, corresponderá a las mesas directivas de las Comisiones involucradas, coordinar la integración de un sólo dictamen a fin de que emitan un dictamen en conjunto.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Cuando se efectúen reuniones de trabajo en Comisiones Unidas, se requerirá de la asistencia de la mitad más uno de los Diputados que integren cada Comisión, a efecto de poder conformar el quórum.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Se aplicará el mismo criterio para aprobar o desechar las propuestas planteadas al interior de las Comisiones Unidas.
 
 ###### Artículo 30.
 
@@ -304,15 +352,19 @@ Corresponderá a la Secretaría Técnica de cada comisión brindar la informaci�
 
 Los Diputados integrantes de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
+
 ###### Artículo 32.
 
-Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen deberá contener una parte expositiva de las razones en que se funde, las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
+Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan sujetarse a votación.
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. En todos los casos, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
 
-En caso de negativa respecto a la ampliación, el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, el Presidente enviará la iniciativa a la Comisión de Estudios Legislativos y Practicas Parlamentarias consultándole al Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+En caso de negativa respecto a la ampliación, el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, consultándole al Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
 
 Lo anterior sin detrimento de lo que dispone el artículo 89 del presente Reglamento.
 
@@ -326,7 +378,9 @@ Las Comisiones, previo acuerdo de sus miembros, podrán solicitar de la Administ
 
 Podrán igualmente solicitar la presencia ante ellas de servidores públicos del Gobierno del Distrito Federal, para que informen sobre asuntos relacionados con sus respectivas competencias.
 
-La solicitud relativa a la presencia de servidores públicos en Comisiones, que deberá ser firmada por el Presidente de la Comisión respectiva, será remitida al Jefe de Gobierno por el Presidente de la Mesa Directiva o, en los recesos, por el Presidente de la Diputación Permanente. La solicitud hará mención al motivo o asunto sobre el que la Comisión desea se informe.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+La solicitud relativa a la presencia de servidores públicos en Comisiones, que deberá ser firmada por el Presidente de la Comisión respectiva, será remitida al Jefe de Gobierno por el Presidente de la Mesa Directiva o, en los recesos, por el Presidente de la Comisión de Gobierno. La solicitud hará mención al motivo o asunto sobre el que la Comisión desea se informe.
 
 Las Comisiones podrán igualmente invitar a estar presentes en sus sesiones de trabajo a personas que por razón de su oficio, ocupación o profesión posean conocimientos útiles para el mejor cumplimiento de las tareas propias de la Comisión. En estos casos, el Presidente de la Comisión extenderá directamente las invitaciones.
 
@@ -348,11 +402,15 @@ Cuando uno o más integrantes de una Comisión tuvieran interés personal en alg
 
 Los Presidentes de las Comisiones son responsables de los expedientes que en su caso, pasen para su estudio y, a este efecto, deberán firmar el recibo de ellos en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando fuesen devueltos.
 
-Al terminar la Legislatura, los Presidentes de Comisión dejarán un informe de las principales actividades desarrolladas por ésta, así como una memoria de las reuniones de trabajo y los principales resolutivos o acuerdos, los cuales les serán entregados a la Coordinación de Servicios Parlamentarios Mayor por escrito.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Previo al término de la Legislatura, los Presidentes de Comisión presentarán un informe de las principales actividades desarrolladas por ésta, así como una memoria de las reuniones de trabajo y los principales resolutivos o acuerdos, los cuales les serán entregados a la Coordinación General de Servicios Parlamentarios por escrito.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 39.
 
-Las Comisiones sesionarán por lo menos una vez cada dos meses. Podrán igualmente hacerlo en fechas diversas, previa convocatoria de su Presidente y de su Secretario.
+Las Comisiones sesionarán por lo menos una vez al mes. Podrán igualmente hacerlo en fechas diversas, previa convocatoria de su Presidente y de su Secretario.
 
 Para llevarse a cabo las sesiones de las Comisiones se deberá de contar con el servicio de estenografía, salvo acuerdo en contrario en virtud de que exista causa justificada y se decida por la mayoría de los integrantes de la Comisión.
 
@@ -376,49 +434,83 @@ Dentro de la última semana de cada receso, las Comisiones deberán presentar a 
 
 Los informes servirán para programar los trabajos de los periodos de sesiones.
 
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
 ###### Artículo 43.
 
-Las Comisiones Jurisdiccionales elaborarán el dictamen de declaratoria de pérdida del cargo de Diputado a que se refiere el artículos (sic) 19 de la Ley Orgánica, conforme al siguiente procedimiento:
+La Comisión Jurisdiccional elaborará el dictamen conforme al procedimiento que establezca la Ley de la materia, respecto de los casos que la misma prevea.
 
-I.- El escrito de denuncia se deberá presentar ante la Oficialía Mayor de la Asamblea y ratificarse en esa unidad administrativa dentro de los tres días naturales siguientes a su presentación;
-
-II.- Una vez ratificado el escrito, la Oficialía Mayor lo remitirá a la Mesa Directiva, o a la Comisión de Gobierno en los recesos, para que proceda a la integración de la Comisión Jurisdiccional que deberá elaborar el dictamen correspondiente.
-
-Asimismo, la Mesa Directiva deberá dar cuenta de dicho turno a cada uno de los Coordinadores de los Grupos Parlamentarios;
-
-III.- La Comisión Jurisdiccional procederá, en un plazo no mayor de treinta días hábiles, a determinar si el denunciado percibe remuneración con cargo a otro presupuesto de egresos federal o local o si desempeña otro cargo de elección popular federal o local;
-
-IV.- Dada cuenta del dictamen correspondiente, el Presidente citará al Pleno para que en sesión secreta, se someta a votación dicho dictamen, y
-
-V.- Si el Pleno declara que el Diputado ha incurrido en alguna de las faltas que motivaron al procedimiento, éste quedará inmediatamente separado del cargo y se procederá a cubrir la vacante en los términos que al efecto prescribe la Ley Orgánica.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 44.
 
-Las Comisiones de investigación podrán abocarse a investigar el funcionamiento de las dependencias y entidades de la administración pública central, desconcentrada y paraestatal del Distrito Federal.
+Las Comisiones de Investigación podrán abocarse a investigar todo lo relacionado con las dependencias y entidades de la administración pública central, desconcentrada y paraestatal del Distrito Federal, así como con los órganos políticos administrativos.
 
-Podrán constituirse por acuerdo del Pleno de la Asamblea a propuesta de la cuarta parte de los Diputados a la Asamblea y se integrará con los Diputados que apruebe el pleno, en los términos de lo establecido en la Ley Orgánica.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+Podrán constituirse por acuerdo del Pleno de la Asamblea Legislativa a propuesta de cuando menos 17 Diputados a la Asamblea y se integrará con los Diputados que apruebe el pleno, en los términos de lo establecido en la Ley Orgánica.
 
 Dependiendo de la naturaleza de la investigación a realizar, se le deberá dotar de los recursos suficientes para cumplir eficazmente con su cometido, de acuerdo a la disponibilidad presupuestal de la Asamblea.
 
-El resultado de su investigación consistirá en un informe por escrito que tendrá efectos informativos, el cual deberá ser presentado ante el Pleno o durante los recesos a la Comisión de Gobierno, éstas deberán hacerlas llegar al Jefe de Gobierno.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+El resultado de su investigación consistirá en un informe por escrito, el cual deberá contener los requisitos establecidos en el Reglamento Interior de las Comisiones y ser presentado ante el Pleno o durante los recesos a la Diputación Permanente quienes deberán hacer llegar dicho informe al Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 45.
 
-Las Comisiones Especiales, se constituyen con carácter transitorio, funcionan en términos de lo dispuesto por la Ley Orgánica de la Asamblea, las disposiciones legales de la materia y, cuando así lo acuerde la Asamblea conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el que fueron creadas o bien por determinación del Pleno; su constitución deberá proponerse por la Comisión de Gobierno a petición de cualquiera de los Diputados de la Asamblea.
+Las Comisiones de Investigación contarán con las siguientes facultades:
+
+I.- Solicitar a las autoridades competentes la información necesaria para esclarecer el asunto objeto de investigación;
+
+II.- Citar por conducto del Presidente de la Mesa Directiva o de la Comisión de Gobierno, en los recesos, a los servidores públicos de la Administración Pública del Distrito Federal, que a su juicio puedan aportar mayores elementos para esclarecer la investigación;
+
+III.- Invitar por conducto del Presidente de la Mesa Directiva o de la Comisión de Gobierno, en los recesos, a los particulares involucrados en el caso, que a su juicio puedan aportar mayores elementos para esclarecer la investigación realizada, y
+
+IV.- Colaborar con las demás comisiones cuando el asunto se encuentre vinculado con las materias de la comisión.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 46.
 
-Además de este reglamento las comisiones se regirán por el Reglamento Interior para las Comisiones.
+El informe de resultados que presente la Comisión deberá contener por lo menos, sin perjuicio de lo que disponga el Reglamento Interior de las Comisiones, lo siguiente:
+
+I.- Una relación de los hechos que dieron lugar a la constitución de la Comisión de Investigación;
+
+II.- Un listado de las reuniones celebradas por la Comisión, la fecha y el asunto abordado;
+
+III.- Un listado de toda la información y documentación que se allegó para sustentar la conclusión, y
+
+IV.- Las conclusiones y en su caso, las medidas que la Asamblea Legislativa en el ámbito de sus atribuciones emprenderá o se deban de emprender con motivo de los resultados.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 47.
 
-Los Comités se integrarán por los Diputados electos por el Pleno a propuesta de la Comisión de Gobierno, debiéndose reflejar en su integración la pluralidad de la Asamblea.
+Las Comisiones Especiales, se constituyen con carácter transitorio, por acuerdo del Pleno; funcionan en términos de lo dispuesto por la Ley Orgánica de la Asamblea, las disposiciones legales de la materia y, cuando así lo acuerde la Asamblea conocerán específicamente de los hechos que hayan motivado su integración y dejarán de existir cuando hayan cumplido el objeto para el que fueron creadas o bien por determinación del Pleno; su constitución deberá proponerse por la Comisión de Gobierno a petición de cualquiera de los Diputados a la Asamblea.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 48.
+
+Además de este reglamento las comisiones se regirán por el Reglamento Interior de las Comisiones.
+
+#### SECCIÓN 2. DE LOS COMITÉS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 49.
+
+Los Comités se integrarán por los Diputados que el Pleno determine, a propuesta de la Comisión de Gobierno, debiéndose reflejar en su integración la pluralidad de la Asamblea.
 
 Las disposiciones relativas a las Comisiones se observarán para los comités en lo que les sean aplicables. Cada Comité deberá expedir su Reglamento Interior y someterlo a aprobación del Pleno.
 
 La Secretaría Técnica estará bajo la dirección del Presidente del Comité, la cual deberá prestar servicio a todos los integrantes del mismo en los asuntos que a éste le atañen.
 
-###### Artículo 48.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 48], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 50.
 
 Corresponde al Comité de Administración:
 
@@ -430,41 +522,45 @@ III.- Expedir los manuales de organización y procedimientos de las unidades adm
 
 IV.- Formular las condiciones generales de trabajo de los servidores públicos de la Asamblea;
 
-V.- Elaborar, en los términos del artículo 48 del presente Reglamento, el anteproyecto del presupuesto de egresos de la Asamblea;
+V.- Elaborar, en los términos del artículo 51 del presente Reglamento, el anteproyecto del presupuesto de egresos de la Asamblea;
 
-VI.- Elaborar y difundir los criterios para otorgar el apoyo a los Grupos Parlamentarios, a las Comisiones y a los Comités;
+VI.- Elaborar y difundir los criterios para otorgar el apoyo a los Grupos Parlamentarios, a las Comisiones y a los Comités, así como a los Diputados Independientes;
 
 VII.- Elaborar los criterios a que se sujetarán los contratos y convenios que se celebren con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles e inmuebles. Dichos criterios señalarán los contratos y convenios que por su monto deberán ser aprobados por el propio Comité;
 
-VIII.- Autorizar la creación de órganos de apoyo administrativo que coadyuven al desempeño de la administración de la Asamblea;
+VIII.- Proponer a la Comisión de Gobierno la creación de órganos de apoyo administrativo que coadyuven al desempeño de la administración de la Asamblea;
 
 IX.- Rendir anualmente al Pleno un informe de las actividades desarrolladas;
 
 X.- Conocer y analizar el informe mensual que rinda el Tesorero sobre el ejercicio presupuestal de la Asamblea;
 
-XI.- Elaborar el programa para el ejercicio del gasto anual, y
+XI.- Aprobar el programa para el ejercicio del gasto anual, a propuesta de la Tesorería;
 
-XII.- Fungir como instancia de gestoría, apoyo y consulta de los Diputados, Grupos Parlamentarios, Comisiones y Comités, para sus requerimientos de recursos humanos, financieros, materiales y de servicios;
+XII.- Fungir como instancia de gestión, apoyo y consulta de los Diputados, Grupos Parlamentarios, Comisiones y Comités, para sus requerimientos de recursos humanos, financieros, materiales y de servicios, y
 
 XIII.- Elaborar y publicar las convocatorias al concurso de oposición para los titulares de las unidades administrativas, de acuerdo con lo que establece el Reglamento del Concurso de Oposición para los Titulares de las unidades administrativas de la Asamblea Legislativa del Distrito Federal.
 
-#### SECCIÓN 2. DE LOS COMITÉS
-
-###### Artículo 49.
-
-Para la elaboración del presupuesto de la Asamblea, el Comité de Administración remitirá sus criterios al Tesorero, quien será responsable de preparar el anteproyecto de presupuesto que durante el mes de septiembre someterá a consideración del Comité para su discusión y presentación a la Comisión de Gobierno.
-
-###### Artículo 50.
-
-Para la elaboración de los criterios relacionados con el apoyo a los Grupos Parlamentarios, el Comité de Administración recabará el punto de vista de la Comisión de Gobierno, quien finalmente lo presentará al Pleno.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 49], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 51.
 
-El informe anual del ejercicio del gasto que el Comité de Administración debe presentar al Pleno, será elaborado por el Oficial Mayor y por el Tesorero de la Asamblea, en la esfera de sus respectivas competencias. Dicho informe se presentará al Pleno durante el mes de marzo siguiente a la conclusión del ejercicio respectivo.
+Para la elaboración del proyecto de presupuesto que se someterá a la aprobación del Pleno de la Asamblea, el Comité de Administración remitirá sus criterios al Tesorero, quien será responsable de preparar el anteproyecto respectivo, mismo que una vez sometido a la consideración del Comité, se presentará a la Comisión de Gobierno para los efectos del artículo 44 fracción III de la Ley Orgánica.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 50], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 52.
+
+Para la elaboración de los criterios relacionados con el apoyo a los Grupos Parlamentarios, el Comité de Administración recabará el punto de vista de la Comisión de Gobierno, quien finalmente lo presentará al Pleno.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 51], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 53.
+
+El informe anual del ejercicio del gasto que el Comité de Administración debe presentar al Pleno, será elaborado por el Oficial Mayor y por el Tesorero de la Asamblea, en la esfera de sus respectivas competencias. Dicho informe se presentará al Pleno durante el mes de marzo siguiente a la conclusión del ejercicio respectivo.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 54.
 
 Corresponde al Comité de Asuntos Editoriales:
 
@@ -482,17 +578,19 @@ VI.- Publicar las memorias de la Asamblea;
 
 VII.- Difundir los temas más trascendentes para la vida política y social del Distrito Federal, a través de medios escritos, electrónicos o cualquier otro que sirva al propósito;
 
-VIII.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades; y
+VIII.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades editoriales; y
 
 IX.- Los demás asuntos inherentes al tema editorial.
 
-> <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52 BIS], G.O. 30 DE MARZO DE 2005)</small>
 
-Artículo 52 bis.- Corresponde al Comité de Bibliotecas:
+###### Artículo 55.
+
+Corresponde al "Comité de la Biblioteca Francisco Zarco":
 
 I.- Administrar la biblioteca de la Asamblea en los términos del propio reglamento de la Biblioteca;
 
-II.- Mantener actualizada y vigentes las colecciones bibliográficas de la Asamblea y dotar las facilidades a los Diputados, autoridades y público en general para su consulta;
+II.- Mantener actualizadas y vigentes las colecciones bibliográficas de la Asamblea y otorgar las facilidades a los Diputados, autoridades y público en general para su consulta;
 
 III.- Promover el estudio de los temas referentes al Distrito Federal y auspiciar la consulta bibliográfica de la población sobre dichos temas;
 
@@ -500,11 +598,13 @@ IV.- Custodiar en la biblioteca la información que pongan a su disposición las
 
 V.- Impulsar que la Biblioteca de la Asamblea sea un espacio de producción de conocimientos sobre la ciudad y sus temas legislativos;
 
-VI.- Celebrar convenios interbibliotecarios con otros órganos legislativos e institucionales de educación superior y centros de investigación; y
+VI.- Celebrar convenios interbibliotecarios con otros órganos legislativos e institucionales de educación superior y centros de investigación, y
 
-VII.- Difundir al interior de la Asamblea el acervo con que cuenta la Biblioteca de la Asamblea, así como las próximas adquisiciones.
+VII.- Difundir en el interior de la Asamblea el acervo con que cuenta la Biblioteca "Francisco Zarco", así como las próximas adquisiciones."
 
-###### Artículo 53.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 53], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 56.
 
 Corresponde al Comité de Atención, Orientación y Quejas Ciudadanas, atender y tramitar las demandas o peticiones individuales o colectivas referentes a un problema concreto y particular, así como dar seguimiento a aquellas gestiones o peticiones realizadas por el Pleno, de conformidad con las siguientes atribuciones:
 
@@ -516,11 +616,11 @@ III.- Instalar, instrumentar e integrar de manera pluripartidista, módulos de a
 
 IV.- Proponer la celebración de convenios entre la Asamblea y las autoridades de la administración pública local para la instalación de los módulos a que se refiere la fracción anterior;
 
-V.- Realizar visitas y giras de trabajo, por si o conjuntamente con las autoridades de la administración pública local, para supervisar los avances y terminación de las obras de beneficio social, o programas sociales que instrumente el Gobierno del Distrito Federal;
+V.- Realizar visitas y giras de trabajo, por sí o conjuntamente con las autoridades de la administración pública local, para supervisar los avances y terminación de las obras de beneficio social, o programas sociales que instrumente el Gobierno del Distrito Federal;
 
-VI.- Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y del trámite que les dio a las mismas, y
+VI.- Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y del trámite que les dio a las mismas;
 
-VII.- Actuar de forma conjunta con las Comisiones correspondientes, para la solución de los problemas que se le presenten;
+VII.- Actuar de forma conjunta con las Comisiones correspondientes, para la solución de los problemas que se le presenten, y
 
 VIII.- Solicitar a las autoridades del Distrito Federal la información que considere procedente para el cumplimiento de sus funciones.
 
@@ -528,25 +628,35 @@ SEGUNDA PARTE
 
 DE LAS UNIDADES ADMINISTRATIVAS Y SUS FUNCIONES
 
-###### Artículo 54.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 54], G.O. 30 DE MARZO DE 2005)</small>
 
-Para su función, organización y operación, la Asamblea contara con Unidades Administrativas, las que dependerán directamente, en su desempeño y el ejercicio de sus funciones, de la Comisión de Gobierno.
+###### Artículo 57.
 
-Las Unidades Administrativas realizarán trimestralmente informes por escrito sobre el cumplimiento de las metas y objetivos planteados en sus programas de trabajo, dicho informe será remitido a la Contraloría Interna para su evaluación.
+Para su función, organización y operación, la Asamblea contará con Unidades Administrativas, las que dependerán directamente, en su desempeño y el ejercicio de sus funciones, de la Comisión de Gobierno.
 
-El informe de la Contraloría será evaluado por la Comisión de Gobierno y el Comité de Administración.
+Las Unidades Administrativas realizarán anualmente informes por escrito sobre el cumplimiento de las metas y objetivos planteados en sus programas de trabajo, dicho informe será remitido a la Contraloría Interna para su evaluación.
 
-###### Artículo 55.
+El informe que al efecto elabore la Contraloría será evaluado por la Comisión de Gobierno y el Comité de Administración.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 55], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 58.
 
 Las áreas administrativas que se creen, dependerán jerárquica y funcionalmente de las Unidades Administrativas especificadas en el presente Reglamento y tendrá las funciones que les señale el manual de organización y procedimiento que al efecto expida el Comité de Administración.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 56], G.O. 30 DE MARZO DE 2005)</small>
 
-###### Artículo 56.
+###### Artículo 59.
 
-El Pleno de la Asamblea ratificará por el voto de la mayoría de los miembros presentes en la sesión respectiva, la propuesta que haga la Comisión de Gobierno respecto a los Titulares de cada una de las Unidades Administrativas.
+La Comisión de Gobierno presentará al Pleno la propuesta de los Titulares de cada una de las Unidades Administrativas para su ratificación; para este efecto será necesario el voto de la mayoría de los diputados presentes en la sesión respectiva.
 
-###### Artículo 57.
+(REUBICADA, G.O. 30 DE MARZO DE 2005)
+
+#### SECCIÓN 1. DE LA OFICIALIA MAYOR
+
+(REUBICADO [N. DE E. ANTES ARTICULO 57], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 60.
 
 Corresponde a la Oficialía Mayor de la Asamblea:
 
@@ -564,11 +674,13 @@ VI.- Editar el órgano informativo;
 
 VII.- Cumplimentar los acuerdos que de orden administrativo emita el Comité de Administración, derivado de lo dispuesto en el artículo 47 del presente Reglamento;
 
-VIII.- Publica r el Diario de los Debates;
+VIII.- Publicar el Diario de los Debates;
 
 IX.- Las demás que le señale la Ley Orgánica y el presente Reglamento.
 
-###### Artículo 58.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 61.
 
 Para ser Oficial Mayor de la Asamblea se requiere:
 
@@ -576,23 +688,29 @@ I.- Tener licenciatura o estudios de postgrado en el área económica-administra
 
 II.- Demostrar por los menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cumplir con el perfil de este cargo;
 
-III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio de sociedades en las que alguno de los Diputados forme o haya formado parte; y
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte; y
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-###### Artículo 59.
+(REUBICADA, G.O. 30 DE MARZO DE 2005)
+
+#### SECCIÓN 2. DE LA TESORERÍA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 59], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 62.
 
 Corresponde a la Tesorería de la Asamblea:
 
-I.- Auxiliar, en los términos del artículo 48 del presente Reglamento, al Comité de Administración en la elaboración del anteproyecto de presupuesto de egresos de la Asamblea;
+I.- Preparar y remitir al Comité de Administración el anteproyecto de Presupuesto de Egresos de la Asamblea, en los términos del artículo 51 del presente Reglamento;
 
 II.- Administrar el presupuesto de la Asamblea;
 
-III.- Gestionar ante las autoridades correspondientes, las administraciones de los recursos económicos necesarios para cubrir el presupuesto de egresos de la Asamblea;
+III.- Gestionar ante las autoridades correspondientes, las ministraciones de los recursos económicos necesarios para cubrir el presupuesto de egresos de la Asamblea;
 
 IV.- Entregar las dietas a los Diputados, cubrir los sueldos y demás remuneraciones a los servidores públicos y empleados de la Asamblea, así como realizar los descuentos de carácter legal que se le ordenen;
 
-V.- Velar por el adecuado control y la exacta aplicación de los recursos presupuéstales que sean proporcionados a la Asamblea para cubrir sus gastos de operación;
+V.- Velar por el adecuado control y la exacta aplicación de los recursos presupuestales que sean proporcionados a la Asamblea para cubrir sus gastos de operación;
 
 VI.- Rendir cuentas al Comité de Administración respecto del ejercicio presupuestal a su cargo;
 
@@ -600,9 +718,9 @@ VII.- Intervenir en los actos y contratos en los que la Asamblea sea parte y cuy
 
 VIII.- Las demás que le confieran otras disposiciones legales o reglamentarias de la Asamblea, la Mesa Directiva y el Comité de Administración.
 
-#### SECCIÓN 1. DE LA OFICIALIA MAYOR
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 60], G.O. 30 DE MARZO DE 2005)</small>
 
-###### Artículo 60.
+###### Artículo 63.
 
 Para ser Tesorero de la Asamblea se requiere:
 
@@ -610,21 +728,25 @@ I.- Tener licenciatura o estudios de postgrado en el área económica-administra
 
 II.- Demostrar por lo menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para el perfil de este cargo;
 
-III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio de sociedades en las que alguno de los Diputados forme o haya formado parte; y
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte; y
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-###### Artículo 61.
+#### SECCIÓN 3. DE LA CONTRALORÍA INTERNA
 
-La Contraloría General de la Asamblea tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Asamblea y de la Contaduría, incluyendo los recursos asignados a los grupos parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que la Asamblea les otorgue. La contraloría auditará a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Asamblea.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 61], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 64.
+
+La Contraloría General de la Asamblea tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Asamblea y de la Contaduría, incluyendo los recursos asignados a los grupos parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que la Asamblea les otorgue. La contraloría auditara a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Asamblea.
 
 La Contraloría General presentará al pleno, por conducto de la Comisión de Gobierno, un informe semestral sobre el ejercicio del presupuesto de egresos de la Asamblea.
 
-Las resoluciones del contralor se darán a conocer previamente a la Comisión de Gobierno.
+Las resoluciones del Contralor se darán a conocer previamente a la Comisión de Gobierno.
 
 Además tendrá las siguientes atribuciones:
 
-l.- Apoyar, asistir y asesorar al Comité de Administración y a las demás Unidades Administrativas de la Asamblea y a la Contaduría en el ámbito de su competencia;
+I.- Apoyar, asistir y asesorar al Comité de Administración y a las demás Unidades Administrativas de la Asamblea y a la Contaduría en el ámbito de su competencia;
 
 II.- Conocer e investigar los actos u omisiones de los servidores públicos adscritos a las unidades administrativas de la Asamblea y de la Contaduría, que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares, servidores públicos o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, las cuales se aplicarán a través del superior jerárquico del servidor público sancionado. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones que impongan sanciones a los servidores públicos de la Asamblea y de la Contaduría, en términos de las disposiciones jurídicas y administrativas aplicables.
 
@@ -636,11 +758,11 @@ IV.- Auxiliar a las Unidades Administrativas, en la elaboración y revisión de 
 
 V.- Realizar dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones de las unidades administrativas que integran la Asamblea y la Contaduría, con el objeto de promover la eficiencia en sus operaciones;
 
-VI.- Verificar el cumplimiento de los objetivos contenidos en los Programas de la Asamblea y la Contaduría, formular, con base en los resultados de las auditorías, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
+VI.- Verificar el cumplimiento de los objetivos contenidos en los Programas de la Asamblea y la Contaduría, formular, con base en los resultados de las auditorias, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
 
 VII.- Presentar a la Comisión de Gobierno su Programa Anual de Auditorías y las que deba realizar fuera del mismo, para su aprobación;
 
-VIII.- Informar a la Comisión de Gobierno sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Asamblea y la Contaduría, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión, semestralmente y cada vez que la Comisión de Gobierno lo ordene;
+VIII.- Informar semestralmente a la Comisión de Gobierno sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Asamblea y la Contaduría, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión;
 
 IX.- Intervenir en los procesos de licitación, de adquisición de bienes, servicios, arrendamientos y de obra pública, para vigilar que se cumpla con las normas jurídicas y demás disposiciones técnicas o administrativas aplicables;
 
@@ -662,37 +784,33 @@ XVII.- Calificar los pliegos preventivos de responsabilidades que formulen las �
 
 XVIII.- Representar en el ámbito de su competencia a la Asamblea en términos de lo establecido por el Artículo 36 Fracción XVI de la Ley Orgánica, ante las autoridades administrativas o judiciales, en todos los asuntos en que ésta sea parte, o aquellos que se originen derivados del ejercicio de sus atribuciones legales;
 
-XIX.- Requerir a las unidades administrativas de la Asamblea, de la Contaduría o a los particulares involucrados la información necesaria para el desempeño de sus funciones;
+XIX.- Requerirá a las unidades administrativas de la Asamblea, de la Contaduría o a los particulares involucrados, la información necesaria para el desempeño de sus funciones;
 
 XX.- Certificar los documentos que se encuentren en sus archivos y los que genere en el ejercicio de sus atribuciones; y
 
-XXI.- Las demás que le sean atribuidas por la Ley y demás disposiciones normativas aplicacables (sic).
+XXI.- Las demás que le sean atribuidas por la Ley y demás disposiciones normativas aplicables;
 
-El Subcontralor en la Contaduría Mayor de Hacienda de la Asamblea Legislativa en el Distrito Federal podrá ejercer, en su ámbito de competencia, todas las atribuciones listadas en el presente artículo, excepto las señaladas en las fracciones II, VII, VIII, XIII, XV, XVI y XVIII, las cuales serán ejercidas directamente por la Contraloría General de la Asamblea. No obstante, podrá ejercerlas en caso de que el Contralor General de la Asamblea se las delegue a través de un acuerdo general.
+El Subcontralor en la Contaduría Mayor de Hacienda de la Asamblea Legislativa en el Distrito Federal podrá ejercer, en su ámbito de competencia, todas las atribuciones listadas en el presente artículo, excepto las señaladas en las fracciones II, VII, VIII, XIII, XV, XVI y XVIII, las cuales serán ejercidas directamente por el titular de la Contraloría General de la Asamblea. No obstante, podrá ejercerlas en caso de que el Contralor General de la Asamblea se las delegue a través de un acuerdo general.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 62], G.O. 30 DE MARZO DE 2005)
 
-#### SECCIÓN 2. DE LA TESORERÍA
-
-###### Artículo 62.
+###### Artículo 65.
 
 Al frente de la Contraloría General habrá un Contralor, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralores de Auditoría; de Legalidad y Responsabilidades; de Control y Evaluación; de la Contaduría Mayor de Hacienda de la Asamblea y de los servidores públicos subalternos establecidos en la estructura que apruebe la Comisión de Gobierno y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
 
 En el caso de ausencia del Contralor General de la Asamblea, será suplido por los Subcontralores de Auditoría; de la Contaduría Mayor de Hacienda de la Asamblea; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
 
-###### Artículo 63.
+(REUBICADO [N. DE E. ANTES ARTICULO 63], G.O. 30 DE MARZO DE 2005)
 
-Cuando en las auditorias se detecten irregularidades que afecten a la hacienda pública, deberá dar aviso inmediato a la Comisión de Gobierno.
+###### Artículo 66.
+
+Cuando en las auditorías se detecten irregularidades que afecten a la hacienda pública, deberá dar aviso inmediato a la Comisión de Gobierno.
 
 En caso de que las irregularidades detectadas puedan ser constitutivas de algún delito, la Comisión de Gobierno deberá hacerlo del conocimiento del Ministerio Público, y observar lo que establezcan las demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 64], G.O. 30 DE MARZO DE 2005)</small>
 
-#### SECCIÓN 3. DE LA CONTRALORÍA INTERNA
-
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
-
-###### Artículo 64.
+###### Artículo 67.
 
 Para ser Contralor General de la Asamblea Legislativa se requiere:
 
@@ -700,13 +818,17 @@ I.- Tener Licenciatura o estudios de postgrado en el área económica-administra
 
 II.- Demostrar por lo menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cubrir el perfil de este cargo;
 
-III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio de sociedades en las que alguno de los Diputados forme o haya formado parte;
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-###### Artículo 65.
+#### SECCIÓN 4. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-Corresponde a la Coordinación Genera l de Comunicación Social de la Asamblea:
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 68.
+
+Corresponde a la Coordinación General de Comunicación Social de la Asamblea:
 
 I.- Mantener contacto permanente con los medios de comunicación social, electrónicos y escritos, y sus representantes, a fin de garantizar la plena y oportuna información hacia los ciudadanos del Distrito Federal, acerca de las actividades y opiniones que se desarrollen en la Asamblea;
 
@@ -718,13 +840,19 @@ IV.- Brindar a través de sus áreas, el apoyo institucional que los Diputados s
 
 V.- Fijar una política de comunicación social de acuerdo a los criterios que emita la Comisión de Gobierno y el Comité de Administración;
 
-VI.- Destinar de manera transparente y proporcional los recursos económicos, de tal forma que todos los Grupos Parlamentarios representados en la Asamblea tengan presencia en los medios de comunicación.
+VI.- Destinar de manera transparente y proporcional los recursos económicos, de tal forma que todos los Grupos Parlamentarios representados en la Asamblea tengan presencia en los medios de comunicación;
 
-###### Artículo 66.
+VII.- Publicar en la página de internet de la Asamblea Legislativa y dos diarios de circulación nacional, la lista de asistencia de los Diputados en los términos que se establecen en el artículo 27 de este Reglamento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 66], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 69.
 
 Los Grupos Parlamentarios acreditarán ante la Coordinación General de Comunicación Social dos profesionales de la comunicación, quienes constituirán un Consejo Asesor presidido por el Coordinador General de Comunicación Social, para garantizar el cumplimiento de lo establecido en el artículo anterior.
 
-###### Artículo 67.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 70.
 
 Para ser Coordinador General de Comunicación Social de la Asamblea se requiere:
 
@@ -732,13 +860,15 @@ I.- Poseer y demostrar por lo menos 3 años de ejercicio profesional y una exper
 
 II.- No tener algún cargo directivo dentro de un Partido Político;
 
-III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio de sociedades en las que alguno de los Diputados forme o haya formado parte;
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### SECCIÓN 4. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+#### SECCIÓN 5. DE LA COORDINACIÓN DE SERVICIOS PARLAMENTARIOS
 
-###### Artículo 68.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 71.
 
 Corresponde a la Coordinación de Servicios Parlamentarios:
 
@@ -746,9 +876,9 @@ I.- Auxiliar a la Mesa Directiva en las funciones que le señala la Ley Orgánic
 
 II.- Llevar los libros de control para el despacho de los asuntos que acuerde el Pleno para dar curso a los negocios que ordene el Presidente; así como libros de recepción y devolución de documentos a Comisiones y otro en el que se asienten los documentos recibidos por esta Unidad Administrativa;
 
-III.- Expedir en los recesos de la Asamblea, las copias y certificaciones de las actas y documentos relacionados con las sesiones, que soliciten los Grupos Parlamentarios, los Diputados o cualquier autoridad; así como aquellas de los demás documentos emitidos por las comisiones y comités de la Asamblea, que le sean solicitados por autoridad competente;
+III.- Expedir en los recesos de la Asamblea, las copias y certificaciones de las actas y documentos relacionados con las sesiones del Pleno y Diputación Permanente, así como aquellas de los demás documentos emitidos por las comisiones y comités de la Asamblea que soliciten los Grupos Parlamentarios, los Diputados o cualquier autoridad competente;
 
-IV.- Apoyar al Presidente y a los Secretarios de la Mesa Directiva en el desahogo de las sesiones, y en lo que se refiere a dar tramite a los documentos que sean tratados por el pleno;
+IV.- Apoyar al Presidente y a los Secretarios de la Mesa Directiva en el desahogo de las sesiones, y en lo que se refiere a dar trámite a los documentos que sean tratados por el pleno, en los términos previstos por la Ley Orgánica;
 
 V.- Coordinar la asesoría jurídica y legislativa que se brinde a los Diputados, Mesa Directiva, Comisión de Gobierno, Comisiones y Comités que así lo soliciten, para el buen desarrollo de sus actividades;
 
@@ -756,11 +886,15 @@ VI.- Editar las memorias de la Asamblea y el Diario de los Debates;
 
 VII.- Editar y Publicar la Gaceta Parlamentaria;
 
-VIII.- Coordinar los servicios de estenografía, grabación y sonido, debiendo conservar en el área correspondiente la grabación y versiones estenográficas de las sesiones de las Comisiones y Comités; y
+VIII.- Coordinar los servicios de estenografía, grabación y sonido, debiendo conservar en el área correspondiente la grabación y versiones estenográficas de las sesiones de las Comisiones y Comités;
 
-IX.- Las demás que señale la Ley y el presente Reglamento.
+IX.- Mandar a publicar las listas de asistencias de los Diputados en los términos previstos por el artículo 27 de este Reglamento; y
 
-###### Artículo 69.
+X.- Las demás que señale la Ley y el presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 72.
 
 Para ser Coordinador de Servicios Parlamentarios se requiere:
 
@@ -768,15 +902,19 @@ I.- Tener licenciatura o estudios de postgrado en derecho o alguna rama relacion
 
 II.- Demostrar por los menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cumplir con el perfil de este cargo;
 
-III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio de sociedades en las que alguno de los Diputados forme o haya formado parte; y
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte; y
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-###### Artículo 70.
+#### SECCIÓN 6. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-El Instituto de Investigaciones Legislativas, es un órgano administrativo de la Asamblea, cuyo objetivo es la investigación y difusión de temas relacionados con el estudio, historia, funciones, actividad y prácticas legislativas. El instituto estará a cargo de un director y contará con el personal administrativo que requiera para el desempeño de sus funciones de acuerdo al presupuesto que la Asamblea le asigne, teniendo las siguientes funciones:
+(REUBICADO [N. DE E. ANTES ARTICULO 70], G.O. 30 DE MARZO DE 2005)
 
-I.- Elaborar un programa de actividades e investigaciones que establezca los criterios y acciones de investigación;
+###### Artículo 73.
+
+El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea, cuyo objetivo es la investigación y difusión de temas relacionados con el estudio, historia, funciones, actividad y prácticas legislativas. El instituto estará a cargo de un director y contará con el personal administrativo que requiera para el desempeño de sus funciones de acuerdo al presupuesto que la Asamblea le asigne, teniendo las siguientes funciones:
+
+I.- Elaborar un programa de actividades e investigaciones que establezca los criterios y acciones de investigación.
 
 II.- Realizar las investigaciones legislativas que le sean solicitadas por el Pleno, la Comisión de Gobierno y las Comisiones de la Asamblea;
 
@@ -786,15 +924,15 @@ IV.- Realizar estudios para el perfeccionamiento de las prácticas parlamentaria
 
 V.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de la Asamblea y del público en general, la información, documentación y bibliografía útil en materia legislativa relativa al Distrito Federal;
 
-VI.- Establecer los mecanismos de colaboración y coordinación con Instituciones afines para el cumplimiento de sus objetivos;
+VI.- Establecer los mecanismos de colaboración y coordinación con Instituciones afines para el cumplimiento de sus objetivos.
 
-VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los interesados para su consulta. Asimismo, deberá determinar cuales son las disposiciones legales vigentes en el Distrito Federal y resolver cuales son las que quedan reformadas, derogadas o abrogadas.
+VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los interesados para su consulta. Asimismo, deberá determinar cuáles son las disposiciones legales vigentes en el Distrito Federal y resolver cuáles son las que quedan reformadas, derogadas o abrogadas.
 
-#### SECCIÓN 5. DE LA COORDINACIÓN DE SERVICIOS PARLAMENTARIOS
+(REUBICADO [N. DE E. ANTES ARTICULO 71], G.O. 30 DE MARZO DE 2005)
 
-###### Artículo 71.
+###### Artículo 74.
 
-El Instituto de Investigaciones legislativas, es un órgano administrativo de la Asamblea, el cual estará a cargo de:
+El Instituto de Investigaciones Parlamentarias, es un órgano administrativo de la Asamblea, el cual estará a cargo de:
 
 a) Un Consejo Directivo, conformado por un diputado representante de cada uno de los Grupos Parlamentarios que representan la Asamblea Legislativa.
 
@@ -802,21 +940,25 @@ b) Un Director General.
 
 c) Un Consejo Académico de carácter consultivo; formado de siete personalidades Académicas designadas por el Consejo Directivo.
 
-###### Artículo 72.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 72], G.O. 30 DE MARZO DE 2005)</small>
 
-Para ser Director del Instituto de Investigación Legislativa se requiere:
+###### Artículo 75.
 
-I.- Tener licenciatura o estudios de postgrado en Derecho;
+Para ser Director del Instituto de Investigaciones Parlamentarias se requiere:
+
+I.- Tener licenciatura o estudios de postgrado en Derecho o alguna rama relacionada directamente con las funciones encomendadas;
 
 II.- Demostrar experiencia en materia jurídica o legislativa o en alguna rama de las ciencias sociales;
 
-III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio de sociedades en las que alguno de los Diputados forme o haya formado parte;
+III.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
 
 IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### SECCIÓN 6. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+#### SECCIÓN 6 (SIC). DE LA UNIDAD DE ESTUDIOS Y FINANZAS PUBLICAS DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-###### Artículo 73.
+(REUBICADO [N. DE E. ANTES ARTICULO 73], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 76.
 
 La Unidad de Estudios y Finanzas Públicas es el órgano de apoyo técnico de carácter institucional y no partidista, integrado por especialistas en el análisis, organización y manejo de información relacionada con las finanzas públicas del Distrito Federal.
 
@@ -824,7 +966,9 @@ La Unidad de Estudios y Finanzas Públicas se encargará de preparar y proporcio
 
 Estará a cargo de un Director y contará con el personal administrativo que se requiera para el desempeño de sus funciones de acuerdo al Presupuesto que la Asamblea le designe.
 
-###### Artículo 74.
+(REUBICADO [N. DE E. ANTES ARTICULO 74], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 77.
 
 Las funciones de la Unidad de Estudios de Finanzas Públicas serán las siguientes:
 
@@ -840,11 +984,13 @@ V.- Proporcionar a las comisiones de la Asamblea Legislativa, a los Grupos Parla
 
 VI.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de la Asamblea, la información, documentación y bibliografía útil en materia de finanzas públicas del Distrito Federal; y
 
-VII.- Diseñar, actualizar y operar el sistema de Cálculo Fiscal de la Asamblea, bajo los lineamientos que establezcan en el Programa Estratégico.
+VII.- Diseñar, actualizar y operar el sistema de Cálculo Fiscal de la Asamblea, bajo los lineamientos que se establezcan en el Programa Estratégico.
 
-###### Artículo 75.
+(REUBICADO [N. DE E. ANTES ARTICULO 75], G.O. 30 DE MARZO DE 2005)
 
-La Unidad no podrá entregar, por si misma, información a entidades ajenas a la Asamblea Legislativa. Las opiniones públicas de los integrantes de la Unidad serán siempre a título estrictamente personal, pero deberán guardar la reserva que el ejercicio de sus funciones les impone.
+###### Artículo 78.
+
+La Unidad no podrá entregar, por sí misma, información a entidades ajenas a la Asamblea Legislativa. Las opiniones públicas de los integrantes de la Unidad serán siempre a título estrictamente personal, pero deberán guardar la reserva que el ejercicio de sus funciones les impone.
 
 Los informes solicitados por las comisiones de la Asamblea Legislativa a la Unidad serán entregados siempre al Presidente de la Comisión correspondiente.
 
@@ -852,9 +998,9 @@ Para el cumplimiento de sus funciones de apoyo y asesoría a las comisiones con 
 
 La información que por este motivo reciba la Unidad, le será entregada por el Presidente de la Comisión respectiva al titular de la Unidad, en copia simple y no podrá usarse para fines diferentes a los solicitados por la comisión.
 
-#### SECCIÓN 6 (SIC). DE LA UNIDAD DE ESTUDIOS Y FINANZAS PUBLICAS DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+> <small>(REFORMADO [N. DE E. ANTES ARTICULO 76], G.O. 30 DE MARZO DE 2005)</small>
 
-###### Artículo 76.
+###### Artículo 79.
 
 Para ser Director de la Unidad de Estudios y Finanzas Públicas, se requiere:
 
@@ -866,7 +1012,7 @@ III.- Tener licenciatura en derecho, economía, contaduría pública, administra
 
 IV.- Tener experiencia profesional demostrable en materia de finanzas públicas de por lo menos cinco años al día de la designación;
 
-V.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni de los miembros del órgano de Dirección de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, ni haber tenido relaciones profesionales, laborales o de negocios con alguno de ellos durante el último año al día de su designación, ni ser miembro de sociedad en los que alguno de ellos forme o haya formado parte;
+V.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni de los miembros del órgano de Dirección de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, ni haber tenido relaciones profesionales, laborales o de negocios con alguno de ellos durante el último año al día de su designación, ni ser socio o accionista de sociedad en los que alguno de ellos forme o haya formado parte;
 
 VI.- No haber sido condenado por delito doloso cualquiera que haya sido la pena;
 
@@ -874,47 +1020,67 @@ VII.- No haber sido empleado o funcionario de la Contaduría Mayor de Hacienda d
 
 VIII.- No haber sido postulado para cargo de elección popular en los 5 años anteriores a su designación.
 
-IX.- (DEROGADA, G.O. 23 DE SEPTIEMBRE DE 2003)
-
-###### Artículo 77.
-
-La Comisión de Gobierno es el órgano interno de gobierno permanente de la Asamblea encargado de optimizar el ejercicio de sus funciones legislativas, políticas y administrativas de la misma y tendrá las facultades que la Ley Orgánica y el presente Reglamento le otorguen.
-
-Cuando la Comisión de Gobierno se integre en términos de lo establecido por el párrafo segundo del Artículo 41 de la Ley Orgánica, las determinaciones se tomarán por mayoría de votos de sus integrantes presentes.
-
-En caso de que la integración de la Comisión se haga en términos de lo previsto por el párrafo tercero del Artículo 41 de la Ley Orgánica, las determinaciones se tomarán por el voto de los coordinadores de los grupos parlamentarios; voto que será ponderado de acuerdo al número de Diputados que posea cada Grupo Parlamentario en la Asamblea. En ausencia de alguno de los coordinadores de la Comisión de Gobierno, el otro integrante de su grupo parlamentario asumirá las atribuciones correspondientes.
-
-En ambos supuestos, el Presidente de la Comisión de Gobierno tendrá voto de calidad en caso de empate.
-
-###### Artículo 78.
-
-La Diputación Permanente es el órgano deliberativo de la Asamblea que durante los recesos de ésta, desempeña las funciones que le señala la Ley Orgánica y este Reglamento.
-
-###### Articulo 79.
-
-La Diputación Permanente estará conformada por el veinte por ciento del total de integrantes del pleno en forma proporcional al número de diputados de cada grupo parlamentario.
-
-La designación se hará en la víspera de la clausura de sesiones ordinarias y sus integrantes durarán todo el periodo de receso aún y cuando haya sesiones extraordinarias.
-
 #### SECCIÓN 1. DE LA COMISIÓN DE GOBIERNO
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 77], G.O. 30 DE MARZO DE 2005)</small>
 
 ### CAPITULO IV. DE LA ORGANIZACIÓN DE LA ASAMBLEA
 
 #### SECCIÓN 2. DE LA DIPUTACIÓN PERMANENTE
 
-###### Articulo 80.
+(REUBICADO [N. DE E. ANTES ARTICULO 78], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 80.
+
+La Comisión de Gobierno es el órgano interno de gobierno permanente de la Asamblea encargado de optimizar el ejercicio de sus funciones legislativas, políticas y administrativas de la misma y tendrá las facultades que la Ley Orgánica y el presente Reglamento le otorguen.
+
+Cuando la Comisión de Gobierno se integre en términos de lo establecido por el párrafo segundo del artículo 41 de la Ley Orgánica, las determinaciones se tomarán por mayoría de votos de sus integrantes presentes.
+
+En el supuesto de integración de la Comisión de Gobierno conforme al párrafo tercero del artículo 41 de la Ley Orgánica y en caso de ausencia del Coordinador del Grupo Parlamentario en la sesión respectiva, el Vicecoordinador tendrá derecho a votar; voto que será ponderado con relación al número de integrantes que éste tenga en la Asamblea.
+
+En ausencia del Coordinador de algún Grupo Parlamentario, el Vicecoordinador asumirá las atribuciones correspondientes en las sesiones de la Comisión de Gobierno.
+
+#### SECCIÓN 1. DE LAS INICIATIVAS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 82], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 81.
+
+La Diputación Permanente es el órgano deliberativo de la Asamblea que durante los recesos de ésta, desempeña las funciones que le señala la Ley Orgánica y este Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 79], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 82.
+
+La Diputación Permanente se integrará por el veinte por ciento del total de los Diputados del Pleno. Habrá en igual número y en forma proporcional, un listado de Diputados suplentes que actuarán en ausencia de algún integrante de la Diputación Permanente por orden de prelación por Grupo Parlamentario.
+
+La designación se hará en la víspera de la clausura de sesiones ordinarias y sus integrantes durarán todo el periodo de receso aún y cuando haya sesiones extraordinarias.
+
+La Diputación Permanente se integrará de manera proporcional conforme al número de Diputados que cada Grupo parlamentario posea en el pleno.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 80], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 83.
 
 La Diputación Permanente sesionará los días y la hora en que el Presidente señale en la convocatoria respectiva.
 
 La Diputación Permanente no podrá suspender sus sesiones por más de cinco días hábiles, salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
 
-#### SECCIÓN 1. DE LAS INICIATIVAS
+(REUBICADO [N. DE E. ANTES ARTICULO 81], G.O. 30 DE MARZO DE 2005)
 
-###### Articulo 81.
+###### Artículo 84.
 
-Para el desarrollo de las sesiones de la Diputación Permanente se aplicara en lo conducente el Titulo Tercero, Capitulo I del presente ordenamiento.
+Para el desarrollo de las sesiones de la Diputación Permanente se aplicará en lo conducente el Título Tercero, Capítulo I del presente ordenamiento.
 
-###### Artículo 82.
+## TITULO TERCERO. DEL PROCEDIMIENTO LEGISLATIVO EN LA ASAMBLEA
+
+### CAPITULO I. DEL PROCEDIMIENTO LEGISLATIVO
+
+#### SECCIÓN 2. DEL ORDEN DEL DIA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 89], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 85.
 
 El derecho de iniciar las leyes o decretos ante la Asamblea compete:
 
@@ -924,33 +1090,39 @@ II.- Al Jefe de Gobierno, y
 
 III.- A los ciudadanos del Distrito Federal, de conformidad con la fracción IV del artículo 46 del Estatuto.
 
-###### Artículo 83.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 83], G.O. 30 DE MARZO DE 2005)</small>
 
-Las iniciativas de ley o decreto presentadas por uno o varios miembros de la Asamblea, o por el Jefe de Gobierno, pasarán desde luego a Comisión, la cual deberá revisar, estudiar, analizar y reformar, en su caso, la iniciativa y formular su correspondiente dictamen.
+###### Artículo 86.
 
-Las iniciativas populares, serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumpla con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso la remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
+Las iniciativas de ley o decreto presentadas por uno o varios miembros de la Asamblea o por el Jefe de Gobierno, previo turno dado por el Presidente de la Mesa Directiva o de la Comisión de Gobierno pasarán desde luego a la comisión o comisiones procurando que no sean más de dos comisiones, mismas que deberán revisar, estudiar, analizar y reformar, en su caso, la iniciativa y formular su correspondiente dictamen.
 
-###### Artículo 84.
+Las iniciativas populares serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumple con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
 
-La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga que apruebe el Pleno o en los recesos por el Presidente de la Diputación Permanente, a petición de la Comisión dictaminadora.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 84], G.O. 30 DE MARZO DE 2005)</small>
 
-Todo dictamen estará compuesto por las siguientes partes fundamentales: la fundamentación, motivación, los antecedentes, los considerandos, modificaciones que en su caso se hayan realizado y los puntos resolutivos.
+###### Artículo 87.
 
-El dictamen de la Comisión deberá presentarse firmado por los miembros de la misma. Si alguno o algunos de los integrantes de la Comisión disienten del dictamen, se hará la anotación en contra, junto con la firma respectiva. Los Diputados podrán formular los votos particulares que estimen convenientes.
+La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga debidamente fundamentada que apruebe el Pleno o en los recesos, la Diputación Permanente, a petición de la Comisión dictaminadora.
 
-## TITULO TERCERO. DEL PROCEDIMIENTO LEGISLATIVO EN LA ASAMBLEA
+Todo dictamen estará integrado por una adecuada fundamentación, motivación, antecedentes, considerandos, las modificaciones que en su caso se hayan realizado y los puntos resolutivos.
 
-### CAPITULO I. DEL PROCEDIMIENTO LEGISLATIVO
+La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
 
-#### SECCIÓN 2. DEL ORDEN DEL DIA
+El dictamen de la Comisión deberá presentarse firmado por los miembros de la misma. Si alguno o algunos de los integrantes de la Comisión disienten del dictamen, se hará la anotación en contra, junto con la firma respectiva. Los Diputados podrán formular los votos particulares.
 
-###### Artículo 85.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 85], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 88.
 
 Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcurrido el plazo señalado en el artículo anterior, el Presidente hará una excitativa a la Comisión para que la dictamine, lo mismo se observará durante el periodo de receso por el Presidente de la Diputación Permanente.
 
-Si pasados cinco días a partir de la excitativa no se hubiere producido dictamen, el Presidente enviará la iniciativa a la Comisión de Estudios Legislativos y Prácticas Parlamentarias para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
-###### Artículo 86.
+Si pasados cinco días a partir de la excitativa no se hubiere producido dictamen, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 86], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 89.
 
 Los Diputados integrantes de la Comisión que no hayan cumplido con los tiempos establecidos para la elaboración del dictamen, serán sujetos de amonestación, previo a ser escuchados por la Mesa Directiva en los siguientes casos:
 
@@ -960,7 +1132,9 @@ II.- El o los Diputados a quienes se les hubiera encomendado la elaboración de 
 
 III.- La totalidad de los integrantes de la Comisión.
 
-###### Artículo 87.
+(REUBICADO [N. DE E. ANTES ARTICULO 87], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 90.
 
 La Asamblea tiene facultad de presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión.
 
@@ -972,77 +1146,95 @@ Las iniciativas de leyes o decretos aprobados por el Pleno que se remitan al Con
 
 La Comisión de la Asamblea que haya elaborado el dictamen de que se trate, acudirá ante la Cámara correspondiente, cuando ésta así lo solicite, para explicar o fundamentar la o las iniciativas de leyes o decretos en cuestión.
 
-###### Artículo 88.
+(REUBICADO [N. DE E. ANTES ARTICULO 88], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 91.
 
 Las iniciativas dictaminadas y no aprobadas por el Pleno, no podrán volver a presentarse sino hasta el siguiente periodo ordinario de sesiones.
 
 A tal efecto, la Comisión elaborará un nuevo dictamen en el que deberán tenerse en cuenta las observaciones hechas por los Grupos Parlamentarios o por los Diputados, si éstas proceden.
 
-###### Artículo 89.
-
-Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Día conforme a la siguiente preferencia:
-
-1. Aprobación del Acta de la Sesión anterior.
-
-2. Comunicaciones de los Diputados, de las Comisiones y de los Grupos Parlamentarios.
-
-3. Comunicaciones de los Poderes de la Unión u órganos legislativos locales.
-
-4. Comunicaciones de los órganos de gobierno del Distrito Federal.
-
-5. Iniciativas de ley o decreto.
-
-6. Acuerdos Parlamentarios.
-
-7. Dictámenes para discusión y votación.
-
-8 Informe de las Comisiones y Comités.
-
-9. Informe de peticiones formuladas por particulares.
-
-10. Presentación de pronunciamientos, propuestas, así como las denuncias que no comprendan la aprobación, reforma, derogación o abrogación de Leyes o Decretos.
-
-11. Efemérides, y
-
-12. Asuntos Generales.
-
-###### Artículo 90.
-
-Las iniciativas, peticiones, proposiciones o denuncias que algún Diputado desee someter a conocimiento del Pleno deberán inscribirse ante la Mesa Directiva para su inclusión en el Orden del Día, por lo menos con veinticuatro horas antes de la fijada para el inicio de la sesión, preferentemente a través del Coordinador del Grupo Parlamentario.
-
-Sólo aquellas que revistan carácter de urgente, y así lo determine el pleno, podrán presentarse sin haber sido previamente inscritas y se desahogarán con posterioridad a las previamente registradas.
-
-###### Artículo 91.
-
-De las peticiones que los particulares formulen por escrito a la Asamblea, corresponderá al Presidente fijar el trámite que para su atención sea necesario, mismo del que se informará al peticionario, así como a la Comisión de Gobierno.
-
 #### SECCIÓN 3. DE LAS SESIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 93], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 92.
 
-El Presidente deberá reunirse antes de cada sesión con los integrantes de la Mesa Directiva para complementar, en su caso, el Orden del Día elaborado en consulta con la Comisión de Gobierno y para ordenar el desahogo de los asuntos en el curso de la sesión.
+Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Día conforme a la siguiente preferencia:
+
+1.- Aprobación del Acta de la Sesión anterior.
+
+2.- Comunicaciones de los Diputados, de las Comisiones y de los Grupos Parlamentarios.
+
+3.- Comunicaciones de los Poderes de la Unión u órganos legislativos locales.
+
+4.- Comunicaciones de los órganos de gobierno del Distrito Federal.
+
+5.- Iniciativas de ley o decreto.
+
+6.- Acuerdos Parlamentarios.
+
+7.- Dictámenes para discusión y votación.
+
+8.- Informe de las Comisiones y Comités.
+
+9.- Informe de peticiones formuladas por particulares.
+
+10.- Presentación de, propuestas, pronunciamientos, así como las denuncias que no comprendan la aprobación, reforma, derogación o abrogación de Leyes o Decretos.
+
+11.- Efemérides, y
+
+12.- Asuntos Generales.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 90], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 93.
 
-La Asamblea se reunirá a partir del 17 de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, el cual podrá prologarse hasta el 31 de diciembre del mismo año.
+Las iniciativas, peticiones, proposiciones o denuncias que algún Diputado desee someter a conocimiento del Pleno deberán inscribirse ante la Mesa Directiva para su inclusión en el Orden del Día, por lo menos veinticuatro horas antes de la fijada para el inicio de la sesión, preferentemente a través del Coordinador del Grupo Parlamentario.
+
+Sólo aquellas que revistan carácter de urgente, y así lo determine el pleno, podrán presentarse sin haber sido previamente inscritas y se desahogarán con posterioridad a las previamente registradas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 91], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 94.
+
+De las peticiones que los particulares formulen por escrito a la Asamblea, corresponderá al Presidente fijar el trámite que para su atención sea necesario, mismo del que se informará al peticionario, así como a la Comisión de Gobierno.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 92], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 95.
+
+El Presidente deberá reunirse antes de cada sesión con los integrantes de la Mesa Directiva para complementar, en su caso, el Orden del Día elaborado en consulta con la Comisión de Gobierno y para ordenar el desahogo de los asuntos en el curso de la sesión.
+
+#### SECCIÓN 4. DE LOS DEBATES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 113], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 96.
+
+La Asamblea se reunirá a partir del 17 de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, el cual podrá prolongarse hasta el 31 de diciembre del mismo año.
 
 El segundo periodo de sesiones ordinarias se iniciará a partir del 15 de marzo de cada año y podrá prolongarse hasta el 30 de abril del mismo año.
 
-Durante sus recesos, la Asamblea podrá celebrar periodos de sesiones extraordinarias, previa convocatoria formulada por la Comisión de Gobierno a solicitud de la mayoría de los integrantes de dicha Comisión o del Jefe de Gobierno. La convocatoria respectiva deberá publicarse en dos diarios de mayor circulación en el Distrito Federal y fijará la fecha de inicio y termino del período y el o los asuntos exclusivos a ser tratados durante el mismo.
+Durante sus recesos, la Asamblea podrá celebrar periodos de sesiones extraordinarias, previa convocatoria formulada por la Comisión de Gobierno a solicitud de la mayoría de los integrantes de dicha Comisión o del Jefe de Gobierno. La convocatoria respectiva deberá publicarse en dos diarios de mayor circulación en el Distrito Federal y fijará la fecha de inicio y término del periodo y el o los asuntos exclusivos a ser tratados durante el mismo.
 
-###### Artículo 94.
+(REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 97.
 
 Las sesiones se celebrarán en el recinto que ocupa la Asamblea, salvo acuerdo expreso del Pleno. En dicho acuerdo se fijará el tiempo, lugar y sesiones que se celebrarán fuera del recinto y los motivos en que se apoye la decisión.
 
 Las sesiones no podrán realizarse fuera del Distrito Federal.
 
-###### Artículo 95.
+(REUBICADO [N. DE E. ANTES ARTICULO 95], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 98.
 
 Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado por la Mesa Directiva en consulta con la Comisión de Gobierno y se desahogarán, de igual manera, los asuntos que presentan los Diputados o los Grupos Parlamentarios con carácter urgente o extraordinario y así sean aceptados por el Pleno.
 
-#### SECCIÓN 4. DE LOS DEBATES
+(REUBICADO [N. DE E. ANTES ARTICULO 96], G.O. 30 DE MARZO DE 2005)
 
-###### Artículo 96.
+###### Artículo 99.
 
 El día 17 de septiembre de cada año, la Asamblea se reunirá a partir de las once horas en el Salón de Sesiones para inaugurar el primer periodo ordinario de sesiones.
 
@@ -1052,47 +1244,63 @@ En dicha sesión inaugural el Presidente declarará en voz alta:
 
 El Presidente hará igual declaratoria antes de iniciar el segundo periodo de sesiones ordinarias, a las once horas del 15 de marzo de cada año.
 
-###### Artículo 97.
+(REUBICADO [N. DE E. ANTES ARTICULO 97], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 100.
 
 La primera sesión del primer periodo de sesiones ordinarias de cada año, tendrá como propósito exclusivo recibir el informe ordenado por la fracción XVII del artículo 67 del Estatuto.
 
 Se exceptúa de lo anterior la sesión inicial del primer periodo de sesiones de cada Legislatura, en el cual se tratarán los asuntos señalados por la Ley Orgánica de la Asamblea, debiéndose recibir el informe a que se refiere el presente artículo en la siguiente sesión del citado periodo que deberá llevarse a cabo en la misma fecha.
 
-###### Artículo 98.
+(REUBICADO [N. DE E. ANTES ARTICULO 98], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 101.
 
 La Asamblea sesionará los días y a partir de la hora que el Presidente señale en la convocatoria respectiva.
 
 La Asamblea no podrá suspender sus sesiones por más de tres días hábiles salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
 
-###### Artículo 99.
+(REUBICADO [N. DE E. ANTES ARTICULO 99], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 102.
 
 Se requiere de la asistencia de la mitad más uno de los Diputados que integran la Asamblea para abrir cada sesión.
 
 El Secretario de la Mesa Directiva pasará lista de presentes el inicio de la sesión y no existiendo el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder a levantar la sesión y a citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
 
-###### Artículo 100.
-
-Las sesiones podrán ser ordinarias, extraordinarias, secretas, permanentes o solemnes.
-
-###### Artículo 101.
-
-Son ordinarias las sesiones que se celebran durante los periodos constitucionales y serán públicas, con excepción de los casos que establece el presente Reglamento.
-
-Se iniciarán, salvo disposición del Presidente y por mediar causa que lo justifique, a las once horas y concluirán a más tardar a las diecisiete horas.
-
-Las sesiones podrán prolongarse o suspenderse por acuerdo del Pleno a solicitud del Presidente. En el caso de que la Asamblea acuerde citar o comparecer ante su Pleno a un Servidor Público de la Administración Pública del Distrito Federal, la Comisión de Gobierno propondrá al Pleno el formato conforme al cual se desarrolle la sesión. Lo anterior con excepción de los (sic) dispuestos (sic) en el Artículo 147 de este Reglamento.
-
-###### Artículo 102.
-
-Son extraordinarias las sesiones que se celebren fuera del periodo de sesiones ordinarias y tendrán lugar cuando así se determine de conformidad con lo dispuesto por el presente Reglamento.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 103.
 
-Al inicio de las sesiones el Presidente ordenará pasar lista de presentes. Comprobando el quórum, abrirá la sesión con esta fórmula: "Se abre la sesión"; y la cerrará con la de "Se levanta la sesión".
+Las sesiones podrán ser ordinarias, extraordinarias, privadas, permanentes o solemnes.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 101], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 104.
+
+Son ordinarias las sesiones que se celebran durante los periodos constitucionales y serán públicas, con excepción de los casos que establece el presente Reglamento.
+
+Se iniciarán, salvo disposición del Presidente y por mediar causa que lo justifique, a las once horas y concluirán a más tardar a las diecisiete horas. Las sesiones podrán prolongarse o suspenderse por acuerdo del Pleno a solicitud de su Presidente.
+
+En el caso de que la Asamblea acuerde citar a comparecer ante el Pleno a un Servidor Público de la Administración Pública del Distrito Federal, la Comisión de Gobierno propondrá al Pleno el formato conforme al cual se desarrollará la sesión.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 102], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 105.
+
+Son extraordinarias las sesiones que se celebren fuera del periodo de sesiones ordinarias y tendrán lugar cuando así se determine de conformidad con lo dispuesto por el presente Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 103], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 106.
+
+Al inicio de las sesiones, el Presidente ordenará pasar lista de presentes. Comprobando el quórum, abrirá la sesión con esta fórmula: "Se abre la sesión"; y la cerrará con la de "Se levanta la sesión". Durante el primer acto posterior a la declaratoria de inicio o cierre del periodo ordinario de sesiones, el Presidente ordenará que se proceda a rendir honores a la Bandera Nacional, mediante la entonación del Himno Nacional; excepto durante la sesión señalada por el párrafo primero del artículo 100 de este Reglamento, en que los honores referidos se efectuarán cuando el Jefe de Gobierno del Distrito Federal haya ingresado al recinto oficial, así como cuando se disponga a salir del mismo.
 
 Las sesiones ordinarias y extraordinarias se regirán por el Orden del Día que al efecto prepare la Mesa Directiva y la Comisión de Gobierno en los términos del presente Reglamento; será dado a conocer al Pleno una vez que se determine la existencia del quórum. Abierta la sesión se procederá a aprobar el Acta de la Sesión anterior.
 
-###### Artículo 104.
+(REUBICADO [N. DE E. ANTES ARTICULO 104], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 107.
 
 De cada sesión se deberá levantar el acta correspondiente, misma que deberá contener las siguientes formalidades:
 
@@ -1108,9 +1316,11 @@ V.- Una relación sucinta, ordenada y clara de los asuntos tratados, expresando 
 
 De la misma se entregará copia al Presidente, a los Coordinadores de los Grupos Parlamentarios, a quienes hubieren intervenido en la sesión y a los Diputados que expresamente y por escrito lo soliciten para que puedan, en su caso, pedir que se hagan las rectificaciones pertinentes.
 
-###### Artículo 105.
+(REUBICADO [N. DE E. ANTES ARTICULO 105], G.O. 30 DE MARZO DE 2005)
 
-Se presentarán en sesión secreta:
+###### Artículo 108.
+
+Se presentarán en sesión privada:
 
 I.- Los asuntos puramente económicos de la Asamblea;
 
@@ -1118,13 +1328,19 @@ II.- Los que apruebe el Pleno a solicitud de uno o más Diputados, y
 
 III.- Los demás que determine la Mesa Directiva.
 
-###### Artículo 106.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 106], G.O. 30 DE MARZO DE 2005)</small>
 
-La solicitud a que se refiere la fracción II del artículo anterior deberá ser fundada y motivada. El Presidente la pondrá a consideración del Pleno a fin de que éste decida por mayoría de votos de sus miembros presentes. Durante la sesión secreta permanecerán en el recinto únicamente los Diputados, los empleados y funcionarios administrativos de la Asamblea, y cualquier otra persona que la Mesa Directiva autorice.
+###### Artículo 109.
+
+El acuerdo de la Mesa Directiva para llevar a cabo la sesión privada que se refiere el artículo anterior, deberá estar fundada y motivada y deberá constar por escrito. El presidente la pondrá a consideración del Pleno a fin de que éste decida por mayoría de votos de sus miembros presentes, si es que se encuentran los supuestos establecidos para que la sesión privada proceda.
+
+Durante la sesión privada permanecerán en el recinto únicamente los Diputados, los empleados y funcionarios administrativos de la Asamblea, y cualquier otra persona que el presidente de la Mesa Directiva autorice.
 
 Los concurrentes están obligados a guardar la más absoluta reserva sobre los asuntos tratados en la sesión.
 
-###### Artículo 107.
+(REUBICADO [N. DE E. ANTES ARTICULO 107], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 110.
 
 El Presidente declarará a la Asamblea en sesión permanente, cuando la naturaleza de los asuntos a tratar así lo amerite y lo apruebe el Pleno.
 
@@ -1132,53 +1348,75 @@ Durante la sesión permanente no podrá darse cuenta ni trámite a ningún asunt
 
 La sesión permanente podrá tener los recesos que acuerde el Presidente en los términos de este Reglamento y se dará por concluida al agotarse los trabajos correspondientes.
 
-###### Artículo 108.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 108], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 111.
 
 La Asamblea puede llevar a cabo sesiones solemnes para honrar a los héroes nacionales, a personas físicas o morales que hayan prestado servicios eminentes a la comunidad del Distrito Federal, a la Nación o a la Humanidad; o bien para recibir a Jefes de Estado, altos dignatarios y representantes populares cuando la propia Asamblea así lo determine, a propuesta de la Comisión de Gobierno, o bien, o cualquier otro caso que el Pleno así lo determine.
 
-Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta al efecto aprobada y se desahogarán conforme a las reglas expresamente fijadas por el Pleno a propuesta de la Comisión de Estudios Legislativos y Prácticas Parlamentarias.
+Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta al efecto aprobada y se desahogarán conforme a las reglas expresamente fijadas por el Pleno a propuesta de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
 
-###### Artículo 109.
+(REUBICADO [N. DE E. ANTES ARTICULO 109], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 112.
 
 Las personas que deseen asistir a las sesiones de la Asamblea tendrán acceso a las galerías del recinto.
 
 Los asistentes deberán guardar las normas de orden, respeto, silencio y compostura y no tomarán parte en los debates con ninguna clase de demostración.
 
-###### Artículo 110.
+(REUBICADO [N. DE E. ANTES ARTICULO 110], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 113.
 
 El acceso del público al recinto oficial será garantizado por personal administrativo de la Asamblea. No se permitirá la entrada a quienes se presenten armados; bajo el aparente influjo de alguna sustancia tóxica enervante; embozados; se nieguen a identificarse o pretendan introducir objetos extraños sin someterlos a su inspección por el personal encargado.
 
-###### Artículo 111.
+(REUBICADO [N. DE E. ANTES ARTICULO 111], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 114.
 
 Los asistentes que perturben el orden impidiendo el desarrollo normal de la sesión, podrán ser desalojados por disposición del Presidente. Si la falta lo amerita, quienes la cometan serán remitidos a las autoridades correspondientes.
 
-###### Artículo 112.
+(REUBICADO [N. DE E. ANTES ARTICULO 112], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 115.
 
 La Mesa Directiva asegurará en todo tiempo el libre acceso de los medios de comunicación a las sesiones públicas de la Asamblea, a fin de garantizar que cumplan con su función.
 
-###### Artículo 113.
+#### SECCIÓN 5. DE LAS VOTACIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 131], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 116.
 
 Todo dictamen con proyecto de ley o decreto se discutirá primero en lo general y después en lo particular cada uno de sus artículos. Cuando conste de un solo artículo será discutido una sola vez.
 
 Cuando un acuerdo de la Comisión de Gobierno sea presentado al Pleno para su conocimiento, cualquier Diputado podrá hacer uso de la palabra para solicitar alguna aclaración o mayor información, para lo cual un integrante de dicha Comisión realizará la aclaración correspondiente.
 
-###### Artículo 114.
+(REUBICADO [N. DE E. ANTES ARTICULO 114], G.O. 30 DE MARZO DE 2005)
 
-Todo dictamen con proyecto de ley o decreto que conste de más de treinta artículos, podrá ser discutido y aprobado por los libros, títulos, capítulos, secciones o párrafos en los que lo dividieren sus autores a las Comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté al debate, si lo pide algún Diputado y el Pleno aprueba la petición.
+###### Artículo 117.
 
-###### Artículo 115.
+Todo dictamen con proyecto de ley o decreto que conste de más de treinta artículos, podrá ser discutido y aprobado por los libros, títulos, capítulos, secciones o párrafos en los que lo dividieren sus autores o las Comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros; pero se votará separadamente cada uno de los artículos o fracciones del artículo o de la sección que esté al debate, si lo pide algún Diputado y el Pleno aprueba la petición.
 
-Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo a todos los miembros del Pleno con una anticipación mínima de cuarenta y ocho horas a la sesión en que habrá de discutirse. Los votos particulares que se hayan discutido en las Comisiones se deberán distribuir en los mismos términos. Con la misma anticipación deberá depositarse el dictamen ante la Secretaría de la Mesa Directiva.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 115], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 118.
+
+Para la discusión de cualquier dictamen, deberá haberse procedido a la distribución de copias del mismo a todos los miembros del Pleno con una anticipación mínima de cuarenta y ocho horas a la sesión en que habrá de discutirse.
+
+Los votos particulares que se hayan discutido en las Comisiones se deberán distribuir en los mismos términos. Con la misma anticipación deberá depositarse el dictamen ante la Secretaría de la Mesa Directiva.
 
 Si no se cumple con este requisito, el dictamen no podrá ser discutido en la sesión respectiva, salvo que se dispense el procedimiento por el Pleno de la Asamblea.
 
-#### SECCIÓN 5. DE LAS VOTACIONES
+(REUBICADO [N. DE E. ANTES ARTICULO 116], G.O. 30 DE MARZO DE 2005)
 
-###### Artículo 116.
+###### Artículo 119.
 
 Intervendrán en el debate los Diputados que al efecto se hubiesen inscrito. Igualmente podrán hacerlo quienes soliciten y obtengan del Presidente autorización para hacer uso de la palabra, en los términos del presente Reglamento.
 
-###### Artículo 117.
+(REUBICADO [N. DE E. ANTES ARTICULO 117], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 120.
 
 El Presidente elaborará el registro de oradores que intervendrán en los debates cuando se presenten a discusión los dictámenes de las Comisiones. El orden se conformará de la siguiente manera:
 
@@ -1186,7 +1424,7 @@ I.- Intervención de un miembro de la Comisión dictaminadora, fundando y motiva
 
 II.- Lectura de votos particulares;
 
-III.- Discusión en lo general, en la que se concederá el uso de la palabra de manera alternada a los oradores en contra y a los oradores el (sic) pro, de modo que pueda hacer uso de la palabra por lo menos un Diputado miembro de cada uno de los Grupos Parlamentarios que deseen intervenir. Siempre se iniciará el debate con los oradores inscritos en contra; de no haberse registrado ninguno, no harán uso de la palabra los oradores en pro.
+III.- Discusión en lo general, en la que se concederá el uso de la palabra de manera alternada a los oradores en contra y a los oradores en pro, de modo que pueda hacer uso de la palabra por lo menos un Diputado miembro de cada uno de los Grupos Parlamentarios que deseen intervenir. Siempre se iniciará el debate con los oradores inscritos en contra; de no haberse registrado ninguno, no harán uso de la palabra los oradores en pro.
 
 De no haber oradores en contra o en pro, o desahogadas dichas intervenciones los Grupos Parlamentarios podrán hacer uso de la palabra para razonar su voto por conducto de uno de sus integrantes.
 
@@ -1194,31 +1432,39 @@ IV.- Discusión en lo particular de los capítulos o artículos que al inicio de
 
 La discusión en lo particular se ordenará de manera análoga a la establecida por la discusión en lo general.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 118], G.O. 30 DE MARZO DE 2005)</small>
 
-###### Artículo 118.
+###### Artículo 121.
 
-Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, propuestas que sean consideradas como de urgente y obvia resolución y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de 30 minutos.
+Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, propuestas que sean consideradas como de urgente y obvia resolución y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de hasta 30 minutos.
 
-Cuando se trate de pronunciamientos, propuestas y denuncias a que se refiere el artículo 83 numeral 9 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
+Cuando se trate de propuestas, pronunciamientos y denuncias a que se refiere el artículo 92 numeral 10 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
 
-###### Artículo 119.
+(REUBICADO [N. DE E. ANTES ARTICULO 119], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 122.
 
 Ningún Diputado podrá ser interrumpido cuando se encuentre en uso de la palabra, salvo por el Presidente para advertirle que se ha agotado el tiempo; exhortarlo a que se atenga el tema de discusión; llamarlo al orden cuando ofenda a la Asamblea, a alguno de sus miembros o al público, o para preguntarle si acepta contestar alguna interpelación que desee formularle otro Diputado.
 
-###### Artículo 120.
+(REUBICADO [N. DE E. ANTES ARTICULO 120], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 123.
 
 Las interpelaciones que se formulen a los Diputados que estén en el uso de la palabra con el propósito de esclarecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento, deberán ser solicitadas al Presidente.
 
 Quien solicite la interpelación lo hará desde su lugar y en forma que todos los asistentes puedan escucharle. Quedan absolutamente prohibidas las discusiones en forma de diálogo.
 
-###### Artículo 121.
+(REUBICADO [N. DE E. ANTES ARTICULO 121], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 124.
 
 En cualquier estado del debate, un Diputado podrá pedir la observancia del Reglamento formulando una moción de orden. Al efecto deberá citar el precepto o preceptos reglamentarios cuya aplicación reclama.
 
 Escuchada la moción, el Presidente resolverá lo conducente.
 
-###### Artículo 122.
+(REUBICADO [N. DE E. ANTES ARTICULO 122], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 125.
 
 Ninguna discusión se podrá suspender, sino por las siguientes causas:
 
@@ -1230,39 +1476,53 @@ III.- Por graves desórdenes en la Asamblea, a juicio del Presidente; y
 
 IV.- Por moción suspensiva que presente alguno o algunos de los miembros de la Asamblea y que ésta apruebe.
 
-###### Artículo 123.
-
-En el caso de presentarse una moción suspensiva, ésta deberá ser por escrito oyendo a su autor si la quiere fundar. En este caso, el Presidente someterá a discusión de inmediato la proposición, pudiendo hacer uso de la palabra hasta dos oradores en contra y dos en pro, por un tiempo máximo de diez minutos cada uno. Agotada la discusión, la moción se someterá a votación del Pleno y, en caso de que ésta fuese negativa, se tendrá por desechada continuándose con el debate, en caso de que fuese fundada, el presidente ordenara la conclusión del debate del asunto que la origino.
-
-No podrá presentarse más de una moción suspensiva en la discusión de un asunto.
-
-###### Artículo 124.
-
-Si en el curso del debate alguno de los oradores hiciese alusiones sobre la persona, partido político a la conducta de un Diputado, éste podrá solicitar al Presidente hacer uso de la palabra, por un tiempo no superior a cinco minutos, para dar contestación a las alusiones formuladas. Cuando la alusión afecte a un Grupo Parlamentario, el Presidente podrá conceder a un Diputado del grupo aludido el uso de la palabra hasta por cinco minutos para contestar en forma concisa.
-
-En estos casos el Presidente concederá el uso de la palabra inmediatamente después de que haya concluido el turno del Diputado que profirió las alusiones.
-
-###### Artículo 125.
-
-En el curso de un debate los Diputados podrán rectificar hechos al concluir el orador, haciendo uso de la palabra y por un tiempo máximo de cinco minutos.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 123], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 126.
 
-Agotada la lista de oradores dada a conocer al inicio del debate y concluidas las alusiones personales o las rectificaciones a que se refieren los dos artículos anteriores, el Presidente preguntará al Pleno si el asunto se encuentre (sic) suficientemente discutido, en cuyo caso cerrará el debate y llamará de inmediato a votación.
+En el caso de presentarse una moción suspensiva, ésta deberá ser por escrito oyendo a su autor si la quiere fundar. En este caso, el Presidente someterá a discusión de inmediato la proposición, pudiendo hacer uso de la palabra hasta dos oradores en contra y dos en pro, por un tiempo máximo de diez minutos cada uno. Agotada la discusión, la moción se someterá a votación del Pleno y, en caso de que ésta fuese negativa, se tendrá por desechada continuándose con el debate, en caso de que fuese fundada, el presidente ordenará la conclusión del debate del asunto que la originó, regresando el dictamen a la Comisión o Comisiones que hayan emitido el dictamen para atender lo que fue objeto de la moción.
+
+No podrá presentarse más de una moción suspensiva en la discusión de un asunto.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 124], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 127.
 
-Para que la Asamblea pueda adoptar sus acuerdos o resoluciones, deberá contar al momento de la votación, con la presencia de la mayoría de sus integrantes.
+Si en el curso del debate alguno de los oradores hiciese alusiones sobre la persona, partido político o la conducta de un Diputado, éste podrá solicitar al Presidente hacer uso de la palabra, por un tiempo no superior a cinco minutos, para dar contestación a las alusiones formuladas. Cuando la alusión afecte a un Grupo Parlamentario, el Presidente podrá conceder a un Diputado del grupo aludido el uso de la palabra hasta por cinco minutos para contestar en forma concisa.
+
+En estos casos el Presidente concederá el uso de la palabra inmediatamente después de que haya concluido el turno del Diputado que profirió las alusiones.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 125], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 128.
+
+En el curso de un debate los Diputados podrán rectificar hechos al concluir el orador, haciendo uso de la palabra y por un tiempo máximo de cinco minutos.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 126], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 129.
+
+Agotada la lista de oradores dada a conocer al inicio del debate y concluidas las alusiones personales o las rectificaciones a que se refieren los dos artículos anteriores, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido, en cuyo caso cerrará el debate y llamará de inmediato a votación.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 127], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 130.
+
+Para que la Asamblea pueda adoptar sus acuerdos o resoluciones, deberá contar al momento de la votación, con la presencia de la mayoría de sus integrantes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 128], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 131.
 
 Al momento de cerrarse un debate y antes de proceder a la votación, el Presidente ordenará a la Secretaría y a la Coordinación de Servicios Parlamentarios, que hagan el anuncio correspondiente a fin de que todos los Diputados presentes en el Recinto pasen de inmediato a ocupar sus asientos para poder emitir su voto.
 
 En el caso de que no exista quórum al momento de iniciar una votación, el Presidente podrá suspender la sesión y tomar las medidas que sean necesarias para cumplir dicho requisito. Si aún así no se logra el quórum, deberá clausurar la sesión y citar para la próxima.
 
-En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constante el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión.
+En caso de que algún Diputado objetara la existencia de quórum necesario dentro de alguno de los supuestos requeridos en el presente Reglamento, podrá solicitar al Presidente que constate el mismo, quien ordenará a la Secretaría pasar lista para verificar el número de Diputados presentes. De no existir el quórum, el Presidente levantará la sesión.
 
-###### Artículo 129.
+(REUBICADO [N. DE E. ANTES ARTICULO 129], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 132.
 
 Toda proposición deberá discutirse ante el Pleno conforme al siguiente procedimiento:
 
@@ -1270,17 +1530,23 @@ I.- Deberá presentarse por escrito y firmada por su o sus autores al Presidente
 
 II.- El Presidente turnará a la Comisión o Comisiones correspondientes, la propuesta presentada para su análisis y dictamen.
 
-###### Artículo 130.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 130], G.O. 30 DE MARZO DE 2005)</small>
 
-Sólo podrán dispensarse del procedimiento a que se refiere la fracción tercera del artículo anterior, aquellos asuntos que por acuerdo expreso de la Asamblea se califiquen de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de que su autor la haya presentado.
+###### Artículo 133.
 
-De considerarse un asunto de urgente y obvia resolución, se pondrá a discusión inmediatamente pudiendo hacer uso de la palabra de manera exclusiva, hasta dos Diputados en contra y dos en pro e inmediatamente se preguntará al Pleno si se aprueba o no la proposición. De ser aprobada se le dará el trámite correspondiente y, en caso contrario, se turnará a Comisión.
+Sólo podrán dispensarse del procedimiento a que se refiere la fracción segunda del artículo anterior, aquellos asuntos que por acuerdo expreso de la Asamblea se califiquen de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de que su autor la haya presentado.
 
-Si durante la discusión se profirieron alusiones estas deberán desahogarse inmediatamente.
+De considerarse un asunto de urgente y obvia resolución, se pondrá a discusión inmediatamente pudiendo hacer uso de la palabra de manera exclusiva, hasta dos Diputados en contra y dos en pro e inmediatamente se preguntará al Pleno si se aprueba o no la proposición. De ser aprobada se le dará el trámite correspondiente y, en caso contrario, no se dará trámite ulterior, teniéndose por desechada.
+
+Si durante la discusión se profirieron alusiones, éstas deberán desahogarse inmediatamente.
 
 Salvo la hipótesis planteada en este precepto, ninguna proposición podrá decidirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas la hayan analizado y dictaminado.
 
-###### Artículo 131.
+#### SECCIÓN 6. DE LA EXPEDICIÓN DE LAS LEYES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 140], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 134.
 
 La Asamblea adoptará sus resoluciones por medio de votaciones.
 
@@ -1288,21 +1554,25 @@ Habrá tres clases de votaciones: nominal, por cédula y económicas.
 
 Todas las resoluciones se adoptarán por mayoría de votos de los Diputados presentes, excepto en aquellos casos en que las disposiciones legales aplicables señalen la aprobación por una mayoría calificada.
 
-###### Artículo 132.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 30 DE MARZO DE 2005)</small>
 
-Se aprobarán por votación nominal los dictámenes de iniciativa de ley; las leyes o decretos en lo general y cada título, capítulo, sección o artículo en lo particular, según determine el Presidente.
+###### Artículo 135.
 
-Igualmente podrá sujetarse a votación nominal un acuerdo o propuesta cuando la solicite por escrito un Diputado.
+Se aprobará en votación nominal todo dictamen puesto a consideración del Pleno, ya sea de iniciativa de ley; las leyes o decretos en lo general y cada título, capítulo sección o artículo en lo particular según lo determine el Presidente.
+
+Igualmente podrá sujetarse a votación nominal un acuerdo o propuesta cuando lo solicite por escrito un Diputado.
 
 En caso de duda en el resultado de una votación nominal, por una sola ocasión, el Presidente de la Mesa Directiva a solicitud de algún Diputado, ordenará a la Secretaría realice de nueva cuenta la votación, dando a conocer de inmediato el resultado.
 
-###### Artículo 133.
+(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 136.
 
 El Presidente podrá reservar para el final de la discusión la votación en lo general y la de las modificaciones o adiciones que en lo particular se propongan a un artículo o fracción, a fin de preservar la continuidad del debate.
 
-#### SECCIÓN 6. DE LA EXPEDICIÓN DE LAS LEYES
+(REUBICADO [N. DE E. ANTES ARTICULO 134], G.O. 30 DE MARZO DE 2005)
 
-###### Artículo 134.
+###### Artículo 137.
 
 La votación nominal se efectuará de la siguiente manera:
 
@@ -1314,101 +1584,145 @@ III.- Concluido este acto, uno de los mismos Secretarios de la Mesa Directiva pr
 
 IV.- El Secretario hará enseguida el cómputo de los votos y dará a conocer el resultado.
 
-###### Artículo 135.
+(REUBICADO [N. DE E. ANTES ARTICULO 135], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 138.
 
 Las votaciones para elegir Diputados que ocuparán algún cargo en la Mesa Directiva, se realizará por medio de cédula que se depositará de manera personal en una ánfora transparente, colocada en la tribuna. Los Diputados serán llamados a depositar su voto en orden alfabético.
 
 Concluida la votación, los Secretarios sacarán las cédulas del ánfora, las clasificarán en paquetes que contengan los nombre (sic) iguales de las fórmulas votadas, harán el cómputo de los votos y lo darán a conocer al Presidente, quien hará la declaratoria correspondiente.
 
-###### Artículo 136.
+(REUBICADO [N. DE E. ANTES ARTICULO 136], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 139.
 
 Si hubiere empate en las votaciones, se repetirá la votación en la misma sesión; y si por segunda vez resultare empatada, se discutirá y votará de nuevo el asunto en la sesión inmediata, pudiendo inscribirse hasta cuatro oradores en pro y cuatro oradores en contra para hacer uso de la palabra por no más de quince minutos cada uno.
 
-###### Artículo 137.
+(REUBICADO [N. DE E. ANTES ARTICULO 137], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 140.
 
 Las votaciones para elegir Mesa Directiva de la Asamblea, se decidirán dentro de la misma sesión.
 
-###### Artículo 138.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 138], G.O. 30 DE MARZO DE 2005)</small>
 
-Las resoluciones de la Asamblea diversas a las reguladas en los artículos 126 y 129 de este Reglamento, se obtendrán mediante votaciones económicas.
+###### Artículo 141.
+
+Las resoluciones de la Asamblea diversas a las reguladas en los artículos 135 y 138 de este Reglamento, se obtendrán mediante votaciones económicas.
 
 Para llevar a cabo una votación económica, la Secretaría de la Mesa Directiva preguntará: "Por instrucciones de la Presidencia se pregunta a los señores Diputados si están a favor o en contra de la propuesta sometida a su consideración"; debiéndose poner de pie los Diputados para manifestar su determinación; primeramente los que estén a favor y en seguida los que estén en contra.
 
-###### Artículo 139.
+(REUBICADO [N. DE E. ANTES ARTICULO 139], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 142.
 
 Cualquier Diputado podrá solicitar la rectificación de una votación económica pidiendo al Presidente que ordene a la Secretaría de la Mesa Directiva realice de nueva cuenta la votación, dando a conocer de inmediato el resultado de la misma.
 
 Cuando algún Diputado objetare por más de dos ocasiones el resultado de la votación económica, el Presidente ordenará a la Secretaría de la Mesa Directiva que la efectúe de manera nominal.
 
-###### Artículo 140.
-
-Toda resolución de la Asamblea tendrá el carácter de ley o de decreto, será redactada con precisión y claridad, en la forma que hubiere sido aprobada, y al expedirse será autorizada por las firmas del Presidente y por lo menos un Secretario de la Asamblea.
-
-###### Artículo 141.
-
-Las leyes y decretos se comunicarán al Jefe de Gobierno por el Presidente y por un Secretario de la Asamblea, en esta forma: "La Asamblea Legislativa del Distrito Federal decreta": (texto de la ley o decreto).
-
-###### Artículo 142.
-
-Las leyes y decretos que expida la Asamblea se asentarán, por orden cronológico y textualmente, en el libro que al efecto lleve (sic) por un Secretario de la Asamblea.
-
 #### SECCIÓN 7. DEL DIARIO DE DEBATES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 143], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 143.
 
+Toda resolución de la Asamblea tendrá el carácter de ley o de decreto, será redactada con precisión y claridad, en la forma que hubiere sido aprobada, y al expedirse será autorizada por las firmas del Presidente y por lo menos un Secretario de la Asamblea.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 141], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 144.
+
+Las leyes y decretos se comunicarán al Jefe de Gobierno por el Presidente y por un Secretario de la Asamblea en esta forma: "La Asamblea Legislativa del Distrito Federal decreta": (texto de la ley o decreto)."
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 142], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 145.
+
+Las leyes y decretos que expida la Asamblea se asentarán, por orden cronológico y textualmente, en el libro que al efecto lleve un Secretario de la Asamblea.
+
+#### SECCIÓN 1. DE LA GESTIÓN SOCIAL
+
+(REUBICADO [N. DE E. ANTES ARTICULO 148], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 146.
+
 La Asamblea contará con una publicación oficial denominada "Diario de los Debates de la Asamblea Legislativa del Distrito Federal", la que deberá contener: la sesión, el sumario, nombre de quien la preside, copia fiel del acta de la sesión anterior, versión de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura y de aquellos documentos que se dispense su lectura.
 
-No se publicarán las discusiones y documentos relacionados con las sesiones secretas.
+No se publicarán las discusiones y documentos relacionados con las sesiones privadas.
 
 La Asamblea a través de las unidades administrativas competentes, garantizará que los Diputados tengan acceso a las versiones estenográficas y a la información que se genere en las sesiones, a través de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos. Asimismo, garantizará que la población en general tenga acceso a la información contenida en el Diario de los Debates.
 
-###### Artículo 144.
+### CAPITULO II. DE LAS COMPARECENCIAS DE SERVIDORES PÚBLICOS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 144], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 147.
 
 La Asamblea podrá citar a servidores públicos de la Administración Pública del Distrito Federal para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
 
 Los servidores públicos podrán ser igualmente citados a asistir a las sesiones del Pleno o de las Comisiones en que se discutan asuntos vinculados con la dependencia a su cargo.
 
-###### Artículo 145.
-
-Cuando los servidores públicos de la Administración Pública del Distrito Federal fueren llamados por la Asamblea para comparecer ante el Pleno, se les remitirá notificación respectiva, y en su caso, la documentación relativa al asunto a examinarse en la comparecencia.
-
-#### SECCIÓN 1. DE LA GESTIÓN SOCIAL
-
-###### Artículo 146.
-
-Las comparecencias de los servidores públicos a que se refiere las fracciones XVII del artículo 42 y XII del artículo 67 del Estatuto, se sujetarán a las normas que al efecto acuerde la Comisión de Gobierno.
-
-### CAPITULO II. DE LAS COMPARECENCIAS DE SERVIDORES PÚBLICOS
-
-###### Artículo 147.
-
-Los servidores públicos que comparezcan ante el pleno, cuando se trate algún asunto relacionado con su ramo, deberán presentar un informe por escrito así como información general útil para el desarrollo de la comparecencia, con cuarenta y ocho horas de anticipación a la celebración de la sesión correspondiente, para su distribución entre los Diputados. Quedarán exceptuados de lo anterior los servidores públicos que sean citados con extrema urgencia.
-
-La Asamblea, a través de sus unidades administrativas competentes, implementará los sistemas de computo, mecanismos e instrumentos que garanticen la más expedita, ágil, eficiente y económica distribución de los informes y la información a que se refiere al párrafo anterior entre los Diputados.
-
-Una vez rendido el informe se procederá a su discusión por los Diputados, quienes podrán formular al servidor público las preguntas que estimen convenientes, cuyo número y orden será, en todo caso, establecido de acuerdo al presente reglamento, de acuerdo al formato que para tal efecto determine la Comisión correspondiente.
+(REUBICADO [N. DE E. ANTES ARTICULO 145], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 148.
 
-La gestión social es la acción a través de la cual la Asamblea, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas, de los Módulos de Atención, Orientación y Quejas Ciudadanas o alguno de los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una acción pública relacionada con los intereses de la colectividad o con los derechos de los habitantes del Distrito Federal.
+Cuando los servidores públicos de la Administración Pública del Distrito Federal fueren llamados por la Asamblea para comparecer ante el Pleno, se les remitirá notificación respectiva, y en su caso, la documentación relativa al asunto a examinarse en la comparecencia.
 
-La atención, orientación y asesoría de las demandas ciudadanas, así como las gestorías correspondientes, serán gratuitas.
+(REUBICADO [N. DE E. ANTES ARTICULO 146], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 149.
 
-Las peticiones y quejas formuladas por los habitantes del Distrito Federal ante la Asamblea, respecto del cumplimiento, por parte de las autoridades del Distrito Federal, de las obligaciones que les señalan las disposiciones jurídicas en materia administrativa, de obras y servicios y defensa de los derechos ciudadanos, deberán sujetarse a los siguientes trámites:
+Las comparecencias de los servidores públicos a que se refiere las fracciones XVII del artículo 42 y XII del artículo 67 del Estatuto, se sujetarán a las normas que al efecto acuerde la Comisión de Gobierno.
 
-I.- Toda petición o queja que los particulares presenten a la Asamblea, deberá hacerse por escrito y contener los datos que hagan posible la identificación del peticionario, a fin de que se le informe oportunamente sobre los trámites y resoluciones de que sea objeto su petición; y
-
-II.- Las peticiones o quejas se presentarán ante la Oficialía de Partes o directamente al Comité de Atención, Orientación y Quejas Ciudadanas o ante los Módulos de Atención, Orientación y Quejas Ciudadanas, quienes procederán de inmediato
-
-a) Registrar la petición y preparar la síntesis de la misma con la que se dará cuenta al Pleno o, durante los recesos, a la Comisión de Gobierno.
-
-b) Si la petición puede satisfacerse por el propio Comité o Módulos, se tramitará de inmediato y así lo hará saber por escrito al peticionario.
-
-c) Cuando el Comité o los Módulos no puedan satisfacer la petición, la turnarán a la Comisión correspondiente, informando al Pleno o, en los recesos, a la Comisión de Gobierno.
+(REUBICADO [N. DE E. ANTES ARTICULO 147], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 150.
+
+Los servidores públicos que comparezcan ante el pleno, cuando se trate algún asunto relacionado con su ramo, deberán presentar un informe por escrito así como información general útil para el desarrollo de la comparecencia, con cuarenta y ocho horas de anticipación a la celebración de la sesión correspondiente, para su distribución entre los Diputados. Quedarán exceptuados de lo anterior los servidores públicos que sean citados con extrema urgencia.
+
+La Asamblea, a través de sus unidades administrativas competentes, implementará los sistemas de cómputo, mecanismos e instrumentos que garanticen la más expedita, ágil, eficiente y económica distribución de los informes y la información a que se refiere al párrafo anterior entre los Diputados.
+
+Una vez rendido el informe se procederá a su discusión por los Diputados, quienes podrán formular al servidor público las preguntas que estimen convenientes, cuyo número y orden será, en todo caso, establecido de acuerdo al presente reglamento, de acuerdo al formato que para tal efecto determine la Comisión correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 151.
+
+Cualquier Diputado podrá solicitar a los servidores públicos a través de los Presidentes de Comisiones, del Presidente de la Mesa Directiva del Pleno o del de la Diputación Permanente, según sea el caso, la información por escrito sobre los cuestionamientos que haya formulado y que no le fueron contestados durante la comparecencia respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 152.
+
+Las Mesas Directivas del Pleno, de la Diputación Permanente o de las Comisiones, podrán dirigirse mediante oficio en inconformidad ante el superior jerárquico del servidor público que no haya dado respuesta por escrito a los cuestionamientos formulados en la comparecencia respectiva y requerir que satisfaga dicha omisión.
+
+### CAPITULO III. SERVICIOS DE LOS DIPUTADOS A LA CIUDADANÍA
+
+#### SECCIÓN 2. DE LA CONSULTA PUBLICA
+
+(REUBICADO [N. DE E. ANTES ARTICULO 152], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 153.
+
+La gestión social es la acción a través de la cual la Asamblea, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas, de los Módulos de Atención, Orientación y Quejas Ciudadanas o alguno de los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una acción pública relacionada con los intereses de la colectividad o con los derechos de los habitantes del Distrito Federal.
+
+La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 149], G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 154.
+
+Las peticiones y quejas formuladas por los habitantes de Distrito Federal ante la Asamblea, respecto del cumplimiento, por parte de las autoridades del Distrito Federal, de las obligaciones que les señalan las disposiciones jurídicas en materia administrativa, de obras y servicios y defensa de los derechos ciudadanos, deberán sujetarse a los siguientes trámites:
+
+I.- Toda petición o queja que los particulares presentan a la Asamblea, deberá hacerse por escrito y contener los datos que hagan posible la identificación del peticionario, a fin de que se le informe oportunamente sobre los trámites y resoluciones de que se objeto su petición; y
+
+II.- Las peticiones o quejas se presentarán ante la Oficialía de Partes o directamente al Comité de Atención, Orientación y
+
+Quejas Ciudadanas y los Módulos, quienes si puede satisfacerlas, las tramitarán de inmediato y haciéndoselo saber por escrito al peticionario. Cuando el Comité o los Módulos no puedan satisfacer la petición, la turnarán a la Comisión correspondiente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 150], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 155.
 
 El Comité de Atención, Orientación y Quejas Ciudadanas, así como las Comisiones a las que se turnen las peticiones o quejas, deberán acordar la acción correspondiente en un plazo máximo de quince días.
 
@@ -1416,29 +1730,37 @@ La Comisión estudiará la petición o queja y, cuando la atención de la misma 
 
 La Comisión, una vez realizadas las gestiones, informará al Comité de Atención, Orientación y Quejas Ciudadanas, de las acciones que se llevaron a cabo, para su control y seguimiento.
 
-###### Artículo 151.
+(REUBICADO [N. DE E. ANTES ARTICULO 151], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 156.
 
 Para la gestión de las demandas de los habitantes del Distrito Federal, los Diputados a la Asamblea podrán dirigirse a las autoridades correspondientes, las que deberán atender la petición e informar al Diputado de los trámites o acciones que la autoridad administrativa hubiese acordado.
 
 Si la petición fue presentada en un Módulo, se le señalará copia para que pueda informar al interesado.
 
-###### Artículo 152.
+#### SECCIÓN 3. LA AUDIENCIA PUBLICA
+
+(REUBICADO [N. DE E. ANTES ARTICULO 159], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 157.
 
 La Asamblea, por acuerdo de la mayoría de sus miembros, podrá convocar a consulta pública sobre los asuntos de su competencia, cuando a juicio de ésta se requiera conocer la opinión de los habitantes del Distrito Federal sobre determinado asunto.
 
-### CAPITULO III. SERVICIOS DE LOS DIPUTADOS A LA CIUDADANÍA
+(REUBICADO [N. DE E. ANTES ARTICULO 153], G.O. 30 DE MARZO DE 2005)
 
-#### SECCIÓN 2. DE LA CONSULTA PUBLICA
-
-###### Artículo 153.
+###### Artículo 158.
 
 La consulta pública a que convoque la Asamblea podrá abarcar todo el Distrito Federal o una de sus demarcaciones, podrá comprender uno o varios sectores de la población y una o varias materias específicas que estén vinculadas, de acuerdo con los objetivos que la propia Asamblea haya fijado en la convocatoria.
 
-###### Artículo 154.
+(REUBICADO [N. DE E. ANTES ARTICULO 154], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 159.
 
 La Comisión correspondiente fijará las bases de la consulta pública mediante convocatoria, llevará la conducción, realizará el análisis de los resultados y presentará las conclusiones al Pleno.
 
-###### Artículo 155.
+(REUBICADO [N. DE E. ANTES ARTICULO 155], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 160.
 
 Para la elaboración de la convocatoria, la Comisión tomará en consideración los siguientes elementos:
 
@@ -1452,47 +1774,591 @@ IV.- Las fechas y los lugares en que habrán de celebrarse las audiencias, y
 
 V.- Las normas que regirán el desarrollo de la consulta pública.
 
-###### Artículo 156.
+(REUBICADO [N. DE E. ANTES ARTICULO 156], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 161.
 
 Una vez conocidas las conclusiones de la consulta pública, el Presidente ordenará publicar los resultados de la misma, por lo menos en dos diarios de cobertura nacional, para dar a conocer a la ciudadanía del Distrito Federal las acciones que con esta base llevará a cabo la propia Asamblea. Simultáneamente, se enviará a la autoridad correspondiente para que sean aplicadas en el ámbito de su competencia.
 
-#### SECCIÓN 3. LA AUDIENCIA PUBLICA
+(REUBICADO [N. DE E. ANTES ARTICULO 157], G.O. 30 DE MARZO DE 2005)
 
-###### Artículo 157.
+###### Artículo 162.
 
 En los recesos del Pleno, la Comisión de Gobierno autorizará la consulta pública, a petición escrita de alguna Comisión donde se fijen los propósitos y objetivos de la misma.
 
-###### Artículo 158.
+(REUBICADO [N. DE E. ANTES ARTICULO 158], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 163.
 
 La Asamblea instalará una red informática con terminales en cada Delegación Política que permita a los ciudadanos obtener información inmediata y detallada acerca del proceso legislativo, y a los Diputados conocer de manera directa las opiniones e iniciativas de los ciudadanos.
 
-###### Artículo 159.
+###### Artículo 164.
 
 Los Diputados deberán realizar audiencias en su distrito o circunscripción por lo menos una vez al mes.
 
 Los Diputados de mayoría relativa celebrarán audiencias en la demarcación del distrito electoral por el que resultaron electos y los de representación proporcional en cualquier lugar del Distrito Federal.
 
-###### Artículo 160.
+(REUBICADO [N. DE E. ANTES ARTICULO 160], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 165.
 
 A las audiencias públicas podrán concurrir Diputados de diferentes partidos, siempre que éstos manifiesten interés en determinada problemática o atención a determinado núcleo poblacional.
 
-###### Artículo 161.
+(REUBICADO [N. DE E. ANTES ARTICULO 161], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 166.
 
 Los Diputados llevarán un registro de los asuntos que les sean planteados y darán a conocer al peticionario el resultado de su gestión por escrito.
 
-###### Artículo 162.
+(REUBICADO [N. DE E. ANTES ARTICULO 162], G.O. 30 DE MARZO DE 2005)
+
+###### Artículo 167.
 
 Las audiencias públicas se celebrarán, de preferencia, en plazas, jardines o locales de fácil acceso, a fin de propiciar el acercamiento con la población. Las autoridades de la Administración Pública local deberán proporcionar a los Diputados, a través de la Comisión de Gobierno, las facilidades necesarias para la celebración de estas audiencias.
 
-###### Artículo 163.
+(REUBICADO [N. DE E. ANTES ARTICULO 163], G.O. 30 DE MARZO DE 2005)
 
-Cada Diputado presentará un informe semestral por escrito a la Comisión de Gobierno durante los meses de febrero y agosto de cada año. En dicho informe se asentarán los resultados de su acción en materias de consulta, promoción, gestoría y supervisión en favor de la comunidad.
+###### Artículo 168.
+
+Cada Diputado presentará un informe semestral por escrito a la Comisión de Gobierno durante los meses de febrero y agosto de cada año. En dicho informe se asentarán los resultados de su acción en materias de consulta, promoción, gestión y supervisión en favor de la comunidad.
 
 Asimismo, señalará en su informe su desempeño en el cumplimiento de las atribuciones y obligaciones que la Ley Orgánica y su Reglamento de la Asamblea Legislativa establecen.
 
-###### Artículo 164.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], G.O. 30 DE MARZO DE 2005)</small>
 
-Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comité de Asuntos Editoriales y Bibliotecas, a efecto de que éste programe la publicación de un informe anual consolidado de las acciones que en forma individual o colegiada se hayan realizado.
+###### Artículo 169.
+
+Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comité de Asuntos Editoriales, a efecto de que éste programe la publicación de un informe anual consolidado de las acciones que en forma individual o colegiada se hayan realizado.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+## TÍTULO CUARTO. DE LA ENTREGA DE PRESEAS Y RECONOCIMIENTOS DE LA ASAMBLEA LEGISLATIVA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO I
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 170.
+
+De conformidad con lo señalado en el artículo 10 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, la Asamblea otorgará las siguientes preseas y reconocimientos:
+
+I.- Al Mérito Ciudadano;
+
+II.- Al Mérito en Ciencias y en Artes;
+
+III.- Al Mérito Policial; y
+
+IV.- Al Mérito Deportivo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 171.
+
+Las preseas y los reconocimientos que confiera la Asamblea Legislativa del Distrito Federal, deberán sustentarse en un análisis objetivo de méritos a través de los cuales se realicen los grandes valores humanos.
+
+Las preseas se otorgarán como reconocimiento público a una conducta o trayectoria vital, singularmente ejemplares, así como también a obras valiosas y actos relevantes, realizados en beneficio de la humanidad o del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 172.
+
+Para los efectos del presente título, se entenderá por:
+
+I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y en Artes, Policial o Deportivo de la Asamblea Legislativa del Distrito Federal;
+
+II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
+
+a) Comisión Especial para otorgar la Medalla al Mérito Ciudadano de la Asamblea Legislativa del Distrito Federal;
+
+b) Comisiones Unidas de Ciencia y Tecnología y de Cultura de la Asamblea Legislativa del Distrito Federal;
+
+c) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal; y
+
+d) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal.
+
+III.- Candidato: Toda persona propuesta para recibir la presea y el reconocimiento que otorga la Asamblea Legislativa, que actúe en forma individual o colectiva, ya sea en asociación o institución pública o privada propuesta.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 173.
+
+Los casos en que haya necesidad de interpretar los términos de las bases del presente reglamento, así como los aspectos no previstos en el mismo, en lo relativo a la entrega de preseas y reconocimientos, serán resueltos por la Comisión dictaminadora correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 174.
+
+El reconocimiento consistirá de medalla metálica e implicará también el otorgamiento del diploma correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 175.
+
+La medalla a que se refiere el artículo anterior tendrá las características que aquí se describen:
+
+I.- Medalla de material en plata, .999 ley, dos caras, terminada en oro de 14 quilates, o en su defecto de una aleación más valiosa;
+
+II.- En el anverso, el logotipo de la Asamblea Legislativa y la legislatura que corresponda en relieve;
+
+III.- Al reverso, el grabado de la inscripción según sea el caso:
+
+a) "MEDALLA AL MÉRITO CIUDADANO"
+
+b) "MEDALLA AL MÉRITO EN CIENCIAS"
+
+c) "MEDALLA AL MÉRITO EN LAS ARTES"
+
+d) "MEDALLA AL MÉRITO POLICIAL"
+
+e) "MEDALLA AL MÉRITO DEPORTIVO"
+
+En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
+
+IV.- El listón del que penda la Medalla será de seda y con los colores patrios.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 176.
+
+El Diploma tendrá las siguientes características:
+
+I.- Será de pergamino natural;
+
+II.- En su texto deberá contener la leyenda "La Asamblea Legislativa del Distrito Federal, otorga el presente diploma a: (nombre del candidato electo) por su destacada labor en: (tipo de actividad), y en su caso: (de la disciplina); y
+
+III.- Nombre y firma del Presidente y Secretarios de la Mesa Directiva de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 177.
+
+El diploma a entregarse será elaborado en tantos suficientes para las personas acreedoras a los reconocimientos y para integrar el Archivo Histórico de la Asamblea Legislativa del Distrito Federal.
+
+El Archivo Histórico será el facultado de integrar el archivo relacionado con cada una de las Medallas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 178.
+
+Serán atribuciones de las Comisiones:
+
+I.- Actuar en forma colegiada y entrar en función permanente, a partir de la fecha de su integración, hasta la elaboración del dictamen, conteniendo la propuesta debidamente analizada;
+
+II.- Planificar el desarrollo del proceso de la entrega del reconocimiento;
+
+III.- Solicitar el apoyo a la Oficialía Mayor de la Asamblea Legislativa para publicar la convocatoria y el dictamen correspondiente;
+
+IV.- Evaluar la trayectoria individual de cada uno de los candidatos a la entrega del reconocimiento;
+
+V.- Fundamentar en cada una de sus elecciones específicas, en estricta observancia de este reglamento; y
+
+VI.- Elaborar oportunamente para su aprobación por el Pleno, el dictamen con las propuestas analizadas que deberá contener el día y la hora para la celebración de la Sesión Solemne de entrega de reconocimiento.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 179.
+
+La Oficialía Mayor de la Asamblea Legislativa otorgará la mayor difusión a las convocatorias que se expidan y, en todo caso, a petición de las Comisiones la hará llegar a las instituciones públicas y privadas para proponerse, o en su caso que pudieran tener interés en proponer candidatos.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 180.
+
+Toda persona, organismo, asociación o institución pública o privada cuyas actividades sean afines en la disciplina en la que participa, podrá proponerse o proponer por escrito, a los candidatos a recibir el reconocimiento y deberá ir acompañada de:
+
+I.- Datos generales de la persona o institución que realiza la propuesta;
+
+II.- Nombre o nombres de los candidatos;
+
+III.- Domicilio;
+
+IV.- Exposición de motivos en la que se deberá especificar aquellos méritos por virtud de los cuales se le considera merecedor del reconocimiento correspondiente;
+
+V.- Curriculum vitae de los candidatos, y
+
+VI.- La información documental adicional de acuerdo con la disciplina de la especialidad referida en la convocatoria respectiva.
+
+La documentación completa de las candidaturas remitidas a la Comisión correspondiente, se considerará confidencial, por lo que éstas permanecerán bajo resguardo de la Comisión respectiva, en tanto ésta emita el dictamen correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO II. DE LA MEDALLA AL MÉRITO CIUDADANO
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 181.
+
+La Medalla al Mérito Ciudadano, se otorgará como reconocimiento público, a mexicanos que se han destacado en la realización de actividades cuyos resultados aporten singulares beneficios en las diversas áreas del conocimiento humano o en acciones de trascendencia social para la ciudad y la comunidad del Distrito Federal, de conformidad con el presente reglamento.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 182.
+
+El Pleno de la Asamblea Legislativa, a propuesta de la Comisión de Gobierno nombrará una Comisión Especial, electa por voto mayoritario, la cual deberá conocer y estudiar las propuestas de candidatos a recibir el reconocimiento, así como elaborar el dictamen correspondiente, que deberá ser presentado al Pleno para su aprobación.
+
+El dictamen se presentará al Pleno una vez que el mismo sea aprobado por consenso por la Comisión Especial.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 183.
+
+La integración de la Comisión Especial deberá reflejar la composición plural de la Asamblea Legislativa. Será electa dentro del primer periodo ordinario de sesiones de cada ejercicio de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 184.
+
+La Asamblea Legislativa convocará cada año a la población, organizaciones sociales, sociedades científicas, organizaciones académicas y demás instituciones que representen el ambiente cultural del Distrito Federal, para que propongan a candidatos que como resultado de sus actividades hayan aportado beneficios en las diversas áreas del conocimiento humano o realizado acciones de trascendencia social para la ciudad o la comunidad del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 185.
+
+La convocatoria a que hace referencia el artículo anterior deberá ser elaborada y aprobada por la propia Comisión Especial a más tardar el quince de enero de cada año que corresponda.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 186.
+
+El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudadano queda comprendido del quince de enero al treinta y uno de marzo de cada año, observando en todo momento lo establecido en el artículo 180 del presente reglamento.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 187.
+
+El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril de cada año.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPITULO III. DE LA DISTINCIÓN EN LAS CIENCIAS Y LAS ARTES
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 188.
+
+El reconocimiento se otorgará a los ciudadanos que se hayan distinguido, en grado sobresaliente, en las artes y las ciencias.
+
+El reconocimiento se concederá:
+
+I.- En las Artes: A quienes hayan sobresalido en el dominio, dedicación, destreza, y cuya trayectoria sea sobresaliente en música, danza, teatro, pintura, escultura, arquitectura, dibujo y grabado.
+
+Se concederá el reconocimiento a la actividad en las artes a los ciudadanos que, con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, trabajos docentes, de investigación o de divulgación, así como aquéllos que hayan contribuido a enriquecer el acervo cultural del Distrito Federal y del País y, en general, al progreso de las artes.
+
+II.- En las Ciencias: A aquellos que hayan destacado en cualquiera de los campos de la investigación científica, en el ámbito de las ciencias naturales, exactas y sociales.
+
+Se concederá a quien haya realizado estudios, descubrimientos, aportaciones o propuestas, producto de investigaciones en cualquier campo de la ciencia; así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 189.
+
+La convocatoria respectiva y el proceso de la elección de los candidatos a recibir el reconocimiento estará a cargo de las Comisiones unidas de Cultura y Ciencia y Tecnología de la Asamblea Legislativa.
+
+Las Comisiones Unidas emitirán el dictamen correspondiente y deberá ser presentado ante el pleno de la Asamblea Legislativa, una vez que éste sea aprobado al interior de las comisiones.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 190.
+
+Si del resultado del dictamen resultaren dos candidatos, uno en el área de la Ciencia y el otro en el área de las Artes, cada Comisión podrá presentar el dictamen correspondiente, debiendo firmar ambos dictámenes todos los integrantes de las Comisiones unidas, y presentarse ante el Pleno de la Asamblea Legislativa cada uno por separado.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 191.
+
+En caso de ser dos dictámenes cada presidente de la Comisión ya sea de Ciencia y Tecnología o de Cultura podrá hacer uso de la Tribuna para dar lectura al dictamen correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 192.
+
+Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de agosto del año que corresponda una sola convocatoria que contemple a las Ciencias y las Artes.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 193.
+
+Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día quince del mes de octubre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
+
+A la Comisión de Ciencia y Tecnología le corresponde recibir las propuestas de candidatos al reconocimiento en las Ciencias.
+
+A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 194.
+
+Además de los requisitos establecidos por el artículo 180, la Comisión de Cultura deberá observar lo siguiente:
+
+I.- Información sobre la obra del creador:
+
+A. Letras: Obras publicadas;
+
+B. Artes visuales: (pintura, grabado, escultura, fotografía y diseño gráfico), exposiciones individuales y colectivas, en las que ha presentado su obra, y relación de obras que formen parte de colecciones de museos;
+
+C. Artes Escénicas (dramaturgia, dirección escénica, teatral o escenografía y danza);
+
+D. Coreografía: Obras estrenadas;
+
+E. Dramaturgia: Obras representadas y/o publicadas;
+
+F. Composición musical: Obras interpretadas, grabadas, publicadas y/o copia de los manuscritos de las obras;
+
+G. Arquitectura: Obras realizadas;
+
+H. Música (composición, canto, instrumentistas y dirección); y
+
+I. Dirección en medios audiovisuales: Obras audiovisuales producidas.
+
+II.- Relación de premios o distinciones obtenidos;
+
+III.- Selección de las notas críticas nacionales o internacionales que se han publicado en torno a su obra;
+
+IV.- Información documental adicional de acuerdo con la disciplina de su especialidad que dé muestra de la trayectoria del creador;
+
+V.- Hayan contribuido al enriquecimiento del legado cultural de nuestro país; y
+
+VI.- Hayan participado en la formación de artistas de otras generaciones.
+
+Por cada una de las ramas anteriormente citadas se hará entrega de un sólo reconocimiento.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 195.
+
+La Comisión al dictaminar, tomará en cuenta la exposición de méritos que se acompañe a cada propuesta, independientemente de los elementos de convicción que adquiera por sus propios medios.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 196.
+
+No será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las ramas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 197.
+
+El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera quincena del mes de noviembre del año que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO V. DE LA MEDALLA AL MÉRITO DEPORTIVO
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 198.
+
+La Medalla al Mérito Policial, se concederá a los elementos de los Cuerpos de Seguridad Pública en activo que se distingan por su heroísmo, valor, dedicación, constancia, lealtad institucional, honestidad y/o eficiencia en el desempeño de su labor en beneficio de la comunidad, o en aquellos elementos que en ejercicio de sus funciones fallezcan en cumplimiento de su deber.
+
+Sólo podrá otorgarse a elementos de las corporaciones policiales federales, de la Policía Preventiva del Distrito Federal, con todas las unidades y agrupamientos, de la Policía Complementaria, que está integrada por la Policía Auxiliar y la Bancaria e Industrial.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 199.
+
+El Reconocimiento se otorgará en los casos siguientes:
+
+I.- Por el salvamento de alguna persona, aún con riesgo de su vida;
+
+II.- Por la prevención de un grave accidente, aún con riesgo de su vida;
+
+III.- Por impedir la destrucción o pérdida de bienes importantes del Estado o de la Nación;
+
+IV.- Por la persecución y captura de delincuentes, con riesgo de su vida; y
+
+V.- Por la diligencia y cumplimiento demostrados en las comisiones conferidas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 200.
+
+Corresponderá a la Comisión de Seguridad Pública de la Asamblea Legislativa convocar y efectuar el proceso de la elección de los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación.
+
+La Comisión de Seguridad Pública presentará ante el Pleno de la Asamblea Legislativa el dictamen correspondiente, una vez que éste sea aprobado por consenso al interior de la propia Comisión.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 201.
+
+El reconocimiento se podrá otorgar hasta un máximo de seis elementos de los Cuerpos de Seguridad Pública, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Pública, del cual se respetará que el 50% deba ser de un mismo sexo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 202.
+
+La Comisión de Seguridad Pública deberá formular la convocatoria correspondiente en la segunda quincena del mes de agosto del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 203.
+
+Las propuestas y la documentación correspondiente de los candidatos para ser merecedores a la Medalla al Mérito Policial, serán presentadas por la comunidad, así como por los miembros en activo de los diversos cuerpos de seguridad pública, del primero de septiembre al quince de noviembre del año que corresponda, ante la Comisión de Seguridad Pública.
+
+Además de los requisitos señalados en el artículo 180 se deberá tomar en cuenta a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 204.
+
+La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en la fecha en que se conmemore el "Día del Policía" del año que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+### CAPÍTULO VI. DEL PROCESO DE ELECCIÓN DE CANDIDATOS
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 205.
+
+La Medalla al Mérito Deportivo constituye el reconocimiento que a nombre de la Asamblea Legislativa otorga a todos aquellos deportistas mexicanos que en forma individual o colectiva, que por su dedicación y esfuerzo, hayan obtenido triunfos trascendentes, en las diferentes actividades deportivas de carácter regional, nacional o mundial.
+
+Las actividades deportivas serán tomadas en cuenta de preferencia en eventos de alto nivel competitivo en cada una de sus respectivas disciplinas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 206.
+
+Sólo serán consideradas para efecto del presente reconocimiento, las disciplinas oficialmente reconocidas por la Confederación Deportiva Mexicana.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 207.
+
+La Comisión del Deporte de la Asamblea Legislativa del Distrito Federal podrá solicitar a las asociaciones deportivas del Distrito Federal, los calendarios de actividades que habrán de realizarse durante el año, a efecto de llevar a cabo un seguimiento de la labor desempeñada por los deportistas.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 208.
+
+La Comisión del Deporte de la Asamblea Legislativa será el órgano competente, encargado de convocar y efectuar el proceso de la elección de los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación.
+
+El dictamen se presentará ante el pleno de la Asamblea Legislativa para su aprobación una vez que el mismo sea aprobado por consenso al interior de la Comisión del Deporte.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 209.
+
+La Comisión del Deporte será la encargada de realizar la convocatoria correspondiente y deberá ser emitida, a más tardar, en la primera quincena del mes de noviembre del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 210.
+
+Expedida la convocatoria, se recibirán las propuestas y sus anexos hasta el día quince del mes de enero siguiente ante la Comisión del Deporte.
+
+Las propuestas de los deportistas presentados como candidatos, deberán de contener las actividades deportivas en que participó en el tiempo comprendido del 31 de diciembre al año anterior, al 30 de diciembre del año en que se realiza la convocatoria correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 211.
+
+Además de los requisitos señalados en el artículo 180 se deberán tomar en cuenta los siguientes requisitos:
+
+I.- Documentación para tomar en cuenta de los eventos en que participó, lugar que ocupó, número de participantes e importancia de los mismos; y
+
+II.- Características personales, aptitudes naturales y nivel deportivo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 212.
+
+La Sesión Solemne para la entrega del Reconocimiento al Mérito Deportivo se celebrará dentro de la segunda quincena del mes de marzo del año que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 213.
+
+Cuando una persona o institución decida formular una candidatura, la misma se abstendrá de formular otra u otras con relación a la convocatoria del año que corresponda.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 214.
+
+Solamente por causa de fuerza mayor, no imputable al interesado, previa justificación a entera satisfacción de la Comisión dictaminadora, podrán recibirse propuestas fuera del término señalado en la convocatoria respectiva, pero de ninguna manera una vez aprobadas por la Comisión dictaminadora.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 215.
+
+Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
+
+El candidato al reconocimiento no deberá ser servidor público, con excepción hecha a la medalla al mérito policial, ni tener parentesco con algún servidor público.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 216.
+
+Sí el candidato propuesto por la Comisión dictaminadora para recibir la medalla, se excusare, la Comisión elegirá y dictaminará de entre los demás candidatos propuestos, en un lapso no mayor de cinco días hábiles. El nuevo dictamen deberá ser sometido a la aprobación del Pleno de la Asamblea Legislativa.
+
+En caso de declarar desierta el otorgamiento de la medalla, la Comisión dictaminadora deberá presentar el dictamen correspondiente ante el Pleno de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 217.
+
+La decisión que se adopte será notificada al interesado y dada a conocer oportunamente a través de los medios de comunicación.
+
+El Decreto por el que se otorga la Medalla correspondiente será publicado en la Gaceta Oficial del Distrito Federal, así como en, al menos, dos diarios de circulación nacional.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 218.
+
+La resolución que se tome y que formará parte del dictamen, tendrá efectos definitivos y por tanto será inatacable.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 219.
+
+La entrega de los reconocimientos respectivos deberán ser anuales y entregarse en Sesión Solemne de la Asamblea legislativa.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 220.
+
+La Sesión Solemne deberá celebrarse con el único objeto de entregar el reconocimiento de la medalla y el diploma respectivo al candidato electo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 221.
+
+El Pleno de la Asamblea Legislativa establecerá las reglas para la Sesión Solemne, previa propuesta de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 222.
+
+En la Sesión Solemne que deberá celebrarse, se invitarán como testigos de honor al Jefe de Gobierno del Distrito Federal y al Presidente del Tribunal Superior de Justicia del Distrito Federal, quienes ocuparán el lugar que le corresponde dentro de la Mesa Directiva de la Asamblea Legislativa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+
+## TÍTULO QUINTO. DE LA INSCRIPCIÓN CON LETRAS DE ORO EN EL MURO DE HONOR Y DENOMINACIÓN DE SALONES DE LA ASAMBLEA LEGISLATIVA
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 223.
+
+La inscripción en el Muro de Honor de la Asamblea Legislativa se hará conforme a lo siguiente:
+
+I.- Que la persona física haya aportado evidentes beneficios en diversas áreas del conocimiento humano o en acciones de trascendencia social preferentemente, para el Distrito Federal, o en su caso para la República;
+
+II.- Que se hayan registrado acontecimientos que hayan dado pauta para la transformación política y social, preferentemente del Distrito Federal o en su caso, del país;
+
+III.- La solicitud de inscripción en letras de oro deberá suscribirse por al menos, el 33% de los Diputados que integran la Legislatura. Dicha solicitud deberá justificar debidamente la inscripción solicitada, y
+
+IV.- La inscripción deberá ser aprobada por dos terceras partes de los integrantes de la legislatura.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 224.
+
+No se denominará, ni se redenominará, a los salones de la Asamblea Legislativa, sin el acuerdo de las dos terceras partes de los Diputados miembros de la Asamblea.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1529,3 +2395,19 @@ SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su
 G.O. 13 DE ENERO DE 2004.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE MARZO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se abroga el Reglamento para la Entrega de la Medalla al Mérito Policial de los Elementos de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 15 de noviembre de 2004.
+
+CUARTO.- Se abroga El Reglamento de la Medalla al Mérito Ciudadano de la Asamblea de Representantes del Distrito Federal, publicado en el Diario Oficial de la Federación el 23 de enero de 1991, a partir del 1º de mayo del 2005.
+
+Por lo que hace a la entrega de la Medalla al Mérito Ciudadano 2005, se continuará conforme al procedimiento iniciado con base en el Reglamento de la Medalla al Mérito Ciudadano de la Asamblea de Representantes del Distrito Federal.
+
+QUINTO.- Por única ocasión la convocatoria que refiere el artículo 209 del presente Reglamento, se publicará dentro de los primeros quince días del mes de abril de 2005 y se recibirán las propuestas y sus anexos como lo establece el artículo 210 de este ordenamiento, hasta el 31 de mayo del mismo año.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
