@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1995-04-19"
+last_updated: "1995-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -265,9 +265,11 @@ VI.- No ser servidor público de la Federación, del Estado o del Municipio, no 
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 28.
 
-Es nula la elección de Munícipe que recaiga sobre militares en servicio activo, Gobernador del Estado, Magistrado del Supremo Tribunal de Justicia y Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, a menos que se hayan separado definitivamente de sus funciones seis meses antes de la elección.
+Es nula la elección de Munícipe que recaiga sobre militares en servicio activo, Gobernador del Estado, Magistrado del Supremo Tribunal de Justicia y Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio a menos que se hayan separado definitivamente de sus funciones 90 días antes de la elección.
 
 ###### ARTICULO 29.
 
@@ -2053,7 +2055,7 @@ IV.- Cuando se trate de retenciones de impuesto sobre productos del trabajo.
 
 ###### ARTICULO 226.
 
-Fuera de lo establecido en el artículo que antecede,el salario no es susceptible de embargo judicial o administrativo.
+Fuera de lo establecido en el artículo que antecede, el salario no es susceptible de embargo judicial o administrativo.
 
 ###### ARTICULO 227.
 
@@ -2710,3 +2712,9 @@ P.O. 19 DE ABRIL DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
