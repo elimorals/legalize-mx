@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2003-04-10"
+last_updated: "2004-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -264,6 +264,10 @@ El Ayuntamiento no podrá conceder a sus funcionarios o empleados, gratificacion
 El aumento en las dietas de los integrantes del Ayuntamiento, no tendrá efecto en el período constitucional del Ayuntamiento que lo hubiere acordado.
 
 Al elaborar el último Presupuesto de Egresos de su período constitucional, el Ayuntamiento deberá realizar un análisis del monto que perciben por concepto de dieta, para que, en caso de considerar necesario, se lleve a cabo el incremento correspondiente, que tendrá vigencia a partir del 16 de septiembre del próximo año.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2004)</small>
+
+Queda prohibido acordar la entrega de numerario o bienes en especie al Presidente Municipal, Síndico, Regidores o servidores públicos de confianza de primer nivel del Ayuntamiento, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por dejar de prestar sus servicios a la conclusión del trienio de que se trate o dentro del año inmediato anterior.
 
 ###### Artículo 29.
 
@@ -3714,3 +3718,7 @@ B.O. 10 DE ABRIL DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
