@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1961-11-27"
+last_updated: "1962-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 1962.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -266,7 +266,7 @@ En los casos a que se refieren los dos párrafos anteriores, el dominio de la Na
 
 (ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1960) (F. DE E., D.O.F. 7 DE ENERO DE 1961)
 
-Corresponde exclusivamente a la Nación, generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
+Corresponde exclusivamente a la Nación, generar conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -1424,6 +1424,10 @@ Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en
 
 Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia de trabajo, cuando se encuentre que ha habido en contra del agraviado, una violación manifiesta de la ley, que lo ha dejado sin defensa, y en materia penal, además cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
 
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 1962)</small>
+
+En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios y comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la ley reglamentaria; y no procederán el desistimiento, el sobreseimiento por inactividad, ni la caducidad de la instancia, cuando se afecten derechos de los ejidos o núcleos de población comunal.
+
 III.- En materias judicial, civil o penal y del trabajo el amparo sólo procederá:
 
 a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por virtud del cual puedan ser modificados o reformados, ya sea que la violación de la ley se cometa en ellos, o que, cometida durante la secuela del procedimiento, afecte a las defensas del quejoso trascendiendo al resultado del fallo; siempre que en materia judicial, civil o penal, se hubiere reclamado oportunamente y protestado contra ella por negarse su reparación y que cuando cometida en primera instancia, se haya alegado en la segunda, por vía de agravio.
@@ -2443,3 +2447,7 @@ SEGUNDO.- La ley reglamentaria fijará las normas a que deben sujetarse las conc
 D.O.F. 27 DE NOVIEMBRE DE 1961.
 
 UNICO.- Esta reforma entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE NOVIEMBRE DE 1962.
+
+UNICO.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
