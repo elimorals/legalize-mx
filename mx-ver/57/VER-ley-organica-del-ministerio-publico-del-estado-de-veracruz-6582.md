@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "1989-07-11"
+last_updated: "1989-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -233,7 +233,9 @@ III.- Ser Licenciado en Derecho, con título expedido y registrado, conforme a l
 
 Además de los requisitos anteriores, los Agentes del Ministerio Público, Auxiliares del Procurador, deberán tener no menos de 5 años de ejercicio profesional.
 
-Para ser Director de la Policía Judicial, el interesado deberá reunir los mismos requisitos señalados para ser Agente del Ministerio Público.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
+Para ser Director de la Policía Judicial el interesado deberá reunir los mismos requisitos señalados para ser Agente del Ministerio Público. El Procurador podrá dispensar, el requisito de tener titulo de Licenciado en Derecho, a quien acredite experiencia y aptitud en la investigación de delitos.
 
 Los Visitadores y los Directores: de Averiguaciones Previas, de Policía Judicial, de Control de Procesos y del Jurídico Consultivo, serán Agentes del Ministerio Público Auxiliares del Procurador.
 
@@ -1106,3 +1108,13 @@ El funcionamiento de las subprocuradurías a que se refiere esta reforma y adici
 ###### ARTICULO TERCERO.
 
 Publíquese en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN LA "GACETA OFICIAL" ORGANO DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE ORDENAMIENTO.
