@@ -4,7 +4,7 @@ identifier: "VER-ley-de-transito-y-transporte-para-el-estado-de-veracruz-6723"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-19"
-last_updated: "1988-01-19"
+last_updated: "1992-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el martes 19 de enero de 1988.
 
@@ -71,9 +71,11 @@ V.- Los servidores públicos dependientes de la Dirección General de Tránsito 
 
 Las corporaciones policiacas del Estado y de los municipios se consideran, para efectos de esta Ley, como auxiliares de las autoridades de Tránsito y Transporte.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 5°
 
-Tienen el carácter de Organos Auxiliares de vialidad de las autoridades de Tránsito y Transporte: los Comités Técnicos, los Patronatos y las Escuelas de Educación Vial que operen en el Estado.
+Tienen el carácter de Organos Auxiliares de vialidad de las autoridades de Tránsito y Transporte: los Consejos Técnicos de Transporte, los Consejos Municipales y los Patronatos de Vialidad que operen en el Estado.
 
 ### CAPITULO II. DE LAS LICENCIAS O PERMISOS PARA CONDUCIR VEHICULOS DE MOTOR
 
@@ -81,13 +83,17 @@ Tienen el carácter de Organos Auxiliares de vialidad de las autoridades de Trá
 
 Para la conducción de cualquier vehículo de motor, se requiere obtener y portar la licencia o permiso, que para tal fin expida la Dirección General de Tránsito y Transporte del Estado.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 7°
 
-Las licencias podrán ser: de chofer, automovilista, motorista y motociclista. Sólo se expedirán a los mayores de edad y serán permanentes, con los resellos y previa satisfacción de los requisitos que señalen los reglamentos de esta Ley.
+Las licencias sólo se expedirán a los mayores de edad y serán de chofer, automovilista y motociclista, en las modalidades y con los requisitos que señale el Reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 8°
 
-Las licencias de conductor autorizadas en cualquier otro Estado de la República, el Distrito Federal o del extranjero, tienen validez en el Estado de Veracruz y su titular puede manejar el tipo de vehículo que la misma señale. Para conducir vehículos destinados a la prestación del servicio público de transporte, concesionados por el Estado, se requerirá licencia de chofer expedida por la Dirección General de Tránsito y Transporte.
+Las licencias de conductor autorizadas en cualquier otro Estado de la República, el Distrito Federal o del extranjero, tienen validez en el estado de Veracruz y su titular puede manejar el tipo de vehículo que la misma señale. Para conducir vehículos destinados a la prestación del servicio público de transporte estatal se requerirá licencia de chofer expedida por la Dirección Gneral (sic) de Tránsito y Transporte.
 
 ###### ARTICULO 9°
 
@@ -141,165 +147,161 @@ En todos los cruceros que carezcan de señales o dispositivos para controlar el 
 
 ### CAPITULO VI. DE LOS SERVICIOS PUBLICOS DE TRANSPORTE
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 20.
 
-El servicio público de transporte por las vías públicas, es un atributo del Estado y sólo podrá concesionarse a los particulares, en los casos, previa satisfacción de los requisitos y con las modalidades establecidas en esta Ley y sus Reglamentos.
+El servicio público de transporte es de utilidad pública, estará sujeto a concesión o permiso, que otorgará la Secretaría General de Gobierno, previa satisfacción de los requisitos y de acuerdo a las disposiciones establecidas en esta Ley y sus reglamentos.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO 1992)</small>
 
 ###### ARTICULO 21.
 
-Los servicios públicos de transporte, según su destino, comprenden las modalidades siguientes:
+Los servicios públicos de transporte se dividen en:
 
-I.- De carga, que podrán ser:
+I.- De carga.
 
-a) en general,
+II.- De pasajeros:
 
-b) materialistas
+a) Urbano, suburbano o foráneo.
 
-c) especializados.
+b) Con ruta e itinerario fijo.
 
-II.- De pasajeros, que podrán ser:
+c) Con ruta fija.
 
-a) urbanos, sub-urbanos o foráneos,
+d) Servicio "A" y servicio "B".
 
-b) de primera o segunda clase,
+e) Taxi.
 
-c) con ruta fija,
+III.- Exclusivo de Turismo.
 
-> <small>(F. DE E., G.O. 14 DE JUNIO DE 1988)</small>
+IV.- Escolar o de Personal de Empresa.
 
-d) sin ruta fija, con o sin sitio establecido,
+V.- Rural mixto carga pasaje.
 
-e) escolares o de personal de empresas,
+Los vehículos que se utilicen para prestar el servicio de transporte deberán reunir las características, condiciones técnicas y demás requisitos que para tal efecto fijen los Reglamentos respectivos y Dirección General de Tránsito y Transporte.
 
-f) exclusivo de turismo,
-
-g) con o sin horario establecido,
-
-h) colectivos:
-
-1°. en automóviles
-
-2°. en microbuses con capacidad de más de 20 pasajeros.
-
-Se prohíbe prestar el servicio público de transporte colectivo, en vehículos que a juicio de la Dirección General de Tránsito y Transporte no reúnan las condiciones técnicas que garanticen la seguridad de los pasajeros.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 22.
 
-Para los efectos de esta Ley se entiende por concesión, la que otorga el Titular del Poder Ejecutivo del Estado, para que una persona física o moral proporcione el servicio público de transporte, con sujeción a tarifas y modalidades determinadas por el interés general y la naturaleza del transporte de que se trate.
+Las maniobras de carga, descarga, estiba, desestiba, acarreo, almacenaje, transbordo y en general las que auxilien y complementen el servicio público de transporte, federal o local, que se realicen dentro de la jurisdicción territorial del Estado, se consideran como actividades conexas del mismo. No requerirán de autorización alguna para su prestación y bajo ningún concepto, estas actividades podrán ser objeto de monopolio en beneficio de una o varias personas físicas o morales.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 23.
 
-La Dirección General de Tránsito y Transporte deberá:
+Las concesiones o permisos se otorgarán para servicio público o servicio particular.
 
-I.- Realizar periódicamente y mantener actualizados, estudios en los que, atendiendo a las condiciones socio-económicas de cada lugar se determinen las necesidades de los servicios públicos de transporte. En este caso se escuchará la opinión de los Comités Técnicos y de los Ayuntamientos.
+Se entiende por servicio público aquél que se presta para satisfacer necesidades colectivas y que es ofrecido o prestado a terceros contra el pago de una prestación.
 
-II.- Llevar un archivo en el que se clasifiquen los expedientes formados con motivo de las solicitudes formuladas por las personas físicas o morales para la prestación de los servicios públicos de transporte, asignándoles una numeración progresiva, según la fecha de su cabal integración.
+Se entiende por servicio particular aquél que se presta para satisfacer necesidades propias de permisionario, relacionadas con su actividad y sin retribución.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 24.
 
-Sólo podrán otorgarse concesiones en las modalidades de servicios públicos de transporte que en cada lugar resulte necesario satisfacer, de acuerdo con los estudios que haga la Dirección General de Tránsito y Transporte del Estado.
+Los vehículos destinados al servicio público de transporte, deberán contar con equipo anticontaminante y cumplir con las normas sobre emisión de contaminantes, en la forma y términos que dispongan los ordenamientos legales respectivos.
 
-Los vehículos destinados al servicio público de transporte, deberán contar con el equipo anticontaminante en la forma y términos que lo dispongan los ordenamientos legales respectivos.
-
-Se prohíbe el cambio de concesión de una jurisdicción a otra.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 25.
 
-A las personas físicas, se les otorgará concesión para prestar el servicio público de transporte, si satisfacen los requisitos siguientes:
+Las concesiones o permisos se otorgarán a ciudadanos mexicanos y a personas morales constituidas por éstos, de acuerdo a las leyes mexicanas.
 
-I.- Ser mexicanos.
-
-II.- Tener licencia de chofer expedida en el Estado y resultar aprobado en el examen que deberá practicar la Dirección General de Tránsito y Transporte.
-
-III.- Ser trabajador dedicado a la prestación del servicio público de transporte.
-
-IV.- No ser reincidente en los términos del Código Penal.
-
-V.- No haber sido sancionado más de cinco veces, por infracciones consideradas como graves en los Reglamentos de esta Ley.
-
-VI.- No habérseles sancionado con la cancelación de alguna concesión de la que haya sido titular.
-
-VII.- Tratándose de transporte colectivo en microbuses, se requerirá además que el solicitante tenga por lo menos una concesión de servicio público de transporte de pasajeros urbano o sub-urbano.
-
-VIII.- Los demás que se deriven de esta Ley y sus Reglamentos.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 26.
 
-A las personas morales se les otorgarán las concesiones a que se refiere este capítulo siempre que estén constituidas legalmente y que su objeto social sea la prestación del servicio público de transporte.
+Las concesiones de transporte público se otorgarán por tiempo indefinido.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 27.
 
-En ningún caso, se otorgará a las personas físicas más de una concesión para prestar el servicio público de transporte de carga y de pasajeros en las modalidades de taxi y colectivo en automóvil. En las demás modalidades se les podrán otorgar hasta tres concesiones.
+Las concesiones o permisos para el transporte de carga autorizarán a sus titulares para realizar el transporte por todos los caminos y localidades de jurisdicción estatal.
 
-A las personas morales se les podrán otorgar las concesiones que, a juicio de la Dirección General de Tránsito y Transporte, resulten necesarias para que cumplan con su objetivo social.
+El transporte de materiales y residuos peligrosos se sujetará a la reglamentación correspondiente.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 28.
 
-Las concesiones para prestar el servicio público de transporte en las modalidades de taxi y colectivo en automóvil, no podrán transmitirse a terceros. En las demás modalidades podrán ser transmisibles entre concesionarios y previa autorización de la Dirección General de Tránsito y Transporte del Estado. En ambos casos se exceptúan las adquisiciones que se hagan por herencia.
+Los concesionarios o permisionarios del transporte público de pasajeros deberán solicitar a la Dirección General de Tránsito y Transporte: la ruta que deseen explotar y los horarios a que se sujetará el servicio.
+
+La Dirección General resolverá lo procedente de acuerdo con los estudios que realice de las condiciones que hagan factible la prestación de servicio.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 29.
 
-Presentada una solicitud ante la Dirección General de Tránsito y Transporte que reúna los requisitos legales, se le hará saber al interesado el número de solicitudes con derecho que le antecedan y el expediente que le corresponda, según la jurisdicción en que se haga la petición y para la modalidad que en la misma se indique.
+La Secretaría General de Gobierno fijará y modificará, de ser el caso, las condiciones tarifarias y sus reglas de aplicación, conforme a las cuales se prestarán los servicios públicos de transporte de pasajeros.
 
-La Dirección General de Tránsito y Transporte, continuará el trámite de las solicitudes inscritas, aun cuando al interesado le resulte una incapacidad para trabajar.
+Cuando se trate del servicio público de transporte de carga, los usuarios y los concesionarios o permisionarios convendrán la cantidad a pagar por su prestación excepto, cuando a juicio del Secretario General de Gobierno, se requiera fijar tarifas para preservar el interés público.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 30.
 
-Para el otorgamiento de concesiones del servicio público de transporte, se seguirá el procedimiento siguiente:
+Los usuarios de los servicios de transporte y de maniobras a que se refieren los artículos 21 y 22 tendrán plena libertad para contratar estos servicios con quien mejor convenga a sus intereses o utilizar su propio personal para realizarlas.
 
-I.- Cuando de los estudios a que se refiere la fracción I, del artículo 23, de esta Ley resulte conducente la ampliación del servicio público de transporte dentro de la modalidad que corresponda, la Dirección General de Tránsito y Transporte lo comunicará al Secretario General de Gobierno quien dará cuenta al Gobernador del Estado para que resuelva lo procedente.
-
-II.- Con la autorización del Titular del Poder Ejecutivo, la autoridad de Tránsito y Transporte citará por riguroso orden de prelación al o los solicitantes de la concesión de la jurisdicción de que se trate. El citatorio se enviará por correo certificado con acuse de recibo al domicilio del solicitante, señalando los documentos que se deban actualizar apercibido de que en caso de no presentarse en un plazo de treinta días contados a partir de que reciba el citatorio, la solicitud será desechada.
-
-III.- Si el o los solicitantes no cumplen con lo requerido, en el plazo de los treinta días a que se refiere la fracción anterior se citará en igual forma al o los siguientes solicitantes en el número de orden de los expedientes.
-
-IV.- Completo el expediente, la Dirección General de Tránsito y Transporte formulará el acuerdo de concesión y recabará la firma del Secretario General de Gobierno y del Gobernador del Estado.
-
-V.- Otorgada la concesión, la autoridad de Tránsito y Transporte, vigilará que en un plazo de sesenta días, se cumpla con las disposiciones fiscales y reglamentarias que resulten aplicables.
-
-El Gobernador del Estado, en casos excepcionales, podrá dispensar los requisitos señalados en esta Ley para el otorgamiento de una concesión o permiso.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 31.
 
-Se faculta al Director General de Tránsito y Transporte a otorgar permisos para prestar el servicio público de transporte, a quienes teniendo otorgada una concesión, no puedan prestar el servicio por la ausencia de cualquier requisito. Respecto de una misma concesión, sólo se podrá autorizar hasta tres permisos por año, de veinte días cada uno.
+La Dirección General de Tránsito y Transporte podrá otorgar permisos temporales cuando se presente una demanda extraordinaria de transporte, para su satisfacción inmediata.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 32.
 
-La Dirección General de Tránsito y Transporte podrá suspender hasta por tres meses los derechos amparados en una concesión cuando:
+La Dirección General de Tránsito y Transporte podrá suspender hasta por tres meses los derechos derivados de una concesión o permiso cuando:
 
 I.- Se altere la tarifa establecida para el servicio público de que se trate.
 
-II.- Se preste el servicio en una modalidad distinta a la concesionada.
+II.- Se preste el servicio en una modalidad distinta a la concesionada o permisionada.
 
-III.- Se deje de cumplir con alguna de las modalidades señaladas en la concesión.
+III.- Se deje de cumplir con alguna de las modalidades señaladas en la concesión o permiso.
 
-IV.- Sin causa justificada, se deje de prestar el servicio por más de treinta días.
+IV.- Sin causa justificada se deje de prestar el servicio por más de treinta días.
 
-V.- Se permita que en la prestación del servicio, el vehículo sea conducido por quien carezca de licencia de chofer o que teniéndola esté suspendida.
+V.- En la prestación del servicio, el vehículo sea conducido por quien carezca de licencia o la tarjeta de identificación correspondientes al servicio de que se trate o teniendo aquélla; éste suspendida.
 
-VI.- Se conceda el uso o disfrute de la concesión a terceros, sin la aprobación de la Dirección General de Tránsito y Transporte.
+VI.- Se conceda el uso o disfrute de la concesión o permiso a terceros, sin la autorización de la Dirección General de Tránsito y Transporte.
 
-VII.- Se altere la documentación que ampare la concesión, un permiso o cualesquiera de los documentos del vehículo.
+VII.- Se altere la documentación que ampare la concesión o permiso, o cualesquiera de los documentos del vehículo.
 
-VIII.- Por falta de mantenimiento, el vehículo o una terminal o un servicio conexo, no reúna las condiciones de seguridad e higiene que determinen los reglamentos o las leyes de la materia.
+VIII.- El vehículo o una terminal o un servicio conexo, por falta de mantenimiento, no reúna las condiciones de seguridad e higiene que determinen los reglamentos o las leyes de la materia.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 33.
 
-No procederá la suspensión cuando el concesionario pruebe que adoptó medidas idóneas para impedir la causa que la origina; en este caso si el responsable es el chofer del vehículo, se le suspenderá por igual término la licencia de conducir.
+No procederá la suspensión cuando el concesionario o permisionario pruebe que adoptó medidas idóneas para impedir la causa que la origina; en los casos que el responsable sea el chofer del vehículo, se le suspenderá por igual término la licencia de conducir.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 34.
 
-La Dirección General de Tránsito y Transporte, cancelará la concesión cuando:
+La Dirección General de Tránsito y Transporte, revocará las concesiones o permisos cuando:
 
 I.- Se incurra por tercera ocasión en alguna de las causas de suspensión.
 
-II.- Se ampare a más de un vehículo con una misma concesión.
+II.- Se ejecuten actos para impedir a otros concesionarios o permisionarios la prestación de algún servicio público de transporte.
 
-III.- El concesionario tenga conocimiento de que el vehículo se utilizará o fue utilizado en la comisión de un delito y no lo informe a la autoridad correspondiente.
+III.- Se acredite la responsabilidad penal del concesionario o permisionario en la comisión de un delito, para cuya ejecución se hubiese utilizado el vehículo destinado al servicio.
+
+IV.- Se efectúe transporte distinto a aquél para el cual se haya expedido la concesión o permiso.
+
+V.- Se violen en más de tres ocasiones, las condiciones establecidas en la concesión o permiso otorgado.
+
+VI.- Se niegue sin causa justificada, previo apercibimiento de la Dirección General la prestación del servicio público a cualquier persona que lo solicite.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 35.
 
-La suspensión o cancelación de una concesión, procederá sin perjuicio de la aplicación de otras sanciones.
+La suspensión o revocación de una concesión o permiso procederá sin perjuicio de la aplicación de otras sanciones.
 
 ###### ARTICULO 36.
 
@@ -405,9 +407,11 @@ Para la aplicación de las multas se estará a lo dispuesto en el artículo 21 d
 
 Quien reincida en una falta en el término de seis meses, será sancionado con el doble de la multa a que se refiere el artículo anterior, y la autoridad de Tránsito podrá recoger y suspender los efectos de la licencia del infractor hasta por tres meses, cuando la infracción se ubique en las categorías "C" o "D". Tratándose del servicio público, la autoridad podrá retener el vehículo por igual término.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 48.
 
-Corresponde a la Dirección General de Tránsito y Transporte aplicar las multas que señalen los reglamentos de esta Ley y su tabulador. La misma autoridad aplicará y ejecutará las sanciones de suspensión y cancelación de licencias, concesiones, permisos y autorizaciones señaladas en esta Ley.
+Corresponde a la Dirección General de Tránsito y Transporte aplicar las multas que señalen los reglamentos de esta Ley y su tabulador. La misma autoridad aplicará y ejecutará las sanciones de suspensión, cancelación y revocación de licencias, concesiones, permisos y autorizaciones señaladas en esta Ley.
 
 ###### ARTICULO 49.
 
@@ -417,9 +421,11 @@ Cuando el infractor pague la multa a que se haya hecho acreedor, en un plazo que
 
 Cualquier infracción a esta Ley o a sus Reglamentos, que no tenga señalada una sanción específica, se le aplicará la prevista en la fracción II del artículo 46 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 51.
 
-Para la aplicación y ejecución de las sanciones de suspensión, cancelación o clausura, se establece el siguiente procedimiento:
+Para la aplicación y ejecución de las sanciones de suspensión, revocación o clausura, se establece el siguiente procedimiento:
 
 I.- Se notificará al infractor por correo certificado, en el domicilio que del mismo tenga registrado la Dirección General de Tránsito y Transporte, comunicándole: la infracción cometida, la sanción que pretende aplicársele y la indicación de que tiene un plazo de quince días hábiles, a partir de la recepción de la notificación, para formular los alegatos y presentar las pruebas que en su defensa juzgue convenientes.
 
@@ -447,33 +453,49 @@ I.- El superior jerárquico cuando se trate de multa.
 
 II.- La autoridad de Tránsito de mayor jerarquía en la localidad, cuando se trate de suspensión de licencias, y
 
-III.- El Director de Tránsito y Transporte, cuando se trate de cancelación de licencias o suspensión o cancelación de concesiones, permisos y autorizaciones o clausura.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+III.- El Director General de Tránsito y Transporte, cuando se trate de cancelación de licencias o suspensión o revocación de concesiones, permisos y autorizaciones o clausura.
 
 ###### ARTICULO 56.
 
 Al interponerse el recurso de inconformidad se podrán formular alegatos y rendir pruebas y la resolución se dictará dentro de los cinco días hábiles siguientes al de la interposición.
 
-### CAPITULO XI. DE LOS COMITES TECNICOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
+
+### CAPITULO XI. DE LOS CONSEJOS TECNICOS DE TRANSPORTE
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 57.
 
-Los transportistas del Estado podrán constituir Comités Técnicos, como órganos auxiliares de estudio y opinión técnica sobre el otorgamiento de concesiones y permisos, modalidades y mejoramiento en la prestación de servicios.
+Los transportistas del Estado podrán constituir Consejos Técnicos de Transporte, como órganos auxiliares de estudio y opinión técnica para el mejoramiento en la prestación de servicios.
 
-Estos Comités podrán intervenir en conflictos de carácter individual o colectivo que afecten al autotransporte estatal y funcionarán con un sistema de evaluación y seguimiento de las medidas que se adopten para la eficaz prestación del servicio público de transporte de personas o cosas.
+Estos Consejos podrán intervenir en conflictos de carácter individual o colectivo que afecten los intereses internos de los transportistas.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 58.
 
-El objeto de estos Comités será beneficiar a los usuarios del servicio público de autotransporte, como órganos de vinculación y solidaridad política y administrativa entre el Gobierno del Estado y los transportistas, así como entre éstos.
+El objeto de estos Consejos será beneficiar a los usuarios del servicio público de transporte, como órgano de vinculación y solidaridad política y administrativa entre el Gobierno del Estado y los transportistas, así como entre éstos.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 59.
 
-Sólo habrá un Comité Técnico por cada una de las modalidades del autotransporte que señala el artículo 21 de esta Ley y se integrará con los concesionarios o permisionarios respectivos, cuyo número no podrá ser superior a quince representantes.
+Sólo habrá un Consejo Técnico a nivel estatal por cada una de las modalidades del transporte que señala el artículo 21 de esta Ley y se integrará con los concesionarios o permisionarios respectivos, cuyo número no podrá ser superior a quince representantes.
 
-El Gobierno del Estado designará un representante ante cada Comité Técnico para que participe en sus sesiones.
+Para su mejor funcionamiento cada Consejo Técnico contará con Consejos Técnicos Regionales en los que se atenderán los asuntos de la región correspondiente y estarán integrados con no más de cinco representantes.
+
+Cada Consejo Técnico a nivel estatal, determinará el número de Consejos Técnicos Regionales que se requieran.
+
+El Gobierno del Estado designará un representante ante cada Consejo Técnico para que participe en sus sesiones.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 60.
 
-Las decisiones y opiniones que se adopten en el seno de los Comités, no serán obligatorias para las autoridades responsables del tránsito y transporte de la Entidad, sin embargo los Comités las comunicarán a éstas para que las ponderen en sus decisiones.
+Las decisiones y opiniones que se adopten en el seno de los Consejos Técnicos, no serán obligatorias para las autoridades responsables del tránsito y transporte de la Entidad, sin embargo los Consejos a nivel estatal, las comunicarán a éstas para que las ponderen en sus decisiones.
 
 ### CAPITULO XII. DEL PERSONAL
 
@@ -538,3 +560,15 @@ La Dirección General de Tránsito y Transporte, convocará a los transportistas
 DADA en el Salón de Sesiones de la Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, su capital, a los doce días del mes de enero de mil novecientos ochenta y ocho.- Diputado Presidente, C. Gustavo Arróniz Zamudio.- Rúbrica.- Diputado Secretario, Lic. Rosa Ma. Campos Gutiérrez.- Rúbrica".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente decreto en la Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los doce días del mes de enero de mil novecientos ochenta y ocho.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario General de Gobierno, DANTE DELGADO RANNAURO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
