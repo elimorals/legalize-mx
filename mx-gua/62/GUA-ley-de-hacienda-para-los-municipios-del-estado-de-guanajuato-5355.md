@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1997-12-26"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1689,15 +1689,29 @@ Están obligados al pago de este Impuesto las personas físicas o morales que tr
 
 No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios para formar parte del dominio público y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
+> <small>(ADICIONADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
+
+En fideicomisos se estará sujeto al pago de este impuesto, en los siguientes supuestos:
+
+I.- Cuando el fideicomitente, designa o se obliga a designar fideicomisario diverso de él, siempre que no tenga derecho a readquirir del fiduciario el o los bienes inmuebles;
+
+II.- Cuando el fideicomitente pierda el derecho a readquirir los bienes inmuebles del fiduciario, si se hubiera reservado tal derecho;
+
+III.- La cesión de los derechos que se tengan, sobre los bienes inmuebles afectos al fideicomiso, en cualquiera de los siguientes casos:
+
+a).- Cuando el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad del o los bienes a un tercero; y
+
+b).- Cuando el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
 ###### ARTICULO 180.
 
 La base de este impuesto será el valor más alto entre el Fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales autorizados por la Tesorería Municipal correspondiente con antigüedad no mayor de seis meses.
 
 Para los efectos de este Impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor de seis meses.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
 
-El valor del inmueble, cuando éste no haya sufrido modificaciones, a elección del contribuyente y mediante solicitud por escrito, podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará lo dispuesto por el artículo 181 de esta Ley.
+Cuando el inmueble no haya sufrido modificaciones, el valor del mismo, a elección del contribuyente y mediante solicitud por escrito, podrá ser el valor de adquisición del mismo, disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará lo dispuesto por el artículo 181 de esta Ley.
 
 ###### ARTICULO 181.
 
@@ -1734,6 +1748,8 @@ Cuando se transmita el usufructo o la nuda propiedad, únicamente se tendrá der
 ###### ARTICULO 183.
 
 Este Impuesto se causará y liquidará, de acuerdo con las tasas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+
+> <small>(REFORMADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 184.
 
@@ -2414,3 +2430,7 @@ El presente decreto entrara en vigor el día primero de enero de 1998 mil noveci
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 1998.
+
+Artículo Unico.- El presente Decreto entrará en vigor el primero de enero de 1999 mil novecientos noventa y nueve.
