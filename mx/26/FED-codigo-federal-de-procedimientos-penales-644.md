@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1970-07-29"
+last_updated: "1971-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -3163,7 +3163,9 @@ Al formular conclusiones el Agente del Ministerio Público o el defensor, si est
 
 Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la condena condicional y si no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
 
-Después de dictada sentencia irrevocable no procederá la condena condicional.
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
+El reo que considere que al dictarse sentencia reunía las condiciones fijadas en el artículo 90 del Código Penal para el Distrito y Territorios Federales en materia de Fuero Común, y para toda la República en materia de Fuero Federal, y que está en aptitudes de cumplir los demás requisitos que en el propio precepto se establecen, si es por inadvertencia de su parte o de los Tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda abriendo el incidente respectivo ante el juez de la causa.
 
 ###### ARTICULO 539.
 
@@ -3412,3 +3414,9 @@ D.O.F. 29 DE JULIO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 19 DE MARZO DE 1971.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor simultáneamente a la reforma del artículo 90 del Código Penal, ya aprobada por el H. Congreso de la Unión.
