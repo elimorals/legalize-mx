@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-establece-el-impuesto-general-de-35302"
 country: "mx"
 rank: "decreto"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2003-03-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-12-27"
 ---
 # DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE
 
-DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE
+DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2003.
 
 Decreto publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2002
 
@@ -77,15 +77,19 @@ Para obtener el registro como empresa de la frontera los interesados deberán pr
 
 La Secretaría de Economía emitirá la resolución correspondiente dentro de un plazo máximo de 10 días hábiles, contados a partir del día siguiente a la presentación de la solicitud correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 MARZO DE 2003)</small>
+
 ###### ARTÍCULO 5.
 
-Las mercancías originarias de países diferentes a los Estados Unidos de América o Canadá que se importen a la franja fronteriza norte estarán total o parcialmente desgravadas del impuesto general de importación, en los siguientes términos:
+Las mercancías que se importen a la franja fronteriza norte estarán total o parcialmente desgravadas del impuesto general de importación, en los siguientes términos:
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 MARZO DE 2003)</small>
+
 ###### ARTÍCULO 6.
 
-Las mercancías originarias de países diferentes a los Estados Unidos de América o Canadá que se importen a la región fronteriza estarán total o parcialmente desgravadas del impuesto general de importación, en los siguientes términos:
+Las mercancías que se importen a la región fronteriza estarán total o parcialmente desgravadas del impuesto general de importación, en los siguientes términos:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -128,3 +132,9 @@ Lo anterior no aplica para las personas morales que tributen bajo el régimen si
 CUARTO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+D.O.F. 3 DE MARZO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
