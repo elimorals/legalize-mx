@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "1984-12-29"
+last_updated: "1988-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -143,9 +143,19 @@ Toda estipulación privada relativa al pago del impuesto predial que se oponga a
 
 #### SECCION QUINTA. EXENCIONES
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 13.
 
-Están exentos de este impuesto los bienes de dominio público de la Federación, del Estado, del Municipio y de los Partidos Políticos en los términos de la Ley Federal de Organizaciones Políticas y Procesos Electorales.
+Están exentos de este impuesto los bienes de dominio público de la Federación, del Estado y del Municipio, o que formen parte del Patrimonio de los Organismos Descentralizados de carácter Federal, Estatal y Municipal siempre que se destinen a la infraestructura, reservas, unidades industriales o estén directamente asignados o afectos a la exploración, explotación, transformación, distribución o que se utilicen en las actividades específicas que tengan encomendadas conforme a sus respectivos objetivos relacionados con la explotación de recursos naturales y la prestación de servicios, así como de los partidos políticos en los términos de los Códigos Federal Electoral y Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1988)</small>
+
+No quedan comprendidos entre los bienes a que se refiere el párrafo anterior los inmuebles que los organismos descentralizados utilicen para oficinas administrativas, o en general para propósitos distintos a los de su objeto.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1988)</small>
+
+Los Municipios podrán convenir con el Gobierno del Estado para que las Autoridades de Catastro los apoyen con trabajos técnico (sic) de localización y cuantificación de tales bienes.
 
 #### SECCION SEXTA. SANCIONES
 
@@ -293,19 +303,19 @@ Cuando el inmueble forme parte de departamentos habitacionales, la reducción se
 
 La reducción a que se refiere el artículo anterior, se realizará conforme a lo siguiente:
 
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de veinticuatro meses. De la suma de los precios o valores de los predios unicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente, deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el inmueble objeto de la operación colinda con otro que hubiere adquirido con anterioridad para que se ajuste al monto de la reducción, y pagará en su caso las diferencias de impuesto que correasponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
+I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de veinticuatro meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente, deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el inmueble objeto de la operación colinda con otro que hubiere adquirido con anterioridad para que se ajuste al monto de la reducción, y pagará en su caso las diferencias de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble la reducción se hara en la proporción que corresponda a dicha parte.
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble la reducción se hará en la proporción que corresponda a dicha parte.
 
-III.- Tratándose de usufructo o de la nuda propiedad, únicamente se tendra derecho al 50% de la reducción por cada uno de ellos.
+III.- Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
 
-IV.- No se considerarán departamentos habitacionales los que por sus características originales se destinen a servicios domésticos, portería o guarda de articulos aun cuando se utilicen para otros fines.
+IV.- No se considerarán departamentos habitacionales los que por sus características originales se destinen a servicios domésticos, portería o guarda de artículos aun cuando se utilicen para otros fines.
 
 #### SECCION CUARTA. DEL PAGO
 
 ###### ARTICULO 34.
 
-El pago de este impuesto deberá hacerse dentro de los quince días naturales siguientes a la fecha de la celebración del acto por el que se adquirió la propiedad o de aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago de este impuesto deberá hacerse dentro de los quince días naturales siguientes a la fecha del a celebración del acto por el que se adquirió la propiedad o de aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
 
 I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
@@ -341,7 +351,7 @@ El pago del impuesto se efectuará a los tres años de la muerte del autor de la
 
 ###### ARTICULO 38.
 
-Si el impuesto no se cubre dentro del plazo establecido en el artículo 34, el contribuyente pagará un sancion equivalente al 2% sobre el valor que haya servido de base para el pago del propio impuesto. No obstante que el acto jurídico a que se refiere el aviso no esté gravado, se tendrá la obligación de presentarlo en los términos de Ley. La presentación extemporanea de este aviso se sancionará con multa equivalente al 2% del valor real del inmueble.
+Si el impuesto no se cubre dentro del plazo establecido en el artículo 34, el contribuyente pagará un sanción equivalente al 2% sobre el valor que haya servido de base para el pago del propio impuesto. No obstante que el acto jurídico a que se refiere el aviso no esté gravado, se tendrá la obligación de presentarlo en los términos de Ley. La presentación extemporánea de este aviso se sancionará con multa equivalente al 2% del valor real del inmueble.
 
 ###### ARTICULO 39.
 
@@ -600,3 +610,9 @@ LIC. JOSE GUADALUPE CERVANTES CORONA
 EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE ENERO DE 1988
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
