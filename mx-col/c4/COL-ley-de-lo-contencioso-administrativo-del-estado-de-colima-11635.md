@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-11635
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-28"
-last_updated: "2001-06-16"
+last_updated: "2002-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2002.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de septiembre de 1996.
 
@@ -131,7 +131,11 @@ V.- De los juicios que promuevan las autoridades Estatales y Municipales, así c
 
 VI.- De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales señaladas, en los expedientes relativos a recursos ordinarios establecidos por las leyes y reglamentos respectivos; y
 
-VII.- De los demás juicios que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2002)</small>
+
+VII.- De los juicios que versen sobre la responsabilidad patrimonial del Estado, de acuerdo a lo establecido en la legislación aplicable; y
+
+VIII.- De los demás juicios que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal.
 
 ### CAPITULO III. DE LAS PARTES
 
@@ -998,3 +1002,9 @@ P.O. 8 DE ABRIL DE 2000.
 P.O. 16 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 22 de julio del 2002, previa publicación en el Periódico Oficial "El Estado de Colima".
