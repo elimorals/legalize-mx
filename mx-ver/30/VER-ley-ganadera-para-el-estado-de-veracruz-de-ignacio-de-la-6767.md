@@ -4,7 +4,7 @@ identifier: "VER-ley-ganadera-para-el-estado-de-veracruz-de-ignacio-de-la-6767"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-22"
-last_updated: "1979-05-22"
+last_updated: "1992-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 22 de mayo de 1979.
 
@@ -57,6 +57,10 @@ II.- Ganadero es toda persona física o moral que siendo propietaria de animales
 
 III.- Productor especializado es el que siendo o no criador, dedica sus animales o los que adquiere al aprovechamiento de sus productos o sus derivados, sometiéndolos a un proceso técnico-industrial.
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+IV.- Salario mínimo, es el equivalente a un día del salario mínimo general que esté vigente en la capital del Estado.
+
 ###### ARTICULO 4°.
 
 Se considera ganado mayor el bovino, caballar, mular y asnal; y menor, el lanar, caprino, porcino, aves de cualesquiera de sus especies conejos y animales de peletería de cualquier edad que sean.
@@ -69,9 +73,11 @@ Las organizaciones ganaderas señaladas tendrán la obligación de vigilar que s
 
 Quienes no pertenezcan a una asociación ganadera, al hacer la manifestación no tendrán obligación de expresar número de credencial ni de registro.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 6°.
 
-Las infracciones a lo dispuesto por el artículo anterior, serán sancionadas con una multa de $100.00 a $500.00, que ingresará por mitad a la Tesorería del Municipio que corresponda y a la Hacienda Pública del Estado de Veracruz.
+Las infracciones a lo dispuesto por el artículo anterior, serán sancionadas con una multa hasta de cinco salarios mínimos, que ingresará por mitad a la Tesorería del Municipio que corresponda y a la Secretaría de Finanzas y Planeación del Estado.
 
 ### CAPITULO SEGUNDO. DEL FOMENTO A LA GANADERIA
 
@@ -81,7 +87,7 @@ El Ejecutivo del Estado, a través de la Dirección General de Ganadería, podr�
 
 ###### ARTICULO 8°.
 
-Los ganaderos propietarios de estos establecimientos, gozarán de una exención del impuesto predial correspondiente al Estado por diez años, exclusivamente por la superficie que se destine a esos efectos. Esta exención se concederá seis meses después de que se establezca alguna de las mencionadas instalaciones. Se suspenderá si la Dirección General de Ganadería mediante inspección prueba que no se están cumpliendo los fines señalados en esta Ley.
+(DEROGADO, G.O. 4 DE ABRIL DE 1992)
 
 ###### ARTICULO 9°.
 
@@ -183,9 +189,11 @@ La quema de pastos, praderas o montes será sancionada de acuerdo con lo dispues
 
 Los propietarios o poseedores de terrenos tendrán la obligación de conservar sus cercas en buen estado. Estas constarán como mínimo de tres hilos de alambre de púas o de cualquier otro tipo, debiendo emplearse de preferencia en la construcción de las mismas los árboles maderables que se consideren más útiles y mejor adaptables. La construcción o conservación de las cercas en terrenos colindantes debe costearse por partes iguales por los propietarios o poseedores.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 26.
 
-La desobediencia a lo ordenado en el artículo anterior se sancionará por la autoridad municipal con multa de $1,000.00 a $5,000.00, sin perjuicio de que se cumpla lo dispuesto en el precepto señalado.
+La desobediencia a lo ordenado en el artículo anterior se sancionará por la autoridad municipal con multa hasta de diez salarios mínimos, sin perjuicio de que se cumpla lo dispuesto en el precepto señalado.
 
 ### CAPITULO QUINTO. PROPIEDAD, MARCAS Y SEÑALES DEL GANADO
 
@@ -209,15 +217,15 @@ Cuando el antecedente de propiedad ampare más de un animal, la autoridad munici
 
 Las atribuciones concedidas a los Presidentes Municipales podrán ser delegadas a los Agentes Municipales en forma permanente, cuando la necesidad lo amerite por decreto de la Honorable Legislatura del Estado o de su Diputación Permanente.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 28.
 
-La propiedad de las pieles se acredita:
+La propiedad de las pieles se acredita, con:
 
-a).- Tratándose de animales pertenecientes a criaderos ubicados en la municipalidad, con los documentos en que figuren los fierros, marcas o señales;
+I.- La factura debidamente legalizada y la guía de tránsito correspondiente.
 
-b).- Las introducidas de otros Municipios del Estado, con la documentación que señala el artículo anterior;
-
-c).- Las que provengan de otros Estados, con la documentación exigida por las leyes del lugar de procedencia.
+II.- Las provenientes de otros Estados, con la documentación exigida por las leyes del lugar de procedencia.
 
 ###### ARTICULO 29.
 
@@ -229,9 +237,11 @@ Todos los fierros, marcas, tatuajes o aretes a que se refiere esta Ley, deberán
 
 Se considera transitoria la estancia de ganado cuando no se prolongue por más de noventa días.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 31.
 
-Las solicitudes de registro de fierros y marcas se presentarán por quintuplicado, debiendo contener el Núm. de credencial y del registro del ganadero en la Asociación Ganadera correspondiente, de las cuales; dos se enviarán a la Dirección General de Ganadería del Gobierno del Estado; otra a la Unión Ganadera Regional, otra a la Asociación Ganadera Local y otro tanto se fijará durante quince días en un lugar de fácil acceso y visible de la Presidencia Municipal. Transcurrido ese término y si no hubiere registrada otra marca igual o con la que se confunda la solicitada, ni se presentare oposición justificada, se procederá al registro.
+Las solicitudes de registro de fierros, marcas o tatuajes se presentarán por quintuplicado, debiendo contener el nombre del propietario o razón social; demostrar haber cumplido con lo que establece el artículo 5° de esta Ley; nombre, ubicación y superficie del predio, domicilio particular, número de cabezas de ganado que posee, actividad a que se dedica y dibujo del fierro, marca o tatuaje; debiendo anexar tres fotografías tamaño infantil. De dicha solicitud se enviarán dos tantos, junto con dos fotografías a la Dirección General de Ganadería, otro a la Unión Ganadera Regional, otro a la Asociación Ganadera Local con fotografía y otro tanto se fijará durante treinta días en un lugar visible y de fácil acceso de la Presidencia Municipal. Transcurrido ese término y si no hubiera registrada otra marca igual o con la que se confunda la solicitada, ni se presentara oposición justificada, la Dirección General de Ganadería, previa revisión de sus archivos, procederá al registro y expedición de la patente, que llevará la fotografía del interesado.
 
 ###### ARTICULO 32.
 
@@ -247,9 +257,11 @@ Cuando el criador utilice alguna marca de fuego, además del fierro, éste deber
 
 La Dirección General de Ganadería autorizará una gráfica para el señalamiento del ganado, que figurará como apéndice de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 34.
 
-La infracción a lo dispuesto en el artículo anterior será sancionada con multa de $100.00 a $500.00 por cada animal por la autoridad municipal correspondiente, con la intervención de la Dirección General de Ganadería. Dicha cantidad ingresará al erario municipal.
+La infracción a lo dispuesto en el artículo anterior será sancionada con multa hasta de quince salarios mínimos por cada animal por la autoridad municipal correspondiente, con la intervención de la Dirección General de Ganadería. Dicha cantidad ingresará al erario municipal.
 
 Es obligación de los Inspectores de Ganadería vigilar el cumplimiento de lo dispuesto en este Capítulo.
 
@@ -257,15 +269,19 @@ Es obligación de los Inspectores de Ganadería vigilar el cumplimiento de lo di
 
 Cuando la persona deje la actividad ganadera o bien no use el fierro, marca, señal, tatuaje o arete que tenga registrada, por estar utilizando otro, promoverá la cancelación del registro de aquél, dentro del término de un mes, contado a partir de la fecha en que deje de hacer uso del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 36.
 
-El incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa de $1,000.00 a $5,000.00 y la autoridad municipal procederá a fijar avisos comunicando a quien se interese, que el fierro, marca, señal, tatuaje o arete de que se trata, se cancelará en caso de que no haya oposición en un término de veinte días contados a partir de la fecha de la fijación de los avisos respectivos.
+El incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa hasta de cinco salarios mínimos y la autoridad municipal procederá a fijar avisos comunicando a quien se interese, que el fierro, marca, señal, tatuaje o arete de que se trata, se cancelará en caso de que no haya oposición en un término de veinte días contados a partir de la fecha de la fijación de los avisos respectivos.
 
 Vencido el plazo anterior y si no hubiere oposición, se declarará cancelado el fierro, marca, señal, tatuaje o arete y cualquiera persona que se interese, podrá pedir el derecho de usarlo en los términos de los artículos 27 y 28 de la presente Ley.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 37.
 
-El uso de marcas no registradas será sancionado por la autoridad municipal con multa $100.00 a $500.00, debiendo el interesado promover desde luego, el registro correspondiente.
+El uso de marcas no registradas será sancionado por la autoridad municipal con multa hasta de cinco salarios mínimos, debiendo el interesado promover desde luego, el registro correspondiente.
 
 ###### ARTICULO 38.
 
@@ -275,13 +291,19 @@ La Dirección General de Ganadería llevará un registro general de fierros, mar
 
 El Estado y cada uno de los Municipios en materia de propiedad, marcas y señales de ganado, se sujetarán a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 40.
 
-Queda prohibido herrar con plancha llana, alambre, gancho, argolla o fierro corrido, así como la amputación de las orejas en que se corte más de la mitad. Los contraventores serán sancionados por la autoridad municipal con multa de $1,000.00 a $5,000.00, cuyo importe se repartirá equitativamente entre el Municipio y el Estado. La autoridad municipal consignará el caso a las autoridades competentes, cuando el hecho en sí constituya delito.
+Queda prohibido herrar con plancha llana, alambre, gancho, argolla o fierro corrido, así como la amputación de las orejas en que se corte más de la mitad. Quien contravenga esta disposición será sancionado por la autoridad municipal con multa hasta de diez salarios mínimos, cuyo importe se repartirá equitativamente entre el Municipio y el Estado. La autoridad municipal consignará el caso a las autoridades competentes, cuando el hecho en sí constituya delito.
+
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 41.
 
-En ningún Municipio podrán registrarse dos fierros, marcas, señales, tatuajes o aretes iguales, salvo que sean del mismo ganado. Si una ya se encuentra registrada, se rehusará el registro de la otra. Si ambas se presentan al mismo tiempo para registrarse, se dará preferencia a la ganadería más antigua. El propietario cuyo fierro, marca o señal no se registre estará obligado a cambiarlo por otro distinto.
+En el Estado no podrán registrarse dos fierros, marcas o tatuajes iguales. Si una ya se encuentra registrada se rehusará el registro de la otra. Si dos o más se presentan al mismo tiempo para registrarse, se le dará preferencia a la ganadería más antigua. El propietario cuyo fierro, marca o señal no se registre estará obligado a cambiarlo por otro distinto.
+
+La Dirección General de Ganadería deberá llevar un registro de control de los fierros, marcas y tatuajes autorizados y periódicamente hacer una revisión ordenando la cancelación de los que aparezcan duplicados, conforme a las reglas del párrafo anterior.
 
 ###### ARTICULO 42.
 
@@ -391,9 +413,11 @@ La Dirección General de Ganadería, escuchando la opinión de las Uniones Ganad
 
 La inspección a que se refiere este Capítulo, será realizada por Supervisores de Zona y por Inspectores Locales.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 65.
 
-Los Supervisores de Zona y los Inspectores Locales serán designados por el Ejecutivo del Estado a proposición del Director General de Ganadería, tendrán el carácter de empleados de confianza y gozarán de los emolumentos que para el efecto fije el Presupuesto de Egresos en vigor. Deberán nombrarse personas conocedoras del ramo, de reconocida honorabilidad y suficiente experiencia.
+Los Supervisores de Zona y los Inspectores Locales serán designados por el Secretario de Desarrollo Agropecuario y Pesquero del Estado a proposición del Director General de Ganadería, tendrán el carácter de empleados de confianza y gozarán de los emolumentos que para el efecto fije el Presupuesto de Egresos en vigor. Deberán nombrarse personas conocedoras del ramo, de reconocida honorabilidad y suficiente experiencia.
 
 ###### ARTICULO 66.
 
@@ -461,33 +485,47 @@ Los Supervisores e Inspectores de Ganadería serán considerados como agentes au
 
 Toda conducción de ganado deberá ampararse con un documento denominado 'Guía de Tránsito', que será expedida por la Asociación Ganadera Local respectiva con autorización del Presidente Municipal, debiendo dicha Guía ir acompañada de los recibos de pago de impuestos cuando éstos deban causarse, de la Guía Sanitaria, así como de la factura que legitime la operación de compra-venta cuando de ello se trate. En los casos de partidas de ganado que se transporten en varios vehículos, cada uno de ellos deberá ir provisto de la referida documentación, excepción hecha de la factura, que podrá amparar a todos, debiendo presentarse para su revisión en la caseta respectiva por quien conduzca el primer vehículo.
 
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+Cuando para la expedición de una Guía Sanitaria se requiera certificado de sanidad animal, éste será expedido por el Médico Veterinario Zootecnista regional, a que se refiere el artículo 98 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 71.
 
-Las Guías de Tránsito tendrán una vigencia de cinco días naturales; estarán numeradas progresivamente y serán proporcionadas por la Dirección General de Ganadería. Se expedirán por septuplicado: un tanto para el interesado, otro para la Dirección General de Ganadería, otro para la Unión Ganadera Regional y otro para la Tesorería General del Estado, mismos que remitirá la Asociación correspondiente durante los primeros cinco días del mes siguiente; otro tanto para la autoridad municipal, uno para la Oficina Recaudadora del Estado y el último para el archivo de la Asociación.
+Las Guías de Tránsito tendrán una vigencia de cinco días naturales; estarán numeradas progresivamente y serán proporcionadas por la Dirección General de Ganadería. Se expedirán por septuplicado: un tanto para el interesado, otro para la Dirección General de Ganadería, otro para la Unión Ganadera Regional y otro para la Secretaría de Finanzas y Planeación del Estado, mismos que remitirá la Asociación correspondiente durante los primeros cinco días del mes siguiente; otro tanto para la autoridad municipal, uno para la oficina Hacienda del Estado y el último para el archivo de la Asociación.
 
 Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes y señales.
 
-Las Guías de Tránsito se gravarán con un derecho de acuerdo con la tarifa respectiva, prevista en la Ley de Hacienda Municipal. Este cobro lo realizará directamente la Tesorería General del Estado e ingresará al Fondo para el Desarrollo Municipal.
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+Las Guías de Tránsito se gravarán con un derecho de acuerdo con la tarifa respectiva, prevista en la Ley de Hacienda Municipal. Este cobro lo realizará directamente la Secretaría de Finanzas y Planeación del Estado e ingresará al Fondo para el Desarrollo Municipal.
 
 ###### ARTICULO 72.
 
 El ganado que transite sin estar amparado con la documentación que señala el artículo 70 será detenido con la intervención de las Asociaciones Ganaderas respectivas, mientras se hacen las investigaciones, consignándose el hecho, si procede, al Ministerio Público para el ejercicio de sus funciones.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 73.
 
-En el caso del artículo anterior, si el conductor de ganado comprobará posteriormente la legítima procedencia de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria y previo pago de una multa al Ayuntamiento respectivo de $500.00 a $1,000.00 por la falta de presentación oportuna de dichos documentos, sin perjuicio de las responsabilidades fiscales por la omisión en el pago de los impuestos estatales y municipales.
+En el caso del artículo anterior, si el conductor de ganado comprobara posteriormente la legítima procedencia de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria y previo pago de una multa al Ayuntamiento respectivo hasta de cinco salarios mínimos por la falta de presentación oportuna de dichos documentos, sin perjuicio de las responsabilidades fiscales por la omisión en el pago de los impuestos estatales y municipales.
+
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 74.
 
-Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto, se castigará con multa de $100.00 a $500.00, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo fijarla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
+Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto, se sancionará con multa hasta de cinco salarios mínimos, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo fijarla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
 
 ###### ARTICULO 75.
 
 El tránsito de pieles deberá ampararse con la Guía de Tránsito en los mismos términos de los artículos anteriores.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 76.
 
-Quienes transporten ganado cualquier producto o subproducto del mismo, deberán informar mensualmente a la Presidencia Municipal del lugar de donde partan sobre los movimientos habidos. Quien no cumpla esta disposición será sancionado con una multa de $1,000.00 a $5,000.00, que ingresará al erario municipal y que podrá ser impuesta por la autoridad municipal o por la Dirección General de Ganadería.
+Quienes transporten ganado, cualquier producto o suproduccto (sic) del mismo, deberán informar mensualmente a la Presidencia Municipal del lugar de donde partan, sobre los movimientos habidos. Quien no cumpla esta disposición será sancionado con una multa hasta de cinco salarios mínimos, que ingresará al erario municipal y que podrá ser impuesta por la autoridad municipal o por la Dirección General de Ganadería.
 
 ###### ARTICULO 77.
 
@@ -517,13 +555,17 @@ Todo ganado en movilización podrá usar el agua que encuentre en su trayecto, y
 
 Los dueños o encargados de ganado serán los responsables de vigilar los animales para impedir daños en predios ajenos y evitar el cruzamiento con el de los vecinos; debiendo entregar a las autoridades municipales, con aviso a la Asociación Ganadera respectiva, el ganado ajeno que aparezca en sus potreros.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 84.
 
-En el caso de la parte final del artículo anterior, la autoridad municipal requerirá al dueño o encargado de los animales para que los retire inmediatamente, sin perjuicio de exigirle que pague al poseedor del terreno la cantidad de diez pesos diarios por cada cabeza de ganado mayor o menor, desde el día en que se hubiere introducido. Si el dueño o encargado no atendiere esta orden después de diez días del aviso, los animales quedarán a disposición de la autoridad municipal y serán considerados como mostrencos, procediéndose a su venta en los términos de esta Ley, con objeto de cubrir el importe de los perjuicios que se hubieren causado.
+En el caso de la parte final del artículo anterior, la autoridad municipal requerirá al dueño o encargado de los animales para que los retire inmediatamente, sin perjuicio de exigirle que pague diariamente al poseedor del terreno un salario mínimo por cada cabeza de ganado mayor o menor, desde el día en que se hubiere introducido. Si el dueño o encargado no atendiere esta orden después de diez días del aviso, los animales quedarán a disposición de la autoridad municipal y serán considerados como mostrencos, procediéndose a su venta en los términos de esta Ley, con objeto de cubrir el importe de los perjuicios que se hubieren causado.
+
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 85.
 
-En caso de reincidencia se impondrá al infractor una multa de $500.00 a $1,000.00, que ingresará al fisco municipal.
+En caso de reincidencia se impondrá al infractor una multa hasta de diez salarios mínimos, que ingresará al fisco municipal.
 
 ### CAPITULO NOVENO. ABASTO PUBLICO Y VENTA DE LOS PRODUCTOS ANIMALES
 
@@ -569,6 +611,12 @@ Cuando se trate de animales que por alguna causa debidamente justificada haya ne
 
 El que sacrifique ganado sin justificar su legal adquisición, o fuera de los lugares autorizados, será considerado como presunto autor del delito de abigeato y se le pondrá a disposición del Ministerio Público, para que éste de inmediato inicie la averiguación previa correspondiente.
 
+> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 95-A.
+
+Para la industrialización y comercialización de carnes, se creará el servicio de clasificación de las mismas, que se regirá por el reglamento que al efecto expida el Ejecutivo.
+
 ### CAPITULO DECIMO. SANIDAD ANIMAL
 
 ###### ARTICULO 96.
@@ -601,9 +649,11 @@ Sin perjuicio de la denuncia y aún antes de que las autoridades hayan interveni
 
 El mismo aislamiento se llevará a cabo con los animales muertos que se suponga de enfermedades transmisibles debiendo sus despojos ser enterrados o incinerados inmediatamente, dando aviso a las autoridades sanitarias.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 102.
 
-Toda persona que venda, compre, regale, acepte, recoja o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infecto-contagiosa, previo dictamen de un médico veterinario zootecnista, será sancionado por la autoridad municipal con multa de $10,000.00 a $20,000.00, duplicándose la misma en caso de reincidencia.
+Toda persona que venda, compre, regale, acepte, recoja o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infecto-contagiosa, previo dictamen de un médico veterinario zootecnista, será sancionado por la autoridad municipal con multa hasta de cincuenta salarios mínimos, duplicándose la misma en caso de reincidencia.
 
 ###### ARTICULO 103.
 
@@ -669,9 +719,11 @@ El costo de vacunación y pruebas para prevenir o controlar las enfermedades, se
 
 Se declara de utilidad pública e interés social y por tanto obligatoria, la campaña contra la garrapata en todo el territorio estatal, quedando sujeta a las disposiciones legales de la materia.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 114.
 
-A las personas que violen alguna de las disposiciones a que se refiere este Capítulo, se les impondrá una sanción qe (sic) quince días a seis meses de prisión y multa de $500.00 a $1,000.00. La reincidencia se sancionará con prisión de seis meses a dos años y multa de $1,000.00 a $2,000.00; observándose en ambos casos las disposiciones contenidas en el Código Penal y en el Código de Procedimientos Penales para el Estado de Veracruz.
+A las personas que violen alguna de las disposiciones a que se refiere este capítulo, se les impondrá una sanción de quince días a seis meses de prisión y multa hasta de diez salarios mínimos. La reincidencia se sancionará con prisión de seis meses a dos años y multa hasta de veinte salarios mínimos; observándose en ambos casos las disposiciones contenidas en el Código Penal y en el Código de Procedimientos Penales para el Estado de Veracruz.
 
 ### CAPITULO DECIMO PRIMERO. ORGANIZACIONES GANADERAS
 
@@ -731,9 +783,11 @@ Las Asociaciones y Uniones Ganaderas, tendrán personalidad jurídica y patrimon
 
 Los ganaderos deberán recabar anualmente de las Asociaciones Ganaderas Locales, una tarjeta de identificación, la que deberán registrar en la Presidencia Municipal respectiva, sin cuyo requisito no será válida.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 122.
 
-Las tarjetas de identificación serán proporcionadas por el Gobierno del Estado a través de las Uniones Regionales para que sean distribuidas por las Asociaciones Locales, previo pago de la cantidad de diez pesos por cada tarjeta. El producto que se obtenga ingresará en la siguiente forma: cuatro pesos al erario del Estado; dos pesos al Municipio y, dos pesos a cada una de las Tesorerías de las Uniones y Asociaciones.
+Las credenciales de identificación serán proporcionadas por la Secretaría de Desarrollo Agropecuario y Pesquero a través de las Uniones Regionales para que sean distribuidos por las Asociaciones Locales.
 
 ###### ARTICULO 123.
 
@@ -777,13 +831,17 @@ Se faculta al Poder Ejecutivo para organizar la creación y funcionamiento de la
 
 En los casos no especificados por esta Ley, las sanciones pecuniarias a que la misma se refiere, serán fijadas por las autoridades municipales correspondientes y su importe ingresará por mitad a las oficinas respectivas. Al imponer la sanción, la autoridad municipal dará inmediato aviso a la oficina fiscal del Estado y exigirá al sancionado la comprobación de haber hecho el pago total de la multa impuesta.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 132.
 
-Contra las sanciones impuestas, los interesados podrán hacer valer la reconsideración administrativa ante el Ejecutivo del Estado por conducto de la autoridad que haya impuesto la sanción y dentro del término de quince días contados a partir de su notificación. Para ello bastará que el interesado haga una sencilla exposición escrita, de las razones por las que en su concepto sea improcedente la sanción, acompañando, en su caso, las pruebas que estime pertinentes. Asimismo deberá garantizar previamente el importe de la sanción, mediante depósito por igual cantidad en la Oficina de Hacienda del Estado o fianza de compañía autorizada.
+Contra las sanciones impuestas, los interesados podrán hacer valer la reconsideración administrativa ante el Secretario de Desarrollo Agropecuario y Pesquero del Estado por conducto de la autoridad que haya impuesto la sanción y dentro del término de quince días contados a partir de su notificación. Para ello bastará que el interesado haga una sencilla exposición escrita, de las razones por las que en su concepto sea improcedente la sanción, acompañando, en su caso, las pruebas que estime pertinentes. Asimismo deberá garantizar previamente el importe de la sanción, mediante depósito por igual cantidad en la oficina de Hacienda del Estado o fianza de compañía autorizada.
+
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 133.
 
-Presentada la solicitud de reconsideración, la autoridad municipal la enviará desde luego con su informe sobre el particular, al Ejecutivo del Estado, quien resolverá sin ulterior tramitación y dentro del término de quince días.
+Presentada la solicitud de reconsideración, la autoridad municipal la enviará desde luego con su informe sobre el particular, al Secretario de Desarrollo Agropecuario y Pesquero del Estado, quien resolverá sin ulterior tramitación y dentro del término de quince días.
 
 TRANSITORIOS:
 
@@ -812,3 +870,15 @@ DADA en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciud
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 21 de mayo de 1979.- LIC. RAFAEL HERNANDEZ OCHOA.- El Secretario de Gobierno, LIC. EMILIO GOMEZ VIVES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 4 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Este ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente.
