@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1965-12-30"
+last_updated: "1969-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1969.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -509,6 +509,8 @@ Las instituciones mexicanas de fianzas que reafiancen a compañías extranjeras,
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1969)</small>
+
 ###### ARTICULO 61.
 
 Las reservas de fianzas en vigor y de previsión se calcularán, para efectos de su inversión, al treinta y uno de diciembre de cada año. Las inversiones deberán realizarse a más tardar el treinta y uno de marzo siguiente. La Secretaría de Hacienda y Crédito Público podrá ordenar en cualquier tiempo que se haga un nuevo cálculo de la reserva de fianzas en vigor y la institución estará obligada a realizar las inversiones que correspondan, dentro de los treinta días siguientes.
@@ -615,15 +617,19 @@ Las operaciones de fianzas y las que con ellas se relacionen, que realicen las i
 
 ###### ARTICULO 75.
 
-Corresponde a la Secretaría de Hacienda y Crédito Público la inspección y vigilancia de las instituciones de fianzas y de sus agentes, para el efecto de verificar el cumplimiento de las disposiciones de esta Ley.
+Las instituciones de fianzas son organizaciones auxiliares de crédito por lo que les serán aplicables, en lo conducente, las disposiciones de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares así como las normas reglamentarias correspondientes.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1969)</small>
 
 ###### ARTICULO 76.
 
-La propia Secretaría podrá interpretar administrativamente la presente Ley, por medio de disposiciones generales que se publicarán en el "Diario Oficial" de la Federación.
+Corresponde a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria, la inspección y vigilancia de las instituciones de fianzas y de sus agentes para el efecto de verificar el cumplimiento de las disposiciones a que se refiere esta ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1969)</small>
 
 ###### ARTICULO 77.
 
-En ejecución o aplicación de esta Ley, la Secretaría de Hacienda y Crédito Público queda facultada para dictar las disposiciones que sean necesarias o convenientes al desarrollo de las instituciones de fianzas o para la mejor vigilancia de dichas sociedades, creando incluso organismos descentralizados auxiliares de la Secretaría.
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, queda facultado para expedir los reglamentos necesarios para la aplicación de esta ley y para interpretar, a efectos administrativos, los preceptos de la misma por medio de circulares de carácter general. La mencionada Secretaría está asimismo facultada para dictar las disposiciones que sean necesarias o convenientes al desarrollo de las instituciones de fianzas.
 
 ## TITULO IV. Disposiciones varias
 
@@ -1256,3 +1262,17 @@ PRIMERO.- Las instituciones de fianzas deberán reformar sus escrituras constitu
 La Secretaría de Hacienda y Crédito Público tendrá la facultad de autorizar las inversiones en el capital de las instituciones de fianzas que a la fecha se encuentren en poder de alguna de las personas o entidades mencionadas en el último párrafo del artículo 3o.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+D.O.F. 18 DE ENERO DE 1969.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda y Crédito Público dispondrá en el orden administrativo los procedimientos conducentes a la ejecución del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Quedan derogadas todas las disposiciones legales que se opongan a las reformas contenidas en el presente Decreto.
