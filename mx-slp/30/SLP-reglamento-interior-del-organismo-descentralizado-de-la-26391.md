@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-organismo-descentralizado-de-la-26391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2001-10-27"
+last_updated: "2002-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2002.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de octubre de 2001.
 
@@ -307,13 +307,85 @@ IX.- Participar en el programa de Modernización Administrativa conforme a los l
 
 X.- Las demás que las disposiciones legales y reglamentos le atribuyan así como aquellas que le confiera el Director General de los Servicios de Salud de Salud de San Luis Potosí.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+
 ### CAPITULO SEGUNDO.
 
-DE LA DIRECCIÓN DE AREA DE REGULACION Y FOMENTO SANITARIO.
+DE LA SUBDIRECCION DE AREA DE PROTECCION CONTRA RIESGOS SANITARIOS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
+
+###### ARTICULO 45.
+
+A la Subdirección de Area del Laboratorio Estatal de Salud Pública, corresponde las siguientes funciones:
+
+I. Coadyuvar al desarrollo de los programas de políticas y calidad en salud y contra riesgos sanitarios a través del funcionamiento óptimo del sistema estatal de laboratorios y de la red de vigilancia epidemiológica y sanitaria.
+
+II. Difundir y vigilar el cumplimiento de las normas técnicas que en materia de diagnóstico de laboratorio clínico epidemiológico, especializado y de referencia, establezcan la Ley General y Estatal de Salud.
+
+III. Coordinar e incorporar en un solo sistema a todos los establecimientos instalados en unidades del organismo, con funciones de laboratorio.
+
+IV. Establecer y mantener la coordinación Interinstitucional e intersectorial para incorporar el sistema de laboratorios como elementos de apoyo en la identificación de problemas e investigación epidemiológica.
+
+V. Apoyar y asesorar a las instancias administrativas en la adquisición de equipo, reactivos y materiales idóneos para el trabajo analítico.
+
+VI. Elaborar y proponer las estrategias que eleven la calidad y cobertura de los servicios de laboratorio, para extenderlo a todos los niveles de atención a la salud.
+
+VII. Coordinar y supervisar técnica, logística y metodológicamente el trabajo analítico de la red de laboratorios.
+
+VIII. Desarrollar, aplicar y supervisar sistemas, procedimientos y estudios de nuevos métodos y tecnología de análisis, control, vigilancia y determinación de niveles de calidad en productos sujetos a regulación y control sanitario.
+
+IX. En coordinación con el área correspondiente, participar en programas de capacitación y actualización de recursos humanos del sistema estatal de laboratorios.
+
+X. Elaborar y presentar a los órganos correspondientes, los informes de resultados de la operación, supervisión y evaluación del sistema de laboratorios.
+
+XI. Participar en la acreditación de laboratorios auxiliares de la industria al igual que en la planeación y organización de laboratorios de nueva creación.
+
+T R A N S I T O R I O S
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+TERCERO.- En tanto se expiden los Manuales que este Reglamento menciona, el Titular del ramo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
+
+D A D O en la residencia del Palacio del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí a los cinco días del mes de octubre de 2001.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. FERNANDO SILVA NIETO
+
+(Rúbrica)
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. JORGE DANIEL HERNANDEZ DELGADO
+
+(Rúbrica)
+
+LA DIRECTORA GENERAL DE LOS SERVICIOS DE SALUD DE
+
+SAN LUIS POTOSÍ.
+
+DRA. MA. DEL PILAR FONSECA
+
+(Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- A las dependencias a que se refieren las reformas y adiciones del presente Decreto, le son aplicables en lo conducente, las disposiciones contenidas en el Decreto Administrativo número 110, publicado en el Periódico Oficial del Estado el 11 de Septiembre de 1996 que en su artículo Segundo Transitorio ordenó la emisión del Reglamento Interior del que forman parte las normas precedentes.
+
+CUARTO.- En los Manuales de Organización se establecerán las funciones de las áreas que jerárquicamente le sean subordinadas a las Direcciones y Subdirecciones que se integran por virtud de este Decreto al Reglamento Interior del Organismo.
 
 ###### ARTICULO 13.
 
-Competen a la Dirección de Area de Regulación y Fomento Sanitario, las siguientes funciones:
+Son atribuciones de la Dirección de Área de Protección contra Riesgos Sanitarios, las siguientes:
 
 I.- Difundir y vigilar la aplicación de la Normatividad Sanitaria en la Materia.
 
@@ -355,13 +427,17 @@ XIX.- Mantener un estricto control sanitario de la disposiciones de órganos, te
 
 XX.- Las demás que le señalen las Leyes, Reglamentos, Decretos y Acuerdos o le confiera el Director General de los Servicios de Salud de San Luis Potosí.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+
 ### CAPITULO TERCERO.
 
-DE LA DIRECCIÓN DE AREA DE SERVICIOS DE SALUD.
+DE LA DIRECCION DE AREA DE POLITICAS Y CALIDAD EN SALUD.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 14.
 
-Son atribuciones de la Dirección de Area de Servicios de Salud, las siguientes:
+Son atribuciones de la Dirección de Area de Políticas y Calidad en Salud, las siguientes:
 
 I.- Difundir y vigilar la aplicación de las normas técnicas y oficiales mexicanas en las materias de atención médica, salud pública y asistencia social derivadas de la Ley General de Salud, la Ley de Salud del Estado, y sus reglamentos.
 
@@ -391,7 +467,13 @@ XIII.- Implantar y promover las acciones para la salud ocupacional y (sic),
 
 XIV.- Será Secretario Técnico de los Comités Estatales de los programas prioritarios Estatales y Federales.
 
-XV.- Las demás que le señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, o le confiera el Director General de los Servicios de Salud de San Luis Potosí.
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+
+XV.- Coordinar y apoyar la ejecución de los Programas de Capacitación Técnico-Administrativa de los Servicios de Salud en el Estado; y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+
+XVI.- Las demás que señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, o las que le confiera el Director General de los Servicios de Salud en el Estado.
 
 ### CAPITULO CUARTO.
 
@@ -399,7 +481,7 @@ DE LA DIRECCIÓN DE AREA DE PLANEACION, EVALUACION Y PROYECTOS ESPECIALES.
 
 ### CAPITULO QUINTO.
 
-DE LA DIRECCIÓN DE AREA DE ADMINISTRACIÓN.
+DE LA DIRECCION DE AREA ADMINISTRATIVA.
 
 ###### ARTICULO 15.
 
@@ -447,6 +529,8 @@ XX.- Desarrollar, actualizar y establecer el Plan Maestro de Infraestructura de 
 
 XXI.- Las demás que le señalen las Leyes, Reglamentos, Decretos o le confiera el Director General de los Servicios de Salud de San Luis Potosí, así como las que competen a las Unidades Administrativas que le estén adscritas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+
 ### CAPITULO SEXTO.
 
 DE LA SUBDIRECCIÓN DE ASUNTOS JURIDICOS.
@@ -487,7 +571,7 @@ XV.- Proponer al Director General la designación o remoción, en su caso, de lo
 
 XVI.- Definir y conducir la política en materia de desarrollo de personal, así como el mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo para el mejor desempeño de sus actividades;
 
-XVII.- Coordinar y apoyar la ejecución de los programas de capacitación técnico- administrativa de los Servicios de Salud de San Luis Potosí;
+XVII.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2002)
 
 XVIII.- Normar, tramitar, controlar y registrar los movimientos e incidencias del personal, así como las constancias de nombramiento y demás documentos que acrediten la situación laboral de los trabajadores;
 
@@ -555,7 +639,9 @@ XLIX.- Las demás que le señalen las Leyes, Reglamentos, Decretos o le confiera
 
 ### CAPITULO SEPTIMO.
 
-DEL DEPARTAMENTO DE COMUNICACIÓN SOCIAL.
+DE LA SUBDIRECCION DE COMUNICACION SOCIAL Y PROMOCION DE LA SALUD.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 17.
 
@@ -615,13 +701,15 @@ XXVI.- Llevar el Registro de los Contratos, Convenios, Acuerdos y Bases de Coord
 
 XXVII.- Llevar el registro de nombramientos, firmas y rúbricas de Servidores Públicos de mandos superiores y medios al servicio de la Institución y el de aquellos que representen órganos administrativos desconcentrados de la misma.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+
 ### CAPITULO PRIMERO.
 
 DE LOS ORGANOS AUXILIARES.
 
 ###### ARTICULO 18.
 
-Al Departamento de Comunicación Social, le corresponde el despacho de los siguientes asuntos:
+A la Subdirección de Área de Comunicación Social y Promoción de la Salud corresponde el despacho de los siguientes asuntos:
 
 I.- Fungir como órgano informativo del organismo, a fin de promover los programas y campañas que se emprendan en materia de salud
 
@@ -647,7 +735,9 @@ XI.- Realizar auditoria comunicativa de los flujos de información que se dan al
 
 ### CAPITULO SEGUNDO.
 
-DEL DEPARTAMENTO DE CONTRALORIA INTERNA.
+DE LA SUBDIRECCION DE CONTRALORIA INTERNA.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -671,13 +761,15 @@ Los órganos auxiliares y sus titulares tendrán las atribuciones y facultades q
 
 Compete a los órganos auxiliares de los Servicios de Salud la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas, con sujeción a los lineamientos establecidos en la Ley y en este Reglamento.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2002)</small>
+
 ### CAPITULO TERCERO.
 
 DE LA COMISION ESTATAL DE ARBITRAJE MEDICO.
 
 ###### ARTICULO 22.
 
-Al Departamento de la Contraloría Interna le corresponden las siguientes funciones:
+A la Subdirección de Contraloría Interna corresponde las siguientes funciones:
 
 I.- Inspeccionar y vigilar que los Servicios de Salud de San Luis Potosí, cumplan con las normas y disposiciones legales aplicables en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la Administración Pública Estatal.
 
@@ -977,6 +1069,12 @@ VIII.- Aquellas que le confiere el titular de los Servicios de Salud de San Luis
 
 Tales facultades se entienden conferidas, sin perjuicio de su ejercicio directo por parte del Titular de los Servicios de Salud de San Luis Potosí;
 
+### CAPITULO SEGUNDO (SIC).
+
+DE LA DIRECCION DE AREA DE SALUD MENTAL Y ADICCIONES.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 34.
 
 La Clínica Psiquiátrica "Dr. Everardo Newmann Peña" contará con personalidad jurídica propia y tendrá competencia para:
@@ -1014,6 +1112,12 @@ VII.- Cuidar, proteger y conservar los bienes muebles o inmuebles que tenga a su
 VIII.- Aquellas que le confiere el titular de los Servicios de Salud de San Luis Potosí, con relación a sus funciones.
 
 Tales facultades se entienden conferidas, sin perjuicio de su ejercicio directo por parte del Titular de los Servicios de Salud de San Luis Potosí;
+
+### CAPITULO TERCERO.
+
+DE LA SUBDIRECCION DE AREA DEL LABORATORIO ESTATAL DE SALUD PUBLICA.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
 #### SECCION CUARTA.
 
@@ -1075,32 +1179,90 @@ Los Jefes de Jurisdicciones Sanitarias, durante sus ausencias menores de 15 día
 
 Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de jerarquía inmediata inferior que para tal efecto designe el Subdirector correspondiente. Las ausencias mayores de este término, serán suplidas por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director de Area.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2002)</small>
 
-PRIMERO.- El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+## TITULO QUINTO.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este ordenamiento.
+DE LA DIRECCION DE AREA DE EQUIDAD Y DESARROLLO EN SALUD.
 
-TERCERO.- En tanto se expiden los Manuales que este Reglamento menciona, el Titular del ramo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2002)</small>
 
-D A D O en la residencia del Palacio del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí a los cinco días del mes de octubre de 2001.
+###### ARTICULO 43.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+A la Dirección de Área de Equidad y Desarrollo en Salud, corresponden las siguientes funciones:
 
-LIC. FERNANDO SILVA NIETO
+I. Contribuir a elevar el nivel de vida y bienestar de la población abierta mediante el otorgamiento de servicios de salud con equidad y acceso.
 
-(Rúbrica)
+II. Difundir y coordinar las políticas, programas y estrategias en materia de equidad y desarrollo de los servicios esenciales de salud.
 
-EL SECRETARIO GENERAL DE GOBIERNO
+III. Impulsar el desarrollo y fortalecimiento de los servicios de salud de acuerdo con las necesidades de la población, con base en estrategias innovadoras que permitan captar y atender las demandas de la población en beneficio de la población abierta.
 
-LIC. JORGE DANIEL HERNANDEZ DELGADO
+IV. Incorporar y fortalecer medidas de atención médica especializada en la población abierta con la participación coordinada de instituciones públicas y privadas.
 
-(Rúbrica)
+V. Propiciar y promover la organización y participación social por la equidad en el bienestar social de la población abierta, el autocuidado de la salud individual, familiar y comunitaria.
 
-LA DIRECTORA GENERAL DE LOS SERVICIOS DE SALUD DE
+VI. Promover y coordinar en el ámbito de su competencia, el desarrollo de los servicios esenciales a través de la incorporación de nuevas tecnologías, esquemas innovadores de administración, prestación, gestión y operación de los servicios de salud.
 
-SAN LUIS POTOSÍ.
+VII. Vigilar la adecuada aplicación de los programas vinculados con la equidad y el desarrollo de los servicios de salud.
 
-DRA. MA. DEL PILAR FONSECA
+VIII. Promover en coordinación con el área correspondiente, la profesionalización, desarrollo gerencial y actualización permanente del personal institucional y, en su caso comunitario, mediante la capacitación en materia de operación y gerencia de los servicios de salud.
 
-(Rúbrica)
+IX. Supervisar, vigilar y controlar la operación, funcionamiento, infraestructura, equipamiento y remodelación de todo establecimiento de atención médica de los Servicios de Salud del Estado de San Luis Potosí.
+
+X. Proponer, coordinar, apoyar y dar seguimiento a la instrumentación de las políticas y acciones en materia de equidad y desarrollo de servicios esenciales de salud, así como a los acuerdos que para el efecto se adopten en el seno de la Junta de Gobierno.
+
+XI. Vigilar el seguimiento de los avances en la ejecución de los programas de equidad y desarrollo de servicios esenciales, así como participar en la evaluación integral del desempeño, alcances y resultados en todo el Estado y proponer las medidas necesarias para corregir las desviaciones que se detecten.
+
+XII. Garantizar la aplicación y desarrollo de la salud en la población indígena, con absoluto respeto a su cultura.
+
+XIII. Garantizar que las acciones que realicen las instituciones del Sector Salud a favor de los pueblos indígenas, estén integradas a los programas y servicios de salud que se otorgan permanentemente a la población.
+
+XIV. Coordinar, supervisar y controlar el funcionamiento de los diferentes niveles de atención médica.
+
+XV. Realizar las demás funciones que le señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado San Luis Potosí.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2002)</small>
+
+###### ARTICULO 44.
+
+A la Dirección de Área de Salud Mental y Adicciones corresponde las siguientes funciones:
+
+I. Diseñar las políticas, estrategias y programas estatales en materia de adicciones y salud mental mediante la concertación intersectorial.
+
+II. Proponer a las autoridades competentes la actualización y elaboración de disposiciones jurídicas en materia de adicciones y salud mental.
+
+III. Propiciar y promover, en coordinación con las autoridades competentes, estudios e investigaciones en materia de adicciones y salud mental.
+
+IV. Determinar criterios para la elaboración de los programas en materia de adicciones, salud mental y de atención y control de trastornos mentales y neurológicos y establecer los mecanismos necesarios para mantenerlos actualizados.
+
+V. Asesorar a los Municipios en la elaboración de programas y ordenamientos relacionados con el control de las adicciones y el fomento de la salud mental.
+
+VI. Coordinar acciones en materia de cooperación con los Poderes Ejecutivo, Legislativo y Judicial, para favorecer el intercambio técnico y el desarrollo de proyectos conjuntos en materia de adicciones y salud mental.
+
+VII. Favorecer la participación de la sociedad y de las diversas Dependencias y Entidades de la Administración Pública en el diseño, aplicación y evaluación de los programas, proyectos y acciones en materia de adicciones y salud mental.
+
+VIII. Promover y apoyar la creación de instituciones por los sectores público, social y privado, que atiendan problemas relacionados con las adicciones y la salud mental.
+
+IX. Promover actividades de información, orientación y sensibilización que coadyuven a la prevención, tratamiento y rehabilitación de problemas y adicciones y salud mental, en coordinación con los sectores público, social y privado.
+
+X. Emitir los lineamientos para la operación y seguimiento de los programas para la atención de los problemas de adicciones y los trastornos de la salud mental, en coordinación con los sectores publico, social y privado.
+
+XI. Establecer un sistema estadístico que contenga los datos del diagnóstico situacional de los problemas de adicciones y salud mental, así como las respuestas institucionales para su atención.
+
+XII. Evaluar el impacto de los programas y las acciones en materia de atención a las adicciones y salud mental.
+
+XIII. Proponer un programa permanente de gestión para la obtención de recursos financieros y elaborar y proponer las Reglas de Operación de los Comités Técnicos de los fideicomisos que al efecto se constituyan.
+
+XIV. Organizar la prestación de servicios de salud mental y adicciones a fin de que la población que los requiera tenga garantizado su acceso.
+
+XV. Supervisar los programas de trabajo de salud mental y adicciones en el primer nivel de atención.
+
+XVI. Coordinar con el área correspondiente la capacitación del personal no especializado en área de salud mental adscrito a las unidades operativas del primero y segundo niveles de atención.
+
+XVII. Establecer en el estado un sistema escalonado de atención a la salud mental y a las adicciones a través de referencia y contra referencia de los usuarios.
+
+XVIII. Fomentar la introducción en los programas académicos de las disciplinas médicas y sociales, el estudio de métodos y técnicas de investigación de los problemas relacionados con la salud mental y las adicciones.
+
+XIX. Planear, dirigir y controlar eventos o celebraciones nacionales en salud mental y adicciones.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2002)</small>
