@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1940-10-12"
+last_updated: "1949-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DEL DECRETO NO. 245, PUBLICADO EN EL P.O. EL 12 DE OCTUBRE DE 1940, POR EL QUE SE EXPIDE EL CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, SE DEROGA EL PRESENTE ORDENAMIENTO; SIN EMBARGO, DE ACUERDO CON EL ARTICULO QUINTO TRANSITORIO DEL MISMO DECRETO, Y HASTA QUE SE ORGANICE EL SISTEMA DEL REGISTRO PUBLICO DE LA PROPIEDAD, LAS INSCRIPCIONES SEGUIRAN REALIZANDOSE CONFORME A LA PRESENTE LEY.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1949.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -981,65 +979,109 @@ El mismo procedimiento señalado en el final del artículo anterior, se seguirá
 
 De los honorarios del Registro.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
+
 ###### Art. 170.
 
-El Director o Encargado del Registro Público de la Propiedad no asentarán inscripción alguna ni expedirán certificados, sin que los interesados justifiquen en la forma prevenida por este Reglamento haber hecho el pago de los derechos respectivos conforme a la siguiente Tarifa.
+El registro o inscripción de documentos públicos o privados así como la expedición de toda clase de copias o certificados que expida el Registro Público de la Propiedad, causarán al Fisco del Estado los derechos que establece la siguiente:
 
-Inscripciones de cualquier título que no sea de arrendamiento o de hipoteca.
+TARIFA
 
-I.- Por toda inscripción o registro de títulos de bienes o derechos cuyo valor no exceda de $ 500.00, así como por la guarda de los instrumentos privados a que se refiere el artículo 3,186 del Código Civil… $ 3.00
+I.- Por toda inscripción o registro de títulos de bienes o derechos cuyo valor no exceda de $ 500.00… $ 5.00
 
-II.- Por la inscripción o registro de títulos de bienes o derechos cuyo valor, sea desde quinientos pesos hasta cinco mil pesos inclusive; por cada millar o fracción de millar… $ 1.50
+II.- Por la inscripción o registro de títulos de bienes o derechos cuyo valor sea desde $500.00 hasta $5,000.00 inclusive, por cada millar o fracción de millar… “ 2.50
 
-III.- Si el valor excede de quinientos pesos, por los primeros cinco mil pesos se cobrará conforme a la fracción anterior y por lo que exceda de esa cantidad hasta veinticinco mil pesos inclusive, por cada millar o fracción… $ 1.20
+III.- Si el valor excede de $500.00 por los primeros $5,000.00 se cobrará conforme a la Fracción anterior y por lo que exceda de esta cantidad hasta $25,000.00 inclusive, por cada millar o fracción… “ 2.00
 
-IV.- Si excede de veinticinco mil pesos se cobrará por esa cantidad de conformidad con las fracciones II y III y por lo que exceda de dicha cantidad hasta cien mil pesos inclusive, por cada millar o fracción… $ 0.90
+IV.- Si excede de $25,000.00 se cobrará por esa cantidad, de conformidad con las fracciones II y III y por lo que exceda de dicha cantidad hasta $100,000.00 inclusive, por cada millar o fracción… “ 1.50
 
-V.- Si excede de cien mil pesos se cobrarán por los primeros cien mil pesos de conformidad con las fracciones anteriores y por lo que exceda de dicha cantidad por cada millar o fracción… $ 0.30
+V.- Si excede de $100,000.00 se cobrarán por los primeros $100,000.00 de conformidad con las fracciones anteriores y por lo que exceda de dicha cantidad por cada millar o fracción… “ 1.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 171.
 
 Para el registro de contratos o títulos de arrendamientos o similares se aumentará un 50% a las cuotas señaladas en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
+
 ###### Art. 172.
 
 Para el registro de los contratos de hipoteca se disminuirá un 50% de las cuotas señaladas en el artículo 170.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
+
 ###### Art. 173.
 
-Para la inscripción de registro de títulos bienes o derechos cuyo valor sea indeterminado… $5.00
+Para la inscripción de registro de títulos, bienes o derechos cuyo valor sea indeterminado… “ 5.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 174.
 
-Cuando parte del valor sea determinado y parte indeterminado, se pagará la parte determinada conforme a los artículos 170, 171 y 172 y por la parte indeterminada la cuota que fija el artículo anterior.
+Cuando parte del valor sea determinado y parte indeterminado, se pagará la parte determinada conforme a los Arts. 170, 171 y 172 y por la parte indeterminada… “ 5.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 175.
 
-Por expedición de certificados o por las certificaciones literal de partes, independientemente de la busca. por la primera hoja de cada certificación, $3.00 y por cada hoja de las subsiguientes… $ 1.50
+I.- Por expedición de copias Certificadas de documentos que obren en poder del Registro Público de la Propiedad, independientemente de los cargos por búsqueda o por la certificación de parte de dichos documentos, de 1 a 5 hojas, por hoja… “ 5.00
+
+De 6 a 10 hojas, por cada hoja… “ 4.00
+
+De 11 a 20 hojas, por cada hoja… “ 3.00
+
+De 21 hojas en adelante, por cada hoja… “ 2.50
+
+II.- Por expedición de Certificados de Libertad de Gravamen se cobrará como sigue:
+
+Por cinco años… “ 5.00
+
+Por diez años… “ 10.00
+
+Por veinte años… “20.00
+
+Por certificados de no inscripción… “ 20.00
+
+Por certificados de inafectabilidad… “ 10.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 176.
 
-Por la busca para la expedición de certificado de todas clases, según el tiempo a que se refiera, por cada período de cinco años o fracción… $ 3.00
+Por la búsqueda para la expedición de Certificado de todas clases según el tiempo a que se refiera, por cada período de CINCO años o fracción… “ 5.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 177.
 
-Los títulos sobre bienes o derechos que modifiquen o aclaren, o sean simples consecuencias legales de actos o contratos que ya causaron derecho de registro y que se otorguen por los mismos interesados de la primitiva escritura sin aumentar ni disminuir capital ni bienes y que no transfiere derechos, pagarán por inscripción… $ 3.00.
+Los títulos sobre bienes o derechos que modifiquen, aclaren, o sean simples consecuencias legales de actos o contratos que ya causaron derechos de registro y que se otorguen por los mismos interesados de la primitiva escritura sin aumentar ni disminuir capital ni bienes y que no transfiere derechos, pagarán por inscripción… $ 10.00.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 178.
 
 Si la nueva escritura a que se refiere el artículo anterior es otorgada por los mismos interesados de la primitiva escritura, pero disminuyen o aumentan el capital o bienes o transfieren algún derecho, pagarán derechos conforme a esta tarifa solo en lo que importa el aumento o la disminución o el derecho que se transfiere.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
+
 ###### Art. 179.
 
-Las informaciones ad-perpetuam y cualquiera otro título o documento no comprendido en las fracciones anteriores, pagará la cuota que en ella señala, cuando en él conste una operación por cantidad determinada, y cuando la cantidad sea indeterminada, pagara por su inscripción una cuota fija de… $ 15.00
+Las informaciones ad-perpetuam y cualquiera otro título o documento no comprendido en las fracciones anteriores, pagará la cuota que en ella señala, cuando en él conste una operación por cantidad determinada, y cuando la cantidad sea indeterminada, pagara por su inscripción una cuota fija de… “ 25.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 180.
 
-Por toda anotación o cancelación se pagará una cuota igual al 10% de lo que correspondería por la inscripción del título anotado o aclarado, sin que este 10% pueda ser menor de… $ 2.00
+Por toda anotación o cancelación se pagará una cuota igual al 10% de lo que correspondería por la inscripción del título anotado o aclarado, sin que este 10% pueda ser menor de… “ 5.00
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
 ###### Art. 181.
 
-Por los registros, anotaciones, cancelaciones y certificados relativos a varias fincas, se pagará integra la cuota que corresponda por cada una de ellas.
+I.- Por los registros, anotaciones, cancelaciones y certificados relativos a varias fincas, se pagará integra la cuota que corresponda por cada una de ellas.
+
+II.- Por el depósito de cada testamento oleógrafo y expedición de la respectiva constancia, si el depósito se hace en las oficinas del Registro… “ 50.00
 
 ###### Art. 182.
 
@@ -1198,3 +1240,7 @@ P.O. EL 12 DE OCTUBRE DE 1940.
 6º.- A partir de la fecha de la vigencia de esta Ley, quedarán derogados: el Decreto número 145 de 14 de noviembre de 1895, que adoptó para el Estado de Tamaulipas el Código civil del Distrito Federal promulgado el 31 de marzo de 1884; la Ley del Registro Civil de fecha 15 de diciembre de 1903; la Ley del Registro Público de la Propiedad de 25 de enero de 1927; la Ley del Notariado de fecha 30 de junio de 1921, a excepción de los artículos del 108 al 148 inclusive, de que habla el artículo 4º Transitorio de este Decreto, así como de cualquier otra que se oponga al presente Código.
 
 7º.- El presente Código entrará en vigor el primero de noviembre de 1940.
+
+P.O. 12 DE MARZO DE 1949.
+
+TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
