@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1981-12-30"
+last_updated: "1982-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1982.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -10573,9 +10573,9 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -10595,7 +10595,7 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10667,9 +10667,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1460.
 
@@ -10745,7 +10745,7 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10851,7 +10851,7 @@ La actividad del Organismo no causará contribuciones al fisco del Estado.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -11035,11 +11035,11 @@ VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afect
 
 VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+### CAPITULO II. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 #### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
@@ -11167,9 +11167,9 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11183,9 +11183,11 @@ Para los efectos de este Título se entiende por estructura vial y sistema de tr
 
 En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1504.
 
@@ -11281,13 +11283,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11331,9 +11329,7 @@ Una vez determinados los jefes de familia beneficiados, la presidencia municipal
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1521.
 
@@ -11375,7 +11371,11 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 #### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
 
@@ -11421,7 +11421,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11475,9 +11475,9 @@ VI.- Régimen financiero para la ejecución de la obra.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+### CAPITULO III. JUNTAS MUNICIPALES DE AGUA Y SANEAMIENTO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1533.
 
@@ -11493,9 +11493,9 @@ Para la conservación del patrimonio a que se refiere el artículo anterior, el 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO I. DE LAS COMPETENCIAS
+### CAPITULO IV. CONEXION DE LOS SERVICIOS DE AGUA Y SANEAMIENTO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1535.
 
@@ -11545,11 +11545,11 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO V. INSPECCION Y PAGO DE LOS SERVICIOS
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1542.
 
@@ -11595,119 +11595,675 @@ Las declaratorias de conurbación para que surtan sus efectos serán publicadas 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-# LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+# LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+## TITULO UNICO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VI. INFRACCIONES Y SANCIONES
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1548.
 
-Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y de las faltas comunes y oficiales que cometan.
+Se declara de utilidad pública e interés social, el uso y aprovechamiento del agua potable y los servicios de saneamiento, dentro de los que se incluye el de alcantarillado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1549.
 
-No podrán aplicarse sanciones a los funcionarios y empleados públicos sin otorgarles previamente la garantía de audiencia dentro de los procedimientos administrativos o judiciales previamente establecidos y de conformidad con las leyes expedidas con anterioridad a los hechos que motiven la infracción.
+Para los efectos del artículo anterior, el Ejecutivo del Estado podrá declarar la expropiación, la ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio de conformidad con lo establecido en este Código.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1550.
 
-Se concede acción popular para denunciar ante quien corresponda los delitos y faltas oficiales cometidas por los funcionarios y empleados públicos.
+Las autoridades Estatales y Municipales y los habitantes del Estado tienen el deber de procurar la conservación y el uso adecuado del agua potable y las obras de suministro y alcantarillado, en los centros de población.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1551.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no se puede conceder al reo la gracia del indulto.
+Para coordinar las acciones de la Federación, Estado, Municipio y particulares en obras de agua y saneamiento, se crea un organismo público descentralizado con personalidad jurídica y patrimonio propios denominado Junta Central de Agua y Saneamiento, con domicilio en la Capital del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1552.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá ejercerse durante el período en que el funcionario o empleado desempeña su cargo y dentro de un año después.
+La Junta General tiene las siguientes atribuciones:
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+I.- Vigilar la organización y funcionamiento de las Juntas Municipales.
+
+II.- Proporcionar asesoría técnica a las Juntas Municipales.
+
+III.- Prever el desarrollo de las poblaciones para adecuar las fuentes de abastecimiento de agua potable, redes de distribución y colectores.
+
+IV.- Designar a su propio personal y al de las Juntas Municipales, a propuesta de éstas;
+
+V.- Aprobar las tarifas para el cobro de los derechos de agua y saneamiento, a propuesta de la Junta Municipal respectiva;
+
+VI.- Aprobar en el mes de noviembre su Presupuesto de Ingresos y Egresos y los de las Juntas Municipales, a propuesta de éstas, que deberán regir en el año siguiente;
+
+Dentro de los tres primeros meses de cada año deberá formular los estados financieros del año anterior y el informe anual de actividades;
+
+VII.- Avalar, cuando así se requiera, los créditos que se otorguen a las Juntas Municipales;
+
+VIII.- Programar la prestación de los servicios de agua potable y drenaje en los centros de población y especialmente en aquellos donde no existan;
+
+IX.- Realizar en coordinación con las dependencias federales y otras entidades, las obras que sean necesarias para la captación, conducción, potabilización de agua y saneamiento;
+
+X.- Formular el inventario de las fuentes acuíferas para suministro de agua a las poblaciones; y
+
+XI.- Las demás que le fijen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1553.
 
-El término señalado en el artículo anterior empezará a correr desde el día en que el funcionario deje de hecho de estar en funciones, en aquellos casos en que por excepción continúe en funciones después de la expiración del término legal.
+La Junta Central de Agua y Saneamiento tiene un Consejo Directivo integrado por un Presidente, un Secretario, un Tesorero y tres vocales. Los tres primeros serán nombrados por el Gobernador del Estado; un vocal por los Servicios Coordinados de Salud Pública y los restantes a invitación, por las dependencias federales relacionadas con el ramo.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+Los integrantes del Consejo pueden ser removidos por quien los designó. Los cargos serán honorarios, con excepción del Presidente y Tesorero, quienes serán funcionarios de tiempo completo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1554.
 
-Será causa de responsabilidad para todos los funcionarios y empleados públicos, no despachar dentro de los términos legales o reglamentarios los negocios que estén a su cargo.
+El Consejo Directivo de la Junta Central de Agua y Saneamiento celebrará sesiones ordinarias cuando menos una vez al mes y extraordinarias cuando sea necesario. Sus acuerdos se asentarán en el libro de actas autorizado por el Ejecutivo del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+Habrá quórum con la asistencia de cuatro de los miembros de la Junta, siempre y cuando se encuentren presentes el Presidente, el Secretario y el Tesorero. Cada miembro tendrá un voto y el Presidente tendrá además el de calidad; los acuerdos se tomarán por mayoría de votos de los presentes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1555.
 
-Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular, pero el electo podrá optar por el que le conviniere, entendiéndose renunciado uno con la aceptación del otro.
+El Presidente tiene las siguientes atribuciones:
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+I.- Desempeñar simultáneamente el cargo de Presidente del Consejo de la Junta Municipal de Agua y Saneamiento de Chihuahua;
+
+II.- Ejecutar los acuerdos del Consejo Directivo de la Junta Central;
+
+III.- Suscribir con el Tesorero los títulos de crédito, actos y contratos relativos al patrimonio de la Junta;
+
+IV.- Representar a la Junta con facultades generales y especiales para actos de administración y pleitos y cobranzas y sustituir esta última facultad. Para realizar actos de dominio sobre bienes inmuebles requerirá acuerdo previo del Consejo Directivo de la Junta;
+
+V.- Proponer los programas de actividades de la Junta;
+
+VI.- Someter al Consejo Directivo para su aprobación, los proyectos de Presupuesto de Ingresos y Egresos y los estados financieros;
+
+VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo;
+
+VIII.- Imponer sanciones disciplinarias de acuerdo con el Reglamento Interior de Trabajo;
+
+IX.- Aprobar los movimientos de ingresos y egresos mensuales que les sean presentados por el Tesorero; y
+
+X.- Las demás que le fijen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1556.
 
-Todo cargo de elección popular es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza, beneficencia y salubridad públicas, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+El Secretario suscribirá las convocatorias para las sesiones y levantará las actas de las mismas, se hará cargo de la correspondencia y archivo y expedirá las certificaciones que sean necesarias.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1557.
 
-Nunca podrá reunirse en una persona varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos. Sin embargo, el Congreso o en su receso la Diputación Permanente, podrán conceder permiso por término señalado a empleados de otros ramos para que puedan desempeñar empleos en los ramos de enseñanza, salubridad y beneficencia, necesitándose permiso especial en cada caso.
+El Tesorero tiene las siguientes atribuciones:
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+I.- Cobrar y recaudar los fondos de acuerdo al Presupuesto de Ingresos y Egresos;
+
+II.- Practicar el día último de cada mes el corte de caja para determinar el movimiento de ingresos y egresos, que deberá someterse a la aprobación del Presidente de la Junta;
+
+III.- Ejercitar la facultad económico-coactiva de conformidad con el Código Fiscal del Estado;
+
+IV.- Determinar y aplicar las sanciones que procedan por el incumplimiento de las disposiciones fiscales contenidas en este Ordenamiento y en el Código Fiscal del Estado;
+
+V.- Realizar los pagos de acuerdo con el Presupuesto de Ingresos y Egresos;
+
+VI.- Llevar la contabilidad y el control del Presupuesto de Ingresos y Egresos; y
+
+VII.- Las demás que le fijen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1558.
+
+La Junta Central tiene facultades de vigilancia y revisión respecto de las Juntas Municipales en lo que corresponde al ejercicio de sus presupuestos, cobro de los servicios, quejas de los usuarios, manejo de fondos y potabilidad del agua.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1559.
+
+La Junta Central rendirá informes mensuales al Ejecutivo del Estado en relación al movimiento financiero habido tanto en la propia Junta como en las Municipales, de las obras contratadas, las que están en proceso de construcción y las terminadas.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1560.
+
+El Ejecutivo del Estado y las Juntas Municipales aportarán los recursos financieros para el funcionamiento de la Junta Central. La aportación de éstas en ningún caso podrá ser menor del 5% de sus ingresos brutos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1561.
+
+Las Juntas Municipales de Agua y Saneamiento son organismos descentralizados de la Junta Central, con personalidad jurídica y patrimonio propios y competentes para la prestación de los servicios de agua y saneamiento de las poblaciones localizadas en un Municipio.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1562.
+
+Las Juntas Municipales requerirán de facultad expresa de la Junta Central para:
+
+I.- Contratar créditos;
+
+II.- Enajenar bienes inmuebles; y
+
+III.- Celebrar contratos de obra, servicios profesionales y saneamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1563.
+
+Las Juntas Municipales tienen un Consejo Directivo integrado por un Presidente, un Secretario, un Tesorero y cinco Vocales, que serán designados:
+
+I.- El Presidente por el Gobernador del Estado, en terna propuesta por el Ayuntamiento;
+
+II.- El Secretario por el Ayuntamiento;
+
+III.- El Tesorero por la Junta Central; y
+
+IV.- Un Vocal por cada una de las siguientes entidades:
+
+a).- Programa de Desarrollo Urbano del Estado.
+
+b).- Servicios Coordinados de Salud Pública;
+
+c).- Cámara de Propietarios de Bienes Raíces;
+
+d).- Cámara de Comercio; y
+
+e).- Cámara de la Industria de Transformación.
+
+Los cargos serán honorarios con excepción del Presidente y el Tesorero, quienes serán funcionarios de tiempo completo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1564.
+
+Las Juntas Municipales tienen las siguientes atribuciones:
+
+I.- Prestar y administrar los servicios de agua y saneamiento en las poblaciones del Municipio;
+
+II.- Recaudar los pagos por los servicios de agua y saneamiento;
+
+III.- Formular el proyecto de Presupuesto de Ingresos y Egresos y someterlo para su aprobación a la Junta Central;
+
+IV.- Formular los programas de obra y someterlos a la aprobación de la Junta Central;
+
+V.- Proponer anualmente a la Junta Central las tarifas para el cobro de servicios;
+
+VI.- Elaborar los estados financieros y el informe anual de actividades y someterlos a la aprobación de la Junta Central;
+
+VII.- Proponer a la Junta Central para su aprobación, la designación de sus funcionarios y empleados;
+
+VIII.- Llevar la contabilidad conforme a los lineamientos que le señale la Junta Central;
+
+IX.- Las demás que le fijen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1565.
+
+Los Consejos Directivos de las Juntas Municipales celebrarán sesiones ordinarias cuando menos una vez al mes y extraordinarias cuando sea necesario. Sus acuerdos se asentarán en el libro de actas autorizado por la Junta Central.
+
+Habrá quórum con la asistencia de cinco de los miembros del Consejo, siempre y cuando se encuentren presentes el Presidente, el Secretario y el Tesorero. Cada miembro gozará de un voto y el Presidente tendrá además el de calidad. Los acuerdos se tomarán por mayoría de los votos presentes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1566.
+
+Las Juntas Municipales rendirán mensualmente a la Junta Central los informes a que se refiere el artículo 1559 de este Código.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1567.
+
+Los Presidentes de las Juntas Municipales tienen las siguientes atribuciones:
+
+I.- Ejecutar los acuerdos del Consejo Directivo y las instrucciones que reciba de la Junta Central;
+
+II.- Suscribir con el Tesorero previa aprobación de la Junta Central, los títulos de crédito, actos y contratos relativos al patrimonio de la Junta Municipal;
+
+III.- Representar a la Junta Municipal con facultades generales y especiales para actos de administración y pleitos y cobranzas y sustituir esta última facultad;
+
+IV.- Proponer los programas de actividades de la Junta Municipal;
+
+V.- Someter al Consejo Directivo de la Junta Municipal para su aprobación, los proyectos de Presupuestos de Ingresos y Egresos y estados financieros y enviarlos a la Junta Central para los efectos del artículo 1552 fracción VI;
+
+VI.- Convocar a sesiones ordinarias y extraordinarias del Consejo;
+
+VII.- Imponer sanciones disciplinarias de acuerdo con el Reglamento Interior de Trabajo; y
+
+VIII.- Las demás que le fijen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1568.
+
+El Secretario y El Tesorero tendrán las mismas facultades que los de la Junta Central, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1569.
+
+Los miembros de los Consejos Directivos de las Juntas Municipales serán designados cada tres años y podrán ser removidos en cualquier tiempo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1570.
+
+La determinación de tarifas para el cobro de servicios es competencia de las Juntas Municipales, con aprobación de la Junta Central y serán obligatorias una vez publicadas en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1571.
+
+Los ingresos por servicios de agua y saneamiento se destinarán exclusivamente a cubrir el costo de obras y administración, sin que por ningún motivo el Estado o los Municipios puedan disponer de estos ingresos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1572.
+
+Ningún usuario de los servicios estará exento del pago de los derechos correspondientes, trátese de particulares, dependencias oficiales del sector Gobierno o del sector paraestatal.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1573.
+
+El uso de los servicios de agua y saneamiento es obligatorio para todos los propietarios o poseedores de inmuebles urbanos y por tanto, quedan obligados a efectuar las conexiones correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1574.
+
+Las industrias que requieran de consumo de agua podrán abastecerse de las líneas públicas con autorización de la Junta Municipal y por lo que se refiere al uso del drenaje, además de la autorización de la Junta deberán efectuar por su cuenta las conexiones, instalaciones y ampliaciones que sean indispensables, cubriendo los derechos que señalen las tarifas.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1575.
+
+Quienes cuenten con fuentes propias de aprovechamiento de agua, están obligados cuando las Juntas Municipales o la Central lo ordenen, a prestar los servicios de emergencia que sean necesarios, conectándose a las líneas públicas.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1576.
+
+Quienes pretendan establecer fraccionamientos deberán realizar dentro del plazo y de acuerdo con las especificaciones que fije la Junta Central, las obras necesarias para abastecer el servicio de agua y proporcionar el servicio de saneamiento, cumpliendo con las demás obligaciones que establece el Código Municipal.
+
+Las obras realizadas por los fraccionadores y por cualquiera otra persona, forman parte del patrimonio de las Juntas Municipales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1577.
+
+Las Juntas Municipales de Agua y Saneamiento están facultadas para establecer en las poblaciones comprendidas dentro de su circunscripción territorial, Juntas Rurales de Agua Potable, como órganos auxiliares para la prestación de los servicios, cuya organización y funcionamiento se determinará en el reglamento respectivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1578.
+
+Expedida la autorización para la conexión de los servicios, el usuario deberá efectuarla dentro de los veinte días siguientes y si no lo hiciere, la Junta Municipal la realizará con cargo a los propietarios o poseedores de los predios y aplicará las sanciones que procedan.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1579.
+
+En toda conexión a los servicios de agua se deberá instalar un aparato medidor y será obligación de los usuarios construir las instalaciones de acuerdo a las especificaciones técnicas que señale la Junta Central.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1580.
+
+Cuando se requiera el cambio o la supresión de la conexión a los servicios, los propietarios o poseedores de los inmuebles lo solicitarán por escrito expresando las razones para ello, y la Junta Municipal una vez que se cerciore de su necesidad, otorgará la autorización.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1581.
+
+Efectuada la conexión, aún cuando no se haga uso de los servicios de agua y saneamiento, se causarán los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1582.
+
+Los propietarios o poseedores de lotes en fraccionamientos o los fraccionadores, pagarán los derechos por suministro de agua a partir de la fecha de conexión.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1583.
+
+La conexión a los servicios y la instalación de aparatos medidores causarán los derechos que fije la tarifa.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1584.
+
+Cada inmueble será conectado individualmente al sistema general de agua y saneamiento.
+
+Tratándose de condominios las conexiones al sistema general podrán ser comunes, sin perjuicio de que cada condómino deberá instalar su propio medidor de agua.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1585.
+
+El mantenimiento de las líneas generales estará a cargo de las Juntas Municipales. La conexión y el mantenimiento de las tomas domiciliarias, desde la red general, será a cargo de los propietarios o poseedores de los inmuebles.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO I. DE LAS COMPETENCIAS
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1586.
+
+Los Presidentes de las Juntas Central y Municipales, ordenarán las inspecciones que sean necesarias para constatar:
+
+I.- Que las instalaciones interiores de los inmuebles se ajusten a las especificaciones de la Junta Central;
+
+II.- El correcto funcionamiento de los aparatos medidores y el diámetro de las tomas domiciliarias; y
+
+III.- Los demás requisitos que establezcan este Código y su reglamento.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1587.
+
+Las inspecciones se efectuarán por el personal autorizado previa orden por escrito en cada caso, debiendo levantarse acta circunstanciada que será firmada por el usuario en presencia de dos testigos propuestos por éste y en su ausencia o negativa por quien practique la inspección.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1588.
+
+La verificación del volumen de agua consumida se hará por medio de aparatos medidores que serán propiedad de la Junta Municipal y su lectura se tomará mensualmente por personal autorizado.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1589.
+
+Los aparatos medidores sólo podrán ser instalados o retirados por el personal autorizado de la Junta Municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1590.
+
+Cuando no pueda determinarse el consumo de agua por deficiencias del aparato medidor o por cualquiera otra causa, los derechos por el servicio de agua se establecerán promediando los causados en los últimos tres meses y al resultado se le aplicará la tarifa.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1591.
+
+Los aparatos medidores deberán instalarse en un lugar que permita con facilidad su lectura, inspección y sustitución.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1592.
+
+Los usuarios de los servicios tienen obligación de comunicar a la Junta Municipal cualquier daño o deterioro del aparato medidor y sus conexiones.
+
+Los propietarios o poseedores de los inmuebles serán solidariamente responsables de la reparación que se requiera.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1593.
+
+Cuando un aparato medidor se deteriore por el uso normal, la Junta Municipal instalará otro, cubriendo el usuario los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1594.
+
+Los propietarios o poseedores de los inmuebles serán solidariamente responsables en el pago de los servicios de agua y saneamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1595.
+
+Los adeudos a cargo de los usuarios, provenientes de cualquiera de los conceptos a que se refiere este Código y los contenidos en la Tarifa de Derechos, tienen el carácter de créditos fiscales y las Juntas Central y Municipales, son organismos fiscales autónomos y podrán hacerlos efectivos mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado. En caso de mora se causarán los recargos que fije este Ordenamiento legal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+### CAPITULO II. DE LOS PROCEDIMIENTOS
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1596.
+
+Son infracciones de los usuarios, propietarios o poseedores de inmuebles:
+
+I.- No solicitar ni realizar la conexión a los servicios dentro de los plazos establecidos en este Código;
+
+II.- Conectar en forma clandestina los servicios de agua y alcantarillado;
+
+III.- Causar daño a los aparatos medidores;
+
+IV.- Alterar la medición registrada en los medidores;
+
+V.- Impedir que los aparatos medidores registren el consumo del agua;
+
+VI.- Retirar un aparato medidor o variar su instalación sin la autorización de la Junta Municipal;
+
+VII.- Alterar las tomas de agua o descargas de alcantarillado sin la autorización de la Junta Municipal;
+
+VIII.- Impedir la práctica de inspecciones ordenadas por las Juntas Central o Municipales;
+
+IX.- Conectar bombas de succión a la red general de distribución o a la toma domiciliaria;
+
+X.- Hacer mal uso o desperdiciar el agua en cualquier forma;
+
+XI.- No acatar las disposiciones de las Juntas Central o Municipales relativas a la restricción del uso del agua;
+
+XII.- No realizar las obras de instalación, mantenimiento y reparación a las conexiones de los servicios de agua y alcantarillado con la oportunidad que se requiera y de acuerdo con las especificaciones que fije la Junta Central;
+
+XIII.- Obstaculizar la realización de los trabajos ordenados por las Juntas Central o Municipales; y
+
+XIV.- Cualesquiera otras que por su naturaleza sean similares a las anteriores, aplicándoseles las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1597.
+
+Se impondrá multa por las infracciones establecidas en el artículo anterior, como sigue:
+
+a).- De $100.00 a $5,000.00, a las señaladas en las fracciones I, III, VI, VII, X, XI y XII; y
+
+b).- De $1,000.00 a $10,000.00, a las señaladas en las fracciones II, IV, V, VIII, IX y XIII.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1598.
+
+Los encargados de los Registros Públicos de la Propiedad, los Notarios y demás funcionarios dotados de fé pública no inscribirán, autorizarán o ratificarán firmas relativas a documentos que transfieran o graven derechos sobre bienes inmuebles, sin que previamente se les compruebe que se encuentran al corriente en el pago de los servicios de agua y saneamiento, salvo el caso de que el gravamen sea impuesto por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1599.
+
+Las infracciones al artículo anterior serán sancionadas por las Juntas Central o Municipales con multa equivalente al doble de los derechos adeudados.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1600.
+
+Son infracciones de los funcionarios y empleados de las Juntas Central y Municipales:
+
+I.- Autorizar la conexión a los servicios de agua y alcantarillado sin que se hayan cumplido, en las obras respectivas, las especificaciones fijadas por la Junta Central;
+
+II.- Autorizar la conexión a los servicios de agua y alcantarillado sin que se hayan cubierto los derechos en los términos de la tarifa aprobada por la Junta Central;
+
+III.- No exigir el pago de los derechos contenidos en la tarifa correspondiente;
+
+IV.- No cumplir con las órdenes de inspección;
+
+V.- Asentar datos o hechos falsos en las actas de inspección;
+
+VI.- Alterar los datos de medición del consumo de agua; y
+
+VII.- Intervenir en cualquier forma para que se eluda el pago de los derechos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1601.
+
+Las infracciones contenidas en el artículo anterior se sancionarán con la destitución del cargo o empleo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1602.
+
+Las multas deberán cubrirse en las oficinas de las Juntas Central o Municipales dentro de los quince días siguientes a la fecha en que sean notificadas a los infractores. Concluido dicho término las Juntas Central o Municipales las harán efectivas mediante el procedimiento económico-coactivo establecido en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1603.
+
+Cuando las infracciones cometidas sean constitutivas de delito, se denunciarán al Ministerio Público, sin perjuicio de aplicar las sanciones administrativas que procedan.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+
+###### ARTICULO 1604.
+
+Las autoridades administrativas tienen el carácter de auxiliares de las Juntas Central y Municipales y están obligadas a cooperar en el cumplimiento de las disposiciones sobre la materia.
+
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA SEGUNDA PARTE
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+# LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1605.
+
+Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y de las faltas comunes y oficiales que cometan.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1606.
+
+No podrán aplicarse sanciones a los funcionarios y empleados públicos sin otorgarles previamente la garantía de audiencia dentro de los procedimientos administrativos o judiciales previamente establecidos y de conformidad con las leyes expedidas con anterioridad a los hechos que motiven la infracción.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1607.
+
+Se concede acción popular para denunciar ante quien corresponda los delitos y faltas oficiales cometidas por los funcionarios y empleados públicos.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1608.
+
+Pronunciada una sentencia de responsabilidad por delitos oficiales, no se puede conceder al reo la gracia del indulto.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1609.
+
+La responsabilidad por delitos y faltas oficiales sólo podrá ejercerse durante el período en que el funcionario o empleado desempeña su cargo y dentro de un año después.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1610.
+
+El término señalado en el artículo anterior empezará a correr desde el día en que el funcionario deje de hecho de estar en funciones, en aquellos casos en que por excepción continúe en funciones después de la expiración del término legal.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1611.
+
+Será causa de responsabilidad para todos los funcionarios y empleados públicos, no despachar dentro de los términos legales o reglamentarios los negocios que estén a su cargo.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1612.
+
+Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular, pero el electo podrá optar por el que le conviniere, entendiéndose renunciado uno con la aceptación del otro.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1613.
+
+Todo cargo de elección popular es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los Municipios, cuando por ambos se perciba sueldo, exceptuándose los de enseñanza, beneficencia y salubridad públicas, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1614.
+
+Nunca podrá reunirse en una persona varios empleos por los que se disfrute sueldo; exceptuándose únicamente los de enseñanza, siempre que no concurran con alguno de otro ramo. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos. Sin embargo, el Congreso o en su receso la Diputación Permanente, podrán conceder permiso por término señalado a empleados de otros ramos para que puedan desempeñar empleos en los ramos de enseñanza, salubridad y beneficencia, necesitándose permiso especial en cada caso.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1615.
 
 Los cargos y empleos públicos del Estado durarán el tiempo señalado por las leyes y las personas que los obtengan, por ningún motivo podrán conservarlos después de la expiración del término legal, salvo el caso de prevención expresa de la ley en sentido contrario.
 
 Tampoco podrán ni tendrán derecho a conservar el empleo público, quienes legalmente hayan sido cesados quedando sin efectos sus nombramientos, o cuando hayan terminado los contratos de trabajo en el caso de personas que presten sus servicios por obra o por tiempo determinado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1559.
+###### ARTICULO 1616.
 
 El Gobernador, los Magistrados, los representantes del Ministerio Público, el Secretario General de Gobierno, el Oficial Mayor, el abogado consultor general del Ejecutivo o de la Secretaría, los Jueces, los defensores de oficio en materia penal, los Presidentes Municipales y los Secretarios del Ayuntamiento, los del Supremo Tribunal de Justicia y Juzgados, los Recaudadores de Rentas, los empleados de Hacienda y todos aquéllos a quienes se les prohiben las leyes secundarias, no podrán, mientras conserven sus respectivos caracteres, ejercer la abogacía ni la procuración en los tribunales del Estado, sino en negocio propio, de su cónyuge o de personas que estén bajo su patria potestad; ni actuarán como notarios, a no ser los jueces que deban hacerlo por ministerio de ley.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1560.
+###### ARTICULO 1617.
 
 Los funcionarios del Estado y municipales, en las poblaciones fronterizas, tienen la obligación de residir en territorio nacional, bajo la pena de perder su cargo o empleo.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO II. DEL DOMINIO PUBLICO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1561.
+###### ARTICULO 1618.
 
 El Gobernador durante su encargo sólo podrá ser acusado por traición a la patria, violación expresa de la Constitución del Estado o de la General de la República, ataques a la libertad electoral o de delitos del orden común.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1562.
+###### ARTICULO 1619.
 
 De los delitos oficiales del Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador General de Justicia, Directores y Jefes de las demás Dependencias del Ejecutivo, conocerá en primera instancia la sala del ramo penal del Supremo Tribunal de Justicia.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1563.
+###### ARTICULO 1620.
 
 No pueden ser procesados:
 
@@ -11715,111 +12271,121 @@ I.- Los funcionarios de que habla el artículo anterior, sin previa declaración
 
 II.- Los Jueces de Primera Instancia, los Jueces Menores y los agentes del Ministerio Público, sin que previamente un jurado compuesto del Gobernador, un Magistrado y el Procurador General, en el cual actuará como Secretario uno de los abogados consultores del Ejecutivo designado por el Gobernador en cada caso, declare que ha lugar a proceder en su contra.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1564.
+###### ARTICULO 1621.
 
 En los casos antes mencionados, si el Congreso o el jurado formulan declaración afirmativa en el sentido de que procede la formación de causa, el desaforado quedará suspendido en el desempeño de su cargo o empleo y será consignado al Ministerio Público para que éste promueva el juicio respectivo ante la autoridad competente.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1565.
+###### ARTICULO 1622.
 
 Si la declaración del Congreso o del jurado fuera en sentido negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que, tratándose de delitos comunes, la acusación continúe en su punto cuando el acusado haya dejado de tener fuero.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1566.
+###### ARTICULO 1623.
 
 La declaración de que ha lugar a la formación de causa contra un funcionario o empleado que goce de fuero es necesaria desde la fecha en que se hubiere hecho la elección o nombramiento, sin perjuicio de que cuando se trate de un delito común los jueces puedan practicar desde luego las primeras diligencias, conforme a la ley.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1567.
+###### ARTICULO 1624.
 
 Los funcionarios y empleados que gocen de fuero, no disfrutarán de éste en cuanto a delitos que cometan durante el desempeño de otro cargo, empleo o comisión distintos que aceptaren durante el período en que debieran disfrutar de fuero, salvo que también pueda corresponderles fuero por razón del nuevo empleo, cargo o comisión que desempeñen.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1568.
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1625.
 
 De los delitos que cometan los funcionarios y empleados públicos que no gozan de fuero conocerán los tribunales comunes en los términos que fije la ley.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1569.
+###### ARTICULO 1626.
 
 El Gobernador del Estado aplicará discrecionalmente las sanciones administrativas, incluyendo la suspensión y el cese, tratándose de empleados de confianza. Deberá entenderse que son empleados de confianza aquellas personas que por disposición constitucional o legal pueden ser designadas y removidas libremente por el Gobernador del Estado, aun cuando éste tenga que hacer los nombramientos a propuesta de algún funcionario o institución.
 
 El ejercicio de la facultad que confiere este artículo no tiene límites en cuanto al fondo ni en cuanto al procedimiento y por tanto los funcionarios afectados no podrán alegar violación de los artículos 14 y 16 de la Constitución Federal ni acudir a las Juntas Arbitrales o Tribunal de Arbitraje.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1570.
+###### ARTICULO 1627.
 
 Los trabajadores de confianza responderán, conforme a las leyes aplicables, por los daños y perjuicios que causen a los particulares o a las propiedades del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1571.
+###### ARTICULO 1628.
 
 Los trabajadores de base sólo podrán ser sancionados con suspensión o privación de sus cargos por sentencia del Tribunal de Arbitraje creado específicamente para conocer de los conflictos entre ellos y el Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1572.
+###### ARTICULO 1629.
 
 Las demás sanciones administrativas deberán aplicarse por el Ejecutivo de acuerdo con las normas que establece el Reglamento de Trabajo que deberá dictar el Gobernador del Estado recabando la aprobación previa del Sindicato de Trabajadores al Servicio del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1573.
+###### ARTICULO 1630.
 
 Los trabajadores de base responderán también, conforme a las leyes aplicables, de las responsabilidades civiles y penales en que puedan incurrir, estando obligados a indemnizar los daños y perjuicios que causen tanto a los particulares como en las propiedades del Estado.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
 
-DECIMA SEGUNDA PARTE
+DECIMA TERCERA PARTE
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1574.
+# LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1631.
 
 Los organismos, funcionarios y empleados del Poder Ejecutivo del Estado, en los asuntos de sus respectivas competencias, tienen jurisdicción en todo el Estado. Se exceptúan de esta regla general, las autoridades municipales que fungen como auxiliares del Poder Ejecutivo y aquellos funcionarios y empleados que por disposición expresa de la ley o la naturaleza específica de la comisión o función que les encomiende, deban restringir sus actividades a sólo una parte del territorio del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1575.
+###### ARTICULO 1632.
 
 Todos los organismos, funcionarios o empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les estén conferidas por la ley, los reglamentos o los acuerdos dictados por el Jefe del Ejecutivo.
 
 En consecuencia, dichos organismos, funcionarios, empleados, auxiliares y comisionados deberán expresar en sus determinaciones las razones o motivos que hubieren tenido para dictarlos en el sentido que lo hagan, citando el o los preceptos legales en que se apoyan y dando a conocer a los interesados dichas razones y motivos a efecto de que estén en aptitud de hacer valer sus derechos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1576.
+###### ARTICULO 1633.
 
 Salvo disposición expresa en contrario, los conflictos de competencia entre diversos órganos o dependencias del Ejecutivo serán resueltos por el Gobernador del Estado a través de la Secretaría General de Gobierno.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1577.
+###### ARTICULO 1634.
 
 El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de las dependencias o funcionarios en conflicto o el particular que tenga interés justificado en que se defina la competencia por ser condición indispensable para que se resuelva de modo firme alguna solicitud o promoción que haya realizado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1578.
+###### ARTICULO 1635.
 
 La cuestión de competencia se tramitará por la Secretaría General de Gobierno, dando un plazo de cinco días a las partes en conflicto para que expongan sus puntos de vista. Presentados éstos o transcurrido el término indicado, el Secretario General de Gobierno acordará con el Gobernador los términos de la resolución del conflicto dándola a conocer a las partes interesadas para su inmediato cumplimiento.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1579.
+###### ARTICULO 1636.
 
 Todos los asuntos de la competencia del Ejecutivo se tramitarán conforme a los procedimientos expresamente establecidos en este Código y sus reglamentos. En caso de que no haya previsión expresa para el trámite de un negocio determinado, se seguirán las reglas siguientes:
 
@@ -11827,75 +12393,79 @@ I.- Si el asunto es de orden simplemente interior y no lesiona los derechos de p
 
 II.- Si existe la posibilidad de afectar derechos adquiridos o causar los perjuicios y responsabilidades antes aludidos, el procedimiento se determinará por los mismos funcionarios indicados, cuidando simplemente de respetar la garantía de audiencia, dando oportunidad a los posibles afectados para que presenten pruebas y aleguen lo que a sus intereses convenga.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1580.
+###### ARTICULO 1637.
 
 En los casos en que este Código no haya establecido recurso alguno para impugnar las resoluciones administrativas, éstas podrán combatirse, en su caso, con los recursos de revisión y revocación, cuyos límites y modalidades se especifican en los artículos siguientes.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1581.
-
-El Gobernador del Estado estará facultado para revocar sus propias resoluciones o las dictadas por anteriores titulares del Ejecutivo, cuando aparezca que dichas resoluciones fueron dictadas con notoria violación de las disposiciones legales que debieron regular el acto violado, y siempre que con las mismas resoluciones se haya afectado gravemente el orden y la seguridad públicos o los intereses generales del Estado.
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1582.
-
-Las revocaciones se tramitarán en la forma que determine el Gobernador, cuidando simplemente de que se conceda oportunidad de defensa a los interesados en la revocación o que puedan resultar perjudicados con ella. La revocación se decretará sin previa garantía de audiencia únicamente cuando los perjudicados sean delincuentes sentenciados que se encuentren libres con grave violación de la ley.
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1583.
-
-Salvo disposición expresa en contrario, otorgando el carácter de definitivas o inmodificables a ciertas resoluciones, el Gobernador del Estado podrá revisar todos los actos administrativos de sus subordinados, confirmándolos, modificándolos o revocándolos.
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1584.
-
-La revisión ante el Gobernador puede solicitarla cualquier interesado o particular que tenga el legítimo derecho para hacerlo. El Gobernador podrá también revisar de oficio dichos actos cuando estime que contrarían el principio de legalidad o las normas o criterios de acción gubernamental que orientan el desarrollo de su programa de gobierno.
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1585.
-
-Las revocaciones y revisiones antes mencionadas se tramitarán por conducto del Secretario General de Gobierno.
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1586.
+### CAPITULO UNICO. DE LAS EXPROPIACIONES
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1638.
+
+El Gobernador del Estado estará facultado para revocar sus propias resoluciones o las dictadas por anteriores titulares del Ejecutivo, cuando aparezca que dichas resoluciones fueron dictadas con notoria violación de las disposiciones legales que debieron regular el acto violado, y siempre que con las mismas resoluciones se haya afectado gravemente el orden y la seguridad públicos o los intereses generales del Estado.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1639.
+
+Las revocaciones se tramitarán en la forma que determine el Gobernador, cuidando simplemente de que se conceda oportunidad de defensa a los interesados en la revocación o que puedan resultar perjudicados con ella. La revocación se decretará sin previa garantía de audiencia únicamente cuando los perjudicados sean delincuentes sentenciados que se encuentren libres con grave violación de la ley.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1640.
+
+Salvo disposición expresa en contrario, otorgando el carácter de definitivas o inmodificables a ciertas resoluciones, el Gobernador del Estado podrá revisar todos los actos administrativos de sus subordinados, confirmándolos, modificándolos o revocándolos.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1641.
+
+La revisión ante el Gobernador puede solicitarla cualquier interesado o particular que tenga el legítimo derecho para hacerlo. El Gobernador podrá también revisar de oficio dichos actos cuando estime que contrarían el principio de legalidad o las normas o criterios de acción gubernamental que orientan el desarrollo de su programa de gobierno.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1642.
+
+Las revocaciones y revisiones antes mencionadas se tramitarán por conducto del Secretario General de Gobierno.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1643.
 
 El trámite de las revisiones se hará simplemente fijando un plazo prudente y previo para que los interesados o posibles perjudicados aleguen lo que a sus intereses convenga. Recibidas las pruebas y alegatos de los mismos o vencido el plazo que para tal objeto se les haya fijado, el Secretario General de Gobierno estudiará el asunto y lo someterá al acuerdo del Gobernador para su resolución definitiva.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1587.
+###### ARTICULO 1644.
 
 Tratándose de revisiones de oficio, el Secretario General de Gobierno, respetando la garantía de audiencia de los posibles perjudicados, recabará, también oficiosamente, todos los informes y pruebas que juzgue necesarios para el mejor conocimiento del negocio y su más justo planteamiento ante el Gobernador.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1588.
+###### ARTICULO 1645.
 
 La resolución del Gobernador deberá ir firmada también por el Secretario General de Gobierno y contendrá las razones legales que la funden o motiven. Deberá comunicarse a los interesados y al órgano o funcionario que realizó el acto objeto de la revisión para que proceda a su inmediato cumplimiento.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1589.
+###### ARTICULO 1646.
 
 La caducidad, cancelación, rescisión o nulidad de permisos, autorizaciones, concesiones o contratos que otorgue o celebre el Poder Ejecutivo, podrá ser decretada administrativamente por el Gobernador del Estado. Para tal fin, en dichos permisos, autorizaciones, concesiones o contratos deberán incluirse una o varias cláusulas en que categóricamente se establezca y acepte la facultad del Gobernador para decretar la cancelación, la caducidad o la rescisión, cuando la empresa o el particular interesado falte al cumplimiento de las obligaciones básicas del contrato.
 
 Se procurará la mayor claridad en la exposición de las causas que den lugar a la caducidad o rescisión.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1590.
+###### ARTICULO 1647.
 
 Salvo previsión expresa en la ley o en el permiso, contrato, concesión o autorización, el procedimiento para decretar la caducidad, cancelación o rescisión será fijado discrecionalmente por el Gobernador del Estado dentro de las siguientes bases:
 
@@ -11909,13 +12479,21 @@ IV.- La resolución deberá contener las consideraciones legales que la funden o
 
 V.- Dicha resolución deberá notificarse por escrito al interesado, enviándose una copia de la misma a las dependencias competentes para que procedan inmediatamente a darle el debido cumplimiento.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
 
-DECIMA TERCERA PARTE
+DECIMA CUARTA PARTE
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1591.
+# LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+## TITULO PRIMERO. DEL PATRIMONIO
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1648.
 
 El patrimonio del Estado se compone:
 
@@ -11923,9 +12501,9 @@ I.- De bienes de dominio público; y
 
 II.- De bienes de dominio privado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1592.
+###### ARTICULO 1649.
 
 Son bienes de dominio público:
 
@@ -11941,9 +12519,9 @@ V.- Las servidumbres cuando el predio dominante sea alguno de los anteriores; y
 
 VI.- Los muebles propiedad del Estado que por su naturaleza normalmente no sean sustituibles, como los expedientes de las oficinas y archivos públicos, los libros raros, las piezas históricas o arqueológicas, las obras de arte de los museos, etc.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1593.
+###### ARTICULO 1650.
 
 Son bienes de dominio privado del Estado:
 
@@ -11955,15 +12533,15 @@ III.- Los que hayan formado parte de una corporación pública creada por ley lo
 
 IV.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera el Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1594.
+###### ARTICULO 1651.
 
 Los bienes a que se refiere el artículo anterior pasarán a formar parte del dominio público del Estado cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1595.
+###### ARTICULO 1652.
 
 Los bienes del dominio público son inalienables e imprescriptibles y no están sujetos mientras no varie su situación jurídica, a acción reivindicatoria o de posesión definitiva o interna. Los particulares y las entidades públicas sólo podrán adquirir sobre el uso o aprovechamiento de estos bienes, los derechos regulados en esta ley.
 
@@ -11971,13 +12549,9 @@ Se regirán, sin embargo, por el derecho común, los aprovechamientos accidental
 
 Ninguna servidumbre pasiva puede imponerse en los términos del derecho común sobre los bienes de dominio público. Los derechos de tránsito, de vistas, de luces, de derrames y otros semejantes sobre dichos bienes, se rigen exclusivamente por las leyes y reglamentos administrativos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1596.
+###### ARTICULO 1653.
 
 Corresponde al Ejecutivo del Estado:
 
@@ -11993,15 +12567,15 @@ V.- Anular administrativamente los acuerdos, concesiones, permisos o autorizacio
 
 VI.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de las disposiciones a que estén sometidos los bienes de dominio público.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1597.
+###### ARTICULO 1654.
 
 Cuando a juicio del Ejecutivo existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones concretas o de seguir los procedimientos a que se refiere el artículo anterior, y ordenar al Ministerio Público que someta el asunto al conocimiento de los Tribunales. El procedimiento se tramitará sumariamente y dentro de él podrá solicitarse la ocupación administrativa de los bienes.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1598.
+###### ARTICULO 1655.
 
 Las resoluciones a que se refiere el artículo 1508 podrán ser reclamadas ya sea ante la autoridad administrativa o ante la judicial. El procedimiento en la vía administrativa se sujetará a las siguientes reglas:
 
@@ -12021,15 +12595,15 @@ VII.- Dentro de los diez días siguientes se dictará la resolución que corresp
 
 VIII.- La resolución se comunicará a los interesados personalmente o por correo certificado con acuse de recibo. Esta resolución no podrá ya revocarse o anularse administrativamente y tendrá presunción de legalidad en cualquier procedimiento jurídico que contra ella se intente.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1599.
+###### ARTICULO 1656.
 
 Las concesiones sobre los bienes de dominio público no crean derechos reales. Otorgan simplemente, frente a la Administración y sin perjuicio de terceros, el derecho de realizar las explotaciones o por aprovechamientos que las leyes respectivas regulen, a condición de que su titular cumpla con las obligaciones que se le impongan.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1600.
+###### ARTICULO 1657.
 
 La nulidad, caducidad o rescisión de las concesiones sobre bienes del dominio público, cuando procedan conforme a la ley, se dictarán por la autoridad administrativa, sin perjuicio de lo dispuesto en el artículo 1509 previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a sus derechos convenga.
 
@@ -12037,21 +12611,21 @@ Cuando la nulidad se funde en error, dolo o violencia y no en la violación de l
 
 La nulidad de las concesiones de bienes de dominio público operará retroactivamente, pero el Ejecutivo del Estado queda facultado para limitar esta retroactividad cuando a su juicio el concesionario haya procedido de buena fe.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1601.
+###### ARTICULO 1658.
 
 Las concesiones sobre bienes de dominio público podrán rescatarse por causa de utilidad pública y mediante indemnización que se computará atendiendo al monto de las inversiones realizadas. Este derecho no podrá ejercitarse sino cuando el Estado haya adquirido en su caso y conforme a la ley, la unidad industrial correspondiente.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1602.
+###### ARTICULO 1659.
 
 Los bienes de dominio público que lo sean por disposición de la autoridad y no por naturaleza, podrán ser enajenados previo decreto de desincorporación dictado por el Congreso cuando por algún motivo dejen de servir para ese fin.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1603.
+###### ARTICULO 1660.
 
 Son bienes de uso común:
 
@@ -12065,29 +12639,23 @@ IV.- Los monumentos artísticos e históricos y las construcciones levantadas po
 
 De los bienes de uso común pueden usar todos los habitantes del Estado, con sólo las restricciones establecidas por la ley y los reglamentos administrativos, pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que fije la ley.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1604.
+###### ARTICULO 1661.
 
-Cuando puedan enajenarse y se vaya a enajenar terrenos que habiendo constituido vías públicas del Estado, hayan sido retirados de dicho servicio, o los bordes, zanjas, setos y vallados que les hayan servido de límite, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, al cual efecto se les dará aviso de la enajenación.
+Cuando puedan enajenarse y se vayan a enajenar terrenos que habiendo constituido vías públicas del Estado, hayan sido retirados de dicho servicio, o los bordes, zanjas, setos o vallados que les hayan servido de límite, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, al cual (sic) efecto se les dará aviso de la enajenación.
 
 El derecho que este artículo concede deberá ejercitarse precisamente dentro de los ocho días siguientes al aviso respectivo. Cuando éste no se haya dado, los colindantes podrán pedir la rescisión del contrato celebrado sin oírlos, dentro de seis meses contados desde su celebración.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-# LIBRO UNICO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1605.
+###### ARTICULO 1662.
 
 También corresponde este derecho al último propietario de un bien adquirido por el Estado en virtud de procedimientos de derecho público, cuando éste vaya a ser vendido, excepto cuando se esté en los casos previstos por los artículos 1510 fracción II y 1520 de esta Ley. Este aviso se dará mediante una sola publicación en el Periódico Oficial del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1606.
+###### ARTICULO 1663.
 
 Están destinados a un servicio público y por tanto se hallan comprendidos en la fracción III del artículo 1504.
 
@@ -12107,201 +12675,193 @@ VII.- Los inmuebles que constituyan el patrimonio de los establecimientos públi
 
 VIII.- Cualesquiera otros adquiridos por procedimientos de derecho público.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1607.
+###### ARTICULO 1664.
 
 Se equipararán a los anteriores los afectos mediante decreto a actividades de interés social a cargo de asociaciones o instituciones privadas que no persigan propósito de lucro.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1608.
+###### ARTICULO 1665.
 
 Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los que por disposición constitucional sean inalienables, sólo podrán gravarse con aprobación del Gobernador del Estado y con autorización expresa de la Legislatura Local, cuando sea conveniente para el mejor financiamiento de las obras o servicios a cargo de la institución propietaria. Podrán igualmente emitirse bonos u obligaciones que se regirán por las disposiciones que dicte el Congreso.
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1609.
+###### ARTICULO 1666.
 
 Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Oficialía Mayor la que, consultando a la Tesorería General, estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las ventas y compras de inmuebles corresponde al Gobernador y al Secretario General de Gobierno.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1610.
+###### ARTICULO 1667.
 
 Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Tesorería General todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1611.
+###### ARTICULO 1668.
 
 Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Oficialía Mayor.
 
 El cambio de destino de un inmueble dedicado a un servicio público, así como la declaración de que aquél ya no es propio para tal aprovechamiento, deberá hacerse por decreto que expedirá el Congreso, oyendo previamente la opinión del Poder Ejecutivo o del Judicial, en su caso.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1612.
+###### ARTICULO 1669.
 
 No pierden su carácter de bienes destinados a un servicio público, los que estándolo fueren sin embargo, aprovechados temporalmente en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1613.
+###### ARTICULO 1670.
 
 Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Oficialía Mayor. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1614.
+###### ARTICULO 1671.
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
 En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1615.
+###### ARTICULO 1672.
 
 La posesión, conservación y administración de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Oficialía Mayor, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1616.
+###### ARTICULO 1673.
 
 Los bienes propios del Estado, no destinados a un servicio público, o que no disfruten de iguales privilegios que aquéllos que sí lo están, pueden enajenarse, siempre que no existan razones que impongan la necesidad o la conveniencia de conservar dicho bien o que se justifique plenamente la necesidad de la enajenación por la importancia del fin que haya de realizarse con el producto de la venta. El Ejecutivo para obtener la autorización del Congreso, está obligado a exponer los propósitos de la venta y a justificar posteriormente la inversión de los fondos que haya obtenido, precisamente en dichos propósitos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1617.
+###### ARTICULO 1674.
 
 Los particulares pueden adquirir por prescripción los inmuebles de dominio privado del Estado. La prescripción se regirá por el Código Civil, pero se duplicarán los plazos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1618.
+###### ARTICULO 1675.
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1619.
+###### ARTICULO 1676.
 
 La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija este Código y previa autorización del Congreso.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1620.
+###### ARTICULO 1677.
 
 La enajenación de dichos bienes se hará en subasta pública. La convocatoria se publicará con quince días de anticipación, por lo menos, en el Periódico Oficial y en otro de los de mayor circulación en el lugar de ubicación de los inmuebles o en la Capital del Estado si en el Municipio de referencia no se editaren periódicos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1621.
+###### ARTICULO 1678.
 
 La subasta se hará sobre la base del avalúo que practique alguna institución bancaria local y en su defecto, servirá de base el avalúo que mande practicar la Oficialía Mayor.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1622.
+###### ARTICULO 1679.
 
 La subasta se practicará el día y a la hora señalados, ante la autoridad que determine el reglamento y se ajustará a las disposiciones relativas a remates administrativos. También se estará a estas disposiciones para determinar la deducción que deba hacerse en cada una de las almonedas si no hubiere postores en la anterior o si las posturas no fueren admisibles. En todo caso, la aprobación del remate corresponderá a la Tesorería General del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1623.
+###### ARTICULO 1680.
 
 Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1624.
+###### ARTICULO 1681.
 
 Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Oficialía Mayor, mientras no esté pagado íntegramente el precio.
 
 En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses, en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1625.
+###### ARTICULO 1682.
 
 Cuando se trate de permutar bienes estatales, los que debe recibir el Gobierno se valuarán de la manera señalada por el artículo 1533 la diferencia que resulte en favor o en contra del erario se cubrirá en efectivo precisamente en el momento de la operación.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1626.
+###### ARTICULO 1683.
 
 La infracción de cualquiera de los preceptos anteriores provocará la nulidad de la enajenación. También estarán sujetas a ellos para su validez, las enajenaciones que los establecimientos públicos y empresas en que el Estado tenga interés, hagan de inmuebles adquiridos del Gobierno del Estado por cualquier título durante los cinco años anteriores.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1627.
+###### ARTICULO 1684.
 
 Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito de que el Congreso los autorice cuando se trate de actos de dominio.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1628.
+###### ARTICULO 1685.
 
 Los actos o contratos que tengan relación con los inmuebles de la Hacienda Pública del Estado y que para su validez o por acuerdo entre las partes requieran la intervención de notario, serán presentados ante la fe del que designe libremente el Ejecutivo.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1629.
+###### ARTICULO 1686.
 
 La Hacienda Pública estará facultada para retener administrativamente los bienes que posea; pero cuando trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá deducir ante los tribunales las acciones que correspondan, las que se tramitarán, salvo la reivindicatoria y la plenaria de posesión, sumariamente. Presentada la demanda, el juez, a solicitud del Ministerio Público y siempre que encuentre razón bastante que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causa superviniente.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1630.
+###### ARTICULO 1687.
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
 La clasificación y sistemas de inventario así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Oficialía Mayor.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-# LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-## TITULO PRIMERO. DEL PATRIMONIO
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1631.
+###### ARTICULO 1688.
 
 La adquisición, administración y enajenación de los bienes muebles de propiedad estatal corresponde a la Oficialía Mayor, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezca un reglamento.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1632.
+###### ARTICULO 1689.
 
 Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1633.
+###### ARTICULO 1690.
 
 Acordada la destrucción de un mueble inútil para el servicio se dará de baja en el inventario, y podrá donarse con autorización del Gobernador del Estado a las personas indigentes que lo soliciten.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1634.
+###### ARTICULO 1691.
 
 La Oficialía Mayor llevará un Registro de la Propiedad Estatal.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1635.
+###### ARTICULO 1692.
 
 El Registro de la Propiedad Estatal será público y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros respectivos y de los documentos relacionados con las inscripciones, que estén archivados en sus apéndices y expedirá cuando sean solicitadas, y de acuerdo con la ley, copias certificadas de las inscripciones y constancias.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1636.
+###### ARTICULO 1693.
 
 Se inscribirán en el Registro de la Propiedad Estatal:
 
@@ -12321,35 +12881,35 @@ VII.- Los demás títulos que conforme a la ley deban ser registrados; y
 
 VIII.- Los decretos que incorporen al dominio público o desincorporen de él determinados bienes.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1637.
+###### ARTICULO 1694.
 
 No se hará inscripción de los bienes del dominio público sino cuando sean de los señalados en las fracciones III, IV y V del artículo 1504 de este Libro.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1638.
+###### ARTICULO 1695.
 
 Además de la inscripción en el Registro de la Propiedad Estatal, los títulos de los actos o contratos a que se refiere el artículo anterior, se inscribirán en el Registro Público de la Propiedad que corresponda, conforme a las leyes relativas, al lugar de ubicación de los bienes de que se trate.
 
 En caso de oposición entre los datos del Registro de la Propiedad Estatal y en el de la ubicación de los bienes, en las relaciones con terceros, se dará preferencia al primero si se trata de cosas de dominio público y al segundo si de inmuebles de dominio privado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1639.
+###### ARTICULO 1696.
 
 En las inscripciones del Registro de la Propiedad Estatal se expresará la procedencia de los bienes, su naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas como pasivas, así como sus referencias en relación con los expedientes respectivos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1640.
+###### ARTICULO 1697.
 
 Las constancias del Registro de la Propiedad Estatal probarán la autenticidad de los actos a que se refieran.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1641.
+###### ARTICULO 1698.
 
 La extinción de las inscripciones del Registro de la Propiedad Estatal sólo se opera:
 
@@ -12359,21 +12919,23 @@ II.- Cuando se extinga por completo el inmueble objeto de la inscripción; y
 
 III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1642.
+###### ARTICULO 1699.
 
 En la cancelación de inscripciones se asentarán los datos necesarios a fin de que se conozcan con toda exactitud cual es la inscripción que se cancela y la causa por la que se hace la cancelación.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1643.
+###### ARTICULO 1700.
 
 Un reglamento determinará las secciones de que habrá de componerse el Registro, los libros que debe llevar y los requisitos de éstos.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1644.
+## TITULO SEGUNDO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+###### ARTICULO 1701.
 
 Se consideran causas de utilidad pública:
 
@@ -12397,151 +12959,149 @@ IX.- Las medidas necesarias para evitar la destrucción de los elementos natural
 
 X.- La creación o mejoramiento de centros de población o de sus fuentes propias de vida y la dotación de terrenos para viviendas a familias humildes.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1645.
+###### ARTICULO 1702.
 
 En los casos comprendidos en la enumeración del artículo 1556 previa declaración del Ejecutivo del Estado, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, para los fines del Estado en interés de la colectividad.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1646.
+###### ARTICULO 1703.
 
 El Ejecutivo del Estado, por conducto de la Dirección de Gobernación, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio, y en su caso hará la declaratoria respectiva.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1647.
+###### ARTICULO 1704.
 
 La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el Periódico Oficial del Estado.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-## TITULO SEGUNDO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-###### ARTICULO 1648.
+###### ARTICULO 1705.
 
 Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1649.
+###### ARTICULO 1706.
 
 El recurso administrativo de revocación se interpondrá directamente ante el Gobernador del Estado y se tramitará por conducto de la Dirección de Gobernación, dentro de un plazo no mayor de quince días, dando a los interesados amplia oportunidad para que aporten pruebas y aleguen lo que a sus intereses convenga.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1650.
+###### ARTICULO 1707.
 
 Cuando no se haya hecho valer el recurso administrativo de revocación a que se refiere el artículo 1560 o en su caso de que éste haya sido resuelto en contra de las pretensiones del recurrente, la autoridad administrativa que corresponde procederá desde luego a la ocupación del bien de cuya expropiación u ocupación temporal se trate, o a emprender la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1651.
+###### ARTICULO 1708.
 
 En los casos a que se refieren las fracciones V y IX del artículo 1556 de este Código, el Ejecutivo del Estado, hecha la declaratoria, podrá ordenar la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trata o la ejecución de las disposiciones de limitación de dominio.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1652.
+###### ARTICULO 1709.
 
 Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de tres años, el propietario afectado podrá reclamar la reversión del bien de que se trata o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1653.
+###### ARTICULO 1710.
 
 El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor catastral de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base.
 
 El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1654.
+###### ARTICULO 1711.
 
 Cuando se controvierta el monto de la indemnización a que se refiere al artículo anterior, se hará la consignación al juez que corresponda, quien fijará a las partes el término de tres días para que designen sus peritos con apercibimiento de designarlos el Juez en rebeldía, si aquéllos no lo hacen. También se les prevendrá designen de común acuerdo un tercer perito para el caso de discordia y si no lo nombraren serán designado por el Juez.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1655.
+###### ARTICULO 1712.
 
 Contra el auto del Juez que haga la designación de peritos no procederá ningún recurso.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1656.
+###### ARTICULO 1713.
 
 En los casos de renuncia, excusa o incapacidad de alguno de los peritos designados, se hará nueva designación dentro del término de tres días por quienes corresponda.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1657.
+###### ARTICULO 1714.
 
 Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y los del tercero por ambas.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1658.
+###### ARTICULO 1715.
 
 El Juez fijará un plazo que no excederá de sesenta días para que los peritos rindan su dictamen.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1659.
+###### ARTICULO 1716.
 
 Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el Juez de plano fijará el monto de la indemnización; en caso de inconformidad, llamará al tercero para que, dentro del plazo que le fije, que no excederá de treinta días, rinda su dictamen. Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de diez días, lo que estime procedente.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1660.
+###### ARTICULO 1717.
 
 Contra la resolución judicial que fije el monto de la indemnización no cabrá ningún recurso.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1661.
+###### ARTICULO 1718.
 
 Si la ocupación fuere temporal, el monto de la indemnización quedará a juicio de peritos y a resolución judicial, en el caso de limitación de dominio.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1662.
+###### ARTICULO 1719.
 
 El importe de la indemnización será cubierto por el Estado cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización. Estas disposiciones se aplicarán en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1663.
+###### ARTICULO 1720.
 
 El Ejecutivo del Estado fijará la forma y los plazos en que la indemnización deberá pagarse. En caso de que el mismo Ejecutivo no obtenga autorización del Congreso del Estado para cubrir la indemnización en un plazo mayor, éste no excederá del término que falte al mismo Ejecutivo para cumplir su período gubernativo.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1664.
+###### ARTICULO 1721.
 
 La solicitud de expropiación deberá señalar claramente la causa de utilidad pública que la justifique, así como los fines a que pretenda destinarse el bien y las obras o inversiones que vayan a realizarse.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1665.
+###### ARTICULO 1722.
 
 La Dirección de Gobernación solicitará de las oficinas rentísticas correspondientes, informe sobre el valor catastral del bien cuya expropiación se solicita, pidiéndoles informen si tienen conocimiento de que el referido bien haya sufrido deterioros o mejoras con posteridad a la fecha de asignación del valor catastral.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1666.
+###### ARTICULO 1723.
 
 La propia Dirección recabará los informes necesarios para decidir sobre la existencia de la causa de utilidad pública, en el término no mayor de treinta días. Al tener suficientes elementos de juicio para decidir sobre este punto, se llevará el asunto al acuerdo del Gobernador para que resuelva declarando o negando la expropiación.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1667.
+###### ARTICULO 1724.
 
 El acuerdo de expropiación deberá contener las consideraciones necesarias para demostrar la existencia de la causa de utilidad pública y para determinar el monto de la indemnización conforme a lo dispuesto por el artículo 27 Constitucional. Concluirá con los puntos resolutivos en que se declare la procedencia de la expropiación, determinando con exactitud el bien que se expropia y la persona jurídica en cuyo favor se decreta la expropiación; el monto de la indemnización o la determinación de que ésta debe hacerse por la autoridad judicial previo peritaje rendido en los casos previstos por los artículos 1565 y 1573 de este Código y la determinación de que el acuerdo respectivo se notifique, publique y ejecute.
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-###### ARTICULO 1668.
+###### ARTICULO 1725.
 
 Los acuerdos de expropiación se ejecutarán por conducto de la Dirección de Gobernación, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
 
@@ -12688,3 +13248,13 @@ SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Ju
 P.O. 30 DE DICIEMBRE DE 1981.
 
 ARTICULO TRANSITORIO.- Las presentes disposiciones entrarán en vigor a partir del 1o. de enero de 1982.
+
+P.O. 28 DE AGOSTO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Estas adiciones entrarán en vigor el 30 de septiembre de 1982.
