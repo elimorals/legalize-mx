@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-25507"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-14"
-last_updated: "2002-03-14"
+last_updated: "2003-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de marzo de 2002.
 
@@ -63,7 +63,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Instituto: El Instituto de las Mujeres, del Estado de San Luis Potosí;
 
-II. Equidad: El principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficio de los bienes y servicios de la sociedad, incluyendo aquellos especialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de hombres y mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+II. Equidad: El principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficio de los bienes y servicios de la sociedad, con la finalidad de lograr la participación equitativa de hombres y mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar, y
 
 III. Transversalidad: La manera integradora en que deben operarse los programas y acciones del Instituto con las distintas dependencias de la administración pública.
 
@@ -151,7 +153,9 @@ XX. Difundir y publicar obras relacionadas con la materia objeto de esta Ley;
 
 XXI. Difundir información de carácter gratuito y alcance estatal sobre la equidad entre hombres y mujeres;
 
-XXII. Canalizar la asesoría psicológica y jurídica de forma permanente a las personas que así lo requieran;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+XXII. Brindar atención personalizada en materia jurídica y psicológica a las personas que lo soliciten, preferentemente a mujeres, cuando sea factible, según la problemática, o canalizarlas a las instituciones competentes;
 
 XXIII. Rendir anualmente un informe de actividades de acuerdo a los objetivos y atribuciones que se determinan en esta Ley, y
 
@@ -261,7 +265,9 @@ III. Conocer y aprobar o rechazar, según proceda, los estados financieros del I
 
 IV. Aprobar el Reglamento Interior del Instituto y sus modificaciones, y enviarlas para su sanción y publicación al Ejecutivo del Estado;
 
-V. Analizar, aprobar o rechazar, según proceda, los informes que rinda el Director General;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+V. Analizar, aprobar o rechazar, según proceda, los informes que rinda la Directora General;
 
 VI. Emitir la convocatoria y nombrar a los miembros del Consejo Consultivo y Social, de conformidad con lo establecido en el Reglamento Interior;
 
@@ -273,13 +279,19 @@ IX. Coadyuvar en la formación de los programas operativos anuales del Instituto
 
 X. Participar en el análisis, discusión y valoración de los proyectos desarrollados en materia de equidad entre mujeres y hombres, identificando el impacto de los mismos y buscando adecuar y coordinar las funciones desarrolladas por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
 
-XI. Otorgar a favor del titular de la Dirección, la representación legal del Instituto con todas las facultades que correspondan al mandato general para pleitos y cobranzas, actos de administración y de dominio, así como las que requieran cláusula especial en los términos del Código Civil para el Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
-XII. Recibir las recomendaciones del Director General del Instituto o del Consejo Consultivo para mejorar las políticas, programas o proyectos que en materia de equidad entre mujeres y hombres sean establecidos por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
+XI. Otorgar a favor de la titular de la Dirección, la representación legal del Instituto con todas las facultades que correspondan al mandato general para pleitos y cobranzas, actos de administración y de dominio, así como las que requieran cláusula especial en los términos del Código Civil para el Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+XII. Recibir las recomendaciones de la Directora General del Instituto o del Consejo Consultivo para mejorar las políticas, programas o proyectos que en materia de equidad entre mujeres y hombres sean establecidos por las dependencias que los miembros de la Junta Directiva dirigen y/o representan;
 
 XIII. Establecer, con el apoyo del Consejo Consultivo y el Consejo Social, los indicadores de desempeño del Instituto, conforme a lo establecido en la Ley de Planeación del Estado;
 
-XIV. Aprobar en su caso, la propuesta que presente el Gobernador del Estado para ocupar la titularidad de la Dirección del Instituto, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+XIV. Aprobar en su caso, la propuesta que presente el Gobernador del Estado para ocupar la titularidad de la Dirección del Instituto, de acuerdo con el artículo 22, fracción IV, de la presente Ley, y
 
 XV. Las demás que establezcan las disposiciones legales y reglamentarias.
 
@@ -291,7 +303,9 @@ La Junta Directiva puede sesionar válidamente con la asistencia de cuando menos
 
 La Junta Directiva sesiona en forma ordinaria por lo menos cada tres meses, y de manera extraordinaria cuando sea necesario, debiendo operar en los términos que disponga el Reglamento Interior del Instituto.
 
-En cada sesión debe levantarse acta que, previa aprobación de la misma en la sesión siguiente, será firmada por quien la haya presidido y por el Secretario Técnico.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+En cada sesión debe levantarse acta que, previa aprobación de la misma en la sesión siguiente, será firmada por quien la haya presidido y por la Secretaría Técnica.
 
 El Reglamento Interior debe determinar los requisitos para emitir la convocatoria y los demás términos y condiciones relativas a las sesiones de la Junta.
 
@@ -299,9 +313,11 @@ El Reglamento Interior debe determinar los requisitos para emitir la convocatori
 
 Los cargos de la Junta Directiva son honoríficos y por su desempeño no se percibe retribución o compensación alguna.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 21.
 
-Para garantizar el cumplimiento de sus objetivos y ejercicio de sus atribuciones, el Presidente o el Secretario Técnico del Consejo Directivo, en los casos en que lo consideren necesario, pueden invitar a las sesiones de la misma, a representantes de las diversas dependencias y organismos descentralizados de Gobierno del Estado y de los municipios; asimismo, a los representantes de las dependencias federales con representación en la Entidad.
+Para garantizar el cumplimiento de sus objetivos y ejercicio de sus atribuciones, el Presidente o la Secretaria Técnica de la Junta Directiva, en los casos en que lo consideren necesario, pueden invitar a las sesiones de la misma, a representantes de las diversas dependencias y organismos descentralizados de Gobierno del Estado y de los municipios; asimismo, a los representantes de las dependencias federales con representación en la Entidad.
 
 ### CAPITULO VI. De la Dirección General y Organos de Operación
 
@@ -311,9 +327,23 @@ Son requisitos para ser titular de la Dirección del Instituto:
 
 I. Ser del sexo femenino;
 
-II. De nacionalidad mexicana, preferentemente ciudadana del Estado, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
-III. Encontrarse en pleno goce y ejercicio de sus derechos civiles y políticos.
+II. De nacionalidad mexicana, y ciudadana del Estado;
+
+III. Encontrarse en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Haber desempeñado cargos de nivel directivo, cuyo ejercicio requiera conocimiento y experiencia en materia administrativa, y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+V. Ser una persona reconocida por su labor en la defensa de los derechos de las mujeres, así como contar con experiencia en actividades relacionadas con la promoción de la igualdad de género.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 22 bis. La Directora General del Instituto durará en su encargo tres años a partir de su nombramiento; pudiendo ser ratificada por la Junta Directiva por un período más, con el propósito de dar continuidad a los planes en favor de la equidad.
 
 ###### ARTICULO 23.
 
@@ -337,7 +367,9 @@ VIII. Establecer los mecanismos de evaluación que destaquen la eficiencia y la 
 
 IX. Dirigir el desarrollo de las actividades técnicas y administrativas del Instituto y dictar los acuerdos tendientes a dicho fin;
 
-X. Promover y suscribir convenios, en las condiciones que autorice la Junta Directiva, con las dependencias de la administración pública, federal, estatal y municipal, con los sectores social y privado, instituciones de educación superior públicas y privadas, y con los organismos nacionales que se requiera, siempre y cuando la suscripción de estos convenios no sean facultad exclusiva del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+X. Promover y suscribir convenios, en las condiciones que autorice la Junta Directiva, con las dependencias de la administración pública federal, estatal y municipal, con los sectores social y privado, instituciones de educación superior públicas y privadas, y con los organismos nacionales e internacionales que se requiera, siempre y cuando la suscripción de estos convenios no sean facultad exclusiva del Gobernador del Estado;
 
 XI. Suscribir los contratos que regulen las relaciones laborales del Instituto con sus trabajadores;
 
@@ -357,11 +389,15 @@ XVII. Las demás que le asigne este ordenamiento, la Junta Directiva y otras dis
 
 Los responsables de cada área de operación del Instituto tienen las siguientes atribuciones:
 
-I. Auxiliar dentro del ámbito de su competencia al Director General en el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+I. Auxiliar dentro del ámbito de su competencia a la Directora General en el ejercicio de sus funciones;
 
 II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del área a su cargo;
 
-III. Ejecutar las tareas que le asigne el Director General en lo referente a su área, e informar oportunamente sobre su desarrollo;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+III. Ejecutar las tareas que le asigne la Directora General en lo referente a su área, e informar oportunamente sobre su desarrollo;
 
 IV. Someter a la Dirección General los proyectos que se elaboren en el área a su cargo;
 
@@ -371,11 +407,15 @@ VI. Presentar los programas y proyectos de presupuesto correspondientes a su ár
 
 VII. Proponer las medidas necesarias para el mejoramiento administrativo del área a su cargo;
 
-VIII. Proporcionar previa autorización del Director General, la información que sea requerida por las dependencias de gobierno estatal o federal, o por las unidades administrativas del propio Instituto;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+VIII. Proporcionar, previa autorización de la Directora General, la información que sea requerida por las dependencias de gobierno estatal o federal, o por las unidades administrativas del propio Instituto;
 
 IX. Coordinar sus actividades con las demás áreas, procurando con ello un mejor funcionamiento del Instituto;
 
-X. Emitir opiniones e informes que le sean solicitados por el Director General, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+X. Emitir opiniones e informes que le sean solicitados por la Directora General, y
 
 XI. Desempeñar las demás funciones que establezca el Reglamento Interno del Instituto.
 
@@ -385,9 +425,11 @@ XI. Desempeñar las demás funciones que establezca el Reglamento Interno del In
 
 El Instituto cuenta con un Consejo Consultivo que funciona como órgano asesor en materia de equidad entre mujeres y hombres, y como promotor de las acciones del Instituto.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 26.
 
-El Consejo Consultivo se conforma por siete ciudadanos o ciudadanas, con conocimientos y experiencia en las diversas materias de atención del Instituto, que representen a los diferentes sectores de la sociedad; y son nombrados por la Junta Directiva conforme a la convocatoria que al efecto se expida, en términos del Reglamento Interior del Instituto.
+El Consejo Consultivo se conforma por el número de ciudadanos o ciudadanas que determine la Junta Directiva, no pudiendo conformarse por menos de siete miembros con conocimientos y experiencia en las diversas materias de atención del Instituto, que representen a los diferentes sectores de la sociedad; y son nombrados por la Junta Directiva conforme a la convocatoria que al efecto se expida, en términos del Reglamento Interior del Instituto.
 
 ###### ARTICULO 27.
 
@@ -401,7 +443,9 @@ Los integrantes del Consejo Consultivo desempeñan su encargo por dos años a pa
 
 Son funciones del Consejo Consultivo:
 
-I. Asesorar a la Junta Directiva y al Director del Instituto, en la formulación de políticas, planes y programas que les competen de conformidad con la presente Ley;
+> <small>(REFORMADA P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+I. Asesorar a la Junta Directiva y a la Directora del Instituto, en la formulación de políticas, planes y programas que les competen de conformidad con la presente Ley;
 
 II. Proponer medidas para impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
 
@@ -411,7 +455,9 @@ IV. Dar seguimiento a las políticas, programas, proyectos y acciones que empren
 
 V. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto, y
 
-VI. Atender las solicitudes de consulta o asesoría que le formulen la Junta Directiva o el Director del Instituto, relacionadas con la naturaleza de sus funciones.
+> <small>(REFORMADA P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Atender las solicitudes de consulta o asesoría que le formulen la Junta Directiva o la Directora del Instituto, relacionadas con la naturaleza de sus funciones.
 
 ### CAPITULO VIII. Del Consejo Social
 
@@ -445,7 +491,9 @@ II. Los derechos y bienes muebles e inmuebles que destine el Gobernador del Esta
 
 III. Las aportaciones que hagan en su favor los gobiernos federal, estatal y municipal;
 
-IV. Las aportaciones, legados, donaciones y demás recursos que reciba de las personas de los sectores social y privado, de personas físicas o morales y organismos de cooperación nacionales, conforme a la ley;
+> <small>(REFORMADA P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Las aportaciones, legados, donaciones y demás recursos que reciba de las personas, de los sectores social y privado, de personas físicas o morales, y organismos de cooperación nacionales e internacionales, conforme a la ley;
 
 V. Los rendimientos, recuperaciones, frutos y demás ingresos que le generen sus bienes, operaciones, actividades, servicios o eventos que realice, y
 
@@ -502,3 +550,9 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2003.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
