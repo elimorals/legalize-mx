@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-gasto-publico-del-estado-de-3514"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-13"
-last_updated: "1997-03-24"
+last_updated: "1999-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CONTROL PRESUPUESTAL Y GASTO PUBLICO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de marzo de 1992.
 
@@ -282,6 +282,10 @@ A toda proposición de aumento o creación de partidas al proyecto de presupuest
 ###### ARTICULO 24.
 
 Los proyectos de Leyes de Ingresos y de Presupuesto de Egresos del Estado, deberán ser presentados oportunamente al Gobernador por la Secretaría, a fin de poder ser enviados al Congreso a más tardar en el mes de diciembre del año inmediato anterior al que correspondan.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1999)</small>
+
+Si al finalizar un ejercicio fiscal el Congreso, por la causa que fuere, no ha expedido la Ley de Ingresos o la de Presupuesto de Egresos correspondiente al siguiente ejercicio, continuará vigente la ley que rigió el ejercicio fiscal concluido, hasta en tanto quede aprobada la nueva ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -696,3 +700,9 @@ P.O. 24 DE MARZO DE 1997.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE OCTUBRE DE 1999.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Campeche.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
