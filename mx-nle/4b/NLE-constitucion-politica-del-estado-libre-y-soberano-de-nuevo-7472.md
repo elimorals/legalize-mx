@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1984-12-14"
+last_updated: "1984-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -401,7 +401,9 @@ XXII.- Aprobar, en su caso, los nombramientos que haga el Gobernador del Estado 
 
 XXIII.- Nombrar al Secretario de Finanzas y Tesorero General del Estado, a propuesta en terna del Ejecutivo.
 
-XXIV.- Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir fuera del Estado, y designar a la persona que deba suplirle interinamente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+XXXIV.- Expedir su Ley Orgánica y tomar las providencias para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes.
 
 XXV.- Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda dar al Estado para el Ejército de la Nación.
 
@@ -1771,7 +1773,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -1801,7 +1803,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -1878,3 +1880,9 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE DICIEMBRE DE 1984.
 
 UNICO:- ESTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 28 DE DICIEMBRE DE 1984.
+
+PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
