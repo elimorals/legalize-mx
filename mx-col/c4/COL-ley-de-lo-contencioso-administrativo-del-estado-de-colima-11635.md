@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-11635
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-28"
-last_updated: "1996-09-28"
+last_updated: "2000-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2000.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de septiembre de 1996.
 
@@ -159,13 +159,19 @@ Podrán intervenir en el juicio, las personas que tengan un interés legítimo q
 
 Las partes podrán autorizar para oír notificaciones en su nombre a un licenciado en derecho debidamente acreditado, quien estará facultado para interponer recursos, ofrecer y rendir pruebas, formular alegatos y, en general, promover cualquier acto necesario para la defensa del autorizante.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 15.
 
-Los servidores públicos del Poder Ejecutivo y de los Municipios, así como los Titulares de los organismos descentralizados que figuren como partes en el procedimiento contencioso administrativo, podrán acreditar representantes, quienes tendrán facultades para recibir notificaciones, interponer recursos, ofrecer y rendir pruebas, formular alegatos, y hacer todo tipo de promociones.
+Los servidores públicos del Poder Ejecutivo y de los Municipios, así como los Titulares de los Organismos Descentralizados que figuren como partes en el procedimiento contencioso administrativo, podrán acreditar como representantes a licenciados o pasantes en derecho, quienes tendrán facultades para recibir notificaciones, interponer recursos, ofrecer y rendir pruebas, formular alegatos y hacer todo tipo de promociones.
 
 ###### ARTICULO 16.
 
 La personalidad y legitimación de las partes será analizada de oficio por el Tribunal, aun cuando no haya sido cuestionada.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+Tratándose de servidores públicos no será necesario que acrediten su personalidad en cada expediente, bastará con el reconocimiento e inscripción que se haga en el libro correspondiente desde el primer juicio en que intervengan.
 
 ### CAPITULO IV. DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
@@ -177,7 +183,9 @@ Las resoluciones serán notificadas a más tardar al día siguiente de que se pr
 
 Los particulares, en el primer escrito o diligencia en la que comparezcan, deberán señalar domicilio para recibir notificaciones en el lugar donde resida el Tribunal y comunicar, en su caso, el cambio del mismo. De no hacerlo así, le serán hechas por lista, aún las de carácter personal.
 
-En tanto no se haga nueva designación de domicilio para recibir notificaciones, éstas se seguirán practicando en el domicilio originalmente señalado; cuando éste no exista o se encuentre desocupado, la resolución o acuerdo se notificará por lista.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+En tanto no se haga una nueva designación de domicilio para recibir notificaciones, éstas se seguirán practicando en el domicilio originalmente señalado. Cuando éste no exista o se encuentre desocupado, la resolución o acuerdo se notificará por lista, previa constancia que levante el actuario.
 
 ###### ARTICULO 19.
 
@@ -211,7 +219,19 @@ i).- Las que resuelvan sobre la aclaración de sentencia; y
 
 j).- En cualquier caso urgente o importante, si así lo considera el Tribunal.
 
-III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán directamente en el Tribunal a los particulares, si se presentan dentro de las 24 horas siguientes al en que se haya dictado la resolución, y si no se presentaren con oportunidad, por lista autorizada que se fijará en los estrados.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2000)</small>
+
+III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán directamente en el Tribunal a los particulares, si se presentan dentro de las 24 horas siguientes al en que se haya dictado la resolución y si no se presentaren con oportunidad, por lista autorizada que se fijará en los Estados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2000)</small>
+
+IV.- Por edictos, en el caso de que se ignore el domicilio de un particular, así como cuando la persona a quien se deba notificar hubiere fallecido y se desconozca quien es el representante de la sucesión. En estos casos, los gastos que se origen correrán a cargo del promovente que haya señalado a la persona a quien tenga que hacerse la notificación.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+###### ARTICULO 20
+
+Bis.- En el caso de las notificaciones personales señaladas por la fracción II del artículo anterior, de no encontrar el notificador a quien deba hacerse la notificación, le dejará citatorio para hora fija dentro de las 24 horas siguientes, si aún así no se encontrare, le dejará cédula en la que hará constar: la fecha y hora en que se entregue, el Tribunal que manda practicar la diligencia, la síntesis de la determinación que se manda notificar y el nombre y apellido de la persona a quien se le deja. En caso de que se negare a recibirla, se fijará en la puerta del domicilio señalado, dejándose constancia de lo anterior en el expediente.
 
 ###### ARTICULO 21.
 
@@ -243,9 +263,15 @@ Las notificaciones que no fueren hechas en la forma que establecen las disposici
 
 ### CAPITULO V. DE LA DEMANDA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 26.
 
-La demanda deberá formularse por escrito y presentarse directamente ante el Tribunal, dentro de los 15 días, contados a partir de la fecha en que el afectado tenga conocimiento o se le haya notificado el acto o resolución impugnados.
+La demanda deberá de formularse por escrito y presentarse directamente ante el Tribunal, dentro de los 15 días, contados a partir del día siguiente al en que el afectado tenga conocimiento o se haya notificado del acto o resolución impugnados.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2000)</small>
+
+Una vez transcurrido el término de 60 días para que opere la negativa ficta, el particular dentro de los 15 días siguientes deberá ejercitar su acción.
 
 Si el particular reside fuera de la entidad y no tiene representante en el Estado, o fallece durante el plazo a que se refiere el párrafo anterior, el término para la presentación de la demanda será de 45 días, siguientes a la notificación o al en que tenga conocimiento del acto reclamado.
 
@@ -275,9 +301,17 @@ d).- El nombre y domicilio del demandado y del tercero perjudicado, si lo hubier
 
 e).- Los hechos en que se apoye la demanda y los agravios que le cause el acto o resolución impugnado;
 
-f).- La firma del actor. Si este no supiere o no pudiere firmar, lo hará un tercero a su ruego, poniendo el primero la huella digital; y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2000)</small>
 
-g).- El documento con el cual acredite su personalidad, cuando promueva a nombre o en representación de un tercero.
+f).- La firma del actor. Si este no supiere o no pudiere firmar, lo hará un tercero a su ruego, poniendo el primero la huella digital;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+g).- El documento con el cual acredite su personalidad, cuando promueva a nombre o en representación de un tercero; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2000)</small>
+
+h).- El ofrecimiento de pruebas, anexando las documentales que se ofrezcan.
 
 El actor deberá acompañar una copia de la demanda, así como de todos los documentos anexos a ella, para cada una de las partes.
 
@@ -311,9 +345,17 @@ I.- Las causales de improcedencia, así como los incidentes de previo y especial
 
 II.- Las consideraciones que a su juicio demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda;
 
-III.- Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos o negándolos; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2000)</small>
 
-IV.- Los motivos y fundamentos con los que se demuestre la ineficacia de los agravios.
+III.- Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos o negándolos;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2000)</small>
+
+IV.- Los motivos y fundamentos con los que se demuestre la ineficacia de los agravios; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2000)</small>
+
+V.- Acompañar las pruebas documentales que ofrezca.
 
 A la contestación deberá acompañarse copia de la misma y de todos los documentos anexos, para cada una de las partes. Cuando no se adjunten las copias de referencia, el Tribunal las requerirá mediante notificación personal para que las presenten dentro de un plazo de 3 días, apercibiéndolos que de no hacerlo en tiempo se tendrá por no contestada la demanda o, en su caso, por no ofrecidas las pruebas documentales.
 
@@ -345,9 +387,23 @@ La suspensión podrá solicitarla el actor en cualquier tiempo, mientras no se d
 
 No se concederá la suspensión si se causa evidente perjuicio al interés social, se contravienen disposiciones de orden público o se deja sin materia el juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 38.
 
-Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia, entre tanto se pronuncie la resolución que corresponda, el Tribunal podrá dictar las medidas que estime pertinentes para preservar el medio de subsistencia del quejoso, siempre que no se lesionen derechos de terceros.
+Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia, en tanto se pronuncia la resolución que corresponda, el Tribunal podrá dictar las medidas que estime pertinentes para preservar el medio de subsistencia del quejoso, siempre que no se lesionen derechos de terceros.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+Para ello el actor debe de promover incidente de restitución, con el cual se dará vista a las partes para que dentro del término de 48 horas manifiesten lo que a su derecho convenga, debiéndose en su caso, celebrar audiencia incidental en un plazo que no exceda de 10 días contados a partir de que venza el plazo concedido a las partes para que se manifiesten. Una vez celebrada la audiencia el Tribunal dictará la resolución correspondiente dentro de las 24 horas siguientes.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+Se podrá conceder restitución al actor, sin tramitación de incidente, en los casos de que se trate de servicios públicos de primera necesidad o cuando se ponga en peligro la salud o integridad física del promovente o de su familia, sin que por esto quede sin materia el juicio.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+El Tribunal tratándose de esta restitución podrá suplir la deficiencia de la solicitud.
 
 La suspensión estará vigente durante la tramitación del procedimiento contencioso administrativo, no obstante podrá ser revocada por el Tribunal, en cualquier momento del juicio, si varían las condiciones por las cuales se otorgó.
 
@@ -371,9 +427,11 @@ Para que surta efectos la caución que exhiba el tercero, conforme al párrafo a
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los 30 días siguientes al en que surta efectos la notificación de la sentencia. El Tribunal dará vista a las partes por un término de 5 días, vencido el cual, pronunciará la resolución que corresponda.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 43.
 
-En contra de los autos que concedan o nieguen la suspensión, fijen fianzas o contrafianzas, procederá el recurso de reclamación.
+En contra de los autos que concedan o nieguen la suspensión o la restitución, fijen fianzas o contrafianzas, procederá el recurso de reclamación, pero la interposición de éste, no interrumpirá el plazo para el cumplimiento de lo concedido, solo la resolución podrá modificar en su caso, la orden dictada.
 
 ### CAPITULO VIII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
@@ -431,9 +489,17 @@ Sólo serán de previo y especial pronunciamiento los siguientes incidentes:
 
 I.- El de acumulación de autos;
 
-II.- El de nulidad de notificaciones; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2000)</small>
 
-III.- El de interrupción por causa de muerte y disolución en el caso de personas morales.
+II.- El de nulidad de notificaciones;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2000)</small>
+
+III.- El de interrupción por causa de muerte o disolución en el caso de personas morales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2000)</small>
+
+IV.- El de falta de personalidad.
 
 ###### ARTICULO 47.
 
@@ -487,9 +553,17 @@ El procedimiento se reanudará cuando se apersone a juicio el representante de l
 
 En los juicios que se tramiten ante el Tribunal, se admitirán toda clase de pruebas, excepto la confesional mediante la absolución de posiciones, las que no tengan relación con los hechos controvertidos y las que fueren contrarias a la moral y al derecho.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 56.
 
-Las pruebas deberán ofrecerse en los escritos de demanda, contestación y, en su caso, en los de ampliación a los mismos.
+Las pruebas deberán ofrecerse en los escritos de demanda, o contestación; las documentales se acompañarán invariablemente a ellos y en su caso, a los de ampliación de los mismos.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2000)</small>
+
+###### ARTICULO 56
+
+Bis.- Dentro del término de 5 días contados a partir del siguiente, al en que se tengan por ofrecidas las pruebas, el Tribunal dictará una resolución admitiéndolas o desechándolas. En contra de esta resolución, procederá el recurso de reclamación.
 
 ###### ARTICULO 57.
 
@@ -912,3 +986,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los doce días del mes de septiembre de mil novecientos noventa y seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
