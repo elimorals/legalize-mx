@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1994-05-10"
+last_updated: "1994-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1994.
 
 Constitución Publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -859,7 +859,9 @@ III.- No haber cometido delito grave intencional alguno;
 
 IV.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administración Pública del Estado.
 
-El Secretario de Gobierno deberá, además, ser ciudadano chiapaneco y tener el título de Licenciado en Derecho.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1994)</small>
+
+El Secretario de Gobierno deberá, además, ser ciudadano chiapaneco.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1659,9 +1661,9 @@ El Territorio del Estado de Chiapas es el que posee desde que forma parte de la 
 
 Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
-Acacoyagua, Acala, Acapetahua, Altamirano, Amatan, Amatenango de la Frontera, Amatenango del Valle, Angel Ibino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Berriozabal, Bochil, Cacahoatan, Catazaja, Cintalala, Coapilla, Comitan de Dominguez, Copainala, Chalchihuitan, Chamula, Chanal, Chapultenango, Chenalho, Chiapa de Corzo, Chiapilla, Chicoasen, Chicomuselo, Chilon, El Bosque, El Porvenir, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Guadalupe Tepeyac, Huehuetan, Huitiupan, Huixtan, Huixtla, Ixhuatan, Ixtacomitan, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juarez, Lacandonia, La Concordia, La Grandeza, La Independencia, La Libertad, Las Margaritas, Larrainzar, Las Rosas, La Trinitaria, Mapastepec, Marques de Comilla, Mazapa de Madero, Mazatan, Metapa, Mitontic, Motozintla, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelho, Pantepec, Pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacan, Rayon, Reforma, Sabanilla, Salto de Agua, San Cristobal de las Casas, San Fernando, San Lucas, San Juan Cancuc, Siltepec, Simojovel, Sitala, Socoltenango, Solosuchiapa, Soyalo, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatan, Tenejapa, Teopisca, Tila, Tonala, Totolapa, Tumbala, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantan, Tzimol, Unión Juárez, Venustiano Carranza, Villaflores, Villa Comaltitlan, Villa Corzo, Yajalón y Zinacantán.
+Acacoyagua, acala, Acapetahua, Altamirano, Amatan, Amatenango de la frontera, amatenango del valle, Angel lbino corzo, Arriaga, bejucal de ocampo, bella vista, berriozabal, bochil, Cacahoatan, catazaja, cintalala, coapilla, Comitan de Dominguez, Copainala, chalchihuitan, Chamula, Chanal, Chapultenango, Chenalho, Chiapa de Corzo, Chiapilla, Chicoasen, Chicomuselo, Chilon, el bosque, el porvenir, escuintla, francisco leon, frontera Comalapa, Frontera hidalgo, huehuetan, huitiupan, huixtan, huixtla, Ixhuatan, ixtacomitan, ixtapa, ixtapangajoya, jiquipilas, jitotol, Juarez, la concordia, la grandeza, la independencia, la libertad, las Margaritas, larrainzar, las rosas, la trinitaria, mapastepec, Mazapa de Madero, mazatan, metapa, mitontic, motozintla, Nicolas ruiz, Ocosingo, ocotepec, ocozocoautla de espinosa, Ostuacan, Osumacinta, oxchuc, palenque, pantelho, pantepec, pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacan, rayon, reforma, sabanilla, salto de agua, san cristobal de las casas, san fernando, san lucas, san juan cancuc, siltepec, Simojovel, Sitala, Socoltenango, Solosuchiapa, soyalo, suchiapa, suchiate, sunuapa, tapachula, tapalapa, tapilula, tecpatan, tenejapa, teopisca, tila, tonala, totolapa, Tumbala, tuxtla gutierrez, tuxtla chico, tuzantan, tzimol, Union Juarez, Venustiano Carranza, Villaflores, Villa Comaltitlan, Villa Corzo, Yajalon y Zinacantan.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -2116,3 +2118,9 @@ El presente decreto de reformas y adiciones a la Constitución Política del Est
 ###### ARTICULO SEGUNDO.
 
 El nombramiento de magistrados a que se refiere el Artículo 19 de la Constitución Política Local, por esta única ocasión deberá realizarse en el mes de mayo de 1994.
+
+P.O. 23 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto de reforma a la Constitución Política del Estado de Chiapas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
