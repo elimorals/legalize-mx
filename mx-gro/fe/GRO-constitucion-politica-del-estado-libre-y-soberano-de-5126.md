@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1982-04-02"
+last_updated: "1983-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1983.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -375,27 +375,19 @@ Se declara Ciudad Capital del Estado de Guerrero, y por tanto, asiento de los Po
 
 El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CONGRESO DEL ESTADO", el cual deberá de renovarse totalmente cada tres años.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 29.
 
-Por cada distrito electoral, habrá un diputado propietario y un suplente. La elección se hará por sufragio directo, secreto e individual, y el Congreso se complementará además con diputados de minoría, apegándose en todos los casos a lo que disponga la Ley Electoral del Estado y para estos últimos las reglas siguientes:
+La Cámara de Diputados se compondrá por 14 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales y hasta por 4 diputados de minoría que serán asignados en los términos y condiciones que establezca la Ley Orgánica del Estado; en la inteligencia de que sólo tendrán derecho a diputaciones de minoría los partidos políticos que no hubieren obtenido el triunfo por mayoría relativa en mas de un Distrito Electoral.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
+Los diputados de mayoría y los de minoría, tendrán la misma categoría legal e iguales derechos y obligaciones.
 
-I.- Todo partido político nacional debidamente registrado ante la Comisión Federal Electoral y ante la Secretaría de Gobierno, cuando menos un año antes de la elección, si obtiene el dos punto cinco de la votación general del Estado, tendrá derecho a que se le acredite entre sus candidatos un diputado de minoría.
-
-II.- Cuando un partido nacional obtenga la mayoría de votos en un distrito, sólo tendrá derecho, en su caso, a que se le acredite un diputado de minoría y si gana las elecciones en los distritos, no se le acreditarán sino los de mayoría.
-
-III.- Los diputados de minoría serán acreditados por las Juntas Preparatorias por riguroso orden, de acuerdo con el número decreciente que hayan logrado en relación con los demás candidatos del mismo partido, en todo el Estado.
-
-IV.- Los diputados de mayoría y los de minoría tendrán la misma categoría legal e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 30.
 
-Se tendrá por electo como diputado al ciudadano que haya obtenido la mayoría de votos emitidos en el distrito por el que fue registrado y declarado así por las Juntas Preparatorias y los que hayan sido acreditados como diputados de minoría.
+Se tendrá como Diputado Electo al ciudadano que hubiere obtenido la mayoría de votos en el Distrito por el que fue registrado como candidato y al que se le hubiere asignado una diputación de minoría, una vez que sean aprobados sus casos y declarado así por el Colegio Electoral en los términos del ordenamiento legal correspondiente.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
 
@@ -445,13 +437,11 @@ II.- Tener veintiún años de edad cumplidos el día de la elección.
 
 III.- Ser originario del Distrito que lo elija o vecino de él, con residencia no menor de tres años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 36.
 
-No pueden ser electos diputados:
-
-Los funcionarios federales, los miembros del Ejército y la Armada Nacionales, de las fuerzas Publicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, los funcionarios que señala la Ley Orgánica del Poder Ejecutivo y los Presidentes Municipales a menos que se separen definitivamente noventa días antes de la elección; y en general todas las demás personas impedidas por las leyes.
+No pueden ser electos diputados: los funcionarios federales, los miembros en servicio activo del Ejército y la Armada Nacionales y de las fuerzas públicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia; los demás funcionarios que señala la Ley Orgánica del Poder Ejecutivo y los Presidentes Municipales, a menos que se separen definitivamente de sus cargos sesenta días antes de la elección; y en general, todas las demás personas impedidas por las leyes.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -467,11 +457,11 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 38.
 
-Los presuntos diputados que hayan obtenido constancia de mayoría de votos de la Junta Computadora respectiva se reunirán en la Capital del Estado, en el mes de febrero del año de renovación del Congreso para celebrar una junta previa y las juntas preparatorias que sean necesarias constituidas en Colegio Electoral para calificar las elecciones, primero en diputados de mayoría y después en diputados de minoría, conforme al procedimiento que para el efecto establecen la Ley Orgánica del Poder Legislativo y la Ley Electoral del Estado.
+Constituidos en Colegio Electoral, los presuntos diputados que hubieren obtenido constancias de mayoría otorgadas por el Comité Distrital Electoral correspondiente, debidamente registradas por la Comisión Electoral, o de ésta las constancias de asignación en el caso de diputados de minoría se reunirán en la Capital del Estado, en el mes de febrero del año siguiente al de la elección, para calificar las elecciones de diputados de mayoría y la asignación de los de minoría, conforme al procedimiento que al efecto se establezca en la Ley Electoral del Estado y la Ley Orgánica del Poder Legislativo y su reglamento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
@@ -603,7 +593,9 @@ XVIII.- Examinar, discutir y aprobar en su caso anualmente a iniciativa del Jefe
 
 XIX.- Revisar en el primer período ordinario de sesiones, las erogaciones e inversión de los ingresos públicos del año fiscal anterior, otorgando constancia definitiva de aprobación en su caso o exigiendo las responsabilidades correspondientes.
 
-XX.- Convocar a elecciones de aquellos miembros del Congreso que hubiesen dejado de hacerse o hubieren sido declaradas nulas por las Juntas Preparatorias, proveyendo las disposiciones necesarias.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1983)</small>
+
+XX.- Convocar a elecciones extraordinarias para diputados o para otros cargos de elección popular cuando no se hubieren realizado en el período correspondiente o hubieren sido declaradas nulas las efectuadas, y proveer lo conducente.
 
 XXI.- Erigirse en Colegio Electoral con el objeto de calificar las elecciones de Gobernador, declarando electo a quien haya obtenido la mayoría de sufragios.
 
@@ -613,7 +605,9 @@ Si el Congreso no resuelve dentro del término antes citado, se tendrán por apr
 
 XXIII.- Recibir de los diputados, del Gobernador electo y de los magistrados del Tribunal Superior de Justicia, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen.
 
-XXIV.- Resolver sobre la validez o nulidad de las elecciones de ayuntamientos cuando haya duda acerca de ellas previo informe del Ejecutivo.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1983)</small>
+
+XXIV.- Calificar las elecciones de los integrantes de los Ayuntamientos y la asignación de Regidores de representación proporcional efectuada por los Comités Municipales Electorales.
 
 XXV.- Aprobar en su caso, la suspensión de los ayuntamientos o de alguno de sus miembros solicitada por el Ejecutivo del Estado. Si a juicio del Congreso pudiere existir la comisión de un delito formulará la denuncia respectiva ante el Procurador de Justicia.
 
@@ -797,9 +791,9 @@ II.- Tener treinta años cumplidos al tiempo de ser electo.
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1982)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1983)</small>
 
-IV.- No ser funcionario federal, militar en servicio activo, Magistrado del Tribunal Superior de Justicia, Presidente Municipal y no desempeñar cargo alguno de los que se estipulan en la Ley Orgánica del Poder Ejecutivo a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+IV.- No ser funcionario federal, militar o miembro de la Armada en servicio activo, Magistrado del Tribunal Superior de Justicia, Presidente Municipal y no desempeñar cargo alguno de los que se señalan en la Ley Orgánica del Poder Ejecutivo, a menos que se hubiere separado definitivamente del cargo sesenta días antes de la elección o, a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1211,21 +1205,23 @@ Cada municipio será administrado por un ayuntamiento que constituye el órgano 
 
 Los ayuntamientos son cuerpos colegiados deliberantes y autónomos, que entrarán a realizar sus atribuciones por elección popular directa para un período de tres años. Por cada miembro propietario se elegirá un suplente y no podrán ser electos para el período inmediato incluyendo a los suplentes cuando hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 98.
 
-Los municipios estarán administrados por ayuntamientos integrados en a (sic) siguiente forma:
+Los Ayuntamientos se integrarán de la manera siguiente:
 
-I.- Por un Presidente Municipal, un Síndico Procurador y un Regidor, cuando su población no exceda de quince mil habitantes:
+I.- Un Presidente, un Síndico Procurador y dos Regidores, electos según el principio de mayoría relativa y hasta un Regidor más conforme al principio de representación proporcional, en los Municipios cuya población no exceda de 10,000 habitantes.
 
-II.- Por un Presidente Municipal, un Síndico Procurador y tres Regidores cuando su población no exceda de sesenta mil habitantes, y
+II.- Un Presidente, un Síndico Procurador y tres Regidores, electos según el principio de mayoría relativa y hasta un Regidor más, conforme al principio de representación proporcional, en los Municipios cuya población sea de 10,001 hasta 70,000 habitantes.
 
-III.- Por un Presidente Municipal, un Síndico Procurador y cinco Regidores, cuando su población exceda del número a que alude la fracción que antecede.
+III.- Un Presidente, un Síndico Procurador y cinco Regidores, electos según el principio de mayoría relativa y hasta dos Regidores más, conforme al principio de representación proporcional, en los Municipios cuya población sea de 70,001 hasta 200,000 habitantes.
 
-IV.- En aquéllos Municipios cuya población exceda de los 300 mil habitantes habrá además un Regidor de representación popular, cuya elección se hará de acuerdo a la Ley Electoral del Estado.
+IV.- Un Presidente, un Síndico Procurador y siete Regidores, electos según el principio de mayoría relativa y hasta tres Regidores más, conforme al principio de representación proporcional, en los Municipios cuya población sea de 200,001 o más habitantes.
 
-Los Ayuntamientos tendrán las atribuciones que les señale la Ley Orgánica del Municipio Libre.
+Por cada miembro del Ayuntamiento se elegirá un suplente.
+
+Las elecciones se harán en los términos que señala la Ley Electoral del Estado, la que deberá establecer el porcentaje mínimo de votos necesarios para la asignación de los Regidores de representación proporcional.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1243,7 +1239,7 @@ IV.- No haber sido sentenciado ni estar procesado por delito que merezca pena co
 
 V.- No ser ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1983)</small>
 
 ### CAPITULO UNICO.
 
@@ -1253,7 +1249,7 @@ DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
 
 ###### ARTICULO 100.
 
-No pueden ser electos como miembros de los ayuntamientos: los militares en servicio activo, los individuos de las fuerzas de defensa social y los funcionarios del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, noventa días antes de la elección. Tampoco pueden serlo en ninguna forma los ministros de algún culto religioso.
+No pueden ser electos como miembros de los Ayuntamientos los miembros en servicio activo del Ejército y la Armada Nacionales, y de las fuerzas públicas del Estado, y los funcionarios del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, sesenta días antes de la elección.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -2284,3 +2280,9 @@ SEGUNDO.- Estas reformas entrarán en vigor el día siguiente de su publicación
 P.O. 2 DE ABRIL DE 1982.
 
 UNICO.- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado de acuerdo con lo ordenado por el Artículo 125 Fracción III de la Constitución Política, éstas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE AGOSTO DE 1983.
+
+PRIMERO.- PROCÉDASE EN LOS TÉRMINOS DEL ARTÍCULO 125 FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+SEGUNDO.- ESTAS REFORMAS SURTIRÁN SUS EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
