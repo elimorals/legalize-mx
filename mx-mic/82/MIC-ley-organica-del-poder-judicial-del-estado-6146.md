@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1995-10-09"
+last_updated: "2000-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -41,7 +41,7 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
 ## TITULO PRIMERO. ADMINISTRACION DE JUSTICIA EN GENERAL
 
-ORGANOS. AUXILIARES
+ORGANOS AUXILIARES
 
 ### CAPITULO I. ADMINISTRACION DE JUSTICIA EN GENERAL
 
@@ -99,27 +99,27 @@ Los auxiliares a que se refiere este artículo estarán obligados a desempeñar 
 
 ### CAPITULO I. INTEGRACION
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 5o.
 
-El Supremo Tribunal de Justicia estará integrado por dieciséis magistrados propietarios y el mismo número de supernumerarios. De los propietarios, uno será Presidente y los demás formarán Salas Unitarias, designadas por número ordinal y conforme a la materia que les corresponda conocer.
+El Supremo Tribunal de Justicia se integra por diecisiete magistrados propietarios y el mismo número de supernumerarios. De los propietarios, uno será Presidente y los demás formarán Salas Unitarias, designadas por número ordinal y conforme a la materia que les corresponda conocer.
 
 ### CAPITULO II. TRIBUNAL PLENO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 6o.
 
-El Supremo Tribunal funcionará en pleno con los dieciséis magistrados propietarios que lo integran, pero bastará la presencia de once para que pueda funcionar.
+El Supremo Tribunal de Justicia funcionará en Pleno con los diecisiete magistrados propietarios que lo integran, pero bastará la presencia de once para que pueda sesionar.
 
 Los magistrados supernumerarios serán llamados para que integren el Pleno, en los casos y en la forma señalados por la Constitución Política del Estado y por esta Ley.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 7o.
 
-Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo pidan por lo menos siete de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen ocurrido a ella, y el secretario.
+Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal de Justicia, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo soliciten por lo menos siete de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen ocurrido a ella, y el secretario.
 
 Podrán celebrarse sesiones privadas cuando se dé alguno de los presupuestos de las extraordinarias.
 
@@ -237,11 +237,13 @@ VIII. Las resoluciones serán firmadas dentro del término de quince días por e
 
 El recurso de reclamación a que se refiere la fracción I del artículo 8o., se substanciará y resolverá conforme a la Ley Electoral del Estado. Las excitativas de justicia a que alude la fracción VIII del propio artículo 8º., se tramitarán y resolverán conforme al Título Octavo, Capítulo I, de la presente ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 11.
 
-Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluido el Presidente. Si el Pleno funciona con menos de dieciséis magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los substituyan.
+Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluido el Presidente. Si el Pleno funciona con menos de diecisiete magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los substituyan.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 Ningún magistrado podrá abstenerse de votar, sino cuando tenga impedimento legal o no haya estado presente durante la discusión del asunto.
 
@@ -327,11 +329,11 @@ En su informe anual de labores, el Presidente del Supremo Tribunal dará a conoc
 
 ### CAPITULO IV. SALAS DEL SUPREMO TRIBUNAL
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 18.
 
-El Supremo Tribunal de Justicia funcionará, con ocho salas civiles y siete penales.
+El Supremo Tribunal de Justicia funcionará, con ocho salas civiles y ocho penales.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
@@ -377,25 +379,35 @@ Si se trata del magistrado de la Octava Sala Civil, conocerá el de la Primera S
 
 (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 21.
 
-La Salas Penales Primeras, Segunda, Tercera, Cuarta, Quinta, Sexta y Séptima, conocerán por turno, conforme al orden en que se reciba cada expediente:
+La Salas Penales Primeras, Segunda, Tercera, Cuarta, Quinta, Sexta, Séptima y Octava, conocerán por turno, conforme al orden en que se reciba cada expediente:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 I. De los recursos de apelación y de queja contra las resoluciones que en asuntos penales dicten los jueces de primera instancia;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 II. Del recurso de revisión contra sentencias penales que hayan causado ejecutoria;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 III. De las cuestiones de competencia, acumulación, excusas y recusaciones con causa a que se refiere el Código Procesal Penal; y
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
+
 IV. De las quejas que por incumplimiento de exhortos en materia penal se formulen contra los jueces de primera instancia.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 22.
 
-Los ocho primeros magistrados supernumerarios conocerán de los asuntos de derecho civil, familiar y mercantil, en el orden de su designación, cuando todos los magistrados propietarios de las salas a que se refiere el artículo 19 de esta Ley, sean recusados o se encuentren impedidos, los otros siete magistrados supernumerarios conocerán, en el orden de su designación de los asuntos correspondientes a esta materia.
+Los ocho primeros magistrados supernumerarios conocerán de los asuntos de derecho civil, familiar y mercantil, en el orden de su designación, cuando todos los magistrados propietarios de las salas a que se refiere el artículo 19 de esta Ley, sean recusados o se encuentren impedidos. Si todos los magistrados de las salas penales, son recusados o se hallan impedidos, los otros ocho magistrados supernumerarios conocerán, en el orden de su designación de los asuntos correspondientes a esta materia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 El magistrado supernumerario designado en último término, sólo entrará en funciones cuando el presidente del Supremo Tribunal sea recusado o esté impedido para recusado o esté impedido para intervenir en los asuntos del Pleno, siempre que su presencia sea legalmente indispensable conforme a lo previsto por el artículo 11 de esta Ley.
 
@@ -1778,3 +1790,11 @@ P.O. 9 DE OCTUBRE DE 1995
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Por esta única vez, en este año en que se inicia período constitucional, la designación del Presidente del Supremo Tribunal de Justicia se hará a más tardar dentro de los ocho días posteriores al de la publicación del presente Decreto.
+
+P.O. 13 DE MARZO DE 2000.
+
+PRIMERO.- El presente Decreto, iniciará su vigencia el día siguiente hábil al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
+
+TERCERO.- El Supremo Tribunal de Justicia, dictará las reglas conforme a las cuales se distribuirán entre las ocho salas penales, los asuntos que obran en las siete ya existentes y/o los asuntos seguirán tramitándose y resolviéndose en las Salas a las que compete su conocimiento.
