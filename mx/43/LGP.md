@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1992-07-22"
+last_updated: "1996-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -210,9 +210,11 @@ Los tripulantes extranjeros de transportes aéreos, terrestres o marítimos, só
 
 Los pilotos de aerotransportes, capitanes de buques y conductores de autotransportes, deberán presentar a las autoridades de Migración, en el momento de efectuar la inspección de entrada o salida, lista de los pasajeros y tripulantes, así como todos los datos necesarios para su identificación.
 
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 25.
 
-No se autorizará el desembarco de extranjeros que no reúnan los requisitos fijados por esta Ley y su Reglamento, salvo lo dispuesto por el artículo 42 fracción IX, de esta Ley.
+No se autorizará el desembarco de extranjeros que no reúnan los requisitos fijados por esta Ley y su Reglamento, salvo lo dispuesto por el artículo 42, fracción X, de esta Ley.
 
 ###### ARTICULO 26.
 
@@ -274,9 +276,13 @@ III.- No lo permitan las cuotas a que se refiere el artículo 32 de esta Ley;
 
 IV.- Se estime lesivo para los intereses económicos de los nacionales;
 
-V.- Hayan observado mala conducta durante su estancia en el país o tengan malos antecedentes en el extranjero;
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
-VI.- Hayan infringido esta Ley o su Reglamento;
+V.- Hayan infringido las leyes nacionales o tengan malos antecedentes en el extranjero;
+
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+VI.- Hayan infringido esta Ley, su Reglamento u otras disposiciones administrativas aplicables en la materia, o no cumplan con los requisitos establecidos en los mismos;
 
 VII.- No se encuentren física o mentalmente sanos a juicio de la autoridad sanitaria; o
 
@@ -290,7 +296,9 @@ Es facultad de la Secretaría de Gobernación, suspender o prohibir la admisión
 
 Cuando los extranjeros contraigan matrimonio con mexicanos o tengan hijos nacidos en el país, la Secretaría de Gobernación podrá autorizar su internación o permanencia legal en el mismo.
 
-Si llegare a disolverse el vínculo matrimonial o dejare de cumplirse con las obligaciones que impone la legislación civil en materia de alimentos, se perderá la calidad migratoria que la Secretaría haya otorgado y se le señalará al interesado un plazo para que abandone el país, excepto si ha adquirido la calidad de inmigrado.
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+Si llegare a disolverse el vínculo matrimonial o dejare de cumplirse con las obligaciones que impone la legislación civil en materia de alimentos, por parte del cónyuge extranjero, podrá cancelársele su calidad migratoria y fijarle un plazo para que abandone el país -excepto si ha adquirido la calidad de inmigrado-, confirmar su permanencia, o bien autorizar una nueva calidad migratoria, a juicio de la Secretaría de Gobernación.
 
 ###### ARTICULO 40.
 
@@ -312,29 +320,41 @@ I.- TURISTA.- Con fines de recreo o salud, para actividades artísticas, cultura
 
 II.- TRANSMIGRANTE.- En tránsito hacia otro país y que podrá permanecer en territorio nacional hasta por treinta días.
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
-III.- VISITANTES.- Para dedicarse al ejercicio de alguna actividad lucrativa o no, siempre que sea lícita y honesta, con autorización para permanecer en el país hasta por un año. Cuando el extranjero visitante, durante su estancia viva de sus recursos traídos del extranjero, de las rentas que éstos produzcan o de cualquier ingreso proveniente del exterior, o su internación tenga como propósito conocer alternativas de inversión o para realizar éstas, o se dedique a actividades científicas, técnicas, de asesoría, artísticas, deportivas o similares, o para ocupar cargos de confianza, podrán concederse hasta cuatro prórrogas más por igual temporalidad cada una, con entradas y salidas múltiples.
+III.- VISITANTE.- Para dedicarse al ejercicio de alguna actividad lucrativa o no, siempre que sea lícita y honesta, con autorización para permanecer en el país hasta por un año.
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
+Cuando el extranjero visitante: durante su estancia viva de sus recursos traídos del extranjero, de las rentas que éstos produzcan o de cualquier ingreso proveniente del exterior; su internación tenga como propósito conocer alternativas de inversión o para realizar éstas; se dedique a actividades científicas, técnicas, de asesoría, artísticas, deportivas o similares; se interne para ocupar cargos de confianza, o asistir a asambleas y sesiones de consejos de administración de empresas; podrán concederse hasta cuatro prórrogas por igual temporalidad cada una, con entradas y salidas múltiples.
 
-IV.- CONSEJERO.- Para asistir a asambleas y sesiones del consejo de Administración de empresas, con una temporalidad de un año, prorrogable hasta por cuatro veces más por igual temporalidad cada una, con entradas y salidas múltiples y en cada ocasión con estancias máximas de 30 días improrrogables dentro del país.
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+IV.- MINISTRO DE CULTO O ASOCIADO RELIGIOSO.- Para ejercer el ministerio de cualquier culto, o para la realización de labores de asistencia social y filantrópicas, que coincidan con los fines de la asociación religiosa a la que pertenezca, siempre que ésta cuente con registro previo ante la Secretaría de Gobernación y que el extranjero posea, con antelación, el carácter de ministro de culto o de asociado en los términos de la Ley de Asociaciones Religiosas y Culto Público. El permiso se otorgará hasta por un año y podrán concederse hasta cuatro prórrogas por igual temporalidad cada una, con entradas y salidas múltiples.
 
 V.- ASILADO POLITICO.- Para proteger su libertad o su vida de persecuciones políticas en su país de origen, autorizado por el tiempo que la Secretaría de Gobernación juzgue conveniente, atendiendo a las circunstancias que en cada caso concurran. Si el asilado político viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables, perderá su característica migratoria, y la misma Secretaría le podrá otorgar la calidad que juzgue conveniente para continuar su legal estancia en el país. Asimismo, si el asilado político se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Dependencia.
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
-VI.- REFUGIADO.- Para proteger su vida, seguridad o libertad cuando hayan sido amenazadas por violencia generalizada, la agresión extranjera, los conflictos internos, la violación masiva de derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en su país de origen, que lo hayan obligado a huir a otro país. No quedan comprendidos en la presente característica migratoria aquellas personas que son objeto de persecución política prevista en la fracción anterior. La Secretaría de Gobernación renovará su permiso de estancia en el país, cuantas veces lo estime necesario. Si el refugiado viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables perderá su característica migratoria y la misma Secretaría le podrá otorgar la calidad que juzgue procedente para continuar su legal estancia en el país. Asimismo, si el refugiado se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Secretaría. El refugiado no podrá ser devuelto a su país de origen, ni enviado a ningún otro, en donde su vida, libertad o seguridad se vean amenazadas.
+VI.- REFUGIADO.- Para proteger su vida, seguridad o libertad, cuando hayan sido amenazadas por violencia generalizada, agresión extranjera, conflictos internos, violación masiva de derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en su país de origen, que lo hayan obligado a huir a otro país. No quedan comprendidos (sic) en la presente característica migratoria aquellas personas que son objeto de persecución política prevista en la fracción anterior. La Secretaría de Gobernación renovará su permiso de estancia en el país, cuantas veces lo estime necesario. Si el refugiado viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables, perderá su característica migratoria y la misma Secretaría le podrá otorgar la calidad que juzgue procedente para continuar su legal estancia en el país. Asimismo, si el refugiado se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Secretaría. El refugiado no podrá ser devuelto a su país de origen, ni enviado a cualquier otro, en donde su vida, libertad o seguridad se vean amenazadas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1990)</small>
 
 La Secretaría de Gobernación podrá dispensar la sanción a que se hubiere hecho acreedor por su internación ilegal al país, al extranjero a quien se otorgue esta característica migratoria, atendiendo al sentido humanitario y de protección que orienta la institución del refugiado.
 
-VII.- ESTUDIANTE.- Para iniciar, completar o perfeccionar estudios en planteles educativos o instituciones oficiales o particulares incorporados o con autorización oficial, con prórrogas anuales y con autorización para permanecer en el país sólo el tiempo que duren sus estudios y el que sea necesario para obtener la documentación final escolar respectiva, pudiendo ausentarse del país, cada año, hasta por 120 días en total.
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+VII.- ESTUDIANTE.- Para iniciar, terminar o perfeccionar estudios en instituciones o planteles educativos oficiales, o incorporados con reconocimiento oficial de validez, o para realizar estudios que no lo requieran, con prórrogas anuales y con autorización para permanecer en el país sólo el tiempo que duren sus estudios y el que sea necesario para obtener la documentación final escolar respectiva, pudiendo ausentarse del país, cada año, hasta por 120 días en total; si estudia en alguna ciudad fronteriza y es residente de localidad limítrofe, no se aplicará la limitación de ausencias señalada.
 
 VIII.- VISITANTE DISTINGUIDO.- En casos especiales, de manera excepcional, podrán otorgarse permisos de cortesía para internarse y residir en el país, hasta por seis meses, a investigadores, científicos o humanistas de prestigio internacional, periodistas o a otras personas prominentes. La Secretaría de Gobernación podrá renovar estos permisos cuando lo estime pertinente.
 
 IX.- VISITANTES LOCALES.- Las autoridades de Migración podrán autorizar a los extranjeros a que visiten puertos marítimos o ciudades fronterizas sin que su permanencia exceda de tres días.
 
 X.- VISITANTE PROVISIONAL.- La Secretaría de Gobernación podrá autorizar como excepción hasta por 30 días, el desembarco provisional de extranjeros que lleguen a puertos de mar o aeropuertos con servicio internacional, cuya documentación carezca de algún requisito secundario. En estos casos deberán constituir depósito o fianza que garantice su regreso al país de procedencia, de su nacionalidad o de su origen, si no cumplen el requisito en el plazo concedido.
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+XI.- CORRESPONSAL.- Para realizar actividades propias de la profesión de periodista, para cubrir un evento especial o para su ejercicio temporal, siempre que acredite debidamente su nombramiento o ejercicio de la profesión en los términos que determine la Secretaría de Gobernación. El permiso se otorgará hasta por un año, y podrán concederse prórrogas por igual temporalidad cada una, con entradas y salidas múltiples.
+
+Todo extranjero que se interne al país como No Inmigrante, podrá solicitar el ingreso de su cónyuge y familiares en primer grado, a los cuales podrá concedérseles, cuando no sean titulares de una característica migratoria propia, la misma característica migratoria y temporalidad que al No Inmigrante, bajo la modalidad de dependiente económico.
 
 ###### ARTICULO 43.
 
@@ -386,15 +406,27 @@ VI.- TECNICO.- Para realizar investigación aplicada dentro de la producción o 
 
 VII.- FAMILIARES.- Para vivir bajo la dependencia económica del cónyuge o de un pariente consanguíneo, inmigrante, inmigrado o mexicano en línea recta sin límite de grado o transversal hasta el segundo.
 
-Los hijos y hermanos de los solicitantes sólo podrán admitirse dentro de esta característica cuando sean menores de edad, salvo que tengan impedimento debidamente comprobado para trabajar o estén estudiando en forma estable.
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+Los inmigrantes familiares podrán ser autorizados por la Secretaría de Gobernación para realizar las actividades que establezca el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+Los hijos y hermanos extranjeros de los inmigrantes, inmigrados o mexicanos, sólo podrán admitirse dentro de esta característica cuando sean menores de edad, salvo que tengan impedimento debidamente comprobado para trabajar o estén estudiando en forma estable.
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1990)</small>
 
 VIII.- ARTISTAS Y DEPORTISTAS.- Para realizar actividades artísticas, deportivas o análogas, siempre que a juicio de la Secretaría dichas actividades resulten benéficas para el país.
 
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+IX.- ASIMILADOS.- Para realizar cualquier actividad lícita y honesta, en caso de extranjeros que hayan sido asimilados al medio nacional o hayan tenido o tengan cónyuge o hijo mexicano y que no se encuentren comprendidos en las fracciones anteriores, en los términos que establezca el Reglamento.
+
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 49.
 
-La internación y permanencia en el país de científicos o técnicos extranjeros, se condicionará a que cada uno de éstos instruya en su especialidad a un mínimo de tres mexicanos.
+La internación y permanencia por más de seis meses en el país de científicos o técnicos extranjeros, se condicionará, a satisfacción de la Secretaría de Gobernación, a que cada uno de éstos sean solicitados por instituciones de su especialidad e instruyan en ella a mexicanos mediante conferencias, cursos y cátedras, entre otros medios.
 
 ###### ARTICULO 50.
 
@@ -466,11 +498,11 @@ V. Presentar certificado oficial de sus antecedentes, expedido por la autoridad 
 
 VI. Llenar los requisitos que se señalen en sus permisos de internación.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 63.
 
-Los extranjeros que se internen al país en calidad de Inmigrantes y los No Inmigrantes a que se refieren las fracciones III -por lo que respecta a científicos-, V, VI y VII, del artículo 42 de esta Ley, están obligados a inscribirse en el Registro Nacional de Extranjeros dentro de los treinta días siguientes a la fecha de su internación.
+Los extranjeros que se internen al país en calidad de inmigrantes y los No Inmigrantes a que se refieren las fracciones III, por lo que respecta a científicos, IV, V, VI y VII, del artículo 42 de esta Ley, están obligados a inscribirse en el Registro Nacional de Extranjeros dentro de los treinta días siguientes a la fecha de su internación.
 
 > <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
 
@@ -496,19 +528,27 @@ El extranjero transmigrante, por su propia característica migratoria, en ningú
 
 Las autoridades de la República, sean federales, locales o municipales, así como los notarios públicos, los que sustituyan a éstos o hagan sus veces y los corredores de comercio, están obligados a exigir a los extranjeros que tramiten ante ellos asuntos de su competencia, que previamente les comprueben su legal estancia en el país, y que en los casos que establezca el Reglamento, acrediten que su condición y calidad migratoria les permiten realizar el acto o contrato de que se trate, o en su defecto, el permiso especial de la Secretaría de Gobernación. En los casos que señale el Reglamento, darán aviso a la expresada Secretaría en un plazo no mayor de quince días, a partir del acto o contrato celebrado ante ellas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 68.
 
-Los jueces u oficiales del Registro Civil no celebrarán ningún acto del estado civil en que intervenga algún extranjero, sin la comprobación previa, por parte de éste, de su legal estancia en el país. Tratándose de matrimonios de extranjeros con mexicanos, deberán exigir además la autorización de la Secretaría de Gobernación.
+Los jueces u oficiales del Registro Civil no celebrarán ningún acto en que intervenga algún extranjero, sin la comprobación previa, por parte de éste, de su legal estancia en el país, excepto los registros de nacimiento en tiempo, y de defunción, en los términos que establezca el Reglamento de esta Ley. Tratándose de matrimonios de extranjeros con mexicanos, deberán exigir además la autorización de la Secretaría de Gobernación.
 
 En todos los casos deberán asentarse las comprobaciones a que se refiere este artículo y darse aviso a la Secretaría de Gobernación del acto celebrado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+Los matrimonios y divorcios entre mexicanos y extranjeros se inscribirán en el Registro Nacional de Extranjeros, dentro de los treinta días siguientes a su realización.
 
 ###### ARTICULO 69.
 
 Ninguna autoridad judicial o administrativa dará trámite al divorcio o nulidad de matrimonio de los extranjeros, si no se acompaña la certificación que expida la Secretaría de Gobernación de su legal residencia en el país y de que sus condiciones y calidad migratoria les permite realizar tal acto.
 
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 70.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+En un plazo no mayor de treinta días hábiles, la autoridad migratoria, a solicitud de los interesados, expedirá certificados que acrediten que la estancia de los extranjeros está apegada a esta Ley.
 
 ###### ARTICULO 71.
 
@@ -836,17 +876,17 @@ V. Dolosamente hagan uso indebido o proporcionen a terceras personas documentaci
 
 Las autoridades federales, estatales o municipales que incurran en violaciones a la presente Ley o a las disposiciones que la reglamenten, que no constituyan delitos, serán sancionados con multa hasta de cinco mil pesos y destitución en caso de reincidencia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 95], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 115.
 
-Al que auxilie, encubra o aconseje a cualquier individuo para violar las disposiciones de esta Ley y su Reglamento en materia que no constituya delito, será castigado con multa hasta de un mil pesos o arresto hasta por treinta y seis horas. Si el infractor no pagare la multa impuesta, se permutara ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+El que auxilie, encubra o aconseje a cualquier individuo violar las disposiciones de esta Ley y su Reglamento en materia que no constituya delito, será castigado con multa hasta de cien días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, o bien arresto hasta por treinta y seis horas si no pagare la multa.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 96], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 116.
 
-Al que en materia migratoria suscriba cualquier documento o promoción con firma que no sea la suya, se le impondrá multa hasta de dos mil pesos o arresto hasta por treinta y seis horas, sin perjuicio de las penas en que incurra cuando ello constituya un delito. Si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+Al que en materia migratoria presente o suscriba cualquier documento o promoción con firma falsa o distinta a la que usualmente utiliza, se le impondrá multa hasta de doscientos días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, o bien arresto hasta por treinta y seis horas si no pagare la multa, sin perjuicio de las penas en que incurra cuando ello constituya un delito.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -916,11 +956,11 @@ Al extranjero que para entrar al país o que ya internado, proporcione a las aut
 
 Al extranjero que incurra en las hipótesis previstas en los artículos 115, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127 y 138 de esta Ley, se le cancelará la calidad migratoria y será expulsado del país, sin perjuicio de que se le apliquen las penas establecidas en dichos preceptos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 106], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 126.
 
-El que haya sido expulsado, solamente podrá ser readmitido por acuerdo expreso del Secretario o del Subsecretario de la Secretaría de Gobernación.
+En los casos en que se atente en contra de la soberanía o la seguridad nacional, la expulsión será definitiva. En todos los demás casos la Secretaría de Gobernación señalará el período durante el cual el extranjero no deberá reingresar al país. Durante dicho período, sólo podrá ser readmitido por acuerdo expreso del Secretario de Gobernación o del Subsecretario respectivo.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -982,11 +1022,11 @@ Cuando los capitanes de los transportes marítimos, o quienes hagan sus veces, d
 
 Se impondrá multa hasta de mil pesos, al que sin el permiso de la autoridad migratoria, autorice u ordene la partida de un transporte que haya de salir del Territorio Nacional.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 115], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 135.
 
-Se impondrá multa hasta de un mil pesos o arresto hasta por treinta y seis horas a los extranjeros que no cumplan con la obligación señalada por el artículo 26 de esta Ley. Si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+Al extranjero que no cumpla con la obligación señalada por el artículo 26 de esta Ley, se le impondrá multa hasta de cien días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, o bien arresto hasta por treinta y seis horas si no pagare la multa.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -1006,17 +1046,23 @@ La persona que visite un transporte marítimo extranjero, sin permiso de las aut
 
 La misma sanción se impondrá a la persona que autorice sin facultades para ello, la visita a que se refiere el párrafo anterior.
 
-(REUBICADO [ N. DE E. ANTES ARTICULO 118], D.O.F. 22 DE JULIO DE 1992)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 138.
 
-Se impondrá pena de dos a diez años de prisión y multa hasta el equivalente a diez mil días de salario mínimo conforme al que esté vigente en el Distrito Federal, a quien por sí o por medio de otro u otros pretenda llevar o lleve nacionales mexicanos a internarse al extranjero en forma ilegal.
+Se impondrá pena de seis a doce años de prisión y multa de cien a diez mil días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, a quien por sí o por interpósita persona, con propósito de tráfico, pretenda llevar o lleve mexicanos o extranjeros a internarse a otro país, sin la documentación correspondiente.
 
-Igual pena se impondrá a quien por sí o por medio de otro u otros, sin permiso legal de autoridad competente, pretenda introducir o introduzca ilegalmente a uno o varios extranjeros a territorio mexicano o a otro país, o los albergue o transporte por el territorio nacional con el propósito de ocultarlos para evadir la revisión migratoria.
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+Igual pena se impondrá a quien por sí o por medio de otro u otros introduzca, sin la documentación correspondiente expedida por autoridad competente, a uno o varios extranjeros a territorio mexicano o, con propósito de tráfico, los albergue o transporte por el territorio nacional con el fin de ocultarlos para evadir la revisión migratoria.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1990)</small>
 
 A quien a sabiendas proporcione los medios, se preste o sirva para llevar a cabo las conductas descritas en los párrafos anteriores, se le impondrá pena de uno a cinco años de prisión y multa hasta el equivalente a cinco mil días de salario mínimo conforme al que esté vigente en el Distrito Federal.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+Se aumentarán hasta en una mitad las penas previstas en los párrafos precedentes, cuando las conductas descritas se realicen respecto de menores de edad; o en condiciones o por medios que pongan en peligro la salud, la integridad o la vida de los indocumentados; o bien cuando el autor del delito sea servidor público.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 119], D.O.F. 22 DE JULIO DE 1992)
 
@@ -1024,11 +1070,17 @@ A quien a sabiendas proporcione los medios, se preste o sirva para llevar a cabo
 
 Al funcionario judicial o administrativo que dé trámite al divorcio o nulidad de matrimonio de los extranjeros sin que se acompañe la certificación expedida por la Secretaría de Gobernación de su legal residencia en el país y de que sus condiciones y calidad migratoria les permite realizar tal acto, o con aplicación de otras leyes distintas de las señaladas en el artículo 50 de la Ley de Nacionalidad y Naturalización, se le impondrá la destitución de empleo y prisión hasta de seis meses o multa hasta de diez mil pesos o ambas, a juicio del juez, quedando desde luego separado de sus funciones al dictarse el auto de sujeción a proceso.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 120], D.O.F. 22 DE JULIO DE 1992)
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+ARTICULO 139 BIS.- Al que reciba en custodia a un extranjero, en los términos del artículo 153, y permita que se sustraiga del control de la autoridad migratoria se le sancionará con multa hasta de un mil días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, sin perjuicio de las penas en que incurra cuando ello constituya un delito.
+
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 140.
 
-Toda infracción a la presente Ley o a sus reglamentos en materia migratoria, fuera de los casos señalados en este capítulo y de los que constituyan delitos de acuerdo con otras leyes, se sancionarán administrativamente con multa hasta de diez mil pesos, según la gravedad de las violaciones cometidas a juicio de la Secretaría de Gobernación o con arresto hasta por quince días, si el infractor no pagare la multa.
+Toda infracción administrativa a la presente Ley o a sus reglamentos en materia migratoria, fuera de los casos previstos en este capítulo, se sancionará con multa hasta de un mil días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, según la gravedad de las violaciones cometidas a juicio de la Secretaría de Gobernación, o bien con arresto hasta de treinta y seis horas si no pagare la multa.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 121], D.O.F. 22 DE JULIO DE 1992)
 
@@ -1036,11 +1088,9 @@ Toda infracción a la presente Ley o a sus reglamentos en materia migratoria, fu
 
 Las sanciones administrativas a que esta Ley se refiere, se impondrán por las unidades administrativas que se señalan en el Reglamento Interior de la Secretaría de Gobernación.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 122], D.O.F. 22 DE JULIO DE 1992)
-
 ###### ARTICULO 142.
 
-Para que una sanción administrativa sea revisable deberá solicitarse dentro de los quince días siguientes a la fecha de notificación de la multa impuesta.
+(DEROGADO, D.O.F. 8 DE NOVIEMBRE DE 1996)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 123], D.O.F. 22 DE JULIO DE 1992)
 
@@ -1055,6 +1105,132 @@ El ejercicio de la acción penal por parte del Ministerio Público Federal, en l
 Los ingresos que la Federación obtenga efectivamente de multas por infracción a esta Ley, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que realice las funciones de servicios migratorios.
 
 Sólo ingresarán a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes, salvo que por Ley estén destinados a otros fines. La distribución de los fondos se hará en los términos que el Reglamento de esta Ley señale.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+### CAPITULO IX. Del Procedimiento Migratorio
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 145.
+
+Los trámites de internación, estancia y salida de los extranjeros, así como de los permisos que se soliciten al Servicio de Migración, se regirán por las disposiciones que a continuación se mencionan y, en forma supletoria, por la Ley Federal de Procedimiento Administrativo y las disposiciones y criterios que al efecto emita la Secretaría de Gobernación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 146.
+
+Los interesados podrán solicitar copia certificada de las promociones y documentos que hayan presentado en el procedimiento administrativo migratorio y de las resoluciones que recaigan a éstos, las que le serán entregadas en un plazo no mayor de treinta días hábiles. La demás documentación es confidencial y únicamente se podrá expedir copia certificada si existe mandamiento judicial que así lo determine.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 147.
+
+Los solicitantes que acrediten su interés jurídico en el trámite migratorio podrán comparecer en forma directa o por conducto de apoderado legalmente autorizado, mediante poder notarial, carta poder ratificada ante fedatario público o, en su caso, mediante autorización en el propio escrito.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 148.
+
+Las promociones ante la Secretaría de Gobernación serán suscritas por el interesado o representante legal y, en caso de que no sepa o no pueda firmar, se imprimirá la huella digital.
+
+En su caso, deberán acompañarse las constancias relativas a los requisitos que señala esta Ley, su Reglamento y demás disposiciones administrativas aplicables para el trámite respectivo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 149.
+
+La autoridad migratoria podrá allegarse los medios de prueba que considere necesarios para mejor proveer, sin más limitaciones que las establecidas en la Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 150.
+
+Una vez cubiertos los requisitos correspondientes y que la autoridad constate que no existe trámite pendiente u obligación qué satisfacer, o bien impedimento legal alguno, dictará resolución sobre todas las cuestiones planteadas por el interesado y las que de oficio se deriven del mismo, debiendo fundar y motivar su determinación, sin que para ello se exija mayor formalidad.
+
+La autoridad migratoria contará con un plazo de hasta noventa días naturales para dictar la resolución correspondiente, contados a partir de la fecha en que el solicitante cumpla todos los requisitos formales exigidos por esta Ley, su Reglamento y demás disposiciones administrativas aplicables; transcurrido dicho plazo sin que la resolución se dicte, se entenderá que es en sentido negativo. Si el particular lo solicitare, la autoridad emitirá constancia de tal hecho.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+### CAPITULO X. Del procedimiento de verificación y vigilancia
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 151.
+
+Fuera de los puntos fijos de revisión establecidos conforme a las disposiciones de esta Ley, la autoridad migratoria podrá llevar a cabo las siguientes diligencias:
+
+I.- Visitas de verificación;
+
+II.- Comparecencia del extranjero ante la autoridad migratoria;
+
+III.- Recepción y desahogo de denuncias y testimonios;
+
+IV.- Solicitud de informes;
+
+V.- Revisión migratoria en rutas o puntos provisionales distintos a los establecidos, y
+
+VI.- Obtención de los demás elementos de convicción necesarios para la aplicación de esta Ley, su Reglamento y demás disposiciones administrativas procedentes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 152.
+
+Si con motivo de la verificación se desprende alguna infracción a lo dispuesto en la Ley, su Reglamento o demás disposiciones aplicables que amerite la expulsión del extranjero, el personal autorizado podrá llevar a cabo su aseguramiento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 153.
+
+La Secretaría de Gobernación, considerando las circunstancias especiales que concurran en cada caso, podrá entregar al extranjero asegurado, en custodia provisional, a persona o institución de reconocida solvencia.
+
+El extranjero entregado en custodia estará obligado a otorgar una garantía, comparecer ante la autoridad migratoria las veces que así se le requiera y firmar en el libro de control de extranjeros.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 154.
+
+La Secretaría de Gobernación, al requerir la comparecencia del extranjero a que se refiere la fracción II del artículo 151 de esta Ley, deberá cumplir con las siguientes formalidades:
+
+I.- Al citarlo, lo hará por escrito con acuse de recibo, haciéndole saber el motivo de la comparecencia; el lugar, hora, día, mes y año en que tendrá verificativo; en su caso, los hechos que se le imputen y su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, y
+
+II.- Apercibirlo que de no concurrir a dicha comparecencia, salvo causa plenamente justificada, se tendrán presuntivamente por ciertos los hechos que se le imputen y se le aplicarán las sanciones previstas por la Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 155.
+
+De la comparecencia aludida en el artículo anterior, se levantará acta circunstanciada, en presencia de dos testigos presentados por el compareciente, en caso de no hacerlo, la Secretaría de Gobernación los nombrará. En el acta se hará constar:
+
+I.- Lugar, hora, día, mes y año en la que se inicie y concluya la diligencia;
+
+II.- Nombre y domicilio del compareciente;
+
+III.- Nombre y domicilio de las personas que fungieron como testigos;
+
+IV.- Relación sucinta de los hechos y circunstancias ocurridas durante la diligencia, dejando asentado el dicho del compareciente, y
+
+V.- Nombre y firma de quienes intervinieron en la diligencia. Si se negara a firmar el compareciente, ello no afectará la validez del acta, dejándose constancia de este hecho en la misma.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 156.
+
+El oficio en el que se disponga la revisión a la que alude la fracción V del artículo 151 deberá señalar, como mínimo:
+
+I.- Responsable de la revisión y personal asignado a la misma;
+
+II.- Duración de la revisión, y
+
+III.- Zona geográfica y lugar en la que se efectuará la revisión.
+
+El responsable de la revisión rendirá un informe diario de actividades a su superior jerárquico.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 157.
+
+Una vez cubiertos los requisitos previstos en este Capítulo, la Secretaría de Gobernación resolverá lo conducente en un máximo de quince días hábiles, debiendo notificarlo al interesado, personalmente, a través de su representante legal, o por correo certificado con acuse de recibo.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1145,3 +1321,7 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- La Secretaría de Gobernación mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación dará a conocer el Programa para el establecimiento e inicio de funciones del Registro Nacional de Ciudadanos.
 
 CUARTO.- En el establecimiento del Registro Nacional de Ciudadanos se utilizará la información que proporcionará el Instituto Federal Electoral proveniente del padrón electoral y de la base de datos e imágenes obtenidas con motivo de la expedición y entrega de la credencial para votar con fotografía prevista en el artículo 164 del Código Federal de Instituciones y Procedimientos Electorales. En tanto no se expida la cédula de identidad ciudadana, esta credencial podrá servir como medio de identificación personal en trámites administrativos de acuerdo a los convenios que para tal efecto suscriba la autoridad electoral.
+
+D.O.F. 8 DE NOVIEMBRE DE 1996.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
