@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "1999-12-16"
+last_updated: "2001-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO FISCAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -1167,7 +1167,7 @@ Si se trata de resoluciones administrativas que determinen la responsabilidad so
 
 Las notificaciones surtirán sus efectos el día hábil siguiente al que fueron hechas.
 
-Cuando por causa imputable al notificador, se deje sin efectos una notificación practicada ilegalmente, se le impondrá una multa de diez veces el salario mínimo general diario del área geográfica correspondiente a la zona económica de Guadalajara.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 101.
 
@@ -1359,7 +1359,11 @@ XV. Traficar con los documentos o comprobantes de pago de contribuciones fiscale
 
 XVI. Adquirir los bienes objeto de un remate efectuado por el fisco estatal, por sí o por medio de interpósita persona, siempre y cuando estas autoridades sean los jefes de las oficinas ejecutoras o las encargadas de llevar a cabo el procedimiento administrativo de ejecución, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara; y
 
-XVII. Otorgar beneficios o estímulos fiscales a los contribuyentes, sin estar legalmente facultado para ello, multa de 10 a 100 días de salario mínimo general vigente en la zona económica de Guadalajara, a menos que los hechos constituyan delito, en cuyo caso, se hará la denuncia correspondiente.
+XVII. Otorgar beneficios o estímulos fiscales a los contribuyentes, sin estar legalmente facultado para ello, multa de 10 a 100 días de salario mínimo general vigente en la zona económica de Guadalajara, a menos que los hechos constituyan delito, en cuyo caso, se hará la denuncia correspondiente;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2001)</small>
+
+XVIII. Realizar ilegalmente notificaciones en forma dolosa o culposa, si como consecuencia de ese dolo o culpa se deja sin efectos la notificación. Multa de una a diez veces el salario mínimo general vigente en la zona económica de Guadalajara.
 
 ###### Artículo 111.
 
@@ -2113,9 +2117,11 @@ La declaratoria de nulidad de notificaciones, traerá como consecuencia la de la
 
 Cuando ya se haya iniciado juicio ante el Tribunal de lo Administrativo del Estado, será improcedente la solicitud de la nulidad de las notificaciones ante la autoridad fiscal administrativa y se hará valer mediante la ampliación de la demanda respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Artículo 197.
 
-La interposición del recurso de revocación será optativo para el interesado antes de acudir al Tribunal de lo Administrativo.
+La interposición del recurso de revocación será obligatorio para el interesado antes de acudir al Tribunal de lo Administrativo.
 
 Cuando el recurso se interponga ante autoridad fiscal incompetente, ésta la turnará a la que sea competente.
 
@@ -2306,5 +2312,9 @@ P.O. 19 DE FEBRERO DE 1998.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 16 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
