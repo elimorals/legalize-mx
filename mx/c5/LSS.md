@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "1996-11-21"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la primera sección del Diario Oficial de la Federación el jueves 21 de diciembre de 1995.
 
@@ -366,7 +366,7 @@ El Instituto a solicitud de los patrones podrá conceder prórroga para el pago 
 
 Para el seguro de retiro, cesantía en edad avanzada y vejez, esta prórroga también causará los accesorios a que se refiere el párrafo anterior, depositándose los recargos en la cuenta individual del trabajador. De todas las prórrogas que involucren cuotas del seguro de retiro, cesantía en edad avanzada y vejez, el Instituto deberá informar a la Comisión Nacional del Sistema de Ahorro para el Retiro. Sin perjuicio de lo anterior los patrones deberán proporcionar copias de las prorrogas que involucren cuotas del seguro de retiro, cesantía en edad avanzada y vejez, a la Comisión Nacional del Sistema de Ahorro para el Retiro, así como a las entidades financieras que mediante reglas generales determine la misma Comisión.
 
-### CAPITULO III. DEL SEGURO DE RIESGOS DE TRABAJO
+### CAPITULO III. DEL SEGURO DE RIEGOS DE TRABAJO
 
 #### SECCION PRIMERA. GENERALIDADES
 
@@ -464,7 +464,7 @@ IV. Muerte.
 
 Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente total, lo que al respecto disponen los artículos relativos de la Ley Federal del Trabajo.
 
-#### SECCION SEGUNDA. DE LAS PRESTAIONES EN ESPECIE
+#### SECCION SEGUNDA. DE LAS PRESTACIONES EN ESPECIE
 
 ###### Artículo 56.
 
@@ -946,7 +946,7 @@ III. Al Gobierno Federal le corresponderá pagar el cinco por ciento restante.
 
 Las aportaciones del Gobierno Federal serán cubiertas en pagos mensuales iguales, equivalentes a la doceava parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Hacienda y Crédito Público, en el mes de julio de cada ejercicio. En el caso de que en un cuatrimestre la inflación sea cuatro puntos porcentuales mayor o menor a la prevista en dichos cálculos, se harán las compensaciones preliminares correspondientes antes de que termine el siguiente bimestre, realizándose los ajustes definitivos, en base a la inflación real anual, durante el mes de enero del año siguiente.
 
-#### SECCION QUINTA. DE LA CONSEVACION DE DERECHOS
+#### SECCION QUINTA. DE LA CONSERVACION DE DERECHOS
 
 ###### Artículo 109.
 
@@ -2082,6 +2082,8 @@ Si el balance actuarial acusare superávit, éste se destinará a constituir un 
 
 ### CAPITULO V. DE LA DIRECCION GENERAL
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 263.
 
 El Consejo Técnico es el órgano de gobierno, representante legal y el administrador del Instituto y estará integrado hasta por doce miembros, correspondiendo designar cuatro de ellos a los representantes patronales en la Asamblea General, cuatro a los representantes de los trabajadores y cuatro a los representantes del Estado, con sus respectivos suplentes y el Ejecutivo Federal cuando lo estime conveniente, podrá disminuir a la mitad la representación estatal.
@@ -2160,7 +2162,7 @@ V. En casos graves y bajo su responsabilidad, citar a Asamblea General Extraordi
 
 ###### Artículo 267.
 
-El Director General será nombrado por el Presidente de la República debiendo ser mexicano por nacimiento.
+El Director General será nombrado por el Presidente de la República debiendo ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
 ###### Artículo 268.
 
@@ -2528,7 +2530,7 @@ DECIMO QUINTO. Las instituciones de crédito que estuvieran operando cuentas ind
 
 Las instituciones de crédito quedarán sujetas a la normatividad anterior a la vigencia de la presente Ley en todas y cada una de las obligaciones a su cargo relacionadas con las cuentas del sistema de ahorro para el retiro. Asimismo quedarán sujetas a la inspección y vigilancia de la Comisión Nacional del Sistema de Ahorro para el Retiro, en tanto manejen cuentas del mencionado sistema.
 
-DECIMO SEXTO. Al iniciar la vigencia de la presente Ley, susbsistirá (sic) la subcuenta del seguro de retiro prevista por la legislación que se deroga, misma que seguirá generando los rendimientos respectivos y a la cual no podrán hacerse nuevos depósitos a partir de la entrada en vigor de este Decreto.
+DECIMO SEXTO. Al iniciar la vigencia de la presente Ley, susbsistirá (sic) a subcuenta del seguro de retiro prevista por la legislación que se deroga, misma que seguirá generando los rendimientos respectivos y a la cual no podrán hacerse nuevos depósitos a partir de la entrada en vigor de este Decreto.
 
 DECIMO SEPTIMO. Los fondos de las subcuentas del seguro de retiro, se transferirán a las Administradoras de Fondos para el Retiro, las que los mantendrán invertidos en estas subcuentas separadas de las subcuentas a que se refiere el artículo 159 fracción I.
 
@@ -2591,3 +2593,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 21 DE NOVIEMBRE DE 1996.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
