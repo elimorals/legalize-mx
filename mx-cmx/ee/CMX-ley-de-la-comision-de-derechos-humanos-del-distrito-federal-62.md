@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "1993-06-22"
+last_updated: "1998-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MAYO DE 1998.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -84,11 +84,13 @@ III.- Poseer conocimientos generales en materia de derechos humanos así como de
 
 IV.- Gozar de buena reputación y reconocido prestigio público además de no haber sido condenado por delito intencional o preterintencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 9.
 
-El Presidente de la Comisión de Derechos Humanos del Distrito Federal será nombrado por el titular del Poder Ejecutivo Federal y sujeto a la aprobación en su caso, de la Asamblea de Representantes del Distrito Federal por las dos terceras partes de sus miembros presentes.
+El Presidente de la Comisión de Derechos Humanos del Distrito Federal será nombrado por la Asamblea Legislativa del Distrito Federal, por el voto de las dos terceras partes de sus miembros.
 
-El Titular del Poder Ejecutivo Federal, para la formulación del nombramiento solicitará, a través del Jefe del Departamento del Distrito Federal, opiniones de asociaciones y colegios y en general de entidades o de las personalidades que estime conveniente. Estas opiniones no serán vinculatorias.
+Para hacer el nombramiento, la Asamblea Legislativa del Distrito Federal, por conducto de su Comisión de Derechos Humanos convocará a los más destacados organismos no gubernamentales que, en su desempeño, se hayan distinguido por la promoción y defensa de los derechos humanos, asociaciones y colegios vinculados a la defensa y promoción de los derechos humanos y, en general, a las entidades o personalidades que estime conveniente, a proponer un candidato para hacerse cargo de la Presidencia de la Comisión.
 
 ###### ARTICULO 10.
 
@@ -216,9 +218,11 @@ El Consejo de la Comisión de Derechos Humanos del Distrito Federal se reunirá 
 
 El Presidente podrá convocar a sesión extraordinaria o a solicitud que le formulen por lo menos 3 de sus integrantes cuando se estime que hay razones de importancia para ello.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 22.
 
-El Presidente de la Comisión de Derechos Humanos del Distrito Federal tendrá las siguientes facultades:
+El Presidente de la Comisión de Derechos Humanos del Distrito Federal tendrá las facultades y obligaciones siguientes:
 
 I.- Actuar como representante legal de la Comisión;
 
@@ -232,7 +236,9 @@ V.- Dictar las medidas específicas que estime idóneas para el adecuado desempe
 
 VI.- Distribuir y delegar funciones a los visitadores;
 
-VII.- Enviar anualmente un informe al Titular del Poder Ejecutivo Federal, al Congreso de la Unión, al Jefe del Departamento del Distrito Federal y a la Asamblea de Representantes del Distrito Federal, sobre las actividades de la Comisión de Derechos Humanos del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 1998)</small>
+
+VII.- Presentar anualmente un informe general a la Asamblea Legislativa del Distrito Federal, sobre las actividades de la Comisión de Derechos Humanos del Distrito Federal.
 
 VIII.- Celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines de la Comisión;
 
@@ -571,3 +577,11 @@ La Secretaría de Gobernación dispondrá el mecanismo necesario para asignar de
 México, D. F., a 1° de junio de 1993.- Dip. Jaime Muñoz Domínguez, Presidente.- Sen. Salvador Sánchez Vázquez, Presidente.- Dip. Jesús Molina Lozano, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+G.O. 22 DE MAYO DE 1998.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
