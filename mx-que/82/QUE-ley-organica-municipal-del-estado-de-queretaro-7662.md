@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "1997-09-05"
+last_updated: "1998-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 1998.
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -695,9 +695,17 @@ VII. De Desarrollo Urbano y Ecología. Tendrá a su cargo: la formulación del P
 
 VIII. De Educación y Cultura. Tendrá a su cargo: fomentar el desarrollo educativo y cultural de los habitantes del municipio; atender las necesidades educativas de las comunidades campesinas, indígenas y grupos marginados del municipio; realizar actividades tendientes a la defensa de nuestra identidad nacional preservando nuestras costumbres y tradiciones, y las demás obligaciones que le señalen las leyes y los reglamentos.
 
-IX. Las demás permanentes o transitorias que a juicio del ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1998)</small>
 
-Las comisiones de gobernación, de hacienda y de policía municipal serán presididas por el presidente municipal e integradas por dos regidores. La de Hacienda se integrará, además, por un síndico.
+IX. De Asuntos de la Juventud; Tendrá a su cargo fomentar, contribuir e impulsar en las jóvenes y los jóvenes; la promoción de la ampliación de los programas del Gobierno Municipal; la participación de las actividades cívicas, sociales y culturales; los servicios e información en materia de salud; orientación vocacional para el empleo; actividades científicas y tecnológicas; el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral.
+
+(REUBICADA, P.O. 2 DE OCTUBRE DE 1998)
+
+X. Las demás permanentes o transitorias que a juicio del ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+
+Las Comisiones de Gobernación, de Hacienda y de Policía Municipal, serán presididas por el Presidente Municipal e integradas por dos regidores. La de Hacienda se integrará, además, por un síndico.
 
 ###### ARTICULO 46.
 
@@ -2088,3 +2096,15 @@ P.O. 5 DE SEPTIEMBRE DE 1997.
 PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO.- Se derogan aquellas disposiciones que se opongan a la presente.
+
+P.O. 2 DE OCTUBRE DE 1998.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA CON UNA FRACCION, EL ARTICULO 45 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO".]
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
