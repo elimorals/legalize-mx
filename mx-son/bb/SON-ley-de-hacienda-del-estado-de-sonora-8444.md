@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1980-07-14"
+last_updated: "1980-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -101,33 +101,37 @@ El Impuesto se causará aplicando las bases mencionadas en el artículo anterior
 
 I.- Sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa-habitación, conforme a las tasas de la siguiente
 
-TARIFA:
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+TARIFA
 
 VALOR CATASTRAL TASA ANUAL
 
-0.01 a 30,000.00 Exento
+0.01 a 100,000.00 Exento
 
-30,000.01 a 900,000.00 5 al millar
+100,000.01 a 1,062,000.00 5 al millar
 
-900,000.01 a 1,500,000.00 7 al millar
+1,062,000.01 a 1,770,000.00 7 al millar
 
-1,500,000.01 en adelante 9 al millar
+1,770,000.01 en adelante 9 al millar
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE FEBRERO DE 1979)</small>
 
 II.- Sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente, conforme a la siguiente
 
-TARIFA:
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+TARIFA
 
 VALOR CATASTRAL TASA ANUAL
 
-0.01 a 500,000.00 7 al millar
+0.01 a 590,000.00 7 al millar
 
-500,000.01 a 900,000.00 8 al millar
+590,000.01 a 1,062,000.00 al millar
 
-900,000.01 a 1,500,000.00 7 al millar
+1,062,000.01 a 1,770,000.00 10 al millar
 
-1,500,000.01 en adelante 9 al millar
+1,770,000.0 en adelante 11 al millar
 
 III.- Sobre el valor catastral de los inmuebles rústicos, conforme a la siguiente
 
@@ -151,9 +155,9 @@ En ningún caso el impuesto será menor de $60.00 al año.
 
 IV.- Sobre los predios no edificados, se aplicarán las tasas de la fracción II correspondientes, con aumento de 25%
 
-> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-V.- Tratándose de predios rústicos, ejidales, comunales, aprovechados para la producción agropecuaria, la tarifa será del 3% en los casos de posesión provisional se estará a lo dispuesto por la fracción IV del artículo 106 de la Ley Federal de Reforma Agraria. Cuando se desconozcan precios rurales de ventas, éstos serán fijados por el Ejecutivo a través de la Tesorería General del Estado;
+V.- Tratándose de predios rústicos ejidales o comunales, aprovechados para la producción agropecuaria, la tarifa será del 2%. En los casos de posesión provisional se estará a lo dispuesto por la fracción IV del Artículo 106 de la Ley Federal de Reforma Agraria. Cuando se desconozcan los precios rurales de venta, éstos serán fijados por el Ejecutivo a través de la Tesorería General del Estado;
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -677,11 +681,13 @@ Las manifestaciones y avisos de los particulares y notarios públicos, que exige
 
 No se eximen de la obligación anterior a los propietarios o poseedores, de predios que, por disposición de esta Ley o de otras, estén exentos del pago del Impuesto predial.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
 ###### Artículo 60.
 
-Cuando en las manifestaciones o avisos exigidos por este capítulo, no se expresen los datos o no se acompañen de los documentos o planos también requeridos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+Cuando en las manifestaciones, avisos o avalúos bancarios exigidos por este Capítulo, no se expresen los datos o no se acompañen de los documentos, o planos también requeridos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Si transcurre dicho plazo y no se expresan los datos o presentan los documentos o planos, a que se refiere el párrafo anterior, la Tesorería tendrá por no presentadas las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+Si transcurre dicho plazo y no se expresan los datos o presentan los documentos, avalúos bancarios o planos, a que se refiere el párrafo anterior, la Tesorería tendrá por no presentadas las manifestaciones, avisos o avalúos bancarios, sin perjuicio de imponer al infractor las sanciones que procedan.
 
 ###### Artículo 61.
 
@@ -715,15 +721,19 @@ Contra las resoluciones que fijen el impuesto predial, sobre la base de los valo
 
 Los peritos de las partes y, en su caso, el que designe la institución, deberán ser ingenieros o arquitectos titulados.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
 ###### Artículo 68.
 
-Para que la Tesorería pueda expedir certificados de no adeudo del impuesto predial, se requiere:
+Para que la Tesorería pueda exigir (sic) certificados de no adeudo del Impuesto Predial, se requiere:
 
 a).- Que el predio esté al corriente en el pago del impuesto; y
 
-b).- Que no exista inconformidad alguna pendiente de resolver, en relación con los avalúos y, en general, con las bases del impuesto predial.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-Expedido un certificado de no adeudo de un predio, la Tesorería General del Estado no podrá cobrar al causante Impuesto predial alguno que se hubiere causado con anterioridad a la fecha de la expedición del certificado, sin perjuicio de la responsabilidad en que hubiere incurrido el empleado que lo pidió.
+b).- Que no exista inconformidad alguna pendiente de resolver, en relación con los avalúos y, en general, con las bases del Impuesto Predial.
+
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -803,9 +813,9 @@ m).- Animales, siempre que no estén gravados con impuestos estatales sobre la p
 
 IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-V.- Los obtenidos por la enajenación de embarcaciones destinadas a la explotación pesquera, maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura, ganadería y pesca, así como los fertilizantes, defoliantes, insecticidas, herbicidas, fungicidas y otros similares. No quedan comprendidas en esta fracción, la maquinaria y equipo utilizados en la industrialización de productos agrícolas, ganaderos y de pesca.
+V.- Los obtenidos por la enajenación de segunda o ulteriores manos de fertilizantes y maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura y ganadería. No quedan comprendidas en esta fracción, la maquinaria y equipo para industrializar los productos agrícolas y ganaderos.
 
 ###### Artículo 71.
 
@@ -1801,31 +1811,41 @@ VI.- La transmisión de la propiedad de bienes inmuebles que se haga a sociedad 
 
 VII.- La adjudicación o dación en pago de bienes inmuebles por liquidación de una sociedad mercantil, asociación o sociedad civil;
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-VIII.- La donación de bienes muebles e inmuebles. En tratándose de bienes muebles, únicamente se gravará cuando el donativo no sea deducible para los fines del Impuesto sobre la Renta;
+VIII.- La donación de bienes muebles e inmuebles. En tratándose de bienes muebles, ésta no se gravará cuando la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la Renta;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-IX.- La cesión de derechos reales o personales, únicamente cuando se realicen en caso de muerte o por fusión de sociedades;
+IX.- La cesión de derechos reales, incluyendo la que se realice en los casos de fusión de sociedades;
 
 X.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 XI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+XII.- La adjudicación de bienes muebles e inmuebles en pago, y por remate a postor o fuera de subasta.
+
+Tratándose de bienes muebles sólo se observarán los usados, siempre y cuando el deudor no esté constituido como empresa;
+
 > <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
 
-XII.- La adjudicación de bienes inmuebles en pago, y por remate a postor o fuera de subasta;
+XIII.- El acto constitutivo de fideicomiso, cuando se afecte un bien inmueble o más de uno y la cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles;
 
-> <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-XIII.- El acto constitutivo de fideicomiso, cuando se afecte un bien inmueble o más de uno y la cesión, transmisión o aportación de derechos de fideicomitente o de fideicomisario, cuando en el fideicomiso el objeto del mismo sean bienes inmuebles.
+XIV.- La permuta de bienes;
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+XV.- Constitución, transmisión y extinción de usufructo.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 184.
 
-En las fracciones I, II y IV del Artículo anterior queda comprendido todo lo concerniente a bienes muebles usados en operaciones celebradas entre particulares, e inmuebles (sic).
+En las fracciones I, II y XIV del Artículo anterior, queda comprendido todo lo concerniente a bienes muebles usados en transmisiones realizadas por personas no constituidas como empresas, e inmuebles.
 
 ###### Artículo 185.
 
@@ -1849,13 +1869,21 @@ V.- El cesionario, en la cesión;
 
 VI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-VII.- Quien transmita la propiedad en los casos de transmisión de bienes inmuebles;
+VII.- Quien transmita la propiedad, en los casos previstos en la fracción VI del Artículo 183;
 
 > <small>(ADICIONADA, B.O. 31 DE MARZO DE 1980)</small>
 
-VIII.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso.
+VIII.- El fideicomitente y el fideicomisario, en la constitución del fideicomiso;
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+IX.- Cada uno de los permutantes, en la transmisión de bienes por permuta;
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+X.- El usufructuario, en el usufructo.
 
 ###### Artículo 187.
 
@@ -1867,11 +1895,19 @@ La base del impuesto, será la siguiente:
 
 I.- Para los bienes muebles: el valor mas alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
 
-II.- Para los bienes inmuebles: El valor que resulte mayor entre el valor catastral, el valor de la operación y el avalúo hecho por la institución de crédito.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+II.- Para los bienes inmuebles: El valor que resulte mayor entre el valor catastral, el valor de la operación y el avalúo hecho por una Institución de Crédito, el cual tendrá una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
+
+La Tesorería General del Estado a través de la Dirección de Catastro, se reserva la facultad de revisar los avalúos practicados por la Instituciones de crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y con los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente;
 
 > <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
 
-III.- Para los bienes que se permutan, cuando los valores resulten iguales, servirá de base el valor de cualesquiera de ellos.
+III.- Para los bienes que se permutan, cuando los valores resulten iguales, servirá de base el valor de cualesquiera de ellos;
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+IV.- Tratándose del usufructo y nuda propiedad, la base del impuesto será para cada caso, el 50% del valor determinado conforme a la fracción II anterior.
 
 ###### Artículo 189.
 
@@ -1915,9 +1951,13 @@ IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 V.- La partición de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que pro-indiviso correspondían a los sujetos;
 
-VI.- Cuando se trate de la trasmisión de derechos reales sobre inmuebles, distintos del de dominio o de copropiedad;
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-VII.- Los contratos traslativos de dominio que realicen las instituciones de beneficencia privada, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, El Instituto Promotor de la Vivienda Popular en el Estado de Sonora, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado al Servicio de la Federación y el Instituto Nacional del Desarrollo de la Comunidad, siempre y cuando los bienes a que se refieran se apliquen efectivamente al cumplimiento de los fines propios de dichas instituciones; y
+VI.- Cuando se trate de la transmisión de derechos reales sobre inmuebles distintos del de dominio, copropiedad del de usufructo;
+
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+VII.- La enajenación de bienes inmuebles que realicen las Instituciones de beneficencia privada, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, el Instituto de Desarrollo Urbano y Rural del Estado de Sonora, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado al Servicio de la Federación y el Instituto Nacional del Desarrollo de la Comunidad, siempre y cuando los bienes a que se refieren se apliquen efectivamente al cumplimiento de los fines propios de dichas Instituciones;
 
 VIII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -1959,9 +1999,9 @@ Cuando las operaciones se celebren fuera del Estado, sobre bienes situados dentr
 
 Es objeto del Impuesto la percepción de ingresos por concepto de:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-I.- Intereses provenientes de toda clase de actos, convenios o contratos celebrados entre particulares;
+I.- Intereses provenientes de toda clase de actos, convenios o contratos.
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -2805,15 +2845,13 @@ d).- En la operación traslativa de dominio y sacrificio
 
 de ganado caprino y ovino, por cabeza $2.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
-
 ###### Artículo 285.
 
-A cargo de los engordadores y para cubrir los gastos de servicio de clasificación de carnes, se cobrará, por cada kilo de carne en canal $0.10.
+(DEROGADO, B.O. 29 DE DICIEMBRE DE 1980)
 
 ###### Artículo 286.
 
-La Administración del rastro o planta empacadora en que se sacrifique el ganado procedente de corrales de engorda, actuará como retenedor de la contribución que antecede, exigiendo su pago antes de permitir la salida de carne de su establecimiento. Esta contribución solamente se causará por el sacrificio de ganado procedente de corrales de engorda y praderas irrigadas.
+(DEROGADO, B.O. 29 DE DICIEMBRE DE 1980)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -2869,7 +2907,7 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 Servicios por la Inscripción y Revalidación de Permisos para la fabricación y expendio de bebidas de bajo y alto contenido alcohólico y expedición de licencias eventuales
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
@@ -3015,123 +3053,125 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-### Capitulo Séptimo. Servicios por Registro de Documentos, Planos, Expedición de Pasaportes, Certificados, Permisos y Autorizaciones
+### Capitulo Séptimo. Servicios por Registro de Documentos, Planos, Certificados, Permisos y Autorizaciones
 
 ###### Artículo 302.
 
-Estos derechos se cubrirán y causarán por la inscripción y revalidación de permisos, y expedición de licencias eventuales, de acuerdo con su categoría y ubicación, en los términos siguientes:
+Estos derechos se cubrirán y causarán por la expedición y revalidación de permisos y de licencias eventuales, de acuerdo con su categoría y ubicación.
 
-I.- Almacenes, depósitos y expendios de vinos
+A.- El pago de los derechos por concepto de expedición, se causarán conforme a la siguiente tarifa:
 
-y licores, de $2,500.00 a $15,000.00
+I.- Licencias para la venta y/o consumo de
 
-II.- Cabarets, cantinas y fábricas de licores
+bebidas de alto contenido alcohólico, se
 
-en general, de $2,000.00 a $10,000.00
+pagará de $300,000.00 a $500,000.00
 
-III.- Expendios de vinos y licores anexos a
+Tratándose de:
 
-supermercados, de $2,000.00 a $8,000.00
+Restaurant, pagarán de $ 50,000.00 a $150,000.00
 
-IV.- Expendios en que solamente se enajenen
+II.- Licencias para la venta y/o consumo de
 
-bebidas tales como vermouth, aperitales,
+bebidas de bajo contenido alcohólico se
 
-anisados, vinos generosos, cremas, sidras,
+pagará de $150,000.00 a $250,000.00
 
-vinos de uva para mesa, tintos, rosados
+Tratándose de:
 
-y blancos de $2,000.00 a $6,000. 00
+Restaurant, pagarán de $50,000.00 a $150,000.00
 
-V.- Cantinas en que solamente se expendan
+Abarrotes y Supermercados pagarán de
 
-bebidas tales como vermouth, aperitales,
+$2,500.00 a $40,000.00
 
-anisados, vinos generosos, cremas, sidras,
+III.- Licencias para la venta y/o consumo de
 
-vinos de uva para mesa, tintos, rosados
+bebidas de bajo y alto contenido alcohólico,
 
-y blancos de $2,000.00 a $8,000.00
+por cambio de domicilio, pagarán de $5,000.00 a $50,000.00
 
-VI.- Cantinas anexas a restaurantes, que
+IV.- Licencias eventuales para la venta y/o
 
-expendan bebidas tales como vermouth,
+consumo de bebidas de alto y bajo contenido
 
-aperitales, anisados, vinos generosos,
+alcohólico, se pagará por día, previamente
 
-cremas, sidras, vinos de uva para mesa,
+a su otorgamiento, de $400.00 a $15,000.00
 
-tintos, rosados y blancos de $2,000.00 a $6,000.00
+B.- Los derechos por concepto de revalidación, se cubrirán conforme a las especificaciones y tarifas siguientes:
 
-VII.- Venta de vinos y licores en restaurantes,
+I.- Fábricas, envasamiento y distribución de
 
-de $3,000.00 a $10,000.00
+alcohol, aguardiente y vinos y licores,
 
-VIII.- Cantinas anexas a restaurantes,
+de $10,000.00 a $25,000.00
 
-de $3,000.00 a $10,000.00
+II.- Porteadores de vino y licores de $3,000.00 a $6,000.00
 
-IX.- Venta de vino de mesa en restaurantes,
+III.- Almacenes o depósitos, expendios, cantinas,
 
-que expendan bebidas tales como Vermouth,
+cabarets y venta y/o consumo de vinos y licores,
 
-aperitales, anisados, vinos generosos, cremas,
+de $10,000.00 a $30,000.00
 
-sidras, vinos de uva para mesa, tintos,
+IV.- Venta de vinos de mesa en restaurantes,
 
-rosados y blancos, de $2,000.00 a $6,000.00
+tales como vermouth, aperitales, anisados, vinos
 
-X.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
+generosos, cremas, sidras, vinos de uva para
 
-XI.- Los expendios, almacenes y depósitos de
+mesa, tintos, rosados y blancos, de $6,000.00 a $15,000.00
 
-bebidas de bajo contenido alcohólico, etc., así
+V.- Venta y/o consumo de vinos y licores en
 
-como fábricas de cerveza pagarán,
+establecimientos para eventos sociales,
 
-de $1,000.00 a $5,000.00
+Clubes de servicio, sociedades mutualistas
 
-XII.- Los expendios exclusivamente de bebidas
+y recreativas, de $6,000.00 a $15,000.00
 
-de bajo contenido alcohólico, anexos a
+VI.- Fábricas, almacenes, agencias y sub´agencias
 
-restaurantes, refresquerías y billares, etc.,
+distribuidoras y despachos o depósitos, de bebidas
 
-de $1,000.00 a $5,000.00
+de bajo contenido alcohólico, de $6,000.00 a $15,000.00
 
-XIII.- Venta exclusivamente de bebidas de
+VII.- Venta de bebidas de bajo contenido
 
-bajo contenido alcohólico en restaurantes,
+alcohólico en supermercados, ultramarinos
 
-de $500.00 a $2,000.00
+y similares, boliches, billares y similares,
 
-XIV.- Venta de bebidas de bajo contenido
+Clubes y casinos, de $4,000.00 a $10,000.00
 
-alcohólico en envase cerrado, en abarrotes
+VIII.- Venta de bebidas de bajo contenido
 
-y supermercados de $500.00 a $2,000.00
+alcohólico en envase cerrado, en abarrotes,
 
-XV.- Por la expedición o inscripción de licencias
+de $2,000.00 a $10,000.00
 
-para la venta y consumo de bebidas de alto y
+IX.- Cervecería, de $3,000.00 a $10,000.00
 
-bajo contenido alcohólico, se pagará
+X.- Venta y/o consumo de bebidas de bajo
 
-de $10,000.00 a $100,000.00
+contenido alcohólico en restaurantes, salones
 
-Tratándose de abarrotes y supermercados
+de baile y establecimientos para los eventos
 
-pagarán de $1,000.00 a $10,000.00
+sociales, clubes de servicio, sociedades mutualistas
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 1980)</small>
+y recreativas, de $2,000.00 a $10,000.00
 
-XVI.- Por la expedición de licencias eventuales
+XI.- Venta de bebidas de bajo contenido
 
-para la venta y consumo de bebidas de alto y bajo
+alcohólico en cabarets, de $5,000.00 a $10,000.00
 
-contenido alcohólico, se pagará por día,
+XII.- Venta de bebidas de bajo contenido
 
-previamente a su otorgamiento de $200.00 a $10,000.00.
+alcohólico en discotecas y centros
+
+nocturnos, de $10,000.00 a $30,000.00
 
 ###### Artículo 303.
 
@@ -3185,6 +3225,12 @@ a).- Registro de marcas $50.00
 
 b).- Revalidación de marcas 25.00
 
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+III.- Por clasificación de carnes, a cargo de los engordadores, se cobrará por cada kilo de carne en canal $0.13.
+
+La administración del rastro o plantas empacadoras en que se sacrifique el ganado, actuará como retenedora de estos derechos, exigiendo su pago antes de permitir la salida de carne de su establecimiento, excepto tratándose de miembros de la Unión de Engordadores, la que será responsable solidaria y por lo tanto obligada a retener y enterar dicha transportación. Estos derechos sólo se causarán por el sacrificio de ganado procedente de corrales de engorda y praderas irrigadas y deberán enterarse por los retenedores dentro de los 15 primeros días del mes siguiente a la prestación del servicio.
+
 ### Capítulo Noveno. Servicios por Registro de Automóviles, Licencias para Manejar y Resellos
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
@@ -3217,7 +3263,7 @@ del punto anterior, por cada prórroga 200.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 309.
 
@@ -3250,6 +3296,8 @@ estudiantes, sin adicionales $20.00
 del Estado, de actas de nacimiento exclusivamente
 
 cuando se trate de estudiantes, sin adicionales $30.00
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
@@ -3295,9 +3343,7 @@ en adelante 500.00
 
 5.- Por expedición de permisos para portar armas 500.00
 
-> <small>(REFORMADO, B.O. 17 DE AGOSTO DE 1977)</small>
-
-6.- Por expedición de pasaportes 400.00
+6.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 1980)
 
 7.- Expedición de certificados de necesidad para
 
@@ -3307,37 +3353,61 @@ la adquisición de bienes inmuebles 150.00
 
 penales. Por cada uno 50.00
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
 9.- Expedición de certificados de no adeudo y otros,
 
-por cada hoja 30.00
+por cada hoja 100.00
 
-10.- Expedición de copias certificadas, por cada hoja 30.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-11.- Por expedición de certificados catastrales 30.00
+10.- Expedición de copias certificadas, por cada hoja 100.00
 
-12.- Por deslinde, rectificación o aclaración de
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-linderos catastrales en zonas urbanas 200.00
+11.- Por expedición de certificados catastrales 100.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
+12.- por deslinde, rectificación o aclaración de linderos catastrales en:
+
+Zonas urbanas, hasta 1,000 m2 $300.00
+
+De 1,001 a 2,500 m2 $600.00
+
+De 2,501 en adelante $0.30 por m2.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 13.- Por expedición de copias de planos de población.
 
-Por cada copia 150.00
+Por cada copia $500.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 14.- Por expedición de copias de planos de valores
 
-de calles. Por cada una 200.00
+de calles. Por cada una $2,000.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 15.- Por expedición de copias de tablas sobre valores
 
-de construcción. Por cada una 200.00
+de construcción. Por cada una $1,000.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 16.- Por expedición y certificación de planos por la
 
-Dirección de Catastro 30.00
+Dirección de Catastro $250.00
+
+mas $25.00 por centímetro cuadrado.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
 17.- Por expedición de copias heliográficas por la
 
-Dirección de Catastro de $5.00 a 30.00
+Dirección de Catastro, de $5.00 a $500.00
 
 18.- Autorizaciones para exhumación y traslado
 
@@ -3511,13 +3581,15 @@ días o fracción 25.00
 
 Los derechos por registro de motocicletas y motonetas; permisos provisionales para transitar sin placas; reposición de tarjetas de circulación y de licencias de manejar, sujetos al régimen Fiscal previsto en las Leyes y Reglamentos Locales, se cobrarán con sujeción a las siguientes tarifas:
 
-I (sic).- Las placas para motocicletas y motonetas
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-que sean solicitadas dentro de los primeros nueve
+1.- Las placas y/o calcomanías de revalidación para
 
-meses del año $50.00
+motoclicletas y motonetas que sean solicitadas
 
-Las solicitudes en los tres últimos meses del año 30.00
+dentro de los primeros nueve meses del año $100.00
+
+Las solicitadas en los tres últimos meses del año $50.00
 
 2.- Permiso para la circulación de automóviles o
 
@@ -3547,91 +3619,123 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 ###### Artículo 320.
 
-Los derechos por los servicios en materia de autotransportes, prestados a los particulares por la Dependencia respectiva, se causarán conforme a las especificaciones y tarifas siguientes:
+Los servicios de la Dirección de Autotransportes en el Estado que presten a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+1.- Por el otorgamiento de concesión estatal
 
-1.- Por el otorgamiento de concesiones Estatales
+para el servicio público de autotransportes
 
-para el servicio público de Autotransportes de
+en la modalidad de pasaje, por unidad $10,000.00
 
-pasajeros $6,000.00
+2.- Por el otorgamiento de concesión estatal
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+para el servicio público de autotransportes
 
-2.- Por el otorgamiento de concesiones Estatales para
+en la modalidad de carga, por unidad $5,000.00
 
-el servicio público de carga 3,000.00
+3.- Por el otorgamiento de concesión estatal
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+para el servicio público de autotransportes en la
 
-3.- Por el otorgamiento de concesiones para el
+modalidad de mixto (carga liviana y pasajeros),
 
-servicio público mixto (carga y pasajeros) 8,500.00
+por unidad $12,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+4.- Por revisión anual de las concesiones del servicio
 
-4.- Por la revalidación anual de las concesiones de
+público de autotransportes en las tres modalidades:
 
-servicio público de pasajeros 2,000.00
+a).- Pasaje, por unidad $1,500.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+b).- Carga, por unidad $500.00
 
-5.- Por la revalidación anual de las concesiones de
+c).- Mixto, por unidad $2,000.00
 
-servicio público de carga 1,000.00
+5.- Por la expedición de permisos temporales para la
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+explotación del servicio público de Autotransportes:
 
-6.- Por la revalidación anual de las concesiones
+a).- Pasaje, por unidad $2,000.00
 
-Estatales para servicio público mixto 2,500.00
+b).- Carga, por unidad $2,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+c).- Mixto, por unidad $2,000.00
 
-7.- Por la expedición de permisos temporales de
+6.- Por autorización de vehículos de emergencia
 
-servicio público de pasajeros, de carga o mixtos 1,500.00
+para los concesionarios:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+a).- Pasaje, por unidad $1,000.00
 
-8.- Por autorización de vehículos de emergencia
+b).- Carga, por unidad $1,000.00
 
-para los concesionarios de pasajeros, por unidad 1,500.00
+c).- Mixto, por unidad $1,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+7.- Por autorización de Altas y Bajas de unidades
 
-9.- Por autorización de vehículos de emergencia
+concesionadas en las tres modalidades, por unidad $750.00
 
-para los concesionarios de carga, por unidad 500.00
+8.- Por estudios que realice el Departamento Técnico
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+a solicitud de particulares para determinar las
 
-10.- Por autorización de vehículos de emergencia
+necesidades del servicio público de Autotransportes
 
-para los concesionarios mixtos, por unidad 1,500.00
+en las tres modalidades $20,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+9.- En las ampliaciones de ruta en las tres modalidades:
 
-11.- Por autorización de altas y bajas de unidades
+I.- Pasaje
 
-concesionadas, por unidad 750.00
+a).- Que exceda del 50% de kilometraje que tenga
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+autorizado en la concesión, por unidad $10,000.00
 
-12.- Por estudios realizados a solicitud de particulares
+b).- Que sea menos del 50% del kilometraje
 
-para determinar las necesidades del servicio público de
+autorizado en la concesión, por unidad $5,000.00
 
-pasajeros, de carga o mixtos 15,000.00
+II.- Carga
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+a).- Que exceda del 50% del radio de acción
 
-13.- Por estudios y autorización en su caso de aumento
+autorizado en la concesión $5,000.00
 
-de tarifas para vehículos concesionados 7,500.00
+b).- Que sea menos del 50% del radio de acción
 
-14.- Otros de $1,000.00 a $10,000.00
+autorizado en la concesión, por unidad $2,500.00
+
+III.- Mixto
+
+a).- Que exceda del 50% del kilometraje autorizado
+
+en la concesión, por unidad $12,000.00
+
+b).- Que sea menos del 50% del kilometraje autorizado
+
+en la concesión, por unidad $6,000.00
+
+10.- Por autorización de permisos particulares de
+
+Autotransportes por unidad:
+
+a).- Personas físicas $3,000.00
+
+b).- Personas morales, por unidad $5,000.00
+
+11.- Por revisión de permisos particulares, por unidad:
+
+a).- Personas físicas $1,000.00
+
+b).- Personas morales $1,000.00
+
+12.- Por autorización y explotación a centrales y
+
+terminales camioneras $25,000.00
+
+13.- Por estudio y autorización en su caso de aumento
+
+de tarifas para vehículos concesionados $7,500.00
 
 ### Capítulo Unico
 
@@ -3791,9 +3895,9 @@ Independientemente de la tarifa anterior, se cubrirá (sic)
 
 en forma adicional las siguientes cuotas en cada caso:
 
-a) En zona urbana residencial jardinada, por cada
+a) En zona urbana residencial jardinada, por
 
-lote $50.00
+cada lote $50.00
 
 b) En las zonas populares 25.00
 
@@ -3801,13 +3905,15 @@ c) Zona industrial 75.00
 
 d) Zona campestre o rústica 100.00
 
-12.- Los créditos hipotecarios, reconocimientos de
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
 
-adeudo, refaccionarios, habilitación o avíos, fianzas
+12.- Los créditos hipotecarios, reconocimientos (sic)
 
-celebradas entre particulares, sobre el importe de
+de adeudos, refaccionarios, habilitación o avíos,
 
-la operación 5 al millar
+hipotecas y fianzas celebradas entre particulares,
+
+sobre el importe de la operación 5 al millar
 
 13.- Todos los documentos o títulos públicos o privados
 
@@ -3909,11 +4015,13 @@ sacadas del libro o legajo, primera hoja 50.00
 
 Por las siguientes 25.00
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
 27.- Expedición de copias simples,
 
-Primera $40.00
+Primera hoja $40.00
 
-Por las siguientes $20.00
+Por cada una de las siguientes $20.00
 
 28.- Expedición de certificados de libertad o de
 
@@ -3965,9 +4073,11 @@ importe que corresponda 0.25%
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+
 ###### Artículo 323.
 
-Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, de la Federación y el Instituto Promotor de la Vivienda Popular en el Estado.
+Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, de la Federación y el instituto de Desarrollo Urbano y Rural del Estado de sonora.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4180,3 +4290,11 @@ UNICO.- Esta ley entrará en vigor a partir del día siguiente de su publicació
 B.O. 14 DE JULIO DE 1980.
 
 UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1980.
+
+PRIMERO: Esta Ley entrará en vigor en todo el Estado, el día 1o. de Enero de 1981, previa su publicación en el Boletín Oficial del Estado.
+
+SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y ediciones a que esta ley se refiere, quedan sin efecto, las disposiciones administrativas, resoluciones, consultas, interposiciones, autorizaciones o permisos de carácter general a que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en dichas reformas, supresiones o adiciones.
+
+TERCERO: Los impuestos, derechos y contribuciones, causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
