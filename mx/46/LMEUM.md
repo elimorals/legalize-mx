@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1984-12-24"
+last_updated: "1986-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1986.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,29 +54,53 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1986)</small>
 
-b). Las monedas metálicas de doscientos, cien, cincuenta, veinte, diez, cinco, dos y un pesos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
+b). Las monedas metálicas de quinientos, cien, cincuenta, veinte, diez, cinco y un pesos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1986)</small>
 
-c).- Las monedas metálicas conmemorativas de acontecimientos de importancia nacional, en oro, en plata o en metales industriales, con los diámetros, leyes o composiciones metálicas, pesos, cuños y demás características que señalen los decretos relativos.
+c). Las monedas metálicas conmemorativas de acontecimientos de importancia nacional, en platino, en oro, en plata o en metales industriales, con los diámetros, leyes o composiciones metálicas, pesos, cuños y demás características que señalen los decretos relativos.
 
 d). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
 e). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 2o.
 
-Los productos líquidos de la acuñación hecha en los términos del artículo tercero transitorio de la Ley de 9 de marzo de 1932, que reformó la Ley Monetaria, así como el oro en barras o amonedado que ha sido adquirido con dichos fondos, y entregado al Banco de México, se aplicarán íntegramente a la Reserva Monetaria.
+bis.- También formarán parte del sistema las monedas metálicas acuñadas en platino, en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos.
 
-D.O.F. 6 DE MARZO DE 1935.
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
 
-ARTICULO TRANSITORIO.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el "Diario Oficial".
+Estas monedas:
 
-D.O.F. 27 DE ABRIL DE 1935.
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1980)</small>
+
+I.- Gozarán de curso legal por el equivalente en pesos de su cotización diaria;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1980)</small>
+
+II.- No tendrán valor nominal;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1980)</small>
+
+III.- Expresarán su contenido de metal fino; y
+
+(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 23 DE MARZO DE 1982)
+
+IV.- Tendrán poder liberatorio referido exclusivamente al pago de las obligaciones mencionadas en el segundo párrafo del artículo 7o. Dicho poder liberatorio será ilimitado en cuanto al número de piezas a entregar en un mismo pago.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
+
+El Banco de México determinará diariamente la cotización de estas monedas, con base en el precio internacional del metal fino contenido en ellas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
+
+El Banco de México, directamente o a través de sus corresponsales, estará obligado a recibir ilimitadamente estas monedas, a su valor de cotización, entregando a cambio de ellas billetes y monedas metálicas de los mencionados en el artículo 2o. de esta ley.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 3o.
 
@@ -113,6 +137,14 @@ No obstante, si el deudor demuestra que recibió del acreedor monedas de las men
 ###### ARTICULO 8°.
 
 La moneda extranjera no tendrá curso legal en la República, salvo en los casos en que la Ley expresamente determine otra cosa. Las obligaciones de pago en moneda extranjera contraídas dentro o fuera de la República para ser cumplidas en ésta, se solventarán entregando el equivalente en moneda nacional, al tipo de cambio que rija en el lugar y fecha en que se haga el pago.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1986)</small>
+
+Este tipo de cambio se determinará conforme a las disposiciones que para esos efectos expida el Banco de México en los términos de su Ley Orgánica.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1986)</small>
+
+Los pagos en moneda extranjera originados en situaciones o transferencias de fondos desde el exterior, que se lleven a cabo a través del Banco de México o de Instituciones de Crédito, deberán ser cumplidos entregando la moneda, objeto de dicha transferencia o situación. Ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de Control de Cambios en vigor.
 
 ###### ARTICULO 9°.
 
@@ -262,25 +294,7 @@ Desde la fecha en que entre en vigor la presente ley, se suspenderá indefinidam
 
 ###### ARTICULO 2°.
 
-bis.- También formarán parte del sistema, las monedas metálicas, acuñadas en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos.
-
-Estas monedas:
-
-I.- Gozarán de curso legal por el equivalente en pesos de su cotización diaria;
-
-II.- No tendrán valor nominal;
-
-III.- Expresarán su contenido de metal fino; y
-
-(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 23 DE MARZO DE 1982)
-
-IV.- Tendrán poder liberatorio referido exclusivamente al pago de las obligaciones mencionadas en el segundo párrafo del artículo 7o. Dicho poder liberatorio será ilimitado en cuanto al número de piezas a entregar en un mismo pago.
-
-El Banco de México determinará diariamente la cotización de estas monedas, con base en el precio internacional del metal fino contenido en ellas.
-
-El Banco de México, directamente o a través de sus corresponsales, estará obligado a recibir ilimitadamente estas monedas, a su valor de cotización, entregando a cambio de ellas billetes y monedas metálicas de los mencionados en el artículo 2o. de esta ley.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1983)</small>
+Se declaran libres la exportación y la importación de oro acuñado o en pasta, quedando derogados, en consecuencia, los artículos 26 y 53 de la Ley de 19 de diciembre de 1929.
 
 ###### ARTICULO 3°.
 
@@ -394,9 +408,13 @@ Se deroga el artículo 17 de la Ley Monetaria de 25 de julio de 1931, y los art�
 
 ###### ARTICULO 2o.
 
-Las monedas a que se refiere el artículo que antecede, continuarán en circulación con el poder liberatorio que les fijó la ley que respectivamente las creó, en tanto las emisiones de las monedas que establece el presente decreto cubran las necesidades de la circulación. En su oportunidad se fijarán las fechas en que las referidas monedas deban quedar retiradas de la circulación.
+Los productos líquidos de la acuñación hecha en los términos del artículo tercero transitorio de la Ley de 9 de marzo de 1932, que reformó la Ley Monetaria, así como el oro en barras o amonedado que ha sido adquirido con dichos fondos, y entregado al Banco de México, se aplicarán íntegramente a la Reserva Monetaria.
 
-El Banco de México, S. A. y sus Sucursales, las Oficinas Federales de Hacienda y las de Correos y Telégrafos Nacionales canjearán sin limitación alguna, a la par, las antiguas monedas por las que en substitución de ellas establece el presente decreto.
+D.O.F. 6 DE MARZO DE 1935.
+
+ARTICULO TRANSITORIO.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 1°.
 
@@ -408,7 +426,11 @@ Sin embargo, durante los treinta días siguientes a la fecha de publicación de 
 
 ###### ARTICULO 2°.
 
-Se declaran libres la exportación y la importación de oro acuñado o en pasta, quedando derogados, en consecuencia, los artículos 26 y 53 de la Ley de 19 de diciembre de 1929.
+El Banco de México y sus sucursales, las Oficinas Federales de Hacienda y las de Correos y Telégrafos, canjearán sin limitación alguna, a la par, las antiguas monedas, por las que en substitución de ellas establece esta ley.
+
+Al efecto, las oficinas públicas y las instituciones de crédito, entregarán desde luego, al Banco de México, no obstante el plazo de un mes señalado en el párrafo segundo del artículo 1°. transitorio, todas sus existencias en antiguas monedas de plata, recibiendo en cambio los billetes y monedas fraccionarias respectivas. Los depósitos constituídos en las instituciones de crédito, en caja, saco o sobre cerrado, con posterioridad al día quince de febrero del presente año, quedarán sujetos a la obligación de canje establecida en este precepto.
+
+Todas las antiguas monedas que dentro del plazo de treinta días citado reciban las oficinas públicas y las instituciones de crédito, las entregarán desde luego, en canje, al Banco de México.
 
 ###### ARTICULO 3°.
 
@@ -512,11 +534,7 @@ Desde la fecha en que entre en vigor el presente decreto, se suspenderá indefin
 
 ###### ARTICULO 2°.
 
-El Banco de México y sus sucursales, las Oficinas Federales de Hacienda y las de Correos y Telégrafos, canjearán sin limitación alguna, a la par, las antiguas monedas, por las que en substitución de ellas establece esta ley.
-
-Al efecto, las oficinas públicas y las instituciones de crédito, entregarán desde luego, al Banco de México, no obstante el plazo de un mes señalado en el párrafo segundo del artículo 1°. transitorio, todas sus existencias en antiguas monedas de plata, recibiendo en cambio los billetes y monedas fraccionarias respectivas. Los depósitos constituídos en las instituciones de crédito, en caja, saco o sobre cerrado, con posterioridad al día quince de febrero del presente año, quedarán sujetos a la obligación de canje establecida en este precepto.
-
-Todas las antiguas monedas que dentro del plazo de treinta días citado reciban las oficinas públicas y las instituciones de crédito, las entregarán desde luego, en canje, al Banco de México.
+Se autoriza hasta el treinta y uno de marzo de mil novecientos cuarenta y tres, la circulación provisional de las monedas a que se refiere el artículo anterior. El Banco de México quedará obligado a cambiar las monedas a que alude el artículo anterior por monedas de otras denominaciones, durante el plazo indicado. Después de esa fecha tales monedas quedarán privadas de todo poder liberatorio legal.
 
 ###### ARTICULO 3°.
 
@@ -600,10 +618,6 @@ Desde la fecha en que entre en vigor el presente Decreto dejarán de acuñarse l
 
 Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
 
-###### ARTICULO 2°.
-
-Se autoriza hasta el treinta y uno de marzo de mil novecientos cuarenta y tres, la circulación provisional de las monedas a que se refiere el artículo anterior. El Banco de México quedará obligado a cambiar las monedas a que alude el artículo anterior por monedas de otras denominaciones, durante el plazo indicado. Después de esa fecha tales monedas quedarán privadas de todo poder liberatorio legal.
-
 ###### ARTICULO 3°.
 
 Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
@@ -615,6 +629,12 @@ D.O.F. 15 DE SEPTIEMBRE DE 1955.
 Se abrogan: a).- El decreto de 28 de diciembre de 1942, publicado en el "Diario Oficial" de la Federación de 31 de diciembre del mismo año, en el que se establecieron las características de las monedas de latón de cinco centavos; b) el decreto de 3 de agosto de 1943, publicado en el mencionado "Diario Oficial" de 10 de agosto del mismo año, en el que se establecieron las características de las monedas de latón de veinte centavos; c) el decreto de 29 de diciembre de 1949, publicado en el citado diario del día 30 de diciembre del mismo año, en el que se establecieron las características de las monedas de plata de un peso, cincuenta y veinticinco centavos, de las de cuproníquel de diez y cinco centavos y de las de latón de dos y un centavo; y d) el decreto de 27 de octubre de 1950 publicado en el referido "Diario Oficial" de 24 de noviembre de 1950 que estableció las características de las monedas de plata de cinco pesos. Se derogan las demás disposiciones que se opongan al presente decreto.
 
 Consiguientemente, desde la fecha en que entre en vigor el presente decreto, dejarán de acuñarse las monedas a que se refieren los decretos que se abrogan en el presente artículo transitorio.
+
+###### ARTICULO 2o.
+
+Las monedas a que se refiere el artículo que antecede, continuarán en circulación con el poder liberatorio que les fijó la ley que respectivamente las creó, en tanto las emisiones de las monedas que establece el presente decreto cubran las necesidades de la circulación. En su oportunidad se fijarán las fechas en que las referidas monedas deban quedar retiradas de la circulación.
+
+El Banco de México, S. A. y sus Sucursales, las Oficinas Federales de Hacienda y las de Correos y Telégrafos Nacionales canjearán sin limitación alguna, a la par, las antiguas monedas por las que en substitución de ellas establece el presente decreto.
 
 ###### ARTICULO 3o.
 
@@ -717,3 +737,9 @@ D.O.F. 24 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE ENERO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
