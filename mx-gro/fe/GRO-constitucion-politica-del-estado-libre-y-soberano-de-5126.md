@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1922-06-10"
+last_updated: "1923-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1923.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -269,7 +269,7 @@ Por cada Distrito electoral se elegirá un Diputado propietario y un suplente. P
 
 ###### Artículo 27.
 
-Para ser Diputado se requiere, ser ciudadano del Estado, estar en el goce de sus derechos, tener la instrucción primaria elemental y superior, no ser menor de 21 años de edad, ser nativo del Distrito que le elija y haber residido en él cuando menos un año inmediatamente anterior a la fecha de la elección.
+Para ser Diputado se requiere: ser ciudadano del Estado y mexicano por nacimiento; estar en el goce de sus derechos; tener la Instrucción Primaria Elemental y la Superior; no ser menor de 21 años de edad; ser nativo del Distrito que lo elija y haber residido en él, cuando menos, un año inmediatamente anterior a la fecha de la elección.
 
 ###### Artículo 28.
 
@@ -317,9 +317,11 @@ Los Diputados, durante el periodo de sus funciones, no podrán desempeñar ningu
 
 Para la instalación del Congreso tendrán lugar previamente las juntas preparatorias que sean necesarias las cuales detallará su Reglamento interior.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la instrucción pública.
+Disposiciones varias.
+
+De la Hacienda Pública y de su Administración.
 
 ###### Artículo 35.
 
@@ -335,19 +337,17 @@ Habrá en cada año dos periodos de sesiones ordinarias. El primero comenzará e
 
 En caso de que por alguna circunstancia imprevista no pudieren abrirse o cerrarse las sesiones en los días señalados, tendrán verificativo estos actos en la fecha que respectivamente acuerden los Diputados.
 
-### CAPITULO IV (SIC).
+### CAPITULO II.
 
-Prevenciones Generales.
+De la instrucción pública.
 
 ###### Artículo 38.
 
 El Reglamento interior de la Cámara señalará las formalidades con que deben celebrarse la apertura y clausura de las sesiones.
 
-### CAPITULO UNICO.
+### CAPITULO IV (SIC).
 
-De la responsabilidad de los funcionarios públicos del Estado.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+Prevenciones Generales.
 
 ###### Artículo 39.
 
@@ -365,13 +365,15 @@ Al acto de la apertura de las sesiones, sean ordinarias o extraordinarias, asist
 
 Las sesiones tanto ordinarias como extraordinarias, serán públicas; pero cuando se trate de negocios que exijan reserva, habrá secretas, de conformidad a lo que establece el Reglamento interior de la Cámara.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1923)</small>
+
 ## TITULO VI.
 
 ### CAPITULO I.
 
 ###### Artículo 43.
 
-Podrán asistir a las sesiones, entre los Diputados, los Magistrados, el Procurador del Tribunal Superior de Justicia, el Secretario de Gobierno y el Tesorero General; igualmente cuando a ello fuesen llamados por el Congreso. Harán uso de la palabra, como los Diputados; pero no tendrán voto.
+Podrán asistir a las sesiones entre los Diputados, los Magistrados del Tribunal Superior, el Procurador General de Justicia, el Secretario de Gobierno y el Tesorero General. Quedan obligados a asistir a dichas sesiones, estos Funcionarios, cuando para ello fueren llamados por el Congreso. Harán uso de la palabra, como los Diputados, pero no tendrán voto.
 
 ###### Artículo 44.
 
@@ -395,11 +397,15 @@ VI. Hacer la división territorial del Estado, y crear o suprimir dentro del mis
 
 VII. Dictar las leyes necesarias en el ramo de Instrucción Pública, y promover por todos los medios posibles la instrucción de las masas populares.
 
-VIII. Constituirse en Colegio Electoral para nombrar a los Magistrados y Procurador del Tribunal Superior de Justicia del Estado. Nombrar igualmente al Tesorero General del mismo a propuesta en terna del Ejecutivo.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+
+VIII. Constituirse en Colegio Electoral, para nombrar a los Magistrados del Tribunal Superior de Justicia y al Tesorero General del Estado a propuesta en terna del Ejecutivo, este último.
 
 IX. Recibir al Gobernador, así como a los funcionarios a que se refiere la fracción anterior, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ambas emanen.
 
-X. Resolver sobre las licencias o renuncias de los Diputados, Magistrados y Procurador del Tribunal Superior de Justicia y del Tesorero General.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+
+X. Resolver sobre las licencias no económicas o renuncias de los Diputados, Magistrados del Tribunal Superior de Justicia y del Tesorero General del Estado.
 
 XI. Conceder licencia al Gobernador cuando tenga que salir del Estado, o separarse temporalmente de su encargo.
 
@@ -471,15 +477,21 @@ III. Legislar en materias religiosas.
 
 IV. Usurpar las facultades de los Poderes Ejecutivo y Judicial, ni mezclarse en el ejercicio de las funciones que a ellos competen.
 
+### CAPITULO UNICO.
+
+De la responsabilidad de los funcionarios públicos del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+
 ###### Artículo 47.
 
 Las atribuciones de la Diputación Permanente son:
 
 I. Velar el cumplimiento de la Constitución y demás leyes, dando cuenta al Congreso, en su próximo periodo de sesiones ordinarias, de las infracciones que hubiere notado.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1922)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
 
-III (Sic). Ejercer en sus casos las facultades a que se refieren las fracciones IX, X, XI y XIV del artículo 45 de esta Constitución.
+II. Ejercer, en sus casos, las facultades a que se refieren las fracciones IX, X, XI, XIV y XIX, del artículo 45 de esta Constitución.
 
 III. Dictaminar sobre todos los asuntos que queden pendientes al cerrarse las sesiones, así como los nuevos que se presenten para que al reunirse el Congreso tenga desde luego en que ocuparse.
 
@@ -647,7 +659,9 @@ XIV. Mandar visitar los Ayuntamientos cuando notare irregularidades, faltas o gr
 
 Las visitas respectivas podrá encomendarlas a comisionados accidentales de reconocida justificación y probidad, los que se sujetarán en todo caso, a las instrucciones que por escrito les diere el Ejecutivo.
 
-XV. Nombrar y remover libremente al Secretario de Gobierno, y demás empleados que de él dependan.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+
+XV. Nombrar y remover libremente al Secretario de Gobierno, al Procurador General de Justicia, y a los demás empleados que de ambos dependan.
 
 XVI. Conceder o negar licencias a los funcionarios y empleados de su dependencia, con goce de sueldo las que se soliciten con causa justificada, y por término que no pase de dos meses.
 
@@ -723,17 +737,17 @@ III. Cuando fuere llamado por el Congreso para informar sobre algún negocio.
 
 El Secretario General en unión del Procurador General de Justicia, del Tesorero General, Juez de primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno; cuya Presidencia asumirá el primero. El Consejo dará dictamen al Gobernador siempre que éste lo pida, procurando fundarlo en la Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1922)</small>
-
-Artículo 75 bis. El Ministerio Público es una institución que tiene por objeto velar por la exacta observancia de las leyes de interés general. Deberá ejercitar las acciones que correspondan contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección. Estará a cargo de un Procurador General y los Agentes que designe la ley respectiva.
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 1923)</small>
 
 ###### Artículo 76.
 
 La justicia se administra en nombre del Estado. El Poder Judicial reside en un Tribunal Superior de Justicia, y en los demás tribunales inferiores que esta Constitución establece; siendo facultad exclusiva de dicho Poder la aplicación de la ley en todos los negocios de su competencia.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1923)</small>
+
 ###### Artículo 77.
 
-El Tribunal Superior se compone de tres Magistrados Propietarios y un Procurador de Justicia, y cuatro Magistrados Supernumerarios para cubrir las faltas de los propietarios lo mismo que las del Procurador. La duración de los funcionarios del Poder Judicial será de cuatro años, excepto la de los Jueces menores.
+El Tribunal Superior de Justicia se compone de tres Magistrados Propietarios y de tres Supernumerarios, para cubrir las faltas temporales de los propietarios. La duración de los Funcionarios del Poder Judicial será de cuatro años, excepto la de los Jueces menores.
 
 ###### Artículo 78.
 
@@ -741,7 +755,9 @@ Corresponde al Tribunal Superior de Justicia:
 
 I. Iniciar ante la Legislatura las leyes y decretos que tengan por objeto mejorar la legislación civil, penal y de procedimientos Judiciales.
 
-II. Conocer como jurado de sentencia de las causas de responsabilidad que hubieren de formarse por delitos oficiales a los diputados, al Gobernador, a los miembros del Tribunal y al Secretario de Gobierno.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+
+II. Conocer, como Jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales, a los Diputados, al Gobernador, a los Magistrados, al Secretario de Gobierno y al Procurador de Justicia.
 
 III. Nombrar los Jueces de primera instancia, resolver sobre sus licencias y renuncias para separarse del despacho.
 
@@ -755,9 +771,11 @@ VI. Formar su Reglamento interior.
 
 El Tribunal Superior de Justicia se divide en tres Salas. Sus atribuciones, ya sean las de Tribunal pleno o las de sus Salas, así como las de los Tribunales inferiores, serán las que señalen las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 1923)</small>
+
 ###### Artículo 80.
 
-Para ser Magistrado o Procurador del Tribunal Superior de Justicia, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
 I. Ser Ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
 
@@ -769,11 +787,15 @@ IV. No tener empleo, cargo o comisión de otros Estados, ni de la Federación, o
 
 V. Tener título profesional de abogado expedido conforme a la ley.
 
-VI. Haber ejercido la profesión cuando menos cinco años.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1923)</small>
+
+VI. Haber ejercido la profesión, cuando menos cinco años, a contar de la fecha de su recepción o de su título.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1923)</small>
 
 ###### Artículo 81.
 
-Los Magistrados propietarios y Supernumerarios y el Procurador del Tribunal Superior de Justicia, serán nombrados por el Congreso, constituido en Colegio Electoral.
+Los Magistrados Propietarios y Supernumerarios del Tribunal Superior de Justicia, serán nombrados por el Congreso, constituido en Colegio Electoral.
 
 ###### Artículo 82.
 
@@ -819,11 +841,13 @@ La glosa de las cuentas de todas las Oficinas de Hacienda del Estado y de los Mu
 
 El Ejecutivo cuidará de que la fianza con que el Tesorero General caucione su manejo, se remita al Congreso para su conocimiento.
 
-### CAPITULO I.
+### CAPITULO III.
 
-Disposiciones varias.
+Del Ministerio Público.
 
-De la Hacienda Pública y de su Administración.
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1922)</small>
+
+Artículo 75 bis. El Ministerio Público es una institución que tiene por objeto velar por la exacta observancia de las leyes de interés general. Deberá ejercitar las acciones que correspondan contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección. Estará a cargo de un Procurador General y los Agentes que designe la ley respectiva.
 
 ###### Artículo 92.
 
@@ -947,6 +971,8 @@ De los Distritos.
 
 Cualidades, requisitos y prerrogativas de los Diputados.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1923)</small>
+
 ### CAPITULO III.
 
 Instalación, ejercicio, receso y renovación del Congreso.
@@ -1014,3 +1040,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 10 DE JUNIO DE 1922.
 
 Las anteriores adiciones y reformas a la Constitución, serán publicadas desde luego con la solemnidad debida en todas las poblaciones del Estado.
+
+P.O. 12 DE MAYO DE 1923.
+
+Las anteriores reformas a la Constitución Política local, serán publicadas con la solemnidad debida, en todas las poblaciones del Estado y entrarán desde luego en vigor.
