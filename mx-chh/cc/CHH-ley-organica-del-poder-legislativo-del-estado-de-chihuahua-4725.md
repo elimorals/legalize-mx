@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-05-05"
+last_updated: "1999-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -685,9 +685,9 @@ XI.- De Asuntos Fronterizos;
 
 XII.- De Participación Ciudadana;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
-XIII.- De Desarrollo Rural;
+XVIII.- De Atención a Personas con Discapacidad y Grupos Vulnerables;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1998)</small>
 
@@ -1542,3 +1542,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE MAYO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado dispondrá del término de 15 días a partir de la entrada a (sic) vigor del presente Decreto, a efecto de adecuar el reglamento respectivo en los términos ya señalados.
