@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-caminos-del-estado-de-durango-11465"
 country: "mx"
 rank: "ley"
 publication_date: "1930-03-09"
-last_updated: "1930-03-09"
+last_updated: "1997-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMINOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 9 de marzo de 1930.
 
@@ -43,9 +43,13 @@ CLASIFICACION.
 
 - Esta Ley solo se refiere a los caminos o carreteras locales o vecinales, entendiéndose por tales a los que unen un Pueblo con otro, un Municipio con otro o con la Capital del Estado, un centro industrial o agrícola con cualquier otro lugar, y en general todos aquellos que se construyan dentro del Estado y no sean de los comprendidos dentro de la Ley Federal de Caminos y Puentes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
 ###### Artículo 2o
 
-- En cada caso de los comprendidos en el artículo anterior, el Ejecutivo del Estado, previo el dictamen de las Juntas de Caminos, fijará la ruta de los caminos locales y vecinales.
+- En cada caso de los comprendidos en el artículo anterior, el Gobierno del Estado, a través de la Secretaría de Comunicaciones y Obras Púboicas, con la opinión del Ayuntamiento respectivo, otorgará la autorización correspondiente, la que contendrá la ruta de los caminos locales y vecinales.
+
+Para los efectos de esta Ley, se crean los Comités Pro-construcción de caminos y los Comités Pro-conservación de caminos, los cuales fungirán como auxiliares de la autoridad y estarán sujetos a lo dispuesto en la presente Ley, su reglamento y las leyes de la materia.
 
 ###### Artículo 3o
 
@@ -57,9 +61,11 @@ Urtículo (sic) 4o:- Se consideran como parte integrante de los caminos locales 
 
 - Cuando algún camino local o vecinal llegue a unirse con un camino de jurisdicción federal, el Ejecutivo del Estado celebrará con el Gobierno Federal los convenios que sean necesarios, de acuerdo con el artículo 6o. de la Ley Federal de Caminos y Puentes, para la construcción, conservación, reparación, la reglamentación del tráfico y la policía en el Camino de que se trate.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
 ###### Artículo 6o
 
-- Los caminos que construyan los Municipios o los particulares, quedarán sujetos a las disposiciones de la presente Ley.
+- Los caminos que construyan los particulares o los correspondientes Comités Pro-construcción de caminos, deberán ser autorizados por el Gobierno del Estado, atendiendo a lo que determinen las Leyes de la Materia.
 
 ###### Artículo 7o
 
@@ -101,9 +107,11 @@ EJECUCION DE LOS TRABAJOS.
 
 EXPLOTACION DE LOS CAMINOS LOCALES.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
 ###### Artículo 14
 
-- Para la construcción y explotación de los Caminos a que se refiere esta Ley, será necesaria la concesión correspondiente que otorgará el Ejecutivo del Estado con sujeción a los preceptos aquí contenidos y de acuerdo con las bases que determina el Reglamento.
+- Para la construcción y explotación de los caminos de saca de recursos naturales, será necesaria la concesión correspondiente, que otorgará el Gobierno del Estado con arreglo a la Ley, oyendo la opinión del Ayuntamiento correspondiente.
 
 ###### Artículo 15
 
@@ -117,9 +125,13 @@ EXPLOTACION DE LOS CAMINOS LOCALES.
 
 - Ninguna concesión para la construcción y explotación de un camino, constituirá monopolio, ni creará ventajas exclusivas indebidas a favor del concesionario, y solo en aquellos casos en que no se perjudique al público en general o alguna clase social, podrá estipularse en la concesión respectiva, que durante un plazo que no exceda de diez años, el Ejecutivo del Estado no autorizará la construcción de otro camino paralelo al ya concedido, dentro de una zona de la anchura de quinientos metros a ambos lados del camino.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+
 ###### Artículo 18
 
-- Para la construcción de caminos locales y vecinales, tanto los Municipios como el Estado, podrán prestar ayuda económica o material, siempre que el camino sea de interés general o regional y se destine al tráfico libre y gratuito.
+- Para la construcción y conservación de caminos locales y vecinales, tanto el Estado, como los Municipios, podrán prestar ayuda económica o material, siempre que el camino sea considerado en los términos de la Ley vigente, como de interés general o regional y se destine al tránsito libre y gratuito.
+
+Se autoriza el aprovechamiento de los apoyos otorgados a los Comites pro-construcción o Conservación de caminos, debiendo éstos ajustarse a lo que dicten las Leyes.
 
 ###### Artículo 19
 
@@ -202,3 +214,9 @@ TRANSITORIOS:
 Por tanto mando se imprima, publique, circule y comunique a quienes corresponda para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, a primero de marzo de mil novecientos treinta.- LIC. ALBERTO TERRONES BENITEZ.- El Secretario del Despacho, LIC. LIÉORIO ESPINOSA Y E.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación, en el Periódico Oficial del Gobierno del Estado.
