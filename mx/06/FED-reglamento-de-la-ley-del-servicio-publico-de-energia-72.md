@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-publico-de-energia-72"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-31"
-last_updated: "1997-07-25"
+last_updated: "2001-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-05-26"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2001.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 31 de mayo de 1993.
 
@@ -1215,7 +1215,13 @@ La Secretaría evaluará la mejor combinación de las opciones citadas que podr�
 
 A la convocatoria podrán responder los particulares en las modalidades de pequeña producción, producción independiente, cogeneración o autoabastecimiento. Cada particular podrá poner a disposición de la Comisión, según la modalidad de que se trate, toda su capacidad de generación o su capacidad excedente para satisfacer la totalidad de la capacidad de generación requerida o parte de ésta.
 
-Los permisionarios que tengan excedentes de capacidad de 20 MW o menos, podrán poner a disposición de la Comisión dicha capacidad fuera de las convocatorias, en los términos de la fracción II del artículo 135.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2001)</small>
+
+Los permisionarios que tengan excedentes de capacidad podrán poner a disposición de la Comisión la capacidad fuera de convocatoria, en los términos de la fracción II del artículo 135 y atendiendo lo previsto en el artículo 124.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
+
+Para los efectos del párrafo anterior se entenderá por excedente la capacidad sobrante del permisionario una vez satisfechas sus necesidades.
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
 
@@ -1337,7 +1343,17 @@ Para la adquisición de energía eléctrica para el servicio público, tanto en 
 
 I. Con los adjudicatarios de las convocatorias a que se refiere la sección anterior, se celebrarán convenios en los que se pacten compromisos de capacidad y se convengan, conforme a las reglas de despacho dispuestas por este Reglamento, las compras de energía;
 
-II. Con los permisionarios con excedentes de energía de 20 MW o menos, en los casos en que resulte conveniente, la Comisión podrá celebrar convenios en que se pacten compromisos de capacidad y adquisición de energía sujetos a las reglas de despacho, y
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2001)</small>
+
+II.- Con los permisionarios de autoabastecimiento y cogeneración, conforme a las metodologías que expida la Secretaría, según la modalidad que se trate, la Comisión podrá celebrar convenios en los que se pacten compromisos de capacidad y adquisición de energía sujetos a las reglas de despacho, atendiéndose a lo siguiente:
+
+a) Hasta por 20 MW cuando se trate de permisionarios de autoabastecimiento, siempre y cuando tengan una capacidad instalada total hasta de 40 MW;
+
+b) Hasta con el cincuenta por ciento de su capacidad total cuando se trate de permisionarios de autoabastecimiento, siempre y cuando tengan una capacidad instalada total superior a 40 MW, y
+
+c) Hasta la totalidad de la producción excedente de los permisionarios de cogeneración.
+
+El porcentaje que se establece en el inciso b) anterior podrá ser modificado por la Secretaría, conforme a las necesidades de energía que requiera la prestación del servicio público y al nivel de reserva de energía del Sistema Eléctrico Nacional.
 
 III. Con los demás permisionarios podrán celebrarse convenios en los que se acuerden las compras de energía según las reglas de despacho.
 
@@ -1346,6 +1362,18 @@ III. Con los demás permisionarios podrán celebrarse convenios en los que se ac
 Los convenios a que se refiere la fracción I se formalizarán dentro de un plazo de ciento ochenta días contados a partir de la fecha de comunicación del fallo. Este plazo podrá ampliarse hasta ciento veinte días adicionales a solicitud de la convocante por causas justificadas y previa opinión de la Secretaría.
 
 En el cumplimiento de dichos convenios la Comisión no gozará de privilegios o trato preferencial alguno fuera de los que la Ley y este Reglamento establecen.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
+
+La Comisión sólo podrá negarse a convenir con los permisionarios a que se refieren las fracciones II y III cuando las condiciones o términos que éstos ofrezcan no satisfagan los requisitos de los artículos 36 bis de la Ley y 124 de este reglamento, o cuando la prestación del servicio público de energía eléctrica no requiera de dichos excedentes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
+
+Los convenios a que se refieren las fracciones II y III de este artículo que celebre la Comisión con permisionarios que sean entidades de la Administración Pública Federal, o bien, personas morales de las que formen parte dichas entidades, se sujetarán a lo previsto por la Ley y este reglamento, en particular lo señalado por el artículo 126.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
+
+Los términos y condiciones de los convenios a que se refiere este artículo deberán celebrarse de manera equitativa y no discriminatoria para todos los permisionarios. Asimismo, se deberá atender lo dispuesto por el artículo 76 de este reglamento.
 
 ###### Artículo 136.
 
@@ -1741,13 +1769,19 @@ SEPTIMO. En las convocatorias que se publiquen para adiciones de capacidad dentr
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de mayo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe Armella.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Emilio Lozoya Thalmann.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+N. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 D.O.F. 19 DE MAYO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 25 DE JULIO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2001.
 
 ###### ARTÍCULO ÚNICO.
 
