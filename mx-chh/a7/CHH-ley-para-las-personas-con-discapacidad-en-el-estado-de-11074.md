@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-las-personas-con-discapacidad-en-el-estado-de-11074"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-30"
-last_updated: "2000-05-31"
+last_updated: "2004-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 24 DE JULIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de noviembre de 1996.
 
@@ -482,3 +484,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2004.
+
+PRIMERO.- Se abroga la Ley para las Personas con Discapacidad en el Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 96, del 30 de noviembre de 1996 y que entró en vigor el 1º de diciembre del mismo año.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo 28 que entrará en vigor al siguiente año a partir de la entrada en vigor de la presente Ley.
+
+TERCERO.- El Ejecutivo del Estado expedirá el Reglamento de la materia, en un plazo máximo de ciento ochenta días a partir de la entrada en vigor de esta ley.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente.
