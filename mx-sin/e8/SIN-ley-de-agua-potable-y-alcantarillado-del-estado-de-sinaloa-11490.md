@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1987-10-26"
+last_updated: "1993-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -97,7 +97,9 @@ Para consulta y asesoramiento, en materia de agua potable y alcantarillado, del 
 
 La Comisión Estatal de Agua Potable y Alcantarillado estará administrada por un Consejo Directivo que se integrará con un Presidente, un Secretario y hasta nueve Vocales Propietarios que deberán ser representantes de los sectores público, privado y social de la Entidad.
 
-El Presidente del Consejo Directivo será el Secretario de Desarrollo Urbano e Infraestructura del Gobierno del Estado, o quien lo sustituya en el cargo.
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
+
+El Presidente del consejo Directivo será el Secretario de Comunicaciones y Obras Públicas del Gobierno del Estado, o quien lo sustituye en el cargo.
 
 El Secretario del Consejo será el Vocal Ejecutivo de la propia Comisión.
 
@@ -1034,3 +1036,9 @@ El personal técnico y adminstrativo (sic) de las Juntas Intermunicipales, se in
 ###### ARTICULO SEXTO.
 
 Las resoluciones y acuerdos vigentes tomados por las Juntas Intermunicipales en sus jurisdicciones, continuarán con sus efectos en cuanto no se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
