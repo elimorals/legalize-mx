@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2004-10-25"
+last_updated: "2004-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -567,9 +567,9 @@ A los Diputados que no formen, no se inscriban o dejen de pertenecer a un Grupo 
 
 La Junta de Coordinación Política es el órgano de Gobierno del Congreso del Estado, encargado de vigilar el óptimo ejercicio de las funciones legislativas, políticas y administrativas. La Junta funcionará de manera colegiada y se integrará con los Coordinadores de los Grupos Legislativos y, en caso de no poder constituirse en Grupo Legislativo, el partido respectivo acreditará ante la Junta a un diputado con voz pero sin voto.
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2004)</small>
 
-El Coordinador del Grupo Legislativo que cuente con el mayor número de diputados en el Congreso será el presidente de la Junta por toda la Legislatura; si dos o más Grupos Legislativos se encuentran en esta situación, la responsabilidad de presidir la Junta se desempeñará sucesivamente por los Coordinadores de esos Grupos, por períodos legislativos equivalentes y en el orden que ellos determinen.
+El coordinador del Grupo Legislativo que cuente con la mayoría absoluta de diputados en el Congreso será el Presidente de la Junta por toda la Legislatura. Si ningún Grupo alcanzare la mayoría absoluta y dos partidos obtuvieren más de diez diputaciones por el principio de mayoría relativa cada uno, los coordinadores de sus Grupos Legislativos presidirán la Junta, por plazos equivalentes, en el orden que ellos acuerden.
 
 ###### Artículo 32.
 
@@ -1204,3 +1204,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 10 DE NOVIEMBRE DE 2004.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
