@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1997-10-09"
+last_updated: "1998-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3611,15 +3611,25 @@ TITULO DECIMOSEGUNDO.
 
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ### CAPITULO I.
 
-Atentados al pudor, estupro y violación.
+Abuso y hostigamiento sexual, estupro y violación.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
-241.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, ejecuta en ella un acto erótico sexual, sin el propósito directo e inmediato de llegar a la cópula, se le aplicará una pena de uno a tres años de prisión y multa de quince a cincuenta días de salario.
+241.- El abuso sexual consiste en el acto erótico sexual realizado, sin el propósito de llegar a la cópula, con persona menor de 12 años de edad o que no tenga la capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo o a quien se obligue a ejecutarlo, aplicándose a quien ejecute tales actos la pena de uno a cuatro años de prisión y multa de 50 a 150 días de salario mínimo general vigente en la zona.
 
-Si se hiciere uso de la violencia física o moral, la pena será de dos a seis años de prisión y multa de cincuenta a cien días de salario.
+Cuando el acto erótico sexual a que se refiere el párrafo anterior, se ejecute con cualquiera persona, sin el consentimiento de ésta, la pena será de uno a tres años de prisión y multa de quince a cincuenta días de salario mínimo general vigente en la zona.
+
+Si se hiciere uso de la violencia física o moral o participaren dos o más personas, la pena será de dos a siete años de prisión y multa de 150 a 300 días de salario mínimo general vigente en la zona.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+241 Bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de uno a tres años de prisión y multa hasta de cuarenta días de salario mínimo general vigente en la zona. Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el cargo le proporcione, se le destituirá de él. Será punible el hostigamiento sexual cuando se cause daño.
+
+Sólo se procederá contra el hostigador a petición de parte ofendida.
 
 242.- El atentado contra el pudor solo se castigará cuando se haya consumado.
 
@@ -3641,17 +3651,35 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 
 246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de ocho a catorce años y multa de ciento cincuenta a quinientas veces el salario.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+Se sancionará con prisión de tres a ocho años, al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir. En tales casos la pena será de nueve a dieciséis años y multa de ciento setenta y cinco a quinientos salarios.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
-248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de diez a veinte años y la multa de doscientas a quinientas veces el salario.
+248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de diez a veinte años y la multa de doscientas a quinientas veces el salario mínimo general vigente en la zona.
 
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de dos a cuatro años de prisión, cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de la persona sobre la que ejerza la tutela, o por el padrastro de la persona ofendida o el amasio de la madre de la propia ofendida. En los casos en que el culpable ejerciera la patria potestad o la tutela, las perderá, así como el derecho de heredar del ofendido.
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
-Cuando el delito de violación sea cometido por quien desempeña un cargo o empleo o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionan, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
+248 Bis.- Las penas previstas para los delitos de abuso sexual y violación, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
+
+I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
+
+II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que ellos le proporcione (sic). Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional;
+
+III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
+
+IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
+
+El delito a que se refiere la fracción inmediata anterior, solo se perseguirá por querella de la parte ofendida.
 
 ### CAPITULO II.
 
@@ -3819,11 +3847,15 @@ Lesiones.
 
 280.- Cuando concurra una sola de las circunstancias a que se refiere el artículo 299 se aumentará en un tercio la sanción que correspondería, si la lesión fuere simple; cuando concurren dos, se aumentará la sanción en una mitad y si concurren más de dos de las circunstancias dichas se aumentará la pena en dos terceras partes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+281.- Al que en ejercicio de la tutela o estando encargado de la guarda de un menor, por cualquier motivo, lo maltrate, alterando su salud física, mental o emocional, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación de la tutela, o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del sujeto activo del delito debiendo el Juez y Agente del Ministerio Público, proveer lo conducente para que se cumpla con esta medida.
+
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 1997)</small>
 
-281.- Al que en ejercicio de la patria potestad, la tutela o estando encargado de la guarda de un menor, lo maltrate alterando su salud física o mental, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación temporal o definitiva en el ejercicio de la patria potestad, tutela o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico de la víctima.
-
 Decretado auto de formal prisión en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1997)</small>
 
 En lo aplicable y conducente, se sancionará con las mismas penas al que ejerza la tutela o la guarda de una persona privada de razón o sujeta a estado de interdicción por las lesiones que cause a ésta.
 
@@ -3985,9 +4017,13 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves según el previo dict
 
 Abandono de personas.
 
-317.- Al que abandone a un niño o a otra persona cualquiera, incapaz de cuidarse a sí misma, o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cinco años de prisión, privándolo además de la patria potestad o de la tutela, si el delincuente fuera ascendiente o tutor del ofendido. Si resultare daño alguno se observarán las reglas de acumulación.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
-318.- Al que sin motivo justificado abandone a sus hijos o a su cónyuge sin recursos para atender a sus necesidades de subsistencia, se le aplicarán de seis meses a un año de prisión y privación de los derechos de familia.
+317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+318.- A quien sin motivo justificado, abandone a sus acreedores alimentarios sin recursos para atender a sus necesidades de subsistencia, se le aplicará de dos a cuatro años de prisión y se le privará de sus derechos familiares.
 
 319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
 
@@ -4621,6 +4657,26 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 
 403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
+
+### CAPITULO UNICO.
+
+Violencia intrafamiliar.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave que de manera reiterada se ejerce en contra de un miembro de la familia, por otro integrante de la misma en contra de su integridad física, psíquica o ambas independientemente de que pueda producir o no otro delito. En su caso se aplicarán las reglas de la acumulación.
+
+Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubino; pariente consanguíneo en línea recta, ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite la misma casa de la víctima.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+405.- A quien comete el delito de violencia intrafamiliar, se le impondrá de seis meses a tres años de prisión y en su caso, perderá los derechos hereditarios y de alimentos. Asimismo, se le sujetará a tratamiento psicológico especializado.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+406.- Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
+
 ARTICULOS TRANSITORIOS:
 
 ## TITULO DECIMO OCTAVO (SIC).
@@ -4680,6 +4736,12 @@ IV.- Compre dos o más veces cosas robadas. Lo anterior se podrá comprobar por 
 ## TITULO VIGESIMO PRIMERO.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+## TITULO VIGESIMO SEGUNDO.
+
+Delitos contra la familia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 1o.
 
@@ -4776,6 +4838,12 @@ P.O. 9 DE OCTUBRE DE 1997.
 PRIMERO.- El presente Decreto entrara en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se Derogan las disposiciones que se opongan a la aplicación del presente Decreto.
+
+P.O. 7 DE FEBRERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
 
 ###### Artículo 10.
 
