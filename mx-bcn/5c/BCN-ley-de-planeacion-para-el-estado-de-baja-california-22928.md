@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-22928"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2001-11-23"
+last_updated: "2002-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -389,9 +389,11 @@ III.- La tercer etapa de control, es la captación de información sobre la ejec
 
 IV.- La cuarta etapa de evaluación consiste en la revisión periódica de resultados de los programas: sectoriales, especiales, regionales, programas operativos anuales, con el fin de obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos del Plan.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 17.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de los seis meses siguientes a la toma de posesión del Gobernador del Estado, y su vigencia será de seis años a partir de su publicación en el Periódico Oficial del Estado, aunque podrá contener consideraciones y proyecciones a más largo plazo.
+El Plan Estatal de Desarrollo se elaborará, aprobará y publicará dentro de los seis meses siguientes a la toma de posesión del Gobernador del Estado, y su vigencia será de seis años a partir de su publicación en el Periódico Oficial del Estado, el cual deberá contener consideraciones y proyecciones a más largo plazo, mismas que serán comprendidas en los planes subsecuentes de desarrollo, previéndose presupestalmente (sic) para tal efecto, a fin de garantizar su ejecución.
 
 En todo Plan se establecerán los plazos cortos, medianos y largos para el cumplimiento de sus objetivos.
 
@@ -449,9 +451,11 @@ V.- El plazo para el programa institucional será de tres meses contados del mes
 
 Cuando en el Plan Estatal de Desarrollo que presente el Gobernador del Estado, se suprima o modifique un programa existente, deberá de justificarse a través de un estudio técnico, social, económico y jurídico tal suspensión o modificación.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 23.
 
-Los planes municipales deberán elaborarse, aprobarse y enviarse al COPLADE para su compatibilización con el Plan Estatal de Desarrollo dentro de un plazo de tres meses a partir de la fecha de la toma de posesión de los presidentes Municipales y su vigencia no excederá del período constitucional que les corresponda. Asimismo, antes de finalizar la administración municipal deberán publicar la evaluación del Plan Municipal correspondiente.
+Los planes municipales deberán elaborarse, aprobarse y enviarse al COPLADE para su compatibilización con el Plan Estatal de Desarrollo dentro de un plazo de cuatro meses a partir de la fecha de la toma de posesión de los presidentes Municipales y su vigencia no excederá del período constitucional que les corresponda; el cual deberá contener las consideraciones y proyecciones a más largo plazo, mismas que serán comprendidas en los planes subsecuentes de desarrollo, previéndose presupuestalmente para tal efecto, a fin de garantizar su ejecución. Así mismo, antes de finalizar la administración municipal deberán publicar la evaluación del avance del Plan Municipal correspondiente.
 
 ###### ARTICULO 24.
 
@@ -676,3 +680,9 @@ EUGENIO ELORDUY WALTHER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO BORBON VILCHES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 2002.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
