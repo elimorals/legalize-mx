@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1984-12-31"
+last_updated: "1985-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -163,9 +163,11 @@ VI.- Los usufructuarios de bienes inmuebles;
 
 VII.- Los comisariados o representantes ejidales en los términos de la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-ARTICULO 8 D.- La Leyes Federales limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes de dominio público de la federación, de los estados o de los municipios estarán exentos de dicha contribución.
+ARTICULO 8 D.- Están exentos del pago del impuesto predial los bienes del dominio público propiedad de los Gobiernos Federa, Estatal Y Municipal.
+
+Para que se concedan los subsidios autorizados en esta Ley, será requisito que los interesados lo soliciten por escrito a la Tesorería Municipal debiendo fundar debidamente su petición y presentarla en un plazo no mayor de 30 días contados a partir de la fecha en que se les otorgue el testimonio notarial, en el que conste el crédito concedido.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -199,7 +201,9 @@ XIII.- Tratándose de predios y edificaciones con fines industriales el 100% de 
 
 Los valores que fijen los propietarios de predios urbanos o rústicos por manifestación expresa o señalada con motivo de operaciones de venta, hipoteca o por cualquier otra que determine un valor distinto al que aparezca en los padrones o registros fiscales, si el nuevo valor es superior al que se encuentra registrado, en estos casos producirá efectos de valor catastral con sus mismas características y términos mientras la Dirección de Catastro no practique nuevo avalúo a los predios.
 
-La base mínima para el pago del Impuesto Predial será de $25,645.00 para los predios urbanos y de $5,129.00 tratándose de predios rurales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+La base mínima para el pago del impuesto predial será de $66,677.00 para los predios urbanos y de $33,338.50 tratándose de predios rurales.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -305,7 +309,11 @@ VIII.- Prescripción positiva;
 
 IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, es la parte relativa y en proporción a éstos;
 
-X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XI.- Información Testimonial Ad-Perpetuam.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -412,6 +420,32 @@ IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripci
 V.- En los no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escrituras públicas o se inscriban en el Registro Público de la Propiedad, para poder surtir efectos ante terceros en los términos del derecho común, y si no están sujetos a ésta formalidad, al adquirirse el dominio conforme a las Leyes.
 
 El contribuyente podrá pagar el impuesto por anticipado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+ARTICULO 8 U.- No se pagará este impuesto en los siguientes casos:
+
+I.- En las adquisiciones por las instituciones de asistencia o de beneficiencia (sic), autorizadas por las leyes de la materia, instituciones públicas de enseñanza y establecimientos de enseñanza, propiedad de particulares, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación por los bienes destinados exclusivamente a sus fines educativos;
+
+II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal; así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluida en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal;
+
+III.- En las adquisiciones por el Estado y los Municipios en casos de reciprocidad;
+
+IV.- En las adquisiciones por los partidos y asociaciones políticas para su propio uso; y
+
+V.- En las adquisiciones realizadas por los organismos descentralizados de la Federación, Estados y Municipios que promueven la vivienda de interés social.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+ARTICULO 8 V.- Los subsidios a que se refiere este capítulo se solicitarán por escrito a la Tesorería Municipal dentro de los 30 días siguientes a la firma del instrumento correspondiente acompañándose con la declaración a que se refiere el artículo 8 S de esta Ley y los documentos que comprueben plenamente las causas del subsidio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+ARTICULO 8 W.- La expedición de certificados de valor fiscal se sujetará a los siguientes:
+
+a).- Por la certificación del valor fiscal $ 300.00
+
+b).- Además de lo anterior por la búsqueda de antecedentes cuando no se precisen los interados (sic) la fecha, por cada período de 5 años o fracción $ 400.00
 
 ### CAPITULO II. IMPUESTO A LOS ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
 
@@ -1622,3 +1656,21 @@ La presente Ley entrará en vigor el 1o. de enero de 1985.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1o. de enero de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTICULO CUARTO.
+
+Cuando se de una denominación nueva o distinta a alguna unidad administrativa establecida con posterioridad a la vigencia de esta Ley, dicha unidad ejercerá la competencia que determine la presente.
