@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-3506
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-12"
-last_updated: "2003-12-12"
+last_updated: "2004-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35065&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-11"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el viernes 12 de diciembre de 2003.
 
@@ -177,9 +177,9 @@ C. Titulares de Órganos Internos de Control y de sus respectivas áreas de Audi
 
 D. Supervisores Regionales, y
 
-E. Órgano Administrativo Desconcentrado:
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
 
-I. Comisión de Avalúos de Bienes Nacionales;
+E. Órgano Administrativo Desconcentrado: Instituto de Administración y Avalúos de Bienes Nacionales.
 
 Para los efectos de lo previsto por las fracciones XI y XII del artículo 37 de la Ley Orgánica de la Administración Pública Federal, la Secretaría contará con los titulares de los órganos internos de control en las dependencias y entidades de la Administración Pública Federal y en la Procuraduría General de la República y con los titulares de las áreas de auditoría, quejas y responsabilidades de dichos órganos, quienes tendrán el carácter de autoridad; así como con los delegados, comisarios públicos y los supervisores regionales, quienes tendrán las atribuciones a que se refieren los artículos 60 a 65 y 67 de este Reglamento.
 
@@ -837,19 +837,29 @@ La Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimo
 
 I. Proponer al Titular de la Secretaría, de acuerdo con las facultades que a esta Secretaría confieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, las normas de carácter general que respecto de la planeación, ejecución, conservación, mantenimiento y control de las adquisiciones de bienes muebles; la prestación de servicios de cualquier naturaleza; así como de las obras públicas y los servicios relacionados con las mismas contraten las dependencias y entidades de la Administración Pública Federal;
 
-II. Proponer las normas y procedimientos de carácter general para el manejo de almacenes, realización de inventarios, avalúos de bienes muebles y en general, cualquier otro recurso material, así como la desincorporación patrimonial y destino final de éstos de las dependencias y entidades de la Administración Pública Federal. En caso necesario, solicitar opiniones técnicas calificadas;
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
 
-III. Interpretar para efectos administrativos las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, y el Capítulo VI de la Ley General de Bienes Nacionales, así como las demás disposiciones legales, reglamentarias y administrativas que regulan esas materias; asesorar, capacitar y dar orientación a las demás áreas de la Secretaría y a las dependencias y entidades de la Administración Pública Federal, así como recibir y procesar la información que dichas dependencias y entidades deban remitir a la Secretaría, en los términos de los ordenamientos y Capítulo mencionados;
+II. Proponer las normas y procedimientos de carácter general a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las dependencias y entidades de la Administración Pública Federal, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, así como para el manejo de almacenes, la realización de inventarios y la práctica de avalúos de dichos bienes. En caso necesario, solicitar opiniones técnicas calificadas;
 
-IV. Ejercer las atribuciones que la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y el Capítulo VI de la Ley General de Bienes Nacionales confieren a la Secretaría y que no le estén expresamente asignadas a otra unidad administrativa de la misma;
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+III. Interpretar para efectos administrativos las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas, y el Título Quinto de la Ley General de Bienes Nacionales, así como las demás disposiciones legales, reglamentarias y administrativas que regulan esas materias; asesorar, capacitar y dar orientación a las demás áreas de la Secretaría, a las dependencias y entidades de la Administración Pública Federal, a la Procuraduría General de la República y a las unidades administrativas de la Presidencia de la República, así como recibir y procesar la información que dichas dependencias y entidades deban remitir a la Secretaría, en los términos de los ordenamientos y Título mencionados;
+
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+IV. Ejercer las atribuciones que la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y el Título Quinto de la Ley General de Bienes Nacionales confieren a la Secretaría y que no le estén expresamente asignadas a otra unidad administrativa de la misma;
 
 V. Realizar revisiones técnico normativas en las materias a que se refieren las fracciones I y II de este artículo, así como requerir a la Unidad de Auditoría Gubernamental la realización de las investigaciones de oficio a que se refieren los artículos 68 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 86 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como aquellas otras que con ese carácter convenga realizar;
 
 VI. Proponer la resolución de los requerimientos de autorización a que se refiere el artículo 13 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
 
-VII. Nombrar a los notarios del Patrimonio Inmueble Federal; autorizar y revisar sus protocolos especiales y habilitar a los notarios públicos en el caso previsto en el artículo 73 de la Ley General de Bienes Nacionales;
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
 
-VIII. Imponer las sanciones que compete aplicar a esta Secretaría a los notarios públicos en los términos de la Ley General de Bienes Nacionales;
+VII. Nombrar a los Notarios del Patrimonio Inmobiliario Federal, autorizar y revisar sus protocolos especiales de conformidad con el artículo 96 de la Ley General de Bienes Nacionales, así como habilitar a los notarios públicos y a los Notarios del Patrimonio Inmobiliario Federal en el caso previsto en el párrafo tercero del artículo 97 del mismo ordenamiento legal;
+
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
+VIII. Imponer las sanciones que compete aplicar a esta Secretaría a los notarios públicos y a los Notarios del Patrimonio Inmobiliario Federal en los términos de la Ley General de Bienes Nacionales;
 
 IX. Imponer las sanciones que corresponde aplicar a esta Secretaría a los licitantes, proveedores o contratistas, de conformidad con lo previsto por las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas y demás ordenamientos legales aplicables y actuar igualmente en los asuntos que por acuerdo de atracción determine el Titular de la Secretaría deba conocer directamente, en cuyo caso solicitará al órgano interno de control en la dependencia, órgano desconcentrado o entidad de que se trate, o en la Procuraduría General de la República la remisión del expediente respectivo;
 
@@ -1775,63 +1785,19 @@ Para la creación y atribuciones de estas unidades, el Secretario expedirá los 
 
 ### CAPÍTULO XI. Del Órgano Administrativo Desconcentrado
 
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 69.
 
-Para la más eficaz atención y eficiente despacho de sus asuntos, la Secretaría contará con el órgano desconcentrado que en los términos del presente Capítulo se establece, y que le estará jerárquicamente subordinado, con atribuciones específicas para resolver sobre las materias que se determinan de conformidad con las disposiciones legales aplicables.
+Para la más eficaz atención y eficiente despacho de sus asuntos, la Secretaría contará con el órgano desconcentrado que se denominará Instituto de Administración y Avalúos de Bienes Nacionales, el cual le estará jerárquicamente subordinado y tendrá la organización y las atribuciones que le confiera su Reglamento.
 
 ###### ARTÍCULO 70.
 
-La Comisión de Avalúos de Bienes Nacionales como órgano desconcentrado de la Secretaría, además de las atribuciones que le confieren la Ley General de Bienes Nacionales y el Reglamento de la propia Comisión, tendrá las siguientes:
-
-I. Proponer al Titular de la Secretaría previa opinión de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la misma, los criterios y políticas de administración de los bienes inmuebles federales, que con fundamento en lo dispuesto por la Ley General de Bienes Nacionales deban regir la celebración de convenios y contratos, y el otorgamiento de destinos, concesiones, permisos y autorizaciones, con excepción de la zona federal marítimo terrestre, las playas marítimas y los terrenos ganados al mar, o a otros depósitos de aguas marítimas y demás zonas federales, de los monumentos arqueológicos, históricos y artísticos;
-
-II. Interpretar para efectos administrativos la Ley General de Bienes Nacionales y demás disposiciones legales, reglamentarias y administrativas que en materia de inmuebles federales sean de la competencia de la Secretaría;
-
-III. Autorizar los programas de requerimientos inmobiliarios de las dependencias de la Administración Pública Federal;
-
-IV. Aprobar los proyectos de construcción, ampliación, reparación, adaptación o demolición de los inmuebles de su competencia;
-
-V. Llevar a cabo la inspección y vigilancia de los inmuebles federales, a fin de verificar su aprovechamiento y estado de conservación, velar por su integridad física y por el cumplimiento de las disposiciones legales y administrativas correspondientes;
-
-VI. Vigilar que las dependencias y entidades de la Administración Pública Federal formulen e integren sus inventarios de bienes inmuebles, a fin de actualizar sistemáticamente el inventario y catálogo general de los bienes inmuebles de la Administración Pública Federal;
-
-VII. Intervenir conforme a resolución administrativa de autoridad competente en representación del Gobierno Federal, en la formalización de las adquisiciones, enajenaciones o afectaciones de los bienes inmuebles de propiedad federal y designar al servidor público que represente al Gobierno Federal en la suscripción de los instrumentos jurídicos en que se hagan constar las referidas operaciones. Dicha designación podrá recaer en algún servidor público de la propia Secretaría o bien de la dependencia o entidad interesada en la realización de la operación inmobiliaria de que se trate, previa propuesta de estas últimas, según corresponda;
-
-VIII. Proponer al Secretario la coordinación necesaria con las unidades administrativas competentes de la Secretaría de Desarrollo Social y del Gobierno del Distrito Federal para la localización, determinación y aprovechamiento de inmuebles federales susceptibles de ser incorporados al desarrollo urbano y la vivienda;
-
-IX. Conocer y proponer al Titular de la Secretaría la resolución sobre las incorporaciones al dominio público, destino, recuperación administrativa y declaratorias de inmuebles federales, así como las solicitudes de desincorporación del dominio público y de reversión de dichos inmuebles, y tramitar ante la Unidad de Asuntos Jurídicos los proyectos de decretos, acuerdos y resoluciones correspondientes;
-
-X. Ordenar la demolición de obras e instalaciones que procedan en los términos del artículo 97 de la Ley General de Bienes Nacionales;
-
-XI. Reivindicar los bienes propiedad de la Nación, por conducto del Procurador General de la República;
-
-XII. Integrar y mantener al corriente, en coordinación con los responsables inmobiliarios de las dependencias y entidades de la Administración Pública Federal, el catastro de los bienes inmuebles federales, así como los padrones de destinatarios, permisionarios y concesionarios de los mismos;
-
-XIII. Proponer al Secretario las normas en materia de avalúos a las que deberán sujetarse los dictámenes que realice la propia Comisión, para las operaciones inmobiliarias en que sean parte las dependencias y, en su caso, las entidades de la Administración Pública Federal;
-
-XIV. Integrar los avalúos de los inmuebles federales y actualizarlos en los casos en que se realicen operaciones inmobiliarias;
-
-XV. Proponer, previa opinión de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal, las normas de carácter general que se consideren necesarias para el adecuado cumplimiento de las disposiciones relacionadas con los inmuebles federales de la competencia de la Secretaría, y
-
-XVI. Las demás de naturaleza análoga o conexa a las previstas en este artículo.
-
-Las atribuciones a que se refieren las anteriores fracciones de este artículo, serán ejercidas por el Presidente de la Comisión y por conducto de la Dirección General a la que corresponda la materia, en los términos del Reglamento de la propia Comisión.
-
-El Reglamento de la Comisión de Avalúos de Bienes Nacionales determinará la forma de organización y funcionamiento de la misma.
+(DEROGADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)
 
 ###### ARTÍCULO 71.
 
-El Presidente de la Comisión de Avalúos de Bienes Nacionales tendrá las siguientes facultades genéricas:
-
-I. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del órgano desconcentrado;
-
-II. Formular el proyecto del programa presupuesto del órgano desconcentrado, así como los proyectos de manuales de organización, procedimientos y servicios correspondientes;
-
-III. Representar a la Secretaría así como al propio órgano desconcentrado en toda clase de asuntos de su competencia, estando investido de las más amplias facultades, incluidas las que requieran cláusula especial conforme a la ley, las de rendir informes a nombre del propio órgano, e interponer toda clase de recursos en los juicios de amparo en que sea parte, así como para dar cumplimiento a las sentencias dictadas en los mismos, las de desistirse de cualquier recurso y las de formular denuncias y querellas en el orden penal, pudiendo conceder el perdón del ofendido en los casos en que sea procedente;
-
-IV. Instruir y resolver en su caso, los recursos administrativos que se interpongan contra actos relacionados con los asuntos de su competencia, y
-
-V. Las demás que le confiera el Titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias relativas.
+(DEROGADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)
 
 ### CAPÍTULO XII. De la Suplencia de los Servidores Públicos de la Secretaría
 
@@ -1884,3 +1850,27 @@ Los asuntos en trámite al entrar en vigor este Reglamento, que conforme al mism
 Las menciones que en las leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal se hagan del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo se entenderán referidas a este Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Comisión de Avalúos de Bienes Nacionales publicado en el Diario Oficial de la Federación el 26 de enero de 2004, y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En tanto la Secretaría y el INDAABIN, según proceda, expidan las normas, lineamientos, políticas, procedimientos, criterios técnicos, metodologías y demás disposiciones a que se refiere este Reglamento, se continuarán aplicando las disposiciones vigentes en lo que no se opongan al presente Decreto.
+
+CUARTO.- Los asuntos que a la fecha de entrada en vigor del presente Decreto se encontraren en trámite en la Comisión de Avalúos de Bienes Nacionales, continuarán siendo tramitados hasta su resolución por la unidad administrativa del INDAABIN que resulte competente conforme a este Decreto.
+
+QUINTO.- Para efectos de lo dispuesto por el artículo 18 del Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales, los integrantes de los cuerpos colegiados de avalúos de la Comisión de Avalúos de Bienes Nacionales que a la entrada en vigor del presente Decreto se encuentran en funciones, pasarán a formar parte del correspondiente cuerpo colegiado de avalúos del INDAABIN, por el tiempo que reste a su encargo.
+
+Los peritos que a la entrada en vigor del presente Decreto, se encuentren inscritos en el Padrón de Peritos Valuadores previsto en el Reglamento que se abroga, quedarán registrados en el Padrón Nacional de Peritos a que se refiere el artículo 25 del Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales.
+
+SEXTO.- Las menciones a la Comisión de Avalúos de Bienes Nacionales que se efectúen en cualquier otro ordenamiento jurídico, se entenderán realizadas al Instituto de Administración y Avalúos de Bienes Nacionales.
+
+SÉPTIMO.- Los recursos humanos, financieros y materiales con que cuente la Comisión de Avalúos de Bienes Nacionales al momento de la entrada en vigor de este Decreto, serán transferidos al Instituto de Administración y Avalúos de Bienes Nacionales.
+
+OCTAVO.- Los derechos de los trabajadores de la Comisión de Avalúos de Bienes Nacionales, serán respetados conforme a la legislación laboral aplicable.
+
+NOVENO.- Los inmuebles federales destinados a la Secretaría para uso de la Comisión de Avalúos de Bienes Nacionales, continuarán destinados a esa dependencia para el servicio del Instituto de Administración y Avalúos de Bienes Nacionales.
