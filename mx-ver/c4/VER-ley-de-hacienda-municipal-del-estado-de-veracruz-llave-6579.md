@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2002-02-15"
+last_updated: "2002-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002, SE DEROGA LA PRESENTE LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADA.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -3567,13 +3569,13 @@ El Ayuntamiento de la Cabecera de cada Distrito Judicial deberá llevar cuenta a
 
 Los municipios del Estado participarán del rendimiento de los ingresos federales y estatales que les concedan las leyes fiscales respectivas y de los convenios que celebren sobre el particular. Las participaciones se recaudarán en la forma que dispongan las leyes de la materia y los convenios.
 
-## TÍTULO OCTAVO
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+## TÍTULO OCTAVO
 
 ### CAPITULO UNICO. PARTICIPACIONES
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ### CAPÍTULO I. DELITOS FISCALES
 
@@ -3926,3 +3928,19 @@ Artículo tercero. Se derogan todas las disposiciones que se opongan al presente
 G.O. 15 DE FEBRERO DE 2002.
 
 Único. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 22 DE NOVIEMBRE DE 2002.
+
+Primero. El presente Código entrará en vigor el día 1 de enero de 2003, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave, y se derogan la Ley de Hacienda Municipal del Estado de Veracruz-Llave y todas las disposiciones que se opongan al presente Código.
+
+Tercero. Los ordenamientos que aludan a las leyes que se señalan en el artículo anterior se entenderán referidos al presente Código.
+
+Cuarto. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia de la Ley de Hacienda Municipal que se deroga, se cobrarán, tramitarán y resolverán conforme a dicho ordenamiento legal hasta su conclusión.
+
+Quinto. Las Leyes de Ingresos de los Municipios para el ejercicio fiscal del año 2003 deberán contener las previsiones de ingresos por los conceptos establecidos en el Libro Tercero del presente Código.
+
+Sexto. Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el artículo Sexto Transitorio de la Ley de Catastro, entrarán en vigor a partir del 1 de enero del año 2004.
+
+Séptimo. Por esta única y exclusiva vez, y sin que siente precedente, previo acuerdo de la Comisión Permanente de Vigilancia del Congreso del Estado, se autoriza a los Ayuntamientos a cubrir, con recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios del año 2002, la deuda pública documentada, aprobada por el Cabildo, siempre que ésta no haya excedido del cuarenta por ciento de aquel Fondo.
