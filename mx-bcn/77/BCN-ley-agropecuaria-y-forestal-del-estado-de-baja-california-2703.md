@@ -4,7 +4,7 @@ identifier: "BCN-ley-agropecuaria-y-forestal-del-estado-de-baja-california-2703"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-10"
-last_updated: "1996-11-22"
+last_updated: "2001-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY AGROPECUARIA Y FORESTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO AGROPECUARIO Y FORESTAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 23 DE NOVIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2001 (ABROGADA).
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el domingo 10 de agosto de 1986.
 
@@ -1850,3 +1852,15 @@ Rúbrica.
 P.O. 22 DE NOVIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Fomento Agropecuario y Forestal del Estado de Baja California, publicada en el Periódico Oficial del Estado el 10 de agosto de 1986.
+
+TERCERO.- Se derogan las demás Disposiciones que se opongan a la aplicación de la presente Ley.
+
+CUARTO.- Queda facultado el Ejecutivo del Estado, para expedir el Reglamento de la presente Ley.
+
+QUINTO.- Hasta en tanto se cumpla por el Ejecutivo del Estado la facultad reglamentaria señalada en el Artículo Transitorio que antecede, deberán aplicarse las disposiciones de la Ley que se Abroga y las de su correspondiente Reglamento.
