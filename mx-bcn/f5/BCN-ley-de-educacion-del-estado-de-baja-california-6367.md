@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "1998-11-06"
+last_updated: "2000-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2000.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -151,7 +151,11 @@ XII.- Fomentar y encausar (sic) el desarrollo y la aplicación del avance cient�
 
 XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro, y
 
-XIV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2000)</small>
+
+XIV.- Inculcar en el educando, una cultura de cumplimiento a la obligación constitucional de contribuir al gasto público, como medio para satisfacer las necesidades de la comunidad y alcanzar el bienestar general; asimismo a ejercer el derecho para exigir de la autoridad, su adecuada aplicación.
+
+XV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -916,3 +920,7 @@ P.O. 6 DE NOVIEMBRE DE 1998.
 ###### ARTÍCULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2000.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
