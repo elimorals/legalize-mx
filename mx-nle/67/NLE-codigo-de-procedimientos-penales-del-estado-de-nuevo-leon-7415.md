@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1998-06-24"
+last_updated: "1999-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -3389,11 +3389,21 @@ El fiador propuesto, salvo cuando se trate de las mencionadas empresas afianzado
 
 En el Tribunal Superior de Justicia se llevará un índice, en el que se anotarán las fianzas otorgadas ante el mismo o ante los juzgados, a cuyo efecto, éstos, en el plazo de tres días deberán comunicarle las que hayan aceptado, así como la cancelación de las mismas en su caso, para que también se anoten en el índice. Cuando lo estimen necesario, los Jueces y el Ministerio Público solicitarán datos del índice, para calificar la solvencia de un fiador.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 504.
 
-Al ordenarse la libertad caucional se le hará saber al inculpado que contrae las siguientes obligaciones: presentarse ante el Ministerio Público, Juez o Tribunal cuantas veces sea citado o requerido para ello; comunicar a los mismos los cambios de domicilio que tuviere; presentarse ante el Ministerio Público, Juzgado o Tribunal que conozca de su causa, el día que se le señale, y no ausentarse del lugar de residencia sin permiso de aquéllos, en su caso, el cual no se podrá conceder por tiempo mayor de un mes. También se le harán saber las causas de revocación de su libertad caucional. En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones; pero la omisión de este requisito no exime de ellas ni de sus consecuencias al inculpado.
+Al ordenarse la libertad caucional, se le hará saber al inculpado que contrae las siguientes obligaciones:
+
+I.- Presentarse ante el Ministerio Público, Juez o Magistrado cuantas veces sea citado o requerido;
+
+II.- Presentarse una vez cada semana el día que se señale para ello, en la Agencia del Ministerio Público, Juzgado, Sala u oficina pública que se le indique. Para verificar el cumplimiento de esta obligación, la autoridad se podrá auxiliar con los mecanismos o instrumentos que la ciencia permita, siempre que a su juicio aquellos den tanto a la autoridad como al inculpado, certeza de su cumplimiento;
+
+III.- Comunicar a las autoridades señaladas en la fracción I de este artículo, los cambios de domicilio que tuviere; y
+
+IV.- No ausentarse del lugar de residencia sin permiso del Ministerio Público, Juez o Magistrado, el cual no podrá concedérsele por un tiempo mayor de un mes.
+
+También se le harán saber las causas de revocación de su libertad caucional. En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones, pero la omisión de este requisito no exime de ellas ni de sus consecuencias al inculpado.
 
 ###### ARTICULO 505.
 
@@ -3780,3 +3790,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE JUNIO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 1999.
+
+Artículo Único: Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
