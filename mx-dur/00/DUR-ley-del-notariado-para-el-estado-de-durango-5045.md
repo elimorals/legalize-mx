@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1993-08-08"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -219,13 +219,91 @@ Los apéndices se encuadernarán ordenadamente y se empastarán en volúmenes, a
 
 Los documentos del apéndice no podrán desglosarse; los conservará el notario y seguirán a su libro respectivo del protocolo, cuando éste se envíe a la Dirección General de Notarías para ser archivado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO SEGUNDO BIS. DEL PROTOCOLO ABIERTO
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-A.
+
+El Notario podrá actuar en folios, mismos que integrarán el Protocolo "Abierto", el cual se formará por el archivo o colección ordenada de las Escrituras y Actas originales con los documentos incorporados anexos, que constituyen el apéndice.
+
+El Notario podrá optar entre seguir actuando en el sistema de Protocolo Cerrado o cambiar al de Protocolo Abierto; sin embargo, una vez hecho el cambio en ningún caso y por ningún motivo podrá volver a hacer uso del Protocolo Cerrado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-B.
+
+El Protocolo estará formado por volúmenes compuestos por folios. Cada volumen constará de instrumentos completos numerados sucesivamente que sumen ciento cincuenta hojas, volúmenes que se numerarán sin interrupción, con el número progresivo que les corresponda, así como los instrumentos que contengan.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-C.
+
+El Notario para asentar y autorizar las Escrituras y las Actas, utilizará las hojas por el anverso de cada folio, que tendrán las siguientes características:
+
+I.- Serán hojas de papel seguridad blanco con el sello de agua del Colegio de Notarios de la Entidad y perforados con el número secuencial que les corresponda;
+
+II.- Llevarán impreso el nombre del Notario y el número de su Notaría;
+
+III.- En caso de Notarios asociados se indicará esta circunstancia y el nombre y el número de los Notarios asociados, quienes actuarán en los términos de lo establecido en el Capítulo VI de la presente Ley;
+
+IV.- Los folios serán uniformes, de tamaño carta u oficio, a juicio de la Dirección General de Notarías, con el margen suficiente en su parte interna por donde se encuadernarán, separando dicho margen por una línea;
+
+V.- Cada folio llevará el sello de la Notaría, la rúbrica de las partes y del Notario; al final del instrumento firmarán todos nuevamente;
+
+VI.- El número de la Escritura irá en la parte superior del folio, las autorizaciones preventiva y definitiva, al cierre del documento notarial;
+
+VII.- Los folios inutilizados o no usados, serán razonados por el Notario, estableciendo la circunstancia y formarán parte de la Escritura o acta.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-D.
+
+El Colegio de Notarios, por conducto del Presidente y del Secretario del Consejo, suministrará a los Notarios de la Entidad, a su costa, el número de folios necesarios para asentar las Escrituras y las Actas. Llevará una relación de los folios proporcionados a cada Notario, enviando una copia de dicha relación a la Secretaría General de Gobierno y a la Dirección General de Notarías.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-E.
+
+Cada folio del instrumento deberá contener el número de escritura o acta que constituya y deberá archivarse en forma progresiva y cronológica junto con los documentos que constituyen el Apéndice; los folios incluyendo los inutilizados y los que tengan la razón "NO PASO", se ordenarán en forma consecutiva hasta que sumen 150 (ciento cincuenta) hojas, como máximo, las que serán encuadernadas para formar un Volumen. También se encuadernarán como anexo de éste, los documentos del Apéndice y los que formen parte integrante del instrumento.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-F.
+
+Al iniciar la formación de un Volumen, el Notario hará constar en una hoja sin numerar, con su sello y firma, una razón con la fecha en que se inicia, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en su Notaría y la mención de que el Volumen se formará con las Escrituras y Actas notariales autorizadas por el Notario o por quien legalmente lo substituya. La hoja en la que se asiente la razón citada se encuadernará antes de la primera hoja de Volumen.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-G.
+
+El Notario archivará provisionalmente en carpetas seguras, los instrumentos que haya otorgado con sus documentos anexos, disponiendo de un plazo máximo de 3 (tres) meses, contados a partir del cierre del Volumen, para encuadernarlo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-H.
+
+Los Notarios que continúen usando el Protocolo Cerrado podrán en lo futuro, cambiar éste por el Protocolo Abierto, siendo aplicable en el caso lo dispuesto en el párrafo segundo del Artículo 26-A de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-I.
+
+Serán aplicables al Protocolo Abierto todas las demás disposiciones de la presente Ley, que no se opongan a lo establecido en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 26-J.
+
+Los Notarios que hayan optado por actuar en el Protocolo Abierto deberán rendir en el mes de Enero de cada año un informe sobre el número de Volúmenes que hayan integrado con los folios utilizados durante el ejercicio anual inmediato anterior, así como sobre el número de folios en los que estuviese actuando pendientes de integrar el número necesario para constituir un nuevo Volumen. Así mismo, estarán obligados a presentar dichos Volúmenes ante la Secretaría General de Gobierno y la Dirección General de Notarías cuantas veces sean requeridos para ello. Lo anterior sin perjuicio de lo dispuesto por los Artículos 138, 139 y 140 de la presente Ley.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO TERCERO. DE LAS ESCRITURAS Y DE LAS ACTAS
 
 > <small>(N. DE E. SE DEROGA LA ADICION PUBLICADA EN EL P.O. No. 49 DE FECHA 16 DE DICIEMBRE DE 1979, POR LO CUAL LA REDACCION DEL PRESENTE VUELVE AL ESTADO QUE TENIA ANTES DE LA MISMA; P.O. 19 DE JUNIO DE 1980)</small>
-
-### CAPITULO CUARTO. DE LOS TESTIMONIOS
 
 ###### ARTICULO 27.
 
@@ -409,7 +487,7 @@ ARTICULO 46 BIS.- (DEROGADO, P.O. 19 DE JUNIO DE 1980)
 
 Los instrumentos públicos y los poderes otorgados fuera de la República, una vez legalizados deberán protocolizarse para que surtan sus efectos, lo que se hará precisamente ante el notario que designen las partes.
 
-### CAPITULO QUINTO. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
+### CAPITULO CUARTO. DE LOS TESTIMONIOS
 
 ###### ARTICULO 48.
 
@@ -435,9 +513,7 @@ Los notarios pueden expedir y autorizar testimonios ó copias impresas por cualq
 
 A cada parte interveniente (sic) ó interesada, podrá expedir el notario un primer testimonio, un segundo ó de número ulterior, sin necesidad de mandamiento judicial.
 
-### CAPITULO SEXTO. DE LAS MINUTAS
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+### CAPITULO QUINTO. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
 ###### ARTICULO 53.
 
@@ -493,13 +569,15 @@ V.- Si faltare algún otro requisito que produzca su ineficacia por disposición
 
 Fuera de estos casos, el testimonio hará prueba plena.
 
-### CAPITULO SEPTIMO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DEL NOTARIO
+### CAPITULO SEXTO. DE LAS MINUTAS
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 58.
 
 Se suprimen las minutas; los actos traslativos de dominio que la Ley exija sean otorgados en escritura pública, deberán, sin excepción, satisfacer esa formalidad; en consecuencia los notarios no autorizarán ni intervendrán en los documentos que con estas características les presenten los interesados.
 
-### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPITULO SEPTIMO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DEL NOTARIO
 
 ###### ARTICULO 59.
 
@@ -537,9 +615,7 @@ El monto de la garantía que constituye el notario, cuando se haga efectiva, se 
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION DEL NOTARIADO
 
-### CAPITULO SEGUNDO. DE LAS NOTARIAS Y DEMARCACIONES NOTARIALES
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 63.
 
@@ -557,9 +633,9 @@ La oficina de los notarios se denominará "NOTARIA PUBLICA NUMERO ...."; estará
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 1979)
 
-### CAPITULO TERCERO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
+### CAPITULO SEGUNDO. DE LAS NOTARIAS Y DEMARCACIONES NOTARIALES
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 67.
 
@@ -581,23 +657,33 @@ Puede asímismo autorizar a petición del interesado cuántos cambios de jurisdi
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ENERO DE 1982)</small>
 
-### CAPITULO CUARTO. DE LOS NOTARIOS
+### CAPITULO TERCERO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 70.
 
-Para obtener Patente de Aspirante al Ejercicio del Notariado, se deberán satisfacer los siguientes requisitos:
+Para obtener Patente de Aspirante al Ejercicio del Notariado se deberán satisfacer los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 I.- Ser mexicano por nacimiento;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 II.- Haber cumplido 25 años;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-III.- Tener Título de Licenciado en Derecho, registrado en la Dirección de Profesiones con 5 años cuando menos de ejercicio profesional y, hacer una práctica efectiva en una Notaría por un período de dos años;
+III.- Tener título de Licenciado en Derecho, registrado en la Dirección de Profesiones del Estado y con cinco años cuando menos de ejercicio profesional. Hacer una práctica efectiva en una Notaría por un período de 2 (dos) años.
+
+La práctica de Notariado se justificará con los avisos que dé el Notario a la Dirección General de Notarías, al Ejecutivo del Estado y al Colegio de Notarios, en la fecha de inicio y terminación de la práctica de Aspirante. La interrupción de la práctica por un período mayor de treinta días, sin causa justificada, dejará sin efecto el tiempo transcurrido desde el inicio de la práctica hasta la interrupción, debiendo comunicar el Notario a la Dirección General de Notarías esta circunstancia;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones del Notario;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 V.- Acreditar haber tenido y tener buena conducta;
 
@@ -605,13 +691,23 @@ V.- Acreditar haber tenido y tener buena conducta;
 
 VI.- Ser vecino del Estado y con despacho para el ejercicio profesional, establecido en la Entidad;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 VII.- No haber sido condenado por delito intencional, ni estar sujeto a proceso penal por delito de la misma índole;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 VIII.- No haber sido cesado del ejercicio del Notariado, dentro de la República;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 IX.- No haber sido declarado en quiebra o concurso de acreedores, salvo que haya sido rehabilitado;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 X.- No ser ministro de algún culto religioso, ni haber hecho votos que exijan obediencia a un superior religioso;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 XI.- Ser aprobado en el examen que establece esta Ley.
 
@@ -703,7 +799,9 @@ No podrán considerarse como aspirante de Notario, los Jueces que por Ministerio
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 7 DE ENERO DE 1982)</small>
 
-### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
+### CAPITULO CUARTO. DE LOS NOTARIOS
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 85.
 
@@ -777,9 +875,7 @@ Llenados los requisitos del artículo 85, el nombramiento se mandará publicar e
 
 Inmediatamente después de que el Notario comience a ejercer sus funciones, dará aviso al público por medio del Periódico Oficial del Estado y de un periódico de la localidad, y lo comunicará a la Dirección General de Notarías, al Consejo del Colegio de Notarios, al Registro Público de la Propiedad y del Comercio del Distrito Judicial de su demarcación y a las oficinas fiscales de ésta.
 
-### CAPITULO SEXTO. DE LA SEPARACION TEMPORAL DE NOTARIOS DE LA ASOCIACION, DE LA SUPLENCIA Y DE LOS ADSCRITOS
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 1979)</small>
+### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
 ###### ARTICULO 92.
 
@@ -791,9 +887,11 @@ En el plazo de treinta días hábiles siguientes a la fecha de la última public
 
 El Consejo del Colegio de Notarios señalará día y hora para la celebración de los exámenes de oposición. Este señalamiento lo dará a conocer el Consejo a los concursantes, cuando menos con quince días de anticipación, por medio de oficio enviado por correo certificado con acuse de recibo a la dirección que al efecto hubieren designado en su solicitud.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 94.
 
-El Jurado del examen se integrará en la forma prevista en el artículo 81 de la misma ley.
+El Jurado del examen se integrará en la forma prevista en el Artículo 74 de esta Ley.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1980)</small>
 
@@ -829,7 +927,9 @@ Cumplidos los requisitos a que se refieren los artículos anteriores, el Ejecuti
 
 > <small>(REFORMADA SU DENOMINACION, P.O 16 DE DICIEMBRE DE 1979)</small>
 
-### CAPITULO SEPTIMO. DE LA CESACION DEFINITIVA O TERMINACION DEL CARGO DE NOTARIO
+### CAPITULO SEXTO. DE LA SEPARACION TEMPORAL DE NOTARIOS DE LA ASOCIACION, DE LA SUPLENCIA Y DE LOS ADSCRITOS
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 101.
 
@@ -895,7 +995,7 @@ Siempre que se promueva la interdicción de algún notario, el juez respectivo c
 
 El juez que instruya un proceso por delito intencional en contra de un notario, dará cuenta inmediata al Ejecutivo del Estado, en caso de que el notario sea declarado formalmente preso.
 
-### CAPITULO OCTAVO. DE LOS DELITOS OFICIALES DE LOS NOTARIOS
+### CAPITULO SEPTIMO. DE LA CESACION DEFINITIVA O TERMINACION DEL CARGO DE NOTARIO
 
 ###### ARTICULO 113.
 
@@ -955,7 +1055,7 @@ VI.- Que transcurran tres meses después de la publicación en el Periódico Ofi
 
 En caso de oposición, se consignará el asunto a la autoridad judicial respectiva para que proceda en términos de ley.
 
-### CAPITULO NOVENO. DE LA CLAUSURA DE PROTOCOLOS
+### CAPITULO OCTAVO. DE LOS DELITOS OFICIALES DE LOS NOTARIOS
 
 ###### ARTICULO 120.
 
@@ -973,7 +1073,7 @@ La Comisión Investigadora procederá de inmediato a instruir la averiguación, 
 
 La Comisión Investigadora efectuará la averiguación en un término que no excederá de treinta días, oyendo a las partes y dará aviso al notario acusado, con el expediente por un término de veinte días, para que aporte las pruebas que a su derecho convenga. Transcurrido ese término, la Comisión formulará su opinión con vista de las constancias de la averiguación, la que someterá a consideración del Ejecutivo, a fin de que éste dicte la resolución que a su juicio corresponda, en la que declarará si hay ó no lugar a proceder en contra del notario.
 
-### CAPITULO UNICO. DE LA DIRECCION GENERAL DE NOTARIAS
+### CAPITULO NOVENO. DE LA CLAUSURA DE PROTOCOLOS
 
 ###### ARTICULO 124.
 
@@ -1022,6 +1122,8 @@ IV.- Formular sus estatutos, que serán sometidos a la aprobación del Ejecutivo
 V.- Las demás que le confiere esta ley, sus Reglamentos y los Estatutos del Colegio.
 
 ## TITULO CUARTO
+
+### CAPITULO UNICO. DE LA DIRECCION GENERAL DE NOTARIAS
 
 ###### ARTICULO 132.
 
@@ -1186,3 +1288,7 @@ P.O. 8 DE AGOSTO DE 1993.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las disposiciones jurídicas que se opongan al presente, quedan sin efecto en lo que respecta al contenido del mismo, mientras dure su vigencia, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
