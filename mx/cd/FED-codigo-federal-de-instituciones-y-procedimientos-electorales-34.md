@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "2002-06-24"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -317,11 +317,11 @@ c) Si aún quedaren diputados por asignar se utilizará el método del resto may
 
 ARTICULO 15
 
-1. Para la asignación de diputados de representación proporcional en el caso de que se diere el supuesto previsto por la fracción Vl del artículo 54 de la Constitución, se procederá como sigue:
+1. Para la asignación de diputados de representación proporcional en el caso de que se diere el supuesto previsto por la fracción VI del artículo 54 de la Constitución, se procederá como sigue:
 
 a) Una vez realizada la distribución a que se refiere el artículo anterior, se procederá a asignar el resto de los curules a los demás partidos políticos con derecho a ello, en los términos siguientes:
 
-I. Se obtendrá la votación nacional efectiva. Para ello se deducirá de la votación nacional emitida, los votos del o los partidos políticos a los que se les hubiese aplicado alguno de los límites establecidos en las fracciones lV o V del artículo 54 de la Constitución;
+I. Se obtendrá la votación nacional efectiva. Para ello se deducirá de la votación nacional emitida, los votos del o los partidos políticos a los que se les hubiese aplicado alguno de los límites establecidos en las fracciones IV o V del artículo 54 de la Constitución;
 
 II. La votación nacional efectiva se dividirá entre el número de curules por asignar, a fin de obtener un nuevo cociente natural;
 
@@ -343,7 +343,7 @@ d) Si después de aplicarse el cociente de distribución quedaren diputados por 
 
 ARTICULO 16
 
-1. Determinada la asignación de diputados por partido político a que se refieren los incisos a) y b) del párrafo 1 del artículo 14 de este Código y para el caso de que ningún partido político se ubicara en los supuestos previstos en las fracciones lV y V del artículo 54 de la Constitución, se procederá como sigue:
+1. Determinada la asignación de diputados por partido político a que se refieren los incisos a) y b) del párrafo 1 del artículo 14 de este Código y para el caso de que ningún partido político se ubicara en los supuestos previstos en las fracciones IV y V del artículo 54 de la Constitución, se procederá como sigue:
 
 a) Se dividirá la votación total de cada circunscripción, entre cuarenta, para obtener el cociente de distribución;
 
@@ -437,7 +437,9 @@ ARTICULO 21
 
 ARTICULO 22
 
-1. La organización o agrupación política que pretenda constituirse en partido político para participar en las elecciones federales deberá obtener su registro ante el Instituto Federal Electoral.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+1.- La agrupación política nacional que pretenda constituirse en partido político para participar en las elecciones federales deberá obtener su registro ante el Instituto Federal Electoral.
 
 2. La denominación de "partido político nacional" se reserva, para los efectos de este Código, a las organizaciones políticas que obtengan su registro como tal.
 
@@ -455,13 +457,13 @@ ARTICULO 23
 
 ARTICULO 24
 
-1. Para que una organización pueda ser registrada como partido político nacional, deberá cumplir los siguientes requisitos:
+1.- Para que una agrupación política nacional pueda ser registrada como partido político nacional, deberá cumplir los siguientes requisitos:
 
 a) Formular una declaración de principios y, en congruencia con ellos, su programa de acción y los estatutos que normen sus actividades; y
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-b) Contar con 3,000 afiliados en por lo menos 10 entidades federativas, o bien tener 300 afiliados, en por lo menos 100 distritos electorales uninominales; en ningún caso, el número total de sus afiliados en el país podrá ser inferior al 0.13% del Padrón Electoral Federal que haya sido utilizado en la elección federal ordinaria inmediata anterior a la presentación de la solicitud de que se trate.
+b) Contar con 3,000 afiliados en por lo menos 20 entidades federativas, o bien tener 300 afiliados, en por lo menos 200 distritos electorales uninominales, los cuales deberán contar con credencial para votar con fotografía correspondiente a dicha entidad o distrito, según sea el caso; bajo ninguna circunstancia, el número total de sus afiliados en el país podrá ser inferior al 0.26 por ciento del Padrón Electoral Federal que haya sido utilizado en la elección federal ordinaria inmediata anterior a la presentación de la solicitud de que se trate.
 
 ARTICULO 25
 
@@ -521,13 +523,13 @@ g) Las sanciones aplicables a los miembros que infrinjan sus disposiciones inter
 
 ARTICULO 28
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-1. Para constituir un partido político nacional, la organización interesada notificará ese propósito al Instituto Federal Electoral entre el 1o. de enero y el 31 de julio del año siguiente al de la elección y realizará los siguientes actos previos tendientes a demostrar que se cumple con los requisitos señalados en el artículo 24 de este Código:
+1.- Para constituir un partido político nacional, la agrupación política nacional interesada notificará ese propósito al Instituto Federal Electoral entre el 1o. de enero y el 31 de julio de año siguiente al de la elección y realizará los siguientes actos previos tendientes a demostrar que se cumple con los requisitos señalados en el artículo 24 de este Código:
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-a) Celebrar por lo menos en diez entidades federativas o en cien distritos electorales, una asamblea en presencia de un juez municipal, de primera instancia o de distrito, notario público o funcionario acreditado para tal efecto por el propio Instituto, quien certificará:
+a) Celebrar por lo menos en veinte entidades federativas o en 200 distritos electorales, una asamblea en presencia de un funcionario del Instituto Federal Electoral, quien certificará:
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -547,7 +549,7 @@ IV.- Que fueron aprobados su declaración de principios, programa de acción y e
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-V. Que se formaron listas de afiliados con los demás militantes con que cuenta la organización en el país, con el objeto de satisfacer el requisito del porcentaje mínimo de afiliados exigido por este Código. Estas listas contendrán los datos requeridos en la fracción II del inciso anterior.
+V.- Que se formaron listas de afiliados con los demás militantes con que cuenta la organización en el país, con el objeto de satisfacer el requisito del porcentaje mínimo de afiliados exigido por este Código. Estas listas contendrán los datos requeridos en la fracción II del inciso anterior.
 
 2. El costo de las certificaciones requeridas en este artículo, será con cargo al presupuesto del Instituto Federal Electoral. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
 
@@ -557,9 +559,9 @@ V. Que se formaron listas de afiliados con los demás militantes con que cuenta 
 
 ARTICULO 29
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-1. Una vez realizados los actos relativos al procedimiento de constitución de un partido político nacional, la organización interesada, en el mes de enero del año anterior al de la elección, presentará ante el Instituto Federal Electoral la solicitud de registro, acompañándola con los siguientes documentos:
+1.- Una vez realizados los actos relativos al procedimiento de constitución de un partido político nacional, la agrupación política nacional interesada, en el mes de enero del año anterior al de la elección, presentará ante el Instituto Federal Electoral la solicitud de registro, acompañándola con los siguientes documentos:
 
 a) La declaración de principios, el programa de acción y los estatutos aprobados por sus miembros en los términos del artículo anterior;
 
@@ -567,9 +569,13 @@ b) Las listas nominales de afiliados por entidades o por distritos electorales, 
 
 c) Las actas de las asambleas celebradas en las entidades federativas o en los distritos electorales y la de su asamblea nacional constitutiva.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 30
 
-1. El Consejo General del Instituto, al conocer la solicitud de la organización que pretenda su registro como partido político nacional, integrará una comisión para examinar los documentos a que se refiere el artículo anterior a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en este Código. La comisión formulará el proyecto de dictamen de registro.
+1. El Consejo General del Instituto, al conocer la solicitud de la agrupación política nacional que pretenda su registro como partido político nacional, integrará una Comisión para examinar los documentos a que se refiere el artículo anterior a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en este Código. La Comisión formulará el proyecto de dictamen de registro.
+
+2. El Consejo General del Instituto Federal Electoral por conducto de la comisión a que se refiere el párrafo anterior, verificará la autenticidad de las afiliaciones al nuevo partido, ya sea en su totalidad o a través del establecimiento de un método aleatorio, conforme al cual se verifique que cuando menos el 0.026 por ciento corresponda al padrón electoral actualizado a la fecha de la solicitud de que se trate, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
 
 > <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -621,7 +627,9 @@ ARTICULO 35
 
 1. Para obtener el registro como agrupación política nacional, quien lo solicite deberá acreditar ante el Instituto Federal Electoral los siguientes requisitos:
 
-a) Contar con un mínimo de 7,000 asociados en el país y con un órgano directivo de carácter nacional; además, tener delegaciones en cuando menos 10 entidades federativas; y
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+a) Contar con un mínimo de 5,000 asociados en el país y con un órgano directivo de carácter nacional; además, tener delegaciones en cuando menos 7 entidades federativas.
 
 b) Disponer de documentos básicos, así como una denominación distinta a cualquier otra agrupación o partido.
 
@@ -727,7 +735,9 @@ b) Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objeto
 
 c) Mantener el mínimo de afiliados en las entidades federativas o distritos electorales, requeridos para su constitución y registro;
 
-d) Ostentarse con la denominación, emblema y color o colores que tengan registrados;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+d) Ostentarse con la denominación, emblema y color o colores que tengan registrados, los cuales no podrán ser iguales o semejantes a los utilizados por partidos políticos nacionales ya existentes;
 
 e) Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
 
@@ -769,9 +779,7 @@ r) Abstenerse de realizar afiliaciones colectivas de ciudadanos; y
 
 > <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-s) Garantizar la participación de las mujeres en la toma de decisiones en las oportunidades
-
-políticas; y
+s) Garantizar la participación de las mujeres en la toma de decisiones en las oportunidades políticas; y
 
 > <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
@@ -805,7 +813,7 @@ ARTICULO 41
 
 a) Tener acceso en forma permanente a la radio y televisión en los términos de los artículos 42 al 47 de este Código;
 
-b) Gozar, del régimen fiscal que se establece en este Código y en las leyes de la materia.
+b) Gozar, del régimen fiscal que se establece en este Código y en las leyes de la materia;
 
 c) Disfrutar de las franquicias postales y telegráficas que sean necesarias para el cumplimiento de sus funciones; y
 
@@ -1270,6 +1278,10 @@ ARTICULO 56
 2. Los partidos políticos, para fines electorales, podrán formar coaliciones para postular los mismos candidatos en las elecciones federales, siempre que cumplan con los requisitos establecidos en este Código.
 
 3. Dos o más partidos políticos podrán fusionarse para constituir un nuevo partido o para incorporarse en uno de ellos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
+4. No podrán realizar un frente, coalición o fusionarse los partidos políticos nacionales durante su primera elección federal inmediata posterior a su registro como partido político nacional.
 
 ### CAPITULO PRIMERO. De los frentes
 
@@ -3271,7 +3283,7 @@ ARTICULO 145
 
 > <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-3. Los listados anteriores se pondrán a disposición de los partidos políticos para su revisión y, en su caso, para que formulen las observaciones que estimen pertinentes..
+3. Los listados anteriores se pondrán a disposición de los partidos políticos para su revisión y, en su caso, para que formulen las observaciones que estimen pertinentes.
 
 4. La Dirección Ejecutiva del Registro Federal de Electores proveerá lo necesario para que las listas nominales se pongan en conocimiento de la ciudadanía en cada distrito.
 
@@ -6400,3 +6412,7 @@ D.O.F. 24 DE JUNIO DE 2002.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en los artículos 175-A, 175-B y 175-C se aplicará por lo menos para la celebración de los cinco procesos electorales federales siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 31 DE DICIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
