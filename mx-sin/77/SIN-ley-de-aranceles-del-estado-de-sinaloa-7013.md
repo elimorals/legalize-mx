@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-aranceles-del-estado-de-sinaloa-7013"
 country: "mx"
 rank: "ley"
 publication_date: "1943-03-16"
-last_updated: "1943-03-16"
+last_updated: "1944-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ARANCELES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1944.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el martes 16 y jueves 18 de marzo de 1943.
 
@@ -263,7 +263,7 @@ En las transacciones cobrarán los abogados, del 2 al 10% sobre el importe de la
 
 ###### Artículo 30.
 
-Cuando un abogado saliere del lugar de su residencia, devengará, además de los honorarios que le correspondan conforme a las disposiciones aplicables de esta Ley, de $10.00 a $ 50.00 diarios desde el día de su salida hasta el de su regreso, ambos inclusive, considerándose éstos completos. Los gastos de transporte y estancia del abogado, serán por cuenta del cliente.
+Cuando un abogado saliere del lugar de su residencia, devengará, además de los honorarios que le correspondan conforme a las disposiciones aplicables de esta Ley, de $ 10.00 a $ 50.00 diarios desde el día de su salida hasta el de su regreso, ambos inclusive, considerándose éstos completos. Los gastos de transporte y estancia del abogado, serán por cuenta del cliente.
 
 ###### Artículo 31.
 
@@ -277,11 +277,13 @@ Tendrán derecho a cobrar los honorarios antes enumerados en esta Ley, únicamen
 
 Los servicios profesionales que no se encuentren cuotizados (sic) en estos Aranceles, pero que tuvieren analogía con alguno de los especificados en el mismo, causarán las cuotas de los que presten mayor semejanza.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1944)</small>
+
 ###### Artículo 34.
 
-Las disposiciones anteriores regirán cuando el abogado no se encargue de un negocio desde su principio hasta su conclusión en primera instancia; pero en el supuesto de que así fuere, entonces cobrarán los siguientes honorarios: por todo juicio sobre cantidad determinada, desde su principio hasta su conclusión en primera instancia, incluyéndose consultas, juntas, vista de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, si el negocio no pasa de $ 1,000.00, pero no de $ 5,000.00, un 15%; si pasa de $ 5,000.00, pero no de $ 10,000.00, un 12%; si pasa de $ 10,000.00, cualquiera que sea la cantidad, un 4%.
+Las disposiciones anteriores regirán cuando el abogado no se encargue de un negocio desde su principio hasta su conclusión en primera instancia; pero en el supuesto de que así fuere, entonces cobrarán los siguientes honorarios: por todo juicio sobre cantidad determinada, desde su principio hasta su conclusión en primera instancia, incluyéndose consultas, juntas, vistas de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, si el negocio no pasa de $ 1,000.00 un 25%, si pasa de $ 1,000.00 pero no de $ 5,000.00, un 15%; si pasa de $ 5,000.00 pero no de $ 10,000.00, un 12%, si pasa de $ 10,000.00, cualquiera que sea la cantidad, se cobrará como sigue: a) por los primeros $ 10,000.00 el 12%; b) por el resto el 4%.
 
-En segunda instancia, el abogado cobrará por honorarios, en el caso comprendido en el presente artículo, una tercera parte de los fijados para la 1a. instancia.
+En segunda instancia, el abogado cobrará por honorarios, en el caso comprendido en el presente artículo, una tercera parte de los fijados para la primera instancia.
 
 ###### Artículo 35.
 
@@ -503,7 +505,7 @@ Curación de padecimientos bucales, precios convencionales.
 
 ###### Artículo 82.
 
-Análisis químico general de orina, incluyendo elementos celulares $ 5.00.
+Análisis químico general de orina, incluyendo elementos celulares $ 5.00
 
 ###### Artículo 83.
 
@@ -1028,3 +1030,9 @@ RODOLFO T. LOAIZA.
 El Secretario General de Gobierno.
 
 Lic. Teodoro Cruz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 1944.
+
+UNICO.- El presente Decreto empieza a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
