@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2003-10-02"
+last_updated: "2004-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -431,7 +431,9 @@ Para tal efecto, los Ayuntamientos remitirán los bandos y reglamentos al Ejecut
 
 IV.- Intervenir y cooperar con toda clase de autoridades y organismos que promuevan o ejecuten actividades de interés municipal.
 
-V.- Dividir o modificar, para efectos administrativos, el territorio municipal en delegaciones, subdelegaciones, secciones y manzanas, así como designar a sus titulares y suplentes.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+V.- Autorizar, para efectos de auxiliar administrativo, Delegaciones, Subdelegaciones y Jefaturas de Secciones y de Manzanas, extender los nombramientos a sus titulares y conducir las relaciones administrativas, en los términos de este Código.
 
 VI.- Proponer a la aprobación del Congreso, y por conducto del Ejecutivo, a los centros de población, la categoría y denominación política que les corresponda conforme a este Código.
 
@@ -755,6 +757,8 @@ Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
 ### CAPITULO XII. DE LOS ORGANOS AUXILIARES
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 65.
 
 Para el despacho de los asuntos de carácter administrativo y atención de los servicios públicos municipales, los Ayuntamientos contarán con las dependencias necesarias, de acuerdo a las posibilidades económicas del Municipio, quienes auxiliarán al Presidente Municipal en el ejercicio de sus funciones.
@@ -919,39 +923,83 @@ La organización y funcionamiento de la Policía Preventiva se regirá por lo di
 
 ###### ARTICULO 77.
 
-En los poblados que no sean cabecera del Municipio y en las zonas rurales de población, los Ayuntamientos nombrarán Delegados y Subdelegados, quienes tendrán las atribuciones que señala este Código, los bandos o reglamentos, y las funciones que les asignen los propios Ayuntamientos.
+En las comunidades fuera de la cabecera municipal, para el mejor cumplimiento de sus funciones administrativas y vinculación con la sociedad, los Ayuntamientos podrán nombrar Delegados, conforme a las siguientes bases:
 
-Por cada Delegado o Subdelegado se designará un suplente que entrará en funciones en las faltas temporales o absolutas de aquéllos, y a falta de unos y otros, procederá nuevo nombramiento.
+I.- Dentro de los primeros sesenta días de inicio de funciones, el Ayuntamiento recibirá propuestas en terna de las comunidades, con base en la elección democrática de los miembros de la comunidad de que se trate, procediéndose a su evaluación y nombramiento respectivo, por mayoría calificada de dos terceras partes del Cabildo;
+
+II.- Si el procedimiento referido en la fracción anterior concluye con la no elección de alguno de los integrantes de la terna, el Ayuntamiento solicitará a la comunidad el envío de una nueva terna, procediendo inmediatamente a su valoración, deliberación y nombramiento respectivo;
+
+III.- Si el procedimiento referido en la fracción anterior no conduce a la elección correspondiente, el nombramiento se hará eligiendo de una propuesta en terna que presente el Presidente Municipal; y
+
+IV.- Si al concluir el primer mes de ejercicio constitucional del Ayuntamiento, no se presentaran propuestas para los nombramientos a que refiere este artículo, podrá procederse en términos de la fracción anterior.
+
+Cuando se presente la hipótesis referida en la fracción II de este artículo, la elección del Delegado podrá hacerse dentro de los sesenta días de inicio de funciones del Ayuntamiento, pero si no se presentara nueva terna se actuará en términos de la fracción IV de este precepto.
+
+En las comunidades con población superior a los mil habitantes, también podrán nombrarse conjuntamente Subdelegados, conforme a las disposiciones de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 78.
 
-Los Delegados y Subdelegados tendrán las siguientes atribuciones:
+Los Delegados tendrán las siguientes atribuciones:
 
 I.- Intervenir y cooperar con toda clase de Autoridades y Organismos que promuevan o ejecuten actividades de interés municipal.
 
-II.- Fomentar las actividades productivas, educativas, culturales y deportivas.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-III.- Formular, aprobar y administrar la zonificación y el Programa de Desarrollo Urbano Municipal en los términos de las Leyes Federales y Estatales.
+II.- Fomentar las actividades productivas, educativas, culturales, deportivas y las que propicien el desarrollo y bienestar de los habitantes de la comunidad.
 
-IV.- Detener a las personas que sean sorprendidas en flagrante delito, consignándolas de inmediato a disposición de autoridad competente.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-V.- Impedir cualquier acto que sin considerarse delito ofenda la moral, perturbe el orden y la seguridad, cause molestias a las personas o daño sobre las cosas.
+III.- Formular propuestas para los proyectos de zonificación y de Programa de Desarrollo Urbano Municipal, en los términos de las leyes federales y estatales en la materia.
 
-VI.- Auxiliar al Ministerio Público en el ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-VII.- Autorizar el sacrificio de animales que solicite su propietario.
+IV.- Desplegar las medidas necesarias para impedir actos que ofendan la moral, perturben la seguridad o el orden público, o causen molestias a las personas o daños sobre las cosas, dando cuenta inmediata a la Dirección de Seguridad Pública Municipal.
 
-VIII.- Dictar las medidas que estime convenientes sobre vigilancia del orden en lo general.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+V.- Coadyuvar con las autoridades estatales en la prevención e investigación de los delitos en su comunidad.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+VI.- Autorizar el sacrificio de animales, cuando lo solicite su propietario o sea necesario para la salubridad y seguridad de la comunidad.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+VII.- Ejecutar las resoluciones y atender las instrucciones que el Ayuntamiento les comunique, a través del Presidente Municipal o de la autoridad administrativa competente.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+VIII.- Ser un vínculo permanente de comunicación entre el Ayuntamiento y la comunidad.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+IX.- Mantener informado de sus gestiones al Presidente Municipal y a los habitantes de su comunidad, integrando sus informes al Archivo Municipal.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+X.- Las demás que les señalen los Bandos, Reglamentos y demás disposiciones administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Los Subdelegados coadyuvarán en el mejor cumplimiento de las funciones referidas en este artículo.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 79.
 
-Los Ayuntamientos designarán, además, Jefes de sección y de manzana, conforme a la división administrativa territorial de los centros de población, quienes tendrán las atribuciones que les señalen los bandos o reglamentos y las funciones que les asignen los Ayuntamientos.
+Los Ayuntamientos nombrarán, además, Jefes de Sección y de Manzana conforme a la división administrativa territorial que hagan de los centros de población, considerando las propuestas presentadas por los vecinos.
+
+Estos órganos auxiliares tendrán las atribuciones que les señalen los Bandos o Reglamentos, Circulares y aquellas que les asignen los ayuntamientos.
 
 ###### ARTICULO 80.
 
 Los nombramientos de los Delegados, Subdelegados y Jefes de Sección y de manzana recaerán en ciudadanos caracterizados por su buena conducta y que tengan su domicilio en el lugar donde desempeñarán su función.
 
-Las personas a que se refiere este artículo entrarán en el desempeño de sus funciones el día primero de febrero del año de su nombramiento, previa protesta ante el Ayuntamiento.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Los nombramientos expedidos conforme a las disposiciones de este Capítulo expirarán con la conclusión de la administración municipal correspondiente, pudiendo ser removidos de acuerdo a los intereses de la comunidad.
 
 ### CAPITULO XIV. DE LAS RESPONSABILIDADES DE SERVIDORES PUBLICOS
 
@@ -3020,3 +3068,7 @@ P.O. 2 DE DICIEMBRE DE 2002.
 P.O. 2 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2004.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
