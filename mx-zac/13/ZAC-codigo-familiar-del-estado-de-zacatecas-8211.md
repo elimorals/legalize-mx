@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "1996-09-14"
+last_updated: "1997-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -2183,9 +2183,13 @@ Los menores de edad no emancipados están bajo la patria potestad, mientras exis
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 373.
 
 Su ejercicio quedará sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las Leyes aplicables.
+
+Salvo circunstancias excepcionales, no deberá separarse al niño menor de diez años de su madre.
 
 ###### ARTICULO 374.
 
@@ -3415,6 +3419,10 @@ III. Del consentimiento del que lo emancipó para contraer nuevo matrimonio ante
 
 Para los efectos de la aplicación de este Código y de la legislación civil en general, las personas físicas que no hayan cumplido dieciocho años son menores de edad.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1997)</small>
+
+En la aplicación de este Código se deberá tener en cuenta lo que dispone la Ley de los Derechos del Niño en el Estado de Zacatecas, a fin de proporcionar defensa y protección a los menores.
+
 ###### ARTICULO 604.
 
 Es de orden público la atención del ser humano durante la gestación, su nacimiento y minoría de edad.
@@ -4217,8 +4225,6 @@ Dado en el Despacho del Poder Ejecutivo del Estado a los cinco días del mes de 
 
 P.O. 15 DE JULIO DE 1992.
 
-.
-
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
@@ -4236,3 +4242,17 @@ P.O. 14 DE SEPTIEMBRE DE 1996.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
+
+P.O. 5 DE JULIO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 1998.
+
+SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
+
+TERCERO.- Para dar cumplimiento a lo dispuesto en el anterior artículo transitorio, la Secretaría General de Gobierno girará instrucciones a la Dirección de Prevención y Readaptación Social para que a partir de la publicación de este Decreto, levante y mantenga actualizado el censo de la población interna menor de dieciocho años en los Centros de Rehabilitación Social en la Entidad.
+
+CUARTO. El Centro de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
+
+QUINTO.- Las actuaciones practicadas por lo (sic) órganos ministeriales y jurisdiccionales de fuero común, antes del inicio de vigencia de este Decreto, tendrán validez legal por lo que respecta a procesados, sentenciados y reos menores de dieciocho años, únicamente en lo que sean compatibles con el procedimiento que prevé el Código tutelar para Menores del Estado de Zacatecas.
+
+SEXTO. El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar de Menores.
