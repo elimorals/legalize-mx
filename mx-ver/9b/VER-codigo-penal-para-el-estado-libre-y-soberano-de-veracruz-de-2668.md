@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "2001-11-20"
+last_updated: "2001-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2001.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -1707,11 +1707,15 @@ Al que por cualquier medio destruya o deteriore una cosa total o parcialmente aj
 
 La prisión podrá aumentarse hasta diez años y la multa hasta quinientas veces el salario, si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública.
 
-> <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 196.
 
-El delito de daños sólo se perseguirá a petición del legitimado para hacerlo, más si los daños se ocasionaren con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, así como cuando aquél se diese a la fuga y no auxiliare a la víctima del delito, se perseguirá de oficio.
+El delito de daños se perseguirá a petición del legitimado; a excepción de los siguientes casos, en los que será perseguido oficio.
+
+I. Cuando los daños se ocasionaren con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estimulantes o depresores del sistema nervioso central u otras substancias que produzcan efectos similares, así como cuando aquél se diese a la fuga y no auxiliare a la víctima del delito; y
+
+II. Cuando se causen daños a bardas o fachadas de inmuebles del dominio público o de propiedad particular, mediante pintas consistentes en dibujos, símbolos o textos, salvo que se cuente con el consentimiento de quien deba otorgarlo.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -3004,3 +3008,9 @@ G.O. 31 DE JULIO DE 2000.
 G.O. 20 DE NOVIEMBRE DE 2001.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 7 DE DICIEMBRE DE 2001.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
